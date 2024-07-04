@@ -1,12 +1,12 @@
 {
   "description": "With FKA twigs, Crystal Castles, Purity Ring and more",
-  "num_followers": 27322,
+  "num_followers": 27326,
   "original_name": "Grimes Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoS5FgAAAACy2y8qyQVTtuIu1cbdwuuy",
+  "snapshot_id": "ZoX5TgAAAAA3oSnjNmuwRJxseWn8uvRF",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Perfect Girl",
         "url": "https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 194423,
       "name": "The Perfect Girl",
       "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 128198,
-      "name": "Washing Machine Heart",
-      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
     },
     {
       "added_at": null,
@@ -107,26 +107,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deadlights",
-        "url": "https://open.spotify.com/album/3iVTMUgpo7XpqqVHBO0wz3"
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
       },
       "artists": [
         {
-          "name": "Myths",
-          "url": "https://open.spotify.com/artist/0HNS0Re91npRDX0wSo14DZ"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        },
-        {
-          "name": "Majical Cloudz",
-          "url": "https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 318720,
-      "name": "The Horizon",
-      "url": "https://open.spotify.com/track/4Q59V76RnrbeHUNYXMlBoJ"
+      "duration_ms": 128198,
+      "name": "Washing Machine Heart",
+      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
     },
     {
       "added_at": null,
@@ -163,18 +155,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Depression Cherry",
-        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+        "name": "Deadlights",
+        "url": "https://open.spotify.com/album/3iVTMUgpo7XpqqVHBO0wz3"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "Myths",
+          "url": "https://open.spotify.com/artist/0HNS0Re91npRDX0wSo14DZ"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        {
+          "name": "Majical Cloudz",
+          "url": "https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3"
         }
       ],
-      "duration_ms": 320466,
-      "name": "Space Song",
-      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
+      "duration_ms": 318720,
+      "name": "The Horizon",
+      "url": "https://open.spotify.com/track/4Q59V76RnrbeHUNYXMlBoJ"
     },
     {
       "added_at": null,
@@ -299,18 +299,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0yeP5olfo8IIu6UBGfUWHo"
+        "name": "Night Time, My Time",
+        "url": "https://open.spotify.com/album/0DucmDrdJM4evPXMbFJXBS"
       },
       "artists": [
         {
-          "name": "Mr.Kitty",
-          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
         }
       ],
-      "duration_ms": 257147,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql"
+      "duration_ms": 250120,
+      "name": "Everything Is Embarrassing",
+      "url": "https://open.spotify.com/track/7j3nbSiaWphYU2cFgyQXd9"
     },
     {
       "added_at": null,
@@ -399,34 +399,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs & Demos 2015-2017",
-        "url": "https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1"
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0yeP5olfo8IIu6UBGfUWHo"
       },
       "artists": [
         {
-          "name": "Memo Boy",
-          "url": "https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek"
+          "name": "Mr.Kitty",
+          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Brian is the Most Beautiful",
-      "url": "https://open.spotify.com/track/3lhLML5eIwmPnw2xWKosZX"
+      "duration_ms": 257147,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Night Time, My Time",
-        "url": "https://open.spotify.com/album/0DucmDrdJM4evPXMbFJXBS"
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/2nPokmAvYy5qYO4rFU7ZDm"
       },
       "artists": [
         {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 250120,
-      "name": "Everything Is Embarrassing",
-      "url": "https://open.spotify.com/track/7j3nbSiaWphYU2cFgyQXd9"
+      "duration_ms": 258969,
+      "name": "Ribs",
+      "url": "https://open.spotify.com/track/38WyDtxZhxm63jiythwemE"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songs & Demos 2015-2017",
+        "url": "https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1"
+      },
+      "artists": [
+        {
+          "name": "Memo Boy",
+          "url": "https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Brian is the Most Beautiful",
+      "url": "https://open.spotify.com/track/3lhLML5eIwmPnw2xWKosZX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Abyss",
         "url": "https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 247000,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/5fr0ocIee7TpDCRWaK0002"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ribbed Music For The Numb Generation",
-        "url": "https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW"
-      },
-      "artists": [
-        {
-          "name": "Sohodolls",
-          "url": "https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN"
-        }
-      ],
-      "duration_ms": 181640,
-      "name": "Bang Bang Bang Bang",
-      "url": "https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
       "duration_ms": 159315,
       "name": "Shinigami Eyes",
       "url": "https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ribbed Music For The Numb Generation",
+        "url": "https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW"
+      },
+      "artists": [
+        {
+          "name": "Sohodolls",
+          "url": "https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Bang Bang Bang Bang",
+      "url": "https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3"
     },
     {
       "added_at": null,
@@ -583,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1"
-      },
-      "artists": [
-        {
-          "name": "b\u00f4a",
-          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Duvet",
-      "url": "https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Art Angels",
         "url": "https://open.spotify.com/album/1t9k2P4C88alWEikeJb4mI"
       },
@@ -631,22 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moon and the Melodies",
-        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1"
       },
       "artists": [
         {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
         }
       ],
-      "duration_ms": 189040,
-      "name": "Sea, Swallow Me",
-      "url": "https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS"
+      "duration_ms": 203600,
+      "name": "Duvet",
+      "url": "https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM"
     },
     {
       "added_at": null,
@@ -743,18 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cults",
-        "url": "https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M"
+        "name": "Instrumental Relics",
+        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
       },
       "artists": [
         {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
         }
       ],
-      "duration_ms": 218560,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/1caFMoQlQyF5JHvfPNe49E"
+      "duration_ms": 277710,
+      "name": "I'm God",
+      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cults",
+        "url": "https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 218560,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/1caFMoQlQyF5JHvfPNe49E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Be the Cowboy",
         "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
       },
@@ -807,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 318591,
+      "name": "Eventually",
+      "url": "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sour Switchblade",
         "url": "https://open.spotify.com/album/0165PYHqH1iILn2HtbT3R4"
       },
@@ -819,38 +851,6 @@
       "duration_ms": 148955,
       "name": "Sour Switchblade",
       "url": "https://open.spotify.com/track/4wFeMmJDlgkAxlQ07PbdGZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COLLXTION I",
-        "url": "https://open.spotify.com/album/3Zhiq40rr6sT7do5oJ2qzN"
-      },
-      "artists": [
-        {
-          "name": "Allie X",
-          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "BITCH",
-      "url": "https://open.spotify.com/track/3AtVQOM4g0dB9DZhvwQdkA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 122338,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
     }
   ],
   "unique_name": "Grimes Radio",

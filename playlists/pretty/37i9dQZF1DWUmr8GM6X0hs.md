@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,885 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,929 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,15 +31,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 21 | [Añoranza Del Amor](https://open.spotify.com/track/1auJ2tnUfJ0ML5Kv5vWMeC) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Añoranza Del Amor](https://open.spotify.com/album/16XbyQNgGpgeIL36kLTbR4) | 2:58 |
 | 22 | [Busco Tu Recuerdo](https://open.spotify.com/track/2GGnD1MQHcIzFqaSuVoNLh) | [Charlie Figueroa](https://open.spotify.com/artist/775LHjObPigWuiQn78ojJS), [Sonora Malecon Club](https://open.spotify.com/artist/0KumvinlqqxSHrL1gNjPza) | [Mis Mejores Éxitos](https://open.spotify.com/album/55TCdVzDnHXf8lYKV72V7u) | 2:42 |
 | 23 | [Los Aretes De La Luna](https://open.spotify.com/track/42TjkXmdeykjRoGm8XS2x8) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Vicentico Valdés](https://open.spotify.com/artist/6yQZkZC0BnKuZzuO1DAf3J) | [Vicentico Valdés Con La Sonora Matancera](https://open.spotify.com/album/4ZlrS11JlhwkbtJ3fOglIS) | 2:25 |
-| 24 | [Privilegio](https://open.spotify.com/track/3KhoUV7LX6qKjnXBXvMoct) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Doble Filo](https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA) | 5:14 |
-| 25 | [Dimelo](https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL) | [Toda una Vida](https://open.spotify.com/album/5vDTFuOk5kEFLFb5PsampY) | 2:58 |
+| 24 | [Dimelo](https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL) | [Toda una Vida](https://open.spotify.com/album/5vDTFuOk5kEFLFb5PsampY) | 2:58 |
+| 25 | [Privilegio](https://open.spotify.com/track/3KhoUV7LX6qKjnXBXvMoct) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Doble Filo](https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA) | 5:14 |
 | 26 | [Total](https://open.spotify.com/track/5nUf759XOaK2vnUws4acJM) | [Bienvenido Granda](https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4) | [Canta Sus Exitos](https://open.spotify.com/album/7uCFS6G1cwDikioDJhFHO2) | 3:03 |
 | 27 | [Cabellitos de Mi Madre](https://open.spotify.com/track/5CEIxkQc67VmkkR2pQljSj) | [Ramón Avilés](https://open.spotify.com/artist/1IJ4cVs5Zjf2445S6ge2R1) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:00 |
 | 28 | [Como Fué](https://open.spotify.com/track/7yvBuMGvWigRvJgwtKEPLD) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Benny Moré Mágico](https://open.spotify.com/album/6eR6hzbY2nRAOEn04Ckixb) | 2:58 |
 | 29 | [En El Balcon Aquel](https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:17 |
 | 30 | [Que Te Vayas Bien](https://open.spotify.com/track/7CG1BiJZwcW1lQomfgbsfm) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Los Triunfadores de la Rockola](https://open.spotify.com/album/7mtgs85XZjFjnnEa5BKHRw) | 3:00 |
-| 31 | [Y Después Del Amor](https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [50 Años Live](https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS) | 5:35 |
-| 32 | [Escándalo / Luz y Sombra](https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ) | [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Mucho Corazón](https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU) | 3:11 |
+| 31 | [Escándalo / Luz y Sombra](https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ) | [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Mucho Corazón](https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU) | 3:11 |
+| 32 | [Y Después Del Amor](https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [50 Años Live](https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS) | 5:35 |
 | 33 | [Loca Ansiedad](https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO) | [Raul Lopez](https://open.spotify.com/artist/0WoNXUXKyGZ4gzN2uJgp6S), [Orquesta de Ricaurte Arias](https://open.spotify.com/artist/7wR8LmVjcmGvqdOHZGhWAr) | [Loca Ansiedad](https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s) | 2:55 |
 | 34 | [Corazón Herido](https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:10 |
 | 35 | [El mago y la publicidad](https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El mago y la publicidad](https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o) | 2:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,674 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,744 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 26 | [Rede no Coqueiro](https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Entre Borboletas e Aviões](https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC) | 3:27 |
 | 27 | [pequena \- Ao Vivo](https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q) | 2:54 |
 | 28 | [Sereia](https://open.spotify.com/track/4Vp6fTExWK3hPTrY9AkXyq) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Pelo mundo](https://open.spotify.com/album/1LdtvPmNJBTpAAKG6ttpym) | 3:16 |
-| 29 | [Uma Noite E 1/2](https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS) | [Rodrigo Costa](https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7) | [Uma Noite E 1/2](https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua) | 2:50 |
-| 30 | [Go Back](https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e) | [Patrícia Ahmaral](https://open.spotify.com/artist/2iWBU8uSOix81wnZtwDqLx), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Go Back](https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y) | 3:10 |
+| 29 | [Go Back](https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e) | [Patrícia Ahmaral](https://open.spotify.com/artist/2iWBU8uSOix81wnZtwDqLx), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Go Back](https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y) | 3:10 |
+| 30 | [Uma Noite E 1/2](https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS) | [Rodrigo Costa](https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7) | [Uma Noite E 1/2](https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua) | 2:50 |
 | 31 | [LEVE](https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo) | [Thiago Muller](https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi) | [LEVE](https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr) | 2:23 |
 | 32 | [Saquarema \- Remix](https://open.spotify.com/track/3UroqLcI69FDBw4l41iVGO) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Saquarema \(Remix\)](https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr) | 3:52 |
 | 33 | [Bora Chamegar](https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa) | [Tribo De Jah](https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv), [João Beydoun](https://open.spotify.com/artist/5vcL0DhIdXrwxyp791wrFM) | [Revolvendo as Raizes](https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf) | 3:50 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 38 | [Caiçara](https://open.spotify.com/track/348fxaFJRVpt775GjR31aM) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Caiçara](https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK) | 2:54 |
 | 39 | [Sol da Meia\-Noite](https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt) | [Nathan Carvalho](https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl), [Zeider](https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW) | [Sol da Meia\-Noite](https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7) | 3:29 |
 | 40 | [Vou Agradecer](https://open.spotify.com/track/6FpK0zclfVVqFBQHxxp4cl) | [Gabriel Carmo](https://open.spotify.com/artist/5apI1VSAPnJvQWMMUpQXPc), [Manu Testa](https://open.spotify.com/artist/15xByX487ejik5EeNySqxQ) | [Vou Agradecer](https://open.spotify.com/album/41TqnxKqqb5N0HlkVlBk0A) | 3:39 |
-| 41 | [Our Love](https://open.spotify.com/track/1unAQNaxmur5SxDEHJvqNL) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb) | [Our Love](https://open.spotify.com/album/1GhDBChURERKoa0hIcJkIf) | 2:44 |
-| 42 | [Santa Terra](https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG) | [Qback](https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q) | [Santa Terra](https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B) | 4:36 |
-| 43 | [Terra do Sol](https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf) | [Calmô](https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy), [Tupi Machine](https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l) | [Terra do Sol](https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8) | 2:33 |
+| 41 | [Terra do Sol](https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf) | [Calmô](https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy), [Tupi Machine](https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l) | [Terra do Sol](https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8) | 2:33 |
+| 42 | [Our Love](https://open.spotify.com/track/1unAQNaxmur5SxDEHJvqNL) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb) | [Our Love](https://open.spotify.com/album/1GhDBChURERKoa0hIcJkIf) | 2:44 |
+| 43 | [Santa Terra](https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG) | [Qback](https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q) | [Santa Terra](https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B) | 4:36 |
 | 44 | [Lua Crescente](https://open.spotify.com/track/3pxlJ6ekcf3e5AIwbU9Wzt) | [Calbertini](https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH) | [Lua Crescente](https://open.spotify.com/album/4Fa9dI4joZ8SYsXOSKIlEu) | 3:21 |
 | 45 | [O Que te Faz Viver](https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS) | [Kallibre](https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7) | [O Que te Faz Viver](https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr) | 3:50 |
 | 46 | [Jah Bless](https://open.spotify.com/track/5WTkJOM7RYui9Fj7OGzWch) | [Gaiuna](https://open.spotify.com/artist/7DbjEZyIXYZy7q7563s90d) | [Jah Bless](https://open.spotify.com/album/3DM0LwaeVcO4SrobtimYxB) | 3:27 |

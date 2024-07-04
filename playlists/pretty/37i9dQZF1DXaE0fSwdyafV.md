@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 
 > It's the witching hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,424 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,405 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 11 | [Female Energy, Part 2](https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:53 |
 | 12 | [Cinnamon Girl](https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 |
 | 13 | [Cosmic Love](https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:15 |
-| 14 | [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:08 |
+| 14 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 |
 | 15 | [willow \- moonlit witch version](https://open.spotify.com/track/5XkJj6sV2XLMaURdmdXgNx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [willow \(moonlit witch version\)](https://open.spotify.com/album/5rZ2dHO8pco3A7cYToyvR0) | 3:28 |
-| 16 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 |
+| 16 | [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:08 |
 | 17 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 |
 | 18 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 |
 | 19 | [Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:24 |
@@ -54,15 +54,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 44 | [Fallingwater](https://open.spotify.com/track/2CPLGREl5ahzA2WPBMkpxh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 4:31 |
 | 45 | [Sweet November](https://open.spotify.com/track/7swGurTfZlwx7mTOE8PpIc) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 4:03 |
 | 46 | [notre dame](https://open.spotify.com/track/4ni2PRjuIORNFXvWB74SqX) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [notre dame](https://open.spotify.com/album/6FG85HWGBfk6AbHszOjuSN) | 4:18 |
-| 47 | [Dear Prudence](https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 3:48 |
-| 48 | [Right Down the Line](https://open.spotify.com/track/5wnIDrgujfOoHAHXVRpUMF) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/0ZD5b1lLNLZH8rMq1bOhkh) | 4:27 |
-| 49 | [Dancing Barefoot](https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 4:16 |
+| 47 | [Dancing Barefoot](https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 4:16 |
+| 48 | [Dear Prudence](https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 3:48 |
+| 49 | [Right Down the Line](https://open.spotify.com/track/5wnIDrgujfOoHAHXVRpUMF) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/0ZD5b1lLNLZH8rMq1bOhkh) | 4:27 |
 | 50 | [Savage Daughter](https://open.spotify.com/track/0dVnj3XPVTHfCvxpbIDOcx) | [Sarah Hester Ross](https://open.spotify.com/artist/3G5WkIXbDxdNoGWHZbXDjI) | [Savage Daughter](https://open.spotify.com/album/0Ts5Jzl0y8Nc13RVuEJFxi) | 2:58 |
 | 51 | [Sidelines](https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Sidelines](https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF) | 4:24 |
 | 52 | [to Perth, before the border closes](https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [to Perth, before the border closes](https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS) | 2:56 |
 | 53 | [Saw You in a Dream](https://open.spotify.com/track/7dujOm8FJcepmVBQjqdswN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You in a Dream](https://open.spotify.com/album/1K4hiGtecpTxNLajyHVX3h) | 3:28 |
-| 54 | [Where Is My Mind?](https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Where Is My Mind?](https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE) | 2:57 |
-| 55 | [Cola](https://open.spotify.com/track/0i6c86ntKJoZpKk8aCHL3c) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Cola](https://open.spotify.com/album/292dfJsxChA6s32kXGrrd4) | 3:49 |
+| 54 | [Cola](https://open.spotify.com/track/0i6c86ntKJoZpKk8aCHL3c) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Cola](https://open.spotify.com/album/292dfJsxChA6s32kXGrrd4) | 3:49 |
+| 55 | [Where Is My Mind?](https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Where Is My Mind?](https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE) | 2:57 |
 | 56 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 |
 | 57 | [Seven Devils](https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 5:03 |
 | 58 | [peppermint](https://open.spotify.com/track/7EBungIZdfO2SgFxqFtGfE) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [peppermint](https://open.spotify.com/album/00xJmSdJgpfCZ3MFz4sZQQ) | 2:12 |

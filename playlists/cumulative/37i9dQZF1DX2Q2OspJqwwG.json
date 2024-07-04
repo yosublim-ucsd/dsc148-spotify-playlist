@@ -703,6 +703,32 @@
     },
     {
       "album": {
+        "name": "How You Samba",
+        "url": "https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151680,
+      "name": "How You Samba",
+      "url": "https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1"
+    },
+    {
+      "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
       },
@@ -1516,7 +1542,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 204445,
       "name": "Romeo si Julieta",
       "url": "https://open.spotify.com/track/7MMsotK7YIHmWfgmKdcivz"

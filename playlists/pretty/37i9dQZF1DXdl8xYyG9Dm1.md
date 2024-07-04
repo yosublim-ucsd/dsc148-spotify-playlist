@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: Olamide
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,157 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,237 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xC36w.md) - [plain]
 
 > This is Joan Sebastian\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,808 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 860,199 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xC36w.md) - [plain]
 | 7 | [Rumores](https://open.spotify.com/track/1DVZafFlOB53zfGDVs8w1s) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 3:42 |
 | 8 | [Un Idiota](https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:19 |
 | 9 | [Bandido De Amores](https://open.spotify.com/track/5gbThduFQLh53m500xE54t) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 2:58 |
-| 10 | [Diséñame](https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:06 |
-| 11 | [Veinticinco Rosas](https://open.spotify.com/track/5ZsKEtkOiiPe5h87OEusdM) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 3:00 |
+| 10 | [Amor Limosnero](https://open.spotify.com/track/4vRYHPaBsfsgpvtgyzKVaB) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 3:40 |
+| 11 | [Diséñame](https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:06 |
 | 12 | [Secreto De Amor](https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 4:33 |
 | 13 | [Maracas](https://open.spotify.com/track/5Cf8MCD6NcYvy8RQL2khAS) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 3:08 |
 | 14 | [Que Sea](https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Que Sea](https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR) | 2:50 |
@@ -47,15 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xC36w.md) - [plain]
 | 37 | [Melodía Para Dos](https://open.spotify.com/track/623Lx99JwTGxEivWzNIyX0) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:06 |
 | 38 | [Como Tú Decidas](https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con El Mariachi Vargas](https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX) | 3:07 |
 | 39 | [El Primer Tonto \- En Vivo](https://open.spotify.com/track/0JE86Ioa8unmDIhS8bQvIu) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [En Vivo](https://open.spotify.com/album/02GT5XJ8SONxqFAY9xW0aI) | 3:46 |
-| 40 | [En Tu Sonrisa](https://open.spotify.com/track/1fH1YGzkP3mQrZhtwGrtp7) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño](https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em) | 3:07 |
-| 41 | [Juliantla](https://open.spotify.com/track/7vrIweMapxdothM6NNPYy5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:24 |
-| 42 | [El Gallo Celoso](https://open.spotify.com/track/0W4xWWd28GhyzXOsXHV5b5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 2:56 |
-| 43 | [Qué No Te Asombre](https://open.spotify.com/track/0efW8EeMZJJePa39Xt8g23) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Joan Sebastian Con Mariachi](https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M) | 3:41 |
-| 44 | [La Derrota](https://open.spotify.com/track/44P2cTsJ3QF8HQsgdlMJge) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [13 Celebrando El 13](https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5) | 3:19 |
-| 45 | [Oiga Primo](https://open.spotify.com/track/0rhqoE4lso2Q4NvzlEL76W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian con Tambora](https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi) | 2:16 |
-| 46 | [En Un Jaripeo](https://open.spotify.com/track/3gshXrjB7upvVYgyQo5R4l) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 2:34 |
-| 47 | [Afortunado](https://open.spotify.com/track/1X6s95fLr0C2UfS08f2bhv) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ) | 3:15 |
-| 48 | [De Ellas](https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [De Ellas](https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN) | 3:57 |
-| 49 | [Me La Escondieron Sus Padres](https://open.spotify.com/track/1Ke5g7pgyPRt5xaO5OBBhN) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 3:23 |
+| 40 | [El Perdedor](https://open.spotify.com/track/7fnWTFPCOrP3Hmp7zHXq1Z) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mis Nuevas Baladas](https://open.spotify.com/album/2h3DQl3byNnb8XWKG47QIJ) | 3:06 |
+| 41 | [En Tu Sonrisa](https://open.spotify.com/track/1fH1YGzkP3mQrZhtwGrtp7) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño](https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em) | 3:07 |
+| 42 | [Juliantla](https://open.spotify.com/track/7vrIweMapxdothM6NNPYy5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:24 |
+| 43 | [El Gallo Celoso](https://open.spotify.com/track/0W4xWWd28GhyzXOsXHV5b5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 2:56 |
+| 44 | [Qué No Te Asombre](https://open.spotify.com/track/0efW8EeMZJJePa39Xt8g23) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Joan Sebastian Con Mariachi](https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M) | 3:41 |
+| 45 | [La Derrota](https://open.spotify.com/track/44P2cTsJ3QF8HQsgdlMJge) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [13 Celebrando El 13](https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5) | 3:19 |
+| 46 | [Oiga Primo](https://open.spotify.com/track/0rhqoE4lso2Q4NvzlEL76W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian con Tambora](https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi) | 2:16 |
+| 47 | [En Un Jaripeo](https://open.spotify.com/track/3gshXrjB7upvVYgyQo5R4l) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 2:34 |
+| 48 | [Afortunado](https://open.spotify.com/track/1X6s95fLr0C2UfS08f2bhv) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ) | 3:15 |
+| 49 | [De Ellas](https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [De Ellas](https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN) | 3:57 |
+| 50 | [Me La Escondieron Sus Padres](https://open.spotify.com/track/1Ke5g7pgyPRt5xaO5OBBhN) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 3:23 |
 
-Snapshot ID: `ZoHxgAAAAADuWdeKt0jjn2EH7SOoPc6e`
+Snapshot ID: `ZoNDAAAAAACJ2AJKGqD6fLrSo8I+j1yD`

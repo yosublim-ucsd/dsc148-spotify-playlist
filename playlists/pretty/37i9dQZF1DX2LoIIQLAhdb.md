@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Merveille
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,978 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,003 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

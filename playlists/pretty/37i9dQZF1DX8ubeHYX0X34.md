@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 
 > Timeless Pakistani hits, all in one place\. Cover \- Junaid Jamshed
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,489 likes - 70 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,520 likes - 70 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,18 +43,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 33 | [Mehndi](https://open.spotify.com/track/0hZezjFqU0H81Fq4UCYMv0) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp) | [Jind Jan Sohniyie](https://open.spotify.com/album/4ZaLIwVcrgO7Cshf1rBkjh) | 5:35 |
 | 34 | [Najane Kyun](https://open.spotify.com/track/54i9EEnoUyvgTaKLeqYCU6) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Dhaani](https://open.spotify.com/album/1JV7W8JrdR7j6LRkAAk5cw) | 5:05 |
 | 35 | [Dil Haray Pukaray](https://open.spotify.com/track/2Er9taUNaVTJI6Xt0vFu4P) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Aadat](https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5) | 4:47 |
-| 36 | [Bewafa](https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bewafa](https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg) | 3:44 |
-| 37 | [Na Ra Na Re](https://open.spotify.com/track/38vz3gwpnZE3oB9uCiPuid) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Social Circus](https://open.spotify.com/album/4Nj2wbrQ8k2pzh4XQktP3K) | 5:41 |
-| 38 | [Gharaj Baras](https://open.spotify.com/track/1YGfqXj3SSPzWRqJCorYMX) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Daur\- E\- Junoon](https://open.spotify.com/album/7c04CbNojtqIw81Mw3f7Ny) | 4:48 |
+| 36 | [Na Ra Na Re](https://open.spotify.com/track/38vz3gwpnZE3oB9uCiPuid) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Social Circus](https://open.spotify.com/album/4Nj2wbrQ8k2pzh4XQktP3K) | 5:41 |
+| 37 | [Gharaj Baras](https://open.spotify.com/track/1YGfqXj3SSPzWRqJCorYMX) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Daur\- E\- Junoon](https://open.spotify.com/album/7c04CbNojtqIw81Mw3f7Ny) | 4:48 |
+| 38 | [Bewafa](https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bewafa](https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg) | 3:44 |
 | 39 | [Mahbooba](https://open.spotify.com/track/33QlB4QT6ch7weJkrziPzZ) | [Haroon](https://open.spotify.com/artist/4S0WPsBEcic5O5Dv2aAPvM) | [Lagan](https://open.spotify.com/album/0G3x2gvv9mln6cJvCdyML2) | 4:38 |
 | 40 | [Khaireyan De Naal](https://open.spotify.com/track/0WxdqHRbdQ1R83ZvZ0qerN) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Tabeer](https://open.spotify.com/album/6zvlSsksjFjshGKJm3lJWD) | 4:36 |
 | 41 | [Bin Tere Kya Hai Jeena](https://open.spotify.com/track/5H37ud3obrc1uqRbpxIwJX) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp) | [Bol Tujhe Kya Chahiye](https://open.spotify.com/album/4pF6gcm1SuGxeu3Ds9JU8Q) | 4:41 |
 | 42 | [Anjane](https://open.spotify.com/track/57Dbp1AR7YQQUO2yuH9Chs) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Duur](https://open.spotify.com/album/5MDx3qMlEeLqvYeR1fNzg4) | 4:49 |
-| 43 | [Amplifier](https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Amplifier](https://open.spotify.com/album/5EC9dpKhvj5niMAA4HRmfQ) | 3:52 |
-| 44 | [Khuda Ke Liye](https://open.spotify.com/track/4U3uG2DhO300tkqdXlbNjI) | [Mustafa Zahid](https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98) | [Runway](https://open.spotify.com/album/2Pbn0X5zYXVbOvhDDKpPa4) | 4:47 |
+| 43 | [Khuda Ke Liye](https://open.spotify.com/track/4U3uG2DhO300tkqdXlbNjI) | [Mustafa Zahid](https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98) | [Runway](https://open.spotify.com/album/2Pbn0X5zYXVbOvhDDKpPa4) | 4:47 |
+| 44 | [Amplifier](https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Amplifier](https://open.spotify.com/album/5EC9dpKhvj5niMAA4HRmfQ) | 3:52 |
 | 45 | [Meray Log](https://open.spotify.com/track/2YLYj3H91rrrU5TMt2yGyn) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Peeli Patti Aur Raja Jani Ki Gol Dunya](https://open.spotify.com/album/1ulFNPGcDNipaa6e1SbHsj) | 4:31 |
-| 46 | [Sali Tu Maney Nahi](https://open.spotify.com/track/0TjKYEnNKghcdci6kKyeFK) | [Shehzad Roy](https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4) | [Buri Baat Hai](https://open.spotify.com/album/0OTlz9jTKBc1Ws8Ie8QyWu) | 4:04 |
-| 47 | [Teri Yaad](https://open.spotify.com/track/5R1mYWLSQ896Pfqa4iMCKH) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Aadat](https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5) | 6:18 |
+| 46 | [Teri Yaad](https://open.spotify.com/track/5R1mYWLSQ896Pfqa4iMCKH) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Aadat](https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5) | 6:18 |
+| 47 | [Sali Tu Maney Nahi](https://open.spotify.com/track/0TjKYEnNKghcdci6kKyeFK) | [Shehzad Roy](https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4) | [Buri Baat Hai](https://open.spotify.com/album/0OTlz9jTKBc1Ws8Ie8QyWu) | 4:04 |
 | 48 | [Pappu Yaar](https://open.spotify.com/track/1nwJqXuGRkqWNCArdF3gMC) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Deewar](https://open.spotify.com/album/3xacHPm5pZVNYR6DIT3kNE) | 2:50 |
 | 49 | [Dil Ruba](https://open.spotify.com/track/65PDojUz0VanKRIHCEDddm) | [Faakhir](https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj) | [Aatish](https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO) | 3:47 |
 | 50 | [Rangeen](https://open.spotify.com/track/68NKwqYYhDz347R1w0z5sD) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Huqa Pani](https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb) | 4:35 |

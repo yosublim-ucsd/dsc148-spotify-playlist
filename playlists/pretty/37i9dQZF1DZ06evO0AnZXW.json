@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2929080,
+  "num_followers": 2929575,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAC4NRrj1IaMDPxM8pVjQx3K",
+  "snapshot_id": "ZoNDAAAAAADgYwzErtSRfaoBAWFa8ndZ",
   "tracks": [
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Baby 2: All Grown Up",
-        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 213132,
-      "name": "Roll in Peace (feat. XXXTENTACION)",
-      "url": "https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revenge",
         "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
       },
@@ -575,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "? (Deluxe)",
+        "url": "https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 103986,
+      "name": "hate will never win",
+      "url": "https://open.spotify.com/track/3TzgIJC8U7o57nx8xnWvnt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Vibes Forever",
         "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
       },
@@ -607,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SKINS",
+        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 150769,
+      "name": "what are you so afraid of",
+      "url": "https://open.spotify.com/track/57nOpVSc3j9o03Cr928ZM4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Will Regret (Reloaded)",
         "url": "https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h"
       },
@@ -623,22 +635,6 @@
       "duration_ms": 210386,
       "name": "Take A Step Back",
       "url": "https://open.spotify.com/track/2gQYziDV5cSTRSqr6akzi5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SKINS",
-        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 150769,
-      "name": "what are you so afraid of",
-      "url": "https://open.spotify.com/track/57nOpVSc3j9o03Cr928ZM4"
     },
     {
       "added_at": null,
@@ -675,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SKINS",
+        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 108034,
+      "name": "Guardian angel",
+      "url": "https://open.spotify.com/track/7uqcLJFlSYjVPLUz1vPxkY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "XXXTENTACION Presents: Members Only, Vol. 3",
         "url": "https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn"
       },
@@ -699,22 +711,6 @@
       "duration_ms": 118360,
       "name": "Curse",
       "url": "https://open.spotify.com/track/5BYCMWNQqz4nqErN1ReRGL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SKINS",
-        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 108034,
-      "name": "Guardian angel",
-      "url": "https://open.spotify.com/track/7uqcLJFlSYjVPLUz1vPxkY"
     },
     {
       "added_at": null,
@@ -751,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LOOK AT ME: THE ALBUM",
+        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "I spoke to the devil in miami, he said everything would be fine",
+      "url": "https://open.spotify.com/track/4VnR7plUitZ788acvBHdP6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "XXXTENTACION Presents: Members Only, Vol. 3",
         "url": "https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn"
       },
@@ -767,22 +779,6 @@
       "duration_ms": 203493,
       "name": "Off the Wall!",
       "url": "https://open.spotify.com/track/0GRmh4ZlobfhvDE9L4CbOs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LOOK AT ME: THE ALBUM",
-        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "I spoke to the devil in miami, he said everything would be fine",
-      "url": "https://open.spotify.com/track/4VnR7plUitZ788acvBHdP6"
     },
     {
       "added_at": null,
@@ -819,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LOOK AT ME: THE ALBUM",
+        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "King Of The Dead",
+      "url": "https://open.spotify.com/track/46OkOaarmTsAQQFfZSsruW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "XXXTENTACION Presents: Members Only, Vol. 3",
         "url": "https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn"
       },
@@ -844,9 +856,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 219560,
-      "name": "King Of The Dead",
-      "url": "https://open.spotify.com/track/46OkOaarmTsAQQFfZSsruW"
+      "duration_ms": 173320,
+      "name": "#ImSippinTeaInYoHood",
+      "url": "https://open.spotify.com/track/2z6W6oeZvBaO56Mg587v0w"
     },
     {
       "added_at": null,
@@ -871,22 +883,6 @@
       "duration_ms": 209107,
       "name": "Slipknot",
       "url": "https://open.spotify.com/track/2NaIkDKuKrAcHoj8moeIQV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LOOK AT ME: THE ALBUM",
-        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "#ImSippinTeaInYoHood",
-      "url": "https://open.spotify.com/track/2z6W6oeZvBaO56Mg587v0w"
     }
   ],
   "unique_name": "This Is XXXTENTACION",

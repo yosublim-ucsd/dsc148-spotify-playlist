@@ -1,6 +1,6 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 141741,
+  "num_followers": 141771,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
+        "name": "Caminho Estreito",
+        "url": "https://open.spotify.com/album/1M6L3XXaZQhnAR1gcuXlCL"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Siss\u00e1",
+          "url": "https://open.spotify.com/artist/5bcgyumeouaAtB9NlPL5X3"
+        },
+        {
+          "name": "Bullara",
+          "url": "https://open.spotify.com/artist/4JBE4ckjSxHtAeMJyFNsqd"
+        }
+      ],
+      "duration_ms": 204294,
+      "name": "Caminho Estreito",
+      "url": "https://open.spotify.com/track/0OFBnd9FyQ45MEnfr71y8X"
+    },
+    {
+      "added_at": "2024-06-28 03:01:00",
+      "album": {
         "name": "Visita",
         "url": "https://open.spotify.com/album/78wHMwGlGTHNL70AxQYZGr"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 326136,
       "name": "Eu Te Amo, Senhor",
       "url": "https://open.spotify.com/track/5U7C8i2lCvsPdgWJQwG7ZY"
-    },
-    {
-      "added_at": "2024-06-28 03:01:00",
-      "album": {
-        "name": "Caminho Estreito",
-        "url": "https://open.spotify.com/album/1M6L3XXaZQhnAR1gcuXlCL"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Siss\u00e1",
-          "url": "https://open.spotify.com/artist/5bcgyumeouaAtB9NlPL5X3"
-        },
-        {
-          "name": "Bullara",
-          "url": "https://open.spotify.com/artist/4JBE4ckjSxHtAeMJyFNsqd"
-        }
-      ],
-      "duration_ms": 204294,
-      "name": "Caminho Estreito",
-      "url": "https://open.spotify.com/track/0OFBnd9FyQ45MEnfr71y8X"
     },
     {
       "added_at": "2024-06-28 03:01:00",

@@ -1,12 +1,12 @@
 {
-  "description": "This Is U2. Los temas esenciales, todos en una lista.",
-  "num_followers": 1213549,
+  "description": "This is U2. The essential tracks, all in one playlist.",
+  "num_followers": 1213749,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAByqwWnLQ+HBFOKANSOBKcC",
+  "snapshot_id": "ZoNDAAAAAADo0oKgcEYxNs/V/w/k/HlC",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 277476,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
+      "duration_ms": 295515,
+      "name": "With Or Without You",
+      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 295515,
-      "name": "With Or Without You",
-      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
+      "duration_ms": 184543,
+      "name": "Sweetest Thing",
+      "url": "https://open.spotify.com/track/7ndGFo9nZ108KPgXtfYWCe"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 184543,
-      "name": "Sweetest Thing",
-      "url": "https://open.spotify.com/track/7ndGFo9nZ108KPgXtfYWCe"
+      "duration_ms": 337505,
+      "name": "Where The Streets Have No Name - Remastered",
+      "url": "https://open.spotify.com/track/4qgZs0RNjdzKAS22lP0QjY"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
       "duration_ms": 254200,
       "name": "XXX. FEAT. U2.",
       "url": "https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 337505,
-      "name": "Where The Streets Have No Name - Remastered",
-      "url": "https://open.spotify.com/track/4qgZs0RNjdzKAS22lP0QjY"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
       "duration_ms": 316426,
       "name": "Who's Gonna Ride Your Wild Horses",
       "url": "https://open.spotify.com/track/4SzIZFruLhiAzhuMtAhIRt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 292845,
+      "name": "Red Hill Mining Town",
+      "url": "https://open.spotify.com/track/2G4F5Fc0DUFkkODwhWnbmt"
     },
     {
       "added_at": null,

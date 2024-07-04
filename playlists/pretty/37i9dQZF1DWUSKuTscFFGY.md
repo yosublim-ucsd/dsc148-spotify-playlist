@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : Coldplay
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,726 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,749 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 39 | [Cry](https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:06 |
 | 40 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 |
 
-Snapshot ID: `Zn3g4AAAAAB2sPNBJfLQwWl8J4dtOX6F`
+Snapshot ID: `ZoT/4QAAAAAbBEuVHOwLHXth3IPrxbMG`

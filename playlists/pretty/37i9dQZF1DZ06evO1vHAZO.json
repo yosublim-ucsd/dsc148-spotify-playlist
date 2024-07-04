@@ -1,12 +1,12 @@
 {
-  "description": "This is Oasis. The essential tracks, all in one playlist.",
-  "num_followers": 970145,
+  "description": "This Is Oasis. Los temas esenciales, todos en una lista.",
+  "num_followers": 970423,
   "original_name": "This Is Oasis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAAAhrAwZH/6/okkvDhyjyW5",
+  "snapshot_id": "ZoNDAAAAAABHf9cEa1e1kEmrakmxdfp0",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Definitely Maybe",
-        "url": "https://open.spotify.com/album/3LzKUdUTdJb6P7xGN6SotC"
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 192546,
-      "name": "Married With Children",
-      "url": "https://open.spotify.com/track/0oemhAQXaaIHCEARF9JFGg"
+      "duration_ms": 322946,
+      "name": "Rock 'n' Roll Star - Remastered",
+      "url": "https://open.spotify.com/track/4bQHPFjRT6O1KdMCd4cD9u"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 289146,
-      "name": "Cigarettes & Alcohol - Remastered",
-      "url": "https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1"
+      "duration_ms": 392306,
+      "name": "Slide Away - Remastered",
+      "url": "https://open.spotify.com/track/1AvavliFQoc2l0ZCCWa5VG"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 322946,
-      "name": "Rock 'n' Roll Star - Remastered",
-      "url": "https://open.spotify.com/track/4bQHPFjRT6O1KdMCd4cD9u"
+      "duration_ms": 382266,
+      "name": "Whatever - Remastered",
+      "url": "https://open.spotify.com/track/5OWsea313ovaQoXvsgWq79"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 392306,
-      "name": "Slide Away - Remastered",
-      "url": "https://open.spotify.com/track/1AvavliFQoc2l0ZCCWa5VG"
+      "duration_ms": 268000,
+      "name": "Up In The Sky - Remastered",
+      "url": "https://open.spotify.com/track/10fOKTNaGzajbX5SdS00Ut"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dig Out Your Soul",
-        "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 299946,
-      "name": "The Shock Of The Lightning",
-      "url": "https://open.spotify.com/track/72pRggptACNxeYG0vG3V3Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heathen Chemistry",
         "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 189373,
       "name": "She Is Love",
       "url": "https://open.spotify.com/track/01uctxky5IDj8UQvdmcLIv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dig Out Your Soul",
+        "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 260079,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/7Do5xcVXgjNEbXzYUSrPvg"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dig Out Your Soul",
-        "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 260079,
-      "name": "Falling Down",
-      "url": "https://open.spotify.com/track/7Do5xcVXgjNEbXzYUSrPvg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Go Let It Out",
         "url": "https://open.spotify.com/album/1ggiOXW9IWnJrwYOCBttGM"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 233640,
       "name": "Let's All Make Believe",
       "url": "https://open.spotify.com/track/4iM2s0WZFznvgoC0HxZekI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Believe The Truth",
+        "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Turn Up The Sun",
+      "url": "https://open.spotify.com/track/3TYfwCR3kT7ijbiGTGc5kM"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Believe The Truth",
-        "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Turn Up The Sun",
-      "url": "https://open.spotify.com/track/3TYfwCR3kT7ijbiGTGc5kM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D'You Know What I Mean?",
         "url": "https://open.spotify.com/album/0GiKjeftaw3HccbDaA1Ryk"
       },
@@ -603,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Standing On The Shoulder Of Giants",
-        "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 368253,
-      "name": "Gas Panic!",
-      "url": "https://open.spotify.com/track/2klLrvEu0OroEWsJWeafWp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heathen Chemistry",
         "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
       },
@@ -631,6 +599,22 @@
       "duration_ms": 291693,
       "name": "Force Of Nature",
       "url": "https://open.spotify.com/track/3ujwIruj897uySuJuwoPQN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Standing On The Shoulder Of Giants",
+        "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 368253,
+      "name": "Gas Panic!",
+      "url": "https://open.spotify.com/track/2klLrvEu0OroEWsJWeafWp"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dig Out Your Soul",
+        "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 280413,
+      "name": "Bag It Up",
+      "url": "https://open.spotify.com/track/2Sr49PY1vTWFQ8gqMMq0gr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Standing On The Shoulder Of Giants",
         "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
       },
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dig Out Your Soul",
-        "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
+        "name": "The Hindu Times",
+        "url": "https://open.spotify.com/album/1luo1Rqn2siffmttcN13cV"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 280413,
-      "name": "Bag It Up",
-      "url": "https://open.spotify.com/track/2Sr49PY1vTWFQ8gqMMq0gr"
+      "duration_ms": 177600,
+      "name": "Idler's Dream",
+      "url": "https://open.spotify.com/track/2huEk0qKqfsS3IMgjiMKiM"
     },
     {
       "added_at": null,

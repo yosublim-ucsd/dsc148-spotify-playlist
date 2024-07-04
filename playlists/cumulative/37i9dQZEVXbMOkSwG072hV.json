@@ -8005,6 +8005,28 @@
     },
     {
       "album": {
+        "name": "CAF\u00c9 DA MANH\u00c3",
+        "url": "https://open.spotify.com/album/0z7zlM25RbfIxTrBcLmNB5"
+      },
+      "artists": [
+        {
+          "name": "DJ Martins 011",
+          "url": "https://open.spotify.com/artist/67jo9baxf5no2c3MCgw1aq"
+        },
+        {
+          "name": "MC Luiggi",
+          "url": "https://open.spotify.com/artist/3Ie7tlw7AZSqd9GNFjCRAP"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146208,
+      "name": "CAF\u00c9 DA MANH\u00c3",
+      "url": "https://open.spotify.com/track/1R85eEfjDiNYD2M04uqpik"
+    },
+    {
+      "album": {
         "name": "DOCE 22",
         "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
@@ -10540,7 +10562,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 210922,
       "name": "Contando Malote",
       "url": "https://open.spotify.com/track/7shdzRK0IER1VzqQgJTtwN"
@@ -23541,6 +23563,24 @@
     },
     {
       "album": {
+        "name": "KEHLANI",
+        "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122360,
+      "name": "KEHLANI",
+      "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
+    },
+    {
+      "album": {
         "name": "KICK BACK",
         "url": "https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B"
       },
@@ -31519,6 +31559,24 @@
     },
     {
       "album": {
+        "name": "MTG Xote das Meninas",
+        "url": "https://open.spotify.com/album/2CrXn0F662BovtysexmHcn"
+      },
+      "artists": [
+        {
+          "name": "Lukkas",
+          "url": "https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "MTG Xote das Meninas",
+      "url": "https://open.spotify.com/track/1CAVKFwmyMZuSPwBWSKb6A"
+    },
+    {
+      "album": {
         "name": "Mtg \u00c9 Madeirada At\u00e9 O Amanhecer",
         "url": "https://open.spotify.com/album/30rqp9ReUb4pK71M35nwg1"
       },
@@ -31600,7 +31658,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 134168,
       "name": "MTG-SE TU N\u00c3O ABRIR EU VOU INVADIR",
       "url": "https://open.spotify.com/track/4eL49RS88EdEXsSAn9qDQ8"
@@ -31784,7 +31842,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 222578,
       "name": "My Kink Is Karma",
       "url": "https://open.spotify.com/track/32fSZSbxeVoiZShMQKLc6Z"
@@ -34098,7 +34156,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 95999,
       "name": "N\u00e3o Vou Namorar Vs Funk Rj",
       "url": "https://open.spotify.com/track/7uC85V5kVRNxAM0H8a0KXe"
@@ -44562,7 +44620,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 113233,
       "name": "Sonho Dela (Cowboy)",
       "url": "https://open.spotify.com/track/6W196uVRkmQFHbc1XV8DNk"

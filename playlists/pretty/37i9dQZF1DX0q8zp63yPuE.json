@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ponte a jalar sin miedo al \u00e9xito!",
-  "num_followers": 124711,
+  "num_followers": 124721,
   "original_name": "Ponte Chulet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,26 @@
     {
       "added_at": "2023-07-04 19:35:29",
       "album": {
+        "name": "La Jumpa",
+        "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "La Jumpa",
+      "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
+    },
+    {
+      "added_at": "2023-07-04 19:35:29",
+      "album": {
         "name": "AMG",
         "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 174942,
       "name": "AMG",
       "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
-    },
-    {
-      "added_at": "2023-07-04 19:35:29",
-      "album": {
-        "name": "La Jumpa",
-        "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "La Jumpa",
-      "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
     },
     {
       "added_at": "2023-07-04 19:35:29",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-07-04 19:35:29",
       "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 154760,
+      "name": "Brillo",
+      "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
+    },
+    {
+      "added_at": "2023-07-04 19:35:29",
+      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
       },
@@ -843,18 +859,22 @@
     {
       "added_at": "2023-07-04 19:35:29",
       "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 154760,
-      "name": "Brillo",
-      "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
+      "duration_ms": 205299,
+      "name": "As\u00ed Lo Quiso Dios",
+      "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
     },
     {
       "added_at": "2023-07-04 19:35:29",
@@ -883,22 +903,18 @@
     {
       "added_at": "2023-07-04 19:35:29",
       "album": {
-        "name": "DESVELADO",
-        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
       "artists": [
         {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 205299,
-      "name": "As\u00ed Lo Quiso Dios",
-      "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
+      "duration_ms": 225152,
+      "name": "Como Jordan",
+      "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
     },
     {
       "added_at": "2023-07-04 19:35:29",
@@ -915,22 +931,6 @@
       "duration_ms": 196864,
       "name": "Fuga Pa Cali 2",
       "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
-    },
-    {
-      "added_at": "2023-07-04 19:35:29",
-      "album": {
-        "name": "Mi Vida En Un Cigarro 2",
-        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 225152,
-      "name": "Como Jordan",
-      "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
     },
     {
       "added_at": "2023-07-04 19:35:29",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2023-07-04 19:35:29",
       "album": {
+        "name": "MS 20 A\u00f1os",
+        "url": "https://open.spotify.com/album/2uvZN0xtan2MRzQ81NYMhj"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 112733,
+      "name": "El 24",
+      "url": "https://open.spotify.com/track/1gA1RZokrJwv0jP3DWEt1L"
+    },
+    {
+      "added_at": "2023-07-04 19:35:29",
+      "album": {
         "name": "Se Fue La Pantera (En Vivo)",
         "url": "https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 202021,
       "name": "Se Fue La Pantera (En Vivo)",
       "url": "https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob"
-    },
-    {
-      "added_at": "2023-07-04 19:35:29",
-      "album": {
-        "name": "MS 20 A\u00f1os",
-        "url": "https://open.spotify.com/album/2uvZN0xtan2MRzQ81NYMhj"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 112733,
-      "name": "El 24",
-      "url": "https://open.spotify.com/track/1gA1RZokrJwv0jP3DWEt1L"
     },
     {
       "added_at": "2023-07-04 19:35:29",

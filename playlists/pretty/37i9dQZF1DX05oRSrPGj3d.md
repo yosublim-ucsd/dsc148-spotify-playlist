@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,106 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,161 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 34 | [Good Lord Lorrie](https://open.spotify.com/track/0pghPocTwFg6ckBUs52SQ8) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Goodbye Normal Street](https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP) | 5:01 |
 | 35 | [Virginia](https://open.spotify.com/track/0sQkMsh3ojWIw7CIGsXArG) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5) | 4:20 |
 | 36 | [Broke Ass Kid](https://open.spotify.com/track/22NJ4gaxcMI4j5Fg8dbnug) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Broke Ass Kid](https://open.spotify.com/album/2HfPwB24BxVvoZJf6aDVAP) | 4:02 |
-| 37 | [Freight Train](https://open.spotify.com/track/7eoYXgC7gir4LYY1KXGK97) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [The Underdog](https://open.spotify.com/album/3vOJnbTBrWwHPgNBHE9WwU) | 2:55 |
-| 38 | [In My Arms Instead](https://open.spotify.com/track/4hFSl2YfBUCY7RgZ8OhwCO) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Randy Rogers Band](https://open.spotify.com/album/5tvHSuAIkmG9UD8jAmnXup) | 5:18 |
+| 37 | [In My Arms Instead](https://open.spotify.com/track/4hFSl2YfBUCY7RgZ8OhwCO) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Randy Rogers Band](https://open.spotify.com/album/5tvHSuAIkmG9UD8jAmnXup) | 5:18 |
+| 38 | [Freight Train](https://open.spotify.com/track/7eoYXgC7gir4LYY1KXGK97) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [The Underdog](https://open.spotify.com/album/3vOJnbTBrWwHPgNBHE9WwU) | 2:55 |
 | 39 | [Pretty Heart](https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Pretty Heart](https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u) | 4:04 |
 | 40 | [Damn Good Goodbye](https://open.spotify.com/track/1tPAhtdVRtRexRdH9QXOSP) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Blink You'll Miss It](https://open.spotify.com/album/3fWz8gQUrBBsf7y7q1znTq) | 3:32 |
 | 41 | [Wild as You](https://open.spotify.com/track/4IZOdhEvXYWqh5XAXYzBk3) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Gotta Be Me](https://open.spotify.com/album/5TxhzESD1pW7osKlZRFNYD) | 3:06 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 59 | [Wasn't That Drunk \(feat\. Carly Pearce\)](https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Front Row Seat](https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX) | 3:43 |
 | 60 | [Texas Rain](https://open.spotify.com/track/1FeiPr6d63dl8kLxaw8Of5) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Texas Rain](https://open.spotify.com/album/1Yfx2ZD4HnlQSlPrf2fvBa) | 3:38 |
 | 61 | [Choices](https://open.spotify.com/track/7ottDUMz3VomUN2Ln9FWdI) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Cold Hard Truth](https://open.spotify.com/album/1OOYMqvCCRZDdRFezpg8l3) | 3:26 |
-| 62 | [Feelin' Good Again](https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Walking Distance](https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq) | 3:16 |
-| 63 | [Ringling Road](https://open.spotify.com/track/2YUm7yXaklDbTvbwGwf9c4) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Ringling Road](https://open.spotify.com/album/3h5aXIK4YtJ0cRn6aWzN2V) | 4:08 |
+| 62 | [Ringling Road](https://open.spotify.com/track/2YUm7yXaklDbTvbwGwf9c4) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Ringling Road](https://open.spotify.com/album/3h5aXIK4YtJ0cRn6aWzN2V) | 4:08 |
+| 63 | [Feelin' Good Again](https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Walking Distance](https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq) | 3:16 |
 | 64 | [Shotgun Willie](https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:37 |
 | 65 | [Who I Am](https://open.spotify.com/track/5XlN58Ay3R3cE7P7c9XjaC) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [The Blue Light Live](https://open.spotify.com/album/32kw0Q3HsL4Wv1xYlryLL5) | 4:35 |
 | 66 | [Nobody Wins](https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS) | [Radney Foster](https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW) | [Del Rio, Tx 1959](https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe) | 3:30 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 72 | [The Highway Kind](https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 3:59 |
 | 73 | [Kiss Me](https://open.spotify.com/track/4l0L2GAwa3Z2MFGQyolVf0) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [All Night Party](https://open.spotify.com/album/6gMltpGfgzDbsbfYUOeXJR) | 3:28 |
 | 74 | [Sunday Mornin' Comin' Down](https://open.spotify.com/track/4mLo5ouQ9giUdWSAOtn5TK) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Essential Kris Kristofferson](https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3) | 4:30 |
-| 75 | [Tails I Lose](https://open.spotify.com/track/0onu3vmyPJNYC8ARE81uGe) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Tails I Lose](https://open.spotify.com/album/3goaHaBpCfkyHLcw5ReS8b) | 3:45 |
-| 76 | [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 |
+| 75 | [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 |
+| 76 | [Tails I Lose](https://open.spotify.com/track/0onu3vmyPJNYC8ARE81uGe) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Tails I Lose](https://open.spotify.com/album/3goaHaBpCfkyHLcw5ReS8b) | 3:45 |
 | 77 | [Live Forever](https://open.spotify.com/track/4f2K09ZZra4gK8Cyuf6yW6) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz) | [Tramp On Your Street](https://open.spotify.com/album/4VZK4PLoIdugyfsg3ZHon0) | 2:49 |
 | 78 | [Somewhere Down in Texas](https://open.spotify.com/track/1kRlt3v0NI6OLhyMkZZAee) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Pearl Snaps](https://open.spotify.com/album/77K4BgKsROJot7MZJhejJJ) | 5:53 |
 | 79 | [Boots on a Dance Floor](https://open.spotify.com/track/2xD86KrQf1DrMuxu5h4vUT) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Any Night in Texas](https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY) | 3:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,647 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,666 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 27 | [Naplemente](https://open.spotify.com/track/6JAzGbu68HThRHdjJSFsDC) | [DJ Parafa](https://open.spotify.com/artist/1hwxSoe3ivkMKLFSyBCYWe), [Zelena](https://open.spotify.com/artist/41LTbHwvnDncBYGO13WHKI) | [Naplemente](https://open.spotify.com/album/20xaSsv2nvUwB9pZ26ffQw) | 2:54 |
 | 28 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 |
 | 29 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 |
-| 30 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 |
-| 31 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 |
+| 30 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 |
+| 31 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 |
 | 32 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
 | 33 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
 | 34 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 72 | [MEGGYFÁN](https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 2:26 |
 | 73 | [KELET](https://open.spotify.com/track/50oIkRQqZvOUIyW2x88FlD) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Signo](https://open.spotify.com/artist/7p7yZa25So6b8lbCijHW4s) | [KELET](https://open.spotify.com/album/4DfgMtt4dICgV02uUxLyW3) | 3:27 |
 | 74 | [Van cippi](https://open.spotify.com/track/27fZOuA4N6OXDERIHMDLIA) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [IGAZIAKÉRT](https://open.spotify.com/album/79TxTooMGOIBxL57zgx6n1) | 2:01 |
-| 75 | [cipoe](https://open.spotify.com/track/2H5Xte3poqJ1ld8HtmC7yc) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [cipoe](https://open.spotify.com/album/1aNoilrZREe8e16qX2fFTG) | 3:27 |
+| 75 | [gát](https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 3:09 |
 | 76 | [GÁZ](https://open.spotify.com/track/07L9KepMsQ4mG9BLE04mXc) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Jaber](https://open.spotify.com/artist/6T2yephqss2R5uK7CmfLgo) | [GÁZ](https://open.spotify.com/album/3AChlpJwQJBBiGrL1wsizp) | 3:05 |
 | 77 | [Apály](https://open.spotify.com/track/156AeYPPIRgeYJWmC3JUbO) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Apály](https://open.spotify.com/album/1Mh4B5kMXU35AexkEjOlSX) | 2:10 |
 | 78 | [Székelykapu](https://open.spotify.com/track/13EtEH0X61xnyEChVmeb2Q) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 2:50 |
 | 79 | [RÓLAD SZÓL](https://open.spotify.com/track/5doAzQzWfbAWMvh2eXxvdf) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [RÓLAD SZÓL](https://open.spotify.com/album/6cadt4eRkdA10HpjTJbcG3) | 2:39 |
-| 80 | [Boldogtalanság](https://open.spotify.com/track/1NJqCgWaY3kwdt2f7M1iui) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Boldogtalanság](https://open.spotify.com/album/61nJQwXqRRvAcvWWsclK18) | 3:06 |
+| 80 | [Loca](https://open.spotify.com/track/4VXiDjCRkKHvXFhSX7OEri) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [KÚTVÖLGYI SÁRA](https://open.spotify.com/artist/2HFVT3TbcVZW8lWVE4eIka) | [Loca](https://open.spotify.com/album/2nKNusskARBW5lMEt3996z) | 1:54 |
 
 Snapshot ID: `ZoKhAwAAAABHXICG/MjyglDeWkCgz9D5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > Get your Sunday sound right with this collection of current Gospel essentials\. Cover: <a href="spotify:artist:03qM4LmPCrR7CuHTE0WAIW">Koryn Hawthorne</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,006 likes - 63 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,057 likes - 63 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 10 | [God Is In Control](https://open.spotify.com/track/3UQM0cq7p4DDDw3Iv0rN8k) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Right Where You Are](https://open.spotify.com/album/1nM9E1dc2aBJaITJouZT3S) | 3:54 |
 | 11 | [Temple](https://open.spotify.com/track/66XywM16QAO6Stui0fBEAz) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Restore](https://open.spotify.com/album/2Upq0VFnL6M6Q9UlyN8bCx) | 3:59 |
 | 12 | [He Sees You](https://open.spotify.com/track/5AMWaLVjAF8UDJLvWyMCT1) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Give It Time](https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd) | 3:37 |
-| 13 | [We Always Win \- Live at Ramp Church Texas](https://open.spotify.com/track/1i7ukStv7lTLkMAF00Q9f1) | [Pastor Evan D\. Risher](https://open.spotify.com/artist/5v5PlejmZKnkJln0IPIfwt), [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz), [Davarius Crowder](https://open.spotify.com/artist/38My9HGnbUsb1b1XzEIV26) | [We Always Win \(Live at Ramp Church Texas\)](https://open.spotify.com/album/5qXZlAiiELIY8uhZB4lEEm) | 6:07 |
+| 13 | [We Always Win \- Live at Ramp Church Texas](https://open.spotify.com/track/1i7ukStv7lTLkMAF00Q9f1) | [Pastor Evan D\. Risher](https://open.spotify.com/artist/5v5PlejmZKnkJln0IPIfwt), [Culture](https://open.spotify.com/artist/3qvtUcxIU12gIezBfUwcIz), [Davarius Crowder](https://open.spotify.com/artist/59V2NM8f5gvXSnCLRP4vdC) | [We Always Win \(Live at Ramp Church Texas\)](https://open.spotify.com/album/5qXZlAiiELIY8uhZB4lEEm) | 6:07 |
 | 14 | [Feed Me](https://open.spotify.com/track/1qZIiR7Y1x4DFmSwuqfzDu) | [Titus Showers](https://open.spotify.com/artist/6XBycjw3xsUgrPyah0XZsc), [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Feed Me](https://open.spotify.com/album/53JjLZZw7tU2FsJnApvZCM) | 5:11 |
 | 15 | [Amaram Onyewem \- Live](https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Amaram Onyewem \(Live\)](https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP) | 10:42 |
 | 16 | [Aileyipada](https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Aileyipada](https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ) | 6:35 |

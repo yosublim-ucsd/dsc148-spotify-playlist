@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-109 songs - 5 hr 39 min
+110 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Touch](https://open.spotify.com/track/6xa40oo11mx6XTLpZwuLUL) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Touch](https://open.spotify.com/album/34q5aD1Ldo2e7nSQzF608l) | 2:52 | 2024-01-29 |  |
 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 | 2024-01-29 |  |
 | [Under My Skin \(feat\. Charlotte Jane\)](https://open.spotify.com/track/3heHkofB4rcPXF75FF482N) | [Chaël](https://open.spotify.com/artist/4qUDi25koBiqMb7uhHEOHk), [Charlotte Jane](https://open.spotify.com/artist/054xTptvdBhGqiTOHvgUaQ) | [Under My Skin \(feat\. Charlotte Jane\)](https://open.spotify.com/album/7ClTxzoITkU65S1D41hJBQ) | 2:40 | 2024-01-29 |  |
+| [Under Pressure](https://open.spotify.com/track/0DoYf6Azd416hdC4RJiExF) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Under Pressure](https://open.spotify.com/album/4s0vlvFbClAyq32ZhA6c5d) | 2:34 | 2024-07-03 |  |
 | [Under The Influence](https://open.spotify.com/track/4HjJ8y3A5fPE5EY42v6oUn) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY) | [Under The Influence](https://open.spotify.com/album/0Ltfj4RLfRD1oEC5a2C7Q7) | 2:54 | 2024-01-29 |  |
 | [Wallet, Keys & Phone](https://open.spotify.com/track/7mux2YcZHv7HQPfj8wPlcG) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [French Pirates](https://open.spotify.com/artist/0kTuCWShcfxSpOKQ2xYdf3) | [Wallet, Keys & Phone](https://open.spotify.com/album/2AdOab51bDityCFh0kROI2) | 2:53 | 2024-01-29 |  |
 | [We Are the Misfits](https://open.spotify.com/track/0DL6GTZ1WRIzIc5ciS6dzX) | [Selina Mour](https://open.spotify.com/artist/1zYkThtxlEsHksItd3YHlb) | [We Are the Misfits](https://open.spotify.com/album/5qoB0JB5ZLQS1VJs8YesPY) | 2:53 | 2024-01-29 |  |

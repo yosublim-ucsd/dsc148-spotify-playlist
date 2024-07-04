@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,544 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,552 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 49 | [Feelings \- A COLORS SHOW](https://open.spotify.com/track/6pM36Gc15BBIwefH7Zy4GI) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Feelings \- A COLORS SHOW](https://open.spotify.com/album/5LJvUFehOgLrzRpDzMAH9o) | 3:26 |
 | 50 | [Na So E Be](https://open.spotify.com/track/683L171GQXtmrAVIobSftl) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [The Chorus Leader](https://open.spotify.com/album/4XixgWokwCKbYfghBiJIN5) | 2:59 |
 
-Snapshot ID: `ZoHxgAAAAABbo0pN2iPgJD7uwz/18Hvs`
+Snapshot ID: `ZoNDAAAAAABu2TXbK8yU2VRlbi0wpijV`

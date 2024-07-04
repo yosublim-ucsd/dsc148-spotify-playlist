@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 
 > Heavy music for heavy feelings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,815 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,972 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 53 | [Crooked Path](https://open.spotify.com/track/2oDbxBYY3kt7mFzIXJrGMv) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Mortal Coil](https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl) | 4:41 |
 | 54 | [Johnny Cash \- Stripped](https://open.spotify.com/track/4sBOU30e7J2KF2VzBwDG2M) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Johnny Cash \(Stripped\)](https://open.spotify.com/album/0NBqAEzV88JB497CabtJCn) | 3:36 |
 | 55 | [Impossible](https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Impossible](https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq) | 4:08 |
-| 56 | [Wilt](https://open.spotify.com/track/6RRz9PNzcc0I9u3zLPXnS8) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Holding Absence](https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM) | 6:38 |
-| 57 | [Seneca](https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:09 |
+| 56 | [Seneca](https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:09 |
+| 57 | [Wilt](https://open.spotify.com/track/6RRz9PNzcc0I9u3zLPXnS8) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Holding Absence](https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM) | 6:38 |
 | 58 | [Dying Is Absolutely Safe](https://open.spotify.com/track/4B161tnzwvFCWiOfx9T8Di) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:59 |
 | 59 | [Nothing Left to Love](https://open.spotify.com/track/4VfMtL53N1ZBXbIl2qrKnX) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Nothing Left to Love](https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2) | 4:37 |
 | 60 | [Empty Thoughts](https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [My Descend](https://open.spotify.com/album/55bPotsZFpNo5Oim20cuh6) | 3:32 |

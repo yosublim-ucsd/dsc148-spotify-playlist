@@ -1,6 +1,6 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 211475,
+  "num_followers": 211676,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-07-02 07:13:48",
       "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/0OY9cZ5lO1htGmLYC4eX4B"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 212734,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ"
+    },
+    {
+      "added_at": "2024-07-02 07:13:48",
+      "album": {
         "name": "The Red Summer - Summer Mini Album",
         "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 164441,
       "name": "Butter",
       "url": "https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB"
-    },
-    {
-      "added_at": "2024-07-02 07:13:48",
-      "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/0OY9cZ5lO1htGmLYC4eX4B"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 212734,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ"
     },
     {
       "added_at": "2024-07-02 07:13:48",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-07-02 07:13:48",
       "album": {
-        "name": "SWEAT",
-        "url": "https://open.spotify.com/album/0s6DjhEFFZOUSfnFmPMVIG"
+        "name": "1st Mini Album 'MANITO'",
+        "url": "https://open.spotify.com/album/58749dw7F011CU9lRmX0MO"
       },
       "artists": [
         {
-          "name": "ZEROBASEONE",
-          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
         }
       ],
-      "duration_ms": 191018,
-      "name": "SWEAT",
-      "url": "https://open.spotify.com/track/3BzjdhbQH8VlQ81RbvRoV8"
+      "duration_ms": 175880,
+      "name": "T.B.H",
+      "url": "https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL"
     },
     {
       "added_at": "2024-07-02 07:13:48",
@@ -395,18 +395,18 @@
     {
       "added_at": "2024-07-02 07:13:48",
       "album": {
-        "name": "1st Mini Album 'MANITO'",
-        "url": "https://open.spotify.com/album/58749dw7F011CU9lRmX0MO"
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/0s6DjhEFFZOUSfnFmPMVIG"
       },
       "artists": [
         {
-          "name": "QWER",
-          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
         }
       ],
-      "duration_ms": 175880,
-      "name": "T.B.H",
-      "url": "https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL"
+      "duration_ms": 191018,
+      "name": "SWEAT",
+      "url": "https://open.spotify.com/track/3BzjdhbQH8VlQ81RbvRoV8"
     },
     {
       "added_at": "2024-07-02 07:13:48",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-07-02 07:13:48",
       "album": {
-        "name": "4 Walls - The 4th Album",
-        "url": "https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 207477,
-      "name": "4 Walls",
-      "url": "https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E"
-    },
-    {
-      "added_at": "2024-07-02 07:13:48",
-      "album": {
         "name": "SABOTAGE",
         "url": "https://open.spotify.com/album/5xIQ5P9THWkpmrG2MxiuoL"
       },
@@ -763,6 +747,38 @@
     {
       "added_at": "2024-07-02 07:13:48",
       "album": {
+        "name": "4 Walls - The 4th Album",
+        "url": "https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 207477,
+      "name": "4 Walls",
+      "url": "https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E"
+    },
+    {
+      "added_at": "2024-07-02 07:13:48",
+      "album": {
+        "name": "Metamorphic",
+        "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 150769,
+      "name": "Cheeky Icy Thang",
+      "url": "https://open.spotify.com/track/3BhyxulZ13uWZS6LqiYiCj"
+    },
+    {
+      "added_at": "2024-07-02 07:13:48",
+      "album": {
         "name": "See You in My 19th Life, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0BM8vW7jepWGUcEd2mh2EY"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 206064,
       "name": "DOWN (Juicy Juicy)",
       "url": "https://open.spotify.com/track/086PZ9r1W6iNjZyL8qOqTS"
-    },
-    {
-      "added_at": "2024-07-02 07:13:48",
-      "album": {
-        "name": "minisode1 : Blue Hour",
-        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 210549,
-      "name": "We Lost The Summer",
-      "url": "https://open.spotify.com/track/1WrScpykT891CZhFThXJtj"
     },
     {
       "added_at": "2024-07-02 07:13:48",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-07-02 07:13:48",
       "album": {
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 210549,
+      "name": "We Lost The Summer",
+      "url": "https://open.spotify.com/track/1WrScpykT891CZhFThXJtj"
+    },
+    {
+      "added_at": "2024-07-02 07:13:48",
+      "album": {
         "name": "KARD 5th Mini Album 'Re:'",
         "url": "https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 185053,
       "name": "Ring The Alarm",
       "url": "https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm"
-    },
-    {
-      "added_at": "2024-07-02 07:13:48",
-      "album": {
-        "name": "Lethality",
-        "url": "https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf"
-      },
-      "artists": [
-        {
-          "name": "KWON EUNBI",
-          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
-        }
-      ],
-      "duration_ms": 170600,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ"
     },
     {
       "added_at": "2024-07-02 07:13:48",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-07-02 07:13:48",
       "album": {
+        "name": "Lethality",
+        "url": "https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf"
+      },
+      "artists": [
+        {
+          "name": "KWON EUNBI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "duration_ms": 170600,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ"
+    },
+    {
+      "added_at": "2024-07-02 07:13:48",
+      "album": {
         "name": "ONE & SIX",
         "url": "https://open.spotify.com/album/6XrOYOghCOtUlWYXxB4cAm"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 170626,
       "name": "Talkin\u2019 About It (Feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/28mFFxAwJ9cx9j7z9yu64R"
-    },
-    {
-      "added_at": "2024-07-02 07:13:48",
-      "album": {
-        "name": "Metamorphic",
-        "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 150769,
-      "name": "Cheeky Icy Thang",
-      "url": "https://open.spotify.com/track/3BhyxulZ13uWZS6LqiYiCj"
     },
     {
       "added_at": "2024-07-02 07:13:48",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-07-02 07:13:48",
       "album": {
-        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
-        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
+        "name": "KARD 1st Mini Album 'Hola Hola'",
+        "url": "https://open.spotify.com/album/5eJ58cjTjSRGxOPtVeke2Z"
       },
       "artists": [
         {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
         }
       ],
-      "duration_ms": 214293,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/7qDbAc6xMW07T7yyMnQqS8"
+      "duration_ms": 202962,
+      "name": "Hola Hola",
+      "url": "https://open.spotify.com/track/3VC1IEz9M1txlMSx3h3tPM"
     },
     {
       "added_at": "2024-07-02 07:13:48",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-07-02 07:13:48",
       "album": {
-        "name": "KARD 1st Mini Album 'Hola Hola'",
-        "url": "https://open.spotify.com/album/5eJ58cjTjSRGxOPtVeke2Z"
+        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
+        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
       },
       "artists": [
         {
-          "name": "KARD",
-          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
         }
       ],
-      "duration_ms": 202962,
-      "name": "Hola Hola",
-      "url": "https://open.spotify.com/track/3VC1IEz9M1txlMSx3h3tPM"
+      "duration_ms": 214293,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/7qDbAc6xMW07T7yyMnQqS8"
     },
     {
       "added_at": "2024-07-02 07:13:48",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-07-02 07:13:48",
       "album": {
-        "name": "ZERO : FEVER Part.1",
-        "url": "https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI"
+        "name": "\ufeffcignature 5th EP Album 'Sweetie but Saltie'",
+        "url": "https://open.spotify.com/album/2b1k5XuKhLK0zkCS7B85pY"
       },
       "artists": [
         {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+          "name": "cignature",
+          "url": "https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ"
         }
       ],
-      "duration_ms": 203613,
-      "name": "One Day At A Time",
-      "url": "https://open.spotify.com/track/1eFk8R4OobU7kaAZdfYBKz"
+      "duration_ms": 186906,
+      "name": "Poongdung",
+      "url": "https://open.spotify.com/track/3k37BDB7RmEl4TvmsdLNdI"
     },
     {
       "added_at": "2024-07-02 07:13:48",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-07-02 07:13:48",
       "album": {
-        "name": "\ufeffcignature 5th EP Album 'Sweetie but Saltie'",
-        "url": "https://open.spotify.com/album/2b1k5XuKhLK0zkCS7B85pY"
+        "name": "ZERO : FEVER Part.1",
+        "url": "https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI"
       },
       "artists": [
         {
-          "name": "cignature",
-          "url": "https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ"
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 186906,
-      "name": "Poongdung",
-      "url": "https://open.spotify.com/track/3k37BDB7RmEl4TvmsdLNdI"
+      "duration_ms": 203613,
+      "name": "One Day At A Time",
+      "url": "https://open.spotify.com/track/1eFk8R4OobU7kaAZdfYBKz"
     },
     {
       "added_at": "2024-07-02 07:13:48",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-07-02 07:13:48",
       "album": {
-        "name": "Love Never Dies",
-        "url": "https://open.spotify.com/album/0r8x30PzZEBtxJsLpwHHwL"
-      },
-      "artists": [
-        {
-          "name": "THE NEW SIX",
-          "url": "https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ"
-        }
-      ],
-      "duration_ms": 185311,
-      "name": "Love or Die",
-      "url": "https://open.spotify.com/track/5JDfcFU6lCYU7jQJ8dDo8v"
-    },
-    {
-      "added_at": "2024-07-02 07:13:48",
-      "album": {
         "name": "Season Songs",
         "url": "https://open.spotify.com/album/7o5jeWeyGW3Nb77WhmVPwJ"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 242062,
       "name": "Be My Lover",
       "url": "https://open.spotify.com/track/3g4dzZWuPHGZs4xOXfDQik"
+    },
+    {
+      "added_at": "2024-07-02 07:13:48",
+      "album": {
+        "name": "Love Never Dies",
+        "url": "https://open.spotify.com/album/0r8x30PzZEBtxJsLpwHHwL"
+      },
+      "artists": [
+        {
+          "name": "THE NEW SIX",
+          "url": "https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ"
+        }
+      ],
+      "duration_ms": 185311,
+      "name": "Love or Die",
+      "url": "https://open.spotify.com/track/5JDfcFU6lCYU7jQJ8dDo8v"
     },
     {
       "added_at": "2024-07-02 07:13:48",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-07-02 07:13:48",
       "album": {
-        "name": "Summer Queen",
-        "url": "https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi"
-      },
-      "artists": [
-        {
-          "name": "Brave Girls",
-          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "Chi Mat Ba Ram",
-      "url": "https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18"
-    },
-    {
-      "added_at": "2024-07-02 07:13:48",
-      "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/1aAjA5rYVUh1JhVIafOmbQ"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5aHwYjiSGgJAxy10mBMlDT"
+    },
+    {
+      "added_at": "2024-07-02 07:13:48",
+      "album": {
+        "name": "Summer Queen",
+        "url": "https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi"
+      },
+      "artists": [
+        {
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Chi Mat Ba Ram",
+      "url": "https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18"
     },
     {
       "added_at": "2024-07-02 07:13:48",

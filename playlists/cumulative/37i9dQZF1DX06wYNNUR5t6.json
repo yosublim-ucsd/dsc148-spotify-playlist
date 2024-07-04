@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Build the foundation of your day with this great list of inspired modern rock and hardcore songs!  Cover: Wolves At The Gate",
+  "description": "Build the foundation of your day with this great list of inspired modern rock and hardcore songs!  Cover: <a href=\"spotify:artist:49bzE5vRBRIota4qeHtQM8\">Skillet</a>",
   "name": "And Upon This Rock",
   "tracks": [
     {
@@ -16,10 +16,28 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 267517,
       "name": "Abandoned",
       "url": "https://open.spotify.com/track/1feaOWrf70CKmj9MKWJBuE"
+    },
+    {
+      "album": {
+        "name": "ICU",
+        "url": "https://open.spotify.com/album/1ONx4lNrLIA7Bb6RBYJuwU"
+      },
+      "artists": [
+        {
+          "name": "Citizen Soldier",
+          "url": "https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202025,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/179opNHOs0kZwgel5MSe5S"
     },
     {
       "album": {
@@ -52,7 +70,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 214633,
       "name": "Alive Again",
       "url": "https://open.spotify.com/track/4bFvLnnByynzVDDkzUUPsj"
@@ -96,7 +114,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 241030,
       "name": "All It Takes",
       "url": "https://open.spotify.com/track/25y7XhJeyjzcyT8xOeqKAj"
@@ -226,7 +244,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 232813,
       "name": "Breaking Free (feat. Lacey Sturm)",
       "url": "https://open.spotify.com/track/3sT99jz232QWq5Q2LEaFJ5"
@@ -298,7 +316,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 212386,
       "name": "Cuff the Criminal",
       "url": "https://open.spotify.com/track/0J0sGVSqnssg1jfgEcYQrv"
@@ -338,6 +356,36 @@
       "duration_ms": 212386,
       "name": "Cuff the Criminal",
       "url": "https://open.spotify.com/track/7jXqscfS2bHSggVZuMLgZk"
+    },
+    {
+      "album": {
+        "name": "DARKNESS BEFORE THE DAWN!",
+        "url": "https://open.spotify.com/album/2ZwtqxX23LK900g6vu1p3H"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hyles",
+          "url": "https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU"
+        },
+        {
+          "name": "Lacey Sturm",
+          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
+        },
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191786,
+      "name": "DARKNESS BEFORE THE DAWN!",
+      "url": "https://open.spotify.com/track/7fYPGeh5sIKyH2LXTZBTP6"
     },
     {
       "album": {
@@ -431,6 +479,42 @@
     },
     {
       "album": {
+        "name": "End of Days",
+        "url": "https://open.spotify.com/album/4K5N1UTXyYcrFPmRwM9wqc"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260160,
+      "name": "End of Days",
+      "url": "https://open.spotify.com/track/40H69bQi9Mdu6TMGPXYreU"
+    },
+    {
+      "album": {
+        "name": "Mosaic",
+        "url": "https://open.spotify.com/album/5EL0L9rYE8pc1ZHpK0Vsem"
+      },
+      "artists": [
+        {
+          "name": "Theocracy",
+          "url": "https://open.spotify.com/artist/627g4H0WzOhvuRRsbdBR6T"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238813,
+      "name": "Flicker",
+      "url": "https://open.spotify.com/track/3VUpcKoeWMDn4SjgE0RiWA"
+    },
+    {
+      "album": {
         "name": "LEDGER EP",
         "url": "https://open.spotify.com/album/4F8Wv1pdbgLiAOajJmZbA1"
       },
@@ -446,6 +530,46 @@
       "duration_ms": 237653,
       "name": "Foreigner",
       "url": "https://open.spotify.com/track/550uiBzwI7c0mrtHpZMrY7"
+    },
+    {
+      "album": {
+        "name": "Kenotic Metanoia (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7tlOspCNKpF5qRIyFPcxTG"
+      },
+      "artists": [
+        {
+          "name": "Lacey Sturm",
+          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
+        },
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214860,
+      "name": "Forever & Ever (feat. Lindsey Stirling)",
+      "url": "https://open.spotify.com/track/6mc2rHTCtXcLSSG0b7W6wy"
+    },
+    {
+      "album": {
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/22Vt5HrHpPtKb8yN90LRwM"
+      },
+      "artists": [
+        {
+          "name": "Pillar",
+          "url": "https://open.spotify.com/artist/2Tkg8omOIsTL617yXVt26e"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190906,
+      "name": "Frontline",
+      "url": "https://open.spotify.com/track/39sN48Q2DIbyVK8i8kkqgF"
     },
     {
       "album": {
@@ -467,6 +591,24 @@
     },
     {
       "album": {
+        "name": "Learning How To Be Human",
+        "url": "https://open.spotify.com/album/3VeyUPjz688xgL01XFUSjt"
+      },
+      "artists": [
+        {
+          "name": "Manafest",
+          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162213,
+      "name": "Glitch In The Matrix",
+      "url": "https://open.spotify.com/track/4bxBCX9Iw9IMeQe1vsujqt"
+    },
+    {
+      "album": {
         "name": "Gone (Extended Single)",
         "url": "https://open.spotify.com/album/4qiDcPBb7Fa6errKhDocSP"
       },
@@ -478,7 +620,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 219426,
       "name": "Gone",
       "url": "https://open.spotify.com/track/49a2Kg7MPuycZqREq8IHzP"
@@ -521,6 +663,24 @@
     },
     {
       "album": {
+        "name": "Divided Frame Of Mind",
+        "url": "https://open.spotify.com/album/4QFDKgHuOrhiYYDhCy2cWy"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177569,
+      "name": "Holding Me Up",
+      "url": "https://open.spotify.com/track/5hWtMn99mB2ckaLubacTuZ"
+    },
+    {
+      "album": {
         "name": "Hollowed Out",
         "url": "https://open.spotify.com/album/2Y9kDOy6g5dUdMCEyMNOLj"
       },
@@ -532,10 +692,32 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 194346,
       "name": "Hollowed Out",
       "url": "https://open.spotify.com/track/23jSwzxet90GsYoKdmlMS6"
+    },
+    {
+      "album": {
+        "name": "I Get Wicked",
+        "url": "https://open.spotify.com/album/1UIXC237ONFCTd5RE2011V"
+      },
+      "artists": [
+        {
+          "name": "Thousand Foot Krutch",
+          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
+        },
+        {
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213693,
+      "name": "I Get Wicked - Reignited",
+      "url": "https://open.spotify.com/track/6X0sPx7iFn3xeZOZz8I2V5"
     },
     {
       "album": {
@@ -550,7 +732,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 230336,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/6zd8T1PBe9JFHmuVnurdRp"
@@ -604,7 +786,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 214112,
       "name": "Into the Night",
       "url": "https://open.spotify.com/track/0YhY80vK0EXnfKqWQROSHV"
@@ -622,7 +804,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 244538,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7"
@@ -640,7 +822,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 189625,
       "name": "Misery Game",
       "url": "https://open.spotify.com/track/5ZBrH7WW2KtSg7WxGu794E"
@@ -658,7 +840,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 255160,
       "name": "More Than Bones",
       "url": "https://open.spotify.com/track/6YPopUgTLk3LaISL9cDAPm"
@@ -712,10 +894,28 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 278133,
       "name": "NATIVE TONGUE",
       "url": "https://open.spotify.com/track/4zPmVJ51QlCimfTrQIqQiV"
+    },
+    {
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/5o6miCyzka5xeGZ9iHPGfU"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381692,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0qn0EGCOwcRTYM6oI1X8CL"
     },
     {
       "album": {
@@ -748,7 +948,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 216013,
       "name": "Not Dead Yet",
       "url": "https://open.spotify.com/track/4hCkgJwyn7KfnfFSvYf8wF"
@@ -796,6 +996,24 @@
       "duration_ms": 269733,
       "name": "Panic Room (featuring Andrew Schwab)",
       "url": "https://open.spotify.com/track/2lsuCovCkTDoLn3lVrpbAg"
+    },
+    {
+      "album": {
+        "name": "Psycho In My Head (Live)",
+        "url": "https://open.spotify.com/album/3t5cIJkK7eq40hAmhOEIB2"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210984,
+      "name": "Psycho In My Head - Live",
+      "url": "https://open.spotify.com/track/2KAcXkHmBRlF7gs9J21AXy"
     },
     {
       "album": {
@@ -882,10 +1100,28 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 260718,
       "name": "Push",
       "url": "https://open.spotify.com/track/3K1KuaKWN2KQUnBcushMNY"
+    },
+    {
+      "album": {
+        "name": "Radio Gaga",
+        "url": "https://open.spotify.com/album/5YjbMcs2PRHakKMokq89f4"
+      },
+      "artists": [
+        {
+          "name": "Ignescent",
+          "url": "https://open.spotify.com/artist/6PQENi26ZkXCUo1ksPJ7mm"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224388,
+      "name": "Radio Gaga",
+      "url": "https://open.spotify.com/track/5iU2UE9Z4GXVczPymFbT6A"
     },
     {
       "album": {
@@ -900,7 +1136,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 194866,
       "name": "Rise",
       "url": "https://open.spotify.com/track/5s2VU6HkVBb92xnyNeM57q"
@@ -943,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Stupid Deep",
+        "url": "https://open.spotify.com/album/6iBbaoo5wrHot6lLJQVuqW"
+      },
+      "artists": [
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190125,
+      "name": "Stupid Deep",
+      "url": "https://open.spotify.com/track/0CDc1hvrNZZw6qVNfq7Fp4"
+    },
+    {
+      "album": {
         "name": "Tension",
         "url": "https://open.spotify.com/album/7xE8XGR4Mcv9KUqDoqT9Q0"
       },
@@ -961,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "The Cave",
+        "url": "https://open.spotify.com/album/4MDSWuaSkuJrIz6XE68q14"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216560,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/4rf3psGLD1Ol5sn7Z2VI9F"
+    },
+    {
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/6L8gLKCluioceYP7WNmcol"
       },
@@ -972,7 +1244,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 256693,
       "name": "The Cure",
       "url": "https://open.spotify.com/track/3bimN1JcQkbLWcUJexAEyh"
@@ -990,7 +1262,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 287500,
       "name": "The Evening Hate",
       "url": "https://open.spotify.com/track/2afTqQjKpq8e4qmUwZbQRI"
@@ -1008,7 +1280,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 219151,
       "name": "The First & the Last",
       "url": "https://open.spotify.com/track/4MJoEFLiEMkDZch8l3J63z"
@@ -1044,7 +1316,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 189600,
       "name": "The Old Me",
       "url": "https://open.spotify.com/track/7HIQfzq7uFZNZUxzK2OjbH"
@@ -1084,6 +1356,24 @@
       "duration_ms": 287998,
       "name": "The Price of Agony",
       "url": "https://open.spotify.com/track/7AtpVDfDXLUFVwojUMUYce"
+    },
+    {
+      "album": {
+        "name": "This Is Us",
+        "url": "https://open.spotify.com/album/0Vl04c7ygRUlH9xwn8EjZY"
+      },
+      "artists": [
+        {
+          "name": "One Crown",
+          "url": "https://open.spotify.com/artist/4TKVKRdQ20EkXxEQG84Syi"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201854,
+      "name": "This Is Us",
+      "url": "https://open.spotify.com/track/6oW2rfPx2crZZgxxrboCIZ"
     },
     {
       "album": {
@@ -1170,7 +1460,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 231588,
       "name": "When Everything Means Nothing",
       "url": "https://open.spotify.com/track/20dil44lFapp6oNBfCQlif"
@@ -1228,6 +1518,86 @@
       "duration_ms": 196320,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/01HzjrOehvJUlKK3WsQ8qK"
+    },
+    {
+      "album": {
+        "name": "End of the World (feat. Disciple)",
+        "url": "https://open.spotify.com/album/0Q1AFMxli6GteApY75WWGY"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        },
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251201,
+      "name": "Words of Fire",
+      "url": "https://open.spotify.com/track/6m6ADfHbf2EgRDHd6omxwA"
+    },
+    {
+      "album": {
+        "name": "Worlds Apart",
+        "url": "https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV"
+      },
+      "artists": [
+        {
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268235,
+      "name": "Worlds Apart",
+      "url": "https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO"
+    },
+    {
+      "album": {
+        "name": "Rated R",
+        "url": "https://open.spotify.com/album/1SFJF2gfT4zm3NXG2rImYM"
+      },
+      "artists": [
+        {
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191265,
+      "name": "Your Devil Is A Ghost",
+      "url": "https://open.spotify.com/track/4zBVeBFp5MdOAFJPi2Tk31"
+    },
+    {
+      "album": {
+        "name": "Fractured Paradise",
+        "url": "https://open.spotify.com/album/4D78Ji3nKTl66eqgvWfNck"
+      },
+      "artists": [
+        {
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+        },
+        {
+          "name": "Magdalene Rose",
+          "url": "https://open.spotify.com/artist/2FeTFqLD7rngYYCh2V4RyX"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214815,
+      "name": "Yours Truly",
+      "url": "https://open.spotify.com/track/0LfSlWOS4TXJHOBZ7fPiNy"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX06wYNNUR5t6"

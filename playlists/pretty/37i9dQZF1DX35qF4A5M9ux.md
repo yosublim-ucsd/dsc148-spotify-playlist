@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 
 > ¡Éxitos salseros para prenderle fuego a la pista de baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,403 likes - 100 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,505 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 51 | [Mia](https://open.spotify.com/track/3x4oECarDKCZxecqOYis52) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:43 |
 | 52 | [Un Sueño Y Nada Mas](https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX) | [Grupo Polo Montañes](https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC) | [Un Sueño Y Nada Más](https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0) | 4:38 |
 | 53 | [Así Fue](https://open.spotify.com/track/4xaOEKr5ekCoBcGesvcrM9) | [NELSON DÍAZ Y LA CONSTELACIÓN](https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO) | [Nelson Díaz y la Constelación](https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi) | 4:27 |
-| 54 | [Hagamos Lo Que Diga El Corazón](https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:02 |
-| 55 | [Quien Entiende Este Amor](https://open.spotify.com/track/5MVbhLRhOLCifhbjwVyZPX) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Serie Platino](https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt) | 5:03 |
+| 54 | [Quien Entiende Este Amor](https://open.spotify.com/track/5MVbhLRhOLCifhbjwVyZPX) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Serie Platino](https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt) | 5:03 |
+| 55 | [Hagamos Lo Que Diga El Corazón](https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:02 |
 | 56 | [Me Fallaste](https://open.spotify.com/track/34VHJUNDzhylu6uZIu4L6z) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Platino: Eddie Santiago](https://open.spotify.com/album/04nuGr7TFcEEP5CdGrmG3s) | 5:03 |
 | 57 | [Te Propongo](https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ) | [Hector Rey](https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv) | [Al Duro](https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U) | 4:37 |
 | 58 | [Trampolín](https://open.spotify.com/track/6o9sS5iqHV6Jwa2CTgCsM7) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestro Aniversario](https://open.spotify.com/album/1RNoQoIdMfX0cvgINnhbc2) | 4:21 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 67 | [Y Nos Amamos](https://open.spotify.com/track/1GJ81TUe0L0V8KpFC2Xobo) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 3:49 |
 | 68 | [Nadie Igual Que tu](https://open.spotify.com/track/1E04xyii2FtGyCiAWgbm9k) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Solo](https://open.spotify.com/album/5eT06qIRKZhsrONksaiZrP) | 5:44 |
 | 69 | [Mujer Araña](https://open.spotify.com/track/2fDsUZOpQriPe84trnuwXs) | [NELSON DÍAZ Y LA CONSTELACIÓN](https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO) | [Nelson Díaz y la Constelación](https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi) | 4:21 |
-| 70 | [Vete Ya](https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:53 |
-| 71 | [Ese Hombre](https://open.spotify.com/track/0aT7slkUrMMGqe4ZVogNdy) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [40 Artistas Y Sus Super Exitos](https://open.spotify.com/album/40NLX6PJuMX9BU7WZkImIF) | 4:41 |
+| 70 | [Ese Hombre](https://open.spotify.com/track/0aT7slkUrMMGqe4ZVogNdy) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [40 Artistas Y Sus Super Exitos](https://open.spotify.com/album/40NLX6PJuMX9BU7WZkImIF) | 4:41 |
+| 71 | [Vete Ya](https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:53 |
 | 72 | [Caradura](https://open.spotify.com/track/1AAx4NAWkHhvYBwXXwcpkJ) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 5:17 |
 | 73 | [Esa Mujer \- En Vivo](https://open.spotify.com/track/5gnYYnQTU1GsYlSTQw9Lvm) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 5:51 |
 | 74 | [Pa Que Me Llames](https://open.spotify.com/track/7f9xOgsbm7SYjBRU7blQaJ) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Amor de Locos](https://open.spotify.com/album/21UeXvBlGC8gUjxRovFSsF) | 4:48 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 76 | [Conteo Regresivo \- Salsa Version](https://open.spotify.com/track/5YfqVqJwjxiyhxvofbCnHp) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Contraste En Salsa](https://open.spotify.com/album/0GxUdSpTj1PeJlqq0knC5I) | 4:26 |
 | 77 | [Dime Qué Paso](https://open.spotify.com/track/6KdVQNCUSnik4BfxNubvqR) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [16 Grandes Éxitos](https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR) | 3:32 |
 | 78 | [Extrañándote](https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4) | [Michel el Buenón](https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf) | [Arriba Siempre \- De Pura Sangre](https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp) | 5:05 |
-| 79 | [Hechizo](https://open.spotify.com/track/6SDFIy0gtc8tLjVGWIJkxq) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:27 |
-| 80 | [Agua Caliente](https://open.spotify.com/track/5HmxRC7UzG9FxGYAm7EsXH) | [Hildemaro](https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic) | [Amanecí Contigo Y Sin Tabú](https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB) | 3:59 |
+| 79 | [Agua Caliente](https://open.spotify.com/track/5HmxRC7UzG9FxGYAm7EsXH) | [Hildemaro](https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic) | [Amanecí Contigo Y Sin Tabú](https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB) | 3:59 |
+| 80 | [Hechizo](https://open.spotify.com/track/6SDFIy0gtc8tLjVGWIJkxq) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:27 |
 | 81 | [Lo Que Pasó Entre Tú y Yo Pasó](https://open.spotify.com/track/1zTQ3j6jP0pMHQzCLLzBeF) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Colección De Oro](https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo) | 4:38 |
 | 82 | [La Cita](https://open.spotify.com/track/54eCgeI2qOXjAbKwnZ2UK0) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Solo Salsa](https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O) | 4:50 |
 | 83 | [Siento](https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 6:31 |

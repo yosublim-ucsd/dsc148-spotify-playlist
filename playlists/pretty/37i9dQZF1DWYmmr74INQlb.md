@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 
 > The most essential R&B songs from the '00s\. Cover: Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,667,444 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,667,875 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 52 | [Naughty Girl](https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:28 |
 | 53 | [Let It Go](https://open.spotify.com/track/2RqZFOLOnzVmHUX7ZMcaES) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Just Like You](https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK) | 3:58 |
 | 54 | [Bed](https://open.spotify.com/track/6TlRNJaezOdzdECnQeRuMM) | [J\. Holiday](https://open.spotify.com/artist/7G6hXrjGpi6I7waNl4wxAk) | [Back Of My Lac'](https://open.spotify.com/album/1Ypwht853ZVmsplg2DnZLI) | 4:35 |
-| 55 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
-| 56 | [How You Gonna Act Like That](https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [I Wanna Go There](https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G) | 4:54 |
+| 55 | [How You Gonna Act Like That](https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [I Wanna Go There](https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G) | 4:54 |
+| 56 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
 | 57 | [Do It To It](https://open.spotify.com/track/6MBEjJlXQYXr8dfxDvZuoA) | [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo), [Sean Paul](https://open.spotify.com/artist/2ZVEnkCKF0ytNHpj9cLxte) | [Unappreciated](https://open.spotify.com/album/5nHZP6EqmhfNwxe71tpyKn) | 3:46 |
 | 58 | [Peaches & Cream](https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 3:13 |
 | 59 | [All For You](https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [All For You](https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9) | 5:29 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 69 | [Motivation](https://open.spotify.com/track/4Cv5dkUBqepa0siwGREihD) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Motivation](https://open.spotify.com/album/36BtNkS3gaPXlxSxzWcnLJ) | 3:51 |
 | 70 | [Pretty Wings \- uncut](https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [BLACKsummers'night \(2009\)](https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo) | 5:10 |
 | 71 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
-| 72 | [Happy](https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:22 |
-| 73 | [More Than A Woman](https://open.spotify.com/track/4x2YdtTppdbL4kHPOjaunq) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 3:49 |
+| 72 | [More Than A Woman](https://open.spotify.com/track/4x2YdtTppdbL4kHPOjaunq) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 3:49 |
+| 73 | [Happy](https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:22 |
 | 74 | [Butterflies](https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 4:39 |
 | 75 | [Promise](https://open.spotify.com/track/1pLdjo3lOBbMaoR4ZpybFH) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [The Evolution](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) | 4:27 |
 | 76 | [Dangerously In Love](https://open.spotify.com/track/0KFuXEdOp5QfIfxHR6TJSm) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 4:53 |

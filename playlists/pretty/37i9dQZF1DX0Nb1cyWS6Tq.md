@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Come closer and see..\. into the dark\. The Cure on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,249 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,512 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 54 | [Watersong](https://open.spotify.com/track/60kgQtJNMGRaFfzwy18XUY) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Wings Of Joy \(Expanded Edition\)](https://open.spotify.com/album/5RzJqDl7qP2xQ2mV8CX4qq) | 3:51 |
 | 55 | [Heart and Soul](https://open.spotify.com/track/4fokGJSBrxFIvt01vz1Fbe) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 5:50 |
 | 56 | [Mephisto Waltz](https://open.spotify.com/track/6tK79x1EWm9JjRRfRM2FJz) | [Mephisto Walz](https://open.spotify.com/artist/7lv3S4wbdU3j2xC8qFvbIU) | [Thalia](https://open.spotify.com/album/7nvZE7znYOXL1DT1NtQ5wJ) | 4:52 |
-| 57 | [Ekpyrosis](https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB) | [Lathe of Heaven](https://open.spotify.com/artist/6sU6B7cuctosL0gOhgeBdr) | [Bound By Naked Skies](https://open.spotify.com/album/5lY7DOXHvN5uCBUffyuRY1) | 2:52 |
-| 58 | [Deep Ocean Vast Sea](https://open.spotify.com/track/7co4RSDiDepap0EOT9koe2) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 4:09 |
+| 57 | [Deep Ocean Vast Sea](https://open.spotify.com/track/7co4RSDiDepap0EOT9koe2) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 4:09 |
+| 58 | [Ekpyrosis](https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB) | [Lathe of Heaven](https://open.spotify.com/artist/6sU6B7cuctosL0gOhgeBdr) | [Bound By Naked Skies](https://open.spotify.com/album/5lY7DOXHvN5uCBUffyuRY1) | 2:52 |
 | 59 | [Adrenaline](https://open.spotify.com/track/3ESdYvHHCnQMnPfTjYWmMw) | [Rosetta Stone](https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK) | [Adrenaline](https://open.spotify.com/album/4gtEJI7W3W0RCtAuR2EDw4) | 3:40 |
 | 60 | [Flowers In Our Hair](https://open.spotify.com/track/5epK3IsFQ8XHnDNRcKgt1S) | [All About Eve](https://open.spotify.com/artist/2KIezwdswV0DunSBLSe4pR) | [All About Eve](https://open.spotify.com/album/72KSAG3XBDNT7zBbz2l2Ki) | 4:25 |
 | 61 | [Strung Out Johnny](https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Strung Out Johnny](https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm) | 4:13 |

@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 417573,
+  "num_followers": 417596,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Right on Time",
-        "url": "https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 185228,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Pressure Machine (Abridged)",
         "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Right on Time",
+        "url": "https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 185228,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1135,22 +1135,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "In the Game",
-        "url": "https://open.spotify.com/album/0yuuoIvqUqnumxCaqM71j8"
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
       },
       "artists": [
         {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
-        },
-        {
-          "name": "Susan O'Neill",
-          "url": "https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua"
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
         }
       ],
-      "duration_ms": 200161,
-      "name": "Chain Reaction",
-      "url": "https://open.spotify.com/track/2l2mM35OlTIAV3ewmBblRA"
+      "duration_ms": 218740,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1171,18 +1167,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
+        "name": "In the Game",
+        "url": "https://open.spotify.com/album/0yuuoIvqUqnumxCaqM71j8"
       },
       "artists": [
         {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+        },
+        {
+          "name": "Susan O'Neill",
+          "url": "https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua"
         }
       ],
-      "duration_ms": 218740,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"
+      "duration_ms": 200161,
+      "name": "Chain Reaction",
+      "url": "https://open.spotify.com/track/2l2mM35OlTIAV3ewmBblRA"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 228707,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "all of my lessons",
         "url": "https://open.spotify.com/album/4unK854kzraNk7AGOP9aTO"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 205000,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/1GqkGxG9T904AiKa6VgdRn"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 228707,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Begin Again - EP",
-        "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 287693,
-      "name": "Third Way",
-      "url": "https://open.spotify.com/track/3IMUCgc92c7ciudifIGkLf"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Champagne Problems",
         "url": "https://open.spotify.com/album/4KAr2lRE1A7erS2HUspilz"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 201680,
       "name": "Judy",
       "url": "https://open.spotify.com/track/0bLoEqjAAzozfFOiBBRxUw"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Begin Again - EP",
+        "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 287693,
+      "name": "Third Way",
+      "url": "https://open.spotify.com/track/3IMUCgc92c7ciudifIGkLf"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "I Am Not There Anymore",
-        "url": "https://open.spotify.com/album/0o5pPvWlsSeZBVAR08y3mR"
-      },
-      "artists": [
-        {
-          "name": "The Clientele",
-          "url": "https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0"
-        }
-      ],
-      "duration_ms": 197186,
-      "name": "Lady Grey",
-      "url": "https://open.spotify.com/track/6c2jAbpd22wJYbLp5Pa1iA"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Tobacco City, USA",
         "url": "https://open.spotify.com/album/11J38DSk3mY2KEOx1NEY20"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 225297,
       "name": "Never on My Mind",
       "url": "https://open.spotify.com/track/4z9ViersKJgj1ZwTjjfhtk"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "I Am Not There Anymore",
+        "url": "https://open.spotify.com/album/0o5pPvWlsSeZBVAR08y3mR"
+      },
+      "artists": [
+        {
+          "name": "The Clientele",
+          "url": "https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0"
+        }
+      ],
+      "duration_ms": 197186,
+      "name": "Lady Grey",
+      "url": "https://open.spotify.com/track/6c2jAbpd22wJYbLp5Pa1iA"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Wisteria",
-        "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
-      },
-      "artists": [
-        {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        }
-      ],
-      "duration_ms": 169823,
-      "name": "Wisteria",
-      "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Hopeful",
         "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 316360,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        }
+      ],
+      "duration_ms": 169823,
+      "name": "Wisteria",
+      "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Redwood Tree",
-        "url": "https://open.spotify.com/album/3WsZy6HDKVIO8qAO1MA8ep"
-      },
-      "artists": [
-        {
-          "name": "Jamie Drake",
-          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
-        }
-      ],
-      "duration_ms": 170894,
-      "name": "Redwood Tree",
-      "url": "https://open.spotify.com/track/7tthtIvsXqBLHru3nJkQg3"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Was Always You",
         "url": "https://open.spotify.com/album/5RMTf72VuU88OmhujQNiAS"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 196575,
       "name": "Was Always You",
       "url": "https://open.spotify.com/track/5TJVpK0u4QqKqWBy1FV4nj"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Redwood Tree",
+        "url": "https://open.spotify.com/album/3WsZy6HDKVIO8qAO1MA8ep"
+      },
+      "artists": [
+        {
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+        }
+      ],
+      "duration_ms": 170894,
+      "name": "Redwood Tree",
+      "url": "https://open.spotify.com/track/7tthtIvsXqBLHru3nJkQg3"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "In Heaven",
-        "url": "https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d"
-      },
-      "artists": [
-        {
-          "name": "Strand of Oaks",
-          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
-        }
-      ],
-      "duration_ms": 219492,
-      "name": "Sunbathers",
-      "url": "https://open.spotify.com/track/5HKDtUThXMU5XWQLOjfyCo"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "The Fight",
         "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 198373,
       "name": "New Shoes",
       "url": "https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "In Heaven",
+        "url": "https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d"
+      },
+      "artists": [
+        {
+          "name": "Strand of Oaks",
+          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
+        }
+      ],
+      "duration_ms": 219492,
+      "name": "Sunbathers",
+      "url": "https://open.spotify.com/track/5HKDtUThXMU5XWQLOjfyCo"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 247920,
-      "name": "Held Down",
-      "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Hope Dreams",
         "url": "https://open.spotify.com/album/2Gjb3T1btQMnGtSYl6c1HD"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 285200,
       "name": "Tender Organs",
       "url": "https://open.spotify.com/track/6cst4w2QTOrH5e6FAsLLjI"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 247920,
+      "name": "Held Down",
+      "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2315,18 +2315,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+        "name": "Narcissist - EP",
+        "url": "https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT"
       },
       "artists": [
         {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+          "name": "Cale Tyson",
+          "url": "https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy"
         }
       ],
-      "duration_ms": 201893,
-      "name": "Strange Girl",
-      "url": "https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx"
+      "duration_ms": 241000,
+      "name": "Not Healthy Anymore",
+      "url": "https://open.spotify.com/track/5miGESqEVwfKAdjE164WXx"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Narcissist - EP",
-        "url": "https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT"
-      },
-      "artists": [
-        {
-          "name": "Cale Tyson",
-          "url": "https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Not Healthy Anymore",
-      "url": "https://open.spotify.com/track/5miGESqEVwfKAdjE164WXx"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 179893,
       "name": "Desire",
       "url": "https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 201893,
+      "name": "Strange Girl",
+      "url": "https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2427,26 +2427,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "My First Life",
-        "url": "https://open.spotify.com/album/2pvy6Hm8BuyUJGzIXQKgJ1"
-      },
-      "artists": [
-        {
-          "name": "San Fermin",
-          "url": "https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt"
-        },
-        {
-          "name": "Wye Oak",
-          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
-        }
-      ],
-      "duration_ms": 216015,
-      "name": "My First Life (feat. Wye Oak)",
-      "url": "https://open.spotify.com/track/0FbCIMjpjtheaSTsFlzknc"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Fresh Water in an Empty Vase",
         "url": "https://open.spotify.com/album/5O0hpbx3yWviQxJqylFZnA"
       },
@@ -2475,6 +2455,26 @@
       "duration_ms": 189215,
       "name": "On the Outside",
       "url": "https://open.spotify.com/track/0fUo33Ryw7ValBsv9YhIGS"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "My First Life",
+        "url": "https://open.spotify.com/album/2pvy6Hm8BuyUJGzIXQKgJ1"
+      },
+      "artists": [
+        {
+          "name": "San Fermin",
+          "url": "https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt"
+        },
+        {
+          "name": "Wye Oak",
+          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+        }
+      ],
+      "duration_ms": 216015,
+      "name": "My First Life (feat. Wye Oak)",
+      "url": "https://open.spotify.com/track/0FbCIMjpjtheaSTsFlzknc"
     },
     {
       "added_at": "2024-03-01 05:00:00",

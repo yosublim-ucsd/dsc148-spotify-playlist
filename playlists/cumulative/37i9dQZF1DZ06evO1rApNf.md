@@ -2,7 +2,7 @@
 
 ### [This Is Mau y Ricky](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rApNf)
 
-> This is Mau y Ricky\. Todos os maiores hits em uma só playlist.
+> This is Mau y Ricky\. The essential tracks, all in one playlist.
 
 77 songs - 4 hr 7 min
 
@@ -84,6 +84,6 @@
 | [Wow](https://open.spotify.com/track/60Y5s3JmVhfORq1ATJpfSS) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 2:47 | 2024-06-03 |  |
 | [Ya No Tiene Novio](https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya No Tiene Novio](https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l) | 3:18 | 2023-09-25 |  |
 | [Ya No Tiene Novio \- Remix](https://open.spotify.com/track/7o3FMIu6KldnAwXaA8MO8x) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Sharo Towers](https://open.spotify.com/artist/4h6Eg0dBZ4Fr8vRcSn8r5r) | [Ya No Tiene Novio \(Remix\)](https://open.spotify.com/album/5DhvMwwdPorHfK7Aihfrc3) | 3:32 | 2023-09-25 | 2024-06-27 |
-| [Ya Tú Me Conoces](https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya Tú Me Conoces](https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj) | 3:15 | 2023-09-25 |  |
+| [Ya Tú Me Conoces](https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya Tú Me Conoces](https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj) | 3:15 | 2023-09-25 | 2024-07-04 |
 
 \*This playlist was first scraped on 2023-09-26. Prior content cannot be recovered.

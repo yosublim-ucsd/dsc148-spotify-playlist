@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUYYlhkTuEn.md) - [plain]
 
 > Let's flow to the beats of downtempo deep house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,450 likes - 60 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,529 likes - 60 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUYYlhkTuEn.md) - [plain]
 | 5 | [Circadia](https://open.spotify.com/track/3sSaIdFrhLOjOy8XCuKMfE) | [Trippin Jaguar](https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0) | [Circadia](https://open.spotify.com/album/574UEtMpJoQwN3ZtW5CRvE) | 6:48 |
 | 6 | [Nattergal](https://open.spotify.com/track/4ohpP77nE9K3XCO5t1rm71) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Nattergal](https://open.spotify.com/album/23VgoCO28oXjyfpNFmYEGv) | 4:25 |
 | 7 | [Resonant Warrior](https://open.spotify.com/track/0l7zVfetH3r8xCmBDVOy5L) | [Sadhu Sensi](https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P) | [Two Of A Kind](https://open.spotify.com/album/6r6pWY1zNKOqIYAKyqTK50) | 6:06 |
-| 8 | [skyfall](https://open.spotify.com/track/3B62DUR5leOfv6vhoQPqpD) | [bonifaz](https://open.spotify.com/artist/0ytEeOfpWZBbGsCQvq1drN) | [skyfall](https://open.spotify.com/album/0zhAm4bsZpGYGGPARCMKAL) | 5:09 |
+| 8 | [skyfall](https://open.spotify.com/track/3B62DUR5leOfv6vhoQPqpD) | [bonifas](https://open.spotify.com/artist/0ytEeOfpWZBbGsCQvq1drN) | [skyfall](https://open.spotify.com/album/0zhAm4bsZpGYGGPARCMKAL) | 5:09 |
 | 9 | [Sat Nam](https://open.spotify.com/track/1jbqoD2ywyqikvk3qS1qWi) | [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [Helia Jamali](https://open.spotify.com/artist/5CMYOWz9ly5J7DMsYualI5) | [Sat Nam](https://open.spotify.com/album/6P2AVkDSrfg9ScaTYf5KCT) | 3:33 |
 | 10 | [Ayu III](https://open.spotify.com/track/1jFZQ17rS9pzNBhKgbpXHV) | [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Ayu III](https://open.spotify.com/album/4curFTmCDS5MFSshXRHLO3) | 7:52 |
 | 11 | [Purpurgrackel](https://open.spotify.com/track/133gKWsl1rUJv7Fyl2ePZI) | [Landhouse](https://open.spotify.com/artist/0b05DhI4gD2fNDlqbFBOyt) | [Purpurgrackel](https://open.spotify.com/album/3rHbqrglZXrRaJF0NLWcXI) | 6:46 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUYYlhkTuEn.md) - [plain]
 | 14 | [Akacje](https://open.spotify.com/track/400NyXxU3mhiraKbR6n9G9) | [IKARVS](https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg), [AKASHA MX](https://open.spotify.com/artist/721EuEbzImpF3q72RR9rCP) | [Akacje](https://open.spotify.com/album/2PxOPG4hFj9tNimmLrbSm8) | 7:08 |
 | 15 | [Secreto](https://open.spotify.com/track/5KjqHWEssr7QRnRnTZfOQN) | [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ), [MUTA](https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9) | [Secreto](https://open.spotify.com/album/5FmgMaL2u61aYGCp9E7PwT) | 5:21 |
 | 16 | [Slow Movement](https://open.spotify.com/track/5eWL1TgZnvv1sQm5ZLnwww) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw) | [Slow Movement](https://open.spotify.com/album/2cs7ncxwKkPejM7pfE6wTQ) | 5:19 |
-| 17 | [circles](https://open.spotify.com/track/79GaTmaWwfMiZ2G1igH8fH) | [bonifaz](https://open.spotify.com/artist/0ytEeOfpWZBbGsCQvq1drN) | [structures](https://open.spotify.com/album/2bRfZmlCr8ttXN8iVNMeBb) | 4:57 |
+| 17 | [circles](https://open.spotify.com/track/79GaTmaWwfMiZ2G1igH8fH) | [bonifas](https://open.spotify.com/artist/0ytEeOfpWZBbGsCQvq1drN) | [structures](https://open.spotify.com/album/2bRfZmlCr8ttXN8iVNMeBb) | 4:57 |
 | 18 | [Volan](https://open.spotify.com/track/2USyF9h9EanPq11uf3yQkT) | [Deep Ändi](https://open.spotify.com/artist/4M5ZOV5sqzPJv6NyXbtRmq) | [Volan](https://open.spotify.com/album/172utEh4E0RoOmHWPEdhGK) | 7:57 |
 | 19 | [Hidden Garden](https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Hidden Garden](https://open.spotify.com/album/5ADWAdx830C67511L0FVPj) | 4:57 |
 | 20 | [Odessa](https://open.spotify.com/track/7zIGw3iG06WGvBrnFvCqCV) | [Monohøle](https://open.spotify.com/artist/75Xo8Q2H05f294UEIA0N8c), [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Odessa](https://open.spotify.com/album/4XBWH8o5lqFAYiJd0CCduG) | 6:09 |

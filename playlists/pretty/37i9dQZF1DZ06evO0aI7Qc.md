@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 ### [This Is Luis R Conriquez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0aI7Qc)
 
-> This Is Luis R Conriquez\. Los temas esenciales, todos en una lista.
+> This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,327 likes - 51 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,723 likes - 51 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 38 | [Mi Momento](https://open.spotify.com/track/0yhduE0AtElWqyPkgeSMja) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 3](https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo) | 2:42 |
 | 39 | [Aquellos Botones](https://open.spotify.com/track/7pK2omxNCdDHqWqjRPJPoN) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:04 |
 | 40 | [Pobre No](https://open.spotify.com/track/1P2j2F7AjZxUl0Uo102539) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 2:24 |
-| 41 | [Derecho y Chueco \- Remix](https://open.spotify.com/track/6mqV7n0DqV2Q32lNINvOCp) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Alianza Records](https://open.spotify.com/artist/4anqekkqPxN6yzpLYCL7h6) | [Derecho y Chueco \(Remix\)](https://open.spotify.com/album/2onNOIdR3EEqDks8WalBKs) | 2:37 |
-| 42 | [Solita \(En Vivo\)](https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Solita \(En Vivo\)](https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP) | 3:35 |
+| 41 | [Solita \(En Vivo\)](https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Solita \(En Vivo\)](https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP) | 3:35 |
+| 42 | [Derecho y Chueco \- Remix](https://open.spotify.com/track/6mqV7n0DqV2Q32lNINvOCp) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Alianza Records](https://open.spotify.com/artist/4anqekkqPxN6yzpLYCL7h6) | [Derecho y Chueco \(Remix\)](https://open.spotify.com/album/2onNOIdR3EEqDks8WalBKs) | 2:37 |
 | 43 | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79) | 3:07 |
 | 44 | [Viejo Lobo](https://open.spotify.com/track/1UwCSHDl10Hga2jswZ6plN) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 2:50 |
 | 45 | [Buenas Rachas](https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Buenas Rachas](https://open.spotify.com/album/18pfoIprtoyL7UZ0r5aJ2e) | 2:33 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 50 | [Bandido \- En Vivo](https://open.spotify.com/track/1gKuxAJX4sKow9NOABCLSK) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Bandido \(En Vivo\)](https://open.spotify.com/album/05WrjfX5fyvh4OSDKUwrwZ) | 3:34 |
 | 51 | [De Aqui Paya](https://open.spotify.com/track/6U5rCJ8xJmZxNe3fbg1X7Q) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos 2019 Vol\. 2](https://open.spotify.com/album/7qWQtf7ia2Bf8q22TPMn8D) | 2:58 |
 
-Snapshot ID: `ZoHxgAAAAADnrRk0eoiOwjX7EOvWVNjO`
+Snapshot ID: `ZoNDAAAAAACZM9anGY2IeLv6XfclLA+e`

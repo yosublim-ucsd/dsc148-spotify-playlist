@@ -4,7 +4,7 @@
 
 > Tus canciones favoritas de Música Mexicana, all in one place! Cover: Victor Cibrian & Gabito Ballesteros
 
-439 songs - 23 hr 39 min
+440 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Diamantes](https://open.spotify.com/track/0JDrG1g5HXbfgGtRKT0ofH) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:31 | 2022-09-23 | 2023-05-16 |
 | [Dime Cómo Quieres](https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [AYAYAY! \(Súper Deluxe\)](https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw) | 2:51 | 2022-05-12 |  |
 | [Disfruto Lo Malo](https://open.spotify.com/track/7LH2UUuyMHt7035PLZQ8wx) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 3:07 | 2022-07-01 | 2023-02-25 |
+| [Duele](https://open.spotify.com/track/3qZ4beZNwiXKqGoopSzYBe) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Hecho En México \(Edición Especial\)](https://open.spotify.com/album/5VRiykfzXrzfY84WE1rRxj) | 3:13 | 2024-06-28 |  |
 | [Déjenme Hacer Dinero](https://open.spotify.com/track/4LdopLerbbhZxY6cBQyRsP) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Déjenme Hacer Dinero](https://open.spotify.com/album/38P4ol8xZRrL4DqxxWKMAo) | 3:13 | 2023-01-20 | 2023-05-16 |
 | [El Albañil](https://open.spotify.com/track/6Cp7mxrHFobJvo7YSv0zEb) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [El Albañil](https://open.spotify.com/album/3E7KG2YrZfnOCaMAV1UShV) | 3:55 | 2022-05-12 | 2022-09-24 |
 | [El Alumno](https://open.spotify.com/track/4oRtfBaE8J1B0SDzVQAH5j) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Llegando Al Rancho](https://open.spotify.com/album/6vJ9ymVhHcvI1NgFuFA0rN) | 3:08 | 2022-05-12 | 2022-09-24 |
@@ -381,7 +382,7 @@
 | [Te Felicito](https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Te Felicito](https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7) | 3:44 | 2022-12-22 |  |
 | [Te La Pasas feat\. EP](https://open.spotify.com/track/3bT9fp9mM5HDWE2BEI0yhP) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7) | [No Eres Tu Ahora Soy Yo](https://open.spotify.com/album/6dkhRkJFqd5PFVRiDEYIck) | 2:50 | 2022-09-23 | 2023-02-25 |
 | [Te Lo Debo a Ti](https://open.spotify.com/track/6IHwMo9UbzanstmW2Edy8r) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [La Ley De La Vida](https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F) | 3:25 | 2022-05-12 | 2023-01-27 |
-| [Te Metiste](https://open.spotify.com/track/0nNTCEOzFlBTlDCx5IfLWP) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma](https://open.spotify.com/album/4OGTFgqeWBWK6FWJYAA8Ap) | 3:29 | 2024-06-28 |  |
+| [Te Metiste](https://open.spotify.com/track/0nNTCEOzFlBTlDCx5IfLWP) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma](https://open.spotify.com/album/4OGTFgqeWBWK6FWJYAA8Ap) | 3:29 | 2024-06-28 | 2024-07-04 |
 | [Te Metiste](https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:29 | 2022-07-01 | 2023-05-16 |
 | [Te Olvidé](https://open.spotify.com/track/0zRc5cHuMrulujN8t1XbYE) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:06 | 2022-09-23 |  |
 | [Te Perdonaría](https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Perdonaría](https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz) | 2:36 | 2023-05-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mBRYewE6or.md) - [plain]
 
 > dá play que a bagunça organizada tá liberada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,071,042 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,070,996 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mBRYewE6or.md) - [plain]
 | 93 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 |
 | 94 | [In Your Arms \(For An Angel\)](https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [In Your Arms \(For An Angel\)](https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b) | 2:30 |
 | 95 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 |
-| 96 | [Hurricane](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane](https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS) | 2:27 |
-| 97 | [Here We Go Again](https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Here We Go Again](https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf) | 2:44 |
+| 96 | [Here We Go Again](https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Here We Go Again](https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf) | 2:44 |
+| 97 | [Hurricane](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane](https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS) | 2:27 |
 | 98 | [Tukoh Taka \- Official FIFA Fan Festival™ Anthem](https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Tukoh Taka \(Official FIFA Fan Festival™Anthem\)](https://open.spotify.com/album/2Coh1rdkbDRHPI5WLkpNpO) | 2:58 |
 | 99 | [Don't You Hold Me Down](https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Don't You Hold Me Down](https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ) | 2:12 |
 | 100 | [You for Me](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You for Me](https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT) | 2:55 |

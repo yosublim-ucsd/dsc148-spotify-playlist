@@ -4,7 +4,7 @@
 
 > Cool és trendi dalok Magyarországon.
 
-80 songs - 3 hr 59 min
+82 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,10 +16,10 @@
 | [bangkok](https://open.spotify.com/track/22BKxxJomFWgMsYn1Y7Fxn) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [zekő](https://open.spotify.com/album/7fSpOvhym4ns1HJwa6Igag) | 2:37 | 2024-07-01 |  |
 | [Barbaras Rhabarberbar](https://open.spotify.com/track/7ki0Q2nYTBhVxZvqLLDp5W) | [Bodo Wartke](https://open.spotify.com/artist/62YvTZOwIJTFumiiXIiIwn), [Marti Fischer](https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV) | [Zungenbrecher 4.0 \- Staffel 4](https://open.spotify.com/album/2AKVV2Rx3cmIZuUkND2NkC) | 1:25 | 2024-07-01 |  |
 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 | 2024-07-01 |  |
-| [Boldogtalanság](https://open.spotify.com/track/1NJqCgWaY3kwdt2f7M1iui) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Boldogtalanság](https://open.spotify.com/album/61nJQwXqRRvAcvWWsclK18) | 3:06 | 2024-07-01 |  |
+| [Boldogtalanság](https://open.spotify.com/track/1NJqCgWaY3kwdt2f7M1iui) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Boldogtalanság](https://open.spotify.com/album/61nJQwXqRRvAcvWWsclK18) | 3:06 | 2024-07-01 | 2024-07-04 |
 | [Careful What You Wish For \(the doctor said to\)](https://open.spotify.com/track/1Tob6YkutQ6jjWKzLO4gkr) | [Jack Harris](https://open.spotify.com/artist/27edmR0EqnlQYsj80VTusr) | [Careful What You Wish For \(the doctor said to\)](https://open.spotify.com/album/3rmfOGqqTeqDhwxPMNELz8) | 3:13 | 2024-07-01 |  |
 | [CARTIER](https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:30 | 2024-07-01 |  |
-| [cipoe](https://open.spotify.com/track/2H5Xte3poqJ1ld8HtmC7yc) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [cipoe](https://open.spotify.com/album/1aNoilrZREe8e16qX2fFTG) | 3:27 | 2024-07-01 |  |
+| [cipoe](https://open.spotify.com/track/2H5Xte3poqJ1ld8HtmC7yc) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [cipoe](https://open.spotify.com/album/1aNoilrZREe8e16qX2fFTG) | 3:27 | 2024-07-01 | 2024-07-04 |
 | [Delilah](https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Delilah](https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh) | 2:21 | 2024-07-01 |  |
 | [Doktor \- Torz](https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Torz](https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh) | 2:58 | 2024-07-01 |  |
 | [Don't Turn the Bass Down](https://open.spotify.com/track/0m1rKryxt6PuEStB89hEgy) | [L'Entourloop](https://open.spotify.com/artist/63vMehdxxRWq9HBZHskapk), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Don't Turn the Bass Down](https://open.spotify.com/album/0tGSQtJO7b68PSv30HXfS5) | 3:22 | 2024-07-01 |  |
@@ -31,6 +31,7 @@
 | [Forget You](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Forget You](https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6) | 2:27 | 2024-07-01 |  |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-07-01 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-07-01 |  |
+| [gát](https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 3:09 | 2024-07-01 |  |
 | [GÁZ](https://open.spotify.com/track/07L9KepMsQ4mG9BLE04mXc) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Jaber](https://open.spotify.com/artist/6T2yephqss2R5uK7CmfLgo) | [GÁZ](https://open.spotify.com/album/3AChlpJwQJBBiGrL1wsizp) | 3:05 | 2024-07-01 |  |
 | [Hajnalok a gangon](https://open.spotify.com/track/2AHMHf8SdDNySxZ4B7G5WN) | [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee) | [Hajnalok a gangon](https://open.spotify.com/album/7AURUJtIEVCq7sP3E7Dqii) | 2:51 | 2024-07-01 |  |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-07-01 |  |
@@ -45,6 +46,7 @@
 | [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 | 2024-07-01 |  |
 | [KELET](https://open.spotify.com/track/50oIkRQqZvOUIyW2x88FlD) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Signo](https://open.spotify.com/artist/7p7yZa25So6b8lbCijHW4s) | [KELET](https://open.spotify.com/album/4DfgMtt4dICgV02uUxLyW3) | 3:27 | 2024-07-01 |  |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2024-07-01 |  |
+| [Loca](https://open.spotify.com/track/4VXiDjCRkKHvXFhSX7OEri) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [KÚTVÖLGYI SÁRA](https://open.spotify.com/artist/2HFVT3TbcVZW8lWVE4eIka) | [Loca](https://open.spotify.com/album/2nKNusskARBW5lMEt3996z) | 1:54 | 2024-07-01 |  |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-07-01 |  |
 | [Makeba](https://open.spotify.com/track/5JdLUE9D743ob2RtgmVpVx) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka](https://open.spotify.com/album/2S12TNfqdnUFdTfYlE96tb) | 4:09 | 2024-07-01 |  |
 | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP) | [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs) | 2:31 | 2024-07-01 |  |

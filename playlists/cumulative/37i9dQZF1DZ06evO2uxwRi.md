@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/4ajRNEcPZ9IUY6uiCj7rpv) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 2:54 | 2023-12-15 | 2024-06-26 |
+| [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/4ajRNEcPZ9IUY6uiCj7rpv) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 2:54 | 2023-12-15 |  |
 | [20 Years From Now](https://open.spotify.com/track/13c4fq3fil9twERAWIKDPk) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick Again](https://open.spotify.com/album/2VKySLHotMO1hAlueSCQrt) | 3:32 | 2022-09-16 | 2022-11-12 |
 | [47](https://open.spotify.com/track/2BRfVAGQJynBEcKcXfYnsN) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Not Without A Fight](https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO) | 2:51 | 2023-04-18 |  |
 | [A Thousand Years](https://open.spotify.com/track/5jikbiarPYHC9fc3lYrHfV) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 4:00 | 2022-10-12 |  |
@@ -42,7 +42,7 @@
 | [Happy Being Miserable](https://open.spotify.com/track/3ecBMN1YMtDvrRjIks6uAP) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick](https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk) | 3:00 | 2022-09-16 |  |
 | [Head On Collision](https://open.spotify.com/track/11edIhzFAjPEVbZ92LQKwT) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:46 | 2022-09-16 |  |
 | [Hit Or Miss](https://open.spotify.com/track/2JGfAzStXQ1VEo6H4l6rSR) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua) | 3:22 | 2022-09-16 |  |
-| [Hold My Hand](https://open.spotify.com/track/0iWZd4aBNd3vNUF6crMiOp) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Coming Home](https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK) | 3:42 | 2022-09-16 |  |
+| [Hold My Hand](https://open.spotify.com/track/0iWZd4aBNd3vNUF6crMiOp) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Coming Home](https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK) | 3:42 | 2022-09-16 | 2024-07-04 |
 | [I Don't Wanna Know](https://open.spotify.com/track/0EosY41ozajeAz7mCMwo1K) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/1Igrcji3zf5aC61saylDE1) | 3:30 | 2022-09-16 | 2022-12-18 |
 | [I Don't Wanna Know](https://open.spotify.com/track/0w0EyGiutPSyk0RC51ZGN3) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy) | 3:30 | 2024-06-06 | 2024-07-02 |
 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/29LXlpqEptO2obuA2FC4HU) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 2:30 | 2024-02-13 |  |

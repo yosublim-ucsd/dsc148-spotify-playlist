@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 
 > This is Elliott Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,813 likes - 48 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,840 likes - 48 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 | 17 | [Alameda](https://open.spotify.com/track/7hg9DGPDztq8fjIr2YweZb) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 3:43 |
 | 18 | [Whatever \(Folk Song In C\)](https://open.spotify.com/track/5CrMp9BViHrB30hM6gbmIx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 2:17 |
 | 19 | [Everything Means Nothing To Me](https://open.spotify.com/track/6YNfrgCOy1dCXZKKRUuZVq) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 2:22 |
-| 20 | [Baby Britain](https://open.spotify.com/track/3pwj90XGAD6I0jO3q6fkCx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:13 |
+| 20 | [No Name \#3](https://open.spotify.com/track/1UwBdRQA4dMkNnixlApY7Z) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck) | 3:13 |
 | 21 | [Speed Trials](https://open.spotify.com/track/05lmqBrKGLHAmqsADEuU9a) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 3:01 |
-| 22 | [No Name \#3](https://open.spotify.com/track/1UwBdRQA4dMkNnixlApY7Z) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck) | 3:13 |
+| 22 | [Baby Britain](https://open.spotify.com/track/3pwj90XGAD6I0jO3q6fkCx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:13 |
 | 23 | [Bye](https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 1:53 |
 | 24 | [The Biggest Lie](https://open.spotify.com/track/3hPVY0KEabsLxgeupjs7bV) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM) | 2:39 |
 | 25 | [Twilight](https://open.spotify.com/track/51LWYJAmtqHLYOQD1BKG9X) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl) | 4:29 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 | 47 | [No Name \#2](https://open.spotify.com/track/3QAHvJbzjFne5mMLSEMmdV) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck) | 3:34 |
 | 48 | [King's Crossing](https://open.spotify.com/track/0pMazmJOCNRnIWe3I8COVd) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl) | 4:57 |
 
-Snapshot ID: `ZoHxgAAAAADLX770XahqiPAwYTMZ3YdG`
+Snapshot ID: `ZoNDAAAAAADiTltONA449Sd/3OlDHEs1`

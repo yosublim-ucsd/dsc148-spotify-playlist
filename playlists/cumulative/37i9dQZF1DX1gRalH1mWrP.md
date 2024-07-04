@@ -4,7 +4,7 @@
 
 > All the hits you'll need to make your summer sizzle.
 
-1,256 songs - 2 day 16 hr 53 min
+1,257 songs - 2 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Constellations](https://open.spotify.com/track/0htyzgIWrBoj9tdxwifIQ6) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/6zbpi0Hz0Sl8Mc7neSLGoL) | 3:20 | 2021-10-09 | 2021-10-16 |
 | [Control](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control](https://open.spotify.com/album/4w177LbRYa3z07NifGptFp) | 3:50 | 2020-06-06 | 2020-06-20 |
 | [Cool](https://open.spotify.com/track/3QmolSZqjjLksTUvZJ6pPS) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Cool](https://open.spotify.com/album/4yenfBKQAR4ofEgNPk5Ocn) | 2:47 | 2019-05-26\* | 2019-06-15 |
-| [Cool for the Summer](https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:34 | 2022-05-20 |  |
+| [Cool for the Summer](https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:34 | 2022-05-20 | 2024-07-04 |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:05 | 2022-06-03 | 2022-06-18 |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-05-20 | 2022-06-04 |
 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 | 2023-06-30 | 2024-02-28 |
@@ -384,6 +384,7 @@
 | [Gimme Your Number](https://open.spotify.com/track/76NZFxqS6b0xsd16e0LIfF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:37 | 2022-04-12 | 2022-04-21 |
 | [Girl From Rio](https://open.spotify.com/track/2plRom0urixt6BE8t7kOhQ) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Girl From Rio](https://open.spotify.com/album/4mMUHylk2hcCsxc2FursmJ) | 3:13 | 2021-04-30 | 2021-06-12 |
 | [GIRL LIKE ME](https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:42 | 2021-04-30 | 2021-05-28 |
+| [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 | 2024-07-02 |  |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-10-11 | 2021-10-16 |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-05-19 | 2024-02-17 |
 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2021-04-30 | 2022-04-13 |

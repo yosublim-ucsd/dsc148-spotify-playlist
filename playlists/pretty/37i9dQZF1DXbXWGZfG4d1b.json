@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 22761,
+  "num_followers": 22775,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "Sole",
+        "url": "https://open.spotify.com/album/3lQsuXtmeNGhWxezsxSbBR"
+      },
+      "artists": [
+        {
+          "name": "boom boom kid",
+          "url": "https://open.spotify.com/artist/2h2frsYL6pssri5AZdlMUU"
+        }
+      ],
+      "duration_ms": 243338,
+      "name": "Sole",
+      "url": "https://open.spotify.com/track/5CZQ77K8uZ6N2uEIUVY8fx"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "Los Aires de Buenos Aires",
         "url": "https://open.spotify.com/album/02asZQe7YMRP1bYozhWe2q"
       },
@@ -351,18 +367,18 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Sole",
-        "url": "https://open.spotify.com/album/3lQsuXtmeNGhWxezsxSbBR"
+        "name": "Lo M\u00e1s Cercano a Caer",
+        "url": "https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK"
       },
       "artists": [
         {
-          "name": "boom boom kid",
-          "url": "https://open.spotify.com/artist/2h2frsYL6pssri5AZdlMUU"
+          "name": "Nenagenix",
+          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
         }
       ],
-      "duration_ms": 243338,
-      "name": "Sole",
-      "url": "https://open.spotify.com/track/5CZQ77K8uZ6N2uEIUVY8fx"
+      "duration_ms": 173313,
+      "name": "Antes de que Olvide",
+      "url": "https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -383,22 +399,6 @@
       "duration_ms": 255860,
       "name": "Los D\u00edas Que No Est\u00e1s",
       "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Lo M\u00e1s Cercano a Caer",
-        "url": "https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK"
-      },
-      "artists": [
-        {
-          "name": "Nenagenix",
-          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
-        }
-      ],
-      "duration_ms": 173313,
-      "name": "Antes de que Olvide",
-      "url": "https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Habla Sola / Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T"
-      },
-      "artists": [
-        {
-          "name": "Sakatumba",
-          "url": "https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad"
-        }
-      ],
-      "duration_ms": 234562,
-      "name": "Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "El Hit",
         "url": "https://open.spotify.com/album/289DmDK5Hnq2Eh0d05HdI7"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 193928,
       "name": "El Hit",
       "url": "https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Habla Sola / Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T"
+      },
+      "artists": [
+        {
+          "name": "Sakatumba",
+          "url": "https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad"
+        }
+      ],
+      "duration_ms": 234562,
+      "name": "Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Ser\u00e1",
-        "url": "https://open.spotify.com/album/0OE8zZZAUTiYpEnGZkAwkV"
-      },
-      "artists": [
-        {
-          "name": "El Club Audiovisual",
-          "url": "https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7"
-        }
-      ],
-      "duration_ms": 186059,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/6jpXkK8IWxoqMIegRTNTCY"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Las Palomas",
         "url": "https://open.spotify.com/album/08k3nUDklrv3aQOnIsWCjp"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 221843,
       "name": "Las Palomas",
       "url": "https://open.spotify.com/track/4qI9iwfb7U9Q14HSylzy0l"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Ser\u00e1",
+        "url": "https://open.spotify.com/album/0OE8zZZAUTiYpEnGZkAwkV"
+      },
+      "artists": [
+        {
+          "name": "El Club Audiovisual",
+          "url": "https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7"
+        }
+      ],
+      "duration_ms": 186059,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/6jpXkK8IWxoqMIegRTNTCY"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "El Invierno",
+        "url": "https://open.spotify.com/album/3vwJWdVtc1VqpnqJbYgHgO"
+      },
+      "artists": [
+        {
+          "name": "Bifes con ensalada",
+          "url": "https://open.spotify.com/artist/65HV0X2MrHeNzgCEfruD3Y"
+        }
+      ],
+      "duration_ms": 200487,
+      "name": "El Invierno",
+      "url": "https://open.spotify.com/track/1woOd60HeP3wtjZywXQjhp"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "Humo y Menta",
         "url": "https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ"
       },
@@ -691,18 +707,18 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "El Invierno",
-        "url": "https://open.spotify.com/album/3vwJWdVtc1VqpnqJbYgHgO"
+        "name": "Una Comedia Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
       },
       "artists": [
         {
-          "name": "Bifes con ensalada",
-          "url": "https://open.spotify.com/artist/65HV0X2MrHeNzgCEfruD3Y"
+          "name": "Valentin y Los Volcanes",
+          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
         }
       ],
-      "duration_ms": 200487,
-      "name": "El Invierno",
-      "url": "https://open.spotify.com/track/1woOd60HeP3wtjZywXQjhp"
+      "duration_ms": 224031,
+      "name": "Son\u00e1mbulos",
+      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -719,22 +735,6 @@
       "duration_ms": 236890,
       "name": "Polvo",
       "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Una Comedia Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
-      },
-      "artists": [
-        {
-          "name": "Valentin y Los Volcanes",
-          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
-        }
-      ],
-      "duration_ms": 224031,
-      "name": "Son\u00e1mbulos",
-      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "Amor Express",
+        "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
+      },
+      "artists": [
+        {
+          "name": "Andry Bett",
+          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
+        }
+      ],
+      "duration_ms": 214409,
+      "name": "Amor Express",
+      "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "Canciones de Amor",
         "url": "https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Amor Express",
-        "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
-      },
-      "artists": [
-        {
-          "name": "Andry Bett",
-          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
-        }
-      ],
-      "duration_ms": 214409,
-      "name": "Amor Express",
-      "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Malambo de Acero",
         "url": "https://open.spotify.com/album/7a0A5urmtaPIF3uHTuhClP"
       },
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "\u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/6KaDzlbouoNjT5ukVF7MRA"
+      },
+      "artists": [
+        {
+          "name": "Alem",
+          "url": "https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "\u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/6sLMcDjjJYW1r78cxQT2hg"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "Santa Marta",
         "url": "https://open.spotify.com/album/7AbVZLEloCWWhtGdeYZ3Rl"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 153418,
       "name": "Adi\u00f3s Mundo Cruel",
       "url": "https://open.spotify.com/track/0xR8MLrA5Eb0XW4wA8Nvzm"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "EN EL CIELO",
-        "url": "https://open.spotify.com/album/4rirmULdcVYZ0k6xpsDXDc"
-      },
-      "artists": [
-        {
-          "name": "Juan Lopez",
-          "url": "https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT"
-        }
-      ],
-      "duration_ms": 161604,
-      "name": "TIEMPO PERFECTO",
-      "url": "https://open.spotify.com/track/4WsMd2FeCYXI9NycBNbcrh"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "\u00bfPara Qu\u00e9?",
-        "url": "https://open.spotify.com/album/6KaDzlbouoNjT5ukVF7MRA"
+        "name": "EN EL CIELO",
+        "url": "https://open.spotify.com/album/4rirmULdcVYZ0k6xpsDXDc"
       },
       "artists": [
         {
-          "name": "Alem",
-          "url": "https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS"
+          "name": "Juan Lopez",
+          "url": "https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT"
         }
       ],
-      "duration_ms": 178000,
-      "name": "\u00bfPara Qu\u00e9?",
-      "url": "https://open.spotify.com/track/6sLMcDjjJYW1r78cxQT2hg"
+      "duration_ms": 161604,
+      "name": "TIEMPO PERFECTO",
+      "url": "https://open.spotify.com/track/4WsMd2FeCYXI9NycBNbcrh"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Lapso",
-        "url": "https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU"
+        "name": "La Cena",
+        "url": "https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS"
       },
       "artists": [
         {
-          "name": "Posguerra",
-          "url": "https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf"
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
         }
       ],
-      "duration_ms": 185314,
-      "name": "Tanto Az\u00facar",
-      "url": "https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9"
+      "duration_ms": 166500,
+      "name": "La Cena",
+      "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "La Cena",
-        "url": "https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS"
+        "name": "Lapso",
+        "url": "https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU"
       },
       "artists": [
         {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+          "name": "Posguerra",
+          "url": "https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf"
         }
       ],
-      "duration_ms": 166500,
-      "name": "La Cena",
-      "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
+      "duration_ms": 185314,
+      "name": "Tanto Az\u00facar",
+      "url": "https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Distintas Frecuencias",
-        "url": "https://open.spotify.com/album/4t6JL7GsAjzeURvUwA5rJs"
-      },
-      "artists": [
-        {
-          "name": "Fantasmagoria",
-          "url": "https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn"
-        }
-      ],
-      "duration_ms": 242547,
-      "name": "Distintas Frecuencias",
-      "url": "https://open.spotify.com/track/3o90wagp7oiSUjeHcJEoAV"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "NT al sol",
         "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 202827,
       "name": "NT al sol",
       "url": "https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Distintas Frecuencias",
+        "url": "https://open.spotify.com/album/4t6JL7GsAjzeURvUwA5rJs"
+      },
+      "artists": [
+        {
+          "name": "Fantasmagoria",
+          "url": "https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn"
+        }
+      ],
+      "duration_ms": 242547,
+      "name": "Distintas Frecuencias",
+      "url": "https://open.spotify.com/track/3o90wagp7oiSUjeHcJEoAV"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1359,18 +1359,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Bueno Todo El D\u00eda",
-        "url": "https://open.spotify.com/album/7HI8Llk6hjEp4ihxXfhxZS"
+        "name": "Mi Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/5cfherksWvvP9ou8gMS8dj"
       },
       "artists": [
         {
-          "name": "Ok Pir\u00e1mides",
-          "url": "https://open.spotify.com/artist/0I9v5sjA1GZPSCQ5sXJ5hX"
+          "name": "Marcelo Saccomanno",
+          "url": "https://open.spotify.com/artist/2Sb6nU04HNObQnSBjIAnwr"
+        },
+        {
+          "name": "LeG\u00fcero",
+          "url": "https://open.spotify.com/artist/6Q6GGQ9zLNN5I4LCkYmEbN"
         }
       ],
-      "duration_ms": 312270,
-      "name": "31 de Diciembre",
-      "url": "https://open.spotify.com/track/3EobeZqwjZbOf7jl6C1Vpz"
+      "duration_ms": 274140,
+      "name": "Mi Generaci\u00f3n",
+      "url": "https://open.spotify.com/track/6ikDyxIA451wrhNzdKTQGK"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1395,22 +1399,18 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Mi Generaci\u00f3n",
-        "url": "https://open.spotify.com/album/5cfherksWvvP9ou8gMS8dj"
+        "name": "Bueno Todo El D\u00eda",
+        "url": "https://open.spotify.com/album/7HI8Llk6hjEp4ihxXfhxZS"
       },
       "artists": [
         {
-          "name": "Marcelo Saccomanno",
-          "url": "https://open.spotify.com/artist/2Sb6nU04HNObQnSBjIAnwr"
-        },
-        {
-          "name": "LeG\u00fcero",
-          "url": "https://open.spotify.com/artist/6Q6GGQ9zLNN5I4LCkYmEbN"
+          "name": "Ok Pir\u00e1mides",
+          "url": "https://open.spotify.com/artist/0I9v5sjA1GZPSCQ5sXJ5hX"
         }
       ],
-      "duration_ms": 274140,
-      "name": "Mi Generaci\u00f3n",
-      "url": "https://open.spotify.com/track/6ikDyxIA451wrhNzdKTQGK"
+      "duration_ms": 312270,
+      "name": "31 de Diciembre",
+      "url": "https://open.spotify.com/track/3EobeZqwjZbOf7jl6C1Vpz"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1431,22 +1431,6 @@
       "duration_ms": 255897,
       "name": "Espejo",
       "url": "https://open.spotify.com/track/32VI35kNjDYQhtryCeBv0y"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Congelado",
-        "url": "https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        }
-      ],
-      "duration_ms": 147053,
-      "name": "Congelado",
-      "url": "https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "Congelado",
+        "url": "https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 147053,
+      "name": "Congelado",
+      "url": "https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "Promesas",
         "url": "https://open.spotify.com/album/5DmptR4gEoK8MeXCSv9OUB"
       },
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Psicodelia arbolera",
-        "url": "https://open.spotify.com/album/2JDPqOcPBNk2Y3lfTqLu9k"
-      },
-      "artists": [
-        {
-          "name": "\u00c1rbol",
-          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
-        }
-      ],
-      "duration_ms": 248808,
-      "name": "Psicodelia arbolera",
-      "url": "https://open.spotify.com/track/1rAbshnvEsArNPwW4vUR1L"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Promesa",
         "url": "https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 208689,
       "name": "Promesa",
       "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Psicodelia arbolera",
+        "url": "https://open.spotify.com/album/2JDPqOcPBNk2Y3lfTqLu9k"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rbol",
+          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
+        }
+      ],
+      "duration_ms": 248808,
+      "name": "Psicodelia arbolera",
+      "url": "https://open.spotify.com/track/1rAbshnvEsArNPwW4vUR1L"
     },
     {
       "added_at": "2024-06-14 03:00:00",

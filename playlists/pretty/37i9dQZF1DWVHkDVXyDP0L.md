@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: South Summit
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,686 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,707 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

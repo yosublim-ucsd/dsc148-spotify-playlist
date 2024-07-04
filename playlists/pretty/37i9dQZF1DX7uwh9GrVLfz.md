@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ヤングスキニー
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,659 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,694 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 45 | [夏暁](https://open.spotify.com/track/1viY1xpThPrBqZvaCjYqHJ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [夏暁](https://open.spotify.com/album/5N6ezwJ6Sr3pyupk8TV9ez) | 3:52 |
 | 46 | [大切なもの](https://open.spotify.com/track/369Hij6w8bRwahCIlhYW5A) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [ROAD OF MAJOR](https://open.spotify.com/album/67zFliCRkFWHg1IyYr4Ryq) | 3:08 |
 | 47 | [ちょ](https://open.spotify.com/track/49pPQ1kOFA3gWhojvc1VEA) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ぽ](https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY) | 3:15 |
-| 48 | [SEE OFF](https://open.spotify.com/track/2Imt3fMqKbdG2WGKW9ZJa7) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [ETERNAL RECURRENCE](https://open.spotify.com/album/6KxD8LRLX3WRXM7pr7eEJW) | 2:18 |
-| 49 | [世界の終わり \- Primitive Version](https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [cult grass stars](https://open.spotify.com/album/4XSgfMQODTOQYV1uPGKQ5n) | 5:46 |
+| 48 | [世界の終わり \- Primitive Version](https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [cult grass stars](https://open.spotify.com/album/4XSgfMQODTOQYV1uPGKQ5n) | 5:46 |
+| 49 | [SEE OFF](https://open.spotify.com/track/2Imt3fMqKbdG2WGKW9ZJa7) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [ETERNAL RECURRENCE](https://open.spotify.com/album/6KxD8LRLX3WRXM7pr7eEJW) | 2:18 |
 | 50 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 |
 | 51 | [MajiでKoiする5秒前](https://open.spotify.com/track/77lXKVqKTfVJEnq6Q4O95e) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [GOD SAVE THE わーるど](https://open.spotify.com/album/4evwWu8G2UQvNEo8U1sxF3) | 4:50 |
 | 52 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [ストラトキャスター・シーサイド](https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx) | 3:17 |

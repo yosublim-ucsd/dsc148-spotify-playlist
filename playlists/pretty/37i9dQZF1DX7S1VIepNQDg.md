@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 
 > Got that summertime feeling 🌴
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,424 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,423 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 37 | [Good Enough](https://open.spotify.com/track/4ip14QnIGPERqjdiDqU6a0) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f) | 3:02 |
 | 38 | [Ant Pile](https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Ant Pile](https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4) | 2:06 |
 | 39 | [Right Here, for Now](https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:00 |
-| 40 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
-| 41 | [Minivan](https://open.spotify.com/track/7KMwpBjtxRcUx8inckrkhk) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Minivan](https://open.spotify.com/album/5RQmAO47FfsIBZMvR9rURH) | 4:12 |
+| 40 | [Minivan](https://open.spotify.com/track/7KMwpBjtxRcUx8inckrkhk) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Minivan](https://open.spotify.com/album/5RQmAO47FfsIBZMvR9rURH) | 4:12 |
+| 41 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
 | 42 | [Colin](https://open.spotify.com/track/6QiWtxs1JaZqD0IONUOBst) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Colin](https://open.spotify.com/album/6CdBVQJ5x5Te4skZZjcPK7) | 3:39 |
 | 43 | [Speedracer](https://open.spotify.com/track/1RtVGi6id9kOKpGp495hBV) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Speedracer](https://open.spotify.com/album/1oM2shk0jtfbsmlzrjsfIV) | 2:58 |
 | 44 | [Good Mood](https://open.spotify.com/track/0wqgJddzN1mlpkKnGc2daB) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Good Mood](https://open.spotify.com/album/4D5IsmVGxyPUPtLpNXXeK8) | 2:59 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 46 | [true](https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [true](https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv) | 3:11 |
 | 47 | [Rhinestone 1.7.2 \[2018 Export Wav\] feat\. Isabella Manfredi](https://open.spotify.com/track/06gtPF7fljlItis2PohQP0) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Isabella Manfredi](https://open.spotify.com/artist/0ROrzjhRCZbJil5PjS9yG9) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 3:53 |
 | 48 | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I) | 3:45 |
-| 49 | [Trippin Up](https://open.spotify.com/track/4hK0ysTJ6bUo6xDtonuq16) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Trippin Up](https://open.spotify.com/album/7uwEnfcYLSmSn4W8ZTCsoh) | 2:57 |
-| 50 | [Sunshine](https://open.spotify.com/track/1Q9j9J64lNWMJPuKP3Wd14) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears Drown the World in a Swimming Pool of Sorrow \(Deluxe\)](https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv) | 2:15 |
+| 49 | [Sunshine](https://open.spotify.com/track/1Q9j9J64lNWMJPuKP3Wd14) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears Drown the World in a Swimming Pool of Sorrow \(Deluxe\)](https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv) | 2:15 |
+| 50 | [Trippin Up](https://open.spotify.com/track/4hK0ysTJ6bUo6xDtonuq16) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Trippin Up](https://open.spotify.com/album/7uwEnfcYLSmSn4W8ZTCsoh) | 2:57 |
 | 51 | [TOMMY](https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po) | [WALKER.](https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB) | [TOMMY](https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1) | 3:32 |
 | 52 | [Asthma \- Billy Lemos Remix](https://open.spotify.com/track/7CpGmUMgrTTldy5yuhd1Bh) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [Asthma \(Billy Lemos Remix\)](https://open.spotify.com/album/6B6rU9XSET1u4U3pzeEXnn) | 2:03 |
 | 53 | [Oh Laura](https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [AudioLust & HigherLove](https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8) | 3:36 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 63 | [Tied Up!](https://open.spotify.com/track/37ZUrbtzezZPvuDPsbjWAd) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Tied Up!](https://open.spotify.com/album/4n3Z6bRWaewBbgKOjx8NZD) | 3:09 |
 | 64 | [Super Ego](https://open.spotify.com/track/2tRw3mlRNyEMl6FOtA1lBg) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Fresh As A Head Of Lettuce](https://open.spotify.com/album/7aDruEppNXesqQkoAHcW6L) | 4:17 |
 | 65 | [Sour Berry](https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Mosquito Love](https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V) | 3:15 |
-| 66 | [Radiohead](https://open.spotify.com/track/0JfNtlCzaVvwYtRy0bxO7H) | [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Darling](https://open.spotify.com/album/5RPzyXi3rpoPtRhF5QaseW) | 2:43 |
+| 66 | [Too Much Fun](https://open.spotify.com/track/37UG9jRXurN9Yr6sx9cq8l) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Too Much Fun](https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM) | 2:34 |
 | 67 | [Self To Blame](https://open.spotify.com/track/5KpCmDP66zOO4sjKuneMjQ) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Kayla Blackmon](https://open.spotify.com/artist/46J5rGvJ6xnn5cCZguck6W) | [Self To Blame](https://open.spotify.com/album/6NvDwBu9uM79wNI7ZzA5nY) | 4:05 |
-| 68 | [Too Much Fun](https://open.spotify.com/track/37UG9jRXurN9Yr6sx9cq8l) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Too Much Fun](https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM) | 2:34 |
+| 68 | [Radiohead](https://open.spotify.com/track/0JfNtlCzaVvwYtRy0bxO7H) | [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Darling](https://open.spotify.com/album/5RPzyXi3rpoPtRhF5QaseW) | 2:43 |
 | 69 | [Don't Really Care](https://open.spotify.com/track/6Sse51km3PDp5kHMgcVFXf) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [Don't Really Care](https://open.spotify.com/album/3809RidvYF5fZH1rFEFDFt) | 2:58 |
 | 70 | [Shining](https://open.spotify.com/track/3fELwzVdYerUr3JuxaEa5C) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Morning Light](https://open.spotify.com/album/5mMNVDT4FcwzAVQSJDGco6) | 3:23 |
 | 71 | [Territory Day](https://open.spotify.com/track/48e8TRm8xNuvCvGH9nQ6WM) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/7yo3NsVZi39N0JWEnPhDA9) | 5:26 |

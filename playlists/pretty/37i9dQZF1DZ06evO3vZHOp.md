@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 
 ### [This Is Eladio Carrion](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vZHOp)
 
-> This is Eladio Carrion\. The essential tracks, all in one playlist.
+> This Is Eladio Carrion\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,361 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,515 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 | 3 | [Hey Lil Mama](https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:36 |
 | 4 | [3 Am](https://open.spotify.com/track/1F205Nl2feOSYSztLNOJAL) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 3:28 |
 | 5 | [Hola Como Vas](https://open.spotify.com/track/0MEZYGMSPxNwUO4nAdQRBW) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:18 |
-| 6 | [SI SI SI SI \(feat\. Eladio Carrion, Bryant Myers, Dei V\)](https://open.spotify.com/track/3GY16GkbrhV1hya2TKsaaj) | [The Academy: Segunda Misión](https://open.spotify.com/artist/4C3ZmIqca9MWwThLaYbfXu), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [The Academy: Segunda Misión](https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu) | 4:01 |
-| 7 | [Mbappe](https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:27 |
+| 6 | [Mbappe](https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:27 |
+| 7 | [SI SI SI SI \(feat\. Eladio Carrion, Bryant Myers, Dei V\)](https://open.spotify.com/track/3GY16GkbrhV1hya2TKsaaj) | [The Academy: Segunda Misión](https://open.spotify.com/artist/4C3ZmIqca9MWwThLaYbfXu), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [The Academy: Segunda Misión](https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu) | 4:01 |
 | 8 | [THUNDER Y LIGHTNING](https://open.spotify.com/track/4pcafPzLDSqQktqSpxHL3E) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:37 |
 | 9 | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40](https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40](https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb) | 2:44 |
 | 10 | [Kemba Walker](https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 | 49 | [Susanoo](https://open.spotify.com/track/7JzXQByRyTjgtYzDaymfvk) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Porque Puedo](https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82) | 2:37 |
 | 50 | [Animal](https://open.spotify.com/track/2ALcaaW3YYMo08fotltKHC) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Animal](https://open.spotify.com/album/2VXV9qOEoAvUoqEws4vmEF) | 3:37 |
 
-Snapshot ID: `ZoHxgAAAAADPpPu2eO6rocf7BmYVZxii`
+Snapshot ID: `ZoNDAAAAAAC6IviVZHErP+aCY5hBQ5jW`

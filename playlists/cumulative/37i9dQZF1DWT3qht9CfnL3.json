@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "Mr. W (Deluxe)",
+        "url": "https://open.spotify.com/album/0uozDpPbY35wVv78dHMICs"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196715,
+      "name": "A Distancia",
+      "url": "https://open.spotify.com/track/57OXmqVMeKe8AaEt6Y5FG1"
+    },
+    {
+      "album": {
         "name": "Alcanc\u00eda",
         "url": "https://open.spotify.com/album/21FzQPHfPmEK4XLeETdC7o"
       },
@@ -866,6 +888,24 @@
       "duration_ms": 225013,
       "name": "Imaginate",
       "url": "https://open.spotify.com/track/29ShXDWDedEwZkYc8Du08N"
+    },
+    {
+      "album": {
+        "name": "INGRATA4 (dime si a\u00fan)",
+        "url": "https://open.spotify.com/album/2ze4ym7uREFXo0nvswNpek"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "INGRATA4 (dime si a\u00fan)",
+      "url": "https://open.spotify.com/track/6PBvW3ndFy2YafGRIniiNZ"
     },
     {
       "album": {

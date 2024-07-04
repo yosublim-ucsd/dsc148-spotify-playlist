@@ -4,7 +4,7 @@
 
 > happy 5 years of lorem\. thank you for listening :\) cover: coco & clair clair
 
-2,869 songs - 6 day 10 hr 49 min
+2,871 songs - 6 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 4:35 | 2022-05-13 | 2022-06-04 |
 | [Anthems For A Seventeen Year\-Old Girl \- From "I Saw the TV Glow"](https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Anthems For A Seventeen Year\-Old Girl \(From "I Saw the TV Glow"\)](https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT) | 3:32 | 2024-03-14 | 2024-04-27 |
 | [Anthony Kiedis](https://open.spotify.com/track/7479TzoEcfeJGhWQe9FlPO) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Anthony Kiedis / Front Tooth](https://open.spotify.com/album/1CcBo1LdiOEub1TElpzPen) | 2:51 | 2021-09-30 | 2021-12-02 |
-| [Any Day Now](https://open.spotify.com/track/1cBUacNdVpbYZok1Mtklcq) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Any Day Now](https://open.spotify.com/album/6HmLstTPXIcQLaJ8ELX0gO) | 3:17 | 2024-06-07 |  |
+| [Any Day Now](https://open.spotify.com/track/1cBUacNdVpbYZok1Mtklcq) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Any Day Now](https://open.spotify.com/album/6HmLstTPXIcQLaJ8ELX0gO) | 3:17 | 2024-06-07 | 2024-07-04 |
 | [Any Way You Want Me](https://open.spotify.com/track/0UYuRLB2wbG7X19Hd5DeQ2) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 1:31 | 2022-11-18 | 2022-12-24 |
 | [Anybody Else](https://open.spotify.com/track/4fItn7RxUvHIJloefw56DS) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Anybody Else](https://open.spotify.com/album/6b2sqlXepZzriu8shzsIjh) | 4:10 | 2022-03-09 | 2022-04-23 |
 | [Anybody Else](https://open.spotify.com/track/3FyNoNgNO6qkdjCD6eFikX) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Anybody Else](https://open.spotify.com/album/6FDZydExiImBtXWfyUNOOS) | 2:10 | 2021-04-29 | 2022-01-08 |
@@ -790,6 +790,7 @@
 | [Even When The Sun is Dead](https://open.spotify.com/track/2qhvP4If0pFP5SCk1xuU30) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Even When The Sun is Dead](https://open.spotify.com/album/0aIrTtrBqrEHggWVEtErqb) | 2:16 | 2024-02-02 | 2024-02-17 |
 | [Even When The Sun is Dead](https://open.spotify.com/track/7zH3Qm6lu296i2owAENBLk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Even When The Sun is Dead](https://open.spotify.com/album/10Se7e9BSliI7oLITqATVn) | 2:16 | 2024-02-02 | 2024-02-08 |
 | [Ever Again](https://open.spotify.com/track/2E5e4J3nm1LMHkqTS21Dlq) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/6WZjFvrzwq8SOGe0r8R3qk) | 4:24 | 2021-01-29 | 2021-02-06 |
+| [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-03 |  |
 | [Ever Since New York](https://open.spotify.com/track/5LABCxgmP7DATATIJXOh6n) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 4:13 | 2019-07-30\* | 2020-11-27 |
 | [everest](https://open.spotify.com/track/375vzhCsYArHMzT4UG5FgJ) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [everest](https://open.spotify.com/album/46aPiWLHkwjsEHOnCyGoQ1) | 1:49 | 2024-02-02 | 2024-02-22 |
 | [Evergreen](https://open.spotify.com/track/6YtylNU7D1S5SeO529q2AN) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dreaming of David](https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ) | 3:44 | 2020-01-31 | 2023-03-10 |
@@ -2606,6 +2607,7 @@
 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 | 2022-07-01 | 2023-01-28 |
 | [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 | 2022-07-01 | 2022-09-16 |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-07-05 | 2023-12-14 |
+| [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-03 |  |
 | [Town I Called My Home](https://open.spotify.com/track/0omwXDRLUssZ7fgl9vkL4m) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Town I Called My Home](https://open.spotify.com/album/0I0oknA0jgSUFwYDrcZNhz) | 2:19 | 2021-02-12 | 2021-05-12 |
 | [Trailer Trash](https://open.spotify.com/track/7Mm2Cj8cHboj6XPd3YKkU7) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Trailer Trash](https://open.spotify.com/album/77em8M4abNIlvUhE87N9B9) | 2:32 | 2021-04-17 | 2021-05-19 |
 | [Trap Doors](https://open.spotify.com/track/4WvfcU7QCkI49HjUQckTqA) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 0:29 | 2022-06-21 | 2022-07-02 |

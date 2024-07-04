@@ -2,7 +2,7 @@
 
 ### [This Is Alejandro Fernández](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Ossb6)
 
-> This is Alejandro Fernández\. The essential tracks, all in one playlist.
+> This Is Alejandro Fernández\. Los temas esenciales, todos en una lista.
 
 62 songs - 3 hr 35 min
 
@@ -55,10 +55,10 @@
 | [Quiero Que Vuelvas](https://open.spotify.com/track/6DO6RhWMkNezxS5PD44SJT) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 2:37 | 2023-08-08 |  |
 | [Quiéreme](https://open.spotify.com/track/6j0rlBbNv9TNfoVhiOC7Fl) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Entre Tus Brazos](https://open.spotify.com/album/2AL0jknRfCLnaEorY1M4Sa) | 4:54 | 2023-08-08 | 2024-07-02 |
 | [Qué Bien Te Vino El Adiós](https://open.spotify.com/track/1Cmmn1QXauj2Zavw6Gn8dG) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Te Llevo En La Sangre](https://open.spotify.com/album/3Ub671KoyZe3maF5cz45RU) | 3:31 | 2024-06-14 | 2024-06-15 |
-| [Qué Bueno](https://open.spotify.com/track/3k4KZ9hyZecHJqlQvAZ2zw) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 3:12 | 2023-08-13 | 2024-07-02 |
+| [Qué Bueno](https://open.spotify.com/track/3k4KZ9hyZecHJqlQvAZ2zw) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 3:12 | 2023-08-13 |  |
 | [Qué Lástima](https://open.spotify.com/track/5mqhPFVGkCJ67BtEL52pJW) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 4:20 | 2023-08-08 |  |
 | [Qué Voy a Hacer Con Mi Amor](https://open.spotify.com/track/5JpOkusDXbxrcPj1Kd0O2Q) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 4:05 | 2023-08-08 |  |
-| [Se Me Va La Voz](https://open.spotify.com/track/4QubLlsaYXoQH3CxGxuTry) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos \- Evolución](https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy) | 4:00 | 2023-08-08 |  |
+| [Se Me Va La Voz](https://open.spotify.com/track/4QubLlsaYXoQH3CxGxuTry) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos \- Evolución](https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy) | 4:00 | 2023-08-08 | 2024-07-04 |
 | [Se Me Va la Voz \(feat\. Alejandro Fernández\)](https://open.spotify.com/track/5ylcXem4LXLoWgSlNgaVSl) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Oblígame](https://open.spotify.com/album/5JPdCMOzCQS4gU1juHqZB5) | 3:17 | 2023-12-13 |  |
 | [Se Me Va La Voz \- Bachata Version](https://open.spotify.com/track/4PzGASKw1yO2e8fvDNjpzp) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Se Me Va La Voz \(Bachata Version\)](https://open.spotify.com/album/5z2gaIxSDxuVav7ttdheGj) | 3:14 | 2023-08-08 | 2023-11-11 |
 | [Si Tú No Vuelves](https://open.spotify.com/track/36R1CyVJGuQSR8YwlRW3zv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Orígenes](https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl) | 3:14 | 2023-08-08 |  |

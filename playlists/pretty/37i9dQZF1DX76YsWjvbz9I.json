@@ -1,6 +1,6 @@
 {
   "description": "The unforgettable romantic Jazz songs.",
-  "num_followers": 288834,
+  "num_followers": 288918,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-06-13 11:32:24",
       "album": {
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "A Kiss To Build A Dream On",
+      "url": "https://open.spotify.com/track/6GtJqo0vr7DqWOHQtp77cV"
+    },
+    {
+      "added_at": "2024-06-13 11:32:24",
+      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 125946,
       "name": "Have You Met Miss Jones",
       "url": "https://open.spotify.com/track/1gpAfQ8jtLxlqARnuhysFc"
-    },
-    {
-      "added_at": "2024-06-13 11:32:24",
-      "album": {
-        "name": "Hello, Dolly! (Remastered)",
-        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "A Kiss To Build A Dream On",
-      "url": "https://open.spotify.com/track/6GtJqo0vr7DqWOHQtp77cV"
     },
     {
       "added_at": "2024-06-13 11:32:24",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-06-13 11:32:24",
       "album": {
-        "name": "All of You",
-        "url": "https://open.spotify.com/album/2cN5fPkdSSmUlWhFxpsVrk"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "The Nearness of You",
-      "url": "https://open.spotify.com/track/1lk5RIC2NMUMLgyOVMSCKs"
-    },
-    {
-      "added_at": "2024-06-13 11:32:24",
-      "album": {
         "name": "Love Swings",
         "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 104773,
       "name": "The More I See You",
       "url": "https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3"
+    },
+    {
+      "added_at": "2024-06-13 11:32:24",
+      "album": {
+        "name": "All of You",
+        "url": "https://open.spotify.com/album/2cN5fPkdSSmUlWhFxpsVrk"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "The Nearness of You",
+      "url": "https://open.spotify.com/track/1lk5RIC2NMUMLgyOVMSCKs"
     },
     {
       "added_at": "2024-06-13 11:32:24",
@@ -1211,22 +1211,18 @@
     {
       "added_at": "2024-06-13 11:32:24",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/29hewcqIIQfEFYlghRWYD2"
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
       "artists": [
         {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        },
-        {
-          "name": "Jeff Rach",
-          "url": "https://open.spotify.com/artist/6YAlFgtCMJB9VKgKncFlTN"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 239266,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/35jMzVgRFxGkSg7N0ZMVTw"
+      "duration_ms": 162000,
+      "name": "You're Getting To Be A Habit With Me",
+      "url": "https://open.spotify.com/track/3JrECZZVBiWeL9GJMMfzdj"
     },
     {
       "added_at": "2024-06-13 11:32:24",
@@ -1247,18 +1243,38 @@
     {
       "added_at": "2024-06-13 11:32:24",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+        "name": "Sings The Music Of Cole Porter",
+        "url": "https://open.spotify.com/album/7FyTUyjduHNUKGU1uTbvak"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
         }
       ],
-      "duration_ms": 162000,
-      "name": "You're Getting To Be A Habit With Me",
-      "url": "https://open.spotify.com/track/3JrECZZVBiWeL9GJMMfzdj"
+      "duration_ms": 232226,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0iYxYs1kiiStzdaK29yHP2"
+    },
+    {
+      "added_at": "2024-06-13 11:32:24",
+      "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/29hewcqIIQfEFYlghRWYD2"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        },
+        {
+          "name": "Jeff Rach",
+          "url": "https://open.spotify.com/artist/6YAlFgtCMJB9VKgKncFlTN"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/35jMzVgRFxGkSg7N0ZMVTw"
     },
     {
       "added_at": "2024-06-13 11:32:24",
@@ -1291,22 +1307,6 @@
       "duration_ms": 133680,
       "name": "Our Love Is Here To Stay",
       "url": "https://open.spotify.com/track/4W2LV899ys1sJTTlu40EPh"
-    },
-    {
-      "added_at": "2024-06-13 11:32:24",
-      "album": {
-        "name": "Sings The Music Of Cole Porter",
-        "url": "https://open.spotify.com/album/7FyTUyjduHNUKGU1uTbvak"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        }
-      ],
-      "duration_ms": 232226,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0iYxYs1kiiStzdaK29yHP2"
     },
     {
       "added_at": "2024-06-13 11:32:24",

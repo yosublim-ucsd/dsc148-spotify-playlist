@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa: costee
 
-80 songs - 3 hr 58 min
+82 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,8 @@
 | [Look Who's Laughing Now](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Look Who's Laughing Now](https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3) | 2:54 | 2024-07-02 |  |
 | [LOVE](https://open.spotify.com/track/67GlbA9W8Iv5bQo46hDmiB) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [LOVE](https://open.spotify.com/album/02TBIc5O1840Y6VSa92gU5) | 2:26 | 2024-07-02 |  |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-07-02 |  |
+| [Lupaa et sä lähet](https://open.spotify.com/track/7MR91GiYTmxI5U9oKhqn9c) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T), [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Lupaa et sä lähet](https://open.spotify.com/album/3Z3oF6JddtFYHYMY3JFCct) | 3:23 | 2024-07-03 |  |
+| [Lutkajenkka](https://open.spotify.com/track/3AfyderccqdtuLSTYAu3vv) | [Vgr](https://open.spotify.com/artist/4EJrHgRLh0VMC3aA7RkmH9) | [Lutkajenkka](https://open.spotify.com/album/52ixbntmHugJHdcSwAtsiB) | 2:42 | 2024-07-03 |  |
 | [Me Before You](https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Me Before You](https://open.spotify.com/album/4hElKzCyDVbddwxZe4f9jb) | 3:35 | 2024-07-02 |  |
 | [Mercy](https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Mercy](https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl) | 3:02 | 2024-07-02 |  |
 | [Mi Amore \(feat\. Ege Zulu\)](https://open.spotify.com/track/4ZX9P2D0gkCumSKJEWqp6e) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Mi Amore \(feat\. Ege Zulu\)](https://open.spotify.com/album/4JSbaUoAZke1tOOqTMjosP) | 3:03 | 2024-07-02 |  |

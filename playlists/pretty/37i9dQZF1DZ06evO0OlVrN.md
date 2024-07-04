@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 
 > This Is Los Relampagos Del Norte\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,153 likes - 39 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,152 likes - 39 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 | 28 | [Si Tu Supieras](https://open.spotify.com/track/6fSLmrZTluiHUv4XxPcDx4) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Regreso Triunfal Ramon Ayala Cornelio Reyna 20 Exitos Originales](https://open.spotify.com/album/7K8wCP8rueAQHz5hBCdD0H) | 2:30 |
 | 29 | [Devolucion](https://open.spotify.com/track/7KINw8GLCQfV2SrD6hVKFr) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 de Coleccion](https://open.spotify.com/album/2ptme72Ts7zUbWInvEiXAH) | 2:12 |
 | 30 | [Ahnelo](https://open.spotify.com/track/2wKZmiRVteowF30QqLLBel) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Relampagazos](https://open.spotify.com/album/6lRVsaNHrszXSdA7ZfKtpE) | 2:53 |
-| 31 | [Que Bonita Chaparrita](https://open.spotify.com/track/1k3Mlwz2vcp8kIZnLnQQ2s) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [21 Hits, Vol\. 2](https://open.spotify.com/album/3AEdlliIqVcw2bLioQxHDI) | 2:44 |
-| 32 | [Pancha La Contrabandista](https://open.spotify.com/track/3S9CMtCRtiSuvgOPRDoIiM) | [Country Roland Band](https://open.spotify.com/artist/4lHtr3k2oeLN4wqDAU5LSs), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Country Roland Vs\. Los Relampagos](https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1) | 3:17 |
-| 33 | [Veinte Novias](https://open.spotify.com/track/77nPWfw1XzVOSV1LQDM7yi) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Cornelio Reyna Con Ramón Ayala y los Relámpagos del Norte](https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS) | 2:05 |
-| 34 | [Rogante](https://open.spotify.com/track/11RbKPEMEKr1BwOI3qwqcE) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Exitos de los Relampagos del Norte](https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa) | 2:09 |
+| 31 | [Pancha La Contrabandista](https://open.spotify.com/track/3S9CMtCRtiSuvgOPRDoIiM) | [Country Roland Band](https://open.spotify.com/artist/4lHtr3k2oeLN4wqDAU5LSs), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Country Roland Vs\. Los Relampagos](https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1) | 3:17 |
+| 32 | [Rogante](https://open.spotify.com/track/11RbKPEMEKr1BwOI3qwqcE) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Exitos de los Relampagos del Norte](https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa) | 2:09 |
+| 33 | [Que Bonita Chaparrita](https://open.spotify.com/track/1k3Mlwz2vcp8kIZnLnQQ2s) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [21 Hits, Vol\. 2](https://open.spotify.com/album/3AEdlliIqVcw2bLioQxHDI) | 2:44 |
+| 34 | [Veinte Novias](https://open.spotify.com/track/77nPWfw1XzVOSV1LQDM7yi) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Cornelio Reyna Con Ramón Ayala y los Relámpagos del Norte](https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS) | 2:05 |
 | 35 | [El Espejo](https://open.spotify.com/track/50VYNGTSdo5zgqXUcS3CWZ) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Boleros Inolvidables Con Los Relampagos Del Norte](https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz) | 3:31 |
 | 36 | [Caminar Caminar](https://open.spotify.com/track/4JL1se9SpQ9rkRmJGQj2oN) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 2:36 |
-| 37 | [Solo quiero](https://open.spotify.com/track/2TG4wMLLyoGwxBDgE8feJu) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [22 Exitos de Oro, vol\. 2](https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU) | 2:22 |
-| 38 | [Una Lágrima y un Recuerdo](https://open.spotify.com/track/6qUKLYivd4KbFGuAk3tHXX) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Boleros de Colección, vol\. 2](https://open.spotify.com/album/6GqILMDFoeerlBqSL8QnhS) | 2:42 |
+| 37 | [Una Lágrima y un Recuerdo](https://open.spotify.com/track/6qUKLYivd4KbFGuAk3tHXX) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Boleros de Colección, vol\. 2](https://open.spotify.com/album/6GqILMDFoeerlBqSL8QnhS) | 2:42 |
+| 38 | [Solo quiero](https://open.spotify.com/track/2TG4wMLLyoGwxBDgE8feJu) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [22 Exitos de Oro, vol\. 2](https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU) | 2:22 |
 | 39 | [Ven a Decirme](https://open.spotify.com/track/5JPYHivczvHw5bjav4COLC) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 2:12 |
 
-Snapshot ID: `ZoHxgAAAAADpS+dBvkOjOPk+Sua0BJ7I`
+Snapshot ID: `ZoNDAAAAAADXw+b/721G0e7sUHH1TNE2`

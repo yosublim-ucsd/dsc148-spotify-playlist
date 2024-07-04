@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYQRh3xeYje.md) - [plain]
 
 > Early Noise 2020選出アーティストVaundyの楽曲を1つのプレイリストで。All the essentials from Early Noise \(RADAR\) 2020 artist, Vaundy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,863 likes - 58 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,940 likes - 58 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [タイムパラドックス](https://open.spotify.com/track/5tUXcVSQKwoVVkziZmCOTM) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/3r4dZNt9oSqtYHs5SJOxbm) | 3:47 |
-| 2 | [恋風邪にのせて](https://open.spotify.com/track/1IFyAcFGKEoAcdFa8WwLk0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:15 |
+| 1 | [踊り子](https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:49 |
+| 2 | [裸の勇者](https://open.spotify.com/track/5zdyuqPOZ6oR6a4ZtqI1vl) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:22 |
 | 3 | [常熱](https://open.spotify.com/track/5h3ynZiK27wTtQt0uXId75) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:59 |
-| 4 | [Tokimeki](https://open.spotify.com/track/3e0Td8QexmD5l3DJzXbbcC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:32 |
-| 5 | [東京フラッシュ](https://open.spotify.com/track/6etVkKF8FAy4jXcSl8jlEO) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/7bBfstaSAzGc11JfgU40oJ) | 4:18 |
-| 6 | [裸の勇者](https://open.spotify.com/track/5zdyuqPOZ6oR6a4ZtqI1vl) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:22 |
-| 7 | [灯火](https://open.spotify.com/track/0YdCBegk4nNMCOeuiY5L0k) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/7bBfstaSAzGc11JfgU40oJ) | 2:58 |
-| 8 | [そんなbitterな話](https://open.spotify.com/track/4DmmljTCS4ViQRSLCiMnOt) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:36 |
-| 9 | [逆光 \- replica \-](https://open.spotify.com/track/3LZwKI90sFbwjJMMSfyPp7) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:57 |
-| 10 | [世界の秘密](https://open.spotify.com/track/0bv6tutpCuYApSXTF0AKrP) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:40 |
-| 11 | [しわあわせ](https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:33 |
-| 12 | [napori](https://open.spotify.com/track/25rNDxpli6DDywZ9pEWW55) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/7bBfstaSAzGc11JfgU40oJ) | 3:23 |
-| 13 | [花占い](https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:27 |
-| 14 | [怪獣の花唄](https://open.spotify.com/track/5vsHrZWigs6aoWKjFZx3AL) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/7bBfstaSAzGc11JfgU40oJ) | 3:44 |
+| 4 | [恋風邪にのせて](https://open.spotify.com/track/1IFyAcFGKEoAcdFa8WwLk0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:15 |
+| 5 | [タイムパラドックス](https://open.spotify.com/track/5tUXcVSQKwoVVkziZmCOTM) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/3r4dZNt9oSqtYHs5SJOxbm) | 3:47 |
+| 6 | [東京フラッシュ](https://open.spotify.com/track/6etVkKF8FAy4jXcSl8jlEO) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/7bBfstaSAzGc11JfgU40oJ) | 4:18 |
+| 7 | [CHAINSAW BLOOD](https://open.spotify.com/track/20CH6NjUJ8GGJQesmiqPeB) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:22 |
+| 8 | [しわあわせ](https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:33 |
+| 9 | [Tokimeki](https://open.spotify.com/track/3e0Td8QexmD5l3DJzXbbcC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:32 |
+| 10 | [灯火](https://open.spotify.com/track/0YdCBegk4nNMCOeuiY5L0k) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/7bBfstaSAzGc11JfgU40oJ) | 2:58 |
+| 11 | [そんなbitterな話](https://open.spotify.com/track/4DmmljTCS4ViQRSLCiMnOt) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:36 |
+| 12 | [逆光 \- replica \-](https://open.spotify.com/track/3LZwKI90sFbwjJMMSfyPp7) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:57 |
+| 13 | [世界の秘密](https://open.spotify.com/track/0bv6tutpCuYApSXTF0AKrP) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:40 |
+| 14 | [napori](https://open.spotify.com/track/25rNDxpli6DDywZ9pEWW55) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/7bBfstaSAzGc11JfgU40oJ) | 3:23 |
 | 15 | [不可幸力](https://open.spotify.com/track/65e5PmFI3cqoLEJYF3TfCG) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/7bBfstaSAzGc11JfgU40oJ) | 3:20 |
-| 16 | [踊り子](https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:49 |
-| 17 | [Missing](https://open.spotify.com/track/0r5a8vOYwTY2csX9UIz8xs) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ELLEGARDEN TRIBUTE](https://open.spotify.com/album/0PmKUO1o0l0abloWIJBH8u) | 3:13 |
-| 18 | [泣き地蔵](https://open.spotify.com/track/7iMmJciZihn8wrKGabtTLU) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 2:31 |
-| 19 | [CHAINSAW BLOOD](https://open.spotify.com/track/20CH6NjUJ8GGJQesmiqPeB) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:22 |
+| 16 | [花占い](https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:27 |
+| 17 | [怪獣の花唄](https://open.spotify.com/track/5vsHrZWigs6aoWKjFZx3AL) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/7bBfstaSAzGc11JfgU40oJ) | 3:44 |
+| 18 | [Missing](https://open.spotify.com/track/0r5a8vOYwTY2csX9UIz8xs) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ELLEGARDEN TRIBUTE](https://open.spotify.com/album/0PmKUO1o0l0abloWIJBH8u) | 3:13 |
+| 19 | [泣き地蔵](https://open.spotify.com/track/7iMmJciZihn8wrKGabtTLU) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 2:31 |
 | 20 | [life hack](https://open.spotify.com/track/0oYjbNIJvhu53MJGTgL1ih) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/7bBfstaSAzGc11JfgU40oJ) | 3:46 |
 | 21 | [瞳惚れ](https://open.spotify.com/track/5ZqO8UI3rELw35xCb8oF7c) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:19 |
 | 22 | [置き手紙](https://open.spotify.com/track/3I7zyBNpewaGeIRDO1QBwp) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:00 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYQRh3xeYje.md) - [plain]
 | 57 | [Vaundy \- 泣き地蔵 \(NakiJizo\) \- Go Stream Live ver.](https://open.spotify.com/episode/03yf6TTvBy8kCWPag62ri6) | [Vaundy \- 泣き地蔵 \(NakiJizo\) \- Go Stream Live ver.](https://open.spotify.com/show/1sDdqqD0Jmj1OHNs6gzjmd) | [Vaundy \- 泣き地蔵 \(NakiJizo\) \- Go Stream Live ver.](https://open.spotify.com/album/1sDdqqD0Jmj1OHNs6gzjmd) | 2:31 |
 | 58 | [Vaundy \- 不可幸力 \(Fukakoryoku\) \- Go Stream Live ver.](https://open.spotify.com/episode/2iuqnb0rniyc3s6esNvt8I) | [Vaundy \- 不可幸力 \(Fukakoryoku\) \- Go Stream Live ver.](https://open.spotify.com/show/0zJicfToSO1vQvsr0n5mmI) | [Vaundy \- 不可幸力 \(Fukakoryoku\) \- Go Stream Live ver.](https://open.spotify.com/album/0zJicfToSO1vQvsr0n5mmI) | 3:20 |
 
-Snapshot ID: `ZlapEQAAAAC/+RR0xmQGvRQ/u2yk6ko5`
+Snapshot ID: `ZoX0agAAAADeE/Uarl7Z0k2KYkiuIeGQ`

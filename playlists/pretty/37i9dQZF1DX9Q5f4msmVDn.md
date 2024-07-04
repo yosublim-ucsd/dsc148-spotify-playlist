@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/archdvs/">Archie Davis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,598 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,607 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 | 8 | [Dumebi](https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema](https://open.spotify.com/album/4l8Gg5qk0QodyJ12SNtdUf) | 2:59 |
 | 9 | [I Keep Forgettin' \(Every Time You're Near\)](https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [If That's What It Takes](https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1) | 3:42 |
 | 10 | [Double Up \(feat\. Belly and Dom Kennedy\)](https://open.spotify.com/track/4iVD0fTHGxV9JWloujsL3s) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 6:01 |
-| 11 | [Wockesha](https://open.spotify.com/track/0nqhKXDjsyBMvbeWmgijD0) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 3:00 |
-| 12 | [Dragonball Durag](https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:01 |
+| 11 | [Dragonball Durag](https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:01 |
+| 12 | [Wockesha](https://open.spotify.com/track/0nqhKXDjsyBMvbeWmgijD0) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 3:00 |
 | 13 | [LEMONHEAD \(feat\. 42 Dugg\)](https://open.spotify.com/track/5fbHRCsGpFIOLRtlhCRFDR) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:10 |
 | 14 | [dothatshit!](https://open.spotify.com/track/1KzNsOkpQthVwpCJrADJEQ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:04 |
 | 15 | [Smoothies In 1991](https://open.spotify.com/track/5hmv0zcBcIX8OIVG98imHa) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Out The Trunk](https://open.spotify.com/album/5d3B7aEbk5qvssQvlmQXJZ) | 3:44 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 
 > 2010년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,811 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,821 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 10 | [ALWAYS](https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Descendants Of The Sun Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu) | 3:25 |
 | 11 | [Cherry Bomb](https://open.spotify.com/track/3o8QzWsiiqTUVgBZfHgF58) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB– The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:56 |
 | 12 | [Haru Haru](https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 4:16 |
-| 13 | [Rough](https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND 3rd Mini Album 'SNOWFLAKE'](https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp) | 3:29 |
-| 14 | [MOVE](https://open.spotify.com/track/1cgBWgoL6520lR2QZDzdGN) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [MOVE \- The 2nd Album](https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH) | 3:31 |
-| 15 | [Good day](https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [REAL](https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh) | 3:53 |
+| 13 | [MOVE](https://open.spotify.com/track/1cgBWgoL6520lR2QZDzdGN) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [MOVE \- The 2nd Album](https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH) | 3:31 |
+| 14 | [Good day](https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [REAL](https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh) | 3:53 |
+| 15 | [Rough](https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND 3rd Mini Album 'SNOWFLAKE'](https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp) | 3:29 |
 | 16 | [Energetic](https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [1\-1=0 \(NOTHING WITHOUT YOU\)](https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8) | 3:09 |
 | 17 | [Shine](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Positive](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) | 3:18 |
 | 18 | [Descendants Of The Sun \(Original Television Soundtrack\) Pt.6 \- Talk Love](https://open.spotify.com/track/5NkpsRKvSBukdYQtl3WLZW) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Descendants Of The Sun \(Original Television Soundtrack\) Pt.6 \- Talk Love](https://open.spotify.com/album/6P6LHEL8gmkX4G4PFFp6dJ) | 3:36 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 25 | [D \(Half Moon\)](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:49 |
 | 26 | [Blue](https://open.spotify.com/track/4LOLvDtzykDC7y9WehFoOi) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:53 |
 | 27 | [HANN \(Alone\)](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HANN \(Alone\)](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) | 3:25 |
-| 28 | [Ma Boy](https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [Ma Boy](https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7) | 3:16 |
+| 28 | [Please don’t…](https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The 3rd Album Part.1](https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2) | 3:32 |
 | 29 | [View](https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Odd \- The 4th Album](https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa) | 3:10 |
-| 30 | [Please don’t…](https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The 3rd Album Part.1](https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2) | 3:32 |
+| 30 | [Ma Boy](https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [Ma Boy](https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7) | 3:16 |
 | 31 | [Something](https://open.spotify.com/track/3xHIyErJUeuy0MpjUKRuPw) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [Girl's Day Love Second Album](https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me) | 3:20 |
 | 32 | [I](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [I \- The 1st Mini Album](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) | 3:26 |
 | 33 | [200%](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:13 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 41 | [Only One](https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Only One \- The 7th Album](https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR) | 3:37 |
 | 42 | [Give it to me](https://open.spotify.com/track/1t88m8JUlqn9kf0FLmVta5) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [Give It To Me \(2\)](https://open.spotify.com/album/1nErNFyYvHnuCYvfwrMyoz) | 3:21 |
 | 43 | [HER](https://open.spotify.com/track/4jQDaI7FRGaDB0llURpnNf) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [HER](https://open.spotify.com/album/5wHs7NGuapCYtY4wWsYMi3) | 2:59 |
-| 44 | [Loner](https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Bluetory](https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O) | 3:37 |
-| 45 | [NoNoNo](https://open.spotify.com/track/5SusX17QvBBkH7WfMbTU0j) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Secret Garden](https://open.spotify.com/album/03GKVqpdr6Fi24DeAbgDRs) | 3:40 |
+| 44 | [NoNoNo](https://open.spotify.com/track/5SusX17QvBBkH7WfMbTU0j) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Secret Garden](https://open.spotify.com/album/03GKVqpdr6Fi24DeAbgDRs) | 3:40 |
+| 45 | [Loner](https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Bluetory](https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O) | 3:37 |
 | 46 | [FIRE](https://open.spotify.com/track/4q2HU9Ijpk4zJ24x7oMdXb) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [COLLECTION](https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade) | 3:45 |
 | 47 | [Baby, Don't Cry](https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:53 |
 | 48 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 90 | [Love Ya](https://open.spotify.com/track/6nW76DRJWhwBnhTLVripJe) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [Destination](https://open.spotify.com/album/6k16yhvezz8OZfMFw7gsoC) | 3:25 |
 | 91 | [NEVER](https://open.spotify.com/track/095rDYLjAHYmis3vU8gRxo) | [Sons of People](https://open.spotify.com/artist/2xNpeMJT0QrDfs4CFHygYi) | [PRODUCE 101 \- 35 Boys 5 Concepts](https://open.spotify.com/album/1cXSov8tF5PietO9VICqDI) | 3:16 |
 | 92 | [Erase \(feat.Iron\)](https://open.spotify.com/track/61wVRxT2l9NYgN2bbu8mzS) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH), [Iron](https://open.spotify.com/artist/42dy8y24lMURTr4RjATpYS) | [Erase](https://open.spotify.com/album/2xlOv4KlRfJBbKtPjrJFgr) | 3:48 |
-| 93 | [Let's not fall in love \- KR Ver.](https://open.spotify.com/track/0oZT2aKB40fzyHzqcXE3H3) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE SERIES](https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE) | 3:32 |
-| 94 | [Shampoo](https://open.spotify.com/track/50JMmvCIMZCniuFeCOsRc4) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [VIRGIN](https://open.spotify.com/album/1fgyOFuEGFnWRTT1SwWH0V) | 4:34 |
+| 93 | [Shampoo](https://open.spotify.com/track/50JMmvCIMZCniuFeCOsRc4) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [VIRGIN](https://open.spotify.com/album/1fgyOFuEGFnWRTT1SwWH0V) | 4:34 |
+| 94 | [Let's not fall in love \- KR Ver.](https://open.spotify.com/track/0oZT2aKB40fzyHzqcXE3H3) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE SERIES](https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE) | 3:32 |
 | 95 | [Second confession](https://open.spotify.com/track/3gJp5iMDX2yM0PN9CXrHBF) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Second confession](https://open.spotify.com/album/37qwQFW0AB3WMmFwEhC8xN) | 3:54 |
 | 96 | [Love, ing](https://open.spotify.com/track/269Fxuy0WNGk4nnI8M5LdK) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [RECIPE](https://open.spotify.com/album/2hEI4wV5hL1hioRpwwGBJc) | 4:30 |
 | 97 | [Time And Fallen Leaves](https://open.spotify.com/track/5Qy4FxZ6FtNwWmRaLi6Fcu) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Time And Fallen Leaves](https://open.spotify.com/album/3rF55htTUDmzgxJ5CT3XQC) | 4:07 |

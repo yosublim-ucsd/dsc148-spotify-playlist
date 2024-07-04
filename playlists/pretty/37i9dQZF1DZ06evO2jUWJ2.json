@@ -1,12 +1,12 @@
 {
-  "description": "This is Elevation Worship. C\u00e1c b\u1ea3n nh\u1ea1c b\u1ea1n n\u00ean nghe, t\u1ea5t c\u1ea3 trong m\u1ed9t danh s\u00e1ch ph\u00e1t.",
-  "num_followers": 275957,
+  "description": "This Is Elevation Worship. Los temas esenciales, todos en una lista.",
+  "num_followers": 276077,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAABuwCXR3My8EHaaWGJU/rRu",
+  "snapshot_id": "ZoNDAAAAAACTSnhARVlhK79v1kmuBQ0R",
   "tracks": [
     {
       "added_at": null,
@@ -523,18 +523,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
       "artists": [
         {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 467053,
-      "name": "Resurrecting (Live)",
-      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
+      "duration_ms": 564423,
+      "name": "Wait On You (feat. Dante Bowe & Chandler Moore)",
+      "url": "https://open.spotify.com/track/2p3qr3HQBgsjeE5rFobSDy"
     },
     {
       "added_at": null,
@@ -563,30 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
       },
       "artists": [
         {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 564423,
-      "name": "Wait On You (feat. Dante Bowe & Chandler Moore)",
-      "url": "https://open.spotify.com/track/2p3qr3HQBgsjeE5rFobSDy"
+      "duration_ms": 467053,
+      "name": "Resurrecting (Live)",
+      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy In The Morning",
-        "url": "https://open.spotify.com/album/170FUziX94zYLzcV7arINC"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 528413,
-      "name": "Joy In The Morning",
-      "url": "https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Of A Sudden / Another One",
         "url": "https://open.spotify.com/album/1GS3eQSd9wKyW1IoeBpzfI"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 475718,
       "name": "All Of A Sudden (feat. Tiffany Hudson & Chris Brown)",
       "url": "https://open.spotify.com/track/4HAsNHe4VE0kQoFutbZxOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy In The Morning",
+        "url": "https://open.spotify.com/album/170FUziX94zYLzcV7arINC"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 528413,
+      "name": "Joy In The Morning",
+      "url": "https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v"
     },
     {
       "added_at": null,

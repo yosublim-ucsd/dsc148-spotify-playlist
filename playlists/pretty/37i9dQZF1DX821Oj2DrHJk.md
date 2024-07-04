@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,608 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,635 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 28 | [The Logical Song \- Remastered 2010](https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 4:11 |
 | 29 | [Good Old\-Fashioned Lover Boy \- Remastered 2011](https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 2:53 |
 | 30 | [Take The Money And Run](https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 2:50 |
-| 31 | [Cold as Ice](https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Foreigner \(Expanded\)](https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M) | 3:20 |
-| 32 | [Wild Horses \- 2009 Mix](https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:41 |
+| 31 | [Wild Horses \- 2009 Mix](https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:41 |
+| 32 | [Cold as Ice](https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Foreigner \(Expanded\)](https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M) | 3:20 |
 | 33 | [Life on Mars? \- 2015 Remaster](https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:55 |
 | 34 | [You're My Best Friend \- Remastered 2011](https://open.spotify.com/track/4vhVDkSx9RSb2k6mWFMYNI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx) | 2:50 |
 | 35 | [Saturday Night’s Alright \(For Fighting\) \- Remastered 2014](https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 4:55 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 40 | [Fly Like An Eagle](https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 4:42 |
 | 41 | [China Grove](https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:15 |
 | 42 | [Takin' Care Of Business](https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 4:49 |
-| 43 | [Come Sail Away](https://open.spotify.com/track/0PsbWiVtix5FoTZ1s00mEl) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [The Grand Illusion](https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU) | 6:07 |
-| 44 | [Won't Get Fooled Again \- Original Album Version](https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 8:31 |
+| 43 | [Won't Get Fooled Again \- Original Album Version](https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 8:31 |
+| 44 | [Come Sail Away](https://open.spotify.com/track/0PsbWiVtix5FoTZ1s00mEl) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [The Grand Illusion](https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU) | 6:07 |
 | 45 | [Money \- 2011 Remastered Version](https://open.spotify.com/track/7Gx2q0ueNwvDp2BOZYGCMO) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side Of The Moon \(2011 Remastered Version\)](https://open.spotify.com/album/2WT1pbYjLJciAR26yMebkH) | 6:20 |
 | 46 | [I Shot The Sheriff](https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 4:23 |
 | 47 | [Up Around The Bend](https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:41 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 94 | [Can the Can](https://open.spotify.com/track/6K0kK40E7PA2i9LsGmVCfK) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/06HJVlWlwBfMKf8BE0eAHW) | 3:34 |
 | 95 | [Back In the Saddle](https://open.spotify.com/track/0ZGLuduCPjgWY1n85ykgMe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR) | 4:40 |
 | 96 | [Jesus Just Left Chicago \- 2006 Remaster](https://open.spotify.com/track/4tYjuquiKvx2Pq6usRTVWB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:30 |
-| 97 | [Bad Bad Boy](https://open.spotify.com/track/3w5sVhdCNzQyCx0aANMMmD) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Razamanaz](https://open.spotify.com/album/19kMBEeYJUwXUI92KPCGeg) | 3:58 |
-| 98 | [Down the Dustpipe](https://open.spotify.com/track/4ey3t8jCoQ7Q7M8BR09Zy0) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Down the Dustpipe](https://open.spotify.com/album/4D2lzYrLn7Jg8tIuuSF36L) | 2:02 |
-| 99 | [Get Down and Get With It](https://open.spotify.com/track/3rEUXKfkeb6kPH6NCxkgCo) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Sladest \(Expanded\)](https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW) | 3:50 |
+| 97 | [Get Down and Get With It](https://open.spotify.com/track/3rEUXKfkeb6kPH6NCxkgCo) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Sladest \(Expanded\)](https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW) | 3:50 |
+| 98 | [Bad Bad Boy](https://open.spotify.com/track/3w5sVhdCNzQyCx0aANMMmD) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Razamanaz](https://open.spotify.com/album/19kMBEeYJUwXUI92KPCGeg) | 3:58 |
+| 99 | [Down the Dustpipe](https://open.spotify.com/track/4ey3t8jCoQ7Q7M8BR09Zy0) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Down the Dustpipe](https://open.spotify.com/album/4D2lzYrLn7Jg8tIuuSF36L) | 2:02 |
 | 100 | [D'yer Mak'er \- 1990 Remaster](https://open.spotify.com/track/6UCb3me83cyCV19sjvucte) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(1994 Remaster\)](https://open.spotify.com/album/5phxHbK2GSr7hEu4orLywP) | 4:21 |
 
 Snapshot ID: `ZIsTngAAAABwLvQVw1pKqUeTUFsiIzcp`

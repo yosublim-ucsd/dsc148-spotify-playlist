@@ -1,6 +1,6 @@
 {
   "description": "Un surtido rico de canciones con sabor a M\u00e9xico. ",
-  "num_followers": 186767,
+  "num_followers": 186785,
   "original_name": "La Pozoliza",
   "owner": {
     "name": "Spotify",
@@ -207,8 +207,8 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "El D\u00eda De Los Muertos",
-        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
+        "name": "La Rueda De La Fortuna",
+        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 209266,
-      "name": "El Vals Del Olvido",
-      "url": "https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6"
+      "duration_ms": 211266,
+      "name": "El Paciente",
+      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -335,22 +335,18 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Esto S\u00ed Es Cumbia",
-        "url": "https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG"
+        "name": "De Lo Bueno, Lo Mejor",
+        "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
         }
       ],
-      "duration_ms": 266015,
-      "name": "Nunca Es Suficiente",
-      "url": "https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN"
+      "duration_ms": 204453,
+      "name": "La Buena y la Mala",
+      "url": "https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg"
     },
     {
       "added_at": "2023-09-14 01:59:37",
@@ -371,24 +367,28 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "De Lo Bueno, Lo Mejor",
-        "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
+        "name": "Esto S\u00ed Es Cumbia",
+        "url": "https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG"
       },
       "artists": [
         {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 204453,
-      "name": "La Buena y la Mala",
-      "url": "https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg"
+      "duration_ms": 266015,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN"
     },
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "La Rueda De La Fortuna",
-        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
+        "name": "El D\u00eda De Los Muertos",
+        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 211266,
-      "name": "El Paciente",
-      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
+      "duration_ms": 209266,
+      "name": "El Vals Del Olvido",
+      "url": "https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Mi Enemigo El Amor",
-      "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 241106,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Mi Enemigo El Amor",
+      "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "D\u00e9jenla Que Sea Feliz",
-        "url": "https://open.spotify.com/album/0lFXVyddx801x6GVdtxBF3"
-      },
-      "artists": [
-        {
-          "name": "Chacho Y Su Vagancia",
-          "url": "https://open.spotify.com/artist/4Amw1TvsWkH2pWxZHF8pk6"
-        }
-      ],
-      "duration_ms": 175677,
-      "name": "D\u00e9jenla Que Sea Feliz",
-      "url": "https://open.spotify.com/track/0Js77UpzQj50fJLYvEVUXH"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Un Nuevo Amor",
         "url": "https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 226776,
       "name": "Un Nuevo Amor",
       "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "D\u00e9jenla Que Sea Feliz",
+        "url": "https://open.spotify.com/album/0lFXVyddx801x6GVdtxBF3"
+      },
+      "artists": [
+        {
+          "name": "Chacho Y Su Vagancia",
+          "url": "https://open.spotify.com/artist/4Amw1TvsWkH2pWxZHF8pk6"
+        }
+      ],
+      "duration_ms": 175677,
+      "name": "D\u00e9jenla Que Sea Feliz",
+      "url": "https://open.spotify.com/track/0Js77UpzQj50fJLYvEVUXH"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Primera Cita",
-        "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 186455,
-      "name": "Primera Cita",
-      "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "No Me Beses",
         "url": "https://open.spotify.com/album/5MjWs7elYagIL0FvQA21ic"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 195266,
       "name": "No",
       "url": "https://open.spotify.com/track/60tK9PZkMuCb5Uwv28oIJM"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "Primera Cita",
+        "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "TE QUIERO",
+        "url": "https://open.spotify.com/album/4JQx52nfJX5YfcEMTs1ceq"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 153733,
+      "name": "TE QUIERO",
+      "url": "https://open.spotify.com/track/7r3xWBPAiFNZS7QVxXc3HJ"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "T\u00fa (En Vivo)",
         "url": "https://open.spotify.com/album/2HLfld8eQ6u2MvxH80WzBK"
       },
@@ -2051,22 +2067,6 @@
       "duration_ms": 263100,
       "name": "T\u00fa - En Vivo",
       "url": "https://open.spotify.com/track/25nTvCyHzlMp3bizueut5U"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "TE QUIERO",
-        "url": "https://open.spotify.com/album/4JQx52nfJX5YfcEMTs1ceq"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 153733,
-      "name": "TE QUIERO",
-      "url": "https://open.spotify.com/track/7r3xWBPAiFNZS7QVxXc3HJ"
     },
     {
       "added_at": "2023-08-08 22:27:59",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3AUv0IEjS8uKIooEtoQNF8">Raquel Silva</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-64 songs - 5 hr 37 min
+65 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Não Pare de Adorar](https://open.spotify.com/track/3ErJFFq3o2CfrwRgXhomJj) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 4:12 | 2023-12-30 |  |
 | [O Agir de Deus](https://open.spotify.com/track/0NY17bQcQpbDHfDHsvdwlg) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 4:33 | 2023-12-30 |  |
 | [O Justo Não Mendiga o Pão](https://open.spotify.com/track/24ovtI12Jj39Enfe46hJbs) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 5:27 | 2023-12-30 |  |
-| [O Quarto Homem \- Ao Vivo](https://open.spotify.com/track/0rbk7zltQAZCrN4QbZlIRh) | [Raquel Santos](https://open.spotify.com/artist/1RONzohFeeiPlK3vHssdmd) | [Corinhos de Fogo \- Culto Pentecostal \(Ao Vivo\)](https://open.spotify.com/album/3EqwWJup7BmBBrwBoEd2KL) | 7:26 | 2023-12-30 |  |
+| [O Quarto Homem](https://open.spotify.com/track/2ReCseW2bnEOxpTt9Cil6E) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 6:30 | 2024-07-03 |  |
+| [O Quarto Homem \- Ao Vivo](https://open.spotify.com/track/0rbk7zltQAZCrN4QbZlIRh) | [Raquel Santos](https://open.spotify.com/artist/1RONzohFeeiPlK3vHssdmd) | [Corinhos de Fogo \- Culto Pentecostal \(Ao Vivo\)](https://open.spotify.com/album/3EqwWJup7BmBBrwBoEd2KL) | 7:26 | 2023-12-30 | 2024-07-04 |
 | [Passa Verão](https://open.spotify.com/track/785wTE0VfI5kg0ckzQf6eG) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 5:01 | 2023-12-30 |  |
 | [Perdão](https://open.spotify.com/track/1JBefV6pBfI4K5KmfyNhWG) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 3:58 | 2023-12-30 |  |
 | [Preciso de Unção](https://open.spotify.com/track/3jy1fFJIxjvSZQjfpg8XA9) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 5:50 | 2023-12-30 |  |

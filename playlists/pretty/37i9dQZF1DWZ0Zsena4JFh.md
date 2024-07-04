@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > Un parque de diversiones para gustos inconformes y sofisticados\. Buscabulla en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,318 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,315 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 25 | [All Your Life](https://open.spotify.com/track/5tL2wDaEAsdTGLa8hN5NWq) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [All Your Life](https://open.spotify.com/album/0VwdyfZunjwEUq26Yd5Dez) | 3:16 |
 | 26 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 |
 | 27 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 |
-| 28 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 |
-| 29 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |
-| 30 | [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 |
+| 28 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |
+| 29 | [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 |
+| 30 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 |
 | 31 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 |
 | 32 | [Fainted Love](https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:50 |
 | 33 | [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 |

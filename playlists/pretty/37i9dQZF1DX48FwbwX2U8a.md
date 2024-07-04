@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 
 > ¡A almorzar con sabrosura pop y tropical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,183 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,188 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 | 26 | [Vivo en el limbo](https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz) | [Kaleth Morales](https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH), [Andres Herrera](https://open.spotify.com/artist/2b7FVYTLTkP4YTT0VokeJU) | [La Hora de la Verdad](https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA) | 6:16 |
 | 27 | [Qué Precio Tiene el Cielo \- Salsa Version](https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 5:02 |
 | 28 | [Es Mentiroso](https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Siente El Amor](https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R) | 4:02 |
-| 29 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 |
-| 30 | [Dile al Amor](https://open.spotify.com/track/6lFM8kkmpffm0aq2gzEtEK) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/5kUva4uwVPMIyo8VX7pjBI) | 3:48 |
+| 29 | [Dile al Amor](https://open.spotify.com/track/6lFM8kkmpffm0aq2gzEtEK) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/5kUva4uwVPMIyo8VX7pjBI) | 3:48 |
+| 30 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 |
 | 31 | [Y No Hago Mas Na'](https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [La Universidad de La Salsa](https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf) | 5:01 |
 | 32 | [Cuando el Amor se Daña](https://open.spotify.com/track/4uq7AHJBZbXE6jqIVqQD5A) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Con Arena Nueva](https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5) | 4:21 |
 | 33 | [Lo Mejor Para Los Dos \(Todo de Cabeza\) \- Version Guitarra \- En Vivo](https://open.spotify.com/track/4tVCHHdULzG5acuwFmsRPw) | [Kaleth Morales](https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH) | [Kaleth Morales En Guitarras](https://open.spotify.com/album/6WEgrW9kNfKtQQQWqefD7Y) | 4:11 |

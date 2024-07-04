@@ -223,18 +223,18 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
-        "name": "Navidad Con DEL",
-        "url": "https://open.spotify.com/album/4QeCY4pjvtMEUpi0YmTrdd"
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
       "artists": [
         {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 161005,
-      "name": "Cada Diciembre",
-      "url": "https://open.spotify.com/track/2jUDLQVevkcvu8H4BpRcmZ"
+      "duration_ms": 186933,
+      "name": "Amarga Navidad",
+      "url": "https://open.spotify.com/track/1kOWMdlpetd7L5O6AtxtO9"
     },
     {
       "added_at": "2023-11-30 20:30:31",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+        "name": "Navidad Con DEL",
+        "url": "https://open.spotify.com/album/4QeCY4pjvtMEUpi0YmTrdd"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 186933,
-      "name": "Amarga Navidad",
-      "url": "https://open.spotify.com/track/1kOWMdlpetd7L5O6AtxtO9"
+      "duration_ms": 161005,
+      "name": "Cada Diciembre",
+      "url": "https://open.spotify.com/track/2jUDLQVevkcvu8H4BpRcmZ"
     },
     {
       "added_at": "2023-11-30 20:30:31",
@@ -627,8 +627,8 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
-        "name": "Al Llegar La Navidad",
-        "url": "https://open.spotify.com/album/584YXvUefVtSBELCB7pDML"
+        "name": "Voy A Pedirle A Santa Claus",
+        "url": "https://open.spotify.com/album/7cA56I7kD0crUz40sGPqtW"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 139722,
-      "name": "Al Llegar La Navidad",
-      "url": "https://open.spotify.com/track/4qe40waYkAOOZmW1XOpugn"
+      "duration_ms": 157042,
+      "name": "Voy A Pedirle A Santa Claus",
+      "url": "https://open.spotify.com/track/1HKXIQ2GtrOPfSoUz0e0Jk"
     },
     {
       "added_at": "2023-11-30 20:30:31",
@@ -723,8 +723,8 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
-        "name": "Voy A Pedirle A Santa Claus",
-        "url": "https://open.spotify.com/album/7cA56I7kD0crUz40sGPqtW"
+        "name": "Al Llegar La Navidad",
+        "url": "https://open.spotify.com/album/584YXvUefVtSBELCB7pDML"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 157042,
-      "name": "Voy A Pedirle A Santa Claus",
-      "url": "https://open.spotify.com/track/1HKXIQ2GtrOPfSoUz0e0Jk"
+      "duration_ms": 139722,
+      "name": "Al Llegar La Navidad",
+      "url": "https://open.spotify.com/track/4qe40waYkAOOZmW1XOpugn"
     },
     {
       "added_at": "2023-11-30 20:30:31",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
-        "name": "Ya Viene Nochebuena",
-        "url": "https://open.spotify.com/album/7mQ9Rtxz3EdY7sghH66OR3"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 196527,
-      "name": "Ya Viene Nochebuena",
-      "url": "https://open.spotify.com/track/6VxuFIWWqa9Z2TGgFFgMB7"
-    },
-    {
-      "added_at": "2023-11-30 20:30:31",
-      "album": {
         "name": "Contigo En Navidad",
         "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 124533,
       "name": "Alrededor del A\u0301rbol de Navidad",
       "url": "https://open.spotify.com/track/12u3AcZo0voBCuVl3iG1lk"
+    },
+    {
+      "added_at": "2023-11-30 20:30:31",
+      "album": {
+        "name": "Ya Viene Nochebuena",
+        "url": "https://open.spotify.com/album/7mQ9Rtxz3EdY7sghH66OR3"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 196527,
+      "name": "Ya Viene Nochebuena",
+      "url": "https://open.spotify.com/track/6VxuFIWWqa9Z2TGgFFgMB7"
     },
     {
       "added_at": "2023-11-30 20:30:31",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
-        "name": "Otra Navidad Sin Ti",
-        "url": "https://open.spotify.com/album/7m8nA9UrbK98aYcNFLDFzJ"
-      },
-      "artists": [
-        {
-          "name": "Rigo Dominguez Y Su Grupo Audaz",
-          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
-        }
-      ],
-      "duration_ms": 190914,
-      "name": "Otra Navidad Sin Ti",
-      "url": "https://open.spotify.com/track/3aKeyoA3J0v9c57GMHjKAU"
-    },
-    {
-      "added_at": "2023-11-30 20:30:31",
-      "album": {
         "name": "Eterna Navidad Celebremos",
         "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 174600,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/6Lmnli1aPgP4ze8SyWRzBf"
+    },
+    {
+      "added_at": "2023-11-30 20:30:31",
+      "album": {
+        "name": "Otra Navidad Sin Ti",
+        "url": "https://open.spotify.com/album/7m8nA9UrbK98aYcNFLDFzJ"
+      },
+      "artists": [
+        {
+          "name": "Rigo Dominguez Y Su Grupo Audaz",
+          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
+        }
+      ],
+      "duration_ms": 190914,
+      "name": "Otra Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/3aKeyoA3J0v9c57GMHjKAU"
     },
     {
       "added_at": "2023-11-30 20:30:31",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
-        "name": "Blanca Navidad",
-        "url": "https://open.spotify.com/album/0zV6NFZnGLuSrfKPQcupTc"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 149276,
-      "name": "Blanca Navidad",
-      "url": "https://open.spotify.com/track/6MM2yVmmVOtPKTDPGmmGy0"
-    },
-    {
-      "added_at": "2023-11-30 20:30:31",
-      "album": {
         "name": "Jingle Bells (Vamos All The Way)",
         "url": "https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 155626,
       "name": "Jingle Bells (Vamos All The Way)",
       "url": "https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7"
+    },
+    {
+      "added_at": "2023-11-30 20:30:31",
+      "album": {
+        "name": "Blanca Navidad",
+        "url": "https://open.spotify.com/album/0zV6NFZnGLuSrfKPQcupTc"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 149276,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/6MM2yVmmVOtPKTDPGmmGy0"
     },
     {
       "added_at": "2023-11-30 20:30:31",

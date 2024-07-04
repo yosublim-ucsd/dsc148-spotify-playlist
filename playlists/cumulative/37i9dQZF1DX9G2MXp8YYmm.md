@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Bahadır Tatlıöz
 
-75 songs - 3 hr 53 min
+76 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Adını Yazdım](https://open.spotify.com/track/3U2n2bDXv2X4eIxQ0Rqsbw) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Adını Yazdım](https://open.spotify.com/album/6A4vsUDLXGiDtqplTzSPon) | 2:29 | 2024-06-27 |  |
 | [Affet Beni](https://open.spotify.com/track/5zcjVHdSAD1PFnKcloYHbL) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Affet Beni](https://open.spotify.com/album/1RfOPexXsCeH9jLGFftWqN) | 2:32 | 2024-06-27 |  |
 | [Ara Sıcak](https://open.spotify.com/track/7tdqNYEPYjv2oSL3EKB8Vu) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Ara Sıcak](https://open.spotify.com/album/3ymtkW72HtG3DoRJm4rD1c) | 3:36 | 2024-06-27 |  |
+| [Atmıyor Nabzım](https://open.spotify.com/track/4jkWK59V3EqLbxYh4aDPtS) | [Ece Seçkin](https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5) | [Atmıyor Nabzım](https://open.spotify.com/album/6hxfB48Sxt5XVZOvJhleEG) | 2:37 | 2024-06-27 |  |
 | [Ayyaş](https://open.spotify.com/track/4dJDEGzchh0apaO0CbDV2Z) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm), [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Ayyaş](https://open.spotify.com/album/34oS81dAdsQZKD5ozjv20F) | 2:23 | 2024-06-27 |  |
 | [Aç Gözünü](https://open.spotify.com/track/7HARO0MAW8sIWegMiyzbsz) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Aç Gözünü](https://open.spotify.com/album/2sRtpSvM4geAfIVtM0BWqj) | 2:53 | 2024-06-27 |  |
 | [Bal](https://open.spotify.com/track/0Dj36bCRSouqzx8wHwB9dR) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Bal](https://open.spotify.com/album/33CZvHcrejXTOA7lx1Nb7D) | 4:25 | 2024-06-27 |  |
@@ -46,7 +47,7 @@
 | [Herhalde](https://open.spotify.com/track/6NoU0H7vKasJE29Z4jDmYA) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Herhalde](https://open.spotify.com/album/7DefHeFSXtlUoYYYNsHNWO) | 4:32 | 2024-06-27 |  |
 | [İmdadım](https://open.spotify.com/track/6Bd1IXmQB9YZa7yI8j98fM) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ), [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08) | [İmdadım](https://open.spotify.com/album/616fhHuuWrVXPz8gpHR8Yd) | 2:09 | 2024-06-27 |  |
 | [İmkansız Bir Aşk Denir](https://open.spotify.com/track/7oWgtgmSgC9XCRcnj7NF0r) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [İmkansız Bir Aşk Denir](https://open.spotify.com/album/0ZpK4LGEPGWmhkhPsZrj5b) | 3:17 | 2024-06-27 |  |
-| [İçimde Sen](https://open.spotify.com/track/4341I8qgSJAiIYxScMLsyV) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [İçimde Sen](https://open.spotify.com/album/48lOZljjxbF9IGkWpaU1eK) | 3:33 | 2024-06-27 |  |
+| [İçimde Sen](https://open.spotify.com/track/4341I8qgSJAiIYxScMLsyV) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [İçimde Sen](https://open.spotify.com/album/48lOZljjxbF9IGkWpaU1eK) | 3:33 | 2024-06-27 | 2024-07-04 |
 | [Kalbim Ağlama](https://open.spotify.com/track/60dY0X3oT8s8DF5ZOsJ8zJ) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Kalbim Ağlama](https://open.spotify.com/album/6HPjuhtibuFfdqhwRYF75H) | 2:10 | 2024-06-27 |  |
 | [Kara Gözünün Hasretinden](https://open.spotify.com/track/3w180TEfTfsAKgA7oIPY0E) | [Nilüfer](https://open.spotify.com/artist/3iVIrcJmrV7GawrxVWsBUF) | [Kara Gözünün Hasretinden](https://open.spotify.com/album/47rcubW0w1EQLGy9bNEsE2) | 3:54 | 2024-06-27 |  |
 | [Karıştırıcam O Uykularını](https://open.spotify.com/track/7uUtowgQK3CVBN4BFvWRJp) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Karıştırıcam O Uykularını](https://open.spotify.com/album/7mXPzLgQeTzUsw4c7RySNy) | 3:07 | 2024-06-27 |  |

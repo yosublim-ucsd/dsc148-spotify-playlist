@@ -1,6 +1,6 @@
 {
   "description": "Hit the dance floor with your favorite bops!",
-  "num_followers": 506674,
+  "num_followers": 506762,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -439,26 +439,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "In the Name of Love",
-        "url": "https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "In the Name of Love",
-      "url": "https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "In the Name of Love",
+        "url": "https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "In the Name of Love",
+      "url": "https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Jack & Jack",
-          "url": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq"
-        }
-      ],
-      "duration_ms": 194407,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/5ZSl6gDoV6bPPxzmLeneV9"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Solo (feat. Demi Lovato)",
         "url": "https://open.spotify.com/album/1q7a5wZeti0neU2jDn8Dz3"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 222653,
       "name": "Solo (feat. Demi Lovato)",
       "url": "https://open.spotify.com/track/6kPJZM97LwdG9QIsT7khp6"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Jack & Jack",
+          "url": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq"
+        }
+      ],
+      "duration_ms": 194407,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/5ZSl6gDoV6bPPxzmLeneV9"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Never Really Over",
+        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 223523,
+      "name": "Never Really Over",
+      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Some Say (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 186878,
       "name": "Some Say - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Never Really Over",
-        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223523,
-      "name": "Never Really Over",
-      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
     },
     {
       "added_at": "2024-06-28 04:00:00",

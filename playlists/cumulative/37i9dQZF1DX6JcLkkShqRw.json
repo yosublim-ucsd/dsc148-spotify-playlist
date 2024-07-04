@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 318259,
       "name": "Arena y Sal (feat. Yandel, Saiko, FMK, LIT killah & Tunvao) - Remix",
       "url": "https://open.spotify.com/track/3MhpTdIHlgg5uxNPXSfFOJ"
@@ -6014,7 +6014,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 180980,
       "name": "Cora Roto",
       "url": "https://open.spotify.com/track/4BJjLZ7FYPMjwtfP2TsefF"
@@ -13262,6 +13262,32 @@
       "duration_ms": 131253,
       "name": "La Opci\u00f3n",
       "url": "https://open.spotify.com/track/3dHfMvK10teP8F54LRohtq"
+    },
+    {
+      "album": {
+        "name": "La Pulenta",
+        "url": "https://open.spotify.com/album/2q5j7yaSNguryfJ710Rwpq"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Javiielo",
+          "url": "https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5"
+        },
+        {
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221543,
+      "name": "La Pulenta",
+      "url": "https://open.spotify.com/track/6sd73b5KtzKUinD5VCNqg7"
     },
     {
       "album": {
@@ -28546,7 +28572,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 170058,
       "name": "Vida Gangster",
       "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"

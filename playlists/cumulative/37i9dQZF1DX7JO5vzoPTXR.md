@@ -2,7 +2,7 @@
 
 ### [Created by Women](https://open.spotify.com/playlist/37i9dQZF1DX7JO5vzoPTXR)
 
-> Songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1EFDmc9mJCPQno?si=e371f985a69844d5">Lauren Aquilina</a>
+> Songs that are 100% written, produced, and performed by women! Co\-curated this month by: <a href="https://open.spotify.com/playlist/37i9dQZF1EFDmc9mJCPQno?si=e371f985a69844d5">Lauren Aquilina</a>
 
 808 songs - 1 day 20 hr 32 min
 

@@ -1,12 +1,12 @@
 {
-  "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 84554,
+  "description": "This is Kelsea Ballerini. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
+  "num_followers": 84597,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAACsjAxcUYPFsSS50mvWzGMJ",
+  "snapshot_id": "ZoNDAAAAAACySLXXzhWCE21HSaPqk7D+",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girl Of My Dreams (Deluxe)",
-        "url": "https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH"
+        "name": "kelsea",
+        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
       },
       "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        },
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 173893,
-      "name": "Better Version (feat. Kelsea Ballerini)",
-      "url": "https://open.spotify.com/track/4hVTfI6ZXLt0BAeTZhAalr"
+      "duration_ms": 167796,
+      "name": "homecoming queen?",
+      "url": "https://open.spotify.com/track/1ytCra0qH6gcHnCVQwREvu"
     },
     {
       "added_at": null,
@@ -271,18 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "kelsea",
-        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
+        "name": "Girl Of My Dreams (Deluxe)",
+        "url": "https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH"
       },
       "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        },
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 167796,
-      "name": "homecoming queen?",
-      "url": "https://open.spotify.com/track/1ytCra0qH6gcHnCVQwREvu"
+      "duration_ms": 173893,
+      "name": "Better Version (feat. Kelsea Ballerini)",
+      "url": "https://open.spotify.com/track/4hVTfI6ZXLt0BAeTZhAalr"
     },
     {
       "added_at": null,

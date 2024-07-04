@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Dru Chen, Gentle Bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,706 likes - 111 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,707 likes - 111 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

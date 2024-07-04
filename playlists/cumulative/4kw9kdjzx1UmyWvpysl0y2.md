@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-763 songs - 1 day 19 hr 53 min
+764 songs - 1 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Kibo](https://open.spotify.com/track/0yUs4kfYFLWI72EOhhtNyI) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Kibo](https://open.spotify.com/album/6hCpTjqGmd9qrBo5mNp3S3) | 2:25 | 2023-08-08 | 2023-12-14 |
 | [Kill The Lights](https://open.spotify.com/track/4FYXh0MJf1aCu7RNadVuhK) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Kill The Lights](https://open.spotify.com/album/37NA8ATUVqpIxgLWv3LlGP) | 3:20 | 2024-01-18 | 2024-04-10 |
 | [King](https://open.spotify.com/track/0zLwiYqZEwjS4p85V07uOh) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [King](https://open.spotify.com/album/31BofjIuJwIht4LCcUmzDH) | 2:55 | 2023-05-12 | 2023-08-10 |
+| [KINGS OF THE BLOCK](https://open.spotify.com/track/7COTnn3UDXkMLclKWnPzU3) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [AFTER HOURS MIXTAPE](https://open.spotify.com/album/2ONCilDSqQYTYjD2b1sRtG) | 1:12 | 2024-07-03 |  |
 | [Kingslayer](https://open.spotify.com/track/2xYI4GVeC4SUaNsx9HIUJ1) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [RIENK](https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo) | [Kingslayer](https://open.spotify.com/album/7uAVQn7dKdmZSqk3Lu47g8) | 3:44 | 2023-03-20 | 2023-06-13 |
 | [Know Me Better](https://open.spotify.com/track/41AVceKYPXTFQNm8Sm9GP2) | [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Know Me Better](https://open.spotify.com/album/2iR9KdDE9yT2u5WVXehm1u) | 2:56 | 2024-04-25 |  |
 | [Lacuna](https://open.spotify.com/track/7DJtpkk5hNrM8AFTjKPlZv) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Kymira](https://open.spotify.com/artist/6bWdHKULequjwRPTQYWzer) | [Lacuna](https://open.spotify.com/album/0uzhDCZK3SP1oPYSzqQHOA) | 3:59 | 2023-08-08 | 2023-12-14 |
@@ -468,7 +469,7 @@
 | [Nobody Knows](https://open.spotify.com/track/3Rf0QthnKw45CyaZmyAK4N) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Nobody Knows](https://open.spotify.com/album/1QspXe5CfdcrFQOBW1ystX) | 2:57 | 2022-11-11 | 2022-11-20 |
 | [Nobody Knows](https://open.spotify.com/track/7GH3qhh9oHGQA6hje5r9DR) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 2:57 | 2022-11-19 | 2022-11-22 |
 | [Nocturnal](https://open.spotify.com/track/64jRAmk99vinM9WgvGSNch) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Nocturnal](https://open.spotify.com/album/2DZvctY5zi4s5RyyiwPFxT) | 3:43 | 2022-04-28 | 2022-07-09 |
-| [NOPE](https://open.spotify.com/track/04JSDVJbI0wlCjI5JLnI9u) | [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [NOPE](https://open.spotify.com/album/6njyxhqm4g489876fqE1lF) | 2:26 | 2024-04-15 |  |
+| [NOPE](https://open.spotify.com/track/04JSDVJbI0wlCjI5JLnI9u) | [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [NOPE](https://open.spotify.com/album/6njyxhqm4g489876fqE1lF) | 2:26 | 2024-04-15 | 2024-07-04 |
 | [Norte](https://open.spotify.com/track/6mwupa00mKosHnA2Yadp1u) | [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe), [Enviado Vida](https://open.spotify.com/artist/0oIm7Qj3lCZzwr1xLlRqT8) | [Norte](https://open.spotify.com/album/1GvvFHVDmXb6sVwDaJhliB) | 3:24 | 2023-07-04 | 2023-09-26 |
 | [Northern Lights](https://open.spotify.com/track/2Z7mgegx1cKi8UoMOFHEIl) | [Saxsquatch](https://open.spotify.com/artist/0rsyQklwpBiAvkeXbnFB1t) | [Northern Lights](https://open.spotify.com/album/7sVsz8n71bg6rA1uON2DzU) | 3:06 | 2022-06-21 | 2022-09-07 |
 | [Not My Night](https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Not My Night](https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7) | 3:22 | 2024-02-28 | 2024-05-21 |

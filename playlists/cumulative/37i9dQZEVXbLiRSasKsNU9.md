@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-2,775 songs - 6 day 2 hr 57 min
+2,776 songs - 6 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1369,7 +1369,7 @@
 | [Leylim Yar](https://open.spotify.com/track/26uWcQnnhCXzkjM7OqVFlj) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT) | [Leylim Yar](https://open.spotify.com/album/4fHmkc1XqsWmUQrT8Wd0qs) | 2:43 | 2022-04-05 | 2022-04-27 |
 | [Leão](https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 2](https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf) | 2:46 | 2023-01-03 | 2023-02-06 |
 | [Liar](https://open.spotify.com/track/1ssBrm3EZb20Kb19roQIcy) | [Silia Kapsis](https://open.spotify.com/artist/3tTnh7pp782ZdZADjqPOvC) | [Liar](https://open.spotify.com/album/5iZ22MQ93D5oS0YGxPpw4p) | 2:58 | 2024-05-13 | 2024-05-21 |
-| [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 | 2024-07-02 |  |
+| [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 | 2024-07-02 | 2024-07-04 |
 | [life gets hard](https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [life gets hard](https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj) | 2:05 | 2023-11-27 | 2023-12-13 |
 | [Lifetime](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Lifetime](https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H) | 2:38 | 2024-02-03 | 2024-02-18 |
 | [Lift Me Up](https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:16 | 2022-11-22 | 2022-11-29 |
@@ -1916,6 +1916,7 @@
 | [Pickup Man \(feat\. Post Malone\)](https://open.spotify.com/track/4MXqpnu9lAqqkjSHVlBVoZ) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [HIXTAPE Vol\. 3: DIFFTAPE \(Small Batch\)](https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy) | 3:36 | 2023-11-28 | 2023-12-01 |
 | [Pilantra](https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pilantra](https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K) | 3:12 | 2023-04-04 | 2023-04-10 |
 | [Piloto](https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Piloto](https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU) | 3:17 | 2023-09-22 | 2023-11-08 |
+| [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Mr Reload It](https://open.spotify.com/artist/51Ap1wNTfeway5Q06oFCLh) | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa) | 2:02 | 2024-07-03 |  |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2024-06-25 |  |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-06-12 | 2024-06-22 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-09-14 | 2022-09-18 |

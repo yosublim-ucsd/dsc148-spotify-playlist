@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > where folk flowers bloom\. cover: Willow Avalon
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,764 likes - 101 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,797 likes - 101 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

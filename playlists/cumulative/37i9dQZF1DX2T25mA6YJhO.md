@@ -4,7 +4,7 @@
 
 > Súbete a la nueva ola del rock español\. Foto: Sexy Zebras.
 
-100 songs - 5 hr 19 min
+101 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Perdí los Galeones](https://open.spotify.com/track/2ZNQgbErHYNYUvMKyDAWyS) | [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW), [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Perdí los Galeones](https://open.spotify.com/album/7miU2Pq1UdOCofZdftORYV) | 2:47 | 2024-06-27 |  |
 | [Pitbull](https://open.spotify.com/track/23qWMsNit3DECls7rX1ueT) | [Venturi](https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE) | [Pitbull](https://open.spotify.com/album/5zYMSBCpGIxNYNNHij1YPw) | 2:55 | 2024-06-27 |  |
 | [Plan de Mierda](https://open.spotify.com/track/1QdV4SR8PhomxtxKcwJ57P) | [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov), [Diego Ibañez](https://open.spotify.com/artist/7k6NtcAJIqG7iiFPd7KdMo) | [Plan de Mierda](https://open.spotify.com/album/2ExZDAeYu4RF6tgYGigJl4) | 3:22 | 2024-06-27 |  |
-| [Porno](https://open.spotify.com/track/6VcbzRsGlWf3JKsKSykVaG) | [Vicente Calderón](https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN) | [Porno](https://open.spotify.com/album/2DRvZbUal4kRyTkW33jvoD) | 2:46 | 2024-06-27 |  |
+| [Porno](https://open.spotify.com/track/6VcbzRsGlWf3JKsKSykVaG) | [Vicente Calderón](https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN) | [Porno](https://open.spotify.com/album/2DRvZbUal4kRyTkW33jvoD) | 2:46 | 2024-06-27 | 2024-07-04 |
 | [Pronto](https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Pronto](https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl) | 3:19 | 2024-06-27 |  |
 | [Que arda Madriz](https://open.spotify.com/track/6kiSbGU14JU9wgcWqQhQAn) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Que arda Madriz](https://open.spotify.com/album/6DbaSRHWCIjvzXvFLg3IYC) | 3:54 | 2024-06-27 |  |
 | [Reventarme](https://open.spotify.com/track/637HLsAIU5NCKr4mMssOj1) | [trashi](https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ) | [Reventarme](https://open.spotify.com/album/5uPGlDtsU8HOG5wktQdJjX) | 3:06 | 2024-06-27 |  |
@@ -106,6 +106,7 @@
 | [Vuelta a casa](https://open.spotify.com/track/73PqBVASCSI1uVM94jTymu) | [La Paloma](https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv) | [Vuelta a casa](https://open.spotify.com/album/4LT0Mq5MYcTyuo7Sivh0kH) | 3:27 | 2024-06-27 |  |
 | [Vámonos](https://open.spotify.com/track/1ZD4PRGZC7HyPLxncinlt4) | [levitants](https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV) | [Vámonos](https://open.spotify.com/album/26m3HonKZaNY2mr5dyfpDz) | 4:08 | 2024-06-27 |  |
 | [Y no lo ves](https://open.spotify.com/track/5ds91qYmtz0fSPwQgUBIJi) | [Embusteros](https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE) | [Y no lo ves](https://open.spotify.com/album/59pD3E1YOQ2vTDxHAL2v8z) | 2:51 | 2024-06-27 |  |
+| [Ya Sale El Sol](https://open.spotify.com/track/3CcaAsGasFGp9GkXByLNms) | [Los Bengala](https://open.spotify.com/artist/5aaHaDy8RxAsa3S0SB8pxW) | [Ya Sale El Sol](https://open.spotify.com/album/1UBkMgr6rZuPvHe0eaH8hq) | 3:10 | 2024-06-27 |  |
 | [¿cómo estás?](https://open.spotify.com/track/1NHO4eH5L9fkUaHb68y1t1) | [Bloodstein](https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw) | [¿cómo estás?](https://open.spotify.com/album/1KKLtNhUyiP0atBtscOLsn) | 2:53 | 2024-06-27 |  |
 | [¿Quién Quiere Más?](https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb) | [Karavana](https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd) | [¿Quién Quiere Más?](https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj) | 3:13 | 2024-06-27 |  |
 

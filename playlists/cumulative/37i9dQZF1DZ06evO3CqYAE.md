@@ -2,7 +2,7 @@
 
 ### [This Is Mercy Chinwo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3CqYAE)
 
-> This is Mercy Chinwo\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
 80 songs - 7 hr 14 min
 

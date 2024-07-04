@@ -4,12 +4,13 @@
 
 > This is 藍井エイル\. The essential tracks, all in one playlist.
 
-84 songs - 6 hr 10 min
+85 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [ANSWER](https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ANSWER](https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD) | 3:24 | 2022-12-29 |  |
+| [ANSWER](https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ANSWER](https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD) | 3:24 | 2022-12-29 | 2024-07-04 |
 | [AURORA](https://open.spotify.com/track/1j8GsYtk19jz7rtGdKuFYM) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:20 | 2022-06-09 |  |
+| [BEYOND GAZE](https://open.spotify.com/track/1uvrwz8LwsnIWzBDKOCcax) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEYOND GAZE](https://open.spotify.com/album/2B2pcaBnC1VCQgyWcmhNXY) | 4:34 | 2024-07-04 |  |
 | [Brainwash](https://open.spotify.com/track/07n5LpytLdZuKDAurEo1wp) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [IGNITE](https://open.spotify.com/album/4fGKgbMhkwR26lTC8GTFGB) | 3:18 | 2022-06-09 |  |
 | [CaCO](https://open.spotify.com/track/0E5vf3YTVdn7sbaNkdSJae) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6) | 5:11 | 2022-08-23 | 2023-08-21 |
 | [CaCO \-Instrumental](https://open.spotify.com/track/58H90Fan0uwDxquVbZ6yFK) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6) | 5:10 | 2022-08-27 | 2022-10-13 |

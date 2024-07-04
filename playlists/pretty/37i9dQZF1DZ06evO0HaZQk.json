@@ -1,12 +1,12 @@
 {
   "description": "This Is Natalia Lafourcade. Los temas esenciales, todos en una lista.",
-  "num_followers": 495011,
+  "num_followers": 495097,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAAoyMuiUTzW08/uSEzLNoNL",
+  "snapshot_id": "ZoNDAAAAAACjWr2btrjnc3LsQSWa3x60",
   "tracks": [
     {
       "added_at": null,
@@ -319,26 +319,6 @@
       "duration_ms": 373760,
       "name": "Mar\u00eda la Curandera",
       "url": "https://open.spotify.com/track/1xNi99xP8ioHUGXB5HrpNb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "50 A\u00f1os de Ser el Divo de Ju\u00e1rez",
-        "url": "https://open.spotify.com/album/2ZbkfkpptOqfiWgMGeQC1y"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 374106,
-      "name": "Ya No Vivo por Vivir (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/1vGTXll8t4co7lsSXy80x4"
     },
     {
       "added_at": null,
@@ -719,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tierra Querida",
-        "url": "https://open.spotify.com/album/2iIbxTmZaOaRyImrEpvzdM"
+        "name": "Ciudadana del Mundo Volumen 1",
+        "url": "https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR"
       },
       "artists": [
+        {
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        },
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 168775,
-      "name": "Tierra Querida",
-      "url": "https://open.spotify.com/track/15UftHtPcwWE23ON8b2uiR"
+      "duration_ms": 278693,
+      "name": "Burbujas De Amor",
+      "url": "https://open.spotify.com/track/5OYC9esJZ3b7iBYjAUI8mX"
     },
     {
       "added_at": null,
@@ -771,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tierra Querida",
+        "url": "https://open.spotify.com/album/2iIbxTmZaOaRyImrEpvzdM"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 168775,
+      "name": "Tierra Querida",
+      "url": "https://open.spotify.com/track/15UftHtPcwWE23ON8b2uiR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Giralunas, Un Homenaje a L.E.Aute",
         "url": "https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd"
       },
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 233800,
+      "name": "Mi manera de querer",
+      "url": "https://open.spotify.com/track/2rT9arG3oKOPquWNik5l73"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Que Construimos",
         "url": "https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 208289,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/0K1eUOeIAW1jwbqSrgoVMj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 233800,
-      "name": "Mi manera de querer",
-      "url": "https://open.spotify.com/track/2rT9arG3oKOPquWNik5l73"
     },
     {
       "added_at": null,

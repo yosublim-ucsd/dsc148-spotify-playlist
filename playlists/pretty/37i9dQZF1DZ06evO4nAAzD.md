@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 
 ### [This Is Hyperanhas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nAAzD)
 
-> This is Hyperanhas\. The essential tracks, all in one playlist.
+> This is Hyperanhas\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 [Spotify](https://open.spotify.com/user/spotify) - 3,707 likes - 50 songs - 3 hr 12 min
 
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 | 17 | [SP NIGHTS](https://open.spotify.com/track/7vGHlTrWDz06KyvxGOZaOg) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [SP NIGHTS](https://open.spotify.com/album/1SX7FU8W8lOiwUT4smFTtb) | 4:18 |
 | 18 | [Faixa Anjo](https://open.spotify.com/track/2sH7zkMT5mtKNEK2j4Oqgy) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [Dj Nene](https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM) | [Faixa Anjo](https://open.spotify.com/album/6mXBXROsepez0WD2YBnCZV) | 4:06 |
 | 19 | [Donas do Jogo](https://open.spotify.com/track/1cS6RxJm9VWnbIYyFM0BVm) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Donas do Jogo](https://open.spotify.com/album/7MBjkpeqRT5iQeff5uhcP9) | 4:04 |
-| 20 | [Enquanto](https://open.spotify.com/track/2utvil6oMSQHMfX3Z6eEED) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Enquanto](https://open.spotify.com/album/2WhQ5e5IxfkUSEWCIjZz2w) | 3:03 |
-| 21 | [Pouco Assunto](https://open.spotify.com/track/0JjWZ5QDvBCqtksJ4miyeF) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Pouco Assunto](https://open.spotify.com/album/2qlqrSaD2YDmhCNHCmCcFx) | 2:46 |
+| 20 | [Pouco Assunto](https://open.spotify.com/track/0JjWZ5QDvBCqtksJ4miyeF) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Pouco Assunto](https://open.spotify.com/album/2qlqrSaD2YDmhCNHCmCcFx) | 2:46 |
+| 21 | [Enquanto](https://open.spotify.com/track/2utvil6oMSQHMfX3Z6eEED) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Enquanto](https://open.spotify.com/album/2WhQ5e5IxfkUSEWCIjZz2w) | 3:03 |
 | 22 | [Quer Ir no Meu Show ?](https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Quer Ir no Meu Show ?](https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt) | 4:40 |
 | 23 | [DESILUSÃO](https://open.spotify.com/track/4ofLB6yok8YB72Cvq30beL) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [MINAS DE OURO](https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN) | 4:34 |
 | 24 | [24 Horas](https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [24 Horas](https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 | 49 | [A Firma é Forte](https://open.spotify.com/track/2hXPKwtp3D4LJl29MalPMh) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [LOUD](https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [A Firma é Forte](https://open.spotify.com/album/4CzzlUFpX7RPTzALrKFQYk) | 2:43 |
 | 50 | [Ta Bom](https://open.spotify.com/track/46UPP4xynkI9HDt6zK4dhq) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Ta Bom](https://open.spotify.com/album/5LpQKXsKsJWAGYjk2bdzkl) | 2:54 |
 
-Snapshot ID: `ZoHxgAAAAADUnFTT1tdcUF00HpZ2wX/z`
+Snapshot ID: `ZoNDAAAAAAA3Bes7aYMXk/aQwC5qG3t+`

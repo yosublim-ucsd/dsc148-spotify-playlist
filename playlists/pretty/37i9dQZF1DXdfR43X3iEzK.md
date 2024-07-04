@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > The best in new alternative pop\. Cover: Charli XCX
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,417 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,423 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,17 +50,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 40 | [The Alibi](https://open.spotify.com/track/4JyS3WGxalmpzgEbVyTycL) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [The Alibi](https://open.spotify.com/album/3P6qBjL0wCjcMsKWAAvQ3x) | 3:15 |
 | 41 | [BOYS](https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [BOYS](https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15) | 2:25 |
 | 42 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 |
-| 43 | [Wish You Were Dead](https://open.spotify.com/track/6qFnjQ4ULgV9YU5ukUDdwE) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Wish You Were Dead](https://open.spotify.com/album/2hjnP74xPNWyC2PoS7eqJF) | 3:14 |
-| 44 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 |
+| 43 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 |
+| 44 | [Wish You Were Dead](https://open.spotify.com/track/6qFnjQ4ULgV9YU5ukUDdwE) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Wish You Were Dead](https://open.spotify.com/album/2hjnP74xPNWyC2PoS7eqJF) | 3:14 |
 | 45 | [DOING IT AGAIN BABY](https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 2:25 |
-| 46 | [Shakes](https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Shakes](https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR) | 3:14 |
-| 47 | [dont let me go](https://open.spotify.com/track/7uVwJHgkpOI8mCCa0T23Vr) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [dont let me go](https://open.spotify.com/album/2Sn6jvX2QNfeE0mW1gmhCS) | 2:53 |
+| 46 | [dont let me go](https://open.spotify.com/track/7uVwJHgkpOI8mCCa0T23Vr) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [dont let me go](https://open.spotify.com/album/2Sn6jvX2QNfeE0mW1gmhCS) | 2:53 |
+| 47 | [Shakes](https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Shakes](https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR) | 3:14 |
 | 48 | [The Conflict Of The Mind](https://open.spotify.com/track/5lxZ3KmRdRn6iW5tE1Fwjp) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Conflict Of The Mind](https://open.spotify.com/album/3IcTqH3eggpX1ODT8l535d) | 4:15 |
 | 49 | [ur special to me](https://open.spotify.com/track/28k0oooG5GnOmR6fnx4kPp) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [ur special to me](https://open.spotify.com/album/1sf3JXII7PIrBTPkEi2A0L) | 1:54 |
 | 50 | [It Is What It Is](https://open.spotify.com/track/7rYAJwAZ7gokGokrsfrOQ5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [It Is What It Is](https://open.spotify.com/album/3QuRvvoQDqZybOukNzNu3V) | 2:59 |
 | 51 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 |
-| 52 | [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 |
-| 53 | [Skydiver](https://open.spotify.com/track/1IX5RUHNGNdIM92qwebSU8) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Skydiver](https://open.spotify.com/album/7rujHjkYRu2sJrCfJSlFtE) | 3:59 |
+| 52 | [Skydiver](https://open.spotify.com/track/1IX5RUHNGNdIM92qwebSU8) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Skydiver](https://open.spotify.com/album/7rujHjkYRu2sJrCfJSlFtE) | 3:59 |
+| 53 | [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 |
 | 54 | [everything about her](https://open.spotify.com/track/4cQ2xighvUJyg7DHpzySPu) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [everything about her](https://open.spotify.com/album/13rfoNMlBqL3ZTxOqiGLGk) | 2:51 |
 | 55 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 |
 | 56 | [alone](https://open.spotify.com/track/0610vGi3JMAOPgldBBq9XF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [little vice](https://open.spotify.com/album/7qdwpXcHWL1rlRGxYbkrPl) | 3:05 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 77 | [Moist](https://open.spotify.com/track/0zF0Qrico9hPxd4dqmvsEL) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Moist](https://open.spotify.com/album/03mXhmUKLGxyIWyDAIxxtV) | 2:07 |
 | 78 | [Angeles](https://open.spotify.com/track/0QNLboKNg60M1PmEBFoY6k) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Angeles / Build A Man](https://open.spotify.com/album/0AGElbWY5WV66ygbTy2aQr) | 2:03 |
 | 79 | [Blindfold \(feat\. Liz Lawrence\)](https://open.spotify.com/track/3qlNhvJd7arndpEp2CFsaJ) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Fantasies](https://open.spotify.com/album/7jI0uMNouj0i2i0Kw0NpSR) | 3:42 |
-| 80 | [You Know What You’ve Done](https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [You Know What You’ve Done](https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp) | 3:11 |
+| 80 | [Mulholland's Dinner and Wine](https://open.spotify.com/track/72cIAfDlrVYKIrSFqrLCSN) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Mulholland's Dinner and Wine](https://open.spotify.com/album/0tO938DpMVTxkaGlaGp43F) | 3:21 |
 
 Snapshot ID: `ZmLUEgAAAADZHuGshZkLBoHcdysA57ez`

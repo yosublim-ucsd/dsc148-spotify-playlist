@@ -4,7 +4,7 @@
 
 > De beste nye låtene finner du her!
 
-80 songs - 4 hr 12 min
+81 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 | 2024-06-27 |  |
 | [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 | 2024-06-27 |  |
 | [Lioness](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Lioness](https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u) | 2:52 | 2024-06-27 |  |
+| [Look Who's Laughing Now](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Look Who's Laughing Now](https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3) | 2:54 | 2024-06-27 |  |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-06-27 |  |
 | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B) | 2:40 | 2024-06-27 |  |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2024-06-27 |  |
@@ -70,7 +71,7 @@
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2024-06-27 |  |
 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 | 2024-06-27 |  |
 | [Sista Gång](https://open.spotify.com/track/2i659C6ywROaFG0kj5eOoA) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Sista Gång](https://open.spotify.com/album/4sXaL6DwBY0XD5GhIBdcD6) | 2:37 | 2024-06-27 |  |
-| [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 | 2024-06-27 |  |
+| [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 | 2024-06-27 | 2024-07-04 |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-06-27 |  |
 | [so american](https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:49 | 2024-06-27 |  |
 | [Sommerflørt](https://open.spotify.com/track/7ELUUCWIHlyWIPlO2u1WT8) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Sommerflørt](https://open.spotify.com/album/7gJqpQ14ZDjTGyGzqRqFxC) | 2:41 | 2024-06-27 |  |

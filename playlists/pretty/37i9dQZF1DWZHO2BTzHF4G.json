@@ -1,6 +1,6 @@
 {
   "description": "Rock that was on repeat during the summers of the 2000s.",
-  "num_followers": 36065,
+  "num_followers": 36114,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -283,18 +283,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Rock n Roll Jesus",
-        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
       "artists": [
         {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 297586,
-      "name": "All Summer Long",
-      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
+      "duration_ms": 285653,
+      "name": "Wake Me up When September Ends",
+      "url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -315,18 +315,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
         }
       ],
-      "duration_ms": 285653,
-      "name": "Wake Me up When September Ends",
-      "url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -379,6 +379,22 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
+        "name": "Camino Palmero",
+        "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
+      },
+      "artists": [
+        {
+          "name": "The Calling",
+          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Wherever You Will Go",
+      "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -395,18 +411,50 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Camino Palmero",
-        "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
       },
       "artists": [
         {
-          "name": "The Calling",
-          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 208600,
-      "name": "Wherever You Will Go",
-      "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
+      "duration_ms": 216933,
+      "name": "By the Way",
+      "url": "https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Boulevard of Broken Dreams",
+        "url": "https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 261266,
+      "name": "Boulevard of Broken Dreams",
+      "url": "https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 208960,
+      "name": "Crawling",
+      "url": "https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -443,50 +491,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 208960,
-      "name": "Crawling",
-      "url": "https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
-        "name": "Boulevard of Broken Dreams",
-        "url": "https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 261266,
-      "name": "Boulevard of Broken Dreams",
-      "url": "https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
-        "name": "By the Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "By the Way",
-      "url": "https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe"
+      "duration_ms": 321040,
+      "name": "Take A Look Around",
+      "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -503,22 +519,6 @@
       "duration_ms": 287906,
       "name": "Speed of Sound",
       "url": "https://open.spotify.com/track/7clUVcSOtkNWa58Gw5RfD4"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
-        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 321040,
-      "name": "Take A Look Around",
-      "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -639,18 +639,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "The Sound of Madness",
-        "url": "https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld"
+        "name": "Dark Horse",
+        "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
       },
       "artists": [
         {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 222066,
-      "name": "Second Chance",
-      "url": "https://open.spotify.com/track/0CwYG1UnRmOx8Q1EzElCIL"
+      "duration_ms": 249066,
+      "name": "If Today Was Your Last Day",
+      "url": "https://open.spotify.com/track/4QJLKU75Rg4558f4LbDBRi"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -687,18 +687,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Dark Horse",
-        "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
+        "name": "The Sound of Madness",
+        "url": "https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
         }
       ],
-      "duration_ms": 249066,
-      "name": "If Today Was Your Last Day",
-      "url": "https://open.spotify.com/track/4QJLKU75Rg4558f4LbDBRi"
+      "duration_ms": 222066,
+      "name": "Second Chance",
+      "url": "https://open.spotify.com/track/0CwYG1UnRmOx8Q1EzElCIL"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "The Best Yet",
-        "url": "https://open.spotify.com/album/2VEuUgMk7r1fFYQ4toPVHc"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        }
-      ],
-      "duration_ms": 199813,
-      "name": "Meant to Live",
-      "url": "https://open.spotify.com/track/79cAPxneo5AvbNgR6ch3Cj"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "Gavin DeGraw",
         "url": "https://open.spotify.com/album/5FbUXif3rTa8DX7TTwxegZ"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 206000,
       "name": "In Love With a Girl",
       "url": "https://open.spotify.com/track/3zcmWxxUA7Em7X3IBqZGUo"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "The Best Yet",
+        "url": "https://open.spotify.com/album/2VEuUgMk7r1fFYQ4toPVHc"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 199813,
+      "name": "Meant to Live",
+      "url": "https://open.spotify.com/track/79cAPxneo5AvbNgR6ch3Cj"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "The Best Damn Thing",
-        "url": "https://open.spotify.com/album/5dfbrFuG8lfC4Yi75J8NmK"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/5HbCnVLXRyZVxnreOPgJCK"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "Under The Iron Sea",
         "url": "https://open.spotify.com/album/3g7Ba6diNryAEMk2LWIgfB"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 186173,
       "name": "Is It Any Wonder?",
       "url": "https://open.spotify.com/track/0YmUts6QtHUEmKCASWLuHr"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "The Best Damn Thing",
+        "url": "https://open.spotify.com/album/5dfbrFuG8lfC4Yi75J8NmK"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/5HbCnVLXRyZVxnreOPgJCK"
     },
     {
       "added_at": "2021-04-09 06:36:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,582 likes - 51 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,604 likes - 51 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 50 | [Admit Defeat](https://open.spotify.com/track/4qcnL8k4i8Ynw7kAPgVoD6) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days \(This Got Out Of Hand Edition\)](https://open.spotify.com/album/2ZTutAjJEBw4mA5t4Edg1d) | 3:05 |
 | 51 | [Eight Hours](https://open.spotify.com/track/5rO5unCSIjPlKdwNxroqcx) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Tyde](https://open.spotify.com/artist/0chEYcnxOGTcwHRfmoEOYH) | [Give Me The Future + Dreams Of The Past](https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8) | 3:28 |
 
-Snapshot ID: `ZoHxgAAAAADJVM6qO4qm8z2Jt/MjZYZL`
+Snapshot ID: `ZoNDAAAAAAD1AUSeyyTOYgqd1rhph89T`

@@ -2,7 +2,7 @@
 
 ### [The 2000s Indie Scene](https://open.spotify.com/playlist/37i9dQZF1DX9LbdoYID5v7)
 
-> Music that created modern indie as we know it\. Cover: Yeah Yeah Yeahs
+> Music that created modern indie as we know it\. Cover: Florence + The Machine
 
 183 songs - 11 hr 47 min
 

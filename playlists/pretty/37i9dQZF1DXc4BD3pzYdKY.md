@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:2NdeV5rLm47xAvogXrYhJX">Ciara</a> and <a href="spotify:artist:3zSrc5vUlUxyDdS0KrxFJO">Hulvey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,433 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,469 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 35 | [HALLELUJAH](https://open.spotify.com/track/6CriiU784tvt4ICuQURfz4) | [Condoseven](https://open.spotify.com/artist/20rqbefynSHHd079In5Ipa) | [HALLELUJAH](https://open.spotify.com/album/0T72QA4QGYYQulnWCJgqVa) | 3:22 |
 | 36 | [Poetic Pain](https://open.spotify.com/track/5y9nqQtwSN06pw53WqU4Uq) | [Coop](https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP), [Swaizy](https://open.spotify.com/artist/2dMkqn8YOKg6IwN85zo7gL) | [WE MISSED YOU](https://open.spotify.com/album/0Nliq8dA1UudJEOq3UC8Q8) | 2:15 |
 | 37 | [INSTAGRAM ISN'T GOD, Pt\. 2](https://open.spotify.com/track/20ZFTqI3Fk4IDgypncA2b4) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u) | [INSTAGRAM ISN'T GOD, Pt\. 2](https://open.spotify.com/album/0xYuRCSPajIYagFIcYBoVZ) | 2:05 |
-| 38 | [HI\-C](https://open.spotify.com/track/6DmLU5yyCcwCS5MgHbZq78) | [HOLY GIRLXHLY GRL](https://open.spotify.com/artist/0w28kuI223Uywzaf68lL40), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Queen Lee](https://open.spotify.com/artist/0ESxKUSobqG0GkLrxg77XS), [Tk Lee](https://open.spotify.com/artist/05B3lggRvyTqRwEV9YDwQz) | [HI\-C](https://open.spotify.com/album/42eKaKWWjei5ViAUQ4XY1J) | 3:03 |
+| 38 | [HI\-C](https://open.spotify.com/track/6DmLU5yyCcwCS5MgHbZq78) | [HOLY GIRLXHLY GRL](https://open.spotify.com/artist/0w28kuI223Uywzaf68lL40), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Queen Lee](https://open.spotify.com/artist/0ESxKUSobqG0GkLrxg77XS), [Tk Lee](https://open.spotify.com/artist/05B3lggRvyTqRwEV9YDwQz) | [HI\-C](https://open.spotify.com/album/42eKaKWWjei5ViAUQ4XY1J) | 3:03 |
 | 39 | [Boost It Up](https://open.spotify.com/track/1M4xXF3ysXJhy0oOXYn60J) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [EGR](https://open.spotify.com/artist/4EJIkbig1thbV3C3B68c56) | [Boost It Up](https://open.spotify.com/album/4WnfeGJ9QVzmyrUa9v38Uc) | 2:37 |
 | 40 | [GUNNY](https://open.spotify.com/track/4PlpNVMB4DlxpFsu7ZUHsk) | [Zhalarina](https://open.spotify.com/artist/4YGH9xeBuphWZaiiWmG8sC), [The Gunny](https://open.spotify.com/artist/4qxrhFoxaYtiuYwJmxlCbq) | [GUNNY](https://open.spotify.com/album/3aS9xdC1g3AQ9g2uGyucim) | 2:34 |
 | 41 | [BROLL](https://open.spotify.com/track/4gdNa7be2gJI8FOmVfzPqH) | [Tay Collier](https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk) | [BROLL](https://open.spotify.com/album/0AG0b42G2Rs8dwgyLau6Xr) | 2:07 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 64 | [Say Amen](https://open.spotify.com/track/3sosZQcjSU01AInKcpk0B9) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Say Amen](https://open.spotify.com/album/3mCGSL8aX3iDk2ZpOwsf72) | 2:44 |
 | 65 | [hollow](https://open.spotify.com/track/5bOPDOpWydLeD3Cp6hikhM) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5) | [hollow](https://open.spotify.com/album/5lgtnGR1XbdY03VxVrefKf) | 2:32 |
 | 66 | [Raise Your Shoulder Up](https://open.spotify.com/track/0jqF0kugHjpAsRjAdVdqZN) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [Raise Your Shoulder Up](https://open.spotify.com/album/0LYZWOqaMVcWeiLY5q55bX) | 2:06 |
-| 67 | [SEND THAT](https://open.spotify.com/track/4W6mkTg04BFs83tvBL2Fpo) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [SEND THAT](https://open.spotify.com/album/37vA5axXcZzsTgT43sglTd) | 2:53 |
+| 67 | [SEND THAT](https://open.spotify.com/track/4W6mkTg04BFs83tvBL2Fpo) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [SEND THAT](https://open.spotify.com/album/37vA5axXcZzsTgT43sglTd) | 2:53 |
 | 68 | [Optimistic](https://open.spotify.com/track/6N1Ckp6rRovph3WuIqVtPx) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Optimistic](https://open.spotify.com/album/4owoEaptnmB47H4gzz9VUr) | 3:06 |
 | 69 | [We Know](https://open.spotify.com/track/6XDfILr6lkW93PtaapDj0x) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP), [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl) | [We Know](https://open.spotify.com/album/3uf57UIYtHoATjGCrL35h9) | 2:06 |
 | 70 | [Long Time Coming](https://open.spotify.com/track/33XcqFjd71BJv7I4k1u17X) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Long Time Coming](https://open.spotify.com/album/1ShR3yKA7APIg2YwKDKlb7) | 2:53 |

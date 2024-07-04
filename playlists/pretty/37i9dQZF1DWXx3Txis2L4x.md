@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > These shoes are not made for running, they just look nice for the playlist cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,598 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,596 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 47 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 |
 | 48 | [Two\-Timing Touch and Broken Bones](https://open.spotify.com/track/5F7AoCwgftgUdGUgd57RVE) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Tyrannosaurus Hives](https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV) | 2:00 |
 | 49 | [Cry](https://open.spotify.com/track/7jKziCSFvitg68mOsTd7RL) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 3:30 |
-| 50 | [Chalk](https://open.spotify.com/track/4Cvpb8DicKbLSiftBmac99) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Chalk](https://open.spotify.com/album/5tN7YlTteG5wZV44sNx1r6) | 2:29 |
-| 51 | ["45"](https://open.spotify.com/track/5LQN7c99Q8gvmh6xJcTZgj) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten \(Deluxe Version\)](https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY) | 3:27 |
+| 50 | ["45"](https://open.spotify.com/track/5LQN7c99Q8gvmh6xJcTZgj) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten \(Deluxe Version\)](https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY) | 3:27 |
+| 51 | [Chalk](https://open.spotify.com/track/4Cvpb8DicKbLSiftBmac99) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Chalk](https://open.spotify.com/album/5tN7YlTteG5wZV44sNx1r6) | 2:29 |
 | 52 | [And the Hero Will Drown](https://open.spotify.com/track/3WsgkhWH001sMkbZVcjreS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:13 |
 | 53 | [Genocide](https://open.spotify.com/track/2NlRF63jgKhHY1RNhoXQRX) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:33 |
 | 54 | [Nothing To Do](https://open.spotify.com/track/2Eza3ko1jcN2xkm6BkeUM4) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Nothing To Do](https://open.spotify.com/album/5YoeeJL0Ks1sYbc79jOBO7) | 2:55 |

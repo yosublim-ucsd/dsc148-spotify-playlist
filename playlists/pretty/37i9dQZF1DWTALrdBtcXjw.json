@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Jazz to set the mood for a relaxed evening.",
-  "num_followers": 416360,
+  "num_followers": 416354,
   "original_name": "Jazzy Dinner",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Dear Old Stockholm",
-        "url": "https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L"
-      },
-      "artists": [
-        {
-          "name": "CMC 3",
-          "url": "https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC"
-        }
-      ],
-      "duration_ms": 255623,
-      "name": "Dear Old Stockholm",
-      "url": "https://open.spotify.com/track/1ZrMKSaSBxizjBCYmxf1kg"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "I Wished on the Moon",
         "url": "https://open.spotify.com/album/6aALwyIISIOXJnXe5KqcH2"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 284284,
       "name": "I Wished on the Moon",
       "url": "https://open.spotify.com/track/6INyWFbiJFlZ6pmtaty1QE"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "Dear Old Stockholm",
+        "url": "https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L"
+      },
+      "artists": [
+        {
+          "name": "CMC 3",
+          "url": "https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC"
+        }
+      ],
+      "duration_ms": 255623,
+      "name": "Dear Old Stockholm",
+      "url": "https://open.spotify.com/track/1ZrMKSaSBxizjBCYmxf1kg"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "I'm Old Fashioned",
-        "url": "https://open.spotify.com/album/5pbOE0G65X50rK2J1gjKg3"
-      },
-      "artists": [
-        {
-          "name": "Charles Cook Jr.",
-          "url": "https://open.spotify.com/artist/6OuL9oPiYuoXRwsOVI4m0Y"
-        }
-      ],
-      "duration_ms": 261377,
-      "name": "I'm Old Fashioned",
-      "url": "https://open.spotify.com/track/3VudDVni3lGTV0XiR9cm8f"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "Norwegian Wood",
         "url": "https://open.spotify.com/album/6uwjnx06zvMswsAo320rqG"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 348893,
       "name": "The Shadow of Your Smile",
       "url": "https://open.spotify.com/track/7w5wI4Ft9wFqL9ExKCU2rA"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "I'm Old Fashioned",
+        "url": "https://open.spotify.com/album/5pbOE0G65X50rK2J1gjKg3"
+      },
+      "artists": [
+        {
+          "name": "Charles Cook Jr.",
+          "url": "https://open.spotify.com/artist/6OuL9oPiYuoXRwsOVI4m0Y"
+        }
+      ],
+      "duration_ms": 261377,
+      "name": "I'm Old Fashioned",
+      "url": "https://open.spotify.com/track/3VudDVni3lGTV0XiR9cm8f"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -911,46 +911,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Rob van Bavel Trio",
-        "url": "https://open.spotify.com/album/6CoarHW26qMqQjvcz7P5jJ"
-      },
-      "artists": [
-        {
-          "name": "Rob Van Bavel",
-          "url": "https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN"
-        },
-        {
-          "name": "Marc van Rooij",
-          "url": "https://open.spotify.com/artist/1EUHQilQkYWbsUQWe7SvDj"
-        },
-        {
-          "name": "Hans Van Oosterhout",
-          "url": "https://open.spotify.com/artist/6F152Gyy69dlNrx8QZzxwV"
-        }
-      ],
-      "duration_ms": 311800,
-      "name": "Every time we say goodbye",
-      "url": "https://open.spotify.com/track/3oeUIbQyI22ymUFRAuZfuu"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
-        "name": "Springtime",
-        "url": "https://open.spotify.com/album/3x04mNNTmBJjQs9jymhaGv"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9o Freire",
-          "url": "https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Springtime",
-      "url": "https://open.spotify.com/track/4j5uqScA9Gv7rgRMwaoReo"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "On the Trail",
         "url": "https://open.spotify.com/album/4vM3ImXZqAIRGCG47Cn8k8"
       },
@@ -979,18 +939,58 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Save US",
-        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
+        "name": "Springtime",
+        "url": "https://open.spotify.com/album/3x04mNNTmBJjQs9jymhaGv"
       },
       "artists": [
         {
-          "name": "Dan Cray Trio",
-          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
+          "name": "T\u00e9o Freire",
+          "url": "https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3"
         }
       ],
-      "duration_ms": 401813,
-      "name": "Summer In Central Park",
-      "url": "https://open.spotify.com/track/2ZQwrAlDEbrE2Y5snAQOIc"
+      "duration_ms": 194866,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/4j5uqScA9Gv7rgRMwaoReo"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "Rob van Bavel Trio",
+        "url": "https://open.spotify.com/album/6CoarHW26qMqQjvcz7P5jJ"
+      },
+      "artists": [
+        {
+          "name": "Rob Van Bavel",
+          "url": "https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN"
+        },
+        {
+          "name": "Marc van Rooij",
+          "url": "https://open.spotify.com/artist/1EUHQilQkYWbsUQWe7SvDj"
+        },
+        {
+          "name": "Hans Van Oosterhout",
+          "url": "https://open.spotify.com/artist/6F152Gyy69dlNrx8QZzxwV"
+        }
+      ],
+      "duration_ms": 311800,
+      "name": "Every time we say goodbye",
+      "url": "https://open.spotify.com/track/3oeUIbQyI22ymUFRAuZfuu"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "Second Strike",
+        "url": "https://open.spotify.com/album/3EaWLcF0zw4bj1EtGR7M4F"
+      },
+      "artists": [
+        {
+          "name": "Gathering in Jazz",
+          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
+        }
+      ],
+      "duration_ms": 343542,
+      "name": "Old News",
+      "url": "https://open.spotify.com/track/1CEQHQFKA803N1UhLXzOPM"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Second Strike",
-        "url": "https://open.spotify.com/album/3EaWLcF0zw4bj1EtGR7M4F"
+        "name": "Save US",
+        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
       },
       "artists": [
         {
-          "name": "Gathering in Jazz",
-          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
+          "name": "Dan Cray Trio",
+          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
         }
       ],
-      "duration_ms": 343542,
-      "name": "Old News",
-      "url": "https://open.spotify.com/track/1CEQHQFKA803N1UhLXzOPM"
+      "duration_ms": 401813,
+      "name": "Summer In Central Park",
+      "url": "https://open.spotify.com/track/2ZQwrAlDEbrE2Y5snAQOIc"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Somebody Like You",
-        "url": "https://open.spotify.com/album/5mJN2sBu9QWJfwTM9YX6cR"
-      },
-      "artists": [
-        {
-          "name": "Ballroom Jazz Collective",
-          "url": "https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL"
-        }
-      ],
-      "duration_ms": 218591,
-      "name": "The Old Country",
-      "url": "https://open.spotify.com/track/4Ttz5EWZc9f7sxdsAUnDQp"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "Book Of Intuition",
         "url": "https://open.spotify.com/album/614bG4wyE1qwWSYN3ET3mF"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 360426,
       "name": "Cook's Bay",
       "url": "https://open.spotify.com/track/5SwsD3HVU10rwnkFTZjc80"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "Somebody Like You",
+        "url": "https://open.spotify.com/album/5mJN2sBu9QWJfwTM9YX6cR"
+      },
+      "artists": [
+        {
+          "name": "Ballroom Jazz Collective",
+          "url": "https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL"
+        }
+      ],
+      "duration_ms": 218591,
+      "name": "The Old Country",
+      "url": "https://open.spotify.com/track/4Ttz5EWZc9f7sxdsAUnDQp"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Dimensions",
-        "url": "https://open.spotify.com/album/7m6RY5dNO4AlHC6WReFdD8"
-      },
-      "artists": [
-        {
-          "name": "Joonas Tuuri Quartet",
-          "url": "https://open.spotify.com/artist/08lFbKtGGbgsoek6jEKWyx"
-        }
-      ],
-      "duration_ms": 279253,
-      "name": "At That Moment",
-      "url": "https://open.spotify.com/track/4XZhdl2OpQUDgNqQlhlg03"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "Street Of Dreams",
         "url": "https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 321600,
       "name": "Out Of Nowhere",
       "url": "https://open.spotify.com/track/7yanq8mZzoDYMn7bWGtKIu"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "Dimensions",
+        "url": "https://open.spotify.com/album/7m6RY5dNO4AlHC6WReFdD8"
+      },
+      "artists": [
+        {
+          "name": "Joonas Tuuri Quartet",
+          "url": "https://open.spotify.com/artist/08lFbKtGGbgsoek6jEKWyx"
+        }
+      ],
+      "duration_ms": 279253,
+      "name": "At That Moment",
+      "url": "https://open.spotify.com/track/4XZhdl2OpQUDgNqQlhlg03"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "The Way You Look Tonight",
-        "url": "https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp"
-      },
-      "artists": [
-        {
-          "name": "Gene Hart Trio",
-          "url": "https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Dolphin Dance",
-      "url": "https://open.spotify.com/track/4Gj72lKjVm63j0gMLGaKSM"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "Standards Live",
         "url": "https://open.spotify.com/album/1ddhGaJv9WeF1NCfcItnV6"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 483533,
       "name": "The Wrong Blues",
       "url": "https://open.spotify.com/track/1U6ECfrw3tPbKemNCW9sjC"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "The Way You Look Tonight",
+        "url": "https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp"
+      },
+      "artists": [
+        {
+          "name": "Gene Hart Trio",
+          "url": "https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Dolphin Dance",
+      "url": "https://open.spotify.com/track/4Gj72lKjVm63j0gMLGaKSM"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Three Views Of A Secret",
-        "url": "https://open.spotify.com/album/59iZJ2RyW9pzRO12nD4ah2"
-      },
-      "artists": [
-        {
-          "name": "Bergsundet",
-          "url": "https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA"
-        }
-      ],
-      "duration_ms": 229166,
-      "name": "Three Views Of A Secret",
-      "url": "https://open.spotify.com/track/1AjplssYs6wbBE3NcKBsQ9"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/7yDHwMVnH0SXCYw6eD7fDg"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 314133,
       "name": "Habbit Rabbit",
       "url": "https://open.spotify.com/track/6Pz1RgeZG6tmlu0X00KHhZ"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "Three Views Of A Secret",
+        "url": "https://open.spotify.com/album/59iZJ2RyW9pzRO12nD4ah2"
+      },
+      "artists": [
+        {
+          "name": "Bergsundet",
+          "url": "https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA"
+        }
+      ],
+      "duration_ms": 229166,
+      "name": "Three Views Of A Secret",
+      "url": "https://open.spotify.com/track/1AjplssYs6wbBE3NcKBsQ9"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "The Feeling of Jazz",
-        "url": "https://open.spotify.com/album/3B8VwWDAs0YoJrDxIXXsA1"
-      },
-      "artists": [
-        {
-          "name": "Juraj Stanik Trio",
-          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
-        }
-      ],
-      "duration_ms": 292521,
-      "name": "The Feeling of Jazz",
-      "url": "https://open.spotify.com/track/2Zkvc2hQqBuNauHGj3uXWl"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "Lujon",
         "url": "https://open.spotify.com/album/1Z8cPX2dIVnagh8Dmtzo9E"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 234511,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/4RDgqonbCp4dyv9iMYrxsF"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "The Feeling of Jazz",
+        "url": "https://open.spotify.com/album/3B8VwWDAs0YoJrDxIXXsA1"
+      },
+      "artists": [
+        {
+          "name": "Juraj Stanik Trio",
+          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
+        }
+      ],
+      "duration_ms": 292521,
+      "name": "The Feeling of Jazz",
+      "url": "https://open.spotify.com/track/2Zkvc2hQqBuNauHGj3uXWl"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Stracci",
-        "url": "https://open.spotify.com/album/6pCgHAbu0Yj4TOwnQ9kqv8"
-      },
-      "artists": [
-        {
-          "name": "Michael Ragonese",
-          "url": "https://open.spotify.com/artist/0EjGd9H6W1MwrxignO2N4w"
-        }
-      ],
-      "duration_ms": 376000,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/55tez5zrk52P4sV6yn3siJ"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "September Song",
         "url": "https://open.spotify.com/album/3QUqV83KlKSJerVhvwH1VA"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 368856,
       "name": "September Song",
       "url": "https://open.spotify.com/track/6lf5rtLLUt2cNg3y6Bz39d"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "Stracci",
+        "url": "https://open.spotify.com/album/6pCgHAbu0Yj4TOwnQ9kqv8"
+      },
+      "artists": [
+        {
+          "name": "Michael Ragonese",
+          "url": "https://open.spotify.com/artist/0EjGd9H6W1MwrxignO2N4w"
+        }
+      ],
+      "duration_ms": 376000,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/55tez5zrk52P4sV6yn3siJ"
     },
     {
       "added_at": "2024-06-28 09:05:32",

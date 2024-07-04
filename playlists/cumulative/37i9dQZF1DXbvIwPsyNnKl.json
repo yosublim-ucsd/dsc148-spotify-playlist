@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 231428,
       "name": "Halik Sobrang Diin",
       "url": "https://open.spotify.com/track/6cXmKmwevj5utucE8XG7SK"
@@ -1314,6 +1314,24 @@
       "duration_ms": 209628,
       "name": "High Score",
       "url": "https://open.spotify.com/track/1CLBLpfBGZ7zk3J9X1SVQt"
+    },
+    {
+      "album": {
+        "name": "Highschool",
+        "url": "https://open.spotify.com/album/3iicfDQLWCyTSXpQoLYXmz"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Highschool",
+      "url": "https://open.spotify.com/track/29TD6wm2gYpqNlKim9ni88"
     },
     {
       "album": {
@@ -2202,7 +2220,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 224500,
       "name": "Oh Yeah",
       "url": "https://open.spotify.com/track/61MHqRAgaKsh69Nm6vgAyX"
@@ -2833,6 +2851,50 @@
     },
     {
       "album": {
+        "name": "Still The Same",
+        "url": "https://open.spotify.com/album/4xtFsEP7gVHGlvUBbvAxJJ"
+      },
+      "artists": [
+        {
+          "name": "Gat Putch",
+          "url": "https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v"
+        },
+        {
+          "name": "Sica",
+          "url": "https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B"
+        },
+        {
+          "name": "OG CRY",
+          "url": "https://open.spotify.com/artist/2EjIvtjRAXPH5OVVmfEKQt"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185316,
+      "name": "Still The Same",
+      "url": "https://open.spotify.com/track/6ODWqGDqPWenJeh5Ux4ed5"
+    },
+    {
+      "album": {
+        "name": "STRAWBERRY LANE FREESTYLE",
+        "url": "https://open.spotify.com/album/61XWN63SpjkBV57fX4fUyH"
+      },
+      "artists": [
+        {
+          "name": "gins&melodies",
+          "url": "https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155742,
+      "name": "STRAWBERRY LANE FREESTYLE",
+      "url": "https://open.spotify.com/track/5qazxrNqGp0rNd5ZQfJdQL"
+    },
+    {
+      "album": {
         "name": "Suave",
         "url": "https://open.spotify.com/album/5qXVfaNRzC0BPS8k597sbY"
       },
@@ -3226,7 +3288,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 389439,
       "name": "Where Ya' From, Pt. 3",
       "url": "https://open.spotify.com/track/5J6jcHB78I1lBK6CSN6ZkF"

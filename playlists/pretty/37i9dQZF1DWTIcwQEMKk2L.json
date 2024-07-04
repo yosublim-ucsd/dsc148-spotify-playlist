@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 68151,
+  "num_followers": 68160,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "Compass",
-        "url": "https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv"
-      },
-      "artists": [
-        {
-          "name": "Niwa Nova",
-          "url": "https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo"
-        }
-      ],
-      "duration_ms": 140241,
-      "name": "Compass",
-      "url": "https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
         "name": "Endymion",
         "url": "https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 152230,
       "name": "Endymion",
       "url": "https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
+        "name": "Compass",
+        "url": "https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv"
+      },
+      "artists": [
+        {
+          "name": "Niwa Nova",
+          "url": "https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo"
+        }
+      ],
+      "duration_ms": 140241,
+      "name": "Compass",
+      "url": "https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "My Foolishness",
-        "url": "https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ"
-      },
-      "artists": [
-        {
-          "name": "Franck Byrne",
-          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
-        }
-      ],
-      "duration_ms": 166187,
-      "name": "My Foolishness",
-      "url": "https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
         "name": "Growing Old",
         "url": "https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 126250,
       "name": "Growing Old",
       "url": "https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
+        "name": "My Foolishness",
+        "url": "https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ"
+      },
+      "artists": [
+        {
+          "name": "Franck Byrne",
+          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
+        }
+      ],
+      "duration_ms": 166187,
+      "name": "My Foolishness",
+      "url": "https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
+        "name": "Intervention",
+        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
+      },
+      "artists": [
+        {
+          "name": "Helen Jane Long",
+          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
+        }
+      ],
+      "duration_ms": 205611,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
         "name": "Eeny Meeny Miny Moe",
         "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 138823,
       "name": "Never Blame The Young Ones",
       "url": "https://open.spotify.com/track/09VtFwk3q69c5JQQAHUTKt"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
-        "name": "Intervention",
-        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
-      },
-      "artists": [
-        {
-          "name": "Helen Jane Long",
-          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
-        }
-      ],
-      "duration_ms": 205611,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "Box Of Photos",
-        "url": "https://open.spotify.com/album/7hwYTjbYMoS8QwGVPzesOZ"
-      },
-      "artists": [
-        {
-          "name": "Alfie Walker",
-          "url": "https://open.spotify.com/artist/4ftOemOz9fYLTulZP8ZKol"
-        }
-      ],
-      "duration_ms": 149495,
-      "name": "Box Of Photos",
-      "url": "https://open.spotify.com/track/1du3L7rqD0PrJSrNE0ye0q"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
         "name": "The Music Of The Night",
         "url": "https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 269000,
       "name": "The Music Of The Night",
       "url": "https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
+        "name": "Box Of Photos",
+        "url": "https://open.spotify.com/album/7hwYTjbYMoS8QwGVPzesOZ"
+      },
+      "artists": [
+        {
+          "name": "Alfie Walker",
+          "url": "https://open.spotify.com/artist/4ftOemOz9fYLTulZP8ZKol"
+        }
+      ],
+      "duration_ms": 149495,
+      "name": "Box Of Photos",
+      "url": "https://open.spotify.com/track/1du3L7rqD0PrJSrNE0ye0q"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "Although",
-        "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
-      },
-      "artists": [
-        {
-          "name": "Jane Avril",
-          "url": "https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap"
-        }
-      ],
-      "duration_ms": 180635,
-      "name": "Although",
-      "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
         "name": "Sibelius: Piano Music, Vol. 4",
         "url": "https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 125133,
       "name": "13 Pieces, Op. 76: No. 10 Elegiaco",
       "url": "https://open.spotify.com/track/0Ebt6OdB0LXBzcE1AxpFuT"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
+        "name": "Although",
+        "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
+      },
+      "artists": [
+        {
+          "name": "Jane Avril",
+          "url": "https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap"
+        }
+      ],
+      "duration_ms": 180635,
+      "name": "Although",
+      "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
+        "name": "Avenues",
+        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
+      },
+      "artists": [
+        {
+          "name": "Seth Fernsby",
+          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
+        }
+      ],
+      "duration_ms": 139663,
+      "name": "Avenues",
+      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
         "name": "Nefelibata",
         "url": "https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "Avenues",
-        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
-      },
-      "artists": [
-        {
-          "name": "Seth Fernsby",
-          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
-        }
-      ],
-      "duration_ms": 139663,
-      "name": "Avenues",
-      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
         "name": "A Gift To Share",
         "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
       },
@@ -1139,6 +1139,22 @@
       "duration_ms": 139500,
       "name": "A Gift To Share",
       "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
+      },
+      "artists": [
+        {
+          "name": "Snow in April",
+          "url": "https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv"
+        }
+      ],
+      "duration_ms": 148407,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -1159,22 +1175,6 @@
       "duration_ms": 170783,
       "name": "Kiss the Rain",
       "url": "https://open.spotify.com/track/6jtGgmzqjtQA2tDDmcc7QI"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
-        "name": "Magnolia",
-        "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
-      },
-      "artists": [
-        {
-          "name": "Snow in April",
-          "url": "https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv"
-        }
-      ],
-      "duration_ms": 148407,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "Pennies From Heaven",
-        "url": "https://open.spotify.com/album/75bRjjsmOtXqoSHeziafj0"
-      },
-      "artists": [
-        {
-          "name": "Avery Miller",
-          "url": "https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Pennies From Heaven",
-      "url": "https://open.spotify.com/track/5FZ1EwzovpSlbfPK2eynR0"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 112750,
       "name": "When We First Met",
       "url": "https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
+        "name": "Pennies From Heaven",
+        "url": "https://open.spotify.com/album/75bRjjsmOtXqoSHeziafj0"
+      },
+      "artists": [
+        {
+          "name": "Avery Miller",
+          "url": "https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Pennies From Heaven",
+      "url": "https://open.spotify.com/track/5FZ1EwzovpSlbfPK2eynR0"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
+        "name": "Amorous Rebound",
+        "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
       },
       "artists": [
         {
-          "name": "Serenity for Sleep",
-          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
+          "name": "Sumsar",
+          "url": "https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW"
         }
       ],
-      "duration_ms": 282824,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
+      "duration_ms": 109440,
+      "name": "Amorous Rebound",
+      "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
+      },
+      "artists": [
+        {
+          "name": "Serenity for Sleep",
+          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
+        }
+      ],
+      "duration_ms": 282824,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
         "name": "Friendship.",
         "url": "https://open.spotify.com/album/6xSRZ5mSLTX2iWEZAyf6Tj"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 91898,
       "name": "Friendship.",
       "url": "https://open.spotify.com/track/4tgsdsLdze2YKRMSqmcy6A"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
-        "name": "Amorous Rebound",
-        "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
-      },
-      "artists": [
-        {
-          "name": "Sumsar",
-          "url": "https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW"
-        }
-      ],
-      "duration_ms": 109440,
-      "name": "Amorous Rebound",
-      "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "Lunaria",
-        "url": "https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn"
+        "name": "The Sacred Self",
+        "url": "https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm"
       },
       "artists": [
         {
-          "name": "Francesca Carol\u00e9o",
-          "url": "https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke"
+          "name": "Louise Lennehan",
+          "url": "https://open.spotify.com/artist/3qDXOw6W1ocOSAJQoE4TPW"
         }
       ],
-      "duration_ms": 169500,
-      "name": "Valerian",
-      "url": "https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I"
+      "duration_ms": 188453,
+      "name": "Inner Child",
+      "url": "https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists and labels. Cover: PIAO Artwork by Paola Saliby",
+  "description": "The best new pop music by independent artists and labels. Cover: Remy Bond Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -406,7 +406,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 183859,
       "name": "20 BPM",
       "url": "https://open.spotify.com/track/2vC3G5OVfO8BGSbMkVYcV7"
@@ -6217,6 +6217,24 @@
     },
     {
       "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/4yhCKFELdJwQhU9wAobBBK"
+      },
+      "artists": [
+        {
+          "name": "Madison Bequer",
+          "url": "https://open.spotify.com/artist/6cG80YmaXOteWYLTF8zQED"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144210,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/0fSPLwcm9PonqFKLgV08Yd"
+    },
+    {
+      "album": {
         "name": "Bitter Bitch",
         "url": "https://open.spotify.com/album/6Si3G23umj6SBMFGiUbTTm"
       },
@@ -6376,6 +6394,24 @@
       "duration_ms": 203125,
       "name": "Blame It On You",
       "url": "https://open.spotify.com/track/3zaKVvx1nm5wiEBVBdMpM7"
+    },
+    {
+      "album": {
+        "name": "Blame Me",
+        "url": "https://open.spotify.com/album/4Ip5jY0U3bUyx5QjyFC3LJ"
+      },
+      "artists": [
+        {
+          "name": "Ayesha Madon",
+          "url": "https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163733,
+      "name": "Blame Me",
+      "url": "https://open.spotify.com/track/5eRSBJ5HF7g5IzDhY45Ryi"
     },
     {
       "album": {
@@ -8557,6 +8593,24 @@
     },
     {
       "album": {
+        "name": "Burning Bones",
+        "url": "https://open.spotify.com/album/1K8Ec1RazTtm8JFrt6YDf9"
+      },
+      "artists": [
+        {
+          "name": "mzzltvv",
+          "url": "https://open.spotify.com/artist/58n2PnkyIBuaD1Fo4UiSnb"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Burning Bones",
+      "url": "https://open.spotify.com/track/3TsWxytZXJTGP5TtoOza87"
+    },
+    {
+      "album": {
         "name": "Burning Trees",
         "url": "https://open.spotify.com/album/1T7igMGRZDjgKA9bxt0mD8"
       },
@@ -9156,6 +9210,24 @@
       "duration_ms": 153333,
       "name": "Camera",
       "url": "https://open.spotify.com/track/7ihAhTcgrprDS11axxC1Im"
+    },
+    {
+      "album": {
+        "name": "Can't Complain",
+        "url": "https://open.spotify.com/album/0nRdDiS1USIQgFr0fCLhQL"
+      },
+      "artists": [
+        {
+          "name": "Chase Behar",
+          "url": "https://open.spotify.com/artist/28B346ru2FJIXLEW859YbG"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160459,
+      "name": "Can't Complain",
+      "url": "https://open.spotify.com/track/1vDMeYgFqDeicy8OtIr9nB"
     },
     {
       "album": {
@@ -16041,6 +16113,24 @@
     },
     {
       "album": {
+        "name": "East Coast",
+        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
+      },
+      "artists": [
+        {
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194933,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
+    },
+    {
+      "album": {
         "name": "EASTSIDE",
         "url": "https://open.spotify.com/album/3aynZ4Bt5in256XfJ2hfZ1"
       },
@@ -16872,7 +16962,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 164467,
       "name": "Escape",
       "url": "https://open.spotify.com/track/6WUjd7Rs52cnRFC8k4ERBs"
@@ -16890,7 +16980,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 212841,
       "name": "Eulogy",
       "url": "https://open.spotify.com/track/0OWyJzSLWlM3WZhl7IfYc6"
@@ -18036,7 +18126,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 139898,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/5gM6XHLOdzgWq17yd0bE2o"
@@ -21324,6 +21414,24 @@
       "duration_ms": 134668,
       "name": "girlfriend",
       "url": "https://open.spotify.com/track/1VvHMWM4x5KNNIkeDfepKg"
+    },
+    {
+      "album": {
+        "name": "GIRLFRIEND",
+        "url": "https://open.spotify.com/album/6G4udJxDgLFrXnsNm8hSs5"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Luke",
+          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204481,
+      "name": "GIRLFRIEND",
+      "url": "https://open.spotify.com/track/4fVa3oskSSMCsKyvlAGMPv"
     },
     {
       "album": {
@@ -27394,6 +27502,42 @@
       "duration_ms": 203645,
       "name": "I Like",
       "url": "https://open.spotify.com/track/1pPt0CIA1NRezD9jX9U6YB"
+    },
+    {
+      "album": {
+        "name": "I Like You Best",
+        "url": "https://open.spotify.com/album/6dk1A9dHnyENBQyJk3QWJX"
+      },
+      "artists": [
+        {
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163258,
+      "name": "I Like You Best",
+      "url": "https://open.spotify.com/track/75TVJYusnr7pk5ooXNLZCP"
+    },
+    {
+      "album": {
+        "name": "I liked it",
+        "url": "https://open.spotify.com/album/6A12F6iYT2oa853sJhXyHH"
+      },
+      "artists": [
+        {
+          "name": "Pool Girl",
+          "url": "https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147969,
+      "name": "I liked it",
+      "url": "https://open.spotify.com/track/28T6SN4z5CSSc0sd9gvr4k"
     },
     {
       "album": {
@@ -36109,6 +36253,24 @@
     },
     {
       "album": {
+        "name": "Matador",
+        "url": "https://open.spotify.com/album/7375mSEJBe8UKKzwMDzbQd"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227560,
+      "name": "Matador",
+      "url": "https://open.spotify.com/track/6idR1ncIgw5X6Nj2DUR6tC"
+    },
+    {
+      "album": {
         "name": "matrix",
         "url": "https://open.spotify.com/album/6iTwlfTQqUFkbPAF2sBKXn"
       },
@@ -38464,7 +38626,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 209712,
       "name": "my mother's daughter",
       "url": "https://open.spotify.com/track/0StDtkDKpEyFok25poMZqP"
@@ -39552,7 +39714,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 187428,
       "name": "Night Talks",
       "url": "https://open.spotify.com/track/3C3nxNgZ9NK2qyDPQ8Zf5h"
@@ -42420,7 +42582,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 242653,
       "name": "Pain",
       "url": "https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S"
@@ -45729,6 +45891,24 @@
     },
     {
       "album": {
+        "name": "Rear View Mirror",
+        "url": "https://open.spotify.com/album/32tjmEGKz6uQiIdIr3E8hR"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5d",
+          "url": "https://open.spotify.com/artist/6Sct7au0GLkwDG7tMLsV3Q"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188966,
+      "name": "Rear View Mirror",
+      "url": "https://open.spotify.com/track/4FAARAeFvRh0Kcrnkszl4l"
+    },
+    {
+      "album": {
         "name": "Easy Bammer",
         "url": "https://open.spotify.com/album/3AV7acwRNDpR8HakOeQtzg"
       },
@@ -46880,6 +47060,24 @@
       "duration_ms": 198500,
       "name": "rosegold",
       "url": "https://open.spotify.com/track/2iOSDHlk5gC71JcWkaa1qI"
+    },
+    {
+      "album": {
+        "name": "rosequartz.",
+        "url": "https://open.spotify.com/album/18nqNDdNyJzFGSd9mPvNoS"
+      },
+      "artists": [
+        {
+          "name": "French For Drugs",
+          "url": "https://open.spotify.com/artist/6VI38wBrLiN4t3QD8MuGyg"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184669,
+      "name": "rosequartz.",
+      "url": "https://open.spotify.com/track/4GY1hOTfPid5CjzKd01Mvd"
     },
     {
       "album": {
@@ -52540,7 +52738,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 237365,
       "name": "stranger at the dinner table",
       "url": "https://open.spotify.com/track/5IKZkf0qpBXNqeSjaLnU7G"
@@ -53176,6 +53374,24 @@
       "duration_ms": 178285,
       "name": "SUMMER ROYALTY",
       "url": "https://open.spotify.com/track/0zrDsb1RerSWcoQcoGzOrQ"
+    },
+    {
+      "album": {
+        "name": "Summer Song",
+        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245504,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
     },
     {
       "album": {
@@ -54034,7 +54250,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 180374,
       "name": "take it slow",
       "url": "https://open.spotify.com/track/0u8ZnR82n2uZJJMiRZjnhz"
@@ -57290,7 +57506,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 158374,
       "name": "Tiptoe",
       "url": "https://open.spotify.com/track/1sS3SE3s7XQ2UgU4WIg40q"
@@ -57398,7 +57614,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 128130,
       "name": "title",
       "url": "https://open.spotify.com/track/4csL3fDiVG2Y4B4bGi2BuL"
@@ -63488,7 +63704,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 128507,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/3NcbkfyYhxERMXaUU7UaUR"

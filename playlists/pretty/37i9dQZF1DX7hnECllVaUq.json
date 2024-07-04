@@ -1,6 +1,6 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: Casey Barnes",
-  "num_followers": 245871,
+  "num_followers": 245956,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Scared To Start",
-        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 159636,
-      "name": "Scared To Start",
-      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 265493,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Heading South",
         "url": "https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 171692,
       "name": "Heading South",
       "url": "https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 213493,
-      "name": "You Should Probably Leave",
-      "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 227466,
       "name": "Hey Driver (feat. The War and Treaty)",
       "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 213493,
+      "name": "You Should Probably Leave",
+      "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
     },
     {
       "added_at": "2024-06-28 04:00:00",

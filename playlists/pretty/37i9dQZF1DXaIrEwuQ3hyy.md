@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 
 > Klingt nach Sonne + Meer, egal wo du bist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,040,616 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,040,693 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 23 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 |
 | 24 | [Head In The Clouds](https://open.spotify.com/track/3CeKc83EsgRPItgvlDHo5B) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Changes \- EP](https://open.spotify.com/album/1GknYqyoJ7ZHn8ch5PJipt) | 3:04 |
 | 25 | [Acoustic](https://open.spotify.com/track/7kr3xZk4yb3YSZ4VFtg2Qt) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [1975](https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ) | 2:52 |
-| 26 | [evermore \(feat\. Bon Iver\)](https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 5:04 |
-| 27 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
-| 28 | [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 |
+| 26 | [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 |
+| 27 | [evermore \(feat\. Bon Iver\)](https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 5:04 |
+| 28 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
 | 29 | [Slowdown \(girl what's up\)](https://open.spotify.com/track/4xexPtg7VSPCf9hM3aZdfZ) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [Slowdown \(girl what's up\)](https://open.spotify.com/album/4B6I2s8qDymQLWT9qtJOtW) | 2:03 |
 | 30 | [Hu Man](https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Hu Man](https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W) | 3:23 |
 | 31 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 69 | [Girl Next Door](https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Girl Next Door](https://open.spotify.com/album/3mXNOCqDeqB8M5Z1QzYoaH) | 3:34 |
 | 70 | [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 |
 | 71 | [Stand up and Dance](https://open.spotify.com/track/5F7mbwOcTUFUmyXOWMpShx) | [Sweetlemon](https://open.spotify.com/artist/2KmjVKSwAKI5DfEaQzx76W) | [Stand up and Dance](https://open.spotify.com/album/507a77zJ1BTZZQJbVi4cbs) | 3:56 |
-| 72 | [Greed](https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Greed](https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm) | 3:41 |
+| 72 | [Only Love](https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Damn the Wild Air, Pt\. 01](https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk) | 3:27 |
 | 73 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
-| 74 | [Only Love](https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Damn the Wild Air, Pt\. 01](https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk) | 3:27 |
+| 74 | [Greed](https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Greed](https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm) | 3:41 |
 | 75 | [maybe](https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [maybe](https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6) | 3:07 |
 | 76 | [when i close my eyes](https://open.spotify.com/track/2Az9qnorhkpbvkwA0nu8hY) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [when i close my eyes](https://open.spotify.com/album/6he3WZdBgT2Qpqc3uvOYgb) | 3:46 |
 | 77 | [when words fail](https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3) | [when words fail](https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU) | 2:56 |
-| 78 | [Love Will Save Me](https://open.spotify.com/track/2YjXImhg2zXDmWcVy1oSDw) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Will Save Me](https://open.spotify.com/album/2QNFtpX9BzNTrzRF0A4tbe) | 4:37 |
+| 78 | [Skin \(Elegy of Symmetry\) Skin](https://open.spotify.com/track/02lVk52v9bkcEoxz4e8jSU) | [Baswod](https://open.spotify.com/artist/4Fyg9gSddk9pF3Rgaruli6) | [I Need You to Pencil in the Rest](https://open.spotify.com/album/49SnLYDJQbd6XRsrME3o77) | 3:20 |
 | 79 | [Lost](https://open.spotify.com/track/6AIMiXP9fD6e9JTc1hbcvy) | [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH), [Ava June](https://open.spotify.com/artist/31IfzLl0YTTkazic625UQV) | [Lost](https://open.spotify.com/album/7g2wZD8Data7oGSt3ElMRJ) | 4:00 |
-| 80 | [Skin \(Elegy of Symmetry\) Skin](https://open.spotify.com/track/02lVk52v9bkcEoxz4e8jSU) | [Baswod](https://open.spotify.com/artist/4Fyg9gSddk9pF3Rgaruli6) | [I Need You to Pencil in the Rest](https://open.spotify.com/album/49SnLYDJQbd6XRsrME3o77) | 3:20 |
+| 80 | [Love Will Save Me](https://open.spotify.com/track/2YjXImhg2zXDmWcVy1oSDw) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Will Save Me](https://open.spotify.com/album/2QNFtpX9BzNTrzRF0A4tbe) | 4:37 |
 
 Snapshot ID: `ZoKjawAAAADrb7D80bzoL2nDJ3mID1QG`

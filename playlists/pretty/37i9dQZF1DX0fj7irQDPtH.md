@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 
 > The biggest songs in Latin America in 2014\. Cover: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,492 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,545 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 | 11 | [Necio \(feat\. Carlos Santana\)](https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 4:24 |
 | 12 | [Fanatica Sensual](https://open.spotify.com/track/1DrDfpOx4P4LMxFhtOmeyD) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love and Sex](https://open.spotify.com/album/04NPh9S2gPzYveqlJYQ0V8) | 4:00 |
 | 13 | [Te Metiste](https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:29 |
-| 14 | [Los Mensajes del Whatsapp](https://open.spotify.com/track/2MJVc9F85EPNiSfD1KKhC9) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Golpe Avisa](https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL) | 3:33 |
-| 15 | [Humanos a Marte](https://open.spotify.com/track/7lOzUJzsELALh5FQsPKTEn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [En Todo Estaré \(Deluxe Edition\)](https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2) | 3:45 |
+| 14 | [Humanos a Marte](https://open.spotify.com/track/7lOzUJzsELALh5FQsPKTEn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [En Todo Estaré \(Deluxe Edition\)](https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2) | 3:45 |
+| 15 | [Los Mensajes del Whatsapp](https://open.spotify.com/track/2MJVc9F85EPNiSfD1KKhC9) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Golpe Avisa](https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL) | 3:33 |
 | 16 | [La promesa](https://open.spotify.com/track/2GJyBJWPmnM7pK961cB6iV) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Un alumno más](https://open.spotify.com/album/0Ggp1Xlj8V9dBz1nrQATgo) | 3:53 |
 | 17 | [Llegaste Tú](https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 |
 | 18 | [Ojos Color Sol \(feat\. Silvio Rodríguez\)](https://open.spotify.com/track/1RIhd7jjWDQwSKsbxxGArN) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [MultiViral](https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng) | 3:35 |

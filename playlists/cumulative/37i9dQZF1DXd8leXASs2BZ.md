@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Kohjiya
 
-510 songs - 23 hr 35 min
+511 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Banger](https://open.spotify.com/track/7tAzsQ45k7r9PaWkxN6EeI) | [Yusef Imamura](https://open.spotify.com/artist/2zYkpFBLyfskSrJl3zu7ov), [SANO](https://open.spotify.com/artist/5gDLxx3soLawxUp60zTwqJ), [D\-mind](https://open.spotify.com/artist/6kILi9WwpdHFHClDfAcZKf) | [Fit! 2](https://open.spotify.com/album/4QIRwPvicRcBgBD2OxSx35) | 3:03 | 2023-12-07 | 2023-12-23 |
 | [BASH BASH \- feat\. JP THE WAVY & Awich](https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [19](https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm) | 3:07 | 2023-12-07 | 2024-01-26 |
 | [BEAST MODE](https://open.spotify.com/track/5iMkRc3SbJDb55vhtC8uPP) | [₩](https://open.spotify.com/artist/5QkamTXwLqr5Ja8RCiu3XF), [TERRA](https://open.spotify.com/artist/4KDpRvmhqbHdv29wDYvTMx) | [Addiction And Abuse](https://open.spotify.com/album/0YqGEdHbkOb0GSd5fkr53x) | 2:24 | 2024-04-24 | 2024-05-15 |
+| [Before Famous \- Remix](https://open.spotify.com/track/1IMzNTet4bvT0h0XAdEeaT) | [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken), [YELLASOMA](https://open.spotify.com/artist/2pwF9CAO9DDTrer0heIUjb), [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz), [Yata41](https://open.spotify.com/artist/2Xdx4XGWGFCN6FAevqxODz) | [Before Famous \(Remix\)](https://open.spotify.com/album/2uwZfeziEqthjCMoBHx3fi) | 4:08 | 2024-07-03 |  |
 | [Believe Myself](https://open.spotify.com/track/0Ru22sfUvaQz0si35j105K) | [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Believe Myself](https://open.spotify.com/album/4ZgkMFSXePHLGdmSpCpt1c) | 1:44 | 2024-04-16 | 2024-05-29 |
 | [Believe Myself](https://open.spotify.com/track/735p9bQ35ZnjztoxnDdLe7) | [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Believe Myself](https://open.spotify.com/album/2A9WouIBowEVKmV6ESzFyS) | 1:44 | 2024-02-08 | 2024-04-19 |
 | [BEST](https://open.spotify.com/track/23Sq0QaEHSzd7vhXL4zdkB) | [Yata41](https://open.spotify.com/artist/2Xdx4XGWGFCN6FAevqxODz), [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken) | [BEST](https://open.spotify.com/album/7bGTHrQN6u069PhttFUuLG) | 3:03 | 2024-04-16 | 2024-04-24 |
@@ -121,7 +122,7 @@
 | [Don Julio](https://open.spotify.com/track/635cl5AoLAVZnLpTTvnnJi) | [GEEKBOY](https://open.spotify.com/artist/2ENR5uEmMC3CEqg93awedG), [Yella Flat Boys](https://open.spotify.com/artist/01V3Qm1TK0j2uXYZJOEAgP) | [Don Julio](https://open.spotify.com/album/6JfaWG8eGYcRDVDX76CXiJ) | 2:40 | 2024-04-16 | 2024-05-29 |
 | [Don Julio \- Shin Andrew Remix](https://open.spotify.com/track/2poa3gCAuHOeTO9x3lj1tD) | [GEEKBOY](https://open.spotify.com/artist/2ENR5uEmMC3CEqg93awedG), [Yella Flat Boys](https://open.spotify.com/artist/01V3Qm1TK0j2uXYZJOEAgP), [Shin Andrew](https://open.spotify.com/artist/35GFNpxXqLW4KbjBMEmJZO) | [Don Julio \(Shin Andrew Remix\)](https://open.spotify.com/album/44bxQnhnitX0OGUs6GqUVe) | 3:00 | 2024-04-16 | 2024-04-19 |
 | [Don Julio \- Shin Andrew Remix](https://open.spotify.com/track/4u0AqqE77aqCTrnkBTp9TX) | [GEEKBOY](https://open.spotify.com/artist/2ENR5uEmMC3CEqg93awedG), [Yella Flat Boys](https://open.spotify.com/artist/01V3Qm1TK0j2uXYZJOEAgP), [Shin Andrew](https://open.spotify.com/artist/35GFNpxXqLW4KbjBMEmJZO) | [Don Julio \(Shin Andrew Remix\)](https://open.spotify.com/album/337FweeAlBDwp7rNrbykAN) | 3:00 | 2024-04-16 | 2024-05-15 |
-| [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [Naco](https://open.spotify.com/artist/6w0WQStb7cRo4J5BhSHNYO) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 | 2024-07-02 |  |
+| [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 | 2024-07-02 |  |
 | [Don't Pray](https://open.spotify.com/track/6VhuRPA0B48lNeFfxG4qKQ) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [Don't Pray](https://open.spotify.com/album/561GgmmAssSlhTawP2ewgI) | 2:15 | 2023-12-07 | 2023-12-14 |
 | [DONZOKO](https://open.spotify.com/track/51XArAjSvrRdN1Fl2cNk0O) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt) | [DONZOKO](https://open.spotify.com/album/71KcrHwW5XTus1EOeyFAwH) | 2:33 | 2023-12-07 | 2024-01-31 |
 | [Don’t Look Down](https://open.spotify.com/track/12aiT6u1KdAW15HGUqAhSN) | [Loota](https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Don't Look Down](https://open.spotify.com/album/3OrVnCytoZ2vsJnTp4Ohy9) | 4:10 | 2024-04-09 |  |

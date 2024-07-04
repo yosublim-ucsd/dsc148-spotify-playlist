@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: La 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,915 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,962 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,29 +84,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 74 | [No Me Dejes Caer](https://open.spotify.com/track/7wCalELbatgVcdYWHB6ybd) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [No Me Dejes Caer](https://open.spotify.com/album/1JiB6fCMmdvt0qyHWK04fR) | 4:18 |
 | 75 | [Amar y Envejecer](https://open.spotify.com/track/0V472Br1hpLSczZdow8MJd) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Las Pastillas del Abuelo](https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD) | 7:11 |
 | 76 | [Vine Hasta Aquí](https://open.spotify.com/track/2HPh92X44B9hHR0n9FZZoM) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Verde Paisaje del Infierno](https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO) | 4:38 |
-| 77 | [Volver a Nacer](https://open.spotify.com/track/2ABSAMW7VzfI0yVrkdxTJG) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [A Mil](https://open.spotify.com/album/0ZK9RbojlRNq7N0Iaoj9Gd) | 3:34 |
-| 78 | [Magdalena](https://open.spotify.com/track/3FgrJJyC7s6bjH6sUsRC3p) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Asuntos de Familia](https://open.spotify.com/album/7hOtFZWs2fzBeowpBzNvEn) | 4:15 |
-| 79 | [Andrajoso](https://open.spotify.com/track/33qOYWWQEaniTOMtjo4KoE) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [Andrajoso](https://open.spotify.com/album/1wO85yv14Xqjg9FdkThxtL) | 4:06 |
+| 77 | [Andrajoso](https://open.spotify.com/track/33qOYWWQEaniTOMtjo4KoE) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [Andrajoso](https://open.spotify.com/album/1wO85yv14Xqjg9FdkThxtL) | 4:06 |
+| 78 | [Volver a Nacer](https://open.spotify.com/track/2ABSAMW7VzfI0yVrkdxTJG) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [A Mil](https://open.spotify.com/album/0ZK9RbojlRNq7N0Iaoj9Gd) | 3:34 |
+| 79 | [Magdalena](https://open.spotify.com/track/3FgrJJyC7s6bjH6sUsRC3p) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Asuntos de Familia](https://open.spotify.com/album/7hOtFZWs2fzBeowpBzNvEn) | 4:15 |
 | 80 | [Ojos Ventanal](https://open.spotify.com/track/1wsKixePlchQnf1EZTaAjX) | [Sueño de Pescado](https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1) | [Sangre en Tus Luces](https://open.spotify.com/album/72H4uVRBBxPGpRUSIZua7U) | 3:44 |
 | 81 | [Viejo](https://open.spotify.com/track/1MVsaR8VFzfsqJrG3TDCny) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Las Pastillas del Abuelo](https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD) | 5:24 |
 | 82 | [Misterios](https://open.spotify.com/track/5wWlvo0ECncL2lfhBzrmqi) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social](https://open.spotify.com/album/3ltIM1RxMeZYena45OURMS) | 2:41 |
 | 83 | [Vas a Bailar](https://open.spotify.com/track/6f1qmIb4Q3UelVAktv9O1A) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Espejos](https://open.spotify.com/album/3ssZtOx9wK8IPybx1sdwQd) | 5:00 |
-| 84 | [Soy](https://open.spotify.com/track/3aJ5EHfJq8DNA9zho99LQ4) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Lo Que Somos](https://open.spotify.com/album/5efh7uYO8kVGxkBaejn878) | 3:11 |
-| 85 | [El Farolito](https://open.spotify.com/track/7ip2lBrKUjkb69I8isyqPm) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/1ZUWRmH8qVKhcps3MjlLo5) | 4:13 |
-| 86 | [Unos Versos](https://open.spotify.com/track/0IHC4QGz0I4EdOGpGMRICA) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [¡Eureka!](https://open.spotify.com/album/0zzEHJQZfwklS0RPPhrNem) | 6:22 |
-| 87 | [Tus Ojos](https://open.spotify.com/track/2qAif1nwoyDsfMrsJcGrco) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Solo Canciones](https://open.spotify.com/album/00VDEYTD8DyCBviKg3u04p) | 4:04 |
-| 88 | [Suerte](https://open.spotify.com/track/0lntiOJwWI3yF3LDP8CG2P) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social](https://open.spotify.com/album/3ltIM1RxMeZYena45OURMS) | 5:39 |
+| 84 | [El Farolito](https://open.spotify.com/track/7ip2lBrKUjkb69I8isyqPm) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/1ZUWRmH8qVKhcps3MjlLo5) | 4:13 |
+| 85 | [Unos Versos](https://open.spotify.com/track/0IHC4QGz0I4EdOGpGMRICA) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [¡Eureka!](https://open.spotify.com/album/0zzEHJQZfwklS0RPPhrNem) | 6:22 |
+| 86 | [Tus Ojos](https://open.spotify.com/track/2qAif1nwoyDsfMrsJcGrco) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Solo Canciones](https://open.spotify.com/album/00VDEYTD8DyCBviKg3u04p) | 4:04 |
+| 87 | [Sutil](https://open.spotify.com/track/0vUccFAGBWAgBo03AAKZsN) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Sutil](https://open.spotify.com/album/1rXTINZs8rKYJcbgOicJPq) | 3:15 |
+| 88 | [Soy](https://open.spotify.com/track/3aJ5EHfJq8DNA9zho99LQ4) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Lo Que Somos](https://open.spotify.com/album/5efh7uYO8kVGxkBaejn878) | 3:11 |
 | 89 | [El Favor](https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [El Favor](https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg) | 4:05 |
-| 90 | [Sutil](https://open.spotify.com/track/0vUccFAGBWAgBo03AAKZsN) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Sutil](https://open.spotify.com/album/1rXTINZs8rKYJcbgOicJPq) | 3:15 |
+| 90 | [Suerte](https://open.spotify.com/track/0lntiOJwWI3yF3LDP8CG2P) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social](https://open.spotify.com/album/3ltIM1RxMeZYena45OURMS) | 5:39 |
 | 91 | [Fuera de control](https://open.spotify.com/track/7rGpYLIb6MwBoa0ilgUkCp) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Todo es tan inflamable](https://open.spotify.com/album/3a2qbaJw7ntoUOnukvYBEC) | 3:30 |
-| 92 | [El Balneario de los Doctores Crotos](https://open.spotify.com/track/17ipgG6ZFbGSoIoL5f7tuo) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Azul](https://open.spotify.com/album/7r7ZGTQNtiOGBKoJ1cNd4d) | 4:04 |
-| 93 | [Montaña Rusa Emocional](https://open.spotify.com/track/73KDZbaIMl0tJEKVuiuJOf) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Montaña Rusa Emocional](https://open.spotify.com/album/6ppDbOuX2CNcyuJZtJrvKl) | 3:19 |
-| 94 | [Seremos](https://open.spotify.com/track/0AtNtseGriGF4sUXaVxBwq) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [Seremos](https://open.spotify.com/album/7a5hpHnoee3uX6rfOega5S) | 3:28 |
-| 95 | [La Cañada](https://open.spotify.com/track/6PuOXcW4FTK6oAwgGGiLBe) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [No Se Lo Cuentes a Nadie](https://open.spotify.com/album/6FZ81NpFnYO5IOGUm8uzGk) | 3:42 |
-| 96 | [Solito](https://open.spotify.com/track/3QOkGoxf4C2tXjoAV9QPZM) | [Salamandra](https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9) | [Solito](https://open.spotify.com/album/3WMaqqPKw2ZjfzQJD90afs) | 3:56 |
-| 97 | [Oda a la Sin Nombre](https://open.spotify.com/track/0iZI1vKI4dTBofmpav5nV3) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Atraves del Mar de los Sargazos](https://open.spotify.com/album/6jWuKj7C4cscftBl9HdAA2) | 4:32 |
-| 98 | [Terminales](https://open.spotify.com/track/77LZ92TrNFB8WCYtCaCwsy) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [A Mil](https://open.spotify.com/album/0ZK9RbojlRNq7N0Iaoj9Gd) | 3:21 |
-| 99 | [Se Viene](https://open.spotify.com/track/50ub3uFroRYynQRez4AKrq) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/07VQy3WNlaYt8WBJvdGLuy) | 3:25 |
+| 92 | [Seremos](https://open.spotify.com/track/0AtNtseGriGF4sUXaVxBwq) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [Seremos](https://open.spotify.com/album/7a5hpHnoee3uX6rfOega5S) | 3:28 |
+| 93 | [El Balneario de los Doctores Crotos](https://open.spotify.com/track/17ipgG6ZFbGSoIoL5f7tuo) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Azul](https://open.spotify.com/album/7r7ZGTQNtiOGBKoJ1cNd4d) | 4:04 |
+| 94 | [La Cañada](https://open.spotify.com/track/6PuOXcW4FTK6oAwgGGiLBe) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [No Se Lo Cuentes a Nadie](https://open.spotify.com/album/6FZ81NpFnYO5IOGUm8uzGk) | 3:42 |
+| 95 | [Solito](https://open.spotify.com/track/3QOkGoxf4C2tXjoAV9QPZM) | [Salamandra](https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9) | [Solito](https://open.spotify.com/album/3WMaqqPKw2ZjfzQJD90afs) | 3:56 |
+| 96 | [Oda a la Sin Nombre](https://open.spotify.com/track/0iZI1vKI4dTBofmpav5nV3) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Atraves del Mar de los Sargazos](https://open.spotify.com/album/6jWuKj7C4cscftBl9HdAA2) | 4:32 |
+| 97 | [Se Viene](https://open.spotify.com/track/50ub3uFroRYynQRez4AKrq) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/07VQy3WNlaYt8WBJvdGLuy) | 3:25 |
+| 98 | [Montaña Rusa Emocional](https://open.spotify.com/track/73KDZbaIMl0tJEKVuiuJOf) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Montaña Rusa Emocional](https://open.spotify.com/album/6ppDbOuX2CNcyuJZtJrvKl) | 3:19 |
+| 99 | [Terminales](https://open.spotify.com/track/77LZ92TrNFB8WCYtCaCwsy) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [A Mil](https://open.spotify.com/album/0ZK9RbojlRNq7N0Iaoj9Gd) | 3:21 |
 | 100 | [Voy A Bailar A La Nave Del Olvido \- Live](https://open.spotify.com/track/3K4HPBlXfIhFaWRqpFQ1lP) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Bailando En Una Pata \(Live\)](https://open.spotify.com/album/1OvwfF3Eb66k29nZHkn7qB) | 5:06 |
 
 Snapshot ID: `ZmotVgAAAACc23nhoocc5qlDR8tp5C/6`

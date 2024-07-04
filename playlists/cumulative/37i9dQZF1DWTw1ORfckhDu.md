@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯
 
-607 songs - 1 day 5 hr 0 min
+608 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [DNA](https://open.spotify.com/track/3pcwjQGRMsc9Q1zX0BQ2z2) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [DNA](https://open.spotify.com/album/2BD6tw7q1we7e7uleDNIK9) | 2:40 | 2023-11-09 | 2024-02-23 |
 | [Do This For Fun](https://open.spotify.com/track/1Wq1XDIOOqtnIp8s4jN85u) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Do This For Fun](https://open.spotify.com/album/2ISKOwa9s4B9Ul1uzzmtae) | 2:36 | 2024-02-09 | 2024-03-15 |
 | [Down With Me](https://open.spotify.com/track/19jIH6vZtyZU96Azs9Y6oT) | [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq) | [Down With Me](https://open.spotify.com/album/2U7oD3b2tWUfWyZ7OFfAHA) | 3:06 | 2023-11-23 | 2023-12-15 |
-| [Downtown \(feat\. NCO\)](https://open.spotify.com/track/5ahzUmHTdIA3B3ujctjf75) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [NCO](https://open.spotify.com/artist/3HULha4gmb5YjZHWODEXu1) | [Downtown \(feat\. NCO\)](https://open.spotify.com/album/6C4IXMFxZGG4APE36WXWFO) | 2:44 | 2024-06-27 | 2024-07-02 |
+| [Downtown \(feat\. NCO\)](https://open.spotify.com/track/5ahzUmHTdIA3B3ujctjf75) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [NCO](https://open.spotify.com/artist/3HULha4gmb5YjZHWODEXu1) | [Downtown \(feat\. NCO\)](https://open.spotify.com/album/6C4IXMFxZGG4APE36WXWFO) | 2:44 | 2024-06-27 |  |
 | [DUNYA](https://open.spotify.com/track/3LkWGDeGu4QTHthLqB6ZGS) | [Yzzy](https://open.spotify.com/artist/6zhABQrEaXCWh7L721KVPd) | [DUNYA](https://open.spotify.com/album/7HhAl0nF3vnQuc99Rvnefd) | 2:35 | 2024-02-15 | 2024-02-23 |
 | [Easy](https://open.spotify.com/track/2SaeNCMjfmBLJmHnm2BpeP) | [Nino Rivera](https://open.spotify.com/artist/0ECUFMagjydidZSodMlm8H), [Murphy](https://open.spotify.com/artist/25nKGLt8u775jURsw1bIP0) | [Easy](https://open.spotify.com/album/7C5P2vwrurcGVQRPxkBCju) | 2:50 | 2024-06-13 | 2024-07-02 |
 | [Edelleen Kunkun Tee](https://open.spotify.com/track/67jxdaHzO4Z8QsMBw1YuSU) | [Kriso](https://open.spotify.com/artist/5IQo6uI8DE3yq8WwBYeMBD), [Are](https://open.spotify.com/artist/16X4XStfwmDUkI98lVGj4Z) | [Edelleen Kunkun Tee](https://open.spotify.com/album/6EgypwJG9mK10rSwqjFFNR) | 4:15 | 2023-12-08 | 2023-12-22 |
@@ -331,6 +331,7 @@
 | [Mene pois](https://open.spotify.com/track/7kmt6LR3sS0HsldFf1tUTK) | [$auli](https://open.spotify.com/artist/1c8ko0XPXmns7XKIR78iNI) | [Mene pois](https://open.spotify.com/album/6jQ7zJKFlPfd3Mo3NT3iYR) | 2:29 | 2024-05-02 | 2024-05-17 |
 | [Menetän mun järjen](https://open.spotify.com/track/2uEE7BTQ4PGRYMutoOBgq5) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Menetän mun järjen](https://open.spotify.com/album/6em8daieCMwCluji0mAkRZ) | 2:39 | 2023-10-05 | 2023-12-01 |
 | [MENI MENI \(feat\. Tommishock\)](https://open.spotify.com/track/6N6SsvQrE9YOwwcpUtEkqC) | [Kimi Hendrix](https://open.spotify.com/artist/70EDugmttoaPiyYPiGJOlt), [FORRESTER](https://open.spotify.com/artist/4A3v0ZA50EKyGNBtEJLZA8), [Tommishock](https://open.spotify.com/artist/3LPr90q4ibTcfap7vuZ0v1) | [MENI MENI \(feat\. Tommishock\)](https://open.spotify.com/album/6r1XRwuKMI3vw5yhrXn62j) | 3:53 | 2024-06-06 | 2024-07-02 |
+| [Mi Amore \(feat\. Ege Zulu\)](https://open.spotify.com/track/4ZX9P2D0gkCumSKJEWqp6e) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Mi Amore \(feat\. Ege Zulu\)](https://open.spotify.com/album/4JSbaUoAZke1tOOqTMjosP) | 3:03 | 2024-07-03 |  |
 | [Mihin jäätiin](https://open.spotify.com/track/49jX7j1sEJ20kRdGEYG0d0) | [M.A](https://open.spotify.com/artist/7masbwBVM0UBxIs0495YkJ), [Rekami](https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB) | [Mihin jäätiin](https://open.spotify.com/album/3muorBVdGZKmAldyGmYvtu) | 3:10 | 2024-02-08 | 2024-02-23 |
 | [MILANOON](https://open.spotify.com/track/2QQBRLylUj3qJz447iqq14) | [Josef Aron](https://open.spotify.com/artist/5fI0Xv7Yz0Gl5UOqjGt1XS) | [MILANOON](https://open.spotify.com/album/5Plh66EuApAnGoLFpGoQJc) | 3:04 | 2024-03-14 | 2024-04-05 |
 | [Miljoona tapaa \(feat\. EL'o\)](https://open.spotify.com/track/3wI1ZdK5YdoTcMG5N1xnSL) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4), [EL'o](https://open.spotify.com/artist/0Cqk8ixu2235ou4QsVpxnC) | [Miljoona tapaa \(feat\. EL'o\)](https://open.spotify.com/album/5Q29Zu4v5Aoe4ayRVcdaDS) | 3:12 | 2024-02-15 | 2024-03-08 |

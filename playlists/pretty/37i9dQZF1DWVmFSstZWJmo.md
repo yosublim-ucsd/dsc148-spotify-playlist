@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > Is "indie sleaze" in the room with us now? ft\. Peaches
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,204 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,321 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 36 | [Using You](https://open.spotify.com/track/11jVnpAewcZnIdLsq0BKJF) | [Mars Argo](https://open.spotify.com/artist/3WFBuQFguwRNZcPyQrtBEU) | [Using You](https://open.spotify.com/album/7B2LAN3VRvXFBX8EgSotfo) | 3:28 |
 | 37 | [Hang Me Up To Dry](https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Robbers & Cowards](https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5) | 3:38 |
 | 38 | [The Bay](https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:50 |
-| 39 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 |
-| 40 | [Helena Beat](https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 4:36 |
+| 39 | [Helena Beat](https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 4:36 |
+| 40 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 |
 | 41 | [Lets Go Surfing](https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4) | 2:54 |
 | 42 | [Kerosene](https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:12 |
 | 43 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 66 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 |
 | 67 | [Blind \- Radio Edit](https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Blind](https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig) | 5:45 |
 | 68 | [Wildcat](https://open.spotify.com/track/0wP9okoDWmbeC2w9E8ZzPu) | [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Classics](https://open.spotify.com/album/7cKqnavORKemYZ41wFtx5J) | 4:20 |
-| 69 | [Emerge](https://open.spotify.com/track/3vyKSb9sAdXl0kQ1KnS9fY) | [Fischerspooner](https://open.spotify.com/artist/5R7K1GezC0jy24v1R2n4x3) | [\#1](https://open.spotify.com/album/3OCiJ6mbOzJdzTrk8R9hy2) | 4:48 |
-| 70 | [Fall In Love](https://open.spotify.com/track/5imUTBF35uIoABlV9g9da2) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC) | 3:43 |
+| 69 | [Fall In Love](https://open.spotify.com/track/5imUTBF35uIoABlV9g9da2) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC) | 3:43 |
+| 70 | [Emerge](https://open.spotify.com/track/3vyKSb9sAdXl0kQ1KnS9fY) | [Fischerspooner](https://open.spotify.com/artist/5R7K1GezC0jy24v1R2n4x3) | [\#1](https://open.spotify.com/album/3OCiJ6mbOzJdzTrk8R9hy2) | 4:48 |
 | 71 | [Nobody Move, Nobody Get Hurt](https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [With Love And Squalor](https://open.spotify.com/album/2IQ6OI4Yt3yZtB8j5E2lsa) | 3:12 |
 | 72 | [You’re Not The One](https://open.spotify.com/track/0Px73m5ACfeYHYsAo9YTfP) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 3:55 |
 | 73 | [Sad Sad City](https://open.spotify.com/track/26T7C1NMXKE7hCWhKH2l0o) | [Ghostland Observatory](https://open.spotify.com/artist/2waNUwuthEgcBTFvYo26vo) | [Paparazzi Lightning](https://open.spotify.com/album/2ZNqGfW6cwMGAX5Bu0A92s) | 3:05 |

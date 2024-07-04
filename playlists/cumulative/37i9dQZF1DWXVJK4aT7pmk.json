@@ -1944,7 +1944,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 174000,
       "name": "Solid",
       "url": "https://open.spotify.com/track/7oT6RQYVVc9UOUxKNrLMm8"
@@ -2208,6 +2208,32 @@
       "duration_ms": 195360,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/5RaK2eqyHaBSyjEtI27w3T"
+    },
+    {
+      "album": {
+        "name": "Tu Juliet Jatt Di ( From \"Jatt & Juliet 3\")",
+        "url": "https://open.spotify.com/album/6SgKeQDMRzq0noM0FSaPP6"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Bunny",
+          "url": "https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o"
+        },
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205823,
+      "name": "Tu Juliet Jatt Di ( From \"Jatt & Juliet 3\")",
+      "url": "https://open.spotify.com/track/2FRSsjZloHsmBF60bCoPrQ"
     },
     {
       "album": {

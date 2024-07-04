@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 
 > Aquí están las meras\-meras petateras de nuestro cancionero.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,162 likes - 125 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,184 likes - 125 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 30 | [La Mejor De Todas](https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Mejor De Todas](https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW) | 3:27 |
 | 31 | [Costumbres](https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 4:32 |
 | 32 | [El Tucanazo](https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro ..\. Secuestro De Amor](https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ) | 2:54 |
-| 33 | [Un Puño De Tierra](https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:08 |
-| 34 | [Directo Al Corazón](https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 3:20 |
+| 33 | [Como La Flor \- Remastered](https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:06 |
+| 34 | [Un Puño De Tierra](https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:08 |
 | 35 | [Hermoso Cariño](https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández](https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO) | 2:36 |
-| 36 | [Como La Flor \- Remastered](https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:06 |
+| 36 | [Directo Al Corazón](https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 3:20 |
 | 37 | [No Llega el Olvido](https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:14 |
 | 38 | [Diséñame](https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:06 |
 | 39 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:42 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 48 | [Mi Talismán](https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 4:48 |
 | 49 | [Siempre en Mi Mente](https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre En Mi Mente](https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm) | 3:25 |
 | 50 | [Sergio el Bailador](https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Sergio El Bailador](https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y) | 2:49 |
-| 51 | [Eslabón Por Eslabón](https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Ni Dada La Quiero](https://open.spotify.com/album/1wJklr611fFhZoveD89y4F) | 3:02 |
-| 52 | [Ya Lo Sé](https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:23 |
+| 51 | [Ya Lo Sé](https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:23 |
+| 52 | [Eslabón Por Eslabón](https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Ni Dada La Quiero](https://open.spotify.com/album/1wJklr611fFhZoveD89y4F) | 3:02 |
 | 53 | [México En La Piel](https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:29 |
 | 54 | [Es Demasiado Tarde](https://open.spotify.com/track/7wt6xHEIxuKlqCq2YurOLO) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Amores](https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU) | 4:10 |
 | 55 | [Una Aventura](https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:35 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 74 | [Yo Quiero Quebrarte](https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Soy El Aventurero](https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy) | 3:06 |
 | 75 | [El Muchacho Alegre](https://open.spotify.com/track/1vWFjySESZSYWZ8GCwGGWt) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Muchacho Alegre](https://open.spotify.com/album/7lgWY3Kx4zTv1fgv0qaRCx) | 2:36 |
 | 76 | [Yo No Fui](https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Yo No Fui](https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu) | 4:52 |
-| 77 | [Ya Supérame \(En Vivo\)](https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Ya Supérame \(En Vivo\)](https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml) | 3:09 |
-| 78 | [Y...](https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis Con Acoo De Mariachi](https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn) | 2:39 |
+| 77 | [Y...](https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis Con Acoo De Mariachi](https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn) | 2:39 |
+| 78 | [Ya Supérame \(En Vivo\)](https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Ya Supérame \(En Vivo\)](https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml) | 3:09 |
 | 79 | [Rumores](https://open.spotify.com/track/1CGZr3OWD5QG1KCW7LMC1D) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Disco De Oro: Baladas, Vol\. 1](https://open.spotify.com/album/4BqbJnEBxaFr21syHgr6bc) | 3:42 |
 | 80 | [Nube Viajera](https://open.spotify.com/track/6L4fL5BzvvkDLTHs67Uqo6) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:04 |
 | 81 | [No Discutamos](https://open.spotify.com/track/1kEWmwBPNkG1LtMb1H0xtZ) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Y Aida](https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica) | 2:16 |
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 122 | [Cielo Rojo](https://open.spotify.com/track/5uTPstkP1Ljt3MzP0LE3uw) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 3:55 |
 | 123 | [Caminos de Guanajuato](https://open.spotify.com/track/2NYtb44MFHpDadBfNFcQXd) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Rey](https://open.spotify.com/album/6ugwfm6B8ToDlJndtQJ7jf) | 3:14 |
 | 124 | [Me La Avente](https://open.spotify.com/track/2QwMXe5zbqymDZGYsMDVqZ) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH) | 2:35 |
-| 125 | [Cucurrucucu Paloma](https://open.spotify.com/track/4SYjzX3PaRgTxPlwI9lAJx) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Reina de la Canción Mexicana](https://open.spotify.com/album/4BLddBWl0kBBxGQnQQ9Sas) | 3:51 |
+| 125 | [Belleza De Cantina](https://open.spotify.com/track/4XC7YfQYxDuUa7I287yeWw) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Por Las Damas](https://open.spotify.com/album/7f9iAg217HyY4rY0f6760q) | 3:03 |
 
 Snapshot ID: `ZmCYzgAAAAA4NnI0dkYXHhdDz7rCkXd0`

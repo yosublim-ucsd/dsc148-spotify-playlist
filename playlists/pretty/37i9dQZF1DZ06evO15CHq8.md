@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 
 > This is $uicideboy$\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,699 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,177 likes - 51 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 23 | [Kill Yourself \(Part IV\)](https://open.spotify.com/track/3LLYTletE6uiRZ0hgMSrCN) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Kill Yourself \(Part IV\)](https://open.spotify.com/album/2lWXXZ9VyzighDLU1Z4D0t) | 1:53 |
 | 24 | [New Chains, Same Shackles](https://open.spotify.com/track/1smeI4gqEuepGWxlSw3tnC) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XIII: The Atlantis Saga](https://open.spotify.com/album/1jDAnHgqCfYMNsRj63Dd7u) | 2:19 |
 | 25 | [2nd Hand](https://open.spotify.com/track/3YeQsJs1FdLI3w0BqWwpmk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XII: The Dark Glacier Saga](https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj) | 2:03 |
-| 26 | [Putrid Pride](https://open.spotify.com/track/4x3vJJYSW9fZWIubv5mmww) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 1:46 |
-| 27 | [CLYDE \(I Hope at Least One of My Ex\-Girlfriends Hears This\)](https://open.spotify.com/track/59aL2q2UPYJkgLTSv0WTlB) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel \(II\)](https://open.spotify.com/album/4mPlRdH5ZL0BppctJqjVoR) | 2:32 |
+| 26 | [CLYDE \(I Hope at Least One of My Ex\-Girlfriends Hears This\)](https://open.spotify.com/track/59aL2q2UPYJkgLTSv0WTlB) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel \(II\)](https://open.spotify.com/album/4mPlRdH5ZL0BppctJqjVoR) | 2:32 |
+| 27 | [Putrid Pride](https://open.spotify.com/track/4x3vJJYSW9fZWIubv5mmww) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 1:46 |
 | 28 | [Grey Gods](https://open.spotify.com/track/4iSHIHjbwqztgHdSeTjuMN) | [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Grey Gorilla](https://open.spotify.com/album/2oaau3jGhm8zjnBbGxmCA6) | 3:12 |
 | 29 | [A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun](https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 2:13 |
 | 30 | [AWKWARD CAR DRIVE](https://open.spotify.com/track/3aEDTqPcVXDiuKXaedAZgx) | [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [GERM HAS A DEATHWISH](https://open.spotify.com/album/5eWTQHm7yXnuxlHpG9Lf23) | 1:49 |
@@ -56,7 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 46 | [Genesis](https://open.spotify.com/track/2UbMJbQq6G0TJnmnubgolV) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 2:42 |
 | 47 | [Lte](https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [YUNGDEATHLILLIFE](https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa) | 2:13 |
 | 48 | [Audubon](https://open.spotify.com/track/3UcyaCWLsc0XDhzXHUuH1S) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XII: The Dark Glacier Saga](https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj) | 2:14 |
-| 49 | [Clouds as Witnesses](https://open.spotify.com/track/7s7q9dpsSCMEnDR3WhExZy) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Gray/Grey](https://open.spotify.com/album/3uOjCKXJFyF5hbWz7mGYrr) | 2:33 |
-| 50 | [Sarcophagus II](https://open.spotify.com/track/44x52QgzCxa1VdrLLNZMaw) | [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Meet Me Where the River Turns Grey](https://open.spotify.com/album/1rcqcrADJOrtw4V0yRTc1N) | 3:05 |
+| 49 | [Coma](https://open.spotify.com/track/73hmZZ7HyLgUQj2DaybfBb) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I Want to Die In New Orleans](https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn) | 2:17 |
+| 50 | [Clouds as Witnesses](https://open.spotify.com/track/7s7q9dpsSCMEnDR3WhExZy) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Gray/Grey](https://open.spotify.com/album/3uOjCKXJFyF5hbWz7mGYrr) | 2:33 |
+| 51 | [Sarcophagus II](https://open.spotify.com/track/44x52QgzCxa1VdrLLNZMaw) | [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Meet Me Where the River Turns Grey](https://open.spotify.com/album/1rcqcrADJOrtw4V0yRTc1N) | 3:05 |
 
-Snapshot ID: `ZoHxgAAAAACVDP0jBu4pRQpT4OE7bger`
+Snapshot ID: `ZoNDAAAAAADjT5/QcefOeXpOM7MCxVMb`

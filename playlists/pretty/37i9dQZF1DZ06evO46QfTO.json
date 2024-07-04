@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 72510,
+  "num_followers": 72517,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAABM0WSuz5GSQ80T69cybvt7",
+  "snapshot_id": "ZoNDAAAAAAB0RuUse4UmRUrL/VAzFn6i",
   "tracks": [
     {
       "added_at": null,
@@ -231,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 220839,
-      "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
@@ -267,6 +247,30 @@
       "duration_ms": 199786,
       "name": "All My Favorite People (feat. Brothers Osborne)",
       "url": "https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make You Say",
+        "url": "https://open.spotify.com/album/650l6jxDJ5c8thTRY42QU2"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Make You Say",
+      "url": "https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV"
     },
     {
       "added_at": null,
@@ -327,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Line By Line (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "Line By Line (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
@@ -363,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dancing with Myself",
-        "url": "https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F"
+        "name": "Line By Line (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK"
       },
       "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
         {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 251309,
-      "name": "Dancing with Myself",
-      "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
+      "duration_ms": 208186,
+      "name": "Line By Line (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE"
     },
     {
       "added_at": null,
@@ -415,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/2SX47JWeyg4hlKfYwQ3AdA"
+        "name": "Dancing with Myself",
+        "url": "https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F"
       },
       "artists": [
         {
@@ -424,9 +412,9 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 205531,
-      "name": "The Tree",
-      "url": "https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI"
+      "duration_ms": 251309,
+      "name": "Dancing with Myself",
+      "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
     },
     {
       "added_at": null,
@@ -447,8 +435,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")",
-        "url": "https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5"
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/2SX47JWeyg4hlKfYwQ3AdA"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 205531,
+      "name": "The Tree",
+      "url": "https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
       "artists": [
         {
@@ -472,9 +476,9 @@
           "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 291533,
-      "name": "The Chain - From the Motion Picture Soundtrack \"The Kitchen\"",
-      "url": "https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps"
+      "duration_ms": 174933,
+      "name": "Redesigning Women",
+      "url": "https://open.spotify.com/track/7IgYxRCJtp36BlDUEoLEg7"
     },
     {
       "added_at": null,
@@ -499,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Humble Quest",
         "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
       },
@@ -515,18 +535,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
       "artists": [
         {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 187640,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs"
+      "duration_ms": 142840,
+      "name": "Loose Change",
+      "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
     },
     {
       "added_at": null,
@@ -563,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 136546,
+      "name": "Make Out With Me",
+      "url": "https://open.spotify.com/track/1XfDYxQ8o7yZN7lbKECwHE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -591,22 +643,6 @@
       "duration_ms": 345026,
       "name": "Old Soul",
       "url": "https://open.spotify.com/track/7sya6fSaMhZmcLYMckxpZm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 136546,
-      "name": "Make Out With Me",
-      "url": "https://open.spotify.com/track/1XfDYxQ8o7yZN7lbKECwHE"
     },
     {
       "added_at": null,
@@ -643,6 +679,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Look At Us Now (Honeycomb)",
+        "url": "https://open.spotify.com/album/2S7QuTmHNJKy4HIebRADEx"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        },
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Look At Us Now (Honeycomb)",
+      "url": "https://open.spotify.com/track/15k7Cy2QyZYV9getS22KXI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -671,30 +731,6 @@
       "duration_ms": 150746,
       "name": "My Name Can't Be Mama",
       "url": "https://open.spotify.com/track/1LHbCL6O09Yqi21XGAIU0U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Look At Us Now (Honeycomb)",
-        "url": "https://open.spotify.com/album/2S7QuTmHNJKy4HIebRADEx"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        },
-        {
-          "name": "Daisy Jones & The Six",
-          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Look At Us Now (Honeycomb)",
-      "url": "https://open.spotify.com/track/15k7Cy2QyZYV9getS22KXI"
     },
     {
       "added_at": null,
@@ -731,42 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Highwomen",
-        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
-      },
-      "artists": [
-        {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        },
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 234133,
-      "name": "Heaven Is A Honky Tonk",
-      "url": "https://open.spotify.com/track/5pg5piAxkAjXqA7aXnOw5Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wildcard",
         "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 194080,
       "name": "Way Too Pretty for Prison (with Maren Morris)",
       "url": "https://open.spotify.com/track/6ZShReTf4SiT7LYXnRCks0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Than We Found It",
+        "url": "https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 197215,
+      "name": "Better Than We Found It",
+      "url": "https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2"
     },
     {
       "added_at": null,
@@ -823,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/2SX47JWeyg4hlKfYwQ3AdA"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 187029,
-      "name": "Get The Hell Out Of Here",
-      "url": "https://open.spotify.com/track/6mRkXi6waYNaJTo7g4yDl6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HERO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
@@ -855,40 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Highwomen",
-        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
-      },
-      "artists": [
-        {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Cocktail And A Song",
-      "url": "https://open.spotify.com/track/6sXLDERR5PP1aQlWVlaaNl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Humble Quest",
-        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/2SX47JWeyg4hlKfYwQ3AdA"
       },
       "artists": [
         {
@@ -896,9 +864,9 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 247400,
-      "name": "Detour",
-      "url": "https://open.spotify.com/track/2nijz65bLAu51eZLFQ0naN"
+      "duration_ms": 187029,
+      "name": "Get The Hell Out Of Here",
+      "url": "https://open.spotify.com/track/6mRkXi6waYNaJTo7g4yDl6"
     },
     {
       "added_at": null,
@@ -915,6 +883,22 @@
       "duration_ms": 175213,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/3AMUgKRaujIuutpMw4K7Zn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 247400,
+      "name": "Detour",
+      "url": "https://open.spotify.com/track/2nijz65bLAu51eZLFQ0naN"
     },
     {
       "added_at": null,
@@ -972,9 +956,9 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 234493,
-      "name": "The Furthest Thing",
-      "url": "https://open.spotify.com/track/6onpcMnD3eVbTq1B5th05E"
+      "duration_ms": 199346,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/5RtZ4ebQFkCa6TGQjQshdd"
     }
   ],
   "unique_name": "This Is Maren Morris",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > mae q q vc escutava qndo era mais nova? .
 
-[Spotify](https://open.spotify.com/user/spotify) - 802,771 likes - 70 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,949 likes - 70 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 7 | [MTG \- BARRACO DELA LÁ](https://open.spotify.com/track/2l6YkP5Rj1w3GsrhE7cDqx) | [DJ GUIZIN DA SERRA](https://open.spotify.com/artist/4PW52baZsb4808PBbSn2a7), [MC Marlon PH](https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ) | [MTG \- BARRACO DELA LÁ](https://open.spotify.com/album/3ks2icfvnL1iRYzEB24w51) | 2:29 |
 | 8 | [Deixa Eu Ser Seu Romeu](https://open.spotify.com/track/08FbjJaapnrQ0zk36j1R9p) | [DJ CVB 011](https://open.spotify.com/artist/0av3xCloXoeMDNlOghdF5g), [MC FURI SP](https://open.spotify.com/artist/08zGM1dFzkWuPJ0rpz5Tq4), [G7 MUSIC BR](https://open.spotify.com/artist/4fPR5Tro0vdgsaMZanGjZ4) | [Deixa Eu Ser Seu Romeu](https://open.spotify.com/album/3LuexrCV0bHQQMW56Ju6I8) | 3:10 |
 | 9 | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC) | 2:03 |
-| 10 | [MTG EU ESTAVA AQUI O TEMPO TODO, versão BH, Skin.Prod](https://open.spotify.com/track/3Ex1jhE7KifqXxThEEdbK8) | [Mc Skin](https://open.spotify.com/artist/7hjBYwh0mwVUgKUPOS33qa), [Dj Nk Da Serra](https://open.spotify.com/artist/3DIMAAaWSlVl1YQ9nsQmUN), [MC DTRÊS](https://open.spotify.com/artist/5dcLRzvx5fHiCphZfZOMsH) | [MTG EU ESTAVA AQUI O TEMPO TODO, versão BH, Skin.Prod](https://open.spotify.com/album/2tREbSKDiQxIfVRe1gP0Ys) | 2:06 |
+| 10 | [MTG EU ESTAVA AQUI O TEMPO TODO, versão BH, Skin.Prod](https://open.spotify.com/track/3Ex1jhE7KifqXxThEEdbK8) | [Mc Skin DJPEJOTA DJ RX Pdrim](https://open.spotify.com/artist/0gXR6CBWppsvrPQDahP3ot) | [MTG EU ESTAVA AQUI O TEMPO TODO, versão BH, Skin.Prod](https://open.spotify.com/album/2tREbSKDiQxIfVRe1gP0Ys) | 2:06 |
 | 11 | [MTG \- ELASTIC HEART](https://open.spotify.com/track/1G7Tfx1FN0atFBWlsg2EPw) | [Lucas Hits](https://open.spotify.com/artist/6Yb29hzKvATIPHZYn4Qk5H) | [MTG \- ELASTIC HEART](https://open.spotify.com/album/7qKgwyMMABXE0gsBBrhaKd) | 1:20 |
 | 12 | [Meu Bigodin Tralha, Minha Roupa Nova](https://open.spotify.com/track/7M9AFryrEBrYGJiMg5055A) | [PLAYBOY22](https://open.spotify.com/artist/45AZO4CDkzmH2y2fc0enSQ), [RITMO CARIOCA](https://open.spotify.com/artist/09ALVvXfw7m44JTMLx7SqR) | [Meu Bigodin Tralha, Minha Roupa Nova](https://open.spotify.com/album/7sGa4qIBhGMBkgEHh6hiXl) | 1:09 |
 | 13 | [MTG \(WHAT IS LOVE\)](https://open.spotify.com/track/7bt3kG6ivWSt7CQEWE0bsf) | [Loirin prod](https://open.spotify.com/artist/0SgHuOMfN5sYzxKYMAHhvJ) | [MTG \(WHAT IS LOVE\)](https://open.spotify.com/album/4RkJXcmZPioyApTMfmtXrf) | 2:15 |

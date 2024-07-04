@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 541111,
+  "num_followers": 541146,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Dopethrone",
-        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
-      },
-      "artists": [
-        {
-          "name": "Electric Wizard",
-          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
-        }
-      ],
-      "duration_ms": 389466,
-      "name": "Barbarian",
-      "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Blood Lust",
         "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 435200,
       "name": "Death's Door",
       "url": "https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Dopethrone",
+        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
+      },
+      "artists": [
+        {
+          "name": "Electric Wizard",
+          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
+        }
+      ],
+      "duration_ms": 389466,
+      "name": "Barbarian",
+      "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Seven Thunders Roar",
-        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
-      },
-      "artists": [
-        {
-          "name": "Stoned Jesus",
-          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
-        }
-      ],
-      "duration_ms": 961942,
-      "name": "I'm the Mountain",
-      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "To the Center",
         "url": "https://open.spotify.com/album/2oUMzuY8FqFzcOa2YqhlsZ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 346116,
       "name": "Left Us To Mold",
       "url": "https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Seven Thunders Roar",
+        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
+      },
+      "artists": [
+        {
+          "name": "Stoned Jesus",
+          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
+        }
+      ],
+      "duration_ms": 961942,
+      "name": "I'm the Mountain",
+      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Dos E.P.'s",
-        "url": "https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL"
-      },
-      "artists": [
-        {
-          "name": "Nebula",
-          "url": "https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE"
-        }
-      ],
-      "duration_ms": 328960,
-      "name": "Smokin' Woman",
-      "url": "https://open.spotify.com/track/3As9x85QW00A257ahhwKLr"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Love Fear Choices and Astronauts",
         "url": "https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/0vM3OBPvCoOK38m7hdweb2"
+        "name": "Dos E.P.'s",
+        "url": "https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL"
       },
       "artists": [
         {
-          "name": "Masters Of Reality",
-          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
+          "name": "Nebula",
+          "url": "https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE"
         }
       ],
-      "duration_ms": 293239,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn"
+      "duration_ms": 328960,
+      "name": "Smokin' Woman",
+      "url": "https://open.spotify.com/track/3As9x85QW00A257ahhwKLr"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1191,6 +1175,22 @@
       "duration_ms": 221033,
       "name": "Slaughter Beach",
       "url": "https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/0vM3OBPvCoOK38m7hdweb2"
+      },
+      "artists": [
+        {
+          "name": "Masters Of Reality",
+          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
+        }
+      ],
+      "duration_ms": 293239,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn"
     },
     {
       "added_at": "2024-06-28 04:00:00",

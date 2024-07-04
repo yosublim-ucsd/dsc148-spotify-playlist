@@ -1,6 +1,6 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 33678,
+  "num_followers": 33683,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Jimi Cravity",
+          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
+        }
+      ],
+      "duration_ms": 480546,
+      "name": "You Know My Name",
+      "url": "https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grace (Live/Deluxe)",
         "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
@@ -71,22 +91,6 @@
       "duration_ms": 498426,
       "name": "Break Every Chain - Live",
       "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart. Passion. Pursuit.",
-        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 376666,
-      "name": "Gracefully Broken",
-      "url": "https://open.spotify.com/track/7ILH9xthuxo4i4bTXpwDcZ"
     },
     {
       "added_at": null,
@@ -127,22 +131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "House Of Miracles",
-        "url": "https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW"
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
       },
       "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 438000,
-      "name": "RATTLE!",
-      "url": "https://open.spotify.com/track/6ENppsFuukhrhe3V8puNo1"
+      "duration_ms": 376666,
+      "name": "Gracefully Broken",
+      "url": "https://open.spotify.com/track/7ILH9xthuxo4i4bTXpwDcZ"
     },
     {
       "added_at": null,
@@ -163,6 +163,26 @@
       "duration_ms": 513542,
       "name": "Fear is Not My Future (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/2zUFgBx6OWmz4JfRcrDvTd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "House Of Miracles",
+        "url": "https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 438000,
+      "name": "RATTLE!",
+      "url": "https://open.spotify.com/track/6ENppsFuukhrhe3V8puNo1"
     },
     {
       "added_at": null,
@@ -327,26 +347,6 @@
       "duration_ms": 177049,
       "name": "Do It Anyway",
       "url": "https://open.spotify.com/track/2rF5K9wMGwaiwsTwVjDrDq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Holy Water (Church Sessions)",
-        "url": "https://open.spotify.com/album/0mV74LpIg6NbMUbAIOolKC"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 464809,
-      "name": "Holy Water - Church Sessions",
-      "url": "https://open.spotify.com/track/2wkiIDEXYJUels0HbBkpvl"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 369840,
-      "name": "Grace - Live",
-      "url": "https://open.spotify.com/track/5ahLgNl6MprCkvnYWRPq59"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Hallelujah",
         "url": "https://open.spotify.com/album/6PC1CBTlJ7WaV6YC62jVbn"
       },
@@ -703,6 +687,42 @@
       "duration_ms": 345179,
       "name": "One Hallelujah",
       "url": "https://open.spotify.com/track/1nJYjT357z2vQAMAbuoTno"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TEAR OFF THE ROOF (LIVE FROM THE HOLY CITY)",
+        "url": "https://open.spotify.com/album/3RA4ISUwFp9KIhEWYbio1A"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 428354,
+      "name": "THIS IS A MOVE (LIVE FROM GREENSBORO)",
+      "url": "https://open.spotify.com/track/4chx4qrqcgMalneuDKedPt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Church I Grew Up in (Live)",
+        "url": "https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 296715,
+      "name": "The Church I Grew Up In - Live",
+      "url": "https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM"
     },
     {
       "added_at": null,
@@ -763,26 +783,6 @@
       "duration_ms": 236352,
       "name": "Never Be The Same (feat. Tasha Cobbs Leonard, Brian Courtney Wilson & Travis Greene)",
       "url": "https://open.spotify.com/track/1ZLQ9em098JEt310TDsbs2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TEAR OFF THE ROOF (LIVE FROM THE HOLY CITY)",
-        "url": "https://open.spotify.com/album/3RA4ISUwFp9KIhEWYbio1A"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 428354,
-      "name": "THIS IS A MOVE (LIVE FROM GREENSBORO)",
-      "url": "https://open.spotify.com/track/4chx4qrqcgMalneuDKedPt"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 347746,
-      "name": "Smile - Live",
-      "url": "https://open.spotify.com/track/5XFYRxSFLFnxJOCFqXRLc9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Place Live",
         "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
       },
@@ -919,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart. Passion. Pursuit.",
-        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 301066,
-      "name": "The River Of The Lord",
-      "url": "https://open.spotify.com/track/4AWM3wvYUY7n0HgscOSHAw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
         "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
       },
@@ -947,6 +915,22 @@
       "duration_ms": 54173,
       "name": "I'm Free - Live",
       "url": "https://open.spotify.com/track/5GYogyslF0t1JkhCDv0UE0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 301066,
+      "name": "The River Of The Lord",
+      "url": "https://open.spotify.com/track/4AWM3wvYUY7n0HgscOSHAw"
     },
     {
       "added_at": null,
@@ -983,6 +967,30 @@
       "duration_ms": 427389,
       "name": "God So Loved - Live",
       "url": "https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legacy: Live In New Orleans (Deluxe) [Live Version]",
+        "url": "https://open.spotify.com/album/1IFcEdarRtR86W9iw2WmPh"
+      },
+      "artists": [
+        {
+          "name": "Bishop Paul S. Morton, Sr.",
+          "url": "https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk"
+        },
+        {
+          "name": "William Murphy III",
+          "url": "https://open.spotify.com/artist/56spyEtOS1lSbTxIm5mDIS"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 209466,
+      "name": "Show Us You (Reprise) [feat. Tasha Cobbs & William Murphy, III] - Live Version",
+      "url": "https://open.spotify.com/track/5qtNkF08IRkcMRaw9Xje9d"
     }
   ],
   "unique_name": "This Is Tasha Cobbs Leonard",

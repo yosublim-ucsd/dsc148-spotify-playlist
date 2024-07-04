@@ -2699,6 +2699,32 @@
     },
     {
       "album": {
+        "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
+        "url": "https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL"
+      },
+      "artists": [
+        {
+          "name": "GEMN",
+          "url": "https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew"
+        },
+        {
+          "name": "\u4e2d\u5cf6\u5065\u4eba",
+          "url": "https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln"
+        },
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
+      "url": "https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT"
+    },
+    {
+      "album": {
         "name": "\u30e1\u30d5\u30a3\u30b9\u30c8",
         "url": "https://open.spotify.com/album/6Caa8HdL3LdWEbTmZEAIZ9"
       },

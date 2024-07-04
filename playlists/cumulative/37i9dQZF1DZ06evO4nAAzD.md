@@ -2,7 +2,7 @@
 
 ### [This Is Hyperanhas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nAAzD)
 
-> This is Hyperanhas\. The essential tracks, all in one playlist.
+> This is Hyperanhas\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 56 songs - 3 hr 40 min
 

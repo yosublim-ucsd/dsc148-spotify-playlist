@@ -4,11 +4,11 @@
 
 > viral, trend ve yükselenler\. Kapak: Türkiye Milli Takımı 🇹🇷
 
-50 songs - 2 hr 27 min
+52 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [ARABA](https://open.spotify.com/track/5tjWDHOCqsbKPuiivil0BM) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ARABA](https://open.spotify.com/album/6qk5ajwfXB8QplASyF7lXH) | 2:13 | 2024-07-02 |  |
+| [ARABA](https://open.spotify.com/track/5tjWDHOCqsbKPuiivil0BM) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ARABA](https://open.spotify.com/album/6qk5ajwfXB8QplASyF7lXH) | 2:13 | 2024-07-02 | 2024-07-04 |
 | [Ben Sana Gelemem](https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Ben Sana Gelemem](https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV) | 3:12 | 2024-07-02 |  |
 | [Bertaraf](https://open.spotify.com/track/1PiyTtoNn0m4kfJWLfjHny) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [SIR](https://open.spotify.com/album/7l1gVxwITzFt0YE4gqLVyk) | 2:34 | 2024-07-02 |  |
 | [Bir Bela](https://open.spotify.com/track/5kR2RqcjHEyCDXkE9WHhoF) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Kraliçe](https://open.spotify.com/album/4kHAWGBdk9ZlMAqSKW7LCU) | 4:33 | 2024-07-02 |  |
@@ -23,6 +23,7 @@
 | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/album/46Lu9sb5R04T208BLZ5kRm) | 2:13 | 2024-07-02 |  |
 | [Düşer O](https://open.spotify.com/track/7cCreOFQhqqhCm82twJg0u) | [İzel](https://open.spotify.com/artist/0QSrUuv6y5Woazd3LAjbSH) | [Aşk En Büyüktür Her Zaman](https://open.spotify.com/album/0eRqafbQDWjvYjcmOykgrd) | 4:59 | 2024-07-02 |  |
 | [Elini Ver](https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Elini Ver](https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN) | 2:22 | 2024-07-02 |  |
+| [Eyvah Neye Yarar](https://open.spotify.com/track/5wSj1BUYLvYf8NWJy9MQuM) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Karışık Kaset](https://open.spotify.com/album/5SHv3oXpZdmsqHt57lY0Yg) | 3:05 | 2024-07-03 |  |
 | [Fark Ettim](https://open.spotify.com/track/4rbXJipz3CaSQwtG3xXzzT) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Fark Ettim](https://open.spotify.com/album/4hnVK5UgO5xWJdwxBwmsFv) | 2:35 | 2024-07-02 |  |
 | [Geri Dönemedim](https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geri Dönemedim](https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC) | 2:18 | 2024-07-02 |  |
 | [Gitme](https://open.spotify.com/track/42boV2FGsztYnQMAeoAjb6) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Gitme](https://open.spotify.com/album/2PbxeqlKK3G3MzRCJbBnVW) | 2:50 | 2024-07-02 |  |
@@ -37,7 +38,8 @@
 | [Kufi](https://open.spotify.com/track/4JqP7JwWNG8I7xY40E6IWh) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc) | 4:26 | 2024-07-02 |  |
 | [Küle Dönmüşsün](https://open.spotify.com/track/2CZzw0He9fzyi2FkBkn4Bk) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Küle Dönmüşsün](https://open.spotify.com/album/69XrCiTVTxzFDxvk6RorEG) | 2:22 | 2024-07-02 |  |
 | [LAF](https://open.spotify.com/track/7rHLpc3SZobYPDyBF06uok) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [LAF](https://open.spotify.com/album/0FGpFHP4yc7uWScjSHkx8O) | 2:06 | 2024-07-02 |  |
-| [Lan](https://open.spotify.com/track/1whKKdtCiFjN7MW7DrIRUH) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Lan](https://open.spotify.com/album/1LvnmkkATPS4wBrEPMec26) | 3:16 | 2024-07-02 |  |
+| [Lan](https://open.spotify.com/track/1whKKdtCiFjN7MW7DrIRUH) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Lan](https://open.spotify.com/album/1LvnmkkATPS4wBrEPMec26) | 3:16 | 2024-07-02 | 2024-07-04 |
+| [Leyla](https://open.spotify.com/track/1yNlQwfPdHQg1ynxfBbk2a) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx), [Boygar](https://open.spotify.com/artist/4PJjx45YgWsvQ8srXC2Txe) | [Daha Derine](https://open.spotify.com/album/6gj3CjEPM2m4tWzLgVURTE) | 3:14 | 2024-07-03 |  |
 | [nE !?](https://open.spotify.com/track/1Ma4fLShd0hpZSNH37mEkR) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [\#1](https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie) | 1:54 | 2024-07-02 |  |
 | [Numaracı](https://open.spotify.com/track/6LATAa81iyMHWhXgI4VHwL) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 4:16 | 2024-07-02 |  |
 | [Olmuşum Leyla](https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Olmuşum Leyla](https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA) | 2:52 | 2024-07-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Cover: Burna Boy 🇳🇬
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,901 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,925 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 22 | [Continental \(feat\. Shallipopi\)](https://open.spotify.com/track/2YZIP6kROKip5s5C52L6u8) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [True To Self](https://open.spotify.com/album/3s7ciU4LPvI3mb8yufHJZ5) | 3:00 |
 | 23 | [Mine For The Night](https://open.spotify.com/track/5HJr6r6NdRpNnpUOxeXTjK) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Mine For The Night](https://open.spotify.com/album/3xHZvCFIIqqqEH6l24CRJX) | 4:14 |
 | 24 | [Shattarock](https://open.spotify.com/track/2CEkB1XfR41pK5VpLAULeL) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Shattarock](https://open.spotify.com/album/6zzurKKXuIgKdVKOchi0Wh) | 1:59 |
-| 25 | [Round Round \(feat\. Busta Rhymes\)](https://open.spotify.com/track/5eqI3NbjJrz089MfflRAen) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Round Round \(feat\. Busta Rhymes\)](https://open.spotify.com/album/20kclpZevfdjWjxHN84siU) | 2:57 |
+| 25 | [Round Round](https://open.spotify.com/track/5eqI3NbjJrz089MfflRAen) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Round Round](https://open.spotify.com/album/20kclpZevfdjWjxHN84siU) | 2:57 |
 | 26 | [Work Me Out \(with Wizkid\)](https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:42 |
 | 27 | [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 |
 | 28 | [Esmeralda](https://open.spotify.com/track/6ConL2W4eA29qy66IPAm0U) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Esmeralda](https://open.spotify.com/album/5FOrO5dMMmMSvBuTLS2WRF) | 1:54 |

@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: ASIAN KUNG\-FU GENERATION
 
-1,071 songs - 2 day 22 hr 49 min
+1,072 songs - 2 day 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -714,6 +714,7 @@
 | [アフタースクール](https://open.spotify.com/track/12yaUWXL3LaWZbps2MVzOy) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [SINGLE 1](https://open.spotify.com/album/4KHq9rx1FHIx7YXefUjK0F) | 3:24 | 2024-05-14 |  |
 | [アフターダーク](https://open.spotify.com/track/6XsJTpZwPKMcG8QK8k14Z6) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ワールド ワールド ワールド](https://open.spotify.com/album/6ZcU0MGlWn9oc4dEhY1TEI) | 3:12 | 2023-06-27 | 2024-02-07 |
 | [アポフェニア](https://open.spotify.com/track/2LMMdR5vkNpm6v1AwXg7l9) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [ANTHEMICS](https://open.spotify.com/album/5ft76H4MMIeRPiWF50v9VW) | 4:06 | 2022-08-30 | 2022-09-01 |
+| [アポロドロス](https://open.spotify.com/track/41PdvmQ3BrbEoMReSDCDGP) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [アポロドロス](https://open.spotify.com/album/29u1POyrbh3Qm7KMR08zj6) | 4:44 | 2024-07-02 |  |
 | [アマリリス](https://open.spotify.com/track/4eIDKBcRJnlZmrRLNdlbgX) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [アマリリス](https://open.spotify.com/album/5Tdq4ftTKRVA2FYE4kc0QT) | 3:53 | 2023-07-11 | 2023-10-11 |
 | [アレキシサイミアスペア](https://open.spotify.com/track/1pQ9MUBDpe5AVnpxha0uso) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [last aurorally](https://open.spotify.com/album/5NxTmnfjzE2DpeUUWfsn0F) | 5:25 | 2023-04-11 | 2023-07-05 |
 | [インヒューマンエンパシー](https://open.spotify.com/track/6ite4gtP02Vfb8NvXxlI1Q) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [永遠市](https://open.spotify.com/album/5STqcXt9yxV4dpDCTB2D62) | 4:50 | 2023-10-24 | 2023-12-09 |
@@ -740,7 +741,7 @@
 | [クロスロード](https://open.spotify.com/track/06bGA7LD0gnMEheiYlAF2l) | [UNICORN](https://open.spotify.com/artist/0z4FY376uhecutd5Adph8s) | [クロスロード](https://open.spotify.com/album/4mJ1KXrkeLBHxny9dADqb7) | 3:00 | 2023-11-14 | 2024-02-21 |
 | [クロノスタシス](https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [クロノスタシス](https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6) | 5:39 | 2023-07-04 | 2024-02-07 |
 | [グラデーション](https://open.spotify.com/track/5jWH9i9C8haNGbyEm9vFHg) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [グラデーション](https://open.spotify.com/album/37TBI4DrZdU5Ne3wxRiSrJ) | 4:00 | 2023-06-27 | 2024-02-07 |
-| [ケモノミチ](https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [ケモノミチ](https://open.spotify.com/album/0klgJfPMllexvhss9c816Z) | 3:58 | 2023-09-19 |  |
+| [ケモノミチ](https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [ケモノミチ](https://open.spotify.com/album/0klgJfPMllexvhss9c816Z) | 3:58 | 2023-09-19 | 2024-07-04 |
 | [ゲット・アップ・ルーシー](https://open.spotify.com/track/2KuNvu2Jh1CYVOrhEHWN8S) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [Chicken Zombies](https://open.spotify.com/album/5brEuhJXQyScy3W5XPtrJN) | 4:36 | 2023-12-19 | 2024-04-24 |
 | [ココカラ銀座](https://open.spotify.com/track/4nOYiE2HLDen03WXEN0iNw) | [Hoff Dylan](https://open.spotify.com/artist/47ircJ7HYosHqScopxYS4S) | [ココカラ銀座](https://open.spotify.com/album/7j4JuldCckd7krjlvHcVfC) | 4:34 | 2022-05-10 | 2022-05-21 |
 | [コバルトブルー](https://open.spotify.com/track/48kgW2worhXNFJJ2KN9yEr) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [ヘッドフォンチルドレン](https://open.spotify.com/album/1LypiBHtLzLa0c9IErlDt6) | 4:25 | 2024-04-03 | 2024-07-03 |

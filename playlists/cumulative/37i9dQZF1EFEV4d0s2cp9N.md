@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">BLVSH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-51 songs - 2 hr 30 min
+52 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2024-05-01 |  |
 | [Her](https://open.spotify.com/track/0IHF1tsTEzsjbHwMtAytt1) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4), [bloody white](https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ) | [Her](https://open.spotify.com/album/5IrKSvEtO1UDizncw6i5R7) | 3:03 | 2024-05-01 |  |
 | [Highlight](https://open.spotify.com/track/2VJrDLdiLcw9bSZMe73sWG) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going](https://open.spotify.com/album/7vehBp2yn4AlDZw0SQ8IHf) | 3:33 | 2024-05-31 |  |
+| [I Want You](https://open.spotify.com/track/59sRxIltnBLAWzaTeV05xd) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [I Want You](https://open.spotify.com/album/7Dq0zfGilniudyVzvZg3rn) | 2:53 | 2024-07-03 |  |
 | [Impurities](https://open.spotify.com/track/7mYwDmbbp8UPLlnRjTJ54X) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:16 | 2024-05-01 |  |
 | [Lean In \- Interlude](https://open.spotify.com/track/3oMmlRcDyZjCedCuKqJGjC) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [All My Friends](https://open.spotify.com/album/1QqOH1FEXP73RMHPS1gNTd) | 1:44 | 2024-05-01 |  |
 | [Left & Right](https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Left & Right](https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS) | 2:34 | 2024-05-01 |  |

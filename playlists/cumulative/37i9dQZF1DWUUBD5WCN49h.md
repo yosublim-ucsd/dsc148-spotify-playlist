@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['SICK OF ME'](https://open.spotify.com/track/0cxRi1yED0g27YCoPrIy4V) | [Doriansgrave](https://open.spotify.com/artist/5RRQuowK6aqG04i8ik6nDW) | ['SICK OF ME'](https://open.spotify.com/album/7FD0sbrbulH4FYPPa7JHh0) | 3:03 | 2023-02-03 | 2023-02-24 |
-| [\(Don't\) Say I'm Wrong](https://open.spotify.com/track/66FeTaHEBpOehgauJVcGL5) | [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [\(Don't\) Say I'm Wrong](https://open.spotify.com/album/4IdKwSQzgbh3htCL3Tb6SO) | 4:26 | 2024-03-29 |  |
+| [\(Don't\) Say I'm Wrong](https://open.spotify.com/track/66FeTaHEBpOehgauJVcGL5) | [Ladé](https://open.spotify.com/artist/3xynIVckga6fW5j1jFwhKE) | [\(Don't\) Say I'm Wrong](https://open.spotify.com/album/4IdKwSQzgbh3htCL3Tb6SO) | 4:26 | 2024-03-29 |  |
 | [+44](https://open.spotify.com/track/4cDnX3cMVIVRg8wKO1fCjW) | [Miles from Kinshasa](https://open.spotify.com/artist/6ZWpMqNWzoiiQScsuzeBaE) | [+44](https://open.spotify.com/album/4aYW78gBLVZgQsKNT5K194) | 3:00 | 2024-03-22 | 2024-05-03 |
 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 | 2022-07-21 | 2022-11-04 |
 | [143](https://open.spotify.com/track/4TbphKYktZwuZyJ28PBC01) | [Iguocho](https://open.spotify.com/artist/7DrFOyOldSkiBk24TE2kcH) | [143](https://open.spotify.com/album/6jOa2qEeQcaR81max3uP2H) | 2:52 | 2022-06-30 | 2022-11-04 |

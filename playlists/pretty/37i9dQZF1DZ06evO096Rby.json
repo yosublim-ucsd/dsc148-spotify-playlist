@@ -1,12 +1,12 @@
 {
   "description": "This Is Edgardo Nu\u00f1ez. Los temas esenciales, todos en una lista.",
-  "num_followers": 32922,
+  "num_followers": 32958,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAABDRl6HBeCvU8XlNtFI5vEI",
+  "snapshot_id": "ZoNDAAAAAABxKmsyfbybUv9vAPJEBVst",
   "tracks": [
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailemos Bebe",
-        "url": "https://open.spotify.com/album/0syTyLMkktbjJQi6o89rWG"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 293412,
-      "name": "Micaela / La Mar\u00eda",
-      "url": "https://open.spotify.com/track/4xqxRIgA4U71scvhAyvyig"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Receta Del Corrido",
         "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 174680,
       "name": "Chavo F\u00e9lix",
       "url": "https://open.spotify.com/track/06TSCYrOx9iNPv0TqcQo8W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bailemos Bebe",
+        "url": "https://open.spotify.com/album/0syTyLMkktbjJQi6o89rWG"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 293412,
+      "name": "Micaela / La Mar\u00eda",
+      "url": "https://open.spotify.com/track/4xqxRIgA4U71scvhAyvyig"
     },
     {
       "added_at": null,

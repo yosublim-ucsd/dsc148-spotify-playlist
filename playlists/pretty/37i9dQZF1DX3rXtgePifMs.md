@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,284 likes - 110 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,426 likes - 110 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 18 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
 | 19 | [LONELY](https://open.spotify.com/track/7r9DWgmElZrjI0G8erYKRr) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [JUNGLE](https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo) | 4:25 |
 | 20 | [DON'T LET THE DEVIL \(feat\. thankugoodsir\)](https://open.spotify.com/track/1f7eBRPgFfKPhqMU7z31yF) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [thankugoodsir](https://open.spotify.com/artist/64wFZ5RSArS1MwJ0N0nJhN) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 2:45 |
-| 21 | [Black Dress](https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Black Dress](https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9) | 3:57 |
-| 22 | [AVVISO](https://open.spotify.com/track/2YMvLfACAlvQMiKonxdeUq) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [SPECCHIO](https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3) | 3:03 |
-| 23 | [Seaforth](https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 4:05 |
+| 21 | [Seaforth](https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 4:05 |
+| 22 | [Black Dress](https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Black Dress](https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9) | 3:57 |
+| 23 | [AVVISO](https://open.spotify.com/track/2YMvLfACAlvQMiKonxdeUq) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [SPECCHIO](https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3) | 3:03 |
 | 24 | [Wait For It](https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Wait For It](https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh) | 3:59 |
 | 25 | [poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 2:01 |
 | 26 | [Longevity Flow](https://open.spotify.com/track/4xftWzEdtv72VcDlVvA5t0) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Longevity Flow](https://open.spotify.com/album/0UV7EM6NwjbyINDUwEpQUg) | 3:03 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 57 | [TOMMY](https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po) | [WALKER.](https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB) | [TOMMY](https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1) | 3:32 |
 | 58 | [Why You Waiting?](https://open.spotify.com/track/4NS6mjfccw3m9fPYLCKa53) | [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl), [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy) | [Why You Waiting?](https://open.spotify.com/album/3czLQ2sjzql5WJQg7degVt) | 2:35 |
 | 59 | [Dreaming Of You](https://open.spotify.com/track/7iSNRfFHvHeYL3fq4Njqd9) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Dreaming Of You](https://open.spotify.com/album/3qYlIJsZmQyM9K9CfSv9Ri) | 3:24 |
-| 60 | [A STRANGER](https://open.spotify.com/track/6t26Su0fcxR2tbHzNfzE8I) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [A STRANGER](https://open.spotify.com/album/0o3v4DaaAydiFZLv9nsUeC) | 2:47 |
-| 61 | [Gan Ainm](https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Paragon Songs](https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA) | 4:07 |
+| 60 | [Gan Ainm](https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Paragon Songs](https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA) | 4:07 |
+| 61 | [A STRANGER](https://open.spotify.com/track/6t26Su0fcxR2tbHzNfzE8I) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [A STRANGER](https://open.spotify.com/album/0o3v4DaaAydiFZLv9nsUeC) | 2:47 |
 | 62 | [Shut It Down](https://open.spotify.com/track/6k1JXdWW1ZGAcTUtjao9d6) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Shut It Down](https://open.spotify.com/album/50WI8N9WqWFJ13nfogGsQB) | 2:42 |
 | 63 | [We Can Be Anything](https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [We Can Be Anything](https://open.spotify.com/album/5TVcWdcTKLoXsFp8hYV5jp) | 3:21 |
 | 64 | [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 79 | [Who Let Him In](https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Who Let Him In](https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus) | 3:06 |
 | 80 | [Paradox](https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [DICHOTOMY](https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg) | 3:43 |
 | 81 | [Pro Freak \(with Doechii, Fatman Scoop\)](https://open.spotify.com/track/2pDUb0DE5L5soxdQfyzDDc) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Luv 4 Rent](https://open.spotify.com/album/1gIhUSOKHS9WoUCZeBR8Ao) | 4:28 |
-| 82 | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4) | 2:54 |
-| 83 | [My Way](https://open.spotify.com/track/7jNvkE2zWQeUqLJpy6tbyq) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle) | [My Way](https://open.spotify.com/album/2HByMoy9KrW78HhZk1Jf6h) | 2:28 |
+| 82 | [My Way](https://open.spotify.com/track/7jNvkE2zWQeUqLJpy6tbyq) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle) | [My Way](https://open.spotify.com/album/2HByMoy9KrW78HhZk1Jf6h) | 2:28 |
+| 83 | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4) | 2:54 |
 | 84 | [Tings My Way](https://open.spotify.com/track/3xdiLJ5x946mdlj3vwbPPu) | [Freq Motif](https://open.spotify.com/artist/3ZHj8c2bBRsMrD1CSKk1FK), [Magugu](https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL) | [Tings My Way](https://open.spotify.com/album/5ljS6V83W1O00uaXLFRYW5) | 2:04 |
 | 85 | [We Are The Ones \- FC24 Version](https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [We Are The Ones \(FC24 Version\)](https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO) | 2:15 |
 | 86 | [EAZI](https://open.spotify.com/track/3ZtzpqfftOGNMAgm8VGIil) | [Young Eman](https://open.spotify.com/artist/5ChhhneeWudlENWJcstXzL) | [EAZI](https://open.spotify.com/album/27KRRLn4woQNwuJ8GCweNM) | 2:30 |

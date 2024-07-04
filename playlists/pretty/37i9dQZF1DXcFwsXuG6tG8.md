@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 
 > y el soundtrack suena así...
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,193 likes - 65 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,220 likes - 65 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 38 | [Canción 2](https://open.spotify.com/track/77a5i89RIF8B3lhRIxY4YB) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Canción 2](https://open.spotify.com/album/1hXSMNto2tKY8WtJ13BwjW) | 2:28 |
 | 39 | [POEMA A TUS PROBLEMAS](https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [POEMA A TUS PROBLEMAS](https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5) | 3:29 |
 | 40 | [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 |
-| 41 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
-| 42 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 |
+| 41 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 |
+| 42 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
 | 43 | [Te Lo Voy a Decir](https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Te Lo Voy a Decir](https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF) | 4:06 |
 | 44 | [quise quererte](https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [quise quererte](https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp) | 3:39 |
 | 45 | [ALGO ESPECIAL](https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [ALGO ESPECIAL](https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5) | 3:25 |
 | 46 | [HORSES IN HEAVEN](https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [HORSES IN HEAVEN](https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy) | 2:57 |
-| 47 | [Luna \(pag.1\)](https://open.spotify.com/track/2c6MW214s0JaQBtkQs9saS) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [Luna \(pag.1\)](https://open.spotify.com/album/5UseQdtOQBHEDc7bJhTbrG) | 2:49 |
-| 48 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 |
+| 47 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 |
+| 48 | [Luna \(pag.1\)](https://open.spotify.com/track/2c6MW214s0JaQBtkQs9saS) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [Luna \(pag.1\)](https://open.spotify.com/album/5UseQdtOQBHEDc7bJhTbrG) | 2:49 |
 | 49 | [WCID?](https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX) | [SUPERNOVA](https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117) | 3:23 |
 | 50 | [No Te Sientes Igual](https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:00 |
 | 51 | [Pececitos](https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pececitos](https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT) | 3:25 |

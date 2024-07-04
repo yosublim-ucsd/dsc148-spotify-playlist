@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour prendre la route.",
-  "num_followers": 447268,
+  "num_followers": 447391,
   "original_name": "Sur la route",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "DNCE",
-        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
-      },
-      "artists": [
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-        }
-      ],
-      "duration_ms": 219146,
-      "name": "Cake By The Ocean",
-      "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
         "name": "Pray for the Wicked",
         "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 193953,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "DNCE",
+        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
+      },
+      "artists": [
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        }
+      ],
+      "duration_ms": 219146,
+      "name": "Cake By The Ocean",
+      "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Lungs (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 252818,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
         "name": "My Head Is An Animal",
         "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 266600,
       "name": "Little Talks",
       "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Lungs (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 252818,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 172466,
-      "name": "Why Don't You Get A Job",
-      "url": "https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
         "name": "Prelude to Ecstasy",
         "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 182623,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 172466,
+      "name": "Why Don't You Get A Job",
+      "url": "https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj"
     },
     {
       "added_at": "2024-05-30 22:00:00",

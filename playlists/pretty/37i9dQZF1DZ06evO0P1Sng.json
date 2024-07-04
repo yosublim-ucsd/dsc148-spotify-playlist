@@ -1,12 +1,12 @@
 {
-  "description": "This is: Azzy. Alle wichtigen Tracks in einer Playlist.",
+  "description": "This is Azzy. The essential tracks, all in one playlist.",
   "num_followers": 7925,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAB53rhO9djU1J/pLlf8SVGU",
+  "snapshot_id": "ZoNDAAAAAAD/6CKF680+fW4LeMtYqiVk",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trof\u00e9u",
+        "url": "https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Baratapai",
+          "url": "https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY"
+        }
+      ],
+      "duration_ms": 163428,
+      "name": "60K - Remix",
+      "url": "https://open.spotify.com/track/4tRhRB2kJQLosmNCWrIsLw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica Ep. Acabou",
         "url": "https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG"
       },
@@ -319,34 +347,6 @@
       "duration_ms": 270000,
       "name": "Poesia Ac\u00fastica Ep. Acabou",
       "url": "https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trof\u00e9u",
-        "url": "https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Baratapai",
-          "url": "https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY"
-        }
-      ],
-      "duration_ms": 163428,
-      "name": "60K - Remix",
-      "url": "https://open.spotify.com/track/4tRhRB2kJQLosmNCWrIsLw"
     },
     {
       "added_at": null,
@@ -423,30 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corpo Quente",
-        "url": "https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN"
-      },
-      "artists": [
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Bi$",
-          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Corpo Quente",
-      "url": "https://open.spotify.com/track/6RRVJ39Nu1GfiWhxBvixMg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Minha Ex \u00e9 Minha Maior F\u00e3",
         "url": "https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw"
       },
@@ -471,6 +447,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corpo Quente",
+        "url": "https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN"
+      },
+      "artists": [
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Bi$",
+          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Corpo Quente",
+      "url": "https://open.spotify.com/track/6RRVJ39Nu1GfiWhxBvixMg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jogo de Sedu\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX"
       },
@@ -483,30 +483,6 @@
       "duration_ms": 225882,
       "name": "Jogo de Sedu\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se Prepara",
-        "url": "https://open.spotify.com/album/54gWxTm90TbQ5oRa4aNp3E"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        },
-        {
-          "name": "Lucas e Orelha",
-          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 182415,
-      "name": "Se Prepara",
-      "url": "https://open.spotify.com/track/5d1Eidz7m4vdgHsfZRKcec"
     },
     {
       "added_at": null,
@@ -551,6 +527,30 @@
       "duration_ms": 182923,
       "name": "Faixa Rosa",
       "url": "https://open.spotify.com/track/1DoaY4rjTCk5cUEUTU2pq3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Prepara",
+        "url": "https://open.spotify.com/album/54gWxTm90TbQ5oRa4aNp3E"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Lucas e Orelha",
+          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 182415,
+      "name": "Se Prepara",
+      "url": "https://open.spotify.com/track/5d1Eidz7m4vdgHsfZRKcec"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 130800,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2 Minutos",
         "url": "https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 215520,
       "name": "2 Minutos",
       "url": "https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VIP",
-        "url": "https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 130800,
-      "name": "VIP",
-      "url": "https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3"
     },
     {
       "added_at": null,
@@ -1091,26 +1091,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patroa",
-        "url": "https://open.spotify.com/album/2ojij9qTa6YUIqrAxukcwL"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "BocaDosBeats",
-          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
-        }
-      ],
-      "duration_ms": 181389,
-      "name": "Patroa",
-      "url": "https://open.spotify.com/track/1Uw33plA0I6BzsjBb9AI3f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tifanny",
         "url": "https://open.spotify.com/album/7ARaUBO3YmdZ91wDdSn643"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 160056,
       "name": "Tifanny",
       "url": "https://open.spotify.com/track/7rSH0RAJ3IkeiXfwqEZERJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patroa",
+        "url": "https://open.spotify.com/album/2ojij9qTa6YUIqrAxukcwL"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "BocaDosBeats",
+          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
+        }
+      ],
+      "duration_ms": 181389,
+      "name": "Patroa",
+      "url": "https://open.spotify.com/track/1Uw33plA0I6BzsjBb9AI3f"
     },
     {
       "added_at": null,
@@ -1207,22 +1207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVEZY",
-        "url": "https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 162616,
-      "name": "LOVEZY",
-      "url": "https://open.spotify.com/track/2BHlvOVDfPYSbgpTf1a4XY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hora do Show",
         "url": "https://open.spotify.com/album/2A5UWu3yNNrnfbAfICNnV2"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 220234,
       "name": "Segue o Baile",
       "url": "https://open.spotify.com/track/5vrT66H94IfI3DNaNqNUJk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOVEZY",
+        "url": "https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 162616,
+      "name": "LOVEZY",
+      "url": "https://open.spotify.com/track/2BHlvOVDfPYSbgpTf1a4XY"
     },
     {
       "added_at": null,
@@ -1283,22 +1283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVEZY",
-        "url": "https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 150266,
-      "name": "Ctrl Z",
-      "url": "https://open.spotify.com/track/6bCCjHiTv7b8DiaSu7ZhPp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eles N\u00e3o Ligam pra Gente",
         "url": "https://open.spotify.com/album/0BuyFqzcRGzwprTN399tYm"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 360000,
       "name": "Eles N\u00e3o Ligam pra Gente",
       "url": "https://open.spotify.com/track/1c6VpSBIBNrDjEZusw6s4u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOVEZY",
+        "url": "https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 150266,
+      "name": "Ctrl Z",
+      "url": "https://open.spotify.com/track/6bCCjHiTv7b8DiaSu7ZhPp"
     }
   ],
   "unique_name": "This Is Azzy",

@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 126853,
+  "num_followers": 126925,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,26 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "El Caballero Del Vallenato",
+        "url": "https://open.spotify.com/album/3qJ2kc4NkR6UBnbYUsyxeu"
+      },
+      "artists": [
+        {
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        },
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+        }
+      ],
+      "duration_ms": 247813,
+      "name": "Traga'o De Ti",
+      "url": "https://open.spotify.com/track/3xOKZR7rwQYEx7l5Mc9jQ6"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
       },
@@ -1019,22 +1039,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Presente y Futuro",
-        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 300346,
-      "name": "Nunca Niegues Que Te Amo",
-      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
         "url": "https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq"
       },
@@ -1051,22 +1055,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "El Caballero Del Vallenato",
-        "url": "https://open.spotify.com/album/3qJ2kc4NkR6UBnbYUsyxeu"
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
       },
       "artists": [
         {
-          "name": "Peter Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
-        },
-        {
-          "name": "Sergio Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 247813,
-      "name": "Traga'o De Ti",
-      "url": "https://open.spotify.com/track/3xOKZR7rwQYEx7l5Mc9jQ6"
+      "duration_ms": 300346,
+      "name": "Nunca Niegues Que Te Amo",
+      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
     },
     {
       "added_at": "2024-03-28 01:45:52",

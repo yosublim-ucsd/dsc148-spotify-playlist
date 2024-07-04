@@ -4,7 +4,7 @@
 
 > L'unica party playlist di cui hai bisogno, sempre aggiornata 🍾 Top hit italiane e internazionali!
 
-278 songs - 14 hr 32 min
+279 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 | 2023-03-22 | 2023-06-29 |
 | [All We Got \(feat\. KIDDO\) \- Ofenbach Remix](https://open.spotify.com/track/2rUsJXt4NeeDiIU6sBvrxo) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [All We Got \(feat\. KIDDO\) \[Ofenbach Remix\]](https://open.spotify.com/album/4ZnfL03JMiQpMpWZ7e6YXY) | 2:09 | 2022-05-03 | 2022-07-21 |
 | [Alone \(with Nicki Minaj\)](https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Alone](https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz) | 3:05 | 2023-05-03 | 2023-10-13 |
+| [Amore No \- Remix](https://open.spotify.com/track/4kS6IGvg5hpIljAjeBXyES) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Amore No \(Remix\)](https://open.spotify.com/album/7siFsVqJah96pV20WNfkvU) | 3:02 | 2024-07-03 |  |
 | [Another Chance](https://open.spotify.com/track/3e5o2U4bvViopkUEGNp1B7) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [First Contact](https://open.spotify.com/album/7riLHM6Jll2UvM1qBQ3ga4) | 7:32 | 2022-12-30 | 2023-01-06 |
 | [Another Love \- Tiësto Remix](https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Another Love \(Tiësto Remix\)](https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa) | 3:05 | 2022-12-09 |  |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-12-09 | 2023-07-13 |
@@ -184,7 +185,7 @@
 | [Mvinline](https://open.spotify.com/track/6bbx7nYlixYuElKMbYCzMm) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Mvinline](https://open.spotify.com/album/5FeNmn9ROaljE00OMnusjS) | 3:19 | 2022-12-30 | 2023-01-06 |
 | [Mwaki](https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki](https://open.spotify.com/album/4L43UqvSZKiiKwc1wa89Gz) | 3:28 | 2024-02-28 | 2024-05-03 |
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2024-05-02 |  |
-| [My Heart Goes \(La Di Da\)](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [My Heart Goes \(La Di Da\)](https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc) | 2:28 | 2022-05-03 |  |
+| [My Heart Goes \(La Di Da\)](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [My Heart Goes \(La Di Da\)](https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc) | 2:28 | 2022-05-03 | 2024-07-04 |
 | [Never Be Lonely](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Never Be Lonely](https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX) | 2:14 | 2024-05-02 |  |
 | [Never Going Home](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Never Going Home](https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA) | 2:49 | 2022-05-03 |  |
 | [No Stress](https://open.spotify.com/track/3LVxJTSgrUZyQpGadmoIrD) | [Laurent Wolf](https://open.spotify.com/artist/0U2M5hyVn2T78XKlRHJFcn) | [No Stress](https://open.spotify.com/album/6mrKW9RtuK94zUHHzMW5ng) | 3:21 | 2022-12-30 | 2023-01-06 |

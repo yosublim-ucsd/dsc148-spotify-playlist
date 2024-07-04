@@ -4454,7 +4454,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 219962,
       "name": "Caterpillar Dance",
       "url": "https://open.spotify.com/track/4HUfkOgHB7gt9FVe87B1mg"
@@ -6537,6 +6537,24 @@
     },
     {
       "album": {
+        "name": "Meridians",
+        "url": "https://open.spotify.com/album/6V1Z6tVTS1kMFeluuLtODy"
+      },
+      "artists": [
+        {
+          "name": "Fuubutsushi",
+          "url": "https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257226,
+      "name": "Distance Learner",
+      "url": "https://open.spotify.com/track/1itxInHZlUWYDrKk0HzFRC"
+    },
+    {
+      "album": {
         "name": "Universal Topics",
         "url": "https://open.spotify.com/album/34ypgxgGStEBk8WERZdgyO"
       },
@@ -8310,6 +8328,28 @@
       "duration_ms": 231000,
       "name": "far away",
       "url": "https://open.spotify.com/track/01rdAAQeUa1PQDD6YBoEY6"
+    },
+    {
+      "album": {
+        "name": "Far Star",
+        "url": "https://open.spotify.com/album/7KELBmiEXiTIke35DfwyJF"
+      },
+      "artists": [
+        {
+          "name": "Idan Balas",
+          "url": "https://open.spotify.com/artist/1x3qUkaEU4LFRrC9Fo5cen"
+        },
+        {
+          "name": "Dan Ben Lior",
+          "url": "https://open.spotify.com/artist/0P5zdDHopmWpKAo3r98V2u"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215007,
+      "name": "Far Star",
+      "url": "https://open.spotify.com/track/2QkrNsOHGsw9cVWkWYKHsy"
     },
     {
       "album": {
@@ -15070,7 +15110,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 192826,
       "name": "Marcovaldo",
       "url": "https://open.spotify.com/track/5Lom5Jdjtfe45AJZywRjNi"
@@ -26542,7 +26582,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 277106,
       "name": "Tropical Disco",
       "url": "https://open.spotify.com/track/3FbucvtW24qXXByZFO08u4"
@@ -28686,6 +28726,44 @@
       "duration_ms": 286733,
       "name": "wind sound",
       "url": "https://open.spotify.com/track/0aDMPHO749L7hLfkwSWjOV"
+    },
+    {
+      "album": {
+        "name": "Window Sill Song",
+        "url": "https://open.spotify.com/album/3BzeYCJBnoRRXeLwefBehS"
+      },
+      "artists": [
+        {
+          "name": "SML",
+          "url": "https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj"
+        },
+        {
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        },
+        {
+          "name": "Gregory Uhlmann",
+          "url": "https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S"
+        },
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        },
+        {
+          "name": "Booker Stardrum",
+          "url": "https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5"
+        },
+        {
+          "name": "Anna Butterss",
+          "url": "https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123186,
+      "name": "Window Sill Song",
+      "url": "https://open.spotify.com/track/1q5VaTlGL7OBkcYO0CNlAo"
     },
     {
       "album": {

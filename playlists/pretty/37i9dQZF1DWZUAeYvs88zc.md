@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 
 > For all of us dancing on our own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,616 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,637 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 52 | [Neon Moon \- with Kacey Musgraves](https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 4:38 |
 | 53 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 |
 | 54 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 |
-| 55 | [The Bottom](https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:00 |
-| 56 | [Different Lives](https://open.spotify.com/track/7e7JVMegy4WBMnzuZE9Srq) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Different Lives](https://open.spotify.com/album/2jnVMgIk877jRCQqJMuNfS) | 3:17 |
+| 55 | [Different Lives](https://open.spotify.com/track/7e7JVMegy4WBMnzuZE9Srq) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Different Lives](https://open.spotify.com/album/2jnVMgIk877jRCQqJMuNfS) | 3:17 |
+| 56 | [The Bottom](https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:00 |
 | 57 | [Telepath](https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Telepath](https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE) | 3:14 |
 | 58 | [Can't Do Better](https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Can't Do Better](https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc) | 3:08 |
 | 59 | [What If I Love You](https://open.spotify.com/track/4i4WsUvJEgB4V6AyONAJe8) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [What If I Love You](https://open.spotify.com/album/71cvc2lqbA7DL44y45Cf9s) | 2:38 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 65 | [Dancing On My Own](https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk Pt\. 1](https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn) | 4:45 |
 | 66 | [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 |
 | 67 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 |
-| 68 | [Stupid Feelings](https://open.spotify.com/track/7iUB3byx9Rcks8zW10JVkP) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Stupid Feelings](https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa) | 2:46 |
-| 69 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 |
+| 68 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 |
+| 69 | [Stupid Feelings](https://open.spotify.com/track/7iUB3byx9Rcks8zW10JVkP) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Stupid Feelings](https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa) | 2:46 |
 | 70 | [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 |
 | 71 | [Call Your Girlfriend](https://open.spotify.com/track/2sCoROOlNQyFpRQEe6A5lv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 3:47 |
 | 72 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 |

@@ -1312,7 +1312,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 204000,
       "name": "Brinca - Spotify Singles",
       "url": "https://open.spotify.com/track/1TPtornOIqa4PprEZp9LLB"
@@ -3632,7 +3632,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 279990,
       "name": "G Low Kitty - Remix",
       "url": "https://open.spotify.com/track/5J2pn2fzrIp7CT0IHLlgQ7"
@@ -3829,6 +3829,24 @@
     },
     {
       "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "album": {
         "name": "Got Me Started",
         "url": "https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26"
       },
@@ -3876,7 +3894,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 203021,
       "name": "Gotitas Saladas",
       "url": "https://open.spotify.com/track/5Sas859pm039G13F5wEuyK"
@@ -4646,7 +4664,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 258441,
       "name": "Kbron y Medio",
       "url": "https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0"

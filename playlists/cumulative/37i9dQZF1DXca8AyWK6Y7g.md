@@ -4,7 +4,7 @@
 
 > i tell them it's just your culture and everyone 🙄 📸 Sabrina Carpenter
 
-2,101 songs - 4 day 9 hr 41 min
+2,102 songs - 4 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1429,6 +1429,7 @@
 | [people don't change](https://open.spotify.com/track/4rjxIt48qyNnfrx9jc2q6r) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [people don't change](https://open.spotify.com/album/28SL67Dptmy8eOZGurIxRt) | 2:47 | 2021-12-03 | 2022-04-23 |
 | [Perfect For You](https://open.spotify.com/track/4BYKEjoZaJrw3qwCPhGpbP) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Perfect For You](https://open.spotify.com/album/1FCUqRoNBgaoLJFqbA13ir) | 2:58 | 2023-02-03 | 2023-04-23 |
 | [Perfect Revenge](https://open.spotify.com/track/7eh46uUIwMCTs0XoU3Xm42) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Perfect Revenge](https://open.spotify.com/album/5Fmcrqw6XJEVeZ0YQ08Wnz) | 2:53 | 2024-06-07 |  |
+| [Persona](https://open.spotify.com/track/73b1rZFO0vJSWZwTYhmCS4) | [Gabi Sklar](https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj) | [Persona](https://open.spotify.com/album/7aRO1Gd0fxAKGy4iD7dsmb) | 2:35 | 2024-06-28 |  |
 | [Personal Heaven](https://open.spotify.com/track/2NnUOg9dghRfOm7WB95qYF) | [Michael Medrano](https://open.spotify.com/artist/1m19wFvOFvPm15no62SlAD) | [Personal Heaven](https://open.spotify.com/album/1lSlCtrnrEgucgXsgFfY0j) | 3:04 | 2021-11-19 | 2022-01-29 |
 | [phoenix](https://open.spotify.com/track/0jcSQEXvXQba514O6oMeS2) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [phoenix](https://open.spotify.com/album/5BieDRKjT842fbfPZZRTt4) | 2:43 | 2020-05-04 | 2021-10-14 |
 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 | 2021-02-24 | 2022-05-03 |
@@ -1758,7 +1759,7 @@
 | [Sugar Water](https://open.spotify.com/track/3Iz4PDGaluy5xMzEKNlNTV) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Sugar Water](https://open.spotify.com/album/7KaeswQ7KASRrO7EkXEoV8) | 3:18 | 2022-01-21 | 2022-03-26 |
 | [Summer](https://open.spotify.com/track/7tsHqxfepei1AdLjy93XIv) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [Summer](https://open.spotify.com/album/6Qdb2YYRKzhKooyDC6lBLC) | 2:58 | 2019-05-26\* | 2020-04-18 |
 | [Summer](https://open.spotify.com/track/51xpZKrnRMlcmwWCv7jcfd) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Summer](https://open.spotify.com/album/2LbNDL18GTe9x3YDJNzHY9) | 4:02 | 2021-03-09 | 2021-11-20 |
-| [summer after senior year](https://open.spotify.com/track/4xjpWPuhcc42tsSDKaUrOY) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [summer after senior year](https://open.spotify.com/album/2LAokuNY7aRexlSjRADGju) | 2:25 | 2024-01-05 |  |
+| [summer after senior year](https://open.spotify.com/track/4xjpWPuhcc42tsSDKaUrOY) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [summer after senior year](https://open.spotify.com/album/2LAokuNY7aRexlSjRADGju) | 2:25 | 2024-01-05 | 2024-07-04 |
 | [Summer Fade \(feat\. Anna of the North\)](https://open.spotify.com/track/3UIGE2FXaUUcYWA31Og0XO) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Summer Fade \(feat\. Anna of the North\)](https://open.spotify.com/album/5bB44dDIsNlLs2vRUMsrWd) | 3:24 | 2019-09-06 | 2021-11-02 |
 | [Summer Is Over](https://open.spotify.com/track/3YceHgB0Uubgn5xVlfdkuC) | [Alec Wigdahl](https://open.spotify.com/artist/0Ml3qjFuEC9fZ7ix8BvfWt) | [Summer Is Over](https://open.spotify.com/album/6Ue6TROiKDlRgLREOiArPg) | 2:40 | 2020-08-11 | 2021-11-10 |
 | [Summer Luv \(feat\. Crystal Fighters\)](https://open.spotify.com/track/5YPfFN0EsuvOgisgC4tzBq) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Summer Luv \(feat\. Crystal Fighters\)](https://open.spotify.com/album/3b35FYaef5SDlDjPWliK0z) | 2:59 | 2019-08-17 | 2021-05-28 |

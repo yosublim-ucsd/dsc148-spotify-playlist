@@ -1,6 +1,6 @@
 {
   "description": "brutal breakdowns and riffs to amp you up.",
-  "num_followers": 381533,
+  "num_followers": 381926,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
@@ -975,26 +975,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
-        "url": "https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu"
+        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
+        "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
       },
       "artists": [
         {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
-        },
-        {
-          "name": "Eric Vanlerberghe",
-          "url": "https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2"
-        },
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 263161,
-      "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
-      "url": "https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN"
+      "duration_ms": 246209,
+      "name": "Lift Me Up (feat. Rob Halford of Judas Priest)",
+      "url": "https://open.spotify.com/track/1LHZMWefF9502NPfArRfvP"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1015,18 +1007,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
-        "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
+        "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
+        "url": "https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu"
       },
       "artists": [
         {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        },
+        {
+          "name": "Eric Vanlerberghe",
+          "url": "https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2"
+        },
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
         }
       ],
-      "duration_ms": 246209,
-      "name": "Lift Me Up (feat. Rob Halford of Judas Priest)",
-      "url": "https://open.spotify.com/track/1LHZMWefF9502NPfArRfvP"
+      "duration_ms": 263161,
+      "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
+      "url": "https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Fatalism",
-        "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
-      },
-      "artists": [
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
-        }
-      ],
-      "duration_ms": 268269,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Prophecy of Ragnar\u00f6k",
         "url": "https://open.spotify.com/album/3hkZ5FWUJ23YKAMotqbTm0"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 222373,
       "name": "Prophecy of Ragnar\u00f6k",
       "url": "https://open.spotify.com/track/4kpWVGdFjBSoCkIcHVlTqn"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Fatalism",
+        "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 268269,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Epitaph",
-        "url": "https://open.spotify.com/album/2xCkPvQQX7GcUiwIu495v9"
-      },
-      "artists": [
-        {
-          "name": "Make Them Suffer",
-          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
-        }
-      ],
-      "duration_ms": 217025,
-      "name": "Epitaph",
-      "url": "https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Sunset on the Golden Age",
         "url": "https://open.spotify.com/album/72D0zzcevLTiS9XSEJ1hg7"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 202586,
       "name": "Drink",
       "url": "https://open.spotify.com/track/0SPHbfBIe0mdRnae2MWuzr"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Epitaph",
+        "url": "https://open.spotify.com/album/2xCkPvQQX7GcUiwIu495v9"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "duration_ms": 217025,
+      "name": "Epitaph",
+      "url": "https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Doomswitch",
-        "url": "https://open.spotify.com/album/7J8x3vAHCvP4gKZUEdsLN4"
-      },
-      "artists": [
-        {
-          "name": "Make Them Suffer",
-          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
-        }
-      ],
-      "duration_ms": 275205,
-      "name": "Doomswitch",
-      "url": "https://open.spotify.com/track/6pUUtKVRmODliJWTyY2pet"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Rumble of Thunder (Deluxe)",
         "url": "https://open.spotify.com/album/1WmySyMyPGVPlCpKQGQaEp"
       },
@@ -1395,22 +1379,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Searching for Solace",
-        "url": "https://open.spotify.com/album/7BG35dblZK6ZijbcDjIRj8"
-      },
-      "artists": [
-        {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
-        }
-      ],
-      "duration_ms": 214710,
-      "name": "Wash It Away",
-      "url": "https://open.spotify.com/track/0sTCKil0qqD6PDco3M6iyn"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Brotherhood of the Snake",
         "url": "https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu"
       },
@@ -1423,6 +1391,22 @@
       "duration_ms": 253988,
       "name": "Brotherhood of the Snake",
       "url": "https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Searching for Solace",
+        "url": "https://open.spotify.com/album/7BG35dblZK6ZijbcDjIRj8"
+      },
+      "artists": [
+        {
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+        }
+      ],
+      "duration_ms": 214710,
+      "name": "Wash It Away",
+      "url": "https://open.spotify.com/track/0sTCKil0qqD6PDco3M6iyn"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "A Man with a Plan",
-        "url": "https://open.spotify.com/album/21oFR2AOxOiVXa99ZJCkhP"
+        "name": "Doomswitch",
+        "url": "https://open.spotify.com/album/7J8x3vAHCvP4gKZUEdsLN4"
       },
       "artists": [
         {
-          "name": "Korpiklaani",
-          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
         }
       ],
-      "duration_ms": 179820,
-      "name": "A Man with a Plan",
-      "url": "https://open.spotify.com/track/0QW8MW9NKqmhqnaVDtXXw9"
+      "duration_ms": 275205,
+      "name": "Doomswitch",
+      "url": "https://open.spotify.com/track/6pUUtKVRmODliJWTyY2pet"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1471,6 +1455,22 @@
       "duration_ms": 263786,
       "name": "Raise Your Horns",
       "url": "https://open.spotify.com/track/5gNyrx8elXaXXs3vFC1ufZ"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "A Man with a Plan",
+        "url": "https://open.spotify.com/album/21oFR2AOxOiVXa99ZJCkhP"
+      },
+      "artists": [
+        {
+          "name": "Korpiklaani",
+          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
+        }
+      ],
+      "duration_ms": 179820,
+      "name": "A Man with a Plan",
+      "url": "https://open.spotify.com/track/0QW8MW9NKqmhqnaVDtXXw9"
     },
     {
       "added_at": "2024-05-31 04:00:00",

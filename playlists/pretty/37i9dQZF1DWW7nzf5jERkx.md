@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7nzf5jERkx.md) - [plain]
 
 > me acuerdo del día que del dinero yo me enamoré 💸💰💸 con Eladio Carrion en la portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,565 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,629 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7nzf5jERkx.md) - [plain]
 | 43 | [PPP](https://open.spotify.com/track/3oB0bcIVRVZgCkWif0H4vV) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [KrING](https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x) | 2:09 |
 | 44 | [Otro Trago](https://open.spotify.com/track/1Ej96GIBCTvgH7tNX1r3qr) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:45 |
 | 45 | [Loca \- Remix](https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Loca Remix](https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ) | 5:46 |
-| 46 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 |
-| 47 | [Nicki Nicole: Bzrp Music Sessions, Vol\. 13](https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nicki Nicole: Bzrp Music Sessions, Vol\. 13](https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n) | 2:23 |
+| 46 | [Nicki Nicole: Bzrp Music Sessions, Vol\. 13](https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nicki Nicole: Bzrp Music Sessions, Vol\. 13](https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n) | 2:23 |
+| 47 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 |
 | 48 | [Bella](https://open.spotify.com/track/68sQIehHsGohLMgcP5nlND) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7) | [Bella](https://open.spotify.com/album/6dnN2EDH4Lf0uaFUZGNaAe) | 3:17 |
 | 49 | [Culpables](https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Culpables](https://open.spotify.com/album/0WmqKVGQgIYleOI8gtWP1w) | 3:46 |
 | 50 | [Goteo](https://open.spotify.com/track/1EoEU4HY57qaITp06TkC6B) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Goteo](https://open.spotify.com/album/6lfI4LBcu46SL3TzSw3rWg) | 2:44 |

@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Lourena, MC Hariel",
-  "num_followers": 289197,
+  "num_followers": 289196,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,26 @@
     {
       "added_at": "2024-06-21 12:18:46",
       "album": {
+        "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+        "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
+      },
+      "artists": [
+        {
+          "name": "Rafael Mike",
+          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
+        },
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+      "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
+    },
+    {
+      "added_at": "2024-06-21 12:18:46",
+      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": "2024-06-21 12:18:46",
-      "album": {
-        "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
-        "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
-      },
-      "artists": [
-        {
-          "name": "Rafael Mike",
-          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
-        },
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
-      "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
     },
     {
       "added_at": "2024-06-21 12:18:46",
@@ -1115,30 +1115,26 @@
     {
       "added_at": "2024-06-21 12:18:46",
       "album": {
-        "name": "Toda Mal\u00e9vola",
-        "url": "https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD"
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
       },
       "artists": [
         {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
         },
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         },
         {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "2050",
-          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+          "name": "Luan LDS",
+          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
         }
       ],
-      "duration_ms": 196691,
-      "name": "Toda Mal\u00e9vola",
-      "url": "https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK"
+      "duration_ms": 143448,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
     },
     {
       "added_at": "2024-06-21 12:18:46",
@@ -1163,26 +1159,30 @@
     {
       "added_at": "2024-06-21 12:18:46",
       "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
+        "name": "Toda Mal\u00e9vola",
+        "url": "https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD"
       },
       "artists": [
         {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         },
         {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         },
         {
-          "name": "Luan LDS",
-          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
         }
       ],
-      "duration_ms": 143448,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
+      "duration_ms": 196691,
+      "name": "Toda Mal\u00e9vola",
+      "url": "https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK"
     },
     {
       "added_at": "2024-06-21 12:18:46",

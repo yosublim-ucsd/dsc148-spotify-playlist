@@ -1,6 +1,6 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Joaquina en portada.",
-  "num_followers": 69391,
+  "num_followers": 69440,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "El Renacimiento",
+        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "M\u00e1s Muerto Que Vivo",
         "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 213221,
       "name": "M\u00e1s Muerto Que Vivo",
       "url": "https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "El Renacimiento",
-        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Respirar",
-        "url": "https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Respirar",
-      "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
         "url": "https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 226481,
       "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
       "url": "https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Respirar",
+        "url": "https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Respirar",
+      "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Tuvimos Futuro",
-        "url": "https://open.spotify.com/album/5wGMOvmT8bEK3royUlJP7k"
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
       },
       "artists": [
         {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 211030,
-      "name": "Tuvimos Futuro",
-      "url": "https://open.spotify.com/track/4FmMQKqxmexvW18a8lQn6j"
+      "duration_ms": 322013,
+      "name": "De todas las flores",
+      "url": "https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+        "name": "Tuvimos Futuro",
+        "url": "https://open.spotify.com/album/5wGMOvmT8bEK3royUlJP7k"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         }
       ],
-      "duration_ms": 322013,
-      "name": "De todas las flores",
-      "url": "https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU"
+      "duration_ms": 211030,
+      "name": "Tuvimos Futuro",
+      "url": "https://open.spotify.com/track/4FmMQKqxmexvW18a8lQn6j"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "LA FALTA QUE ME HACES",
-        "url": "https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT"
+        "name": "La Gata Bajo la Lluvia (Sesi\u00f3n Ac\u00fastica en Vivo)",
+        "url": "https://open.spotify.com/album/4mmdaqmKgI4mdCGdim1l7T"
       },
       "artists": [
         {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
         }
       ],
-      "duration_ms": 180250,
-      "name": "LA FALTA QUE ME HACES",
-      "url": "https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl"
+      "duration_ms": 248896,
+      "name": "La Gata Bajo la Lluvia - Sesi\u00f3n Ac\u00fastica en Vivo",
+      "url": "https://open.spotify.com/track/7cdVE8GcD1IWxO5dkBJUvq"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "La Gata Bajo la Lluvia (Sesi\u00f3n Ac\u00fastica en Vivo)",
-        "url": "https://open.spotify.com/album/4mmdaqmKgI4mdCGdim1l7T"
+        "name": "LA FALTA QUE ME HACES",
+        "url": "https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT"
       },
       "artists": [
         {
-          "name": "Chucho Rivas",
-          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         }
       ],
-      "duration_ms": 248896,
-      "name": "La Gata Bajo la Lluvia - Sesi\u00f3n Ac\u00fastica en Vivo",
-      "url": "https://open.spotify.com/track/7cdVE8GcD1IWxO5dkBJUvq"
+      "duration_ms": 180250,
+      "name": "LA FALTA QUE ME HACES",
+      "url": "https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl"
     },
     {
       "added_at": "2024-06-07 06:00:00",

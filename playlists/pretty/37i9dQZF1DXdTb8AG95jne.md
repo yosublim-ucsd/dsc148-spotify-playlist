@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: The Volunteers\(더 발룬티어스\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: LEE SEUNG YOON\(이승윤\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,196 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,392 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Late Night Walk](https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.6 \[Late Night Walk\]](https://open.spotify.com/album/5IP9ctHpvSgG0YmR2Y5rAg) | 3:54 |
+| 1 | [POKZOOK TIME](https://open.spotify.com/track/7ok3LoeV3VwL4PKU24bMpv) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PRE\-RELEASE 3RD ALBUM \[YEOK SEONG\]](https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR) | 3:18 |
 | 2 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 |
 | 3 | [Envy None](https://open.spotify.com/track/196vwD0wtg7XVC1j1Hn1jk) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Levitation](https://open.spotify.com/album/0Ltp40tI7gWvTdYctwlvTB) | 3:34 |
 | 4 | ["L"](https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:20 |
-| 5 | [Shelter Of Dreams](https://open.spotify.com/track/2DauGSCkwdgts3sUkuQu30) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Shelter Of Dreams](https://open.spotify.com/album/7nYp9JSCBmrEN30yjXI5rJ) | 4:32 |
+| 5 | [Late Night Walk](https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.6 \[Late Night Walk\]](https://open.spotify.com/album/5IP9ctHpvSgG0YmR2Y5rAg) | 3:54 |
 | 6 | [H O M E](https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:51 |
 | 7 | [A Letter](https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [A Letter](https://open.spotify.com/album/5XOHCaEeZyiKWDMZ3h2zbZ) | 3:35 |
 | 8 | [So life goes on](https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [So life goes on](https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36) | 3:14 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 43 | [Let's Meet In Spring](https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Again, Spring Days](https://open.spotify.com/album/2PnFurbn4SKEMu9OUk2VUL) | 3:46 |
 | 44 | [명동콜링](https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [더 팬 2ROUND Part.1](https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV) | 3:56 |
 | 45 | [BAPPI](https://open.spotify.com/track/6Xshz1Cjgiux8HfEuJZHSk) | [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [BAPPI](https://open.spotify.com/album/2wpbc5EulkN3tyeBLhYAIG) | 2:54 |
-| 46 | [My Dear Love](https://open.spotify.com/track/0snDWpIDSGNZwVSzhheVAG) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Memoirs](https://open.spotify.com/album/58jJ1RTac6YEWx9xyJZjB0) | 4:14 |
-| 47 | [It's been a while](https://open.spotify.com/track/04SHCnVGwukIiqBQX1KCSH) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [It's been a while](https://open.spotify.com/album/3N7m8jfIAsOu3gBFuve1q6) | 4:54 |
+| 46 | [Starfish on your head](https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 3:12 |
+| 47 | [My Dear Love](https://open.spotify.com/track/0snDWpIDSGNZwVSzhheVAG) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Memoirs](https://open.spotify.com/album/58jJ1RTac6YEWx9xyJZjB0) | 4:14 |
 | 48 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 |
-| 49 | [Starfish on your head](https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 3:12 |
+| 49 | [It's been a while](https://open.spotify.com/track/04SHCnVGwukIiqBQX1KCSH) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [It's been a while](https://open.spotify.com/album/3N7m8jfIAsOu3gBFuve1q6) | 4:54 |
 | 50 | [ringringring](https://open.spotify.com/track/18jycfEb8t7gDaELRiVNac) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [ringringring](https://open.spotify.com/album/2gw8fYdm5Sxc1NCntLC7EH) | 3:47 |
 
-Snapshot ID: `ZoSjkAAAAAADCDgY1qA2eLJaYPiNLxr4`
+Snapshot ID: `ZoUVUAAAAABxpOTKqX6D/ijH3gWU39X3`

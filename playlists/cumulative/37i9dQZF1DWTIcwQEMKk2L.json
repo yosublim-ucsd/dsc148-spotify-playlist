@@ -1083,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "The Sacred Self",
+        "url": "https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm"
+      },
+      "artists": [
+        {
+          "name": "Louise Lennehan",
+          "url": "https://open.spotify.com/artist/3qDXOw6W1ocOSAJQoE4TPW"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188453,
+      "name": "Inner Child",
+      "url": "https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5"
+    },
+    {
+      "album": {
         "name": "Interconnectivity",
         "url": "https://open.spotify.com/album/2H9GYEUqMHM950rBnSgZkY"
       },
@@ -2406,7 +2424,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 169500,
       "name": "Valerian",
       "url": "https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I"

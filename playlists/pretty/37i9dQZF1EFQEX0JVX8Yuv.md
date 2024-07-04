@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6z0YyO7RUp5t7ZwkGKApUK">Kim Petras</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,421 likes - 108 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,421 likes - 109 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 | 66 | [Another One](https://open.spotify.com/track/6k63UfdOYsPWgwojWyKfwv) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:45 |
 | 67 | [If U Think About Me...](https://open.spotify.com/track/6pwrfyE8LaSt00cLqi73Lk) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [If U Think About Me...](https://open.spotify.com/album/0YkSm5O5wQyQJnSvE7Z7tc) | 3:28 |
 | 68 | [Head Head Honcho](https://open.spotify.com/track/0rW8JS6v94ggHMBiAI2PNf) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 3:01 |
-| 69 | [BAIT \(with BANKS\)](https://open.spotify.com/track/3XgpYw4TPKiml7WcjQ9vYr) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:35 |
-| 70 | [Gag On It](https://open.spotify.com/track/1NIIHg8jXOq095MQiLxXzC) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 1:39 |
+| 69 | [Gag On It](https://open.spotify.com/track/1NIIHg8jXOq095MQiLxXzC) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 1:39 |
+| 70 | [BAIT \(with BANKS\)](https://open.spotify.com/track/3XgpYw4TPKiml7WcjQ9vYr) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:35 |
 | 71 | [Everybody Dies](https://open.spotify.com/track/3y8XT7OLZNymJtGpLPxODX) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 3:24 |
 | 72 | [Treat Me Like A Ho](https://open.spotify.com/track/5b67O08sN2itkQPsNmafPx) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 1:55 |
 | 73 | [Meet The Parents](https://open.spotify.com/track/5TRGZn00mAtbF81vlcW6Ns) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 2:12 |
@@ -103,18 +103,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 | 93 | [Whale Cock](https://open.spotify.com/track/1lUPmRjVixFPr0pZWrtFKW) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 1:50 |
 | 94 | [Can we fuck?](https://open.spotify.com/track/3do6YOHahiNjLqBTYigHtT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 1:53 |
 | 95 | [Homework](https://open.spotify.com/track/3mT2zjpmY93zIytDunMHGD) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [Homework](https://open.spotify.com/album/53LoeznV15jYWxfZFF1CME) | 4:18 |
-| 96 | [ANYMORE](https://open.spotify.com/track/0zkHabeUZsqXfDX7TzLN0Y) | [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Rock$tar Famou$](https://open.spotify.com/album/2EPksB7E0Je8yBixm5Cutu) | 2:18 |
-| 97 | [Cubana](https://open.spotify.com/track/2mIXMWVw4o46Q4IpQ8H0b7) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 1:41 |
-| 98 | [Dirty Things](https://open.spotify.com/track/0Xu2GNIUPIGoIcIyBXmBRy) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 3:35 |
-| 99 | [Confession](https://open.spotify.com/track/0woIwxBLRnevciyEeCk3Av) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 2:51 |
-| 100 | [Deeper](https://open.spotify.com/track/1gL6hgpNACDSXQbuLrYySn) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 2:56 |
-| 101 | [Something About U](https://open.spotify.com/track/0tjcprSHFM5YRuOUXVXtNT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 3:01 |
-| 102 | [Love Ya Leave Ya](https://open.spotify.com/track/0wxoMdXupqx7khTzmOB0Uh) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 2:26 |
-| 103 | [Heartbeat \- Original Mix](https://open.spotify.com/track/7IxdBPYV0foP6Hr0tpQMAH) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Heartbeat](https://open.spotify.com/album/5kKROk68SN3T8L2VAzsjXq) | 6:04 |
-| 104 | [Chameleon](https://open.spotify.com/track/3OlielSZQ91C6OYSOx6Uvl) | [Rome Will Burn](https://open.spotify.com/artist/4PyHHTsXyvS7RdZDZ9fi3u) | [Rome Will Burn](https://open.spotify.com/album/3UC5ElZHlLhAQSJpoNGiOH) | 3:07 |
-| 105 | [BTR 2GTHR](https://open.spotify.com/track/07si5E6G70Th983QqoxVYy) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [Planet Y2K](https://open.spotify.com/album/6X3Glpjp9e2zbvPfqipFOj) | 2:58 |
-| 106 | [Flight to Paris](https://open.spotify.com/track/3TxgHmuQhR6KIw70GllvOM) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Flight To Paris](https://open.spotify.com/album/69R61npQJZiMr8GrDO2I8w) | 6:04 |
-| 107 | [That's What's Up](https://open.spotify.com/track/1hGKDzYbd9lHbhD50y0nnj) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [This Is Me \(Signature Edition\)](https://open.spotify.com/album/6wDQvIx1HJYBX8IBRGysOR) | 2:59 |
-| 108 | [Eintausend Teile](https://open.spotify.com/track/1tvEuaJGDFnERVynxzuRp6) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Eintausend Teile](https://open.spotify.com/album/7Itq48oKL1MTHG2hLud7bc) | 2:23 |
+| 96 | [Reason Why \(feat\. Kim Petras & BC Kingdom\)](https://open.spotify.com/track/5PmpmP9Z7lxKhriEoafUNr) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [Reason Why \(feat\. Kim Petras & BC Kingdom\)](https://open.spotify.com/album/5elJWlKT79phbaxMD20WWm) | 3:52 |
+| 97 | [ANYMORE](https://open.spotify.com/track/0zkHabeUZsqXfDX7TzLN0Y) | [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Rock$tar Famou$](https://open.spotify.com/album/2EPksB7E0Je8yBixm5Cutu) | 2:18 |
+| 98 | [Cubana](https://open.spotify.com/track/2mIXMWVw4o46Q4IpQ8H0b7) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 1:41 |
+| 99 | [Dirty Things](https://open.spotify.com/track/0Xu2GNIUPIGoIcIyBXmBRy) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 3:35 |
+| 100 | [Confession](https://open.spotify.com/track/0woIwxBLRnevciyEeCk3Av) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 2:51 |
+| 101 | [Deeper](https://open.spotify.com/track/1gL6hgpNACDSXQbuLrYySn) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 2:56 |
+| 102 | [Something About U](https://open.spotify.com/track/0tjcprSHFM5YRuOUXVXtNT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 3:01 |
+| 103 | [Love Ya Leave Ya](https://open.spotify.com/track/0wxoMdXupqx7khTzmOB0Uh) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 2:26 |
+| 104 | [Heartbeat \- Original Mix](https://open.spotify.com/track/7IxdBPYV0foP6Hr0tpQMAH) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Heartbeat](https://open.spotify.com/album/5kKROk68SN3T8L2VAzsjXq) | 6:04 |
+| 105 | [Chameleon](https://open.spotify.com/track/3OlielSZQ91C6OYSOx6Uvl) | [Rome Will Burn](https://open.spotify.com/artist/4PyHHTsXyvS7RdZDZ9fi3u) | [Rome Will Burn](https://open.spotify.com/album/3UC5ElZHlLhAQSJpoNGiOH) | 3:07 |
+| 106 | [BTR 2GTHR](https://open.spotify.com/track/07si5E6G70Th983QqoxVYy) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [Planet Y2K](https://open.spotify.com/album/6X3Glpjp9e2zbvPfqipFOj) | 2:58 |
+| 107 | [Flight to Paris](https://open.spotify.com/track/3TxgHmuQhR6KIw70GllvOM) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Flight To Paris](https://open.spotify.com/album/69R61npQJZiMr8GrDO2I8w) | 6:04 |
+| 108 | [That's What's Up](https://open.spotify.com/track/1hGKDzYbd9lHbhD50y0nnj) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [This Is Me \(Signature Edition\)](https://open.spotify.com/album/6wDQvIx1HJYBX8IBRGysOR) | 2:59 |
+| 109 | [Eintausend Teile](https://open.spotify.com/track/1tvEuaJGDFnERVynxzuRp6) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Eintausend Teile](https://open.spotify.com/album/7Itq48oKL1MTHG2hLud7bc) | 2:23 |
 
-Snapshot ID: `AbVpngAAAADdYT2u36Ptvm+zfetRJkIQ`
+Snapshot ID: `AbVvAgAAAAD9OX7HH6ZfrShkVqsUwicw`

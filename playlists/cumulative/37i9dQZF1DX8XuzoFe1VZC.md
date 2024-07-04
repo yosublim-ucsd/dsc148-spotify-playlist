@@ -4,7 +4,7 @@
 
 > ¡Una inyección de alegría para tus mañanas!
 
-310 songs - 15 hr 49 min
+311 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [12x3](https://open.spotify.com/track/1k94CNfVliqDs0qYhkG8iV) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 2:39 | 2023-09-27 | 2024-04-19 |
 | [12x3](https://open.spotify.com/track/5LHY5MPg9gXJwXrClz9aOx) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/147xADbDjtokOLVyNfg6Pp) | 2:39 | 2023-08-11 | 2023-09-02 |
 | [1Amor](https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:32 | 2023-09-01 | 2023-11-22 |
+| [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 | 2024-07-03 |  |
 | [5 Estrellas](https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [5 Estrellas](https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF) | 3:11 | 2023-03-31 | 2023-12-07 |
 | [506](https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [506](https://open.spotify.com/album/38coX6excq4obQR4Z7sww7) | 3:00 | 2023-03-31 | 2023-06-17 |
 | [69](https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [69](https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2) | 3:41 | 2023-05-19 | 2024-02-18 |
@@ -66,7 +67,7 @@
 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 | 2023-06-22 |  |
 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 | 2023-04-14 | 2023-12-07 |
 | [Cuando Tus Ojos Me Ven](https://open.spotify.com/track/6IoFhWzXm4vMs7YaKrzR2Y) | [uni](https://open.spotify.com/artist/6jeR6yw4TRocXdVOj603mW) | [Cuando Tus Ojos Me Ven](https://open.spotify.com/album/6lfXpaBMaT6JMBqFXOeAoR) | 2:58 | 2024-03-22 | 2024-03-30 |
-| [Cupido](https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13) | 2:54 | 2023-03-31 |  |
+| [Cupido](https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13) | 2:54 | 2023-03-31 | 2024-07-04 |
 | [Daily](https://open.spotify.com/track/75EUTWAAgjjKbhA4nMdeZj) | [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33) | [Daily](https://open.spotify.com/album/78cwnzEZHkGh1i0YNLefLX) | 2:46 | 2024-05-17 | 2024-06-01 |
 | [Dama](https://open.spotify.com/track/2LRlONnL2PJxCMumJ4dzHZ) | [joelle](https://open.spotify.com/artist/3PDji1lPMrS6awaEbXwa45) | [Dama](https://open.spotify.com/album/0Km5dQHnEQTITFHFlcChHB) | 2:45 | 2023-09-01 | 2023-09-28 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-26 | 2023-10-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,660,244 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,661,726 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 45 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
 | 46 | [I Wish](https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [I Wish](https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA) | 4:09 |
 | 47 | [Gangsta Nation](https://open.spotify.com/track/65iyI1iybyv5ecsfBHSdUf) | [Westside Connection](https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt) | [Terrorist Threats](https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB) | 4:53 |
-| 48 | [What You Want \(feat\. Total\)](https://open.spotify.com/track/6hxn98poTu1O4YZfafvC18) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Harlem World](https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy) | 4:02 |
-| 49 | [Mass Appeal](https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Hard To Earn](https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7) | 3:41 |
+| 48 | [Mass Appeal](https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Hard To Earn](https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7) | 3:41 |
+| 49 | [What You Want \(feat\. Total\)](https://open.spotify.com/track/6hxn98poTu1O4YZfafvC18) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Harlem World](https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy) | 4:02 |
 | 50 | [Wu\-Tang Clan Ain't Nuthing ta F' Wit](https://open.spotify.com/track/24vNw0Z0srb4zYXwrakw8E) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 3:36 |
 | 51 | [Let Me Ride](https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:20 |
 | 52 | [Hell on Earth \(Front Lines\)](https://open.spotify.com/track/1RjU7UhRICmdFPKxCucLgq) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 4:34 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 65 | [Get Me Home](https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 3:49 |
 | 66 | [Rebirth Of Slick \(Cool Like Dat\)](https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Reachin' \(A New Refutation Of Time And Space\)](https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP) | 4:21 |
 | 67 | [I'll Be There For You/You're All I Need To Get By \- Puff Daddy Mix](https://open.spotify.com/track/6C3yPXYG2NJYlIYVe5J7hv) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Tical \(Deluxe Edition\)](https://open.spotify.com/album/7DyAbrlPQTi2v6DAmgC8Qa) | 5:09 |
-| 68 | [Gettin' It \(feat\. Parliament Funkadelic\)](https://open.spotify.com/track/5K5dQsYdSdo2LKdepxbYAd) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [Parliament Funkadelic](https://open.spotify.com/artist/6XswoC68grx55in1WQnJ7E) | [Gettin' It \(Album Number Ten\)](https://open.spotify.com/album/27q3JlNTwpv5Zvf7yDReHH) | 5:41 |
-| 69 | [Halftime](https://open.spotify.com/track/2PRsh2LNPxoxC9OnErnelg) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:20 |
+| 68 | [Halftime](https://open.spotify.com/track/2PRsh2LNPxoxC9OnErnelg) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:20 |
+| 69 | [Gettin' It \(feat\. Parliament Funkadelic\)](https://open.spotify.com/track/5K5dQsYdSdo2LKdepxbYAd) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [Parliament Funkadelic](https://open.spotify.com/artist/6XswoC68grx55in1WQnJ7E) | [Gettin' It \(Album Number Ten\)](https://open.spotify.com/album/27q3JlNTwpv5Zvf7yDReHH) | 5:41 |
 | 70 | [Can I Get A...](https://open.spotify.com/track/4LGMSdeKOUoy5Wf75Je0Hl) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Amil](https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6) | [Vol.2..\. Hard Knock Life](https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb) | 5:09 |
 | 71 | [Player's Ball](https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 4:21 |
 | 72 | [Invocation](https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [One Day It'll All Make Sense](https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE) | 2:14 |

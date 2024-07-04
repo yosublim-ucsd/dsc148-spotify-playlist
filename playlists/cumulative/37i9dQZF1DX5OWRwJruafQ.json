@@ -1465,6 +1465,32 @@
     },
     {
       "album": {
+        "name": "Car Culture",
+        "url": "https://open.spotify.com/album/2nxSwRZXkA8kU9DVhAZtps"
+      },
+      "artists": [
+        {
+          "name": "Laddi Chahal",
+          "url": "https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p"
+        },
+        {
+          "name": "Parmish Verma",
+          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209683,
+      "name": "Car Culture",
+      "url": "https://open.spotify.com/track/11FoY6Yj3iknqKuky8yv46"
+    },
+    {
+      "album": {
         "name": "Case",
         "url": "https://open.spotify.com/album/3U4DrXSmQRhFQGU7NYvaBs"
       },
@@ -4386,7 +4412,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 151218,
       "name": "Jawani",
       "url": "https://open.spotify.com/track/1WOz8NwADXFxRADQFVftxp"
@@ -6607,6 +6633,28 @@
     },
     {
       "album": {
+        "name": "PMCM",
+        "url": "https://open.spotify.com/album/370ByUPt1uNGn2erT5vYdd"
+      },
+      "artists": [
+        {
+          "name": "R Nait",
+          "url": "https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON"
+        },
+        {
+          "name": "Mad Mix",
+          "url": "https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178299,
+      "name": "PMCM",
+      "url": "https://open.spotify.com/track/120E9faVdT9sp4t8QIGZoo"
+    },
+    {
+      "album": {
         "name": "PO",
         "url": "https://open.spotify.com/album/3dDTeOeKChpAltxDRciLXD"
       },
@@ -7078,7 +7126,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 134000,
       "name": "SAY MY NAME",
       "url": "https://open.spotify.com/track/6d6lFgeH3QFgH2r7rOL1Ug"

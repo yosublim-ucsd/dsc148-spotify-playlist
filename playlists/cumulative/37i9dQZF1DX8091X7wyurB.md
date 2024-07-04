@@ -4,7 +4,7 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-366 songs - 1 day 10 hr 31 min
+367 songs - 1 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Pain To Praise](https://open.spotify.com/track/2W1o9Q1zRVlPz1GYzGLXKM) | [Nsikan Louis](https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B) | [Pain To Praise](https://open.spotify.com/album/7A5B9Z5YL8mhRxglK0rljH) | 3:45 | 2024-02-02 | 2024-03-13 |
 | [Peace of Mind](https://open.spotify.com/track/096IkFflGf4BsKhIgSNBYz) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Peace of Mind](https://open.spotify.com/album/3jc3sH2Yyoxh8usQ1MchUZ) | 3:00 | 2024-04-19 | 2024-05-03 |
 | [Peace, Be Still](https://open.spotify.com/track/3Jf9bVFXxoEK0jcDOfSsMk) | [DappyTKeys](https://open.spotify.com/artist/6QHA0Ju1zeevkCUGlFG04w) | [Peace, Be Still](https://open.spotify.com/album/1Q6eo7PE5OVIYGE9ViXiXQ) | 2:43 | 2023-05-12 | 2023-06-17 |
+| [POUR MON BIEN](https://open.spotify.com/track/6PXXR93xNIYfMNuJ7uHwGz) | [Fredline Tranchant](https://open.spotify.com/artist/6WC1N4VunFwMPSvu6Av7F2), [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [POUR MON BIEN](https://open.spotify.com/album/3S60p3ZfGc4YGG0hwtRzgO) | 2:16 | 2024-07-03 |  |
 | [Power](https://open.spotify.com/track/1gt1miK4EskoPfMppc5pNt) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Power](https://open.spotify.com/album/1YtO5NUhasMNMJW6tiwJqY) | 3:17 | 2022-06-30 | 2023-10-21 |
 | [Praise \(feat\. Brandon Lake, Chris Brown & Chandler Moore\)](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:04 | 2023-06-30 |  |
 | [Praise Break \(Episode1\)](https://open.spotify.com/track/7FgTiCDEwiRNrjvHLPEiyS) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Praise Break \(Episode1\)](https://open.spotify.com/album/4vwkhKqXqu0333OwbnkxkJ) | 18:36 | 2022-06-30 | 2023-04-07 |
@@ -291,7 +292,7 @@
 | [Show Dem](https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc) | [Paul Chisom](https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV), [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Show Dem](https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD) | 3:26 | 2022-10-21 | 2023-01-20 |
 | [Shower Me](https://open.spotify.com/track/2I7O3n0IyrWewz96OSXzs6) | [Sam Oladotun](https://open.spotify.com/artist/5Ai5qD3eCMMJU7GAzZ277c) | [Shower Me](https://open.spotify.com/album/37SvA5fQ9ltthsyNThSHwe) | 3:31 | 2022-06-30 | 2023-03-08 |
 | [Simple Matter](https://open.spotify.com/track/19TiECi9uhu3vRj2XAQrq5) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH) | [Strike The Ground](https://open.spotify.com/album/2EZnBhenVIfsfTjhhrbWjs) | 5:17 | 2023-12-15 | 2024-05-11 |
-| [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 | 2023-06-02 |  |
+| [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 | 2023-06-02 | 2024-07-04 |
 | [Speak to My Heart](https://open.spotify.com/track/3nAwU0F5Tb3wdeSa2mAMe5) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Donnie McClurkin](https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn) | 5:22 | 2023-12-05 | 2023-12-10 |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2023-06-23 |  |
 | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 | 2022-06-30 | 2023-04-28 |

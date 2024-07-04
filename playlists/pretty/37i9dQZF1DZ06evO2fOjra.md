@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 
 > This is Korn\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,297 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,508 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 | 40 | [Divine](https://open.spotify.com/track/6Ot1jvIoVPAuGRKY8Qxue8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 2:50 |
 | 41 | [Let's Get This Party Started](https://open.spotify.com/track/4X1XkTFjhpsWOC94lMNNEc) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 3:41 |
 | 42 | [Black Is the Soul](https://open.spotify.com/track/1wYXIhJXqlIAGS6sbzpTL6) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 4:01 |
-| 43 | [Start The Healing](https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:28 |
-| 44 | [Chi](https://open.spotify.com/track/5cLttQXyVI07tUKCN8T4OD) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 3:55 |
+| 43 | [Chi](https://open.spotify.com/track/5cLttQXyVI07tUKCN8T4OD) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 3:55 |
+| 44 | [Start The Healing](https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:28 |
 | 45 | [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 |
 | 46 | [Another Brick in the Wall, Pt\. 1, 2, 3 \- Pink Floyd Cover](https://open.spotify.com/track/39SHjPPvNVW2H9rSsGGOPD) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/7aC5SxTBOl3FNl3pdqZV4T) | 7:07 |
 | 47 | [Prey for Me](https://open.spotify.com/track/1XlGDlukA1wO9SG4gCcHjh) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Paradigm Shift](https://open.spotify.com/album/3t7K6sSe7KlcwvlhiNbnRo) | 3:35 |
-| 48 | [Lowrider](https://open.spotify.com/track/4YJbZeAFY6D5p6izb51dK0) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 0:57 |
-| 49 | [Forgotten](https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:17 |
+| 48 | [Forgotten](https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:17 |
+| 49 | [Lowrider](https://open.spotify.com/track/4YJbZeAFY6D5p6izb51dK0) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 0:57 |
 | 50 | [Take Me](https://open.spotify.com/track/3cdaqIaPz4QMr8lTu4PYrv) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 3:00 |
 
-Snapshot ID: `ZoHxgAAAAAA8b4SEWVOiwVFpEUal9Om7`
+Snapshot ID: `ZoNDAAAAAAAw27dleY7wJaxZEtTtr4uh`

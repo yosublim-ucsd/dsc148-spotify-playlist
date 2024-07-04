@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 
 > Cherish the day with these low\-key favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,864 likes - 82 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,915 likes - 82 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 24 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 |
 | 25 | [Love And Happiness](https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S.: Save Our Soul](https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu) | 4:38 |
 | 26 | [Every Time I Hear That Song](https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:01 |
-| 27 | [To Live a Life](https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 3:12 |
-| 28 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 |
+| 27 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 |
+| 28 | [To Live a Life](https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 3:12 |
 | 29 | [Always Be My Baby \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Spotify Singles](https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie) | 4:14 |
 | 30 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 |
 | 31 | [angel](https://open.spotify.com/track/1fr6WZfau4vNzDFfHYSJVT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:19 |
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 37 | [Runaway Horses \(feat\. Phoebe Bridgers\) \- Abridged](https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pressure Machine \(Abridged\)](https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB) | 3:24 |
 | 38 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
 | 39 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
-| 40 | [Lost On You](https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Lost On You](https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY) | 3:15 |
-| 41 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
-| 42 | [Rubber](https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Rubber](https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV) | 3:18 |
-| 43 | [Beat of My Heart](https://open.spotify.com/track/44fTa1co7zmof732liprRg) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [Tides](https://open.spotify.com/album/0Bf1RY3TNvIrvsKlTZYJjk) | 3:35 |
-| 44 | [Full Circle](https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:54 |
+| 40 | [Full Circle](https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:54 |
+| 41 | [Lost On You](https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Lost On You](https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY) | 3:15 |
+| 42 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
+| 43 | [Rubber](https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Rubber](https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV) | 3:18 |
+| 44 | [Beat of My Heart](https://open.spotify.com/track/44fTa1co7zmof732liprRg) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [Tides](https://open.spotify.com/album/0Bf1RY3TNvIrvsKlTZYJjk) | 3:35 |
 | 45 | [Moon in the Morning](https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:14 |
 | 46 | [If I Didn’t Love You](https://open.spotify.com/track/3zQu8poEmXrOYEeju3ohuJ) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 4:06 |
 | 47 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 53 | [Cheap Date](https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Starfire](https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB) | 3:10 |
 | 54 | [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 |
 | 55 | [Adeline](https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Adeline](https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1) | 3:08 |
-| 56 | [Seeing Other People](https://open.spotify.com/track/6P82NfCXl3lLcUNSYEmq1u) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Without People](https://open.spotify.com/album/51tp0W2tRU0IfrNpemM9ra) | 3:06 |
-| 57 | [Fool For Waiting](https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Fool For Waiting](https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl) | 4:03 |
+| 56 | [Fool For Waiting](https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Fool For Waiting](https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl) | 4:03 |
+| 57 | [Seeing Other People](https://open.spotify.com/track/6P82NfCXl3lLcUNSYEmq1u) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Without People](https://open.spotify.com/album/51tp0W2tRU0IfrNpemM9ra) | 3:06 |
 | 58 | [It Wasn't Enough](https://open.spotify.com/track/2RbS3JyHde84ytV36H884Q) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP) | [It Wasn't Enough](https://open.spotify.com/album/2uYM8TunmJhRP1U3ULUgXv) | 4:25 |
 | 59 | [We Were Young](https://open.spotify.com/track/76zINUrMkJR2DRufWj7S9u) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [We Were Young](https://open.spotify.com/album/1kL8jd0kT5v75FP5pm0MQg) | 4:53 |
 | 60 | [Never Break](https://open.spotify.com/track/3usBViVaNvJsFkFxUpOxCP) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Never Break EP](https://open.spotify.com/album/1tdRdrWNCNpLtjpel7rjZG) | 2:35 |

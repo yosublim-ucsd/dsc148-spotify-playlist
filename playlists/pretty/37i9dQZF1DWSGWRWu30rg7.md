@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  JordyRiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,530 likes - 74 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,535 likes - 74 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

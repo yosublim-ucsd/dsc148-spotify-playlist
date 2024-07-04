@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 6034,
+  "num_followers": 6038,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAAJWKewivmTlJ/VvkifVtjz",
+  "snapshot_id": "ZoNDAAAAAABb3HG8SQVhsMfsoOXI8IUU",
   "tracks": [
     {
       "added_at": null,
@@ -412,7 +412,7 @@
       "added_at": null,
       "album": {
         "name": "El Tirador",
-        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
+        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 156906,
-      "name": "El De La Quebradita",
-      "url": "https://open.spotify.com/track/6ZvKl3qwFwAapikQg0H2bm"
+      "duration_ms": 168000,
+      "name": "Me Esta Esperando Mar\u00eda",
+      "url": "https://open.spotify.com/track/2J6kuEZixaichCGIGn8lgz"
     },
     {
       "added_at": null,
@@ -480,7 +480,7 @@
       "added_at": null,
       "album": {
         "name": "El Tirador",
-        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
+        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Me Esta Esperando Mar\u00eda",
-      "url": "https://open.spotify.com/track/2J6kuEZixaichCGIGn8lgz"
+      "duration_ms": 156906,
+      "name": "El De La Quebradita",
+      "url": "https://open.spotify.com/track/6ZvKl3qwFwAapikQg0H2bm"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 173000,
-      "name": "El Jaripeo",
-      "url": "https://open.spotify.com/track/6G1a8yaZabFLVI1LNA5WHz"
+      "duration_ms": 155000,
+      "name": "El Mero Mero",
+      "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 155000,
-      "name": "El Mero Mero",
-      "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
+      "duration_ms": 173000,
+      "name": "El Jaripeo",
+      "url": "https://open.spotify.com/track/6G1a8yaZabFLVI1LNA5WHz"
     },
     {
       "added_at": null,

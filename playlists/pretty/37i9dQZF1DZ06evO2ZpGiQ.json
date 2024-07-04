@@ -1,12 +1,12 @@
 {
-  "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 427619,
+  "description": "This Is Lil Wayne. Los temas esenciales, todos en una lista.",
+  "num_followers": 427821,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAAZBIdvhEt3AR31YQ0LMjIt",
+  "snapshot_id": "ZoNDAAAAAAAG85KLMD8C3A8soa1ElxkO",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tha Carter IV (Complete Edition)",
+        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Cory Gunz",
+          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "6 Foot 7 Foot",
+      "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
       },
@@ -351,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Carter IV (Complete Edition)",
-        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Cory Gunz",
-          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
-        }
-      ],
-      "duration_ms": 248586,
-      "name": "6 Foot 7 Foot",
-      "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -387,34 +387,6 @@
       "duration_ms": 155292,
       "name": "HOT WIND BLOWS (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thats What They All Say",
-        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 227478,
-      "name": "Whats Poppin (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix] - Bonus Track",
-      "url": "https://open.spotify.com/track/0ZLuW8uOXdFNWcI40C0OC2"
     },
     {
       "added_at": null,
@@ -443,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am Not A Human Being",
-        "url": "https://open.spotify.com/album/5vfnsOgLqsgmEb3vGyc2FO"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 271946,
-      "name": "Right Above It",
-      "url": "https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "mainstream sellout",
         "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
@@ -479,6 +431,26 @@
       "duration_ms": 124188,
       "name": "ay! (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Am Not A Human Being",
+        "url": "https://open.spotify.com/album/5vfnsOgLqsgmEb3vGyc2FO"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 271946,
+      "name": "Right Above It",
+      "url": "https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP"
     },
     {
       "added_at": null,
@@ -1107,6 +1079,34 @@
       "duration_ms": 273826,
       "name": "Can't Believe It (feat. Lil' Wayne)",
       "url": "https://open.spotify.com/track/4D2cYdHqk8tu65jUig4OcN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Pinkprint (Deluxe)",
+        "url": "https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 312026,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/4MRT0dDbhqFKl67WzhUbSw"
     }
   ],
   "unique_name": "This Is Lil Wayne",

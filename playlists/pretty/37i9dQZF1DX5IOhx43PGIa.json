@@ -1,6 +1,6 @@
 {
   "description": "Illuminating Asian artists everywhere.  Cover: Raveena.",
-  "num_followers": 286607,
+  "num_followers": 286601,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "B.I.L.L.S.",
-        "url": "https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5"
-      },
-      "artists": [
-        {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
-        }
-      ],
-      "duration_ms": 134920,
-      "name": "B.I.L.L.S.",
-      "url": "https://open.spotify.com/track/7xISBLSpkANttnZx8krkq6"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "distance",
         "url": "https://open.spotify.com/album/2hkXgYYushHTBmrhXOcY0G"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 113385,
       "name": "distance",
       "url": "https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "B.I.L.L.S.",
+        "url": "https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "duration_ms": 134920,
+      "name": "B.I.L.L.S.",
+      "url": "https://open.spotify.com/track/7xISBLSpkANttnZx8krkq6"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Right About Love",
+        "url": "https://open.spotify.com/album/7KrtzyHudvDuQVKwqQDeIk"
+      },
+      "artists": [
+        {
+          "name": "Kevin Chung",
+          "url": "https://open.spotify.com/artist/1VecMtyjxg6MDDJGVJnMJ2"
+        }
+      ],
+      "duration_ms": 122448,
+      "name": "Right About Love",
+      "url": "https://open.spotify.com/track/3bQ7nKbcQeq6r3baY1vLNB"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "close with desires (feat. thuy)",
         "url": "https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 205750,
       "name": "close with desires (feat. thuy)",
       "url": "https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Right About Love",
-        "url": "https://open.spotify.com/album/7KrtzyHudvDuQVKwqQDeIk"
-      },
-      "artists": [
-        {
-          "name": "Kevin Chung",
-          "url": "https://open.spotify.com/artist/1VecMtyjxg6MDDJGVJnMJ2"
-        }
-      ],
-      "duration_ms": 122448,
-      "name": "Right About Love",
-      "url": "https://open.spotify.com/track/3bQ7nKbcQeq6r3baY1vLNB"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "E-SIDE 3",
+        "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 199082,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Pluto",
         "url": "https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen"
       },
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "E-SIDE 3",
-        "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
         }
       ],
-      "duration_ms": 199082,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
+      "duration_ms": 173661,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1255,22 +1271,6 @@
       "duration_ms": 180000,
       "name": "Sunny When I'm With You",
       "url": "https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
-      },
-      "artists": [
-        {
-          "name": "Weston Estate",
-          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
-        }
-      ],
-      "duration_ms": 173661,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Sorry Sorry",
-        "url": "https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC"
-      },
-      "artists": [
-        {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
-        }
-      ],
-      "duration_ms": 208830,
-      "name": "Sorry Sorry",
-      "url": "https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 182282,
       "name": "Coyote, My Little Brother - Spotify Singles",
       "url": "https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Sorry Sorry",
+        "url": "https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "duration_ms": 208830,
+      "name": "Sorry Sorry",
+      "url": "https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Time to Pretend (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1WNVeIIhcUl4dU2TerEdz7"
-      },
-      "artists": [
-        {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
-        }
-      ],
-      "duration_ms": 243035,
-      "name": "Time to Pretend - Spotify Singles",
-      "url": "https://open.spotify.com/track/2fyn9gJRCGG6o2u3EIGBjg"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/582kKnarKgUt5Rl4mEUKGi"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 157466,
       "name": "Jokes On Me",
       "url": "https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Time to Pretend (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1WNVeIIhcUl4dU2TerEdz7"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "duration_ms": 243035,
+      "name": "Time to Pretend - Spotify Singles",
+      "url": "https://open.spotify.com/track/2fyn9gJRCGG6o2u3EIGBjg"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "The Goo",
+        "url": "https://open.spotify.com/album/76PdRpzuQWUzg17LoA9u4z"
+      },
+      "artists": [
+        {
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+        }
+      ],
+      "duration_ms": 154346,
+      "name": "The Goo",
+      "url": "https://open.spotify.com/track/4tNggYnNT1qWzV1MzFZZRo"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "TRIBAL",
         "url": "https://open.spotify.com/album/0IVgBIkEeVAARxWIVaFmV4"
       },
@@ -1975,18 +1991,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "The Goo",
-        "url": "https://open.spotify.com/album/76PdRpzuQWUzg17LoA9u4z"
+        "name": "Blue Jeans",
+        "url": "https://open.spotify.com/album/3FHg1VCDDl9c5cylYCd0vR"
       },
       "artists": [
         {
-          "name": "FIG",
-          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+          "name": "Layton Wu",
+          "url": "https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a"
         }
       ],
-      "duration_ms": 154346,
-      "name": "The Goo",
-      "url": "https://open.spotify.com/track/4tNggYnNT1qWzV1MzFZZRo"
+      "duration_ms": 189555,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/7vgfpWpWc61Myfp0XqOgxD"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2003,22 +2019,6 @@
       "duration_ms": 157377,
       "name": "love of my life",
       "url": "https://open.spotify.com/track/2ooHvit2WOf9PmptyEWfY4"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Blue Jeans",
-        "url": "https://open.spotify.com/album/3FHg1VCDDl9c5cylYCd0vR"
-      },
-      "artists": [
-        {
-          "name": "Layton Wu",
-          "url": "https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a"
-        }
-      ],
-      "duration_ms": 189555,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/7vgfpWpWc61Myfp0XqOgxD"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Solo Dates",
+        "url": "https://open.spotify.com/album/3FHAfbbtKf0ucflD9qSWaf"
+      },
+      "artists": [
+        {
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+        }
+      ],
+      "duration_ms": 161099,
+      "name": "Solo Dates",
+      "url": "https://open.spotify.com/track/4TdgwnihAXiS8AmvjItqIz"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "SEEING PINK",
         "url": "https://open.spotify.com/album/2nSCMCTFyMGUf3bLI2bCed"
       },
@@ -2143,22 +2159,6 @@
       "duration_ms": 159000,
       "name": "supernAtural",
       "url": "https://open.spotify.com/track/6pqbW62SKuIGJxiYjHTx6l"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Solo Dates",
-        "url": "https://open.spotify.com/album/3FHAfbbtKf0ucflD9qSWaf"
-      },
-      "artists": [
-        {
-          "name": "FIG",
-          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
-        }
-      ],
-      "duration_ms": 161099,
-      "name": "Solo Dates",
-      "url": "https://open.spotify.com/track/4TdgwnihAXiS8AmvjItqIz"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "HUSH",
-        "url": "https://open.spotify.com/album/6RyNlQCjmWiHOyY8775jeo"
-      },
-      "artists": [
-        {
-          "name": "Rhea Raj",
-          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
-        }
-      ],
-      "duration_ms": 175221,
-      "name": "HUSH",
-      "url": "https://open.spotify.com/track/7xbXxg6K0yQvrVlj9P8mvK"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "all these little words",
         "url": "https://open.spotify.com/album/2Ku5Gduy0PDHOpT510fknQ"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 137946,
       "name": "all these little words",
       "url": "https://open.spotify.com/track/05pmzFXKkRsaeLJtTgtf61"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "HUSH",
+        "url": "https://open.spotify.com/album/6RyNlQCjmWiHOyY8775jeo"
+      },
+      "artists": [
+        {
+          "name": "Rhea Raj",
+          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
+        }
+      ],
+      "duration_ms": 175221,
+      "name": "HUSH",
+      "url": "https://open.spotify.com/track/7xbXxg6K0yQvrVlj9P8mvK"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "DIGITAL BABE",
-        "url": "https://open.spotify.com/album/1XNIu6K8tW9LyfvIK9kWfa"
-      },
-      "artists": [
-        {
-          "name": "Rhea Raj",
-          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "DIGITAL BABE",
-      "url": "https://open.spotify.com/track/0j7il6QUxW1bc9h3otA2Qb"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "maybe",
         "url": "https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF"
       },
@@ -2375,18 +2359,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "giving up everything",
-        "url": "https://open.spotify.com/album/0hRWoOXt6F6sQmipGfeza3"
+        "name": "DIGITAL BABE",
+        "url": "https://open.spotify.com/album/1XNIu6K8tW9LyfvIK9kWfa"
       },
       "artists": [
         {
-          "name": "nicole han",
-          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
+          "name": "Rhea Raj",
+          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
         }
       ],
-      "duration_ms": 184750,
-      "name": "giving up everything",
-      "url": "https://open.spotify.com/track/2tEflzVmd3qb9vSMKd4i5x"
+      "duration_ms": 149333,
+      "name": "DIGITAL BABE",
+      "url": "https://open.spotify.com/track/0j7il6QUxW1bc9h3otA2Qb"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2403,6 +2387,22 @@
       "duration_ms": 178448,
       "name": "Love Bites",
       "url": "https://open.spotify.com/track/3jUeRyAxFkC7OAoUMGOlhk"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "giving up everything",
+        "url": "https://open.spotify.com/album/0hRWoOXt6F6sQmipGfeza3"
+      },
+      "artists": [
+        {
+          "name": "nicole han",
+          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
+        }
+      ],
+      "duration_ms": 184750,
+      "name": "giving up everything",
+      "url": "https://open.spotify.com/track/2tEflzVmd3qb9vSMKd4i5x"
     },
     {
       "added_at": "2024-06-28 04:00:00",

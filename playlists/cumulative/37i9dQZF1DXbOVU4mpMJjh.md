@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-1,195 songs - 3 day 8 hr 20 min
+1,197 songs - 3 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,7 +595,7 @@
 | [Linda´s Dream](https://open.spotify.com/track/7fPOS25PJGYmLE1qsVXAdp) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Linda´s Dream](https://open.spotify.com/album/0q30Csvy0pQmqQ9plA1jLZ) | 2:49 | 2023-06-22 |  |
 | [Little Bell](https://open.spotify.com/track/1AQHHWxWaCZrMsqrdDTNng) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [Little Bell](https://open.spotify.com/album/3Co6xU6tpBJqppc2TNis78) | 3:30 | 2022-10-06 |  |
 | [Little Birdy Bean](https://open.spotify.com/track/4vkgxZq0GhzUt6Ta7e4RFO) | [Billy Buss Quartet](https://open.spotify.com/artist/5xTgx3md39lCcMRFqZU8hF) | [Little Birdy Bean](https://open.spotify.com/album/5yjGBYwU32GcZvR9GKD0Ja) | 3:15 | 2024-02-23 |  |
-| [Little Friends](https://open.spotify.com/track/1XG86L7eVEwRN5wuD6E26T) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Little Friends](https://open.spotify.com/album/31CEY462P9AKYSnixdu46b) | 3:03 | 2023-06-15 |  |
+| [Little Friends](https://open.spotify.com/track/1XG86L7eVEwRN5wuD6E26T) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Little Friends](https://open.spotify.com/album/31CEY462P9AKYSnixdu46b) | 3:03 | 2023-06-15 | 2024-07-04 |
 | [Little Paradise](https://open.spotify.com/track/0eyAeKA9YPiuzsgm2fiYIp) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Little Paradise](https://open.spotify.com/album/4F829opFHrnJRKD4ozNcq5) | 4:59 | 2022-04-14 | 2022-06-09 |
 | [Live Off The Juice](https://open.spotify.com/track/7tRueocYJ2FyjtLbHBOZlz) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Live Off The Juice](https://open.spotify.com/album/4h1h2Wb9Q8FGElrdovvgHA) | 3:22 | 2023-03-16 |  |
 | [Lock and Key](https://open.spotify.com/track/4OwHfJGfIGluHa3pi7nwlM) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 5:18 | 2022-04-14 | 2022-09-16 |
@@ -995,6 +995,7 @@
 | [The Day that I Felt](https://open.spotify.com/track/7IVkAhHfWNsc7HUxKddN1x) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:18 | 2023-03-09 |  |
 | [The Days Of Wine And Roses](https://open.spotify.com/track/4perVeAQ5hn68NDRx6nzey) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [The Days Of Wine And Roses](https://open.spotify.com/album/2k7HeS16u7cqaUJei7VuAf) | 3:05 | 2023-02-23 |  |
 | [The End Of A Love Affair](https://open.spotify.com/track/7K0RtjPEyD4djyUJUQUiNG) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [Soon](https://open.spotify.com/album/2SIpgdBZhwz6fYZ0pGMwcu) | 6:17 | 2022-04-14 |  |
+| [The expensive kind](https://open.spotify.com/track/2C6K8sN1UkCUQxq8tQNT8d) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [The expensive kind](https://open.spotify.com/album/49uuv7SiOwTc1IhFFJ5AFW) | 2:52 | 2024-07-01 |  |
 | [The Fate of Love](https://open.spotify.com/track/59VY0huVKd5pSuJLI9RrMO) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [The Fate of Love](https://open.spotify.com/album/4LYUSTQLCYtx3DZTfsXFly) | 2:50 | 2023-01-20 |  |
 | [The First Step](https://open.spotify.com/track/2CFUoit9OLr6gHZ2WUz7P1) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [The First Step](https://open.spotify.com/album/0npCvOirIl3qBkbtpkAufa) | 3:02 | 2023-12-08 |  |
 | [the first time I saw you](https://open.spotify.com/track/2mxkWAgoZBU1lRmxp8KEBt) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [the first time I saw you](https://open.spotify.com/album/1L8MHKjTmFHlcwinpZgWZn) | 2:55 | 2023-04-20 |  |
@@ -1039,7 +1040,7 @@
 | [Theme For Ernie](https://open.spotify.com/track/0XXHKJqxoDfr5dzmqFlTVO) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Altitude](https://open.spotify.com/album/6oCVoCOJDG6LH3njz2ej4A) | 5:04 | 2022-04-14 | 2022-07-29 |
 | [Theme for Ernie](https://open.spotify.com/track/5duSC0GiQTYs2fdYnS4Qx5) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Altitude](https://open.spotify.com/album/6PXMUQ2FQ4TY34Fr7wFQ3K) | 5:04 | 2022-06-30 | 2024-04-19 |
 | [Then you appeared](https://open.spotify.com/track/33bQpN9jengdybIZ0ecfON) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Then you appeared](https://open.spotify.com/album/2LmLv8j1qX07BGUgSDsFdy) | 3:27 | 2023-03-09 |  |
-| [There Is No Greater Love](https://open.spotify.com/track/1GnvtqOpLvbQsw1nP71TP3) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [There Is No Greater Love](https://open.spotify.com/album/7B8OSs8dhDt0KI0b95FNfa) | 2:32 | 2023-08-31 |  |
+| [There Is No Greater Love](https://open.spotify.com/track/1GnvtqOpLvbQsw1nP71TP3) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [There Is No Greater Love](https://open.spotify.com/album/7B8OSs8dhDt0KI0b95FNfa) | 2:32 | 2023-08-31 | 2024-07-04 |
 | [There Will Be Better Days](https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [There Will Be Better Days](https://open.spotify.com/album/5ELhztVWr2IO1958kMWLli) | 4:59 | 2023-09-22 |  |
 | [There Will Never Be Another You](https://open.spotify.com/track/6oSm3mBWFxJHEnjE2IqhmA) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:25 | 2022-06-30 | 2023-03-03 |
 | [There Will Never Be Another You](https://open.spotify.com/track/38III1nu5BFSJsffk7bcWm) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Lester Young With The Oscar Peterson Trio](https://open.spotify.com/album/5srtpTZOrLpGJ0QDRhnl0x) | 3:28 | 2022-04-14 | 2022-07-29 |
@@ -1077,6 +1078,7 @@
 | [To the Moon and Back](https://open.spotify.com/track/1kbVkvLiWNDF7J4zMPtwv7) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [To the Moon and Back](https://open.spotify.com/album/4FjAzBoqC16rVfrMgEFujB) | 2:39 | 2023-03-09 |  |
 | [To the Moon and Back](https://open.spotify.com/track/5SavKywZ8Mzwb0PppxJf9E) | [Nicholas Fischer](https://open.spotify.com/artist/23xwLdy4T9jEB9igNfXBIb) | [To the Moon and Back](https://open.spotify.com/album/35ijXUqgREKtH2X21SsHwN) | 3:27 | 2024-03-22 |  |
 | [To the Place I Once Knew](https://open.spotify.com/track/6fXetLQlQZflyUCkK41EJs) | [Basinettes](https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ) | [To the Place I Once Knew](https://open.spotify.com/album/6n0zSi5tLfnjylSuZeyh28) | 2:50 | 2024-02-23 |  |
+| [To The Shore](https://open.spotify.com/track/6rGUwt3EPE1GdQdmQr7bTy) | [Simple Paradise](https://open.spotify.com/artist/6lvIL2hc3kaKcKZg0HAGm4) | [To The Shore](https://open.spotify.com/album/1tF57mUHs97WPG3pdrDO3p) | 4:18 | 2024-07-01 |  |
 | [Tomorrow](https://open.spotify.com/track/5QTJAnT7nhRzKAhtIActwk) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Tomorrow](https://open.spotify.com/album/5TkYZGmaaF1hXvK9kqcx8M) | 4:29 | 2022-08-16 |  |
 | [Too Young To Go Steady](https://open.spotify.com/track/23yV324zCQ7eARFz6qZxxt) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Too Young To Go Steady](https://open.spotify.com/album/2sba5NbOxg0eaGQGXNgjTh) | 2:26 | 2023-04-14 |  |
 | [Touch the Rain](https://open.spotify.com/track/3GfhoIHnXnpJpdkcIlbYMW) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Touch the Rain](https://open.spotify.com/album/2F22CZYdMUPlJewidsKPi7) | 3:41 | 2024-02-23 |  |

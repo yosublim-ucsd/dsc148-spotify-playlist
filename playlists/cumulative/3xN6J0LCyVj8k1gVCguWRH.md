@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! A predicttion playlist that also Includes Summer 2023 edition &amp; bonus tracks.
 
-3,526 songs - 8 day 7 hr 19 min
+3,529 songs - 8 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -758,6 +758,7 @@
 | [daydreaming](https://open.spotify.com/track/5la4XzokHk20mBFEwsvoPc) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [daydreaming](https://open.spotify.com/album/7wToFoUAAE2DJuB1fvzB9J) | 3:23 | 2024-01-22 | 2024-02-07 |
 | [Days Like This](https://open.spotify.com/track/1gjm48WYxtfGugWzVlxdjY) | [Dusty Flavor](https://open.spotify.com/artist/0ZeApzBDi9axH1rBEfMTNU) | [Days Like This](https://open.spotify.com/album/4snjEVJsTZccMIqleHSHS0) | 2:40 | 2022-12-09 | 2022-12-11 |
 | [Days Like This \(On Repeat\) \- Remix](https://open.spotify.com/track/1DqdbCxDOAB0A9P11RxtFy) | [Dusty Flavor](https://open.spotify.com/artist/0ZeApzBDi9axH1rBEfMTNU) | [Days Like This \(On Repeat\) \[Remix\]](https://open.spotify.com/album/1EjyhsfoxLrvIzFG1V9Wet) | 2:31 | 2022-12-10 | 2023-01-03 |
+| [de ja vu](https://open.spotify.com/track/2urwpQeVzI8p1QjTYPUcEc) | [Earl Hondo](https://open.spotify.com/artist/6wtwOmHik96gteVK9Kt28x) | [de ja vu](https://open.spotify.com/album/1T41QBcUTncmitLEcy1y9z) | 3:46 | 2024-07-03 |  |
 | [Dead Man Walking](https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Dead Man Walking](https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc) | 4:07 | 2020-09-21 | 2020-10-08 |
 | [Dear Anxiety,](https://open.spotify.com/track/589HRqKn6hxdTjVyC8lVJB) | [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy) | [Dear Anxiety, EP](https://open.spotify.com/album/69udB7bqGQsXzEy4G8nRt5) | 3:14 | 2023-12-30 | 2024-01-19 |
 | [Dear Greta](https://open.spotify.com/track/2xU52hvXKXBiZscIbjfgG6) | [The Fall Line](https://open.spotify.com/artist/6agKrgUACfM2YJ0ahGBvfT) | [Dear Greta](https://open.spotify.com/album/22nIgQNZjCFSj7rrqUwAAK) | 2:46 | 2020-03-06 | 2020-04-04 |
@@ -1689,6 +1690,7 @@
 | [Larga Vida](https://open.spotify.com/track/77s5oCZ0eI59BygbuicR4W) | [Xavi Jordan](https://open.spotify.com/artist/5H1dqpna1LZM58Estbgg6B) | [Larga Vida](https://open.spotify.com/album/1OJa8YSZ5UYW7wb5K6K6yv) | 2:22 | 2023-08-27 | 2023-09-26 |
 | [Las Grandes Bañistas](https://open.spotify.com/track/1a0bNJu5SZKoxZB4IXUUbA) | [Xackal](https://open.spotify.com/artist/6I8vp2QeDqh8HDpUP1ZjpB) | [Las Grandes Bañistas](https://open.spotify.com/album/5OpYJcsXKiKmbvykoTEviR) | 3:41 | 2020-12-11 | 2020-12-26 |
 | [Las Vegas Will You Marry Me](https://open.spotify.com/track/33xZh3jEHKNIWCTmvvyL81) | [Dennis Bono](https://open.spotify.com/artist/2PNqDNuYzvppDUV0tKHJT9), [Dan Slider & The Vegas Headliner Big Band](https://open.spotify.com/artist/0zGQ8R1ViCcF5nYCg8DMmj) | [Las Vegas Will You Marry Me](https://open.spotify.com/album/07PoqhcscnvZxIGV34j75B) | 2:58 | 2023-06-13 | 2023-06-27 |
+| [last first date](https://open.spotify.com/track/0BoR8leRhGdvCNdwbqUPcJ) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [last first date](https://open.spotify.com/album/2iQY8LE8UQJxatH3Q6hnzZ) | 3:07 | 2024-07-03 |  |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-07-26 | 2024-04-30 |
 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 | 2023-06-14 | 2023-07-21 |
 | [Last one in line](https://open.spotify.com/track/27Rv5DELzhtmJS8BAOUk8K) | [Gerina](https://open.spotify.com/artist/7gsw0J4ej0rwNl3Pk7D2d4) | [Last one in line](https://open.spotify.com/album/2QWf81p9OxjMYZV8jRDzbB) | 3:36 | 2024-06-25 |  |
@@ -1926,6 +1928,7 @@
 | [Many Times](https://open.spotify.com/track/63EUqnpcphhZh8SbXagArw) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 2:06 | 2022-07-26 | 2024-04-30 |
 | [Mar y Sol](https://open.spotify.com/track/2CBJr7bY7kRqqouFjeH6Jb) | [Louie Rubio](https://open.spotify.com/artist/3vl3HfodbBg1UY2FYVMbGU) | [Mar y Sol](https://open.spotify.com/album/2yEzv8mhcwwJQqrbQaouA7) | 4:25 | 2023-05-26 | 2023-06-17 |
 | [Maracujá](https://open.spotify.com/track/5nNfDIbkqaXE8Gdv6r96um) | [Aramà](https://open.spotify.com/artist/2M2lDprCQRdjvgo0yDsdTD) | [Maracujá](https://open.spotify.com/album/7LnA8vbZg6PatV8CoMctQJ) | 2:44 | 2021-01-08 | 2021-01-23 |
+| [marchito](https://open.spotify.com/track/3h7ykC4YeImQ7p1XwIaHeJ) | [Skinyz](https://open.spotify.com/artist/6jcPqkBKfky0zK1hkLArlJ), [Jesse Chacón](https://open.spotify.com/artist/55sk6MAN847i5rUk9jpxO3) | [marchito](https://open.spotify.com/album/2I5dbJQzpVXkcQIkVnhSrY) | 2:13 | 2024-07-04 |  |
 | [Marlboro Man](https://open.spotify.com/track/3Oh65kNgVezqIUCHd7EKiQ) | [Kaleb Sanders](https://open.spotify.com/artist/4hsCKTS1M5pg7uIJuotsDB) | [Marlboro Man](https://open.spotify.com/album/0VcVOHmCyjFtbGuYu649fr) | 3:20 | 2024-06-20 | 2024-07-02 |
 | [Mary Don't You Weep \- Piano & A Microphone 1983 Version](https://open.spotify.com/track/3MyoPEPdJbaIKRyuk8zTj2) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Piano & A Microphone 1983](https://open.spotify.com/album/6gbmDvcU1JDPy1niL6YFJY) | 4:42 | 2021-08-28 | 2021-09-11 |
 | [Mary, Mary](https://open.spotify.com/track/4uDXW5l6Hrc6EfSrBQ6yTN) | [Ellis Paul](https://open.spotify.com/artist/6zbmVVtvsmXRGWGgfjlE35) | [City of Silver Dreams](https://open.spotify.com/album/3sI0EFiLsEsDu2iifoceRX) | 3:21 | 2019-11-28 | 2019-12-11 |

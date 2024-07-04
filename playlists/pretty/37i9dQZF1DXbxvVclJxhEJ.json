@@ -1,6 +1,6 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 51842,
+  "num_followers": 51884,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "I Ain't a Gamblin' Woman, I Got Such-A Rowdy Ways",
-        "url": "https://open.spotify.com/album/4kXm3wdVpJoxedVAknvV6D"
-      },
-      "artists": [
-        {
-          "name": "Clara Smith",
-          "url": "https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "It's Tight Like That",
-      "url": "https://open.spotify.com/track/5qBpfZS59XfbTnLtFDl3t4"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Capitol Records From The Vaults: \"Vine Street Divas\"",
         "url": "https://open.spotify.com/album/5zgbJkwtiJlKxBRkuRzIrw"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 134240,
       "name": "A Little Bird Told Me",
       "url": "https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "I Ain't a Gamblin' Woman, I Got Such-A Rowdy Ways",
+        "url": "https://open.spotify.com/album/4kXm3wdVpJoxedVAknvV6D"
+      },
+      "artists": [
+        {
+          "name": "Clara Smith",
+          "url": "https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "It's Tight Like That",
+      "url": "https://open.spotify.com/track/5qBpfZS59XfbTnLtFDl3t4"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Female Blues - The Remaining Titles Vol. 2 (1938-1949)",
-        "url": "https://open.spotify.com/album/5Cdll1bM00Aeg588xttgyU"
-      },
-      "artists": [
-        {
-          "name": "Perline Ellison",
-          "url": "https://open.spotify.com/artist/07lfk5rYOlkkPfbpTPEarh"
-        }
-      ],
-      "duration_ms": 179644,
-      "name": "New That Ain't Right",
-      "url": "https://open.spotify.com/track/2DP2o8uBWk14XUdRzVf91L"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Territory Singers Vol. 1 (1922-1928)",
         "url": "https://open.spotify.com/album/3LupTSTBpB0MDBKDgCbyae"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Raunchy Business: Hot Nuts & Lollypops",
-        "url": "https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx"
+        "name": "Female Blues - The Remaining Titles Vol. 2 (1938-1949)",
+        "url": "https://open.spotify.com/album/5Cdll1bM00Aeg588xttgyU"
       },
       "artists": [
         {
-          "name": "Bernice Edwards",
-          "url": "https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA"
+          "name": "Perline Ellison",
+          "url": "https://open.spotify.com/artist/07lfk5rYOlkkPfbpTPEarh"
         }
       ],
-      "duration_ms": 186733,
-      "name": "Butcher Shop Blues",
-      "url": "https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr"
+      "duration_ms": 179644,
+      "name": "New That Ain't Right",
+      "url": "https://open.spotify.com/track/2DP2o8uBWk14XUdRzVf91L"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -975,6 +959,22 @@
       "duration_ms": 204225,
       "name": "Romance in the Dark",
       "url": "https://open.spotify.com/track/0o99WPCOktWokBuqRDjf0p"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Raunchy Business: Hot Nuts & Lollypops",
+        "url": "https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx"
+      },
+      "artists": [
+        {
+          "name": "Bernice Edwards",
+          "url": "https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "Butcher Shop Blues",
+      "url": "https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Downhearted Blues",
-        "url": "https://open.spotify.com/album/0uGxY4y7NJupIs7b5Keeep"
-      },
-      "artists": [
-        {
-          "name": "Alberta Hunter",
-          "url": "https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA"
-        }
-      ],
-      "duration_ms": 151262,
-      "name": "My Castle's Rocking",
-      "url": "https://open.spotify.com/track/4Yza9eguJ9gSLPK7HypTIF"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Grievous Blues",
         "url": "https://open.spotify.com/album/3NEoLNpzJ1PXhjCGOop7ly"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 163133,
       "name": "Dirty Moaner Blues",
       "url": "https://open.spotify.com/track/35BLeCm8rHg2Z0g7xrTcDP"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Downhearted Blues",
+        "url": "https://open.spotify.com/album/0uGxY4y7NJupIs7b5Keeep"
+      },
+      "artists": [
+        {
+          "name": "Alberta Hunter",
+          "url": "https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA"
+        }
+      ],
+      "duration_ms": 151262,
+      "name": "My Castle's Rocking",
+      "url": "https://open.spotify.com/track/4Yza9eguJ9gSLPK7HypTIF"
     },
     {
       "added_at": "2024-06-02 16:39:20",

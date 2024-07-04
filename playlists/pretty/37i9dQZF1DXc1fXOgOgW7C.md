@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 
 > Las canciones que marcaron una época.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,745 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,771 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 | 58 | [Película](https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [Película](https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr) | 1:59 |
 | 59 | [Puedo Sentirlo \(feat\. Julieta Venegas\)](https://open.spotify.com/track/53tBGB7t5IGnRBcAo2j8S8) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Lebón & Co.](https://open.spotify.com/album/2VuiXEQmTm3WcwGVha8wW2) | 3:27 |
 | 60 | [Y la Banda Sigue](https://open.spotify.com/track/1fHYfXMXkhrWd9dzIOharS) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Cacho Castaña](https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao) | [Y la Banda Sigue](https://open.spotify.com/album/2025IlqtTWDI90ejSXEulm) | 3:30 |
-| 61 | [Parque Acuático](https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Parque Acuático](https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636) | 2:52 |
-| 62 | [No Fue](https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [No Fue](https://open.spotify.com/album/01hu8HlyUnBnITx30aDTbD) | 3:15 |
-| 63 | [Aunque No Quiero](https://open.spotify.com/track/1xeJGNdKyEqqhWfkR31jM2) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 3:35 |
-| 64 | [Chica Acuario](https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Chica Acuario](https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn) | 3:27 |
+| 61 | [Aunque No Quiero](https://open.spotify.com/track/1xeJGNdKyEqqhWfkR31jM2) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 3:35 |
+| 62 | [Parque Acuático](https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Parque Acuático](https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636) | 2:52 |
+| 63 | [Chica Acuario](https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Chica Acuario](https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn) | 3:27 |
+| 64 | [No Fue](https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [No Fue](https://open.spotify.com/album/01hu8HlyUnBnITx30aDTbD) | 3:15 |
 | 65 | [Jugo](https://open.spotify.com/track/0PJPcduHwXP4NUp2rd6Kk7) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Agua Ardiente](https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL) | 3:57 |
 | 66 | [Ves](https://open.spotify.com/track/0KWQev3eatMHcrGU8MhTnn) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Érase](https://open.spotify.com/album/4Dq5ueH8qdZRDx5TvdTCpy) | 3:15 |
 | 67 | [Cosas para Decirte](https://open.spotify.com/track/4bLEdN7hL33Qv4fCz5VLMG) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 5:40 |

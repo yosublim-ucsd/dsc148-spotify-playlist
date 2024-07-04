@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 
 ### [This Is Edith Márquez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4eQ4e5)
 
-> This Is Edith Márquez\. Los temas esenciales, todos en una lista.
+> This is: Edith Márquez\. Alle wichtigen Tracks in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,199 likes - 51 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,207 likes - 51 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 37 | [Tómame o déjame](https://open.spotify.com/track/247rGPlCUNTBTZ2dTNOL1a) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Exitos del corazón \(USA\)](https://open.spotify.com/album/6hixQLHfR41yzRQBCCdvNK) | 3:20 |
 | 38 | [Llamarada](https://open.spotify.com/track/6qYWKAPbT2HLYEZ4UQDy3r) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:17 |
 | 39 | [Adoro](https://open.spotify.com/track/6kD9AsQ2mdGUu5DWM7l48u) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 4:14 |
-| 40 | [El primero, el único, el último](https://open.spotify.com/track/5GjqiHdSs9wWcFsd9Vddeg) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Canciones de Amor y Sentimiento](https://open.spotify.com/album/39mbS15BDr9xgth9egyADB) | 3:38 |
-| 41 | [El Nido \(with Edith Márquez\)](https://open.spotify.com/track/5ihvNbdpF5f70bP4wSyMso) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Grandes Éxitos de las Sonoras, Con la Más Grande, La Sonora Santanera](https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ) | 2:56 |
+| 40 | [El Nido \(with Edith Márquez\)](https://open.spotify.com/track/5ihvNbdpF5f70bP4wSyMso) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Grandes Éxitos de las Sonoras, Con la Más Grande, La Sonora Santanera](https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ) | 2:56 |
+| 41 | [El primero, el único, el último](https://open.spotify.com/track/5GjqiHdSs9wWcFsd9Vddeg) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Canciones de Amor y Sentimiento](https://open.spotify.com/album/39mbS15BDr9xgth9egyADB) | 3:38 |
 | 42 | [Pero Me Fui](https://open.spotify.com/track/2bvEzKkRkUl7SOvrGQglzA) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Contigo](https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X) | 3:39 |
 | 43 | [Qué Sabe Nadie \- Versión Banda](https://open.spotify.com/track/7JDXtmBc3o0lUHNIHgniqf) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 3:56 |
 | 44 | [Hasta Que Amanezca](https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 2:45 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 50 | [Palabras Tristes](https://open.spotify.com/track/1FktCE7NbKvj85XmGIp6Cb) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amar No Es Suficiente](https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU) | 3:36 |
 | 51 | [Cuando grita la piel](https://open.spotify.com/track/3ZZuE4BtdSRwHewgXm48yz) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Canciones de Amor y Sentimiento](https://open.spotify.com/album/39mbS15BDr9xgth9egyADB) | 4:04 |
 
-Snapshot ID: `ZoHxgAAAAACAb+SrMDO2FyNeLDbNB/NP`
+Snapshot ID: `ZoNDAAAAAACPNlQx45Lt+JOp2ZgxQ+aX`

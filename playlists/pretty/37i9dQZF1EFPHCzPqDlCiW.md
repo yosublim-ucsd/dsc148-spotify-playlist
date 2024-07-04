@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233 likes - 124 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 232 likes - 124 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tired](https://open.spotify.com/track/3b5Li4QKDVBx1x7fQuu54a) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Tired](https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2) | 3:12 |
 | 2 | [Always](https://open.spotify.com/track/1w0qg01gZLzPPH5R0cTCuW) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 4:07 |
 | 3 | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/track/5TnF44IQRsopRNa63BEyFd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/album/70gacpgIA2SlF8EqYpu22B) | 3:04 |
-| 4 | [Follow Me](https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Follow Me](https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK) | 2:49 |
-| 5 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 |
+| 4 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 |
+| 5 | [Follow Me](https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Follow Me](https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK) | 2:49 |
 | 6 | [Tired \- Kygo Remix](https://open.spotify.com/track/3t0J8vI9StQD8KIBkT2Cp5) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Tired \(Kygo Remix\)](https://open.spotify.com/album/1wRWIwbh1h8z7QUoZONvwT) | 4:00 |
 | 7 | [Nights Like This](https://open.spotify.com/track/583Fc6qU9thMdXu64j1Wus) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Nights Like This](https://open.spotify.com/album/3zk9C1O8NXlF4wzc9hqzJi) | 3:10 |
 | 8 | [Deep In Your Love](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Deep In Your Love](https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs) | 2:24 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 123 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 124 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `AbVpngAAAAAHGWG1O0IHwChH+aiq5VLG`
+Snapshot ID: `AbVvAgAAAABaIv7ySrQAvNWRuNIAsC4K`

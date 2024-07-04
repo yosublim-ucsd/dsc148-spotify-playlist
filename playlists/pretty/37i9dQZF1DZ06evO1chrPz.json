@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 198423,
+  "num_followers": 198475,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAAJWRWKiUw8DAapNZ+qOTSZ",
+  "snapshot_id": "ZoNDAAAAAAB9K22acmAP9nfbLcweQUso",
   "tracks": [
     {
       "added_at": null,
@@ -163,26 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace, Vol. II",
-        "url": "https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/0rbCIePwNYXpvD451ihkVO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moments: Wait (Live)",
         "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
       },
@@ -203,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA"
+        "name": "Peace, Vol. II",
+        "url": "https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p"
       },
       "artists": [
         {
@@ -212,13 +192,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 297293,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/2Gpk1rtu5wVUCMQH86kErs"
+      "duration_ms": 316666,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/0rbCIePwNYXpvD451ihkVO"
     },
     {
       "added_at": null,
@@ -763,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Make Me Brave (Live)",
-        "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA"
       },
       "artists": [
         {
@@ -772,13 +752,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 281506,
-      "name": "We Dance - Live",
-      "url": "https://open.spotify.com/track/32DCSsnAxX8jpmu9w6C8DW"
+      "duration_ms": 296440,
+      "name": "I'll Be Everything",
+      "url": "https://open.spotify.com/track/3b33bfDltSwUZZ8KEdho9r"
     },
     {
       "added_at": null,
@@ -803,6 +783,26 @@
       "duration_ms": 510726,
       "name": "Reason To Praise - Live",
       "url": "https://open.spotify.com/track/4wiv0itDHcgSB8IjOxn4SA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 281506,
+      "name": "We Dance - Live",
+      "url": "https://open.spotify.com/track/32DCSsnAxX8jpmu9w6C8DW"
     },
     {
       "added_at": null,
@@ -935,22 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Words: Synesthesia",
-        "url": "https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 79706,
-      "name": "Isabelline (Interlude)",
-      "url": "https://open.spotify.com/track/5vSIZDCn7bVFuEFB6DKmFX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bethel Music en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 414280,
       "name": "Padre Nuestro (Live)",
       "url": "https://open.spotify.com/track/5MPL8832azIUwbMJZqng5Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Words: Synesthesia",
+        "url": "https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 79706,
+      "name": "Isabelline (Interlude)",
+      "url": "https://open.spotify.com/track/5vSIZDCn7bVFuEFB6DKmFX"
     },
     {
       "added_at": null,
@@ -1015,22 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After All These Years (Instrumental)",
-        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 314306,
-      "name": "Gravity - Instrumental",
-      "url": "https://open.spotify.com/track/15LGKUgpAFUjQznIhE6Y2I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bethel Music en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 291986,
       "name": "Mi Esperanza Est\u00e1 en Jes\u00fas (Live)",
       "url": "https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After All These Years (Instrumental)",
+        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 314306,
+      "name": "Gravity - Instrumental",
+      "url": "https://open.spotify.com/track/15LGKUgpAFUjQznIhE6Y2I"
     }
   ],
   "unique_name": "This Is Bethel Music",

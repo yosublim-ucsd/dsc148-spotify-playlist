@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover:   <a href="spotify:artist:7oAskcd3mX9ZzxMPFHYqoN">Andrew Ripp</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,737 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,779 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [With A Little Help From My Friends \- Live](https://open.spotify.com/track/1DvuS4n9s9GE3BqCQw6Vo5) | [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [With A Little Help From My Friends \(Live\)](https://open.spotify.com/album/58Z5rBOC7zxqEMELvZK2e4) | 4:19 |
 | 100 | [Praise God For That](https://open.spotify.com/track/4pzEeXT5WheKAndcLI5OG0) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Praise God For That](https://open.spotify.com/album/0tG451tu6ZxZg8J3xPP8ww) | 3:12 |
 
-Snapshot ID: `Zn53IgAAAAD3d7XXqOAr3xXacbE3RmWq`
+Snapshot ID: `ZoWfxQAAAABoF410D/9l5KDsPfaShuJn`

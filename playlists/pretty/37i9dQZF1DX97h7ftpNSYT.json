@@ -1,6 +1,6 @@
 {
   "description": "Taking it back to the 2010s. Cover: Cordae",
-  "num_followers": 335965,
+  "num_followers": 335962,
   "original_name": "2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-07-02 00:01:35",
       "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 190288,
+      "name": "Stir Fry",
+      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
+    },
+    {
+      "added_at": "2024-07-02 00:01:35",
+      "album": {
         "name": "GO:OD AM",
         "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 208080,
       "name": "Weekend (feat. Miguel)",
       "url": "https://open.spotify.com/track/6GnhWMhgJb7uyiiPEiEkDA"
-    },
-    {
-      "added_at": "2024-07-02 00:01:35",
-      "album": {
-        "name": "Culture II",
-        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 190288,
-      "name": "Stir Fry",
-      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
     },
     {
       "added_at": "2024-07-02 00:01:35",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2024-07-02 00:01:35",
       "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 305350,
-      "name": "Dang! (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
-    },
-    {
-      "added_at": "2024-07-02 00:01:35",
-      "album": {
         "name": "DAMN.",
         "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 208733,
       "name": "ELEMENT.",
       "url": "https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG"
+    },
+    {
+      "added_at": "2024-07-02 00:01:35",
+      "album": {
+        "name": "Death Race For Love (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 189322,
+      "name": "Bandit (with YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/1oWM79mUVdZGCGYjSirHZR"
     },
     {
       "added_at": "2024-07-02 00:01:35",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2024-07-02 00:01:35",
       "album": {
-        "name": "Death Race For Love (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 189322,
-      "name": "Bandit (with YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/1oWM79mUVdZGCGYjSirHZR"
-    },
-    {
-      "added_at": "2024-07-02 00:01:35",
-      "album": {
         "name": "Culture II",
         "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 276147,
       "name": "Walk It Talk It",
       "url": "https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP"
+    },
+    {
+      "added_at": "2024-07-02 00:01:35",
+      "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 305350,
+      "name": "Dang! (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
     },
     {
       "added_at": "2024-07-02 00:01:35",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-07-02 00:01:35",
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 287040,
-      "name": "Ladders",
-      "url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI"
-    },
-    {
-      "added_at": "2024-07-02 00:01:35",
-      "album": {
         "name": "Still Striving",
         "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
       },
@@ -1439,6 +1423,38 @@
     {
       "added_at": "2024-07-02 00:01:35",
       "album": {
+        "name": "My Moment",
+        "url": "https://open.spotify.com/album/6074OsmUN1PdFgy0zTP4Fn"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "duration_ms": 254693,
+      "name": "First Day Out",
+      "url": "https://open.spotify.com/track/3muBQDekYAg7jm6hDu6R0Z"
+    },
+    {
+      "added_at": "2024-07-02 00:01:35",
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 287040,
+      "name": "Ladders",
+      "url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI"
+    },
+    {
+      "added_at": "2024-07-02 00:01:35",
+      "album": {
         "name": "Wolf",
         "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 319253,
       "name": "IFHY (feat. Pharrell)",
       "url": "https://open.spotify.com/track/0NjW4SKY3gbfl2orl1p8hr"
-    },
-    {
-      "added_at": "2024-07-02 00:01:35",
-      "album": {
-        "name": "My Moment",
-        "url": "https://open.spotify.com/album/6074OsmUN1PdFgy0zTP4Fn"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        }
-      ],
-      "duration_ms": 254693,
-      "name": "First Day Out",
-      "url": "https://open.spotify.com/track/3muBQDekYAg7jm6hDu6R0Z"
     },
     {
       "added_at": "2024-07-02 00:01:35",

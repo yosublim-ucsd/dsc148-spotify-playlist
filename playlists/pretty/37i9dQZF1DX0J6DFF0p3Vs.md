@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J6DFF0p3Vs.md) - [plain]
 
 > in a dim, dusty library, reading your novel, and thinking of that special someone
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,942 likes - 85 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,011 likes - 85 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J6DFF0p3Vs.md) - [plain]
 | 50 | [Autumn Nocturne](https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 4:54 |
 | 51 | [Desmond Blue \- 2001 Remastered](https://open.spotify.com/track/11m9dTmaDfP5HNQ5kQT0om) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 3:37 |
 | 52 | [When Sunny Gets Blue](https://open.spotify.com/track/5bYTIjxRYRISkmpS22QqSy) | [Charlie Rouse](https://open.spotify.com/artist/4WjOiUFD5b9kpa8LfdxkvM) | [Yeah!](https://open.spotify.com/album/3rw6xeupXWRAOME9Chqweq) | 5:48 |
-| 53 | [Stars Fell On Alabama](https://open.spotify.com/track/53xnN41m2VdT4HdN8kd8Ho) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays \(Clef Records LPR\)](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 3:22 |
+| 53 | [Stars Fell On Alabama](https://open.spotify.com/track/53xnN41m2VdT4HdN8kd8Ho) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 3:22 |
 | 54 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Recorded Fall '61](https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h) | 6:59 |
 | 55 | [Diane](https://open.spotify.com/track/37pqjXlRRWhQpjix96OCA9) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Gettin' Together!](https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT) | 5:06 |
 | 56 | [Evening In Paris](https://open.spotify.com/track/36NzG0ptwi4k798mpIS3Oz) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 3:21 |

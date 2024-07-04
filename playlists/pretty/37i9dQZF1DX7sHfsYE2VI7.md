@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 
 > Chilled out dance classics to set the mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,402 likes - 70 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,434 likes - 70 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 16 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
 | 17 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 |
 | 18 | [Sunchyme](https://open.spotify.com/track/2YOuBWIyHgyvHnLMpjzBf2) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sunchyme](https://open.spotify.com/album/6TtZuP1WRvIScmqLlUwet2) | 3:55 |
-| 19 | [Open](https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:37 |
-| 20 | [Manila](https://open.spotify.com/track/6V2QgOIMT94HhsfeIVbbZm) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Portraits Outtakes](https://open.spotify.com/album/49I1SKAgPZiPQ02ySZ5aUd) | 3:12 |
+| 19 | [Manila](https://open.spotify.com/track/6V2QgOIMT94HhsfeIVbbZm) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Portraits Outtakes](https://open.spotify.com/album/49I1SKAgPZiPQ02ySZ5aUd) | 3:12 |
+| 20 | [Open](https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:37 |
 | 21 | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\]](https://open.spotify.com/track/5ydeCNaWDmFbu4zl0roPAH) | [Spiller](https://open.spotify.com/artist/4bmymFwDu9zLCiTRUmrewb), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\]](https://open.spotify.com/album/20Q3pGpYiyicF32x5L8ppH) | 3:47 |
 | 22 | [Starlight \- Radio Edit](https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Mani Hoffman](https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw) | [Starlight](https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX) | 3:54 |
 | 23 | [Make Luv \- Live](https://open.spotify.com/track/3UZK9yD18Mtzb6MgYBmuLW) | [Room 5](https://open.spotify.com/artist/0AEbDFXbsssoSoC3pj91eq), [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Music & You](https://open.spotify.com/album/6jLeSCEqT7sAo0un1aOpSh) | 3:32 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 46 | [Another Chance](https://open.spotify.com/track/08fMRujpKhEDTanKN9l2ud) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [First Contact](https://open.spotify.com/album/6qu9ns8pdYAWJphzLszkny) | 7:32 |
 | 47 | [8 Ball](https://open.spotify.com/track/1tnhrn0zNTQGbo77wNwy44) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 8:58 |
 | 48 | [Little Fluffy Clouds](https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 4:27 |
-| 49 | [Angelica](https://open.spotify.com/track/5Rq2hPEd7UWN6i9tME54dj) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Between Darkness And Wonder](https://open.spotify.com/album/12xoI77eWPK0YfDNRMbEqW) | 3:40 |
-| 50 | [Movements \(Chapter III\)](https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Nothing Is Still](https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr) | 3:51 |
+| 49 | [Movements \(Chapter III\)](https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Nothing Is Still](https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr) | 3:51 |
+| 50 | [Angelica](https://open.spotify.com/track/5Rq2hPEd7UWN6i9tME54dj) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Between Darkness And Wonder](https://open.spotify.com/album/12xoI77eWPK0YfDNRMbEqW) | 3:40 |
 | 51 | [Feather](https://open.spotify.com/track/6WDAtzaXY7d31CkuoxYFcb) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Machine Dreams](https://open.spotify.com/album/1223HNo18fRbvEKxMgiSa7) | 4:53 |
 | 52 | [Baby](https://open.spotify.com/track/0wPfUQUkWcguy2iUH0BWOT) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 4:24 |
 | 53 | [Suntoucher](https://open.spotify.com/track/4OUvfa7eO5jvFMIMOU7MTb) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 6:31 |

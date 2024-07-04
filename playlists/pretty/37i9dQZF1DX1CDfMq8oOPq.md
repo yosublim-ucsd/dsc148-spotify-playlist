@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > btrem artilheira nata e as de raça
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,406 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,457 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 27 | [Sou + As Negras](https://open.spotify.com/track/4RqoUzXPTDgQSgSiPxmjHJ) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [G.a.B.o](https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR) | [Sou + As Negras](https://open.spotify.com/album/6Z6uUrQRgrTv9Uw8k1rgkg) | 2:41 |
 | 28 | [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 |
 | 29 | [Glossy](https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Glossy](https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp) | 2:31 |
-| 30 | [Nega Doce](https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Nega Doce](https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ) | 2:16 |
+| 30 | [Aquecimento](https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Aquecimento](https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw) | 2:03 |
 | 31 | [+18](https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Fração 3/4](https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh) | 2:38 |
 | 32 | [Taurus](https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [TAURUS/ ÚNICA](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 2:06 |
 | 33 | [Zero Buxixo](https://open.spotify.com/track/3cYgq3iE7oxCQV8KwiZZG9) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [G.a.B.o](https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR) | [SOU + EU](https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV) | 2:34 |
-| 34 | [Aquecimento](https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Aquecimento](https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw) | 2:03 |
+| 34 | [Nega Doce](https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Nega Doce](https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ) | 2:16 |
 | 35 | [Verdinha Criminosa](https://open.spotify.com/track/6WHReC5GArql7M1MC92DY4) | [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [Hugão](https://open.spotify.com/artist/4wFNtMpRn2TEzEXZG60iXY), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [Verdinha Criminosa](https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX) | 2:39 |
 | 36 | [Perfil \#89 \- Sapiência](https://open.spotify.com/track/5a1cIb0jtkhrNTLxQ8Hu2z) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Perfil \#89 \- Sapiência](https://open.spotify.com/album/0WSNvJv1ZQqqwa8CISl1tQ) | 3:52 |
 | 37 | [Faz Assim](https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Faz Assim](https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf) | 3:37 |

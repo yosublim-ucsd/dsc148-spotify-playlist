@@ -1,6 +1,6 @@
 {
   "description": "Chasing that runner's high",
-  "num_followers": 527333,
+  "num_followers": 527426,
   "original_name": "Running Club",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,26 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Lioness",
+        "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Niki & The Dove",
+          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
+        }
+      ],
+      "duration_ms": 172515,
+      "name": "Lioness",
+      "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
         "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 177291,
       "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Lioness",
-        "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Niki & The Dove",
-          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
-        }
-      ],
-      "duration_ms": 172515,
-      "name": "Lioness",
-      "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "My Oh My",
-        "url": "https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 156155,
-      "name": "My Oh My",
-      "url": "https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Still Sleepless",
         "url": "https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 162879,
       "name": "Still Sleepless",
       "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "My Oh My",
+        "url": "https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 156155,
+      "name": "My Oh My",
+      "url": "https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 158822,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Another Love (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 185365,
       "name": "Another Love - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 158822,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -799,6 +799,26 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Jamming (FISHER Rework)",
+        "url": "https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 201928,
+      "name": "Jamming - FISHER Rework",
+      "url": "https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Lighter",
         "url": "https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 172268,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Jamming (FISHER Rework)",
-        "url": "https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 201928,
-      "name": "Jamming - FISHER Rework",
-      "url": "https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "The Cruelest Summer",
-        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 192900,
-      "name": "Cruel Summer - LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Resonate (feat. Julia Church)",
         "url": "https://open.spotify.com/album/7r9LSib4rKpvAS9hTRt1QJ"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 241846,
       "name": "Resonate (feat. Julia Church)",
       "url": "https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "The Cruelest Summer",
+        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 192900,
+      "name": "Cruel Summer - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Right Here",
-        "url": "https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 179015,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Stay High",
         "url": "https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 188320,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 179015,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1383,22 +1383,42 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "What Took You So Long",
-        "url": "https://open.spotify.com/album/5BxLMz1DhF1yZNdeAlID3h"
+        "name": "It's That Time (FISHER Remix)",
+        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
         },
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
         }
       ],
-      "duration_ms": 211058,
-      "name": "What Took You So Long",
-      "url": "https://open.spotify.com/track/2YSWJU0HINhi24oH19ALo6"
+      "duration_ms": 171717,
+      "name": "It's That Time - FISHER Remix",
+      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1427,22 +1447,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "The Sound of Silence (CYRIL Remix)",
-        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
+        "name": "What Took You So Long",
+        "url": "https://open.spotify.com/album/5BxLMz1DhF1yZNdeAlID3h"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         }
       ],
-      "duration_ms": 185238,
-      "name": "The Sound of Silence - CYRIL Remix",
-      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
+      "duration_ms": 211058,
+      "name": "What Took You So Long",
+      "url": "https://open.spotify.com/track/2YSWJU0HINhi24oH19ALo6"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1463,26 +1483,6 @@
       "duration_ms": 213435,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "It's That Time (FISHER Remix)",
-        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 171717,
-      "name": "It's That Time - FISHER Remix",
-      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/0K1826JxL1dViQBsEKApN5"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "duration_ms": 196489,
+      "name": "17",
+      "url": "https://open.spotify.com/track/15DwFznkBJir7AK9PyMyRR"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 146692,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/0K1826JxL1dViQBsEKApN5"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        }
-      ],
-      "duration_ms": 196489,
-      "name": "17",
-      "url": "https://open.spotify.com/track/15DwFznkBJir7AK9PyMyRR"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "MAGIC",
-        "url": "https://open.spotify.com/album/48mGE9Z8VowqEVUHj3WN5H"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "babyidontlikeyou",
-          "url": "https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "MAGIC (feat. babyidontlikeyou)",
-      "url": "https://open.spotify.com/track/7pTC4natqyNBB0EBtdDeYi"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Turn off the Lights",
         "url": "https://open.spotify.com/album/132voEBLKSWmTV959PQuiC"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 208857,
       "name": "Turn off the Lights - Cages Remix",
       "url": "https://open.spotify.com/track/5JeBHduTGxXxytZFXBcIlB"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/48mGE9Z8VowqEVUHj3WN5H"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "babyidontlikeyou",
+          "url": "https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "MAGIC (feat. babyidontlikeyou)",
+      "url": "https://open.spotify.com/track/7pTC4natqyNBB0EBtdDeYi"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1903,26 +1903,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "LAST OF US (feat. Rita Ora)",
-        "url": "https://open.spotify.com/album/19wUjYvz97e0wXWHE41PSV"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "LAST OF US (feat. Rita Ora)",
-      "url": "https://open.spotify.com/track/2Mwmp4qVCe8CJcalsT4xm1"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Blood, Sweat & 3 Years",
         "url": "https://open.spotify.com/album/1TgJXcoFJ7BN0NiViN7wtx"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 206320,
       "name": "Take Me Home (feat. Bebe Rexha)",
       "url": "https://open.spotify.com/track/2zMXH5k5NZy1Nw460bLvRh"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "LAST OF US (feat. Rita Ora)",
+        "url": "https://open.spotify.com/album/19wUjYvz97e0wXWHE41PSV"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "LAST OF US (feat. Rita Ora)",
+      "url": "https://open.spotify.com/track/2Mwmp4qVCe8CJcalsT4xm1"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -2011,26 +2011,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Mess It Up (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/0L6IypGWr61krz90boqPDD"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 215370,
-      "name": "Mess It Up - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Rise (Sam Feldt Remix)",
         "url": "https://open.spotify.com/album/3SFLNyzF7aNhJuzkIAxHqg"
       },
@@ -2047,6 +2027,26 @@
       "duration_ms": 162540,
       "name": "Rise (Sam Feldt Remix)",
       "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Mess It Up (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/0L6IypGWr61krz90boqPDD"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 215370,
+      "name": "Mess It Up - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc"
     },
     {
       "added_at": "2024-06-21 04:00:00",

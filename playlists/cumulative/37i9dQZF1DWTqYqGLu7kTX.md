@@ -4,7 +4,7 @@
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-162 songs - 8 hr 17 min
+163 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [We Different](https://open.spotify.com/track/0NUFlsE6MRFRc0qJs2ljPB) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [We Different](https://open.spotify.com/album/2kgj5kqtOqe0xQ0sX3qt9e) | 2:25 | 2024-05-16 |  |
 | [WE ROLLIN](https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [WE ROLLIN](https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO) | 3:19 | 2024-04-10 |  |
 | [We Rollin](https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [We Rollin](https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf) | 3:19 | 2023-03-18 | 2024-04-19 |
+| [WHO THEY?](https://open.spotify.com/track/33FtExk8Vj24Zmxu0IPnRa) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Four Me](https://open.spotify.com/album/09LRfKybx7mDRlMtysHrcX) | 3:23 | 2024-07-03 |  |
 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 | 2024-05-16 |  |
 | [WYS](https://open.spotify.com/track/5GG8UKvp8FzRSM21DSNl5M) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [WHEN WE RIDE](https://open.spotify.com/album/2x1eisYz2DSHg76V6HkaH5) | 2:57 | 2024-03-04 |  |
 | [Ykwim](https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Ykwim](https://open.spotify.com/album/14XBYP5RcavbvSREiaQ17V) | 3:14 | 2023-03-18 |  |

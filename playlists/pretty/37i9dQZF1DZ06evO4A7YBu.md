@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4A7YBu.md) - [plain]
 
 > This Is Static\-X\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,969 likes - 48 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,982 likes - 48 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4A7YBu.md) - [plain]
 | 47 | [Stingwray](https://open.spotify.com/track/72PjxQajUSyOcUVBpQqXHz) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cult of Static](https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc) | 4:12 |
 | 48 | [Terminal](https://open.spotify.com/track/080foaXWDJpI51Mg8FZkfn) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cult of Static](https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc) | 3:37 |
 
-Snapshot ID: `ZoHxgAAAAAByc8/rTZHI0VU38g4+veJP`
+Snapshot ID: `ZoNDAAAAAADnj2/5eNR02pR4TZBykEYo`

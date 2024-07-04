@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 
 ### [This Is El Komander](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rL8w8)
 
-> This is El Komander\. The essential tracks, all in one playlist.
+> This Is El Komander\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,053 likes - 52 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,284 likes - 52 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 | 51 | [Soy de Parral \- En Vivo](https://open.spotify.com/track/6uYfaTJYYC0WCCLu9N3hCg) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Soy de Parral \(En Vivo\)](https://open.spotify.com/album/1sltaXWX0l13mpRxgm6MPy) | 3:14 |
 | 52 | [Un Frisian Llamado El Centenario \- En Vivo](https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mi Ranchito](https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs) | 4:30 |
 
-Snapshot ID: `ZoHxgAAAAACT/wTSUiWzN0YS/OTvZCoH`
+Snapshot ID: `ZoNDAAAAAACwknWzDGvBhubm0SB/h9BT`

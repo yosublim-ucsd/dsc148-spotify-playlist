@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era\. Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,941 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,957 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 33 | [Skedaddle](https://open.spotify.com/track/58cAdQzxl5avwnhYpJg8C7) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Skedaddle](https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO) | 2:30 |
 | 34 | [After Six](https://open.spotify.com/track/7F6qYyok4jAAabN9mDIVig) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd), [Santi](https://open.spotify.com/artist/4TksvAnPyPpUidSjaJQJL6) | [Leap of Faith](https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl) | 3:51 |
 | 35 | [LEANING](https://open.spotify.com/track/0WGjqLXOGnMWXG1fI40k6q) | [Joeyturks](https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL), [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc) | [LEANING](https://open.spotify.com/album/1JKwY9rq8E5f5eARL2JQXO) | 2:33 |
-| 36 | [Swing](https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Shorae Moore](https://open.spotify.com/artist/7oa259fCCMN3S80h0Vmxtp) | [Swing](https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F) | 2:54 |
+| 36 | [Magic](https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Magic](https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A) | 3:11 |
 | 37 | [Steal A Dime](https://open.spotify.com/track/3Znf3C6S38qnVfFKvmNQBP) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Suzie's Funeral](https://open.spotify.com/album/22WXPfyPwdYZKOa59009Cc) | 3:20 |
 | 38 | [Broken Promises](https://open.spotify.com/track/0Pt9qTpPhwNV8qmbYWYv4V) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Summer Breeze](https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR) | 3:11 |
-| 39 | [Magic](https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Magic](https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A) | 3:11 |
+| 39 | [Swing](https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Shorae Moore](https://open.spotify.com/artist/7oa259fCCMN3S80h0Vmxtp) | [Swing](https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F) | 2:54 |
 | 40 | [Desire \(feat\. Funbi & Tay Iwar\)](https://open.spotify.com/track/1MJJ9lXWKHjRdWxSk3BpTo) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Desire \(feat\. Funbi & Tay Iwar\)](https://open.spotify.com/album/4MHuKMcLChLqDdbLtwlmqm) | 4:05 |
-| 41 | [Catching a Wav](https://open.spotify.com/track/0sukMKZuyisx7MW4zESKRF) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Passionfruit Summers](https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt) | 3:15 |
-| 42 | [Breathing](https://open.spotify.com/track/70Vi4xM9hhWhby2TH2IsGg) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [First Signs Of Me](https://open.spotify.com/album/2vIJ06C2k4jqCL4jT5ckfo) | 3:49 |
+| 41 | [Breathing](https://open.spotify.com/track/70Vi4xM9hhWhby2TH2IsGg) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [First Signs Of Me](https://open.spotify.com/album/2vIJ06C2k4jqCL4jT5ckfo) | 3:49 |
+| 42 | [Catching a Wav](https://open.spotify.com/track/0sukMKZuyisx7MW4zESKRF) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Passionfruit Summers](https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt) | 3:15 |
 | 43 | [Maame Water](https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Maame Water](https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS) | 2:59 |
 | 44 | [MINISKIRT](https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [MINISKIRT](https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo) | 2:04 |
 | 45 | [My Wave](https://open.spotify.com/track/7FbmKPvnVKpyd45jDsRhlF) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sona](https://open.spotify.com/artist/2Z4SIKdYcugWq0fyvPpA7w), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Leap of Faith](https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl) | 4:19 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 55 | [On My Life](https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA) | [On My Life](https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ) | 2:05 |
 | 56 | [SPACE](https://open.spotify.com/track/2pdBq0lWsGjSiDP2T6NSZ0) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [GEMINI](https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul) | 3:13 |
 | 57 | [Wishes And Butterflies](https://open.spotify.com/track/2sqs1oaraOEEmHRyTFcKT5) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Love Is Contagious](https://open.spotify.com/album/5Wt03bPDbH9Z1C6MUUuNiV) | 1:24 |
-| 58 | [China Designer](https://open.spotify.com/track/67OocI3BccxEbDwPoJGwk0) | [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt) | [Lagos City Vice](https://open.spotify.com/album/4ogJSCLn5r8ShZZdAnlBj5) | 2:52 |
+| 58 | [Smooth Criminal](https://open.spotify.com/track/4hVnFwqGpRQJexdLoNwCFn) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Smooth Criminal](https://open.spotify.com/album/6xe7n9n6eqrZprj2d8QGNE) | 2:31 |
 | 59 | [Freaky](https://open.spotify.com/track/4l4GKn42jsZItX8FDdTet4) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Freaky](https://open.spotify.com/album/6Pu1lSXtiqJ06JbfpR9x8h) | 3:57 |
-| 60 | [Smooth Criminal](https://open.spotify.com/track/4hVnFwqGpRQJexdLoNwCFn) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Smooth Criminal](https://open.spotify.com/album/6xe7n9n6eqrZprj2d8QGNE) | 2:31 |
+| 60 | [China Designer](https://open.spotify.com/track/67OocI3BccxEbDwPoJGwk0) | [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt) | [Lagos City Vice](https://open.spotify.com/album/4ogJSCLn5r8ShZZdAnlBj5) | 2:52 |
 
 Snapshot ID: `ZnkYNQAAAABLTb40rnP9oNEhD1x4cCzv`

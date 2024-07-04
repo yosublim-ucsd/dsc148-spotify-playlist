@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-85 songs - 4 hr 37 min
+86 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Closer To God](https://open.spotify.com/track/6tEMQwdoXU7pkFwf4FjJjj) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 4:04 | 2024-06-07 |  |
 | [Code + Love Me Some More](https://open.spotify.com/track/3EErsWRNeSwUg6ffBgDXW3) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 3:46 | 2024-06-07 |  |
 | [Cold World](https://open.spotify.com/track/5srhxtnDZLyPGOca7pSjUw) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 3:06 | 2024-06-07 |  |
+| [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/track/5am1La9jOmHqtJR5ZneUxR) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [The Last One](https://open.spotify.com/album/26PpclJsqvQlP50d5XcLWp) | 3:24 | 2024-07-03 |  |
 | [Dance Scream](https://open.spotify.com/track/4Q1Rd72FnS8xWPg7tHaVDf) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:04 | 2024-06-07 |  |
 | [Days Come and Go](https://open.spotify.com/track/4Dk42ykoREkq82ny0mWZnU) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 4:17 | 2024-06-07 |  |
 | [December Back 2 June](https://open.spotify.com/track/05DCz0eIhcGAb6YpNiwdbv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Santa Baby](https://open.spotify.com/album/5ichhxPbZc7s1azvGRrNsO) | 2:43 | 2024-06-07 |  |

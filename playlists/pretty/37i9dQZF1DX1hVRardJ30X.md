@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Villano Antillano
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,235 likes - 61 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,248 likes - 61 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

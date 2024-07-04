@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,147 likes - 90 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,167 likes - 90 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 17 | [Dueña de Mi Alma](https://open.spotify.com/track/4X6W8eU2duqUHmSN1euAHY) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Dueña de Mi Alma](https://open.spotify.com/album/2STMKBpE4k24Q7y1Dk7pfa) | 4:09 |
 | 18 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 |
 | 19 | [Roja Boca](https://open.spotify.com/track/1361babwNajrOi2roMF78b) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Nocheros](https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n) | 4:13 |
-| 20 | [Cuando Llegue El Alba](https://open.spotify.com/track/3BTDGRUiGAf4aki71sVObH) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 4:02 |
+| 20 | [Hoy](https://open.spotify.com/track/5LwjcFrvqLcfa4ONEcDP3o) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [Gira](https://open.spotify.com/album/1VyygGuS90quhVk1uG01SM) | 3:45 |
 | 21 | [Anaranjado \- Mas Allá De La Ternura](https://open.spotify.com/track/6gSV038YhbtaZ5IXPSQpzk) | [Los Changos](https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71) | [Mas Alla De La Ternura](https://open.spotify.com/album/7bDXvo0f6646ayD4xSaeBc) | 4:12 |
 | 22 | [Folklore Romántico: Nada Tengo de Ti / Canción del Adiós / Dueña de Mi Alma / Zamba para Olvidarte](https://open.spotify.com/track/3YicOdQ4o9KZcyxY8bZWu5) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Folklore Romántico: Nada Tengo de Ti / Canción del Adiós / Dueña de Mi Alma / Zamba para Olvidarte](https://open.spotify.com/album/3MuAn8aG7ZvtCop2C8GH3G) | 7:55 |
 | 23 | [Eterno Amor](https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Eterno Amor](https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X) | 3:56 |
 | 24 | [Vuela una Lagrima](https://open.spotify.com/track/2qhnJ56sGfxNQuuG3QulPP) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Carnaval, Pasión del Norte](https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC) | 4:57 |
 | 25 | [Nuestro adiós](https://open.spotify.com/track/4L1JmLqESzxrvlgGCaNOOD) | [Canto 4](https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Nuestro adiós](https://open.spotify.com/album/1NaqaiCpHwCT21ZDxcFUks) | 4:08 |
 | 26 | [Te Pido En Agosto](https://open.spotify.com/track/39EGOt9hySCsyT0Bamt8v2) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [PACHAKUTI](https://open.spotify.com/album/5vSZkx2vIdCNH0IVndOHpi) | 3:36 |
-| 27 | [Hoy](https://open.spotify.com/track/5LwjcFrvqLcfa4ONEcDP3o) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [Gira](https://open.spotify.com/album/1VyygGuS90quhVk1uG01SM) | 3:45 |
+| 27 | [Cuando Llegue El Alba](https://open.spotify.com/track/3BTDGRUiGAf4aki71sVObH) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 4:02 |
 | 28 | [Si Pudiera](https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Si Pudiera](https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C) | 2:53 |
 | 29 | [El Punto Final](https://open.spotify.com/track/4YBxqpFfiPYkBUWEmupg7b) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [El Punto Final](https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF) | 3:33 |
 | 30 | [Nuestro Juramento](https://open.spotify.com/track/5u7V5Mgr9RGuNcJKVYLRlx) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [La Historia](https://open.spotify.com/album/55sN3ewoEyGxBfaJ5klMeb) | 3:17 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 32 | [Eterno Amor](https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Eterno Amor](https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y) | 3:10 |
 | 33 | [Tal Como Siento](https://open.spotify.com/track/1ubO0IhgfyLLsiLilCYryr) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Tal Como Siento](https://open.spotify.com/album/4RD7YJolJUp5VbNYGtawfn) | 4:00 |
 | 34 | [Sol Nocturno](https://open.spotify.com/track/4t38rSXR39gjVi5E7NwoLR) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Sol Nocturno, Pt\. 1](https://open.spotify.com/album/7i5RT2diSWPj2jX4G8iyoR) | 3:53 |
-| 35 | [Una Noche Más](https://open.spotify.com/track/5zkVIqB0REw19AXIl9rH2q) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Una Noche Más](https://open.spotify.com/album/55VoL4ZTESAMk4zl3lX9IH) | 3:25 |
-| 36 | [Devuélveme el Corazón](https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Devuélveme el Corazón](https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0) | 3:00 |
+| 35 | [Devuélveme el Corazón](https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Devuélveme el Corazón](https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0) | 3:00 |
+| 36 | [Una Noche Más](https://open.spotify.com/track/5zkVIqB0REw19AXIl9rH2q) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Una Noche Más](https://open.spotify.com/album/55VoL4ZTESAMk4zl3lX9IH) | 3:25 |
 | 37 | [Canción de Lejos](https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Renacer](https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR) | 3:49 |
 | 38 | [Hablan de Ti](https://open.spotify.com/track/4kXxLcxnzWUbpuRHI3gVH6) | [Copla alta](https://open.spotify.com/artist/60g9S4kJm1m9kbrt89H5CQ), [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Hablan de Ti](https://open.spotify.com/album/7gpv5WXgXoZlRpVso7o8yz) | 4:02 |
 | 39 | [Eterno Amor](https://open.spotify.com/track/1rlGQVfvXSSJteVJm2C6Ts) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg) | [Eterno Amor](https://open.spotify.com/album/5fw1AGfL8lCgbxBFD8aYrg) | 4:08 |

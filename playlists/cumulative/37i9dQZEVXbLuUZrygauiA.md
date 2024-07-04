@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-2,050 songs - 4 day 14 hr 24 min
+2,051 songs - 4 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/17cia5k4BpGVlyEfqrFH50) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:25 | 2023-11-21 | 2023-12-13 |
 | [Capuchas](https://open.spotify.com/track/2aKIZtzWNPRoDLkITdxGaB) | [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Capuchas](https://open.spotify.com/album/5g1hYqFTKyktDQ6YMAEJut) | 2:37 | 2024-02-20 | 2024-04-02 |
 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2022-08-14 | 2022-08-21 |
+| [Cara A La Muerte \(En Vivo\)](https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 4:42 | 2024-07-03 |  |
 | [Caramelo](https://open.spotify.com/track/6GWVIbKP4bHoiLLgeNJpIW) | [DJ Moiz](https://open.spotify.com/artist/5cjU6BX3PuLO7f510Fa65P) | [Caramelo](https://open.spotify.com/album/1vPTE7JzdMjgwSgogPtQhb) | 2:04 | 2023-01-13 | 2023-01-21 |
 | [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 | 2023-06-07 | 2023-06-19 |
 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 | 2024-02-27 | 2024-03-06 |
@@ -943,7 +944,7 @@
 | [LAGUNAS](https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:51 | 2023-07-18 | 2023-09-03 |
 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-07-01 | 2023-08-31 |
 | [Lamberto Quintero](https://open.spotify.com/track/5WQrCDled0Pl5dH70VfaZR) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora](https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM) | 3:02 | 2023-01-31 | 2024-02-06 |
-| [Lamentablemente](https://open.spotify.com/track/7GGESORWVDTZnQ8mUENimX) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:15 | 2024-06-18 |  |
+| [Lamentablemente](https://open.spotify.com/track/7GGESORWVDTZnQ8mUENimX) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:15 | 2024-06-18 | 2024-07-04 |
 | [LAS 12](https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [LAS 12](https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O) | 2:45 | 2022-07-24 | 2022-07-27 |
 | [Las Calaveras Salen de Su Tumba](https://open.spotify.com/track/4M8GWjD4XlSvfvBl6ndxoV) | [Felix Canales](https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx) | [Ronda Musical Infantil](https://open.spotify.com/album/0sJyrcUs0wpott1tvJvNXj) | 3:25 | 2022-11-02 | 2023-11-08 |
 | [Las Monjitas](https://open.spotify.com/track/4WHzTQhNyvVywnLMGDxJS9) | [Dj Monst3r5](https://open.spotify.com/artist/2DAs7dxh1jqGtGmK9DWeAe) | [Las Monjitas](https://open.spotify.com/album/2gREA945fGLw4VPLOX2ZnA) | 2:57 | 2023-10-30 | 2023-11-11 |

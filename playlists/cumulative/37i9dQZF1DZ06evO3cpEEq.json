@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 181120,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/2eWvmojw75d2yaPARaKj22"
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 239235,
       "name": "No Such Luck",
       "url": "https://open.spotify.com/track/4clwEaV42XK0F7x1fmUSaz"
@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Rain Fall",
       "url": "https://open.spotify.com/track/2YoaUpKgLpouPql0iD7UEl"
@@ -1208,6 +1208,28 @@
       "duration_ms": 227388,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/6gg3zxmKDhhGVc6ILgHi8y"
+    },
+    {
+      "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/54v7sRXJYPlOhY3brfdCyL"
+      },
+      "artists": [
+        {
+          "name": "Brad Butcher",
+          "url": "https://open.spotify.com/artist/10X5cQoX0Mkm9eMZcXsetC"
+        },
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258320,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/5cJROxX3DX3PzZI7SORzd0"
     },
     {
       "album": {
@@ -1266,7 +1288,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 223426,
       "name": "So Go On",
       "url": "https://open.spotify.com/track/3bEUhd1DWfzij3LGECFGni"
@@ -1620,7 +1642,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 223426,
       "name": "Time for a Change",
       "url": "https://open.spotify.com/track/2KSbySbhDmJw6kROu7oSb1"

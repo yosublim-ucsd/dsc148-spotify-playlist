@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,370 likes - 75 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,381 likes - 75 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 32 | [If You've Got the Money I've Got the Time](https://open.spotify.com/track/3jvNwwHkWjELV3QALVz47D) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [The Complete Columbia Recording Sessions, Vol\. 1 \- 1950\-1951](https://open.spotify.com/album/3bBneZqRXbTYHFcw0V9UB2) | 2:59 |
 | 33 | [Don't Be Cruel](https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:02 |
 | 34 | [They're Hanging Me Tonight](https://open.spotify.com/track/4G9f3VGp9wjE49JUfg3XtO) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:04 |
-| 35 | [A Dear John Letter](https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI) | [Jean Shepard](https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty), [Ferlin Husky](https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB) | [Honky Tonk Heroine: Classic Capitol Recordings 1952\-1964](https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM) | 2:37 |
-| 36 | [Cattle Call](https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs) | 2:43 |
+| 35 | [Cattle Call](https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs) | 2:43 |
+| 36 | [A Dear John Letter](https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI) | [Jean Shepard](https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty), [Ferlin Husky](https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB) | [Honky Tonk Heroine: Classic Capitol Recordings 1952\-1964](https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM) | 2:37 |
 | 37 | [My Special Angel](https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Bobby Helms Sings To My Special Angel](https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk) | 2:59 |
 | 38 | [Making Believe \- 1955 Single Version](https://open.spotify.com/track/5wh5VHVPTrcdBAIRwJvWV6) | [Kitty Wells](https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX) | [20th Century Masters: The Millennium Collection: Best of Kitty Wells](https://open.spotify.com/album/7f2LfXaJOt4tbhE564gTPW) | 2:53 |
 | 39 | [Young Love](https://open.spotify.com/track/7ow0KcdNRitEedvwQNTd6S) | [Sonny James](https://open.spotify.com/artist/0c08N8UlFjDaup9TNDaWxy) | [Capitol Collectors Series](https://open.spotify.com/album/0QSXhF0KcHeDOGY89JTtkr) | 2:32 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 50 | [Money Honey \- Remastered](https://open.spotify.com/track/1RLDhFignuYJaUyREhh1gM) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 2:14 |
 | 51 | [Send Me the Pillow You Dream On](https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg) | [Hank Locklin](https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq) | [Golden Hits](https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk) | 2:31 |
 | 52 | [Indian Love Call](https://open.spotify.com/track/0WrIaFPKeJtGr1SUeKuYH9) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [The Very Best Of Slim Whitman](https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl) | 3:10 |
-| 53 | [I Believe](https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Frankie Laine's Greatest Hits](https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD) | 2:10 |
-| 54 | [Four Walls](https://open.spotify.com/track/3qReTgtrLsZDISxor3lJW0) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:48 |
+| 53 | [Four Walls](https://open.spotify.com/track/3qReTgtrLsZDISxor3lJW0) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:48 |
+| 54 | [I Believe](https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Frankie Laine's Greatest Hits](https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD) | 2:10 |
 | 55 | [I Can't Stop Loving You](https://open.spotify.com/track/3mewJ611cPqPIk8EQDiA12) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 2:34 |
 | 56 | [Beautiful Lies](https://open.spotify.com/track/0TOnG6XkBU2Z9YBCCiRtMW) | [Jean Shepard](https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty) | [The Best Of Jean Shepard](https://open.spotify.com/album/18ClrNCJ8Y3yYbKhde22VB) | 2:50 |
 | 57 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 |

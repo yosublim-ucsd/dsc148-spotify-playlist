@@ -1,6 +1,6 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 1479,
+  "num_followers": 1528,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Wave001",
-        "url": "https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Glow",
-      "url": "https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "They Came Along",
         "url": "https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 357894,
       "name": "They Came Along",
       "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Wave001",
+        "url": "https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -357,22 +357,6 @@
       "url": "https://open.spotify.com/track/1o7GN5kATFdAUw1d8Uimba"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "EP 2",
-        "url": "https://open.spotify.com/album/63nEJyxKj0LvRo3BUWoRK4"
-      },
-      "artists": [
-        {
-          "name": "Only Emily",
-          "url": "https://open.spotify.com/artist/7zQJLySlh6khVpyF4W1IdT"
-        }
-      ],
-      "duration_ms": 170404,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA"
-    },
-    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "Slow Burn",
@@ -387,6 +371,22 @@
       "duration_ms": 216140,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/6uSNQLr7hNFCsRCY0C2WJ9"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "EP 2",
+        "url": "https://open.spotify.com/album/63nEJyxKj0LvRo3BUWoRK4"
+      },
+      "artists": [
+        {
+          "name": "Only Emily",
+          "url": "https://open.spotify.com/artist/7zQJLySlh6khVpyF4W1IdT"
+        }
+      ],
+      "duration_ms": 170404,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -471,26 +471,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "downstate (Ara Koufax Remix)",
-        "url": "https://open.spotify.com/album/6FmE1Ipm1ljBpRg3pNzaDI"
-      },
-      "artists": [
-        {
-          "name": "Jack Grace",
-          "url": "https://open.spotify.com/artist/4aj0Uc8eSN4NQPhLkFZSGB"
-        },
-        {
-          "name": "Ara Koufax",
-          "url": "https://open.spotify.com/artist/6DiOOEpE72LMevCgPUlNNO"
-        }
-      ],
-      "duration_ms": 278959,
-      "name": "downstate - Ara Koufax Remix",
-      "url": "https://open.spotify.com/track/4iYwaMVjH0E0QuSTWZlWg7"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Vallis Alps",
         "url": "https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 144000,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/3cbgUz3NTglWlY0tuzQiQO"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "downstate (Ara Koufax Remix)",
+        "url": "https://open.spotify.com/album/6FmE1Ipm1ljBpRg3pNzaDI"
+      },
+      "artists": [
+        {
+          "name": "Jack Grace",
+          "url": "https://open.spotify.com/artist/4aj0Uc8eSN4NQPhLkFZSGB"
+        },
+        {
+          "name": "Ara Koufax",
+          "url": "https://open.spotify.com/artist/6DiOOEpE72LMevCgPUlNNO"
+        }
+      ],
+      "duration_ms": 278959,
+      "name": "downstate - Ara Koufax Remix",
+      "url": "https://open.spotify.com/track/4iYwaMVjH0E0QuSTWZlWg7"
     },
     {
       "added_at": "2018-12-11 21:12:31",

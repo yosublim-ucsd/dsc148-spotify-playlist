@@ -1,6 +1,6 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 108461,
+  "num_followers": 108555,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "Amoureusement V\u00f4tre",
-        "url": "https://open.spotify.com/album/2F7LDeynUriBihPqWRgwQC"
-      },
-      "artists": [
-        {
-          "name": "Don Byas",
-          "url": "https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/3jaoAZieoSp9hOW6g84YnQ"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
         "name": "Easy Does It",
         "url": "https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 164066,
       "name": "Show Me The Way To Go Home",
       "url": "https://open.spotify.com/track/6BDZ7gY8WT9BaVQAljmuWM"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
+        "name": "Amoureusement V\u00f4tre",
+        "url": "https://open.spotify.com/album/2F7LDeynUriBihPqWRgwQC"
+      },
+      "artists": [
+        {
+          "name": "Don Byas",
+          "url": "https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/3jaoAZieoSp9hOW6g84YnQ"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "I Just Dropped By To Say Hello",
-        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "I Just Dropped By To Say Hello",
-      "url": "https://open.spotify.com/track/3zd5NKvdzT6HC6moiCI3Ol"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
         "name": "Sings The Blues",
         "url": "https://open.spotify.com/album/28T3uReFtvHdOo0rcztcxY"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "Oscar Peterson Plays The George Gershwin Song Book",
-        "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
+        "name": "I Just Dropped By To Say Hello",
+        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
       },
       "artists": [
         {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 168866,
-      "name": "It Ain't Necessarily So",
-      "url": "https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa"
+      "duration_ms": 245200,
+      "name": "I Just Dropped By To Say Hello",
+      "url": "https://open.spotify.com/track/3zd5NKvdzT6HC6moiCI3Ol"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -559,6 +543,22 @@
       "duration_ms": 174040,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
+        "name": "Oscar Peterson Plays The George Gershwin Song Book",
+        "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "It Ain't Necessarily So",
+      "url": "https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
+        "name": "I Just Dropped By To Say Hello",
+        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 250813,
+      "name": "Don't You Know I Care",
+      "url": "https://open.spotify.com/track/7Ldtha80cQeZf2TjPJe1OC"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
         "name": "Ben And \"Sweets\"",
         "url": "https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 231826,
       "name": "Love For Sale",
       "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
-        "name": "I Just Dropped By To Say Hello",
-        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 250813,
-      "name": "Don't You Know I Care",
-      "url": "https://open.spotify.com/track/7Ldtha80cQeZf2TjPJe1OC"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "Wailing With Lou",
-        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 413080,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
         "name": "Helen Merill",
         "url": "https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 360133,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/4GlQQ5hDC6HMnArUvrgva3"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
+        "name": "Wailing With Lou",
+        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 413080,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "Jazz 'Round Midnight",
-        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
-      },
-      "artists": [
-        {
-          "name": "The Ben Webster Quintet",
-          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
-        }
-      ],
-      "duration_ms": 258160,
-      "name": "Time On My Hands",
-      "url": "https://open.spotify.com/track/4xqIedpD7DajzLlyS9b7rl"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
         "name": "The Classic Lena Horne",
         "url": "https://open.spotify.com/album/2feDNzqIwyjntEmwEoqMfm"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 203973,
       "name": "How Long Has This Been Going On?",
       "url": "https://open.spotify.com/track/301Sxo2jTQH3CBRka9wEK1"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
+        "name": "Jazz 'Round Midnight",
+        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
+      },
+      "artists": [
+        {
+          "name": "The Ben Webster Quintet",
+          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
+        }
+      ],
+      "duration_ms": 258160,
+      "name": "Time On My Hands",
+      "url": "https://open.spotify.com/track/4xqIedpD7DajzLlyS9b7rl"
     },
     {
       "added_at": "2024-06-03 15:00:13",

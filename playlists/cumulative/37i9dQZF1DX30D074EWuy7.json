@@ -5292,7 +5292,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 325120,
       "name": "La Grandiosa (Main Theme)",
       "url": "https://open.spotify.com/track/5soxhq98p5qWHx3g7Iqyfn"
@@ -7828,6 +7828,24 @@
       "duration_ms": 347989,
       "name": "Preghiera libera",
       "url": "https://open.spotify.com/track/6lILT9lqOxLhE2VOC86hzN"
+    },
+    {
+      "album": {
+        "name": "QMQS / Cannel\u00e9",
+        "url": "https://open.spotify.com/album/0TYLIzitRWHPw1ELnpTpmJ"
+      },
+      "artists": [
+        {
+          "name": "Allez Kiki Fermentation",
+          "url": "https://open.spotify.com/artist/7M56nxBuga54hAus5FBZ9Q"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270081,
+      "name": "QMQS",
+      "url": "https://open.spotify.com/track/1bHf80TBUprSwpQzM2l4jd"
     },
     {
       "album": {

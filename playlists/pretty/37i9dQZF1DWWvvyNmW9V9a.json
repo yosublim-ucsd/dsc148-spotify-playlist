@@ -1,12 +1,12 @@
 {
   "description": "kisses to your exes\n\ud83d\udcf8 The Kid LAROI & Alix Earle",
-  "num_followers": 2172981,
+  "num_followers": 2173170,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoMQwgAAAAAFeoQh2oSLSWnzhm4JM6TX",
+  "snapshot_id": "ZoXUXQAAAACBdRoJFlgE3iZ3gdFdpNw4",
   "tracks": [
     {
       "added_at": "2024-06-28 04:00:00",
@@ -23,6 +23,26 @@
       "duration_ms": 152979,
       "name": "GIRLS",
       "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
+    },
+    {
+      "added_at": "2024-07-03 22:44:45",
+      "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 188828,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -107,6 +127,22 @@
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-07-03 22:44:45",
+      "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/0OY9cZ5lO1htGmLYC4eX4B"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 212734,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ"
     },
     {
       "added_at": "2024-07-01 17:54:09",
@@ -1573,22 +1609,6 @@
       "url": "https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV"
     },
     {
-      "added_at": "2024-05-07 01:08:27",
-      "album": {
-        "name": "Sacrifice Tomorrow",
-        "url": "https://open.spotify.com/album/0GVkcfu3pkAdakG3oIt5cu"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 145622,
-      "name": "Sacrifice Tomorrow",
-      "url": "https://open.spotify.com/track/5H4y5thHDJUAxwiclrSXc1"
-    },
-    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "The Older You Get",
@@ -1607,22 +1627,6 @@
     {
       "added_at": "2024-05-07 01:08:27",
       "album": {
-        "name": "IVE SWITCH",
-        "url": "https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 187853,
-      "name": "Blue Heart",
-      "url": "https://open.spotify.com/track/00wTgWOnpWPlTvFsAkZBme"
-    },
-    {
-      "added_at": "2024-05-07 01:08:27",
-      "album": {
         "name": "Bewitched: The Goddess Edition",
         "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
       },
@@ -1635,22 +1639,6 @@
       "duration_ms": 213213,
       "name": "Bored",
       "url": "https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5"
-    },
-    {
-      "added_at": "2024-05-07 01:08:27",
-      "album": {
-        "name": "Unwritten",
-        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Unwritten",
-      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
       "added_at": "2024-05-07 01:08:27",
@@ -1715,78 +1703,6 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
-    },
-    {
-      "added_at": "2024-05-07 01:08:27",
-      "album": {
-        "name": "Born To Die (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3TtsWmvFbChKTWIRfa85lS"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 281946,
-      "name": "Video Games",
-      "url": "https://open.spotify.com/track/1GNIYBU1XhMSlAxJXiUBbC"
-    },
-    {
-      "added_at": "2024-05-07 01:08:27",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2024-05-07 01:08:27",
-      "album": {
-        "name": "Jump",
-        "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 147071,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
-    },
-    {
-      "added_at": "2024-05-07 01:08:27",
-      "album": {
-        "name": "Feel It (From The Original Series \u201cInvincible\u201d)",
-        "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 157974,
-      "name": "Feel It - From The Original Series \u201cInvincible\u201d",
-      "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
     }
   ],
   "unique_name": "teen beats",

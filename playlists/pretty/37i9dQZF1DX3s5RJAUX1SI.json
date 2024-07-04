@@ -1,6 +1,6 @@
 {
   "description": "POV: t\u00e1 fresco y la sombra del fresnito pega bien sabroso.",
-  "num_followers": 140146,
+  "num_followers": 140272,
   "original_name": "qu\u00e9 agusticidad",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-03-27 19:11:15",
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
-    },
-    {
-      "added_at": "2024-03-27 19:11:15",
-      "album": {
         "name": "Joan Sebastian Con Mariachi",
         "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 211255,
       "name": "Tatuajes",
       "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
+    },
+    {
+      "added_at": "2024-03-27 19:11:15",
+      "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
     },
     {
       "added_at": "2024-03-27 19:11:15",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-03-27 19:11:15",
       "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 159172,
-      "name": "Eso Y M\u00e1s",
-      "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
-    },
-    {
-      "added_at": "2024-03-27 19:11:15",
-      "album": {
         "name": "Vuelvo Contigo",
         "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 161493,
       "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
       "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
+    },
+    {
+      "added_at": "2024-03-27 19:11:15",
+      "album": {
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 159172,
+      "name": "Eso Y M\u00e1s",
+      "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
     },
     {
       "added_at": "2024-03-27 19:11:15",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-03-27 19:11:15",
       "album": {
-        "name": "Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Hermoso Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
-    },
-    {
-      "added_at": "2024-03-27 19:11:15",
-      "album": {
         "name": "Secreto De Amor",
         "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 207586,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W"
+    },
+    {
+      "added_at": "2024-03-27 19:11:15",
+      "album": {
+        "name": "Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Hermoso Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
     },
     {
       "added_at": "2024-03-27 19:11:15",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-03-27 19:11:15",
       "album": {
-        "name": "Vueltas",
-        "url": "https://open.spotify.com/album/5pfCUQd8uhy68kQMyRsk34"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 159581,
-      "name": "Vueltas",
-      "url": "https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97"
-    },
-    {
-      "added_at": "2024-03-27 19:11:15",
-      "album": {
         "name": "Partido En Dos",
         "url": "https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 226003,
       "name": "Partido En Dos",
       "url": "https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX"
+    },
+    {
+      "added_at": "2024-03-27 19:11:15",
+      "album": {
+        "name": "Vueltas",
+        "url": "https://open.spotify.com/album/5pfCUQd8uhy68kQMyRsk34"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 159581,
+      "name": "Vueltas",
+      "url": "https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97"
     },
     {
       "added_at": "2024-03-27 19:11:15",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-03-27 19:11:15",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "So\u00f1ador Eterno",
-      "url": "https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj"
-    },
-    {
-      "added_at": "2024-03-27 19:11:15",
-      "album": {
         "name": "Dos Mundos - Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 188893,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB"
+    },
+    {
+      "added_at": "2024-03-27 19:11:15",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "So\u00f1ador Eterno",
+      "url": "https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj"
     },
     {
       "added_at": "2024-03-27 19:11:15",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-03-27 19:11:15",
       "album": {
+        "name": "Soy Todo Tuyo",
+        "url": "https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "Soy Todo Tuyo",
+      "url": "https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt"
+    },
+    {
+      "added_at": "2024-03-27 19:11:15",
+      "album": {
         "name": "Cobijas Ajenas",
         "url": "https://open.spotify.com/album/7t5fOkOrOvWdg2DUbkyD8M"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 160040,
       "name": "Cobijas Ajenas",
       "url": "https://open.spotify.com/track/2P06ws9H4jQNJm3Lbo3tZ4"
-    },
-    {
-      "added_at": "2024-03-27 19:11:15",
-      "album": {
-        "name": "Soy Todo Tuyo",
-        "url": "https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 187373,
-      "name": "Soy Todo Tuyo",
-      "url": "https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt"
     },
     {
       "added_at": "2024-03-27 19:11:15",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-03-27 19:11:15",
       "album": {
-        "name": "Exitos De Los Invasores De Nuevo Leon",
-        "url": "https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 166106,
-      "name": "Que No Se Apague La Lumbre",
-      "url": "https://open.spotify.com/track/4WLBbFY3jON97NHf7gh5OO"
-    },
-    {
-      "added_at": "2024-03-27 19:11:15",
-      "album": {
         "name": "\u00a1 Ora pues !",
         "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 130093,
       "name": "La basurita",
       "url": "https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3"
+    },
+    {
+      "added_at": "2024-03-27 19:11:15",
+      "album": {
+        "name": "Exitos De Los Invasores De Nuevo Leon",
+        "url": "https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 166106,
+      "name": "Que No Se Apague La Lumbre",
+      "url": "https://open.spotify.com/track/4WLBbFY3jON97NHf7gh5OO"
     },
     {
       "added_at": "2024-03-27 19:11:15",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-03-27 19:11:15",
       "album": {
+        "name": "Me Rindo",
+        "url": "https://open.spotify.com/album/5Jeg7MzgKFXenbJAcD64Hj"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 189493,
+      "name": "Esta Noche Tu Vendr\u00e1s",
+      "url": "https://open.spotify.com/track/2wHcALEBx39LP7ziwlHkSQ"
+    },
+    {
+      "added_at": "2024-03-27 19:11:15",
+      "album": {
         "name": "el taca taca ta (remix)",
         "url": "https://open.spotify.com/album/2OG8ON3G040SHedULEvXon"
       },
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2024-03-27 19:11:15",
       "album": {
-        "name": "Me Rindo",
-        "url": "https://open.spotify.com/album/5Jeg7MzgKFXenbJAcD64Hj"
+        "name": "Lucha Villa Y Aida",
+        "url": "https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
         }
       ],
-      "duration_ms": 189493,
-      "name": "Esta Noche Tu Vendr\u00e1s",
-      "url": "https://open.spotify.com/track/2wHcALEBx39LP7ziwlHkSQ"
+      "duration_ms": 184560,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/359vq12J0koGowGV9pxek4"
     },
     {
       "added_at": "2024-03-27 19:11:15",
@@ -1471,22 +1487,6 @@
       "duration_ms": 159773,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/626PlV22AI5wy01vG0JjZO"
-    },
-    {
-      "added_at": "2024-03-27 19:11:15",
-      "album": {
-        "name": "Lucha Villa Y Aida",
-        "url": "https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "Ya No Me Interesas",
-      "url": "https://open.spotify.com/track/359vq12J0koGowGV9pxek4"
     },
     {
       "added_at": "2024-03-27 19:11:15",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-03-27 19:11:15",
       "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 172466,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz"
+    },
+    {
+      "added_at": "2024-03-27 19:11:15",
+      "album": {
         "name": "Hermosa Tirana",
         "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
       },
@@ -1587,38 +1603,6 @@
     {
       "added_at": "2024-03-27 19:11:15",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n - Mexico (Disc 2)",
-        "url": "https://open.spotify.com/album/1XYrp5zF2JR45KOO83uJZj"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 155466,
-      "name": "Por Las Calles De Chihuahua - En Vivo",
-      "url": "https://open.spotify.com/track/6BYPMlys5yt6pJlYZIGRtU"
-    },
-    {
-      "added_at": "2024-03-27 19:11:15",
-      "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 172466,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz"
-    },
-    {
-      "added_at": "2024-03-27 19:11:15",
-      "album": {
         "name": "Que Seas Muy Feliz",
         "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 184000,
       "name": "T\u00fa a M\u00ed No Me Hundes",
       "url": "https://open.spotify.com/track/15uu7J5uhauYJ9hGtJ077N"
+    },
+    {
+      "added_at": "2024-03-27 19:11:15",
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n - Mexico (Disc 2)",
+        "url": "https://open.spotify.com/album/1XYrp5zF2JR45KOO83uJZj"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 155466,
+      "name": "Por Las Calles De Chihuahua - En Vivo",
+      "url": "https://open.spotify.com/track/6BYPMlys5yt6pJlYZIGRtU"
     },
     {
       "added_at": "2024-03-27 19:11:15",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-03-27 19:11:15",
       "album": {
-        "name": "En Este Amor",
-        "url": "https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "En Este Amor",
-      "url": "https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ"
-    },
-    {
-      "added_at": "2024-03-27 19:11:15",
-      "album": {
         "name": "Puros \u00c9xitos",
         "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
       },
@@ -1715,18 +1699,18 @@
     {
       "added_at": "2024-03-27 19:11:15",
       "album": {
-        "name": "El Charro de M\u00e9xico",
-        "url": "https://open.spotify.com/album/4O87qGykYzHA5dk9PjLJnm"
+        "name": "En Este Amor",
+        "url": "https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
         }
       ],
-      "duration_ms": 194218,
-      "name": "El Aventurero (Yo El Aventurero)",
-      "url": "https://open.spotify.com/track/4v0CTkZMtlTrFSjNaD4Y27"
+      "duration_ms": 166920,
+      "name": "En Este Amor",
+      "url": "https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ"
     },
     {
       "added_at": "2024-03-27 19:11:15",
@@ -1763,22 +1747,18 @@
     {
       "added_at": "2024-03-27 19:11:15",
       "album": {
-        "name": "The One (Pero No Como Yo)",
-        "url": "https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX"
+        "name": "El Charro de M\u00e9xico",
+        "url": "https://open.spotify.com/album/4O87qGykYzHA5dk9PjLJnm"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 176800,
-      "name": "The One (Pero No Como Yo)",
-      "url": "https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq"
+      "duration_ms": 194218,
+      "name": "El Aventurero (Yo El Aventurero)",
+      "url": "https://open.spotify.com/track/4v0CTkZMtlTrFSjNaD4Y27"
     },
     {
       "added_at": "2024-03-27 19:11:15",
@@ -1795,6 +1775,26 @@
       "duration_ms": 233293,
       "name": "Una L\u00e1grima (Una Lacrima)",
       "url": "https://open.spotify.com/track/4aUsqDkhFNG0IADV9SkaSY"
+    },
+    {
+      "added_at": "2024-03-27 19:11:15",
+      "album": {
+        "name": "The One (Pero No Como Yo)",
+        "url": "https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "The One (Pero No Como Yo)",
+      "url": "https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq"
     },
     {
       "added_at": "2024-03-27 19:11:15",

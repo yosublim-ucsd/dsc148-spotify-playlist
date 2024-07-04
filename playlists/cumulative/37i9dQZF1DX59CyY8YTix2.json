@@ -2172,7 +2172,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 281892,
       "name": "Bye-Bye Show",
       "url": "https://open.spotify.com/track/7pBLnIBcAqIQ2NHVvJeNfA"
@@ -25548,6 +25548,24 @@
       "duration_ms": 185096,
       "name": "\u65b0\u8ff7\u5bae",
       "url": "https://open.spotify.com/track/5pto8srVXclIjXNlS7tyFB"
+    },
+    {
+      "album": {
+        "name": "\u65e5\u3081\u304f\u308a",
+        "url": "https://open.spotify.com/album/2jkkq1aokB7b34getZR22S"
+      },
+      "artists": [
+        {
+          "name": "Tota",
+          "url": "https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233613,
+      "name": "\u65e5\u3081\u304f\u308a",
+      "url": "https://open.spotify.com/track/4Nd1y0aG03EDeGfQCK3xYI"
     },
     {
       "album": {

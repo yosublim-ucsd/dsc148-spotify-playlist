@@ -2582,7 +2582,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 210744,
       "name": "Ben Sarho\u015f Oldum",
       "url": "https://open.spotify.com/track/4ObQ5sbaP5PDCSfv1y6RdT"
@@ -3172,7 +3172,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 204320,
       "name": "Bir Derdim Var",
       "url": "https://open.spotify.com/track/5UV2oqgMXvlkOvvtK3aT7f"
@@ -3238,6 +3238,24 @@
       "duration_ms": 173750,
       "name": "Bir Karanfil",
       "url": "https://open.spotify.com/track/0a56Y5XrlRQ0JYg6jse5QJ"
+    },
+    {
+      "album": {
+        "name": "Bir Oluruz Yolunda",
+        "url": "https://open.spotify.com/album/0gmJnEgzHmgAiRE85r2Dpu"
+      },
+      "artists": [
+        {
+          "name": "Tarkan",
+          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256470,
+      "name": "Bir Oluruz Yolunda - Version 1",
+      "url": "https://open.spotify.com/track/4gAB2dr4FfTUVgJooEoFVe"
     },
     {
       "album": {
@@ -4306,7 +4324,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 118104,
       "name": "Dale Don Dale",
       "url": "https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd"
@@ -4378,7 +4396,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 114887,
       "name": "Dale Don Dale",
       "url": "https://open.spotify.com/track/12emtTdD2N7bGcS11Z1yKs"
@@ -8896,7 +8914,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 250312,
       "name": "\u0130ltimas",
       "url": "https://open.spotify.com/track/7lSoTs5NGAzCoWXSV794K4"
@@ -14756,7 +14774,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 220360,
       "name": "Sen Evlisin",
       "url": "https://open.spotify.com/track/6Q0LyWaNDsLi6KefnEKAMd"
@@ -17562,7 +17580,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 236281,
       "name": "Yasak A\u015fk",
       "url": "https://open.spotify.com/track/5g03DMw2vWRGmffMijz9zL"

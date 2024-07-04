@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0urPQk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0urPQk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0urPQk)
 
-### [This Is 水樹奈々](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk)
+### [This Is Nana Mizuki](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk)
 
-> This is 水樹奈々\. The essential tracks, all in one playlist.
+> This is Nana Mizuki\. The essential tracks, all in one playlist.
 
 109 songs - 7 hr 41 min
 
@@ -18,7 +18,7 @@
 | [DAYBREAKERS](https://open.spotify.com/track/5JRD23S0aSND1Aeuz5FIYH) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CANNONBALL RUNNING](https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8) | 4:20 | 2023-06-10 |  |
 | [Destiny's Prelude](https://open.spotify.com/track/0NVnQPyOowdP1euP7rslKx) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 5:02 | 2022-08-16 | 2022-08-18 |
 | [DISCOTHEQUE](https://open.spotify.com/track/4i9D1GN4xtGXiYRgx7mfl9) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 3:59 | 2022-06-09 |  |
-| [DNA \-Dance 'n' Amuse\-](https://open.spotify.com/track/5N63S5oVtO9yECKuekiTGr) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 3:37 | 2022-07-09 |  |
+| [DNA \-Dance 'n' Amuse\-](https://open.spotify.com/track/5N63S5oVtO9yECKuekiTGr) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 3:37 | 2022-07-09 | 2024-07-04 |
 | [Don't be long](https://open.spotify.com/track/3uQ060lAf4KKnf0F2yp7OE) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [PHANTOM MINDS](https://open.spotify.com/album/0notlbwCGBJGTAW7jxdv4d) | 4:36 | 2022-06-09 | 2023-07-23 |
 | [ETERNAL BLAZE](https://open.spotify.com/track/6FghEVkOL58IWEkRFqfKks) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [HYBRID UNIVERSE](https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk) | 5:07 | 2022-06-09 |  |
 | [Exterminate](https://open.spotify.com/track/335ebz0kyT8Y8uVQxFsKGM) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Exterminate](https://open.spotify.com/album/5eyRVLUSNzYmLwoX2rKZ1e) | 4:02 | 2022-08-14 | 2022-12-30 |
@@ -78,7 +78,7 @@
 | [sympathy](https://open.spotify.com/track/3mbnIQdoRv6fmObdReIPKm) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ADRENALIZED](https://open.spotify.com/album/5YJyrGRr8FE3IRZdaTG94T) | 3:20 | 2024-04-26 |  |
 | [Synchrogazer](https://open.spotify.com/track/69QNXJNXFddfmzcz0mDB6m) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 4:27 | 2022-06-09 |  |
 | [Synchrogazer\-Aufwachen Form\-](https://open.spotify.com/track/1lmfLQ7e8m2lp3kgeGepxM) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ROCKBOUND NEIGHBORS](https://open.spotify.com/album/3tXxl7ZKlCSfAMWr2AhMeP) | 5:21 | 2023-02-05 |  |
-| [Take a shot](https://open.spotify.com/track/79wJSBmb8e3wRR8j9znvk0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ALIVE&KICKING](https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i) | 4:10 | 2022-06-09 | 2024-07-03 |
+| [Take a shot](https://open.spotify.com/track/79wJSBmb8e3wRR8j9znvk0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ALIVE&KICKING](https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i) | 4:10 | 2022-06-09 |  |
 | [Tears' Night](https://open.spotify.com/track/4nThEOVRP7V6B2Mmok9K6x) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ALIVE&KICKING](https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i) | 5:06 | 2022-06-09 | 2022-07-11 |
 | [TESTAMENT](https://open.spotify.com/track/2QSZ2xvqALjTBqZfKxsMeI) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [TESTAMENT](https://open.spotify.com/album/1eHKjExL0WvsYvrO9yHa4K) | 3:58 | 2022-06-09 |  |
 | [Trinity Cross](https://open.spotify.com/track/1fDNrXuIKfZ2PhIKcbbwa3) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Trickster](https://open.spotify.com/album/7euTCgG5nFnrb0JKsNnvvq) | 4:26 | 2022-06-11 | 2024-06-26 |

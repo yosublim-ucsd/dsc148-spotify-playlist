@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299 likes - 87 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 298 likes - 87 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 13 | [Rich & Famous \(with Isac Elliot\)](https://open.spotify.com/track/5zjesnnX1y2PkYKNZl5Jl0) | [SJUR](https://open.spotify.com/artist/1X6dfPmF8f5C5EW3WIGfvm), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Rich & Famous \(with Isac Elliot\)](https://open.spotify.com/album/1nweWemA1ePOimotW8RWZD) | 2:43 |
 | 14 | [love is just a word](https://open.spotify.com/track/5ozaEo4KGNnJgdzChs7FQi) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [love is just a word](https://open.spotify.com/album/6c7hlhcoeifiXU0NlHTPhg) | 3:46 |
 | 15 | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg) | 2:23 |
-| 16 | [Lying That You Love Me](https://open.spotify.com/track/5uzVktek96iav42umOw4eL) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Lying That You Love Me](https://open.spotify.com/album/6Cr3ivBN5B2K8RGuICgywg) | 3:45 |
-| 17 | [At Your Worst](https://open.spotify.com/track/6IYIPVF7RZQUEbVVs47xqw) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [At Your Worst](https://open.spotify.com/album/0dhaQArDYjNo5woJGbXaYU) | 2:47 |
+| 16 | [At Your Worst](https://open.spotify.com/track/6IYIPVF7RZQUEbVVs47xqw) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [At Your Worst](https://open.spotify.com/album/0dhaQArDYjNo5woJGbXaYU) | 2:47 |
+| 17 | [Lying That You Love Me](https://open.spotify.com/track/5uzVktek96iav42umOw4eL) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Lying That You Love Me](https://open.spotify.com/album/6Cr3ivBN5B2K8RGuICgywg) | 3:45 |
 | 18 | [I'll Be Back \(feat\. ROOKIES\)](https://open.spotify.com/track/13IpuP7UrDLJo7LaJIf68Z) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [ROOKIES](https://open.spotify.com/artist/0JvtoI1m1MFbXukBpztHK8) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 2:37 |
 | 19 | [Say Something](https://open.spotify.com/track/24rLBEqQCaNCRMwDWRaebk) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [One Day At A Time](https://open.spotify.com/album/2S3HfZLtg6KQ6czD3lyfBH) | 3:53 |
 | 20 | [No Patience \(feat\. Polo G & NoCap\)](https://open.spotify.com/track/6spzNS1pF4rrq0JoVMC7ox) | [CashMoneyAP](https://open.spotify.com/artist/0vMv24BXeZOK8l3S5SMLri), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [No Patience \(feat\. Polo G & NoCap\)](https://open.spotify.com/album/3HWxjClfIXepZSThnKThq2) | 2:48 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 86 | [All I Care About Is You](https://open.spotify.com/track/1rcEuqhEEc8GPbfNpxujBL) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Have a Good Time All the Time](https://open.spotify.com/album/3XxiTHnlXW5uWW4I6P3D90) | 3:02 |
 | 87 | [Still Breathing](https://open.spotify.com/track/45Vv22j4BeBa7mmKiWSNoM) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/087LvnihJ9pst9AzEn0Iz0) | 3:23 |
 
-Snapshot ID: `AbVplQAAAACwtAmbTwbTPRI6FfHvHjNr`
+Snapshot ID: `AbVvNQAAAAC+/bLzIiwItc4zPd/p7Way`

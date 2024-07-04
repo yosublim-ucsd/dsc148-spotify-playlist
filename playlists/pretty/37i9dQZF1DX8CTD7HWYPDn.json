@@ -1,6 +1,6 @@
 {
   "description": "Tu karaoke personal para darlo todo cantando.",
-  "num_followers": 1713712,
+  "num_followers": 1713639,
   "original_name": "Karaoke 2024",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 295893,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "Viva La Vida or Death and All His Friends",
         "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 295893,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -163,6 +163,22 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 197706,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 294573,
-      "name": "Bad Romance",
-      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 294573,
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "I Love Rock 'N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "I Love Rock 'N Roll",
-      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "First Band On The Moon (Remastered)",
         "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 193953,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "I Love Rock 'N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "I Love Rock 'N Roll",
+      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "Urban Hymns (Remastered 2016)",
-        "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
-      },
-      "artists": [
-        {
-          "name": "The Verve",
-          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
-        }
-      ],
-      "duration_ms": 357266,
-      "name": "Bitter Sweet Symphony - Remastered 2016",
-      "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 245040,
       "name": "Titanium (feat. Sia)",
       "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "Urban Hymns (Remastered 2016)",
+        "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
+      },
+      "artists": [
+        {
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+        }
+      ],
+      "duration_ms": 357266,
+      "name": "Bitter Sweet Symphony - Remastered 2016",
+      "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 352160,
-      "name": "En El Muelle de San Blas",
-      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "A Little Bit of Mambo",
         "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 220293,
       "name": "Mambo No. 5 (a Little Bit of...)",
       "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 352160,
+      "name": "En El Muelle de San Blas",
+      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "Along Came Jones",
-        "url": "https://open.spotify.com/album/15rjWnMzpMTz2wJ67NzJRR"
-      },
-      "artists": [
-        {
-          "name": "Tom Jones",
-          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
-        }
-      ],
-      "duration_ms": 119800,
-      "name": "It's Not Unusual",
-      "url": "https://open.spotify.com/track/3TlIt0ReIxPsVZcOEivT5U"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
       },
@@ -1179,22 +1163,6 @@
       "duration_ms": 226706,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
-        "name": "At The Close Of A Century",
-        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 262240,
-      "name": "I Just Called To Say I Love You",
-      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -1215,18 +1183,34 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
+        "name": "Along Came Jones",
+        "url": "https://open.spotify.com/album/15rjWnMzpMTz2wJ67NzJRR"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
         }
       ],
-      "duration_ms": 225146,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx"
+      "duration_ms": 119800,
+      "name": "It's Not Unusual",
+      "url": "https://open.spotify.com/track/3TlIt0ReIxPsVZcOEivT5U"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "I Just Called To Say I Love You",
+      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -1247,6 +1231,22 @@
       "duration_ms": 212893,
       "name": "La Tortura (feat. Alejandro Sanz)",
       "url": "https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 310813,
-      "name": "Clavado en Un Bar",
-      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "Day & Age (Bonus Tracks)",
         "url": "https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 245373,
       "name": "Human",
       "url": "https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 310813,
+      "name": "Clavado en Un Bar",
+      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "News Of The World (2011 Remaster)",
-        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "We Are The Champions - Remastered 2011",
-      "url": "https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "Fast Five (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 198386,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/4sCSUQnWQ6HJsOMjfPicdn"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "News Of The World (2011 Remaster)",
+        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "We Are The Champions - Remastered 2011",
+      "url": "https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -2203,6 +2203,22 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
+        "name": "The Best Of Don McLean",
+        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "duration_ms": 515866,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
         "name": "Live!",
         "url": "https://open.spotify.com/album/5mvQHYARofQRsOE2cqBzik"
       },
@@ -2231,22 +2247,6 @@
       "duration_ms": 292400,
       "name": "Don't Worry Be Happy",
       "url": "https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
-        "name": "The Best Of Don McLean",
-        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 515866,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "2000 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw"
-      },
-      "artists": [
-        {
-          "name": "Chocolate",
-          "url": "https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn"
-        }
-      ],
-      "duration_ms": 231080,
-      "name": "Mayonesa",
-      "url": "https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "Bonito",
         "url": "https://open.spotify.com/album/2Hv4CIt50qRTakHeBsTpNf"
       },
@@ -2359,22 +2343,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i"
-      },
-      "artists": [
-        {
-          "name": "Des'ree",
-          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/5LGqFIVBf3ZUeFBpc87CFS"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "P\u00e1jaros En La Cabeza",
         "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
       },
@@ -2387,6 +2355,38 @@
       "duration_ms": 223186,
       "name": "Marta, Sebas, Guille y los dem\u00e1s",
       "url": "https://open.spotify.com/track/30ddpolNHwXlrS5XO8MiiO"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "2000 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw"
+      },
+      "artists": [
+        {
+          "name": "Chocolate",
+          "url": "https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn"
+        }
+      ],
+      "duration_ms": 231080,
+      "name": "Mayonesa",
+      "url": "https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i"
+      },
+      "artists": [
+        {
+          "name": "Des'ree",
+          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/5LGqFIVBf3ZUeFBpc87CFS"
     },
     {
       "added_at": "2024-02-09 16:39:41",

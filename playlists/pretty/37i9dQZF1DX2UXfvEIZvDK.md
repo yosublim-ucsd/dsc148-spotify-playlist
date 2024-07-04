@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 
 > Even rockers need a break.
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,006 likes - 80 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,122 likes - 80 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,17 +26,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 16 | [What It's Like](https://open.spotify.com/track/6vUPPEN2V2lZ78b6DyEIjZ) | [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [Whitey Ford Sings the Blues](https://open.spotify.com/album/4ebpJ41hnGAIBZ8Cwua250) | 5:03 |
 | 17 | [I Miss You](https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:47 |
 | 18 | [If I Had A Gun…](https://open.spotify.com/track/4i4ArYpqtsA3MJ1k0o2dxq) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/album/4g2nrjzWOuEtZHtiBZrf1U) | 4:09 |
-| 19 | [Just Breathe](https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 3:35 |
-| 20 | [Comfortably Numb \- 2011 Remastered Version](https://open.spotify.com/track/7Fg4jpwpkdkGCvq1rrXnvx) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall \(Remastered\)](https://open.spotify.com/album/6WaIQHxEHtZL0RZ62AuY0g) | 6:19 |
-| 21 | [Make It Wit Chu](https://open.spotify.com/track/6GyDY0yE47rfk8pcuKhioh) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Era Vulgaris](https://open.spotify.com/album/1w71aBHYJ1zTOsSsmr2Fca) | 4:50 |
-| 22 | [It's Been Awhile](https://open.spotify.com/track/1BExV8JprNJLvLeDE9qdEW) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE) | 4:24 |
+| 19 | [Comfortably Numb \- 2011 Remastered Version](https://open.spotify.com/track/7Fg4jpwpkdkGCvq1rrXnvx) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall \(Remastered\)](https://open.spotify.com/album/6WaIQHxEHtZL0RZ62AuY0g) | 6:19 |
+| 20 | [Just Breathe](https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 3:35 |
+| 21 | [It's Been Awhile](https://open.spotify.com/track/1BExV8JprNJLvLeDE9qdEW) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE) | 4:24 |
+| 22 | [Make It Wit Chu](https://open.spotify.com/track/6GyDY0yE47rfk8pcuKhioh) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Era Vulgaris](https://open.spotify.com/album/1w71aBHYJ1zTOsSsmr2Fca) | 4:50 |
 | 23 | [Big Me](https://open.spotify.com/track/6pb5BBnIM5IM7R1cqag6rE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 2:12 |
 | 24 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 |
 | 25 | [ONE MORE TIME](https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:28 |
 | 26 | [Roulette](https://open.spotify.com/track/4sM7v7wyRAuV6ZTO2dvnCA) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Steal This Album!](https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT) | 3:21 |
 | 27 | [Bandito](https://open.spotify.com/track/5INKIG4QNuD4xq7qZcfPzp) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 5:30 |
-| 28 | [Wreckage](https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:00 |
-| 29 | [My Friends](https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [One Hot Minute \(Deluxe Edition\)](https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi) | 4:08 |
+| 28 | [My Friends](https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [One Hot Minute \(Deluxe Edition\)](https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi) | 4:08 |
+| 29 | [Wreckage](https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:00 |
 | 30 | [Polly](https://open.spotify.com/track/2SJ38LDlkNjwWSUq98r4Q5) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 2:53 |
 | 31 | [Unintended](https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 3:57 |
 | 32 | [in the dark](https://open.spotify.com/track/4swVflM7KtMxzfHBWqPv9S) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 4:31 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 46 | [Space](https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 3:55 |
 | 47 | [Immortality \- Remastered](https://open.spotify.com/track/5TxUedy2CM04QihDdOFnsk) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 5:18 |
 | 48 | [Conversation Piece](https://open.spotify.com/track/6qV3OEpN6uFCZnzNSslbn1) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 4:59 |
-| 49 | [Hey Julie](https://open.spotify.com/track/2LGAbm0xHNu7scBDVCkFwN) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 2:36 |
-| 50 | [All In One Night](https://open.spotify.com/track/5JZdu2fK7qvJgg0DfVmJe5) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Scream Above the Sounds \(Deluxe Edition\)](https://open.spotify.com/album/3BiwYdv0OQRdCFB4OqUMiI) | 5:17 |
+| 49 | [All In One Night](https://open.spotify.com/track/5JZdu2fK7qvJgg0DfVmJe5) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Scream Above the Sounds \(Deluxe Edition\)](https://open.spotify.com/album/3BiwYdv0OQRdCFB4OqUMiI) | 5:17 |
+| 50 | [Hey Julie](https://open.spotify.com/track/2LGAbm0xHNu7scBDVCkFwN) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 2:36 |
 | 51 | [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 |
 | 52 | [Miss You Love](https://open.spotify.com/track/7Bz8EMztiuSJeHIjrBw7pw) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/75viR4DrKJUIH7wFvQ7PbB) | 4:00 |
 | 53 | [Fickle Game](https://open.spotify.com/track/0iGxTqrBqr9F5PM0a39xZU) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [For A Moment, I Was Lost](https://open.spotify.com/album/0oY3tTEWLMF2x0pXbST0wn) | 4:23 |

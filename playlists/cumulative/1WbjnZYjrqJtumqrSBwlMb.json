@@ -4555,6 +4555,42 @@
     },
     {
       "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250546,
+      "name": "Everlong",
+      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250906,
+      "name": "Everlong - Acoustic Version",
+      "url": "https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D"
+    },
+    {
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
       },

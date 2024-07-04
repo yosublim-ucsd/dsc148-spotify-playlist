@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-371 songs - 21 hr 31 min
+372 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [La Fortuna \(feat\. Tommy Torres\)](https://open.spotify.com/track/6TKdsVl3GeAJrcuTGbvUzq) | [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Libre](https://open.spotify.com/album/6j0sCAm0cmrq0sPpcjttjn) | 3:28 | 2022-08-05 | 2024-04-19 |
 | [La Peninsula](https://open.spotify.com/track/5OtvhDI7MTXUNJD4bd4RhZ) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Carita Feliz](https://open.spotify.com/album/6UJu3BPFmTGvzclsV8k4bI) | 3:00 | 2022-12-30 |  |
 | [La Sanadora](https://open.spotify.com/track/0GxzmQ5sE5Uq50LkQB3DO4) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [La Sanadora](https://open.spotify.com/album/4OvtUIqRsuqKFKRWABUTCy) | 4:27 | 2022-04-07 | 2022-04-19 |
+| [La Vaca Mariposa](https://open.spotify.com/track/0qxGNoCPsxPFudABEtEmwk) | [Criollas](https://open.spotify.com/artist/5Bcy0y4rVtSr1EAzd9f5aV), [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [Criollas](https://open.spotify.com/album/3jwD6OLJSduWXUljAw1Zr0) | 3:46 | 2024-07-04 |  |
 | [Las Mujeres](https://open.spotify.com/track/4ptFkLzF301C97kaA3xizH) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Sublime](https://open.spotify.com/album/7rdezKlUOq26Dypydp5p9y) | 3:30 | 2021-12-09 |  |
 | [Libre](https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh) | [Libre](https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd) | 4:39 | 2023-03-15 |  |
 | [Libro Abierto](https://open.spotify.com/track/4NCxiDoRQGgBW5Ja0FHIiC) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Libro Abierto](https://open.spotify.com/album/3uA0bh0VM1Qu2dcwt2ZmsV) | 3:03 | 2021-12-09 |  |
@@ -348,7 +349,7 @@
 | [Té De Tila](https://open.spotify.com/track/3JRbCOgf5piyZMppyg3hA4) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [Tiempo Compartido](https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a) | 3:22 | 2021-12-09 |  |
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2021-12-09 | 2022-10-28 |
 | [Tú Con Él](https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Canciones del Alma](https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi) | 3:25 | 2021-12-09 | 2022-03-22 |
-| [Tú Me Dijíste Que Venías](https://open.spotify.com/track/1HGuh9bVVWEaPhPvQ5woRm) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J) | [Tú Me Dijíste Que Venías](https://open.spotify.com/album/4AgWVLq6Yh25oqreliWR23) | 2:37 | 2021-12-09 |  |
+| [Tú Me Dijíste Que Venías](https://open.spotify.com/track/1HGuh9bVVWEaPhPvQ5woRm) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J) | [Tú Me Dijíste Que Venías](https://open.spotify.com/album/4AgWVLq6Yh25oqreliWR23) | 2:37 | 2021-12-09 | 2024-07-04 |
 | [Un Amor Violento](https://open.spotify.com/track/5boCZfOIDyELEfYoD94fky) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Un Amor Violento](https://open.spotify.com/album/1oKMUZGbpNkXrMYd2UJ2NU) | 4:49 | 2022-04-07 | 2022-10-28 |
 | [Un Beso Más \- Versión Acústica](https://open.spotify.com/track/7dS19L0dDQwgWJfAgT4xZG) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Un Beso Más \(Versión Acústica\)](https://open.spotify.com/album/6GMLQCfFP8LAkMu5gmb15l) | 3:18 | 2021-12-09 |  |
 | [Un Cariñito](https://open.spotify.com/track/2gzjpDzWlfAcazV5WNz9z6) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Un Cariñito](https://open.spotify.com/album/1lAFc7CVkN6tec14ZR6Z8x) | 3:03 | 2021-12-09 | 2022-07-29 |

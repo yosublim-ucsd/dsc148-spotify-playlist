@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,730 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,712 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,16 +83,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 73 | [Bonita](https://open.spotify.com/track/2QANwesrL6NgJdkt1i2Lqi) | [Winnie Wey!](https://open.spotify.com/artist/1nLg6gDxjMxnL9FkOpTCLo) | [Bonita](https://open.spotify.com/album/0IIxLxcu2rAEj0sd7UTFoq) | 2:33 |
 | 74 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 |
 | 75 | [pero qué cosa](https://open.spotify.com/track/3lIPnDNKdk3NJzRa6EJRlc) | [Fer](https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J) | [pero qué cosa](https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr) | 2:45 |
-| 76 | [¿Quién Se Va?](https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [¿Quién Se Va?](https://open.spotify.com/album/6A0s3zsUdYyn4kdeFpTsed) | 3:07 |
-| 77 | [Me Haces Muy Bien \- Acústico](https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Me Haces Muy Bien \(Acústico\)](https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP) | 3:25 |
+| 76 | [Me Haces Muy Bien \- Acústico](https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Me Haces Muy Bien \(Acústico\)](https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP) | 3:25 |
+| 77 | [¿Quién Se Va?](https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [¿Quién Se Va?](https://open.spotify.com/album/6A0s3zsUdYyn4kdeFpTsed) | 3:07 |
 | 78 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 |
 | 79 | [Nunca Te Olvido](https://open.spotify.com/track/3XXZerYu2j34Z7eUh56F6K) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH), [Lulú Bulos](https://open.spotify.com/artist/3GnE3KJ3V1YO5IhindQrkj) | [Byebye Sayonara, Nunca Sabrás Que Esto Fue para Ti](https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56) | 3:51 |
 | 80 | [Idiota](https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Idiota](https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT) | 2:59 |
 | 81 | [Tqm](https://open.spotify.com/track/1vLoNyIDBKikOd8jNMAEOs) | [CoolestAndie](https://open.spotify.com/artist/2TBvQNXLncWIE3ZcuRHSUr) | [Tqm](https://open.spotify.com/album/46iWmNM0KiEGVCR1crEO6Q) | 3:36 |
 | 82 | [Mapas](https://open.spotify.com/track/5ArTOxzJNOk9ysWwbhAuro) | [Planetario](https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga) | [La Próxima Tormenta](https://open.spotify.com/album/1EfzoqrguBOQMd0hBjHghg) | 4:20 |
 | 83 | [Otros Colores](https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Otros Colores](https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS) | 5:51 |
-| 84 | [Amá](https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [Amá](https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ) | 2:56 |
-| 85 | [Ni Modo](https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Ni Modo](https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX) | 3:05 |
+| 84 | [Ni Modo](https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Ni Modo](https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX) | 3:05 |
+| 85 | [Amá](https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [Amá](https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ) | 2:56 |
 | 86 | [Olvidarme](https://open.spotify.com/track/52XioIzucenybSvvimJ1hk) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Olvidarme](https://open.spotify.com/album/6T1ZAoP7VkeDbdKwlwI1q1) | 2:51 |
 | 87 | [Te Lo Debo Contar](https://open.spotify.com/track/6kyqvHEWqcSlWObg2bQj6M) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Te Lo Debo Contar](https://open.spotify.com/album/7M0XwGUaqijknK9V82ci5Q) | 3:56 |
 | 88 | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/track/6DL3askn1pOCp6Ch2imE74) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/album/4u1QVmlGWpPJUq1n3PaEWd) | 3:50 |

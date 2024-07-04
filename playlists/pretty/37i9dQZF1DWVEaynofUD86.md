@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEaynofUD86.md) - [plain]
 
 > It's not summer without you\. Listen to the music from and inspired by The Summer I Turned Pretty, new season now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,404 likes - 163 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,661 likes - 163 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEaynofUD86.md) - [plain]
 | 121 | [Drunk Belly Spills the Beans](https://open.spotify.com/track/72ToYflDKW2dujjqW4vaig) | [Zachary Dawes](https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5) | [The Summer I Turned Pretty: Season 1 \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/5uAzefaTa85YBHL6N5u2O1) | 0:54 |
 | 122 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 |
 | 123 | [False God](https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:20 |
-| 124 | [It Will Stand \- 2002 Remaster](https://open.spotify.com/track/3ln9brkScMKIE9MsPirzLb) | [The Showmen](https://open.spotify.com/artist/31w23Dr0NHugbNF2TQe6xz) | [Finger Poppin' And Stompin' Feet: 20 Classic Allen Toussaint Productions For Minit Records 1960\-1962 \(Remastered\)](https://open.spotify.com/album/1ig0uPnSa1pB67M6TsI8Cg) | 2:22 |
+| 124 | [It Will Stand \- 2002 Remaster](https://open.spotify.com/track/3ln9brkScMKIE9MsPirzLb) | [The Showmen](https://open.spotify.com/artist/31w23Dr0NHugbNF2TQe6xz) | [Finger Poppin' And Stompin' Feet: 20 Classic Allen Toussaint Productions For Minit Records 1960\-1962 \(2002 Remaster\)](https://open.spotify.com/album/1ig0uPnSa1pB67M6TsI8Cg) | 2:22 |
 | 125 | [So Pretty](https://open.spotify.com/track/6O4wYK3K6aOw2wQOEVrlWn) | [Reyanna Maria](https://open.spotify.com/artist/7kRrkUEPgO3TRfAi7Gsw2i) | [So Pretty](https://open.spotify.com/album/2inukbOQxpcdVttCN22TIr) | 1:25 |
 | 126 | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 |
 | 127 | [Malibu](https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk) | 3:11 |

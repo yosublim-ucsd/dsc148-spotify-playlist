@@ -4,10 +4,11 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Beatsteaks
 
-100 songs - 5 hr 42 min
+101 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Fool's Parade](https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [A Fool's Parade](https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h) | 3:42 | 2024-06-27 |  |
 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 | 2024-06-27 |  |
 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 | 2024-06-27 |  |
 | [Afterglow](https://open.spotify.com/track/0WDlEgbYPtcxUn4CKoI0uU) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Ghost Code](https://open.spotify.com/album/1hgZ1sL86pnlCmAdyNSdvT) | 3:38 | 2024-06-27 |  |
@@ -106,7 +107,7 @@
 | [We Made It Look Easy](https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Forever](https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW) | 3:15 | 2024-06-27 |  |
 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 | 2024-06-27 |  |
 | [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 | 2024-06-27 |  |
-| [Wish It On You \(with AViVA\)](https://open.spotify.com/track/7EEYYb0EbA7EcAL2c9NZXe) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Wish It On You \(with AViVA\)](https://open.spotify.com/album/3LqyfZlkmSjxgdBLqQrpZS) | 3:25 | 2024-06-27 |  |
+| [Wish It On You \(with AViVA\)](https://open.spotify.com/track/7EEYYb0EbA7EcAL2c9NZXe) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Wish It On You \(with AViVA\)](https://open.spotify.com/album/3LqyfZlkmSjxgdBLqQrpZS) | 3:25 | 2024-06-27 | 2024-07-04 |
 | [Wreckage](https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Wreckage](https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN) | 5:00 | 2024-06-27 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

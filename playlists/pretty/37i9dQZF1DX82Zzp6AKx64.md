@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these rock power ballads\. Cover: Tina Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,174,601 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,174,707 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 32 | [I'd Do Anything For Love \(But I Won't Do That\) \- Single Edit](https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell II: Back Into Hell](https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z) | 5:16 |
 | 33 | [I Live My Life for You](https://open.spotify.com/track/47RAxX2yfiZWmsNKLvjQON) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Good Acoustics](https://open.spotify.com/album/58YDbRSyKuN0hUAPBS7Ywv) | 4:21 |
 | 34 | [Close My Eyes Forever](https://open.spotify.com/track/43thLwzSasUUZEYjYPeJh3) | [Lita Ford](https://open.spotify.com/artist/77tBvvyd6SD4Y9Um1xcbxP), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Lita](https://open.spotify.com/album/5nfd1bXqze24U3EZXP1Qlk) | 4:43 |
-| 35 | [High Enough](https://open.spotify.com/track/5t5rCnsgRBtcKqTB7SbD1Q) | [Damn Yankees](https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq) | [Damn Yankees](https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX) | 4:47 |
-| 36 | [Heaven](https://open.spotify.com/track/2dEgwtRjYl6TJkIwjRwn6z) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 3:56 |
+| 35 | [Heaven](https://open.spotify.com/track/2dEgwtRjYl6TJkIwjRwn6z) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 3:56 |
+| 36 | [High Enough](https://open.spotify.com/track/5t5rCnsgRBtcKqTB7SbD1Q) | [Damn Yankees](https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq) | [Damn Yankees](https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX) | 4:47 |
 | 37 | [You're All I Need](https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Mane Attraction](https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb) | 4:25 |
 | 38 | [Love of a Lifetime \(2024 Remaster\)](https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Firehouse \(2024 Remaster\)](https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T) | 4:45 |
 | 39 | [Silent Lucidity \- Remastered 2003](https://open.spotify.com/track/6OSyCAmXT4Gkd3OQ2aPOaF) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Empire \- 20th Anniversary Edition](https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow) | 5:47 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 54 | [The Search Is Over](https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Vital Signs](https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD) | 4:12 |
 | 55 | [What You Give](https://open.spotify.com/track/6XKLX2SOAdS0ZDQK2PbZKn) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [Psychotic Supper](https://open.spotify.com/album/0JHYpUoXnAHGdd6rE9nrLY) | 7:15 |
 | 56 | [Empty Rooms](https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Run For Cover](https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI) | 4:17 |
-| 57 | [I'll Be There For You](https://open.spotify.com/track/67YIAxlMlfSNmbnt83zGKh) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey](https://open.spotify.com/album/7CNtnpBoG1lsUBWwpnJjwv) | 5:46 |
-| 58 | [More Than Words Can Say](https://open.spotify.com/track/1EB3Z38oKDKVp4K2yEO2dl) | [Alias](https://open.spotify.com/artist/07jJQhIBd8ZqVUdgiwPqdQ) | [Alias](https://open.spotify.com/album/2almhUpe1eEbKQiRT1BlPF) | 3:54 |
+| 57 | [More Than Words Can Say](https://open.spotify.com/track/1EB3Z38oKDKVp4K2yEO2dl) | [Alias](https://open.spotify.com/artist/07jJQhIBd8ZqVUdgiwPqdQ) | [Alias](https://open.spotify.com/album/2almhUpe1eEbKQiRT1BlPF) | 3:54 |
+| 58 | [I'll Be There For You](https://open.spotify.com/track/67YIAxlMlfSNmbnt83zGKh) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey](https://open.spotify.com/album/7CNtnpBoG1lsUBWwpnJjwv) | 5:46 |
 | 59 | [Can't Stop Lovin' You](https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Balance](https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3) | 4:07 |
 | 60 | [Love Is on the Way](https://open.spotify.com/track/3F3n2V9XBrtb1omqLfcNPe) | [Saigon Kick](https://open.spotify.com/artist/1Qt3QdA0ZoOoeWfrJzA12d) | [The Lizard](https://open.spotify.com/album/0nZIjKvxpkli74fs827sAJ) | 4:24 |
 | 61 | [Sleeping \(In The Fire\)](https://open.spotify.com/track/6uBO5ou5gJy8kDBUZrK9nR) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:55 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 64 | [Sometimes She Cries](https://open.spotify.com/track/0m5RdyFFcOKhut3sGkeWHG) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:43 |
 | 65 | [Screaming in the Night](https://open.spotify.com/track/25suYHVUwWFTG6G31kuhZH) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Head Hunter](https://open.spotify.com/album/1QTVIHunxbQf1dT4fXH9DO) | 6:37 |
 | 66 | [When It's Love](https://open.spotify.com/track/2rxePraWVAXyZRHVW1ICss) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [OU812](https://open.spotify.com/album/1rnKiZALdvi91F0fepxBUe) | 5:39 |
-| 67 | [Sister Christian](https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Boogie Nights / Music From The Original Motion Picture](https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U) | 5:00 |
-| 68 | [Life Goes On \- 2003 Remaster](https://open.spotify.com/track/2OWKsyrgUINadOG21dR0Fh) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 4:47 |
+| 67 | [Life Goes On \- 2003 Remaster](https://open.spotify.com/track/2OWKsyrgUINadOG21dR0Fh) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 4:47 |
+| 68 | [Sister Christian](https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Boogie Nights / Music From The Original Motion Picture](https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U) | 5:00 |
 | 69 | [If You Needed Somebody](https://open.spotify.com/track/6GaFUMG9opnMytdc0lwnQw) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Holy Water](https://open.spotify.com/album/30ts0TMRhxu4usurOw99cE) | 4:21 |
 | 70 | [Where You Goin' Now](https://open.spotify.com/track/3jaRUUaJUvS57h1DyVzUUX) | [Damn Yankees](https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq) | [Don't Tread](https://open.spotify.com/album/6UyUf2nDnmV2CR36zgThs8) | 4:39 |
 | 71 | [Wait](https://open.spotify.com/track/63IItP7504rQwYgZqmsznL) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:00 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 96 | [Love Is A Killer](https://open.spotify.com/track/2ZMO4x1D3aeXP1ISozKOnU) | [Vixen](https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY) | [Rev It Up!](https://open.spotify.com/album/3ojiLMvJpANQKvzSO7Jhuj) | 4:43 |
 | 97 | [Forever Free](https://open.spotify.com/track/2q8D48dCoOJHo4hSm6n1T1) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [The Headless Children](https://open.spotify.com/album/73tznjCvNu9tDQW5jcrglq) | 5:08 |
 | 98 | [Paradise](https://open.spotify.com/track/48lLr0blWNLIl6hPoF3Ex1) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [The Great Radio Controversy](https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM) | 4:58 |
-| 99 | [Love Kills \- Remastered](https://open.spotify.com/track/23DpTSrlyQCkjG8qChwWX6) | [Vinnie Vincent Invasion](https://open.spotify.com/artist/3ZUP9QmHAppM2vfpknkvIF) | [All Systems Go](https://open.spotify.com/album/2hC1EgtvHDbtb3XhIsvTFH) | 4:38 |
+| 99 | [Love Kills \- Remastered 2003](https://open.spotify.com/track/23DpTSrlyQCkjG8qChwWX6) | [Vinnie Vincent Invasion](https://open.spotify.com/artist/3ZUP9QmHAppM2vfpknkvIF) | [All Systems Go \(Remastered 2003\)](https://open.spotify.com/album/2hC1EgtvHDbtb3XhIsvTFH) | 4:38 |
 | 100 | [Don't Close Your Eyes](https://open.spotify.com/track/0r0yw4tbNQSauuWXw0dFwM) | [Kix](https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu) | [Don't Close Your Eyes](https://open.spotify.com/album/4fSPG8KKZbarAMWvPB5JqA) | 4:12 |
 
 Snapshot ID: `Znt7fgAAAACs5uU8X8/qq7ZoaHGmjK/B`

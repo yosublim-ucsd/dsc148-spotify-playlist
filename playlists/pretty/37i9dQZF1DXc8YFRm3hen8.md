@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 
 > La banda de sonido de tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,279 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,297 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 47 | [Magia Blanca](https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:21 |
 | 48 | [Reyes de la Noche](https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Toro Rojo](https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO) | 4:10 |
 | 49 | [Chino](https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Espíritu](https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm) | 3:22 |
-| 50 | [Descontrolado](https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 2:54 |
-| 51 | [El Riesgo](https://open.spotify.com/track/7E6ljIUVDjlka1cNGnVg1F) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Devorando Intensidad](https://open.spotify.com/album/16ycW7h7bErtyFt9CI5BN8) | 4:28 |
+| 50 | [El Riesgo](https://open.spotify.com/track/7E6ljIUVDjlka1cNGnVg1F) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Devorando Intensidad](https://open.spotify.com/album/16ycW7h7bErtyFt9CI5BN8) | 4:28 |
+| 51 | [Descontrolado](https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 2:54 |
 | 52 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 |
 | 53 | [Volver a Casa](https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:03 |
 | 54 | [Rezo por Vos](https://open.spotify.com/track/6dOzqs6o4DNzXs4jF2v1Yq) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Parte De La Religion](https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9) | 4:29 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 72 | [Se Me Hizo Tarde](https://open.spotify.com/track/5iCQLeTVLauWAM3N0shr4P) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [La Dirección](https://open.spotify.com/album/3ittbXmzKeMVioLZ6aepfD) | 3:57 |
 | 73 | [Cheques](https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg) | [Spinetta Y Los Socios Del Desierto](https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi) | [Spinetta y los Socios del Desierto](https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt) | 4:03 |
 | 74 | [Tráeme la Noche \(Bring on the Night\) \(with Andy Summers\)](https://open.spotify.com/track/0wMditvMpFP9aYzW3kDWnw) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Andy Summers](https://open.spotify.com/artist/3rHBApuFwaJy65f7vWQJLr) | [Tráeme la Noche \(Bring on the Night\) \(with Andy Summers\)](https://open.spotify.com/album/01hyoIUPxigjnhfreQOecH) | 4:43 |
-| 75 | [Los Salieris De Charly](https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Mensajes Del Alma](https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE) | 6:02 |
-| 76 | [Sólo por Hoy \(Chica Oriental\)](https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [El Costado Izquierdo](https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe) | 4:03 |
+| 75 | [Sólo por Hoy \(Chica Oriental\)](https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [El Costado Izquierdo](https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe) | 4:03 |
+| 76 | [Los Salieris De Charly](https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Mensajes Del Alma](https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE) | 6:02 |
 | 77 | [El Gallo Rojo](https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [El Gallo Rojo](https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH) | 2:35 |
 | 78 | [Los chicos](https://open.spotify.com/track/6UdCeS92BsXBNoITIxVqdi) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [La lengua popular](https://open.spotify.com/album/5MQ7xWpg5tP0uebwdcdyYk) | 3:11 |
 | 79 | [La Ladrona](https://open.spotify.com/track/1Gyfg0uusL0jDRllWpwM72) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [La Ladrona](https://open.spotify.com/album/6xr5n3aPVt5KuerSkh86C5) | 3:19 |

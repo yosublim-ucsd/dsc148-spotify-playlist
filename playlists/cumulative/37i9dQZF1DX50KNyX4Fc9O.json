@@ -19230,10 +19230,28 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 147020,
       "name": "Turn it up",
       "url": "https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5"
+    },
+    {
+      "album": {
+        "name": "Two Friends",
+        "url": "https://open.spotify.com/album/3AyO9wJl2IB3PRZSX2Mogs"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186506,
+      "name": "Two Friends",
+      "url": "https://open.spotify.com/track/7KqNayeKNptUTwqL57uvBd"
     },
     {
       "album": {

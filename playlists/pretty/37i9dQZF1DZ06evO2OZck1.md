@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 
 ### [This Is ATARASHII GAKKO!](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2OZck1)
 
-> This is ATARASHII GAKKO!\. The essential tracks, all in one playlist.
+> This Is ATARASHII GAKKO!\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,437 likes - 43 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,465 likes - 43 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 | 42 | [toumei boy](https://open.spotify.com/track/53LYWoukChENAf3hkdZS2X) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [wakage ga itaru](https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi) | 4:24 |
 | 43 | [toumeigirl\(H ZETT M edit ver.\)](https://open.spotify.com/track/3sDxPtEjs8pIuAecinyCjN) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 4:19 |
 
-Snapshot ID: `ZoHxgAAAAAAFeDS2ZPBVUi1fZUzqFnw2`
+Snapshot ID: `ZoNDAAAAAADjoSiGswQHj8+3ecCukFcY`

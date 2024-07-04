@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 16492,
+  "num_followers": 16502,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAABBB0OPgq2TAam4EsK20F+D",
+  "snapshot_id": "ZoNDAAAAAABmpsv9pk+ibW2xq3Lg7cUL",
   "tracks": [
     {
       "added_at": null,
@@ -267,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nonsense (Remix)",
-        "url": "https://open.spotify.com/album/1jTN0ud3pW7ATr45S1CdpL"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 175648,
-      "name": "Nonsense (with Coi Leray) - Remix",
-      "url": "https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Sleep? (Deluxe)",
         "url": "https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 162386,
       "name": "Upnow (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Now or Never",
+        "url": "https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 208822,
+      "name": "Slide (with Gunna)",
+      "url": "https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Come Back",
+        "url": "https://open.spotify.com/album/6J7wuzk1peBKgaohiSCuN6"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Can't Come Back",
+      "url": "https://open.spotify.com/track/4iB93144GBYUfBuNmIkoCX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everything BoZ (feat. Coi Leray) [Slowed Down]",
         "url": "https://open.spotify.com/album/4wT8Av6zot8E7bb9vtWnre"
       },
@@ -527,58 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Come Back",
-        "url": "https://open.spotify.com/album/6J7wuzk1peBKgaohiSCuN6"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Can't Come Back",
-      "url": "https://open.spotify.com/track/4iB93144GBYUfBuNmIkoCX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BIG PURR (Prrdd)",
-        "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 116760,
-      "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
-      "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 110826,
-      "name": "Get Loud",
-      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mixed Emotions",
         "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
       },
@@ -595,6 +559,22 @@
       "duration_ms": 195464,
       "name": "Hate Me (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 110826,
+      "name": "Get Loud",
+      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
     },
     {
       "added_at": null,
@@ -631,6 +611,22 @@
       "duration_ms": 135133,
       "name": "Fly Sh!t",
       "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lemon Cars",
+        "url": "https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "We Time",
+      "url": "https://open.spotify.com/track/1LR9G0wTclqlagmp8Q3RHN"
     },
     {
       "added_at": null,
@@ -679,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dennis Daughter",
         "url": "https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe"
       },
@@ -719,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wasted",
         "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
       },
@@ -731,22 +727,6 @@
       "duration_ms": 157800,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lemon Cars",
-        "url": "https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "We Time",
-      "url": "https://open.spotify.com/track/1LR9G0wTclqlagmp8Q3RHN"
     },
     {
       "added_at": null,
@@ -891,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run It Up",
-        "url": "https://open.spotify.com/album/0sTMa5g20KXJCg3t0Z0jay"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 168013,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/4mlOPLhMCZ6muAwQbQRvgx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The One (Sprite Limelight)",
         "url": "https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV"
       },
@@ -939,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Involved",
-        "url": "https://open.spotify.com/album/2UL9j77BeQLGS9IMoh5SUv"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "Involved",
-      "url": "https://open.spotify.com/track/4Zj2W1HdImJ9mN779m9jHt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COI",
         "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
@@ -971,6 +919,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slime Language 2",
+        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
+      },
+      "artists": [
+        {
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "name": "Karlae",
+          "url": "https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 189813,
+      "name": "I Like (feat. Karlae & Coi Leray)",
+      "url": "https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lemon Cars",
         "url": "https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm"
       },
@@ -983,6 +955,50 @@
       "duration_ms": 177230,
       "name": "Poster Girl",
       "url": "https://open.spotify.com/track/5EUIAKpcGL0CS9O0Tx3sl4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What U Want",
+        "url": "https://open.spotify.com/album/2dHNueuBm0PuI5gF5J5Ubh"
+      },
+      "artists": [
+        {
+          "name": "Lil Xxel",
+          "url": "https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 224038,
+      "name": "What U Want",
+      "url": "https://open.spotify.com/track/4wOyrbNG5eEv5ZF5oVqHtX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PAIN?",
+        "url": "https://open.spotify.com/album/3thS5m3xP8MgMarJwi9IAD"
+      },
+      "artists": [
+        {
+          "name": "Wifisfuneral",
+          "url": "https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 159354,
+      "name": "Lost In Time (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/3jjiozyhDFsR4Rolx5bppS"
     }
   ],
   "unique_name": "This Is Coi Leray",

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai 🍹 and festoon yourself with lei 🌺, welcome to the Hawaiian party! 🌴🥭🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,657 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,667 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lujon](https://open.spotify.com/track/3hGgNSkBGcbdYTIcCa12pt) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Mr\. Lucky + Mr\. Lucky Goes Latin](https://open.spotify.com/album/51wBh15iTsmho1Td2jRONc) | 2:38 |
 | 2 | [The Enchanted Sea](https://open.spotify.com/track/5EJ9MfO86fEG7ICjhciyd1) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [The Enchanted Sea](https://open.spotify.com/album/5GkmwrmDAeNW83ZCmcLKom) | 2:01 |
 | 3 | [Tiny Bubbles](https://open.spotify.com/track/5xQLjEHGibyfh8YkAtMuWx) | [Don Ho](https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL) | [Tiny Bubbles](https://open.spotify.com/album/12jlS1kFwsM3EP6PrKYj9y) | 2:42 |
-| 4 | [Alika \- Digitally Remastered 1996](https://open.spotify.com/track/49Zp8RpkMIHa0Pf7A1kcce) | [Webley Edwards](https://open.spotify.com/artist/7zRuASTSFAwiC9wo3moUnS) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 2:28 |
-| 5 | [A Man And A Woman \- Remastered](https://open.spotify.com/track/5VwssP9QyvfoKLt9FkI0aR) | [Sir Julian Gould](https://open.spotify.com/artist/4gj1oBNysZZ7lb6sqnRivp) | [Ultra\-Lounge: Organs In Orbit](https://open.spotify.com/album/3g94MSXd9bCi28DBn0SqCU) | 2:32 |
+| 4 | [A Man And A Woman \- Remastered](https://open.spotify.com/track/5VwssP9QyvfoKLt9FkI0aR) | [Sir Julian Gould](https://open.spotify.com/artist/4gj1oBNysZZ7lb6sqnRivp) | [Ultra\-Lounge: Organs In Orbit](https://open.spotify.com/album/3g94MSXd9bCi28DBn0SqCU) | 2:32 |
+| 5 | [Alika \- Digitally Remastered 1996](https://open.spotify.com/track/49Zp8RpkMIHa0Pf7A1kcce) | [Webley Edwards](https://open.spotify.com/artist/7zRuASTSFAwiC9wo3moUnS) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 2:28 |
 | 6 | [Serenade to Nalani](https://open.spotify.com/track/3YEMdmxkrM7XQKxexD9oK9) | [Jerry Byrd](https://open.spotify.com/artist/5PGYCViqsPlum357lDLBpm) | [Hawaiian Style Guitars](https://open.spotify.com/album/0AgeEriHiY3FsJe8ufUMWb) | 2:52 |
 | 7 | [Sunset on the Kona Kai](https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu) | [The Tikiyaki Orchestra](https://open.spotify.com/artist/7kJPKUUnHCennOOEBxjidx) | [Swingin' sounds for the Jungle Jetset !](https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc) | 3:40 |
 | 8 | [Alika](https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R) | [Genoa Keawe](https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy) | [Hana Hou! Vol\. 1](https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt) | 4:36 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 20 | [Enchantment](https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA) | [Robert Drasnin](https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4) | [Voodoo!](https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892) | 2:45 |
 | 21 | [Pua Lililehua](https://open.spotify.com/track/6MhpbidfJC315rJJcPaluW) | [Hui Ohana](https://open.spotify.com/artist/7vDfRi57oGVgERsAO16cZ1), [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K), [Nedward Ka'apana](https://open.spotify.com/artist/3ltZsnKXs9TkOCL4fhFMhR), [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX) | [Young Hawaii Plays Old Hawaii](https://open.spotify.com/album/73EtyWy6eklV217lXyE89J) | 4:17 |
 | 22 | [Melancholy Serenade \- Remastered](https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP) | [King Curtis](https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ) | [Ultra\-Lounge / Bachelor Pad Royale Volume Four](https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI) | 2:08 |
-| 23 | [Latin\-Esque](https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Latin\-Esque](https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq) | 3:06 |
-| 24 | [Lepe Ula'ula](https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159) | [Na Palapalai](https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e) | [Makani Olu'olu](https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB) | 2:43 |
+| 23 | [Lepe Ula'ula](https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159) | [Na Palapalai](https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e) | [Makani Olu'olu](https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB) | 2:43 |
+| 24 | [Latin\-Esque](https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Latin\-Esque](https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq) | 3:06 |
 | 25 | [Hawaiian War Chant](https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Quiet Village](https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74) | 2:18 |
 | 26 | [Terry's Theme \(From "Limelight\)](https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle) | [The Three Suns](https://open.spotify.com/artist/6SOQrmfK6SFNQgl1krQrNc) | [On A Magic Carpet](https://open.spotify.com/album/6kx51Uus6xYrzcO7unJAqJ) | 3:18 |
 | 27 | [Hana Maui \- Digitally Remastered 1995](https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2) | [Chick Floyd](https://open.spotify.com/artist/404efVa1buWrjEeOfQKGdN) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 3:16 |

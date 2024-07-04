@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 
 > Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,063 likes - 150 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,157 likes - 150 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,12 +89,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 | 79 | [Que Te Vaya Bonito](https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 2:51 |
 | 80 | [Para Poder Llegar A Ti](https://open.spotify.com/track/0vixYN2nSOIn9k1wr0qfhC) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:01 |
 | 81 | [No Discutamos](https://open.spotify.com/track/1kEWmwBPNkG1LtMb1H0xtZ) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Y Aida](https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica) | 2:16 |
-| 82 | [Paloma negra](https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [A 10 años....un recuerdo permanente](https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R) | 3:15 |
-| 83 | [Playa Sola](https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 2:52 |
+| 82 | [Playa Sola](https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 2:52 |
+| 83 | [Paloma negra](https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [A 10 años....un recuerdo permanente](https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R) | 3:15 |
 | 84 | [Mejor Me Voy](https://open.spotify.com/track/7lmqbcwP3LO9fG5UwiMeLE) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [Éxitos Rancheros](https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG) | 3:36 |
 | 85 | [Besando La Cruz \- Versión Mariachi](https://open.spotify.com/track/4WYshCZOAaCGFRcXfJiOEZ) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Con Mariachi](https://open.spotify.com/album/6ZmAvrZsc7atoSDqqODDVF) | 3:31 |
-| 86 | [Cuatro Meses](https://open.spotify.com/track/16TDGlrQ3h4qpdyOwaRp1i) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ya Pa'que](https://open.spotify.com/album/4IHpbUl6G1dneIv8EM8Qt3) | 2:47 |
-| 87 | [El Novillo Despuntado](https://open.spotify.com/track/61BVISArSergd7hwBhMoBJ) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/6hncXsK2EbPLP5YnPz64f8) | 2:32 |
+| 86 | [El Novillo Despuntado](https://open.spotify.com/track/61BVISArSergd7hwBhMoBJ) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/6hncXsK2EbPLP5YnPz64f8) | 2:32 |
+| 87 | [Cuatro Meses](https://open.spotify.com/track/16TDGlrQ3h4qpdyOwaRp1i) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ya Pa'que](https://open.spotify.com/album/4IHpbUl6G1dneIv8EM8Qt3) | 2:47 |
 | 88 | [El Adolorido](https://open.spotify.com/track/48GVUFn3gtM9taw5aZYlge) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 2:58 |
 | 89 | [Que Chulos Ojos](https://open.spotify.com/track/2dl2KGfCQ2cleNVXlwFSdh) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [20 Exitos de Ley](https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph) | 2:40 |
 | 90 | [El Abuelo](https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Abuelo](https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1) | 3:07 |
@@ -102,12 +102,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 | 92 | [¡Qué Va!](https://open.spotify.com/track/47D0iJGFMrbKk01W9iACKc) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:45 |
 | 93 | [Esta situación](https://open.spotify.com/track/1iR35eXxKgIxk1NFM83oZo) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 2:27 |
 | 94 | [Que Me Lleve El Diablo](https://open.spotify.com/track/4aChlMVq129vxl8lb0xreC) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Besos Y Caricias](https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl) | 3:30 |
-| 95 | [Cama de Piedra](https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ) | 2:11 |
-| 96 | [Crei](https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:22 |
+| 95 | [Crei](https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:22 |
+| 96 | [Cama de Piedra](https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ) | 2:11 |
 | 97 | [El Campesino Y El Sol](https://open.spotify.com/track/3UAQI1mzzIxOW7aM2NPiUv) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [El Campesino y el Sol](https://open.spotify.com/album/1zz9palZav43PsEJGeIijB) | 3:54 |
 | 98 | [Cuando Yo Quería Ser Grande](https://open.spotify.com/track/1NTlPCvy7hj6abrlABGeyg) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 3:42 |
-| 99 | [Si Llego a Viejo](https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Amo del Imperio](https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo) | 4:02 |
-| 100 | [Tú a Mí No Me Hundes](https://open.spotify.com/track/15uu7J5uhauYJ9hGtJ077N) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Y Aida](https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica) | 3:04 |
+| 99 | [Tú a Mí No Me Hundes](https://open.spotify.com/track/15uu7J5uhauYJ9hGtJ077N) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Y Aida](https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica) | 3:04 |
+| 100 | [Si Llego a Viejo](https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Amo del Imperio](https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo) | 4:02 |
 | 101 | [Cuatro Milpas](https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [Alborada Ranchera](https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p) | 3:22 |
 | 102 | [Son las Dos de la Mañana](https://open.spotify.com/track/4CYshjNzVTWOs6mEbvSFk0) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [20 Exitos de Ley](https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph) | 2:44 |
 | 103 | [Nadie Es Eterno](https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Hombre Derecho](https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl) | 3:08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 音田雅則
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,526 likes - 65 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,542 likes - 65 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 3 | [冥冥](https://open.spotify.com/track/39bCGq3Ad9c3IMcYV2ROhe) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [冥冥](https://open.spotify.com/album/76a759u25fWITdpdjqidXn) | 3:27 |
 | 4 | [Server Down](https://open.spotify.com/track/4Wr6BagMS3ZYgRkRhwOOsN) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [Server Down](https://open.spotify.com/album/6XnczifFK6aqhY3fxcNleq) | 2:21 |
 | 5 | [nonfiction](https://open.spotify.com/track/5yr4AGgoQCpuJggiZ5vllq) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm), [Yvng xan](https://open.spotify.com/artist/3OzE7ohZzlPOmVuvC4ZPX0) | [about me](https://open.spotify.com/album/5AFqjtAnnkW0yAjMvg7hW2) | 2:37 |
-| 6 | [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [Naco](https://open.spotify.com/artist/6w0WQStb7cRo4J5BhSHNYO) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 |
+| 6 | [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 |
 | 7 | [BABE](https://open.spotify.com/track/4YGG8J2CiQiyT5o49J840H) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [BABE](https://open.spotify.com/album/7rCMyIfVxE1KfePlrAAS0k) | 2:27 |
 | 8 | [Black or White?](https://open.spotify.com/track/3zwQBA4eghhpOvY0afEOug) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Black or White?](https://open.spotify.com/album/3SXdTmlIBdOs3KrFriCo0Q) | 3:34 |
 | 9 | [夜明けのあなたへ](https://open.spotify.com/track/22pLeTfTvGsM0SCBgw60Hb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [夜明けのあなたへ](https://open.spotify.com/album/033g2GrsxkouVAvlxcQH1P) | 4:25 |

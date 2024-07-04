@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:3yZLchlyOSmGC6B6bUhgVU">Gracia Soberana Música</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,410 likes - 99 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,440 likes - 99 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [La Verdad](https://open.spotify.com/track/7aT3p00Vnt4tEsdadYaEEG) | [Jaqui Lin](https://open.spotify.com/artist/0n8IwT2DDwKkw04RnS6J3j) | [La Verdad](https://open.spotify.com/album/68wPyf0Cprukzr6B2B8oXH) | 2:50 |
 | 99 | [I'll Bless You](https://open.spotify.com/track/2NsvuSjKTzJQvsCqsXiIBB) | [Jadi Torres](https://open.spotify.com/artist/2qK5GWkN7jKSM5GOAzD564) | [I'll Bless You](https://open.spotify.com/album/2qYUvJ9FaIXLNzo0YTZChi) | 3:52 |
 
-Snapshot ID: `Zn5vpAAAAAD3k6p9yUCnsga12Pr2L8Vk`
+Snapshot ID: `ZoW+HQAAAADk3PqUTHMlb7P0nsGXp6IV`

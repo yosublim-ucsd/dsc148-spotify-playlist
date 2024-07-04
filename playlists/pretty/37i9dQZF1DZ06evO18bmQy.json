@@ -1,33 +1,13 @@
 {
-  "description": "This is Djonga. Tutti i brani in un'unica playlist.",
-  "num_followers": 197639,
+  "description": "This is Djonga. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
+  "num_followers": 197685,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAADeg4tUDi08+JxXRr1d8nTG",
+  "snapshot_id": "ZoNDAAAAAAA5RA4ymKTmQXl1sG/N+cVA",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Best Seller of Djonga 2 (Instrumentals)",
-        "url": "https://open.spotify.com/album/70LB3oV6djXYDs92mFd97G"
-      },
-      "artists": [
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 216061,
-      "name": "Corra - Instrumental",
-      "url": "https://open.spotify.com/track/6n6cuAeadhCd9beluHBAzq"
-    },
     {
       "added_at": null,
       "album": {
@@ -615,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O MENINO QUE QUERIA SER DEUS",
+        "url": "https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 329008,
+      "name": "JUNHO DE 94",
+      "url": "https://open.spotify.com/track/2JLlkW8sNBoEpSCHJODPDH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NU",
         "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
       },
@@ -643,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "O MENINO QUE QUERIA SER DEUS",
-        "url": "https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX"
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
       },
       "artists": [
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
         }
       ],
-      "duration_ms": 329008,
-      "name": "JUNHO DE 94",
-      "url": "https://open.spotify.com/track/2JLlkW8sNBoEpSCHJODPDH"
+      "duration_ms": 138321,
+      "name": "das amantes freestyle",
+      "url": "https://open.spotify.com/track/2CRnqV3kVYuqZ9iTWPvCy8"
     },
     {
       "added_at": null,
@@ -707,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 138321,
-      "name": "das amantes freestyle",
-      "url": "https://open.spotify.com/track/2CRnqV3kVYuqZ9iTWPvCy8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heresia",
         "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
       },
@@ -763,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "5 da manh\u00e3",
+      "url": "https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ladr\u00e3o",
         "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
       },
@@ -779,22 +775,6 @@
       "duration_ms": 258815,
       "name": "HAT TRICK",
       "url": "https://open.spotify.com/track/44OcWyg9TzCFc4uirVKiBe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "5 da manh\u00e3",
-      "url": "https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp"
     },
     {
       "added_at": null,
@@ -847,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 197098,
+      "name": "valeu a batalha",
+      "url": "https://open.spotify.com/track/4UKO2r8b4OnrwhZ7g2QXKq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Pior M\u00fasica do Ano",
         "url": "https://open.spotify.com/album/2Ff61nFXs7yOOhHMHJFEVV"
       },
@@ -863,22 +859,6 @@
       "duration_ms": 219103,
       "name": "A Pior M\u00fasica do Ano",
       "url": "https://open.spotify.com/track/4jT1MGqV0EHR9AGis0L4CG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 197098,
-      "name": "valeu a batalha",
-      "url": "https://open.spotify.com/track/4UKO2r8b4OnrwhZ7g2QXKq"
     },
     {
       "added_at": null,
@@ -963,26 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Olho de Tigre",
-        "url": "https://open.spotify.com/album/6zWDuyJyUDvT8vVJWNzUzT"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 238080,
-      "name": "Olho de Tigre",
-      "url": "https://open.spotify.com/track/2GKpQ6rstJxrJTOHOTrBq8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ladr\u00e3o",
         "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
       },
@@ -999,6 +959,30 @@
       "duration_ms": 222128,
       "name": "FALC\u00c3O",
       "url": "https://open.spotify.com/track/2YSH4CHnZIyAEG7hXxMV1l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hist\u00f3rias da Minha \u00c1rea",
+        "url": "https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Bia Nogueira",
+          "url": "https://open.spotify.com/artist/337gunwEwXj6BjKbSo3Uo6"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 250016,
+      "name": "O Cara de \u00d3culos",
+      "url": "https://open.spotify.com/track/1chg0t03u3PDcYwABCYWKG"
     },
     {
       "added_at": null,
@@ -1027,8 +1011,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hist\u00f3rias da Minha \u00c1rea",
-        "url": "https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k"
+        "name": "Olho de Tigre",
+        "url": "https://open.spotify.com/album/6zWDuyJyUDvT8vVJWNzUzT"
       },
       "artists": [
         {
@@ -1036,17 +1020,13 @@
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "Bia Nogueira",
-          "url": "https://open.spotify.com/artist/337gunwEwXj6BjKbSo3Uo6"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         }
       ],
-      "duration_ms": 250016,
-      "name": "O Cara de \u00d3culos",
-      "url": "https://open.spotify.com/track/1chg0t03u3PDcYwABCYWKG"
+      "duration_ms": 238080,
+      "name": "Olho de Tigre",
+      "url": "https://open.spotify.com/track/2GKpQ6rstJxrJTOHOTrBq8"
     },
     {
       "added_at": null,
@@ -1255,34 +1235,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obstinado",
-        "url": "https://open.spotify.com/album/10Zjpt0jIDzij9ojE7vAui"
+        "name": "Zero Chances (Ao Vivo)",
+        "url": "https://open.spotify.com/album/46Wor6bbb4uOs3xhIgfSR9"
       },
       "artists": [
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+          "name": "Akatu",
+          "url": "https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8"
         },
         {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
         },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Jogzz",
-          "url": "https://open.spotify.com/artist/0JdCnTEH50FSYNKnTNVfR2"
         }
       ],
-      "duration_ms": 251520,
-      "name": "Obstinado",
-      "url": "https://open.spotify.com/track/6qR1DhILkxhbxivh8HUDaP"
+      "duration_ms": 218410,
+      "name": "Zero Chances - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BApXORsRdAgiHFlmuxAMz"
     },
     {
       "added_at": null,
@@ -1307,26 +1279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zero Chances (Ao Vivo)",
-        "url": "https://open.spotify.com/album/46Wor6bbb4uOs3xhIgfSR9"
+        "name": "Ladr\u00e3o",
+        "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
       },
       "artists": [
         {
-          "name": "Akatu",
-          "url": "https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
         }
       ],
-      "duration_ms": 218410,
-      "name": "Zero Chances - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BApXORsRdAgiHFlmuxAMz"
+      "duration_ms": 262400,
+      "name": "LADR\u00c3O",
+      "url": "https://open.spotify.com/track/1SoVbAACWECOhsVZY4M1Jb"
     }
   ],
   "unique_name": "This Is Djonga",

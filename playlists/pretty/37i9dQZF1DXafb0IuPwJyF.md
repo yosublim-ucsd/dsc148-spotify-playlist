@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: Mrs\. GREEN APPLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,269 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,725 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,29 +28,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 18 | [絶対零度](https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [絶対零度](https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy) | 3:18 |
 | 19 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
 | 20 | [初恋キラー](https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [初恋キラー](https://open.spotify.com/album/2pUxSIXaFG9Pm3jXeYa93e) | 2:12 |
-| 21 | [NEW ERA](https://open.spotify.com/track/1asOZNLcDul6HBXArmOqYn) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [NEW ERA](https://open.spotify.com/album/3htICbV2jG4NvRMwsxIRu2) | 3:05 |
-| 22 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 |
-| 23 | [Get Wild](https://open.spotify.com/track/4u3Xyot6RXdzrwbJq2cdgC) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [Get Wild](https://open.spotify.com/album/1Fm21EmKUIntsVv1QviIoI) | 4:15 |
-| 24 | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG) | 3:21 |
-| 25 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 |
-| 26 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 |
-| 27 | [星街の駅で](https://open.spotify.com/track/6JgazBWIYH1tHOuGEcxLes) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [星街の駅で](https://open.spotify.com/album/2QC5kpcOy0JltYCGqBlvTv) | 3:58 |
-| 28 | [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:15 |
-| 29 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
-| 30 | [嘘じゃない](https://open.spotify.com/track/5tB3jH72pfXtVlwDxpiIlq) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [嘘じゃない](https://open.spotify.com/album/0mr3594rcsk9iPlB3Py72x) | 4:18 |
-| 31 | [遥か](https://open.spotify.com/track/6At8fG853JqHaZP72oONtA) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [遥か](https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93) | 3:11 |
-| 32 | [Rainy Driver](https://open.spotify.com/track/7svKQMA0pJZmeYejScMa3G) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [凡才](https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM) | 2:48 |
-| 33 | [ずうっといっしょ！](https://open.spotify.com/track/291j3B0q0RBJ15y3TRTzA5) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ずうっといっしょ！](https://open.spotify.com/album/0WcvYEwpmtLdlNsRNVeLU4) | 3:04 |
-| 34 | [はいよろこんで](https://open.spotify.com/track/41xGcFvQsGYQs0RDFvPfv3) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [はいよろこんで](https://open.spotify.com/album/4QU3XHH0tgaaIzCVf66i16) | 2:41 |
-| 35 | [You](https://open.spotify.com/track/0zTkGAcW8rSKudSDgAzRwN) | [808](https://open.spotify.com/artist/0HajkTlreHDUAVVFx72ci7) | [You](https://open.spotify.com/album/7sXKtNSDdHLOipBi2PeUSq) | 3:42 |
-| 36 | [忘レナ唄](https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [忘レナ唄](https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW) | 2:56 |
-| 37 | [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 |
-| 38 | [満ちてゆく](https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [満ちてゆく](https://open.spotify.com/album/6eRVinhid9kY4g0A9nUh5W) | 5:10 |
-| 39 | [ずっと好きだから](https://open.spotify.com/track/1NabPfsC4hEMd6lSEragQE) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ずっと好きだから](https://open.spotify.com/album/0Bm04CKjRI49fBrQrXW61m) | 4:24 |
-| 40 | [BON](https://open.spotify.com/track/3FzRKDirkUsApk11WEz1wz) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.O \-ring\-](https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK) | 3:23 |
-| 41 | [GOLDENWEEK](https://open.spotify.com/track/0bGiEGMpJ50OyVcb8elPOk) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [GOLDENWEEK](https://open.spotify.com/album/1S6e6usL4vviKyushy0N10) | 3:20 |
-| 42 | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 |
-| 43 | [Value](https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Value](https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf) | 3:05 |
+| 21 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 |
+| 22 | [Get Wild](https://open.spotify.com/track/4u3Xyot6RXdzrwbJq2cdgC) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [Get Wild](https://open.spotify.com/album/1Fm21EmKUIntsVv1QviIoI) | 4:15 |
+| 23 | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG) | 3:21 |
+| 24 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 |
+| 25 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 |
+| 26 | [星街の駅で](https://open.spotify.com/track/6JgazBWIYH1tHOuGEcxLes) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [星街の駅で](https://open.spotify.com/album/2QC5kpcOy0JltYCGqBlvTv) | 3:58 |
+| 27 | [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:15 |
+| 28 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
+| 29 | [嘘じゃない](https://open.spotify.com/track/5tB3jH72pfXtVlwDxpiIlq) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [嘘じゃない](https://open.spotify.com/album/0mr3594rcsk9iPlB3Py72x) | 4:18 |
+| 30 | [遥か](https://open.spotify.com/track/6At8fG853JqHaZP72oONtA) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [遥か](https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93) | 3:11 |
+| 31 | [Rainy Driver](https://open.spotify.com/track/7svKQMA0pJZmeYejScMa3G) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [凡才](https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM) | 2:48 |
+| 32 | [ずうっといっしょ！](https://open.spotify.com/track/291j3B0q0RBJ15y3TRTzA5) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ずうっといっしょ！](https://open.spotify.com/album/0WcvYEwpmtLdlNsRNVeLU4) | 3:04 |
+| 33 | [はいよろこんで](https://open.spotify.com/track/41xGcFvQsGYQs0RDFvPfv3) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [はいよろこんで](https://open.spotify.com/album/4QU3XHH0tgaaIzCVf66i16) | 2:41 |
+| 34 | [You](https://open.spotify.com/track/0zTkGAcW8rSKudSDgAzRwN) | [808](https://open.spotify.com/artist/0HajkTlreHDUAVVFx72ci7) | [You](https://open.spotify.com/album/7sXKtNSDdHLOipBi2PeUSq) | 3:42 |
+| 35 | [忘レナ唄](https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [忘レナ唄](https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW) | 2:56 |
+| 36 | [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 |
+| 37 | [満ちてゆく](https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [満ちてゆく](https://open.spotify.com/album/6eRVinhid9kY4g0A9nUh5W) | 5:10 |
+| 38 | [ずっと好きだから](https://open.spotify.com/track/1NabPfsC4hEMd6lSEragQE) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ずっと好きだから](https://open.spotify.com/album/0Bm04CKjRI49fBrQrXW61m) | 4:24 |
+| 39 | [BON](https://open.spotify.com/track/3FzRKDirkUsApk11WEz1wz) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.O \-ring\-](https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK) | 3:23 |
+| 40 | [GOLDENWEEK](https://open.spotify.com/track/0bGiEGMpJ50OyVcb8elPOk) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [GOLDENWEEK](https://open.spotify.com/album/1S6e6usL4vviKyushy0N10) | 3:20 |
+| 41 | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 |
+| 42 | [Value](https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Value](https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf) | 3:05 |
+| 43 | [若者のすべて](https://open.spotify.com/track/0bolEYwnvGkCjy38QACpBt) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [若者のすべて](https://open.spotify.com/album/2pS9ATc0f1xRthcOaTVXvb) | 5:01 |
 | 44 | [traveling \- Re\-Recording](https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [SCIENCE FICTION](https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW) | 5:08 |
 | 45 | [不幸中の幸い](https://open.spotify.com/track/3Dnzk4qIp457OtCfrD0S8S) | [YENTOWN](https://open.spotify.com/artist/5MZKzz8nnucMHhJq34UZwe), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [U\-LEE](https://open.spotify.com/artist/5brBirPSajSulsPdYTRAtf) | [不幸中の幸い](https://open.spotify.com/album/59BYR80OfcuZfHvJQnF076) | 4:16 |
 | 46 | [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [明るい部屋](https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [明るい部屋](https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK) | 2:54 |
 | 50 | [20](https://open.spotify.com/track/5RKOv93gklmKCI1YqmYUUo) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [20](https://open.spotify.com/album/4HmfQKakoYL6zCO4EOoeom) | 3:29 |
 
-Snapshot ID: `ZoQV8AAAAAC4rhx+rl8tgjr0YqnhpIgA`
+Snapshot ID: `ZoTrSQAAAADxkwh2TCJDkO9MEYH7L+OJ`

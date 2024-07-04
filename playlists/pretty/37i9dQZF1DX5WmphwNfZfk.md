@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Wyatt C\. Louis
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,227 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,230 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 25 | [Overwhelmed and Unprepared](https://open.spotify.com/track/606sltm751n1JmCxI0UN9s) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Overwhelmed and Unprepared](https://open.spotify.com/album/7HDAhvEuglhFQXLeSZJCjh) | 5:34 |
 | 26 | [End Game](https://open.spotify.com/track/0Hn8PDXY6SAaikKJNjpD7z) | [Emma Kade](https://open.spotify.com/artist/1ZP71cqO4xor5i3gqhuRHx) | [End Game](https://open.spotify.com/album/5uQoGeooNx3xA57poJGnRA) | 3:16 |
 | 27 | [Aaliyah](https://open.spotify.com/track/5JR3Sp5tlgxqlvRs6LNOJu) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [Aaliyah](https://open.spotify.com/album/6zj13ehUum5qNphs54CqWp) | 1:58 |
-| 28 | [Twin Flame \(feat\. Goldie Boutillier\)](https://open.spotify.com/track/4QYNd9eqc1GtfLrI0rMP8o) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [LONESTAR](https://open.spotify.com/album/2Hy2x2nzEYia4yoSfmF7Cp) | 3:38 |
+| 28 | [Twin Flame \(feat\. Goldie Boutilier\)](https://open.spotify.com/track/4QYNd9eqc1GtfLrI0rMP8o) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [LONESTAR](https://open.spotify.com/album/2Hy2x2nzEYia4yoSfmF7Cp) | 3:38 |
 | 29 | [2 2 BOOTLEG](https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY II](https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO) | 4:49 |
 | 30 | [Testify](https://open.spotify.com/track/4WQUkqnQr0UAqY6izXUEi5) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Testify](https://open.spotify.com/album/7ItYQn2qm80WSH0eFJyxf5) | 2:15 |
 | 31 | [Joy](https://open.spotify.com/track/2S89P2c2Vk7pn0moME75Mb) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Joy](https://open.spotify.com/album/4gqUCncKr9a5wK98U5e3NR) | 3:32 |

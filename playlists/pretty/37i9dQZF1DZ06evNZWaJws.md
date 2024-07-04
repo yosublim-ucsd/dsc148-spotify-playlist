@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 
 ### [This Is Los Tucanes De Tijuana](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZWaJws)
 
-> This is Los Tucanes De Tijuana\. The essential tracks, all in one playlist.
+> This Is Los Tucanes De Tijuana\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,799 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,917 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 | 20 | [Temporada En La Sierra](https://open.spotify.com/track/5q7Fuxm9jsbkui4OfsBvrG) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Clave Nueva](https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ) | 2:49 |
 | 21 | [La Piñata](https://open.spotify.com/track/0g1Qhh4ijd51TcpV53O8dU) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Plata ..\. Tucanazos Censurados](https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf) | 3:07 |
 | 22 | [Cien Por Uno](https://open.spotify.com/track/64VeKDD6z3P2UnDl8nphc4) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos De Primera Plana](https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz) | 3:45 |
-| 23 | [Panchito El F1](https://open.spotify.com/track/5oTOpSNp2FOLgjUeCGKjXp) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos Time Season Two "Los Implacables"](https://open.spotify.com/album/2xumkDb8a5iqmPz5a0EmAh) | 3:16 |
+| 23 | [Secuestro De Amor](https://open.spotify.com/track/1bjFNKtbXmavvcAIMnSJFi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Secuestro De Amor](https://open.spotify.com/album/5tlAgf8YtdhvwcJihsF1dV) | 3:42 |
 | 24 | [Clave Nueva](https://open.spotify.com/track/0puyjmma5eQMZJ8hi9DyTt) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Clave Nueva](https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ) | 2:46 |
-| 25 | [Secuestro De Amor](https://open.spotify.com/track/1bjFNKtbXmavvcAIMnSJFi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Secuestro De Amor](https://open.spotify.com/album/5tlAgf8YtdhvwcJihsF1dV) | 3:42 |
+| 25 | [Panchito El F1](https://open.spotify.com/track/5oTOpSNp2FOLgjUeCGKjXp) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos Time Season Two "Los Implacables"](https://open.spotify.com/album/2xumkDb8a5iqmPz5a0EmAh) | 3:16 |
 | 26 | [Tus Verdades](https://open.spotify.com/track/2dFhOP19RFP0GDg0gCBVST) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Mundo De Amor](https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt) | 2:35 |
 | 27 | [Yo Las Pongo](https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Yo Las Pongo](https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF) | 3:11 |
 | 28 | [Fiesta En La Sierra](https://open.spotify.com/track/3Fqo0aANNOCAZIzLNUkVQJ) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Fiesta En La Sierra](https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9) | 4:02 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 | 43 | [El Águila Blanca](https://open.spotify.com/track/4z7isLhEqhDj5UAhDBPLNN) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Águila Blanca](https://open.spotify.com/album/5JejGcuWuFRx2SeuIIXFso) | 2:15 |
 | 44 | [Se Desgranó La Mazorca](https://open.spotify.com/track/0sjpjZQYvnssMQ34lUpfpY) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Plata ..\. Tucanazos Censurados](https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf) | 3:27 |
 | 45 | [El Jefe De La Sierra](https://open.spotify.com/track/6UuXzEW2GBwcJefoXTYztu) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Árbol](https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT) | 3:38 |
-| 46 | [Comandante 09](https://open.spotify.com/track/2lZsJdASV0DPyhx6kaDdyE) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Comandante 09](https://open.spotify.com/album/7rtZbELF943xf6Q9pTkzSf) | 3:56 |
-| 47 | [Desde Que Te Amo](https://open.spotify.com/track/51FDXDr71U8e9D7Umn9V6r) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 3:17 |
-| 48 | [El LP](https://open.spotify.com/track/6gCfghaTVO97n6OxkFvGhQ) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El LP](https://open.spotify.com/album/03znBeyglN3fms5BClz1mv) | 3:39 |
-| 49 | [El Regreso Del Chapo](https://open.spotify.com/track/4baEwCzla3yCyz21uhOFLp) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Imperio](https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN) | 3:11 |
+| 46 | [Desde Que Te Amo](https://open.spotify.com/track/51FDXDr71U8e9D7Umn9V6r) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 3:17 |
+| 47 | [Comandante 09](https://open.spotify.com/track/2lZsJdASV0DPyhx6kaDdyE) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Comandante 09](https://open.spotify.com/album/7rtZbELF943xf6Q9pTkzSf) | 3:56 |
+| 48 | [El Regreso Del Chapo](https://open.spotify.com/track/4baEwCzla3yCyz21uhOFLp) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Imperio](https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN) | 3:11 |
+| 49 | [El LP](https://open.spotify.com/track/6gCfghaTVO97n6OxkFvGhQ) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El LP](https://open.spotify.com/album/03znBeyglN3fms5BClz1mv) | 3:39 |
 | 50 | [La Captura III](https://open.spotify.com/track/1K0oylCNTT52iBWl42iyYD) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos Time – Season Three "Comandante En Jefe"](https://open.spotify.com/album/6SKPul83B5nz0Q3nRDi1Qb) | 2:53 |
 
-Snapshot ID: `ZoHxgAAAAAAxKwbScCS7FWVZBfvO98co`
+Snapshot ID: `ZoNDAAAAAACVhtzgS+mgp9OAxq3R6/JJ`

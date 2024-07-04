@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: beabadoobee",
-  "num_followers": 1681602,
+  "num_followers": 1681701,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 225572,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Dispose of Me",
         "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "My Fun",
         "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
       },
@@ -687,70 +687,6 @@
       "duration_ms": 162291,
       "name": "My Fun",
       "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "If Only + No One Noticed",
-        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 225572,
-      "name": "Nomad",
-      "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "I'm Allergic To Dogs!",
-        "url": "https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Disco Man",
-      "url": "https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/6s144Vjf21zEdbZpySRE82"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 173447,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/7e0LOBvgnz3Rnu20gUKOeh"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -771,6 +707,54 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "I'm Allergic To Dogs!",
+        "url": "https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Disco Man",
+      "url": "https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Cherry Blossom",
         "url": "https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Keep It Up",
-        "url": "https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL"
+        "name": "Again",
+        "url": "https://open.spotify.com/album/6s144Vjf21zEdbZpySRE82"
       },
       "artists": [
         {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
         }
       ],
-      "duration_ms": 156524,
-      "name": "Keep It Up",
-      "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
+      "duration_ms": 173447,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/7e0LOBvgnz3Rnu20gUKOeh"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -815,6 +799,22 @@
       "duration_ms": 163346,
       "name": "brown eyes*",
       "url": "https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Keep It Up",
+        "url": "https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 156524,
+      "name": "Keep It Up",
+      "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Look At That Woman",
+        "url": "https://open.spotify.com/album/6PUO24m7ConrwJHbfDqjij"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 163458,
+      "name": "Look At That Woman",
+      "url": "https://open.spotify.com/track/5LbKwcuefoCUxlPkHEjGGW"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 176632,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Look At That Woman",
-        "url": "https://open.spotify.com/album/6PUO24m7ConrwJHbfDqjij"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 163458,
-      "name": "Look At That Woman",
-      "url": "https://open.spotify.com/track/5LbKwcuefoCUxlPkHEjGGW"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -979,6 +979,22 @@
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Love Hate Music Box",
         "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
       },
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Bad Dream",
-        "url": "https://open.spotify.com/album/3Ksfxxd3u2IABEqECQ8UWw"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 210904,
-      "name": "Bad Dream",
-      "url": "https://open.spotify.com/track/4G7LYlnVgPWVmjXERE8NnB"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Motorcycle",
         "url": "https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 212320,
       "name": "Strawberry Jam",
       "url": "https://open.spotify.com/track/2ANtjCxEa3I883stgWh5Mz"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Bad Dream",
+        "url": "https://open.spotify.com/album/3Ksfxxd3u2IABEqECQ8UWw"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 210904,
+      "name": "Bad Dream",
+      "url": "https://open.spotify.com/track/4G7LYlnVgPWVmjXERE8NnB"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Oh, Gemini",
-        "url": "https://open.spotify.com/album/1REr4nKLgAAe1GoKIDG2c9"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 164971,
-      "name": "Oh, Gemini",
-      "url": "https://open.spotify.com/track/3SYNTZgVt7Wht3jRf0ElGh"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "So Cold",
         "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Love from the Other Side",
-        "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
+        "name": "Oh, Gemini",
+        "url": "https://open.spotify.com/album/1REr4nKLgAAe1GoKIDG2c9"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
         }
       ],
-      "duration_ms": 249405,
-      "name": "Love from the Other Side",
-      "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
+      "duration_ms": 164971,
+      "name": "Oh, Gemini",
+      "url": "https://open.spotify.com/track/3SYNTZgVt7Wht3jRf0ElGh"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1275,18 +1259,34 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "loving u is harder",
-        "url": "https://open.spotify.com/album/67ODPUfNcldTSB565u7KZi"
+        "name": "Running Out Of Time",
+        "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
       },
       "artists": [
         {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
         }
       ],
-      "duration_ms": 147426,
-      "name": "loving u is harder",
-      "url": "https://open.spotify.com/track/3zyzC28g7uU4YfWN840ciZ"
+      "duration_ms": 214986,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Love from the Other Side",
+        "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 249405,
+      "name": "Love from the Other Side",
+      "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1303,6 +1303,22 @@
       "duration_ms": 198707,
       "name": "Your Apartment",
       "url": "https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "loving u is harder",
+        "url": "https://open.spotify.com/album/67ODPUfNcldTSB565u7KZi"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 147426,
+      "name": "loving u is harder",
+      "url": "https://open.spotify.com/track/3zyzC28g7uU4YfWN840ciZ"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1371,26 +1387,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Cigarettes & Wine (feat. Holly Humberstone)",
-        "url": "https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        },
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Cigarettes & Wine (feat. Holly Humberstone)",
-      "url": "https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "You (Show Me Where My Days Went)",
         "url": "https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs"
       },
@@ -1423,6 +1419,26 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Cigarettes & Wine (feat. Holly Humberstone)",
+        "url": "https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        },
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Cigarettes & Wine (feat. Holly Humberstone)",
+      "url": "https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "a girl like me",
         "url": "https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z"
       },
@@ -1439,18 +1455,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Running Out Of Time",
-        "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
+        "name": "Loveseat",
+        "url": "https://open.spotify.com/album/3CLGTVOXKLB8W4eyLJO85A"
       },
       "artists": [
         {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
         }
       ],
-      "duration_ms": 214986,
-      "name": "Running Out Of Time",
-      "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
+      "duration_ms": 147981,
+      "name": "Run It Back",
+      "url": "https://open.spotify.com/track/2gSVKq4fs4rYE6ukeKnVWi"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "AMAMA",
-        "url": "https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo"
-      },
-      "artists": [
-        {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Side By Side",
-      "url": "https://open.spotify.com/track/2vlHyjzgm52ikajf5OAdlg"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Already Gone",
         "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
       },
@@ -1499,22 +1499,6 @@
       "duration_ms": 228040,
       "name": "Already Gone",
       "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Earrings",
-      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1539,6 +1523,38 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "AMAMA",
+        "url": "https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/2vlHyjzgm52ikajf5OAdlg"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "I wish for the rain",
         "url": "https://open.spotify.com/album/1d8v7jpq86c6WjRwTsoYIk"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 151999,
       "name": "I wish for the rain",
       "url": "https://open.spotify.com/track/5SbkJitufb38BnGDsUjdqN"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Me Da Igual",
-        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 209242,
-      "name": "Me Da Igual",
-      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Me Da Igual",
+        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 209242,
+      "name": "Me Da Igual",
+      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "work in progress",
         "url": "https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5"
       },
@@ -1603,38 +1619,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Loveseat",
-        "url": "https://open.spotify.com/album/3CLGTVOXKLB8W4eyLJO85A"
+        "name": "Darkest Lullaby",
+        "url": "https://open.spotify.com/album/1R1J4SFlMtGIuTeH7yS9yH"
       },
       "artists": [
         {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
         }
       ],
-      "duration_ms": 147981,
-      "name": "Run It Back",
-      "url": "https://open.spotify.com/track/2gSVKq4fs4rYE6ukeKnVWi"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Just a Dance",
-        "url": "https://open.spotify.com/album/39ZiNIvTOozeE4EcV0Ax5e"
-      },
-      "artists": [
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 160932,
-      "name": "Just a Dance",
-      "url": "https://open.spotify.com/track/2iulJlc0L0rbcvowdlib7J"
+      "duration_ms": 190817,
+      "name": "Darkest Lullaby",
+      "url": "https://open.spotify.com/track/3MV0SFjUcQYUGmAQv6o7Q2"
     }
   ],
   "unique_name": "Indie Pop",

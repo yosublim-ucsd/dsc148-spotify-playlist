@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,082 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,084 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 19 | [The Dead Don't Die](https://open.spotify.com/track/4Ef1laInbBHGfn3qUMilBK) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Dead Don't Die](https://open.spotify.com/album/0d2OrxfHnQVwchS6OyyUZQ) | 3:51 |
 | 20 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
 | 21 | [A Love International](https://open.spotify.com/track/3Bbb7sfVmXbJnuy75MidP3) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 4:15 |
-| 22 | [Windfall \- 2015 Remaster](https://open.spotify.com/track/52iyhfd6jgU2wYB8QIYs6t) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace \(Remastered\)](https://open.spotify.com/album/1SV1Fh8rLes7MeTYTXznKd) | 2:59 |
-| 23 | [L.A\. Freeway](https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Old No\. 1](https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ) | 4:56 |
+| 22 | [L.A\. Freeway](https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Old No\. 1](https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ) | 4:56 |
+| 23 | [Windfall \- 2015 Remaster](https://open.spotify.com/track/52iyhfd6jgU2wYB8QIYs6t) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace \(Remastered\)](https://open.spotify.com/album/1SV1Fh8rLes7MeTYTXznKd) | 2:59 |
 | 24 | [Feet Off The Ground \(feat\. Jade Bird\)](https://open.spotify.com/track/5HlqJxuU7T8Tqn56f2d3Pg) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Feet Off The Ground \(feat\. Jade Bird\)](https://open.spotify.com/album/3limK1OjauMlUTz8U28IiK) | 4:18 |
 | 25 | [No Glory in the West](https://open.spotify.com/track/3M3A038dDopQcvGrrngcDE) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [No Glory in the West](https://open.spotify.com/album/24omX21r87XGrfXHSuwEjL) | 4:13 |
 | 26 | [Dream of You](https://open.spotify.com/track/6pVYBR8WJdwUwMkdSTensd) | [Lionlimb](https://open.spotify.com/artist/06wmOEVNWtAOfLxNVcnz0V), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Dream of You](https://open.spotify.com/album/4OU061WzwjHr9KUBJnLEMR) | 3:57 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 39 | [America](https://open.spotify.com/track/5GOdN3y1m0pjoMC4OKifIp) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 3:00 |
 | 40 | [Is It Ever Really Gone \(feat\. Ashley Monroe\)](https://open.spotify.com/track/38mBWuyjz6bSJZeMsaanIr) | [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Is It Ever Really Gone \(feat\. Ashley Monroe\)](https://open.spotify.com/album/5SFyezJmbReKbEY2RHfmvZ) | 3:24 |
 | 41 | [Where I Come From](https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Patty Griffin](https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0) | 4:44 |
-| 42 | [Midnight Train](https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9) | [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Poor David's Almanack](https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM) | 3:18 |
-| 43 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 |
+| 42 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 |
+| 43 | [Midnight Train](https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9) | [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Poor David's Almanack](https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM) | 3:18 |
 | 44 | [Hearts on Fire \- 2002 Remaster](https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:52 |
 | 45 | [Sundown \(feat\. Beth Orton\)](https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 3:33 |
 | 46 | [Jealous Guy](https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Jealous Guy](https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ) | 3:50 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 71 | [Toshiba Sky](https://open.spotify.com/track/2xmNUTjFh6DeZIXgc6CfU1) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [Toshiba Sky](https://open.spotify.com/album/1THPaJ3KhIRPBpAvCaG163) | 3:16 |
 | 72 | [Angels Among Us](https://open.spotify.com/track/5RfGLT4G5YeY5niIYc5GnI) | [Jenna Rae](https://open.spotify.com/artist/6osWFsdfO9F5O82CoyUYE5) | [Workin' Woman](https://open.spotify.com/album/7bBq1QuARjBme4nclMsr5T) | 4:51 |
 | 73 | [I'll Be Around](https://open.spotify.com/track/3e0OEfibR6MA2BYjhIaNI0) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Wilderness Within You](https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2) | 5:20 |
-| 74 | [12 Feet High](https://open.spotify.com/track/0a20AtS66hP9xUj51qXtl5) | [Leslie Stevens](https://open.spotify.com/artist/2QFJpQcoOMr1A2m8socQKF) | [12 Feet High](https://open.spotify.com/album/6KkGswg0AiEqjN2Uc79cWt) | 3:45 |
-| 75 | [All American Singer](https://open.spotify.com/track/6zczgmAukHRE72zlbMlxB5) | [Zephaniah OHora](https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY) | [All American Singer](https://open.spotify.com/album/4HzLPoajEg28lyK3cHztOY) | 3:57 |
+| 74 | [All American Singer](https://open.spotify.com/track/6zczgmAukHRE72zlbMlxB5) | [Zephaniah OHora](https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY) | [All American Singer](https://open.spotify.com/album/4HzLPoajEg28lyK3cHztOY) | 3:57 |
+| 75 | [12 Feet High](https://open.spotify.com/track/0a20AtS66hP9xUj51qXtl5) | [Leslie Stevens](https://open.spotify.com/artist/2QFJpQcoOMr1A2m8socQKF) | [12 Feet High](https://open.spotify.com/album/6KkGswg0AiEqjN2Uc79cWt) | 3:45 |
 
 Snapshot ID: `Zhix/AAAAAD4gXUyaov6Z6bJJyRnpMyU`

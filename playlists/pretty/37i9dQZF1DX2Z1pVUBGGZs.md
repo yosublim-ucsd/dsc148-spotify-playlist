@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring rachel chinouriri ☁️ art: @doolittleillustrations
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,473 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,394 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

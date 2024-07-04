@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-819 songs - 1 day 19 hr 39 min
+820 songs - 1 day 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 | 2021-03-27\* | 2021-03-27 |
 | [BICI](https://open.spotify.com/track/3TBZtPqL5tuOk5QYH9WvvK) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 4:08 | 2021-11-28 | 2021-11-28 |
 | [bien](https://open.spotify.com/track/7iqWxH5QBMBKOPV8PzU482) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 2:52 | 2024-04-13 | 2024-04-15 |
+| [Big Flex](https://open.spotify.com/track/10rBAHCeedKzgvE4jf19lo) | [Dritto Zanotii](https://open.spotify.com/artist/3fGoXa5xt9m4euRRdl4x6M), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [Big Flex](https://open.spotify.com/album/4pxPqZDnuVKqyzCP5kri6b) | 2:34 | 2024-07-03 |  |
 | [Bigger Than Me](https://open.spotify.com/track/1igXQJ8h25DY4AiVgyGohE) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Bigger Than Me](https://open.spotify.com/album/11Kmry6hzWz0VFAI7s2Iz1) | 3:41 | 2022-09-02 | 2022-09-04 |
 | [Blank Space \(Taylor's Version\)](https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-28 | 2023-10-30 |
 | [BLUNTED 5 \- Remix](https://open.spotify.com/track/27t4JURZ1Tv7a3zMfPneAw) | [Bruno LC](https://open.spotify.com/artist/5XUp43SjeL84EDkWoCG3qR), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [BLUNTED 5 \(Remix\)](https://open.spotify.com/album/0xIQ84DbeIZg1G4CXK2Qlj) | 2:21 | 2021-05-31 | 2021-10-16 |
@@ -427,7 +428,7 @@
 | [Mamichula \- con Nicki Nicole](https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 3:39 | 2024-02-18 | 2024-04-09 |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-02-13 | 2022-05-15 |
 | [MAMIII](https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:46 | 2022-05-14 | 2022-10-16 |
-| [Maquillaje](https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy) | 3:31 | 2024-03-20 |  |
+| [Maquillaje](https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy) | 3:31 | 2024-03-20 | 2024-07-04 |
 | [Maquillaje](https://open.spotify.com/track/4eMgCEivrlABjwo0ZiY95d) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0L16XNlcuTsjZutD11ixsz) | 3:31 | 2024-03-19 | 2024-03-21 |
 | [Maquillaje \- Remix](https://open.spotify.com/track/5tA0dW3vNglRMQRVn5oXhU) | [refracted arg](https://open.spotify.com/artist/6xXSh0V8MmmCJ5CGwxV0OV) | [Diablos, Doble A](https://open.spotify.com/album/6VCKimznrPSiFMKfGICXrw) | 3:27 | 2024-04-20 | 2024-04-24 |
 | [Marisola](https://open.spotify.com/track/2pR6bipXfJySBhje19SW02) | [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Marisola](https://open.spotify.com/album/6pEq0eQ4Jk0C7plPyyyXDp) | 3:04 | 2022-09-02 | 2022-12-25 |

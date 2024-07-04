@@ -1,6 +1,6 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Hurray For The Riff Raff",
-  "num_followers": 288789,
+  "num_followers": 288907,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Puxico",
+        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "Cairo, IL",
+      "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Rain On Sunday",
         "url": "https://open.spotify.com/album/2VGzHqnVWTiMlKfnCoXU0U"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 215093,
       "name": "If Ever (with Jack Johnson & Ben Harper)",
       "url": "https://open.spotify.com/track/3lQY1TrOzBKG9c83ALIX77"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Puxico",
-        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Cairo, IL",
-      "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "The Last Of The True Believers",
-        "url": "https://open.spotify.com/album/35HzQJGNwaNXWUInoJNz1t"
-      },
-      "artists": [
-        {
-          "name": "Nanci Griffith",
-          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Love At The Five & Dime",
-      "url": "https://open.spotify.com/track/5MhqCzQuPwHEVGS2i5zHOz"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Down Rounder",
         "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 139333,
       "name": "Everywhere I Go",
       "url": "https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "The Last Of The True Believers",
+        "url": "https://open.spotify.com/album/35HzQJGNwaNXWUInoJNz1t"
+      },
+      "artists": [
+        {
+          "name": "Nanci Griffith",
+          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Love At The Five & Dime",
+      "url": "https://open.spotify.com/track/5MhqCzQuPwHEVGS2i5zHOz"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Impossible World",
+        "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
+      },
+      "artists": [
+        {
+          "name": "Front Country",
+          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "How Can You Sing",
+      "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "First Time Feeling",
         "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
       },
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Impossible World",
-        "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
-      },
-      "artists": [
-        {
-          "name": "Front Country",
-          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "How Can You Sing",
-      "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Violet Light",
         "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
       },
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Birdseye",
-        "url": "https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 151573,
-      "name": "Birdseye",
-      "url": "https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "I Will Not Be Afraid",
-        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
+        "name": "Birdseye",
+        "url": "https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7"
       },
       "artists": [
         {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
         }
       ],
-      "duration_ms": 195320,
-      "name": "Blood on Your Bootheels",
-      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
+      "duration_ms": 151573,
+      "name": "Birdseye",
+      "url": "https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1471,6 +1455,22 @@
       "duration_ms": 317466,
       "name": "Boots of Spanish Leather",
       "url": "https://open.spotify.com/track/4cbMK3hOqvXiBiHQkGgsAf"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "I Will Not Be Afraid",
+        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Blood on Your Bootheels",
+      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Weird Faith",
-        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 246946,
-      "name": "For Months Now",
-      "url": "https://open.spotify.com/track/3Qoru0cFoXjTAgUAi9zinE"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 229893,
       "name": "Calling Me Home (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Weird Faith",
+        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 246946,
+      "name": "For Months Now",
+      "url": "https://open.spotify.com/track/3Qoru0cFoXjTAgUAi9zinE"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/3KkxlIx2jtJYW2nOIjnkAw"
-      },
-      "artists": [
-        {
-          "name": "Buffy Sainte-Marie",
-          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
-        }
-      ],
-      "duration_ms": 139800,
-      "name": "Universal Soldier",
-      "url": "https://open.spotify.com/track/35oPNtWETGELk0CguDIfKr"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "A Southern Gothic",
         "url": "https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 209546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/168mDRF95TUgri1Kbl9GYA"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/3KkxlIx2jtJYW2nOIjnkAw"
+      },
+      "artists": [
+        {
+          "name": "Buffy Sainte-Marie",
+          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
+        }
+      ],
+      "duration_ms": 139800,
+      "name": "Universal Soldier",
+      "url": "https://open.spotify.com/track/35oPNtWETGELk0CguDIfKr"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "The Ballad of Sally Anne",
-        "url": "https://open.spotify.com/album/3uc7lb3lx1Ww2XRPBnAJkh"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        }
-      ],
-      "duration_ms": 238440,
-      "name": "The Ballad of Sally Anne",
-      "url": "https://open.spotify.com/track/2kozuAaT0clm71FtU5bThw"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "The Capitalist Blues",
         "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 235146,
       "name": "The Capitalist Blues",
       "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "The Ballad of Sally Anne",
+        "url": "https://open.spotify.com/album/3uc7lb3lx1Ww2XRPBnAJkh"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 238440,
+      "name": "The Ballad of Sally Anne",
+      "url": "https://open.spotify.com/track/2kozuAaT0clm71FtU5bThw"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Highway 101, Vol. 2",
-        "url": "https://open.spotify.com/album/7BS3LIAvk1oHeS26khw3FL"
-      },
-      "artists": [
-        {
-          "name": "Highway 101",
-          "url": "https://open.spotify.com/artist/0yXAvxrEkI26bKj0o4yyou"
-        }
-      ],
-      "duration_ms": 220586,
-      "name": "(Do You Love Me) Just Say Yes",
-      "url": "https://open.spotify.com/track/2g7CcEEAGuQIDEYasu4QUX"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Age of a Man",
         "url": "https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 219253,
       "name": "Age of a Man",
       "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Highway 101, Vol. 2",
+        "url": "https://open.spotify.com/album/7BS3LIAvk1oHeS26khw3FL"
+      },
+      "artists": [
+        {
+          "name": "Highway 101",
+          "url": "https://open.spotify.com/artist/0yXAvxrEkI26bKj0o4yyou"
+        }
+      ],
+      "duration_ms": 220586,
+      "name": "(Do You Love Me) Just Say Yes",
+      "url": "https://open.spotify.com/track/2g7CcEEAGuQIDEYasu4QUX"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "The River & The Thread (Deluxe)",
-        "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
-      },
-      "artists": [
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "A Feather's Not A Bird",
-      "url": "https://open.spotify.com/track/2GVnWRdLxud7OJBlvD4AFP"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Rock Bottom",
         "url": "https://open.spotify.com/album/21PZ6vS8uahnrZmySYDh3K"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 236146,
       "name": "Currency",
       "url": "https://open.spotify.com/track/43eUMLFb0WHjuBigpHKhNT"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "The River & The Thread (Deluxe)",
+        "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "A Feather's Not A Bird",
+      "url": "https://open.spotify.com/track/2GVnWRdLxud7OJBlvD4AFP"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Stand In",
-        "url": "https://open.spotify.com/album/2RWRXkpztNYWDRy73TJ49H"
-      },
-      "artists": [
-        {
-          "name": "Deva Mahal",
-          "url": "https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0"
-        }
-      ],
-      "duration_ms": 286388,
-      "name": "Stand In",
-      "url": "https://open.spotify.com/track/2WCtBAhKakTG4YT3hKpAbh"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
       },
@@ -2443,18 +2427,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "The Past Is Still Alive",
-        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
+        "name": "Stand In",
+        "url": "https://open.spotify.com/album/2RWRXkpztNYWDRy73TJ49H"
       },
       "artists": [
         {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+          "name": "Deva Mahal",
+          "url": "https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0"
         }
       ],
-      "duration_ms": 168705,
-      "name": "Alibi",
-      "url": "https://open.spotify.com/track/3d2oXlbjVmk9Zb37m1Y5t4"
+      "duration_ms": 286388,
+      "name": "Stand In",
+      "url": "https://open.spotify.com/track/2WCtBAhKakTG4YT3hKpAbh"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2475,6 +2459,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "The Past Is Still Alive",
+        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 168705,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/3d2oXlbjVmk9Zb37m1Y5t4"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Blonde On The Tracks (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i"
       },
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Working Man",
-        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "High Flying Bird",
         "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 187893,
       "name": "Till the Real Thing Comes Along",
       "url": "https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Working Man",
+        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
     },
     {
       "added_at": "2024-03-08 05:01:00",

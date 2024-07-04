@@ -1,6 +1,6 @@
 {
   "description": "Sommersola er her <3\n",
-  "num_followers": 87643,
+  "num_followers": 87752,
   "original_name": "Sommersol",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 194275,
-      "name": "Dance All Over Me",
-      "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Piya Piya Calling (feat. The Quick Style)",
         "url": "https://open.spotify.com/album/5m488spr3XWOKpzXatfv2R"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 286122,
       "name": "Piya Piya Calling (feat. The Quick Style)",
       "url": "https://open.spotify.com/track/1K0d6cMvNwiAhQWJjqYJDu"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 194275,
+      "name": "Dance All Over Me",
+      "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Som sommaren",
-        "url": "https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 228624,
-      "name": "Som sommaren",
-      "url": "https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Tar Jeg Feil",
         "url": "https://open.spotify.com/album/4mjRBfM8Z5qh0EMVMSLtKy"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 245001,
       "name": "Tar Jeg Feil",
       "url": "https://open.spotify.com/track/606olj3PDQBde7TTAop4tA"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Som sommaren",
+        "url": "https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 228624,
+      "name": "Som sommaren",
+      "url": "https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Hvit sommer",
-        "url": "https://open.spotify.com/album/6gzb9XtcWUz7Zkccyym86u"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 148509,
-      "name": "Hvit sommer",
-      "url": "https://open.spotify.com/track/6MexyFGps6nfd5aDl1W50l"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Mona Lisa, Mona Lisa",
         "url": "https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 172111,
       "name": "Mona Lisa, Mona Lisa",
       "url": "https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Hvit sommer",
+        "url": "https://open.spotify.com/album/6gzb9XtcWUz7Zkccyym86u"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 148509,
+      "name": "Hvit sommer",
+      "url": "https://open.spotify.com/track/6MexyFGps6nfd5aDl1W50l"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -407,6 +407,26 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Sommerfl\u00f8rt",
+        "url": "https://open.spotify.com/album/7gJqpQ14ZDjTGyGzqRqFxC"
+      },
+      "artists": [
+        {
+          "name": "Isah",
+          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
+        },
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 161750,
+      "name": "Sommerfl\u00f8rt",
+      "url": "https://open.spotify.com/track/7ELUUCWIHlyWIPlO2u1WT8"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "ok",
         "url": "https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov"
       },
@@ -419,22 +439,6 @@
       "duration_ms": 149573,
       "name": "ok",
       "url": "https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "In Our Own Sweet Time",
-        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 218306,
-      "name": "Catalonia",
-      "url": "https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -455,22 +459,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Sommerfl\u00f8rt",
-        "url": "https://open.spotify.com/album/7gJqpQ14ZDjTGyGzqRqFxC"
+        "name": "In Our Own Sweet Time",
+        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
       },
       "artists": [
         {
-          "name": "Isah",
-          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
-        },
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 161750,
-      "name": "Sommerfl\u00f8rt",
-      "url": "https://open.spotify.com/track/7ELUUCWIHlyWIPlO2u1WT8"
+      "duration_ms": 218306,
+      "name": "Catalonia",
+      "url": "https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -547,6 +547,26 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "HJERTET MITT ER HELT OK",
+        "url": "https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4"
+      },
+      "artists": [
+        {
+          "name": "Hkeem",
+          "url": "https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH"
+        },
+        {
+          "name": "Blackie",
+          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
+        }
+      ],
+      "duration_ms": 144706,
+      "name": "HJERTET MITT ER HELT OK",
+      "url": "https://open.spotify.com/track/4vpI1R5pmRKAS9pbMDb8Vg"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Lykke te",
         "url": "https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 200000,
       "name": "Some Type Of Skin - Acoustic",
       "url": "https://open.spotify.com/track/6kEMItz2lrqO5XGQSrujga"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "HJERTET MITT ER HELT OK",
-        "url": "https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4"
-      },
-      "artists": [
-        {
-          "name": "Hkeem",
-          "url": "https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH"
-        },
-        {
-          "name": "Blackie",
-          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
-        }
-      ],
-      "duration_ms": 144706,
-      "name": "HJERTET MITT ER HELT OK",
-      "url": "https://open.spotify.com/track/4vpI1R5pmRKAS9pbMDb8Vg"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -699,38 +699,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "S\u00e5nn som deg",
-        "url": "https://open.spotify.com/album/7MLCz2Gkx4tSfm8iPNuIO2"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 204529,
-      "name": "S\u00e5nn som deg",
-      "url": "https://open.spotify.com/track/4nlnCmzyjdzzWkP7gB7KE3"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Sj\u00e5 p\u00e5 oss n\u00e5",
-        "url": "https://open.spotify.com/album/7EROkbDNF25Kr9Ncnc24CQ"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 195607,
-      "name": "Sj\u00e5 p\u00e5 oss n\u00e5",
-      "url": "https://open.spotify.com/track/0iar93sQmCYUyTMavCzAsU"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "DIASPORA DREAMS (THE QUICK STYLE SELECTION)",
         "url": "https://open.spotify.com/album/4CwJ4eyjJVNfoOT6dcs9pV"
       },
@@ -771,6 +739,38 @@
       "duration_ms": 142263,
       "name": "Glem meg, men jeg glemmer aldri",
       "url": "https://open.spotify.com/track/7qCDeHjYx6gbwoTSVAvoBw"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Sj\u00e5 p\u00e5 oss n\u00e5",
+        "url": "https://open.spotify.com/album/7EROkbDNF25Kr9Ncnc24CQ"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 195607,
+      "name": "Sj\u00e5 p\u00e5 oss n\u00e5",
+      "url": "https://open.spotify.com/track/0iar93sQmCYUyTMavCzAsU"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "S\u00e5nn som deg",
+        "url": "https://open.spotify.com/album/7MLCz2Gkx4tSfm8iPNuIO2"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 204529,
+      "name": "S\u00e5nn som deg",
+      "url": "https://open.spotify.com/track/4nlnCmzyjdzzWkP7gB7KE3"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -843,38 +843,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "International Girl, Pt. 1",
-        "url": "https://open.spotify.com/album/4C8q9K3fEhwrEULk2akLR7"
-      },
-      "artists": [
-        {
-          "name": "Tolou",
-          "url": "https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH"
-        }
-      ],
-      "duration_ms": 133928,
-      "name": "Take Your Time (Slow Down)",
-      "url": "https://open.spotify.com/track/01eRSf9IjbyWK7wjCygQRn"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "D\u00e5rlig id\u00e9",
-        "url": "https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 132616,
-      "name": "D\u00e5rlig id\u00e9",
-      "url": "https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Finaste s\u00e5 finns",
         "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
       },
@@ -891,6 +859,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "International Girl, Pt. 1",
+        "url": "https://open.spotify.com/album/4C8q9K3fEhwrEULk2akLR7"
+      },
+      "artists": [
+        {
+          "name": "Tolou",
+          "url": "https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH"
+        }
+      ],
+      "duration_ms": 133928,
+      "name": "Take Your Time (Slow Down)",
+      "url": "https://open.spotify.com/track/01eRSf9IjbyWK7wjCygQRn"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Good Riddance",
         "url": "https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 171235,
       "name": "Good Riddance",
       "url": "https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "D\u00e5rlig id\u00e9",
+        "url": "https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 132616,
+      "name": "D\u00e5rlig id\u00e9",
+      "url": "https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -939,6 +939,26 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Sommartid",
+        "url": "https://open.spotify.com/album/0lndeVsfBcdlWxkDGOvvXs"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 174461,
+      "name": "Sommartid",
+      "url": "https://open.spotify.com/track/3uUj87Ly0W4x1jKfqGKm53"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Happy Tears",
         "url": "https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf"
       },
@@ -971,22 +991,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Joyride",
-        "url": "https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Howdy",
-      "url": "https://open.spotify.com/track/3tacvIn8QzjQLVaINE0ARa"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Langt av sted",
         "url": "https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i"
       },
@@ -1003,6 +1007,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Howdy",
+      "url": "https://open.spotify.com/track/3tacvIn8QzjQLVaINE0ARa"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Vil ikke hjem",
         "url": "https://open.spotify.com/album/0hJvr0HkNM3oi9QbrmPGZf"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 161139,
       "name": "Vil ikke hjem",
       "url": "https://open.spotify.com/track/0Rpw1FEivr3Io9yjjOLXGw"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Sommartid",
-        "url": "https://open.spotify.com/album/0lndeVsfBcdlWxkDGOvvXs"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 174461,
-      "name": "Sommartid",
-      "url": "https://open.spotify.com/track/3uUj87Ly0W4x1jKfqGKm53"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0EdDw4yXJ4x1X44QCkM8i1"
+        "name": "Ti tusen",
+        "url": "https://open.spotify.com/album/6OlniEdHOM81ARbDn0z17X"
       },
       "artists": [
         {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+          "name": "Kapteinen",
+          "url": "https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9"
         }
       ],
-      "duration_ms": 210156,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/16pWwIOwWNrS7Hrt6YDxok"
+      "duration_ms": 180906,
+      "name": "Ti tusen",
+      "url": "https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Ti tusen",
-        "url": "https://open.spotify.com/album/6OlniEdHOM81ARbDn0z17X"
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0EdDw4yXJ4x1X44QCkM8i1"
       },
       "artists": [
         {
-          "name": "Kapteinen",
-          "url": "https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9"
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
         }
       ],
-      "duration_ms": 180906,
-      "name": "Ti tusen",
-      "url": "https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv"
+      "duration_ms": 210156,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/16pWwIOwWNrS7Hrt6YDxok"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1219,26 +1219,6 @@
       "duration_ms": 194693,
       "name": "Uten d\u00e6",
       "url": "https://open.spotify.com/track/0KD6A1gjo4QOsk9x82XNR5"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "tanker blir ting",
-        "url": "https://open.spotify.com/album/5YPHiDi5V5r4a8QVK8nCVX"
-      },
-      "artists": [
-        {
-          "name": "vinni",
-          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
-        },
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        }
-      ],
-      "duration_ms": 184453,
-      "name": "evig og alltid (med Emma Steinbakken)",
-      "url": "https://open.spotify.com/track/7BUb5sLSVC8xIE54NN8Vx1"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1271,6 +1251,26 @@
       "duration_ms": 195202,
       "name": "Noen som forst\u00e5r",
       "url": "https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "tanker blir ting",
+        "url": "https://open.spotify.com/album/5YPHiDi5V5r4a8QVK8nCVX"
+      },
+      "artists": [
+        {
+          "name": "vinni",
+          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+        },
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "duration_ms": 184453,
+      "name": "evig og alltid (med Emma Steinbakken)",
+      "url": "https://open.spotify.com/track/7BUb5sLSVC8xIE54NN8Vx1"
     },
     {
       "added_at": "2024-06-27 22:00:00",

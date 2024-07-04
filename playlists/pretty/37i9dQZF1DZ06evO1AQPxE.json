@@ -1,12 +1,12 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 183480,
+  "num_followers": 183523,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAD2+yT3kSCpsLGC4iMTJE6n",
+  "snapshot_id": "ZoNDAAAAAABfwh5GPLYfwyDpzEmE2lF/",
   "tracks": [
     {
       "added_at": null,
@@ -222,11 +222,15 @@
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 135053,
-      "name": "Dua Lipa",
-      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
+      "duration_ms": 309327,
+      "name": "Churchill Downs (feat. Drake)",
+      "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
     },
     {
       "added_at": null,
@@ -300,25 +304,9 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 126217,
-      "name": "Like A Blade Of Grass",
-      "url": "https://open.spotify.com/track/22xea6Z2a8BbyVeCksSBX9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nail Tech",
-        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 206385,
-      "name": "Nail Tech",
-      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+      "duration_ms": 138781,
+      "name": "I Got A Shot",
+      "url": "https://open.spotify.com/track/5hNsSrWcClSp0tg4Jdd4UY"
     },
     {
       "added_at": null,
@@ -335,6 +323,26 @@
       "duration_ms": 100424,
       "name": "Common Ground",
       "url": "https://open.spotify.com/track/2OZfJcpzSFApBxUA0gXuJz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Psychic",
+      "url": "https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF"
     },
     {
       "added_at": null,
@@ -363,42 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 138781,
-      "name": "I Got A Shot",
-      "url": "https://open.spotify.com/track/5hNsSrWcClSp0tg4Jdd4UY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breezy",
-        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Psychic",
-      "url": "https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3"
       },
@@ -415,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jackman.",
-        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 118796,
-      "name": "Is That Ight?",
-      "url": "https://open.spotify.com/track/78aELoNP2X3DC3rjHEVLPy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -443,6 +399,22 @@
       "duration_ms": 193765,
       "name": "I'd Do Anything To Make You Smile",
       "url": "https://open.spotify.com/track/7Bot6AB2dsvZEyqzUL8AUH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 118796,
+      "name": "Is That Ight?",
+      "url": "https://open.spotify.com/track/78aELoNP2X3DC3rjHEVLPy"
     },
     {
       "added_at": null,
@@ -487,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jackman.",
-        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 241848,
-      "name": "Blame On Me",
-      "url": "https://open.spotify.com/track/5w7IRpQTMNA2EuWrHDmClX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moana",
         "url": "https://open.spotify.com/album/62WikgopS3tO34QbVKtVP0"
       },
@@ -519,6 +475,22 @@
       "duration_ms": 178216,
       "name": "Moana",
       "url": "https://open.spotify.com/track/1Tfxi7N3DW4zvAuVjt9g8X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 241848,
+      "name": "Blame On Me",
+      "url": "https://open.spotify.com/track/5w7IRpQTMNA2EuWrHDmClX"
     },
     {
       "added_at": null,
@@ -563,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jackman.",
-        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 99960,
-      "name": "No Enhancers",
-      "url": "https://open.spotify.com/track/2nK3bNHjO0IAMarcoN27UK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Won",
         "url": "https://open.spotify.com/album/3N1PEaBrpL1B3TIbUa69lB"
       },
@@ -599,6 +555,22 @@
       "duration_ms": 175639,
       "name": "I Won",
       "url": "https://open.spotify.com/track/3cyiLfw6V0Vz5WxUOMEex6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 99960,
+      "name": "No Enhancers",
+      "url": "https://open.spotify.com/track/2nK3bNHjO0IAMarcoN27UK"
     },
     {
       "added_at": null,
@@ -639,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Thats What They All Say",
+        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 113287,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/6SdQfCiVae1EXK1pQ6b92o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sweet Action",
         "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
       },
@@ -651,22 +639,6 @@
       "duration_ms": 121708,
       "name": "HEY BIG HEAD",
       "url": "https://open.spotify.com/track/3FWIAl04a9ySFhk4HH15ov"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thats What They All Say",
-        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "21C/Delta",
-      "url": "https://open.spotify.com/track/54FJWt8YIA1IHjmUxuDxwi"
     },
     {
       "added_at": null,
@@ -715,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Action",
-        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 144443,
-      "name": "SMELLS LIKE INCENSE",
-      "url": "https://open.spotify.com/track/5xAR2kje4pVMHz0ipvp2VA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3"
       },
@@ -747,22 +703,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honest Living",
-        "url": "https://open.spotify.com/album/1gNtAquFhKwk3qlsYLPpDT"
+        "name": "Sweet Action",
+        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
       },
       "artists": [
-        {
-          "name": "The Homies",
-          "url": "https://open.spotify.com/artist/66V7EUpZplR1MuUbYHZATV"
-        },
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 151213,
-      "name": "White Lies",
-      "url": "https://open.spotify.com/track/608NQtdZfObC1BGy067JG7"
+      "duration_ms": 144443,
+      "name": "SMELLS LIKE INCENSE",
+      "url": "https://open.spotify.com/track/5xAR2kje4pVMHz0ipvp2VA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 224841,
+      "name": "Young Harleezy",
+      "url": "https://open.spotify.com/track/4CuZSJLlmUrEfcXUm6pQk9"
     },
     {
       "added_at": null,
@@ -783,6 +751,26 @@
       "duration_ms": 190962,
       "name": "ROTTEN (feat. EST Gee)",
       "url": "https://open.spotify.com/track/15jg4vt123axobdGleLugn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Honest Living",
+        "url": "https://open.spotify.com/album/1gNtAquFhKwk3qlsYLPpDT"
+      },
+      "artists": [
+        {
+          "name": "The Homies",
+          "url": "https://open.spotify.com/artist/66V7EUpZplR1MuUbYHZATV"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 151213,
+      "name": "White Lies",
+      "url": "https://open.spotify.com/track/608NQtdZfObC1BGy067JG7"
     },
     {
       "added_at": null,
@@ -823,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gazebo",
-        "url": "https://open.spotify.com/album/0txbd4bmIM8Hq94jBrS0lc"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "Eastern Parkway",
-      "url": "https://open.spotify.com/track/2KY4EupuUu4jk2yWNA8DZc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
       },
@@ -855,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gazebo",
+        "url": "https://open.spotify.com/album/0txbd4bmIM8Hq94jBrS0lc"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 186840,
+      "name": "Eastern Parkway",
+      "url": "https://open.spotify.com/track/2KY4EupuUu4jk2yWNA8DZc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sweet Action",
         "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
       },
@@ -867,6 +855,22 @@
       "duration_ms": 178968,
       "name": "OUT FRONT",
       "url": "https://open.spotify.com/track/6ukXwaLZoMjeqA98ZdKLtq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "CODY BANKS",
+      "url": "https://open.spotify.com/track/0XcmRDeHawnaIYRIKW1vMo"
     },
     {
       "added_at": null,

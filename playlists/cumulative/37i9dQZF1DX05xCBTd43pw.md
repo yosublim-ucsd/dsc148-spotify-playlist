@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland.
 
-70 songs - 3 hr 31 min
+71 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Du kriegst mich nicht zurück](https://open.spotify.com/track/2yPmT3WjYGFtqn9NqiejjB) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Du kriegst mich nicht zurück](https://open.spotify.com/album/4cxJotBAgV0ZOmROIezp6k) | 3:27 | 2024-06-27 |  |
 | [Ehrlich](https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Ehrlich](https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3) | 3:50 | 2024-06-27 |  |
 | [Fire](https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Fire](https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc) | 2:15 | 2024-06-27 |  |
+| [Flight Mode](https://open.spotify.com/track/2jWdBRug5Q4jtYEA4xGHP5) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Flight Mode](https://open.spotify.com/album/1b3uUquOhMNhm95lPI48Fo) | 2:30 | 2024-06-27 |  |
 | [For The Night](https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg) | [For The Night](https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw) | 2:37 | 2024-06-27 |  |
 | [For You](https://open.spotify.com/track/4cwymvMH81iHgtQJsq12z1) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [For You](https://open.spotify.com/album/6Rutg4L3Or3wdZgmH4muOV) | 2:47 | 2024-06-27 |  |
 | [Forever](https://open.spotify.com/track/1rEmNxRPedLH6KwGEunAnZ) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Electus](https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS) | 2:32 | 2024-06-27 |  |
@@ -49,7 +50,7 @@
 | [Kiss Me in the Morning](https://open.spotify.com/track/29QgJyRmOh5J6vx6oXl1Co) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Kiss Me in the Morning](https://open.spotify.com/album/0Z1SeJgduMYHUHThMpMNEc) | 3:27 | 2024-06-27 |  |
 | [Kompliment](https://open.spotify.com/track/38okoOwbE4iBF7fK9lbz1O) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Kompliment](https://open.spotify.com/album/2NUERsJFzukrqAtbw2bhdG) | 2:45 | 2024-06-27 |  |
 | [Let You Down](https://open.spotify.com/track/7xK8eI5X33bF5RxkyJDMXg) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Let You Down](https://open.spotify.com/album/0s3lcAryjPZFfLNB6gqWTk) | 2:45 | 2024-06-27 |  |
-| [Life Of Lies](https://open.spotify.com/track/5wARQNVwaQW8ZeznRJu9UX) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Life Of Lies](https://open.spotify.com/album/3XSZsNcGRgEyEhMaSqdSTM) | 3:20 | 2024-06-27 |  |
+| [Life Of Lies](https://open.spotify.com/track/5wARQNVwaQW8ZeznRJu9UX) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Life Of Lies](https://open.spotify.com/album/3XSZsNcGRgEyEhMaSqdSTM) | 3:20 | 2024-06-27 | 2024-07-04 |
 | [Maggie](https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Maggie](https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp) | 2:59 | 2024-06-27 |  |
 | [Mi Mundo](https://open.spotify.com/track/7b52XqwbhEFvsMMqO7YWLT) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Mi Mundo](https://open.spotify.com/album/6g7qoedFwv2nEjuC05YDUq) | 2:56 | 2024-06-27 |  |
 | [Milchstrass \(feat\. Aaron Asteria\)](https://open.spotify.com/track/4gYy4OPpKdVYLtc600YjEc) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr), [Aaron Asteria](https://open.spotify.com/artist/7DxUqzuXRoTBvna6yo5Mq8) | [Milchstrass \(feat\. Aaron Asteria\)](https://open.spotify.com/album/2FTCdDCysfUceC2dPBSKdL) | 3:57 | 2024-06-27 |  |

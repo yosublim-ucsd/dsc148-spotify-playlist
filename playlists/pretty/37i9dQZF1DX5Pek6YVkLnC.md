@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Lemuell
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,268 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,257 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 32 | [CRYPTO](https://open.spotify.com/track/7yN7WgKckGg3w34XgRjCxP) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [CRYPTO](https://open.spotify.com/album/4KG8H1h8oVRDofQw1hqrbB) | 3:03 |
 | 33 | [La Cura](https://open.spotify.com/track/0HMQerZ59M01ZlDGRsUuub) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [Private Suite \(Vol\. 1 / Reloaded\)](https://open.spotify.com/album/7FDCMT0q5SVLPosdokrINh) | 2:22 |
 | 34 | [CLIMA \(with Foreign Teck\)](https://open.spotify.com/track/6HWm8rj8kX5AXUZAyciF14) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [CLIMA \(with Foreign Teck\)](https://open.spotify.com/album/5DllpnHoUTYe6Wjd5trxJP) | 2:44 |
-| 35 | [Su Gato](https://open.spotify.com/track/2M0iF6YXLO4VzC1xMmU27U) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Su Gato](https://open.spotify.com/album/1LIdkdDI8SqYPbdnCJddlF) | 1:56 |
+| 35 | [SU GATO](https://open.spotify.com/track/2M0iF6YXLO4VzC1xMmU27U) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [SU GATO](https://open.spotify.com/album/1LIdkdDI8SqYPbdnCJddlF) | 1:56 |
 | 36 | [Lágrimas](https://open.spotify.com/track/0jY3QomRqGPCDBhaIkcndk) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Lágrimas](https://open.spotify.com/album/07AdSSqAECv1zjfmAxjYsu) | 4:40 |
 | 37 | [Curarme](https://open.spotify.com/track/1VVXbIjNlQAvp621Q3RHfT) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [El Plug D3](https://open.spotify.com/album/7H8RB2cNz0dynPXgESG6hw) | 3:20 |
 | 38 | [SOLDOUT](https://open.spotify.com/track/1gUWnK94gJaktTZkqe0hZN) | [Jaypr](https://open.spotify.com/artist/7vG9WICgQrr4jRyMPFgT6m), [J Abdiel](https://open.spotify.com/artist/1AYdSyVwjipFg6gNqo2JYu), [Blackinny](https://open.spotify.com/artist/046PWECjgNFDpgpVXUHJ75) | [SOLDOUT](https://open.spotify.com/album/1eoTn2rgIEXx5w3BuDzAv8) | 3:44 |

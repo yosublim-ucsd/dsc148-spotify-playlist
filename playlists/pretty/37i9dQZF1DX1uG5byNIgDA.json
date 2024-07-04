@@ -1,6 +1,6 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
-  "num_followers": 216508,
+  "num_followers": 216507,
   "original_name": "Morning K-Pop!",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-06-21 05:14:44",
       "album": {
+        "name": "The Astronaut",
+        "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
+      },
+      "artists": [
+        {
+          "name": "JIN",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 282463,
+      "name": "The Astronaut",
+      "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
+    },
+    {
+      "added_at": "2024-06-21 05:14:44",
+      "album": {
         "name": "SPOT!",
         "url": "https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 167706,
       "name": "SPOT!",
       "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
-    },
-    {
-      "added_at": "2024-06-21 05:14:44",
-      "album": {
-        "name": "The Astronaut",
-        "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
-      },
-      "artists": [
-        {
-          "name": "JIN",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 282463,
-      "name": "The Astronaut",
-      "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
     },
     {
       "added_at": "2024-06-21 05:14:44",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-06-21 05:14:44",
       "album": {
+        "name": "Get A Guitar",
+        "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 160371,
+      "name": "Get A Guitar",
+      "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
+    },
+    {
+      "added_at": "2024-06-21 05:14:44",
+      "album": {
         "name": "SEVENTEEN 9th Mini Album 'Attacca'",
         "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 214760,
       "name": "Standing Next to You (USHER Remix)",
       "url": "https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1"
-    },
-    {
-      "added_at": "2024-06-21 05:14:44",
-      "album": {
-        "name": "Get A Guitar",
-        "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 160371,
-      "name": "Get A Guitar",
-      "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
     },
     {
       "added_at": "2024-06-21 05:14:44",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-06-21 05:14:44",
       "album": {
+        "name": "RIIZING - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 152889,
+      "name": "Boom Boom Bass",
+      "url": "https://open.spotify.com/track/2J194R0KIKbK7bTHfUHPDB"
+    },
+    {
+      "added_at": "2024-06-21 05:14:44",
+      "album": {
         "name": "Wife",
         "url": "https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 173640,
       "name": "Virtual Angel",
       "url": "https://open.spotify.com/track/1iGNZerzZHm2GLu7k1OS3J"
-    },
-    {
-      "added_at": "2024-06-21 05:14:44",
-      "album": {
-        "name": "RIIZING - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 152889,
-      "name": "Boom Boom Bass",
-      "url": "https://open.spotify.com/track/2J194R0KIKbK7bTHfUHPDB"
     },
     {
       "added_at": "2024-06-21 05:14:44",

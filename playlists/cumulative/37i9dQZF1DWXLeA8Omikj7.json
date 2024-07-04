@@ -6796,7 +6796,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 239803,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u"
@@ -16558,6 +16558,24 @@
       "duration_ms": 224000,
       "name": "Tropic Air",
       "url": "https://open.spotify.com/track/3myrvhxZL6nf2UPOYt9TiQ"
+    },
+    {
+      "album": {
+        "name": "Truffles Sprinkles",
+        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251333,
+      "name": "Truffles Sprinkles",
+      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     },
     {
       "album": {

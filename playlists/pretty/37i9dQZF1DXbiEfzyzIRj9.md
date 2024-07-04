@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Stones Taro
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,075 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,074 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 26 | [Into Gold](https://open.spotify.com/track/2uWJpyxK7gSGdGBLOX4lMV) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Into Gold](https://open.spotify.com/album/7yIJ7abwVOMsviS21jFkeW) | 5:42 |
 | 27 | [Echelon](https://open.spotify.com/track/6v61nfuCBk2AiXyHqrzFKm) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D), [Sascha](https://open.spotify.com/artist/0rwANEL5H5Tzt8ZYSmgtFI) | [Echelon](https://open.spotify.com/album/3joyuTsnahEQgvQ3yh6PKr) | 2:37 |
 | 28 | [Air Tight](https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Prism of Pleasure](https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er) | 3:54 |
-| 29 | [Without Love \- MET Contrast Remix](https://open.spotify.com/track/0DVOV3RLe5wN5aA8EpCzfO) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg), [MET](https://open.spotify.com/artist/5ve30CMlk6U2OZ2sqtchTc) | [Without Love \(MET Contrast Remix\)](https://open.spotify.com/album/11cFvUMHrsG7VesgP15K29) | 4:04 |
+| 29 | [Without Love \- MET Contrast Remix](https://open.spotify.com/track/0DVOV3RLe5wN5aA8EpCzfO) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg), [MET](https://open.spotify.com/artist/4QzScFRs2N6EdhJfX74b1O) | [Without Love \(MET Contrast Remix\)](https://open.spotify.com/album/11cFvUMHrsG7VesgP15K29) | 4:04 |
 | 30 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 |
 | 31 | [Ninja](https://open.spotify.com/track/2RU6sr7q3f8eCPGSTHrKPW) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGRHYTHM](https://open.spotify.com/album/24wuIBwGVSr5BuE4SAZVPP) | 3:11 |
 | 32 | [Mountain Chicken](https://open.spotify.com/track/3hejS5tW4mOP4kLKfZjKBz) | [Guchon](https://open.spotify.com/artist/1Xa4Ob475n3X1O1kkpgw99), [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa) | [Dream Team EP](https://open.spotify.com/album/3nrQTSUcDuTyQIos8Bos8I) | 5:35 |

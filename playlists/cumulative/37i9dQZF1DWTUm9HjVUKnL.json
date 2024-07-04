@@ -15905,6 +15905,32 @@
     },
     {
       "album": {
+        "name": "Rendezvous",
+        "url": "https://open.spotify.com/album/3w5hz4zdo66O3NugeTh7IF"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        },
+        {
+          "name": "MONTMARTRE",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+        },
+        {
+          "name": "Ghenda",
+          "url": "https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196731,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/5MctBX8S4ks5Yr0fU66dOh"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0Scmfn6W4lYHyiRpp4F7lj"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 197873,
+  "num_followers": 197921,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAD4e8sqRWqiB9JMa2tIE4Av",
+  "snapshot_id": "ZoNDAAAAAADisxMwQFh1h0yj2rcS2PhO",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Bigger Artist",
+        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 209269,
+      "name": "Drowning (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Artist",
         "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
       },
@@ -88,9 +108,9 @@
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 246987,
-      "name": "Still Think About You",
-      "url": "https://open.spotify.com/track/2FTeQQ5Rg9tBpgpTF5mnhE"
+      "duration_ms": 128156,
+      "name": "My Shit",
+      "url": "https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw"
     },
     {
       "added_at": null,
@@ -168,9 +188,9 @@
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 174192,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/5uZm7EFtP5aoTJvx5gv9Xf"
+      "duration_ms": 246987,
+      "name": "Still Think About You",
+      "url": "https://open.spotify.com/track/2FTeQQ5Rg9tBpgpTF5mnhE"
     },
     {
       "added_at": null,
@@ -355,18 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoodie SZN",
-        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+        "name": "Party (feat. A Boogie Wit da Hoodie)",
+        "url": "https://open.spotify.com/album/2ce9XFj7OA3f78oO5XFFhV"
       },
       "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 157862,
-      "name": "Love Drugs and Sex",
-      "url": "https://open.spotify.com/track/1Gno5IBUHh6vUKp4nxu2Yd"
+      "duration_ms": 210315,
+      "name": "Party (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/5PDoWY5Av2Ba3rWIdY9Ij0"
     },
     {
       "added_at": null,
@@ -391,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Party (feat. A Boogie Wit da Hoodie)",
-        "url": "https://open.spotify.com/album/2ce9XFj7OA3f78oO5XFFhV"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 210315,
-      "name": "Party (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/5PDoWY5Av2Ba3rWIdY9Ij0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
@@ -431,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Steppas",
-        "url": "https://open.spotify.com/album/5EFWc59llfnLab6hpjJBkX"
+        "name": "B4 AVA",
+        "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
       },
       "artists": [
         {
@@ -440,9 +444,25 @@
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Steppas",
-      "url": "https://open.spotify.com/track/1NIYStZPXSEwxoeX28lK5e"
+      "duration_ms": 215303,
+      "name": "Man in the Mirror",
+      "url": "https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "Skeezers",
+      "url": "https://open.spotify.com/track/2A4vCndSkZ3jd5nfh3a8gc"
     },
     {
       "added_at": null,
@@ -463,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoodie SZN",
-        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+        "name": "Steppas",
+        "url": "https://open.spotify.com/album/5EFWc59llfnLab6hpjJBkX"
       },
       "artists": [
         {
@@ -472,9 +492,9 @@
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 198053,
-      "name": "Skeezers",
-      "url": "https://open.spotify.com/track/2A4vCndSkZ3jd5nfh3a8gc"
+      "duration_ms": 201000,
+      "name": "Steppas",
+      "url": "https://open.spotify.com/track/1NIYStZPXSEwxoeX28lK5e"
     },
     {
       "added_at": null,
@@ -591,6 +611,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Day69: Graduation Day",
+        "url": "https://open.spotify.com/album/5RPGNLQhSag601FMPT2VW6"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 151914,
+      "name": "KEKE",
+      "url": "https://open.spotify.com/track/7ELPiYjcp2DjvbrKdqcAx1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "B4 BOA",
         "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
       },
@@ -603,6 +647,26 @@
       "duration_ms": 177893,
       "name": "Did Me Wrong",
       "url": "https://open.spotify.com/track/2hkcNrUwTVwKqjfUO1Kx3d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "duration_ms": 156511,
+      "name": "Come Closer (feat. Queen Naija)",
+      "url": "https://open.spotify.com/track/3UhRsQVrELOATEiY7E9X2T"
     },
     {
       "added_at": null,
@@ -687,42 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TBA",
-        "url": "https://open.spotify.com/album/2apbRBAafIKmcWwESmLHJi"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "DJ SpinKing",
-          "url": "https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Timeless (feat. DJ SPINKING)",
-      "url": "https://open.spotify.com/track/0q5DrtpnnGpOvBy5nnPMbe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ALONE",
-        "url": "https://open.spotify.com/album/7CQWEPM5BVSDy3QS4Eb38H"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 111173,
-      "name": "How to Love",
-      "url": "https://open.spotify.com/track/4k4p12OtiVfV4jY8jAzsap"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scriptures",
         "url": "https://open.spotify.com/album/7FYP4Y8W3UJK4YCN0efAi3"
       },
@@ -747,22 +775,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artist 2.0 (Deluxe)",
-        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
+        "name": "ALONE",
+        "url": "https://open.spotify.com/album/7CQWEPM5BVSDy3QS4Eb38H"
       },
       "artists": [
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/6RTLnOk36W68I78qjRi0XB"
         }
       ],
-      "duration_ms": 135017,
-      "name": "It's Crazy (feat. Melody)",
-      "url": "https://open.spotify.com/track/43KDvvVHjDBtx8qD5hs5qH"
+      "duration_ms": 111173,
+      "name": "How to Love",
+      "url": "https://open.spotify.com/track/4k4p12OtiVfV4jY8jAzsap"
     },
     {
       "added_at": null,
@@ -787,6 +811,46 @@
       "duration_ms": 174333,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Artist 2.0 (Deluxe)",
+        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/6RTLnOk36W68I78qjRi0XB"
+        }
+      ],
+      "duration_ms": 135017,
+      "name": "It's Crazy (feat. Melody)",
+      "url": "https://open.spotify.com/track/43KDvvVHjDBtx8qD5hs5qH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Right Back (feat. A Boogie Wit Da Hoodie)",
+        "url": "https://open.spotify.com/album/36Mq31otog86NGRflpMmkg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 254999,
+      "name": "Right Back (feat. A Boogie Wit Da Hoodie)",
+      "url": "https://open.spotify.com/track/6PYnUsNEpYC7A4BS2sjw3L"
     },
     {
       "added_at": null,
@@ -827,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Right Back (feat. A Boogie Wit Da Hoodie)",
-        "url": "https://open.spotify.com/album/36Mq31otog86NGRflpMmkg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 254999,
-      "name": "Right Back (feat. A Boogie Wit Da Hoodie)",
-      "url": "https://open.spotify.com/track/6PYnUsNEpYC7A4BS2sjw3L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Artist",
         "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
       },
@@ -859,42 +903,6 @@
       "duration_ms": 235776,
       "name": "Friend Zone",
       "url": "https://open.spotify.com/track/3W0Fvft7V7MtSftTrC8MSQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ALONE",
-        "url": "https://open.spotify.com/album/7CQWEPM5BVSDy3QS4Eb38H"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 188973,
-      "name": "Tiffanys",
-      "url": "https://open.spotify.com/track/3XGOPGW6OpRBsYarBlcyIb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meet The Woo 2",
-        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 161120,
-      "name": "Foreigner (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/7AdTyfK7fnvUYbUCGpWqUf"
     },
     {
       "added_at": null,
@@ -923,6 +931,22 @@
       "duration_ms": 158994,
       "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ALONE",
+        "url": "https://open.spotify.com/album/7CQWEPM5BVSDy3QS4Eb38H"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 188973,
+      "name": "Tiffanys",
+      "url": "https://open.spotify.com/track/3XGOPGW6OpRBsYarBlcyIb"
     },
     {
       "added_at": null,
@@ -967,18 +991,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artist 2.0",
-        "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
+        "name": "MVP (feat. G-Eazy)",
+        "url": "https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG"
       },
       "artists": [
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
         }
       ],
-      "duration_ms": 156960,
-      "name": "Mood Swings",
-      "url": "https://open.spotify.com/track/0VZe8C7xgAIQC0E0qEVIEh"
+      "duration_ms": 173948,
+      "name": "MVP (feat. G-Eazy)",
+      "url": "https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d"
     },
     {
       "added_at": null,
@@ -999,26 +1027,6 @@
       "duration_ms": 221421,
       "name": "Boogie Chata (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/0KmbZSG6sTyZoflJbg9Uwu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MVP (feat. G-Eazy)",
-        "url": "https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        }
-      ],
-      "duration_ms": 173948,
-      "name": "MVP (feat. G-Eazy)",
-      "url": "https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d"
     },
     {
       "added_at": null,

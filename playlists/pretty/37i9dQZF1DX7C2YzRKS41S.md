@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,838 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,883 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 51 | [Simples e Romântico](https://open.spotify.com/track/7dAbpCdKHAPNONpwGTmGzC) | [Nicolas Germano](https://open.spotify.com/artist/7rT9dkimFVzgMF0IyIfiYy) | [Simples e Romântico](https://open.spotify.com/album/4Dm6py1rtwMJqh75XVMfnH) | 3:27 |
 | 52 | [Ai de Mim](https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8) | [OutroEu](https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4) | 4:18 |
 | 53 | [Homecoming](https://open.spotify.com/track/6Q1VMEsgtuOXZxdduuj4lG) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Homecoming](https://open.spotify.com/album/3WHRzQYzTFmIVnYiqGWBra) | 2:52 |
-| 54 | [Trevo \(Tu\)](https://open.spotify.com/track/2vRBYKWOyHtFMtiK60qRz7) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [ANAVITÓRIA](https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw) | 3:25 |
-| 55 | [The Worst Of You](https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:29 |
+| 54 | [The Worst Of You](https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:29 |
+| 55 | [Trevo \(Tu\)](https://open.spotify.com/track/2vRBYKWOyHtFMtiK60qRz7) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [ANAVITÓRIA](https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw) | 3:25 |
 | 56 | [Minha Voz](https://open.spotify.com/track/1IStorlI3jeYGN5agXweMa) | [Versos Que Compomos Na Estrada](https://open.spotify.com/artist/4rwTeE0LZKlPm6d8N4w5ME), [Eu Me Chamo Antônio](https://open.spotify.com/artist/5VPWkoRQuCpvtvH1cB0MUh) | [Um Verão Qualquer](https://open.spotify.com/album/48K0xdUQuGVzVj3FbNVOQX) | 2:42 |
 | 57 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
 | 58 | [Rock It](https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Rock It](https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY) | 3:27 |

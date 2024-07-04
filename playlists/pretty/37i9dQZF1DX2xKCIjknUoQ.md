@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,363 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,391 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 14 | [Manu Chao \- Single Version](https://open.spotify.com/track/3iP2zPzKv47zEB6FsQ5gKW) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Never Trust A Guy Who After Having Been A Punk Is Now Playing Electro](https://open.spotify.com/album/3sJnvkL4jX1c9y3m9jtQXH) | 2:47 |
 | 15 | [L'homme pressé](https://open.spotify.com/track/637T4loKlXPwfUdQVZjPTV) | [Noir Désir](https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos) | [666.667 Club](https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT) | 3:45 |
 | 16 | [Je cours](https://open.spotify.com/track/15RN1rfzBWaAv6B9RBWLGu) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [Le chemin](https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i) | 3:00 |
-| 17 | [Ça me vexe](https://open.spotify.com/track/5LKdAzDeMyMXezSTIHkXcE) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Ça me vexe](https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0) | 3:27 |
-| 18 | [Elle m'a dit](https://open.spotify.com/track/631aobaJggPYE0nIh3mo2t) | [Cali](https://open.spotify.com/artist/1ULXG4gd6YSvdjuFBJ6sAA) | [L'amour Parfait](https://open.spotify.com/album/1wDIEUmo5UDNuC7TkgCMCX) | 3:33 |
+| 17 | [Elle m'a dit](https://open.spotify.com/track/631aobaJggPYE0nIh3mo2t) | [Cali](https://open.spotify.com/artist/1ULXG4gd6YSvdjuFBJ6sAA) | [L'amour Parfait](https://open.spotify.com/album/1wDIEUmo5UDNuC7TkgCMCX) | 3:33 |
+| 18 | [Ça me vexe](https://open.spotify.com/track/5LKdAzDeMyMXezSTIHkXcE) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Ça me vexe](https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0) | 3:27 |
 | 19 | [Rimini](https://open.spotify.com/track/5xo1GjsebrOd1iUVoJ6SEK) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Rock'n'Roll Part 9](https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK) | 2:43 |
 | 20 | [Comme elle vient](https://open.spotify.com/track/1Na29wiC0macG2Va6DXvJ5) | [Noir Désir](https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos) | [666.667 Club](https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT) | 2:25 |
 | 21 | [Toy Boy](https://open.spotify.com/track/0vTRJ32D1tg11WnXc0CIq9) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Nevermind the Living Dead](https://open.spotify.com/album/0104yYvLVYm2mVaUVtWuVW) | 4:25 |
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 36 | [Notre Epoque](https://open.spotify.com/track/0tas4ZLkePk8aTjt5eesp6) | [Tarmac](https://open.spotify.com/artist/7jj1zcBEwp0Joqfb9Bdk7J) | [Notre Epoque](https://open.spotify.com/album/3nKsRvwwToIvCoodMywDeo) | 3:34 |
 | 37 | [Jouer dehors](https://open.spotify.com/track/3TVoY7A5OWdJvefHDEsfRf) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Jouer dehors](https://open.spotify.com/album/5PO1wuSFiCYQZunByOqJfs) | 3:33 |
 | 38 | [La croisée](https://open.spotify.com/track/7AlVE4SVUoXpe5L6kO77xE) | [Blankass](https://open.spotify.com/artist/1FSEVDIvXWHWPmPeCuka03) | [L'Homme Fleur](https://open.spotify.com/album/1XTxNFUiQHU304hDMg5mHM) | 4:27 |
-| 39 | [Raisonne](https://open.spotify.com/track/7hSTh1YWoPGMlVnevO6Rev) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7) | [Aston Villa](https://open.spotify.com/album/6JkbhM2APycjDSEV6e1vlm) | 5:07 |
+| 39 | [Marée haute](https://open.spotify.com/track/4nHA9dbzEp6Q4lH6P8zN9E) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [Plates coutures](https://open.spotify.com/album/35KPICCxAelsB81JKpLZjN) | 4:08 |
 | 40 | [Qu'est\-ce qu'on va faire de toi](https://open.spotify.com/track/00ENwiGXMl2NpX2pI3FDoA) | [Alister](https://open.spotify.com/artist/1xouBaP3PomCmnS8kv2loT) | [Aucun mal ne vous sera fait](https://open.spotify.com/album/67KzexkVZ1xJZH5ZjNBVKW) | 4:02 |
-| 41 | [Marée haute](https://open.spotify.com/track/4nHA9dbzEp6Q4lH6P8zN9E) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [Plates coutures](https://open.spotify.com/album/35KPICCxAelsB81JKpLZjN) | 4:08 |
-| 42 | [Chirac En Prison](https://open.spotify.com/track/7kZwIyIu8k8RWnEriuGEqp) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Rock'n'Roll Part 9](https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK) | 2:55 |
+| 41 | [Chirac En Prison](https://open.spotify.com/track/7kZwIyIu8k8RWnEriuGEqp) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Rock'n'Roll Part 9](https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK) | 2:55 |
+| 42 | [Raisonne](https://open.spotify.com/track/7hSTh1YWoPGMlVnevO6Rev) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7) | [Aston Villa](https://open.spotify.com/album/6JkbhM2APycjDSEV6e1vlm) | 5:07 |
 | 43 | [Révolution.com](https://open.spotify.com/track/7ciDK4wg2Lmk7KaoWWYtgg) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Revolution.com](https://open.spotify.com/album/2ARdTJwLcGdw0GGhbeEfSo) | 3:27 |
 | 44 | [Je me souviens, je me rappelle](https://open.spotify.com/track/3vgmRlBi986YeWV95UNgJ6) | [Daniel Darc](https://open.spotify.com/artist/7iMdjNroWSI5FqRxeu2G5t) | [Crèvecoeur \(2019 remastered\)](https://open.spotify.com/album/5brOhiGaSGy404g0CaY3Yf) | 3:19 |
-| 45 | [Alice & June \- Mix 2020](https://open.spotify.com/track/7taoYAfDTtuI5dxSBeijUO) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Singles Collection \(2001 \- 2021\)](https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C) | 3:28 |
-| 46 | [Cinglés](https://open.spotify.com/track/47D4jhH08KvIh0cDCT66Jv) | [Enhancer](https://open.spotify.com/artist/1ZMwAUWdG4agL20Lxsv5Ah) | [Street Trash](https://open.spotify.com/album/5H5wogwt7titOvQyo6r1rS) | 3:20 |
+| 45 | [Cinglés](https://open.spotify.com/track/47D4jhH08KvIh0cDCT66Jv) | [Enhancer](https://open.spotify.com/artist/1ZMwAUWdG4agL20Lxsv5Ah) | [Street Trash](https://open.spotify.com/album/5H5wogwt7titOvQyo6r1rS) | 3:20 |
+| 46 | [Alice & June \- Mix 2020](https://open.spotify.com/track/7taoYAfDTtuI5dxSBeijUO) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Singles Collection \(2001 \- 2021\)](https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C) | 3:28 |
 | 47 | [La traversée](https://open.spotify.com/track/2pgOiAr03DlaNLFwljFwF6) | [Radio Elvis](https://open.spotify.com/artist/1U1tfTJHxezIBnlay13sVA) | [Les conquêtes \(Deluxe edition\)](https://open.spotify.com/album/4EGzP5VOcMpD3wolbI8Fcj) | 3:30 |
 | 48 | [Anomalie](https://open.spotify.com/track/4lzxPainD9ovAzAAAeXoqs) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Anomalie](https://open.spotify.com/album/7BpAbYt9NzfXUOUlniH9Qf) | 3:09 |
 | 49 | [Undone](https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/52cKwQBHdpKHYYbrnqKJtX">GRACEY</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46 likes - 53 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 45 likes - 53 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 38 | [Easy For You](https://open.spotify.com/track/3f5kqJzwjCjMTxVprKhqt8) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Easy For You](https://open.spotify.com/album/6q67t3gz2gVAzdq1zPQJrB) | 3:04 |
 | 39 | [the internet](https://open.spotify.com/track/2oXwBL6QlB7sYBXbvahZke) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [the internet](https://open.spotify.com/album/1Cmb2nNZWbB84xwfESSVYf) | 3:27 |
 | 40 | [Can't Be Friends](https://open.spotify.com/track/3HjBenHdbppyR8Y3vVUe85) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Fragile](https://open.spotify.com/album/4RwVWm4kAzRgEiVzVpxHGG) | 2:47 |
-| 41 | [2005](https://open.spotify.com/track/1QR8dwpWuSYbTzr13mt5ec) | [Remedy Club](https://open.spotify.com/artist/1MuDSnGT0IosRnJbulWvQn), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [2005](https://open.spotify.com/album/2XjA5IykqgdkzTrBUzj0Xu) | 2:20 |
-| 42 | [BETTER OFF](https://open.spotify.com/track/0yEMSYJf0OPyZuhkGs1DBa) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:48 |
+| 41 | [BETTER OFF](https://open.spotify.com/track/0yEMSYJf0OPyZuhkGs1DBa) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:48 |
+| 42 | [2005](https://open.spotify.com/track/1QR8dwpWuSYbTzr13mt5ec) | [Remedy Club](https://open.spotify.com/artist/1MuDSnGT0IosRnJbulWvQn), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [2005](https://open.spotify.com/album/2XjA5IykqgdkzTrBUzj0Xu) | 2:20 |
 | 43 | [Clouds](https://open.spotify.com/track/2S30osPVXM82F0Trgd4zbc) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [What the Future Holds](https://open.spotify.com/album/7MfKuIWBxHdGuyt8HJbdPz) | 3:55 |
 | 44 | [The Writer](https://open.spotify.com/track/3wv0ik7VEaJi7gervO2A2C) | [Four of Diamonds](https://open.spotify.com/artist/42qq1SQuTH1AT2daN3fLMt), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Writer](https://open.spotify.com/album/0iJSO6FoJD0CZvNIzJnWl5) | 2:59 |
 | 45 | [In Case I Fall Asleep \(feat\. GRACEY\)](https://open.spotify.com/track/1MIYJAgj86K1cjlcrfvBcH) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Happy Machine](https://open.spotify.com/album/11EidE2Zs9YaYmgMoydewV) | 2:23 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 52 | [I’ll Be Here For You](https://open.spotify.com/track/2j1SimCZFJOQzOVA1R9SPT) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:38 |
 | 53 | [Figure It Out](https://open.spotify.com/track/4u1OGnxFaeeDncPLsW6Zbf) | [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Figure It Out](https://open.spotify.com/album/3nx85pcfiQEOTzpyIeJcw8) | 3:11 |
 
-Snapshot ID: `AbVpYgAAAABtGF391QZd686W/vlTjTjA`
+Snapshot ID: `AbVvDAAAAACKpJrqFLWbOqEJtmfd7rCL`

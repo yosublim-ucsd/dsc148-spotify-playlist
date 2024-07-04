@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ?si=ptVnIQdCSnWRRx\_q9y1meA">Christiaan Baartman</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,364 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,379 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 | 25 | [Devil You Know](https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Devil You Know](https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM) | 3:12 |
 | 26 | [Chicken Fried](https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:58 |
 | 27 | [Beautiful As You](https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Beautiful As You](https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG) | 2:43 |
-| 28 | [II MOST WANTED](https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:28 |
-| 29 | [Indifferent](https://open.spotify.com/track/4WtllVoPahHbtOGnLvS8Wk) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Indifferent](https://open.spotify.com/album/7nKCQbT5TOu7AAug3vlRLM) | 2:56 |
+| 28 | [Indifferent](https://open.spotify.com/track/4WtllVoPahHbtOGnLvS8Wk) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Indifferent](https://open.spotify.com/album/7nKCQbT5TOu7AAug3vlRLM) | 2:56 |
+| 29 | [II MOST WANTED](https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:28 |
 | 30 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
 | 31 | [Hell or High Water \(From Twisters: The Album\)](https://open.spotify.com/track/0M40J5bPZACa2XXC5GF8tn) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Hell or High Water \(From Twisters: The Album\)](https://open.spotify.com/album/75bF2ZeHewzInYro8m5IYE) | 3:14 |
 | 32 | [Hell Of A View](https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Soul](https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz) | 2:55 |

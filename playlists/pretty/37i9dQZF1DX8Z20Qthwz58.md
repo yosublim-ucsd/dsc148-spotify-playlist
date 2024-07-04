@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,753 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,774 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 |
 | 2 | [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 |
-| 3 | [Butterflies](https://open.spotify.com/track/07W0lOkOUhVhdJQ9wVepWr) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:41 |
-| 4 | [Lucid Dream](https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:30 |
+| 3 | [Lucid Dream](https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:30 |
+| 4 | [Butterflies](https://open.spotify.com/track/07W0lOkOUhVhdJQ9wVepWr) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:41 |
 | 5 | [Jasmine](https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Jasmine](https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk) | 3:21 |
 | 6 | [Ballroom Extravaganza](https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:09 |
 | 7 | [D \(Half Moon\)](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:49 |
 | 8 | [In My Dreams](https://open.spotify.com/track/4ubg38wkWizzLsQwLuE6rM) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:24 |
 | 9 | [Restless](https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [LISTEN 035 Restless](https://open.spotify.com/album/5xDX8Uv4ojXg0ONDEcAMra) | 4:27 |
-| 10 | [Prologue](https://open.spotify.com/track/4stu4P8xHdm8ywpX1YpdFJ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 3:14 |
+| 10 | [Heaven \(Feat\. Sam Kim\)](https://open.spotify.com/track/0ZpEiNVDCJbZBS8e9DKOUw) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:06 |
 | 11 | [Magnetic \(R&B Remix\)](https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Magnetic \(Remixes\)](https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ) | 2:51 |
-| 12 | [Heaven \(Feat\. Sam Kim\)](https://open.spotify.com/track/0ZpEiNVDCJbZBS8e9DKOUw) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:06 |
+| 12 | [Prologue](https://open.spotify.com/track/4stu4P8xHdm8ywpX1YpdFJ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 3:14 |
 | 13 | [KISS ME](https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IS ANYBODY OUT THERE?](https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p) | 4:38 |
 | 14 | [Mood](https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:02 |
 | 15 | [lovememore.](https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 3:51 |

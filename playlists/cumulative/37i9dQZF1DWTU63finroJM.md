@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: 派偉俊Patrick Brasca
 
-1,508 songs - 3 day 10 hr 34 min
+1,509 songs - 3 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,7 +530,7 @@
 | [Holiday Only](https://open.spotify.com/track/13xSCpapdAiR1bPWwoZp1y) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Holiday Only](https://open.spotify.com/album/1W0r6fsyYXIWVRJKR8cWfw) | 4:14 | 2022-02-03 | 2022-03-18 |
 | [Home](https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Proverb](https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK) | 3:21 | 2022-06-29 | 2023-05-09 |
 | [Home](https://open.spotify.com/track/5bCYPHUQ6kaAUN51DijF5I) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT), [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Home](https://open.spotify.com/album/2yvil8dH6U3hzXK96yUpni) | 3:43 | 2022-09-08 | 2023-05-31 |
-| [Home](https://open.spotify.com/track/0zo3jZ7I0wMugFsqgN1zQp) | [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Dear Disorientated Soul](https://open.spotify.com/album/67zBPvAcphmzJxuYPpyeUQ) | 2:16 | 2024-05-24 | 2024-07-02 |
+| [Home](https://open.spotify.com/track/0zo3jZ7I0wMugFsqgN1zQp) | [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Dear Disorientated Soul](https://open.spotify.com/album/67zBPvAcphmzJxuYPpyeUQ) | 2:16 | 2024-05-24 |  |
 | [homebody](https://open.spotify.com/track/2Dc0zNIYfOhWs1D13pjQrJ) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr), [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [homebody](https://open.spotify.com/album/5rt24b30Az06G6MYCfjwCJ) | 2:42 | 2023-09-22 | 2023-10-28 |
 | [hometonone](https://open.spotify.com/track/2r3QRuErB1Lgck5CqI2KH4) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [hometonone](https://open.spotify.com/album/1uadeW46GYVBfUsqtK45in) | 2:58 | 2022-03-21 | 2023-04-18 |
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 | 2022-03-21 | 2023-04-18 |
@@ -724,7 +724,7 @@
 | [LOSTWITHOUTMARIA](https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [LOSTWITHOUTMARIA](https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT) | 2:34 | 2024-02-09 |  |
 | [LOTUS](https://open.spotify.com/track/4CdSVeRvrteDBAyHD4Cruc) | [ForceParkBois](https://open.spotify.com/artist/2LgQQ0AwWzl3XoXKWVhFEV) | [LOTUS](https://open.spotify.com/album/4KKqYg6lKN5AVI81JyJH5D) | 4:58 | 2022-03-24 | 2022-06-15 |
 | [Love Lost](https://open.spotify.com/track/6AP8Ttpx7tCVd8EqflkkR0) | [Calum Bowie](https://open.spotify.com/artist/0BjKESiuU8dT323VIL8SqG) | [Love Lost](https://open.spotify.com/album/2TFjqyVzdKjNnNxoiR1VFN) | 2:59 | 2024-04-05 | 2024-06-01 |
-| [Love Me Like You Say You Do](https://open.spotify.com/track/4NO0f4NB6jmsmUT2hNtNE8) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Love Me Like You Say You Do](https://open.spotify.com/album/6eUwL9LXbgvh0zaNPjRZV8) | 3:40 | 2024-04-19 |  |
+| [Love Me Like You Say You Do](https://open.spotify.com/track/4NO0f4NB6jmsmUT2hNtNE8) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Love Me Like You Say You Do](https://open.spotify.com/album/6eUwL9LXbgvh0zaNPjRZV8) | 3:40 | 2024-04-19 | 2024-07-04 |
 | [Love Me Little More](https://open.spotify.com/track/6j2nyMkP5ACxj7JiXx40RE) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Love Me Little More](https://open.spotify.com/album/35dpZS4M2NcrxZXTrOTIQR) | 3:19 | 2022-02-03 | 2022-08-02 |
 | [Love Me or Leave Me](https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt) | 3:25 | 2023-05-04 | 2024-01-13 |
 | [love u](https://open.spotify.com/track/4pxBGvdDoLLYtzs2Z8AC6e) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [days to morning glory](https://open.spotify.com/album/6sYWO4IATLL7LZtgkwm2eU) | 3:30 | 2022-03-24 | 2022-06-07 |
@@ -742,6 +742,7 @@
 | [Maharani](https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 3:30 | 2023-05-30 | 2023-10-28 |
 | [make it okay \(change is terrifying\)](https://open.spotify.com/track/0T1SgBVcEkmqYRxyr1s9vo) | [jupiterkid](https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U) | [make it okay \(change is terrifying\)](https://open.spotify.com/album/08s5jfhQc3usYnlOXhnvCD) | 4:34 | 2023-05-30 | 2024-01-13 |
 | [MAKE MORE NOISE OF YOU](https://open.spotify.com/track/2luJ055CDIvQToqSJNSukm) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [harutosyura](https://open.spotify.com/album/6or18qH3INbHS0kyALV2HL) | 1:44 | 2023-01-20 | 2023-02-18 |
+| [Makeweight](https://open.spotify.com/track/16AmxoT1jXMLhjTSLzTEus) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy) | [Serenity Now](https://open.spotify.com/album/1IT4QklvNNguITOJnmn0DF) | 3:38 | 2024-06-28 |  |
 | [MALA](https://open.spotify.com/track/7iVvmOpIfC7axJSK2oZNIJ) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [MALA](https://open.spotify.com/album/6RoObhqOeyhrhsMgG81MNZ) | 2:58 | 2022-03-24 | 2022-12-15 |
 | [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 | 2023-07-13 | 2023-09-16 |
 | [Malayo](https://open.spotify.com/track/55XlSI5d8hMVoNjVkpQpT7) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Malayo](https://open.spotify.com/album/5eeDd6LGXrzELl6YR6UvYb) | 4:36 | 2022-02-03 | 2022-03-17 |
@@ -947,7 +948,7 @@
 | [Pehli Baarish](https://open.spotify.com/track/7pHUAAEiXQMaZOng72W6K0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish](https://open.spotify.com/album/0CcpdlcrxUp8fbspTcqJww) | 2:37 | 2022-09-08 | 2023-05-23 |
 | [Pelangi](https://open.spotify.com/track/0ChdsMA1hWkE2I8pd3cpmd) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Pelangi](https://open.spotify.com/album/586n7LNVNnZlcBQjZrdOwN) | 4:16 | 2022-02-03 | 2022-04-21 |
 | [Pelejei](https://open.spotify.com/track/4mFyni5z0DnQLvXvaA8yWm) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:16 | 2022-04-07 | 2022-12-15 |
-| [People 365](https://open.spotify.com/track/5GmDbVsfLql2Ltu9Fa6Tkk) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅱ](https://open.spotify.com/album/1WSGYCNUQ6h1vMME5cAA2d) | 4:36 | 2024-04-19 |  |
+| [People 365](https://open.spotify.com/track/5GmDbVsfLql2Ltu9Fa6Tkk) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅱ](https://open.spotify.com/album/1WSGYCNUQ6h1vMME5cAA2d) | 4:36 | 2024-04-19 | 2024-07-04 |
 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 | 2022-10-06 | 2023-05-31 |
 | [Per sentirsi meno soli](https://open.spotify.com/track/23C3f0TckAwl0PFWXqDDKz) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [FIAT131](https://open.spotify.com/artist/517LowCOyXMoAyEYVK3nuA), [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [Per sentirsi meno soli](https://open.spotify.com/album/3wy8IYXn4kEco6DoCn0imf) | 2:10 | 2023-04-12 | 2023-10-21 |
 | [Pernah Salah](https://open.spotify.com/track/1DLIKbsOcsNAoRLlGq6nJM) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Pernah Salah](https://open.spotify.com/album/3I2QEgfVkBOKLLJAqaegoB) | 4:18 | 2022-02-03 | 2022-03-16 |

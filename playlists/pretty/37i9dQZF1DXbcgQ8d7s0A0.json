@@ -1,6 +1,6 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1290434,
+  "num_followers": 1290640,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 230466,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2024-06-24 11:23:29",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "The George Benson Collection",
-        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 316160,
-      "name": "On Broadway",
-      "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
         "name": "Definitive Soul: Spinners",
         "url": "https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 192760,
       "name": "It's A Shame - Remastered",
       "url": "https://open.spotify.com/track/5LuVBkfELaydohNZahwvNN"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
+        "name": "The George Benson Collection",
+        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 316160,
+      "name": "On Broadway",
+      "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
     },
     {
       "added_at": "2024-06-24 11:23:29",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "Be Thankful for What You Got",
-        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
-      },
-      "artists": [
-        {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
-        }
-      ],
-      "duration_ms": 429371,
-      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
-      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
         "name": "'70s Pop #1's",
         "url": "https://open.spotify.com/album/0EGFovrr9MRmTAqnTAaYMU"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 214066,
       "name": "Baby Come Back",
       "url": "https://open.spotify.com/track/3adQpYatYOsgAKr853t4mZ"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
+        "name": "Be Thankful for What You Got",
+        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
+      },
+      "artists": [
+        {
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+        }
+      ],
+      "duration_ms": 429371,
+      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
+      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
     },
     {
       "added_at": "2024-06-24 11:23:29",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "Turn Your Love Around - 2015 GH Version",
-      "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
         "name": "Express Yourself (Remastered & Expanded)",
         "url": "https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 229653,
       "name": "Express Yourself - Remastered Version",
       "url": "https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "Turn Your Love Around - 2015 GH Version",
+      "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
     },
     {
       "added_at": "2024-06-24 11:23:29",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "Stone Hits: The Very Best Of Angie Stone",
-        "url": "https://open.spotify.com/album/3N8afNZRMDlSO5TrDZ08Nc"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 269266,
-      "name": "Wish I Didn't Miss You",
-      "url": "https://open.spotify.com/track/1euSJSk3dqCRmfdVwczmsR"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
         "name": "The Essentials: Ambrosia",
         "url": "https://open.spotify.com/album/1CB0IK8U51Tv4ynJYdKKXW"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 282373,
       "name": "How Much I Feel - Remastered Version",
       "url": "https://open.spotify.com/track/30OYvco4YZRz3wF2SP2VZC"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
+        "name": "Stone Hits: The Very Best Of Angie Stone",
+        "url": "https://open.spotify.com/album/3N8afNZRMDlSO5TrDZ08Nc"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 269266,
+      "name": "Wish I Didn't Miss You",
+      "url": "https://open.spotify.com/track/1euSJSk3dqCRmfdVwczmsR"
     },
     {
       "added_at": "2024-06-24 11:23:29",

@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 331986,
+  "num_followers": 332334,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,30 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Jump Dance Move Bounce",
+        "url": "https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        },
+        {
+          "name": "NOTMYTYPE",
+          "url": "https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U"
+        },
+        {
+          "name": "AENJAY",
+          "url": "https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ"
+        }
+      ],
+      "duration_ms": 149610,
+      "name": "Jump Dance Move Bounce",
+      "url": "https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/6lumo11dn8gPbLLdmpe1PZ"
       },
@@ -239,30 +263,6 @@
       "duration_ms": 168529,
       "name": "Diamonds On My Mind",
       "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Jump Dance Move Bounce",
-        "url": "https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        },
-        {
-          "name": "NOTMYTYPE",
-          "url": "https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U"
-        },
-        {
-          "name": "AENJAY",
-          "url": "https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ"
-        }
-      ],
-      "duration_ms": 149610,
-      "name": "Jump Dance Move Bounce",
-      "url": "https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -335,46 +335,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "When I Push (Edit)",
-        "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "OFFAIAH",
-          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
-        }
-      ],
-      "duration_ms": 213582,
-      "name": "When I Push - Edit",
-      "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Machine Pulse",
-        "url": "https://open.spotify.com/album/34I15SYM2dCpWDBvFddUor"
-      },
-      "artists": [
-        {
-          "name": "Chris Veron",
-          "url": "https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S"
-        }
-      ],
-      "duration_ms": 221822,
-      "name": "Machine Pulse",
-      "url": "https://open.spotify.com/track/0BKfE3aTw6dy7im1IZldMG"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Reflection EP",
         "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
       },
@@ -395,6 +355,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Machine Pulse",
+        "url": "https://open.spotify.com/album/34I15SYM2dCpWDBvFddUor"
+      },
+      "artists": [
+        {
+          "name": "Chris Veron",
+          "url": "https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S"
+        }
+      ],
+      "duration_ms": 221822,
+      "name": "Machine Pulse",
+      "url": "https://open.spotify.com/track/0BKfE3aTw6dy7im1IZldMG"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Say It Again",
         "url": "https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6"
       },
@@ -407,6 +383,30 @@
       "duration_ms": 207272,
       "name": "Say It Again",
       "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "When I Push (Edit)",
+        "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        }
+      ],
+      "duration_ms": 213582,
+      "name": "When I Push - Edit",
+      "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -495,26 +495,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 193218,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "How You Move",
         "url": "https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 371555,
       "name": "You're Toxic",
       "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 193218,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -643,6 +643,26 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Elysium",
+        "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
+      },
+      "artists": [
+        {
+          "name": "Clap Codex",
+          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
+        },
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        }
+      ],
+      "duration_ms": 253242,
+      "name": "Elysium",
+      "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Love Is Free",
         "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 390447,
       "name": "Minimal",
       "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Elysium",
-        "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
-      },
-      "artists": [
-        {
-          "name": "Clap Codex",
-          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
-        },
-        {
-          "name": "Patrick Scuro",
-          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
-        }
-      ],
-      "duration_ms": 253242,
-      "name": "Elysium",
-      "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
     },
     {
       "added_at": "2024-06-21 04:00:00",

@@ -4,7 +4,7 @@
 
 > La playlist des artistes LGBTQIA+\. Photo : Nicky Doll
 
-40 songs - 2 hr 3 min
+41 songs - 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,10 +23,11 @@
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-06-04 |  |
 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 | 2024-06-04 |  |
 | [I had a dream](https://open.spotify.com/track/0j8IMvAeBKZEu2UeYstU51) | [Nicky Doll](https://open.spotify.com/artist/4EuM3R5q2w7YIedgtQiMrj) | [I had a dream](https://open.spotify.com/album/7sSQqumPyQveD30B8lM3ZQ) | 2:37 | 2024-06-04 |  |
+| [I'M READY](https://open.spotify.com/track/1QZXAnAMpys425p19UWlUH) | [LUCKY LOVE](https://open.spotify.com/artist/3EApXFqJtyNGLwOVFKvhMP) | [I'M READY](https://open.spotify.com/album/0aEO7eknTMcfJJiYk0pYxN) | 3:02 | 2024-07-03 |  |
 | [J'tomberai pas](https://open.spotify.com/track/4wFWwZ3AYbFmeQTqAnSKgF) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Panorama](https://open.spotify.com/album/30xA05iVxdjBjfj2mKXhL5) | 3:06 | 2024-06-04 |  |
 | [Le temps fera les choses](https://open.spotify.com/track/3VnkGuyau3qb04MVxSNjnl) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq La Suite](https://open.spotify.com/album/2hQ9QcZ4VkoeBdBo1JNG64) | 2:58 | 2024-06-04 |  |
 | [Lipstick Lover](https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Lipstick Lover](https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T) | 2:49 | 2024-06-04 |  |
-| [LOVA](https://open.spotify.com/track/1BKiHTMrJSax72pYTOds2U) | [LUCKY LOVE](https://open.spotify.com/artist/3EApXFqJtyNGLwOVFKvhMP) | [TENDRESSE](https://open.spotify.com/album/4fWaoWaNKTYjC604wGfJ0A) | 3:39 | 2024-06-04 |  |
+| [LOVA](https://open.spotify.com/track/1BKiHTMrJSax72pYTOds2U) | [LUCKY LOVE](https://open.spotify.com/artist/3EApXFqJtyNGLwOVFKvhMP) | [TENDRESSE](https://open.spotify.com/album/4fWaoWaNKTYjC604wGfJ0A) | 3:39 | 2024-06-04 | 2024-07-04 |
 | [Love](https://open.spotify.com/track/0crgq6PLl60iznPz45NEHP) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [Love](https://open.spotify.com/album/0uKQKIBzN5kpJSuiybdgVt) | 2:45 | 2024-06-04 |  |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-04 |  |
 | [Ma chérie](https://open.spotify.com/track/6HP89eE4a0PQv0emwrstu2) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Ma chérie](https://open.spotify.com/album/12SKaGibhGHQ091b1Iqgdz) | 3:01 | 2024-06-04 |  |

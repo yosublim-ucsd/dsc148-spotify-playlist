@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 
 > It's just us.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,130,490 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,503 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 12 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 |
 | 13 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |
 | 14 | [Honeypie](https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [For Abby](https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN) | 2:15 |
-| 15 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 |
+| 15 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
 | 16 | [All My Love](https://open.spotify.com/track/7ByxizhA4GgEf7Sxomxhze) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:11 |
-| 17 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
+| 17 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 |
 | 18 | [The Only Exception](https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:27 |
 | 19 | [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 |
 | 20 | [In A Good Way](https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:44 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 40 | [Will Do](https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV) | 3:44 |
 | 41 | [If I Get High](https://open.spotify.com/track/3O2pB9JHreUZ9F83qSNmu8) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:26 |
 | 42 | [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 |
-| 43 | [thoughts i have while lying in bed](https://open.spotify.com/track/7t01uN0kyKMEK8Ow9hhEXa) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [thoughts i have while lying in bed \(with Beach Weather\)](https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR) | 3:39 |
-| 44 | [Call Me Lover](https://open.spotify.com/track/4Pg6x9W2ziSJh5iym9XRTB) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:21 |
+| 43 | [Call Me Lover](https://open.spotify.com/track/4Pg6x9W2ziSJh5iym9XRTB) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:21 |
+| 44 | [thoughts i have while lying in bed](https://open.spotify.com/track/7t01uN0kyKMEK8Ow9hhEXa) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [thoughts i have while lying in bed \(with Beach Weather\)](https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR) | 3:39 |
 | 45 | [Georgia](https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:50 |
 | 46 | [Honest \- From The Amazing Spider\-Man 2 Soundtrack](https://open.spotify.com/track/1xJ8RjDucztPOKB0ek95tf) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [The Amazing Spider\-Man 2 \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11c2pVVBENFMufPqJMIC3R) | 3:57 |
 | 47 | [Superbloodmoon \(feat\. D4vd\)](https://open.spotify.com/track/2yBiwYEX680zQLrHwdV1aT) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 2:31 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 85 | [Love Letter \- At Home](https://open.spotify.com/track/289CYS8Ws26XGrg1dbeY6d) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Love Letter \(At Home\)](https://open.spotify.com/album/5rarhRbEr3haebB2GT02rT) | 3:20 |
 | 86 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 |
 | 87 | [Trembling hands](https://open.spotify.com/track/0P2xmlbhOoQd5LOztoe0yF) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [The Temper Trap](https://open.spotify.com/album/2iaZi2RryjkmlSj0apnzDv) | 4:39 |
-| 88 | [Bloom \- Bonus Track](https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:30 |
-| 89 | [Flashed Junk Mind](https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 4:22 |
+| 88 | [Flashed Junk Mind](https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 4:22 |
+| 89 | [Bloom \- Bonus Track](https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:30 |
 | 90 | [Holocene](https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn) | 5:36 |
 | 91 | [I Love You So](https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Songs for Dads](https://open.spotify.com/album/3MFTbUnA8C9T6KCBb0gpH5) | 2:40 |
 | 92 | [Hanging On](https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX) | 5:21 |

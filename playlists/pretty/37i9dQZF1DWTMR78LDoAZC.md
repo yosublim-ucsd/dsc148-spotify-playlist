@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Towa Bird takes over, highlighting some of her favorite LGBTQIA+ indie/alternative/rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,270 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,406 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,15 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 36 | [Boyfeel](https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Boyfeel](https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp) | 2:29 |
 | 37 | [GIRL$](https://open.spotify.com/track/1VKDQlo1k2ObpufovXHagN) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [GIRL$](https://open.spotify.com/album/5PiG8SxQgviIgBa3Pb3Shn) | 2:12 |
 | 38 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 |
-| 39 | [Sweet Cis Teen](https://open.spotify.com/track/46Boh7rtDSxoEDZ52Qowcc) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/1qyq3sPzif79oiw9nPN99S) | 4:29 |
-| 40 | [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 |
+| 39 | [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 |
+| 40 | [Sweet Cis Teen](https://open.spotify.com/track/46Boh7rtDSxoEDZ52Qowcc) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/1qyq3sPzif79oiw9nPN99S) | 4:29 |
 | 41 | [Wild Heart](https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Wild Heart](https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI) | 2:57 |
 | 42 | [Races](https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 2:13 |
 | 43 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 |
 | 44 | [Maybe You're the Reason](https://open.spotify.com/track/22tD1L3AXFs1pYEygkQGAT) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good at Falling](https://open.spotify.com/album/7qcAgj6CoV0VeRLo6ILiF2) | 3:38 |
 | 45 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 |
-| 46 | [Got Weird](https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Got Weird](https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om) | 3:22 |
-| 47 | [On the Floor](https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 5:03 |
+| 46 | [On the Floor](https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 5:03 |
+| 47 | [Got Weird](https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Got Weird](https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om) | 3:22 |
 | 48 | [Your Mother's Name](https://open.spotify.com/track/6andWFPbmPzbgdKcEamIq9) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Your Mother's Name](https://open.spotify.com/album/71Ylf2ND4lfFUJmJ4gTk3U) | 3:51 |
 | 49 | [unruly](https://open.spotify.com/track/2bTrWTnaLwQ5WVnUzS2X46) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [unruly](https://open.spotify.com/album/30qNUbkHpnFRNd8x8sYWNT) | 2:24 |
 | 50 | [I Feel You](https://open.spotify.com/track/0Csdi7iivwev8WSaBsum0r) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/1aGsUoZnjToggqsjIK84nc) | 3:35 |

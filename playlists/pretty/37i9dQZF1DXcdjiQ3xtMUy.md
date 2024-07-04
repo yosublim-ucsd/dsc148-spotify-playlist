@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Stavento, Josephine
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,203 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,206 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Prin Se Gnoriso](https://open.spotify.com/track/2K7m2F5LNwVsTYRJKC9puI) | [Stavento](https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK), [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR), [Dj Timo](https://open.spotify.com/artist/0otJf0seHzZGe4RjhqZRko), [V\. Geo](https://open.spotify.com/artist/2nyiQLqtnXWP0D3s5FI7UP) | [Prin Se Gnoriso](https://open.spotify.com/album/2qYJvewvmb3vuFxZ2prWxO) | 3:20 |
+| 1 | [Prin Se Gnoriso \(Ta Kakos Kimena\)](https://open.spotify.com/track/2K7m2F5LNwVsTYRJKC9puI) | [Stavento](https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK), [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR), [Dj Timo](https://open.spotify.com/artist/0otJf0seHzZGe4RjhqZRko), [V\. Geo](https://open.spotify.com/artist/2nyiQLqtnXWP0D3s5FI7UP) | [Prin Se Gnoriso \(Ta Kakos Kimena\)](https://open.spotify.com/album/2qYJvewvmb3vuFxZ2prWxO) | 3:20 |
 | 2 | [Allo](https://open.spotify.com/track/1iTNgKcDKw0b2mRA1rMSJ5) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Allo](https://open.spotify.com/album/13TWhaKSz5HPkVg7gVCKav) | 3:33 |
 | 3 | [S' Agapao Giati](https://open.spotify.com/track/7Geun1wRSkuwyYF4mknenV) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [S' Agapao Giati](https://open.spotify.com/album/6DdRDf4kUgTC1D9kKFVTRa) | 3:48 |
 | 4 | [Aeroplano](https://open.spotify.com/track/0tEuv2qKpi14UbBWuubUBg) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Aeroplano](https://open.spotify.com/album/7D5yV6xRLsCGOtPj5Qh6NU) | 3:00 |

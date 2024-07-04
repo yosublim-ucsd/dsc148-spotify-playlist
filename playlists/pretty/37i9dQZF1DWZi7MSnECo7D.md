@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Chico Bernardes
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,841 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,784 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 3 | [Não Leve a Mal](https://open.spotify.com/track/0XKoKz5CJDrn6IeMUOS6t1) | [PLUMA](https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb) | [Não Leve a Mal](https://open.spotify.com/album/6i1hGNWpDAvAEsQ7l0ftjD) | 3:50 |
 | 4 | [Ensaio](https://open.spotify.com/track/1jyqE4qZwLWqlENCHS8ho9) | [Gabriel Ventura](https://open.spotify.com/artist/5wiFildiVwY61nSDG2ZNIC), [Cyro Sampaio](https://open.spotify.com/artist/5L0ZOCLmpOTteBYRqeIl9g) | [Ensaio](https://open.spotify.com/album/3ur8ZakC3YuzTtIqVgIFyz) | 3:59 |
 | 5 | [Amanhecer](https://open.spotify.com/track/2WGVw1g7HEBSil7q7XKwac) | [Jasmine](https://open.spotify.com/artist/1sFd5ebsD4RUj1nR21LeEt) | [Amanhecer](https://open.spotify.com/album/7JMfg06ZK8uBxdWfclHH9K) | 4:47 |
-| 6 | [Trago](https://open.spotify.com/track/5CugcQd5Dw8bIP9htahvik) | [TRAGO](https://open.spotify.com/artist/6dQH0tJhjUbIjsGqar870C), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Gustavo Ruiz](https://open.spotify.com/artist/7DWwtWoYH8jhf28tq3118m), [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Ricardo Brandão](https://open.spotify.com/artist/6GS4adyF15zprBXEjoxA8F), [Alexandre Orion](https://open.spotify.com/artist/6P3Qu1SwfnnC9daKX95b4P), [Rica Amabis](https://open.spotify.com/artist/7b77J8nz19BLgFq6F2M4QM) | [TRAGO](https://open.spotify.com/album/33se7NxxEuJit5KbJW7GAQ) | 2:49 |
+| 6 | [Trago](https://open.spotify.com/track/5CugcQd5Dw8bIP9htahvik) | [TRAGO](https://open.spotify.com/artist/6dQH0tJhjUbIjsGqar870C), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Gustavo Ruiz](https://open.spotify.com/artist/7DWwtWoYH8jhf28tq3118m), [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Rodrigo Brandão](https://open.spotify.com/artist/2BfrTyWNSlsikzXT4KCLsa), [Alexandre Orion](https://open.spotify.com/artist/6P3Qu1SwfnnC9daKX95b4P), [Rica Amabis](https://open.spotify.com/artist/7b77J8nz19BLgFq6F2M4QM) | [TRAGO](https://open.spotify.com/album/33se7NxxEuJit5KbJW7GAQ) | 2:49 |
 | 7 | [Mais Nada](https://open.spotify.com/track/0VSxb6zC2oy5KhQ89Hqd98) | [Matheus Who](https://open.spotify.com/artist/7dk9vFezaTtPWPnygmbWgf) | [Mais Nada](https://open.spotify.com/album/4tlKd5YyAJJcdGUNMzstRx) | 3:16 |
 | 8 | [Coisas Estranhas](https://open.spotify.com/track/2AyboKa65bOPMOH4PziB2X) | [Exclusive Os Cabides](https://open.spotify.com/artist/0SE1q0DtRWvOcjt78ZZ4ZF) | [Coisas Estranhas](https://open.spotify.com/album/6E077mo6AcGVzzwU9GS1CZ) | 2:38 |
 | 9 | [Tempo de Mistério](https://open.spotify.com/track/6Tca1NDEg2WAItq6KtVNSd) | [Livia Nery](https://open.spotify.com/artist/2jgNIddZBgTiswbLmv91Qu) | [Tempo de Mistério](https://open.spotify.com/album/46Fix62G5d3qkhQjSnnYdr) | 3:21 |

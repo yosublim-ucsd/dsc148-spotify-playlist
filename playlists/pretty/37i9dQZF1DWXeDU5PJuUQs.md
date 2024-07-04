@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,213 likes - 64 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,415 likes - 64 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 41 | [Jurabas Tú / Mis Sentimientos \(En Vivo\)](https://open.spotify.com/track/4M2oCrINgfIbOfSoD2YoLY) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [Jurabas Tú / Mis Sentimientos \(En Vivo\)](https://open.spotify.com/album/4n43selPpgHWfgrUkHGjCL) | 5:30 |
 | 42 | [Te Soñé una Vez Mas \- En Vivo](https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:38 |
 | 43 | [Tu Sin Mi \- En Vivo](https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Vivo](https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6) | 3:41 |
-| 44 | [Sabes \(En Vivo\)\[Remasterizado 2021\]](https://open.spotify.com/track/7bGNfa1I1JC99U7tcMOZBk) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo en Joya 2019 \(Remasterizado 2021\)](https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54) | 1:15 |
+| 44 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo 2019](https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8) | 2:27 |
 | 45 | [Como Podré](https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 4:38 |
 | 46 | [No Voy A Llorar / Me Enamoré](https://open.spotify.com/track/5nFG0wrCUFwv6EhoJAjjXK) | [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [El Club de la Cumbia](https://open.spotify.com/artist/1WTE076oMv3AL15Ics0qnU) | [No Voy A Llorar / Me Enamoré](https://open.spotify.com/album/6aYYGeMtjjYPqwB44QkUqc) | 3:14 |
-| 47 | [Que Vuelvas \- En Vivo](https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Que Vuelvas \(En Vivo\)](https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD) | 1:48 |
-| 48 | [Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor](https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 7:19 |
+| 47 | [Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor](https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 7:19 |
+| 48 | [Que Vuelvas \- En Vivo](https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Que Vuelvas \(En Vivo\)](https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD) | 1:48 |
 | 49 | [La Danza del Humo / Llegamos los Pibes Chorros / Mabel](https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 8:16 |
-| 50 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo 2019](https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8) | 2:27 |
+| 50 | [Sabes \(En Vivo\)\[Remasterizado 2021\]](https://open.spotify.com/track/7bGNfa1I1JC99U7tcMOZBk) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo en Joya 2019 \(Remasterizado 2021\)](https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54) | 1:15 |
 | 51 | [Adios Amor Adios \- En Vivo](https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:55 |
 | 52 | [Hoy Te Vi / El Paredon \- En Vivo](https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Vivo](https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv) | 5:12 |
 | 53 | [Nunca Más \- En Vivo](https://open.spotify.com/track/0KNEOI14ngvaVebUikICG7) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Nunca Más \(En Vivo\)](https://open.spotify.com/album/1cVkFAllEL8LHbwU0OHsUA) | 3:04 |

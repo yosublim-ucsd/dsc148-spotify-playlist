@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=\-ew7kaC0Qb\-1Bg\-Jy81NUw">Spoegwolf</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,782 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,794 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 45 | [Ooaa](https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8) | [Boo!](https://open.spotify.com/artist/39dPrvOQpekY24oOeKGYlq) | [Pynapple](https://open.spotify.com/album/6X7KUMT70zeYdRYxYgqirF) | 3:16 |
 | 46 | [O, My Donner](https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hanu De Jong](https://open.spotify.com/artist/3rMWW9HNEP3gaFRUp7BKOs) | [O, My Donner](https://open.spotify.com/album/2yAftcha7EZXFJv6mxASEw) | 2:52 |
 | 47 | [Naïef](https://open.spotify.com/track/4d54vmCXTZZ65sOJz7lerr) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Naïef](https://open.spotify.com/album/4bzRnIR8DeBaML62OWNQNK) | 3:16 |
-| 48 | [Wees Net Beter](https://open.spotify.com/track/3SMun4H8Fy86MLw2jgUZBu) | [Janis Kelber](https://open.spotify.com/artist/5r6vYX5N7yykrz95gWj3WS) | [Wees Net Beter](https://open.spotify.com/album/0eGLX2V8HCU77UB8sQRmuk) | 3:24 |
-| 49 | [Humbled](https://open.spotify.com/track/4AAz7vj9lUna9VaLtD1tPa) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Movin' On](https://open.spotify.com/album/6yBrUpkCyj8VTCM1qH87VQ) | 4:55 |
-| 50 | [Skree](https://open.spotify.com/track/0nrnO5EK6NLHUqfAesvjwV) | [Klopjag](https://open.spotify.com/artist/7CKSkmBkcnuX9L4wJYpSY9) | [Album Drie](https://open.spotify.com/album/1DtlSqSSRjfucIMrtoKsLx) | 3:31 |
+| 48 | [Humbled](https://open.spotify.com/track/4AAz7vj9lUna9VaLtD1tPa) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Movin' On](https://open.spotify.com/album/6yBrUpkCyj8VTCM1qH87VQ) | 4:55 |
+| 49 | [Skree](https://open.spotify.com/track/0nrnO5EK6NLHUqfAesvjwV) | [Klopjag](https://open.spotify.com/artist/7CKSkmBkcnuX9L4wJYpSY9) | [Album Drie](https://open.spotify.com/album/1DtlSqSSRjfucIMrtoKsLx) | 3:31 |
+| 50 | [Wees Net Beter](https://open.spotify.com/track/3SMun4H8Fy86MLw2jgUZBu) | [Janis Kelber](https://open.spotify.com/artist/5r6vYX5N7yykrz95gWj3WS) | [Wees Net Beter](https://open.spotify.com/album/0eGLX2V8HCU77UB8sQRmuk) | 3:24 |
 
 Snapshot ID: `Zmv41wAAAACXRX5cMAZPlDjNp/+JXN6K`

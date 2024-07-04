@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,433 likes - 141 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,430 likes - 141 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 19 | [With You](https://open.spotify.com/track/1xK7enJZVdv37fnnxoZlPq) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [With You](https://open.spotify.com/album/03Rd91m56yw4XklwHF9FHq) | 3:00 |
 | 20 | [Bring Me Love](https://open.spotify.com/track/3KBI0Hji14pyi1ww1B1v55) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:19 |
 | 21 | [Someday \(feat\. Meghan Trainor\)](https://open.spotify.com/track/7t3q4ghl6rphMXn0oOJhUr) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Nobody but Me \(Deluxe\)](https://open.spotify.com/album/2OXZJLXxM8jrY3gBoVNfmz) | 3:23 |
-| 22 | [My Kind Of Present](https://open.spotify.com/track/2rkb8ijsPapKDMEh0cSe8I) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:41 |
-| 23 | [Can't Blame a Girl for Trying](https://open.spotify.com/track/5K7fGxZQB0K5sPKhLe9e07) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Eyes Wide Open](https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df) | 2:49 |
+| 22 | [Can't Blame a Girl for Trying](https://open.spotify.com/track/5K7fGxZQB0K5sPKhLe9e07) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Eyes Wide Open](https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df) | 2:49 |
+| 23 | [My Kind Of Present](https://open.spotify.com/track/2rkb8ijsPapKDMEh0cSe8I) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:41 |
 | 24 | [Just a Friend to You](https://open.spotify.com/track/18U2UphSbJBfkDCSxbiMgy) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 2:44 |
 | 25 | [No Good For You](https://open.spotify.com/track/5lOK3NCvbvgK6cohyTTQ4Z) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:36 |
 | 26 | [Walkashame](https://open.spotify.com/track/0Jrzzjj0pVzS6xl4wonUNh) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 2:58 |
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 121 | [Touchdown Dance](https://open.spotify.com/track/45wCjjaPuE5M9BdNA4iYV2) | [IM5](https://open.spotify.com/artist/4TEgsvmXwYmqRAoxyo4Wb9) | [Touchdown Dance](https://open.spotify.com/album/3Q3RSzUE9t7eMKw2b5bwVz) | 3:31 |
 | 122 | [Silent Night](https://open.spotify.com/track/6EtpTZWS3z4jpBDcJ0bmGu) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:45 |
 | 123 | [Rollin'](https://open.spotify.com/track/3Q1eEtOuXMGdqsddQzx3Br) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:46 |
-| 124 | [Done With Bein' Done](https://open.spotify.com/track/3VcOKyZzJfxaN8yPN4Prw6) | [Daphne Willis](https://open.spotify.com/artist/40Qm9cpj6FlrkoL1sziJ2S) | [Essentials](https://open.spotify.com/album/2tAdwNPoOq0j3wgfbm5x3N) | 3:12 |
-| 125 | [Crowded Room](https://open.spotify.com/track/7538JmMWZuw9kopnACWeyP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:24 |
+| 124 | [Crowded Room](https://open.spotify.com/track/7538JmMWZuw9kopnACWeyP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:24 |
+| 125 | [Done With Bein' Done](https://open.spotify.com/track/3VcOKyZzJfxaN8yPN4Prw6) | [Daphne Willis](https://open.spotify.com/artist/40Qm9cpj6FlrkoL1sziJ2S) | [Essentials](https://open.spotify.com/album/2tAdwNPoOq0j3wgfbm5x3N) | 3:12 |
 | 126 | [Grow Up](https://open.spotify.com/track/3fj4Q3qjnZMD73xCwY5Y6T) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 2:56 |
 | 127 | [You Don't Know Me](https://open.spotify.com/track/3xGTNPcwsvonkWUQV1Wsqu) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF \(DELUXE\)](https://open.spotify.com/album/745q70iMPQHWqjGzHeseBp) | 3:30 |
 | 128 | [Roll the Dice](https://open.spotify.com/track/5GXW0eHPR3sYsXO0BBwdpn) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [The Rest of Our Life](https://open.spotify.com/album/4VKhC1dO9LPiKc1N7TJHRx) | 3:33 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 140 | [Take Me There](https://open.spotify.com/track/67bB21Y4jSjG3bPPxmqHE8) | [Roger](https://open.spotify.com/artist/4znx0x1npb8pWk0b7Te7hg) | [Hoy \(Finalista La Voz Kids 2015\)](https://open.spotify.com/album/03R3ZvRxNVnjl4PvAeloSg) | 3:30 |
 | 141 | [I'm Ready](https://open.spotify.com/track/4vHh5UPDjmK4R8OPu6sizb) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Kinsley](https://open.spotify.com/artist/45TaTVSd9vVWTbafjbljHX) | [Motions LP](https://open.spotify.com/album/2yrVlPZtagwIhwpGm2arbH) | 2:27 |
 
-Snapshot ID: `AbVpYgAAAAAPk7QzEhE17SeOKZJGIHXg`
+Snapshot ID: `AbVvAgAAAAAasWbgRf0hn7No4ivKaGiW`

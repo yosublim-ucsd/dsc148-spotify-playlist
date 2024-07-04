@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Cover: <a href="spotify:artist:5YxebzzreNswbtYC1td4cx">Tasha Cobbs Leonard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,092 likes - 88 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,130 likes - 88 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 51 | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn) | 5:47 |
 | 52 | [The Moment \- Live](https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Moment \(Live\)](https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO) | 7:21 |
 | 53 | [Better Days \- Live](https://open.spotify.com/track/1GBtvDSR3e5D5GJAYIYhEc) | [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Better Days \(Live\)](https://open.spotify.com/album/57XaIqrhGfRe5MYGLxa27k) | 5:23 |
-| 54 | [No Stressing](https://open.spotify.com/track/2AqUyHKFz2t28mloKBkosu) | [Damon Little](https://open.spotify.com/artist/7xLPG01S71D8Bq2hmyAEPJ), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [No Stressing](https://open.spotify.com/album/6yLyw5SBhG17scBn29pGzP) | 3:34 |
-| 55 | [In Him There Is No Sorrow](https://open.spotify.com/track/1eaob8lv7dnnn282p6j28d) | [Donald Lawrence & Company](https://open.spotify.com/artist/1haevnXTeIhKJSc04ly4as), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [In Him There Is No Sorrow](https://open.spotify.com/album/5KRqIJnf4RZzdn1torzeZa) | 6:17 |
+| 54 | [In Him There Is No Sorrow](https://open.spotify.com/track/1eaob8lv7dnnn282p6j28d) | [Donald Lawrence & Company](https://open.spotify.com/artist/1haevnXTeIhKJSc04ly4as), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [In Him There Is No Sorrow](https://open.spotify.com/album/5KRqIJnf4RZzdn1torzeZa) | 6:17 |
+| 55 | [No Stressing](https://open.spotify.com/track/2AqUyHKFz2t28mloKBkosu) | [Damon Little](https://open.spotify.com/artist/7xLPG01S71D8Bq2hmyAEPJ), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [No Stressing](https://open.spotify.com/album/6yLyw5SBhG17scBn29pGzP) | 3:34 |
 | 56 | [Speak Your Name](https://open.spotify.com/track/5YHQibx9nptsYC83u6kn2h) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w) | [Speak Your Name](https://open.spotify.com/album/2cidAYdXd5N47PfrCKmMTe) | 5:21 |
 | 57 | [YOU](https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [YOU](https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4) | 3:08 |
 | 58 | [Never Gonna Break My Faith \(feat\. The Boys Choir of Harlem\)](https://open.spotify.com/track/24l5ku1oI5KdZpF0dLDjAd) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [The Boys Choir Of Harlem](https://open.spotify.com/artist/7Cp14KBRtDwGucKNPUyT11) | [Never Gonna Break My Faith \(feat\. The Boys Choir of Harlem\)](https://open.spotify.com/album/3nR5pUJkbh6Jm42JPjuZxL) | 4:10 |

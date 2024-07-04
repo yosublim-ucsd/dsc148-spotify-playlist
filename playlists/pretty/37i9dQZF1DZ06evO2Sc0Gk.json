@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 19235,
+  "num_followers": 19233,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAA377MWMetVtPATrjUqPmQY",
+  "snapshot_id": "ZoNDAAAAAAAN9aovEBtnGSqmYPPT6/Pn",
   "tracks": [
     {
       "added_at": null,
@@ -343,6 +343,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Doyin",
+        "url": "https://open.spotify.com/album/3G9nwad9keufs9f45T69Z9"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 153962,
+      "name": "Doyin",
+      "url": "https://open.spotify.com/track/71iknvVFjHMMs0nit8eh2M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad (feat. Yungen, MoStack, Mr Eazi & Not3s)",
         "url": "https://open.spotify.com/album/3X34zuRCa6RTlmAUP30kIh"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 204832,
       "name": "Bad (feat. Yungen, MoStack, Mr Eazi & Not3s)",
       "url": "https://open.spotify.com/track/5vySkXA0v40CDwofIvhc1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doyin",
-        "url": "https://open.spotify.com/album/3G9nwad9keufs9f45T69Z9"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 153962,
-      "name": "Doyin",
-      "url": "https://open.spotify.com/track/71iknvVFjHMMs0nit8eh2M"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e0\u00e0j\u00ed",
-        "url": "https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 149741,
-      "name": "F\u00e0\u00e0j\u00ed",
-      "url": "https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life is Eazi, Vol. 2 - Lagos to London",
         "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 178106,
       "name": "Dabebi",
       "url": "https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e0\u00e0j\u00ed",
+        "url": "https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 149741,
+      "name": "F\u00e0\u00e0j\u00ed",
+      "url": "https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09"
     },
     {
       "added_at": null,
@@ -787,30 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tall Shade",
-        "url": "https://open.spotify.com/album/1ot4OOnFQfD7FtoQAU3qKS"
-      },
-      "artists": [
-        {
-          "name": "Patrice",
-          "url": "https://open.spotify.com/artist/1fBcQOi8yEfWN7fknMoqIE"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Jugglerz",
-          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
-        }
-      ],
-      "duration_ms": 179750,
-      "name": "Tall Shade",
-      "url": "https://open.spotify.com/track/4pACPCpLl5vqvrToSE161d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hollup",
         "url": "https://open.spotify.com/album/4X9ME05TzIGSBuHx5rYQuj"
       },
@@ -835,30 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chop Life, Vol. 1: Mzansi Chronicles",
-        "url": "https://open.spotify.com/album/2TvhWKLTi6Gv3LCndQDeM0"
-      },
-      "artists": [
-        {
-          "name": "ChopLife SoundSystem",
-          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Ami Faku",
-          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
-        }
-      ],
-      "duration_ms": 194819,
-      "name": "Wena",
-      "url": "https://open.spotify.com/track/4DOTgsTJcISBUpLLvo5Hrn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
         "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
       },
@@ -879,6 +831,30 @@
       "duration_ms": 244000,
       "name": "Life Is Eazi",
       "url": "https://open.spotify.com/track/6GPyqTzuYf5bMS0kTRmsbQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chop Life, Vol. 1: Mzansi Chronicles",
+        "url": "https://open.spotify.com/album/2TvhWKLTi6Gv3LCndQDeM0"
+      },
+      "artists": [
+        {
+          "name": "ChopLife SoundSystem",
+          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "duration_ms": 194819,
+      "name": "Wena",
+      "url": "https://open.spotify.com/track/4DOTgsTJcISBUpLLvo5Hrn"
     },
     {
       "added_at": null,
@@ -1079,6 +1055,26 @@
       "duration_ms": 153992,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/6uqAcjD0a81jJkJJD6NzCC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 176011,
+      "name": "Combo (feat. Mr Eazi)",
+      "url": "https://open.spotify.com/track/60A1Bcrt8Nq8WoLFNc9SRx"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent writing their own songs\. Cover: Juliet Ivy
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,691 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,708 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

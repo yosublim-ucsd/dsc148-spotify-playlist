@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > New songs from CHH's up and coming artists!  Cover: <a href="spotify:artist:0PUc1lwaZpPJaMr0v4Gdvo">Jon Keith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,055 likes - 44 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,069 likes - 44 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 17 | [Take It There](https://open.spotify.com/track/703eoQkxytsRX5J5g5yG8x) | [Mitch Darrell](https://open.spotify.com/artist/4CBgmRY3dI7ToptTHIxvj3), [Wayne Klassik](https://open.spotify.com/artist/3rmqwsgWN75pX6EzDK5xTv) | [Take It There](https://open.spotify.com/album/68piPNslmbtvlRh5i3cTUt) | 1:40 |
 | 18 | [Holy Roller](https://open.spotify.com/track/0vCVbC4uQMqKRgbvV8ERFa) | [King Chav](https://open.spotify.com/artist/1e5ZIHiMERAHN9fsK3sdGt) | [Holy Roller](https://open.spotify.com/album/1c14wAdXPPicDvN8zD1IyR) | 2:05 |
 | 19 | [Working it out](https://open.spotify.com/track/7ntAFhTGZ8DLdM26HDHrHc) | [Josh Lecroy](https://open.spotify.com/artist/11QQiwcAtTaRXWDlLKesdy), [Hannah Barr](https://open.spotify.com/artist/5YXeLDR70GQsT07VLgawty) | [Working it out](https://open.spotify.com/album/2rkz3xnC2V6ZR1K658V2Kp) | 2:56 |
-| 20 | [HI\-C](https://open.spotify.com/track/6DmLU5yyCcwCS5MgHbZq78) | [HOLY GIRLXHLY GRL](https://open.spotify.com/artist/0w28kuI223Uywzaf68lL40), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Queen Lee](https://open.spotify.com/artist/0ESxKUSobqG0GkLrxg77XS), [Tk Lee](https://open.spotify.com/artist/05B3lggRvyTqRwEV9YDwQz) | [HI\-C](https://open.spotify.com/album/42eKaKWWjei5ViAUQ4XY1J) | 3:03 |
+| 20 | [HI\-C](https://open.spotify.com/track/6DmLU5yyCcwCS5MgHbZq78) | [HOLY GIRLXHLY GRL](https://open.spotify.com/artist/0w28kuI223Uywzaf68lL40), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Queen Lee](https://open.spotify.com/artist/0ESxKUSobqG0GkLrxg77XS), [Tk Lee](https://open.spotify.com/artist/05B3lggRvyTqRwEV9YDwQz) | [HI\-C](https://open.spotify.com/album/42eKaKWWjei5ViAUQ4XY1J) | 3:03 |
 | 21 | [Boost It Up](https://open.spotify.com/track/1M4xXF3ysXJhy0oOXYn60J) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [EGR](https://open.spotify.com/artist/4EJIkbig1thbV3C3B68c56) | [Boost It Up](https://open.spotify.com/album/4WnfeGJ9QVzmyrUa9v38Uc) | 2:37 |
 | 22 | [Reddit](https://open.spotify.com/track/2WN53cOBR4iZicCuocfbDr) | [Larell](https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw) | [Reddit](https://open.spotify.com/album/0e0ZslfuN8G7M2sm64s74E) | 1:24 |
 | 23 | [Sink](https://open.spotify.com/track/4UkTURYQwjkOrtAaYQIZ18) | [Kay Sade](https://open.spotify.com/artist/4PkhCFbcHgGFYHEspjPkq3) | [315](https://open.spotify.com/album/7Lb2IJnejDb4dUgJLVV5w7) | 2:44 |

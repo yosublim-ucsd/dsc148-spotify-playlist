@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 619800,
+  "num_followers": 619834,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Betting on Us",
-        "url": "https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 155761,
-      "name": "Betting on Us",
-      "url": "https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
         "url": "https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 214438,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Betting on Us",
+        "url": "https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 155761,
+      "name": "Betting on Us",
+      "url": "https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -411,8 +411,8 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Bones Shake",
-        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
+        "name": "Goodbye to the Valley Low (Side A)",
+        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 226011,
-      "name": "Bones Shake",
-      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
+      "duration_ms": 181130,
+      "name": "Stolen Seasons",
+      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -559,24 +559,24 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Swan Upon Leda",
-        "url": "https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk"
+        "name": "En del av dig (From the Netflix film \"A Part Of You\")",
+        "url": "https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
         }
       ],
-      "duration_ms": 222026,
-      "name": "Swan Upon Leda",
-      "url": "https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp"
+      "duration_ms": 177422,
+      "name": "En del av dig (From the Netflix film \"A Part Of You\")",
+      "url": "https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU"
     },
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Goodbye to the Valley Low (Side A)",
-        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+        "name": "Bones Shake",
+        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 181130,
-      "name": "Stolen Seasons",
-      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
+      "duration_ms": 226011,
+      "name": "Bones Shake",
+      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "En del av dig (From the Netflix film \"A Part Of You\")",
-        "url": "https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ"
+        "name": "Swan Upon Leda",
+        "url": "https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk"
       },
       "artists": [
         {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 177422,
-      "name": "En del av dig (From the Netflix film \"A Part Of You\")",
-      "url": "https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU"
+      "duration_ms": 222026,
+      "name": "Swan Upon Leda",
+      "url": "https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "let go of me slowly",
-        "url": "https://open.spotify.com/album/4lbmpXfOb9FxBMxap9AQ0T"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 207348,
-      "name": "let go of me slowly",
-      "url": "https://open.spotify.com/track/5X0QI12MERu54ghfLYF76f"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "the rest",
         "url": "https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 168263,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/6Xl18Edf3v9Z2FLw1H69cr"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "let go of me slowly",
+        "url": "https://open.spotify.com/album/4lbmpXfOb9FxBMxap9AQ0T"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 207348,
+      "name": "let go of me slowly",
+      "url": "https://open.spotify.com/track/5X0QI12MERu54ghfLYF76f"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Angel Face",
-        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 232277,
-      "name": "Doesn\u2019t Do Me Any Good",
-      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Hus utan speglar",
         "url": "https://open.spotify.com/album/5Df3GkRmprbUE1c4SDVmVe"
       },
@@ -931,6 +915,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 232277,
+      "name": "Doesn\u2019t Do Me Any Good",
+      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "S\u00e4g f\u00f6rl\u00e5t",
         "url": "https://open.spotify.com/album/2XGRSqqJKWNQn7KIgwSMdU"
       },
@@ -943,6 +943,22 @@
       "duration_ms": 242074,
       "name": "S\u00e4g f\u00f6rl\u00e5t",
       "url": "https://open.spotify.com/track/5foAcyMDMeFa4mMDwJUmqh"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Mirror (Deluxe)",
+        "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175550,
+      "name": "Sad Forever",
+      "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -975,22 +991,6 @@
       "duration_ms": 234753,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Mirror (Deluxe)",
-        "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 175550,
-      "name": "Sad Forever",
-      "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "day i die",
-        "url": "https://open.spotify.com/album/7mv2k44vhKlpDu8uv3j8YO"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 175600,
-      "name": "day i die",
-      "url": "https://open.spotify.com/track/1UhDG1nEctrXaCJR85p0iF"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Where Am I?",
         "url": "https://open.spotify.com/album/5JoRXCu751qGLUiGB56E8X"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 179561,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "day i die",
+        "url": "https://open.spotify.com/album/7mv2k44vhKlpDu8uv3j8YO"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 175600,
+      "name": "day i die",
+      "url": "https://open.spotify.com/track/1UhDG1nEctrXaCJR85p0iF"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Parents",
-        "url": "https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0"
+        "name": "We Were in Love",
+        "url": "https://open.spotify.com/album/7hzMAGNOGBoQHuv8IJKmN6"
       },
       "artists": [
         {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
         }
       ],
-      "duration_ms": 126175,
-      "name": "Parents",
-      "url": "https://open.spotify.com/track/5QCBY9fU0gViLSVkZaJnTk"
+      "duration_ms": 159226,
+      "name": "We Were in Love",
+      "url": "https://open.spotify.com/track/4SMtpUBSxWUHshY4KTs2ck"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1235,34 +1235,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "We Were in Love",
-        "url": "https://open.spotify.com/album/7hzMAGNOGBoQHuv8IJKmN6"
+        "name": "Parents",
+        "url": "https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0"
       },
       "artists": [
         {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
         }
       ],
-      "duration_ms": 159226,
-      "name": "We Were in Love",
-      "url": "https://open.spotify.com/track/4SMtpUBSxWUHshY4KTs2ck"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "dina armar",
-        "url": "https://open.spotify.com/album/6ICpgNNwn9bPnZQYwzIUaV"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 196830,
-      "name": "dina armar",
-      "url": "https://open.spotify.com/track/3tfqBXCA2HlQ5GldoqrWUc"
+      "duration_ms": 126175,
+      "name": "Parents",
+      "url": "https://open.spotify.com/track/5QCBY9fU0gViLSVkZaJnTk"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "dina armar",
+        "url": "https://open.spotify.com/album/6ICpgNNwn9bPnZQYwzIUaV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 196830,
+      "name": "dina armar",
+      "url": "https://open.spotify.com/track/3tfqBXCA2HlQ5GldoqrWUc"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Superlativ 97",
         "url": "https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu"
       },
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "f\u00f6r oss",
-        "url": "https://open.spotify.com/album/2hgV0AVu9hB4smSue0gPoV"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "f\u00f6r oss",
-      "url": "https://open.spotify.com/track/1sxW6Pauxd9qCXrXOli0Xu"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/0yiKEn4Xgl1M8HSlmTWNS2"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 250481,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/0uWn41XAyeYza4CIubkoD4"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "f\u00f6r oss",
+        "url": "https://open.spotify.com/album/2hgV0AVu9hB4smSue0gPoV"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "f\u00f6r oss",
+      "url": "https://open.spotify.com/track/1sxW6Pauxd9qCXrXOli0Xu"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Stj\u00e4rnorna inatt",
-        "url": "https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO"
-      },
-      "artists": [
-        {
-          "name": "Lilla London",
-          "url": "https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "Stj\u00e4rnorna inatt",
-      "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "High On You",
         "url": "https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 194050,
       "name": "High On You",
       "url": "https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Stj\u00e4rnorna inatt",
+        "url": "https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO"
+      },
+      "artists": [
+        {
+          "name": "Lilla London",
+          "url": "https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD"
+        }
+      ],
+      "duration_ms": 207160,
+      "name": "Stj\u00e4rnorna inatt",
+      "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Living Comes With Dying",
-        "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
-      },
-      "artists": [
-        {
-          "name": "sixten",
-          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
-        }
-      ],
-      "duration_ms": 186920,
-      "name": "Living Comes With Dying",
-      "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Hard To Love",
         "url": "https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 167099,
       "name": "Hard to Love",
       "url": "https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Ellen Krauss \u2013 Acoustic Versions",
+        "url": "https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 168874,
+      "name": "Inatt (Inget Stoppar Oss Nu) - Live in Church",
+      "url": "https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Ellen Krauss \u2013 Acoustic Versions",
-        "url": "https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3"
+        "name": "Living Comes With Dying",
+        "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
       },
       "artists": [
         {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+          "name": "sixten",
+          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
         }
       ],
-      "duration_ms": 168874,
-      "name": "Inatt (Inget Stoppar Oss Nu) - Live in Church",
-      "url": "https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB"
+      "duration_ms": 186920,
+      "name": "Living Comes With Dying",
+      "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
     },
     {
       "added_at": "2024-06-27 22:00:00",

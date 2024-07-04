@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 949 songs - 2 day 10 hr 26 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 951 songs - 2 day 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -957,5 +957,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 947 | [Forwards](https://open.spotify.com/track/3UkG12ln6ZxSaqF1tOYVoE) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza) | 3:11 |
 | 948 | [Run It Back](https://open.spotify.com/track/2HYfuXcKxTRvrjJKKPIhR1) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza) | 2:27 |
 | 949 | [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 |
+| 950 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 |
+| 951 | [Everlong \- Acoustic Version](https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:10 |
 
-Snapshot ID: `AAAIgGAXHeaHRyUGk0oHgmmWmFq+k5/3`
+Snapshot ID: `AAAIgjNDFFWRr6WdD9IJDnQ9bIrp22Us`

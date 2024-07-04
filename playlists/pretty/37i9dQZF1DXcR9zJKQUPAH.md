@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 
 > 2017 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,414 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,436 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 7 | [Navajo](https://open.spotify.com/track/6zWU7YALeEDMcPGhKKZJhV) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Navajo](https://open.spotify.com/album/5DxMTCWwHlaz4Hx1og50xL) | 3:14 |
 | 8 | [Sunsetz](https://open.spotify.com/track/0SpkyS1Q4MD8GaVcP5YjT4) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 3:35 |
 | 9 | [Cherry](https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 3:00 |
-| 10 | [Falling for U](https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb) | 2:04 |
-| 11 | [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 |
+| 10 | [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 |
+| 11 | [Falling for U](https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb) | 2:04 |
 | 12 | [Green Light](https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:54 |
 | 13 | [Overnight](https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Overnight](https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj) | 3:39 |
 | 14 | [Lust For Life \(with The Weeknd\)](https://open.spotify.com/track/0mt02gJ425Xjm7c3jYkOBn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:24 |
@@ -79,10 +79,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 69 | [You're Somebody Else](https://open.spotify.com/track/4zlqaEHnAle2taqwBbp9ZH) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Nothing Lasts Forever \(And It's Fine\)](https://open.spotify.com/album/6uX6tLDnj6Q4ptrzK0mtR3) | 3:38 |
 | 70 | [Want You Back](https://open.spotify.com/track/2ixswrurtpfZHrx406eGgw) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something To Tell You](https://open.spotify.com/album/3EFSOzgqaOQqJCMAMMn4Cl) | 3:52 |
 | 71 | [Chateau](https://open.spotify.com/track/0JH1gKAAJHdV5dukJVyFPY) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [SNOW](https://open.spotify.com/album/3k3EvBHWTu3VkyAh5Pevv9) | 4:33 |
-| 72 | [Hot Thoughts](https://open.spotify.com/track/48yvsxGXnJBxy8nXgGbs4S) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Hot Thoughts](https://open.spotify.com/album/1OPdyA7ZW7zIZEmSqThRGy) | 3:48 |
+| 72 | [Dum Surfer](https://open.spotify.com/track/6ze4DiPZGgAbluSM9DzfPa) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [The OOZ](https://open.spotify.com/album/7D0onfXwlFnOvm1gF3nEdw) | 4:23 |
 | 73 | [Buttercup](https://open.spotify.com/track/7GUPYx7ywjcqBIUXssYjaW) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/3l5MTodEP0uBhcAwyxfVmX) | 3:46 |
 | 74 | [Wow](https://open.spotify.com/track/1rEkUEBFYEtqDLYaTuElsx) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Colors](https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l) | 3:42 |
-| 75 | [Dum Surfer](https://open.spotify.com/track/6ze4DiPZGgAbluSM9DzfPa) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [The OOZ](https://open.spotify.com/album/7D0onfXwlFnOvm1gF3nEdw) | 4:23 |
+| 75 | [Hot Thoughts](https://open.spotify.com/track/48yvsxGXnJBxy8nXgGbs4S) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Hot Thoughts](https://open.spotify.com/album/1OPdyA7ZW7zIZEmSqThRGy) | 3:48 |
 | 76 | [Mourning Sound](https://open.spotify.com/track/0szSOfZVM3G5mWI1ogQjr7) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Painted Ruins](https://open.spotify.com/album/3QOXA8bqsml8CslUdgHXrW) | 4:22 |
 | 77 | [Foreign Hands \(George's Version\)](https://open.spotify.com/track/78e02OxzIocXs21FqQ4UGK) | [George Ogilvie](https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI) | [Foreign Hands \(George's Version\)](https://open.spotify.com/album/11OoifQTfRnad4m4ocQdZs) | 4:18 |
 | 78 | [Can We Hang On ?](https://open.spotify.com/track/33DLdGdo8h58yo0oucWsHT) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [LA DIVINE](https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On) | 3:43 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 85 | [I Don't Know You](https://open.spotify.com/track/4cJOLN346rtOty3UPACsao) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Don't Know You](https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM) | 3:29 |
 | 86 | [Minimum](https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs) | 3:14 |
 | 87 | [Sometimes](https://open.spotify.com/track/2c9OnhCwDVpKZWjOPqKiA8) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [Erratic Cinematic](https://open.spotify.com/album/6fyMUlF3m4s4aMrbpT6HIL) | 3:16 |
-| 88 | [Movie](https://open.spotify.com/track/6pxElwU80zhjbCC77Vn8EI) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 5:57 |
+| 88 | [Iris](https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Iris](https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL) | 3:01 |
 | 89 | [Sunflower](https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F) | 4:12 |
-| 90 | [Iris](https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Iris](https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL) | 3:01 |
+| 90 | [Movie](https://open.spotify.com/track/6pxElwU80zhjbCC77Vn8EI) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 5:57 |
 | 91 | [Turn](https://open.spotify.com/track/11IJA30efHAJLO3qroPh5L) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Beautiful People Will Ruin Your Life](https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1) | 3:27 |
 | 92 | [Find Yourself](https://open.spotify.com/track/75bpVVgp0HCT9Ad6uIFGvH) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH), [Before You Exit](https://open.spotify.com/artist/64NYWpxh4HgzMb1SwCCjMw) | [Find Yourself](https://open.spotify.com/album/4Lq6ZcbdRAIWVb5dU02KRj) | 2:56 |
-| 93 | [Deadcrush](https://open.spotify.com/track/4ggJO4tFslcHUjaRJaapDy) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [RELAXER](https://open.spotify.com/album/7AVKwlAGKaLBii6gsl1Hje) | 3:52 |
-| 94 | [Dreams Tonite](https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T) | 3:16 |
-| 95 | [Still Beating](https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR) | 3:01 |
-| 96 | [Lost in You](https://open.spotify.com/track/5mkRGTbm3BwPzNQL9oBV9e) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Lost in You](https://open.spotify.com/album/5c9otgSaGE52UfeQ4Eq3zH) | 1:41 |
+| 93 | [Dreams Tonite](https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T) | 3:16 |
+| 94 | [Deadcrush](https://open.spotify.com/track/4ggJO4tFslcHUjaRJaapDy) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [RELAXER](https://open.spotify.com/album/7AVKwlAGKaLBii6gsl1Hje) | 3:52 |
+| 95 | [Lost in You](https://open.spotify.com/track/5mkRGTbm3BwPzNQL9oBV9e) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Lost in You](https://open.spotify.com/album/5c9otgSaGE52UfeQ4Eq3zH) | 1:41 |
+| 96 | [Still Beating](https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR) | 3:01 |
 | 97 | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg) | 2:35 |
 | 98 | [Plastic 100°C](https://open.spotify.com/track/0P5bg4JX1fUplClPC0nkUS) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/2gUSWVHCOerKhJHZRwhVtN) | 5:16 |
-| 99 | [In Cold Blood](https://open.spotify.com/track/3bmxsQVFi8k7qfM5ULU8Me) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [RELAXER](https://open.spotify.com/album/7AVKwlAGKaLBii6gsl1Hje) | 3:26 |
-| 100 | [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 3:24 |
+| 99 | [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 3:24 |
+| 100 | [In Cold Blood](https://open.spotify.com/track/3bmxsQVFi8k7qfM5ULU8Me) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [RELAXER](https://open.spotify.com/album/7AVKwlAGKaLBii6gsl1Hje) | 3:26 |
 
 Snapshot ID: `Zfg8zwAAAADMmzG3UxA8qFfKq5H32boo`

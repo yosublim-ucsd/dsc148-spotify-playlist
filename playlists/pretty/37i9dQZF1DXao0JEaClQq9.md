@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > Modern heavenly sounds\. Cover: Youth Lagoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,615,400 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,615,381 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 36 | [Time Machine](https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:23 |
 | 37 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
 | 38 | [I Just Wanna Feel Your Love Again](https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [I Just Wanna Feel Your Love Again](https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7) | 4:01 |
-| 39 | [Lejos de Ti](https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Lejos de Ti](https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR) | 2:59 |
+| 39 | [Guilty Conscience](https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:33 |
 | 40 | [Ignore](https://open.spotify.com/track/5WlZMqOIDB4O1y4kONHMOa) | [Stemlines](https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX) | [Ignore](https://open.spotify.com/album/2rAaBEPv2cTqzkPGUuMY3E) | 3:08 |
-| 41 | [Guilty Conscience](https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:33 |
-| 42 | [Wandering Star](https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:53 |
+| 41 | [Wandering Star](https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:53 |
+| 42 | [Lejos de Ti](https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Lejos de Ti](https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR) | 2:59 |
 | 43 | [Starburned and Unkissed](https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Starburned and Unkissed](https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc) | 3:40 |
 | 44 | [Letter To An Old Poet](https://open.spotify.com/track/1zShh2S3moxyqU6u6fJZVQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:07 |
 | 45 | [House](https://open.spotify.com/track/4DM1J2NHPGlIfdepXMFbK9) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [House](https://open.spotify.com/album/6D6kw82gz48fycksFloqS5) | 3:10 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 48 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
 | 49 | [Babyyy](https://open.spotify.com/track/6lMxGGVsO1JAdzk0z6Q3Rh) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Really Hot](https://open.spotify.com/album/6pAwmI6U6Lmt6RqXjelRYx) | 1:46 |
 | 50 | [Bloom For Me](https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 2:27 |
-| 51 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
-| 52 | [Just for Now](https://open.spotify.com/track/6ifbPf9vldlIJwYKrBFktx) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:00 |
+| 51 | [Just for Now](https://open.spotify.com/track/6ifbPf9vldlIJwYKrBFktx) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:00 |
+| 52 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
 | 53 | [Bruises Off The Peach](https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:12 |
 | 54 | [Good Torture \(with Elyanna\)](https://open.spotify.com/track/3s29qreJr2KU7BFSiDtw0U) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Good Torture \(with Elyanna\)](https://open.spotify.com/album/5xhbojvUylmbWTsaCgISZr) | 3:20 |
 | 55 | [Waiting Game](https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 3:27 |

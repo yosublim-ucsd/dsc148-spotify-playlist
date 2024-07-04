@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 20058,
+  "num_followers": 20069,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAD/jKTrNZ7gNTekl+ovy75m",
+  "snapshot_id": "ZoNDAAAAAADd1ZGPLS7YEMFjfHTkf7t0",
   "tracks": [
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 194240,
-      "name": "Ledi Coumbe",
-      "url": "https://open.spotify.com/track/5Bxo3qKhyYk63E02M1wmYE"
+      "duration_ms": 276920,
+      "name": "Soya",
+      "url": "https://open.spotify.com/track/0rRHVtJft0VMnKQSFV8uup"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Ledi Coumbe",
+      "url": "https://open.spotify.com/track/5Bxo3qKhyYk63E02M1wmYE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Niafunk\u00e9",
         "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 259826,
       "name": "Cousins",
       "url": "https://open.spotify.com/track/0kGYs4cJEQ9yHv0uyXQzgl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Savane",
-        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 276920,
-      "name": "Soya",
-      "url": "https://open.spotify.com/track/0rRHVtJft0VMnKQSFV8uup"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Source",
-        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "I Go Ka",
-      "url": "https://open.spotify.com/track/1qK2abPM1HTX2tHFBgmk4T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Savane",
         "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 321440,
       "name": "Penda Yoro",
       "url": "https://open.spotify.com/track/3r8tadrcfrmhmzZBrn78iz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Source",
+        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "I Go Ka",
+      "url": "https://open.spotify.com/track/1qK2abPM1HTX2tHFBgmk4T"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Source",
-        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 331800,
-      "name": "Cinquante six",
-      "url": "https://open.spotify.com/track/45WDIUdujy0kzuDTBs3wyq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Savane",
         "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 256853,
       "name": "Yer Bounda Fara",
       "url": "https://open.spotify.com/track/56diuxLa7MlePUpjTBRswc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Source",
+        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 331800,
+      "name": "Cinquante six",
+      "url": "https://open.spotify.com/track/45WDIUdujy0kzuDTBs3wyq"
     },
     {
       "added_at": null,

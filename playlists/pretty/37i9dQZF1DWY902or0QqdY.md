@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY902or0QqdY.md) - [plain]
 
 > Clásicos que son el curita perfecto para tu corazón 💔🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,123 likes - 70 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,143 likes - 70 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY902or0QqdY.md) - [plain]
 | 52 | [We Don't Talk Anymore \- 2001 Remaster](https://open.spotify.com/track/3Ug96zKa29P3vICEEcYajZ) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [Rock 'n' Roll Juvenile](https://open.spotify.com/album/2QV9SouhSHFNpls0Dvyoo5) | 4:17 |
 | 53 | [I Will Survive \- Single Version](https://open.spotify.com/track/4xmjDH6auBwuZ4GHimjXGe) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Colour Collection](https://open.spotify.com/album/2wV72iMZZu677uYCw2giDC) | 3:17 |
 | 54 | [With Or Without You](https://open.spotify.com/track/4ha9ajL4Kz98uldAfuos6p) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Deluxe\)](https://open.spotify.com/album/2t4UTpa53ALkISHhiKrEtv) | 4:55 |
-| 55 | [If I Can't Have You](https://open.spotify.com/track/7hIo2An8IJ0gBtzogU7Lud) | [Yvonne Elliman](https://open.spotify.com/artist/2d6JU9LvNhZR7AAtu4x2rS) | [Saturday Night Fever \(The Original Movie Soundtrack\)](https://open.spotify.com/album/6kFmH2VMMFaUrK4QhY4hLi) | 2:58 |
-| 56 | [Somebody To Love](https://open.spotify.com/track/2pxCxQs9vgE74PA2k2kVBJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races](https://open.spotify.com/album/7hvCZFEWheDmHJMHOWdkLc) | 4:56 |
+| 55 | [Somebody To Love](https://open.spotify.com/track/2pxCxQs9vgE74PA2k2kVBJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races](https://open.spotify.com/album/7hvCZFEWheDmHJMHOWdkLc) | 4:56 |
+| 56 | [If I Can't Have You](https://open.spotify.com/track/7hIo2An8IJ0gBtzogU7Lud) | [Yvonne Elliman](https://open.spotify.com/artist/2d6JU9LvNhZR7AAtu4x2rS) | [Saturday Night Fever \(The Original Movie Soundtrack\)](https://open.spotify.com/album/6kFmH2VMMFaUrK4QhY4hLi) | 2:58 |
 | 57 | [The Most Beautiful Girl](https://open.spotify.com/track/5kXmiepRVuKhhz0SxyCVeL) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [Charlie Rich \- 16 Biggest Hits](https://open.spotify.com/album/3kN2WdUo9AGwDcgcMKZ1ib) | 2:42 |
 | 58 | [Baby Come Back](https://open.spotify.com/track/2pWAhUk33TSo3KU55AGoZw) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Love Songs \#1's](https://open.spotify.com/album/5rF59lH6ndvr1fzfWDX9vO) | 4:12 |
 | 59 | [Can We Still Be Friends?](https://open.spotify.com/track/4Io9zVkAKSu7LBdUGVQFL7) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [The Very Best of Todd Rundgren](https://open.spotify.com/album/5vsHuXiqwQZYT6AD5NKYsd) | 3:38 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY902or0QqdY.md) - [plain]
 | 62 | [Another Day](https://open.spotify.com/track/46a67FkKJFmN7k3j28fOtD) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Linda McCartney](https://open.spotify.com/artist/6QEKXJs8gQCiyBq5L8knco) | [Pure McCartney \(Deluxe Edition\)](https://open.spotify.com/album/5ikljNZWFHqZP2M0kKvEWb) | 3:43 |
 | 63 | [Love Hurts \- Single Edit](https://open.spotify.com/track/5g1rzUEyVFNr2i4ifEjlVN) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Hair of the Dog](https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP) | 3:52 |
 | 64 | [Alone Again \(Naturally\)](https://open.spotify.com/track/4lHQCzdK3VdYQvQZnnRouG) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front \(Deluxe Edition\)](https://open.spotify.com/album/7EZeSlS7lupfVVaZXGXVUs) | 3:36 |
-| 65 | [All Things Must Pass \- Remastered 2014](https://open.spotify.com/track/6QLFNz62dpOgQTloWuUbNh) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 3:46 |
-| 66 | [Wild World](https://open.spotify.com/track/6Xz7FeyE8HTP90HecgHV57) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered\)](https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ) | 3:20 |
+| 65 | [Wild World](https://open.spotify.com/track/6Xz7FeyE8HTP90HecgHV57) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered\)](https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ) | 3:20 |
+| 66 | [All Things Must Pass \- Remastered 2014](https://open.spotify.com/track/6QLFNz62dpOgQTloWuUbNh) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 3:46 |
 | 67 | [You've Got a Friend](https://open.spotify.com/track/69l8nFPu0LWmnoJX7YSVYc) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Mud Slide Slim and the Blue Horizon](https://open.spotify.com/album/0h8hazllDADHsrSpcQCltk) | 4:28 |
 | 68 | [Listen To Your Heart](https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 5:28 |
 | 69 | [Where Do Broken Hearts Go](https://open.spotify.com/track/709znSutWha3sQdPgdSO00) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney The Greatest Hits](https://open.spotify.com/album/4bXTYQ8nVBYO4k3C3TOVri) | 4:35 |

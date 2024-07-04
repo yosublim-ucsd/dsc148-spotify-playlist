@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,108 likes - 92 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,113 likes - 92 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 20 | [Daddy](https://open.spotify.com/track/0S2MNzOmR1QW2jAwR6KgLi) | [Yeboyah](https://open.spotify.com/artist/1XyP3n6D0QLoslo4SAQ6JB) | [Daddy](https://open.spotify.com/album/1ftgO8Z5wyKiZGfYPs0a6U) | 2:40 |
 | 21 | [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/album/4KIsBJev5R0VLIL3qAVDhx) | 3:25 |
 | 22 | [Style Rare \(feat\. Gunna\)](https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Style Rare \(feat\. Gunna\)](https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0) | 3:28 |
-| 23 | [Special Bars On Bars](https://open.spotify.com/track/5s1707eCwOKpDaFPVjBgSk) | [Bars On Bars](https://open.spotify.com/artist/3FCr0BT1yu7rJfuCO4FZTh), [Sicario Jr](https://open.spotify.com/artist/1O0ExECljjW2DpLZE8EPrI), [DW](https://open.spotify.com/artist/4eDe9weW5J45cyk1eHg6nx) | [Special Bars On Bars](https://open.spotify.com/album/1Yf8YH73lP7BO9eFZRJKA8) | 2:07 |
+| 23 | [Special Bars On Bars](https://open.spotify.com/track/5s1707eCwOKpDaFPVjBgSk) | [Bars On Bars](https://open.spotify.com/artist/40UnZIK2dtXdZKP45Evjxa), [Sicario Jr](https://open.spotify.com/artist/1O0ExECljjW2DpLZE8EPrI), [DW](https://open.spotify.com/artist/4eDe9weW5J45cyk1eHg6nx) | [Special Bars On Bars](https://open.spotify.com/album/1Yf8YH73lP7BO9eFZRJKA8) | 2:07 |
 | 24 | [Järvi](https://open.spotify.com/track/1VU75DWLqlY0htSemLfXHL) | [Ellis](https://open.spotify.com/artist/77ErZnrAVkCSHMNTOjQwxu) | [Järvi](https://open.spotify.com/album/0kOrPGaGgTqMmQh8Et3IPG) | 3:01 |
 | 25 | [Kertaakaan](https://open.spotify.com/track/0sShbPmnjtEv3Uf7Qt0rc0) | [Tuure Boelius](https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To) | [Kertaakaan](https://open.spotify.com/album/2s09JoTcTRY11KbaQid3RV) | 2:24 |
 | 26 | [Sinners](https://open.spotify.com/track/6nExxTqLbu86aatoDqCafi) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love \(Deluxe\)](https://open.spotify.com/album/77RV71qonUUyGIJdmHyl4N) | 3:24 |

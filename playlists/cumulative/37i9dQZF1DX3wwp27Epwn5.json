@@ -527,6 +527,28 @@
     },
     {
       "album": {
+        "name": "Sarfira (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5HqyzJckEdKi0Ar8a6FMFO"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Shloke Lal",
+          "url": "https://open.spotify.com/artist/1pjDnQK4lN75yaCU4ikNz1"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "De Taali",
+      "url": "https://open.spotify.com/track/4VQvSB5E9lah76WveM0pAb"
+    },
+    {
+      "album": {
         "name": "Sonu Ke Titu Ki Sweety",
         "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },
@@ -1408,7 +1430,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 83368,
       "name": "Maar Udi (From \"Sarfira\")",
       "url": "https://open.spotify.com/track/1D8SDwQsRc324Uqx0ffLAr"

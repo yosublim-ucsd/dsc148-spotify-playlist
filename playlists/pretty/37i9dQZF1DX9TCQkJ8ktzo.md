@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > The Latin soundtrack of the 60s! Cover: Armando Manzanero
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,585 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,604 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 27 | [El Nido](https://open.spotify.com/track/7d0GT25coyRGTYKPdohfC9) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Personalidad](https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy) | 2:59 |
 | 28 | [Para Cuando Regreses](https://open.spotify.com/track/05cbnq62uq1PjQiEeikJmf) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Para Mi Siempre Amor...](https://open.spotify.com/album/2EOS3hY24pspJcNHu6CHpj) | 1:55 |
 | 29 | [Muchacha Bonita](https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 2:21 |
-| 30 | [Chica Alborotada](https://open.spotify.com/track/0W62JgZBk3ViiqOxypCyoC) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock Con los Locos del Ritmo](https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH) | 2:06 |
+| 30 | [Creí](https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv) | [Juan Mendoza](https://open.spotify.com/artist/6RpoeATtNEqaL97bJ4SB9S) | [Antología...Juan Mendoza "El Tariacuri"](https://open.spotify.com/album/35NddtPxG0K0ntkKfbpG4U) | 2:59 |
 | 31 | [Cuando Calienta el Sol](https://open.spotify.com/track/1QcakbNdhshfQpnXg0jnBX) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:57 |
 | 32 | [Monólogo](https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Cuidado](https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o) | 2:56 |
-| 33 | [Creí](https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv) | [Juan Mendoza](https://open.spotify.com/artist/6RpoeATtNEqaL97bJ4SB9S) | [Antología...Juan Mendoza "El Tariacuri"](https://open.spotify.com/album/35NddtPxG0K0ntkKfbpG4U) | 2:59 |
+| 33 | [Chica Alborotada](https://open.spotify.com/track/0W62JgZBk3ViiqOxypCyoC) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock Con los Locos del Ritmo](https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH) | 2:06 |
 | 34 | [Ven Que Te Quiero](https://open.spotify.com/track/2lQ7bUC4PRFxFtz3jnGJ0H) | [Los Impala](https://open.spotify.com/artist/0c1eRdtji5oOdfHMZXzvto) | [Ven Que Te Quiero](https://open.spotify.com/album/2ph7k8PjzAwIW5yFD7UyAP) | 3:13 |
 | 35 | [Felicidad](https://open.spotify.com/track/2JXbqC4UlzqC8TGJtUMNPp) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 2:08 |
 | 36 | [Adoro](https://open.spotify.com/track/0hE2ejWHfg5OpdoOnMjePG) | [Armando Manzanero Y Su Piano](https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq) | [Armando Manzanero, Su Piano y Su Música](https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy) | 2:24 |

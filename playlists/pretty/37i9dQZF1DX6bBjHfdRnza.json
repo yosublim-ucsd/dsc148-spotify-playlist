@@ -1,28 +1,44 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Cover: Lumia. Artwork by Rewina Beshue.",
-  "num_followers": 179677,
+  "num_followers": 179885,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn41QAAAAABB+c2KP/shVYxZZCWC2N7z",
+  "snapshot_id": "ZoXNwQAAAAA2l4Zz0b4rlWSBXskRL/z8",
   "tracks": [
     {
-      "added_at": "2024-06-27 04:03:44",
+      "added_at": "2024-07-03 22:16:33",
       "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/4Ur7nhgjizKKY9cWsVGpTo"
+        "name": "Party Time",
+        "url": "https://open.spotify.com/album/46ATcqjybqaFdoSzihPf0o"
       },
       "artists": [
         {
-          "name": "Lumia",
-          "url": "https://open.spotify.com/artist/7nxfxSbNTXNc0v5TG4ObSh"
+          "name": "James View",
+          "url": "https://open.spotify.com/artist/07CtYKvP7pqKd2aIBqhgpr"
         }
       ],
-      "duration_ms": 299076,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/1VQ95vCO1eZX99YYhm76QO"
+      "duration_ms": 203636,
+      "name": "Party Time",
+      "url": "https://open.spotify.com/track/0YsqM8QeilX8nxC2uUhsK4"
+    },
+    {
+      "added_at": "2024-06-27 04:03:44",
+      "album": {
+        "name": "Snog",
+        "url": "https://open.spotify.com/album/0yszMLZhCjPj39V54464kX"
+      },
+      "artists": [
+        {
+          "name": "Alex Bone",
+          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
+        }
+      ],
+      "duration_ms": 207134,
+      "name": "Snog",
+      "url": "https://open.spotify.com/track/3HM98iPblYJraH2pQIwlti"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -45,36 +61,20 @@
       "url": "https://open.spotify.com/track/5Www92j9UCkB0NZJTWnvcg"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "stay",
-        "url": "https://open.spotify.com/album/0Vw1FO6T1S1uH5vLT2fINl"
-      },
-      "artists": [
-        {
-          "name": "The Sanctuary",
-          "url": "https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2"
-        }
-      ],
-      "duration_ms": 186814,
-      "name": "stay",
-      "url": "https://open.spotify.com/track/2ZkmDS8JzQruGYcMFG04Yo"
-    },
-    {
       "added_at": "2024-06-27 04:03:44",
       "album": {
-        "name": "Switch Up",
-        "url": "https://open.spotify.com/album/6ZhbvFMKmjDTGn0RXenWMi"
+        "name": "New York",
+        "url": "https://open.spotify.com/album/4Ur7nhgjizKKY9cWsVGpTo"
       },
       "artists": [
         {
-          "name": "Sensu",
-          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
+          "name": "Lumia",
+          "url": "https://open.spotify.com/artist/7nxfxSbNTXNc0v5TG4ObSh"
         }
       ],
-      "duration_ms": 162120,
-      "name": "Switch Up",
-      "url": "https://open.spotify.com/track/75EpvWDkENMKxCQ3uln4av"
+      "duration_ms": 299076,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/1VQ95vCO1eZX99YYhm76QO"
     },
     {
       "added_at": "2024-06-12 18:22:48",
@@ -93,20 +93,36 @@
       "url": "https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR"
     },
     {
-      "added_at": "2024-05-23 03:04:18",
+      "added_at": "2024-07-03 22:16:33",
       "album": {
-        "name": "Never Leave",
-        "url": "https://open.spotify.com/album/1VRL0W2GX4Dqivb2yhweUs"
+        "name": "never let u",
+        "url": "https://open.spotify.com/album/5tWIpA7QMT5ISbVP265wtq"
       },
       "artists": [
         {
-          "name": "Mezraa",
-          "url": "https://open.spotify.com/artist/6oT0L9KXaIDDW38IpYuvRs"
+          "name": "BOKI",
+          "url": "https://open.spotify.com/artist/2xNNVFPSpFiz5ghriXRMjh"
         }
       ],
-      "duration_ms": 240651,
-      "name": "Never Leave",
-      "url": "https://open.spotify.com/track/4TZED3XiqWZROYvMGC3jvY"
+      "duration_ms": 247684,
+      "name": "never let u",
+      "url": "https://open.spotify.com/track/3zQCKVbt7gy4GvP4l5l3Jk"
+    },
+    {
+      "added_at": "2024-06-20 04:47:08",
+      "album": {
+        "name": "The Lost Carnival Tapes",
+        "url": "https://open.spotify.com/album/6YYtb9SAjtb6dolcIyqxlB"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "duration_ms": 213250,
+      "name": "puma",
+      "url": "https://open.spotify.com/track/0vUkmgjokgPCqgJcODNMlZ"
     },
     {
       "added_at": "2024-06-27 04:03:44",
@@ -125,22 +141,6 @@
       "url": "https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr"
     },
     {
-      "added_at": "2024-06-27 04:03:44",
-      "album": {
-        "name": "Snog",
-        "url": "https://open.spotify.com/album/0yszMLZhCjPj39V54464kX"
-      },
-      "artists": [
-        {
-          "name": "Alex Bone",
-          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
-        }
-      ],
-      "duration_ms": 207134,
-      "name": "Snog",
-      "url": "https://open.spotify.com/track/3HM98iPblYJraH2pQIwlti"
-    },
-    {
       "added_at": "2024-03-27 17:04:34",
       "album": {
         "name": "Warm The Room EP",
@@ -155,6 +155,70 @@
       "duration_ms": 198095,
       "name": "Warm The Room",
       "url": "https://open.spotify.com/track/3o3RBrOBpe1OkJpoSRwDqo"
+    },
+    {
+      "added_at": "2024-07-03 22:16:33",
+      "album": {
+        "name": "library",
+        "url": "https://open.spotify.com/album/7a2Gvdzcg91guMenhk4W6G"
+      },
+      "artists": [
+        {
+          "name": "Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "library",
+      "url": "https://open.spotify.com/track/6mz3QCVaJ2RAKqLJiokShY"
+    },
+    {
+      "added_at": "2024-06-27 04:03:44",
+      "album": {
+        "name": "Switch Up",
+        "url": "https://open.spotify.com/album/6ZhbvFMKmjDTGn0RXenWMi"
+      },
+      "artists": [
+        {
+          "name": "Sensu",
+          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
+        }
+      ],
+      "duration_ms": 162120,
+      "name": "Switch Up",
+      "url": "https://open.spotify.com/track/75EpvWDkENMKxCQ3uln4av"
+    },
+    {
+      "added_at": "2024-05-23 03:04:18",
+      "album": {
+        "name": "Never Leave",
+        "url": "https://open.spotify.com/album/1VRL0W2GX4Dqivb2yhweUs"
+      },
+      "artists": [
+        {
+          "name": "Mezraa",
+          "url": "https://open.spotify.com/artist/6oT0L9KXaIDDW38IpYuvRs"
+        }
+      ],
+      "duration_ms": 240651,
+      "name": "Never Leave",
+      "url": "https://open.spotify.com/track/4TZED3XiqWZROYvMGC3jvY"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "stay",
+        "url": "https://open.spotify.com/album/0Vw1FO6T1S1uH5vLT2fINl"
+      },
+      "artists": [
+        {
+          "name": "The Sanctuary",
+          "url": "https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2"
+        }
+      ],
+      "duration_ms": 186814,
+      "name": "stay",
+      "url": "https://open.spotify.com/track/2ZkmDS8JzQruGYcMFG04Yo"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -177,36 +241,20 @@
       "url": "https://open.spotify.com/track/11XXS0DhIQJp2wlgoFiBIM"
     },
     {
-      "added_at": "2024-06-27 04:03:44",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Brother - EP",
-        "url": "https://open.spotify.com/album/6sobspXh5u2uoySnWzLm5y"
+        "name": "WTP",
+        "url": "https://open.spotify.com/album/1027yPGO8D7GPGz0fmICux"
       },
       "artists": [
         {
-          "name": "Oliver Henry",
-          "url": "https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD"
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
         }
       ],
-      "duration_ms": 233963,
-      "name": "What Could Have Been",
-      "url": "https://open.spotify.com/track/6ksjV4vLhN2QYiA8LjfHId"
-    },
-    {
-      "added_at": "2024-05-08 19:36:43",
-      "album": {
-        "name": "Dance With You",
-        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
+      "duration_ms": 173712,
+      "name": "WTP",
+      "url": "https://open.spotify.com/track/2QFFM9WXVKhangOz59nEn0"
     },
     {
       "added_at": "2024-03-27 17:04:34",
@@ -243,6 +291,38 @@
     {
       "added_at": "2024-06-27 04:03:44",
       "album": {
+        "name": "Brother - EP",
+        "url": "https://open.spotify.com/album/6sobspXh5u2uoySnWzLm5y"
+      },
+      "artists": [
+        {
+          "name": "Oliver Henry",
+          "url": "https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD"
+        }
+      ],
+      "duration_ms": 233963,
+      "name": "What Could Have Been",
+      "url": "https://open.spotify.com/track/6ksjV4vLhN2QYiA8LjfHId"
+    },
+    {
+      "added_at": "2024-05-08 19:36:43",
+      "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
+    },
+    {
+      "added_at": "2024-06-27 04:03:44",
+      "album": {
         "name": "Life & Death",
         "url": "https://open.spotify.com/album/6lLG5QP9HwBmQldCUAaa07"
       },
@@ -275,22 +355,6 @@
     {
       "added_at": "2024-06-20 04:47:08",
       "album": {
-        "name": "The Lost Carnival Tapes",
-        "url": "https://open.spotify.com/album/6YYtb9SAjtb6dolcIyqxlB"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "puma",
-      "url": "https://open.spotify.com/track/0vUkmgjokgPCqgJcODNMlZ"
-    },
-    {
-      "added_at": "2024-06-20 04:47:08",
-      "album": {
         "name": "Disco Music EP",
         "url": "https://open.spotify.com/album/4ss7YvyWg01WnvStRb1WH1"
       },
@@ -307,6 +371,22 @@
       "duration_ms": 213841,
       "name": "Disco Music",
       "url": "https://open.spotify.com/track/4NlWRriDQTMtblY98KMYzo"
+    },
+    {
+      "added_at": "2024-07-03 22:16:33",
+      "album": {
+        "name": "180",
+        "url": "https://open.spotify.com/album/635u0bGwsx435mthsZdYZq"
+      },
+      "artists": [
+        {
+          "name": "Basti\u00e1n",
+          "url": "https://open.spotify.com/artist/0DuBhFEeMdGd1CnC7OVJTz"
+        }
+      ],
+      "duration_ms": 275537,
+      "name": "180",
+      "url": "https://open.spotify.com/track/044Pe0QnRSNOuOSayWnqSQ"
     },
     {
       "added_at": "2024-06-27 04:03:44",
@@ -341,22 +421,6 @@
       "url": "https://open.spotify.com/track/0fyatRJCPPj2V6maXthHIu"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "WTP",
-        "url": "https://open.spotify.com/album/1027yPGO8D7GPGz0fmICux"
-      },
-      "artists": [
-        {
-          "name": "Suray Sertin",
-          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
-        }
-      ],
-      "duration_ms": 173712,
-      "name": "WTP",
-      "url": "https://open.spotify.com/track/2QFFM9WXVKhangOz59nEn0"
-    },
-    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "U&ME",
@@ -371,6 +435,26 @@
       "duration_ms": 156444,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/25ZR15mdsTb5fubAu1dbZc"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "bambam",
+        "url": "https://open.spotify.com/album/1hxGyLiAe82fJnPiyBJOpZ"
+      },
+      "artists": [
+        {
+          "name": "babyspoon",
+          "url": "https://open.spotify.com/artist/2az2WY6yVvN5tGd8zIjFdU"
+        },
+        {
+          "name": "Melo Nada",
+          "url": "https://open.spotify.com/artist/7axOBN2EOcKsN9mRnvTKmI"
+        }
+      ],
+      "duration_ms": 140625,
+      "name": "bambam",
+      "url": "https://open.spotify.com/track/7dOd3rGQosCkUHptUv9kn0"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -435,26 +519,6 @@
       "duration_ms": 374710,
       "name": "Beautiful Dancers",
       "url": "https://open.spotify.com/track/4UzYOXWZU0w79GuKMXobpc"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "bambam",
-        "url": "https://open.spotify.com/album/1hxGyLiAe82fJnPiyBJOpZ"
-      },
-      "artists": [
-        {
-          "name": "babyspoon",
-          "url": "https://open.spotify.com/artist/2az2WY6yVvN5tGd8zIjFdU"
-        },
-        {
-          "name": "Melo Nada",
-          "url": "https://open.spotify.com/artist/7axOBN2EOcKsN9mRnvTKmI"
-        }
-      ],
-      "duration_ms": 140625,
-      "name": "bambam",
-      "url": "https://open.spotify.com/track/7dOd3rGQosCkUHptUv9kn0"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -925,22 +989,6 @@
       "url": "https://open.spotify.com/track/6h426eeQUnhLOKJbAdCEnX"
     },
     {
-      "added_at": "2024-06-05 19:51:45",
-      "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/4shAGmZo84M1qHekU3SdPC"
-      },
-      "artists": [
-        {
-          "name": "Amber Tambour",
-          "url": "https://open.spotify.com/artist/5xhTYKtRvklgt8OqgaiqZk"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/2c9YFLVH3NPe8KOJu2OIF5"
-    },
-    {
       "added_at": "2024-06-12 18:22:48",
       "album": {
         "name": "summer high",
@@ -1309,22 +1357,6 @@
       "url": "https://open.spotify.com/track/3PyOP0A3yTs5hEnuVJHtlL"
     },
     {
-      "added_at": "2024-05-15 17:57:32",
-      "album": {
-        "name": "1:M",
-        "url": "https://open.spotify.com/album/1NJxF1Nz8KJerri0pJJI9b"
-      },
-      "artists": [
-        {
-          "name": "Megra",
-          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
-        }
-      ],
-      "duration_ms": 134734,
-      "name": "Open Up The Door",
-      "url": "https://open.spotify.com/track/3ar20lJHzjL873uKthoQc6"
-    },
-    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "DWFM2C (Familiar Faces Remix)",
@@ -1461,22 +1493,6 @@
       "url": "https://open.spotify.com/track/0rze6B9uVaB7TLO28beBAG"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Just Wanna Dance",
-        "url": "https://open.spotify.com/album/0qT6MhsfVQvgWFWHpnmHhW"
-      },
-      "artists": [
-        {
-          "name": "Cameron Jack",
-          "url": "https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH"
-        }
-      ],
-      "duration_ms": 259538,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/2FgH6UPs5c7yTxPGwQ5ecQ"
-    },
-    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "The Nerve",
@@ -1491,22 +1507,6 @@
       "duration_ms": 269291,
       "name": "The Nerve",
       "url": "https://open.spotify.com/track/5hVc50iOb0DLliTFpwlQQz"
-    },
-    {
-      "added_at": "2024-05-08 19:36:43",
-      "album": {
-        "name": "Undown",
-        "url": "https://open.spotify.com/album/4mkxtuiSS3WEZSZNwukDcI"
-      },
-      "artists": [
-        {
-          "name": "Me & George",
-          "url": "https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv"
-        }
-      ],
-      "duration_ms": 202440,
-      "name": "Undown",
-      "url": "https://open.spotify.com/track/3Ev3OtW7s0FmhM7s5gDsez"
     },
     {
       "added_at": "2024-05-31 15:14:11",

@@ -1,6 +1,6 @@
 {
   "description": "Music paying tribute to the Heartland of America.",
-  "num_followers": 274179,
+  "num_followers": 274295,
   "original_name": "Heartland Country",
   "owner": {
     "name": "Spotify",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Girl Going Nowhere",
-        "url": "https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU"
+        "name": "It's America",
+        "url": "https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH"
       },
       "artists": [
         {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
         }
       ],
-      "duration_ms": 209080,
-      "name": "A Little Dive Bar in Dahlonega",
-      "url": "https://open.spotify.com/track/7qcRDEpmDWS0bLHaZRYE8c"
+      "duration_ms": 213786,
+      "name": "It\u2019s America",
+      "url": "https://open.spotify.com/track/6QbcLktLNe7eYqh8TjZeCd"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1395,34 +1395,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "It's America",
-        "url": "https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH"
+        "name": "Girl Going Nowhere",
+        "url": "https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU"
       },
       "artists": [
         {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
         }
       ],
-      "duration_ms": 213786,
-      "name": "It\u2019s America",
-      "url": "https://open.spotify.com/track/6QbcLktLNe7eYqh8TjZeCd"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/6eC1yisEI9vTlYLsPhCett"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "Good Vibes",
-      "url": "https://open.spotify.com/track/49oBFP6ZHPtd6t33LFTD3E"
+      "duration_ms": 209080,
+      "name": "A Little Dive Bar in Dahlonega",
+      "url": "https://open.spotify.com/track/7qcRDEpmDWS0bLHaZRYE8c"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1439,6 +1423,22 @@
       "duration_ms": 246453,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/7jP7iCJ1cXVXYHWIkYtP6d"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/6eC1yisEI9vTlYLsPhCett"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "Good Vibes",
+      "url": "https://open.spotify.com/track/49oBFP6ZHPtd6t33LFTD3E"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Something To Be Proud Of: Best Of 1999-2005",
-        "url": "https://open.spotify.com/album/5xPDOWC4cy0sS9FrF7HiHZ"
-      },
-      "artists": [
-        {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
-        }
-      ],
-      "duration_ms": 285586,
-      "name": "My Town",
-      "url": "https://open.spotify.com/track/5M8oqeozsjPMSXbkjo0SyD"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "#1s ... and then some",
         "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 268613,
       "name": "Only In America",
       "url": "https://open.spotify.com/track/3e41nkMyqcAwaQCXJVj87G"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Something To Be Proud Of: Best Of 1999-2005",
+        "url": "https://open.spotify.com/album/5xPDOWC4cy0sS9FrF7HiHZ"
+      },
+      "artists": [
+        {
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
+        }
+      ],
+      "duration_ms": 285586,
+      "name": "My Town",
+      "url": "https://open.spotify.com/track/5M8oqeozsjPMSXbkjo0SyD"
     },
     {
       "added_at": "2024-06-21 04:00:00",

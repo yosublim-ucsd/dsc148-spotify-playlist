@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 162840,
       "name": "ABCD",
       "url": "https://open.spotify.com/track/0V2passWyAXnON67kfAj7y"
@@ -117,6 +117,28 @@
     },
     {
       "album": {
+        "name": "Belum Mulai",
+        "url": "https://open.spotify.com/album/039LNwYmsa5hoQPDFbFbcc"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        },
+        {
+          "name": "Nabila Taqiyyah",
+          "url": "https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214585,
+      "name": "Belum Mulai",
+      "url": "https://open.spotify.com/track/5MFi8dcCIGTiuUIC2loVQc"
+    },
+    {
+      "album": {
         "name": "Bercinta Lewat Kata (From \"Jatuh Cinta Seperti di Film-Film\")",
         "url": "https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd"
       },
@@ -150,7 +172,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 287465,
       "name": "Bermuara",
       "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
@@ -306,10 +328,28 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 228665,
       "name": "Gelora",
       "url": "https://open.spotify.com/track/1LSDf9UugcT7zX9FlCQRvL"
+    },
+    {
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "album": {
@@ -360,7 +400,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 219432,
       "name": "Here4U",
       "url": "https://open.spotify.com/track/4rd86YwKxYZKeWbXIeUNrU"
@@ -432,7 +472,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 182329,
       "name": "Kejutkan Aku",
       "url": "https://open.spotify.com/track/7o5JPZnCRZnEozCrjCQxBk"
@@ -504,7 +544,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 244186,
       "name": "Love You With All My Heart",
       "url": "https://open.spotify.com/track/0UaaFmF3xUwMjnuAHBq7qL"
@@ -638,7 +678,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 181578,
       "name": "My Home Is In Your Arms",
       "url": "https://open.spotify.com/track/21otZelGEt8i36RHwxaNg5"
@@ -1013,6 +1053,28 @@
     },
     {
       "album": {
+        "name": "Smeraldo Garden Marching Band (feat. Loco)",
+        "url": "https://open.spotify.com/album/2PcM535knJOZb6MUth8axj"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182840,
+      "name": "Smeraldo Garden Marching Band (feat. Loco)",
+      "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
+    },
+    {
+      "album": {
         "name": "SPOT!",
         "url": "https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI"
       },
@@ -1086,7 +1148,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 289571,
       "name": "Tetap Ku Cinta",
       "url": "https://open.spotify.com/track/7CyIlxl56oUCWtjfnH4S6Q"

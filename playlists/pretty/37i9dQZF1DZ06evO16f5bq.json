@@ -1,41 +1,13 @@
 {
-  "description": "This is MC Cabelinho. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 140485,
+  "description": "This is MC Cabelinho. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
+  "num_followers": 140620,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAACVDy0lMWMHXno5KW4/XAAE",
+  "snapshot_id": "ZoNDAAAAAABTP7Ift9rkinuB7TMqsrjF",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "IRRASTRE\u00c1VEL",
-        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 181512,
-      "name": "Vamo Marolar",
-      "url": "https://open.spotify.com/track/0cvVetonbe66pOOPMtuSOC"
-    },
     {
       "added_at": null,
       "album": {
@@ -71,6 +43,34 @@
       "duration_ms": 179945,
       "name": "Loucura",
       "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vamo Marolar",
+        "url": "https://open.spotify.com/album/3oGU2np2FVq18SxoaCVQ9Z"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 181512,
+      "name": "Vamo Marolar",
+      "url": "https://open.spotify.com/track/6VzrPxShPXVXRLig62vl2p"
     },
     {
       "added_at": null,
@@ -211,6 +211,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "X1",
+      "url": "https://open.spotify.com/track/0dcHD9QhnWRA41zoLnC83X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica #6: Era uma Vez",
         "url": "https://open.spotify.com/album/61wvaVHo5eUxZv44ztftMX"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 577819,
       "name": "Poesia Ac\u00fastica #6: Era uma Vez",
       "url": "https://open.spotify.com/track/13Rf6RaZT13TW4xLQR3MQr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 188852,
-      "name": "X1",
-      "url": "https://open.spotify.com/track/0dcHD9QhnWRA41zoLnC83X"
     },
     {
       "added_at": null,
@@ -771,58 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poesia Ac\u00fastica 10: Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/1ct5PtiSQ4UnFMmMqFytUD"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "JayA Luuck",
-          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
-        },
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        }
-      ],
-      "duration_ms": 682816,
-      "name": "Poesia Ac\u00fastica 10: Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/4pwFy4YPNGMxK2P2FfQfvt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
       },
@@ -871,6 +819,58 @@
       "duration_ms": 240000,
       "name": "Carro Forte",
       "url": "https://open.spotify.com/track/1TL33F4bcT9fZPSqvUbFV5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poesia Ac\u00fastica 10: Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/1ct5PtiSQ4UnFMmMqFytUD"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        },
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "duration_ms": 682816,
+      "name": "Poesia Ac\u00fastica 10: Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/4pwFy4YPNGMxK2P2FfQfvt"
     },
     {
       "added_at": null,
@@ -1363,6 +1363,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "LITTLE LOVE (DELUXE)",
+        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 144822,
+      "name": "TE ENCONTREI",
+      "url": "https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
       },
@@ -1387,30 +1411,6 @@
       "duration_ms": 160919,
       "name": "Ilus\u00e3o",
       "url": "https://open.spotify.com/track/168LaJOA6hVLqAHJjWwozO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LITTLE LOVE (DELUXE)",
-        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 144822,
-      "name": "TE ENCONTREI",
-      "url": "https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ"
     },
     {
       "added_at": null,

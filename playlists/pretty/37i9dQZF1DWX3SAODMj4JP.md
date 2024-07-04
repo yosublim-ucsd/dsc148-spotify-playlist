@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,741 likes - 69 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,771 likes - 69 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 62 | [Pra Viver \- Acústico](https://open.spotify.com/track/42OJeiOtGughIhTJO9yHHa) | [Praviver Worship](https://open.spotify.com/artist/5mhPlTKr7pRsSnjK1nocL4) | [Pra Viver Project](https://open.spotify.com/album/2riFr9I8oh3ZDUwQHO7GdS) | 3:15 |
 | 63 | [Mão No Arado](https://open.spotify.com/track/5ugXpVjpBle03j9zWdl42w) | [Kauê Penna](https://open.spotify.com/artist/66gr6eacn8mru8PygKXLvj), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Mão No Arado](https://open.spotify.com/album/6RLHnVKEmEwjG2r5KRCIPx) | 3:30 |
 | 64 | [Coração de Aprendiz](https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw) | [Coração de Aprendiz](https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz) | 5:03 |
-| 65 | [Visita](https://open.spotify.com/track/657aCgepX1HRKoCNbFHWh6) | [Ana Tristão](https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC) | [Visita](https://open.spotify.com/album/78wHMwGlGTHNL70AxQYZGr) | 4:47 |
-| 66 | [Eu Te Amo, Senhor](https://open.spotify.com/track/5U7C8i2lCvsPdgWJQwG7ZY) | [Léo Moreno](https://open.spotify.com/artist/7aL8gEvgW9buUDMXHdkqAP) | [Eu Te Amo, Senhor](https://open.spotify.com/album/4gxN4G9Yj5gPB1hhgHUrKU) | 5:26 |
-| 67 | [Caminho Estreito](https://open.spotify.com/track/0OFBnd9FyQ45MEnfr71y8X) | [Marcelo Sissá](https://open.spotify.com/artist/5bcgyumeouaAtB9NlPL5X3), [Bullara](https://open.spotify.com/artist/4JBE4ckjSxHtAeMJyFNsqd) | [Caminho Estreito](https://open.spotify.com/album/1M6L3XXaZQhnAR1gcuXlCL) | 3:24 |
+| 65 | [Caminho Estreito](https://open.spotify.com/track/0OFBnd9FyQ45MEnfr71y8X) | [Marcelo Sissá](https://open.spotify.com/artist/5bcgyumeouaAtB9NlPL5X3), [Bullara](https://open.spotify.com/artist/4JBE4ckjSxHtAeMJyFNsqd) | [Caminho Estreito](https://open.spotify.com/album/1M6L3XXaZQhnAR1gcuXlCL) | 3:24 |
+| 66 | [Visita](https://open.spotify.com/track/657aCgepX1HRKoCNbFHWh6) | [Ana Tristão](https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC) | [Visita](https://open.spotify.com/album/78wHMwGlGTHNL70AxQYZGr) | 4:47 |
+| 67 | [Eu Te Amo, Senhor](https://open.spotify.com/track/5U7C8i2lCvsPdgWJQwG7ZY) | [Léo Moreno](https://open.spotify.com/artist/7aL8gEvgW9buUDMXHdkqAP) | [Eu Te Amo, Senhor](https://open.spotify.com/album/4gxN4G9Yj5gPB1hhgHUrKU) | 5:26 |
 | 68 | [Eu Te Vejo Em Tudo \- Acoustic Session](https://open.spotify.com/track/3nYwEDwMaz47c1lJ5hcUgJ) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Acoustic Session, Vol\. 01](https://open.spotify.com/album/1pbf0SKp7UHiOJV8dK3LPp) | 4:40 |
 | 69 | [Só Penso em Você \- Acústico](https://open.spotify.com/track/34MJL68sX5xdWJdA1NnoHf) | [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN) | [Só Penso em Você \(Acústico\)](https://open.spotify.com/album/2IsWffAYL5GfwcRwL08f4d) | 6:00 |
 

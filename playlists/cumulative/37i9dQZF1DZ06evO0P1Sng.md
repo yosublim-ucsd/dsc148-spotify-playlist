@@ -2,7 +2,7 @@
 
 ### [This Is Azzy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0P1Sng)
 
-> This is: Azzy\. Alle wichtigen Tracks in einer Playlist.
+> This is Azzy\. The essential tracks, all in one playlist.
 
 63 songs - 4 hr 9 min
 

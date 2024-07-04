@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,721 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,733 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 7 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 |
 | 8 | [DOWN \(Juicy Juicy\)](https://open.spotify.com/track/086PZ9r1W6iNjZyL8qOqTS) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [See You in My 19th Life, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0BM8vW7jepWGUcEd2mh2EY) | 3:26 |
 | 9 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 |
-| 10 | [Could It Be](https://open.spotify.com/track/5EP0eADsE1wRAbnET9k5u8) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Could It Be](https://open.spotify.com/album/5vxRsSVH24F86nh4vuQVOI) | 3:09 |
-| 11 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 |
+| 10 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 |
+| 11 | [Could It Be](https://open.spotify.com/track/5EP0eADsE1wRAbnET9k5u8) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Could It Be](https://open.spotify.com/album/5vxRsSVH24F86nh4vuQVOI) | 3:09 |
 | 12 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 |
 | 13 | [DEPEND ON YOU](https://open.spotify.com/track/34WYAVk1WHSyMxY9tHRPyA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:18 |
 | 14 | [Chance \(Feat\. Peakboy \(픽보이\)\)](https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [Peakboy \(픽보이\)](https://open.spotify.com/artist/2STSJ8XxhIbtz3CNwLZcJU) | [HAAN X Chan : Synergy](https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n) | 3:14 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 26 | [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 |
 | 27 | [Parade](https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:02 |
 | 28 | [All I Wanna Do](https://open.spotify.com/track/4vC3FYMFaYyLoG9ROtEGVU) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:08 |
-| 29 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 |
-| 30 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
+| 29 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
+| 30 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 |
 | 31 | [Daisy](https://open.spotify.com/track/1mnyie1f8GFwDBENXuvld9) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [CEO\-dol Mart \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0XLq1Dhnhjsm87XFahi6DO) | 3:01 |
 | 32 | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/track/40wyDhO974VOe491zfVLbC) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp) | 4:03 |
 | 33 | [Alone](https://open.spotify.com/track/0X36bmuoQwQV0YJqU8Uxua) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:41 |

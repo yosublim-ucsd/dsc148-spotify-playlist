@@ -1895,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "Kaanch Ke Ghar",
+        "url": "https://open.spotify.com/album/2ptD5mY38viW5m8w9KSaKK"
+      },
+      "artists": [
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332538,
+      "name": "Kaanch Ke Ghar",
+      "url": "https://open.spotify.com/track/4zIKxXLpYV6vCHgS1BTSkX"
+    },
+    {
+      "album": {
         "name": "Time Will Tell",
         "url": "https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y"
       },
@@ -3334,6 +3352,24 @@
       "duration_ms": 191901,
       "name": "TRAP PRAA",
       "url": "https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd"
+    },
+    {
+      "album": {
+        "name": "TT",
+        "url": "https://open.spotify.com/album/1pxuDycn6c53mE8cBFrS8j"
+      },
+      "artists": [
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237014,
+      "name": "TT",
+      "url": "https://open.spotify.com/track/0RWx7EB3id2kMmIS9FmxlP"
     },
     {
       "album": {

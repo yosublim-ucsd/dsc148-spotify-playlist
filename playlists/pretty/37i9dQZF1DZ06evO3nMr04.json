@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1292648,
+  "num_followers": 1293158,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAADDKYLi/HiBP2BYxS1z5L/d",
+  "snapshot_id": "ZoNDAAAAAAACNOlmZr2Vn4MRbPNJOGMj",
   "tracks": [
     {
       "added_at": null,
@@ -95,6 +95,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Face",
+        "url": "https://open.spotify.com/album/3L82FRbY7B5tk0CZDED1pi"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 275750,
+      "name": "No Face",
+      "url": "https://open.spotify.com/track/4C397XtpxJdRNCEmVav0gX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
@@ -135,26 +155,6 @@
       "duration_ms": 111458,
       "name": "BURN",
       "url": "https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Face",
-        "url": "https://open.spotify.com/album/3L82FRbY7B5tk0CZDED1pi"
-      },
-      "artists": [
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 275750,
-      "name": "No Face",
-      "url": "https://open.spotify.com/track/4C397XtpxJdRNCEmVav0gX"
     },
     {
       "added_at": null,
@@ -619,30 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
-      },
-      "artists": [
-        {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 295471,
-      "name": "BACK TO ME",
-      "url": "https://open.spotify.com/track/1icgLGTpX2fQXKRe4D7w2b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gimme A Second 2",
         "url": "https://open.spotify.com/album/5bCb9gxJaafNto0orr3lIv"
       },
@@ -667,6 +643,30 @@
       "duration_ms": 171891,
       "name": "Gimme A Second 2",
       "url": "https://open.spotify.com/track/5FYHVGP9TINgbfLvzMhnVl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 295471,
+      "name": "BACK TO ME",
+      "url": "https://open.spotify.com/track/1icgLGTpX2fQXKRe4D7w2b"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yeezus",
+        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "Black Skinhead",
+      "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 225000,
       "name": "DO IT",
       "url": "https://open.spotify.com/track/2iGvsJuc2mC4mDVOVMNAP6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yeezus",
-        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 188013,
-      "name": "Black Skinhead",
-      "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
     },
     {
       "added_at": null,
@@ -783,30 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
-      },
-      "artists": [
-        {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 115238,
-      "name": "STARS",
-      "url": "https://open.spotify.com/track/347AQK5Lyhn6RvB8tBGYxt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Watch The Throne",
         "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
       },
@@ -835,6 +811,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 115238,
+      "name": "STARS",
+      "url": "https://open.spotify.com/track/347AQK5Lyhn6RvB8tBGYxt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JESUS IS KING",
         "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
       },
@@ -851,18 +867,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+        "name": "Watch The Throne",
+        "url": "https://open.spotify.com/album/7mCeLbChyegbRwwKK5shJs"
       },
       "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
         {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 374413,
-      "name": "No More Parties In LA",
-      "url": "https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99"
+      "duration_ms": 140746,
+      "name": "Gotta Have It",
+      "url": "https://open.spotify.com/track/6JFLZH9vCzgqnUToBdiHQb"
     },
     {
       "added_at": null,
@@ -891,22 +911,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watch The Throne",
-        "url": "https://open.spotify.com/album/7mCeLbChyegbRwwKK5shJs"
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
       },
       "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
         {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 140746,
-      "name": "Gotta Have It",
-      "url": "https://open.spotify.com/track/6JFLZH9vCzgqnUToBdiHQb"
+      "duration_ms": 374413,
+      "name": "No More Parties In LA",
+      "url": "https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99"
     },
     {
       "added_at": null,
@@ -931,42 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Love It",
-        "url": "https://open.spotify.com/album/185Tm1g5U7eMOrm3m9SQUh"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lil Pump",
-          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
-        }
-      ],
-      "duration_ms": 127946,
-      "name": "I Love It (& Lil Pump)",
-      "url": "https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Watch The Throne",
         "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 201453,
       "name": "Why I Love You",
       "url": "https://open.spotify.com/track/4bDPr2VAjcfgUDmN9dGOC3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/185Tm1g5U7eMOrm3m9SQUh"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lil Pump",
+          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
+        }
+      ],
+      "duration_ms": 127946,
+      "name": "I Love It (& Lil Pump)",
+      "url": "https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ"
     },
     {
       "added_at": null,

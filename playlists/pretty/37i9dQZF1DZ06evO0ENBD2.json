@@ -1,12 +1,12 @@
 {
   "description": "This is Queen. The essential tracks, all in one playlist.",
-  "num_followers": 4861180,
+  "num_followers": 4861708,
   "original_name": "This Is Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAACuMlt+USEVLFUiDkECchht",
+  "snapshot_id": "ZoNDAAAAAADHrWqJ2My0o3JDrozMuQZJ",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "Love Of My Life - Remastered 2011",
+      "url": "https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jazz (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 255600,
       "name": "Fat Bottomed Girls - Remastered 2011",
       "url": "https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
-      "url": "https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Miracle (2011 Remaster)",
-        "url": "https://open.spotify.com/album/3h6SV9wHJtNL1YswZUJs8V"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 248386,
-      "name": "Breakthru - Remastered 2011",
-      "url": "https://open.spotify.com/track/5Nuxdf0f5PpaeaPm4jrhiE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Innuendo (2011 Remaster)",
         "url": "https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC"
       },
@@ -483,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bohemian Rhapsody (The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 41454,
-      "name": "Ay-Oh - Live Aid",
-      "url": "https://open.spotify.com/track/6Fl9MoM9BDk6vwbHqBBZeK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen II (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/48MhNEYxMJvcBbqz85UTQP"
       },
@@ -511,6 +479,22 @@
       "duration_ms": 168973,
       "name": "Seven Seas Of Rhye - Remastered 2011",
       "url": "https://open.spotify.com/track/1IhLUUzMxDDJ9pzfT95exy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bohemian Rhapsody (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 41454,
+      "name": "Ay-Oh - Live Aid",
+      "url": "https://open.spotify.com/track/6Fl9MoM9BDk6vwbHqBBZeK"
     },
     {
       "added_at": null,
@@ -547,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Made In Heaven (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 289813,
+      "name": "I Was Born To Love You - 2011 Remaster",
+      "url": "https://open.spotify.com/track/7DtdhIJlSSOaAFNk4JdXCb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bohemian Rhapsody (The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
       },
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Innuendo (2011 Remaster)",
-        "url": "https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 393026,
-      "name": "Innuendo - Remastered 2011",
-      "url": "https://open.spotify.com/track/0BzhS74ByIVlyz8BedHaYi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 133813,
       "name": "Stone Cold Crazy - Remastered 2011",
       "url": "https://open.spotify.com/track/6d2UQWWWZj3k4BE6WcN4IT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Innuendo (2011 Remaster)",
+        "url": "https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 277773,
+      "name": "Headlong - Remastered 2011",
+      "url": "https://open.spotify.com/track/6goUTcMn0V30hWtKFIj6Kh"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Innuendo (2011 Remaster)",
-        "url": "https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 277773,
-      "name": "Headlong - Remastered 2011",
-      "url": "https://open.spotify.com/track/6goUTcMn0V30hWtKFIj6Kh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made In Heaven (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7"
       },
@@ -691,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 223920,
-      "name": "Death On Two Legs (Dedicated To...) - Remastered 2011",
-      "url": "https://open.spotify.com/track/2MvRMWU2ILRcFEU8WWbuP8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Kind Of Magic (2011 Remaster)",
         "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
       },
@@ -719,6 +687,22 @@
       "duration_ms": 311026,
       "name": "One Vision - Remastered 2011",
       "url": "https://open.spotify.com/track/3ROPrLWea9uICOW4V2Px1y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 223920,
+      "name": "Death On Two Legs (Dedicated To...) - Remastered 2011",
+      "url": "https://open.spotify.com/track/2MvRMWU2ILRcFEU8WWbuP8"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 206146,
       "name": "You And I - Remastered 2011",
       "url": "https://open.spotify.com/track/4QxuI0R23qSGf4nipuOV6h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Miracle (2011 Remaster)",
+        "url": "https://open.spotify.com/album/3h6SV9wHJtNL1YswZUJs8V"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "The Invisible Man - Remastered 2011",
+      "url": "https://open.spotify.com/track/6VoiY3rukFPoqzP4AoGPU8"
     },
     {
       "added_at": null,

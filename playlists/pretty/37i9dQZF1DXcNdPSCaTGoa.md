@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Celebrating 10 years of <a href="https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW?si=Mz0GoCLoQ7\-LwD95Qaea4A">AKA's</a> phenomenal "LEVELS".
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,047 likes - 60 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,102 likes - 60 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 30 | [Ingoma](https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 6:12 |
 | 31 | [Doo Be Doo](https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 5:11 |
 | 32 | [Shibobo / The Final Countdown](https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:51 |
-| 33 | [Ndawo Yami](https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:47 |
-| 34 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
+| 33 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
+| 34 | [Ndawo Yami](https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:47 |
 | 35 | [Free](https://open.spotify.com/track/45k24cRKkfkLoA6nslCwHG) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Legends](https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp) | 5:14 |
 | 36 | [Sana Luma \(Thats The Way Love Is\)](https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK) | 5:17 |
 | 37 | [Cooler as Ekke](https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Jack Parow](https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4) | 4:08 |

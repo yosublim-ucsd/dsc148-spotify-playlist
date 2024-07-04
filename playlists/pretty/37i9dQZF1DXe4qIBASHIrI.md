@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,367 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,450 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,13 +67,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 57 | [Dulce Mal](https://open.spotify.com/track/4bVaYbaxhHaxeCLGyERNfT) | [The Chamanas](https://open.spotify.com/artist/4QUnWR26plj0oHiQgRyhvk) | [Dulce Mal](https://open.spotify.com/album/7u7PYKzkFojFmGAj0JI37Y) | 4:02 |
 | 58 | [Mirando a las muchachas](https://open.spotify.com/track/00Z3s0Xw7oE3fgTSZVjEFs) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Méjico Máxico](https://open.spotify.com/album/70WPUwHcJq2pRObNPByUaV) | 4:35 |
 | 59 | [Berlín](https://open.spotify.com/track/4z55q1ocJQOiSwkFQAdUFO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:45 |
-| 60 | [Un Año Quebrado](https://open.spotify.com/track/5v6luZrMK75XQ8Kj64qklf) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Lejos\. No Tan Lejos](https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ) | 3:32 |
-| 61 | [Aló](https://open.spotify.com/track/1bBO92RtVTlJlfxuVaLek8) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Hola Chicuelos](https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf) | 4:04 |
+| 60 | [Aló](https://open.spotify.com/track/1bBO92RtVTlJlfxuVaLek8) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Hola Chicuelos](https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf) | 4:04 |
+| 61 | [Un Año Quebrado](https://open.spotify.com/track/5v6luZrMK75XQ8Kj64qklf) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Lejos\. No Tan Lejos](https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ) | 3:32 |
 | 62 | [Soun Tha Mi Primer Amor \- Mtv Unplugged \(En Vivo\)](https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Mtv Unplugged](https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8) | 3:50 |
 | 63 | [Azul](https://open.spotify.com/track/04BizsqpIiqNQALwvaPr5a) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [HU HU HU](https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf) | 6:33 |
 | 64 | [No Puedo Parar](https://open.spotify.com/track/7cgKezuhwPqno56de3WkZC) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB) | [No Puedo Parar](https://open.spotify.com/album/0rdaTkt5Qb4uZR6ESr408q) | 4:25 |
-| 65 | [Me Has Olvidado](https://open.spotify.com/track/4KgnL2H3Phfc3SvJn3Ph7G) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Lejos\. No Tan Lejos](https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ) | 4:08 |
-| 66 | [Carretera](https://open.spotify.com/track/7spTrcPpTSfBfuJnZxlrK3) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Bengala](https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA) | 4:19 |
+| 65 | [Carretera](https://open.spotify.com/track/7spTrcPpTSfBfuJnZxlrK3) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Bengala](https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA) | 4:19 |
+| 66 | [Me Has Olvidado](https://open.spotify.com/track/4KgnL2H3Phfc3SvJn3Ph7G) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Lejos\. No Tan Lejos](https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ) | 4:08 |
 | 67 | [Monitor](https://open.spotify.com/track/6w0ZRnaxlWcpHTpJW3K4Ma) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Monitor \(Slidepac\)](https://open.spotify.com/album/7ocVUPDtRB9Vna4d29DvMd) | 3:55 |
 | 68 | [Uno de Esos Días](https://open.spotify.com/track/14Tb6kzWxf8pLPgSJGWggi) | [Ventilader](https://open.spotify.com/artist/7kUKD63HDFP5otOSYEBz0p) | [No Es un Adiós](https://open.spotify.com/album/7l8QCiQTA97JflmEp8xYAn) | 3:11 |
 | 69 | [Go Twisters](https://open.spotify.com/track/2ZaGShFCTU1PptY61nLzoT) | [Disco Ruido](https://open.spotify.com/artist/6kfY9q7lPItE7Azxtzz3xH) | [Sistema Solar](https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi) | 5:13 |
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 72 | [El Ultimo](https://open.spotify.com/track/1LnHgQUu6IBqDLlXH4A3Vq) | [Los Odio!](https://open.spotify.com/artist/0tqpmKIKOBpH3PESt3W93v) | [Los Odio](https://open.spotify.com/album/4jnjFnZIJ7kHm2VIfQwQFC) | 3:35 |
 | 73 | [Fiesta Permanente](https://open.spotify.com/track/2IWmJTCkFBafsl702cwURa) | [Pau y Amigos](https://open.spotify.com/artist/46jXSb4Q3RLlT5M1nWCKMD) | [El Bar de Peter Pan](https://open.spotify.com/album/3uzJdTLK0NfNbkKnsusZII) | 4:40 |
 | 74 | [Cielo](https://open.spotify.com/track/0XfkTdunFLoBXvoq2TJ40o) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Salvaje](https://open.spotify.com/album/4lv6sqE4r1OScgwFWFI65E) | 4:23 |
-| 75 | [Sixteen](https://open.spotify.com/track/6aV7F6tMDe5f2ZZTGrtVXO) | [Los Super Elegantes](https://open.spotify.com/artist/6Aim4Lm9mDZd0W3F8XkF36) | [Los Super Elegantes Ep](https://open.spotify.com/album/0KV2EOtafNLgeBw7xDi0di) | 3:45 |
-| 76 | [Lo Que Puedes Dar](https://open.spotify.com/track/6UKas8a0cOxZjptZi26GWV) | [Los Fascinantes](https://open.spotify.com/artist/5uOmmoQtUqCtXiTGv2qpFQ) | [Lo Que Puedes Dar](https://open.spotify.com/album/2vhtpNGqAkUnfz8Jwg6JkV) | 2:52 |
-| 77 | [Miente](https://open.spotify.com/track/6EN1O6MTvo7QdSivuDy7pR) | [Los Marty](https://open.spotify.com/artist/5seqHZItOVyRw65m6CgiNx) | [Historias De Un Cowboy](https://open.spotify.com/album/3heymgUjbF6Z9o8CGKC8Kg) | 2:46 |
-| 78 | [No vuelvo más](https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 4:13 |
+| 75 | [Lo Que Puedes Dar](https://open.spotify.com/track/6UKas8a0cOxZjptZi26GWV) | [Los Fascinantes](https://open.spotify.com/artist/5uOmmoQtUqCtXiTGv2qpFQ) | [Lo Que Puedes Dar](https://open.spotify.com/album/2vhtpNGqAkUnfz8Jwg6JkV) | 2:52 |
+| 76 | [Sixteen](https://open.spotify.com/track/6aV7F6tMDe5f2ZZTGrtVXO) | [Los Super Elegantes](https://open.spotify.com/artist/6Aim4Lm9mDZd0W3F8XkF36) | [Los Super Elegantes Ep](https://open.spotify.com/album/0KV2EOtafNLgeBw7xDi0di) | 3:45 |
+| 77 | [No vuelvo más](https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 4:13 |
+| 78 | [Miente](https://open.spotify.com/track/6EN1O6MTvo7QdSivuDy7pR) | [Los Marty](https://open.spotify.com/artist/5seqHZItOVyRw65m6CgiNx) | [Historias De Un Cowboy](https://open.spotify.com/album/3heymgUjbF6Z9o8CGKC8Kg) | 2:46 |
 | 79 | [Dias Perfectos](https://open.spotify.com/track/4urHBS1qKGZ5b4TRDpsONJ) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [El Techo es el Suelo](https://open.spotify.com/album/203Q63gFcoKrppI1TcQee1) | 4:40 |
 | 80 | [Sentado Aquí](https://open.spotify.com/track/7w6hhryYUd8U75m4whPw5w) | [Canseco](https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5) | [Sentado Aquí](https://open.spotify.com/album/07RCNt8nAEOaetIOiuLvNp) | 4:20 |
 | 81 | [Berlin](https://open.spotify.com/track/0Lyn5aCdsCPyAncbsXQ9R2) | [Abominables](https://open.spotify.com/artist/6ElfvyeHfdy1g7lbshtn0f) | [Recuerdos del Futuro](https://open.spotify.com/album/4iuoEd83VdyP4fEjj5QtLe) | 3:24 |

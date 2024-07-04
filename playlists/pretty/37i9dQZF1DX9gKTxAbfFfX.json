@@ -1,6 +1,6 @@
 {
   "description": "Tu banda sonora de este verano. Foto: Karol G",
-  "num_followers": 728824,
+  "num_followers": 729114,
   "original_name": "Verano 2024",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,26 @@
     {
       "added_at": "2024-07-02 07:34:36",
       "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 240964,
+      "name": "Orion",
+      "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
+    },
+    {
+      "added_at": "2024-07-02 07:34:36",
+      "album": {
         "name": "Qui\u00e9n es Dei V?",
         "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
       },
@@ -627,26 +647,6 @@
     {
       "added_at": "2024-07-02 07:34:36",
       "album": {
-        "name": "Guay",
-        "url": "https://open.spotify.com/album/7DZzZGds5TtGakkQlGbfSl"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 210788,
-      "name": "Guay",
-      "url": "https://open.spotify.com/track/1S3SAFqLBWk3HaR5UyXp43"
-    },
-    {
-      "added_at": "2024-07-02 07:34:36",
-      "album": {
         "name": "LA VIDA ES UNA",
         "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
       },
@@ -663,22 +663,22 @@
     {
       "added_at": "2024-07-02 07:34:36",
       "album": {
-        "name": "Orion",
-        "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
+        "name": "Guay",
+        "url": "https://open.spotify.com/album/7DZzZGds5TtGakkQlGbfSl"
       },
       "artists": [
         {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
         }
       ],
-      "duration_ms": 240964,
-      "name": "Orion",
-      "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
+      "duration_ms": 210788,
+      "name": "Guay",
+      "url": "https://open.spotify.com/track/1S3SAFqLBWk3HaR5UyXp43"
     },
     {
       "added_at": "2024-07-02 07:34:36",
@@ -859,26 +859,22 @@
     {
       "added_at": "2024-07-02 07:34:36",
       "album": {
-        "name": "DESATAAA",
-        "url": "https://open.spotify.com/album/7Ja7q53ewWXSOGM9MSmted"
+        "name": "COMUNA 3",
+        "url": "https://open.spotify.com/album/3RxNHAxKiItFU1qbAI3T2B"
       },
       "artists": [
         {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2Og0ncAuCVTlSTzBfIZv0h"
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
         }
       ],
-      "duration_ms": 197383,
-      "name": "DESATAAA",
-      "url": "https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe"
+      "duration_ms": 154128,
+      "name": "COMUNA 3",
+      "url": "https://open.spotify.com/track/7B8FKzh1mzjPp9GxjED0MT"
     },
     {
       "added_at": "2024-07-02 07:34:36",
@@ -903,6 +899,30 @@
     {
       "added_at": "2024-07-02 07:34:36",
       "album": {
+        "name": "DESATAAA",
+        "url": "https://open.spotify.com/album/7Ja7q53ewWXSOGM9MSmted"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2Og0ncAuCVTlSTzBfIZv0h"
+        }
+      ],
+      "duration_ms": 197383,
+      "name": "DESATAAA",
+      "url": "https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe"
+    },
+    {
+      "added_at": "2024-07-02 07:34:36",
+      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
-    },
-    {
-      "added_at": "2024-07-02 07:34:36",
-      "album": {
-        "name": "COMUNA 3",
-        "url": "https://open.spotify.com/album/3RxNHAxKiItFU1qbAI3T2B"
-      },
-      "artists": [
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        },
-        {
-          "name": "The Rudeboyz",
-          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
-        }
-      ],
-      "duration_ms": 154128,
-      "name": "COMUNA 3",
-      "url": "https://open.spotify.com/track/7B8FKzh1mzjPp9GxjED0MT"
     },
     {
       "added_at": "2024-07-02 07:34:36",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-07-02 07:34:36",
       "album": {
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "added_at": "2024-07-02 07:34:36",
+      "album": {
         "name": "MANIFESTING 20-05",
         "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 229738,
       "name": "LA RANGER (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/6m5pxtjGX5rEzvGS1SUTVt"
-    },
-    {
-      "added_at": "2024-07-02 07:34:36",
-      "album": {
-        "name": "Ohnana",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "Ohnana",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
       "added_at": "2024-07-02 07:34:36",

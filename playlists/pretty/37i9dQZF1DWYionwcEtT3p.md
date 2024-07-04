@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYionwcEtT3p.md) - [plain]
 
 > Hip hop hits, version dancefloor !
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,655 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,668 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYionwcEtT3p.md) - [plain]
 | 7 | [Ni\*\*as In Paris](https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne](https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS) | 3:39 |
 | 8 | [Low \(feat\. T\-Pain\)](https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Mail on Sunday](https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle) | 3:51 |
 | 9 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
-| 10 | [Hypnotize \- 2014 Remaster](https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 3:49 |
-| 11 | [California Love \- Original Version](https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:44 |
+| 10 | [California Love \- Original Version](https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:44 |
+| 11 | [Hypnotize \- 2014 Remaster](https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 3:49 |
 | 12 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 |
 | 13 | [LOYALTY\. FEAT\. RIHANNA.](https://open.spotify.com/track/6SwRhMLwNqEi6alNPVG00n) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:47 |
 | 14 | [Dior](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:36 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYionwcEtT3p.md) - [plain]
 | 30 | [Wake Up in the Sky](https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Wake Up in the Sky](https://open.spotify.com/album/7mkyc2BUahNfo0orKzqNGB) | 3:24 |
 | 31 | [In My Feelings](https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:37 |
 | 32 | [Think U The Shit \(Fart\)](https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Shit \(Fart\)](https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO) | 2:21 |
-| 33 | [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 |
-| 34 | [U Can't Touch This](https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu) | [MC Hammer](https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW) | [Please Hammer Don't Hurt 'Em](https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN) | 4:17 |
+| 33 | [U Can't Touch This](https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu) | [MC Hammer](https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW) | [Please Hammer Don't Hurt 'Em](https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN) | 4:17 |
+| 34 | [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 |
 | 35 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 |
 | 36 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
 | 37 | [OKAY](https://open.spotify.com/track/0e1KTuawmiFLiK0Lh3nNtM) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [OKAY](https://open.spotify.com/album/7AmtY0qyLuqkGXYu7lOLjL) | 2:44 |

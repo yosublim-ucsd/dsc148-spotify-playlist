@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,290 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,455 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 55 | [Iceblink Luck](https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:18 |
 | 56 | [Sour Girl](https://open.spotify.com/track/6wNwHBUjsessjRioNVFbaO) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [No\. 4](https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV) | 4:16 |
 | 57 | [The Way We Get By](https://open.spotify.com/track/2k6TManBkFAweRUCH6jYny) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Kill the Moonlight](https://open.spotify.com/album/519PD4UWRalte2kjiiPY8i) | 2:39 |
-| 58 | [Can't Hardly Wait \- 2008 Remaster](https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Pleased to Meet Me \(Expanded\)](https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv) | 3:08 |
+| 58 | [She Don't Use Jelly](https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Transmissions From the Satellite Heart](https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw) | 3:42 |
 | 59 | [Son Of Sam](https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:04 |
-| 60 | [She Don't Use Jelly](https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Transmissions From the Satellite Heart](https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw) | 3:42 |
+| 60 | [Can't Hardly Wait \- 2008 Remaster](https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Pleased to Meet Me \(Expanded\)](https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv) | 3:08 |
 | 61 | [Disarm \- 2011 Remaster](https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 3:16 |
 | 62 | [Get It Together](https://open.spotify.com/track/6aaPceG6TnixvAZQ1wBMdp) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 4:05 |
 | 63 | [Nearly Lost You](https://open.spotify.com/track/7qzFXUvBk7lELXuxVREypV) | [Screaming Trees](https://open.spotify.com/artist/3Ukr3Ufjg8ygRJv7Ww887f) | [Sweet Oblivion](https://open.spotify.com/album/3SOcm48I0DOX1KEHF2IEVY) | 4:07 |
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 82 | [Banditos](https://open.spotify.com/track/466QMr5bVL5dEjtGxgaXyC) | [The Refreshments](https://open.spotify.com/artist/5Fhey8VIfTavg9F99QlipO) | [Fizzy Fuzzy Big & Buzzy](https://open.spotify.com/album/2BAANDNiY6WvmSMVEKpjOV) | 4:17 |
 | 83 | [Galileo](https://open.spotify.com/track/1Q0DVZhtZJZs9t45b8zNSD) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Rites Of Passage \(Expanded Edition\)](https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po) | 4:12 |
 | 84 | [Cure for Pain](https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Cure for Pain](https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6) | 3:14 |
-| 85 | [Sometimes Always](https://open.spotify.com/track/16vuZiAS0YQkQvAkRtI2d3) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Stoned and Dethroned \(Expanded Version\)](https://open.spotify.com/album/6ufoOtpwsgx0wpbQBQOH7H) | 2:31 |
-| 86 | [Random Rules](https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS) | [Silver Jews](https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z) | [American Water](https://open.spotify.com/album/2GbNeQEg5fLtuxjr5nlIpc) | 3:58 |
+| 85 | [Random Rules](https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS) | [Silver Jews](https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z) | [American Water](https://open.spotify.com/album/2GbNeQEg5fLtuxjr5nlIpc) | 3:58 |
+| 86 | [Sometimes Always](https://open.spotify.com/track/16vuZiAS0YQkQvAkRtI2d3) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Stoned and Dethroned \(Expanded Version\)](https://open.spotify.com/album/6ufoOtpwsgx0wpbQBQOH7H) | 2:31 |
 | 87 | [Sandusky](https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 3:43 |
-| 88 | [Son Of A Gun](https://open.spotify.com/track/7FQcCVNK4AttPgYjQbetL8) | [The Vaselines](https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW) | [Enter The Vaselines \(Deluxe Edition\)](https://open.spotify.com/album/630p98oUEIBRflGJRRInCt) | 3:45 |
-| 89 | [Movin' on Up](https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 3:50 |
+| 88 | [Movin' on Up](https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 3:50 |
+| 89 | [Son Of A Gun](https://open.spotify.com/track/7FQcCVNK4AttPgYjQbetL8) | [The Vaselines](https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW) | [Enter The Vaselines \(Deluxe Edition\)](https://open.spotify.com/album/630p98oUEIBRflGJRRInCt) | 3:45 |
 | 90 | [Sugar Kane](https://open.spotify.com/track/6q03mlzKsM1m3TLpi6T6Cw) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Dirty](https://open.spotify.com/album/05Zo2yt4reflRVNXFOYxDD) | 5:57 |
 | 91 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
 | 92 | [Supernova](https://open.spotify.com/track/0xQ8FPMnv2mG9VhTgpxn2R) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Whip\-Smart](https://open.spotify.com/album/7b2JNONmqJRtIKTofRdcFp) | 2:48 |

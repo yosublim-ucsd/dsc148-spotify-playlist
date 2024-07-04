@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 ### [This Is League of Legends](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pb4Ji)
 
-> This is League of Legends\. The essential tracks, all in one playlist.
+> This is League of Legends。アーティストの代表曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,859 likes - 51 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,881 likes - 51 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 50 | [I'll Find a Way](https://open.spotify.com/track/3fYMVtfD6mbDSNREPAl1pq) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [Echoes of Light](https://open.spotify.com/album/4BI0o8MQXotNlNIzQl5fGC) | 3:25 |
 | 51 | [Seraphine, the Starry\-Eyed Songstress](https://open.spotify.com/track/29kJz9cOUnTVOKwQWbQCsh) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Seraphine](https://open.spotify.com/artist/4TqlcgMFDryY96KWcvrhTv), [Jasmine Clarke](https://open.spotify.com/artist/35OHoy0DGJRqpfmYvByDBc) | [Seraphine, the Starry\-Eyed Songstress](https://open.spotify.com/album/4C4R2RGv446YfoWhIz3i8O) | 4:37 |
 
-Snapshot ID: `ZoHxgAAAAAARk9Oi9/32sHBdaOXqrVCE`
+Snapshot ID: `ZoNDAAAAAADq4uiwSXjWvYP451L0ObH+`

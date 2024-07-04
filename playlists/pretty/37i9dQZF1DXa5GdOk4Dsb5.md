@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,787 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,816 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 6 | [200 COPAS](https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:37 |
 | 7 | [Un Millón de Primaveras](https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:53 |
 | 8 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 4:15 |
-| 9 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 |
+| 9 | [Tatuajes](https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Mariachi](https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M) | 3:31 |
 | 10 | [Asi Soy Yo \- Remix](https://open.spotify.com/track/2lCWraVKfxzcazOS9mxu5T) | [Alexis Cortés](https://open.spotify.com/artist/74F14UgJDPL2FCVmQE8Ycj), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Asi Soy Yo \(Remix\)](https://open.spotify.com/album/70WHsIuGd7gv2HcD34hezS) | 2:55 |
 | 11 | [De Los Besos Que Te Di](https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:47 |
 | 12 | [Me Pase de Tragos](https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf) | [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98) | [Me Pase de Tragos](https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn) | 2:58 |
-| 13 | [Tatuajes](https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Mariachi](https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M) | 3:31 |
+| 13 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 |
 | 14 | [¿Por Qué Me Haces Llorar?](https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel](https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT) | 3:02 |
 | 15 | [Un Poco de Amor](https://open.spotify.com/track/2G5Qo1oIz1FbDV6FeFIHQ4) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Un Poco de Amor](https://open.spotify.com/album/3G5nEXnC2PE17Qf3gXG83O) | 2:51 |
 | 16 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 76 | [Borracho Te Llamo](https://open.spotify.com/track/0QTy8NYyHUheegmH0ndfMK) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Borracho Te Llamo](https://open.spotify.com/album/0lg5oGuuZvNc9brVmqI64C) | 2:28 |
 | 77 | [De Pura Rabia](https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [De Pura Rabia](https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX) | 3:07 |
 | 78 | [Que Sea](https://open.spotify.com/track/3LBnikk8IS3TSBbVUn86eA) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Atemporal](https://open.spotify.com/album/69opE4juUkLG8qTWNKB6Cv) | 2:49 |
-| 79 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
-| 80 | [No Me Deja De Doler](https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [No Me Deja De Doler](https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ) | 2:37 |
+| 79 | [No Me Deja De Doler](https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [No Me Deja De Doler](https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ) | 2:37 |
+| 80 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
 | 81 | [Volviste Tarde](https://open.spotify.com/track/1N0DeNbKI2PjESx1xUIvbM) | [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Volviste Tarde](https://open.spotify.com/album/5PmEyL1R6hETTJERszjbFe) | 4:19 |
 | 82 | [Te Quedaste Casi A Nada \(En Vivo\)](https://open.spotify.com/track/5S7aouHg7cUJf97oxMZzLk) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Yakifest Vol\. 4 \(En Vivo\)](https://open.spotify.com/album/5drr9SdjGfNOaaoEyagULD) | 2:25 |
 | 83 | [Me Caí de la Nube](https://open.spotify.com/track/0mfb8sbASYjzvo2FDopyzl) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [Me Cai De La Nube](https://open.spotify.com/album/1L2kAZeGLcTnNuv4IVE5Tm) | 2:55 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 95 | [Que Te Lo Crea Tu Madre](https://open.spotify.com/track/1FEH4cNvTNkBO5tM4mMyag) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse para Ti](https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv) | 3:20 |
 | 96 | [Te Parece Poco](https://open.spotify.com/track/3nARaHTIpxGyqfvDuRvzui) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Pipe Bueno](https://open.spotify.com/album/6UXWX4wfVveTCal4MwxCEk) | 4:06 |
 | 97 | [Entre Comillas](https://open.spotify.com/track/6HhOgGZWmN5DqqsdJGfhUK) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Rey del Despecho \- Internacional](https://open.spotify.com/album/6MbEqKty9qMnsBtiklzbtR) | 3:10 |
-| 98 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/1fLmabFCw5UpyjgbWVCxo4) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [¿Dónde Estabas Tú?](https://open.spotify.com/album/2nOlcZVussuCXAI2nKHXXk) | 2:44 |
+| 98 | [Usted No Me Olvida](https://open.spotify.com/track/6adK8xCmHfwko5N1FEDqoT) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Usted No Me Olvida](https://open.spotify.com/album/3hwujUBUE4JRL4E7SXoJPY) | 3:13 |
 | 99 | [Tu \- Live](https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 4:06 |
-| 100 | [Usted No Me Olvida](https://open.spotify.com/track/6adK8xCmHfwko5N1FEDqoT) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Usted No Me Olvida](https://open.spotify.com/album/3hwujUBUE4JRL4E7SXoJPY) | 3:13 |
+| 100 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/1fLmabFCw5UpyjgbWVCxo4) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [¿Dónde Estabas Tú?](https://open.spotify.com/album/2nOlcZVussuCXAI2nKHXXk) | 2:44 |
 
 Snapshot ID: `ZIxbkQAAAAA7ieRLdePXPXePUFddCRYR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 
 > This is Los Rieleros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,272 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,291 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 23 | [Golondrina Viajera](https://open.spotify.com/track/43p1EAcsehfb4eT6oSWhJs) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Invencible](https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB) | 3:38 |
 | 24 | [Es por Eso Que Te Quiero](https://open.spotify.com/track/2tbICfpEZEsBewG3hW2sCq) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Con Eso o Más](https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3) | 3:07 |
 | 25 | [Para Qué Quieres Que Vuelva](https://open.spotify.com/track/27WMmlAzzcQzj0IPrcXX4O) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Clásicos](https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y) | 3:22 |
-| 26 | [Desde la Otra Mesa](https://open.spotify.com/track/69Bh0aSF1LS2C7c0OyCKiI) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [En Tus Manos](https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD) | 2:57 |
-| 27 | [Renunciacion](https://open.spotify.com/track/3040vDurd9VfDGb4gvj6JT) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Historicos, Vol\. 2](https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV) | 3:11 |
+| 26 | [Renunciacion](https://open.spotify.com/track/3040vDurd9VfDGb4gvj6JT) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Historicos, Vol\. 2](https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV) | 3:11 |
+| 27 | [Desde la Otra Mesa](https://open.spotify.com/track/69Bh0aSF1LS2C7c0OyCKiI) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [En Tus Manos](https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD) | 2:57 |
 | 28 | [El Golpe Traidor](https://open.spotify.com/track/3Dw29YgE0kNvEBDX1WGTpX) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Las Clasicas del Ayer, Vol\. 1](https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17) | 2:34 |
 | 29 | [Abrazado De Un Poste](https://open.spotify.com/track/2OERX7ib8Yu6YYPnngeldn) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Lo Más Escuchado De](https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk) | 2:29 |
 | 30 | [Una Mujer Como Tú](https://open.spotify.com/track/62zSWES4N5m1tr7ovTMWf3) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Entrega De Amor](https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 49 | [Mi Primer Amor \(Meu Primeiro Amor\)](https://open.spotify.com/track/4MBykXKFPYkAmsZhe2kYDo) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Siempre Imitado, Jamas Igualado](https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5) | 3:28 |
 | 50 | [Al Ver Que Te Vas](https://open.spotify.com/track/0DRAf1NW1dBCMJOq5r0RKV) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Clásicos](https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y) | 3:28 |
 
-Snapshot ID: `ZoHxgAAAAADS4zsEfykuaY30xYsQrGpm`
+Snapshot ID: `ZoNDAAAAAADdB1NmiDAB9U4M0BMiK/A+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 
 > The sounds of LGBTQ+ punk\. Cover: Bikini Kill
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,875 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,910 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 43 | [They / Them](https://open.spotify.com/track/1PuQlpFUY6GzQRfQuEQbPs) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [They / Them](https://open.spotify.com/album/32HrqcUhi9BlA5Y8bUcCZH) | 2:17 |
 | 44 | [This Is What We Look Like](https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q) | [Personal Best](https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64) | [Arnos Vale](https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5) | 3:43 |
 | 45 | [What You Do for Love](https://open.spotify.com/track/0im1MaGNLes5Qo04udeQsD) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [What You Do for Love](https://open.spotify.com/album/1Kze0IOJ5pCx2wsywkevwr) | 3:20 |
-| 46 | [Save the Planet, You Dumb Shit](https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o) | [Joe & The Shitboys](https://open.spotify.com/artist/1LQe0AlqV1e2GD3Ry1UFTg) | [The Reson For Hardcore Vibes Again](https://open.spotify.com/album/2ulPQaaJiq1rK6YK86wPsI) | 0:55 |
-| 47 | [SuperNatural Possession](https://open.spotify.com/track/5NjfRU0JaR3TjNGU2kOubc) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/2f9isupAl4hlTTYbst9bFh) | 2:04 |
+| 46 | [SuperNatural Possession](https://open.spotify.com/track/5NjfRU0JaR3TjNGU2kOubc) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/2f9isupAl4hlTTYbst9bFh) | 2:04 |
+| 47 | [Save the Planet, You Dumb Shit](https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o) | [Joe & The Shitboys](https://open.spotify.com/artist/1LQe0AlqV1e2GD3Ry1UFTg) | [The Reson For Hardcore Vibes Again](https://open.spotify.com/album/2ulPQaaJiq1rK6YK86wPsI) | 0:55 |
 | 48 | [Trophy Wifey](https://open.spotify.com/track/2sElL4pdDB9HReW1dCp6hH) | [Partyline](https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA) | [Zombie Terrorist](https://open.spotify.com/album/1b8585sIYVvPbWpdW7Vms3) | 2:07 |
 | 49 | [Total 90](https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [Total 90](https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj) | 2:43 |
 | 50 | [Down](https://open.spotify.com/track/2siNyitsnycrIp7aqUTgQp) | [Thelma and the Sleaze](https://open.spotify.com/artist/03VfdeLg04zHr8nmQ2rQ57) | [Fuck, Marry, Kill](https://open.spotify.com/album/7f81vcqMiOQYo2p1L2qEQT) | 4:12 |

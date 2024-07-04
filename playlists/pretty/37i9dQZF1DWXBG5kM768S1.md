@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,803 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,814 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 44 | [Stille Vann](https://open.spotify.com/track/6EbPwM0nNa6T3Hy1pDBvl0) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 3:01 |
 | 45 | [Club 7](https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Club 7](https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw) | 4:20 |
 | 46 | [Bror](https://open.spotify.com/track/1vnOWt0MAEkZGCOzD2snSA) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Bror](https://open.spotify.com/album/2hGjZ58iJaDiV8EAX2oxsI) | 3:14 |
-| 47 | [Annen som du](https://open.spotify.com/track/4DMSneArB5W5BTAz8A2ij4) | [Trang Fødsel](https://open.spotify.com/artist/3pOEfaqokP940PuLUoho3l) | [Annen som du](https://open.spotify.com/album/1WxHEl0KfSA2h25BcoNFGS) | 3:37 |
-| 48 | [Aldri i livet](https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Aldri i livet](https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r) | 3:08 |
+| 47 | [Aldri i livet](https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Aldri i livet](https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r) | 3:08 |
+| 48 | [Annen som du](https://open.spotify.com/track/4DMSneArB5W5BTAz8A2ij4) | [Trang Fødsel](https://open.spotify.com/artist/3pOEfaqokP940PuLUoho3l) | [Annen som du](https://open.spotify.com/album/1WxHEl0KfSA2h25BcoNFGS) | 3:37 |
 | 49 | [Mi Pia\. Din Gutt.](https://open.spotify.com/track/1jdOvBR6D91doFRheJ3SfF) | [Ola Bremnes](https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E) | [Livstegn](https://open.spotify.com/album/1wXz7GJWTvjQpn9CliOvcb) | 2:18 |
 | 50 | [Så fullt av ja](https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [3 sanger](https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s) | 4:41 |
 

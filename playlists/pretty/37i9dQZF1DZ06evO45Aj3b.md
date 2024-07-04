@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 
 > This is Dominic Fike\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,713 likes - 35 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,812 likes - 34 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
-| 2 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 |
+| 1 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 |
+| 2 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 3 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 |
 | 4 | [Mama's Boy](https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:35 |
-| 5 | [3 Nights](https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 2:57 |
-| 6 | [Why](https://open.spotify.com/track/1xLs8Mu1QEVbGCpyHQ2r2U) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:19 |
+| 5 | [Why](https://open.spotify.com/track/1xLs8Mu1QEVbGCpyHQ2r2U) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:19 |
+| 6 | [3 Nights](https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 2:57 |
 | 7 | [coast2coast](https://open.spotify.com/track/4AmwnuAtTh4aK0GqPiwzJA) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:05 |
 | 8 | [How Much Is Weed?](https://open.spotify.com/track/44KWbTVZev3SWdv1t5UoYE) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:05 |
-| 9 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 |
-| 10 | [Superstar Sh\*t](https://open.spotify.com/track/20j7l6tFtc5lynXpbOQg1O) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:07 |
+| 9 | [Superstar Sh\*t](https://open.spotify.com/track/20j7l6tFtc5lynXpbOQg1O) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:07 |
+| 10 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 |
 | 11 | [hi grace](https://open.spotify.com/track/0zikWa6k06uycAkRB8CsXA) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 2:41 |
 | 12 | [Frisky](https://open.spotify.com/track/3my33XXLpYUzVEeLOyftV2) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 1:55 |
 | 13 | [Westcoast Collective](https://open.spotify.com/track/7rNun2AyLu4u4rQpRt0iS9) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:47 |
@@ -42,6 +42,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 | 32 | [Açaí Bowl](https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Açaí Bowl](https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D) | 2:57 |
 | 33 | [10x Stronger](https://open.spotify.com/track/3xLU29XDzxUllbDjLumKf7) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 1:15 |
 | 34 | [Hey Blondie](https://open.spotify.com/track/0hABacr1yTSleOlPKpIWBb) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:21 |
-| 35 | [Dominic’s Interlude](https://open.spotify.com/track/2sOOXgEGB7nhKO8mmc1GhI) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 1:16 |
 
-Snapshot ID: `ZoHxgAAAAADL0gZsg6l66KgNTs/463JB`
+Snapshot ID: `ZoNDAAAAAADMa3E8qXNzpNzJqldnhsMM`

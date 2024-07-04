@@ -3888,7 +3888,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 187853,
       "name": "Blue Heart",
       "url": "https://open.spotify.com/track/00wTgWOnpWPlTvFsAkZBme"
@@ -8158,7 +8158,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -8978,7 +8978,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 157974,
       "name": "Feel It - From The Original Series \u201cInvincible\u201d",
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
@@ -9336,6 +9336,24 @@
       "duration_ms": 114742,
       "name": "Fool",
       "url": "https://open.spotify.com/track/6XinuBuwXvA55cWSbaCa0t"
+    },
+    {
+      "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/0OY9cZ5lO1htGmLYC4eX4B"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212734,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ"
     },
     {
       "album": {
@@ -14286,7 +14304,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
@@ -21668,7 +21686,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 145622,
       "name": "Sacrifice Tomorrow",
       "url": "https://open.spotify.com/track/5H4y5thHDJUAxwiclrSXc1"
@@ -27067,6 +27085,28 @@
     },
     {
       "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188828,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
+    },
+    {
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h"
       },
@@ -27668,7 +27708,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -27964,7 +28004,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 281946,
       "name": "Video Games",
       "url": "https://open.spotify.com/track/1GNIYBU1XhMSlAxJXiUBbC"

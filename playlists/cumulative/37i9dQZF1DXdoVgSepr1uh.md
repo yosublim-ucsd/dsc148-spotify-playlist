@@ -4,7 +4,7 @@
 
 > Perreo hecho en Argentina\. Foto: Salastkbron.
 
-247 songs - 11 hr 46 min
+248 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Demoniaca](https://open.spotify.com/track/6gy9Yq41AuEnRO6xGWg08M) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Demoniaca](https://open.spotify.com/album/5NvVz9LHHLlweQN4TX6Dc0) | 2:20 | 2023-12-08 | 2024-02-24 |
 | [Deseo](https://open.spotify.com/track/3m5GNXrG2lD855oNa1WiYw) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Tomm](https://open.spotify.com/artist/6E8xEoc2l0qAsP3uHKD2JP) | [Deseo](https://open.spotify.com/album/3SEImr1IJWKC5ZQC4Bz0OG) | 3:56 | 2023-06-23 |  |
 | [Dime Dónde](https://open.spotify.com/track/4cvNRoECGS2sUiw5Q5RRsb) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Dime Dónde](https://open.spotify.com/album/2dAGcCM4RdkYzQXih5gg7c) | 3:00 | 2022-05-24 |  |
+| [Dimelo Mami](https://open.spotify.com/track/1MCArCVJUgBUrBnzUoZqmq) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [444](https://open.spotify.com/album/6xKpzZVah8P8ybxXDOG4Ad) | 2:34 | 2024-07-03 |  |
 | [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 | 2022-08-26 | 2023-04-01 |
 | [Diva](https://open.spotify.com/track/41eAvRCwPknwqqvyRMlERi) | [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Diva](https://open.spotify.com/album/4QGwO4AJO6wuttPXDPOgaI) | 3:06 | 2022-05-24 | 2023-03-03 |
 | [DONDE SEA](https://open.spotify.com/track/7gKMsitQAQRu0xmr4weDlb) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE) | [DONDE SEA](https://open.spotify.com/album/6fX3aAR6VgAmRKPCTlheG6) | 2:38 | 2022-05-24 | 2022-12-07 |
@@ -93,7 +94,7 @@
 | [GABBANA](https://open.spotify.com/track/2wxduF3ZwN5adsNjqfcysB) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [GABBANA](https://open.spotify.com/album/11CEP18aU8lXxZbQEv3wsF) | 2:51 | 2022-05-24 |  |
 | [GABO EL CHAMAQUITO \| TURBULENCIA 5 \| UN VIAJE](https://open.spotify.com/track/3xTLLPiK9glyehWMs3IA2V) | [Mateo Ribak](https://open.spotify.com/artist/0fBXgmsLCNrvrNbVgtuokv), [Gabo El Chamaquito](https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU) | [GABO EL CHAMAQUITO \| TURBULENCIA 5 \| UN VIAJE](https://open.spotify.com/album/6iVB9OKZB5otCVrgoaJick) | 2:38 | 2024-02-23 |  |
 | [Ganado](https://open.spotify.com/track/0BeZa24dBOLWkZMLKc5lTz) | [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi) | [Ganado](https://open.spotify.com/album/6UriVSnfc57grPiDYrSriF) | 2:50 | 2023-12-08 |  |
-| [Gatas](https://open.spotify.com/track/4Z6ucGPXIzZZTN70Q7KQM0) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Gatas](https://open.spotify.com/album/31dhzIDFoaVAwcN3bBwgNA) | 2:12 | 2022-05-24 |  |
+| [Gatas](https://open.spotify.com/track/4Z6ucGPXIzZZTN70Q7KQM0) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Gatas](https://open.spotify.com/album/31dhzIDFoaVAwcN3bBwgNA) | 2:12 | 2022-05-24 | 2024-07-04 |
 | [Goodbye](https://open.spotify.com/track/3gVnDk9My0gZJfeMsVMH64) | [Lula RKT](https://open.spotify.com/artist/2SeUrRGDqeVT9mFwcmK96g) | [Goodbye](https://open.spotify.com/album/3JjXYcOLYr3TzwWkXpmdcd) | 2:38 | 2022-05-24 | 2022-08-06 |
 | [Hace Rato](https://open.spotify.com/track/7qIQjokKz9tSxKoYRtv5Md) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Animal](https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP) | 3:13 | 2022-05-24 |  |
 | [Hace Rato](https://open.spotify.com/track/5MLM8Bnonrc3HlZ7OBU09C) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Hace Rato](https://open.spotify.com/album/4hf7pMuHc0qnA5mWpten3n) | 3:42 | 2022-05-24 | 2022-07-29 |

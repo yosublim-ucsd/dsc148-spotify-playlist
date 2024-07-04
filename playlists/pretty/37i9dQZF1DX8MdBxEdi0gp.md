@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,405 likes - 150 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,439 likes - 150 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,9 +105,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 95 | [Flor de Azalea](https://open.spotify.com/track/7EccAiD4tFrEx5gEmKGS55) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Coleccion Original](https://open.spotify.com/album/28wthJnyrnWWG8UkwJ2LiK) | 3:06 |
 | 96 | [Este Terco Corazon](https://open.spotify.com/track/3hTws9UVZRfM3xBx088KKe) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 3:39 |
 | 97 | [No Llores](https://open.spotify.com/track/5hBkk52TBXZc4buUa7zYIt) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 2:42 |
-| 98 | [¡Oh! Carol](https://open.spotify.com/track/0kdio5dhabYhLtzK1H5srr) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Las 5 mejores](https://open.spotify.com/album/2EJAzMWleSFIeRfi6CuPlf) | 2:19 |
+| 98 | [Como Me Gusta Quererte](https://open.spotify.com/track/1HZ95xv94RiBl0hwjs4EpY) | [Los Bondadosos](https://open.spotify.com/artist/0YUKqx7Lwb3synsaME2kQE) | [17 Super Exitos](https://open.spotify.com/album/4T3cjmsFQWzFkJaeDU2IUu) | 3:26 |
 | 99 | [Castillos en el aire](https://open.spotify.com/track/39tN3TRbpPvm4rqdMn7hZ9) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [Castillos en el aire](https://open.spotify.com/album/3gQtNYk66VQ8DEMG0mGRxw) | 3:18 |
-| 100 | [Como Me Gusta Quererte](https://open.spotify.com/track/1HZ95xv94RiBl0hwjs4EpY) | [Los Bondadosos](https://open.spotify.com/artist/0YUKqx7Lwb3synsaME2kQE) | [17 Super Exitos](https://open.spotify.com/album/4T3cjmsFQWzFkJaeDU2IUu) | 3:26 |
+| 100 | [¡Oh! Carol](https://open.spotify.com/track/0kdio5dhabYhLtzK1H5srr) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Las 5 mejores](https://open.spotify.com/album/2EJAzMWleSFIeRfi6CuPlf) | 2:19 |
 | 101 | [Lo Que Te Queda](https://open.spotify.com/track/4SrOqEKxfldAFrV37aF1pQ) | [Los Pulpos](https://open.spotify.com/artist/3cfF0Dzyws8BcRvDRsNd5N) | [La Música Que Inspiró La Serie Original De Netflix, La Casa De Las Flores \(Creada Por Manolo Caro\)](https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH) | 3:01 |
 | 102 | [Por Que Nos Dijimos Adios](https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Mano A Mano Volumen 1](https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK) | 3:10 |
 | 103 | [Abrázame](https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [Rocio Banquells](https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz) | 4:11 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 113 | [Amor En El Aire](https://open.spotify.com/track/4SpymdQGOUzDEsOGSlwDR0) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Una Vida De Cine](https://open.spotify.com/album/6FkZm0HYNuPm4eEhLKVZ6r) | 2:15 |
 | 114 | [Quinto patio](https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl) | [Emilio Tuero](https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD) | [Antología..\. Emilio Tuero](https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g) | 2:55 |
 | 115 | [El Reencuentro](https://open.spotify.com/track/53Af346CFsAjqvluCJud6T) | [Sonia Rivas](https://open.spotify.com/artist/4FM1uFX0QdPKmhdEeslh1K), [YOSHIO](https://open.spotify.com/artist/1RoOZqC7GYHlUG3FTFFx7Q) | [Tesoros De Coleccion \- Sonia Rivas](https://open.spotify.com/album/4ebWPRUoVQztHYZWmbqMN0) | 3:38 |
-| 116 | [En Mi Viejo San Juan](https://open.spotify.com/track/4r7TBJamYMddI4OfJJFbkj) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Serie Coleccion 15 Autenticos Exitos](https://open.spotify.com/album/2Lo23n1S3pOdT99UJgveNf) | 2:54 |
-| 117 | [Prisionero Del Mar](https://open.spotify.com/track/3KSqeds9xE8rBDt4QEjrLk) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines: Bolero Romantico](https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S) | 3:03 |
+| 116 | [Prisionero Del Mar](https://open.spotify.com/track/3KSqeds9xE8rBDt4QEjrLk) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines: Bolero Romantico](https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S) | 3:03 |
+| 117 | [En Mi Viejo San Juan](https://open.spotify.com/track/4r7TBJamYMddI4OfJJFbkj) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Serie Coleccion 15 Autenticos Exitos](https://open.spotify.com/album/2Lo23n1S3pOdT99UJgveNf) | 2:54 |
 | 118 | [Déjenme llorar](https://open.spotify.com/track/1F1ZP4NEEL7ikqwqBftdIJ) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Peerless 80 Aniversario \- 24 Inolvidables](https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh) | 2:38 |
 | 119 | [Total](https://open.spotify.com/track/32vg03zWdgSxMiNj6Xzm5I) | [Vikki Carr](https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD) | [Canciones De Amor](https://open.spotify.com/album/2Dm2IPZzeLrOXJEZjGTBM8) | 3:29 |
 | 120 | [Estoy Soñando \- Spanish Version](https://open.spotify.com/track/4fK0R7wwuSzAz8fhp3JwMU) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Gracias Por La Musica \(Deluxe Edition\)](https://open.spotify.com/album/1ZVourNSOich8buZk5ILdZ) | 4:38 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 136 | [Como Es Grande Mi Amor](https://open.spotify.com/track/0fQOD1NLSUtNiJ6DONA4qW) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 1](https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH) | 3:23 |
 | 137 | [El Muchacho de los Ojos Tristes](https://open.spotify.com/track/3DWkS3HT9Z0kE4z1tMGxaJ) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [15 Canciones Favoritas](https://open.spotify.com/album/1lDKPKdPnDIAiNw5T3Lp8C) | 3:28 |
 | 138 | [Lágrimas De Juventud](https://open.spotify.com/track/2wubrsC4bvOZ0ZbQ8y931c) | [Lorenzo Antonio](https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4) | [Lorenzo Antonio](https://open.spotify.com/album/73csnZhr57qLy2DH5bTXbk) | 2:37 |
-| 139 | [Esa Pared](https://open.spotify.com/track/5YrA2ybLaKSQmfvnVTCz16) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Leo Dan](https://open.spotify.com/album/2mIvaxQyw5981NkX8EsiSY) | 3:03 |
-| 140 | [El Noa Noa](https://open.spotify.com/track/1wCddPsdYzh8fBUuxgE7UD) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Para Ti](https://open.spotify.com/album/0qhnQyxYMnPvldjR0x0Ofe) | 4:18 |
+| 139 | [El Noa Noa](https://open.spotify.com/track/1wCddPsdYzh8fBUuxgE7UD) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Para Ti](https://open.spotify.com/album/0qhnQyxYMnPvldjR0x0Ofe) | 4:18 |
+| 140 | [Esa Pared](https://open.spotify.com/track/5YrA2ybLaKSQmfvnVTCz16) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Leo Dan](https://open.spotify.com/album/2mIvaxQyw5981NkX8EsiSY) | 3:03 |
 | 141 | [Por Las Calles De México](https://open.spotify.com/track/020y2GEMz7AdfCSKe3eDhb) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [La Triunfadora Sonora Santanera](https://open.spotify.com/album/354MRjHGrHN7podHW6Wyo6) | 2:46 |
 | 142 | [Qué Es La Libertad](https://open.spotify.com/track/56izv6YwNBNErqnCpglZLF) | [Francisco Xavier](https://open.spotify.com/artist/5SVuJpKQmu1ZUkCOjtP8sV) | [Solo Por Ti](https://open.spotify.com/album/3WwQkMGD0RviYHhRV8GQZd) | 3:35 |
 | 143 | [Acaríciame](https://open.spotify.com/track/36AZfm9TMpqDe0a97eQHZ5) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [Lo Mejor De Maria Conchita Alonso](https://open.spotify.com/album/3jG74yZBWZx6bfyDCYk81x) | 4:18 |

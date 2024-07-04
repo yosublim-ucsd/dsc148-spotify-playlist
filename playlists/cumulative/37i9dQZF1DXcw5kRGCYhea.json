@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/3TcG5hDL8YM5FKhp1rvsE1"
+      },
+      "artists": [
+        {
+          "name": "Kawtar",
+          "url": "https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/1oTuAmY3HZgLIKb52B07xl"
+    },
+    {
+      "album": {
         "name": "LV",
         "url": "https://open.spotify.com/album/6ZDribH9XHfeMilznJ2YmS"
       },
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 216386,
       "name": "NOTRE DAME",
       "url": "https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8"
@@ -1094,7 +1112,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 221653,
       "name": "Nous deux",
       "url": "https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3"
@@ -1214,10 +1232,32 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 148571,
       "name": "Paprika",
       "url": "https://open.spotify.com/track/7kS2AVRk5Yj6BTj8PyJFfC"
+    },
+    {
+      "album": {
+        "name": "Parle Pas",
+        "url": "https://open.spotify.com/album/3TAVQ5zRFrmvhZgloRjQPJ"
+      },
+      "artists": [
+        {
+          "name": "Scridge",
+          "url": "https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU"
+        },
+        {
+          "name": "Oussama",
+          "url": "https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Parle Pas",
+      "url": "https://open.spotify.com/track/2yNX0x2kAXhfjWvaTYCYN5"
     },
     {
       "album": {
@@ -1345,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "S7aba",
+        "url": "https://open.spotify.com/album/1USAkcnuETLU0G7pdOXe6v"
+      },
+      "artists": [
+        {
+          "name": "Asmae",
+          "url": "https://open.spotify.com/artist/22axSYd0A2j0jpnlf6tkyg"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "S7aba",
+      "url": "https://open.spotify.com/track/1ilM1fLpgTmrErtPrWjCP0"
+    },
+    {
+      "album": {
         "name": "PIZZA KEBAB Vol. 1",
         "url": "https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh"
       },
@@ -1360,7 +1418,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 165750,
       "name": "Safi Safi (feat. Draganov)",
       "url": "https://open.spotify.com/track/6f8PWwc97weAep3rXAeXyv"
@@ -1620,6 +1678,28 @@
       "duration_ms": 390000,
       "name": "Tshwala Bam (feat. S.N.E, EeQue)",
       "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
+    },
+    {
+      "album": {
+        "name": "C'est de la Cali",
+        "url": "https://open.spotify.com/album/4hcyzMtlhQdTxpxXqDL8jI"
+      },
+      "artists": [
+        {
+          "name": "Houari",
+          "url": "https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167013,
+      "name": "Vanill\u00e9e",
+      "url": "https://open.spotify.com/track/2OrVl8djetZs39Mr3Ujkaf"
     },
     {
       "album": {

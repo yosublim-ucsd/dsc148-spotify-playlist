@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-358 songs - 20 hr 22 min
+359 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Ek Baar Mein](https://open.spotify.com/track/72MRwlO5aD6i3tCJAFh02X) | [Yash Bhojwani](https://open.spotify.com/artist/2J5QVsZXFVQtQcKLI51A67), [Yash \- Yuvraj](https://open.spotify.com/artist/0aN3Fkj0EwaoWpp54lh9Io) | [Ek Baar Mein](https://open.spotify.com/album/4Z8lmWmeGmDPIUlMwq953t) | 4:10 | 2024-01-12 | 2024-03-05 |
 | [Ek Hi Toh Dil](https://open.spotify.com/track/3R8doGdVk3wSQonbXmuKGs) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Dilwala](https://open.spotify.com/artist/0OOLsvPq7vqGvLoQQJuvjC) | [Ek Hi Toh Dil](https://open.spotify.com/album/4Ge5dVfaOy3ghqzkbgR6Vm) | 3:12 | 2023-05-25 | 2023-06-29 |
 | [Ek Roz](https://open.spotify.com/track/0MX03YXxjKkgjBjWQkKVSc) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg), [Avanti Singh](https://open.spotify.com/artist/6k5LuiRji2bQeSy3M73j4v) | [Ek Roz](https://open.spotify.com/album/7FPc1Lg56oeqbxd2BxPrPT) | 3:32 | 2024-01-19 | 2024-03-22 |
-| [Ek Samay](https://open.spotify.com/track/0mo7QWcntm7G2syqkf0cNP) | [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG), [Rajarshi Sanyal](https://open.spotify.com/artist/4vCAvVluSrIr5WeqYwLs4O) | [Ibtida](https://open.spotify.com/album/2SjIj866OuIv8qB0fPXGYW) | 4:32 | 2024-04-19 |  |
+| [Ek Samay](https://open.spotify.com/track/0mo7QWcntm7G2syqkf0cNP) | [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG), [Rajarshi Sanyal](https://open.spotify.com/artist/4vCAvVluSrIr5WeqYwLs4O) | [Ibtida](https://open.spotify.com/album/2SjIj866OuIv8qB0fPXGYW) | 4:32 | 2024-04-19 | 2024-07-04 |
 | [Ek Sheher](https://open.spotify.com/track/4IRryIKKfcEFvKgfcCTSGc) | [Alok](https://open.spotify.com/artist/3y7LfP3vkL9HrOItlNblh9), [Zion Mathew](https://open.spotify.com/artist/5f47cgKSrce8l22c8bZQ8X) | [Ek Sheher](https://open.spotify.com/album/7aX7q7EJb4cko8NLfzhMne) | 3:52 | 2023-09-08 | 2024-02-10 |
 | [Faisle \(Acoustic\)](https://open.spotify.com/track/34pOdFzVl5ey5ssMWd9dwX) | [Murtuza Gadiwala](https://open.spotify.com/artist/625HWjXc0PbsRSE0WC8HRW), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Faisle \(Acoustic\)](https://open.spotify.com/album/0Gs4hEWrjOPRvaIpvbR4Wa) | 2:41 | 2023-05-17 | 2023-07-08 |
 | [Farq hai](https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Farq hai](https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp) | 3:04 | 2023-09-12 | 2024-06-12 |
@@ -239,6 +239,7 @@
 | [Nindiya](https://open.spotify.com/track/5j4XfQQaOtP6VZpo5wMPPP) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [Nindiya](https://open.spotify.com/album/0G0naNmj8UQzJFTQWXlwOZ) | 3:40 | 2023-11-10 | 2024-02-06 |
 | [Noor](https://open.spotify.com/track/0dHWY1elhBd1BOrgyMg5VT) | [Karan Nawani](https://open.spotify.com/artist/7rhiZksPc6NrFYY2x0iajU) | [Echoes Of Love](https://open.spotify.com/album/1xwtHTdzmUs83zWUpoO4CZ) | 3:07 | 2024-02-19 | 2024-04-16 |
 | [O Piya](https://open.spotify.com/track/4F7ZtGn9AADKvcdVA2eODk) | [Ayush Gupta](https://open.spotify.com/artist/389pB8tUWtnvxFuA5H1x52) | [O Piya](https://open.spotify.com/album/1TQUFjE8g7QgYtj8nm2IL5) | 3:55 | 2024-06-11 |  |
+| [Paas Aa](https://open.spotify.com/track/78EbeEIxRZJM9NLRxcFscq) | [Raj Thakur](https://open.spotify.com/artist/3NLgr90lOcgdbUDBiHt5Qr), [Amisha Singh](https://open.spotify.com/artist/1tmzT5qFwrXpjVJYNfxdfl) | [Paas Aa](https://open.spotify.com/album/6C8AMKqkiI4sO6nm1MiUOv) | 4:52 | 2024-07-03 |  |
 | [Paas Mere](https://open.spotify.com/track/6L8QciURnXIwZVZMeeNJB5) | [Rajraktim Konwar](https://open.spotify.com/artist/6y65f3ZHnYyTcVjnNQwvJZ), [Mayukh](https://open.spotify.com/artist/19I0L8PB44SSGiPhpIjdmr) | [Paas Mere](https://open.spotify.com/album/3zxrvRU4mO4kUBGIXG78xr) | 2:56 | 2023-08-28 | 2023-12-16 |
 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 | 2023-05-17 | 2023-07-13 |
 | [Pal Behta Jaaye 2.0](https://open.spotify.com/track/5SHfxmcRM55HoxnhPJLcal) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Pal Behta Jaaye 2.0](https://open.spotify.com/album/7nCPsjpyUj4pY2HI4EhwLV) | 3:03 | 2023-05-17 | 2024-02-10 |

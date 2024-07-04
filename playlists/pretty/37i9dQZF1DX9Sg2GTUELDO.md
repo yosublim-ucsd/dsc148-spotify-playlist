@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover：Vincy 泳兒
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,054 likes - 322 songs - 19 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,059 likes - 322 songs - 19 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

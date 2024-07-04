@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy melodies and hushed vocals\. Cover: Clairo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,109,346 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109,328 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 29 | [Golden Light](https://open.spotify.com/track/1rPYEWQfIRo5A4fvLgFbBe) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Miracle Mile](https://open.spotify.com/album/1bvGSdxElbk5CTTPIrWO2L) | 4:43 |
 | 30 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 |
 | 31 | [Roommates](https://open.spotify.com/track/08smZJCMrfuOQpRTaRmtF2) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Roommates](https://open.spotify.com/album/0nrSF8Oq2i8QDxvIomHslP) | 3:34 |
-| 32 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 |
-| 33 | [Cool with You](https://open.spotify.com/track/5wv2XK6ms7KBBVDD1cOwlx) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 6:15 |
+| 32 | [Cool with You](https://open.spotify.com/track/5wv2XK6ms7KBBVDD1cOwlx) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 6:15 |
+| 33 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 |
 | 34 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 |
 | 35 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
 | 36 | [Bedroom](https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb) | 3:06 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 82 | [milk in the morning](https://open.spotify.com/track/0nsdJMaNiVrEA224ojPFaT) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Zaini](https://open.spotify.com/artist/1MF873qFvGywvDUQbldyMH), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [milk in the morning](https://open.spotify.com/album/6mh0NWiMbPjv22MWcE7exj) | 3:10 |
 | 83 | [c u never](https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [c u never](https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A) | 2:55 |
 | 84 | [Rendezvous](https://open.spotify.com/track/25CaLVmZ8eV04GnQgB9HGW) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Rendezvous](https://open.spotify.com/album/3u1BKRicdzzbIqzU6aQhZl) | 3:12 |
-| 85 | [Nothing 2 See](https://open.spotify.com/track/39LBUI8lG3pjn83ovYdjGv) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Nothing 2 See](https://open.spotify.com/album/6TgkkyqFf6xihTl96kmUN9) | 3:40 |
-| 86 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 |
+| 85 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 |
+| 86 | [Nothing 2 See](https://open.spotify.com/track/39LBUI8lG3pjn83ovYdjGv) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Nothing 2 See](https://open.spotify.com/album/6TgkkyqFf6xihTl96kmUN9) | 3:40 |
 | 87 | [Nothing Lasts](https://open.spotify.com/track/2uwscEwG2u0rDYTGSvxrWu) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [One Million Love Songs](https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP) | 2:36 |
 | 88 | [Robes](https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA) | [Ricky Gourmet](https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg) | [Robes](https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy) | 3:07 |
 | 89 | [Really good cry](https://open.spotify.com/track/4ezZ31HcRsE7zMNy73z9js) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [garage sale](https://open.spotify.com/album/083gC3RjOGmxjHN3OX4UmP) | 1:54 |

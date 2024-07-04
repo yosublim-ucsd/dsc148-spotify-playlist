@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "180",
+        "url": "https://open.spotify.com/album/635u0bGwsx435mthsZdYZq"
+      },
+      "artists": [
+        {
+          "name": "Basti\u00e1n",
+          "url": "https://open.spotify.com/artist/0DuBhFEeMdGd1CnC7OVJTz"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275537,
+      "name": "180",
+      "url": "https://open.spotify.com/track/044Pe0QnRSNOuOSayWnqSQ"
+    },
+    {
+      "album": {
         "name": "2 Time Loser",
         "url": "https://open.spotify.com/album/28VEg4uzHjbLvmRp435CrS"
       },
@@ -2678,7 +2696,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 259538,
       "name": "Baby",
       "url": "https://open.spotify.com/track/2FgH6UPs5c7yTxPGwQ5ecQ"
@@ -12532,7 +12550,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 169200,
       "name": "Fall",
       "url": "https://open.spotify.com/track/2c9YFLVH3NPe8KOJu2OIF5"
@@ -21339,6 +21357,24 @@
     },
     {
       "album": {
+        "name": "library",
+        "url": "https://open.spotify.com/album/7a2Gvdzcg91guMenhk4W6G"
+      },
+      "artists": [
+        {
+          "name": "Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "library",
+      "url": "https://open.spotify.com/track/6mz3QCVaJ2RAKqLJiokShY"
+    },
+    {
+      "album": {
         "name": "Life & Death",
         "url": "https://open.spotify.com/album/6lLG5QP9HwBmQldCUAaa07"
       },
@@ -25539,6 +25575,24 @@
     },
     {
       "album": {
+        "name": "never let u",
+        "url": "https://open.spotify.com/album/5tWIpA7QMT5ISbVP265wtq"
+      },
+      "artists": [
+        {
+          "name": "BOKI",
+          "url": "https://open.spotify.com/artist/2xNNVFPSpFiz5ghriXRMjh"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247684,
+      "name": "never let u",
+      "url": "https://open.spotify.com/track/3zQCKVbt7gy4GvP4l5l3Jk"
+    },
+    {
+      "album": {
         "name": "Never Over",
         "url": "https://open.spotify.com/album/70YSmuhzvbAN3fTHmcG0Xe"
       },
@@ -27526,7 +27580,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 134734,
       "name": "Open Up The Door",
       "url": "https://open.spotify.com/track/3ar20lJHzjL873uKthoQc6"
@@ -28094,6 +28148,24 @@
       "duration_ms": 213571,
       "name": "Party Downstairs",
       "url": "https://open.spotify.com/track/3K4cMhGpLv56oUzHFiV4nz"
+    },
+    {
+      "album": {
+        "name": "Party Time",
+        "url": "https://open.spotify.com/album/46ATcqjybqaFdoSzihPf0o"
+      },
+      "artists": [
+        {
+          "name": "James View",
+          "url": "https://open.spotify.com/artist/07CtYKvP7pqKd2aIBqhgpr"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "Party Time",
+      "url": "https://open.spotify.com/track/0YsqM8QeilX8nxC2uUhsK4"
     },
     {
       "album": {
@@ -39094,7 +39166,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 202440,
       "name": "Undown",
       "url": "https://open.spotify.com/track/3Ev3OtW7s0FmhM7s5gDsez"

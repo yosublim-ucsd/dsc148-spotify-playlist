@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 
 > Pouring Indie tunes for all you bathroom singers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,201 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,217 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 2 | [Khwaab \- Reprise](https://open.spotify.com/track/3iAOO4KMNQquv6dbM9UXFP) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab \(Reprise\)](https://open.spotify.com/album/3IR88A9h4jPwNnSqHt0q25) | 3:22 |
 | 3 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 |
 | 4 | [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 |
-| 5 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 |
-| 6 | [Baarishein](https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/2LeZ6oWQed5ewVUpyGJKDh) | 3:27 |
-| 7 | [Sadqay](https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Sadqay](https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD) | 2:34 |
-| 8 | [nadaaniyan](https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [nadaaniyan](https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy) | 2:51 |
+| 5 | [nadaaniyan](https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [nadaaniyan](https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy) | 2:51 |
+| 6 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 |
+| 7 | [Baarishein](https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/2LeZ6oWQed5ewVUpyGJKDh) | 3:27 |
+| 8 | [Sadqay](https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Sadqay](https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD) | 2:34 |
 | 9 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 |
 | 10 | [Wishes](https://open.spotify.com/track/5rpCUsEfBLIumvrxrahnKF) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 3:38 |
 | 11 | [Khwab](https://open.spotify.com/track/59alvnjzlbX6LaHhXGDZYv) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Khwab](https://open.spotify.com/album/0ICe966bo3oNsHRIBp4aQ7) | 2:38 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 41 | [Tune Kaha](https://open.spotify.com/track/1gWtHDe403RuyZqhvSRcv8) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tune Kaha](https://open.spotify.com/album/1sXF26ED1bQT76rFEvPwaP) | 3:36 |
 | 42 | [Dekha Hai Aise Bhi](https://open.spotify.com/track/0GybyL5gY2kSLgiSwauFei) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sifar](https://open.spotify.com/album/0aHRE11myjLyOfFgEb8LpF) | 3:58 |
 | 43 | [Khoya](https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1), [Aseem](https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1) | [Khoya](https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA) | 2:58 |
-| 44 | [Khoj \(Passing By\)](https://open.spotify.com/track/4QK1qv4mgsfdWmMzp1Z3fx) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Believe](https://open.spotify.com/album/4aSylUJ8AnwjQ6BO9dtgGk) | 3:32 |
-| 45 | [Main Bola Hey!](https://open.spotify.com/track/0PKEQjnGn0LmPjozJ3t4MF) | [Karthik Rao](https://open.spotify.com/artist/3aAy6jFZLqqDUlMGSZcyaZ) | [Kota Factory: Season 1 \(Music from Tvf Original Series\)](https://open.spotify.com/album/6mOfUlKhx0AROUKdxA7v6Z) | 2:33 |
+| 44 | [Main Bola Hey!](https://open.spotify.com/track/0PKEQjnGn0LmPjozJ3t4MF) | [Karthik Rao](https://open.spotify.com/artist/3aAy6jFZLqqDUlMGSZcyaZ) | [Kota Factory: Season 1 \(Music from Tvf Original Series\)](https://open.spotify.com/album/6mOfUlKhx0AROUKdxA7v6Z) | 2:33 |
+| 45 | [Khoj \(Passing By\)](https://open.spotify.com/track/4QK1qv4mgsfdWmMzp1Z3fx) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Believe](https://open.spotify.com/album/4aSylUJ8AnwjQ6BO9dtgGk) | 3:32 |
 | 46 | [Baatein Karo](https://open.spotify.com/track/0defKES0cQIsig27CpfPWx) | [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL) | [Baatein Karo](https://open.spotify.com/album/66vdrbexbgZKs1NkNRmIET) | 3:15 |
 | 47 | [Neendein](https://open.spotify.com/track/3L8boIL0HlXw8AtXE8XdIP) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Neendein](https://open.spotify.com/album/2duQj52ixWnH9cppsg7e63) | 3:14 |
 | 48 | [Rung](https://open.spotify.com/track/5qlsGohL4JSjYFYnCsljHM) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Juice](https://open.spotify.com/album/1QdyFfjSQ891yMVk1GMNQw) | 3:03 |

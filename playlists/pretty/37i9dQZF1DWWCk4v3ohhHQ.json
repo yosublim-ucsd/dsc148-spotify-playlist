@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 206752,
+  "num_followers": 206796,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
+        "name": "Savages",
+        "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "duration_ms": 202213,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
         "name": "What We Live For",
         "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 185466,
       "name": "Walk On Water",
       "url": "https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
-        "name": "Savages",
-        "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
-      },
-      "artists": [
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 202213,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ"
     },
     {
       "added_at": "2022-11-17 15:48:46",

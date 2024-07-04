@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > 100% British \- 100% R&B\. Cover: Nia Chennai
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,498 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,632 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 27 | [Not My Job](https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Not My Job](https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3) | 2:54 |
 | 28 | [TEQUILA](https://open.spotify.com/track/3meLEmr860diy8furP4Bff) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [TEQUILA](https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX) | 3:25 |
 | 29 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
-| 30 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 |
-| 31 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
+| 30 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
+| 31 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 |
 | 32 | [Heat of the Moon](https://open.spotify.com/track/29x8z6fxeHdVTc0P3rhv10) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [A Sky Without Stars](https://open.spotify.com/album/3QIrrLWq2wnMdScMx1YXeS) | 3:25 |
 | 33 | [MET YOU AT A BAR](https://open.spotify.com/track/1tqDKxcXd2dlni26L3BGQ3) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [MET YOU AT A BAR](https://open.spotify.com/album/5XFDNmKIETmCv4YabIQRHP) | 2:40 |
 | 34 | [Heaven](https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 2:42 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 42 | [Bussdown \(feat\. Shaybo\)](https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:21 |
 | 43 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 |
 | 44 | [Timeout](https://open.spotify.com/track/2nC1WhlcDRorkWmN6ApfHn) | [Mellina Tey](https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx) | [Timeout](https://open.spotify.com/album/5uvwM8fgE7PIC0YfpzhJUg) | 2:11 |
-| 45 | [Fade \(feat\. KIRBY\)](https://open.spotify.com/track/4JIQyyCvJnUcRTYxKBB4LU) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Fade \(feat\. KIRBY\)](https://open.spotify.com/album/2np1sUdwyKLUGAe1NFs4uL) | 3:28 |
-| 46 | [Stay](https://open.spotify.com/track/0JnILfI1oC3i8ZLOxZeqNp) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Stay](https://open.spotify.com/album/6oNqp5To5PeNL5VLGGoHSB) | 3:05 |
-| 47 | [OOTW](https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [OOTW](https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX) | 2:19 |
+| 45 | [Stay](https://open.spotify.com/track/0JnILfI1oC3i8ZLOxZeqNp) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Stay](https://open.spotify.com/album/6oNqp5To5PeNL5VLGGoHSB) | 3:05 |
+| 46 | [OOTW](https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [OOTW](https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX) | 2:19 |
+| 47 | [Fade \(feat\. KIRBY\)](https://open.spotify.com/track/4JIQyyCvJnUcRTYxKBB4LU) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Fade \(feat\. KIRBY\)](https://open.spotify.com/album/2np1sUdwyKLUGAe1NFs4uL) | 3:28 |
 | 48 | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 |
 | 49 | [Have your babies](https://open.spotify.com/track/11pUhRUIkMIeSTVktv6ddL) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Tell Jimmy I'm fine](https://open.spotify.com/album/4LGyLyBYD059xQ1xsqzJ9N) | 3:07 |
 | 50 | [Cardboard Box \- Happi Remix](https://open.spotify.com/track/3Y9cvPqBb5Dnpc2MpG6f3j) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Cardboard Box](https://open.spotify.com/album/7GKgn6QLyZrGQ1atBIfhY0) | 2:30 |

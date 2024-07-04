@@ -184,7 +184,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 186091,
       "name": "Boldogtalans\u00e1g",
       "url": "https://open.spotify.com/track/1NJqCgWaY3kwdt2f7M1iui"
@@ -242,7 +242,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 207162,
       "name": "cipoe",
       "url": "https://open.spotify.com/track/2H5Xte3poqJ1ld8HtmC7yc"
@@ -464,6 +464,24 @@
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "album": {
+        "name": "memento",
+        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189783,
+      "name": "g\u00e1t",
+      "url": "https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv"
     },
     {
       "album": {
@@ -728,6 +746,28 @@
       "duration_ms": 153442,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+    },
+    {
+      "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/2nKNusskARBW5lMEt3996z"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "K\u00daTV\u00d6LGYI S\u00c1RA",
+          "url": "https://open.spotify.com/artist/2HFVT3TbcVZW8lWVE4eIka"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114392,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/4VXiDjCRkKHvXFhSX7OEri"
     },
     {
       "album": {

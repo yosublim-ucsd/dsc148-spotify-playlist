@@ -1,6 +1,6 @@
 {
   "description": "Unwind to these easy classics from the 2010s...",
-  "num_followers": 294191,
+  "num_followers": 294215,
   "original_name": "Easy 10s",
   "owner": {
     "name": "Spotify",
@@ -147,26 +147,6 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
-        "name": "Recovery",
-        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 263373,
-      "name": "Love The Way You Lie",
-      "url": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
         "name": "The Truth About Love",
         "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
       },
@@ -187,6 +167,26 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 263373,
+      "name": "Love The Way You Lie",
+      "url": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
         "name": "Blurryface",
         "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
       },
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
-        "name": "Love In The Future (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 269560,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 200746,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
+        "name": "Love In The Future (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 269560,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
     },
     {
       "added_at": "2024-06-03 14:47:34",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 278719,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
         "name": "Lukas Graham",
         "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 201000,
       "name": "Too Good At Goodbyes",
       "url": "https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 278719,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
     },
     {
       "added_at": "2024-06-03 14:47:34",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 244884,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     },
     {
       "added_at": "2024-06-03 14:47:34",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 261240,
+      "name": "Versace on the Floor",
+      "url": "https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
         "name": "Pure Heroine",
         "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
       },
@@ -483,22 +499,6 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 239316,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
         "name": "Back from the Edge",
         "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 246880,
       "name": "Can I Be Him",
       "url": "https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 261240,
-      "name": "Versace on the Floor",
-      "url": "https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP"
     },
     {
       "added_at": "2024-06-03 14:47:34",
@@ -563,6 +547,22 @@
       "duration_ms": 231240,
       "name": "We Can't Stop",
       "url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
     },
     {
       "added_at": "2024-06-03 14:47:34",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/0CnQ0JQajNswRjPkNYVG8m"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "Stitches",
-      "url": "https://open.spotify.com/track/3zkWCteF82vJwv0hRLba76"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
         "name": "The Element Of Freedom",
         "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 216480,
       "name": "Empire State of Mind (Part II) Broken Down",
       "url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/0CnQ0JQajNswRjPkNYVG8m"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "Stitches",
+      "url": "https://open.spotify.com/track/3zkWCteF82vJwv0hRLba76"
     },
     {
       "added_at": "2024-06-03 14:47:34",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
+        "name": "A Head Full of Dreams",
+        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 282693,
+      "name": "Everglow",
+      "url": "https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 210580,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
-        "name": "A Head Full of Dreams",
-        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 282693,
-      "name": "Everglow",
-      "url": "https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU"
     },
     {
       "added_at": "2024-06-03 14:47:34",

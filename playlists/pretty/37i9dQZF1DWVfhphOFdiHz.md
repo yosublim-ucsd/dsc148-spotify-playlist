@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: Zolita
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,338 likes - 110 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,356 likes - 110 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

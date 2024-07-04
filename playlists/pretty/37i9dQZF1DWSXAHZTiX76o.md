@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 
 > Los nuevos clásicos para fiestear ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,805 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,818 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 14 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
 | 15 | [Waste A Moment](https://open.spotify.com/track/5LlsD7LdSMkGV4Iu0a2Zq0) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 3:03 |
 | 16 | [Ruby](https://open.spotify.com/track/2sgBTNHz9ckmqj3rx3ez4M) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob \(Deluxe\)](https://open.spotify.com/album/3HiASm1Qj7CFwb4VHgsiM4) | 3:24 |
-| 17 | [Howlin' for You](https://open.spotify.com/track/4yffABDkB5A9flvr9vQFck) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:11 |
-| 18 | [Fire](https://open.spotify.com/track/0Ln5tJyLX5qusquBOtq7wf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [West Ryder Pauper Lunatic Asylum](https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6) | 4:12 |
+| 17 | [Fire](https://open.spotify.com/track/0Ln5tJyLX5qusquBOtq7wf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [West Ryder Pauper Lunatic Asylum](https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6) | 4:12 |
+| 18 | [Howlin' for You](https://open.spotify.com/track/4yffABDkB5A9flvr9vQFck) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:11 |
 | 19 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 |
 | 20 | [Such Great Heights \- Remastered](https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 4:26 |
 | 21 | [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Oh No](https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov) | 2:59 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 29 | [She Bangs the Drums \- Remastered 2009](https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 3:52 |
 | 30 | [I Will Survive](https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 5:10 |
 | 31 | [Let's Dance to Joy Division](https://open.spotify.com/track/7v9Ne4758aGFfFc5avh89h) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation](https://open.spotify.com/album/75l5Bqvc0BH45UhJrS04Xj) | 3:11 |
-| 32 | [Blue Monday \- 2016 Remaster](https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 7:30 |
-| 33 | [Fit but You Know It](https://open.spotify.com/track/312A8WfROSLvZbMDHBUPDp) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [A Grand Don't Come for Free](https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u) | 4:14 |
+| 32 | [Fit but You Know It](https://open.spotify.com/track/312A8WfROSLvZbMDHBUPDp) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [A Grand Don't Come for Free](https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u) | 4:14 |
+| 33 | [Blue Monday \- 2016 Remaster](https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 7:30 |
 | 34 | [Baby I'm Yours](https://open.spotify.com/track/5jr6pG3khBcBXZRm8NogSe) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Baby I'm Yours](https://open.spotify.com/album/0sCktPXUOt19W503or8h9b) | 3:35 |
 | 35 | [On Top Of The World](https://open.spotify.com/track/6Qj1WXW41Mn3Fh9V2sHphM) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 3:09 |
 | 36 | [Golden Touch \- Full Length](https://open.spotify.com/track/13bEwk7dTy0RdOAY3ZNNBD) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Up All Night](https://open.spotify.com/album/4HKGobgiysyDLsWp86chaK) | 3:25 |

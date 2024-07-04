@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1500466,
+  "num_followers": 1501914,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAACHP7Q/SoF7WHyjuey7bEBg",
+  "snapshot_id": "ZoNDAAAAAABeAbLV1NTtT/MVq/tNC0rk",
   "tracks": [
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 173158,
+      "name": "Hol' Up",
+      "url": "https://open.spotify.com/track/6cfVDaIdvDtYH91RqC6Wox"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Sun's Tirade",
         "url": "https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 330783,
       "name": "Wat's Wrong (feat. Zacari & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2RPbEp0DyBVlkRvvYKopO7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Section.80",
-        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 173158,
-      "name": "Hol' Up",
-      "url": "https://open.spotify.com/track/6cfVDaIdvDtYH91RqC6Wox"
     },
     {
       "added_at": null,
@@ -975,22 +975,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
       },
       "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 199136,
-      "name": "Walk On By",
-      "url": "https://open.spotify.com/track/6fkL9CjWmjeV6vfDxTp9OZ"
+      "duration_ms": 168591,
+      "name": "Rigamortus",
+      "url": "https://open.spotify.com/track/2lD6AoA8qf2t4Dkf2TcmNK"
     }
   ],
   "unique_name": "This Is Kendrick Lamar",

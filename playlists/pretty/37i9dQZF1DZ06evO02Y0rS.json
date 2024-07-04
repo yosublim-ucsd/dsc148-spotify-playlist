@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 157546,
+  "num_followers": 157563,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAAuHPdHBwgePvr7Tl5mvUyE",
+  "snapshot_id": "ZoNDAAAAAABGeygOwWhU6ZDAj2moMXQh",
   "tracks": [
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sands",
-        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
+        "name": "Dial 'M' for Monkey",
+        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 230306,
-      "name": "Kiara",
-      "url": "https://open.spotify.com/track/7sqii6BhIDpJChYpU3WjwS"
+      "duration_ms": 284280,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/5K8WNrf5JvmBE6O0MbSRuJ"
     },
     {
       "added_at": null,
@@ -231,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dial 'M' for Monkey",
-        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
+        "name": "Black Sands",
+        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 284280,
-      "name": "Flutter",
-      "url": "https://open.spotify.com/track/5K8WNrf5JvmBE6O0MbSRuJ"
+      "duration_ms": 230306,
+      "name": "Kiara",
+      "url": "https://open.spotify.com/track/7sqii6BhIDpJChYpU3WjwS"
     },
     {
       "added_at": null,

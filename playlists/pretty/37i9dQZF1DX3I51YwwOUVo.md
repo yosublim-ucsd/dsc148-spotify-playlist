@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 
 > Get to know our 2024 Artists to Watch! Cover: SNOW WIFE
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,924 likes - 89 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,946 likes - 89 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

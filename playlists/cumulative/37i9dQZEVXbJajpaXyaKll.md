@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-492 songs - 1 day 2 hr 4 min
+493 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-04-23 |  |
 | [Guess](https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 | 2024-06-25 |  |
 | [Guilty as Sin?](https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:14 | 2024-05-07 | 2024-06-05 |
-| [Hasta la Muerte](https://open.spotify.com/track/1rETymQxbzyaN3zCLDOFI0) | [Producto Sin Corte](https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Hasta la Muerte](https://open.spotify.com/album/59TBZbYGppoUHEnvYAMI9h) | 3:35 | 2024-07-02 |  |
+| [Hasta la Muerte](https://open.spotify.com/track/1rETymQxbzyaN3zCLDOFI0) | [Producto Sin Corte](https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Hasta la Muerte](https://open.spotify.com/album/59TBZbYGppoUHEnvYAMI9h) | 3:35 | 2024-07-02 | 2024-07-04 |
 | [HAY LUPITA](https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR) | 1:45 | 2024-05-13 | 2024-05-29 |
 | [Hell Is Forever](https://open.spotify.com/track/6Ux7hThoEVu7V0YmmZqunV) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Alex Brightman](https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN), [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 2:20 | 2024-02-17 | 2024-02-20 |
 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:15 | 2024-04-19 | 2024-04-25 |
@@ -333,6 +333,7 @@
 | [Ojitos Rojitos Como Un Camaro](https://open.spotify.com/track/0N2WvDpkWmD0WAv50DZgFm) | [Bmontee](https://open.spotify.com/artist/5RASKzZf7Ysk2smNwr1yIZ) | [Ojitos Rojitos Como Un Camaro](https://open.spotify.com/album/6C4QFS3xQaRlpqPXGpLtsA) | 2:27 | 2024-06-18 | 2024-06-26 |
 | [Ojos Verdes](https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ojos Verdes](https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk) | 2:22 | 2024-05-14 | 2024-06-26 |
 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 | 2024-02-09 | 2024-02-28 |
+| [Orion](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Orion](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 | 2024-07-03 |  |
 | [pa](https://open.spotify.com/track/490e7PHsxkzMot8qCO36Bt) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 3:10 | 2024-04-23 | 2024-05-08 |
 | [Para Siempre](https://open.spotify.com/track/5ILu4zdXzG4WCbX9GtMNJX) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:32 | 2024-02-20 | 2024-02-24 |
 | [Para Siempre](https://open.spotify.com/track/6kJLEzJ4kc9mS5buZz7STw) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Para Siempre](https://open.spotify.com/album/3p6SxLQhEAcJn9nrb8fZl1) | 3:28 | 2024-03-05 | 2024-03-13 |

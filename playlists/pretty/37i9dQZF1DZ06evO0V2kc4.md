@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 
 ### [This Is Joan Baez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0V2kc4)
 
-> This is Joan Baez。アーティストの代表曲をひとつのプレイリストに。
+> This is Joan Baez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,947 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,958 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 49 | [Love Minus Zero / No Limit](https://open.spotify.com/track/4zU2gsfo50BU2MWpMUJtpO) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 2:44 |
 | 50 | [In The Quiet Morning](https://open.spotify.com/track/4Kol6Ecm4yCgHvbLSP3XUG) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 2:55 |
 
-Snapshot ID: `ZoHxgAAAAAByLOPHaeuDDAu1EwkYUczp`
+Snapshot ID: `ZoHxgAAAAABnpH4m8lRpBHFN3IPvmWw7`

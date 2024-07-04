@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Kosma Kr\u00f3l",
-  "num_followers": 17401,
+  "num_followers": 17455,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -51,18 +51,26 @@
     {
       "added_at": "2024-06-28 07:41:47",
       "album": {
-        "name": "ZG\u0141OWY",
-        "url": "https://open.spotify.com/album/26u5KVFp8qYBT5nLY1s1QA"
+        "name": "Bagno",
+        "url": "https://open.spotify.com/album/6thpolCvMTbZuVahOdEhbj"
       },
       "artists": [
         {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+          "name": "CatchUp",
+          "url": "https://open.spotify.com/artist/14M41VoNuxxvBXaigqZ9D9"
+        },
+        {
+          "name": "Oskar83",
+          "url": "https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
         }
       ],
-      "duration_ms": 228655,
-      "name": "ZG\u0141OWY",
-      "url": "https://open.spotify.com/track/6CWii0CIs9kpaFIRODLaaY"
+      "duration_ms": 136046,
+      "name": "Bagno",
+      "url": "https://open.spotify.com/track/2SkOPVJztkHlwvsXbLBk3x"
     },
     {
       "added_at": "2024-06-28 07:41:47",
@@ -235,30 +243,18 @@
     {
       "added_at": "2024-06-28 07:41:47",
       "album": {
-        "name": "EKSKLUZYWNY G\u0141\u00d3D",
-        "url": "https://open.spotify.com/album/7LOKcNjVJnmyRlCzYPRjXE"
+        "name": "ZG\u0141OWY",
+        "url": "https://open.spotify.com/album/26u5KVFp8qYBT5nLY1s1QA"
       },
       "artists": [
         {
-          "name": "Young Igi",
-          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
-        },
-        {
-          "name": "Hodak",
-          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
-        },
-        {
-          "name": "Sergiusz",
-          "url": "https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0"
-        },
-        {
-          "name": "2K",
-          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
         }
       ],
-      "duration_ms": 153269,
-      "name": "KIMOSABE",
-      "url": "https://open.spotify.com/track/23ygfu9GpjYeF0wHX1LMq9"
+      "duration_ms": 228655,
+      "name": "ZG\u0141OWY",
+      "url": "https://open.spotify.com/track/6CWii0CIs9kpaFIRODLaaY"
     },
     {
       "added_at": "2024-06-28 07:41:47",
@@ -303,26 +299,30 @@
     {
       "added_at": "2024-06-28 07:41:47",
       "album": {
-        "name": "Bagno",
-        "url": "https://open.spotify.com/album/6thpolCvMTbZuVahOdEhbj"
+        "name": "EKSKLUZYWNY G\u0141\u00d3D",
+        "url": "https://open.spotify.com/album/7LOKcNjVJnmyRlCzYPRjXE"
       },
       "artists": [
         {
-          "name": "CatchUp",
-          "url": "https://open.spotify.com/artist/14M41VoNuxxvBXaigqZ9D9"
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
         },
         {
-          "name": "Oskar83",
-          "url": "https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4"
+          "name": "Hodak",
+          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
         },
         {
-          "name": "Def Jam World Tour",
-          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+          "name": "Sergiusz",
+          "url": "https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
         }
       ],
-      "duration_ms": 136046,
-      "name": "Bagno",
-      "url": "https://open.spotify.com/track/2SkOPVJztkHlwvsXbLBk3x"
+      "duration_ms": 153269,
+      "name": "KIMOSABE",
+      "url": "https://open.spotify.com/track/23ygfu9GpjYeF0wHX1LMq9"
     },
     {
       "added_at": "2024-06-28 07:41:47",
@@ -847,6 +847,26 @@
     {
       "added_at": "2024-06-28 07:41:47",
       "album": {
+        "name": "Offshore",
+        "url": "https://open.spotify.com/album/5IeQWmtzXL1OvsKZG0CaNC"
+      },
+      "artists": [
+        {
+          "name": "TEKTONIKA",
+          "url": "https://open.spotify.com/artist/0ePUUegXZuu4ntBQuiml65"
+        },
+        {
+          "name": "Kwiatek Haze",
+          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
+        }
+      ],
+      "duration_ms": 146823,
+      "name": "Offshore",
+      "url": "https://open.spotify.com/track/7fUBI4fyEXpFzsqzM8jg4D"
+    },
+    {
+      "added_at": "2024-06-28 07:41:47",
+      "album": {
         "name": "ASMR",
         "url": "https://open.spotify.com/album/2J0jcZfuIQX0kgEz87MG3o"
       },
@@ -875,6 +895,26 @@
       "duration_ms": 173342,
       "name": "Off My Mind",
       "url": "https://open.spotify.com/track/1CahJRBO4FJBH902lTpXul"
+    },
+    {
+      "added_at": "2024-06-28 07:41:47",
+      "album": {
+        "name": "\u017burawie",
+        "url": "https://open.spotify.com/album/6Pg1IGXPitKSd6AsgFDEjn"
+      },
+      "artists": [
+        {
+          "name": "Miuosh",
+          "url": "https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX"
+        },
+        {
+          "name": "Natalia Szroeder",
+          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
+        }
+      ],
+      "duration_ms": 293734,
+      "name": "\u017burawie",
+      "url": "https://open.spotify.com/track/2cKmm6XoYmMDIowgvH28Fv"
     },
     {
       "added_at": "2024-06-28 07:41:47",
@@ -911,22 +951,18 @@
     {
       "added_at": "2024-06-28 07:41:47",
       "album": {
-        "name": "\u017burawie",
-        "url": "https://open.spotify.com/album/6Pg1IGXPitKSd6AsgFDEjn"
+        "name": "MOLO",
+        "url": "https://open.spotify.com/album/612ftpFva9ARNVcqLX9UFx"
       },
       "artists": [
         {
-          "name": "Miuosh",
-          "url": "https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX"
-        },
-        {
-          "name": "Natalia Szroeder",
-          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
+          "name": "Kaespen",
+          "url": "https://open.spotify.com/artist/10PJudnCduYdRAWt6ej8by"
         }
       ],
-      "duration_ms": 293734,
-      "name": "\u017burawie",
-      "url": "https://open.spotify.com/track/2cKmm6XoYmMDIowgvH28Fv"
+      "duration_ms": 210722,
+      "name": "MOLO",
+      "url": "https://open.spotify.com/track/7s8Kfdlu6ALxGno0EGVEbu"
     },
     {
       "added_at": "2024-06-28 07:41:47",
@@ -951,22 +987,6 @@
     {
       "added_at": "2024-06-28 07:41:47",
       "album": {
-        "name": "MOLO",
-        "url": "https://open.spotify.com/album/612ftpFva9ARNVcqLX9UFx"
-      },
-      "artists": [
-        {
-          "name": "Kaespen",
-          "url": "https://open.spotify.com/artist/10PJudnCduYdRAWt6ej8by"
-        }
-      ],
-      "duration_ms": 210722,
-      "name": "MOLO",
-      "url": "https://open.spotify.com/track/7s8Kfdlu6ALxGno0EGVEbu"
-    },
-    {
-      "added_at": "2024-06-28 07:41:47",
-      "album": {
         "name": "Za P\u00f3\u017ano",
         "url": "https://open.spotify.com/album/03fvJbSmTP50UfuE1HpAnF"
       },
@@ -979,6 +999,26 @@
       "duration_ms": 234000,
       "name": "Za P\u00f3\u017ano",
       "url": "https://open.spotify.com/track/2wNamQpGSnCRR4Pg67F98J"
+    },
+    {
+      "added_at": "2024-06-28 07:41:47",
+      "album": {
+        "name": "Lata",
+        "url": "https://open.spotify.com/album/655q7pEf0IAM0xMaxoRRuY"
+      },
+      "artists": [
+        {
+          "name": "Bisz",
+          "url": "https://open.spotify.com/artist/4PpHZwqxdYMMnLkYJ83vUJ"
+        },
+        {
+          "name": "KOSA",
+          "url": "https://open.spotify.com/artist/3pTM3cYf2uOfZvlxW7zFY4"
+        }
+      ],
+      "duration_ms": 192194,
+      "name": "Lata",
+      "url": "https://open.spotify.com/track/3PTqfHy1sEHWH9jKeb7nu9"
     },
     {
       "added_at": "2024-06-28 07:41:47",
@@ -1007,46 +1047,6 @@
       "duration_ms": 178285,
       "name": "Poczet Kr\u00f3l\u00f3w",
       "url": "https://open.spotify.com/track/3nxZGp8f3y3JQD4wr91qF1"
-    },
-    {
-      "added_at": "2024-06-28 07:41:47",
-      "album": {
-        "name": "Lata",
-        "url": "https://open.spotify.com/album/655q7pEf0IAM0xMaxoRRuY"
-      },
-      "artists": [
-        {
-          "name": "Bisz",
-          "url": "https://open.spotify.com/artist/4PpHZwqxdYMMnLkYJ83vUJ"
-        },
-        {
-          "name": "KOSA",
-          "url": "https://open.spotify.com/artist/3pTM3cYf2uOfZvlxW7zFY4"
-        }
-      ],
-      "duration_ms": 192194,
-      "name": "Lata",
-      "url": "https://open.spotify.com/track/3PTqfHy1sEHWH9jKeb7nu9"
-    },
-    {
-      "added_at": "2024-06-28 07:41:47",
-      "album": {
-        "name": "Offshore",
-        "url": "https://open.spotify.com/album/5IeQWmtzXL1OvsKZG0CaNC"
-      },
-      "artists": [
-        {
-          "name": "TEKTONIKA",
-          "url": "https://open.spotify.com/artist/0ePUUegXZuu4ntBQuiml65"
-        },
-        {
-          "name": "Kwiatek Haze",
-          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
-        }
-      ],
-      "duration_ms": 146823,
-      "name": "Offshore",
-      "url": "https://open.spotify.com/track/7fUBI4fyEXpFzsqzM8jg4D"
     },
     {
       "added_at": "2024-06-28 07:41:47",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2024-06-28 07:41:47",
       "album": {
-        "name": "KAM-RAP-POL",
-        "url": "https://open.spotify.com/album/5jFflHQoDiYyZt6BDNl56I"
-      },
-      "artists": [
-        {
-          "name": "Kamil Pivot",
-          "url": "https://open.spotify.com/artist/7AcwtFOXvwajNn4W02UImh"
-        },
-        {
-          "name": "Urb",
-          "url": "https://open.spotify.com/artist/5lnjzI3oJ7d6dLFlXZE5yV"
-        }
-      ],
-      "duration_ms": 207575,
-      "name": "U OLGI",
-      "url": "https://open.spotify.com/track/5ejvXxFb6IYQz9heNRZq49"
-    },
-    {
-      "added_at": "2024-06-28 07:41:47",
-      "album": {
         "name": "echa",
         "url": "https://open.spotify.com/album/63iX6m9aHbWLciZlwgllXm"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 238437,
       "name": "lovesong",
       "url": "https://open.spotify.com/track/0ztHKg48H8RX7fOMMpW9Ld"
+    },
+    {
+      "added_at": "2024-06-28 07:41:47",
+      "album": {
+        "name": "KAM-RAP-POL",
+        "url": "https://open.spotify.com/album/5jFflHQoDiYyZt6BDNl56I"
+      },
+      "artists": [
+        {
+          "name": "Kamil Pivot",
+          "url": "https://open.spotify.com/artist/7AcwtFOXvwajNn4W02UImh"
+        },
+        {
+          "name": "Urb",
+          "url": "https://open.spotify.com/artist/5lnjzI3oJ7d6dLFlXZE5yV"
+        }
+      ],
+      "duration_ms": 207575,
+      "name": "U OLGI",
+      "url": "https://open.spotify.com/track/5ejvXxFb6IYQz9heNRZq49"
     },
     {
       "added_at": "2024-06-28 07:41:47",
@@ -1187,42 +1187,6 @@
     {
       "added_at": "2024-06-28 07:41:47",
       "album": {
-        "name": "Zobacz",
-        "url": "https://open.spotify.com/album/4TPe45ghlrkj7cOYfBOXVT"
-      },
-      "artists": [
-        {
-          "name": "North Side District",
-          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
-        }
-      ],
-      "duration_ms": 136888,
-      "name": "Zobacz",
-      "url": "https://open.spotify.com/track/07BdmTcSqR18rYI4kAlhUv"
-    },
-    {
-      "added_at": "2024-06-28 07:41:47",
-      "album": {
-        "name": "KAM-CAR",
-        "url": "https://open.spotify.com/album/5GKvM5h2ets6EmwN3mu2QM"
-      },
-      "artists": [
-        {
-          "name": "Kamil Pivot",
-          "url": "https://open.spotify.com/artist/7AcwtFOXvwajNn4W02UImh"
-        },
-        {
-          "name": "Urb",
-          "url": "https://open.spotify.com/artist/5lnjzI3oJ7d6dLFlXZE5yV"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "KAM-CAR",
-      "url": "https://open.spotify.com/track/47rB0vcs5NmvI2i0eyxtm4"
-    },
-    {
-      "added_at": "2024-06-28 07:41:47",
-      "album": {
         "name": "Ponad chmurami",
         "url": "https://open.spotify.com/album/5AhVDLvxM2m9GkGZOMbQ0k"
       },
@@ -1243,6 +1207,22 @@
       "duration_ms": 128571,
       "name": "Ponad chmurami",
       "url": "https://open.spotify.com/track/1kWkVGKbi7J1qoVU2X38O9"
+    },
+    {
+      "added_at": "2024-06-28 07:41:47",
+      "album": {
+        "name": "Zobacz",
+        "url": "https://open.spotify.com/album/4TPe45ghlrkj7cOYfBOXVT"
+      },
+      "artists": [
+        {
+          "name": "North Side District",
+          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
+        }
+      ],
+      "duration_ms": 136888,
+      "name": "Zobacz",
+      "url": "https://open.spotify.com/track/07BdmTcSqR18rYI4kAlhUv"
     },
     {
       "added_at": "2024-06-28 07:41:47",
@@ -1303,6 +1283,58 @@
     {
       "added_at": "2024-06-28 07:41:47",
       "album": {
+        "name": "To Wydarzy\u0142o Si\u0119 Naprawd\u0119 Opr\u00f3cz Tego, Co Zmy\u015bli\u0142em (DELUXE)",
+        "url": "https://open.spotify.com/album/64rUySEtui2rnmII9cKG7A"
+      },
+      "artists": [
+        {
+          "name": "Kosi",
+          "url": "https://open.spotify.com/artist/2PlWtRtsOofohkow3Ht1Co"
+        },
+        {
+          "name": "Szczur JWP",
+          "url": "https://open.spotify.com/artist/5nl2uOpQ1NtRDyl0S9gED5"
+        },
+        {
+          "name": "Zdech\u0142y Osa",
+          "url": "https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz"
+        },
+        {
+          "name": "STICKORAMA",
+          "url": "https://open.spotify.com/artist/6veGjpdOIQzdMVmTsMGhyF"
+        },
+        {
+          "name": "FLEX",
+          "url": "https://open.spotify.com/artist/4FqGe7i2p6k5Hklh9sW8za"
+        }
+      ],
+      "duration_ms": 227121,
+      "name": "Bejrut - Remix",
+      "url": "https://open.spotify.com/track/6wk3T7kv30BjpMHLGShSSr"
+    },
+    {
+      "added_at": "2024-06-28 07:41:47",
+      "album": {
+        "name": "KAM-CAR",
+        "url": "https://open.spotify.com/album/5GKvM5h2ets6EmwN3mu2QM"
+      },
+      "artists": [
+        {
+          "name": "Kamil Pivot",
+          "url": "https://open.spotify.com/artist/7AcwtFOXvwajNn4W02UImh"
+        },
+        {
+          "name": "Urb",
+          "url": "https://open.spotify.com/artist/5lnjzI3oJ7d6dLFlXZE5yV"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "KAM-CAR",
+      "url": "https://open.spotify.com/track/47rB0vcs5NmvI2i0eyxtm4"
+    },
+    {
+      "added_at": "2024-06-28 07:41:47",
+      "album": {
         "name": "Pocz\u0105tek",
         "url": "https://open.spotify.com/album/049sW8ENjB8HtNXRHmQ0tY"
       },
@@ -1343,6 +1375,22 @@
     {
       "added_at": "2024-06-28 07:41:47",
       "album": {
+        "name": "Serato",
+        "url": "https://open.spotify.com/album/2S8IceuyzqvYYCE6xjyYQh"
+      },
+      "artists": [
+        {
+          "name": "North Side District",
+          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
+        }
+      ],
+      "duration_ms": 147368,
+      "name": "Serato",
+      "url": "https://open.spotify.com/track/2R3TOtP2vsvaSxKMiKLc0X"
+    },
+    {
+      "added_at": "2024-06-28 07:41:47",
+      "album": {
         "name": "UTAH",
         "url": "https://open.spotify.com/album/06i2MDJJB0ysjWwcCoMkRL"
       },
@@ -1363,54 +1411,6 @@
       "duration_ms": 119200,
       "name": "UTAH",
       "url": "https://open.spotify.com/track/0Ijvz6ebztdR78N1SXDSlG"
-    },
-    {
-      "added_at": "2024-06-28 07:41:47",
-      "album": {
-        "name": "Serato",
-        "url": "https://open.spotify.com/album/2S8IceuyzqvYYCE6xjyYQh"
-      },
-      "artists": [
-        {
-          "name": "North Side District",
-          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
-        }
-      ],
-      "duration_ms": 147368,
-      "name": "Serato",
-      "url": "https://open.spotify.com/track/2R3TOtP2vsvaSxKMiKLc0X"
-    },
-    {
-      "added_at": "2024-06-28 07:41:47",
-      "album": {
-        "name": "To Wydarzy\u0142o Si\u0119 Naprawd\u0119 Opr\u00f3cz Tego, Co Zmy\u015bli\u0142em (DELUXE)",
-        "url": "https://open.spotify.com/album/64rUySEtui2rnmII9cKG7A"
-      },
-      "artists": [
-        {
-          "name": "Kosi",
-          "url": "https://open.spotify.com/artist/2PlWtRtsOofohkow3Ht1Co"
-        },
-        {
-          "name": "Szczur JWP",
-          "url": "https://open.spotify.com/artist/5nl2uOpQ1NtRDyl0S9gED5"
-        },
-        {
-          "name": "Zdech\u0142y Osa",
-          "url": "https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz"
-        },
-        {
-          "name": "STICKORAMA",
-          "url": "https://open.spotify.com/artist/6veGjpdOIQzdMVmTsMGhyF"
-        },
-        {
-          "name": "FLEX",
-          "url": "https://open.spotify.com/artist/4FqGe7i2p6k5Hklh9sW8za"
-        }
-      ],
-      "duration_ms": 227121,
-      "name": "Bejrut - Remix",
-      "url": "https://open.spotify.com/track/6wk3T7kv30BjpMHLGShSSr"
     },
     {
       "added_at": "2024-06-28 07:41:47",
@@ -1563,30 +1563,6 @@
     {
       "added_at": "2024-06-28 07:41:47",
       "album": {
-        "name": "Trzymaj mnie",
-        "url": "https://open.spotify.com/album/3hnvY84sTOLF2PPiprshnS"
-      },
-      "artists": [
-        {
-          "name": "J.Kossak",
-          "url": "https://open.spotify.com/artist/0St7FFRawlk3SB59vqMC8e"
-        },
-        {
-          "name": "FANT\u00d8M",
-          "url": "https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5"
-        },
-        {
-          "name": "clearmind",
-          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
-        }
-      ],
-      "duration_ms": 152823,
-      "name": "Trzymaj mnie",
-      "url": "https://open.spotify.com/track/6rkvOH0qBEcF02z5Pqm1oZ"
-    },
-    {
-      "added_at": "2024-06-28 07:41:47",
-      "album": {
         "name": "ALL IN",
         "url": "https://open.spotify.com/album/3ZOnTy0OelYAp4MPhTLuJY"
       },
@@ -1671,6 +1647,30 @@
       "duration_ms": 276136,
       "name": "ALL IN",
       "url": "https://open.spotify.com/track/0jfGFAlrxBYAaebeotjeCC"
+    },
+    {
+      "added_at": "2024-06-28 07:41:47",
+      "album": {
+        "name": "Trzymaj mnie",
+        "url": "https://open.spotify.com/album/3hnvY84sTOLF2PPiprshnS"
+      },
+      "artists": [
+        {
+          "name": "J.Kossak",
+          "url": "https://open.spotify.com/artist/0St7FFRawlk3SB59vqMC8e"
+        },
+        {
+          "name": "FANT\u00d8M",
+          "url": "https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        }
+      ],
+      "duration_ms": 152823,
+      "name": "Trzymaj mnie",
+      "url": "https://open.spotify.com/track/6rkvOH0qBEcF02z5Pqm1oZ"
     },
     {
       "added_at": "2024-06-28 07:41:47",
@@ -2003,18 +2003,18 @@
     {
       "added_at": "2024-06-28 07:41:47",
       "album": {
-        "name": "11minut",
-        "url": "https://open.spotify.com/album/35LpHhTXWFgeVyCcHWK2kN"
+        "name": "bez w d\u0142oni",
+        "url": "https://open.spotify.com/album/2UvIX8MDZrEJaPCWQZR5Lz"
       },
       "artists": [
         {
-          "name": "rogi",
-          "url": "https://open.spotify.com/artist/5rIZoZQY5YwXdy7I7w6YKK"
+          "name": "\u2022 ukeboy \u2022",
+          "url": "https://open.spotify.com/artist/7wlmeZF1s7TOkDZVsLUYdR"
         }
       ],
-      "duration_ms": 147000,
-      "name": "highway eleven",
-      "url": "https://open.spotify.com/track/21wH6BX6I7JALOnElthTo8"
+      "duration_ms": 185658,
+      "name": "bez w d\u0142oni",
+      "url": "https://open.spotify.com/track/5lB8rnoCkZLI2EFUPPdg5c"
     },
     {
       "added_at": "2024-06-28 07:41:47",
@@ -2039,18 +2039,18 @@
     {
       "added_at": "2024-06-28 07:41:47",
       "album": {
-        "name": "bez w d\u0142oni",
-        "url": "https://open.spotify.com/album/2UvIX8MDZrEJaPCWQZR5Lz"
+        "name": "11minut",
+        "url": "https://open.spotify.com/album/35LpHhTXWFgeVyCcHWK2kN"
       },
       "artists": [
         {
-          "name": "\u2022 ukeboy \u2022",
-          "url": "https://open.spotify.com/artist/7wlmeZF1s7TOkDZVsLUYdR"
+          "name": "rogi",
+          "url": "https://open.spotify.com/artist/5rIZoZQY5YwXdy7I7w6YKK"
         }
       ],
-      "duration_ms": 185658,
-      "name": "bez w d\u0142oni",
-      "url": "https://open.spotify.com/track/5lB8rnoCkZLI2EFUPPdg5c"
+      "duration_ms": 147000,
+      "name": "highway eleven",
+      "url": "https://open.spotify.com/track/21wH6BX6I7JALOnElthTo8"
     },
     {
       "added_at": "2024-06-28 07:41:47",
@@ -2169,7 +2169,7 @@
         },
         {
           "name": "D\u0142ugi",
-          "url": "https://open.spotify.com/artist/4cPTT5u4N5zXBfdqTg2QaT"
+          "url": "https://open.spotify.com/artist/6WZ6IBVsmaoqe7hJlSY5WN"
         }
       ],
       "duration_ms": 203614,

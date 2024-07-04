@@ -4,7 +4,7 @@
 
 > Lo más pegado, lo más trendy, o sea la bichota.
 
-513 songs - 1 day 2 hr 19 min
+514 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,8 @@
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-14 |  |
 | [Pobre Corazón \- En Vivo](https://open.spotify.com/track/1AX4aybSRyXHWrjg27wTFE) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Pobre Corazón \(En Vivo\)](https://open.spotify.com/album/7kNdveFXAKstJ8iNMrwq4Z) | 3:18 | 2023-05-12 | 2023-10-12 |
 | [Polvito](https://open.spotify.com/track/56gWw6TmEYzeMkunkQVXkc) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Polvito](https://open.spotify.com/album/25Uts5FC3OtRu2PdbsnBnv) | 2:59 | 2023-05-19 | 2024-01-20 |
-| [Polvo de tu Vida](https://open.spotify.com/track/4Nr31bxNazMn7t94RoSbFq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Polvo de tu Vida](https://open.spotify.com/album/0zhd9N8ctbIgV58nd5OmGh) | 2:52 | 2024-06-07 |  |
+| [Polvo de tu Vida](https://open.spotify.com/track/4Nr31bxNazMn7t94RoSbFq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Polvo de tu Vida](https://open.spotify.com/album/0zhd9N8ctbIgV58nd5OmGh) | 2:52 | 2024-06-07 | 2024-07-04 |
+| [PONTE PERRO \| DJ TAO Turreo Sessions \#24](https://open.spotify.com/track/0T25HZGE0WwyELWBlXQVbY) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [PONTE PERRO \| DJ TAO Turreo Sessions \#24](https://open.spotify.com/album/5S53ufaOE0vScVuQ17GKOH) | 2:29 | 2024-07-03 |  |
 | [PONTE SATA](https://open.spotify.com/track/305U3q7GpuywzXIUrSGHqC) | [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57) | [PONTE SATA](https://open.spotify.com/album/0i4KtfYghWTAvi9VYmqXXJ) | 2:45 | 2024-01-26 |  |
 | [Por Dios Que No](https://open.spotify.com/track/5Qq2wpTegTGcvplLyrNmyd) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Por Dios Que No](https://open.spotify.com/album/1DhhUhPzrfp8E4lqqifiTN) | 2:48 | 2024-01-05 | 2024-02-24 |
 | [Por Mil Noches](https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Libertad](https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN) | 4:43 | 2024-03-01 | 2024-06-15 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 255000,
+  "num_followers": 255038,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAADGFBd5jSsZIpUlQj/JHJHw",
+  "snapshot_id": "ZoNDAAAAAABttwDVRrv5n4O9Cio1pOaO",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,6 @@
       "duration_ms": 188253,
       "name": "What Ifs (feat. Lauren Alaina)",
       "url": "https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kane Brown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 179506,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
     },
     {
       "added_at": null,
@@ -187,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "Good as You",
+      "url": "https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fiddle in the Band",
         "url": "https://open.spotify.com/album/449F70NfANoQxARzdu8EaD"
       },
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Experiment Extended",
-        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/30RZAuEkYeDXvy46Iv6l7E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different Man",
         "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 242306,
       "name": "Bury Me in Georgia",
       "url": "https://open.spotify.com/track/4EKH0ajMHXTkq4ztWuztVH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 178986,
+      "name": "Lose It",
+      "url": "https://open.spotify.com/track/7epGknfpAlH1u33S71Ur1o"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Experiment Extended",
-        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 178986,
-      "name": "Lose It",
-      "url": "https://open.spotify.com/track/7epGknfpAlH1u33S71Ur1o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different Man",
         "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
@@ -355,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 201730,
+      "name": "Like a Rodeo",
+      "url": "https://open.spotify.com/track/7z3dPHwGxeK4fD6fYFDwiS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SCOOB! The Album",
         "url": "https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG"
       },
@@ -375,22 +375,6 @@
       "duration_ms": 164683,
       "name": "On Me (feat. Ava Max)",
       "url": "https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Experiment Extended",
-        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 201730,
-      "name": "Like a Rodeo",
-      "url": "https://open.spotify.com/track/7z3dPHwGxeK4fD6fYFDwiS"
     },
     {
       "added_at": null,
@@ -431,26 +415,6 @@
       "duration_ms": 175773,
       "name": "Different Man",
       "url": "https://open.spotify.com/track/2n99h7z08LvHr7Cjcnm1Ub"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saturday Nights REMIX",
-        "url": "https://open.spotify.com/album/5lvoXvi6z9JX8blblImfsb"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 211102,
-      "name": "Saturday Nights REMIX",
-      "url": "https://open.spotify.com/track/0W5oXFrxZNBTIS1eMW9Ofz"
     },
     {
       "added_at": null,
@@ -727,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Georgia on My Mind",
-        "url": "https://open.spotify.com/album/1DoGf1omIVvFOHrVOOAAMa"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 253642,
-      "name": "Georgia on My Mind",
-      "url": "https://open.spotify.com/track/6HiFnWODv0Cn8CkNpYpAoL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kane Brown",
         "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
       },
@@ -755,6 +703,22 @@
       "duration_ms": 182720,
       "name": "Ain't No Stopping Us Now",
       "url": "https://open.spotify.com/track/2I5ao7JannZZMlweLTz0hO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Georgia on My Mind",
+        "url": "https://open.spotify.com/album/1DoGf1omIVvFOHrVOOAAMa"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 253642,
+      "name": "Georgia on My Mind",
+      "url": "https://open.spotify.com/track/6HiFnWODv0Cn8CkNpYpAoL"
     },
     {
       "added_at": null,
@@ -807,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Experiment Extended",
-        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/0y2Zvt89QMAZ9gEYvB5hpO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kane Brown",
         "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
       },
@@ -835,6 +783,22 @@
       "duration_ms": 222320,
       "name": "Better Place",
       "url": "https://open.spotify.com/track/0vtKLjkpdHoysT5ZPcwgA7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/0y2Zvt89QMAZ9gEYvB5hpO"
     },
     {
       "added_at": null,
@@ -927,6 +891,42 @@
       "duration_ms": 191299,
       "name": "Move On",
       "url": "https://open.spotify.com/track/1oHaysAy4fA9EusHpPk5Bn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "duration_ms": 200293,
+      "name": "Setting the Night On Fire (with Chris Young)",
+      "url": "https://open.spotify.com/track/2OeyphE568es62xmmJTt1z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kane Brown",
+        "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "Learning",
+      "url": "https://open.spotify.com/track/4eGr7gXyHETJQ4pMcqzXgu"
     }
   ],
   "unique_name": "This Is Kane Brown",

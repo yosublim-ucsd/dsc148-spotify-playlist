@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mRgcJ.md) - [plain]
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 481 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mRgcJ.md) - [plain]
 | 40 | [EL LOS](https://open.spotify.com/track/6NAFF3diA0iYXsFHvtH94Y) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 3:21 |
 | 41 | [Humilde y Sencillo \(En Vivo\)](https://open.spotify.com/track/5w7W726cvmYEG4WUnNzjfT) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground Desde Culiacan Sin \(En Vivo\)](https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp) | 1:49 |
 | 42 | [Agradecido Estoy](https://open.spotify.com/track/3zxDdpkxNiPAJndAocTnZP) | [Grupo Recien](https://open.spotify.com/artist/4Nnqw0OjHeZHdVOIDUx2br), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Agradecido Estoy](https://open.spotify.com/album/5VdlW7YpcqdDjpkPt2gciG) | 2:45 |
-| 43 | [Simplemente El P](https://open.spotify.com/track/79E2tjgMIO5PvlbvE8E5DG) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [JR Barraza](https://open.spotify.com/artist/0iWFmZPXZ81BaRmXXoTYRw) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:58 |
+| 43 | [Ultimamente Tapando Bocas](https://open.spotify.com/track/6CwgGDlKi58MrCf8nsc8vm) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Ultimamente Tapando Bocas](https://open.spotify.com/album/6vOmMRvQqATYGFPCcygZDP) | 4:00 |
 | 44 | [HUMILDE Y RANCHERO](https://open.spotify.com/track/1AfJbVYMxJpwy8VKmtViS5) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 4:09 |
-| 45 | [Ultimamente Tapando Bocas](https://open.spotify.com/track/6CwgGDlKi58MrCf8nsc8vm) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Ultimamente Tapando Bocas](https://open.spotify.com/album/6vOmMRvQqATYGFPCcygZDP) | 4:00 |
+| 45 | [Simplemente El P](https://open.spotify.com/track/79E2tjgMIO5PvlbvE8E5DG) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [JR Barraza](https://open.spotify.com/artist/0iWFmZPXZ81BaRmXXoTYRw) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:58 |
 | 46 | [Layo Gastelum \(En Vivo\)](https://open.spotify.com/track/3numKkxd3guCAWjwJgLjdH) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 2](https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY) | 2:28 |
-| 47 | [En 1 al 7](https://open.spotify.com/track/4WchYo3B9276gSE7YOJ324) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los Varones De California](https://open.spotify.com/artist/4JtXEZQTssP9XfeaPbi8NF) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:11 |
-| 48 | [Voy Amanecerme](https://open.spotify.com/track/1r3Wdsw2tacwgUIoVNw99T) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 2:18 |
-| 49 | [Calles Californianas](https://open.spotify.com/track/77JRJFvxexYjbf49Q0RF2y) | [Hijos De La Plaza](https://open.spotify.com/artist/6tGfaDLiyGkJy05dbcPEJZ), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Calles Californianas](https://open.spotify.com/album/6022qbvV7Hbn7ArgsgWXkl) | 3:46 |
+| 47 | [Voy Amanecerme](https://open.spotify.com/track/1r3Wdsw2tacwgUIoVNw99T) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 2:18 |
+| 48 | [Calles Californianas](https://open.spotify.com/track/77JRJFvxexYjbf49Q0RF2y) | [Hijos De La Plaza](https://open.spotify.com/artist/6tGfaDLiyGkJy05dbcPEJZ), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Calles Californianas](https://open.spotify.com/album/6022qbvV7Hbn7ArgsgWXkl) | 3:46 |
+| 49 | [En 1 al 7](https://open.spotify.com/track/4WchYo3B9276gSE7YOJ324) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los Varones De California](https://open.spotify.com/artist/4JtXEZQTssP9XfeaPbi8NF) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:11 |
 | 50 | [Aqui Sigo Chevereando \(En Vivo\)](https://open.spotify.com/track/08QMehyraBMIg42REIm9xs) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [En Vivo Desde Tacos Desvelados](https://open.spotify.com/album/2XjhT8SxqQiKmAiYs0nCrF) | 2:52 |
 
-Snapshot ID: `ZoHxgAAAAAC29tM2R3pTCgqIJCeVOLNc`
+Snapshot ID: `ZoNDAAAAAAAX3sYtHFP8n32j1mtcJxQa`

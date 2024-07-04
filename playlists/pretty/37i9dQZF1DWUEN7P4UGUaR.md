@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Joe Mettle
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,122 likes - 50 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,150 likes - 50 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 22 | [Unconditional Love \(feat\. Niiella\)](https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Niiella](https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou) | [Unconditional Love \(feat\. Niiella\)](https://open.spotify.com/album/5AhUfsYA3kwKSEWt8kMvVM) | 3:46 |
 | 23 | [Nyame Tumfo \(Live\)](https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Live in Kumasi](https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz) | 4:40 |
 | 24 | [Something New](https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:23 |
-| 25 | [W' asue Me](https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:24 |
-| 26 | [Ote Me Mu](https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s), [MOG](https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf) | [Ote Me Mu](https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N) | 4:35 |
+| 25 | [Ote Me Mu](https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s), [MOG](https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf) | [Ote Me Mu](https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N) | 4:35 |
+| 26 | [W' asue Me](https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:24 |
 | 27 | [This Far by Grace](https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD) | [Pastor Edwin Dadson](https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH) | [This Far by Grace](https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR) | 4:53 |
 | 28 | [Awurade Ye](https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 4:24 |
 | 29 | [Blessed](https://open.spotify.com/track/2ldQgqEsS4yhMWaxhmu3cE) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Blessed](https://open.spotify.com/album/79NSowDwIZktvvE09CjnrP) | 3:38 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 37 | [VICTORY](https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [VICTORY](https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU) | 3:56 |
 | 38 | [Mile \(I Know\)](https://open.spotify.com/track/728JCkxq0ZdM8BuvtorvJD) | [LUIGI MACLEAN](https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6) | [Mile \(I Know\)](https://open.spotify.com/album/5LoM0v1RExonDL9YhaNoo2) | 5:42 |
 | 39 | [Come and See](https://open.spotify.com/track/23GEN8dLBDYRAiDSno0eP2) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Come and See](https://open.spotify.com/album/6Le36V9KISl0nz7lJicj5g) | 5:42 |
-| 40 | [Lord You are Beautiful](https://open.spotify.com/track/3qaeqyOZfezV0M0dUgQJmy) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI), [Pastor Isaiah Fosu Kwakye Jnr](https://open.spotify.com/artist/0Pl2UadAMjRxVXD1YiVU1R) | [Lord You are Beautiful](https://open.spotify.com/album/3q9KsM7PD2M67L1tsIvzY1) | 9:21 |
-| 41 | [Borborbor Gospel Medley](https://open.spotify.com/track/35kYZLjrvvDkEMZ20ELLT3) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Borborbor Gospel Medley](https://open.spotify.com/album/6AfJx9o8D0VztTeuIxy189) | 8:37 |
-| 42 | [Deeper Medley](https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p) | [Deeper Touch](https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP) | 13:01 |
+| 40 | [Borborbor Gospel Medley](https://open.spotify.com/track/35kYZLjrvvDkEMZ20ELLT3) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Borborbor Gospel Medley](https://open.spotify.com/album/6AfJx9o8D0VztTeuIxy189) | 8:37 |
+| 41 | [Deeper Medley](https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p) | [Deeper Touch](https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP) | 13:01 |
+| 42 | [Lord You are Beautiful](https://open.spotify.com/track/3qaeqyOZfezV0M0dUgQJmy) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI), [Pastor Isaiah Fosu Kwakye Jnr](https://open.spotify.com/artist/0Pl2UadAMjRxVXD1YiVU1R) | [Lord You are Beautiful](https://open.spotify.com/album/3q9KsM7PD2M67L1tsIvzY1) | 9:21 |
 | 43 | [Nyansabuakwa Nyame](https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nyansabuakwa Nyame](https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq) | 5:56 |
 | 44 | [Ghana Local Praise Medley](https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV) | [DOXA WAVE GH](https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6), [Shadrach Mensah Kwesi](https://open.spotify.com/artist/6WRzw7R2P5DfMPXZAulY7e) | [Ghana Local Praise Medley](https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw) | 9:26 |
 | 45 | [Se Mekume Ho](https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Golden Oil](https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm) | 4:34 |

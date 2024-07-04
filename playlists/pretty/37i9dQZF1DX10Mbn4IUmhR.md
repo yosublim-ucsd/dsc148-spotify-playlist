@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > The best in South African and global Pop\. Cover: <a href="https://open.spotify.com/artist/7y1jmIY6xeYivxNTNbyrZJ?si=9QXVFYY0S5C9\_LsGT10Xmg">Craig Lucas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,818 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,826 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 14 | [Blame](https://open.spotify.com/track/4CuOZPjdBYIv2LBH2rjlcO) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Blame](https://open.spotify.com/album/1TaOehFY4w199Js31jlJWq) | 2:21 |
 | 15 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 |
 | 16 | [If Anything's Left](https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [If Anything's Left](https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY) | 2:54 |
-| 17 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 |
+| 17 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 |
 | 18 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
-| 19 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 |
+| 19 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 |
 | 20 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
-| 21 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 |
+| 21 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 |
 | 22 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
 | 23 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |
 | 24 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 |
@@ -40,15 +40,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 30 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 |
 | 31 | [Was It Real](https://open.spotify.com/track/3RhFwpzEmldHJFA2jGNhQ5) | [Ben Rodrigues](https://open.spotify.com/artist/1wcrZQfy4Ou1dB30VESaO0) | [Was It Real](https://open.spotify.com/album/7dm8Dk9c6nXhPQeZ3CkNrP) | 2:45 |
 | 32 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
-| 33 | [high, high, high](https://open.spotify.com/track/4zezDZW6gxas6tCLcYjaT8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [high, high, high](https://open.spotify.com/album/00trTBqMdRTwVaw1HmYuT6) | 2:55 |
-| 34 | [I'm The Drama](https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm The Drama](https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx) | 2:36 |
+| 33 | [I'm The Drama](https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm The Drama](https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx) | 2:36 |
+| 34 | [high, high, high](https://open.spotify.com/track/4zezDZW6gxas6tCLcYjaT8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [high, high, high](https://open.spotify.com/album/00trTBqMdRTwVaw1HmYuT6) | 2:55 |
 | 35 | [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 |
 | 36 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 |
 | 37 | [BLIND](https://open.spotify.com/track/5zr5aYz9hJJJ25wotnbVzH) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [BLIND](https://open.spotify.com/album/4SJLNHToJtakGJw8CwPWfU) | 2:33 |
 | 38 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 |
 | 39 | [Always](https://open.spotify.com/track/31HK5kxZbGVVX6EhtU5FWK) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Always](https://open.spotify.com/album/2gIWzyA5azGmtUtuNOuCeG) | 3:01 |
-| 40 | [Hot Mess](https://open.spotify.com/track/5tewOYXM6gHZ1Lux0JkIjm) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [Hot Mess](https://open.spotify.com/album/3F5Y3MJeZyHUEORFQHpB9q) | 3:31 |
-| 41 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 |
+| 40 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 |
+| 41 | [Hot Mess](https://open.spotify.com/track/5tewOYXM6gHZ1Lux0JkIjm) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [Hot Mess](https://open.spotify.com/album/3F5Y3MJeZyHUEORFQHpB9q) | 3:31 |
 | 42 | [I Hope You Know](https://open.spotify.com/track/7gHVneUdwNT64NMOmoQPbj) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [I Hope You Know](https://open.spotify.com/album/7jWSCcIR5PEUKCIrkePSmo) | 3:19 |
 | 43 | [I Hate That I Care](https://open.spotify.com/track/2PQSqRFBhbPtQ39sHRbZkE) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [I Hate That I Care](https://open.spotify.com/album/76PLp48INGRaOBffDFT5t3) | 2:46 |
 | 44 | [Magic](https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Magic](https://open.spotify.com/album/4ArIrhbEuQiYmNsePoj1OJ) | 3:13 |

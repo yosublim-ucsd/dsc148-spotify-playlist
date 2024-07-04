@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 774405,
+  "num_followers": 774467,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAADDD2r8fr9zi0/OaP69yDJB",
+  "snapshot_id": "ZoNDAAAAAAAPFONDoIzr7pqYzY6Wg8+/",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,38 @@
       "duration_ms": 206580,
       "name": "Viva Las Vengeance",
       "url": "https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death of a Bachelor",
+        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "House of Memories",
+      "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
     },
     {
       "added_at": null,
@@ -47,38 +79,6 @@
       "duration_ms": 193000,
       "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
       "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 186634,
-      "name": "I Write Sins Not Tragedies",
-      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Death of a Bachelor",
-        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "Victorious",
-      "url": "https://open.spotify.com/track/6od5hFv9IT5JHc7NEF9HRv"
     },
     {
       "added_at": null,
@@ -115,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Death of a Bachelor",
+        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 178600,
+      "name": "Victorious",
+      "url": "https://open.spotify.com/track/6od5hFv9IT5JHc7NEF9HRv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Fever You Can't Sweat Out",
         "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 200226,
       "name": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
       "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Death of a Bachelor",
-        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 158666,
-      "name": "Emperor's New Clothes",
-      "url": "https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h"
     },
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Death of a Bachelor",
+        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 158666,
+      "name": "Emperor's New Clothes",
+      "url": "https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Greatest Show",
         "url": "https://open.spotify.com/album/5C8a48NKuieqX1XlJvHzCs"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 174306,
       "name": "The Greatest Show",
       "url": "https://open.spotify.com/track/55PZSFcKQxXH5BOOcDA6yI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Death of a Bachelor",
-        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Don't Threaten Me with a Good Time",
-      "url": "https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY"
     },
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Death of a Bachelor",
+        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Don't Threaten Me with a Good Time",
+      "url": "https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pretty. Odd.",
         "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 191560,
       "name": "Nine in the Afternoon - Single Mix",
       "url": "https://open.spotify.com/track/1S30kHvkkdMkcuCTGSgS41"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Death of a Bachelor",
-        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Death of a Bachelor",
-      "url": "https://open.spotify.com/track/1BECwm5qkaBwlbfo4kpYx8"
     },
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Death of a Bachelor",
+        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Crazy = Genius",
+      "url": "https://open.spotify.com/track/6V68ItawQkQlZhYIf1S86C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vices & Virtues",
         "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 213520,
       "name": "Let's Kill Tonight",
       "url": "https://open.spotify.com/track/14uvyd51Ha7FihKHlOtUig"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Death of a Bachelor",
-        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 196520,
-      "name": "LA Devotee",
-      "url": "https://open.spotify.com/track/2fmCA13dwQQOGBIbIOWRiJ"
     },
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 198040,
-      "name": "Crazy = Genius",
-      "url": "https://open.spotify.com/track/6V68ItawQkQlZhYIf1S86C"
+      "duration_ms": 171520,
+      "name": "The Good, the Bad and the Dirty",
+      "url": "https://open.spotify.com/track/5eoZTdiq4C4aoEfUwAN0ha"
     },
     {
       "added_at": null,
@@ -471,38 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viva Las Vengeance",
-        "url": "https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 229517,
-      "name": "Don't Let The Light Go Out",
-      "url": "https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 196653,
-      "name": "There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of It Yet",
-      "url": "https://open.spotify.com/track/4xSVkbqCz1xaevkjP8xXL5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vices & Virtues",
         "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
       },
@@ -519,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Weird to Live, Too Rare to Die!",
-        "url": "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge"
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
       },
       "artists": [
         {
@@ -528,9 +496,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 189106,
-      "name": "Vegas Lights",
-      "url": "https://open.spotify.com/track/0zewUY3RSh8yaV7q66Okem"
+      "duration_ms": 196653,
+      "name": "There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of It Yet",
+      "url": "https://open.spotify.com/track/4xSVkbqCz1xaevkjP8xXL5"
     },
     {
       "added_at": null,
@@ -555,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty. Odd.",
-        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
+        "name": "Too Weird to Live, Too Rare to Die!",
+        "url": "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge"
       },
       "artists": [
         {
@@ -564,9 +532,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 247773,
-      "name": "Northern Downpour",
-      "url": "https://open.spotify.com/track/49SL9f1Kz73p0bzsNPTY4l"
+      "duration_ms": 189106,
+      "name": "Vegas Lights",
+      "url": "https://open.spotify.com/track/0zewUY3RSh8yaV7q66Okem"
     },
     {
       "added_at": null,
@@ -583,6 +551,38 @@
       "duration_ms": 217026,
       "name": "Ready to Go (Get Me Out of My Mind)",
       "url": "https://open.spotify.com/track/7m4HUtdXRUHEitLIqbVWxf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Time to Dance",
+      "url": "https://open.spotify.com/track/4C2i4NymWRem1LOVEqwWV6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty. Odd.",
+        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 247773,
+      "name": "Northern Downpour",
+      "url": "https://open.spotify.com/track/49SL9f1Kz73p0bzsNPTY4l"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty. Odd.",
-        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "That Green Gentleman (Things Have Changed)",
-      "url": "https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vices & Virtues",
         "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 153653,
       "name": "Always",
       "url": "https://open.spotify.com/track/5VL7pScLlKe4MbB8EAivgA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty. Odd.",
+        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "That Green Gentleman (Things Have Changed)",
+      "url": "https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN"
     },
     {
       "added_at": null,
@@ -667,38 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "Dancing's Not a Crime",
-      "url": "https://open.spotify.com/track/6PFoEnjp0PAe5siGswjH9i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pretty. Odd.",
-        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 293826,
-      "name": "When the Day Met the Night",
-      "url": "https://open.spotify.com/track/7v1b3qExlTFrpFWrtcnUpE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Viva Las Vengeance",
         "url": "https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo"
       },
@@ -711,6 +679,26 @@
       "duration_ms": 210559,
       "name": "Say It Louder",
       "url": "https://open.spotify.com/track/61aS3LDHi60ZZr3ZpHG2AP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High Hopes (White Panda Remix)",
+        "url": "https://open.spotify.com/album/1b5e5xUCsIua9I2YzhDL8q"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        },
+        {
+          "name": "White Panda",
+          "url": "https://open.spotify.com/artist/1mOUOvOOaoTF2b3kDjrety"
+        }
+      ],
+      "duration_ms": 176343,
+      "name": "High Hopes - White Panda Remix",
+      "url": "https://open.spotify.com/track/1wR8ATQr0sxSfp6jGJ5Oe6"
     },
     {
       "added_at": null,
@@ -740,9 +728,57 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
+      "duration_ms": 200037,
+      "name": "Middle Of A Breakup",
+      "url": "https://open.spotify.com/track/18Lvxsm4l6noRNjQW8nS4b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty. Odd.",
+        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 293826,
+      "name": "When the Day Met the Night",
+      "url": "https://open.spotify.com/track/7v1b3qExlTFrpFWrtcnUpE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viva Las Vengeance",
+        "url": "https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
       "duration_ms": 180797,
       "name": "Local God",
       "url": "https://open.spotify.com/track/2RQ0D9N823H0WT1vSy74RM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty. Odd.",
+        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 254386,
+      "name": "Do You Know What I'm Seeing?",
+      "url": "https://open.spotify.com/track/1ac22sFSlj3iaQV2qAsFkK"
     }
   ],
   "unique_name": "This Is Panic! At The Disco",

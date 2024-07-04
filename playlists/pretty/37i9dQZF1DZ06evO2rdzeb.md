@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rdzeb.md) - [plain]
 
 > This is Adrianne Lenker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,458 likes - 36 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,510 likes - 36 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rdzeb.md) - [plain]
 | 11 | [A Love of Some Kind](https://open.spotify.com/track/0Lix58xJgTxJyrHuSM7Jny) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 2:53 |
 | 12 | [Sadness As A Gift](https://open.spotify.com/track/1UpXhetX1s5OXTY5fRjWvu) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 4:19 |
 | 13 | [forwards beckon rebound](https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:09 |
-| 14 | [Row](https://open.spotify.com/track/4Op5aSB6JSVzp7Jhi5hQKp) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [b\-sides](https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK) | 1:51 |
-| 15 | [symbol](https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:49 |
+| 14 | [symbol](https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:49 |
+| 15 | [Row](https://open.spotify.com/track/4Op5aSB6JSVzp7Jhi5hQKp) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [b\-sides](https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK) | 1:51 |
 | 16 | [No Machine](https://open.spotify.com/track/07LZPF6LzXu19GhVyqWF81) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 3:00 |
 | 17 | [ingydar](https://open.spotify.com/track/5CpH0bwau1sW8vtTBQ8Erc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 4:08 |
-| 18 | [Angels](https://open.spotify.com/track/2DsQ4PopTlUlheqyPgPwQz) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [b\-sides](https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK) | 4:08 |
-| 19 | [Miss Misty](https://open.spotify.com/track/1zfxhBOhC0qFa5uIhw7P4s) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [a\-sides](https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1) | 2:47 |
+| 18 | [Miss Misty](https://open.spotify.com/track/1zfxhBOhC0qFa5uIhw7P4s) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [a\-sides](https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1) | 2:47 |
+| 19 | [Angels](https://open.spotify.com/track/2DsQ4PopTlUlheqyPgPwQz) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [b\-sides](https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK) | 4:08 |
 | 20 | [Vampire Empire](https://open.spotify.com/track/2DSxUFEL5v1YT8CwYzhWyf) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 3:55 |
 | 21 | [zombie girl](https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:44 |
 | 22 | [womb](https://open.spotify.com/track/5LrGZi2aSwJfUnP5eE1wBg) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 2:15 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rdzeb.md) - [plain]
 | 35 | [Ringing Bells](https://open.spotify.com/track/5xjqIJjjrLgTD2GBHkDQtJ) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [b\-sides](https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK) | 3:49 |
 | 36 | [blue and red horses](https://open.spotify.com/track/4N2LdRzYxtWKTkHH3G9d1L) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:17 |
 
-Snapshot ID: `ZoHxgAAAAADyrT+Y9o1kpFJQ3qo6IjPT`
+Snapshot ID: `ZoNDAAAAAAA8cFr9pkjY3my79+bZ3SWs`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > Today's top country music! Featuring: <a href="https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2?si=hGObFgbfQnOQ75\_EbuOhDg"> Zach Bryan</a>, Bailey Zimmerman, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more.
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,801 likes - 82 songs - 4 hr 31 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,802 likes - 82 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

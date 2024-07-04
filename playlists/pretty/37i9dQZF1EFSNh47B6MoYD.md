@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 118 | [Purest Of Pain \(A Puro Dolor\)](https://open.spotify.com/track/7KjjvhP1O6MyOb9kJxwpdh) | [Patrizio Buanne](https://open.spotify.com/artist/14JwkiGRzeex4jLuDoWpQ5) | [Italianissimo](https://open.spotify.com/album/2ID42jV1T3BDQdCs1nlk4E) | 3:40 |
 | 119 | [Protesto \- En Vivo](https://open.spotify.com/track/4eQo3wIDC3KWxUskfKsYHg) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 3:55 |
 | 120 | [La Llovizna](https://open.spotify.com/track/4kaAnwEEPtruQuOrrDUh7V) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 4:24 |
-| 121 | [Z4 \(Z4\)](https://open.spotify.com/track/7IIBCmGzZRbbu9j4PsZvBO) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:07 |
-| 122 | [Todo lo que tengo](https://open.spotify.com/track/1y6bwnm3umP0UtXEcHYLRn) | [Alejandro Montaner](https://open.spotify.com/artist/0dZlVKiQoLq5mAoAHpxNXb) | [Todo lo que tengo](https://open.spotify.com/album/6O8M0wUgUXqq93io3jHVW9) | 4:39 |
+| 121 | [Todo lo que tengo](https://open.spotify.com/track/1y6bwnm3umP0UtXEcHYLRn) | [Alejandro Montaner](https://open.spotify.com/artist/0dZlVKiQoLq5mAoAHpxNXb) | [Todo lo que tengo](https://open.spotify.com/album/6O8M0wUgUXqq93io3jHVW9) | 4:39 |
+| 122 | [Z4 \(Z4\)](https://open.spotify.com/track/7IIBCmGzZRbbu9j4PsZvBO) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:07 |
 | 123 | [Más Que Tu Dinero](https://open.spotify.com/track/6mmbhl3Kk4G5rBhEPjYDc5) | [Patricia Manterola](https://open.spotify.com/artist/7qGVAYNNMun6Qf3jTkTGmf) | [Ya Terminé](https://open.spotify.com/album/42c96MawCtXwnoVpBRbvK9) | 3:21 |
 | 124 | [En Exclusiva \- Remix](https://open.spotify.com/track/4vSMpEwHZPX542mhWAvx6o) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq), [Mr\. Sonic](https://open.spotify.com/artist/4dhJ3zznY2Toxn7EZHM6kX) | [En Exclusiva \(Remix\)](https://open.spotify.com/album/0LFBZUCoxIPN6T8imqKXZL) | 3:36 |
 | 125 | [Mejor Con Ella](https://open.spotify.com/track/42ABF5T4ARHBKOf5MNLN0u) | [Áaron Emanuel](https://open.spotify.com/artist/0q3zPjmbWZBCxePVcT6iue) | [Espectacular](https://open.spotify.com/album/4MBaCsoX2HKPr9ERbTylJb) | 4:08 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 142 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
 | 143 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 
-Snapshot ID: `AbVpngAAAAC3NwfMga9+x55WqV9PSw3c`
+Snapshot ID: `AbVvAgAAAAD+my+DwYk9FtYq7VozTg/p`

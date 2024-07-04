@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Kenia OS y Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,494 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,839 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 66 | [ALV \- Remix](https://open.spotify.com/track/48gNck6UTLw6JYsjBiKBiz) | [Manuelvezz](https://open.spotify.com/artist/2LmoZUme24SWelkOHXzacB), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ALV \(Remix\)](https://open.spotify.com/album/16mbgRUuIpG1DdvfziJX0x) | 2:57 |
 | 67 | [2 Pa 2](https://open.spotify.com/track/6fpbFcJ92PmGPwPL3SgIDs) | [GHT Official](https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [2 Pa 2](https://open.spotify.com/album/0LKAvwu5l8qjdnpOYJis1s) | 2:45 |
 | 68 | [DELTAS](https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [DELTAS](https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf) | 2:22 |
-| 69 | [Torai](https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [THE GOAT](https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb) | 2:35 |
-| 70 | [Labios de Cereza 2](https://open.spotify.com/track/5kydBNKLSxvWNjXSSfyWAr) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Capítulo 1: El Regreso Del Dragon](https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0) | 3:46 |
+| 69 | [Labios de Cereza 2](https://open.spotify.com/track/5kydBNKLSxvWNjXSSfyWAr) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Capítulo 1: El Regreso Del Dragon](https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0) | 3:46 |
+| 70 | [Torai](https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [THE GOAT](https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb) | 2:35 |
 | 71 | [Rosita Fresita](https://open.spotify.com/track/2XUhIYueWwSJvgPJ5L5VNF) | [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq), [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [Rosita Fresita](https://open.spotify.com/album/0G40KBVT8jMVFKIfVfe6Hn) | 2:05 |
 | 72 | [La Fiesta](https://open.spotify.com/track/26ffMA2QIHjbQZpBlv6GmA) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [José Guicho](https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [La Fiesta](https://open.spotify.com/album/4kAXXZpIKhMlmj62OBnj7g) | 2:32 |
 | 73 | [todo me vale madre](https://open.spotify.com/track/2JXwNWEICIo5Utov8kBot1) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [todo me vale madre](https://open.spotify.com/album/6Un1jeqwMNafxhOHfjYXEx) | 2:56 |

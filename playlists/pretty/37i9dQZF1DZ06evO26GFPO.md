@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 
 > This is LUDMILLA\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,016 likes - 45 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,118 likes - 45 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 44 | [Señales](https://open.spotify.com/track/2t8GffKl3m6MWa0lPqjtqs) | [Nyno Vargas](https://open.spotify.com/artist/2dkbKcHXhN7ooFBdqAV76G), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Señales](https://open.spotify.com/album/582fES9o6jKWw9wsefl9Ef) | 3:38 |
 | 45 | [Me Arrepender \- Ao Vivo](https://open.spotify.com/track/46WAJyMF8mNDcn9CcsTcmT) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:20 |
 
-Snapshot ID: `ZoHxgAAAAACSn2Fza7afQYxKK0qf/QvU`
+Snapshot ID: `ZoNDAAAAAABlvIaiG9t/FlJ0RrMIPlfX`

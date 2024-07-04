@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 130905,
+  "num_followers": 130941,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -259,18 +259,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Close to Paradise",
-        "url": "https://open.spotify.com/album/056yp65HkG28gOvkLPWAem"
+        "name": "Old Love",
+        "url": "https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg"
       },
       "artists": [
         {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
         }
       ],
-      "duration_ms": 187373,
-      "name": "The Great Escape",
-      "url": "https://open.spotify.com/track/1GIPP103zfsythULEpsmdw"
+      "duration_ms": 205769,
+      "name": "Old Love",
+      "url": "https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -291,18 +291,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Old Love",
-        "url": "https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg"
+        "name": "Close to Paradise",
+        "url": "https://open.spotify.com/album/056yp65HkG28gOvkLPWAem"
       },
       "artists": [
         {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
         }
       ],
-      "duration_ms": 205769,
-      "name": "Old Love",
-      "url": "https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH"
+      "duration_ms": 187373,
+      "name": "The Great Escape",
+      "url": "https://open.spotify.com/track/1GIPP103zfsythULEpsmdw"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Tu ne mourras pas",
-        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 201557,
-      "name": "Tu trembleras encore",
-      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Live Slow Die Wise",
         "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 218160,
       "name": "Sweetpie",
       "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Tu ne mourras pas",
+        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 201557,
+      "name": "Tu trembleras encore",
+      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Live Slow Die Wise",
-        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
-      },
-      "artists": [
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 263720,
-      "name": "As My Old Man Always Said",
-      "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "it takes 2",
         "url": "https://open.spotify.com/album/2I2JlWbhLZkkJszoaXEhgn"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 263720,
+      "name": "As My Old Man Always Said",
+      "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Cantalou",
         "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Strange Medicine",
-        "url": "https://open.spotify.com/album/5lQLi9nBKgQvdhjceYjR6D"
-      },
-      "artists": [
-        {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
-        }
-      ],
-      "duration_ms": 219910,
-      "name": "Maker Taker",
-      "url": "https://open.spotify.com/track/4Eg7gCb7YW3ASrcjNMrHTw"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Encounter",
         "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 219760,
       "name": "Closely",
       "url": "https://open.spotify.com/track/08Sf05VZzVWXrBfUFX6fwa"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Strange Medicine",
+        "url": "https://open.spotify.com/album/5lQLi9nBKgQvdhjceYjR6D"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "duration_ms": 219910,
+      "name": "Maker Taker",
+      "url": "https://open.spotify.com/track/4Eg7gCb7YW3ASrcjNMrHTw"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Parmi les autres",
-        "url": "https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw"
+        "name": "Bright Green Vibrant Gray",
+        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
       },
       "artists": [
         {
-          "name": "Elliot Maginot",
-          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Parmi les autres",
-      "url": "https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz"
+      "duration_ms": 219507,
+      "name": "Bright Green Vibrant Gray",
+      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Bright Green Vibrant Gray",
-        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
+        "name": "Parmi les autres",
+        "url": "https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw"
       },
       "artists": [
         {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+          "name": "Elliot Maginot",
+          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
         }
       ],
-      "duration_ms": 219507,
-      "name": "Bright Green Vibrant Gray",
-      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
+      "duration_ms": 219000,
+      "name": "Parmi les autres",
+      "url": "https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Goodnight Summerland",
+        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 256199,
+      "name": "Saying Something",
+      "url": "https://open.spotify.com/track/2lnDQ3UhWyiW74IW8IPB4Q"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Dans tes bras",
         "url": "https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN"
       },
@@ -855,22 +871,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Goodnight Summerland",
-        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 256199,
-      "name": "Saying Something",
-      "url": "https://open.spotify.com/track/2lnDQ3UhWyiW74IW8IPB4Q"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "C'est Plus Comme Avant (Version Acoustique)",
         "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
       },
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Les joailliers (piano, voix)",
-        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
+        "name": "Carrie",
+        "url": "https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub"
       },
       "artists": [
         {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
         }
       ],
-      "duration_ms": 197111,
-      "name": "Les joailliers (piano, voix)",
-      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
+      "duration_ms": 242193,
+      "name": "Carrie",
+      "url": "https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -931,22 +931,6 @@
       "duration_ms": 167920,
       "name": "Nous sommes",
       "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Carrie",
-        "url": "https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub"
-      },
-      "artists": [
-        {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
-        }
-      ],
-      "duration_ms": 242193,
-      "name": "Carrie",
-      "url": "https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -983,6 +967,38 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Goodnight Summerland",
+        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 196150,
+      "name": "The Animals",
+      "url": "https://open.spotify.com/track/751PUtzjp2nrpSsp3sAvgL"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Les joailliers (piano, voix)",
+        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 197111,
+      "name": "Les joailliers (piano, voix)",
+      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "L'\u00e9t\u00e9 indien de ta vie",
         "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Goodnight Summerland",
-        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 196150,
-      "name": "The Animals",
-      "url": "https://open.spotify.com/track/751PUtzjp2nrpSsp3sAvgL"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Valhalla Dancer",
         "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
       },
@@ -1043,6 +1043,22 @@
       "duration_ms": 223533,
       "name": "Valhalla Dancer",
       "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Swimmer",
+        "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 213107,
+      "name": "Swimmer",
+      "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Swimmer",
-        "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
+        "name": "ET SI, DE/main l'oiseau",
+        "url": "https://open.spotify.com/album/4NJy1ueaJ0uqJwNDsycSVa"
       },
       "artists": [
         {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
         }
       ],
-      "duration_ms": 213107,
-      "name": "Swimmer",
-      "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
+      "duration_ms": 206468,
+      "name": "main l\u2019oiseau",
+      "url": "https://open.spotify.com/track/1b00k9gcQ9SxLK0aLXlUpa"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1143,22 +1159,6 @@
       "duration_ms": 273933,
       "name": "M\u00e8res",
       "url": "https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "ET SI, DE/main l'oiseau",
-        "url": "https://open.spotify.com/album/4NJy1ueaJ0uqJwNDsycSVa"
-      },
-      "artists": [
-        {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
-        }
-      ],
-      "duration_ms": 206468,
-      "name": "main l\u2019oiseau",
-      "url": "https://open.spotify.com/track/1b00k9gcQ9SxLK0aLXlUpa"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "1969",
-        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
-      },
-      "artists": [
-        {
-          "name": "1969 Collective",
-          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
-        },
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 257838,
-      "name": "Pleure pas pour moi",
-      "url": "https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Tu ne seras jamais l\u00e0",
         "url": "https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 187800,
       "name": "Tu ne seras jamais l\u00e0",
       "url": "https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "1969",
+        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
+      },
+      "artists": [
+        {
+          "name": "1969 Collective",
+          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
+        },
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 257838,
+      "name": "Pleure pas pour moi",
+      "url": "https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Ce que je te donne ne dispara\u00eet pas",
-        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phanie Boulay",
-          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Des histoires qui ne seront jamais finies",
-      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Elle danse",
         "url": "https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 149015,
       "name": "Elle danse",
       "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Ce que je te donne ne dispara\u00eet pas",
+        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phanie Boulay",
+          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Des histoires qui ne seront jamais finies",
+      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "The Paradise Club",
+        "url": "https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7"
+      },
+      "artists": [
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+        }
+      ],
+      "duration_ms": 184680,
+      "name": "1000 Bornes",
+      "url": "https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
         "url": "https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO"
       },
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "The Paradise Club",
-        "url": "https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7"
-      },
-      "artists": [
-        {
-          "name": "Claudia Bouvette",
-          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "1000 Bornes",
-      "url": "https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "En attendant l'aube",
         "url": "https://open.spotify.com/album/3lGpnDRketjClNuE2F0Wyd"
       },
@@ -1447,26 +1447,6 @@
       "duration_ms": 222186,
       "name": "En attendant l'aube",
       "url": "https://open.spotify.com/track/2j46EsGcn2W7AJrqKTJ9yF"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Tu me vois comme je suis",
-        "url": "https://open.spotify.com/album/0ENy8em7mPxpasIcTxnuSv"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
-        },
-        {
-          "name": "Corail",
-          "url": "https://open.spotify.com/artist/6gBH7tdzTkIiWtVw8JCwzr"
-        }
-      ],
-      "duration_ms": 277522,
-      "name": "Vas-tu me comprendre?",
-      "url": "https://open.spotify.com/track/2zL8O2xVwDaM9KnRByeLm8"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1499,6 +1479,26 @@
       "duration_ms": 244893,
       "name": "Kil",
       "url": "https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Tu me vois comme je suis",
+        "url": "https://open.spotify.com/album/0ENy8em7mPxpasIcTxnuSv"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        },
+        {
+          "name": "Corail",
+          "url": "https://open.spotify.com/artist/6gBH7tdzTkIiWtVw8JCwzr"
+        }
+      ],
+      "duration_ms": 277522,
+      "name": "Vas-tu me comprendre?",
+      "url": "https://open.spotify.com/track/2zL8O2xVwDaM9KnRByeLm8"
     },
     {
       "added_at": "2024-06-28 04:00:00",

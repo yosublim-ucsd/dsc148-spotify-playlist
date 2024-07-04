@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H5LUI.md) - [plain]
 
 > This is Leon Leiden\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,939 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,941 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Todo Mal](https://open.spotify.com/track/1T7o9INhyRVJ3yz40AOpJ2) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Todo Mal](https://open.spotify.com/album/2tOo8QwuEz1bYxLBc9X4aa) | 3:05 |
-| 2 | [Modo Melancólico](https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Modo Melancólico](https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1) | 2:46 |
-| 3 | [plan v2](https://open.spotify.com/track/6ZDiojHljqoc2nYMZtkfiU) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [plan v2](https://open.spotify.com/album/4JdXxSuPmZMfIdAzmwrQVC) | 3:19 |
+| 2 | [plan v2](https://open.spotify.com/track/6ZDiojHljqoc2nYMZtkfiU) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [plan v2](https://open.spotify.com/album/4JdXxSuPmZMfIdAzmwrQVC) | 3:19 |
+| 3 | [Desde Que Te Vi](https://open.spotify.com/track/6JheR1ZMJyEJpFedDY1qme) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Desde Que Te Vi](https://open.spotify.com/album/6tajRRPxnmdcp24vdnq6Vd) | 2:51 |
 | 4 | [Desamor Feliz \- Remix](https://open.spotify.com/track/4JRDTjUxA2bO4bF3JxOwt2) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Desamor Feliz \(Remix\)](https://open.spotify.com/album/06IFSa0PSph2dZSLuZKmpA) | 2:56 |
 | 5 | [A Las 3](https://open.spotify.com/track/6aDI3fxbf3PdDz9z8rK9fr) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [A Las 3](https://open.spotify.com/album/431FDuXe10BcviQ9o3T9Ge) | 2:42 |
 | 6 | [Platicamos](https://open.spotify.com/track/3VZvrKpBo0c6gelCsnRpCp) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Amor Escupido](https://open.spotify.com/album/14WhMR0dMyEdhoNVXnvG7w) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H5LUI.md) - [plain]
 | 49 | [COMOSINADA](https://open.spotify.com/track/2v4RtwYOiTbvtQUueyU9Bz) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [mp3.](https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6) | 2:50 |
 | 50 | [Savana](https://open.spotify.com/track/1W7DaHbDQXBReaBCFylleA) | [Atl Garza](https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Una Fresa](https://open.spotify.com/album/4wI5wYLCNe0HamNt0YAoZs) | 2:48 |
 
-Snapshot ID: `ZoHxgAAAAAD/ihWvicgthc7jyHQ+PEtn`
+Snapshot ID: `ZoNDAAAAAABkEQtzgLx/HVtbiW1t3aIw`

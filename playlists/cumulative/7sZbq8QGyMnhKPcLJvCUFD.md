@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-558 songs - 1 day 4 hr 28 min
+559 songs - 1 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,6 +528,7 @@
 | [Want It All](https://open.spotify.com/track/6W3aytvSWp6RfbSGtTSbjY) | [MVSTAFA](https://open.spotify.com/artist/6Z7B1Ns8xEu05hFDCCwE1f), [Mqx](https://open.spotify.com/artist/59o1kyNFOv04hcGRuWhWs9) | [Want It All](https://open.spotify.com/album/16UUTrnENXTTwnRqIuLEKf) | 2:32 | 2024-05-02 |  |
 | [War Machine](https://open.spotify.com/track/6SRBp5BQJJkuzMw9aSpb8t) | [Dryskill](https://open.spotify.com/artist/5llLxfNmypH6ujbtB5ZoVN), [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [War Machine](https://open.spotify.com/album/2NIiZjKbDekTfPAtQSwujY) | 3:17 | 2022-10-25 | 2023-08-10 |
 | [War Zone](https://open.spotify.com/track/134KuDqugUFSbDUk0kZmLk) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X) | [War Zone](https://open.spotify.com/album/7rlRz6xYkbFHIGGxMOvuB2) | 3:03 | 2023-08-08 | 2023-12-14 |
+| [Warzone](https://open.spotify.com/track/7Co8vfxAG0mHm5s6YG90wc) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Zaug](https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1) | [Warzone](https://open.spotify.com/album/5aRklPNMfncol1femV9Meq) | 2:42 | 2024-07-03 |  |
 | [Waves](https://open.spotify.com/track/6qp33z152vB5FvAcjRhqvw) | [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [Waves](https://open.spotify.com/album/2XcoOnNaaDZ86i5F3RdP2g) | 4:27 | 2023-12-13 | 2024-02-28 |
 | [We Are](https://open.spotify.com/track/5sMEi6i03q7JUh2xRTL02D) | [Jo Cohen](https://open.spotify.com/artist/0Szh8DhUXEL2iujQ9cdS4q), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [NCS: The Best of 2016](https://open.spotify.com/album/2PbNOsRy7jYiiljcig1xeQ) | 3:56 | 2023-08-08 | 2023-12-14 |
 | [WHAT](https://open.spotify.com/track/7gPFNOXap9pXQpHHYNFQRI) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [WHAT](https://open.spotify.com/album/05K4uCusOkFEIGFCdfQYvo) | 3:44 | 2024-01-03 |  |

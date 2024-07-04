@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > rock never dies\. feel it in your bones\. 📸: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,574,310 likes - 76 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,574,045 likes - 76 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 ### [This Is Kenny G](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3XRXXy)
 
-> This Is Kenny G\. Los temas esenciales, todos en una lista.
+> This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,844 likes - 46 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,891 likes - 46 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 17 | [Mi manchi](https://open.spotify.com/track/0czae8hEbfn2zSF5iKCZoE) | [Fabrizio Berlincioni](https://open.spotify.com/artist/7EI7G45KH76Fdywj5JhX0h), [Gianfranco Fasano](https://open.spotify.com/artist/5hTXF4Di7MKw9UeTIBE52A), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Amore \(Remastered\)](https://open.spotify.com/album/1sZg35UlVHKJzigDlx2uSJ) | 3:34 |
 | 18 | [Going Home \- Edit](https://open.spotify.com/track/7klcN1Hjle0xBe2KQsYGxY) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:16 |
 | 19 | [The Wedding Song](https://open.spotify.com/track/0si6hASQu9bU9FPB6eOa63) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 3:21 |
-| 20 | [Lullaby Tres](https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Lullaby Tres](https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3) | 2:04 |
-| 21 | [Songbird](https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Duotones](https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1) | 5:03 |
+| 20 | [Songbird](https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Duotones](https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1) | 5:03 |
+| 21 | [Lullaby Tres](https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Lullaby Tres](https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3) | 2:04 |
 | 22 | [The Way We Were](https://open.spotify.com/track/2jpLlNuAPP7vZY7ohQh5ka) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 2:50 |
 | 23 | [In The Rain](https://open.spotify.com/track/41bWhFyo0NndpMMedZGMl0) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 5:00 |
 | 24 | [Everlasting](https://open.spotify.com/track/4wukH3ea6NqekDg98qB9F2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 4:16 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 45 | [Edelweiss](https://open.spotify.com/track/00Cs2pIEXYOWATPGeQywMm) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Edelweiss](https://open.spotify.com/album/6W9KJZCfnCPm1IpoEgMrXb) | 3:27 |
 | 46 | [Don't Know Why \(feat\. David Benoit\)](https://open.spotify.com/track/6OYTX5S8bqRA7CeUtpzBR5) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [David Benoit](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) | [At Last...The Duets Album](https://open.spotify.com/album/4XyegEYaF8gFxDI4OB3T4W) | 4:32 |
 
-Snapshot ID: `ZoHxgAAAAABI7HW7+qTbshDZj8gr6ynJ`
+Snapshot ID: `ZoNDAAAAAAAwtA4BdyLbzbRd4dCBcfaH`

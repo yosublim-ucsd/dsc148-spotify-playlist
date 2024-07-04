@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste talentuose artiste italiane! Cover: CLARA
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,928 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,951 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

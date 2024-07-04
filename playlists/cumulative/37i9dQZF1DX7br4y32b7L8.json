@@ -633,6 +633,36 @@
     },
     {
       "album": {
+        "name": "Back It Up and Dump It (Dump Truck)",
+        "url": "https://open.spotify.com/album/71hlcT83y4lzW8a2nn0PyM"
+      },
+      "artists": [
+        {
+          "name": "GC Eternal",
+          "url": "https://open.spotify.com/artist/0ZOCqmN2WKW2Pd4X5soZ02"
+        },
+        {
+          "name": "Kinfolk Thugs",
+          "url": "https://open.spotify.com/artist/3HKeu1ODauzWmisaf17RBS"
+        },
+        {
+          "name": "Tyme Bomb",
+          "url": "https://open.spotify.com/artist/0mDzqk1BoBvyKUYfcg6Zbd"
+        },
+        {
+          "name": "Tre'v",
+          "url": "https://open.spotify.com/artist/3G4S7c0YyMbTNf09kdVybp"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207800,
+      "name": "Back It up and Dump It (Dump Truck)",
+      "url": "https://open.spotify.com/track/3hFnQwSt5zAWaYpLuMSWB7"
+    },
+    {
+      "album": {
         "name": "Back To Black (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
@@ -644,7 +674,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 241293,
       "name": "Back To Black",
       "url": "https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w"
@@ -1259,6 +1289,32 @@
     },
     {
       "album": {
+        "name": "Bulletproof (Techno)",
+        "url": "https://open.spotify.com/album/2UGRcy0PFLyVeSFj8LjM2B"
+      },
+      "artists": [
+        {
+          "name": "Hyper Hamster",
+          "url": "https://open.spotify.com/artist/2zEmE2fUy3FPemLS0WI5fM"
+        },
+        {
+          "name": "PET3RPUNX",
+          "url": "https://open.spotify.com/artist/1Z0DRUany5l8E7J6XNRlmC"
+        },
+        {
+          "name": "Techno Cats",
+          "url": "https://open.spotify.com/artist/4uMWA9vlZvYaMf19OoQ0Lh"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142302,
+      "name": "Bulletproof - Techno",
+      "url": "https://open.spotify.com/track/3YqNM0sEyoxa7r5qRrYqRp"
+    },
+    {
+      "album": {
         "name": "Bunda",
         "url": "https://open.spotify.com/album/1rK2NHrwrMKitKdC58GIf1"
       },
@@ -1278,6 +1334,24 @@
       "duration_ms": 103972,
       "name": "Bunda",
       "url": "https://open.spotify.com/track/0dibU6Iktkhk94uPKESVFm"
+    },
+    {
+      "album": {
+        "name": "Inside Out (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168760,
+      "name": "Bundle of Joy",
+      "url": "https://open.spotify.com/track/3eTgg18rKBD30Hef1gv0wz"
     },
     {
       "album": {
@@ -1996,7 +2070,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 171428,
       "name": "DNA",
       "url": "https://open.spotify.com/track/7omACbUaNfQohJbydBWiw3"
@@ -2368,7 +2442,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 201946,
       "name": "Eenie Meenie",
       "url": "https://open.spotify.com/track/4vVTI94F9uJ8lHNDWKv0i2"
@@ -2650,7 +2724,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 129522,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
@@ -2868,7 +2942,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 136692,
       "name": "Flitsmeister",
       "url": "https://open.spotify.com/track/4Y7tzYw5EMJONPYzbtvtqp"
@@ -3218,7 +3292,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -4404,7 +4478,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 163018,
       "name": "Komkommer",
       "url": "https://open.spotify.com/track/29ULZaSlDqboEirmrbaoKn"
@@ -5468,7 +5542,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
@@ -5526,6 +5600,32 @@
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "album": {
+        "name": "MOE",
+        "url": "https://open.spotify.com/album/3Vv2Qyr9KWPn7ACaAEEIi7"
+      },
+      "artists": [
+        {
+          "name": "Ruthless",
+          "url": "https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F"
+        },
+        {
+          "name": "Hans Glock",
+          "url": "https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s"
+        },
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164129,
+      "name": "MOE",
+      "url": "https://open.spotify.com/track/0BU7zlfb196ENQePTyROSm"
     },
     {
       "album": {
@@ -6008,7 +6108,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 176027,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
@@ -6124,7 +6224,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 86983,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
@@ -6200,7 +6300,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 162104,
       "name": "Nostalgie",
       "url": "https://open.spotify.com/track/70QBnYP5lr1nhF3isSOJfj"
@@ -7296,7 +7396,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 145571,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs"
@@ -7484,7 +7584,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 275506,
       "name": "Ride Like the Wind",
       "url": "https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk"
@@ -7800,7 +7900,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 151296,
       "name": "Schijnbaar Niet Waar",
       "url": "https://open.spotify.com/track/1WITbzl4lGLokvRBIqKWVj"
@@ -8510,7 +8610,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 171655,
       "name": "Streken",
       "url": "https://open.spotify.com/track/5KXZnw9AK9H2zLqykIvUIZ"
@@ -9895,6 +9995,24 @@
     },
     {
       "album": {
+        "name": "Black Is Golden",
+        "url": "https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK"
+      },
+      "artists": [
+        {
+          "name": "Wyn Starks",
+          "url": "https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203567,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/5rnA7GuOZvPWYHuydZ08zx"
+    },
+    {
+      "album": {
         "name": "Money En Gang En Mixtape",
         "url": "https://open.spotify.com/album/5xmTC3gfSq84ZvFQOvYk2T"
       },
@@ -10010,6 +10128,28 @@
       "duration_ms": 296975,
       "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
       "url": "https://open.spotify.com/track/2qp7rTcFVz67fz88JSnbkU"
+    },
+    {
+      "album": {
+        "name": "Yo Bunny",
+        "url": "https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2"
+      },
+      "artists": [
+        {
+          "name": "prodbycpkshawn",
+          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
+        },
+        {
+          "name": "Ugly Andz.",
+          "url": "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110471,
+      "name": "Yo Bunny",
+      "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"
     },
     {
       "album": {

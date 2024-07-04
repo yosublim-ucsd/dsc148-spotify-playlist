@@ -1,6 +1,6 @@
 {
   "description": "Sommer, Sonne, Lieblingshits  \u2600\ufe0f",
-  "num_followers": 1511758,
+  "num_followers": 1511879,
   "original_name": "Sommerhits 2024",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,26 @@
     {
       "added_at": "2024-07-01 12:57:26",
       "album": {
+        "name": "C,XOXO",
+        "url": "https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 150746,
+      "name": "HOT UPTOWN (feat. Drake)",
+      "url": "https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd"
+    },
+    {
+      "added_at": "2024-07-01 12:57:26",
+      "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 163034,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU"
-    },
-    {
-      "added_at": "2024-07-01 12:57:26",
-      "album": {
-        "name": "C,XOXO",
-        "url": "https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 150746,
-      "name": "HOT UPTOWN (feat. Drake)",
-      "url": "https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd"
     },
     {
       "added_at": "2024-07-01 12:57:26",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2024-07-01 12:57:26",
       "album": {
-        "name": "BET",
-        "url": "https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ"
+        "name": "PIANO",
+        "url": "https://open.spotify.com/album/1CMyFYzNKvtF5POZq5OgYv"
       },
       "artists": [
         {
-          "name": "METTE",
-          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+          "name": "Kelvin Jones",
+          "url": "https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG"
         }
       ],
-      "duration_ms": 198671,
-      "name": "BET",
-      "url": "https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy"
+      "duration_ms": 177100,
+      "name": "PIANO",
+      "url": "https://open.spotify.com/track/0m1AgVZRzaB7FL5s6oqOWO"
     },
     {
       "added_at": "2024-07-01 12:57:26",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-07-01 12:57:26",
       "album": {
-        "name": "PIANO",
-        "url": "https://open.spotify.com/album/1CMyFYzNKvtF5POZq5OgYv"
+        "name": "BET",
+        "url": "https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ"
       },
       "artists": [
         {
-          "name": "Kelvin Jones",
-          "url": "https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG"
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
         }
       ],
-      "duration_ms": 177100,
-      "name": "PIANO",
-      "url": "https://open.spotify.com/track/0m1AgVZRzaB7FL5s6oqOWO"
+      "duration_ms": 198671,
+      "name": "BET",
+      "url": "https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy"
     },
     {
       "added_at": "2024-07-01 12:57:26",

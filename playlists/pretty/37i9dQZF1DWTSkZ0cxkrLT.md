@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 
 > Música ideal para tomar el té y relajar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,314 likes - 90 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,327 likes - 90 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 38 | [La Noche Sin Ti](https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Ahyre](https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN) | 4:29 |
 | 39 | [Amanece en la Ruta](https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:14 |
 | 40 | [Años Luz](https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Recuerdos](https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu) | 3:13 |
-| 41 | [A Primera Vista](https://open.spotify.com/track/4Xunts6NLofGZCFEICTDTg) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [A Roar Of Southern Clouds](https://open.spotify.com/album/2deE5hHK0ijX8KNVobCmfz) | 3:05 |
-| 42 | [Algo Es Mejor](https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Algo Es Mejor](https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r) | 4:01 |
+| 41 | [Algo Es Mejor](https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Algo Es Mejor](https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r) | 4:01 |
+| 42 | [A Primera Vista](https://open.spotify.com/track/4Xunts6NLofGZCFEICTDTg) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [A Roar Of Southern Clouds](https://open.spotify.com/album/2deE5hHK0ijX8KNVobCmfz) | 3:05 |
 | 43 | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q) | 2:58 |
 | 44 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 |
 | 45 | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/3Riytw4egMe357gWrANdAr) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3) | 3:34 |
@@ -70,16 +70,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 60 | [Derrumbe](https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Derrumbe](https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W) | 2:11 |
 | 61 | [Soltar](https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Puñal](https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI) | 3:38 |
 | 62 | [Quiero Mejor](https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Quiero Mejor](https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1) | 3:03 |
-| 63 | [Oración del remanso](https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd) | [Jorge Fandermole](https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet) | [Navega](https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx) | 5:06 |
-| 64 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 |
+| 63 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 |
+| 64 | [Oración del remanso](https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd) | [Jorge Fandermole](https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet) | [Navega](https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx) | 5:06 |
 | 65 | [Cuídame](https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Sofá](https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4) | 4:24 |
 | 66 | [Con Las Ganas](https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Con Las Ganas](https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9) | 4:01 |
 | 67 | [El Amor en Mi Vida](https://open.spotify.com/track/2uBYq9tm9G5UapyQmbeU6K) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [El Amor en Mi Vida](https://open.spotify.com/album/0it2idFNTKDK9DzyxL6vy1) | 3:42 |
 | 68 | [Ganas](https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Ganas](https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0) | 4:14 |
 | 69 | [Tardes de Melancolía](https://open.spotify.com/track/51mmo3YuNgD3SvK7G5HHcv) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Besos en la Espalda](https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3) | 3:30 |
 | 70 | [Por Amor al Arte](https://open.spotify.com/track/2M6gFpCKX6IxkdQZrzi7r6) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Por Amor al Arte](https://open.spotify.com/album/5hpbQTlqiYxmrwLn4IYQls) | 2:05 |
-| 71 | [Bossa & People](https://open.spotify.com/track/4yFh5okeS2u5iO5vAsBsHc) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Beatriz](https://open.spotify.com/album/1pWjhnDNd6hDpFGsGT55bR) | 5:02 |
-| 72 | [Sensei](https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sensei](https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X) | 2:54 |
+| 71 | [Sensei](https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sensei](https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X) | 2:54 |
+| 72 | [Bossa & People](https://open.spotify.com/track/4yFh5okeS2u5iO5vAsBsHc) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Beatriz](https://open.spotify.com/album/1pWjhnDNd6hDpFGsGT55bR) | 5:02 |
 | 73 | [Inconsciente Colectivo](https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [En La Vereda del Sol](https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U) | 2:53 |
 | 74 | [Tu Pirata Soy Yo](https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Tu Pirata Soy Yo](https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU) | 2:47 |
 | 75 | [Oye Mi Amor](https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby) | [Anabel](https://open.spotify.com/artist/12IF5EUgrWK8dnnlLQaaTx) | [Oye Mi Amor](https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY) | 3:15 |
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 87 | [Una Vez Más](https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Una Vez Más](https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi) | 3:37 |
 | 88 | [El Mundo Siempre Estuvo Dividido en Dos](https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [El Mundo Siempre Estuvo Dividido en Dos](https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh) | 2:05 |
 | 89 | [Las Cosas Tienen Movimiento](https://open.spotify.com/track/35CG9WjAKJSvUaWRaJr5um) | [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Modelo Para Armar](https://open.spotify.com/album/4mo9qZYKGJK7Nk2vJr5age) | 4:20 |
-| 90 | [Soy lo que Doy](https://open.spotify.com/track/4Sq2A3LUiytnHVO4WWVAtH) | [El Árbol de Diego](https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Soy lo que Doy](https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X) | 3:37 |
+| 90 | [Por el Bien de los Dos](https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 2:39 |
 
 Snapshot ID: `ZmuyMAAAAACUOWsAJaC+RjKX34gc5aV5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Warren G
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,709 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,940 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 36 | [Summertime In The LBC](https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN) | [Dove Shack](https://open.spotify.com/artist/7DMSw5KOzlQ7xdub0vrcVF) | [This Is The Shack](https://open.spotify.com/album/3BlvmwV8FoCQdTs36eHTWU) | 3:58 |
 | 37 | [Hood Took Me Under](https://open.spotify.com/track/6QJOEIPT8g3fjdFxibpy2F) | [Compton's Most Wanted](https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg) | [Music To Driveby](https://open.spotify.com/album/5CfgVk92KTwjlfB66jAEvS) | 3:39 |
 | 38 | [Lay Low](https://open.spotify.com/track/0YHI5hydPPth6J5UOzdLDX) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Master P](https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [Butch Cassidy](https://open.spotify.com/artist/3uISNNuONokIh21KiNharS), [Tha Eastsidaz](https://open.spotify.com/artist/51FyBBOW464toW099BsW8z) | [Tha Last Meal](https://open.spotify.com/album/71VPCdeQQs1dmyVbflhPjX) | 3:43 |
-| 39 | [La Raza](https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar) | [Kid Frost](https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG) | [Hispanic Causing Panic](https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX) | 3:29 |
-| 40 | [Face the World](https://open.spotify.com/track/0A1owXuxPwqTQPqOJcmUGz) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 3:57 |
+| 39 | [Face the World](https://open.spotify.com/track/0A1owXuxPwqTQPqOJcmUGz) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 3:57 |
+| 40 | [La Raza](https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar) | [Kid Frost](https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG) | [Hispanic Causing Panic](https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX) | 3:29 |
 | 41 | [Ghetto Bird \- Remastered](https://open.spotify.com/track/6M3lqzrkzSKrBehkeAxTXc) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Lethal Injection](https://open.spotify.com/album/7JlCbNWZszAdVKZdtHFQ5p) | 3:51 |
 | 42 | [Just Another Day](https://open.spotify.com/track/21GzqgubvWR6Iks9IbDmJE) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Get In Where You Fit In](https://open.spotify.com/album/21dTXIKc4O3tNNHMiOsOQ1) | 7:21 |
 | 43 | [Tonite](https://open.spotify.com/track/2hluGQtmPypU3tsQudCQ3U) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Quik Is The Name](https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B) | 5:23 |

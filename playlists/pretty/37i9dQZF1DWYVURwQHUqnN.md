@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Leto
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,088,077 likes - 38 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,088,212 likes - 38 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

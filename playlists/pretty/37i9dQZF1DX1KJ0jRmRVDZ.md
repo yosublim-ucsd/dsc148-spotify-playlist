@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,323 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,342 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,23 +26,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 16 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |
 | 17 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 |
 | 18 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 |
-| 19 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 |
-| 20 | [Value](https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Value](https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf) | 3:05 |
-| 21 | [I I I](https://open.spotify.com/track/0p5JKxO0pVynWVcWm3lMiP) | [宝鐘マリン](https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk), [Kobo Kanaeru](https://open.spotify.com/artist/6AjW1aE0OlIoRGdnwbHgP2) | [I I I](https://open.spotify.com/album/6khDJU0RLPOsxLWNk8HJQs) | 3:05 |
+| 19 | [I I I](https://open.spotify.com/track/0p5JKxO0pVynWVcWm3lMiP) | [宝鐘マリン](https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk), [Kobo Kanaeru](https://open.spotify.com/artist/6AjW1aE0OlIoRGdnwbHgP2) | [I I I](https://open.spotify.com/album/6khDJU0RLPOsxLWNk8HJQs) | 3:05 |
+| 20 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 |
+| 21 | [Value](https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Value](https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf) | 3:05 |
 | 22 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 |
 | 23 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
 | 24 | [Surges](https://open.spotify.com/track/5XhxMq0dQNenKr6eDU79Ka) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [夏背](https://open.spotify.com/artist/3xRckHz0CRl2Z328bNeVpC), [ルワン](https://open.spotify.com/artist/0UOSYwTdo7kX41HWeuykKm) | [Surges](https://open.spotify.com/album/72RDPs84Uf87a92q7GzhmT) | 2:00 |
 | 25 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 |
 | 26 | [ずうっといっしょ！](https://open.spotify.com/track/291j3B0q0RBJ15y3TRTzA5) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ずうっといっしょ！](https://open.spotify.com/album/0WcvYEwpmtLdlNsRNVeLU4) | 3:04 |
 | 27 | [少しだけ](https://open.spotify.com/track/0WLDdeAg7wipOvlNByiMhD) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [少しだけ](https://open.spotify.com/album/2AR2Ep7BpnwSEtbGoC5pmc) | 3:35 |
-| 28 | [HELP!!](https://open.spotify.com/track/2sb0MPuym9pDaru5M2DHsU) | [Kobo Kanaeru](https://open.spotify.com/artist/6AjW1aE0OlIoRGdnwbHgP2) | [HELP!!](https://open.spotify.com/album/3iIHNCs8dWlSSqXRzM00IB) | 3:07 |
-| 29 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 |
-| 30 | [唱](https://open.spotify.com/track/2tlOVDJ3lQsUxz22vPJ4c4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [唱](https://open.spotify.com/album/18jn1n7WP5aYQcJORKwTxp) | 3:09 |
+| 28 | [唱](https://open.spotify.com/track/2tlOVDJ3lQsUxz22vPJ4c4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [唱](https://open.spotify.com/album/18jn1n7WP5aYQcJORKwTxp) | 3:09 |
+| 29 | [HELP!!](https://open.spotify.com/track/2sb0MPuym9pDaru5M2DHsU) | [Kobo Kanaeru](https://open.spotify.com/artist/6AjW1aE0OlIoRGdnwbHgP2) | [HELP!!](https://open.spotify.com/album/3iIHNCs8dWlSSqXRzM00IB) | 3:07 |
+| 30 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 |
 | 31 | [Biri\-Biri](https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Biri\-Biri](https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz) | 3:07 |
 | 32 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 |
 | 33 | [レクイエム](https://open.spotify.com/track/0MEFe9pCWd4BP8tw5sfh3K) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [レクイエム](https://open.spotify.com/album/5oqLJe9Djb24mLrMxYSPKZ) | 2:37 |
-| 34 | [春を告げる](https://open.spotify.com/track/2Gmyw5Vg2X5YW2lM3OC7nD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる](https://open.spotify.com/album/1B4Ka4FOargLNxmbNch7xv) | 3:16 |
-| 35 | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ) | 3:04 |
+| 34 | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ) | 3:04 |
+| 35 | [春を告げる](https://open.spotify.com/track/2Gmyw5Vg2X5YW2lM3OC7nD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる](https://open.spotify.com/album/1B4Ka4FOargLNxmbNch7xv) | 3:16 |
 | 36 | [向日葵](https://open.spotify.com/track/37EITaEG3UyWedRZrERoaK) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [向日葵](https://open.spotify.com/album/1DTVQMng1zrycLCDzxza0y) | 4:19 |
 | 37 | [オン・ザ・フロントライン](https://open.spotify.com/track/4jAUeWwomc0Pn0O8gq5Y0u) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [オン・ザ・フロントライン](https://open.spotify.com/album/1pq42uX8b2tbs5K1HvW5MP) | 3:27 |
 | 38 | [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 41 | [クラクラ](https://open.spotify.com/track/1430GkKh9OD6jtKNV7pu0Q) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [クラクラ](https://open.spotify.com/album/55K68hk6VS7YBZj2sQkXhW) | 3:11 |
 | 42 | [愛包ダンスホール](https://open.spotify.com/track/6c5ApwegStAPNQGuZVEoKJ) | [HIMEHINA](https://open.spotify.com/artist/5OBmR4AY53SS26qHZ4uwnq) | [愛包ダンスホール](https://open.spotify.com/album/4QsUcpeC75ePCTYLuXxv36) | 3:39 |
 | 43 | [大脳的なランデブー](https://open.spotify.com/track/2peXRsKoFZMyy30Zi3dhLH) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [大脳的なランデブー](https://open.spotify.com/album/5wJn8Yo0FqeSsvfUgrlXhx) | 2:12 |
-| 44 | [偽顔](https://open.spotify.com/track/5g6gzyGYUD6RPGsIpj7S1O) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [偽顔](https://open.spotify.com/album/6vp7Fy3X466rpv4Gv8UciQ) | 2:30 |
-| 45 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 |
+| 44 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 |
+| 45 | [偽顔](https://open.spotify.com/track/5g6gzyGYUD6RPGsIpj7S1O) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [偽顔](https://open.spotify.com/album/6vp7Fy3X466rpv4Gv8UciQ) | 2:30 |
 | 46 | [みちづれ](https://open.spotify.com/track/6wmcrRId5aeo7hiEqHAtEO) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Specter](https://open.spotify.com/album/5eQx95EHzDMcPurV2aByeh) | 3:13 |
 | 47 | [SHOCK!](https://open.spotify.com/track/2L1HeoX1m3Zv8KPM6HdfZN) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [SHOCK!](https://open.spotify.com/album/4L33Z8w28HGEwywExm2Z4L) | 3:00 |
 | 48 | [Fall in Love](https://open.spotify.com/track/4fpAICCpevpgI40CiHZWar) | [Suiet](https://open.spotify.com/artist/1lvPOUoBjVVRfb0rF7RaNQ) | [Fall in Love](https://open.spotify.com/album/7u00ryReb4mo01nuKQbWde) | 2:49 |
-| 49 | [ファイトソング](https://open.spotify.com/track/05UFNH7Htp7Odg9XGhxtxQ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ファイトソング](https://open.spotify.com/album/1t3IOg3UJHv7gja2IkBnJV) | 3:28 |
-| 50 | [私が明日死ぬなら](https://open.spotify.com/track/29KOSOrduu8U6Pz6ZZtuEj) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ROUNDABOUT](https://open.spotify.com/album/1N3qm3w4YsYgXh6XxBjkay) | 4:13 |
+| 49 | [アイウエ](https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [アイウエ](https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ) | 3:42 |
+| 50 | [ファイトソング](https://open.spotify.com/track/05UFNH7Htp7Odg9XGhxtxQ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ファイトソング](https://open.spotify.com/album/1t3IOg3UJHv7gja2IkBnJV) | 3:28 |
 
 Snapshot ID: `ZnFkFAAAAACDrWBLAdhXK9ruIh6s7qii`

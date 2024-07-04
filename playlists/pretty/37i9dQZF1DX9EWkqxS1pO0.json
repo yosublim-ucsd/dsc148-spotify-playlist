@@ -1,6 +1,6 @@
 {
   "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Ekin Alkan ",
-  "num_followers": 62584,
+  "num_followers": 62610,
   "original_name": "Ke\u015fif",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-06-20 21:00:00",
       "album": {
-        "name": "Yan\u0131na Kalacak",
-        "url": "https://open.spotify.com/album/3hsM2OqlYqzDVjtX4rX8AU"
-      },
-      "artists": [
-        {
-          "name": "Giz",
-          "url": "https://open.spotify.com/artist/4xHMxTG1wa06uHMezG7Hfs"
-        }
-      ],
-      "duration_ms": 142409,
-      "name": "Yan\u0131na Kalacak",
-      "url": "https://open.spotify.com/track/15SRcNq7zHuWBkpKW7g4QG"
-    },
-    {
-      "added_at": "2024-06-20 21:00:00",
-      "album": {
         "name": "Senin Y\u00fcz\u00fcnden",
         "url": "https://open.spotify.com/album/2WobQE09DjAqAOVne4Q4j1"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 176250,
       "name": "Senin Y\u00fcz\u00fcnden",
       "url": "https://open.spotify.com/track/2WPDvv1Mew0mcnh68D1LSG"
+    },
+    {
+      "added_at": "2024-06-20 21:00:00",
+      "album": {
+        "name": "Yan\u0131na Kalacak",
+        "url": "https://open.spotify.com/album/3hsM2OqlYqzDVjtX4rX8AU"
+      },
+      "artists": [
+        {
+          "name": "Giz",
+          "url": "https://open.spotify.com/artist/4xHMxTG1wa06uHMezG7Hfs"
+        }
+      ],
+      "duration_ms": 142409,
+      "name": "Yan\u0131na Kalacak",
+      "url": "https://open.spotify.com/track/15SRcNq7zHuWBkpKW7g4QG"
     },
     {
       "added_at": "2024-06-20 21:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-06-20 21:00:00",
       "album": {
-        "name": "Yok \u00c7arem",
-        "url": "https://open.spotify.com/album/2KYzsYYCXhf5rOwAWlvFxc"
-      },
-      "artists": [
-        {
-          "name": "Melis Ayd\u0131n",
-          "url": "https://open.spotify.com/artist/6bO5A4UYdnsR3kpmzLsci6"
-        }
-      ],
-      "duration_ms": 201516,
-      "name": "Yok \u00c7arem",
-      "url": "https://open.spotify.com/track/24xDhoPk7y5oqeAszaz8d0"
-    },
-    {
-      "added_at": "2024-06-20 21:00:00",
-      "album": {
         "name": "Normalde",
         "url": "https://open.spotify.com/album/2IXnb0005FkTtvxvpZNiYs"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 141000,
       "name": "Normalde",
       "url": "https://open.spotify.com/track/6wLrvbWwQI3o5gpWEnJTFw"
+    },
+    {
+      "added_at": "2024-06-20 21:00:00",
+      "album": {
+        "name": "Yeni Bir G\u00fcn",
+        "url": "https://open.spotify.com/album/1jeiXkl0YhRTd0JdUBY8Pp"
+      },
+      "artists": [
+        {
+          "name": "Klor",
+          "url": "https://open.spotify.com/artist/70dKeCF38TiiLV0Z3FVGo7"
+        }
+      ],
+      "duration_ms": 193792,
+      "name": "Yeni Bir G\u00fcn",
+      "url": "https://open.spotify.com/track/5qMhceikype5djlWRVTLLa"
     },
     {
       "added_at": "2024-06-20 21:00:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-06-20 21:00:00",
       "album": {
-        "name": "Yeni Bir G\u00fcn",
-        "url": "https://open.spotify.com/album/1jeiXkl0YhRTd0JdUBY8Pp"
+        "name": "Yok \u00c7arem",
+        "url": "https://open.spotify.com/album/2KYzsYYCXhf5rOwAWlvFxc"
       },
       "artists": [
         {
-          "name": "Klor",
-          "url": "https://open.spotify.com/artist/70dKeCF38TiiLV0Z3FVGo7"
+          "name": "Melis Ayd\u0131n",
+          "url": "https://open.spotify.com/artist/6bO5A4UYdnsR3kpmzLsci6"
         }
       ],
-      "duration_ms": 193792,
-      "name": "Yeni Bir G\u00fcn",
-      "url": "https://open.spotify.com/track/5qMhceikype5djlWRVTLLa"
+      "duration_ms": 201516,
+      "name": "Yok \u00c7arem",
+      "url": "https://open.spotify.com/track/24xDhoPk7y5oqeAszaz8d0"
     },
     {
       "added_at": "2024-06-20 21:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-06-20 21:00:00",
       "album": {
+        "name": "Cehennem",
+        "url": "https://open.spotify.com/album/6Iyv9RjR6T2OcEV2EK8Uu1"
+      },
+      "artists": [
+        {
+          "name": "Ozthewiz",
+          "url": "https://open.spotify.com/artist/2ANKUXtknFmV4EKgoix3kC"
+        }
+      ],
+      "duration_ms": 145781,
+      "name": "Cehennem",
+      "url": "https://open.spotify.com/track/6ehRO2mp6xhudE2d9AnZZ5"
+    },
+    {
+      "added_at": "2024-06-20 21:00:00",
+      "album": {
         "name": "Ankara Ayaz\u0131",
         "url": "https://open.spotify.com/album/0U31turfAphETTOc8k3nQN"
       },
@@ -775,6 +791,22 @@
     {
       "added_at": "2024-06-20 21:00:00",
       "album": {
+        "name": "Sonu Gelmesin",
+        "url": "https://open.spotify.com/album/2nNf7el3Hbz0EKg2nSeEfj"
+      },
+      "artists": [
+        {
+          "name": "Okyanus Caddesi",
+          "url": "https://open.spotify.com/artist/23rss6kqqXejwS6klTb49G"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "Sonu Gelmesin",
+      "url": "https://open.spotify.com/track/5gy0tymPj3IxNgLeOMxKUc"
+    },
+    {
+      "added_at": "2024-06-20 21:00:00",
+      "album": {
         "name": "Elmas",
         "url": "https://open.spotify.com/album/4o6SVSaIFFTzqRbRQ95v0Z"
       },
@@ -787,38 +819,6 @@
       "duration_ms": 154782,
       "name": "Elmas",
       "url": "https://open.spotify.com/track/2Odk6q0tqmIVAwDsnz5z8y"
-    },
-    {
-      "added_at": "2024-06-20 21:00:00",
-      "album": {
-        "name": "Cehennem",
-        "url": "https://open.spotify.com/album/6Iyv9RjR6T2OcEV2EK8Uu1"
-      },
-      "artists": [
-        {
-          "name": "Ozthewiz",
-          "url": "https://open.spotify.com/artist/2ANKUXtknFmV4EKgoix3kC"
-        }
-      ],
-      "duration_ms": 145781,
-      "name": "Cehennem",
-      "url": "https://open.spotify.com/track/6ehRO2mp6xhudE2d9AnZZ5"
-    },
-    {
-      "added_at": "2024-06-20 21:00:00",
-      "album": {
-        "name": "Mutluluk Bizim",
-        "url": "https://open.spotify.com/album/5TqdStIvA3RsxshJHx4lIi"
-      },
-      "artists": [
-        {
-          "name": "Zeki Dizdar",
-          "url": "https://open.spotify.com/artist/24APBiHTNXuEpwYC2jag26"
-        }
-      ],
-      "duration_ms": 232166,
-      "name": "Mutluluk Bizim",
-      "url": "https://open.spotify.com/track/7uoTayR7oZ7eo8i6qiWyKQ"
     },
     {
       "added_at": "2024-06-20 21:00:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-06-20 21:00:00",
       "album": {
-        "name": "Sonu Gelmesin",
-        "url": "https://open.spotify.com/album/2nNf7el3Hbz0EKg2nSeEfj"
+        "name": "Mutluluk Bizim",
+        "url": "https://open.spotify.com/album/5TqdStIvA3RsxshJHx4lIi"
       },
       "artists": [
         {
-          "name": "Okyanus Caddesi",
-          "url": "https://open.spotify.com/artist/23rss6kqqXejwS6klTb49G"
+          "name": "Zeki Dizdar",
+          "url": "https://open.spotify.com/artist/24APBiHTNXuEpwYC2jag26"
         }
       ],
-      "duration_ms": 177391,
-      "name": "Sonu Gelmesin",
-      "url": "https://open.spotify.com/track/5gy0tymPj3IxNgLeOMxKUc"
+      "duration_ms": 232166,
+      "name": "Mutluluk Bizim",
+      "url": "https://open.spotify.com/track/7uoTayR7oZ7eo8i6qiWyKQ"
     },
     {
       "added_at": "2024-06-20 21:00:00",
@@ -887,18 +887,22 @@
     {
       "added_at": "2024-06-20 21:00:00",
       "album": {
-        "name": "Ah Etmedim",
-        "url": "https://open.spotify.com/album/058wo47lM7uAE2m6p2NeWa"
+        "name": "mani",
+        "url": "https://open.spotify.com/album/39HaoKUrwGZnMpxgiqPvpH"
       },
       "artists": [
         {
-          "name": "Aliye Mutlu",
-          "url": "https://open.spotify.com/artist/4d6HLW1woZHaPab3eJpiyA"
+          "name": "zei",
+          "url": "https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa"
+        },
+        {
+          "name": "Cotard",
+          "url": "https://open.spotify.com/artist/0OR34vxRvcPuyDK9s7EuQ8"
         }
       ],
-      "duration_ms": 223703,
-      "name": "Ah Etmedim",
-      "url": "https://open.spotify.com/track/43HCAAd4aum17h9R8CZHYp"
+      "duration_ms": 155636,
+      "name": "sendin izlerim",
+      "url": "https://open.spotify.com/track/4bQtBQfboIxsdKwLP7Do8s"
     },
     {
       "added_at": "2024-06-20 21:00:00",
@@ -915,6 +919,22 @@
       "duration_ms": 149000,
       "name": "Napabilirdim",
       "url": "https://open.spotify.com/track/5mmXTx1yzPtvukY5O4J8Wr"
+    },
+    {
+      "added_at": "2024-06-20 21:00:00",
+      "album": {
+        "name": "Ah Etmedim",
+        "url": "https://open.spotify.com/album/058wo47lM7uAE2m6p2NeWa"
+      },
+      "artists": [
+        {
+          "name": "Aliye Mutlu",
+          "url": "https://open.spotify.com/artist/4d6HLW1woZHaPab3eJpiyA"
+        }
+      ],
+      "duration_ms": 223703,
+      "name": "Ah Etmedim",
+      "url": "https://open.spotify.com/track/43HCAAd4aum17h9R8CZHYp"
     },
     {
       "added_at": "2024-06-20 21:00:00",
@@ -947,26 +967,6 @@
       "duration_ms": 146938,
       "name": "g\u00f6kku\u015fa\u011f\u0131nda",
       "url": "https://open.spotify.com/track/7uzOCggWJuvqG7YxUuwt5M"
-    },
-    {
-      "added_at": "2024-06-20 21:00:00",
-      "album": {
-        "name": "mani",
-        "url": "https://open.spotify.com/album/39HaoKUrwGZnMpxgiqPvpH"
-      },
-      "artists": [
-        {
-          "name": "zei",
-          "url": "https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa"
-        },
-        {
-          "name": "Cotard",
-          "url": "https://open.spotify.com/artist/0OR34vxRvcPuyDK9s7EuQ8"
-        }
-      ],
-      "duration_ms": 155636,
-      "name": "sendin izlerim",
-      "url": "https://open.spotify.com/track/4bQtBQfboIxsdKwLP7Do8s"
     },
     {
       "added_at": "2024-06-20 21:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-06-20 21:00:00",
       "album": {
-        "name": "Sesim Kulakl\u0131klar\u0131nda",
-        "url": "https://open.spotify.com/album/4pkJ2OaDoyocWq68fnQ8up"
-      },
-      "artists": [
-        {
-          "name": "Egemen Akkol",
-          "url": "https://open.spotify.com/artist/0ElJABfA5B9H3gSqB6wf4l"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "Sesim Kulakl\u0131klar\u0131nda",
-      "url": "https://open.spotify.com/track/7aUT5V4qet2cJlyeV8eq3W"
-    },
-    {
-      "added_at": "2024-06-20 21:00:00",
-      "album": {
         "name": "r\u00fcyet",
         "url": "https://open.spotify.com/album/43RbKe4SAbTgx2GqLINY43"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 255700,
       "name": "r\u00fcyet",
       "url": "https://open.spotify.com/track/7thtv8TVmmxx5edxwk9r1o"
+    },
+    {
+      "added_at": "2024-06-20 21:00:00",
+      "album": {
+        "name": "Sesim Kulakl\u0131klar\u0131nda",
+        "url": "https://open.spotify.com/album/4pkJ2OaDoyocWq68fnQ8up"
+      },
+      "artists": [
+        {
+          "name": "Egemen Akkol",
+          "url": "https://open.spotify.com/artist/0ElJABfA5B9H3gSqB6wf4l"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "Sesim Kulakl\u0131klar\u0131nda",
+      "url": "https://open.spotify.com/track/7aUT5V4qet2cJlyeV8eq3W"
     },
     {
       "added_at": "2024-06-20 21:00:00",

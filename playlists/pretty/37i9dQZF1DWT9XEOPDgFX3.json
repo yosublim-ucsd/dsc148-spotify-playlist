@@ -1,6 +1,6 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Ruby Waters",
-  "num_followers": 98953,
+  "num_followers": 99004,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Crying Over U",
+        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Milk Town / Mr. Carter",
         "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
       },
@@ -755,18 +771,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Crying Over U",
-        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
+        "name": "Eye On The Bat",
+        "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
       },
       "artists": [
         {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
         }
       ],
-      "duration_ms": 234231,
-      "name": "Crying Over U",
-      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
+      "duration_ms": 176869,
+      "name": "Eye On The Bat",
+      "url": "https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -787,18 +803,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Eye On The Bat",
-        "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
+        "name": "Let The Radio Play",
+        "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
       },
       "artists": [
         {
-          "name": "Palehound",
-          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+          "name": "Reverend Baron",
+          "url": "https://open.spotify.com/artist/7I6tVCXE2CFHl3QwHLFCBH"
         }
       ],
-      "duration_ms": 176869,
-      "name": "Eye On The Bat",
-      "url": "https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM"
+      "duration_ms": 209634,
+      "name": "Let The Radio Play",
+      "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -835,18 +851,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Let The Radio Play",
-        "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
+        "name": "Here in the Pitch",
+        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
       },
       "artists": [
         {
-          "name": "Reverend Baron",
-          "url": "https://open.spotify.com/artist/7I6tVCXE2CFHl3QwHLFCBH"
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
         }
       ],
-      "duration_ms": 209634,
-      "name": "Let The Radio Play",
-      "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
+      "duration_ms": 189640,
+      "name": "World on a String",
+      "url": "https://open.spotify.com/track/06uOV6fQr0khY0LzYcy4w0"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -863,22 +879,6 @@
       "duration_ms": 256629,
       "name": "Sunday Funday",
       "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Here in the Pitch",
-        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 189640,
-      "name": "World on a String",
-      "url": "https://open.spotify.com/track/06uOV6fQr0khY0LzYcy4w0"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Like a Brother",
-        "url": "https://open.spotify.com/album/2CUiaafQS9YOvcEZmyuKBM"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Like a Brother",
-      "url": "https://open.spotify.com/track/0WtfEK4wbbrlFnzvsg4XpU"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Younger & Dumber",
         "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 279040,
       "name": "Younger & Dumber",
       "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Like a Brother",
+        "url": "https://open.spotify.com/album/2CUiaafQS9YOvcEZmyuKBM"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Like a Brother",
+      "url": "https://open.spotify.com/track/0WtfEK4wbbrlFnzvsg4XpU"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Dark",
-        "url": "https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Dark",
-      "url": "https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Ohio",
         "url": "https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Life Is",
-        "url": "https://open.spotify.com/album/2oNn8ZtAIo2cSnp06DPo2k"
+        "name": "Spell",
+        "url": "https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK"
       },
       "artists": [
         {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
         }
       ],
-      "duration_ms": 188293,
-      "name": "Life Is",
-      "url": "https://open.spotify.com/track/4J2iXXCHLyyuRTS6rieF0t"
+      "duration_ms": 247267,
+      "name": "Spell",
+      "url": "https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1251,18 +1235,34 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Spell",
-        "url": "https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK"
+        "name": "Life Is",
+        "url": "https://open.spotify.com/album/2oNn8ZtAIo2cSnp06DPo2k"
       },
       "artists": [
         {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
         }
       ],
-      "duration_ms": 247267,
-      "name": "Spell",
-      "url": "https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q"
+      "duration_ms": 188293,
+      "name": "Life Is",
+      "url": "https://open.spotify.com/track/4J2iXXCHLyyuRTS6rieF0t"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Reaching Out",
-        "url": "https://open.spotify.com/album/0tYyc7yXpSEv4W7FQF0ADO"
-      },
-      "artists": [
-        {
-          "name": "Beth Gibbons",
-          "url": "https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "Reaching Out",
-      "url": "https://open.spotify.com/track/2GSMDvRIBADQEl2DS8XqPs"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Song for Nick Drake",
         "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 177387,
       "name": "Song for Nick Drake",
       "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Reaching Out",
+        "url": "https://open.spotify.com/album/0tYyc7yXpSEv4W7FQF0ADO"
+      },
+      "artists": [
+        {
+          "name": "Beth Gibbons",
+          "url": "https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "Reaching Out",
+      "url": "https://open.spotify.com/track/2GSMDvRIBADQEl2DS8XqPs"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Granny Music",
+        "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 177546,
       "name": "Sink;Swim",
       "url": "https://open.spotify.com/track/6XilwiQW59LeUbn6mGxhkg"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Granny Music",
-        "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Stay In Touch",
+        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "duration_ms": 289987,
+      "name": "Homes",
+      "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Scorpions Don't Live Forever",
         "url": "https://open.spotify.com/album/01UB7yLLhdvHKtETrr0VgM"
       },
@@ -2059,22 +2075,6 @@
       "duration_ms": 222586,
       "name": "Blindsided",
       "url": "https://open.spotify.com/track/1v8R8ZlnD5brSRkPMSEWjm"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Stay In Touch",
-        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
-      },
-      "artists": [
-        {
-          "name": "Georgia Harmer",
-          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
-        }
-      ],
-      "duration_ms": 289987,
-      "name": "Homes",
-      "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
     }
   ],
   "unique_name": "Folk Arc",

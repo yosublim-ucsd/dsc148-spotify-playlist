@@ -1,6 +1,6 @@
 {
   "description": "we outside all summer 2024!",
-  "num_followers": 4820,
+  "num_followers": 4823,
   "original_name": "We Outside!",
   "owner": {
     "name": "Spotify",
@@ -249,22 +249,6 @@
       "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
     },
     {
-      "added_at": "2024-05-16 21:55:50",
-      "album": {
-        "name": "Push Ups",
-        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 232774,
-      "name": "Push Ups",
-      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
-    },
-    {
       "added_at": "2023-06-16 05:16:25",
       "album": {
         "name": "Sprinter",
@@ -283,6 +267,22 @@
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+    },
+    {
+      "added_at": "2024-05-16 21:55:50",
+      "album": {
+        "name": "Push Ups",
+        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 232774,
+      "name": "Push Ups",
+      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
     },
     {
       "added_at": "2024-05-16 21:55:50",
@@ -425,6 +425,22 @@
       "url": "https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd"
     },
     {
+      "added_at": "2024-05-16 21:55:50",
+      "album": {
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
       "added_at": "2023-10-20 21:28:28",
       "album": {
         "name": "For All The Dogs",
@@ -447,22 +463,6 @@
       "duration_ms": 319191,
       "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
       "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
-    },
-    {
-      "added_at": "2024-05-16 21:55:50",
-      "album": {
-        "name": "Love Me JeJe",
-        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "Love Me JeJe",
-      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
       "added_at": "2024-05-16 21:55:50",
@@ -513,30 +513,6 @@
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
-      "added_at": "2024-05-31 19:42:03",
-      "album": {
-        "name": "Attitude (feat. Charlie Wilson & Cash Cobain)",
-        "url": "https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Charlie Wilson",
-          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
-        },
-        {
-          "name": "Cash Cobain",
-          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
-        }
-      ],
-      "duration_ms": 161053,
-      "name": "ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN)",
-      "url": "https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv"
-    },
-    {
       "added_at": "2024-05-16 21:55:50",
       "album": {
         "name": "Mr Beat The Road",
@@ -551,6 +527,30 @@
       "duration_ms": 104470,
       "name": "Talk My Shit",
       "url": "https://open.spotify.com/track/6O3WfmAQIgnLBGVzZJVS40"
+    },
+    {
+      "added_at": "2023-06-16 05:16:25",
+      "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "Private Landing (feat. Justin Bieber & Future)",
+      "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
     },
     {
       "added_at": "2024-05-16 21:55:50",
@@ -681,6 +681,30 @@
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {
+      "added_at": "2024-05-31 19:42:03",
+      "album": {
+        "name": "Attitude (feat. Charlie Wilson & Cash Cobain)",
+        "url": "https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "duration_ms": 161053,
+      "name": "ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN)",
+      "url": "https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv"
+    },
+    {
       "added_at": "2023-10-20 21:28:28",
       "album": {
         "name": "I Told Them...",
@@ -695,30 +719,6 @@
       "duration_ms": 153346,
       "name": "City Boys",
       "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
-    },
-    {
-      "added_at": "2023-06-16 05:16:25",
-      "album": {
-        "name": "Love Sick",
-        "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "Private Landing (feat. Justin Bieber & Future)",
-      "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
     },
     {
       "added_at": "2023-06-16 05:16:25",

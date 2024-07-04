@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Racikan akustik dalam secangkir kopi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,175 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,214 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 27 | [Nanti Kita Seperti Ini](https://open.spotify.com/track/2NjbJR8y083mOV59255QSe) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Nanti Kita Seperti Ini](https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT) | 3:29 |
 | 28 | [Untuk Perempuan Yang Sedang Di Pelukan](https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:42 |
 | 29 | [Apa Mungkin](https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin](https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31) | 3:58 |
-| 30 | [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 |
-| 31 | [Kenanglah Aku](https://open.spotify.com/track/0zJIPpVcHKWqmf2FaKXbQQ) | [NaFF](https://open.spotify.com/artist/1ryXwlpQNzkSCfU685Ftx5) | [Senandung Hati dan Jiwa](https://open.spotify.com/album/6JZRJTpUNTsaTqk5auZj52) | 4:00 |
+| 30 | [Kenanglah Aku](https://open.spotify.com/track/0zJIPpVcHKWqmf2FaKXbQQ) | [NaFF](https://open.spotify.com/artist/1ryXwlpQNzkSCfU685Ftx5) | [Senandung Hati dan Jiwa](https://open.spotify.com/album/6JZRJTpUNTsaTqk5auZj52) | 4:00 |
+| 31 | [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 |
 | 32 | [Zona Nyaman \(From "Filosofi Kopi 2: Ben & Jody"\)](https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Ego & Fungsi Otak](https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz) | 4:03 |
 | 33 | [Perahu Kertas](https://open.spotify.com/track/0InJPuWIYp8fwlBGIQglLf) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Moments](https://open.spotify.com/album/51PNqOMj1ttmbuZPzxOqSI) | 3:54 |
 | 34 | [Sorai](https://open.spotify.com/track/3ymuBMTviroWLuf1jMsMVf) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Sorai](https://open.spotify.com/album/60YDoJUMHjkYtZnPztRvZ1) | 4:38 |

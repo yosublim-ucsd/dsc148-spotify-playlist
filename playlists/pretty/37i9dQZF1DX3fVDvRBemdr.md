@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollandse hits\. Cover: Afro Bros, John West, Monq & Billy Dans
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,646 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,724 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 69 | [Zaterdag](https://open.spotify.com/track/3UnvV0umBoSZSubJT4puOO) | [Kevin Paré](https://open.spotify.com/artist/3foumwQXx47LtL6TcTLLrU) | [Zaterdag](https://open.spotify.com/album/3WlRVur6fAPxfhfBzwZarG) | 3:12 |
 | 70 | [Geen Ontkomen Aan](https://open.spotify.com/track/1nDluvTszaQGNuLMs9qp8Z) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx) | [Geen Ontkomen Aan](https://open.spotify.com/album/76PsziGLrPDHaQwgvyPFcP) | 2:58 |
 
-Snapshot ID: `ZoKKCwAAAADM0nm7XtHwmEZmkyI+nQqJ`
+Snapshot ID: `ZoUqWQAAAAAe3nWeqstDv392brbGuOjk`

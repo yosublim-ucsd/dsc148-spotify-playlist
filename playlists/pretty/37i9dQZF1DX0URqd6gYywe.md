@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 
 > Dejate llevar por los mejores lentos del rock\. Foto: El Plan De La Mariposa
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,513 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,565 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 48 | [Va a Ser Difícil Olvidar](https://open.spotify.com/track/0Nylt3biQgd30wwgGqFCPm) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:53 |
 | 49 | [Diez años después](https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:35 |
 | 50 | [Basta de Llamarme Así](https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:14 |
-| 51 | [Amanece en la Ruta](https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:14 |
+| 51 | [Fulanos de Nadie](https://open.spotify.com/track/3riky2BtRX9TeZJHEHE5Eq) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fulanos de Nadie](https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB) | 4:41 |
 | 52 | [Pasan las Horas \- En Vivo Acústico](https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex](https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q) | 4:36 |
-| 53 | [Fulanos de Nadie](https://open.spotify.com/track/3riky2BtRX9TeZJHEHE5Eq) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fulanos de Nadie](https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB) | 4:41 |
+| 53 | [Amanece en la Ruta](https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:14 |
 | 54 | [Pétalo de sal](https://open.spotify.com/track/47rrhPXwe6sfKtIDwJAsO4) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 2:43 |
 | 55 | [Como un Cuento](https://open.spotify.com/track/3EissuXjQZQrjpHh8gRCG1) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 4:46 |
 | 56 | [Roto](https://open.spotify.com/track/0G0qz1tF8IgGc2pANlH7X3) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Roto](https://open.spotify.com/album/06cMimO1BixYYuhsyNwXPV) | 3:48 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 89 | [Vendedora de Caricias](https://open.spotify.com/track/5gpMKB4NpJwe3KoaucNkHC) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Vendedora de Caricias](https://open.spotify.com/album/0EatkO6cNzVzxbWRhWYK91) | 3:19 |
 | 90 | [Nunca Nos Apagó](https://open.spotify.com/track/21TdNfpltw2dtXnnJiOjcD) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [La Suerte de Encontrarme](https://open.spotify.com/album/6Mvw1I6WTBv9RKqwBC9Rol) | 3:21 |
 | 91 | [Así](https://open.spotify.com/track/1UZCVYRJ2qZaUEMrsqIJkI) | [Manuel Wirzt](https://open.spotify.com/artist/27kA8TnszsSYSZDikpz0Ra) | [Así](https://open.spotify.com/album/2J0X6FPGlp14rymZQQN1ZD) | 4:14 |
-| 92 | [Seremos Idiotas](https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Seremos Idiotas](https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I) | 3:17 |
-| 93 | [El Regalo](https://open.spotify.com/track/47fOMQaJ6vELtlB7qDLnJX) | [Javier Calamaro](https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5) | [El Regalo](https://open.spotify.com/album/1XpoVhWP8TzsXDQWEtj0N8) | 4:03 |
+| 92 | [El Regalo](https://open.spotify.com/track/47fOMQaJ6vELtlB7qDLnJX) | [Javier Calamaro](https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5) | [El Regalo](https://open.spotify.com/album/1XpoVhWP8TzsXDQWEtj0N8) | 4:03 |
+| 93 | [Seremos Idiotas](https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Seremos Idiotas](https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I) | 3:17 |
 | 94 | [Lina](https://open.spotify.com/track/5urCjeuoAnawvoBxlzJRTF) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Fuera de Moda](https://open.spotify.com/album/0IVrP8hRUEnOiPYKln5wNV) | 4:15 |
 | 95 | [Arariyo](https://open.spotify.com/track/14WX41twek7T3yKsLUA6JN) | [Eté & Los Problems](https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk) | [Arariyo](https://open.spotify.com/album/6r3fduiWdDrWIvjdpewheP) | 4:30 |
 | 96 | [Lápiz Libertad](https://open.spotify.com/track/4zPgTLglAVR88y0V8MBMrx) | [Juan Rosasco en Banda](https://open.spotify.com/artist/41pJnHLzYfNFPDmJgsZkcv), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Lápiz Libertad](https://open.spotify.com/album/48NPbFVbP0dhZNMtZOxETh) | 4:08 |

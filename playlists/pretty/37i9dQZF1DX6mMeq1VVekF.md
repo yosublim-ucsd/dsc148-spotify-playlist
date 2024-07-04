@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Skepta, R2R More
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,189 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,249 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 46 | [Vibe \(feat\. Popcaan\)](https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vibe](https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty) | 3:15 |
 | 47 | [24's](https://open.spotify.com/track/6pe4kkc27IKSkubhLY7a5C) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [24's](https://open.spotify.com/album/2zrwoynjMVDV6vsSwkwpNP) | 2:46 |
 | 48 | [Higher Life](https://open.spotify.com/track/45hcfulMM8BGDKFj6MnZv6) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Higher Life](https://open.spotify.com/album/3lhwBOftasfbBakMOQOAzX) | 3:18 |
-| 49 | [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq) | 3:33 |
+| 49 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
 | 50 | [Mirror Man](https://open.spotify.com/track/3r4dJEgGMJ8iCVRrfaQ8wR) | [Hope Ipoku Jnr](https://open.spotify.com/artist/1fNmXsXW6wphLdpwQM0On9) | [Mirror Man](https://open.spotify.com/album/1NqB00dbifMA4KRoVA1JcK) | 4:20 |
-| 51 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
+| 51 | [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq) | 3:33 |
 | 52 | [I Heard](https://open.spotify.com/track/4s2SSnOOVF3FtgcxNx6fFk) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Richest Opp](https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2) | 3:03 |
 | 53 | [NO BONNIE N CLYDE](https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [NO BONNIE N CLYDE](https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm) | 2:13 |
 | 54 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 |

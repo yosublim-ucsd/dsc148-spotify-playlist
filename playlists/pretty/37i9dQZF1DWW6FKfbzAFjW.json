@@ -1,6 +1,6 @@
 {
   "description": "Remember Cinco de Mayo is not the Mexican Independence day, but here are some feel-good tunes for your cinco de drinko. \u00a1Salud!",
-  "num_followers": 40744,
+  "num_followers": 40738,
   "original_name": "Cinco de Mayo",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-05-03 19:55:27",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 186453,
+      "name": "GUCCI LOS PA\u00d1OS",
+      "url": "https://open.spotify.com/track/3CNbrXrUrEARw8zeKNCdYo"
+    },
+    {
+      "added_at": "2024-05-03 19:55:27",
+      "album": {
         "name": "EXCESO",
         "url": "https://open.spotify.com/album/2j9oqldlB7MHc3MTjV3YSb"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 142802,
       "name": "EXCESO",
       "url": "https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1"
-    },
-    {
-      "added_at": "2024-05-03 19:55:27",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 186453,
-      "name": "GUCCI LOS PA\u00d1OS",
-      "url": "https://open.spotify.com/track/3CNbrXrUrEARw8zeKNCdYo"
     },
     {
       "added_at": "2024-05-03 19:55:27",

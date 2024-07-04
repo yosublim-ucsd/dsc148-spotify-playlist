@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1565619,
+  "num_followers": 1566116,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAAvlT7X30XzldJbMIqZStKw",
+  "snapshot_id": "ZoNDAAAAAAAcNojgI6fR2vfnn61qMJ54",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 165819,
+      "name": "All Girls Are The Same",
+      "url": "https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Music To Be Murdered By",
         "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
       },
@@ -151,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 175755,
-      "name": "Lean Wit Me",
-      "url": "https://open.spotify.com/track/3oDkdAySo1VQQG0ptV7uwa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legends Never Die",
         "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
       },
@@ -183,6 +183,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let Me Know (I Wonder Why Freestyle)",
+        "url": "https://open.spotify.com/album/5wi0oKiF99ZVACf6oTTsp2"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 215380,
+      "name": "Let Me Know (I Wonder Why Freestyle)",
+      "url": "https://open.spotify.com/track/3wwo0bJvDSorOpNfzEkfXx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 175755,
+      "name": "Lean Wit Me",
+      "url": "https://open.spotify.com/track/3oDkdAySo1VQQG0ptV7uwa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Death Race For Love (Bonus Track Version)",
         "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
       },
@@ -195,6 +227,22 @@
       "duration_ms": 240050,
       "name": "Robbery",
       "url": "https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 168684,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/21CkzgKCBCq5V4XKjiGSIj"
     },
     {
       "added_at": null,
@@ -235,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 205484,
-      "name": "Come & Go (with Marshmello)",
-      "url": "https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Death Race For Love (Bonus Track Version)",
         "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
       },
@@ -291,6 +319,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Seezyn",
+          "url": "https://open.spotify.com/artist/1jIVEaq8GmqMYb8nFNAZgb"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "Hide (feat. Seezyn)",
+      "url": "https://open.spotify.com/track/6rz0dTA0PdhXImFV5EjM0w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Goodbye & Good Riddance",
         "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
       },
@@ -298,27 +346,15 @@
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 169999,
-      "name": "Armed And Dangerous",
-      "url": "https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
-      },
-      "artists": [
+        },
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 181661,
-      "name": "Conversations",
-      "url": "https://open.spotify.com/track/4K06PO78fW4mnBVenxGNob"
+      "duration_ms": 258475,
+      "name": "Wasted (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/1a7WZZZH7LzyvorhpOJFTe"
     },
     {
       "added_at": null,
@@ -367,58 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 258475,
-      "name": "Wasted (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/1a7WZZZH7LzyvorhpOJFTe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 168684,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/21CkzgKCBCq5V4XKjiGSIj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Death Race For Love (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 218348,
-      "name": "Flaws And Sins",
-      "url": "https://open.spotify.com/track/0flSGzqHO12p9fU9kqaHGE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brightest Blue",
         "url": "https://open.spotify.com/album/44va7sFuK8IGzrj0BIX8kK"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 186945,
       "name": "Black & White",
       "url": "https://open.spotify.com/track/1fCeXjoRExPP2qwSBh2aST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death Race For Love (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 218348,
+      "name": "Flaws And Sins",
+      "url": "https://open.spotify.com/track/0flSGzqHO12p9fU9kqaHGE"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 176443,
+      "name": "Used To",
+      "url": "https://open.spotify.com/track/0WZFN4E8HrmGUU0EMyKQ8c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "STOKELEY",
         "url": "https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 176443,
-      "name": "Used To",
-      "url": "https://open.spotify.com/track/0WZFN4E8HrmGUU0EMyKQ8c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legends Never Die",
         "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
       },
@@ -547,26 +547,6 @@
       "duration_ms": 242180,
       "name": "Righteous",
       "url": "https://open.spotify.com/track/5dOxHHMOFAbG3VH23t0xNm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suicidal (Remix) [feat. Juice WRLD]",
-        "url": "https://open.spotify.com/album/4WE4KsdoZbISWStEzfcxvH"
-      },
-      "artists": [
-        {
-          "name": "YNW Melly",
-          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 225857,
-      "name": "Suicidal (feat. Juice WRLD) - Remix",
-      "url": "https://open.spotify.com/track/4S2uhQE8L9V6p7rj7SiauJ"
     },
     {
       "added_at": null,
@@ -627,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 154767,
+      "name": "Blood On My Jeans",
+      "url": "https://open.spotify.com/track/0fCwrjKfWxF3xQhZrYUw4T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Love Letter To You 3",
         "url": "https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna"
       },
@@ -647,6 +643,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Death Race For Love (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 142025,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/1goNZsIE8w3NQOzlP40veh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 136408,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/7AvprzMsRJpybaalckaT8c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/7zfsq2Hboh0SZMcWo2ASkD"
       },
@@ -663,18 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Race For Love (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
+        "name": "Future & Juice WRLD Present... WRLD ON DRUGS",
+        "url": "https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY"
       },
       "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 142025,
-      "name": "Make Believe",
-      "url": "https://open.spotify.com/track/1goNZsIE8w3NQOzlP40veh"
+      "duration_ms": 141586,
+      "name": "Fine China",
+      "url": "https://open.spotify.com/track/5274I4mUMnYczyeXkGDWZN"
     },
     {
       "added_at": null,
@@ -703,26 +751,6 @@
       "duration_ms": 232064,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Future & Juice WRLD Present... WRLD ON DRUGS",
-        "url": "https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 141586,
-      "name": "Fine China",
-      "url": "https://open.spotify.com/track/5274I4mUMnYczyeXkGDWZN"
     },
     {
       "added_at": null,
@@ -855,26 +883,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life\u2019s A Mess II (with Clever & Post Malone)",
-        "url": "https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR"
+        "name": "Goodbye & Good Riddance (5 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5v9IfhMyxAkE9CbLjfNChR"
       },
       "artists": [
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Clever",
-          "url": "https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 206733,
-      "name": "Life's A Mess II (with Clever & Post Malone)",
-      "url": "https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI"
+      "duration_ms": 150564,
+      "name": "Glo\u2019d Up",
+      "url": "https://open.spotify.com/track/1KGJ5ozUB7XOgCJ73IBMz3"
     },
     {
       "added_at": null,
@@ -895,18 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goodbye & Good Riddance (5 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5v9IfhMyxAkE9CbLjfNChR"
+        "name": "All Night (BTS World Original Soundtrack) (Pt. 3)",
+        "url": "https://open.spotify.com/album/53kVAgb2mQMuvNQrtFrMRN"
       },
       "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 150564,
-      "name": "Glo\u2019d Up",
-      "url": "https://open.spotify.com/track/1KGJ5ozUB7XOgCJ73IBMz3"
+      "duration_ms": 216873,
+      "name": "All Night (BTS World Original Soundtrack) (Pt. 3)",
+      "url": "https://open.spotify.com/track/4sfXQzbYjROMuEgDfJisj3"
     },
     {
       "added_at": null,

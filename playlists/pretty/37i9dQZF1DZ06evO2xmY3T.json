@@ -1,12 +1,12 @@
 {
-  "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 671527,
+  "description": "This Is Cardi B. Los temas esenciales, todos en una lista.",
+  "num_followers": 671629,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAAPQuIarneo4jD/SHLz06qx",
+  "snapshot_id": "ZoNDAAAAAADhZ3k8FaAv3UCWBURkuB29",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
       "duration_ms": 154200,
       "name": "PUT EM IN THE FRIDGE",
       "url": "https://open.spotify.com/track/2BACqEbfDpPMOO7xhSOz2B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Please Me",
-        "url": "https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 200889,
-      "name": "Please Me",
-      "url": "https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN"
     },
     {
       "added_at": null,
@@ -323,6 +303,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 209811,
+      "name": "Tomorrow 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/2drqVzCt52KiDxKgl0Rq0P"
       },
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FATHER OF 4",
-        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 205803,
-      "name": "Clout (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "7 EP",
         "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
       },
@@ -575,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 177139,
-      "name": "Ring (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
@@ -611,6 +571,26 @@
       "duration_ms": 161167,
       "name": "Bet You Wanna (feat. Cardi B)",
       "url": "https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 200205,
+      "name": "I Do (feat. SZA)",
+      "url": "https://open.spotify.com/track/1f5PNhkNgUpvDEeZfcIlO1"
     },
     {
       "added_at": null,
@@ -655,26 +635,6 @@
       "duration_ms": 118249,
       "name": "Shake It (feat. Cardi B, Dougie B & Bory 300)",
       "url": "https://open.spotify.com/track/7ovrKrP1jYi04c1qpHr7mY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 200205,
-      "name": "I Do (feat. SZA)",
-      "url": "https://open.spotify.com/track/1f5PNhkNgUpvDEeZfcIlO1"
     },
     {
       "added_at": null,
@@ -803,6 +763,26 @@
       "duration_ms": 211649,
       "name": "Hot Shit (feat. Ye & Lil Durk)",
       "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 224284,
+      "name": "Bartier Cardi (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/0dIoGTQXDh1wVnhIiSyYEa"
     },
     {
       "added_at": null,
@@ -1031,34 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",
-        "url": "https://open.spotify.com/album/0TITR3yePyzJvlnQk61AWP"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 221153,
-      "name": "Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",
-      "url": "https://open.spotify.com/track/1YNQscOx6OqBQjxgJVhEeW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
@@ -1095,6 +1047,46 @@
       "duration_ms": 120500,
       "name": "Red Barz",
       "url": "https://open.spotify.com/track/4Cukzh6moDDM0RVTgRYbog"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "FREAKY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/5YoRDtZRUMiPX9cZDyOFVk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 189511,
+      "name": "Type Shit (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/4N4wemxs9Em6nJ5kXTjEsS"
     }
   ],
   "unique_name": "This Is Cardi B",

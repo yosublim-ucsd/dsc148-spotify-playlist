@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,640 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,652 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 42 | [SUSUME](https://open.spotify.com/track/7j6oAHpOU0k0sszlMK8ioQ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [SUSUME](https://open.spotify.com/album/4zUGmG0XwbpEw67ArG1oFh) | 3:18 |
 | 43 | [Go](https://open.spotify.com/track/0IWdo0wOFJ8eZkWVyvO0k2) | [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [Resurrection](https://open.spotify.com/album/4vecEKI94F7T7mldPgdq6q) | 3:25 |
 | 44 | [Step Into The Arena](https://open.spotify.com/track/21BKhmiFvF3BRkx8wlcdka) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Step Into The Arena](https://open.spotify.com/album/4UMWfoCWxryks2BwW18Iec) | 3:46 |
-| 45 | [RAKURAI](https://open.spotify.com/track/1w062ZFlKViaWMFkbxJRF3) | [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [GUNJO](https://open.spotify.com/album/4B1SD47qfhR8pDJIPd97V6) | 2:44 |
-| 46 | [FEEL THE RAIN](https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW) | 3:27 |
+| 45 | [FEEL THE RAIN](https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW) | 3:27 |
+| 46 | [RAKURAI](https://open.spotify.com/track/1w062ZFlKViaWMFkbxJRF3) | [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [GUNJO](https://open.spotify.com/album/4B1SD47qfhR8pDJIPd97V6) | 2:44 |
 | 47 | [Best Way 2 Die](https://open.spotify.com/track/1ZLqz5HjWXvx5Tjq8z8DZB) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [YOUNGBONG](https://open.spotify.com/artist/1hvu40N8E6jm8OtwgCo6q1) | [Best Way 2 Die](https://open.spotify.com/album/0IPHOMKradmfeCU67d5pSZ) | 3:34 |
 | 48 | [New Balance](https://open.spotify.com/track/1WqTLTA1e1oeAMkPq6bqgg) | [18scott](https://open.spotify.com/artist/5nXbqfx9TdDW8rM0etcd33) | [New Balance](https://open.spotify.com/album/1AkoAGBaL8rdGdf21KwiTO) | 2:17 |
 | 49 | [egirl wanna do bdsm.nsfw](https://open.spotify.com/track/23H7hqMiuNHrPU8AR9JNoy) | [JAY DVRDEN](https://open.spotify.com/artist/3mZ0TiDpjzDJU5qttTDHXq), [XNI](https://open.spotify.com/artist/3ibuYNQ2Oxu7lWcNf6Ww7c), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [egirl wanna do bdsm.nsfw](https://open.spotify.com/album/4Pt415qukXaaPjSmxWtFgr) | 2:36 |

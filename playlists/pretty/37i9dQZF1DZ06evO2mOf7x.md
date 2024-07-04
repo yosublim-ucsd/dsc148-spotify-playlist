@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 
 ### [This Is Ana Bárbara](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mOf7x)
 
-> This Is Ana Bárbara\. Los temas esenciales, todos en una lista.
+> This is Ana Bárbara\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,076 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,095 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 27 | [Nada de Ti](https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Nada de Ti](https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q) | 3:43 |
 | 28 | [Nadie Me Vera Llorar \- \(Versión Acústica\)](https://open.spotify.com/track/3RSLqRsPNCKNDoDufAPzDL) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Nadie Me Vera Llorar \(Versión Acústica\)](https://open.spotify.com/album/6OuUjx0eUvLzxHSOQCnPLn) | 3:03 |
 | 29 | [Mentiras Bonitas](https://open.spotify.com/track/6ddbm2i15TgUdzSV3YGOMA) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Mentiras Bonitas](https://open.spotify.com/album/2DJxdcXzxMOjD0xOehFRxj) | 3:08 |
-| 30 | [Rompiendo Cadenas \- Original mix](https://open.spotify.com/track/4Xg0S0G1Lk2EIu90z2d9Fi) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Rompiendo Cadenas](https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p) | 4:55 |
-| 31 | [No Se Que Voy A Hacer](https://open.spotify.com/track/6dO6WZpobtvRNsvHuOfRRH) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Lo Más Escuchado De](https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU) | 3:32 |
+| 30 | [No Se Que Voy A Hacer](https://open.spotify.com/track/6dO6WZpobtvRNsvHuOfRRH) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Lo Más Escuchado De](https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU) | 3:32 |
+| 31 | [Rompiendo Cadenas \- Original mix](https://open.spotify.com/track/4Xg0S0G1Lk2EIu90z2d9Fi) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Rompiendo Cadenas](https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p) | 4:55 |
 | 32 | [Así Bailé](https://open.spotify.com/track/45U5juthNlaAGEIFoq5Ehj) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Así Bailé](https://open.spotify.com/album/5o7L09EuQZyl5c4QrxuEvu) | 2:15 |
-| 33 | [Los Caminos de la Vida](https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Los Caminos de la Vida](https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA) | 3:48 |
-| 34 | [Para No Extrañarte Tanto](https://open.spotify.com/track/2lsFm8tmLVE0Nb2qutdA4z) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Para No Extrañarte Tanto](https://open.spotify.com/album/0ROzsdO9UMSDVh1AOHHEi6) | 3:53 |
+| 33 | [Para No Extrañarte Tanto](https://open.spotify.com/track/2lsFm8tmLVE0Nb2qutdA4z) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Para No Extrañarte Tanto](https://open.spotify.com/album/0ROzsdO9UMSDVh1AOHHEi6) | 3:53 |
+| 34 | [Los Caminos de la Vida](https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Los Caminos de la Vida](https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA) | 3:48 |
 | 35 | [Capullo Y Sorullo](https://open.spotify.com/track/7bLdwOQ7kLW7sWCIiewffp) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Cumbias Para Bailar](https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne) | 4:41 |
 | 36 | [A Mi Me Respetas](https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [A Mi Me Respetas](https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS) | 2:30 |
 | 37 | [Engañada](https://open.spotify.com/track/7fK66suUITQzGu4zynSEBE) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Lo Más Escuchado De](https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 49 | [Los Besos No Se Dan En La Camisa](https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Los Besos No Se Dan En La Camisa](https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS) | 3:44 |
 | 50 | [Amor Perfecto](https://open.spotify.com/track/3X4rVC4WXcUYU1u2NyMWKo) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Bienvenida La Vida](https://open.spotify.com/album/5mcWT0gHRYtncD9jCT3f6E) | 3:54 |
 
-Snapshot ID: `ZoHxgAAAAABecEH2JWgyCPuE8PV0iseh`
+Snapshot ID: `ZoNDAAAAAABLmwz6AwvPzcTGvd+qChUS`

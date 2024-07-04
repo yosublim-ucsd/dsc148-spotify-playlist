@@ -1,12 +1,12 @@
 {
   "description": "This Is Manuel Medrano. Los temas esenciales, todos en una lista.",
-  "num_followers": 150541,
+  "num_followers": 150724,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAABr7wqNDjCQxsiMsH9UHQMS",
+  "snapshot_id": "ZoNDAAAAAAB4gWoXZmvT1St6HVs5dBBi",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 203973,
+      "name": "Nenita",
+      "url": "https://open.spotify.com/track/6Bwu10ojlaFg7BGfHxvTWO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Otra Mitad",
         "url": "https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECTO",
-        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Manuel Medrano",
         "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
       },
@@ -183,6 +183,22 @@
       "duration_ms": 256948,
       "name": "Si Pudiera",
       "url": "https://open.spotify.com/track/5SqG2MEuRjwhxi1DcRR4V8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECTO",
+        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva"
     },
     {
       "added_at": null,
@@ -227,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verano En NY",
-        "url": "https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 186617,
-      "name": "Verano En NY",
-      "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Manuel Medrano",
         "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
       },
@@ -255,6 +255,22 @@
       "duration_ms": 169398,
       "name": "Donde Nadie Pueda Ir",
       "url": "https://open.spotify.com/track/05xgON7xWm3yN1yarMHdBv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Verano En NY",
+        "url": "https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 186617,
+      "name": "Verano En NY",
+      "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
     },
     {
       "added_at": null,
@@ -295,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Este Cuento",
-        "url": "https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 174083,
-      "name": "Este Cuento",
-      "url": "https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Manuel Medrano",
         "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
       },
@@ -323,6 +323,26 @@
       "duration_ms": 229405,
       "name": "Afuera Del Planeta",
       "url": "https://open.spotify.com/track/71t9GoojGIMZLySI6imKFY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde Que Te Vi",
+        "url": "https://open.spotify.com/album/6tajRRPxnmdcp24vdnq6Vd"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Desde Que Te Vi",
+      "url": "https://open.spotify.com/track/6JheR1ZMJyEJpFedDY1qme"
     },
     {
       "added_at": null,
@@ -359,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buena",
-        "url": "https://open.spotify.com/album/5qX4MWfoFf18oBL95wfkqN"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Buena",
-      "url": "https://open.spotify.com/track/2UDMeklpmOfq8L6wI75ysa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Manuel Medrano",
         "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
       },
@@ -391,6 +395,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Buena",
+        "url": "https://open.spotify.com/album/5qX4MWfoFf18oBL95wfkqN"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Buena",
+      "url": "https://open.spotify.com/track/2UDMeklpmOfq8L6wI75ysa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Este Cuento",
+        "url": "https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 174083,
+      "name": "Este Cuento",
+      "url": "https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eterno",
         "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
       },
@@ -403,26 +439,6 @@
       "duration_ms": 157360,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/7DwLHGbapLZRCIuWS0K6BQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cielo (feat. Nile Rodgers)",
-        "url": "https://open.spotify.com/album/7FZJlzMohMoU65vac6hydK"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 183422,
-      "name": "Cielo (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/5qH4I7qIkrhxir8UfLG0IY"
     },
     {
       "added_at": null,
@@ -463,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 197680,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/4CZ9C2LlTI1BWPAcvIiDbY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puro Sentimiento",
         "url": "https://open.spotify.com/album/2tfp6ivBYbFJ6XpoEtTNvn"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 186397,
       "name": "Puro Sentimiento",
       "url": "https://open.spotify.com/track/1xYI0JGJHWrs2V9l6xi67P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 197680,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/4CZ9C2LlTI1BWPAcvIiDbY"
     },
     {
       "added_at": null,
@@ -535,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 176840,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/17kYZzod8GRk75cjWaaOBC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amen (Spanglish Version)",
         "url": "https://open.spotify.com/album/4UP8EcEBwj8LikFk6Qx9CD"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECTO",
-        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 188933,
-      "name": "Perfecto",
-      "url": "https://open.spotify.com/track/0QbvqAtaQBivYtef7lZYw2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Polvo De Estrellas",
         "url": "https://open.spotify.com/album/1yBh12xHy3FXpXvQvRwadu"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 227429,
       "name": "Polvo De Estrellas",
       "url": "https://open.spotify.com/track/7kNIFgiurMWE3dB93hbEPE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECTO",
+        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "Perfecto",
+      "url": "https://open.spotify.com/track/0QbvqAtaQBivYtef7lZYw2"
     },
     {
       "added_at": null,

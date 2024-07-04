@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > de skarpeste nye knive i dansk musik! <a href="spotify:artist:2Ic6MYMc3DrPW8z8DHFoWS">Stella</a> & <a href="spotify:artist:76eNWShp2OZBflNjOY2jEG">Mattias Kolstrup</a> på forsiden🔪
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,021 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,033 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 20 | [Mig Og Min Mund](https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Mig Og Min Mund](https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q) | 2:39 |
 | 21 | [Go Fast Go Slow](https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Go Fast Go Slow](https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG) | 3:39 |
 | 22 | [Maler](https://open.spotify.com/track/2klZrdYgQZqwIqX1aMzBKZ) | [BONFÍ](https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia) | [Maler](https://open.spotify.com/album/4oE9RcZnqrhAxkYIrzmffP) | 2:31 |
-| 23 | [Berlin \(feat\. Marcus.wav\)](https://open.spotify.com/track/79pkpQo5RSxW8QKzktg7Su) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp), [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Berlin \(feat\. Marcus.wav\)](https://open.spotify.com/album/3UoNkriZF8Mtot3EcPU7cL) | 2:52 |
+| 23 | [Under Vand](https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [SAMBA](https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt) | 3:35 |
 | 24 | [Brev Fra En Forræder](https://open.spotify.com/track/0SDWa22lSLNpGnr5bF3f2z) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 4:03 |
-| 25 | [Under Vand](https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [SAMBA](https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt) | 3:35 |
+| 25 | [Berlin \(feat\. Marcus.wav\)](https://open.spotify.com/track/79pkpQo5RSxW8QKzktg7Su) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp), [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Berlin \(feat\. Marcus.wav\)](https://open.spotify.com/album/3UoNkriZF8Mtot3EcPU7cL) | 2:52 |
 | 26 | [Det´ kun vigtigt, hvad det er](https://open.spotify.com/track/1J9fp6cP3L42PqQrp81gi2) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Det´ kun vigtigt, hvad det er](https://open.spotify.com/album/4zmqsyAvhA629rPAozixXS) | 3:19 |
 | 27 | [Når Du Rører Ved Mig](https://open.spotify.com/track/1KaWWvD6AcG3Hyyr9jyLhf) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Når Du Rører Ved Mig](https://open.spotify.com/album/4QF32PL3bB5cAzY6RFzeLg) | 3:37 |
 | 28 | [Til Solen Er Sort](https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Til Solen Er Sort](https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz) | 3:44 |
@@ -59,23 +59,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 49 | [Lyden Af Livet](https://open.spotify.com/track/4JfnZgT0ehB5Za52GOgKNZ) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Lyden Af Livet](https://open.spotify.com/album/1anEXLEWx8jsAnesccDtWv) | 3:50 |
 | 50 | [Ung & Smuk](https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Ung & Smuk](https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3) | 2:40 |
 | 51 | [DIE FOR ME](https://open.spotify.com/track/0dsNrdmIL3l8dxKhmjI1PP) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [DIE FOR ME \(JEG VIL IKKE VIDE DU FINDES\)](https://open.spotify.com/album/2IcXBbSxLwjwp7OdNzgis4) | 2:46 |
-| 52 | [Lander Et Sted](https://open.spotify.com/track/1dO1mdz4CTpn2ep7kMYaqY) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Lander Et Sted](https://open.spotify.com/album/053hmh2lhKniUcNLL8NkKF) | 2:53 |
-| 53 | [Heaven](https://open.spotify.com/track/5Zy4JPMVwISXB1amTXQCaH) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Dear Space](https://open.spotify.com/album/587JvxALgoeXF1WQYsjAVp) | 3:22 |
+| 52 | [Heaven](https://open.spotify.com/track/5Zy4JPMVwISXB1amTXQCaH) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Dear Space](https://open.spotify.com/album/587JvxALgoeXF1WQYsjAVp) | 3:22 |
+| 53 | [Lander Et Sted](https://open.spotify.com/track/1dO1mdz4CTpn2ep7kMYaqY) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Lander Et Sted](https://open.spotify.com/album/053hmh2lhKniUcNLL8NkKF) | 2:53 |
 | 54 | [Se Mig](https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Elsk Mig](https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU) | 3:56 |
 | 55 | [Bænkevarmer](https://open.spotify.com/track/5rfWrweJSSVvC4Mg7opz8I) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Bænkevarmer](https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd) | 3:25 |
 | 56 | [Sol Gennem Regn](https://open.spotify.com/track/17n1KmOAVGpXe8BnWKrAD4) | [UNG\-SKAB](https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8) | [Sol Gennem Regn](https://open.spotify.com/album/1wnPzqdbhmYpeuZ5TZe385) | 2:53 |
-| 57 | [Jeg ved det godt](https://open.spotify.com/track/48Y0NLXdCU0FgHhqBohkSL) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [En sød lille én](https://open.spotify.com/album/2TJgZqKPl7zCYZNwM5Ca1A) | 2:51 |
-| 58 | [AUTOSTRADA](https://open.spotify.com/track/0USF4aKnHq5vhyv2EY6Ts7) | [FABRÄK](https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [7"](https://open.spotify.com/album/339UrGqZIVQUud5XLmUNz1) | 2:51 |
-| 59 | [Bedre](https://open.spotify.com/track/5Ql2mALNZqpOGjIniaI5sY) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Bedre](https://open.spotify.com/album/0zsJJ0AfLC7ZBePfhHK88h) | 2:50 |
+| 57 | [AUTOSTRADA](https://open.spotify.com/track/0USF4aKnHq5vhyv2EY6Ts7) | [FABRÄK](https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [7"](https://open.spotify.com/album/339UrGqZIVQUud5XLmUNz1) | 2:51 |
+| 58 | [Jeg ved det godt](https://open.spotify.com/track/48Y0NLXdCU0FgHhqBohkSL) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [En sød lille én](https://open.spotify.com/album/2TJgZqKPl7zCYZNwM5Ca1A) | 2:51 |
+| 59 | [Noget For Nogen](https://open.spotify.com/track/6nzQ4R4i3g70M0ZKo8qaiT) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Noget For Nogen](https://open.spotify.com/album/4cTBw8cEyxgshlZz5SO447) | 3:24 |
 | 60 | [Fra Wien Til Rom](https://open.spotify.com/track/0kvKRM0wrRoseGifAxfyGv) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Legebørn](https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD) | 4:08 |
-| 61 | [Noget For Nogen](https://open.spotify.com/track/6nzQ4R4i3g70M0ZKo8qaiT) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Noget For Nogen](https://open.spotify.com/album/4cTBw8cEyxgshlZz5SO447) | 3:24 |
+| 61 | [Bedre](https://open.spotify.com/track/5Ql2mALNZqpOGjIniaI5sY) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Bedre](https://open.spotify.com/album/0zsJJ0AfLC7ZBePfhHK88h) | 2:50 |
 | 62 | [Klubben \(i Klubben\) \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/2jlxBDCYsN3jdKqA7EviyG) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Klubben \(i Klubben\)](https://open.spotify.com/album/2yxOclgOPNKkEJ5rC5OQ1j) | 2:51 |
 | 63 | [læs mig \(akustisk version\)](https://open.spotify.com/track/3rY5dgQAki617xDHkqjEux) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [dagdrømmer \(akustisk version\)](https://open.spotify.com/album/7f6dsDteuo24cgM9vK5RSh) | 2:42 |
 | 64 | [Formskifter](https://open.spotify.com/track/6JjLdYF4tnAR6tJt9bypOu) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Formskifter](https://open.spotify.com/album/2v4FKfFPRtDVc2hjuysIxl) | 3:15 |
-| 65 | [JEG TOG FEJL](https://open.spotify.com/track/16HT5c4HSKErYQYPClyAUb) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L) | [JEG TOG FEJL](https://open.spotify.com/album/2itUyX1wmrsc42VapC3MIo) | 2:57 |
-| 66 | [Amor](https://open.spotify.com/track/0r3mhkCvXHaIrfh6Fh0ICH) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Amor](https://open.spotify.com/album/22Es0Jeka50VvECPh4TOpu) | 2:49 |
-| 67 | [Begår Tyveri](https://open.spotify.com/track/0e0hgjpnPbO89eobiVAsnV) | [Jung](https://open.spotify.com/artist/2P6G4CYRAhpRKMXy097RSL) | [Forfra Forbundet](https://open.spotify.com/album/0gq6IFI5AgEr5ygk1CjEMW) | 3:14 |
-| 68 | [Ny Og Næ](https://open.spotify.com/track/3Qrb34pY41bEv1UaFy9li9) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Ny Og Næ](https://open.spotify.com/album/10LVG1XLuoTivi3WYvPqkD) | 3:11 |
+| 65 | [Ny Og Næ](https://open.spotify.com/track/3Qrb34pY41bEv1UaFy9li9) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Ny Og Næ](https://open.spotify.com/album/10LVG1XLuoTivi3WYvPqkD) | 3:11 |
+| 66 | [JEG TOG FEJL](https://open.spotify.com/track/16HT5c4HSKErYQYPClyAUb) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L) | [JEG TOG FEJL](https://open.spotify.com/album/2itUyX1wmrsc42VapC3MIo) | 2:57 |
+| 67 | [Amor](https://open.spotify.com/track/0r3mhkCvXHaIrfh6Fh0ICH) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Amor](https://open.spotify.com/album/22Es0Jeka50VvECPh4TOpu) | 2:49 |
+| 68 | [Begår Tyveri](https://open.spotify.com/track/0e0hgjpnPbO89eobiVAsnV) | [Jung](https://open.spotify.com/artist/2P6G4CYRAhpRKMXy097RSL) | [Forfra Forbundet](https://open.spotify.com/album/0gq6IFI5AgEr5ygk1CjEMW) | 3:14 |
 | 69 | [Genstart](https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [GENSTART](https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11) | 4:40 |
 | 70 | [Puff](https://open.spotify.com/track/3s3jW8NmP4eLUz32sGxCPa) | [Dopha](https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn) | [Puff](https://open.spotify.com/album/7Jn6iY8Vr6OsJ4AkqYd88E) | 3:19 |
 

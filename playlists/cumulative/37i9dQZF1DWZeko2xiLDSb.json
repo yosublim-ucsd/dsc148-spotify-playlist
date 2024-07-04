@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237984,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/2SfoxWr00HN0iYpxyVDMyQ"
+    },
+    {
+      "album": {
         "name": "Drukqs",
         "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
       },
@@ -1056,7 +1074,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 217172,
       "name": "I Hope I Packed A Parachute (feat. Charlotte Cardin)",
       "url": "https://open.spotify.com/track/2AB27ZGxzb8z2rwTvdCDif"

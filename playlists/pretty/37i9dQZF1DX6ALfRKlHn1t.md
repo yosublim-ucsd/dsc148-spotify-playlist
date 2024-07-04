@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > the soundtrack for your vitamin d fix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,114,366 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115,232 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 23 | [Calling After Me](https://open.spotify.com/track/6YVajR33kCWLhWpMVD8AGD) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Model](https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ) | 3:07 |
 | 24 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
 | 25 | [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 |
-| 26 | [I'm In Love With You](https://open.spotify.com/track/12g9IeQzX7xECLNxz8dpb5) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 4:22 |
-| 27 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 |
+| 26 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 |
+| 27 | [I'm In Love With You](https://open.spotify.com/track/12g9IeQzX7xECLNxz8dpb5) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 4:22 |
 | 28 | [Panoramic View](https://open.spotify.com/track/24DMpa4roYV1VkykwCSNMG) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Panoramic View](https://open.spotify.com/album/3lN0LPFg54r1NQOmLW24Jz) | 3:52 |
 | 29 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 30 | [Triple Seven](https://open.spotify.com/track/0Fo2GMUTxQXV2Zr86zW6Z6) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/7IiqMfyjfLXFS0ngnzgvV5) | 3:26 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 36 | [Amber](https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Greatest Hits '93 \- '03](https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG) | 3:31 |
 | 37 | [All Your Life](https://open.spotify.com/track/5tL2wDaEAsdTGLa8hN5NWq) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [All Your Life](https://open.spotify.com/album/0VwdyfZunjwEUq26Yd5Dez) | 3:16 |
 | 38 | [Feel Like That \(feat\. Bradley Nowell\)](https://open.spotify.com/track/193RlTGibelHrNqyAMEbLl) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Jakobs Castle](https://open.spotify.com/artist/0D4JnDxTBaTWJzH4BXU8Ro), [Bradley Nowell](https://open.spotify.com/artist/2SN17aji6ZUYSjeWTgk8RG) | [Feel Like That \(feat\. Bradley Nowell\)](https://open.spotify.com/album/4Ocj71UOGUGwtn9PSH2wwY) | 3:47 |
-| 39 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 |
-| 40 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |
+| 39 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |
+| 40 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 |
 | 41 | [Sick Love](https://open.spotify.com/track/6GsP3uMCd0Dn5T37C93waZ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Getaway](https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6) | 3:41 |
 | 42 | [Can You Feel It?](https://open.spotify.com/track/7JIguoPVeFrm48Mjx7TTvQ) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Can You Feel It?](https://open.spotify.com/album/6WI1Qyo6IcbIq8zPOnaJYq) | 3:04 |
 | 43 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 45 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 |
 | 46 | [Stone Love](https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Kona Town](https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4) | 4:14 |
 | 47 | [Colorado](https://open.spotify.com/track/35iR1qzexmbcUSgA01S4gI) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 2:54 |
-| 48 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 |
-| 49 | [Vertigo](https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Vertigo](https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky) | 2:28 |
+| 48 | [Vertigo](https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Vertigo](https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky) | 2:28 |
+| 49 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 |
 | 50 | [Tiny Moves](https://open.spotify.com/track/4yTqr0F1vVAY2pUCRiRpr9) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:48 |
 | 51 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 |
 | 52 | [Motorcycle](https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Motorcycle](https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g) | 2:46 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 60 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 |
 | 61 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 |
 | 62 | [Barrio Hustle](https://open.spotify.com/track/6UK4epTqVwWpeFfslXecth) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t) | 3:14 |
-| 63 | [All A Mystery](https://open.spotify.com/track/1fYdtAhgGLKmOZE46mCGm0) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [All A Mystery](https://open.spotify.com/album/33NhYguzpm450MS00ZxbC0) | 3:09 |
-| 64 | [Is It Magic?](https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Is It Magic?](https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e) | 3:08 |
+| 63 | [Is It Magic?](https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Is It Magic?](https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e) | 3:08 |
+| 64 | [All A Mystery](https://open.spotify.com/track/1fYdtAhgGLKmOZE46mCGm0) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [All A Mystery](https://open.spotify.com/album/33NhYguzpm450MS00ZxbC0) | 3:09 |
 | 65 | [adios](https://open.spotify.com/track/7BkLfZnv7DJdJJ9wWj8Vdv) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 3:23 |
 | 66 | [Do You Wanna Talk](https://open.spotify.com/track/0fjEEHg3EVDBBbL7Vqy2O6) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:26 |
 | 67 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 |

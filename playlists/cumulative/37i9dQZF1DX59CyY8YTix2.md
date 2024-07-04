@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: Chilli Beans.
 
-1,648 songs - 4 day 6 hr 34 min
+1,649 songs - 4 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Burn Out](https://open.spotify.com/track/2VWFENMWsS4dJNbzto8DB8) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Orange](https://open.spotify.com/album/3eqM4QbVALwcN9CXr0pBHp) | 2:05 | 2023-05-16 | 2023-05-18 |
 | [Burn Out](https://open.spotify.com/track/6y3rK3sNUy5jCaJ6UogkU4) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Orange](https://open.spotify.com/album/1GtBPVV99IEUhqdoJRCds8) | 2:05 | 2023-05-16 | 2023-06-21 |
 | [Burn The Fire](https://open.spotify.com/track/6FqxaTZhLuGWc89hc9ZOMe) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [Burn The Fire](https://open.spotify.com/album/01F2KOw5jXOkJDBAeDLAWs) | 3:55 | 2023-10-17 | 2023-11-22 |
-| [Bye\-Bye Show](https://open.spotify.com/track/7pBLnIBcAqIQ2NHVvJeNfA) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/3kL7hk71Spv76STO0skLct) | 4:41 | 2023-02-21 |  |
+| [Bye\-Bye Show](https://open.spotify.com/track/7pBLnIBcAqIQ2NHVvJeNfA) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/3kL7hk71Spv76STO0skLct) | 4:41 | 2023-02-21 | 2024-07-04 |
 | [Candy Candy Candy](https://open.spotify.com/track/3TrebEANXJrI2pB2MlNY46) | [李鳳](https://open.spotify.com/artist/2LkxO2dowN9uLUMWlGe7Mj) | [Candy Candy Candy](https://open.spotify.com/album/4mnboCYgJLVXRY1MdQwhLC) | 3:02 | 2022-06-23 | 2022-06-27 |
 | [CANDY FLIP](https://open.spotify.com/track/26qsvP1phIVnLpaDzREHBO) | [Hysteric Panic](https://open.spotify.com/artist/5gcxdZ3ZghD2XNc8ptMLZq) | [CANDY FLIP](https://open.spotify.com/album/05IjjYHW7LI1UgAxwo2QBt) | 3:55 | 2023-08-29 | 2023-09-06 |
 | [CANDY MOON](https://open.spotify.com/track/2zqbFeCXeON4VggxeAatGd) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [New Beautiful](https://open.spotify.com/album/4BFKguk68XmcaazFf6GU9S) | 3:51 | 2022-06-14 | 2022-06-29 |
@@ -1415,6 +1415,7 @@
 | [断線](https://open.spotify.com/track/6ba7hPKkw5zlPkhYZ1sqZw) | [草野華余子](https://open.spotify.com/artist/6X9mX9u8tgpvwgCbY5eQps) | [断線](https://open.spotify.com/album/6sD198Df4wxdHDGvzmmmQl) | 3:35 | 2022-06-02 | 2022-06-23 |
 | [新迷宮](https://open.spotify.com/track/0KealTFHloPDZTS02sDJHJ) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [新迷宮 ep](https://open.spotify.com/album/3DJUqDJKzhJoeEdQNpinJr) | 3:05 | 2024-03-14 | 2024-04-19 |
 | [新迷宮](https://open.spotify.com/track/5pto8srVXclIjXNlS7tyFB) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [新迷宮 ep](https://open.spotify.com/album/5yPpH5dGq2fpjRaIGqJQYJ) | 3:05 | 2024-04-16 | 2024-06-01 |
+| [日めくり](https://open.spotify.com/track/4Nd1y0aG03EDeGfQCK3xYI) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [日めくり](https://open.spotify.com/album/2jkkq1aokB7b34getZR22S) | 3:53 | 2024-06-25 |  |
 | [日曜前夜](https://open.spotify.com/track/2JLH9fAXsIK3APJMs9Nizh) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [日曜前夜](https://open.spotify.com/album/4aVcSbbEmsjUlDeCAD8y5N) | 4:24 | 2023-06-13 | 2023-06-15 |
 | [日曜日](https://open.spotify.com/track/2yvjnFNORLgGDeASYEtPVX) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [Amoeba](https://open.spotify.com/album/0GYLGVxaB0GpFYGf1CxYCa) | 3:37 | 2022-05-31 | 2022-07-29 |
 | [日曜日をちょうだい](https://open.spotify.com/track/7rMgKCnSP8CVWyB8k60nWb) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [日曜日をちょうだい](https://open.spotify.com/album/6qrbs18MkM96DZfERFYzOs) | 4:38 | 2022-07-14 | 2022-07-20 |

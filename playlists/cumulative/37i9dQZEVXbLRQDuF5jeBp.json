@@ -17488,7 +17488,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 383639,
       "name": "euphoria",
       "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
@@ -21684,7 +21684,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 152979,
       "name": "GIRLS",
       "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
@@ -33028,6 +33028,24 @@
       "duration_ms": 210586,
       "name": "Lion King On Ice",
       "url": "https://open.spotify.com/track/1ZvBVbsaNqHEP6ymXaPGlj"
+    },
+    {
+      "album": {
+        "name": "Lithonia",
+        "url": "https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179320,
+      "name": "Lithonia",
+      "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
     },
     {
       "album": {
@@ -49926,7 +49944,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
@@ -52198,7 +52216,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 182840,
       "name": "Smeraldo Garden Marching Band (feat. Loco)",
       "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
@@ -59910,6 +59928,32 @@
       "duration_ms": 193795,
       "name": "To Die For",
       "url": "https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx"
+    },
+    {
+      "album": {
+        "name": "Tobey (feat. Big Sean and BabyTron)",
+        "url": "https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284892,
+      "name": "Tobey (feat. Big Sean and BabyTron)",
+      "url": "https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW"
     },
     {
       "album": {

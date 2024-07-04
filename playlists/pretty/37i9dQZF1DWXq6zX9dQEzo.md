@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Faith without work\[out\]s is dead!  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,392 likes - 54 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,473 likes - 54 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 10 | [Hands on Me](https://open.spotify.com/track/4fJPzIrLQPeHl9ONB4bPCD) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Hands on Me](https://open.spotify.com/album/0biyWpaRqrmazzLwt0pqts) | 2:16 |
 | 11 | [Reddit](https://open.spotify.com/track/2WN53cOBR4iZicCuocfbDr) | [Larell](https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw) | [Reddit](https://open.spotify.com/album/0e0ZslfuN8G7M2sm64s74E) | 1:24 |
 | 12 | [Squabble](https://open.spotify.com/track/0jYGdeobsBl0LExCcDugp8) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Key'ijah](https://open.spotify.com/artist/5bLqm0pB0l0J5hRMXajA0S) | [Squabble](https://open.spotify.com/album/0AjZUQHbdaC7QtxbOZO0xQ) | 2:43 |
-| 13 | [HI\-C](https://open.spotify.com/track/6DmLU5yyCcwCS5MgHbZq78) | [HOLY GIRLXHLY GRL](https://open.spotify.com/artist/0w28kuI223Uywzaf68lL40), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Queen Lee](https://open.spotify.com/artist/0ESxKUSobqG0GkLrxg77XS), [Tk Lee](https://open.spotify.com/artist/05B3lggRvyTqRwEV9YDwQz) | [HI\-C](https://open.spotify.com/album/42eKaKWWjei5ViAUQ4XY1J) | 3:03 |
+| 13 | [HI\-C](https://open.spotify.com/track/6DmLU5yyCcwCS5MgHbZq78) | [HOLY GIRLXHLY GRL](https://open.spotify.com/artist/0w28kuI223Uywzaf68lL40), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Queen Lee](https://open.spotify.com/artist/0ESxKUSobqG0GkLrxg77XS), [Tk Lee](https://open.spotify.com/artist/05B3lggRvyTqRwEV9YDwQz) | [HI\-C](https://open.spotify.com/album/42eKaKWWjei5ViAUQ4XY1J) | 3:03 |
 | 14 | [2BIG!](https://open.spotify.com/track/1b6aMjLdJG6zAytUggQHj1) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [2BIG!](https://open.spotify.com/album/3P5YjGhkXFyHHYxxR9IHPL) | 3:14 |
 | 15 | [OOWEE](https://open.spotify.com/track/2S8j7DJfqYEDG7sv74TA4u) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [OOWEE](https://open.spotify.com/album/7GOJOlZImisCOmvOTyxLC6) | 2:28 |
 | 16 | [ME VS ME](https://open.spotify.com/track/3rOfhtBKOJ24iFcLyrYTmq) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k), [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [ME VS ME](https://open.spotify.com/album/5zQDF50GuLGKsOCieanQ28) | 3:09 |

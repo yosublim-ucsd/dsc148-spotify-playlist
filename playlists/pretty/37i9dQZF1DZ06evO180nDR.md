@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 ### [This Is Los Dareyes De La Sierra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO180nDR)
 
-> This Is Los Dareyes De La Sierra\. Les titres incontournables, réunis dans une seule et même playlist.
+> This Is Los Dareyes De La Sierra\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,662 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,691 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 50 | [Arrincónamela](https://open.spotify.com/track/2ndTyIF8jtCcwFzRhdxvaw) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 3:54 |
 | 51 | [La Neta \- En Vivo](https://open.spotify.com/track/2IKNbUKTFTaN5Tflyg9wTm) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [De Parranda Con Darey \(En Vivo\)](https://open.spotify.com/album/3oIBYT7NlLS89k4yu80Mj2) | 3:23 |
 
-Snapshot ID: `ZoHxgAAAAADwuXt2XrEiLocpQhRoLVU7`
+Snapshot ID: `ZoNDAAAAAAApuPPGefDUg1FPlOwypkIA`

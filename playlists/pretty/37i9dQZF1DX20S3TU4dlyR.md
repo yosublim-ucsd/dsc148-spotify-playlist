@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,399 likes - 89 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,424 likes - 89 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 30 | [Vos sabés](https://open.spotify.com/track/6U4RZyZrUQj4w4umgs6Zpl) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Vos Sabés](https://open.spotify.com/album/3BB9jIVC6vWvx6wQaKvnEo) | 3:58 |
 | 31 | [Andei Só](https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Andei Só](https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd) | 5:57 |
 | 32 | [Tu Amor](https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tu Amor](https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB) | 3:40 |
-| 33 | [Circunvalación](https://open.spotify.com/track/3MbWaYdtpVVtpGQqWBmeMq) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Ruli](https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq) | 3:54 |
-| 34 | [Cinco](https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [La Misión](https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko) | 3:28 |
+| 33 | [Cinco](https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [La Misión](https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko) | 3:28 |
+| 34 | [Circunvalación](https://open.spotify.com/track/3MbWaYdtpVVtpGQqWBmeMq) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Ruli](https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq) | 3:54 |
 | 35 | [Waitin en Vano](https://open.spotify.com/track/03eLaRGb1oZgmtGSrMuoty) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 5:14 |
 | 36 | [7 Vidas](https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS) | [La Zimbabwe](https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc), [Son del Arroyo](https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se) | [7 Vidas](https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B) | 3:21 |
 | 37 | [Pupilas Lejanas \(En Vivo\)](https://open.spotify.com/track/3b355y8meUI0ok4bhu9OpI) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:00 |
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 39 | [Morena](https://open.spotify.com/track/1Qb92EJxnTsGcBEofiwMV0) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Morena](https://open.spotify.com/album/7bI88FeKBsGe9mT2xQFmj7) | 3:16 |
 | 40 | [Déjalo Fluir](https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:25 |
 | 41 | [En Tus Manos](https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Donde Brilla el Sol](https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T) | 4:08 |
-| 42 | [Llamado](https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Anblessnabi](https://open.spotify.com/artist/3uqqh1xh1gsFU2LRewg4x7) | [Llamado](https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H) | 3:45 |
-| 43 | [Quemando Tu Pecho](https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 4:19 |
+| 42 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
+| 43 | [Llamado](https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Anblessnabi](https://open.spotify.com/artist/3uqqh1xh1gsFU2LRewg4x7) | [Llamado](https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H) | 3:45 |
 | 44 | [Cómo Ver?](https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Cómo Ver?](https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc) | 5:08 |
-| 45 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
+| 45 | [Quemando Tu Pecho](https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 4:19 |
 | 46 | [Runaway \(En Vivo\)](https://open.spotify.com/track/2PMSOgAP1A2TYbRqGCS9ak) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:07 |
 | 47 | [Gaia](https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Encanto](https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H) | 3:13 |
 | 48 | [Consentimiento](https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Mamita Peyote](https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H) | 4:31 |

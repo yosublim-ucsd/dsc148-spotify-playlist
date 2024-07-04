@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > The biggest hits in country music\. Cover: Post Malone & Blake Shelton
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,867 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,928 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

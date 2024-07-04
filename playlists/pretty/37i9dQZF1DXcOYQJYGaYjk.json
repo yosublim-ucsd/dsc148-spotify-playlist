@@ -1,6 +1,6 @@
 {
   "description": "For those that like it hard and heavy. Cover: Motionless In White",
-  "num_followers": 220536,
+  "num_followers": 220526,
   "original_name": "Heavy Gamers",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Ghost Of Me",
+        "url": "https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "Ghost Of Me",
+      "url": "https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
         "url": "https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 263161,
       "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
       "url": "https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Ghost Of Me",
-        "url": "https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov"
-      },
-      "artists": [
-        {
-          "name": "Make Them Suffer",
-          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
-        }
-      ],
-      "duration_ms": 231428,
-      "name": "Ghost Of Me",
-      "url": "https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "NAIL5",
-        "url": "https://open.spotify.com/album/5JIRskvoOGxpCmqnQbdKX6"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 153622,
-      "name": "NAIL5",
-      "url": "https://open.spotify.com/track/7qD4fAVNgkhhQ7TAfwcLCa"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "The Death of Me",
         "url": "https://open.spotify.com/album/415LpbInk4LGm9q9ILX1s1"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 247924,
       "name": "Masochist",
       "url": "https://open.spotify.com/track/2a05MFdR1vtm8QVKFs1SGn"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "NAIL5",
+        "url": "https://open.spotify.com/album/5JIRskvoOGxpCmqnQbdKX6"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 153622,
+      "name": "NAIL5",
+      "url": "https://open.spotify.com/track/7qD4fAVNgkhhQ7TAfwcLCa"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/2tStEaMvl7vkfgAEwysgYP"
+        "name": "Creature",
+        "url": "https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi"
       },
       "artists": [
         {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
         }
       ],
-      "duration_ms": 227093,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/3gRwYAsiX4e50J43BkmZxI"
+      "duration_ms": 225278,
+      "name": "Creature",
+      "url": "https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Creature",
-        "url": "https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi"
-      },
-      "artists": [
-        {
-          "name": "LANDMVRKS",
-          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
-        }
-      ],
-      "duration_ms": 225278,
-      "name": "Creature",
-      "url": "https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Tether",
         "url": "https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 211000,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/33oseVSdiC8Og5jByjwP5d"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/2tStEaMvl7vkfgAEwysgYP"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/3gRwYAsiX4e50J43BkmZxI"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Don't Reach For Me",
-        "url": "https://open.spotify.com/album/3FWb6SMsjXJ1VqRamg44cO"
-      },
-      "artists": [
-        {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        }
-      ],
-      "duration_ms": 225240,
-      "name": "Don't Reach For Me",
-      "url": "https://open.spotify.com/track/3pFg2UmSItBn9Zj8AmVse7"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Lost in the Waves (The Complete Edition)",
         "url": "https://open.spotify.com/album/6N1zjfchsRYKmiqyQZSudl"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 223547,
       "name": "Death",
       "url": "https://open.spotify.com/track/2e9HC16cEYxDnj4QAmsYi4"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Don't Reach For Me",
+        "url": "https://open.spotify.com/album/3FWb6SMsjXJ1VqRamg44cO"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        }
+      ],
+      "duration_ms": 225240,
+      "name": "Don't Reach For Me",
+      "url": "https://open.spotify.com/track/3pFg2UmSItBn9Zj8AmVse7"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Not Without My Ghosts",
-        "url": "https://open.spotify.com/album/5IBhAOIYSATI3WY7DgeSl7"
-      },
-      "artists": [
-        {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
-        }
-      ],
-      "duration_ms": 240082,
-      "name": "It's Hell Down Here",
-      "url": "https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Body Bag",
         "url": "https://open.spotify.com/album/7bZMcP6paQcjkuLwVkB7aN"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 196979,
       "name": "Body Bag",
       "url": "https://open.spotify.com/track/1vuhNiQZTPkmnNJ0xNsf5S"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Not Without My Ghosts",
+        "url": "https://open.spotify.com/album/5IBhAOIYSATI3WY7DgeSl7"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "duration_ms": 240082,
+      "name": "It's Hell Down Here",
+      "url": "https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Purge",
-        "url": "https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF"
-      },
-      "artists": [
-        {
-          "name": "Brand of Sacrifice",
-          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
-        }
-      ],
-      "duration_ms": 282909,
-      "name": "Purge",
-      "url": "https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Brainwashed (Deluxe)",
         "url": "https://open.spotify.com/album/30TMZxAS5atxns4X1e8LOQ"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 307933,
       "name": "Four Walls",
       "url": "https://open.spotify.com/track/04np64OjIt01Z7KSYWwhcC"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Purge",
+        "url": "https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF"
+      },
+      "artists": [
+        {
+          "name": "Brand of Sacrifice",
+          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
+        }
+      ],
+      "duration_ms": 282909,
+      "name": "Purge",
+      "url": "https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW"
     },
     {
       "added_at": "2024-05-10 04:00:00",

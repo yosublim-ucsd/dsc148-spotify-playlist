@@ -4,7 +4,7 @@
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-68 songs - 5 hr 34 min
+69 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Another Round \- Zouk](https://open.spotify.com/track/2bMD78FllNnUX5L5cejItr) | [Zo Konpa](https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5) | [Another Round](https://open.spotify.com/album/3BQOkiKZPPqcyHOmqKILNQ) | 4:18 | 2020-06-03 | 2024-04-19 |
 | [Avé'w](https://open.spotify.com/track/4mAbKXEkZVJlJCW3fwkB01) | [Daan Junior](https://open.spotify.com/artist/1mOEe4YuD4hBTa1xyzSBfs) | [Avé'w](https://open.spotify.com/album/6EfS8JFEcuq4IoBQV3BZRf) | 5:35 | 2020-06-03 |  |
 | [Ayiti \- Bang Bang](https://open.spotify.com/track/2c8QOX0nztxqKjK2QtP9Nb) | [Carimi](https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat) | [Bang Bang](https://open.spotify.com/album/4LxfQP8a6lHhZ6gU3AFnn4) | 5:08 | 2024-04-06 | 2024-04-19 |
+| [Banm Bagay La](https://open.spotify.com/track/2F7is4x8kYIidEEdbAouWF) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [Dj Tyson](https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv), [T\-Gui](https://open.spotify.com/artist/4qc6LLDZhaO2vOSJZ7Jrq5) | [Banm Bagay La](https://open.spotify.com/album/501IQJZV5F6ZABRzUVZmRP) | 4:18 | 2024-07-03 |  |
 | [Biznis pam](https://open.spotify.com/track/5iMDhnh4tktnIeOCDHHgOH) | [Djakout Mizik](https://open.spotify.com/artist/6V5n3LkJ2sTG6PfvnSjRPe) | [Zouk soirée privée \(Danse avec moi\)](https://open.spotify.com/album/0Y0PGUE8JK9gE83cy1uNRR) | 6:34 | 2020-06-03 | 2023-09-22 |
 | [Blakawout](https://open.spotify.com/track/1TWzsHg1p2lC21NXGWBOzS) | [Klass](https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n) | [Ret Nan Liy Ou](https://open.spotify.com/album/4kATfnQIJ6aOEfQ5hxMGOp) | 5:14 | 2020-06-03 | 2024-03-02 |
 | [Bom sou 2 bo](https://open.spotify.com/track/7vi3BWFIq8RMsAVlMjT5kn) | [Enposib](https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn) | [Chay](https://open.spotify.com/album/6VLcntqnLsNkREacIO31xl) | 4:12 | 2024-04-06 | 2024-04-19 |
@@ -21,7 +22,7 @@
 | [Di'm Kibò'w Vle'l \#Quickie](https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp) | [X\-tassy](https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D) | [Motivation](https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr) | 4:24 | 2020-06-03 |  |
 | [Douce Tankou Sirop](https://open.spotify.com/track/3ovFI5AbptfOzODNeUsYE6) | [Massiv3](https://open.spotify.com/artist/22HBKoiiXj1Klki0QDWcrr), [Dj Son](https://open.spotify.com/artist/4CcCHfqnROkTsWA85BZ0BS), [Dj Excel](https://open.spotify.com/artist/6CWTh5dOTapfp6pJS0z98l) | [Douce Tankou Sirop](https://open.spotify.com/album/6aciWh0PwWbGK0eijriQVm) | 5:15 | 2024-04-06 |  |
 | [Fanm Sa a Move](https://open.spotify.com/track/5dIb9hXtgboh7H50zFhwfM) | [Mikaben](https://open.spotify.com/artist/3KoKlLuiiCm6rUS9BO89Fp), [Carimi](https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat) | [Atis Lokal Pap Janm Lague](https://open.spotify.com/album/5mIhKdY0S8JUMvlOHzC4Cy) | 4:45 | 2020-06-03 | 2024-04-19 |
-| [Fè Sa W Vle Avè M'](https://open.spotify.com/track/4NqjBifd47mrbbieZ0KNkz) | [K\-Zino](https://open.spotify.com/artist/0ByJbRK16DdCPnCztvgtuW) | [Transition](https://open.spotify.com/album/2wsl13HiIsHw6wgACS87Tp) | 4:07 | 2020-06-03 |  |
+| [Fè Sa W Vle Avè M'](https://open.spotify.com/track/4NqjBifd47mrbbieZ0KNkz) | [K\-Zino](https://open.spotify.com/artist/0ByJbRK16DdCPnCztvgtuW) | [Transition](https://open.spotify.com/album/2wsl13HiIsHw6wgACS87Tp) | 4:07 | 2020-06-03 | 2024-07-04 |
 | [Gen Bagay](https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky) | [Yani Martelly](https://open.spotify.com/artist/51Mb7I2woAMIK6DOiMlfuy), [Kenny](https://open.spotify.com/artist/3a1zFnNXUZDXoIwhHGdN6f) | [Gen Bagay](https://open.spotify.com/album/2c17yCuqm2HgVmPldv3vhV) | 3:14 | 2020-06-03 |  |
 | [Gouyé](https://open.spotify.com/track/116sqvAfJGse17D2vOqjSR) | [Jim Rama](https://open.spotify.com/artist/0lBsfiyz1qHN8F8alOIE60), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Nouvel R](https://open.spotify.com/album/7t73llYw1dPOBpewNut9GD) | 4:42 | 2020-06-03 | 2024-04-19 |
 | [Grev Bèbè](https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 5:16 | 2020-06-03 | 2024-04-07 |

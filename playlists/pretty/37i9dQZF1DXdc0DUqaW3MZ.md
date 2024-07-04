@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,326 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,424 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 23 | [Excuse Me](https://open.spotify.com/track/6ViOU67LFhEIGGeB8JdJ9b) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [One Time](https://open.spotify.com/album/6CXi6cgaUfZCb4gDcqDWiu) | 2:19 |
 | 24 | [Spit It Out \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/3sc1W8OHwAFoPe6mS7AJUT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:39 |
 | 25 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 |
-| 26 | [Money \(with Tom Misch\)](https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Money](https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG) | 4:51 |
-| 27 | [Feel It](https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [Milaa](https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB) | [Feel It](https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS) | 3:34 |
+| 26 | [Feel It](https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [Milaa](https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB) | [Feel It](https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS) | 3:34 |
+| 27 | [Money \(with Tom Misch\)](https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Money](https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG) | 4:51 |
 | 28 | [Cactus Water](https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cactus Water](https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR) | 3:24 |
 | 29 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 |
 | 30 | [Feed The Fire \(feat\. Lucky Daye\)](https://open.spotify.com/track/0XDA8IPloCFvf8c0ZNzRnB) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:05 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 63 | [Above \(feat\. i am an island\)](https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [i am an island](https://open.spotify.com/artist/2ih06jCvzYsW24ZfcWe41w) | [Above \(feat\. i am an island\)](https://open.spotify.com/album/1eFyId3Wx47Wa0zyhVbXYv) | 3:05 |
 | 64 | [Summer Lovin'](https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KEHLI](https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA) | [Summer Lovin'](https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS) | 3:06 |
 | 65 | [Alone](https://open.spotify.com/track/415KAWPy9kNLsx515sqxI1) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Alone](https://open.spotify.com/album/5YuVGS5KyFqhPSsHzsDRSb) | 2:18 |
-| 66 | [Sunrise Sunfall \- Edit](https://open.spotify.com/track/191lXO61Bz5ncHsxCJksUW) | [NATE08](https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl), [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Sunrise Sunfall \(Edit\)](https://open.spotify.com/album/2dxUn6hVWWdHXvidEdJ7R6) | 3:13 |
-| 67 | [Nah It Ain't The Same](https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Nah It Ain't The Same](https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP) | 4:11 |
-| 68 | [Say Yes \(feat\. Rona Ray\)](https://open.spotify.com/track/5gUVHfISusTqmRZNiTnjpu) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Say Yes \(feat\. Rona Ray\)](https://open.spotify.com/album/3ZpyFFA6SMx5oIlXlhRcCx) | 2:37 |
-| 69 | [Work It Out](https://open.spotify.com/track/4qnUMf12GKpBS9WKX7BuJp) | [Rachel Mae Hannon](https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc) | [Work It Out](https://open.spotify.com/album/2IDy4wIcWkYJvzo8jkpMoJ) | 3:06 |
+| 66 | [Nah It Ain't The Same](https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Nah It Ain't The Same](https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP) | 4:11 |
+| 67 | [Sunrise Sunfall \- Edit](https://open.spotify.com/track/191lXO61Bz5ncHsxCJksUW) | [NATE08](https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl), [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Sunrise Sunfall \(Edit\)](https://open.spotify.com/album/2dxUn6hVWWdHXvidEdJ7R6) | 3:13 |
+| 68 | [Work It Out](https://open.spotify.com/track/4qnUMf12GKpBS9WKX7BuJp) | [Rachel Mae Hannon](https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc) | [Work It Out](https://open.spotify.com/album/2IDy4wIcWkYJvzo8jkpMoJ) | 3:06 |
+| 69 | [Say Yes \(feat\. Rona Ray\)](https://open.spotify.com/track/5gUVHfISusTqmRZNiTnjpu) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Say Yes \(feat\. Rona Ray\)](https://open.spotify.com/album/3ZpyFFA6SMx5oIlXlhRcCx) | 2:37 |
 | 70 | [All Mine](https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [All Mine](https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO) | 2:28 |
 
 Snapshot ID: `ZmxYrQAAAADYUg7x29mR+q7xvTu/6Fc8`

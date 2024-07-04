@@ -1,12 +1,12 @@
 {
   "description": "This Is Chalino Sanchez. Los temas esenciales, todos en una lista.",
-  "num_followers": 303145,
+  "num_followers": 303265,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAAELJABaAVpc0ULsTNyrA7w",
+  "snapshot_id": "ZoNDAAAAAABFH4l+cPXYmIp0b2fRDNji",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Pela Vacas",
+        "url": "https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 203592,
+      "name": "Corrido Del Gallito",
+      "url": "https://open.spotify.com/track/3fnAObJdCiCqiSTDgrPzAZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alma Enamorada",
         "url": "https://open.spotify.com/album/0MKsMtUgIIJ0ITShmUqs8M"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 180025,
       "name": "Armando Aguirre",
       "url": "https://open.spotify.com/track/1DKgGGbLAkBCOVDZZLFvSD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Pela Vacas",
-        "url": "https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 203592,
-      "name": "Corrido Del Gallito",
-      "url": "https://open.spotify.com/track/3fnAObJdCiCqiSTDgrPzAZ"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El 21 Black Jack",
-        "url": "https://open.spotify.com/album/1q7gvn0iLFjNP1liFvZtcC"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 146386,
-      "name": "Pilares de Cristal",
-      "url": "https://open.spotify.com/track/5MCLSA55onhNKIOd0R4hzT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Pela Vacas",
         "url": "https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 191541,
       "name": "La Muerte Del Pela Vacas",
       "url": "https://open.spotify.com/track/3hPONUfgInu27vGEezmcWR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El 21 Black Jack",
+        "url": "https://open.spotify.com/album/1q7gvn0iLFjNP1liFvZtcC"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 146386,
+      "name": "Pilares de Cristal",
+      "url": "https://open.spotify.com/track/5MCLSA55onhNKIOd0R4hzT"
     },
     {
       "added_at": null,

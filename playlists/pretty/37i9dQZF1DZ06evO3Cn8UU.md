@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 
 > This is Teddy Pendergrass\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,509 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,515 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 | 49 | [All I Need Is You](https://open.spotify.com/track/6uViXuBpQbfDFXke9mUQ2S) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy \(Expanded Edition\)](https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM) | 4:33 |
 | 50 | [Don't Keep Wastin' My Time](https://open.spotify.com/track/20ZbW7KvaWKCmRhbM8rTFl) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [You And I](https://open.spotify.com/album/7EcI2O6Idj1LP3czKldkVC) | 4:10 |
 
-Snapshot ID: `ZoHxgAAAAAAnCfEXs0r0zeMnsVK2m70h`
+Snapshot ID: `ZoNDAAAAAAAUn2MR+PVLwIEhoGnvthyP`

@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-441 songs - 19 hr 48 min
+442 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [I Gotta Know](https://open.spotify.com/track/1Nqu11rkbyktIQgYEwHKDW) | [Friends & I](https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn) | [I Gotta Know](https://open.spotify.com/album/65oJScjO9dW2qiAn4atJD0) | 2:24 | 2024-05-03 | 2024-06-15 |
 | [i let you](https://open.spotify.com/track/7Iwc8sxR4SRiwMfitkuR85) | [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [i let you](https://open.spotify.com/album/4xIjNp9VOESGgR29hXgGAU) | 1:56 | 2024-01-14 |  |
 | [I like me better](https://open.spotify.com/track/7A9ZQjsSb4GkdwepqnTFgZ) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [I like me better](https://open.spotify.com/album/0QY2Y1rFqtLuIfCU6VkRlS) | 2:51 | 2024-04-19 |  |
+| [I Love You](https://open.spotify.com/track/0O4fJqz7sptID3Q3p4yaeL) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W) | [I Love You](https://open.spotify.com/album/3WJvjcVRXWWoY5a1ZZ9k14) | 2:18 | 2024-07-03 |  |
 | [I Miss You](https://open.spotify.com/track/4Rmfzs3p7oTszNHLwaDec7) | [SAINT.](https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK) | [I Miss You](https://open.spotify.com/album/6BWaWNgLEGTo5URJB4bzO8) | 2:53 | 2024-06-14 |  |
 | [I Took A Pill In Ibiza \- Seeb Remix](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [At Night, Alone.](https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO) | 3:17 | 2022-09-02 |  |
 | [I Wanna Fall For You \(With No Parachute\)](https://open.spotify.com/track/7GyDDKXVkvd1VJGNR9V897) | [Theodor Rosenberg](https://open.spotify.com/artist/1iwpozrddUbEbAXwVRYuof) | [I Wanna Fall For You \(With No Parachute\)](https://open.spotify.com/album/74u6ly4nUgDd1iNURruzsT) | 2:27 | 2024-05-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,519 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,572 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 47 | [Wonderin'](https://open.spotify.com/track/3HenGKQ9HhXxhb8bH03DbD) | [Channell](https://open.spotify.com/artist/0USu267KXIgx4OKwhU9n5D), [2b.Frank](https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS), [Lyds](https://open.spotify.com/artist/1ct2JemDGZm6FdyArw8YcI) | [Wonderin' EP](https://open.spotify.com/album/0nx1BXto7ljFknTEKnBbOR) | 4:39 |
 | 48 | [Closer](https://open.spotify.com/track/0Afle0K0M8JzzShUV30nXp) | [Noppo](https://open.spotify.com/artist/4bFw5cibhGOOZn1ruUPDZ4) | [Closer](https://open.spotify.com/album/7s9OGHcBR1ZBk8463p9abU) | 4:35 |
 | 49 | [So Fly](https://open.spotify.com/track/4zt7iHmZ9CuRLJ7uWhv7SD) | [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH), [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Satl](https://open.spotify.com/artist/6OwnHoDYszPivlUgbApZbR), [Verbz](https://open.spotify.com/artist/2GLeuQsqfwk8iIkqyp1c3w) | [So Fly](https://open.spotify.com/album/0bAR4Eq0isrSRqbiBTayf3) | 3:42 |
-| 50 | [The Ticket](https://open.spotify.com/track/7tEgXYCi32cOG6s9Fut8T2) | [Ed:it](https://open.spotify.com/artist/66KRvTzYwJCAY0YkkGGKPu), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Silhouettes \- Part Three](https://open.spotify.com/album/4q4PTlt8sDTIEAuZo46LQu) | 4:34 |
+| 50 | [Friend](https://open.spotify.com/track/5f2arlFLA9GaQ1Ka48fWgp) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Friend](https://open.spotify.com/album/0AFzj8NngCJNwNzke4VxpC) | 3:47 |
 
 Snapshot ID: `Zk/YvAAAAABzVSxPVJYg6W56IM5B3Q1C`

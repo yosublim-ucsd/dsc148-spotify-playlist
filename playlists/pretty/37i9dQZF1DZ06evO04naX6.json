@@ -1,12 +1,12 @@
 {
-  "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 168019,
+  "description": "This Is Yandel. Los temas esenciales, todos en una lista.",
+  "num_followers": 168037,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAACN978wbVVUP583amDBdw+1",
+  "snapshot_id": "ZoNDAAAAAABUH2iUXKz2ij+N8+yE4pYU",
   "tracks": [
     {
       "added_at": null,
@@ -1015,6 +1015,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Cero",
+        "url": "https://open.spotify.com/album/6g2Cu0rMNRxTkRovhkGgcq"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "En Cero",
+      "url": "https://open.spotify.com/track/51uLQESb4VnYAbs5WtGxho"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
       },
@@ -1083,26 +1107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don Juan",
-        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 222333,
-      "name": "Trofeo",
-      "url": "https://open.spotify.com/track/4RtEiwxATP4Vko76xcFmf6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
@@ -1127,6 +1131,26 @@
       "duration_ms": 216293,
       "name": "Unica - Remix",
       "url": "https://open.spotify.com/track/5Sv1rKKMX1yl9kfJ2HTluk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don Juan",
+        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "Trofeo",
+      "url": "https://open.spotify.com/track/4RtEiwxATP4Vko76xcFmf6"
     },
     {
       "added_at": null,
@@ -1167,30 +1191,6 @@
       "duration_ms": 185973,
       "name": "La Calle Me Lo Pidio",
       "url": "https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legacy - De L\u00edder a Leyenda Tour (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0kEZti5UKQ2Dgc5o5ts5TQ"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "El General Gadiel",
-          "url": "https://open.spotify.com/artist/7tETQjUDr6hqeJVd0WyuhH"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Plakito (feat. El General Gadiel & Farruko) - Remix",
-      "url": "https://open.spotify.com/track/1WmiclR92NBBRbgqS4hXsQ"
     }
   ],
   "unique_name": "This Is Yandel",

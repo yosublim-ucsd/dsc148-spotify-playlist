@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 ### [Created by Women](https://open.spotify.com/playlist/37i9dQZF1DX7JO5vzoPTXR)
 
-> Songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1EFDmc9mJCPQno?si=e371f985a69844d5">Lauren Aquilina</a>
+> Songs that are 100% written, produced, and performed by women! Co\-curated this month by: <a href="https://open.spotify.com/playlist/37i9dQZF1EFDmc9mJCPQno?si=e371f985a69844d5">Lauren Aquilina</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,451 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,459 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 | 40 | [Golden Child](https://open.spotify.com/track/6a2uNYgQdLyUmi2HOH321M) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Golden Child](https://open.spotify.com/album/45jtyAD4KW3lmbDpE9NeRa) | 4:03 |
 
-Snapshot ID: `ZoSTVAAAAAChrOUF51iGgiVCHMSYUAmj`
+Snapshot ID: `ZoVQZwAAAABd8LEUjU01ZZci9w0a02LS`

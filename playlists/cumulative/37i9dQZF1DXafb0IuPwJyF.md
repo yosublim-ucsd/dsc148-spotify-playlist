@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: Mrs\. GREEN APPLE
 
-1,336 songs - 3 day 11 hr 7 min
+1,337 songs - 3 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,7 +454,7 @@
 | [Nemuranaideyo feat\. Ikuko Harada](https://open.spotify.com/track/0BWxTiFYuAoJSxDnHUs4UZ) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [Nemuranaideyo feat\. Ikuko Harada](https://open.spotify.com/album/21wUhU2axAMTJWEaREHo1g) | 4:17 | 2023-04-16 | 2023-04-24 |
 | [nestling](https://open.spotify.com/track/2eXkWpzzJVQ57l6DOQec7y) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [nestling](https://open.spotify.com/album/1sqB7PoKaqf4QiCaRlZpUq) | 3:47 | 2023-04-16 | 2023-04-24 |
 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-08-27 | 2023-10-02 |
-| [NEW ERA](https://open.spotify.com/track/1asOZNLcDul6HBXArmOqYn) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [NEW ERA](https://open.spotify.com/album/3htICbV2jG4NvRMwsxIRu2) | 3:05 | 2024-04-30 |  |
+| [NEW ERA](https://open.spotify.com/track/1asOZNLcDul6HBXArmOqYn) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [NEW ERA](https://open.spotify.com/album/3htICbV2jG4NvRMwsxIRu2) | 3:05 | 2024-04-30 | 2024-07-04 |
 | [New Genesis](https://open.spotify.com/track/6A8NfypDHuwiLWbo4a1yca) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:46 | 2022-10-09 | 2022-10-24 |
 | [NEWSmile](https://open.spotify.com/track/2CXVVWFqthDQ4GEEc8tUPJ) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [NEWSmile](https://open.spotify.com/album/4Pv8k6WZ60oUiuJtARH4BN) | 3:21 | 2023-07-09 | 2023-08-07 |
 | [Nichijo](https://open.spotify.com/track/6rFRQKFyluXEJhM5ANu2XB) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Nichijo](https://open.spotify.com/album/0KOyJBfietC8GvIOWIGVze) | 5:53 | 2023-09-13 | 2023-12-13 |
@@ -1286,6 +1286,7 @@
 | [花一匁](https://open.spotify.com/track/6yS6Q8iSiXqvqfjfJ67RRg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [花一匁](https://open.spotify.com/album/5nDlxSLsbMzLKGScoh3Yc5) | 4:10 | 2023-06-04 | 2023-08-28 |
 | [花曇り](https://open.spotify.com/track/6v18W0JUT46W2FEAGUoB3k) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [花曇り](https://open.spotify.com/album/1fhcD4mJEnE8JmIzV9hidw) | 4:02 | 2023-04-09 | 2023-05-01 |
 | [花瓶](https://open.spotify.com/track/3S5obhtZyw30dJ2lfCualn) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/0WAltRUelTPVhbvhJCIF6d) | 3:27 | 2022-06-05 | 2022-07-29 |
+| [若者のすべて](https://open.spotify.com/track/0bolEYwnvGkCjy38QACpBt) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [若者のすべて](https://open.spotify.com/album/2pS9ATc0f1xRthcOaTVXvb) | 5:01 | 2024-07-03 |  |
 | [華奢な心](https://open.spotify.com/track/4I2zu5SjESe8F8AyZLtOVC) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [華奢な心](https://open.spotify.com/album/2MCrgO6b1EiTlkNY76i4Mw) | 4:21 | 2023-12-03 | 2023-12-11 |
 | [蒲公英](https://open.spotify.com/track/7D4jDmHtDGiUSdf6BBb29C) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Sketch](https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy) | 3:11 | 2023-03-12 | 2023-03-20 |
 | [蒲公英](https://open.spotify.com/track/05qgaAIIEFSkrrvxqb5np2) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [蒲公英](https://open.spotify.com/album/1kp6AjG2lydwf5OjfbxENs) | 3:11 | 2023-01-22 | 2023-03-13 |

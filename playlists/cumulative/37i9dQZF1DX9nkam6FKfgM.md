@@ -4,7 +4,7 @@
 
 > summer has landed
 
-175 songs - 9 hr 18 min
+178 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Fell In Love](https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fell In Love](https://open.spotify.com/album/4AkiEkHlDW2ZyPsO7iJct8) | 2:01 | 2023-05-05 | 2024-05-15 |
 | [Final Song](https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Final Song](https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z) | 3:55 | 2023-06-04 | 2024-05-28 |
 | [Find an Island](https://open.spotify.com/track/4Ve0Jx7MXjU4aPrFHJRZK7) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [STELLA & STEVE](https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8) | 3:12 | 2023-03-15 | 2024-05-15 |
+| [Firework](https://open.spotify.com/track/4lCv7b86sLynZbXhfScfm2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 | 2024-07-03 |  |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-03-15 | 2024-06-16 |
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-07-24 | 2023-09-28 |
 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-07-24 | 2024-03-23 |
@@ -115,6 +116,7 @@
 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 | 2023-03-15 | 2024-05-15 |
 | [Lovesick](https://open.spotify.com/track/3Fug6rfarsHtM6Ws9ofzaD) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Lovesick](https://open.spotify.com/album/0i1zYZV7sWFxu4Nbcpr2Lc) | 2:31 | 2024-02-15 | 2024-05-15 |
 | [Loving Is Easy](https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving is Easy](https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY) | 2:35 | 2023-03-15 |  |
+| [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:21 | 2024-07-03 |  |
 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 | 2024-02-15 | 2024-03-16 |
 | [Meltdown](https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown](https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q) | 2:33 | 2023-04-28 | 2023-06-05 |
 | [Mexico](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 | 2024-03-15 |  |
@@ -129,6 +131,7 @@
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2023-06-04 |  |
 | [One More Shot](https://open.spotify.com/track/79uXvsyNG97zMLLq4bloRa) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/1uKIVSfEfjC8OjoUueYZOT) | 2:21 | 2023-04-07 | 2023-06-05 |
 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 | 2023-03-15 | 2023-04-13 |
+| [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 | 2024-07-03 |  |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-03-31 | 2024-07-02 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-10 |  |
 | [Push N Shuv](https://open.spotify.com/track/08KP4FEV1JZUQu8ZL2Uru9) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Push N Shuv](https://open.spotify.com/album/4NqFASjab96Rtmtu2vCcRR) | 3:31 | 2024-03-15 | 2024-05-15 |

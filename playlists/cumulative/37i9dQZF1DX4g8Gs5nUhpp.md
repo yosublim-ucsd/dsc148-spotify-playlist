@@ -4,10 +4,11 @@
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Kai Đinh, MIN, Hoàng Dũng
 
-277 songs - 17 hr 47 min
+279 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1000 Ánh Mắt](https://open.spotify.com/track/5XfGQZA0ioQAWUjlyJRcHc) | [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [Lặng](https://open.spotify.com/album/1P7wZAMsCTQtRBdlEsStWN) | 2:32 | 2024-07-03 |  |
 | [2AM](https://open.spotify.com/track/3IlRBIOd0MsAqPQo2711ne) | [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO), [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6) | [2AM](https://open.spotify.com/album/7nB59ijKokvdKH3JlnTArx) | 4:18 | 2022-05-27 | 2022-06-04 |
 | [3 1 0 7 \(feat\. Duongg & Nâu\)](https://open.spotify.com/track/5uyNAX6MazVAjBjVeOsTvp) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT), [Nâu](https://open.spotify.com/artist/5zifyPCJIZxUBhVq7AydsT) | [3 1 0 7 \(feat\. Duongg & Nâu\)](https://open.spotify.com/album/35lcJMXPJ00gMqMdKo7iFK) | 3:52 | 2022-06-15 | 2022-09-12 |
 | [3107 3](https://open.spotify.com/track/1EmMFSLRVkOszCa4ul9z0F) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT), [Nau](https://open.spotify.com/artist/38QautgC2LNYKiu10BB0sF), [titie](https://open.spotify.com/artist/2I8garg5B5BsdmetbsXsjG) | [3107 3 \(feat\. Nâu, titie, Dươngg\)](https://open.spotify.com/album/5fvs6ZOlCkfOa6zZ9jvXAb) | 4:00 | 2022-05-27 | 2023-04-22 |
@@ -284,6 +285,7 @@
 | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s) | 3:25 | 2024-05-26 | 2024-06-17 |
 | [Đừng kết thúc hôm nay](https://open.spotify.com/track/3VkPKSc5HU1WPahoLOCRnj) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Đừng kết thúc hôm nay](https://open.spotify.com/album/4h0hGD95lTVKwSjNZAvfp3) | 3:32 | 2023-12-10 | 2023-12-20 |
 | [Đừng Làm Trái Tim Anh Đau](https://open.spotify.com/track/31VNCmwspR7nVJ6kruUuJt) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [Đừng Làm Trái Tim Anh Đau](https://open.spotify.com/album/6TnmFHbUYVfe4iuQjPQB2r) | 4:39 | 2024-06-09 |  |
+| [Đừng Xa Anh Nhé \(feat\. Harvey\)](https://open.spotify.com/track/4jWxeq0IpdNhEaBzkNNwTf) | [Kevindauroi](https://open.spotify.com/artist/7idMddC7XksYOUjJRzN1yA) | [Đừng Xa Anh Nhé \(feat\. Harvey\)](https://open.spotify.com/album/07uBgWGc474GhOKp8ULZ8j) | 3:50 | 2024-07-03 |  |
 | [Ẩn](https://open.spotify.com/track/2fEAbrP5PodWRONM6LVhkl) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Linh Cáo](https://open.spotify.com/artist/0vTUa2hbNHke3omoGxuKFm) | [Ẩn](https://open.spotify.com/album/4BCmL4NwY1Kh8xX6T6oPJo) | 3:16 | 2024-05-26 | 2024-06-17 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

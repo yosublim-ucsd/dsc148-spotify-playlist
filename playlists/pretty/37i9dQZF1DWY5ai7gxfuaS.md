@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The future of metal is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,635 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,712 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 37 | [ANTAGONIST RETURNS](https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm) | [The Worst of Us](https://open.spotify.com/artist/42VxcSRld3QR7Rmv7m97RW), [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO), [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [THE AKUMA](https://open.spotify.com/artist/20kxwZ3KtZExRwq4s9IXZW) | [ANTAGONIST RETURNS](https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb) | 3:37 |
 | 38 | [Heaviness](https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8) | [LIONFIGHT](https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP) | [An Investigation Into Perceived Heaviness](https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt) | 3:55 |
 | 39 | [Faking It](https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Faking It](https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF) | 5:28 |
-| 40 | [Azure](https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Azure](https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN) | 4:14 |
-| 41 | [Moot](https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz), [Morgan Lander](https://open.spotify.com/artist/6UmXnQCZQvayT1eZxAIvz5) | [Moot](https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ) | 4:05 |
+| 40 | [Moot](https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz), [Morgan Lander](https://open.spotify.com/artist/6UmXnQCZQvayT1eZxAIvz5) | [Moot](https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ) | 4:05 |
+| 41 | [Azure](https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Azure](https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN) | 4:14 |
 | 42 | [Whispers of Your Death](https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Whispers of Your Death](https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5) | 2:54 |
 | 43 | [Russian Doll](https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Flowers of Evil](https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV) | 3:55 |
 | 44 | [Red River](https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS) | [Show Me A Dinosaur](https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ) | [Plantgazer](https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP) | 9:36 |
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 58 | [Touch the Corpse](https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Touch the Corpse](https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW) | 2:46 |
 | 59 | [Alone I Burn \- Radio Edit](https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE) | [Synthetic Blast](https://open.spotify.com/artist/20OWBlxvp4RbBfmibyOQ8b) | [Alone I...](https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj) | 4:40 |
 | 60 | [Kings Today](https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq) | [Sicksense](https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc), [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ) | [Kings Today](https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI) | 3:55 |
-| 61 | [Shut Up](https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Shut Up](https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9) | 3:24 |
-| 62 | [Wildblood](https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [On Circles](https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1) | 6:53 |
+| 61 | [Wildblood](https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [On Circles](https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1) | 6:53 |
+| 62 | [Shut Up](https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Shut Up](https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9) | 3:24 |
 | 63 | [FUCK WITH A WITCH 2](https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FUCK WITH A WITCH 2](https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e) | 1:30 |
 | 64 | [Sun Up To Sun Down \- Remix](https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64), [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Sun Up To Sun Down \(Remix\)](https://open.spotify.com/album/0k0dMQoz9HiR6LtQUjykc8) | 2:28 |
 | 65 | [DODGE A BULLET](https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC) | [Philip Solo](https://open.spotify.com/artist/7AiFDZCdP0usKRf55bRPSI), [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [DODGE A BULLET](https://open.spotify.com/album/7lyLpdvd2DK5oXCqU5YW0M) | 2:46 |
-| 66 | [Demon Supreme](https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Demon Supreme](https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB) | 3:31 |
-| 67 | [What's The Holy \(Nobel\) Today?](https://open.spotify.com/track/6TqbmZBcbKSUhFzy7ouAZq) | [Voice of Baceprot](https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC) | [What's The Holy \(Nobel\) Today?](https://open.spotify.com/album/6YSOp0BzAFGLlHOnOOXLzK) | 3:46 |
-| 68 | [80486DX](https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [80486DX](https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f) | 4:32 |
-| 69 | [Animal](https://open.spotify.com/track/0Z3vSiCNFN7FESRWzP7CWd) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Animal](https://open.spotify.com/album/1uzhNEYp4kM2OGR8danu44) | 3:59 |
+| 66 | [What's The Holy \(Nobel\) Today?](https://open.spotify.com/track/6TqbmZBcbKSUhFzy7ouAZq) | [Voice of Baceprot](https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC) | [What's The Holy \(Nobel\) Today?](https://open.spotify.com/album/6YSOp0BzAFGLlHOnOOXLzK) | 3:46 |
+| 67 | [Demon Supreme](https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Demon Supreme](https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB) | 3:31 |
+| 68 | [Animal](https://open.spotify.com/track/0Z3vSiCNFN7FESRWzP7CWd) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Animal](https://open.spotify.com/album/1uzhNEYp4kM2OGR8danu44) | 3:59 |
+| 69 | [80486DX](https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [80486DX](https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f) | 4:32 |
 | 70 | [Synopsis](https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX) | [Mountain Eye](https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz) | [Synopsis](https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG) | 3:22 |
 | 71 | [Drýsill](https://open.spotify.com/track/5pYsByOqa325t7t46xudFx) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Drýsill](https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE) | 8:52 |
 | 72 | [Bleed Like You \- Merzbow Version](https://open.spotify.com/track/5U6uLO5dwhUVZILVKHznu2) | [Mortiis](https://open.spotify.com/artist/4jlxvaggBp7wVV02U6YYRQ), [Merzbow](https://open.spotify.com/artist/5UezsklPScipW64XJm7qql) | [Bleed Like You](https://open.spotify.com/album/686yJX3ubdbx5JO8ewDhxj) | 4:57 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 84 | [The Future Says Thank You](https://open.spotify.com/track/3J8MRSDB7D7XSBAdpEP5Lx) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [The Future Says Thank You](https://open.spotify.com/album/6YlTLvkZDgjiB9VUmXTjzg) | 3:38 |
 | 85 | [Embersólyom \- Kaláka](https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Embersólyom \(Kaláka\)](https://open.spotify.com/album/3kq2ev5Z0FFOyspM6eOcHp) | 4:17 |
 | 86 | [ABYSS](https://open.spotify.com/track/0oyLeHwK228pw76jx2VZNQ) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [ABYSS](https://open.spotify.com/album/5tHG1GajRvMq3PoTxyijCo) | 2:31 |
-| 87 | [Animo](https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Animo](https://open.spotify.com/album/5z7fDpyjFEYF4XrnUQ8BEd) | 3:15 |
-| 88 | [Power](https://open.spotify.com/track/49CICsKXhKYkvXobgkrutz) | [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Power](https://open.spotify.com/album/4MAo5gILZxksQ3eAF1VkEq) | 4:29 |
+| 87 | [Power](https://open.spotify.com/track/49CICsKXhKYkvXobgkrutz) | [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Power](https://open.spotify.com/album/4MAo5gILZxksQ3eAF1VkEq) | 4:29 |
+| 88 | [Animo](https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Animo](https://open.spotify.com/album/5z7fDpyjFEYF4XrnUQ8BEd) | 3:15 |
 | 89 | [Only Paradise Lost](https://open.spotify.com/track/1w7iFvhfsK0QtFWZFGjYVG) | [vedawave](https://open.spotify.com/artist/1wEiY25dYJBXos4zDqAwz1) | [Only Paradise Lost](https://open.spotify.com/album/10Cjt3n61aOLXuAq7in5iN) | 4:00 |
 | 90 | [Betrayal](https://open.spotify.com/track/5BDcGkq3HoyvgvbMDnzCN5) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Betrayal](https://open.spotify.com/album/0EYPOzgnCNRp2Z95AZtyMf) | 5:19 |
 | 91 | [Dante's Inspiration](https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu) | [Cryptodira](https://open.spotify.com/artist/6aaRy3pEsAC5lrbpQC5WEl) | [The Angel of History](https://open.spotify.com/album/5dhT3bPpiEtSDnMvkwjekT) | 3:33 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 97 | [Light and Darkness](https://open.spotify.com/track/5kyZcZxcgdQwjG9Uhn93Bj) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Light and Darkness](https://open.spotify.com/album/780e6IocGd5aaLIdnF980y) | 4:04 |
 | 98 | [A Bellyful of Salt and Spleen](https://open.spotify.com/track/0MNI4YG8dQ82tRR2St6q6V) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [A Bellyful of Salt and Spleen](https://open.spotify.com/album/4MuT9lqZBCN7JSDEKuzEOP) | 4:36 |
 | 99 | [Concept Unification](https://open.spotify.com/track/5SDEsNpIsdw4Le3ECGHAql) | [Pinkish Black](https://open.spotify.com/artist/60Ob6q8BCjykLBKuF5aroP) | [Concept Unification](https://open.spotify.com/album/7rWHpoEFxd6qJBRmVS2EPc) | 5:13 |
-| 100 | [Huge](https://open.spotify.com/track/4Nbyhv2YTR1Vc83Ajo1gJ9) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi) | [Huge](https://open.spotify.com/album/73LxhjxtI5MVlX33VeAwVV) | 9:14 |
+| 100 | [Wrecked](https://open.spotify.com/track/23Ct1DllhsUlFtGn6iK59R) | [Zonal](https://open.spotify.com/artist/2FEWIj8qxL0aJKlH5QoOnt) | [Wrecked](https://open.spotify.com/album/7aMDk6WilYTrT8Jjtzv5lL) | 6:26 |
 
 Snapshot ID: `ZXImXgAAAAD2l8BgX2QaBUTG4NA5Zr6I`

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Christine D'Clario. Los temas esenciales, todos en una lista.",
-  "num_followers": 39022,
+  "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
+  "num_followers": 39037,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAAZ40u5oxBgMXQM+SMCO8F6",
+  "snapshot_id": "ZoNDAAAAAAAZeCsK6TjypXzYJXYRrpQY",
   "tracks": [
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno (Live)",
-        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Lucia Parker",
-          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
-        }
-      ],
-      "duration_ms": 344549,
-      "name": "Me Amaste a M\u00ed",
-      "url": "https://open.spotify.com/track/2hsekOK9y9hmjJizQAJJnA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Encuentro",
         "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 348728,
       "name": "Incomparable Dios",
       "url": "https://open.spotify.com/track/5RtBlXN184A8ipdyDzpLU4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Lucia Parker",
+          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
+        }
+      ],
+      "duration_ms": 344549,
+      "name": "Me Amaste a M\u00ed",
+      "url": "https://open.spotify.com/track/2hsekOK9y9hmjJizQAJJnA"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco Amor (Spanish Version)",
-        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 303373,
-      "name": "Loco Amor - Spanish Version",
-      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1s Profundo",
         "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 293173,
       "name": "Tu Presencia Es El Cielo",
       "url": "https://open.spotify.com/track/1vEsPuI13xrlJQlbdytUFT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loco Amor (Spanish Version)",
+        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 303373,
+      "name": "Loco Amor - Spanish Version",
+      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 326974,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/3Z6y2MqkZQCcG6avCJ43qi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emanuel",
         "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
       },
@@ -631,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno (Live)",
-        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
+        "name": "Stories On Stories",
+        "url": "https://open.spotify.com/album/7rqxrTJYrTRSszKiqn6VXK"
       },
       "artists": [
         {
@@ -640,9 +656,9 @@
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 326974,
-      "name": "Yahweh",
-      "url": "https://open.spotify.com/track/3Z6y2MqkZQCcG6avCJ43qi"
+      "duration_ms": 240457,
+      "name": "Stories On Stories",
+      "url": "https://open.spotify.com/track/3GLialPfon3PHfwNjZvgi2"
     },
     {
       "added_at": null,
@@ -835,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solo Tu... Lo Unico Que Quiero",
-        "url": "https://open.spotify.com/album/6B0oYyezYLKGtmhKhHOEwP"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "Solo Tu",
-      "url": "https://open.spotify.com/track/2FpjyN25ntw5wRI0HHPTHs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1s Profundo",
         "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 338293,
       "name": "Seguirte",
       "url": "https://open.spotify.com/track/6X2bymkSxVkhegf4Ozhz0k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solo Tu... Lo Unico Que Quiero",
+        "url": "https://open.spotify.com/album/6B0oYyezYLKGtmhKhHOEwP"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "Solo Tu",
+      "url": "https://open.spotify.com/track/2FpjyN25ntw5wRI0HHPTHs"
     },
     {
       "added_at": null,
@@ -915,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "Santo (Tu Nombre Es)",
+      "url": "https://open.spotify.com/track/3zZVyvL9DGymP5ICt9bmsf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Venga Tu Reino",
         "url": "https://open.spotify.com/album/7HfjVzPW3EPDhbXA8jKPp4"
       },
@@ -943,22 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Santo (Tu Nombre Es)",
-      "url": "https://open.spotify.com/track/3zZVyvL9DGymP5ICt9bmsf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ambientes de Cuna",
         "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
       },
@@ -975,26 +991,6 @@
       "duration_ms": 452354,
       "name": "Como Dijiste",
       "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Edward Rivera",
-          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
-        }
-      ],
-      "duration_ms": 337527,
-      "name": "Por Amor",
-      "url": "https://open.spotify.com/track/6c4jNSDWZ0zIlbShrBuVQN"
     }
   ],
   "unique_name": "This Is Christine D'Clario",

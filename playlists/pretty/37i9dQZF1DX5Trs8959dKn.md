@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 
 > Knees go down and the prayers go up
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,326 likes - 50 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,355 likes - 50 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 43 | [Eyes of The Spirit Chant \(Prayer Chant\)](https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Journey To The Deep \(Prayer Chants\)](https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag) | 2:11 |
 | 44 | [Dry Bones](https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Dry Bones](https://open.spotify.com/album/55SIgOQ9eEOTGYxOW3fz7g) | 11:31 |
 | 45 | [Yes You Are the Lord](https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p), [Danny Nettey](https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK), [Emmit Jim Konadu](https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx), [Negar Wujanji](https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi) | [A Sound from Heaven](https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo) | 6:42 |
-| 46 | [Darling Jesus \- Special Version](https://open.spotify.com/track/5KzsS5i3EVocEZGCX0vLkU) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [Darling Jesus \(Special Version\)](https://open.spotify.com/album/6cKiy88I1xKv5MVWflVCOa) | 3:26 |
-| 47 | [Ogya](https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:09 |
+| 46 | [Ogya](https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:09 |
+| 47 | [Darling Jesus \- Special Version](https://open.spotify.com/track/5KzsS5i3EVocEZGCX0vLkU) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [Darling Jesus \(Special Version\)](https://open.spotify.com/album/6cKiy88I1xKv5MVWflVCOa) | 3:26 |
 | 48 | [Accolades](https://open.spotify.com/track/5EX25veDDRIaA0szBnf4YP) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Accolades](https://open.spotify.com/album/2TST6huMqbrXt3N2GaCIIm) | 2:38 |
 | 49 | [EYES ON JESUS](https://open.spotify.com/track/4jVxnz2MZ2Cpbj6XzW1OPu) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [EYES ON JESUS](https://open.spotify.com/album/6oUEpWrV8phxswXk4Tc1EP) | 12:06 |
 | 50 | [Covenant Keeping God](https://open.spotify.com/track/3S37qaCmNR0ejVOFVBcZCo) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Lost in His Glory](https://open.spotify.com/album/5OcrjI1YzaqXYwLe3Eo9T5) | 3:10 |

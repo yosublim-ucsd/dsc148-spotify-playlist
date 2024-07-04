@@ -1,6 +1,6 @@
 {
   "description": "A mix of the biggest pop, dance, and hip hop party songs. Cover: Charli xcx",
-  "num_followers": 4188634,
+  "num_followers": 4188529,
   "original_name": "Party Hits",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,42 @@
     {
       "added_at": "2024-07-02 19:31:24",
       "album": {
+        "name": "Memories...Do Not Open",
+        "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 247160,
+      "name": "Something Just Like This",
+      "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
+    },
+    {
+      "added_at": "2024-07-02 19:31:24",
+      "album": {
+        "name": "DEVIL IS A LIE",
+        "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 130944,
+      "name": "DEVIL IS A LIE",
+      "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
+    },
+    {
+      "added_at": "2024-07-02 19:31:24",
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
@@ -815,42 +851,6 @@
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
-    },
-    {
-      "added_at": "2024-07-02 19:31:24",
-      "album": {
-        "name": "DEVIL IS A LIE",
-        "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 130944,
-      "name": "DEVIL IS A LIE",
-      "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
-    },
-    {
-      "added_at": "2024-07-02 19:31:24",
-      "album": {
-        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 162767,
-      "name": "PERRO NEGRO",
-      "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
     },
     {
       "added_at": "2024-07-02 19:31:24",
@@ -907,22 +907,22 @@
     {
       "added_at": "2024-07-02 19:31:24",
       "album": {
-        "name": "Memories...Do Not Open",
-        "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 247160,
-      "name": "Something Just Like This",
-      "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
+      "duration_ms": 162767,
+      "name": "PERRO NEGRO",
+      "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
     },
     {
       "added_at": "2024-07-02 19:31:24",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2024-07-02 19:31:24",
       "album": {
-        "name": "BELLAKEO",
-        "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "BELLAKEO",
-      "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
-    },
-    {
-      "added_at": "2024-07-02 19:31:24",
-      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -1359,6 +1339,26 @@
     {
       "added_at": "2024-07-02 19:31:24",
       "album": {
+        "name": "BELLAKEO",
+        "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "BELLAKEO",
+      "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
+    },
+    {
+      "added_at": "2024-07-02 19:31:24",
+      "album": {
         "name": "CONTIGO (with Ti\u00ebsto)",
         "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
       },
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-07-02 19:31:24",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 294573,
-      "name": "Bad Romance",
-      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
-    },
-    {
-      "added_at": "2024-07-02 19:31:24",
-      "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "added_at": "2024-07-02 19:31:24",
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 294573,
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
     },
     {
       "added_at": "2024-07-02 19:31:24",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2024-07-02 19:31:24",
       "album": {
+        "name": "Beauty Behind The Madness",
+        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 213520,
+      "name": "Can't Feel My Face",
+      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
+    },
+    {
+      "added_at": "2024-07-02 19:31:24",
+      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 217306,
       "name": "Havana (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
-    },
-    {
-      "added_at": "2024-07-02 19:31:24",
-      "album": {
-        "name": "Beauty Behind The Madness",
-        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 213520,
-      "name": "Can't Feel My Face",
-      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
     },
     {
       "added_at": "2024-07-02 19:31:24",
@@ -1751,22 +1751,18 @@
     {
       "added_at": "2024-07-02 19:31:24",
       "album": {
-        "name": "SURRENDER",
-        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
       },
       "artists": [
         {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
         }
       ],
-      "duration_ms": 208135,
-      "name": "Mwaki",
-      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
     },
     {
       "added_at": "2024-07-02 19:31:24",
@@ -1787,18 +1783,22 @@
     {
       "added_at": "2024-07-02 19:31:24",
       "album": {
-        "name": "Afraid To Feel",
-        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+        "name": "SURRENDER",
+        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
       },
       "artists": [
         {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
         }
       ],
-      "duration_ms": 177524,
-      "name": "Afraid To Feel",
-      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
+      "duration_ms": 208135,
+      "name": "Mwaki",
+      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
     },
     {
       "added_at": "2024-07-02 19:31:24",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2024-07-02 19:31:24",
       "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 251240,
+      "name": "Gimme More",
+      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
+    },
+    {
+      "added_at": "2024-07-02 19:31:24",
+      "album": {
         "name": "Get It Sexyy",
         "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 148551,
       "name": "Get It Sexyy",
       "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
-    },
-    {
-      "added_at": "2024-07-02 19:31:24",
-      "album": {
-        "name": "Lil Boo Thang",
-        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        }
-      ],
-      "duration_ms": 114233,
-      "name": "Lil Boo Thang",
-      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
     },
     {
       "added_at": "2024-07-02 19:31:24",
@@ -1895,18 +1895,18 @@
     {
       "added_at": "2024-07-02 19:31:24",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
+        "name": "Lil Boo Thang",
+        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
       },
       "artists": [
         {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
         }
       ],
-      "duration_ms": 251240,
-      "name": "Gimme More",
-      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
+      "duration_ms": 114233,
+      "name": "Lil Boo Thang",
+      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
     },
     {
       "added_at": "2024-07-02 19:31:24",

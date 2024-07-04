@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kTuG4gvrVk.md) - [plain]
 
 > ¡Los éxitos de hoy en un sólo lugar! En portada: Rvssian, Ayra Starr, Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,329 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,359 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

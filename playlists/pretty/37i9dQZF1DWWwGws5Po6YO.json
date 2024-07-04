@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 36730,
+  "num_followers": 36748,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "World Breathes",
-        "url": "https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj"
-      },
-      "artists": [
-        {
-          "name": "Alice in Freefall",
-          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
-        }
-      ],
-      "duration_ms": 194025,
-      "name": "The Centre of Everything",
-      "url": "https://open.spotify.com/track/3eqRtlNi5Dqj9ZM3x7mb6X"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Becoming Ferromagnetic",
         "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 328275,
       "name": "Becoming Ferromagnetic",
       "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "World Breathes",
+        "url": "https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj"
+      },
+      "artists": [
+        {
+          "name": "Alice in Freefall",
+          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
+        }
+      ],
+      "duration_ms": 194025,
+      "name": "The Centre of Everything",
+      "url": "https://open.spotify.com/track/3eqRtlNi5Dqj9ZM3x7mb6X"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Sketch for Winter IX: Perlita",
-        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
-      },
-      "artists": [
-        {
-          "name": "Carmen Villain",
-          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
-        }
-      ],
-      "duration_ms": 266057,
-      "name": "Light in Phases",
-      "url": "https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "I'll Look For You In Others",
         "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 393479,
       "name": "I'll Look for You in Others",
       "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Sketch for Winter IX: Perlita",
+        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
+      },
+      "artists": [
+        {
+          "name": "Carmen Villain",
+          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
+        }
+      ],
+      "duration_ms": 266057,
+      "name": "Light in Phases",
+      "url": "https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Fur & Feather",
-        "url": "https://open.spotify.com/album/3W3F4kQNM2E2bUeN7JJIJr"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Fur & Feather",
-      "url": "https://open.spotify.com/track/0Zo1Fja4huhQ3fAMVuyCUx"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "@0",
         "url": "https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 280000,
       "name": "dana\u00efdes",
       "url": "https://open.spotify.com/track/1NuEOnS4XOfuwFyihgiXiD"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Fur & Feather",
+        "url": "https://open.spotify.com/album/3W3F4kQNM2E2bUeN7JJIJr"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "duration_ms": 184973,
+      "name": "Fur & Feather",
+      "url": "https://open.spotify.com/track/0Zo1Fja4huhQ3fAMVuyCUx"
     },
     {
       "added_at": "2023-09-08 14:04:07",

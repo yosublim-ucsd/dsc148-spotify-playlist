@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,598 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,621 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 48 | [Sé Vos \- En Vivo](https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8) | [Almafuerte](https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV) | [En Vivo Obras](https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT) | 4:09 |
 | 49 | [Pronta Entrega \- En Vivo](https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Vivo](https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm) | 4:23 |
 | 50 | [El Charro Chino \- En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil](https://open.spotify.com/track/7zSzpBTIDG5aHJCmTJptTx) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [El Charro Chino \(En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil\)](https://open.spotify.com/album/2OZE8Npt2GEVmM6WftWd0U) | 4:54 |
-| 51 | [Espejismo \- En Vivo](https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O) | [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Los Fundamentalistas del Aire Acondicionado en Huracán \(En Vivo\)](https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL) | 6:23 |
-| 52 | [Carismático \(En Vivo Luna Park 2006\)](https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Luces \(En Vivo Luna Park 2006\)](https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z) | 2:43 |
+| 51 | [Carismático \(En Vivo Luna Park 2006\)](https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Luces \(En Vivo Luna Park 2006\)](https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z) | 2:43 |
+| 52 | [Espejismo \- En Vivo](https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O) | [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Los Fundamentalistas del Aire Acondicionado en Huracán \(En Vivo\)](https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL) | 6:23 |
 | 53 | [Espadas y Serpientes \- Acústico en Vivo](https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Acústico,Teatro Opera, Buenos Aires, Argentina.](https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE) | 4:48 |
 | 54 | [Kilómetros \- En Vivo](https://open.spotify.com/track/7C1p7RTvxo120n0rauSTuy) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Veinticirco La Gira \(En Vivo\)](https://open.spotify.com/album/4njHyaQrxpocOeoZb07LEC) | 4:09 |
 | 55 | [Pasos al Costado \- En Vivo en el Teatro Ópera](https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [En Vivo en el Teatro Ópera](https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6) | 4:45 |

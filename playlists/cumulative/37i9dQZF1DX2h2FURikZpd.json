@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 204800,
       "name": "300 Noches",
       "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 189278,
       "name": "Cangrinaje",
       "url": "https://open.spotify.com/track/5sJXSkZDAJjWrwtJHXLFTI"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 164042,
       "name": "CLIMA (with Foreign Teck)",
       "url": "https://open.spotify.com/track/6HWm8rj8kX5AXUZAyciF14"
@@ -486,7 +486,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 220880,
       "name": "Con Dinero y Sin Dinero",
       "url": "https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw"
@@ -631,6 +631,24 @@
     },
     {
       "album": {
+        "name": "EL \u00daLTIMO BAILE",
+        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174361,
+      "name": "CUANDO EL BAJO SUENA",
+      "url": "https://open.spotify.com/track/606igT4zYcB9rKvFN62XLc"
+    },
+    {
+      "album": {
         "name": "curita",
         "url": "https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ"
       },
@@ -664,6 +682,24 @@
       "duration_ms": 231375,
       "name": "Desp\u00eddase bien",
       "url": "https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk"
+    },
+    {
+      "album": {
+        "name": "God Said No",
+        "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158093,
+      "name": "Done With You",
+      "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
     },
     {
       "album": {
@@ -1061,6 +1097,28 @@
     },
     {
       "album": {
+        "name": "Goteras",
+        "url": "https://open.spotify.com/album/4mFVkQGAj9T2hyNoxHAcGw"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216450,
+      "name": "Goteras",
+      "url": "https://open.spotify.com/track/4sykJxUsqdXZRqRv1J9fEQ"
+    },
+    {
+      "album": {
         "name": "Gualero REFF12.31",
         "url": "https://open.spotify.com/album/17FImqLfr4kV6VhWh5fXdH"
       },
@@ -1116,6 +1174,32 @@
       "duration_ms": 184795,
       "name": "Hielo",
       "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
+    },
+    {
+      "album": {
+        "name": "HOLA PERDIDA REMIX",
+        "url": "https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201030,
+      "name": "HOLA PERDIDA REMIX",
+      "url": "https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV"
     },
     {
       "album": {
@@ -1266,7 +1350,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 249884,
       "name": "La Boda",
       "url": "https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX"
@@ -1750,7 +1834,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 142410,
       "name": "Ojos Verdes",
       "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
@@ -1860,6 +1944,24 @@
       "duration_ms": 186341,
       "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
       "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
+    },
+    {
+      "album": {
+        "name": "EL NI\u00d1O DE LOS CORAZONES",
+        "url": "https://open.spotify.com/album/18LQTOkENbFCtBfcmYUV3i"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "PERDER LO QUE AMAMOS",
+      "url": "https://open.spotify.com/track/4mW7nXnff5qwu6Hdg35oyV"
     },
     {
       "album": {
@@ -2066,7 +2168,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 234103,
       "name": "QU\u00cdTENME EL TEL\u00c9FONO (feat. Yandel, Jay Wheeler)",
       "url": "https://open.spotify.com/track/6ksWOJ7FWEAT1ax5hWKuzN"
@@ -2106,7 +2208,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 145342,
       "name": "REAL GANGSTA LOVE",
       "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
@@ -2419,6 +2521,28 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9n es Dei V?",
+        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154277,
+      "name": "Ticke (with YOVNGCHIMI)",
+      "url": "https://open.spotify.com/track/0QAkNmKS8bYmnAm6IQfFMj"
+    },
+    {
+      "album": {
         "name": "TQMQA",
         "url": "https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r"
       },
@@ -2470,7 +2594,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 229090,
       "name": "Turbulencia",
       "url": "https://open.spotify.com/track/4t2Pqr2C1yRuvZ2YCLTVcx"
@@ -2678,7 +2802,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 188778,
       "name": "Viva tu",
       "url": "https://open.spotify.com/track/5bTIYle84tcBo14n4fWSTb"

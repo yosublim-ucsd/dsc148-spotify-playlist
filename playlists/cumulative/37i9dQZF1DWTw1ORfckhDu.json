@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 164850,
       "name": "Downtown (feat. NCO)",
       "url": "https://open.spotify.com/track/5ahzUmHTdIA3B3ujctjf75"
@@ -6556,6 +6556,28 @@
       "duration_ms": 233414,
       "name": "MENI MENI (feat. Tommishock)",
       "url": "https://open.spotify.com/track/6N6SsvQrE9YOwwcpUtEkqC"
+    },
+    {
+      "album": {
+        "name": "Mi Amore (feat. Ege Zulu)",
+        "url": "https://open.spotify.com/album/4JSbaUoAZke1tOOqTMjosP"
+      },
+      "artists": [
+        {
+          "name": "Karim B",
+          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
+        },
+        {
+          "name": "Ege Zulu",
+          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183721,
+      "name": "Mi Amore (feat. Ege Zulu)",
+      "url": "https://open.spotify.com/track/4ZX9P2D0gkCumSKJEWqp6e"
     },
     {
       "album": {

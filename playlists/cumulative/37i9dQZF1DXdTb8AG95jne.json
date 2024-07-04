@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: The Volunteers(\ub354 \ubc1c\ub8ec\ud2f0\uc5b4\uc2a4)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: LEE SEUNG YOON(\uc774\uc2b9\uc724)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -8943,6 +8943,24 @@
     },
     {
       "album": {
+        "name": "PRE-RELEASE 3RD ALBUM [YEOK SEONG]",
+        "url": "https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198160,
+      "name": "POKZOOK TIME",
+      "url": "https://open.spotify.com/track/7ok3LoeV3VwL4PKU24bMpv"
+    },
+    {
+      "album": {
         "name": "Pong Dang",
         "url": "https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2"
       },
@@ -9852,7 +9870,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 272080,
       "name": "Shelter Of Dreams",
       "url": "https://open.spotify.com/track/2DauGSCkwdgts3sUkuQu30"

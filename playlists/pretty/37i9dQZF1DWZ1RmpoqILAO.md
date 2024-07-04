@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation featuring music from The Japanese House 🌟🌟🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,006 likes - 120 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,068 likes - 120 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 4 | [Broadview](https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Broadview](https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK) | 4:05 |
 | 5 | [Sunset Canyon](https://open.spotify.com/track/3kXrgO7Sl0jgURAv7boX5q) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV) | [Foxwarren](https://open.spotify.com/album/7AQ1f6J9I55bW2qYPJbWgp) | 4:20 |
 | 6 | [Let Me Get There](https://open.spotify.com/track/51JNZr0bBwOMFoSnB2oDNv) | [Hope Sandoval & The Warm Inventions](https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5), [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Until the Hunter](https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU) | 7:30 |
-| 7 | [Twin Flame \(feat\. Goldie Boutillier\)](https://open.spotify.com/track/4QYNd9eqc1GtfLrI0rMP8o) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [LONESTAR](https://open.spotify.com/album/2Hy2x2nzEYia4yoSfmF7Cp) | 3:38 |
+| 7 | [Twin Flame \(feat\. Goldie Boutilier\)](https://open.spotify.com/track/4QYNd9eqc1GtfLrI0rMP8o) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [LONESTAR](https://open.spotify.com/album/2Hy2x2nzEYia4yoSfmF7Cp) | 3:38 |
 | 8 | [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 |
 | 9 | [Gnaw](https://open.spotify.com/track/4KwttC1ZokLqillyhJgSe8) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 3:21 |
 | 10 | [Joker](https://open.spotify.com/track/3HyD8c5C8C7P5TgmNfc8YK) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Joker](https://open.spotify.com/album/3C5hemEZFqLPsfbiW1tm70) | 2:20 |

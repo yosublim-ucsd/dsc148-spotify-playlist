@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-573 songs - 1 day 12 hr 18 min
+574 songs - 1 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,6 +518,7 @@
 | [Time After Time](https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt) | [Urban Jazz Junction](https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd) | [Time After Time](https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6) | 3:20 | 2024-02-02 |  |
 | [time remembered](https://open.spotify.com/track/7vglqLr2HwKFWXMjZ1DN4c) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [time remembered](https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY) | 2:55 | 2020-10-20\* | 2020-11-05 |
 | [Time Remembered](https://open.spotify.com/track/4ZEePa5q8Gwz6dqg4oIifT) | [Martha Friedman](https://open.spotify.com/artist/09mk5BIlvR4do27qkRraFb) | [In A Mellow Tone](https://open.spotify.com/album/64IuKLGRM1XCFDaGmrGjyF) | 2:59 | 2020-10-20\* | 2021-01-21 |
+| [Time to say farewell](https://open.spotify.com/track/3AD8oem8VymZTUGuPeUI7O) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [Time to say farewell](https://open.spotify.com/album/3zbcuTAWTnJHM6ecoZyPcI) | 3:17 | 2024-07-01 |  |
 | [Time Traveler](https://open.spotify.com/track/4vX8zFazebV3b74EMZ28pU) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [Time Traveler](https://open.spotify.com/album/6s4fahjVNHoiB7I0bcyJu5) | 3:43 | 2023-06-02 |  |
 | [To the Moon and Back](https://open.spotify.com/track/5SavKywZ8Mzwb0PppxJf9E) | [Nicholas Fischer](https://open.spotify.com/artist/23xwLdy4T9jEB9igNfXBIb) | [To the Moon and Back](https://open.spotify.com/album/35ijXUqgREKtH2X21SsHwN) | 3:27 | 2024-03-22 |  |
 | [Try To Remember](https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Try To Remember](https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx) | 3:26 | 2022-04-26 | 2023-01-20 |
@@ -550,7 +551,7 @@
 | [When I Fall in Love](https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA) | [Some More Love Songs](https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf) | 7:27 | 2021-01-28 |  |
 | [When I Fall In Love](https://open.spotify.com/track/2H4SMLrxaBSmu2wHQku0xX) | [Ron Fields](https://open.spotify.com/artist/1x5zKG8Bhm8RW3LuKUMcRF) | [When I Fall In Love](https://open.spotify.com/album/7x9nV3lH3nuUo9r1h3pt8N) | 2:30 | 2020-10-20\* | 2020-11-25 |
 | [When Sunny Gets Blue](https://open.spotify.com/track/0JcgHL8tNphYe7Q8nPkYtV) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [When Sunny Gets Blue](https://open.spotify.com/album/1BIRyHurwWkR2PiyW9Q54z) | 5:17 | 2021-04-26 |  |
-| [When We Lay Down](https://open.spotify.com/track/2fra5fucGEJTFXnE7NwnKZ) | [Angelina Winter](https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl) | [When We Lay Down](https://open.spotify.com/album/2ajchSRiNVpcEnCFSZvHNB) | 4:16 | 2020-10-20\* |  |
+| [When We Lay Down](https://open.spotify.com/track/2fra5fucGEJTFXnE7NwnKZ) | [Angelina Winter](https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl) | [When We Lay Down](https://open.spotify.com/album/2ajchSRiNVpcEnCFSZvHNB) | 4:16 | 2020-10-20\* | 2024-07-04 |
 | [When You Are Around](https://open.spotify.com/track/3WUrXHDowLk25UtALiohVD) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [When You Are Around](https://open.spotify.com/album/3v6ovPPFtr6E6vpVuBw2bi) | 3:11 | 2020-10-20\* | 2021-01-21 |
 | [When You Come Home](https://open.spotify.com/track/1TlWfTGEALeyG39A9qHokR) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [When You Come Home](https://open.spotify.com/album/40kyT8n1MAUF56KmpkQeqs) | 3:36 | 2024-02-09 |  |
 | [When You're Here](https://open.spotify.com/track/0oXrVmcJVCd7043iyHmmUI) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Things To Look Forward To](https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo) | 5:21 | 2023-02-16 |  |

@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: IDLES
 
-1,189 songs - 3 day 0 hr 19 min
+1,190 songs - 3 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -858,6 +858,7 @@
 | [Remember \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6EIHHJFwkm2sCYc7SviPK5) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Spotify Singles](https://open.spotify.com/album/0g3SMc5PXgQL9xPvGRwLhy) | 3:52 | 2022-07-05 | 2024-04-19 |
 | [Remind Me](https://open.spotify.com/track/6QRjpaIoSIssUrKWyYjO8o) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Spotify Singles](https://open.spotify.com/album/5Tl9v8oev0uLTGUqnoVhQX) | 4:56 | 2022-07-05 | 2024-04-19 |
 | [Remind Me \- Recorded at East West Studios](https://open.spotify.com/track/0kEsPkTywuo1sMXdTj0bce) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Spotify Singles](https://open.spotify.com/album/15vSZCbdEfZAXWIuwVvhca) | 4:56 | 2022-01-19 |  |
+| [Rendezvous](https://open.spotify.com/track/5MctBX8S4ks5Yr0fU66dOh) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo), [Ghenda](https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF) | [Rendezvous](https://open.spotify.com/album/3w5hz4zdo66O3NugeTh7IF) | 3:16 | 2024-07-03 |  |
 | [Rennen \- Jim Eno Sessions](https://open.spotify.com/track/5T2dvac8Il9OiQtI9pBkv0) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Spotify Singles](https://open.spotify.com/album/0Scmfn6W4lYHyiRpp4F7lj) | 3:00 | 2022-07-05 | 2024-04-19 |
 | [Rennen \- Jim Eno Sessions](https://open.spotify.com/track/5V8MrjI3g5QSb51vWXW1W9) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Spotify Singles](https://open.spotify.com/album/4fSaNjAg7IHk74gJloiZZL) | 3:00 | 2022-01-19 |  |
 | [Rhythm Inside \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Spotify Singles](https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp) | 3:46 | 2022-01-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,431 likes - 148 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,658 likes - 148 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 16 | [Time Baby III](https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98) | [Medicine](https://open.spotify.com/artist/61uYVpJPgBq9dNrfUy6kTp), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:51 |
 | 17 | [Black Metallic](https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy) | [Catherine Wheel](https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov) | [Ferment](https://open.spotify.com/album/7LLZLkkBTR42Kb9JPRAzKb) | 7:18 |
 | 18 | [Rocket \- 2011 Remaster](https://open.spotify.com/track/1nbXNrayQOc9UGVEudhlaT) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 4:06 |
-| 19 | [Pancake](https://open.spotify.com/track/00YCRrySf0dJ6nRCKYSAkA) | [Swirlies](https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D) | [Blonder Tongue Audio Baton](https://open.spotify.com/album/0bOwhaZsDgLWVIUd4mU7U5) | 3:15 |
-| 20 | [Tastes Like Honey](https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz) | 4:41 |
+| 19 | [Tastes Like Honey](https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz) | 4:41 |
+| 20 | [Pancake](https://open.spotify.com/track/00YCRrySf0dJ6nRCKYSAkA) | [Swirlies](https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D) | [Blonder Tongue Audio Baton](https://open.spotify.com/album/0bOwhaZsDgLWVIUd4mU7U5) | 3:15 |
 | 21 | [Bout des doigts](https://open.spotify.com/track/5RQ2HMjTOBJOWK9Me6cpsy) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Bout des doigts](https://open.spotify.com/album/1s16vFypthYKIcJwhgDeUm) | 7:06 |
 | 22 | [flip](https://open.spotify.com/track/1HVgDSMFQIRHBRuhOs85fL) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [return](https://open.spotify.com/album/2wSCeijPFFOhlfvOQhgdss) | 2:02 |
 | 23 | [Sometimes](https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 5:19 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 53 | [Falling Down](https://open.spotify.com/track/0rb6HvdvWJRkyhxsfFf1ep) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 3:56 |
 | 54 | [Surrender](https://open.spotify.com/track/3tReSRWbwfsW9IG6Mbh9rH) | [Leave the Planet](https://open.spotify.com/artist/6vW6YgP4ZCF8wED7yAuQyk) | [Nowhere](https://open.spotify.com/album/7x0NFDxaSlSr5LTmunM7zo) | 3:39 |
 | 55 | [Our Goal to Realise](https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ) | [Amusement Parks On Fire](https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx) | [Our Goal to Realise](https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1) | 3:17 |
-| 56 | [Not The Time](https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Not The Time / Callous](https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU) | 2:50 |
-| 57 | [The Seaside \- Edit](https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [EP1](https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ) | 3:27 |
+| 56 | [The Seaside \- Edit](https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [EP1](https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ) | 3:27 |
+| 57 | [Not The Time](https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Not The Time / Callous](https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU) | 2:50 |
 | 58 | [A House Wife Love Song](https://open.spotify.com/track/57oNds15RN6allNb0YIPSD) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [Gold](https://open.spotify.com/album/4IlB3r32E8AFwHcpFko7ks) | 4:13 |
 | 59 | [Sword In the Stone](https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz) | [Gnoomes](https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII) | [MU!](https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY) | 3:28 |
 | 60 | [Dance AM](https://open.spotify.com/track/6MJh7i7sDHNcjXoW0XWP1s) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Dance AM](https://open.spotify.com/album/52R2Lt3CRjW7tvf0slRYtE) | 4:32 |
@@ -150,9 +150,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 140 | [Cupid Come](https://open.spotify.com/track/3IXItfQJeJihUaAQJFW7x2) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 4:29 |
 | 141 | [Feed Me with Your Kiss](https://open.spotify.com/track/3yRVw6tj1WBOXVwfLkWH9q) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 3:54 |
 | 142 | [Swallow \(EP Version\)](https://open.spotify.com/track/4lYac7OxuhaKYV75XDkRBS) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Tremolo](https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA) | 4:53 |
-| 143 | [Star Roving](https://open.spotify.com/track/0eNeturRjWHoi2SxITY0XC) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Star Roving](https://open.spotify.com/album/6pUMKhdr42lTqhzoqC3CBa) | 5:38 |
-| 144 | [Everyone Knows](https://open.spotify.com/track/5gCMldzBtCPajx3JNLtVB6) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6) | 4:22 |
-| 145 | [When The Sun Hits](https://open.spotify.com/track/7wE4l1GNxjE2kOmlsx0PcA) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/76Yzub5fwYE4eMwcjlzSDd) | 4:47 |
+| 143 | [When The Sun Hits](https://open.spotify.com/track/7wE4l1GNxjE2kOmlsx0PcA) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/76Yzub5fwYE4eMwcjlzSDd) | 4:47 |
+| 144 | [Star Roving](https://open.spotify.com/track/0eNeturRjWHoi2SxITY0XC) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Star Roving](https://open.spotify.com/album/6pUMKhdr42lTqhzoqC3CBa) | 5:38 |
+| 145 | [Everyone Knows](https://open.spotify.com/track/5gCMldzBtCPajx3JNLtVB6) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6) | 4:22 |
 | 146 | [Souvlaki Space Station](https://open.spotify.com/track/4VSH2Mz6pJqJU51ba1zoMk) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/76Yzub5fwYE4eMwcjlzSDd) | 5:59 |
 | 147 | [Into the Waves](https://open.spotify.com/track/0rfq7oha0S0Pd1Ym3n7TX7) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Shelter \(Deluxe Edition\)](https://open.spotify.com/album/5iI0bG6kr3Nzlqu1fdHKCC) | 6:30 |
 | 148 | [Tastes Like Honey](https://open.spotify.com/track/4t0YSm5foVoTYHLpxoK9t2) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/0ySteqpbwjhNcttU9kiAaw) | 4:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,855 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,928 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 33 | [Estratega de Guerra](https://open.spotify.com/track/3npSHShqRhlhMSK1NuL3xm) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 4:07 |
 | 34 | [El Michoacano](https://open.spotify.com/track/3V6d561vDtoJAm0UH4guEi) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Michoacano](https://open.spotify.com/album/4Qn5gGTw2D8fkIBx42GJqi) | 3:44 |
 | 35 | [El Sobrino](https://open.spotify.com/track/22LdqMvbsQnnpO264LlaOf) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Sobrino](https://open.spotify.com/album/1mTlBDsYsV7oPkca862gSk) | 2:40 |
-| 36 | [Desde Mañana](https://open.spotify.com/track/14kS4GlsFQGGc480lGfmW4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Desde Mañana](https://open.spotify.com/album/0sY4rfTBN58ZjQC7S14SlR) | 3:28 |
+| 36 | [La Elegancia Se Miro](https://open.spotify.com/track/6XJ4CQ5E9c71cTkPHhivAN) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [La Elegancia Se Miró](https://open.spotify.com/album/40uIryLOvhReoMWynEq2GD) | 3:28 |
 | 37 | [Los Espino](https://open.spotify.com/track/6udYryoxHPDExdMTpdF1lE) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 2:46 |
-| 38 | [La Elegancia Se Miro](https://open.spotify.com/track/6XJ4CQ5E9c71cTkPHhivAN) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [La Elegancia Se Miró](https://open.spotify.com/album/40uIryLOvhReoMWynEq2GD) | 3:28 |
+| 38 | [Desde Mañana](https://open.spotify.com/track/14kS4GlsFQGGc480lGfmW4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Desde Mañana](https://open.spotify.com/album/0sY4rfTBN58ZjQC7S14SlR) | 3:28 |
 | 39 | [El Tinguaraque](https://open.spotify.com/track/1vElaVQ3B3USb3eWf69jrH) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 2:45 |
 | 40 | [Que Suerte La Mia](https://open.spotify.com/track/5dSTAjTVA3UUWoJEHC9PWa) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:30 |
 | 41 | [El Mejor del Mundo \- En Vivo](https://open.spotify.com/track/3aCP6693dQMcBUaLXaeqnt) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Mejor del Mundo \(En Vivo\)](https://open.spotify.com/album/3SQSVXheDF238LrACCxEwE) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 49 | [NOS TORCIERON](https://open.spotify.com/track/6zfSZmIlUIYTQQaygXQ3Dm) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 3:22 |
 | 50 | [El Jago](https://open.spotify.com/track/5XLmZg7aVmOEJIri2paR4q) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Jago](https://open.spotify.com/album/4Xl5BDRedpiODp0x11hPB7) | 2:56 |
 
-Snapshot ID: `ZoHxgAAAAACfVhgSUTehgm+deUyCMWY7`
+Snapshot ID: `ZoNDAAAAAACloB2BE+OGj8sGXVrkjTLO`

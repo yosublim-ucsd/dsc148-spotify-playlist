@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F7I39fkJHz.md) - [plain]
 
 > Las más bichotas de la escena featuring Aura BAE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,550 likes - 85 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,554 likes - 85 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F7I39fkJHz.md) - [plain]
 | 48 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 |
 | 49 | [LOKITA](https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LOKITA](https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC) | 3:13 |
 | 50 | [Brinca](https://open.spotify.com/track/2T9GW5NdmBnz5ZlDkmMZZS) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Brinca](https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH) | 2:26 |
-| 51 | [For Ya](https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 |
-| 52 | [NOCHE DE SATEO](https://open.spotify.com/track/0OkrRSwJYVXQi7EKtjVO5m) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [RAWR](https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6) | 2:53 |
-| 53 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 |
+| 51 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 |
+| 52 | [For Ya](https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 |
+| 53 | [NOCHE DE SATEO](https://open.spotify.com/track/0OkrRSwJYVXQi7EKtjVO5m) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [RAWR](https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6) | 2:53 |
 | 54 | [La Torta](https://open.spotify.com/track/2EVnhDu1nfDNrr74OJpf1e) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [La Torta](https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA) | 2:50 |
 | 55 | [Aprovechame BB](https://open.spotify.com/track/29VflI9cjsWbGfEkvu0Tyk) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Aprovechame BB](https://open.spotify.com/album/3F5VD1oinu70b2B9WWQ4ZU) | 3:12 |
 | 56 | [Mujerón](https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Mujerón](https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX) | 2:50 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F7I39fkJHz.md) - [plain]
 | 68 | [Tóxico](https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:18 |
 | 69 | [Papi Quiero Perrear](https://open.spotify.com/track/1fO0hDlLYH13JSEegukxcE) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Papi Quiero Perrear](https://open.spotify.com/album/6vY4xHJXWv0ETD6LiDBbvY) | 2:15 |
 | 70 | [Solita \- Remix](https://open.spotify.com/track/1hFC3OfExDADVLCAQDgUr8) | [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Solita \(Remix\)](https://open.spotify.com/album/7rczcUlz87UicCYwuAig7C) | 3:50 |
-| 71 | [ESTÁS BUENÍSIMO](https://open.spotify.com/track/13MRbFUJGGRKucCMzzdnWF) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [ESTÁS BUENÍSIMO](https://open.spotify.com/album/5whnoCyMbHr7TRFMoSGsM5) | 3:31 |
-| 72 | [narcisa](https://open.spotify.com/track/4fvIO9UsmmJM2b8gWCzsOg) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [besitos, cuídate](https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu) | 2:53 |
+| 71 | [narcisa](https://open.spotify.com/track/4fvIO9UsmmJM2b8gWCzsOg) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [besitos, cuídate](https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu) | 2:53 |
+| 72 | [ESTÁS BUENÍSIMO](https://open.spotify.com/track/13MRbFUJGGRKucCMzzdnWF) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [ESTÁS BUENÍSIMO](https://open.spotify.com/album/5whnoCyMbHr7TRFMoSGsM5) | 3:31 |
 | 73 | [FASHION DILLER](https://open.spotify.com/track/7pwuuN72iIc3F671PuxErU) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [FASHION DILLER](https://open.spotify.com/album/3fIMfvmfccA2OxIVNmnyyv) | 2:41 |
 | 74 | [dale Play](https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [dale Play](https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V) | 3:46 |
 | 75 | [ACTIVA](https://open.spotify.com/track/4HRoZdP8v2lXXotGF0KaGx) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [ACTIVA](https://open.spotify.com/album/2ka8EGLE24wDwF35eNo2lp) | 4:21 |

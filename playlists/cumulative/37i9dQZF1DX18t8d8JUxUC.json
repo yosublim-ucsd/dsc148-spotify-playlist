@@ -2173,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "Renacido",
+        "url": "https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hill",
+          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253986,
+      "name": "Renacido",
+      "url": "https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA"
+    },
+    {
+      "album": {
         "name": "Romancera",
         "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
       },
@@ -2690,7 +2708,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 207999,
       "name": "Veo Veo",
       "url": "https://open.spotify.com/track/4j9pS5hEbPGQYhCscA7chz"

@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 20 | [90 Days \(feat\. Wrabel\)](https://open.spotify.com/track/0mknlibAARXVk3d8pafTUg) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Hurts 2B Human](https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC) | 3:50 |
 | 21 | [Bloodstain](https://open.spotify.com/track/3vHTlIT5uIilAFf6Cy69tr) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Bloodstain](https://open.spotify.com/album/3zRgSbaggJiEhh8IeZtAfG) | 2:48 |
 | 22 | [wish you well](https://open.spotify.com/track/1Y3Lv6ul3BeSQltSAfwZdo) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:02 |
-| 23 | [With You \(feat\. Wrabel\)](https://open.spotify.com/track/7gleE2w0CsjsWCs184n522) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Kids in Love](https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM) | 3:30 |
-| 24 | [Devil in a Dress](https://open.spotify.com/track/3YeBXUEWIjCtcsv0tULpz8) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:55 |
+| 23 | [Devil in a Dress](https://open.spotify.com/track/3YeBXUEWIjCtcsv0tULpz8) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:55 |
+| 24 | [With You \(feat\. Wrabel\)](https://open.spotify.com/track/7gleE2w0CsjsWCs184n522) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Kids in Love](https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM) | 3:30 |
 | 25 | [Bad Habit](https://open.spotify.com/track/0TiUwSybDflJu4Qe2AUoGD) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:22 |
 | 26 | [We Could Be Beautiful](https://open.spotify.com/track/6p2l8mki7sBTvF89R3tcBj) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [We Could Be Beautiful](https://open.spotify.com/album/1knxEStPE5aiGzJDa75Zrf) | 3:20 |
 | 27 | [nothing but the love](https://open.spotify.com/track/6nUwq6jL9AiwzsRDxI0AkN) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:04 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 141 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 142 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `AbVpbAAAAADH+nfXg1lnqqzftbXeW7As`
+Snapshot ID: `AbVvDAAAAAC5onTRG9WIKHl54S1Ec/rd`

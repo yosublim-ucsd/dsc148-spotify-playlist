@@ -2,7 +2,7 @@
 
 ### [This Is Dharius](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Bunfq)
 
-> This Is Dharius\. Los temas esenciales, todos en una lista.
+> This is: Dharius\. Alle wichtigen Tracks in einer Playlist.
 
 58 songs - 3 hr 47 min
 

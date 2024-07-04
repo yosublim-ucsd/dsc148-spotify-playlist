@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25w5pM.md) - [plain]
 
 > This is Deuter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,912 likes - 50 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,921 likes - 50 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25w5pM.md) - [plain]
 | 16 | [Illumination of the Heart](https://open.spotify.com/track/4PSXQc6mV7ZJpLEJ4vkfUR) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Light](https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I) | 9:41 |
 | 17 | [Traveling the Stars](https://open.spotify.com/track/6RqAsTGE7uw6BKlUN2Gpln) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Empty Sky](https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn) | 8:55 |
 | 18 | [Escape from Gravity](https://open.spotify.com/track/7MiXBG25ozczXh5e472Hia) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 8:20 |
-| 19 | [Kyoto Garden](https://open.spotify.com/track/37LM30dbtHHS1qemz9PN4K) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Bamboo Forest](https://open.spotify.com/album/0UpRbuoMpbzQ4hzflnVP8H) | 5:49 |
-| 20 | [Marfa Lights 2](https://open.spotify.com/track/5L31LhF5GL6VZCewuQz9AI) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [East of the Full Moon](https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon) | 3:24 |
+| 19 | [Marfa Lights 2](https://open.spotify.com/track/5L31LhF5GL6VZCewuQz9AI) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [East of the Full Moon](https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon) | 3:24 |
+| 20 | [Kyoto Garden](https://open.spotify.com/track/37LM30dbtHHS1qemz9PN4K) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Bamboo Forest](https://open.spotify.com/album/0UpRbuoMpbzQ4hzflnVP8H) | 5:49 |
 | 21 | [Unknown Doors](https://open.spotify.com/track/1xYzlYdAQeHUdyJKbb6Vt5) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 5:49 |
 | 22 | [Koyasan](https://open.spotify.com/track/5lV4TxufL1Sq5zfC8Gz2CZ) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 8:34 |
 | 23 | [Endless Horizon](https://open.spotify.com/track/0dKDjp06BhgGzlwwhis1t3) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Space](https://open.spotify.com/album/64NKX4dhS7SN54li9VSTtx) | 18:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25w5pM.md) - [plain]
 | 49 | [The Source](https://open.spotify.com/track/7z1DKo3h5CH80LmmSMjZHC) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Earth Blue](https://open.spotify.com/album/1v1v5JNGwKKcVkj9TAP4i5) | 6:21 |
 | 50 | [Loving Touch](https://open.spotify.com/track/0hdMmviZDiyTsuctkBtLpC) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Light](https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I) | 10:10 |
 
-Snapshot ID: `ZoHxgAAAAAD3Ph1ccjhIMUInoR5w99Qs`
+Snapshot ID: `ZoNDAAAAAAD34hIsdmARbWfagWFm3RLF`

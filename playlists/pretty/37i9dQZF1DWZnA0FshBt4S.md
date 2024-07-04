@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 
 > The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,008 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,058 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 24 | [Flood](https://open.spotify.com/track/4wSqP7Vo7HcoakudSMzxAO) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Jars Of Clay](https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ) | 3:31 |
 | 25 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1yowMNvS59dTccbZosir2o) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Cutting Edge 1 & 2](https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v) | 6:10 |
 | 26 | [Breakfast](https://open.spotify.com/track/2vLxjS0U2CuaqxEossXLDS) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Take Me To Your Leader](https://open.spotify.com/album/72Sx2clAuxuyeOyHbqZBur) | 3:40 |
-| 27 | [O Praise Him \(All This For A King\)](https://open.spotify.com/track/2iFqa5oxkAE3eJor4tVE8v) | [David Crowder Band](https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS) | [Illuminate](https://open.spotify.com/album/1YWOoJNdvfCfQXaSSzYTVd) | 5:48 |
-| 28 | [Testify To Love](https://open.spotify.com/track/4wuf5qwou5EIPYHFvI6Vv8) | [Avalon](https://open.spotify.com/artist/4rulVipLmUL2Mg67SIUmCO) | [A Maze Of Grace](https://open.spotify.com/album/40P6d6VGfGVTSiJU69dDm2) | 4:40 |
+| 27 | [Testify To Love](https://open.spotify.com/track/4wuf5qwou5EIPYHFvI6Vv8) | [Avalon](https://open.spotify.com/artist/4rulVipLmUL2Mg67SIUmCO) | [A Maze Of Grace](https://open.spotify.com/album/40P6d6VGfGVTSiJU69dDm2) | 4:40 |
+| 28 | [O Praise Him \(All This For A King\)](https://open.spotify.com/track/2iFqa5oxkAE3eJor4tVE8v) | [David Crowder Band](https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS) | [Illuminate](https://open.spotify.com/album/1YWOoJNdvfCfQXaSSzYTVd) | 5:48 |
 | 29 | [Never Alone](https://open.spotify.com/track/6kKIcMRhwxJ1XTnfapaqhL) | [BarlowGirl](https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi) | [BarlowGirl](https://open.spotify.com/album/4V1yueAEbtS4K2ZvIjvSXr) | 4:30 |
 | 30 | [Breathe](https://open.spotify.com/track/0TbBIyH8RXlKV07wM8HAVh) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9) | [Worship God](https://open.spotify.com/album/70zjKqpAO7faWjYVbxLHdX) | 3:57 |
 | 31 | [Love Song For A Savior](https://open.spotify.com/track/0DbcdVCzmY1IjilPTPaSOe) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Jars Of Clay](https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ) | 4:46 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 57 | [Speechless](https://open.spotify.com/track/6GhzOYfrReyXf19U4YuGXm) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [\# 1's Vol\. 1](https://open.spotify.com/album/0bYtirzI9EXXCcu3gz8FRP) | 5:06 |
 | 58 | [Rain](https://open.spotify.com/track/1SvlSnI123v00sH5Ro9NZ7) | [dryve](https://open.spotify.com/artist/0hr4err987upnrCLPvCPA4) | [Thrifty Mr\. Kickstar](https://open.spotify.com/album/11bRlMEbcjxbrHnkNZcOuJ) | 6:46 |
 | 59 | [Here With Me](https://open.spotify.com/track/2utyoc5plxv0zVFLpoZh7l) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [The Best Of Plumb](https://open.spotify.com/album/1WJ781r3XS7MiddzxuzbG8) | 4:06 |
-| 60 | [Revolve](https://open.spotify.com/track/3wsYeIOXrGuSnG3kRGbrwm) | [Poor Old Lu](https://open.spotify.com/artist/4kKX2Dc7HBE6fozhXYzPw8) | [The Waiting Room](https://open.spotify.com/album/2CZhEQJRXhfOxWMYnYKpE5) | 3:47 |
+| 60 | [Thicker](https://open.spotify.com/track/5xYOwMkV5NGUYz2lfhR4se) | [Chasing Furies](https://open.spotify.com/artist/4YQBXdwBcvt5mvjfzhts7t) | [With Abandon](https://open.spotify.com/album/08AZTRKahrB3VLMQSNlaEl) | 3:57 |
 | 61 | [Lift My Eyes Up](https://open.spotify.com/track/08CSlrBEs0qAaNm4dxLPf6) | [Miss Angie](https://open.spotify.com/artist/5rnoA4GlPQE4s15Si3oi6m) | [100 Million Eyeballs](https://open.spotify.com/album/2RRtryPMMJCXllcbpms0k5) | 3:00 |
-| 62 | [Thicker](https://open.spotify.com/track/5xYOwMkV5NGUYz2lfhR4se) | [Chasing Furies](https://open.spotify.com/artist/4YQBXdwBcvt5mvjfzhts7t) | [With Abandon](https://open.spotify.com/album/08AZTRKahrB3VLMQSNlaEl) | 3:57 |
+| 62 | [Revolve](https://open.spotify.com/track/3wsYeIOXrGuSnG3kRGbrwm) | [Poor Old Lu](https://open.spotify.com/artist/4kKX2Dc7HBE6fozhXYzPw8) | [The Waiting Room](https://open.spotify.com/album/2CZhEQJRXhfOxWMYnYKpE5) | 3:47 |
 | 63 | [Waiting Room](https://open.spotify.com/track/61NbXozQGixs8eC5ACTqc2) | [LaRue](https://open.spotify.com/artist/5MGUVsXrxgF9p3i3uko4MF) | [Larue](https://open.spotify.com/album/2lXKV7Rs6akfjT4bfugIly) | 3:20 |
 | 64 | [Why Do I Do](https://open.spotify.com/track/37KnIgKETYyOOXe56FLquT) | [Jump5](https://open.spotify.com/artist/0qa4GMXrmylKemymbElIwq) | [The Ultimate Collection](https://open.spotify.com/album/1DPCpHWC875p3L4xAVSIoX) | 3:22 |
 | 65 | [Deeper \- Live](https://open.spotify.com/track/0hDWOLFu71QCiI8MblsMks) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [King of Fools](https://open.spotify.com/album/4FrXWYXrratJp2KfiFl32j) | 4:20 |

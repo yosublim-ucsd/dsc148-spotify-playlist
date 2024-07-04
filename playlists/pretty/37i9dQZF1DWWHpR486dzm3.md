@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien parhaat uutuudet\. Kannessa Lyyti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,630 likes - 82 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,632 likes - 82 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 8 | [unelmien kesäpäivä](https://open.spotify.com/track/7nrF0kACreGnerlmnDKCdU) | [Lapsihymy](https://open.spotify.com/artist/1Gn0UpjfPnnsCuCMn20GHk), [Ale](https://open.spotify.com/artist/5kcy9FHFUNxLMITjtUCOOL) | [unelmien kesäpäivä](https://open.spotify.com/album/3TbVOhw1NndXdJwJZIGq4a) | 3:49 |
 | 9 | [Annoit mut pois](https://open.spotify.com/track/61iH69pKz3vcHLyvOFC7HE) | [Joosua](https://open.spotify.com/artist/4s4bwc0ixsFFUNvnN80wGZ) | [Annoit mut pois](https://open.spotify.com/album/3wEr0BI1ltgy3CxTrqRf3i) | 3:32 |
 | 10 | [Let Me In](https://open.spotify.com/track/7p5agrHzRpCJbI4HHmA9FB) | [Emilia Sisco](https://open.spotify.com/artist/4RE2veIqf9YBlKqVTDKpV4), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Let Me In](https://open.spotify.com/album/2WTZ7JOb0MaXndBg1V9qav) | 3:59 |
-| 11 | [pidä huolta](https://open.spotify.com/track/7cLH502QGa8Ot2XCRrUJTv) | [Yrjänä](https://open.spotify.com/artist/4CmFTG3y5YXHlV7vQ3jvH7) | [pidä huolta](https://open.spotify.com/album/2f8oDlJAuvKycLPUyAbxm4) | 3:25 |
-| 12 | [Kirsikkapuu](https://open.spotify.com/track/5fXyiBXyg0kH3jbUHNIung) | [Pambikallio](https://open.spotify.com/artist/0IDSJa4NZqzjo1kwUi7ey5) | [Kirsikkapuu](https://open.spotify.com/album/2HvqBIIobSLfvWL4pyimAS) | 3:17 |
-| 13 | [A Time for Everything](https://open.spotify.com/track/24LNDWJB6unfsSFNiUwd2Y) | [Sätilä](https://open.spotify.com/artist/7C64gqcTl8N3ethokcN5KD) | [A Time for Everything](https://open.spotify.com/album/4BGg5nGLMeesg71iOu1cja) | 3:56 |
+| 11 | [A Time for Everything](https://open.spotify.com/track/24LNDWJB6unfsSFNiUwd2Y) | [Sätilä](https://open.spotify.com/artist/7C64gqcTl8N3ethokcN5KD) | [A Time for Everything](https://open.spotify.com/album/4BGg5nGLMeesg71iOu1cja) | 3:56 |
+| 12 | [pidä huolta](https://open.spotify.com/track/7cLH502QGa8Ot2XCRrUJTv) | [Yrjänä](https://open.spotify.com/artist/4CmFTG3y5YXHlV7vQ3jvH7) | [pidä huolta](https://open.spotify.com/album/2f8oDlJAuvKycLPUyAbxm4) | 3:25 |
+| 13 | [Kirsikkapuu](https://open.spotify.com/track/5fXyiBXyg0kH3jbUHNIung) | [Pambikallio](https://open.spotify.com/artist/0IDSJa4NZqzjo1kwUi7ey5) | [Kirsikkapuu](https://open.spotify.com/album/2HvqBIIobSLfvWL4pyimAS) | 3:17 |
 | 14 | [Lemon n Lime Sours](https://open.spotify.com/track/3hdSjUx0c5batBNVeHrVSQ) | [Emilia Sisco](https://open.spotify.com/artist/4RE2veIqf9YBlKqVTDKpV4), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Lemon n Lime Sours](https://open.spotify.com/album/7JWKmGFTcx8rPlT9N4UTit) | 3:29 |
 | 15 | [Norjalaista puuta](https://open.spotify.com/track/3cTTpe7rLFrgdLPY9DQB0s) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Norjalaista puuta](https://open.spotify.com/album/36yFPOq7YIsFpIodxohXzu) | 2:45 |
 | 16 | [Vika biisi](https://open.spotify.com/track/0S2b8Lk27xM4hG3yEQCm2L) | [Hattara](https://open.spotify.com/artist/4bK357VA5lfLjj5GwFFjuR) | [Vika biisi](https://open.spotify.com/album/7xvHNbURnkssGXD4bCpDA9) | 3:13 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 81 | [In the Snow I Look Dead But I Just Pretend](https://open.spotify.com/track/0FiTeVfpeNMAHCxgzWUsjR) | [UTU](https://open.spotify.com/artist/6k7RuActVz2KVaCmmY2JvW) | [In the Snow I Look Dead But I Just Pretend](https://open.spotify.com/album/7cuosFx0nhwRqzVvTfbjEa) | 4:55 |
 | 82 | [Ulapalle](https://open.spotify.com/track/0vjJ6AN8NBLIjPJZa0bq0E) | [Hullunkruunu](https://open.spotify.com/artist/4e5S9w4n2q9xeePK88mgIx) | [Ulapalle](https://open.spotify.com/album/5v7uwfNhSuZfESftqFP1mE) | 3:52 |
 
-Snapshot ID: `ZoPY2gAAAAASJ4TdF9c2cUMlip/nRot5`
+Snapshot ID: `ZoUjsQAAAACHKN84mZVzRFU1uZlkVdrG`

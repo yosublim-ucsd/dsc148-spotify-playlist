@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,681 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,685 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 23 | [A Little Girl](https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23) | [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM) | 3:46 |
 | 24 | [Love Sick](https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Cheerful Sensibility](https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk) | 4:01 |
 | 25 | [Tears](https://open.spotify.com/track/02laG0v03OGNH74mEWOH3V) | [So Chan\-Whee](https://open.spotify.com/artist/7fgBlQWIOLXuOwQ2nLS2FI) | [DJ Chully's Handsome Vol.1](https://open.spotify.com/album/5QqBi6noPokRSDtKOdXaTH) | 3:25 |
-| 26 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 |
-| 27 | [Me to You, You to Me](https://open.spotify.com/track/1oW9H74WFBF0AsjP2e61YZ) | [Jatanpung](https://open.spotify.com/artist/0rmwTliQlHxi4uQQ0auZm5) | [A bicycle Ride](https://open.spotify.com/album/4dNI0uPp7lWdClgD8hGTVg) | 3:42 |
+| 26 | [Me to You, You to Me](https://open.spotify.com/track/1oW9H74WFBF0AsjP2e61YZ) | [Jatanpung](https://open.spotify.com/artist/0rmwTliQlHxi4uQQ0auZm5) | [A bicycle Ride](https://open.spotify.com/album/4dNI0uPp7lWdClgD8hGTVg) | 3:42 |
+| 27 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 |
 | 28 | [So Cool](https://open.spotify.com/track/4yHrnHRkY8ZEZUHPdsRno2) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [SO COOL](https://open.spotify.com/album/44HjYZEwgtloDNyIYK4DzO) | 3:21 |
 | 29 | [점점](https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:31 |
 | 30 | [No matter where](https://open.spotify.com/track/7oT5JOWwxnwcZRI6NLzhWs) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Pathos](https://open.spotify.com/album/42FCxz16YLTZ1nw5lVfpaR) | 5:31 |
@@ -44,17 +44,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 34 | [사랑의 바보](https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp) | [The Nuts](https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb) | [더 넛츠 1집](https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf) | 4:21 |
 | 35 | [아로하](https://open.spotify.com/track/1uRB9bYGCSvLSsF4e65UYj) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 4:25 |
 | 36 | [Soju Hanjan](https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Bye](https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg) | 4:50 |
-| 37 | [Pretty Girl](https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Pretty Girl \(2nd Mini Album\)](https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH) | 3:29 |
+| 37 | [사랑합니다...](https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [영민](https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF) | 3:48 |
 | 38 | [\(′Cause\) I′m Your Girl](https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [S.E.S\. \- The 1st Album](https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ) | 3:45 |
-| 39 | [사랑합니다...](https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [영민](https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF) | 3:48 |
+| 39 | [Pretty Girl](https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Pretty Girl \(2nd Mini Album\)](https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH) | 3:29 |
 | 40 | [Atlantis Princess](https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Atlantis Princess \- The 3rd Album](https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV) | 3:44 |
 | 41 | [My Lecon](https://open.spotify.com/track/3pVvsgtpCoSajYhDKavuXm) | [JTL](https://open.spotify.com/artist/1QxDhdpQDAxevRaOWUDjPC) | [Enter The Dragon](https://open.spotify.com/album/1XhlvC8ZkjEu5gsUCtWRfR) | 3:26 |
 | 42 | [내 머리가 나빠서](https://open.spotify.com/track/1cKxbdfl0lytWFFMXsoCEA) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [꽃보다 남자 Best Collection](https://open.spotify.com/album/0hYIKujukWBdeVb8Cv3Qy7) | 4:23 |
 | 43 | [귀로](https://open.spotify.com/track/5B6ewNeXBcIDHqzsgAn6Dk) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 4:26 |
 | 44 | [한 남자](https://open.spotify.com/track/0KjswKgBYLO65T674Hvldc) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [Evolution](https://open.spotify.com/album/127CxMmFX7bctgIccMVPib) | 4:18 |
-| 45 | [Last Love](https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [SOLISTA Part.2](https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA) | 4:11 |
-| 46 | [다시 사랑한다 말할까](https://open.spotify.com/track/52p5RtEaTXx1u1udrx8Fqr) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [기억속의 멜로디](https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi) | 4:47 |
-| 47 | [Honey](https://open.spotify.com/track/7K0qoyK48Um3llVR4TH0rI) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Honey \(Special Edition\)](https://open.spotify.com/album/0vAZzuihx388IsfLUPamzB) | 3:15 |
+| 45 | [다시 사랑한다 말할까](https://open.spotify.com/track/52p5RtEaTXx1u1udrx8Fqr) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [기억속의 멜로디](https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi) | 4:47 |
+| 46 | [Honey](https://open.spotify.com/track/7K0qoyK48Um3llVR4TH0rI) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Honey \(Special Edition\)](https://open.spotify.com/album/0vAZzuihx388IsfLUPamzB) | 3:15 |
+| 47 | [Last Love](https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [SOLISTA Part.2](https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA) | 4:11 |
 | 48 | [사랑 안해](https://open.spotify.com/track/4wztk2LQD75UzN5UTnFK0E) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Smile Again](https://open.spotify.com/album/6PUXZU8KQoiC7PJGHobQ8E) | 4:13 |
 | 49 | [Girls On Top](https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Girls On Top](https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6) | 3:38 |
 | 50 | [Come Back To Me](https://open.spotify.com/track/4ezlt6ciGxes2ctqphnKVU) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [Just Listen.......](https://open.spotify.com/album/4QoM0VDe5UPOotBYmmcg5U) | 4:06 |
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 55 | [파도](https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [Traveling You](https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2) | 4:11 |
 | 56 | [그녀를 사랑해줘요](https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Stand Alone](https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i) | 4:19 |
 | 57 | [Stay](https://open.spotify.com/track/0Q2uAamKg36f2KH0NSepT7) | [MBLAQ](https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG) | [BLAQ Style](https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF) | 3:20 |
-| 58 | [화장을 고치고](https://open.spotify.com/track/0e70x113268aBzaBaNHmrR) | [WAX](https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ) | [Wax02 : 화장을 고치고](https://open.spotify.com/album/0lxaVhnSUrnsCreJm5sBj6) | 4:10 |
-| 59 | [...사랑했잖아...](https://open.spotify.com/track/6dKKY7BZi4yXS3vwuR6Dmt) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Can U See The Bright](https://open.spotify.com/album/1p7Z2lphOJegFArqh8eMw5) | 4:03 |
+| 58 | [...사랑했잖아...](https://open.spotify.com/track/6dKKY7BZi4yXS3vwuR6Dmt) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Can U See The Bright](https://open.spotify.com/album/1p7Z2lphOJegFArqh8eMw5) | 4:03 |
+| 59 | [화장을 고치고](https://open.spotify.com/track/0e70x113268aBzaBaNHmrR) | [WAX](https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ) | [Wax02 : 화장을 고치고](https://open.spotify.com/album/0lxaVhnSUrnsCreJm5sBj6) | 4:10 |
 | 60 | [My love has faded away](https://open.spotify.com/track/1K7POuN7vtBx5MCAi2W6DJ) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [My love has faded away](https://open.spotify.com/album/69dtdfRPdV7cV3taX0horB) | 3:40 |
-| 61 | [Etude of Memory](https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW) | [Exhibition](https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE) | [Exhibition](https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj) | 5:13 |
-| 62 | [잠시만 안녕](https://open.spotify.com/track/7fyEwJts3Fv2D4MIt5I1M9) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [M.C The Max! Vol.1](https://open.spotify.com/album/0FPzOi7YqDtrJAqnfq3O4T) | 6:48 |
-| 63 | [Hi\~](https://open.spotify.com/track/0uK6mPSkTMteghVWeMDMHG) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Hi\~](https://open.spotify.com/album/4oYvS9fninV79hmUvWeUho) | 3:27 |
+| 61 | [Hi\~](https://open.spotify.com/track/0uK6mPSkTMteghVWeMDMHG) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Hi\~](https://open.spotify.com/album/4oYvS9fninV79hmUvWeUho) | 3:27 |
+| 62 | [Etude of Memory](https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW) | [Exhibition](https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE) | [Exhibition](https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj) | 5:13 |
+| 63 | [잠시만 안녕](https://open.spotify.com/track/7fyEwJts3Fv2D4MIt5I1M9) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [M.C The Max! Vol.1](https://open.spotify.com/album/0FPzOi7YqDtrJAqnfq3O4T) | 6:48 |
 | 64 | [The man and the woman](https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI), [Jang Hye Jin](https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH) | [Re \- Feel](https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w) | 4:32 |
 | 65 | [김밥](https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f) | [The Jadu](https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU) | [The Jadu 3](https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4) | 3:45 |
 | 66 | [혜성](https://open.spotify.com/track/1JrzvYMdLqHGBa6jmnBXia) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [혜성](https://open.spotify.com/album/2hGIulY9CjIWsQ8Rqed6fZ) | 3:14 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 89 | [VALENTI](https://open.spotify.com/track/1GaP1ryepyxPvnYiu5xhEa) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [MIRACLE \- The 2.5th Album](https://open.spotify.com/album/1heezU7dth0Eo6nJqlq67w) | 3:32 |
 | 90 | [You Don't Know Men](https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [fuzz \. Buzz](https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux) | 4:13 |
 | 91 | [날 그만 잊어요](https://open.spotify.com/track/48019yKa8kJowllkqICDIi) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [It's Different](https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf) | 4:31 |
-| 92 | [I Love You](https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [I Love You](https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq) | 4:06 |
-| 93 | [중독](https://open.spotify.com/track/3AtVaaeENM7y8RJcNSTOlG) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [Evolution](https://open.spotify.com/album/127CxMmFX7bctgIccMVPib) | 4:03 |
+| 92 | [중독](https://open.spotify.com/track/3AtVaaeENM7y8RJcNSTOlG) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [Evolution](https://open.spotify.com/album/127CxMmFX7bctgIccMVPib) | 4:03 |
+| 93 | [I Love You](https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [I Love You](https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq) | 4:06 |
 | 94 | [Miss you](https://open.spotify.com/track/3OJENg3aGHj5v1cSq3Xnbv) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Get All Right SHOWCHESTRA Live Album](https://open.spotify.com/album/5Xv45jxK6sH2jVISOe8sTH) | 4:50 |
 | 95 | [In dreams](https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Op\. 4](https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F) | 5:37 |
 | 96 | [LOVE119 \(feat\. MC Mong\)](https://open.spotify.com/track/4rC34fBjcpOZ4uxonNlLIh) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t), [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [Dropping the Tears](https://open.spotify.com/album/2LPszV62iNiLadCZ2J0kol) | 3:58 |
 | 97 | [Descent of Warriors](https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [We Hate All Kinds of Violence..\. \- The 1st Album](https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP) | 4:24 |
 | 98 | [A Letter to you Part.2](https://open.spotify.com/track/7fRegG6DYNpGClPDCp851s) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [The Way I Am](https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk) | 4:07 |
 | 99 | [Love Me Once Again](https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Afterglow](https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb) | 4:11 |
-| 100 | [Can't \(Feat\. MIIII\)](https://open.spotify.com/track/4attmsVheqtmK8TJMVHmdB) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J), [MIIII](https://open.spotify.com/artist/4HlWDQU9oXrIiVcb8BrZPZ) | [The 3rd GENERATION \(Special Album\)](https://open.spotify.com/album/5EJQFPTIEU6J1KkBxr9wDI) | 4:29 |
+| 100 | [어제보다 오늘 더](https://open.spotify.com/track/59x2XGgAeM6BBu7ePRM2UN) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [Here I Am](https://open.spotify.com/album/2s12iviLT6fAPDDVJyr0Th) | 3:59 |
 
 Snapshot ID: `Zg8KHgAAAABB2uTXzrxYvfjrvNI6MgTT`

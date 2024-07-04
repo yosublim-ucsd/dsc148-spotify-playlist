@@ -1,12 +1,12 @@
 {
-  "description": "This is Latto. C\u00e1c b\u1ea3n nh\u1ea1c b\u1ea1n n\u00ean nghe, t\u1ea5t c\u1ea3 trong m\u1ed9t danh s\u00e1ch ph\u00e1t.",
-  "num_followers": 28789,
+  "description": "This is Latto. The essential tracks, all in one playlist.",
+  "num_followers": 28815,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAABG41HUxkF8dtbSI8KuFzV2",
+  "snapshot_id": "ZoNDAAAAAACpOxS9WtpVHh5dnp7R27+x",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 173182,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lottery (feat. LU KALA)",
         "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
       },
@@ -107,30 +123,6 @@
       "duration_ms": 185748,
       "name": "Put It On Da Floor Again (feat. Cardi B)",
       "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Just Called",
-        "url": "https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp"
-      },
-      "artists": [
-        {
-          "name": "NEIKED",
-          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 150560,
-      "name": "I Just Called",
-      "url": "https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX"
     },
     {
       "added_at": null,
@@ -375,26 +367,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fast Lane",
-        "url": "https://open.spotify.com/album/7JWJByms29HHuFhbu4oBZT"
+        "name": "One Light (feat. Yung Bleu) [Remix]",
+        "url": "https://open.spotify.com/album/5TxZmM9IdN5oW011lKIk6g"
       },
       "artists": [
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
         },
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         },
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
         }
       ],
-      "duration_ms": 172584,
-      "name": "Fast Lane",
-      "url": "https://open.spotify.com/track/7KdgN7IfTbm6d9gbdtmhpT"
+      "duration_ms": 195480,
+      "name": "One Light (feat. Yung Bleu) - Remix",
+      "url": "https://open.spotify.com/track/3jzn67cGKBRSogFuWYoYpA"
     },
     {
       "added_at": null,
@@ -423,30 +419,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Light (feat. Yung Bleu) [Remix]",
-        "url": "https://open.spotify.com/album/5TxZmM9IdN5oW011lKIk6g"
+        "name": "Fast Lane",
+        "url": "https://open.spotify.com/album/7JWJByms29HHuFhbu4oBZT"
       },
       "artists": [
         {
-          "name": "Bantu",
-          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         },
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         },
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
         }
       ],
-      "duration_ms": 195480,
-      "name": "One Light (feat. Yung Bleu) - Remix",
-      "url": "https://open.spotify.com/track/3jzn67cGKBRSogFuWYoYpA"
+      "duration_ms": 172584,
+      "name": "Fast Lane",
+      "url": "https://open.spotify.com/track/7KdgN7IfTbm6d9gbdtmhpT"
     },
     {
       "added_at": null,
@@ -515,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ISSA PARTY (feat. BabyDrill)",
-        "url": "https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "BabyDrill",
-          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "ISSA PARTY (feat. BabyDrill)",
-      "url": "https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wheelie (feat. 21 Savage)",
         "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
       },
@@ -551,6 +523,26 @@
       "duration_ms": 170270,
       "name": "Wheelie (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ISSA PARTY (feat. BabyDrill)",
+        "url": "https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "ISSA PARTY (feat. BabyDrill)",
+      "url": "https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu"
     },
     {
       "added_at": null,
@@ -579,26 +571,6 @@
       "duration_ms": 255180,
       "name": "Do It (feat. Doja Cat, City Girls & Mulatto) [Remix]",
       "url": "https://open.spotify.com/track/2WKJcMeqmjkL4FzFoJszR7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FreakyT (feat. Latto) [Remix]",
-        "url": "https://open.spotify.com/album/4itQ4SmVRwjURluBAHnxFx"
-      },
-      "artists": [
-        {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 149384,
-      "name": "FreakyT (feat. Latto) - Remix",
-      "url": "https://open.spotify.com/track/451acSEXA7pfbMKXoC6vJX"
     },
     {
       "added_at": null,
@@ -679,6 +651,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "FreakyT (feat. Latto) [Remix]",
+        "url": "https://open.spotify.com/album/4itQ4SmVRwjURluBAHnxFx"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 149384,
+      "name": "FreakyT (feat. Latto) - Remix",
+      "url": "https://open.spotify.com/track/451acSEXA7pfbMKXoC6vJX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thank You For Believing",
         "url": "https://open.spotify.com/album/616PXlH2cjun1oU5LR81oB"
       },
@@ -715,6 +707,26 @@
       "duration_ms": 200135,
       "name": "Muwop (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mind Yo Business (Feat. Latto)",
+        "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 122266,
+      "name": "Mind Yo Business (Feat. Latto)",
+      "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
     },
     {
       "added_at": null,
@@ -975,30 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Champagne Shit (feat. Latto & Quavo) [Remix]",
-        "url": "https://open.spotify.com/album/0zMgVaXm1Zs34DSjr2kFOM"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Champagne Shit (feat. Latto & Quavo) - Remix",
-      "url": "https://open.spotify.com/track/4WS26ImdBwGa04bNrh17RO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Funk Wav Bounces Vol. 2",
         "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
       },
@@ -1023,22 +1011,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Help Me God!",
-        "url": "https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF"
+        "name": "Champagne Shit (feat. Latto & Quavo) [Remix]",
+        "url": "https://open.spotify.com/album/0zMgVaXm1Zs34DSjr2kFOM"
       },
       "artists": [
         {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         },
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 190378,
-      "name": "Quarantine Thick (feat. Latto)",
-      "url": "https://open.spotify.com/track/4JfCA7yaiEORC7NcKBS9nk"
+      "duration_ms": 177600,
+      "name": "Champagne Shit (feat. Latto & Quavo) - Remix",
+      "url": "https://open.spotify.com/track/4WS26ImdBwGa04bNrh17RO"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 
 > 2012 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,170 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,210 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,11 +98,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 88 | [My Kind of Woman](https://open.spotify.com/track/2OFrAsP5Vrcb0DtsPNsm54) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q) | 3:10 |
 | 89 | [Hero](https://open.spotify.com/track/6GRDI9suQHikFP6euIXnpq) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Loma Vista](https://open.spotify.com/album/14SCnv027L0HidHq0URIDu) | 3:10 |
 | 90 | [The House That Heaven Built](https://open.spotify.com/track/2dcmQJCw1INGn7yR2KHx0U) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Celebration Rock](https://open.spotify.com/album/2sY9WYVH022ulyAYaqvXLW) | 4:49 |
-| 91 | [Oblivion](https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE) | 4:11 |
-| 92 | [Yet Again](https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Shields](https://open.spotify.com/album/57LAEzKL94ZHwbIkUWYCDY) | 5:18 |
+| 91 | [Yet Again](https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Shields](https://open.spotify.com/album/57LAEzKL94ZHwbIkUWYCDY) | 5:18 |
+| 92 | [Oblivion](https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE) | 4:11 |
 | 93 | [Taro](https://open.spotify.com/track/7EDMvrb5PA5TP0VQ8z9p82) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL) | 5:14 |
-| 94 | [Man on Fire](https://open.spotify.com/track/5GFfRpAb26A57ao6nxjIIS) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Here](https://open.spotify.com/album/6JyPG8lkkHvE1f76H1fysw) | 4:18 |
-| 95 | [Catamaran](https://open.spotify.com/track/5WI4GytPeTnIoVRnUiP8TE) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/1aAKZy0fdFn57xgka1xeDV) | 3:32 |
+| 94 | [Catamaran](https://open.spotify.com/track/5WI4GytPeTnIoVRnUiP8TE) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/1aAKZy0fdFn57xgka1xeDV) | 3:32 |
+| 95 | [Man on Fire](https://open.spotify.com/track/5GFfRpAb26A57ao6nxjIIS) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Here](https://open.spotify.com/album/6JyPG8lkkHvE1f76H1fysw) | 4:18 |
 | 96 | [Freaking Out the Neighborhood](https://open.spotify.com/track/25SJaCCPiosugnlY53VhRG) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q) | 2:53 |
 | 97 | [Genesis](https://open.spotify.com/track/4sCYKMatyhazyy6r2N7Hp2) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE) | 4:15 |
 | 98 | [Default](https://open.spotify.com/track/0d2O5TNHO2T5XR95TVmgfp) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Django Django](https://open.spotify.com/album/2iKuaJUhHIXk8p9xNFM7d9) | 3:04 |

@@ -1,13 +1,125 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6517,
+  "num_followers": 6520,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACZK45fPHyEUesnWWu8FtwyCtXm8aNQ",
+  "snapshot_id": "AACZMj9PvBRBg3hEQLkrxI8xAvlhxlvJ",
   "tracks": [
+    {
+      "added_at": "2024-07-03 16:01:27",
+      "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 188828,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
+    },
+    {
+      "added_at": "2024-07-03 14:21:07",
+      "album": {
+        "name": "Lift You Up",
+        "url": "https://open.spotify.com/album/5BezUUsxmvHM0ousc2Tgya"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 227520,
+      "name": "Lift You Up",
+      "url": "https://open.spotify.com/track/4dUCnam5rLVdrQHYWEIx0e"
+    },
+    {
+      "added_at": "2024-07-03 14:20:20",
+      "album": {
+        "name": "Lithonia",
+        "url": "https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 179320,
+      "name": "Lithonia",
+      "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
+    },
+    {
+      "added_at": "2024-07-03 14:22:08",
+      "album": {
+        "name": "Ever Seen",
+        "url": "https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Ever Seen",
+      "url": "https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6"
+    },
+    {
+      "added_at": "2024-07-03 14:20:36",
+      "album": {
+        "name": "Tobey (feat. Big Sean and BabyTron)",
+        "url": "https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "duration_ms": 284892,
+      "name": "Tobey (feat. Big Sean and BabyTron)",
+      "url": "https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW"
+    },
+    {
+      "added_at": "2024-07-03 14:22:25",
+      "album": {
+        "name": "kms",
+        "url": "https://open.spotify.com/album/69clRLSLgTxxlKTAle3xOp"
+      },
+      "artists": [
+        {
+          "name": "Los Campesinos!",
+          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
+        }
+      ],
+      "duration_ms": 156397,
+      "name": "kms",
+      "url": "https://open.spotify.com/track/6xl5EyL3JzVtqpxp3GRkmH"
+    },
     {
       "added_at": "2024-06-28 04:46:05",
       "album": {

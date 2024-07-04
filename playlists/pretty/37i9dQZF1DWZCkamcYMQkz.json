@@ -1,6 +1,6 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 206870,
+  "num_followers": 207035,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-06-03 12:01:01",
       "album": {
-        "name": "Oh! Look At Me Now",
-        "url": "https://open.spotify.com/album/0SgrkcvwuEk3v7lA95FNCE"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "I'm Beginning To See The Light - 2001 Digital Remaster",
-      "url": "https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd"
-    },
-    {
-      "added_at": "2024-06-03 12:01:01",
-      "album": {
         "name": "That Bad Eartha",
         "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 185666,
       "name": "Let's Do It",
       "url": "https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc"
+    },
+    {
+      "added_at": "2024-06-03 12:01:01",
+      "album": {
+        "name": "Oh! Look At Me Now",
+        "url": "https://open.spotify.com/album/0SgrkcvwuEk3v7lA95FNCE"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "I'm Beginning To See The Light - 2001 Digital Remaster",
+      "url": "https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd"
     },
     {
       "added_at": "2024-06-03 12:01:01",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-06-03 12:01:01",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 156493,
-      "name": "Straighten Up And Fly Right",
-      "url": "https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah"
-    },
-    {
-      "added_at": "2024-06-03 12:01:01",
-      "album": {
         "name": "Ultimate Peggy Lee",
         "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 150053,
       "name": "Hallelujah, I Love Him So",
       "url": "https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY"
+    },
+    {
+      "added_at": "2024-06-03 12:01:01",
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 156493,
+      "name": "Straighten Up And Fly Right",
+      "url": "https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah"
     },
     {
       "added_at": "2024-06-03 12:01:01",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-06-03 12:01:01",
       "album": {
-        "name": "Love Swings",
-        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 133213,
-      "name": "It Had to Be You",
-      "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
-    },
-    {
-      "added_at": "2024-06-03 12:01:01",
-      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time (Expanded Edition)",
         "url": "https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 188960,
       "name": "Line For Lyons",
       "url": "https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V"
+    },
+    {
+      "added_at": "2024-06-03 12:01:01",
+      "album": {
+        "name": "Love Swings",
+        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 133213,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
     },
     {
       "added_at": "2024-06-03 12:01:01",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-06-03 12:01:01",
       "album": {
-        "name": "Tenor Madness",
-        "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins Quartet",
-          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
-        }
-      ],
-      "duration_ms": 309360,
-      "name": "Paul's Pal - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/2gt0kkTEph69p2ZWn177Tt"
-    },
-    {
-      "added_at": "2024-06-03 12:01:01",
-      "album": {
         "name": "It's All Right!",
         "url": "https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 170053,
       "name": "It's All Right",
       "url": "https://open.spotify.com/track/29q5W2FpwJyjZjrJROG5Mk"
+    },
+    {
+      "added_at": "2024-06-03 12:01:01",
+      "album": {
+        "name": "Tenor Madness",
+        "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins Quartet",
+          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
+        }
+      ],
+      "duration_ms": 309360,
+      "name": "Paul's Pal - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/2gt0kkTEph69p2ZWn177Tt"
     },
     {
       "added_at": "2024-06-03 12:01:01",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-06-03 12:01:01",
       "album": {
-        "name": "Witchcraft",
-        "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
-      },
-      "artists": [
-        {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
-        }
-      ],
-      "duration_ms": 156546,
-      "name": "(How Little It Matters) How Little We Know",
-      "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
-    },
-    {
-      "added_at": "2024-06-03 12:01:01",
-      "album": {
         "name": "Exclusively for My Friends: Girl Talk, Vol. II",
         "url": "https://open.spotify.com/album/3UL145zQyFoPH9WCRDUD3f"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 261609,
       "name": "On a Clear Day (You Can See Forever) - Live",
       "url": "https://open.spotify.com/track/44mZcRGz5AypDvxNFHDPYd"
+    },
+    {
+      "added_at": "2024-06-03 12:01:01",
+      "album": {
+        "name": "Witchcraft",
+        "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
+      },
+      "artists": [
+        {
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+        }
+      ],
+      "duration_ms": 156546,
+      "name": "(How Little It Matters) How Little We Know",
+      "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
     },
     {
       "added_at": "2024-06-03 12:01:01",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-06-03 12:01:01",
       "album": {
-        "name": "Chris Connor",
-        "url": "https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD"
-      },
-      "artists": [
-        {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF"
-    },
-    {
-      "added_at": "2024-06-03 12:01:01",
-      "album": {
         "name": "The Feeling is Mutual",
         "url": "https://open.spotify.com/album/0NiWeiNpFi6hBoPJ7NCmHk"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": "2024-06-03 12:01:01",
       "album": {
+        "name": "Chris Connor",
+        "url": "https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD"
+      },
+      "artists": [
+        {
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF"
+    },
+    {
+      "added_at": "2024-06-03 12:01:01",
+      "album": {
         "name": "Paris In The Rain",
         "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
       },
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-06-03 12:01:01",
       "album": {
-        "name": "Past Midnight",
-        "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 172453,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR"
-    },
-    {
-      "added_at": "2024-06-03 12:01:01",
-      "album": {
         "name": "Dinah! (Expanded Edition)",
         "url": "https://open.spotify.com/album/28EUtXFCY6AuKxFDyLt1Ol"
       },
@@ -1059,22 +1043,18 @@
     {
       "added_at": "2024-06-03 12:01:01",
       "album": {
-        "name": "September in the Rain",
-        "url": "https://open.spotify.com/album/6d8P2kjdu2ZttekvM8yTBX"
+        "name": "Past Midnight",
+        "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
       },
       "artists": [
         {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Benny Benack III",
-          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
         }
       ],
-      "duration_ms": 248862,
-      "name": "September In The Rain",
-      "url": "https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS"
+      "duration_ms": 172453,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR"
     },
     {
       "added_at": "2024-06-03 12:01:01",
@@ -1103,6 +1083,26 @@
       "duration_ms": 482592,
       "name": "Dakar",
       "url": "https://open.spotify.com/track/3bQEe78SKsthvH116E12YJ"
+    },
+    {
+      "added_at": "2024-06-03 12:01:01",
+      "album": {
+        "name": "September in the Rain",
+        "url": "https://open.spotify.com/album/6d8P2kjdu2ZttekvM8yTBX"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+        }
+      ],
+      "duration_ms": 248862,
+      "name": "September In The Rain",
+      "url": "https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS"
     },
     {
       "added_at": "2024-06-03 12:01:01",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-06-03 12:01:01",
       "album": {
+        "name": "The Cat Walk",
+        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 453800,
+      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
+    },
+    {
+      "added_at": "2024-06-03 12:01:01",
+      "album": {
         "name": "Sarah Vaughan",
         "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 306133,
       "name": "It's Crazy",
       "url": "https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC"
-    },
-    {
-      "added_at": "2024-06-03 12:01:01",
-      "album": {
-        "name": "The Cat Walk",
-        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 453800,
-      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
     },
     {
       "added_at": "2024-06-03 12:01:01",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-06-03 12:01:01",
       "album": {
-        "name": "Not So Dukish",
-        "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Central Park Swing",
-      "url": "https://open.spotify.com/track/0LsYGVyyGCAvCX8bf2I2vO"
-    },
-    {
-      "added_at": "2024-06-03 12:01:01",
-      "album": {
         "name": "Great Ladies Of Song / Spotlight On Dakota Staton",
         "url": "https://open.spotify.com/album/6k6xiDEMEA5T1ufU4gCCUl"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 152160,
       "name": "I Hear Music - Remastered",
       "url": "https://open.spotify.com/track/65Yy88Liyj4JzcU2gbklgR"
+    },
+    {
+      "added_at": "2024-06-03 12:01:01",
+      "album": {
+        "name": "Not So Dukish",
+        "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Central Park Swing",
+      "url": "https://open.spotify.com/track/0LsYGVyyGCAvCX8bf2I2vO"
     },
     {
       "added_at": "2024-06-03 12:01:01",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-06-03 12:01:01",
       "album": {
-        "name": "Further Definitions",
-        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
-      },
-      "artists": [
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 230813,
-      "name": "Honeysuckle Rose",
-      "url": "https://open.spotify.com/track/16rC6JrsasyG7p3MjbEFgR"
-    },
-    {
-      "added_at": "2024-06-03 12:01:01",
-      "album": {
         "name": "Way Out West (OJC Remaster)",
         "url": "https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 181306,
       "name": "Happy Song No. 2",
       "url": "https://open.spotify.com/track/3kl4pwODJrCPK1fHsK2was"
+    },
+    {
+      "added_at": "2024-06-03 12:01:01",
+      "album": {
+        "name": "Further Definitions",
+        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 230813,
+      "name": "Honeysuckle Rose",
+      "url": "https://open.spotify.com/track/16rC6JrsasyG7p3MjbEFgR"
     },
     {
       "added_at": "2024-06-03 12:01:01",

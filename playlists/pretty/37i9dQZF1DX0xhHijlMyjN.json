@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 343006,
+  "num_followers": 343021,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
+        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
+        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "Devu\u00e9lveme a mi chica",
+      "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
         "name": "We Broke The Rules",
         "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 254720,
       "name": "Obsesion",
       "url": "https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
-        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
-        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "Devu\u00e9lveme a mi chica",
-      "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Visual\u00edzate",
         "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 203160,
       "name": "La Gozadera (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Gipsy Kings",
-        "url": "https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl"
-      },
-      "artists": [
-        {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Bambol\u00e9o",
-      "url": "https://open.spotify.com/track/3iB8eciGU9vZkaDYkz7Ir9"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Fijaci\u00f3n Oral, Vol. 1",
         "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 215386,
       "name": "Dragostea din tei",
       "url": "https://open.spotify.com/track/52Zr0sinhWTCRrQhRRY4EP"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Gipsy Kings",
+        "url": "https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl"
+      },
+      "artists": [
+        {
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "Bambol\u00e9o",
+      "url": "https://open.spotify.com/track/3iB8eciGU9vZkaDYkz7Ir9"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
+        "name": "Nightflight to Venus",
+        "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 261266,
+      "name": "Rivers of Babylon",
+      "url": "https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
         "name": "La Dura Vida del Joven Rapero",
         "url": "https://open.spotify.com/album/507EX6i0GGn2b4l2DGcl2y"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 219666,
       "name": "Contando Lunares (feat. Cruz Cafun\u00e9)",
       "url": "https://open.spotify.com/track/6uW0PIRcyZLvkoonm763xD"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
-        "name": "Nightflight to Venus",
-        "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 261266,
-      "name": "Rivers of Babylon",
-      "url": "https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "26 Grandes Canciones Y Una Nube Blanca",
-        "url": "https://open.spotify.com/album/45MhAsX9X7z5siVUxUjUk7"
-      },
-      "artists": [
-        {
-          "name": "Ana Bel\u00e9n",
-          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
-        }
-      ],
-      "duration_ms": 317733,
-      "name": "El Hombre del Piano",
-      "url": "https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "The Biggest Reggae Hits",
         "url": "https://open.spotify.com/album/1GDBjjWoOsRzvmK4PRo92a"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 243695,
       "name": "Gimme Hope Jo'anna",
       "url": "https://open.spotify.com/track/6295Cr4SGdjJgnJ6DLtZFn"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "26 Grandes Canciones Y Una Nube Blanca",
+        "url": "https://open.spotify.com/album/45MhAsX9X7z5siVUxUjUk7"
+      },
+      "artists": [
+        {
+          "name": "Ana Bel\u00e9n",
+          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
+        }
+      ],
+      "duration_ms": 317733,
+      "name": "El Hombre del Piano",
+      "url": "https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "La Cucaracha",
-        "url": "https://open.spotify.com/album/52RyozzM58iDLzgKyxuOZ1"
-      },
-      "artists": [
-        {
-          "name": "El Combo Dominicano",
-          "url": "https://open.spotify.com/artist/0SRhX6qz5KzKtfvY85Jgsb"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "La Cucaracha",
-      "url": "https://open.spotify.com/track/3VBnhEvPBkH5nUMCtAGpv7"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Puerto Presente",
         "url": "https://open.spotify.com/album/0NfmXeIvmXywovqG2uGVpr"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 199960,
       "name": "Moving",
       "url": "https://open.spotify.com/track/2wvmkXG4foIJ2xUiwLhBjA"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "La Cucaracha",
+        "url": "https://open.spotify.com/album/52RyozzM58iDLzgKyxuOZ1"
+      },
+      "artists": [
+        {
+          "name": "El Combo Dominicano",
+          "url": "https://open.spotify.com/artist/0SRhX6qz5KzKtfvY85Jgsb"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "La Cucaracha",
+      "url": "https://open.spotify.com/track/3VBnhEvPBkH5nUMCtAGpv7"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "La Bomba",
-        "url": "https://open.spotify.com/album/6P73QHeqdIP1AnJYopAPB2"
-      },
-      "artists": [
-        {
-          "name": "King Africa",
-          "url": "https://open.spotify.com/artist/2vAu3qMgOvtukijgajuXhM"
-        }
-      ],
-      "duration_ms": 199106,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/5UmGJS0jd1r52OjnNvVHvU"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "'80s Pop #1's",
         "url": "https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY"
       },
@@ -2551,6 +2535,22 @@
       "duration_ms": 179986,
       "name": "Axel F - From \"Beverly Hills Cop\" Soundtrack",
       "url": "https://open.spotify.com/track/1GVd8euqs4yQxGyIOLJX0c"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "La Bomba",
+        "url": "https://open.spotify.com/album/6P73QHeqdIP1AnJYopAPB2"
+      },
+      "artists": [
+        {
+          "name": "King Africa",
+          "url": "https://open.spotify.com/artist/2vAu3qMgOvtukijgajuXhM"
+        }
+      ],
+      "duration_ms": 199106,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/5UmGJS0jd1r52OjnNvVHvU"
     },
     {
       "added_at": "2024-06-18 12:57:48",

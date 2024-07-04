@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 
 > Your favorite Latin Indie classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,244 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,357 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 56 | [Baila](https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:42 |
 | 57 | [Ta Que Tiembla](https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:48 |
 | 58 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 |
-| 59 | [fuckhim \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:32 |
-| 60 | [nadie me cae bien](https://open.spotify.com/track/35bu49h6EEYptKobXmBQma) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [nadie me cae bien](https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea) | 3:48 |
+| 59 | [nadie me cae bien](https://open.spotify.com/track/35bu49h6EEYptKobXmBQma) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [nadie me cae bien](https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea) | 3:48 |
+| 60 | [fuckhim \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:32 |
 | 61 | [Reflexión del Pasto](https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Reflexión del Pasto](https://open.spotify.com/album/28GYUNMKd575GwnofewUEI) | 1:46 |
 | 62 | [En Cantos](https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [En Cantos](https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl) | 3:32 |
 | 63 | [Bailar Bien, Bailar Mal](https://open.spotify.com/track/669xNVrjraLRBLrVBf7sUU) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [GP](https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t) | 3:45 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 92 | [Week 4](https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v) | [The Acapulco Express](https://open.spotify.com/artist/398DySP5d4MCX9UJFkng6N) | [Month One](https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE) | 5:10 |
 | 93 | [The Feel](https://open.spotify.com/track/3ibKHCLcR8yChARBe32WKy) | [Las Robertas](https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp) | [The Feel](https://open.spotify.com/album/2hT9ig4B0tTVDvuyQAKZvJ) | 3:00 |
 | 94 | [Colors](https://open.spotify.com/track/4S86HrFNj1b7vL0oY4QGao) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Canta](https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp) | 3:33 |
-| 95 | [Nada Personal](https://open.spotify.com/track/3BCayFOh2xF0AuYjcWgSVd) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Catalina García](https://open.spotify.com/artist/4Zm0tODImwnNKu1W4Vtr3w) | [Nada Personal](https://open.spotify.com/album/4Wjgz8zUKQ7m2raLlSdsp1) | 4:41 |
-| 96 | [I Don't Mind](https://open.spotify.com/track/3P1TNAPSbEcNWCUpBiRiaj) | [RARRI BLANCO](https://open.spotify.com/artist/1n4e1x8i4mKDSYWBiOtm6U) | [I Don't Mind](https://open.spotify.com/album/7JsJXXMqaP7uDhSCs63sd9) | 3:36 |
+| 95 | [I Don't Mind](https://open.spotify.com/track/3P1TNAPSbEcNWCUpBiRiaj) | [RARRI BLANCO](https://open.spotify.com/artist/1n4e1x8i4mKDSYWBiOtm6U) | [I Don't Mind](https://open.spotify.com/album/7JsJXXMqaP7uDhSCs63sd9) | 3:36 |
+| 96 | [Nada Personal](https://open.spotify.com/track/3BCayFOh2xF0AuYjcWgSVd) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Catalina García](https://open.spotify.com/artist/4Zm0tODImwnNKu1W4Vtr3w) | [Nada Personal](https://open.spotify.com/album/4Wjgz8zUKQ7m2raLlSdsp1) | 4:41 |
 | 97 | [Dos que uno](https://open.spotify.com/track/3V2sqiqXuRUaK1gv1ugbdp) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 4:22 |
 | 98 | [Drive \- Edit](https://open.spotify.com/track/126fZP5WUzjwZAdNX3fRlD) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Drive](https://open.spotify.com/album/31tdxu6hFbpN99N7QxoJRf) | 3:56 |
 | 99 | [And Ever.](https://open.spotify.com/track/63dVzBKXxpC3BXU7gf6I37) | [DANI G](https://open.spotify.com/artist/4yVM2Wto6llICCwf58y2mM) | [And Ever.](https://open.spotify.com/album/2Pwz72uGx2J9YkTxf30ETk) | 2:55 |

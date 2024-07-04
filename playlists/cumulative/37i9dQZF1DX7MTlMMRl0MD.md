@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: NATTI NATASHA
 
-378 songs - 23 hr 6 min
+379 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 | 2022-03-04 | 2024-01-13 |
 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 | 2022-03-04 | 2022-09-03 |
 | [atravesao](https://open.spotify.com/track/6ZQau5OYmv8C3iZb8WUQLF) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:20 | 2023-02-11 |  |
-| [AVENTURA](https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY) | [ZABDIEL](https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [AVENTURA](https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf) | 3:13 | 2023-08-25 |  |
+| [AVENTURA](https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY) | [ZABDIEL](https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [AVENTURA](https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf) | 3:13 | 2023-08-25 | 2024-07-04 |
 | [Aventurero](https://open.spotify.com/track/6dapTo2nYV7SdoyaJLpJWI) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Aventurero](https://open.spotify.com/album/4PWYXJGUP9s8qNWJMCRl4s) | 3:29 | 2022-03-04 | 2022-09-03 |
 | [Ayúdame](https://open.spotify.com/track/6mjhmQB61lSVhgcmOFJv9L) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:44 | 2022-09-02 | 2022-09-10 |
 | [Años Luz](https://open.spotify.com/track/6hwmqR7uQhytLnJzt1RVPF) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 3:40 | 2022-03-04 | 2022-07-29 |
@@ -247,6 +247,7 @@
 | [No Te Dejo De Pensar \(feat\. 24 Horas\)](https://open.spotify.com/track/6JD9rQMWvkYCTOCjt8w0oz) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [No Te Dejo De Pensar \(feat\. 24 Horas\)](https://open.spotify.com/album/6E0w7lk0RQrHtUGX2uOgA8) | 3:43 | 2022-03-04 | 2023-05-01 |
 | [No Tengo Suerte En El Amor](https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [No Es Casualidad](https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF) | 3:59 | 2022-09-09 | 2024-01-13 |
 | [No Tengo Suerte En El Amor](https://open.spotify.com/track/1dazXPzmgBB7sNxodglb1l) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [Éxitos De Yoskar Sarante](https://open.spotify.com/album/0nAAlwEXjpJwEkLJo7yvG0) | 4:00 | 2022-03-04 | 2022-09-03 |
+| [No Vas a Encontrar](https://open.spotify.com/track/1GGpgUDxD5bjEq0OSEDTvc) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN), [R.K.M.](https://open.spotify.com/artist/1g9s0VQvScNH2eh7JCbzUu) | [No Vas a Encontrar](https://open.spotify.com/album/7LEOqYU7W9dFTLwq7xoBd0) | 3:12 | 2024-07-04 |  |
 | [No Voy a Morir Por ti](https://open.spotify.com/track/0WvY6XcW1illQAlR61HrpM) | [Daniel Simo](https://open.spotify.com/artist/4HZGfCiVVgfmaKlvyIF65k) | [No Voy a Morir Por Ti](https://open.spotify.com/album/2pS6rekYYFrTZqcoEapLXm) | 3:42 | 2024-04-05 |  |
 | [No Vuelve](https://open.spotify.com/track/5kR0sGmfwqWZmN0pe2JNG1) | [Yunel](https://open.spotify.com/artist/0mTBRMGmIlPdcYyXUrG6A1) | [No Vuelve](https://open.spotify.com/album/0nfmBq64BRvuTfKmgVDej4) | 3:14 | 2022-09-09 | 2022-12-10 |
 | [Noche Primavera](https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Noche Primavera](https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG) | 3:19 | 2023-04-21 | 2024-05-18 |

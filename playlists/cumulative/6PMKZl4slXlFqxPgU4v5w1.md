@@ -4,11 +4,12 @@
 
 > 
 
-20 songs - 1 hr 22 min
+22 songs - 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Blue Velvet](https://open.spotify.com/track/4LAa9a5VMkk3mN8BHhB93c) | [Alberto Baldan Bembo](https://open.spotify.com/artist/13MlmKnz81PZqZgMfCdVRR) | [L'amica di mia madre \(Colonna sonora originale del film\)](https://open.spotify.com/album/3wMMEeUpFG4YqilF56KCHw) | 1:18 | 2024-07-03 |  |
+| [endsville is burning](https://open.spotify.com/track/0mr8LFEGjDJsH2LnSWYCmg) | [NNTYTUU](https://open.spotify.com/artist/1DbJR3WnrE6zQ5XIuLx8mD) | [Wants and Needs](https://open.spotify.com/album/652mPQWHKHwl39CQ9HozGP) | 1:27 | 2024-07-03 |  |
 | [Essa Passou](https://open.spotify.com/track/3whBktP2FropNwzMpmXJJx) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [...E No Entanto É Preciso Cantar](https://open.spotify.com/album/30hcakANWtR9xuTuCOXo75) | 2:23 | 2024-07-03 |  |
 | [Gone Too Soon](https://open.spotify.com/track/66mXHPRfAwbnNKnTCNpytj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 3:21 | 2024-07-03 |  |
 | [Holding Back the Years \- 2008 Remaster](https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Picture Book \(Expanded Version\)](https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT) | 4:29 | 2024-07-03 |  |
@@ -28,5 +29,6 @@
 | [いきのこり●ぼくら](https://open.spotify.com/track/6ad7bQ48TlqAgebCExUJVe) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [0](https://open.spotify.com/album/4yqm0ZLcphXs8M8cVvLKym) | 6:46 | 2024-07-03 |  |
 | [午前2時の恋人](https://open.spotify.com/track/14w4ik9lemqH2PR7Js2gTf) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [ORACLE](https://open.spotify.com/album/24dtvNJDBoI6gCaTwzCcLZ) | 4:50 | 2024-07-03 |  |
 | [扉の冬](https://open.spotify.com/track/0mRLWYEDx8Kf5xYt7UnFwC) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [扉の冬](https://open.spotify.com/album/6RIPbKWjHHRcmwAInhfZc5) | 2:45 | 2024-07-03 |  |
+| [私達を信じていて](https://open.spotify.com/track/4xu0gZ96zx1G7UdajUGDqD) | [Cindy](https://open.spotify.com/artist/2ZMPUpiuAKAkzPdMj6qEX0) | [Angel Touch](https://open.spotify.com/album/1Cm55AdMDqdZv9dxiJmB5m) | 5:52 | 2024-07-03 |  |
 
 \*This playlist was first scraped on 2024-07-03. Prior content cannot be recovered.

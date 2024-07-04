@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover\- MC STAN
 
-169 songs - 9 hr 24 min
+171 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Joota Japani](https://open.spotify.com/track/7lzPCtx5j2JRFhbsGpbzQ7) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Shankar Jaikishan](https://open.spotify.com/artist/1Ss4YdByiwTuR5Fh9e89sc) | [Joota Japani](https://open.spotify.com/album/1GCClFFYn65g9WH1XXUWDK) | 2:35 | 2024-01-18 | 2024-04-19 |
 | [Joota Japani](https://open.spotify.com/track/79sXQo3Wub2baCCZn4QU4d) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Shankar Jaikishan](https://open.spotify.com/artist/1Ss4YdByiwTuR5Fh9e89sc), [Shailendra](https://open.spotify.com/artist/66fbGcYDp66VzjaYFyLg8S) | [Joota Japani](https://open.spotify.com/album/7f9xnfMtU6XlrQxMVNZbIq) | 2:35 | 2024-01-17 | 2024-01-19 |
 | [Joota Japani](https://open.spotify.com/track/3G0gdqt4LTreFwBYaymUhp) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Joota Japani](https://open.spotify.com/album/4wGScOi2a1xEpmHNaOii3D) | 2:35 | 2024-01-18 |  |
+| [Kaanch Ke Ghar](https://open.spotify.com/track/4zIKxXLpYV6vCHgS1BTSkX) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Kaanch Ke Ghar](https://open.spotify.com/album/2ptD5mY38viW5m8w9KSaKK) | 5:32 | 2024-07-03 |  |
 | [Kaha Tak](https://open.spotify.com/track/1EvFCT12WiFT649pC9wsPV) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 3:33 | 2023-04-19 |  |
 | [Kahan Par Hai](https://open.spotify.com/track/6YtlaPxgVWZHO7OB1atIEf) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Kahan Par Hai](https://open.spotify.com/album/6OSxozR5eG53NUvHBy2PsZ) | 3:39 | 2023-03-27 | 2023-04-20 |
 | [KALESHI CHORI](https://open.spotify.com/track/6FrihRowEuYfNehH0zcx0e) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [DARK HORSE](https://open.spotify.com/artist/4v9G79IPGEpwTbgB6TUUaY) | [KALESHI CHORI](https://open.spotify.com/album/0Hgw8x1UFcmeReCtxDW24U) | 3:31 | 2023-03-27 |  |
@@ -164,6 +165,7 @@
 | [Title Kya Doon?](https://open.spotify.com/track/7CAAWyMGx2vo4HGDQpgw80) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Title Kya Doon?](https://open.spotify.com/album/7pInKnDPeSiG094c81DKpB) | 3:53 | 2024-06-07 |  |
 | [Top Class / Overseas](https://open.spotify.com/track/4BDOA9pV0yLClbR3v37ekI) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 4:48 | 2024-02-15 | 2024-03-23 |
 | [TRAP PRAA](https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 3:11 | 2023-04-19 |  |
+| [TT](https://open.spotify.com/track/0RWx7EB3id2kMmIS9FmxlP) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [TT](https://open.spotify.com/album/1pxuDycn6c53mE8cBFrS8j) | 3:57 | 2024-07-03 |  |
 | [Tu Hai Kaun](https://open.spotify.com/track/4gJwX0QLUXwjwmQG77ihLS) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [Tu Hai Kaun](https://open.spotify.com/album/4YrdmA8BUodffcJGjJnks9) | 3:24 | 2023-03-27 | 2023-04-20 |
 | [Up To U](https://open.spotify.com/track/5pkOSmSeVo8RfC8555LRHT) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/75E8pKR9gdgdv3xxRyT1o8) | 3:08 | 2024-04-01 | 2024-04-19 |
 | [Up To U](https://open.spotify.com/track/7695jWrVLrftHb9ChEmFCg) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/3LqdYNb1s5tt77gpYkMeeF) | 3:08 | 2024-04-09 |  |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-961 songs - 2 day 20 hr 57 min
+962 songs - 2 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,7 @@
 | [Half Awake](https://open.spotify.com/track/2UUVwDVZYR5StS7Si0SxrP) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Half Awake](https://open.spotify.com/album/5CvlH1O9kN7HCJVN5pUPw2) | 3:18 | 2020-10-28 | 2023-03-19 |
 | [Half Awake](https://open.spotify.com/track/4ReGLAJLZZKFonhQcRXTRU) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Half Awake](https://open.spotify.com/album/2vhK0Pw1fm7ep0qzq0pZXc) | 3:18 | 2023-06-22 | 2024-04-19 |
 | [Hanging D \- Max Cooper Remix](https://open.spotify.com/track/4X8vyPKnqXurF8tJcgZJUC) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y), [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Hanging D \(Max Cooper Remix\)](https://open.spotify.com/album/1yEeSe2Y3oe91BN2rhWR48) | 5:05 | 2021-07-23 | 2022-07-27 |
-| [Happiness](https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Happiness](https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx) | 3:59 | 2024-06-28 |  |
+| [Happiness](https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Happiness](https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx) | 3:59 | 2024-06-28 | 2024-07-04 |
 | [Harbour \- Original Mix](https://open.spotify.com/track/2eJTBg24OcjIQbld3libGX) | [Soundprank](https://open.spotify.com/artist/4axjIl2fLU1xnDsC1NB3yI) | [Anjunabeats Chilled Summer](https://open.spotify.com/album/51NvhDH0FMdDqhTtBPhJ02) | 5:08 | 2019-06-22 | 2022-04-20 |
 | [Haul \(Max Cooper Remix\)](https://open.spotify.com/track/6WXXOjaynxjyiyXwD6Wh2g) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Mare Reworks](https://open.spotify.com/album/5bYn4Wb0pXW3NVh0eSlgh4) | 7:15 | 2019-06-19\* | 2022-04-18 |
 | [Head Above The Parakeets](https://open.spotify.com/track/1jK4ngN1uGHVk6x2ae2C5G) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/1tp6VBpXpeJ7ZHj4j18KCN) | 7:16 | 2020-11-13 | 2022-04-21 |
@@ -884,6 +884,7 @@
 | [Tri\-State](https://open.spotify.com/track/0NYmQAHfHlG18sFYRLcQ8b) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Tri\-State](https://open.spotify.com/album/3LOFci2RIEaXJqD3nIoekv) | 4:11 | 2019-06-21 | 2020-06-12 |
 | [Trippest Flu](https://open.spotify.com/track/7vQXx4T1BWP7NgLe65F7hb) | [Swardy](https://open.spotify.com/artist/5iTOaSGMZgJ1U8k6NjmzTx) | [Down](https://open.spotify.com/album/1spDp6qOwcVi1f9961M26K) | 1:33 | 2019-12-14 | 2020-10-22 |
 | [Tropic Air](https://open.spotify.com/track/3myrvhxZL6nf2UPOYt9TiQ) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Tropic Air](https://open.spotify.com/album/3uxmV2Ce5KiIcZXgDlBuOh) | 3:44 | 2021-07-11 | 2022-07-29 |
+| [Truffles Sprinkles](https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Truffles Sprinkles](https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS) | 4:11 | 2024-06-28 |  |
 | [Truly](https://open.spotify.com/track/5qUebbZSJz1q2vA21CPzYF) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Truly](https://open.spotify.com/album/53NRjPLDy6USTFdWIjQJ2A) | 3:11 | 2021-07-23 | 2022-07-25 |
 | [Trunk Junk](https://open.spotify.com/track/0ocJfFZr54mVbzLAtgHCjT) | [Mad Zach](https://open.spotify.com/artist/1RxjZjOSbva0JR7T2LsRve) | [Out of Body](https://open.spotify.com/album/3QFcGTGAftaKbI4SKKmfVM) | 4:15 | 2019-06-19\* | 2021-03-02 |
 | [Trust Your Feet](https://open.spotify.com/track/7MQYbNg70VHTCjsbMrFQmH) | [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [Imagine This Is A High Dimensional Space Of All Possibilities](https://open.spotify.com/album/4c04wXoadgnqqrxeDUCnFP) | 6:43 | 2023-04-06 | 2023-05-07 |

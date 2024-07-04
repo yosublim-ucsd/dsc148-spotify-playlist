@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Candy Bleakz
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,110 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,172 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stubborn \(with Asake\)](https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Stubborn \(with Asake\)](https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b) | 2:56 |
-| 2 | [Egwu](https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Egwu](https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi) | 2:16 |
+| 1 | [Egwu](https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Egwu](https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi) | 2:16 |
+| 2 | [Stubborn \(with Asake\)](https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Stubborn \(with Asake\)](https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b) | 2:56 |
 | 3 | [BENIN BOYS](https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [BENIN BOYS](https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT) | 2:49 |
 | 4 | [Instagram](https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Instagram](https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S) | 2:20 |
 | 5 | [Ko Possible](https://open.spotify.com/track/6LZrYVJpaTUGmnxUiWSqcd) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Ko Possible](https://open.spotify.com/album/2AQgwujElBT9oTirF9o8ch) | 1:58 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 36 | [Oghene](https://open.spotify.com/track/1TGNfm1HCICFHIKM1DMmuL) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4Su2KjN1mxdB5JpT5aAtQw), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [R2 Sept 12](https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB) | 3:04 |
 | 37 | [Cash](https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Wara Wara Szn](https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs) | 3:00 |
 | 38 | [HBP](https://open.spotify.com/track/3xY9AUbeibAeVDyPkHm8Kj) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [HBP](https://open.spotify.com/album/5SOS13paz0WPPdIf9CL0Y8) | 2:47 |
-| 39 | [The Life I Chose](https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [The Life I Chose](https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS) | 2:24 |
-| 40 | [Gaza](https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:14 |
+| 39 | [Gaza](https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:14 |
+| 40 | [The Life I Chose](https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [The Life I Chose](https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS) | 2:24 |
 | 41 | [Today](https://open.spotify.com/track/1jYIMLLTKnecfOgccQnaHb) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:37 |
 | 42 | [O.U.A.T](https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [O.U.A.T](https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b) | 2:21 |
 | 43 | [1999](https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [R2 Sept 12](https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB) | 2:42 |

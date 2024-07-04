@@ -2992,7 +2992,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 194026,
       "name": "Billetes Verdes",
       "url": "https://open.spotify.com/track/5LJjbobrSykC4uyIdF0vW9"
@@ -3076,7 +3076,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -4462,7 +4462,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 195586,
       "name": "CLASSY 101",
       "url": "https://open.spotify.com/track/1hZsWUnLbqRw09jLAMQSsb"
@@ -5660,7 +5660,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 200000,
       "name": "Cupido - Discoteca",
       "url": "https://open.spotify.com/track/0v4ZYHAEsd3iFYoZgRuVVF"
@@ -8236,7 +8236,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 215213,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT"
@@ -12910,7 +12910,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -13116,7 +13116,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 174229,
       "name": "LA FALDA",
       "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
@@ -13714,7 +13714,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 226980,
       "name": "La Pampara",
       "url": "https://open.spotify.com/track/75UbgGzyJYnh5qtHaW2xPh"
@@ -14440,7 +14440,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 95153,
       "name": "Lengueteo",
       "url": "https://open.spotify.com/track/1V90SGl7TILjTczVpI0sPp"
@@ -15646,6 +15646,28 @@
       "duration_ms": 192345,
       "name": "M3",
       "url": "https://open.spotify.com/track/4WDRKKpJiEZ6DK6FFM3pkZ"
+    },
+    {
+      "album": {
+        "name": "El Brujo",
+        "url": "https://open.spotify.com/album/3URlV6ZNGUSqwbPUFD6a5G"
+      },
+      "artists": [
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        },
+        {
+          "name": "B One El Productor De Oro",
+          "url": "https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152653,
+      "name": "Ma Buena",
+      "url": "https://open.spotify.com/track/0KAR1qidh5Og0JcG9Ws18A"
     },
     {
       "album": {
@@ -17814,7 +17836,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 267194,
       "name": "MONACO",
       "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
@@ -19122,7 +19144,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 212064,
       "name": "Nota de Pasion (feat. Arcangel)",
       "url": "https://open.spotify.com/track/5ylidhXD2jnlvaynl1qbqX"
@@ -20450,7 +20472,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 161906,
       "name": "Pegate - Discoteca",
       "url": "https://open.spotify.com/track/4Hv9AcuSHn5CaDNxzp5jdP"
@@ -29578,7 +29600,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 187694,
       "name": "Vamono Lejos",
       "url": "https://open.spotify.com/track/4xdl8WUxPsgG0gZdIP4yS8"

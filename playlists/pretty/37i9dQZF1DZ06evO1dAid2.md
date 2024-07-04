@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 
 > This is Chuck Berry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,306 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,318 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 49 | [Little Marie](https://open.spotify.com/track/3Hh5o5GUOveghI5l7DrvgT) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:35 |
 | 50 | [Downbound Train](https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:49 |
 
-Snapshot ID: `ZoHxgAAAAABclnKa8jo0XL18lbEGKCS4`
+Snapshot ID: `ZoNDAAAAAADBWfNOKrSpl8nkFkjzV5bf`

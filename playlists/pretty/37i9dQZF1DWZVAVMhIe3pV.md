@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,430 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,459 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 55 | [3's & 7's](https://open.spotify.com/track/44JEbGi3NxptsEuxDNGiAR) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Era Vulgaris](https://open.spotify.com/album/1w71aBHYJ1zTOsSsmr2Fca) | 3:34 |
 | 56 | [Had Enough](https://open.spotify.com/track/7u93rCmIM9mBoT4mvfUBTZ) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Phobia \(Explicit Version\)](https://open.spotify.com/album/6yJdQMlMkfYJFiSsL6764c) | 3:48 |
 | 57 | [Is Everybody Going Crazy?](https://open.spotify.com/track/75yY1Ghs6E32WC4kSikXRJ) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic](https://open.spotify.com/album/6afyaK8ihj33Chr7A7LqNI) | 3:57 |
-| 58 | [Hell You Call A Dream](https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Hell You Call A Dream / Qué Más Quieres](https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir) | 2:56 |
-| 59 | [Little Monster](https://open.spotify.com/track/5fpj84RsT9cOTfWUCxBTXu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 3:32 |
+| 58 | [Little Monster](https://open.spotify.com/track/5fpj84RsT9cOTfWUCxBTXu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 3:32 |
+| 59 | [Hell You Call A Dream](https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Hell You Call A Dream / Qué Más Quieres](https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir) | 2:56 |
 | 60 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 |
 | 61 | [Feel Good Drag](https://open.spotify.com/track/3EuiMoY8lTjAvIqNf8Uyr3) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [New Surrender](https://open.spotify.com/album/4q76zB2vUHF6Pf2AlxnXQ0) | 3:07 |
 | 62 | [Down Rodeo](https://open.spotify.com/track/40L8L7344pPMCjlZc19RQU) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 5:20 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 68 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 |
 | 69 | [Blame It on the Boom Boom](https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Between the Devil & the Deep Blue Sea \(Special Edition\)](https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H) | 3:09 |
 | 70 | [Bubbles](https://open.spotify.com/track/05lBXOMA1uHpVPEQZyjoh3) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6UuQatBlB5QYszvOsBawSD) | 5:01 |
-| 71 | [Why Worry](https://open.spotify.com/track/3apcJZpzCcIy6FNJVM1bYF) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Duality](https://open.spotify.com/album/4mPWTksMsByAvomErPtJwK) | 3:19 |
-| 72 | [Real Thing](https://open.spotify.com/track/1Rz1CTinAymBA4dcMPGijY) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:56 |
+| 71 | [Real Thing](https://open.spotify.com/track/1Rz1CTinAymBA4dcMPGijY) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:56 |
+| 72 | [Why Worry](https://open.spotify.com/track/3apcJZpzCcIy6FNJVM1bYF) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Duality](https://open.spotify.com/album/4mPWTksMsByAvomErPtJwK) | 3:19 |
 | 73 | [Bad Girlfriend](https://open.spotify.com/track/5ynWvN3bQymHVThxutO4hG) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Scars & Souvenirs](https://open.spotify.com/album/1AB8tdwS9hY4iyulXexNab) | 3:25 |
 | 74 | [Dirty Rotten Bizkit](https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:01 |
 | 75 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 95 | [Remedy](https://open.spotify.com/track/2PhQfN7qTx5JxIAlIGMscf) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [Year Of The Spider](https://open.spotify.com/album/2AHTc1fPhvsiGtXtquK5DO) | 2:57 |
 | 96 | [The Door](https://open.spotify.com/track/58nHFSWj5N5JxNtWgS85TL) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:33 |
 | 97 | [No Fun](https://open.spotify.com/track/0fmycn4nyOPGVCgOKjoAwF) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [8](https://open.spotify.com/album/3YdvnTLTd343C1osvUChnA) | 3:21 |
-| 98 | [Heartbreak Of The Century](https://open.spotify.com/track/6X39BP7h0IGcDFnf0PHHOb) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Heartbreak Of The Century](https://open.spotify.com/album/4wqFmxdd5bYFH8XRmfRkAJ) | 3:49 |
-| 99 | [You’re One Of Us Now](https://open.spotify.com/track/6EwRKnESYfyuqDmMjbDhYw) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 4:03 |
+| 98 | [You’re One Of Us Now](https://open.spotify.com/track/6EwRKnESYfyuqDmMjbDhYw) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 4:03 |
+| 99 | [Heartbreak Of The Century](https://open.spotify.com/track/6X39BP7h0IGcDFnf0PHHOb) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Heartbreak Of The Century](https://open.spotify.com/album/4wqFmxdd5bYFH8XRmfRkAJ) | 3:49 |
 | 100 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
 
 Snapshot ID: `ZlThjwAAAAD9DC6ZgEI/SkF62Zks/IOu`

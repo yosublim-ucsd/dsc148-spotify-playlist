@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,888 likes - 509 songs - 1 day 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,896 likes - 509 songs - 1 day 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -361,9 +361,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 351 | [Feels Like Home](https://open.spotify.com/track/6bYV3JaJuDQX3meBGx5jMe) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Sittin' On Top Of The World](https://open.spotify.com/album/6whu15IpXsztdwhOC43SXX) | 4:32 |
 | 352 | [No Fool No More](https://open.spotify.com/track/1RhaF2Eq1Zg1zR1MIaY9I1) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48), [Mick Guzauski](https://open.spotify.com/artist/5kBkJhHwbshC3wJJphhkMz) | [Best Of](https://open.spotify.com/album/1dVhczEhJUyJpao75GZkA2) | 4:17 |
 | 353 | [You're Right, I Was Wrong](https://open.spotify.com/track/3XyvYg1ffmvYJT0YZ334Rj) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [I Couldn´t Have Said It Better Myself](https://open.spotify.com/album/4aIx98BVdGYLJGGftvmGVS) | 3:44 |
-| 354 | [Counterfeit](https://open.spotify.com/track/5PYoVbt8FHP2RF54we98q2) | [Tulisa](https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv) | [The Female Boss](https://open.spotify.com/album/0zXYx82zuw2TWYR96aaFNH) | 4:07 |
-| 355 | [If U Go](https://open.spotify.com/track/4kxckcfvTM73YQTkDckVFl) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Kismet](https://open.spotify.com/album/6b5qQmB2IQBQULdHl73wtx) | 3:26 |
-| 356 | [Your Heart Is Safe With Me](https://open.spotify.com/track/223UQ3ktTf6AvbhIdGips6) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 3:50 |
+| 354 | [If U Go](https://open.spotify.com/track/4kxckcfvTM73YQTkDckVFl) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Kismet](https://open.spotify.com/album/6b5qQmB2IQBQULdHl73wtx) | 3:26 |
+| 355 | [Your Heart Is Safe With Me](https://open.spotify.com/track/223UQ3ktTf6AvbhIdGips6) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 3:50 |
+| 356 | [Counterfeit](https://open.spotify.com/track/5PYoVbt8FHP2RF54we98q2) | [Tulisa](https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv) | [The Female Boss](https://open.spotify.com/album/0zXYx82zuw2TWYR96aaFNH) | 4:07 |
 | 357 | [NAACP Swing](https://open.spotify.com/track/3TKklRQ0zQFzZ4o8bAho35) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 1:34 |
 | 358 | [One Nation Under Love \- Ukrainian Version](https://open.spotify.com/track/5A5AzrXhsQyGPrsqz4rb1Q) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [ТРОЯНДИ](https://open.spotify.com/album/1FhzXPtyqJbf59X5vreUig) | 3:59 |
 | 359 | [I Tried](https://open.spotify.com/track/4ik9oDeRdXGKheZ6LXLFWX) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Legacy \(Volume One\)](https://open.spotify.com/album/4Cpi2rXw1GfsC8L4je7lO6) | 4:04 |
@@ -388,8 +388,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 378 | [Explain It to My Heart](https://open.spotify.com/track/6K53W25evEQTm6GvHINJLp) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Twenty 1 \(Expanded Edition\)](https://open.spotify.com/album/73qc0AZ2o6EjPLL0c1pOFU) | 4:08 |
 | 379 | [I Heart U](https://open.spotify.com/track/45QmJ4Wgoes2KaQVEeQNpV) | [Tessanne Chin](https://open.spotify.com/artist/3gtaVMrNBTAFtlzYTeHNua) | [Count On My Love](https://open.spotify.com/album/4OJN5iJMyh3DGP76oSFYQR) | 3:22 |
 | 380 | [Marshall's Theme \- I Need You](https://open.spotify.com/track/0ZKAcFfeylW0jhas028wc5) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 1:07 |
-| 381 | [Don't Look at Me That Way](https://open.spotify.com/track/3mncIcc50tSkfOLwubXzwU) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Woman I Am](https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz) | 4:50 |
-| 382 | [There For Me](https://open.spotify.com/track/3mASdjEd8tR3D2oSvPJouk) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow: 25th Anniversary Expanded Edition](https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I) | 4:14 |
+| 381 | [There For Me](https://open.spotify.com/track/3mASdjEd8tR3D2oSvPJouk) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow: 25th Anniversary Expanded Edition](https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I) | 4:14 |
+| 382 | [Don't Look at Me That Way](https://open.spotify.com/track/3mncIcc50tSkfOLwubXzwU) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Woman I Am](https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz) | 4:50 |
 | 383 | [Pleasure Or Pain](https://open.spotify.com/track/1qtvhltHHmeFqnz0T3BOoW) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [All That Matters](https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw) | 4:06 |
 | 384 | [Baby Be There](https://open.spotify.com/track/1K9cAcnZ55oIaIsVQMXsAH) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [Time](https://open.spotify.com/album/3dlQhSbEXPzDKCr3jPsT0Q) | 3:49 |
 | 385 | [Sanity](https://open.spotify.com/track/1SMBqiTr7Gl9Xz9xGBkPbr) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Kismet](https://open.spotify.com/album/6b5qQmB2IQBQULdHl73wtx) | 3:27 |
@@ -518,4 +518,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 508 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 509 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `AbVpYgAAAADiXntYdqClspTT8cJp8wFm`
+Snapshot ID: `AbVvAgAAAACji6yRbDq6fFRBeuuE8WZZ`

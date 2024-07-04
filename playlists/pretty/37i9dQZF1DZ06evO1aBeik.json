@@ -1,12 +1,12 @@
 {
   "description": "This is Post Malone. The essential tracks, all in one playlist.",
-  "num_followers": 2684447,
+  "num_followers": 2685151,
   "original_name": "This Is Post Malone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAAzcyPXZi7xajTdvPfT+NlH",
+  "snapshot_id": "ZoNDAAAAAACtxJMWXoyNhPG0u4hcNa16",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "I Like You (A Happier Song) (with Doja Cat)",
+      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "beerbongs & bentleys",
         "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
@@ -134,15 +154,27 @@
         {
           "name": "Post Malone",
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 220293,
-      "name": "Congratulations",
-      "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"
+      "duration_ms": 179613,
+      "name": "Go Flex",
+      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 149546,
+      "name": "Wow.",
+      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
     },
     {
       "added_at": null,
@@ -167,28 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
-      "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AUSTIN",
-        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
       "artists": [
         {
@@ -196,9 +208,9 @@
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 165175,
-      "name": "Enough Is Enough",
-      "url": "https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz"
+      "duration_ms": 231266,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK"
     },
     {
       "added_at": null,
@@ -212,9 +224,41 @@
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 179613,
-      "name": "Go Flex",
-      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
+      "duration_ms": 256532,
+      "name": "White Iverson",
+      "url": "https://open.spotify.com/track/6eT7xZZlB2mwyzJ2sUKG6w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "Hollywood's Bleeding",
+      "url": "https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 193565,
+      "name": "Wrapped Around Your Finger",
+      "url": "https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX"
     },
     {
       "added_at": null,
@@ -235,66 +279,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+        "name": "Cooped Up / Return Of The Mack",
+        "url": "https://open.spotify.com/album/4G0HO7POrjMX9cKLX2KxkF"
       },
       "artists": [
         {
           "name": "Post Malone",
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 149546,
-      "name": "Wow.",
-      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Motley Crew",
-        "url": "https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb"
-      },
-      "artists": [
+        },
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184213,
-      "name": "Motley Crew",
-      "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
-      },
-      "artists": [
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+        },
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Sickick",
+          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
         }
       ],
-      "duration_ms": 223346,
-      "name": "I Fall Apart",
-      "url": "https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "beerbongs & bentleys",
-        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 204426,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc"
+      "duration_ms": 127253,
+      "name": "Cooped Up / Return Of The Mack",
+      "url": "https://open.spotify.com/track/6Ole34qqbgkZ60IyrcVm7e"
     },
     {
       "added_at": null,
@@ -306,11 +310,15 @@
         {
           "name": "Post Malone",
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 156266,
-      "name": "Hollywood's Bleeding",
-      "url": "https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt"
+      "duration_ms": 174853,
+      "name": "Goodbyes (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C"
     },
     {
       "added_at": null,
@@ -335,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 204426,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stoney (Deluxe)",
         "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
@@ -351,6 +375,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Take What You Want (feat. Ozzy Osbourne & Travis Scott)",
+      "url": "https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AUSTIN",
         "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
       },
@@ -363,26 +411,6 @@
       "duration_ms": 204952,
       "name": "Too Cool To Die",
       "url": "https://open.spotify.com/track/3FtQes77xlbS9QTVts7p2u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 174853,
-      "name": "Goodbyes (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C"
     },
     {
       "added_at": null,
@@ -431,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AUSTIN",
-        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 205287,
-      "name": "Something Real",
-      "url": "https://open.spotify.com/track/444vevlQjTnKioLLncteGv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -454,11 +466,19 @@
         {
           "name": "Post Malone",
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 150866,
-      "name": "Saint-Tropez",
-      "url": "https://open.spotify.com/track/05mDaV9Vb3wrzjF6OPZnhq"
+      "duration_ms": 245266,
+      "name": "Die For Me (feat. Future & Halsey)",
+      "url": "https://open.spotify.com/track/2C6WXnmZ66tHhHlnvwePiK"
     },
     {
       "added_at": null,
@@ -635,54 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life\u2019s A Mess II (with Clever & Post Malone)",
-        "url": "https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Clever",
-          "url": "https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Life's A Mess II (with Clever & Post Malone)",
-      "url": "https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Clever",
-          "url": "https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Forever (feat. Post Malone & Clever)",
-      "url": "https://open.spotify.com/track/2ZlCGeK30BLRNSPC832pNZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AUSTIN",
         "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
       },
@@ -719,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "beerbongs & bentleys",
-        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 246986,
-      "name": "Over Now",
-      "url": "https://open.spotify.com/track/09IOPhEh1OMe0HD9b36FJk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stoney (Deluxe)",
         "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
@@ -751,6 +707,26 @@
       "duration_ms": 234213,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/0H8XeaJunhvpBdBFIYi6Sh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 233880,
+      "name": "Notice Me",
+      "url": "https://open.spotify.com/track/3OnOomd79OjqSYHchCQ6ht"
     },
     {
       "added_at": null,
@@ -787,50 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Punk",
-        "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 210906,
-      "name": "Livin It Up (with Post Malone & A$AP Rocky)",
-      "url": "https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culture II",
-        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 233880,
-      "name": "Notice Me",
-      "url": "https://open.spotify.com/track/3OnOomd79OjqSYHchCQ6ht"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tommy Lee (feat. Post Malone)",
         "url": "https://open.spotify.com/album/2PFiZ23ZyPTcgwmXk4X6o0"
       },
@@ -851,38 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AUSTIN (Bonus)",
-        "url": "https://open.spotify.com/album/1F9LY06gadScF4g3g3BrDC"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 287428,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/4kD3OqYqX2kJCUTEscRBxO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twelve Carat Toothache",
-        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 248177,
-      "name": "Reputation",
-      "url": "https://open.spotify.com/track/67dU06KGaJHLLlo5Y5bkD2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twelve Carat Toothache (Deluxe)",
         "url": "https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so"
       },
@@ -899,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twelve Carat Toothache",
-        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+        "name": "AUSTIN",
+        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
       },
       "artists": [
         {
@@ -908,9 +808,61 @@
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 195110,
-      "name": "When I\u2019m Alone",
-      "url": "https://open.spotify.com/track/5Ja2u1FPlVxrxeMWEa2dcn"
+      "duration_ms": 162103,
+      "name": "Speedometer",
+      "url": "https://open.spotify.com/track/5oJw81e2Tzr2rC0lHXnDPb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 169824,
+      "name": "I Cannot Be (A Sadder Song) (with Gunna)",
+      "url": "https://open.spotify.com/track/4IxeKzzxUSEgivgtbSbyIK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 194333,
+      "name": "Patient",
+      "url": "https://open.spotify.com/track/5DLTuH4A5VZB2HKpqHQR6t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AUSTIN",
+        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184607,
+      "name": "Landmine",
+      "url": "https://open.spotify.com/track/6Sjg6cp8yXtKX5DrcEl7HV"
     },
     {
       "added_at": null,
@@ -924,9 +876,9 @@
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 169660,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/2meHtZ7N97pJfvTL4hYtfv"
+      "duration_ms": 248177,
+      "name": "Reputation",
+      "url": "https://open.spotify.com/track/67dU06KGaJHLLlo5Y5bkD2"
     }
   ],
   "unique_name": "This Is Post Malone",

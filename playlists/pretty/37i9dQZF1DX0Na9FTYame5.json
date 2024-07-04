@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Apache 207, AYLIVA",
-  "num_followers": 581420,
+  "num_followers": 581498,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,18 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "NuR Du :/",
-        "url": "https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ"
+        "name": "Bisou :*",
+        "url": "https://open.spotify.com/album/6Y9pFqdaD1O343Vr9sZuR5"
       },
       "artists": [
         {
           "name": "Lune",
           "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
-        },
-        {
-          "name": "SHABAB",
-          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
         }
       ],
-      "duration_ms": 206085,
-      "name": "NuR Du :/",
-      "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
+      "duration_ms": 161587,
+      "name": "Bisou :*",
+      "url": "https://open.spotify.com/track/7dAI9IZpHaA9Lzhd8d60Tp"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -491,18 +487,22 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "Bisou :*",
-        "url": "https://open.spotify.com/album/6Y9pFqdaD1O343Vr9sZuR5"
+        "name": "NuR Du :/",
+        "url": "https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ"
       },
       "artists": [
         {
           "name": "Lune",
           "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        },
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
         }
       ],
-      "duration_ms": 161587,
-      "name": "Bisou :*",
-      "url": "https://open.spotify.com/track/7dAI9IZpHaA9Lzhd8d60Tp"
+      "duration_ms": 206085,
+      "name": "NuR Du :/",
+      "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -831,46 +831,6 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "winterlove2.0",
-        "url": "https://open.spotify.com/album/6FVvZwks2Bz8xpYFUSbQrb"
-      },
-      "artists": [
-        {
-          "name": "Maikel",
-          "url": "https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY"
-        },
-        {
-          "name": "badchieff",
-          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
-        },
-        {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        }
-      ],
-      "duration_ms": 188750,
-      "name": "winterlove2.0",
-      "url": "https://open.spotify.com/track/1szS7JF64tEmQke86QpFDV"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
-        "name": "SUPERHERO Pt. II",
-        "url": "https://open.spotify.com/album/1p6GawomVK5DiIi2WLHW69"
-      },
-      "artists": [
-        {
-          "name": "Farid Bang",
-          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "SUPERHERO Pt. II",
-      "url": "https://open.spotify.com/track/1si5jQY9oRUPh8jGrsX3B8"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
         "name": "Ich liebe.... (feat. MAJAN)",
         "url": "https://open.spotify.com/album/6AjZsOYjpu97IWWLJrXOzj"
       },
@@ -895,6 +855,46 @@
       "duration_ms": 236533,
       "name": "Ich liebe.... (feat. MAJAN)",
       "url": "https://open.spotify.com/track/3ki3YXx0OtIjOZ0Plcj6KW"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
+        "name": "SUPERHERO Pt. II",
+        "url": "https://open.spotify.com/album/1p6GawomVK5DiIi2WLHW69"
+      },
+      "artists": [
+        {
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "SUPERHERO Pt. II",
+      "url": "https://open.spotify.com/track/1si5jQY9oRUPh8jGrsX3B8"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
+        "name": "winterlove2.0",
+        "url": "https://open.spotify.com/album/6FVvZwks2Bz8xpYFUSbQrb"
+      },
+      "artists": [
+        {
+          "name": "Maikel",
+          "url": "https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY"
+        },
+        {
+          "name": "badchieff",
+          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
+        },
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        }
+      ],
+      "duration_ms": 188750,
+      "name": "winterlove2.0",
+      "url": "https://open.spotify.com/track/1szS7JF64tEmQke86QpFDV"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "Majestic",
-        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
-      },
-      "artists": [
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        },
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
-        }
-      ],
-      "duration_ms": 160226,
-      "name": "Passion (feat. Paula Hartmann)",
-      "url": "https://open.spotify.com/track/0npHflJzLWZ6svbq5Abnfo"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
         "name": "Zeiten \u00e4ndern nichts (feat. Kool Savas)",
         "url": "https://open.spotify.com/album/0q3LXCOcFj6Kdu1zNYQgKu"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 151026,
       "name": "Zeiten \u00e4ndern nichts (feat. Kool Savas)",
       "url": "https://open.spotify.com/track/2qlO9odnqUIVu8MMyhdmFY"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Passion (feat. Paula Hartmann)",
+      "url": "https://open.spotify.com/track/0npHflJzLWZ6svbq5Abnfo"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "Mittelfinger",
-        "url": "https://open.spotify.com/album/7vR1STUfZ9Io0u1Ei67XDH"
-      },
-      "artists": [
-        {
-          "name": "Florentina",
-          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
-        }
-      ],
-      "duration_ms": 129272,
-      "name": "Mittelfinger",
-      "url": "https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
         "name": "Nie wieder sehen",
         "url": "https://open.spotify.com/album/74nmPMbAbjYQDEtwtHF5ZY"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 161212,
       "name": "Nie wieder sehen",
       "url": "https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
+        "name": "Mittelfinger",
+        "url": "https://open.spotify.com/album/7vR1STUfZ9Io0u1Ei67XDH"
+      },
+      "artists": [
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "duration_ms": 129272,
+      "name": "Mittelfinger",
+      "url": "https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -1255,6 +1255,30 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
+        "name": "Erkl\u00e4re mir die Liebe",
+        "url": "https://open.spotify.com/album/54vtpKW0Li3YhiNi8ev1XX"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        },
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "Philipp Poisel",
+          "url": "https://open.spotify.com/artist/7HkIxdAV13bOrkOhh6H3Dg"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Erkl\u00e4re mir die Liebe",
+      "url": "https://open.spotify.com/track/0K6QpySe2WtrAR2wXKheVh"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
         "name": "Elbe",
         "url": "https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg"
       },
@@ -1295,22 +1319,6 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "Kopf aus",
-        "url": "https://open.spotify.com/album/12K0tzbbpEgWtjmzN31nop"
-      },
-      "artists": [
-        {
-          "name": "1986zig",
-          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
-        }
-      ],
-      "duration_ms": 136120,
-      "name": "Kopf aus",
-      "url": "https://open.spotify.com/track/5Th2Rs48Gz3iqfcGMXG5PC"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
         "name": "Bei Nacht",
         "url": "https://open.spotify.com/album/2HCVxU3SoAeBBrHO81Du6B"
       },
@@ -1327,6 +1335,22 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
+        "name": "Kopf aus",
+        "url": "https://open.spotify.com/album/12K0tzbbpEgWtjmzN31nop"
+      },
+      "artists": [
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        }
+      ],
+      "duration_ms": 136120,
+      "name": "Kopf aus",
+      "url": "https://open.spotify.com/track/5Th2Rs48Gz3iqfcGMXG5PC"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
         "name": "Let me love you",
         "url": "https://open.spotify.com/album/7JzgE4gyrzuWpLKz9PBCJX"
       },
@@ -1339,30 +1363,6 @@
       "duration_ms": 167889,
       "name": "Let me love you",
       "url": "https://open.spotify.com/track/5WtgFOXW3BOS8bwNcD72hw"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
-        "name": "Erkl\u00e4re mir die Liebe",
-        "url": "https://open.spotify.com/album/54vtpKW0Li3YhiNi8ev1XX"
-      },
-      "artists": [
-        {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
-        },
-        {
-          "name": "Chapo102",
-          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
-        },
-        {
-          "name": "Philipp Poisel",
-          "url": "https://open.spotify.com/artist/7HkIxdAV13bOrkOhh6H3Dg"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Erkl\u00e4re mir die Liebe",
-      "url": "https://open.spotify.com/track/0K6QpySe2WtrAR2wXKheVh"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "K\u00f6nig f\u00fcr immer",
-        "url": "https://open.spotify.com/album/4Ruh25eyPDaVdu7KyW67hZ"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        }
-      ],
-      "duration_ms": 190778,
-      "name": "Morpheus",
-      "url": "https://open.spotify.com/track/33UJjKCtghGywf33vRZl1u"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
         "name": "Safe Space",
         "url": "https://open.spotify.com/album/2P4PDLYSHvViL5tnKF4P5R"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 136412,
       "name": "Safe Space",
       "url": "https://open.spotify.com/track/6HDHXiKCOYJkrpaJPZuM74"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
+        "name": "K\u00f6nig f\u00fcr immer",
+        "url": "https://open.spotify.com/album/4Ruh25eyPDaVdu7KyW67hZ"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        }
+      ],
+      "duration_ms": 190778,
+      "name": "Morpheus",
+      "url": "https://open.spotify.com/track/33UJjKCtghGywf33vRZl1u"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "nur liebe, immer.",
-        "url": "https://open.spotify.com/album/5Smkfw2oCHkVJeGWgo0ylD"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        }
-      ],
-      "duration_ms": 146346,
-      "name": "luft holen",
-      "url": "https://open.spotify.com/track/4LOGPJg8TsT0RC5xyvLN30"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
         "name": "F\u00fcr immer Zuhaus\u2018 (feat. Montez)",
         "url": "https://open.spotify.com/album/369u6YDhMq2L6RPy4cP7v6"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 132800,
       "name": "MISSED CALLS",
       "url": "https://open.spotify.com/track/4RHDWNlp4yrk54rQATSiQK"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
+        "name": "nur liebe, immer.",
+        "url": "https://open.spotify.com/album/5Smkfw2oCHkVJeGWgo0ylD"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        }
+      ],
+      "duration_ms": 146346,
+      "name": "luft holen",
+      "url": "https://open.spotify.com/track/4LOGPJg8TsT0RC5xyvLN30"
     },
     {
       "added_at": "2024-06-28 12:16:10",

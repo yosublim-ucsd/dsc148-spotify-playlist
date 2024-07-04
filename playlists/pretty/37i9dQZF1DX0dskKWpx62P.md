@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,111 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,148 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 31 | [Sobreviviendo](https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6) | [Sobreviviendo](https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R) | 6:17 |
 | 32 | [Tomando Cerveza](https://open.spotify.com/track/2zkjU1FIQ35rpmDHK2C9fy) | [Mario Mendoza](https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ) | [Lo Mejor del Incomparable...Mario Mendoza](https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw) | 3:00 |
 | 33 | [Chinita Ingrata](https://open.spotify.com/track/5Zg2sTf0f476qo0u9h0wOB) | [Los Pacharacos](https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW) | [Los Pacharacos](https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ) | 2:49 |
-| 34 | [Carrito del Gobierno](https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7) | [Jilguero Del Huascarán](https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx) | [Cantares Huaracinos](https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK) | 2:40 |
+| 34 | [Al Compás de Mi Guitarra](https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY) | [Jilguero Del Huascarán](https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx) | [Cantares Huaracinos](https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK) | 3:06 |
 | 35 | [Un Pasajero en Tú Camino](https://open.spotify.com/track/3LZccAbS0T0UdH661mUno3) | [Proyección](https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8) | [La Nueva Expresión del Folklore de Bolivia](https://open.spotify.com/album/0X1nBJpPBaIT8mFh0XnBoU) | 4:00 |
 | 36 | [Sihuarsito](https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN) | [Los Puquiales](https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn) | [Huayno, Vol\. 2](https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4) | 2:47 |
 | 37 | [Amigo](https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:42 |
 | 38 | [Donde Estarás Palomita](https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN) | [Kiko Revatta](https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa) | [Ayacucho En El Corazon De Todos Vol.2](https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi) | 3:17 |
-| 39 | [Al Compás de Mi Guitarra](https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY) | [Jilguero Del Huascarán](https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx) | [Cantares Huaracinos](https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK) | 3:06 |
+| 39 | [Carrito del Gobierno](https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7) | [Jilguero Del Huascarán](https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx) | [Cantares Huaracinos](https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK) | 2:40 |
 | 40 | [Triste Enamorado](https://open.spotify.com/track/5mrUmA5jojltZRbWp6FTRK) | [El Comunero de Los Andes](https://open.spotify.com/artist/0fMWProJcP684kUSl4mFWR) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:39 |
 | 41 | [Clavel de mi pecho](https://open.spotify.com/track/7f9iGF8ycjnYEXc9c8Gb4U) | [Manuelcha Prado](https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22) | [Enlazando Cantos II](https://open.spotify.com/album/7pwM0y78SKw4b1kSHjWL81) | 4:09 |
 | 42 | [Carrito del Regreso](https://open.spotify.com/track/6E37bI48bQcPPJj20aNCOL) | [Ernesto Sanchez Fajardo](https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC) | [El Jilguero de Huascarán](https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5) | 2:41 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 55 | [La Chismosa](https://open.spotify.com/track/4VlswEsEPSWQHefPJoTNVd) | [Los Campesinos de Bambamarca](https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m) | [A..estilo propio y jaranero](https://open.spotify.com/album/3p3as9EChM0uXAteOZ2oZo) | 6:05 |
 | 56 | [A los filos de un cuchillo](https://open.spotify.com/track/5r5uesUoq0BbQEG78GrDqB) | [Pastorita Huaracina](https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF), [Estrellita de Pomabamba](https://open.spotify.com/artist/6tnebocZfd2TonZ4j7zFkX), [Semilia Collas](https://open.spotify.com/artist/1HouieVvOiJi7ccoVEFRPc), [Pallasquinita](https://open.spotify.com/artist/7Jt2BKlQ4TjSYTOHLG7xZw) | [Huaynos corazon y alma](https://open.spotify.com/album/4pZd4WaXRsP3WdXKHB9MgZ) | 3:06 |
 | 57 | [Urpay Linda Cuculí](https://open.spotify.com/track/5RF8MoKhDHsNyRIyg1cmlo) | [Estrellita de Pomabamba](https://open.spotify.com/artist/6tnebocZfd2TonZ4j7zFkX) | [el Cofre del Recuerdo](https://open.spotify.com/album/6z0ILslVFO1nSjLijU2xhQ) | 2:45 |
-| 58 | [Cerveza, Cerveza](https://open.spotify.com/track/2MwYotI5NsXGD7LazHfUX5) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Papito por Qué Me Dejaste..!](https://open.spotify.com/album/3wQqMBrsik0XtiDhTsWx9M) | 4:34 |
+| 58 | [Soy Provinciano](https://open.spotify.com/track/48gJ019YstMfy2k6tp9Sja) | [Pumita Cazador](https://open.spotify.com/artist/4HBWFmmZe0Ll2tTkvsn1Mb) | [El Nuevo Líder del Requinto](https://open.spotify.com/album/48PIu89fj0h9ME5JtGmCoB) | 6:22 |
 | 59 | [Koka kintucha](https://open.spotify.com/track/0GF5O4jv4zIrrV5EWNdSL1) | [Manuelcha Prado](https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22) | [Madre Andina](https://open.spotify.com/album/3QiXpzSp5X9J2IxfAP4eGe) | 3:58 |
 | 60 | [Juntito a Tí](https://open.spotify.com/track/1zL9sHcTeljBcBIMTp8KWi) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [Y Su Perú Colores](https://open.spotify.com/album/6cjhSXx1Q0zzS2fuitwPqB) | 5:16 |
 
-Snapshot ID: `ZnmvCAAAAAACPtQcIr2SnY8XfGzZQ7DH`
+Snapshot ID: `ZoV78AAAAAA+6zjHGnpnkh15gdsVLR+N`

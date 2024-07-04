@@ -14297,6 +14297,24 @@
     },
     {
       "album": {
+        "name": "de ja vu",
+        "url": "https://open.spotify.com/album/1T41QBcUTncmitLEcy1y9z"
+      },
+      "artists": [
+        {
+          "name": "Earl Hondo",
+          "url": "https://open.spotify.com/artist/6wtwOmHik96gteVK9Kt28x"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "de ja vu",
+      "url": "https://open.spotify.com/track/2urwpQeVzI8p1QjTYPUcEc"
+    },
+    {
+      "album": {
         "name": "Dead Man Walking",
         "url": "https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc"
       },
@@ -32059,6 +32077,24 @@
     },
     {
       "album": {
+        "name": "last first date",
+        "url": "https://open.spotify.com/album/2iQY8LE8UQJxatH3Q6hnzZ"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187250,
+      "name": "last first date",
+      "url": "https://open.spotify.com/track/0BoR8leRhGdvCNdwbqUPcJ"
+    },
+    {
+      "album": {
         "name": "Last Last",
         "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
       },
@@ -36598,6 +36634,28 @@
       "duration_ms": 164210,
       "name": "Maracuj\u00e1",
       "url": "https://open.spotify.com/track/5nNfDIbkqaXE8Gdv6r96um"
+    },
+    {
+      "album": {
+        "name": "marchito",
+        "url": "https://open.spotify.com/album/2I5dbJQzpVXkcQIkVnhSrY"
+      },
+      "artists": [
+        {
+          "name": "Skinyz",
+          "url": "https://open.spotify.com/artist/6jcPqkBKfky0zK1hkLArlJ"
+        },
+        {
+          "name": "Jesse Chac\u00f3n",
+          "url": "https://open.spotify.com/artist/55sk6MAN847i5rUk9jpxO3"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133499,
+      "name": "marchito",
+      "url": "https://open.spotify.com/track/3h7ykC4YeImQ7p1XwIaHeJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: Jelani Aryeh
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,989 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,020 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 47 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 | 48 | [Shudder](https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Shudder](https://open.spotify.com/album/5rNHpyAfV4fdowwcH1U1if) | 2:47 |
 | 49 | [Basquiat](https://open.spotify.com/track/1KeXz6D76LhEaBhYR9n5vI) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [The End of the World](https://open.spotify.com/album/1IhJclrz77F5stIY0oMh7i) | 3:55 |
-| 50 | [Utopia](https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [N.F.A\. DEMOS](https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz) | 3:28 |
+| 50 | [First Time](https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Cruzafied](https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv) | 3:37 |
 
 Snapshot ID: `ZnByTgAAAACLT9izxZb96F08JlcB8PKd`

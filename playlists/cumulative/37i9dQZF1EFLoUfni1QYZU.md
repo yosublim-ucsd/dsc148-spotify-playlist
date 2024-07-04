@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-129 songs - 8 hr 4 min
+130 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Special](https://open.spotify.com/track/7py2KvzOqA3MHWk5cl0lqP) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5) | 4:21 | 2024-04-18 |  |
 | [Standing Where You Left Me](https://open.spotify.com/track/47ByDQbcfBfhkrzgJ1Ojs0) | [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [Pieces](https://open.spotify.com/album/2LQCkZkjgKKTaPb8SYqufS) | 3:20 | 2022-09-08 |  |
 | [Strange](https://open.spotify.com/track/0ym7NHJQXBiw6vQvqqcuhr) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 3:54 | 2022-09-08 | 2023-12-14 |
-| [Strange](https://open.spotify.com/track/4n6pH632KlUcuYxq3imOY4) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1) | 3:55 | 2023-12-13 |  |
+| [Strange](https://open.spotify.com/track/4a9pbQS5R6FzqUkUeycD3i) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f) | 3:55 | 2024-07-03 |  |
+| [Strange](https://open.spotify.com/track/4n6pH632KlUcuYxq3imOY4) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1) | 3:55 | 2023-12-13 | 2024-07-04 |
 | [Sunshine](https://open.spotify.com/track/0GXh2O2tCYX0FLBPWDDAKS) | [Aria](https://open.spotify.com/artist/6oKcrcntGSX6Nsu4LjY8M5) | [Sunshine](https://open.spotify.com/album/03EdPcCnGo40y1BUw5hGN8) | 3:26 | 2022-09-08 |  |
 | [Suspicion](https://open.spotify.com/track/26sWRzDoP2gNqsIoty8afK) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You \(Deluxe Edition\)](https://open.spotify.com/album/0jEdDyZOU75VaY764hKZ9O) | 3:20 | 2023-12-13 | 2024-02-16 |
 | [Suspicion](https://open.spotify.com/track/3m2xJrdQwtkv6NCs2SG7O4) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 3:20 | 2022-09-08 | 2023-12-14 |

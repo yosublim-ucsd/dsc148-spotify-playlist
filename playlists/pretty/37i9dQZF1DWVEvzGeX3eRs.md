@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 
 > that Darius and Nina type love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,593,489 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,593,646 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 32 | [Beauty](https://open.spotify.com/track/125dAqUSmX1nOG50fBz9vb) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:32 |
 | 33 | [All I Do Is Think of You](https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3) | [Troop](https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI) | [Attitude](https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr) | 3:49 |
 | 34 | [Stay](https://open.spotify.com/track/0JukF7Yf5qF10ntu6lpJ5I) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Forever My Lady](https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7) | 5:12 |
-| 35 | [Close the Door](https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 5:25 |
-| 36 | [Kissin' You](https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX) | [Total](https://open.spotify.com/artist/4FM8iY3r6cFC2g5tQnpnyM) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 4:42 |
+| 35 | [Kissin' You](https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX) | [Total](https://open.spotify.com/artist/4FM8iY3r6cFC2g5tQnpnyM) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 4:42 |
+| 36 | [Close the Door](https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 5:25 |
 | 37 | [You Give Good Love](https://open.spotify.com/track/0t6DdFmFQhQYWhmfa5FJer) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:37 |
 | 38 | ['Cause I Love You](https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45) | [Lenny Williams](https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN) | [Spark Of Love \(Expanded Edition\)](https://open.spotify.com/album/6WhyyjT7SguubI15raOkDo) | 7:09 |
 | 39 | [If I Ever Fall In Love](https://open.spotify.com/track/0uOPGU4CbYxzFxn6T7sblW) | [Shai](https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3), [Bill Appleberry](https://open.spotify.com/artist/3XDOHFgZoRPljL3nSeYJtJ) | [If I Ever Fall In Love](https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb) | 4:49 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 44 | [Anytime](https://open.spotify.com/track/2gQ3lDcFYa3yFOkaw8PtuO) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Anytime](https://open.spotify.com/album/7qxIzUF6FoGTu62oeRdNFd) | 4:33 |
 | 45 | [Forever Mine](https://open.spotify.com/track/2X4H5K1aT6d7UyPWVfJWmF) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 6:06 |
 | 46 | [I Love You](https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faithfully](https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy) | 4:27 |
-| 47 | [Something in My Heart](https://open.spotify.com/track/1CrWoWuxupYY1vi1XRdpBX) | [Michel'le](https://open.spotify.com/artist/4D0WfOUqTzqKysXt33VL3j) | [Michel'le](https://open.spotify.com/album/2PngFAB0v6216314TZRcGb) | 5:53 |
-| 48 | [You're Always On My Mind](https://open.spotify.com/track/4zAxfkmJqsaHqFu1YPMS5a) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 5:17 |
+| 47 | [You're Always On My Mind](https://open.spotify.com/track/4zAxfkmJqsaHqFu1YPMS5a) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 5:17 |
+| 48 | [Something in My Heart](https://open.spotify.com/track/1CrWoWuxupYY1vi1XRdpBX) | [Michel'le](https://open.spotify.com/artist/4D0WfOUqTzqKysXt33VL3j) | [Michel'le](https://open.spotify.com/album/2PngFAB0v6216314TZRcGb) | 5:53 |
 | 49 | [Funny How Time Flies \(When You're Having Fun\)](https://open.spotify.com/track/3Ru4nUidPRMnC8eBWM8DoQ) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:28 |
 | 50 | [When Can I See You](https://open.spotify.com/track/2zItQNJrVrTioXTXWiI2ed) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [For The Cool In You](https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX) | 3:49 |
 

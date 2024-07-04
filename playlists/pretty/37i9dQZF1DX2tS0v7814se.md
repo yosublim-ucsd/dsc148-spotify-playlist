@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2tS0v7814se.md) - [plain]
 
 > Disfruta con los dulces y tradicionales sonidos de la marimba.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,906 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,915 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2tS0v7814se.md) - [plain]
 | 45 | [Sólo Veracruz Es Bello\-El Balajú\-El Colás\-La Bamba\-El Tilingo Lingo](https://open.spotify.com/track/5DIbHrgGpkESK5V1wgq01q) | [Marimba Alma de Chiapas de Juan Palacios](https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm) | [Nuestro Mexico](https://open.spotify.com/album/0Vn3EEDY1Fm3OLseNfCDYF) | 3:51 |
 | 46 | [Cachete Pechito y Ombligo](https://open.spotify.com/track/1Pa46URce4LqPLn39XMM1E) | [Internaciona Marimba Orquesta Reyna Fraylescana](https://open.spotify.com/artist/2pAxMik90YjnlIhEih8IsP) | [Muchachita Consentida](https://open.spotify.com/album/5UWTIJ8D5Deqoa2T6BvUx2) | 4:55 |
 | 47 | [Chichicastenango, Marimba de Guatemala](https://open.spotify.com/track/3oiHEDRCOrCLU27og8j182) | [Maria Concepcion](https://open.spotify.com/artist/13h5HsotnBVAMnYkJwHlOc) | [World Music Guatemala 2, Música Tradicional, Traditional Music](https://open.spotify.com/album/4J0lRtA02lqPbjfyr5tHXi) | 3:08 |
-| 48 | [Murió la Flor](https://open.spotify.com/track/2ym23q1gPhVfEcsaWJy1FX) | [Marimba Usula Internacional](https://open.spotify.com/artist/3yYkr58MumFlBtSmvjMeRN) | [Exitos y Ritmos Vol\. 9](https://open.spotify.com/album/6gLVHmJsg0G8jOfYtnQz5T) | 2:49 |
-| 49 | [Antigua Guatemala](https://open.spotify.com/track/5pJ6HaGiYrONFRxJS6jgVq) | [Mi Bella Sampedrana](https://open.spotify.com/artist/5pwHyPQjlZg2W9iuGVLEOm) | [100 Melodías de Guatemala Con las Mejores Marimbas](https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL) | 3:08 |
+| 48 | [Antigua Guatemala](https://open.spotify.com/track/5pJ6HaGiYrONFRxJS6jgVq) | [Mi Bella Sampedrana](https://open.spotify.com/artist/5pwHyPQjlZg2W9iuGVLEOm) | [100 Melodías de Guatemala Con las Mejores Marimbas](https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL) | 3:08 |
+| 49 | [Murió la Flor](https://open.spotify.com/track/2ym23q1gPhVfEcsaWJy1FX) | [Marimba Usula Internacional](https://open.spotify.com/artist/3yYkr58MumFlBtSmvjMeRN) | [Exitos y Ritmos Vol\. 9](https://open.spotify.com/album/6gLVHmJsg0G8jOfYtnQz5T) | 2:49 |
 | 50 | [La Bamba Marimba](https://open.spotify.com/track/4EAZKc4d2wDGJtLZgZ8LBi) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Marimbas Clasicas](https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX) | 2:25 |
 | 51 | [Naila](https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh) | [Na'rimbo](https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt) | [...un poco mas.](https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM) | 5:03 |
 | 52 | [Ecos de Grijalva](https://open.spotify.com/track/10Y9inhqqeRw5pos81s2bP) | [Marimba Perla del Soconusco](https://open.spotify.com/artist/6J9Z1V5gcVO6zphy7zANO4) | [Al Son de la Marimba](https://open.spotify.com/album/0wxM4bQS2LGqHegc3Ouc6x) | 2:40 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2tS0v7814se.md) - [plain]
 | 60 | [Como Han Pasado los Años](https://open.spotify.com/track/4yQIkgjP0n9b5rCVSKVvWo) | [Marimba Orquesta Reyna Tuxtleca](https://open.spotify.com/artist/4Bdi5tQO1H1QNWCTVLOwRO) | [Danzones y Boleros](https://open.spotify.com/album/1KF1zaTVSPC1CuqHPaUz1F) | 3:42 |
 | 61 | [Al son de la marimba](https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh) | [Na'rimbo](https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt) | [...un poco mas.](https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM) | 6:10 |
 | 62 | [El Negro José](https://open.spotify.com/track/3r2HzXJ7kTnkFKdXvqOiGf) | [Marimba Estrella De Chiapas](https://open.spotify.com/artist/69BHaB39ynVJXoMhRMWmw1) | [Marimba para Bailar](https://open.spotify.com/album/0Ihsjeu5Gs19Iu7t6mItQT) | 2:40 |
-| 63 | [Mambo del Politecnico](https://open.spotify.com/track/52CUFksI6jXx3Cvg6MtY9B) | [Marimba Nandayapa](https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8) | [Mambos Boleros y Danzones](https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs) | 3:24 |
-| 64 | [Al Partir](https://open.spotify.com/track/5zfGySDgKJhu7HX1us2JV3) | [Marimba Sonora Ideal](https://open.spotify.com/artist/3D7Sm0ChnKWC6XyA7VjCwX) | [A Nuestro Estilo\. Música de Guatemala para los Latinos](https://open.spotify.com/album/64rtxgs5otTtlQao2alrfY) | 3:19 |
+| 63 | [Al Partir](https://open.spotify.com/track/5zfGySDgKJhu7HX1us2JV3) | [Marimba Sonora Ideal](https://open.spotify.com/artist/3D7Sm0ChnKWC6XyA7VjCwX) | [A Nuestro Estilo\. Música de Guatemala para los Latinos](https://open.spotify.com/album/64rtxgs5otTtlQao2alrfY) | 3:19 |
+| 64 | [Mambo del Politecnico](https://open.spotify.com/track/52CUFksI6jXx3Cvg6MtY9B) | [Marimba Nandayapa](https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8) | [Mambos Boleros y Danzones](https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs) | 3:24 |
 | 65 | [El Grito, Marimba de Guatemala](https://open.spotify.com/track/1oW8bNLGJU5uZArvEpLm5m) | [Shigualita](https://open.spotify.com/artist/6Ur4SvFxoRPB0jUzdHZg7a) | [World Music Guatemala, Danzas Mayas, Mayan Dances](https://open.spotify.com/album/0dKCmV0ACWcV5JqebK6ibq) | 2:47 |
 | 66 | [20 de Enero](https://open.spotify.com/track/68dfC4E9fkr5Eh75Ga7rK3) | [Flor del Manzano](https://open.spotify.com/artist/0E3OrgxKZ6i95hfGtEeJYm) | [100 Melodías de Guatemala Con las Mejores Marimbas](https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL) | 3:42 |
 | 67 | [El Gato Pachucon](https://open.spotify.com/track/57wZxoaookNejUwcczKvPF) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Peerless 80 Aniversario \- 24 Exitos Bailables](https://open.spotify.com/album/6dMRTitrzCM8wxOI058AfY) | 2:54 |

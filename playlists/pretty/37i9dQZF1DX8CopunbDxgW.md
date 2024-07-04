@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: LP Giobbi
 
-[Spotify](https://open.spotify.com/user/spotify) - 860,464 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 860,469 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

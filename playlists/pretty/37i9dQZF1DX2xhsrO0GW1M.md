@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 
 > Tu dosis de éxitos indie para quedar a salvo\. En portada: Alabama Shakes, celebrando 10 años de Boys & Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,116,613 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,116,593 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 | 32 | [Soul Meets Body](https://open.spotify.com/track/5yc59J3MR3tVDPTOgwgRI5) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:49 |
 | 33 | [Yoshimi Battles the Pink Robots, Pt\. 1](https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 4:47 |
 | 34 | [Alligator](https://open.spotify.com/track/797qMUoU74C6xc45n2vAMK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [FEVER DREAM](https://open.spotify.com/album/3jk6oyfKCny48ZYb1CPjLa) | 3:04 |
-| 35 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 |
+| 35 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 |
 | 36 | [Heavy Cross](https://open.spotify.com/track/4N6R6yqkFUTyF3AYOdR0T7) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Heavy Cross](https://open.spotify.com/album/6iKQraIqR247eFKjdTMoDR) | 4:02 |
 | 37 | [Black Moon Rising](https://open.spotify.com/track/2LTah3NcoIJI9WHJW3VIlC) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 3:41 |
 | 38 | [Put Your Money on Me](https://open.spotify.com/track/0SaEmR2rdtfsZawPjMYkWg) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Everything Now](https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr) | 5:53 |
 | 39 | [Hard to Beat](https://open.spotify.com/track/5PZK7nZBsKjSkXDszKrJ1W) | [Hard\-Fi](https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD) | [Stars Of CCTV](https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD) | 4:13 |
 | 40 | [Animal](https://open.spotify.com/track/4XTTwW06rMgud7yS1nySZf) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/6OfYVC4m7EmGIxaKOgaoZs) | 4:23 |
 | 41 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 |
-| 42 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 |
+| 42 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 |
 | 43 | [Hurt](https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hurt](https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ) | 3:36 |
 | 44 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 |
 | 45 | [All Comes Crashing](https://open.spotify.com/track/1gKLWryPONC9dyrx5fX3Dr) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [All Comes Crashing](https://open.spotify.com/album/7uOTYWH3RBce6YFD7hRnvY) | 4:23 |

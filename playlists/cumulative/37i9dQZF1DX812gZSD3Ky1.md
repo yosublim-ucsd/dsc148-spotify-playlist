@@ -4,7 +4,7 @@
 
 > รวมเพลงสากลสุดฮิต และเพลงในกระแสตอนนี้\. The latest hits & viral tracks right now\. Cover: Camila Cabello, Drake
 
-100 songs - 5 hr 27 min
+102 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2024-06-28 |  |
 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2024-06-28 |  |
 | [Almost over you](https://open.spotify.com/track/2F6OiWpyqFAqRLmVoqGlkB) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Space Shuttle No.8](https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y) | 3:24 | 2024-06-28 |  |
-| [Alonica](https://open.spotify.com/track/1T2gpycmBlJ0RkTcIe7f26) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Alonica](https://open.spotify.com/album/4CeQZSPYxRCFhibNMSXdwu) | 3:58 | 2024-06-28 |  |
+| [Alonica](https://open.spotify.com/track/1T2gpycmBlJ0RkTcIe7f26) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Alonica](https://open.spotify.com/album/4CeQZSPYxRCFhibNMSXdwu) | 3:58 | 2024-06-28 | 2024-07-04 |
 | [angry angry song](https://open.spotify.com/track/1MCvRQM0VwqHrcEmHdd8QG) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [angry angry song](https://open.spotify.com/album/1gffixbdgJrchljXRZC7h3) | 3:27 | 2024-06-28 |  |
 | [bad emotions](https://open.spotify.com/track/2nbEuZBC0LzeRpU6b3P05m) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [bad emotions](https://open.spotify.com/album/6SXKpBlu64BQ9lC88r2ywc) | 3:05 | 2024-06-28 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-06-28 |  |
@@ -21,7 +21,7 @@
 | [choose u everytime](https://open.spotify.com/track/3OcFT2KkQ8xWEPl1mFyvTZ) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [choose u everytime](https://open.spotify.com/album/6M5xJWRZwxY6zbZSMqi7RV) | 3:36 | 2024-06-28 |  |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2024-06-28 |  |
 | [DANCING ON A GRAVEYARD](https://open.spotify.com/track/50kPsp9qv18LL7Eh3oSShy) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [DANCING ON A GRAVEYARD](https://open.spotify.com/album/48ierpG5JJ6wAVEVcpU2kU) | 3:16 | 2024-06-28 |  |
-| [Dangerously](https://open.spotify.com/track/3qonjOrhFCfTnaaMruHzxW) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x) | 3:19 | 2024-06-28 |  |
+| [Dangerously](https://open.spotify.com/track/3qonjOrhFCfTnaaMruHzxW) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x) | 3:19 | 2024-06-28 | 2024-07-04 |
 | [Do You Right](https://open.spotify.com/track/1u2hi7NDNIfxfoNiZZhyGY) | [CHUROSE](https://open.spotify.com/artist/4y9Jhm3jRfDCgGJ3kgyGDp) | [Do You Right](https://open.spotify.com/album/4rIe4hRHbK93lOw9zrYPoC) | 2:56 | 2024-06-28 |  |
 | [driving home to you](https://open.spotify.com/track/6IH1QylJ5mkenmYGGD2e5G) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA), [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Grape Soda](https://open.spotify.com/album/6skFJuskZ23J7NXBNfFR8z) | 3:21 | 2024-06-28 |  |
 | [drunk text](https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [drunk text](https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ) | 3:07 | 2024-06-28 |  |
@@ -38,6 +38,7 @@
 | [Getaway \(feat\. Phum Viphurit\)](https://open.spotify.com/track/5JfLK7hYOhU3fj2xCxEKQ5) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Getaway \(feat\. Phum Viphurit\)](https://open.spotify.com/album/3Bm2iB1HH5jHglICVBIbH7) | 4:07 | 2024-06-28 |  |
 | [Getting No Sleep](https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Getting No Sleep](https://open.spotify.com/album/4wI1h1Ex8aczfMkPVfSRtB) | 3:12 | 2024-06-28 |  |
 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 | 2024-06-28 |  |
+| [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-07-03 |  |
 | [Grape Soda](https://open.spotify.com/track/5KJAvewEPVPOU3OnL6bhwH) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Grape Soda](https://open.spotify.com/album/6skFJuskZ23J7NXBNfFR8z) | 3:35 | 2024-06-28 |  |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2024-06-28 |  |
 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:30 | 2024-06-28 |  |
@@ -64,6 +65,7 @@
 | [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-28 |  |
 | [No Cares Era](https://open.spotify.com/track/1dI9QSKVCt4uXHzGVuBRLa) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [No Cares Era](https://open.spotify.com/album/5FZpZ3glnOilS48UA4C5aB) | 3:20 | 2024-06-28 |  |
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2024-06-28 |  |
+| [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-07-03 |  |
 | [Now and Ever](https://open.spotify.com/track/1VHM91Ost9UKZYPg7rRdhK) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Now and Ever](https://open.spotify.com/album/27u7Lg41vdi6Ku1KGW1UrU) | 3:40 | 2024-06-28 |  |
 | [Now Or Never](https://open.spotify.com/track/38bpdoavxRTydgisUpZFL1) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc) | [Now Or Never](https://open.spotify.com/album/51Zme9D9kAFrCGYNWvxQsW) | 2:58 | 2024-06-28 |  |
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2024-06-28 |  |

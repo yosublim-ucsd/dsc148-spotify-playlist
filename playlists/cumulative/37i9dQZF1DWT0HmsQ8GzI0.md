@@ -4,7 +4,7 @@
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: toldyuuso
 
-80 songs - 4 hr 19 min
+81 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Diszkomfort](https://open.spotify.com/track/0KycjsM9rZi1Ys6z15xKxu) | [szolnoki](https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X) | [Diszkomfort](https://open.spotify.com/album/4TfQVT90BnuML3cWv4LIz8) | 2:35 | 2024-06-28 |  |
 | [Dreaming](https://open.spotify.com/track/2ROgCcAANTmdGfsX4HjrvF) | [som som](https://open.spotify.com/artist/5QsyNOmpemZtsGIjTcufjN), [Dom Beats](https://open.spotify.com/artist/2eaCBvMHhhq9rQo9npqKet) | [Dreaming](https://open.spotify.com/album/7K0LwglwjmTKmciV4qQXYa) | 4:10 | 2024-06-28 |  |
 | [Egy popzenész nyara](https://open.spotify.com/track/0RmI4rRWEUiXfci07vejD0) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [Egy popzenész nyara](https://open.spotify.com/album/4OXvRvtNI7iw9nj47ykx5R) | 1:45 | 2024-06-28 |  |
+| [Egyformák](https://open.spotify.com/track/6fgA2gddZ2AjbM5bHh00xd) | [MAJRÉ](https://open.spotify.com/artist/1VP5B0ctEHTMvQsEKNtxmJ), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai), [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1) | [Egyformák](https://open.spotify.com/album/5k0aOqsnIphaSj8tXRHRHq) | 3:04 | 2024-06-28 |  |
 | [Elképzelt Hős](https://open.spotify.com/track/7ygArGFB1kfKb3NSywRO2E) | [godfater.](https://open.spotify.com/artist/3qVfxEzzh2djh9KaLgOkBh) | [Elképzelt Hős](https://open.spotify.com/album/6d6ZFECNuG6rfZ6NT0HZkn) | 5:58 | 2024-06-28 |  |
 | [Elmentél](https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM) | [ZÓRA](https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW) | [Elmentél](https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI) | 4:44 | 2024-06-28 |  |
 | [Elég a tenger](https://open.spotify.com/track/7fqCWm2j1szb2PyKTNQJba) | [Lázár tesók](https://open.spotify.com/artist/072l9bFXVAVf5CnC9SX6EO) | [Elég a tenger](https://open.spotify.com/album/3jH9vcGnvB41puKiMGSPYT) | 3:27 | 2024-06-28 |  |
@@ -34,7 +35,7 @@
 | [Ez vagyok én](https://open.spotify.com/track/40blJ4UYkDgvbsAkvee9Lq) | [STAiR](https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai) | [Ez vagyok én](https://open.spotify.com/album/4CBzKmewWaLtHfcQkFr7sK) | 1:37 | 2024-06-28 |  |
 | [Fekete póló](https://open.spotify.com/track/1uI3hvdmVeRXOe5XEuwn3E) | [Galaxisok](https://open.spotify.com/artist/0oTbG6PYGGhT0vRYqByYEL) | [Ellenszélben](https://open.spotify.com/album/4By8kRZG7dHeKY4CBKbU7y) | 2:53 | 2024-06-28 |  |
 | [FELDOBOM A KÖVET](https://open.spotify.com/track/55pp0M1iFTL6sPPLTuD4Rf) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [FELDOBOM A KÖVET](https://open.spotify.com/album/1YqKHHgai670hZDWDzMBx5) | 5:11 | 2024-06-28 |  |
-| [Forog](https://open.spotify.com/track/0HqfR7GRs29JY8qOmUXiVy) | [Solére](https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP) | [Forog](https://open.spotify.com/album/73KlujMAwF4fPAiKzmepto) | 1:37 | 2024-06-28 |  |
+| [Forog](https://open.spotify.com/track/0HqfR7GRs29JY8qOmUXiVy) | [Solére](https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP) | [Forog](https://open.spotify.com/album/73KlujMAwF4fPAiKzmepto) | 1:37 | 2024-06-28 | 2024-07-04 |
 | [Frida Kahlo](https://open.spotify.com/track/7CMqBgZAFANJNyQueevWvR) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [Frida Kahlo](https://open.spotify.com/album/5HMnxIdbBRvoTW5PvNbBoo) | 2:43 | 2024-06-28 |  |
 | [FÉNY](https://open.spotify.com/track/1khOPJl7h5jFsAiifMOK6p) | [STAiR](https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai) | [FÉNY](https://open.spotify.com/album/1CF9ITmETDPTrpmK4VHgL1) | 2:27 | 2024-06-28 |  |
 | [Hex](https://open.spotify.com/track/2DShMZVt6bD0BJdmSCdnER) | [Belau](https://open.spotify.com/artist/3P6lDrnBON2Q48dZHQO0ya), [Ay Wing](https://open.spotify.com/artist/7cjLa6AQcbH9XWQYmPNpX4) | [Hex](https://open.spotify.com/album/0xuiWphJRKgRJgeQmaKMgV) | 3:49 | 2024-06-28 |  |

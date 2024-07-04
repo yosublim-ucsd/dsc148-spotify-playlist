@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Anna Graves",
-  "num_followers": 78324,
+  "num_followers": 78340,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -11,18 +11,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Scared To Start",
-        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
       "artists": [
         {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 159636,
-      "name": "Scared To Start",
-      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+      "duration_ms": 227195,
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -75,22 +79,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
         }
       ],
-      "duration_ms": 227195,
-      "name": "I Remember Everything (feat. Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -175,6 +175,26 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 169467,
+      "name": "Spotless (feat. The Lumineers)",
+      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Deeper Well",
         "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
       },
@@ -211,22 +231,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "The Mountain Is You",
-        "url": "https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 196210,
-      "name": "The Mountain Is You",
-      "url": "https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Deeper Well",
         "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
       },
@@ -243,22 +247,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "The Mountain Is You",
+        "url": "https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
         }
       ],
-      "duration_ms": 169467,
-      "name": "Spotless (feat. The Lumineers)",
-      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
+      "duration_ms": 196210,
+      "name": "The Mountain Is You",
+      "url": "https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -399,8 +399,8 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Bones Shake",
-        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
+        "name": "Goodbye to the Valley Low (Side A)",
+        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 226011,
-      "name": "Bones Shake",
-      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
+      "duration_ms": 181130,
+      "name": "Stolen Seasons",
+      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -495,8 +495,8 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Goodbye to the Valley Low (Side A)",
-        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+        "name": "Bones Shake",
+        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 181130,
-      "name": "Stolen Seasons",
-      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
+      "duration_ms": 226011,
+      "name": "Bones Shake",
+      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "A Week in Nashville",
+        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "I Came Here to Leave You",
+      "url": "https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 289964,
       "name": "Change (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "A Week in Nashville",
-        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "I Came Here to Leave You",
-      "url": "https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Rare Disease",
+        "url": "https://open.spotify.com/album/4P2NQ1wYESDt51NGx9ZbW2"
+      },
+      "artists": [
+        {
+          "name": "Anna Bates",
+          "url": "https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx"
+        }
+      ],
+      "duration_ms": 152971,
+      "name": "Rare Disease",
+      "url": "https://open.spotify.com/track/677s1ukItuq66rf0yiQ1Hw"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Treehouse",
         "url": "https://open.spotify.com/album/5fXOvCcWEgxK4x0qgY35U0"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 214826,
       "name": "Treehouse (feat. Brandy Clark)",
       "url": "https://open.spotify.com/track/1YhfDSpXJ61IHRF5IymP3S"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Rare Disease",
-        "url": "https://open.spotify.com/album/4P2NQ1wYESDt51NGx9ZbW2"
-      },
-      "artists": [
-        {
-          "name": "Anna Bates",
-          "url": "https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx"
-        }
-      ],
-      "duration_ms": 152971,
-      "name": "Rare Disease",
-      "url": "https://open.spotify.com/track/677s1ukItuq66rf0yiQ1Hw"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1179,22 +1179,6 @@
       "duration_ms": 203324,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Andrew",
-        "url": "https://open.spotify.com/album/303DcpyTMUuP6Nv4sopaRv"
-      },
-      "artists": [
-        {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
-        }
-      ],
-      "duration_ms": 240107,
-      "name": "Andrew",
-      "url": "https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1263,6 +1247,22 @@
       "duration_ms": 244773,
       "name": "Burial Ground",
       "url": "https://open.spotify.com/track/1DGBNjWsXgKZqFlYBa0gIw"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Mantras",
+        "url": "https://open.spotify.com/album/6gmHatBTdcFoIujxwHuZir"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 232263,
+      "name": "Self Sabotage",
+      "url": "https://open.spotify.com/track/1a9YC2FLdQSfqNU9ebIJIw"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

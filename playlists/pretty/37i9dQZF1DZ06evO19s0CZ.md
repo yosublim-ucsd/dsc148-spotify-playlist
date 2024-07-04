@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 
 ### [This Is The Rolling Stones](https://open.spotify.com/playlist/37i9dQZF1DZ06evO19s0CZ)
 
-> This Is The Rolling Stones\. Los temas esenciales, todos en una lista.
+> This is The Rolling Stones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,025,904 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,026,078 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 | 49 | [Sway \- 2009 Mix](https://open.spotify.com/track/1ZS5HBMAmZk3gjFcedts66) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:52 |
 | 50 | [Country Honk](https://open.spotify.com/track/6zD3VBPn2VNDdmLEg0coPt) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 3:07 |
 
-Snapshot ID: `ZoHxgAAAAAAvbjQBPZQI5XYzjdeD90bs`
+Snapshot ID: `ZoNDAAAAAAAnAv+yAxziqo7lmfGmmHBp`

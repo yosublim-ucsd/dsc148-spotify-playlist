@@ -4,7 +4,7 @@
 
 > Here are the most streamed songs and artists on the PS4 &amp; PS5 in 2024, 2023, and beyond.
 
-369 songs - 20 hr 12 min
+370 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-11-17 |  |
 | [Hit](https://open.spotify.com/track/7aZrmPqodHy4qlKeyjAgDQ) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Hit](https://open.spotify.com/album/03ckoZhTfbWybngUkIHqWv) | 2:05 | 2022-01-21 |  |
 | [HOLIDAY](https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HOLIDAY](https://open.spotify.com/album/4EvukZrmNBiqJbs3LwOSHu) | 2:34 | 2020-12-18 |  |
+| [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-07-03 |  |
 | [I Admit \(feat\. Nicki Minaj\)](https://open.spotify.com/track/7d60THs9nBNnlDg1hksDnJ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Ma’ I Got A Family \(A Gangsta Grillz Special Edition Hosted by DJ Drama\)](https://open.spotify.com/album/03uqzSo0gE0j2kXooydtMh) | 3:27 | 2022-11-03 |  |
 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 | 2022-11-03 |  |
 | [I DID IT \(feat\. Post Malone, Megan Thee Stallion, Lil Baby & DaBaby\)](https://open.spotify.com/track/20GrahbI4AzAOWxpYfDKkf) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 2:45 | 2021-07-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 
 > pura morra rifada\. RPLK en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,002 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,007 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 73 | [tu liga del pelo](https://open.spotify.com/track/3tX4hFG4uCVgGVUWdZzK5z) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [tu liga del pelo](https://open.spotify.com/album/33UOUfdOGdD3BJgU5u4NaD) | 3:36 |
 | 74 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 |
 | 75 | [Astros Prohibidos](https://open.spotify.com/track/6RjsCyrZ1HH5T9I2Tn5NBt) | [CoolestAndie](https://open.spotify.com/artist/2TBvQNXLncWIE3ZcuRHSUr), [Andie Gago](https://open.spotify.com/artist/2R5LEUDIhf0yxB5hQtXacJ) | [Astros Prohibidos](https://open.spotify.com/album/0vldS5AY8rsDiSIbf7eMaD) | 3:14 |
-| 76 | [Dimensión 3000](https://open.spotify.com/track/2fAqFthuQMx8GLYZ7STM7x) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Dimensión 3000](https://open.spotify.com/album/6RpSAyKtW4MorocKI0aV2z) | 3:22 |
-| 77 | [El Cuerpo Que Habito](https://open.spotify.com/track/40CUrSilracUtZTKc7V2mN) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Cumpleaños y Funerales](https://open.spotify.com/album/1SgggMzOYWuLdThadwVPPl) | 3:17 |
+| 76 | [El Cuerpo Que Habito](https://open.spotify.com/track/40CUrSilracUtZTKc7V2mN) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Cumpleaños y Funerales](https://open.spotify.com/album/1SgggMzOYWuLdThadwVPPl) | 3:17 |
+| 77 | [Dimensión 3000](https://open.spotify.com/track/2fAqFthuQMx8GLYZ7STM7x) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Dimensión 3000](https://open.spotify.com/album/6RpSAyKtW4MorocKI0aV2z) | 3:22 |
 | 78 | [Mio Gladiatore](https://open.spotify.com/track/3sx2amfdadccDQLOAx3IIf) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Mio Gladiatore](https://open.spotify.com/album/4OHHVQ4t5fuNtwJGuJSYV3) | 3:18 |
 | 79 | [Paralizado](https://open.spotify.com/track/3hLwTsuqKBakewprxOK1b4) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [me da miedo que escuches esto](https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw) | 3:07 |
 | 80 | [Agujas](https://open.spotify.com/track/3eMnL4Yec1hCJzs8G6sXET) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Agujas](https://open.spotify.com/album/4anUE93QCEG04QAiWDzz8m) | 1:31 |

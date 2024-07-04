@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,110 likes - 226 songs - 13 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,112 likes - 226 songs - 13 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 60 | [Bones](https://open.spotify.com/track/3aAmODvCT7Mf2c94zMOCGN) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [Life](https://open.spotify.com/album/0OwVeTY6EU5CuHNhEhc4kJ) | 4:00 |
 | 61 | [The Heart That I'm Hearing \- EP Version](https://open.spotify.com/track/6oivtl7UDICrq4KeZMCJGS) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Galantis EP](https://open.spotify.com/album/2MhV8VxLYe6jSC6Z14MxfW) | 3:35 |
 | 62 | [Ego Talking](https://open.spotify.com/track/4HaPYfxnpWPoK7AaH1rC0k) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:23 |
-| 63 | [Golden](https://open.spotify.com/track/1NNC8uW0IONRYeJY5Cxkzv) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Carry On](https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH) | 3:06 |
-| 64 | [Good Hurt](https://open.spotify.com/track/5nLQXxJa02HwKsLxE0uM9L) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Hurt](https://open.spotify.com/album/7JLxLmGuLMgyE2jl9JoQM5) | 3:12 |
+| 63 | [Good Hurt](https://open.spotify.com/track/5nLQXxJa02HwKsLxE0uM9L) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Hurt](https://open.spotify.com/album/7JLxLmGuLMgyE2jl9JoQM5) | 3:12 |
+| 64 | [Golden](https://open.spotify.com/track/1NNC8uW0IONRYeJY5Cxkzv) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Carry On](https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH) | 3:06 |
 | 65 | [Got Me Good](https://open.spotify.com/track/7lnstd8OHaElCb7sYaEowv) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Paradise](https://open.spotify.com/album/03Yllu3HFB47OsZBQ7PSFs) | 2:54 |
 | 66 | [evergone](https://open.spotify.com/track/1JZmfbQ2ZpZ2YwnMXe03O9) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:29 |
 | 67 | [Ghost \(feat\. Caitlyn Scarlett\)](https://open.spotify.com/track/5ZIJUowkhcLukruA52sfDI) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [Distinction EP](https://open.spotify.com/album/0xiqgV5gVnjsKVWpBqXyaO) | 3:37 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 85 | [Fake Sugar](https://open.spotify.com/track/1WDVZNals95SINqXbGPHgs) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:29 |
 | 86 | [Long Time Coming](https://open.spotify.com/track/6Asx1JqGcQGEjbmJuhEDdY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 3:24 |
 | 87 | [Here Is Home](https://open.spotify.com/track/0INX6z1BBtUN0mHLTRU0rC) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 4:20 |
-| 88 | [We Could Run](https://open.spotify.com/track/4rL7wJv8tEpt6ND1cFjj0a) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:30 |
-| 89 | [Bad for You](https://open.spotify.com/track/68njXuc0Fj7kzR70Ad0Wav) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [School Nights](https://open.spotify.com/album/44u4QMvReXg0lhHl9xARxu) | 3:52 |
+| 88 | [Bad for You](https://open.spotify.com/track/68njXuc0Fj7kzR70Ad0Wav) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [School Nights](https://open.spotify.com/album/44u4QMvReXg0lhHl9xARxu) | 3:52 |
+| 89 | [We Could Run](https://open.spotify.com/track/4rL7wJv8tEpt6ND1cFjj0a) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:30 |
 | 90 | [Savoir Faire](https://open.spotify.com/track/28ob4ectuSLvn5gkefESsp) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:37 |
 | 91 | [Disintegration \- Memtrix Remix](https://open.spotify.com/track/58rw1aBngMLC7bh6fOZYfO) | [Le Castle Vania](https://open.spotify.com/artist/2KrXlzpSX4wWvJ2555FWLv), [Memtrix](https://open.spotify.com/artist/3bffaBH7akOhsSLsVJcJug) | [Prophication \(Remixes\)](https://open.spotify.com/album/118lzP3BexBAS4HzhwLxtz) | 4:33 |
 | 92 | [10 Seconds](https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [AOA 4th Mini Album Good Luck](https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB) | 3:56 |
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 225 | [Never Love Me](https://open.spotify.com/track/73wdJkuGNi5r5yaxQcbbnx) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:00 |
 | 226 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 
-Snapshot ID: `AbVpYgAAAAD5j3UfB934apgDEXMVai9e`
+Snapshot ID: `AbVvAgAAAADDp7BtP3EOEH2aRWvKsTU4`

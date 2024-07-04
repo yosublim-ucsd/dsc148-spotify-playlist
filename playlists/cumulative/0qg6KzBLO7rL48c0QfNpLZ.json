@@ -4005,6 +4005,24 @@
     },
     {
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/3WJvjcVRXWWoY5a1ZZ9k14"
+      },
+      "artists": [
+        {
+          "name": "Blewbird",
+          "url": "https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138964,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/0O4fJqz7sptID3Q3p4yaeL"
+    },
+    {
+      "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/6BWaWNgLEGTo5URJB4bzO8"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1St9w8DIFsyXLZAnjNUpZ1">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 793 likes - 112 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 792 likes - 112 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 87 | [Full Moon](https://open.spotify.com/track/4nes2cElxP6FFb8LMwKI6a) | [Busby Marou](https://open.spotify.com/artist/4ETXyV9H1p2P1XYgXXTjiO) | [Postcards from the Shell House](https://open.spotify.com/album/7kqk8Kpo0gf5Yzx9fOQuE1) | 3:01 |
 | 88 | [Gentleman](https://open.spotify.com/track/7KoLPLKiPCuiJ1lXzOW7v4) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [The Kick](https://open.spotify.com/album/2IXCvUDkW26YzxCizZ9b6n) | 3:48 |
 | 89 | [Let You Down](https://open.spotify.com/track/3RfCrI6Mmteu7Tp4xGndWd) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:15 |
-| 90 | [Alien](https://open.spotify.com/track/7q9fCrPFy5MdQcDPFbDR85) | [TOMI](https://open.spotify.com/artist/4FUg6Smq0DbieQJyg1AwXz) | [Alien](https://open.spotify.com/album/5Z5AlMnCuoVkL5sEfnSpUL) | 3:21 |
-| 91 | [All American Queen](https://open.spotify.com/track/7oV6XYXTKqVdViwzzoJR70) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 3:40 |
+| 90 | [All American Queen](https://open.spotify.com/track/7oV6XYXTKqVdViwzzoJR70) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 3:40 |
+| 91 | [Alien](https://open.spotify.com/track/7q9fCrPFy5MdQcDPFbDR85) | [TOMI](https://open.spotify.com/artist/4FUg6Smq0DbieQJyg1AwXz) | [Alien](https://open.spotify.com/album/5Z5AlMnCuoVkL5sEfnSpUL) | 3:21 |
 | 92 | [Lanterns](https://open.spotify.com/track/43Zwrtbau8McAXvvxw9Qv2) | [Benny Tipene](https://open.spotify.com/artist/6iGRpCDnRmtqYF0tNjRoKJ) | [Bricks \- Extended Sessions](https://open.spotify.com/album/35StGDg3dq2KgNrpC0LwrK) | 2:50 |
 | 93 | [Hallucinate](https://open.spotify.com/track/1OkWTc4o5N7e78c5lrabPQ) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [Solastalgia](https://open.spotify.com/album/7rwzI6iThLPPhZWL07AgE4) | 3:07 |
 | 94 | [Revolution](https://open.spotify.com/track/1cMkI0yq7RjIjSQA7cqZhQ) | [Lily Donat](https://open.spotify.com/artist/3jRKjQ2Eul9SnJVFfdyTj2) | [I Am Woman \(Original Motion Picture Soundtrack\) \[Inspired by the story of Helen Reddy\]](https://open.spotify.com/album/4Dv1Twt5mHut1IGY3XF6Dq) | 2:51 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 111 | [When I Said Goodbye](https://open.spotify.com/track/5HcxQR3LbA5NCZBCXLs69t) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [When I Said Goodbye](https://open.spotify.com/album/1tViUr4a5jrhG8BW2oM3E2) | 2:38 |
 | 112 | [die!](https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm), [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:13 |
 
-Snapshot ID: `AbVpngAAAABVStrLAQCcQ15Vl8V7LiU9`
+Snapshot ID: `AbVvAgAAAADljsFLX4dKEMMYJ4++pHAa`

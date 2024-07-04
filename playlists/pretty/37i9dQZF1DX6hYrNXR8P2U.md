@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Más música, menos etiquetas\.  <br/>📷 Gauchito Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,497 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,538 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

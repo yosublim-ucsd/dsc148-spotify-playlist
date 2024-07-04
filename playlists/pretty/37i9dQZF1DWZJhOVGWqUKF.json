@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Beatsteaks",
-  "num_followers": 329507,
+  "num_followers": 329517,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Abyss (from Kaiju No. 8)",
+        "url": "https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 123293,
+      "name": "Abyss - from Kaiju No. 8",
+      "url": "https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 190230,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Abyss (from Kaiju No. 8)",
-        "url": "https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 123293,
-      "name": "Abyss - from Kaiju No. 8",
-      "url": "https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -339,18 +339,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Watch The World Burn",
-        "url": "https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE"
+        "name": "I Was Made For Lovin' You (from The Fall Guy)",
+        "url": "https://open.spotify.com/album/1d3yldnlofPfWQHVAybQrZ"
       },
       "artists": [
         {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 203948,
-      "name": "Watch The World Burn",
-      "url": "https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS"
+      "duration_ms": 261519,
+      "name": "I Was Made For Lovin\u2019 You - from The Fall Guy",
+      "url": "https://open.spotify.com/track/55ikcenXPbQdzCnO1sOuYg"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -407,24 +407,8 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "I Was Made For Lovin' You (from The Fall Guy)",
-        "url": "https://open.spotify.com/album/1d3yldnlofPfWQHVAybQrZ"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 261519,
-      "name": "I Was Made For Lovin\u2019 You - from The Fall Guy",
-      "url": "https://open.spotify.com/track/55ikcenXPbQdzCnO1sOuYg"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Voices In My Head",
-        "url": "https://open.spotify.com/album/7r9WVGq5YRQ4eeYUYzmk8b"
+        "name": "Watch The World Burn",
+        "url": "https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE"
       },
       "artists": [
         {
@@ -432,9 +416,9 @@
           "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
         }
       ],
-      "duration_ms": 191414,
-      "name": "Voices In My Head",
-      "url": "https://open.spotify.com/track/5XUuldRjPXcP5QxyEN4IXT"
+      "duration_ms": 203948,
+      "name": "Watch The World Burn",
+      "url": "https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -451,6 +435,22 @@
       "duration_ms": 215530,
       "name": "We Didn\u2019t Start The Fire",
       "url": "https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Make It All Right",
+        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 214053,
+      "name": "Make It All Right",
+      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -507,54 +507,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Make It All Right",
-        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 214053,
-      "name": "Make It All Right",
-      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Feedback",
-        "url": "https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 152963,
-      "name": "Feedback",
-      "url": "https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Next Semester",
-        "url": "https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Next Semester",
-      "url": "https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
       },
@@ -579,6 +531,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Feedback",
+        "url": "https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 152963,
+      "name": "Feedback",
+      "url": "https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "ONE MORE TIME / MORE THAN YOU KNOW",
         "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
       },
@@ -591,6 +559,38 @@
       "duration_ms": 208114,
       "name": "ONE MORE TIME",
       "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/7r9WVGq5YRQ4eeYUYzmk8b"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "duration_ms": 191414,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/5XUuldRjPXcP5QxyEN4IXT"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Next Semester",
+        "url": "https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "Next Semester",
+      "url": "https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -771,18 +771,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Rock N Roller",
-        "url": "https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K"
+        "name": "Fake As Hell (with Avril Lavigne)",
+        "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 223694,
-      "name": "Rock N Roller",
-      "url": "https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7"
+      "duration_ms": 179166,
+      "name": "Fake As Hell (with Avril Lavigne)",
+      "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -819,22 +823,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Fake As Hell (with Avril Lavigne)",
-        "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
+        "name": "Rock N Roller",
+        "url": "https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K"
       },
       "artists": [
         {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 179166,
-      "name": "Fake As Hell (with Avril Lavigne)",
-      "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
+      "duration_ms": 223694,
+      "name": "Rock N Roller",
+      "url": "https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 186831,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Caught It (with Chrissy Costanza & Against The Current)",
         "url": "https://open.spotify.com/album/1Z3anSUKuHtWWhasVAjNQW"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 177000,
       "name": "Caught It",
       "url": "https://open.spotify.com/track/7qTc7bfYZYwFNWSDzNBmHr"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Heaven :x: Hell",
-        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 186831,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Six Feet Under",
+        "url": "https://open.spotify.com/album/1VujeZarJaiO5ZUCI5ed6G"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 178154,
+      "name": "Six Feet Under",
+      "url": "https://open.spotify.com/track/5DYCuzBPf13q0QZwQvjYzi"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Hungry For Life (feat. Chris Daughtry of Daughtry)",
         "url": "https://open.spotify.com/album/6zpeDG4ssHfSC3p9PqUHcv"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 210600,
       "name": "Hungry For Life (feat. Chris Daughtry of Daughtry)",
       "url": "https://open.spotify.com/track/4ddvYUYsefYyjGoajARAJm"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Six Feet Under",
-        "url": "https://open.spotify.com/album/1VujeZarJaiO5ZUCI5ed6G"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 178154,
-      "name": "Six Feet Under",
-      "url": "https://open.spotify.com/track/5DYCuzBPf13q0QZwQvjYzi"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/0k9Q5aNmzrppjIPQJXWk4o"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        },
+        {
+          "name": "LIAMOO",
+          "url": "https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br"
+        }
+      ],
+      "duration_ms": 173831,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/3wKrTUsTyHA0BPzoyOe1kO"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Neck Deep",
         "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 190733,
       "name": "Overcompensate (edit)",
       "url": "https://open.spotify.com/track/7kcApwUclbIw9B6MuVmqPc"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/0k9Q5aNmzrppjIPQJXWk4o"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        },
-        {
-          "name": "LIAMOO",
-          "url": "https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br"
-        }
-      ],
-      "duration_ms": 173831,
-      "name": "Flame",
-      "url": "https://open.spotify.com/track/3wKrTUsTyHA0BPzoyOe1kO"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "MEDZ",
-        "url": "https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 165868,
-      "name": "MEDZ",
-      "url": "https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/7JOgNoDkTHpEaASuOHwLSK"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 300487,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "MEDZ",
+        "url": "https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 165868,
+      "name": "MEDZ",
+      "url": "https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 211720,
-      "name": "Dark Matter",
-      "url": "https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Ghost Code",
         "url": "https://open.spotify.com/album/1hgZ1sL86pnlCmAdyNSdvT"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 184215,
       "name": "AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer)",
       "url": "https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 211720,
+      "name": "Dark Matter",
+      "url": "https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "VERITAS",
-        "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 199067,
-      "name": "I GOT THAT",
-      "url": "https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Glass Half Empty (Part I)",
         "url": "https://open.spotify.com/album/0DGJyFVAhqx3DsnB0eonvA"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 218000,
       "name": "Glass Half Empty",
       "url": "https://open.spotify.com/track/6rCQjBLxanBaAShpnNsmHh"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "VERITAS",
+        "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 199067,
+      "name": "I GOT THAT",
+      "url": "https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "MEDZ",
-        "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 183044,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/2aA7RSPH78lQmKCNxkr2lo"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Wireless",
         "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 281380,
       "name": "Wireless",
       "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "MEDZ",
+        "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 183044,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/2aA7RSPH78lQmKCNxkr2lo"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Nothing To Do",
-        "url": "https://open.spotify.com/album/5YoeeJL0Ks1sYbc79jOBO7"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 175091,
-      "name": "Nothing To Do",
-      "url": "https://open.spotify.com/track/2Eza3ko1jcN2xkm6BkeUM4"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Bad Things",
         "url": "https://open.spotify.com/album/5ynUGkp1zf2gs4Q1ceUhsR"
       },
@@ -1691,6 +1675,58 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "A Fool's Parade",
+        "url": "https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Alex Yarmak",
+          "url": "https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA"
+        }
+      ],
+      "duration_ms": 222128,
+      "name": "A Fool's Parade",
+      "url": "https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Nothing To Do",
+        "url": "https://open.spotify.com/album/5YoeeJL0Ks1sYbc79jOBO7"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 175091,
+      "name": "Nothing To Do",
+      "url": "https://open.spotify.com/track/2Eza3ko1jcN2xkm6BkeUM4"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/1dK86eMRKHfAeN92ZwFaCe"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 236953,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/6s3MpvQ1ulwrTuRhBgv0Eu"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/45tUpXXzTSNp1QZ6Z1ENvX"
       },
@@ -1711,42 +1747,6 @@
       "duration_ms": 218859,
       "name": "Animal",
       "url": "https://open.spotify.com/track/1BO5Y7G9ukdTRVw1ER0HuC"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Wish It On You (with AViVA)",
-        "url": "https://open.spotify.com/album/3LqyfZlkmSjxgdBLqQrpZS"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        },
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Wish It On You (with AViVA)",
-      "url": "https://open.spotify.com/track/7EEYYb0EbA7EcAL2c9NZXe"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Psycho",
-        "url": "https://open.spotify.com/album/1dK86eMRKHfAeN92ZwFaCe"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 236953,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/6s3MpvQ1ulwrTuRhBgv0Eu"
     }
   ],
   "unique_name": "Rock Rotation",

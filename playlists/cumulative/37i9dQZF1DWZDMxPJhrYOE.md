@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-79 songs - 4 hr 4 min
+80 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Giv Mig Alt](https://open.spotify.com/track/6ypcV9TndUTwq9jgWxXk5d) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Giv Mig Alt](https://open.spotify.com/album/2kVPrELUEIEODDcCVkXjlU) | 3:22 | 2024-07-01 |  |
 | [god dag](https://open.spotify.com/track/2AfkO7eCM0UvVAXpVQWNBi) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [god dag](https://open.spotify.com/album/1ZFQUiw6YJvasou0MrkJck) | 3:04 | 2024-07-01 |  |
 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-07-01 |  |
-| [Hero](https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Hero](https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY) | 3:26 | 2024-07-01 |  |
+| [Hero](https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Hero](https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY) | 3:26 | 2024-07-01 | 2024-07-04 |
 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-07-01 |  |
 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:30 | 2024-07-01 |  |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2024-07-01 |  |
@@ -51,6 +51,7 @@
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-07-01 |  |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-07-01 |  |
 | [In My Bones](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [In My Bones](https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB) | 2:36 | 2024-07-01 |  |
+| [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 | 2024-07-01 |  |
 | [Lighter](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Lighter](https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7) | 2:52 | 2024-07-01 |  |
 | [Lioness](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Lioness](https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u) | 2:52 | 2024-07-01 |  |
 | [Look Who's Laughing Now](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Look Who's Laughing Now](https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3) | 2:54 | 2024-07-01 |  |

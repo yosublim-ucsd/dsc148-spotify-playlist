@@ -1,6 +1,6 @@
 {
   "description": "alt, folk, and indie rock sprinkled into this sonic melting pot. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 628707,
+  "num_followers": 628686,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "You're So Impatient",
-        "url": "https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 128880,
-      "name": "You're So Impatient",
-      "url": "https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Lonely Cowboy",
-        "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
+        "name": "You're So Impatient",
+        "url": "https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
         }
       ],
-      "duration_ms": 203235,
-      "name": "Lonely Cowboy - Radio Edit",
-      "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
+      "duration_ms": 128880,
+      "name": "You're So Impatient",
+      "url": "https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -935,34 +919,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae"
+        "name": "Lonely Cowboy",
+        "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
       },
       "artists": [
         {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 193425,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Waiting to Spill",
-        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
-      },
-      "artists": [
-        {
-          "name": "The Backseat Lovers",
-          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Growing/Dying",
-      "url": "https://open.spotify.com/track/5zMxLq47V3Gr0LlFvxiFXS"
+      "duration_ms": 203235,
+      "name": "Lonely Cowboy - Radio Edit",
+      "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -983,6 +951,38 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Waiting to Spill",
+        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Growing/Dying",
+      "url": "https://open.spotify.com/track/5zMxLq47V3Gr0LlFvxiFXS"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 193425,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 280130,
       "name": "King",
       "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
+    },
+    {
+      "added_at": "2024-07-01 16:53:13",
+      "album": {
+        "name": "Midas",
+        "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 138506,
+      "name": "Midas",
+      "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1029,20 +1045,20 @@
       "url": "https://open.spotify.com/track/5LgguaX9k42ruNIHNZA6Re"
     },
     {
-      "added_at": "2024-07-01 16:53:13",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Midas",
-        "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
+        "name": "She's Leaving You",
+        "url": "https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp"
       },
       "artists": [
         {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
         }
       ],
-      "duration_ms": 138506,
-      "name": "Midas",
-      "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
+      "duration_ms": 278226,
+      "name": "She's Leaving You",
+      "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1063,38 +1079,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Lonely Cowboy",
-        "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 293971,
-      "name": "Lonely Cowboy",
-      "url": "https://open.spotify.com/track/4b4qenweAK0E90SiuUtrLy"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "She's Leaving You",
-        "url": "https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp"
-      },
-      "artists": [
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 278226,
-      "name": "She's Leaving You",
-      "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Omnium Gatherum",
         "url": "https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 364599,
       "name": "Magenta Mountain",
       "url": "https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Lonely Cowboy",
+        "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 293971,
+      "name": "Lonely Cowboy",
+      "url": "https://open.spotify.com/track/4b4qenweAK0E90SiuUtrLy"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Dance With a Stranger",
-        "url": "https://open.spotify.com/album/10OHYPihPROssNNZb5Q48F"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 215031,
-      "name": "Dance With a Stranger",
-      "url": "https://open.spotify.com/track/2MWnv5lcdlzpmdziHLrx0Y"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "The Way",
         "url": "https://open.spotify.com/album/3js2aCcAc96FwVGfTLoL8i"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 202387,
       "name": "Bad Luck",
       "url": "https://open.spotify.com/track/1Ln6nNE0NKKCEmxSkBNGsT"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Dance With a Stranger",
+        "url": "https://open.spotify.com/album/10OHYPihPROssNNZb5Q48F"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 215031,
+      "name": "Dance With a Stranger",
+      "url": "https://open.spotify.com/track/2MWnv5lcdlzpmdziHLrx0Y"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Mood Swings",
-        "url": "https://open.spotify.com/album/7sVfGWfXF2C97KvHHw3Voa"
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
       },
       "artists": [
         {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
         }
       ],
-      "duration_ms": 263933,
-      "name": "Delilah",
-      "url": "https://open.spotify.com/track/7v4FF3DWuUfRecyXWCgoQY"
+      "duration_ms": 208651,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1627,22 +1627,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "The Color That Suits You",
-        "url": "https://open.spotify.com/album/1oDYS0y3zgIUpcqlrw3XGa"
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/7sVfGWfXF2C97KvHHw3Voa"
       },
       "artists": [
         {
-          "name": "Farmer",
-          "url": "https://open.spotify.com/artist/2ICzoFVUSRPtRIus49gmo8"
-        },
-        {
-          "name": "Dave Matthews",
-          "url": "https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2"
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 293037,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/0SSUhVaTjx4qCM7hF2qzaB"
+      "duration_ms": 263933,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/7v4FF3DWuUfRecyXWCgoQY"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1663,18 +1659,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
+        "name": "The Color That Suits You",
+        "url": "https://open.spotify.com/album/1oDYS0y3zgIUpcqlrw3XGa"
       },
       "artists": [
         {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+          "name": "Farmer",
+          "url": "https://open.spotify.com/artist/2ICzoFVUSRPtRIus49gmo8"
+        },
+        {
+          "name": "Dave Matthews",
+          "url": "https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2"
         }
       ],
-      "duration_ms": 208651,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
+      "duration_ms": 293037,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/0SSUhVaTjx4qCM7hF2qzaB"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Back to Moon Beach",
-        "url": "https://open.spotify.com/album/34ZmHgTZ7OcRCsrTqbHpSQ"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 334754,
-      "name": "Another good year for the roses",
-      "url": "https://open.spotify.com/track/7BQVqJwiQCnbE70DlpJoL5"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "I Am The Lightning",
         "url": "https://open.spotify.com/album/3YOjMrvWQbrTk9TodyU24C"
       },
@@ -1887,6 +1871,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Back to Moon Beach",
+        "url": "https://open.spotify.com/album/34ZmHgTZ7OcRCsrTqbHpSQ"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 334754,
+      "name": "Another good year for the roses",
+      "url": "https://open.spotify.com/track/7BQVqJwiQCnbE70DlpJoL5"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "More Than a Love Song",
         "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
       },
@@ -1899,6 +1899,22 @@
       "duration_ms": 287000,
       "name": "More Than a Love Song",
       "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 164245,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1935,22 +1951,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 164245,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Blood Runs Red",
         "url": "https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw"
       },
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Solitaires",
-        "url": "https://open.spotify.com/album/2rTF4hRIuLqYQHUlJIHTzT"
-      },
-      "artists": [
-        {
-          "name": "Futurebirds",
-          "url": "https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O"
-        }
-      ],
-      "duration_ms": 253624,
-      "name": "Solitaires",
-      "url": "https://open.spotify.com/track/4nTDBs35sLzhB3m9LAcQ05"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Electrophonic Chronic",
         "url": "https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 220533,
       "name": "Eyez",
       "url": "https://open.spotify.com/track/4gP55KOAwtv0qGuKq4YjLA"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Solitaires",
+        "url": "https://open.spotify.com/album/2rTF4hRIuLqYQHUlJIHTzT"
+      },
+      "artists": [
+        {
+          "name": "Futurebirds",
+          "url": "https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O"
+        }
+      ],
+      "duration_ms": 253624,
+      "name": "Solitaires",
+      "url": "https://open.spotify.com/track/4nTDBs35sLzhB3m9LAcQ05"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2115,6 +2115,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/2xpbE9vaLpfQLryVl39SPz"
+      },
+      "artists": [
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        }
+      ],
+      "duration_ms": 182419,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/24xBL7ddkkVxbaWmkdYF0w"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Jump for Joy",
         "url": "https://open.spotify.com/album/7lYiPw3WutdJKdKdpPFD1s"
       },
@@ -2143,22 +2159,6 @@
       "duration_ms": 185317,
       "name": "Stay Out Of It",
       "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Believer",
-        "url": "https://open.spotify.com/album/2xpbE9vaLpfQLryVl39SPz"
-      },
-      "artists": [
-        {
-          "name": "Liam St. John",
-          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
-        }
-      ],
-      "duration_ms": 182419,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/24xBL7ddkkVxbaWmkdYF0w"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Two Things at Once",
-        "url": "https://open.spotify.com/album/4K3fG6A3UzqivRCPtRNaKl"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 173074,
-      "name": "Tough Season",
-      "url": "https://open.spotify.com/track/78bqL0hABVqTi0ju2JWBVK"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Sea Star",
         "url": "https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 207786,
       "name": "Sea Star",
       "url": "https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Two Things at Once",
+        "url": "https://open.spotify.com/album/4K3fG6A3UzqivRCPtRNaKl"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "duration_ms": 173074,
+      "name": "Tough Season",
+      "url": "https://open.spotify.com/track/78bqL0hABVqTi0ju2JWBVK"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Mercy Mercy",
-        "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
-      },
-      "artists": [
-        {
-          "name": "The Glorious Sons",
-          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Mercy Mercy",
-      "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "We Were Never Alive",
         "url": "https://open.spotify.com/album/7aWa7BJ3QPhGbXhYonhW2U"
       },
@@ -2307,6 +2291,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Mercy Mercy",
+        "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
+      },
+      "artists": [
+        {
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Mercy Mercy",
+      "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Talk to Me",
         "url": "https://open.spotify.com/album/6a0hKzzXU9yfULzFLnASm7"
       },
@@ -2319,6 +2319,22 @@
       "duration_ms": 242576,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/51cFoZgKkZJhQa9iHy0EcD"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Knockoff Elvis",
+        "url": "https://open.spotify.com/album/0BIsuDyAXmFwhDFX0rWGw7"
+      },
+      "artists": [
+        {
+          "name": "Young Rising Sons",
+          "url": "https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV"
+        }
+      ],
+      "duration_ms": 174111,
+      "name": "Knockoff Elvis",
+      "url": "https://open.spotify.com/track/24W9i3Wa8ZpST4CTg292qi"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2351,22 +2367,6 @@
       "duration_ms": 333280,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/6KPjAsDsH425JhWiHAWHOK"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Knockoff Elvis",
-        "url": "https://open.spotify.com/album/0BIsuDyAXmFwhDFX0rWGw7"
-      },
-      "artists": [
-        {
-          "name": "Young Rising Sons",
-          "url": "https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV"
-        }
-      ],
-      "duration_ms": 174111,
-      "name": "Knockoff Elvis",
-      "url": "https://open.spotify.com/track/24W9i3Wa8ZpST4CTg292qi"
     },
     {
       "added_at": "2024-06-28 04:00:00",

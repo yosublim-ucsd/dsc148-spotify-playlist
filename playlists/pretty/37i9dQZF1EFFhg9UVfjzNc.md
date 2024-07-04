@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 803 likes - 80 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 802 likes - 80 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 57 | [Nada Mais Satisfaz](https://open.spotify.com/track/2M1KGKpjeIX9EberJruunh) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 7:54 |
 | 58 | [Que O Incenso Suba](https://open.spotify.com/track/21VLSQJOf5L8isar8COPbv) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 5:18 |
 | 59 | [Vem Me Consumir \- Acústico](https://open.spotify.com/track/2YXga0CJMlsp4edq1Iyf7j) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh) | [Vem Me Consumir \(Acústico\)](https://open.spotify.com/album/5dBGkhxeuUFRkBA1aejjfr) | 4:38 |
-| 60 | [Coroas \- Ao Vivo](https://open.spotify.com/track/1fPaa1ApH0JEDgxpmgOOGl) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Noite de Adoração II \(Ao Vivo\)](https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp) | 10:05 |
-| 61 | [Alegria / Sou Feliz \- Ao Vivo](https://open.spotify.com/track/6T2z10MblimUkS2tjzYOdz) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Alegria / Sou Feliz \(Ao Vivo\)](https://open.spotify.com/album/1Ry58rPrrFXc4EjYhLzyZW) | 8:22 |
+| 60 | [Alegria / Sou Feliz \- Ao Vivo](https://open.spotify.com/track/6T2z10MblimUkS2tjzYOdz) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Alegria / Sou Feliz \(Ao Vivo\)](https://open.spotify.com/album/1Ry58rPrrFXc4EjYhLzyZW) | 8:22 |
+| 61 | [Coroas \- Ao Vivo](https://open.spotify.com/track/1fPaa1ApH0JEDgxpmgOOGl) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Noite de Adoração II \(Ao Vivo\)](https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp) | 10:05 |
 | 62 | [Novo Dia \- Ao Vivo](https://open.spotify.com/track/0KCIqEY6WqxzWL9xL7tifJ) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Sobre Coisas Espirituais \(Ao Vivo\)](https://open.spotify.com/album/3B2gYZnNtRRXa4Lr9pAgMX) | 5:04 |
 | 63 | [Minha Canção \- Ao Vivo](https://open.spotify.com/track/3bFmokoHKRZkGyRfDKXxsp) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Minha Canção \(Ao Vivo\)](https://open.spotify.com/album/3ODJ6TFqGPeNNY3MEoVjT4) | 5:02 |
 | 64 | [Jesus \- English Version](https://open.spotify.com/track/0bBHh0MuQgH5dCIy4FP2OC) | [Bianca Azevedo](https://open.spotify.com/artist/69rTWdhFy8ISfufMZI9qd1) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/5GKD4VAYNOg8eQfelgHR4a) | 8:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 79 | [Espontâneo](https://open.spotify.com/track/6kmm2XHqCC0RwFhidwOv8Y) | [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Lugar Secreto • Vol\. 1](https://open.spotify.com/album/5oyeR5JZwaJZdH4yijAyVn) | 19:07 |
 | 80 | [Esperança \(feat\. Davidson Silva\)](https://open.spotify.com/track/1CiCxfOQ10xtiQIaTBDCeQ) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5), [Davidson Silva](https://open.spotify.com/artist/0OdUgZgZEJmXDCkHYqh05z) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 6:29 |
 
-Snapshot ID: `AbVpbAAAAAAsBTOrIwOp9QdpjDuvM9nI`
+Snapshot ID: `AbVvDAAAAADlxzXqvLjw7G5o97G3GYXh`

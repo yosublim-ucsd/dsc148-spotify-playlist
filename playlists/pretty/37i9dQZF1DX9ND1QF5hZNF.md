@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,635 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,667 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

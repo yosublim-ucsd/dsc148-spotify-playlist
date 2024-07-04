@@ -1,12 +1,12 @@
 {
-  "description": "This Is Timaya. Los temas esenciales, todos en una lista.",
-  "num_followers": 6764,
+  "description": "This is Timaya. The essential tracks, all in one playlist.",
+  "num_followers": 6773,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAADeGUI3A8p7XraRtXSZ/LnN",
+  "snapshot_id": "ZoNDAAAAAACtTdlWoYMBFQR8RKItVfdM",
   "tracks": [
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Gra Gra",
-      "url": "https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Story",
         "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
       },
@@ -583,22 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Concur",
-        "url": "https://open.spotify.com/album/1J5Y60QXsJxW7qRyoHlPUg"
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
       },
       "artists": [
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Don Jazzy",
-          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
         }
       ],
-      "duration_ms": 245960,
-      "name": "I Concur",
-      "url": "https://open.spotify.com/track/2rPRTmhTRoYBCataK79gfM"
+      "duration_ms": 203000,
+      "name": "Gra Gra",
+      "url": "https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK"
     },
     {
       "added_at": null,
@@ -619,6 +599,26 @@
       "duration_ms": 213921,
       "name": "Better Than Them",
       "url": "https://open.spotify.com/track/2ISEd8diW26TrrX3S7k3Jl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Concur",
+        "url": "https://open.spotify.com/album/1J5Y60QXsJxW7qRyoHlPUg"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        }
+      ],
+      "duration_ms": 245960,
+      "name": "I Concur",
+      "url": "https://open.spotify.com/track/2rPRTmhTRoYBCataK79gfM"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Story",
-        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 265404,
-      "name": "True Story",
-      "url": "https://open.spotify.com/track/154wqt2t7LYUHFEjjjgfhI"
+      "duration_ms": 186013,
+      "name": "Something Must to Kill a Man",
+      "url": "https://open.spotify.com/track/4Yy4zBe6F5qMFTlRWZOUSq"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 186013,
-      "name": "Something Must to Kill a Man",
-      "url": "https://open.spotify.com/track/4Yy4zBe6F5qMFTlRWZOUSq"
+      "duration_ms": 265404,
+      "name": "True Story",
+      "url": "https://open.spotify.com/track/154wqt2t7LYUHFEjjjgfhI"
     },
     {
       "added_at": null,
@@ -775,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB"
+      },
+      "artists": [
+        {
+          "name": "Tony Frank",
+          "url": "https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 155141,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M.O.N.E.Y",
         "url": "https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt"
       },
@@ -823,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/2QZtpJhtNTNbCq22BoLrIx"
-      },
-      "artists": [
-        {
-          "name": "Yaba Buluku Boyz",
-          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 280841,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/6zMqOooNZpUf4397XCgWfF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Givin Dem",
         "url": "https://open.spotify.com/album/4vQbd0xwxmhE1zlIm1Gr7x"
       },
@@ -867,22 +867,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Erima",
-        "url": "https://open.spotify.com/album/0CwSh6QbgD9EQIwtRB19bJ"
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/2QZtpJhtNTNbCq22BoLrIx"
       },
       "artists": [
         {
-          "name": "KCee",
-          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+          "name": "Yaba Buluku Boyz",
+          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
         },
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 210612,
-      "name": "Erima",
-      "url": "https://open.spotify.com/track/0FP8sMKAMM6YPhI87sOswq"
+      "duration_ms": 280841,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/6zMqOooNZpUf4397XCgWfF"
     },
     {
       "added_at": null,
@@ -907,6 +907,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Erima",
+        "url": "https://open.spotify.com/album/0CwSh6QbgD9EQIwtRB19bJ"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 210612,
+      "name": "Erima",
+      "url": "https://open.spotify.com/track/0FP8sMKAMM6YPhI87sOswq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Epiphany",
         "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 187560,
       "name": "Gbagam",
       "url": "https://open.spotify.com/track/5ABuekPHIQEbkKiIe5o6Nx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Stress",
-        "url": "https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB"
-      },
-      "artists": [
-        {
-          "name": "Tony Frank",
-          "url": "https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 155141,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC"
     },
     {
       "added_at": null,

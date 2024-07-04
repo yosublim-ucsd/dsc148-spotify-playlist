@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: Daniel, Me Estás Matando
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,276 likes - 65 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,319 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 17 | [Somos Novios](https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Trio Los Panchos](https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:00 |
 | 18 | [Dulcito e Coco](https://open.spotify.com/track/7Li9u5C7CNLvqOqhrhZEML) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:09 |
 | 19 | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q) | 2:58 |
-| 20 | [Hace Tiempo](https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 4:12 |
-| 21 | [Borracha De Amor](https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Borracha De Amor](https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ) | 3:39 |
+| 20 | [Borracha De Amor](https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Borracha De Amor](https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ) | 3:39 |
+| 21 | [Hace Tiempo](https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 4:12 |
 | 22 | [Te Mata](https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Te Mata](https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z) | 3:52 |
 | 23 | [Sólo Tú](https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Sólo Tú](https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob) | 3:07 |
 | 24 | [Costa Rica](https://open.spotify.com/track/6fodcUvAswFV8Az3Imd5F5) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Camas Separadas](https://open.spotify.com/album/7n2Jn4FFREegsVpFlVpbp3) | 3:38 |
@@ -59,19 +59,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 49 | [Desahogo](https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Desahogo](https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9) | 4:20 |
 | 50 | [Cómplices](https://open.spotify.com/track/0ja9BfD4zrXznqkTKfz0Te) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Cómplices](https://open.spotify.com/album/7tZbJdirOvGF5BwjrcD4BQ) | 3:03 |
 | 51 | [Carmines](https://open.spotify.com/track/4o2GBzQUdB1JxtPugYW2gx) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL), [Aquiles Moon](https://open.spotify.com/artist/1UejGxMb9Ad1LkvLbphlq4) | [Carmines](https://open.spotify.com/album/57Tm8zyEIX34uoq4Q62jOz) | 3:22 |
-| 52 | [Diablo](https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6) | [MIA](https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq) | [Diablo](https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP) | 3:11 |
-| 53 | [Viejitos](https://open.spotify.com/track/2Zcpghuzu8wX8C9KVbnkun) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Viejitos](https://open.spotify.com/album/7DZ4iMQMjZ1aQORiKD56Xv) | 3:45 |
+| 52 | [Viejitos](https://open.spotify.com/track/2Zcpghuzu8wX8C9KVbnkun) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Viejitos](https://open.spotify.com/album/7DZ4iMQMjZ1aQORiKD56Xv) | 3:45 |
+| 53 | [Diablo](https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6) | [MIA](https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq) | [Diablo](https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP) | 3:11 |
 | 54 | [Bohemio](https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Bohemio](https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn) | 3:28 |
-| 55 | [Ojos de Serpiente](https://open.spotify.com/track/4SutBECg5t8YqY1hz8SbwX) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Ojos de Serpiente](https://open.spotify.com/album/2aGMr5JwOn5wMRFn4wWSwt) | 2:51 |
-| 56 | [Amor En Cuarentena](https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Amor En Cuarentena](https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW) | 2:45 |
-| 57 | [No te vayas](https://open.spotify.com/track/4BeuEYAmkJHx14QvWiJ5x0) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [No te vayas](https://open.spotify.com/album/6Ddl1sX7bbBSNzdY5fVk6D) | 3:25 |
-| 58 | [¿Quién Se Va?](https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [¿Quién Se Va?](https://open.spotify.com/album/6A0s3zsUdYyn4kdeFpTsed) | 3:07 |
-| 59 | [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 |
+| 55 | [No te vayas](https://open.spotify.com/track/4BeuEYAmkJHx14QvWiJ5x0) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [No te vayas](https://open.spotify.com/album/6Ddl1sX7bbBSNzdY5fVk6D) | 3:25 |
+| 56 | [Ojos de Serpiente](https://open.spotify.com/track/4SutBECg5t8YqY1hz8SbwX) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Ojos de Serpiente](https://open.spotify.com/album/2aGMr5JwOn5wMRFn4wWSwt) | 2:51 |
+| 57 | [Amor En Cuarentena](https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Amor En Cuarentena](https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW) | 2:45 |
+| 58 | [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 |
+| 59 | [¿Quién Se Va?](https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [¿Quién Se Va?](https://open.spotify.com/album/6A0s3zsUdYyn4kdeFpTsed) | 3:07 |
 | 60 | [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 |
 | 61 | [Tu Camisa](https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Shantty](https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd) | [Tu Camisa](https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV) | 3:08 |
 | 62 | [En las Noches](https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [En las Noches](https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e) | 3:59 |
 | 63 | [Tengo Algo Que Decirte](https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Tengo Algo Que Decirte](https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A) | 3:26 |
 | 64 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
-| 65 | [Prométeme](https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:09 |
+| 65 | [Déjame Conocerte](https://open.spotify.com/track/5byHDzYX6NHjrHKUdkDkdR) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Déjame Conocerte](https://open.spotify.com/album/7mDCxExLcisLwsERIJMvPP) | 4:39 |
 
 Snapshot ID: `Zn41QAAAAAAuuR+ZWPZvyhV8Vl+/eI+U`

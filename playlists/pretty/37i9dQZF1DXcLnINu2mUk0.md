@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Richie Campbell, Van Zee
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,211 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,220 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 21 | [Impec](https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Deepak Looper](https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf) | 3:13 |
 | 22 | [Por Enquanto](https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Por Enquanto](https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n) | 2:22 |
 | 23 | [Ultimamente](https://open.spotify.com/track/2OXcFFTAhcpElg1ZMAqLB7) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Afro Fado](https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI) | 3:42 |
-| 24 | [ROSAS](https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [ROSAS](https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E) | 2:57 |
-| 25 | [Solteiros](https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Solteiros](https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md) | 2:59 |
-| 26 | [I'm Sorry](https://open.spotify.com/track/3aml52yDe6ff32XOgZQ0Cb) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [I'm Sorry](https://open.spotify.com/album/6xbIjf6sv5M4I9GT0NuEcj) | 3:22 |
+| 24 | [I'm Sorry](https://open.spotify.com/track/3aml52yDe6ff32XOgZQ0Cb) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [I'm Sorry](https://open.spotify.com/album/6xbIjf6sv5M4I9GT0NuEcj) | 3:22 |
+| 25 | [ROSAS](https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [ROSAS](https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E) | 2:57 |
+| 26 | [Solteiros](https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Solteiros](https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md) | 2:59 |
 | 27 | [Só Dá](https://open.spotify.com/track/3LcKyZ2ks4uoiap6wo0LPc) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:21 |
 | 28 | [Do You No Wrong](https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Lisboa](https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh) | 4:03 |
 | 29 | [CABARET](https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [MDID](https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS) | 2:15 |

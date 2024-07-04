@@ -6,7 +6,7 @@
     "name": "BennyE456",
     "url": "https://open.spotify.com/user/bennyellison4"
   },
-  "snapshot_id": "AAAIgGAXHeaHRyUGk0oHgmmWmFq+k5/3",
+  "snapshot_id": "AAAIgjNDFFWRr6WdD9IJDnQ9bIrp22Us",
   "tracks": [
     {
       "added_at": "2019-06-08 21:56:13",
@@ -16131,6 +16131,38 @@
       "duration_ms": 179320,
       "name": "Lithonia",
       "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
+    },
+    {
+      "added_at": "2024-07-04 00:07:17",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 250546,
+      "name": "Everlong",
+      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
+    },
+    {
+      "added_at": "2024-07-04 00:07:22",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 250906,
+      "name": "Everlong - Acoustic Version",
+      "url": "https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D"
     }
   ],
   "unique_name": "The True Benny Mix",

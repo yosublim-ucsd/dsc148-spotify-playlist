@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Eptos Uno en portada. ",
-  "num_followers": 14319,
+  "num_followers": 14320,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -803,30 +803,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/5CJGLdMZxYbGuPGxcJzjev"
-      },
-      "artists": [
-        {
-          "name": "Teeam Revolver",
-          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Ervin River",
-          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Cicatrices",
-      "url": "https://open.spotify.com/track/1MIJ50wwMXAbnQOtrkU2Cn"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Orgullo Rolo",
         "url": "https://open.spotify.com/album/14FDrpL3A4iOvG3o4W7p9G"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 224426,
       "name": "Orgullo Rolo",
       "url": "https://open.spotify.com/track/43L9Q1jIDLzeaL1J8klKgI"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/5CJGLdMZxYbGuPGxcJzjev"
+      },
+      "artists": [
+        {
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/1MIJ50wwMXAbnQOtrkU2Cn"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "El Sol",
+        "url": "https://open.spotify.com/album/1wpkzV51fjsIlKpTPfx5pl"
+      },
+      "artists": [
+        {
+          "name": "LosPetitFellas",
+          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
+        }
+      ],
+      "duration_ms": 224521,
+      "name": "El Sol",
+      "url": "https://open.spotify.com/track/2qaRS0nH4KHINXl2nMNQFZ"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "Millo",
         "url": "https://open.spotify.com/album/4yQ1Fbc1n8DRCrw2DFyBx1"
       },
@@ -923,38 +939,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "El Sol",
-        "url": "https://open.spotify.com/album/1wpkzV51fjsIlKpTPfx5pl"
-      },
-      "artists": [
-        {
-          "name": "LosPetitFellas",
-          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
-        }
-      ],
-      "duration_ms": 224521,
-      "name": "El Sol",
-      "url": "https://open.spotify.com/track/2qaRS0nH4KHINXl2nMNQFZ"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "ODIOSOTORIUS",
-        "url": "https://open.spotify.com/album/1Hbgu9thBNAmynMfZf8XWK"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "ODIOSOTORIUS",
-      "url": "https://open.spotify.com/track/4P4VJcKFfMzTd3cXLkZw3V"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Uh La La",
         "url": "https://open.spotify.com/album/4UgDDoaOgvQXiry2wkWMG9"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 182500,
       "name": "Uh La La",
       "url": "https://open.spotify.com/track/0oR442tmn2hgZ5jYycPKO3"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "ODIOSOTORIUS",
+        "url": "https://open.spotify.com/album/1Hbgu9thBNAmynMfZf8XWK"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "ODIOSOTORIUS",
+      "url": "https://open.spotify.com/track/4P4VJcKFfMzTd3cXLkZw3V"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "Constante",
+        "url": "https://open.spotify.com/album/193EIfHuOLnYx7Gf9n2I9x"
+      },
+      "artists": [
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Constante",
+      "url": "https://open.spotify.com/track/150sQBgNOXOYZkMHuDQ0xW"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "FAMOSA",
         "url": "https://open.spotify.com/album/3vcZDhuDxPGtUNIutctO9Q"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 147158,
       "name": "KEEP IT STUPID",
       "url": "https://open.spotify.com/track/5FsUKOjDDeQ0vEc5dn77AY"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "Constante",
-        "url": "https://open.spotify.com/album/193EIfHuOLnYx7Gf9n2I9x"
-      },
-      "artists": [
-        {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Constante",
-      "url": "https://open.spotify.com/track/150sQBgNOXOYZkMHuDQ0xW"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "DUCATI",
+        "url": "https://open.spotify.com/album/4jpRKdLZe85C7kL2wJZaf3"
+      },
+      "artists": [
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        }
+      ],
+      "duration_ms": 156683,
+      "name": "DUCATI",
+      "url": "https://open.spotify.com/track/1u0OLzzryuk3A80sQVhevv"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/3g278nbiWZi8eHx5iRAxlD"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 285333,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/5JVkOvgb7pvRyIn6bwMxfH"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "DUCATI",
-        "url": "https://open.spotify.com/album/4jpRKdLZe85C7kL2wJZaf3"
-      },
-      "artists": [
-        {
-          "name": "Sipo One",
-          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
-        }
-      ],
-      "duration_ms": 156683,
-      "name": "DUCATI",
-      "url": "https://open.spotify.com/track/1u0OLzzryuk3A80sQVhevv"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "F\u00e9 De M\u00e1s",
+        "url": "https://open.spotify.com/album/4HkoruhVfuBqZB7k0w7dgx"
+      },
+      "artists": [
+        {
+          "name": "La Potter",
+          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
+        },
+        {
+          "name": "D\u00edmelo Seven",
+          "url": "https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW"
+        }
+      ],
+      "duration_ms": 140930,
+      "name": "F\u00e9 De M\u00e1s",
+      "url": "https://open.spotify.com/track/23fBJOOeJXnc1URyRjDLju"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "\"REC a LIL\"",
         "url": "https://open.spotify.com/album/3lA4UmbKGYcMHxXPUFQLNx"
       },
@@ -1455,26 +1475,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "F\u00e9 De M\u00e1s",
-        "url": "https://open.spotify.com/album/4HkoruhVfuBqZB7k0w7dgx"
-      },
-      "artists": [
-        {
-          "name": "La Potter",
-          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
-        },
-        {
-          "name": "D\u00edmelo Seven",
-          "url": "https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW"
-        }
-      ],
-      "duration_ms": 140930,
-      "name": "F\u00e9 De M\u00e1s",
-      "url": "https://open.spotify.com/track/23fBJOOeJXnc1URyRjDLju"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Ol\u00e9",
         "url": "https://open.spotify.com/album/4burORupgjRcxfrI56pZiS"
       },
@@ -1487,26 +1487,6 @@
       "duration_ms": 163910,
       "name": "Ol\u00e9",
       "url": "https://open.spotify.com/track/6AAGQWXAB7MQhbZBsvfJEh"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "Tiempo y Espacio",
-        "url": "https://open.spotify.com/album/26wbg3gjneYtT9Efmichn7"
-      },
-      "artists": [
-        {
-          "name": "Soul AM",
-          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
-        },
-        {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
-        }
-      ],
-      "duration_ms": 177756,
-      "name": "Tiempo y Espacio",
-      "url": "https://open.spotify.com/track/0nKGAf7pfSNmgI0d7gtNI1"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1527,6 +1507,26 @@
       "duration_ms": 189486,
       "name": "Tasmania",
       "url": "https://open.spotify.com/track/3jWwj6JjV0eugSmGBBLCPL"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Tiempo y Espacio",
+        "url": "https://open.spotify.com/album/26wbg3gjneYtT9Efmichn7"
+      },
+      "artists": [
+        {
+          "name": "Soul AM",
+          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
+        },
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        }
+      ],
+      "duration_ms": 177756,
+      "name": "Tiempo y Espacio",
+      "url": "https://open.spotify.com/track/0nKGAf7pfSNmgI0d7gtNI1"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Easy To Hate",
-        "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
-      },
-      "artists": [
-        {
-          "name": "Fntxy",
-          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Lounge",
-      "url": "https://open.spotify.com/track/0JKhjlnxU2YFkwBW3YSWSv"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "De La Mata",
         "url": "https://open.spotify.com/album/1bNUKMiUZNA0r4JUVcRjz0"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 160853,
       "name": "De La Mata",
       "url": "https://open.spotify.com/track/2iF8BmUy05E9iHRgRuCak9"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Easy To Hate",
+        "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
+      },
+      "artists": [
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Lounge",
+      "url": "https://open.spotify.com/track/0JKhjlnxU2YFkwBW3YSWSv"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/4gajuf08d8JcGjWuroGCTb"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 283909,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/3gwBWDL8qR3Vz4rUbj7RAK"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Peleando para Mantenerlo",
         "url": "https://open.spotify.com/album/3oLkCmmZpqjQVj2TrTQ18P"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 252700,
       "name": "Solo",
       "url": "https://open.spotify.com/track/2XzNjpgWCx4Jd7DgfXOanj"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/4gajuf08d8JcGjWuroGCTb"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 283909,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/3gwBWDL8qR3Vz4rUbj7RAK"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "Qu\u00e9mele",
+        "url": "https://open.spotify.com/album/6kIMIdFssq2DDjCAgK38sY"
+      },
+      "artists": [
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        }
+      ],
+      "duration_ms": 122553,
+      "name": "Qu\u00e9mele",
+      "url": "https://open.spotify.com/track/0aPwGpjIaaZsPiUglNVAuN"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "Linda como siempre",
         "url": "https://open.spotify.com/album/6ZW8e7vagrNeqwiFcli0CX"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 191977,
       "name": "Linda como siempre",
       "url": "https://open.spotify.com/track/2LhSnFBianHUfisgAgUMh7"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "Qu\u00e9mele",
-        "url": "https://open.spotify.com/album/6kIMIdFssq2DDjCAgK38sY"
-      },
-      "artists": [
-        {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
-        }
-      ],
-      "duration_ms": 122553,
-      "name": "Qu\u00e9mele",
-      "url": "https://open.spotify.com/track/0aPwGpjIaaZsPiUglNVAuN"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1979,6 +1979,26 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "PERO NAH!",
+        "url": "https://open.spotify.com/album/6cTAjRwKXVfrHvFGFGHlHk"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        },
+        {
+          "name": "MARI",
+          "url": "https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU"
+        }
+      ],
+      "duration_ms": 129375,
+      "name": "PERO NAH!",
+      "url": "https://open.spotify.com/track/1XGfXlXEggYgLHPFQIT1Aq"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "Ya Te Solt\u00e9",
         "url": "https://open.spotify.com/album/6pmMIRI9bFpkCWmjLhnM6g"
       },
@@ -2003,26 +2023,6 @@
       "duration_ms": 229395,
       "name": "Ya Te Solt\u00e9",
       "url": "https://open.spotify.com/track/40cHXCflLI04RYm5WFbvLR"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "PERO NAH!",
-        "url": "https://open.spotify.com/album/6cTAjRwKXVfrHvFGFGHlHk"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        },
-        {
-          "name": "MARI",
-          "url": "https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU"
-        }
-      ],
-      "duration_ms": 129375,
-      "name": "PERO NAH!",
-      "url": "https://open.spotify.com/track/1XGfXlXEggYgLHPFQIT1Aq"
     },
     {
       "added_at": "2024-06-28 06:00:00",

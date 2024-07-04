@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 
 > < insert emo glitter gif here >
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,950 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,956 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 21 | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX) | 3:46 |
 | 22 | [Only One](https://open.spotify.com/track/0gZp88SA5OcujHLDGkxtI3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 4:17 |
 | 23 | [Tears Don't Fall](https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 5:48 |
-| 24 | [The Taste of Ink](https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:28 |
-| 25 | [All I Wanted](https://open.spotify.com/track/4BbXg5wQqVNPbVEGpjsVnv) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r) | 3:45 |
+| 24 | [All I Wanted](https://open.spotify.com/track/4BbXg5wQqVNPbVEGpjsVnv) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r) | 3:45 |
+| 25 | [The Taste of Ink](https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:28 |
 | 26 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 |
 | 27 | [Grand Theft Autumn / Where Is Your Boy](https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:11 |
 | 28 | [Love Drunk](https://open.spotify.com/track/20X9OeC606XNwEtDBOym5u) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Love Drunk](https://open.spotify.com/album/7DphDayDRJ1NtRmveflFWD) | 3:46 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 77 | [Chelsea Smile](https://open.spotify.com/track/2C5jGbR23YLonV7Lton6fV) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Suicide Season](https://open.spotify.com/album/6bdSj3D5soQXZqlxSn5ZQr) | 5:02 |
 | 78 | [Cutthroat](https://open.spotify.com/track/4mcDGYrrPukWNhO44w4EUr) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Hard Feelings](https://open.spotify.com/album/4ynBCBfxMK2COzPTJ8kma9) | 3:18 |
 | 79 | [Dear Maria, Count Me In](https://open.spotify.com/track/0J69x3mqm7U6tBPKsjpsWR) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/7GcuimRczCCOblhJr0NgzD) | 3:02 |
-| 80 | [Liar \(It Takes One To Know One\)](https://open.spotify.com/track/6dzykD5EsopHarVtIrTE1J) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/5yOQu7Ykcb7rlH6zt5jvL8) | 3:11 |
+| 80 | [Swing, Swing](https://open.spotify.com/track/4jVhSbMMHctghoOTFuLPB2) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [The All\-American Rejects](https://open.spotify.com/album/6sPphURA5x4AkQXudmstAi) | 3:53 |
 
 Snapshot ID: `ZTMEBgAAAAA7uwbEWXZ52+5Lqi3EdEnQ`

@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Enjoy trendy & chill Korean R&B music\. \(Cover: BIG Naughty, MARK\(서동현, 마크\)\)
+> Enjoy trendy & chill Korean R&B music\. \(Cover: JU\-NE\(구준회\)\)
 
-712 songs - 1 day 14 hr 5 min
+713 songs - 1 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [FALLIN](https://open.spotify.com/track/15q20kLS04KZRAldpmRfHJ) | [ARCX](https://open.spotify.com/artist/7qXcUdvYuSPsnFj6iZO2jm), [Haki](https://open.spotify.com/artist/2Iqe9ySptj3e4bIEsJEC9b) | [FALLIN](https://open.spotify.com/album/6Nl7KoPii9YCqFGtsNRtUf) | 3:31 | 2022-07-04 | 2022-07-15 |
 | [FAME \(feat\. JUNNY\) \- Prod\. GroovyRoom](https://open.spotify.com/track/4LioQ7DultfEM3SZmnX0sw) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 2:23 | 2022-04-22 | 2022-07-12 |
 | [Fantasy](https://open.spotify.com/track/1FUPXTw0698wKHMBElun5B) | [BAYLEE](https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc) | [Fantasy](https://open.spotify.com/album/6QlBmmJZzTUhfTFmRQ8bUS) | 2:48 | 2023-02-14 | 2023-02-25 |
+| [Feel Lost](https://open.spotify.com/track/7KUXzwYL5WsauJxF4730PN) | [JU\-NE](https://open.spotify.com/artist/5tCgO9okyHkBJJxxAYv9uX) | [BRUISE](https://open.spotify.com/album/5M9Jv5GX35zpqMYJ6bxgoG) | 2:40 | 2024-07-03 |  |
 | [Feel this breeze \(with JoeSwan\)](https://open.spotify.com/track/0gKLv0j8udm3xIRDNrkLF8) | [Sunmin](https://open.spotify.com/artist/3tSqvuC6jIIo8rmiurd6ny), [Cho Hyung Woo](https://open.spotify.com/artist/2mJ89mSNpPIw2zX7LS4VEU), [JoeSwan](https://open.spotify.com/artist/6QjcEmJSVAOSR8cqfSaZFt) | [Feel this breeze \(with JoeSwan\)](https://open.spotify.com/album/29BiVBoVV6U8PuoOzFVPHA) | 2:50 | 2022-05-02 | 2022-06-24 |
 | [fever \(Feat\. hartts\)](https://open.spotify.com/track/5fuaSuptBaGhhoxzOZkLR5) | [Lay.bn](https://open.spotify.com/artist/14EH5JWdAUrtWWQSzSwnGR), [hartts](https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv) | [RED](https://open.spotify.com/album/0A1hbLVAbdsZH90EBDfxUi) | 3:43 | 2023-02-15 | 2023-02-21 |
 | [Film \(Feat\. Woshi\)](https://open.spotify.com/track/7apLdgVlb0oNefPZ4v1NOY) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq) | [Film \(Feat\. Woshi\)](https://open.spotify.com/album/42ATmPhbmPJrjLsoUjKEcU) | 3:20 | 2023-01-23 | 2023-02-15 |
@@ -597,7 +598,7 @@
 | [Sugarcoat \(NATTY Solo\)](https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS OF LIFE](https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG) | 2:59 | 2023-08-22 |  |
 | [Sugardance](https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Sweeet](https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl) | 2:57 | 2022-08-12 | 2022-08-19 |
 | [Summer In Love](https://open.spotify.com/track/2GWN9DZzufK8Yo1ahtqZIm) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Summer In Love](https://open.spotify.com/album/6TcySjFEFk3pilszcwNwBA) | 3:55 | 2022-06-18 | 2022-07-05 |
-| [Sunkissed \(Feat\. MARK of NCT\)](https://open.spotify.com/track/5fgjRRJwE86CpvnZvR3bM6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Sunkissed](https://open.spotify.com/album/0DLOQV3bGLeLTrEYk1bR81) | 2:39 | 2024-06-26 |  |
+| [Sunkissed \(Feat\. MARK of NCT\)](https://open.spotify.com/track/5fgjRRJwE86CpvnZvR3bM6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Sunkissed](https://open.spotify.com/album/0DLOQV3bGLeLTrEYk1bR81) | 2:39 | 2024-06-26 | 2024-07-04 |
 | [Sunny](https://open.spotify.com/track/1ncOOwpA56YHuulS9xIl62) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Sunny](https://open.spotify.com/album/7GUc2PaCVEcqs1MnWBFav9) | 5:03 | 2022-05-11 | 2022-07-02 |
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-04-19 | 2022-07-29 |
 | [Swear](https://open.spotify.com/track/3Zr7XljDMsjanXYIIjZMXp) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [Swear](https://open.spotify.com/album/3vNYAR6SdAeKcQGgOPTyY2) | 2:57 | 2024-05-30 | 2024-06-27 |

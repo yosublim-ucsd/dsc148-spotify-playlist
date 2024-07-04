@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 
 > The cool sound of West coast Jazz\. Cover: Gerry Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,003 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,017 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 43 | [Sid, Ol' Kid](https://open.spotify.com/track/4ZdUYMQBvQe4o5qiIVGtzI) | [Marty Paich](https://open.spotify.com/artist/69OOiGDvj0o9QQ184tqc9R) | [Take Me Along](https://open.spotify.com/album/24I15RTAgb3NtGfrTilzQI) | 5:04 |
 | 44 | [A Sinner Kissed an Angel](https://open.spotify.com/track/7snDsIyC2wKPrXv7oyI4t5) | [Bud Shank](https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW), [Bill Perkins](https://open.spotify.com/artist/3hszaXRiD1mC582INBUhOL) | [Bud Shank and Bill Perkins](https://open.spotify.com/album/1YexsZvfHo2a91d5wcMDiZ) | 3:20 |
 | 45 | [Pigalle](https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM) | [Buddy Collette](https://open.spotify.com/artist/1ZsOY6yOMW2n8M7mzKuTpR) | [Jazz Loves Paris](https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq) | 2:26 |
-| 46 | [Resonant Emotions](https://open.spotify.com/track/33JJFna9sqjq9XchUHYuaA) | [Chet Baker and Art Pepper](https://open.spotify.com/artist/57Qh2bYGjxFTo0N8qwtKaU) | [Playboys](https://open.spotify.com/album/3o9kITv0ss0JcD1rA3DzIo) | 5:44 |
-| 47 | [Walkin' With Wally \- live](https://open.spotify.com/track/2jrutFIbGBJqT8FdSRisuJ) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Monterey Concerts](https://open.spotify.com/album/1nIZG4Rb0iAzzqo5UgcF2t) | 10:05 |
+| 46 | [Walkin' With Wally \- live](https://open.spotify.com/track/2jrutFIbGBJqT8FdSRisuJ) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Monterey Concerts](https://open.spotify.com/album/1nIZG4Rb0iAzzqo5UgcF2t) | 10:05 |
+| 47 | [Resonant Emotions](https://open.spotify.com/track/33JJFna9sqjq9XchUHYuaA) | [Chet Baker and Art Pepper](https://open.spotify.com/artist/57Qh2bYGjxFTo0N8qwtKaU) | [Playboys](https://open.spotify.com/album/3o9kITv0ss0JcD1rA3DzIo) | 5:44 |
 | 48 | [Nap's Dream \(I Had the Craziest Dream\) \[Remastered\]](https://open.spotify.com/track/5Ky8Al2TGETBozs8xJ6L25) | [Dave Pell Octet](https://open.spotify.com/artist/6fbtge4JEsPumaSPaZtM7x) | [I Had the Craziest Dream \(Remastered\)](https://open.spotify.com/album/1CnSldoLRIMUGSuXSUxdPK) | 5:13 |
 | 49 | [Ahmoore](https://open.spotify.com/track/4lsys7hGDgypUoMZFvi9ke) | [Jack Sheldon](https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj) | [The Quartet and the Quintet](https://open.spotify.com/album/6p27kZ6ymuGGZoXNapHwt9) | 3:15 |
 | 50 | [Swingin' The Blues](https://open.spotify.com/track/316FxiYEDzyHI4OMBuXC8l) | [Shorty Rogers](https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN) | [Shorty Rodgers Courts The Count](https://open.spotify.com/album/79crFBHL0AC42MEgShce76) | 4:22 |

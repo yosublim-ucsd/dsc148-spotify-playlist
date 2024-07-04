@@ -4,7 +4,7 @@
 
 > Necessities from LGBTQIA+ artists\. Cover: I\. JORDAN
 
-100 songs - 5 hr 13 min
+101 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Favourite Girl](https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Favourite Girl](https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh) | 2:36 | 2024-06-10 |  |
 | [Favourite Toy](https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Favourite Toy](https://open.spotify.com/album/6BkAzEqhZ7E9R6QfBJnjha) | 3:01 | 2024-06-10 |  |
 | [Feel My Feelings](https://open.spotify.com/track/0m2PIy7YXNPK44p7LRoFwA) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Matriarchy](https://open.spotify.com/album/3Kh7DCpfbG9rotZBLoNWKK) | 2:44 | 2024-06-10 |  |
+| [Funny](https://open.spotify.com/track/1XTj67GksyndBxsKAZuOxj) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Funny](https://open.spotify.com/album/4chAV9akGm8EPqya4z4QGY) | 2:18 | 2024-06-10 |  |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2024-06-10 |  |
 | [Good Bi](https://open.spotify.com/track/7eCK4VleezcD6KZNE0Adgk) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Good Bi](https://open.spotify.com/album/1yKKiQfzbNXeZi2cowSkPo) | 3:14 | 2024-06-10 |  |
 | [Got Weird](https://open.spotify.com/track/3sTZqO3R6OT1SSScoaL1U6) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Hot Mess](https://open.spotify.com/album/6yvRliUS1i3Dxro7UckrHO) | 3:22 | 2024-06-10 |  |
@@ -95,7 +96,7 @@
 | [She Likes a Boy](https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [She Likes a Boy](https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv) | 2:09 | 2024-06-10 |  |
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2024-06-10 |  |
 | [Shut It Down](https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Shut It Down](https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B) | 2:58 | 2024-06-10 |  |
-| [Socks](https://open.spotify.com/track/69FRVk4lu4N60KiVvtTBb1) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Socks](https://open.spotify.com/album/08QYFEvpcrYZLSTn5yZqEr) | 3:45 | 2024-06-10 |  |
+| [Socks](https://open.spotify.com/track/69FRVk4lu4N60KiVvtTBb1) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Socks](https://open.spotify.com/album/08QYFEvpcrYZLSTn5yZqEr) | 3:45 | 2024-06-10 | 2024-07-04 |
 | [STRAP!](https://open.spotify.com/track/2qkf8hc9iDQPtJrin3CPiN) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [STRAP!](https://open.spotify.com/album/2tWnNwQCgwpDgVwuN9coKs) | 1:58 | 2024-06-10 |  |
 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 | 2024-06-10 |  |
 | [Terrified](https://open.spotify.com/track/5S9opvHpOztqiShDAAusum) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Terrified](https://open.spotify.com/album/4eCNNKkvJK9tXdMPaV8abd) | 3:06 | 2024-06-10 |  |

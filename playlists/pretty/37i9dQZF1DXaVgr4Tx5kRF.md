@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,479 likes - 65 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,527 likes - 65 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 13 | [Road Rage](https://open.spotify.com/track/1A7pz58VR2Lpc19c58QdSo) | [Catatonia](https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv) | [International Velvet](https://open.spotify.com/album/5oORHAxHQggskA01yI3l6a) | 5:08 |
 | 14 | [Crystal](https://open.spotify.com/track/7JvTheiFwSaMFXFEbHnStK) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Get Ready](https://open.spotify.com/album/4HFohweHxrMPrLjW2wkBdn) | 6:50 |
 | 15 | [You Stole the Sun from My Heart](https://open.spotify.com/track/75Ii3Myt6vRsbjzaTbwDQt) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [This Is My Truth Tell Me Yours](https://open.spotify.com/album/3gUL89r4nMGlkjRdfiZfZW) | 4:20 |
-| 16 | [Lucky You](https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Jollification](https://open.spotify.com/album/2aPTNYJ6MjDj7UvIHnJs26) | 4:19 |
+| 16 | [Movin' on Up](https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 3:50 |
 | 17 | [She Bangs the Drums \- Remastered 2009](https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 3:52 |
 | 18 | [The Universal](https://open.spotify.com/track/0qmCWYu7hOvriyuqXfPw7I) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:00 |
-| 19 | [Movin' on Up](https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 3:50 |
+| 19 | [Lucky You](https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Jollification](https://open.spotify.com/album/2aPTNYJ6MjDj7UvIHnJs26) | 4:19 |
 | 20 | [Alright](https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:37 |
 | 21 | [Mulder and Scully](https://open.spotify.com/track/2jlJVAqrN7bHsw7EwPOIIi) | [Catatonia](https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv) | [International Velvet](https://open.spotify.com/album/5oORHAxHQggskA01yI3l6a) | 4:11 |
 | 22 | [Ready to Go](https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y) | [Republica](https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge) | [Ready To Go](https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp) | 5:01 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 28 | [The Day We Caught The Train](https://open.spotify.com/track/5bWLIVKl5UrbQ2xEGfAXOK) | [Ocean Colour Scene](https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U) | [Songs For The Front Row \- The Best Of Ocean Colour Scene](https://open.spotify.com/album/11UaUnzpCWmm1ARcZtEtFG) | 3:11 |
 | 29 | [Inbetweener](https://open.spotify.com/track/4GoqaAdOZqS1lyYODRwxlO) | [Sleeper](https://open.spotify.com/artist/0NbfEPYRgMczimdfM3skmH) | [Smart](https://open.spotify.com/album/4b6QlQpazyHULH2nmJTPcT) | 3:19 |
 | 30 | [What You Do To Me](https://open.spotify.com/track/6DOJgDuUVDaJ98GQxwyLTh) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Bandwagonesque](https://open.spotify.com/album/4M6vPZ4hQdOeH07D0JO2JQ) | 2:00 |
-| 31 | [Loaded](https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 7:02 |
-| 32 | [Kinky Afro \- 2007 Remaster](https://open.spotify.com/track/3OSJIs8o7v3reK5DHJrG48) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0) | [Pills 'N' Thrills And Bellyaches \(Collector's Edition\)](https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ) | 3:59 |
+| 31 | [Kinky Afro \- 2007 Remaster](https://open.spotify.com/track/3OSJIs8o7v3reK5DHJrG48) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0) | [Pills 'N' Thrills And Bellyaches \(Collector's Edition\)](https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ) | 3:59 |
+| 32 | [Loaded](https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 7:02 |
 | 33 | [A Design for Life \- 2016 Remastered Version](https://open.spotify.com/track/7rIoot9qXXs4H3n1kH2V4F) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Everything Must Go 20 \(Remastered\)](https://open.spotify.com/album/0N5NWxZazrftwlXMOgHQrC) | 4:17 |
 | 34 | [Slight Return](https://open.spotify.com/track/3ATIyi8OsM5ciO0CDd2iCs) | [The Bluetones](https://open.spotify.com/artist/66nOkPJTFgK25NMmojG04V) | [The Bluetones Collection](https://open.spotify.com/album/4Y1kBAxpJPxH8dQykSv9kz) | 3:20 |
 | 35 | [I Want to Be There \- When You Come](https://open.spotify.com/track/471Zj8j2ioowDrIhOzaZdy) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Evergreen \(Expanded\)](https://open.spotify.com/album/7ynWqEk1YxxZ2TYf1v6imE) | 3:38 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 43 | [Brimful of Asha \(Norman Cook Remix\) \(Single Version\)](https://open.spotify.com/track/29capylmokCeuNAWqGitij) | [Cornershop](https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF) | [Brimful of Asha](https://open.spotify.com/album/3zImpd2BehQCHbnTiIJlZB) | 4:03 |
 | 44 | [The Only One I Know](https://open.spotify.com/track/17hdos7cv1vAvcfoTU4Pym) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Some Friendly](https://open.spotify.com/album/0JWdN38GXUuoG3zHmXKmnj) | 3:58 |
 | 45 | [The Life Of Riley](https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Life Of Riley \- The Lightning Seeds Collection](https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd) | 4:04 |
-| 46 | [Wide Open Space](https://open.spotify.com/track/6qDcBy0eHAJW3xoezLs9Ik) | [Mansun](https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U) | [Attack of the Grey Lantern](https://open.spotify.com/album/76kwuhhXHxnimY5aiKdvZJ) | 4:31 |
+| 46 | [Bitter Sweet Symphony](https://open.spotify.com/track/5yEPxDjbbzUzyauGtnmVEC) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns](https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g) | 5:58 |
 | 47 | [No Surprises](https://open.spotify.com/track/1bSpwPhAxZwlR2enJJsv7U) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 3:49 |
-| 48 | [Bitter Sweet Symphony](https://open.spotify.com/track/5yEPxDjbbzUzyauGtnmVEC) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns](https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g) | 5:58 |
+| 48 | [Wide Open Space](https://open.spotify.com/track/6qDcBy0eHAJW3xoezLs9Ik) | [Mansun](https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U) | [Attack of the Grey Lantern](https://open.spotify.com/album/76kwuhhXHxnimY5aiKdvZJ) | 4:31 |
 | 49 | [Stupid Girl](https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage](https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG) | 4:18 |
 | 50 | [Trash](https://open.spotify.com/track/0eyTLxTwEYvqWm6NYSvA01) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [The Best Of](https://open.spotify.com/album/6IKWPpfzzSqLSgbIfvCrhO) | 4:05 |
 | 51 | [Richard III](https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [In It For The Money](https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW) | 3:12 |

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Carin Leon. Los temas esenciales, todos en una lista.",
-  "num_followers": 904164,
+  "description": "This is Carin Leon. The essential tracks, all in one playlist.",
+  "num_followers": 905106,
   "original_name": "This Is Carin Leon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAAFucq8JU+75qnTc6Odn6Hw",
+  "snapshot_id": "ZoNDAAAAAAB91BIO9QeuCY0mPuqX/w2z",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ojos Cerrados",
-        "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
       "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
         {
           "name": "Carin Leon",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 180750,
-      "name": "Ojos Cerrados",
-      "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
+      "duration_ms": 231375,
+      "name": "Desp\u00eddase bien",
+      "url": "https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk"
     },
     {
       "added_at": null,
@@ -163,18 +159,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+        "name": "Ojos Cerrados",
+        "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
       },
       "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
         {
           "name": "Carin Leon",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 231375,
-      "name": "Desp\u00eddase bien",
-      "url": "https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk"
+      "duration_ms": 180750,
+      "name": "Ojos Cerrados",
+      "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
     },
     {
       "added_at": null,
@@ -575,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "In\u00e9dito",
-        "url": "https://open.spotify.com/album/2OsszrrYft2W0pprUj7jyX"
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2"
       },
       "artists": [
         {
           "name": "Carin Leon",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Yndio",
+          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
         }
       ],
-      "duration_ms": 159517,
-      "name": "Alguien Mejor",
-      "url": "https://open.spotify.com/track/5D9bNDHnGzL8ZcwBty5db4"
+      "duration_ms": 239310,
+      "name": "Dame un Beso y Dime Adios (En Vivo)",
+      "url": "https://open.spotify.com/track/1JV3RpUoEppOj6jEQgWOor"
     },
     {
       "added_at": null,
@@ -607,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cura Local (En Vivo)",
-        "url": "https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2"
+        "name": "In\u00e9dito",
+        "url": "https://open.spotify.com/album/2OsszrrYft2W0pprUj7jyX"
       },
       "artists": [
         {
           "name": "Carin Leon",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Yndio",
-          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
         }
       ],
-      "duration_ms": 239310,
-      "name": "Dame un Beso y Dime Adios (En Vivo)",
-      "url": "https://open.spotify.com/track/1JV3RpUoEppOj6jEQgWOor"
+      "duration_ms": 159517,
+      "name": "Alguien Mejor",
+      "url": "https://open.spotify.com/track/5D9bNDHnGzL8ZcwBty5db4"
     },
     {
       "added_at": null,

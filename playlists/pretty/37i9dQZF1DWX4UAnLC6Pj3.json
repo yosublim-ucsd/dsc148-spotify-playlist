@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Luis Alfonso Partida El Yaki en portada.",
-  "num_followers": 1218708,
+  "num_followers": 1218833,
   "original_name": "Banda 2024",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,22 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
-        "name": "Mala Hierba",
-        "url": "https://open.spotify.com/album/6QFKbgYHqHWwBL1MnSrC0v"
+        "name": "10+10",
+        "url": "https://open.spotify.com/album/6kNx2FYpxe6xeUWZpxrv8f"
       },
       "artists": [
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
         },
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Marco A. Flores",
+          "url": "https://open.spotify.com/artist/2aJahPuAJoLEuEqIaNCz7g"
         }
       ],
-      "duration_ms": 167506,
-      "name": "Mala Hierba",
-      "url": "https://open.spotify.com/track/47Nf0haFCGYpWfMTP9Jdgd"
+      "duration_ms": 167786,
+      "name": "Soy un Desmadre",
+      "url": "https://open.spotify.com/track/2TD8LyMFCqStcDdGbEt0kP"
     },
     {
       "added_at": "2024-06-28 04:45:36",
@@ -887,22 +887,22 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
-        "name": "10+10",
-        "url": "https://open.spotify.com/album/6kNx2FYpxe6xeUWZpxrv8f"
+        "name": "Mala Hierba",
+        "url": "https://open.spotify.com/album/6QFKbgYHqHWwBL1MnSrC0v"
       },
       "artists": [
         {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         },
         {
-          "name": "Marco A. Flores",
-          "url": "https://open.spotify.com/artist/2aJahPuAJoLEuEqIaNCz7g"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 167786,
-      "name": "Soy un Desmadre",
-      "url": "https://open.spotify.com/track/2TD8LyMFCqStcDdGbEt0kP"
+      "duration_ms": 167506,
+      "name": "Mala Hierba",
+      "url": "https://open.spotify.com/track/47Nf0haFCGYpWfMTP9Jdgd"
     },
     {
       "added_at": "2024-06-28 04:45:36",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
+        "name": "Un Tabaco (En Vivo)",
+        "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
+      },
+      "artists": [
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        }
+      ],
+      "duration_ms": 207625,
+      "name": "Un Tabaco (En Vivo)",
+      "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
+    },
+    {
+      "added_at": "2024-06-28 04:45:36",
+      "album": {
         "name": "Bien Positivo",
         "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 139668,
       "name": "Cuando Andaba Recio (El Cholo)",
       "url": "https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn"
-    },
-    {
-      "added_at": "2024-06-28 04:45:36",
-      "album": {
-        "name": "Un Tabaco (En Vivo)",
-        "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
-      },
-      "artists": [
-        {
-          "name": "Juanpa Salazar",
-          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
-        }
-      ],
-      "duration_ms": 207625,
-      "name": "Un Tabaco (En Vivo)",
-      "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
     },
     {
       "added_at": "2024-06-28 04:45:36",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
+        "name": "Es Amor",
+        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Es Amor",
+      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
+    },
+    {
+      "added_at": "2024-06-28 04:45:36",
+      "album": {
         "name": "ABC",
         "url": "https://open.spotify.com/album/6v1pjf9L6PD20AGEq4w4yp"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 214586,
       "name": "ABC",
       "url": "https://open.spotify.com/track/4z77bfxjeVqrPbptqaPd4d"
-    },
-    {
-      "added_at": "2024-06-28 04:45:36",
-      "album": {
-        "name": "Es Amor",
-        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Es Amor",
-      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
     },
     {
       "added_at": "2024-06-28 04:45:36",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
-        "name": "Las Preferidas, Vol. 5 (En vivo)",
-        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 245183,
-      "name": "Due\u00f1o De Ti - En vivo",
-      "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
-    },
-    {
-      "added_at": "2024-06-28 04:45:36",
-      "album": {
         "name": "Porque Soy Abeja Reina",
         "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 158146,
       "name": "PORQUE SOY ABEJA REINA",
       "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
+    },
+    {
+      "added_at": "2024-06-28 04:45:36",
+      "album": {
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 245183,
+      "name": "Due\u00f1o De Ti - En vivo",
+      "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
     },
     {
       "added_at": "2024-06-28 04:45:36",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
+        "name": "Me Gustas Mucho T\u00fa",
+        "url": "https://open.spotify.com/album/1bkFIUDfNyfuIck0Ktc46C"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 152170,
+      "name": "Me Gustas Mucho T\u00fa",
+      "url": "https://open.spotify.com/track/7uCOC6ejt66iR6UOX0dmlJ"
+    },
+    {
+      "added_at": "2024-06-28 04:45:36",
+      "album": {
         "name": "El Chulo",
         "url": "https://open.spotify.com/album/3fqu1APHpe2qBiI3NgBmZj"
       },
@@ -1639,22 +1655,6 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
-        "name": "Me Gustas Mucho T\u00fa",
-        "url": "https://open.spotify.com/album/1bkFIUDfNyfuIck0Ktc46C"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 152170,
-      "name": "Me Gustas Mucho T\u00fa",
-      "url": "https://open.spotify.com/track/7uCOC6ejt66iR6UOX0dmlJ"
-    },
-    {
-      "added_at": "2024-06-28 04:45:36",
-      "album": {
         "name": "Por Si Me Les Adelanto",
         "url": "https://open.spotify.com/album/2vR7nRKZYUuNks9KdDXT5p"
       },
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
-        "name": "Las Preferidas, Vol. 5 (En vivo)",
-        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 215303,
-      "name": "Sigues Siendo Tu - En vivo",
-      "url": "https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3"
-    },
-    {
-      "added_at": "2024-06-28 04:45:36",
-      "album": {
         "name": "Soltero Para Rato",
         "url": "https://open.spotify.com/album/12LwolaVdtNRJfUpXU84RZ"
       },
@@ -1699,62 +1683,6 @@
       "duration_ms": 189506,
       "name": "Soltero Para Rato",
       "url": "https://open.spotify.com/track/12or4TvmDjzEg05ZYGt0to"
-    },
-    {
-      "added_at": "2024-06-28 04:45:36",
-      "album": {
-        "name": "Apenas es Martes",
-        "url": "https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 216633,
-      "name": "Apenas es Martes",
-      "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
-    },
-    {
-      "added_at": "2024-06-28 04:45:36",
-      "album": {
-        "name": "La Patrona",
-        "url": "https://open.spotify.com/album/6bajKxH0q2vy5SRm83RGgz"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        },
-        {
-          "name": "Leandro R\u00edos",
-          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
-        }
-      ],
-      "duration_ms": 150527,
-      "name": "La Patrona",
-      "url": "https://open.spotify.com/track/77tPPVeMhhzGwoMih9bs1T"
-    },
-    {
-      "added_at": "2024-06-28 04:45:36",
-      "album": {
-        "name": "Es Demasiado Tarde (En Vivo)",
-        "url": "https://open.spotify.com/album/0GY2QiAZeLzHQgulUhlu7b"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Es Demasiado Tarde (En Vivo)",
-      "url": "https://open.spotify.com/track/49p6wLTmjn42KHJw7axA3G"
     },
     {
       "added_at": "2024-06-28 04:45:36",
@@ -1779,22 +1707,74 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
-        "name": "Si Esta Botella Hablara",
-        "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 188511,
-      "name": "Si Esta Botella Hablara",
-      "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
+      "duration_ms": 215303,
+      "name": "Sigues Siendo Tu - En vivo",
+      "url": "https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3"
+    },
+    {
+      "added_at": "2024-06-28 04:45:36",
+      "album": {
+        "name": "La Patrona",
+        "url": "https://open.spotify.com/album/6bajKxH0q2vy5SRm83RGgz"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        },
+        {
+          "name": "Leandro R\u00edos",
+          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+        }
+      ],
+      "duration_ms": 150527,
+      "name": "La Patrona",
+      "url": "https://open.spotify.com/track/77tPPVeMhhzGwoMih9bs1T"
+    },
+    {
+      "added_at": "2024-06-28 04:45:36",
+      "album": {
+        "name": "Apenas es Martes",
+        "url": "https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 216633,
+      "name": "Apenas es Martes",
+      "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
+    },
+    {
+      "added_at": "2024-06-28 04:45:36",
+      "album": {
+        "name": "Es Demasiado Tarde (En Vivo)",
+        "url": "https://open.spotify.com/album/0GY2QiAZeLzHQgulUhlu7b"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Es Demasiado Tarde (En Vivo)",
+      "url": "https://open.spotify.com/track/49p6wLTmjn42KHJw7axA3G"
     },
     {
       "added_at": "2024-06-28 04:45:36",
@@ -1819,6 +1799,26 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
+        "name": "Si Esta Botella Hablara",
+        "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 188511,
+      "name": "Si Esta Botella Hablara",
+      "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
+    },
+    {
+      "added_at": "2024-06-28 04:45:36",
+      "album": {
         "name": "La Bolsita",
         "url": "https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB"
       },
@@ -1831,6 +1831,26 @@
       "duration_ms": 180900,
       "name": "La Bolsita",
       "url": "https://open.spotify.com/track/6LFdrfyA0hilRIQ3aQFfTI"
+    },
+    {
+      "added_at": "2024-06-28 04:45:36",
+      "album": {
+        "name": "Pa\u2019Delante",
+        "url": "https://open.spotify.com/album/5Ib3fe33w4kda328f7SWc4"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 190906,
+      "name": "J\u00f3dete",
+      "url": "https://open.spotify.com/track/7qck3nLQcH6RFSSbHxMZg2"
     },
     {
       "added_at": "2024-06-28 04:45:36",
@@ -1855,26 +1875,6 @@
       "duration_ms": 179760,
       "name": "Salud Por Eso",
       "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
-    },
-    {
-      "added_at": "2024-06-28 04:45:36",
-      "album": {
-        "name": "Pa\u2019Delante",
-        "url": "https://open.spotify.com/album/5Ib3fe33w4kda328f7SWc4"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        },
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 190906,
-      "name": "J\u00f3dete",
-      "url": "https://open.spotify.com/track/7qck3nLQcH6RFSSbHxMZg2"
     },
     {
       "added_at": "2024-06-28 04:45:36",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
-        "name": "Diamante",
-        "url": "https://open.spotify.com/album/0VOI5zNRRuxAOlYhRbV3il"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 158813,
-      "name": "Diamante",
-      "url": "https://open.spotify.com/track/6HVKGafBjt5eniLi0JFAwA"
-    },
-    {
-      "added_at": "2024-06-28 04:45:36",
-      "album": {
         "name": "No Hay Nada Mas Que Decir",
         "url": "https://open.spotify.com/album/4XtV81qI8tMRYNPt5WRPZF"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 212853,
       "name": "No Hay Nada Mas Que Decir",
       "url": "https://open.spotify.com/track/77sdqXAFOUBRo2ZpCIYGj4"
+    },
+    {
+      "added_at": "2024-06-28 04:45:36",
+      "album": {
+        "name": "Diamante",
+        "url": "https://open.spotify.com/album/0VOI5zNRRuxAOlYhRbV3il"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 158813,
+      "name": "Diamante",
+      "url": "https://open.spotify.com/track/6HVKGafBjt5eniLi0JFAwA"
     },
     {
       "added_at": "2024-06-28 04:45:36",
@@ -2199,18 +2199,18 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
-        "name": "Y Si Se Quiere Ir",
-        "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
+        "name": "A Como Yo Lo Veo",
+        "url": "https://open.spotify.com/album/3NPPmTpVZH4yed40Ffrf6C"
       },
       "artists": [
         {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 187280,
-      "name": "Y Si Se Quiere Ir",
-      "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
+      "duration_ms": 197500,
+      "name": "A Como Yo Lo Veo",
+      "url": "https://open.spotify.com/track/2M96oj1hBrNEIz8R1FLuQC"
     }
   ],
   "unique_name": "Banda 2024",

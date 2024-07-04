@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: チョーキューメイ
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,843 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,851 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 4 | [ユウウツダンスフロア](https://open.spotify.com/track/7D5dqcUsxrZfhohlbfLqbt) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [ユウウツダンスフロア](https://open.spotify.com/album/2KoBA4KkzTdsy6kZr2dKq6) | 2:19 |
 | 5 | [グレーハートハッカー](https://open.spotify.com/track/5lqF1P9zfBN8ebVzHTWm81) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [グレーハートハッカー](https://open.spotify.com/album/1SO2oBHLqK5Zjl6UnsM2vT) | 4:17 |
 | 6 | [スーパーカー](https://open.spotify.com/track/6A44xwqoKnouqzxRum7cSZ) | [iiichanman](https://open.spotify.com/artist/6I8QBjbVfdeTc0uBFdxHOS) | [スーパーカー](https://open.spotify.com/album/2uGGwuyEwSxT9ELumTUzF7) | 2:43 |
-| 7 | [DESTINY](https://open.spotify.com/track/2xwN42kCgcUekFGkxBaoPk) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl), [熊本香織](https://open.spotify.com/artist/5rICpele8X97fujDUK7qUW) | [DESTINY](https://open.spotify.com/album/5KNMFOWXOwJxwojRbIJH30) | 4:49 |
+| 7 | [DESTINY](https://open.spotify.com/track/2xwN42kCgcUekFGkxBaoPk) | [NOA](https://open.spotify.com/artist/13dYGe4SaLPv0lZqGtyBfL), [熊本香織](https://open.spotify.com/artist/5rICpele8X97fujDUK7qUW) | [DESTINY](https://open.spotify.com/album/5KNMFOWXOwJxwojRbIJH30) | 4:49 |
 | 8 | [TEENAGE EMOTION](https://open.spotify.com/track/31gDIRfJOzOTHh9RMmddWL) | [BOØWY](https://open.spotify.com/artist/0pr3ep0knQaPHEZ2X8niA0) | [INSTANT LOVE](https://open.spotify.com/album/5GzkVQK9aIjhZEOab8zsoq) | 4:06 |
 | 9 | [O.M.G](https://open.spotify.com/track/7zfBCKcBnRDMOHBEONI4yZ) | [カライドスコープ](https://open.spotify.com/artist/5VPAcL1oXbwABg16QXigGK) | [CRUSH](https://open.spotify.com/album/1e9lUoQEHhp5YhyFtpsmDD) | 3:32 |
 | 10 | [ヴヴヴ](https://open.spotify.com/track/4cIoRCe7JCGW7PbHFQ2tsn) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [ヴヴヴ](https://open.spotify.com/album/1mqiHVhephvDOVqTcxk9b3) | 2:39 |

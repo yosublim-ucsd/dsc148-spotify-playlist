@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,059 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,130 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 59 | [Ooby Dooby](https://open.spotify.com/track/7Bt1RAu4FSYL3WltEmLmb5) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS), [The Teen Kings](https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ) | [At the Rock House](https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm) | 2:10 |
 | 60 | [Lotta Lovin'](https://open.spotify.com/track/0ijKW319aVwVVDmFGU4rGC) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx), [The Blue Caps](https://open.spotify.com/artist/5EmQT0A3VxQU0EiX0qhrCo) | [Capitol Collectors Series](https://open.spotify.com/album/72cDPStUoZJZxUbQ67cgO6) | 2:11 |
 | 61 | [Get a Job](https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN) | [The Silhouettes](https://open.spotify.com/artist/39fE9541sKuRBOsf7UOifd) | [Get a Job](https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9) | 2:49 |
-| 62 | [Rama Lama Ding Dong \(Original version 1958\)](https://open.spotify.com/track/3MfO2eMTwf5LLyMqjwGXLl) | [The Edsels](https://open.spotify.com/artist/7FQVHPRA74BTNsNHRob0F7) | [The Rama Lama Ding Dong EP](https://open.spotify.com/album/4GFU4iyAcfwWm1dYIL9m9Y) | 2:27 |
-| 63 | [Party Doll](https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW) | [Buddy Knox](https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb) | [Buddy Knox](https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc) | 2:15 |
+| 62 | [Party Doll](https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW) | [Buddy Knox](https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb) | [Buddy Knox](https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc) | 2:15 |
+| 63 | [Rama Lama Ding Dong \(Original version 1958\)](https://open.spotify.com/track/3MfO2eMTwf5LLyMqjwGXLl) | [The Edsels](https://open.spotify.com/artist/7FQVHPRA74BTNsNHRob0F7) | [The Rama Lama Ding Dong EP](https://open.spotify.com/album/4GFU4iyAcfwWm1dYIL9m9Y) | 2:27 |
 | 64 | [Oh Boy! \- Overdubbed Version](https://open.spotify.com/track/7s7Zu78CztOUFUyQ4BijBQ) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Not Fade Away: The Complete Studio Recordings And More](https://open.spotify.com/album/23TDJiqtPfw3UcDhce8Q2x) | 2:07 |
 | 65 | [Personality](https://open.spotify.com/track/5vjigjfoXuJEttqLB3HTAg) | [Lloyd Price](https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2) | [Lloyd Price Greatest Hits: The Original ABC\-Paramount Recordings](https://open.spotify.com/album/5qYhWkc4dKbKuevLza5rlh) | 2:37 |
 | 66 | [Mister Sandman](https://open.spotify.com/track/00e59ZgjHI2GwsiY3oXayw) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Mr Sandman \- All the Hits](https://open.spotify.com/album/0LjbqtDb2lMpfux4TgSsff) | 2:24 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 88 | [Bring Your Love Back Home](https://open.spotify.com/track/6lvzBdCaRm02bNKjpUTZTV) | [Eddie Snow](https://open.spotify.com/artist/1MskZigKUNqWI4ECsbfudt) | [Ain't That Right / Bring Your Love Back Home](https://open.spotify.com/album/6o93gieTy9n75mc0Mhgtw7) | 3:14 |
 | 89 | [I Need a Man](https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3) | [Barbara Pittman](https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2) | [I Need a Man / No Matter Who's to Blame](https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD) | 2:52 |
 | 90 | [Bear Cat](https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM) | [Rufus Thomas](https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8) | [Bear Cat / Walkin' in the Rain](https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X) | 2:50 |
-| 91 | [Rockin Daddy](https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Sun Records \- Turn It Up! Rock 'N' Roll](https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5) | 1:59 |
-| 92 | [Bop With Me Baby](https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [Sun Records Recording Artist \- Rosco Gordon](https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH) | 2:36 |
+| 91 | [Bop With Me Baby](https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [Sun Records Recording Artist \- Rosco Gordon](https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH) | 2:36 |
+| 92 | [Rockin Daddy](https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Sun Records \- Turn It Up! Rock 'N' Roll](https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5) | 1:59 |
 | 93 | [Slow Down](https://open.spotify.com/track/2s6ZdkCvWQAI5OyTaCVDyT) | [Jack Earls](https://open.spotify.com/artist/5oqGu2tDspg5xRwVqqbMpY), [The Jimbos](https://open.spotify.com/artist/2tZSmD1d3c1iYRRDOVhh8F) | [Slow Down / A Fool for Loving You](https://open.spotify.com/album/16tQIxNa9s3cmCjrcFUXgx) | 2:17 |
 | 94 | [Little Fine Healthy Thing](https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Something for Nothing / Little Fine Healthy Thing](https://open.spotify.com/album/681gmpIrqPEGuvIKwJ0CRR) | 2:33 |
 | 95 | [Drinkin' Wine Spodee\-O\-Dee](https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk) | [Malcolm Yelvington](https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v) | [Drinkin' Wine Spodee\-O\-Dee / Just Rolling Along](https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK) | 2:48 |

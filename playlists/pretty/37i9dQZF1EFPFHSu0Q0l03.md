@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Zbqt8mPfYuL4tGBq13sFT">Aaron Dessner</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,290 likes - 243 songs - 16 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,300 likes - 243 songs - 16 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 127 | [The Pull Of You](https://open.spotify.com/track/1z3zD1U8ZYmoILMZWE3kZF) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:58 |
 | 128 | [Racing Like a Pro](https://open.spotify.com/track/3A7mbQ3pfDt9sPGrUkJepi) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp) | 3:24 |
 | 129 | [Roman Holiday](https://open.spotify.com/track/7y3sR3xXDSls1GPYGoJ312) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:34 |
-| 130 | [Page](https://open.spotify.com/track/3LP0XwrMJ6ShNSrExi7jYs) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:51 |
-| 131 | [This Isn't Helping \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/56QXS0Hk7mKpuLaFJQ3x8F) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:04 |
+| 130 | [This Isn't Helping \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/56QXS0Hk7mKpuLaFJQ3x8F) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:04 |
+| 131 | [Page](https://open.spotify.com/track/3LP0XwrMJ6ShNSrExi7jYs) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:51 |
 | 132 | [Hey Rosey](https://open.spotify.com/track/4sJ48xoHPUcgWPrsvpnNrp) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 4:14 |
 | 133 | [Not In Kansas](https://open.spotify.com/track/3QGW4gfcvnFhOOBo1p6FKT) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 6:44 |
 | 134 | [Sleep Well Beast](https://open.spotify.com/track/1ZiCI5KyHTd1LFh4bsJ0En) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 6:33 |
@@ -164,8 +164,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 154 | [Hymnostic](https://open.spotify.com/track/5IKfKPPzk7AFHTUGVVcD1B) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 3:02 |
 | 155 | [Somebody Desperate \- From ''Cyrano'' Soundtrack](https://open.spotify.com/track/7HYgIW2TK4hPfcC6XaqF2W) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Somebody Desperate \(From ''Cyrano'' Soundtrack\)](https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv) | 3:55 |
 | 156 | [Reese](https://open.spotify.com/track/4BQf6xntGFvZj7lPnJy3iG) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:12 |
-| 157 | [Deep Green](https://open.spotify.com/track/4vvJPjHFnxpNIzWurp4rkW) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 3:59 |
-| 158 | [Grease In Your Hair](https://open.spotify.com/track/5umWFm8z7wv3tPYc8Vw321) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 3:57 |
+| 157 | [Grease In Your Hair](https://open.spotify.com/track/5umWFm8z7wv3tPYc8Vw321) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 3:57 |
+| 158 | [Deep Green](https://open.spotify.com/track/4vvJPjHFnxpNIzWurp4rkW) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 3:59 |
 | 159 | [It Never Happened](https://open.spotify.com/track/7timozTlGw1k7yyZH4RTP3) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sad Songs for Dirty Lovers](https://open.spotify.com/album/2GXoU6gpOlx1oZ0DkNgrUM) | 4:37 |
 | 160 | [Space Invader](https://open.spotify.com/track/5ce3o4fcZbZVdGCDkK6KN7) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 6:58 |
 | 161 | [Wasp Nest \- 2021 Remaster](https://open.spotify.com/track/6qdTFvp8MBJTpP0Pwzuub1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Cherry Tree \(2021 Remaster\)](https://open.spotify.com/album/5MoABbHznJUM1jwGlJqmLl) | 3:22 |
@@ -252,4 +252,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 242 | [Time Gets Eaten](https://open.spotify.com/track/76mkAIAQwWKtFYynNPUvuc) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 3:42 |
 | 243 | [Hold On](https://open.spotify.com/track/3u8YEarq9quMVJqCFzSayu) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 3:36 |
 
-Snapshot ID: `AbVpnAAAAAAiIZy6fmiyct+vIzehINL7`
+Snapshot ID: `AbVvNAAAAADSLzu1mo7cjkR7eaFjo/t5`

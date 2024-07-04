@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,527 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,521 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 19 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
 | 20 | [Z nikim aż tak](https://open.spotify.com/track/2tD084cxyXfM8rTrR7vpZU) | [Grzegorz Hyży](https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm) | [Z nikim aż tak](https://open.spotify.com/album/1vnoOYABdND4kBBFXlE7jH) | 3:12 |
 | 21 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 |
-| 22 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 |
+| 22 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 |
 | 23 | [Lights Go Loud](https://open.spotify.com/track/32yM3qgoGGbwny8Fo8jfEW) | [KUBA](https://open.spotify.com/artist/1bkyZDNNjgrIwr4qTtyHUW) | [Lights Go Loud](https://open.spotify.com/album/64elWMzIP1J5xNSjpVFd0L) | 2:51 |
-| 24 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 |
+| 24 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 |
 | 25 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 |
 | 26 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 |
 | 27 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 53 | [Nie ma Cię tu](https://open.spotify.com/track/7gNGlEQQQQMlBILu3BhRuA) | [Marta Bijan](https://open.spotify.com/artist/6H38O4b9x7V56MfLOpfNZt) | [Nie ma Cię tu](https://open.spotify.com/album/2DXY3yPf7YoSEglJBJ6xO1) | 2:29 |
 | 54 | [The Way I Want It](https://open.spotify.com/track/3dnGjCQrJqsqYjVwOYqBUj) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [The Way I Want It](https://open.spotify.com/album/273PYkxoYVyKhsNdKnNyiT) | 2:13 |
 | 55 | [Zagrajmy](https://open.spotify.com/track/6jKciZGLm1zKWP3DrVYfzr) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Zagrajmy](https://open.spotify.com/album/4sXX520fF0HGwgSxOfyE0y) | 3:16 |
-| 56 | [Good Things](https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Good Things](https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0) | 2:57 |
-| 57 | [Chcę tu zostać](https://open.spotify.com/track/1rNAoVfBPV1wAeYZzCJfVm) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Chcę tu zostać](https://open.spotify.com/album/6xSdJmLKx6LiT44WwxUzku) | 3:00 |
+| 56 | [Chcę tu zostać](https://open.spotify.com/track/1rNAoVfBPV1wAeYZzCJfVm) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Chcę tu zostać](https://open.spotify.com/album/6xSdJmLKx6LiT44WwxUzku) | 3:00 |
+| 57 | [Good Things](https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Good Things](https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0) | 2:57 |
 | 58 | [Tease Me](https://open.spotify.com/track/2zd9veJ3ELc1OBTbscFx7b) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Tease Me](https://open.spotify.com/album/4czLQcxHpCy7NlD0YZabS5) | 2:42 |
 | 59 | [HATE YOUR GUTS](https://open.spotify.com/track/6x3VbkjJpLygkueOL604cz) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [HATE YOUR GUTS](https://open.spotify.com/album/0wOwIIsyCvsviyZVMyMkuW) | 2:36 |
-| 60 | [Tyle mogłem Ci dać](https://open.spotify.com/track/7yhlUkUDOyGqrfkb1THfSj) | [Filip Lato](https://open.spotify.com/artist/7IGQhHioiEXLsSCBt0ZBID) | [Tyle mogłem Ci dać](https://open.spotify.com/album/4dfPdu3N7AOQ4RLzSYIFNR) | 2:15 |
+| 60 | [Flashback](https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Flashback](https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV) | 2:49 |
 
 Snapshot ID: `Zn7rWwAAAAA1DHzmgAy+NzwJGKoy6o7d`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover:  Dunnie
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,312 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,330 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

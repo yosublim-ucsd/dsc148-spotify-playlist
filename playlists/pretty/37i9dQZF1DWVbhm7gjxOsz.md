@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,629 likes - 150 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,746 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 127 | [I Really Love You](https://open.spotify.com/track/1wwjrU9JBVzbSvcHlyntxt) | [Deztini Farinas](https://open.spotify.com/artist/1hnF4gDndtUcKpcLhz8hWy) | [I Really Love You](https://open.spotify.com/album/0egWJ6uyEXJecs0TiP9vc7) | 3:06 |
 | 128 | [Sweet Thing](https://open.spotify.com/track/1YvNzsK7eD8Bu7JShCjD90) | [Nick Wilkins](https://open.spotify.com/artist/1yHR6PFBi6LIe4hsleZDDS), [Adonai Melodías](https://open.spotify.com/artist/5GdCwsX6wfVlTWdv76aUzI), [Scott Griffin](https://open.spotify.com/artist/7rt6LADzZyTTDxwjsM4ASJ), [Aléjandra Soleil](https://open.spotify.com/artist/6Qpj6XaX9rQr4XXOgFfntn) | [Sweet Thing](https://open.spotify.com/album/4UDP4rLKDeLOFxzPPyoNI9) | 3:08 |
 | 129 | [Tell Me That You Love Me](https://open.spotify.com/track/57ffRh0Tc4pGL1JGGhvanb) | [Jonny Benavidez](https://open.spotify.com/artist/7M7dZApoFDjFxwIfGGNvRa), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [My Echo, Shadow and Me](https://open.spotify.com/album/2f70selQPrtTaUvHyn4dbo) | 3:42 |
-| 130 | [Mujer Mia](https://open.spotify.com/track/6uiqzXiQCvAvoeDcjbRbRC) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [SalSoul](https://open.spotify.com/album/6ehe5lPsXzxcNU69NSCi0W) | 4:30 |
-| 131 | [Nobody's Clown](https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV) | [Los Yesterdays](https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq) | [Nobody's Clown](https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ) | 3:29 |
+| 130 | [Nobody's Clown](https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV) | [Los Yesterdays](https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq) | [Nobody's Clown](https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ) | 3:29 |
+| 131 | [Mujer Mia](https://open.spotify.com/track/6uiqzXiQCvAvoeDcjbRbRC) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [SalSoul](https://open.spotify.com/album/6ehe5lPsXzxcNU69NSCi0W) | 4:30 |
 | 132 | [Float On](https://open.spotify.com/track/4YmKTCL86mpGHUS0sEWAUV) | [The Floaters](https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS) | [Float On](https://open.spotify.com/album/3myYvqFdL0jHBzO97TFJuH) | 11:48 |
 | 133 | [Seems Like](https://open.spotify.com/track/6766HkoEEO355KEzrJNU2T) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [Seems Like](https://open.spotify.com/album/3IaDaFiGolUI09rcE8q5m8) | 3:14 |
 | 134 | [Always and Forever \- Edit](https://open.spotify.com/track/0fKDnkXdfJwk0DEW9W83VY) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Heatwave's Greatest Hits](https://open.spotify.com/album/3eZkKm4IbRjyHqbdLm7qDr) | 4:47 |

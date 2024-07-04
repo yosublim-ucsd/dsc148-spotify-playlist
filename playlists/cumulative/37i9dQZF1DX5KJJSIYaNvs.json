@@ -925,6 +925,32 @@
     },
     {
       "album": {
+        "name": "Sarfira (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5HqyzJckEdKi0Ar8a6FMFO"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253161,
+      "name": "Chaawat",
+      "url": "https://open.spotify.com/track/4iIOMOxEzVfFQNibtWDMAT"
+    },
+    {
+      "album": {
         "name": "Chaka Chak (From \"Atrangi Re\")",
         "url": "https://open.spotify.com/album/7bpePuWB0HBjVcosNkaVWd"
       },
@@ -1932,7 +1958,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 170769,
       "name": "Genda Phool (feat. Payal Dev)",
       "url": "https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf"

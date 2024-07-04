@@ -1,12 +1,12 @@
 {
   "description": "This is King Sunny Ade. The essential tracks, all in one playlist.",
-  "num_followers": 5621,
+  "num_followers": 5624,
   "original_name": "This Is King Sunny Ade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAADI8Zzf5huTTfeegPYkztTb",
+  "snapshot_id": "ZoNDAAAAAAD+44MLLOoQYB0zI3NcZ30r",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "E Dide [Get Up]",
-        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Omode O'Mela",
-      "url": "https://open.spotify.com/track/5xUD0LrfblKKbXmmHyxYn3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Check \"E\"",
         "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 464549,
       "name": "Chief George Oyedele",
       "url": "https://open.spotify.com/track/11ScdgNDCBPXziBKtF8GIH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Omode O'Mela",
+      "url": "https://open.spotify.com/track/5xUD0LrfblKKbXmmHyxYn3"
     },
     {
       "added_at": null,

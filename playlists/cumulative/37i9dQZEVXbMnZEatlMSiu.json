@@ -8554,7 +8554,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo"
@@ -13598,6 +13598,28 @@
       "duration_ms": 289604,
       "name": "\u6162\u51b7",
       "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
+    },
+    {
+      "album": {
+        "name": "\u6163\u8001\u95c6 (feat. \u7626\u5b50E.SO)",
+        "url": "https://open.spotify.com/album/4605CoBjrc184bE7N3kSFJ"
+      },
+      "artists": [
+        {
+          "name": "J.Sheon",
+          "url": "https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9"
+        },
+        {
+          "name": "\u7626\u5b50E.SO",
+          "url": "https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292318,
+      "name": "\u6163\u8001\u95c6 (feat. \u7626\u5b50E.SO)",
+      "url": "https://open.spotify.com/track/18TOtGEE15qjoaYvB7SB6f"
     },
     {
       "album": {

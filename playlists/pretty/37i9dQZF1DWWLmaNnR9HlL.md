@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 
 > La banda sonora para tus cenas en casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,891 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,876 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 60 | [Morning Sun](https://open.spotify.com/track/7aoJg1wQEqMx1t875H5fww) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Currency Of Man](https://open.spotify.com/album/2iKiVmx8ohPDn1hJmxC9tD) | 5:05 |
 | 61 | [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 |
 | 62 | [Love Is A Losing Game](https://open.spotify.com/track/570ZDO2Lmh6NQChOU5xPUL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 2:34 |
-| 63 | [L\-O\-V\-E](https://open.spotify.com/track/70gk9Y6aKEdWiASuu59T7Q) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd) | 2:08 |
-| 64 | [\(Getting Some\) Fun out of Life](https://open.spotify.com/track/1WWVlkmJSdLBSiqF2m8Ex2) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Dreamland](https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB) | 3:12 |
+| 63 | [\(Getting Some\) Fun out of Life](https://open.spotify.com/track/1WWVlkmJSdLBSiqF2m8Ex2) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Dreamland](https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB) | 3:12 |
+| 64 | [L\-O\-V\-E](https://open.spotify.com/track/70gk9Y6aKEdWiASuu59T7Q) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd) | 2:08 |
 | 65 | [Blinding Lights](https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0) | [Ouvindo](https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid) | [Blinding Lights](https://open.spotify.com/album/7K77V3y6amFewbD01gZhby) | 3:37 |
 | 66 | [Sympathique](https://open.spotify.com/track/4YgSlaIvdQfu8JU78x7MaZ) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [China Forbes](https://open.spotify.com/artist/3eBVmYkS103Lfh4IPH0H9A), [Thomas M\. Lauderdale](https://open.spotify.com/artist/6YTL8wArPzRzIUAIT7N80O) | [Sympathique](https://open.spotify.com/album/29MX9p2H3rBVdQAuSCQ8rc) | 2:50 |
 | 67 | [Desafinado](https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 4:08 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 77 | [Somewhere Over The Rainbow \- Bossa Version](https://open.spotify.com/track/0n2I6f8lJ1BY0vNWPwOA8K) | [Olga Chung](https://open.spotify.com/artist/6UUbraIaaBKQGCZoSOmn0S) | [Bossa Nova Lounge](https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv) | 3:24 |
 | 78 | [Us](https://open.spotify.com/track/2lmMt4SRDXDma6QkJUox0D) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Us](https://open.spotify.com/album/7pWw6ozRByPfbII3rqDnct) | 3:07 |
 | 79 | [Hang on Little Tomato](https://open.spotify.com/track/3Np6QCfJumv3C09gt3Iuxd) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [China Forbes](https://open.spotify.com/artist/3eBVmYkS103Lfh4IPH0H9A), [Thomas M\. Lauderdale](https://open.spotify.com/artist/6YTL8wArPzRzIUAIT7N80O), [Patrick Abbey](https://open.spotify.com/artist/656bsqVbqXfpSVH4L8kKim) | [Hang on Little Tomato](https://open.spotify.com/album/6DDLD8lHmQEXWRAnghp7io) | 3:16 |
-| 80 | [Desafinado](https://open.spotify.com/track/2GW4RDBkjLWUDjumnHB3K1) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Ultimate Guitar Classics 1951\-1961](https://open.spotify.com/album/0d03HJwweHFZRzvqzCrito) | 1:58 |
-| 81 | [Get Lucky \- Acoustic](https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Get Lucky \(Acoustic\)](https://open.spotify.com/album/7kqflmHaXiCRFSF6gd7wwW) | 3:08 |
+| 80 | [Get Lucky \- Acoustic](https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Get Lucky \(Acoustic\)](https://open.spotify.com/album/7kqflmHaXiCRFSF6gd7wwW) | 3:08 |
+| 81 | [Desafinado](https://open.spotify.com/track/2GW4RDBkjLWUDjumnHB3K1) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Ultimate Guitar Classics 1951\-1961](https://open.spotify.com/album/0d03HJwweHFZRzvqzCrito) | 1:58 |
 | 82 | [Cry to Me](https://open.spotify.com/track/1tYk5zABu6h8CMP1cSea56) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Solomon Burke's Greatest Hits](https://open.spotify.com/album/5wbo06FU4VwIgA0CdfJXI4) | 2:34 |
 | 83 | [Desde Que Te Perdí](https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [City Zen](https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L) | 3:48 |
 | 84 | [Soñé Contigo](https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Soñé Contigo](https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ) | 3:31 |

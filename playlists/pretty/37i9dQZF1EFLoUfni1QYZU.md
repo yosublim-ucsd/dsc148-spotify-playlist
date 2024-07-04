@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 10 | [Forever for Now](https://open.spotify.com/track/1wMpTjS9cNpdmxgJloFG30) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:10 |
 | 11 | [Into the Wild](https://open.spotify.com/track/2gY0Ff8dmJNlCyQxDDqBEf) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:55 |
 | 12 | [Recovery](https://open.spotify.com/track/5eYrUhlS7NAbzFJjNT2jEu) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5) | 3:52 |
-| 13 | [Strange](https://open.spotify.com/track/4n6pH632KlUcuYxq3imOY4) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1) | 3:55 |
+| 13 | [Strange](https://open.spotify.com/track/4a9pbQS5R6FzqUkUeycD3i) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f) | 3:55 |
 | 14 | [One Last Time](https://open.spotify.com/track/3b5rN0v3y5T70UUX9zayTy) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Churches](https://open.spotify.com/album/73yPks0QhGEUpg7jcWHVso) | 3:13 |
 | 15 | [No Witness](https://open.spotify.com/track/6dLAGp6YfJ7TIEU5UZLokn) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1) | 3:28 |
 | 16 | [Night Like This](https://open.spotify.com/track/5uZbXwM8gGGHSD1Dqv8kCu) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:00 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 83 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
 | 84 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `AbVpYgAAAAD353erQnrKFZI3POQKj+y1`
+Snapshot ID: `AbVvAgAAAACwIqVvJabJNmUiRwHSnE3g`

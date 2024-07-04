@@ -2,7 +2,7 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: MORE\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Jiselle\(지셀\)\)
 
 355 songs - 19 hr 40 min
 
@@ -279,7 +279,7 @@
 | [Someday \(feat\. LONE\)](https://open.spotify.com/track/2vVZfbqv0mqqHp91uXXHIT) | [LimJi](https://open.spotify.com/artist/07iBNkDjwUvp70cKJj3K6Z), [LONE](https://open.spotify.com/artist/2DvgXhVqY3hUx5Y9F4cu0H) | [Someday](https://open.spotify.com/album/2JNjZUP1C7eWQGR438w1ib) | 2:58 | 2024-03-08 | 2024-06-18 |
 | [Something](https://open.spotify.com/track/7GYf2XFOAveTxSGeywG5sg) | [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [Something](https://open.spotify.com/album/671MmXvmZ9x9omUge6U2qE) | 4:05 | 2024-05-27 |  |
 | [something](https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [something](https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s) | 3:38 | 2023-11-06 | 2024-04-05 |
-| [Sometimes \(feat\. blessed.\)](https://open.spotify.com/track/7IyiHQNSqyVoaWF7V9YURH) | [That](https://open.spotify.com/artist/0XWHgRkMLtPTmrumiHhvTL), [\[blessed.\]](https://open.spotify.com/artist/4JzV1vsTmvk3ZYQh5cSdX2) | [Sometimes \(feat\. blessed.\)](https://open.spotify.com/album/1Gx1NuB64DGPjaDb9jBKn5) | 2:44 | 2024-06-17 |  |
+| [Sometimes \(feat\. blessed.\)](https://open.spotify.com/track/7IyiHQNSqyVoaWF7V9YURH) | [That](https://open.spotify.com/artist/0XWHgRkMLtPTmrumiHhvTL), [blessed.](https://open.spotify.com/artist/54Y80c5eEYbnlvCmIPKf6W) | [Sometimes \(feat\. blessed.\)](https://open.spotify.com/album/1Gx1NuB64DGPjaDb9jBKn5) | 2:44 | 2024-06-17 |  |
 | [Song For You](https://open.spotify.com/track/3crzIsiwlNfd7KsQ0NDSuY) | [Meijee](https://open.spotify.com/artist/4c1XgZSY8wkkEWeqb4bSHF) | [Song For You](https://open.spotify.com/album/05oeV9MVUR4vWtRQj7Ur7T) | 3:21 | 2024-01-08 | 2024-05-24 |
 | [Song for You](https://open.spotify.com/track/4U2KRmw8c5BA3P1uoheA2F) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Thanks For Nothing](https://open.spotify.com/album/6bHtQUErD1RD9NWYWsyGBk) | 3:11 | 2023-11-14 | 2024-05-01 |
 | [Sool \(Feat\. THAMA\)](https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Sool](https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7) | 3:50 | 2022-08-08 | 2023-01-21 |

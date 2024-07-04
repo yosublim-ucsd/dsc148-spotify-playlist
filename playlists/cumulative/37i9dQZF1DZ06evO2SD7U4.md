@@ -2,9 +2,9 @@
 
 ### [This Is Botellita De Jerez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2SD7U4)
 
-> This is Botellita De Jerez\. The essential tracks, all in one playlist.
+> This Is Botellita De Jerez\. Los temas esenciales, todos en una lista.
 
-69 songs - 4 hr 8 min
+70 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Jefe De Jefes](https://open.spotify.com/track/6ZVpMSjOgWVn8DYWnt4qTr) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [El Mas Grande Homenaje A Los Tigres Del Norte \(Reissue\)](https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri) | 4:24 | 2023-01-14 |  |
 | [La Balona de la Conquista](https://open.spotify.com/track/0XzvypCYjCXRiV7V3f7X3v) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Superespecial De Botellita de Jerez Acústico Semi \- Desenchufado en Vivo un Plug](https://open.spotify.com/album/4lIYlrkQAGs8PtFP9TNUuA) | 7:38 | 2023-10-10 |  |
 | [La Calaca](https://open.spotify.com/track/0mEOv7YRL877hbe9Xazu3y) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Niña De Mis Ojos](https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp) | 3:25 | 2023-01-14 |  |
-| [La Sorpresa](https://open.spotify.com/track/4xIX8bh2MEE1QkGk1sbWxf) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [La Venganza Del Hijo Del Guacarock](https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn) | 2:54 | 2023-02-04 |  |
+| [La Sorpresa](https://open.spotify.com/track/4xIX8bh2MEE1QkGk1sbWxf) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [La Venganza Del Hijo Del Guacarock](https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn) | 2:54 | 2023-02-04 | 2024-07-04 |
+| [La Taza De Café](https://open.spotify.com/track/2TkaeVAbduLh9wcd2gfKob) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Niña De Mis Ojos](https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp) | 2:26 | 2024-07-04 |  |
 | [La Valona de la Conquista](https://open.spotify.com/track/4HDDb63OphLhe87KxZ61SS) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Forjando Patria](https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L) | 6:10 | 2023-01-21 | 2024-06-04 |
 | [Laberinto de la Soledad](https://open.spotify.com/track/1qilssmXFoyUuQxA20dpAB) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Forjando Patria](https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L) | 3:14 | 2023-01-14 |  |
 | [Luna Misteriosa](https://open.spotify.com/track/2vcXBSX5oVbBm8V76aQkVL) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Forjando Patria](https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L) | 5:59 | 2023-06-18 |  |

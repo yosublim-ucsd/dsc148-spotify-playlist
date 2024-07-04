@@ -4,7 +4,7 @@
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România\. Cover: Echipa națională de fotbal a României ⚽️🫡
 
-100 songs - 5 hr 2 min
+101 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2024-07-01 |  |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-07-01 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [How Deep Is Your Love](https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm) | 3:32 | 2024-07-01 |  |
+| [How You Samba](https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ) | 2:31 | 2024-07-01 |  |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-07-01 |  |
 | [I Wouldn't Mind](https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Fall out of Line](https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn) | 3:20 | 2024-07-01 |  |
 | [Ia\-ma Du\-ma](https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Ia\-ma Du\-ma](https://open.spotify.com/album/3TzG3jZWUvo2P6KqgQUBfG) | 2:48 | 2024-07-01 |  |
@@ -82,7 +83,7 @@
 | [Rescue](https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:35 | 2024-07-01 |  |
 | [Rim Tim Tagi Dim](https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ) | [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [Rim Tim Tagi Dim](https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t) | 2:59 | 2024-07-01 |  |
 | [Romania Euro 2024](https://open.spotify.com/track/5tyuoJ7Lpu2SRAGpBeOwAG) | [Andrei Vitan](https://open.spotify.com/artist/4uXRHBgU7WilnHrN3ZvrJW) | [Romania Euro 2024](https://open.spotify.com/album/4YMfQvet2YTr8pEtS9eVr3) | 2:50 | 2024-07-01 |  |
-| [Romeo si Julieta](https://open.spotify.com/track/7MMsotK7YIHmWfgmKdcivz) | [Alex Botea](https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz) | [Romeo si Julieta](https://open.spotify.com/album/3eAMl71T5yAeQ6gRQq1d1Q) | 3:24 | 2024-07-01 |  |
+| [Romeo si Julieta](https://open.spotify.com/track/7MMsotK7YIHmWfgmKdcivz) | [Alex Botea](https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz) | [Romeo si Julieta](https://open.spotify.com/album/3eAMl71T5yAeQ6gRQq1d1Q) | 3:24 | 2024-07-01 | 2024-07-04 |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-07-01 |  |
 | [Según Quién](https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:22 | 2024-07-01 |  |
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2024-07-01 |  |

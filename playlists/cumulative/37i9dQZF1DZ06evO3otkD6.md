@@ -2,7 +2,7 @@
 
 ### [This Is Belinda](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3otkD6)
 
-> This Is Belinda\. Los temas esenciales, todos en una lista.
+> This is: Belinda\. Alle wichtigen Tracks in einer Playlist.
 
 61 songs - 3 hr 30 min
 
@@ -27,7 +27,7 @@
 | [Dance With Me](https://open.spotify.com/track/2sggS6A5pA0KWaleWsHzmL) | [Drew Seeley](https://open.spotify.com/artist/1ryIDQiTzFFxHmmjijqghs), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 3:12 | 2023-11-10 |  |
 | [Desesperada \(feat\. Belinda\)](https://open.spotify.com/track/26ywANcomUjNBQWTuAHBGt) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Globall](https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o) | 3:23 | 2024-06-27 | 2024-06-28 |
 | [Dopamina](https://open.spotify.com/track/3jGVYqal9gz8MLufUzrRhU) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Carpe Diem](https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ) | 3:15 | 2023-11-10 |  |
-| [Déjate Llevar](https://open.spotify.com/track/784NEMxBpeH9MxWF1qr4iu) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Snova](https://open.spotify.com/artist/5oOyEfGd8NxAKA41zGQhoj), [B\-Case](https://open.spotify.com/artist/1o9x7ez0NvhDb7gBqrYnUj) | [4.0](https://open.spotify.com/album/7zCW1I02UgkVjg0UYd5rOq) | 3:53 | 2023-11-10 | 2024-07-03 |
+| [Déjate Llevar](https://open.spotify.com/track/784NEMxBpeH9MxWF1qr4iu) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Snova](https://open.spotify.com/artist/5oOyEfGd8NxAKA41zGQhoj), [B\-Case](https://open.spotify.com/artist/1o9x7ez0NvhDb7gBqrYnUj) | [4.0](https://open.spotify.com/album/7zCW1I02UgkVjg0UYd5rOq) | 3:53 | 2023-11-10 |  |
 | [Eden](https://open.spotify.com/track/17ndjs5jsTO1X15raRZV0u) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Eden](https://open.spotify.com/album/33nYUqCHeO8jyrvctV5Fr0) | 2:40 | 2023-11-10 |  |
 | [Egoista](https://open.spotify.com/track/1e6L0EbCaG0TraK7LtbcXE) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Carpe Diem](https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ) | 3:24 | 2023-11-10 |  |
 | [En El Amor Hay Que Perdonar](https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:59 | 2023-11-10 |  |
@@ -65,7 +65,7 @@
 | [Te Sigo Amando](https://open.spotify.com/track/5QmjF6TMAAym2u3hb8o1ym) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 3:58 | 2023-11-10 |  |
 | [Te Voy a Esperar \(feat\. Belinda\)](https://open.spotify.com/track/1Px4jqDnQFulhG7Dl3nK0C) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Te Voy a Esperar \(feat\. Belinda\)](https://open.spotify.com/album/7FNuyd1Gm4pPEr9XVkhvF5) | 3:35 | 2023-11-10 |  |
 | [Un Traguito](https://open.spotify.com/track/5OSrMt5y9dExB2J5vMdTVk) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Un Traguito](https://open.spotify.com/album/1OfaHu7z6jOeVkoZsEVl0H) | 3:04 | 2023-11-10 |  |
-| [Utopia](https://open.spotify.com/track/1D2RM65NrWgwGOFLidtJTg) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:00 | 2023-11-10 |  |
+| [Utopia](https://open.spotify.com/track/1D2RM65NrWgwGOFLidtJTg) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:00 | 2023-11-10 | 2024-07-04 |
 | [Vivir \- Any Better](https://open.spotify.com/track/4iygID6PWnRGNk9pqBpHE6) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:04 | 2023-11-10 |  |
 | [Why Wait](https://open.spotify.com/track/55PYZ56l4MBXTLTFUjzU7u) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 3:01 | 2023-11-10 |  |
 | [Ángel \- Once in Your Lifetime](https://open.spotify.com/track/46byx3nwRDZwZ0dxPZNs0G) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:40 | 2023-11-10 |  |

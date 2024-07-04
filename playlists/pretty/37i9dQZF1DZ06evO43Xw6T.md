@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 
 > This Is Gabito Ballesteros\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,739 likes - 41 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,951 likes - 41 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 12 | [Lucky Charms](https://open.spotify.com/track/6HPU2csiZAxNziZbW7jd6Y) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:50 |
 | 13 | [Mood Malandro](https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Mood Malandro](https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr) | 3:11 |
 | 14 | [LOU LOU](https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [LOU LOU](https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn) | 3:08 |
-| 15 | [AMG](https://open.spotify.com/track/0FxtC8uFapbpDBliAU3sd6) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 2:54 |
+| 15 | [El Tsurito](https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Tsurito](https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA) | 3:14 |
 | 16 | [Sad Loqueron](https://open.spotify.com/track/1VykDC2twhsRrlhgxJHKRZ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:01 |
-| 17 | [El Tsurito](https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Tsurito](https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA) | 3:14 |
+| 17 | [AMG](https://open.spotify.com/track/0FxtC8uFapbpDBliAU3sd6) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 2:54 |
 | 18 | [Ya Corazón](https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ya Corazón](https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK) | 2:57 |
 | 19 | [Tunechi \(with Gabito Ballesteros\)](https://open.spotify.com/track/5itIlFvG0hrl0p0FGLjcRj) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Tunechi \(with Gabito Ballesteros\)](https://open.spotify.com/album/1m0Ss9jIyWVWmyZafWaVqZ) | 3:32 |
 | 20 | [Vamos Para Arriba](https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vamos Para Arriba](https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37) | 2:52 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 40 | [Arriba Las Manos](https://open.spotify.com/track/6XJIs2gL8FwY2qmhd8YIgx) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [XX](https://open.spotify.com/album/5NDAZXmSAgG7g9oeysYAZJ) | 2:16 |
 | 41 | [Belico Enamorado](https://open.spotify.com/track/4nTEQjAcv6x4FtOcKoNqvB) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Belico Enamorado](https://open.spotify.com/album/2j7te8MvvK7zJvMd1JmG6U) | 3:08 |
 
-Snapshot ID: `ZoHxgAAAAACwl4lDjdthY7PzKJDcljgD`
+Snapshot ID: `ZoNDAAAAAABDr8CFAgzF9Aga3ryEsj3e`

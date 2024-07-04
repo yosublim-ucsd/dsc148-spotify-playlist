@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Camila Cabello, Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,832 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,880 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

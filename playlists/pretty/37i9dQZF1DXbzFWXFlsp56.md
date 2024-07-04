@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 
 > Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Perú\. Foto: Joaquina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,581 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,583 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 | 49 | [they told us it was hard, but they were wrong.](https://open.spotify.com/track/1appKZZwq0t8cBeovLBPKi) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 6:00 |
 | 50 | [Los Guasangú \- \(Cerrero Remix\)](https://open.spotify.com/track/5Cc7P1f3WRSFFP6iBencng) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Los Guasangú \(Cerrero Remix\)](https://open.spotify.com/album/7Khc3U2x9wL0e7kx8PiFkV) | 5:11 |
 
-Snapshot ID: `ZnssSAAAAABibar5JFegfJybGQ4UyMCI`
+Snapshot ID: `ZoXxOwAAAACZ8F7j8cUx2CH5QRREwT6o`

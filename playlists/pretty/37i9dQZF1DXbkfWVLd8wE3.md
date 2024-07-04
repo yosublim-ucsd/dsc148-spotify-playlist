@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 
 > Classics like In Da Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,953 likes - 90 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,004 likes - 90 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 | 10 | [Forever](https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Relapse: Refill](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) | 5:57 |
 | 11 | [The Next Episode](https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 2:41 |
 | 12 | [Just A Lil Bit](https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Massacre](https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH) | 3:57 |
-| 13 | [Regulate](https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 4:08 |
+| 13 | [Black and Yellow](https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Rolling Papers](https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD) | 3:37 |
 | 14 | [How We Do](https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:55 |
-| 15 | [Black and Yellow](https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Rolling Papers](https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD) | 3:37 |
+| 15 | [Regulate](https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 4:08 |
 | 16 | [Mo Money Mo Problems \(feat\. Puff Daddy & Mase\) \- 2014 Remaster](https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 4:17 |
 | 17 | [Let Me Blow Ya Mind](https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Stevie J](https://open.spotify.com/artist/09A1kpyGbzYAPb8cEvee64) | [Scorpion](https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw) | 3:50 |
 | 18 | [So Fresh, So Clean](https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:00 |

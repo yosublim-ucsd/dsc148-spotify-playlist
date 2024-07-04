@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Music for your soul\. Cover: Hiatus Kaiyote
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,639 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,627 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

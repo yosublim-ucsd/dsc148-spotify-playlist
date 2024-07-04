@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 ### [This Is ZZ Top](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1uge6k)
 
-> This Is ZZ Top\. Los temas esenciales, todos en una lista.
+> This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,720 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,813 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 16 | [Can't Stop Rockin'](https://open.spotify.com/track/53Aj8Ii5SbT2KfF7I8DGBN) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 3:01 |
 | 17 | [I Gotsta Get Paid](https://open.spotify.com/track/7rwM67LyGTDIq33h3Ukc6Y) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura](https://open.spotify.com/album/6x2lSp3LAyn3GgB0E7rD4L) | 4:03 |
 | 18 | [I Got the Six \(2008 Remaster\)](https://open.spotify.com/track/3yYe6csPthNTUCcg6PVGjs) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK) | 2:54 |
-| 19 | [Cheap Sunglasses](https://open.spotify.com/track/2te8SC3btY8aSBtOLTQFie) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 4:48 |
-| 20 | [Doubleback](https://open.spotify.com/track/5do2NQzjriskVEaFM2z4ge) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq) | 3:56 |
+| 19 | [Doubleback](https://open.spotify.com/track/5do2NQzjriskVEaFM2z4ge) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq) | 3:56 |
+| 20 | [Cheap Sunglasses](https://open.spotify.com/track/2te8SC3btY8aSBtOLTQFie) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 4:48 |
 | 21 | [Brown Sugar](https://open.spotify.com/track/1DtPmLMwBEa0fugJRhzwzn) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 5:24 |
 | 22 | [I Need You Tonight \(2008 Remaster\)](https://open.spotify.com/track/52Iro1e1FR4w59jyOLawDh) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK) | 6:18 |
 | 23 | [Viva Las Vegas \- 2003 Remaster](https://open.spotify.com/track/7hB5TG3xxRBvBxX4ROayVL) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Chrome Smoke & BBQ: The ZZ Top Box](https://open.spotify.com/album/21XjbuoMaBrSjokj63ekw9) | 4:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 49 | [Goin' Down to Mexico](https://open.spotify.com/track/0Pm15uaCb1apAbVG1c1FY1) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 3:23 |
 | 50 | [Francine](https://open.spotify.com/track/6EENMYtKyDz0lpCAYE5noI) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2) | 3:33 |
 
-Snapshot ID: `ZoHxgAAAAADURBNK9w38PTRsGvA2+lrn`
+Snapshot ID: `ZoNDAAAAAACn4N/Cz8h1IpQ3r2ETL0S+`

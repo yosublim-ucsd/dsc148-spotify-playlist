@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 
 ### [This Is Dharius](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Bunfq)
 
-> This Is Dharius\. Los temas esenciales, todos en una lista.
+> This is: Dharius\. Alle wichtigen Tracks in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,057 likes - 49 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,112 likes - 49 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 48 | [WARZONE FREESTYLE](https://open.spotify.com/track/3cXHViSCDDH5m4tWJa2VjI) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [WARZONE FREESTYLE](https://open.spotify.com/album/4IKnvsfuxWYGJIaVUkwC2P) | 3:16 |
 | 49 | [PLAKATA](https://open.spotify.com/track/3LyM4jvcbsKx8Ps0R2qPSV) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Kami Mami](https://open.spotify.com/artist/52WyfsARd4mYGaH1BBICDG) | [PLAKATA](https://open.spotify.com/album/4TNvAbIvaUZOvHQtNTRyll) | 4:12 |
 
-Snapshot ID: `ZoHxgAAAAACBRvE16XnXy8wAlPzazM9u`
+Snapshot ID: `ZoNDAAAAAACeZWebyPsUlHLai4tMvqNR`

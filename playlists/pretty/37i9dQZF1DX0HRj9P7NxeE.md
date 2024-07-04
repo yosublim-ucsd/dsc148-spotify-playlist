@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 
 > Get your body right with this workout twerkout
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,722,924 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,722,918 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 44 | [Budget \(feat\. Latto\)](https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 3:21 |
 | 45 | [Keep Dat Nigga \(Part 2\) \(feat\. GloRilla, Kali & Big Boss Vette\)](https://open.spotify.com/track/4pgeI9ohPGzSDeKE1D4dYf) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Keep Dat Nigga \(Part 2\) \(feat\. GloRilla, Kali & Big Boss Vette\)](https://open.spotify.com/album/3WVAejN3gu5YJuH7OcGtr0) | 3:22 |
 | 46 | [SHAKE \(feat\. Kaliii and Stunna Girl\)](https://open.spotify.com/track/1gYPFlrHvmP8PiuTf0a9n1) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [SHAKE \(feat\. Kaliii and Stunna Girl\)](https://open.spotify.com/album/5Ht7NVw5YFw4p3P3QqKacv) | 3:11 |
-| 47 | [FreakyT](https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [I Can't Wait](https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7) | 2:14 |
+| 47 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
 | 48 | [Lick Or Sum](https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lick Or Sum](https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR) | 2:21 |
-| 49 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
+| 49 | [FreakyT](https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [I Can't Wait](https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7) | 2:14 |
 | 50 | [F.N.F \(Let's Go\) \- Remix](https://open.spotify.com/track/59DRBDlssFvtWDHsYwCa6q) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [F.N.F\. \(Let's Go\) \[Remix\]](https://open.spotify.com/album/6JY12I6Vg26EqjMIJIX3yh) | 4:07 |
 
 Snapshot ID: `Zn7kAwAAAADUxpCDx6uw6vhJWfDzcybk`

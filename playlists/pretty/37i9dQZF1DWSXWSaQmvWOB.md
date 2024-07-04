@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music every week! Cover: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,599 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,117 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 99 | [That Is You](https://open.spotify.com/track/7BBfnVKkoE5LwkcWqh8ixg) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [That Is You](https://open.spotify.com/album/1iMbj8BIe2irAJc7iUyr4X) | 3:46 |
 | 100 | [Two Step](https://open.spotify.com/track/0sftTHro9CcZ1vR6xDvVPC) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [Two Step](https://open.spotify.com/album/6RZsHSRYUMM4ynG2dSkPHH) | 3:56 |
 
-Snapshot ID: `Zn6cnAAAAADMY9j6mNG76Jnxn4sRA2qP`
+Snapshot ID: `ZoVqAQAAAADvPHV23EbDEn0EC62uvfZt`

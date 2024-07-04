@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 
 > This is Ramones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,769 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,819 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 22 | [I Wanna Be Your Boyfriend \- 2016 Remaster](https://open.spotify.com/track/70U8S3FnHJlwPuid3D2A5d) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:24 |
 | 23 | [Strength to Endure](https://open.spotify.com/track/1iOqQucADvs4hFX6YpflHO) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Mondo Bizarro](https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ) | 2:59 |
 | 24 | [Commando \- 2017 Remaster](https://open.spotify.com/track/7bmHNcuflaGgUgEV4CuDCA) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 1:53 |
-| 25 | [Do You Remember Rock 'n' Roll Radio? \- 2002 Remaster](https://open.spotify.com/track/2Ck23L2znrPAFiyopqzWUj) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 3:49 |
-| 26 | [Teenage Lobotomy \- 2017 Remaster](https://open.spotify.com/track/6rtYb4BGOlLvcy76N8yFbw) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:01 |
+| 25 | [Teenage Lobotomy \- 2017 Remaster](https://open.spotify.com/track/6rtYb4BGOlLvcy76N8yFbw) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:01 |
+| 26 | [Do You Remember Rock 'n' Roll Radio? \- 2002 Remaster](https://open.spotify.com/track/2Ck23L2znrPAFiyopqzWUj) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 3:49 |
 | 27 | [She's a Sensation \- 2002 Remaster](https://open.spotify.com/track/1BtZZWaQSLO24CFyi5Wttf) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Pleasant Dreams \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z) | 3:25 |
 | 28 | [Pinhead \- 2017 Remaster](https://open.spotify.com/track/3UieIbEtb7evYcdNgKczEa) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 2:43 |
 | 29 | [Now I Wanna Sniff Some Glue \- 2016 Remaster](https://open.spotify.com/track/1KWWXe7kMpVptnBsdiiyVb) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 1:35 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 37 | [Out of Time](https://open.spotify.com/track/78j8gwBS0Lf36M1yqRG6kJ) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Acid Eaters](https://open.spotify.com/album/784AdNOgrGhD6suxBrSd9P) | 2:41 |
 | 38 | [Wart Hog \- 2002 Remaster](https://open.spotify.com/track/5w4mCqeA4K0yuB3gyr8cwt) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Too Tough to Die \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4szj932hnsBBNAfKwXAIKD) | 1:54 |
 | 39 | [Take It as It Comes](https://open.spotify.com/track/1vfd5QkEplKvTtS9UJHpwo) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Mondo Bizarro](https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ) | 2:07 |
-| 40 | [Spiderman](https://open.spotify.com/track/2JcUB7LyS4MDI5fvSWU6se) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [The Chrysalis Years Anthology](https://open.spotify.com/album/3xfFyoMTRqvu2JmYQDlKlZ) | 1:56 |
-| 41 | [Something to Believe In](https://open.spotify.com/track/7a6aGoKfpywaIIwSXmZkW1) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Animal Boy](https://open.spotify.com/album/0DaSDEJ5COpsWSlI6mI3yh) | 4:07 |
+| 40 | [Something to Believe In](https://open.spotify.com/track/7a6aGoKfpywaIIwSXmZkW1) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Animal Boy](https://open.spotify.com/album/0DaSDEJ5COpsWSlI6mI3yh) | 4:07 |
+| 41 | [Spiderman](https://open.spotify.com/track/2JcUB7LyS4MDI5fvSWU6se) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [The Chrysalis Years Anthology](https://open.spotify.com/album/3xfFyoMTRqvu2JmYQDlKlZ) | 1:56 |
 | 42 | [Howling at the Moon \(Sha\-La\-La\)](https://open.spotify.com/track/5bhA5IQMnMqCCAAdNwSlCM) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Too Tough to Die \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4szj932hnsBBNAfKwXAIKD) | 4:07 |
 | 43 | [She Talks to Rainbows](https://open.spotify.com/track/0GVcm9IeiuWWOQk3yXI7yx) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Adios Amigos](https://open.spotify.com/album/5IhnXiHgiPfsuxbrrWsPUB) | 3:14 |
 | 44 | [I'm Against It \- 2018 Remaster](https://open.spotify.com/track/0VPvLrFJby7clnTauyU8Ah) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 49 | [Oh, Oh, I Love Her So \- 2017 Remaster](https://open.spotify.com/track/540McDHcq1tuwL44zzxxBk) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 2:09 |
 | 50 | [Chinese Rock \- 2002 Remaster](https://open.spotify.com/track/7hLzIknDV5aHHcEib9h5nY) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 2:28 |
 
-Snapshot ID: `ZoHxgAAAAAAiv0tI7u4EulyMkThgLFkY`
+Snapshot ID: `ZoNDAAAAAABpgzKhxoik979AQdYWThhr`

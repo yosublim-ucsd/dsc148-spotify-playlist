@@ -1,12 +1,12 @@
 {
-  "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 47019,
+  "description": "This Is Ulices Chaidez. Los temas esenciales, todos en una lista.",
+  "num_followers": 47023,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAAbpZjcugs6ITW6+XFJ6RWv",
+  "snapshot_id": "ZoNDAAAAAAAUKFwGY+Ch9oa+4958Ojrm",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Elegido",
-        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 178117,
-      "name": "Quer\u00eda Que Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/7C9YdiSZd6zCiAxBCc2j8K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Vida Del Dorian",
         "url": "https://open.spotify.com/album/4SZe7eStLJe6PmF6wFtxVf"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 224413,
       "name": "La Vida Del Dorian",
       "url": "https://open.spotify.com/track/0Ym47PchDzF9BpPZX5D7d8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 178117,
+      "name": "Quer\u00eda Que Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/7C9YdiSZd6zCiAxBCc2j8K"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
+        "name": "Si Ma\u00f1ana Muero",
+        "url": "https://open.spotify.com/album/2M6ON2uGKmvDVrsYZUxoEA"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 175381,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/76dGkDoNsU71kNhaU1idY9"
+      "duration_ms": 279359,
+      "name": "Si Ma\u00f1ana Muero",
+      "url": "https://open.spotify.com/track/64i6Y3siWfXmTrYYWBfTq7"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Ma\u00f1ana Muero",
-        "url": "https://open.spotify.com/album/2M6ON2uGKmvDVrsYZUxoEA"
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 279359,
-      "name": "Si Ma\u00f1ana Muero",
-      "url": "https://open.spotify.com/track/64i6Y3siWfXmTrYYWBfTq7"
+      "duration_ms": 175381,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/76dGkDoNsU71kNhaU1idY9"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exotic Corridos",
-        "url": "https://open.spotify.com/album/6tPkJeXGBpviuVmOymfncY"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        },
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 173476,
-      "name": "Cinderella de Mis Noches",
-      "url": "https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ten\u00eda Que Ser As\u00ed",
         "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 202249,
       "name": "Borrachos Por Amor",
       "url": "https://open.spotify.com/track/756car8F1QRXlZBmafNRcV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exotic Corridos",
+        "url": "https://open.spotify.com/album/6tPkJeXGBpviuVmOymfncY"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 173476,
+      "name": "Cinderella de Mis Noches",
+      "url": "https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 166751,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/3AgH8376tYAJebNhoWlAE1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ten\u00eda Que Ser As\u00ed",
         "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 216503,
       "name": "Si Alg\u00fan D\u00eda Te Encuentro",
       "url": "https://open.spotify.com/track/4l3WAw041PcsxlW9MqeQvR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 166751,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/3AgH8376tYAJebNhoWlAE1"
     },
     {
       "added_at": null,

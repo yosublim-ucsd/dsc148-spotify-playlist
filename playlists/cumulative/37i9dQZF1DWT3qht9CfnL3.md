@@ -4,13 +4,14 @@
 
 > Canciones de despecho para cantarle a quien te rompió el corazón.
 
-134 songs - 7 hr 36 min
+136 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000CANCIONES](https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [1000CANCIONES](https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl) | 4:06 | 2023-02-17 |  |
 | [23 Preguntas](https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [23 Preguntas](https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56) | 4:11 | 2021-12-15 |  |
 | [911](https://open.spotify.com/track/2TksvaRivgAEj780DgRB73) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [911](https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1) | 3:35 | 2021-12-15 |  |
+| [A Distancia](https://open.spotify.com/track/57OXmqVMeKe8AaEt6Y5FG1) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Mr\. W \(Deluxe\)](https://open.spotify.com/album/0uozDpPbY35wVv78dHMICs) | 3:16 | 2024-07-03 |  |
 | [Alcancía](https://open.spotify.com/track/020womZSqTEXnoDptWI6mL) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Alcancía](https://open.spotify.com/album/21FzQPHfPmEK4XLeETdC7o) | 3:18 | 2022-02-08 | 2022-03-21 |
 | [Alguien Más](https://open.spotify.com/track/5mROvpdGeu1vSbZhZoay5O) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Alguien Más](https://open.spotify.com/album/75hoyFZLUqsTxCAq2JpCGG) | 2:57 | 2021-12-15 |  |
 | [ALMA</3](https://open.spotify.com/track/1Mq86WnX64KKQoCuIaXT1t) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [ALMA</3](https://open.spotify.com/album/68bcjscUFhKvunT391ALub) | 2:24 | 2024-03-04 |  |
@@ -50,6 +51,7 @@
 | [Igual Que Ayer](https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Masterpiece: Nuestra Obra Maestra](https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE) | 3:52 | 2022-06-03 | 2022-06-09 |
 | [Ilógico](https://open.spotify.com/track/6a2PRnRqeXkzIaX0a3oLY2) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Ilógico](https://open.spotify.com/album/57sfaJzjp4CP6UcqZc7cm9) | 2:30 | 2023-05-19 |  |
 | [Imaginate](https://open.spotify.com/track/29ShXDWDedEwZkYc8Du08N) | [Rich Music LTD](https://open.spotify.com/artist/2kqUKsTuEj1lPbm6BSn1AU), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [The Academy](https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw) | 3:45 | 2021-12-15 |  |
+| [INGRATA4 \(dime si aún\)](https://open.spotify.com/track/6PBvW3ndFy2YafGRIniiNZ) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [INGRATA4 \(dime si aún\)](https://open.spotify.com/album/2ze4ym7uREFXo0nvswNpek) | 2:38 | 2024-07-03 |  |
 | [Inolvidable](https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Inolvidable](https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI) | 3:45 | 2021-12-15 |  |
 | [Istanbul](https://open.spotify.com/track/5OFdEs9eJVcwIh6dhSNi0q) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Istanbul](https://open.spotify.com/album/3ABBjz0LWeVcKhAuQMkJBE) | 2:28 | 2022-02-11 | 2022-03-21 |
 | [K.O](https://open.spotify.com/track/68UHfxaUV0dhNQDZPuTi16) | [Yuriel Es Musica](https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK), [Uriel Produce](https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC), [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK) | [K.O](https://open.spotify.com/album/7mUpaaMMXt1ZA8R2fuMeyi) | 3:16 | 2023-02-10 |  |

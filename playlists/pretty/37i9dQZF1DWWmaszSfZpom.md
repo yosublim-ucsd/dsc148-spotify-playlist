@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 960,407 likes - 93 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 960,364 likes - 93 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 52 | [Catucada Profunda](https://open.spotify.com/track/4chepxSHy5zbkLSpTVOJ1o) | [MC Igão](https://open.spotify.com/artist/7mFKwJmv39xvJc8Gtr227g), [Dj Gui Marques](https://open.spotify.com/artist/0O5Okg6jlyviFAxWxHzgDM), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu) | [Catucada Profunda](https://open.spotify.com/album/1EEgxBKfry7iIg1VNN63X5) | 2:53 |
 | 53 | [Talarica](https://open.spotify.com/track/4VUcZNeuit8e7zmSAI4GbL) | [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ) | [Talarica](https://open.spotify.com/album/2DWrdCrdqBLbK83AfvcAEP) | 2:42 |
 | 54 | [Chama Ela \(feat\. Pedro Sampaio\)](https://open.spotify.com/track/14kRWkCWBYfQqILflEcpSJ) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Chama Ela \(feat\. Pedro Sampaio\)](https://open.spotify.com/album/5st5iXtyMBDo6OLBUBqSpW) | 2:00 |
-| 55 | [FICA À VONTADE](https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [FICA À VONTADE](https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY) | 2:20 |
-| 56 | [Envolvimento](https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs) | [MC Loma e As Gêmeas Lacração](https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u) | [Envolvimento](https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv) | 2:26 |
+| 55 | [Envolvimento](https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs) | [MC Loma e As Gêmeas Lacração](https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u) | [Envolvimento](https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv) | 2:26 |
+| 56 | [FICA À VONTADE](https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [FICA À VONTADE](https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY) | 2:20 |
 | 57 | [Papum](https://open.spotify.com/track/0meYgE9n532T2GxRIQ4FFg) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Papum](https://open.spotify.com/album/3tFMDqGswZfRy3RX4Ek1bQ) | 2:19 |
 | 58 | [Finalidade Era Ficar em Casa](https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Finalidade Era Ficar em Casa](https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP) | 3:05 |
 | 59 | [Tá Tranquilo, Tá Favorável](https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR) | [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Tá Tranquilo, Tá Favorável](https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N) | 4:11 |

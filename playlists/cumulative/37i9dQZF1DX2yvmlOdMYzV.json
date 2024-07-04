@@ -8106,7 +8106,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 132049,
       "name": "Mango",
       "url": "https://open.spotify.com/track/4nQwVeAVqJOvb87LRblkzq"
@@ -11149,7 +11149,7 @@
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 214321,
+      "duration_ms": 214235,
       "name": "Shine On Me",
       "url": "https://open.spotify.com/track/3yVH9z8toGlCYGsmkTtT4D"
     },
@@ -11928,6 +11928,28 @@
       "duration_ms": 235630,
       "name": "Star",
       "url": "https://open.spotify.com/track/2QKzMseogTEJuEqVkESSUS"
+    },
+    {
+      "album": {
+        "name": "Starstruck (The Breakglass Series: Part 1)",
+        "url": "https://open.spotify.com/album/0Q0bIepy12XKLUfj5a05XK"
+      },
+      "artists": [
+        {
+          "name": "Busty and the Bass",
+          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
+        },
+        {
+          "name": "Jordan Brown",
+          "url": "https://open.spotify.com/artist/4bp25HfiPZW8JLc4DUEhP6"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237894,
+      "name": "Starstruck - The Breakglass Version",
+      "url": "https://open.spotify.com/track/6Mb4aH3v0Rvo67OqbzU4zV"
     },
     {
       "album": {

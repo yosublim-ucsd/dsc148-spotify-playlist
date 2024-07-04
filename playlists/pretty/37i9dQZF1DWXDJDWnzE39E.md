@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women opening up the pit\. Cover: Voice of Baceprot \#Glastonbury2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,859 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,960 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 37 | [Heaven's a Lie](https://open.spotify.com/track/0I7y3aEavUHgkt4aCreBDa) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies](https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN) | 4:46 |
 | 38 | [Ipecac](https://open.spotify.com/track/3dxhtEvuwDo8sCCECSmo49) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:18 |
 | 39 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
-| 40 | [Cry \(feat\. Grimes\)](https://open.spotify.com/track/0w1Wd17IygSVDMOZtKm4hi) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Cry \(feat\. Grimes\)](https://open.spotify.com/album/0osHesMrCdavp471L78uwu) | 2:06 |
-| 41 | [Antagonist](https://open.spotify.com/track/3XRknZ0U5NKW8r5g44ptA6) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Supernova](https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ) | 3:06 |
+| 40 | [Antagonist](https://open.spotify.com/track/3XRknZ0U5NKW8r5g44ptA6) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Supernova](https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ) | 3:06 |
+| 41 | [Cry \(feat\. Grimes\)](https://open.spotify.com/track/0w1Wd17IygSVDMOZtKm4hi) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Cry \(feat\. Grimes\)](https://open.spotify.com/album/0osHesMrCdavp471L78uwu) | 2:06 |
 | 42 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 |
 | 43 | [Dynasty](https://open.spotify.com/track/154gL4Xb5AsreMkcDlVFYS) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:08 |
 | 44 | [weapon](https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [weapon](https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7) | 3:17 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 58 | [Forsaken \- The Aftermath](https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forsaken \(The Aftermath\)](https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06) | 4:58 |
 | 59 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 |
 | 60 | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO) | 3:58 |
-| 61 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
-| 62 | [Cure 4 Psycho](https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Cure 4 Psycho](https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV) | 2:37 |
+| 61 | [Cure 4 Psycho](https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Cure 4 Psycho](https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV) | 2:37 |
+| 62 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
 | 63 | [Play The Greatest Hits](https://open.spotify.com/track/671gFjeiyqUEIgXfLKj956) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 2:27 |
 | 64 | [Deceiver, Deceiver](https://open.spotify.com/track/3jpGc7gcoTyQsrlfQ332Ql) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceiver, Deceiver](https://open.spotify.com/album/66LMLbz48jA8tbc561zxOO) | 3:51 |
 | 65 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Bang Ya Head](https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5) | 3:36 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 74 | [Ghost Myself](https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Ghost Myself](https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F) | 3:12 |
 | 75 | [Rise, Rebel, Resist](https://open.spotify.com/track/3mMxXlSR8l73NOlPshFxLm) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Smash The Control Machine](https://open.spotify.com/album/4VeNh83UPws5QEfyfZSUZU) | 3:59 |
 | 76 | [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 |
-| 77 | [Shadow](https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:48 |
-| 78 | [Do It So Good](https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Do It So Good](https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm) | 3:22 |
+| 77 | [Rip It Out](https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Rip It Out](https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg) | 3:15 |
+| 78 | [Shadow](https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:48 |
 | 79 | [welcome2paradise](https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [welcome2paradise](https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq) | 4:46 |
-| 80 | [Rip It Out](https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Rip It Out](https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg) | 3:15 |
+| 80 | [Do It So Good](https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Do It So Good](https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm) | 3:22 |
 
 Snapshot ID: `ZoCSlAAAAAAkdCtqo/H0YYXYpd7XZvQo`

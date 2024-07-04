@@ -1,6 +1,6 @@
 {
   "description": "The whole family will enjoy popular hits from yesterday and today!",
-  "num_followers": 586703,
+  "num_followers": 586710,
   "original_name": "Pop for Kids",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-06-28 14:11:47",
       "album": {
-        "name": "Lil Boo Thang",
-        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        }
-      ],
-      "duration_ms": 114233,
-      "name": "Lil Boo Thang",
-      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
-    },
-    {
-      "added_at": "2024-06-28 14:11:47",
-      "album": {
         "name": "American Beauty/American Psycho",
         "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 228360,
       "name": "Centuries",
       "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
+    },
+    {
+      "added_at": "2024-06-28 14:11:47",
+      "album": {
+        "name": "Lil Boo Thang",
+        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "duration_ms": 114233,
+      "name": "Lil Boo Thang",
+      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
     },
     {
       "added_at": "2024-06-28 14:11:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,675 likes - 75 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,731 likes - 75 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 58 | [The Limit](https://open.spotify.com/track/4Jwt4weWHww02btnBOGoGc) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Spiral](https://open.spotify.com/album/09JglS9OxbpOkj5LXBsxYN) | 5:21 |
 | 59 | [Gated Area](https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [All Inclusive](https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ) | 3:48 |
 | 60 | [Every Day the Sun Comes Up](https://open.spotify.com/track/6IgxlOpJ1o16NqJtNQwAUo) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Every Day the Sun Comes Up](https://open.spotify.com/album/3PAkSU2BpOnzNIxeVPARzt) | 5:16 |
-| 61 | [In the Hills](https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 4:25 |
-| 62 | [Jimtastic Blues](https://open.spotify.com/track/4z9kiFW5MYJTmtsz1oBGMp) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [MAN MADE](https://open.spotify.com/album/55UAEClz8M595uaN2PeHpX) | 3:33 |
+| 61 | [Jimtastic Blues](https://open.spotify.com/track/4z9kiFW5MYJTmtsz1oBGMp) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [MAN MADE](https://open.spotify.com/album/55UAEClz8M595uaN2PeHpX) | 3:33 |
+| 62 | [In the Hills](https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 4:25 |
 | 63 | [Too Soon You're Old](https://open.spotify.com/track/5DT1dW3RlOhAgdJFCAFjqS) | [Penny Goodwin](https://open.spotify.com/artist/3U2DfAQbDTbPbbgFoqqxeX) | [Too Soon You're Old](https://open.spotify.com/album/0raY20Cy0vd6NEpgFOOanJ) | 4:47 |
 | 64 | [I Love You](https://open.spotify.com/track/4R3QtFO6c0bnDpmOcfI7yY) | [Karriem](https://open.spotify.com/artist/0NadnuC5kb7WZgpZcqqM2d) | [I Love You](https://open.spotify.com/album/5M7Ud3DDi9t5krP1OJczTN) | 6:55 |
 | 65 | [I Tcho Tchass](https://open.spotify.com/track/6SwZUDlpJkTAor01wUbbx1) | [Akofa Akoussah](https://open.spotify.com/artist/074ZfBySwX9MfQAOlL0hJh) | [Akofa Akoussah](https://open.spotify.com/album/76MYmID5q42L381YAFUaEq) | 3:53 |

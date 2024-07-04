@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,984 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,966 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 33 | [El Balajú / Huapango](https://open.spotify.com/track/6ejQdiWRgOUK0f7ws7K0Sf) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:49 |
 | 34 | [La culebra](https://open.spotify.com/track/335MnaMIi8Gz61nxR9nWMW) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 2:48 |
 | 35 | [Esos Altos de Jalisco \- Remastered](https://open.spotify.com/track/6n0nFNFmYsPV277I0D4z2F) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Viva México \(Remastered\)](https://open.spotify.com/album/5Vvkijcd0ytPuVRv6CMjJz) | 2:39 |
-| 36 | [El Herradero \- Remastered](https://open.spotify.com/track/6ymFvQN3Tfd3CXpyJvIok3) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Voz de México \(Remastered\)](https://open.spotify.com/album/54UWox3ZbHcH8mREa1uJdE) | 3:13 |
-| 37 | [Los Machetes](https://open.spotify.com/track/1XO99D36hFTXxGQsRt606o) | [Mariachi De Zapopan De Armando López](https://open.spotify.com/artist/4tychdbMKCQHGKPZ9EC9n3) | [Los Mejores 20 Sones Jaliciences](https://open.spotify.com/album/2DXxRwnJVAO3gBzcqRPHNE) | 2:40 |
+| 36 | [Los Machetes](https://open.spotify.com/track/1XO99D36hFTXxGQsRt606o) | [Mariachi De Zapopan De Armando López](https://open.spotify.com/artist/4tychdbMKCQHGKPZ9EC9n3) | [Los Mejores 20 Sones Jaliciences](https://open.spotify.com/album/2DXxRwnJVAO3gBzcqRPHNE) | 2:40 |
+| 37 | [El Herradero \- Remastered](https://open.spotify.com/track/6ymFvQN3Tfd3CXpyJvIok3) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Voz de México \(Remastered\)](https://open.spotify.com/album/54UWox3ZbHcH8mREa1uJdE) | 3:13 |
 | 38 | [Las Abajenas](https://open.spotify.com/track/2lUFQMUDXVtga7AeuSagzK) | [Mariachi Cobre](https://open.spotify.com/artist/0BlBCNf7s8Ua8CeX1VKXZQ) | [Mariachi Cobre: Este Es Mi Mariachi](https://open.spotify.com/album/3nvfqq53rJB9lzBKVQQC2z) | 2:24 |
 | 39 | [Huapangos: La Noche y Tú / Tres Consejos / La del Rebozo Blanco / La Verdolaga](https://open.spotify.com/track/7yntezTde0vZ1ZWjUnCp4R) | [Fernando De La Mora](https://open.spotify.com/artist/7n0DgT7oELfGWb30YlRatt), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Rancheras](https://open.spotify.com/album/66CJEl4OlSPTwff6xnx8s0) | 7:05 |
 | 40 | [El Toro Serrano](https://open.spotify.com/track/5oyHCXNrSTALlOyu03v6WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Te Ha Dado Esa Mujer](https://open.spotify.com/album/4b5U1WWD6h0kJtr2Npv5HR) | 2:42 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 89 | [El Viajero](https://open.spotify.com/track/4qb8QUWJCrW3hHuUcSSvmC) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:36 |
 | 90 | [La Malagueña](https://open.spotify.com/track/1XB5aqI6iacCG4bXJSVb0j) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Las Canciones Mexicanas Que El Mundo Canta](https://open.spotify.com/album/3jIy0sTCKvICnOyFCWoxrM) | 4:54 |
 | 91 | [El Hidalguense](https://open.spotify.com/track/0hPhkx33UhHLy0cx4HcPsJ) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Viva el Mariachi!](https://open.spotify.com/album/5WL94bwHqhT6nKGgHdZYZG) | 3:17 |
-| 92 | [Camino Real de Colima](https://open.spotify.com/track/2JA99uajFc8S2fyiiHjCZ6) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Peerless 80 Aniversario \- 24 Exitos](https://open.spotify.com/album/4LnVq0V93CA5eievIW2Kmo) | 2:43 |
-| 93 | [La Verdolaga \(Huapango\)](https://open.spotify.com/track/3sZHqEOkquQLgcKddk2UfQ) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Rubén Fuentes, Miguel Martínez, Silvestre Vargas](https://open.spotify.com/album/4Zraph4xdA7evbLQbwT7In) | 3:10 |
+| 92 | [La Verdolaga \(Huapango\)](https://open.spotify.com/track/3sZHqEOkquQLgcKddk2UfQ) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Rubén Fuentes, Miguel Martínez, Silvestre Vargas](https://open.spotify.com/album/4Zraph4xdA7evbLQbwT7In) | 3:10 |
+| 93 | [Camino Real de Colima](https://open.spotify.com/track/2JA99uajFc8S2fyiiHjCZ6) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Peerless 80 Aniversario \- 24 Exitos](https://open.spotify.com/album/4LnVq0V93CA5eievIW2Kmo) | 2:43 |
 | 94 | [Popurri de Sones Jalisciences](https://open.spotify.com/track/2Pg0Zu7QpzYN1he0VfsN6L) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Bicentenario](https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi) | 4:01 |
 | 95 | [El Tapatio](https://open.spotify.com/track/2c7hsQ1qRngj4GhMopLE5W) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lástima Que Sean Ajenas](https://open.spotify.com/album/1aSlbjdsAjY93SiXsqwfIL) | 3:08 |
 | 96 | [Popurri de Sones Jarochos](https://open.spotify.com/track/2TYitjWzuBzwuX6bPJn3uK) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Bicentenario](https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi) | 3:35 |

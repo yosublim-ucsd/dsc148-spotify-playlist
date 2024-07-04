@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 
 > The biggest Christmas songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,570,300 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,569,854 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 | 51 | [Holly Jolly Christmas](https://open.spotify.com/track/5PuKlCjfEVIXl0ZBp5ZW9g) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 1:59 |
 | 52 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/15sxLiiChE5dCW3Y756oas) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 3:01 |
 | 53 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 |
-| 54 | [Cozy Little Christmas](https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Cozy Little Christmas](https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn) | 3:02 |
-| 55 | [2000 Miles \- 2007 Remaster](https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:40 |
+| 54 | [2000 Miles \- 2007 Remaster](https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:40 |
+| 55 | [Cozy Little Christmas](https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Cozy Little Christmas](https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn) | 3:02 |
 | 56 | [One More Sleep](https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 3:59 |
 | 57 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Jingle Bell Rock](https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R) | 2:06 |
 | 58 | [Christmas In Hollis](https://open.spotify.com/track/41onDks2UPbyjer5fMeUWf) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Tougher Than Leather \(Expanded Edition\)](https://open.spotify.com/album/5opAMGIf8Hn7xIaTPdHFDv) | 2:58 |

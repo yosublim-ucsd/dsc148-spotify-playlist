@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: <a href="spotify:artist:2XDaX0gxzE4eCXjPPAREEq">CAIN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,588,813 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,589,024 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

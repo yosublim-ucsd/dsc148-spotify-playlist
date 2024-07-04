@@ -1,6 +1,6 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 365970,
+  "num_followers": 366012,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-02-28 01:52:06",
       "album": {
-        "name": "Get Close",
-        "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 171218,
-      "name": "Get Close",
-      "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
-    },
-    {
-      "added_at": "2024-02-28 01:52:06",
-      "album": {
         "name": "11",
         "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 297717,
       "name": "Fight for Love",
       "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
+    },
+    {
+      "added_at": "2024-02-28 01:52:06",
+      "album": {
+        "name": "Get Close",
+        "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 171218,
+      "name": "Get Close",
+      "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
     },
     {
       "added_at": "2024-02-28 01:52:06",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-02-28 01:52:06",
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX"
-    },
-    {
-      "added_at": "2024-02-28 01:52:06",
-      "album": {
         "name": "hugo",
         "url": "https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 180723,
       "name": "Speed Of Plight",
       "url": "https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP"
+    },
+    {
+      "added_at": "2024-02-28 01:52:06",
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX"
     },
     {
       "added_at": "2024-02-28 01:52:06",

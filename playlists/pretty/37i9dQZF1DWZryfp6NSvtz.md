@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,521 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,571 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 30 | [Messed Up](https://open.spotify.com/track/5PlL00QzLWkbLvGh9QS78C) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Messed Up](https://open.spotify.com/album/4RLoH4gvN6km4MNknvUtFb) | 3:30 |
 | 31 | [AMERICAN SCUMBAG](https://open.spotify.com/track/5Ccd3PCgN0Qv3g5v92NoCI) | [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [AMERICAN SCUMBAG](https://open.spotify.com/album/3Y943OXrJcUwOnjd0tLygn) | 3:05 |
 | 32 | [Itch](https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Itch](https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt) | 2:24 |
-| 33 | [Shatter the Mountain](https://open.spotify.com/track/1KZCXjnaY1QgIpA7X7PU40) | [Zetra](https://open.spotify.com/artist/19OKi91yhqwfQqFyROn06f), [Kælan Mikla](https://open.spotify.com/artist/28meEMqGpDrolyQ9OVoDAH), [Sólveig Matthildur](https://open.spotify.com/artist/2QtMOKcnJQFfUyhnW0IQA3) | [Shatter The Mountain](https://open.spotify.com/album/409RS4R1LJquawtUovwrK5) | 3:50 |
+| 33 | [Shatter the Mountain](https://open.spotify.com/track/1KZCXjnaY1QgIpA7X7PU40) | [Zetra](https://open.spotify.com/artist/19OKi91yhqwfQqFyROn06f), [Kælan Mikla](https://open.spotify.com/artist/28meEMqGpDrolyQ9OVoDAH), [Sólveig Matthildur](https://open.spotify.com/artist/2QtMOKcnJQFfUyhnW0IQA3) | [Shatter the Mountain](https://open.spotify.com/album/409RS4R1LJquawtUovwrK5) | 3:50 |
 | 34 | [homewrecker](https://open.spotify.com/track/7gu8Qe3zpwMNczEQG5Kigs) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [I WANT YOU MORE THAN ANYBODY WANTS YOU](https://open.spotify.com/album/3xRV1SJjSfnih2UGMHrvNc) | 2:39 |
 | 35 | [Big Black X](https://open.spotify.com/track/3RsXpoUjM75M2tsiunmqMQ) | [X](https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K) | [Big Black X](https://open.spotify.com/album/7gD1uFkXuGufNdq34F5Pa0) | 3:34 |
 | 36 | [Thunder Lights on the Greatest Sky](https://open.spotify.com/track/1qBS4Mi2RPvf7GifjvdPLY) | [Black Rainbows](https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb) | [In Search Of The Cosmic Tale: Crossing The Galactic Portal](https://open.spotify.com/album/6KjA1z6VMjXUlOJnLUpagF) | 5:33 |

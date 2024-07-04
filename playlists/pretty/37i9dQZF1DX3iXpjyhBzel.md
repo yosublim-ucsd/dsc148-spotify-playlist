@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Nivea Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,057,530 likes - 100 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,057,655 likes - 100 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 9 | [Eu Sou Teu Pai \- Ao Vivo](https://open.spotify.com/track/6VpGzXV2kAxB59UOGGl4yP) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Sou Teu Pai \(Ao Vivo\)](https://open.spotify.com/album/2jAWSHULqC5TTIiPgf0QYV) | 6:16 |
 | 10 | [Me Atraiu \- Ao Vivo](https://open.spotify.com/track/51uirMnJ9sO1sxqrTqy1fP) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Atraiu \(Ao Vivo\)](https://open.spotify.com/album/4TwCz7XycpT1wxXsQ1Vq9U) | 8:23 |
 | 11 | [Por Causa Dele \- Ao Vivo](https://open.spotify.com/track/3fpsR525Hmk4eBm5wfJIQW) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Por Causa Dele](https://open.spotify.com/album/6tYiLNL7m3QtrGfFb4h0Y4) | 5:52 |
-| 12 | [Como Será O Amanhã](https://open.spotify.com/track/7cKf9UHzecwKD3hBRSGvTj) | [Igor Roque](https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8) | [Como Será O Amanhã](https://open.spotify.com/album/78U8cKx6Jl6K94h0QFbV8B) | 1:49 |
+| 12 | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 4:36 |
 | 13 | [Deserto \(Ao Vivo\)](https://open.spotify.com/track/1a5LfJGq0vuCWQ9Mme0Ac7) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Deserto \(Ao Vivo\)](https://open.spotify.com/album/3dRnmYdGMMDgBxx3vdd6yW) | 4:28 |
-| 14 | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 4:36 |
+| 14 | [Como Será O Amanhã](https://open.spotify.com/track/7cKf9UHzecwKD3hBRSGvTj) | [Igor Roque](https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8) | [Como Será O Amanhã](https://open.spotify.com/album/78U8cKx6Jl6K94h0QFbV8B) | 1:49 |
 | 15 | [A Boa Parte \- Ao Vivo](https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Boa Parte \(Ao Vivo\)](https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC) | 5:50 |
 | 16 | [Minha Calmaria](https://open.spotify.com/track/6ljL3K3Poa4le6P52a6bbJ) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Minha Calmaria](https://open.spotify.com/album/7yEu4W8HFWye8SXWakWNeJ) | 3:39 |
 | 17 | [Vem Me Buscar \- Ao Vivo](https://open.spotify.com/track/0bMAWV9DDN2fllpvCtpzWl) | [Jefferson & Suellen](https://open.spotify.com/artist/4Cp8MAVITZ6a8qjTVvhV28) | [Vem Me Buscar \(Ao Vivo\)](https://open.spotify.com/album/1IKD5Kb7LNGNo4D14yjinQ) | 6:58 |

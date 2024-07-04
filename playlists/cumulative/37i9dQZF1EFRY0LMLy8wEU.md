@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-25 songs - 2 hr 47 min
+26 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Look To The Lamb](https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Look To The Lamb](https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi) | 6:54 | 2024-06-13 |  |
 | [Lost In Your Love \- Live](https://open.spotify.com/track/5sKovJKHO8vXmY6sXb2LMo) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Brett Lee Miller](https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 4:15 | 2024-06-13 |  |
 | [No One Else \(Tear Down The Idols\) \- Live](https://open.spotify.com/track/2BrWJMN0CXvsHiaJRY7HFP) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 10:36 | 2024-06-13 |  |
+| [No One Like The Lord \(We Crown You\) \- Live](https://open.spotify.com/track/2bc8dK2VSBuLHMkqDfT8k1) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6), [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y) | [No One Like The Lord \(We Crown You\) \[Live\]](https://open.spotify.com/album/4Kdfe6DKx6mIpvlSHAaVzQ) | 6:01 | 2024-07-03 |  |
 | [No Orphans In Heaven \(Let It Be So On Earth\)](https://open.spotify.com/track/3zffhEA1Pf2wXz3sCJZ9fb) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [No Orphans In Heaven \(Let It Be So On Earth\)](https://open.spotify.com/album/0ZrAHRRR8NIaoXdXQ1G0ju) | 5:17 | 2024-06-13 |  |
 | [Nothing You Can't Do](https://open.spotify.com/track/5ElLO48oy2MmZaCUImxEb7) | [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR) | [Let Us Worship \- Philadelphia](https://open.spotify.com/album/2JHJVdpsoO32fQq1xVDIDS) | 5:36 | 2024-06-13 |  |
 | [People Get Ready \- Live](https://open.spotify.com/track/1eHZstNbimf2jwI52UhYoj) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [All My Life \(Live\)](https://open.spotify.com/album/20OP3HTmQsK5iQCuiC2Sba) | 5:57 | 2024-06-13 |  |

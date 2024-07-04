@@ -1,6 +1,6 @@
 {
   "description": "Can't stop, won't stop! Cover: Ufo361",
-  "num_followers": 142173,
+  "num_followers": 142175,
   "original_name": "DREAMCHASERS",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-06-28 12:41:46",
       "album": {
+        "name": "Normal ist",
+        "url": "https://open.spotify.com/album/0ZnYvx89atqe2pCS02CkO1"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "duration_ms": 101714,
+      "name": "Normal ist",
+      "url": "https://open.spotify.com/track/57S16PUBDXaKLYpEH9V4L5"
+    },
+    {
+      "added_at": "2024-06-28 12:41:46",
+      "album": {
         "name": "allein allein",
         "url": "https://open.spotify.com/album/6iXjICPffE7hHceHshw4oc"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 154600,
       "name": "allein allein",
       "url": "https://open.spotify.com/track/0pA0BVXTONNqSldC9FdiaU"
-    },
-    {
-      "added_at": "2024-06-28 12:41:46",
-      "album": {
-        "name": "Normal ist",
-        "url": "https://open.spotify.com/album/0ZnYvx89atqe2pCS02CkO1"
-      },
-      "artists": [
-        {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        }
-      ],
-      "duration_ms": 101714,
-      "name": "Normal ist",
-      "url": "https://open.spotify.com/track/57S16PUBDXaKLYpEH9V4L5"
     },
     {
       "added_at": "2024-06-28 12:41:46",
@@ -867,26 +867,6 @@
     {
       "added_at": "2024-06-28 12:41:46",
       "album": {
-        "name": "Majestic",
-        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
-      },
-      "artists": [
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        },
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Life Lessons (feat. Headie One)",
-      "url": "https://open.spotify.com/track/75cxFn3oHrwMRDUXsLTvUl"
-    },
-    {
-      "added_at": "2024-06-28 12:41:46",
-      "album": {
         "name": "Same Friends (with Lil Tjay)",
         "url": "https://open.spotify.com/album/1NEFmcySKqVun0sMj1EOZg"
       },
@@ -907,22 +887,22 @@
     {
       "added_at": "2024-06-28 12:41:46",
       "album": {
-        "name": "Zeiten \u00e4ndern nichts (feat. Kool Savas)",
-        "url": "https://open.spotify.com/album/0q3LXCOcFj6Kdu1zNYQgKu"
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
       },
       "artists": [
         {
-          "name": "1986zig",
-          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
         },
         {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
         }
       ],
-      "duration_ms": 151026,
-      "name": "Zeiten \u00e4ndern nichts (feat. Kool Savas)",
-      "url": "https://open.spotify.com/track/2qlO9odnqUIVu8MMyhdmFY"
+      "duration_ms": 153573,
+      "name": "Life Lessons (feat. Headie One)",
+      "url": "https://open.spotify.com/track/75cxFn3oHrwMRDUXsLTvUl"
     },
     {
       "added_at": "2024-06-28 12:41:46",
@@ -939,6 +919,26 @@
       "duration_ms": 179076,
       "name": "Gengar",
       "url": "https://open.spotify.com/track/4UiyqtfesTdX46vabNNVnv"
+    },
+    {
+      "added_at": "2024-06-28 12:41:46",
+      "album": {
+        "name": "Zeiten \u00e4ndern nichts (feat. Kool Savas)",
+        "url": "https://open.spotify.com/album/0q3LXCOcFj6Kdu1zNYQgKu"
+      },
+      "artists": [
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        },
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        }
+      ],
+      "duration_ms": 151026,
+      "name": "Zeiten \u00e4ndern nichts (feat. Kool Savas)",
+      "url": "https://open.spotify.com/track/2qlO9odnqUIVu8MMyhdmFY"
     },
     {
       "added_at": "2024-06-28 12:41:46",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-06-28 12:41:46",
       "album": {
+        "name": "Liebeslieder",
+        "url": "https://open.spotify.com/album/0MdYyPd4nmLeSAHEM6ABMZ"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "duration_ms": 126131,
+      "name": "Liebeslieder",
+      "url": "https://open.spotify.com/track/5fyDNSiWhZZdyFLanzRS6d"
+    },
+    {
+      "added_at": "2024-06-28 12:41:46",
+      "album": {
         "name": "Applaus",
         "url": "https://open.spotify.com/album/41wze4N3Ujbl9RhIuocqnv"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 156000,
       "name": "Applaus",
       "url": "https://open.spotify.com/track/2xcCTxGQouhdtXBbnfqjLF"
-    },
-    {
-      "added_at": "2024-06-28 12:41:46",
-      "album": {
-        "name": "Liebeslieder",
-        "url": "https://open.spotify.com/album/0MdYyPd4nmLeSAHEM6ABMZ"
-      },
-      "artists": [
-        {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        }
-      ],
-      "duration_ms": 126131,
-      "name": "Liebeslieder",
-      "url": "https://open.spotify.com/track/5fyDNSiWhZZdyFLanzRS6d"
     },
     {
       "added_at": "2024-06-28 12:41:46",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-06-28 12:41:46",
       "album": {
+        "name": "Bandobaby",
+        "url": "https://open.spotify.com/album/5tKhFf4aj7z4C9rljQsZg6"
+      },
+      "artists": [
+        {
+          "name": "Sosa La M",
+          "url": "https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC"
+        }
+      ],
+      "duration_ms": 103920,
+      "name": "Bandobaby",
+      "url": "https://open.spotify.com/track/7boObDJdYuCPRUpoWWVmrY"
+    },
+    {
+      "added_at": "2024-06-28 12:41:46",
+      "album": {
         "name": "KEIN BOCK",
         "url": "https://open.spotify.com/album/7a945kLwQNKTBlheutviOK"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 205664,
       "name": "KEIN BOCK",
       "url": "https://open.spotify.com/track/17nxI4xmWZ77QFqS6ORmXb"
-    },
-    {
-      "added_at": "2024-06-28 12:41:46",
-      "album": {
-        "name": "Bandobaby",
-        "url": "https://open.spotify.com/album/5tKhFf4aj7z4C9rljQsZg6"
-      },
-      "artists": [
-        {
-          "name": "Sosa La M",
-          "url": "https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC"
-        }
-      ],
-      "duration_ms": 103920,
-      "name": "Bandobaby",
-      "url": "https://open.spotify.com/track/7boObDJdYuCPRUpoWWVmrY"
     },
     {
       "added_at": "2024-06-28 12:41:46",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2024-06-28 12:41:46",
       "album": {
+        "name": "F\u00fcr immer Zuhaus\u2018 (feat. Montez)",
+        "url": "https://open.spotify.com/album/369u6YDhMq2L6RPy4cP7v6"
+      },
+      "artists": [
+        {
+          "name": "Nio",
+          "url": "https://open.spotify.com/artist/59QdJy846FAaNXcztOegY5"
+        },
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 144874,
+      "name": "F\u00fcr immer Zuhaus\u2018 (feat. Montez)",
+      "url": "https://open.spotify.com/track/6uYJJG8O09FDGSX6FMz3rz"
+    },
+    {
+      "added_at": "2024-06-28 12:41:46",
+      "album": {
         "name": "Welt Bereisen",
         "url": "https://open.spotify.com/album/3uTR0uzQcB4oRXktlnvjyw"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 146346,
       "name": "luft holen",
       "url": "https://open.spotify.com/track/4LOGPJg8TsT0RC5xyvLN30"
-    },
-    {
-      "added_at": "2024-06-28 12:41:46",
-      "album": {
-        "name": "F\u00fcr immer Zuhaus\u2018 (feat. Montez)",
-        "url": "https://open.spotify.com/album/369u6YDhMq2L6RPy4cP7v6"
-      },
-      "artists": [
-        {
-          "name": "Nio",
-          "url": "https://open.spotify.com/artist/59QdJy846FAaNXcztOegY5"
-        },
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 144874,
-      "name": "F\u00fcr immer Zuhaus\u2018 (feat. Montez)",
-      "url": "https://open.spotify.com/track/6uYJJG8O09FDGSX6FMz3rz"
     },
     {
       "added_at": "2024-06-28 12:41:46",

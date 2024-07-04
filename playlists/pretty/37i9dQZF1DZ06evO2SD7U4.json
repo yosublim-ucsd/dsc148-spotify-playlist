@@ -1,12 +1,12 @@
 {
-  "description": "This is Botellita De Jerez. The essential tracks, all in one playlist.",
-  "num_followers": 3805,
+  "description": "This Is Botellita De Jerez. Los temas esenciales, todos en una lista.",
+  "num_followers": 3806,
   "original_name": "This Is Botellita De Jerez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAADMPrQYaEgnhWAP6tx+BcZI",
+  "snapshot_id": "ZoNDAAAAAADt6kfJF58rbDWlWisYHdBu",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forjando Patria",
-        "url": "https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L"
+        "name": "Naco Es Chido",
+        "url": "https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 365240,
-      "name": "El Santos Contra la Tetona Mendoza",
-      "url": "https://open.spotify.com/track/5TbnhVJds6alLcGTzzbRVA"
+      "duration_ms": 208906,
+      "name": "El Zarco",
+      "url": "https://open.spotify.com/track/0J548pc7r0povSagoEJj0A"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naco Es Chido",
-        "url": "https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl"
+        "name": "Forjando Patria",
+        "url": "https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L"
       },
       "artists": [
         {
@@ -404,41 +404,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 208906,
-      "name": "El Zarco",
-      "url": "https://open.spotify.com/track/0J548pc7r0povSagoEJj0A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Venganza Del Hijo Del Guacarock",
-        "url": "https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 83626,
-      "name": "Bueno, Bueno Probando",
-      "url": "https://open.spotify.com/track/0UmWL3lUXe5iFUh6dJE5wg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Superespecial De Botellita de Jerez Ac\u00fastico Semi - Desenchufado en Vivo un Plug",
-        "url": "https://open.spotify.com/album/4lIYlrkQAGs8PtFP9TNUuA"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 458866,
-      "name": "La Balona de la Conquista",
-      "url": "https://open.spotify.com/track/0XzvypCYjCXRiV7V3f7X3v"
+      "duration_ms": 365240,
+      "name": "El Santos Contra la Tetona Mendoza",
+      "url": "https://open.spotify.com/track/5TbnhVJds6alLcGTzzbRVA"
     },
     {
       "added_at": null,
@@ -459,6 +427,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Superespecial De Botellita de Jerez Ac\u00fastico Semi - Desenchufado en Vivo un Plug",
+        "url": "https://open.spotify.com/album/4lIYlrkQAGs8PtFP9TNUuA"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 458866,
+      "name": "La Balona de la Conquista",
+      "url": "https://open.spotify.com/track/0XzvypCYjCXRiV7V3f7X3v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Venganza Del Hijo Del Guacarock",
+        "url": "https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 83626,
+      "name": "Bueno, Bueno Probando",
+      "url": "https://open.spotify.com/track/0UmWL3lUXe5iFUh6dJE5wg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Busca Amor",
         "url": "https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7"
       },
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Venganza Del Hijo Del Guacarock",
-        "url": "https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn"
+        "name": "Lo Pior Del Estuche De Peluche",
+        "url": "https://open.spotify.com/album/0kyCl9EeEJJeg1D2YFxSvS"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 40733,
-      "name": "Carefoca\u00b4s Swing",
-      "url": "https://open.spotify.com/track/2ITjRXPgv8VnhSL7vLa2r2"
+      "duration_ms": 293200,
+      "name": "El Tlalocman",
+      "url": "https://open.spotify.com/track/4iTxigDPw8KjLzwtaQCf4O"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
       "duration_ms": 150626,
       "name": "Favor de Llenar Con Letra de Molde",
       "url": "https://open.spotify.com/track/01AYELgjTZcl4YUBFXx9ON"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Pior Del Estuche De Peluche",
-        "url": "https://open.spotify.com/album/0kyCl9EeEJJeg1D2YFxSvS"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 293200,
-      "name": "El Tlalocman",
-      "url": "https://open.spotify.com/track/4iTxigDPw8KjLzwtaQCf4O"
     },
     {
       "added_at": null,
@@ -555,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forjando Patria",
-        "url": "https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L"
+        "name": "La Venganza Del Hijo Del Guacarock",
+        "url": "https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn"
       },
       "artists": [
         {
@@ -564,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 184760,
-      "name": "Vamos a la Alberca",
-      "url": "https://open.spotify.com/track/6lwlEDfZNSNESBQOiErgul"
+      "duration_ms": 40733,
+      "name": "Carefoca\u00b4s Swing",
+      "url": "https://open.spotify.com/track/2ITjRXPgv8VnhSL7vLa2r2"
     },
     {
       "added_at": null,
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni\u00f1a De Mis Ojos",
-        "url": "https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp"
+        "name": "Forjando Patria",
+        "url": "https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L"
       },
       "artists": [
         {
@@ -596,9 +580,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 205746,
-      "name": "La Calaca",
-      "url": "https://open.spotify.com/track/0mEOv7YRL877hbe9Xazu3y"
+      "duration_ms": 184760,
+      "name": "Vamos a la Alberca",
+      "url": "https://open.spotify.com/track/6lwlEDfZNSNESBQOiErgul"
     },
     {
       "added_at": null,
@@ -619,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forjando Patria",
-        "url": "https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L"
+        "name": "Ni\u00f1a De Mis Ojos",
+        "url": "https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp"
       },
       "artists": [
         {
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 213200,
-      "name": "El Chin Pun Cuaz",
-      "url": "https://open.spotify.com/track/4huuYKuzBzWDFXWhbDdUyV"
+      "duration_ms": 205746,
+      "name": "La Calaca",
+      "url": "https://open.spotify.com/track/0mEOv7YRL877hbe9Xazu3y"
     },
     {
       "added_at": null,
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/5q54omEW1Ko4xPvxlTO9GF"
+        "name": "Forjando Patria",
+        "url": "https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L"
       },
       "artists": [
         {
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 257946,
-      "name": "Vete Al Averno",
-      "url": "https://open.spotify.com/track/0FEtNfXErt5haCQc4KjYKC"
+      "duration_ms": 213200,
+      "name": "El Chin Pun Cuaz",
+      "url": "https://open.spotify.com/track/4huuYKuzBzWDFXWhbDdUyV"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 247253,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/1DiHDUg3iRQJODq2vk4Er5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/5q54omEW1Ko4xPvxlTO9GF"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 257946,
+      "name": "Vete Al Averno",
+      "url": "https://open.spotify.com/track/0FEtNfXErt5haCQc4KjYKC"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Venganza Del Hijo Del Guacarock",
-        "url": "https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn"
+        "name": "Ni\u00f1a De Mis Ojos",
+        "url": "https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 174600,
-      "name": "La Sorpresa",
-      "url": "https://open.spotify.com/track/4xIX8bh2MEE1QkGk1sbWxf"
+      "duration_ms": 146386,
+      "name": "La Taza De Caf\u00e9",
+      "url": "https://open.spotify.com/track/2TkaeVAbduLh9wcd2gfKob"
     }
   ],
   "unique_name": "This Is Botellita De Jerez",

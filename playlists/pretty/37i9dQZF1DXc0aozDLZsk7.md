@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 
 > Relax\. Abbandonati alla musica e ritrova la tua tranquillità.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,042 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,041 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 9 | [it’s time to go \- bonus track](https://open.spotify.com/track/1kdWw77ZpYOkhxeuhzU1j6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore \(deluxe version\)](https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG) | 4:14 |
 | 10 | [You Will Be Found \(with Summer Walker\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [You Will Be Found \(with Summer Walker\) \[From The “Dear Evan Hansen” Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf) | 3:57 |
 | 11 | [Saturday Nights](https://open.spotify.com/track/7d3s1XpWyIHZq20ie2ghSp) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Saturday Nights](https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv) | 2:58 |
-| 12 | [Stay](https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stay](https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q) | 2:57 |
+| 12 | [Carry You](https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:33 |
 | 13 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 |
-| 14 | [Carry You](https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:33 |
+| 14 | [Stay](https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stay](https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q) | 2:57 |
 | 15 | [Monument](https://open.spotify.com/track/5fyDvcGToba7B2XFcbVcLp) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Monument](https://open.spotify.com/album/5AKAwlLUNfA5NW5nmMNBxa) | 2:20 |
 | 16 | [Heartbeats](https://open.spotify.com/track/3jQyadhLTxpxadQlkFh2b8) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/5n7X5fHKzG6QaKAHGB7Y8A) | 2:40 |
 | 17 | [Lose You To Love Me \- Acoustic](https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [Lose You To Love Me \(Acoustic\)](https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd) | 4:14 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 60 | [Somewhere Only We Know](https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU) | 3:28 |
 | 61 | [Baby](https://open.spotify.com/track/17XvbAd3K1GOjWy5uQvK2U) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [What Will We Be \(Standard\)](https://open.spotify.com/album/0TrxxY9oApTHWo8QZv8MbI) | 3:05 |
 | 62 | [Tough](https://open.spotify.com/track/3XXGqZX50zbGqSOup74UH2) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Tough](https://open.spotify.com/album/0PDuUFWUxyM329z0JnT8GT) | 3:49 |
-| 63 | [simple times](https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:47 |
-| 64 | [emily](https://open.spotify.com/track/1sTtlEZeVeeEnxEztJNkYN) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 3:53 |
+| 63 | [emily](https://open.spotify.com/track/1sTtlEZeVeeEnxEztJNkYN) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 3:53 |
+| 64 | [simple times](https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:47 |
 | 65 | [Can I Be Him \- Acoustic Live Version](https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Can I Be Him \(Acoustic Live Version\)](https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah) | 5:05 |
 | 66 | [Use Somebody \- Acoustic Version](https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s) | [Isabella Celander](https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE) | [Use Somebody \(Acoustic Version\)](https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5) | 3:06 |
 | 67 | [This City Remix \(feat\. Anne\-Marie\)](https://open.spotify.com/track/1FtIOsS879PVgtHKw3C6Vs) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [This City Remix \(feat\. Anne\-Marie\)](https://open.spotify.com/album/1CaqKGLTbEJzGTikKtoQi6) | 3:17 |

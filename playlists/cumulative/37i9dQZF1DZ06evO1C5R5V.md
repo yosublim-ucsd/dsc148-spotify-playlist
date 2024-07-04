@@ -2,7 +2,7 @@
 
 ### [This Is El Haragán y Compañía](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1C5R5V)
 
-> This is El Haragán y Compañía\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is El Haragán y Compañía\. The essential tracks, all in one playlist.
 
 71 songs - 4 hr 32 min
 

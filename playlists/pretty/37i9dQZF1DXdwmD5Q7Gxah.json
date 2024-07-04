@@ -1,13 +1,29 @@
 {
   "description": "happy 5 years of lorem. thank you for listening :) cover: coco & clair clair",
-  "num_followers": 1151475,
+  "num_followers": 1151658,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoLoZAAAAADzwTepiacWf8o31HIukMFo",
+  "snapshot_id": "ZoXDbQAAAAA0oymyLQJzaoYzAmhfx3MJ",
   "tracks": [
+    {
+      "added_at": "2024-07-03 17:50:34",
+      "album": {
+        "name": "Ever Seen",
+        "url": "https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Ever Seen",
+      "url": "https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6"
+    },
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
@@ -41,20 +57,40 @@
       "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
     },
     {
-      "added_at": "2024-06-21 04:00:00",
+      "added_at": "2024-07-01 17:33:24",
       "album": {
-        "name": "Good Books",
-        "url": "https://open.spotify.com/album/29EyF9Puu6EeefvjUDZULV"
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 254693,
-      "name": "Good Books",
-      "url": "https://open.spotify.com/track/6mBADN7pcPwKacv3DAAavh"
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+    },
+    {
+      "added_at": "2024-07-03 21:32:29",
+      "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 188828,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
     },
     {
       "added_at": "2024-06-28 17:15:36",
@@ -73,6 +109,22 @@
       "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
     },
     {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Good Books",
+        "url": "https://open.spotify.com/album/29EyF9Puu6EeefvjUDZULV"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 254693,
+      "name": "Good Books",
+      "url": "https://open.spotify.com/track/6mBADN7pcPwKacv3DAAavh"
+    },
+    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "How To Be Human",
@@ -89,22 +141,6 @@
       "url": "https://open.spotify.com/track/534LueCImkuvFriDEIxUiS"
     },
     {
-      "added_at": "2024-07-01 17:33:24",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151739,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
-    },
-    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Timelapse",
@@ -119,6 +155,22 @@
       "duration_ms": 161400,
       "name": "Timelapse",
       "url": "https://open.spotify.com/track/1Cppjn0ioEQjIVBEYbfQ6R"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Itch",
+        "url": "https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "duration_ms": 144599,
+      "name": "Itch",
+      "url": "https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH"
     },
     {
       "added_at": "2024-06-25 15:54:13",
@@ -235,34 +287,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Streetwise",
-        "url": "https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW"
+        "name": "I liked it",
+        "url": "https://open.spotify.com/album/6A12F6iYT2oa853sJhXyHH"
       },
       "artists": [
         {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+          "name": "Pool Girl",
+          "url": "https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2"
         }
       ],
-      "duration_ms": 163720,
-      "name": "Violet",
-      "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Itch",
-        "url": "https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt"
-      },
-      "artists": [
-        {
-          "name": "Porches",
-          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
-        }
-      ],
-      "duration_ms": 144599,
-      "name": "Itch",
-      "url": "https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH"
+      "duration_ms": 147969,
+      "name": "I liked it",
+      "url": "https://open.spotify.com/track/28T6SN4z5CSSc0sd9gvr4k"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -295,6 +331,38 @@
       "duration_ms": 207795,
       "name": "Sexy to Someone",
       "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Streetwise",
+        "url": "https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 163720,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -347,22 +415,6 @@
       "duration_ms": 208400,
       "name": "Found But Dilla (feat. Duckwrth)",
       "url": "https://open.spotify.com/track/1l2BnZaqXq2fICXfwDjsuo"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "I liked it",
-        "url": "https://open.spotify.com/album/6A12F6iYT2oa853sJhXyHH"
-      },
-      "artists": [
-        {
-          "name": "Pool Girl",
-          "url": "https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2"
-        }
-      ],
-      "duration_ms": 147969,
-      "name": "I liked it",
-      "url": "https://open.spotify.com/track/28T6SN4z5CSSc0sd9gvr4k"
     },
     {
       "added_at": "2024-06-09 17:25:19",
@@ -549,22 +601,6 @@
       "url": "https://open.spotify.com/track/2cgWY4Vw6udOpM384eZYvS"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "If Only + No One Noticed",
-        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
-    },
-    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "Love Costs",
@@ -665,6 +701,22 @@
       "url": "https://open.spotify.com/track/3QDFH3hLEZZzz8Em1Wlkrb"
     },
     {
+      "added_at": "2024-06-09 17:25:19",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151125,
+      "name": "Sympathy is a knife",
+      "url": "https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW"
+    },
+    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Scream from New York, NY",
@@ -731,22 +783,6 @@
       "duration_ms": 131311,
       "name": "Teen Heartbreak",
       "url": "https://open.spotify.com/track/5Qo3V9WDGb8eqCZtCgvJMw"
-    },
-    {
-      "added_at": "2024-06-09 17:25:19",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151125,
-      "name": "Sympathy is a knife",
-      "url": "https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW"
     },
     {
       "added_at": "2024-05-31 04:06:42",
@@ -1015,22 +1051,6 @@
       "duration_ms": 158866,
       "name": "Take A Bite",
       "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/6HmLstTPXIcQLaJ8ELX0gO"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/1cBUacNdVpbYZok1Mtklcq"
     },
     {
       "added_at": "2024-06-14 04:00:00",

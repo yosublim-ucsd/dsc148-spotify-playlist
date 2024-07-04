@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3gEzVb.md) - [plain]
 
 > This is Daddy Lumba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,449 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,452 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,16 +17,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3gEzVb.md) - [plain]
 | 7 | [Mensei Da \(Harry\)](https://open.spotify.com/track/73rn8UZBXBh4SYbeMxUMX1) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Play Boy](https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG) | 5:55 |
 | 8 | [Yɛ Nea Woho B3tɔ Wo \- Yentie Obiaa](https://open.spotify.com/track/2gNwDM9tIkcNibBlRZzhtO) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Awosoɔ](https://open.spotify.com/album/13OdQBvMdf2jyt3PzRF4hh) | 5:53 |
 | 9 | [Bubra](https://open.spotify.com/track/0UNYnguChXs6BQPWgCTlhs) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Ateaa Tina](https://open.spotify.com/artist/5qo4spmGN6Q2HkxdxOTlWx) | [Bubra](https://open.spotify.com/album/5ES10MtwAoKPQ49cLh2RBd) | 4:01 |
-| 10 | [Aben Wo Aha](https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 5:10 |
-| 11 | [Adepa Hye Adepa Mu](https://open.spotify.com/track/5ds48ZOnVldBlcUudozuaF) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Me Ma Afa Wotrim Ne](https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx) | 4:08 |
+| 10 | [Adepa Hye Adepa Mu](https://open.spotify.com/track/5ds48ZOnVldBlcUudozuaF) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Me Ma Afa Wotrim Ne](https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx) | 4:08 |
+| 11 | [Aben Wo Aha](https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 5:10 |
 | 12 | [Bribi Gyegye Wo](https://open.spotify.com/track/38x7yHTK6rbrpHWPJyAJ9O) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Play Boy](https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG) | 6:15 |
 | 13 | [Enko Den](https://open.spotify.com/track/0LBECuTjYgvP3jwdv07Yet) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Enko Den](https://open.spotify.com/album/1ZapwPfnuJ8U2o8dwlHVC7) | 4:54 |
-| 14 | [Se Wo Da Ento Pono Mu](https://open.spotify.com/track/7EqpMSnnxLC9gECCX5Y6MJ) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 4:49 |
-| 15 | [Mensei Da Harry \- Remix](https://open.spotify.com/track/5uqQBiGPkwAdDicoBMNfWi) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Tokrom](https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2) | 8:02 |
-| 16 | [Se Sumye Kasa A](https://open.spotify.com/track/2zLuNDBvz6jSyCCtP7yseM) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Me Ma Afa Wotrim Ne](https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx) | 6:11 |
-| 17 | [Poison](https://open.spotify.com/track/6R665j6sltbo8FGZ3NIHmk) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Poison](https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC) | 5:49 |
-| 18 | [Pony](https://open.spotify.com/track/1nbapexUS9pgxFCEfgUmLg) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Ateaa Tina](https://open.spotify.com/artist/5qo4spmGN6Q2HkxdxOTlWx) | [Bubra](https://open.spotify.com/album/5ES10MtwAoKPQ49cLh2RBd) | 4:35 |
-| 19 | [Tokrom](https://open.spotify.com/track/0TIrrKrlkSThne6AZq4Z90) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Tokrom](https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2) | 6:24 |
+| 14 | [Mensei Da Harry \- Remix](https://open.spotify.com/track/5uqQBiGPkwAdDicoBMNfWi) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Tokrom](https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2) | 8:02 |
+| 15 | [Se Wo Da Ento Pono Mu](https://open.spotify.com/track/7EqpMSnnxLC9gECCX5Y6MJ) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 4:49 |
+| 16 | [Poison](https://open.spotify.com/track/6R665j6sltbo8FGZ3NIHmk) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Poison](https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC) | 5:49 |
+| 17 | [Se Sumye Kasa A](https://open.spotify.com/track/2zLuNDBvz6jSyCCtP7yseM) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Me Ma Afa Wotrim Ne](https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx) | 6:11 |
+| 18 | [Tokrom](https://open.spotify.com/track/0TIrrKrlkSThne6AZq4Z90) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Tokrom](https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2) | 6:24 |
+| 19 | [Pony](https://open.spotify.com/track/1nbapexUS9pgxFCEfgUmLg) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Ateaa Tina](https://open.spotify.com/artist/5qo4spmGN6Q2HkxdxOTlWx) | [Bubra](https://open.spotify.com/album/5ES10MtwAoKPQ49cLh2RBd) | 4:35 |
 | 20 | [Mpempem Do Me](https://open.spotify.com/track/7qnaLMZp1nBrph2Ta6M4Oe) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Sika](https://open.spotify.com/album/4xTYoouxVe7kIm93SFu3SO) | 6:18 |
 | 21 | [Makra Mo](https://open.spotify.com/track/4CRorlG9nVyy94L4pyG8VA) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Play Boy](https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG) | 6:27 |
 | 22 | [111666](https://open.spotify.com/track/3HpxjvcV8wCi9aDtXgq59t) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Poison](https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC) | 6:01 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3gEzVb.md) - [plain]
 | 26 | [Enye Nyame Den](https://open.spotify.com/track/3kzWyIfre7bl5jbZ86xKLc) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Play Boy](https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG) | 6:11 |
 | 27 | [Makoma Ho Toffee](https://open.spotify.com/track/0UydnFZZwlYY4b3HxoExqr) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Obi Ate Meso Buo](https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7) | 6:19 |
 | 28 | [Adaka Tea](https://open.spotify.com/track/2VJTJNreZHXBP5ObBNskOj) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Ateaa Tina](https://open.spotify.com/artist/5qo4spmGN6Q2HkxdxOTlWx) | [Bubra](https://open.spotify.com/album/5ES10MtwAoKPQ49cLh2RBd) | 5:17 |
-| 29 | [Ye Ne Wo Sere Kwa](https://open.spotify.com/track/2kV9XiGw9fZnGr52vlYCjy) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Ko Hye Po](https://open.spotify.com/album/64Brb5KbzpX1YyG9selHP8) | 4:51 |
+| 29 | [Hye Woho Den](https://open.spotify.com/track/5cZx8lSVEsibdjbsy5iUFM) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 6:23 |
 | 30 | [Medo Wasem Bebree](https://open.spotify.com/track/6iwpdRMT9DhLNaX1Q16naB) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Play Boy](https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG) | 6:33 |
-| 31 | [Hye Woho Den](https://open.spotify.com/track/5cZx8lSVEsibdjbsy5iUFM) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 6:23 |
+| 31 | [Ye Ne Wo Sere Kwa](https://open.spotify.com/track/2kV9XiGw9fZnGr52vlYCjy) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Ko Hye Po](https://open.spotify.com/album/64Brb5KbzpX1YyG9selHP8) | 4:51 |
 | 32 | [Sika Asem](https://open.spotify.com/track/5YxRF5BCv9X7bweEN1E7QX) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Sika Asem](https://open.spotify.com/album/1vmud1QfmKGiCaMooqZps8) | 5:46 |
 | 33 | [Nea Nyame Tumi Yɛ](https://open.spotify.com/track/7hjuGZWgPxZEUn0cSsG1f7) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Awosoɔ](https://open.spotify.com/album/13OdQBvMdf2jyt3PzRF4hh) | 4:57 |
 | 34 | [A Plus](https://open.spotify.com/track/3lmSEuWtALQtKtE1bEu0ab) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Me Ma Afa Wotrim Ne](https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx) | 4:25 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3gEzVb.md) - [plain]
 | 39 | [Emere Pa Beba](https://open.spotify.com/track/4MvzOnaUIoQp28H9BAZMLp) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy) | [Ahenfo Kyiniye](https://open.spotify.com/album/1pp1UCMS5bibfJioxWGlw7) | 4:36 |
 | 40 | [Nyame Nhyira Mmaa](https://open.spotify.com/track/3av5ImdM6r2kZjECEy1BJP) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 5:30 |
 | 41 | [Wate Asee](https://open.spotify.com/track/0beTO2UOwZe2FFjzOESo7j) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Ma To Odo Mu](https://open.spotify.com/album/04RTUc4ZjIWv5cim94K5C9) | 3:57 |
-| 42 | [Mesom Jesus](https://open.spotify.com/track/0uD0AwXLZc0gi0A4kd3PY7) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Mesom Jesus](https://open.spotify.com/album/7m8eqE0b1oW6W6hC909cfJ) | 6:29 |
-| 43 | [Osoo Me So Bone](https://open.spotify.com/track/32Ypl201EsHzkEcsxWFzhx) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Me Ma Afa Wotrim Ne](https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx) | 5:18 |
+| 42 | [Osoo Me So Bone](https://open.spotify.com/track/32Ypl201EsHzkEcsxWFzhx) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Me Ma Afa Wotrim Ne](https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx) | 5:18 |
+| 43 | [Mesom Jesus](https://open.spotify.com/track/0uD0AwXLZc0gi0A4kd3PY7) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Mesom Jesus](https://open.spotify.com/album/7m8eqE0b1oW6W6hC909cfJ) | 6:29 |
 | 44 | [Give & Take](https://open.spotify.com/track/1xWGJbqrej8506MiseCPgm) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Tokrom](https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2) | 4:49 |
 | 45 | [Ofon Na Ɛdi Asɛm Fo](https://open.spotify.com/track/2V82ttwikT8kbMLURYQyvx) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Ofon Na Ɛdi Asɛm Fo](https://open.spotify.com/album/6PJLm0zfTufZAUfqMWNHPU) | 5:36 |
-| 46 | [Fakye](https://open.spotify.com/track/03bhHIE1TyZag5a671BKiT) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 5:08 |
-| 47 | [Anadwo Yi Dei](https://open.spotify.com/track/1VhoeCvXoki1sCHUGdykPA) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Awarepa Ye Anibre](https://open.spotify.com/album/7Ld47eF2icOZ6c9hJrbZo2) | 5:51 |
+| 46 | [Anadwo Yi Dei](https://open.spotify.com/track/1VhoeCvXoki1sCHUGdykPA) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Awarepa Ye Anibre](https://open.spotify.com/album/7Ld47eF2icOZ6c9hJrbZo2) | 5:51 |
+| 47 | [Fakye](https://open.spotify.com/track/03bhHIE1TyZag5a671BKiT) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 5:08 |
 | 48 | [Tasso Eburo](https://open.spotify.com/track/2w9m5atgMBLlbFbzJwmtSo) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Tokrom](https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2) | 5:47 |
 | 49 | [Masede \- Se Wiase Nyinaa Beyi W'ama](https://open.spotify.com/track/3hrk3Y80NYWdxfWutylVBf) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP) | [Sika](https://open.spotify.com/album/4xTYoouxVe7kIm93SFu3SO) | 6:00 |
 | 50 | [Odo Beba Na Mawu](https://open.spotify.com/track/0XUiMXrm7KFQQnMstRXyaA) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Play Boy](https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG) | 5:23 |
 
-Snapshot ID: `ZoHxgAAAAABBwweJfvQPSvLOMXqlvsZf`
+Snapshot ID: `ZoNDAAAAAADxrLrQv4EOjXs6seZ9dgMr`

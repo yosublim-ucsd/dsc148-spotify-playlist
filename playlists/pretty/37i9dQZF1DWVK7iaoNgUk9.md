@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK7iaoNgUk9.md) - [plain]
 
 > se for pra sofrer, que seja com trilha sonora né não??
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,359 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,382 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK7iaoNgUk9.md) - [plain]
 | 29 | [All By Myself](https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 5:12 |
 | 30 | [Irreplaceable](https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day Deluxe Edition](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) | 3:47 |
 | 31 | [The End](https://open.spotify.com/track/1KNI1JuCWWGet03MmoRp4R) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The End](https://open.spotify.com/album/5O2KoaZbV8Op3Tsl0Fq7lI) | 3:17 |
-| 32 | [We Don't Talk Anymore \(feat\. Selena Gomez\)](https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nine Track Mind](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) | 3:37 |
-| 33 | [Te Amar Demais](https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM) | [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Te Amar Demais](https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR) | 2:11 |
+| 32 | [Te Amar Demais](https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM) | [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Te Amar Demais](https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR) | 2:11 |
+| 33 | [We Don't Talk Anymore \(feat\. Selena Gomez\)](https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nine Track Mind](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) | 3:37 |
 | 34 | [Goodbye](https://open.spotify.com/track/5PihYbt4uNnVt68l5D1SGb) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [The Vanishing Race](https://open.spotify.com/album/1WVavkGT7qfAwjCRrgYLN5) | 4:02 |
 | 35 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 |
 | 36 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK7iaoNgUk9.md) - [plain]
 | 40 | [Better in Time](https://open.spotify.com/track/2iXBZ32Fz5VDCLeE0JIdX5) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 3:54 |
 | 41 | [Come Back Home](https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Purple Hearts \(Original Soundtrack\)](https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd) | 2:56 |
 | 42 | [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 |
-| 43 | [The Show](https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:11 |
-| 44 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6qB7YcFpeBEQa0D6QO482y) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:18 |
+| 43 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6qB7YcFpeBEQa0D6QO482y) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:18 |
+| 44 | [The Show](https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:11 |
 | 45 | [We Go Down Together \(with Khalid\)](https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [We Go Down Together \(with Khalid\)](https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3) | 3:04 |
 | 46 | [Love You Goodbye](https://open.spotify.com/track/1ZWLWVqeEMWMKTlteS0yLH) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:16 |
 | 47 | [penhasco.](https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:06 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK7iaoNgUk9.md) - [plain]
 | 55 | [Lágrima Caindo](https://open.spotify.com/track/2noDaW3lk5wLiLGtn01yBG) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Interessante](https://open.spotify.com/album/2oY868IbyPjEOmHjeI3dCG) | 2:40 |
 | 56 | [Heartbeat](https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Heartbeat](https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d) | 3:51 |
 | 57 | [Haven't You Ever Been In Love Before?](https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:50 |
-| 58 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 |
-| 59 | [Swan Upon Leda](https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk) | 3:42 |
+| 58 | [Swan Upon Leda](https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk) | 3:42 |
+| 59 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 |
 | 60 | [DEPOIS DO UNIVERSO](https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [DEPOIS DO UNIVERSO](https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG) | 3:04 |
 
 Snapshot ID: `ZmuyMAAAAAC3lrRPlCD4OhUH9IueUg+t`

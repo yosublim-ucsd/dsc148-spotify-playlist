@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Maan Panu, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Ayaan Lall, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -740,7 +740,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 227027,
       "name": "Aate aur Jaate",
       "url": "https://open.spotify.com/track/1awpXuPFJPoXNjsbeIeJTt"
@@ -3454,6 +3454,24 @@
       "duration_ms": 214770,
       "name": "Canvas",
       "url": "https://open.spotify.com/track/5XjIaxOYxo1clgzCwsntfK"
+    },
+    {
+      "album": {
+        "name": "Chaahat Ka Maara",
+        "url": "https://open.spotify.com/album/7HvKn1CXqHiJFrTosZHk2G"
+      },
+      "artists": [
+        {
+          "name": "Akash Kaushal",
+          "url": "https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158315,
+      "name": "Chaahat Ka Maara",
+      "url": "https://open.spotify.com/track/3sS0DwsB8Vc58KOmGuzGM3"
     },
     {
       "album": {
@@ -7313,6 +7331,32 @@
     },
     {
       "album": {
+        "name": "Gumshuda",
+        "url": "https://open.spotify.com/album/0bGO5nZhr8QFvMbXOaVFqj"
+      },
+      "artists": [
+        {
+          "name": "Inder",
+          "url": "https://open.spotify.com/artist/0JHKFnKaOPRm9eIDDnY2vQ"
+        },
+        {
+          "name": "Shashank",
+          "url": "https://open.spotify.com/artist/7b1PDSa15cYCskjm0dZs1U"
+        },
+        {
+          "name": "AHAM",
+          "url": "https://open.spotify.com/artist/394HCaBCcNQSbV6jMjiLrQ"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Gumshuda",
+      "url": "https://open.spotify.com/track/7nOg1dqRB91id9dd1swebj"
+    },
+    {
+      "album": {
         "name": "Gumshuda Ki Talaash",
         "url": "https://open.spotify.com/album/3W6OaxRNKgmqkpb9rSoayR"
       },
@@ -7416,7 +7460,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 186666,
       "name": "Guzaarish",
       "url": "https://open.spotify.com/track/28q9ntJSmuAnZecaLg4TTQ"
@@ -7486,6 +7530,24 @@
       "duration_ms": 363176,
       "name": "Guzra Zamana",
       "url": "https://open.spotify.com/track/1CFXr04gdUgdu72Hq8sTt5"
+    },
+    {
+      "album": {
+        "name": "Haal",
+        "url": "https://open.spotify.com/album/6zL73j73QW8wdpf5zVgved"
+      },
+      "artists": [
+        {
+          "name": "Ayaan Lall",
+          "url": "https://open.spotify.com/artist/34v7tI5LqY4XZ58HpfHanB"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Haal",
+      "url": "https://open.spotify.com/track/4i6EqR8KjEGq0lLxlyAFNZ"
     },
     {
       "album": {
@@ -9303,6 +9365,24 @@
     },
     {
       "album": {
+        "name": "Ishq Mein Tumhare",
+        "url": "https://open.spotify.com/album/0JIspw2g0J49MiB4qZe6kF"
+      },
+      "artists": [
+        {
+          "name": "Shaswat Misshra",
+          "url": "https://open.spotify.com/artist/5yJ04Ao9S11hILffvwvA2d"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Ishq Mein Tumhare",
+      "url": "https://open.spotify.com/track/0RfDntzPZUCd7y8e8XTPlt"
+    },
+    {
+      "album": {
         "name": "Ishq-e-Haqiqi",
         "url": "https://open.spotify.com/album/3GQyTyprZy79wTmZhrj3RU"
       },
@@ -10474,7 +10554,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 220641,
       "name": "Kaafi Ho",
       "url": "https://open.spotify.com/track/22T4MBv5M2MD8febsWNbTV"
@@ -10550,7 +10630,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 173936,
       "name": "Kaash",
       "url": "https://open.spotify.com/track/2ctJVAeeQ4uJDOJyU2mNp8"
@@ -11102,7 +11182,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 267400,
       "name": "Kaise Faasle",
       "url": "https://open.spotify.com/track/7xn3lv3zsh5VhJetkFVLYz"
@@ -13989,6 +14069,28 @@
     },
     {
       "album": {
+        "name": "Mann Barkha",
+        "url": "https://open.spotify.com/album/02BaD9KhrCkdhrkABZxnDq"
+      },
+      "artists": [
+        {
+          "name": "Nikhil Pawar Music",
+          "url": "https://open.spotify.com/artist/1wZDI0EEb9RnZBkn8s1fck"
+        },
+        {
+          "name": "Chaitanya Shinde",
+          "url": "https://open.spotify.com/artist/2SemDb50jnZfWEqHerefdd"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244394,
+      "name": "Mann Barkha",
+      "url": "https://open.spotify.com/track/3TH4B6ss3d7ZfO9TOjATQD"
+    },
+    {
+      "album": {
         "name": "Mann Hi Mann",
         "url": "https://open.spotify.com/album/4BlnC44oK34POOEd3Qe9ap"
       },
@@ -14194,6 +14296,36 @@
       "duration_ms": 173211,
       "name": "Mausam",
       "url": "https://open.spotify.com/track/0a1dfhDsY0yVKpbc41Jafr"
+    },
+    {
+      "album": {
+        "name": "Mausam",
+        "url": "https://open.spotify.com/album/7wykscgLlq9Ch9VLLZPYAF"
+      },
+      "artists": [
+        {
+          "name": "The Anirudh Varma Collective",
+          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
+        },
+        {
+          "name": "Kavya Singh",
+          "url": "https://open.spotify.com/artist/3wfNDxeCBMNpbxBhKOk6rm"
+        },
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        },
+        {
+          "name": "Likhari",
+          "url": "https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291234,
+      "name": "Mausam",
+      "url": "https://open.spotify.com/track/2wMiTY6QDXqYlV6irpf12F"
     },
     {
       "album": {
@@ -16000,7 +16132,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 218823,
       "name": "O Maa",
       "url": "https://open.spotify.com/track/0LfXEVbv2f7bhnaNfFO1um"
@@ -16114,6 +16246,24 @@
       "duration_ms": 262025,
       "name": "Oh Rangreza",
       "url": "https://open.spotify.com/track/4JrTCU3JOJoGgu46aSMB4M"
+    },
+    {
+      "album": {
+        "name": "Okay With Me ?",
+        "url": "https://open.spotify.com/album/250Si14Yuyx7VAkxPmCreC"
+      },
+      "artists": [
+        {
+          "name": "Prinson Monthero",
+          "url": "https://open.spotify.com/artist/1CoXgwrfT8V2fJwMwnuXd1"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194120,
+      "name": "Okay With Me?",
+      "url": "https://open.spotify.com/track/6l3TaJIwsVSyK3ZIkMunXk"
     },
     {
       "album": {
@@ -16592,7 +16742,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 146895,
       "name": "Panchhiya",
       "url": "https://open.spotify.com/track/4zLRtm8UBnBBy7vxv0xzIO"
@@ -17481,6 +17631,28 @@
     },
     {
       "album": {
+        "name": "Raat Bhar",
+        "url": "https://open.spotify.com/album/5iFC9T5rB0WTF875CVF6oF"
+      },
+      "artists": [
+        {
+          "name": "Kunal Kartik",
+          "url": "https://open.spotify.com/artist/5Ir4GLCf68moNG6xd2yVPJ"
+        },
+        {
+          "name": "Palak Thakur",
+          "url": "https://open.spotify.com/artist/2FdYlY73pKNE6SGFXLhA9V"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183571,
+      "name": "Raat Bhar",
+      "url": "https://open.spotify.com/track/0Znhvael1cFvPlJZwxyKzN"
+    },
+    {
+      "album": {
         "name": "Raat Guzar Jayegi",
         "url": "https://open.spotify.com/album/0d0SEwjiwKyzfgiM4amnCV"
       },
@@ -17768,7 +17940,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 172041,
       "name": "Rango Se",
       "url": "https://open.spotify.com/track/3yBYYhGo0Yy9qFz96fNKEj"

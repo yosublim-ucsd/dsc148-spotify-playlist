@@ -4,7 +4,7 @@
 
 > Слухай українських виконавиць на повну гучність! Добірка створена спільно з Ruslana.
 
-129 songs - 6 hr 29 min
+130 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Не довіряй](https://open.spotify.com/track/2zxMPZxkOjkWUG25DtvCXU) | [YARIMA](https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc) | [Не довіряй \(PELYUH Remix\)](https://open.spotify.com/album/5rWgMjAJySyBVfwM2bjOTe) | 4:28 | 2024-06-04 | 2024-07-03 |
 | [незнайомі відстані](https://open.spotify.com/track/1lh1TYGudubIhoxzXauP20) | [GEREGA](https://open.spotify.com/artist/4JebPZEC1IzDKqxZPyvu13) | [незнайомі відстані](https://open.spotify.com/album/7J2VES7XpFnYiC0sFt51QB) | 2:44 | 2024-07-02 |  |
 | [Один в полі воїн](https://open.spotify.com/track/6lKGmg6Lc35LgIPi1BMG1P) | [Odyn v Kanoe](https://open.spotify.com/artist/5fMNki1cAszN37EYRTVdOc) | [Один в полі воїн](https://open.spotify.com/album/1KjDD4E3AnYLafDr8OZwTU) | 3:54 | 2024-07-02 |  |
-| [Ой, була була в батечка дочка](https://open.spotify.com/track/0d3hpgNM208IOJeMzQI5uk) | [ЩукаРиба](https://open.spotify.com/artist/4jP7pgVdiQW9gC7JaIIuwo) | [Колядки на кудрявці](https://open.spotify.com/album/0MYk6XpYc5JXITB7zJ5gXn) | 2:39 | 2024-07-02 |  |
+| [Ой, була була в батечка дочка](https://open.spotify.com/track/0d3hpgNM208IOJeMzQI5uk) | [ЩукаРиба](https://open.spotify.com/artist/4jP7pgVdiQW9gC7JaIIuwo) | [Колядки на кудрявці](https://open.spotify.com/album/0MYk6XpYc5JXITB7zJ5gXn) | 2:39 | 2024-07-02 | 2024-07-04 |
 | [Океан](https://open.spotify.com/track/08LayuaijWfGYDSxjV3yoZ) | [TAYANNA](https://open.spotify.com/artist/68MDO1qEjlimdYonMiWEZt) | [Океан](https://open.spotify.com/album/2448laObOVwKkG8hh3hzjV) | 3:12 | 2024-07-02 |  |
 | [Падай і вставай](https://open.spotify.com/track/5xvR22YWaS5D8Yw2smD9ax) | [Крихітка](https://open.spotify.com/artist/3GvCDEg7s8LxI3FNS1CWRK) | [Мегалюбов](https://open.spotify.com/album/4NzXoPVNRogA4z71sEAItY) | 3:48 | 2024-06-04 | 2024-07-03 |
 | [Плацебо](https://open.spotify.com/track/42VSTCKxfkEidkLBeFCVF6) | [TENDITNA](https://open.spotify.com/artist/4astXOaSlmzra789FKiaie) | [Плацебо](https://open.spotify.com/album/5pVnp0jTBNpk6CsEvkvEPs) | 3:25 | 2024-07-02 |  |
@@ -103,6 +103,7 @@
 | [поруч](https://open.spotify.com/track/4yIT6eVrg0A0SM6uYNfoUd) | [NANA](https://open.spotify.com/artist/5nqfEPmgH1HtrcPJeIt51G) | [поруч](https://open.spotify.com/album/0gTyHyKbOxruzX2CCtJvJY) | 3:01 | 2024-06-04 | 2024-07-03 |
 | [Потяг](https://open.spotify.com/track/6G3Or6Gntv1qDZaEJC7TUH) | [Настя Гонцул](https://open.spotify.com/artist/3HFo8jLzABeRjbns3XAUFt), [МУЛЬТИТРЕК](https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev) | [Потяг](https://open.spotify.com/album/6O8KnrazyK5SynLvfKQmXC) | 2:18 | 2024-07-02 |  |
 | [Потяги\-дороги](https://open.spotify.com/track/3GFyjzqifvHk4oPxICh4CU) | [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg), [МУЛЬТИТРЕК](https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev) | [Потяги\-дороги](https://open.spotify.com/album/3wUZlhtiouI5iVqM8aqrMj) | 2:26 | 2024-06-04 | 2024-07-03 |
+| [Пташка](https://open.spotify.com/track/4oBtIufK0FHs3dRmjw1NhC) | [SWOIIA](https://open.spotify.com/artist/2clfY2gHfctN2srhapZuLn) | [Пташка](https://open.spotify.com/album/1vW7bdEGfiq8O3U0aleEMr) | 2:22 | 2024-07-03 |  |
 | [Пішли на секонд](https://open.spotify.com/track/6ZzQUUZXFgiWJysOwzZpv4) | [Do Sliz](https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03) | [Пішли на секонд](https://open.spotify.com/album/4GQfa63ghCM0f34i0z3cry) | 2:59 | 2024-07-02 |  |
 | [Роздягни](https://open.spotify.com/track/6jSRnEoWUJZD5158iLMEYO) | [ANNEI](https://open.spotify.com/artist/3wD90XOIzI3qRJFmT0fJLx) | [Роздягни](https://open.spotify.com/album/1I1sBHnXK3avhSPI0Qab1W) | 2:28 | 2024-07-02 |  |
 | [Ромашка](https://open.spotify.com/track/2iBNUKNWU4xIf1PwZpQNMq) | [VikaVishnya](https://open.spotify.com/artist/1rbhnfWQHla3HOpMhwYSLK) | [Ромашка](https://open.spotify.com/album/11U9oJ0eQEoRoThygedeDi) | 3:47 | 2024-06-04 | 2024-07-03 |

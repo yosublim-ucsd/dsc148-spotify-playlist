@@ -1,6 +1,6 @@
 {
   "description": "la nueva ola de artistas con Maria Centeno en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 79656,
+  "num_followers": 79662,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
+        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 154070,
+      "name": "Eutanasia",
+      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "Desconocernos",
         "url": "https://open.spotify.com/album/2sjbd7CdcKMOFQuLZwAz9K"
       },
@@ -783,18 +799,18 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
-        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
+        "name": "las cosas no son lo que parecen",
+        "url": "https://open.spotify.com/album/6Zs6kAVDytdZAj7J3aaHRD"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
         }
       ],
-      "duration_ms": 154070,
-      "name": "Eutanasia",
-      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
+      "duration_ms": 174659,
+      "name": "las cosas no son lo que parecen",
+      "url": "https://open.spotify.com/track/0vZnu6jdjTA4QKhmJm3IQT"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -851,18 +867,18 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "las cosas no son lo que parecen",
-        "url": "https://open.spotify.com/album/6Zs6kAVDytdZAj7J3aaHRD"
+        "name": "M\u00e1s Que Amigas",
+        "url": "https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf"
       },
       "artists": [
         {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 174659,
-      "name": "las cosas no son lo que parecen",
-      "url": "https://open.spotify.com/track/0vZnu6jdjTA4QKhmJm3IQT"
+      "duration_ms": 161571,
+      "name": "M\u00e1s Que Amigas",
+      "url": "https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -919,18 +935,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "M\u00e1s Que Amigas",
-        "url": "https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf"
+        "name": "feliz a\u00f1o nuevo",
+        "url": "https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        },
+        {
+          "name": "Oscar Plaza",
+          "url": "https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U"
         }
       ],
-      "duration_ms": 161571,
-      "name": "M\u00e1s Que Amigas",
-      "url": "https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki"
+      "duration_ms": 163451,
+      "name": "feliz a\u00f1o nuevo",
+      "url": "https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -999,28 +1019,8 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "feliz a\u00f1o nuevo",
-        "url": "https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        },
-        {
-          "name": "Oscar Plaza",
-          "url": "https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U"
-        }
-      ],
-      "duration_ms": 163451,
-      "name": "feliz a\u00f1o nuevo",
-      "url": "https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "sobrenatural",
-        "url": "https://open.spotify.com/album/2U5tY9lX0tBVmQz0VdZXJE"
+        "name": "nena",
+        "url": "https://open.spotify.com/album/0dVgnsyb0HAdDTAMW2kI54"
       },
       "artists": [
         {
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
         }
       ],
-      "duration_ms": 157440,
-      "name": "sobrenatural",
-      "url": "https://open.spotify.com/track/4zGXFMFwRCQfdBCtme3TuP"
+      "duration_ms": 183964,
+      "name": "nena",
+      "url": "https://open.spotify.com/track/1WAre4IzA6tYI5qxRqzFQM"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1191,8 +1191,8 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "nena",
-        "url": "https://open.spotify.com/album/0dVgnsyb0HAdDTAMW2kI54"
+        "name": "sobrenatural",
+        "url": "https://open.spotify.com/album/2U5tY9lX0tBVmQz0VdZXJE"
       },
       "artists": [
         {
@@ -1200,9 +1200,9 @@
           "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
         }
       ],
-      "duration_ms": 183964,
-      "name": "nena",
-      "url": "https://open.spotify.com/track/1WAre4IzA6tYI5qxRqzFQM"
+      "duration_ms": 157440,
+      "name": "sobrenatural",
+      "url": "https://open.spotify.com/track/4zGXFMFwRCQfdBCtme3TuP"
     },
     {
       "added_at": "2024-06-28 06:00:00",

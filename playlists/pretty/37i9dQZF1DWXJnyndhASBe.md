@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Miszel
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,789 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,916 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 19 | [4 RANO](https://open.spotify.com/track/0yeSXZ4we6LzZUyUhoGOIS) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [4 RANO](https://open.spotify.com/album/57GcfcB49w7OmlOzb5EPO8) | 2:00 |
 | 20 | [NIEBIESKI DOM](https://open.spotify.com/track/5qpT6hrWLhn8Vtsb12XUih) | [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [Lanek](https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG) | [POLONN](https://open.spotify.com/album/3XZ5XgJgUtCNNFr6VrU8PW) | 2:16 |
 | 21 | [Te numery](https://open.spotify.com/track/3CgWmnnox6kF0NvJpZWSv8) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [PG$](https://open.spotify.com/artist/5qgkVkdZIIBHLdnrpa3w3s), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [PG$](https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs) | 2:37 |
-| 22 | [WCIĄŻ JESTEM CHORY](https://open.spotify.com/track/3aUXmVAY0lwWCTkQydGows) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v) | [WCIĄŻ JESTEM CHORY](https://open.spotify.com/album/06SlkjAddTNRLPXkmonYZm) | 2:47 |
+| 22 | [WCIĄŻ JESTEM CHORY](https://open.spotify.com/track/3aUXmVAY0lwWCTkQydGows) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v), [Beathoven](https://open.spotify.com/artist/0U8Id4RTrZggMdn3v6sz3k) | [WCIĄŻ JESTEM CHORY](https://open.spotify.com/album/06SlkjAddTNRLPXkmonYZm) | 2:47 |
 | 23 | [intro do płyty mojego życia](https://open.spotify.com/track/2U8H8z1JYFRUcKFpoLLLiJ) | [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [intro do płyty mojego życia](https://open.spotify.com/album/1Kv1WndVgSZhwOxIbwmUKg) | 3:13 |
 | 24 | [Rekin](https://open.spotify.com/track/3O71SAl44FrQgdRCSIJPfG) | [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu) | [Rekin](https://open.spotify.com/album/7wJ7Hi0tPXWeNPmw0lddZ6) | 2:35 |
 | 25 | [Smak Twych Ust](https://open.spotify.com/track/0W2vKOb9aBqfo98GZqsQWA) | [Kacper HTA](https://open.spotify.com/artist/39lKxb2ZHaygwUTthI92SS), [Hinol Polska Wersja](https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Smak Twych Ust](https://open.spotify.com/album/3VcsFp1gCinL36OHQd3DGD) | 2:45 |

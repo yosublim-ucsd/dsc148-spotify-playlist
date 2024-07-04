@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 94902,
+  "num_followers": 94904,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-06-27 16:00:00",
       "album": {
-        "name": "\u50cf\u662f\u4e2d\u4e86\u4f60\u7684\u6bd2",
-        "url": "https://open.spotify.com/album/6wKMx1vYfKxc9qa4STUAeA"
-      },
-      "artists": [
-        {
-          "name": "Ginger",
-          "url": "https://open.spotify.com/artist/4jD5dWcrFo81LgODawZv5k"
-        }
-      ],
-      "duration_ms": 174905,
-      "name": "\u50cf\u662f\u4e2d\u4e86\u4f60\u7684\u6bd2",
-      "url": "https://open.spotify.com/track/3K9ZM3USNMJOLjJ2xBz6iE"
-    },
-    {
-      "added_at": "2024-06-27 16:00:00",
-      "album": {
         "name": "\u5973\u5b69\u6200\u611b\u624b\u518a HER GUIDE TO LOVE",
         "url": "https://open.spotify.com/album/0NLXJUsmTyWRahb7lchwX8"
       },
@@ -759,34 +743,18 @@
     {
       "added_at": "2024-06-27 16:00:00",
       "album": {
-        "name": "SUPERMAN",
-        "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
+        "name": "\u50cf\u662f\u4e2d\u4e86\u4f60\u7684\u6bd2",
+        "url": "https://open.spotify.com/album/6wKMx1vYfKxc9qa4STUAeA"
       },
       "artists": [
         {
-          "name": "Gary Chaw",
-          "url": "https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK"
+          "name": "Ginger",
+          "url": "https://open.spotify.com/artist/4jD5dWcrFo81LgODawZv5k"
         }
       ],
-      "duration_ms": 244690,
-      "name": "\u5169\u96bb\u6200\u4eba",
-      "url": "https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN"
-    },
-    {
-      "added_at": "2024-06-27 16:00:00",
-      "album": {
-        "name": "\u611b\u60c5\u5132\u84c4\u7f50",
-        "url": "https://open.spotify.com/album/78jEnDvmVjL5wUHhczxxj4"
-      },
-      "artists": [
-        {
-          "name": "\u674e\u627f\u94c9",
-          "url": "https://open.spotify.com/artist/5YtsROKebAVSnTpAbLChwF"
-        }
-      ],
-      "duration_ms": 213125,
-      "name": "\u611b\u60c5\u5132\u84c4\u7f50",
-      "url": "https://open.spotify.com/track/7aF8wcSnXKyhKsmGPDZ31L"
+      "duration_ms": 174905,
+      "name": "\u50cf\u662f\u4e2d\u4e86\u4f60\u7684\u6bd2",
+      "url": "https://open.spotify.com/track/3K9ZM3USNMJOLjJ2xBz6iE"
     },
     {
       "added_at": "2024-06-27 16:00:00",
@@ -807,6 +775,22 @@
     {
       "added_at": "2024-06-27 16:00:00",
       "album": {
+        "name": "SUPERMAN",
+        "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
+      },
+      "artists": [
+        {
+          "name": "Gary Chaw",
+          "url": "https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK"
+        }
+      ],
+      "duration_ms": 244690,
+      "name": "\u5169\u96bb\u6200\u4eba",
+      "url": "https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN"
+    },
+    {
+      "added_at": "2024-06-27 16:00:00",
+      "album": {
         "name": "\u9047\u5230\u4f60 (\u96fb\u8996\u5287\u300a\u539f\u4f86\u6211\u5f88\u611b\u4f60\u300b\u7247\u982d\u66f2)",
         "url": "https://open.spotify.com/album/1Y61uReThvJfYvzMAvhJc1"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 245527,
       "name": "\u9047\u5230\u4f60 - \u96fb\u8996\u5287\u300a\u539f\u4f86\u6211\u5f88\u611b\u4f60\u300b\u7247\u982d\u66f2",
       "url": "https://open.spotify.com/track/3IEGZEXPl9Rk1MLE0khnZi"
+    },
+    {
+      "added_at": "2024-06-27 16:00:00",
+      "album": {
+        "name": "\u611b\u60c5\u5132\u84c4\u7f50",
+        "url": "https://open.spotify.com/album/78jEnDvmVjL5wUHhczxxj4"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u627f\u94c9",
+          "url": "https://open.spotify.com/artist/5YtsROKebAVSnTpAbLChwF"
+        }
+      ],
+      "duration_ms": 213125,
+      "name": "\u611b\u60c5\u5132\u84c4\u7f50",
+      "url": "https://open.spotify.com/track/7aF8wcSnXKyhKsmGPDZ31L"
     },
     {
       "added_at": "2024-06-27 16:00:00",
@@ -859,22 +859,34 @@
     {
       "added_at": "2024-06-27 16:00:00",
       "album": {
-        "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b"
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/1zJjFyrP8j58HHcvBj9okd"
       },
       "artists": [
         {
-          "name": "TIA RAY",
-          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
-        },
-        {
-          "name": "Xiao Yu",
-          "url": "https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA"
+          "name": "Marcus Lee",
+          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
         }
       ],
-      "duration_ms": 273950,
-      "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
-      "url": "https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB"
+      "duration_ms": 180467,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/1xNkoQPvWTY9HfnW4YkYeL"
+    },
+    {
+      "added_at": "2024-06-27 16:00:00",
+      "album": {
+        "name": "Mojito",
+        "url": "https://open.spotify.com/album/1RDzEskhUbajEbNp9xeglp"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 185008,
+      "name": "Mojito",
+      "url": "https://open.spotify.com/track/0EFJeBb373Aau6lnrpgvXo"
     },
     {
       "added_at": "2024-06-27 16:00:00",
@@ -895,6 +907,26 @@
     {
       "added_at": "2024-06-27 16:00:00",
       "album": {
+        "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b"
+      },
+      "artists": [
+        {
+          "name": "TIA RAY",
+          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
+        },
+        {
+          "name": "Xiao Yu",
+          "url": "https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA"
+        }
+      ],
+      "duration_ms": 273950,
+      "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB"
+    },
+    {
+      "added_at": "2024-06-27 16:00:00",
+      "album": {
         "name": "\u7d66\u4f60\u610f\u5916\u7684\u751c",
         "url": "https://open.spotify.com/album/0nFrWgXz7YP94HOu37UUEO"
       },
@@ -907,22 +939,6 @@
       "duration_ms": 246334,
       "name": "\u7d66\u4f60\u610f\u5916\u7684\u751c",
       "url": "https://open.spotify.com/track/1GAG6OIPYa02KAUWBfuByF"
-    },
-    {
-      "added_at": "2024-06-27 16:00:00",
-      "album": {
-        "name": "Mojito",
-        "url": "https://open.spotify.com/album/1RDzEskhUbajEbNp9xeglp"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 185008,
-      "name": "Mojito",
-      "url": "https://open.spotify.com/track/0EFJeBb373Aau6lnrpgvXo"
     },
     {
       "added_at": "2024-06-27 16:00:00",
@@ -955,22 +971,6 @@
       "duration_ms": 249069,
       "name": "\u731c\uff08\u7535\u5f71\u300a\u70ed\u8fa3\u6eda\u70eb\u300b\u70ed\u8fa3\u5fc3\u52a8\u66f2\uff09",
       "url": "https://open.spotify.com/track/58OKa3g5rRVpFer06Z1Ahw"
-    },
-    {
-      "added_at": "2024-06-27 16:00:00",
-      "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/1zJjFyrP8j58HHcvBj9okd"
-      },
-      "artists": [
-        {
-          "name": "Marcus Lee",
-          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
-        }
-      ],
-      "duration_ms": 180467,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/1xNkoQPvWTY9HfnW4YkYeL"
     },
     {
       "added_at": "2024-06-27 16:00:00",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2024-06-27 16:00:00",
       "album": {
+        "name": "\u60f3\u8981\u548c\u4f60",
+        "url": "https://open.spotify.com/album/3XOXB0PHD6dFQyuIIZGI1o"
+      },
+      "artists": [
+        {
+          "name": "Marcus Lee",
+          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
+        },
+        {
+          "name": "MAD",
+          "url": "https://open.spotify.com/artist/17Ff1xhblc88EqazU5B3Ze"
+        }
+      ],
+      "duration_ms": 197233,
+      "name": "\u60f3\u8981\u548c\u4f60",
+      "url": "https://open.spotify.com/track/0yNpiYOgmQkNLO42IgRj6E"
+    },
+    {
+      "added_at": "2024-06-27 16:00:00",
+      "album": {
         "name": "\u591a\u51fa\u4f86\u7684\u81ea\u7531",
         "url": "https://open.spotify.com/album/5ODtcfQN1zzG3KuvyQTbKg"
       },
@@ -1107,26 +1127,6 @@
     {
       "added_at": "2024-06-27 16:00:00",
       "album": {
-        "name": "\u60f3\u8981\u548c\u4f60",
-        "url": "https://open.spotify.com/album/3XOXB0PHD6dFQyuIIZGI1o"
-      },
-      "artists": [
-        {
-          "name": "Marcus Lee",
-          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
-        },
-        {
-          "name": "MAD",
-          "url": "https://open.spotify.com/artist/17Ff1xhblc88EqazU5B3Ze"
-        }
-      ],
-      "duration_ms": 197233,
-      "name": "\u60f3\u8981\u548c\u4f60",
-      "url": "https://open.spotify.com/track/0yNpiYOgmQkNLO42IgRj6E"
-    },
-    {
-      "added_at": "2024-06-27 16:00:00",
-      "album": {
         "name": "\u660e\u660e\u5c31\u5f88\u310d\u3127\u3125\u4f46\u6211\u9084\u662f\u559c\u6b61\u59b3",
         "url": "https://open.spotify.com/album/5p46ZRmGIMGZgbeHV5fp6i"
       },
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-06-27 16:00:00",
       "album": {
-        "name": "\u6492\u5a07\u53ea\u5bf9\u4f60\u6709\u6548 (\u771f\u4eba\u4e92\u52a8\u5f71\u6e38\u300a\u604b\u7231\u5355\u9009\u9898\u300b\u4e3b\u9898\u66f2)",
-        "url": "https://open.spotify.com/album/69fb1BAbz9oerXRSnDOzHZ"
-      },
-      "artists": [
-        {
-          "name": "Kenji Wu",
-          "url": "https://open.spotify.com/artist/1MgybycH8k36NX0Ifzlddb"
-        }
-      ],
-      "duration_ms": 122168,
-      "name": "\u6492\u5a07\u53ea\u5bf9\u4f60\u6709\u6548 - \u771f\u4eba\u4e92\u52a8\u5f71\u6e38\u300a\u604b\u7231\u5355\u9009\u9898\u300b\u4e3b\u9898\u66f2",
-      "url": "https://open.spotify.com/track/5fvrJqFKGlVXQGLUlxVs6k"
-    },
-    {
-      "added_at": "2024-06-27 16:00:00",
-      "album": {
         "name": "\u731c\u4e00\u731c (\u7db2\u8def\u5287\u300a\u81f4\u6211\u5011\u6696\u6696\u7684\u5c0f\u6642\u5149\u300b\u63d2\u66f2)",
         "url": "https://open.spotify.com/album/17J8RqYCYwucOeGmbj89EW"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 227568,
       "name": "\u731c\u4e00\u731c (\u7db2\u8def\u5287\u300a\u81f4\u6211\u5011\u6696\u6696\u7684\u5c0f\u6642\u5149\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/69AXIAN7Wni7y7LJaZVY6e"
+    },
+    {
+      "added_at": "2024-06-27 16:00:00",
+      "album": {
+        "name": "\u6492\u5a07\u53ea\u5bf9\u4f60\u6709\u6548 (\u771f\u4eba\u4e92\u52a8\u5f71\u6e38\u300a\u604b\u7231\u5355\u9009\u9898\u300b\u4e3b\u9898\u66f2)",
+        "url": "https://open.spotify.com/album/69fb1BAbz9oerXRSnDOzHZ"
+      },
+      "artists": [
+        {
+          "name": "Kenji Wu",
+          "url": "https://open.spotify.com/artist/1MgybycH8k36NX0Ifzlddb"
+        }
+      ],
+      "duration_ms": 122168,
+      "name": "\u6492\u5a07\u53ea\u5bf9\u4f60\u6709\u6548 - \u771f\u4eba\u4e92\u52a8\u5f71\u6e38\u300a\u604b\u7231\u5355\u9009\u9898\u300b\u4e3b\u9898\u66f2",
+      "url": "https://open.spotify.com/track/5fvrJqFKGlVXQGLUlxVs6k"
     },
     {
       "added_at": "2024-06-27 16:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-06-27 16:00:00",
       "album": {
-        "name": "\u7231\u4f60\u4e0d\u662f\u4e24\u4e09\u5929",
-        "url": "https://open.spotify.com/album/3dyc0b1Pd7jLhZIgnLpjGF"
-      },
-      "artists": [
-        {
-          "name": "\u7126\u9081\u5947",
-          "url": "https://open.spotify.com/artist/1FyPWrq6lU8yPFM7IXj6oH"
-        }
-      ],
-      "duration_ms": 250857,
-      "name": "\u7231\u4f60\u4e0d\u662f\u4e24\u4e09\u5929",
-      "url": "https://open.spotify.com/track/1VWeBAAUeNWllv1edNggTz"
-    },
-    {
-      "added_at": "2024-06-27 16:00:00",
-      "album": {
         "name": "\u6eab\u6cc9",
         "url": "https://open.spotify.com/album/59R817eQRIXIiAemtJKp6x"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 283360,
       "name": "\u6eab\u6cc9",
       "url": "https://open.spotify.com/track/04GpBu5gm14iLJRfmwi4RS"
+    },
+    {
+      "added_at": "2024-06-27 16:00:00",
+      "album": {
+        "name": "\u7231\u4f60\u4e0d\u662f\u4e24\u4e09\u5929",
+        "url": "https://open.spotify.com/album/3dyc0b1Pd7jLhZIgnLpjGF"
+      },
+      "artists": [
+        {
+          "name": "\u7126\u9081\u5947",
+          "url": "https://open.spotify.com/artist/1FyPWrq6lU8yPFM7IXj6oH"
+        }
+      ],
+      "duration_ms": 250857,
+      "name": "\u7231\u4f60\u4e0d\u662f\u4e24\u4e09\u5929",
+      "url": "https://open.spotify.com/track/1VWeBAAUeNWllv1edNggTz"
     },
     {
       "added_at": "2024-06-27 16:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > The playlist sin fronteras\. Cover: Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,316,325 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,316,582 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

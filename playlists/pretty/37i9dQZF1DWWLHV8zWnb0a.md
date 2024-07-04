@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 
 > El sonido siniestro de los noventa\. Foto: Smashing Pumpkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,631 likes - 75 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,694 likes - 75 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 9 | [It's No Good](https://open.spotify.com/track/7HDWE2Ib7cjkhzULV4K8y3) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ultra \(Deluxe\)](https://open.spotify.com/album/0OWIVcNE4aItrlRvMUVueO) | 5:58 |
 | 10 | [Love You to Death](https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 7:08 |
 | 11 | [Living Dead Girl](https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:21 |
-| 12 | [Aneurysm](https://open.spotify.com/track/0Pie5DFAHHxpkONFUsAI6s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 4:35 |
-| 13 | [Sour Times](https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:12 |
+| 12 | [Sour Times](https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:12 |
+| 13 | [Aneurysm](https://open.spotify.com/track/0Pie5DFAHHxpkONFUsAI6s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 4:35 |
 | 14 | [Violet](https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Live Through This](https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7) | 3:24 |
 | 15 | [Engel](https://open.spotify.com/track/0xrkyEMkG4dVa5OMLQZOX8) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 4:24 |
 | 16 | [Black No\. 1 \(Little Miss Scare \-All\)](https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 11:15 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 36 | [Burn](https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 6:38 |
 | 37 | [Snap Your Fingers, Snap Your Neck](https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx) | [Prong](https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B) | [Cleansing](https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO) | 4:11 |
 | 38 | [Velouria](https://open.spotify.com/track/0lBO2VOhlNNx879Fjd9XY3) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Bossanova](https://open.spotify.com/album/0BK1LxNNcaNUtAqTBQAOR8) | 3:40 |
-| 39 | [Jesus Built My Hotrod](https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 4:52 |
-| 40 | [Megalomaniac](https://open.spotify.com/track/1d3iQh4fTm5D6iRtgrZPZ9) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Symbols](https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC) | 6:07 |
+| 39 | [Megalomaniac](https://open.spotify.com/track/1d3iQh4fTm5D6iRtgrZPZ9) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Symbols](https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC) | 6:07 |
+| 40 | [Jesus Built My Hotrod](https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 4:52 |
 | 41 | [The Perfect Drug](https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Lost Highway](https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues) | 5:15 |
 | 42 | [Been Caught Stealing](https://open.spotify.com/track/51Gkc1TxvyQ9K8y0pQRmQM) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/7acrrQejzV4ybWWTM8TmPf) | 3:33 |
 | 43 | [Black Sunshine](https://open.spotify.com/track/0D7aPFnFa9qIVFpOJ1ZBTG) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 4:49 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 60 | [Thieves](https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [The Mind Is a Terrible Thing to Taste](https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5) | 5:01 |
 | 61 | [Diane](https://open.spotify.com/track/7xcdm6MybPgVeYgGewJzdE) | [Therapy?](https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey) | [Infernal Love](https://open.spotify.com/album/31KNGmbreLRbNfmEXRnXTl) | 4:59 |
 | 62 | [Snake Dance](https://open.spotify.com/track/20CMNatKGvGsH9H1WjSYYZ) | [The March Violets](https://open.spotify.com/artist/03FKngvcynr4H8PuTP8n19) | [The Botanic Verses](https://open.spotify.com/album/5ZgrlWIPhODOEV0kTpiuYh) | 4:06 |
-| 63 | [Good Morning, Captain](https://open.spotify.com/track/1BNZMXjqqULiV0DmFU1B8S) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8) | 7:39 |
+| 63 | [Tahitian Moon](https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Good God's Urge](https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM) | 3:47 |
 | 64 | [You Look Like Rain](https://open.spotify.com/track/5QH3pNXpDzSIMziqX9lL1l) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Good](https://open.spotify.com/album/6NuVZbtcscN4RpgZd5UzQy) | 3:40 |
-| 65 | [Tahitian Moon](https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Good God's Urge](https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM) | 3:47 |
+| 65 | [Good Morning, Captain](https://open.spotify.com/track/1BNZMXjqqULiV0DmFU1B8S) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8) | 7:39 |
 | 66 | [To Bring You My Love](https://open.spotify.com/track/537IPiZTZ1GVcohzFHAHf5) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 5:31 |
 | 67 | [Descent](https://open.spotify.com/track/2EGBaThHoA6PUAjktFIBRy) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 4:36 |
 | 68 | [Screamager](https://open.spotify.com/track/6AXZm9PDOhrG99M1dDBAbp) | [Therapy?](https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey) | [Troublegum](https://open.spotify.com/album/6ub0GyzfrkFZahy42i7pfR) | 2:36 |

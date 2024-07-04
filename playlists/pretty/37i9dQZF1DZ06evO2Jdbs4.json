@@ -1,12 +1,12 @@
 {
-  "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 26982,
+  "description": "This Is Bobby Pulido. Los temas esenciales, todos en una lista.",
+  "num_followers": 26986,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAA6kbyzrAB1XGPEqRGEQF/Q",
+  "snapshot_id": "ZoNDAAAAAADPpQKALqhSSphDw+dH+MzL",
   "tracks": [
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 254440,
-      "name": "Vive",
-      "url": "https://open.spotify.com/track/6ljSbHWwuUsDfOswRHlomj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 135266,
       "name": "Mujer Maravilla",
       "url": "https://open.spotify.com/track/6WQEjrSvNCxYM5BXlQ6eLB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 254440,
+      "name": "Vive",
+      "url": "https://open.spotify.com/track/6ljSbHWwuUsDfOswRHlomj"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde las Vegas",
-        "url": "https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 296255,
-      "name": "Intro / Se Muri\u00f3 de Amor - En Vivo",
-      "url": "https://open.spotify.com/track/3Pwpg0uNftcanpfFwhcIlu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "40 Aniversario Con Invitados a Otro Nivel, Vol. 2",
         "url": "https://open.spotify.com/album/68RRgoiTtixqmXpCgrCGFU"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Desde las Vegas",
+        "url": "https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 296255,
+      "name": "Intro / Se Muri\u00f3 de Amor - En Vivo",
+      "url": "https://open.spotify.com/track/3Pwpg0uNftcanpfFwhcIlu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Cazador",
         "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 212466,
       "name": "Como Dos Extra\u00f1os",
       "url": "https://open.spotify.com/track/6zpbZkfhTuywWpHcJVYOm5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "No S\u00e9 Por Qu\u00e9",
+      "url": "https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t"
     },
     {
       "added_at": null,
@@ -831,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+        "name": "Siempre Pensando en Ti",
+        "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
       },
       "artists": [
         {
@@ -840,9 +856,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 169000,
-      "name": "No S\u00e9 Por Qu\u00e9",
-      "url": "https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t"
+      "duration_ms": 200360,
+      "name": "\u00bfQu\u00e9 Hago Conmigo?",
+      "url": "https://open.spotify.com/track/48k7uKHMKNmyCXvPzdhcvW"
     },
     {
       "added_at": null,
@@ -875,22 +891,6 @@
       "duration_ms": 186459,
       "name": "Ll\u00f3rame",
       "url": "https://open.spotify.com/track/2uBdikf4ImGwMP4UZCpt0W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siempre Pensando en Ti",
-        "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "\u00bfQu\u00e9 Hago Conmigo?",
-      "url": "https://open.spotify.com/track/48k7uKHMKNmyCXvPzdhcvW"
     },
     {
       "added_at": null,

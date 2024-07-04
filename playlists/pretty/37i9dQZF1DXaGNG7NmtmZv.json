@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 218593,
+  "num_followers": 218638,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Slip",
-        "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Fazer",
-      "url": "https://open.spotify.com/track/0Bv2ixOjn8jKiVTQXE9mF8"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Set It Off",
         "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 206093,
       "name": "Set It Off",
       "url": "https://open.spotify.com/track/165wS8DOyhHPiNgB8vlfsE"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Fazer",
+      "url": "https://open.spotify.com/track/0Bv2ixOjn8jKiVTQXE9mF8"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "As Real As It Gets",
-        "url": "https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv"
-      },
-      "artists": [
-        {
-          "name": "Sworn Enemy",
-          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Sworn Enemy",
-      "url": "https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Vision of Disorder",
         "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
       },
@@ -347,18 +331,34 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Wake The Dead",
-        "url": "https://open.spotify.com/album/12E474LltJ7NCZD2L2kvR0"
+        "name": "As Real As It Gets",
+        "url": "https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv"
       },
       "artists": [
         {
-          "name": "Comeback Kid",
-          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+          "name": "Sworn Enemy",
+          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
         }
       ],
-      "duration_ms": 197226,
-      "name": "Wake the Dead",
-      "url": "https://open.spotify.com/track/0Ux0LyZRoLFiXfyKZtt6IE"
+      "duration_ms": 216600,
+      "name": "Sworn Enemy",
+      "url": "https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Neutralize the Threat",
+        "url": "https://open.spotify.com/album/1cvZ2jWkoHj5uxdl3P8VP1"
+      },
+      "artists": [
+        {
+          "name": "Earth Crisis",
+          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
+        }
+      ],
+      "duration_ms": 218773,
+      "name": "Total War",
+      "url": "https://open.spotify.com/track/6ssujYDvWvyC5H8ZBjRW3K"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Neutralize the Threat",
-        "url": "https://open.spotify.com/album/1cvZ2jWkoHj5uxdl3P8VP1"
+        "name": "Wake The Dead",
+        "url": "https://open.spotify.com/album/12E474LltJ7NCZD2L2kvR0"
       },
       "artists": [
         {
-          "name": "Earth Crisis",
-          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
+          "name": "Comeback Kid",
+          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
         }
       ],
-      "duration_ms": 218773,
-      "name": "Total War",
-      "url": "https://open.spotify.com/track/6ssujYDvWvyC5H8ZBjRW3K"
+      "duration_ms": 197226,
+      "name": "Wake the Dead",
+      "url": "https://open.spotify.com/track/0Ux0LyZRoLFiXfyKZtt6IE"
     },
     {
       "added_at": "2024-02-07 16:33:52",

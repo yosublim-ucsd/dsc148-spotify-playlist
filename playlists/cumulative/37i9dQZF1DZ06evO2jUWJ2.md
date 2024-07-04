@@ -2,7 +2,7 @@
 
 ### [This Is Elevation Worship](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2jUWJ2)
 
-> This is Elevation Worship\. Các bản nhạc bạn nên nghe, tất cả trong một danh sách phát.
+> This Is Elevation Worship\. Los temas esenciales, todos en una lista.
 
 56 songs - 6 hr 9 min
 

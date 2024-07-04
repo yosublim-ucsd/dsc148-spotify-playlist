@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,492 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,622 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 64 | [Teman Bahagia](https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Teman Bahagia](https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b) | 3:28 |
 | 65 | [Kecewa](https://open.spotify.com/track/1sDfnkQge4Nmkp8sgLgH1i) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 3:49 |
 | 66 | [Jangan Kau Lepas](https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Alexa](https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog) | 4:01 |
-| 67 | [Ada Di Sana](https://open.spotify.com/track/7e3JeMmuteFbUJuUjH1RfS) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Telisik](https://open.spotify.com/album/40iKWzfGlk2MC4xr7A9Go3) | 3:18 |
-| 68 | [That Somebody](https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Scenery](https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6) | 4:43 |
+| 67 | [That Somebody](https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Scenery](https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6) | 4:43 |
+| 68 | [Ada Di Sana](https://open.spotify.com/track/7e3JeMmuteFbUJuUjH1RfS) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Telisik](https://open.spotify.com/album/40iKWzfGlk2MC4xr7A9Go3) | 3:18 |
 | 69 | [Serba Salah](https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD) | 4:22 |
 | 70 | [Dengan Caraku](https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Dengan Caraku](https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo) | 4:32 |
 | 71 | [Keabadian](https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn) | [Reza Artamevia](https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF) | [Keabadian](https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym) | 4:07 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 77 | [Harus Bahagia](https://open.spotify.com/track/6nPZx4xtBSX1x641ktitSY) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Harus Bahagia](https://open.spotify.com/album/5Hb50nIh6byYRzkyTYHxUG) | 2:53 |
 | 78 | [Kasmaran](https://open.spotify.com/track/6rB2whUL8s2Kt3wIxsnCGf) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Kasmaran](https://open.spotify.com/album/2HR6Fg4E3PlzC2ZQ8dKIJu) | 4:02 |
 | 79 | [Sunggu Indah](https://open.spotify.com/track/16dSPNURystMsZIIWqNE6B) | [Andy Ambarita](https://open.spotify.com/artist/3D9NDcZAyhtQdEuDdqsAx6) | [Sunggu Indah](https://open.spotify.com/album/4lsEBUgBu0KSVLxlQw4OyP) | 5:38 |
-| 80 | [Tak Pernah Padam](https://open.spotify.com/track/0heY4hxgRs6s1wrMtrS3YJ) | [Sandhy Sondoro](https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu) | [Find The Way](https://open.spotify.com/album/3kOVbZ8Ccl83UB9cGTvvi5) | 4:01 |
+| 80 | [Sedang Sayang Sayangnya](https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Sedang Sayang Sayangnya](https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9) | 4:21 |
 
 Snapshot ID: `ZmaD9wAAAABPLY/OzOTJXItg5iqcRMAv`

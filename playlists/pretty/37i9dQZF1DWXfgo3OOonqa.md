@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Fin & Bad!
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,466 likes - 99 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,513 likes - 99 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,178 likes - 40 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,484 likes - 40 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 28 | [Live Another Day](https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Phonkageddon](https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg) | 2:13 |
 | 29 | [SEQUÊNCIA MALÉFICA 1.0](https://open.spotify.com/track/1v5PQyuSHxPy56xCuCnMQ0) | [RXPOSO99](https://open.spotify.com/artist/5joODcLQTClX0o3q13SOfU), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [SEQUÊNCIA MALÉFICA 1.0](https://open.spotify.com/album/4Fpr7mZ709qg0Iu1ESYNwz) | 1:36 |
 | 30 | [WAKE UP!](https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [WAKE UP!](https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l) | 2:22 |
-| 31 | [Devil Eyes](https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or) | [Devil Eyes](https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl) | 2:16 |
-| 32 | [WINTER ARC FUNK](https://open.spotify.com/track/0ayzWNOWQGMHYr137ALsKW) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [WINTER ARC FUNK](https://open.spotify.com/album/2qz8nLX6bOLaOrumopQoRT) | 1:31 |
+| 31 | [WINTER ARC FUNK](https://open.spotify.com/track/0ayzWNOWQGMHYr137ALsKW) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [WINTER ARC FUNK](https://open.spotify.com/album/2qz8nLX6bOLaOrumopQoRT) | 1:31 |
+| 32 | [Devil Eyes](https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or) | [Devil Eyes](https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl) | 2:16 |
 | 33 | [Crystals](https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d) | [Isolate.exe](https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI) | [Crystals](https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS) | 2:19 |
 | 34 | [REI DO BRASIL](https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG) | [Seek](https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6) | [REI DO BRASIL](https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7) | 1:37 |
 | 35 | [DRESS!](https://open.spotify.com/track/2q7LaJ39WSzo6CyKeT3ErE) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [DRESS!](https://open.spotify.com/album/6TFzvOmoVmWFT0CkIHVgcI) | 1:30 |

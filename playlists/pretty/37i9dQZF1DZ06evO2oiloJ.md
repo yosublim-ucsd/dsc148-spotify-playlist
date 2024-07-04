@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 
 ### [This Is Rod Wave](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2oiloJ)
 
-> This is Rod Wave\. Các bản nhạc bạn nên nghe, tất cả trong một danh sách phát.
+> This is Rod Wave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,039 likes - 48 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,296 likes - 48 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 47 | [Forever](https://open.spotify.com/track/4mChXwwU4xbiYIP7QQeLFP) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:34 |
 | 48 | [Never Get Over Me](https://open.spotify.com/track/5sRUXYW5XqkHpGUjNIaU1W) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 2:50 |
 
-Snapshot ID: `ZoHxgAAAAACiPlVZrH1nWvNKkpeN7DtD`
+Snapshot ID: `ZoNDAAAAAABx11cB8NLz/JqMa+Lkirz5`

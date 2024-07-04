@@ -1,6 +1,6 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 489015,
+  "num_followers": 488985,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,26 @@
     {
       "added_at": "2024-07-01 12:57:40",
       "album": {
+        "name": "Words (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "Words (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
+    },
+    {
+      "added_at": "2024-07-01 12:57:40",
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
       },
@@ -67,26 +87,6 @@
       "duration_ms": 175500,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
-    },
-    {
-      "added_at": "2024-07-01 12:57:40",
-      "album": {
-        "name": "Words (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "Words (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
       "added_at": "2024-07-01 12:57:40",
@@ -459,22 +459,18 @@
     {
       "added_at": "2024-07-01 12:57:40",
       "album": {
-        "name": "Pachamama",
-        "url": "https://open.spotify.com/album/4pyp9BJdIT2rqRiavNpiWL"
+        "name": "Heavy Metal Love",
+        "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
       },
       "artists": [
         {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Elliphant",
-          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
         }
       ],
-      "duration_ms": 145116,
-      "name": "Pachamama",
-      "url": "https://open.spotify.com/track/3lFNDaob5QhwE9oo7J0uNT"
+      "duration_ms": 132000,
+      "name": "Heavy Metal Love",
+      "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
     },
     {
       "added_at": "2024-07-01 12:57:40",
@@ -499,18 +495,22 @@
     {
       "added_at": "2024-07-01 12:57:40",
       "album": {
-        "name": "Heavy Metal Love",
-        "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
+        "name": "Pachamama",
+        "url": "https://open.spotify.com/album/4pyp9BJdIT2rqRiavNpiWL"
       },
       "artists": [
         {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Heavy Metal Love",
-      "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
+      "duration_ms": 145116,
+      "name": "Pachamama",
+      "url": "https://open.spotify.com/track/3lFNDaob5QhwE9oo7J0uNT"
     },
     {
       "added_at": "2024-07-01 12:57:40",
@@ -787,30 +787,6 @@
     {
       "added_at": "2024-07-01 12:57:40",
       "album": {
-        "name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
-        "url": "https://open.spotify.com/album/1oIy8CYApH9VUB73DqUvPT"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 175150,
-      "name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
-      "url": "https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM"
-    },
-    {
-      "added_at": "2024-07-01 12:57:40",
-      "album": {
         "name": "Phone",
         "url": "https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 155076,
       "name": "Phone",
       "url": "https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw"
+    },
+    {
+      "added_at": "2024-07-01 12:57:40",
+      "album": {
+        "name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
+        "url": "https://open.spotify.com/album/1oIy8CYApH9VUB73DqUvPT"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 175150,
+      "name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
+      "url": "https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM"
     },
     {
       "added_at": "2024-07-01 12:57:40",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-07-01 12:57:40",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/0HAb43LIP2Gf9bYwRfBgY6"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU"
-    },
-    {
-      "added_at": "2024-07-01 12:57:40",
-      "album": {
         "name": "I'll Be There",
         "url": "https://open.spotify.com/album/0fO4oE2tNqegemqaq8byqQ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 166632,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6"
+    },
+    {
+      "added_at": "2024-07-01 12:57:40",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/0HAb43LIP2Gf9bYwRfBgY6"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU"
     },
     {
       "added_at": "2024-07-01 12:57:40",
@@ -947,26 +947,6 @@
     {
       "added_at": "2024-07-01 12:57:40",
       "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        }
-      ],
-      "duration_ms": 154083,
-      "name": "Waking Up",
-      "url": "https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK"
-    },
-    {
-      "added_at": "2024-07-01 12:57:40",
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
       },
@@ -983,18 +963,22 @@
     {
       "added_at": "2024-07-01 12:57:40",
       "album": {
-        "name": "Slowdown (girl what's up)",
-        "url": "https://open.spotify.com/album/4B6I2s8qDymQLWT9qtJOtW"
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H"
       },
       "artists": [
         {
-          "name": "YellowStraps",
-          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
         }
       ],
-      "duration_ms": 123000,
-      "name": "Slowdown (girl what's up)",
-      "url": "https://open.spotify.com/track/4xexPtg7VSPCf9hM3aZdfZ"
+      "duration_ms": 154083,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK"
     },
     {
       "added_at": "2024-07-01 12:57:40",
@@ -1019,6 +1003,22 @@
       "duration_ms": 143526,
       "name": "After Midnight (feat. Xoro)",
       "url": "https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1"
+    },
+    {
+      "added_at": "2024-07-01 12:57:40",
+      "album": {
+        "name": "Slowdown (girl what's up)",
+        "url": "https://open.spotify.com/album/4B6I2s8qDymQLWT9qtJOtW"
+      },
+      "artists": [
+        {
+          "name": "YellowStraps",
+          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Slowdown (girl what's up)",
+      "url": "https://open.spotify.com/track/4xexPtg7VSPCf9hM3aZdfZ"
     },
     {
       "added_at": "2024-07-01 12:57:40",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-07-01 12:57:40",
       "album": {
+        "name": "Karibu",
+        "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Karibu",
+      "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
+    },
+    {
+      "added_at": "2024-07-01 12:57:40",
+      "album": {
         "name": "Now or Never",
         "url": "https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt"
       },
@@ -1083,34 +1099,22 @@
     {
       "added_at": "2024-07-01 12:57:40",
       "album": {
-        "name": "Karibu",
-        "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
+        "name": "Do It Better (feat. Zoe Wees)",
+        "url": "https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU"
       },
       "artists": [
         {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Karibu",
-      "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
-    },
-    {
-      "added_at": "2024-07-01 12:57:40",
-      "album": {
-        "name": "I Like",
-        "url": "https://open.spotify.com/album/5MLZv8FjK5u2hA0277LPGF"
-      },
-      "artists": [
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
         {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
         }
       ],
-      "duration_ms": 151071,
-      "name": "I Like",
-      "url": "https://open.spotify.com/track/2Olt8sKVNmJ7WBuGbPvUuy"
+      "duration_ms": 170045,
+      "name": "Do It Better (feat. Zoe Wees)",
+      "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
     },
     {
       "added_at": "2024-07-01 12:57:40",
@@ -1135,22 +1139,18 @@
     {
       "added_at": "2024-07-01 12:57:40",
       "album": {
-        "name": "Do It Better (feat. Zoe Wees)",
-        "url": "https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU"
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/5MLZv8FjK5u2hA0277LPGF"
       },
       "artists": [
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
         }
       ],
-      "duration_ms": 170045,
-      "name": "Do It Better (feat. Zoe Wees)",
-      "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
+      "duration_ms": 151071,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/2Olt8sKVNmJ7WBuGbPvUuy"
     },
     {
       "added_at": "2024-07-01 12:57:40",
@@ -1279,30 +1279,6 @@
     {
       "added_at": "2024-07-01 12:57:40",
       "album": {
-        "name": "Coming Home (feat. Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/3NVn8xsuoWREk1RCnNNHGo"
-      },
-      "artists": [
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        },
-        {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        }
-      ],
-      "duration_ms": 136866,
-      "name": "Coming Home (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/4idV4UhKatC5h4Na8dhBQo"
-    },
-    {
-      "added_at": "2024-07-01 12:57:40",
-      "album": {
         "name": "Hopeless Heart",
         "url": "https://open.spotify.com/album/5lvVTFSjzf72tpVCyiIALc"
       },
@@ -1323,6 +1299,30 @@
       "duration_ms": 151903,
       "name": "Hopeless Heart",
       "url": "https://open.spotify.com/track/2tJ4fnUrG5v7OmYVGq7sw8"
+    },
+    {
+      "added_at": "2024-07-01 12:57:40",
+      "album": {
+        "name": "Coming Home (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/3NVn8xsuoWREk1RCnNNHGo"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 136866,
+      "name": "Coming Home (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/4idV4UhKatC5h4Na8dhBQo"
     },
     {
       "added_at": "2024-07-01 12:57:40",

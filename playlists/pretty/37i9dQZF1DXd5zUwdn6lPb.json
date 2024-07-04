@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 323460,
+  "num_followers": 323542,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -1015,8 +1015,8 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
-        "name": "Four Hands",
-        "url": "https://open.spotify.com/album/2BA8KYF8Dm4TzpeV7B3iVa"
+        "name": "Bach: Inventions & Sinfonias",
+        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
       },
       "artists": [
         {
@@ -1024,17 +1024,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        },
-        {
-          "name": "David Fray",
-          "url": "https://open.spotify.com/artist/6ngR3n1aQ7GLB5w46hqSWR"
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
         }
       ],
-      "duration_ms": 140626,
-      "name": "Bach, JS: Gottes Zeit ist die allerbeste Zeit, BWV 106 \"Actus Tragicus\": No. 2, Ch\u00f6re, Arioso und Aria. \"Gottes Zeit ist die allerbeste Zeit\" (Arr. Kurt\u00e1g for Piano 4-Hands)",
-      "url": "https://open.spotify.com/track/4wPU1i9XmAFixhrLeO5AVw"
+      "duration_ms": 88573,
+      "name": "Invention No. 1 in C Major, BWV 772",
+      "url": "https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs"
     },
     {
       "added_at": "2024-05-31 12:49:38",
@@ -1143,26 +1139,6 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 114601,
-      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
-      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
-    },
-    {
-      "added_at": "2024-05-31 12:49:38",
-      "album": {
         "name": "Telemann Collection",
         "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
       },
@@ -1187,8 +1163,28 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
-        "name": "Bach: Inventions & Sinfonias",
-        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 114601,
+      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
+      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
+    },
+    {
+      "added_at": "2024-05-31 12:49:38",
+      "album": {
+        "name": "Four Hands",
+        "url": "https://open.spotify.com/album/2BA8KYF8Dm4TzpeV7B3iVa"
       },
       "artists": [
         {
@@ -1196,13 +1192,17 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Simone Dinnerstein",
-          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        },
+        {
+          "name": "David Fray",
+          "url": "https://open.spotify.com/artist/6ngR3n1aQ7GLB5w46hqSWR"
         }
       ],
-      "duration_ms": 88573,
-      "name": "Invention No. 1 in C Major, BWV 772",
-      "url": "https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs"
+      "duration_ms": 140626,
+      "name": "Bach, JS: Gottes Zeit ist die allerbeste Zeit, BWV 106 \"Actus Tragicus\": No. 2, Ch\u00f6re, Arioso und Aria. \"Gottes Zeit ist die allerbeste Zeit\" (Arr. Kurt\u00e1g for Piano 4-Hands)",
+      "url": "https://open.spotify.com/track/4wPU1i9XmAFixhrLeO5AVw"
     },
     {
       "added_at": "2024-05-31 12:49:38",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 156233,
+      "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
+    },
+    {
+      "added_at": "2024-05-31 12:49:38",
+      "album": {
         "name": "Schumann: Album for the Young",
         "url": "https://open.spotify.com/album/0zAGryVqIFExsM17ayKDQr"
       },
@@ -1363,26 +1383,6 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 156233,
-      "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
-    },
-    {
-      "added_at": "2024-05-31 12:49:38",
-      "album": {
         "name": "Mozart: Petite musique de nuit",
         "url": "https://open.spotify.com/album/3aiuQXwqA9zGr40vsV2w2f"
       },
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
+        "name": "Beethoven: Piano Sonatas, Vol. 7",
+        "url": "https://open.spotify.com/album/0Cquzn7E5wAEmCHjbPO0f6"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 180200,
+      "name": "Piano Sonata No.20 in G Major, Op. 49 No.2: II. Tempo di Menuetto",
+      "url": "https://open.spotify.com/track/688T7aVGomCvoPqH4YL9yc"
+    },
+    {
+      "added_at": "2024-05-31 12:49:38",
+      "album": {
         "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
         "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
       },
@@ -1475,22 +1495,22 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
-        "name": "Beethoven: Piano Sonatas, Vol. 7",
-        "url": "https://open.spotify.com/album/0Cquzn7E5wAEmCHjbPO0f6"
+        "name": "Mendelssohn: Piano Works",
+        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
       },
       "artists": [
         {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
         },
         {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+          "name": "Doomin Kim",
+          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
         }
       ],
-      "duration_ms": 180200,
-      "name": "Piano Sonata No.20 in G Major, Op. 49 No.2: II. Tempo di Menuetto",
-      "url": "https://open.spotify.com/track/688T7aVGomCvoPqH4YL9yc"
+      "duration_ms": 253920,
+      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
+      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
     },
     {
       "added_at": "2024-05-31 12:49:38",
@@ -1583,26 +1603,6 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
-        "name": "Mendelssohn: Piano Works",
-        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Doomin Kim",
-          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
-      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
-    },
-    {
-      "added_at": "2024-05-31 12:49:38",
-      "album": {
         "name": "Telemann Collection",
         "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
       },
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 161961,
-      "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
-    },
-    {
-      "added_at": "2024-05-31 12:49:38",
-      "album": {
         "name": "W.F. Bach: Sinfonias",
         "url": "https://open.spotify.com/album/0AHlJDfnuTSujoKtK0y9FX"
       },
@@ -1715,26 +1695,6 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
-        "name": "Schumann : Kinderszenen, Waldszenen & Bunte Bl\u00e4tter",
-        "url": "https://open.spotify.com/album/33xqDfwbdFoF9JzODICq8g"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Maria Jo\u00e3o Pires",
-          "url": "https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs"
-        }
-      ],
-      "duration_ms": 85280,
-      "name": "Schumann: Bunte Bl\u00e4tter, Op. 99: No. 6, Albumbl\u00e4tter III",
-      "url": "https://open.spotify.com/track/5BgIxyGdmvBk044vSh6P2A"
-    },
-    {
-      "added_at": "2024-05-31 12:49:38",
-      "album": {
         "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
         "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
       },
@@ -1755,6 +1715,46 @@
       "duration_ms": 230426,
       "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
       "url": "https://open.spotify.com/track/0n9cHRLNSCXECfXx4cvw0D"
+    },
+    {
+      "added_at": "2024-05-31 12:49:38",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 161961,
+      "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
+    },
+    {
+      "added_at": "2024-05-31 12:49:38",
+      "album": {
+        "name": "Schumann : Kinderszenen, Waldszenen & Bunte Bl\u00e4tter",
+        "url": "https://open.spotify.com/album/33xqDfwbdFoF9JzODICq8g"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Maria Jo\u00e3o Pires",
+          "url": "https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs"
+        }
+      ],
+      "duration_ms": 85280,
+      "name": "Schumann: Bunte Bl\u00e4tter, Op. 99: No. 6, Albumbl\u00e4tter III",
+      "url": "https://open.spotify.com/track/5BgIxyGdmvBk044vSh6P2A"
     },
     {
       "added_at": "2024-05-31 12:49:38",
@@ -1863,30 +1863,6 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
-        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
-        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        }
-      ],
-      "duration_ms": 138239,
-      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: III. (b) Andante",
-      "url": "https://open.spotify.com/track/6AG7ekfWoiYTY6gyiEebCN"
-    },
-    {
-      "added_at": "2024-05-31 12:49:38",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI"
       },
@@ -1919,6 +1895,30 @@
       "duration_ms": 96786,
       "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
       "url": "https://open.spotify.com/track/1UT4F8DOvzM616ZTOm1z6s"
+    },
+    {
+      "added_at": "2024-05-31 12:49:38",
+      "album": {
+        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
+        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        }
+      ],
+      "duration_ms": 138239,
+      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: III. (b) Andante",
+      "url": "https://open.spotify.com/track/6AG7ekfWoiYTY6gyiEebCN"
     },
     {
       "added_at": "2024-05-31 12:49:38",
@@ -2043,30 +2043,6 @@
     {
       "added_at": "2024-05-31 12:49:38",
       "album": {
-        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
-        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        }
-      ],
-      "duration_ms": 261213,
-      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: III. Minuets I & II",
-      "url": "https://open.spotify.com/track/5Olix25Y5aNqIWGDrrB0Pb"
-    },
-    {
-      "added_at": "2024-05-31 12:49:38",
-      "album": {
         "name": "The Flemish Piano Sonatina in the 20th Century",
         "url": "https://open.spotify.com/album/7Gl9jFr1qiFs2v6RHOp9yl"
       },
@@ -2131,6 +2107,30 @@
       "duration_ms": 193320,
       "name": "Minuet in A Major, D. 334",
       "url": "https://open.spotify.com/track/6qoKrxleX3tTaDv4kk8jzH"
+    },
+    {
+      "added_at": "2024-05-31 12:49:38",
+      "album": {
+        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
+        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        }
+      ],
+      "duration_ms": 261213,
+      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: III. Minuets I & II",
+      "url": "https://open.spotify.com/track/5Olix25Y5aNqIWGDrrB0Pb"
     }
   ],
   "unique_name": "Classical Focus",

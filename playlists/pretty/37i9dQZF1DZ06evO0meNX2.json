@@ -1,12 +1,12 @@
 {
-  "description": "This Is Codiciado. Los temas esenciales, todos en una lista.",
-  "num_followers": 28574,
+  "description": "This is Codiciado\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 28618,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAADGtXj5KK+05yMblntigD/q",
+  "snapshot_id": "ZoNDAAAAAAB+42YLiRhfl6MW99V4I4hu",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
+        }
+      ],
+      "duration_ms": 267706,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Disney",
         "url": "https://open.spotify.com/album/71pONzODuum62WjG779fN1"
       },
@@ -187,6 +211,22 @@
       "duration_ms": 138533,
       "name": "C.H.S.M",
       "url": "https://open.spotify.com/track/11gvUHIxBEnsCn8sAltFmf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Golpes De La Vida",
+      "url": "https://open.spotify.com/track/7xMBcbpr1KAlychUtk7W72"
     },
     {
       "added_at": null,
@@ -571,22 +611,6 @@
       "duration_ms": 166440,
       "name": "Chavo F\u00e9lix",
       "url": "https://open.spotify.com/track/49s7IfMs465QGg0Rz8J5gA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golpes De La Vida",
-        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 226360,
-      "name": "El Se\u00f1or Grande",
-      "url": "https://open.spotify.com/track/5BNvaSJlGo4sDUOc7USDQW"
     }
   ],
   "unique_name": "This Is Codiciado",

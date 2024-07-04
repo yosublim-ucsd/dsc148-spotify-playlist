@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Ranging from your new favorites to familiar classics, let these faith\-filled songs bless you as you're on the road!
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,955 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,144 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 11 | [Dreaming](https://open.spotify.com/track/64mFiDTrYuDVXONvfRKyen) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Dreaming](https://open.spotify.com/album/34Dz65C8XBmWJ3CZwJjGcz) | 3:35 |
 | 12 | [UP!](https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [UP!](https://open.spotify.com/album/2WoIZTbS7s8uNtRf9G6QOP) | 2:16 |
 | 13 | [Hope](https://open.spotify.com/track/3GC7jZ05UuZVPNy2JMgPHf) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [I'm Here For You](https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l) | 3:29 |
-| 14 | [IN THE LIGHT](https://open.spotify.com/track/5GRJci91Qsc14761s6f4Nv) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [STEPPIN in the LIGHT](https://open.spotify.com/album/5PmSxoI4vbgq6hWz0EWV5I) | 2:46 |
+| 14 | [IN THE LIGHT](https://open.spotify.com/track/5GRJci91Qsc14761s6f4Nv) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [STEPPIN in the LIGHT](https://open.spotify.com/album/5PmSxoI4vbgq6hWz0EWV5I) | 2:46 |
 | 15 | [Antidote](https://open.spotify.com/track/6ofKv7jnJCB2am9gqd4xVo) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Antidote](https://open.spotify.com/album/4ORpINjKrVyuy0iipO2Xz9) | 2:51 |
 | 16 | [The Heat](https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [The Heat](https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt) | 3:33 |
 | 17 | [dopamine](https://open.spotify.com/track/1MlwlvguOnqk3vZCAWe168) | [Strings And Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [dopamine](https://open.spotify.com/album/7s4KNsNzQuHuZLYneTMUEE) | 2:02 |

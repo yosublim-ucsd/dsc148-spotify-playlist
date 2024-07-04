@@ -4,7 +4,7 @@
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-232 songs - 11 hr 53 min
+233 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [c!ao \(feat\. Rondodasosa\)](https://open.spotify.com/track/78xAYXMtvQkDvlqJA3fKu6) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 3:32 | 2022-10-11 | 2023-03-29 |
 | [Calling My Phone](https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:25 | 2022-06-09 | 2024-04-19 |
 | [Calling My Phone](https://open.spotify.com/track/5Kskr9LcNYa0tpt5f0ZEJx) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Calling My Phone](https://open.spotify.com/album/1QhKOq11hGEoNA42rV2IHp) | 3:25 | 2022-05-03 | 2022-07-28 |
-| [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 | 2022-05-03 |  |
+| [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 | 2022-05-03 | 2024-07-04 |
 | [Capo](https://open.spotify.com/track/7A9lnmpkWR2tPkcPWGbMqo) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Emanuele \(Marchio registrato\)](https://open.spotify.com/album/2ahd6iY3PPFIK0Tu1oB46c) | 2:30 | 2022-05-03 | 2022-07-29 |
 | [Capri Sun](https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:19 | 2022-06-02 |  |
 | [CARNIVAL](https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:24 | 2024-02-14 | 2024-05-13 |
@@ -103,6 +103,7 @@
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-06-12 |  |
 | [I CAN FLY](https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [I CAN FLY](https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu) | 2:44 | 2024-04-09 |  |
 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 | 2023-09-06 | 2024-03-16 |
+| [I LOVE IT \(feat\. Artie 5ive\)](https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 3:11 | 2024-07-03 |  |
 | [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 | 2024-02-08 |  |
 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/6G4q8Qb7CQP5gVtzQNK0zT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/35nmDyrcnDY4B1ISYpKEEs) | 4:20 | 2023-10-18 | 2023-11-10 |
 | [Il Doc 3 \(feat\. Tony Effe, Slings & MamboLosco\)](https://open.spotify.com/track/3yjVLPigd6HDjBpJMYEUih) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Il Doc 3 \(feat\. Tony Effe, Slings & MamboLosco\)](https://open.spotify.com/album/0Us36d7YZAKpS3YjY1oVNk) | 3:31 | 2023-03-20 | 2024-05-27 |

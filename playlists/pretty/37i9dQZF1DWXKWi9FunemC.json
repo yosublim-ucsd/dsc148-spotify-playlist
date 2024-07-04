@@ -1,6 +1,6 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 324643,
+  "num_followers": 324846,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-06-23 02:19:22",
       "album": {
-        "name": "Echoes Of Love",
-        "url": "https://open.spotify.com/album/1mUh5G47foAbuBVgVmbDzt"
-      },
-      "artists": [
-        {
-          "name": "Aremmic",
-          "url": "https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN"
-        }
-      ],
-      "duration_ms": 211343,
-      "name": "Echoes Of Love",
-      "url": "https://open.spotify.com/track/5Soqtv37Gb1ROUIAVCfOeW"
-    },
-    {
-      "added_at": "2024-06-23 02:19:22",
-      "album": {
         "name": "Retro Worship",
         "url": "https://open.spotify.com/album/6BCCYStZ2GjzRAOwJUPWQm"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 172821,
       "name": "Wonderful Merciful Saviour",
       "url": "https://open.spotify.com/track/7MQS6PLjtkz8BLWZw0HucY"
+    },
+    {
+      "added_at": "2024-06-23 02:19:22",
+      "album": {
+        "name": "New Song (Psalm 40)",
+        "url": "https://open.spotify.com/album/5SKIaSs8T7xHbPAfQMBvaY"
+      },
+      "artists": [
+        {
+          "name": "The Dodds",
+          "url": "https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl"
+        }
+      ],
+      "duration_ms": 254787,
+      "name": "New Song (Psalm 40)",
+      "url": "https://open.spotify.com/track/5nCSaFxaoliN2NyUtFQOUU"
     },
     {
       "added_at": "2024-06-23 02:19:22",
@@ -211,18 +211,18 @@
     {
       "added_at": "2024-06-23 02:19:22",
       "album": {
-        "name": "New Song (Psalm 40)",
-        "url": "https://open.spotify.com/album/5SKIaSs8T7xHbPAfQMBvaY"
+        "name": "Echoes Of Love",
+        "url": "https://open.spotify.com/album/1mUh5G47foAbuBVgVmbDzt"
       },
       "artists": [
         {
-          "name": "The Dodds",
-          "url": "https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl"
+          "name": "Aremmic",
+          "url": "https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN"
         }
       ],
-      "duration_ms": 254787,
-      "name": "New Song (Psalm 40)",
-      "url": "https://open.spotify.com/track/5nCSaFxaoliN2NyUtFQOUU"
+      "duration_ms": 211343,
+      "name": "Echoes Of Love",
+      "url": "https://open.spotify.com/track/5Soqtv37Gb1ROUIAVCfOeW"
     },
     {
       "added_at": "2024-06-23 02:19:22",
@@ -603,26 +603,6 @@
     {
       "added_at": "2024-06-23 02:19:22",
       "album": {
-        "name": "Secret Place",
-        "url": "https://open.spotify.com/album/29pydTpePrgdD4rHOMohlz"
-      },
-      "artists": [
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        },
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 181011,
-      "name": "Secret Place",
-      "url": "https://open.spotify.com/track/1ALad9pAC3JSK7SvqGAwKa"
-    },
-    {
-      "added_at": "2024-06-23 02:19:22",
-      "album": {
         "name": "Holy Love",
         "url": "https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 247173,
       "name": "Holy Love",
       "url": "https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9"
+    },
+    {
+      "added_at": "2024-06-23 02:19:22",
+      "album": {
+        "name": "Secret Place",
+        "url": "https://open.spotify.com/album/29pydTpePrgdD4rHOMohlz"
+      },
+      "artists": [
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        },
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 181011,
+      "name": "Secret Place",
+      "url": "https://open.spotify.com/track/1ALad9pAC3JSK7SvqGAwKa"
     },
     {
       "added_at": "2024-06-23 02:19:22",
@@ -711,6 +711,26 @@
     {
       "added_at": "2024-06-23 02:19:22",
       "album": {
+        "name": "Valley (CalledOut Music Remix)",
+        "url": "https://open.spotify.com/album/6K8MrDCAJxTbGdBNKgXiLp"
+      },
+      "artists": [
+        {
+          "name": "DAYASOUL",
+          "url": "https://open.spotify.com/artist/4AVCd5KaoGCrfue1bOWSww"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 187124,
+      "name": "Valley - CalledOut Music Remix",
+      "url": "https://open.spotify.com/track/56SVOpxc9ilgsoM5vjGNSf"
+    },
+    {
+      "added_at": "2024-06-23 02:19:22",
+      "album": {
         "name": "Psalm 136 [Your Mercy Endures] [Thomas Merton Mix] (feat. Leslie Jordan] [Thomas Merton Mix)",
         "url": "https://open.spotify.com/album/0pNvG1RHm2oONef2kFbGkw"
       },
@@ -735,42 +755,6 @@
     {
       "added_at": "2024-06-23 02:19:22",
       "album": {
-        "name": "Valley (CalledOut Music Remix)",
-        "url": "https://open.spotify.com/album/6K8MrDCAJxTbGdBNKgXiLp"
-      },
-      "artists": [
-        {
-          "name": "DAYASOUL",
-          "url": "https://open.spotify.com/artist/4AVCd5KaoGCrfue1bOWSww"
-        },
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 187124,
-      "name": "Valley - CalledOut Music Remix",
-      "url": "https://open.spotify.com/track/56SVOpxc9ilgsoM5vjGNSf"
-    },
-    {
-      "added_at": "2024-06-23 02:19:22",
-      "album": {
-        "name": "If It Wasn\u2019t for the Cross",
-        "url": "https://open.spotify.com/album/013ERHFnsYzmZz8BdfyiEN"
-      },
-      "artists": [
-        {
-          "name": "The Lowly Heirs",
-          "url": "https://open.spotify.com/artist/5Rut8SvWARj6uzDoajjUbX"
-        }
-      ],
-      "duration_ms": 254666,
-      "name": "If It Wasn\u2019t for the Cross",
-      "url": "https://open.spotify.com/track/07zvagUEBLjgBUGRALm963"
-    },
-    {
-      "added_at": "2024-06-23 02:19:22",
-      "album": {
         "name": "L E P E R S",
         "url": "https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 250555,
       "name": "L E P E R S",
       "url": "https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7"
+    },
+    {
+      "added_at": "2024-06-23 02:19:22",
+      "album": {
+        "name": "If It Wasn\u2019t for the Cross",
+        "url": "https://open.spotify.com/album/013ERHFnsYzmZz8BdfyiEN"
+      },
+      "artists": [
+        {
+          "name": "The Lowly Heirs",
+          "url": "https://open.spotify.com/artist/5Rut8SvWARj6uzDoajjUbX"
+        }
+      ],
+      "duration_ms": 254666,
+      "name": "If It Wasn\u2019t for the Cross",
+      "url": "https://open.spotify.com/track/07zvagUEBLjgBUGRALm963"
     },
     {
       "added_at": "2024-06-23 02:19:22",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-06-23 02:19:22",
       "album": {
-        "name": "YOUR NAME IS POWER (Acoustic)",
-        "url": "https://open.spotify.com/album/5OPnwxMGo48RxfOQS9hzXy"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 232238,
-      "name": "YOUR NAME IS POWER - Acoustic",
-      "url": "https://open.spotify.com/track/5BBd53oJDxtKuK92jWZryD"
-    },
-    {
-      "added_at": "2024-06-23 02:19:22",
-      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/7KjkVkrQ2FpCySvsn4RiyU"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2024-06-23 02:19:22",
       "album": {
-        "name": "Burning",
-        "url": "https://open.spotify.com/album/2wqSVqGoTyHYBXGKT5jQJ4"
+        "name": "YOUR NAME IS POWER (Acoustic)",
+        "url": "https://open.spotify.com/album/5OPnwxMGo48RxfOQS9hzXy"
       },
       "artists": [
         {
-          "name": "Zach Webb",
-          "url": "https://open.spotify.com/artist/7xY48N1Fs8R9DDKcUrevke"
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
         }
       ],
-      "duration_ms": 284500,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/159I14u2N0f3FbNhNgtdBA"
+      "duration_ms": 232238,
+      "name": "YOUR NAME IS POWER - Acoustic",
+      "url": "https://open.spotify.com/track/5BBd53oJDxtKuK92jWZryD"
     },
     {
       "added_at": "2024-06-23 02:19:22",
@@ -971,6 +955,22 @@
       "duration_ms": 243653,
       "name": "Now I See",
       "url": "https://open.spotify.com/track/66SLmhCxmoFG8DUgBFv572"
+    },
+    {
+      "added_at": "2024-06-23 02:19:22",
+      "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/2wqSVqGoTyHYBXGKT5jQJ4"
+      },
+      "artists": [
+        {
+          "name": "Zach Webb",
+          "url": "https://open.spotify.com/artist/7xY48N1Fs8R9DDKcUrevke"
+        }
+      ],
+      "duration_ms": 284500,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/159I14u2N0f3FbNhNgtdBA"
     },
     {
       "added_at": "2024-06-23 02:19:22",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-06-23 02:19:22",
       "album": {
-        "name": "Love Is",
-        "url": "https://open.spotify.com/album/3EHmC2TzK9W3AnDds89CiX"
-      },
-      "artists": [
-        {
-          "name": "Allan McKinlay",
-          "url": "https://open.spotify.com/artist/4zMVfhykoerNdhxVnJauFf"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/08XZufZzE2JDLQj9TEwur3"
-    },
-    {
-      "added_at": "2024-06-23 02:19:22",
-      "album": {
         "name": "25th floor of a reservation casino",
         "url": "https://open.spotify.com/album/2Tqb3XASaRS2WSxjzDrYQF"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 272213,
       "name": "how great thou art",
       "url": "https://open.spotify.com/track/7utnfGm43yniXcoW9Btz5R"
+    },
+    {
+      "added_at": "2024-06-23 02:19:22",
+      "album": {
+        "name": "Love Is",
+        "url": "https://open.spotify.com/album/3EHmC2TzK9W3AnDds89CiX"
+      },
+      "artists": [
+        {
+          "name": "Allan McKinlay",
+          "url": "https://open.spotify.com/artist/4zMVfhykoerNdhxVnJauFf"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/08XZufZzE2JDLQj9TEwur3"
     },
     {
       "added_at": "2024-06-23 02:19:22",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-06-23 02:19:22",
       "album": {
-        "name": "Old Soul",
-        "url": "https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW"
-      },
-      "artists": [
-        {
-          "name": "Finding Favour",
-          "url": "https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM"
-        }
-      ],
-      "duration_ms": 221684,
-      "name": "Old Soul",
-      "url": "https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef"
-    },
-    {
-      "added_at": "2024-06-23 02:19:22",
-      "album": {
         "name": "Up Again (Acoustic Mix)",
         "url": "https://open.spotify.com/album/6bxngQfzDAqyDJfjD7ynEq"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 213360,
       "name": "Up Again (Acoustic Mix)",
       "url": "https://open.spotify.com/track/0P7JFcfRbg69vyuVkMIori"
+    },
+    {
+      "added_at": "2024-06-23 02:19:22",
+      "album": {
+        "name": "Old Soul",
+        "url": "https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW"
+      },
+      "artists": [
+        {
+          "name": "Finding Favour",
+          "url": "https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM"
+        }
+      ],
+      "duration_ms": 221684,
+      "name": "Old Soul",
+      "url": "https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef"
     },
     {
       "added_at": "2024-06-23 02:19:22",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-06-23 02:19:22",
       "album": {
-        "name": "Find My Home",
-        "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
-      },
-      "artists": [
-        {
-          "name": "Shiny Penny",
-          "url": "https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Find My Home",
-      "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
-    },
-    {
-      "added_at": "2024-06-23 02:19:22",
-      "album": {
         "name": "Teach Me",
         "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
       },
@@ -1311,6 +1295,26 @@
       "duration_ms": 213453,
       "name": "Teach Me",
       "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
+    },
+    {
+      "added_at": "2024-06-23 02:19:22",
+      "album": {
+        "name": "Worth Mine",
+        "url": "https://open.spotify.com/album/4Xq0fqEZGhns3H5MwIMeHk"
+      },
+      "artists": [
+        {
+          "name": "Lydia Bricker",
+          "url": "https://open.spotify.com/artist/77SyO2m1cq9Nua1UuNZzvR"
+        },
+        {
+          "name": "Daniel Robinson",
+          "url": "https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa"
+        }
+      ],
+      "duration_ms": 280054,
+      "name": "Worth Mine",
+      "url": "https://open.spotify.com/track/31Zcf0CbOcZy4Y2LX5pBsU"
     }
   ],
   "unique_name": "Love Coffee, Love Jesus",

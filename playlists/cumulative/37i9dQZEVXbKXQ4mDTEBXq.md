@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-450 songs - 1 day 4 hr 1 min
+451 songs - 1 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [silent](https://open.spotify.com/track/6c5k0VC9TBzlcKwtjpzFW2) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [silent](https://open.spotify.com/album/1zL4fVzGjGVuX6tMCUXUyg) | 5:08 | 2021-03-27\* | 2021-05-05 |
 | [silent](https://open.spotify.com/track/7LsVUX6kePVHSohmWmAwaO) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [scent of memory](https://open.spotify.com/album/4itk7c0pByLsMzpwsajyW3) | 5:10 | 2022-12-25 | 2022-12-29 |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-09-09 | 2023-11-09 |
+| [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/album/2PcM535knJOZb6MUth8axj) | 3:02 | 2024-07-03 |  |
 | [Smile Again](https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Smile Again](https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M) | 3:22 | 2023-04-25 | 2023-05-24 |
 | [snow jam](https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [swipe sheep](https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do) | 3:05 | 2021-03-27\* | 2021-07-18 |
 | [sonna bitter na hanashi](https://open.spotify.com/track/2rKtVgSIlMM6SgMVcJk9mb) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [sonna bitter na hanashi](https://open.spotify.com/album/4OiEGYDKkZEY9iLwbu06ZR) | 4:36 | 2023-10-04 | 2023-10-08 |
@@ -300,7 +301,7 @@
 | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ) | 3:04 | 2022-12-27 | 2023-06-07 |
 | [ドライフラワー](https://open.spotify.com/track/7dH0dpi751EoguDDg3xx6J) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ドライフラワー](https://open.spotify.com/album/69BzgmDXpLIPQI4tUGuLZM) | 4:45 | 2021-03-27\* | 2022-01-14 |
 | [ドライフラワー](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 4:46 | 2022-01-13 | 2024-02-09 |
-| [ナハトムジーク](https://open.spotify.com/track/7sditHCsoFw3nHnjFv1BHV) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ナハトムジーク](https://open.spotify.com/album/3ciQ76hHbqu2syaDi0QPti) | 4:22 | 2024-01-18 |  |
+| [ナハトムジーク](https://open.spotify.com/track/7sditHCsoFw3nHnjFv1BHV) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ナハトムジーク](https://open.spotify.com/album/3ciQ76hHbqu2syaDi0QPti) | 4:22 | 2024-01-18 | 2024-07-04 |
 | [ハピネス](https://open.spotify.com/track/4Ls20opS0EzPb7NuA6F8VI) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [INDEPENDENT](https://open.spotify.com/album/4RTzwKeZd6nL1JQxRG6CFU) | 4:15 | 2023-12-25 | 2023-12-27 |
 | [ハルカ](https://open.spotify.com/track/5D9MPWdY2hjSeTIGE5n5kv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:03 | 2021-03-27\* | 2021-11-20 |
 | [ハルジオン](https://open.spotify.com/track/08YwAPnX8sygJUXG9rvhDv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 3:18 | 2021-03-27\* | 2021-11-25 |

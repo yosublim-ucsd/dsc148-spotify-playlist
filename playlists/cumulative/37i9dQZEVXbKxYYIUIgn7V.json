@@ -1371,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "B\u0130Z KORKMAYIZ",
+        "url": "https://open.spotify.com/album/0tepjxLjahvGkgAdOl1ZPF"
+      },
+      "artists": [
+        {
+          "name": "BARO",
+          "url": "https://open.spotify.com/artist/56eHPZde3kPub1M6nYC7Cs"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135272,
+      "name": "B\u0130Z KORKMAYIZ",
+      "url": "https://open.spotify.com/track/1Ec2qkYE46viytFCq5O3t8"
+    },
+    {
+      "album": {
         "name": "Blame The Moon",
         "url": "https://open.spotify.com/album/372YURpTeI9L6fkMNH6Nx2"
       },
@@ -4602,7 +4620,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 184841,
       "name": "HOT TO GO!",
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
@@ -4656,7 +4674,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 226760,
       "name": "I am from Austria",
       "url": "https://open.spotify.com/track/1JIaXY2yUMPHs0eAzPUjsP"
@@ -5623,6 +5641,28 @@
     },
     {
       "album": {
+        "name": "KETA UND KRAWALL",
+        "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "Barr\u00e9",
+          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125492,
+      "name": "KETA UND KRAWALL",
+      "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
+    },
+    {
+      "album": {
         "name": "Kisses (feat. bbyclose)",
         "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
       },
@@ -6195,6 +6235,28 @@
     },
     {
       "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202648,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am"
+    },
+    {
+      "album": {
         "name": "Life Is A Highway (JF Jake X GwnMike Bounce Remix)",
         "url": "https://open.spotify.com/album/5FzWSOIU5q1MY1dxww8GdG"
       },
@@ -6470,7 +6532,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 173168,
       "name": "Love Potions",
       "url": "https://open.spotify.com/track/6ZK4VMxfEYLPqpSvX2l4iY"
@@ -6910,7 +6972,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 51853,
       "name": "Mangos - Tiktok Version",
       "url": "https://open.spotify.com/track/1wD755PZiaAhiCOgvFLGq6"
@@ -8415,6 +8477,28 @@
     },
     {
       "album": {
+        "name": "Pink Lemonade (Str8 Reload)",
+        "url": "https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Mr Reload It",
+          "url": "https://open.spotify.com/artist/51Ap1wNTfeway5Q06oFCLh"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122208,
+      "name": "Pink Lemonade (Str8 Reload)",
+      "url": "https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht"
+    },
+    {
+      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -8584,7 +8668,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 122187,
       "name": "Pop like this Pt. 2 - Slowed",
       "url": "https://open.spotify.com/track/2JH5P7TPQAlKDvBZAkMXDp"
@@ -10208,6 +10292,24 @@
       "duration_ms": 137473,
       "name": "T.N.T. - Techno Remix",
       "url": "https://open.spotify.com/track/6l514NhnJZJgHgYFeimsWs"
+    },
+    {
+      "album": {
+        "name": "Ta3al Lahon 2",
+        "url": "https://open.spotify.com/album/2hT2gESHEyTsREde67VLWU"
+      },
+      "artists": [
+        {
+          "name": "Hassan",
+          "url": "https://open.spotify.com/artist/3jAuV6zgtgie37vpiwh8m8"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138027,
+      "name": "Ta3al Lahon 2",
+      "url": "https://open.spotify.com/track/6GaiAuFaCE2jPgRn9V4OBy"
     },
     {
       "album": {

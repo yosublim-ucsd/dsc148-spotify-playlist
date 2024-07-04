@@ -1,6 +1,6 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 8660244,
+  "num_followers": 8661726,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "Hard To Earn",
+        "url": "https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "Mass Appeal",
+      "url": "https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "Harlem World",
         "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 242946,
       "name": "What You Want (feat. Total)",
       "url": "https://open.spotify.com/track/6hxn98poTu1O4YZfafvC18"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "Hard To Earn",
-        "url": "https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "Mass Appeal",
-      "url": "https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "Illmatic",
+        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 260799,
+      "name": "Halftime",
+      "url": "https://open.spotify.com/track/2PRsh2LNPxoxC9OnErnelg"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "Gettin' It (Album Number Ten)",
         "url": "https://open.spotify.com/album/27q3JlNTwpv5Zvf7yDReHH"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 341426,
       "name": "Gettin' It (feat. Parliament Funkadelic)",
       "url": "https://open.spotify.com/track/5K5dQsYdSdo2LKdepxbYAd"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "Illmatic",
-        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 260799,
-      "name": "Halftime",
-      "url": "https://open.spotify.com/track/2PRsh2LNPxoxC9OnErnelg"
     },
     {
       "added_at": "2024-06-28 10:14:13",

@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \ud83d\udc97 with Swedish House Mafia ",
-  "num_followers": 251626,
+  "num_followers": 251742,
   "original_name": "EDM 2024",
   "owner": {
     "name": "Spotify",
@@ -1283,26 +1283,22 @@
     {
       "added_at": "2024-06-28 04:52:35",
       "album": {
-        "name": "Mountains",
-        "url": "https://open.spotify.com/album/2pgyKAkm9xy1CtxjLusURR"
+        "name": "A Bar Song (Tipsy) [Remix]",
+        "url": "https://open.spotify.com/album/0oNjcrEbdpkDuDYypawNah"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         },
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 178619,
-      "name": "Mountains",
-      "url": "https://open.spotify.com/track/5JqTe36RFGJ1wdYBma0cZ7"
+      "duration_ms": 163863,
+      "name": "A Bar Song (Tipsy) [Remix}",
+      "url": "https://open.spotify.com/track/5yr1JLt5hokAyU8NBr75jr"
     },
     {
       "added_at": "2024-06-28 04:52:35",
@@ -1355,22 +1351,26 @@
     {
       "added_at": "2024-06-28 04:52:35",
       "album": {
-        "name": "A Bar Song (Tipsy) [Remix]",
-        "url": "https://open.spotify.com/album/0oNjcrEbdpkDuDYypawNah"
+        "name": "Mountains",
+        "url": "https://open.spotify.com/album/2pgyKAkm9xy1CtxjLusURR"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
         }
       ],
-      "duration_ms": 163863,
-      "name": "A Bar Song (Tipsy) [Remix}",
-      "url": "https://open.spotify.com/track/5yr1JLt5hokAyU8NBr75jr"
+      "duration_ms": 178619,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/5JqTe36RFGJ1wdYBma0cZ7"
     },
     {
       "added_at": "2024-06-28 04:52:35",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2024-06-28 04:52:35",
       "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Jordan Rys",
-          "url": "https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI"
-        }
-      ],
-      "duration_ms": 143117,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp"
-    },
-    {
-      "added_at": "2024-06-28 04:52:35",
-      "album": {
         "name": "Crush Me Down (You Spin Me Around)",
         "url": "https://open.spotify.com/album/6qypYS9alhKACA6XzPDDwB"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 121232,
       "name": "Crush Me Down (You Spin Me Around)",
       "url": "https://open.spotify.com/track/2E8ometum2UaxsEdH8VS5z"
+    },
+    {
+      "added_at": "2024-06-28 04:52:35",
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Jordan Rys",
+          "url": "https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI"
+        }
+      ],
+      "duration_ms": 143117,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp"
     },
     {
       "added_at": "2024-06-28 04:52:35",
@@ -2155,26 +2155,6 @@
     {
       "added_at": "2024-06-28 04:52:35",
       "album": {
-        "name": "Atomic City (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/4pdFQC4OGzSXvHrczPTiSr"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 283888,
-      "name": "Atomic City - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/4AntJoNSbWUxcKb8J5QjBY"
-    },
-    {
-      "added_at": "2024-06-28 04:52:35",
-      "album": {
         "name": "I Got Nothing",
         "url": "https://open.spotify.com/album/32wadIN0emxBanTLINlH08"
       },
@@ -2195,6 +2175,26 @@
       "duration_ms": 203540,
       "name": "I Got Nothing",
       "url": "https://open.spotify.com/track/4yagkb6nJCRcfjUhaOVHTw"
+    },
+    {
+      "added_at": "2024-06-28 04:52:35",
+      "album": {
+        "name": "Atomic City (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4pdFQC4OGzSXvHrczPTiSr"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 283888,
+      "name": "Atomic City - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/4AntJoNSbWUxcKb8J5QjBY"
     },
     {
       "added_at": "2024-06-28 04:52:35",

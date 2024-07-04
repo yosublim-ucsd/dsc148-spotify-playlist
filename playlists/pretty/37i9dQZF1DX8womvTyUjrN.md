@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Boza & Elena Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,602 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,614 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

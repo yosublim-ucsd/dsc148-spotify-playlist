@@ -4,7 +4,7 @@
 
 > This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 45 min
+73 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,8 +52,9 @@
 | [リボン \- feat.桜井和寿\(Mr.Children\)](https://open.spotify.com/track/1Yk7N0YXbx36UfvdwnZjBt) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Kazutoshi Sakurai](https://open.spotify.com/artist/4zDHk92mbBkXMT6QIisUvN) | [リボン \[feat.桜井和寿\(Mr.Children\)\]](https://open.spotify.com/album/50IqCwJbqBzE6mOFIsSQyk) | 3:56 | 2023-12-13 |  |
 | [ルパン三世'78](https://open.spotify.com/track/3GUQ1HfyTPQ9mSP8ya95Ee) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [BEST OF TOKYO SKA 1998\-2007](https://open.spotify.com/album/6fHwXjGZqaA4HW5yigfuEq) | 2:51 | 2023-01-14 |  |
 | [ルパン三世のテーマ'78](https://open.spotify.com/track/4YjQTyYjB5aGITR36Dmatx) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last〜Live〜](https://open.spotify.com/album/62wUvIqZFqkjSPfOemXRWh) | 2:41 | 2023-01-14 |  |
+| [一日花 feat.imase & 習志野高校吹奏楽部](https://open.spotify.com/track/1iclTsAT16fR9MkzBn59PZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [習志野高校吹奏楽部](https://open.spotify.com/artist/5xbDPS7E7ywnv4av18XEd6) | [一日花 feat.imase & 習志野高校吹奏楽部](https://open.spotify.com/album/0c4UljWfYwTkhDbrnlpcQG) | 4:46 | 2024-07-04 |  |
 | [七人だからレインボー \- feat\. てれび戦士\(ショウタ・ソニア・マウナ・レイ・ハルト・ミオ・メイ\)](https://open.spotify.com/track/0nJNGvNjuztRFGQWhpnQ7P) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [てれび戦士\(ショウタ・ソニア・マウナ・レイ・ハルト・ミオ・メイ\)](https://open.spotify.com/artist/6T10nqb44WT5HRJv0xRsLH) | [七人だからレインボー \[feat\. てれび戦士\(ショウタ・ソニア・マウナ・レイ・ハルト・ミオ・メイ\)\]](https://open.spotify.com/album/4pGPV1cUop8ZSr3JQkJqhb) | 1:33 | 2023-02-05 | 2023-09-19 |
-| [仮面ライダーセイバー \- 『仮面ライダーセイバー』エンディングテーマ](https://open.spotify.com/track/5Pp5PkCW8QgvSJGcD1dsdQ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [ALMIGHTY〜仮面の約束](https://open.spotify.com/album/0oBt1JEwV9ajd09R4hGDmH) | 3:02 | 2023-01-14 |  |
+| [仮面ライダーセイバー \- 『仮面ライダーセイバー』エンディングテーマ](https://open.spotify.com/track/5Pp5PkCW8QgvSJGcD1dsdQ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [ALMIGHTY〜仮面の約束](https://open.spotify.com/album/0oBt1JEwV9ajd09R4hGDmH) | 3:02 | 2023-01-14 | 2024-07-04 |
 | [仮面ライダーセイバー \- 『仮面ライダーセイバー』エンディングテーマ TV size](https://open.spotify.com/track/3nc24kllr6K8JAs4tPM7BB) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [仮面ライダーセイバー \(『仮面ライダーセイバー』エンディングテーマ TV size\)](https://open.spotify.com/album/1A2JKeO3PaIGLrSnUCXpmp) | 1:19 | 2023-06-24 | 2023-06-26 |
 | [会いたいね。゚\(゚ ́ω\`゚\)゚。 \- feat.長谷川白紙](https://open.spotify.com/track/3jWH0Ydk5PgzHznw2ChALK) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [SKA=ALMIGHTY](https://open.spotify.com/album/4JkTB7zgbEOh96u47q9P9C) | 3:52 | 2023-12-13 | 2023-12-16 |
 | [北斗七星](https://open.spotify.com/track/39g89cqTVnDGbqt4OVHJRo) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [JUNK or GEM](https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw) | 3:54 | 2023-03-19 | 2024-06-09 |

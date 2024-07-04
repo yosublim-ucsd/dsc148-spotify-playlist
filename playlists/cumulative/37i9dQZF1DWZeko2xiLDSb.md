@@ -4,7 +4,7 @@
 
 > soundtrack those long, dark days with warm indie favourites
 
-140 songs - 8 hr 41 min
+141 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 | 2024-01-12 | 2024-04-19 |
 | [Angel](https://open.spotify.com/track/2WDumSXgwXLLS6gtY34150) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Coyote \(Expanded Edition\)](https://open.spotify.com/album/0XHrdPYz5DQeg81eqHORPd) | 3:34 | 2024-01-19 | 2024-04-19 |
 | [Angel](https://open.spotify.com/track/4qujkKuj2wsp0aT5acqyia) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Coyote \(Expanded Edition\)](https://open.spotify.com/album/4TiCfBvq4V9pCXy2yjJ6Zt) | 3:34 | 2024-04-12 |  |
+| [Atmosphere](https://open.spotify.com/track/2SfoxWr00HN0iYpxyVDMyQ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:57 | 2024-06-21 |  |
 | [Avril 14th](https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:05 | 2024-01-12 | 2024-04-19 |
 | [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 | 2024-05-27 |  |
 | [Bathroom Light](https://open.spotify.com/track/32xm5clCZkPPc7hdQRZjYQ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:08 | 2024-01-12 |  |
@@ -64,7 +65,7 @@
 | [Honest Love](https://open.spotify.com/track/4dIAlqPSxi5DiIEjOhzNV1) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Honest Love](https://open.spotify.com/album/7at93U2OD7nuYVVWhwFFZV) | 3:54 | 2024-01-19 | 2024-02-10 |
 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 | 2024-01-12 |  |
 | [I Got You, Honey](https://open.spotify.com/track/6GgWI2t7G0bgUzVoZDlM6R) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [EP](https://open.spotify.com/album/1ewyUvC97wRYnvK61UssDm) | 2:41 | 2024-01-12 |  |
-| [I Hope I Packed A Parachute \(feat\. Charlotte Cardin\)](https://open.spotify.com/track/2AB27ZGxzb8z2rwTvdCDif) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 3:37 | 2024-06-21 |  |
+| [I Hope I Packed A Parachute \(feat\. Charlotte Cardin\)](https://open.spotify.com/track/2AB27ZGxzb8z2rwTvdCDif) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 3:37 | 2024-06-21 | 2024-07-04 |
 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 | 2024-01-12 |  |
 | [If You Lie Down With Me](https://open.spotify.com/track/1RPsOAaHaRu8JlVdeaciuL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 4:25 | 2024-01-12 | 2024-02-10 |
 | [It Could Be Nice](https://open.spotify.com/track/1q4L3WSZSygxR2GjuFswAF) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender \(Expanded Edition\)](https://open.spotify.com/album/62VoEhJtVh6jeqL7vHsEnX) | 2:52 | 2024-01-12 | 2024-02-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,418 likes - 51 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,544 likes - 51 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 50 | [Pa' Que Mami No Llore](https://open.spotify.com/track/0R2afZhhIkljgXj9BcGK7D) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Pa' Que Mami No Llore](https://open.spotify.com/album/2jCTuHgAwxIYmBr8k5WVt8) | 3:51 |
 | 51 | [Como Tú Todas](https://open.spotify.com/track/0Vs1CeOutE6JwdEjSMZD5n) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 2:41 |
 
-Snapshot ID: `ZoHxgAAAAABTszcyZihtwSC5n/UB8ODt`
+Snapshot ID: `ZoNDAAAAAADvMYfAqoE1wESKWKunh8ng`

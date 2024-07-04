@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de J Abdiel, Anuel AA, Blessd, iZaak y Pirlo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,946 likes - 99 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,972 likes - 99 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 20 | [REAL GANGSTA LOVE](https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:25 |
 | 21 | [Coquette](https://open.spotify.com/track/6sPKOxspAQdgYVkuwEvBf9) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [Coquette](https://open.spotify.com/album/73Ez7a0xHO32zMWBYcOIRr) | 2:32 |
 | 22 | [TQMQA](https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [TQMQA](https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r) | 2:49 |
-| 23 | [Su Gato](https://open.spotify.com/track/2M0iF6YXLO4VzC1xMmU27U) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Su Gato](https://open.spotify.com/album/1LIdkdDI8SqYPbdnCJddlF) | 1:56 |
+| 23 | [SU GATO](https://open.spotify.com/track/2M0iF6YXLO4VzC1xMmU27U) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [SU GATO](https://open.spotify.com/album/1LIdkdDI8SqYPbdnCJddlF) | 1:56 |
 | 24 | [PULL UP!](https://open.spotify.com/track/6FFuIWkavxpcwxeyZRgXuJ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:23 |
 | 25 | [No Me Hables De Amor](https://open.spotify.com/track/5ScglgnUOlN8cPrPGhZXo7) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Viva La Musik](https://open.spotify.com/album/1AFU8pGn801UpX69JsPLay) | 3:28 |
 | 26 | [Mezcalito en copa](https://open.spotify.com/track/3r4K0mYTigmkODUqkU9MGN) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Mezcalito en copa](https://open.spotify.com/album/2skejlYNbtowtMpPbWibmE) | 3:06 |

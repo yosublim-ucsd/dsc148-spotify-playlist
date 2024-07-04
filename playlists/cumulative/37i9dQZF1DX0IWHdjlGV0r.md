@@ -4,7 +4,7 @@
 
 > Alcuni amori bruciano più di altri\. Cover: Lazza
 
-179 songs - 9 hr 14 min
+180 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Guerra Persa](https://open.spotify.com/track/5K2iD1Ch3a1FHMR3U1foFi) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [Northside Melodies](https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX) | 2:47 | 2024-06-20 |  |
 | [Habibi](https://open.spotify.com/track/2dyQYsU8cJLSGpVsbOy0CO) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Album](https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B) | 3:04 | 2022-05-03 | 2024-01-12 |
 | [HONEY \(feat\. Lazza & Capo Plaza\)](https://open.spotify.com/track/2HIv4bKTCULRZ2eZIkVB3N) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:44 | 2024-03-15 |  |
+| [I LOVE IT \(feat\. Artie 5ive\)](https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 3:11 | 2024-07-03 |  |
 | [I Miss U \(feat\. Tony Boy\)](https://open.spotify.com/track/52vA7mR6kKFJTaMzRUKMmk) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 3:03 | 2024-05-02 |  |
 | [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 | 2024-02-13 |  |
 | [IL CIELO NELLA STANZA \(feat\. NSTASIA\)](https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:06 | 2022-05-03 |  |

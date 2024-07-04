@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 315674,
+  "num_followers": 315744,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-06-21 12:28:07",
       "album": {
-        "name": "Uma Noite E 1/2",
-        "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Costa",
-          "url": "https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7"
-        }
-      ],
-      "duration_ms": 170608,
-      "name": "Uma Noite E 1/2",
-      "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
-    },
-    {
-      "added_at": "2024-06-21 12:28:07",
-      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 190453,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e"
+    },
+    {
+      "added_at": "2024-06-21 12:28:07",
+      "album": {
+        "name": "Uma Noite E 1/2",
+        "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Costa",
+          "url": "https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7"
+        }
+      ],
+      "duration_ms": 170608,
+      "name": "Uma Noite E 1/2",
+      "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
     },
     {
       "added_at": "2024-06-21 12:28:07",
@@ -723,6 +723,26 @@
     {
       "added_at": "2024-06-21 12:28:07",
       "album": {
+        "name": "Terra do Sol",
+        "url": "https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8"
+      },
+      "artists": [
+        {
+          "name": "Calm\u00f4",
+          "url": "https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy"
+        },
+        {
+          "name": "Tupi Machine",
+          "url": "https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l"
+        }
+      ],
+      "duration_ms": 153253,
+      "name": "Terra do Sol",
+      "url": "https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf"
+    },
+    {
+      "added_at": "2024-06-21 12:28:07",
+      "album": {
         "name": "Our Love",
         "url": "https://open.spotify.com/album/1GhDBChURERKoa0hIcJkIf"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 276509,
       "name": "Santa Terra",
       "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
-    },
-    {
-      "added_at": "2024-06-21 12:28:07",
-      "album": {
-        "name": "Terra do Sol",
-        "url": "https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8"
-      },
-      "artists": [
-        {
-          "name": "Calm\u00f4",
-          "url": "https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy"
-        },
-        {
-          "name": "Tupi Machine",
-          "url": "https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l"
-        }
-      ],
-      "duration_ms": 153253,
-      "name": "Terra do Sol",
-      "url": "https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf"
     },
     {
       "added_at": "2024-06-21 12:28:07",

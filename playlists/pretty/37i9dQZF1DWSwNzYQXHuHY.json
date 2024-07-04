@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9800,
+  "num_followers": 9799,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -263,26 +263,6 @@
     {
       "added_at": "2024-06-05 03:49:47",
       "album": {
-        "name": "Ordinary Love",
-        "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
-      },
-      "artists": [
-        {
-          "name": "Park Kyung",
-          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
-        },
-        {
-          "name": "Park Boram",
-          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
-    },
-    {
-      "added_at": "2024-06-05 03:49:47",
-      "album": {
         "name": "HOSPITAL PLAYLIST Season2, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 226560,
       "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
       "url": "https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t"
+    },
+    {
+      "added_at": "2024-06-05 03:49:47",
+      "album": {
+        "name": "Ordinary Love",
+        "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
+      },
+      "artists": [
+        {
+          "name": "Park Kyung",
+          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
+        },
+        {
+          "name": "Park Boram",
+          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
+        }
+      ],
+      "duration_ms": 232866,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
     },
     {
       "added_at": "2024-06-05 03:49:47",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-06-05 03:49:47",
       "album": {
+        "name": "A New Decade",
+        "url": "https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4"
+      },
+      "artists": [
+        {
+          "name": "DINDIN",
+          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Should Not Love You",
+      "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"
+    },
+    {
+      "added_at": "2024-06-05 03:49:47",
+      "album": {
         "name": "HESITATING",
         "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 134706,
       "name": "SHIT SHOW (feat. Leellamarz)",
       "url": "https://open.spotify.com/track/2fX6NGjW9s8EukBuwZG5Y5"
-    },
-    {
-      "added_at": "2024-06-05 03:49:47",
-      "album": {
-        "name": "A New Decade",
-        "url": "https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4"
-      },
-      "artists": [
-        {
-          "name": "DINDIN",
-          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Should Not Love You",
-      "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"
     },
     {
       "added_at": "2024-06-05 03:49:47",
@@ -859,22 +859,18 @@
     {
       "added_at": "2024-06-05 03:49:47",
       "album": {
-        "name": "HESITATING",
-        "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
+        "name": "be like YOU",
+        "url": "https://open.spotify.com/album/4DvrkrGMiV3rl5GaoskeG8"
       },
       "artists": [
         {
-          "name": "h3hyeon",
-          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+          "name": "JUNGSOOMIN",
+          "url": "https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc"
         }
       ],
-      "duration_ms": 178706,
-      "name": "JUST RIGHT (feat. SOLE)",
-      "url": "https://open.spotify.com/track/6wevHkyjRNc6B92Mt4mHaC"
+      "duration_ms": 154173,
+      "name": "be like YOU",
+      "url": "https://open.spotify.com/track/2OpFlqsiJHetPoNMWpHJhE"
     }
   ],
   "unique_name": "\uc378 (Something)",

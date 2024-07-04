@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:0gqbW7Uf6BAWiAh5C6jlPs">Tommy Royale</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,366 likes - 96 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,468 likes - 96 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

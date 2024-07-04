@@ -1,6 +1,6 @@
 {
   "description": "N\u00fd t\u00f3nlist!",
-  "num_followers": 8984,
+  "num_followers": 8987,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -191,7 +191,7 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
-        "name": "Style Rare (feat. Gunna)",
+        "name": "Style Rare (with Gunna)",
         "url": "https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0"
       },
       "artists": [
@@ -205,7 +205,7 @@
         }
       ],
       "duration_ms": 208800,
-      "name": "Style Rare (feat. Gunna)",
+      "name": "Style Rare (with Gunna)",
       "url": "https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni"
     },
     {
@@ -263,26 +263,6 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
-        "name": "Bad Cameo",
-        "url": "https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 298882,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
         "name": "Tonight (D.I.Y.A)",
         "url": "https://open.spotify.com/album/4RhrsCGc8rziRbyPa3SnFF"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 181341,
       "name": "Tonight (D.I.Y.A)",
       "url": "https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
+        "name": "Bad Cameo",
+        "url": "https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 298882,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
+        "name": "Bitter Sweet Love (Deluxe)",
+        "url": "https://open.spotify.com/album/77RV71qonUUyGIJdmHyl4N"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 204962,
+      "name": "Sinners",
+      "url": "https://open.spotify.com/track/6nExxTqLbu86aatoDqCafi"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
         "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
         "url": "https://open.spotify.com/album/4kepJ3GktWe5ijlknpPN88"
       },
@@ -407,42 +423,6 @@
       "duration_ms": 232374,
       "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
       "url": "https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
-        "name": "Bitter Sweet Love (Deluxe)",
-        "url": "https://open.spotify.com/album/77RV71qonUUyGIJdmHyl4N"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 204962,
-      "name": "Sinners",
-      "url": "https://open.spotify.com/track/6nExxTqLbu86aatoDqCafi"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
-        "name": "Miss Independent",
-        "url": "https://open.spotify.com/album/0nqnSOBfk40E7PKulHrK8Z"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "R2R MOE",
-          "url": "https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Miss Independent",
-      "url": "https://open.spotify.com/track/3cJYabIZeTxKGoqJcGrfZz"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -475,18 +455,22 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
-        "name": "My Love Mine All Mine",
-        "url": "https://open.spotify.com/album/5BBXUlOi58I4b5KdlH6ydb"
+        "name": "Miss Independent",
+        "url": "https://open.spotify.com/album/0nqnSOBfk40E7PKulHrK8Z"
       },
       "artists": [
         {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "R2R MOE",
+          "url": "https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9"
         }
       ],
-      "duration_ms": 165320,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/7p5s2kZojXFV5fSMRpc8pq"
+      "duration_ms": 185142,
+      "name": "Miss Independent",
+      "url": "https://open.spotify.com/track/3cJYabIZeTxKGoqJcGrfZz"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -511,6 +495,22 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
+        "name": "My Love Mine All Mine",
+        "url": "https://open.spotify.com/album/5BBXUlOi58I4b5KdlH6ydb"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 165320,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/7p5s2kZojXFV5fSMRpc8pq"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
         "name": "Paragon",
         "url": "https://open.spotify.com/album/49HNGYy1UK8mHp5HgqYOhI"
       },
@@ -527,22 +527,6 @@
       "duration_ms": 200970,
       "name": "Heavenly Hell (ft. Ne-Yo)",
       "url": "https://open.spotify.com/track/37lbQkTnqNQ2H3mGvhh7AE"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
-        "name": "Running Out Of Time",
-        "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Running Out Of Time",
-      "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -567,6 +551,22 @@
       "duration_ms": 147230,
       "name": "Spicy Margarita (A7S Remix)",
       "url": "https://open.spotify.com/track/4iDztJeRKU05YvfufEZ1XG"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
+        "name": "Running Out Of Time",
+        "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -623,6 +623,26 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
+        "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
+        "url": "https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "duration_ms": 150987,
+      "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
+      "url": "https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
         "name": "Can't Get Over You",
         "url": "https://open.spotify.com/album/3J07bVAVB325OAea7G2nbZ"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 140250,
       "name": "Can't Get Over You",
       "url": "https://open.spotify.com/track/6cME0wF4IYM660meJm3b4B"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
-        "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
-        "url": "https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Tot\u00f3 La Momposina",
-          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
-        }
-      ],
-      "duration_ms": 150987,
-      "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
-      "url": "https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
+        "name": "Don't Call",
+        "url": "https://open.spotify.com/album/1nY3JwvqVliwQgjmNVRPUP"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 229105,
+      "name": "Don't Call",
+      "url": "https://open.spotify.com/track/1MqZc58tU1uLQ5CFLkHXb2"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
         "name": "LOVER",
         "url": "https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
-        "name": "Don't Call",
-        "url": "https://open.spotify.com/album/1nY3JwvqVliwQgjmNVRPUP"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 229105,
-      "name": "Don't Call",
-      "url": "https://open.spotify.com/track/1MqZc58tU1uLQ5CFLkHXb2"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
         "name": "New Feeling",
         "url": "https://open.spotify.com/album/4tSmSKg7v1BYVuKzcyOFDs"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 257380,
       "name": "New Feeling",
       "url": "https://open.spotify.com/track/3lhBdBZRpf9uVQPswDYjK4"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
+        "name": "Dear Joe,",
+        "url": "https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "duration_ms": 238246,
+      "name": "HOW DARE YOU",
+      "url": "https://open.spotify.com/track/4s3yRuJm8kO1Xzi3Yeqa81"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -775,22 +791,6 @@
       "duration_ms": 150620,
       "name": "Whenever You Are",
       "url": "https://open.spotify.com/track/1GTNkBaHKcnVrZkFFlaWIW"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
-        "name": "Dear Joe,",
-        "url": "https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        }
-      ],
-      "duration_ms": 238246,
-      "name": "HOW DARE YOU",
-      "url": "https://open.spotify.com/track/4s3yRuJm8kO1Xzi3Yeqa81"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
-        "name": "the thing about you",
-        "url": "https://open.spotify.com/album/4peXtpFElRZAgs76jHOifT"
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/198js3GmZdhSrvOhiEJnuQ"
       },
       "artists": [
         {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
         }
       ],
-      "duration_ms": 160618,
-      "name": "the thing about you",
-      "url": "https://open.spotify.com/track/6KNGUyfu8l8BTwUP0urEhQ"
+      "duration_ms": 184615,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/71NA0mXMhLssO4TYzNvtQ5"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
-        "name": "Shivers",
-        "url": "https://open.spotify.com/album/198js3GmZdhSrvOhiEJnuQ"
+        "name": "Security",
+        "url": "https://open.spotify.com/album/2C5KDJOu67n6whfEca7tHE"
       },
       "artists": [
         {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+          "name": "Raleigh Ritchie",
+          "url": "https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq"
         }
       ],
-      "duration_ms": 184615,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/71NA0mXMhLssO4TYzNvtQ5"
+      "duration_ms": 249306,
+      "name": "Security",
+      "url": "https://open.spotify.com/track/22dFLZtw7uOkgL2kSk1GWJ"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
-        "name": "Security",
-        "url": "https://open.spotify.com/album/2C5KDJOu67n6whfEca7tHE"
+        "name": "the thing about you",
+        "url": "https://open.spotify.com/album/4peXtpFElRZAgs76jHOifT"
       },
       "artists": [
         {
-          "name": "Raleigh Ritchie",
-          "url": "https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq"
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
         }
       ],
-      "duration_ms": 249306,
-      "name": "Security",
-      "url": "https://open.spotify.com/track/22dFLZtw7uOkgL2kSk1GWJ"
+      "duration_ms": 160618,
+      "name": "the thing about you",
+      "url": "https://open.spotify.com/track/6KNGUyfu8l8BTwUP0urEhQ"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/2L8HGWbH8MN32dx6IdjEs9"
+      },
+      "artists": [
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        },
+        {
+          "name": "Silke",
+          "url": "https://open.spotify.com/artist/1CfY8GMX1i8Wd0OVlXt0MG"
+        }
+      ],
+      "duration_ms": 128903,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/5KMk9QAdH2wOn7j93HIEl6"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
         "name": "Sleepless Again",
         "url": "https://open.spotify.com/album/6vzX86NIqmMZg7wMv13vZl"
       },
@@ -1235,22 +1255,18 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/2L8HGWbH8MN32dx6IdjEs9"
+        "name": "Come Around",
+        "url": "https://open.spotify.com/album/4ZDNJrvHXeLWqxrJmT1uFe"
       },
       "artists": [
         {
-          "name": "ILYAA",
-          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
-        },
-        {
-          "name": "Silke",
-          "url": "https://open.spotify.com/artist/1CfY8GMX1i8Wd0OVlXt0MG"
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
         }
       ],
-      "duration_ms": 128903,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/5KMk9QAdH2wOn7j93HIEl6"
+      "duration_ms": 150937,
+      "name": "Come Around",
+      "url": "https://open.spotify.com/track/0AMb8oicfXbM0u2FVHYbFM"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -1267,22 +1283,6 @@
       "duration_ms": 131039,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/3AW26RsW8rUFfgK2Br4z7i"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
-        "name": "Come Around",
-        "url": "https://open.spotify.com/album/4ZDNJrvHXeLWqxrJmT1uFe"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 150937,
-      "name": "Come Around",
-      "url": "https://open.spotify.com/track/0AMb8oicfXbM0u2FVHYbFM"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
+        "name": "Dying Light",
+        "url": "https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH"
+      },
+      "artists": [
+        {
+          "name": "Vilhelm Buchaus",
+          "url": "https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl"
+        }
+      ],
+      "duration_ms": 173694,
+      "name": "Dying Light",
+      "url": "https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
         "name": "JUICY",
         "url": "https://open.spotify.com/album/0SkXJSBPFJzfoQblvPSk3l"
       },
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
-        "name": "Dying Light",
-        "url": "https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH"
-      },
-      "artists": [
-        {
-          "name": "Vilhelm Buchaus",
-          "url": "https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl"
-        }
-      ],
-      "duration_ms": 173694,
-      "name": "Dying Light",
-      "url": "https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb"
       },
@@ -1439,42 +1439,6 @@
       "duration_ms": 199683,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
-        "name": "Don't Break My Heart In July",
-        "url": "https://open.spotify.com/album/3tyIcnrtZENJS2BhdWuUjG"
-      },
-      "artists": [
-        {
-          "name": "Tobias Samuel",
-          "url": "https://open.spotify.com/artist/00omZR1oli1xrucHrqR3QW"
-        },
-        {
-          "name": "Luke Alvin",
-          "url": "https://open.spotify.com/artist/484n5top8RJk6NL3mGasDc"
-        }
-      ],
-      "duration_ms": 162240,
-      "name": "Don't Break My Heart In July",
-      "url": "https://open.spotify.com/track/1o4UmeppyRtxw4Xais4IJb"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
-        "name": "99",
-        "url": "https://open.spotify.com/album/0UTyFG69nqcF5BWiGYKljZ"
-      },
-      "artists": [
-        {
-          "name": "Mattis",
-          "url": "https://open.spotify.com/artist/2I6SRX30aAGgVhi5dpDi2o"
-        }
-      ],
-      "duration_ms": 171978,
-      "name": "99",
-      "url": "https://open.spotify.com/track/1lXSpURYt6A3cAB9iptzma"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -1507,6 +1471,42 @@
       "duration_ms": 149976,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1RM6ETOb3uzl59DJUQAQDZ"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/0UTyFG69nqcF5BWiGYKljZ"
+      },
+      "artists": [
+        {
+          "name": "Mattis",
+          "url": "https://open.spotify.com/artist/2I6SRX30aAGgVhi5dpDi2o"
+        }
+      ],
+      "duration_ms": 171978,
+      "name": "99",
+      "url": "https://open.spotify.com/track/1lXSpURYt6A3cAB9iptzma"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
+        "name": "Don't Break My Heart In July",
+        "url": "https://open.spotify.com/album/3tyIcnrtZENJS2BhdWuUjG"
+      },
+      "artists": [
+        {
+          "name": "Tobias Samuel",
+          "url": "https://open.spotify.com/artist/00omZR1oli1xrucHrqR3QW"
+        },
+        {
+          "name": "Luke Alvin",
+          "url": "https://open.spotify.com/artist/484n5top8RJk6NL3mGasDc"
+        }
+      ],
+      "duration_ms": 162240,
+      "name": "Don't Break My Heart In July",
+      "url": "https://open.spotify.com/track/1o4UmeppyRtxw4Xais4IJb"
     },
     {
       "added_at": "2024-06-28 00:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-06-28 00:00:00",
       "album": {
-        "name": "Van Gogh (Alternative Version)",
-        "url": "https://open.spotify.com/album/1NwkFxmD7YzzUvYDNlo7Iu"
-      },
-      "artists": [
-        {
-          "name": "Days of August",
-          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
-        }
-      ],
-      "duration_ms": 198974,
-      "name": "Van Gogh - Alternative Version",
-      "url": "https://open.spotify.com/track/4yFXUEU9P2olJjcVSHjMQR"
-    },
-    {
-      "added_at": "2024-06-28 00:00:00",
-      "album": {
         "name": "Back In Color",
         "url": "https://open.spotify.com/album/6mL4nAyunHV0lTeqhOP4DJ"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 151374,
       "name": "Back In Color",
       "url": "https://open.spotify.com/track/1In2sRnSSw1gxCyXCXAczq"
+    },
+    {
+      "added_at": "2024-06-28 00:00:00",
+      "album": {
+        "name": "Van Gogh (Alternative Version)",
+        "url": "https://open.spotify.com/album/1NwkFxmD7YzzUvYDNlo7Iu"
+      },
+      "artists": [
+        {
+          "name": "Days of August",
+          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
+        }
+      ],
+      "duration_ms": 198974,
+      "name": "Van Gogh - Alternative Version",
+      "url": "https://open.spotify.com/track/4yFXUEU9P2olJjcVSHjMQR"
     },
     {
       "added_at": "2024-06-28 00:00:00",

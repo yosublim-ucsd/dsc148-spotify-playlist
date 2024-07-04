@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 246723,
+  "num_followers": 246737,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,30 @@
     {
       "added_at": "2024-07-02 08:12:14",
       "album": {
+        "name": "Ask Me / Mesmerize",
+        "url": "https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws"
+      },
+      "artists": [
+        {
+          "name": "Duck Sauce",
+          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "duration_ms": 193795,
+      "name": "Ask Me",
+      "url": "https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t"
+    },
+    {
+      "added_at": "2024-07-02 08:12:14",
+      "album": {
         "name": "Like The Deserts Miss The Rain",
         "url": "https://open.spotify.com/album/3fZbJRKdX4TAoC43xo5kWK"
       },
@@ -471,30 +495,6 @@
       "duration_ms": 300266,
       "name": "My Friend",
       "url": "https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir"
-    },
-    {
-      "added_at": "2024-07-02 08:12:14",
-      "album": {
-        "name": "Ask Me / Mesmerize",
-        "url": "https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws"
-      },
-      "artists": [
-        {
-          "name": "Duck Sauce",
-          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        },
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        }
-      ],
-      "duration_ms": 193795,
-      "name": "Ask Me",
-      "url": "https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t"
     },
     {
       "added_at": "2024-07-02 08:12:14",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-02 08:12:14",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 393640,
-      "name": "At the River",
-      "url": "https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9"
-    },
-    {
-      "added_at": "2024-07-02 08:12:14",
-      "album": {
         "name": "Time for a Change",
         "url": "https://open.spotify.com/album/5NPQ3KFdwLrZKuOebTAIzb"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 270405,
       "name": "Instant Need",
       "url": "https://open.spotify.com/track/6obKvh06VvBZP98oqU6YR7"
+    },
+    {
+      "added_at": "2024-07-02 08:12:14",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 393640,
+      "name": "At the River",
+      "url": "https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9"
     },
     {
       "added_at": "2024-07-02 08:12:14",
@@ -715,26 +715,6 @@
     {
       "added_at": "2024-07-02 08:12:14",
       "album": {
-        "name": "L.I.F.E",
-        "url": "https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2"
-      },
-      "artists": [
-        {
-          "name": "&ME",
-          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        }
-      ],
-      "duration_ms": 449093,
-      "name": "L.I.F.E",
-      "url": "https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K"
-    },
-    {
-      "added_at": "2024-07-02 08:12:14",
-      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 284886,
       "name": "Fresh - House of Prayers Poolside Edit",
       "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
+    },
+    {
+      "added_at": "2024-07-02 08:12:14",
+      "album": {
+        "name": "L.I.F.E",
+        "url": "https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "duration_ms": 449093,
+      "name": "L.I.F.E",
+      "url": "https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K"
     },
     {
       "added_at": "2024-07-02 08:12:14",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-07-02 08:12:14",
       "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/0QIT60nFvB6oxdntBO8dmQ"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 183752,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/6SlYQ2fAKWSfHEHNhH2kgM"
-    },
-    {
-      "added_at": "2024-07-02 08:12:14",
-      "album": {
         "name": "The Big Easy",
         "url": "https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 185519,
       "name": "The Big Easy",
       "url": "https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy"
+    },
+    {
+      "added_at": "2024-07-02 08:12:14",
+      "album": {
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/0QIT60nFvB6oxdntBO8dmQ"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 183752,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/6SlYQ2fAKWSfHEHNhH2kgM"
     },
     {
       "added_at": "2024-07-02 08:12:14",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-07-02 08:12:14",
       "album": {
+        "name": "Pressure Makes Diamonds",
+        "url": "https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 344593,
+      "name": "Pressure Makes Diamonds",
+      "url": "https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L"
+    },
+    {
+      "added_at": "2024-07-02 08:12:14",
+      "album": {
         "name": "Ithaque",
         "url": "https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 189026,
       "name": "Ithaque",
       "url": "https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR"
-    },
-    {
-      "added_at": "2024-07-02 08:12:14",
-      "album": {
-        "name": "Floating on Silence",
-        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 381864,
-      "name": "Floating on Silence",
-      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
     },
     {
       "added_at": "2024-07-02 08:12:14",
@@ -1199,34 +1199,18 @@
     {
       "added_at": "2024-07-02 08:12:14",
       "album": {
-        "name": "Pressure Makes Diamonds",
-        "url": "https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh"
+        "name": "Floating on Silence",
+        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
         }
       ],
-      "duration_ms": 344593,
-      "name": "Pressure Makes Diamonds",
-      "url": "https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L"
-    },
-    {
-      "added_at": "2024-07-02 08:12:14",
-      "album": {
-        "name": "Since I Left You",
-        "url": "https://open.spotify.com/album/0CvU96jYCiNP4c9u8dWHoI"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "Since I Left You",
-      "url": "https://open.spotify.com/track/2DgFCys3XMrWZDngu1CrRy"
+      "duration_ms": 381864,
+      "name": "Floating on Silence",
+      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
     },
     {
       "added_at": "2024-07-02 08:12:14",
@@ -1243,6 +1227,22 @@
       "duration_ms": 242500,
       "name": "Karibu",
       "url": "https://open.spotify.com/track/0lJJAJEaVkPMG2PdeLu0Pg"
+    },
+    {
+      "added_at": "2024-07-02 08:12:14",
+      "album": {
+        "name": "Since I Left You",
+        "url": "https://open.spotify.com/album/0CvU96jYCiNP4c9u8dWHoI"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "Since I Left You",
+      "url": "https://open.spotify.com/track/2DgFCys3XMrWZDngu1CrRy"
     },
     {
       "added_at": "2024-07-02 08:12:14",
@@ -1399,6 +1399,30 @@
     {
       "added_at": "2024-07-02 08:12:14",
       "album": {
+        "name": "The Cure (feat. Chloe Paige)",
+        "url": "https://open.spotify.com/album/11NsP5ydXk68bhYyq5tErV"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "KeeQ",
+          "url": "https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB"
+        },
+        {
+          "name": "Chloe Paige",
+          "url": "https://open.spotify.com/artist/5829bCNnWiHYQQvF5lMxWq"
+        }
+      ],
+      "duration_ms": 234312,
+      "name": "The Cure (feat. Chloe Paige)",
+      "url": "https://open.spotify.com/track/47bfpeMYD6oCLJL9ZAbxCc"
+    },
+    {
+      "added_at": "2024-07-02 08:12:14",
+      "album": {
         "name": "Blackpool Boulevard",
         "url": "https://open.spotify.com/album/3jc8IkDpZ1bGZCNCZOyT3R"
       },
@@ -1435,30 +1459,6 @@
       "duration_ms": 354365,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
-    },
-    {
-      "added_at": "2024-07-02 08:12:14",
-      "album": {
-        "name": "The Cure (feat. Chloe Paige)",
-        "url": "https://open.spotify.com/album/11NsP5ydXk68bhYyq5tErV"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "KeeQ",
-          "url": "https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB"
-        },
-        {
-          "name": "Chloe Paige",
-          "url": "https://open.spotify.com/artist/5829bCNnWiHYQQvF5lMxWq"
-        }
-      ],
-      "duration_ms": 234312,
-      "name": "The Cure (feat. Chloe Paige)",
-      "url": "https://open.spotify.com/track/47bfpeMYD6oCLJL9ZAbxCc"
     },
     {
       "added_at": "2024-07-02 08:12:14",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-07-02 08:12:14",
       "album": {
-        "name": "Wait on Me EP",
-        "url": "https://open.spotify.com/album/00t0zeNG6lLjFxtrwQSfzc"
-      },
-      "artists": [
-        {
-          "name": "Felipe Gordon",
-          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
-        }
-      ],
-      "duration_ms": 289208,
-      "name": "The Semimodular Bird of Jazz",
-      "url": "https://open.spotify.com/track/30w0Ow2tuaZL26ep5pEn2M"
-    },
-    {
-      "added_at": "2024-07-02 08:12:14",
-      "album": {
         "name": "Sounds of My World",
         "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 287037,
       "name": "Summer In The Ends",
       "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
+    },
+    {
+      "added_at": "2024-07-02 08:12:14",
+      "album": {
+        "name": "Wait on Me EP",
+        "url": "https://open.spotify.com/album/00t0zeNG6lLjFxtrwQSfzc"
+      },
+      "artists": [
+        {
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+        }
+      ],
+      "duration_ms": 289208,
+      "name": "The Semimodular Bird of Jazz",
+      "url": "https://open.spotify.com/track/30w0Ow2tuaZL26ep5pEn2M"
     },
     {
       "added_at": "2024-07-02 08:12:14",

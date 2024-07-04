@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 
 > Get into the flow of the forest, with relaxing natural water sounds of small creeks and calming streams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,152 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,237 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 24 | [Waterfall Creek](https://open.spotify.com/track/1fXu9OU5gVwTwjeScrRwMK) | [Natural Waters](https://open.spotify.com/artist/0nIJ15ViXXRyCe6mRqPOaD) | [At the Waterfall](https://open.spotify.com/album/30bgRxzTaRDFcNnm8wdpaP) | 2:42 |
 | 25 | [Rippling Water](https://open.spotify.com/track/0oAaI5xIkUhztpphsElfh5) | [Monterio](https://open.spotify.com/artist/2FPcGoYsX7uC8f9EZae0of) | [River Creek](https://open.spotify.com/album/30VELFnoOR9DXklDdBQQWj) | 3:12 |
 | 26 | [Lovely Stream](https://open.spotify.com/track/5cMoDHCfhjqmWuoeQKRxq5) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [River Spirit](https://open.spotify.com/album/6zw5YaZq3tuXwSvTcj79QT) | 4:11 |
-| 27 | [Calm River Noise](https://open.spotify.com/track/4khXlaLUgJZnC683jmW6wF) | [The Outdoor Library](https://open.spotify.com/artist/3LhW1K0Q3xRX4PzqLlEx0F) | [Calm River Noise](https://open.spotify.com/album/0yZJu6HXP6Xxit4hdkak7I) | 3:21 |
+| 27 | [Stream Three](https://open.spotify.com/track/48qRXWcmClJrIyaQ0TSXNU) | [Field Rec Deluxe](https://open.spotify.com/artist/5Cmb5ilCwITgT75vaHmKFw) | [Part II](https://open.spotify.com/album/75UIRk0PxOfWNFJRupK4TD) | 3:09 |
 | 28 | [Dalälven](https://open.spotify.com/track/6JA24CJig6oYX2A0Hkl9OT) | [FJORD](https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U) | [Scandinavian waters](https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge) | 3:16 |
-| 29 | [Stream Three](https://open.spotify.com/track/48qRXWcmClJrIyaQ0TSXNU) | [Field Rec Deluxe](https://open.spotify.com/artist/5Cmb5ilCwITgT75vaHmKFw) | [Part II](https://open.spotify.com/album/75UIRk0PxOfWNFJRupK4TD) | 3:09 |
+| 29 | [Calm River Noise](https://open.spotify.com/track/4khXlaLUgJZnC683jmW6wF) | [The Outdoor Library](https://open.spotify.com/artist/3LhW1K0Q3xRX4PzqLlEx0F) | [Calm River Noise](https://open.spotify.com/album/0yZJu6HXP6Xxit4hdkak7I) | 3:21 |
 | 30 | [Little Babbling Brook](https://open.spotify.com/track/4oCZ4rR6q9FTXFwwEw3Xya) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Natural Relaxation](https://open.spotify.com/album/4p5N8lC09TgcmcW5iELNXU) | 3:59 |
 | 31 | [Gentle River Flow](https://open.spotify.com/track/3Gs2QLEuEXUEJeLidHuk7y) | [Weather Garden](https://open.spotify.com/artist/1lJiaPKFdf4hlJezMwIIBX) | [Flowing Rivers](https://open.spotify.com/album/7uhHSNlivW28TuDO2fs6J4) | 3:21 |
 | 32 | [Big and calm creek, distant wind in trees](https://open.spotify.com/track/5JH5HC1r8ljEGjXYq8Uzcd) | [Sounds of Scandinavia](https://open.spotify.com/artist/3SfbWy42IpSQrfjrIErmKt) | [Waters of the North](https://open.spotify.com/album/6eUzmobKzaTB4q8VhhNxMD) | 2:45 |

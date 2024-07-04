@@ -1,12 +1,12 @@
 {
-  "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
-  "num_followers": 704539,
+  "description": "This Is Rauw Alejandro. Los temas esenciales, todos en una lista.",
+  "num_followers": 705081,
   "original_name": "This Is Rauw Alejandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAB0UVbpB8nAQoVHeQbtTjb0",
+  "snapshot_id": "ZoNDAAAAAAAS58RHw4GoC+4kjy9ozHaJ",
   "tracks": [
     {
       "added_at": null,
@@ -567,46 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BYAK",
-        "url": "https://open.spotify.com/album/0nBfe3oPM8oiFWbU1TFAP5"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 216346,
-      "name": "BYAK",
-      "url": "https://open.spotify.com/track/12Ba9adVh6yrSRv59Y1zoW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Afrodis\u00edaco",
-        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 216413,
-      "name": "Pens\u00e1ndote",
-      "url": "https://open.spotify.com/track/2wnhst8yHA4gKuojAgZedh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toda (Remix)",
         "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
       },
@@ -639,18 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+        "name": "Afrodis\u00edaco",
+        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
       },
       "artists": [
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 162857,
-      "name": "NO ME SUELTES",
-      "url": "https://open.spotify.com/track/7xDBtwxsife3u8luqSbSPR"
+      "duration_ms": 216413,
+      "name": "Pens\u00e1ndote",
+      "url": "https://open.spotify.com/track/2wnhst8yHA4gKuojAgZedh"
     },
     {
       "added_at": null,
@@ -675,6 +639,42 @@
       "duration_ms": 216107,
       "name": "La Nota",
       "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "NO ME SUELTES",
+      "url": "https://open.spotify.com/track/7xDBtwxsife3u8luqSbSPR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BYAK",
+        "url": "https://open.spotify.com/album/0nBfe3oPM8oiFWbU1TFAP5"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 216346,
+      "name": "BYAK",
+      "url": "https://open.spotify.com/track/12Ba9adVh6yrSRv59Y1zoW"
     },
     {
       "added_at": null,

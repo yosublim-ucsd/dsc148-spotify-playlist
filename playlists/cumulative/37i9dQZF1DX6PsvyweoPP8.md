@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-230 songs - 11 hr 15 min
+231 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [King Size](https://open.spotify.com/track/65H0yBiqmdiXinuexEWDAs) | [Olhares](https://open.spotify.com/artist/4sZgfmE3StdCfvUDOZakzc), [Tangi](https://open.spotify.com/artist/5oFbBc3ADqWvbU3jzihIXM) | [King Size](https://open.spotify.com/album/0nsTJkAhy8AXuK95Z1jhGm) | 2:32 | 2024-01-26 |  |
 | [Leva a Sério](https://open.spotify.com/track/0831w107Td8zU9lZOg7KuS) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Xitter](https://open.spotify.com/artist/5W21lrK6TGP7nLaujNQtJE), [Filbeats](https://open.spotify.com/artist/0C1TQdWE8gSdIdZkyQhcdP) | [Leva a Sério](https://open.spotify.com/album/7vvK6xHPbNyDaBC4ltB50K) | 2:05 | 2023-03-17 | 2023-04-22 |
 | [Levada](https://open.spotify.com/track/05z6zNBFg6dDk9Fc4V04OP) | [MC Ingryd](https://open.spotify.com/artist/09EYYUcfEDOvj3D5f45L99), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7), [ttheuz1n](https://open.spotify.com/artist/4n0dxhrj2LOtgpPLrsCkzu) | [Baby](https://open.spotify.com/album/3IxwwcLDMBmc1Z3nPaTTQC) | 2:58 | 2023-07-07 |  |
+| [LIGA SE QUISER F\*](https://open.spotify.com/track/6EtlKlJEnokQqWVvYnXbwl) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS) | [LIGA SE QUISER F\*](https://open.spotify.com/album/19aTZJ6ujk4IVl6y1iRmW8) | 3:05 | 2024-07-03 |  |
 | [limão siciliano](https://open.spotify.com/track/2mSQSwdnTPntGMYTofAFGo) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Young Piva](https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH) | [FETICHE](https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol) | 3:33 | 2024-07-01 |  |
 | [Linda e Solitária](https://open.spotify.com/track/4GzKyE021uEcLuklCSUzEA) | [Camaradas Camarão](https://open.spotify.com/artist/5tDe323KtgqFfze1MzLR7z), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h), [Gabriel Sten](https://open.spotify.com/artist/5voSO4poDCRjQzKgMuCTWM), [Córtex Cam Cam](https://open.spotify.com/artist/7wqJ4b9MuDGAIVQjzAsiIe) | [Linda e Solitária](https://open.spotify.com/album/2C32Ywnk9I74RFHPKSK6z1) | 2:50 | 2022-03-18 | 2023-08-19 |
 | [LO CULO](https://open.spotify.com/track/5pngOKiXQifZb3R8ODpthp) | [Orhals](https://open.spotify.com/artist/3QnYKFEZw2wZf6umYoyi8D), [ollerrrr](https://open.spotify.com/artist/2yiiLFHIG4P7qnSvFA0vLJ), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp) | [LO CULO](https://open.spotify.com/album/08QIzgnc9OO5XR5GwHjY0U) | 2:53 | 2022-08-12 | 2022-08-23 |

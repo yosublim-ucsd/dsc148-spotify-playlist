@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Padre Marcelo Rossi, Simone Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,249 likes - 70 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,381 likes - 70 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 48 | [Maria Porta do Céu \(Maria Passa na Frente\)](https://open.spotify.com/track/4lwl2jjSyJi29f781kSKzW) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Maria Porta do Céu \(Maria Passa na Frente\)](https://open.spotify.com/album/75LxVcoWjfJ0kSuTBMZA8F) | 4:41 |
 | 49 | [Oceano de Misericórdia](https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK) | [Ressonhar](https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4) | 4:50 |
 | 50 | [Deixa Deus Sonhar em Ti](https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Gba Stage, Vol\. 13](https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l) | 4:54 |
-| 51 | [Mãe Presente \- Ao Vivo em São Paulo](https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [O Fogo Não Se Apagou, Vol\. 2 \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m) | 6:24 |
+| 51 | [Quem É Essa Que Avança Como Aurora?](https://open.spotify.com/track/7bZwSB2GKZ1xKazrxDc6Fp) | [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Quem É Essa Que Avança Como Aurora?](https://open.spotify.com/album/01zKN1vkGZLOgbTZysudFi) | 2:22 |
 | 52 | [Mãe, Me Defende do Mal](https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Mãe, Me Defende do Mal](https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K) | 5:00 |
-| 53 | [Quem É Essa Que Avança Como Aurora?](https://open.spotify.com/track/7bZwSB2GKZ1xKazrxDc6Fp) | [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Quem É Essa Que Avança Como Aurora?](https://open.spotify.com/album/01zKN1vkGZLOgbTZysudFi) | 2:22 |
+| 53 | [Mãe Presente \- Ao Vivo em São Paulo](https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [O Fogo Não Se Apagou, Vol\. 2 \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m) | 6:24 |
 | 54 | [Em Tua Presença](https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ) | [Octavia de Assis](https://open.spotify.com/artist/1SBcO6ThKkKHIa0eEcX9km), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Em Tua Presença](https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK) | 5:00 |
 | 55 | [Emanuel, Eu Te Adoro](https://open.spotify.com/track/2RWixlFlwnlMHtzaJn727X) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR), [Entretons](https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa) | [Pequeno Rei](https://open.spotify.com/album/4CBQ1tVkMSfdRxNcezkYBz) | 4:53 |
 | 56 | [Coração de Mãe](https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 5](https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd) | 2:57 |

@@ -331,6 +331,28 @@
     },
     {
       "album": {
+        "name": "Ella (En Vivo En River Plate)",
+        "url": "https://open.spotify.com/album/3mPASf0oPahKjAqbDpYvkb"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289688,
+      "name": "Ella (feat. Miranda!) - En Vivo En River Plate",
+      "url": "https://open.spotify.com/track/0xJh63nmuniZFKbTnnHZES"
+    },
+    {
+      "album": {
         "name": "Thalia En Primera Fila",
         "url": "https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa"
       },
@@ -962,7 +984,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 259320,
       "name": "Ser\u00e1s el Aire - Primera Fila",
       "url": "https://open.spotify.com/track/1s8i3KnevFv5h5BVfFotCl"

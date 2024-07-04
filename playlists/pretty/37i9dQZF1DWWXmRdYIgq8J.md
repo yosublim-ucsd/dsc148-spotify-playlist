@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,917 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,920 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 20 | [Chutney Bachannal](https://open.spotify.com/track/0TNFNPM8DtDuzQtak9FirP) | [Byron Lee & The Dragonaires](https://open.spotify.com/artist/1akUOJhf77cbKJveLHgxpy) | [Soca Engine](https://open.spotify.com/album/5wfAK9kuhW8WcVjr5eiKGv) | 3:03 |
 | 21 | [Kariaiyan Na Toro](https://open.spotify.com/track/63dPUEVIPdpwhML1EVS4CX) | [Ameena Ramsaran](https://open.spotify.com/artist/13oaDW0k8DbnU6HJ4n7I3v) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:39 |
 | 22 | [Nana & Nani](https://open.spotify.com/track/6KCWJcmmtYMjZMgi4kAiyD) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [The Ultimate Sundar Popo](https://open.spotify.com/album/4LIBROVNLxLDZo4s32GiEC) | 5:54 |
-| 23 | [Hunter](https://open.spotify.com/track/420E2n9BEBXL8J7uYAWXtR) | [Vedesh Sookoo](https://open.spotify.com/artist/7ISb9PCOxy0mfKcwsZY5wM), [Rajneesh](https://open.spotify.com/artist/1gFEvcgoCtwF6USROCIs8d), [Shyamoo](https://open.spotify.com/artist/09fbzAqn6OUh1MR2TbQkt6), [Munna](https://open.spotify.com/artist/7sHZEksfZX6M6bvqp1XLRz) | [Gangs Of Wasseypur](https://open.spotify.com/album/5lOKYvuSy6buolqIHSUwpG) | 4:17 |
+| 23 | [Hunter](https://open.spotify.com/track/420E2n9BEBXL8J7uYAWXtR) | [Vedesh Sookoo](https://open.spotify.com/artist/3jmzhUQAMSgSx5zfzF0Lzz), [Rajneesh](https://open.spotify.com/artist/1gFEvcgoCtwF6USROCIs8d), [Shyamoo](https://open.spotify.com/artist/09fbzAqn6OUh1MR2TbQkt6), [Munna](https://open.spotify.com/artist/7sHZEksfZX6M6bvqp1XLRz) | [Gangs Of Wasseypur](https://open.spotify.com/album/5lOKYvuSy6buolqIHSUwpG) | 4:17 |
 | 24 | [Chataniya](https://open.spotify.com/track/7wVx2fa8mMotK9FM6o9m6B) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i) | [Chataniya](https://open.spotify.com/album/66Zvn8tu5lGF34dWtcXFYU) | 3:45 |
 | 25 | [Cya Come \(feat\. Skinny Fabulous\)](https://open.spotify.com/track/1WXJZK7uTn3iRrbfaXYZ6n) | [Ravi B and Karma the Band](https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC), [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Rise of a New King](https://open.spotify.com/album/47ZPIYAGwct5LotU50oetq) | 5:11 |
 | 26 | [Bandarwah \(feat\. Ravi B\)](https://open.spotify.com/track/3IGfrhOSd1eg1CSBzUX01w) | [Rasika Dindial](https://open.spotify.com/artist/6bqai4im8en2b0vgEFhSnJ), [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Bandarwah \(feat\. Ravi B\)](https://open.spotify.com/album/1EpG3o1xvOD2pcmMu0Jt9q) | 4:25 |

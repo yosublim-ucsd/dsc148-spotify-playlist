@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udd0acanzoni rap da pomparti fino all'alba! \ud83d\udd0aCover: Luciennn, Salmo",
-  "num_followers": 98013,
+  "num_followers": 98012,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -843,18 +843,26 @@
     {
       "added_at": "2024-06-27 22:01:00",
       "album": {
-        "name": "Caramba",
-        "url": "https://open.spotify.com/album/0wnFOzdO3ujU3eabTYDoF1"
+        "name": "Banda Kawasaki",
+        "url": "https://open.spotify.com/album/2FF4wdxv4ZKoh0rAwLjN5t"
       },
       "artists": [
         {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
         }
       ],
-      "duration_ms": 183174,
-      "name": "Caramba",
-      "url": "https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe"
+      "duration_ms": 191682,
+      "name": "Banda Kawasaki",
+      "url": "https://open.spotify.com/track/0Lynyrqt6kalxwCgVZ4uda"
     },
     {
       "added_at": "2024-06-27 22:01:00",
@@ -875,6 +883,22 @@
       "duration_ms": 128796,
       "name": "GTA (feat. Ghali)",
       "url": "https://open.spotify.com/track/2rWPeV0Wvjx8VpAyOsfgir"
+    },
+    {
+      "added_at": "2024-06-27 22:01:00",
+      "album": {
+        "name": "Caramba",
+        "url": "https://open.spotify.com/album/0wnFOzdO3ujU3eabTYDoF1"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 183174,
+      "name": "Caramba",
+      "url": "https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe"
     },
     {
       "added_at": "2024-06-27 22:01:00",
@@ -911,30 +935,6 @@
       "duration_ms": 174545,
       "name": "Cancelo",
       "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
-    },
-    {
-      "added_at": "2024-06-27 22:01:00",
-      "album": {
-        "name": "Banda Kawasaki",
-        "url": "https://open.spotify.com/album/2FF4wdxv4ZKoh0rAwLjN5t"
-      },
-      "artists": [
-        {
-          "name": "Achille Lauro",
-          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 191682,
-      "name": "Banda Kawasaki",
-      "url": "https://open.spotify.com/track/0Lynyrqt6kalxwCgVZ4uda"
     },
     {
       "added_at": "2024-06-27 22:01:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-06-27 22:01:00",
       "album": {
-        "name": "Bossoli",
-        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Bossoli",
-      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
-    },
-    {
-      "added_at": "2024-06-27 22:01:00",
-      "album": {
         "name": "Glory Days EP",
         "url": "https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI"
       },
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2024-06-27 22:01:00",
       "album": {
+        "name": "Bossoli",
+        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Bossoli",
+      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
+    },
+    {
+      "added_at": "2024-06-27 22:01:00",
+      "album": {
         "name": "Serio",
         "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
       },
@@ -1163,6 +1163,26 @@
       "duration_ms": 218769,
       "name": "Serio (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
+    },
+    {
+      "added_at": "2024-06-27 22:01:00",
+      "album": {
+        "name": "Ma Jolie (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Ma Jolie (feat. ANNA)",
+      "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
     },
     {
       "added_at": "2024-06-27 22:01:00",
@@ -1191,26 +1211,6 @@
       "duration_ms": 178721,
       "name": "MALA (feat. Lazza, Tony Effe, JVLI)",
       "url": "https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E"
-    },
-    {
-      "added_at": "2024-06-27 22:01:00",
-      "album": {
-        "name": "Ma Jolie (feat. ANNA)",
-        "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
-      },
-      "artists": [
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Ma Jolie (feat. ANNA)",
-      "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
     },
     {
       "added_at": "2024-06-27 22:01:00",
@@ -1283,30 +1283,18 @@
     {
       "added_at": "2024-06-27 22:01:00",
       "album": {
-        "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
-        "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
+        "name": "Bando",
+        "url": "https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l"
       },
       "artists": [
         {
-          "name": "Scott Storch",
-          "url": "https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
-      "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
+      "duration_ms": 168000,
+      "name": "Bando",
+      "url": "https://open.spotify.com/track/0kzGjSRHGVcaWxagzQwAyD"
     },
     {
       "added_at": "2024-06-27 22:01:00",
@@ -1331,18 +1319,30 @@
     {
       "added_at": "2024-06-27 22:01:00",
       "album": {
-        "name": "Bando",
-        "url": "https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l"
+        "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
+        "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "Scott Storch",
+          "url": "https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Bando",
-      "url": "https://open.spotify.com/track/0kzGjSRHGVcaWxagzQwAyD"
+      "duration_ms": 196000,
+      "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
+      "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
     },
     {
       "added_at": "2024-06-27 22:01:00",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2024-06-27 22:01:00",
       "album": {
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/0ZvK5lmB4C7JJ0Xop61lwa"
+      },
+      "artists": [
+        {
+          "name": "Escomar",
+          "url": "https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw"
+        },
+        {
+          "name": "Bobo",
+          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/50MWpZN2WAcfkeKAaU5fvY"
+    },
+    {
+      "added_at": "2024-06-27 22:01:00",
+      "album": {
         "name": "Piccolo principe",
         "url": "https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU"
       },
@@ -1579,26 +1599,6 @@
       "duration_ms": 170791,
       "name": "Calle (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/7C8Yj3WDtN1rBu15xIvRA2"
-    },
-    {
-      "added_at": "2024-06-27 22:01:00",
-      "album": {
-        "name": "Tiki Taka",
-        "url": "https://open.spotify.com/album/0ZvK5lmB4C7JJ0Xop61lwa"
-      },
-      "artists": [
-        {
-          "name": "Escomar",
-          "url": "https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw"
-        },
-        {
-          "name": "Bobo",
-          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
-        }
-      ],
-      "duration_ms": 140307,
-      "name": "Tiki Taka",
-      "url": "https://open.spotify.com/track/50MWpZN2WAcfkeKAaU5fvY"
     },
     {
       "added_at": "2024-06-27 22:01:00",
@@ -1663,26 +1663,22 @@
     {
       "added_at": "2024-06-27 22:01:00",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/2FCnqgKag6FTtXOG2FEl5P"
+        "name": "Italiano",
+        "url": "https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl"
       },
       "artists": [
         {
-          "name": "Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         },
         {
-          "name": "Don Joe",
-          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
-        },
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         }
       ],
-      "duration_ms": 162362,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/0iRKVjfQzpr41T3WsU7shl"
+      "duration_ms": 135934,
+      "name": "Italiano Anthem",
+      "url": "https://open.spotify.com/track/4fF0PqNas0SQSQnOyAsaeG"
     },
     {
       "added_at": "2024-06-27 22:01:00",
@@ -1707,26 +1703,6 @@
       "duration_ms": 174983,
       "name": "Il Doc 2 (feat. Tony Effe & Gu\u00e8)",
       "url": "https://open.spotify.com/track/2mKxTSrVPzc6dS8VqNTIYZ"
-    },
-    {
-      "added_at": "2024-06-27 22:01:00",
-      "album": {
-        "name": "Italiano",
-        "url": "https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        }
-      ],
-      "duration_ms": 135934,
-      "name": "Italiano Anthem",
-      "url": "https://open.spotify.com/track/4fF0PqNas0SQSQnOyAsaeG"
     },
     {
       "added_at": "2024-06-27 22:01:00",
@@ -1763,6 +1739,30 @@
       "duration_ms": 180532,
       "name": "Frero",
       "url": "https://open.spotify.com/track/1cop1UjwA7BxeyQOhEHect"
+    },
+    {
+      "added_at": "2024-06-27 22:01:00",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/2FCnqgKag6FTtXOG2FEl5P"
+      },
+      "artists": [
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        },
+        {
+          "name": "Don Joe",
+          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "duration_ms": 162362,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/0iRKVjfQzpr41T3WsU7shl"
     },
     {
       "added_at": "2024-06-27 22:01:00",
@@ -1815,30 +1815,6 @@
     {
       "added_at": "2024-06-27 22:01:00",
       "album": {
-        "name": "Nena (feat. Geolier & Andry The Hitmaker)",
-        "url": "https://open.spotify.com/album/5CWg7WHLM21pfgYbkm4jEu"
-      },
-      "artists": [
-        {
-          "name": "Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Andry The Hitmaker",
-          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "Nena (feat. Geolier & Andry The Hitmaker)",
-      "url": "https://open.spotify.com/track/6TEPwGCSq4XGWu3hnZkC5m"
-    },
-    {
-      "added_at": "2024-06-27 22:01:00",
-      "album": {
         "name": "In Piazza",
         "url": "https://open.spotify.com/album/4yVlp28f83eK8Sg2T2Lqw6"
       },
@@ -1887,30 +1863,6 @@
     {
       "added_at": "2024-06-27 22:01:00",
       "album": {
-        "name": "Mr. Fini",
-        "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        },
-        {
-          "name": "Shablo",
-          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
-        }
-      ],
-      "duration_ms": 183724,
-      "name": "25 ore RMX (feat. Ernia & Shablo)",
-      "url": "https://open.spotify.com/track/0Q7Y2E8cj8uvNXI3hs9Mvc"
-    },
-    {
-      "added_at": "2024-06-27 22:01:00",
-      "album": {
         "name": "YOSHI (feat. thasup, Fabri Fibra & Capo Plaza) [prod. Strage [Remix]]",
         "url": "https://open.spotify.com/album/1oLdPWpMNNqxsyyIuy3hBx"
       },
@@ -1943,6 +1895,30 @@
       "duration_ms": 293590,
       "name": "YOSHI (feat. thasup, Fabri Fibra & Capo Plaza) - prod. Strage [Remix]",
       "url": "https://open.spotify.com/track/0VU34EBWTAlHVIZE3aWlZA"
+    },
+    {
+      "added_at": "2024-06-27 22:01:00",
+      "album": {
+        "name": "Mr. Fini",
+        "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        }
+      ],
+      "duration_ms": 183724,
+      "name": "25 ore RMX (feat. Ernia & Shablo)",
+      "url": "https://open.spotify.com/track/0Q7Y2E8cj8uvNXI3hs9Mvc"
     },
     {
       "added_at": "2024-06-27 22:01:00",
@@ -2015,6 +1991,30 @@
       "duration_ms": 181368,
       "name": "Bella Giornata (prod. Dogslife, Mago del blocco) (feat. Dogslife & Mago del Blocco)",
       "url": "https://open.spotify.com/track/76xea5TfeyVu8c4dGWpFD2"
+    },
+    {
+      "added_at": "2024-06-27 22:01:00",
+      "album": {
+        "name": "Nena (feat. Geolier & Andry The Hitmaker)",
+        "url": "https://open.spotify.com/album/5CWg7WHLM21pfgYbkm4jEu"
+      },
+      "artists": [
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "Nena (feat. Geolier & Andry The Hitmaker)",
+      "url": "https://open.spotify.com/track/6TEPwGCSq4XGWu3hnZkC5m"
     },
     {
       "added_at": "2024-06-27 22:01:00",

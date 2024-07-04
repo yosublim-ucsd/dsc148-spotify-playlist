@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 116866,
+  "num_followers": 116901,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
@@ -1255,38 +1255,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Real G's",
-        "url": "https://open.spotify.com/album/1htLS1cOgyAHgTn1GIRHcJ"
-      },
-      "artists": [
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Sinfonico",
-          "url": "https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        }
-      ],
-      "duration_ms": 245232,
-      "name": "Real G's",
-      "url": "https://open.spotify.com/track/5ksvRV02w86e15EcwfHgDh"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "La Verdadera Vuelta",
         "url": "https://open.spotify.com/album/1N9uoPv76ac3oi8XXqJPop"
       },
@@ -1319,6 +1287,38 @@
       "duration_ms": 616600,
       "name": "Ninguno Se Monta",
       "url": "https://open.spotify.com/track/2YCU2jQ1laKqs4PuXbhGyT"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Real G's",
+        "url": "https://open.spotify.com/album/1htLS1cOgyAHgTn1GIRHcJ"
+      },
+      "artists": [
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Sinfonico",
+          "url": "https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        }
+      ],
+      "duration_ms": 245232,
+      "name": "Real G's",
+      "url": "https://open.spotify.com/track/5ksvRV02w86e15EcwfHgDh"
     },
     {
       "added_at": "2023-05-25 17:50:01",

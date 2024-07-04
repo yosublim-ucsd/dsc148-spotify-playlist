@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Indy
 
-1,129 songs - 2 day 10 hr 29 min
+1,130 songs - 2 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1031,7 +1031,8 @@
 | [Trouble In Your Eyes](https://open.spotify.com/track/7ndumkBiCcUmPrYJTTl4P8) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Trouble In Your Eyes](https://open.spotify.com/album/1L4zGjPLiyLY6bHtFnghxu) | 3:03 | 2023-10-05 | 2023-11-09 |
 | [True Babe](https://open.spotify.com/track/696gO5dO34MHhmZlL9Mh19) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [True Babe](https://open.spotify.com/album/61dpINnbtGk1FcOR3VtQYh) | 3:07 | 2023-06-22 | 2023-08-05 |
 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 | 2023-09-28 | 2023-12-01 |
-| [Turn it up](https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Turn it up](https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0) | 2:27 | 2024-05-23 |  |
+| [Turn it up](https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Turn it up](https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0) | 2:27 | 2024-05-23 | 2024-07-04 |
+| [Two Friends](https://open.spotify.com/track/7KqNayeKNptUTwqL57uvBd) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Two Friends](https://open.spotify.com/album/3AyO9wJl2IB3PRZSX2Mogs) | 3:06 | 2024-07-03 |  |
 | [Two Hands](https://open.spotify.com/track/523F1pQJh1P4JKvbVOgDU7) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Two Hands](https://open.spotify.com/album/14ISDS5Xh5QsS8NZN6H20l) | 3:02 | 2024-01-11 | 2024-02-09 |
 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 | 2023-11-16 | 2024-01-12 |
 | [Two Weeks Ago](https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Two Weeks Ago](https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF) | 2:59 | 2023-06-15 | 2023-07-07 |

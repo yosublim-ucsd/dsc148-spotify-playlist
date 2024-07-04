@@ -1,12 +1,12 @@
 {
-  "description": "He's back by popular demand...Listen to the music from Beverly Hills Cop ahead of Beverly Hills Cop: Axel F, coming soon to Netflix. ",
-  "num_followers": 906,
+  "description": "He's back by popular demand...Listen to the music from Beverly Hills Cop: Axel F, now streaming on Netflix. ",
+  "num_followers": 1117,
   "original_name": "Beverly Hills Cop: Axel F Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn8HUgAAAADAE7NBfV3pD57OjlJYxls0",
+  "snapshot_id": "ZoW8egAAAADgiNaUO1TQrzbFp29Ue33I",
   "tracks": [
     {
       "added_at": "2024-06-28 18:56:18",
@@ -57,6 +57,42 @@
       "url": "https://open.spotify.com/track/0PXw9NKvolWTo7U9JkNzmc"
     },
     {
+      "added_at": "2024-07-03 07:00:00",
+      "album": {
+        "name": "Dark Sky Paradise (Deluxe)",
+        "url": "https://open.spotify.com/album/6NVRGg3dKALTNwHqAqdYBf"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "duration_ms": 284413,
+      "name": "I Don't F**k With You",
+      "url": "https://open.spotify.com/track/7taXl2C2594pF4gjumrF4W"
+    },
+    {
+      "added_at": "2024-05-23 12:00:00",
+      "album": {
+        "name": "Greatest Hits 2",
+        "url": "https://open.spotify.com/album/2gEoFIQznSHRBHApWGbX3j"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 241946,
+      "name": "Shakedown",
+      "url": "https://open.spotify.com/track/303oOLP2Jf6M4rke52qItM"
+    },
+    {
       "added_at": "2024-05-23 12:00:00",
       "album": {
         "name": "Break Out (1983 Version - Expanded Edition)",
@@ -73,6 +109,22 @@
       "url": "https://open.spotify.com/track/3Uyxe1fbF4zWSEwy38qgMw"
     },
     {
+      "added_at": "2024-07-03 07:00:00",
+      "album": {
+        "name": "No More Drama",
+        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 265866,
+      "name": "Family Affair",
+      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
+    },
+    {
       "added_at": "2024-05-23 12:00:00",
       "album": {
         "name": "Patti LaBelle's Greatest Hits",
@@ -87,6 +139,54 @@
       "duration_ms": 251160,
       "name": "New Attitude",
       "url": "https://open.spotify.com/track/71DxDMPiElIeGgvJvtITXR"
+    },
+    {
+      "added_at": "2024-07-03 07:00:00",
+      "album": {
+        "name": "EP 3",
+        "url": "https://open.spotify.com/album/1Hz8lcEdta6cqi7Smx5JXe"
+      },
+      "artists": [
+        {
+          "name": "iZNiiK",
+          "url": "https://open.spotify.com/artist/6jB9IkEbgX38EWUmDqLgmR"
+        }
+      ],
+      "duration_ms": 245322,
+      "name": "energy",
+      "url": "https://open.spotify.com/track/0SWt9XzD4kOjzPJGt0nTAY"
+    },
+    {
+      "added_at": "2024-07-03 07:00:00",
+      "album": {
+        "name": "Helen",
+        "url": "https://open.spotify.com/album/5Yy7NYLptBuM0grySrkgkf"
+      },
+      "artists": [
+        {
+          "name": "Qasim Naqvi",
+          "url": "https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D"
+        }
+      ],
+      "duration_ms": 82025,
+      "name": "Helen",
+      "url": "https://open.spotify.com/track/49QulDfYu6yJilaX6BaRPV"
+    },
+    {
+      "added_at": "2024-07-03 07:00:00",
+      "album": {
+        "name": "The Hits",
+        "url": "https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "duration_ms": 182813,
+      "name": "Milkshake",
+      "url": "https://open.spotify.com/track/4LmzPJDil70LpiApWfOI6O"
     },
     {
       "added_at": "2024-05-23 12:00:00",
@@ -119,22 +219,6 @@
       "duration_ms": 218826,
       "name": "Stir It Up - From \"Beverly Hills Cop\" Soundtrack",
       "url": "https://open.spotify.com/track/6MTfCWmGgxPxAT8ttAhnaU"
-    },
-    {
-      "added_at": "2024-05-23 12:00:00",
-      "album": {
-        "name": "Greatest Hits 2",
-        "url": "https://open.spotify.com/album/2gEoFIQznSHRBHApWGbX3j"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 241946,
-      "name": "Shakedown",
-      "url": "https://open.spotify.com/track/303oOLP2Jf6M4rke52qItM"
     },
     {
       "added_at": "2024-05-23 12:00:00",

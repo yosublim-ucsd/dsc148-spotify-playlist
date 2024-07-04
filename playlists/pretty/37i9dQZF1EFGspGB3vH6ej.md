@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,973 likes - 249 songs - 17 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,977 likes - 249 songs - 17 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,8 +227,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 217 | [Runway](https://open.spotify.com/track/357y2F83GG18TmJOhAi5nj) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution \(Japan Version\)](https://open.spotify.com/album/2VtWkFLhMJAFsWkHAXwosS) | 3:41 |
 | 218 | [Heartbreaker / "If You Should Ever Be Lonely" \- Junior's Heartbreaker Club Mix](https://open.spotify.com/track/3Ekhg6QIzoT0rsgd8xFZa8) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow: 25th Anniversary Expanded Edition](https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I) | 10:17 |
 | 219 | [Workin' Hard](https://open.spotify.com/track/30KHfXcIfKyiDBojwclxy7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box: 30th Anniversary Edition](https://open.spotify.com/album/1GzBLltCCKsiIJM3T3AWj3) | 3:29 |
-| 220 | [He Carves The Roast Beast \(Includes 'Welcome Christmas'\)](https://open.spotify.com/track/49FESktMRSRCny8wJmePIc) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Dr\. Seuss' How the Grinch Stole Christmas \(Original Motion Picture Soundtrack\) \- Expanded Edition](https://open.spotify.com/album/5UTagyRGjK71V8fzE1Q6XO) | 3:11 |
-| 221 | [Heat \- Bonus Track](https://open.spotify.com/track/4d59cDM5IT0lq20ndnIs4H) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:34 |
+| 220 | [Heat \- Bonus Track](https://open.spotify.com/track/4d59cDM5IT0lq20ndnIs4H) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:34 |
+| 221 | [He Carves The Roast Beast \(Includes 'Welcome Christmas'\)](https://open.spotify.com/track/49FESktMRSRCny8wJmePIc) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Dr\. Seuss' How the Grinch Stole Christmas \(Original Motion Picture Soundtrack\) \- Expanded Edition](https://open.spotify.com/album/5UTagyRGjK71V8fzE1Q6XO) | 3:11 |
 | 222 | [Twister](https://open.spotify.com/track/6ir913NDSSNPEFrvoE3mwT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 2:26 |
 | 223 | [Sprung](https://open.spotify.com/track/1tuOq9faRrIusMELg46ffk) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/2ttLsnGoW8PrCu4wYUO226) | 3:25 |
 | 224 | [Triumphant \- Vintage Throwback Mix](https://open.spotify.com/track/6fKWbMmxpvjTVPclI4uQJ3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Triumphant \(The Remixes\)](https://open.spotify.com/album/00IKlZAuwGQLqBJ1jjDSFC) | 4:53 |
@@ -258,4 +258,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 248 | [Herói](https://open.spotify.com/track/1kEV3SaWpYpYtGQPka4ilY) | [Márcio José](https://open.spotify.com/artist/4C3DIE332Fqn9pc3gjBEFg), [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Uma Voz, Um Coração](https://open.spotify.com/album/26fyRBEH5saQYYnZQKzxaI) | 4:25 |
 | 249 | [Mariah Carey Medley](https://open.spotify.com/track/0JYjfBRgqDSwNLLFKLVEpw) | [A Cappella Academy](https://open.spotify.com/artist/3EnayRL2KAEkcW9vfKCkOV), [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un) | [A Cappella Academy 2022](https://open.spotify.com/album/3PAxAlpfqf2lirM172b1q6) | 4:10 |
 
-Snapshot ID: `AbVpYgAAAAD9+g6ohSAOwcPQUOCql+1X`
+Snapshot ID: `AbVvAgAAAABdHb9j0hCXvHcmXRyIik2h`

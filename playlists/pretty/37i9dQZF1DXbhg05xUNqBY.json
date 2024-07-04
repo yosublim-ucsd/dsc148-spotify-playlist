@@ -1,6 +1,6 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 350223,
+  "num_followers": 350235,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "No Hopeless Soul",
-        "url": "https://open.spotify.com/album/5mg0wELBle06BD2gHOafYk"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stanley",
-          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
-        }
-      ],
-      "duration_ms": 193558,
-      "name": "No Hopeless Soul - Unplugged",
-      "url": "https://open.spotify.com/track/6wMKTbF8Vi03uBJDGHZcHC"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
         "name": "Shalom",
         "url": "https://open.spotify.com/album/1rTB3LVsO0KH1BAdLPiv7M"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 239500,
       "name": "Shalom",
       "url": "https://open.spotify.com/track/2ZXWSdd7SufihL5Jf5BYFy"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
+        "name": "No Hopeless Soul",
+        "url": "https://open.spotify.com/album/5mg0wELBle06BD2gHOafYk"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "duration_ms": 193558,
+      "name": "No Hopeless Soul - Unplugged",
+      "url": "https://open.spotify.com/track/6wMKTbF8Vi03uBJDGHZcHC"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -555,26 +555,6 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "Eternal Light",
-        "url": "https://open.spotify.com/album/4Uu6h9lxpfhgqSoeLtieDg"
-      },
-      "artists": [
-        {
-          "name": "Paul Zach",
-          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
-        },
-        {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Eternal Light",
-      "url": "https://open.spotify.com/track/3fVy9ZwVwkJ3FRrgkyTJbU"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2wka6tv9YcVMl9MCHhmFii"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 219272,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/2AmHhr6CvjpvYqdXy02VgU"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
+        "name": "Eternal Light",
+        "url": "https://open.spotify.com/album/4Uu6h9lxpfhgqSoeLtieDg"
+      },
+      "artists": [
+        {
+          "name": "Paul Zach",
+          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
+        },
+        {
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Eternal Light",
+      "url": "https://open.spotify.com/track/3fVy9ZwVwkJ3FRrgkyTJbU"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -691,18 +691,22 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "Mental Help",
-        "url": "https://open.spotify.com/album/6gNhyDKRFJc9BZ2LrZq2o1"
+        "name": "Holy Love",
+        "url": "https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt"
       },
       "artists": [
         {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
         }
       ],
-      "duration_ms": 224094,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/2EeTkq8DEzBCpxSuyqWDIP"
+      "duration_ms": 247173,
+      "name": "Holy Love",
+      "url": "https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -727,22 +731,18 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "Holy Love",
-        "url": "https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt"
+        "name": "Mental Help",
+        "url": "https://open.spotify.com/album/6gNhyDKRFJc9BZ2LrZq2o1"
       },
       "artists": [
         {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        },
-        {
-          "name": "Taylor Leonhardt",
-          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+          "name": "Josh Wilson",
+          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
         }
       ],
-      "duration_ms": 247173,
-      "name": "Holy Love",
-      "url": "https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9"
+      "duration_ms": 224094,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/2EeTkq8DEzBCpxSuyqWDIP"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "Known, Seen, Loved (LIVE from the Quarry)",
-        "url": "https://open.spotify.com/album/1BiTSjhWFqiNpZPB1gvEOX"
-      },
-      "artists": [
-        {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
-        }
-      ],
-      "duration_ms": 187264,
-      "name": "Known, Seen, Loved (LIVE from the Quarry)",
-      "url": "https://open.spotify.com/track/6MNE9n9N3c48kO0BfQb6Fd"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
         "name": "Way Maker (Acoustic)",
         "url": "https://open.spotify.com/album/5KAHkPE1V2eFznIELyRYNX"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 253378,
       "name": "Way Maker - Acoustic",
       "url": "https://open.spotify.com/track/4mX7EwCwqR6iW2Wl5WzDxG"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
+        "name": "Known, Seen, Loved (LIVE from the Quarry)",
+        "url": "https://open.spotify.com/album/1BiTSjhWFqiNpZPB1gvEOX"
+      },
+      "artists": [
+        {
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        }
+      ],
+      "duration_ms": 187264,
+      "name": "Known, Seen, Loved (LIVE from the Quarry)",
+      "url": "https://open.spotify.com/track/6MNE9n9N3c48kO0BfQb6Fd"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
+        "name": "Holy, Holy, Holy",
+        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
+      },
+      "artists": [
+        {
+          "name": "John Tibbs",
+          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
         "name": "Hold Me Jesus (The Songs of Rich Mullins)",
         "url": "https://open.spotify.com/album/3zj1fOaRt18LQz8HxAAX2T"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 231946,
       "name": "Hold Me Jesus",
       "url": "https://open.spotify.com/track/56j4KrfJfJaFQAcDAW1O9c"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
-        "name": "Holy, Holy, Holy",
-        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
-      },
-      "artists": [
-        {
-          "name": "John Tibbs",
-          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Holy, Holy, Holy",
-      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "Late Bloomer",
-        "url": "https://open.spotify.com/album/3UVxs4HGKC84VG8kQdRjJz"
-      },
-      "artists": [
-        {
-          "name": "Semler",
-          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
-        }
-      ],
-      "duration_ms": 235254,
-      "name": "Hallelujah (In Your Arms)",
-      "url": "https://open.spotify.com/track/3gg07cCfx8W4oA4ASElvhs"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
         "name": "Help Is on the Way",
         "url": "https://open.spotify.com/album/7dAapYfDJBwmlF7ZWsLTXV"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 220454,
       "name": "Help Is on the Way",
       "url": "https://open.spotify.com/track/6XKKR2EK2L6MV6zRQQuVxe"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
+        "name": "Late Bloomer",
+        "url": "https://open.spotify.com/album/3UVxs4HGKC84VG8kQdRjJz"
+      },
+      "artists": [
+        {
+          "name": "Semler",
+          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
+        }
+      ],
+      "duration_ms": 235254,
+      "name": "Hallelujah (In Your Arms)",
+      "url": "https://open.spotify.com/track/3gg07cCfx8W4oA4ASElvhs"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
+        "name": "Feel Holy",
+        "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
+      },
+      "artists": [
+        {
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+        }
+      ],
+      "duration_ms": 331800,
+      "name": "Feel Holy",
+      "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
         "name": "At the Table",
         "url": "https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 217088,
       "name": "Just Come",
       "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
-        "name": "Feel Holy",
-        "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
-      },
-      "artists": [
-        {
-          "name": "Eliza King",
-          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
-        }
-      ],
-      "duration_ms": 331800,
-      "name": "Feel Holy",
-      "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
     },
     {
       "added_at": "2024-06-23 02:52:54",

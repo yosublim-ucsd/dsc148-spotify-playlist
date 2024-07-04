@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
-  "num_followers": 342034,
+  "num_followers": 342017,
   "original_name": "Friozinho",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-06-14 01:53:55",
       "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 166676,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
-    },
-    {
-      "added_at": "2024-06-14 01:53:55",
-      "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 241595,
       "name": "Let Somebody Go",
       "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
+    },
+    {
+      "added_at": "2024-06-14 01:53:55",
+      "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 166676,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
     },
     {
       "added_at": "2024-06-14 01:53:55",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2024-06-14 01:53:55",
       "album": {
-        "name": "Please Don't Fall In Love With Me",
-        "url": "https://open.spotify.com/album/1UiyDtsYD5kOd8gPjEINbw"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        }
-      ],
-      "duration_ms": 209518,
-      "name": "Please Don't Fall In Love With Me - Live",
-      "url": "https://open.spotify.com/track/0yzVN5F03qzQ9zs8t60H7m"
-    },
-    {
-      "added_at": "2024-06-14 01:53:55",
-      "album": {
         "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
         "url": "https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 220839,
       "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY"
+    },
+    {
+      "added_at": "2024-06-14 01:53:55",
+      "album": {
+        "name": "Please Don't Fall In Love With Me",
+        "url": "https://open.spotify.com/album/1UiyDtsYD5kOd8gPjEINbw"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "duration_ms": 209518,
+      "name": "Please Don't Fall In Love With Me - Live",
+      "url": "https://open.spotify.com/track/0yzVN5F03qzQ9zs8t60H7m"
     },
     {
       "added_at": "2024-06-14 01:53:55",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-06-14 01:53:55",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 186514,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
-    },
-    {
-      "added_at": "2024-06-14 01:53:55",
-      "album": {
         "name": "Conversations in the Dark",
         "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 221095,
       "name": "Finally // beautiful stranger",
       "url": "https://open.spotify.com/track/5YvcUK2eXJ2OllqDuEg18S"
+    },
+    {
+      "added_at": "2024-06-14 01:53:55",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 186514,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
     },
     {
       "added_at": "2024-06-14 01:53:55",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2024-06-14 01:53:55",
       "album": {
-        "name": "Blessed & Free",
-        "url": "https://open.spotify.com/album/055uuuPMs7soYjnONo02QV"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 198171,
-      "name": "Blessed & Free",
-      "url": "https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l"
-    },
-    {
-      "added_at": "2024-06-14 01:53:55",
-      "album": {
         "name": "Bigger Love",
         "url": "https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 223933,
       "name": "U Move, I Move (feat. Jhene Aiko)",
       "url": "https://open.spotify.com/track/7wfDCDfhVe2tFxIkQEJp35"
+    },
+    {
+      "added_at": "2024-06-14 01:53:55",
+      "album": {
+        "name": "Blessed & Free",
+        "url": "https://open.spotify.com/album/055uuuPMs7soYjnONo02QV"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 198171,
+      "name": "Blessed & Free",
+      "url": "https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l"
     },
     {
       "added_at": "2024-06-14 01:53:55",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-06-14 01:53:55",
       "album": {
-        "name": "would you love me now?",
-        "url": "https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw"
-      },
-      "artists": [
-        {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
-        }
-      ],
-      "duration_ms": 205646,
-      "name": "would you love me now?",
-      "url": "https://open.spotify.com/track/2PKKGrBkNB8bV8Vv4hwB2j"
-    },
-    {
-      "added_at": "2024-06-14 01:53:55",
-      "album": {
         "name": "Crying Over You",
         "url": "https://open.spotify.com/album/53KjVSjTOJXAyJ7Fdjjhwr"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 178949,
       "name": "Crying Over You",
       "url": "https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt"
+    },
+    {
+      "added_at": "2024-06-14 01:53:55",
+      "album": {
+        "name": "would you love me now?",
+        "url": "https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "duration_ms": 205646,
+      "name": "would you love me now?",
+      "url": "https://open.spotify.com/track/2PKKGrBkNB8bV8Vv4hwB2j"
     },
     {
       "added_at": "2024-06-14 01:53:55",

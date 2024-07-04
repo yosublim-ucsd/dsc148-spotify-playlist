@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,975 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,995 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 39 | [El Solo](https://open.spotify.com/track/06CeEkSJ834D9jTT3posh6) | [Revolber](https://open.spotify.com/artist/2s7biaf5EUXCa08iWBL3Kn) | [Kaimonomacaco](https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1) | 4:27 |
 | 40 | [No Llores por Mí](https://open.spotify.com/track/7BZSJ9WnmFStbcwSv6j0In) | [Chapa C](https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb) | [I Will Be: Like Big Stars!](https://open.spotify.com/album/502vjSngsd5WnCtyK1gxjn) | 3:37 |
 | 41 | [La Semilla](https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [El Equilibrio](https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ) | 2:49 |
-| 42 | [El Último Beso](https://open.spotify.com/track/3XhpZzA5EHDXnY2tICXeqz) | [Los Roller's](https://open.spotify.com/artist/7mQa3XflwD72PWFe55CjWt) | [El Último Beso](https://open.spotify.com/album/0gpAzMT34MHus5D1QgYPf4) | 2:32 |
-| 43 | [Soy De Mi Tierra](https://open.spotify.com/track/74DxLHmbHDSsUQhs3v8kqI) | [Pablo Benegas](https://open.spotify.com/artist/1w3h0mrPhK98mFPP6eiMgp) | [Canciones Rotas](https://open.spotify.com/album/0gzoNPu1co0CfO6Bmoz2yM) | 3:30 |
+| 42 | [Soy De Mi Tierra](https://open.spotify.com/track/74DxLHmbHDSsUQhs3v8kqI) | [Pablo Benegas](https://open.spotify.com/artist/1w3h0mrPhK98mFPP6eiMgp) | [Canciones Rotas](https://open.spotify.com/album/0gzoNPu1co0CfO6Bmoz2yM) | 3:30 |
+| 43 | [El Último Beso](https://open.spotify.com/track/3XhpZzA5EHDXnY2tICXeqz) | [Los Roller's](https://open.spotify.com/artist/7mQa3XflwD72PWFe55CjWt) | [El Último Beso](https://open.spotify.com/album/0gpAzMT34MHus5D1QgYPf4) | 2:32 |
 | 44 | [Tu Loquito Vos Mi Loquita](https://open.spotify.com/track/3NC2VUVsR6BsM1qC3qtqvk) | [Japiaguar](https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK) | [Tu Loquito Vos Mi Loquita](https://open.spotify.com/album/3mo2JuYksoOoGepCCFyyhE) | 3:18 |
 | 45 | [Si Tú Te Vas \- Acústico en Vivo](https://open.spotify.com/track/4OTFNviyg8qHuASnJX0O9S) | [Diego Ríos](https://open.spotify.com/artist/1IYPsxunWpJvDYA1Por8dI), [So pra Voce](https://open.spotify.com/artist/6jxVE6pphzdM6pRIaxKr2y), [Talento De Barrio](https://open.spotify.com/artist/4475BmzzuqYgDqvJZCySZ3) | [Acústico en Paraguay \(En Vivo\)](https://open.spotify.com/album/4yspRKo0YaXP6MwxK1OaFV) | 4:08 |
 | 46 | [Verano ´99](https://open.spotify.com/track/18NgnGTlHgdKnjq0FKXvoe) | [VILLAGRÁN](https://open.spotify.com/artist/7j4EDoy89FLUbaeJuV1gNY), [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Verano ´99](https://open.spotify.com/album/4rFyWkT6MhskGdHSAiNd0A) | 2:43 |

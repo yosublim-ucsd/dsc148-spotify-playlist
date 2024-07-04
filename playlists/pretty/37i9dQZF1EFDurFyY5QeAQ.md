@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1FxDVhXcHEAtLrLA0KD9CC">Bebe Rexha</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,913 likes - 86 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,914 likes - 86 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 68 | [Better Mistakes](https://open.spotify.com/track/2HKWYj37hvdZ9xQNPW3GrD) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:15 |
 | 69 | [I'm Not High, I'm In Love](https://open.spotify.com/track/0fyYhe8tJKheY9XmhZlZSD) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:04 |
 | 70 | [Battle Cry](https://open.spotify.com/track/4e6Z5aYiUOiO06CO3JQeyt) | [Havana Brown](https://open.spotify.com/artist/1EVWYRr2obCRDoSoD6KSuM), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [SAVI](https://open.spotify.com/artist/1H72fTOUAUl0WQ4kH5DPVW) | [Battle Cry](https://open.spotify.com/album/3magxZAvx6F9hKyUQmFy3s) | 3:17 |
-| 71 | [On The Go \(feat\. Pink Sweat$ & Lunay\)](https://open.spotify.com/track/63VYzrJIEVMcKEXRy3MiuH) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:59 |
-| 72 | [Tough](https://open.spotify.com/track/3w0pWq2jhYjdUPQdvk2H5c) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Tyler Hubbard](https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu) | 3:06 |
+| 71 | [Tough](https://open.spotify.com/track/3w0pWq2jhYjdUPQdvk2H5c) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Tyler Hubbard](https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu) | 3:06 |
+| 72 | [On The Go \(feat\. Pink Sweat$ & Lunay\)](https://open.spotify.com/track/63VYzrJIEVMcKEXRy3MiuH) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:59 |
 | 73 | [Death Row](https://open.spotify.com/track/07K1WRKXskn1izYOFPnl0A) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 3:00 |
 | 74 | [Empty](https://open.spotify.com/track/1LxLkxWL22Z9aJhkqrkUlz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:28 |
 | 75 | [The Lucky Ones \- THE LAUNCH](https://open.spotify.com/track/7lHLe9ZyA55dTRWcd6a6Y4) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [The Lucky Ones \(THE LAUNCH\)](https://open.spotify.com/album/75PVMDtjzTkVKJgOXys5z4) | 2:59 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 85 | [Amore](https://open.spotify.com/track/17YeDKAwDBQLV3Er5CdgC1) | [Dukespan NYC](https://open.spotify.com/artist/5Oytd7WRdbgABzJGyrRlyW) | [Songs From Our Past Vol.1](https://open.spotify.com/album/0K6XNgMTAGQBNoNn2BJPnA) | 4:08 |
 | 86 | [Miracle](https://open.spotify.com/track/2H5r66uEoNiIS5W9CQ9DB2) | [Greg Scott](https://open.spotify.com/artist/5bBHo5g4F9R3WQoMcw3r80) | [Miracle](https://open.spotify.com/album/0nK7nk8wSXVEkwkbGMsf94) | 2:32 |
 
-Snapshot ID: `AbVpYgAAAABvjEnWYb4ag037G4ZKrWqM`
+Snapshot ID: `AbVvAgAAAAALPqx21I6lK8LDL1nSn1Uq`

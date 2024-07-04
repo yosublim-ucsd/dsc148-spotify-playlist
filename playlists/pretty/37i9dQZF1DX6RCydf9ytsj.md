@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,113 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,315 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 33 | [Elvira](https://open.spotify.com/track/0mG66FLhO0iZ6XCAGdjpax) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Fancy Free](https://open.spotify.com/album/5B089xYxcKyuZOE2B9jj1J) | 3:45 |
 | 34 | [Streets of Bakersfield](https://open.spotify.com/track/5B7f2auRhwkl5OjC2bQ58f) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Buenas Noches From a Lonely Room](https://open.spotify.com/album/1NZ8YBYnruBPeKLuvTBARx) | 2:48 |
 | 35 | [Mama He's Crazy](https://open.spotify.com/track/2mEAWmVDub6PSF8pZXInrS) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Why Not Me](https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA) | 3:14 |
-| 36 | [Lord, I Hope This Day Is Good \- Single Version](https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [Lord I Hope This Day Is Good](https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk) | 4:09 |
+| 36 | [Lookin' for Love](https://open.spotify.com/track/5pvNhGuCow3Eq1nWbP3Sco) | [Johnny Lee](https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu) | [Lookin' For Love](https://open.spotify.com/album/6AxUdkfWrqHQxQEHKbqL47) | 3:40 |
 | 37 | [Eighteen Wheels And A Dozen Roses](https://open.spotify.com/track/50iMY1vxRo3GiVvReK9Hxf) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Untasted Honey](https://open.spotify.com/album/2B94aIHbi4KKuKX0wlGbZO) | 3:23 |
 | 38 | [You Look So Good In Love](https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [George Strait's Greatest Hits](https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c) | 3:13 |
-| 39 | [Lookin' for Love](https://open.spotify.com/track/5pvNhGuCow3Eq1nWbP3Sco) | [Johnny Lee](https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu) | [Lookin' For Love](https://open.spotify.com/album/6AxUdkfWrqHQxQEHKbqL47) | 3:40 |
+| 39 | [Lord, I Hope This Day Is Good \- Single Version](https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [Lord I Hope This Day Is Good](https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk) | 4:09 |
 | 40 | [The Sweetest Thing \(I've Ever Known\)](https://open.spotify.com/track/3EFgVWb1TAYP3CF17BB4fU) | [Juice Newton](https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5) | [Juice Newton's Greatest Hits](https://open.spotify.com/album/0fSvQOkU8rRgcsW6MerdVw) | 4:08 |
 | 41 | [Mountain Music](https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Ultimate Alabama 20 \# 1 Hits](https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z) | 3:38 |
 | 42 | [When You Say Nothing at All](https://open.spotify.com/track/2lCGAGpqgQIolNfpnycIZk) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Greatest Hits](https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo) | 3:42 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 57 | [Are the Good Times Really Over \(I Wish a Buck Was Still Silver\)](https://open.spotify.com/track/7tSZJ9iI3634Sqtd6Uvl49) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 4:13 |
 | 58 | [Guitars, Cadillacs](https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Guitars, Cadillacs, Etc., Etc.](https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO) | 3:05 |
 | 59 | [Theme from "The Dukes of Hazzard" \(Good Ol' Boys\)](https://open.spotify.com/track/7xRind9RPsvGHWR0qbGmfE) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Dukes Of Hazzard](https://open.spotify.com/album/4CvOd5ePKV2kpxayVWGlnq) | 2:06 |
-| 60 | [Friday Night Blues](https://open.spotify.com/track/5AgHGO8qE6Gf5HFaY1YHg9) | [John Conlee](https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP) | [Friday Night Blues](https://open.spotify.com/album/6ahnIVl7o1IfC6GEOWgafD) | 3:18 |
+| 60 | [American Made](https://open.spotify.com/track/1wtcyTExLF8nZu9ZphHIl1) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Oak Ridge Boys Collection](https://open.spotify.com/album/6aQEjw5vvwJaBxYY0w6HJI) | 2:39 |
 | 61 | [Have Mercy](https://open.spotify.com/track/5toaXJWnmQCnGRh8eOrEwE) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Rockin' With The Rhythm](https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq) | 3:21 |
-| 62 | [American Made](https://open.spotify.com/track/1wtcyTExLF8nZu9ZphHIl1) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Oak Ridge Boys Collection](https://open.spotify.com/album/6aQEjw5vvwJaBxYY0w6HJI) | 2:39 |
+| 62 | [Friday Night Blues](https://open.spotify.com/track/5AgHGO8qE6Gf5HFaY1YHg9) | [John Conlee](https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP) | [Friday Night Blues](https://open.spotify.com/album/6ahnIVl7o1IfC6GEOWgafD) | 3:18 |
 | 63 | [Everything That Glitters \(Is Not Gold\)](https://open.spotify.com/track/6NaQDBNUP6LcsZklHizAki) | [Dan Seals](https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi) | [Won't Be Blue Anymore](https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI) | 4:52 |
 | 64 | [If Drinkin' Don't Kill Me \(Her Memory Will\)](https://open.spotify.com/track/1Eu8T7TxbcrlZ1oE8Eccxd) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [I Am What I Am \(Expanded Edition\)](https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF) | 3:09 |
 | 65 | [A Lesson In Leavin'](https://open.spotify.com/track/0ImxI6CSbQsrYdhv9C8eUO) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [Special Delivery](https://open.spotify.com/album/7B0UmyvEgRMfLGgCOmtsER) | 3:00 |

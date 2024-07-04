@@ -1,6 +1,6 @@
 {
   "description": "Let's make this a day and night to remember. ",
-  "num_followers": 52151,
+  "num_followers": 52154,
   "original_name": "Bachelorette Party",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-05-10 15:50:10",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2024-05-10 15:50:10",
-      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -339,18 +323,18 @@
     {
       "added_at": "2024-05-10 15:50:10",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2024-05-10 15:50:10",
@@ -367,6 +351,22 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
+    },
+    {
+      "added_at": "2024-05-10 15:50:10",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
       "added_at": "2024-05-10 15:50:10",
@@ -583,26 +583,6 @@
     {
       "added_at": "2024-05-10 15:50:10",
       "album": {
-        "name": "Meet The Orphans",
-        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Danza Kuduro",
-      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
-    },
-    {
-      "added_at": "2024-05-10 15:50:10",
-      "album": {
         "name": "Mail on Sunday",
         "url": "https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 231400,
       "name": "Low (feat. T-Pain)",
       "url": "https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J"
+    },
+    {
+      "added_at": "2024-05-10 15:50:10",
+      "album": {
+        "name": "Meet The Orphans",
+        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Danza Kuduro",
+      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
     },
     {
       "added_at": "2024-05-10 15:50:10",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-05-10 15:50:10",
       "album": {
-        "name": "No More Drama",
-        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 265866,
-      "name": "Family Affair",
-      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
-    },
-    {
-      "added_at": "2024-05-10 15:50:10",
-      "album": {
         "name": "Beautiful Girls",
         "url": "https://open.spotify.com/album/71clfVkkopYLrgweVj2cow"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 225373,
       "name": "Beautiful Girls",
       "url": "https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx"
+    },
+    {
+      "added_at": "2024-05-10 15:50:10",
+      "album": {
+        "name": "No More Drama",
+        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 265866,
+      "name": "Family Affair",
+      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
     },
     {
       "added_at": "2024-05-10 15:50:10",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-05-10 15:50:10",
       "album": {
-        "name": "Some Hearts",
-        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "Before He Cheats",
-      "url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
-    },
-    {
-      "added_at": "2024-05-10 15:50:10",
-      "album": {
         "name": "Raise Your Glass",
         "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 202960,
       "name": "Raise Your Glass",
       "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
+    },
+    {
+      "added_at": "2024-05-10 15:50:10",
+      "album": {
+        "name": "Some Hearts",
+        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 199946,
+      "name": "Before He Cheats",
+      "url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
     },
     {
       "added_at": "2024-05-10 15:50:10",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-05-10 15:50:10",
       "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
+    },
+    {
+      "added_at": "2024-05-10 15:50:10",
+      "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 212000,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
-    },
-    {
-      "added_at": "2024-05-10 15:50:10",
-      "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
       "added_at": "2024-05-10 15:50:10",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-05-10 15:50:10",
       "album": {
+        "name": "SOUTHSIDE",
+        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 162546,
+      "name": "Body Like A Back Road",
+      "url": "https://open.spotify.com/track/7FpBQ067pHB67deawpbbcY"
+    },
+    {
+      "added_at": "2024-05-10 15:50:10",
+      "album": {
         "name": "All Your Fault: Pt. 2",
         "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 163870,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
-    },
-    {
-      "added_at": "2024-05-10 15:50:10",
-      "album": {
-        "name": "SOUTHSIDE",
-        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 162546,
-      "name": "Body Like A Back Road",
-      "url": "https://open.spotify.com/track/7FpBQ067pHB67deawpbbcY"
     },
     {
       "added_at": "2024-05-10 15:50:10",

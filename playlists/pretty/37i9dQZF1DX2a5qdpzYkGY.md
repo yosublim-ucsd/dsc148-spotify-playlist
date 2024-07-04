@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 
 > a journey through ephemeral moments
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,230 likes - 75 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,228 likes - 75 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,11 +65,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 55 | [Night looping \- Movement I](https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [Le jour et la nuit du réel](https://open.spotify.com/album/0SGlqX0au6eBPzbyu1WiA3) | 2:11 |
 | 56 | [atomic bombs atomic bonds i love you](https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt) | [Askjell](https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F) | [atomic bombs atomic bonds i love you](https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r) | 5:27 |
 | 57 | [Castlefields](https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov) | [Tara Clerkin](https://open.spotify.com/artist/1YcBnLLKFvHMwI50zfdCq6), [Sunny Joe Paradisos](https://open.spotify.com/artist/5Ie1d2b7AKpOYCG2SLb3mI) | [Castlefields](https://open.spotify.com/album/6GNyX4SyIOgdubONONUvGh) | 8:14 |
-| 58 | [Open Hill](https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os), [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [Horizon](https://open.spotify.com/album/2FnyPVqxMi3DhDL9Ms53we) | 4:16 |
-| 59 | [Wandering II \- Ed Carlsen Rework](https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx), [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Wandering II \(Ed Carlsen Rework\)](https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga) | 3:10 |
+| 58 | [Wandering II \- Ed Carlsen Rework](https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx), [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Wandering II \(Ed Carlsen Rework\)](https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga) | 3:10 |
+| 59 | [Open Hill](https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os), [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [Horizon](https://open.spotify.com/album/2FnyPVqxMi3DhDL9Ms53we) | 4:16 |
 | 60 | [Ugly Orange](https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P) | [yes/and](https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98) | [Ugly Orange](https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho) | 4:19 |
-| 61 | [AM Prosperität](https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [AM Prosperität](https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN) | 4:48 |
-| 62 | [El Momento](https://open.spotify.com/track/5RlcIRD2XWzFMP0qeGqFlK) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Roberto Verástegui](https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa) | [El Momento](https://open.spotify.com/album/2Qx4zobEOV9BRW3wL1IbRI) | 3:19 |
+| 61 | [El Momento](https://open.spotify.com/track/5RlcIRD2XWzFMP0qeGqFlK) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Roberto Verástegui](https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa) | [El Momento](https://open.spotify.com/album/2Qx4zobEOV9BRW3wL1IbRI) | 3:19 |
+| 62 | [AM Prosperität](https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [AM Prosperität](https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN) | 4:48 |
 | 63 | [Myth Machine](https://open.spotify.com/track/5RwtVAXUUAa8O6ypxYmW04) | [Yuta Matsumura](https://open.spotify.com/artist/406gPYJrv2Xq4YRJub1qRa) | [Red Ribbon](https://open.spotify.com/album/17mDWGdTnVS1h7yXMmrxUp) | 4:25 |
 | 64 | [Solitude \- Theme](https://open.spotify.com/track/1kLaOChjYgevlR19UMA6yh) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Tony Takitani](https://open.spotify.com/album/7wbkTFi8Gve3hgYMAJuBw2) | 4:05 |
 | 65 | [In a Cistern](https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [In a Cistern b/w Into Clouds](https://open.spotify.com/album/6xlCxwfhcHoAB9QFPltjU3) | 4:20 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 72 | [Jinja Encounters](https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 3:54 |
 | 73 | [Marilene \- Somewhere in Texas](https://open.spotify.com/track/6jVbgzKpU5TV5Vijk7TD37) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Marilene \(Somewhere in Texas\)](https://open.spotify.com/album/77JuxMNZxYkDmhDzFywvn7) | 7:55 |
 | 74 | [Earth's Orbit](https://open.spotify.com/track/6XVZhsWHSbQcPmHN6MCdza) | [Adam Saunders](https://open.spotify.com/artist/26EJOdtsKzoO67yCn7kdAU), [Mark Stephen Cousins](https://open.spotify.com/artist/4Tcr21ghQ8bsvYRc41GqIF), [Mark Cousins](https://open.spotify.com/artist/532Rq5aGExIRlG4QDwOQlx) | [Docutrax, Vol\. 2: Serious Incidents](https://open.spotify.com/album/5FkAhhLYin1Ktwfc3WYHG1) | 2:32 |
-| 75 | [1978](https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ) | [Do Make Say Think](https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc) | [Do Make Say Think](https://open.spotify.com/album/4wdTsdXzJJddL3FwHmJHDy) | 10:29 |
+| 75 | [THE PERFUMED GARDEN](https://open.spotify.com/track/4gCkomA8CVHrVzSXqDjDfI) | [Celestial](https://open.spotify.com/artist/3SFCZy20vLywkF2KDiwqCk) | [I Had Too Much to Dream Last Night](https://open.spotify.com/album/1MmJmjY9LKhylRSgydvGwJ) | 7:36 |
 
 Snapshot ID: `ZoRwugAAAADtN0OFoj6z1fYx8hGcE6su`

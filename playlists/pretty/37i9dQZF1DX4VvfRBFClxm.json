@@ -1,6 +1,6 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan",
-  "num_followers": 1470577,
+  "num_followers": 1470580,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "We'll Never Have Sex",
-        "url": "https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 99620,
-      "name": "We'll Never Have Sex",
-      "url": "https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Fall Into Me",
         "url": "https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 226066,
       "name": "Fall Into Me",
       "url": "https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "We'll Never Have Sex",
+        "url": "https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 99620,
+      "name": "We'll Never Have Sex",
+      "url": "https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "This Town",
-        "url": "https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 230098,
       "name": "You and Me On The Rock (feat. Lucius)",
       "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "This Town",
+        "url": "https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Favourite Ex",
-        "url": "https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 201694,
-      "name": "Favourite Ex",
-      "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Time Without Consequence",
         "url": "https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 297120,
       "name": "All My Days",
       "url": "https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Favourite Ex",
+        "url": "https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 201694,
+      "name": "Favourite Ex",
+      "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
         }
       ],
-      "duration_ms": 179173,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
+      "duration_ms": 235586,
+      "name": "The Trouble with Wanting",
+      "url": "https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
       },
       "artists": [
         {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 235586,
-      "name": "The Trouble with Wanting",
-      "url": "https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc"
+      "duration_ms": 179173,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Meet The Moonlight",
-        "url": "https://open.spotify.com/album/58vzDcu4jADoUAI4DKH5rj"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 191647,
-      "name": "One Step Ahead",
-      "url": "https://open.spotify.com/track/6eNEo4XcT3zxoHM2Zb9ooG"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "See You Again, Love Me Like You Do, Sugar (Acoustic Mashup)",
         "url": "https://open.spotify.com/album/598yk60jws90rsCDHU4lkl"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 231965,
       "name": "See You Again, Love Me Like You Do, Sugar - Acoustic Mashup",
       "url": "https://open.spotify.com/track/29Ns3avs48iQhNQgrHMEkm"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Meet The Moonlight",
+        "url": "https://open.spotify.com/album/58vzDcu4jADoUAI4DKH5rj"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 191647,
+      "name": "One Step Ahead",
+      "url": "https://open.spotify.com/track/6eNEo4XcT3zxoHM2Zb9ooG"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "Signs of Life",
+        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 257853,
+      "name": "Sapling",
+      "url": "https://open.spotify.com/track/6E40D1iwXILbSs8GNSs5Bh"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 221200,
       "name": "Mercy - Acoustic Guitar",
       "url": "https://open.spotify.com/track/2lJOKBuPgR9vcD4PLxTakY"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Signs of Life",
-        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 257853,
-      "name": "Sapling",
-      "url": "https://open.spotify.com/track/6E40D1iwXILbSs8GNSs5Bh"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "IOWA",
         "url": "https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46"
       },
@@ -1803,6 +1787,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "Can't Help Falling In Love",
+        "url": "https://open.spotify.com/album/1S3qHwtPhRzJ7wLu3QbWee"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Can't Help Falling In Love",
+      "url": "https://open.spotify.com/track/4kfcKQXyllqS2JRxKdHBaP"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Save My Life (Radio Edit)",
         "url": "https://open.spotify.com/album/20BcK0UDu480rOworsrKLF"
       },
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Can't Help Falling In Love",
-        "url": "https://open.spotify.com/album/1S3qHwtPhRzJ7wLu3QbWee"
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
       },
       "artists": [
         {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
-      "duration_ms": 140800,
-      "name": "Can't Help Falling In Love",
-      "url": "https://open.spotify.com/track/4kfcKQXyllqS2JRxKdHBaP"
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1863,6 +1863,22 @@
       "duration_ms": 195579,
       "name": "Lost On You",
       "url": "https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Lego House - Single",
+        "url": "https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Lego House",
+      "url": "https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1931,22 +1947,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Lego House - Single",
-        "url": "https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR"
-      },
-      "artists": [
-        {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Lego House",
-      "url": "https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "TFDI",
         "url": "https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh"
       },
@@ -1975,6 +1975,22 @@
       "duration_ms": 234775,
       "name": "Chemicals - Acoustic",
       "url": "https://open.spotify.com/track/6VwJchlkgjGbjU1SMyvwBN"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "duration_ms": 186845,
+      "name": "Love Her Anyways",
+      "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2055,22 +2071,6 @@
       "duration_ms": 171413,
       "name": "Life Is Confusing",
       "url": "https://open.spotify.com/track/4sYjFmNN8Vv2Rjg8jhwrSX"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Craving (Acoustic)",
-        "url": "https://open.spotify.com/album/2rwrRF2UmgeoXn6kKlp7pO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Craving - Acoustic Version",
-      "url": "https://open.spotify.com/track/6l9EToqnhtadmJ6qX9DDUl"
     }
   ],
   "unique_name": "Acoustic Hits",

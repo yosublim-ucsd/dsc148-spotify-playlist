@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: KISS OF LIFE\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 959,722 likes - 64 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 959,863 likes - 64 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 15 | [Fancy \- Spotify Singles](https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Fancy \- Spotify Singles](https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq) | 3:13 |
 | 16 | [해야 \(HEYA\)](https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 3:09 |
 | 17 | [FLOWER](https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql) | 2:54 |
-| 18 | [MANIAC](https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 4th Mini Album 'VERSUS'](https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y) | 3:15 |
-| 19 | [Small girl \(feat\. D.O.\)](https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [16 Fantasy](https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR) | 3:09 |
+| 18 | [Small girl \(feat\. D.O.\)](https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [16 Fantasy](https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR) | 3:09 |
+| 19 | [MANIAC](https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 4th Mini Album 'VERSUS'](https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y) | 3:15 |
 | 20 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 |
 | 21 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 |
 | 22 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 |
@@ -52,13 +52,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 42 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 |
 | 43 | [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 |
 | 44 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 |
-| 45 | [XXL](https://open.spotify.com/track/05QXjyZgsAq6J84J6SlbyV) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [XXL EP](https://open.spotify.com/album/0EbH9upNSg6zsdFZ8g11Yl) | 2:32 |
+| 45 | [ZOMBIE](https://open.spotify.com/track/57RkVmnj3b1FUJoUdkSuZD) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [ZOMBIE](https://open.spotify.com/album/6vGrWJmYXU9VqiqpOwPJ2r) | 3:18 |
 | 46 | [Baddie](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:34 |
 | 47 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 |
 | 48 | [FINAL LOVE SONG](https://open.spotify.com/track/7uhvf8LckR9OYmmiJ53wJW) | [I\-LAND2 : N/a](https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4) | [I\-LAND2 : N/a Signal Song \(Applicants Version\)](https://open.spotify.com/album/34esSejdtngmSozv4mZCUR) | 3:17 |
 | 49 | [Wife](https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Wife](https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK) | 2:01 |
 | 50 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 |
-| 51 | [ZOMBIE](https://open.spotify.com/track/57RkVmnj3b1FUJoUdkSuZD) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [ZOMBIE](https://open.spotify.com/album/6vGrWJmYXU9VqiqpOwPJ2r) | 3:18 |
+| 51 | [XXL](https://open.spotify.com/track/05QXjyZgsAq6J84J6SlbyV) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [XXL EP](https://open.spotify.com/album/0EbH9upNSg6zsdFZ8g11Yl) | 2:32 |
 | 52 | [EENIE MEENIE \(Feat\. Hongjoong of ATEEZ\)](https://open.spotify.com/track/3WFTUAPrXvqg3SXC0bsukz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Hongjoong of ATEEZ](https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx) | [EENIE MEENIE](https://open.spotify.com/album/1q2RNzz09Vx3bOKK1yTyyg) | 2:50 |
 | 53 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 |
 | 54 | [SNEAKERS](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 60 | [SABOTAGE](https://open.spotify.com/track/3jUnWCtIwlP9ABJWIiqrCe) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [SABOTAGE](https://open.spotify.com/album/5xIQ5P9THWkpmrG2MxiuoL) | 3:15 |
 | 61 | [Love Me Like This](https://open.spotify.com/track/2W8UduoifU1zgjKZlfY79S) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/2mKUepexXVL69G8bBK9ECB) | 3:08 |
 | 62 | [Discord](https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Single Album 'Harmony from Discord'](https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc) | 2:47 |
-| 63 | [Birth](https://open.spotify.com/track/6aPXjtda2SdTi8rAcFlrOS) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 1 : Birth>](https://open.spotify.com/album/5wZCcgVMvK2sEEKH5oXNMJ) | 2:42 |
-| 64 | [Q&A](https://open.spotify.com/track/4AYpLGpfO28geKxxxZ3ztu) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Attitude](https://open.spotify.com/album/10BUVVtnO0rZlbQBPJTrfj) | 2:45 |
+| 63 | [Q&A](https://open.spotify.com/track/4AYpLGpfO28geKxxxZ3ztu) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Attitude](https://open.spotify.com/album/10BUVVtnO0rZlbQBPJTrfj) | 2:45 |
+| 64 | [Birth](https://open.spotify.com/track/6aPXjtda2SdTi8rAcFlrOS) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 1 : Birth>](https://open.spotify.com/album/5wZCcgVMvK2sEEKH5oXNMJ) | 2:42 |
 
 Snapshot ID: `ZoOpdwAAAABMfOmqrp83FYNXZd+hIzj0`

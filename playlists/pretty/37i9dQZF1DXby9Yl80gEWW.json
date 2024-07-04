@@ -1,6 +1,6 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 50487,
+  "num_followers": 50511,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -99,18 +99,18 @@
     {
       "added_at": "2024-07-01 22:57:07",
       "album": {
-        "name": "Why Should The Fire Die?",
-        "url": "https://open.spotify.com/album/6l61p7zbizBUjQWY10LWmb"
+        "name": "Ahoy!",
+        "url": "https://open.spotify.com/album/36jzIBBHAa6v02X8fE1JB8"
       },
       "artists": [
         {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
         }
       ],
-      "duration_ms": 113506,
-      "name": "First And Last Waltz",
-      "url": "https://open.spotify.com/track/0jA97ZNgPqfcg9QesgEzXC"
+      "duration_ms": 164613,
+      "name": "Squirrel of Possibility",
+      "url": "https://open.spotify.com/track/6V25eJUQ6sBV6ONkC7LeFa"
     },
     {
       "added_at": "2024-07-01 22:57:07",
@@ -151,18 +151,18 @@
     {
       "added_at": "2024-07-01 22:57:07",
       "album": {
-        "name": "Ahoy!",
-        "url": "https://open.spotify.com/album/36jzIBBHAa6v02X8fE1JB8"
+        "name": "Why Should The Fire Die?",
+        "url": "https://open.spotify.com/album/6l61p7zbizBUjQWY10LWmb"
       },
       "artists": [
         {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
         }
       ],
-      "duration_ms": 164613,
-      "name": "Squirrel of Possibility",
-      "url": "https://open.spotify.com/track/6V25eJUQ6sBV6ONkC7LeFa"
+      "duration_ms": 113506,
+      "name": "First And Last Waltz",
+      "url": "https://open.spotify.com/track/0jA97ZNgPqfcg9QesgEzXC"
     },
     {
       "added_at": "2024-07-01 22:57:07",
@@ -463,38 +463,6 @@
     {
       "added_at": "2024-07-01 22:57:07",
       "album": {
-        "name": "Viridian",
-        "url": "https://open.spotify.com/album/4qLx6Y6blODXRNMFyuRHN2"
-      },
-      "artists": [
-        {
-          "name": "The Greencards",
-          "url": "https://open.spotify.com/artist/5aC3wjbpR5fL6qBGlM2u7S"
-        }
-      ],
-      "duration_ms": 126093,
-      "name": "Su Prabhat",
-      "url": "https://open.spotify.com/track/0jxVlg0ULpuQ0rJP81KzWN"
-    },
-    {
-      "added_at": "2024-07-01 22:57:07",
-      "album": {
-        "name": "Leave Some Things Behind",
-        "url": "https://open.spotify.com/album/50xpIDggAfE6YRdWBZaotd"
-      },
-      "artists": [
-        {
-          "name": "The Steel Wheels",
-          "url": "https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn"
-        }
-      ],
-      "duration_ms": 121133,
-      "name": "Mountains Quake",
-      "url": "https://open.spotify.com/track/34Fn9n6FSOrAvbNzSK9eyf"
-    },
-    {
-      "added_at": "2024-07-01 22:57:07",
-      "album": {
         "name": "Shadowgrass",
         "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
       },
@@ -523,6 +491,38 @@
       "duration_ms": 198733,
       "name": "Smith Chapel",
       "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
+    },
+    {
+      "added_at": "2024-07-01 22:57:07",
+      "album": {
+        "name": "Viridian",
+        "url": "https://open.spotify.com/album/4qLx6Y6blODXRNMFyuRHN2"
+      },
+      "artists": [
+        {
+          "name": "The Greencards",
+          "url": "https://open.spotify.com/artist/5aC3wjbpR5fL6qBGlM2u7S"
+        }
+      ],
+      "duration_ms": 126093,
+      "name": "Su Prabhat",
+      "url": "https://open.spotify.com/track/0jxVlg0ULpuQ0rJP81KzWN"
+    },
+    {
+      "added_at": "2024-07-01 22:57:07",
+      "album": {
+        "name": "Leave Some Things Behind",
+        "url": "https://open.spotify.com/album/50xpIDggAfE6YRdWBZaotd"
+      },
+      "artists": [
+        {
+          "name": "The Steel Wheels",
+          "url": "https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn"
+        }
+      ],
+      "duration_ms": 121133,
+      "name": "Mountains Quake",
+      "url": "https://open.spotify.com/track/34Fn9n6FSOrAvbNzSK9eyf"
     },
     {
       "added_at": "2024-07-01 22:57:07",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-01 22:57:07",
       "album": {
-        "name": "How To Grow A Woman From The Ground",
-        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
-      },
-      "artists": [
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        }
-      ],
-      "duration_ms": 254226,
-      "name": "Watch 'At Breakdown",
-      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
-    },
-    {
-      "added_at": "2024-07-01 22:57:07",
-      "album": {
         "name": "Short Trip Home",
         "url": "https://open.spotify.com/album/5qd2N0FM2Ld4RRG4OWtNRA"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 244706,
       "name": "If I Knew - Instrumental",
       "url": "https://open.spotify.com/track/1kBUMCRkZfBEnZRXc2xdD9"
+    },
+    {
+      "added_at": "2024-07-01 22:57:07",
+      "album": {
+        "name": "How To Grow A Woman From The Ground",
+        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
+      },
+      "artists": [
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "duration_ms": 254226,
+      "name": "Watch 'At Breakdown",
+      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
     },
     {
       "added_at": "2024-07-01 22:57:07",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-01 22:57:07",
       "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Leaving Cottondale",
-      "url": "https://open.spotify.com/track/0Yt1lEl3YR4D7lsGA4VfuW"
-    },
-    {
-      "added_at": "2024-07-01 22:57:07",
-      "album": {
         "name": "Songs For The Sparrows",
         "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2024-07-01 22:57:07",
       "album": {
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Leaving Cottondale",
+      "url": "https://open.spotify.com/track/0Yt1lEl3YR4D7lsGA4VfuW"
+    },
+    {
+      "added_at": "2024-07-01 22:57:07",
+      "album": {
         "name": "Gravity's Our Enemy",
         "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 251360,
       "name": "The Majestic Swan - Instrumental",
       "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
+    },
+    {
+      "added_at": "2024-07-01 22:57:07",
+      "album": {
+        "name": "Cellopickin'",
+        "url": "https://open.spotify.com/album/5GORB7gJRciuBSmr5zXLva"
+      },
+      "artists": [
+        {
+          "name": "William Jack",
+          "url": "https://open.spotify.com/artist/3Ds96gXKTTw3CRUZaLTZqK"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "Cellopickin'",
+      "url": "https://open.spotify.com/track/656nmSiyqb2Y5Hv1M795ux"
     },
     {
       "added_at": "2024-07-01 22:57:07",
@@ -871,22 +887,6 @@
       "duration_ms": 158693,
       "name": "Chasin' Skies",
       "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
-    },
-    {
-      "added_at": "2024-07-01 22:57:07",
-      "album": {
-        "name": "Cellopickin'",
-        "url": "https://open.spotify.com/album/5GORB7gJRciuBSmr5zXLva"
-      },
-      "artists": [
-        {
-          "name": "William Jack",
-          "url": "https://open.spotify.com/artist/3Ds96gXKTTw3CRUZaLTZqK"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "Cellopickin'",
-      "url": "https://open.spotify.com/track/656nmSiyqb2Y5Hv1M795ux"
     },
     {
       "added_at": "2024-07-01 22:57:07",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-07-01 22:57:07",
       "album": {
-        "name": "Americana Master Series: Best Of The Sugar Hill Years",
-        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
+        "name": "Tsali's Run",
+        "url": "https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP"
       },
       "artists": [
         {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+          "name": "Carley Arrowood",
+          "url": "https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK"
         }
       ],
-      "duration_ms": 392200,
-      "name": "We Hide And Seek",
-      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
+      "duration_ms": 238000,
+      "name": "Tsali's Run",
+      "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
     },
     {
       "added_at": "2024-07-01 22:57:07",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-07-01 22:57:07",
       "album": {
-        "name": "Tsali's Run",
-        "url": "https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP"
+        "name": "Americana Master Series: Best Of The Sugar Hill Years",
+        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
       },
       "artists": [
         {
-          "name": "Carley Arrowood",
-          "url": "https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK"
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Tsali's Run",
-      "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
+      "duration_ms": 392200,
+      "name": "We Hide And Seek",
+      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
     },
     {
       "added_at": "2024-07-01 22:57:07",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-07-01 22:57:07",
       "album": {
+        "name": "Moonbeam",
+        "url": "https://open.spotify.com/album/1VTipkjGNb0kofaMblqkT2"
+      },
+      "artists": [
+        {
+          "name": "Waterhouse",
+          "url": "https://open.spotify.com/artist/25PniBi23b8oE5BXVRBp4S"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Moonbeam",
+      "url": "https://open.spotify.com/track/6HuOzBKgL1I9WDKjKxS7vp"
+    },
+    {
+      "added_at": "2024-07-01 22:57:07",
+      "album": {
         "name": "Mashbluegrass D-28",
         "url": "https://open.spotify.com/album/58YWl56eUa43jptyZg79nO"
       },
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2024-07-01 22:57:07",
       "album": {
-        "name": "Moonbeam",
-        "url": "https://open.spotify.com/album/1VTipkjGNb0kofaMblqkT2"
-      },
-      "artists": [
-        {
-          "name": "Waterhouse",
-          "url": "https://open.spotify.com/artist/25PniBi23b8oE5BXVRBp4S"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "Moonbeam",
-      "url": "https://open.spotify.com/track/6HuOzBKgL1I9WDKjKxS7vp"
-    },
-    {
-      "added_at": "2024-07-01 22:57:07",
-      "album": {
         "name": "Bozeman (Clawhammer Version)",
         "url": "https://open.spotify.com/album/4qBsC1P0Wsc3nTKWDj3gf2"
       },
@@ -1315,6 +1315,38 @@
       "duration_ms": 256293,
       "name": "Bozeman - Clawhammer Version",
       "url": "https://open.spotify.com/track/2OKPFjbjURGrx8fSzKk8uM"
+    },
+    {
+      "added_at": "2024-07-01 22:57:07",
+      "album": {
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
+      },
+      "artists": [
+        {
+          "name": "Chris Pandolfi",
+          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
+        }
+      ],
+      "duration_ms": 273586,
+      "name": "Winnipeg",
+      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
+    },
+    {
+      "added_at": "2024-07-01 22:57:07",
+      "album": {
+        "name": "Instrumentals, Vol. 1",
+        "url": "https://open.spotify.com/album/1ZaUvK2r4GqFCet5mF8JAl"
+      },
+      "artists": [
+        {
+          "name": "Jacob Jolliff",
+          "url": "https://open.spotify.com/artist/65gpYGwwgux5q7nr9mcxtr"
+        }
+      ],
+      "duration_ms": 212173,
+      "name": "Waitin' on Gravey",
+      "url": "https://open.spotify.com/track/71vPc3R0Eb2NU0McqkfP33"
     },
     {
       "added_at": "2024-07-01 22:57:07",
@@ -1343,38 +1375,6 @@
       "duration_ms": 224986,
       "name": "Ferris Wheel",
       "url": "https://open.spotify.com/track/1AjZqb7Tq31ImmqQBvCJot"
-    },
-    {
-      "added_at": "2024-07-01 22:57:07",
-      "album": {
-        "name": "Instrumentals, Vol. 1",
-        "url": "https://open.spotify.com/album/1ZaUvK2r4GqFCet5mF8JAl"
-      },
-      "artists": [
-        {
-          "name": "Jacob Jolliff",
-          "url": "https://open.spotify.com/artist/65gpYGwwgux5q7nr9mcxtr"
-        }
-      ],
-      "duration_ms": 212173,
-      "name": "Waitin' on Gravey",
-      "url": "https://open.spotify.com/track/71vPc3R0Eb2NU0McqkfP33"
-    },
-    {
-      "added_at": "2024-07-01 22:57:07",
-      "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
-      },
-      "artists": [
-        {
-          "name": "Chris Pandolfi",
-          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
-        }
-      ],
-      "duration_ms": 273586,
-      "name": "Winnipeg",
-      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
     },
     {
       "added_at": "2024-07-01 22:57:07",
@@ -1643,6 +1643,26 @@
     {
       "added_at": "2024-07-01 22:57:07",
       "album": {
+        "name": "Clear the Tracks",
+        "url": "https://open.spotify.com/album/121VqIgXcC5B3nlz4B0RJT"
+      },
+      "artists": [
+        {
+          "name": "Mark Grundhoefer",
+          "url": "https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w"
+        },
+        {
+          "name": "Fin Moon",
+          "url": "https://open.spotify.com/artist/1Gco0BjUXqxHf91RkL9OoP"
+        }
+      ],
+      "duration_ms": 158521,
+      "name": "Clear the Tracks",
+      "url": "https://open.spotify.com/track/5R0d96sHEwQGW3rcga8mkV"
+    },
+    {
+      "added_at": "2024-07-01 22:57:07",
+      "album": {
         "name": "Indoor Vistas",
         "url": "https://open.spotify.com/album/5fOYNNqYU23pUMlPMfuJU6"
       },
@@ -1671,26 +1691,6 @@
       "duration_ms": 237768,
       "name": "And Then, And Then, And Then",
       "url": "https://open.spotify.com/track/4EmclhN9TTg1r2dRNCpGtk"
-    },
-    {
-      "added_at": "2024-07-01 22:57:07",
-      "album": {
-        "name": "Clear the Tracks",
-        "url": "https://open.spotify.com/album/121VqIgXcC5B3nlz4B0RJT"
-      },
-      "artists": [
-        {
-          "name": "Mark Grundhoefer",
-          "url": "https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w"
-        },
-        {
-          "name": "Fin Moon",
-          "url": "https://open.spotify.com/artist/1Gco0BjUXqxHf91RkL9OoP"
-        }
-      ],
-      "duration_ms": 158521,
-      "name": "Clear the Tracks",
-      "url": "https://open.spotify.com/track/5R0d96sHEwQGW3rcga8mkV"
     },
     {
       "added_at": "2024-07-01 22:57:07",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-07-01 22:57:07",
       "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
-      },
-      "artists": [
-        {
-          "name": "Chris Pandolfi",
-          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
-        }
-      ],
-      "duration_ms": 274760,
-      "name": "Rolling Blackout",
-      "url": "https://open.spotify.com/track/4649eRcX3LkZ8HU49VnWK2"
-    },
-    {
-      "added_at": "2024-07-01 22:57:07",
-      "album": {
         "name": "My Place in the Sun",
         "url": "https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 226306,
       "name": "Whiskerhead Goes to Leningrad",
       "url": "https://open.spotify.com/track/0mQ3GSdcv5KvXm47RNlf9p"
+    },
+    {
+      "added_at": "2024-07-01 22:57:07",
+      "album": {
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
+      },
+      "artists": [
+        {
+          "name": "Chris Pandolfi",
+          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
+        }
+      ],
+      "duration_ms": 274760,
+      "name": "Rolling Blackout",
+      "url": "https://open.spotify.com/track/4649eRcX3LkZ8HU49VnWK2"
     },
     {
       "added_at": "2024-07-01 22:57:07",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-07-01 22:57:07",
       "album": {
-        "name": "OKX",
-        "url": "https://open.spotify.com/album/7FOnj5usctKvI2Y6H3Knrb"
-      },
-      "artists": [
-        {
-          "name": "The OK Factor",
-          "url": "https://open.spotify.com/artist/0qPvnnO0TLLOwFRjFZbIlv"
-        }
-      ],
-      "duration_ms": 244111,
-      "name": "Bluegrass Ben",
-      "url": "https://open.spotify.com/track/5tdtneO3Sd5mLyIy7AMScq"
-    },
-    {
-      "added_at": "2024-07-01 22:57:07",
-      "album": {
         "name": "Team Hoover",
         "url": "https://open.spotify.com/album/1AVH0irCkKoElBzN8vhynT"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 341546,
       "name": "Team Hoover",
       "url": "https://open.spotify.com/track/3k62BD8MKYUgOvu82x8glh"
+    },
+    {
+      "added_at": "2024-07-01 22:57:07",
+      "album": {
+        "name": "OKX",
+        "url": "https://open.spotify.com/album/7FOnj5usctKvI2Y6H3Knrb"
+      },
+      "artists": [
+        {
+          "name": "The OK Factor",
+          "url": "https://open.spotify.com/artist/0qPvnnO0TLLOwFRjFZbIlv"
+        }
+      ],
+      "duration_ms": 244111,
+      "name": "Bluegrass Ben",
+      "url": "https://open.spotify.com/track/5tdtneO3Sd5mLyIy7AMScq"
     },
     {
       "added_at": "2024-07-01 22:57:07",
@@ -2071,6 +2071,26 @@
     {
       "added_at": "2024-07-01 22:57:07",
       "album": {
+        "name": "Songs from Horizon",
+        "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
+      },
+      "artists": [
+        {
+          "name": "Matt Combs",
+          "url": "https://open.spotify.com/artist/4E5CVA3tAALpUH7Zi3dAj9"
+        },
+        {
+          "name": "Teddy Morgan",
+          "url": "https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU"
+        }
+      ],
+      "duration_ms": 132794,
+      "name": "Winds Forever Blow",
+      "url": "https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h"
+    },
+    {
+      "added_at": "2024-07-01 22:57:07",
+      "album": {
         "name": "Cup & Porch",
         "url": "https://open.spotify.com/album/789jVdxAQoRSbUG29YCr2A"
       },
@@ -2195,26 +2215,6 @@
     {
       "added_at": "2024-07-01 22:57:07",
       "album": {
-        "name": "Songs from Horizon",
-        "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
-      },
-      "artists": [
-        {
-          "name": "Matt Combs",
-          "url": "https://open.spotify.com/artist/4E5CVA3tAALpUH7Zi3dAj9"
-        },
-        {
-          "name": "Teddy Morgan",
-          "url": "https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU"
-        }
-      ],
-      "duration_ms": 132794,
-      "name": "Winds Forever Blow",
-      "url": "https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h"
-    },
-    {
-      "added_at": "2024-07-01 22:57:07",
-      "album": {
         "name": "Knee Deep in Bluegrass",
         "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
       },
@@ -2247,6 +2247,26 @@
     {
       "added_at": "2024-07-01 22:57:07",
       "album": {
+        "name": "The Snake",
+        "url": "https://open.spotify.com/album/0G080kprHWuQFw5eg1pSko"
+      },
+      "artists": [
+        {
+          "name": "Brittany Haas",
+          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
+        },
+        {
+          "name": "Lena Jonsson",
+          "url": "https://open.spotify.com/artist/6cXjUqtPkQVBydNQhZFo9t"
+        }
+      ],
+      "duration_ms": 153880,
+      "name": "Fiddle Claw",
+      "url": "https://open.spotify.com/track/1RgBVRY7j5CXQNmMqkZKaP"
+    },
+    {
+      "added_at": "2024-07-01 22:57:07",
+      "album": {
         "name": "Vera",
         "url": "https://open.spotify.com/album/6x1CTkRQEa7CydGUP8uoB0"
       },
@@ -2271,26 +2291,6 @@
       "duration_ms": 370013,
       "name": "Vera",
       "url": "https://open.spotify.com/track/0huROu0guZu62dzLOK6KaG"
-    },
-    {
-      "added_at": "2024-07-01 22:57:07",
-      "album": {
-        "name": "The Snake",
-        "url": "https://open.spotify.com/album/0G080kprHWuQFw5eg1pSko"
-      },
-      "artists": [
-        {
-          "name": "Brittany Haas",
-          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
-        },
-        {
-          "name": "Lena Jonsson",
-          "url": "https://open.spotify.com/artist/6cXjUqtPkQVBydNQhZFo9t"
-        }
-      ],
-      "duration_ms": 153880,
-      "name": "Fiddle Claw",
-      "url": "https://open.spotify.com/track/1RgBVRY7j5CXQNmMqkZKaP"
     },
     {
       "added_at": "2024-07-01 22:57:07",
@@ -2327,6 +2327,22 @@
     {
       "added_at": "2024-07-01 22:57:07",
       "album": {
+        "name": "Grassology",
+        "url": "https://open.spotify.com/album/1KEAGUGY0203LByE39OfYh"
+      },
+      "artists": [
+        {
+          "name": "Jason Keiser",
+          "url": "https://open.spotify.com/artist/0rY72bAl6Aw505XzsQoDCC"
+        }
+      ],
+      "duration_ms": 198866,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/5YDjrxdOKhgd54xstxTyRI"
+    },
+    {
+      "added_at": "2024-07-01 22:57:07",
+      "album": {
         "name": "Runaway Traveler",
         "url": "https://open.spotify.com/album/4ogIAVRKxmn17KfMpICzZU"
       },
@@ -2359,22 +2375,6 @@
     {
       "added_at": "2024-07-01 22:57:07",
       "album": {
-        "name": "Grassology",
-        "url": "https://open.spotify.com/album/1KEAGUGY0203LByE39OfYh"
-      },
-      "artists": [
-        {
-          "name": "Jason Keiser",
-          "url": "https://open.spotify.com/artist/0rY72bAl6Aw505XzsQoDCC"
-        }
-      ],
-      "duration_ms": 198866,
-      "name": "Gold Rush",
-      "url": "https://open.spotify.com/track/5YDjrxdOKhgd54xstxTyRI"
-    },
-    {
-      "added_at": "2024-07-01 22:57:07",
-      "album": {
         "name": "Azazel's Escape",
         "url": "https://open.spotify.com/album/3n0Vry6agEGju2r8375FqA"
       },
@@ -2387,6 +2387,46 @@
       "duration_ms": 170866,
       "name": "Azazel's Escape",
       "url": "https://open.spotify.com/track/0uSljzqSkZznOkzaxikmLB"
+    },
+    {
+      "added_at": "2024-07-01 22:57:07",
+      "album": {
+        "name": "Lady Hamilton",
+        "url": "https://open.spotify.com/album/5spa6gdU2IHmjenS3GuMCR"
+      },
+      "artists": [
+        {
+          "name": "George Jackson",
+          "url": "https://open.spotify.com/artist/22k9oyPcLzjnKokhSHoFV7"
+        },
+        {
+          "name": "Eli Broxham",
+          "url": "https://open.spotify.com/artist/1TgFBajZtGKOwhEONz9n8G"
+        },
+        {
+          "name": "Frank Evans",
+          "url": "https://open.spotify.com/artist/1sOuG3dLwdgmh53W0NPaGO"
+        }
+      ],
+      "duration_ms": 177760,
+      "name": "Lady Hamilton",
+      "url": "https://open.spotify.com/track/1RmRn84MUOTropcrotePxt"
+    },
+    {
+      "added_at": "2024-07-01 22:57:07",
+      "album": {
+        "name": "Nine Pin",
+        "url": "https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "duration_ms": 137493,
+      "name": "Fine Times at Our House",
+      "url": "https://open.spotify.com/track/3J7cN5yWjtDVLO45gtdJOf"
     },
     {
       "added_at": "2024-07-01 22:57:07",
@@ -2415,46 +2455,6 @@
       "duration_ms": 298026,
       "name": "Los Angeles County Breakdown",
       "url": "https://open.spotify.com/track/1a2DPkQYI6e1MtZXuqNHm8"
-    },
-    {
-      "added_at": "2024-07-01 22:57:07",
-      "album": {
-        "name": "Nine Pin",
-        "url": "https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG"
-      },
-      "artists": [
-        {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
-        }
-      ],
-      "duration_ms": 137493,
-      "name": "Fine Times at Our House",
-      "url": "https://open.spotify.com/track/3J7cN5yWjtDVLO45gtdJOf"
-    },
-    {
-      "added_at": "2024-07-01 22:57:07",
-      "album": {
-        "name": "Lady Hamilton",
-        "url": "https://open.spotify.com/album/5spa6gdU2IHmjenS3GuMCR"
-      },
-      "artists": [
-        {
-          "name": "George Jackson",
-          "url": "https://open.spotify.com/artist/22k9oyPcLzjnKokhSHoFV7"
-        },
-        {
-          "name": "Eli Broxham",
-          "url": "https://open.spotify.com/artist/1TgFBajZtGKOwhEONz9n8G"
-        },
-        {
-          "name": "Frank Evans",
-          "url": "https://open.spotify.com/artist/1sOuG3dLwdgmh53W0NPaGO"
-        }
-      ],
-      "duration_ms": 177760,
-      "name": "Lady Hamilton",
-      "url": "https://open.spotify.com/track/1RmRn84MUOTropcrotePxt"
     },
     {
       "added_at": "2024-07-01 22:57:07",

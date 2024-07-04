@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7clFvfOCA8KimyV26jLALB">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544 likes - 189 songs - 12 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 545 likes - 189 songs - 12 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 85 | [Work On It](https://open.spotify.com/track/3r3XrpjHZVrK8dohg1gksD) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 3:34 |
 | 86 | [Go Ahead](https://open.spotify.com/track/2FeADxLaweWn04ktlPCxUt) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:35 |
 | 87 | [As I Am \(Intro\)](https://open.spotify.com/track/2Akflbx1R68FZOOUx33xTc) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 1:52 |
-| 88 | [Troubles](https://open.spotify.com/track/4QD2WHH386lGJ6OotpY17G) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 4:28 |
-| 89 | [Psalm 62](https://open.spotify.com/track/1Pai6r7aZUkrP57WoGNVtp) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [The Foggie Pound 3](https://open.spotify.com/album/1ZzXYPLLalBAuHiy9JJgGr) | 2:51 |
+| 88 | [Psalm 62](https://open.spotify.com/track/1Pai6r7aZUkrP57WoGNVtp) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [The Foggie Pound 3](https://open.spotify.com/album/1ZzXYPLLalBAuHiy9JJgGr) | 2:51 |
+| 89 | [Troubles](https://open.spotify.com/track/4QD2WHH386lGJ6OotpY17G) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 4:28 |
 | 90 | [Where Do We Go from Here](https://open.spotify.com/track/2v0PxHCpmeVW2DLjMunBtt) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:10 |
 | 91 | [Tell You Something \(Nana's Reprise\)](https://open.spotify.com/track/0wz4b1QeGaMp4Y9Mvdj8ym) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:28 |
 | 92 | [This Bed](https://open.spotify.com/track/1EwZUh0VdTJp12EcBwez6O) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 3:45 |
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 114 | [101](https://open.spotify.com/track/7wMPExYjxfDzu4SWDUt7dQ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 6:27 |
 | 115 | [Sure Looks Good to Me](https://open.spotify.com/track/2uIKuDo8401SdhQWxasMWD) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:31 |
 | 116 | [A Woman's Worth \(Live\) \- Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY \- July 2005](https://open.spotify.com/track/2KxLC0zzzCvJ5xg9dZPnA2) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Unplugged](https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg) | 3:30 |
-| 117 | [Goodbye](https://open.spotify.com/track/38SQVzwBUdL985UDY81shh) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 4:20 |
-| 118 | [Slow Down](https://open.spotify.com/track/4EvZwWEf8kXXCEpFj8BSwp) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 4:18 |
+| 117 | [Slow Down](https://open.spotify.com/track/4EvZwWEf8kXXCEpFj8BSwp) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 4:18 |
+| 118 | [Goodbye](https://open.spotify.com/track/38SQVzwBUdL985UDY81shh) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 4:20 |
 | 119 | [Place To Call My Own \- AK Version](https://open.spotify.com/track/3csHssZTKpXr4UbIUIyksR) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Volume 1](https://open.spotify.com/album/0dICqPiSgbmRRRqWAT0XKk) | 3:08 |
 | 120 | [Limitedless](https://open.spotify.com/track/4qbucOk69GoJdBCWFfHPhk) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 3:57 |
 | 121 | [Elaine Brown \(Interlude\)](https://open.spotify.com/track/32niUFJvA4W0Vqc2VeE7Ug) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 0:50 |
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 188 | [You Glow \(Interlude\)](https://open.spotify.com/track/4KEMTZBgdf5cxsby54YqSE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 0:25 |
 | 189 | [I Got A Little Something \- Live In Seattle](https://open.spotify.com/track/79H23cYdXUmMj0Ceo2Hx8Y) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Deluxe Edition\)](https://open.spotify.com/album/11z4Njr53X88x2ldtS92Ub) | 1:42 |
 
-Snapshot ID: `AbVpmwAAAAB9KOYOyuXlZ0kkzCsly6Bk`
+Snapshot ID: `AbVvNAAAAAC4kq+HOLX5Cr4hAU+34rF7`

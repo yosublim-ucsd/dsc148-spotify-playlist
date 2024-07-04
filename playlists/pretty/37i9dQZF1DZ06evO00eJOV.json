@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 35437,
+  "num_followers": 35439,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAACMeNRAdbh175CKjxjmWLZ4",
+  "snapshot_id": "ZoNDAAAAAADaxDugqX+p1XAsXYm+Y1j5",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Memeza",
+        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 265866,
+      "name": "Memeza",
+      "url": "https://open.spotify.com/track/3PCKM1x8qKIMjApmC6u2Ze"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soon And Very Soon",
         "url": "https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 261333,
       "name": "Soon And Very Soon",
       "url": "https://open.spotify.com/track/6moVmCVeuTE9kVkLqb4LOs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memeza",
-        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 265866,
-      "name": "Memeza",
-      "url": "https://open.spotify.com/track/3PCKM1x8qKIMjApmC6u2Ze"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mali",
-        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 355066,
-      "name": "Ntsware - Ndibambe",
-      "url": "https://open.spotify.com/track/2CbMJFrNNXHFEJ0rfvAg8I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amadlozi",
         "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 294746,
       "name": "Monate",
       "url": "https://open.spotify.com/track/3xP06xjR4drFbWNXarAbGk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 355066,
+      "name": "Ntsware - Ndibambe",
+      "url": "https://open.spotify.com/track/2CbMJFrNNXHFEJ0rfvAg8I"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black President",
-        "url": "https://open.spotify.com/album/3HhEwfPwfAqK2D0fe7TBWW"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 226213,
-      "name": "Stay Away (From My Man)",
-      "url": "https://open.spotify.com/track/40DPMkp4xEbKKkhUCR65Iv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malibongwe",
         "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 331373,
       "name": "Mbulali Wami",
       "url": "https://open.spotify.com/track/4mv628DTPrlRfEbCx8VOjX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black President",
+        "url": "https://open.spotify.com/album/3HhEwfPwfAqK2D0fe7TBWW"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 226213,
+      "name": "Stay Away (From My Man)",
+      "url": "https://open.spotify.com/track/40DPMkp4xEbKKkhUCR65Iv"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mina Nawe",
-        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 290613,
-      "name": "Uyang'Embarasa",
-      "url": "https://open.spotify.com/track/2sYRByVFwMQAx6K0CTWizr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nomakanjani",
         "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 307333,
       "name": "Jiva",
       "url": "https://open.spotify.com/track/0mJXMCZ4p6bPVpsjj0zTGe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 290613,
+      "name": "Uyang'Embarasa",
+      "url": "https://open.spotify.com/track/2sYRByVFwMQAx6K0CTWizr"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mina Nawe",
-        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 298906,
-      "name": "Ngohlala Ngi Nje",
-      "url": "https://open.spotify.com/track/5oV9NjG1DzywliYzg1CLaS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nomakanjani",
         "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 275960,
       "name": "Soon And Very Soon - 99 Remix",
       "url": "https://open.spotify.com/track/03ms4BB4zAfsAn9wGp4UeG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 298906,
+      "name": "Ngohlala Ngi Nje",
+      "url": "https://open.spotify.com/track/5oV9NjG1DzywliYzg1CLaS"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am Not A Bad Girl",
-        "url": "https://open.spotify.com/album/0vIuUSqlsrRd0n1WTkU51Y"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 288626,
-      "name": "Romantic World",
-      "url": "https://open.spotify.com/track/6pOOXngC299Z7wOPU4kDWQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Too Late For Mama",
         "url": "https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 277896,
       "name": "Don't Follow Me I'm Married",
       "url": "https://open.spotify.com/track/3ntYMGTuAmBoRHe1IdQAsS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Am Not A Bad Girl",
+        "url": "https://open.spotify.com/album/0vIuUSqlsrRd0n1WTkU51Y"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 288626,
+      "name": "Romantic World",
+      "url": "https://open.spotify.com/track/6pOOXngC299Z7wOPU4kDWQ"
     },
     {
       "added_at": null,

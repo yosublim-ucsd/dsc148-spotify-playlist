@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,591 likes - 75 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,622 likes - 75 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 11 | [typewriter](https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [typewriter](https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa) | 2:03 |
 | 12 | [no reply](https://open.spotify.com/track/3Ji8JYWfwb48AxDvlpLmtB) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [no reply](https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw) | 2:10 |
 | 13 | [fingerlock](https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [fingerlock](https://open.spotify.com/album/30gzL3AApuVLB10SZXooW2) | 2:06 |
-| 14 | [Disconnect](https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui) | [A Space for Rent](https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX) | [Disconnect](https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ) | 2:00 |
-| 15 | [reflections in water](https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9) | [sample mode](https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [reflections in water](https://open.spotify.com/album/2HxJ1HI1Anen7ey9SJWIWI) | 2:20 |
+| 14 | [reflections in water](https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9) | [sample mode](https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [reflections in water](https://open.spotify.com/album/2HxJ1HI1Anen7ey9SJWIWI) | 2:20 |
+| 15 | [Disconnect](https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui) | [A Space for Rent](https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX) | [Disconnect](https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ) | 2:00 |
 | 16 | [No Awake Zone](https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [No Awake Zone](https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3) | 2:18 |
 | 17 | [Fonnes](https://open.spotify.com/track/65UIzaDJ2rx4pITfzsBCp6) | [J Mariou](https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW) | [Fonnes](https://open.spotify.com/album/04ImQ4X8Cf4mrs9jK4KOLB) | 2:14 |
 | 18 | [cabin in the woods](https://open.spotify.com/track/68Tr47vEwCpIwHfD71BfEY) | [L O K P I K](https://open.spotify.com/artist/5cBhqrr27KHAzJ5GyoApmh) | [cabin in the woods](https://open.spotify.com/album/7hIKQzPwgFFZCJ1Hn3JyE6) | 2:02 |
@@ -43,15 +43,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 33 | [Magic Mind](https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Magic Mind](https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC) | 2:35 |
 | 34 | [memory](https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [soul](https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW) | 3:35 |
 | 35 | [Dreemin'](https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Dreemin'](https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0) | 2:11 |
-| 36 | [Hydra](https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj) | [Smith Village Beat Street](https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF) | [21st Trail](https://open.spotify.com/album/2TYiO5QeDiFYvPy0NzajDb) | 1:47 |
-| 37 | [I Have Love for Everyone Besides Myself.](https://open.spotify.com/track/6okflAl3X7elXPx7MgJMi6) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:41 |
+| 36 | [I Have Love for Everyone Besides Myself.](https://open.spotify.com/track/6okflAl3X7elXPx7MgJMi6) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:41 |
+| 37 | [Hydra](https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj) | [Smith Village Beat Street](https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF) | [21st Trail](https://open.spotify.com/album/2TYiO5QeDiFYvPy0NzajDb) | 1:47 |
 | 38 | [Under The Tree](https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja) | [Chrisolof](https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI) | [Under The Tree](https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn) | 1:54 |
 | 39 | [roadtrip](https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [roadtrip](https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy) | 2:17 |
 | 40 | [Silent Sky](https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0) | [Lofi Leif](https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N) | [Silent Sky](https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV) | 2:19 |
-| 41 | [clear blue atmosphere](https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [clear blue atmosphere](https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ) | 2:20 |
-| 42 | [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 |
-| 43 | [Anything Like Her \(feat\. Tiffi\)](https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ), [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [Snow Rose](https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9) | 3:11 |
-| 44 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 |
+| 41 | [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 |
+| 42 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 |
+| 43 | [clear blue atmosphere](https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [clear blue atmosphere](https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ) | 2:20 |
+| 44 | [Anything Like Her \(feat\. Tiffi\)](https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ), [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [Snow Rose](https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9) | 3:11 |
 | 45 | [Free Trees](https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Free Trees](https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z) | 2:30 |
 | 46 | [making her smile](https://open.spotify.com/track/6jE4qBqHoR90GPI4D5W882) | [Equity Slate](https://open.spotify.com/artist/5DGq8gX5QOoVCJEyf4Pe1Q), [soojeong](https://open.spotify.com/artist/4rEitMoJNhlt1utt58uuAO) | [Apart](https://open.spotify.com/album/5e0VJVWtQZQt7v0zgAi2If) | 1:12 |
 | 47 | [Hold on, Pt\. 2](https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0) | [Ok2222](https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX) | [Lonely](https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3) | 1:24 |

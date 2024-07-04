@@ -4,7 +4,7 @@
 
 > blir det en hvit sommer?
 
-366 songs - 16 hr 47 min
+367 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,10 +118,11 @@
 | [Fakk Min X](https://open.spotify.com/track/0lJCvh6IJQ7vedN2zgW9ws) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Fakk Min X](https://open.spotify.com/album/3cuW2BUGrCXLsK1xGLCVSJ) | 1:51 | 2022-10-15 | 2023-07-18 |
 | [Felleskjøpet\-dress](https://open.spotify.com/track/1yHGoNVtlz20xq2ny8QpxP) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Felleskjøpet\-dress](https://open.spotify.com/album/76O4WYc2C9IpIKepQCHhzj) | 3:12 | 2022-04-21 | 2022-07-29 |
 | [Fjellrypa](https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd) | [Sie Gubba](https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6) | [Sånn e livet \- Live 10 år](https://open.spotify.com/album/5ddmdS7xuwOgpsD8FiJHB6) | 4:26 | 2022-03-24 |  |
-| [Flammer og Bensin](https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Flammer og Bensin](https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK) | 3:32 | 2023-09-21 |  |
+| [Flammer og Bensin](https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Flammer og Bensin](https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK) | 3:32 | 2023-09-21 | 2024-07-04 |
 | [Flaska](https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Flaska](https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I) | 2:31 | 2021-12-16 | 2023-05-18 |
 | [FRATERNITY](https://open.spotify.com/track/7wcbaD93iX2uIcP1X9oDKq) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [FRATERNITY](https://open.spotify.com/album/6MG2YTCUxJnihyrrFOoA5I) | 2:06 | 2022-08-04 | 2022-09-23 |
 | [FREAKY](https://open.spotify.com/track/0Lk3eSBZOCtRwRqKxLgyqV) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [FREAKY](https://open.spotify.com/album/71wMs4JJP0qtqWwgrhFzDz) | 2:02 | 2024-01-25 |  |
+| [FREDAG](https://open.spotify.com/track/2BW06C7AAEjCdK6GVi2tzU) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c), [Jamze](https://open.spotify.com/artist/3OBoHiFRFSu5KaqskfBDPX) | [FREDAG](https://open.spotify.com/album/2FlDQsT40blZmH2HAt097u) | 2:07 | 2024-06-27 |  |
 | [FREDAG](https://open.spotify.com/track/7CrzOLGSbr4PFi9F9PNcJ4) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [FREDAG](https://open.spotify.com/album/6zBuRXhywr33CSy1QXxd46) | 2:48 | 2021-12-16 |  |
 | [Fredag \- Digg å være norsk](https://open.spotify.com/track/3EzeIilO4QWtrGRqG9TVqB) | [Mr Melk](https://open.spotify.com/artist/2sfYCaSe6ZMDYZxmhA0ujD) | [Fredag \(Digg å være norsk\)](https://open.spotify.com/album/57GAgDviI8h3PrV5QCHqFy) | 2:13 | 2022-03-17 | 2023-03-18 |
 | [Frædagskvæll](https://open.spotify.com/track/4JndQbgq1JpboD8EBCqd4t) | [Ingemars](https://open.spotify.com/artist/4UfyXFE2NHOawKTKOFQ62J) | [På Egne Væger](https://open.spotify.com/album/1G2TEyhcWHWekbwRmmN9in) | 2:41 | 2022-03-24 | 2022-04-21 |

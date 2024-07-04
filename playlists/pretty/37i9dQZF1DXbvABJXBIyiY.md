@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 
 > Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,326 likes - 60 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,316 likes - 60 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 32 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
 | 33 | [Better Days](https://open.spotify.com/track/1uMazr2OwFSC4SHqfkoY7h) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [If This Is The End](https://open.spotify.com/album/0PnDs1aZvcco3PihWmrQ9n) | 6:02 |
 | 34 | [Heavy Weather](https://open.spotify.com/track/6cDfjpzbfreA0Tv97t2Xll) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Heavy Weather](https://open.spotify.com/album/16hhMGwVQDpXaADRLeQlNQ) | 4:14 |
-| 35 | [Bell Under Water](https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Until](https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH) | 5:17 |
-| 36 | [Ricochet](https://open.spotify.com/track/5dkeCTaxNQDlFiJEkpbMsx) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Ricochet](https://open.spotify.com/album/5sp2DSZbmZoy1FhjNbCAS2) | 3:18 |
+| 35 | [Ricochet](https://open.spotify.com/track/5dkeCTaxNQDlFiJEkpbMsx) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Ricochet](https://open.spotify.com/album/5sp2DSZbmZoy1FhjNbCAS2) | 3:18 |
+| 36 | [Bell Under Water](https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Until](https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH) | 5:17 |
 | 37 | [Send My Regards](https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Send My Regards](https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH) | 4:07 |
 | 38 | [Scattershot](https://open.spotify.com/track/450v4iRyLvyOwNInkQVCbP) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:40 |
 | 39 | [Lullaby](https://open.spotify.com/track/3yMCUholqG6FuApwrI3FXA) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 4:32 |

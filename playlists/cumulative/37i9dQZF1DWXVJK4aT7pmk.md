@@ -4,7 +4,7 @@
 
 > Catch the hottest Punjabi tracks with Shubh for his track "MVP"
 
-108 songs - 5 hr 33 min
+109 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Sleepless](https://open.spotify.com/track/6TJ8etbh8uFFLuVbLj25lz) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Sleepless](https://open.spotify.com/album/5nrLqXgaW2w1fCSFQp0EqL) | 2:36 | 2024-01-04 | 2024-04-27 |
 | [Softly](https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 2:35 | 2024-01-04 |  |
 | [Solid](https://open.spotify.com/track/2nSXENDQ3Vp94qBQlHfbUq) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Layers](https://open.spotify.com/album/68Sj9ZsFdcpg4W5paJAlvK) | 2:54 | 2024-01-04 | 2024-04-19 |
-| [Solid](https://open.spotify.com/track/7oT6RQYVVc9UOUxKNrLMm8) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Jaymeet](https://open.spotify.com/artist/1DU68vYYJqrO7fXt6X7ZkJ), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Layers](https://open.spotify.com/album/2OetgEbORLw9T6yNAnzs3B) | 2:54 | 2024-04-18 |  |
+| [Solid](https://open.spotify.com/track/7oT6RQYVVc9UOUxKNrLMm8) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Jaymeet](https://open.spotify.com/artist/1DU68vYYJqrO7fXt6X7ZkJ), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Layers](https://open.spotify.com/album/2OetgEbORLw9T6yNAnzs3B) | 2:54 | 2024-04-18 | 2024-07-04 |
 | [SPAIN](https://open.spotify.com/track/4ZVtid5khBfDx6Co0vTUE6) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [VIBIN](https://open.spotify.com/album/2GPHbR6aZ2rZooX6dF1nwB) | 1:44 | 2024-01-04 |  |
 | [Still Rollin](https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 | 2024-01-04 |  |
 | [Summer High](https://open.spotify.com/track/1aL9518P5G72N92b48tuKw) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Summer High](https://open.spotify.com/album/7sni37uwHitUkllYmcRO8W) | 2:57 | 2024-01-04 | 2024-06-13 |
@@ -109,6 +109,7 @@
 | [Trucker](https://open.spotify.com/track/384kEWAIjI7xR6tma5g65a) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Trucker](https://open.spotify.com/album/5NuwhWxFdO8xYCAU3iIMzy) | 4:35 | 2024-01-04 | 2024-06-14 |
 | [True Stories](https://open.spotify.com/track/28lvraTNIN8qiTpoIK7m8Z) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [True Stories](https://open.spotify.com/album/7JABHOzxcWGwmihIUq13dl) | 1:57 | 2024-01-04 |  |
 | [Try Me](https://open.spotify.com/track/5RaK2eqyHaBSyjEtI27w3T) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:15 | 2024-01-04 | 2024-05-29 |
+| [Tu Juliet Jatt Di \( From "Jatt & Juliet 3"\)](https://open.spotify.com/track/2FRSsjZloHsmBF60bCoPrQ) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Tu Juliet Jatt Di \( From "Jatt & Juliet 3"\)](https://open.spotify.com/album/6SgKeQDMRzq0noM0FSaPP6) | 3:25 | 2024-07-03 |  |
 | [Tu Te Sharaab](https://open.spotify.com/track/1DdAnzhSw7HT4xMNDrGMcV) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Jordan Sandhu Hits](https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq) | 3:15 | 2024-01-04 | 2024-04-19 |
 | [Tu Te Sharab](https://open.spotify.com/track/5aVuu233cUXaz2899s8fT9) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Tu Te Sharab](https://open.spotify.com/album/0rNIfWLgk9zDDTny87rS48) | 3:15 | 2024-04-18 | 2024-07-03 |
 | [Watch Out](https://open.spotify.com/track/3ZzUOWnQuNxenx2MbZqtYq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Watch Out](https://open.spotify.com/album/11tfAS197RiPG4po110Tre) | 3:56 | 2024-01-04 | 2024-02-03 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Cassiane. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 34058,
+  "description": "This is Cassiane. The essential tracks, all in one playlist.",
+  "num_followers": 34069,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAADBu01wM3/t2ZHywCL3XONG",
+  "snapshot_id": "ZoNDAAAAAADxjt6qa9vR7aSBxNNiSxhD",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sem Palavras",
-        "url": "https://open.spotify.com/album/5l3C8WhPoluyf3FqslYyNd"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 289459,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/7sfSpQPesW7pNS7gaPnE7j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recompensa",
         "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 232571,
       "name": "Recompensa",
       "url": "https://open.spotify.com/track/2jJrUywGnlCBziixCMf5JL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sem Palavras",
+        "url": "https://open.spotify.com/album/5l3C8WhPoluyf3FqslYyNd"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 289459,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/7sfSpQPesW7pNS7gaPnE7j"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fa\u00e7a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 289970,
-      "name": "Todo Poderoso",
-      "url": "https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "100 Anos do Movimento Pentecostal",
         "url": "https://open.spotify.com/album/4Wo3iXk6J7vQ9PUYxpf2VU"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 835400,
       "name": "Sabor de Mel / Terremoto Santo / Deus dos Deuses / Minha Ben\u00e7\u00e3o / A Mensagem da Cruz - Ao vivo",
       "url": "https://open.spotify.com/track/1NwKNiyfbuCaMS3IZBcrCI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 289970,
+      "name": "Todo Poderoso",
+      "url": "https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fa\u00e7a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 276549,
-      "name": "Mergulhe",
-      "url": "https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recompensa",
         "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 266518,
       "name": "N\u00e3o Reclame",
       "url": "https://open.spotify.com/track/79kb4y6EtyBwDjBNhWrwRd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 276549,
+      "name": "Mergulhe",
+      "url": "https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fa\u00e7a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 237586,
-      "name": "Ele Tem Poder",
-      "url": "https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Olha o Que Deus Faz (Ao Vivo)",
         "url": "https://open.spotify.com/album/42UFCLpK8mS9SA5jCyDlYl"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 259103,
       "name": "Olha o Que Deus Faz (Ao Vivo)",
       "url": "https://open.spotify.com/track/24lAuZ7ycAIzs91M53QW7i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 237586,
+      "name": "Ele Tem Poder",
+      "url": "https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY"
     },
     {
       "added_at": null,
@@ -891,8 +891,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Anos de Muito Louvor",
-        "url": "https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A"
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 335992,
-      "name": "Medley - Para Sempre / For\u00e7a Imensa / Onde Jesus Mora",
-      "url": "https://open.spotify.com/track/431TwlEMTRWnK5yzs7Pl98"
+      "duration_ms": 247942,
+      "name": "A Alma Abatida",
+      "url": "https://open.spotify.com/track/512xriilWCODMzkyhFaR4O"
     },
     {
       "added_at": null,
@@ -923,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harpa Vol.1",
-        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+        "name": "25 Anos de Muito Louvor",
+        "url": "https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A"
       },
       "artists": [
         {
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 247942,
-      "name": "A Alma Abatida",
-      "url": "https://open.spotify.com/track/512xriilWCODMzkyhFaR4O"
+      "duration_ms": 335992,
+      "name": "Medley - Para Sempre / For\u00e7a Imensa / Onde Jesus Mora",
+      "url": "https://open.spotify.com/track/431TwlEMTRWnK5yzs7Pl98"
     },
     {
       "added_at": null,
@@ -955,8 +955,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Anos de Muito Louvor",
-        "url": "https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A"
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
       },
       "artists": [
         {
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 257137,
-      "name": "N\u00e3o Negue a Jesus / Com Cristo \u00e9 Vencer / Contigo Est\u00e1",
-      "url": "https://open.spotify.com/track/592T41GMbnMvSVb9XpeEGe"
+      "duration_ms": 433562,
+      "name": "Fala Jesus Querido",
+      "url": "https://open.spotify.com/track/5hGUUFuZ4OfGTbpVJrYE1o"
     },
     {
       "added_at": null,
@@ -987,8 +987,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harpa Vol.1",
-        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+        "name": "25 Anos de Muito Louvor",
+        "url": "https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A"
       },
       "artists": [
         {
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 433562,
-      "name": "Fala Jesus Querido",
-      "url": "https://open.spotify.com/track/5hGUUFuZ4OfGTbpVJrYE1o"
+      "duration_ms": 257137,
+      "name": "N\u00e3o Negue a Jesus / Com Cristo \u00e9 Vencer / Contigo Est\u00e1",
+      "url": "https://open.spotify.com/track/592T41GMbnMvSVb9XpeEGe"
     },
     {
       "added_at": null,

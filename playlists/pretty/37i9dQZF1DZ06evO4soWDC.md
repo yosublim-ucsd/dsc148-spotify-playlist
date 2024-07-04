@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4soWDC.md) - [plain]
 
 > This is Luca Brasi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 859 likes - 43 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 860 likes - 43 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,24 +22,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4soWDC.md) - [plain]
 | 12 | [The Cascade Blues](https://open.spotify.com/track/1qNp5Gn4TtlfMLJIJVltMn) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa) | 3:27 |
 | 13 | [The Entry Ramp](https://open.spotify.com/track/6cEbKUpsVZjgNoq6wt83DJ) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [The World Don't Owe You Anything](https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg) | 1:38 |
 | 14 | [Dying to Feel Alive](https://open.spotify.com/track/36i5ZC3bv8hv5AqWtlqJep) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Everything is Tenuous](https://open.spotify.com/album/1CauYGf4kborz50koSaKMd) | 4:33 |
-| 15 | [Got to Give](https://open.spotify.com/track/3Djrqb7qEsnp4LrocvbTaC) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Stay](https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0) | 3:34 |
-| 16 | [Borders and Statelines](https://open.spotify.com/track/6lFblVaQRc9OxzAOWFJ3r3) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 2:57 |
+| 15 | [Borders and Statelines](https://open.spotify.com/track/6lFblVaQRc9OxzAOWFJ3r3) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 2:57 |
+| 16 | [Stay](https://open.spotify.com/track/5mEZtqDRamPEyij3Qrmup9) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Stay](https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0) | 1:36 |
 | 17 | [Sonny](https://open.spotify.com/track/5JLEFymt4B4AvtQvx0G4VO) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [The World Don't Owe You Anything](https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg) | 3:40 |
 | 18 | [Every Time You're Here \(I'm Gone\)](https://open.spotify.com/track/3c0yDaPl4NvXfobNgoCMZ2) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Everything is Tenuous](https://open.spotify.com/album/1CauYGf4kborz50koSaKMd) | 2:44 |
-| 19 | [Stay](https://open.spotify.com/track/5mEZtqDRamPEyij3Qrmup9) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Stay](https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0) | 1:36 |
-| 20 | [K.D.R](https://open.spotify.com/track/2Cp0N79NigrnQ0zIlWWP8w) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 2:03 |
-| 21 | [Party Scene](https://open.spotify.com/track/1QYnJPrOiBy6slMePfc0cA) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [The World Don't Owe You Anything](https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg) | 2:56 |
+| 19 | [Spin and Collapse](https://open.spotify.com/track/5FjHVV2PuGFY1qdgdUAjoQ) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa) | 2:45 |
+| 20 | [Got to Give](https://open.spotify.com/track/3Djrqb7qEsnp4LrocvbTaC) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Stay](https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0) | 3:34 |
+| 21 | [Rinse and Repeat](https://open.spotify.com/track/13oycWNPkO5TstF1DO1x5D) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [The World Don't Owe You Anything](https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg) | 3:24 |
 | 22 | [Remiss of Me](https://open.spotify.com/track/3qQxv1BBsSnDtJE82pcLnR) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Everything is Tenuous](https://open.spotify.com/album/1CauYGf4kborz50koSaKMd) | 3:07 |
-| 23 | [Collisions](https://open.spotify.com/track/5zhsZVgFMhEd7q3L3BbpOb) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Stay](https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0) | 3:06 |
-| 24 | [Spin and Collapse](https://open.spotify.com/track/5FjHVV2PuGFY1qdgdUAjoQ) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa) | 2:45 |
-| 25 | [Rinse and Repeat](https://open.spotify.com/track/13oycWNPkO5TstF1DO1x5D) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [The World Don't Owe You Anything](https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg) | 3:24 |
-| 26 | [Never the Right Time](https://open.spotify.com/track/5eQo8AdL0PUKw2NgbhJQSZ) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Everything is Tenuous](https://open.spotify.com/album/1CauYGf4kborz50koSaKMd) | 4:06 |
-| 27 | [Reeling](https://open.spotify.com/track/1nvESaptuv0S2ZzfKsLL9U) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Stay](https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0) | 2:48 |
-| 28 | [Drop Out](https://open.spotify.com/track/3aQp02Mlrct9pbVWc2POTo) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa) | 2:11 |
+| 23 | [K.D.R](https://open.spotify.com/track/2Cp0N79NigrnQ0zIlWWP8w) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 2:03 |
+| 24 | [Collisions](https://open.spotify.com/track/5zhsZVgFMhEd7q3L3BbpOb) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Stay](https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0) | 3:06 |
+| 25 | [Party Scene](https://open.spotify.com/track/1QYnJPrOiBy6slMePfc0cA) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [The World Don't Owe You Anything](https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg) | 2:56 |
+| 26 | [Drop Out](https://open.spotify.com/track/3aQp02Mlrct9pbVWc2POTo) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa) | 2:11 |
+| 27 | [Never the Right Time](https://open.spotify.com/track/5eQo8AdL0PUKw2NgbhJQSZ) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Everything is Tenuous](https://open.spotify.com/album/1CauYGf4kborz50koSaKMd) | 4:06 |
+| 28 | [Reeling](https://open.spotify.com/track/1nvESaptuv0S2ZzfKsLL9U) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Stay](https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0) | 2:48 |
 | 29 | [Isaac Bowen](https://open.spotify.com/track/4KwCfSTIxcGWnOA53KdIRf) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 2:42 |
-| 30 | [The Shimmie Shake](https://open.spotify.com/track/4aNbYoDOmasKeeYVyFg1o5) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [ReWiggled](https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2) | 1:21 |
+| 30 | [Overwhelmed / Ill Prepared](https://open.spotify.com/track/6haquBBkW3zJhqRpEKeNPC) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa) | 3:00 |
 | 31 | [Get Sad, See Mates](https://open.spotify.com/track/3JtufvZRp5Z3kXXMuTs9z8) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 2:56 |
-| 32 | [Overwhelmed / Ill Prepared](https://open.spotify.com/track/6haquBBkW3zJhqRpEKeNPC) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa) | 3:00 |
+| 32 | [The Shimmie Shake](https://open.spotify.com/track/4aNbYoDOmasKeeYVyFg1o5) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [ReWiggled](https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2) | 1:21 |
 | 33 | [Jackies Are On The March](https://open.spotify.com/track/4MSxYD2ufYwbDoX5mzTzb4) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Jackies Are On The March](https://open.spotify.com/album/6uqe4KG28xyYXHq44KzJ5u) | 2:15 |
 | 34 | [Beacons](https://open.spotify.com/track/5CJLEtRqo4VeojZvUfDaPK) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 2:47 |
 | 35 | [Western Junction](https://open.spotify.com/track/41mYELvb3rE8O2Dnbe0xa1) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 3:04 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4soWDC.md) - [plain]
 | 42 | [Death Rattle](https://open.spotify.com/track/0Sa9FnsVIulcfog5skN528) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 3:40 |
 | 43 | [Guillotines in Arbour Park](https://open.spotify.com/track/1YeLt5s1urg85IfzKqXsQQ) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 3:10 |
 
-Snapshot ID: `ZoHxgAAAAADprqL7VEajfwOHwg6iWwMr`
+Snapshot ID: `ZoNDAAAAAAD8Pb9eVFS5xNg5lBpc0BXF`

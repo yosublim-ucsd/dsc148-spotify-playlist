@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-02",
-  "description": "This Is Bob Marley & The Wailers. Los temas esenciales, todos en una lista.",
+  "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
   "name": "This Is Bob Marley & The Wailers",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 237000,
       "name": "Could You Be Loved",
       "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
@@ -348,7 +348,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 202432,
       "name": "Iron Lion Zion - 7\" Mix",
       "url": "https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V"
@@ -1228,6 +1228,24 @@
       "duration_ms": 231266,
       "name": "Zimbabwe",
       "url": "https://open.spotify.com/track/5ApfJDLibIoWL0mRZ5uOKu"
+    },
+    {
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216640,
+      "name": "Zion Train",
+      "url": "https://open.spotify.com/track/2Uqayp7267V5SJYOf7fLmV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DHoaY"

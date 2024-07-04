@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 
 ### [This Is Fuerza Regida](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gg010)
 
-> This Is Fuerza Regida\. Los temas esenciales, todos en una lista.
+> This is Fuerza Regida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,142 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,762 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 35 | [Chingas A Tu Madre](https://open.spotify.com/track/2IN5quW5Yd0mi6PzMoaz5y) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Chingas A Tu Madre](https://open.spotify.com/album/4WPBhjPQg9haxbzJ6EF257) | 3:25 |
 | 36 | [Señor Miedo](https://open.spotify.com/track/1FnswOpXkrROzW2mFCF1BE) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Señor Miedo](https://open.spotify.com/album/7prCMJKiHc8r3WOS82bZVJ) | 2:52 |
 | 37 | [En El Radio Un Cochinero \(Remix\)](https://open.spotify.com/track/78nK6LUy3FutFRJpRU9Guy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [En El Radio Un Cochinero \(Remix\)](https://open.spotify.com/album/5yZka2dPlS6Vgh6e0fL9v1) | 3:35 |
-| 38 | [Whiskey Con Agua](https://open.spotify.com/track/4KYdqX7VWv3gBuFNI0n4mJ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:06 |
-| 39 | [Mentira No Es](https://open.spotify.com/track/6cmZSeILXKvgFRpUcDGQHZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mentira No Es](https://open.spotify.com/album/6Eb0XXaJ6oEVPclUXz1kz9) | 3:20 |
+| 38 | [Mentira No Es](https://open.spotify.com/track/6cmZSeILXKvgFRpUcDGQHZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mentira No Es](https://open.spotify.com/album/6Eb0XXaJ6oEVPclUXz1kz9) | 3:20 |
+| 39 | [Whiskey Con Agua](https://open.spotify.com/track/4KYdqX7VWv3gBuFNI0n4mJ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:06 |
 | 40 | [Se Acabo \- En Vivo](https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Se Acabo \(En Vivo\)](https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR) | 3:50 |
 | 41 | [Y Me Verán](https://open.spotify.com/track/5Y5n1K7yn5kHFvNf7xL8l5) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 3:05 |
 | 42 | [Don Chon \(En Vivo\)](https://open.spotify.com/track/0OeX94j6rMIBHX7DGlOGzB) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Don Chon \(En Vivo\)](https://open.spotify.com/album/1cBOY27IgwTFe342hIpGpX) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 49 | [Antídoto](https://open.spotify.com/track/6cxQ0CafJh50tbiRtr6qou) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Antídoto](https://open.spotify.com/album/6mSBEqGKBR1xw8OHVnrhvB) | 3:13 |
 | 50 | [¿Qué Se Te Quitó?](https://open.spotify.com/track/2VaHYCxdN3xpNAQdPzIqkG) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [¿Qué Se Te Quitó?](https://open.spotify.com/album/0IHTlF1XZDLBtiGKiULBuW) | 1:27 |
 
-Snapshot ID: `ZoHxgAAAAAChPAKghZB4y4w6sjMWIq5B`
+Snapshot ID: `ZoNDAAAAAADLNKO6+IAanaF24cxE2QLu`

@@ -1,6 +1,6 @@
 {
   "description": "A look back at tracks from over the past four years. A mixtape of music made for the Class of 2023.",
-  "num_followers": 138155,
+  "num_followers": 138145,
   "original_name": "CLASS OF 2023 mixtape",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "SNAP",
-        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 196652,
       "name": "The Box",
       "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -283,22 +283,6 @@
       "duration_ms": 239560,
       "name": "cardigan",
       "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
-        "name": "Tell Me It's Real (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -351,6 +335,22 @@
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
+        "name": "Tell Me It's Real (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 160191,
+      "name": "telepat\u00eda",
+      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 160191,
-      "name": "telepat\u00eda",
-      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
         "name": "Whole Lotta Red",
         "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 226986,
       "name": "Streets",
       "url": "https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 172324,
-      "name": "positions",
-      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 172324,
+      "name": "positions",
+      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
         "name": "Pepas",
         "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 260252,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
         "name": "this is what ____ feels like (Vol. 1-4)",
         "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 212000,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "Sweet Action",
-        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 139741,
-      "name": "WHATS POPPIN",
-      "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 153000,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
+        "name": "Sweet Action",
+        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 139741,
+      "name": "WHATS POPPIN",
+      "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -2247,26 +2247,6 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "Savage Love (Laxed - Siren Beat)",
-        "url": "https://open.spotify.com/album/1XMw3pBrYeXzNXZXc84DNw"
-      },
-      "artists": [
-        {
-          "name": "Jawsh 685",
-          "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 171374,
-      "name": "Savage Love (Laxed - Siren Beat)",
-      "url": "https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
         "name": "Morenita",
         "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
       },
@@ -2283,6 +2263,26 @@
       "duration_ms": 176491,
       "name": "Morenita",
       "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
+        "name": "Savage Love (Laxed - Siren Beat)",
+        "url": "https://open.spotify.com/album/1XMw3pBrYeXzNXZXc84DNw"
+      },
+      "artists": [
+        {
+          "name": "Jawsh 685",
+          "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 171374,
+      "name": "Savage Love (Laxed - Siren Beat)",
+      "url": "https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -2307,26 +2307,6 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "Life Is Good (feat. Drake)",
-        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 237735,
-      "name": "Life Is Good (feat. Drake)",
-      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
         "name": "Lalala",
         "url": "https://open.spotify.com/album/4WlC4FXhonJhNTXCQPGP3r"
       },
@@ -2343,6 +2323,26 @@
       "duration_ms": 160626,
       "name": "Lalala",
       "url": "https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
+        "name": "Life Is Good (feat. Drake)",
+        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 237735,
+      "name": "Life Is Good (feat. Drake)",
+      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -2631,22 +2631,6 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "Baby Girl",
-        "url": "https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 111074,
-      "name": "Baby Girl",
-      "url": "https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
         "name": "Imagination & the Misfit Kid",
         "url": "https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8"
       },
@@ -2663,6 +2647,22 @@
       "duration_ms": 191710,
       "name": "All For Us",
       "url": "https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
+        "name": "Baby Girl",
+        "url": "https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 111074,
+      "name": "Baby Girl",
+      "url": "https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz"
     }
   ],
   "unique_name": "CLASS OF 2023 mixtape",

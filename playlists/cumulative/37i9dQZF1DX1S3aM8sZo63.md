@@ -2,9 +2,9 @@
 
 ### [Banda Romántica](https://open.spotify.com/playlist/37i9dQZF1DX1S3aM8sZo63)
 
-> ¡Ponte cursi con las canciones más románticas! La Adictiva en portada.
+> ¡Ponte cursi con las canciones más románticas! Julión Álvarez en portada.
 
-193 songs - 10 hr 26 min
+194 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,13 +146,14 @@
 | [Regalo De Dios](https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 3:05 | 2023-12-22 |  |
 | [Reina de mi Corazón](https://open.spotify.com/track/6pBV756dsPFIMGfLi29Obk) | [Jesus Dimas](https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g) | [Reina de mi Corazón](https://open.spotify.com/album/2eg5l4Mktmc950WhNBdybS) | 3:34 | 2021-12-27 | 2022-06-21 |
 | [Romántico](https://open.spotify.com/track/0LTpgbOmtyCwWzyEfgHi0U) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Romántico](https://open.spotify.com/album/4mzfuWUyHXmBPjmxVJogcx) | 2:10 | 2021-12-27 | 2022-01-23 |
+| [Romántico incurable](https://open.spotify.com/track/0jxbA98tGD0s18YVfpOEco) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Romantico incurable](https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO) | 3:43 | 2024-07-03 |  |
 | [Se Vale Enamorarse](https://open.spotify.com/track/6NTXZw3p7QaAVSXKhGxL0z) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Se Vale Enamorarse](https://open.spotify.com/album/23yO6kyqh39DCb7PM4UyIY) | 2:56 | 2022-12-08 | 2023-01-17 |
 | [Secuestro De Amor](https://open.spotify.com/track/1bjFNKtbXmavvcAIMnSJFi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Secuestro De Amor](https://open.spotify.com/album/5tlAgf8YtdhvwcJihsF1dV) | 3:42 | 2023-04-19 | 2023-07-13 |
 | [Secuestro De Amor](https://open.spotify.com/track/6HXuOmqULXyiMeghRjiLsv) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro ..\. Secuestro De Amor](https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ) | 3:16 | 2021-12-27 | 2022-05-07 |
 | [Seremos](https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Mi Persona Preferida](https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ) | 3:06 | 2021-12-27 |  |
 | [Si Yo Fuera Ladrón](https://open.spotify.com/track/3smCnGYSUF8BwNDjbpAZZA) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 3:20 | 2021-12-27 |  |
 | [Siempre a Tu Lado](https://open.spotify.com/track/5T14Fz7WqfW06PEiNVtd6p) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 3:12 | 2021-12-27 |  |
-| [Sin Batería](https://open.spotify.com/track/5dBM7KZV2sXt34lnzRrlNS) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [On The Road](https://open.spotify.com/album/7eKycNamZrXXB4DGBPQ8sZ) | 3:18 | 2024-05-17 |  |
+| [Sin Batería](https://open.spotify.com/track/5dBM7KZV2sXt34lnzRrlNS) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [On The Road](https://open.spotify.com/album/7eKycNamZrXXB4DGBPQ8sZ) | 3:18 | 2024-05-17 | 2024-07-04 |
 | [Sobran Motivos](https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Sobran Motivos](https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt) | 3:05 | 2023-03-03 |  |
 | [Sobre Mis Pies](https://open.spotify.com/track/0bCpwmdqIJhcCkf6P1zNSa) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 4:08 | 2024-01-16 |  |
 | [Solita \(En Vivo\)](https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Solita \(En Vivo\)](https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP) | 3:35 | 2022-12-08 |  |
@@ -161,7 +162,7 @@
 | [Suerte He Tenido](https://open.spotify.com/track/6Cmma3eZSU5D9BhMuIlKaC) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP), [Los Ciclones del Arroyo](https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO) | [Suerte He Tenido](https://open.spotify.com/album/13uRlfKliCNUGJ3i6JEzgG) | 3:15 | 2021-12-27 | 2022-05-06 |
 | [Suerte He Tenido](https://open.spotify.com/track/6EbZCjT6xQ1wc1zNoWTYFq) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:04 | 2023-12-01 | 2023-12-16 |
 | [Sueño Guajiro](https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 3:03 | 2021-12-27 |  |
-| [Sueño Güajiro](https://open.spotify.com/track/7uJU4AyXDqUEG4d1eHI92G) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 | 2023-12-01 | 2024-07-01 |
+| [Sueño Güajiro](https://open.spotify.com/track/7uJU4AyXDqUEG4d1eHI92G) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 | 2023-12-01 |  |
 | [Símbolo Sexual](https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Simbolo Sexual](https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ) | 3:00 | 2023-08-08 |  |
 | [Sólo Tú](https://open.spotify.com/track/0qsalPjF8AzMdkxjnGXttQ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Sólo Tú](https://open.spotify.com/album/3x37MdKulZX2v4YRGqbUX7) | 3:13 | 2021-12-27 | 2022-11-08 |
 | [Te Amo](https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Te Amo](https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq) | 3:13 | 2022-11-07 |  |
@@ -175,7 +176,7 @@
 | [Te Volvería A Elegir](https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Te Volvería A Elegir](https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4) | 3:00 | 2021-12-27 |  |
 | [Terrenal](https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 3:57 | 2022-06-20 |  |
 | [Todo Porque Te Amo](https://open.spotify.com/track/2W2mcZJZ250M9fSk0S1hKA) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Sinaloense Hasta Las Cachas](https://open.spotify.com/album/6ywfmakEc2cj9eAJFfLEzf) | 3:34 | 2021-12-27 | 2022-05-07 |
-| [Tres Versiones](https://open.spotify.com/track/0ZoCOW1MZd74vs6MrH5IEV) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [On The Road](https://open.spotify.com/album/7eKycNamZrXXB4DGBPQ8sZ) | 3:00 | 2024-05-17 |  |
+| [Tres Versiones](https://open.spotify.com/track/0ZoCOW1MZd74vs6MrH5IEV) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [On The Road](https://open.spotify.com/album/7eKycNamZrXXB4DGBPQ8sZ) | 3:00 | 2024-05-17 | 2024-07-04 |
 | [Tu \- En Vivo](https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 4:06 | 2023-08-08 | 2024-04-19 |
 | [Tu \- Live](https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 4:06 | 2022-05-06 | 2023-08-09 |
 | [Tu Boca](https://open.spotify.com/track/7bDq7JUMG9EoPfRI62pwGf) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [desAMORfosis](https://open.spotify.com/album/5x6WtKftK68fbgtinzgeSG) | 3:18 | 2021-12-27 | 2022-07-29 |

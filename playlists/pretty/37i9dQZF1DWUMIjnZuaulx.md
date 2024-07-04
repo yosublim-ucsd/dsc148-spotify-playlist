@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\. Cover: <a href="spotify:artist:3NYwlCIjzmWwNdLPGT9UV8">Phil Thompson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,931 likes - 90 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,013 likes - 90 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 12 | [Home \- Radio Edit](https://open.spotify.com/track/5CKIHOvdEwa7KC7U8rrswe) | [Keyla Richardson](https://open.spotify.com/artist/4Tujzymm8906E7KnLSZPDW) | [Home](https://open.spotify.com/album/01k2HpcTyskg6kgU6cAq1w) | 3:56 |
 | 13 | [Hide & Seek](https://open.spotify.com/track/6VLRKeSYItHdv6zWYzBEiZ) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Hide & Seek](https://open.spotify.com/album/4Yp3ikslVQzUzLhl9RmBiG) | 4:54 |
 | 14 | [Feed Me](https://open.spotify.com/track/1qZIiR7Y1x4DFmSwuqfzDu) | [Titus Showers](https://open.spotify.com/artist/6XBycjw3xsUgrPyah0XZsc), [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Feed Me](https://open.spotify.com/album/53JjLZZw7tU2FsJnApvZCM) | 5:11 |
-| 15 | [We Always Win \- Live at Ramp Church Texas](https://open.spotify.com/track/1i7ukStv7lTLkMAF00Q9f1) | [Pastor Evan D\. Risher](https://open.spotify.com/artist/5v5PlejmZKnkJln0IPIfwt), [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz), [Davarius Crowder](https://open.spotify.com/artist/38My9HGnbUsb1b1XzEIV26) | [We Always Win \(Live at Ramp Church Texas\)](https://open.spotify.com/album/5qXZlAiiELIY8uhZB4lEEm) | 6:07 |
+| 15 | [We Always Win \- Live at Ramp Church Texas](https://open.spotify.com/track/1i7ukStv7lTLkMAF00Q9f1) | [Pastor Evan D\. Risher](https://open.spotify.com/artist/5v5PlejmZKnkJln0IPIfwt), [Culture](https://open.spotify.com/artist/3qvtUcxIU12gIezBfUwcIz), [Davarius Crowder](https://open.spotify.com/artist/59V2NM8f5gvXSnCLRP4vdC) | [We Always Win \(Live at Ramp Church Texas\)](https://open.spotify.com/album/5qXZlAiiELIY8uhZB4lEEm) | 6:07 |
 | 16 | [He Came Through \(PMJ Trap Praise Break\)](https://open.spotify.com/track/5H3JXipTNglmYN6GczFHVj) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [I Got Away](https://open.spotify.com/album/4tmcDtMGL64zZSwIzWdVzf) | 5:47 |
 | 17 | [How Good](https://open.spotify.com/track/430snTDu3WneiuuOAjqv5e) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb), [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown) | [How Good](https://open.spotify.com/album/0X6DrawsTySzVRCqJHVI79) | 2:39 |
 | 18 | [More Than Anything \- Live](https://open.spotify.com/track/4rj3rvwZo0IYe3Usm0IdVN) | [The Brooklyn Tabernacle Choir](https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs) | [More Than Anything \(Live\)](https://open.spotify.com/album/5A3YqQqBGOVWLhHSlpx0I7) | 5:44 |

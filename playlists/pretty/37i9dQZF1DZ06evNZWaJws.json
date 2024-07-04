@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 304799,
+  "description": "This Is Los Tucanes De Tijuana. Los temas esenciales, todos en una lista.",
+  "num_followers": 304917,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAAxKwbScCS7FWVZBfvO98co",
+  "snapshot_id": "ZoNDAAAAAACVhtzgS+mgp9OAxq3R6/JJ",
   "tracks": [
     {
       "added_at": null,
@@ -375,18 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Time Season Two \"Los Implacables\"",
-        "url": "https://open.spotify.com/album/2xumkDb8a5iqmPz5a0EmAh"
+        "name": "Secuestro De Amor",
+        "url": "https://open.spotify.com/album/5tlAgf8YtdhvwcJihsF1dV"
       },
       "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
         {
           "name": "Los Tucanes De Tijuana",
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 196226,
-      "name": "Panchito El F1",
-      "url": "https://open.spotify.com/track/5oTOpSNp2FOLgjUeCGKjXp"
+      "duration_ms": 222820,
+      "name": "Secuestro De Amor",
+      "url": "https://open.spotify.com/track/1bjFNKtbXmavvcAIMnSJFi"
     },
     {
       "added_at": null,
@@ -407,22 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secuestro De Amor",
-        "url": "https://open.spotify.com/album/5tlAgf8YtdhvwcJihsF1dV"
+        "name": "Corridos Time Season Two \"Los Implacables\"",
+        "url": "https://open.spotify.com/album/2xumkDb8a5iqmPz5a0EmAh"
       },
       "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
         {
           "name": "Los Tucanes De Tijuana",
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 222820,
-      "name": "Secuestro De Amor",
-      "url": "https://open.spotify.com/track/1bjFNKtbXmavvcAIMnSJFi"
+      "duration_ms": 196226,
+      "name": "Panchito El F1",
+      "url": "https://open.spotify.com/track/5oTOpSNp2FOLgjUeCGKjXp"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comandante 09",
-        "url": "https://open.spotify.com/album/7rtZbELF943xf6Q9pTkzSf"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 236342,
-      "name": "Comandante 09",
-      "url": "https://open.spotify.com/track/2lZsJdASV0DPyhx6kaDdyE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Plat\u00f3nico",
         "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
       },
@@ -799,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El LP",
-        "url": "https://open.spotify.com/album/03znBeyglN3fms5BClz1mv"
+        "name": "Comandante 09",
+        "url": "https://open.spotify.com/album/7rtZbELF943xf6Q9pTkzSf"
       },
       "artists": [
         {
@@ -808,9 +792,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 219002,
-      "name": "El LP",
-      "url": "https://open.spotify.com/track/6gCfghaTVO97n6OxkFvGhQ"
+      "duration_ms": 236342,
+      "name": "Comandante 09",
+      "url": "https://open.spotify.com/track/2lZsJdASV0DPyhx6kaDdyE"
     },
     {
       "added_at": null,
@@ -827,6 +811,22 @@
       "duration_ms": 191613,
       "name": "El Regreso Del Chapo",
       "url": "https://open.spotify.com/track/4baEwCzla3yCyz21uhOFLp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El LP",
+        "url": "https://open.spotify.com/album/03znBeyglN3fms5BClz1mv"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 219002,
+      "name": "El LP",
+      "url": "https://open.spotify.com/track/6gCfghaTVO97n6OxkFvGhQ"
     },
     {
       "added_at": null,

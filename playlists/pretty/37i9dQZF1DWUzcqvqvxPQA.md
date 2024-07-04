@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,475 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,495 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 30 | [DESTINY](https://open.spotify.com/track/5RtRPhTCDjPoJqhqAtMz3t) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Chanele](https://open.spotify.com/artist/4jcApI1xdHMtx4iMvLV01a) | [WAITING ROOM](https://open.spotify.com/album/5pnf64squuM0LMkFqQ1GiC) | 2:49 |
 | 31 | [Grace](https://open.spotify.com/track/73RrO6QxGa9svtiBkzjgPc) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Grace](https://open.spotify.com/album/21muhjj4VKsJ3a7Nb6D66v) | 3:15 |
 | 32 | [This Love](https://open.spotify.com/track/39cGy6I9NUwSPPluuUPz6b) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [This Love](https://open.spotify.com/album/4Pifj4Xa7S26ipKXAucJYC) | 3:17 |
-| 33 | [HI\-C](https://open.spotify.com/track/6DmLU5yyCcwCS5MgHbZq78) | [HOLY GIRLXHLY GRL](https://open.spotify.com/artist/0w28kuI223Uywzaf68lL40), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Queen Lee](https://open.spotify.com/artist/0ESxKUSobqG0GkLrxg77XS), [Tk Lee](https://open.spotify.com/artist/05B3lggRvyTqRwEV9YDwQz) | [HI\-C](https://open.spotify.com/album/42eKaKWWjei5ViAUQ4XY1J) | 3:03 |
+| 33 | [HI\-C](https://open.spotify.com/track/6DmLU5yyCcwCS5MgHbZq78) | [HOLY GIRLXHLY GRL](https://open.spotify.com/artist/0w28kuI223Uywzaf68lL40), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Queen Lee](https://open.spotify.com/artist/0ESxKUSobqG0GkLrxg77XS), [Tk Lee](https://open.spotify.com/artist/05B3lggRvyTqRwEV9YDwQz) | [HI\-C](https://open.spotify.com/album/42eKaKWWjei5ViAUQ4XY1J) | 3:03 |
 | 34 | [Yellow Soul](https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yellow Soul](https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd) | 2:42 |
 | 35 | [Into The Wild](https://open.spotify.com/track/7xyXxjGU6p5nBJi2mB198Y) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Into The Wild](https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b) | 2:48 |
 | 36 | [Be Glad](https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Be Glad](https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx) | 4:59 |

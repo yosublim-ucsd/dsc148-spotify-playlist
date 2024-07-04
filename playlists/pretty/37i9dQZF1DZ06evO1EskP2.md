@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 
 > This is Anuhea\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,629 likes - 47 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,630 likes - 47 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,23 +37,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 27 | [Crown Royal](https://open.spotify.com/track/0934Qc6bkFBDx0wypkyZVN) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 3:56 |
 | 28 | [Hard Place](https://open.spotify.com/track/7bpGqP9iCwQVF7UIi57RVa) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Hard Place](https://open.spotify.com/album/7GWqFppa0JzSHNdniM4OnF) | 3:27 |
 | 29 | [I Just Want You Around](https://open.spotify.com/track/0Dd3YRhEe58Zc8MBlvpYqw) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 3:18 |
-| 30 | [Shoulders](https://open.spotify.com/track/5QQfNAQSjsHYbbswx8VYrY) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 3:53 |
-| 31 | [Riddles](https://open.spotify.com/track/4R4UunGPUhjkokEUiQ8iCA) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor) | 3:07 |
+| 30 | [Riddles](https://open.spotify.com/track/4R4UunGPUhjkokEUiQ8iCA) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor) | 3:07 |
+| 31 | [Shoulders](https://open.spotify.com/track/5QQfNAQSjsHYbbswx8VYrY) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 3:53 |
 | 32 | [Spam Musubi Song](https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Spam Musubi Song](https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk) | 2:20 |
 | 33 | [Here I Go Again](https://open.spotify.com/track/1Cy9L9plJX7ZAuQhfL5VR6) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 3:26 |
-| 34 | [Haters \(Remix\) \[feat\. Anuhea, Irie Love & Eli\-Mac\]](https://open.spotify.com/track/03ctMIAm8PgCl1NaPowSgL) | [Kimie Miner](https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Irie Love](https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn), [Eli\-Mac](https://open.spotify.com/artist/0Uze78PydtvTNQWhU7TVJK) | [Haters \(Remix\) \[feat\. Anuhea, Irie Love & Eli\-Mac\]](https://open.spotify.com/album/3JUg8y6VzopVigBBBKPk2Z) | 3:58 |
-| 35 | [I Won't Settle](https://open.spotify.com/track/4xoN1xIoNeSY77gSA9pk0X) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor) | 3:54 |
+| 34 | [I Won't Settle](https://open.spotify.com/track/4xoN1xIoNeSY77gSA9pk0X) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor) | 3:54 |
+| 35 | [Haters \(Remix\) \[feat\. Anuhea, Irie Love & Eli\-Mac\]](https://open.spotify.com/track/03ctMIAm8PgCl1NaPowSgL) | [Kimie Miner](https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Irie Love](https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn), [Eli\-Mac](https://open.spotify.com/artist/0Uze78PydtvTNQWhU7TVJK) | [Haters \(Remix\) \[feat\. Anuhea, Irie Love & Eli\-Mac\]](https://open.spotify.com/album/3JUg8y6VzopVigBBBKPk2Z) | 3:58 |
 | 36 | [True Colors/Kou ‘Ano Kü I’o \(Live\)](https://open.spotify.com/track/4XzNLgdNr3xwpT33V3iDFK) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [A10: Best of Anuhea](https://open.spotify.com/album/3aivd94f6fp7NhMxVz4ZrN) | 3:35 |
 | 37 | [Right Love, Wrong Time](https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 4:44 |
 | 38 | [Mr\. Mellow](https://open.spotify.com/track/1dXUcTAgVP7YP7jDg8J4N6) | [King Kekai](https://open.spotify.com/artist/3L2hhljdDtx6P5h4FbbP5m), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Mana Maoli, Volume V \- Hui Na Moku](https://open.spotify.com/album/1acebQxhPagBiWionPJtrm) | 3:28 |
 | 39 | [Easier \- Jr Blender RMX](https://open.spotify.com/track/4s0GzPbwf1Sazl7bmRgbpe) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Easier \(Jr Blender RMX\)](https://open.spotify.com/album/7eunXbvj3GuwKeqj3p4ng6) | 3:18 |
 | 40 | [Love Child](https://open.spotify.com/track/1W7qrEjdFCnzZJYrIN1CZ5) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 4:46 |
 | 41 | [Endlessly](https://open.spotify.com/track/5h9HSjrDEomNDfg7AR1W5f) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 4:14 |
-| 42 | [Follow Me \(Remix\)](https://open.spotify.com/track/3nwzpuw4jmld9GYGyUGBUa) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Remix\)](https://open.spotify.com/album/1M8gp8ALcQwerYOrPPm8Sp) | 3:15 |
-| 43 | [Red, Gold & Green](https://open.spotify.com/track/6CIxSkIqHnaN7ZiZQxMNwC) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Kimié Miner](https://open.spotify.com/artist/5Cp5wDJmbemEQsC3XA83Mg) | [Red, Gold & Green](https://open.spotify.com/album/6PGmIHc5avNNXPTh8l7ozo) | 3:49 |
+| 42 | [Red, Gold & Green](https://open.spotify.com/track/6CIxSkIqHnaN7ZiZQxMNwC) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Kimié Miner](https://open.spotify.com/artist/5Cp5wDJmbemEQsC3XA83Mg) | [Red, Gold & Green](https://open.spotify.com/album/6PGmIHc5avNNXPTh8l7ozo) | 3:49 |
+| 43 | [Follow Me \(Remix\)](https://open.spotify.com/track/3nwzpuw4jmld9GYGyUGBUa) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Remix\)](https://open.spotify.com/album/1M8gp8ALcQwerYOrPPm8Sp) | 3:15 |
 | 44 | [Walk on Water \(Live\)](https://open.spotify.com/track/20Om9CwtsWPkWBghIxRU1k) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Live at the Belly Up](https://open.spotify.com/album/6UVg3eBRR5lOpg2t6Cx4pk) | 4:01 |
 | 45 | [Boy a or Boy B](https://open.spotify.com/track/6Fky7FGFvsWe45ACPRLEAd) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 3:43 |
 | 46 | [Slow Down](https://open.spotify.com/track/2R2AreJLkwiXGSYP4W8ioB) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 3:33 |
 | 47 | [Come over \(Live\)](https://open.spotify.com/track/0KeV45Mymsh8RcyX1yvXuR) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Live at the Belly Up](https://open.spotify.com/album/6UVg3eBRR5lOpg2t6Cx4pk) | 5:56 |
 
-Snapshot ID: `ZoHxgAAAAABE5CYmjEttrsZ4GsTrbnfQ`
+Snapshot ID: `ZoNDAAAAAACUYLuvnZFV5AIrlkX96bdX`

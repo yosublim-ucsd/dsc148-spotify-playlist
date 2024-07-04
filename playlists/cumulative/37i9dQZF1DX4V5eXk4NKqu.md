@@ -4,11 +4,12 @@
 
 > The best of Latin Indie today, featuring Diamante Eléctrico.
 
-342 songs - 19 hr 29 min
+343 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\- es + \(menos es más\)](https://open.spotify.com/track/3A5qg9rPxX4ANtff8ZLhMX) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [\- es + \(menos es más\)](https://open.spotify.com/album/1y0JGvEzLx4z5kW1RbJaJA) | 2:59 | 2022-12-09 | 2023-11-11 |
+| [11:11](https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [11:11](https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO) | 3:28 | 2024-07-04 |  |
 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 | 2022-03-10 | 2023-04-07 |
 | [2mil horas](https://open.spotify.com/track/66i0E3wCeq7syKWpJPHG4v) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [2mil horas](https://open.spotify.com/album/6q1J3riPhRx3oIuDSAY8AC) | 3:27 | 2024-05-17 |  |
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-02-17 | 2023-12-16 |
@@ -245,7 +246,7 @@
 | [QADIR \- Single Version](https://open.spotify.com/track/4SGV6Us8HHNY4d1ysiq2cZ) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [QADIR](https://open.spotify.com/album/5ZcRc43rvb2C63lCG54Ph5) | 4:01 | 2022-03-10 | 2022-09-07 |
 | [Que no me encuentre](https://open.spotify.com/track/6K5woMnQZkC4TuMbkH3Lzc) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:06 | 2023-11-10 | 2023-12-16 |
 | [Que No Nos Importe](https://open.spotify.com/track/14zRXgNhTFnqNQe1nfJRPA) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Kat Dahlia](https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE) | [Que No Nos Importe](https://open.spotify.com/album/0lwYHsfjBDny57bn7V5EEC) | 3:04 | 2022-03-10 | 2022-07-26 |
-| [Quicksand](https://open.spotify.com/track/2cHu1IBtAVO5q9cl3LLJie) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [ESPÍRITU](https://open.spotify.com/album/1l4DLLvpzcHxswYRrSMMf7) | 3:06 | 2024-03-22 |  |
+| [Quicksand](https://open.spotify.com/track/2cHu1IBtAVO5q9cl3LLJie) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [ESPÍRITU](https://open.spotify.com/album/1l4DLLvpzcHxswYRrSMMf7) | 3:06 | 2024-03-22 | 2024-07-04 |
 | [Quítame](https://open.spotify.com/track/2XsgggjzR8FnjROqMcLuCa) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Quítame](https://open.spotify.com/album/4t4yVRlJv2ontF1Ec0pGw8) | 2:43 | 2022-03-10 | 2022-09-07 |
 | [Radiocaset](https://open.spotify.com/track/3eJxCkekeUGMI237Uc3I4q) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Radiocaset](https://open.spotify.com/album/4tUM9WQUaWaZkU9qPlvtN7) | 3:28 | 2024-04-11 |  |
 | [Recuerdos Que Torturan](https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Recuerdos Que Torturan](https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L) | 3:30 | 2022-05-06 | 2023-11-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡Los reyes del jaripeo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,296 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,482 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 31 | [La Fea](https://open.spotify.com/track/5pYQp20M7Ul2W1Q7fYhVrh) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Con La No\. 1: Del Pueblo...y Para El Pueblo](https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw) | 2:54 |
 | 32 | [El Sauce y la Palma](https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1) | [Banda Sinaloense de Acero](https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe) | [Y Sigue la Historia \(12 Exitos ¡¡ la Explosiva!!\)](https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV) | 2:15 |
 | 33 | [Medley: El Olotito / El Toro Viejo / El Sinaloense / La Imagen De Malverde \- En Vivo](https://open.spotify.com/track/4QaZC2yYRWx60342ibZBsT) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [La Parranda De Los Amigos \(Vol\. 1 / En Vivo\)](https://open.spotify.com/album/4KU1Pj7yeo1eH0edQFuSlB) | 7:21 |
-| 34 | [Popurrí Cumbias: La Yaquecita / La Cumbia Bonita / El Aparatito](https://open.spotify.com/track/4Y9RNuHmJXcQhnPFt3DVcM) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Una Vez Más](https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe) | 4:20 |
-| 35 | [El Son de los Ocampo](https://open.spotify.com/track/1SbZqxZoxZKuJTQzEDwV2M) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [De la Ciudad pal' Rancho \(Puro Añuuu Weiii\)](https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ) | 2:45 |
+| 34 | [El Son de los Ocampo](https://open.spotify.com/track/1SbZqxZoxZKuJTQzEDwV2M) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [De la Ciudad pal' Rancho \(Puro Añuuu Weiii\)](https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ) | 2:45 |
+| 35 | [Popurrí Cumbias: La Yaquecita / La Cumbia Bonita / El Aparatito](https://open.spotify.com/track/4Y9RNuHmJXcQhnPFt3DVcM) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Una Vez Más](https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe) | 4:20 |
 | 36 | [Por Una Lagrima](https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5) | [Marcos Flores](https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D), [Banda Jerez](https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn) | [De Nueva Cuenta](https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4) | 2:58 |
 | 37 | [Mujer Interesada](https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Mujer Interesada](https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a) | 2:40 |
 | 38 | [El Son Del Tlacololero](https://open.spotify.com/track/1NYzgJlrTeZspmrCEoAHjf) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy) | [El Son Del Tlacololero](https://open.spotify.com/album/4kCpFVESyvACBa2tQdGm4B) | 3:39 |

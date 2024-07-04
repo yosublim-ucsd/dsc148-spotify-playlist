@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "I'M READY",
+        "url": "https://open.spotify.com/album/0aEO7eknTMcfJJiYk0pYxN"
+      },
+      "artists": [
+        {
+          "name": "LUCKY LOVE",
+          "url": "https://open.spotify.com/artist/3EApXFqJtyNGLwOVFKvhMP"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182018,
+      "name": "I'M READY",
+      "url": "https://open.spotify.com/track/1QZXAnAMpys425p19UWlUH"
+    },
+    {
+      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/30xA05iVxdjBjfj2mKXhL5"
       },
@@ -356,7 +374,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 219118,
       "name": "LOVA",
       "url": "https://open.spotify.com/track/1BKiHTMrJSax72pYTOds2U"

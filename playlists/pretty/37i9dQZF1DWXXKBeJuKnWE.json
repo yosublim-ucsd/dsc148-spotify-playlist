@@ -1,6 +1,6 @@
 {
   "description": "The home for heavy music. Cover: IDLES #Glastonbury2024",
-  "num_followers": 511249,
+  "num_followers": 511219,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-06-28 12:56:53",
       "album": {
-        "name": "Straight From The Heart",
-        "url": "https://open.spotify.com/album/4pfs6RS2T9Ic6GbtXFmpNN"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 214964,
-      "name": "Straight From The Heart",
-      "url": "https://open.spotify.com/track/1Dioc5wCu4sUXTjwQv4Cuw"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
         "name": "The Fear of Fear",
         "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 281052,
       "name": "Too Close / Too Late",
       "url": "https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
+        "name": "Straight From The Heart",
+        "url": "https://open.spotify.com/album/4pfs6RS2T9Ic6GbtXFmpNN"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 214964,
+      "name": "Straight From The Heart",
+      "url": "https://open.spotify.com/track/1Dioc5wCu4sUXTjwQv4Cuw"
     },
     {
       "added_at": "2024-06-28 12:56:53",
@@ -627,6 +627,26 @@
     {
       "added_at": "2024-06-28 12:56:53",
       "album": {
+        "name": "Guilty (feat. DL of Bad Wolves)",
+        "url": "https://open.spotify.com/album/4w56LBKWG6lAa5BQg7BUyE"
+      },
+      "artists": [
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        },
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 179876,
+      "name": "Guilty (feat. DL of Bad Wolves)",
+      "url": "https://open.spotify.com/track/2VIRo7fNsyarvqzwDgT78d"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S"
       },
@@ -675,58 +695,6 @@
     {
       "added_at": "2024-06-28 12:56:53",
       "album": {
-        "name": "Papercuts",
-        "url": "https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 201341,
-      "name": "QWERTY",
-      "url": "https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
-        "name": "Guilty (feat. DL of Bad Wolves)",
-        "url": "https://open.spotify.com/album/4w56LBKWG6lAa5BQg7BUyE"
-      },
-      "artists": [
-        {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
-        },
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 179876,
-      "name": "Guilty (feat. DL of Bad Wolves)",
-      "url": "https://open.spotify.com/track/2VIRo7fNsyarvqzwDgT78d"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
-        "name": "Act Violently",
-        "url": "https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK"
-      },
-      "artists": [
-        {
-          "name": "SOFT PLAY",
-          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
-        }
-      ],
-      "duration_ms": 171615,
-      "name": "Act Violently",
-      "url": "https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
         "name": "The Echoes of Disparity",
         "url": "https://open.spotify.com/album/4y30LkmFu4kDlppNHlMOeI"
       },
@@ -751,6 +719,22 @@
     {
       "added_at": "2024-06-28 12:56:53",
       "album": {
+        "name": "Act Violently",
+        "url": "https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK"
+      },
+      "artists": [
+        {
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+        }
+      ],
+      "duration_ms": 171615,
+      "name": "Act Violently",
+      "url": "https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
         "name": "Back From the Dead",
         "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 210304,
       "name": "Back From The Dead",
       "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
+        "name": "Papercuts",
+        "url": "https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 201341,
+      "name": "QWERTY",
+      "url": "https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B"
     },
     {
       "added_at": "2024-06-28 12:56:53",
@@ -819,6 +819,26 @@
     {
       "added_at": "2024-06-28 12:56:53",
       "album": {
+        "name": "Soldier In The Army of Love",
+        "url": "https://open.spotify.com/album/05gBPlkrFzoHDBtN4JseUS"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "Roman Morello",
+          "url": "https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju"
+        }
+      ],
+      "duration_ms": 178490,
+      "name": "Soldier In The Army of Love",
+      "url": "https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
         "name": "Fight For The Right",
         "url": "https://open.spotify.com/album/7zAXZA0sjU0ldpgnl3Wlt0"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 138973,
       "name": "Ipecac",
       "url": "https://open.spotify.com/track/3dxhtEvuwDo8sCCECSmo49"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
-        "name": "Soldier In The Army of Love",
-        "url": "https://open.spotify.com/album/05gBPlkrFzoHDBtN4JseUS"
-      },
-      "artists": [
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        },
-        {
-          "name": "Roman Morello",
-          "url": "https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju"
-        }
-      ],
-      "duration_ms": 178490,
-      "name": "Soldier In The Army of Love",
-      "url": "https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep"
     },
     {
       "added_at": "2024-06-28 12:56:53",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-06-28 12:56:53",
       "album": {
-        "name": "When She Told Me",
-        "url": "https://open.spotify.com/album/6r3emSLfF17MpkJAXzd5Tt"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 281800,
-      "name": "When She Told Me",
-      "url": "https://open.spotify.com/track/1uRF3CIh24PY17wR5v5k6Q"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
         "name": "$wing",
         "url": "https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 215796,
       "name": "LEAVE ME ALONE",
       "url": "https://open.spotify.com/track/6rpP8yjaUFXW85basqmW3s"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
+        "name": "When She Told Me",
+        "url": "https://open.spotify.com/album/6r3emSLfF17MpkJAXzd5Tt"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 281800,
+      "name": "When She Told Me",
+      "url": "https://open.spotify.com/track/1uRF3CIh24PY17wR5v5k6Q"
     },
     {
       "added_at": "2024-06-28 12:56:53",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-06-28 12:56:53",
       "album": {
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/4bhwSntfBW6qBm9Xukw1EW"
+      },
+      "artists": [
+        {
+          "name": "GEL",
+          "url": "https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73"
+        }
+      ],
+      "duration_ms": 132240,
+      "name": "Persona",
+      "url": "https://open.spotify.com/track/19exW77hmfxwbQ1P96vOSS"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
         "name": "The Mosaic",
         "url": "https://open.spotify.com/album/4VDyL1ptJ0KhgiaLvMjmtW"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 222720,
       "name": "Roads Of The Lowly",
       "url": "https://open.spotify.com/track/4VyrZgmNUfnNIZh16wuhGG"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/4bhwSntfBW6qBm9Xukw1EW"
-      },
-      "artists": [
-        {
-          "name": "GEL",
-          "url": "https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73"
-        }
-      ],
-      "duration_ms": 132240,
-      "name": "Persona",
-      "url": "https://open.spotify.com/track/19exW77hmfxwbQ1P96vOSS"
     },
     {
       "added_at": "2024-06-28 12:56:53",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-06-28 12:56:53",
       "album": {
+        "name": "Maverick",
+        "url": "https://open.spotify.com/album/5vR3wPXSeLmGQqjcsTcJwQ"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "duration_ms": 214069,
+      "name": "Maverick",
+      "url": "https://open.spotify.com/track/1TxE8yxjFaKPEMpPy7FuLK"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
         "name": "DROP (feat. Randy Blythe)",
         "url": "https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 191208,
       "name": "DROP (feat. Randy Blythe)",
       "url": "https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
-        "name": "Maverick",
-        "url": "https://open.spotify.com/album/5vR3wPXSeLmGQqjcsTcJwQ"
-      },
-      "artists": [
-        {
-          "name": "Delilah Bon",
-          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
-        }
-      ],
-      "duration_ms": 214069,
-      "name": "Maverick",
-      "url": "https://open.spotify.com/track/1TxE8yxjFaKPEMpPy7FuLK"
     },
     {
       "added_at": "2024-06-28 12:56:53",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-06-28 12:56:53",
       "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 174350,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm"
+    },
+    {
+      "added_at": "2024-06-28 12:56:53",
+      "album": {
         "name": "You Will Never Get Me",
         "url": "https://open.spotify.com/album/3YXZGlXuZHRdttyYShJRGn"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 139240,
       "name": "You Will Never Get Me",
       "url": "https://open.spotify.com/track/42MMJB5rgQu5X0P4nA8W6a"
-    },
-    {
-      "added_at": "2024-06-28 12:56:53",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 174350,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm"
     },
     {
       "added_at": "2024-06-28 12:56:53",

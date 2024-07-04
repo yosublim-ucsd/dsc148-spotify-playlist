@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 22971,
+  "num_followers": 22975,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAAnSh+L8P6gJtnI3c0qo5t6",
+  "snapshot_id": "ZoNDAAAAAAB/9Ssz+jAKIqO5APDeZHuV",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Piece of Australia (Remastered)",
+        "url": "https://open.spotify.com/album/3CK418yRkaVxaLHsp8XRLB"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 132093,
+      "name": "Cunnamulla Fella - 1998 Remaster",
+      "url": "https://open.spotify.com/track/002TGKi4LBwxYodlfWoaN0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Slim Dusty Heritage Album",
         "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
       },
@@ -91,6 +107,22 @@
       "duration_ms": 188333,
       "name": "Waltzing Matilda",
       "url": "https://open.spotify.com/track/3ES9dBjha6huNi9vHAsQAo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No. 50 - The Golden Anniversary Album",
+        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "A Pub With No Beer - 1979 Version",
+      "url": "https://open.spotify.com/track/0TJSVhxbtUzejxxkDnIHmp"
     },
     {
       "added_at": null,
@@ -111,22 +143,6 @@
       "duration_ms": 190826,
       "name": "G'Day G'Day",
       "url": "https://open.spotify.com/track/7s8eyRDMj04XXszU0QUVXs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No. 50 - The Golden Anniversary Album",
-        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Walk A Country Mile",
-      "url": "https://open.spotify.com/track/48aOpQt8DsYnCgWeSDAqqU"
     },
     {
       "added_at": null,
@@ -167,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No. 50 - The Golden Anniversary Album",
+        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Walk A Country Mile",
+      "url": "https://open.spotify.com/track/48aOpQt8DsYnCgWeSDAqqU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lights On The Hill (Remastered)",
         "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
       },
@@ -183,22 +215,6 @@
       "duration_ms": 174466,
       "name": "Pushin' Time - Remastered 1992",
       "url": "https://open.spotify.com/track/3H9nKLdJjaJLcOj4ChOcVQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No. 50 - The Golden Anniversary Album",
-        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "Leave Him In The Long Yard",
-      "url": "https://open.spotify.com/track/0D6AKpyrtz8gBLIgPgcnRk"
     },
     {
       "added_at": null,
@@ -235,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No. 50 - The Golden Anniversary Album",
+        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "Leave Him In The Long Yard",
+      "url": "https://open.spotify.com/track/0D6AKpyrtz8gBLIgPgcnRk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/4tAfpE4IepSl8JL7Jyv54z"
       },
@@ -251,22 +283,6 @@
       "duration_ms": 193493,
       "name": "The Biggest Disappointment",
       "url": "https://open.spotify.com/track/4CzNjmXvCS9v9EqyeQ8lGd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No. 50 - The Golden Anniversary Album",
-        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "Three Rivers Hotel",
-      "url": "https://open.spotify.com/track/6etnW9TP1vFYrUP90dgUA9"
     },
     {
       "added_at": null,
@@ -303,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No. 50 - The Golden Anniversary Album",
+        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "Three Rivers Hotel",
+      "url": "https://open.spotify.com/track/6etnW9TP1vFYrUP90dgUA9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trucks On The Track",
         "url": "https://open.spotify.com/album/2R1izUaVNUSMbNYS2S2vit"
       },
@@ -315,22 +347,6 @@
       "duration_ms": 203666,
       "name": "Dieseline Dreams",
       "url": "https://open.spotify.com/track/1a7fWD6ICc5Dbr5d22UyRV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No. 50 - The Golden Anniversary Album",
-        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "The Biggest Disappointment",
-      "url": "https://open.spotify.com/track/7BXwT7paPEOEGgG8Qj18r2"
     },
     {
       "added_at": null,
@@ -367,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No. 50 - The Golden Anniversary Album",
+        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "The Biggest Disappointment",
+      "url": "https://open.spotify.com/track/7BXwT7paPEOEGgG8Qj18r2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lights On The Hill (Remastered)",
         "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
       },
@@ -383,22 +415,6 @@
       "duration_ms": 190200,
       "name": "Truckin's In My Blood - Remastered 1992",
       "url": "https://open.spotify.com/track/6Zxga3jpf99AQ6b160pLrI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No. 50 - The Golden Anniversary Album",
-        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "When The Rain Tumbles Down In July - 1979 Version",
-      "url": "https://open.spotify.com/track/5cS4iHrmDZpJWYj2UXQcJe"
     },
     {
       "added_at": null,
@@ -435,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Natural High",
+        "url": "https://open.spotify.com/album/1F4XU3rfCw5mozAU7JZAlf"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Under The Spell Of Highway One",
+      "url": "https://open.spotify.com/track/1mYEgQl8LaIaQQRVp339sL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lights On The Hill (Remastered)",
         "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
       },
@@ -451,22 +483,6 @@
       "duration_ms": 165826,
       "name": "Bent-Axle Bob - Remastered 1992",
       "url": "https://open.spotify.com/track/42t66blDEyqv6M6EDt9FWb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Natural High",
-        "url": "https://open.spotify.com/album/1F4XU3rfCw5mozAU7JZAlf"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Under The Spell Of Highway One",
-      "url": "https://open.spotify.com/track/1mYEgQl8LaIaQQRVp339sL"
     },
     {
       "added_at": null,
@@ -583,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slim Dusty Sings Stan Coster",
-        "url": "https://open.spotify.com/album/6epVcXWfT9yGCoOW0bJdLp"
+        "name": "Truck Songs",
+        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
       },
       "artists": [
         {
@@ -592,9 +608,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 178760,
-      "name": "By A Fire Of Gidgee Coal - 1996 Digital Remaster",
-      "url": "https://open.spotify.com/track/0aKuCV7yqNjojxyvXQ9wlE"
+      "duration_ms": 191693,
+      "name": "Gotta Keep Moving",
+      "url": "https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i"
     },
     {
       "added_at": null,
@@ -615,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truck Songs",
-        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
+        "name": "Slim Dusty Sings Stan Coster",
+        "url": "https://open.spotify.com/album/6epVcXWfT9yGCoOW0bJdLp"
       },
       "artists": [
         {
@@ -624,9 +640,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 191693,
-      "name": "Gotta Keep Moving",
-      "url": "https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i"
+      "duration_ms": 178760,
+      "name": "By A Fire Of Gidgee Coal - 1996 Digital Remaster",
+      "url": "https://open.spotify.com/track/0aKuCV7yqNjojxyvXQ9wlE"
     },
     {
       "added_at": null,
@@ -743,6 +759,22 @@
       "duration_ms": 209560,
       "name": "Trumby - 1994 Remaster",
       "url": "https://open.spotify.com/track/1KOaUT8dWrBaD9XxXGbLNl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Truck Songs",
+        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "Star Trucker",
+      "url": "https://open.spotify.com/track/5COZ5BrN5waKTpOw6wXQEB"
     },
     {
       "added_at": null,

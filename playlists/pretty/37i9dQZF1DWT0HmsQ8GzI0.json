@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: toldyuuso",
-  "num_followers": 13348,
+  "num_followers": 13354,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-06-28 12:30:47",
       "album": {
-        "name": "RENDEZ\u0150I V\u00c1LTOZAT",
-        "url": "https://open.spotify.com/album/09nwiPw91kp2jklQHXd5YY"
-      },
-      "artists": [
-        {
-          "name": "H\u0171v\u00f6s",
-          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "RENDEZ\u0150I V\u00c1LTOZAT",
-      "url": "https://open.spotify.com/track/4TU5svg9eXvk6USHEZJn84"
-    },
-    {
-      "added_at": "2024-06-28 12:30:47",
-      "album": {
         "name": "hov\u00e1sz\u00f6kt\u00e9l?",
         "url": "https://open.spotify.com/album/6ozRjx8jd0Iddux3HxqWhL"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2024-06-28 12:30:47",
       "album": {
-        "name": "El\u00e9g a tenger",
-        "url": "https://open.spotify.com/album/3jH9vcGnvB41puKiMGSPYT"
+        "name": "RENDEZ\u0150I V\u00c1LTOZAT",
+        "url": "https://open.spotify.com/album/09nwiPw91kp2jklQHXd5YY"
       },
       "artists": [
         {
-          "name": "L\u00e1z\u00e1r tes\u00f3k",
-          "url": "https://open.spotify.com/artist/072l9bFXVAVf5CnC9SX6EO"
+          "name": "H\u0171v\u00f6s",
+          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
         }
       ],
-      "duration_ms": 207130,
-      "name": "El\u00e9g a tenger",
-      "url": "https://open.spotify.com/track/7fqCWm2j1szb2PyKTNQJba"
+      "duration_ms": 202400,
+      "name": "RENDEZ\u0150I V\u00c1LTOZAT",
+      "url": "https://open.spotify.com/track/4TU5svg9eXvk6USHEZJn84"
     },
     {
       "added_at": "2024-06-28 12:30:47",
@@ -963,22 +947,18 @@
     {
       "added_at": "2024-06-28 12:30:47",
       "album": {
-        "name": "Cloudy Skies",
-        "url": "https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc"
+        "name": "El\u00e9g a tenger",
+        "url": "https://open.spotify.com/album/3jH9vcGnvB41puKiMGSPYT"
       },
       "artists": [
         {
-          "name": "LARA",
-          "url": "https://open.spotify.com/artist/6NNKnAZiJnFqSWP8TCmMZJ"
-        },
-        {
-          "name": "Haquin",
-          "url": "https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb"
+          "name": "L\u00e1z\u00e1r tes\u00f3k",
+          "url": "https://open.spotify.com/artist/072l9bFXVAVf5CnC9SX6EO"
         }
       ],
-      "duration_ms": 253171,
-      "name": "Cloudy Skies",
-      "url": "https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU"
+      "duration_ms": 207130,
+      "name": "El\u00e9g a tenger",
+      "url": "https://open.spotify.com/track/7fqCWm2j1szb2PyKTNQJba"
     },
     {
       "added_at": "2024-06-28 12:30:47",
@@ -995,6 +975,26 @@
       "duration_ms": 162099,
       "name": "N\u00e9gyes-Hatos",
       "url": "https://open.spotify.com/track/53f8mvFLHGOny8RyF8qkrX"
+    },
+    {
+      "added_at": "2024-06-28 12:30:47",
+      "album": {
+        "name": "Cloudy Skies",
+        "url": "https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc"
+      },
+      "artists": [
+        {
+          "name": "LARA",
+          "url": "https://open.spotify.com/artist/6NNKnAZiJnFqSWP8TCmMZJ"
+        },
+        {
+          "name": "Haquin",
+          "url": "https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb"
+        }
+      ],
+      "duration_ms": 253171,
+      "name": "Cloudy Skies",
+      "url": "https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU"
     },
     {
       "added_at": "2024-06-28 12:30:47",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-06-28 12:30:47",
       "album": {
+        "name": "Csillagt\u0171z",
+        "url": "https://open.spotify.com/album/5HODzK3fIEkx0oM5yxSfXf"
+      },
+      "artists": [
+        {
+          "name": "Sena Dagadu",
+          "url": "https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH"
+        }
+      ],
+      "duration_ms": 226451,
+      "name": "Csillagt\u0171z",
+      "url": "https://open.spotify.com/track/5QNt5GxZknG7yi3jdjZlx3"
+    },
+    {
+      "added_at": "2024-06-28 12:30:47",
+      "album": {
         "name": "CSILLAGT\u00daRA",
         "url": "https://open.spotify.com/album/2IdXSgwU1THJ65yaSh4jTF"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 173750,
       "name": "Fekete p\u00f3l\u00f3",
       "url": "https://open.spotify.com/track/1uI3hvdmVeRXOe5XEuwn3E"
-    },
-    {
-      "added_at": "2024-06-28 12:30:47",
-      "album": {
-        "name": "Csillagt\u0171z",
-        "url": "https://open.spotify.com/album/5HODzK3fIEkx0oM5yxSfXf"
-      },
-      "artists": [
-        {
-          "name": "Sena Dagadu",
-          "url": "https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH"
-        }
-      ],
-      "duration_ms": 226451,
-      "name": "Csillagt\u0171z",
-      "url": "https://open.spotify.com/track/5QNt5GxZknG7yi3jdjZlx3"
     },
     {
       "added_at": "2024-06-28 12:30:47",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-06-28 12:30:47",
       "album": {
-        "name": "Visszav\u00e1rsz",
-        "url": "https://open.spotify.com/album/0F9J62CdO226zPEVk7um2x"
-      },
-      "artists": [
-        {
-          "name": "Huzugha",
-          "url": "https://open.spotify.com/artist/6DTLsLKcEsWYBdawxfMi4y"
-        }
-      ],
-      "duration_ms": 125844,
-      "name": "Visszav\u00e1rsz",
-      "url": "https://open.spotify.com/track/329tYqlYRGeB1OauTkGlcC"
-    },
-    {
-      "added_at": "2024-06-28 12:30:47",
-      "album": {
         "name": "SAME OLD LIES",
         "url": "https://open.spotify.com/album/1GpPYa9LDqDt8nCXimLWNk"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 154329,
       "name": "SAME OLD LIES",
       "url": "https://open.spotify.com/track/3o7poLcvXMdISIbfwkiGYN"
+    },
+    {
+      "added_at": "2024-06-28 12:30:47",
+      "album": {
+        "name": "Visszav\u00e1rsz",
+        "url": "https://open.spotify.com/album/0F9J62CdO226zPEVk7um2x"
+      },
+      "artists": [
+        {
+          "name": "Huzugha",
+          "url": "https://open.spotify.com/artist/6DTLsLKcEsWYBdawxfMi4y"
+        }
+      ],
+      "duration_ms": 125844,
+      "name": "Visszav\u00e1rsz",
+      "url": "https://open.spotify.com/track/329tYqlYRGeB1OauTkGlcC"
     },
     {
       "added_at": "2024-06-28 12:30:47",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-06-28 12:30:47",
       "album": {
-        "name": "Leveg\u0151nek ha n\u00e9zel",
-        "url": "https://open.spotify.com/album/4JNcuVq7pgQCza7tR8flNE"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Leveg\u0151nek ha n\u00e9zel",
-      "url": "https://open.spotify.com/track/66vX1WKTkWB8HeIgC9A0hW"
-    },
-    {
-      "added_at": "2024-06-28 12:30:47",
-      "album": {
         "name": "Ny\u00e1ll\u00e1m\u00e1ll\u00f3",
         "url": "https://open.spotify.com/album/2guegatClcHZ7ZuSw7PmdQ"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 236433,
       "name": "Ny\u00e1ll\u00e1m\u00e1ll\u00f3",
       "url": "https://open.spotify.com/track/1TBrCQXd9NC5Uaki3f4wQ8"
+    },
+    {
+      "added_at": "2024-06-28 12:30:47",
+      "album": {
+        "name": "Leveg\u0151nek ha n\u00e9zel",
+        "url": "https://open.spotify.com/album/4JNcuVq7pgQCza7tR8flNE"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Leveg\u0151nek ha n\u00e9zel",
+      "url": "https://open.spotify.com/track/66vX1WKTkWB8HeIgC9A0hW"
     },
     {
       "added_at": "2024-06-28 12:30:47",
@@ -1395,18 +1395,26 @@
     {
       "added_at": "2024-06-28 12:30:47",
       "album": {
-        "name": "Forog",
-        "url": "https://open.spotify.com/album/73KlujMAwF4fPAiKzmepto"
+        "name": "Egyform\u00e1k",
+        "url": "https://open.spotify.com/album/5k0aOqsnIphaSj8tXRHRHq"
       },
       "artists": [
         {
-          "name": "Sol\u00e9re",
-          "url": "https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP"
+          "name": "MAJR\u00c9",
+          "url": "https://open.spotify.com/artist/1VP5B0ctEHTMvQsEKNtxmJ"
+        },
+        {
+          "name": "sosehol",
+          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+        },
+        {
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
         }
       ],
-      "duration_ms": 97992,
-      "name": "Forog",
-      "url": "https://open.spotify.com/track/0HqfR7GRs29JY8qOmUXiVy"
+      "duration_ms": 184874,
+      "name": "Egyform\u00e1k",
+      "url": "https://open.spotify.com/track/6fgA2gddZ2AjbM5bHh00xd"
     }
   ],
   "unique_name": "Nemazapop",

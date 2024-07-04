@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-24",
-  "description": "He's back by popular demand...Listen to the music from Beverly Hills Cop ahead of Beverly Hills Cop: Axel F, coming soon to Netflix. ",
+  "description": "He's back by popular demand...Listen to the music from Beverly Hills Cop: Axel F, now streaming on Netflix. ",
   "name": "Beverly Hills Cop: Axel F Official Playlist",
   "tracks": [
     {
@@ -153,6 +153,60 @@
     },
     {
       "album": {
+        "name": "EP 3",
+        "url": "https://open.spotify.com/album/1Hz8lcEdta6cqi7Smx5JXe"
+      },
+      "artists": [
+        {
+          "name": "iZNiiK",
+          "url": "https://open.spotify.com/artist/6jB9IkEbgX38EWUmDqLgmR"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245322,
+      "name": "energy",
+      "url": "https://open.spotify.com/track/0SWt9XzD4kOjzPJGt0nTAY"
+    },
+    {
+      "album": {
+        "name": "No More Drama",
+        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265866,
+      "name": "Family Affair",
+      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
+    },
+    {
+      "album": {
+        "name": "Helen",
+        "url": "https://open.spotify.com/album/5Yy7NYLptBuM0grySrkgkf"
+      },
+      "artists": [
+        {
+          "name": "Qasim Naqvi",
+          "url": "https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82025,
+      "name": "Helen",
+      "url": "https://open.spotify.com/track/49QulDfYu6yJilaX6BaRPV"
+    },
+    {
+      "album": {
         "name": "HERE WE GO! (from the Netflix film \"Beverly Hills Cop: Axel F\")",
         "url": "https://open.spotify.com/album/0g097m0P0zZhYnImicon1n"
       },
@@ -204,6 +258,28 @@
       "duration_ms": 243986,
       "name": "I Can't Stand It",
       "url": "https://open.spotify.com/track/3OCLWJ68wgUqfFhE0zjmYx"
+    },
+    {
+      "album": {
+        "name": "Dark Sky Paradise (Deluxe)",
+        "url": "https://open.spotify.com/album/6NVRGg3dKALTNwHqAqdYBf"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284413,
+      "name": "I Don't F**k With You",
+      "url": "https://open.spotify.com/track/7taXl2C2594pF4gjumrF4W"
     },
     {
       "album": {
@@ -294,6 +370,24 @@
       "duration_ms": 274266,
       "name": "Luv 4 Dem Gangsta'z",
       "url": "https://open.spotify.com/track/3x9EOskALM4GqvDXdAm41N"
+    },
+    {
+      "album": {
+        "name": "The Hits",
+        "url": "https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182813,
+      "name": "Milkshake",
+      "url": "https://open.spotify.com/track/4LmzPJDil70LpiApWfOI6O"
     },
     {
       "album": {

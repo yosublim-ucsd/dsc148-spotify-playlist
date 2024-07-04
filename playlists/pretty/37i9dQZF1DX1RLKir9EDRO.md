@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Nodewave Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,743 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,755 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

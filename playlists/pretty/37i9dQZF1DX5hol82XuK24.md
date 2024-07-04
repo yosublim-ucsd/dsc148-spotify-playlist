@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,880 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,959 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 17 | [I Love Me After You](https://open.spotify.com/track/55Y5p2XyPaYBPGtzj1f9fE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:48 |
 | 18 | [Freak](https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:55 |
 | 19 | [I'm Always Here](https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:20 |
-| 20 | [The Place Where He Inserted the Blade](https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 7:13 |
-| 21 | [Halloween](https://open.spotify.com/track/2GDxR0ZGYqDQUElSQxBiNS) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:31 |
+| 20 | [Halloween](https://open.spotify.com/track/2GDxR0ZGYqDQUElSQxBiNS) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:31 |
+| 21 | [The Place Where He Inserted the Blade](https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 7:13 |
 | 22 | [Slither](https://open.spotify.com/track/4zzwmX1ntxHBaFWJahkVTx) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 1:50 |
 | 23 | [Sisters of the Moon \- 2015 Remaster](https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 4:43 |
 | 24 | [Dead Girls](https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Hazards](https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy) | 3:19 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 55 | [Whole Lotta Nothing](https://open.spotify.com/track/2fJ8qVt2jxBzbJevlnIEvw) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Whole Lotta Nothing](https://open.spotify.com/album/2pZjqwc0vAhUBINnTmHrd3) | 4:47 |
 | 56 | [Turn Off The Noise](https://open.spotify.com/track/633HJNBMLx1CJ2h6fmtMce) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Piggy](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:24 |
 | 57 | [It Was Gone](https://open.spotify.com/track/5XUpxZO6tIHpupxE97LJ7I) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [It Was Gone](https://open.spotify.com/album/2zz9Kq8rQRdV7y9fvpG6eg) | 5:07 |
-| 58 | [anything at all](https://open.spotify.com/track/2UbB04Qygii9CL3WLdsXvb) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [...and she's still listening](https://open.spotify.com/album/1PQDwOUx0dHqhBsWPeSDMr) | 3:09 |
-| 59 | [Smalltown Boy](https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp) | [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0) | [The Waves Pt\. 1](https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW) | 4:22 |
+| 58 | [Smalltown Boy](https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp) | [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0) | [The Waves Pt\. 1](https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW) | 4:22 |
+| 59 | [anything at all](https://open.spotify.com/track/2UbB04Qygii9CL3WLdsXvb) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [...and she's still listening](https://open.spotify.com/album/1PQDwOUx0dHqhBsWPeSDMr) | 3:09 |
 | 60 | [Coolshit Bullshit](https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet) | [Danika](https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO) | [Coolshit Bullshit](https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U) | 4:00 |
 | 61 | [Way Past Three](https://open.spotify.com/track/3lWEr9ARqZA5K9v9BS26J2) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Way Past Three](https://open.spotify.com/album/3rmol1Nr87zSljaRpQ2X1z) | 2:42 |
 | 62 | [Tastes Good With The Money](https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Serfs Up!](https://open.spotify.com/album/3rCHThZSo7zO5dmmsPjTtQ) | 5:42 |

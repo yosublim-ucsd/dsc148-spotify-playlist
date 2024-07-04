@@ -2,9 +2,9 @@
 
 ### [This Is Bob Marley & The Wailers](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DHoaY)
 
-> This Is Bob Marley & The Wailers\. Los temas esenciales, todos en una lista.
+> This is Bob Marley & The Wailers\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 20 min
+68 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Chant Down Babylon](https://open.spotify.com/track/2HJZDha9V8OMf4n2HFUXf5) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 2:36 | 2024-02-01 | 2024-03-29 |
 | [Coming In From The Cold](https://open.spotify.com/track/6lmLUNd7mcyYqKcg6EIAOu) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 4:31 | 2024-02-01 |  |
 | [Concrete Jungle](https://open.spotify.com/track/5M77yXWuKPqaUzdxn4cVnV) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 4:13 | 2024-02-01 |  |
-| [Could You Be Loved](https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:57 | 2024-02-01 |  |
+| [Could You Be Loved](https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:57 | 2024-02-01 | 2024-07-04 |
 | [Crazy Baldhead](https://open.spotify.com/track/1zWr2alhnYrRBy1M28d3z7) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu) | 3:11 | 2024-02-01 |  |
 | [Easy Skanking](https://open.spotify.com/track/1efuoLEUL1K0D96d63svRO) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 2:57 | 2024-02-01 |  |
 | [Exodus](https://open.spotify.com/track/1lRkDJ9hMuiE1GZOlbgkam) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 7:40 | 2024-05-15 | 2024-06-21 |
@@ -26,7 +26,7 @@
 | [Guiltiness](https://open.spotify.com/track/4MHQMv9mMV6Bf8F4B702WR) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 3:19 | 2024-05-25 | 2024-05-26 |
 | [Higher Place](https://open.spotify.com/track/6jQB97LaIftgb81KhkisXl) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:23 | 2024-02-01 |  |
 | [Hold Ya Head \(feat\. Bob Marley\)](https://open.spotify.com/track/2FaEEdFTp6Ub0oojqjpSif) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Duets: The Final Chapter](https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG) | 2:45 | 2024-02-01 |  |
-| [Iron Lion Zion \- 7" Mix](https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Iron Lion Zion](https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK) | 3:22 | 2024-02-01 | 2024-07-03 |
+| [Iron Lion Zion \- 7" Mix](https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Iron Lion Zion](https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK) | 3:22 | 2024-02-01 |  |
 | [Is This Love](https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:52 | 2024-02-01 |  |
 | [Jah Live](https://open.spotify.com/track/1SxXBJgUk4z1dZdpdtTB7F) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT) | 4:13 | 2024-03-13 | 2024-06-23 |
 | [Jamming](https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 3:31 | 2024-02-19 |  |
@@ -75,5 +75,6 @@
 | [War/No More Trouble \- From "Bob Marley: One Love" Soundtrack](https://open.spotify.com/track/060wim4wCw76nHhHr6fDjm) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [One Love \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2VbmXDBkPj34TiyMNYaboj) | 4:57 | 2024-02-10 |  |
 | [Who The Cap Fit](https://open.spotify.com/track/2cYAd7BJIOj4Y0pU5Pyesc) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT) | 4:43 | 2024-02-01 |  |
 | [Zimbabwe](https://open.spotify.com/track/5ApfJDLibIoWL0mRZ5uOKu) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 3:51 | 2024-02-01 |  |
+| [Zion Train](https://open.spotify.com/track/2Uqayp7267V5SJYOf7fLmV) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:36 | 2024-07-04 |  |
 
 \*This playlist was first scraped on 2024-02-02. Prior content cannot be recovered.

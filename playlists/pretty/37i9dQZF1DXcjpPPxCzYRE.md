@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,200 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,213 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 9 | [Botecito](https://open.spotify.com/track/3jd98IqkeEChfoe98H24Ma) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Botecito](https://open.spotify.com/album/0ldh3YA3WxIdKM4Gdr8vrm) | 3:57 |
 | 10 | [Let It All Go](https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Let It All Go](https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw) | 4:40 |
 | 11 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
-| 12 | [Al Alba](https://open.spotify.com/track/0Sycs2Q0ejSwwwk3DS13iA) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Dolores](https://open.spotify.com/album/2kzjVxsgT41txC1GIMMx3C) | 3:23 |
+| 12 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 |
 | 13 | [Over The Rainbow](https://open.spotify.com/track/3TJjGMaiuDlw3fqNghvznv) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Over The Rainbow](https://open.spotify.com/album/08WcTSjqsHq05rTXm64P6O) | 3:31 |
 | 14 | [By Your Side](https://open.spotify.com/track/3VcmjpCGGY4ReELVr4R7aa) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/5Ak10vSJ89AixhQQhx63kN) | 4:34 |
-| 15 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 |
+| 15 | [Al Alba](https://open.spotify.com/track/0Sycs2Q0ejSwwwk3DS13iA) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Dolores](https://open.spotify.com/album/2kzjVxsgT41txC1GIMMx3C) | 3:23 |
 | 16 | [Derramar](https://open.spotify.com/track/3LUGhSGsZfa1Xk6LQ8VIcQ) | [Anselmos](https://open.spotify.com/artist/2uUuNmTYEBiQEB5qOWbAHO) | [Derramar](https://open.spotify.com/album/2liWoQ8Iu9AfbRsLI1RRcr) | 3:42 |
 | 17 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 |
 | 18 | [You Are My Sunshine](https://open.spotify.com/track/5qMjtrGnezsafpH4oqg7oU) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [You Are My Sunshine](https://open.spotify.com/album/5ueNN8xbGK6BMFnLjeiXUM) | 2:37 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 59 | [Renegades \- Acoustic Version](https://open.spotify.com/track/57BrLjdnIbUTnTVXBJIBAM) | [Vinyl Hotel](https://open.spotify.com/artist/0cL5BDthYmHa4fUYkRNe6h) | [Café Acoustic Session \(Acoustic Version\)](https://open.spotify.com/album/2A1S0jZ4Xbmue6lq4GSLuW) | 2:57 |
 | 60 | [The Echo & The Shadow](https://open.spotify.com/track/6FytDcO847O1h7JlWbY838) | [The Well Pennies](https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi) | [Endlings](https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC) | 3:48 |
 | 61 | [Suspicious Minds](https://open.spotify.com/track/2OCgVQoRYmBAedBkUSQpjF) | [Casual](https://open.spotify.com/artist/6bYakhjMl4eDSfiETppQmS) | [Casual](https://open.spotify.com/album/0znE3YZtxAkMXevh2LYkYC) | 2:50 |
-| 62 | [Older Chests](https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
-| 63 | [Dynamite](https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV) | [Treadlights](https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK) | [Dynamite](https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU) | 2:31 |
+| 62 | [Dynamite](https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV) | [Treadlights](https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK) | [Dynamite](https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU) | 2:31 |
+| 63 | [Older Chests](https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
 | 64 | [Madrid](https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq), [Yuri Méndez](https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H) | [Madrid](https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA) | 4:00 |
 | 65 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
 | 66 | [You Lucky One](https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [You Lucky One](https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF) | 4:54 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 89 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 |
 | 90 | [Fuegos Artificiales](https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI) | [Fuegos Artificiales](https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto) | 2:58 |
 | 91 | [Canción de Cuna para Gabriel y Nicolás \- Tema incluído en la Banda Sonora Original "Blue & Malone Casos Imposibles"](https://open.spotify.com/track/2Nj6b1tSxcMdLGNp9UOkGy) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Canción de Cuna para Gabriel y Nicolás \(Tema incluído en la Banda Sonora Original Blue & Malone Casos Imposibles\)](https://open.spotify.com/album/6r5nOWh4HQxbqAKULzg9QR) | 3:15 |
-| 92 | [Cruzando el Charco](https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Cruzando el Charco](https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N) | 3:10 |
-| 93 | [Boredom](https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr) | [Núria Graham](https://open.spotify.com/artist/3ZJhC6cKBtTx6jUJSTr8XI) | [Boredom \(Demo 2015\)](https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN) | 3:52 |
+| 92 | [Boredom](https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr) | [Núria Graham](https://open.spotify.com/artist/3ZJhC6cKBtTx6jUJSTr8XI) | [Boredom \(Demo 2015\)](https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN) | 3:52 |
+| 93 | [Cruzando el Charco](https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Cruzando el Charco](https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N) | 3:10 |
 | 94 | [\_El Infinito](https://open.spotify.com/track/6W5Qfu0c3kCFRsD1mNClIB) | [\_juno](https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP) | [\_BCN626](https://open.spotify.com/album/6IPGEB4W7g8u88NWZgVLEA) | 3:04 |
 | 95 | [Ojos de Miel](https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS) | [Valhua](https://open.spotify.com/artist/7mkOIVa1b0BR4XAS07VEOK), [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Ojos de Miel](https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO) | 3:22 |
 | 96 | [Tu](https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Vernat](https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9) | [Tu](https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS) | 2:43 |
-| 97 | [Kevin](https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ) | [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [Kevin](https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT) | 3:23 |
-| 98 | [Dos Lágrimas, Dos Peces](https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Dos Lágrimas, Dos Peces](https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE) | 3:40 |
-| 99 | [Leve](https://open.spotify.com/track/4hswVtm8bkPLsMqnctlIBb) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Soma](https://open.spotify.com/album/6nlMPBV9pvlP9O5sUA1iez) | 3:33 |
-| 100 | [Arena Cósmica](https://open.spotify.com/track/2Tp2TJMsvmdpqZkdlkwE0w) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Arena Cósmica](https://open.spotify.com/album/17natVn3YDYFfM4tKCKxPg) | 3:39 |
+| 97 | [Dos Lágrimas, Dos Peces](https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Dos Lágrimas, Dos Peces](https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE) | 3:40 |
+| 98 | [Kevin](https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ) | [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [Kevin](https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT) | 3:23 |
+| 99 | [Arena Cósmica](https://open.spotify.com/track/2Tp2TJMsvmdpqZkdlkwE0w) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Arena Cósmica](https://open.spotify.com/album/17natVn3YDYFfM4tKCKxPg) | 3:39 |
+| 100 | [Leve](https://open.spotify.com/track/4hswVtm8bkPLsMqnctlIBb) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Soma](https://open.spotify.com/album/6nlMPBV9pvlP9O5sUA1iez) | 3:33 |
 
 Snapshot ID: `ZnVUNgAAAAAvZ9atoLoubUyWeeAsgOuG`

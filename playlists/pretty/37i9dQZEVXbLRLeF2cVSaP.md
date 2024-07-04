@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,874 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,891 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [портреты \- Acoustic](https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [портреты \(Acoustic\)](https://open.spotify.com/album/0LNml41jJnwou22TkqmBck) | 2:52 |
 | 50 | [Never Broke Again](https://open.spotify.com/track/21LIoC4ZxT3F8xq9gidNbX) | [xxxmanera](https://open.spotify.com/artist/0hAEtx2GQLtMTJj8qycHRr) | [Never Broke Again](https://open.spotify.com/album/3fsKGXLjN1T0fdDzE2MfgI) | 1:48 |
 
-Snapshot ID: `LhdmGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lhi3mAAAAAAAAAAAAAAAAAAAAAAAAGVu`

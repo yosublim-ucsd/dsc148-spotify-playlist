@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,217 likes - 183 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,363 likes - 183 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,7 +166,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 | 156 | [As Though The Sun](https://open.spotify.com/track/2AxW80QuVqJ0GXygmupaM2) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [As Though The Sun](https://open.spotify.com/album/6Te3ZDjwGegzpFd1MaZNNe) | 3:47 |
 | 157 | [Epilogue](https://open.spotify.com/track/3VyR5Ge6OR28B8sSNlZGxN) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [Epilogue](https://open.spotify.com/album/5X29DiYEFR8JLcghhL1fIK) | 3:33 |
 | 158 | [Open Mind](https://open.spotify.com/track/3ODKzLgzGnXzng8SCTadRc) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [Open Mind](https://open.spotify.com/album/34q2kBjzKnowLJPn1XePIZ) | 3:43 |
-| 159 | [Body And Soul](https://open.spotify.com/track/5B1XEvV3NaVPulBCafMGZg) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays \(Clef Records LPR\)](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 3:15 |
+| 159 | [Body And Soul](https://open.spotify.com/track/5B1XEvV3NaVPulBCafMGZg) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 3:15 |
 | 160 | [Where Or When](https://open.spotify.com/track/3K7okDLoeWIb1BxsGDVrNl) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [Where Or When](https://open.spotify.com/album/4Tiyb5NGvdSuWkfhHfstou) | 3:23 |
 | 161 | [What´s New](https://open.spotify.com/track/0BL42uZtaUUFXL26jWVmBR) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [What´s New](https://open.spotify.com/album/0c71OvAIq0htZlQAYh4TrT) | 3:38 |
 | 162 | [Misty November](https://open.spotify.com/track/5LJcQXhDafjTy7GOqYLjJM) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [Misty November](https://open.spotify.com/album/6xxtWCf4X7qatxA0IPFWly) | 3:12 |

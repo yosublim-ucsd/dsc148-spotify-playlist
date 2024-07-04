@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 
 > pop woke up and chose chaos\. cover: EMELINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,108 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,101 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 8 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 |
 | 9 | [cinderella's dead](https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [cinderella's dead](https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS) | 2:00 |
 | 10 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 |
-| 11 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 |
-| 12 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 |
+| 11 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 |
+| 12 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 |
 | 13 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 |
 | 14 | [STRUT](https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [STRUT](https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y) | 1:57 |
 | 15 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 19 | [Yuck](https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:18 |
 | 20 | [Cure For Me](https://open.spotify.com/track/7kEva2rxsNMn07fyfZMRRn) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Cure For Me](https://open.spotify.com/album/0wmk4PJg0PWWaADQeAVO6N) | 3:21 |
 | 21 | [Dolls](https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls](https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe) | 2:12 |
-| 22 | [Sobriety](https://open.spotify.com/track/0UOb1XYYj9iByVnCgLazcX) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sobriety](https://open.spotify.com/album/74Q7pNFVMRZRgLf256Uewk) | 2:06 |
-| 23 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 |
+| 22 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 |
+| 23 | [Sobriety](https://open.spotify.com/track/0UOb1XYYj9iByVnCgLazcX) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sobriety](https://open.spotify.com/album/74Q7pNFVMRZRgLf256Uewk) | 2:06 |
 | 24 | [Not Another Rockstar](https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Not Another Rockstar](https://open.spotify.com/album/1kiowmIzvFyO1hXi1Wyqkn) | 2:29 |
 | 25 | [what it means to be a girl](https://open.spotify.com/track/6H6M3RdPVYAURu9oCimO2z) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [what it means to be a girl / this is how i learn to say no](https://open.spotify.com/album/5Ty9rTy9cD0NEJVJsDRTiA) | 2:48 |
 | 26 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 |

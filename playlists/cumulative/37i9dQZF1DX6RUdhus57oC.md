@@ -4,7 +4,7 @@
 
 > Le sommeil, c'est la santé, alors laissez\-vous bercer.
 
-96 songs - 4 hr 8 min
+97 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Notturno](https://open.spotify.com/track/1vwLrgMsd1sCPpXTzXxuBL) | [Finja Seiden](https://open.spotify.com/artist/4HgoiVnZ4T75NSjXygiOyH) | [Notturno](https://open.spotify.com/album/5sTu5u2ARluSip9mOYGXBc) | 3:11 | 2024-06-03 |  |
 | [Nowesind](https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nowesind](https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X) | 1:59 | 2023-09-29 | 2024-06-04 |
 | [On Silver Hill](https://open.spotify.com/track/2vj5NP6jpVbPqoxhopxcRA) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [On Silver Hill](https://open.spotify.com/album/0SRYu5fWTwlurk6AugaODm) | 2:08 | 2024-06-03 |  |
-| [One More Story](https://open.spotify.com/track/5H4EVghamuvIx46AT2gwqf) | [Sloan Sandford](https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr) | [One More Story](https://open.spotify.com/album/60Phkle9K0BefzXtBASyZT) | 2:13 | 2024-06-03 |  |
+| [One More Story](https://open.spotify.com/track/5H4EVghamuvIx46AT2gwqf) | [Sloan Sandford](https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr) | [One More Story](https://open.spotify.com/album/60Phkle9K0BefzXtBASyZT) | 2:13 | 2024-06-03 | 2024-07-04 |
 | [Ordinary Day](https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Ordinary Day](https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg) | 2:30 | 2024-06-03 |  |
 | [Picture Life](https://open.spotify.com/track/4bjAEUYwbMIcd3e86EinLN) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Picture Life](https://open.spotify.com/album/21ZXPpXidDE9KvpZRCB12d) | 2:29 | 2024-06-03 |  |
 | [Pines and Cedars](https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Pines and Cedars](https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA) | 2:30 | 2024-06-03 |  |
@@ -94,6 +94,7 @@
 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 | 2024-06-03 |  |
 | [The tree that I don't forget](https://open.spotify.com/track/239W1Z795G2xYOqdrVLirv) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [The tree that I don't forget](https://open.spotify.com/album/6dT2UTUh4rYKFdakQ01sBc) | 3:18 | 2023-09-29 | 2024-06-04 |
 | [To the Rain](https://open.spotify.com/track/025aQi6Ffw676y8m4zLPk7) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [To the Rain](https://open.spotify.com/album/30HSC1ogeWpwBZXroMTTDW) | 2:25 | 2023-09-29 | 2024-06-04 |
+| [Tolerance](https://open.spotify.com/track/28breCSDTKxrWa96iZBNlq) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Tolerance](https://open.spotify.com/album/6ku1NHwTs2YfITbwRtxgvD) | 2:20 | 2024-06-03 |  |
 | [Trust](https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Trust](https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv) | 2:23 | 2023-09-29 | 2024-06-04 |
 | [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 | 2023-09-29 | 2024-06-20 |
 | [Un Cadeau](https://open.spotify.com/track/7Jrx30VldPaujIaP3c2SJn) | [Nel Swerts](https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh) | [Un Cadeau](https://open.spotify.com/album/75lQPJlmH7f4DlqyOpemjO) | 2:37 | 2023-09-29 | 2024-06-04 |

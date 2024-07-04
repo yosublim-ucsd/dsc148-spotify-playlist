@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,414 songs - 3 day 16 hr 41 min
+1,415 songs - 3 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1062,6 +1062,7 @@
 | [ビボウロク](https://open.spotify.com/track/3HJTTW6JzXEvrTjK2mYflY) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [ビボウロク](https://open.spotify.com/album/6rJD98WoJXBMiV82Sn47OA) | 3:25 | 2022-07-12 | 2022-09-15 |
 | [ビンクスの酒](https://open.spotify.com/track/4wsKw43OnCzoDqfhcxBvRf) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:26 | 2022-08-09 | 2022-08-17 |
 | [ファイトソング](https://open.spotify.com/track/05UFNH7Htp7Odg9XGhxtxQ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ファイトソング](https://open.spotify.com/album/1t3IOg3UJHv7gja2IkBnJV) | 3:28 | 2022-12-27 | 2022-12-29 |
+| [ファタール \- Fatal](https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT) | [GEMN](https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ファタール \- Fatal](https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL) | 3:39 | 2024-07-03 |  |
 | [ファンタジック・パートナー](https://open.spotify.com/track/1prl1AtKjdOofWAwjL4usH) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [ファンタジック・パートナー](https://open.spotify.com/album/7iaa4HGI4wfMl5Rvp8TtmN) | 4:16 | 2023-01-17 | 2023-02-22 |
 | [ファンファーレ](https://open.spotify.com/track/6pMnrJgFypPyIEDu6QSoZb) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [ファンファーレ](https://open.spotify.com/album/34r0zslutaY9teqGCCzITU) | 4:14 | 2023-07-04 | 2023-07-06 |
 | [フラッシュバック](https://open.spotify.com/track/7mohgpGIPJJFnu4htjKQ8G) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [フラッシュバック](https://open.spotify.com/album/2Ho2OzcpbmVqPTeNudHolK) | 3:30 | 2023-07-04 | 2023-08-18 |

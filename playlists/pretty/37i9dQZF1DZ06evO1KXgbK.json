@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 246504,
+  "num_followers": 246538,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAACk0lB4wOfAV8gz+pb55kes",
+  "snapshot_id": "ZoNDAAAAAACCMxXqWdl0VoQyX02LOvvU",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Time Well Wasted",
+        "url": "https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 247053,
+      "name": "When I Get Where I'm Going (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/3VLCtStwYsAL4LKZgeUvy3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -375,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somebody's Child",
-        "url": "https://open.spotify.com/album/2YhXAEGsBxEE4qpqFPbDUV"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 204121,
-      "name": "Somebody's Child",
-      "url": "https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever More (Love Songs, Hits & Duets)",
         "url": "https://open.spotify.com/album/6ZYynOoi9YEBlSCUPE5Dlg"
       },
@@ -415,26 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trio (2016 Remaster)",
-        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
+        "name": "Somebody's Child",
+        "url": "https://open.spotify.com/album/2YhXAEGsBxEE4qpqFPbDUV"
       },
       "artists": [
         {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        },
+        {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 240813,
-      "name": "Those Memories of You - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7sdNvO1i0MeKRseYnuebGN"
+      "duration_ms": 204121,
+      "name": "Somebody's Child",
+      "url": "https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP"
     },
     {
       "added_at": null,
@@ -939,22 +935,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+        "name": "Trio (2016 Remaster)",
+        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 22623,
-      "name": "DOLLY P",
-      "url": "https://open.spotify.com/track/1fp4DIjhHyptQWK00CZgFQ"
+      "duration_ms": 153920,
+      "name": "The Pain of Loving You - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3zQzQUYoDGIZOUM0BL84mM"
     },
     {
       "added_at": null,
@@ -979,26 +979,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trio (2016 Remaster)",
-        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
       "artists": [
         {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 153920,
-      "name": "The Pain of Loving You - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3zQzQUYoDGIZOUM0BL84mM"
+      "duration_ms": 22623,
+      "name": "DOLLY P",
+      "url": "https://open.spotify.com/track/1fp4DIjhHyptQWK00CZgFQ"
     },
     {
       "added_at": null,

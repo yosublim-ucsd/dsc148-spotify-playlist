@@ -1,15 +1,15 @@
 {
   "description": "Vibrez au rythme des hits urbains et Afro en feu \ud83c\udfb6",
-  "num_followers": 24187,
+  "num_followers": 24224,
   "original_name": "SEHD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoKqSQAAAAA9Gs4MIJSnmQESCCAdUWKN",
+  "snapshot_id": "ZoTozQAAAACG4EQfKvZPbCkgVsjdlfax",
   "tracks": [
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Mise \u00e0 jour",
         "url": "https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ"
@@ -25,7 +25,43 @@
       "url": "https://open.spotify.com/track/2pSmuV6Vt0KkJLoEfB2DxW"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
+      "album": {
+        "name": "QU\u00c9 LO QUE",
+        "url": "https://open.spotify.com/album/0KU4bZdJPmvXqwgdjORrtx"
+      },
+      "artists": [
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 181275,
+      "name": "QU\u00c9 LO QUE",
+      "url": "https://open.spotify.com/track/0q6LKoEDUwO7DJZsuZcxcN"
+    },
+    {
+      "added_at": "2024-07-03 05:59:41",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/3TcG5hDL8YM5FKhp1rvsE1"
+      },
+      "artists": [
+        {
+          "name": "Kawtar",
+          "url": "https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/1oTuAmY3HZgLIKb52B07xl"
+    },
+    {
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Si Si",
         "url": "https://open.spotify.com/album/2q0V1wmNVUpZUxYy85r1y3"
@@ -53,7 +89,7 @@
       "url": "https://open.spotify.com/track/5iFu4sGrA7CqC6TYXn8sKc"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "LVDR",
         "url": "https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1"
@@ -73,27 +109,47 @@
       "url": "https://open.spotify.com/track/2e7qqQ8MkLa0h5xmHL5cso"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
-        "name": "QU\u00c9 LO QUE",
-        "url": "https://open.spotify.com/album/0KU4bZdJPmvXqwgdjORrtx"
+        "name": "Parle Pas",
+        "url": "https://open.spotify.com/album/3TAVQ5zRFrmvhZgloRjQPJ"
       },
       "artists": [
         {
-          "name": "Kaaris",
-          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+          "name": "Scridge",
+          "url": "https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU"
         },
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+          "name": "Oussama",
+          "url": "https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml"
         }
       ],
-      "duration_ms": 181275,
-      "name": "QU\u00c9 LO QUE",
-      "url": "https://open.spotify.com/track/0q6LKoEDUwO7DJZsuZcxcN"
+      "duration_ms": 182000,
+      "name": "Parle Pas",
+      "url": "https://open.spotify.com/track/2yNX0x2kAXhfjWvaTYCYN5"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
+      "album": {
+        "name": "C'est de la Cali",
+        "url": "https://open.spotify.com/album/4hcyzMtlhQdTxpxXqDL8jI"
+      },
+      "artists": [
+        {
+          "name": "Houari",
+          "url": "https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 167013,
+      "name": "Vanill\u00e9e",
+      "url": "https://open.spotify.com/track/2OrVl8djetZs39Mr3Ujkaf"
+    },
+    {
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
@@ -109,7 +165,39 @@
       "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
+      "album": {
+        "name": "S7aba",
+        "url": "https://open.spotify.com/album/1USAkcnuETLU0G7pdOXe6v"
+      },
+      "artists": [
+        {
+          "name": "Asmae",
+          "url": "https://open.spotify.com/artist/22axSYd0A2j0jpnlf6tkyg"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "S7aba",
+      "url": "https://open.spotify.com/track/1ilM1fLpgTmrErtPrWjCP0"
+    },
+    {
+      "added_at": "2024-07-03 05:59:41",
+      "album": {
+        "name": "LV",
+        "url": "https://open.spotify.com/album/6ZDribH9XHfeMilznJ2YmS"
+      },
+      "artists": [
+        {
+          "name": "Smurxa",
+          "url": "https://open.spotify.com/artist/14vgRvHLwVocqfsOWht6wB"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "LV",
+      "url": "https://open.spotify.com/track/3PDz3mtJB61Zpc8Bq8ui51"
+    },
+    {
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/30v3HmAMMHUgEC8ux25PLr"
@@ -125,7 +213,7 @@
       "url": "https://open.spotify.com/track/1N8G6PUj14v0VG8evbRSxp"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Mes Lov\u00e9s",
         "url": "https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT"
@@ -145,23 +233,7 @@
       "url": "https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
-      "album": {
-        "name": "LV",
-        "url": "https://open.spotify.com/album/6ZDribH9XHfeMilznJ2YmS"
-      },
-      "artists": [
-        {
-          "name": "Smurxa",
-          "url": "https://open.spotify.com/artist/14vgRvHLwVocqfsOWht6wB"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "LV",
-      "url": "https://open.spotify.com/track/3PDz3mtJB61Zpc8Bq8ui51"
-    },
-    {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "MEC DE CIT\u00c9 SIMPLE",
         "url": "https://open.spotify.com/album/1VF9TOozMuDyuFU5maRA6M"
@@ -181,7 +253,7 @@
       "url": "https://open.spotify.com/track/2fAymB6lhuXEQOhIrJZERU"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Tout g\u00e2ch\u00e9",
         "url": "https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7"
@@ -197,7 +269,7 @@
       "url": "https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Wayeh",
         "url": "https://open.spotify.com/album/4DvrgdEh0hGPDxR02sNkUV"
@@ -213,7 +285,7 @@
       "url": "https://open.spotify.com/track/037wIgLisUOMSRfLRrB38O"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Samira",
         "url": "https://open.spotify.com/album/2WrIHAV81oNqgoMikM6kFJ"
@@ -229,7 +301,7 @@
       "url": "https://open.spotify.com/track/0Ey3GrVLmtUuOdFSWoYhc1"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
@@ -249,23 +321,7 @@
       "url": "https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
-      "album": {
-        "name": "So7ba",
-        "url": "https://open.spotify.com/album/3bFQ38gXLJgtxR6SGraJSX"
-      },
-      "artists": [
-        {
-          "name": "ONZY",
-          "url": "https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD"
-        }
-      ],
-      "duration_ms": 173658,
-      "name": "So7ba",
-      "url": "https://open.spotify.com/track/72Hxn5mWGhp1CDh6ZFT6zd"
-    },
-    {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Hakayet",
         "url": "https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC"
@@ -281,7 +337,7 @@
       "url": "https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "M\u00e9lanine",
         "url": "https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO"
@@ -301,7 +357,7 @@
       "url": "https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Confidences",
         "url": "https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE"
@@ -321,7 +377,7 @@
       "url": "https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Adrenalina (feat. BLANCO, Marracash)",
         "url": "https://open.spotify.com/album/6aWHd2y7YNkH8GgKAZUkGC"
@@ -345,7 +401,7 @@
       "url": "https://open.spotify.com/track/5jbvKJAsPdwfRocC4GD0tv"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Lalla",
         "url": "https://open.spotify.com/album/5OXNr5pjxuzvHgWTV4mRp0"
@@ -365,23 +421,7 @@
       "url": "https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
-      "album": {
-        "name": "Paprika",
-        "url": "https://open.spotify.com/album/2y3nSOKzHqCC6CDk4juId6"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Paprika",
-      "url": "https://open.spotify.com/track/7kS2AVRk5Yj6BTj8PyJFfC"
-    },
-    {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "SPIDER",
         "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
@@ -401,7 +441,7 @@
       "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Otra",
         "url": "https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF"
@@ -417,7 +457,23 @@
       "url": "https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
+      "album": {
+        "name": "So7ba",
+        "url": "https://open.spotify.com/album/3bFQ38gXLJgtxR6SGraJSX"
+      },
+      "artists": [
+        {
+          "name": "ONZY",
+          "url": "https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD"
+        }
+      ],
+      "duration_ms": 173658,
+      "name": "So7ba",
+      "url": "https://open.spotify.com/track/72Hxn5mWGhp1CDh6ZFT6zd"
+    },
+    {
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Quill\u00e9",
         "url": "https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF"
@@ -437,7 +493,7 @@
       "url": "https://open.spotify.com/track/05tF2Drqpc0hbHyh071354"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Oh qu'elle est belle",
         "url": "https://open.spotify.com/album/2kFUXzU7bQLQCaUXu3OCC5"
@@ -457,7 +513,7 @@
       "url": "https://open.spotify.com/track/10zo4OGj1ijR4TaVi526xr"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "LOCO",
         "url": "https://open.spotify.com/album/3oR3u9aONQNmyyn8SqSA5N"
@@ -477,7 +533,7 @@
       "url": "https://open.spotify.com/track/1WVesbZHbBbFBEbrnk1Nnb"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "4MOTION",
         "url": "https://open.spotify.com/album/1S5teq1mi2YJxAH1tcB44E"
@@ -497,7 +553,7 @@
       "url": "https://open.spotify.com/track/6ieP0aiCmwen9DShYLJO5r"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Day One",
         "url": "https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L"
@@ -517,7 +573,7 @@
       "url": "https://open.spotify.com/track/2HimJmsy7QZOauXXvlCd2m"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "ICEBERG",
         "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
@@ -533,7 +589,7 @@
       "url": "https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Wahala (feat. Olamide)",
         "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
@@ -553,7 +609,7 @@
       "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Chambre 140 (Part.3)",
         "url": "https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT"
@@ -573,7 +629,7 @@
       "url": "https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -593,7 +649,7 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Fake",
         "url": "https://open.spotify.com/album/3pYbxtdmGzydNPWWlOd81Y"
@@ -609,7 +665,7 @@
       "url": "https://open.spotify.com/track/53DpbBbpjG9XbjfYX41I6h"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Chambre 140 (Part.1)",
         "url": "https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s"
@@ -629,7 +685,7 @@
       "url": "https://open.spotify.com/track/0EqzmPWtJPcFvJfsa9rga7"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Tshwala Bam (feat. S.N.E, EeQue)",
         "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
@@ -657,7 +713,7 @@
       "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Tiki Taka",
         "url": "https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq"
@@ -677,7 +733,7 @@
       "url": "https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "MA DOUCE",
         "url": "https://open.spotify.com/album/2ySxKt2YEOhxUcF0Iw5X1R"
@@ -697,7 +753,7 @@
       "url": "https://open.spotify.com/track/3G9yB5mhAfdq3toymB5Pug"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "ICEBERG",
         "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
@@ -713,7 +769,7 @@
       "url": "https://open.spotify.com/track/4nQfvKT9yLvccSIpQgJ8ME"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "DRAMA",
         "url": "https://open.spotify.com/album/3eqisrlNJL0vyCAezWELR3"
@@ -729,7 +785,7 @@
       "url": "https://open.spotify.com/track/028TQoY1jsSbLp5gUjNXph"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Sokkar",
         "url": "https://open.spotify.com/album/6LufOTjtT03JshmT4eT7np"
@@ -745,7 +801,7 @@
       "url": "https://open.spotify.com/track/22MZ14wFJ0DQUAaRy50uEW"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Madama",
         "url": "https://open.spotify.com/album/4uhbVUiV2gfJxb35hfw66m"
@@ -761,7 +817,7 @@
       "url": "https://open.spotify.com/track/6jzV27cHgFjY5Cbl6HP8XK"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "POPO",
         "url": "https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo"
@@ -777,27 +833,7 @@
       "url": "https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
-      "album": {
-        "name": "PIZZA KEBAB Vol. 1",
-        "url": "https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        },
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "Safi Safi (feat. Draganov)",
-      "url": "https://open.spotify.com/track/6f8PWwc97weAep3rXAeXyv"
-    },
-    {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Je M'en Fous",
         "url": "https://open.spotify.com/album/06ZRa1jHSnD74FYyQXADbd"
@@ -821,27 +857,7 @@
       "url": "https://open.spotify.com/track/0D5ZNFuO7cN9xvhYQKdj9t"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
-      "album": {
-        "name": "LA MELO EST GANGX",
-        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
-      },
-      "artists": [
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "NOTRE DAME",
-      "url": "https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8"
-    },
-    {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Yemma",
         "url": "https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA"
@@ -857,7 +873,7 @@
       "url": "https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC"
@@ -873,7 +889,7 @@
       "url": "https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "ADIOS",
         "url": "https://open.spotify.com/album/4mdCltLodqqsRC9hcCTxCd"
@@ -889,7 +905,7 @@
       "url": "https://open.spotify.com/track/79714I6JXdiD0qsTDeoNwp"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "Wsalni MSG",
         "url": "https://open.spotify.com/album/0QftcGAPGyjwlZespn29DU"
@@ -909,23 +925,7 @@
       "url": "https://open.spotify.com/track/5REou7BKcQgFUOe6tTUXBD"
     },
     {
-      "added_at": "2024-07-01 13:08:25",
-      "album": {
-        "name": "Nous deux",
-        "url": "https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 221653,
-      "name": "Nous deux",
-      "url": "https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3"
-    },
-    {
-      "added_at": "2024-07-01 13:08:25",
+      "added_at": "2024-07-03 05:59:41",
       "album": {
         "name": "DELLALI (feat. Hamza)",
         "url": "https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7"

@@ -1,6 +1,6 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 207995,
+  "num_followers": 208120,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
-        "name": "ANDO",
-        "url": "https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Gittobeatz",
-          "url": "https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp"
-        }
-      ],
-      "duration_ms": 172774,
-      "name": "ANDO",
-      "url": "https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
         "name": "WYA",
         "url": "https://open.spotify.com/album/510YwmkYmdNRSYPQSxDV2O"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 196363,
       "name": "WYA",
       "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
+        "name": "ANDO",
+        "url": "https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Gittobeatz",
+          "url": "https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp"
+        }
+      ],
+      "duration_ms": 172774,
+      "name": "ANDO",
+      "url": "https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu"
     },
     {
       "added_at": "2024-06-21 09:06:20",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
-        "name": "Gimme A Second",
-        "url": "https://open.spotify.com/album/01wFnLBPNdYcg05kJDkdbQ"
-      },
-      "artists": [
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 173067,
-      "name": "Gimme A Second",
-      "url": "https://open.spotify.com/track/1xcMA2bFuMseSFaJgpSeXx"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -1655,22 +1635,6 @@
       "duration_ms": 143789,
       "name": "OKI DOKI",
       "url": "https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
-        "name": "Quien Es Dei V?",
-        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 162244,
-      "name": "Quien Es Dei V?",
-      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
     },
     {
       "added_at": "2024-06-21 09:06:20",
@@ -1699,6 +1663,22 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
+        "name": "Quien Es Dei V?",
+        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 162244,
+      "name": "Quien Es Dei V?",
+      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
         "name": "SAKURA",
         "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 279893,
       "name": "ESKELETO",
       "url": "https://open.spotify.com/track/1jPff2HChF9ZahcdogUaCX"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
+        "name": "Gimme A Second",
+        "url": "https://open.spotify.com/album/01wFnLBPNdYcg05kJDkdbQ"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 173067,
+      "name": "Gimme A Second",
+      "url": "https://open.spotify.com/track/1xcMA2bFuMseSFaJgpSeXx"
     },
     {
       "added_at": "2024-06-21 09:06:20",
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
+        "name": "SAKURA",
+        "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 175456,
+      "name": "YO LO SO\u00d1\u00c9",
+      "url": "https://open.spotify.com/track/68qjM8nSoUj8YQOJuu6hZ8"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
         "name": "Si La Mami",
         "url": "https://open.spotify.com/album/79uKrGBtEMy9IhnbH3sM5c"
       },
@@ -1835,26 +1855,6 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
-        "name": "PESO COMPLETO",
-        "url": "https://open.spotify.com/album/0omumEPaOKxBunEn2xh0zQ"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "PESO COMPLETO",
-      "url": "https://open.spotify.com/track/1nCXy1RQQYMgt97DO8uCSI"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
         "name": "Single",
         "url": "https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW"
       },
@@ -1887,6 +1887,26 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
+        "name": "PESO COMPLETO",
+        "url": "https://open.spotify.com/album/0omumEPaOKxBunEn2xh0zQ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "PESO COMPLETO",
+      "url": "https://open.spotify.com/track/1nCXy1RQQYMgt97DO8uCSI"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
         "name": "Yankee 150",
         "url": "https://open.spotify.com/album/6ufsNn6vIdR75yr6uYZW9F"
       },
@@ -1907,26 +1927,6 @@
       "duration_ms": 242667,
       "name": "Yankee 150",
       "url": "https://open.spotify.com/track/28BSTgZH1ckI8Xfy8LXaRz"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
-        "name": "SAKURA",
-        "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
-      },
-      "artists": [
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 175456,
-      "name": "YO LO SO\u00d1\u00c9",
-      "url": "https://open.spotify.com/track/68qjM8nSoUj8YQOJuu6hZ8"
     },
     {
       "added_at": "2024-06-21 09:06:20",
@@ -2015,30 +2015,6 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
-        "name": "NO SON KLLE",
-        "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "NO SON KLLE",
-      "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -2059,6 +2035,30 @@
       "duration_ms": 205144,
       "name": "UNA NOCHE EN MEDELL\u00cdN - REMIX",
       "url": "https://open.spotify.com/track/6ejks4eS7DOoYW8hrpRcDV"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
+        "name": "NO SON KLLE",
+        "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "NO SON KLLE",
+      "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
     },
     {
       "added_at": "2024-06-21 09:06:20",

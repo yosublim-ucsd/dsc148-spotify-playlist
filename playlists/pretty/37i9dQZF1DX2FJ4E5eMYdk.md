@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,600 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,625 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 24 | [Opposite House](https://open.spotify.com/track/2XpsvLcddOSFanKBCZCEBR) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Mangy Love](https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld) | 4:14 |
 | 25 | [Goodbye Summer](https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5) | [Shannon Shaw](https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq) | [Shannon In Nashville](https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt) | 2:43 |
 | 26 | [Baby Bluebird](https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:49 |
-| 27 | [Lose My Mind](https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Cheers](https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB) | 3:48 |
-| 28 | [Seaquest](https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd) | [Sleepy Sun](https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0) | [Private Tales](https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6) | 4:26 |
-| 29 | [The Sorry Sweater](https://open.spotify.com/track/06gBjl6WD3l4ExKfelGkW5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [The Sorry Sweater](https://open.spotify.com/album/63uqMPsXQz1BXFi2vHCpiC) | 3:26 |
+| 27 | [Seaquest](https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd) | [Sleepy Sun](https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0) | [Private Tales](https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6) | 4:26 |
+| 28 | [The Sorry Sweater](https://open.spotify.com/track/06gBjl6WD3l4ExKfelGkW5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [The Sorry Sweater](https://open.spotify.com/album/63uqMPsXQz1BXFi2vHCpiC) | 3:26 |
+| 29 | [Lose My Mind](https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Cheers](https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB) | 3:48 |
 | 30 | [Automechanic](https://open.spotify.com/track/2olbQTZqVPYON832yjCQuF) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [Automechanic](https://open.spotify.com/album/1pfjL9bWfGdlnWUvkxwePA) | 3:48 |
 | 31 | [Where Do You Go When You Dream](https://open.spotify.com/track/2bdDETZsaSuA00ctnPEnLX) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain](https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI) | 5:51 |
 | 32 | [Glass Jar](https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Sneaker Waves](https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2) | 4:05 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 44 | [About a Stranger](https://open.spotify.com/track/1Y6jgCIu6QVk2ZlvsunRI1) | [Chris Robinson Brotherhood](https://open.spotify.com/artist/7Jgf8XBIsOlXS1XOTOwz4A) | [Phosphorescent Harvest](https://open.spotify.com/album/1ZDQsr1Vgc48eLezq4xvBL) | 5:07 |
 | 45 | [Hummingbird](https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Vanishing Shores](https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU) | 3:32 |
 | 46 | [Cosmic American Blues](https://open.spotify.com/track/4S057bezdn8681JCxHCUfc) | [OJR](https://open.spotify.com/artist/3BxLJvBTizcXZfwkydW2oT) | [Cosmic American Blues](https://open.spotify.com/album/5QorcySCg1FnehS2GM7aHA) | 4:09 |
-| 47 | [More Of The Same](https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [LONER](https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr) | 4:08 |
-| 48 | [Confidence Man](https://open.spotify.com/track/6GLha5Z5Xj0TLdSzLjrDVC) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Confidence Man](https://open.spotify.com/album/1OqEjshsbgop2XCGBLOioB) | 4:42 |
+| 47 | [Confidence Man](https://open.spotify.com/track/6GLha5Z5Xj0TLdSzLjrDVC) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Confidence Man](https://open.spotify.com/album/1OqEjshsbgop2XCGBLOioB) | 4:42 |
+| 48 | [More Of The Same](https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [LONER](https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr) | 4:08 |
 | 49 | [Wild Heart](https://open.spotify.com/track/2jhCa4f4eQmynH1IKJ5k5a) | [Kashena Sampson](https://open.spotify.com/artist/4tFBS73AOrz19igc1nTjUt) | [Wild Heart](https://open.spotify.com/album/0qnnjt02keWTODhegEvQ09) | 3:42 |
 | 50 | [Game Show](https://open.spotify.com/track/6qyiAHaQPi1xwT4nVeGR99) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Game Show](https://open.spotify.com/album/51w6jyrf1eUiUVyJJQnKcm) | 2:42 |
 | 51 | [Attention](https://open.spotify.com/track/0q3jG8hRgWj9AR2OOJUOYe) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [Access](https://open.spotify.com/album/5N8N92LZ5MwYBAxlaXFHnA) | 2:57 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 56 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 |
 | 57 | [The Light Of Day](https://open.spotify.com/track/4vev473dJkBpiChkglAscC) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [The Light Of Day](https://open.spotify.com/album/64tiQFJ0vMllTaFYDgWaRs) | 2:52 |
 | 58 | [Heart Slows Down](https://open.spotify.com/track/7Js8VMfRprNih6qsOTmaqH) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Karma For Cheap](https://open.spotify.com/album/68dLi9hK6bq6R7jUmmkBFD) | 4:03 |
-| 59 | [Althea](https://open.spotify.com/track/7zf6cdLb3qUrba0K5Zc6DI) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Althea](https://open.spotify.com/album/3mtIlJKedR6XTPhKWqeWaQ) | 4:12 |
-| 60 | [Fireflies](https://open.spotify.com/track/2FaMaqqsh3rYNvcny78PYN) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Fireflies](https://open.spotify.com/album/1LzF7kQRLgvFUiBF0qG8iB) | 4:51 |
+| 59 | [Fireflies](https://open.spotify.com/track/2FaMaqqsh3rYNvcny78PYN) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Fireflies](https://open.spotify.com/album/1LzF7kQRLgvFUiBF0qG8iB) | 4:51 |
+| 60 | [Althea](https://open.spotify.com/track/7zf6cdLb3qUrba0K5Zc6DI) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Althea](https://open.spotify.com/album/3mtIlJKedR6XTPhKWqeWaQ) | 4:12 |
 
 Snapshot ID: `ZmvAQAAAAABRdSQpZgkzHuu2RrHWp3MF`

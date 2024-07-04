@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Back To Life / Wilderness",
+        "url": "https://open.spotify.com/album/2RGDWh0g3Y66Yk2wNfG3zF"
+      },
+      "artists": [
+        {
+          "name": "Andreas Saag",
+          "url": "https://open.spotify.com/artist/5fq236aSg3s8I4WsrV6nbP"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 522784,
+      "name": "Back To Life (Full Mix)",
+      "url": "https://open.spotify.com/track/2Pjd6MtP3tSTvT7ZXWXA8q"
+    },
+    {
+      "album": {
         "name": "Barely Breaking Even (Ron Trent & Matthias Heilbronn Remixes)",
         "url": "https://open.spotify.com/album/12p8KeNs0Km1N8JE9b7el2"
       },
@@ -184,7 +202,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 589746,
       "name": "Barely Breaking Even - Matthias Heilbronn's BKNY Mix",
       "url": "https://open.spotify.com/track/6Und1Kb0x2sPA2fMQaRH2W"
@@ -202,7 +220,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 530757,
       "name": "Beats",
       "url": "https://open.spotify.com/track/0tsLU5zBNECt6wpBnarQs0"
@@ -278,7 +296,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 326546,
       "name": "Calinda - Club Mix",
       "url": "https://open.spotify.com/track/0C1loegZKOZCHvQD5buUy9"
@@ -336,7 +354,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 374124,
       "name": "Chipko Chipko",
       "url": "https://open.spotify.com/track/6F5PnnsCwLp8WFvqBSxe7t"
@@ -358,7 +376,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 170694,
       "name": "Count You In",
       "url": "https://open.spotify.com/track/66ccmJw57D8HRXm89dtBFG"
@@ -432,6 +450,24 @@
       "duration_ms": 383027,
       "name": "Dama s Salon - Main Mix",
       "url": "https://open.spotify.com/track/0AGoXq0EqhndctR4vuOzcU"
+    },
+    {
+      "album": {
+        "name": "Outline",
+        "url": "https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V"
+      },
+      "artists": [
+        {
+          "name": "Gino Soccio",
+          "url": "https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508120,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4"
     },
     {
       "album": {
@@ -580,7 +616,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 433034,
       "name": "E Samba - Club Mix",
       "url": "https://open.spotify.com/track/0piWS6CqL9AqUp62YmdhPV"
@@ -634,7 +670,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 247133,
       "name": "Family Man - 2017 Remaster",
       "url": "https://open.spotify.com/track/56yLJIyy1EfAyujm5HSxJR"
@@ -714,7 +750,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 351500,
       "name": "Fun Fun - Extended Mix",
       "url": "https://open.spotify.com/track/5nujMloLJ1w3HejDWEo03p"
@@ -780,6 +816,24 @@
       "duration_ms": 420866,
       "name": "Get Your Mind Together",
       "url": "https://open.spotify.com/track/5PvABE0j3KXjrAKDLEmAuR"
+    },
+    {
+      "album": {
+        "name": "Ginger (Feel Good)",
+        "url": "https://open.spotify.com/album/6qmw05iQrBvOnMMcWIDyjK"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166384,
+      "name": "Ginger (Feel Good)",
+      "url": "https://open.spotify.com/track/0lDb4lRcpgiH698Y1tavNi"
     },
     {
       "album": {
@@ -921,6 +975,24 @@
     },
     {
       "album": {
+        "name": "Hey Baby",
+        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236307,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
+    },
+    {
+      "album": {
         "name": "You Are Bound By Nothing EP",
         "url": "https://open.spotify.com/album/0gwxENU8ewEcFCw3CQYtj8"
       },
@@ -957,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "How I Feel",
+        "url": "https://open.spotify.com/album/42f5IWubZit8UWi9dMUA9H"
+      },
+      "artists": [
+        {
+          "name": "1-800 GIRLS",
+          "url": "https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323000,
+      "name": "How I Feel",
+      "url": "https://open.spotify.com/track/20ZM010DgP7NYaLWIbaEMF"
+    },
+    {
+      "album": {
         "name": "When Will We Land?",
         "url": "https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM"
       },
@@ -968,7 +1058,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 138951,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/3NZz7DWeVQesSOn6mO39F7"
@@ -1275,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "Le voie le soleil (Mixes de lumi\u00e8re)",
+        "url": "https://open.spotify.com/album/2gBHjO4znwy0zvxxkigjUZ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Prins",
+          "url": "https://open.spotify.com/artist/6IaquY5i703QOVd31pHN2l"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370866,
+      "name": "Le voie le soleil - Original Full",
+      "url": "https://open.spotify.com/track/6iv6WGROya0W1UE3J608k3"
+    },
+    {
+      "album": {
         "name": "Let's Hold Our Hands Together Remixes",
         "url": "https://open.spotify.com/album/0qyWanycAfh9MDLCswu5rR"
       },
@@ -1493,6 +1601,42 @@
     },
     {
       "album": {
+        "name": "Pigna",
+        "url": "https://open.spotify.com/album/5v0rRHYTEggTCkUQSWIqxl"
+      },
+      "artists": [
+        {
+          "name": "Yarni",
+          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277867,
+      "name": "Midnight Getaway",
+      "url": "https://open.spotify.com/track/2fsoIJDXpypgCP9aquwOYC"
+    },
+    {
+      "album": {
+        "name": "Mr Dynamite (Revenge Mix)",
+        "url": "https://open.spotify.com/album/6o0PmYt7AUezKB7Gqevwbi"
+      },
+      "artists": [
+        {
+          "name": "Karr\u00e9m",
+          "url": "https://open.spotify.com/artist/1jD3jAZVB4hjHGDck4JRp5"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363984,
+      "name": "Mr Dynamite (Extended Revenge Mix)",
+      "url": "https://open.spotify.com/track/2Y0t356idoAlX7g6pgt7TL"
+    },
+    {
+      "album": {
         "name": "Get Nowt",
         "url": "https://open.spotify.com/album/5cwy8yd0WRJavPkRimJe3W"
       },
@@ -1667,6 +1811,28 @@
     },
     {
       "album": {
+        "name": "Party People",
+        "url": "https://open.spotify.com/album/4kObAHtYFkEQ8nHr3E0T9i"
+      },
+      "artists": [
+        {
+          "name": "Mind Electric",
+          "url": "https://open.spotify.com/artist/69980mQFGok7v7sniw1zgL"
+        },
+        {
+          "name": "Mighty Mouse",
+          "url": "https://open.spotify.com/artist/7L2YO3SQWLLDsYkpv0Ju4K"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202751,
+      "name": "Party People - Mighty Mouse Remix",
+      "url": "https://open.spotify.com/track/1QWRCzXrJGLnWlG21ykhc6"
+    },
+    {
+      "album": {
         "name": "Party Tonight (Turbotito & Ragz Rework)",
         "url": "https://open.spotify.com/album/79tz7hGcjMgRuxcOfYk696"
       },
@@ -1708,6 +1874,28 @@
       "duration_ms": 322777,
       "name": "Perth",
       "url": "https://open.spotify.com/track/2jjXzs4XS9Kcmf9iSUbYuU"
+    },
+    {
+      "album": {
+        "name": "Nice7 EP",
+        "url": "https://open.spotify.com/album/2r57E5ejpLooSXXi8fAuEi"
+      },
+      "artists": [
+        {
+          "name": "NiCe7",
+          "url": "https://open.spotify.com/artist/6qBmPOu2NuZtyODRNSfUDw"
+        },
+        {
+          "name": "Audiojack",
+          "url": "https://open.spotify.com/artist/3Uvzk4iffO4mvchgRNJjbs"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466564,
+      "name": "Point - Audiojack Remix",
+      "url": "https://open.spotify.com/track/1KLJbPjIfLfNOFdxq74Flv"
     },
     {
       "album": {
@@ -1798,7 +1986,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 176105,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i"
@@ -1820,7 +2008,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 450466,
       "name": "Remember Me - Deep Zone Mix",
       "url": "https://open.spotify.com/track/4pGvDgVwmSvFEpHiieC1w9"
@@ -1892,10 +2080,28 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 431600,
       "name": "Sambaya",
       "url": "https://open.spotify.com/track/7lFEEoPO3AwGRbTGl2xtvc"
+    },
+    {
+      "album": {
+        "name": "Blue Breeze",
+        "url": "https://open.spotify.com/album/6V0vITSPGYans9CoyHkkVi"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Sinking Sailor",
+      "url": "https://open.spotify.com/track/3SqFhJ4LlJCxic3BCrXegz"
     },
     {
       "album": {
@@ -1946,7 +2152,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 181319,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
@@ -2022,10 +2228,28 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 650750,
       "name": "Stoppage Time",
       "url": "https://open.spotify.com/track/6sJxWXxzDEe9LfFcYTif4l"
+    },
+    {
+      "album": {
+        "name": "Underground Alternatives",
+        "url": "https://open.spotify.com/album/4seR9L4jUm7oFTJkaFdAMp"
+      },
+      "artists": [
+        {
+          "name": "Nick Holder",
+          "url": "https://open.spotify.com/artist/2XyH5i2qSPSmSkv0Ck9mBF"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468000,
+      "name": "Summer Daze",
+      "url": "https://open.spotify.com/track/2sbUWtAhUyGYXiCch6OcmO"
     },
     {
       "album": {
@@ -2040,7 +2264,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 344920,
       "name": "Sun",
       "url": "https://open.spotify.com/track/0c7V10APHbimDgQppV8dFz"
@@ -2062,6 +2286,28 @@
       "duration_ms": 344999,
       "name": "Sun",
       "url": "https://open.spotify.com/track/3yb4akoM3pD2epSSrfx9Es"
+    },
+    {
+      "album": {
+        "name": "Sunshine Inc.",
+        "url": "https://open.spotify.com/album/0jYVg1Tdpd3Q1YCbmthrey"
+      },
+      "artists": [
+        {
+          "name": "Biesmans",
+          "url": "https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz"
+        },
+        {
+          "name": "Johannes Albert",
+          "url": "https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183079,
+      "name": "Sunshine Inc. - Radio Edit",
+      "url": "https://open.spotify.com/track/77qzZgkHqHoze2wukHqYxP"
     },
     {
       "album": {
@@ -2098,6 +2344,24 @@
       "duration_ms": 547818,
       "name": "Tano",
       "url": "https://open.spotify.com/track/2Qd2fXZ3bKLGYIQ7PlYCxD"
+    },
+    {
+      "album": {
+        "name": "Crucial Traxx 2",
+        "url": "https://open.spotify.com/album/08ODIg23Pb0HosUR7YMItA"
+      },
+      "artists": [
+        {
+          "name": "Marius Acke",
+          "url": "https://open.spotify.com/artist/0Lw5pKGnd1vtOG64sPCXkY"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372286,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/7Ei6PfVidrj7ohoms295nf"
     },
     {
       "album": {
@@ -2174,6 +2438,24 @@
       "duration_ms": 312431,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/3bjx5In6MlYVbyrsJ2Lbe2"
+    },
+    {
+      "album": {
+        "name": "MJD Trax Vol. 1",
+        "url": "https://open.spotify.com/album/7JLrBTYcBtjUaBQHZVhXu7"
+      },
+      "artists": [
+        {
+          "name": "Maurice Joshua",
+          "url": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385560,
+      "name": "This Is Acid - KnT Dance Mix",
+      "url": "https://open.spotify.com/track/39U4AKQyGFJMWhbOzfFkl7"
     },
     {
       "album": {
@@ -2290,6 +2572,24 @@
       "duration_ms": 238228,
       "name": "What U Want - Edit",
       "url": "https://open.spotify.com/track/6NvjuIDIoOx0LKVoiJ5VQa"
+    },
+    {
+      "album": {
+        "name": "Catching Wild, Pt. 2",
+        "url": "https://open.spotify.com/album/2FzLU9ux79YhiEBiAftdE2"
+      },
+      "artists": [
+        {
+          "name": "K-Lone",
+          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330378,
+      "name": "Yeah Yeah Yeah Yeah",
+      "url": "https://open.spotify.com/track/0DCYkiHRSlVMHLc2zuFRnl"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3y3XCQ.md) - [plain]
 
 > This is Thursday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,262 likes - 43 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,263 likes - 43 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3y3XCQ.md) - [plain]
 | 26 | [Sparks Against the Sun](https://open.spotify.com/track/3Z6YLC5MoKWjqepMsH7k6k) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [No Devolución](https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT) | 4:45 |
 | 27 | [Friends In The Armed Forces](https://open.spotify.com/track/4IALJqOdZE5pwUaL6ag1Ko) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 4:10 |
 | 28 | [Streaks in the Sky](https://open.spotify.com/track/6gHLLRQFPezsdsDieIVbJ5) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Waiting](https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa) | 4:26 |
-| 29 | [Dead Songs](https://open.spotify.com/track/6n8fU7QWxnywGUQbCFqyTF) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Kill The House Lights](https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP) | 2:52 |
+| 29 | [Ladies And Gentlemen: My Brother, The Failure](https://open.spotify.com/track/2cnaAWNXkZnCaRN6OZWaBS) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Kill The House Lights](https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP) | 4:12 |
 | 30 | [A Darker Forest](https://open.spotify.com/track/52rlffXbQz0acv4hYV3YDr) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [No Devolución](https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT) | 3:39 |
 | 31 | [As He Climbed The Dark Mountain](https://open.spotify.com/track/0CraZjvIB4XJ87tC7N5Zcn) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 3:01 |
 | 32 | [Porcelain](https://open.spotify.com/track/0FvQmcMVyGBBVjI81CvEbh) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Waiting](https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa) | 4:36 |
-| 33 | [Ladies And Gentlemen: My Brother, The Failure](https://open.spotify.com/track/2cnaAWNXkZnCaRN6OZWaBS) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Kill The House Lights](https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP) | 4:12 |
+| 33 | [Dead Songs](https://open.spotify.com/track/6n8fU7QWxnywGUQbCFqyTF) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Kill The House Lights](https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP) | 2:52 |
 | 34 | [No Answers](https://open.spotify.com/track/1bOU4Dk4iw4N2XXP3JRm0P) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [No Devolución](https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT) | 4:52 |
 | 35 | [Resuscitation of a Dead Man](https://open.spotify.com/track/6V2cc0uw6vMEDGsCEF6N1k) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 3:22 |
 | 36 | [Dying in New Brunswick](https://open.spotify.com/track/2HYHnHXUSQwczdpFQKW7xg) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Waiting](https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa) | 4:02 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3y3XCQ.md) - [plain]
 | 42 | [Introduction](https://open.spotify.com/track/530YND7Asd4qwUgcXXVQ8b) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Waiting](https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa) | 1:58 |
 | 43 | [Love Has Led Us Astray](https://open.spotify.com/track/5jA3QscamkgTWvlw44eIo4) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 4:39 |
 
-Snapshot ID: `ZoHxgAAAAABzITrwrzpSGU5mpkzQtAr5`
+Snapshot ID: `ZoNDAAAAAAAQbzk27Mv4Yv40/VKyAhRB`

@@ -1,6 +1,6 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 10s",
-  "num_followers": 150737,
+  "num_followers": 150739,
   "original_name": "Good Feeling 10s",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2022-06-29 10:22:13",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
-    },
-    {
-      "added_at": "2022-06-29 10:22:13",
-      "album": {
         "name": "Currents",
         "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 216320,
       "name": "The Less I Know The Better",
       "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
+    },
+    {
+      "added_at": "2022-06-29 10:22:13",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
       "added_at": "2022-06-29 10:22:13",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-06-29 10:22:13",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "That's What I Like",
-      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
-    },
-    {
-      "added_at": "2022-06-29 10:22:13",
-      "album": {
         "name": "A Head Full of Dreams",
         "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
       },
@@ -379,26 +363,6 @@
     {
       "added_at": "2022-06-29 10:22:13",
       "album": {
-        "name": "One Kiss (with Dua Lipa)",
-        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 214846,
-      "name": "One Kiss (with Dua Lipa)",
-      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
-    },
-    {
-      "added_at": "2022-06-29 10:22:13",
-      "album": {
         "name": "TESTING",
         "url": "https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa"
       },
@@ -419,6 +383,42 @@
     {
       "added_at": "2022-06-29 10:22:13",
       "album": {
+        "name": "One Kiss (with Dua Lipa)",
+        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 214846,
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "added_at": "2022-06-29 10:22:13",
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "That's What I Like",
+      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
+    },
+    {
+      "added_at": "2022-06-29 10:22:13",
+      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
@@ -431,22 +431,6 @@
       "duration_ms": 233720,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
-    },
-    {
-      "added_at": "2022-06-29 10:22:13",
-      "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 278719,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
     },
     {
       "added_at": "2022-06-29 10:22:13",
@@ -471,18 +455,18 @@
     {
       "added_at": "2022-06-29 10:22:13",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+      "duration_ms": 278719,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
     },
     {
       "added_at": "2022-06-29 10:22:13",
@@ -575,6 +559,22 @@
       "duration_ms": 248413,
       "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
       "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
+    },
+    {
+      "added_at": "2022-06-29 10:22:13",
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": "2022-06-29 10:22:13",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-06-29 10:22:13",
       "album": {
-        "name": "Youngblood (Deluxe)",
-        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
-    },
-    {
-      "added_at": "2022-06-29 10:22:13",
-      "album": {
         "name": "Layers",
         "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 195546,
       "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
       "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
+    },
+    {
+      "added_at": "2022-06-29 10:22:13",
+      "album": {
+        "name": "Youngblood (Deluxe)",
+        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
     },
     {
       "added_at": "2022-06-29 10:22:13",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-06-29 10:22:13",
       "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+    },
+    {
+      "added_at": "2022-06-29 10:22:13",
+      "album": {
         "name": "1989 (Deluxe)",
         "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 247160,
       "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
       "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
-    },
-    {
-      "added_at": "2022-06-29 10:22:13",
-      "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2022-06-29 10:22:13",
@@ -999,30 +999,6 @@
     {
       "added_at": "2022-06-29 10:22:13",
       "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
-      "url": "https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi"
-    },
-    {
-      "added_at": "2022-06-29 10:22:13",
-      "album": {
         "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
         "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
       },
@@ -1051,6 +1027,30 @@
       "duration_ms": 188453,
       "name": "Love You Like A Love Song",
       "url": "https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4"
+    },
+    {
+      "added_at": "2022-06-29 10:22:13",
+      "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+      "url": "https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi"
     },
     {
       "added_at": "2022-06-29 10:22:13",

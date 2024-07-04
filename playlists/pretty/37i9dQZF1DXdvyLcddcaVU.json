@@ -1,12 +1,12 @@
 {
   "description": "#fyp\n",
-  "num_followers": 557675,
+  "num_followers": 558564,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn69kgAAAACOHJv38XIeYaAseJ2aJ273",
+  "snapshot_id": "ZoVArwAAAAASyObDBTs5XdszTJ3pKpfx",
   "tracks": [
     {
       "added_at": "2024-05-31 14:55:38",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4"
     },
     {
+      "added_at": "2024-06-28 13:41:38",
+      "album": {
+        "name": "Dougie",
+        "url": "https://open.spotify.com/album/0WdAEGM93b6WNp9rVSNeih"
+      },
+      "artists": [
+        {
+          "name": "K2S",
+          "url": "https://open.spotify.com/artist/5a9tCrOZBHyFC1LhydD704"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Dougie",
+      "url": "https://open.spotify.com/track/2dh4i6rwmQ5qsoRafiylo6"
+    },
+    {
       "added_at": "2024-05-17 15:22:51",
       "album": {
         "name": "M\u00e9lanine",
@@ -141,6 +157,22 @@
       "url": "https://open.spotify.com/track/4DpyGhHSEcum0tJzkqiIxJ"
     },
     {
+      "added_at": "2024-04-26 15:04:17",
+      "album": {
+        "name": "Parler tout bas",
+        "url": "https://open.spotify.com/album/0cISJv7xclDDO4wKFH8ldc"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "duration_ms": 201750,
+      "name": "Parler tout bas",
+      "url": "https://open.spotify.com/track/78llSmtimcWfFlybSZlmJz"
+    },
+    {
       "added_at": "2024-05-24 12:29:51",
       "album": {
         "name": "Wa zebi",
@@ -173,52 +205,20 @@
       "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
     },
     {
-      "added_at": "2024-06-28 13:41:38",
+      "added_at": "2024-06-21 11:57:28",
       "album": {
-        "name": "VENI VIDI VICI",
-        "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
+        "name": "Un Petit",
+        "url": "https://open.spotify.com/album/2x7WvHHWdN2S9wUPu0t3lg"
       },
       "artists": [
         {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+          "name": "B.O Wunna",
+          "url": "https://open.spotify.com/artist/2WfCynvKp4DlJVsZ2E4yNg"
         }
       ],
-      "duration_ms": 165813,
-      "name": "No lo s\u00e9",
-      "url": "https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r"
-    },
-    {
-      "added_at": "2024-04-19 14:36:32",
-      "album": {
-        "name": "Michael Jordan",
-        "url": "https://open.spotify.com/album/56C3vM0iBhNvx6p3i29ugU"
-      },
-      "artists": [
-        {
-          "name": "DA Uzi",
-          "url": "https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf"
-        }
-      ],
-      "duration_ms": 223141,
-      "name": "Michael Jordan",
-      "url": "https://open.spotify.com/track/6zUuYG5WmHSHNoZQ13TiT2"
-    },
-    {
-      "added_at": "2024-06-28 13:41:38",
-      "album": {
-        "name": "Dougie",
-        "url": "https://open.spotify.com/album/0WdAEGM93b6WNp9rVSNeih"
-      },
-      "artists": [
-        {
-          "name": "K2S",
-          "url": "https://open.spotify.com/artist/5a9tCrOZBHyFC1LhydD704"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Dougie",
-      "url": "https://open.spotify.com/track/2dh4i6rwmQ5qsoRafiylo6"
+      "duration_ms": 200904,
+      "name": "Un Petit",
+      "url": "https://open.spotify.com/track/768cduZH8Vv4lYnM4lkEt9"
     },
     {
       "added_at": "2024-05-17 15:22:51",
@@ -241,56 +241,36 @@
       "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
     },
     {
-      "added_at": "2024-05-03 14:40:23",
+      "added_at": "2024-04-19 14:36:32",
       "album": {
-        "name": "Boucan (feat. Franglish)",
-        "url": "https://open.spotify.com/album/6SHZjDJD8769qn7l5kGp4r"
+        "name": "Michael Jordan",
+        "url": "https://open.spotify.com/album/56C3vM0iBhNvx6p3i29ugU"
       },
       "artists": [
         {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "DA Uzi",
+          "url": "https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf"
         }
       ],
-      "duration_ms": 171216,
-      "name": "Boucan (feat. Franglish)",
-      "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
-    },
-    {
-      "added_at": "2024-04-26 15:04:17",
-      "album": {
-        "name": "Parler tout bas",
-        "url": "https://open.spotify.com/album/0cISJv7xclDDO4wKFH8ldc"
-      },
-      "artists": [
-        {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
-        }
-      ],
-      "duration_ms": 201750,
-      "name": "Parler tout bas",
-      "url": "https://open.spotify.com/track/78llSmtimcWfFlybSZlmJz"
+      "duration_ms": 223141,
+      "name": "Michael Jordan",
+      "url": "https://open.spotify.com/track/6zUuYG5WmHSHNoZQ13TiT2"
     },
     {
       "added_at": "2024-06-28 13:41:38",
       "album": {
-        "name": "Adieu",
-        "url": "https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl"
+        "name": "VENI VIDI VICI",
+        "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
       },
       "artists": [
         {
-          "name": "J\u00e9r\u00e9my Frerot",
-          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
         }
       ],
-      "duration_ms": 184356,
-      "name": "Adieu",
-      "url": "https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN"
+      "duration_ms": 165813,
+      "name": "No lo s\u00e9",
+      "url": "https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r"
     },
     {
       "added_at": "2024-03-01 21:24:53",
@@ -313,6 +293,26 @@
       "url": "https://open.spotify.com/track/1pA6YWfmMgbKHk36LtlcUP"
     },
     {
+      "added_at": "2024-05-03 14:40:23",
+      "album": {
+        "name": "Boucan (feat. Franglish)",
+        "url": "https://open.spotify.com/album/6SHZjDJD8769qn7l5kGp4r"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 171216,
+      "name": "Boucan (feat. Franglish)",
+      "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
+    },
+    {
       "added_at": "2024-05-07 12:10:49",
       "album": {
         "name": "Fleur froide",
@@ -331,6 +331,22 @@
       "duration_ms": 200586,
       "name": "Ride",
       "url": "https://open.spotify.com/track/2CBymCr3yvqbxyZpLyZRbW"
+    },
+    {
+      "added_at": "2024-06-28 13:41:38",
+      "album": {
+        "name": "Adieu",
+        "url": "https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9my Frerot",
+          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+        }
+      ],
+      "duration_ms": 184356,
+      "name": "Adieu",
+      "url": "https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN"
     },
     {
       "added_at": "2024-06-28 13:41:38",
@@ -435,22 +451,6 @@
       "duration_ms": 214961,
       "name": "Que du sal commence - Pongi (feat. Ave Le Roi & Master Virus) - Instrumental",
       "url": "https://open.spotify.com/track/7coNPBxI25o6hQsZEYKaaH"
-    },
-    {
-      "added_at": "2024-06-21 11:57:28",
-      "album": {
-        "name": "Un Petit",
-        "url": "https://open.spotify.com/album/2x7WvHHWdN2S9wUPu0t3lg"
-      },
-      "artists": [
-        {
-          "name": "B.O Wunna",
-          "url": "https://open.spotify.com/artist/2WfCynvKp4DlJVsZ2E4yNg"
-        }
-      ],
-      "duration_ms": 200904,
-      "name": "Un Petit",
-      "url": "https://open.spotify.com/track/768cduZH8Vv4lYnM4lkEt9"
     },
     {
       "added_at": "2024-06-28 13:41:38",

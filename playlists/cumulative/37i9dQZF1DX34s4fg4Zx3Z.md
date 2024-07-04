@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Kim Chi Sun
+> Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Kevindauroi
 
-1,693 songs - 4 day 3 hr 15 min
+1,694 songs - 4 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1686,6 +1686,7 @@
 | [Đừng Qua Mặt Em](https://open.spotify.com/track/6c6E4OUS8NOl5HkuvAF2ji) | [Nguyên Newin](https://open.spotify.com/artist/3etJVaUy2ifwOSySSxTrZt) | [Đừng Qua Mặt Em](https://open.spotify.com/album/2aAkmVyyZuByStQkTwlaDR) | 2:52 | 2022-10-31 | 2022-11-16 |
 | [Đừng Scam Tim Em](https://open.spotify.com/track/1Bv1QfH1UnvjkAitOKBL1l) | [SASSY](https://open.spotify.com/artist/4S4bIRzJUtv95EX72sKM1i), [14 Casper](https://open.spotify.com/artist/0zo8kCJVktn7oPnzpkbC2p), [Hagii](https://open.spotify.com/artist/1DssaUxEkGQqdudezOKylI) | [Đừng Scam Tim Em](https://open.spotify.com/album/0A59ijoM3DytdO5xRtLWWa) | 3:45 | 2022-06-16 | 2023-01-06 |
 | [Đừng Tin Vào Bài Hát Buồn](https://open.spotify.com/track/39sr7WmNVOAibfSl2RrVgv) | [Đặng Tuấn Vũ](https://open.spotify.com/artist/215WQLToYXwGfSazi1b8bB), [Truc Ban Bun](https://open.spotify.com/artist/1gRltC2Wy0Gi2cxsDDJrh6) | [Đừng Tin Vào Bài Hát Buồn](https://open.spotify.com/album/1JFQg9wi763cRBJfGC7orb) | 4:49 | 2024-06-24 |  |
+| [Đừng Xa Anh Nhé \(feat\. Harvey\)](https://open.spotify.com/track/4jWxeq0IpdNhEaBzkNNwTf) | [Kevindauroi](https://open.spotify.com/artist/7idMddC7XksYOUjJRzN1yA) | [Đừng Xa Anh Nhé \(feat\. Harvey\)](https://open.spotify.com/album/07uBgWGc474GhOKp8ULZ8j) | 3:50 | 2024-07-03 |  |
 | [Đừng Yêu Ai Đó Quá Nhiều](https://open.spotify.com/track/3GnXVyn1BZrYPn84Gsm5QE) | [Khiem](https://open.spotify.com/artist/2xyEAgqFAAy5yqRZ7mHd9c) | [Đừng Yêu Ai Đó Quá Nhiều](https://open.spotify.com/album/7L2Fsw0n86BqVqmCrcpF2l) | 5:41 | 2023-08-01 | 2023-10-24 |
 | [Đừng Yêu Bằng Lời Hứa](https://open.spotify.com/track/5fjLjEkR3BFvULCku2e4Mp) | [Luke D](https://open.spotify.com/artist/6Q8rdOp4MwNFF18K75sMzZ) | [Đừng Yêu Bằng Lời Hứa](https://open.spotify.com/album/2HVZIAQakqGoIBPkjS8rIc) | 3:30 | 2023-11-16 | 2023-11-30 |
 | [Đừng Đi Mà](https://open.spotify.com/track/5i81BidjU5L5Iv1huU9Gcs) | [Baliw Andy](https://open.spotify.com/artist/2Kln7vQxfOmzqPqB0SHNLZ) | [Đừng Đi Mà](https://open.spotify.com/album/70RdRPFPF9FVnwACbO43pj) | 3:05 | 2024-02-01 | 2024-04-24 |

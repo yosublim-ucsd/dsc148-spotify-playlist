@@ -1,12 +1,12 @@
 {
-  "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 121914,
+  "description": "This Is Herencia de Patrones. Los temas esenciales, todos en una lista.",
+  "num_followers": 121966,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAACYaQ70Yce3yihPugEVdSG0",
+  "snapshot_id": "ZoNDAAAAAABm6Jmhk9WjOSoOd/s51N7D",
   "tracks": [
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry For The Wait 2",
+        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 268527,
+      "name": "Fabi",
+      "url": "https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "T\u00e1ctico",
         "url": "https://open.spotify.com/album/0FvfpAJbIcL6nGve8NSd3m"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 268527,
-      "name": "Fabi",
-      "url": "https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sorry For The Wait",
         "url": "https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ"
       },
@@ -755,26 +755,6 @@
       "duration_ms": 132527,
       "name": "Intro",
       "url": "https://open.spotify.com/track/1mFjOuLYXLEe2Pe27mlWBC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Es Casualidad",
-        "url": "https://open.spotify.com/album/0Tl4y30AejX8M4gERMahsg"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 162531,
-      "name": "No Es Casualidad",
-      "url": "https://open.spotify.com/track/2XbojtQDggjVsEGkB5pUye"
     },
     {
       "added_at": null,
@@ -815,6 +795,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Es Casualidad",
+        "url": "https://open.spotify.com/album/0Tl4y30AejX8M4gERMahsg"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 162531,
+      "name": "No Es Casualidad",
+      "url": "https://open.spotify.com/track/2XbojtQDggjVsEGkB5pUye"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como Debe Ser",
         "url": "https://open.spotify.com/album/0tQPxSvQvoCWF2p2ziWmqM"
       },
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HP Everything",
+        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 169629,
+      "name": "Ric Flair",
+      "url": "https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "99 Problemas",
         "url": "https://open.spotify.com/album/2d5jDHiiFvFnxLO3pFVpeA"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 192718,
       "name": "99 Problemas",
       "url": "https://open.spotify.com/track/6Td09iZqppMRhWaCCJiplg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HP Everything",
-        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 169629,
-      "name": "Ric Flair",
-      "url": "https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm"
     },
     {
       "added_at": null,

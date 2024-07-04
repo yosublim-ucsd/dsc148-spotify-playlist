@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu?si=wH1M\-7yZQCGXxYg6WLgI\-w"> عصام صاصا </a>
+> أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt?si=DkbXglsCRAGxW\-5IwHA\_nA"> حسن شاكوش </a> و <a href="https://open.spotify.com/artist/3K85LdQnIv6Vb2hR4mDeVe?si=nAhLxBeESMuzB7k8OJA91w"> حمادة مجدي </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,651 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,353 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [اتنين بمقام ملايين](https://open.spotify.com/track/0TchhsYsdtIsY6HCJ0YQWL) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اتنين بمقام ملايين](https://open.spotify.com/album/19CKrkJEOEKlPHId6Sex76) | 2:53 |
-| 2 | [قمبلة الجيل \( اختي وصحبتي \)](https://open.spotify.com/track/2qU4cGVCZ6CJQ8RjMHvGvp) | [حمادة مجدي](https://open.spotify.com/artist/3K85LdQnIv6Vb2hR4mDeVe), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [قمبلة الجيل \( اختي وصحبتي \)](https://open.spotify.com/album/1w6Mz1FmDpfmgH044e5Mac) | 2:59 |
+| 1 | [قمبلة الجيل \( اختي وصحبتي \)](https://open.spotify.com/track/2qU4cGVCZ6CJQ8RjMHvGvp) | [حمادة مجدي](https://open.spotify.com/artist/3K85LdQnIv6Vb2hR4mDeVe), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [قمبلة الجيل \( اختي وصحبتي \)](https://open.spotify.com/album/1w6Mz1FmDpfmgH044e5Mac) | 2:59 |
+| 2 | [اتنين بمقام ملايين](https://open.spotify.com/track/0TchhsYsdtIsY6HCJ0YQWL) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اتنين بمقام ملايين](https://open.spotify.com/album/19CKrkJEOEKlPHId6Sex76) | 2:53 |
 | 3 | [ايويا يا حبيبتي وحشتيني](https://open.spotify.com/track/3uwYsiS1nnYDfVQMBbdX2B) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [Kalosha](https://open.spotify.com/artist/33bu3ZoO8twryUNoOLuT1S) | [ايويا يا حبيبتي وحشتيني](https://open.spotify.com/album/7iGVlni4ye8mrzeoxXNE8A) | 7:13 |
 | 4 | [زماني صابني عيار](https://open.spotify.com/track/0zyAjQxKKcs5UAdctKc0xR) | [Magdy El Zahar](https://open.spotify.com/artist/5CSaIf8OAstAYE5oqQeS15), [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [زماني صابني عيار](https://open.spotify.com/album/49BPIEHw4Maf9tDihzYwgb) | 3:09 |
 | 5 | [القاضية \(من فيلم ولاد رزق 3\)](https://open.spotify.com/track/1x77KcxyDUitE4trltji2r) | [Eslam Shendy](https://open.spotify.com/artist/2dYNk7MJlaOMlM9oXbrlfn) | [القاضية \(من فيلم ولاد رزق 3\)](https://open.spotify.com/album/6Cvk4ibByAaFlzNtAbNjZv) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 | 49 | [العودة من بعد الغياب](https://open.spotify.com/track/4NRlZae2zcdVHGauLgJpHX) | [Felo](https://open.spotify.com/artist/4JhWEqWfwTQywn7lKkNWt5) | [العودة من بعد الغياب](https://open.spotify.com/album/1dDpWoqT9YSFfkXzeLzX5Y) | 3:55 |
 | 50 | [Ana Msh Faker El Kobleh](https://open.spotify.com/track/1yJt6UC4eFykMMhT1CrUyD) | [G\. Oka](https://open.spotify.com/artist/6EZ1sLlOJzgFJzfWUnF0Py) | [Ana Msh Faker El Kobleh](https://open.spotify.com/album/69ri14oRZGne9mxRRNdE9G) | 3:02 |
 
-Snapshot ID: `ZnqWFAAAAADS+Zic/y/IBzHSysFcfmyl`
+Snapshot ID: `ZoVGVgAAAAAVrPukG4s7VQbmjDPIJxCP`

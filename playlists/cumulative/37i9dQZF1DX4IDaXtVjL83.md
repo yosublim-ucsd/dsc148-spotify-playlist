@@ -2,7 +2,7 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: BE:FIRSTxATEEZ\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: BE:FIRST X ATEEZ\)
 
 183 songs - 9 hr 43 min
 

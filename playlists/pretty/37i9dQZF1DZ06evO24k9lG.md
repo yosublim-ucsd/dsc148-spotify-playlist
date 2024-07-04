@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24k9lG.md) - [plain]
 
 ### [This Is Binomio de Oro de América](https://open.spotify.com/playlist/37i9dQZF1DZ06evO24k9lG)
 
-> This is Binomio de Oro de América\. The essential tracks, all in one playlist.
+> This Is Binomio de Oro de América\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,942 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,964 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Niña Bonita](https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 5:10 |
-| 2 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/3oCmlSBfi8soFalJfvijby) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/6j9PHfD1KPVV8ombMkucdF) | 4:59 |
+| 1 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/3oCmlSBfi8soFalJfvijby) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/6j9PHfD1KPVV8ombMkucdF) | 4:59 |
+| 2 | [Niña Bonita](https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 5:10 |
 | 3 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/6f9wNWLVMRX9QbsStbaI4Q) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY) | 4:54 |
 | 4 | [Olvídala](https://open.spotify.com/track/3HRyO1rUpfegp52HN6ZSyw) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [2.000](https://open.spotify.com/album/2fYRNfiFD6ZxvpzF2EykRV) | 5:04 |
 | 5 | [Me Ilusione](https://open.spotify.com/track/20jSoyCuEIjuq9eKCYHpLK) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 5:00 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24k9lG.md) - [plain]
 | 13 | [Dificil de igualar](https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 5:03 |
 | 14 | [Manantial De Amor](https://open.spotify.com/track/7Jj7xLUrsvHCiwOsNxzPPC) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Seguimos Por Lo Alto](https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0) | 4:21 |
 | 15 | [Una Como Tu](https://open.spotify.com/track/0EMt8VJkhRztiR2MRnjAK7) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY) | 4:47 |
-| 16 | [Mi Segunda Vida](https://open.spotify.com/track/2aRFBt9T9HrNAjP5pwl8wd) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Haciendo Historia](https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr) | 4:36 |
-| 17 | [Realízame mis sueños](https://open.spotify.com/track/1HM7juD4lOMRM7tLwaM9hO) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/6j9PHfD1KPVV8ombMkucdF) | 4:40 |
+| 16 | [Realízame mis sueños](https://open.spotify.com/track/1HM7juD4lOMRM7tLwaM9hO) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/6j9PHfD1KPVV8ombMkucdF) | 4:40 |
+| 17 | [Mi Segunda Vida](https://open.spotify.com/track/2aRFBt9T9HrNAjP5pwl8wd) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Haciendo Historia](https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr) | 4:36 |
 | 18 | [Te Haré Feliz](https://open.spotify.com/track/4Con9ddUgt05U6Ea5QY0tC) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Seguimos Por Lo Alto](https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0) | 4:44 |
 | 19 | [Lejos De Ti](https://open.spotify.com/track/6IsW8iRbvM8esvCgRvsR2Q) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [2.000](https://open.spotify.com/album/2fYRNfiFD6ZxvpzF2EykRV) | 4:57 |
 | 20 | [Volvio El Dolor](https://open.spotify.com/track/2SV9OTkT0LZGCrGFY7cr1f) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [A Su Gusto](https://open.spotify.com/album/2vAJSOQt8Fa6yOSYqQcXQS) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24k9lG.md) - [plain]
 | 49 | [Acuerdate De Mi](https://open.spotify.com/track/4A8lkKChFBIOniZvmhD0mD) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 4:49 |
 | 50 | [Dime Quien](https://open.spotify.com/track/0kcsEbRnHAF3cr8uJneW84) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Todo Corazón](https://open.spotify.com/album/6IJ6INX6TF29ZLLCXLpfbD) | 4:02 |
 
-Snapshot ID: `ZoHxgAAAAABx3TYaa7GGXmbrqHc2pc9X`
+Snapshot ID: `ZoNDAAAAAABRcrgWqliA5FvMyq72/gvP`

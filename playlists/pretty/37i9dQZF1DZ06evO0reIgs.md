@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 ### [This Is Cynthia Luz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0reIgs)
 
-> This Is Cynthia Luz\. Los temas esenciales, todos en una lista.
+> This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,388 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,376 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 49 | [Feeling](https://open.spotify.com/track/6cz9TcEstLOxC3y4ZZD5Tz) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Menestrel](https://open.spotify.com/artist/3P3lkDIOlpOLZAk3dcjf2i), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Marechal](https://open.spotify.com/artist/2CUoA5eNl575NSKMDwy9Ej), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [300](https://open.spotify.com/album/49aodr19IxR7j392H2CIJm) | 7:00 |
 | 50 | [Sol](https://open.spotify.com/track/6ByREqh9iLLwFUsXVV4Xmb) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Sol](https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo) | 3:09 |
 
-Snapshot ID: `ZoHxgAAAAACvUH29guRd/0CzK+ygXrhq`
+Snapshot ID: `ZoNDAAAAAABIzuylLkpfjzD+XaoNHtxW`

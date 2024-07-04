@@ -11514,7 +11514,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -18336,7 +18336,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -22772,6 +22772,24 @@
       "duration_ms": 158086,
       "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
       "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
+    },
+    {
+      "album": {
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86983,
+      "name": "NIGHTS LIKE THIS",
+      "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
     },
     {
       "album": {
@@ -28260,7 +28278,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"

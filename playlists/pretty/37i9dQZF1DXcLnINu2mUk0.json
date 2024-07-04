@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Richie Campbell, Van Zee",
-  "num_followers": 46211,
+  "num_followers": 46220,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,30 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
+        "name": "I'm Sorry",
+        "url": "https://open.spotify.com/album/6xbIjf6sv5M4I9GT0NuEcj"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "duration_ms": 202280,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/3aml52yDe6ff32XOgZQ0Cb"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
         "name": "ROSAS",
         "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
       },
@@ -495,30 +519,6 @@
       "duration_ms": 179023,
       "name": "Solteiros",
       "url": "https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
-        "name": "I'm Sorry",
-        "url": "https://open.spotify.com/album/6xbIjf6sv5M4I9GT0NuEcj"
-      },
-      "artists": [
-        {
-          "name": "Mizzy Miles",
-          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
-        },
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Piruka",
-          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
-        }
-      ],
-      "duration_ms": 202280,
-      "name": "I'm Sorry",
-      "url": "https://open.spotify.com/track/3aml52yDe6ff32XOgZQ0Cb"
     },
     {
       "added_at": "2024-06-27 23:00:00",

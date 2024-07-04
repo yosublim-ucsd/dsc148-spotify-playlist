@@ -1,6 +1,6 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3039955,
+  "num_followers": 3040032,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Llorar\u00e1s",
-        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 217129,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Amor Libre",
         "url": "https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 210906,
       "name": "Piel de Angel",
       "url": "https://open.spotify.com/track/20PRqcym0a7bvokISwu3d6"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Llorar\u00e1s",
+        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 217129,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Selecao De Ouro Vol.2",
-        "url": "https://open.spotify.com/album/7flgfjMt0hJLUjSm3ipdIX"
-      },
-      "artists": [
-        {
-          "name": "Nelson Ned",
-          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "Quien Eres Tu?",
-      "url": "https://open.spotify.com/track/1g8LiofugZTeOSitfw8KLU"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Mocedades 5",
         "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 187000,
       "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
       "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Selecao De Ouro Vol.2",
+        "url": "https://open.spotify.com/album/7flgfjMt0hJLUjSm3ipdIX"
+      },
+      "artists": [
+        {
+          "name": "Nelson Ned",
+          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "Quien Eres Tu?",
+      "url": "https://open.spotify.com/track/1g8LiofugZTeOSitfw8KLU"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Mis Mejores Canciones",
-        "url": "https://open.spotify.com/album/3t2qZdlJXoWGeenwUPD5qQ"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 217506,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/7aOFPde65u12EJmh1dr7uL"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Porque Te Vas",
         "url": "https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 193133,
       "name": "Soy rebelde",
       "url": "https://open.spotify.com/track/1oaPnvUccVzyjsKFkuE7oA"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Mis Mejores Canciones",
+        "url": "https://open.spotify.com/album/3t2qZdlJXoWGeenwUPD5qQ"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 217506,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/7aOFPde65u12EJmh1dr7uL"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Un Angel",
-        "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
-      },
-      "artists": [
-        {
-          "name": "Pablo Ruiz",
-          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
-        }
-      ],
-      "duration_ms": 190413,
-      "name": "Orgullosa Nena",
-      "url": "https://open.spotify.com/track/2tXPf8RAtIRIoVp0bSOKEr"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Coleccion",
         "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 312120,
       "name": "Guajira guantanamera",
       "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Un Angel",
+        "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ruiz",
+          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "Orgullosa Nena",
+      "url": "https://open.spotify.com/track/2tXPf8RAtIRIoVp0bSOKEr"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/1MOIyZUD4Tm5YaYZxuPz8a"
-      },
-      "artists": [
-        {
-          "name": "Maria Conchita Alonso",
-          "url": "https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9"
-        }
-      ],
-      "duration_ms": 253173,
-      "name": "Acar\u00edciame",
-      "url": "https://open.spotify.com/track/6MVNYTim9yCQMQgnpx517N"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/1YAzo6TPK5unqNDydM4CVb"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 162626,
       "name": "Vuelvo A vivir, Vuelvo A Cantar",
       "url": "https://open.spotify.com/track/7vnQd31ZtmPkw4nWsHiFCz"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/1MOIyZUD4Tm5YaYZxuPz8a"
+      },
+      "artists": [
+        {
+          "name": "Maria Conchita Alonso",
+          "url": "https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9"
+        }
+      ],
+      "duration_ms": 253173,
+      "name": "Acar\u00edciame",
+      "url": "https://open.spotify.com/track/6MVNYTim9yCQMQgnpx517N"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Las Ma\u00f1anitas con Pedro Infante",
-        "url": "https://open.spotify.com/album/5y9itRZM14s667aHYZ3gkE"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "Las ma\u00f1anitas",
-      "url": "https://open.spotify.com/track/4n3u4No9X1Vwqv7mZain9T"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Las Estrellas Del Fonografo RCA Victor",
         "url": "https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 205453,
       "name": "Deja De Llorar",
       "url": "https://open.spotify.com/track/0DlNi5JvOCIxZbwW2uGAXK"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Las Ma\u00f1anitas con Pedro Infante",
+        "url": "https://open.spotify.com/album/5y9itRZM14s667aHYZ3gkE"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "Las ma\u00f1anitas",
+      "url": "https://open.spotify.com/track/4n3u4No9X1Vwqv7mZain9T"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2419,22 +2419,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Dos Idolos Cantando",
-        "url": "https://open.spotify.com/album/34xJsekBz5oh2dgmc0tAfy"
+        "name": "Vestida De Besos",
+        "url": "https://open.spotify.com/album/7pNndCTTAskilWzSjKwaFU"
       },
       "artists": [
         {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        },
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Guadalupe Pineda",
+          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
         }
       ],
-      "duration_ms": 172133,
-      "name": "El Loco (with Javier Sol\u00eds)",
-      "url": "https://open.spotify.com/track/0CFTtVmYOGxriJj1NtPoTW"
+      "duration_ms": 314066,
+      "name": "Coincidir",
+      "url": "https://open.spotify.com/track/3SrhjtntSNqwP70ksoTxmA"
     }
   ],
   "unique_name": "Canciones del Recuerdo",

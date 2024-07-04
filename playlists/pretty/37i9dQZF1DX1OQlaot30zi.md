@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di ANNA, Medy, Achille Lauro, Salmo e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,281 likes - 101 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,294 likes - 101 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

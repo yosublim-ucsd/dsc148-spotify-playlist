@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,467 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,471 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 14 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Linger / Heading For The Door \(Sirius XM Session\)](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 |
 | 15 | [You Could Start A Cult \- Live from Spotify Studios](https://open.spotify.com/track/2fWqTX6zcIHCfhJjLA5pxR) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Live from Spotify Studios](https://open.spotify.com/album/2jTuIdO2IX2TlMyt1dyZxh) | 2:56 |
 | 16 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
-| 17 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 |
-| 18 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
+| 17 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
+| 18 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 |
 | 19 | [あなたの全て](https://open.spotify.com/track/4IOqoYcnwu5kWkmnb2GRAa) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [あなたの全て](https://open.spotify.com/album/6LPKB9E4vKOQaFHytYKePu) | 4:12 |
 | 20 | [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 |
 | 21 | [Loving You Will Be The Death Of Me](https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB) | 2:11 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 95 | [Walked Through Hell](https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Walked Through Hell](https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i) | 3:36 |
 | 96 | [Everglow \- Edit](https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everglow](https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU) | 3:47 |
 | 97 | [Way Back Into Love](https://open.spotify.com/track/0zYP35FfMItfaP6c9gcQZB) | [Hugh Grant](https://open.spotify.com/artist/0dtmYDbYpwcdHPBI1OJatT), [Haley Bennett](https://open.spotify.com/artist/74tNiaBNZ0L0B4bu0lF6r1) | [Music And Lyrics \- Music From and Inspired By The Motion Picture \(International Release\)](https://open.spotify.com/album/67icItKFH7ZFd5FdAZdlhI) | 4:37 |
-| 98 | [Think I'm Gonna Love You](https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb), [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Think I'm Gonna Love You](https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7) | 2:44 |
-| 99 | [Alonica](https://open.spotify.com/track/1T2gpycmBlJ0RkTcIe7f26) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Alonica](https://open.spotify.com/album/4CeQZSPYxRCFhibNMSXdwu) | 3:58 |
+| 98 | [Alonica](https://open.spotify.com/track/1T2gpycmBlJ0RkTcIe7f26) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Alonica](https://open.spotify.com/album/4CeQZSPYxRCFhibNMSXdwu) | 3:58 |
+| 99 | [Think I'm Gonna Love You](https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb), [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Think I'm Gonna Love You](https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7) | 2:44 |
 | 100 | [Haven't You Ever Been In Love Before?](https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:50 |
 
 Snapshot ID: `Zn1+cAAAAABL2m0/Kx21dDWYpbEI/3d9`

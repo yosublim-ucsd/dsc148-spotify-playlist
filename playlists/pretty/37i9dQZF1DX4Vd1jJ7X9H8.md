@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 
 > Groovy, dancy, funky stuff\. When in doubt, turn this on at the party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,348 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,385 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 16 | [Harvest Moon](https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 6:08 |
 | 17 | [YOU'RE THE ONE](https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:47 |
 | 18 | [Experience](https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 2:56 |
-| 19 | [Electric U](https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Electric U](https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY) | 2:51 |
-| 20 | [Some Nights](https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv) | [Class Fools](https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt) | [Some Nights](https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r) | 2:48 |
+| 19 | [Some Nights](https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv) | [Class Fools](https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt) | [Some Nights](https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r) | 2:48 |
+| 20 | [Electric U](https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Electric U](https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY) | 2:51 |
 | 21 | [Loretta](https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Loretta](https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM) | 3:10 |
 | 22 | [Peaceful Life](https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Lorine Chia](https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9) | [Eternal](https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9) | 4:06 |
 | 23 | [Hunnybee](https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR) | 4:28 |

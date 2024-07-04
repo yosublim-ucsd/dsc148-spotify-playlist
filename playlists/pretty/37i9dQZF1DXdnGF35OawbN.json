@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Empez\u00f3 el verano!  El soundtrack del verano 2024 \ud83c\udfdd\ufe0f Cover: KAROL G",
-  "num_followers": 3649914,
+  "num_followers": 3650033,
   "original_name": "Verano Forever",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-06-24 17:25:02",
       "album": {
+        "name": "SI NO ES CONTIGO",
+        "url": "https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "SI NO ES CONTIGO",
+      "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
+    },
+    {
+      "added_at": "2024-06-24 17:25:02",
+      "album": {
         "name": "ADIVINO",
         "url": "https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 278644,
       "name": "ADIVINO",
       "url": "https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd"
-    },
-    {
-      "added_at": "2024-06-24 17:25:02",
-      "album": {
-        "name": "SI NO ES CONTIGO",
-        "url": "https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "SI NO ES CONTIGO",
-      "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
     },
     {
       "added_at": "2024-06-24 17:25:02",
@@ -791,26 +791,6 @@
     {
       "added_at": "2024-06-24 17:25:02",
       "album": {
-        "name": "HUMO",
-        "url": "https://open.spotify.com/album/4IZNJql8GcknfP0DYAsZtE"
-      },
-      "artists": [
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 198081,
-      "name": "HUMO",
-      "url": "https://open.spotify.com/track/6j3PRPNWLutE3CutDzH4uI"
-    },
-    {
-      "added_at": "2024-06-24 17:25:02",
-      "album": {
         "name": "El Conjuntito",
         "url": "https://open.spotify.com/album/2gDoGr6IjyCIKuKNM6rmZZ"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 158711,
       "name": "El Conjuntito",
       "url": "https://open.spotify.com/track/2bipvepI8ridFvIAImR5Xf"
+    },
+    {
+      "added_at": "2024-06-24 17:25:02",
+      "album": {
+        "name": "HUMO",
+        "url": "https://open.spotify.com/album/4IZNJql8GcknfP0DYAsZtE"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 198081,
+      "name": "HUMO",
+      "url": "https://open.spotify.com/track/6j3PRPNWLutE3CutDzH4uI"
     },
     {
       "added_at": "2024-06-24 17:25:02",
@@ -999,22 +999,22 @@
     {
       "added_at": "2024-06-24 17:25:02",
       "album": {
-        "name": "Callaita",
-        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
+        "name": "Tengo Un Plan (Remix)",
+        "url": "https://open.spotify.com/album/13CfzKNWzSAkJj6nsFadsQ"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Key-Key",
+          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
         },
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 250533,
-      "name": "Callaita",
-      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
+      "duration_ms": 215448,
+      "name": "Tengo Un Plan - Remix",
+      "url": "https://open.spotify.com/track/6SJ01hvFkBLTUnkLyZ72G5"
     },
     {
       "added_at": "2024-06-24 17:25:02",
@@ -1039,22 +1039,22 @@
     {
       "added_at": "2024-06-24 17:25:02",
       "album": {
-        "name": "Tengo Un Plan (Remix)",
-        "url": "https://open.spotify.com/album/13CfzKNWzSAkJj6nsFadsQ"
+        "name": "Callaita",
+        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
       },
       "artists": [
         {
-          "name": "Key-Key",
-          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 215448,
-      "name": "Tengo Un Plan - Remix",
-      "url": "https://open.spotify.com/track/6SJ01hvFkBLTUnkLyZ72G5"
+      "duration_ms": 250533,
+      "name": "Callaita",
+      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
     },
     {
       "added_at": "2024-06-24 17:25:02",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-06-24 17:25:02",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 180929,
-      "name": "Me Fui de Vacaciones",
-      "url": "https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T"
+      "duration_ms": 202360,
+      "name": "LA CAPI",
+      "url": "https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw"
     },
     {
       "added_at": "2024-06-24 17:25:02",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2024-06-24 17:25:02",
       "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 202360,
-      "name": "LA CAPI",
-      "url": "https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw"
+      "duration_ms": 180929,
+      "name": "Me Fui de Vacaciones",
+      "url": "https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T"
     },
     {
       "added_at": "2024-06-24 17:25:02",

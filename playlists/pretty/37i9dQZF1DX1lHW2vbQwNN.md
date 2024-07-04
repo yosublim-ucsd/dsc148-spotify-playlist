@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 
 > Taking it back to the 2000s\. Cover: Lil Wayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,839 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,928 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 81 | [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/5r29mFrurlVBbqJzjr2XW6) | [Khia](https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60) | [Thug Misses \(Digitally Remastered\)](https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV) | 3:42 |
 | 82 | [Lemonade](https://open.spotify.com/track/6rUcS9i07F6okIe8wujs5J) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The State vs\. Radric Davis \(Deluxe\)](https://open.spotify.com/album/0VeraxKSlJGusnOHYGOtWq) | 4:06 |
 | 83 | [Pump It Up](https://open.spotify.com/track/7tDbbfzB1d52lWP8rq8zRZ) | [Joe Budden](https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6) | [Joe Budden](https://open.spotify.com/album/5qvTf1qIYr2vkIjFnj8gYD) | 4:11 |
-| 84 | [Slow Jamz \(feat\. Kanye West & Jamie Foxx\)](https://open.spotify.com/track/1boHm9rjmvzxpJASd9dnGK) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Kamikaze](https://open.spotify.com/album/6Xu470gdLgDOnFDj5qND1N) | 3:32 |
-| 85 | [Stuntin' Like My Daddy \- Street](https://open.spotify.com/track/3rMyMv8EjKXoPnaRo2hdJN) | [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Like Father Like Son](https://open.spotify.com/album/3DLSu5fxSIaG7Ph8G5YVBp) | 4:27 |
+| 84 | [Stuntin' Like My Daddy \- Street](https://open.spotify.com/track/3rMyMv8EjKXoPnaRo2hdJN) | [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Like Father Like Son](https://open.spotify.com/album/3DLSu5fxSIaG7Ph8G5YVBp) | 4:27 |
+| 85 | [Slow Jamz \(feat\. Kanye West & Jamie Foxx\)](https://open.spotify.com/track/1boHm9rjmvzxpJASd9dnGK) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Kamikaze](https://open.spotify.com/album/6Xu470gdLgDOnFDj5qND1N) | 3:32 |
 | 86 | [Hip\-Hop](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy) | [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Let's Get Free](https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8) | 3:34 |
 | 87 | [I Luv It](https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [The Inspiration](https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP) | 4:00 |
-| 88 | [Make It Rain](https://open.spotify.com/track/4JPCdSaqs9dJd7RatFSHww) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Me, Myself & I](https://open.spotify.com/album/7L3ybS1mQpWwAiZm4FuNwn) | 4:07 |
-| 89 | [I'm a Thug](https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [THUGS ARE US](https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH) | 4:14 |
+| 88 | [I'm a Thug](https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [THUGS ARE US](https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH) | 4:14 |
+| 89 | [Make It Rain](https://open.spotify.com/track/4JPCdSaqs9dJd7RatFSHww) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Me, Myself & I](https://open.spotify.com/album/7L3ybS1mQpWwAiZm4FuNwn) | 4:07 |
 | 90 | [Like A Pimp](https://open.spotify.com/track/0DW5anNzTO7h0OlKqFsVQ6) | [David Banner](https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO), [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS) | [Mississippi: The Album](https://open.spotify.com/album/6wTmI6YwP14KXnDC35VTT7) | 4:14 |
 | 91 | [Rollout \(My Business\)](https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Word Of Mouf](https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr) | 4:56 |
 | 92 | [Sittin' Sidewayz \(feat\. Big Pokey\)](https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Big Pokey](https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8) | [The People's Champ](https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr) | 3:48 |

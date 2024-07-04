@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,819 likes - 314 songs - 16 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,818 likes - 314 songs - 16 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -255,8 +255,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 245 | [Crown Snatcher](https://open.spotify.com/track/25ehmvLg5D5TH0sd6RabSu) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 2:36 |
 | 246 | [On Em](https://open.spotify.com/track/3AEymnHQj2xn4sROfEvDB6) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [300 Days 300 Nights](https://open.spotify.com/album/7dgbUj8qhJGj7tYsM67JM3) | 3:30 |
 | 247 | [Ride With Shordie, Pt\. 2](https://open.spotify.com/track/05uAvu6nskpw3PNjsOStGd) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:50 |
-| 248 | [Khalil Story](https://open.spotify.com/track/2qo3sb2eqX5jSd4klUhGej) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 1:26 |
-| 249 | [A Lot of Miles](https://open.spotify.com/track/2a9ShljvDrhFRE8DHjJnYu) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:57 |
+| 248 | [A Lot of Miles](https://open.spotify.com/track/2a9ShljvDrhFRE8DHjJnYu) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:57 |
+| 249 | [Khalil Story](https://open.spotify.com/track/2qo3sb2eqX5jSd4klUhGej) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 1:26 |
 | 250 | [Snow](https://open.spotify.com/track/5bs1qEaneeIRXGoZzZroPu) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd) | [Struggle Before Glory](https://open.spotify.com/album/6cguupMoW9kXgg6Nbuk6fC) | 2:51 |
 | 251 | [Pop 1 \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5mQCWOVOD3cbNZwN8Tt41t) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Deadstar 2](https://open.spotify.com/album/1pPpRk6AF8EL19sgm2MkSD) | 2:40 |
 | 252 | [Brick Mason](https://open.spotify.com/track/0S5LLnjm5PbBfWWaU8ZNp7) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [East Atlanta Santa 3](https://open.spotify.com/album/41Mzki3Yox73btDc51evLi) | 1:38 |
@@ -323,4 +323,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 313 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 | 314 | [Peace Of Mind](https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC) | [Heightsbaby](https://open.spotify.com/artist/4fEE1O32L50PqVbKhnfkCD) | [Peace Of Mind](https://open.spotify.com/album/1Kqzy0cn7DIKQKkHqTqQD6) | 2:55 |
 
-Snapshot ID: `AbVpYgAAAACkAZIOMnSEnzms6a7sgQc6`
+Snapshot ID: `AbVvAgAAAAB9Eh9Q9pXOvyHmm1Pnx43V`

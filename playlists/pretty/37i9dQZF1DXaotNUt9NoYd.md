@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,704 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,710 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 24 | [Finding Calmness](https://open.spotify.com/track/5ca7B7Qi2gpzPELK9lBab0) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Finding Calmness](https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu) | 3:28 |
 | 25 | [Awakening](https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 2:37 |
 | 26 | [Further Away](https://open.spotify.com/track/6oUaVedjL2YE7i87ARsNV6) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [Further Away](https://open.spotify.com/album/1kimHIU5zp5n0sR4GNajt2) | 3:18 |
-| 27 | [Giant](https://open.spotify.com/track/1skdG0IokRBAJGHylNqMck) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:35 |
-| 28 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 |
+| 27 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 |
+| 28 | [Giant](https://open.spotify.com/track/1skdG0IokRBAJGHylNqMck) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:35 |
 | 29 | [Mystiqal](https://open.spotify.com/track/3BHlTxvHcHkyPG5X7MXiaN) | [Vugh Gardens](https://open.spotify.com/artist/1HxBL3Ls3YdMjJjFCzqEm6) | [Mystiqal](https://open.spotify.com/album/5n0SyqxC9Tv3q8KrjNJNKC) | 3:28 |
 | 30 | [Repose](https://open.spotify.com/track/7DwWJ7pMpFV6gok50clx3F) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Nautilus](https://open.spotify.com/album/2VasJoI8fBf5tBhf6ozAKL) | 3:33 |
 | 31 | [Sweven](https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Sweven](https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS) | 3:13 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 46 | [As I Lay Here](https://open.spotify.com/track/59QJ83aEkzxOCqeWFbjoKa) | [Jennifer Dileo](https://open.spotify.com/artist/2mB3r3m1RWix0kc0f4qxTT) | [As I Lay Here](https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh) | 3:19 |
 | 47 | [Spirits](https://open.spotify.com/track/7183jbbu97ZBhqkswLCIoi) | [Relaxing Music Therapy](https://open.spotify.com/artist/7xbVj2U2bY22gyZnh04TlN), [Massage Therapy Music](https://open.spotify.com/artist/4hKUd7Y5CiAGqVk2Z4NV9P), [Spa Relaxation](https://open.spotify.com/artist/3zDIu6wCHnyEtTHbQ1JKmB) | [Relaxing SPA & YOGA Moments](https://open.spotify.com/album/24o2VCBFB9p4LpQ2ZG8jkC) | 1:45 |
 | 48 | [Healing Memories](https://open.spotify.com/track/7nd51y4iaZaNLZcbAyQZWK) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Healing Memories](https://open.spotify.com/album/4TdhUIpSL4UeYpSIoCw7my) | 3:22 |
-| 49 | [Andromeda](https://open.spotify.com/track/2vOE9PLXx3MTPy5E0dxPor) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Andromeda](https://open.spotify.com/album/4QF6bAGczBfA3IgNftiaem) | 2:52 |
-| 50 | [Om Mantra](https://open.spotify.com/track/3lSRMSkO5kSKrtst3OJ29L) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Om Mantra](https://open.spotify.com/album/2Rg8NshqLJejf4MgLJK5qZ) | 3:39 |
+| 49 | [Om Mantra](https://open.spotify.com/track/3lSRMSkO5kSKrtst3OJ29L) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Om Mantra](https://open.spotify.com/album/2Rg8NshqLJejf4MgLJK5qZ) | 3:39 |
+| 50 | [Andromeda](https://open.spotify.com/track/2vOE9PLXx3MTPy5E0dxPor) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Andromeda](https://open.spotify.com/album/4QF6bAGczBfA3IgNftiaem) | 2:52 |
 | 51 | [Meditation Winds](https://open.spotify.com/track/2yQpPMB09kt85h5cNibcmM) | [Jessita Reyes](https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL), [Yoga Tribe](https://open.spotify.com/artist/3uC78ojWmi0c7NdLU7uwvY) | [Meditation & Yoga \- Flutes \(Native American Flute & Sounds of Nature for Yoga, Massage, New Age Spa, Zen & Chakra Healing\)](https://open.spotify.com/album/1kcv6KyNliiIB9DniMrBOG) | 5:21 |
 | 52 | [Parallel Dimension](https://open.spotify.com/track/44QFvGC5DRZmuD1gVln7Py) | [Skye Baird](https://open.spotify.com/artist/2oxWaOoXIpRuAtFRSyakJ0) | [Parallel Dimension](https://open.spotify.com/album/6K0Tb9TkswbH1zbCsYibbr) | 3:26 |
 | 53 | [Muladhara \(Root\) \[Chakra\]](https://open.spotify.com/track/0r2yr4DviP7pSCNlRDr0wU) | [Air With Air Rising](https://open.spotify.com/artist/5YZaXFoZZsyjaxoy029RYD) | [7 Om Chanting Meditations](https://open.spotify.com/album/4HOj7igZ84vM6pNfLgJNuX) | 6:01 |

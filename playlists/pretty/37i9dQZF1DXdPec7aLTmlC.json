@@ -1,6 +1,6 @@
 {
   "description": "Hits to boost your mood and fill you with happiness!",
-  "num_followers": 6175440,
+  "num_followers": 6175447,
   "original_name": "Happy Hits!",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Oh, What A Life",
-        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -587,30 +587,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Barbie World (with Aqua) [From Barbie The Album]",
-        "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 109750,
-      "name": "Barbie World (with Aqua) [From Barbie The Album]",
-      "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -631,6 +607,30 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Barbie World (with Aqua) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 109750,
+      "name": "Barbie World (with Aqua) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "My Oh My",
-        "url": "https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed"
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 156155,
-      "name": "My Oh My",
-      "url": "https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx"
+      "duration_ms": 237546,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+        "name": "My Oh My",
+        "url": "https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 237546,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
+      "duration_ms": 156155,
+      "name": "My Oh My",
+      "url": "https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Higher Power",
+        "url": "https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 211294,
+      "name": "Higher Power",
+      "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Beautiful People (feat. Khalid)",
         "url": "https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 182857,
       "name": "Iko Iko (My Bestie)",
       "url": "https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Higher Power",
-        "url": "https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 211294,
-      "name": "Higher Power",
-      "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "What's Love Got to Do with It",
-        "url": "https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 208156,
-      "name": "What's Love Got to Do with It",
-      "url": "https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Way Back Home (feat. Conor Maynard) [Sam Feldt Edit]",
         "url": "https://open.spotify.com/album/13aeLAMXve4Jxd8mNKu068"
       },
@@ -1439,18 +1419,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Kite",
-        "url": "https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4"
+        "name": "What's Love Got to Do with It",
+        "url": "https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno"
       },
       "artists": [
         {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
         }
       ],
-      "duration_ms": 166806,
-      "name": "Kite",
-      "url": "https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT"
+      "duration_ms": 208156,
+      "name": "What's Love Got to Do with It",
+      "url": "https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1467,6 +1451,22 @@
       "duration_ms": 208106,
       "name": "If It's Lovin' That You Want",
       "url": "https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Kite",
+        "url": "https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 166806,
+      "name": "Kite",
+      "url": "https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "The Drum",
+        "url": "https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 189287,
+      "name": "The Drum",
+      "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "The Drum",
-        "url": "https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 189287,
-      "name": "The Drum",
-      "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
     }
   ],
   "unique_name": "Happy Hits!",

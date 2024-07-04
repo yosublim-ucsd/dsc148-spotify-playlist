@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528 likes - 185 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 538 likes - 185 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 49 | [Girl Who Didn't Care](https://open.spotify.com/track/4XCDqYCoYUOc468PUKHgiQ) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Girl Who Didn't Care](https://open.spotify.com/album/40Y4YFAKYGg0vP0gvG7M90) | 3:12 |
 | 50 | [buy me presents](https://open.spotify.com/track/3Cz6MZdwncB4qasyRPen4S) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:57 |
 | 51 | [Angry Woman](https://open.spotify.com/track/58s4yfoJnnlH49KC4UeRxY) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:33 |
-| 52 | [to the grave](https://open.spotify.com/track/5V7wh1SBtYZTqRLEsBuZAL) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 3:57 |
-| 53 | [Betting on Us](https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Betting on Us](https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs) | 2:35 |
+| 52 | [Betting on Us](https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Betting on Us](https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs) | 2:35 |
+| 53 | [to the grave](https://open.spotify.com/track/5V7wh1SBtYZTqRLEsBuZAL) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 3:57 |
 | 54 | [Flame](https://open.spotify.com/track/1EWKlsk5xEsDnejpkPkFVZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 2:24 |
 | 55 | [Don't Want It Back](https://open.spotify.com/track/2yqhHi9QfZ5INE13sS5Bva) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [EVOLution](https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R) | 3:01 |
 | 56 | [Escape](https://open.spotify.com/track/7cki30Fr1WRkFCpRECufLf) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Steph Jones](https://open.spotify.com/artist/1Aed7wBQiH5LSDMmQWnGZw) | [Painting With Dreams](https://open.spotify.com/album/11t999cj3x48JaRSde6s8p) | 3:30 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 108 | [In My Room](https://open.spotify.com/track/6fjK2QHqJybDsUpx0RSPHV) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/47XJwitSW0IxMx1n2jtSbD) | 2:43 |
 | 109 | [If I Fall](https://open.spotify.com/track/6SLqAWFmEBEyjU4QIuEIsc) | [Cole Plante](https://open.spotify.com/artist/0BmgT51Y8JI74rlRK7YcAL), [Myon & Shane 54](https://open.spotify.com/artist/0uXRsluXdi5LtEs8DoFknc), [Ruby O'Dell](https://open.spotify.com/artist/0f2gU2tbpYHLSKtFBnxdg9) | [If I Fall](https://open.spotify.com/album/28HsMk0oE0r8voVBAuSkJJ) | 4:15 |
 | 110 | [Cozy](https://open.spotify.com/track/6c4RrBGXMbzuhj8XwzzWWW) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Cozy](https://open.spotify.com/album/4UMAPxQmkZDLjJYl3tyHu7) | 2:25 |
-| 111 | [Ring](https://open.spotify.com/track/61YRwJhh806c08P61ZWKc5) | [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [How it Used to Feel](https://open.spotify.com/album/1LqOKFe0jiCnmbRfuatV2b) | 3:40 |
-| 112 | [Pretender](https://open.spotify.com/track/23qOFgEan1r0oiAxis6U5K) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Pretender](https://open.spotify.com/album/2fknzhgnc8H82XbX31eE6U) | 2:55 |
+| 111 | [Pretender](https://open.spotify.com/track/23qOFgEan1r0oiAxis6U5K) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Pretender](https://open.spotify.com/album/2fknzhgnc8H82XbX31eE6U) | 2:55 |
+| 112 | [Ring](https://open.spotify.com/track/61YRwJhh806c08P61ZWKc5) | [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [How it Used to Feel](https://open.spotify.com/album/1LqOKFe0jiCnmbRfuatV2b) | 3:40 |
 | 113 | [something worth working on](https://open.spotify.com/track/1nSbS97RaTSBF0ouJyoXM5) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [something worth working on](https://open.spotify.com/album/1J2zpeRhVvBCggMKbLIGIT) | 2:59 |
 | 114 | [There I Said It](https://open.spotify.com/track/2YU14wLn68Wgw2Xhl43G1N) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [There I Said It](https://open.spotify.com/album/3Xr1ZEZdtVCwkvEOHU8Ry6) | 3:47 |
 | 115 | [Ego](https://open.spotify.com/track/4buILkAUAqLxfl8ep4iVrI) | [Rich Edwards](https://open.spotify.com/artist/79v9Al6rSVH9SFk0QzzOl1), [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Ego](https://open.spotify.com/album/71p1O9atppY1mj3GtTBJYN) | 3:13 |
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 125 | [Selfish](https://open.spotify.com/track/04xYbJK43PdehhM2AA4fhi) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story : RETOLD](https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9) | 2:50 |
 | 126 | [Hanging On](https://open.spotify.com/track/6hDXJbOh3PmAO8d6NSfSEv) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Hanging On](https://open.spotify.com/album/0PlU5KBD4gYLyee8ixByoR) | 2:51 |
 | 127 | [Nevermind](https://open.spotify.com/track/2pGb1wcW7PfIJulOQ3G9Cw) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Nevermind](https://open.spotify.com/album/2w0LOmjGXqQ44zGDcW1lAa) | 2:21 |
-| 128 | [Chameleon](https://open.spotify.com/track/2dUbh6RaHpDQd8gTlu2hUg) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Chameleon](https://open.spotify.com/album/2sHZNoBTXZmva4P2CD7DNT) | 3:06 |
-| 129 | [Part Time Lover](https://open.spotify.com/track/5swD4enZDl1r6ynQsTGHJa) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Part Time Lover](https://open.spotify.com/album/0OcjuVP8kAUL2LnNUZwjLa) | 2:53 |
+| 128 | [Part Time Lover](https://open.spotify.com/track/5swD4enZDl1r6ynQsTGHJa) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Part Time Lover](https://open.spotify.com/album/0OcjuVP8kAUL2LnNUZwjLa) | 2:53 |
+| 129 | [Chameleon](https://open.spotify.com/track/2dUbh6RaHpDQd8gTlu2hUg) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Chameleon](https://open.spotify.com/album/2sHZNoBTXZmva4P2CD7DNT) | 3:06 |
 | 130 | [In the End](https://open.spotify.com/track/76ZM2e3QNTG2PXHN6Lhg1h) | [Annika Rose](https://open.spotify.com/artist/3E6TQHXjqR21vX9H0c5mOv) | [In the End](https://open.spotify.com/album/5wqeo9Po4CU3afnDB2RdrU) | 4:14 |
 | 131 | [New Girlfriend](https://open.spotify.com/track/0ceGllCN4PZ6ttayn80HUE) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [New Girlfriend](https://open.spotify.com/album/3Zpdm02aUJtgdpgtCEtVP7) | 2:50 |
 | 132 | [U Sometimes](https://open.spotify.com/track/1w77M7nvWjLJOO1ffSOzua) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Be Alright // U Sometimes](https://open.spotify.com/album/2l9hUZ6VOlwDim9igWpiK5) | 2:48 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 184 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 185 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `AbVpngAAAACSywkkE/LclT1rO/tq6TE3`
+Snapshot ID: `AbVvAgAAAABQH6P9nDbh/2WAdYGFsgpl`

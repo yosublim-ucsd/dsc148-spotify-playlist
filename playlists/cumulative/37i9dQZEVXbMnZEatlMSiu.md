@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-910 songs - 2 day 6 hr 10 min
+911 songs - 2 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,7 +457,7 @@
 | [Spring Snow](https://open.spotify.com/track/0tCr7DoUBSdtdSl0rxZmct) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Lovely Runner, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/69sGrzymuW18usgEvLnvU1) | 3:21 | 2024-05-31 | 2024-06-16 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-04 | 2024-01-11 |
 | [Stars Align \(with Jolin Tsai\)](https://open.spotify.com/track/0xDQPgYdTQZCn92Ee1W0WW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Stars Align \(with Jolin Tsai\)](https://open.spotify.com/album/3NaSfby8UoOmwbNKFlo1zu) | 2:41 | 2021-04-26 | 2021-07-14 |
-| [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 | 2023-01-21 |  |
+| [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 | 2023-01-21 | 2024-07-04 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2021-07-11 | 2021-07-25 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-07-25 | 2023-01-24 |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-02-12 | 2022-03-13 |
@@ -726,6 +726,7 @@
 | [愛我的時候](https://open.spotify.com/track/6us212S3fCRIQwOwNExqLH) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [愛我的時候](https://open.spotify.com/album/6kXiZM2u6c5VdmYcGhtxmh) | 3:44 | 2021-03-27\* | 2021-08-21 |
 | [感情用事](https://open.spotify.com/track/1MzomU1zM1oEuyIAJ1upfu) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 3:57 | 2024-02-07 | 2024-03-12 |
 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 | 2021-03-27\* | 2024-02-09 |
+| [慣老闆 \(feat\. 瘦子E.SO\)](https://open.spotify.com/track/18TOtGEE15qjoaYvB7SB6f) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9), [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [慣老闆 \(feat\. 瘦子E.SO\)](https://open.spotify.com/album/4605CoBjrc184bE7N3kSFJ) | 4:52 | 2024-07-03 |  |
 | [懸日](https://open.spotify.com/track/6zbBfKc4ghXAGtzuXAQptf) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:37 | 2021-08-24 | 2021-09-09 |
 | [戀人](https://open.spotify.com/track/0FeNHq2UAbJQ2qBLiJEXBN) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI) | [戀人群像物語](https://open.spotify.com/album/1Vwx61ldpA8uuTMc6h2Zbx) | 4:13 | 2022-11-26 | 2022-11-28 |
 | [我不是神,我只是平凡卻直拗愛著你的人](https://open.spotify.com/track/1XkaiiA1izzcVhVuhB532l) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [我不是神,我只是平凡卻直拗愛著你的人](https://open.spotify.com/album/7BMCjQbDoNCetLD5sZnKFL) | 4:59 | 2023-04-15 | 2023-04-25 |

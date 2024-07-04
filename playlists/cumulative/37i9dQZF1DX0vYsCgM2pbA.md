@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-184 songs - 11 hr 13 min
+185 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [All Your Love](https://open.spotify.com/track/2oHwD3ipoRTMNgHuZn6qdV) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [All Your Love](https://open.spotify.com/album/6Bg2MeHWdET3UX29orbiym) | 4:45 | 2023-11-09 | 2023-12-11 |
 | [Always Got The Love](https://open.spotify.com/track/5WCvSTVdMrwwk50yGVHm1g) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Always Got The Love](https://open.spotify.com/album/7mV7NuKPXVlRXhE1BodCe1) | 3:27 | 2022-12-01 | 2023-04-22 |
 | [attached \- demo](https://open.spotify.com/track/5hSvUYzplozSK2u7dnJrUo) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x) | [These Are Not My Friends](https://open.spotify.com/album/1liCAmNOPO2u3ZEE6oKiZb) | 2:36 | 2023-11-23 | 2024-01-19 |
-| [Bad For Me](https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Bad For Me](https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz) | 2:57 | 2023-06-01 |  |
+| [Bad For Me](https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Bad For Me](https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz) | 2:57 | 2023-06-01 | 2024-07-04 |
 | [Bang My Line \(feat\. Tkay Maidza\)](https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Bang My Line \(feat\. Tkay Maidza\)](https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt) | 2:33 | 2022-12-01 | 2023-08-15 |
 | [Before It Goes](https://open.spotify.com/track/46ujI4XQnsKwuyq3mK34yV) | [Tijuana Cartel](https://open.spotify.com/artist/5KE0NtjV2Q9ki3i3IE6DdB) | [Alectura](https://open.spotify.com/album/1lIqutur4MwqF4nKrPpT4L) | 5:06 | 2023-08-31 | 2023-09-08 |
 | [Beggin' You](https://open.spotify.com/track/110XNKlluGKyNDKlBle2XD) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [Beggin' You](https://open.spotify.com/album/12LYEydJLy7i3TlDLamRRC) | 3:35 | 2023-11-09 |  |
@@ -103,6 +103,7 @@
 | [Love Type](https://open.spotify.com/track/1e9T91CPoRcdX9oiGRYjmi) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL) | [Love Type](https://open.spotify.com/album/67Uko1GwOThHjiLWdY0fZ2) | 3:35 | 2023-05-25 | 2023-07-31 |
 | [MACHINE](https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MACHINE](https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA) | 3:17 | 2022-12-01 |  |
 | [MDMA \(Caps Should Be A Human Right\)](https://open.spotify.com/track/6OQdZnSSapbrUhWv7Wg18Y) | [The Meeting Tree](https://open.spotify.com/artist/3wOBAJXJ4EFkcBPbaHnBPM) | [MDMA \(Caps Should Be A Human Right\)](https://open.spotify.com/album/4FnI8i77dSwbkXiDes7rhr) | 4:40 | 2022-12-01 | 2023-01-27 |
+| [Medium](https://open.spotify.com/track/6MLh79MhMrzh25OoF4o4hA) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Medium](https://open.spotify.com/album/2NcT8DWACI7PjmoOufep5G) | 3:58 | 2024-02-01 |  |
 | [Miles Away](https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Miles Away](https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa) | 4:28 | 2023-08-24 |  |
 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 | 2022-12-01 | 2024-04-19 |
 | [Miracle Maker \(feat\. Clementine Douglas\)](https://open.spotify.com/track/51mycpP5uFInLw300nestX) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker \(feat\. Clementine Douglas\)](https://open.spotify.com/album/7iBzFQOfChL6eqK5dodErb) | 3:08 | 2024-02-01 |  |

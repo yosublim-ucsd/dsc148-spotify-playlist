@@ -457,6 +457,24 @@
     },
     {
       "album": {
+        "name": "Bla Bla",
+        "url": "https://open.spotify.com/album/1Bz9d2WJ4nYffksQJ7XTAs"
+      },
+      "artists": [
+        {
+          "name": "Nouamane Belaiachi",
+          "url": "https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Bla Bla",
+      "url": "https://open.spotify.com/track/1PlZpPgiBtPlB7uCAYa3ov"
+    },
+    {
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/2BiGqGlzHFZ7KdYuKI1riz"
       },
@@ -808,6 +826,24 @@
       "duration_ms": 177000,
       "name": "Chill",
       "url": "https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03"
+    },
+    {
+      "album": {
+        "name": "DIARY OF A DEAD MAN",
+        "url": "https://open.spotify.com/album/6vxkoCVCD9t5QWbSpeAmP8"
+      },
+      "artists": [
+        {
+          "name": "Tchubi",
+          "url": "https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149096,
+      "name": "CHIRON",
+      "url": "https://open.spotify.com/track/45wxMKFaDHRTLxYxXKl0rc"
     },
     {
       "album": {
@@ -2376,7 +2412,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 186346,
       "name": "Jelaba",
       "url": "https://open.spotify.com/track/2R3LdO45fHZvI0emsSyu8j"
@@ -3411,6 +3447,40 @@
     },
     {
       "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Stryv",
+          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Orso",
+          "url": "https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC"
+        },
+        {
+          "name": "Malachiii",
+          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177598,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
+    },
+    {
+      "album": {
         "name": "Mriyech",
         "url": "https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H"
       },
@@ -3556,7 +3626,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 161693,
       "name": "Normal",
       "url": "https://open.spotify.com/track/0j8vEVsQkarCTSRdzMC5Ps"
@@ -5294,7 +5364,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 184615,
       "name": "Zahri",
       "url": "https://open.spotify.com/track/2zNX2jsAoYjWoSWNvdVzRr"

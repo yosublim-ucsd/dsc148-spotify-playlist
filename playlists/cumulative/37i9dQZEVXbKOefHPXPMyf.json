@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 252456,
       "name": "1000 Pedazos",
       "url": "https://open.spotify.com/track/0BJbrz72CTsOG6wqwEKxTa"
@@ -1626,7 +1626,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 247654,
       "name": "Ag\u00e1rrense De Las Manos - La Selecci\u00f3n de F\u00fatbol de CR",
       "url": "https://open.spotify.com/track/1HX93DYZMF1lCPMW5z3ck2"
@@ -7149,6 +7149,52 @@
     },
     {
       "album": {
+        "name": "CAMUFLADOS",
+        "url": "https://open.spotify.com/album/0qYRiQUyyfiyY19xlL0KSL"
+      },
+      "artists": [
+        {
+          "name": "G -Low",
+          "url": "https://open.spotify.com/artist/7u3mN06fFu2UU2gDmIvRhZ"
+        },
+        {
+          "name": "joztinbwoy",
+          "url": "https://open.spotify.com/artist/05tYZkVD4wrjSjCkc1jyf1"
+        },
+        {
+          "name": "Choliare",
+          "url": "https://open.spotify.com/artist/2rL9gtJEQ2FYuOXT8TjKwT"
+        },
+        {
+          "name": "Adrian Montoya",
+          "url": "https://open.spotify.com/artist/76EKJFiAmJUCdRh3HdOBqE"
+        },
+        {
+          "name": "Hiena Menor",
+          "url": "https://open.spotify.com/artist/5MIMFzRkgaotvo5Pd4xxT9"
+        },
+        {
+          "name": "Parinii",
+          "url": "https://open.spotify.com/artist/2CPAWtscKoKlpBJZnuih2J"
+        },
+        {
+          "name": "Jfet",
+          "url": "https://open.spotify.com/artist/4KK1KbaxBLBXjByxciv2L8"
+        },
+        {
+          "name": "Demon",
+          "url": "https://open.spotify.com/artist/2r9NtZUxSmZ3htEcsdGKbc"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360838,
+      "name": "CAMUFLADOS",
+      "url": "https://open.spotify.com/track/3QaMpvXLP6agQ5gh2K3djw"
+    },
+    {
+      "album": {
         "name": "Oppenheimer (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk"
       },
@@ -8748,7 +8794,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 225973,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/2bl81llf715VEEbAx03yvB"
@@ -35858,7 +35904,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY"
@@ -46950,7 +46996,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 183253,
       "name": "YCQVM",
       "url": "https://open.spotify.com/track/71bGl0FoaBGHNT0CGhVOs1"

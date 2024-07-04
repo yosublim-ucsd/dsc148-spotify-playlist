@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Sad songs 4 sad days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,759,342 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,759,338 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 41 | [Romancera](https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Romancera](https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9) | 3:52 |
 | 42 | [5 > 1](https://open.spotify.com/track/1dX0ZPraR1ZaQ2THFMwEOp) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Baladas Tatuadas Vol\. 1](https://open.spotify.com/album/5EGaYkNFCmG09BkbSYoXS8) | 3:12 |
 | 43 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 |
-| 44 | [HORSES IN HEAVEN](https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [HORSES IN HEAVEN](https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy) | 2:57 |
-| 45 | [50/50](https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 1:47 |
+| 44 | [50/50](https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 1:47 |
+| 45 | [HORSES IN HEAVEN](https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [HORSES IN HEAVEN](https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy) | 2:57 |
 | 46 | [Luna \(pag.1\)](https://open.spotify.com/track/2c6MW214s0JaQBtkQs9saS) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [Luna \(pag.1\)](https://open.spotify.com/album/5UseQdtOQBHEDc7bJhTbrG) | 2:49 |
 | 47 | [Tu Canción](https://open.spotify.com/track/2AS8N3sySr3xDS2dDG6oSv) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Nuestro Año](https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES) | 3:12 |
 | 48 | [Ojos Papel](https://open.spotify.com/track/5SzQY6suUQ69pVovGuhgkJ) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Ojos Papel](https://open.spotify.com/album/4pUpYaz59EsSzIFSr8SHUS) | 2:41 |

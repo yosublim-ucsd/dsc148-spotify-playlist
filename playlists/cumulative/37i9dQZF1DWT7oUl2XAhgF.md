@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-432 songs - 1 day 2 hr 12 min
+433 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Oporto\-Madrid Blvd](https://open.spotify.com/track/3sPLA6G4cB8P8diBopToGT) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Uyxs83rYhuwBDKJschbYw) | 3:29 | 2023-04-21 | 2023-10-28 |
 | [Ordinary Lives](https://open.spotify.com/track/4MU7yhKkOpVVDCWfxTGfxk) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Ordinary Lives](https://open.spotify.com/album/0z87IQzrtDMve4JMe8LZjO) | 3:16 | 2022-01-21 | 2022-07-29 |
 | [Our Love \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0OFSdfkFF5wLszOz0csftu) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:38 | 2021-12-13 | 2023-01-28 |
+| [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 | 2024-07-03 |  |
 | [Paddle to the Stars](https://open.spotify.com/track/74TtehL8KqCN6dvTX6uiRi) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Paddle to the Stars](https://open.spotify.com/album/4BXAPfbjgQM0JEHopQKkFU) | 2:36 | 2021-11-05 | 2022-07-29 |
 | [Pelvis Pusher](https://open.spotify.com/track/6bo1ykqKEAYsdwVtR1ze8x) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Pelvis Pusher](https://open.spotify.com/album/1bmrKIWcFwqW6PwAe5EnI8) | 3:07 | 2021-07-09 | 2022-09-03 |
 | [Piece of Me](https://open.spotify.com/track/5CbcqhKsBbiOsjdkh5Hsea) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/76yrGYfxRIv1FnVU01IhdS) | 3:42 | 2021-07-09 |  |
@@ -431,7 +432,7 @@
 | [World Stand Still](https://open.spotify.com/track/4YXBQ8X4DNVTjco4lUpSFx) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [World Stand Still](https://open.spotify.com/album/08Onlx0pZL8It9PJG8zwgw) | 2:49 | 2023-09-29 | 2024-03-23 |
 | [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 | 2024-06-21 |  |
 | [X Boyfriends](https://open.spotify.com/track/3DYVCuzV31DJAgBbEo0Ae3) | [Ali McGuirk](https://open.spotify.com/artist/1jVXEUkl4AmaDjbLWA9JDM) | [Til It’s Gone](https://open.spotify.com/album/6S8mlOlfA5EM5liaSdKruf) | 2:53 | 2022-09-02 | 2024-04-19 |
-| [X Boyfriends](https://open.spotify.com/track/6OLgvpOn1WTeyrS5UpWpAI) | [Ali McGuirk](https://open.spotify.com/artist/1jVXEUkl4AmaDjbLWA9JDM) | [X Boyfriends](https://open.spotify.com/album/0ZEQ4W92SuEoXauwadG1UW) | 2:53 | 2022-08-26 |  |
+| [X Boyfriends](https://open.spotify.com/track/6OLgvpOn1WTeyrS5UpWpAI) | [Ali McGuirk](https://open.spotify.com/artist/1jVXEUkl4AmaDjbLWA9JDM) | [X Boyfriends](https://open.spotify.com/album/0ZEQ4W92SuEoXauwadG1UW) | 2:53 | 2022-08-26 | 2024-07-04 |
 | [YA YA](https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:34 | 2024-03-29 |  |
 | [You](https://open.spotify.com/track/1GEHrWzUGuhQ7bg97fuaGo) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [You](https://open.spotify.com/album/3z5YjcnJlmbr3Ftzu83K7u) | 3:00 | 2023-08-04 |  |
 | [You](https://open.spotify.com/track/7y8xMbDt5a5XlcRUAyov8N) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Rêverie](https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO) | 3:00 | 2023-08-04 | 2024-04-19 |

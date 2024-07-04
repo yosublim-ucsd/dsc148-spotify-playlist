@@ -1,12 +1,12 @@
 {
   "description": "This is Machine Head. The essential tracks, all in one playlist.",
-  "num_followers": 57229,
+  "num_followers": 57247,
   "original_name": "This Is Machine Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAABBnNyxIYPEx5xhdkBGya/4",
+  "snapshot_id": "ZoNDAAAAAACHZymlijOeY0dszl1w8zqK",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 272665,
       "name": "Is There Anybody Out There?",
       "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burn My Eyes",
-        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 296626,
-      "name": "Davidian",
-      "url": "https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 393026,
+      "name": "Death Church",
+      "url": "https://open.spotify.com/track/7kb1KIpmIOVPBs7uUR1uNg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Supercharger",
         "url": "https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1"
       },
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unto the Locust (Special Edition)",
+        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 343786,
+      "name": "Be Still and Know",
+      "url": "https://open.spotify.com/track/3cVniBBRC955LHAXiXGER0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Burning Red",
         "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
       },
@@ -787,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unto The Locust",
-        "url": "https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3"
+        "name": "The More Things Change...",
+        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
       },
       "artists": [
         {
@@ -796,25 +812,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 343784,
-      "name": "Be Still And Know",
-      "url": "https://open.spotify.com/track/1W7tmSRMAnpCIyRGVAu62h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unto the Locust (Special Edition)",
-        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 371480,
-      "name": "This Is the End",
-      "url": "https://open.spotify.com/track/6uRyY0aHPXEqvV1fiRn7Iq"
+      "duration_ms": 213800,
+      "name": "Struck a Nerve",
+      "url": "https://open.spotify.com/track/296Tab5qscBCWU8rsOb8uf"
     }
   ],
   "unique_name": "This Is Machine Head",

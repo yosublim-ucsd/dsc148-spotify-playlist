@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,019,658 likes - 150 songs - 7 hr 32 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,019,718 likes - 150 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 90 | [HEY HEY](https://open.spotify.com/track/2ogjIP2yhAgRpFVlolez0Z) | [WZ Beat](https://open.spotify.com/artist/7hL2l7lWkA75BpTp7bPEt9), [HISTED](https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD) | [HEY HEY](https://open.spotify.com/album/2PCeDB701jViNYJIV5dSvP) | 1:32 |
 | 91 | [7 Seas](https://open.spotify.com/track/2yCO2rCXSiEv8QypzeMecy) | [LOSTOV](https://open.spotify.com/artist/4iA6lkctWaj1qoPJ65veHb) | [7 Seas](https://open.spotify.com/album/2nEPONY9Pmmpcuo923AIm1) | 2:27 |
 | 92 | [ERA](https://open.spotify.com/track/0ylefvjDVKqGEsMUwMrwTi) | [Nulteex](https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj) | [ERA](https://open.spotify.com/album/0Oc07579Big4BUEMU7n8BH) | 1:16 |
-| 93 | [X\-SLIDE](https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO) | [808iuli](https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li), [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4) | [X\-SLIDE](https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32) | 1:19 |
+| 93 | [X\-SLIDE](https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4), [808iuli](https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li) | [X\-SLIDE](https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32) | 1:19 |
 | 94 | [digiphunk](https://open.spotify.com/track/2QtZI9AahQIZ3B9UY9Q7Xd) | [dashie](https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl) | [digiphunk](https://open.spotify.com/album/6QTs9TrzSqQwr5opTboF4w) | 1:34 |
 | 95 | [twilight](https://open.spotify.com/track/1pr7gWtTcQgUi7i5WKV96K) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Sace](https://open.spotify.com/artist/7reSsIosg88LaPnn8KKlJA), [Silent Boy](https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu) | [twilight](https://open.spotify.com/album/0OmHq8R5hJWBb06CdFYBoY) | 2:11 |
 | 96 | [Set Me Free](https://open.spotify.com/track/76XijXDDDUZI5P8PKQ0uUy) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Set Me Free](https://open.spotify.com/album/3tO2baNThlVGgdXPeocASu) | 3:49 |

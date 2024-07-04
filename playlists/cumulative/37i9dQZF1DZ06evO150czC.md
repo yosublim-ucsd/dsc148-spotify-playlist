@@ -4,7 +4,7 @@
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-58 songs - 4 hr 46 min
+59 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Atos 2 \(Ao Vivo\)](https://open.spotify.com/track/46gZR9rY1vrujQsOm6Iflo) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Atos 2 \(Ao Vivo\)](https://open.spotify.com/album/2e1gED5YRJBQ3Pguz5jEAu) | 5:19 | 2023-11-10 |  |
 | [Desperta](https://open.spotify.com/track/6GFYD6UtdBDBhhqK9L3SlO) | [Cleyde Jane](https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Desperta](https://open.spotify.com/album/7wBBkqiGGGZYVlUuKlixa1) | 3:48 | 2023-07-09 |  |
 | [Deus Proverá](https://open.spotify.com/track/4bRaa8R2awkTROnotcmE9B) | [Casa do Oleiro Adoração](https://open.spotify.com/artist/6lGPisEkgq8UJDUPcKr0Fv), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Deus Proverá](https://open.spotify.com/album/7ATgvDv9nBNW2Y0jTi9pEC) | 5:10 | 2023-07-09 |  |
+| [Ele Não Muda \- Ao Vivo](https://open.spotify.com/track/5CfbgsqU7EEuH3r13XJoCf) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Ele Não Muda \(Ao Vivo\)](https://open.spotify.com/album/6kuJxkE5qwVoYN3e5evSYK) | 8:07 | 2024-07-04 |  |
 | [Entre Para o Templo](https://open.spotify.com/track/4YnvssiwhpmJBrNtEAcAvM) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Entre Para o Templo](https://open.spotify.com/album/5tuFsjabCiRNOawhwZSG4u) | 4:22 | 2023-09-02 |  |
 | [Escolhidas](https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Hellen Miranda](https://open.spotify.com/artist/7psKiyrH4yV89bgVhAxD9r) | [Escolhidas](https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC) | 4:07 | 2023-07-09 |  |
 | [Eu Vim Te Adorar](https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:37 | 2023-07-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,980 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,987 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,10 +80,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 70 | [Because I Don't Love You](https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Because I Don't Love You](https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU) | 3:43 |
 | 71 | [When Spring Comes](https://open.spotify.com/track/6vt4R4q5YL4M2cxl7o6pTe) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [When Spring Comes](https://open.spotify.com/album/38vHJ0XSQiQYLyZjjb09Me) | 3:58 |
 | 72 | [I'll Always Be With You](https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Destined with You \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr) | 3:36 |
-| 73 | [Only you](https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Only you](https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx) | 3:10 |
-| 74 | [Fxxxnds \(Feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Fxxxnds](https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH) | 3:29 |
-| 75 | [Roommates](https://open.spotify.com/track/2FAamYOzmodzpf7x4Yl8UI) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Roommates](https://open.spotify.com/album/5Azd14om1goQJ4koUxhmvS) | 2:30 |
-| 76 | [Thinkin' About You](https://open.spotify.com/track/3GF5L6dW04zWSP9SYAtp5L) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEYnote \#1 \[Thinkin' About You\]](https://open.spotify.com/album/4KBc3OzIr0HAqZPlaTBRye) | 3:07 |
+| 73 | [Fxxxnds \(Feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Fxxxnds](https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH) | 3:29 |
+| 74 | [Only you](https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Only you](https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx) | 3:10 |
+| 75 | [Thinkin' About You](https://open.spotify.com/track/3GF5L6dW04zWSP9SYAtp5L) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEYnote \#1 \[Thinkin' About You\]](https://open.spotify.com/album/4KBc3OzIr0HAqZPlaTBRye) | 3:07 |
+| 76 | [Roommates](https://open.spotify.com/track/2FAamYOzmodzpf7x4Yl8UI) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Roommates](https://open.spotify.com/album/5Azd14om1goQJ4koUxhmvS) | 2:30 |
 | 77 | [Breath](https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Alchemy of Souls, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa) | 4:27 |
 | 78 | [Hello](https://open.spotify.com/track/6Me6uD7KrQ2fS8U8wCiMDY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Romantic Doctor 3 OST Part.1](https://open.spotify.com/album/6nErKEsThTGVCCO4RDiIqE) | 3:50 |
 | 79 | [The Moment You Arrive](https://open.spotify.com/track/74jC2OHiPnRCCCSdBGXHVo) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Tell Me That You Love Me, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3c6lzwgHhaIDSjPRz9zjCq) | 4:10 |

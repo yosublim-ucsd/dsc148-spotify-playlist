@@ -395,6 +395,32 @@
     },
     {
       "album": {
+        "name": "Egyform\u00e1k",
+        "url": "https://open.spotify.com/album/5k0aOqsnIphaSj8tXRHRHq"
+      },
+      "artists": [
+        {
+          "name": "MAJR\u00c9",
+          "url": "https://open.spotify.com/artist/1VP5B0ctEHTMvQsEKNtxmJ"
+        },
+        {
+          "name": "sosehol",
+          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+        },
+        {
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184874,
+      "name": "Egyform\u00e1k",
+      "url": "https://open.spotify.com/track/6fgA2gddZ2AjbM5bHh00xd"
+    },
+    {
+      "album": {
         "name": "Elk\u00e9pzelt H\u0151s",
         "url": "https://open.spotify.com/album/6d6ZFECNuG6rfZ6NT0HZkn"
       },
@@ -536,7 +562,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 97992,
       "name": "Forog",
       "url": "https://open.spotify.com/track/0HqfR7GRs29JY8qOmUXiVy"

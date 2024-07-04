@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Rahel, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: elia, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 221704,
       "name": "25",
       "url": "https://open.spotify.com/track/6I5HZSpS2n8mf0zVJ2jc2w"
+    },
+    {
+      "album": {
+        "name": "2560",
+        "url": "https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv"
+      },
+      "artists": [
+        {
+          "name": "James Gruntz",
+          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198586,
+      "name": "2560",
+      "url": "https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o"
     },
     {
       "album": {
@@ -4108,7 +4126,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 152367,
       "name": "Das Buch",
       "url": "https://open.spotify.com/track/05ma849lXscvph2yKeaNwE"
@@ -4542,7 +4560,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 210742,
       "name": "Deutschland - Edit",
       "url": "https://open.spotify.com/track/1n2gqDlSGj1in0kxdo5My2"
@@ -6831,6 +6849,24 @@
     },
     {
       "album": {
+        "name": "Frei",
+        "url": "https://open.spotify.com/album/4YjaesHivm4qY3dHcvvYfW"
+      },
+      "artists": [
+        {
+          "name": "elia",
+          "url": "https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197957,
+      "name": "Frei",
+      "url": "https://open.spotify.com/track/6htgH0ecztsWPJskOLT6GQ"
+    },
+    {
+      "album": {
         "name": "Fresh Ownder",
         "url": "https://open.spotify.com/album/1EFmBKBuSMIjIKaHxP3j1U"
       },
@@ -6918,6 +6954,24 @@
       "duration_ms": 297265,
       "name": "Future Holds",
       "url": "https://open.spotify.com/track/6YNSajixFoJriODKAsyFAr"
+    },
+    {
+      "album": {
+        "name": "Bisschen mehr Gef\u00fchl",
+        "url": "https://open.spotify.com/album/6A5cTXYzNWTjPBjyaXiDe5"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182535,
+      "name": "F\u00e4llt mir schwer",
+      "url": "https://open.spotify.com/track/1d1QAQ1UwhBMnlLBKLFcyZ"
     },
     {
       "album": {
@@ -7410,6 +7464,24 @@
       "duration_ms": 192889,
       "name": "Goldjunge",
       "url": "https://open.spotify.com/track/43bD0i6yVucxoe2UzycrFH"
+    },
+    {
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6XgVryHaacwllx7VM3C8QL"
+      },
+      "artists": [
+        {
+          "name": "Ben Moon",
+          "url": "https://open.spotify.com/artist/7jbtJh1q1JfzPYL2f7aWzO"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1Ze0eRznafG9ZmBM3AYO6H"
     },
     {
       "album": {
@@ -7966,6 +8038,24 @@
       "duration_ms": 216248,
       "name": "Happy Pills",
       "url": "https://open.spotify.com/track/5joyUy4gvzWYfOxxVOM9QF"
+    },
+    {
+      "album": {
+        "name": "Fast Verworfen",
+        "url": "https://open.spotify.com/album/0XwQfflRASAHKGxszBz1w8"
+      },
+      "artists": [
+        {
+          "name": "Drima",
+          "url": "https://open.spotify.com/artist/0AwzWan8NE7QssrQWbnCcB"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185562,
+      "name": "Hausdach",
+      "url": "https://open.spotify.com/track/0b3p4cbyZGpuj33vtqHkg3"
     },
     {
       "album": {
@@ -9787,6 +9877,24 @@
     },
     {
       "album": {
+        "name": "It\u2019s Time",
+        "url": "https://open.spotify.com/album/6Xy1nJBXfZH3p6hXhzXNpI"
+      },
+      "artists": [
+        {
+          "name": "Palinstar",
+          "url": "https://open.spotify.com/artist/22ahSri8JRQLhq7DYkIbHw"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197334,
+      "name": "It\u2019s Time",
+      "url": "https://open.spotify.com/track/6xXJbCnmFvvHGg0L9fTUpD"
+    },
+    {
+      "album": {
         "name": "ALTARE",
         "url": "https://open.spotify.com/album/2C5JN9X6sONdXFgRwk0aOF"
       },
@@ -10036,7 +10144,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 127916,
       "name": "Kalt",
       "url": "https://open.spotify.com/track/2IVUshvWUJ3pWrlZ5peC2O"
@@ -10144,7 +10252,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 188800,
       "name": "Kauft euch doch ein Eis",
       "url": "https://open.spotify.com/track/2CP8zre0nLhRDHKkejKkqO"
@@ -13714,7 +13822,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 170293,
       "name": "Out in the Cold",
       "url": "https://open.spotify.com/track/4vu3HIJyV7LYBelDGAm6xb"
@@ -14505,6 +14613,28 @@
     },
     {
       "album": {
+        "name": "PULLI",
+        "url": "https://open.spotify.com/album/3XGTJhsJT1MWsFK3yfZvb5"
+      },
+      "artists": [
+        {
+          "name": "BOHL",
+          "url": "https://open.spotify.com/artist/6obpA41YCnTO4d9MOGNHai"
+        },
+        {
+          "name": "Marti Fischer",
+          "url": "https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169234,
+      "name": "PULLI",
+      "url": "https://open.spotify.com/track/57CbDZVOmEHCk1jXeje3Aa"
+    },
+    {
+      "album": {
         "name": "Songs of Vienna",
         "url": "https://open.spotify.com/album/435R1bfZZFPEIpQwHaFLVt"
       },
@@ -14714,7 +14844,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 196645,
       "name": "RAUS",
       "url": "https://open.spotify.com/track/0LwqO52Dy99EAP9fvPqw1s"
@@ -15566,7 +15696,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 239672,
       "name": "Sadnesstrain",
       "url": "https://open.spotify.com/track/0X4yqJx76jfWpkEHFJLGky"
@@ -15764,7 +15894,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 140739,
       "name": "SCHOCK OMG",
       "url": "https://open.spotify.com/track/1licUeSEkOe6FWDAGBZZmr"
@@ -19774,6 +19904,24 @@
       "duration_ms": 144162,
       "name": "WANT WANT",
       "url": "https://open.spotify.com/track/7jcj5UK6fwRREUbNDaGgRw"
+    },
+    {
+      "album": {
+        "name": "Was du Liebe nennst",
+        "url": "https://open.spotify.com/album/3UbPiRwpQGhftYiqyLGCOv"
+      },
+      "artists": [
+        {
+          "name": "Mila",
+          "url": "https://open.spotify.com/artist/4NRdSJJGAVKkyQgmRyn6dk"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165674,
+      "name": "Was du Liebe nennst",
+      "url": "https://open.spotify.com/track/0SGn2JKcnyIL5aAahmt19k"
     },
     {
       "album": {

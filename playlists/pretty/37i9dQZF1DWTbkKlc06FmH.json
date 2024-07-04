@@ -1,6 +1,6 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 131264,
+  "num_followers": 131287,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-07-03 01:04:08",
       "album": {
-        "name": "I Will",
-        "url": "https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 149500,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf"
-    },
-    {
-      "added_at": "2024-07-03 01:04:08",
-      "album": {
         "name": "Something To Give Each Other",
         "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 181481,
       "name": "One Of Your Girls",
       "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
+    },
+    {
+      "added_at": "2024-07-03 01:04:08",
+      "album": {
+        "name": "I Will",
+        "url": "https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 149500,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf"
     },
     {
       "added_at": "2024-07-03 01:04:08",
@@ -971,26 +971,6 @@
     {
       "added_at": "2024-07-03 01:04:08",
       "album": {
-        "name": "Coast",
-        "url": "https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 166720,
-      "name": "Coast (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
-    },
-    {
-      "added_at": "2024-07-03 01:04:08",
-      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 229604,
       "name": "I'm Not Here To Make Friends",
       "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
+    },
+    {
+      "added_at": "2024-07-03 01:04:08",
+      "album": {
+        "name": "Coast",
+        "url": "https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 166720,
+      "name": "Coast (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
     },
     {
       "added_at": "2024-07-03 01:04:08",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2024-07-03 01:04:08",
       "album": {
+        "name": "golden hour (Fujii Kaze Remix)",
+        "url": "https://open.spotify.com/album/0Csmj0RDEYXg1ZW12fekwM"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "golden hour - Fujii Kaze Remix",
+      "url": "https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S"
+    },
+    {
+      "added_at": "2024-07-03 01:04:08",
+      "album": {
         "name": "FromHere (feat. Snoop Dogg & October London)",
         "url": "https://open.spotify.com/album/7aFWGuepWqTGZneBnfahBZ"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 241511,
       "name": "FromHere (feat. Snoop Dogg & October London)",
       "url": "https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7"
-    },
-    {
-      "added_at": "2024-07-03 01:04:08",
-      "album": {
-        "name": "golden hour (Fujii Kaze Remix)",
-        "url": "https://open.spotify.com/album/0Csmj0RDEYXg1ZW12fekwM"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "golden hour - Fujii Kaze Remix",
-      "url": "https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S"
     },
     {
       "added_at": "2024-07-03 01:04:08",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2024-07-03 01:04:08",
       "album": {
-        "name": "Lover/Friend",
-        "url": "https://open.spotify.com/album/0NvlaQeUqClEL7vMdYyUO7"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 259204,
-      "name": "Lover/Friend",
-      "url": "https://open.spotify.com/track/3u18lRpQFZYALlVjn0fL1y"
-    },
-    {
-      "added_at": "2024-07-03 01:04:08",
-      "album": {
         "name": "Any Way (feat. Maggie Rogers)",
         "url": "https://open.spotify.com/album/2Qc9dnPXbHlfB2eXZoDPlF"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 309896,
       "name": "Any Way (feat. Maggie Rogers)",
       "url": "https://open.spotify.com/track/2NvYdollt2CTUJYn66OBt9"
+    },
+    {
+      "added_at": "2024-07-03 01:04:08",
+      "album": {
+        "name": "Lover/Friend",
+        "url": "https://open.spotify.com/album/0NvlaQeUqClEL7vMdYyUO7"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 259204,
+      "name": "Lover/Friend",
+      "url": "https://open.spotify.com/track/3u18lRpQFZYALlVjn0fL1y"
     },
     {
       "added_at": "2024-07-03 01:04:08",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-07-03 01:04:08",
       "album": {
-        "name": "Samurai",
-        "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "Samurai",
-      "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
-    },
-    {
-      "added_at": "2024-07-03 01:04:08",
-      "album": {
         "name": "JEANS",
         "url": "https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 195186,
       "name": "JEANS (with Miguel)",
       "url": "https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi"
+    },
+    {
+      "added_at": "2024-07-03 01:04:08",
+      "album": {
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 194786,
+      "name": "Samurai",
+      "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
     },
     {
       "added_at": "2024-07-03 01:04:08",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-07-03 01:04:08",
       "album": {
-        "name": "The Loop",
-        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 206571,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
-    },
-    {
-      "added_at": "2024-07-03 01:04:08",
-      "album": {
         "name": "\u559c\u5287",
         "url": "https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 230666,
       "name": "\u559c\u5287",
       "url": "https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL"
+    },
+    {
+      "added_at": "2024-07-03 01:04:08",
+      "album": {
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 206571,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
     },
     {
       "added_at": "2024-07-03 01:04:08",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2024-07-03 01:04:08",
       "album": {
+        "name": "No Problems",
+        "url": "https://open.spotify.com/album/3LZ6BvkB5SLs7PeyRyS89u"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 224888,
+      "name": "No Problems",
+      "url": "https://open.spotify.com/track/5whkkXkOsCfRzUXe70AlpO"
+    },
+    {
+      "added_at": "2024-07-03 01:04:08",
+      "album": {
         "name": "Canvas",
         "url": "https://open.spotify.com/album/1DHLCK0JwwKeNxdy9fWtp0"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 185124,
       "name": "Canvas",
       "url": "https://open.spotify.com/track/1HasPp7AYTmRj9lHHfO3AT"
-    },
-    {
-      "added_at": "2024-07-03 01:04:08",
-      "album": {
-        "name": "No Problems",
-        "url": "https://open.spotify.com/album/3LZ6BvkB5SLs7PeyRyS89u"
-      },
-      "artists": [
-        {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
-        }
-      ],
-      "duration_ms": 224888,
-      "name": "No Problems",
-      "url": "https://open.spotify.com/track/5whkkXkOsCfRzUXe70AlpO"
     },
     {
       "added_at": "2024-07-03 01:04:08",

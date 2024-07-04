@@ -4,7 +4,7 @@
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-60 songs - 2 hr 57 min
+61 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-06-28 |  |
 | [Fainted Love](https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:50 | 2024-06-28 |  |
 | [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-06-28 |  |
+| [Flashback](https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Flashback](https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV) | 2:49 | 2024-06-28 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-06-28 |  |
 | [Good Things](https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Good Things](https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0) | 2:57 | 2024-06-28 |  |
 | [Halfway There](https://open.spotify.com/track/6yp2xpP4aqgTpxzHdVid1M) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Halfway There](https://open.spotify.com/album/3uFPkuJLDLRpugR3itMBZY) | 3:15 | 2024-06-28 |  |
@@ -61,7 +62,7 @@
 | [The Confession](https://open.spotify.com/track/0k63pQiWvEeyYdV3XJKwCg) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [The Confession](https://open.spotify.com/album/0xCBjfaeK0phUn47yMHHyP) | 2:18 | 2024-06-28 |  |
 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2024-06-28 |  |
 | [The Way I Want It](https://open.spotify.com/track/3dnGjCQrJqsqYjVwOYqBUj) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [The Way I Want It](https://open.spotify.com/album/273PYkxoYVyKhsNdKnNyiT) | 2:13 | 2024-06-28 |  |
-| [Tyle mogłem Ci dać](https://open.spotify.com/track/7yhlUkUDOyGqrfkb1THfSj) | [Filip Lato](https://open.spotify.com/artist/7IGQhHioiEXLsSCBt0ZBID) | [Tyle mogłem Ci dać](https://open.spotify.com/album/4dfPdu3N7AOQ4RLzSYIFNR) | 2:15 | 2024-06-28 |  |
+| [Tyle mogłem Ci dać](https://open.spotify.com/track/7yhlUkUDOyGqrfkb1THfSj) | [Filip Lato](https://open.spotify.com/artist/7IGQhHioiEXLsSCBt0ZBID) | [Tyle mogłem Ci dać](https://open.spotify.com/album/4dfPdu3N7AOQ4RLzSYIFNR) | 2:15 | 2024-06-28 | 2024-07-04 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2024-06-28 |  |
 | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF) | 3:06 | 2024-06-28 |  |
 | [Z nikim aż tak](https://open.spotify.com/track/2tD084cxyXfM8rTrR7vpZU) | [Grzegorz Hyży](https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm) | [Z nikim aż tak](https://open.spotify.com/album/1vnoOYABdND4kBBFXlE7jH) | 3:12 | 2024-06-28 |  |

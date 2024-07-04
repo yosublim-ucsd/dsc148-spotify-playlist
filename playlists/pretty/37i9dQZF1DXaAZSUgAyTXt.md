@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaAZSUgAyTXt.md) - [plain]
 
 > when life gives you lemons ¯\\\_\(ツ\)\_/¯
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,157 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,147 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaAZSUgAyTXt.md) - [plain]
 | 30 | [Ok Love You Bye](https://open.spotify.com/track/66YywMJbAgzQrGkFKjnSsK) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Ok Love You Bye](https://open.spotify.com/album/7ooSA4xT6dVvDN8j8AeaH0) | 2:34 |
 | 31 | [the way things go](https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [the way things go](https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk) | 3:07 |
 | 32 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
-| 33 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 |
-| 34 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 |
+| 33 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 |
+| 34 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 |
 | 35 | [Again](https://open.spotify.com/track/7e0LOBvgnz3Rnu20gUKOeh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Again](https://open.spotify.com/album/6s144Vjf21zEdbZpySRE82) | 2:53 |
 | 36 | [Orange Blossoms](https://open.spotify.com/track/4IZTru7nKgBE8sBq6aMY56) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Orange Blossoms](https://open.spotify.com/album/0kpAo6p1USCL3Qmac5s4Ao) | 3:12 |
 | 37 | [Loverboy](https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Loverboy](https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx) | 3:44 |
 | 38 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 |
-| 39 | [Happiness](https://open.spotify.com/track/35lxFAny9XDBkvE6r9j4uG) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:03 |
-| 40 | [Burning Down the House](https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Burning Down the House](https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek) | 3:38 |
+| 39 | [Burning Down the House](https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Burning Down the House](https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek) | 3:38 |
+| 40 | [Happiness](https://open.spotify.com/track/35lxFAny9XDBkvE6r9j4uG) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:03 |
 | 41 | [Bodies](https://open.spotify.com/track/59JXLBosh2OFLMCARkINnB) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:04 |
 | 42 | [Strawberry Sunscreen](https://open.spotify.com/track/6Xve7pWqzW6CQV8mlXzpBe) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Valleyheart](https://open.spotify.com/album/1RYBqAoMBjelC8bI6UJX2O) | 2:09 |
 | 43 | [don't miss me](https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [don’t miss me](https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0) | 2:03 |

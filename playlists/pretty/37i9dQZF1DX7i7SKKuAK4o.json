@@ -1,6 +1,6 @@
 {
   "description": "Kumpulan lagu Hits hingga beberapa tahun lalu. Cover: Bruno Mars",
-  "num_followers": 594776,
+  "num_followers": 594823,
   "original_name": "Hits Banget",
   "owner": {
     "name": "Spotify",
@@ -499,18 +499,18 @@
     {
       "added_at": "2024-06-28 00:24:32",
       "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+        "name": "I Love You So",
+        "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
         }
       ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+      "duration_ms": 160239,
+      "name": "I Love You So",
+      "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
     },
     {
       "added_at": "2024-06-28 00:24:32",
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-06-28 00:24:32",
       "album": {
-        "name": "I Love You So",
-        "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
       },
       "artists": [
         {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 160239,
-      "name": "I Love You So",
-      "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
       "added_at": "2024-06-28 00:24:32",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-06-28 00:24:32",
       "album": {
-        "name": "Viva La Vida or Death and All His Friends",
-        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
-    },
-    {
-      "added_at": "2024-06-28 00:24:32",
-      "album": {
         "name": "lovely (with Khalid)",
         "url": "https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 200185,
       "name": "lovely (with Khalid)",
       "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
+    },
+    {
+      "added_at": "2024-06-28 00:24:32",
+      "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
     },
     {
       "added_at": "2024-06-28 00:24:32",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-06-28 00:24:32",
       "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+    },
+    {
+      "added_at": "2024-06-28 00:24:32",
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 199920,
       "name": "Too Many Nights (feat. Don Toliver & with Future)",
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
-    },
-    {
-      "added_at": "2024-06-28 00:24:32",
-      "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
       "added_at": "2024-06-28 00:24:32",

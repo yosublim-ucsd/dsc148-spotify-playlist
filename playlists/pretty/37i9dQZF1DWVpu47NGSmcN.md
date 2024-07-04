@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 
 > Jejeran artis perempuan inspiratif Indonesia\. Cover: Nabila Taqiyyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,219 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,222 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 49 | [Be There for You](https://open.spotify.com/track/1FK4AGndttnVCBQKBgj0AK) | [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [Be There for You](https://open.spotify.com/album/1dfzuM1P1PzBdJMxGXmz12) | 3:27 |
 | 50 | [Expectation](https://open.spotify.com/track/6vg5mbgMB4U7cC0dJIN7og) | [Mentari Novel](https://open.spotify.com/artist/5DsdNBqFCoD43aPV8XhxmQ) | [That Girl](https://open.spotify.com/album/0A8J1Tnh9I7JwMIrEZvwbE) | 3:19 |
 
-Snapshot ID: `ZoQyEAAAAAC0GE0hskZsWQFQf1wS6mLU`
+Snapshot ID: `ZoSx1AAAAAB/T9/CvCG1p0ZdYQPdBppE`

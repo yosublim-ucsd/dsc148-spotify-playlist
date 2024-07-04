@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,135 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,147 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,17 +38,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 28 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 |
 | 29 | [Rua Três](https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Rua Três](https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C) | 2:34 |
 | 30 | [Só Porque Eu Sou Mulher](https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Só Porque Eu Sou Mulher](https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa) | 2:43 |
-| 31 | [Samba de Novela](https://open.spotify.com/track/3LkhWWarDHcfXgWtahraP0) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Samba de Novela](https://open.spotify.com/album/4sXWwVNqOTKzOZMdGDDlNe) | 3:18 |
-| 32 | [Menina](https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Original Brasil](https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4) | 3:17 |
+| 31 | [Menina](https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Original Brasil](https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4) | 3:17 |
+| 32 | [Samba de Novela](https://open.spotify.com/track/3LkhWWarDHcfXgWtahraP0) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Samba de Novela](https://open.spotify.com/album/4sXWwVNqOTKzOZMdGDDlNe) | 3:18 |
 | 33 | [Posso Dizer](https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 3:54 |
 | 34 | [Me Toca](https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Me Toca](https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU) | 3:06 |
 | 35 | [O amor te dá](https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [O amor te dá](https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW) | 4:07 |
 | 36 | [Bota Pra Tocar Tim Maia](https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Bota Pra Tocar Tim Maia](https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs) | 3:42 |
-| 37 | [Deixa Acontecer](https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI) | [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Desastre Solar](https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx) | 3:53 |
-| 38 | [Vem Doce](https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Vem Doce](https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH) | 3:46 |
-| 39 | [Enquanto Durmo](https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo é Estar Debaixo D'Água Deluxe](https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk) | 5:04 |
-| 40 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 |
-| 41 | [No Stress](https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [ZAM ZAM](https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6) | 3:32 |
+| 37 | [No Stress](https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [ZAM ZAM](https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6) | 3:32 |
+| 38 | [Deixa Acontecer](https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI) | [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Desastre Solar](https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx) | 3:53 |
+| 39 | [Vem Doce](https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Vem Doce](https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH) | 3:46 |
+| 40 | [Enquanto Durmo](https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo é Estar Debaixo D'Água Deluxe](https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk) | 5:04 |
+| 41 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 |
 | 42 | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP) | 3:00 |
 | 43 | [Olha a Pipa](https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Alô Alô, Como Vai?](https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi) | 4:22 |
 | 44 | [Rose](https://open.spotify.com/track/627NaoKHBApkkNQ5YcWsO0) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Rose](https://open.spotify.com/album/47eeq0qvJTEwpxa4VjZEqT) | 3:06 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 57 | [Quem Tem Um Amigo \(Tem Tudo\) \(Remix\) \(feat\. Zeca Pagodinho, Tokyo Ska Paradise Orchestra & Rashid\)](https://open.spotify.com/track/08WrWXRoXim0i1RkSVlpJ3) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Quem Tem Um Amigo \(Tem Tudo\)](https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3) | 4:06 |
 | 58 | [Faz Uma Loucura Por Mim](https://open.spotify.com/track/7DGGJgwLu2mUX3oRYPDkWL) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u), [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Faz Uma Loucura Por Mim](https://open.spotify.com/album/22ZmM0XxUnccC6DfY9NsbM) | 3:35 |
 | 59 | [Chororô](https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 3:29 |
-| 60 | [Na Estrada](https://open.spotify.com/track/1kurYZn4PdsziIm0IsttFY) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Céu Lilás \(Na Estrada\)](https://open.spotify.com/album/0Kb73BaWQJh0GRxnOaSzdV) | 3:38 |
+| 60 | [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 |
 
 Snapshot ID: `ZYpB7AAAAAD5I1WB1OUyZJqEktyiQEo8`

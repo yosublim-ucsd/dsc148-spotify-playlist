@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 
 > full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard
 
-[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,068 likes - 133 songs - 4 hr 21 min
+[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,068 likes - 134 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,5 +141,6 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 | 131 | [monday](https://open.spotify.com/track/7rOJZDZ1CgG5sG2Ou1F6tS) | [rainglow](https://open.spotify.com/artist/2A8CBcSX8bhpgAtwbDWHdr) | [monday](https://open.spotify.com/album/0rpX7azsvEwZjriTBzIiuc) | 2:23 |
 | 132 | [Side by Side](https://open.spotify.com/track/2OT7GmuC5Jc0KnYiUNgU69) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [Allies of the Good](https://open.spotify.com/album/5F7HS5lR1LZ0OkPVYxBSt5) | 2:08 |
 | 133 | [Slow Morning](https://open.spotify.com/track/52aIVkfycicioVn13LVkXG) | [Morning Coffee](https://open.spotify.com/artist/62fnZMi7JwI8kp2DPqdlv1) | [Slow Morning](https://open.spotify.com/album/0ydqrgxnkRE9OlSMSrYDG3) | 2:00 |
+| 134 | [Daydreams](https://open.spotify.com/track/0k0mGPw3qRox5AP0kLSwnn) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Daydreams](https://open.spotify.com/album/1PzK1RWbYVWmMo3ZAZk2pD) | 2:08 |
 
-Snapshot ID: `AAAAVbS2KtfmowckgouuCfaeykW/vFDF`
+Snapshot ID: `AAAAVumP8QUwJqMmt95K//KKs17dBomX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Ghetts \#Glastonbury2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,376,427 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,376,766 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

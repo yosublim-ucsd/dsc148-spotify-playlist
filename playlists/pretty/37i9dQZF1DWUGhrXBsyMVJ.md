@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 
 > Unforgettable love songs from the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,370 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,454 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 | 10 | [Come Fly With Me \- Remastered 1998](https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Fly With Me \(Expanded Edition\)](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) | 3:19 |
 | 11 | [Put Your Head on My Shoulder](https://open.spotify.com/track/7eqNATKM78MkWP6aHGXHEV) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Sings His Favorites](https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ) | 2:35 |
 | 12 | [Only You \(And You Alone\)](https://open.spotify.com/track/0S8ibKBl3tjRmYbZhGHNhG) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters Golden Hits](https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B) | 2:36 |
-| 13 | [Sh\-Boom](https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [The Best Of The Crew Cuts](https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP) | 2:48 |
-| 14 | [It's Always You \- Vocal Version](https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:35 |
+| 13 | [It's Always You \- Vocal Version](https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:35 |
+| 14 | [Sh\-Boom](https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [The Best Of The Crew Cuts](https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP) | 2:48 |
 | 15 | [Love Me Tender](https://open.spotify.com/track/7iBBcw61QVJxI3NDzlpX2E) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:42 |
 | 16 | [Calendar Girl](https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:39 |
 | 17 | [Fever](https://open.spotify.com/track/2CeqxyOZEyiL6pTDYZ9gPH) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [The Best Of Peggy Lee](https://open.spotify.com/album/16BF4fvjjxlzrdKrUl4k5F) | 3:21 |

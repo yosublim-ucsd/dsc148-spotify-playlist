@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,030 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,034 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,16 +55,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 45 | [Antes de Que Sea Muy Tarde](https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Antes de Que Sea Muy Tarde](https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe) | 3:12 |
 | 46 | [¿Qué se yo?](https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ) | [Tr3sdeCoraZón](https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M) | [No Hay Tiempo Que Perder](https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy) | 2:57 |
 | 47 | [La Clase Que Trabaja](https://open.spotify.com/track/0CpRKuFzJuh8hj55UXZ3Hs) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6) | [La Clase Que Trabaja](https://open.spotify.com/album/1chXS9QVcQa8LMDLXOkybe) | 3:07 |
-| 48 | [Lockdownska](https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA) | [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [Lockdownska](https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P) | 3:39 |
-| 49 | [Hoy](https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t) | [Cielito Drive](https://open.spotify.com/artist/1QplpI4W7QuaxzxEpjKayY) | [Hoy](https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY) | 4:36 |
+| 48 | [Hoy](https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t) | [Cielito Drive](https://open.spotify.com/artist/1QplpI4W7QuaxzxEpjKayY) | [Hoy](https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY) | 4:36 |
+| 49 | [Lockdownska](https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA) | [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [Lockdownska](https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P) | 3:39 |
 | 50 | [Nadie Es Inocente \(feat\. Dilson Diaz & Nicolai Fella\)](https://open.spotify.com/track/4jnp4SOpXZP0Oy0YIBKxcf) | [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5), [Dilson Diaz](https://open.spotify.com/artist/72UArPUG7xctUaf3iXf59r), [Nicolai Fella](https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo) | [Pnmt Corrosion](https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96) | 3:30 |
 | 51 | [Rocal](https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Rocal](https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC) | 3:50 |
 | 52 | [Prende](https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs) | [Tequendama](https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU) | [Prende](https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG) | 3:17 |
 | 53 | [Desierto](https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h), [Mateo París](https://open.spotify.com/artist/5g4xkc9ZvfAUuP5UJxvCBG) | [Tierra](https://open.spotify.com/album/4hONbMfBNGtrslvAqe2wX4) | 3:03 |
 | 54 | [La Fuente](https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [La Fuente](https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT) | 5:27 |
 | 55 | [Sed](https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy) | [Sed](https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn) | 4:59 |
-| 56 | [Huracán](https://open.spotify.com/track/2ReRXRVKnIFprwQgHZC92D) | [Alfonso Espriella](https://open.spotify.com/artist/2uiokPi0ax9KTHCDFdAbHV) | [Huracán](https://open.spotify.com/album/6AvkDCqQCJqiLVrGsnkn6c) | 3:09 |
-| 57 | [Olvidarme de Todo](https://open.spotify.com/track/7lwA01yBJAfoVz730sBcox) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY), [Oso Pardo](https://open.spotify.com/artist/5VvrQ69cP2LpCA3io3vCyQ) | [Olvidarme de Todo](https://open.spotify.com/album/1TwgjOEG8WS6pkjLUstupB) | 3:21 |
+| 56 | [Olvidarme de Todo](https://open.spotify.com/track/7lwA01yBJAfoVz730sBcox) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY), [Oso Pardo](https://open.spotify.com/artist/5VvrQ69cP2LpCA3io3vCyQ) | [Olvidarme de Todo](https://open.spotify.com/album/1TwgjOEG8WS6pkjLUstupB) | 3:21 |
+| 57 | [Huracán](https://open.spotify.com/track/2ReRXRVKnIFprwQgHZC92D) | [Alfonso Espriella](https://open.spotify.com/artist/2uiokPi0ax9KTHCDFdAbHV) | [Huracán](https://open.spotify.com/album/6AvkDCqQCJqiLVrGsnkn6c) | 3:09 |
 | 58 | [This Is War](https://open.spotify.com/track/5piZGfIPJBGKuUzmfEPjvq) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [This Is War](https://open.spotify.com/album/4RGwN6ElLSAlm9sWrkKcgd) | 3:46 |
 | 59 | [Puede Que](https://open.spotify.com/track/0TOo2kjs8fOhRQYl5OvjXv) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Puede Que](https://open.spotify.com/album/33GOVpEps8cyXvauikKcmw) | 4:51 |
 | 60 | [Estallados](https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Estallados](https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr) | 4:30 |

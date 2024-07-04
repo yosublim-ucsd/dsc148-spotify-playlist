@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,630 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,623 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 20 | [Palette \(feat\. G\-DRAGON\)](https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 3:37 |
 | 21 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 |
 | 22 | [I′ll be by your side](https://open.spotify.com/track/1CjOylFGEsCzOlgd2xiEw2) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [I'll be by your side](https://open.spotify.com/album/1pdxVaLPFmbKCtWKP3sfTS) | 3:54 |
-| 23 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 |
-| 24 | [Fighting!](https://open.spotify.com/track/5F2Nrnc779a0ZADDG7v7u7) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Fighting!](https://open.spotify.com/album/2BEu1ulaGHvhNYmOcurP80) | 3:05 |
+| 23 | [Fighting!](https://open.spotify.com/track/5F2Nrnc779a0ZADDG7v7u7) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Fighting!](https://open.spotify.com/album/2BEu1ulaGHvhNYmOcurP80) | 3:05 |
+| 24 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 |
 | 25 | [Way Back Home](https://open.spotify.com/track/2YeozkaCbAYWOdjMKahrjU) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [I Mean](https://open.spotify.com/album/2SSsz0XFUeTYZfGWRLFswR) | 4:00 |
 | 26 | [Together](https://open.spotify.com/track/3dQxjLOKLUUpZOwHYYdvyo) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/54P1MSGvQt3Hq1UpsijMgA) | 4:32 |
 | 27 | [IYAH](https://open.spotify.com/track/3EC9jQuk4yPP3IhKOJvbPw) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:45 |

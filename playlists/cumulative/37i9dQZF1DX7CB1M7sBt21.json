@@ -632,7 +632,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 161904,
       "name": "BOTH - David Guetta & Seth Hills Remix",
       "url": "https://open.spotify.com/track/6b7Z5ICFy6TbQwshMr9ORO"
@@ -5452,6 +5452,32 @@
       "duration_ms": 176734,
       "name": "Something Stupid (feat. AWA)",
       "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
+    },
+    {
+      "album": {
+        "name": "Spicy Margarita (A7S Remix)",
+        "url": "https://open.spotify.com/album/5SthpeFn4PkDawgyWO8QUu"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147230,
+      "name": "Spicy Margarita (A7S Remix)",
+      "url": "https://open.spotify.com/track/4iDztJeRKU05YvfufEZ1XG"
     },
     {
       "album": {

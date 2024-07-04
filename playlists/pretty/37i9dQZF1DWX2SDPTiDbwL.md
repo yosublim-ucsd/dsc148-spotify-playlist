@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,278 likes - 63 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,296 likes - 63 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

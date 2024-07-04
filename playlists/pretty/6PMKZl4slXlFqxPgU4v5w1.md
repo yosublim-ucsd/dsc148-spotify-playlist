@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6PMKZl4slXlFqxPgU4v5w1.md) - [plain]
 
 > 
 
-[abdelaziz](https://open.spotify.com/user/34ju0qupggd7c0twwwss0bceq) - 0 like - 20 songs - 1 hr 22 min
+[abdelaziz](https://open.spotify.com/user/34ju0qupggd7c0twwwss0bceq) - 0 like - 22 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,5 +28,7 @@ pretty - [cumulative](/playlists/cumulative/6PMKZl4slXlFqxPgU4v5w1.md) - [plain]
 | 18 | [午前2時の恋人](https://open.spotify.com/track/14w4ik9lemqH2PR7Js2gTf) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [ORACLE](https://open.spotify.com/album/24dtvNJDBoI6gCaTwzCcLZ) | 4:50 |
 | 19 | [Blue Velvet](https://open.spotify.com/track/4LAa9a5VMkk3mN8BHhB93c) | [Alberto Baldan Bembo](https://open.spotify.com/artist/13MlmKnz81PZqZgMfCdVRR) | [L'amica di mia madre \(Colonna sonora originale del film\)](https://open.spotify.com/album/3wMMEeUpFG4YqilF56KCHw) | 1:18 |
 | 20 | [Mary's Theme](https://open.spotify.com/track/2wo8xxzFHcB7WorvcIBkfD) | [Stelvio Cipriani](https://open.spotify.com/artist/32GAlFg8ZU34WZLFjAUAGQ) | [Femina Ridens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7IxHAfOEAOTHn8630AcsL8) | 2:10 |
+| 21 | [endsville is burning](https://open.spotify.com/track/0mr8LFEGjDJsH2LnSWYCmg) | [NNTYTUU](https://open.spotify.com/artist/1DbJR3WnrE6zQ5XIuLx8mD) | [Wants and Needs](https://open.spotify.com/album/652mPQWHKHwl39CQ9HozGP) | 1:27 |
+| 22 | [私達を信じていて](https://open.spotify.com/track/4xu0gZ96zx1G7UdajUGDqD) | [Cindy](https://open.spotify.com/artist/2ZMPUpiuAKAkzPdMj6qEX0) | [Angel Touch](https://open.spotify.com/album/1Cm55AdMDqdZv9dxiJmB5m) | 5:52 |
 
-Snapshot ID: `AAAAF+RMKjz0hzwMew4EjIMvDBjHGdHU`
+Snapshot ID: `AAAAGY8pqeyd/lEltR1U2Ch8Di5QCeqt`

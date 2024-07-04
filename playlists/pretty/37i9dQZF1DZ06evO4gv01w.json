@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 27876,
+  "num_followers": 27892,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAADUvsWlkh1mIFhZn3fdO5Yl",
+  "snapshot_id": "ZoNDAAAAAADYe2VR6DIYH4b47NYNg9CP",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 201586,
+      "name": "Preachin' Blues",
+      "url": "https://open.spotify.com/track/3Mi6mtEZ2MopQ7MKfkWl9f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Electrified",
         "url": "https://open.spotify.com/album/0w5dfWITAlYVsInFzVtnXH"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 163758,
       "name": "One and Lonely",
       "url": "https://open.spotify.com/track/0mEFu5GO1uwtO6ld9MUCON"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 201586,
-      "name": "Preachin' Blues",
-      "url": "https://open.spotify.com/track/3Mi6mtEZ2MopQ7MKfkWl9f"
     },
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/4wju5onPL5k2pORII0t2W1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Killing Time",
         "url": "https://open.spotify.com/album/5ZQXwmQwqasO0qWa7yIO1R"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 142640,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/6m9keSvNWf8XFzs5aTK1co"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 164106,
-      "name": "Black Betty",
-      "url": "https://open.spotify.com/track/4wju5onPL5k2pORII0t2W1"
     },
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing Time",
-        "url": "https://open.spotify.com/album/5ZQXwmQwqasO0qWa7yIO1R"
-      },
-      "artists": [
-        {
-          "name": "Blair Dunlop",
-          "url": "https://open.spotify.com/artist/7n6bYneSU1ygSj0CevdvTD"
-        },
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 111906,
-      "name": "Strangler Fig",
-      "url": "https://open.spotify.com/track/5vdC6qqu1I9CFvp8pJ7X8C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Venom & Faith",
         "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 219637,
       "name": "Mississippi (feat. Tyler Bryant)",
       "url": "https://open.spotify.com/track/7I6sXnSLWoc3LEQisxG86Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing Time",
+        "url": "https://open.spotify.com/album/5ZQXwmQwqasO0qWa7yIO1R"
+      },
+      "artists": [
+        {
+          "name": "Blair Dunlop",
+          "url": "https://open.spotify.com/artist/7n6bYneSU1ygSj0CevdvTD"
+        },
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 111906,
+      "name": "Strangler Fig",
+      "url": "https://open.spotify.com/track/5vdC6qqu1I9CFvp8pJ7X8C"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 193063,
-      "name": "Hard Time Killing Floor Blues",
-      "url": "https://open.spotify.com/track/6FjaLHVl7eL1N9pL942g4P"
+      "duration_ms": 210989,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/150uQDJ6nOL5uJpTFN3HWt"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme"
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 210989,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/150uQDJ6nOL5uJpTFN3HWt"
+      "duration_ms": 193063,
+      "name": "Hard Time Killing Floor Blues",
+      "url": "https://open.spotify.com/track/6FjaLHVl7eL1N9pL942g4P"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 204106,
-      "name": "Look Away",
-      "url": "https://open.spotify.com/track/6AWlFTa6XGzIEaElHohT1V"
+      "duration_ms": 164213,
+      "name": "Cast 'Em Out",
+      "url": "https://open.spotify.com/track/7BnY4bKBF8yTX5UTqtV8yy"
     },
     {
       "added_at": null,
@@ -720,9 +720,25 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 164213,
-      "name": "Cast 'Em Out",
-      "url": "https://open.spotify.com/track/7BnY4bKBF8yTX5UTqtV8yy"
+      "duration_ms": 204106,
+      "name": "Look Away",
+      "url": "https://open.spotify.com/track/6AWlFTa6XGzIEaElHohT1V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 220941,
+      "name": "Nights In White Satin",
+      "url": "https://open.spotify.com/track/1dVLQBgBkC8PEt4vd8xVOy"
     },
     {
       "added_at": null,
@@ -743,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme"
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
       },
       "artists": [
         {
@@ -752,9 +768,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 220941,
-      "name": "Nights In White Satin",
-      "url": "https://open.spotify.com/track/1dVLQBgBkC8PEt4vd8xVOy"
+      "duration_ms": 213948,
+      "name": "Ain't Gonna Cry",
+      "url": "https://open.spotify.com/track/63BfByegAjwkMOPdaqf3SU"
     },
     {
       "added_at": null,
@@ -787,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3"
       },
       "artists": [
         {
@@ -796,9 +812,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 213948,
-      "name": "Ain't Gonna Cry",
-      "url": "https://open.spotify.com/track/63BfByegAjwkMOPdaqf3SU"
+      "duration_ms": 179368,
+      "name": "Take What You Want",
+      "url": "https://open.spotify.com/track/5SIsbugJ2rnfrHQ0wU0o1Y"
     },
     {
       "added_at": null,
@@ -819,22 +835,6 @@
       "duration_ms": 233066,
       "name": "Baby Blue Eyes (feat. Larkin Poe) - Rainy Day Sessions",
       "url": "https://open.spotify.com/track/3eB4bheM9cIu5v8lcQ558s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "Take What You Want",
-      "url": "https://open.spotify.com/track/5SIsbugJ2rnfrHQ0wU0o1Y"
     },
     {
       "added_at": null,

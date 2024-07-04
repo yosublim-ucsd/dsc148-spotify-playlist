@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Shine ttw
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,303 likes - 90 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,311 likes - 90 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 50 | [Cool](https://open.spotify.com/track/0DwpN7XEunQTNDb3ceANPm) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Tha Gawd \- Side A](https://open.spotify.com/album/72FBV70oygMH6ELBZ4Zod6) | 2:31 |
 | 51 | [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 |
 | 52 | [Lover](https://open.spotify.com/track/4QZH6wpyyznGaNAk24DtLl) | [CN Amazing](https://open.spotify.com/artist/4cp5TnmcbIwjsJAznM15CC) | [Lover](https://open.spotify.com/album/3Eop2mkvqOaCjggYcx8e5z) | 2:45 |
-| 53 | [\(Don't\) Say I'm Wrong](https://open.spotify.com/track/66FeTaHEBpOehgauJVcGL5) | [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [\(Don't\) Say I'm Wrong](https://open.spotify.com/album/4IdKwSQzgbh3htCL3Tb6SO) | 4:26 |
+| 53 | [\(Don't\) Say I'm Wrong](https://open.spotify.com/track/66FeTaHEBpOehgauJVcGL5) | [Ladé](https://open.spotify.com/artist/3xynIVckga6fW5j1jFwhKE) | [\(Don't\) Say I'm Wrong](https://open.spotify.com/album/4IdKwSQzgbh3htCL3Tb6SO) | 4:26 |
 | 54 | [Pain and Pleasure](https://open.spotify.com/track/1YNcsikMzn7VnhVQCXhx2o) | [Iyke Parker](https://open.spotify.com/artist/05CCsFubGf9UpnbXp0iAWr), [LeonardoDDJ](https://open.spotify.com/artist/25Q3IQWJ78bRWV15GOQyYV), [99 PHACES](https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p), [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb), [Freddie Gambini](https://open.spotify.com/artist/4fuRrfCxlAdAUEB0dkLlAg) | [Pain and Pleasure](https://open.spotify.com/album/17tb3wkAv9Kqbu5VLWgIcJ) | 2:34 |
 | 55 | [This Your Love](https://open.spotify.com/track/34MrlzU6wlpncR6UrF8ob6) | [Loveb3rd](https://open.spotify.com/artist/1FvbHhxGnWzxIJRIi4RpM5), [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [This Your Love](https://open.spotify.com/album/01fd8SgD5HD12GXjG7TRXX) | 2:33 |
 | 56 | [Gangsta Luving](https://open.spotify.com/track/05qy9jWmEMyyk8DwXfHHYp) | [Killervybez](https://open.spotify.com/artist/2dQ0P9Tlnf3S8fz7gVne4l) | [Bad Boy Vybez](https://open.spotify.com/album/3wQpjPKZpUWC43rkQh5rlV) | 2:39 |

@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-900 songs - 2 day 8 hr 29 min
+903 songs - 2 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,7 +356,7 @@
 | [I've Grown Accustomed to Her Face](https://open.spotify.com/track/6nyRGbArV18zO6WozOBON2) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Anything Goes](https://open.spotify.com/album/412H0mMOHjg3txzEFwBfXM) | 4:49 | 2021-12-16 | 2024-05-27 |
 | [I've Told Every Little Star](https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:13 | 2022-11-11 | 2023-01-08 |
 | [Icelandic time](https://open.spotify.com/track/1oZkKgfZDvBYVlAyR1Yszq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Icelandic time](https://open.spotify.com/album/3RGokP0Ax8RaawZZQ3pmct) | 3:32 | 2023-06-01 |  |
-| [If Ever I Would Leave You \- Remasted 1998/ Rudy Van Gelder Edition](https://open.spotify.com/track/2DPcK58j3Zms6ybVIKSIIY) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Una Mas](https://open.spotify.com/album/478lLfwrnUMDKIgaLCPTIy) | 5:09 | 2021-12-16 |  |
+| [If Ever I Would Leave You \- Remasted 1998/ Rudy Van Gelder Edition](https://open.spotify.com/track/2DPcK58j3Zms6ybVIKSIIY) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Una Mas](https://open.spotify.com/album/478lLfwrnUMDKIgaLCPTIy) | 5:09 | 2021-12-16 | 2024-07-04 |
 | [If I Ask You Now?](https://open.spotify.com/track/3yyVqUxOKGgH47iUGNEyVB) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [If I Ask You Now?](https://open.spotify.com/album/6ntxSpTO4JPirtRAZ0SFQH) | 3:26 | 2023-09-29 |  |
 | [If You Could See Me Now](https://open.spotify.com/track/0l1K6sAVycWbe2K1oWQgU4) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [If You Could See Me Now](https://open.spotify.com/album/22ndy4PP1O9LVJuqq7dN6W) | 4:36 | 2024-02-09 |  |
 | [If You Say Goodbye](https://open.spotify.com/track/2spKTHzzPhXETINp5L43JY) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Don't Leave Me Alone](https://open.spotify.com/album/1dhSMp8BQM346Re594UVIq) | 3:00 | 2023-06-01 |  |
@@ -459,6 +459,7 @@
 | [Lots of It](https://open.spotify.com/track/6s06FedC1pdyLQ9LmUX2oP) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Lots of It](https://open.spotify.com/album/1YeXV9XSa6jgeA493IzYeO) | 2:51 | 2024-05-10 |  |
 | [Lousanne](https://open.spotify.com/track/0h0viT2OPpnxwzlwBmbEkU) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [Lousanne](https://open.spotify.com/album/7mMtf6zUZvZjY1o3XguazB) | 3:19 | 2023-06-01 |  |
 | [Love For Free](https://open.spotify.com/track/4s5I0RCLDgPjUpmmlQbpP1) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [Love For Free](https://open.spotify.com/album/6awm6EihJwIoQ5YrEoJG22) | 3:33 | 2024-03-08 |  |
+| [Love Grows](https://open.spotify.com/track/3D3KQCFx8tQr2EGbCT4cdY) | [Sidney Hatfield Trio](https://open.spotify.com/artist/6H3KpzoFcsyiizhxJDboDB) | [Love Grows](https://open.spotify.com/album/4U0NvErsvXBvpnTGwspS6P) | 3:38 | 2024-07-01 |  |
 | [Love In Technicolor](https://open.spotify.com/track/4Hn9MbDM7PSVjjRd7tTI4A) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Love In Technicolor](https://open.spotify.com/album/2xpFJF0GaCm0C3vf9bQVV7) | 2:20 | 2023-08-10 | 2024-03-24 |
 | [Love in the First Degree](https://open.spotify.com/track/69eesFTk1HKajniFSF2Z9n) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Love in the First Degree](https://open.spotify.com/album/489cU8nNEb4pS0bBMjcS00) | 3:12 | 2023-02-23 |  |
 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 | 2023-03-16 |  |
@@ -545,7 +546,7 @@
 | [Nancy \(With The Laughing Face\)](https://open.spotify.com/track/2HdvZsLXBmO9sc4cV8d4BA) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 3:11 | 2022-06-29 | 2023-09-29 |
 | [Nancy \(With The Laughing Face\)](https://open.spotify.com/track/6xXUcB3UuWfuaiExwlzY9Q) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads](https://open.spotify.com/album/65iE2klct5VviQiJSq9ygF) | 3:14 | 2021-12-16 | 2022-07-29 |
 | [Nardis](https://open.spotify.com/track/37vEa9sfgAqEZuqX8AX0Zk) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations](https://open.spotify.com/album/5MuOxoJbvmGGIQxo6Pudu9) | 5:49 | 2021-12-16 | 2022-05-25 |
-| [Need to rest](https://open.spotify.com/track/0Z9IuuRyNcz275MxEMvdZ7) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [Need to rest](https://open.spotify.com/album/10hgpKgMU5w4n3pCRIfPrY) | 3:07 | 2023-10-06 |  |
+| [Need to rest](https://open.spotify.com/track/0Z9IuuRyNcz275MxEMvdZ7) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [Need to rest](https://open.spotify.com/album/10hgpKgMU5w4n3pCRIfPrY) | 3:07 | 2023-10-06 | 2024-07-04 |
 | [Need You Here](https://open.spotify.com/track/6U31miey75JtdzenSiTToi) | [Urban Jazz Junction](https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd) | [Need You Here](https://open.spotify.com/album/5fb0JVW12CPXXIZQ4LIcW4) | 4:08 | 2024-04-10 |  |
 | [Never Let Me Go](https://open.spotify.com/track/25VqRlCspcn3W04pGctbcn) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Never Let Me Go](https://open.spotify.com/album/19Nia0TNGcaQFU2xI86mwg) | 4:14 | 2023-06-01 |  |
 | [New Hampshire](https://open.spotify.com/track/0Z8auoHguIXLgSMzqT3kZr) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Almond Joy](https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F) | 3:03 | 2022-11-11 |  |
@@ -590,6 +591,7 @@
 | [Part of the moment](https://open.spotify.com/track/0Ayv05nqaQxZZaidg0kE0A) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Part of the moment](https://open.spotify.com/album/67xV4VBBWbQ7FGoGjkWH19) | 2:50 | 2023-08-10 |  |
 | [Peace](https://open.spotify.com/track/7pDRAykBM45AObXmk2L4Cl) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Peace](https://open.spotify.com/album/6XvZZIudci1eKSN43SNnwn) | 3:37 | 2022-11-11 |  |
 | [Pearl\-button](https://open.spotify.com/track/6BNIemd2679Bg6BbNjP9Ko) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Pearl\-button](https://open.spotify.com/album/2YLC9erulM0m04cnteK4lb) | 3:18 | 2023-03-23 |  |
+| [Penitentes](https://open.spotify.com/track/6sHc80w3CXIpFAID6YNTxQ) | [Ray Love Trio](https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ) | [Penitentes](https://open.spotify.com/album/6rDN49jDeaRzg9GNWwZe7e) | 3:43 | 2024-07-01 |  |
 | [Place Under the Sun](https://open.spotify.com/track/4x1NJb0hSXhT042UVh6jky) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Place Under the Sun](https://open.spotify.com/album/0yN7pXxZ5vcUTLv91aVdxa) | 3:24 | 2024-05-23 | 2024-07-02 |
 | [Platinum Goose](https://open.spotify.com/track/3eoLFO9XPg6vnONeRen5hf) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [Platinum Goose](https://open.spotify.com/album/2yugNDUqoylzXH3T5FBggD) | 3:02 | 2023-02-16 |  |
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/7o83lDLcJ9uKnRZ1dBmcxN) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Gravy Train](https://open.spotify.com/album/2qfKHt02zZKOcr3hmKIeCq) | 4:58 | 2021-12-16 | 2022-06-30 |
@@ -625,7 +627,7 @@
 | [Sage](https://open.spotify.com/track/08nsgVrERoxnt6gLsecK62) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [Sage](https://open.spotify.com/album/0xsFdHjsDka91q5N8siY3z) | 2:47 | 2024-02-02 |  |
 | [Sailing Stones](https://open.spotify.com/track/73JetyewsVF0A1e2wEBzU6) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Sailing Stones](https://open.spotify.com/album/5be5TnG6tg6gRfx09QinvK) | 3:20 | 2024-05-10 |  |
 | [Sails](https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz) | [Manor Blue](https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q) | [Sails](https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm) | 3:27 | 2022-11-11 |  |
-| [Salar de Uyuni](https://open.spotify.com/track/4lmHHLC06pFMx2gb7KnDJW) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Salar de Uyuni](https://open.spotify.com/album/3RcrtLDdMGa4pvCtV4AMkp) | 4:14 | 2023-06-01 |  |
+| [Salar de Uyuni](https://open.spotify.com/track/4lmHHLC06pFMx2gb7KnDJW) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Salar de Uyuni](https://open.spotify.com/album/3RcrtLDdMGa4pvCtV4AMkp) | 4:14 | 2023-06-01 | 2024-07-04 |
 | [Sander](https://open.spotify.com/track/07VvD1Wz8hGKE2n6SEApWP) | [Tommie Blayne](https://open.spotify.com/artist/204e8Dl05BFPHdRr5icPdx) | [Sander](https://open.spotify.com/album/0oEU4hwkt4cel4aE2S9rZI) | 4:16 | 2023-06-15 |  |
 | [Say It Over And Over Again](https://open.spotify.com/track/2nivRlQMUpL7yDOS7hLPY9) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Lost In Your Eyes](https://open.spotify.com/album/2UDV9MOiixQUoXttk0sihh) | 3:20 | 2023-06-01 | 2024-05-27 |
 | [Search For Peace](https://open.spotify.com/track/41pWty3Q37WlXCcXW4KfOA) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Search For Peace](https://open.spotify.com/album/0mUxdj9cQf9wZMOr5Ordnc) | 5:06 | 2023-06-01 | 2024-05-11 |
@@ -880,6 +882,7 @@
 | [With A Little Bit Of Luck \- Instrumental](https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 6:02 | 2021-12-16 | 2024-03-24 |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-11-11 |  |
 | [Wooden String](https://open.spotify.com/track/7A0Tfue4lSnzJsudy5m7y9) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Wooden String](https://open.spotify.com/album/0JNbiCpZInQlQcYnRzVGZS) | 3:24 | 2023-08-10 |  |
+| [Woodland](https://open.spotify.com/track/5HydmnvQcjzE2JRf1GUtiz) | [Fred Hayes](https://open.spotify.com/artist/62p6oXKfOk0e0tLh9uO94a) | [Woodland](https://open.spotify.com/album/6806BOrYiaBMTYzpdDBdBR) | 3:24 | 2024-07-01 |  |
 | [Worry and Gossip](https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Worry and Gossip](https://open.spotify.com/album/1GA9JcA89pxedYvGc7FUqV) | 3:41 | 2023-10-13 |  |
 | [Would You Be So Kind](https://open.spotify.com/track/5rdkWQtSU6UT2Fg6MuwsNa) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [Would You Be So Kind](https://open.spotify.com/album/7KkBDxCXqxEOkpFi4WaXtX) | 4:05 | 2023-11-24 |  |
 | [Wrap Your Troubles In Dreams](https://open.spotify.com/track/7H6doSNNykKJH1ewJxW4FL) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [Wrap Your Troubles In Dreams](https://open.spotify.com/album/5BMDLUvkvvkaxOVWKDnM7Q) | 2:49 | 2023-06-08 |  |

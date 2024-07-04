@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTdx4nYEjeS.md) - [plain]
 
 > Música para acompañar esas rondas interminables de mate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,133 likes - 90 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,172 likes - 90 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTdx4nYEjeS.md) - [plain]
 | 24 | [ARRANCÁRMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCÁRMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
 | 25 | [Deja](https://open.spotify.com/track/6cEZTst4c5B476S1bjxtQE) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Deja](https://open.spotify.com/album/23DNKXFVnRhY1Rlgod5Rc4) | 2:29 |
 | 26 | [Como Eran Las Cosas](https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 4:00 |
-| 27 | [Chau](https://open.spotify.com/track/3uP1USIwwDpOA8uw0LjY2P) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 5:19 |
-| 28 | [Cae el Sol](https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Voragine](https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb) | 4:41 |
+| 27 | [Cae el Sol](https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Voragine](https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb) | 4:41 |
+| 28 | [Chau](https://open.spotify.com/track/3uP1USIwwDpOA8uw0LjY2P) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 5:19 |
 | 29 | [Tus Ojos](https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:14 |
 | 30 | [Hijos del Mar](https://open.spotify.com/track/3kJQBC699d773mxTQXO28z) | [Eté & Los Problems](https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk), [Sebastián Teysera](https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK) | [Hijos del Mar](https://open.spotify.com/album/6HIUSXAa22acCD5CtTr3Ed) | 3:31 |
 | 31 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Peluson Of Milk](https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv) | 2:40 |
@@ -89,11 +89,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTdx4nYEjeS.md) - [plain]
 | 79 | [Un Pacto \- Live In Buenos Aires / 2001](https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 4:55 |
 | 80 | [Decide Tú](https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Caminarás Caminos](https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS) | 4:08 |
 | 81 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 |
-| 82 | [Me haces bien](https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Sea](https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO) | 3:04 |
-| 83 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
+| 82 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
+| 83 | [Me haces bien](https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Sea](https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO) | 3:04 |
 | 84 | [Oncemil](https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [11](https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h) | 3:41 |
-| 85 | [Con la Misma Moneda](https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 4:26 |
-| 86 | [19 \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mordisco](https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD) | 3:17 |
+| 85 | [19 \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mordisco](https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD) | 3:17 |
+| 86 | [Con la Misma Moneda](https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 4:26 |
 | 87 | [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 |
 | 88 | [Reyes de la Noche](https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Toro Rojo](https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO) | 4:10 |
 | 89 | [Sueños \(with Julieta Venegas\) \- MTV Unplugged](https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:35 |

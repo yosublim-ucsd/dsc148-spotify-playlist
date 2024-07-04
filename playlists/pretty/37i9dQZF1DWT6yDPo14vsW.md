@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 
 > ¿Qué es lo que está pasando? ¿Amor o Desamor?
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,516 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,575 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,17 +42,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 32 | [Dreaming Of You](https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 5:14 |
 | 33 | [Otra Como Tu](https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:41 |
 | 34 | [Yo Te Amo](https://open.spotify.com/track/2sKo5u6IppUEudIz265wYa) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Simplemente](https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW) | 4:48 |
-| 35 | [El Perdedor](https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [SEX AND LOVE \(Deluxe\)](https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD) | 3:11 |
-| 36 | [Evidencias](https://open.spotify.com/track/5YndFYZkywO0F5taLwCEQR) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Silueta](https://open.spotify.com/album/1pmUVsO9cAYP6OmJNho4I0) | 4:16 |
+| 35 | [Evidencias](https://open.spotify.com/track/5YndFYZkywO0F5taLwCEQR) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Silueta](https://open.spotify.com/album/1pmUVsO9cAYP6OmJNho4I0) | 4:16 |
+| 36 | [El Perdedor](https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [SEX AND LOVE \(Deluxe\)](https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD) | 3:11 |
 | 37 | [Culpable O No \- Miénteme Como Siempre](https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 3:57 |
 | 38 | [Bésame](https://open.spotify.com/track/4LjyEL2sAQU7QZPC6GuTf6) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Dejarte De Amar](https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6) | 4:12 |
 | 39 | [Cosas De La Vida](https://open.spotify.com/track/0z3Voyxi0FH0SQBc7c4wri) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:48 |
 | 40 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
 | 41 | [Gotas De Agua Dulce](https://open.spotify.com/track/0Xn1VqBjoL4PAGxyatEO0Z) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [La Vida Es Un Ratico](https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY) | 3:08 |
 | 42 | [Corazon Espinado \(feat\. Mana\)](https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:34 |
-| 43 | [Me Va a Extrañar \(Unchain My Heart\)](https://open.spotify.com/track/35436ddSANnATz1eBT5FAY) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:58 |
+| 43 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 |
 | 44 | [Asi Fue](https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 5:25 |
-| 45 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 |
+| 45 | [Me Va a Extrañar \(Unchain My Heart\)](https://open.spotify.com/track/35436ddSANnATz1eBT5FAY) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:58 |
 | 46 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 |
 | 47 | [Heroe](https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt) | 4:23 |
 | 48 | [Abrázame](https://open.spotify.com/track/6rCyXpDwlMf1GH2qlpjJWv) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:50 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 81 | [Antes](https://open.spotify.com/track/565MagsPGofHeTxiH678pW) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Solo Exitos](https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1) | 3:40 |
 | 82 | [Tu Respiración](https://open.spotify.com/track/5bVCHIQgZ4Jcr6DFmnYqRo) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [En Todo Estaré \(Deluxe Edition\)](https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2) | 4:10 |
 | 83 | [Dime quien ama de verdad](https://open.spotify.com/track/0abQySNYXaj7H86yJVQ02B) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [CoverKM Recopilatorio](https://open.spotify.com/album/1ZBDFXm0iLRTOhg6SYUy5v) | 3:46 |
-| 84 | [Querido Tommy](https://open.spotify.com/track/2JCXcyMXlVywgDJT86wWZW) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [12 Historias](https://open.spotify.com/album/3EpLCnAGX2cSWEJ9WhL1G6) | 4:59 |
-| 85 | [Amame](https://open.spotify.com/track/3ZHRiFQZaJXRvnhUt43pqO) | [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [Estrella Guia](https://open.spotify.com/album/0bJDginBxFe7sM7Vz8gAAQ) | 4:05 |
+| 84 | [Amame](https://open.spotify.com/track/3ZHRiFQZaJXRvnhUt43pqO) | [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [Estrella Guia](https://open.spotify.com/album/0bJDginBxFe7sM7Vz8gAAQ) | 4:05 |
+| 85 | [Querido Tommy](https://open.spotify.com/track/2JCXcyMXlVywgDJT86wWZW) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [12 Historias](https://open.spotify.com/album/3EpLCnAGX2cSWEJ9WhL1G6) | 4:59 |
 | 86 | [Ella vive en mí](https://open.spotify.com/track/4HiJPtkFafo2IYx2kM0eDY) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Mentiras sinceras](https://open.spotify.com/album/4kycb8w5cgbdLcQ6uD6IyF) | 3:26 |
 | 87 | [Un Siglo Sin Ti](https://open.spotify.com/track/4SjWlauTM2FSmHfe62rDPW) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Desde Siempre](https://open.spotify.com/album/7GFpQchXpnoqDimteHViUX) | 4:38 |
 | 88 | [Bésame](https://open.spotify.com/track/15eXfjBk8M8L0aKJXe5YnG) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Besame](https://open.spotify.com/album/0Q8YqUymZLPDwUwfAHqZHg) | 3:56 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 97 | [Perdóname](https://open.spotify.com/track/5vr2aeKPuH8koWDcjRvlEn) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alboran \(Deluxe\)](https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc) | 4:11 |
 | 98 | [Pegadito](https://open.spotify.com/track/3NkWUspEJzcMcUJKoX1KJa) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Tarde O Temprano \(Late Edition\)](https://open.spotify.com/album/4SpycWodCTi8Ct9SUAEOzu) | 3:39 |
 | 99 | [Cuidarte el Alma](https://open.spotify.com/track/71nUOi1nLOt5KppAIeA8X4) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Sincero](https://open.spotify.com/album/03dnIimGspec4sucffQWLO) | 4:12 |
-| 100 | [Una Calle Nos Separa](https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:32 |
+| 100 | [Tal Vez](https://open.spotify.com/track/7dfcQMlkSp40GntNwX98Z6) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [17](https://open.spotify.com/album/7fUnkkWBAzFNC6JbYuuOnE) | 4:39 |
 
 Snapshot ID: `ZmyJVQAAAABiqndD0IbX/lhmQOH0o4f6`

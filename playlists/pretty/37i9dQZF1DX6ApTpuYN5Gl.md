@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 
 > sad beats\. deep vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,210 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,222 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 40 | [NO SKIN](https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [NO SKIN](https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ) | 4:38 |
 | 41 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
 | 42 | [Verden](https://open.spotify.com/track/0an9zVn661Xhu94USWLmIj) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H), [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Verden](https://open.spotify.com/album/3E7tB63oCaFKzaxJSlrLD2) | 5:44 |
-| 43 | [New Fires](https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [New Fires](https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj) | 4:11 |
-| 44 | [Higher](https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Remixes](https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX) | 3:36 |
+| 43 | [Higher](https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Remixes](https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX) | 3:36 |
+| 44 | [New Fires](https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [New Fires](https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj) | 4:11 |
 | 45 | [Why Does My Heart](https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq) | [Why Does My Heart](https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd) | 2:52 |
 | 46 | [Hush Hush](https://open.spotify.com/track/4Rz0P4dIS3gLBoPKhzNxXa) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Hush Hush](https://open.spotify.com/album/3jkBwDVX1UXdLclMHJsAAX) | 2:48 |
 | 47 | [Sorry](https://open.spotify.com/track/3vkzxY2aRL7uhz2BIFzT0V) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Sorry](https://open.spotify.com/album/3QEx4nahZb3ewLKs8b87UV) | 2:42 |

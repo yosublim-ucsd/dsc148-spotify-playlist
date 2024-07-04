@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ecuador.
 
-858 songs - 1 day 23 hr 48 min
+859 songs - 1 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 | 2021-10-17 | 2021-12-04 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-10-17 |
 | [Más De La Una](https://open.spotify.com/track/00szcRmgqJGtqrfIUYkM1h) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:56 | 2021-03-27\* | 2021-04-06 |
+| [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 | 2024-07-03 |  |
 | [NADIE SABE](https://open.spotify.com/track/23d8v6tU6lR77pFKsApMtF) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 6:19 | 2023-10-14 | 2023-10-30 |
 | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90) | 2:35 | 2024-04-05 | 2024-04-24 |
 | [Navidad, Navidad](https://open.spotify.com/track/683fOEDnFrDuFM9oMpuEhK) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 2:34 | 2023-12-26 | 2023-12-30 |
@@ -645,7 +646,7 @@
 | [Rapeadita LOVE](https://open.spotify.com/track/1mqixStNxcORNYvXSw2uXp) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 2:20 | 2024-04-27 | 2024-04-29 |
 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 | 2023-02-22 |  |
 | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf) | 3:11 | 2023-06-23 | 2023-07-09 |
-| [Razones](https://open.spotify.com/track/6ioloNq3bBHgoIJh3rC8BQ) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Razones](https://open.spotify.com/album/4WfHOJYS5nbp2bY4crOJUY) | 3:42 | 2024-07-02 |  |
+| [Razones](https://open.spotify.com/track/6ioloNq3bBHgoIJh3rC8BQ) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Razones](https://open.spotify.com/album/4WfHOJYS5nbp2bY4crOJUY) | 3:42 | 2024-07-02 | 2024-07-04 |
 | [REAL GANGSTA LOVE](https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:25 | 2024-05-31 |  |
 | [Reggaeton Champagne](https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Kittyponeo](https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM) | 2:39 | 2023-10-21 | 2024-02-16 |
 | [REINA](https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:31 | 2023-08-30 | 2023-10-15 |

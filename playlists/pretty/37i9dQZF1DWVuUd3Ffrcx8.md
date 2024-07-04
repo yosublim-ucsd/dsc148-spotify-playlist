@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuUd3Ffrcx8.md) - [plain]
 
 > 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: Camila Cabello, Drake\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,074 likes - 97 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,040 likes - 97 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

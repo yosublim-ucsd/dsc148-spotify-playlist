@@ -1531,6 +1531,28 @@
     },
     {
       "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191999,
+      "name": "I LOVE IT (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
+    },
+    {
+      "album": {
         "name": "FERITE",
         "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
       },

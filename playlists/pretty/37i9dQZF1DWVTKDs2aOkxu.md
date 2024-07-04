@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Kasabian soundtracking the indie summer you all deserve ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,875 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,822 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

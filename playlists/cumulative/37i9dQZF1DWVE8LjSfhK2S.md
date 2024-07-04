@@ -2,9 +2,9 @@
 
 ### [Beverly Hills Cop: Axel F Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWVE8LjSfhK2S)
 
-> He's back by popular demand...Listen to the music from Beverly Hills Cop ahead of Beverly Hills Cop: Axel F, coming soon to Netflix.
+> He's back by popular demand...Listen to the music from Beverly Hills Cop: Axel F, now streaming on Netflix.
 
-24 songs - 1 hr 34 min
+29 songs - 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,14 +16,19 @@
 | [Come See About Me \- Single Version / Mono](https://open.spotify.com/track/5DomvLjOAWkPbJ5Kff2BFf) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Beverly Hills Cop III \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5aTdthxlvQO8SjFTN0AWE4) | 2:37 | 2024-05-23 |  |
 | [Cross My Broken Heart](https://open.spotify.com/track/61Ss9YGGQ9yLcsK9tESN9H) | [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Beverly Hills Cop II](https://open.spotify.com/album/74BnQfE4kxFWcZLu8FIDbL) | 4:11 | 2024-05-23 |  |
 | [Do You Really \(Want My Love\)](https://open.spotify.com/track/3DqKxDLPcmbTdYv4TLC1Vo) | [Junior](https://open.spotify.com/artist/5g3B6vce2x5AGRetu3ViYv) | [The Best of Junior \- Mama Used to Say](https://open.spotify.com/album/5j1OAW5C9jqOls60eTaH2s) | 4:00 | 2024-05-23 |  |
+| [energy](https://open.spotify.com/track/0SWt9XzD4kOjzPJGt0nTAY) | [iZNiiK](https://open.spotify.com/artist/6jB9IkEbgX38EWUmDqLgmR) | [EP 3](https://open.spotify.com/album/1Hz8lcEdta6cqi7Smx5JXe) | 4:05 | 2024-07-03 |  |
+| [Family Affair](https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 4:25 | 2024-07-03 |  |
+| [Helen](https://open.spotify.com/track/49QulDfYu6yJilaX6BaRPV) | [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D) | [Helen](https://open.spotify.com/album/5Yy7NYLptBuM0grySrkgkf) | 1:22 | 2024-07-03 |  |
 | [HERE WE GO! \- from the Netflix film "Beverly Hills Cop: Axel F"](https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HERE WE GO! \(from the Netflix film "Beverly Hills Cop: Axel F"\)](https://open.spotify.com/album/0g097m0P0zZhYnImicon1n) | 3:12 | 2024-06-28 |  |
 | [Hold On](https://open.spotify.com/track/7bPC3vnEJRzg9qPWzvAoiB) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [Beverly Hills Cop II](https://open.spotify.com/album/74BnQfE4kxFWcZLu8FIDbL) | 3:45 | 2024-05-23 |  |
 | [I Can't Stand It](https://open.spotify.com/track/3OCLWJ68wgUqfFhE0zjmYx) | [SueAnn](https://open.spotify.com/artist/6KJPdS5mWUiZLZ2uH09rE6) | [Beverly Hills Cop II](https://open.spotify.com/album/74BnQfE4kxFWcZLu8FIDbL) | 4:03 | 2024-05-23 |  |
+| [I Don't F\*\*k With You](https://open.spotify.com/track/7taXl2C2594pF4gjumrF4W) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Dark Sky Paradise \(Deluxe\)](https://open.spotify.com/album/6NVRGg3dKALTNwHqAqdYBf) | 4:44 | 2024-07-03 |  |
 | [I Want Your Sex, Pt\. 2](https://open.spotify.com/track/63yvbYvoyEWCHlzK26wsPi) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 4:36 | 2024-05-23 |  |
 | [In Deep](https://open.spotify.com/track/2Sb5oPHYpgTIbOzw7SsSDt) | [Charlie Sexton](https://open.spotify.com/artist/132XHXfIbAJi5jQKmH986p) | [Beverly Hills Cop II](https://open.spotify.com/album/74BnQfE4kxFWcZLu8FIDbL) | 3:34 | 2024-05-23 |  |
 | [Leavin'](https://open.spotify.com/track/2MCKo5BkpQ3GOFcdrCkNwv) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Beverly Hills Cop III \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5aTdthxlvQO8SjFTN0AWE4) | 4:04 | 2024-05-23 |  |
 | [Love/Hate \- From "Beverly Hills Cop II"](https://open.spotify.com/track/38FzXSyA7PDgtjDTqdYohr) | [Pebbles](https://open.spotify.com/artist/702AvACMk5mieXIYlC2Gxx) | [Beverly Hills Cop II](https://open.spotify.com/album/74BnQfE4kxFWcZLu8FIDbL) | 4:01 | 2024-05-23 |  |
 | [Luv 4 Dem Gangsta'z](https://open.spotify.com/track/3x9EOskALM4GqvDXdAm41N) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [Starring...Eazy E](https://open.spotify.com/album/579YAKhjxdhMgOKussGfoA) | 4:34 | 2024-05-23 |  |
+| [Milkshake](https://open.spotify.com/track/4LmzPJDil70LpiApWfOI6O) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [The Hits](https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7) | 3:02 | 2024-07-03 |  |
 | [Mood](https://open.spotify.com/track/0JD0J50HBKTuHcYNTbh1vO) | [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo) | [Beverly Hills Cop III \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5aTdthxlvQO8SjFTN0AWE4) | 4:10 | 2024-05-23 |  |
 | [Neutron Dance](https://open.spotify.com/track/3Uyxe1fbF4zWSEwy38qgMw) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out \(1983 Version \- Expanded Edition\)](https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM) | 4:13 | 2024-05-23 |  |
 | [New Attitude](https://open.spotify.com/track/71DxDMPiElIeGgvJvtITXR) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Patti LaBelle's Greatest Hits](https://open.spotify.com/album/12ENRe4Pw9qXVXz10nng3R) | 4:11 | 2024-05-23 |  |

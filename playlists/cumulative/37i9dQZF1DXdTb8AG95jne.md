@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: The Volunteers\(더 발룬티어스\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: LEE SEUNG YOON\(이승윤\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-741 songs - 1 day 21 hr 20 min
+742 songs - 1 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,6 +485,7 @@
 | [Pluto](https://open.spotify.com/track/1wuZAvMhmqIecohHQYibED) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Boong\-](https://open.spotify.com/album/0HANd2pgqDZkrpzx4lLvOc) | 3:55 | 2021-12-21 | 2022-07-25 |
 | [Pluto \(feat\. Woshi\)](https://open.spotify.com/track/7EaG6UP4h9EEFrz71ctqgV) | [Waizmin](https://open.spotify.com/artist/0H7VLFkfZZ5i1oEvrWKDBm), [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq) | [Pluto](https://open.spotify.com/album/2h5lZIXOeoLR0JJ07By9HP) | 3:26 | 2022-07-04 | 2022-07-09 |
 | [Po.Ong \(feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/5H14NYlM5sV4FTL2NHzych) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW), [Kim Min Seok of MeloMance](https://open.spotify.com/artist/65a7h2pva5HZy6aZA9bvdW) | [Po.Ong \(Hug\)](https://open.spotify.com/album/0F6Yr8EQDnuHn19ZcTMcqj) | 3:47 | 2024-04-30 | 2024-05-10 |
+| [POKZOOK TIME](https://open.spotify.com/track/7ok3LoeV3VwL4PKU24bMpv) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PRE\-RELEASE 3RD ALBUM \[YEOK SEONG\]](https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR) | 3:18 | 2024-07-03 |  |
 | [Pong Dang](https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Pong Dang](https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2) | 3:53 | 2022-07-08 | 2022-07-12 |
 | [pony](https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [pony](https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc) | 3:01 | 2023-07-05 |  |
 | [Potential](https://open.spotify.com/track/6Lrp4HqonE16Tt8PDeOHbY) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Potential](https://open.spotify.com/album/1aF1e7wcTDiADgCGe6trPg) | 3:08 | 2022-06-20 | 2022-06-30 |
@@ -532,7 +533,7 @@
 | [Seoul City \- Spotify Singles](https://open.spotify.com/track/2ZXUclexEqoF3MsLK33xsx) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [sAewoo](https://open.spotify.com/artist/5JzGdNWFlf4S7upAVbiX35) | [Spotify Singles](https://open.spotify.com/album/7IDwq3HwkSlakUOBKmTrqK) | 3:34 | 2023-03-01 | 2023-03-28 |
 | [Seoul Cyborg](https://open.spotify.com/track/4rrMmUmhSdFlulRRxek9xw) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Pacemaker](https://open.spotify.com/album/2lVYVVjbyDmlSZeBjSnAfr) | 3:22 | 2021-12-21 | 2022-07-22 |
 | [She's like a Pretty Witch \(Feat\. Kvsh\)](https://open.spotify.com/track/1xZc4SJuQI9e9pES2h2imf) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z) | [c\-a\-r\-e\-l\-e\-s\-s](https://open.spotify.com/album/6zi6edZVRlp5Efy15XAqLB) | 2:53 | 2024-04-30 | 2024-05-28 |
-| [Shelter Of Dreams](https://open.spotify.com/track/2DauGSCkwdgts3sUkuQu30) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Shelter Of Dreams](https://open.spotify.com/album/7nYp9JSCBmrEN30yjXI5rJ) | 4:32 | 2024-07-01 |  |
+| [Shelter Of Dreams](https://open.spotify.com/track/2DauGSCkwdgts3sUkuQu30) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Shelter Of Dreams](https://open.spotify.com/album/7nYp9JSCBmrEN30yjXI5rJ) | 4:32 | 2024-07-01 | 2024-07-04 |
 | [Shimmer](https://open.spotify.com/track/7uoMYFa07mkc8fDPxKQ7jO) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Shimmer](https://open.spotify.com/album/3mA6BYaLOeIJlYUCGfSiFq) | 4:11 | 2024-04-30 | 2024-05-10 |
 | [Shining](https://open.spotify.com/track/2V9WSMXEQsndclO6euxhus) | [JEMINN](https://open.spotify.com/artist/1PuPoF4cUFMhb9xbzeKpg2) | [Shining](https://open.spotify.com/album/7DLTL4SBnacezYhSPmV5qW) | 4:13 | 2022-03-31 | 2022-04-17 |
 | [SHINING!](https://open.spotify.com/track/5puMsDHMS36xxIeWHGY7nX) | [찰리빈웍스](https://open.spotify.com/artist/1aoo4BsnCKdH4feovaFNcF) | [The Hitchhiker's Guide to Time Travel, Pt.1](https://open.spotify.com/album/50APc4pcbqNcOfsy8QYyvp) | 3:51 | 2023-01-25 | 2023-02-15 |

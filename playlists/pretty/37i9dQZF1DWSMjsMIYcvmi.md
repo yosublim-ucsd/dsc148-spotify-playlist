@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjsMIYcvmi.md) - [plain]
 
 > Hey \(office\) DJ, turn the music up! 👩‍💻
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,865 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,864 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjsMIYcvmi.md) - [plain]
 | 9 | [7 rings](https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:58 |
 | 10 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 |
 | 11 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
-| 12 | [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 |
-| 13 | [Shotgun](https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:21 |
+| 12 | [Shotgun](https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:21 |
+| 13 | [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 |
 | 14 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |
 | 15 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
 | 16 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:45 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjsMIYcvmi.md) - [plain]
 | 65 | [By The Way](https://open.spotify.com/track/7rhryng8NGv5rVCi6Qf2g5) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [Motheo Moleko](https://open.spotify.com/artist/5Wh08VDk9Jz2FMLFUhThjT) | [By The Way](https://open.spotify.com/album/3wJrUiBLCxGHDJTo9zFo4A) | 3:42 |
 | 66 | [Future](https://open.spotify.com/track/3rZ29lqgtrpuIIuCdZaxEA) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Everything's Blurred But You](https://open.spotify.com/album/3ZNxdIgd8wFuQcFj6WhF6O) | 3:29 |
 | 67 | [Memories](https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Memories](https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc) | 3:09 |
-| 68 | [SAD](https://open.spotify.com/track/1OluxsldzYJXlilQKnPh5B) | [Jethro Tait](https://open.spotify.com/artist/1gNzhazbuffPQaf5nkUdcP) | [SAD](https://open.spotify.com/album/3G5FFHZjZrucRS5tQh68NF) | 3:14 |
-| 69 | [So Cool](https://open.spotify.com/track/77ilrvQSGD3BWTDcFCn0FE) | [The Planetoids](https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm), [Tamara Dey](https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9) | [So Cool](https://open.spotify.com/album/3qDSi20OwFqEp879zRl0Hx) | 3:27 |
-| 70 | [Fetch Your Life \- Edit](https://open.spotify.com/track/5TjU2caAGjHBiPDS1BVA4q) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Fetch Your Life](https://open.spotify.com/album/2ponaGskmq7luVWgK4Drw4) | 5:24 |
+| 68 | [Maobane](https://open.spotify.com/track/6uJA7rmqvP0PpYYVtpu7jx) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid), [Rochelle](https://open.spotify.com/artist/55RKbZHb1yAXuvEHTIyaxJ) | [Maobane](https://open.spotify.com/album/05urIcXpSOPIOEIbPi60MV) | 2:55 |
+| 69 | [SAD](https://open.spotify.com/track/1OluxsldzYJXlilQKnPh5B) | [Jethro Tait](https://open.spotify.com/artist/1gNzhazbuffPQaf5nkUdcP) | [SAD](https://open.spotify.com/album/3G5FFHZjZrucRS5tQh68NF) | 3:14 |
+| 70 | [So Cool](https://open.spotify.com/track/77ilrvQSGD3BWTDcFCn0FE) | [The Planetoids](https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm), [Tamara Dey](https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9) | [So Cool](https://open.spotify.com/album/3qDSi20OwFqEp879zRl0Hx) | 3:27 |
 
 Snapshot ID: `Zk/L0AAAAAAPf0VKJy8L4tbJ6sZ5SNud`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 
 > This is Shane & Shane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,184 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,192 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 | 30 | [Breathe](https://open.spotify.com/track/3GrMFCWoIh0YHULGsAuHj0) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 5:38 |
 | 31 | [Psalm 91 \(On Eagles' Wings\)](https://open.spotify.com/track/572afBiucwePeZgB1BBRfC) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 4:04 |
 | 32 | [Give Me Jesus](https://open.spotify.com/track/0RsaQMxAuonHIVM7pjQm6S) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 4:42 |
-| 33 | [Yahweh \(Psalm 84\)](https://open.spotify.com/track/5T12pdka57KQjG6kfIlNrk) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Writers Well](https://open.spotify.com/artist/1pmi6rarpOlFn6aWPXBRqi), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Max Dasher](https://open.spotify.com/artist/3wq2iqRqMHZm9KQ8GybUCE) | [Psalms from the Well](https://open.spotify.com/album/4c4cEn07dXS7q9l4mwk5Ic) | 4:58 |
+| 33 | [Christ Our Hope In Life And Death](https://open.spotify.com/track/1zk44kfCF3DBdyrdtQg7wf) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 20](https://open.spotify.com/album/2cuCnA14duuyj2jhlIyG1p) | 4:31 |
 | 34 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/0YR6Ga8ZNd9w93OP8Goaem) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 4:21 |
-| 35 | [Christ Our Hope In Life And Death](https://open.spotify.com/track/1zk44kfCF3DBdyrdtQg7wf) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 20](https://open.spotify.com/album/2cuCnA14duuyj2jhlIyG1p) | 4:31 |
+| 35 | [Yahweh \(Psalm 84\)](https://open.spotify.com/track/5T12pdka57KQjG6kfIlNrk) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Writers Well](https://open.spotify.com/artist/1pmi6rarpOlFn6aWPXBRqi), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Max Dasher](https://open.spotify.com/artist/3wq2iqRqMHZm9KQ8GybUCE) | [Psalms from the Well](https://open.spotify.com/album/4c4cEn07dXS7q9l4mwk5Ic) | 4:58 |
 | 36 | [The Lord Is My Salvation](https://open.spotify.com/track/2hGceYvgFdrhriDL1KKDLF) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 6:11 |
 | 37 | [Psalm 45 \(Fairest of All\)](https://open.spotify.com/track/3EWCQ11cjcgjKOCJFXTKuz) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 5:25 |
 | 38 | [Draw Me Close](https://open.spotify.com/track/4cXn1bMqeZjyE65Ajl3Au8) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 5:54 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 | 46 | [Come As You Are](https://open.spotify.com/track/7bIm0ycdw7tiQEjsKzSTmM) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 12](https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV) | 4:35 |
 | 47 | [O Praise the Name \(Live\)](https://open.spotify.com/track/06JooBbucchucT6w3HaMlR) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms Live](https://open.spotify.com/album/3UzKQzSKz9lo1rGBDm7iFv) | 4:52 |
 | 48 | [Psalm 84 \(I'm Home\)](https://open.spotify.com/track/6BaCssQMVGSLNElXyrmmGF) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:02 |
-| 49 | [Though You Slay Me](https://open.spotify.com/track/2Ujuq5IFtnJJ7b63okoUo6) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Bring Your Nothing](https://open.spotify.com/album/2NsOkopEDusRSAYfXClwBa) | 4:38 |
-| 50 | [Thy Word / Where Else Would I Go](https://open.spotify.com/track/4DNg9Fj8uPHFHyP9FiToOr) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Thy Word / Where Else Would I Go](https://open.spotify.com/album/4MvZpn0juam6DajxgdwOI2) | 4:57 |
+| 49 | [Thy Word / Where Else Would I Go](https://open.spotify.com/track/4DNg9Fj8uPHFHyP9FiToOr) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Thy Word / Where Else Would I Go](https://open.spotify.com/album/4MvZpn0juam6DajxgdwOI2) | 4:57 |
+| 50 | [Though You Slay Me](https://open.spotify.com/track/2Ujuq5IFtnJJ7b63okoUo6) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Bring Your Nothing](https://open.spotify.com/album/2NsOkopEDusRSAYfXClwBa) | 4:38 |
 
-Snapshot ID: `ZoHxgAAAAAB9qAT1Dt7gfj9PJFWto2jr`
+Snapshot ID: `ZoNDAAAAAAC3+irHtfdoewNlebgFcZGy`

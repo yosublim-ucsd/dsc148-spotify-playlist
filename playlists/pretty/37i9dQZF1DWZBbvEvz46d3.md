@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,861 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,876 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 54 | [W Glowie](https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0) | [Ania Dąbrowska](https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO) | [Dla Naiwnych Marzycieli](https://open.spotify.com/album/0oGiggXuV7aZA3omAELhiR) | 3:25 |
 | 55 | [Każdego Dnia](https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg) | [Kontrast](https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry) | 3:05 |
 | 56 | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj) | [Maciej Musiałowski](https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN), [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw) | 4:09 |
-| 57 | [Chodź, pomaluj mój świat](https://open.spotify.com/track/4ugeq72uzChJZAgvqwD9ub) | [2 + 1](https://open.spotify.com/artist/0QEpcs3nm7UnAMcqL2zrcW) | [Polska nostalgia 60+ Cz\. 4](https://open.spotify.com/album/4qsfOticmzQEfDRED5nsx4) | 2:24 |
-| 58 | [My](https://open.spotify.com/track/7JwyKyBWo65WaJA6zcYxjR) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Miłość w czasach popkultury](https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ) | 3:26 |
-| 59 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 |
-| 60 | [Zostań](https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Bumerang](https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt) | 4:06 |
+| 57 | [My](https://open.spotify.com/track/7JwyKyBWo65WaJA6zcYxjR) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Miłość w czasach popkultury](https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ) | 3:26 |
+| 58 | [Chodź, pomaluj mój świat](https://open.spotify.com/track/4ugeq72uzChJZAgvqwD9ub) | [2 + 1](https://open.spotify.com/artist/0QEpcs3nm7UnAMcqL2zrcW) | [Polska nostalgia 60+ Cz\. 4](https://open.spotify.com/album/4qsfOticmzQEfDRED5nsx4) | 2:24 |
+| 59 | [Zostań](https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Bumerang](https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt) | 4:06 |
+| 60 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 |
 | 61 | [Jedwab](https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn) | [Róże Europy](https://open.spotify.com/artist/41sRkYTgCw2nfpLrdvii3l) | [Poganie! Kochaj i Obrażaj](https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L) | 6:09 |
 | 62 | [Na Chwile](https://open.spotify.com/track/4alKgSl6ySuhyNnstJyUmt) | [Grzegorz Hyży](https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm), [Tabb](https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ) | [Z calych sil](https://open.spotify.com/album/1Z5Ny1o2bml9NXWuJTXafj) | 3:49 |
 | 63 | [Dmuchawce, Latawce, Wiatr](https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3) | [Urszula](https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX) | [Wielki Odlot 2 \- Najlepsze 80\-te](https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI) | 5:26 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 70 | [Niech no tylko zakwitną jabłonie](https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg) | [Bitamina](https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ) | [Niech no tylko zakwitną jabłonie](https://open.spotify.com/album/6qHFJJQdzanqKZ0jcqx5nb) | 2:37 |
 | 71 | [Chodz, przytul, przebacz](https://open.spotify.com/track/5eYQ4VtpaITG5fMmLBPYZi) | [Andrzej Piaseczny](https://open.spotify.com/artist/3sYr49vFJ6BPZnV5Ky1PLH) | [Spis Rzeczy Ulubionych](https://open.spotify.com/album/2h7ug91di7NKRe2gENYET7) | 4:46 |
 | 72 | [Boję Się Kochać](https://open.spotify.com/track/00Nl9PlaLr0g4ujpWosQuH) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ) | [Boję Się Kochać](https://open.spotify.com/album/2SwEmJJ6Ya4gFWxbSWAwZz) | 3:06 |
-| 73 | [Rzuć Wszystko Co Złe](https://open.spotify.com/track/11iQIrOyUNjzH6jJtC3NIb) | [Zbigniew Wodecki](https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn), [Mitch & Mitch](https://open.spotify.com/artist/2PQkXVCcXu0Nwf226rzGXq) | [1976: A Space Odyssey](https://open.spotify.com/album/1b31QujyuXOOLxasCvfTvn) | 4:06 |
-| 74 | [Silacz](https://open.spotify.com/track/2anIL8mQb31ZlxLMEjwhG9) | [Marcin Rozynek](https://open.spotify.com/artist/0K0Sa7amVwCmQKz7ZHRRim) | [Ksiega Urodzaju](https://open.spotify.com/album/5OWhE19fiFeQLFY9mD0UQr) | 3:59 |
+| 73 | [Silacz](https://open.spotify.com/track/2anIL8mQb31ZlxLMEjwhG9) | [Marcin Rozynek](https://open.spotify.com/artist/0K0Sa7amVwCmQKz7ZHRRim) | [Ksiega Urodzaju](https://open.spotify.com/album/5OWhE19fiFeQLFY9mD0UQr) | 3:59 |
+| 74 | [Rzuć Wszystko Co Złe](https://open.spotify.com/track/11iQIrOyUNjzH6jJtC3NIb) | [Zbigniew Wodecki](https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn), [Mitch & Mitch](https://open.spotify.com/artist/2PQkXVCcXu0Nwf226rzGXq) | [1976: A Space Odyssey](https://open.spotify.com/album/1b31QujyuXOOLxasCvfTvn) | 4:06 |
 | 75 | [Safari](https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN) | [Piotr Zioła](https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB) | [Revolving Door](https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88) | 3:36 |
 
 Snapshot ID: `ZcYcXgAAAAD0InyU73baqM5eTOD9rScB`

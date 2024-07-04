@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,202 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,254 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 89 | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt) | 2:10 |
 | 90 | [Queen Chavosa](https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:40 |
 | 91 | [Bendito](https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Bendito](https://open.spotify.com/album/0VkG6GIwPJ7SoWE4pbocIm) | 2:57 |
-| 92 | [De Lala \- Spotify Singles](https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Dj Binho](https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk), [Dj Geh](https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh) | [De Lala \- Spotify Singles](https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX) | 2:40 |
-| 93 | [Ok Baby](https://open.spotify.com/track/6EHSC5FGDVtL3LPcHkZQCi) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA) | [Ok Baby](https://open.spotify.com/album/0N8j8hvyEfBrQbBPMhNGD9) | 2:44 |
+| 92 | [Ok Baby](https://open.spotify.com/track/6EHSC5FGDVtL3LPcHkZQCi) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA) | [Ok Baby](https://open.spotify.com/album/0N8j8hvyEfBrQbBPMhNGD9) | 2:44 |
+| 93 | [De Lala \- Spotify Singles](https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Dj Binho](https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk), [Dj Geh](https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh) | [De Lala \- Spotify Singles](https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX) | 2:40 |
 | 94 | [Gatinha](https://open.spotify.com/track/3fFP5qW0JBpqcSJ14XFNKU) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Gatinha](https://open.spotify.com/album/7cG0tGPI9KcNO7v6So6UFW) | 3:15 |
 | 95 | [Oclin e Evoque](https://open.spotify.com/track/3PnDIGbfmswMaxX386zp3X) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Oclin e Evoque](https://open.spotify.com/album/1lm0ePGaAMF91JfN3O9sI7) | 3:32 |
 | 96 | [Meu Corre](https://open.spotify.com/track/0iTTbJikpkTpjn4FUwH9lW) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Meu Corre](https://open.spotify.com/album/1jFY75tKVWiLmiCRe6WFGr) | 2:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 
 > for those who appreciate a curated mood 🪩 cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,666 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,205 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 11 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 |
 | 12 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
 | 13 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 |
-| 14 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 |
-| 15 | [Some](https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Some](https://open.spotify.com/album/4POiurFeB5bDsF9yBwOxbh) | 1:58 |
+| 14 | [Some](https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Some](https://open.spotify.com/album/4POiurFeB5bDsF9yBwOxbh) | 1:58 |
+| 15 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 |
 | 16 | [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU) | 2:54 |
 | 17 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 |
 | 18 | [Jocelyn Flores](https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:59 |
@@ -53,17 +53,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 43 | [In My Mind](https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [In My Mind](https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt) | 2:42 |
 | 44 | [Bubble Gum](https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bubble Gum](https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2) | 2:55 |
 | 45 | [Vas](https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l) | [jagger finn](https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa) | [Triplbt Theme](https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM) | 1:30 |
-| 46 | [Morning Sex](https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Morning Sex](https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ) | 2:55 |
-| 47 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 |
+| 46 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 |
+| 47 | [Morning Sex](https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Morning Sex](https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ) | 2:55 |
 | 48 | [This Is Home](https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [This Is Home](https://open.spotify.com/album/0eB1tOktFK5AtA9YBYSXRu) | 3:46 |
 | 49 | [She Likes Another Boy](https://open.spotify.com/track/5W6BA8Wa8JZGKdliH2gkwO) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [She Likes Another Boy + Talk 2 U](https://open.spotify.com/album/173xQWSgG3rzoNjJ7yskiA) | 3:27 |
 | 50 | [Shootout](https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout](https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5) | 4:55 |
 | 51 | [Just the Two of Us](https://open.spotify.com/track/5fdNHVZHbWB1AaXk4RBGVD) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Winelight](https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU) | 7:23 |
 | 52 | [my future](https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [my future](https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5) | 3:28 |
 | 53 | [Flaming Hot Cheetos](https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Flaming Hot Cheetos](https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE) | 2:03 |
-| 54 | [EVERYTHING](https://open.spotify.com/track/19Hg1UCZaCdpHB37L7x63X) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 4:53 |
-| 55 | [Sunflower, Vol\. 6](https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:41 |
-| 56 | [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 |
+| 54 | [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 |
+| 55 | [EVERYTHING](https://open.spotify.com/track/19Hg1UCZaCdpHB37L7x63X) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 4:53 |
+| 56 | [Sunflower, Vol\. 6](https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:41 |
 | 57 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 |
 | 58 | [Boys Will Be Bugs](https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 5:29 |
 | 59 | [Dancing in My Room](https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Dancing in My Room](https://open.spotify.com/album/3t1MvGhT6LU3fOIp3KMrta) | 3:00 |

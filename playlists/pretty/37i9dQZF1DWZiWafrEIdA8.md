@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,191 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,198 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 29 | [Life is Wet](https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [Life is Wet](https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z) | 3:06 |
 | 30 | [Action! \(Feat\. GRAY\)](https://open.spotify.com/track/3IW5rhsRBxstifAnjQyUI9) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Action!](https://open.spotify.com/album/4Hb8uCYS7SG7vJ7oHInaAw) | 3:10 |
 | 31 | [Rainy day \(Feat\. ASH ISLAND, Skinny Brown\)](https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Rainy day](https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2) | 3:38 |
-| 32 | [ISLAND](https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [ISLAND](https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur) | 3:17 |
-| 33 | [Good Night \(Feat\. BE'O\)](https://open.spotify.com/track/7uzmxEjFEAiadiCCXa0bhi) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [RE:UP](https://open.spotify.com/album/7eLDu8gX4OteyGpDLvM99h) | 3:10 |
+| 32 | [Good Night \(Feat\. BE'O\)](https://open.spotify.com/track/7uzmxEjFEAiadiCCXa0bhi) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [RE:UP](https://open.spotify.com/album/7eLDu8gX4OteyGpDLvM99h) | 3:10 |
+| 33 | [ISLAND](https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [ISLAND](https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur) | 3:17 |
 | 34 | [Oscar](https://open.spotify.com/track/2Wqnhu5dRQDAQi8Ej6HnVQ) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Golden](https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [H1GHR : BLUE TAPE](https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ) | 3:08 |
 | 35 | [Romance Symphony \(Feat\. CHANGMO, Jay Park\)](https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 4:00 |
 | 36 | [Don′t do That](https://open.spotify.com/track/5OiD0uUNxZkSyG3opReDlx) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S) | [TOYSTORY3](https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy) | 2:15 |

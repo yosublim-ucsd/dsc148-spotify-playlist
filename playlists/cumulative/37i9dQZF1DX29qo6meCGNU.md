@@ -4,7 +4,7 @@
 
 > Perreo con ❤️‍🔥❤️‍🔥❤️‍🔥
 
-440 songs - 23 hr 52 min
+441 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Detente](https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:01 | 2022-01-14 |  |
 | [Dile \(Homenaje\)](https://open.spotify.com/track/073yIM7v2j6XadD4Nkn0Fh) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 3:48 | 2022-03-25 | 2023-01-14 |
 | [Dime tú](https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Dime tú](https://open.spotify.com/album/3eOqEdggLEeQz0jAZpNCXD) | 3:30 | 2022-01-14 |  |
+| [Dimelo Mami](https://open.spotify.com/track/1MCArCVJUgBUrBnzUoZqmq) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [444](https://open.spotify.com/album/6xKpzZVah8P8ybxXDOG4Ad) | 2:34 | 2024-07-03 |  |
 | [Diosa](https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 3:34 | 2022-01-14 |  |
 | [Doctor](https://open.spotify.com/track/2OWlM0rndaLjgtiLCHDIRM) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [JonTheProducer](https://open.spotify.com/artist/415U6UPWJEnCPoGsVlX2nV) | [Doctor](https://open.spotify.com/album/4lr74mf49nDttiWXbwmD0K) | 3:10 | 2022-01-14 | 2022-07-27 |
 | [DONDE SE APRENDE A QUERER?](https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 2:24 | 2023-09-01 |  |
@@ -355,7 +356,7 @@
 | [ROMÁNTICOS DE LUNES](https://open.spotify.com/track/7mfztd9ZxJF4c5JYZhe8XH) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 4:03 | 2023-09-29 | 2023-10-12 |
 | [Ropa Interior \(feat\. Beéle\)](https://open.spotify.com/track/0fuNqrwsaOVrhowxsAKvc8) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:20 | 2022-02-28 | 2022-04-17 |
 | [Rápido](https://open.spotify.com/track/1fRrLD0RQz3kgboRX0dNUR) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 2:35 | 2023-11-17 | 2023-12-02 |
-| [rápido lento](https://open.spotify.com/track/4xv2A022v5A8nyewDkYOkQ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [rápido lento](https://open.spotify.com/album/7wrDNMoSx249yOV0xFdRzn) | 3:33 | 2022-01-14 |  |
+| [rápido lento](https://open.spotify.com/track/4xv2A022v5A8nyewDkYOkQ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [rápido lento](https://open.spotify.com/album/7wrDNMoSx249yOV0xFdRzn) | 3:33 | 2022-01-14 | 2024-07-04 |
 | [S.A.D](https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [S.A.D](https://open.spotify.com/album/2y4bx11ZTk9jxo0zXwLhLm) | 2:08 | 2023-01-13 | 2024-04-19 |
 | [S.A.D](https://open.spotify.com/track/46D8MyZ8htLBj7BjblMyeX) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [S.A.D](https://open.spotify.com/album/08FuW6Ze2LksgpPpjRqJTd) | 2:08 | 2022-03-25 | 2022-04-14 |
 | [Santorini](https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Santorini](https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z) | 2:40 | 2023-07-07 |  |

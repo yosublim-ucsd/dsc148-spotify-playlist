@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: <a href="spotify:artist:55qfDfgj4Qi3JGe6KpqGtC">Blessing Offor</a>  \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,830 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,838 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 87 | [Blessings](https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings](https://open.spotify.com/album/2IPCK9h2W6YKCs951ytlfA) | 2:42 |
 | 88 | [Reason](https://open.spotify.com/track/4Z9DZqnQJy68WIBft5pNQD) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Reason](https://open.spotify.com/album/7qRh53LMZ3GQTTaNWVPq2o) | 3:07 |
 | 89 | [On My Own](https://open.spotify.com/track/3SH1GUgYNHGlaUsJ3uLUcB) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [Bryann T](https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0) | [Light Work 3](https://open.spotify.com/album/1GAKDN8I6VKl8NX7LoTyEw) | 4:08 |
-| 90 | [YOU](https://open.spotify.com/track/3ZMh5ZG2KPAyhfzR7C99vj) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [YOU](https://open.spotify.com/album/6VvEgJ1Ji4sTik5Kqdh7dL) | 2:13 |
+| 90 | [YOU](https://open.spotify.com/track/3ZMh5ZG2KPAyhfzR7C99vj) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [YOU](https://open.spotify.com/album/6VvEgJ1Ji4sTik5Kqdh7dL) | 2:13 |
 | 91 | [NO FRIENDS](https://open.spotify.com/track/02ukrJfoHTagogj3cTR9sO) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Shua](https://open.spotify.com/artist/7itDSdWcVsCH0PRqrcUVW7) | [EREMOS](https://open.spotify.com/album/6ip0mKMe6muq0ZuEsiJ1XJ) | 2:41 |
 | 92 | [FIELD DAY](https://open.spotify.com/track/22w6bfT6LBC19AkapdZplB) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [FIELD DAY](https://open.spotify.com/album/3HA6MLAi5dxN82TgAEIB3l) | 2:43 |
 | 93 | [Third Day \(feat\. Ty Brasel\)](https://open.spotify.com/track/585LHTE4ugzJoCqk6bmkjV) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [Nobody's Perfect](https://open.spotify.com/album/7vT6SPfaNYXMPS26KZETHJ) | 3:09 |

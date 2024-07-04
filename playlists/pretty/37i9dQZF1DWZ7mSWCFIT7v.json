@@ -1,6 +1,6 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 226293,
+  "num_followers": 226322,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
@@ -261,6 +261,22 @@
       "url": "https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny"
     },
     {
+      "added_at": "2022-08-03 02:34:20",
+      "album": {
+        "name": "Truffles Sprinkles",
+        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Truffles Sprinkles",
+      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
+    },
+    {
       "added_at": "2023-07-28 21:28:53",
       "album": {
         "name": "Blackbox Life Recorder 21f / in a room7 F760",
@@ -293,22 +309,6 @@
       "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
     },
     {
-      "added_at": "2022-08-03 02:34:20",
-      "album": {
-        "name": "Truffles Sprinkles",
-        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "Truffles Sprinkles",
-      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
-    },
-    {
       "added_at": "2022-12-20 22:24:39",
       "album": {
         "name": "Whatever The Weather",
@@ -323,38 +323,6 @@
       "duration_ms": 262375,
       "name": "10\u00b0C",
       "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
-    },
-    {
-      "added_at": "2024-04-15 22:50:57",
-      "album": {
-        "name": "Other Means",
-        "url": "https://open.spotify.com/album/1xYSu3930ts5XZXTAGewcl"
-      },
-      "artists": [
-        {
-          "name": "Batu",
-          "url": "https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Other Means",
-      "url": "https://open.spotify.com/track/1juuIrm3fRWhav5jOP1SQm"
-    },
-    {
-      "added_at": "2024-02-02 04:05:46",
-      "album": {
-        "name": "Distant Solace",
-        "url": "https://open.spotify.com/album/7odaTvennSTNVuMLArV19i"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 153559,
-      "name": "Distant Solace",
-      "url": "https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B"
     },
     {
       "added_at": "2023-11-23 03:12:41",
@@ -375,6 +343,38 @@
       "duration_ms": 348947,
       "name": "Honsu",
       "url": "https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay"
+    },
+    {
+      "added_at": "2024-02-02 04:05:46",
+      "album": {
+        "name": "Distant Solace",
+        "url": "https://open.spotify.com/album/7odaTvennSTNVuMLArV19i"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 153559,
+      "name": "Distant Solace",
+      "url": "https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B"
+    },
+    {
+      "added_at": "2024-04-15 22:50:57",
+      "album": {
+        "name": "Other Means",
+        "url": "https://open.spotify.com/album/1xYSu3930ts5XZXTAGewcl"
+      },
+      "artists": [
+        {
+          "name": "Batu",
+          "url": "https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Other Means",
+      "url": "https://open.spotify.com/track/1juuIrm3fRWhav5jOP1SQm"
     },
     {
       "added_at": "2023-01-07 02:10:08",
@@ -899,22 +899,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Dub Protection & The Sportswear Mystics",
-        "url": "https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e"
+        "name": "Toska",
+        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
       },
       "artists": [
         {
-          "name": "The Diabolical Liberties",
-          "url": "https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb"
-        },
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
         }
       ],
-      "duration_ms": 311480,
-      "name": "Dub Protection",
-      "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
+      "duration_ms": 342005,
+      "name": "Toska",
+      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -935,18 +931,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Toska",
-        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
+        "name": "Dub Protection & The Sportswear Mystics",
+        "url": "https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e"
       },
       "artists": [
         {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+          "name": "The Diabolical Liberties",
+          "url": "https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb"
+        },
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
         }
       ],
-      "duration_ms": 342005,
-      "name": "Toska",
-      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
+      "duration_ms": 311480,
+      "name": "Dub Protection",
+      "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
     },
     {
       "added_at": "2023-06-02 00:27:20",
@@ -965,22 +965,6 @@
       "url": "https://open.spotify.com/track/1GzMcuifCMSYlfYkGK3fYW"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "LEGENDO",
-        "url": "https://open.spotify.com/album/62N0giCXIgepaMQl864MIk"
-      },
-      "artists": [
-        {
-          "name": "Lutto Lento",
-          "url": "https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta"
-        }
-      ],
-      "duration_ms": 272327,
-      "name": "Fern Flowers",
-      "url": "https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx"
-    },
-    {
       "added_at": "2022-08-31 04:01:41",
       "album": {
         "name": "El Caso Figo (Original Motion Picture Soundtrack)",
@@ -995,6 +979,22 @@
       "duration_ms": 281986,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/38CvS1tbJBGBxV4TCJda4M"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "LEGENDO",
+        "url": "https://open.spotify.com/album/62N0giCXIgepaMQl864MIk"
+      },
+      "artists": [
+        {
+          "name": "Lutto Lento",
+          "url": "https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta"
+        }
+      ],
+      "duration_ms": 272327,
+      "name": "Fern Flowers",
+      "url": "https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx"
     },
     {
       "added_at": "2022-02-25 03:59:46",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 223750,
+      "name": "Summer Places",
+      "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Vril & R\u00f8dh\u00e5d Presents Out Of Place Artefacts",
         "url": "https://open.spotify.com/album/4eVEuSJZiFT5bIvkHzS78w"
       },
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 223750,
-      "name": "Summer Places",
-      "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Inkjet / Fluo",
         "url": "https://open.spotify.com/album/6aTmhZUr5AXOr1FmKRumHl"
       },
@@ -1125,22 +1125,6 @@
       "url": "https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "that day, on the beach",
-        "url": "https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha"
-      },
-      "artists": [
-        {
-          "name": "Matt Kivel",
-          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
-        }
-      ],
-      "duration_ms": 151302,
-      "name": "memorial park",
-      "url": "https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo"
-    },
-    {
       "added_at": "2023-03-31 19:28:25",
       "album": {
         "name": "Verve EP",
@@ -1155,6 +1139,22 @@
       "duration_ms": 337194,
       "name": "Opak",
       "url": "https://open.spotify.com/track/2e5fQ0Xrn0NoLrKCJEqyqh"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "that day, on the beach",
+        "url": "https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha"
+      },
+      "artists": [
+        {
+          "name": "Matt Kivel",
+          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
+        }
+      ],
+      "duration_ms": 151302,
+      "name": "memorial park",
+      "url": "https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1317,20 +1317,20 @@
       "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
     },
     {
-      "added_at": "2022-02-18 05:43:49",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Wrecked Exotic",
-        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
+        "name": "1234,8",
+        "url": "https://open.spotify.com/album/02Roi0ruMSmTSaxoiOEF8G"
       },
       "artists": [
         {
-          "name": "John Roberts",
-          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
+          "name": "Ulises Conti",
+          "url": "https://open.spotify.com/artist/2GbKQKL9D1dkfoSMeWM7vV"
         }
       ],
-      "duration_ms": 290555,
-      "name": "Paravents",
-      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
+      "duration_ms": 358862,
+      "name": "161,1",
+      "url": "https://open.spotify.com/track/3RwTPFqufAXpe1n5Mu5qKo"
     },
     {
       "added_at": "2023-03-22 17:48:40",
@@ -1347,22 +1347,6 @@
       "duration_ms": 340590,
       "name": "Los muertos no lloran",
       "url": "https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "1234,8",
-        "url": "https://open.spotify.com/album/02Roi0ruMSmTSaxoiOEF8G"
-      },
-      "artists": [
-        {
-          "name": "Ulises Conti",
-          "url": "https://open.spotify.com/artist/2GbKQKL9D1dkfoSMeWM7vV"
-        }
-      ],
-      "duration_ms": 358862,
-      "name": "161,1",
-      "url": "https://open.spotify.com/track/3RwTPFqufAXpe1n5Mu5qKo"
     },
     {
       "added_at": "2023-05-24 01:46:16",
@@ -1387,6 +1371,22 @@
       "duration_ms": 248000,
       "name": "Uncanny Otion",
       "url": "https://open.spotify.com/track/1J7R9RD1DdEbDGYhuukEFc"
+    },
+    {
+      "added_at": "2022-02-18 05:43:49",
+      "album": {
+        "name": "Wrecked Exotic",
+        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
+      },
+      "artists": [
+        {
+          "name": "John Roberts",
+          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
+        }
+      ],
+      "duration_ms": 290555,
+      "name": "Paravents",
+      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
     },
     {
       "added_at": "2022-09-30 02:46:46",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "R\u00f6schen",
-        "url": "https://open.spotify.com/album/4Rfa43vE7rRpU51Q5UIDEv"
-      },
-      "artists": [
-        {
-          "name": "Pole",
-          "url": "https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6"
-        }
-      ],
-      "duration_ms": 199455,
-      "name": "R\u00f6schen - Edit",
-      "url": "https://open.spotify.com/track/7pbORTNPq5NspCrLEYuoI6"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Ardour (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 131944,
       "name": "Double Fifths",
       "url": "https://open.spotify.com/track/4cOrbFr0M4PDjmeKxpZHTe"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "R\u00f6schen",
+        "url": "https://open.spotify.com/album/4Rfa43vE7rRpU51Q5UIDEv"
+      },
+      "artists": [
+        {
+          "name": "Pole",
+          "url": "https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6"
+        }
+      ],
+      "duration_ms": 199455,
+      "name": "R\u00f6schen - Edit",
+      "url": "https://open.spotify.com/track/7pbORTNPq5NspCrLEYuoI6"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1665,20 +1665,24 @@
       "url": "https://open.spotify.com/track/4tWEcrIZeSAwFUr06k8gWs"
     },
     {
-      "added_at": "2022-08-13 02:22:47",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Summering (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2aNN72v2ecOv6BamVhhWp4"
+        "name": "On danse comme des fous",
+        "url": "https://open.spotify.com/album/5mCWVbQXAd2kMKS0mj3HMU"
       },
       "artists": [
         {
-          "name": "Drum & Lace",
-          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+          "name": "Gilb'r",
+          "url": "https://open.spotify.com/artist/2KqugPbttJDL3ZdRUTpU4x"
+        },
+        {
+          "name": "Cosmic Neman",
+          "url": "https://open.spotify.com/artist/7gdIA6xBjnLNBBIXyBKGbn"
         }
       ],
-      "duration_ms": 88960,
-      "name": "Summer Lawns",
-      "url": "https://open.spotify.com/track/4GE1Okvtqjm2t2mn5uyBvj"
+      "duration_ms": 208375,
+      "name": "\u042f \u043d\u0435 \u0445\u043e\u0447\u0443 \u0437\u043d\u0430\u0442\u044c",
+      "url": "https://open.spotify.com/track/198Fm6IlIjBl0bnJRaXQ8B"
     }
   ],
   "unique_name": "bleeps ^ glitches",

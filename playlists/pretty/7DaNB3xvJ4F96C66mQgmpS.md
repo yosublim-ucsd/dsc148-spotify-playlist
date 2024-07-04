@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 87,595 likes - 96 songs - 5 hr 29 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 87,590 likes - 96 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 | 3 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks) | 3:49 |
 | 4 | [Phat Butt](https://open.spotify.com/track/2b7aNhysTRNWSiNM47UeWG) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Phat Butt](https://open.spotify.com/album/13lNTRScGj4CVAYszzxioi) | 2:09 |
 | 5 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
-| 6 | [Style Rare \(feat\. Gunna\)](https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Style Rare \(feat\. Gunna\)](https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0) | 3:28 |
+| 6 | [Style Rare \(with Gunna\)](https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Style Rare \(with Gunna\)](https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0) | 3:28 |
 | 7 | [POWER](https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:52 |
 | 8 | [Monsters Inc\. \(feat\. Future\)](https://open.spotify.com/track/22IvmyP4Sy8g9j9Jk6iRL3) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [11th Dimension](https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf) | 3:03 |
 | 9 | [Wanna Be \(with Megan Thee Stallion & Cardi B\) \- Remix](https://open.spotify.com/track/70k0r3wiMaDSILTJyMmIrK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wanna Be \(with Megan Thee Stallion & Cardi B\) \[Remix\]](https://open.spotify.com/album/34dtgu2pcdvKAMpAhyCsDA) | 3:44 |

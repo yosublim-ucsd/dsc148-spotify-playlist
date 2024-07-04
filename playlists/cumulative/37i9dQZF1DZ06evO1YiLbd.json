@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-12-24",
-  "description": "This is Yuki Hayashi. The essential tracks, all in one playlist.",
-  "name": "This Is Yuki Hayashi",
+  "description": "This is \u6797\u3086\u3046\u304d\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "name": "This Is \u6797\u3086\u3046\u304d",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 206506,
       "name": "2 Heros",
       "url": "https://open.spotify.com/track/5OvaF7T4vGcbKnE9rRaTFQ"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 81666,
       "name": "From Me to You",
       "url": "https://open.spotify.com/track/34OP5ugxs1t3RaiJlyqJRb"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 280760,
       "name": "moonlit night",
       "url": "https://open.spotify.com/track/6ebH5PH2IzMkAx2aLoh1dJ"
@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 191000,
       "name": "\u6c7a\u7740",
       "url": "https://open.spotify.com/track/44YY32QQuql7sgfXzgCExz"

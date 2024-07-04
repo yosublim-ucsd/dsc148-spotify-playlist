@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 
 > This Is Panter Bélico\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,821 likes - 42 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,888 likes - 42 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 23 | [El Güicho](https://open.spotify.com/track/0jU8yUjdkIolONmi6mOwQP) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:44 |
 | 24 | [Ismael Pa’ Servirle](https://open.spotify.com/track/1c1R6tiqHwigD1Ga5NmxRc) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:44 |
 | 25 | [Te Presento A Mi Amante](https://open.spotify.com/track/4qMZpEnZDoRfgmSklKFGjh) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Mexicano](https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl) | 3:14 |
-| 26 | [Por Las Hs](https://open.spotify.com/track/1mI4LvAwTbIfQguuyK6juV) | [Los Del Sombrero](https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Por Las Hs](https://open.spotify.com/album/3nuUwbHMx4SYAAGHtNVlCp) | 2:32 |
+| 26 | [Yo Soy Serafin](https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu) | [Los Intocables Del Norte](https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Yo Soy Serafin](https://open.spotify.com/album/6gl5yLhjGsSgZJG0Hu80KM) | 2:41 |
 | 27 | [Regreso Del Mayito Gordo \(con Los Del Sombrero\)](https://open.spotify.com/track/2FzJuV1z2BcreeROrKclAV) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Los Del Sombrero](https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:10 |
 | 28 | [Suerte He Tenido](https://open.spotify.com/track/6EbZCjT6xQ1wc1zNoWTYFq) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:04 |
 | 29 | [Acá Entre Nos](https://open.spotify.com/track/6EkflBPiKJi7JYfKq6Zpp9) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Mexicano](https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl) | 3:23 |
-| 30 | [Yo Soy Serafin](https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu) | [Los Intocables Del Norte](https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Yo Soy Serafin](https://open.spotify.com/album/6gl5yLhjGsSgZJG0Hu80KM) | 2:41 |
+| 30 | [Por Las Hs](https://open.spotify.com/track/1mI4LvAwTbIfQguuyK6juV) | [Los Del Sombrero](https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Por Las Hs](https://open.spotify.com/album/3nuUwbHMx4SYAAGHtNVlCp) | 2:32 |
 | 31 | [La Plebada del Mayo](https://open.spotify.com/track/0P9Q43GkZTMJl1vQmpjWFD) | [Los Del Sombrero](https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Plebada del Mayo](https://open.spotify.com/album/1HPKQepsOHuKhlZG1gWGs3) | 5:11 |
 | 32 | [El Pistolero \(En Vivo\)](https://open.spotify.com/track/4BQ4yefJv2VJNj6brqANze) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 3:39 |
 | 33 | [La Ley Del Monte](https://open.spotify.com/track/5EPXydzAN5pEXarJiqX4hn) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Mexicano](https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl) | 2:54 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 41 | [Tristes Recuerdos](https://open.spotify.com/track/48nNPyh2n8qKXpqAUPpbBI) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Mexicano](https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl) | 3:14 |
 | 42 | [Popurrí: La Muerte de Manuelon / El Árbol](https://open.spotify.com/track/6RShqonMgBX0XRPtG7O2Am) | [Mario "El Cachorro" Delgado](https://open.spotify.com/artist/2C6aTaybjOqqtdTxKx8xTX), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Popurrí: La Muerte de Manuelon / El Árbol](https://open.spotify.com/album/61EXPkgwfysplYrG10cgUK) | 8:16 |
 
-Snapshot ID: `ZoHxgAAAAAAW6o9Rb7/gZ7ILjYguY9uM`
+Snapshot ID: `ZoNDAAAAAADdvoL4GzbmnDOn7MkPRbAa`

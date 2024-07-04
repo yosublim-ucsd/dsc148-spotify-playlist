@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: MFS
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,002 likes - 81 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,044 likes - 81 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [Naco](https://open.spotify.com/artist/6w0WQStb7cRo4J5BhSHNYO) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 |
+| 1 | [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 |
 | 2 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Yuki Chiba](https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 |
 | 3 | [Feel Missing](https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:18 |
 | 4 | [凍京](https://open.spotify.com/track/0NhvXLchzEoKKElJGDsTCT) | [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY), [Roland Jones](https://open.spotify.com/artist/19deba9lIgvZdIThv0kykj) | [凍京](https://open.spotify.com/album/3gSwsUWse0y6OkU05vsL4D) | 2:25 |

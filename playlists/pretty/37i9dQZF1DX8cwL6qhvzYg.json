@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 404487,
+  "num_followers": 404513,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Pasi\u00f3n Y Cumbia",
-        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Amor Regresa",
-      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "D\u00e9cimo Aniversario",
         "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 164360,
       "name": "Tranquilito",
       "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "Pasi\u00f3n Y Cumbia",
+        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Amor Regresa",
+      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -739,26 +739,18 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "B de Bellako",
-        "url": "https://open.spotify.com/album/0ANa1gS3FD0Kmz85rAsJMB"
+        "name": "Zool\u00f3gico Tropical",
+        "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
       },
       "artists": [
         {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Yeyo",
-          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+          "name": "Fito Olivares y Su Grupo",
+          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
         }
       ],
-      "duration_ms": 188573,
-      "name": "B de Bellako",
-      "url": "https://open.spotify.com/track/2SqUfIOD0VDJirHTVIdn4F"
+      "duration_ms": 198613,
+      "name": "Cumbia De La Cobra",
+      "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -783,22 +775,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Zool\u00f3gico Tropical",
-        "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares y Su Grupo",
-          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
-        }
-      ],
-      "duration_ms": 198613,
-      "name": "Cumbia De La Cobra",
-      "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 204680,
       "name": "Besar Tu Piel",
       "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "B de Bellako",
+        "url": "https://open.spotify.com/album/0ANa1gS3FD0Kmz85rAsJMB"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "B de Bellako",
+      "url": "https://open.spotify.com/track/2SqUfIOD0VDJirHTVIdn4F"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Banda Peque\u00f1os Musical",
-        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "La nena",
-      "url": "https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "20th Anniversary Series",
         "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 209040,
       "name": "Un Millon de Rosas",
       "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "Banda Peque\u00f1os Musical",
+        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "La nena",
+      "url": "https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Barrio Bravo",
-        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
-      },
-      "artists": [
-        {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        }
-      ],
-      "duration_ms": 342973,
-      "name": "Cumbia sobre el r\u00edo / Interludio",
-      "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "Lleg\u00f3 Pap\u00e1",
         "url": "https://open.spotify.com/album/392HEBX1hSP3IyUfuixNUv"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 198635,
       "name": "La Mujer del Pelotero",
       "url": "https://open.spotify.com/track/3dljpxvacIs8jux3Dd1nRw"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "Barrio Bravo",
+        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
+      },
+      "artists": [
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        }
+      ],
+      "duration_ms": 342973,
+      "name": "Cumbia sobre el r\u00edo / Interludio",
+      "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "B\u00e1ilame",
-        "url": "https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 179506,
-      "name": "B\u00e1ilame",
-      "url": "https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "Sangre de indio",
         "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 162800,
       "name": "Al gato y al rat\u00f3n",
       "url": "https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "B\u00e1ilame",
+        "url": "https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "B\u00e1ilame",
+      "url": "https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "La culebra",
+      "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "Dominando y Controlando",
         "url": "https://open.spotify.com/album/7k3oc6fvIi65oF4pGoi1wo"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 242586,
       "name": "El baile del gavil\u00e1n",
       "url": "https://open.spotify.com/track/4fzG5qBkdo1kT9UURFVrrL"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "Que lo baile bien",
-        "url": "https://open.spotify.com/album/5Scr8TrsI2p52bLtjvqYwE"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Mira oye",
-      "url": "https://open.spotify.com/track/7hZxeDEidGxPfg8ZAAKOOY"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+        "name": "Que lo baile bien",
+        "url": "https://open.spotify.com/album/5Scr8TrsI2p52bLtjvqYwE"
       },
       "artists": [
         {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
         }
       ],
-      "duration_ms": 188693,
-      "name": "La culebra",
-      "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
+      "duration_ms": 202253,
+      "name": "Mira oye",
+      "url": "https://open.spotify.com/track/7hZxeDEidGxPfg8ZAAKOOY"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Ya Sup\u00e9rame (En Vivo)",
-        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
+        "name": "Por Encima de Todos",
+        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Sensacion Latina",
+          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
         }
       ],
-      "duration_ms": 189050,
-      "name": "Ya Sup\u00e9rame (En Vivo)",
-      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
+      "duration_ms": 287896,
+      "name": "En Mi Escritorio (La Carta)",
+      "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Por Encima de Todos",
-        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
+        "name": "Ya Sup\u00e9rame (En Vivo)",
+        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
       },
       "artists": [
         {
-          "name": "Sensacion Latina",
-          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 287896,
-      "name": "En Mi Escritorio (La Carta)",
-      "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
+      "duration_ms": 189050,
+      "name": "Ya Sup\u00e9rame (En Vivo)",
+      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "Mas Control",
+        "url": "https://open.spotify.com/album/4Ni4cnbjZe1V6nBrjhDn4A"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "Cumbia Morena",
+      "url": "https://open.spotify.com/track/0RW9lpU6FOyGNawOa3MbH8"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "En Tu Perra Vida",
         "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 238677,
       "name": "En Tu Perra Vida",
       "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "Mas Control",
-        "url": "https://open.spotify.com/album/4Ni4cnbjZe1V6nBrjhDn4A"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "Cumbia Morena",
-      "url": "https://open.spotify.com/track/0RW9lpU6FOyGNawOa3MbH8"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Mi Princesa",
-        "url": "https://open.spotify.com/album/652p9fzYmUhJc6iqqkbDe3"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "Mi Princesa",
-      "url": "https://open.spotify.com/track/16Bp59vZMZDe9vQS4waCJO"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "Por Encima de Todos",
         "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 166256,
       "name": "La Pobreza - Rebajada",
       "url": "https://open.spotify.com/track/57ix5CIFlMvpCbyfaUDWkt"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "Mi Princesa",
+        "url": "https://open.spotify.com/album/652p9fzYmUhJc6iqqkbDe3"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 183186,
+      "name": "Mi Princesa",
+      "url": "https://open.spotify.com/track/16Bp59vZMZDe9vQS4waCJO"
     },
     {
       "added_at": "2024-03-01 06:00:00",

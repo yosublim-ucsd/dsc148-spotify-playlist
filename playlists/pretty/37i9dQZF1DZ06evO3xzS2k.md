@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 
 ### [This Is Nothing](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3xzS2k)
 
-> This is Nothing\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Nothing\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,277 likes - 40 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,278 likes - 40 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 | 39 | [Mine Is Clouds](https://open.spotify.com/track/4yCLoPgF4fv3GRvwKOflMO) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 6:15 |
 | 40 | [The Dives \(Lazarus in Ashes\)](https://open.spotify.com/track/2sEGs6OadzAdCKJV5GOzvD) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 2:38 |
 
-Snapshot ID: `ZoHxgAAAAAAMziiS7JTDd5Z4p3LHS3r4`
+Snapshot ID: `ZoNDAAAAAADWriOIdYQ07gGJSXTD/eIG`

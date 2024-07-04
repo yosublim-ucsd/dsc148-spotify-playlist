@@ -1,6 +1,6 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:5tYqFEuFELxnJZgGmmsfSh\">Catz 'n Dogz</a>",
-  "num_followers": 43769,
+  "num_followers": 43741,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
@@ -695,18 +695,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "nie pow\u00f3d do p\u0142aczu",
-        "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
+        "name": "No Gods",
+        "url": "https://open.spotify.com/album/6gtSjoNnTTY9evB0oah1M2"
       },
       "artists": [
         {
-          "name": "color blue",
-          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+        },
+        {
+          "name": "Hostia",
+          "url": "https://open.spotify.com/artist/1oM790LNK44Js7LOQJKSzy"
         }
       ],
-      "duration_ms": 194880,
-      "name": "bia\u0142y szum",
-      "url": "https://open.spotify.com/track/5G1CbgMRdTHi3rQTKMkGJS"
+      "duration_ms": 136448,
+      "name": "No Gods",
+      "url": "https://open.spotify.com/track/53y0uk86RQv0AQAcOu0ZZF"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -727,22 +731,18 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "No Gods",
-        "url": "https://open.spotify.com/album/6gtSjoNnTTY9evB0oah1M2"
+        "name": "nie pow\u00f3d do p\u0142aczu",
+        "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
       },
       "artists": [
         {
-          "name": "Zamilska",
-          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
-        },
-        {
-          "name": "Hostia",
-          "url": "https://open.spotify.com/artist/1oM790LNK44Js7LOQJKSzy"
+          "name": "color blue",
+          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
         }
       ],
-      "duration_ms": 136448,
-      "name": "No Gods",
-      "url": "https://open.spotify.com/track/53y0uk86RQv0AQAcOu0ZZF"
+      "duration_ms": 194880,
+      "name": "bia\u0142y szum",
+      "url": "https://open.spotify.com/track/5G1CbgMRdTHi3rQTKMkGJS"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -987,38 +987,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "HOTEL",
-        "url": "https://open.spotify.com/album/4Et5dfI8KUrOpRrwqy4Wc1"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 190827,
-      "name": "HOTEL",
-      "url": "https://open.spotify.com/track/4VBvF9iBuitlLSEKDQR1PW"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "nie pow\u00f3d do p\u0142aczu",
-        "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
-      },
-      "artists": [
-        {
-          "name": "color blue",
-          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
-        }
-      ],
-      "duration_ms": 209706,
-      "name": "dotkliwie",
-      "url": "https://open.spotify.com/track/3i8HGoWPINUw33Ig9Cu8eS"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Can't Stand",
         "url": "https://open.spotify.com/album/4Xfcjaz36C9tkHq3COjWml"
       },
@@ -1039,6 +1007,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "nie pow\u00f3d do p\u0142aczu",
+        "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
+      },
+      "artists": [
+        {
+          "name": "color blue",
+          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "dotkliwie",
+      "url": "https://open.spotify.com/track/3i8HGoWPINUw33Ig9Cu8eS"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Sabota\u017cysta",
         "url": "https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G"
       },
@@ -1051,22 +1035,6 @@
       "duration_ms": 204000,
       "name": "Sabota\u017cysta",
       "url": "https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Haiku",
-        "url": "https://open.spotify.com/album/1utL1XsLZYrQEiLQX8o3qu"
-      },
-      "artists": [
-        {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
-        }
-      ],
-      "duration_ms": 189346,
-      "name": "Haiku",
-      "url": "https://open.spotify.com/track/4kdJPEgNmlyzo0mrRC4kOQ"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1087,6 +1055,38 @@
       "duration_ms": 284422,
       "name": "The Moon",
       "url": "https://open.spotify.com/track/0OE1ohr4hpGd7icsVJ8W8g"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "HOTEL",
+        "url": "https://open.spotify.com/album/4Et5dfI8KUrOpRrwqy4Wc1"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 190827,
+      "name": "HOTEL",
+      "url": "https://open.spotify.com/track/4VBvF9iBuitlLSEKDQR1PW"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Haiku",
+        "url": "https://open.spotify.com/album/1utL1XsLZYrQEiLQX8o3qu"
+      },
+      "artists": [
+        {
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+        }
+      ],
+      "duration_ms": 189346,
+      "name": "Haiku",
+      "url": "https://open.spotify.com/track/4kdJPEgNmlyzo0mrRC4kOQ"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "where did you go?",
-        "url": "https://open.spotify.com/album/0FrPFlijBl39f28HMSDqEP"
-      },
-      "artists": [
-        {
-          "name": "Kuba Kluza",
-          "url": "https://open.spotify.com/artist/1I0FVrxB03evIF9eTEwsVa"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "where did you go?",
-      "url": "https://open.spotify.com/track/3SjahwZPja8iGOVH57pYs3"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Let Me Know",
         "url": "https://open.spotify.com/album/3WKj4kBRl4OSuxuSTe9H9Y"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 179111,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/5LthNLCUbAMNMAHhiBVyZE"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "where did you go?",
+        "url": "https://open.spotify.com/album/0FrPFlijBl39f28HMSDqEP"
+      },
+      "artists": [
+        {
+          "name": "Kuba Kluza",
+          "url": "https://open.spotify.com/artist/1I0FVrxB03evIF9eTEwsVa"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "where did you go?",
+      "url": "https://open.spotify.com/track/3SjahwZPja8iGOVH57pYs3"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Sama s\u0142uchaj",
-        "url": "https://open.spotify.com/album/1kjorjjIHO8t9UC8P8iT0V"
+        "name": "Nawzajem",
+        "url": "https://open.spotify.com/album/75GNnZ1zBakXOS6ibrMcuI"
       },
       "artists": [
         {
-          "name": "Sienia",
-          "url": "https://open.spotify.com/artist/2e7TuhchY8aTY3v2qzMghX"
+          "name": "Sophie Szklarska",
+          "url": "https://open.spotify.com/artist/09GfElZ8wfFoJyaHNbSaan"
         }
       ],
-      "duration_ms": 173500,
-      "name": "Sama s\u0142uchaj",
-      "url": "https://open.spotify.com/track/5uiWeHUUj4KuG7uQZH9AAl"
+      "duration_ms": 142975,
+      "name": "Nawzajem",
+      "url": "https://open.spotify.com/track/0co1lgFF2B3fimrK2PqHok"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Nawzajem",
-        "url": "https://open.spotify.com/album/75GNnZ1zBakXOS6ibrMcuI"
+        "name": "Sama s\u0142uchaj",
+        "url": "https://open.spotify.com/album/1kjorjjIHO8t9UC8P8iT0V"
       },
       "artists": [
         {
-          "name": "Sophie Szklarska",
-          "url": "https://open.spotify.com/artist/09GfElZ8wfFoJyaHNbSaan"
+          "name": "Sienia",
+          "url": "https://open.spotify.com/artist/2e7TuhchY8aTY3v2qzMghX"
         }
       ],
-      "duration_ms": 142975,
-      "name": "Nawzajem",
-      "url": "https://open.spotify.com/track/0co1lgFF2B3fimrK2PqHok"
+      "duration_ms": 173500,
+      "name": "Sama s\u0142uchaj",
+      "url": "https://open.spotify.com/track/5uiWeHUUj4KuG7uQZH9AAl"
     },
     {
       "added_at": "2024-06-20 22:00:00",

@@ -4,7 +4,7 @@
 
 > the best in hardcore\. open the pit w/ GEL.
 
-258 songs - 10 hr 27 min
+260 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,12 +34,13 @@
 | [Blood and Gold](https://open.spotify.com/track/7t5Z9ko6k5gHC4UTBI25sv) | [Rebelmatic](https://open.spotify.com/artist/6CUYmBUaJokq3auKhAzHXR) | [Blood and Gold](https://open.spotify.com/album/1ZBs9404SuGsIT9d9C4Tmc) | 2:12 | 2023-08-11 | 2024-05-06 |
 | [Boomerang](https://open.spotify.com/track/6rl9M2rBSpeRmgme2Q9d1v) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [Boomerang / Cycle Killer](https://open.spotify.com/album/78DHoATuJeFLEWNG8iqm8z) | 1:57 | 2023-05-08 | 2024-01-31 |
 | [Born For Violence](https://open.spotify.com/track/3N5ag5IoCn3ZOawLtF3gmB) | [Stiff Meds](https://open.spotify.com/artist/3PhagxMa2SO23Bq9GvXw8S) | [Tales From The Slab](https://open.spotify.com/album/6VLjXgKcujZ94UmJjGe2Kk) | 1:00 | 2023-11-10 | 2024-04-27 |
-| [Brain Wavez](https://open.spotify.com/track/0zGdvQEepg73ROZtkO3mw9) | [Mindz Eye](https://open.spotify.com/artist/7G5bKSZiqDTuhK4j8OIM9d) | [True Blue](https://open.spotify.com/album/1HFUXm75EX6cap0pOiSyYJ) | 2:29 | 2023-02-24 |  |
+| [Brain Wavez](https://open.spotify.com/track/0zGdvQEepg73ROZtkO3mw9) | [Mindz Eye](https://open.spotify.com/artist/7G5bKSZiqDTuhK4j8OIM9d) | [True Blue](https://open.spotify.com/album/1HFUXm75EX6cap0pOiSyYJ) | 2:29 | 2023-02-24 | 2024-07-04 |
 | [Bring Me The PMA](https://open.spotify.com/track/2Zcv20KsyeqYTS4jSdPu6G) | [Values Here](https://open.spotify.com/artist/0epBQSh5Of962gKfmjAc8V) | [Take Your Time, I'll Be Waiting](https://open.spotify.com/album/7vU4WEwUwCxxpKzPwotBdk) | 2:15 | 2023-09-22 | 2024-01-31 |
 | [Broke](https://open.spotify.com/track/2UDdpVcrdY9qnXOHUT3XTK) | [PUREST FORM](https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro) | [Broke](https://open.spotify.com/album/56kKSYrrjWuSywqZ2YkrBI) | 2:02 | 2024-03-01 | 2024-04-27 |
 | [Brushfire](https://open.spotify.com/track/0peNxfa2DHmcFKxCkDfKm9) | [Black Tusk](https://open.spotify.com/artist/7iontmL8hXqoJcSA5oTZqa) | [Brushfire](https://open.spotify.com/album/5zq238yzp9BAbDFZ9ljqgD) | 2:22 | 2024-03-01 | 2024-04-27 |
 | [Burst](https://open.spotify.com/track/5seDapgh8K6TQ3W1M3BBag) | [Riot Stares](https://open.spotify.com/artist/12cQFjMJf8HYgFqTMwz7Hn) | [Burst](https://open.spotify.com/album/3MycS5QDIKT1HVouCbkbpT) | 2:12 | 2023-02-24 | 2024-03-23 |
 | [CAN'T STOP IT](https://open.spotify.com/track/6RJB07ZqQUOb08bnJYKAGv) | [Hereditary](https://open.spotify.com/artist/0dt2nmzBLD7oAyy7sjszvo), [Big Boy](https://open.spotify.com/artist/3jOHrCdds0VE1VzdjPvvv1) | [CAN'T STOP IT](https://open.spotify.com/album/0UScfF1NDqhyU3fYgnUPBS) | 2:34 | 2024-04-26 |  |
+| [Carry My Own Torch](https://open.spotify.com/track/42B8UsJCOI7kC2yoABBULa) | [Firewalker](https://open.spotify.com/artist/5IeFfgx0s1a3ny8dFyz5si) | [Hell Bent](https://open.spotify.com/album/6kmwWlNdCsUkStiJxZxV2R) | 1:49 | 2024-07-03 |  |
 | [Chew](https://open.spotify.com/track/3QOg1az5WvUJNT0pVhCI3q) | [Destiny Bond](https://open.spotify.com/artist/4XGRuOMAK9ritE48mxQgYs) | [Be My Vengeance](https://open.spotify.com/album/1k50Z5L0x3NHXo3aocmSEL) | 2:42 | 2024-01-30 |  |
 | [Chompin' At The Bit](https://open.spotify.com/track/4Nvn9NPYbOh2j8MtcrJZ7f) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [TROUBLE EP](https://open.spotify.com/album/5IcmjyqYJeUDMrqu5DTE7B) | 3:01 | 2024-05-05 |  |
 | [Chunker](https://open.spotify.com/track/5ifQfvMrCILtMMNTnn7WYA) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Chunker](https://open.spotify.com/album/06E9FCZ7YFqBVgCm1ldauU) | 4:17 | 2023-05-19 | 2023-07-18 |
@@ -47,7 +48,7 @@
 | [Cocalero](https://open.spotify.com/track/4rKMeOxbIotmiTwWnv8sqz) | [Planet On A Chain](https://open.spotify.com/artist/3APgrosFRdZbDHVIRS8UDf) | [Culture of Death](https://open.spotify.com/album/1PFBTV1nCQVdZgW74XFNpH) | 1:11 | 2024-04-26 |  |
 | [Coming Correct Is Cheaper](https://open.spotify.com/track/5OAhpmAMMm0tv93CF5E8TZ) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:04 | 2023-02-24 | 2023-08-26 |
 | [Compromised](https://open.spotify.com/track/28TwG43K9sLsTCRqOcT9ex) | [Reviler](https://open.spotify.com/artist/5vriZzu0rYeHkWoZ9r2Dp5) | [Compromised](https://open.spotify.com/album/7JlELI8xTJhJZ8b4x81Sng) | 2:15 | 2024-06-28 |  |
-| [Constructing a War Against You](https://open.spotify.com/track/7GislxP58SUMLTBophiSuA) | [Field of Flames](https://open.spotify.com/artist/7vePJsKD0BtKip0yC5Dv8J) | [Constructing a War Against You](https://open.spotify.com/album/18PYpYm7csh6OXUkaLl3AE) | 2:05 | 2023-02-24 |  |
+| [Constructing a War Against You](https://open.spotify.com/track/7GislxP58SUMLTBophiSuA) | [Field of Flames](https://open.spotify.com/artist/7vePJsKD0BtKip0yC5Dv8J) | [Constructing a War Against You](https://open.spotify.com/album/18PYpYm7csh6OXUkaLl3AE) | 2:05 | 2023-02-24 | 2024-07-04 |
 | [Content](https://open.spotify.com/track/1S5okQvjTYN7WgiuANfmlF) | [Infant Island](https://open.spotify.com/artist/34ZIRrOiowNWuyJYt5crZM) | [Beneath](https://open.spotify.com/album/5ycE4NDRcP3gvnwltM8uiU) | 4:21 | 2023-02-24 | 2024-05-06 |
 | [Corrode](https://open.spotify.com/track/2UIu1N8sSW8VzfzDyCz7Ur) | [Domain](https://open.spotify.com/artist/1jFKcpYLsykI3ApP77Rigk), [Indecision](https://open.spotify.com/artist/3WdlM6O8p5wxmx3p7hrPHM) | [Life's Cold Grasp](https://open.spotify.com/album/6Z51mOwW4iSIHrhNYZtkXx) | 2:33 | 2024-04-26 |  |
 | [Crossroads](https://open.spotify.com/track/0ysghxADluRTNEDYY8Dep4) | [Going Off](https://open.spotify.com/artist/2xCCFcGLx1oUlS1AMtfBo9) | [Crossroads](https://open.spotify.com/album/2A1RKIVva8KZuGbrFyEJqO) | 1:09 | 2023-09-22 | 2023-12-14 |
@@ -248,6 +249,7 @@
 | [Undertow \(feat\. King Woman\)](https://open.spotify.com/track/60LTPp9VKjj6aE4oje3lWJ) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek), [King Woman](https://open.spotify.com/artist/4C20AUsp5T2VNHmzSTSzYn) | [Undertow \(feat\. King Woman\)](https://open.spotify.com/album/11q5IRxOgpGbGCyY6BZN1W) | 3:41 | 2023-09-22 | 2024-01-31 |
 | [Uzis Akimbo](https://open.spotify.com/track/0exSl8RLQhsR2IsXZwxgYx) | [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Weapon of Pleasure](https://open.spotify.com/album/7suLwWGbNcaCkbExdOiHKI) | 2:33 | 2024-04-26 |  |
 | [Vie](https://open.spotify.com/track/54KEWhhs5KnGPTtlJNNg6w) | [Fury](https://open.spotify.com/artist/62zeCnl4XbUvKMrkNAmmm0) | [Vie](https://open.spotify.com/album/67uI83VDTFiMPYJazZgzaO) | 3:48 | 2023-06-20 | 2024-01-31 |
+| [Waking World](https://open.spotify.com/track/2fIli6VkkTto8TbCpA3dkE) | [En Love](https://open.spotify.com/artist/4fFQMaU4OIm8Htos0JJkm1) | [Promo](https://open.spotify.com/album/434lCxSNAdySUN4kUElEBH) | 1:34 | 2024-07-03 |  |
 | [Walk Away](https://open.spotify.com/track/3oTmI7QmcVxDarZBjIFo20) | [Throwdown](https://open.spotify.com/artist/18jFO6Z2Bpdv5jp8mXfChN) | [Haymaker](https://open.spotify.com/album/5jq1TKdbp3hZrT7iJw4VPS) | 3:01 | 2023-02-24 | 2023-06-21 |
 | [War Above Los Angeles](https://open.spotify.com/track/2Andf7SMtdA0IVvwzwY2zS) | [OFF!](https://open.spotify.com/artist/4fY9hRf8gHMOszNWFhR1wB) | [Free LSD](https://open.spotify.com/album/5nER4eLsGNJadmUGamAsCF) | 2:55 | 2023-02-24 | 2023-12-14 |
 | [Wash Away](https://open.spotify.com/track/6cHOi5m75d3W57ezmw4WRr) | [Ambleside](https://open.spotify.com/artist/7Fr8MbK08l3g9yHrXb4j4Y) | [Shape Me](https://open.spotify.com/album/4CrsYa4aZEQtJz3843zt31) | 3:27 | 2023-02-24 |  |

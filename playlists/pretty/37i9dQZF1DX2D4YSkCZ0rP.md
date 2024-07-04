@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 
 > La playlist des artistes LGBTQIA+\. Photo : Nicky Doll
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,446 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,444 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 | 29 | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG) | 3:04 |
 | 30 | [Ma chérie](https://open.spotify.com/track/6HP89eE4a0PQv0emwrstu2) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Ma chérie](https://open.spotify.com/album/12SKaGibhGHQ091b1Iqgdz) | 3:01 |
 | 31 | [Too Much](https://open.spotify.com/track/2Gf36deg60mcWyagprxnCy) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 3:03 |
-| 32 | [LOVA](https://open.spotify.com/track/1BKiHTMrJSax72pYTOds2U) | [LUCKY LOVE](https://open.spotify.com/artist/3EApXFqJtyNGLwOVFKvhMP) | [TENDRESSE](https://open.spotify.com/album/4fWaoWaNKTYjC604wGfJ0A) | 3:39 |
+| 32 | [I'M READY](https://open.spotify.com/track/1QZXAnAMpys425p19UWlUH) | [LUCKY LOVE](https://open.spotify.com/artist/3EApXFqJtyNGLwOVFKvhMP) | [I'M READY](https://open.spotify.com/album/0aEO7eknTMcfJJiYk0pYxN) | 3:02 |
 | 33 | [Love](https://open.spotify.com/track/0crgq6PLl60iznPz45NEHP) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [Love](https://open.spotify.com/album/0uKQKIBzN5kpJSuiybdgVt) | 2:45 |
 | 34 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 |
 | 35 | [\_jun perseides](https://open.spotify.com/track/5PRUmgnoIQIi3tVVRBYD10) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\_jun perseides](https://open.spotify.com/album/4EHRNl8rET8Ve72UQB2cLe) | 2:56 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 | 39 | [Lipstick Lover](https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Lipstick Lover](https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T) | 2:49 |
 | 40 | [Show Me Love](https://open.spotify.com/track/2S8zGKKeoSwgyrVoW9Wbo3) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [Everything Tasteful](https://open.spotify.com/album/5pgnrJou1USLiQ2C1wU30o) | 2:41 |
 
-Snapshot ID: `Zl7pWQAAAAAKSVS9+mJ/jCVmT6L7ucmI`
+Snapshot ID: `ZoVUWgAAAADUsstVyLsn9FM0QlcuK57n`

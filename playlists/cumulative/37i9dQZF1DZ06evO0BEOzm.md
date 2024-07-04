@@ -2,7 +2,7 @@
 
 ### [This Is Megan Thee Stallion](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BEOzm)
 
-> This is Megan Thee Stallion\. Các bản nhạc bạn nên nghe, tất cả trong một danh sách phát.
+> This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
 85 songs - 3 hr 56 min
 
@@ -27,7 +27,7 @@
 | [Captain Hook](https://open.spotify.com/track/1E3VQQWFQAPJkXfYHjqWoI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:56 | 2022-10-28 |  |
 | [Cash Shit \(feat\. DaBaby\)](https://open.spotify.com/track/2rMAtCaTj16NptyVfEIeAC) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 3:12 | 2022-10-28 |  |
 | [Circles](https://open.spotify.com/track/08TILUAN56HJoS1d9mNRty) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:50 | 2022-10-28 | 2024-06-28 |
-| [Cobra](https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Cobra](https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl) | 2:48 | 2023-11-10 |  |
+| [Cobra](https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Cobra](https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl) | 2:48 | 2023-11-10 | 2024-07-04 |
 | [Cocky Af](https://open.spotify.com/track/7hdR7gLsPQ6EXGeghibSK3) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 2:57 | 2022-10-28 |  |
 | [Cognac Queen](https://open.spotify.com/track/2GbS8QZToLioxL8XMEwX3P) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 3:42 | 2022-10-28 |  |
 | [Cry Baby \(feat\. DaBaby\)](https://open.spotify.com/track/4aarlAfLKVCTxUDNgbwhjH) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:17 | 2022-10-28 |  |
@@ -80,7 +80,7 @@
 | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR) | 4:02 | 2022-10-28 |  |
 | [Scary \(feat\. Rico Nasty\)](https://open.spotify.com/track/0QWauSvdEXExwUUDa4QCsj) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:33 | 2022-10-28 | 2023-12-14 |
 | [Sex Talk](https://open.spotify.com/track/6hbg57wH6SyIDnPzwLeeXc) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 2:11 | 2022-10-28 |  |
-| [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M) | 3:45 | 2022-10-28 | 2024-07-03 |
+| [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M) | 3:45 | 2022-10-28 |  |
 | [Southside Forever Freestyle](https://open.spotify.com/track/5hmQVsjZGozYCBOCHDYoYl) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:57 | 2024-05-24 | 2024-07-01 |
 | [Spin \(feat\. Victoria Monét\)](https://open.spotify.com/track/3VU5hcDFXuX8aDwfn7GDeY) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:07 | 2024-07-02 |  |
 | [Stalli \(Freestyle\)](https://open.spotify.com/track/7nIpGpMm3gSnL3QTrMisH7) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Stalli \(Freestyle\)](https://open.spotify.com/album/4qvqT3mL1uJrp0EITbaMb7) | 1:56 | 2022-10-28 |  |

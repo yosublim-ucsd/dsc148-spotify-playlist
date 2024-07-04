@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 382404,
+  "num_followers": 382549,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -979,6 +979,30 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Jump Dance Move Bounce",
+        "url": "https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        },
+        {
+          "name": "NOTMYTYPE",
+          "url": "https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U"
+        },
+        {
+          "name": "AENJAY",
+          "url": "https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ"
+        }
+      ],
+      "duration_ms": 149610,
+      "name": "Jump Dance Move Bounce",
+      "url": "https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/6lumo11dn8gPbLLdmpe1PZ"
       },
@@ -1015,30 +1039,6 @@
       "duration_ms": 168529,
       "name": "Diamonds On My Mind",
       "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Jump Dance Move Bounce",
-        "url": "https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        },
-        {
-          "name": "NOTMYTYPE",
-          "url": "https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U"
-        },
-        {
-          "name": "AENJAY",
-          "url": "https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ"
-        }
-      ],
-      "duration_ms": 149610,
-      "name": "Jump Dance Move Bounce",
-      "url": "https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Europatr\u00e4ume",
+        "url": "https://open.spotify.com/album/5AXd8wp7NNydXNzFAxlXmf"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 216592,
+      "name": "Europatr\u00e4ume",
+      "url": "https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Triple F",
         "url": "https://open.spotify.com/album/2MJZVIvc14YSuFze66w5Vw"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 163200,
       "name": "Fuck The Pain Away",
       "url": "https://open.spotify.com/track/4xCmCF6pHz0v6vcANehny0"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Europatr\u00e4ume",
-        "url": "https://open.spotify.com/album/5AXd8wp7NNydXNzFAxlXmf"
-      },
-      "artists": [
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 216592,
-      "name": "Europatr\u00e4ume",
-      "url": "https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "9mm",
+        "url": "https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 237928,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "All Of The Lights",
         "url": "https://open.spotify.com/album/0wK6eSB5Q8rwc8cjkTUfov"
       },
@@ -1731,38 +1747,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "9mm",
-        "url": "https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD"
-      },
-      "artists": [
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 237928,
-      "name": "9mm",
-      "url": "https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "My Body (feat. Y&M)",
         "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 160024,
       "name": "My Body (feat. Y&M)",
       "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
     },
     {
       "added_at": "2024-06-20 22:00:00",

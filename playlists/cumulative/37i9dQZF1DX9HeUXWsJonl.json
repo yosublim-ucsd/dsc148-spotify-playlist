@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Les hits tunisiens du moment. Cover: Balti",
+  "description": "Les hits tunisiens du moment. Cover: Samara",
   "name": "Hit Tounsi",
   "tracks": [
     {
@@ -274,6 +274,24 @@
       "duration_ms": 224239,
       "name": "9ased Rabbi - \u0642\u0627\u0635\u062f \u0631\u0628\u064a",
       "url": "https://open.spotify.com/track/4OiyOUXW7IzOT8rHrSIzUh"
+    },
+    {
+      "album": {
+        "name": "9RIBA",
+        "url": "https://open.spotify.com/album/5uO6Nxnr8TruPSyhDpqFKD"
+      },
+      "artists": [
+        {
+          "name": "Kaso",
+          "url": "https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "9RIBA",
+      "url": "https://open.spotify.com/track/0yVjaVZFhhE6tiL0BOCEpO"
     },
     {
       "album": {
@@ -1644,7 +1662,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 273339,
       "name": "KONT NKHAF 3LIK MEN NAAR",
       "url": "https://open.spotify.com/track/4xDZWQDCX3hjJRsqbjkfXD"
@@ -3062,7 +3080,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 224384,
       "name": "Stava Bene",
       "url": "https://open.spotify.com/track/19IVlD9YCOcPNaonf2YNNT"
@@ -3718,6 +3736,24 @@
       "duration_ms": 245633,
       "name": "Youm Wara Youm",
       "url": "https://open.spotify.com/track/5qicaloS3NlXFjw9HupZa6"
+    },
+    {
+      "album": {
+        "name": "Youm Wara Youm",
+        "url": "https://open.spotify.com/album/6cVs1Uwsa3c0zrqXHtpUz6"
+      },
+      "artists": [
+        {
+          "name": "NORDO",
+          "url": "https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224938,
+      "name": "Youm Wara Youm",
+      "url": "https://open.spotify.com/track/6m0J0ilqGXXymj3rhpXZQ8"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Junior H. The essential tracks, all in one playlist.",
-  "num_followers": 740289,
+  "num_followers": 741007,
   "original_name": "This Is Junior H",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAAB8LVflTasidWJmQ5ry+fjf",
+  "snapshot_id": "ZoNDAAAAAAASTgWoXuSRj2aHiKTbwuHs",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Azul",
+        "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 187225,
+      "name": "El Azul",
+      "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LA DURANGO",
         "url": "https://open.spotify.com/album/649Wq7pYGkMZWUYXpaj2tQ"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 262883,
       "name": "LA DURANGO",
       "url": "https://open.spotify.com/track/1uxiaf3DUS4vpOqNGu4MzL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Azul",
-        "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 187225,
-      "name": "El Azul",
-      "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
     },
     {
       "added_at": null,
@@ -267,30 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROMPE LA DOMPE",
-        "url": "https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 165634,
-      "name": "ROMPE LA DOMPE",
-      "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skin de Bandida",
         "url": "https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw"
       },
@@ -311,6 +287,30 @@
       "duration_ms": 176134,
       "name": "Skin de Bandida",
       "url": "https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ROMPE LA DOMPE",
+        "url": "https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 165634,
+      "name": "ROMPE LA DOMPE",
+      "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
     },
     {
       "added_at": null,
@@ -443,46 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tsurito",
-        "url": "https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 194518,
-      "name": "El Tsurito",
-      "url": "https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "$AD BOYZ 4 LIFE II",
-        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 191504,
-      "name": "LOKERON X AMOR",
-      "url": "https://open.spotify.com/track/0OG0qjJ9gN85kWZtIzW5uS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Rescate",
         "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
       },
@@ -503,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 191504,
+      "name": "LOKERON X AMOR",
+      "url": "https://open.spotify.com/track/0OG0qjJ9gN85kWZtIzW5uS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MUSICA <3",
         "url": "https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH"
       },
@@ -515,6 +491,30 @@
       "duration_ms": 221887,
       "name": "Dias Nublados",
       "url": "https://open.spotify.com/track/7xQrt5TkFBBmlTEPJvXTH8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tsurito",
+        "url": "https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 194518,
+      "name": "El Tsurito",
+      "url": "https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Atrapado en un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 210161,
+      "name": "Atrapado en un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/4FJHSPdhQqxovmYP9YpcHN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PLAYA SATURNO",
         "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 155818,
       "name": "Tronando Ligas",
       "url": "https://open.spotify.com/track/6Xfu24Hd3ufGrpGyZFy07M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Atrapado en un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 210161,
-      "name": "Atrapado en un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/4FJHSPdhQqxovmYP9YpcHN"
     },
     {
       "added_at": null,

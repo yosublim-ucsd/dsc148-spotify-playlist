@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass. Cover: CloZee and LSDREAM",
-  "num_followers": 475446,
+  "num_followers": 475427,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2024-06-28 06:27:00",
       "album": {
+        "name": "Not My Night",
+        "url": "https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 202421,
+      "name": "Not My Night",
+      "url": "https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6"
+    },
+    {
+      "added_at": "2024-06-28 06:27:00",
+      "album": {
         "name": "On Forever",
         "url": "https://open.spotify.com/album/3MHBdi41YtCEG2quEk5rTL"
       },
@@ -1323,26 +1343,6 @@
       "duration_ms": 209556,
       "name": "On Forever",
       "url": "https://open.spotify.com/track/3lFIlyk6D1G2lzREqKAJu4"
-    },
-    {
-      "added_at": "2024-06-28 06:27:00",
-      "album": {
-        "name": "Not My Night",
-        "url": "https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 202421,
-      "name": "Not My Night",
-      "url": "https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6"
     },
     {
       "added_at": "2024-06-28 06:27:00",
@@ -1835,30 +1835,6 @@
     {
       "added_at": "2024-06-28 06:27:00",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/5pEpNGQZZyXSYVpLJ3it6T"
-      },
-      "artists": [
-        {
-          "name": "Wavedash",
-          "url": "https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE"
-        },
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "meesh",
-          "url": "https://open.spotify.com/artist/6qEfyIMkz6rkRRhmuBTFWI"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "SKYFALLING",
-      "url": "https://open.spotify.com/track/6qYCmyVbEL4NXY5c0hMLzZ"
-    },
-    {
-      "added_at": "2024-06-28 06:27:00",
-      "album": {
         "name": "Crazy (feat. Casey Cook)",
         "url": "https://open.spotify.com/album/65oyOZzt4GYuAPNz7ckr27"
       },
@@ -1879,6 +1855,30 @@
       "duration_ms": 212800,
       "name": "Crazy (feat. Casey Cook)",
       "url": "https://open.spotify.com/track/61ilfNBj7SUVn3YYQlWy04"
+    },
+    {
+      "added_at": "2024-06-28 06:27:00",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/5pEpNGQZZyXSYVpLJ3it6T"
+      },
+      "artists": [
+        {
+          "name": "Wavedash",
+          "url": "https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE"
+        },
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "meesh",
+          "url": "https://open.spotify.com/artist/6qEfyIMkz6rkRRhmuBTFWI"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "SKYFALLING",
+      "url": "https://open.spotify.com/track/6qYCmyVbEL4NXY5c0hMLzZ"
     },
     {
       "added_at": "2024-06-28 06:27:00",
@@ -2123,6 +2123,26 @@
     {
       "added_at": "2024-06-28 06:27:00",
       "album": {
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/48QCBT4gmWL2vnumry86eP"
+      },
+      "artists": [
+        {
+          "name": "The FifthGuys",
+          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
+        },
+        {
+          "name": "Chris Linton",
+          "url": "https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/7I2eD1bRTXJDkQcg9liRr1"
+    },
+    {
+      "added_at": "2024-06-28 06:27:00",
+      "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/4HQYlLQCrkwbLpxAaKhdC2"
       },
@@ -2235,26 +2255,6 @@
     {
       "added_at": "2024-06-28 06:27:00",
       "album": {
-        "name": "Rise Up",
-        "url": "https://open.spotify.com/album/48QCBT4gmWL2vnumry86eP"
-      },
-      "artists": [
-        {
-          "name": "The FifthGuys",
-          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
-        },
-        {
-          "name": "Chris Linton",
-          "url": "https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/7I2eD1bRTXJDkQcg9liRr1"
-    },
-    {
-      "added_at": "2024-06-28 06:27:00",
-      "album": {
         "name": "VOLPETRON ASCENDS EP",
         "url": "https://open.spotify.com/album/3KspUuYZY7CFg2BF72Tt03"
       },
@@ -2271,6 +2271,46 @@
       "duration_ms": 187034,
       "name": "IT ISN'T ME",
       "url": "https://open.spotify.com/track/7KJ4sdjdKQdXgM47Ifd5RK"
+    },
+    {
+      "added_at": "2024-06-28 06:27:00",
+      "album": {
+        "name": "Beyond The Veil (Deluxe)",
+        "url": "https://open.spotify.com/album/4K5YF7y9LvkmFUYna1GtXy"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+        }
+      ],
+      "duration_ms": 238566,
+      "name": "Brightest Light (feat. Dotter)",
+      "url": "https://open.spotify.com/track/1Xf3rkHsxGa5eJxvVOxug3"
+    },
+    {
+      "added_at": "2024-06-28 06:27:00",
+      "album": {
+        "name": "Don't Love You",
+        "url": "https://open.spotify.com/album/1FQK1u3PsnftXXvmYJKuzi"
+      },
+      "artists": [
+        {
+          "name": "Cloudy Parallels",
+          "url": "https://open.spotify.com/artist/3tyyLpDvIuGiCqDKY41WxC"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        }
+      ],
+      "duration_ms": 228808,
+      "name": "Don't Love You",
+      "url": "https://open.spotify.com/track/3M1kMOsErj6GHmI7H9Jj09"
     },
     {
       "added_at": "2024-06-28 06:27:00",
@@ -2331,26 +2371,6 @@
     {
       "added_at": "2024-06-28 06:27:00",
       "album": {
-        "name": "Beyond The Veil (Deluxe)",
-        "url": "https://open.spotify.com/album/4K5YF7y9LvkmFUYna1GtXy"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Dotter",
-          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
-        }
-      ],
-      "duration_ms": 238566,
-      "name": "Brightest Light (feat. Dotter)",
-      "url": "https://open.spotify.com/track/1Xf3rkHsxGa5eJxvVOxug3"
-    },
-    {
-      "added_at": "2024-06-28 06:27:00",
-      "album": {
         "name": "7-DS",
         "url": "https://open.spotify.com/album/4zyyVHaWLaQw0vyYTKV77E"
       },
@@ -2367,26 +2387,6 @@
       "duration_ms": 151578,
       "name": "7-DS",
       "url": "https://open.spotify.com/track/3KAHkivOxoBLPeWMiPwYjO"
-    },
-    {
-      "added_at": "2024-06-28 06:27:00",
-      "album": {
-        "name": "Don't Love You",
-        "url": "https://open.spotify.com/album/1FQK1u3PsnftXXvmYJKuzi"
-      },
-      "artists": [
-        {
-          "name": "Cloudy Parallels",
-          "url": "https://open.spotify.com/artist/3tyyLpDvIuGiCqDKY41WxC"
-        },
-        {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
-        }
-      ],
-      "duration_ms": 228808,
-      "name": "Don't Love You",
-      "url": "https://open.spotify.com/track/3M1kMOsErj6GHmI7H9Jj09"
     },
     {
       "added_at": "2024-06-28 06:27:00",
@@ -2431,30 +2431,6 @@
     {
       "added_at": "2024-06-28 06:27:00",
       "album": {
-        "name": "Heaven Again",
-        "url": "https://open.spotify.com/album/7oP8wBi22HDnIVxEjrHmeC"
-      },
-      "artists": [
-        {
-          "name": "Wurme",
-          "url": "https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ"
-        },
-        {
-          "name": "Marc Rain",
-          "url": "https://open.spotify.com/artist/1acCVrk05rfolkBU3M6b7f"
-        },
-        {
-          "name": "Jetason",
-          "url": "https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Heaven Again",
-      "url": "https://open.spotify.com/track/03MzMaGtcNGKBkgQqJ1oUF"
-    },
-    {
-      "added_at": "2024-06-28 06:27:00",
-      "album": {
         "name": "NO PLACE IS TOO FAR (feat. Whethan & Selah Sol)",
         "url": "https://open.spotify.com/album/4clcPcjqdPIPJjYghDiEZf"
       },
@@ -2475,6 +2451,30 @@
       "duration_ms": 180903,
       "name": "NO PLACE IS TOO FAR (feat. Whethan & Selah Sol)",
       "url": "https://open.spotify.com/track/5vzNApeGxycrRYkK1PanGR"
+    },
+    {
+      "added_at": "2024-06-28 06:27:00",
+      "album": {
+        "name": "Heaven Again",
+        "url": "https://open.spotify.com/album/7oP8wBi22HDnIVxEjrHmeC"
+      },
+      "artists": [
+        {
+          "name": "Wurme",
+          "url": "https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ"
+        },
+        {
+          "name": "Marc Rain",
+          "url": "https://open.spotify.com/artist/1acCVrk05rfolkBU3M6b7f"
+        },
+        {
+          "name": "Jetason",
+          "url": "https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Heaven Again",
+      "url": "https://open.spotify.com/track/03MzMaGtcNGKBkgQqJ1oUF"
     },
     {
       "added_at": "2024-06-28 06:27:00",
@@ -2667,22 +2667,26 @@
     {
       "added_at": "2024-06-28 06:27:00",
       "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/2Wbe1NCFxulDpLb08X7taJ"
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/0uVzoO0jamR1dQqDYA3sCY"
       },
       "artists": [
         {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
         },
         {
-          "name": "Emilia Ali",
-          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        },
+        {
+          "name": "Luma",
+          "url": "https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp"
         }
       ],
-      "duration_ms": 221772,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/7aarAImx6lJIDIYPGanjH0"
+      "duration_ms": 200470,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/0PqsrSUORNOsVyVH7jSlnM"
     },
     {
       "added_at": "2024-06-28 06:27:00",
@@ -2699,6 +2703,26 @@
       "duration_ms": 238095,
       "name": "September Nights",
       "url": "https://open.spotify.com/track/20NGAb04LqwxDX2dsSgHZi"
+    },
+    {
+      "added_at": "2024-06-28 06:27:00",
+      "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/2Wbe1NCFxulDpLb08X7taJ"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        },
+        {
+          "name": "Emilia Ali",
+          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
+        }
+      ],
+      "duration_ms": 221772,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/7aarAImx6lJIDIYPGanjH0"
     },
     {
       "added_at": "2024-06-28 06:27:00",
@@ -2727,30 +2751,6 @@
       "duration_ms": 204923,
       "name": "Different Future",
       "url": "https://open.spotify.com/track/266xopBiawptt9tviXJLlg"
-    },
-    {
-      "added_at": "2024-06-28 06:27:00",
-      "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/0uVzoO0jamR1dQqDYA3sCY"
-      },
-      "artists": [
-        {
-          "name": "Rival",
-          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
-        },
-        {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
-        },
-        {
-          "name": "Luma",
-          "url": "https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp"
-        }
-      ],
-      "duration_ms": 200470,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/0PqsrSUORNOsVyVH7jSlnM"
     },
     {
       "added_at": "2024-06-28 06:27:00",
@@ -2891,6 +2891,30 @@
     {
       "added_at": "2024-06-28 06:27:00",
       "album": {
+        "name": "Melting (feat. EASAE)",
+        "url": "https://open.spotify.com/album/2E5tSqBeQnfrMGS4UsFZx5"
+      },
+      "artists": [
+        {
+          "name": "Danny Olson",
+          "url": "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
+        },
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Easae",
+          "url": "https://open.spotify.com/artist/70eIEfuhPsdn3ggtBz3Adc"
+        }
+      ],
+      "duration_ms": 270800,
+      "name": "Melting (feat. EASAE)",
+      "url": "https://open.spotify.com/track/0gsPInjPU6qsGGdLnpgTHD"
+    },
+    {
+      "added_at": "2024-06-28 06:27:00",
+      "album": {
         "name": "Lost (Meant To Be)",
         "url": "https://open.spotify.com/album/0EEt1MWkPYfNOzKrAtRivg"
       },
@@ -2907,6 +2931,86 @@
       "duration_ms": 209600,
       "name": "Lost (Meant To Be)",
       "url": "https://open.spotify.com/track/7HPMTFu90wrp31dNAQ7EgF"
+    },
+    {
+      "added_at": "2024-06-28 06:27:00",
+      "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/2m0tPdS8lzYnZulyV0DoXB"
+      },
+      "artists": [
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/4OqJ2AncNhhIyI3oCBYktq"
+    },
+    {
+      "added_at": "2024-06-28 06:27:00",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/3ZFzU8m52LCtZXnfKLvpao"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "Jo Cohen",
+          "url": "https://open.spotify.com/artist/0Szh8DhUXEL2iujQ9cdS4q"
+        },
+        {
+          "name": "Lusil",
+          "url": "https://open.spotify.com/artist/1AzsVW3RPGZk0foQcGktHZ"
+        }
+      ],
+      "duration_ms": 184258,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0apCPw4wHWMtW3DPR6Aou7"
+    },
+    {
+      "added_at": "2024-06-28 06:27:00",
+      "album": {
+        "name": "Call On Me (feat. Vancouver Sleep Clinic)",
+        "url": "https://open.spotify.com/album/36qsZ0ZS3zVec6Bg8nRubI"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 293122,
+      "name": "Call On Me (feat. Vancouver Sleep Clinic)",
+      "url": "https://open.spotify.com/track/6IhHyxeOqS6LKgP2Lawj55"
+    },
+    {
+      "added_at": "2024-06-28 06:27:00",
+      "album": {
+        "name": "Your Imagination",
+        "url": "https://open.spotify.com/album/1yxnhDQIHEyFpuDjDJsQmY"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "duration_ms": 237696,
+      "name": "Your Imagination",
+      "url": "https://open.spotify.com/track/0M0ac58ggq3FHG849kCfGR"
     },
     {
       "added_at": "2024-06-28 06:27:00",
@@ -2935,46 +3039,6 @@
     {
       "added_at": "2024-06-28 06:27:00",
       "album": {
-        "name": "One Time",
-        "url": "https://open.spotify.com/album/2m0tPdS8lzYnZulyV0DoXB"
-      },
-      "artists": [
-        {
-          "name": "Jason Ross",
-          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/4OqJ2AncNhhIyI3oCBYktq"
-    },
-    {
-      "added_at": "2024-06-28 06:27:00",
-      "album": {
-        "name": "Melting (feat. EASAE)",
-        "url": "https://open.spotify.com/album/2E5tSqBeQnfrMGS4UsFZx5"
-      },
-      "artists": [
-        {
-          "name": "Danny Olson",
-          "url": "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
-        },
-        {
-          "name": "yetep",
-          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
-        },
-        {
-          "name": "Easae",
-          "url": "https://open.spotify.com/artist/70eIEfuhPsdn3ggtBz3Adc"
-        }
-      ],
-      "duration_ms": 270800,
-      "name": "Melting (feat. EASAE)",
-      "url": "https://open.spotify.com/track/0gsPInjPU6qsGGdLnpgTHD"
-    },
-    {
-      "added_at": "2024-06-28 06:27:00",
-      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/5ee1vg38qA50ASyoEx7n6A"
       },
@@ -2987,46 +3051,6 @@
       "duration_ms": 245234,
       "name": "22",
       "url": "https://open.spotify.com/track/5E0aFvTnbphYsrMezpj96G"
-    },
-    {
-      "added_at": "2024-06-28 06:27:00",
-      "album": {
-        "name": "Your Imagination",
-        "url": "https://open.spotify.com/album/1yxnhDQIHEyFpuDjDJsQmY"
-      },
-      "artists": [
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Casey Cook",
-          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
-        }
-      ],
-      "duration_ms": 237696,
-      "name": "Your Imagination",
-      "url": "https://open.spotify.com/track/0M0ac58ggq3FHG849kCfGR"
-    },
-    {
-      "added_at": "2024-06-28 06:27:00",
-      "album": {
-        "name": "Call On Me (feat. Vancouver Sleep Clinic)",
-        "url": "https://open.spotify.com/album/36qsZ0ZS3zVec6Bg8nRubI"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 293122,
-      "name": "Call On Me (feat. Vancouver Sleep Clinic)",
-      "url": "https://open.spotify.com/track/6IhHyxeOqS6LKgP2Lawj55"
     },
     {
       "added_at": "2024-06-28 06:27:00",
@@ -3079,30 +3103,6 @@
       "duration_ms": 249863,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/5T4iqvsqEdJS4WFMmo0CZX"
-    },
-    {
-      "added_at": "2024-06-28 06:27:00",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/3ZFzU8m52LCtZXnfKLvpao"
-      },
-      "artists": [
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        },
-        {
-          "name": "Jo Cohen",
-          "url": "https://open.spotify.com/artist/0Szh8DhUXEL2iujQ9cdS4q"
-        },
-        {
-          "name": "Lusil",
-          "url": "https://open.spotify.com/artist/1AzsVW3RPGZk0foQcGktHZ"
-        }
-      ],
-      "duration_ms": 184258,
-      "name": "High",
-      "url": "https://open.spotify.com/track/0apCPw4wHWMtW3DPR6Aou7"
     },
     {
       "added_at": "2024-06-28 06:27:00",

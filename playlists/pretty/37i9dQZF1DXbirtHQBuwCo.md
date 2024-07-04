@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Enjoy trendy & chill Korean R&B music\. \(Cover: BIG Naughty, MARK\(서동현, 마크\)\)
+> Enjoy trendy & chill Korean R&B music\. \(Cover: JU\-NE\(구준회\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,007,051 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,007,005 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sunkissed \(Feat\. MARK of NCT\)](https://open.spotify.com/track/5fgjRRJwE86CpvnZvR3bM6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Sunkissed](https://open.spotify.com/album/0DLOQV3bGLeLTrEYk1bR81) | 2:39 |
+| 1 | [Feel Lost](https://open.spotify.com/track/7KUXzwYL5WsauJxF4730PN) | [JU\-NE](https://open.spotify.com/artist/5tCgO9okyHkBJJxxAYv9uX) | [BRUISE](https://open.spotify.com/album/5M9Jv5GX35zpqMYJ6bxgoG) | 2:40 |
 | 2 | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/album/2PcM535knJOZb6MUth8axj) | 3:02 |
 | 3 | [Last night \(Guitar by Park Juwon\)](https://open.spotify.com/track/0Qh8dlEJ3jVWk57Ql6XrdS) | [JxW](https://open.spotify.com/artist/7GvlsjcgBrsE578yghOq7D) | [JxW 1st Single Album 'THIS MAN'](https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN) | 2:56 |
 | 4 | [Taxi Blurr \(Feat\. NATTY of KISS OF LIFE\)](https://open.spotify.com/track/5IY8i6WnkqvmRnIrF4lqDx) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [NATTY](https://open.spotify.com/artist/1Y3klzPXyHrinIk3tQ20Se) | [Jay Park Season 2](https://open.spotify.com/album/0MazhZi5jQbkueKX52rkaR) | 3:50 |
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 26 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 |
 | 27 | [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 |
 | 28 | [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/0oJRiblEiQgTg2hRfnacIt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS) | 3:25 |
-| 29 | [Butterflies](https://open.spotify.com/track/07W0lOkOUhVhdJQ9wVepWr) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:41 |
-| 30 | [Lucid Dream](https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:30 |
+| 29 | [Lucid Dream](https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:30 |
+| 30 | [Butterflies](https://open.spotify.com/track/07W0lOkOUhVhdJQ9wVepWr) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:41 |
 | 31 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 |
 | 32 | [Bittersweet \(feat\. LeeHi\)](https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3) | [WONWOO](https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt), [MINGYU](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Bittersweet \(feat\. LeeHi\)](https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ) | 2:54 |
 | 33 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 |
 | 34 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 |
 | 35 | [I'm Gonna Love You](https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:31 |
-| 36 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/14XLUySagFhP9KoqOTg5ka) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/664YJTJqj4tcY4y74AWgvz) | 2:55 |
-| 37 | [LOVE COUNTDOWN \(Feat\. Wonstein\)](https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:17 |
+| 36 | [Thirsty](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:13 |
+| 37 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/14XLUySagFhP9KoqOTg5ka) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/664YJTJqj4tcY4y74AWgvz) | 2:55 |
 | 38 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 |
-| 39 | [Thirsty](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:13 |
+| 39 | [LOVE COUNTDOWN \(Feat\. Wonstein\)](https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:17 |
 | 40 | [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 |
 | 41 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 |
 | 42 | [Forever Only](https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Forever Only \- SM STATION : NCT LAB](https://open.spotify.com/album/519WmtnoFNzzyyh7Czfhi8) | 3:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 74 | [Scaredy Cat](https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings in This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 2:50 |
 | 75 | [Officially Cool](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Officially Cool](https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9) | 2:57 |
 
-Snapshot ID: `Zn5DLgAAAABAAkwT4TkBqkKITfQYRHOw`
+Snapshot ID: `ZoUWGwAAAACVIQxWU5HnlqaybNdYMbcU`

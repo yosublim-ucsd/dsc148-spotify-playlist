@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,608 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,614 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 28 | [What Kind of Woman](https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k), [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [What Kind of Woman](https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG) | 3:34 |
 | 29 | [Only Love](https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [Big Thing](https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU) | 3:35 |
 | 30 | [Keep It Simple](https://open.spotify.com/track/30V2xXhFd3tEnxNo3suBKa) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Keep It Simple](https://open.spotify.com/album/7GazVXm5O9ETxTyNcvO6Yi) | 3:13 |
-| 31 | [Aphrodite](https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ) | [Donna Blue](https://open.spotify.com/artist/2p3WhDRwfMseVi8f04ODpd) | [Aphrodite](https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ) | 3:18 |
-| 32 | [Sugah Rush](https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Sugah Rush](https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm) | 2:40 |
+| 31 | [Sugah Rush](https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Sugah Rush](https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm) | 2:40 |
+| 32 | [Aphrodite](https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ) | [Donna Blue](https://open.spotify.com/artist/2p3WhDRwfMseVi8f04ODpd) | [Aphrodite](https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ) | 3:18 |
 | 33 | [Even The Bad Ends Badly](https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Bluefinger](https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1) | 3:22 |
-| 34 | [Gold Dust Woman](https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Gold Dust Woman](https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S) | 3:00 |
-| 35 | [It's So Easy](https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [Alpine Gold](https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK) | 3:16 |
-| 36 | [Heat of the Moment](https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [A Heightened Sense of Everything](https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng) | 3:28 |
-| 37 | [When It's Through](https://open.spotify.com/track/62ODYcOsoixBrHGptOgFSH) | [Gregory Ackerman](https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX) | [Brand New Life](https://open.spotify.com/album/2Onw6aYMcdSpuVIzlBVrFU) | 2:33 |
+| 34 | [When It's Through](https://open.spotify.com/track/62ODYcOsoixBrHGptOgFSH) | [Gregory Ackerman](https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX) | [Brand New Life](https://open.spotify.com/album/2Onw6aYMcdSpuVIzlBVrFU) | 2:33 |
+| 35 | [Gold Dust Woman](https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Gold Dust Woman](https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S) | 3:00 |
+| 36 | [It's So Easy](https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [Alpine Gold](https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK) | 3:16 |
+| 37 | [Heat of the Moment](https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [A Heightened Sense of Everything](https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng) | 3:28 |
 | 38 | [Dancing In The Dark](https://open.spotify.com/track/1mPXB7fe2vK1dJxMbSZuDP) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Dancing In The Dark](https://open.spotify.com/album/4QUzb6iiFjr2K0NTqCIZTV) | 3:28 |
 | 39 | [Love to See You Cry](https://open.spotify.com/track/1OyaisllB9RSnmKa6tcPzY) | [Robbert Duijf](https://open.spotify.com/artist/479RX3LATApuM30lH2cemD) | [Love to See You Cry](https://open.spotify.com/album/1mkAPib2Kb832r0UBu3OmD) | 4:22 |
 | 40 | [Nighttime Walk](https://open.spotify.com/track/4xWwLMuE6SfoqvtWpSgoyO) | [Mercy John](https://open.spotify.com/artist/1zJU6SWc4fzECllRZbixhJ) | [Nighttime Walk](https://open.spotify.com/album/6B3IT89Ihbf3s3SPkLlz48) | 5:36 |

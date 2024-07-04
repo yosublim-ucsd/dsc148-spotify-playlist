@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: MORE\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Jiselle\(지셀\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,166 likes - 53 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,179 likes - 53 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ANIYA](https://open.spotify.com/track/4Q0UhYltYUyj2hhnAXaL1k) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [ANIYA](https://open.spotify.com/album/70Bdhmg4VhcQqK2gy9PHhY) | 2:56 |
 | 2 | [SUDA](https://open.spotify.com/track/3t6ljynTF1LLr8NVKCjrlS) | [MORE](https://open.spotify.com/artist/3sG5lKhIKPneoceflZon1C) | [SUDA](https://open.spotify.com/album/7m98itIoQ6Ptgk5JJC4Ic5) | 3:03 |
 | 3 | [DOMINO](https://open.spotify.com/track/3HZwxfaiby2jaWKL7hrzD4) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [DOMINO](https://open.spotify.com/album/7e4ypxtFCm1wIkerQLcS6B) | 3:14 |
-| 4 | [Sometimes \(feat\. blessed.\)](https://open.spotify.com/track/7IyiHQNSqyVoaWF7V9YURH) | [That](https://open.spotify.com/artist/0XWHgRkMLtPTmrumiHhvTL), [\[blessed.\]](https://open.spotify.com/artist/4JzV1vsTmvk3ZYQh5cSdX2) | [Sometimes \(feat\. blessed.\)](https://open.spotify.com/album/1Gx1NuB64DGPjaDb9jBKn5) | 2:44 |
+| 4 | [Sometimes \(feat\. blessed.\)](https://open.spotify.com/track/7IyiHQNSqyVoaWF7V9YURH) | [That](https://open.spotify.com/artist/0XWHgRkMLtPTmrumiHhvTL), [blessed.](https://open.spotify.com/artist/54Y80c5eEYbnlvCmIPKf6W) | [Sometimes \(feat\. blessed.\)](https://open.spotify.com/album/1Gx1NuB64DGPjaDb9jBKn5) | 2:44 |
 | 5 | [RUSH \(ft\. BOBBY\)](https://open.spotify.com/track/7LK5puNRuxmPiZNzOS1iM6) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [dopamine](https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76) | 3:14 |
 | 6 | [SLOWLY \(Feat\. g0nny\)](https://open.spotify.com/track/2RAMFRLHUFiTXywPA7yq6w) | [CHANNEL 201](https://open.spotify.com/artist/1kLaTi0lthkPxr7wPnvMTm), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [SLOWLY \(Feat\. g0nny\)](https://open.spotify.com/album/2Wb44G2nZPHVzdlce8gCdT) | 3:24 |
 | 7 | [good news](https://open.spotify.com/track/0zr9voDmEdrRoa7uT81KzS) | [RuRu](https://open.spotify.com/artist/6XgOEA5NhkUYCU7vbYJAqc) | [BODY](https://open.spotify.com/album/2Y1kBEbRAm3rCWf2GkAMQh) | 3:09 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 52 | [Same Season \(feat\. YOUHA\)](https://open.spotify.com/track/3xfgxcSuUK9RstPsn14r4d) | [COLL!N](https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN), [YOUHA \(유하\)](https://open.spotify.com/artist/3urCi3Lu5NtFHohWiBXOki) | [Same Season](https://open.spotify.com/album/2UCvSHH5pMFSqIIcTM0AE3) | 3:10 |
 | 53 | [너와 함께라면 \(With You\) \(Feat\. Vahn, ilipp\)](https://open.spotify.com/track/3HsXb5j17myslAHsyLWylm) | [Wavycake](https://open.spotify.com/artist/2fwYaw5xb32ox263Uo7nPR), [Vahn](https://open.spotify.com/artist/5snxmL23WuzHdNccHE7qvN), [ilipp](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [너와 함께라면 \(With You\)](https://open.spotify.com/album/7MMnN3Ymj8GTC7qSSQw7pS) | 3:41 |
 
-Snapshot ID: `ZoPDNAAAAABczC6frjvqLJwfzB7llTSI`
+Snapshot ID: `ZoS43wAAAABDrdHBODLBpAv1hwJEgpj3`

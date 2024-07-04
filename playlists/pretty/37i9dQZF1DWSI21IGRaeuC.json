@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 37373,
+  "num_followers": 37401,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Dog Days",
-        "url": "https://open.spotify.com/album/05CHTnmUe3df2YJyJGvRA8"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 223631,
-      "name": "Dog Days",
-      "url": "https://open.spotify.com/track/0Uk6JcLoMOKwIP9Qkg1z4q"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Rizzla (Mochakk Remix)",
         "url": "https://open.spotify.com/album/2blv3hfKbwCQubKJmCoNpw"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 321860,
       "name": "Rizzla - Mochakk Remix",
       "url": "https://open.spotify.com/track/3pE6Hl7fH4sbjmF9p8gzb5"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Dog Days",
+        "url": "https://open.spotify.com/album/05CHTnmUe3df2YJyJGvRA8"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 223631,
+      "name": "Dog Days",
+      "url": "https://open.spotify.com/track/0Uk6JcLoMOKwIP9Qkg1z4q"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Stolen Dub",
-        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
-      },
-      "artists": [
-        {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Stolen Dub",
-      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Its Time to Move",
         "url": "https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 162125,
       "name": "Its Time to Move",
       "url": "https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Stolen Dub",
+        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Stolen Dub",
+      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Un Beso",
-        "url": "https://open.spotify.com/album/71dCpK7C3y77Ku9tbu7YwZ"
+        "name": "Take",
+        "url": "https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5"
       },
       "artists": [
         {
-          "name": "Mal\u00f3ne",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+          "name": "Lucas Bahr",
+          "url": "https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v"
         }
       ],
-      "duration_ms": 225029,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/3uxTVxK3vXpbLNJBGiTvUM"
+      "duration_ms": 148153,
+      "name": "Take",
+      "url": "https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Take",
-        "url": "https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5"
+        "name": "Un Beso",
+        "url": "https://open.spotify.com/album/71dCpK7C3y77Ku9tbu7YwZ"
       },
       "artists": [
         {
-          "name": "Lucas Bahr",
-          "url": "https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v"
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
         }
       ],
-      "duration_ms": 148153,
-      "name": "Take",
-      "url": "https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx"
+      "duration_ms": 225029,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/3uxTVxK3vXpbLNJBGiTvUM"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Ready For The Blues",
-        "url": "https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 300041,
-      "name": "Ready For The Blues",
-      "url": "https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "venus' secret",
         "url": "https://open.spotify.com/album/5ot2j6evmXMPHQRkVUzNfl"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 200465,
       "name": "venus' secret",
       "url": "https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Ready For The Blues",
+        "url": "https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 300041,
+      "name": "Ready For The Blues",
+      "url": "https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "YAP EP",
+        "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
+      },
+      "artists": [
+        {
+          "name": "Kollektiv Turmstrasse",
+          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
+        }
+      ],
+      "duration_ms": 246474,
+      "name": "YAP",
+      "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Space Is The Place",
         "url": "https://open.spotify.com/album/00hFCWKDpCvSSSUT4NOGVp"
       },
@@ -1763,22 +1779,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "YAP EP",
-        "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
-      },
-      "artists": [
-        {
-          "name": "Kollektiv Turmstrasse",
-          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
-        }
-      ],
-      "duration_ms": 246474,
-      "name": "YAP",
-      "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Express Yourself",
         "url": "https://open.spotify.com/album/4WlAI1jYrcdXuQ8QH1X5Fd"
       },
@@ -1795,22 +1795,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Disco Trip EP",
-        "url": "https://open.spotify.com/album/3g2dwNVLlAeXMGmgYqDtLY"
+        "name": "Amused EP",
+        "url": "https://open.spotify.com/album/71ViKLNXZ55srxn3MZN4Js"
       },
       "artists": [
         {
-          "name": "Prok & Fitch",
-          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
-        },
-        {
-          "name": "Ramin Rezaie",
-          "url": "https://open.spotify.com/artist/4kJADEfmcYZAHfXzvIfg2w"
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
         }
       ],
-      "duration_ms": 215076,
-      "name": "Disco Trip",
-      "url": "https://open.spotify.com/track/0lVQP0FIJhruy3yXiuH7vu"
+      "duration_ms": 195000,
+      "name": "Amused",
+      "url": "https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G"
     }
   ],
   "unique_name": "Minimal Tech",

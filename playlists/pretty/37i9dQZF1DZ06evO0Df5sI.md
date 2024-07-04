@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,135 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,144 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 49 | [Love Love, Kiss Kiss](https://open.spotify.com/track/4BYlkO5OPtiYhEnH5KQkKs) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 3:25 |
 | 50 | [Heart Attacks](https://open.spotify.com/track/28vbpQYAJaUQvQ9s5Rc6lv) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 2:20 |
 
-Snapshot ID: `ZoHxgAAAAACPxiXONLMQ8FJXe0aJDEH9`
+Snapshot ID: `ZoNDAAAAAABTc+kEsbdQl0gvEyV0VYt+`

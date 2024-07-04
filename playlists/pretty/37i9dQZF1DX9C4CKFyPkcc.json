@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the holidays with this fresh mix of new and classic Christmas songs!",
-  "num_followers": 76338,
+  "num_followers": 76337,
   "original_name": "Merry & Bright",
   "owner": {
     "name": "Spotify",
@@ -1307,38 +1307,6 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
-        "name": "Behold Messiah",
-        "url": "https://open.spotify.com/album/0b5akzs3AfLDsFiYLyJ48b"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        }
-      ],
-      "duration_ms": 316386,
-      "name": "Behold Messiah",
-      "url": "https://open.spotify.com/track/40vLncM2rTQI22HOf7F6n5"
-    },
-    {
-      "added_at": "2023-12-15 05:38:35",
-      "album": {
-        "name": "(There\u2019s No Place Like) Home for the Holidays",
-        "url": "https://open.spotify.com/album/4QM16VhapZKE1haa2QdXkv"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 141264,
-      "name": "(There\u2019s No Place Like) Home for the Holidays",
-      "url": "https://open.spotify.com/track/1DH6zhxdbHU5NU3tnelKrw"
-    },
-    {
-      "added_at": "2023-12-15 05:38:35",
-      "album": {
         "name": "Deck the Halls / Away in a Manger",
         "url": "https://open.spotify.com/album/37v1AIYJEA5RpEGv8jLvF3"
       },
@@ -1359,6 +1327,38 @@
       "duration_ms": 129427,
       "name": "Deck the Halls / Away in a Manger",
       "url": "https://open.spotify.com/track/07BHY5WAhUZL1oAG6uistV"
+    },
+    {
+      "added_at": "2023-12-15 05:38:35",
+      "album": {
+        "name": "(There\u2019s No Place Like) Home for the Holidays",
+        "url": "https://open.spotify.com/album/4QM16VhapZKE1haa2QdXkv"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 141264,
+      "name": "(There\u2019s No Place Like) Home for the Holidays",
+      "url": "https://open.spotify.com/track/1DH6zhxdbHU5NU3tnelKrw"
+    },
+    {
+      "added_at": "2023-12-15 05:38:35",
+      "album": {
+        "name": "Behold Messiah",
+        "url": "https://open.spotify.com/album/0b5akzs3AfLDsFiYLyJ48b"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "duration_ms": 316386,
+      "name": "Behold Messiah",
+      "url": "https://open.spotify.com/track/40vLncM2rTQI22HOf7F6n5"
     },
     {
       "added_at": "2023-12-15 05:38:35",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
-        "name": "Home For Christmas",
-        "url": "https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw"
+        "name": "Christmas (What the World Needs)",
+        "url": "https://open.spotify.com/album/52B8nEKBwBTIdj6DhyoJ8h"
       },
       "artists": [
         {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
         }
       ],
-      "duration_ms": 287426,
-      "name": "I Can Hardly Wait 'Til Christmas",
-      "url": "https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf"
+      "duration_ms": 216842,
+      "name": "Christmas (What the World Needs)",
+      "url": "https://open.spotify.com/track/7LVlVysevTfk1xvuyZjt4N"
     },
     {
       "added_at": "2023-12-15 05:38:35",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
-        "name": "Christmas (What the World Needs)",
-        "url": "https://open.spotify.com/album/52B8nEKBwBTIdj6DhyoJ8h"
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw"
       },
       "artists": [
         {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 216842,
-      "name": "Christmas (What the World Needs)",
-      "url": "https://open.spotify.com/track/7LVlVysevTfk1xvuyZjt4N"
+      "duration_ms": 287426,
+      "name": "I Can Hardly Wait 'Til Christmas",
+      "url": "https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf"
     },
     {
       "added_at": "2023-12-15 05:38:35",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
-        "name": "Angels We Have Heard on High",
-        "url": "https://open.spotify.com/album/089uYze5fJAmXWCjpVDqOO"
-      },
-      "artists": [
-        {
-          "name": "Jamie Kimmett",
-          "url": "https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG"
-        }
-      ],
-      "duration_ms": 154499,
-      "name": "Angels We Have Heard on High",
-      "url": "https://open.spotify.com/track/1ViTV7qA8Yxdnd3BWxoCGk"
-    },
-    {
-      "added_at": "2023-12-15 05:38:35",
-      "album": {
         "name": "Crown Him (Glory in the Highest)",
         "url": "https://open.spotify.com/album/16IA6igILbx316CPY6CwjP"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 312526,
       "name": "Crown Him (Glory in the Highest)",
       "url": "https://open.spotify.com/track/0xjCdmZQQQAY3lrvPEaZRS"
+    },
+    {
+      "added_at": "2023-12-15 05:38:35",
+      "album": {
+        "name": "Angels We Have Heard on High",
+        "url": "https://open.spotify.com/album/089uYze5fJAmXWCjpVDqOO"
+      },
+      "artists": [
+        {
+          "name": "Jamie Kimmett",
+          "url": "https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG"
+        }
+      ],
+      "duration_ms": 154499,
+      "name": "Angels We Have Heard on High",
+      "url": "https://open.spotify.com/track/1ViTV7qA8Yxdnd3BWxoCGk"
     },
     {
       "added_at": "2023-12-15 05:38:35",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
-        "name": "A Family Christmas",
-        "url": "https://open.spotify.com/album/486kM8hafi4CrDewCsSFs5"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Still Can\u2019t Sleep On Christmas Eve",
-      "url": "https://open.spotify.com/track/5gNzVsZwxbt6vVPDgESKa1"
-    },
-    {
-      "added_at": "2023-12-15 05:38:35",
-      "album": {
         "name": "Emmanuel: Christmas Songs Of Worship (Deluxe)",
         "url": "https://open.spotify.com/album/4mNQ4Jm87KEl2HXAQdF0al"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 217549,
       "name": "Gloria - Live",
       "url": "https://open.spotify.com/track/3l4f4bD5JePEYHv4mMAOgw"
+    },
+    {
+      "added_at": "2023-12-15 05:38:35",
+      "album": {
+        "name": "A Family Christmas",
+        "url": "https://open.spotify.com/album/486kM8hafi4CrDewCsSFs5"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Still Can\u2019t Sleep On Christmas Eve",
+      "url": "https://open.spotify.com/track/5gNzVsZwxbt6vVPDgESKa1"
     },
     {
       "added_at": "2023-12-15 05:38:35",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/0IJGoazlUcCQTWdL7BV1Oa"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Christmas Time Again",
+      "url": "https://open.spotify.com/track/4fZOOTo7H9ralEE18IeIi0"
+    },
+    {
+      "added_at": "2023-12-15 05:38:35",
+      "album": {
         "name": "Christmas Eve in Bethlehem (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2zpe0u6jgqTdlxZWo92MYa"
       },
@@ -1979,22 +1995,6 @@
       "duration_ms": 218933,
       "name": "Here to Stay",
       "url": "https://open.spotify.com/track/1bEw72sYBtcZarQ3pstrmc"
-    },
-    {
-      "added_at": "2023-12-15 05:38:35",
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/0IJGoazlUcCQTWdL7BV1Oa"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Christmas Time Again",
-      "url": "https://open.spotify.com/track/4fZOOTo7H9ralEE18IeIi0"
     },
     {
       "added_at": "2023-12-15 05:38:35",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
+        "name": "Maybe Christmas Will Make It Right",
+        "url": "https://open.spotify.com/album/3e6V6QLVkYKxaOz6GssKp7"
+      },
+      "artists": [
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        }
+      ],
+      "duration_ms": 218571,
+      "name": "Maybe Christmas Will Make It Right",
+      "url": "https://open.spotify.com/track/3pRy8US6Hud7z9VcOZ0FQW"
+    },
+    {
+      "added_at": "2023-12-15 05:38:35",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0TxoOroboezaKCvWAwVVpP"
       },
@@ -2283,22 +2299,6 @@
       "duration_ms": 212306,
       "name": "Home",
       "url": "https://open.spotify.com/track/1JArBYjls1EZ996UAJopI3"
-    },
-    {
-      "added_at": "2023-12-15 05:38:35",
-      "album": {
-        "name": "Maybe Christmas Will Make It Right",
-        "url": "https://open.spotify.com/album/3e6V6QLVkYKxaOz6GssKp7"
-      },
-      "artists": [
-        {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
-        }
-      ],
-      "duration_ms": 218571,
-      "name": "Maybe Christmas Will Make It Right",
-      "url": "https://open.spotify.com/track/3pRy8US6Hud7z9VcOZ0FQW"
     },
     {
       "added_at": "2023-12-15 05:38:35",
@@ -2367,6 +2367,22 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/0XgTFzpaVhSq7D4xQTic0g"
+      },
+      "artists": [
+        {
+          "name": "Lydia Laird",
+          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/1cXTOc2xKSg4whKKhDD7Va"
+    },
+    {
+      "added_at": "2023-12-15 05:38:35",
+      "album": {
         "name": "The Advent of Christmas",
         "url": "https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg"
       },
@@ -2403,42 +2419,6 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/0XgTFzpaVhSq7D4xQTic0g"
-      },
-      "artists": [
-        {
-          "name": "Lydia Laird",
-          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/1cXTOc2xKSg4whKKhDD7Va"
-    },
-    {
-      "added_at": "2023-12-15 05:38:35",
-      "album": {
-        "name": "Christmas - Live at Tyndale University",
-        "url": "https://open.spotify.com/album/2PsUI1qRMs5RZQJx2llhoX"
-      },
-      "artists": [
-        {
-          "name": "The Worship Project",
-          "url": "https://open.spotify.com/artist/1HfLz4ZQ8xPPzPeoS2iKi3"
-        },
-        {
-          "name": "Brooke Nicholls",
-          "url": "https://open.spotify.com/artist/0phq5bIgmJH85OUSjsI8Bg"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "God With Us - Live",
-      "url": "https://open.spotify.com/track/50v2NQts2bIqKF7jfWu7Vw"
-    },
-    {
-      "added_at": "2023-12-15 05:38:35",
-      "album": {
         "name": "This Christmas",
         "url": "https://open.spotify.com/album/2qvU0V1K9WGP13QBztAKVF"
       },
@@ -2467,6 +2447,26 @@
       "duration_ms": 235100,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/2EPBlKjnAF8KqRHYGQkIbt"
+    },
+    {
+      "added_at": "2023-12-15 05:38:35",
+      "album": {
+        "name": "Christmas - Live at Tyndale University",
+        "url": "https://open.spotify.com/album/2PsUI1qRMs5RZQJx2llhoX"
+      },
+      "artists": [
+        {
+          "name": "The Worship Project",
+          "url": "https://open.spotify.com/artist/1HfLz4ZQ8xPPzPeoS2iKi3"
+        },
+        {
+          "name": "Brooke Nicholls",
+          "url": "https://open.spotify.com/artist/0phq5bIgmJH85OUSjsI8Bg"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "God With Us - Live",
+      "url": "https://open.spotify.com/track/50v2NQts2bIqKF7jfWu7Vw"
     },
     {
       "added_at": "2023-12-15 05:38:35",
@@ -2547,26 +2547,18 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
-        "name": "New Day",
-        "url": "https://open.spotify.com/album/43SZahMmMDXExJbnfORC60"
+        "name": "We Four Kings",
+        "url": "https://open.spotify.com/album/3hDmMBXMnoNP6igeIJK6am"
       },
       "artists": [
         {
-          "name": "Naffymar",
-          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
-        },
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
-        },
-        {
-          "name": "TKE3",
-          "url": "https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci"
+          "name": "Kings Return",
+          "url": "https://open.spotify.com/artist/1MCC8nsXurGKs7K2TXocBh"
         }
       ],
-      "duration_ms": 129882,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/10vdFSasLRzlurCi1grRon"
+      "duration_ms": 264866,
+      "name": "The Kings' Nutcracker Suite",
+      "url": "https://open.spotify.com/track/5Re4LEkwp0Mty5PSTvpkNy"
     },
     {
       "added_at": "2023-12-15 05:38:35",
@@ -2591,6 +2583,22 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
+        "name": "Forever Evergreen (Here in the Winter)",
+        "url": "https://open.spotify.com/album/0O4AM6bSfFzUPpNOrHi5Zf"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "Forever Evergreen (Here in the Winter)",
+      "url": "https://open.spotify.com/track/0GHZixuBIWMWUsED3IaXSR"
+    },
+    {
+      "added_at": "2023-12-15 05:38:35",
+      "album": {
         "name": "Christmas Card",
         "url": "https://open.spotify.com/album/3nDsomMe31JVCIlnaQizwU"
       },
@@ -2611,18 +2619,42 @@
     {
       "added_at": "2023-12-15 05:38:35",
       "album": {
-        "name": "Forever Evergreen (Here in the Winter)",
-        "url": "https://open.spotify.com/album/0O4AM6bSfFzUPpNOrHi5Zf"
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/43SZahMmMDXExJbnfORC60"
       },
       "artists": [
         {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "TKE3",
+          "url": "https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci"
         }
       ],
-      "duration_ms": 252640,
-      "name": "Forever Evergreen (Here in the Winter)",
-      "url": "https://open.spotify.com/track/0GHZixuBIWMWUsED3IaXSR"
+      "duration_ms": 129882,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/10vdFSasLRzlurCi1grRon"
+    },
+    {
+      "added_at": "2023-12-15 05:38:35",
+      "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/2bKOdumK0afBpWoW0W70tj"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 246954,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/30o5BzVWQclEjTg9S1OaBy"
     },
     {
       "added_at": "2023-12-15 05:38:35",
@@ -2643,38 +2675,6 @@
       "duration_ms": 134640,
       "name": "So We Sing on Christmas Day",
       "url": "https://open.spotify.com/track/3JJFsY2EVqcJUW3bbxfxC3"
-    },
-    {
-      "added_at": "2023-12-15 05:38:35",
-      "album": {
-        "name": "We Four Kings",
-        "url": "https://open.spotify.com/album/3hDmMBXMnoNP6igeIJK6am"
-      },
-      "artists": [
-        {
-          "name": "Kings Return",
-          "url": "https://open.spotify.com/artist/1MCC8nsXurGKs7K2TXocBh"
-        }
-      ],
-      "duration_ms": 264866,
-      "name": "The Kings' Nutcracker Suite",
-      "url": "https://open.spotify.com/track/5Re4LEkwp0Mty5PSTvpkNy"
-    },
-    {
-      "added_at": "2023-12-15 05:38:35",
-      "album": {
-        "name": "The Christmas Song",
-        "url": "https://open.spotify.com/album/2bKOdumK0afBpWoW0W70tj"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 246954,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/30o5BzVWQclEjTg9S1OaBy"
     },
     {
       "added_at": "2023-12-15 05:38:35",

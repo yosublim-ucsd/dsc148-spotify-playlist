@@ -1,13 +1,109 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: PIAO Artwork by Paola Saliby",
-  "num_followers": 211765,
+  "description": "The best new pop music by independent artists and labels. Cover: Remy Bond Artwork by Paola Saliby",
+  "num_followers": 211910,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnzlPQAAAAAPqn5k1hFDSUjrSuphhe3n",
+  "snapshot_id": "ZoTMwAAAAADbNsdujhYgb/D2FWsCUAim",
   "tracks": [
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "Summer Song",
+        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 245504,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "GIRLFRIEND",
+        "url": "https://open.spotify.com/album/6G4udJxDgLFrXnsNm8hSs5"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Luke",
+          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
+        }
+      ],
+      "duration_ms": 204481,
+      "name": "GIRLFRIEND",
+      "url": "https://open.spotify.com/track/4fVa3oskSSMCsKyvlAGMPv"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "Can't Complain",
+        "url": "https://open.spotify.com/album/0nRdDiS1USIQgFr0fCLhQL"
+      },
+      "artists": [
+        {
+          "name": "Chase Behar",
+          "url": "https://open.spotify.com/artist/28B346ru2FJIXLEW859YbG"
+        }
+      ],
+      "duration_ms": 160459,
+      "name": "Can't Complain",
+      "url": "https://open.spotify.com/track/1vDMeYgFqDeicy8OtIr9nB"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "East Coast",
+        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
+      },
+      "artists": [
+        {
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "Rear View Mirror",
+        "url": "https://open.spotify.com/album/32tjmEGKz6uQiIdIr3E8hR"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5d",
+          "url": "https://open.spotify.com/artist/6Sct7au0GLkwDG7tMLsV3Q"
+        }
+      ],
+      "duration_ms": 188966,
+      "name": "Rear View Mirror",
+      "url": "https://open.spotify.com/track/4FAARAeFvRh0Kcrnkszl4l"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "I Like You Best",
+        "url": "https://open.spotify.com/album/6dk1A9dHnyENBQyJk3QWJX"
+      },
+      "artists": [
+        {
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
+        }
+      ],
+      "duration_ms": 163258,
+      "name": "I Like You Best",
+      "url": "https://open.spotify.com/track/75TVJYusnr7pk5ooXNLZCP"
+    },
     {
       "added_at": "2024-06-19 04:00:00",
       "album": {
@@ -25,20 +121,20 @@
       "url": "https://open.spotify.com/track/0jLYbfU5qwk4ivxrE4sZUi"
     },
     {
-      "added_at": "2024-06-27 04:06:21",
+      "added_at": "2024-07-03 04:00:00",
       "album": {
-        "name": "Technicolor Dream",
-        "url": "https://open.spotify.com/album/5JStMEC0L8JLLLOqa1QA7W"
+        "name": "Matador",
+        "url": "https://open.spotify.com/album/7375mSEJBe8UKKzwMDzbQd"
       },
       "artists": [
         {
-          "name": "My Friend Catie",
-          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
         }
       ],
-      "duration_ms": 245786,
-      "name": "Crystallize",
-      "url": "https://open.spotify.com/track/2fEPdHusxsoRD22Yzm1JJV"
+      "duration_ms": 227560,
+      "name": "Matador",
+      "url": "https://open.spotify.com/track/6idR1ncIgw5X6Nj2DUR6tC"
     },
     {
       "added_at": "2024-06-27 04:06:21",
@@ -71,6 +167,102 @@
       "duration_ms": 166987,
       "name": "boo hoo",
       "url": "https://open.spotify.com/track/42Dvo910Rj43IijSxDFQTy"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "I liked it",
+        "url": "https://open.spotify.com/album/6A12F6iYT2oa853sJhXyHH"
+      },
+      "artists": [
+        {
+          "name": "Pool Girl",
+          "url": "https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2"
+        }
+      ],
+      "duration_ms": 147969,
+      "name": "I liked it",
+      "url": "https://open.spotify.com/track/28T6SN4z5CSSc0sd9gvr4k"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "rosequartz.",
+        "url": "https://open.spotify.com/album/18nqNDdNyJzFGSd9mPvNoS"
+      },
+      "artists": [
+        {
+          "name": "French For Drugs",
+          "url": "https://open.spotify.com/artist/6VI38wBrLiN4t3QD8MuGyg"
+        }
+      ],
+      "duration_ms": 184669,
+      "name": "rosequartz.",
+      "url": "https://open.spotify.com/track/4GY1hOTfPid5CjzKd01Mvd"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "Blame Me",
+        "url": "https://open.spotify.com/album/4Ip5jY0U3bUyx5QjyFC3LJ"
+      },
+      "artists": [
+        {
+          "name": "Ayesha Madon",
+          "url": "https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr"
+        }
+      ],
+      "duration_ms": 163733,
+      "name": "Blame Me",
+      "url": "https://open.spotify.com/track/5eRSBJ5HF7g5IzDhY45Ryi"
+    },
+    {
+      "added_at": "2024-06-27 04:06:21",
+      "album": {
+        "name": "Technicolor Dream",
+        "url": "https://open.spotify.com/album/5JStMEC0L8JLLLOqa1QA7W"
+      },
+      "artists": [
+        {
+          "name": "My Friend Catie",
+          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
+        }
+      ],
+      "duration_ms": 245786,
+      "name": "Crystallize",
+      "url": "https://open.spotify.com/track/2fEPdHusxsoRD22Yzm1JJV"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/4yhCKFELdJwQhU9wAobBBK"
+      },
+      "artists": [
+        {
+          "name": "Madison Bequer",
+          "url": "https://open.spotify.com/artist/6cG80YmaXOteWYLTF8zQED"
+        }
+      ],
+      "duration_ms": 144210,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/0fSPLwcm9PonqFKLgV08Yd"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "Burning Bones",
+        "url": "https://open.spotify.com/album/1K8Ec1RazTtm8JFrt6YDf9"
+      },
+      "artists": [
+        {
+          "name": "mzzltvv",
+          "url": "https://open.spotify.com/artist/58n2PnkyIBuaD1Fo4UiSnb"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Burning Bones",
+      "url": "https://open.spotify.com/track/3TsWxytZXJTGP5TtoOza87"
     },
     {
       "added_at": "2024-06-27 04:06:21",
@@ -831,22 +1023,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "stranger at the dinner table",
-        "url": "https://open.spotify.com/album/51bIfvJlFR0llFDfAS3TLg"
-      },
-      "artists": [
-        {
-          "name": "Maxwell Luke",
-          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
-        }
-      ],
-      "duration_ms": 237365,
-      "name": "stranger at the dinner table",
-      "url": "https://open.spotify.com/track/5IKZkf0qpBXNqeSjaLnU7G"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Love Over Glory",
         "url": "https://open.spotify.com/album/10q9pHSwBj611CT8gcN3pp"
       },
@@ -1043,70 +1219,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/55wZS60svlwUEN4t1yxaz7"
-      },
-      "artists": [
-        {
-          "name": "Jess Meilman",
-          "url": "https://open.spotify.com/artist/1kmlGybezNBp0fGM8PNBw9"
-        }
-      ],
-      "duration_ms": 164467,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/6WUjd7Rs52cnRFC8k4ERBs"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "20 BPM",
-        "url": "https://open.spotify.com/album/7BTUJzOaV7h3GCltS4CW1w"
-      },
-      "artists": [
-        {
-          "name": "CEVIL",
-          "url": "https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP"
-        }
-      ],
-      "duration_ms": 183859,
-      "name": "20 BPM",
-      "url": "https://open.spotify.com/track/2vC3G5OVfO8BGSbMkVYcV7"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y"
-      },
-      "artists": [
-        {
-          "name": "Fernie",
-          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
-        }
-      ],
-      "duration_ms": 242653,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/65B2RvJC85fF6pNCymLMDF"
-      },
-      "artists": [
-        {
-          "name": "Elyse Jewel",
-          "url": "https://open.spotify.com/artist/56k4POEm6y9BnlWP5yQ8Py"
-        }
-      ],
-      "duration_ms": 139898,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/5gM6XHLOdzgWq17yd0bE2o"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Sticks and Stones",
         "url": "https://open.spotify.com/album/4QGuaJoRjdOw326Ex7xzwp"
       },
@@ -1231,70 +1343,6 @@
       "duration_ms": 158026,
       "name": "Fired",
       "url": "https://open.spotify.com/track/3pswST6FEbW1HKR5AQiXm6"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Eulogy",
-        "url": "https://open.spotify.com/album/00jDeAf7t2dmbMKtxEniMA"
-      },
-      "artists": [
-        {
-          "name": "Ayesha Madon",
-          "url": "https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr"
-        }
-      ],
-      "duration_ms": 212841,
-      "name": "Eulogy",
-      "url": "https://open.spotify.com/track/0OWyJzSLWlM3WZhl7IfYc6"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/1LtL4M8Ap0tzNZNLFQjQhN"
-      },
-      "artists": [
-        {
-          "name": "Maya Malkin",
-          "url": "https://open.spotify.com/artist/4E7h9iuJDTrjAtpd0cnIRJ"
-        }
-      ],
-      "duration_ms": 128507,
-      "name": "XOXO",
-      "url": "https://open.spotify.com/track/3NcbkfyYhxERMXaUU7UaUR"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "take it slow",
-        "url": "https://open.spotify.com/album/4rQGjmvmaINePcD10QJerM"
-      },
-      "artists": [
-        {
-          "name": "Joe Serafini",
-          "url": "https://open.spotify.com/artist/6fu9TecMw6TInkRRyXObeu"
-        }
-      ],
-      "duration_ms": 180374,
-      "name": "take it slow",
-      "url": "https://open.spotify.com/track/0u8ZnR82n2uZJJMiRZjnhz"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Night Talks",
-        "url": "https://open.spotify.com/album/1XgVKm93SUFBZLTfkWmhdx"
-      },
-      "artists": [
-        {
-          "name": "Maisyn",
-          "url": "https://open.spotify.com/artist/2SQWrWZ6liOAZtLkcs2P2d"
-        }
-      ],
-      "duration_ms": 187428,
-      "name": "Night Talks",
-      "url": "https://open.spotify.com/track/3C3nxNgZ9NK2qyDPQ8Zf5h"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1491,54 +1539,6 @@
       "duration_ms": 189199,
       "name": "It's Giving...",
       "url": "https://open.spotify.com/track/14sy9bz023LO93gUiyf5Mz"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Tiptoe",
-        "url": "https://open.spotify.com/album/1gIpp0BMS8oaOimgp33Npp"
-      },
-      "artists": [
-        {
-          "name": "Lauren Presley",
-          "url": "https://open.spotify.com/artist/2MtAIOQOd55jnPFR6JXFiN"
-        }
-      ],
-      "duration_ms": 158374,
-      "name": "Tiptoe",
-      "url": "https://open.spotify.com/track/1sS3SE3s7XQ2UgU4WIg40q"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "title",
-        "url": "https://open.spotify.com/album/48OZ3oyA9a2fQNGDyYk1D2"
-      },
-      "artists": [
-        {
-          "name": "Meg Donnelly",
-          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
-        }
-      ],
-      "duration_ms": 128130,
-      "name": "title",
-      "url": "https://open.spotify.com/track/4csL3fDiVG2Y4B4bGi2BuL"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "my mother's daughter",
-        "url": "https://open.spotify.com/album/3q6IHexiOr3cc2BI3z2UzO"
-      },
-      "artists": [
-        {
-          "name": "Ella Boh",
-          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
-        }
-      ],
-      "duration_ms": 209712,
-      "name": "my mother's daughter",
-      "url": "https://open.spotify.com/track/0StDtkDKpEyFok25poMZqP"
     },
     {
       "added_at": "2024-05-22 11:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,646,061 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,646,083 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 21 | [The Boxer](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 5:08 |
 | 22 | [Me and Bobby McGee](https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 4:31 |
 | 23 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 |
-| 24 | [Vincent](https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 4:03 |
-| 25 | [Michelle \- Remastered 2009](https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:42 |
+| 24 | [Michelle \- Remastered 2009](https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:42 |
+| 25 | [Vincent](https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 4:03 |
 | 26 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 |
 | 27 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 |
 | 28 | [Guitar Man](https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Guitar Man](https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy) | 3:46 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 63 | [Donna Donna](https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 3:12 |
 | 64 | [Let Him Fly](https://open.spotify.com/track/15GiOLRhRZGM07xhEorDZ4) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Living With Ghosts](https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF) | 3:11 |
 | 65 | [The Watchman's Gone](https://open.spotify.com/track/2aWxDsPrW9boRYyWLF6sst) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 4:18 |
-| 66 | [Souvenirs](https://open.spotify.com/track/0YqwZcztnGN3Rjh4yPGmic) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Souvenirs](https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE) | 3:42 |
-| 67 | [900 Miles](https://open.spotify.com/track/0zVduthKvT1FEsUGFWT9Xo) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [The New Folk Sound Of Terry Callier \(Deluxe Edition\)](https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7) | 5:07 |
+| 66 | [900 Miles](https://open.spotify.com/track/0zVduthKvT1FEsUGFWT9Xo) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [The New Folk Sound Of Terry Callier \(Deluxe Edition\)](https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7) | 5:07 |
+| 67 | [Souvenirs](https://open.spotify.com/track/0YqwZcztnGN3Rjh4yPGmic) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Souvenirs](https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE) | 3:42 |
 | 68 | [Everything Is Free](https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Time \(The Revelator\)](https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp) | 4:48 |
 | 69 | [It's All Over Now Baby Blue](https://open.spotify.com/track/7hoWkhuHv9b3jiCbxX1kMm) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Rich Kid Blues](https://open.spotify.com/album/7m06IfHTHIxJHPlOrCybrk) | 3:49 |
 | 70 | [The Weight](https://open.spotify.com/track/2UgZeV435iztRTLrUeOrtk) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Best Of The Band](https://open.spotify.com/album/4RMbnuwtOMbN3INQcaJwUr) | 4:34 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 81 | [Crayon Angels](https://open.spotify.com/track/7iKnwGAMdY6LYLILGnsGhT) | [Judee Sill](https://open.spotify.com/artist/2IkwqvwEnXFlZEq6eFP1wL) | [Judee Sill](https://open.spotify.com/album/2zaIMRTlztlfkxLoo5nPtf) | 2:45 |
 | 82 | [Carolina In My Mind](https://open.spotify.com/track/2Fv3LSqbgv5lrdClrc6XKc) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [James Taylor Live](https://open.spotify.com/album/38OACLXl1hgUnsuCUv13HC) | 5:01 |
 | 83 | [Green Mountain Road](https://open.spotify.com/track/4lSofToZxg0tPiVfv6AOMM) | [Adam Torres](https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8) | [I Came to Sing the Song](https://open.spotify.com/album/2m19dJQ6TcCzfJUl3QcGpB) | 5:34 |
-| 84 | [Music Is Love](https://open.spotify.com/track/0O87QQVWgCkkXAfrhsal55) | [David Crosby](https://open.spotify.com/artist/59zdhVoWxSoHMc74n098Re) | [If I Could Only Remember My Name](https://open.spotify.com/album/4v9ZAufvuQKvTLcy21y6BM) | 3:22 |
-| 85 | [Great Day](https://open.spotify.com/track/6QP9DFKvDjegtwz2HQZFL7) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Funny People \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zrPKpcz1dKsWWqQGICVrg) | 2:08 |
+| 84 | [Great Day](https://open.spotify.com/track/6QP9DFKvDjegtwz2HQZFL7) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Funny People \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zrPKpcz1dKsWWqQGICVrg) | 2:08 |
+| 85 | [Music Is Love](https://open.spotify.com/track/0O87QQVWgCkkXAfrhsal55) | [David Crosby](https://open.spotify.com/artist/59zdhVoWxSoHMc74n098Re) | [If I Could Only Remember My Name](https://open.spotify.com/album/4v9ZAufvuQKvTLcy21y6BM) | 3:22 |
 | 86 | [Tell Old Bill](https://open.spotify.com/track/2ddznUWfrjiPS0cYGGf2jy) | [Dave Van Ronk](https://open.spotify.com/artist/6QmHysWvckkQR74oxmLmtz) | [Dave Van Ronk Sings](https://open.spotify.com/album/34j8rWAn2K4du9ay3WRvmQ) | 4:24 |
 | 87 | [Not Alone](https://open.spotify.com/track/2SXtIzmLn2a8WHDbxAt6Ai) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Living With Ghosts](https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF) | 4:32 |
 | 88 | [One Of These Things First](https://open.spotify.com/track/0hNVjU6JKydHts0SAjHCno) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5) | 4:50 |

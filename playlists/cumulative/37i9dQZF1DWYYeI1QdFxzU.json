@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "#19",
+        "url": "https://open.spotify.com/album/7njwofUGv4MhSLm1VblQss"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 614592,
+      "name": "#19",
+      "url": "https://open.spotify.com/track/3zSBsvj6MWavRKfPE51395"
+    },
+    {
+      "album": {
         "name": "123",
         "url": "https://open.spotify.com/album/6goMNKPoqFMhx8TkWz2475"
       },
@@ -272,7 +290,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 432941,
       "name": "Birds",
       "url": "https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk"
@@ -330,6 +348,24 @@
       "duration_ms": 185979,
       "name": "Blind Eye",
       "url": "https://open.spotify.com/track/6oVLw2Yd1IfCQDLYvUgTmQ"
+    },
+    {
+      "album": {
+        "name": "Music For The Uninvited (10 Year Anniversary)",
+        "url": "https://open.spotify.com/album/0XgEABVNkID09NOh1bG4n9"
+      },
+      "artists": [
+        {
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254358,
+      "name": "Blue (2013 Archive)",
+      "url": "https://open.spotify.com/track/6k4j9Onu3e9kRIAFCrhsqC"
     },
     {
       "album": {
@@ -964,7 +1000,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 209552,
       "name": "Everything (feat. Carmody)",
       "url": "https://open.spotify.com/track/57YDcLOmB4sezbSAupAQuh"
@@ -1361,6 +1397,28 @@
     },
     {
       "album": {
+        "name": "Astral Projection (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3GILJJDr4pbDI3pH8lNyJr"
+      },
+      "artists": [
+        {
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        },
+        {
+          "name": "Dan Heath",
+          "url": "https://open.spotify.com/artist/0DHqlyxrbPpHcR8MQqP14P"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "i feel lost - orchestral reprise",
+      "url": "https://open.spotify.com/track/7l2XviJ7uk4cijQXPd7uEO"
+    },
+    {
+      "album": {
         "name": "insomnia every night",
         "url": "https://open.spotify.com/album/6zVAVZhUuYpnvQsODqDiHB"
       },
@@ -1394,6 +1452,24 @@
       "duration_ms": 240000,
       "name": "Journey",
       "url": "https://open.spotify.com/track/070DusgGH4WJKyRIXrZz6u"
+    },
+    {
+      "album": {
+        "name": "joycelyn's dance",
+        "url": "https://open.spotify.com/album/1ZmhzQQWURtuF9K7yPcAoJ"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "joycelyn's dance",
+      "url": "https://open.spotify.com/track/6OI1stBQI4YHH2ceWVIrk4"
     },
     {
       "album": {
@@ -1496,6 +1572,28 @@
       "duration_ms": 337736,
       "name": "Liquid",
       "url": "https://open.spotify.com/track/5PB690PLg0KTUTTqFExQkb"
+    },
+    {
+      "album": {
+        "name": "Love In Our Hands (Omfeel Remix)",
+        "url": "https://open.spotify.com/album/02qpWAHaCW4bcK6TEOgxt6"
+      },
+      "artists": [
+        {
+          "name": "Croquet Club",
+          "url": "https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6"
+        },
+        {
+          "name": "Omfeel",
+          "url": "https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218118,
+      "name": "Love In Our Hands - Omfeel Remix",
+      "url": "https://open.spotify.com/track/13J8zbaMzeLyQ2o0duJ4dh"
     },
     {
       "album": {
@@ -1850,7 +1948,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 304660,
       "name": "Nocturnal Lady",
       "url": "https://open.spotify.com/track/0Hdzza1KQrGEzwVPtipMOq"
@@ -1944,7 +2042,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 144292,
       "name": "Opals",
       "url": "https://open.spotify.com/track/0g9lBzTwOmnx3zLUTR9x62"
@@ -2090,7 +2188,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 257275,
       "name": "Planet Hearth",
       "url": "https://open.spotify.com/track/1RvPfvzAg6jbzWsODpDILb"
@@ -2334,7 +2432,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 502705,
       "name": "Sit Around The Fire",
       "url": "https://open.spotify.com/track/2sAlOD8k8EL0dQ34f2ysJS"
@@ -2480,6 +2578,24 @@
       "duration_ms": 287037,
       "name": "Summer In The Ends",
       "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
+    },
+    {
+      "album": {
+        "name": "Sun/Shade",
+        "url": "https://open.spotify.com/album/5pJjvZvlTbfj5Pyz3ztUGH"
+      },
+      "artists": [
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282600,
+      "name": "Sun/Shade",
+      "url": "https://open.spotify.com/track/0V2gIvf9zT4RzOnxYYQ7RA"
     },
     {
       "album": {

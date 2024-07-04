@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 
 > Classic songs from the Blues songbook\. Cover: Muddy Waters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,213 likes - 58 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,324 likes - 58 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,17 +21,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 11 | [Rollin' And Tumblin'](https://open.spotify.com/track/2Ihc193y6t3DNixXjQWTZD) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Canned Heat](https://open.spotify.com/album/1IW70uqFMjoCwHjHQLcid8) | 3:11 |
 | 12 | [Spoonful \- Single Version](https://open.spotify.com/track/1swNbKiUEwgTM6jnkx5rkm) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb), [Harvey Fuqua](https://open.spotify.com/artist/0F577kU2Hk9gr4mAzK60tZ) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:47 |
 | 13 | [The Things \(That\) I Used to Do](https://open.spotify.com/track/4YAtqSH9gdzlNhVMUVmZMy) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:54 |
-| 14 | [Trouble Blues](https://open.spotify.com/track/7a6dNBkRHict66PWnCqbqT) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 3:20 |
+| 14 | [Stormy Monday](https://open.spotify.com/track/1lK8K3i4ooFEcCoCNHAmvl) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 4:24 |
 | 15 | [Dust My Broom](https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:55 |
-| 16 | [Stormy Monday](https://open.spotify.com/track/1lK8K3i4ooFEcCoCNHAmvl) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 4:24 |
+| 16 | [Trouble Blues](https://open.spotify.com/track/7a6dNBkRHict66PWnCqbqT) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 3:20 |
 | 17 | [Backlash Blues](https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:28 |
 | 18 | [That's All Right \- 1950 Single Version](https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:50 |
 | 19 | [I'm Ready](https://open.spotify.com/track/6MK4Omudz4gPzLCgvTXOXs) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 3:04 |
 | 20 | [It Hurts Me Too](https://open.spotify.com/track/5lgfWxatYUKXvQEE1oTGDE) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Nicky Hopkins](https://open.spotify.com/artist/4oFSDUi4VgAWAn7t5RNaan), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Jamming With Edward](https://open.spotify.com/album/4flw1L8widdDehQ4BYHQvO) | 5:14 |
 | 21 | [Key To The Highway](https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:43 |
-| 22 | [Baby, What You Want Me To Do \- Live At The New Era Club,1963](https://open.spotify.com/track/6SoZkdugPfXghVpEEqSHCn) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Rocks The House](https://open.spotify.com/album/4XmKdBEndE6UnnbrSUN5Dk) | 4:14 |
-| 23 | [How Long Blues](https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 5:17 |
-| 24 | [Little Red Rooster](https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 2:51 |
+| 22 | [Little Red Rooster](https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 2:51 |
+| 23 | [Baby, What You Want Me To Do \- Live At The New Era Club,1963](https://open.spotify.com/track/6SoZkdugPfXghVpEEqSHCn) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Rocks The House](https://open.spotify.com/album/4XmKdBEndE6UnnbrSUN5Dk) | 4:14 |
+| 24 | [How Long Blues](https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 5:17 |
 | 25 | [Nobody Knows You When You're Down And Out](https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Let The Good Times Roll: The Music Of Louis Jordan](https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u) | 4:34 |
 | 26 | [Walkin' Blues](https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [East West](https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3) | 3:19 |
 | 27 | [Got My Mojo Workin'](https://open.spotify.com/track/7i8YfqTfMuGrADrOQTigrb) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Got My Mojo Workin'](https://open.spotify.com/album/7M0FL4rB8lWBzMQXzyhuiO) | 8:02 |

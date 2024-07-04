@@ -1,13 +1,37 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: IDLES",
-  "num_followers": 219731,
+  "num_followers": 219722,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmnzjAAAAABueePlyF0aEKMulhsPz64V",
+  "snapshot_id": "ZoWgfAAAAACuskjkAbvE6qTZ6/9BMT+u",
   "tracks": [
+    {
+      "added_at": "2024-07-03 19:03:24",
+      "album": {
+        "name": "Rendezvous",
+        "url": "https://open.spotify.com/album/3w5hz4zdo66O3NugeTh7IF"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        },
+        {
+          "name": "MONTMARTRE",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+        },
+        {
+          "name": "Ghenda",
+          "url": "https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF"
+        }
+      ],
+      "duration_ms": 196731,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/5MctBX8S4ks5Yr0fU66dOh"
+    },
     {
       "added_at": "2024-06-12 12:34:57",
       "album": {

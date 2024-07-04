@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,040 likes - 44 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,061 likes - 44 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 4 | [If U Like Me \- Edit](https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [If U Like Me](https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm) | 2:32 |
 | 5 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 |
 | 6 | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 |
-| 7 | [Jamming \- FISHER Rework](https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Jamming \(FISHER Rework\)](https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk) | 3:21 |
-| 8 | [Mind Still \(feat\. blythe\)](https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Mind Still \(feat\. blythe\)](https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ) | 2:36 |
+| 7 | [Mind Still \(feat\. blythe\)](https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Mind Still \(feat\. blythe\)](https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ) | 2:36 |
+| 8 | [Jamming \- FISHER Rework](https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Jamming \(FISHER Rework\)](https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk) | 3:21 |
 | 9 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
 | 10 | [That Sound \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/2B3NVNUU84aAIq9lAlGIZn) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [That Sound \(feat\. Dope Earth Alien\)](https://open.spotify.com/album/0DcVggpeCNz0CpQnK4vJgj) | 2:46 |
 | 11 | [A Little Closer](https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [A Little Closer](https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU) | 2:55 |

@@ -5469,6 +5469,32 @@
     },
     {
       "album": {
+        "name": "POUR MON BIEN",
+        "url": "https://open.spotify.com/album/3S60p3ZfGc4YGG0hwtRzgO"
+      },
+      "artists": [
+        {
+          "name": "Fredline Tranchant",
+          "url": "https://open.spotify.com/artist/6WC1N4VunFwMPSvu6Av7F2"
+        },
+        {
+          "name": "EJ Newton",
+          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
+        },
+        {
+          "name": "Great Grace Music",
+          "url": "https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "POUR MON BIEN",
+      "url": "https://open.spotify.com/track/6PXXR93xNIYfMNuJ7uHwGz"
+    },
+    {
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/1YtO5NUhasMNMJW6tiwJqY"
       },
@@ -5974,7 +6000,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 504992,
       "name": "Sing Hallelujah (with Natalie Grant) - Live",
       "url": "https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9"

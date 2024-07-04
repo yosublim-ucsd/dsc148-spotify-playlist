@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha mujeres a todo volumen\. Foto: JEDET.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,677 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,735 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 5 | [Por Si Mañana No Estoy](https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Por Si Mañana No Estoy](https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5) | 2:34 |
 | 6 | [te vas a inventar](https://open.spotify.com/track/7dKJQbM2YiWgpbkWhnUsk1) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [te vas a inventar](https://open.spotify.com/album/5wFXtW6BBQKVf3Jo1iWWnj) | 2:52 |
 | 7 | [Todos Miran](https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Todos Miran](https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx) | 2:27 |
-| 8 | [Si Entras Tú](https://open.spotify.com/track/6n2WRPkRDZzuijN5ugt7EL) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [Si Entras Tú](https://open.spotify.com/album/4GsLOIVspA9gbCfGMCOZQc) | 2:39 |
-| 9 | [Nanai](https://open.spotify.com/track/27RqUQHGAv4bB3AOu03cvo) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Nanai](https://open.spotify.com/album/4oi0Rf2NsjMhPvljHIsFfa) | 2:29 |
-| 10 | [Nada Importa Tanto](https://open.spotify.com/track/7lJ9hBAw1M1HEzVv2DDTJd) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Nada Importa Tanto](https://open.spotify.com/album/5amLYy53WJ55Ga58lgv1w4) | 2:59 |
-| 11 | [Me Presento](https://open.spotify.com/track/5whdmVRrXZ1dU2DWkNc5vn) | [Paula Mattheus](https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR) | [Me Presento](https://open.spotify.com/album/3c9LupnZmRqoAHdzdSFMzC) | 3:24 |
+| 8 | [Nanai](https://open.spotify.com/track/27RqUQHGAv4bB3AOu03cvo) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Nanai](https://open.spotify.com/album/4oi0Rf2NsjMhPvljHIsFfa) | 2:29 |
+| 9 | [Nada Importa Tanto](https://open.spotify.com/track/7lJ9hBAw1M1HEzVv2DDTJd) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Nada Importa Tanto](https://open.spotify.com/album/5amLYy53WJ55Ga58lgv1w4) | 2:59 |
+| 10 | [Me Presento](https://open.spotify.com/track/5whdmVRrXZ1dU2DWkNc5vn) | [Paula Mattheus](https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR) | [Me Presento](https://open.spotify.com/album/3c9LupnZmRqoAHdzdSFMzC) | 3:24 |
+| 11 | [Si Entras Tú](https://open.spotify.com/track/6n2WRPkRDZzuijN5ugt7EL) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [Si Entras Tú](https://open.spotify.com/album/4GsLOIVspA9gbCfGMCOZQc) | 2:39 |
 | 12 | [Como en un Drama Italiano](https://open.spotify.com/track/2LOujJBGzFkGS7ptJJ2giQ) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [Como en un Drama Italiano](https://open.spotify.com/album/1QWvS9hwm2kJtlE6PG1Mo3) | 2:45 |
 | 13 | [REBELDÍA](https://open.spotify.com/track/1DjSl2tpO6wkbpGpHISulS) | [Vivi K](https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [FRECUENCIAS](https://open.spotify.com/album/0EbFcZZ7jWycxyjGW7y0XT) | 2:22 |
 | 14 | [Va por ti](https://open.spotify.com/track/75Hynkqu0LfprPJ8WUOhLz) | [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [Va por ti](https://open.spotify.com/album/60zjJZvkppuWU2Th4aFsKv) | 2:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 59 | [Mi michi](https://open.spotify.com/track/3wEKiCGWzrv4Tzbqf3HqTK) | [Martha Carpe](https://open.spotify.com/artist/0BkFoZfETxylQTDNjmOIRe) | [Mi michi](https://open.spotify.com/album/0usstmsWc9ZYGtL7Zkn2dJ) | 3:11 |
 | 60 | [Nada Es Como Antes](https://open.spotify.com/track/7uPiomKmC7Y2EZpsW60Br1) | [Susi Abanades](https://open.spotify.com/artist/0e74JQnC17wREL7VkgfKQR) | [Nada Es Como Antes](https://open.spotify.com/album/1HtxK5mxi59wVZtgPZJx1y) | 2:50 |
 
-Snapshot ID: `ZoR4YAAAAACKfIeUg8rxMTt2XON3BpPb`
+Snapshot ID: `ZoT/sQAAAACp5s1VBsyQcIgWM1Fa6PSC`

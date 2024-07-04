@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: Control Freak
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,924 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,210 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

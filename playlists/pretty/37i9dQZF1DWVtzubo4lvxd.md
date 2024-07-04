@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,712 likes - 75 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,722 likes - 75 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 11 | [My Promise](https://open.spotify.com/track/2tLMEIVC98DSoq8jjypvg6) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [My Promise](https://open.spotify.com/album/5rL8vcVAck9ba3BC8X0WFg) | 4:01 |
 | 12 | [Myth](https://open.spotify.com/track/5TIc53pvTiR7tzz08OwiUj) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Myth](https://open.spotify.com/album/2uEzVjqCcDFdfbgRjyMn4s) | 1:55 |
 | 13 | [Waffle Date](https://open.spotify.com/track/2iM6bo1Mb6rdw7N3FNMcWE) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Waffle Date](https://open.spotify.com/album/4wMHT93kypp3DEwsNHQ7Yr) | 2:31 |
-| 14 | [With U](https://open.spotify.com/track/0rNpm25xLsckCS9JPAgpwP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [With U](https://open.spotify.com/album/5YuMyydKScBvKXbYii0AH3) | 3:38 |
+| 14 | [Stellar Journey](https://open.spotify.com/track/3eyHbqF8Vkzv6JyGGN0Epb) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [Stellar Journey](https://open.spotify.com/album/6OSGBC3uQF0M9P7LqtTbBW) | 3:07 |
 | 15 | [Zen Way](https://open.spotify.com/track/1E7FBgfsrBbS2hSaoecQp1) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Zen Way](https://open.spotify.com/album/38MgwKlLibLqCp341q38XE) | 2:18 |
-| 16 | [Stellar Journey](https://open.spotify.com/track/3eyHbqF8Vkzv6JyGGN0Epb) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [Stellar Journey](https://open.spotify.com/album/6OSGBC3uQF0M9P7LqtTbBW) | 3:07 |
+| 16 | [With U](https://open.spotify.com/track/0rNpm25xLsckCS9JPAgpwP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [With U](https://open.spotify.com/album/5YuMyydKScBvKXbYii0AH3) | 3:38 |
 | 17 | [Starfew Alley](https://open.spotify.com/track/4j647icCpXJcRES7szthoM) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Starfew Alley](https://open.spotify.com/album/4RkCoTiyllnHXvaSNds85V) | 2:09 |
 | 18 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 |
 | 19 | [It's Time](https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr) | [Time Brings Change EP](https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0) | 1:50 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 41 | [Clockers](https://open.spotify.com/track/0Sd3s9p1TQUYuitVOpXlh4) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Colorwave Seasons](https://open.spotify.com/album/1pGm9P5nsLlDBe4E6RvDtD) | 1:57 |
 | 42 | [Mother Earth](https://open.spotify.com/track/1fFQhH7c9kI5JhQanfmfhJ) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Mother Earth](https://open.spotify.com/album/1b38YWEUjM281wupVyqX2i) | 1:44 |
 | 43 | [some guitar thoughts](https://open.spotify.com/track/0EREZUfhKF4lZuLHa1IaaL) | [Home Cook](https://open.spotify.com/artist/5ywJbIqM6CaNHrhfRLKe8O), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [some guitar thoughts](https://open.spotify.com/album/7tBcuAvUiPEHtoCDfzuM9a) | 2:14 |
-| 44 | [Shanghai Nights](https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Around the World](https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy) | 4:24 |
-| 45 | [Caliber](https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Caliber](https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK) | 2:10 |
+| 44 | [Caliber](https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Caliber](https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK) | 2:10 |
+| 45 | [Shanghai Nights](https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Around the World](https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy) | 4:24 |
 | 46 | [Senescence](https://open.spotify.com/track/45GPbu3j0omH3ApKauF26L) | [Czapter](https://open.spotify.com/artist/26uxSNbgGIV8gFNvPNhZge) | [The Secret Life Of Octopodes](https://open.spotify.com/album/14PqfZoMyhJBYLTLRGlfZ5) | 2:36 |
 | 47 | [Stay and Wander](https://open.spotify.com/track/0Hm8vke3rwzGKm5sBpY762) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Field Notes](https://open.spotify.com/album/2JPUrDwBhVpbskpK0pPQX1) | 1:52 |
 | 48 | [New Studio](https://open.spotify.com/track/0xlJzSM4LJ7xuQG5myA14s) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Studio](https://open.spotify.com/album/1MQXpdGNWjyh4UFastaFo1) | 1:29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Xamã, LEALL
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,325 likes - 74 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,416 likes - 74 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 13 | [Podepá](https://open.spotify.com/track/6jriETT3aG0EdRVB3bQna7) | [Cassol](https://open.spotify.com/artist/0hg0SDpSJsbcMjsRoHdnsu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Nativo](https://open.spotify.com/album/2FGqHsA9CM6A1mPnu53g0k) | 3:01 |
 | 14 | [Hannibal](https://open.spotify.com/track/7uklXzt9Rea9jF2WrlvLCB) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z), [Choji](https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB) | [Hannibal](https://open.spotify.com/album/76OIyrsvPCUMfYUn7nwYJn) | 2:17 |
 | 15 | [Origens: Liberdade Fler](https://open.spotify.com/track/38LVki3pmxj7zsFiWZpfYi) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Mano Fler](https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Maurício DTS](https://open.spotify.com/artist/5BVe6zMKspyP3EP5ceYJU2), [Jhony Mc](https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww) | [Origens: Liberdade Fler](https://open.spotify.com/album/2aujUr2DkGtEdhM52iQXhs) | 6:09 |
-| 16 | [Jimmy Mau](https://open.spotify.com/track/1MNd2o56zqACHssapBUNSD) | [Caio Ocean](https://open.spotify.com/artist/4vSK6DNj480ABpDaCwrn4Q) | [Jimmy Mau](https://open.spotify.com/album/2CVJnIhr4mkVpTIW8Myg2V) | 1:59 |
+| 16 | [Jimmy Mau](https://open.spotify.com/track/1MNd2o56zqACHssapBUNSD) | [Caio Ocean](https://open.spotify.com/artist/4szsV9qDNTD4We31L1WOml) | [Jimmy Mau](https://open.spotify.com/album/2CVJnIhr4mkVpTIW8Myg2V) | 1:59 |
 | 17 | [Puma e Pantera](https://open.spotify.com/track/2zNxU5GD2ReI4K4v6OzVGr) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG), [NEKTRASH](https://open.spotify.com/artist/4jxiBeFywrrmqV7cpC9EWP), [lucasbin](https://open.spotify.com/artist/7KYrffinPH0x6rrRIqIBid) | [Minha Zona](https://open.spotify.com/album/3kQtp9lR4eixzvzvPzP0hG) | 3:16 |
 | 18 | [OBRIGADO MAINSTREAM](https://open.spotify.com/track/3LFSfqJe7t40fcJybYLJ1L) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [OBRIGADO MAINSTREAM](https://open.spotify.com/album/69lrnLlq9tJvyfTbQdCaYM) | 2:22 |
 | 19 | [Desabafo](https://open.spotify.com/track/1ge14LTrHmghSLyqvffvVD) | [eutazz](https://open.spotify.com/artist/4tmo1mL6hixMti6eVchWxJ), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [Desabafo](https://open.spotify.com/album/3KgVxHtxxaPLluVjBGmAF6) | 1:41 |

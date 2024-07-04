@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yLfjPY8emY.md) - [plain]
 
 > ¡Baila esta cumbia! Los éxitos de Latinoamérica en un solo lugar\. Foto: Los Ángeles Azules
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,116,987 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,117,160 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yLfjPY8emY.md) - [plain]
 | 47 | [Oye Mujer](https://open.spotify.com/track/5aLELbBB0Pa7TlGJJyBJo9) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Oye Mujer](https://open.spotify.com/album/61g9r3DhCVt25gpz2FD1DD) | 4:12 |
 | 48 | [Mentirosa \(Eres Mentirosa\)](https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss) | [Chicos de Barrio](https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X) | [Puros Vatos...Choca Y Rebota](https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe) | 4:33 |
 | 49 | [Amor Regresa](https://open.spotify.com/track/0FuqABgi0bD219B12xC7Hn) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Grandes Éxitos Remezclados Y Masterizados](https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS) | 3:33 |
-| 50 | [Cumbia Sobre El Rio](https://open.spotify.com/track/3RXhO8IlQNwnH6FFXBYQMn) | [Blanquito Man](https://open.spotify.com/artist/061kEmfoGaZAVZITlkWQuM), [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Babel \- Music From And Inspired By The Motion Picture](https://open.spotify.com/album/3oHysLqzr30LVkciv5idom) | 4:42 |
+| 50 | [Mujer Que Mal Me Pagas](https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Mujer Que Mal Me Pagas](https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6) | 3:38 |
 
 Snapshot ID: `ZmLFRAAAAABQXSzF31BlARXfJ3m91ZsX`

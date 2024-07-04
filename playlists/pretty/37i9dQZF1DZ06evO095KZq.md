@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 
 > This is El Fantasma\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,221 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,307 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 10 | [Mi 45](https://open.spotify.com/track/4Q2xPu7B9e3PDnIUMXHw29) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Equipo Armado](https://open.spotify.com/album/1xTOE6MCUeSYrI62QrbJpt) | 2:31 |
 | 11 | [El Nano \- Versión Estudio](https://open.spotify.com/track/5yhExZfb6gk2drPnJKBluu) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [En El Camino](https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M) | 3:18 |
 | 12 | [Agarra Tu Camino](https://open.spotify.com/track/4HXIyu3N5yVTd4qHMbU7cK) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Agarra Tu Camino](https://open.spotify.com/album/7d5gCEbYhn607U8FQuTQ3B) | 3:54 |
-| 13 | [Seré un Borracho](https://open.spotify.com/track/05N3MEYth8csmsuRVwj18k) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 1:44 |
+| 13 | [Dolor y Amor](https://open.spotify.com/track/7JF3vH3qtE35wKztVK7398) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Dolor y Amor](https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT) | 2:39 |
 | 14 | [Fuerza \(En Vivo\)](https://open.spotify.com/track/7BYqMtURItgUntm7rkj7jz) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K) | 3:14 |
-| 15 | [Dolor y Amor](https://open.spotify.com/track/7JF3vH3qtE35wKztVK7398) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Dolor y Amor](https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT) | 2:39 |
+| 15 | [Seré un Borracho](https://open.spotify.com/track/05N3MEYth8csmsuRVwj18k) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 1:44 |
 | 16 | [Fuera de Servicio \(En Vivo\)](https://open.spotify.com/track/126OceJdkcpvQre3orMumy) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Fuera de Servicio \(En Vivo\)](https://open.spotify.com/album/1lGSzvt2T0zKMTZgHL9NCV) | 3:26 |
 | 17 | [GDL](https://open.spotify.com/track/6MYMoJJFzRb1R7hRR2iYL1) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:44 |
-| 18 | [Mis Raíces](https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 2:33 |
-| 19 | [El Gato](https://open.spotify.com/track/3SX4OVFSimNlFYu6xsbeCx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Gato](https://open.spotify.com/album/2jUYD0B0zfMgZNNiTDpYd9) | 3:19 |
+| 18 | [El Gato](https://open.spotify.com/track/3SX4OVFSimNlFYu6xsbeCx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Gato](https://open.spotify.com/album/2jUYD0B0zfMgZNNiTDpYd9) | 3:19 |
+| 19 | [Mis Raíces](https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 2:33 |
 | 20 | [Borracho de Cochera](https://open.spotify.com/track/0acLovnnWxsN8JwjTr0ecY) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Guárdame Esta Noche](https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ) | 3:06 |
 | 21 | [Tus Desprecios](https://open.spotify.com/track/3w5R3lzfQbj5UuB1WxboSp) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 2:23 |
 | 22 | [Lupe Campos](https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 49 | [Quien Te Dio Permiso](https://open.spotify.com/track/6ZzZIt4GgQTDeHXMxRvxNN) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Quien Te Dio Permiso](https://open.spotify.com/album/15ZaNM3eSNZ7MdFyPHBED3) | 2:53 |
 | 50 | [El Zorro](https://open.spotify.com/track/5U1bP3nRulk7egjqWQSkNA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Varones de Culiacan](https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d) | [El Zorro](https://open.spotify.com/album/4HMkP0BVe9AzwYsMJX7SSZ) | 3:59 |
 
-Snapshot ID: `ZoHxgAAAAAAhBDDqi2p4PKWhtHkbEIrj`
+Snapshot ID: `ZoNDAAAAAAAwrk6TgjrXE8DLjOfj0j9N`

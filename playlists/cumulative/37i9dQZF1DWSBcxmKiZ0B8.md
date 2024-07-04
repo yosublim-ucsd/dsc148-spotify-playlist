@@ -4,7 +4,7 @@
 
 > 周杰倫是華語樂壇千禧以來最重要的名字，被稱為「亞洲流行音樂新天王」。
 
-200 songs - 14 hr 21 min
+201 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [白色風車](https://open.spotify.com/track/7zLvgMVWhogtMZT4UaV3Sn) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [依然范特西](https://open.spotify.com/album/2BvDgFjuzq0BCZOPBeDd1E) | 4:32 | 2023-12-21 | 2024-04-19 |
 | [稻香](https://open.spotify.com/track/2tvokfT77lp473228llliz) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [魔杰座](https://open.spotify.com/album/2SrwWoOk7egNTcaJcb4tuO) | 3:43 | 2023-12-21 |  |
 | [稻香](https://open.spotify.com/track/69pyHCoBn4Ki0BzDJ2xPGI) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [魔杰座](https://open.spotify.com/album/5akBJuVQvCggD0hCzjfeR3) | 3:43 | 2023-12-21 | 2024-04-19 |
+| [稻香 \(Remix搖滾版\)](https://open.spotify.com/track/3wYRPcCRofEPtkPahyRhaD) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [稻香 \(Remix搖滾版\)](https://open.spotify.com/album/67nUsanK9Kvv1Hjv6eieLo) | 2:23 | 2024-07-03 |  |
 | [等你下課](https://open.spotify.com/track/0TMGJMQJWHhuNY60MEr5jR) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [最偉大的作品](https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT) | 4:30 | 2023-12-21 | 2024-04-19 |
 | [等你下課](https://open.spotify.com/track/4dYUjiYWcK8fHq1Gw3Vlx7) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [最偉大的作品](https://open.spotify.com/album/6sl6IgAnkTvYcta5bOgt4B) | 4:30 | 2023-12-21 |  |
 | [算什麼男人](https://open.spotify.com/track/7a1NvZIvbBkCfstppXTwSr) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [哎呦，不錯哦](https://open.spotify.com/album/3vkhunM2UohkqFQaHOfzbl) | 4:49 | 2023-12-21 | 2024-04-19 |

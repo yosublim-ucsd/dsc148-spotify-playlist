@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,205 likes - 70 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,214 likes - 70 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 27 | [Le château de corail](https://open.spotify.com/track/5JPlGsRGCUyFvWzAE0n7Ch) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Comme ça](https://open.spotify.com/album/55YrEqkp3Qrnue9WXHXo8t) | 4:05 |
 | 28 | [Touch me & die](https://open.spotify.com/track/4fUyRdOqocwHCabG7gT71J) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Aftertouches](https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN) | 3:30 |
 | 29 | [On Plateau](https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Between No Things](https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj) | 3:55 |
-| 30 | [My Gull](https://open.spotify.com/track/3onLhReyQTuzAERoiEpj2j) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [II](https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI) | 2:10 |
-| 31 | [Delta Rain Dream](https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 3:29 |
+| 30 | [Delta Rain Dream](https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 3:29 |
+| 31 | [My Gull](https://open.spotify.com/track/3onLhReyQTuzAERoiEpj2j) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [II](https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI) | 2:10 |
 | 32 | [ME](https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we), [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Comme Un Seul Narcisse](https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4) | 4:21 |
 | 33 | [Haut](https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H) | [Haut](https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm) | 4:12 |
 | 34 | [Glass Chattering](https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 5:56 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 59 | [Pale Purple Flower](https://open.spotify.com/track/5tsLPAI6DbOftSQNsHXHC7) | [Kazufumi Kodama & Undefined](https://open.spotify.com/artist/0r4i5FbO3FinPDsWKpWKHA) | [2 Years / 2 Years in Silence](https://open.spotify.com/album/7998r3QuCkCHSE6QwCQGW1) | 4:48 |
 | 60 | [DLY](https://open.spotify.com/track/2YWskv2ppcTSt1FZDKJW85) | [Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [DLY](https://open.spotify.com/album/5C1BwLLRKqfaqQEPcaaf5r) | 4:59 |
 | 61 | [For Ignatz Karmelito](https://open.spotify.com/track/1g95vNwQ1Nt1sv4pHEKYJe) | [Double Cushion](https://open.spotify.com/artist/1UXZTDNNqFzm6A05jjSsHH) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 6:15 |
-| 62 | [Endless](https://open.spotify.com/track/15pARbUntgEEw4b8m9d15U) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Gravity](https://open.spotify.com/album/68vbTaCeZnvNpjZqDbvB4n) | 5:41 |
-| 63 | [Blåne II](https://open.spotify.com/track/0cEcZNgg0ErP53MjZ9HkkK) | [Inge Weatherhead Breistein](https://open.spotify.com/artist/31R4oqL2Aeic9iwpOHsxqG), [Haav](https://open.spotify.com/artist/1qLtmt4U8aOgERNMfqNlyy) | [Blåne II](https://open.spotify.com/album/2uhS4oZEuvDqcb5lKBUVcx) | 4:31 |
+| 62 | [Blåne II](https://open.spotify.com/track/0cEcZNgg0ErP53MjZ9HkkK) | [Inge Weatherhead Breistein](https://open.spotify.com/artist/31R4oqL2Aeic9iwpOHsxqG), [Haav](https://open.spotify.com/artist/1qLtmt4U8aOgERNMfqNlyy) | [Blåne II](https://open.spotify.com/album/2uhS4oZEuvDqcb5lKBUVcx) | 4:31 |
+| 63 | [Endless](https://open.spotify.com/track/15pARbUntgEEw4b8m9d15U) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Gravity](https://open.spotify.com/album/68vbTaCeZnvNpjZqDbvB4n) | 5:41 |
 | 64 | [Eyes of the Wind](https://open.spotify.com/track/7vnrZqseiH7uEAXEYYHwmm) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB) | [Draw Me a Silence \(Extended Version\)](https://open.spotify.com/album/3yEiqOlQUT7zB19SSYgGZu) | 6:26 |
 | 65 | [Mamba Negra](https://open.spotify.com/track/2u1zyhCb148EO2sE1rxrB1) | [Almanacs](https://open.spotify.com/artist/4SmpLc2aX1YGPXfkVmWKNa) | [Spirits of the River](https://open.spotify.com/album/1GkkDQSiVjWYfP3EICID4X) | 5:09 |
 | 66 | [Wanderer](https://open.spotify.com/track/36KtiVehi3BrwDIzneRhGq) | [Lotte Pen](https://open.spotify.com/artist/09klzeoydwwlN5eyyQNNss) | [Wanderer](https://open.spotify.com/album/52MSO7IZTjGJnawiQ0R8tl) | 6:04 |

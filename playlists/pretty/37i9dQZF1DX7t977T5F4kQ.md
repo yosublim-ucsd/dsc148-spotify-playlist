@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Darkovibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,320 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,333 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kiki](https://open.spotify.com/track/4oZcUz0YS5komd8ukoYtyR) | [Leftizzle](https://open.spotify.com/artist/0UJ4laOahyFVmjDyLPHJc8), [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [Kiki](https://open.spotify.com/album/004vsMw80QFIVP2MWgSfOd) | 3:22 |
 | 2 | [Aseda](https://open.spotify.com/track/6oNuASyQEzd7Z6VsF1hKNG) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Aseda](https://open.spotify.com/album/5uw6BvKCIK8nlIlQFOP5v9) | 3:00 |
 | 3 | [NLF \(Breakfast\)](https://open.spotify.com/track/2mIp18bu4PbAFjS58EpEWc) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [NLF \(Breakfast\)](https://open.spotify.com/album/4rOoeivLtdfWWUoXXVTrl6) | 3:13 |
-| 4 | [Obiaa](https://open.spotify.com/track/6kvbug8brYmrPrdoE0QkW1) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Obiaa](https://open.spotify.com/album/3CoATpvAsRF3nbENgCRVr0) | 3:32 |
+| 4 | [Obiaa](https://open.spotify.com/track/6kvbug8brYmrPrdoE0QkW1) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Obiaa](https://open.spotify.com/album/3CoATpvAsRF3nbENgCRVr0) | 4:15 |
 | 5 | [WIFI](https://open.spotify.com/track/3XoIFPE1GeKdGR7eG3r9zu) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [WIFI](https://open.spotify.com/album/0RdZhYpdfeLAPUBimtVjBr) | 2:20 |
 | 6 | [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 |
 | 7 | [Bad Boy](https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Bad Boy](https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP) | 3:12 |

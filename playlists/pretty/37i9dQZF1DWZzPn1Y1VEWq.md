@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 
 > 100 canciones de la época nostálgica más reciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,897 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,922 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 | 24 | [Homero](https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Especial](https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E) | 4:23 |
 | 25 | [Lago en el Cielo](https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 5:08 |
 | 26 | [Los Caminos de la Vida](https://open.spotify.com/track/1crk0MXXyFQ1zVow6YTJOo) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Los Rayos](https://open.spotify.com/album/3V1lU1Jy0eKU2wMCsmJ0TF) | 3:59 |
-| 27 | [El Revelde](https://open.spotify.com/track/24o76WATbnSIhV26hHgUHn) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [La Renga](https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH) | 3:44 |
-| 28 | [Fuego](https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:21 |
+| 27 | [Fuego](https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:21 |
+| 28 | [El Revelde](https://open.spotify.com/track/24o76WATbnSIhV26hHgUHn) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [La Renga](https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH) | 3:44 |
 | 29 | [Una Nueva Noche Fría](https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Presión](https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT) | 4:37 |
 | 30 | [El Viejo](https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [De Bichos Y Flores](https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI) | 3:07 |
-| 31 | [Se Parece Más A Ti](https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Separece A Ti](https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw) | 4:08 |
+| 31 | [Todo Sigue Igual](https://open.spotify.com/track/75dqA2rQHnUtP7XjvkmKh2) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Especial](https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E) | 3:34 |
 | 32 | [Cactus](https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:54 |
-| 33 | [Todo Sigue Igual](https://open.spotify.com/track/75dqA2rQHnUtP7XjvkmKh2) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Especial](https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E) | 3:34 |
+| 33 | [Se Parece Más A Ti](https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Separece A Ti](https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw) | 4:08 |
 | 34 | [Deja De Llorar](https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Sigo Por El Objetivo](https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx) | 2:26 |
 | 35 | [Amor de verano](https://open.spotify.com/track/7rocqOEREl0vp5CRYTeZFv) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Blanco y Negro](https://open.spotify.com/album/6MXrSUvZmjNuSCqOmRRkDw) | 3:17 |
 | 36 | [Veneno](https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:08 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 | 61 | [Yo No Me Quiero Casar, Y Ud?](https://open.spotify.com/track/6BaMKZw3o4r0OQwDcPNI12) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Turfshow](https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7) | 3:21 |
 | 62 | [Rubí](https://open.spotify.com/track/2Dsv2vdCfLucFIoECqAK6U) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:45 |
 | 63 | [Duraznito](https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros:Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 5:08 |
-| 64 | [Brujería](https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:00 |
-| 65 | [Lo Frágil De La Locura](https://open.spotify.com/track/53LovEbSOlvxq2qj8EMWub) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:19 |
+| 64 | [Lo Frágil De La Locura](https://open.spotify.com/track/53LovEbSOlvxq2qj8EMWub) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:19 |
+| 65 | [Brujería](https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:00 |
 | 66 | [Mirá Como Está La Vagancia](https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Sin Remedio](https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT) | 4:59 |
 | 67 | [Tuyo siempre \- En directo 2005](https://open.spotify.com/track/5cBdKHSiooNsZ3FIWlYdDh) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El regreso](https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N) | 3:02 |
 | 68 | [La colorada](https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:13 |

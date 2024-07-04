@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Ethismos,	Half Quickie
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,210 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,211 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

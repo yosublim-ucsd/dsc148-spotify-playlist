@@ -1,6 +1,6 @@
 {
   "description": "Go deep into spontaneous praise and worship here. On and on.",
-  "num_followers": 203665,
+  "num_followers": 203726,
   "original_name": "Signs & Wonders",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-06-23 03:54:14",
       "album": {
+        "name": "Here (Live)",
+        "url": "https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "duration_ms": 358440,
+      "name": "Love Changes Everything (Live)",
+      "url": "https://open.spotify.com/track/05OrXppgIcMhLaiNthwiMk"
+    },
+    {
+      "added_at": "2024-06-23 03:54:14",
+      "album": {
         "name": "More Like Jesus (Live)",
         "url": "https://open.spotify.com/album/3VeJL4SEP3phMu7x7f0pNC"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 291565,
       "name": "King Of Kings - Live at Hillsong Conference",
       "url": "https://open.spotify.com/track/4rjkDg26WVRWMZ1XL02z8m"
-    },
-    {
-      "added_at": "2024-06-23 03:54:14",
-      "album": {
-        "name": "Here (Live)",
-        "url": "https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 358440,
-      "name": "Love Changes Everything (Live)",
-      "url": "https://open.spotify.com/track/05OrXppgIcMhLaiNthwiMk"
     },
     {
       "added_at": "2024-06-23 03:54:14",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-06-23 03:54:14",
       "album": {
-        "name": "Yeshua (Spontaneous) [Live]",
-        "url": "https://open.spotify.com/album/5euI6yTA3skQd2vQiVepMj"
-      },
-      "artists": [
-        {
-          "name": "Eleni Baker",
-          "url": "https://open.spotify.com/artist/3T9neL3g52le9PKELcMHP3"
-        }
-      ],
-      "duration_ms": 417230,
-      "name": "Yeshua (Spontaneous) - Live",
-      "url": "https://open.spotify.com/track/07GcGWXI5TzXpW87pkzV78"
-    },
-    {
-      "added_at": "2024-06-23 03:54:14",
-      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 422626,
       "name": "Wait Upon the Lord (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/54ssR8bIVLOi4S1KH9lcS6"
+    },
+    {
+      "added_at": "2024-06-23 03:54:14",
+      "album": {
+        "name": "Yeshua (Spontaneous) [Live]",
+        "url": "https://open.spotify.com/album/5euI6yTA3skQd2vQiVepMj"
+      },
+      "artists": [
+        {
+          "name": "Eleni Baker",
+          "url": "https://open.spotify.com/artist/3T9neL3g52le9PKELcMHP3"
+        }
+      ],
+      "duration_ms": 417230,
+      "name": "Yeshua (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/07GcGWXI5TzXpW87pkzV78"
     },
     {
       "added_at": "2024-06-23 03:54:14",
@@ -1351,18 +1351,22 @@
     {
       "added_at": "2024-06-23 03:54:14",
       "album": {
-        "name": "Kingdom Culture Worship",
-        "url": "https://open.spotify.com/album/21us72bpT0drS6w5ieLMJk"
+        "name": "Speak to the Storm (Live)",
+        "url": "https://open.spotify.com/album/3Dzff0jSwIghgeL33WEJn8"
       },
       "artists": [
         {
-          "name": "Kingdom Culture Worship",
-          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
+          "name": "LIFE Worship",
+          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
+        },
+        {
+          "name": "Eby Corydon",
+          "url": "https://open.spotify.com/artist/6EJe5fsw9zmyuJfYjCCezm"
         }
       ],
-      "duration_ms": 475000,
-      "name": "Abide",
-      "url": "https://open.spotify.com/track/2hKuhm3kV2lxDjVzS8pqr5"
+      "duration_ms": 150760,
+      "name": "We Just Want to Worship (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/4NyBP8P9C6J6o1yxCeXhCB"
     }
   ],
   "unique_name": "Signs & Wonders",

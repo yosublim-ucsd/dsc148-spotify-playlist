@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro está aquí\. Foto: Samuraï
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,692 likes - 41 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,704 likes - 41 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 14 | [Mi Culpa](https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Mi Culpa](https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C) | 3:27 |
 | 15 | [No m'estima +](https://open.spotify.com/track/78NzYFBsYY78qeazgKZCoc) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [No m'estima +](https://open.spotify.com/album/3QMWRLCENQpW7sGHhUPxy1) | 3:12 |
 | 16 | [Vicente Amor](https://open.spotify.com/track/6cT3lvZsX1QOqo5LPgQSHJ) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Vicente Amor](https://open.spotify.com/album/4kDXE9CEGdB3CcoroleDP4) | 1:52 |
-| 17 | [Mama](https://open.spotify.com/track/7nvrvtHojMocJiGVwoaZHs) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Mama](https://open.spotify.com/album/15hzdim2ConPEvRyrNLeh3) | 3:06 |
-| 18 | [Corazón Quemado](https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Corazón Quemado](https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev) | 3:05 |
+| 17 | [Corazón Quemado](https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Corazón Quemado](https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev) | 3:05 |
+| 18 | [Mama](https://open.spotify.com/track/7nvrvtHojMocJiGVwoaZHs) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Mama](https://open.spotify.com/album/15hzdim2ConPEvRyrNLeh3) | 3:06 |
 | 19 | [Tiro Al Aire](https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tiro Al Aire](https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk) | 3:20 |
 | 20 | [Otra Vida](https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Otra Vida](https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj) | 3:38 |
 | 21 | [Estamos a un beso](https://open.spotify.com/track/4bRg5nJCS7OcyJUMPgRAqH) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Estamos a un beso](https://open.spotify.com/album/7Gf9kJXYIaRwbgnbG0vHxM) | 3:12 |

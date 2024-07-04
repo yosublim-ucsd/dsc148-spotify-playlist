@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 
 > Inez on the cover of Habibi Gang Gang!
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,382 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,421 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 44 | [Ana Lik](https://open.spotify.com/track/5RF5tKkAi4rmPOZRBPaSoM) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Ana Lik](https://open.spotify.com/album/2q0y1UupuNPvEzT6cZC8Nn) | 2:32 |
 | 45 | [Sokkar](https://open.spotify.com/track/22MZ14wFJ0DQUAaRy50uEW) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Sokkar](https://open.spotify.com/album/6LufOTjtT03JshmT4eT7np) | 3:08 |
 | 46 | [Ça c'est bien](https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Ça c'est bien](https://open.spotify.com/album/6laF6aVjTtWwMZvwYdLOES) | 2:39 |
-| 47 | [Samira 3](https://open.spotify.com/track/3BYP7bPPxttHpYQfzdyBuz) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Isleym](https://open.spotify.com/artist/3vw5HmeFoWnWYhcOpB8INb) | [Samira 3](https://open.spotify.com/album/5CFFfeCizwxS98Dlnhaixv) | 3:27 |
-| 48 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 |
+| 47 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 |
+| 48 | [Samira 3](https://open.spotify.com/track/3BYP7bPPxttHpYQfzdyBuz) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Isleym](https://open.spotify.com/artist/3vw5HmeFoWnWYhcOpB8INb) | [Samira 3](https://open.spotify.com/album/5CFFfeCizwxS98Dlnhaixv) | 3:27 |
 | 49 | [Dream](https://open.spotify.com/track/7qkKTvMlCRC2VZ4fjyKZOu) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Dream](https://open.spotify.com/album/6G3DcLtH640Po7Ch5fJDSY) | 2:24 |
 | 50 | [No Money](https://open.spotify.com/track/3e0yFn74MouCqsAxTCKOUf) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No Money](https://open.spotify.com/album/4HW0xW2nhso4HHSO6rhM8n) | 4:14 |
 | 51 | [Ya Nari](https://open.spotify.com/track/5oqiOSeSuSIX5aiXI2s8ug) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Ya Nari](https://open.spotify.com/album/1arozXUfxz58RACd4ss2NB) | 2:10 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 75 | [Arif Inou](https://open.spotify.com/track/6ycqSprB2ImMdNtnVuVj9N) | [Riffi](https://open.spotify.com/artist/7rWuImrIbAa8XxwWVFWNoZ) | [Misn Tchar](https://open.spotify.com/album/2eYtcDiTeXBoWJM4DdkCZV) | 2:26 |
 | 76 | [Yemma](https://open.spotify.com/track/6weM3NHta6Zi0P4uyEus29) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Yemma](https://open.spotify.com/album/42u4hiZGAjRvVfAO2LrcWt) | 3:11 |
 | 77 | [Météo](https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Météo](https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J) | 3:02 |
-| 78 | [Ana Mali](https://open.spotify.com/track/2F2ynNJlWHldaZat6u2FCC) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [SRNO](https://open.spotify.com/artist/6uuhr5ZLx3ThvA5AZpZVdA) | [Ana Mali](https://open.spotify.com/album/2QAygj288tGxoU16exHACr) | 2:43 |
-| 79 | [Écoute Moi](https://open.spotify.com/track/39BRscIkSE49Royu0tBlox) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Écoute Moi](https://open.spotify.com/album/79TjXEzEUByDhfsZ11Y9Gn) | 2:51 |
+| 78 | [Écoute Moi](https://open.spotify.com/track/39BRscIkSE49Royu0tBlox) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Écoute Moi](https://open.spotify.com/album/79TjXEzEUByDhfsZ11Y9Gn) | 2:51 |
+| 79 | [Ana Mali](https://open.spotify.com/track/2F2ynNJlWHldaZat6u2FCC) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [SRNO](https://open.spotify.com/artist/6uuhr5ZLx3ThvA5AZpZVdA) | [Ana Mali](https://open.spotify.com/album/2QAygj288tGxoU16exHACr) | 2:43 |
 | 80 | [Wili](https://open.spotify.com/track/1gFfVHvKnmKKQ7Cr3ymPCk) | [Roukss](https://open.spotify.com/artist/4L3YwGjW2Hq8Ar7LWCno0o), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Wili](https://open.spotify.com/album/2tPzPwHpkSEEeR2Njo5MQe) | 2:40 |
 
 Snapshot ID: `Zn3g4AAAAADJTd3XeRdi+aXH39ZDGSTV`

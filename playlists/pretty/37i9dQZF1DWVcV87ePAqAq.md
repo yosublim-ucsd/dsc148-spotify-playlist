@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Flaket kommer studsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,956 likes - 73 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,943 likes - 73 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 21 | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo) | 2:26 |
 | 22 | [I'm an Albatraoz](https://open.spotify.com/track/5MhsZlmKJG6X5kTHkdwC4B) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [I'm an Albatraoz](https://open.spotify.com/album/1qHVYbxQ6IS8YRviorKDJI) | 2:46 |
 | 23 | [Sandstorm](https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Before the Storm, Special Edition](https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo) | 3:45 |
-| 24 | [Kan Inte Gå](https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC) | 2:26 |
-| 25 | [Monster](https://open.spotify.com/track/0BHNkpGmcexaGyUHDZCQXG) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Monster](https://open.spotify.com/album/6IpcyL6OyZJKm5DiHpk9ig) | 2:24 |
+| 24 | [Monster](https://open.spotify.com/track/0BHNkpGmcexaGyUHDZCQXG) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Monster](https://open.spotify.com/album/6IpcyL6OyZJKm5DiHpk9ig) | 2:24 |
+| 25 | [Kan Inte Gå](https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC) | 2:26 |
 | 26 | [Murder On The Dancefloor \- David Guetta Remix](https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Murder On The Dancefloor \(David Guetta Remix\)](https://open.spotify.com/album/3WqgCHY7LbKrnsM1PXm5Sk) | 2:54 |
 | 27 | [PATT \(Party All The Time\) \- Adam Beyer, Layton Giordani & Green Velvet Remix](https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6) | [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [PATT \(Party All The Time\) \[Adam Beyer, Layton Giordani & Green Velvet Remix\]](https://open.spotify.com/album/5GqWIHTVjceZXGpzIc1a2J) | 3:03 |
 | 28 | [Animal](https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Animal \(with Jason Derulo\)](https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU) | 2:20 |

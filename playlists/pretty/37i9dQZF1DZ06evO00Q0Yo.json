@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 17117,
+  "num_followers": 17135,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoHxgAAAAACM4L48E4s3HJJ5A02IabaL",
+  "snapshot_id": "ZoNDAAAAAACdVCS8vX4nRDo/G63LfRTZ",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Money (feat. Flo Milli)",
-        "url": "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
+        "name": "Hey u x",
+        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
       },
       "artists": [
         {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        },
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         },
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 150652,
-      "name": "Money (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
+      "duration_ms": 231898,
+      "name": "Plain (feat. Lily Allen & Flo Milli)",
+      "url": "https://open.spotify.com/track/4CwcIiZQvy4d9SxAUn5OaJ"
     },
     {
       "added_at": null,

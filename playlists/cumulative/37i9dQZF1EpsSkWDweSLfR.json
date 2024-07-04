@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 184533,
       "name": "Bad Time",
       "url": "https://open.spotify.com/track/1YqPDOmooQQIXsRSdbRrwI"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 240254,
       "name": "BODYGUARD",
       "url": "https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 340428,
       "name": "But Daddy I Love Him",
       "url": "https://open.spotify.com/track/4QMgEffJQuKtjCNvqfRZ0m"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 203506,
       "name": "Call It What You Want",
       "url": "https://open.spotify.com/track/1GwMQaZz6Au3QLDbjbMdme"
@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135878,
+      "name": "I think about it all the time",
+      "url": "https://open.spotify.com/track/3OaFGqHUyxGVkOcSILw8Kx"
+    },
+    {
+      "album": {
         "name": "Descendants (Original TV Movie Soundtrack)",
         "url": "https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh"
       },
@@ -410,6 +428,24 @@
       "duration_ms": 160688,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+    },
+    {
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189410,
+      "name": "Mean girls",
+      "url": "https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd"
     },
     {
       "album": {
@@ -590,7 +626,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 183888,
       "name": "Super Graphic Ultra Modern Girl",
       "url": "https://open.spotify.com/track/1rNSCrsOoWyhKH4g47mehU"
@@ -612,7 +648,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 163381,
       "name": "supernatural (with Troye Sivan)",
       "url": "https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp"
@@ -630,7 +666,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 263817,
       "name": "thanK you aIMee",
       "url": "https://open.spotify.com/track/7ogK4lJDVDMU6A6vYR5rvD"
@@ -655,6 +691,24 @@
     },
     {
       "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200280,
+      "name": "The Very First Night (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/6pYNq0ZwpPVazKzsqpf0G8"
+    },
+    {
+      "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
@@ -670,6 +724,24 @@
       "duration_ms": 169146,
       "name": "Tough Love",
       "url": "https://open.spotify.com/track/6WEXy56jM0Nl3bZHY9l7aH"
+    },
+    {
+      "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
       "album": {
@@ -692,6 +764,24 @@
       "duration_ms": 242666,
       "name": "us. (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
+    },
+    {
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
     },
     {
       "album": {

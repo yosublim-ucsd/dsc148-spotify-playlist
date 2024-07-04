@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Matroda. 50% techno, 50% house",
-  "num_followers": 630134,
+  "num_followers": 630532,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1205,22 +1205,6 @@
       "url": "https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Needle On The Record",
-        "url": "https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 186625,
-      "name": "Needle On The Record",
-      "url": "https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3"
-    },
-    {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "Bitch, Don't Kill My Vibe",
@@ -1239,6 +1223,22 @@
       "duration_ms": 157558,
       "name": "Bitch, Don't Kill My Vibe",
       "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Needle On The Record",
+        "url": "https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 186625,
+      "name": "Needle On The Record",
+      "url": "https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1461,6 +1461,22 @@
       "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
     },
     {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Something To Me",
+        "url": "https://open.spotify.com/album/6kbGkFNoQrF3EWaQxky9sO"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        }
+      ],
+      "duration_ms": 225466,
+      "name": "Something To Me",
+      "url": "https://open.spotify.com/track/2oCShkda3AnUzwPzZPvQyf"
+    },
+    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Vibrate / On The Ground",
@@ -1479,22 +1495,6 @@
       "duration_ms": 134170,
       "name": "Vibrate",
       "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Something To Me",
-        "url": "https://open.spotify.com/album/6kbGkFNoQrF3EWaQxky9sO"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        }
-      ],
-      "duration_ms": 225466,
-      "name": "Something To Me",
-      "url": "https://open.spotify.com/track/2oCShkda3AnUzwPzZPvQyf"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1665,6 +1665,26 @@
       "url": "https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1"
     },
     {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
+    },
+    {
       "added_at": "2024-04-26 04:01:00",
       "album": {
         "name": "The Unexplained",
@@ -1703,26 +1723,6 @@
       "duration_ms": 136615,
       "name": "Stolen Dub",
       "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "I Love It",
-        "url": "https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1825,6 +1825,22 @@
       "url": "https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a"
     },
     {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "You Know It",
+        "url": "https://open.spotify.com/album/1pQyujwr8WMM8nXV21a5tY"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 235680,
+      "name": "You Know It",
+      "url": "https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Shake It",
@@ -1843,22 +1859,6 @@
       "duration_ms": 195000,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/79hpiOdyCGHTJmkourQNYN"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "You Know It",
-        "url": "https://open.spotify.com/album/1pQyujwr8WMM8nXV21a5tY"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 235680,
-      "name": "You Know It",
-      "url": "https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -2141,30 +2141,6 @@
       "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"
     },
     {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
-        "name": "Afloja",
-        "url": "https://open.spotify.com/album/0WHUe82nMpxe7TvyvkiLUP"
-      },
-      "artists": [
-        {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
-        },
-        {
-          "name": "Buitano",
-          "url": "https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY"
-        },
-        {
-          "name": "Fatboi",
-          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
-        }
-      ],
-      "duration_ms": 183281,
-      "name": "Afloja",
-      "url": "https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf"
-    },
-    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Runny Nose",
@@ -2187,6 +2163,30 @@
       "duration_ms": 161221,
       "name": "Runny Nose",
       "url": "https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Afloja",
+        "url": "https://open.spotify.com/album/0WHUe82nMpxe7TvyvkiLUP"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        },
+        {
+          "name": "Buitano",
+          "url": "https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY"
+        },
+        {
+          "name": "Fatboi",
+          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
+        }
+      ],
+      "duration_ms": 183281,
+      "name": "Afloja",
+      "url": "https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2269,26 +2269,6 @@
       "url": "https://open.spotify.com/track/3JdZapCja0ufmNY9Vqi1ia"
     },
     {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
-        "name": "Get Rockin'",
-        "url": "https://open.spotify.com/album/2qKqssflCtHWY8jw63Qey6"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        },
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 182238,
-      "name": "Get Rockin'",
-      "url": "https://open.spotify.com/track/6FTus3GBuyRW10VbwgtUp7"
-    },
-    {
       "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "Kattapult (James Hype Edit)",
@@ -2307,6 +2287,26 @@
       "duration_ms": 120595,
       "name": "Kattapult (James Hype Edit)",
       "url": "https://open.spotify.com/track/1bq0odxoXVY7pJbwk6uLcD"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Get Rockin'",
+        "url": "https://open.spotify.com/album/2qKqssflCtHWY8jw63Qey6"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 182238,
+      "name": "Get Rockin'",
+      "url": "https://open.spotify.com/track/6FTus3GBuyRW10VbwgtUp7"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2357,22 +2357,6 @@
       "url": "https://open.spotify.com/track/3LKg0CXVZx5ToWLLK7ugHE"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
-    },
-    {
       "added_at": "2024-06-14 04:00:00",
       "album": {
         "name": "Call 911",
@@ -2391,6 +2375,22 @@
       "duration_ms": 224032,
       "name": "Call 911",
       "url": "https://open.spotify.com/track/1b8Fw5fYEZHHholqLkqzfX"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
     },
     {
       "added_at": "2024-06-07 04:00:00",

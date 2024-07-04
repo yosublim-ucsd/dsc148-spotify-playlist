@@ -1,6 +1,6 @@
 {
   "description": "Why so serious? Get through your workday with K-Pop. (\ub0b4\uc801\ub304\uc2a4 \uc720\ubc1c \ub178\ub3d9\uc694\uc640 \ud568\uaed8 \uc2e0\ub098\ub294 \uc5c5\ubb34 & \uacf5\ubd80\uc2dc\uac04\uc744 \ubcf4\ub0b4\uc138\uc694!)",
-  "num_followers": 109788,
+  "num_followers": 109785,
   "original_name": "Workday K-Pop (\ub0b4\uc801\ub304\uc2a4 \uc5c5\ubb34/\uacf5\ubd80)",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/0tlwyPgqwZrymr04EfFyry"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy"
-    },
-    {
-      "added_at": "2024-06-25 09:21:41",
-      "album": {
         "name": "3D (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
+    },
+    {
+      "added_at": "2024-06-25 09:21:41",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0tlwyPgqwZrymr04EfFyry"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
-        "name": "<ASSEMBLE24>",
-        "url": "https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM"
-      },
-      "artists": [
-        {
-          "name": "tripleS",
-          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
-        }
-      ],
-      "duration_ms": 187920,
-      "name": "Girls Never Die",
-      "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
-    },
-    {
-      "added_at": "2024-06-25 09:21:41",
-      "album": {
         "name": "I NEVER DIE",
         "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 174386,
       "name": "TOMBOY",
       "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
+    },
+    {
+      "added_at": "2024-06-25 09:21:41",
+      "album": {
+        "name": "<ASSEMBLE24>",
+        "url": "https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "duration_ms": 187920,
+      "name": "Girls Never Die",
+      "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
-        "name": "MAXIDENT",
-        "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
+        "name": "I love",
+        "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
-      "duration_ms": 191964,
-      "name": "CASE 143",
-      "url": "https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq"
+      "duration_ms": 178453,
+      "name": "Nxde",
+      "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
+        "name": "MAXIDENT",
+        "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 191964,
+      "name": "CASE 143",
+      "url": "https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq"
+    },
+    {
+      "added_at": "2024-06-25 09:21:41",
+      "album": {
         "name": "The Name Chapter: FREEFALL",
         "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 182670,
       "name": "Chasing That Feeling",
       "url": "https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv"
-    },
-    {
-      "added_at": "2024-06-25 09:21:41",
-      "album": {
-        "name": "I love",
-        "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "Nxde",
-      "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
-        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
-        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
+        "name": "Get A Guitar",
+        "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
         }
       ],
-      "duration_ms": 180360,
-      "name": "Rock with you",
-      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
+      "duration_ms": 160371,
+      "name": "Get A Guitar",
+      "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
+        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
+        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 180360,
+      "name": "Rock with you",
+      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
+    },
+    {
+      "added_at": "2024-06-25 09:21:41",
+      "album": {
         "name": "Standing Next to You (USHER Remix)",
         "url": "https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 214760,
       "name": "Standing Next to You (USHER Remix)",
       "url": "https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1"
-    },
-    {
-      "added_at": "2024-06-25 09:21:41",
-      "album": {
-        "name": "Get A Guitar",
-        "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 160371,
-      "name": "Get A Guitar",
-      "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
+        "name": "RIIZING - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 152889,
+      "name": "Boom Boom Bass",
+      "url": "https://open.spotify.com/track/2J194R0KIKbK7bTHfUHPDB"
+    },
+    {
+      "added_at": "2024-06-25 09:21:41",
+      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 168085,
       "name": "On The Ground",
       "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
-    },
-    {
-      "added_at": "2024-06-25 09:21:41",
-      "album": {
-        "name": "I-LAND2 : N/a - 1:1 POSITION BATTLE",
-        "url": "https://open.spotify.com/album/7zjYgWfGErSNv1Zs2IGDGl"
-      },
-      "artists": [
-        {
-          "name": "I-LAND2 : N/a",
-          "url": "https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4"
-        }
-      ],
-      "duration_ms": 183251,
-      "name": "IWALY",
-      "url": "https://open.spotify.com/track/4SwXtg8jDejWX18zLsZwCO"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
-        "name": "RIIZING - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2"
+        "name": "I-LAND2 : N/a - 1:1 POSITION BATTLE",
+        "url": "https://open.spotify.com/album/7zjYgWfGErSNv1Zs2IGDGl"
       },
       "artists": [
         {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+          "name": "I-LAND2 : N/a",
+          "url": "https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4"
         }
       ],
-      "duration_ms": 152889,
-      "name": "Boom Boom Bass",
-      "url": "https://open.spotify.com/track/2J194R0KIKbK7bTHfUHPDB"
+      "duration_ms": 183251,
+      "name": "IWALY",
+      "url": "https://open.spotify.com/track/4SwXtg8jDejWX18zLsZwCO"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
-        "name": "SAINT",
-        "url": "https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "SAINT",
-      "url": "https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP"
-    },
-    {
-      "added_at": "2024-06-25 09:21:41",
-      "album": {
         "name": "Hot Sauce - The 1st Album",
         "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 195813,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er"
+    },
+    {
+      "added_at": "2024-06-25 09:21:41",
+      "album": {
+        "name": "SAINT",
+        "url": "https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "SAINT",
+      "url": "https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
-        "name": "\u56de:Walpurgis Night",
-        "url": "https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "MAGO",
-      "url": "https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50"
-    },
-    {
-      "added_at": "2024-06-25 09:21:41",
-      "album": {
         "name": "WHY..",
         "url": "https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa"
       },
@@ -1771,22 +1755,6 @@
       "duration_ms": 175106,
       "name": "But Sometimes",
       "url": "https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT"
-    },
-    {
-      "added_at": "2024-06-25 09:21:41",
-      "album": {
-        "name": "I-LAND2 : N/a Signal Song (Applicants Version)",
-        "url": "https://open.spotify.com/album/34esSejdtngmSozv4mZCUR"
-      },
-      "artists": [
-        {
-          "name": "I-LAND2 : N/a",
-          "url": "https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4"
-        }
-      ],
-      "duration_ms": 197962,
-      "name": "FINAL LOVE SONG",
-      "url": "https://open.spotify.com/track/7uhvf8LckR9OYmmiJ53wJW"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -1811,18 +1779,50 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
-        "name": "DREAM( )SCAPE",
-        "url": "https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz"
+        "name": "I-LAND2 : N/a Signal Song (Applicants Version)",
+        "url": "https://open.spotify.com/album/34esSejdtngmSozv4mZCUR"
       },
       "artists": [
         {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+          "name": "I-LAND2 : N/a",
+          "url": "https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4"
         }
       ],
-      "duration_ms": 188080,
-      "name": "Smoothie",
-      "url": "https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I"
+      "duration_ms": 197962,
+      "name": "FINAL LOVE SONG",
+      "url": "https://open.spotify.com/track/7uhvf8LckR9OYmmiJ53wJW"
+    },
+    {
+      "added_at": "2024-06-25 09:21:41",
+      "album": {
+        "name": "TWS 2nd Mini Album 'SUMMER BEAT!'",
+        "url": "https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 168026,
+      "name": "If I\u2019m S, Can You Be My N?",
+      "url": "https://open.spotify.com/track/2y8vRHEoz15sYDmxyrDePO"
+    },
+    {
+      "added_at": "2024-06-25 09:21:41",
+      "album": {
+        "name": "\u56de:Walpurgis Night",
+        "url": "https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "MAGO",
+      "url": "https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -1855,6 +1855,22 @@
       "duration_ms": 194426,
       "name": "BBIBBI",
       "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
+    },
+    {
+      "added_at": "2024-06-25 09:21:41",
+      "album": {
+        "name": "DREAM( )SCAPE",
+        "url": "https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 188080,
+      "name": "Smoothie",
+      "url": "https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -1995,38 +2011,6 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
-        "name": "ZERO : FEVER Part.3",
-        "url": "https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 196670,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3"
-    },
-    {
-      "added_at": "2024-06-25 09:21:41",
-      "album": {
-        "name": "TWS 2nd Mini Album 'SUMMER BEAT!'",
-        "url": "https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03"
-      },
-      "artists": [
-        {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
-        }
-      ],
-      "duration_ms": 168026,
-      "name": "If I\u2019m S, Can You Be My N?",
-      "url": "https://open.spotify.com/track/2y8vRHEoz15sYDmxyrDePO"
-    },
-    {
-      "added_at": "2024-06-25 09:21:41",
-      "album": {
         "name": "THE BADDEST",
         "url": "https://open.spotify.com/album/7C8nskYbHG7N0LDrNVvt7x"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 162600,
       "name": "THE BADDEST",
       "url": "https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f"
+    },
+    {
+      "added_at": "2024-06-25 09:21:41",
+      "album": {
+        "name": "ZERO : FEVER Part.3",
+        "url": "https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 196670,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
-        "name": "The 1st Mini Album 'WE UNIS'",
-        "url": "https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim"
-      },
-      "artists": [
-        {
-          "name": "UNIS",
-          "url": "https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "SUPERWOMAN",
-      "url": "https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB"
-    },
-    {
-      "added_at": "2024-06-25 09:21:41",
-      "album": {
         "name": "Beatbox - The 2nd Album Repackage",
         "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 205133,
       "name": "Beatbox",
       "url": "https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB"
+    },
+    {
+      "added_at": "2024-06-25 09:21:41",
+      "album": {
+        "name": "The 1st Mini Album 'WE UNIS'",
+        "url": "https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim"
+      },
+      "artists": [
+        {
+          "name": "UNIS",
+          "url": "https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "SUPERWOMAN",
+      "url": "https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
-        "name": "Siren",
-        "url": "https://open.spotify.com/album/7J5utMSMvsvlTzqeF1TfQO"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 147961,
-      "name": "Siren",
-      "url": "https://open.spotify.com/track/3lc6BSosCqVoNddw1izHXj"
-    },
-    {
-      "added_at": "2024-06-25 09:21:41",
-      "album": {
         "name": "Hello Future - The 1st Album Repackage",
         "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
       },
@@ -2283,22 +2267,18 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
-        "name": "EENIE MEENIE",
-        "url": "https://open.spotify.com/album/1q2RNzz09Vx3bOKK1yTyyg"
+        "name": "Siren",
+        "url": "https://open.spotify.com/album/7J5utMSMvsvlTzqeF1TfQO"
       },
       "artists": [
         {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        },
-        {
-          "name": "Hongjoong of ATEEZ",
-          "url": "https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx"
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
         }
       ],
-      "duration_ms": 170066,
-      "name": "EENIE MEENIE (Feat. Hongjoong of ATEEZ)",
-      "url": "https://open.spotify.com/track/3WFTUAPrXvqg3SXC0bsukz"
+      "duration_ms": 147961,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/3lc6BSosCqVoNddw1izHXj"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -2323,6 +2303,26 @@
       "duration_ms": 196549,
       "name": "For You",
       "url": "https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh"
+    },
+    {
+      "added_at": "2024-06-25 09:21:41",
+      "album": {
+        "name": "EENIE MEENIE",
+        "url": "https://open.spotify.com/album/1q2RNzz09Vx3bOKK1yTyyg"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "Hongjoong of ATEEZ",
+          "url": "https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx"
+        }
+      ],
+      "duration_ms": 170066,
+      "name": "EENIE MEENIE (Feat. Hongjoong of ATEEZ)",
+      "url": "https://open.spotify.com/track/3WFTUAPrXvqg3SXC0bsukz"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -2459,18 +2459,18 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
-        "name": "We Go Up",
-        "url": "https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj"
+        "name": "THE SECOND STEP : CHAPTER TWO",
+        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
       },
       "artists": [
         {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
         }
       ],
-      "duration_ms": 183293,
-      "name": "We Go Up",
-      "url": "https://open.spotify.com/track/26vOBLHS116a4WNUVlvAUW"
+      "duration_ms": 181432,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -2491,18 +2491,18 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
-        "name": "THE SECOND STEP : CHAPTER TWO",
-        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
+        "name": "We Go Up",
+        "url": "https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj"
       },
       "artists": [
         {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
         }
       ],
-      "duration_ms": 181432,
-      "name": "HELLO",
-      "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
+      "duration_ms": 183293,
+      "name": "We Go Up",
+      "url": "https://open.spotify.com/track/26vOBLHS116a4WNUVlvAUW"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -2591,6 +2591,22 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
+        "name": "Teddy Bear",
+        "url": "https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 189773,
+      "name": "Teddy Bear",
+      "url": "https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9"
+    },
+    {
+      "added_at": "2024-06-25 09:21:41",
+      "album": {
         "name": "Yes or No",
         "url": "https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF"
       },
@@ -2611,22 +2627,6 @@
       "duration_ms": 179146,
       "name": "Yes or No (Feat. \ud5c8\uc724\uc9c4 of LE SSERAFIM, Crush)",
       "url": "https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq"
-    },
-    {
-      "added_at": "2024-06-25 09:21:41",
-      "album": {
-        "name": "Teddy Bear",
-        "url": "https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 189773,
-      "name": "Teddy Bear",
-      "url": "https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -2699,22 +2699,6 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
-        "name": "KARD 6th Mini Album 'ICKY'",
-        "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
-      },
-      "artists": [
-        {
-          "name": "KARD",
-          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "ICKY",
-      "url": "https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ"
-    },
-    {
-      "added_at": "2024-06-25 09:21:41",
-      "album": {
         "name": "AH YEAH",
         "url": "https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ"
       },
@@ -2727,6 +2711,22 @@
       "duration_ms": 189882,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/6BKOhvRPY54uvfqWwg7MKi"
+    },
+    {
+      "added_at": "2024-06-25 09:21:41",
+      "album": {
+        "name": "KARD 6th Mini Album 'ICKY'",
+        "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
+      },
+      "artists": [
+        {
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "ICKY",
+      "url": "https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -2871,22 +2871,6 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
-        "name": "Offset",
-        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 212136,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP"
-    },
-    {
-      "added_at": "2024-06-25 09:21:41",
-      "album": {
         "name": "The 3rd Album Part.1",
         "url": "https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2"
       },
@@ -2899,6 +2883,22 @@
       "duration_ms": 212976,
       "name": "Please don\u2019t\u2026",
       "url": "https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47"
+    },
+    {
+      "added_at": "2024-06-25 09:21:41",
+      "album": {
+        "name": "Offset",
+        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 212136,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -2971,22 +2971,6 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 207650,
-      "name": "XOXO",
-      "url": "https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x"
-    },
-    {
-      "added_at": "2024-06-25 09:21:41",
-      "album": {
         "name": "White Wind",
         "url": "https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY"
       },
@@ -2999,6 +2983,22 @@
       "duration_ms": 195855,
       "name": "gogobebe",
       "url": "https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8"
+    },
+    {
+      "added_at": "2024-06-25 09:21:41",
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 207650,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -3119,22 +3119,6 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
-        "name": "Stamp On It - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7"
-      },
-      "artists": [
-        {
-          "name": "GOT the beat",
-          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "Stamp On It",
-      "url": "https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS"
-    },
-    {
-      "added_at": "2024-06-25 09:21:41",
-      "album": {
         "name": "Favorite - The 3rd Album Repackage",
         "url": "https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX"
       },
@@ -3147,6 +3131,22 @@
       "duration_ms": 215586,
       "name": "Favorite (Vampire)",
       "url": "https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY"
+    },
+    {
+      "added_at": "2024-06-25 09:21:41",
+      "album": {
+        "name": "Stamp On It - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7"
+      },
+      "artists": [
+        {
+          "name": "GOT the beat",
+          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "Stamp On It",
+      "url": "https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS"
     },
     {
       "added_at": "2024-06-25 09:21:41",
@@ -3263,22 +3263,6 @@
     {
       "added_at": "2024-06-25 09:21:41",
       "album": {
-        "name": "GFRIEND The 6th Mini Album <Time for the moon night>",
-        "url": "https://open.spotify.com/album/4YkF0cmnD2nmzdpLk1ZUUP"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 226698,
-      "name": "Time for the moon night",
-      "url": "https://open.spotify.com/track/2jL9sjFc2LZsQBGbQnrjXR"
-    },
-    {
-      "added_at": "2024-06-25 09:21:41",
-      "album": {
         "name": "A Page",
         "url": "https://open.spotify.com/album/7jmRVFWYCVgx2OEC1ZQJH8"
       },
@@ -3323,6 +3307,22 @@
       "duration_ms": 167333,
       "name": "I`m a B",
       "url": "https://open.spotify.com/track/1AToLLvWghQgiBFef1iGuR"
+    },
+    {
+      "added_at": "2024-06-25 09:21:41",
+      "album": {
+        "name": "GFRIEND The 6th Mini Album <Time for the moon night>",
+        "url": "https://open.spotify.com/album/4YkF0cmnD2nmzdpLk1ZUUP"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 226698,
+      "name": "Time for the moon night",
+      "url": "https://open.spotify.com/track/2jL9sjFc2LZsQBGbQnrjXR"
     },
     {
       "added_at": "2024-06-25 09:21:41",

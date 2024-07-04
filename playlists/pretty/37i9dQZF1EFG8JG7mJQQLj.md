@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,269 likes - 424 songs - 1 day 0 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,274 likes - 423 songs - 1 day 0 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 63 | [Neon Lights](https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:53 |
 | 64 | [Better Days](https://open.spotify.com/track/2SLxgJ2YFohfd8KwuJZTUE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:24 |
 | 65 | [Pierre](https://open.spotify.com/track/31c1V9xUONZYk78NE4Id8D) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:22 |
-| 66 | [Stranger Things \(feat\. OneRepublic\)](https://open.spotify.com/track/4sJqSKPc5fZ5OZ8JiVI44N) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Kids in Love](https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM) | 3:41 |
-| 67 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 |
+| 66 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 |
+| 67 | [Stranger Things \(feat\. OneRepublic\)](https://open.spotify.com/track/4sJqSKPc5fZ5OZ8JiVI44N) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Kids in Love](https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM) | 3:41 |
 | 68 | [Nights With You](https://open.spotify.com/track/5q5gzmbBS5yQzos2BvVr1t) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Nights With You](https://open.spotify.com/album/0kgy48FPwyVepPIaiO2w7G) | 3:17 |
 | 69 | [X \(with KAROL G\)](https://open.spotify.com/track/77fvnWALKJR0ws1VUx09CY) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 3:05 |
 | 70 | [Kids](https://open.spotify.com/track/5mQNY6pTeSDl2doFB7uLbE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:58 |
@@ -251,8 +251,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 241 | [Hold On](https://open.spotify.com/track/7AuHKPDhAAtCAPk8mav6h4) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Gypsy Heart](https://open.spotify.com/album/3Gvp7hk4YWaWg2mF0XAauA) | 3:35 |
 | 242 | [Castles \(feat\. Trey Songz\)](https://open.spotify.com/track/4zhRQASMDW7azUUFpCs2m2) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Strange Clouds](https://open.spotify.com/album/7qqCw47pAWFzhwTpVRd0zE) | 3:54 |
 | 243 | [Tyrant](https://open.spotify.com/track/2NQBsh7D6bDS5tv5VcvdoN) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 5:02 |
-| 244 | [Can't Help](https://open.spotify.com/track/7qCmv4SsXVt7I415eneHVk) | [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Overnight](https://open.spotify.com/album/3s9li4RKJ1pcjcbFQftbg5) | 3:23 |
-| 245 | [42](https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [42](https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ) | 2:55 |
+| 244 | [42](https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [42](https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ) | 2:55 |
+| 245 | [Can't Help](https://open.spotify.com/track/7qCmv4SsXVt7I415eneHVk) | [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Overnight](https://open.spotify.com/album/3s9li4RKJ1pcjcbFQftbg5) | 3:23 |
 | 246 | [Revolution](https://open.spotify.com/track/6LbAhaBQ5yAifQuNIPlQsR) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future + Dreams Of The Past](https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8) | 3:03 |
 | 247 | [Pill for This \(from Songland\)](https://open.spotify.com/track/7IQlF0sWkkztpejeIKnftW) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [Pill for This \(from Songland\)](https://open.spotify.com/album/2r1WiGYZP7wsuC0RBZucGe) | 2:53 |
 | 248 | [Truth To Power](https://open.spotify.com/track/6uaigl9EXMjMP0I3iTb9yO) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Truth To Power](https://open.spotify.com/album/6rPlzNWbkO10UerasRIqCY) | 3:25 |
@@ -310,8 +310,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 300 | [Save You](https://open.spotify.com/track/7IaJyaE8pCQjOgvXUAJeat) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [All I Ever Wanted](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) | 4:02 |
 | 301 | [Gypsy Woman](https://open.spotify.com/track/2LW2Or5IY5lMtMOjqGVI0c) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Dignity](https://open.spotify.com/album/2OD92YQZuME96A0b1aJzQF) | 3:14 |
 | 302 | [Get Mine](https://open.spotify.com/track/67aM9AJ569kEdJSLBIiOTz) | [DAVIS](https://open.spotify.com/artist/1Nejskv080HulTwcWnNPUr) | [Crooked Finger](https://open.spotify.com/album/0CyVbusmbDNR7nnJ84DyRu) | 3:32 |
-| 303 | [Touch Me \(SMASH Cast Version\) \[feat\. Katharine McPhee\]](https://open.spotify.com/track/0fkIg1ZJbGEgmYQYQy165Y) | [SMASH Cast](https://open.spotify.com/artist/05tTO01wV9Y7U4U1B4xCBK) | [The Music of SMASH](https://open.spotify.com/album/7qby8V9HKQ8xatNtAnFRxU) | 3:51 |
-| 304 | [Love Struck \(From Songland\)](https://open.spotify.com/track/5bXNCPNdgTSYbA9NECTOLk) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Love Struck \(From Songland\)](https://open.spotify.com/album/2vWoFMDURyyWVsjtMd7m3E) | 2:08 |
+| 303 | [Love Struck \(From Songland\)](https://open.spotify.com/track/5bXNCPNdgTSYbA9NECTOLk) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Love Struck \(From Songland\)](https://open.spotify.com/album/2vWoFMDURyyWVsjtMd7m3E) | 2:08 |
+| 304 | [Touch Me \(SMASH Cast Version\) \[feat\. Katharine McPhee\]](https://open.spotify.com/track/0fkIg1ZJbGEgmYQYQy165Y) | [SMASH Cast](https://open.spotify.com/artist/05tTO01wV9Y7U4U1B4xCBK) | [The Music of SMASH](https://open.spotify.com/album/7qby8V9HKQ8xatNtAnFRxU) | 3:51 |
 | 305 | [Girls Like Me \(From Songland\)](https://open.spotify.com/track/7mAEhhFuvOYmPhIUPrPeSo) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Girls Like Me \(From Songland\)](https://open.spotify.com/album/0ZERnGKcGJaYPLa5nlGQP7) | 3:15 |
 | 306 | [Let Go](https://open.spotify.com/track/1x3Sxgpq3MIyZUi9v2W1ZT) | [Brother Phelps](https://open.spotify.com/artist/4B1XcPipnpGOpuNZeAA1eQ) | [Let Go](https://open.spotify.com/album/5kkOQ9122GxlXlORmJSpzX) | 3:39 |
 | 307 | [Sucker Punch](https://open.spotify.com/track/5phIlbhXRbIgZwf8yFlSWv) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up \(Deluxe\)](https://open.spotify.com/album/6EuKoCk8R63UfuPLa9qr7U) | 4:26 |
@@ -431,6 +431,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 421 | [Won't Walk Away](https://open.spotify.com/track/4TOvwLHReu2LywMpfoUcSJ) | [Lemar](https://open.spotify.com/artist/7uztWv5UVx4hwcJXCtRyDV) | [The Reason](https://open.spotify.com/album/21rolf1dBBSNqsEZqC7L7l) | 3:41 |
 | 422 | [Imacallya](https://open.spotify.com/track/3Pp5ga2Y7dJMm3bWBXQmXj) | [Salvador Santana Band](https://open.spotify.com/artist/2iqCtfFnHrmaZ2xaJE2Ems) | [SSB](https://open.spotify.com/album/5b9NHrOp6VV9VxnmaFcsR3) | 3:35 |
 | 423 | [All I Ever Wanted](https://open.spotify.com/track/6tUyTMQms7mQdaRiyLizCu) | [The Faith Crew](https://open.spotify.com/artist/4rdDVgScRyE4NTocYd30Qi) | [Tribute to Margaret Becker & Jeremy Camp](https://open.spotify.com/album/6ZjxpWsEm2ewK4K2PdJVXM) | 4:43 |
-| 424 | [Born To Race](https://open.spotify.com/track/0yWGRRHjwNOdApEm2gbbex) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [The Artificial Paradise Tour 中国巡演特别版](https://open.spotify.com/album/50PJ47XqwSZXA8Q165lDZW) | 3:11 |
 
-Snapshot ID: `AbVpmQAAAAB1EQal/ZsUhkHXJAdKzKEZ`
+Snapshot ID: `AbVvNAAAAABbJUtohx0J99CGFQKIIe6+`

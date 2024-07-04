@@ -3265,6 +3265,24 @@
     },
     {
       "album": {
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/2oq55O8NF6o5FJoi1AWx6U"
+      },
+      "artists": [
+        {
+          "name": "Dutch Criminal Record",
+          "url": "https://open.spotify.com/artist/5h6KJPKB8cSVJTWZhKAZoT"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250537,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/13vRJ8LDVH73EFLuZXz8co"
+    },
+    {
+      "album": {
         "name": "Baby Blue Movie",
         "url": "https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj"
       },
@@ -3966,6 +3984,24 @@
       "duration_ms": 165445,
       "name": "Belinda Says",
       "url": "https://open.spotify.com/track/6P68mPQLzCYoxa6d5Xemr1"
+    },
+    {
+      "album": {
+        "name": "Bells and Whistles",
+        "url": "https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Bells and Whistles",
+      "url": "https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb"
     },
     {
       "album": {
@@ -7740,7 +7776,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 161661,
       "name": "Confusion Song",
       "url": "https://open.spotify.com/track/62Zw1ojf7TsvGCUMzzQOT8"
@@ -8908,7 +8944,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 242544,
       "name": "Deeply Still In Love",
       "url": "https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK"
@@ -9859,6 +9895,24 @@
     },
     {
       "album": {
+        "name": "Downhill",
+        "url": "https://open.spotify.com/album/5WHOjQs1oIFghKGMqJpfN4"
+      },
+      "artists": [
+        {
+          "name": "Pom Pom Squad",
+          "url": "https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185960,
+      "name": "Downhill",
+      "url": "https://open.spotify.com/track/4z1gtOYAOwCQjTgiDsEYQy"
+    },
+    {
+      "album": {
         "name": "Dream Girl",
         "url": "https://open.spotify.com/album/4ZFoewQJ3Gbz6ssVQg5zWZ"
       },
@@ -10418,6 +10472,24 @@
       "duration_ms": 199880,
       "name": "easy breezy",
       "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
+    },
+    {
+      "album": {
+        "name": "Into The Blue",
+        "url": "https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230466,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7"
     },
     {
       "album": {
@@ -20821,6 +20893,24 @@
     },
     {
       "album": {
+        "name": "Later",
+        "url": "https://open.spotify.com/album/73qPQ90oHCO3CN00GkEyRE"
+      },
+      "artists": [
+        {
+          "name": "GIFT",
+          "url": "https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267828,
+      "name": "Later",
+      "url": "https://open.spotify.com/track/3TrnJe4PR4xRtrY6vElta3"
+    },
+    {
+      "album": {
         "name": "Laugh Track",
         "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
       },
@@ -21060,7 +21150,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 230909,
       "name": "Lemon",
       "url": "https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS"
@@ -21248,6 +21338,24 @@
       "duration_ms": 177733,
       "name": "Lexicon",
       "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
+    },
+    {
+      "album": {
+        "name": "Lie In the Gutter",
+        "url": "https://open.spotify.com/album/4eTLniqLCP2qKsar2Rjk1E"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219562,
+      "name": "Lie In the Gutter",
+      "url": "https://open.spotify.com/track/5wriYM5xQRsYght1FOj0Cc"
     },
     {
       "album": {
@@ -22557,6 +22665,24 @@
     },
     {
       "album": {
+        "name": "Madeline",
+        "url": "https://open.spotify.com/album/0GSV4bhUShntYdtI7AflFU"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223071,
+      "name": "Madeline",
+      "url": "https://open.spotify.com/track/6yLHf0uepl3TKVmOWYR4h9"
+    },
+    {
+      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb"
       },
@@ -23720,7 +23846,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 179467,
       "name": "Michigan",
       "url": "https://open.spotify.com/track/1WfEUgnWKJLPpuEbEj69qh"
@@ -23742,6 +23868,28 @@
       "duration_ms": 61340,
       "name": "Middle of Nowhere",
       "url": "https://open.spotify.com/track/52Td1R2HmvP5gevSgUaifx"
+    },
+    {
+      "album": {
+        "name": "Bad Cameo",
+        "url": "https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298882,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS"
     },
     {
       "album": {
@@ -25826,6 +25974,24 @@
       "duration_ms": 202537,
       "name": "Nobody's Fault",
       "url": "https://open.spotify.com/track/0ribL5IffcrNLjJ2Xy5PFp"
+    },
+    {
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225572,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
     },
     {
       "album": {
@@ -32183,6 +32349,24 @@
     },
     {
       "album": {
+        "name": "She's Leaving You",
+        "url": "https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278226,
+      "name": "She's Leaving You",
+      "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
+    },
+    {
+      "album": {
         "name": "Shinigami Eyes",
         "url": "https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A"
       },
@@ -34426,7 +34610,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 148400,
       "name": "stick of gum",
       "url": "https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY"
@@ -37823,6 +38007,32 @@
     },
     {
       "album": {
+        "name": "This is Life",
+        "url": "https://open.spotify.com/album/25g1BNalfJaZflKcyuANmz"
+      },
+      "artists": [
+        {
+          "name": "Winnetka Bowling League",
+          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
+        },
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        },
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "This Is Life",
+      "url": "https://open.spotify.com/track/79EYgUv9JojcgVVEJXdPbI"
+    },
+    {
+      "album": {
         "name": "Father of the Bride",
         "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
       },
@@ -38054,7 +38264,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 244600,
       "name": "Time Will Tell",
       "url": "https://open.spotify.com/track/6XhwSh89lYobx3M5LE8vHO"
@@ -40166,6 +40376,24 @@
       "duration_ms": 203466,
       "name": "wait a minute",
       "url": "https://open.spotify.com/track/6lI8bGNNnaM8njRiHfmBS4"
+    },
+    {
+      "album": {
+        "name": "Notes from a Quiet Life",
+        "url": "https://open.spotify.com/album/4HYukOf0RGN2YotkEsMCue"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176049,
+      "name": "Wait on You",
+      "url": "https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O"
     },
     {
       "album": {

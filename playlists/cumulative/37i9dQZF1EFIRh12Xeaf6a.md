@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-282 songs - 14 hr 48 min
+283 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [I Think It's Gonna Work out Fine \(with James Taylor\)](https://open.spotify.com/track/2cz5aUnfZpxK7Pp9D9vuew) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Get Closer](https://open.spotify.com/album/5WMzxTzHkHVXaleVFWNcfB) | 4:01 | 2023-12-30 |  |
 | [I Was Only Kidding](https://open.spotify.com/track/50Ry2wNgwEuduxu7s8Qfb3) | [Helen Shapiro](https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C) | [Helen Shapiro](https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz) | 2:20 | 2023-12-30 |  |
 | [I Was There \(And I'm Told I Had a Good Time\)](https://open.spotify.com/track/5rQXyZscMjd5AekwWkBDpA) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Good Times! \(Deluxe Edition\)](https://open.spotify.com/album/4UwFizSE0TB6EzTfkkxlbF) | 2:15 | 2023-12-30 |  |
-| [I Won't Be](https://open.spotify.com/track/3TgZBMGRl11cLaIQJhsTF2) | [The Queers](https://open.spotify.com/artist/1kRABJWDxSnOJFteI351V6) | [Love Songs For the Retarded](https://open.spotify.com/album/73ywZjlpzgcozKgBP0hlcs) | 2:07 | 2023-12-30 |  |
+| [I Won't Be](https://open.spotify.com/track/3TgZBMGRl11cLaIQJhsTF2) | [The Queers](https://open.spotify.com/artist/1kRABJWDxSnOJFteI351V6) | [Love Songs For the Retarded](https://open.spotify.com/album/73ywZjlpzgcozKgBP0hlcs) | 2:07 | 2023-12-30 | 2024-07-04 |
+| [I Won't Be](https://open.spotify.com/track/6PYPAsGS9m3G3VIj2Tq4hy) | [The Queers](https://open.spotify.com/artist/1kRABJWDxSnOJFteI351V6) | [Love Songs For the Retarded](https://open.spotify.com/album/7cirEMVoNE7n6FOgqk9rzZ) | 2:07 | 2024-07-03 |  |
 | [I'd Like To Know You Better](https://open.spotify.com/track/58gaz9qaiCBPvC67SqJdYY) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 2:46 | 2023-12-30 |  |
 | [I'd Never Find Another You](https://open.spotify.com/track/3NdGW143zQClqgvLN5OdPs) | [Billy Fury](https://open.spotify.com/artist/7rtLZcKWGV4eaZsBwSKimf), [The Tornados](https://open.spotify.com/artist/3SblTU11ZKURsHhWGwPpt9) | [Radio Luxembourg Sessions/The Sound Of Fury Demos](https://open.spotify.com/album/4GxeKxGHCCjTSLOn9nyoUi) | 2:40 | 2023-12-30 |  |
 | [I'll Love You For A While](https://open.spotify.com/track/4LNzBFytMkQ4nxE2Yhxv2A) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Ooooooweeee!](https://open.spotify.com/album/1HxE0CdLFyhAAb7ysXtHjM) | 2:06 | 2023-12-30 |  |

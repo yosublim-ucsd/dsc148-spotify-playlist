@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,834 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,912 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 40 | [Crazy](https://open.spotify.com/track/0F4sQ4O7wIHfw6kp1e4Sfi) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Right On Time](https://open.spotify.com/album/0HEuFHATf4xNesfim5EwMr) | 3:34 |
 | 41 | [Green Grass & High Tides \- Remastered](https://open.spotify.com/track/4BxfXnGbnlibcUUPKog7Ne) | [The Outlaws](https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9) | [Best Of...Green Grass & High Tides](https://open.spotify.com/album/1MhPGLDNQLwtqxwJRU9brd) | 9:46 |
 | 42 | [Jim Dandy](https://open.spotify.com/track/0JFEn4sPozptBShOuqMQVs) | [Black Oak Arkansas](https://open.spotify.com/artist/07xwCifj3iE7F6fYHin4TU) | [High On The Hog](https://open.spotify.com/album/0dDpccoB4BNvUKVTUJyFkC) | 2:41 |
-| 43 | [Gator Country](https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY) | [Molly Hatchet](https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10) | [Molly Hatchet](https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3) | 6:16 |
-| 44 | [Battleship Chains](https://open.spotify.com/track/0dJEQ01IPN4ukqRsPrm4ab) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Georgia Satellites](https://open.spotify.com/album/0obHqsEpkaCWGWGjxcdXel) | 2:57 |
+| 43 | [Battleship Chains](https://open.spotify.com/track/0dJEQ01IPN4ukqRsPrm4ab) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Georgia Satellites](https://open.spotify.com/album/0obHqsEpkaCWGWGjxcdXel) | 2:57 |
+| 44 | [Gator Country](https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY) | [Molly Hatchet](https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10) | [Molly Hatchet](https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3) | 6:16 |
 | 45 | [Ain't Life Grand](https://open.spotify.com/track/4YslG4WvV5eXviT2q0gO8K) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Ain't Life Grand](https://open.spotify.com/album/1dVzzHkYH4vs1qwtJOk0rU) | 4:47 |
 | 46 | [Don't Misunderstand Me](https://open.spotify.com/track/7uODrkf1XnlIGMyUSCLbLU) | [Rossington Collins Band](https://open.spotify.com/artist/22vadBKWnw6sLJPML2MdKi) | [20th Century Masters: The Millennium Collection: Best Of The Rossington Collins Band](https://open.spotify.com/album/5x7R9IRVTa2Yb1IT14vNoH) | 3:56 |
 | 47 | [Heard It in a Love Song](https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [Where a Country Boy Belongs](https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1) | 4:55 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 50 | [Left Turn on a Red Light](https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Strikes](https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM) | 4:37 |
 | 51 | [Homesick](https://open.spotify.com/track/1gA9l5loCNn8fOFIzXb6T2) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [Quinella](https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN) | 4:13 |
 | 52 | [\(Ghost\) Riders In The Sky](https://open.spotify.com/track/5Y8gFnBzwcMEWa2vmmUABR) | [The Outlaws](https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9) | [Platinum & Gold Collection](https://open.spotify.com/album/6Lx6Uk2ToDnKo5T3BhIT9v) | 5:46 |
-| 53 | [Bounty Hunter](https://open.spotify.com/track/50d2zWUEVp9jn0EphgvdWe) | [Molly Hatchet](https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10) | [Molly Hatchet](https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3) | 2:57 |
-| 54 | [Searchin' for a Rainbow](https://open.spotify.com/track/5zS2DXR0XKNsVQSCHGEhx2) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [Greatest Hits](https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w) | 3:05 |
+| 53 | [Searchin' for a Rainbow](https://open.spotify.com/track/5zS2DXR0XKNsVQSCHGEhx2) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [Greatest Hits](https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w) | 3:05 |
+| 54 | [Bounty Hunter](https://open.spotify.com/track/50d2zWUEVp9jn0EphgvdWe) | [Molly Hatchet](https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10) | [Molly Hatchet](https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3) | 2:57 |
 | 55 | [Uneasy Rider](https://open.spotify.com/track/4jIfTHzqYWspDy9wlgvTjp) | [Charlie Daniels](https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh) | [16 Biggest Hits](https://open.spotify.com/album/0a0a2Z9oZrxyDIbd8CSIYz) | 5:18 |
 | 56 | [Rattlesnake Rock 'N' Roller](https://open.spotify.com/track/1qDqZxOGB335PJYjIUvwP3) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Marauder](https://open.spotify.com/album/7j0wSeUKj4rz2Surh5ICdN) | 4:02 |
 | 57 | [Don't Pass Me By](https://open.spotify.com/track/4eeCQtgohd0nLeI2t5XgGo) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Open All Night](https://open.spotify.com/album/7GDQBAinophlJEa8AZiAQg) | 4:53 |

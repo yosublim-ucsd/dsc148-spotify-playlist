@@ -9932,7 +9932,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 136011,
       "name": "Home",
       "url": "https://open.spotify.com/track/0zo3jZ7I0wMugFsqgN1zQp"
@@ -13580,7 +13580,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 220192,
       "name": "Love Me Like You Say You Do",
       "url": "https://open.spotify.com/track/4NO0f4NB6jmsmUT2hNtNE8"
@@ -13898,6 +13898,24 @@
       "duration_ms": 104280,
       "name": "MAKE MORE NOISE OF YOU",
       "url": "https://open.spotify.com/track/2luJ055CDIvQToqSJNSukm"
+    },
+    {
+      "album": {
+        "name": "Serenity Now",
+        "url": "https://open.spotify.com/album/1IT4QklvNNguITOJnmn0DF"
+      },
+      "artists": [
+        {
+          "name": "Hailaker",
+          "url": "https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218386,
+      "name": "Makeweight",
+      "url": "https://open.spotify.com/track/16AmxoT1jXMLhjTSLzTEus"
     },
     {
       "album": {
@@ -17862,7 +17880,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 276292,
       "name": "People 365",
       "url": "https://open.spotify.com/track/5GmDbVsfLql2Ltu9Fa6Tkk"

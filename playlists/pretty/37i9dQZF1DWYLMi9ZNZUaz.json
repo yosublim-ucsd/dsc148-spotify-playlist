@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: Lil Wuyn",
-  "num_followers": 93570,
+  "num_followers": 93636,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-06-30 11:44:24",
       "album": {
-        "name": "99%",
-        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        }
-      ],
-      "duration_ms": 194005,
-      "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
-      "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
-    },
-    {
-      "added_at": "2024-06-30 11:44:24",
-      "album": {
         "name": "10 Ng\u00e0n N\u0103m",
         "url": "https://open.spotify.com/album/1LkA7FjIQpuZBgxdd3nNvF"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 240000,
       "name": "10 Ng\u00e0n N\u0103m",
       "url": "https://open.spotify.com/track/76KYaCx7UjHwlnrqzcovLZ"
+    },
+    {
+      "added_at": "2024-06-30 11:44:24",
+      "album": {
+        "name": "99%",
+        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        }
+      ],
+      "duration_ms": 194005,
+      "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
+      "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
     },
     {
       "added_at": "2024-06-30 11:44:24",
@@ -439,18 +439,22 @@
     {
       "added_at": "2024-06-30 11:44:24",
       "album": {
-        "name": "N\u00f3i D\u1ed1i",
-        "url": "https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP"
+        "name": "B\u1eacT N\u00d3 L\u00caN",
+        "url": "https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi"
       },
       "artists": [
         {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+          "name": "SOOBIN",
+          "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         }
       ],
-      "duration_ms": 206139,
-      "name": "N\u00f3i D\u1ed1i",
-      "url": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
+      "duration_ms": 240000,
+      "name": "Ai M\u00e0 Bi\u1ebft \u0110\u01b0\u1ee3c (feat. tlinh)",
+      "url": "https://open.spotify.com/track/7yfcQynap4xcNqnydaFw83"
     },
     {
       "added_at": "2024-06-30 11:44:24",
@@ -515,28 +519,8 @@
     {
       "added_at": "2024-06-30 11:44:24",
       "album": {
-        "name": "B\u1eacT N\u00d3 L\u00caN",
-        "url": "https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi"
-      },
-      "artists": [
-        {
-          "name": "SOOBIN",
-          "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
-        },
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Ai M\u00e0 Bi\u1ebft \u0110\u01b0\u1ee3c (feat. tlinh)",
-      "url": "https://open.spotify.com/track/7yfcQynap4xcNqnydaFw83"
-    },
-    {
-      "added_at": "2024-06-30 11:44:24",
-      "album": {
-        "name": "Anh Ch\u1ec9 Mu\u1ed1n",
-        "url": "https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf"
+        "name": "N\u00f3i D\u1ed1i",
+        "url": "https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP"
       },
       "artists": [
         {
@@ -544,9 +528,25 @@
           "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
         }
       ],
-      "duration_ms": 167970,
-      "name": "Anh Ch\u1ec9 Mu\u1ed1n",
-      "url": "https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh"
+      "duration_ms": 206139,
+      "name": "N\u00f3i D\u1ed1i",
+      "url": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
+    },
+    {
+      "added_at": "2024-06-30 11:44:24",
+      "album": {
+        "name": "Thanh Xu\u00e2n",
+        "url": "https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw"
+      },
+      "artists": [
+        {
+          "name": "Da LAB",
+          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+        }
+      ],
+      "duration_ms": 220509,
+      "name": "Thanh Xu\u00e2n",
+      "url": "https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5"
     },
     {
       "added_at": "2024-06-30 11:44:24",
@@ -575,18 +575,22 @@
     {
       "added_at": "2024-06-30 11:44:24",
       "album": {
-        "name": "Thanh Xu\u00e2n",
-        "url": "https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw"
+        "name": "N\u1ea5u \u0103n cho em",
+        "url": "https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t"
       },
       "artists": [
         {
-          "name": "Da LAB",
-          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        },
+        {
+          "name": "PiaLinh",
+          "url": "https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54"
         }
       ],
-      "duration_ms": 220509,
-      "name": "Thanh Xu\u00e2n",
-      "url": "https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5"
+      "duration_ms": 241340,
+      "name": "N\u1ea5u \u0103n cho em",
+      "url": "https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6"
     },
     {
       "added_at": "2024-06-30 11:44:24",
@@ -655,22 +659,18 @@
     {
       "added_at": "2024-06-30 11:44:24",
       "album": {
-        "name": "N\u1ea5u \u0103n cho em",
-        "url": "https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t"
+        "name": "Anh Ch\u1ec9 Mu\u1ed1n",
+        "url": "https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf"
       },
       "artists": [
         {
-          "name": "\u0110en",
-          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
-        },
-        {
-          "name": "PiaLinh",
-          "url": "https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54"
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
         }
       ],
-      "duration_ms": 241340,
-      "name": "N\u1ea5u \u0103n cho em",
-      "url": "https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6"
+      "duration_ms": 167970,
+      "name": "Anh Ch\u1ec9 Mu\u1ed1n",
+      "url": "https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh"
     },
     {
       "added_at": "2024-06-30 11:44:24",
@@ -779,30 +779,6 @@
     {
       "added_at": "2024-06-30 11:44:24",
       "album": {
-        "name": "Xin \u0110\u1eebng Nh\u1ea5c M\u00e1y",
-        "url": "https://open.spotify.com/album/7Jzha1P8JmEFO0oyr3SbB8"
-      },
-      "artists": [
-        {
-          "name": "B Ray",
-          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
-        },
-        {
-          "name": "Han Sara",
-          "url": "https://open.spotify.com/artist/7sI2avJ3MyFstC9oKNM7py"
-        },
-        {
-          "name": "Masew",
-          "url": "https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq"
-        }
-      ],
-      "duration_ms": 187454,
-      "name": "Xin \u0110\u1eebng Nh\u1ea5c M\u00e1y",
-      "url": "https://open.spotify.com/track/4Rbnxa7kFSpCHNPJ3uZhtR"
-    },
-    {
-      "added_at": "2024-06-30 11:44:24",
-      "album": {
         "name": "H\u1eb9n G\u1eb7p Em D\u01b0\u1edbi \u00c1nh Tr\u0103ng",
         "url": "https://open.spotify.com/album/19nGMLMd8gjMQwgh2aYmsx"
       },
@@ -827,6 +803,30 @@
     {
       "added_at": "2024-06-30 11:44:24",
       "album": {
+        "name": "Xin \u0110\u1eebng Nh\u1ea5c M\u00e1y",
+        "url": "https://open.spotify.com/album/7Jzha1P8JmEFO0oyr3SbB8"
+      },
+      "artists": [
+        {
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+        },
+        {
+          "name": "Han Sara",
+          "url": "https://open.spotify.com/artist/7sI2avJ3MyFstC9oKNM7py"
+        },
+        {
+          "name": "Masew",
+          "url": "https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq"
+        }
+      ],
+      "duration_ms": 187454,
+      "name": "Xin \u0110\u1eebng Nh\u1ea5c M\u00e1y",
+      "url": "https://open.spotify.com/track/4Rbnxa7kFSpCHNPJ3uZhtR"
+    },
+    {
+      "added_at": "2024-06-30 11:44:24",
+      "album": {
         "name": "\u0110\u00e1nh \u0110\u1ed5i",
         "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
       },
@@ -843,22 +843,6 @@
       "duration_ms": 188256,
       "name": "S\u00e0i G\u00f2n \u01a1i",
       "url": "https://open.spotify.com/track/5BE96iX1TLgVHFDJPcKpkp"
-    },
-    {
-      "added_at": "2024-06-30 11:44:24",
-      "album": {
-        "name": "N\u1ee5 h\u00f4n Bisou",
-        "url": "https://open.spotify.com/album/1oMX4OfwGJgQj7KCBETcll"
-      },
-      "artists": [
-        {
-          "name": "L\u00e3ng",
-          "url": "https://open.spotify.com/artist/39HlpQmjGAer2XWNh0Ro83"
-        }
-      ],
-      "duration_ms": 156825,
-      "name": "N\u1ee5 h\u00f4n Bisou",
-      "url": "https://open.spotify.com/track/4TMdpMJNQdcawl8JjZEwLk"
     },
     {
       "added_at": "2024-06-30 11:44:24",
@@ -883,6 +867,22 @@
       "duration_ms": 178823,
       "name": "TOKYO Cypher",
       "url": "https://open.spotify.com/track/0eKIEiMHZv0pOxz4iGOXda"
+    },
+    {
+      "added_at": "2024-06-30 11:44:24",
+      "album": {
+        "name": "N\u1ee5 h\u00f4n Bisou",
+        "url": "https://open.spotify.com/album/1oMX4OfwGJgQj7KCBETcll"
+      },
+      "artists": [
+        {
+          "name": "L\u00e3ng",
+          "url": "https://open.spotify.com/artist/39HlpQmjGAer2XWNh0Ro83"
+        }
+      ],
+      "duration_ms": 156825,
+      "name": "N\u1ee5 h\u00f4n Bisou",
+      "url": "https://open.spotify.com/track/4TMdpMJNQdcawl8JjZEwLk"
     },
     {
       "added_at": "2024-06-30 11:44:24",

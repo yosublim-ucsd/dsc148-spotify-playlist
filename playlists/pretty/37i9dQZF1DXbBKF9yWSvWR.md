@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > For your daily dosis of music with an Indie twist\. Cover: Sylvie Kreusch
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,293 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,325 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

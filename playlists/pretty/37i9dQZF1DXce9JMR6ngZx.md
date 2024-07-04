@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 
 > Grandes sucessos dos anos 80 para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,203 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,218 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 52 | [Tempo Perdido](https://open.spotify.com/track/7MnT7msJZg3XBAS0OTfGrB) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Dois](https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn) | 5:02 |
 | 53 | [Come Undone](https://open.spotify.com/track/0yfNXxlyXdmP0ue1iJijx1) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran](https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T) | 4:16 |
 | 54 | [Video Killed The Radio Star](https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ) | 4:12 |
-| 55 | [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 |
-| 56 | [New Sensation](https://open.spotify.com/track/2xcrseImDFEf8Urommws03) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick \(Remastered 2011\)](https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu) | 3:40 |
+| 55 | [New Sensation](https://open.spotify.com/track/2xcrseImDFEf8Urommws03) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick \(Remastered 2011\)](https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu) | 3:40 |
+| 56 | [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 |
 | 57 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 |
 | 58 | [Inbetween Days](https://open.spotify.com/track/4CRpOsjhvgxjF7rQufmyZ1) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 2:57 |
 | 59 | [It's The End Of The World As We Know It \(And I Feel Fine\)](https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 4:06 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 71 | [Save a Prayer \- 2009 Remaster](https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 5:33 |
 | 72 | [Papa Don't Preach](https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:28 |
 | 73 | [Blue Monday '88](https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [The Best of New Order](https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ) | 4:04 |
-| 74 | [Sledgehammer](https://open.spotify.com/track/029NqmIySn1kOY305AAhxT) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 5:13 |
-| 75 | [Domino Dancing](https://open.spotify.com/track/4mVLzFbc3gaCoWCEENLouc) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Discography \- Complete Singles Collection](https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy) | 4:18 |
+| 74 | [Domino Dancing](https://open.spotify.com/track/4mVLzFbc3gaCoWCEENLouc) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Discography \- Complete Singles Collection](https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy) | 4:18 |
+| 75 | [Sledgehammer](https://open.spotify.com/track/029NqmIySn1kOY305AAhxT) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 5:13 |
 | 76 | [Menina Veneno](https://open.spotify.com/track/6qlb3j0zGqEe6uWJpQZGxP) | [Ritchie](https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV) | [Vôo de Coração](https://open.spotify.com/album/2folhiorW4UtZhloQOUqZt) | 4:41 |
 | 77 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
 | 78 | [O Descobridor Dos Sete Mares](https://open.spotify.com/track/6wpDQGn3Gl0j9Wt6D6mYvQ) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [O Descobridor Dos Sete Mares](https://open.spotify.com/album/7Ff0Q5oeEoVKHtxJJoXyId) | 4:25 |

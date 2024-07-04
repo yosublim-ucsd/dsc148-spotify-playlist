@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: Chilli Beans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,346 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,383 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,14 +66,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 56 | [求世主](https://open.spotify.com/track/4pepZPoJKPADagQMy69JA6) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [求世主](https://open.spotify.com/album/1Z4xjX90L8CstAWrwkk1Mr) | 2:57 |
 | 57 | [行方知れず](https://open.spotify.com/track/5eCSuo6fXYTzm6WyWkeOxV) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [行方知れず](https://open.spotify.com/album/6VqJt1oGF2UvWBiKJNW97J) | 3:09 |
 | 58 | [ピンクブルー](https://open.spotify.com/track/1VRwCezjpvjnCrab92b1dk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [pink blue](https://open.spotify.com/album/07kXEBPM0KuSkMTr73giQ0) | 3:56 |
-| 59 | [全力少年](https://open.spotify.com/track/2UQlnlufT4f07D2NKGjaZP) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SUKIMASWITCH 20th Anniversary Tribute Album『みんなのスキマスイッチ』](https://open.spotify.com/album/5sVfcsT0j9S6Um1TG2PQKw) | 3:58 |
+| 59 | [夏恋注意報](https://open.spotify.com/track/1AB5STSw5kjkOSmie1dkYb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [夏恋注意報](https://open.spotify.com/album/2YPfXFSP0eiV5W0WnVyJUM) | 4:49 |
 | 60 | [スケベなだけで金がない](https://open.spotify.com/track/2LhQsqnq5uyTtuobpoHCat) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [スケベなだけで金がない](https://open.spotify.com/album/5Ar3B8oObwuJfIuHQQIpDg) | 2:39 |
 | 61 | [snowspring](https://open.spotify.com/track/7tonj11VpAOhsOH7QgJPhq) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [snowspring](https://open.spotify.com/album/6097pqjwHjLkbbWj30WQmt) | 3:42 |
 | 62 | [双葉](https://open.spotify.com/track/0IAX0LbVY440WWJyOyuLw7) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [双葉](https://open.spotify.com/album/2iFDmdWIklUksYTCnbiuFw) | 4:37 |
 | 63 | [可愛いユナちゃん](https://open.spotify.com/track/51Wglv2PINrDBmgjFBZAet) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [可愛いユナちゃん](https://open.spotify.com/album/2Tq9r4PxlmsRHur9umG7Aw) | 3:59 |
 | 64 | [rose \- feat\. Vaundy](https://open.spotify.com/track/72DWkd9AazMHYDafzpq4XF) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [mixtape](https://open.spotify.com/album/3kbR4fhps595HxImAmVHvY) | 3:07 |
 | 65 | [ゴーストダイブ](https://open.spotify.com/track/3YSYq98AiBIXAj8GCW3wbd) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [ゴーストダイブ](https://open.spotify.com/album/22Y4CMkBXjaGCVfzNrtdEw) | 3:18 |
-| 66 | [夏恋注意報](https://open.spotify.com/track/1AB5STSw5kjkOSmie1dkYb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [夏恋注意報](https://open.spotify.com/album/2YPfXFSP0eiV5W0WnVyJUM) | 4:49 |
+| 66 | [全力少年](https://open.spotify.com/track/2UQlnlufT4f07D2NKGjaZP) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SUKIMASWITCH 20th Anniversary Tribute Album『みんなのスキマスイッチ』](https://open.spotify.com/album/5sVfcsT0j9S6Um1TG2PQKw) | 3:58 |
 | 67 | [Musica](https://open.spotify.com/track/1ZcyDDA4S9BQxJaVQNiKQ1) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [Musica](https://open.spotify.com/album/15OsgQLfIzPAHgb8tXQ5XA) | 3:03 |
 | 68 | [今晩の喧嘩](https://open.spotify.com/track/5BJNsJTrmjn21Y3K0eTxfK) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [今晩の喧嘩](https://open.spotify.com/album/3yjTA6CkYo5kvlZCvIIdDb) | 3:41 |
 | 69 | [line](https://open.spotify.com/track/1OvRhgVMmySVSreV9YnoBW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [around dusk](https://open.spotify.com/album/4XG2t9y3aHT7IjCFn3jwNF) | 3:01 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 72 | [月が満ちる](https://open.spotify.com/track/3erxP0Da6Dlzpd5eRLtob4) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [月が満ちる](https://open.spotify.com/album/0ED9qF7KdOO7iKzGeYFViE) | 3:26 |
 | 73 | [sister](https://open.spotify.com/track/2neojiNTVF8n3ppd05DCG7) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [sister](https://open.spotify.com/album/0cVF2WkVGfPsebD9GpRfGu) | 3:54 |
 | 74 | [ハッピーニューデイ](https://open.spotify.com/track/1KARoUcHOGpjPwm2on3JV5) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [ハッピーニューデイ](https://open.spotify.com/album/2sWvgDH6Yk64jaqlpJ0ZOY) | 3:07 |
-| 75 | [Bye\-Bye Show](https://open.spotify.com/track/7pBLnIBcAqIQ2NHVvJeNfA) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/3kL7hk71Spv76STO0skLct) | 4:41 |
+| 75 | [日めくり](https://open.spotify.com/track/4Nd1y0aG03EDeGfQCK3xYI) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [日めくり](https://open.spotify.com/album/2jkkq1aokB7b34getZR22S) | 3:53 |
 
 Snapshot ID: `ZnrbcAAAAABXT4OqwxH295YJK9cFZq2j`

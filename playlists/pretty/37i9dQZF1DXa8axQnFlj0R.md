@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 
 > The playlist version of a warm hug
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,801 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,790 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 46 | [Dog Years](https://open.spotify.com/track/5RRNZFyOi17nTh2bPEKPtp) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Now That The Light Is Fading](https://open.spotify.com/album/16wZsyXQ463IYlrXyJnRfY) | 4:37 |
 | 47 | [Nobody Knows](https://open.spotify.com/track/7A0FGrZsLgOUmeNtMTnt4z) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Pete's Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1YrocR69AHthl982tykNpQ) | 3:08 |
 | 48 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 |
-| 49 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 |
-| 50 | [Autumn Leaves \- Deluxe Edition](https://open.spotify.com/track/7iBSkXB0pTvZasOLf0Qxk9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 3:20 |
+| 49 | [Autumn Leaves \- Deluxe Edition](https://open.spotify.com/track/7iBSkXB0pTvZasOLf0Qxk9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 3:20 |
+| 50 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 |
 | 51 | [I have more than enough](https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [I have more than enough](https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6) | 5:28 |
 | 52 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 |
 | 53 | [Real Estate](https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Real Estate](https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI) | 3:36 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 61 | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/track/4kcnySwaXAKatz4c5U8MSI) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/album/3fXVr1gH016lXMwp2skLDu) | 2:57 |
 | 62 | [You Needed Love, I Needed You](https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:25 |
 | 63 | [the author](https://open.spotify.com/track/0uqFo6F9DppKZtwm3zhG3s) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [the author](https://open.spotify.com/album/0Uee3lkF3m9B8KIVFr4y9p) | 3:37 |
-| 64 | [Ophelia](https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO) | 2:40 |
-| 65 | [Don't You Worry](https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:39 |
+| 64 | [Don't You Worry](https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:39 |
+| 65 | [Ophelia](https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO) | 2:40 |
 | 66 | [Darling](https://open.spotify.com/track/39nc7C7C7iIJtVAlNznst7) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 3:02 |
 | 67 | [when the party’s over](https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:13 |
 | 68 | [Delicious Things](https://open.spotify.com/track/6pAfAhSBOeNi5Tw8AfB5RQ) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 5:04 |

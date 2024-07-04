@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 942,905 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 943,287 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 29 | [Institutionalized](https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Suicidal Tendencies](https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO) | 3:49 |
 | 30 | [Dig Up Her Bones](https://open.spotify.com/track/16MPZDpM5JTtIBs3pOMSWx) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [American Psycho](https://open.spotify.com/album/3HJcuW4PqFGNhM9TkCMkfC) | 3:00 |
 | 31 | [I Wanna Be Sedated \- 2002 Remaster](https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(Expanded 2005 Remaster\)](https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE) | 2:29 |
-| 32 | [About a Girl](https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [Fast Times At Barrington High](https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ) | 3:30 |
-| 33 | [When Your Heart Stops Beating](https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA) | 3:12 |
+| 32 | [When Your Heart Stops Beating](https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA) | 3:12 |
+| 33 | [About a Girl](https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [Fast Times At Barrington High](https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ) | 3:30 |
 | 34 | [Gave You Everything](https://open.spotify.com/track/4C0ZP5m9z0pfefQHUhach5) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 3:07 |
 | 35 | [Keep This Up](https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Proper Dose](https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0) | 2:26 |
 | 36 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 61 | [Sonic Reducer](https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 3:09 |
 | 62 | [A Detailed and Poetic Physical Threat to the Person Who Intentionally Vandalized My 1994 Dodge Intrepid Behind Kate's Apartment](https://open.spotify.com/track/7wHQdtNmqxZ5XdAg2pcgaV) | [Pet Symmetry](https://open.spotify.com/artist/25o7TtaXwjIHjQnqXH670G) | [Two Songs About Cars\. Two Songs with Long Titles.](https://open.spotify.com/album/0jLwpPQ6HufBW9KW5JPxOV) | 2:48 |
 | 63 | [What I Got](https://open.spotify.com/track/5nkYHBWXu7KCgcdwP6jcB1) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q) | 2:51 |
-| 64 | [To Have And To Have Not](https://open.spotify.com/track/2KeEzXxpADVpW1gbUj0rS7) | [Lars Frederiksen and the Bastards](https://open.spotify.com/artist/64HBI5GPR0TqM0TyAKu0nG) | [Lars Frederiksen And The Bastards](https://open.spotify.com/album/4NnKPdKvKmfX4b8OgPf9uP) | 2:46 |
-| 65 | [Skeletons](https://open.spotify.com/track/6L7yRELeAvbRXxIrvyznmY) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [Skeletons](https://open.spotify.com/album/6uc6QxoKV2rtCssHIH4BQe) | 2:48 |
-| 66 | [The Perfect Crime](https://open.spotify.com/track/5rRwE8PjHsBXfvQ2toLAA9) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [The Perfect Crime](https://open.spotify.com/album/2ZWhDKzgWckMPzdKzbh4bf) | 3:26 |
-| 67 | [Revolution](https://open.spotify.com/track/3Aj9YBpLwMSqe55JNLhNQM) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [Andiamo \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/26DSJ5UgCat5UB3CPX7DlK) | 2:24 |
+| 64 | [Revolution](https://open.spotify.com/track/3Aj9YBpLwMSqe55JNLhNQM) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [Andiamo \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/26DSJ5UgCat5UB3CPX7DlK) | 2:24 |
+| 65 | [To Have And To Have Not](https://open.spotify.com/track/2KeEzXxpADVpW1gbUj0rS7) | [Lars Frederiksen and the Bastards](https://open.spotify.com/artist/64HBI5GPR0TqM0TyAKu0nG) | [Lars Frederiksen And The Bastards](https://open.spotify.com/album/4NnKPdKvKmfX4b8OgPf9uP) | 2:46 |
+| 66 | [Skeletons](https://open.spotify.com/track/6L7yRELeAvbRXxIrvyznmY) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [Skeletons](https://open.spotify.com/album/6uc6QxoKV2rtCssHIH4BQe) | 2:48 |
+| 67 | [The Perfect Crime](https://open.spotify.com/track/5rRwE8PjHsBXfvQ2toLAA9) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [The Perfect Crime](https://open.spotify.com/album/2ZWhDKzgWckMPzdKzbh4bf) | 3:26 |
 | 68 | [I Believe I Can Fly](https://open.spotify.com/track/6C0JXC9vaaoX5aa6A7tWf4) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Take a Break](https://open.spotify.com/album/4cgMkeavjD3BGNfQBVwrU3) | 3:01 |
 | 69 | [Live While You Can](https://open.spotify.com/track/4YdSK6GVALPUDNij64lZ9F) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:37 |
 | 70 | [Walk the Walk](https://open.spotify.com/track/4A2ACnyRUwxcfKiQypDwFy) | [Face To Face](https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd) | [Face to Face \(Remastered\)](https://open.spotify.com/album/7KoYGyH8oK5m3hp5UhcBFY) | 3:35 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 77 | [The Best I Ever Had](https://open.spotify.com/track/1FTBGFF2CJIEsMdkRMHo6z) | [The Swellers](https://open.spotify.com/artist/1xpkFcz84H5OVOgbDGcYxw) | [Good For Me](https://open.spotify.com/album/0PWYiujWx6nKNDXAcBQwaA) | 3:59 |
 | 78 | [Heart Attack American](https://open.spotify.com/track/0k483dcMGE6ylstRbUss1p) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(I\)](https://open.spotify.com/album/2lw3G0wkNGiKASHDAZp2s4) | 2:51 |
 | 79 | [Punk Rock And Roll](https://open.spotify.com/track/2bwvIrD9qzR39vHHvYDasm) | [Street Dogs](https://open.spotify.com/artist/0spqoVkfVzRyAPmA6ZY5F9) | [Street Dogs \(Deluxe Edition\)](https://open.spotify.com/album/5MTaJz4tetHALsZ86ghDbC) | 2:34 |
-| 80 | [Cadillac](https://open.spotify.com/track/2INPZO3P759ZWNgRSmPBUS) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK) | [Destination Unknown \(PA Version\)](https://open.spotify.com/album/4UATOCWLlBFbKOvIHo8jOj) | 2:47 |
-| 81 | [Die for the Government](https://open.spotify.com/track/32DlWww7sxo7y6yJEgSeP9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 3:39 |
+| 80 | [Die for the Government](https://open.spotify.com/track/32DlWww7sxo7y6yJEgSeP9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 3:39 |
+| 81 | [Cadillac](https://open.spotify.com/track/2INPZO3P759ZWNgRSmPBUS) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK) | [Destination Unknown \(PA Version\)](https://open.spotify.com/album/4UATOCWLlBFbKOvIHo8jOj) | 2:47 |
 | 82 | [Holiday in Cambodia](https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Fresh Fruit for Rotting Vegetables](https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E) | 4:37 |
 | 83 | [hollywood sucks//](https://open.spotify.com/track/1OGVFkHHzgupyil0N386Q5) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [hollywood sucks//](https://open.spotify.com/album/6EIefsY4fYzZZTGdrEEoH1) | 2:33 |
 | 84 | [Analog](https://open.spotify.com/track/6kXCBheyqOjVbNkJoj2yE9) | [Strung Out](https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg) | [Exile in Oblivion](https://open.spotify.com/album/1o4qdotzTDa8OD9uyDe61j) | 2:55 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 95 | [SOS](https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [SOS](https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711) | 3:19 |
 | 96 | [All My Friends Are Nobodies](https://open.spotify.com/track/451h1BW2NaOBnMXnbRJhkG) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 |
 | 97 | [Lie to Me](https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings](https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O) | 3:38 |
-| 98 | [Gangsters and Thugs](https://open.spotify.com/track/77LJcGtVHqhMssgqJgzpRi) | [Transplants](https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q) | [Haunted Cities](https://open.spotify.com/album/10mexDSzBb2FQtuWTJs5l8) | 3:54 |
-| 99 | [Knifeman](https://open.spotify.com/track/3jGUd86f3hLJixceqMxHWi) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(III\)](https://open.spotify.com/album/1wV7SCqsLLBObCcrPpc6sZ) | 3:55 |
+| 98 | [Knifeman](https://open.spotify.com/track/3jGUd86f3hLJixceqMxHWi) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(III\)](https://open.spotify.com/album/1wV7SCqsLLBObCcrPpc6sZ) | 3:55 |
+| 99 | [Gangsters and Thugs](https://open.spotify.com/track/77LJcGtVHqhMssgqJgzpRi) | [Transplants](https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q) | [Haunted Cities](https://open.spotify.com/album/10mexDSzBb2FQtuWTJs5l8) | 3:54 |
 | 100 | [Shoot the Moon](https://open.spotify.com/track/74Y2eYNC5SFEaekY8epIKR) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [Firme](https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD) | 3:13 |
 
 Snapshot ID: `ZlkG7QAAAAB6h+uVg7eRAPt3pmLg3yqZ`

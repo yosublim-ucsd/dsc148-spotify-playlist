@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 
 > Non\-stop energy, riffs and belters.\. it never gets old, no guest list required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,643 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,670 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 | 13 | [Obstacle 1](https://open.spotify.com/track/1ZBqJilDGBVYktvlCEo9jC) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:11 |
 | 14 | [On the Back Burner](https://open.spotify.com/track/6eczJiyXPukaEhiA6OPPtk) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Alcopops & Charity Shops](https://open.spotify.com/album/5RXX48BI3S6SlvMo1cX5jB) | 2:06 |
 | 15 | [Pacifier](https://open.spotify.com/track/1rcu88dzWE5GyqtpuWvd0C) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 3:57 |
-| 16 | [Boys In the Better Land](https://open.spotify.com/track/2dxXKqqpSV4eCgPxC6t8mn) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7) | 5:00 |
-| 17 | [Never Fight A Man With A Perm](https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Joy as an Act of Resistance.](https://open.spotify.com/album/2vBa3poU0e82yfPtxcn9lg) | 3:48 |
-| 18 | [Rock 'n' Roll Star \- Remastered](https://open.spotify.com/track/4bQHPFjRT6O1KdMCd4cD9u) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 5:22 |
-| 19 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 |
+| 16 | [Never Fight A Man With A Perm](https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Joy as an Act of Resistance.](https://open.spotify.com/album/2vBa3poU0e82yfPtxcn9lg) | 3:48 |
+| 17 | [Boys In the Better Land](https://open.spotify.com/track/2dxXKqqpSV4eCgPxC6t8mn) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7) | 5:00 |
+| 18 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 |
+| 19 | [Rock 'n' Roll Star \- Remastered](https://open.spotify.com/track/4bQHPFjRT6O1KdMCd4cD9u) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 5:22 |
 | 20 | [Thank God I'm Not You](https://open.spotify.com/track/65cQN8pUC0dkKryUhEqJPh) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Thank God I'm Not You](https://open.spotify.com/album/0AnzrEVccYHdrlJd1G5Qpy) | 3:14 |
 | 21 | [Eyes](https://open.spotify.com/track/4IixKf4WnlQ56QPwHchEO5) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Mushroom Death Sex Bummer Party](https://open.spotify.com/album/1xdQqexBnhvycuqFc6KUh9) | 1:30 |
 | 22 | [Lounge Act](https://open.spotify.com/track/7glld4kxYHp61zIPtSVHNk) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 2:36 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 | 47 | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt) | 2:43 |
 | 48 | [Headshrinker \- Remastered](https://open.spotify.com/track/32drzZQvRLJ5oEVYQgIfJC) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:41 |
 | 49 | [Howdon Aldi Death Queue](https://open.spotify.com/track/5305FSV0HgZDeC0QwYxhVd) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under](https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4) | 1:57 |
-| 50 | [Here's The Thing](https://open.spotify.com/track/08WlCqv58b7ivVAHcOygTp) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Deep Down Happy](https://open.spotify.com/album/7IQGnVFNKh5oy8g6D1oq3y) | 2:55 |
+| 50 | [Muzzle](https://open.spotify.com/track/5Xkb7aUxlFlV2NjKAWk7LC) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Muzzle](https://open.spotify.com/album/4oqVp6xSsw3oaiqlnho7gM) | 1:02 |
 
 Snapshot ID: `ZIxXfgAAAAD9KzEC6Vh+LlHSgaWX/Gb0`

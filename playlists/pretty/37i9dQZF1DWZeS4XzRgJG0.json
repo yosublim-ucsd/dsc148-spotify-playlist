@@ -1,6 +1,6 @@
 {
   "description": "sorry ik kan niet... moet studeren",
-  "num_followers": 32115,
+  "num_followers": 32125,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-06-24 09:29:59",
       "album": {
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+    },
+    {
+      "added_at": "2024-06-24 09:29:59",
+      "album": {
         "name": "See You Again (feat. Charlie Puth)",
         "url": "https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 229525,
       "name": "See You Again (feat. Charlie Puth)",
       "url": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc"
-    },
-    {
-      "added_at": "2024-06-24 09:29:59",
-      "album": {
-        "name": "X&Y",
-        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
     },
     {
       "added_at": "2024-06-24 09:29:59",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-06-24 09:29:59",
       "album": {
-        "name": "All That We Needed",
-        "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
-      },
-      "artists": [
-        {
-          "name": "Plain White T's",
-          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Hey There Delilah",
-      "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
-    },
-    {
-      "added_at": "2024-06-24 09:29:59",
-      "album": {
         "name": "Back from the Edge",
         "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 208826,
       "name": "Train Wreck",
       "url": "https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H"
+    },
+    {
+      "added_at": "2024-06-24 09:29:59",
+      "album": {
+        "name": "All That We Needed",
+        "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
+      },
+      "artists": [
+        {
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Hey There Delilah",
+      "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
     },
     {
       "added_at": "2024-06-24 09:29:59",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-06-24 09:29:59",
       "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 274693,
-      "name": "You Say",
-      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
-    },
-    {
-      "added_at": "2024-06-24 09:29:59",
-      "album": {
         "name": "Remember That Night?",
         "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 227186,
       "name": "Remember That Night?",
       "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
+    },
+    {
+      "added_at": "2024-06-24 09:29:59",
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 274693,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
     },
     {
       "added_at": "2024-06-24 09:29:59",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-06-24 09:29:59",
       "album": {
-        "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2lkbTVYUYHXoXt17WXIAVc"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 285120,
-      "name": "a thousand years",
-      "url": "https://open.spotify.com/track/6z5Yh7kOKeLjqIsNdokIpU"
-    },
-    {
-      "added_at": "2024-06-24 09:29:59",
-      "album": {
         "name": "If You Leave",
         "url": "https://open.spotify.com/album/74ShfU6i2GfPyqwdc5uGl7"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 253013,
       "name": "Youth",
       "url": "https://open.spotify.com/track/2Ck6gblyk3UFCVPTh8o3TN"
+    },
+    {
+      "added_at": "2024-06-24 09:29:59",
+      "album": {
+        "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2lkbTVYUYHXoXt17WXIAVc"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "duration_ms": 285120,
+      "name": "a thousand years",
+      "url": "https://open.spotify.com/track/6z5Yh7kOKeLjqIsNdokIpU"
     },
     {
       "added_at": "2024-06-24 09:29:59",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-06-24 09:29:59",
       "album": {
-        "name": "Fire On Fire (From \"Watership Down\")",
-        "url": "https://open.spotify.com/album/5utJfkRQ5yEIat3AIK6WIL"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 246735,
-      "name": "Fire On Fire - From \"Watership Down\"",
-      "url": "https://open.spotify.com/track/5rFj8OzffT0iggSjcBaeND"
-    },
-    {
-      "added_at": "2024-06-24 09:29:59",
-      "album": {
         "name": "Are You With Me",
         "url": "https://open.spotify.com/album/4VpZ0Le2LUhUYERoNUtRZd"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 249661,
       "name": "Are You With Me",
       "url": "https://open.spotify.com/track/401MfYscl2EMF4nDbnbG0K"
+    },
+    {
+      "added_at": "2024-06-24 09:29:59",
+      "album": {
+        "name": "Fire On Fire (From \"Watership Down\")",
+        "url": "https://open.spotify.com/album/5utJfkRQ5yEIat3AIK6WIL"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 246735,
+      "name": "Fire On Fire - From \"Watership Down\"",
+      "url": "https://open.spotify.com/track/5rFj8OzffT0iggSjcBaeND"
     },
     {
       "added_at": "2024-06-24 09:29:59",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-06-24 09:29:59",
       "album": {
-        "name": "Vienna",
-        "url": "https://open.spotify.com/album/6jNeC1ZND8Cd5GzetoprLH"
-      },
-      "artists": [
-        {
-          "name": "Gretta Ray",
-          "url": "https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek"
-        }
-      ],
-      "duration_ms": 163209,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/6wgut7kOpJaVp3ge69Noou"
-    },
-    {
-      "added_at": "2024-06-24 09:29:59",
-      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 224743,
       "name": "You Said You'd Grow Old With Me",
       "url": "https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL"
+    },
+    {
+      "added_at": "2024-06-24 09:29:59",
+      "album": {
+        "name": "Vienna",
+        "url": "https://open.spotify.com/album/6jNeC1ZND8Cd5GzetoprLH"
+      },
+      "artists": [
+        {
+          "name": "Gretta Ray",
+          "url": "https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek"
+        }
+      ],
+      "duration_ms": 163209,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/6wgut7kOpJaVp3ge69Noou"
     },
     {
       "added_at": "2024-06-24 09:29:59",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2024-06-24 09:29:59",
       "album": {
-        "name": "Universe",
-        "url": "https://open.spotify.com/album/1nmF0O0ff5o47buSCKTWrx"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 166941,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/6qJXOI2wHjE98wEOruUd0w"
-    },
-    {
-      "added_at": "2024-06-24 09:29:59",
-      "album": {
         "name": "My World Untouched",
         "url": "https://open.spotify.com/album/5u01rNslPPnklsyWLoUaJa"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 223120,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/1fmPvEu7fVUL8Png48XMGj"
+    },
+    {
+      "added_at": "2024-06-24 09:29:59",
+      "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/1nmF0O0ff5o47buSCKTWrx"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 166941,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/6qJXOI2wHjE98wEOruUd0w"
     },
     {
       "added_at": "2024-06-24 09:29:59",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2024-06-24 09:29:59",
       "album": {
-        "name": "Happiest Year",
-        "url": "https://open.spotify.com/album/2LJiFAtg7CyHrkUGr4mwGl"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 228442,
-      "name": "Happiest Year",
-      "url": "https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh"
-    },
-    {
-      "added_at": "2024-06-24 09:29:59",
-      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/5Q1DDLoSIkSgwPCGH6luio"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 202496,
       "name": "One Day",
       "url": "https://open.spotify.com/track/27r2uANqwK7XbsiAZnzf9e"
+    },
+    {
+      "added_at": "2024-06-24 09:29:59",
+      "album": {
+        "name": "Happiest Year",
+        "url": "https://open.spotify.com/album/2LJiFAtg7CyHrkUGr4mwGl"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 228442,
+      "name": "Happiest Year",
+      "url": "https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh"
     },
     {
       "added_at": "2024-06-24 09:29:59",
@@ -2527,6 +2527,22 @@
     {
       "added_at": "2024-06-24 09:29:59",
       "album": {
+        "name": "Teenage Mind",
+        "url": "https://open.spotify.com/album/37QVZrBFuo9PSLz6boslFw"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 155205,
+      "name": "Teenage Mind",
+      "url": "https://open.spotify.com/track/70vdb3Nf9sUaOax5c6phOT"
+    },
+    {
+      "added_at": "2024-06-24 09:29:59",
+      "album": {
         "name": "Dancing On My Own",
         "url": "https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga"
       },
@@ -2559,18 +2575,18 @@
     {
       "added_at": "2024-06-24 09:29:59",
       "album": {
-        "name": "Teenage Mind",
-        "url": "https://open.spotify.com/album/37QVZrBFuo9PSLz6boslFw"
+        "name": "In A Perfect World",
+        "url": "https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
         }
       ],
-      "duration_ms": 155205,
-      "name": "Teenage Mind",
-      "url": "https://open.spotify.com/track/70vdb3Nf9sUaOax5c6phOT"
+      "duration_ms": 305746,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2"
     },
     {
       "added_at": "2024-06-24 09:29:59",
@@ -2611,34 +2627,18 @@
     {
       "added_at": "2024-06-24 09:29:59",
       "album": {
-        "name": "In A Perfect World",
-        "url": "https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL"
+        "name": "7 Years",
+        "url": "https://open.spotify.com/album/2EiK8K5y2z2RFVP6ZBnnOO"
       },
       "artists": [
         {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
         }
       ],
-      "duration_ms": 305746,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2"
-    },
-    {
-      "added_at": "2024-06-24 09:29:59",
-      "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/7abPoR0SXjsHVkHquLrV7B"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/3wm0791j8FPkG7RUYljgr8"
+      "duration_ms": 237300,
+      "name": "7 Years",
+      "url": "https://open.spotify.com/track/2vDT1uU6hZgdp3PbWGr0Xy"
     },
     {
       "added_at": "2024-06-24 09:29:59",
@@ -2655,6 +2655,22 @@
       "duration_ms": 290900,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl"
+    },
+    {
+      "added_at": "2024-06-24 09:29:59",
+      "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/7abPoR0SXjsHVkHquLrV7B"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/3wm0791j8FPkG7RUYljgr8"
     },
     {
       "added_at": "2024-06-24 09:29:59",
@@ -2687,22 +2703,6 @@
       "duration_ms": 232852,
       "name": "This Town",
       "url": "https://open.spotify.com/track/3UwT4FadEGWyMdaSwYcUBY"
-    },
-    {
-      "added_at": "2024-06-24 09:29:59",
-      "album": {
-        "name": "7 Years",
-        "url": "https://open.spotify.com/album/2EiK8K5y2z2RFVP6ZBnnOO"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 237300,
-      "name": "7 Years",
-      "url": "https://open.spotify.com/track/2vDT1uU6hZgdp3PbWGr0Xy"
     },
     {
       "added_at": "2024-06-24 09:29:59",

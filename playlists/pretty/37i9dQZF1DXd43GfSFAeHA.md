@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Dollypran
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,265 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,387 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 36 | [Hajes](https://open.spotify.com/track/4YwBQlGau4lH5J8L9C7LV1) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT), [Ruhmvn](https://open.spotify.com/artist/5cRscGfILoBPh338Cmikjn) | [Valhalla](https://open.spotify.com/album/2Rnk0M57sZhNgN3IyjOvcP) | 4:00 |
 | 37 | [Baby](https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 3:06 |
 | 38 | [SHED F TARFO](https://open.spotify.com/track/7p9fo8NM2SrquqIn1rhYNH) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL) | [SHED F TARFO](https://open.spotify.com/album/6MMlotsbFacSgj8QFi1TSf) | 2:36 |
-| 39 | [3al hady](https://open.spotify.com/track/2xo7e1lWaLrmHqRyITPSlT) | [Uglymoss](https://open.spotify.com/artist/0FnIoDE1vDMSPMCXpfmLFW) | [3al hady](https://open.spotify.com/album/1Ae5dRJaDBUqCjTE33f15F) | 2:48 |
-| 40 | [LUX FREESTYLE](https://open.spotify.com/track/2TqVFWAKTKCkGXMFRff6D4) | [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD) | [LUX FREESTYLE](https://open.spotify.com/album/3Xlkyo7QJJX1Kzk9k4A0qp) | 2:29 |
+| 39 | [LUX FREESTYLE](https://open.spotify.com/track/2TqVFWAKTKCkGXMFRff6D4) | [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD) | [LUX FREESTYLE](https://open.spotify.com/album/3Xlkyo7QJJX1Kzk9k4A0qp) | 2:29 |
+| 40 | [3al hady](https://open.spotify.com/track/2xo7e1lWaLrmHqRyITPSlT) | [Uglymoss](https://open.spotify.com/artist/0FnIoDE1vDMSPMCXpfmLFW) | [3al hady](https://open.spotify.com/album/1Ae5dRJaDBUqCjTE33f15F) | 2:48 |
 | 41 | [3andy Sahb](https://open.spotify.com/track/5wUv8kas7QKIrUeSLOfdYd) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [3andy Saheb](https://open.spotify.com/album/2HYmYflHK4DpNoInSWekSR) | 2:48 |
 | 42 | [Jabra Vu](https://open.spotify.com/track/4lWFersonZ1v1QwwIi7ohZ) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 2:17 |
 | 43 | [الحقيقة](https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb) | [Connan](https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45) | [الحقيقة](https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE) | 2:06 |

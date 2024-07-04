@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 133333,
       "name": "ARABA",
       "url": "https://open.spotify.com/track/5tjWDHOCqsbKPuiivil0BM"
@@ -296,6 +296,24 @@
       "duration_ms": 142600,
       "name": "Elini Ver",
       "url": "https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR"
+    },
+    {
+      "album": {
+        "name": "Kar\u0131\u015f\u0131k Kaset",
+        "url": "https://open.spotify.com/album/5SHv3oXpZdmsqHt57lY0Yg"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185799,
+      "name": "Eyvah Neye Yarar",
+      "url": "https://open.spotify.com/track/5wSj1BUYLvYf8NWJy9MQuM"
     },
     {
       "album": {
@@ -606,10 +624,32 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-04",
       "duration_ms": 196075,
       "name": "Lan",
       "url": "https://open.spotify.com/track/1whKKdtCiFjN7MW7DrIRUH"
+    },
+    {
+      "album": {
+        "name": "Daha Derine",
+        "url": "https://open.spotify.com/album/6gj3CjEPM2m4tWzLgVURTE"
+      },
+      "artists": [
+        {
+          "name": "Murat Dalk\u0131l\u0131\u00e7",
+          "url": "https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx"
+        },
+        {
+          "name": "Boygar",
+          "url": "https://open.spotify.com/artist/4PJjx45YgWsvQ8srXC2Txe"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194646,
+      "name": "Leyla",
+      "url": "https://open.spotify.com/track/1yNlQwfPdHQg1ynxfBbk2a"
     },
     {
       "album": {

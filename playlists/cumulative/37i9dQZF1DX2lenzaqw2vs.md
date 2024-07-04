@@ -2,7 +2,7 @@
 
 ### [BRILLO](https://open.spotify.com/playlist/37i9dQZF1DX2lenzaqw2vs)
 
-> Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Alex Anwandter
+> Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Paz Carrara
 
 351 songs - 19 hr 12 min
 

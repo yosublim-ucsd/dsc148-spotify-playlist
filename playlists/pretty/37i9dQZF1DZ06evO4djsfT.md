@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,556 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,571 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 49 | [I'll Love](https://open.spotify.com/track/6yphKxAbj32Dyx6qTl4eGv) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Tenroc](https://open.spotify.com/artist/3vnbIS2AvqaGbE5aiz6ZAu) | [His Glory Alone II \(Deluxe\)](https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS) | 3:26 |
 | 50 | [Sideways](https://open.spotify.com/track/7qzqx1R7HHWKcwioMAqX2M) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Tomorrow We Live](https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR) | 4:14 |
 
-Snapshot ID: `ZoHxgAAAAAAYZIL3+2PQr7T5T1Vp87dG`
+Snapshot ID: `ZoNDAAAAAADYk7TxrsOchD0vSZWUknpd`

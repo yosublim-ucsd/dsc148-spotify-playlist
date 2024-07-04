@@ -2349,6 +2349,24 @@
     },
     {
       "album": {
+        "name": "\u7a3b\u9999 (Remix\u6416\u6efe\u7248)",
+        "url": "https://open.spotify.com/album/67nUsanK9Kvv1Hjv6eieLo"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "\u7a3b\u9999 (Remix\u6416\u6efe\u7248)",
+      "url": "https://open.spotify.com/track/3wYRPcCRofEPtkPahyRhaD"
+    },
+    {
+      "album": {
         "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
         "url": "https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT"
       },

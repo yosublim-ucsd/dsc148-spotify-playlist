@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 2020s. Cover: Doja Cat",
-  "num_followers": 139032,
+  "num_followers": 139312,
   "original_name": "All Out 2020s",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-05-24 23:28:33",
       "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 138411,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
-    },
-    {
-      "added_at": "2024-05-24 23:28:33",
-      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
+    {
+      "added_at": "2024-05-24 23:28:33",
+      "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
       "added_at": "2024-05-24 23:28:33",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-05-24 23:28:33",
       "album": {
-        "name": "SNAP",
-        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
       "artists": [
         {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
+      "duration_ms": 196652,
+      "name": "The Box",
+      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
     },
     {
       "added_at": "2024-05-24 23:28:33",
@@ -575,34 +575,18 @@
     {
       "added_at": "2024-05-24 23:28:33",
       "album": {
-        "name": "Please Excuse Me for Being Antisocial",
-        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
       },
       "artists": [
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
         }
       ],
-      "duration_ms": 196652,
-      "name": "The Box",
-      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
-    },
-    {
-      "added_at": "2024-05-24 23:28:33",
-      "album": {
-        "name": "to hell with it",
-        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 98544,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
       "added_at": "2024-05-24 23:28:33",
@@ -623,6 +607,22 @@
       "duration_ms": 193591,
       "name": "Glock In My Lap",
       "url": "https://open.spotify.com/track/6pcywuOeGGWeOQzdUyti6k"
+    },
+    {
+      "added_at": "2024-05-24 23:28:33",
+      "album": {
+        "name": "to hell with it",
+        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 98544,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
     },
     {
       "added_at": "2024-05-24 23:28:33",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-05-24 23:28:33",
       "album": {
-        "name": "Afraid To Feel",
-        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 177524,
-      "name": "Afraid To Feel",
-      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
-    },
-    {
-      "added_at": "2024-05-24 23:28:33",
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
+    },
+    {
+      "added_at": "2024-05-24 23:28:33",
+      "album": {
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
     },
     {
       "added_at": "2024-05-24 23:28:33",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-05-24 23:28:33",
       "album": {
-        "name": "Lil Boo Thang",
-        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        }
-      ],
-      "duration_ms": 114233,
-      "name": "Lil Boo Thang",
-      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
-    },
-    {
-      "added_at": "2024-05-24 23:28:33",
-      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+    },
+    {
+      "added_at": "2024-05-24 23:28:33",
+      "album": {
+        "name": "Lil Boo Thang",
+        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "duration_ms": 114233,
+      "name": "Lil Boo Thang",
+      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
     },
     {
       "added_at": "2024-05-24 23:28:33",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-05-24 23:28:33",
       "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 172324,
-      "name": "positions",
-      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
-    },
-    {
-      "added_at": "2024-05-24 23:28:33",
-      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "added_at": "2024-05-24 23:28:33",
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 172324,
+      "name": "positions",
+      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
     },
     {
       "added_at": "2024-05-24 23:28:33",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2024-05-24 23:28:33",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+        "name": "MOTOMAMI +",
+        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
       },
       "artists": [
         {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+      "duration_ms": 156787,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
     },
     {
       "added_at": "2024-05-24 23:28:33",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-05-24 23:28:33",
       "album": {
-        "name": "MOTOMAMI +",
-        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         }
       ],
-      "duration_ms": 156787,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
       "added_at": "2024-05-24 23:28:33",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2024-05-24 23:28:33",
       "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/3j11iDncb7ZeDMw7lFucqM"
-    },
-    {
-      "added_at": "2024-05-24 23:28:33",
-      "album": {
         "name": "Hot Pink",
         "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
@@ -1599,22 +1579,22 @@
     {
       "added_at": "2024-05-24 23:28:33",
       "album": {
-        "name": "21 Reasons (feat. Ella Henderson)",
-        "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
       "artists": [
         {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 155253,
-      "name": "21 Reasons (feat. Ella Henderson)",
-      "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/3j11iDncb7ZeDMw7lFucqM"
     },
     {
       "added_at": "2024-05-24 23:28:33",
@@ -1647,6 +1627,26 @@
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
+    },
+    {
+      "added_at": "2024-05-24 23:28:33",
+      "album": {
+        "name": "21 Reasons (feat. Ella Henderson)",
+        "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 155253,
+      "name": "21 Reasons (feat. Ella Henderson)",
+      "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
     },
     {
       "added_at": "2024-05-24 23:28:33",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-05-24 23:28:33",
       "album": {
-        "name": "Sweet Action",
-        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 139741,
-      "name": "WHATS POPPIN",
-      "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
-    },
-    {
-      "added_at": "2024-05-24 23:28:33",
-      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 153000,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
+    },
+    {
+      "added_at": "2024-05-24 23:28:33",
+      "album": {
+        "name": "Sweet Action",
+        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 139741,
+      "name": "WHATS POPPIN",
+      "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
     },
     {
       "added_at": "2024-05-24 23:28:33",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2024-05-24 23:28:33",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191937,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
-    },
-    {
-      "added_at": "2024-05-24 23:28:33",
-      "album": {
         "name": "Road to CASABLANCO.",
         "url": "https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 99280,
       "name": "BILLIE EILISH.",
       "url": "https://open.spotify.com/track/2tDOCMuKSX9IEo9TJ4pBBk"
+    },
+    {
+      "added_at": "2024-05-24 23:28:33",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191937,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
     },
     {
       "added_at": "2024-05-24 23:28:33",

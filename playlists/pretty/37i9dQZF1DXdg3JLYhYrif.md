@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,631 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,626 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 33 | [Surtada \- Remix Brega Funk](https://open.spotify.com/track/5F8ffc8KWKNawllr5WsW0r) | [Dadá Boladão](https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX), [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ) | [Surtada \(Remix Brega Funk\)](https://open.spotify.com/album/2zFE4Ze2DjkeZBMbbT4Mgj) | 2:32 |
 | 34 | [Não Fala Não pra Mim](https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Não Fala Não pra Mim](https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG) | 3:16 |
 | 35 | [Na Ponta Ela Fica](https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Na Ponta Ela Fica](https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW) | 2:34 |
-| 36 | [50 Reais](https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [50 Reais](https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6) | 3:27 |
+| 36 | [K.O.](https://open.spotify.com/track/5zSiXA70xM4kuSt6qim6jl) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:35 |
 | 37 | [Sim ou não \(Participação especial de Maluma\)](https://open.spotify.com/track/4FxumkF81ICxITeqxx4nK9) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sim ou não \(Participação especial de Maluma\)](https://open.spotify.com/album/79GzhuqPAz4gohzwmFDK6b) | 3:26 |
-| 38 | [K.O.](https://open.spotify.com/track/5zSiXA70xM4kuSt6qim6jl) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:35 |
+| 38 | [50 Reais](https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [50 Reais](https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6) | 3:27 |
 | 39 | [Invocada \(Participação especial de Léo Santana\) \- Ao vivo](https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Hello mundo \(Ao vivo\)](https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw) | 2:37 |
 | 40 | [Bebe e Vem Me Procurar](https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Bebe e Vem Me Procurar](https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz) | 2:34 |
 | 41 | [Acordando o Prédio](https://open.spotify.com/track/40bK2uosUmAS92c17n98xd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Acordando o Prédio](https://open.spotify.com/album/4LlZtbDgmU4SkRiALN4FAS) | 3:38 |

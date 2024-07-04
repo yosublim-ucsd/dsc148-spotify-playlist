@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,089,483 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,089,721 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 31 | [I Could Write a Book](https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 2:27 |
 | 32 | [Moonglow](https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Begin The Beguine](https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h) | 3:33 |
 | 33 | [Stardust](https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:14 |
-| 34 | [This Guy's In Love With You](https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [This Guy's In Love](https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy) | 3:43 |
-| 35 | [Perhaps](https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Big Band Classics](https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm) | 2:29 |
+| 34 | [Perhaps](https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Big Band Classics](https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm) | 2:29 |
+| 35 | [This Guy's In Love With You](https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [This Guy's In Love](https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy) | 3:43 |
 | 36 | [Sweet Pea](https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 2:21 |
 | 37 | [Time After Time](https://open.spotify.com/track/1ia5QkdJp7qGwpoaX9Hgmj) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [As Time Goes By...The Great American Songbook: Volume II](https://open.spotify.com/album/6YTypI5yRIIdixEV25ccgQ) | 2:59 |
 | 38 | [We Are In Love](https://open.spotify.com/track/0cPa96zXRs2LVuNIqu06oj) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [We Are In Love](https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82) | 2:40 |

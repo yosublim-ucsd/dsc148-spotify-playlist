@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 
 ### [This Is Aimer](https://open.spotify.com/playlist/37i9dQZF1DZ06evO02uS96)
 
-> This Is Aimer\. Los temas esenciales, todos en una lista.
+> This is: Aimer\. Alle wichtigen Tracks in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,142 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,152 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 | 49 | [六等星の夜 Magic Blue ver.](https://open.spotify.com/track/2O9zgoUcr8cc7QNGl89oTk) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [ONE / 花の唄 / 六等星の夜 Magic Blue ver.](https://open.spotify.com/album/2hrsWVbgZvnmKY9QTKDghN) | 5:50 |
 | 50 | [Through My Blood <AM>](https://open.spotify.com/track/6S8yJ1otH9mlhVSXDMV9Bt) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [ninelie EP](https://open.spotify.com/album/1a1ckZAQAULGf2XuH3JbeN) | 4:04 |
 
-Snapshot ID: `ZoHxgAAAAABhVol/IuAA70cUuMIpEva+`
+Snapshot ID: `ZoNDAAAAAADwNr0rR8lbaMXZqZRiMIt2`
