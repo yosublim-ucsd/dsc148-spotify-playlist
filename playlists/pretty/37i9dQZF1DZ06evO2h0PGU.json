@@ -1,12 +1,12 @@
 {
-  "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 45074,
+  "description": "This is Yeah Yeah Yeahs. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 45088,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoNDAAAAAAAiDQZULmhUsw/YOl6/qAz7",
+  "snapshot_id": "ZoSUgAAAAAAY0eYFw+R6fNwnQ4H6NA9Q",
   "tracks": [
     {
       "added_at": null,
@@ -47,18 +47,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR"
+        "name": "Good Morning Music: Wake Up Workout",
+        "url": "https://open.spotify.com/album/3MWSY8N1zWSNBcnMTIeiTz"
       },
       "artists": [
         {
           "name": "Yeah Yeah Yeahs",
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Heads Will Roll",
-      "url": "https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs"
+      "duration_ms": 203920,
+      "name": "Heads Will Roll - A-Trak Remix Radio Edit",
+      "url": "https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn"
     },
     {
       "added_at": null,
@@ -799,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yeah Yeah Yeahs",
-        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
       },
       "artists": [
         {
@@ -808,9 +812,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 177693,
-      "name": "Mystery Girl",
-      "url": "https://open.spotify.com/track/3pvfyKJWQYRe8jCCgsD3BI"
+      "duration_ms": 212880,
+      "name": "Faces",
+      "url": "https://open.spotify.com/track/6Yw3IyoSf5S05g1nTB6woC"
     },
     {
       "added_at": null,
@@ -824,9 +828,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 189120,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/0KFsVUp01T2sCFnoP53Yuy"
+      "duration_ms": 177693,
+      "name": "Mystery Girl",
+      "url": "https://open.spotify.com/track/3pvfyKJWQYRe8jCCgsD3BI"
     }
   ],
   "unique_name": "This Is Yeah Yeah Yeahs",

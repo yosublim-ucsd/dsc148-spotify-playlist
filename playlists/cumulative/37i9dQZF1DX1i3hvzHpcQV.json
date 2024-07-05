@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Tune into the Hottest tracks of Kollywood!\nCover : Leo",
+  "description": "Tune into the Hottest tracks of Kollywood!\nCover : Aranmanai 4",
   "name": "Hot Hits Tamil",
   "tracks": [
     {
@@ -74,6 +74,28 @@
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/6XYQvYJzHjK5150Vl7NKfJ"
+    },
+    {
+      "album": {
+        "name": "Aasa Kooda (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Sai Smriti",
+          "url": "https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215510,
+      "name": "Aasa Kooda - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje"
     },
     {
       "album": {

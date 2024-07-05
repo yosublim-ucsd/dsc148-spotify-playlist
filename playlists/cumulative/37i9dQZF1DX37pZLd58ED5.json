@@ -1215,6 +1215,28 @@
     },
     {
       "album": {
+        "name": "HABITAT : tour",
+        "url": "https://open.spotify.com/album/3hC8Ul139lIFkmtmX8B8XL"
+      },
+      "artists": [
+        {
+          "name": "Nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        },
+        {
+          "name": "3D",
+          "url": "https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167727,
+      "name": "Dimenticare",
+      "url": "https://open.spotify.com/track/5EOJ7bFZhGQv61R7vTFXk3"
+    },
+    {
+      "album": {
         "name": "Lovebars",
         "url": "https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN"
       },
@@ -1568,10 +1590,28 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 176000,
       "name": "HERMES",
       "url": "https://open.spotify.com/track/4YM3Pxqe3FiapO16Myngww"
+    },
+    {
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/0xDVS2VYlF5I16H8kQ7FwY"
+      },
+      "artists": [
+        {
+          "name": "Tredici Pietro",
+          "url": "https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169473,
+      "name": "High",
+      "url": "https://open.spotify.com/track/7oEFfGNfbiHusPpnakn3xC"
     },
     {
       "album": {

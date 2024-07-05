@@ -2,7 +2,7 @@
 
 ### [This Is Los Tiranos Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Pawqn)
 
-> This Is Los Tiranos Del Norte\. Los temas esenciales, todos en una lista.
+> This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
 87 songs - 4 hr 32 min
 

@@ -4,7 +4,7 @@
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-81 songs - 4 hr 10 min
+82 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Old Places](https://open.spotify.com/track/4WJQ2Bunmt1M4SH6u7B6lQ) | [X Square](https://open.spotify.com/artist/7011bXgLvxaW5oHpkBg5LC) | [Old Places](https://open.spotify.com/album/3MYhQO56RkOSmjPvHrsX7C) | 3:21 | 2024-06-06 |  |
 | [On Cruise Control](https://open.spotify.com/track/2GZRNtR3x0WNbLKrsYWi3w) | [Mindserver Unlimited](https://open.spotify.com/artist/17JyFyLOwrYivBM7HjOyZN) | [On Cruise Control](https://open.spotify.com/album/43FTvKoyvCJLZKk9hd6VNK) | 3:23 | 2024-06-06 |  |
 | [Orion](https://open.spotify.com/track/44pz5LCYYGKHrkwyP3AX9u) | [Protocols](https://open.spotify.com/artist/3Xi9NGRGPDLOUHt03WMZJx) | [2 A.M Chill Session](https://open.spotify.com/album/3PZmQxxLUZwyyMgXWUpmuw) | 2:57 | 2024-06-06 |  |
+| [Out in the Rain](https://open.spotify.com/track/79m4ZOoOIAlhCtADrWqDqN) | [Forever Sunset](https://open.spotify.com/artist/6Y5W9usiGN7XrMM1k4ItaG) | [The Night Is Mine](https://open.spotify.com/album/0OR0YcdVqUaNzFWkL6XeTb) | 3:37 | 2024-07-04 |  |
 | [Outrunners](https://open.spotify.com/track/3dbEGEBl2UlFHhxSPHsQrH) | [Beta Beta Beta](https://open.spotify.com/artist/3Q6xEwdxfXL8lTgj1KbXkU) | [Outrunners](https://open.spotify.com/album/1lHAsQQl2cVbrsuhKdpqdU) | 3:30 | 2024-06-06 |  |
 | [Past Life Limbo](https://open.spotify.com/track/4LCa5OgLfwGfI2THC2q2rU) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Daytona Dystopia](https://open.spotify.com/album/5JUfGko6YzunuWbYYnRwZK) | 2:36 | 2024-06-06 |  |
 | [Pink Vortex](https://open.spotify.com/track/597lXxH6JjkH7xvYCrPgab) | [ELFL](https://open.spotify.com/artist/72xDdmrHFi38fW3rdLzvnU) | [Pink Vortex](https://open.spotify.com/album/6LB8nf8cxLLtZ079JBSIaR) | 3:05 | 2024-06-06 | 2024-06-21 |

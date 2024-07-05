@@ -4,7 +4,7 @@
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: Ha Dong Qn\(하동균\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-546 songs - 1 day 11 hr 42 min
+547 songs - 1 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Love Me Love Me](https://open.spotify.com/track/6PDGLp3PVAVdwVeFRLYvS5) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Love Me Love Me](https://open.spotify.com/album/2rtrqdfMeYxBNxpxcUl3cY) | 3:26 | 2023-08-10 | 2023-11-05 |
 | [LOVE PROCESS Act 3:Farewell\(Woman's Story\) \- No More Love](https://open.spotify.com/track/6ZcntF0MCIZEzi1XHYiRjP) | [Ryeowon](https://open.spotify.com/artist/18N3eeeRpVuRfPuk6GF7rp) | [LOVE PROCESS Act 3:Farewell\(Woman's Story\) \- No More Love](https://open.spotify.com/album/5seo7nROqNTWa0l88SmDRn) | 3:59 | 2022-06-13 | 2022-06-21 |
 | [LOVE PROCESS Act 4:Pain\(Woman's Story\) \- Bloom](https://open.spotify.com/track/3aaQ9CxRuchKCQcqq5xVoV) | [J\-Min](https://open.spotify.com/artist/0S6IIwYVTtgMjv7vfkdfRl) | [LOVE PROCESS Act 4:Pain\(Woman's Story\) \- Bloom](https://open.spotify.com/album/2AsuqpJNjUVTX3tjmx1sbk) | 4:16 | 2022-06-13 | 2022-07-09 |
+| [LOVE RECIPE](https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [WONDO Project : LOVE RECIPE, Vol.1](https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7) | 3:51 | 2024-07-04 |  |
 | [Love should not be harsh on you](https://open.spotify.com/track/03TdLY0nav9sQ3kyjbyJ9t) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Love should not be harsh on you](https://open.spotify.com/album/6jHa0QNqdyT3w2jGIpR2z5) | 4:28 | 2021-12-20 | 2022-07-28 |
 | [Love Sick](https://open.spotify.com/track/0Vb3ELQ111quZfXfnrmIdc) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [LEESEOKHOON 1st Full Album 'Customary Place'](https://open.spotify.com/album/5MfVAeTyhatiLjzaPtMbsh) | 3:42 | 2022-03-24 | 2022-07-29 |
 | [Love War](https://open.spotify.com/track/3ZLH3WCaGQ2mvynea5a29s) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Love War](https://open.spotify.com/album/59DdpwFqZnqs1Bz4bgKxW7) | 4:00 | 2023-07-20 | 2023-09-10 |
@@ -452,7 +453,7 @@
 | [To You](https://open.spotify.com/track/4s7luL81oRUzvnpTN3XFEJ) | [WSG WANNBE \(Gaya\-G\)](https://open.spotify.com/artist/75IVzR4O5AZ0Zd8HWoNWO2) | [To You](https://open.spotify.com/album/25eApxLg3RfcpJ4xLsz53f) | 3:27 | 2023-03-18 | 2023-05-27 |
 | [To You \(Prod\. JUNGKEY\)](https://open.spotify.com/track/3YkFgoeeZJct03iDrBkbLv) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [To You](https://open.spotify.com/album/0pG9gwHtsTNrLsJARuJnER) | 4:37 | 2022-01-27 | 2022-05-12 |
 | [To You My Light \(2022\)](https://open.spotify.com/track/6RbocDE51e5OkEFIagJmQs) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [To You My Light](https://open.spotify.com/album/5YKiY8AKXdRP5vgTqEWccv) | 4:18 | 2022-03-09 | 2022-07-29 |
-| [To\. Me](https://open.spotify.com/track/3iclBTy2seRGoHq71GCJ6e) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [FlexxCop OST Part.3 \(Soundtrack\)](https://open.spotify.com/album/5GWrGN3k1vnk7NItvfiH7Q) | 4:06 | 2024-02-19 |  |
+| [To\. Me](https://open.spotify.com/track/3iclBTy2seRGoHq71GCJ6e) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [FlexxCop OST Part.3 \(Soundtrack\)](https://open.spotify.com/album/5GWrGN3k1vnk7NItvfiH7Q) | 4:06 | 2024-02-19 | 2024-07-05 |
 | [Tonight](https://open.spotify.com/track/5pgmUV8sJ8ilNOKA5ZIyKM) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [skepticism](https://open.spotify.com/album/6QCgJkrDddhyi5t3aCouQQ) | 3:46 | 2022-03-29 | 2022-04-21 |
 | [Tonight](https://open.spotify.com/track/5rQtJn1xB1tBPcRCgJVmKw) | [Yeonhui](https://open.spotify.com/artist/5BLzx1GY6Y5h22Qswt8VZc) | [Tonight](https://open.spotify.com/album/2sOO7BZZjUj6RGl7IgkIbp) | 3:19 | 2022-03-31 | 2022-04-22 |
 | [Too Good At Goodbyes](https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:21 | 2024-02-20 | 2024-04-24 |

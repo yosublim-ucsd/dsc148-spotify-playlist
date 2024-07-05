@@ -1,12 +1,12 @@
 {
-  "description": "This Is Panter B\u00e9lico. Los temas esenciales, todos en una lista.",
-  "num_followers": 60888,
+  "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
+  "num_followers": 60955,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoNDAAAAAADdvoL4GzbmnDOn7MkPRbAa",
+  "snapshot_id": "ZoSUgAAAAADYT1BFjyRnb9iAmclTmK68",
   "tracks": [
     {
       "added_at": null,
@@ -615,42 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culiac\u00e1n Deluxe (En Vivo)",
-        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
-      },
-      "artists": [
-        {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 219174,
-      "name": "El Pistolero (En Vivo)",
-      "url": "https://open.spotify.com/track/4BQ4yefJv2VJNj6brqANze"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mexicano",
-        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 174422,
-      "name": "La Ley Del Monte",
-      "url": "https://open.spotify.com/track/5EPXydzAN5pEXarJiqX4hn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Acci\u00f3n",
         "url": "https://open.spotify.com/album/58jYWbYJ7HK7NoLvGWLnkO"
       },
@@ -671,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+        "name": "El Mexicano",
+        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
       },
       "artists": [
         {
@@ -680,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 139856,
-      "name": "Agasajaba La Noche",
-      "url": "https://open.spotify.com/track/3OrPvxEwqcsATtI1zTYq3j"
+      "duration_ms": 174422,
+      "name": "La Ley Del Monte",
+      "url": "https://open.spotify.com/track/5EPXydzAN5pEXarJiqX4hn"
     },
     {
       "added_at": null,
@@ -700,15 +664,15 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 335634,
-      "name": "Retropopurr\u00ed (Calles Enlodadas, Pase Y Pase, Dos Pajaritos) (En Vivo)",
-      "url": "https://open.spotify.com/track/08NvjgDsn0n0gIFbT3W436"
+      "duration_ms": 219174,
+      "name": "El Pistolero (En Vivo)",
+      "url": "https://open.spotify.com/track/4BQ4yefJv2VJNj6brqANze"
     },
     {
       "added_at": null,
       "album": {
-        "name": "El Mexicano",
-        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
       },
       "artists": [
         {
@@ -716,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 132637,
-      "name": "El Rey",
-      "url": "https://open.spotify.com/track/0yRpco279sej0ajW7c7RZX"
+      "duration_ms": 139856,
+      "name": "Agasajaba La Noche",
+      "url": "https://open.spotify.com/track/3OrPvxEwqcsATtI1zTYq3j"
     },
     {
       "added_at": null,
@@ -743,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+        "name": "El Mexicano",
+        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
       },
       "artists": [
         {
@@ -752,9 +716,9 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 150713,
-      "name": "Y Van A Hablar",
-      "url": "https://open.spotify.com/track/49wvsLUDtI89WgnDjXGbgG"
+      "duration_ms": 132637,
+      "name": "El Rey",
+      "url": "https://open.spotify.com/track/0yRpco279sej0ajW7c7RZX"
     },
     {
       "added_at": null,
@@ -772,15 +736,15 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 180638,
-      "name": "Casi se les hizo (En Vivo)",
-      "url": "https://open.spotify.com/track/23hDimVkIikKt2uPGaL0Iy"
+      "duration_ms": 335634,
+      "name": "Retropopurr\u00ed (Calles Enlodadas, Pase Y Pase, Dos Pajaritos) (En Vivo)",
+      "url": "https://open.spotify.com/track/08NvjgDsn0n0gIFbT3W436"
     },
     {
       "added_at": null,
       "album": {
-        "name": "El Mexicano",
-        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
       },
       "artists": [
         {
@@ -788,9 +752,9 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 194590,
-      "name": "Tristes Recuerdos",
-      "url": "https://open.spotify.com/track/48nNPyh2n8qKXpqAUPpbBI"
+      "duration_ms": 150713,
+      "name": "Y Van A Hablar",
+      "url": "https://open.spotify.com/track/49wvsLUDtI89WgnDjXGbgG"
     },
     {
       "added_at": null,
@@ -811,6 +775,42 @@
       "duration_ms": 496138,
       "name": "Popurr\u00ed: La Muerte de Manuelon / El \u00c1rbol",
       "url": "https://open.spotify.com/track/6RShqonMgBX0XRPtG7O2Am"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mexicano",
+        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 194590,
+      "name": "Tristes Recuerdos",
+      "url": "https://open.spotify.com/track/48nNPyh2n8qKXpqAUPpbBI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culiac\u00e1n Deluxe (En Vivo)",
+        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 180638,
+      "name": "Casi se les hizo (En Vivo)",
+      "url": "https://open.spotify.com/track/23hDimVkIikKt2uPGaL0Iy"
     }
   ],
   "unique_name": "This Is Panter B\u00e9lico",

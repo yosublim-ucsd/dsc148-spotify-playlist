@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 168629,
       "name": "00,00KG",
       "url": "https://open.spotify.com/track/6NARWPLA9xjUZ4oXIVAKOX"
@@ -2802,7 +2802,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 150942,
       "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
       "url": "https://open.spotify.com/track/78RdTKcI2CediltTnGLIqr"
@@ -4614,7 +4614,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 123292,
       "name": "BIKINI GRELL",
       "url": "https://open.spotify.com/track/4vXM3vMsSr8eFcK8HKTcJq"
@@ -5366,7 +5366,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 155471,
       "name": "BMXXing",
       "url": "https://open.spotify.com/track/5xR8ngEQmlQ1U2xSE0KzTo"
@@ -8337,6 +8337,24 @@
     },
     {
       "album": {
+        "name": "DEVIL IS A LIE",
+        "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130944,
+      "name": "DEVIL IS A LIE",
+      "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
+    },
+    {
+      "album": {
         "name": "Devil Is A Woman",
         "url": "https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL"
       },
@@ -8761,6 +8779,24 @@
     },
     {
       "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/4Kyh09qWTkqdGyWxCQ9Szk"
+      },
+      "artists": [
+        {
+          "name": "Sosa La M",
+          "url": "https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134127,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/0GXAKI05bFfhHtZIg8ftA6"
+    },
+    {
+      "album": {
         "name": "DO NOT COPY MY FLOW",
         "url": "https://open.spotify.com/album/0u0hx57yVlOJJ55XNbXTjJ"
       },
@@ -9142,7 +9178,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 140131,
       "name": "drunk, sex, love",
       "url": "https://open.spotify.com/track/5v9XLMlRsBOTqZjnhfEqnJ"
@@ -9811,6 +9847,24 @@
     },
     {
       "album": {
+        "name": "Einfach Machen",
+        "url": "https://open.spotify.com/album/3EWXb6lwke05BH9ccUyH04"
+      },
+      "artists": [
+        {
+          "name": "VibeM",
+          "url": "https://open.spotify.com/artist/5NR56DNAECf6yIARetflYe"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119953,
+      "name": "Einfach Machen",
+      "url": "https://open.spotify.com/track/6DmV9tA45jesFN1lyD4Zzy"
+    },
+    {
+      "album": {
         "name": "Einmal um die Welt 2k23",
         "url": "https://open.spotify.com/album/3a42tIOr7yy7FOBgrXT48a"
       },
@@ -10381,6 +10435,24 @@
     },
     {
       "album": {
+        "name": "Er kriegt mich nicht",
+        "url": "https://open.spotify.com/album/32KQ2dKaKl0XXalzDj9b5U"
+      },
+      "artists": [
+        {
+          "name": "Zs\u00e1 Zs\u00e1",
+          "url": "https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89253,
+      "name": "Er kriegt mich nicht",
+      "url": "https://open.spotify.com/track/3QlqPRUCScMH9SRdRSPhid"
+    },
+    {
+      "album": {
         "name": "erste ma verliebt </3",
         "url": "https://open.spotify.com/album/78CkAgdaYRbPW6DmKLG2SN"
       },
@@ -10668,6 +10740,24 @@
       "duration_ms": 160218,
       "name": "Europapa",
       "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
+    },
+    {
+      "album": {
+        "name": "Ever Seen",
+        "url": "https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203760,
+      "name": "Ever Seen",
+      "url": "https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6"
     },
     {
       "album": {
@@ -11064,6 +11154,24 @@
       "duration_ms": 129522,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
+    },
+    {
+      "album": {
+        "name": "Fall f\u00fcr dich",
+        "url": "https://open.spotify.com/album/3X9IY5t8zZpEwualD62LIn"
+      },
+      "artists": [
+        {
+          "name": "MilleniumKid",
+          "url": "https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158808,
+      "name": "Fall f\u00fcr dich",
+      "url": "https://open.spotify.com/track/2ZLSbkFvtJlc8oMlm4qFaG"
     },
     {
       "album": {
@@ -12595,6 +12703,24 @@
     },
     {
       "album": {
+        "name": "Gefunden (Outro)",
+        "url": "https://open.spotify.com/album/1ypdsnWnNIijJUUr0Lctu7"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143007,
+      "name": "Gefunden (Outro)",
+      "url": "https://open.spotify.com/track/2fqoejpJIs9us6pzXT38zl"
+    },
+    {
+      "album": {
         "name": "Geh",
         "url": "https://open.spotify.com/album/4lhs4ssXVWMW8GuEWI7tJC"
       },
@@ -12640,6 +12766,28 @@
       "duration_ms": 170897,
       "name": "Gehweg",
       "url": "https://open.spotify.com/track/3M5cLQdPRKuj2VT7ev2aN8"
+    },
+    {
+      "album": {
+        "name": "Geile Zeit",
+        "url": "https://open.spotify.com/album/5ZGg6JuNmc7VikmdjeOKzc"
+      },
+      "artists": [
+        {
+          "name": "PaulWetz",
+          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+        },
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140056,
+      "name": "Geile Zeit",
+      "url": "https://open.spotify.com/track/47UCIHMC5NtybfvIEZBD4E"
     },
     {
       "album": {
@@ -13818,7 +13966,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 148546,
       "name": "GTA",
       "url": "https://open.spotify.com/track/5shgHEo8Zgm94sjr6BYTUq"
@@ -15442,7 +15590,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 183288,
       "name": "Humankind",
       "url": "https://open.spotify.com/track/3LH03hNxNUceSZCUXdgfRm"
@@ -15780,7 +15928,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 273000,
       "name": "I Found",
       "url": "https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx"
@@ -17256,7 +17404,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 157070,
       "name": "internet baby",
       "url": "https://open.spotify.com/track/0NRjLNZq8PXjoIDW21wT4N"
@@ -18150,7 +18298,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 111041,
       "name": "Kann sein",
       "url": "https://open.spotify.com/track/4499PazhaYig2JCQR69zqE"
@@ -19324,7 +19472,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 149473,
       "name": "LASS ES LOS",
       "url": "https://open.spotify.com/track/0hEHK49m6mAP4Dukwr29aB"
@@ -19582,7 +19730,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 146879,
       "name": "Lecker Bierchen",
       "url": "https://open.spotify.com/track/1gb6jsIxX8T99EfgyYao5W"
@@ -22416,7 +22564,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 162644,
       "name": "Misses DGAF",
       "url": "https://open.spotify.com/track/5vO5UOUjoFAOUgHFlq7DPv"
@@ -24440,7 +24588,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 166424,
       "name": "Nie Wiedersehen",
       "url": "https://open.spotify.com/track/3kRoFziEDQDnrc5bEbws7A"
@@ -25795,6 +25943,24 @@
     },
     {
       "album": {
+        "name": "one life stand",
+        "url": "https://open.spotify.com/album/42bb2qHbijpJOCsNTBCENy"
+      },
+      "artists": [
+        {
+          "name": "ENYA BOBAN",
+          "url": "https://open.spotify.com/artist/6coyoepdk8cngGloJADii6"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179840,
+      "name": "one life stand",
+      "url": "https://open.spotify.com/track/2ziDyR078FUBgGDbDVVUDR"
+    },
+    {
+      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/18Vr8wifIO7BQsPEgD1OgN"
       },
@@ -26449,6 +26615,28 @@
     },
     {
       "album": {
+        "name": "Parking Lot",
+        "url": "https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175321,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju"
+    },
+    {
+      "album": {
         "name": "Party mit mir selbst",
         "url": "https://open.spotify.com/album/7FYIEyAdivc1sNE7j6cqkW"
       },
@@ -26800,7 +26988,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 129293,
       "name": "Phat Butt",
       "url": "https://open.spotify.com/track/2b7aNhysTRNWSiNM47UeWG"
@@ -26982,6 +27170,36 @@
       "duration_ms": 138649,
       "name": "Pirouetten",
       "url": "https://open.spotify.com/track/19oh6bdG1lvSL2loTOGi09"
+    },
+    {
+      "album": {
+        "name": "Pistazieneis",
+        "url": "https://open.spotify.com/album/4j7WNx3I81WGPiadrrCOtB"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+        },
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137972,
+      "name": "Pistazieneis",
+      "url": "https://open.spotify.com/track/0O1LqLDF2mQmWVlSrC4Mwn"
     },
     {
       "album": {
@@ -37391,6 +37609,24 @@
     },
     {
       "album": {
+        "name": "Wenn Das Liebe Ist",
+        "url": "https://open.spotify.com/album/3jGeDSgeQBXkJXyP8zo3Vf"
+      },
+      "artists": [
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Wenn Das Liebe Ist",
+      "url": "https://open.spotify.com/track/4X3ZmvXHgjuXywDBN1qzrA"
+    },
+    {
+      "album": {
         "name": "ZU VIEL PASSIERT",
         "url": "https://open.spotify.com/album/5RUrqEoAaGmROzRFAlndRu"
       },
@@ -37930,7 +38166,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 155200,
       "name": "wie du",
       "url": "https://open.spotify.com/track/0h1d2sv6RIxB8e0xiEIJ45"
@@ -38068,6 +38304,32 @@
       "duration_ms": 125991,
       "name": "wie willst du",
       "url": "https://open.spotify.com/track/2YPDPCTwst4ZyO7MG00qPB"
+    },
+    {
+      "album": {
+        "name": "wieder",
+        "url": "https://open.spotify.com/album/6Gvc1zMQanZDbbupEAEgHe"
+      },
+      "artists": [
+        {
+          "name": "Ansu",
+          "url": "https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS"
+        },
+        {
+          "name": "Cato",
+          "url": "https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc"
+        },
+        {
+          "name": "2sick",
+          "url": "https://open.spotify.com/artist/1FQkPQ3IrjRAny1OXdGX8S"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132853,
+      "name": "wieder",
+      "url": "https://open.spotify.com/track/0ZBxJRpsvY53vphDtoi4FI"
     },
     {
       "album": {
@@ -38532,7 +38794,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 176492,
       "name": "Wunder",
       "url": "https://open.spotify.com/track/16f4ZN6XOfrIO8fJkm28HM"

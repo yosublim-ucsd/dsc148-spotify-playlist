@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-745 songs - 1 day 18 hr 56 min
+746 songs - 1 day 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [HEAR THE NOISE](https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [HEAR THE NOISE](https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye) | 2:46 | 2023-07-04 |  |
 | [Heart On Fire](https://open.spotify.com/track/6tv7rh2WOO6WEbzYI9aUYd) | [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [Heart On Fire](https://open.spotify.com/album/2klKsbqt3GHjUSDekdotrL) | 2:31 | 2023-03-16 | 2023-06-02 |
 | [Heartbeat](https://open.spotify.com/track/2ta87BcMoIcwg4W0UStZED) | [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8) | [Heartbeat](https://open.spotify.com/album/7KDloja54DN0WBCRpdHzgv) | 4:14 | 2024-06-20 | 2024-07-02 |
+| [Heat Of The Moment](https://open.spotify.com/track/6VpR1Ddi97grQSLuHjh4dH) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Jurgen Vries](https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg), [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Destination](https://open.spotify.com/album/7oEm0ankzz0Is25YkrhUNu) | 3:06 | 2024-07-04 |  |
 | [Hellraiser](https://open.spotify.com/track/7jPZ8CnQPpcbJp9ZiTvuMY) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Hellraiser](https://open.spotify.com/album/2ZCAMFZH543dHiGCNRsp4J) | 3:39 | 2021-12-16 | 2022-07-28 |
 | [Here To Stay](https://open.spotify.com/track/4bidbyOK1pdyHM3Hu0cvKO) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Here To Stay](https://open.spotify.com/album/7lbZP1s3x8hvjQDXK20mMQ) | 4:22 | 2021-12-28 | 2022-11-01 |
 | [Hero](https://open.spotify.com/track/1bc1ykb05EfBvnzjOmqvmi) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV) | [Hero](https://open.spotify.com/album/6WN1NA4eXWtdmNdXzjxEVS) | 3:02 | 2022-10-13 | 2024-06-15 |
@@ -609,7 +610,7 @@
 | [Summer Rave](https://open.spotify.com/track/0FVUfX7nw1bNQGBLTpTwX5) | [ZIGGY X](https://open.spotify.com/artist/02c73sVTVC2NrbEjCdhU83) | [Summer Rave](https://open.spotify.com/album/2V5D7QtQjgQVqR9KK76b6t) | 2:41 | 2021-12-16 | 2023-11-18 |
 | [Summer Secrets](https://open.spotify.com/track/3sNmADk68ye2SZNK2nf0KL) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8), [RXBY](https://open.spotify.com/artist/1XpF2jsRjXNS7PXMfbOn0z) | [Summer Secrets](https://open.spotify.com/album/46hlA99qa4gcJoKwYj7PJU) | 3:17 | 2024-06-20 | 2024-07-02 |
 | [Summer Secrets](https://open.spotify.com/track/47EcxNsrHWXozZeAzuEfjN) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8), [RXBY](https://open.spotify.com/artist/1XpF2jsRjXNS7PXMfbOn0z) | [Summer Secrets](https://open.spotify.com/album/3dJXsDviKg5vCw87ovcji6) | 3:17 | 2023-06-22 | 2024-05-19 |
-| [Sun Comes Up](https://open.spotify.com/track/2GVhChi8rNLrfcfHjzFVQq) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID) | [Sun Comes Up](https://open.spotify.com/album/7sBdYRoRxO2kSHsGIKcaV9) | 3:32 | 2023-06-01 |  |
+| [Sun Comes Up](https://open.spotify.com/track/2GVhChi8rNLrfcfHjzFVQq) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID) | [Sun Comes Up](https://open.spotify.com/album/7sBdYRoRxO2kSHsGIKcaV9) | 3:32 | 2023-06-01 | 2024-07-05 |
 | [Sunlight](https://open.spotify.com/track/4OSJ9LrhlX3V2n3sYf4Vbk) | [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2), [Suae](https://open.spotify.com/artist/0pTJdgzCj4Wo6RwdOcGinx) | [Sunlight](https://open.spotify.com/album/0RkrvVUlFLSADQTTH3K0Kw) | 3:34 | 2022-12-27 | 2023-01-03 |
 | [Supa Dupa Fly](https://open.spotify.com/track/1f1oSxTFtI9WN7X6GvzMtF) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Supa Dupa Fly](https://open.spotify.com/album/6AsthfXuyR0Ue12N7iFLCR) | 3:11 | 2022-05-23 |  |
 | [Supernova](https://open.spotify.com/track/2C9y2VMcVTxCRtxT3Afwqu) | [Galwaro](https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9) | [Supernova](https://open.spotify.com/album/0Whzpt8bj4PPDr5n5gk4ip) | 3:02 | 2024-02-14 | 2024-04-19 |

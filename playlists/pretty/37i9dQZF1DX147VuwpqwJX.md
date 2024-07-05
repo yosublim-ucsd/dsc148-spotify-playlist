@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,155 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,185 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 68 | [Club Queen](https://open.spotify.com/track/5Vvs5tTd4jbCIkCsB1JQgV) | [Club Eat](https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc) | [Club Queen](https://open.spotify.com/album/79d0CCtR8YtThcWgQIlTgC) | 4:03 |
 | 69 | [Body Drop \- Remix](https://open.spotify.com/track/3GiEEED2kzjx0shCZhQQ2y) | [Ase Manual](https://open.spotify.com/artist/7d9PaRqnesvoUvMowJ2qoE), [Byrell The Great](https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO) | [Body Drop \(Remixes\)](https://open.spotify.com/album/2fn7ReF7nN1GaFio6M38wx) | 2:59 |
 | 70 | [I'M AN ICON](https://open.spotify.com/track/19v2hGGiGoV6HG76q3AoBQ) | [Icon Sinia Alaia](https://open.spotify.com/artist/4lcAwldRw3SfyyEmL80Hpo), [B\. Ames](https://open.spotify.com/artist/4vTr4hPE8WSlvgo9dkSZNW) | [I'M AN ICON](https://open.spotify.com/album/4VtP614QxtGsjlzxfSGBRk) | 3:16 |
-| 71 | [ThundaKats](https://open.spotify.com/track/7DRk2Pp3vXKCrgoiSLsW4R) | [Vjuan Allure](https://open.spotify.com/artist/6XsYyM6VcCkFglSRqzUMXJ) | [ThundaKats EP](https://open.spotify.com/album/1lOA60vjn1dMSOu4ElokU4) | 6:36 |
+| 71 | [ThundaKats](https://open.spotify.com/track/7DRk2Pp3vXKCrgoiSLsW4R) | [Vjuan Allure](https://open.spotify.com/artist/6XsYyM6VcCkFglSRqzUMXJ), [Xero Nonce](https://open.spotify.com/artist/2sRuY1DPmRGJ1XIG77PPKd), [DJ Tony Krayola](https://open.spotify.com/artist/2TJtkk4NZshEskDifnPHr2) | [ThundaKats EP](https://open.spotify.com/album/1lOA60vjn1dMSOu4ElokU4) | 6:36 |
 | 72 | [Soda \- MikeQ & Divoli S’vere Daughter’s Ha Remix](https://open.spotify.com/track/0QK0irAOp7fPqyD5Cg7pXw) | [Boody](https://open.spotify.com/artist/64yfjhFPMATyVqtB7knCCH), [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO), [Mike Q](https://open.spotify.com/artist/5wXyvG2EDTKhvjfWhQvMHl), [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw) | [Liquid](https://open.spotify.com/album/5fb77zmnjz3yEZm589aCBC) | 3:29 |
 | 73 | [Cunty \- Wave Edit](https://open.spotify.com/track/5Dy9iOGAYzppHgWcLzZSBe) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Box of Chocolates](https://open.spotify.com/album/1iIC7QKwsTtWNRV7NxfrK5) | 4:17 |
 | 74 | [Work This Pussy \(Revised Mix\)](https://open.spotify.com/track/0T9h9HbgfuMzGZE9b0Fsfl) | [Angel X](https://open.spotify.com/artist/6OKQsKcXP50ebq9CznrfxF), [Sweet Pussy Pauline](https://open.spotify.com/artist/55Vj2oTeeBAe7hSc2tdJxT) | [LEGEND](https://open.spotify.com/album/4GBqE6VnmfTnINsgu56RuI) | 6:52 |

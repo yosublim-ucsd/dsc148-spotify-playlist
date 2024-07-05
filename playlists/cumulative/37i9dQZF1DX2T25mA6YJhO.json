@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Cortes",
+        "url": "https://open.spotify.com/album/1MtxZXS19obXUaeST7ecDv"
+      },
+      "artists": [
+        {
+          "name": "CORTE!",
+          "url": "https://open.spotify.com/artist/63TI51KRa1nPKmh0xF9ydT"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Cortes",
+      "url": "https://open.spotify.com/track/3T5j1FC3UIu7kjGHarjIkk"
+    },
+    {
+      "album": {
         "name": "Darveider",
         "url": "https://open.spotify.com/album/3DujoKOCP2JsIRslD8QnfT"
       },
@@ -478,7 +496,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 211735,
       "name": "EN EL FEST\u00cdN",
       "url": "https://open.spotify.com/track/1UAc6pOJ6j0Su1SLpXUdMB"
@@ -916,7 +934,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 181693,
       "name": "MADRID ME ATACA",
       "url": "https://open.spotify.com/track/6GYQTEEmk50F4dGOM033HW"
@@ -1068,7 +1086,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 190013,
       "name": "Mi Barrio",
       "url": "https://open.spotify.com/track/1dw2PZHbL7HXcbM97S9BdM"
@@ -1112,6 +1130,24 @@
       "duration_ms": 137344,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8"
+    },
+    {
+      "album": {
+        "name": "Nacho Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/47aaiQ9Idp7Luvp5ryErjD"
+      },
+      "artists": [
+        {
+          "name": "piti y me voy",
+          "url": "https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137237,
+      "name": "Nacho Fern\u00e1ndez",
+      "url": "https://open.spotify.com/track/1zCYOQTuQE48x5vcXkmi6k"
     },
     {
       "album": {
@@ -1256,7 +1292,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 190458,
       "name": "onvres",
       "url": "https://open.spotify.com/track/0Fju7NJJGIkYCJ3JtxKbuT"
@@ -1397,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "Premonici\u00f3n",
+        "url": "https://open.spotify.com/album/199LyCLvxz9v5LEzj8hMfu"
+      },
+      "artists": [
+        {
+          "name": "Capsula",
+          "url": "https://open.spotify.com/artist/4JSzzwHzs5cp6dm2onRPRd"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165111,
+      "name": "Premonici\u00f3n",
+      "url": "https://open.spotify.com/track/43Uy9y0xKRjCPFz2AEdj34"
+    },
+    {
+      "album": {
         "name": "Pronto",
         "url": "https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl"
       },
@@ -1484,6 +1538,24 @@
       "duration_ms": 193478,
       "name": "Salgo A La Calle",
       "url": "https://open.spotify.com/track/6MP1xqm69oNPvIHWaX6Pd8"
+    },
+    {
+      "album": {
+        "name": "Si No Es Hoy Cu\u00e1ndo Es",
+        "url": "https://open.spotify.com/album/0PU2uRa2fJkbjgB45e1PoA"
+      },
+      "artists": [
+        {
+          "name": "Dame Area",
+          "url": "https://open.spotify.com/artist/1Cmtis0NcKGTvAnovenEJl"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332942,
+      "name": "Si No Es Hoy Cu\u00e1ndo Es",
+      "url": "https://open.spotify.com/track/3lhfjRNPYpOL9IIF15IEWo"
     },
     {
       "album": {

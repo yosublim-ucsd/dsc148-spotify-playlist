@@ -4,7 +4,7 @@
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-234 songs - 11 hr 46 min
+235 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [For The Love](https://open.spotify.com/track/2k39D7dz6yQyuaii2NXF6l) | [R3WIRE](https://open.spotify.com/artist/7fWHxqQznKDOJeJofEjDcn), [NuKey](https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3) | [For The Love](https://open.spotify.com/album/33kl34JwEFnI604hUcvBDr) | 3:13 | 2024-05-16 |  |
 | [Freak](https://open.spotify.com/track/1XyAphE6uebTqvrJw174Cp) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Freak](https://open.spotify.com/album/5GbbjwLHtRH8qSB1LfkyVn) | 2:33 | 2023-07-28 | 2023-08-11 |
 | [Frikitona \- Odd Mob Remix](https://open.spotify.com/track/4VmJrlaQyNESNp5kAK7zIY) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Frikitona \(Odd Mob Remix\)](https://open.spotify.com/album/0tDuxbHaSqjfQrqCDYalHk) | 3:11 | 2024-04-19 |  |
+| [From The Top](https://open.spotify.com/track/5hcahAZzT089V7XALONuX9) | [Angie Mill](https://open.spotify.com/artist/4PoaRVsZfDU6DI8qs1vpK2), [DESTRO](https://open.spotify.com/artist/36tENaXXd6WfMiK1slOlEo) | [From The Top](https://open.spotify.com/album/4t3Grwr7lSHH7HcFgCwqd1) | 2:55 | 2024-07-04 |  |
 | [Fuck It Up](https://open.spotify.com/track/59Up9bvTzye1JE1fueCjER) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Fuck It Up](https://open.spotify.com/album/5N3MFNQdu7kcfxlLK5TGW2) | 3:16 | 2023-12-11 |  |
 | [Funk](https://open.spotify.com/track/0ZzYbGzGE5VjplmEOn81gn) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Funk](https://open.spotify.com/album/416p0vtVpWBcst6ZA5Twf1) | 2:51 | 2024-05-10 | 2024-05-25 |
 | [Furious \(feat\. Habstrakt\)](https://open.spotify.com/track/1sdgGeVefZ8zkMxCQSEbYQ) | [Illegal Music](https://open.spotify.com/artist/1GtUSudmcirmaUqcgBzu3u), [Kohmi](https://open.spotify.com/artist/6NhJ3byRXx7HJzpryxi8w7), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Furious \(feat\. Habstrakt\)](https://open.spotify.com/album/6AjMyBpMC6rPryBLp4SuuZ) | 2:49 | 2023-08-11 | 2023-12-14 |

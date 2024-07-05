@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
-  "name": "This Is Nana Mizuki",
+  "description": "This is \u6c34\u6a39\u5948\u3005. The essential tracks, all in one playlist.",
+  "name": "This Is \u6c34\u6a39\u5948\u3005",
   "tracks": [
     {
       "album": {
@@ -322,7 +322,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 305032,
       "name": "FINAL COMMANDER -Aufwachen Form-",
       "url": "https://open.spotify.com/track/2eWyeChIRLpqtVTxsCQtnJ"
@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "WONDER QUEST EP",
+        "url": "https://open.spotify.com/album/2zIv4qhpYHrk0zVGSAO2F3"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232333,
+      "name": "Hungry Hungry",
+      "url": "https://open.spotify.com/track/790IujLc3cPD6Y85LnhjEr"
+    },
+    {
+      "album": {
         "name": "THE MUSEUM",
         "url": "https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT"
       },
@@ -614,6 +632,24 @@
       "duration_ms": 302239,
       "name": "Justice to Believe",
       "url": "https://open.spotify.com/track/2VXquJgTo2SfzCYLgz5cOj"
+    },
+    {
+      "album": {
+        "name": "SECRET AMBITION",
+        "url": "https://open.spotify.com/album/2M97BLXBpREKzRgChj527r"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223266,
+      "name": "Level Hi!",
+      "url": "https://open.spotify.com/track/4TlPCcw4M9clVHqHSHYWP7"
     },
     {
       "album": {
@@ -1280,7 +1316,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 250506,
       "name": "Take a shot",
       "url": "https://open.spotify.com/track/79wJSBmb8e3wRR8j9znvk0"

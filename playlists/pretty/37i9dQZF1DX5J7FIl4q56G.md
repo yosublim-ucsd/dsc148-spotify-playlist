@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: Scene Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,095 likes - 56 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,143 likes - 56 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 32 | [The Doomsday Clock](https://open.spotify.com/track/3JckPqchoAniLrxyRiq82j) | [Mister Misery](https://open.spotify.com/artist/6Dj5ptalBwr1kD35IljMeg) | [The Doomsday Clock](https://open.spotify.com/album/0ilMPn2NgTzh5kvyJBnphe) | 3:42 |
 | 33 | [CTRL](https://open.spotify.com/track/4WNyYOoxDl97rKtmx7PAox) | [Set for Tomorrow](https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK) | [CTRL](https://open.spotify.com/album/3ygJ8CQHYRGGD6hkESVgi3) | 2:43 |
 | 34 | [Shatter the Mountain](https://open.spotify.com/track/1KZCXjnaY1QgIpA7X7PU40) | [Zetra](https://open.spotify.com/artist/19OKi91yhqwfQqFyROn06f), [Kælan Mikla](https://open.spotify.com/artist/28meEMqGpDrolyQ9OVoDAH), [Sólveig Matthildur](https://open.spotify.com/artist/2QtMOKcnJQFfUyhnW0IQA3) | [Shatter the Mountain](https://open.spotify.com/album/409RS4R1LJquawtUovwrK5) | 3:50 |
-| 35 | [Les Morts Sont Nés Ici](https://open.spotify.com/track/3FCu7etdoHGPLrVB9wQzav) | [Sunfall](https://open.spotify.com/artist/740XnUGK1y8DMyMZSgRjVN) | [Les Mortes Sont Nés Ici](https://open.spotify.com/album/7lC9eYScJElBzdLhuMy87Q) | 4:04 |
+| 35 | [Les Morts Sont Nés Ici](https://open.spotify.com/track/3FCu7etdoHGPLrVB9wQzav) | [Sunfall](https://open.spotify.com/artist/740XnUGK1y8DMyMZSgRjVN) | [Les Morts Sont Nés Ici](https://open.spotify.com/album/7lC9eYScJElBzdLhuMy87Q) | 4:04 |
 | 36 | [I Feel It All Here.](https://open.spotify.com/track/6cpDBxkaNwUk1LUfnHCQcH) | [Lee McKinney](https://open.spotify.com/artist/5CotvGkMRk09lfNGt4i7nn) | [I Feel It All Here.](https://open.spotify.com/album/41Kho3eMGbw6Bhxw659zVo) | 3:13 |
 | 37 | [Aristocratic Suicidal Black Metal](https://open.spotify.com/track/1OqcS5zVE1oaghjQkcwLhB) | [Spectral Wound](https://open.spotify.com/artist/3i6zP2x9GMBV3WyRzqQtM6) | [Aristocratic Suicidal Black Metal](https://open.spotify.com/album/2QVl6o1eN68Lc1iyjXmWHD) | 6:00 |
 | 38 | [Blood On The Dance Floor](https://open.spotify.com/track/5OhCdyKQc4sUOamFP3QTrC) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [Blood On The Dance Floor](https://open.spotify.com/album/6dC0Vn6zTRQsQ25Ik9FvTr) | 3:20 |

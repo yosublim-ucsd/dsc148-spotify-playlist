@@ -1747,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "Into The Blue",
+        "url": "https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230466,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7"
+    },
+    {
+      "album": {
         "name": "Silver",
         "url": "https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10"
       },
@@ -3469,6 +3487,28 @@
     },
     {
       "album": {
+        "name": "Lena",
+        "url": "https://open.spotify.com/album/3aGQNTgUSPn8bu4XqHMBAM"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205922,
+      "name": "Lena",
+      "url": "https://open.spotify.com/track/2ma6FYKV0rIDhOhiquNdB6"
+    },
+    {
+      "album": {
         "name": "Dam Swindle x Salsoul Reworks Vol. 1",
         "url": "https://open.spotify.com/album/1axQNdwJ7JJ4yjmQ4ryPzf"
       },
@@ -4292,6 +4332,28 @@
       "duration_ms": 207500,
       "name": "New View",
       "url": "https://open.spotify.com/track/5ovfNHvYoSkgotc30bn8uL"
+    },
+    {
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/5IKPyU8dOpvPFQXxE9aekm"
+      },
+      "artists": [
+        {
+          "name": "Cezaire",
+          "url": "https://open.spotify.com/artist/6BqtukFFVB3LgyyOIH8t1z"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220333,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/3XqZ6qWdX7pKa4sbLZaFDk"
     },
     {
       "album": {
@@ -7414,6 +7476,24 @@
       "duration_ms": 164000,
       "name": "You 2 Thank",
       "url": "https://open.spotify.com/track/0r73aRdmx8uVeUzL6yYzSC"
+    },
+    {
+      "album": {
+        "name": "You Can Do Anything",
+        "url": "https://open.spotify.com/album/5rYDRc3OLQVqWqa41I3KBL"
+      },
+      "artists": [
+        {
+          "name": "YesYou",
+          "url": "https://open.spotify.com/artist/22qas00XuS5sVfW0YaR5Wd"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159392,
+      "name": "You Can Do Anything",
+      "url": "https://open.spotify.com/track/3mgBGxzglmgIK02jP5oqX2"
     },
     {
       "album": {

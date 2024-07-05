@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollandse hits. Cover: Afro Bros, John West, Monq & Billy Dans",
+  "description": "De nieuwste Hollandse hits. Cover: Andr\u00e9 Hazes & Mart Hoogkamer",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "Heerlijke Vakantie",
+        "url": "https://open.spotify.com/album/5bLmNRX9mb9D5gurA7Abmn"
+      },
+      "artists": [
+        {
+          "name": "Erik van Hoof",
+          "url": "https://open.spotify.com/artist/0PCXi9VjIC2BwLyDmEQ6G6"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192410,
+      "name": "Heerlijke Vakantie",
+      "url": "https://open.spotify.com/track/2fTLEmV2cAzHgBdyrfKcpx"
+    },
+    {
+      "album": {
         "name": "Het Lijkt Hier Wel Ibiza",
         "url": "https://open.spotify.com/album/6njQsNf4hEvlm2HOY7XLyg"
       },
@@ -432,6 +450,24 @@
       "duration_ms": 146514,
       "name": "Het Lijkt Hier Wel Ibiza",
       "url": "https://open.spotify.com/track/3vz8UKPERttXraKTnrGyAL"
+    },
+    {
+      "album": {
+        "name": "Hoe Ik Leven Moet",
+        "url": "https://open.spotify.com/album/4XSGwd3KwnR1XCpdSN2L11"
+      },
+      "artists": [
+        {
+          "name": "Jan van Est",
+          "url": "https://open.spotify.com/artist/1feKpwHpzkvIwaG7a8KwhE"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178571,
+      "name": "Hoe Ik Leven Moet",
+      "url": "https://open.spotify.com/track/1HwamkGmsC5nZxkTiiRRcr"
     },
     {
       "album": {
@@ -1185,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "Weg Uit De Sleur",
+        "url": "https://open.spotify.com/album/0I2hNthmZ2FkYIVOucbX4x"
+      },
+      "artists": [
+        {
+          "name": "Sieneke",
+          "url": "https://open.spotify.com/artist/3AbzwHPIn3CHOZ91SstXk0"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182299,
+      "name": "Weg Uit De Sleur",
+      "url": "https://open.spotify.com/track/6qexkjWsYMNlRdhv2ybFXR"
+    },
+    {
+      "album": {
         "name": "Where Is The Love",
         "url": "https://open.spotify.com/album/3RODDNkWybjxj2b1zD6Iwc"
       },
@@ -1316,6 +1370,28 @@
       "duration_ms": 188217,
       "name": "Zie Ik Jou Weer Morgen?",
       "url": "https://open.spotify.com/track/07iAKwRXb0yRWPK0cqasFZ"
+    },
+    {
+      "album": {
+        "name": "Zij Is Van Mij",
+        "url": "https://open.spotify.com/album/42ySQUp33CT7jH0XTOVYPh"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+        },
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145866,
+      "name": "Zij Is Van Mij",
+      "url": "https://open.spotify.com/track/5ElK7HPvWfRYOzz6F6ICId"
     },
     {
       "album": {

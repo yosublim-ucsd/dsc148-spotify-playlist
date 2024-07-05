@@ -1,6 +1,6 @@
 {
   "description": "Emotional and powerful - let your feelings out with these rock power ballads. Cover: Tina Turner",
-  "num_followers": 1174707,
+  "num_followers": 1174842,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/30ts0TMRhxu4usurOw99cE"
-      },
-      "artists": [
-        {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "If You Needed Somebody",
-      "url": "https://open.spotify.com/track/6GaFUMG9opnMytdc0lwnQw"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Don't Tread",
         "url": "https://open.spotify.com/album/6UyUf2nDnmV2CR36zgThs8"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 279846,
       "name": "Where You Goin' Now",
       "url": "https://open.spotify.com/track/3jaRUUaJUvS57h1DyVzUUX"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/30ts0TMRhxu4usurOw99cE"
+      },
+      "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "If You Needed Somebody",
+      "url": "https://open.spotify.com/track/6GaFUMG9opnMytdc0lwnQw"
     },
     {
       "added_at": "2024-06-26 02:22:53",

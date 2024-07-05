@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 170934,
       "name": "Close",
       "url": "https://open.spotify.com/track/6FsUpWNv3JWuV0EJTJWmaj"
@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 172290,
       "name": "Dance With You",
       "url": "https://open.spotify.com/track/7gjMLQHLqHDnfOwrIPvJoN"
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 205786,
       "name": "Deepest Warmest Love",
       "url": "https://open.spotify.com/track/3bWBl5a7hxPErtphOQDYM4"
@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 321528,
       "name": "DNA",
       "url": "https://open.spotify.com/track/2yfc79Ai0LwFSFokyEdoVT"
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 157884,
       "name": "Drought Is Over - Live",
       "url": "https://open.spotify.com/track/4hD3YpKYxanh4n9KyG3c2z"
@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 168000,
       "name": "El Roi",
       "url": "https://open.spotify.com/track/3RdKxgOgfAgxie976HrBPy"
@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 156749,
       "name": "Even If",
       "url": "https://open.spotify.com/track/7AJowvYX5w6D5iHOtDQS5w"
@@ -1664,7 +1664,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 208941,
       "name": "faithful",
       "url": "https://open.spotify.com/track/34LtaE6Wnen3JqUfWycai1"
@@ -1781,6 +1781,28 @@
     },
     {
       "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/0UXuJQY6bzVC84Tc2EsNQ6"
+      },
+      "artists": [
+        {
+          "name": "Seme",
+          "url": "https://open.spotify.com/artist/3xk81xlXKlED6mXxWvb5y3"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225493,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/2iXTnvraE7ECXJUNwyUeGZ"
+    },
+    {
+      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/5K4NDAwghkjPTGjfMqpztr"
       },
@@ -1796,7 +1818,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 324963,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/7c7yeYOwempuRVl1aArxdE"
@@ -1822,7 +1844,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 159183,
       "name": "For Jesus",
       "url": "https://open.spotify.com/track/2Risy7p5qRKyFW8KNlXMGm"
@@ -2077,6 +2099,28 @@
     },
     {
       "album": {
+        "name": "S.E.L.F",
+        "url": "https://open.spotify.com/album/6Nr3TfDODs4l81R8RKWa9B"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "Churemi",
+          "url": "https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171607,
+      "name": "Grace on Myself",
+      "url": "https://open.spotify.com/track/0AeKbsWLgBbIJoKlj5L1al"
+    },
+    {
+      "album": {
         "name": "RADICAL",
         "url": "https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE"
       },
@@ -2254,7 +2298,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 100259,
       "name": "HOLY - Choir Version",
       "url": "https://open.spotify.com/track/2QrNCXp6HbRAcIDVT3Umra"
@@ -2666,7 +2710,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 165616,
       "name": "Joy - Part 2",
       "url": "https://open.spotify.com/track/0za9HWZNolYLJBm46xCXhr"
@@ -2978,7 +3022,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 177091,
       "name": "Love",
       "url": "https://open.spotify.com/track/1S2NMFWtAIrP1uXeq101Cw"
@@ -3004,7 +3048,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 136343,
       "name": "Love",
       "url": "https://open.spotify.com/track/53YsxPfny6Z3fiTBqvzlxQ"
@@ -3056,6 +3100,28 @@
       "duration_ms": 188628,
       "name": "Loved",
       "url": "https://open.spotify.com/track/6MG67vKhgT79hSKS9PHPuY"
+    },
+    {
+      "album": {
+        "name": "Loyalty",
+        "url": "https://open.spotify.com/album/7FNNWx0xxMIbwqtgQUqtPv"
+      },
+      "artists": [
+        {
+          "name": "Feiboky",
+          "url": "https://open.spotify.com/artist/54C7KuGlyN5e8WPyWUJYMw"
+        },
+        {
+          "name": "Drakare",
+          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243332,
+      "name": "Loyalty",
+      "url": "https://open.spotify.com/track/0xSpwjKjzT2RccxUmZBfrw"
     },
     {
       "album": {
@@ -3436,7 +3502,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 163188,
       "name": "My God",
       "url": "https://open.spotify.com/track/3EpqZOIMNBBbFJDJDw9Oyw"
@@ -5868,7 +5934,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 92580,
       "name": "What's on your mind?",
       "url": "https://open.spotify.com/track/3AvnVkCpr9Ux8xQxtUpRqn"
@@ -5898,6 +5964,24 @@
       "duration_ms": 170960,
       "name": "What's up",
       "url": "https://open.spotify.com/track/26g3lvoV0OsDqhSdharPMX"
+    },
+    {
+      "album": {
+        "name": "Where I For Dey",
+        "url": "https://open.spotify.com/album/0hsksKMIUQgofLyKMn7hSk"
+      },
+      "artists": [
+        {
+          "name": "Olabayo",
+          "url": "https://open.spotify.com/artist/5fwsRZi2lECkP2rqK74aaC"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197150,
+      "name": "Where I For Dey",
+      "url": "https://open.spotify.com/track/1qIE2ogrZtES8erjkrKYqt"
     },
     {
       "album": {
@@ -6040,7 +6124,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 246000,
       "name": "YOU ARE GOOD",
       "url": "https://open.spotify.com/track/6iXQadQ6uFvE4ylvl2975l"

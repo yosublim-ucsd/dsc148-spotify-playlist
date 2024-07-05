@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Max Baby",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : KLON",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -932,6 +932,24 @@
       "duration_ms": 181840,
       "name": "D\u00e9sol\u00e9, mon c\u0153ur",
       "url": "https://open.spotify.com/track/2E2sgLXYIFUAEtBtgv0KMT"
+    },
+    {
+      "album": {
+        "name": "ORUMA",
+        "url": "https://open.spotify.com/album/7nnGjWjxmXLZNaiMZ0LfDi"
+      },
+      "artists": [
+        {
+          "name": "VISCERAL",
+          "url": "https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128479,
+      "name": "ECLIPSE",
+      "url": "https://open.spotify.com/track/6YqjF5hxtVoQJmqTAsMt1z"
     },
     {
       "album": {
@@ -2684,7 +2702,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 142853,
       "name": "SANS MOI",
       "url": "https://open.spotify.com/track/15Bl9bwkJvgUnz1yqHfxfh"

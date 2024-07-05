@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: ALT BLK ERA",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Koteri",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -1390,6 +1390,24 @@
       "duration_ms": 337893,
       "name": "For You",
       "url": "https://open.spotify.com/track/2MRo59IW5O13nu0BIBqhW0"
+    },
+    {
+      "album": {
+        "name": "Fortune Green",
+        "url": "https://open.spotify.com/album/4QeB3eT7TwAaeIsqKMTW7o"
+      },
+      "artists": [
+        {
+          "name": "Koteri",
+          "url": "https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144331,
+      "name": "Fortune Green",
+      "url": "https://open.spotify.com/track/41arbLAzIm7uV8T0dCZNio"
     },
     {
       "album": {

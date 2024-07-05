@@ -244,7 +244,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 319040,
       "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
       "url": "https://open.spotify.com/track/4DPh5NuaRuSSMTemdEoFCk"
@@ -681,6 +681,28 @@
     },
     {
       "album": {
+        "name": "Gal\u00e1ctico",
+        "url": "https://open.spotify.com/album/200FKPXy4oVrOAZUTNkhwj"
+      },
+      "artists": [
+        {
+          "name": "Joe Tatton Trio",
+          "url": "https://open.spotify.com/artist/6qcoIF0fTKHm5g9YGGZkQr"
+        },
+        {
+          "name": "Lucas de Mulder",
+          "url": "https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285840,
+      "name": "Hey!",
+      "url": "https://open.spotify.com/track/2nMyHooP9Uc8M1I0NUQUJZ"
+    },
+    {
+      "album": {
         "name": "Anaconga",
         "url": "https://open.spotify.com/album/7nB9nRoU9HuXjFXbSrANhq"
       },
@@ -754,6 +776,24 @@
       "duration_ms": 191000,
       "name": "ILa",
       "url": "https://open.spotify.com/track/4rfNk6NKqmof6v3MvSm2JL"
+    },
+    {
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/4DocDEGzuG9MzMzRUY6Fuy"
+      },
+      "artists": [
+        {
+          "name": "Rosie Lowe",
+          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124373,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/6VBNhjwLvHkpQmhlhofBGX"
     },
     {
       "album": {
@@ -1316,7 +1356,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 238786,
       "name": "Rust (feat. Tom Misch)",
       "url": "https://open.spotify.com/track/4qeYJlD4CZFWfe8PNbVnBr"

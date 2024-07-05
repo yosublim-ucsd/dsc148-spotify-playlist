@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈 Cover: Sara Landry
 
-127 songs - 10 hr 34 min
+129 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Full Belly](https://open.spotify.com/track/3FO2udFq5htKXTN61UwDNU) | [Cera Khin](https://open.spotify.com/artist/49QMv0RvuxcUG8Xk6YweEz) | [Full Belly](https://open.spotify.com/album/3RzpO4RjhbgfiAJjmxoM67) | 5:17 | 2024-04-09 |  |
 | [Gettogether](https://open.spotify.com/track/4umMJJesNImOQ4uERpQtqA) | [H! Dude](https://open.spotify.com/artist/5EdJyUrE9kntnBdcVTVLAe) | [Gettogether](https://open.spotify.com/album/3OYEIb3CxkmIxheEGnSUpB) | 5:26 | 2024-04-09 |  |
 | [Gimme Some Love](https://open.spotify.com/track/4wAcWlwcrlnTMzpZQ23YjA) | [Vizionn](https://open.spotify.com/artist/58CoYe1IrKXe3FW3icZ2nU) | [Boombox Bangers](https://open.spotify.com/album/6Rk0CV8Op4dfujAxDT8gxf) | 5:28 | 2024-04-09 |  |
+| [Gipsy Queen](https://open.spotify.com/track/645khgMxKxkXqUEs4UrBB6) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Gipsy Queen EP](https://open.spotify.com/album/4p8kZszfLI7pLJjTEfrErx) | 3:22 | 2024-07-05 |  |
 | [Give Me a Break](https://open.spotify.com/track/5HAtVqY3fFmlyKHQTLd2cg) | [Carter Graham](https://open.spotify.com/artist/1fKvbFKG5LjDDw0agxGZQo) | [Silence](https://open.spotify.com/album/7h47uzPVw34uAn9pztCTUA) | 5:31 | 2024-04-09 |  |
 | [Go Get Some People](https://open.spotify.com/track/2gtY2fRwzWeFY1arZKuyp9) | [Danny Wabbit](https://open.spotify.com/artist/57vSMXKEfRZ02gI0D0frvP) | [Go Get Some People \- EP](https://open.spotify.com/album/23wXuuke1j3T9ibf9oaLaT) | 4:41 | 2024-04-09 |  |
 | [GOLDEN SZN](https://open.spotify.com/track/7n24EOW7ElKwtz5wXkzynQ) | [OGUZ](https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v), [Nyctonian](https://open.spotify.com/artist/7LexKs9s1tG7Ktkd7lMHBp) | [GOLDEN SZN](https://open.spotify.com/album/3qXVu7ROSjZ5YEdOwsK1FN) | 4:54 | 2024-04-09 |  |
@@ -92,6 +93,7 @@
 | [Phiom Enhah](https://open.spotify.com/track/1cNkaK5pxDe0J8lQt7bH4e) | [Rikhter](https://open.spotify.com/artist/01wXJJ2iH73waMzLrINVY6) | [Rik1](https://open.spotify.com/album/4gC5qeoacwAk63tLRB518u) | 5:31 | 2024-04-09 | 2024-06-14 |
 | [pkds](https://open.spotify.com/track/27maGlIjDHFDLD4WgkVA2A) | [Buttechno](https://open.spotify.com/artist/4XbQUkFYWthjpAPp96lHWt) | [badtrip](https://open.spotify.com/album/0MIXx7RTmFktP7Tbvn70AB) | 5:49 | 2024-04-09 | 2024-04-17 |
 | [Posh & Scary](https://open.spotify.com/track/03qSprDdxsPGSrMFpWPAva) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Parfait](https://open.spotify.com/artist/3tFRzplldDxib5z3YjQb6n) | [Various Artists 2 \- EP 1](https://open.spotify.com/album/2EryX3QueBkHLiomOEf6un) | 5:26 | 2024-04-09 |  |
+| [Prisoner](https://open.spotify.com/track/4MZvGawjIrPQpViMTfKb66) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alex Farell](https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I) | [Prisoner](https://open.spotify.com/album/0qdNWrDIjtA1yEZtQI7Onk) | 5:08 | 2024-07-05 |  |
 | [Profiler](https://open.spotify.com/track/2tjv041ykwK3QzDLE4AalM) | [Ueberrest](https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS) | [R009](https://open.spotify.com/album/65B1Fmg0fpHhJmcpnQbSLD) | 6:08 | 2024-04-09 |  |
 | [Psychotic Mind](https://open.spotify.com/track/6O3Aqqdc4IaSGwNWIfV8bN) | [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7), [CDRC](https://open.spotify.com/artist/5zt6G9G28RL3JmkiUiNZCY) | [Psychotic Mind](https://open.spotify.com/album/2RqwbCQR1obP0cIQTkcbRW) | 5:15 | 2024-04-09 | 2024-06-17 |
 | [Purple Widow](https://open.spotify.com/track/04GyfkxwKrbaa9qrZTu3Pa) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Purple Widow \(Original & Remix Versions\)](https://open.spotify.com/album/1u7qntdMJydlDDUPcO27At) | 6:21 | 2024-04-09 | 2024-06-14 |
@@ -102,7 +104,7 @@
 | [Ready \- Hard Techno Mix](https://open.spotify.com/track/0w3uKrQXk948YwATI7yUbd) | [Roentgen Limiter](https://open.spotify.com/artist/3XhTxLHKPhZrFuBdqmoc2L) | [Ready](https://open.spotify.com/album/5cxJyi502VfvaHBbZqKzOG) | 6:12 | 2024-04-09 |  |
 | [Real Lies](https://open.spotify.com/track/2gPgg1kOJ3LJZQwwKVCRhh) | [APHØTIC](https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4) | [Real Lies](https://open.spotify.com/album/1l2mHtjSxVp0BgTlMWugZW) | 5:27 | 2024-04-09 |  |
 | [Reverse Bitch](https://open.spotify.com/track/0X5SKepXgvauLJRWxS004t) | [BRÅWN](https://open.spotify.com/artist/6ZCwFfoR1cUmb4KR7mPGLt) | [FIRE SERIES Vol\. 2](https://open.spotify.com/album/1CspkKn0omUXfsqzcGnHkN) | 5:46 | 2024-04-09 |  |
-| [Rock & Roll And More Techno](https://open.spotify.com/track/3DKD1qmzLysOK3Yt1vQlgf) | [Noise Mafia](https://open.spotify.com/artist/4MiEz25tF9BmzSEU0XKqxS) | [HARD\-CORE VA](https://open.spotify.com/album/59N8rHXJBjNtWo3Mhfuu93) | 5:53 | 2024-04-19 |  |
+| [Rock & Roll And More Techno](https://open.spotify.com/track/3DKD1qmzLysOK3Yt1vQlgf) | [Noise Mafia](https://open.spotify.com/artist/4MiEz25tF9BmzSEU0XKqxS) | [HARD\-CORE VA](https://open.spotify.com/album/59N8rHXJBjNtWo3Mhfuu93) | 5:53 | 2024-04-19 | 2024-07-05 |
 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 | 2024-04-09 |  |
 | [Save Me \- RiVid Remix](https://open.spotify.com/track/4GILYMfBnLHYdOIZZ0C5dX) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [RiVid](https://open.spotify.com/artist/5XqhayYhh6DsTzBUMnTvnp) | [Save Me \(Remixes\)](https://open.spotify.com/album/06z8t1UoQWyLymmKW5JrX3) | 4:51 | 2024-04-09 |  |
 | [Sciophobia](https://open.spotify.com/track/0dhK1evthUOmcbXHZ783j6) | [DDRCK](https://open.spotify.com/artist/31Ovy6zggvwVys7H4pfauU), [CDRC](https://open.spotify.com/artist/5zt6G9G28RL3JmkiUiNZCY) | [Sciophobia](https://open.spotify.com/album/3mB37O4ILbfEqwAn8HbE1H) | 4:38 | 2024-04-09 |  |
@@ -122,7 +124,7 @@
 | [The Kickdrum](https://open.spotify.com/track/7ukXlDcPOZKz7lMMWSkahM) | [Thomas Deil](https://open.spotify.com/artist/5uYKQrTEx51AOXot2Z2Czl), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [The Kickdrum](https://open.spotify.com/album/7htNx91SOyDqjQofDpYfdh) | 2:19 | 2024-04-09 |  |
 | [The Moment That Matters](https://open.spotify.com/track/6lAVsz9nWf7NXF7hMXa1gS) | [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr) | [The Moment That Matters](https://open.spotify.com/album/4rVV1wCzENUR6s0MHyxioo) | 6:00 | 2024-05-22 |  |
 | [The Show Never Ends](https://open.spotify.com/track/2zPMafxpOc4IGB79uZLjtD) | [Joey Risdon](https://open.spotify.com/artist/1TAVfsRR0xQIcI6OxpCten) | [D.U.R.V.A.0.0.1](https://open.spotify.com/album/0QY39P2s5FpjMZFlFMQYRs) | 6:18 | 2024-04-09 |  |
-| [Thirst Trap](https://open.spotify.com/track/1VsnYd3NzzOgxIVqisMAWz) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Rebirth](https://open.spotify.com/album/3Q3OOeGLLpokswb5pyHLnn) | 5:58 | 2024-04-09 |  |
+| [Thirst Trap](https://open.spotify.com/track/1VsnYd3NzzOgxIVqisMAWz) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Rebirth](https://open.spotify.com/album/3Q3OOeGLLpokswb5pyHLnn) | 5:58 | 2024-04-09 | 2024-07-05 |
 | [Toro \(I Hate Models Speed Up Revival Edit of Andre VII RMX\)](https://open.spotify.com/track/1HIalwjo1TQVaB63BXbkQu) | [El Columpio Asesino](https://open.spotify.com/artist/7oXqKY12gSK5Q37dWZYWT0), [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN), [Andre VII](https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq) | [Toro \(I Hate Models Speed Up Revival Edit of Andre VII RMX\)](https://open.spotify.com/album/3J2Hrh8Zz20bTRTgKSBz60) | 6:11 | 2024-04-09 |  |
 | [Torx](https://open.spotify.com/track/5DhIH97LtpstokHxGHyLht) | [BAUGRUPPE90](https://open.spotify.com/artist/6pKJqozqp0jdugOsyFRGMx) | [Torx](https://open.spotify.com/album/2Im392fbN6HLOsNamMctGi) | 6:06 | 2024-04-09 |  |
 | [Trancy Bounce](https://open.spotify.com/track/2sFlh6vt8U5TN3rTBFxRBl) | [Sasuma](https://open.spotify.com/artist/1qUAy2qWAGnMh6xifHvCST) | [Trancy Bounce](https://open.spotify.com/album/60LfrprMRsOFUXUgJaeEai) | 4:06 | 2024-04-09 | 2024-05-23 |

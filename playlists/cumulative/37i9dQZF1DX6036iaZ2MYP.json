@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Amaarae",
+  "description": "Tracks popping off in the Afro scene. Cover: Qing Madi",
   "name": "Afro Station",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 116000,
       "name": "3X Bisous",
       "url": "https://open.spotify.com/track/3Dv0ZGCbh9eiPZCqvPmIBU"
@@ -576,6 +576,24 @@
       "duration_ms": 175264,
       "name": "AVAILABU",
       "url": "https://open.spotify.com/track/6hVwoGjU2l2tHk9Cm1kEiZ"
+    },
+    {
+      "album": {
+        "name": "AYA BB",
+        "url": "https://open.spotify.com/album/2cd2ZnghZC0gCcm3TCkUQa"
+      },
+      "artists": [
+        {
+          "name": "Hiro",
+          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173855,
+      "name": "AYA BB",
+      "url": "https://open.spotify.com/track/6K2y9U8wzNIddX3EpraCOx"
     },
     {
       "album": {
@@ -1753,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "C'est toi (Kk Yo)",
+        "url": "https://open.spotify.com/album/6G5OKzSOVS1n730jn7uEJ3"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125042,
+      "name": "C\u2019est toi (Kk Yo)",
+      "url": "https://open.spotify.com/track/2GXEKAHru6xQ5CTwYlL9jr"
+    },
+    {
+      "album": {
         "name": "Dada",
         "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
       },
@@ -2046,7 +2082,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 168651,
       "name": "Diamant brut",
       "url": "https://open.spotify.com/track/5VlQaW6JEFbdU8NWfJiVYA"
@@ -3320,7 +3356,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 154009,
       "name": "Habiba",
       "url": "https://open.spotify.com/track/2eKIj6uZddMcpI6ADoKsjf"
@@ -3913,6 +3949,28 @@
     },
     {
       "album": {
+        "name": "JABO",
+        "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "JABO",
+      "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
+    },
+    {
+      "album": {
         "name": "Jah",
         "url": "https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd"
       },
@@ -4284,7 +4342,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 276106,
       "name": "Komasava (Comment \u00c7a Va)",
       "url": "https://open.spotify.com/track/5mjxSIPHAMNk40q0nON5Cb"
@@ -5459,6 +5517,28 @@
     },
     {
       "album": {
+        "name": "Miel (Part. 1)",
+        "url": "https://open.spotify.com/album/2uiVm1pq07YTgyJmbYoYDz"
+      },
+      "artists": [
+        {
+          "name": "Wensly",
+          "url": "https://open.spotify.com/artist/3w01B4w7nqtWsIX5ShvHSV"
+        },
+        {
+          "name": "Bobyto",
+          "url": "https://open.spotify.com/artist/2MNWlgtOFNSDgtdWexqFfw"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156720,
+      "name": "Moula",
+      "url": "https://open.spotify.com/track/5VtetbSYKXWvycKUgiHliH"
+    },
+    {
+      "album": {
         "name": "My Baby",
         "url": "https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2"
       },
@@ -6373,6 +6453,24 @@
     },
     {
       "album": {
+        "name": "I'M IN PARIS, AND I MISS YOU",
+        "url": "https://open.spotify.com/album/53rcTFACETVJCuCbiOvqbC"
+      },
+      "artists": [
+        {
+          "name": "PapaRaZzle",
+          "url": "https://open.spotify.com/artist/4hfjJtqZRM6khacMfYHwTL"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143713,
+      "name": "PARIS",
+      "url": "https://open.spotify.com/track/41wy2A1XfCaQJc3dgMulwB"
+    },
+    {
+      "album": {
         "name": "Party Anthem (Amapiano)",
         "url": "https://open.spotify.com/album/1zIlLVhfWA2TwGnj3UwGPB"
       },
@@ -7254,7 +7352,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 126958,
       "name": "Searching",
       "url": "https://open.spotify.com/track/2imYbBOOllM62rDPk1eGUy"
@@ -8006,7 +8104,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 205000,
       "name": "TEQUILA",
       "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
@@ -9046,6 +9144,28 @@
       "duration_ms": 180000,
       "name": "YAWA",
       "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
+    },
+    {
+      "album": {
+        "name": "Qing Madi (Deluxe)",
+        "url": "https://open.spotify.com/album/4vxIotduGifC33fGSfxxom"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195789,
+      "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
+      "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 3397,
+  "description": "This Is Touch\u00e9 Amor\u00e9. Los temas esenciales, todos en una lista.",
+  "num_followers": 3398,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoNDAAAAAACHIj56E32W8pus80bVfWEN",
+  "snapshot_id": "ZoSUgAAAAAD86CFHl2X1KC2XGpylfgy+",
   "tracks": [
     {
       "added_at": null,
@@ -50,15 +50,11 @@
         {
           "name": "Touch\u00e9 Amor\u00e9",
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        },
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
         }
       ],
-      "duration_ms": 302514,
-      "name": "Limelight",
-      "url": "https://open.spotify.com/track/1VWs302APzvQSw94xr7SSN"
+      "duration_ms": 183338,
+      "name": "Reminders",
+      "url": "https://open.spotify.com/track/6zR9nTk4eJ4TdbbNzE4wW0"
     },
     {
       "added_at": null,
@@ -118,11 +114,15 @@
         {
           "name": "Touch\u00e9 Amor\u00e9",
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        },
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
         }
       ],
-      "duration_ms": 183338,
-      "name": "Reminders",
-      "url": "https://open.spotify.com/track/6zR9nTk4eJ4TdbbNzE4wW0"
+      "duration_ms": 302514,
+      "name": "Limelight",
+      "url": "https://open.spotify.com/track/1VWs302APzvQSw94xr7SSN"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 102240,
-      "name": "Kerosene - Revived (Remixed / Remastered)",
-      "url": "https://open.spotify.com/track/1zx9RJjhSaX8RlwIx70LdZ"
+      "duration_ms": 128946,
+      "name": "DNA - Revived (Remixed / Remastered)",
+      "url": "https://open.spotify.com/track/6du0m5TxO4f8vmvKmtIjPK"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 128946,
-      "name": "DNA - Revived (Remixed / Remastered)",
-      "url": "https://open.spotify.com/track/6du0m5TxO4f8vmvKmtIjPK"
+      "duration_ms": 102240,
+      "name": "Kerosene - Revived (Remixed / Remastered)",
+      "url": "https://open.spotify.com/track/1zx9RJjhSaX8RlwIx70LdZ"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Searching For A Pulse/The Worth Of The World",
-        "url": "https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 103520,
-      "name": "I'll Deserve Just That",
-      "url": "https://open.spotify.com/track/31Aw4lTh5VI3lnlifsIP4G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dead Horse X",
         "url": "https://open.spotify.com/album/18mkStcF82XtIJT9ENw9pa"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 99320,
       "name": "Cadence (Anniversary Version)",
       "url": "https://open.spotify.com/track/5wzEnAa997Py5C7jACiYr9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Searching For A Pulse/The Worth Of The World",
+        "url": "https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 103520,
+      "name": "I'll Deserve Just That",
+      "url": "https://open.spotify.com/track/31Aw4lTh5VI3lnlifsIP4G"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crescent-Shaped Depression",
-        "url": "https://open.spotify.com/album/0yReIcLlaod3FUytt1cN5o"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 144650,
-      "name": "Crescent-Shaped Depression",
-      "url": "https://open.spotify.com/track/1Ly3zw0kDRbWPwv9P9f6aq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Touch\u00e9 Amor\u00e9",
         "url": "https://open.spotify.com/album/5K6eWqesCPkdNr7iiK2fnf"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 75600,
       "name": "Negotiating the Charade",
       "url": "https://open.spotify.com/track/7Hvl5UF5AKkQiyHL2UC5ku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crescent-Shaped Depression",
+        "url": "https://open.spotify.com/album/0yReIcLlaod3FUytt1cN5o"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 144650,
+      "name": "Crescent-Shaped Depression",
+      "url": "https://open.spotify.com/track/1Ly3zw0kDRbWPwv9P9f6aq"
     },
     {
       "added_at": null,

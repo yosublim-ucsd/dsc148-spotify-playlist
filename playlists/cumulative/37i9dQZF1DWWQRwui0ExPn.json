@@ -43217,6 +43217,28 @@
     },
     {
       "album": {
+        "name": "Sole Spirito",
+        "url": "https://open.spotify.com/album/73OInfJn9gRtYcCjZD0u4y"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        },
+        {
+          "name": "Made in M",
+          "url": "https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102236,
+      "name": "Frizzante",
+      "url": "https://open.spotify.com/track/3QcACSIExmfcnMx9ZUXIsO"
+    },
+    {
+      "album": {
         "name": "Froget Yo' Probs",
         "url": "https://open.spotify.com/album/3H4wE4vLhDBSXJacYQ7XZ9"
       },
@@ -45764,6 +45786,32 @@
     {
       "album": {
         "name": "Gold",
+        "url": "https://open.spotify.com/album/5vvp53egItvYzHUmIyckzG"
+      },
+      "artists": [
+        {
+          "name": "Maadrhino",
+          "url": "https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx"
+        },
+        {
+          "name": "Ezra Skys",
+          "url": "https://open.spotify.com/artist/2Ay5ctNDFzQQz4fWV3DGMT"
+        },
+        {
+          "name": "soave lofi",
+          "url": "https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151714,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/7IdPBPwuiemoNSbkck8rRx"
+    },
+    {
+      "album": {
+        "name": "Gold",
         "url": "https://open.spotify.com/album/2eRnea4a0V7mE2ppPPQ4a2"
       },
       "artists": [
@@ -46694,7 +46742,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 146176,
       "name": "Gorilla",
       "url": "https://open.spotify.com/track/6n1SyuPgwVylTIT3XPzpFK"
@@ -62050,7 +62098,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 147692,
       "name": "Last Beat Of The Year",
       "url": "https://open.spotify.com/track/12fjXJoziK4hIa0pdVY8p7"
@@ -91663,6 +91711,24 @@
     },
     {
       "album": {
+        "name": "Beach Weather",
+        "url": "https://open.spotify.com/album/5aX1yP6kJt0GtwvVLfq212"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Kluzek",
+          "url": "https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "Pura Vida",
+      "url": "https://open.spotify.com/track/5m4asY4DJQgTY9Mn7SJh2X"
+    },
+    {
+      "album": {
         "name": "Purdiedo",
         "url": "https://open.spotify.com/album/4je6OkCcrS1rCW3EQe8jmM"
       },
@@ -98022,7 +98088,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 102727,
       "name": "Sanna",
       "url": "https://open.spotify.com/track/2yT3qC2KGNKIpzvXgKsbXr"

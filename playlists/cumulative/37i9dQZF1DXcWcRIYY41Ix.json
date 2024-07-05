@@ -3851,6 +3851,24 @@
     },
     {
       "album": {
+        "name": "El Uniforme",
+        "url": "https://open.spotify.com/album/3yKCDNAd10ZlTVTSONPGye"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e's Clue",
+          "url": "https://open.spotify.com/artist/1sRWTOOn4OvDGoe1oXVFoE"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120020,
+      "name": "El Uniforme",
+      "url": "https://open.spotify.com/track/7cmLEaipTvsKCLhAURQJm3"
+    },
+    {
+      "album": {
         "name": "El Verano Que Vivimos",
         "url": "https://open.spotify.com/album/0WNi05EyoAFBDvKdqtVmYk"
       },
@@ -8396,7 +8414,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 200238,
       "name": "Peque\u00f1as Esperanzas",
       "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"

@@ -184,10 +184,32 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 163506,
       "name": "Ana Mali",
       "url": "https://open.spotify.com/track/2F2ynNJlWHldaZat6u2FCC"
+    },
+    {
+      "album": {
+        "name": "Ne3ne3 Radio",
+        "url": "https://open.spotify.com/album/2m0ZqwzrmYhnWa6xB4KhNI"
+      },
+      "artists": [
+        {
+          "name": "Tawsen",
+          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
+        },
+        {
+          "name": "Ataypapi",
+          "url": "https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156265,
+      "name": "Ana W Yak",
+      "url": "https://open.spotify.com/track/0KLFB5ip4HnLQOLrUgAc8P"
     },
     {
       "album": {
@@ -1183,6 +1205,28 @@
     },
     {
       "album": {
+        "name": "Maghreb Mashup 2024",
+        "url": "https://open.spotify.com/album/0Y6Ijnl23zcb4oo6Xn9YgG"
+      },
+      "artists": [
+        {
+          "name": "APPI3",
+          "url": "https://open.spotify.com/artist/673PHmeKP7xQGFSVfZNl4W"
+        },
+        {
+          "name": "NDM",
+          "url": "https://open.spotify.com/artist/1i6frs7ZgdH0x2LpA60SwK"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210374,
+      "name": "Maghreb Mashup 2024",
+      "url": "https://open.spotify.com/track/46fsLjBJfxYm3hcBXjZJ6H"
+    },
+    {
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA"
       },
@@ -1595,6 +1639,28 @@
     },
     {
       "album": {
+        "name": "Rom\u00e9o",
+        "url": "https://open.spotify.com/album/2G1S5u90hxevr1krTQHtaq"
+      },
+      "artists": [
+        {
+          "name": "L'Alg\u00e9rino",
+          "url": "https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192256,
+      "name": "Rom\u00e9o",
+      "url": "https://open.spotify.com/track/4bKCPRuTMaPTrj3TPisFu4"
+    },
+    {
+      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/0T0nzA4p3Ma3CK8WUBCPWM"
       },
@@ -1994,7 +2060,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 160473,
       "name": "Wili",
       "url": "https://open.spotify.com/track/1gFfVHvKnmKKQ7Cr3ymPCk"
@@ -2108,7 +2174,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 191659,
       "name": "Yemma",
       "url": "https://open.spotify.com/track/6weM3NHta6Zi0P4uyEus29"
@@ -2195,6 +2261,24 @@
     },
     {
       "album": {
+        "name": "Zina",
+        "url": "https://open.spotify.com/album/5huLEgCa6fmKy9rt5kWyAo"
+      },
+      "artists": [
+        {
+          "name": "ICE",
+          "url": "https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175497,
+      "name": "Zina",
+      "url": "https://open.spotify.com/track/2z40IRNtq5smsWqHeksIPx"
+    },
+    {
+      "album": {
         "name": "Zine Enem",
         "url": "https://open.spotify.com/album/5mUzblU04RqopziKae00ZY"
       },
@@ -2250,7 +2334,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 171193,
       "name": "\u00c9coute Moi",
       "url": "https://open.spotify.com/track/39BRscIkSE49Royu0tBlox"

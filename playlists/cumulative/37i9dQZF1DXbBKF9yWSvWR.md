@@ -4,7 +4,7 @@
 
 > For your daily dosis of music with an Indie twist\. Cover: Sylvie Kreusch
 
-60 songs - 3 hr 21 min
+61 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,9 +30,10 @@
 | [Everybody Knows](https://open.spotify.com/track/2o7RGgpWWr8eQMidtLlNNi) | [The Bony King of Nowhere](https://open.spotify.com/artist/1yToTiAOIt4mXKlHBP8vyv) | [Everybody Knows](https://open.spotify.com/album/4TSxrcY6rxsiCeTP4QlFEd) | 4:05 | 2024-06-24 |  |
 | [everything, everything](https://open.spotify.com/track/07seC0rRllphiN1IBjwVxs) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [everything, everything](https://open.spotify.com/album/66BqyUv8JAh1rOMddnnCJv) | 4:19 | 2024-06-24 |  |
 | [Give It Back to Me](https://open.spotify.com/track/5XdQJhxNoH6XCKMqjp8ibG) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Give It Back to Me](https://open.spotify.com/album/0YRdgQKM1I5xEThuYDMPq0) | 4:22 | 2024-06-24 |  |
+| [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-07-04 |  |
 | [High Life](https://open.spotify.com/track/51CpldyP285fsyago28ncM) | [Lov3less](https://open.spotify.com/artist/35uSH8tDlmVMM4Z4RpcxY8) | [High Life](https://open.spotify.com/album/78vyonhsN8TAxopDc73yUP) | 2:43 | 2024-06-24 |  |
 | [Hocus Pocus](https://open.spotify.com/track/2ToN3eKF4xLBM0yihlNQB0) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Hocus Pocus](https://open.spotify.com/album/20MzdqGreRzxHFxWIdXFgF) | 3:18 | 2024-06-27 |  |
-| [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-06-24 |  |
+| [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-06-24 | 2024-07-05 |
 | [House Down](https://open.spotify.com/track/6qWHMBqB7lQnUfI32GUaWh) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [House Down](https://open.spotify.com/album/2ir3ghqP2yPb1ECCXPjJim) | 3:05 | 2024-06-24 |  |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/2j2Ff4Tl9WNvkeey3ChP7k) | [HEBE](https://open.spotify.com/artist/1MRHpcPa6DxFio08LUpuFJ) | [I Guess I Just Feel Like](https://open.spotify.com/album/7lyKRWnqVdzhj6AXVX9qfV) | 3:06 | 2024-06-24 |  |
 | [i'm not afraid of dying](https://open.spotify.com/track/5b82NDDYznzAYwu3iT6tky) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 3:20 | 2024-06-24 |  |

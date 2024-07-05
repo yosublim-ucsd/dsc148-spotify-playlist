@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Ilias Kampakakis",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Aspa",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -190,10 +190,32 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 163548,
       "name": "Ay Ay (Magissa)",
       "url": "https://open.spotify.com/track/3QwDFpWlJ0tuaj1fG1K0Rc"
+    },
+    {
+      "album": {
+        "name": "De Mas Xorizei Tipota",
+        "url": "https://open.spotify.com/album/6iOXetU4xwcNswf29HkTOE"
+      },
+      "artists": [
+        {
+          "name": "Andromache",
+          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
+        },
+        {
+          "name": "Giorgos Livanis",
+          "url": "https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203720,
+      "name": "De Mas Xorizei Tipota",
+      "url": "https://open.spotify.com/track/66AEZAyDrD2bnVQxC3eOsW"
     },
     {
       "album": {
@@ -226,7 +248,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 193963,
       "name": "Dyskolos Xaraktiras",
       "url": "https://open.spotify.com/track/2nmWMCVLLeyePXtCrVacyH"
@@ -412,7 +434,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 199285,
       "name": "Kapios San Esena",
       "url": "https://open.spotify.com/track/2HDxzXnUO5PdzsV7iSbRWL"
@@ -560,7 +582,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 195649,
       "name": "Odos Ginekas",
       "url": "https://open.spotify.com/track/5nGK1shX8eclhZTXSk5pOT"
@@ -582,6 +604,24 @@
       "duration_ms": 256862,
       "name": "Odos Monaxias",
       "url": "https://open.spotify.com/track/2RI7X5IlysmDCYm5F7IFam"
+    },
+    {
+      "album": {
+        "name": "Odos Tsimiski",
+        "url": "https://open.spotify.com/album/248qClzJD9BvwbV9F24bJ9"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189996,
+      "name": "Odos Tsimiski",
+      "url": "https://open.spotify.com/track/2TEHn9OHX4aq5uJOWkgbqu"
     },
     {
       "album": {
@@ -675,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Pyrkagia",
+        "url": "https://open.spotify.com/album/4uCEeBnYwu53WSl9WjPeYn"
+      },
+      "artists": [
+        {
+          "name": "Aspa",
+          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152275,
+      "name": "Pyrkagia",
+      "url": "https://open.spotify.com/track/5RyMvI0aHmmJTkTt54z1Zk"
+    },
+    {
+      "album": {
         "name": "S' Agapao Kai Den Pao Kala",
         "url": "https://open.spotify.com/album/66w9kLqtU9vOLEGllkaROT"
       },
@@ -740,7 +798,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 202889,
       "name": "Se Pira Sovara",
       "url": "https://open.spotify.com/track/728qx78UuEMdvq3UD25Ztc"
@@ -816,6 +874,24 @@
       "duration_ms": 164500,
       "name": "Ta Kalytera",
       "url": "https://open.spotify.com/track/6P177lVcscT2irH7dM9Ez0"
+    },
+    {
+      "album": {
+        "name": "Ta Katafera",
+        "url": "https://open.spotify.com/album/6Iq2fVh1Ed8DkAOJFeJILq"
+      },
+      "artists": [
+        {
+          "name": "Panos Kalidis",
+          "url": "https://open.spotify.com/artist/1rylldluHh9z6RiCzLNUsC"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238222,
+      "name": "Ta Katafera",
+      "url": "https://open.spotify.com/track/3lhBDCtZKM678s507pBkSb"
     },
     {
       "album": {
@@ -936,6 +1012,28 @@
       "duration_ms": 199551,
       "name": "Ti Sou Kanei",
       "url": "https://open.spotify.com/track/42xbZQ6iZlDtHjPfjdiINi"
+    },
+    {
+      "album": {
+        "name": "Tipota Tiheo",
+        "url": "https://open.spotify.com/album/2vRFI2kSuYWDyLW9RKm5Aw"
+      },
+      "artists": [
+        {
+          "name": "Ioulia Kallimani",
+          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
+        },
+        {
+          "name": "Michael Touratzidis",
+          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167310,
+      "name": "Tipota Tiheo",
+      "url": "https://open.spotify.com/track/6ArqqI0uQLJ8Mgp3PiMexH"
     },
     {
       "album": {

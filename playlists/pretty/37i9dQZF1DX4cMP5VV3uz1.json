@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 155961,
+  "num_followers": 156193,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -1375,54 +1375,6 @@
     {
       "added_at": "2024-07-02 08:24:46",
       "album": {
-        "name": "Party Muscle",
-        "url": "https://open.spotify.com/album/6n7uN281y0GWsNRmhzAcQG"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 122069,
-      "name": "Party Muscle",
-      "url": "https://open.spotify.com/track/2eEu7oUEeT3NhuxGiYXgaI"
-    },
-    {
-      "added_at": "2024-07-02 08:24:46",
-      "album": {
-        "name": "Cluster",
-        "url": "https://open.spotify.com/album/5X9rtUQlk7f04F9dsra2el"
-      },
-      "artists": [
-        {
-          "name": "Tantrum Desire",
-          "url": "https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS"
-        }
-      ],
-      "duration_ms": 249795,
-      "name": "Cluster",
-      "url": "https://open.spotify.com/track/47sojOFHCWJuDCDj3MFGnc"
-    },
-    {
-      "added_at": "2024-07-02 08:24:46",
-      "album": {
-        "name": "Energy In Motion",
-        "url": "https://open.spotify.com/album/45HkcoHxI0wvSk2QqHMdiL"
-      },
-      "artists": [
-        {
-          "name": "Circadian",
-          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
-        }
-      ],
-      "duration_ms": 260689,
-      "name": "Energy In Motion",
-      "url": "https://open.spotify.com/track/2j3Vsq1Xxoqlvz5UJAr1ED"
-    },
-    {
-      "added_at": "2024-07-02 08:24:46",
-      "album": {
         "name": "RAW!",
         "url": "https://open.spotify.com/album/7s9SBne8c7nCJbuCdsEWNj"
       },
@@ -1443,6 +1395,54 @@
       "duration_ms": 187750,
       "name": "RAW!",
       "url": "https://open.spotify.com/track/0upjyD41tJZjX8IlSLaNhp"
+    },
+    {
+      "added_at": "2024-07-02 08:24:46",
+      "album": {
+        "name": "Party Muscle",
+        "url": "https://open.spotify.com/album/6n7uN281y0GWsNRmhzAcQG"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 122069,
+      "name": "Party Muscle",
+      "url": "https://open.spotify.com/track/2eEu7oUEeT3NhuxGiYXgaI"
+    },
+    {
+      "added_at": "2024-07-02 08:24:46",
+      "album": {
+        "name": "Energy In Motion",
+        "url": "https://open.spotify.com/album/45HkcoHxI0wvSk2QqHMdiL"
+      },
+      "artists": [
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        }
+      ],
+      "duration_ms": 260689,
+      "name": "Energy In Motion",
+      "url": "https://open.spotify.com/track/2j3Vsq1Xxoqlvz5UJAr1ED"
+    },
+    {
+      "added_at": "2024-07-02 08:24:46",
+      "album": {
+        "name": "Cluster",
+        "url": "https://open.spotify.com/album/5X9rtUQlk7f04F9dsra2el"
+      },
+      "artists": [
+        {
+          "name": "Tantrum Desire",
+          "url": "https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS"
+        }
+      ],
+      "duration_ms": 249795,
+      "name": "Cluster",
+      "url": "https://open.spotify.com/track/47sojOFHCWJuDCDj3MFGnc"
     },
     {
       "added_at": "2024-07-02 08:24:46",

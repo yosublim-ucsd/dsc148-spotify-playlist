@@ -2,7 +2,7 @@
 
 ### [Youth Group Throwback](https://open.spotify.com/playlist/37i9dQZF1DWZnA0FshBt4S)
 
-> The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk
+> The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: <a href="spotify:artist:1zK4ACgLi1lVPpfmmcwOTh">DC Talk</a>
 
 90 songs - 6 hr 7 min
 

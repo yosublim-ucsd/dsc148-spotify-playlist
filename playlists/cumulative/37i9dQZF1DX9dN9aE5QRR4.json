@@ -1,8 +1,44 @@
 {
   "date_first_scraped": "2023-06-13",
-  "description": "La playlist officielle de l'\u00e9mission Nouvelle \u00c9cole Saison  2, disponible sur Netflix.",
+  "description": "La playlist officielle de l'\u00e9mission Nouvelle \u00c9cole Saison  3, disponible sur Netflix.",
   "name": "Nouvelle \u00c9cole",
   "tracks": [
+    {
+      "album": {
+        "name": "4 x Filtr\u00e9",
+        "url": "https://open.spotify.com/album/3JlLu53OoeSw6l9cN0KoUp"
+      },
+      "artists": [
+        {
+          "name": "Dadi",
+          "url": "https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221885,
+      "name": "4 x Filtr\u00e9",
+      "url": "https://open.spotify.com/track/0y2upIVjVwdY6VXHl6rLG8"
+    },
+    {
+      "album": {
+        "name": "42",
+        "url": "https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175842,
+      "name": "42",
+      "url": "https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg"
+    },
     {
       "album": {
         "name": "Air Max",
@@ -20,7 +56,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 205554,
       "name": "Air Max",
       "url": "https://open.spotify.com/track/2XESFfYekQ0mRau2GXjT3E"
@@ -38,10 +74,28 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 149995,
       "name": "Air Max TN - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1lhniJwch3tN8Vg5CHR2y6"
+    },
+    {
+      "album": {
+        "name": "Projet Chaos .1",
+        "url": "https://open.spotify.com/album/1KNolVRlYRWAp7wlb6WYE5"
+      },
+      "artists": [
+        {
+          "name": "Durden",
+          "url": "https://open.spotify.com/artist/6FmtyIjNfNWAUSbV486jxe"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201247,
+      "name": "Alabasta",
+      "url": "https://open.spotify.com/track/4cK4GnXzomc7SaLPjd2h6y"
     },
     {
       "album": {
@@ -56,10 +110,28 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 179769,
       "name": "AMF - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/0su56748WvAwZDecsY8ZNZ"
+    },
+    {
+      "album": {
+        "name": "Ancienne Belgique",
+        "url": "https://open.spotify.com/album/0bdMeMh5Xz91JMR0jE8OwW"
+      },
+      "artists": [
+        {
+          "name": "Youssef Swatt's",
+          "url": "https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191069,
+      "name": "Ancienne Belgique",
+      "url": "https://open.spotify.com/track/3swiqXkSQyAlaPbJeUxlr9"
     },
     {
       "album": {
@@ -78,7 +150,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 263773,
       "name": "Arr\u00eat du c\u0153ur",
       "url": "https://open.spotify.com/track/2zvseOSbmKBuYBOe264UYm"
@@ -96,7 +168,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 148000,
       "name": "Au cas o\u00f9 je vais percer",
       "url": "https://open.spotify.com/track/58bhnwRZwCImxenUZJWvOQ"
@@ -114,7 +186,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 170653,
       "name": "Autobahn",
       "url": "https://open.spotify.com/track/03o8WSqd2K5rkGvn9IsLy2"
@@ -132,7 +204,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 194344,
       "name": "Baby Mama",
       "url": "https://open.spotify.com/track/5XD8dAkKVX2RwjYEjgGY9j"
@@ -166,7 +238,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 285000,
       "name": "BAGARRE - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/4rgY6aiDHgEiRG6pZvfBPf"
@@ -184,10 +256,86 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 185000,
       "name": "Benze",
       "url": "https://open.spotify.com/track/3fwXNaxlslH41y3a47qela"
+    },
+    {
+      "album": {
+        "name": "Liens du 100",
+        "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176746,
+      "name": "Bolide allemand",
+      "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
+    },
+    {
+      "album": {
+        "name": "Ca y est ... J'suis l\u00e0",
+        "url": "https://open.spotify.com/album/5hb8dkyicIx6bgMQHmqkMi"
+      },
+      "artists": [
+        {
+          "name": "Kenz",
+          "url": "https://open.spotify.com/artist/4VGM96ndosnexzrvC3gI2p"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147748,
+      "name": "Ca y est ... J'suis l\u00e0",
+      "url": "https://open.spotify.com/track/2ZHu310HcSyHiZz2yz2z5A"
+    },
+    {
+      "album": {
+        "name": "LA VIE DU TRIPLE OG",
+        "url": "https://open.spotify.com/album/5du1qYrMbi78jEzaNf7NVj"
+      },
+      "artists": [
+        {
+          "name": "Mac Tyer",
+          "url": "https://open.spotify.com/artist/1PTl9q5EaEZejVGts7MBLN"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198426,
+      "name": "CARGO (feat. Tiakola)",
+      "url": "https://open.spotify.com/track/0chm8ReJ6d5O4RTDolJ68t"
+    },
+    {
+      "album": {
+        "name": "A7",
+        "url": "https://open.spotify.com/album/2VlYazP0xKrO9BxKe9wTZ4"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225920,
+      "name": "Champs-\u00c9lys\u00e9es",
+      "url": "https://open.spotify.com/track/3GA0XILGuMHjTTGcQtP7lu"
     },
     {
       "album": {
@@ -202,7 +350,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 165633,
       "name": "Chaud \u2013 Nouvelle \u00e9cole",
       "url": "https://open.spotify.com/track/4Vb1ztihzCqdC7szS4JHxs"
@@ -220,7 +368,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 148732,
       "name": "Come On",
       "url": "https://open.spotify.com/track/557X9hpi0tWsrCeD1yneDe"
@@ -256,7 +404,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 161240,
       "name": "Coucou",
       "url": "https://open.spotify.com/track/3kiTnvHHKipoAwa40GTGGy"
@@ -278,7 +426,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 183560,
       "name": "Crois-moi (feat. Ninho)",
       "url": "https://open.spotify.com/track/69I4Eynuxdj6LEmpvG56u6"
@@ -300,10 +448,32 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 176089,
       "name": "C\u00e9l\u00e8bre",
       "url": "https://open.spotify.com/track/3hHXDKVOfeHdqNoj9oDr8n"
+    },
+    {
+      "album": {
+        "name": "Daddy",
+        "url": "https://open.spotify.com/album/7M3SEQCleBaVkwdlogqHbc"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        },
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158367,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/1qG77EJYDIgxOTEsUZqNLx"
     },
     {
       "album": {
@@ -318,10 +488,28 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 111459,
       "name": "DES BARZ !",
       "url": "https://open.spotify.com/track/5EG3vHQxQAAF1MKIF4sq9w"
+    },
+    {
+      "album": {
+        "name": "NAKAMURA",
+        "url": "https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171133,
+      "name": "Djadja",
+      "url": "https://open.spotify.com/track/7sKDftgGirHWTVFMtJoDoh"
     },
     {
       "album": {
@@ -340,7 +528,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 227369,
       "name": "Donner",
       "url": "https://open.spotify.com/track/7mxliPI4zN8R3nHP8daeAN"
@@ -380,7 +568,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 158685,
       "name": "East London (Nouvelle \u00c9cole)",
       "url": "https://open.spotify.com/track/3GqyusQYjxssmHll5MLfQU"
@@ -398,7 +586,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 148142,
       "name": "Ego-Tripes",
       "url": "https://open.spotify.com/track/59z8cSxWytXyQT4Kk0atTD"
@@ -420,7 +608,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 109565,
       "name": "ELLA Y YO",
       "url": "https://open.spotify.com/track/70yKcPk3HV4jl4l5C41DKB"
@@ -446,7 +634,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 219187,
       "name": "FADE UP",
       "url": "https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB"
@@ -464,7 +652,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 180000,
       "name": "Finale - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM"
@@ -482,7 +670,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 184120,
       "name": "Genkidama",
       "url": "https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty"
@@ -518,10 +706,46 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 157071,
       "name": "Goal",
       "url": "https://open.spotify.com/track/3yPL30dEp7quFIPKZSNIsA"
+    },
+    {
+      "album": {
+        "name": "FULL OPTION",
+        "url": "https://open.spotify.com/album/64gWzun5ti8C2p8gvIrjYc"
+      },
+      "artists": [
+        {
+          "name": "James Loup",
+          "url": "https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175485,
+      "name": "HOMEMADE",
+      "url": "https://open.spotify.com/track/6E00uxTQsrmtdYTSCx0Yme"
+    },
+    {
+      "album": {
+        "name": "JEUNE MALAGASY",
+        "url": "https://open.spotify.com/album/5EoW0PPTKRCHFjgQRICIID"
+      },
+      "artists": [
+        {
+          "name": "JYEUHAIR",
+          "url": "https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135569,
+      "name": "JEUNE MALAGASY",
+      "url": "https://open.spotify.com/track/52NNcLKY2nG2vcGnsR3q0J"
     },
     {
       "album": {
@@ -536,7 +760,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 156600,
       "name": "Joli",
       "url": "https://open.spotify.com/track/2OFTQpmXnuVK1v6cFcqZuJ"
@@ -554,7 +778,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 166654,
       "name": "Jolie Go",
       "url": "https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg"
@@ -576,7 +800,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 200090,
       "name": "KYLL",
       "url": "https://open.spotify.com/track/1VYTP4prOc62xQe1KWf3S5"
@@ -594,7 +818,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 179426,
       "name": "La kiffance",
       "url": "https://open.spotify.com/track/4CWcaGtaOyAqBDKIeZMUe0"
@@ -616,7 +840,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 156000,
       "name": "Le jour se l\u00e8ve",
       "url": "https://open.spotify.com/track/3yIxVwVr33e5tW453JRlCt"
@@ -652,10 +876,46 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 138857,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/7h2xtz39bv1JnM3KnIt6pA"
+    },
+    {
+      "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/1kPpMyLk2aWFhjP6Jw51Gn"
+      },
+      "artists": [
+        {
+          "name": "AMK",
+          "url": "https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192182,
+      "name": "Malya",
+      "url": "https://open.spotify.com/track/5XRSmVzOdT0dd3mMEWFnQC"
+    },
+    {
+      "album": {
+        "name": "ME VOIL\u00c0",
+        "url": "https://open.spotify.com/album/1xmDvMNKREJDfHBVjexEnm"
+      },
+      "artists": [
+        {
+          "name": "Clara Charlotte",
+          "url": "https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174288,
+      "name": "ME VOIL\u00c0",
+      "url": "https://open.spotify.com/track/3qJzUKj78n8JzdxFjkfkGr"
     },
     {
       "album": {
@@ -674,7 +934,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 237706,
       "name": "Mwaka Moon",
       "url": "https://open.spotify.com/track/7LDq2cE0TQV66BXorbV8FD"
@@ -692,7 +952,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 157600,
       "name": "M\u00e9dusa",
       "url": "https://open.spotify.com/track/2hL0WVDLvlxZ60J4YyWvFW"
@@ -714,7 +974,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 130919,
       "name": "No Blabla",
       "url": "https://open.spotify.com/track/3CBRIyl1ZsGu8rE0J8fDB9"
@@ -732,10 +992,28 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 157046,
       "name": "No Signal",
       "url": "https://open.spotify.com/track/6XtAUuYIDr9gHTw2PXVBdx"
+    },
+    {
+      "album": {
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/13yfYvw7h3ncHzH1sBpxNM"
+      },
+      "artists": [
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141462,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/4ea9QYeB2wnSTCft9eeATj"
     },
     {
       "album": {
@@ -750,7 +1028,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 148250,
       "name": "OMAR LITTLE",
       "url": "https://open.spotify.com/track/3t4hOtxCpXWyb0AbPP4vMM"
@@ -775,6 +1053,42 @@
     },
     {
       "album": {
+        "name": "AMBITION",
+        "url": "https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117346,
+      "name": "ON D\u00c9GAINE",
+      "url": "https://open.spotify.com/track/53rGZ9nMZsUa55XYkdIjGJ"
+    },
+    {
+      "album": {
+        "name": "P.R",
+        "url": "https://open.spotify.com/album/6LvnCZmDBFKiw8nQiSBfDI"
+      },
+      "artists": [
+        {
+          "name": "Damys",
+          "url": "https://open.spotify.com/artist/486eivvjMrA8ZyjYzlie10"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114929,
+      "name": "P.R",
+      "url": "https://open.spotify.com/track/0486DtpyqmuhgClOBq2Z8x"
+    },
+    {
+      "album": {
         "name": "Pas un mot",
         "url": "https://open.spotify.com/album/7ycyuxxVMJrJzZNfkeWHIV"
       },
@@ -790,7 +1104,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 197731,
       "name": "Pas un mot",
       "url": "https://open.spotify.com/track/4XYTp59rMsS5WQc9eZwhTP"
@@ -812,7 +1126,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 195145,
       "name": "PERDU",
       "url": "https://open.spotify.com/track/43bfTCUSTBAJNWCourc7Mb"
@@ -834,10 +1148,46 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 189933,
       "name": "Petrouchka (feat. PLK)",
       "url": "https://open.spotify.com/track/24l2mDpWEmA7gWgmFJ8CIG"
+    },
+    {
+      "album": {
+        "name": "Pop $mok\u20ac",
+        "url": "https://open.spotify.com/album/5SSq4E9asJsReNnd7IMp8P"
+      },
+      "artists": [
+        {
+          "name": "Yorssy",
+          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120944,
+      "name": "Pop $mok\u20ac",
+      "url": "https://open.spotify.com/track/31qsklcu6f0djboRNvxltu"
+    },
+    {
+      "album": {
+        "name": "JVLIVS Prequel : Giulio",
+        "url": "https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210533,
+      "name": "Prequel",
+      "url": "https://open.spotify.com/track/0y2JXGqNraYN2gbnSLguWk"
     },
     {
       "album": {
@@ -856,7 +1206,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 192000,
       "name": "S.A.D (feat. Josman)",
       "url": "https://open.spotify.com/track/3NNawIkm2v7x971h8BIJdo"
@@ -874,7 +1224,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 156943,
       "name": "Seule",
       "url": "https://open.spotify.com/track/5OLUrLvTptlqQoieD1LZWP"
@@ -896,7 +1246,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 171512,
       "name": "Sound System",
       "url": "https://open.spotify.com/track/5f7BIsnqxFCgt4KqWI8Twy"
@@ -921,6 +1271,28 @@
     },
     {
       "album": {
+        "name": "Temps en temps",
+        "url": "https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153649,
+      "name": "Temps en temps",
+      "url": "https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G"
+    },
+    {
+      "album": {
         "name": "QUARTIERS NORD",
         "url": "https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC"
       },
@@ -940,7 +1312,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 192960,
       "name": "TOUT VA BIEN (feat. Ninho & Naps)",
       "url": "https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR"
@@ -958,7 +1330,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 172320,
       "name": "Trop tard",
       "url": "https://open.spotify.com/track/2lwgB5ReDf4VaW3Jm9JGp2"
@@ -976,7 +1348,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 146063,
       "name": "Welcome 4 #Eagle",
       "url": "https://open.spotify.com/track/3YKUOFcPeAJ7pxs7pg3jQk"

@@ -2,7 +2,7 @@
 
 ### [Carta Malaysia 50](https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77)
 
-> Lagu\-lagu yang terbaik di Malaysia\. Cover: Ernie Zakri, Ade Govinda
+> Lagu\-lagu yang terbaik di Malaysia\. Cover: Zizan Razak
 
 477 songs - 1 day 6 hr 4 min
 

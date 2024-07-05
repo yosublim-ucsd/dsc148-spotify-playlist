@@ -2,9 +2,9 @@
 
 ### [GLOW Italia](https://open.spotify.com/playlist/37i9dQZF1DXbj3m6LiQbmy)
 
-> Free to be! Musica dalla comunità LGBQTIA+ italiana\. Gianna Nannini in cover! ✨
+> Musica dalla comunità LGBQTIA+ 🇮🇹\. STE in cover! ✨
 
-357 songs - 21 hr 2 min
+359 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Honey \- Original mix](https://open.spotify.com/track/5AGGlWNS6to8ccEt4goFd8) | [Fivequestionmarks](https://open.spotify.com/artist/2LuGWCQe0znzHPriNsi2bg), [Produkkt](https://open.spotify.com/artist/10AGP2d21KeHinRjJNaf4b) | [Zucchero](https://open.spotify.com/album/2cXFVGdObf28i68Sl6GMPs) | 3:53 | 2022-07-07 | 2024-01-09 |
 | [How Do U Feel](https://open.spotify.com/track/1LjJjkKtr7N7zGGfyBl3M1) | [HU](https://open.spotify.com/artist/3j2O9djceEokL0sthXZwDn) | [How Do U Feel](https://open.spotify.com/album/71NytofTYW4F5hBuDLMPY7) | 2:34 | 2024-01-08 |  |
 | [How I Became A House](https://open.spotify.com/track/2J2VP9r6Tq8yPuxEVd4UJy) | [Dafne](https://open.spotify.com/artist/54xPMIEeUNucXIoW23jWoH) | [Loser With A Strategy](https://open.spotify.com/album/3ja6JyJDSg2ucusI9kFUbG) | 2:59 | 2022-04-01 |  |
-| [I Know Your Present](https://open.spotify.com/track/3CD3Ymds6yWnVHBNDYfZTA) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I Know Your Present](https://open.spotify.com/album/3HWZFc7EIvG09YxKQivd1G) | 3:49 | 2023-05-09 |  |
+| [I Know Your Present](https://open.spotify.com/track/3CD3Ymds6yWnVHBNDYfZTA) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I Know Your Present](https://open.spotify.com/album/3HWZFc7EIvG09YxKQivd1G) | 3:49 | 2023-05-09 | 2024-07-05 |
 | [I Know Your Present](https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I Know Your Present](https://open.spotify.com/album/709nDzklqvM2wkTRF7Gqkt) | 3:49 | 2023-05-09 | 2024-04-19 |
 | [I Missed You Too](https://open.spotify.com/track/4o2c5swMPdirnnahplyswy) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [I Missed You Too](https://open.spotify.com/album/3S5pxAGiUKduiJGwnEzHno) | 3:35 | 2024-03-11 |  |
 | [I Nostri Fiori](https://open.spotify.com/track/3aMcfNmm7WR8V25FpmGXtn) | [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt) | [I Nostri Fiori](https://open.spotify.com/album/2fUzYSRyRLva9J8T5PRMxa) | 3:26 | 2024-01-16 |  |
@@ -249,7 +249,7 @@
 | [Pepper on the Tongue](https://open.spotify.com/track/0pBhLio0KuHjWI1AOHL4H6) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym), [Curses](https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1) | [See You in Paradise](https://open.spotify.com/album/5lZL8Q3nz0oSRYMCiTOQFS) | 6:12 | 2023-05-04 |  |
 | [Perché Perché](https://open.spotify.com/track/3OKX9dzbRN5A00CSYwskmw) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Pourquoi pourquoi \(Version italienne\)](https://open.spotify.com/album/1SrQyM6ncymRhN0UvTG0jI) | 4:21 | 2021-11-19 | 2023-06-06 |
 | [Perché piangi Palermo](https://open.spotify.com/track/5akutvcrcoQwAc5EW8fTXo) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Perché piangi Palermo](https://open.spotify.com/album/5EIsaz5fXXV0gG8UdPTDey) | 5:49 | 2021-11-19 | 2023-06-09 |
-| [PETARDI](https://open.spotify.com/track/6aBkkxEVmDGC1o0DpxQcjM) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [PETARDI](https://open.spotify.com/album/0KFD7ttxVpwUGGHws8HKod) | 2:28 | 2023-10-12 |  |
+| [PETARDI](https://open.spotify.com/track/6aBkkxEVmDGC1o0DpxQcjM) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [PETARDI](https://open.spotify.com/album/0KFD7ttxVpwUGGHws8HKod) | 2:28 | 2023-10-12 | 2024-07-05 |
 | [Piccola Inutile](https://open.spotify.com/track/2BrerWrh38QmRzjaeN9PMU) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Piccola Inutile](https://open.spotify.com/album/220BF5aubxcU1oxYpl4qwg) | 3:19 | 2023-09-14 |  |
 | [Play With Myself](https://open.spotify.com/track/2oSAdln9nEAmkeXyKZuHBu) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Kuntessa](https://open.spotify.com/artist/3vJiNTj6tI54H1wa61rDlU) | [Maison Belissimo](https://open.spotify.com/album/2rQu03UOssXQjmatsLxWfb) | 3:54 | 2022-06-26 | 2023-06-09 |
 | [Power to the People \- Boombass Remix](https://open.spotify.com/track/5KI0TuNNQCPVQW7aaMB1EU) | [ROLLOVER DJS](https://open.spotify.com/artist/22XVOdZpIHdrMdyPnGAquF), [Boombass](https://open.spotify.com/artist/3EddlMzXk28s8fElHCfi6f) | [Power to the People](https://open.spotify.com/album/3RKkCUYEHlvyp1cQVAtx3t) | 6:18 | 2021-11-19 | 2022-07-27 |
@@ -286,6 +286,7 @@
 | [Scusa Baby](https://open.spotify.com/track/0nNDhbyYlRZ9hMwOfbA4w9) | [Sem&Stènn](https://open.spotify.com/artist/4urS4ezvKDRW6o0XQeRve5) | [Eroi](https://open.spotify.com/album/21hBaMoGY4pA0Z4epJn1oT) | 2:34 | 2023-01-25 |  |
 | [Senticomespinge](https://open.spotify.com/track/17iBrRvgQpvpfBOvGHWjpI) | [Ceri](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew), [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [WAXTAPE: IV° Movimento](https://open.spotify.com/album/6Nmr9WLa1Wq6p1QJ67QtPf) | 3:53 | 2022-05-25 | 2022-07-29 |
 | [Senticomespinge](https://open.spotify.com/track/47PZZhIc1rQd4CyZ9U0XXX) | [Ceri](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew), [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [WAXTAPE](https://open.spotify.com/album/5El2CB6KwFpF11EJNV0LdB) | 3:53 | 2023-06-05 | 2023-06-09 |
+| [Sexed & Sexual](https://open.spotify.com/track/1TDlpkrErbMcPJf8ODgTlh) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Sexed & Sexual](https://open.spotify.com/album/5K4Knt06ZayoEBqroeYW6h) | 2:54 | 2024-07-04 |  |
 | [SexyBack \(feat\. Timbaland\)](https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [FutureSex/LoveSounds](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) | 4:02 | 2022-06-12 | 2022-06-27 |
 | [Señoras Bien](https://open.spotify.com/track/0C60TsFeKSPCyTHolDUN0n) | [Las Bistecs](https://open.spotify.com/artist/2CR3phISm4GRBJ8YtqV4bn) | [Oferta](https://open.spotify.com/album/1DZl8V44ue9Z5mDqgvJTB2) | 3:30 | 2022-06-26 | 2023-01-25 |
 | [Shaked Psychosis](https://open.spotify.com/track/1BcfA6i31Rf9EsCeM78jWx) | [Lady Maru](https://open.spotify.com/artist/0oV0sSI6vWMWCBdJDu7P6Z) | [Spiritual Psychosis](https://open.spotify.com/album/1sEw2iRX7wrnKxHUvJGxfC) | 5:20 | 2023-06-08 |  |
@@ -357,6 +358,7 @@
 | [XANANAS](https://open.spotify.com/track/4RrMKlMwxVXIt9x8XaWJB2) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [XANANAS](https://open.spotify.com/album/7HO1A1BfCSnf15JdbXmi9C) | 3:52 | 2022-06-12 | 2022-06-27 |
 | [Xke a te piace](https://open.spotify.com/track/2QagxhyAXpj7CCn4oOWAxC) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [NXFEIT](https://open.spotify.com/artist/1gU9mTuXPAIAHzudmIXU8k) | [HORNYLAND 2000 \(Mixtape\)](https://open.spotify.com/album/0uFOAXdeGATshhzna1Df4y) | 2:31 | 2022-04-01 | 2022-05-26 |
 | [XTC \(feat\. LA NIÑA & BigMama\)](https://open.spotify.com/track/6N0wZxSpYH5pm6XrubgxEy) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 2:35 | 2022-05-31 | 2023-06-07 |
+| [YACHT CLUB](https://open.spotify.com/track/6akyMw7cDDCVGqrAwHA6b2) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [YACHT CLUB](https://open.spotify.com/album/0iwAIB5fDKkgUTpgBrDr7t) | 2:57 | 2024-07-04 |  |
 | [You Be](https://open.spotify.com/track/79cBivPnoqZt3w7peRRyNl) | [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8), [Jerry Bouthier](https://open.spotify.com/artist/0odCQ1NOW9JfbEKDE2FaAb), [Cristina Bugatty](https://open.spotify.com/artist/04T2arZOVbRRfJVOlrwPDi) | [You Be](https://open.spotify.com/album/4mwmk3D6vj2PEk4ITWODen) | 5:39 | 2021-11-19 | 2024-01-09 |
 | [You Keep Me Hangin' On](https://open.spotify.com/track/3Hi5bBuZeFT9nye7ZLpQGa) | [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:14 | 2022-04-01 | 2023-01-25 |
 | [Young Boy](https://open.spotify.com/track/44S6dzwZux8Juxe8wP5y6E) | [Maria Violenza](https://open.spotify.com/artist/0Z9mBVXA1TwmOpN6AP8wFy) | [Tendres Tenebres](https://open.spotify.com/album/7GV3u6Of9ZC5tSeBJJjtIZ) | 4:19 | 2023-02-28 |  |

@@ -2,7 +2,7 @@
 
 ### [2010s Country](https://open.spotify.com/playlist/37i9dQZF1DWXdiK4WAVRUW)
 
-> We're celebrating the 10th anniversary of Dan + Shay's debut album "Where It All Began" on 2010s Country!
+> The most memorable country hits from the 2010s\. Cover: Luke Bryan
 
 268 songs - 15 hr 57 min
 

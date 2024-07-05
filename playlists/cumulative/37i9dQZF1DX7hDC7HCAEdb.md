@@ -4,7 +4,7 @@
 
 > The best new alternative sounds from Scotland\. Cover: The LaFontaines
 
-70 songs - 3 hr 57 min
+73 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Here's Looking At You, Kid!](https://open.spotify.com/track/3qrdJp0kQATq1WvXW0GNML) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Here's Looking At You, Kid!](https://open.spotify.com/album/0pQe7BNRBgq6IxafMBlCFY) | 2:44 | 2024-06-20 |  |
 | [Hey](https://open.spotify.com/track/2C2MxVeZICwhhCrw3s84gH) | [Ramnäs](https://open.spotify.com/artist/5W6Vc4QzqCs3QvBMb7XkC8), [Soft Crystals](https://open.spotify.com/artist/66zsLlY6oOb8MiD06SYuTF) | [Hey](https://open.spotify.com/album/1eflsQhXBQXifqdJPNbTVp) | 3:07 | 2024-06-20 |  |
 | [hey dad](https://open.spotify.com/track/3SnNRAi8J5xGzylYH4RPjS) | [Vickie Paxton](https://open.spotify.com/artist/19tyvYKmgXcCBms7Ovomv3) | [hey dad](https://open.spotify.com/album/2JuyAx0ntafCShdyqoQb83) | 4:29 | 2024-06-20 |  |
-| [HOME](https://open.spotify.com/track/71qc8VB5Ub08N19jcXxRPq) | [boy\*](https://open.spotify.com/artist/3ZTz7yET871LD1ExdwaP9o) | [HOME](https://open.spotify.com/album/7qFexZPkKllAr48nFa1o8J) | 2:02 | 2024-06-20 |  |
+| [HOME](https://open.spotify.com/track/71qc8VB5Ub08N19jcXxRPq) | [boy\*](https://open.spotify.com/artist/3ZTz7yET871LD1ExdwaP9o) | [HOME](https://open.spotify.com/album/7qFexZPkKllAr48nFa1o8J) | 2:02 | 2024-06-20 | 2024-07-05 |
 | [Home Run](https://open.spotify.com/track/6tkTu2abcxLnvU1cVQDfJV) | [Finn Brodie](https://open.spotify.com/artist/2Y7hcvXoAGy0PLG2j5kPCX) | [Home Run](https://open.spotify.com/album/7DPkLFKMNNCa66xp7PXb6k) | 4:23 | 2024-06-20 |  |
 | [I Look Like A Fool To You](https://open.spotify.com/track/1g4XkTUbz735e6IAR5DQ7q) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [I Look Like A Fool To You](https://open.spotify.com/album/6FscwSoZ0kbDHO7CCsfsIn) | 3:08 | 2024-06-20 |  |
 | [IGNORE THIS](https://open.spotify.com/track/2fAepZ7Fl8sbwZXxkIZMpS) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [IGNORE THIS](https://open.spotify.com/album/1tI8iV5L67yiKB6g17rma3) | 3:09 | 2024-06-20 |  |
@@ -51,15 +51,18 @@
 | [Lighter](https://open.spotify.com/track/2NetoIJAYJiDdZRMDNYn0z) | [pedalo](https://open.spotify.com/artist/1fqIzizZUwYjMHQfjOj7Bk) | [Lighter](https://open.spotify.com/album/49oFGfNyeP24UkUxqqVQoM) | 3:35 | 2024-06-20 |  |
 | [Lost in Tokyo](https://open.spotify.com/track/57OxdbJtZklQTTRM57ZaFk) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [Island.](https://open.spotify.com/album/0xLzITpCXsu6fgGUfXCGaZ) | 2:54 | 2024-06-20 |  |
 | [MERCY KILL](https://open.spotify.com/track/2vX1GxoaaomoYsbRy5VjK6) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [MERCY KILL](https://open.spotify.com/album/0XzfAfWHhZlL7WSL6acUnx) | 3:06 | 2024-06-20 |  |
+| [New World Order](https://open.spotify.com/track/13ZmKAjcGiIX0Qwj4TpnkB) | [Big Miz](https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo) | [New World Order](https://open.spotify.com/album/0mLzhqgBQEnOq6Avo658IO) | 3:07 | 2024-07-05 |  |
 | [nothing bad will ever happen to me](https://open.spotify.com/track/7w3GtUBAAqn4e8BI8R2Da3) | [rEDOLENT](https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT) | [nothing bad will ever happen to me](https://open.spotify.com/album/4q8x1qZWpRpGCX91PHn8LT) | 2:39 | 2024-06-20 |  |
 | [Old Man's Eyes](https://open.spotify.com/track/6MSsRNrMc83o1q5AhPErzi) | [The Joy Hotel](https://open.spotify.com/artist/2QP5fu7d9SH1sat7LJ7ub4) | [Old Man's Eyes](https://open.spotify.com/album/5PpOowtc6JmfqsCxULHCGy) | 3:24 | 2024-06-20 |  |
 | [Only a Woman](https://open.spotify.com/track/1I3bxKvMb56GbB701y9wvw) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [Only a Woman](https://open.spotify.com/album/2mRxXt7HAlwDaf0cqUTyCF) | 3:41 | 2024-06-20 |  |
 | [Only This Could Happen To Me](https://open.spotify.com/track/4tkNRCnN7TGV1ukMfIXuaU) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Karaoke Sellouts](https://open.spotify.com/album/6HinBdxcvcnRmm4QKvDP1d) | 3:24 | 2024-06-20 |  |
+| [Over The Moon](https://open.spotify.com/track/60N3qBaaCjK9Aq6Nt4Ujvy) | [Lewis McLaughlin](https://open.spotify.com/artist/6Th5PnKHXHqchkCl7pXeHz) | [Over The Moon](https://open.spotify.com/album/2bLTTdrndC5OnswWBbF6bu) | 4:29 | 2024-07-05 |  |
+| [Photobooth](https://open.spotify.com/track/3sw0xXDVupxDehe4EeA8vz) | [Swiss Portrait](https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE) | [Photobooth](https://open.spotify.com/album/4sfGi0V4wKK1BwrRPEMtRZ) | 2:56 | 2024-07-05 |  |
 | [Prevalent](https://open.spotify.com/track/0P33LDGm9juBr78xOFSa4x) | [The Kaves](https://open.spotify.com/artist/0vI8KviF30ZSCucgF2b3nn) | [Prevalent](https://open.spotify.com/album/7bcjALIKl2eBnauVNxKZfq) | 4:45 | 2024-06-20 |  |
 | [Private Public Transport](https://open.spotify.com/track/45ya9ZspTmOlZS1yVPNvWX) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Private Public Transport](https://open.spotify.com/album/56nAGy49ervIzPjAgZDHqL) | 3:20 | 2024-06-20 |  |
 | [PUBLIC ENEMY](https://open.spotify.com/track/2APs9TNlHP096WLwrGBlhE) | [La Mantra](https://open.spotify.com/artist/6UjKvtXEWoIwtWn2qNFcxb) | [PUBLIC ENEMY](https://open.spotify.com/album/4R1CjrhbitwpxzRQW3GY6P) | 2:49 | 2024-06-20 |  |
 | [Red Moon](https://open.spotify.com/track/5brIFiuTqTgZpNkPl4KKMa) | [Gary's Rainbow Shop](https://open.spotify.com/artist/2TYLPnkmNnJQdPGwPHEBhV) | [Red Moon](https://open.spotify.com/album/6RGUkMDxKH047m6P27Vvs5) | 2:42 | 2024-06-20 |  |
-| [Ride or Die](https://open.spotify.com/track/61r9UkhMDvzpbaSvBLyscX) | [Belly Rachel](https://open.spotify.com/artist/1ACa5a078zqkCA7kH9XtPZ) | [Ride or Die](https://open.spotify.com/album/1p1Px5AEBiqiKzZbI0q5dC) | 3:40 | 2024-06-20 |  |
+| [Ride or Die](https://open.spotify.com/track/61r9UkhMDvzpbaSvBLyscX) | [Belly Rachel](https://open.spotify.com/artist/1ACa5a078zqkCA7kH9XtPZ) | [Ride or Die](https://open.spotify.com/album/1p1Px5AEBiqiKzZbI0q5dC) | 3:40 | 2024-06-20 | 2024-07-05 |
 | [Separate Ways](https://open.spotify.com/track/7gPkzeoJjpGDd7cY3OUREm) | [sheluvsstutt](https://open.spotify.com/artist/04G87C6Hz6UpEzggwCc4QB), [ay3demi](https://open.spotify.com/artist/7gcq03kJfgHiW2qPTwS6q1) | [Separate Ways](https://open.spotify.com/album/3y6wiko4MXH0PkcxDej0f2) | 1:32 | 2024-06-20 |  |
 | [Set Me Free, I’m an Animal](https://open.spotify.com/track/7pgFijqqgOgTiTsy64oCZm) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Set Me Free, I'm an Animal](https://open.spotify.com/album/3qMQ2uQGoDllUYlW4jGV2h) | 3:36 | 2024-06-20 |  |
 | [So Sick](https://open.spotify.com/track/1rmogF9pGNdGKmug9rpW17) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [Island.](https://open.spotify.com/album/0xLzITpCXsu6fgGUfXCGaZ) | 2:28 | 2024-06-20 |  |
@@ -72,7 +75,7 @@
 | [TAKE CARE](https://open.spotify.com/track/0FQzUq3f6o5pJNhMJCA7qH) | [Nicky Lipp](https://open.spotify.com/artist/33pGE2Zo7ya0yyTW8oSalA) | [firsts.](https://open.spotify.com/album/0RQGsyCOUuEXEMSABUTAkc) | 3:10 | 2024-06-20 |  |
 | [talk2me](https://open.spotify.com/track/14hwMgJ8WHc24X6EA48XzP) | [toby sparham](https://open.spotify.com/artist/4C50Fj4gh3ZdNw2uA3hT9N) | [talk2me](https://open.spotify.com/album/5zkexxh0EMwAdlVcwJZCl4) | 1:59 | 2024-06-20 |  |
 | [The Masochist](https://open.spotify.com/track/5hLzEdcSmx3TJlhZF3b5jS) | [Lloyd's House](https://open.spotify.com/artist/7i7jdyMS3LtCponBP34ou9) | [The Masochist](https://open.spotify.com/album/185ltxsjd0kAt1HtIGleSM) | 4:46 | 2024-06-20 |  |
-| [Tired Of Being Alone](https://open.spotify.com/track/1cUWtqz5LeN7LsLu2DCQmw) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Tired Of Being Alone](https://open.spotify.com/album/69aS3IuY9tfPexhyElnJiA) | 4:43 | 2024-06-20 |  |
+| [Tired Of Being Alone](https://open.spotify.com/track/1cUWtqz5LeN7LsLu2DCQmw) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Tired Of Being Alone](https://open.spotify.com/album/69aS3IuY9tfPexhyElnJiA) | 4:43 | 2024-06-20 | 2024-07-05 |
 | [Universal Credit](https://open.spotify.com/track/272KzgZU381dedN18b7qzT) | [Shambolics](https://open.spotify.com/artist/5Zxk4WkmkKRjPyjmmCRAUR) | [Universal Credit](https://open.spotify.com/album/5GBhIOSB3AQRXWfjkNJcXa) | 3:18 | 2024-06-20 |  |
 | [Wash Your Wounds](https://open.spotify.com/track/01VMDmyPy8jxYXIThTQhbx) | [Gallus](https://open.spotify.com/artist/3DTAfcWpBw0deOabOAtNVC) | [Wash Your Wounds](https://open.spotify.com/album/0ShtuJHE4I5R6mFfBfmQy8) | 2:21 | 2024-06-20 |  |
 | [Witchy Emerald Eyes](https://open.spotify.com/track/4iB9Jviio97h44qLO4Iyyo) | [Brògeal](https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK) | [Witchy Emerald Eyes](https://open.spotify.com/album/1JnxrialNrzEDfYMSbfUrf) | 2:19 | 2024-06-20 |  |

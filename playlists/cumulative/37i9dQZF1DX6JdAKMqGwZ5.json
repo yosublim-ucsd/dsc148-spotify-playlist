@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Gala Nell.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Morreo.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 187300,
       "name": "Ahora Qu\u00e9",
       "url": "https://open.spotify.com/track/5dZ5xLXPB02NrOku9Vc0XP"
@@ -96,6 +96,24 @@
       "duration_ms": 148911,
       "name": "AL OTRO LADO",
       "url": "https://open.spotify.com/track/2VYGbSmszhkB0CKEZbVFNW"
+    },
+    {
+      "album": {
+        "name": "Algo que ganar",
+        "url": "https://open.spotify.com/album/3mr5uPl1njqUecgDQyV8Hr"
+      },
+      "artists": [
+        {
+          "name": "Casero",
+          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192666,
+      "name": "Algo que ganar",
+      "url": "https://open.spotify.com/track/3UJNuMmw1u6MAeuVOvkyMT"
     },
     {
       "album": {
@@ -172,6 +190,24 @@
       "duration_ms": 168885,
       "name": "BDH",
       "url": "https://open.spotify.com/track/2xjFhcTdQFACj6HPTQrrYU"
+    },
+    {
+      "album": {
+        "name": "Benzodiacepinas y Pilar Mir\u00f3",
+        "url": "https://open.spotify.com/album/6iCKWdTftXKZGAjLhcAV1o"
+      },
+      "artists": [
+        {
+          "name": "El Marido Ideal",
+          "url": "https://open.spotify.com/artist/1kk7TCkP1WAOjslkI0LMPU"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138705,
+      "name": "Benzodiacepinas y Caf\u00e9",
+      "url": "https://open.spotify.com/track/4X1tGalViOdCQkHkXWUZ3D"
     },
     {
       "album": {
@@ -419,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Delirio",
+        "url": "https://open.spotify.com/album/5lK4VPMoMSmF10tiBcY9Lp"
+      },
+      "artists": [
+        {
+          "name": "AMORE",
+          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125106,
+      "name": "Delirio",
+      "url": "https://open.spotify.com/track/2yieEZhp3n3xTNiqthVaui"
+    },
+    {
+      "album": {
         "name": "HIMNOS DE GUERRA",
         "url": "https://open.spotify.com/album/3yzgOyDvJiXYYUpxztRHaF"
       },
@@ -452,7 +506,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 148790,
       "name": "DEMONIO",
       "url": "https://open.spotify.com/track/6FQ4GVuaq7hTsFcSh7mqMZ"
@@ -510,7 +564,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 126720,
       "name": "EF\u00cdMERO",
       "url": "https://open.spotify.com/track/5gXR3Qj04wz3QTn26gHiYw"
@@ -528,7 +582,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 197885,
       "name": "El Faro",
       "url": "https://open.spotify.com/track/0or0IEapGFlUxDFXm7DtBh"
@@ -568,6 +622,24 @@
       "duration_ms": 170069,
       "name": "El verano de Elia y Elizabeth",
       "url": "https://open.spotify.com/track/3wlU3uK3OyFOaRuCahFvhI"
+    },
+    {
+      "album": {
+        "name": "El \u00faltimo rumor",
+        "url": "https://open.spotify.com/album/3Qf1nutq0p7tAfOYDLnjcG"
+      },
+      "artists": [
+        {
+          "name": "Espanto",
+          "url": "https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159513,
+      "name": "El \u00faltimo rumor",
+      "url": "https://open.spotify.com/track/0IEoSXu72fqQGM932uNXXQ"
     },
     {
       "album": {
@@ -819,6 +891,28 @@
     },
     {
       "album": {
+        "name": "EL AMOR",
+        "url": "https://open.spotify.com/album/56wDiCTzay7s8cH1QR8HNN"
+      },
+      "artists": [
+        {
+          "name": "laespadayelclavel",
+          "url": "https://open.spotify.com/artist/4v3KjF83OHIONLLYCVBm7Y"
+        },
+        {
+          "name": "Quince",
+          "url": "https://open.spotify.com/artist/2R1oJmkl57oERIg2zv2nKQ"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224102,
+      "name": "II. Flores",
+      "url": "https://open.spotify.com/track/5gwsRfaDuWLnh7OBXfU9Co"
+    },
+    {
+      "album": {
         "name": "invisible",
         "url": "https://open.spotify.com/album/5SBLJieZS1BQbNOqTXnQ01"
       },
@@ -1032,7 +1126,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 248093,
       "name": "Lo que Queda Tras el Apag\u00f3n",
       "url": "https://open.spotify.com/track/2Xfu3HBvqt29dTjuVQmDDs"
@@ -1068,7 +1162,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 192999,
       "name": "Los Dineros",
       "url": "https://open.spotify.com/track/6Y3v0gyfW22hFmXlqukDZJ"
@@ -1155,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
+        "url": "https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX"
+      },
+      "artists": [
+        {
+          "name": "Morreo",
+          "url": "https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114799,
+      "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
+      "url": "https://open.spotify.com/track/7Dc5ArYUZKm5DFN2SNWK3N"
+    },
+    {
+      "album": {
         "name": "Me la pegu\u00e9",
         "url": "https://open.spotify.com/album/51wfIhnYN76YmKEOyge1fv"
       },
@@ -1170,6 +1282,46 @@
       "duration_ms": 184551,
       "name": "Me la pegu\u00e9",
       "url": "https://open.spotify.com/track/5If3lF4jq4JiNAhgcdGo56"
+    },
+    {
+      "album": {
+        "name": "Medias Brillantes",
+        "url": "https://open.spotify.com/album/5BcPmB0HTXYGqXIPr95INE"
+      },
+      "artists": [
+        {
+          "name": "Cabiria",
+          "url": "https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215598,
+      "name": "Medias Brillantes",
+      "url": "https://open.spotify.com/track/5bGCyURMcLEhoijhaz10qw"
+    },
+    {
+      "album": {
+        "name": "Mejor que muera",
+        "url": "https://open.spotify.com/album/6SxTJOu9LUn2AYVMJFF5C3"
+      },
+      "artists": [
+        {
+          "name": "Caro Raro",
+          "url": "https://open.spotify.com/artist/4d9bVps5YG8iSVVfQVMSsP"
+        },
+        {
+          "name": "Papaya Club",
+          "url": "https://open.spotify.com/artist/40tfI19XPizQqSuf0nfuIX"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257689,
+      "name": "Mejor que muera",
+      "url": "https://open.spotify.com/track/5YcYhjjoZJsfVbkgF24YuN"
     },
     {
       "album": {
@@ -1383,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "PASARELA",
+        "url": "https://open.spotify.com/album/31TBz22wU0tj6LmyeeAuti"
+      },
+      "artists": [
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164534,
+      "name": "PASARELA",
+      "url": "https://open.spotify.com/track/6wXP0oiJk3gZXGfFNrKQaz"
+    },
+    {
+      "album": {
         "name": "Peregrino",
         "url": "https://open.spotify.com/album/0SeDqeZyGYdkNPXChFJ8xJ"
       },
@@ -1448,7 +1618,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 126000,
       "name": "Regalao",
       "url": "https://open.spotify.com/track/67Kif1sbSGb7gHmnN0tRUf"
@@ -1466,7 +1636,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 235565,
       "name": "relevante",
       "url": "https://open.spotify.com/track/5MsdSGMDYL4vPzoesYcOYt"
@@ -1774,7 +1944,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 246369,
       "name": "Tu olor",
       "url": "https://open.spotify.com/track/584vMaGygewON9eBMNT5ab"

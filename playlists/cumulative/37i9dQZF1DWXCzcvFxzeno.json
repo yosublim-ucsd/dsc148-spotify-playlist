@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Gipsy Queen EP",
+        "url": "https://open.spotify.com/album/4p8kZszfLI7pLJjTEfrErx"
+      },
+      "artists": [
+        {
+          "name": "Indira Paganotto",
+          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202472,
+      "name": "Gipsy Queen",
+      "url": "https://open.spotify.com/track/645khgMxKxkXqUEs4UrBB6"
+    },
+    {
+      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/7h47uzPVw34uAn9pztCTUA"
       },
@@ -1705,6 +1723,28 @@
     },
     {
       "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/0qdNWrDIjtA1yEZtQI7Onk"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "Alex Farell",
+          "url": "https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308642,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/4MZvGawjIrPQpViMTfKb66"
+    },
+    {
+      "album": {
         "name": "R009",
         "url": "https://open.spotify.com/album/65B1Fmg0fpHhJmcpnQbSLD"
       },
@@ -1908,7 +1948,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 353022,
       "name": "Rock & Roll And More Techno",
       "url": "https://open.spotify.com/track/3DKD1qmzLysOK3Yt1vQlgf"
@@ -2308,7 +2348,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 358024,
       "name": "Thirst Trap",
       "url": "https://open.spotify.com/track/1VsnYd3NzzOgxIVqisMAWz"

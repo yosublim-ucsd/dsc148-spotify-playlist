@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from the continent to Paris\. Photo : Tam Sir
+> African dance party music from the continent to Paris\. Photo : Josey
 
-188 songs - 10 hr 46 min
+189 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Enjaillement](https://open.spotify.com/track/1wmrKgGI7jHvsNUqJqMsQF) | [Ramses Tikaya](https://open.spotify.com/artist/0q00AIYSAbXj18rBqWCYT1), [Mix Premier](https://open.spotify.com/artist/7E4tPSohzAp4dXEnNuab75) | [Enjaillement](https://open.spotify.com/album/3kX7u6RihaZK11a5plv3LO) | 3:30 | 2022-09-29 | 2022-10-28 |
 | [Fan ou Amoureux](https://open.spotify.com/track/0HB11vrRhhiZrdIoenOVMS) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Fan ou Amoureux](https://open.spotify.com/album/3tUmrMOkfaf03TTiFn6QIy) | 3:55 | 2022-03-22 | 2022-09-09 |
 | [Faut déposer \(Dingriii !!\)](https://open.spotify.com/track/3eytZrHoUMaUjvV7bulqW0) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp), [Maa Bio](https://open.spotify.com/artist/07Zs2joCc5igkrjHAeYAEb) | [Faut déposer \(Dingriii !!\)](https://open.spotify.com/album/6tVL71Z3p6bhCN201TUCwX) | 2:49 | 2024-01-25 | 2024-06-07 |
-| [FAUT M'AFFICHER](https://open.spotify.com/track/40Ynf1HXntwWvZQQSnrzSb) | [Mike Alabi](https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM), [Graço](https://open.spotify.com/artist/1Ihd80RcqCuuKPvr1TW1Sh) | [FAUT M'AFFICHER](https://open.spotify.com/album/75McQXUc0TgiBIixgQyAGp) | 3:23 | 2024-05-02 |  |
+| [FAUT M'AFFICHER](https://open.spotify.com/track/40Ynf1HXntwWvZQQSnrzSb) | [Mike Alabi](https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM), [Graço](https://open.spotify.com/artist/1Ihd80RcqCuuKPvr1TW1Sh) | [FAUT M'AFFICHER](https://open.spotify.com/album/75McQXUc0TgiBIixgQyAGp) | 3:23 | 2024-05-02 | 2024-07-05 |
+| [Feu vert](https://open.spotify.com/track/0qOjLJv3YHdckDdSMBE8AR) | [Yvi Atia](https://open.spotify.com/artist/1pNYGkUNq8bmFCc6xbPlcx) | [Feu vert](https://open.spotify.com/album/14qQwarKqA4o9ZPmAJJ7Hx) | 3:10 | 2024-07-04 |  |
 | [Fimbu](https://open.spotify.com/track/12rxH5rW5Do2hFcxSDpgyV) | [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Tam Sir](https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X), [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Fimbu](https://open.spotify.com/album/2jyl8R6S0zxmO240mNhG4R) | 2:57 | 2024-03-28 |  |
 | [Galoper](https://open.spotify.com/track/20ai8KKeDZt0U0vQpclRI4) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ), [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Galoper](https://open.spotify.com/album/6R4VDE6rOcWJX0H0QVUfJR) | 3:21 | 2023-11-23 | 2024-01-12 |
 | [Gbêssê](https://open.spotify.com/track/4HnSuaffFKg2FveLpOubAr) | [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Gbêssê](https://open.spotify.com/album/60ZH03fBOxrVsHuP5VTdee) | 3:16 | 2021-12-20 | 2023-04-28 |

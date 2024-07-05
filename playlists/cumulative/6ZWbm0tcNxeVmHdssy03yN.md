@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-4,039 songs - 8 day 22 hr 4 min
+4,040 songs - 8 day 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1526,6 +1526,7 @@
 | [Hard To Pretend](https://open.spotify.com/track/2QALlvSnSqXW0ms29lwmEP) | [Bluey](https://open.spotify.com/artist/37cCRAGhoSGepKjv5j7MmI) | [Hard To Pretend](https://open.spotify.com/album/5Fsylr7LnyfzzGhDeRJN8e) | 2:12 | 2021-09-11 | 2021-09-18 |
 | [Hard Work](https://open.spotify.com/track/4n8OLZWxTNC1jYq95tW2kl) | [Desmond and the Tutus](https://open.spotify.com/artist/2Fe88RexUZSpwGxgpaR5uz) | [Hard Work](https://open.spotify.com/album/1S3b1c0sevpZs9saTal1l6) | 3:47 | 2020-11-03\* | 2020-11-21 |
 | [Harder](https://open.spotify.com/track/166hIb5g0FCf37deRZxTLV) | [D1](https://open.spotify.com/artist/5euc1u6sziElGT3AanXlDU) | [Harder](https://open.spotify.com/album/7n25vaGJoLSQjreNWQ5T9Z) | 2:37 | 2023-08-18 | 2023-12-14 |
+| [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-04 |  |
 | [Harvey's Prayer](https://open.spotify.com/track/4eERF7vAYjYv6HhkT2zHcS) | [Shooterkhumz](https://open.spotify.com/artist/0x52tpXiSmKKuKkpc0h3Lz), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Harvey’s Prayer](https://open.spotify.com/album/0XJLnWXFJT91B9X9bG5qso) | 2:49 | 2022-07-01 | 2022-07-30 |
 | [Hasta La Vista](https://open.spotify.com/track/00rgPXyfLwcIfCRpPS63ic) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Hasta La Vista](https://open.spotify.com/album/5EF0IS1ZwjaMEbUgnDWLph) | 3:15 | 2020-11-28 | 2021-01-16 |
 | [HASTA LUEGO](https://open.spotify.com/track/02Dg2fm8qWkrvG8gbIrIFA) | [Jonna Torres](https://open.spotify.com/artist/2RZ5MBBHsQ3bHQUPxF3MpD) | [HASTA LUEGO](https://open.spotify.com/album/5z79Rp8mj8saBg5ku8Muta) | 2:58 | 2023-02-17 | 2023-03-04 |

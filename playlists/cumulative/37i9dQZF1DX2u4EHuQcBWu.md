@@ -4,14 +4,14 @@
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-304 songs - 20 hr 5 min
+305 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#43](https://open.spotify.com/track/3zfKRXybTgMrnpIqzBDtYi) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [\#Nopinchesmames](https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d) | 2:39 | 2021-09-24 | 2022-07-15 |
 | [2 De Octubre](https://open.spotify.com/track/4ehVKxTaMvbreqi6YE8yGW) | [Los Nakos](https://open.spotify.com/artist/0fBhtFTO53yIr08FU7qDQT) | [68/98](https://open.spotify.com/album/1iJ4IiBHIiRHvCOGsaQP3q) | 3:55 | 2021-09-24 | 2022-07-29 |
 | [2 de Octubre](https://open.spotify.com/track/66FI8Hc54T8r83QH8vD1LC) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Mostros](https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA) | 3:11 | 2021-09-24 |  |
-| [5 Malparidos](https://open.spotify.com/track/3utheouYKf2SEbo3mpeaBv) | [Aguas Ardientes](https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc) | [Guarever](https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF) | 4:44 | 2021-09-24 |  |
+| [5 Malparidos](https://open.spotify.com/track/3utheouYKf2SEbo3mpeaBv) | [Aguas Ardientes](https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc) | [Guarever](https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF) | 4:44 | 2021-09-24 | 2024-07-05 |
 | [Abajo y a la Izquierda](https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ejército de Paz](https://open.spotify.com/album/31M3drSiYALJMah8o3PGke) | 3:45 | 2022-04-01 |  |
 | [Abuso de Autoridad](https://open.spotify.com/track/2YOz9ahfbrr93hvnBDTySd) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [Adicto al Rock N Roll](https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ) | 2:01 | 2021-09-24 |  |
 | [Al Centro de la Injusticia](https://open.spotify.com/track/4yT9oSQbXPp3FpWgzmhM8g) | [Isabel Parra](https://open.spotify.com/artist/2aRPBh4HSVPmevvlsCySOt) | [Isabel Canta a Violeta](https://open.spotify.com/album/0N19bDrMu1S7MgaF2q2wb3) | 3:20 | 2021-09-24 | 2022-09-29 |
@@ -224,6 +224,7 @@
 | [Para Que Nunca Mas](https://open.spotify.com/track/3hucW9oJIdJkxjaNxAc6wd) | [Sol y Lluvia](https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI) | [Antología del Canto Nuevo Vol\. 2](https://open.spotify.com/album/6ABGUSzgpN1gX8vIW4abGu) | 2:27 | 2021-09-24 | 2024-04-19 |
 | [Para Que Nunca Mas](https://open.spotify.com/track/7ACpj3I4Gt4IdLRHlckv3j) | [Sol y Lluvia](https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI) | [Antologia del Canto Nuevo, Vol\. 2](https://open.spotify.com/album/0Wchq9DD5J26QOLkDpQD1W) | 2:27 | 2021-09-24 | 2022-07-29 |
 | [Pasado Presente](https://open.spotify.com/track/3AXDrJW3Px2NAPkscmJi1M) | [Dinosaur 88](https://open.spotify.com/artist/5qr44Yx3xDdFongmNpC3zi), [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Ukiyo](https://open.spotify.com/album/24FFkYDroOB9TRhZTZm41K) | 2:19 | 2021-09-24 | 2022-07-28 |
+| [PASARELA](https://open.spotify.com/track/6wXP0oiJk3gZXGfFNrKQaz) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln) | [PASARELA](https://open.spotify.com/album/31TBz22wU0tj6LmyeeAuti) | 2:44 | 2024-07-04 |  |
 | [Patria y Vida](https://open.spotify.com/track/1jOF5X4zw27t9LQltutz9f) | [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Maykel Osorbo](https://open.spotify.com/artist/5UrnIgOA6WZvJnDmFd4G2u), [El Funky](https://open.spotify.com/artist/2dHyenXNc5AXYDCdSfROhm) | [Patria y Vida](https://open.spotify.com/album/11KmjqP7jS1tb7caxTPYHa) | 4:05 | 2021-09-24 |  |
 | [Paz](https://open.spotify.com/track/1sqNvfizWsHbX0uGyZ4z5v) | [Camilo Eque](https://open.spotify.com/artist/1NBoDdFZArcr9I68YHFA5T), [Tata Barahona](https://open.spotify.com/artist/4rzDfi2jOKIBcdvByO4V0n) | [Paz](https://open.spotify.com/album/4HNwomlzLmeWTIJaOIKNZw) | 3:37 | 2021-09-24 | 2022-07-28 |
 | [Piba Cumbia](https://open.spotify.com/track/34LVUwRGzvYLqsNnD5nhFx) | [Barbarita Palacios](https://open.spotify.com/artist/1gq0ImfjG4vhi885kD3gB8), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Piba Cumbia](https://open.spotify.com/album/28sPoHadwfwkZF7ZTBBAVp) | 3:34 | 2021-09-24 | 2022-07-28 |

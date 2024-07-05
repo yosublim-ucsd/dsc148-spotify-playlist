@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Offset and Gunna \(pictured\) Kendrick Lamar, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,015 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,035 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Midnight](https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Bad Cameo](https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf) | 4:58 |
 | 2 | [VAMONOS](https://open.spotify.com/track/70RqmeVZJgj7DU9sDm1k7K) | [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [VAMONOS](https://open.spotify.com/album/4slthHsVvn5TtrPcsu638h) | 2:05 |
-| 3 | [Style Rare \(feat\. Gunna\)](https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Style Rare \(feat\. Gunna\)](https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0) | 3:28 |
+| 3 | [Style Rare \(with Gunna\)](https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Style Rare \(with Gunna\)](https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0) | 3:28 |
 | 4 | [one of wun](https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:24 |
 | 5 | [Let Me Cook \(feat\. Maglera Doe Boy\)](https://open.spotify.com/track/1bl7mvR2BaoqA7ak6xJ3yj) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Let Me Cook \(feat\. Maglera Doe Boy\)](https://open.spotify.com/album/73H0tpFPJup6pjsqXYyXWU) | 3:53 |
 | 6 | [pull up \(feat\. Beau Nox\)](https://open.spotify.com/track/3MmjrGFXBANeOJuMpGgKeG) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Beau Nox](https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq) | [pull up](https://open.spotify.com/album/4Ewyr64Uz4ZBxqlkgPAr0I) | 2:32 |

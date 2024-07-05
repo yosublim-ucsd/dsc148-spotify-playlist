@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 967 likes - 78 songs - 4 hr 45 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 973 likes - 78 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 43 | [Something Looming](https://open.spotify.com/track/7kd18iTzLFG6nqxz2sGfEJ) | [Marcel Wave](https://open.spotify.com/artist/6wOyt5CEFInd8w7TUE7118) | [Something Looming](https://open.spotify.com/album/5UisYDaVsluKrevs4dcitH) | 2:02 |
 | 44 | [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 |
 | 45 | [Born In Early May](https://open.spotify.com/track/62RtrW0grZ2EUF3FetcbOK) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Together We Are One, You and I](https://open.spotify.com/album/2WOw5ZQrrab9Gxr3ZYxrk3) | 5:12 |
-| 46 | [Nobody Chase Me](https://open.spotify.com/track/4hK7LsqtEVFmtyVs5tS4ca) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08) | [Nobody Chase Me](https://open.spotify.com/album/1YcaDAxtcfdVgjZYhdRZaR) | 3:10 |
+| 46 | [Nobody Chase Me](https://open.spotify.com/track/4hK7LsqtEVFmtyVs5tS4ca) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Nobody Chase Me](https://open.spotify.com/album/1YcaDAxtcfdVgjZYhdRZaR) | 3:10 |
 | 47 | [Forever](https://open.spotify.com/track/6N7OgI3ZPL0qZCFMD20vvD) | [Ok Cowgirl](https://open.spotify.com/artist/5foQBLMKT1paX8PAI12iH8) | [Forever](https://open.spotify.com/album/2UJuL4CdMvAGFFyTtLrTMh) | 3:31 |
 | 48 | [Riptide](https://open.spotify.com/track/0hCGIzCJkatJId7PcLGmxy) | [Orcas](https://open.spotify.com/artist/6KUngtrmJAZEvlrRIKNYC7) | [Riptide](https://open.spotify.com/album/5iQrPaiwbzu8DwwT0hnd5b) | 5:22 |
 | 49 | [Pan con Tíbiri](https://open.spotify.com/track/70Wzey8vblSyJ9JyFWXFU5) | [Orquesta Akokán](https://open.spotify.com/artist/0ntVDLb8Ro6BLGVBVOBFVS) | [Pan con Tíbiri](https://open.spotify.com/album/3vhPtv5EXfshXHZVTGQYxl) | 2:59 |

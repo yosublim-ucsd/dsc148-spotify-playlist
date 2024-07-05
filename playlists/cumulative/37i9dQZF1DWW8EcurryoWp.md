@@ -2,9 +2,9 @@
 
 ### [Alternative Ireland](https://open.spotify.com/playlist/37i9dQZF1DWW8EcurryoWp)
 
-> The best new Irish alternative sounds\. Cover: Dylan Flynn and the Dead Poets
+> The best new Irish alternative sounds\. Cover: Annie\-Dog
 
-70 songs - 4 hr 10 min
+72 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [At Your Door](https://open.spotify.com/track/6KE0OMBcrLWD6UbThRZkW5) | [The Burma](https://open.spotify.com/artist/6nnn5LYcpqTA3f7mjLcpuK) | [Crazy Dreams & Cruel Realities](https://open.spotify.com/album/3AtPIPXneAYe1XKGet7Xhb) | 3:46 | 2024-06-20 |  |
 | [Aug 5th](https://open.spotify.com/track/1ovnbUnr1yO4hYqMRKQctV) | [NIALLISH](https://open.spotify.com/artist/4rG3saZbVCrcSaCM5XbbmS) | [Aug 5th](https://open.spotify.com/album/7wxt9oC9GZiOoOFF2jgw6r) | 2:07 | 2024-06-20 |  |
 | [Babyteeth](https://open.spotify.com/track/4ExOypIb635SdfLjCr6vrQ) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Supernumeraries](https://open.spotify.com/album/0TvQYUhMSRAT00e3qHXt7y) | 4:12 | 2024-06-20 |  |
-| [Bad Machine](https://open.spotify.com/track/23ICIRdFlz7XTWc3fz8Kuq) | [Soda Blonde](https://open.spotify.com/artist/665rcluWn9OCTGowMHNdS3) | [Bad Machine](https://open.spotify.com/album/20tBlGSdefnG0bzav4JByv) | 3:28 | 2024-06-20 |  |
+| [Bad Machine](https://open.spotify.com/track/23ICIRdFlz7XTWc3fz8Kuq) | [Soda Blonde](https://open.spotify.com/artist/665rcluWn9OCTGowMHNdS3) | [Bad Machine](https://open.spotify.com/album/20tBlGSdefnG0bzav4JByv) | 3:28 | 2024-06-20 | 2024-07-05 |
 | [Baked Cheesecake](https://open.spotify.com/track/2f9blujS4WOKvmQ50k2TqU) | [Æ MAK](https://open.spotify.com/artist/2VQ0jNisT4VhPs41VGvvTX) | [Berlin](https://open.spotify.com/album/7dLIT8Z8tQOguvIlYTfqpv) | 3:58 | 2024-06-20 |  |
 | [Be Someone](https://open.spotify.com/track/541LlFMbD7senXbFuf58mN) | [Man Alive](https://open.spotify.com/artist/75jRB7CtxLRcUPlEr6yCOy) | [Be Someone](https://open.spotify.com/album/56W7SBOLDkmvzdbOhP7wFj) | 3:36 | 2024-06-20 |  |
 | [behind those tears](https://open.spotify.com/track/0w7Zmk5SlHJtDIMeWfdgUV) | [Dylan Flynn and the Dead Poets](https://open.spotify.com/artist/38RdXLqHcghUbaMAM1EPka) | [caught up in delusion](https://open.spotify.com/album/2yYssd2xtkEMIqJwdkuaq3) | 3:59 | 2024-06-20 |  |
@@ -30,7 +30,7 @@
 | [elegy](https://open.spotify.com/track/6mD8j5V2vq7B7Ut50RcPVM) | [glasseyed](https://open.spotify.com/artist/3Y38CJx9If6ZXXTWhKUjDG) | [elegy](https://open.spotify.com/album/5Xy2nSptvYN8FODDFXiJFZ) | 3:15 | 2024-06-20 |  |
 | [Everybody Leaves](https://open.spotify.com/track/10v69ck5BJLWCBCiIsnaGF) | [eurelle](https://open.spotify.com/artist/6XSTacYVitxfbDlteNG93I) | [Everybody Leaves](https://open.spotify.com/album/3cSYWgtP64LMZ0EO3VeKj2) | 4:03 | 2024-06-20 |  |
 | [Exit Oblivion](https://open.spotify.com/track/4ycb32qb4NCRIM9kNof98g) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [all good](https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes) | 3:30 | 2024-06-20 |  |
-| [Fish](https://open.spotify.com/track/3hdW8qul3sErVreYQDy0hl) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [Fish](https://open.spotify.com/album/2DJdRA9iqPWAMOsqFBEOk2) | 3:45 | 2024-06-20 |  |
+| [Fish](https://open.spotify.com/track/3hdW8qul3sErVreYQDy0hl) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [Fish](https://open.spotify.com/album/2DJdRA9iqPWAMOsqFBEOk2) | 3:45 | 2024-06-20 | 2024-07-05 |
 | [Fool](https://open.spotify.com/track/0X0vu5vvTz3hmiXY6aiVLl) | [RVE](https://open.spotify.com/artist/4xXhVe5E4Vtd9qV47tQomY) | [Fool](https://open.spotify.com/album/5HX1EOQKbgbYytFDJ5qN6e) | 3:11 | 2024-06-20 |  |
 | [guilt2001](https://open.spotify.com/track/3ntOkO36ncqOpwg9rwIXML) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI), [Chi\-chi](https://open.spotify.com/artist/1wrin8e9eZnSWMh39DVAgz) | [INA CRUELER](https://open.spotify.com/album/3ubVyD69OGIio1WZ61Z9a5) | 2:26 | 2024-06-20 |  |
 | [Haunted](https://open.spotify.com/track/38NEzzR2y74D41NvB09VBn) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Haunted](https://open.spotify.com/album/6qnp9qiW7lBpM2mTUGtIOr) | 3:32 | 2024-06-20 |  |
@@ -71,6 +71,8 @@
 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 | 2024-06-20 |  |
 | [The Bass](https://open.spotify.com/track/0gMUe9f7zSPbLIx9Js05J1) | [I Dreamed I Dream](https://open.spotify.com/artist/6Mtmyy5Gpg33uPrT44YtDV) | [Why Say A Lot?](https://open.spotify.com/album/2ibsIihIJ6P00cX0ag8N2j) | 4:44 | 2024-06-20 |  |
 | [The First Time](https://open.spotify.com/track/6QHVGZoT5oZqIbn2TkpNW6) | [Stella and the Dreaming](https://open.spotify.com/artist/3GOfdAHQH8AfUfA2lisXp6) | [The First Time](https://open.spotify.com/album/2lMsA1YGTTt93coLMkAlFP) | 4:27 | 2024-06-20 |  |
+| [The Pressures of the Heart](https://open.spotify.com/track/0dBhs5Aw3NO9gAVIWrnmLZ) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [The Pressures of the Heart](https://open.spotify.com/album/2jd3oX3uh1wbhpGvPOfsFe) | 2:54 | 2024-07-04 |  |
+| [The Ridiculousness Of Everything](https://open.spotify.com/track/40NZRbfShwYGFsrd59sFBN) | [Strangers with Guns](https://open.spotify.com/artist/1xeBRN8R2Y9VytLrJRH86c) | [The Ridiculousness Of Everything](https://open.spotify.com/album/3AfG0QxWrPgYCikqUatu3L) | 4:21 | 2024-07-04 |  |
 | [Thirteen](https://open.spotify.com/track/41ejsO9y8hXJpbB4BAb4ig) | [Nerves](https://open.spotify.com/artist/4oZHD9a5Wf8vZWHTrPWKdO) | [Thirteen](https://open.spotify.com/album/7scrH9IVRpVjSDKwsSSM2J) | 4:35 | 2024-06-20 |  |
 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 | 2024-06-20 |  |
 | [Twist and Turn](https://open.spotify.com/track/7F8SxhlfzFP16sn1UuTXHZ) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Twist and Turn](https://open.spotify.com/album/6zZbKGTLAW78P3GNpJMHCM) | 3:14 | 2024-06-20 |  |

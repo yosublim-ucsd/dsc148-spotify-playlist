@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: NIJJAR
 
-415 songs - 19 hr 41 min
+416 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Kaka](https://open.spotify.com/track/31JDOPIVK99SMS9gGSi8LY) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Sudesh Kumari](https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X) | [Kaka](https://open.spotify.com/album/7LQsR1iVrL8BL78lJzu38Q) | 1:56 | 2023-12-06 | 2023-12-22 |
 | [Kalakaar](https://open.spotify.com/track/1P2kP6CnEQunaOaOQVcxDE) | [Raka](https://open.spotify.com/artist/6DaYS7s7hXtNtuGwBICzVB) | [Kalakaar](https://open.spotify.com/album/0vbvJKEtYuVEeOKwAMvOxx) | 2:39 | 2023-05-24 | 2023-05-27 |
 | [Kaleja Lahori](https://open.spotify.com/track/3eykC3sqFyvzs0uieGB7xd) | [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp) | [Kaleja Lahori](https://open.spotify.com/album/6jbwBRb2vZJ0Y4U3Hw0tVd) | 2:19 | 2024-01-05 | 2024-01-12 |
+| [Kami Peshi](https://open.spotify.com/track/1MEo8QvW3Ibs4vTLtAYvAK) | [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm) | [Kami Peshi](https://open.spotify.com/album/3WuZ5gSSr5VhlvCozPrupf) | 3:22 | 2024-07-04 |  |
 | [Katal Hai](https://open.spotify.com/track/0ppQ1j4cxF7ASw4wI9xa07) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Inder Dosanjh](https://open.spotify.com/artist/4uhm0dnOES3u20XHR4HTQY), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Katal Hai](https://open.spotify.com/album/2eVE7V73mCGujc6VjBQjKx) | 2:28 | 2024-01-25 | 2024-02-03 |
 | [Khadaak](https://open.spotify.com/track/2l4WWoL2e7XL77hT3r4iee) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok), [Micheal](https://open.spotify.com/artist/4HITSZH8b5ITVXjg91mFY1) | [Khadaak](https://open.spotify.com/album/0Wjak0wq7GXx6Gkf0FN1Q5) | 2:37 | 2023-09-21 |  |
 | [Khauf \(From "Zindagi Zindabaad"\)](https://open.spotify.com/track/4AOblHfneYWvjUl1clwzLU) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Preet Hundal](https://open.spotify.com/artist/3jbXizgjZpi8FZ9g28wb1c), [Pardeep Malak](https://open.spotify.com/artist/2adVNkNRt1fiCW4vIeK2NO) | [Khauf \(From "Zindagi Zindabaad"\)](https://open.spotify.com/album/4k5j3g48igjYLTmFGITUSc) | 3:18 | 2023-10-11 | 2024-02-14 |

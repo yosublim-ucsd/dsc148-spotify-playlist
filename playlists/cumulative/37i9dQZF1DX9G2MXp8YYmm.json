@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Popun sevilen isimleri. Kapak: Bahad\u0131r Tatl\u0131\u00f6z",
+  "description": "Popun sevilen isimleri. Kapak: Aleyna Tilki",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "Bedel",
+        "url": "https://open.spotify.com/album/3JaSBvsF9GmTY7vjNwSHRF"
+      },
+      "artists": [
+        {
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157894,
+      "name": "Bedel",
+      "url": "https://open.spotify.com/track/23cjMX6FjB8TGdRnLD5bod"
+    },
+    {
+      "album": {
         "name": "Ben Sana Gelemem",
         "url": "https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV"
       },
@@ -234,6 +252,24 @@
       "duration_ms": 195600,
       "name": "Beni Anlam\u0131yor",
       "url": "https://open.spotify.com/track/6mra1Q0McNcrDcjxEi2rW3"
+    },
+    {
+      "album": {
+        "name": "Beni Seviyo",
+        "url": "https://open.spotify.com/album/131EG59oUCxBSezj1EDY11"
+      },
+      "artists": [
+        {
+          "name": "Alara Serena",
+          "url": "https://open.spotify.com/artist/4ggPxt5YPNtQ1RgwKComXu"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Beni Seviyo",
+      "url": "https://open.spotify.com/track/20O92DIuPCTt9yIoudyqtP"
     },
     {
       "album": {
@@ -656,7 +692,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 201290,
       "name": "Hain",
       "url": "https://open.spotify.com/track/7ABENqYsfEzv1KHpnlV3Vj"
@@ -790,7 +826,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 234505,
       "name": "Kara G\u00f6z\u00fcn\u00fcn Hasretinden",
       "url": "https://open.spotify.com/track/3w180TEfTfsAKgA7oIPY0E"

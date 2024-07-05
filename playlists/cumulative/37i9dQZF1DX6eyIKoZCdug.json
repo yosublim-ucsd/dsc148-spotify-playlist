@@ -277,6 +277,36 @@
     },
     {
       "album": {
+        "name": "031 Studio Camp",
+        "url": "https://open.spotify.com/album/3tOHGWG9GWuB2KBw6YisEX"
+      },
+      "artists": [
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        },
+        {
+          "name": "Funky Qla",
+          "url": "https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86"
+        },
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        },
+        {
+          "name": "MK Productions",
+          "url": "https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457145,
+      "name": "Ama Gear",
+      "url": "https://open.spotify.com/track/0cnbEf12FLBWx9QnBlw1EL"
+    },
+    {
+      "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/1qeES9QZaq1xfHfvSTtuo7"
       },
@@ -1212,7 +1242,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 289672,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/6pNwEGlgpNQIKs4R5UQ7Oc"
@@ -1356,6 +1386,28 @@
       "duration_ms": 459658,
       "name": "HAYII (La Alegria) (feat. Yasmin Levy)",
       "url": "https://open.spotify.com/track/6rz9Rpygk7yTlFnk253Sfy"
+    },
+    {
+      "album": {
+        "name": "Baye Baye EP",
+        "url": "https://open.spotify.com/album/5VODxMQVPM2nEkTVsJUx7e"
+      },
+      "artists": [
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        },
+        {
+          "name": "Papany",
+          "url": "https://open.spotify.com/artist/2feALlzBXg5NciFhlm61Cd"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355998,
+      "name": "Hekele",
+      "url": "https://open.spotify.com/track/0JUbChPjAB5xmUcKJ0Yhni"
     },
     {
       "album": {
@@ -2580,7 +2632,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 157009,
       "name": "Musuwo Wamambo - Sunset Edit (Radio Edit)",
       "url": "https://open.spotify.com/track/2GoK4n60x1MjlCSk51sit8"
@@ -3741,6 +3793,24 @@
     },
     {
       "album": {
+        "name": "Spectre",
+        "url": "https://open.spotify.com/album/2zTU3Ei4wiPCGoZPaOmNV7"
+      },
+      "artists": [
+        {
+          "name": "Jazzuelle",
+          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406744,
+      "name": "Spectre",
+      "url": "https://open.spotify.com/track/4uprTwbuSCx0IZtdlGMBlz"
+    },
+    {
+      "album": {
         "name": "Storybook",
         "url": "https://open.spotify.com/album/3xO3Tdm7i2XZTDbVNt33WD"
       },
@@ -4393,6 +4463,36 @@
     },
     {
       "album": {
+        "name": "Unozala",
+        "url": "https://open.spotify.com/album/2tRSoKdYMvxdKZ28f7rxIs"
+      },
+      "artists": [
+        {
+          "name": "Kenza",
+          "url": "https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441500,
+      "name": "Unozala",
+      "url": "https://open.spotify.com/track/2kAbwZwuJidogyJz0Z5c6i"
+    },
+    {
+      "album": {
         "name": "Usemindawonye",
         "url": "https://open.spotify.com/album/3xQsL0si2XFnuq0sSmWuTb"
       },
@@ -4620,7 +4720,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 399661,
       "name": "VOICES",
       "url": "https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V"

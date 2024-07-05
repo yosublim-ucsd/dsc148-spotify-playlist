@@ -6551,6 +6551,28 @@
     },
     {
       "album": {
+        "name": "The Ones We Love (VIP Mix)",
+        "url": "https://open.spotify.com/album/7Istc5og7wYdWlkXbPkPzT"
+      },
+      "artists": [
+        {
+          "name": "ANG",
+          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+        },
+        {
+          "name": "Amanda Collis",
+          "url": "https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143172,
+      "name": "The Ones We Love - VIP Mix",
+      "url": "https://open.spotify.com/track/1wt09Ym7YlhKle5q5pGaqG"
+    },
+    {
+      "album": {
         "name": "The Pulse Of Machine",
         "url": "https://open.spotify.com/album/4oN1LfYW0EY0sF1DKTqgr4"
       },

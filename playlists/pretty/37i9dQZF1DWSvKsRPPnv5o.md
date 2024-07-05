@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 ### [Westside Story](https://open.spotify.com/playlist/37i9dQZF1DWSvKsRPPnv5o)
 
-> Holdin' it down for the westside\. Cover: Kendrick Lamar and friends
+> Holdin' it down for the westside\. Cover: Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,514 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,595 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 74 | [ROWDYRUFFBOYZ](https://open.spotify.com/track/10qReVRMSdZdak3allFD6M) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [BRODIE WORLD](https://open.spotify.com/album/5EFo4KSj5d5ajfczZiVwlI) | 3:06 |
 | 75 | [If We Being Rëal](https://open.spotify.com/track/2NQsRx1Zz1lwKU7JvwZfRW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093 \(P2\)](https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg) | 2:52 |
 
-Snapshot ID: `Zn72BgAAAAA2+evNl1F8d6PUQtm3UgzT`
+Snapshot ID: `ZocwVQAAAACJSSIlC5Doi3k0B4VqcWTz`

@@ -5912,7 +5912,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 185241,
       "name": "FLECHAZO EN EL CENTRO",
       "url": "https://open.spotify.com/track/4jn3R3KF5hx2fCiXlj89yE"
@@ -12739,6 +12739,24 @@
     },
     {
       "album": {
+        "name": "Que Chulo",
+        "url": "https://open.spotify.com/album/29JOEyiKh4hiDvjxrKNmgn"
+      },
+      "artists": [
+        {
+          "name": "El Chuky De Lewa",
+          "url": "https://open.spotify.com/artist/4TxFZEk9YEPGUBrXPNwSpb"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115624,
+      "name": "Que Chulo",
+      "url": "https://open.spotify.com/track/1LjOKsO0gU9D5jG7446SMl"
+    },
+    {
+      "album": {
         "name": "Que Dolor",
         "url": "https://open.spotify.com/album/2fWmQAHo1dbqxz89LPV4Gj"
       },
@@ -13946,6 +13964,28 @@
       "duration_ms": 139430,
       "name": "Se Pic\u00f3",
       "url": "https://open.spotify.com/track/2VnNaJFGInEJ0R5GkSQ7IP"
+    },
+    {
+      "album": {
+        "name": "Se Voc\u00ea Tivesse Cuidado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0VvN2YB5GN2ndsQ3vI1h5e"
+      },
+      "artists": [
+        {
+          "name": "Jonas Esticado",
+          "url": "https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170664,
+      "name": "Se Voc\u00ea Tivesse Cuidado - Ao Vivo",
+      "url": "https://open.spotify.com/track/2k4zMz55ILi91iGYCWHpVO"
     },
     {
       "album": {
@@ -16236,7 +16276,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 162500,
       "name": "Un Finde | CROSSOVER #2",
       "url": "https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY"

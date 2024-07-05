@@ -575,6 +575,28 @@
     },
     {
       "album": {
+        "name": "Bank Account",
+        "url": "https://open.spotify.com/album/59TvnbJggWTB2pVMIAvatS"
+      },
+      "artists": [
+        {
+          "name": "JELECROIS",
+          "url": "https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP"
+        },
+        {
+          "name": "Milano Mobster",
+          "url": "https://open.spotify.com/artist/4WAFo0IQmpG3O999VAYtJ7"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128155,
+      "name": "Bank Account",
+      "url": "https://open.spotify.com/track/2wwhZI50NiSqVkBovf6HKz"
+    },
+    {
+      "album": {
         "name": "BCN",
         "url": "https://open.spotify.com/album/2eFsshWElYwxAW8JYYO8p5"
       },
@@ -944,6 +966,24 @@
       "duration_ms": 186988,
       "name": "Chanel",
       "url": "https://open.spotify.com/track/7pDIFkymxnMAGzCdvICFb3"
+    },
+    {
+      "album": {
+        "name": "CHE ME NE F\u00d3",
+        "url": "https://open.spotify.com/album/0bfXiQpr4NLnom25HshAkw"
+      },
+      "artists": [
+        {
+          "name": "Mooncler",
+          "url": "https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99344,
+      "name": "CHE ME NE F\u00d3",
+      "url": "https://open.spotify.com/track/0lk4E9MaC4mIRAo6smiQUS"
     },
     {
       "album": {
@@ -2741,6 +2781,28 @@
     },
     {
       "album": {
+        "name": "HOTEL MONTANA (Deluxe)",
+        "url": "https://open.spotify.com/album/55BeUFIdOnQjBEPnrvFyDy"
+      },
+      "artists": [
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Side Baby",
+          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172137,
+      "name": "Justin Bieber (feat. Side Baby)",
+      "url": "https://open.spotify.com/track/62Oxen6MqYesOGcIz7K5s2"
+    },
+    {
+      "album": {
         "name": "KE LO KE",
         "url": "https://open.spotify.com/album/5KpePKTCCMGkehcOvyfsWS"
       },
@@ -2818,7 +2880,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 111081,
       "name": "KTM",
       "url": "https://open.spotify.com/track/5mKbRYOpe6yqXW7SbqXB12"
@@ -3428,6 +3490,24 @@
       "duration_ms": 174600,
       "name": "Marijuana (feat. Rhove)",
       "url": "https://open.spotify.com/track/6zBoYvUKa47DRGXGGAziJk"
+    },
+    {
+      "album": {
+        "name": "HOTEL MONTANA (Deluxe)",
+        "url": "https://open.spotify.com/album/55BeUFIdOnQjBEPnrvFyDy"
+      },
+      "artists": [
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150508,
+      "name": "Matchy Matchy",
+      "url": "https://open.spotify.com/track/0UiVmqmkbBQ4DhlXia0431"
     },
     {
       "album": {
@@ -4243,6 +4323,24 @@
     },
     {
       "album": {
+        "name": "NRG",
+        "url": "https://open.spotify.com/album/1LHw2nF22GPtDTXtuV1E3K"
+      },
+      "artists": [
+        {
+          "name": "Kunta",
+          "url": "https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159537,
+      "name": "NRG",
+      "url": "https://open.spotify.com/track/5EygONvQOSAX9zhiuV0kyq"
+    },
+    {
+      "album": {
         "name": "DIO LO SA",
         "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
       },
@@ -4966,7 +5064,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 192000,
       "name": "Perdenn 'A Cap (feat. Armouann, O'Tsunami & Flaza)",
       "url": "https://open.spotify.com/track/4PPAVU1RIdKKiNE4UTIzQ7"
@@ -7157,6 +7255,24 @@
     },
     {
       "album": {
+        "name": "Vita Sbagliata",
+        "url": "https://open.spotify.com/album/6uzQVlOlH3yuEcK2TSoI9p"
+      },
+      "artists": [
+        {
+          "name": "Lil Tony",
+          "url": "https://open.spotify.com/artist/5scZI5Lpqp6uijn5kCXCEZ"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Vita Sbagliata",
+      "url": "https://open.spotify.com/track/4aYkOYBNnTyvutrYEvABdf"
+    },
+    {
+      "album": {
         "name": "VITTORIO NEVES",
         "url": "https://open.spotify.com/album/3EdGPemfq5PxXUzPyg3Skh"
       },
@@ -7286,6 +7402,32 @@
       "duration_ms": 121049,
       "name": "X-ADV (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/76XNiHNTZ2KqW3cejIly4p"
+    },
+    {
+      "album": {
+        "name": "XTOI",
+        "url": "https://open.spotify.com/album/2QSIy1Wp8YKM8vKdm5vxFr"
+      },
+      "artists": [
+        {
+          "name": "Shavi",
+          "url": "https://open.spotify.com/artist/6j3cFwWsq5GHasOrEIeqQk"
+        },
+        {
+          "name": "Rio Savana",
+          "url": "https://open.spotify.com/artist/10vkRVtgnqn2gi0noOSIuT"
+        },
+        {
+          "name": "Andrea 17",
+          "url": "https://open.spotify.com/artist/5Vn0dDQGOTSdEyPVsXi0eo"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "XTOI",
+      "url": "https://open.spotify.com/track/5ccxrcwcGE0mJ6thgpEVBj"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Allegra Krieger
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,649 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,716 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 5 | [Hyde Park](https://open.spotify.com/track/0oBd3Cqiq5noxJSDZgUVaU) | [hemlock](https://open.spotify.com/artist/2urQCjxehNpSQWZW83h1L2) | [Drive & Drive b/w Hyde Park](https://open.spotify.com/album/5c6YGxBcgjXgMl2D1Lffvj) | 1:41 |
 | 6 | [spoiling me](https://open.spotify.com/track/1SjYeT1ntGnK0yWp9rMGpR) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [spoiling me](https://open.spotify.com/album/7zZ8oSOHAJyqMBJb3QAvXH) | 3:04 |
 | 7 | [How Long](https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [How Long](https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe) | 3:30 |
-| 8 | [Foreverish](https://open.spotify.com/track/0QwLkSBMDiLI8mIKQPmThk) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Foreverish](https://open.spotify.com/album/3zbD2yPc5wZxIJn3nJzLPY) | 1:48 |
+| 8 | [Foreverish](https://open.spotify.com/track/0QwLkSBMDiLI8mIKQPmThk) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Foreverish](https://open.spotify.com/album/3zbD2yPc5wZxIJn3nJzLPY) | 1:45 |
 | 9 | [Wild Orchids](https://open.spotify.com/track/7M8laBhOwKrpbC2OdYBtlf) | [Sandrine St\-Laurent](https://open.spotify.com/artist/2yHC0qy3VEXWdzYInARdP1) | [Wild Orchids](https://open.spotify.com/album/52zL8QnAyOVjMBFN82aDyq) | 3:58 |
 | 10 | [Affinity](https://open.spotify.com/track/1ZKX3dKAhJd35RmEGPug1Y) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Affinity](https://open.spotify.com/album/2WD7ociXjnjpwYSLQgee2A) | 4:43 |
 | 11 | [More Failure](https://open.spotify.com/track/6yMUfqtUBqfkX3wpUzmQ5T) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [More Failure](https://open.spotify.com/album/6XGQh9tk3AmOAg1ztdLB6t) | 1:57 |

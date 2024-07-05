@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-866 songs - 1 day 23 hr 4 min
+867 songs - 1 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [Kasad](https://open.spotify.com/track/64hOgvQsUKAcrzzq0eFCzU) | [Jasbir Jassi](https://open.spotify.com/artist/2wmT2Bx63mrFKMYGQieYi3) | [Kasad](https://open.spotify.com/album/3HxTQLqjTvr6AISqjPOHdt) | 5:11 | 2022-02-07 | 2022-02-12 |
 | [Kashni](https://open.spotify.com/track/0dGCeam7cfKSUZwLuMZ1kd) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG) | [Kashni](https://open.spotify.com/album/4HzBIJZkf2mUIeGQBjYFkB) | 2:18 | 2023-02-03 | 2023-05-06 |
 | [Kasol](https://open.spotify.com/track/6NIFNHQ9wvzbgoNRXw9EHh) | [Pathan](https://open.spotify.com/artist/0EXLH9y04aZOr8xBYA57n7) | [Kasol](https://open.spotify.com/album/6PZtImBI5XPwGYhhO5wDDj) | 3:54 | 2022-02-28 | 2022-03-11 |
+| [Kassam](https://open.spotify.com/track/41KGSoQNccVN6hYNyEgnUG) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Kassam](https://open.spotify.com/album/1c3hKdgbeceARV2H0NlOK9) | 2:29 | 2024-07-04 |  |
 | [Kathputli](https://open.spotify.com/track/2qzVqEem02pIQ1Ve8NaYRt) | [Bilas](https://open.spotify.com/artist/5mUpZHSWyK1sWIhS8CmpIU), [Ranjit Punia](https://open.spotify.com/artist/1RGC9rUEW1lMXV6RffwgD3), [Kaur Angle](https://open.spotify.com/artist/596dATWsc3F23ehSGUTcny) | [Kathputli](https://open.spotify.com/album/7iZjcF3srladjB42B9An84) | 4:04 | 2022-03-31 | 2022-04-06 |
 | [Keh Len De](https://open.spotify.com/track/3CHZhkihLupVrfYIyg869S) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux), [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Himanshi Khurana](https://open.spotify.com/artist/6JZPJPlOcGSQaVLQKJ1qQ3) | [Keh Len De](https://open.spotify.com/album/5XAtOSRyn0dDnrZBcjVQoi) | 2:30 | 2021-12-02 | 2022-04-06 |
 | [Kehkashan](https://open.spotify.com/track/2NTtfjk6ShR9uQcKJh1yX9) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:00 | 2023-09-29 | 2023-11-07 |
@@ -846,7 +847,7 @@
 | [Whenever](https://open.spotify.com/track/4pFDMbftahto1oz8SZx2qQ) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Whenever](https://open.spotify.com/album/4wYzAxoYguNudxzUXPTGtC) | 3:30 | 2023-06-26 | 2024-04-19 |
 | [Whenever](https://open.spotify.com/track/75NrYaibnoCgQZASqWrcYs) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Whenever](https://open.spotify.com/album/0sQRiOLXkzvK9b3r1LVZHK) | 3:30 | 2024-04-08 |  |
 | [Whip](https://open.spotify.com/track/3xJwcFXAHXjlNQZOpAa2BQ) | [Rav Aulakh](https://open.spotify.com/artist/41mbGEbwlzaCzy3sDVuFoj) | [Whip](https://open.spotify.com/album/5GU2aCSt5rdDWYdpEu1h0p) | 3:02 | 2022-06-22 | 2022-07-06 |
-| [Who’s That Girl](https://open.spotify.com/track/1mbDRFQEnfgUHdHs3iBWMC) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Only Love Gets Reply](https://open.spotify.com/album/4AJ9rJiLuo4xWxUjvaXNdz) | 2:58 | 2024-06-05 |  |
+| [Who’s That Girl](https://open.spotify.com/track/1mbDRFQEnfgUHdHs3iBWMC) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Only Love Gets Reply](https://open.spotify.com/album/4AJ9rJiLuo4xWxUjvaXNdz) | 2:58 | 2024-06-05 | 2024-07-05 |
 | [Why Cry](https://open.spotify.com/track/4V35lnM3sBuVQYUhm9E5vJ) | [Abhishek Bakhshi](https://open.spotify.com/artist/0XnfQkaJNBwnCCxrusdgAy) | [Patthar](https://open.spotify.com/album/1K8bZd1kecTp2F353DuNCv) | 2:52 | 2022-08-19 | 2022-09-01 |
 | [Why Nachdi Na](https://open.spotify.com/track/3vAuT0b6jFNuS6yylkJWbG) | [Jasbir Jassi](https://open.spotify.com/artist/2wmT2Bx63mrFKMYGQieYi3) | [Why Nachdi Na](https://open.spotify.com/album/76rFVsaTmYQcSTKI3H5F83) | 2:27 | 2022-01-17 | 2022-02-01 |
 | [With You](https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [With You](https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j) | 2:34 | 2023-08-21 | 2023-11-08 |

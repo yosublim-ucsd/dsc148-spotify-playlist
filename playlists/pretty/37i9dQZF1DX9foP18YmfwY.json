@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Padre Marcelo Rossi, Simone Mendes",
-  "num_followers": 324381,
+  "num_followers": 324490,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,22 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "Fa\u00e7a Um Milagre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2wLjQBv56JdmwIojvlc7D6"
+        "name": "In Concert (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2UNw2qExlpT9cLwDz3Mr5q"
       },
       "artists": [
         {
-          "name": "Padre Reginaldo Manzotti",
-          "url": "https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV"
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        },
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
         }
       ],
-      "duration_ms": 262232,
-      "name": "Fa\u00e7a Um Milagre - Ao Vivo",
-      "url": "https://open.spotify.com/track/2ToXwQGR8W74QBzhNLpFoV"
+      "duration_ms": 303096,
+      "name": "Sobre a D\u00favida: In Concert - Ao Vivo",
+      "url": "https://open.spotify.com/track/72jnxMQFcHeAnPbPh9tBOM"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -335,22 +339,18 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "In Concert (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2UNw2qExlpT9cLwDz3Mr5q"
+        "name": "Fa\u00e7a Um Milagre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2wLjQBv56JdmwIojvlc7D6"
       },
       "artists": [
         {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        },
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+          "name": "Padre Reginaldo Manzotti",
+          "url": "https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV"
         }
       ],
-      "duration_ms": 303096,
-      "name": "Sobre a D\u00favida: In Concert - Ao Vivo",
-      "url": "https://open.spotify.com/track/72jnxMQFcHeAnPbPh9tBOM"
+      "duration_ms": 262232,
+      "name": "Fa\u00e7a Um Milagre - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ToXwQGR8W74QBzhNLpFoV"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -875,18 +875,22 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "Ressonhar",
-        "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
+        "name": "Quem \u00c9 Essa Que Avan\u00e7a Como Aurora?",
+        "url": "https://open.spotify.com/album/01zKN1vkGZLOgbTZysudFi"
       },
       "artists": [
         {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        },
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
         }
       ],
-      "duration_ms": 290125,
-      "name": "Oceano de Miseric\u00f3rdia",
-      "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
+      "duration_ms": 142312,
+      "name": "Quem \u00c9 Essa Que Avan\u00e7a Como Aurora?",
+      "url": "https://open.spotify.com/track/7bZwSB2GKZ1xKazrxDc6Fp"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -911,22 +915,18 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "Quem \u00c9 Essa Que Avan\u00e7a Como Aurora?",
-        "url": "https://open.spotify.com/album/01zKN1vkGZLOgbTZysudFi"
+        "name": "Ressonhar",
+        "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
       },
       "artists": [
         {
-          "name": "Elba Ramalho",
-          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
-        },
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
         }
       ],
-      "duration_ms": 142312,
-      "name": "Quem \u00c9 Essa Que Avan\u00e7a Como Aurora?",
-      "url": "https://open.spotify.com/track/7bZwSB2GKZ1xKazrxDc6Fp"
+      "duration_ms": 290125,
+      "name": "Oceano de Miseric\u00f3rdia",
+      "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "Iluminada H\u00f3stia e P\u00e3o de Miseric\u00f3rdia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1zHHUvobTFG8tGcGf0EVTS"
-      },
-      "artists": [
-        {
-          "name": "Cristo Alegria",
-          "url": "https://open.spotify.com/artist/4qsj59g2x0oYzuOuXagY3J"
-        }
-      ],
-      "duration_ms": 213500,
-      "name": "Iluminada H\u00f3stia - Ao Vivo",
-      "url": "https://open.spotify.com/track/05sIKKIc67wLaafJw95ePa"
-    },
-    {
-      "added_at": "2024-06-28 03:01:00",
-      "album": {
         "name": "Obrigado M\u00e3e",
         "url": "https://open.spotify.com/album/1OfUyRH1AkS0GGE7mwiH9J"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 228700,
       "name": "Obrigado M\u00e3e",
       "url": "https://open.spotify.com/track/19gGTZ3Yft1ZVMrRoHctg8"
+    },
+    {
+      "added_at": "2024-06-28 03:01:00",
+      "album": {
+        "name": "Iluminada H\u00f3stia e P\u00e3o de Miseric\u00f3rdia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1zHHUvobTFG8tGcGf0EVTS"
+      },
+      "artists": [
+        {
+          "name": "Cristo Alegria",
+          "url": "https://open.spotify.com/artist/4qsj59g2x0oYzuOuXagY3J"
+        }
+      ],
+      "duration_ms": 213500,
+      "name": "Iluminada H\u00f3stia - Ao Vivo",
+      "url": "https://open.spotify.com/track/05sIKKIc67wLaafJw95ePa"
     },
     {
       "added_at": "2024-06-28 03:01:00",

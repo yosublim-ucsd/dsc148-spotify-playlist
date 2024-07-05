@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/65othgj3XhZzESg5qHOPfM"
+      },
+      "artists": [
+        {
+          "name": "D3LT4",
+          "url": "https://open.spotify.com/artist/5lnYov1RCZ0TjsHKDzpeaI"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205968,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/06czbCsPRhDnWZOzjh4dYP"
+    },
+    {
+      "album": {
         "name": "Body Pop",
         "url": "https://open.spotify.com/album/2qSC8SWAUAsxsoMaxdWNSl"
       },

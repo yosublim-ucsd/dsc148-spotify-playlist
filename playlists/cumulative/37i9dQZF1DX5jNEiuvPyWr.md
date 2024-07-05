@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Ashh
+> Le meilleur du rap français version cloud\. Photo : Green Montana
 
-407 songs - 19 hr 58 min
+409 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Aura](https://open.spotify.com/track/6qOuClqwGnHV9GSlp6zCJa) | [Tensei](https://open.spotify.com/artist/4l8e0PM8xxd2dbm74mGsQn) | [Aura](https://open.spotify.com/album/7khYQ0rYRwrJlkwvFtYggc) | 4:07 | 2023-10-05 | 2023-11-10 |
 | [Avant la fin \(feat\. Zamdane\)](https://open.spotify.com/track/19OckgD8qk3bmeT4xoJ3js) | [Gianni](https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [EXGZ 3](https://open.spotify.com/album/30B5XqJZhEp7nJutaeqqU3) | 3:21 | 2022-07-14 | 2023-03-25 |
 | [AVANT TOI](https://open.spotify.com/track/5x4cFSRsvdCdizLzK8FZXs) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/07IfuWJbMzAw6cTie8Wyu0) | 2:51 | 2023-11-23 | 2024-04-19 |
-| [AVANT TOI](https://open.spotify.com/track/60ouY0tuiKBPMCP0iZStJS) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk) | 2:51 | 2023-07-06 |  |
+| [AVANT TOI](https://open.spotify.com/track/60ouY0tuiKBPMCP0iZStJS) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk) | 2:51 | 2023-07-06 | 2024-07-05 |
 | [AVERSE](https://open.spotify.com/track/08S6rWmtM6L4xPpSjhm1g7) | [Gemen](https://open.spotify.com/artist/38Ey7an6lpTlez98WKnAd2), [Tenma](https://open.spotify.com/artist/3MaO9kMKgKD4DjfZvlbbGf), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [DRAGA](https://open.spotify.com/album/6L9UgtNjZj8Aukfeuexmqf) | 2:19 | 2023-05-25 | 2023-07-14 |
 | [AVERSE](https://open.spotify.com/track/0tpBPCVyZTbvBCntUjNuFQ) | [Noham](https://open.spotify.com/artist/1Q2NPkF71W70gFJmbdfZsm) | [AVERSE](https://open.spotify.com/album/0L2pCSZkgT0Z0NTQvH7G1H) | 3:02 | 2024-06-27 |  |
 | [Aïcha](https://open.spotify.com/track/3Z2lGD8m63wJ93bQ7BJrPT) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Aïcha](https://open.spotify.com/album/0oae25t19eKc6zm5oEvaOL) | 3:26 | 2023-12-21 | 2024-03-15 |
@@ -208,6 +208,7 @@
 | [L'étoile qui brille le plus](https://open.spotify.com/track/5Urdl8iZ5iAHeIxFjOHjr3) | [Noham](https://open.spotify.com/artist/1Q2NPkF71W70gFJmbdfZsm) | [L'étoile qui brille le plus](https://open.spotify.com/album/5osFSzc0wxRd9woC2OoXzY) | 2:14 | 2023-06-15 | 2023-08-04 |
 | [L.A](https://open.spotify.com/track/1N95r73FzRwmEp0Tay0q2y) | [OSO](https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g) | [L.A](https://open.spotify.com/album/15M0JoyRtvRUoXga8dK5M5) | 1:50 | 2024-02-29 | 2024-06-07 |
 | [La Fin](https://open.spotify.com/track/4MNmqL7NYehnAkECQSzpYY) | [Koss](https://open.spotify.com/artist/1cTINVmi2me8JBpCwR2K16) | [La Fin](https://open.spotify.com/album/0X7C8d67qb5By6L1qwXeef) | 3:14 | 2022-10-06 | 2022-10-21 |
+| [La paume](https://open.spotify.com/track/45F4WSxrwyULSeEXH0NDoV) | [YUNG POOR ALO](https://open.spotify.com/artist/4n9g9O44xmv7k4ET9NLvds) | [La paume](https://open.spotify.com/album/3tlJROX0yLLiBttCwU1VfL) | 2:37 | 2024-07-04 |  |
 | [La pierre](https://open.spotify.com/track/1KQQPzGRBilAih9MYO8k6e) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Wilma](https://open.spotify.com/album/7BR6OZQh1ZtXgXUQxHgw3X) | 3:00 | 2022-11-24 | 2023-01-20 |
 | [LA VIE EN ROSE](https://open.spotify.com/track/7A1dN4Vg7qyIdTBBvh04FV) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [LA VIE EN ROSE](https://open.spotify.com/album/2GS9ArL2nvGfO7zUyUFtYZ) | 3:00 | 2023-08-24 | 2023-11-24 |
 | [La Villa](https://open.spotify.com/track/0bgaPlh35VreN2tIWPQph4) | [Rouge Carmin](https://open.spotify.com/artist/4cj80pU5lKUZDMsCfyajyS) | [La Villa](https://open.spotify.com/album/3RmdxbQoyDJcGJYMUUsf54) | 2:26 | 2023-05-18 | 2023-06-23 |
@@ -279,6 +280,7 @@
 | [NUAGES](https://open.spotify.com/track/2dTgoKc0BQ06TLkt9P5BbI) | [KLS](https://open.spotify.com/artist/7vnEuM5aFDKZ0kiWIjMpD4) | [NUAGES](https://open.spotify.com/album/4ycC3Z34tOQLpyjsd8i9bx) | 2:25 | 2023-11-16 | 2023-12-08 |
 | [NUIT ET JOUR](https://open.spotify.com/track/400rEn95uXwJ6akAq4jSNY) | [HAKAI](https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN) | [NUIT ET JOUR](https://open.spotify.com/album/6ooUr10tF4PtDsa9yhP5sy) | 1:53 | 2023-10-26 | 2024-02-02 |
 | [Nuit et jour](https://open.spotify.com/track/3xAlSc7IFjhBwQq4HSDpor) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS) | [Nuit et jour](https://open.spotify.com/album/2VvNdPoTyrPTR30iBFzFJf) | 3:23 | 2023-01-12 | 2023-04-14 |
+| [Oiseau de nuit](https://open.spotify.com/track/299v6FILLtNsfPoDWH7utU) | [Telam](https://open.spotify.com/artist/4YH9nYMnKZDKIXRFQrhRON) | [Oiseau de nuit](https://open.spotify.com/album/1fRkV0Pzcfb48wfoG5G95X) | 3:33 | 2024-07-04 |  |
 | [OKOCHA](https://open.spotify.com/track/7caYhBo57VGdfk5K6NqZ4x) | [Elh Kmer](https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ) | [OKOCHA](https://open.spotify.com/album/488uHoP3aFtNqQPi9jKeYM) | 3:41 | 2024-06-06 |  |
 | [Omahana](https://open.spotify.com/track/2kiXPzkHJgtnHlYBgzOwN5) | [C\-ROM](https://open.spotify.com/artist/2JGq7nPI5eQjKRpKZEedf0) | [Omahana](https://open.spotify.com/album/6MSK28lVAeW2qYvXpH4u35) | 2:50 | 2024-05-23 |  |
 | [OMERTÀ](https://open.spotify.com/track/13eTAuzyWBzGOi6uM8712G) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [OMERTÀ](https://open.spotify.com/album/4ez5SqQc5JoMUYbVBvbmGj) | 2:51 | 2022-07-14 | 2022-10-14 |
@@ -322,7 +324,7 @@
 | [Qatari](https://open.spotify.com/track/2aqiMUmWd4BUEUXaMUMZXB) | [Many Santana](https://open.spotify.com/artist/3rCZ4fFIVhGxQHg3UwizcJ) | [Qatari](https://open.spotify.com/album/1RkZvLcX0e8iZyCTCyIhdu) | 3:22 | 2023-03-16 | 2023-11-10 |
 | [QLT](https://open.spotify.com/track/1b19yvM3Q1PzDEcLYrx6TT) | [sheng](https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn) | [QLT](https://open.spotify.com/album/1m40YiFmeZB6jvEhFujsS9) | 2:37 | 2023-03-23 | 2023-05-19 |
 | [Qu'est\-ce tu veux qu'j'te dise?](https://open.spotify.com/track/4eNjjnFNBCy2V2bm0Plw4s) | [Nefaste](https://open.spotify.com/artist/0H1xpJStOZvjAvCihf95aY) | [Hiver 365](https://open.spotify.com/album/0oDrbahFH4GbGXPUnNq6PB) | 3:26 | 2023-12-20 | 2024-02-16 |
-| [Quali](https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Quali](https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF) | 3:01 | 2023-07-13 |  |
+| [Quali](https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Quali](https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF) | 3:01 | 2023-07-13 | 2024-07-05 |
 | [RDG](https://open.spotify.com/track/4EcWgj3UoQ7BhUcJElXzUz) | [Yanoh](https://open.spotify.com/artist/0F8lhYdZVtpMYMrLbaMZvr), [Negrito](https://open.spotify.com/artist/1i8gGjDzv2FNoy6dHcr25K) | [BARA Réédition](https://open.spotify.com/album/5togZyuaoY6jvY3ubdWhLp) | 3:16 | 2024-02-01 | 2024-02-23 |
 | [REFLET](https://open.spotify.com/track/6WVQNv6OfbKtZ5GIVsmWCu) | [LETS GO](https://open.spotify.com/artist/1dsDes6AhaezAMdHIEQbAr), [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC) | [LETS GO](https://open.spotify.com/album/07JcrUKjzCDu3fkEtiW1XP) | 2:47 | 2023-05-18 | 2023-06-30 |
 | [Regarde](https://open.spotify.com/track/3RXZRxhbPDL6B6gt59FO8m) | [Gianni](https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk) | [Regarde](https://open.spotify.com/album/223Z3aR3oXho7do2t6IPeY) | 3:22 | 2022-07-14 | 2022-11-18 |

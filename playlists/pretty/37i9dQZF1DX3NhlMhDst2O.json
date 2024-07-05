@@ -1,6 +1,6 @@
 {
   "description": "Porque el romance nunca pasar\u00e1 de moda. ",
-  "num_followers": 87011,
+  "num_followers": 87140,
   "original_name": "Sonidos del Ayer",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "Solo Para Ti",
-        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
-      },
-      "artists": [
-        {
-          "name": "Los Strwck",
-          "url": "https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Quien",
-      "url": "https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "25 Exitos",
         "url": "https://open.spotify.com/album/3vhcKso4jXKeXF5TfJDNwo"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 171213,
       "name": "Ya se va",
       "url": "https://open.spotify.com/track/2YHivNAfXw6rE6hdFcdCsJ"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "Solo Para Ti",
+        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
+      },
+      "artists": [
+        {
+          "name": "Los Strwck",
+          "url": "https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Quien",
+      "url": "https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "25 Exitos",
-        "url": "https://open.spotify.com/album/3vhcKso4jXKeXF5TfJDNwo"
-      },
-      "artists": [
-        {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
-        }
-      ],
-      "duration_ms": 148240,
-      "name": "Lo que te queda",
-      "url": "https://open.spotify.com/track/6aS1aIY9bpyYRvRRtaG5cq"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "15 Exitos Del Recuerdo",
         "url": "https://open.spotify.com/album/2iLHBOWBH9SVsSgvEaqIc2"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 141533,
       "name": "Anoche Me Enamore",
       "url": "https://open.spotify.com/track/5j77X30tIIWhpAyHjc5msc"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "25 Exitos",
+        "url": "https://open.spotify.com/album/3vhcKso4jXKeXF5TfJDNwo"
+      },
+      "artists": [
+        {
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+        }
+      ],
+      "duration_ms": 148240,
+      "name": "Lo que te queda",
+      "url": "https://open.spotify.com/track/6aS1aIY9bpyYRvRRtaG5cq"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "Serie Diamante (USA)",
-        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
-      },
-      "artists": [
-        {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "Nunca digas",
-      "url": "https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "El Disco de Oro de la Tropa Loca",
         "url": "https://open.spotify.com/album/4DfcRh0MYcnlcZOUMLGyX3"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
+        "name": "Serie Diamante (USA)",
+        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
+      },
+      "artists": [
+        {
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "Nunca digas",
+      "url": "https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
         "name": "El Ultimo Beso",
         "url": "https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo"
       },
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "Coleccion Suprema Plus- Los Polifaceticos",
-        "url": "https://open.spotify.com/album/5EhuEeRwzgNV4TVLqcDD0i"
+        "name": "Lo Basico",
+        "url": "https://open.spotify.com/album/4PvLHMuUveLw9A1FpGulDS"
       },
       "artists": [
         {
-          "name": "Los Polifaceticos",
-          "url": "https://open.spotify.com/artist/3OOAJERutoeZax0lNsSWbK"
+          "name": "Yndio",
+          "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
         }
       ],
-      "duration_ms": 187173,
-      "name": "Cuatro Lagrimas",
-      "url": "https://open.spotify.com/track/2XNyz6up4JxH6m6xmYX8wr"
+      "duration_ms": 187786,
+      "name": "Porque Nos Dijimos Adios",
+      "url": "https://open.spotify.com/track/01GNedXgGbn3vW28rRjnMh"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "Lo Basico",
-        "url": "https://open.spotify.com/album/4PvLHMuUveLw9A1FpGulDS"
+        "name": "Coleccion Suprema Plus- Los Polifaceticos",
+        "url": "https://open.spotify.com/album/5EhuEeRwzgNV4TVLqcDD0i"
       },
       "artists": [
         {
-          "name": "Yndio",
-          "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
+          "name": "Los Polifaceticos",
+          "url": "https://open.spotify.com/artist/3OOAJERutoeZax0lNsSWbK"
         }
       ],
-      "duration_ms": 187786,
-      "name": "Porque Nos Dijimos Adios",
-      "url": "https://open.spotify.com/track/01GNedXgGbn3vW28rRjnMh"
+      "duration_ms": 187173,
+      "name": "Cuatro Lagrimas",
+      "url": "https://open.spotify.com/track/2XNyz6up4JxH6m6xmYX8wr"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -1243,22 +1243,18 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "Cura Local (En Vivo)",
-        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+        "name": "Mano A Mano Volumen 1",
+        "url": "https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Yndio",
-          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+          "name": "Yndio",
+          "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
         }
       ],
-      "duration_ms": 239310,
-      "name": "Dame un Beso y Dime Adios - En Vivo",
-      "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
+      "duration_ms": 190773,
+      "name": "Por Que Nos Dijimos Adios",
+      "url": "https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -1311,8 +1307,28 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "Mano A Mano Volumen 1",
-        "url": "https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK"
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Yndio",
+          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+        }
+      ],
+      "duration_ms": 239310,
+      "name": "Dame un Beso y Dime Adios - En Vivo",
+      "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "Mano A Mano Volumen 2",
+        "url": "https://open.spotify.com/album/711RytcGqUZWMK90seBzdV"
       },
       "artists": [
         {
@@ -1320,9 +1336,9 @@
           "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
         }
       ],
-      "duration_ms": 190773,
-      "name": "Por Que Nos Dijimos Adios",
-      "url": "https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO"
+      "duration_ms": 169440,
+      "name": "Como Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/4cr9cfUYbIwuhqzhF9dpIZ"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/0fXMAlqWJNI1mwkeXYwHsR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Yndio",
-          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
-        }
-      ],
-      "duration_ms": 195213,
-      "name": "El",
-      "url": "https://open.spotify.com/track/7FbqWTsHBvwEr2mAP7zWvo"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "Peerless 80 Aniversario - 24 Inolvidables",
         "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
       },
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "Mano A Mano Volumen 2",
-        "url": "https://open.spotify.com/album/711RytcGqUZWMK90seBzdV"
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0fXMAlqWJNI1mwkeXYwHsR"
       },
       "artists": [
         {
-          "name": "Yndio",
-          "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
+          "name": "Grupo Yndio",
+          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
         }
       ],
-      "duration_ms": 169440,
-      "name": "Como Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/4cr9cfUYbIwuhqzhF9dpIZ"
+      "duration_ms": 195213,
+      "name": "El",
+      "url": "https://open.spotify.com/track/7FbqWTsHBvwEr2mAP7zWvo"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "Palito Ortega y Sus \u00c9xitos",
-        "url": "https://open.spotify.com/album/6vWqqBI2PSTDoROOU6IdE3"
-      },
-      "artists": [
-        {
-          "name": "Palito Ortega",
-          "url": "https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD"
-        }
-      ],
-      "duration_ms": 200711,
-      "name": "Por Muchas Razones Te Quiero",
-      "url": "https://open.spotify.com/track/7uSEht8p9wuXz7sQfUBU47"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "Idolos de Argentina",
         "url": "https://open.spotify.com/album/6RlXYXZd7cCw6astTKZJIB"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 197706,
       "name": "Los Hombres No Deben Llorar",
       "url": "https://open.spotify.com/track/3y4BiEvje7Ez7lnWR0VVEa"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "Palito Ortega y Sus \u00c9xitos",
+        "url": "https://open.spotify.com/album/6vWqqBI2PSTDoROOU6IdE3"
+      },
+      "artists": [
+        {
+          "name": "Palito Ortega",
+          "url": "https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD"
+        }
+      ],
+      "duration_ms": 200711,
+      "name": "Por Muchas Razones Te Quiero",
+      "url": "https://open.spotify.com/track/7uSEht8p9wuXz7sQfUBU47"
     },
     {
       "added_at": "2023-11-06 20:37:56",

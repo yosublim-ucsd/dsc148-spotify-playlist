@@ -2,7 +2,7 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> de skarpeste nye knive i dansk musik! <a href="spotify:artist:2Ic6MYMc3DrPW8z8DHFoWS">Stella</a> & <a href="spotify:artist:76eNWShp2OZBflNjOY2jEG">Mattias Kolstrup</a> på forsiden🔪
+> de skarpeste nye knive i dansk musik! <a href="spotify:artist:5Ppbc55kNdjvxP8Tw2P8S9">APHACA</a> på forsiden🔪
 
 70 songs - 3 hr 51 min
 

@@ -2,7 +2,7 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Unearthing trailblazers\. Say Hello to 2024's RADAR SG & MY artists\. Cover: Amir Hasan
+> Unearthing trailblazers\. Say Hello to 2024's RADAR SG & MY artists\. Cover: Axel Brizzy
 
 65 songs - 3 hr 25 min
 

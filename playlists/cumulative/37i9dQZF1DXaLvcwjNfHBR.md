@@ -2,7 +2,7 @@
 
 ### [Breaking Hits](https://open.spotify.com/playlist/37i9dQZF1DXaLvcwjNfHBR)
 
-> Your new favourite songs! Cover: The Kid LAROI
+> Your new favourite songs! Cover: Tinashe
 
 567 songs - 1 day 6 hr 21 min
 

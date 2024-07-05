@@ -2,9 +2,9 @@
 
 ### [Ambient Japan](https://open.spotify.com/playlist/37i9dQZF1DX5pzlFKAwpZ5)
 
-> The calming space of Japanese Ambient and Environmental music\. Masayoshi Fujita on cover.
+> The calming space of Japanese Ambient and Environmental music\. Kenichiro Isoda on cover.
 
-260 songs - 19 hr 10 min
+261 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [York](https://open.spotify.com/track/4hHpxHRHcT6RbVW8FcsWQh) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Gone](https://open.spotify.com/album/2cse4C4WEcjxWUwvqrm4Q9) | 4:52 | 2022-01-07 | 2023-04-22 |
 | [Yowa](https://open.spotify.com/track/7LcoSuCny0cee4PPF7ehVC) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Yowa](https://open.spotify.com/album/6xF5BAMSXRNud3nF4ms1s0) | 3:28 | 2022-08-11 | 2023-04-22 |
 | [さてと](https://open.spotify.com/track/5QGQs3ju80BbO5Q3heCVkX) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Dementos](https://open.spotify.com/album/4rvC2RKIa10KGyGQYx2ftc) | 2:49 | 2022-12-30 | 2023-01-21 |
+| [クラムボンの瞑想\- Meditation of Clammbon](https://open.spotify.com/track/5pjPli1o6JBDVxtdvWi4j8) | [磯田健一郎](https://open.spotify.com/artist/3rFwskAbReckTSOvClgBCt) | [マジエルのまどろみ \- Majel's Slumber](https://open.spotify.com/album/1Z4lvGOqC5H6rDfkeJre8a) | 11:32 | 2024-07-04 |  |
 | [ザ・ミラージュ](https://open.spotify.com/track/1fvrnSlOdMqNTsRMzZZLSZ) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 5:06 | 2022-12-30 |  |
 | [ミート・ミー・イン・ザ・シープ・メドウ](https://open.spotify.com/track/4SQbhj7q0H1yIA7LjATtt5) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 3:25 | 2022-12-30 |  |
 | [光の塵](https://open.spotify.com/track/3vqINomEEpyG7nlUfqbd49) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Dustlight / 光の塵 / Afterglow](https://open.spotify.com/album/577opext6ZuqRDwowBmMdc) | 5:03 | 2023-10-13 |  |

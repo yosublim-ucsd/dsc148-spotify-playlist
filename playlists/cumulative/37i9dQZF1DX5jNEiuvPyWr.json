@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Ashh",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Green Montana",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -764,7 +764,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 171200,
       "name": "AVANT TOI",
       "url": "https://open.spotify.com/track/60ouY0tuiKBPMCP0iZStJS"
@@ -3817,6 +3817,24 @@
     },
     {
       "album": {
+        "name": "La paume",
+        "url": "https://open.spotify.com/album/3tlJROX0yLLiBttCwU1VfL"
+      },
+      "artists": [
+        {
+          "name": "YUNG POOR ALO",
+          "url": "https://open.spotify.com/artist/4n9g9O44xmv7k4ET9NLvds"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "La paume",
+      "url": "https://open.spotify.com/track/45F4WSxrwyULSeEXH0NDoV"
+    },
+    {
+      "album": {
         "name": "Wilma",
         "url": "https://open.spotify.com/album/7BR6OZQh1ZtXgXUQxHgw3X"
       },
@@ -5171,6 +5189,24 @@
     },
     {
       "album": {
+        "name": "Oiseau de nuit",
+        "url": "https://open.spotify.com/album/1fRkV0Pzcfb48wfoG5G95X"
+      },
+      "artists": [
+        {
+          "name": "Telam",
+          "url": "https://open.spotify.com/artist/4YH9nYMnKZDKIXRFQrhRON"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213834,
+      "name": "Oiseau de nuit",
+      "url": "https://open.spotify.com/track/299v6FILLtNsfPoDWH7utU"
+    },
+    {
+      "album": {
         "name": "OKOCHA",
         "url": "https://open.spotify.com/album/488uHoP3aFtNqQPi9jKeYM"
       },
@@ -6000,7 +6036,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 181649,
       "name": "Quali",
       "url": "https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: ATSEA",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Amis",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 220500,
       "name": "Adore",
       "url": "https://open.spotify.com/track/4HOpUAUoFw50JvrcrSxi44"
+    },
+    {
+      "album": {
+        "name": "Amerika",
+        "url": "https://open.spotify.com/album/7tO1FeNs2m4qSf2Awugv1u"
+      },
+      "artists": [
+        {
+          "name": "Bank",
+          "url": "https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249932,
+      "name": "Amerika",
+      "url": "https://open.spotify.com/track/2SKdoe7rNB1q4uBLfmhHsZ"
     },
     {
       "album": {
@@ -103,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Filosofi Males",
+        "url": "https://open.spotify.com/album/3RiYb3auIbLVAo8E38mLq8"
+      },
+      "artists": [
+        {
+          "name": "Amis",
+          "url": "https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212062,
+      "name": "bila",
+      "url": "https://open.spotify.com/track/6gHh6SMnCRxLwpDDD7zTqW"
+    },
+    {
+      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/75YDVoGjHMD7r7OY5vJEIm"
       },
@@ -132,7 +168,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 181380,
       "name": "can't get over you",
       "url": "https://open.spotify.com/track/04NkJPmj2porr9uv2B0YvJ"
@@ -256,6 +292,28 @@
       "duration_ms": 218735,
       "name": "Coming Home (feat. Chelsea Dawn & Coloura)",
       "url": "https://open.spotify.com/track/4CeQo2SvURvL9gXEF51mGm"
+    },
+    {
+      "album": {
+        "name": "In With The Out, Old With The New, Vol. 2",
+        "url": "https://open.spotify.com/album/0NXZnpIolPwpUlAY9wc2EX"
+      },
+      "artists": [
+        {
+          "name": "Mad Madmen",
+          "url": "https://open.spotify.com/artist/6J53OmVP9ZU5yp72SaeG0b"
+        },
+        {
+          "name": "Afirniar Mutsrin",
+          "url": "https://open.spotify.com/artist/39bo1HVsRhevqRRCVxkMDB"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284442,
+      "name": "Contemplation, Pt. 1",
+      "url": "https://open.spotify.com/track/4Vo45D4lMsLv60JoSWeMoY"
     },
     {
       "album": {
@@ -504,7 +562,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 253000,
       "name": "Feeling for You",
       "url": "https://open.spotify.com/track/0NA1nlCQ9BlRbbY8F6UTN9"
@@ -526,6 +584,24 @@
       "duration_ms": 281600,
       "name": "Gemuruh Riuh",
       "url": "https://open.spotify.com/track/1IpJu8YwAlc1ozSxXAyxl8"
+    },
+    {
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/4mTkEAZDd4xGZlFEfmROPz"
+      },
+      "artists": [
+        {
+          "name": "Elephant Kind",
+          "url": "https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193880,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/12upHAA95HQP1iRRqOOGZ4"
     },
     {
       "album": {
@@ -594,7 +670,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 110750,
       "name": "Heartless Man",
       "url": "https://open.spotify.com/track/7dRxFgqHCL0q3BlA9Er4J5"
@@ -695,6 +771,24 @@
     },
     {
       "album": {
+        "name": "Jalur Bebas Hambatan",
+        "url": "https://open.spotify.com/album/6UpsoueDxfB29QRoG9SDld"
+      },
+      "artists": [
+        {
+          "name": "Purpla",
+          "url": "https://open.spotify.com/artist/6nLhM1QkqsfvLN0sJr6cTv"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225281,
+      "name": "Jalur Bebas Hambatan",
+      "url": "https://open.spotify.com/track/0WKfFli4wfhr04p0CYuicl"
+    },
+    {
+      "album": {
         "name": "Jangan Pernah Berubah",
         "url": "https://open.spotify.com/album/5cKCBveEH9NA3svYUb7h0Y"
       },
@@ -710,6 +804,24 @@
       "duration_ms": 238216,
       "name": "Jangan Pernah Berubah",
       "url": "https://open.spotify.com/track/1CHgfuZWlq45GGjRgAUhzT"
+    },
+    {
+      "album": {
+        "name": "Jangan Terlalu",
+        "url": "https://open.spotify.com/album/5YaLTKQWdGIpmxnehrTdMa"
+      },
+      "artists": [
+        {
+          "name": "Mr. Sonjaya",
+          "url": "https://open.spotify.com/artist/6iUFomcMsqFIyq87u1UEwl"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Jangan Terlalu",
+      "url": "https://open.spotify.com/track/0Zdo9YUOun1DscWe53UVbo"
     },
     {
       "album": {
@@ -764,7 +876,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 516750,
       "name": "Kekasih Kota",
       "url": "https://open.spotify.com/track/4Ngdsb2TlpF9PS4fa9vcl9"
@@ -782,7 +894,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 219661,
       "name": "Kontemplasi",
       "url": "https://open.spotify.com/track/7hHiaXpGgst4M1JPvuJCR5"
@@ -800,7 +912,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 244660,
       "name": "Labirin Pikiran",
       "url": "https://open.spotify.com/track/6geMi4peZEz7wLyiwGhIbN"
@@ -854,7 +966,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 232149,
       "name": "less sugar, please",
       "url": "https://open.spotify.com/track/3ECxqDL216DPm4nghJAbx6"
@@ -962,7 +1074,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 246000,
       "name": "Masa Kita",
       "url": "https://open.spotify.com/track/0wTyJ88G2wq50ykM5zSVMS"
@@ -1052,7 +1164,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 193043,
       "name": "MNSF",
       "url": "https://open.spotify.com/track/6JouPb4bv2ki48IDhq9D9F"
@@ -1142,10 +1254,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 264335,
       "name": "Nevermind",
       "url": "https://open.spotify.com/track/68lwFbVvTbPENi7PrJg1hu"
+    },
+    {
+      "album": {
+        "name": "Nina",
+        "url": "https://open.spotify.com/album/2LVn7NDGoMSmFCkLqRK2o4"
+      },
+      "artists": [
+        {
+          "name": ".Feast",
+          "url": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277944,
+      "name": "Nina",
+      "url": "https://open.spotify.com/track/1zFaLYA10ImwEejge3F5nm"
     },
     {
       "album": {
@@ -1250,7 +1380,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 179760,
       "name": "Plain",
       "url": "https://open.spotify.com/track/7IWlNd4ouhGvcmrFCL5y8F"
@@ -1528,7 +1658,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 255400,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/2rfmkK3tZz8XuSdEARWNsE"
@@ -1622,7 +1752,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 236212,
       "name": "Terdiasi",
       "url": "https://open.spotify.com/track/1UZKEWCeZ2Zv3BanLxDFD6"
@@ -1666,6 +1796,28 @@
       "duration_ms": 266382,
       "name": "The Lady With The Sapphire in Her Eyes",
       "url": "https://open.spotify.com/track/3NLOvyOrCc1AxtXVBILHiJ"
+    },
+    {
+      "album": {
+        "name": "Hope + Love: reanimated edition",
+        "url": "https://open.spotify.com/album/3Z5eDoTbEzeaEKWkwoQeUh"
+      },
+      "artists": [
+        {
+          "name": "lightcraft",
+          "url": "https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3"
+        },
+        {
+          "name": "Natasha Udu",
+          "url": "https://open.spotify.com/artist/5788KAWYDqWlejC63W92S7"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "This Day & Age (feat. Natasha Udu) (RIMALDI Reanimated)",
+      "url": "https://open.spotify.com/track/3KDSxEVrAkP4RfJaSWWctd"
     },
     {
       "album": {
@@ -1752,7 +1904,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 189481,
       "name": "waiting game",
       "url": "https://open.spotify.com/track/49PybRHBfBnXXwJNuZsWO0"
@@ -1770,7 +1922,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 158000,
       "name": "Wet",
       "url": "https://open.spotify.com/track/4u8IFN1MSABTMBOMrASpCp"

@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 17756,
+  "num_followers": 17785,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,26 @@
     {
       "added_at": "2024-06-28 03:23:34",
       "album": {
+        "name": "Luar",
+        "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 194862,
+      "name": "Luar",
+      "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
+    },
+    {
+      "added_at": "2024-06-28 03:23:34",
+      "album": {
         "name": "Sossega (Nada Mal)",
         "url": "https://open.spotify.com/album/0eCs8F3tpB4sKdWJ9vHXQt"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 201600,
       "name": "Sossega (Nada mal)",
       "url": "https://open.spotify.com/track/6mvy9xtCF374eRvxeY6C0d"
-    },
-    {
-      "added_at": "2024-06-28 03:23:34",
-      "album": {
-        "name": "Luar",
-        "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 194862,
-      "name": "Luar",
-      "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
     },
     {
       "added_at": "2024-06-28 03:23:34",
@@ -431,6 +431,26 @@
     {
       "added_at": "2024-06-28 03:23:34",
       "album": {
+        "name": "YEY\u00ca",
+        "url": "https://open.spotify.com/album/3MvzSKmhx9dx2wzKP48nMT"
+      },
+      "artists": [
+        {
+          "name": "Ally Akin",
+          "url": "https://open.spotify.com/artist/1BcFdQaRLbfN6nzhUIPalx"
+        },
+        {
+          "name": "BM Ally",
+          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
+        }
+      ],
+      "duration_ms": 195400,
+      "name": "YEY\u00ca",
+      "url": "https://open.spotify.com/track/5K99hrcPJLnVBQg15v6UYq"
+    },
+    {
+      "added_at": "2024-06-28 03:23:34",
+      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/08Ixz1AGeGG2fJgFhuuL1j"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 144444,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/50NwQLqay9RJRTgWW8qS5j"
-    },
-    {
-      "added_at": "2024-06-28 03:23:34",
-      "album": {
-        "name": "YEY\u00ca",
-        "url": "https://open.spotify.com/album/3MvzSKmhx9dx2wzKP48nMT"
-      },
-      "artists": [
-        {
-          "name": "Ally Akin",
-          "url": "https://open.spotify.com/artist/1BcFdQaRLbfN6nzhUIPalx"
-        },
-        {
-          "name": "BM Ally",
-          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
-        }
-      ],
-      "duration_ms": 195400,
-      "name": "YEY\u00ca",
-      "url": "https://open.spotify.com/track/5K99hrcPJLnVBQg15v6UYq"
     },
     {
       "added_at": "2024-06-28 03:23:34",
@@ -655,6 +655,30 @@
     {
       "added_at": "2024-06-28 03:23:34",
       "album": {
+        "name": "Doce",
+        "url": "https://open.spotify.com/album/5VQ5eJPnq233aCXQuGsGoH"
+      },
+      "artists": [
+        {
+          "name": "Dcan",
+          "url": "https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj"
+        },
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "Doce",
+      "url": "https://open.spotify.com/track/4RaKNRhCEAWsWysxkPeQUR"
+    },
+    {
+      "added_at": "2024-06-28 03:23:34",
+      "album": {
         "name": "Afasta",
         "url": "https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k"
       },
@@ -695,6 +719,54 @@
     {
       "added_at": "2024-06-28 03:23:34",
       "album": {
+        "name": "Fases Vol. 1",
+        "url": "https://open.spotify.com/album/0VUKUkjsiowwZIHheuNOaG"
+      },
+      "artists": [
+        {
+          "name": "Binho Salles",
+          "url": "https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+        },
+        {
+          "name": "Khris",
+          "url": "https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "Teimosa e Ciumenta",
+      "url": "https://open.spotify.com/track/5Xgbiv7vaRjKPq8PhXZcdd"
+    },
+    {
+      "added_at": "2024-06-28 03:23:34",
+      "album": {
+        "name": "N\u00e3o Prometeu Nada",
+        "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
+      },
+      "artists": [
+        {
+          "name": "Victor sant's",
+          "url": "https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp"
+        },
+        {
+          "name": "Pivet Panda",
+          "url": "https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu"
+        },
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "N\u00e3o Prometeu Nada",
+      "url": "https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf"
+    },
+    {
+      "added_at": "2024-06-28 03:23:34",
+      "album": {
         "name": "Lembra?",
         "url": "https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU"
       },
@@ -727,54 +799,6 @@
       "duration_ms": 193200,
       "name": "Deixa Eu Te Contar",
       "url": "https://open.spotify.com/track/0CGngLP2gLZZqWKjq4QW6K"
-    },
-    {
-      "added_at": "2024-06-28 03:23:34",
-      "album": {
-        "name": "N\u00e3o Prometeu Nada",
-        "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
-      },
-      "artists": [
-        {
-          "name": "Victor sant's",
-          "url": "https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp"
-        },
-        {
-          "name": "Pivet Panda",
-          "url": "https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu"
-        },
-        {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "N\u00e3o Prometeu Nada",
-      "url": "https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf"
-    },
-    {
-      "added_at": "2024-06-28 03:23:34",
-      "album": {
-        "name": "Fases Vol. 1",
-        "url": "https://open.spotify.com/album/0VUKUkjsiowwZIHheuNOaG"
-      },
-      "artists": [
-        {
-          "name": "Binho Salles",
-          "url": "https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB"
-        },
-        {
-          "name": "WALL",
-          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
-        },
-        {
-          "name": "Khris",
-          "url": "https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "Teimosa e Ciumenta",
-      "url": "https://open.spotify.com/track/5Xgbiv7vaRjKPq8PhXZcdd"
     },
     {
       "added_at": "2024-06-28 03:23:34",
@@ -823,30 +847,6 @@
       "duration_ms": 197667,
       "name": "A\u00ed \u00e9 Bom Demais",
       "url": "https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0"
-    },
-    {
-      "added_at": "2024-06-28 03:23:34",
-      "album": {
-        "name": "Doce",
-        "url": "https://open.spotify.com/album/5VQ5eJPnq233aCXQuGsGoH"
-      },
-      "artists": [
-        {
-          "name": "Dcan",
-          "url": "https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj"
-        },
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Doce",
-      "url": "https://open.spotify.com/track/4RaKNRhCEAWsWysxkPeQUR"
     },
     {
       "added_at": "2024-06-28 03:23:34",
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-06-28 03:23:34",
       "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/1YGjRxJd4jYc5GIFgaroNu"
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/3KfcQkrlCWy2J1hW3q1Aoj"
       },
       "artists": [
         {
-          "name": "Andrade",
-          "url": "https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ"
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
         }
       ],
-      "duration_ms": 171789,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/2532CwbBhEyoXmEE6udb1J"
+      "duration_ms": 142909,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/3h7IAT8VPtfrn0o7SeCEy6"
     },
     {
       "added_at": "2024-06-28 03:23:34",
@@ -967,6 +967,22 @@
       "duration_ms": 144000,
       "name": "Natureza",
       "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
+    },
+    {
+      "added_at": "2024-06-28 03:23:34",
+      "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/1YGjRxJd4jYc5GIFgaroNu"
+      },
+      "artists": [
+        {
+          "name": "Andrade",
+          "url": "https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/2532CwbBhEyoXmEE6udb1J"
     },
     {
       "added_at": "2024-06-28 03:23:34",
@@ -1007,22 +1023,6 @@
       "duration_ms": 158400,
       "name": "\u00c1guas Passadas",
       "url": "https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj"
-    },
-    {
-      "added_at": "2024-06-28 03:23:34",
-      "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/3KfcQkrlCWy2J1hW3q1Aoj"
-      },
-      "artists": [
-        {
-          "name": "CT",
-          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
-        }
-      ],
-      "duration_ms": 142909,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/3h7IAT8VPtfrn0o7SeCEy6"
     },
     {
       "added_at": "2024-06-28 03:23:34",

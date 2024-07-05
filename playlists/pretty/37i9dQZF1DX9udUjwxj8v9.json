@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 145523,
+  "num_followers": 145531,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -331,18 +331,22 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Bloco do Silva (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI"
+        "name": "Ax\u00e9 Bahia",
+        "url": "https://open.spotify.com/album/63VoP8enjIIB5EBNAwx4OZ"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Timbalada",
+          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 215493,
-      "name": "Beleza Rara - Ao Vivo",
-      "url": "https://open.spotify.com/track/05jQu16DV9TMkGAsNl6QiP"
+      "duration_ms": 194533,
+      "name": "A Luz De Tieta",
+      "url": "https://open.spotify.com/track/2QC8Y1mUL709fOZWO8okcR"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -363,22 +367,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Ax\u00e9 Bahia",
-        "url": "https://open.spotify.com/album/63VoP8enjIIB5EBNAwx4OZ"
+        "name": "Bloco do Silva (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI"
       },
       "artists": [
         {
-          "name": "Timbalada",
-          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         }
       ],
-      "duration_ms": 194533,
-      "name": "A Luz De Tieta",
-      "url": "https://open.spotify.com/track/2QC8Y1mUL709fOZWO8okcR"
+      "duration_ms": 215493,
+      "name": "Beleza Rara - Ao Vivo",
+      "url": "https://open.spotify.com/track/05jQu16DV9TMkGAsNl6QiP"
     },
     {
       "added_at": "2023-03-06 22:48:04",

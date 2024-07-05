@@ -2,9 +2,9 @@
 
 ### [Liever Hollands](https://open.spotify.com/playlist/37i9dQZF1DX3fVDvRBemdr)
 
-> De nieuwste Hollandse hits\. Cover: Afro Bros, John West, Monq & Billy Dans
+> De nieuwste Hollandse hits\. Cover: André Hazes & Mart Hoogkamer
 
-70 songs - 3 hr 26 min
+74 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,9 @@
 | [Frans Thuis](https://open.spotify.com/track/2Hd5d3K74UMj0GGcrIousD) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Frans Thuis](https://open.spotify.com/album/5OR7PPsLA2E4exXadxkVNV) | 2:53 | 2024-06-13 |  |
 | [Geef Mij Maar Nederland](https://open.spotify.com/track/41tpNopONzNvA2NXHsvKLW) | [Mick Harren](https://open.spotify.com/artist/3rC0vVL6atCESm1dahvBDl) | [Geef Mij Maar Nederland](https://open.spotify.com/album/3zmPW7jq2ks3cyPAT6Nd5S) | 2:58 | 2024-06-20 |  |
 | [Geen Ontkomen Aan](https://open.spotify.com/track/1nDluvTszaQGNuLMs9qp8Z) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx) | [Geen Ontkomen Aan](https://open.spotify.com/album/76PsziGLrPDHaQwgvyPFcP) | 2:58 | 2024-06-13 |  |
+| [Heerlijke Vakantie](https://open.spotify.com/track/2fTLEmV2cAzHgBdyrfKcpx) | [Erik van Hoof](https://open.spotify.com/artist/0PCXi9VjIC2BwLyDmEQ6G6) | [Heerlijke Vakantie](https://open.spotify.com/album/5bLmNRX9mb9D5gurA7Abmn) | 3:12 | 2024-07-04 |  |
 | [Het Lijkt Hier Wel Ibiza](https://open.spotify.com/track/3vz8UKPERttXraKTnrGyAL) | [Jaman](https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Het Lijkt Hier Wel Ibiza](https://open.spotify.com/album/6njQsNf4hEvlm2HOY7XLyg) | 2:26 | 2024-06-13 |  |
+| [Hoe Ik Leven Moet](https://open.spotify.com/track/1HwamkGmsC5nZxkTiiRRcr) | [Jan van Est](https://open.spotify.com/artist/1feKpwHpzkvIwaG7a8KwhE) | [Hoe Ik Leven Moet](https://open.spotify.com/album/4XSGwd3KwnR1XCpdSN2L11) | 2:58 | 2024-07-04 |  |
 | [Hou me vast](https://open.spotify.com/track/1W6FvzWv11decQuYPkHPyB) | [Quincy](https://open.spotify.com/artist/4fRfbdOrNz7rMisq8Ff78c) | [Hou me vast](https://open.spotify.com/album/7jVSueTIpVROWGqkyAa0gU) | 3:36 | 2024-06-13 |  |
 | [Ik Pluk Een Ster](https://open.spotify.com/track/6IL9WqozMq9AZnj0v8jEAY) | [Mike Kanders](https://open.spotify.com/artist/0bLOBOM8xoHml0QBurC1ci) | [Ik Pluk Een Ster](https://open.spotify.com/album/0PbztfMQhKRjRwW4AHWxf8) | 2:38 | 2024-06-13 |  |
 | [Ik Slaap In De Kroeg](https://open.spotify.com/track/5RYECSo6TvaqRBJNFhaP9z) | [Maxim Froger](https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Ik Slaap In De Kroeg](https://open.spotify.com/album/6IxtRIGc7QskgH0O6o2EoT) | 2:31 | 2024-06-13 |  |
@@ -70,6 +72,7 @@
 | [Voel Voel Voel](https://open.spotify.com/track/2erib8JNK3cb4PiYk1cHvo) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Voel Voel Voel](https://open.spotify.com/album/0dGdbc1Ua6BwzLZkSllywO) | 2:42 | 2024-06-13 |  |
 | [Waarom](https://open.spotify.com/track/1U1p8wNawQRx26eWRlJG0N) | [Mike Versteeg](https://open.spotify.com/artist/1EF9A4CUgRWouYS80puSfB) | [Waarom](https://open.spotify.com/album/6CtORhISBvtsSo7fpGVcCs) | 2:53 | 2024-06-27 |  |
 | [Wachten Op Jou](https://open.spotify.com/track/7D8tOp3trj6rvaplYCnVro) | [Wesley Ponsen](https://open.spotify.com/artist/4xxuGsLzFh24K7Nom9QZvO) | [Wachten Op Jou](https://open.spotify.com/album/62OiJpWTS1sNc9k5P4BICk) | 2:21 | 2024-06-13 |  |
+| [Weg Uit De Sleur](https://open.spotify.com/track/6qexkjWsYMNlRdhv2ybFXR) | [Sieneke](https://open.spotify.com/artist/3AbzwHPIn3CHOZ91SstXk0) | [Weg Uit De Sleur](https://open.spotify.com/album/0I2hNthmZ2FkYIVOucbX4x) | 3:02 | 2024-07-04 |  |
 | [Where Is The Love](https://open.spotify.com/track/5x1xBocigHge5scVQzdq7f) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2), [New Timeless](https://open.spotify.com/artist/0cITHw68HPLMChQETduF5D) | [Where Is The Love](https://open.spotify.com/album/3RODDNkWybjxj2b1zD6Iwc) | 3:37 | 2024-06-13 |  |
 | [Wie Drinkt Er Eén Met Mij](https://open.spotify.com/track/0LUAP7kEI120NQc2TrAiKD) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Wie Drinkt Er Eén Met Mij](https://open.spotify.com/album/6j55S7ubEWvU7ZEYswvgtT) | 2:59 | 2024-06-13 |  |
 | [Zaterdag](https://open.spotify.com/track/3UnvV0umBoSZSubJT4puOO) | [Kevin Paré](https://open.spotify.com/artist/3foumwQXx47LtL6TcTLLrU) | [Zaterdag](https://open.spotify.com/album/3WlRVur6fAPxfhfBzwZarG) | 3:12 | 2024-06-13 |  |
@@ -77,6 +80,7 @@
 | [Zeg het mij maar nog ’n keer](https://open.spotify.com/track/7mcqvTcLp90yQexNaX0BzT) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [Zeg het mij maar nog ’n keer](https://open.spotify.com/album/34NBo0H8vVYsVor6GNSePa) | 3:12 | 2024-06-20 |  |
 | [Zeg me wie](https://open.spotify.com/track/1GkaioqxI6kq8MGhvM40vJ) | [Henk Bernard](https://open.spotify.com/artist/6DEJqlSyKBB7mYf2v59dVO) | [Zeg me wie](https://open.spotify.com/album/3cXzMiXcEKr1LUlkcMbZZB) | 3:45 | 2024-06-13 |  |
 | [Zie Ik Jou Weer Morgen?](https://open.spotify.com/track/07iAKwRXb0yRWPK0cqasFZ) | [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd), [Ruth Jacott](https://open.spotify.com/artist/0NM27i2hSW1lbc7rYa5D6u) | [Zie Ik Jou Weer Morgen?](https://open.spotify.com/album/0tUcPCqXyt90DHnHWMtaMo) | 3:08 | 2024-06-13 |  |
+| [Zij Is Van Mij](https://open.spotify.com/track/5ElK7HPvWfRYOzz6F6ICId) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Zij Is Van Mij](https://open.spotify.com/album/42ySQUp33CT7jH0XTOVYPh) | 2:25 | 2024-07-04 |  |
 | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5) | 2:32 | 2024-06-13 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

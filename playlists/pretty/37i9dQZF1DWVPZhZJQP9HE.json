@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Sai Abhyankkar ",
-  "num_followers": 68826,
+  "num_followers": 68867,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnlMUwAAAACBRd+lUSOm3v4w0GH6jz65",
+  "snapshot_id": "ZoaC7AAAAABBM7ALWHgJ00VY8lJfW/Hl",
   "tracks": [
     {
       "added_at": "2024-06-13 06:24:42",
@@ -167,6 +167,26 @@
       "duration_ms": 157750,
       "name": "La La Heartu Nikkala (From \"MM Originals\") (Original Soundtrack)",
       "url": "https://open.spotify.com/track/5orsg8Rqsas06dNgt8qVIv"
+    },
+    {
+      "added_at": "2024-07-04 11:09:32",
+      "album": {
+        "name": "Thalakeezhai",
+        "url": "https://open.spotify.com/album/2U2ZVcOxcgwF6hDzcxFQwG"
+      },
+      "artists": [
+        {
+          "name": "Jerard Felix",
+          "url": "https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Thalakeezhai",
+      "url": "https://open.spotify.com/track/349EqVyKRJaTmhSENFxu4v"
     },
     {
       "added_at": "2024-03-26 07:01:26",

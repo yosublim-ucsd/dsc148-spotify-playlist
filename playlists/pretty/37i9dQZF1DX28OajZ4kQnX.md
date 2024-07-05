@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 
 > Kick it with some of the hottest bars from Uganda +256
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,713 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,715 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 9 | [RIP](https://open.spotify.com/track/6aA1KvSRmqnINK9qVfrTHY) | [Bad Sparksy](https://open.spotify.com/artist/6PepBSUCzpxoiKCx9sfrdP) | [RIP](https://open.spotify.com/album/3cbOnJTnIoodK4xx2JpAyc) | 4:12 |
 | 10 | [Told You So](https://open.spotify.com/track/5bnX5oi9viuOLqaehmyhYt) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 2:44 |
 | 11 | [Voices & Vices](https://open.spotify.com/track/71s7xkFT4m4qOS1WUny4QN) | [Xcript](https://open.spotify.com/artist/6MXbmEfhJIKauPuo91Ssr5), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Voices & Vices](https://open.spotify.com/album/2Mnq8tG8vzxnQUdZ877LWp) | 2:50 |
-| 12 | [Coming In Hot \- Short Version](https://open.spotify.com/track/4PNUQ1EM9MXcZgf26Lvj6U) | [Drillz The Rapper](https://open.spotify.com/artist/7EjcbHeP9v2XgeyP718axB) | [Coming In Hot](https://open.spotify.com/album/6Yt2pOIVZP1QuqAxrilW2H) | 2:12 |
+| 12 | [Coming In Hot \- Short Version](https://open.spotify.com/track/4PNUQ1EM9MXcZgf26Lvj6U) | [Drillz The Rapper](https://open.spotify.com/artist/7EjcbHeP9v2XgeyP718axB) | [Coming In Hot \(Short Version\)](https://open.spotify.com/album/6Yt2pOIVZP1QuqAxrilW2H) | 2:12 |
 | 13 | [Vexed](https://open.spotify.com/track/0rN3AzAnx0SedfkB1ZzT5g) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Vexed](https://open.spotify.com/album/74JtkXieAwoCrvklPedFsi) | 2:16 |
 | 14 | [Belong](https://open.spotify.com/track/1BxdWcqrXT7DBrPXAwHacK) | [KeDi](https://open.spotify.com/artist/3aaq8ReIvKF925g2qtGnV7) | [Belong](https://open.spotify.com/album/07MimenonWNMJeSgQYpUyz) | 2:09 |
 | 15 | [FREAK](https://open.spotify.com/track/0ZSYx0o0R3k6G4XE0Rq1Rq) | [sanyu!](https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE) | [FREAK](https://open.spotify.com/album/41WJV8EUzFhDP4q34h863r) | 1:51 |

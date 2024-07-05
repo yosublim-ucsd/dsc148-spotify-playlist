@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 10752,
+  "num_followers": 10765,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-06-28 10:03:00",
       "album": {
-        "name": "Losken Roland",
-        "url": "https://open.spotify.com/album/5l3NRWcHqyP72oYv6Xe3j6"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 140955,
-      "name": "Losken Roland",
-      "url": "https://open.spotify.com/track/5Inucz20QjnA1sPbpsXj49"
-    },
-    {
-      "added_at": "2024-06-28 10:03:00",
-      "album": {
         "name": "El \u00c1lbum de las Ilusiones",
         "url": "https://open.spotify.com/album/7wTHrCoUQJNtkhQRFreDiW"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 261786,
       "name": "Conectar",
       "url": "https://open.spotify.com/track/4w95fyTD2dawHjWZCnV7Vk"
+    },
+    {
+      "added_at": "2024-06-28 10:03:00",
+      "album": {
+        "name": "Losken Roland",
+        "url": "https://open.spotify.com/album/5l3NRWcHqyP72oYv6Xe3j6"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 140955,
+      "name": "Losken Roland",
+      "url": "https://open.spotify.com/track/5Inucz20QjnA1sPbpsXj49"
     },
     {
       "added_at": "2024-06-28 10:03:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-06-28 10:03:00",
       "album": {
-        "name": "XOD\u00d3",
-        "url": "https://open.spotify.com/album/3bZ0Fd7JVJDVYyjV4YJmpo"
-      },
-      "artists": [
-        {
-          "name": "JBot & Tuti",
-          "url": "https://open.spotify.com/artist/5jxVsaFreexOv9fypQsdEX"
-        }
-      ],
-      "duration_ms": 157250,
-      "name": "XOD\u00d3",
-      "url": "https://open.spotify.com/track/3lBGGakiCKy5ZHNObSlQnD"
-    },
-    {
-      "added_at": "2024-06-28 10:03:00",
-      "album": {
         "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
         "url": "https://open.spotify.com/album/12DZ25npZ3OCG49siRWV9l"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 171818,
       "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
       "url": "https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp"
+    },
+    {
+      "added_at": "2024-06-28 10:03:00",
+      "album": {
+        "name": "XOD\u00d3",
+        "url": "https://open.spotify.com/album/3bZ0Fd7JVJDVYyjV4YJmpo"
+      },
+      "artists": [
+        {
+          "name": "JBot & Tuti",
+          "url": "https://open.spotify.com/artist/5jxVsaFreexOv9fypQsdEX"
+        }
+      ],
+      "duration_ms": 157250,
+      "name": "XOD\u00d3",
+      "url": "https://open.spotify.com/track/3lBGGakiCKy5ZHNObSlQnD"
     },
     {
       "added_at": "2024-06-28 10:03:00",

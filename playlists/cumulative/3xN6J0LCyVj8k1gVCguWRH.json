@@ -868,7 +868,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 172252,
       "name": "514 Denim",
       "url": "https://open.spotify.com/track/6wtFipXBfCbH3tOMx6oxh7"
@@ -12970,7 +12970,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 171049,
       "name": "Crossroads",
       "url": "https://open.spotify.com/track/1UMmyU3UgLM1nbCTPB0Mum"
@@ -18620,7 +18620,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 211265,
       "name": "Fading",
       "url": "https://open.spotify.com/track/47qhavyUKBH9N4iFKQVL5p"
@@ -31650,7 +31650,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 158920,
       "name": "KRIBZ",
       "url": "https://open.spotify.com/track/6BcWxkpZHe1v0u4yIBfst7"
@@ -36106,7 +36106,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 147840,
       "name": "M. I. A.",
       "url": "https://open.spotify.com/track/5BRzi7oEylgXnTkSpm5nw1"
@@ -41448,7 +41448,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 104085,
       "name": "No WiFi",
       "url": "https://open.spotify.com/track/0gPtlR4XF9xSz5bwxCSF9p"
@@ -42474,7 +42474,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 151858,
       "name": "OH ME OH MY",
       "url": "https://open.spotify.com/track/0pwLdGeN0tGywFyHOQWUlf"
@@ -46558,7 +46558,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 125454,
       "name": "Pull Away",
       "url": "https://open.spotify.com/track/3QA2dhV76yphBaaRWTwwYG"
@@ -52362,6 +52362,24 @@
       "duration_ms": 183250,
       "name": "So Lucky",
       "url": "https://open.spotify.com/track/7g2Zc9YVwVX6mME8gmBv1t"
+    },
+    {
+      "album": {
+        "name": "So Plain to See",
+        "url": "https://open.spotify.com/album/0XhdprRX3gyvcsPJKYo1LV"
+      },
+      "artists": [
+        {
+          "name": "KennethB",
+          "url": "https://open.spotify.com/artist/74vNAtH9KtlvA4N6AJAk5G"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240040,
+      "name": "So Plain to See",
+      "url": "https://open.spotify.com/track/1k3XUMiF7zFi0O4xcClula"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Kate Bollinger
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,863 likes - 150 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,955 likes - 150 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 15 | [Bubbly](https://open.spotify.com/track/2VznDiwctxtzbl3LoIThMT) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Bubbly](https://open.spotify.com/album/0XDwY94lozd2ppIqdomSr7) | 3:43 |
 | 16 | [Messy As A Magnolia](https://open.spotify.com/track/7motw7Rvsg4tsLGfoAPQyf) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Messy As A Magnolia](https://open.spotify.com/album/1uLpqZUHvwY2kVXfGW0GMU) | 3:47 |
 | 17 | [Don't Cry \(It's Just Goodnight\)](https://open.spotify.com/track/1eEwPY6dleRKadBmUcZ9wX) | [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [Psalms of Yellow House](https://open.spotify.com/album/6iCTigmwPuR3lOmbzWzYH0) | 2:27 |
-| 18 | [Foreverish](https://open.spotify.com/track/0QwLkSBMDiLI8mIKQPmThk) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Foreverish](https://open.spotify.com/album/3zbD2yPc5wZxIJn3nJzLPY) | 1:48 |
+| 18 | [Foreverish](https://open.spotify.com/track/0QwLkSBMDiLI8mIKQPmThk) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Foreverish](https://open.spotify.com/album/3zbD2yPc5wZxIJn3nJzLPY) | 1:45 |
 | 19 | [Don't Fail Me Now](https://open.spotify.com/track/6kVZLcEMeDhRqt6LHrGPd9) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Monochrome](https://open.spotify.com/album/4JfkItn7oJOSBheFuysDnq) | 2:42 |
 | 20 | [Tear It All Apart](https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Tear It All Apart](https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW) | 3:06 |
 | 21 | [Piece of You](https://open.spotify.com/track/5A451NsTJQpBfwttOLCGY4) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Maine](https://open.spotify.com/album/6NTY4wxzcr1II9MWR6V8oh) | 3:47 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 71 | [Phoning Heaven](https://open.spotify.com/track/7icPjmRL9YEZwS27N1mgCk) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Phoning Heaven](https://open.spotify.com/album/2kDpkjq917xjNIbjEdPHU0) | 3:41 |
 | 72 | [Home Alone House 2 \(feat\. Owen\)](https://open.spotify.com/track/7EpL9S3Daon2BfFKq07qT4) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA), [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt) | [Home Alone House 2 \(feat\. Owen\)](https://open.spotify.com/album/3ykcnJFA0aQeevb3oNfZGn) | 3:11 |
 | 73 | [116 West Main, Durham, NC](https://open.spotify.com/track/4fw3YFz5Gk4ebwoI5YQelB) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [116 West Main, Durham, NC](https://open.spotify.com/album/5jWItxGvAWWVEL0bV7TuUI) | 3:57 |
-| 74 | [Personal Jinx](https://open.spotify.com/track/3DzAga558dM1DRAf5cCoBT) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Personal Jinx](https://open.spotify.com/album/4OkjA4QTKRRhydc8O4pdUh) | 2:45 |
+| 74 | [Personal Jinx](https://open.spotify.com/track/3DzAga558dM1DRAf5cCoBT) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Personal Jinx](https://open.spotify.com/album/4OkjA4QTKRRhydc8O4pdUh) | 2:42 |
 | 75 | [Black Bird \- A COLORS SHOW](https://open.spotify.com/track/00SYX4AtIHCpSXopJUj5pP) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Black Bird \- A COLORS SHOW](https://open.spotify.com/album/3onGnASoMyRBbCSWp4H5AR) | 2:53 |
 | 76 | [One Last Gift \- Edit](https://open.spotify.com/track/5yo3rL4CeUX5vYWoXF0txw) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [One Last Gift](https://open.spotify.com/album/2sUVYLvpfUO6ViV1IAwi2S) | 3:34 |
 | 77 | [Big Idea](https://open.spotify.com/track/6H8zVCDkxJVx7MPDLQGvtQ) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Chaos Angel](https://open.spotify.com/album/5AyYM1rZBAiLO0EcgLEaJ2) | 3:42 |

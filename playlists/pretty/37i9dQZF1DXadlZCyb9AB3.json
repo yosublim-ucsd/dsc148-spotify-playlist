@@ -1,6 +1,6 @@
 {
   "description": "The defining songs of the riot grrrl era, and the artists keeping their spirit alive. Cover: Sleater-Kinney\n",
-  "num_followers": 169581,
+  "num_followers": 169648,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-05-13 15:59:47",
       "album": {
-        "name": "Double A Side",
-        "url": "https://open.spotify.com/album/0ToQnPNr2oKEbtK9mA9XDO"
-      },
-      "artists": [
-        {
-          "name": "Dream Nails",
-          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
-        }
-      ],
-      "duration_ms": 95373,
-      "name": "Vagina Police",
-      "url": "https://open.spotify.com/track/3P2LZ3iAWSWs2oW6gUzGkE"
-    },
-    {
-      "added_at": "2024-05-13 15:59:47",
-      "album": {
         "name": "Rid Of Me",
         "url": "https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 143666,
       "name": "50ft Queenie",
       "url": "https://open.spotify.com/track/3fJprjhRxTVtOp18EHdNfu"
+    },
+    {
+      "added_at": "2024-05-13 15:59:47",
+      "album": {
+        "name": "Double A Side",
+        "url": "https://open.spotify.com/album/0ToQnPNr2oKEbtK9mA9XDO"
+      },
+      "artists": [
+        {
+          "name": "Dream Nails",
+          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
+        }
+      ],
+      "duration_ms": 95373,
+      "name": "Vagina Police",
+      "url": "https://open.spotify.com/track/3P2LZ3iAWSWs2oW6gUzGkE"
     },
     {
       "added_at": "2024-05-13 15:59:47",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-05-13 15:59:47",
       "album": {
-        "name": "Feel Your Feelings Fool!",
-        "url": "https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 157933,
-      "name": "A Living Human Girl",
-      "url": "https://open.spotify.com/track/1K0F79D6b7XGDM667RpnsW"
-    },
-    {
-      "added_at": "2024-05-13 15:59:47",
-      "album": {
         "name": "Dry",
         "url": "https://open.spotify.com/album/08Plby1CLD0UNgChnPD8lo"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 198200,
       "name": "Dress",
       "url": "https://open.spotify.com/track/3ajG91JkP3bAaLrDjywKNj"
+    },
+    {
+      "added_at": "2024-05-13 15:59:47",
+      "album": {
+        "name": "Feel Your Feelings Fool!",
+        "url": "https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 157933,
+      "name": "A Living Human Girl",
+      "url": "https://open.spotify.com/track/1K0F79D6b7XGDM667RpnsW"
     },
     {
       "added_at": "2024-05-13 15:59:47",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-05-13 15:59:47",
       "album": {
-        "name": "Bostin' Steve Austin (Splendiferous Edition)",
-        "url": "https://open.spotify.com/album/0nnWj1MAGSXUhyO9A5RsLZ"
-      },
-      "artists": [
-        {
-          "name": "Fuzzbox",
-          "url": "https://open.spotify.com/artist/6iKe6ON2rZrdXbuuhI3Gat"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "Love Is the Slug - Bargainous Longerer Mix",
-      "url": "https://open.spotify.com/track/7pZiRYuRekNV92Qfl1iXDK"
-    },
-    {
-      "added_at": "2024-05-13 15:59:47",
-      "album": {
         "name": "Look Blue Go Purple Compilation",
         "url": "https://open.spotify.com/album/0l1n4dDAwKOpp5ZyOoTK00"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 177333,
       "name": "I Don't Want You Anyway",
       "url": "https://open.spotify.com/track/5JdY3aB0msrkLZya4fEerb"
+    },
+    {
+      "added_at": "2024-05-13 15:59:47",
+      "album": {
+        "name": "Bostin' Steve Austin (Splendiferous Edition)",
+        "url": "https://open.spotify.com/album/0nnWj1MAGSXUhyO9A5RsLZ"
+      },
+      "artists": [
+        {
+          "name": "Fuzzbox",
+          "url": "https://open.spotify.com/artist/6iKe6ON2rZrdXbuuhI3Gat"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "Love Is the Slug - Bargainous Longerer Mix",
+      "url": "https://open.spotify.com/track/7pZiRYuRekNV92Qfl1iXDK"
     },
     {
       "added_at": "2024-05-13 15:59:47",

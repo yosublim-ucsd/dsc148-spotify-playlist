@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: LUISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,837 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,839 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 50 | [Nebe](https://open.spotify.com/track/1QZYTZtylXXuKTHtdJAvXR) | [Ella Jen](https://open.spotify.com/artist/1jImCC6p8QaJMFJtrey6oa), [Makeef](https://open.spotify.com/artist/6EswfK2rTmWOIDOTdKsyHT) | [Nebe](https://open.spotify.com/album/2ht7aEnYpk03NfBTAFFEoI) | 2:15 |
 | 51 | [Afrodiziaka](https://open.spotify.com/track/2eqRtnR039SixT1RumptXy) | [Ilona Csakova](https://open.spotify.com/artist/6ybAgjpQNSHb8CgahUCQB9) | [Afrodiziaka](https://open.spotify.com/album/42LEMJIu3syDq7lo6aoulX) | 3:07 |
 
-Snapshot ID: `ZoR4YAAAAACc/436xA4epwVNCZ4KkHpM`
+Snapshot ID: `ZoZIogAAAACaxKNJs0XTEM1GbEX+F4n4`

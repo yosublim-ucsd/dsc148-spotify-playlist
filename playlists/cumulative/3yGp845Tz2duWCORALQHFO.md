@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-382 songs - 20 hr 41 min
+383 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bittersweet](https://open.spotify.com/track/70u4z4wltq4ANdu7EszBXX) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Bittersweet](https://open.spotify.com/album/7u6zwETx0Uc0EI5zXMXoQv) | 4:58 | 2024-06-28 |  |
 | [BLACKHOLE](https://open.spotify.com/track/5H100BHCFLhbNBefbXMBqL) | [Endy Bros.](https://open.spotify.com/artist/5M7O7qlbkOjbpiJ7AUixMY) | [BLACKHOLE](https://open.spotify.com/album/4sKNFEQniQM5YmavzR3MiS) | 1:36 | 2024-05-16 | 2024-05-25 |
 | [BLUDGEON](https://open.spotify.com/track/0eCgjHLjV9rXpqykWiTtnp) | [MARAUDA](https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4) | [BLUDGEON](https://open.spotify.com/album/0CSke85jF5vljIhbjYBS6h) | 2:57 | 2024-05-24 | 2024-06-01 |
+| [Body](https://open.spotify.com/track/06czbCsPRhDnWZOzjh4dYP) | [D3LT4](https://open.spotify.com/artist/5lnYov1RCZ0TjsHKDzpeaI) | [Body](https://open.spotify.com/album/65othgj3XhZzESg5qHOPfM) | 3:25 | 2024-07-04 |  |
 | [Body Pop](https://open.spotify.com/track/2KU7zBNW1OYKUFIvidx8fx) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [FEYI](https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t) | [Body Pop](https://open.spotify.com/album/2qSC8SWAUAsxsoMaxdWNSl) | 3:42 | 2024-06-07 | 2024-06-17 |
 | [Boogie In Your Butt](https://open.spotify.com/track/5Z1yKec6822T36mx1AbXp2) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Can't Stop / Boogie In Your Butt](https://open.spotify.com/album/2C6HCPyMAHTDtS8jdpssiW) | 2:53 | 2024-06-16 | 2024-06-21 |
 | [Boom Boom Boom](https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Boom Boom Boom](https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G) | 3:01 | 2024-06-20 | 2024-06-29 |

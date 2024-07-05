@@ -1,13 +1,141 @@
 {
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: PLAYERTWO)",
-  "num_followers": 440682,
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: Felip)",
+  "num_followers": 440757,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn4l0AAAAADetIvN+RJ/jQAmP/LNo3qF",
+  "snapshot_id": "ZobHAAAAAACl81ldWGKMYVVjGC3nAHRv",
   "tracks": [
+    {
+      "added_at": "2024-07-04 16:00:00",
+      "album": {
+        "name": "Tobey (feat. Big Sean and BabyTron)",
+        "url": "https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "duration_ms": 284892,
+      "name": "Tobey (feat. Big Sean and BabyTron)",
+      "url": "https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW"
+    },
+    {
+      "added_at": "2024-07-04 16:00:00",
+      "album": {
+        "name": "McNasty",
+        "url": "https://open.spotify.com/album/0Yz3zZhK6e0B5zUTqM5hZV"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 192378,
+      "name": "McNasty",
+      "url": "https://open.spotify.com/track/0nMwj215nyfEOER5AJWLDF"
+    },
+    {
+      "added_at": "2024-07-04 16:00:00",
+      "album": {
+        "name": "Eggroll",
+        "url": "https://open.spotify.com/album/5FrHtZ1G35U1SlcixkcjgE"
+      },
+      "artists": [
+        {
+          "name": "Dtrue",
+          "url": "https://open.spotify.com/artist/6UYPzNMXXBGcGywqMUwqn2"
+        },
+        {
+          "name": "Bachyard Ghost",
+          "url": "https://open.spotify.com/artist/6lUIj87Yum6daz5pdBeEYq"
+        }
+      ],
+      "duration_ms": 123500,
+      "name": "Eggroll",
+      "url": "https://open.spotify.com/track/2qEoJxC8FRZHJ9zgb5llWc"
+    },
+    {
+      "added_at": "2024-07-04 16:00:00",
+      "album": {
+        "name": "7sins",
+        "url": "https://open.spotify.com/album/55eq63Y489Oc4JybFR4ORH"
+      },
+      "artists": [
+        {
+          "name": "Felip",
+          "url": "https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl"
+        }
+      ],
+      "duration_ms": 144160,
+      "name": "envy",
+      "url": "https://open.spotify.com/track/6uJggzzrSE5tK9CRTZejgm"
+    },
+    {
+      "added_at": "2024-07-04 16:00:00",
+      "album": {
+        "name": "In Da Kitchen",
+        "url": "https://open.spotify.com/album/6Tjp7C27IdMfus4zx59Izd"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Gemini",
+          "url": "https://open.spotify.com/artist/4AD2SGYmDQVd02vrwH0TaA"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "In Da Kitchen",
+      "url": "https://open.spotify.com/track/4xBjkmSTlIL7h1LJPI7sPo"
+    },
+    {
+      "added_at": "2024-07-04 16:00:00",
+      "album": {
+        "name": "\u4f9d\u7136FANTASY",
+        "url": "https://open.spotify.com/album/2MYIeUWHPvrkMLjbuBnWCV"
+      },
+      "artists": [
+        {
+          "name": "\u5f71\u5b50\u8a08\u5283 Shadow Project",
+          "url": "https://open.spotify.com/artist/4uvymNV7TTy0q47wUKislL"
+        }
+      ],
+      "duration_ms": 151077,
+      "name": "\u4f9d\u7136FANTASY",
+      "url": "https://open.spotify.com/track/6ntrEvJeBQPvDF3p6nq6C8"
+    },
+    {
+      "added_at": "2024-07-04 16:00:00",
+      "album": {
+        "name": "\u6b32\u5f35 feat. Jin Dogg",
+        "url": "https://open.spotify.com/album/65OjM4LysvU8PqTo5PBaia"
+      },
+      "artists": [
+        {
+          "name": "CHICO CARLITO",
+          "url": "https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz"
+        },
+        {
+          "name": "Jin Dogg",
+          "url": "https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK"
+        }
+      ],
+      "duration_ms": 220011,
+      "name": "\u6b32\u5f35 feat. Jin Dogg",
+      "url": "https://open.spotify.com/track/5b7fhU4Gb6GrpiSnhxhHFK"
+    },
     {
       "added_at": "2024-06-28 02:39:44",
       "album": {
@@ -1627,26 +1755,6 @@
     {
       "added_at": "2024-06-28 02:39:44",
       "album": {
-        "name": "Rock Out",
-        "url": "https://open.spotify.com/album/3mKeMqi3QFtGLhsbgyT2Fl"
-      },
-      "artists": [
-        {
-          "name": "Trae Tha Truth",
-          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
-        },
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        }
-      ],
-      "duration_ms": 176509,
-      "name": "Rock Out",
-      "url": "https://open.spotify.com/track/53opE2ZAIvEqv3pwo7kjLF"
-    },
-    {
-      "added_at": "2024-06-28 02:39:44",
-      "album": {
         "name": "Talk To The Hand",
         "url": "https://open.spotify.com/album/2lj7o0IVKuCKann699vU1L"
       },
@@ -1675,66 +1783,6 @@
       "duration_ms": 189902,
       "name": "Talk To The Hand",
       "url": "https://open.spotify.com/track/0oVPVHDChFQKauSoMUfjk2"
-    },
-    {
-      "added_at": "2024-06-28 02:39:44",
-      "album": {
-        "name": "Debugging",
-        "url": "https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz"
-      },
-      "artists": [
-        {
-          "name": "BLAS\u00c9",
-          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
-        },
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 143826,
-      "name": "Turtle (Feat. CHUNG HA)",
-      "url": "https://open.spotify.com/track/4EDyTgFsthqY9Kgqkwm2LQ"
-    },
-    {
-      "added_at": "2024-06-28 02:39:44",
-      "album": {
-        "name": "W.F.N.D RADIO",
-        "url": "https://open.spotify.com/album/7GyosjFRAy0s0oFNwWcdE2"
-      },
-      "artists": [
-        {
-          "name": "Frank N Dank",
-          "url": "https://open.spotify.com/artist/2ZTaLRGGGwQKyO9spJbthl"
-        },
-        {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        },
-        {
-          "name": "Harleighblu",
-          "url": "https://open.spotify.com/artist/4cEYh7S0lnB9zj30tzPorE"
-        }
-      ],
-      "duration_ms": 241040,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/6mRk23TWtV8OYVWLXNElc8"
-    },
-    {
-      "added_at": "2024-06-28 02:39:44",
-      "album": {
-        "name": "WEIRD",
-        "url": "https://open.spotify.com/album/2F7Dr30u7LbMsnQxtqghj4"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        }
-      ],
-      "duration_ms": 149446,
-      "name": "WEIRD",
-      "url": "https://open.spotify.com/track/3kwIDHpAZaukc6mstY8V9i"
     },
     {
       "added_at": "2024-06-28 02:39:44",
@@ -1771,26 +1819,6 @@
     {
       "added_at": "2024-06-28 02:39:44",
       "album": {
-        "name": "Fire & Ice",
-        "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
-      },
-      "artists": [
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 186191,
-      "name": "Accidentally (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG"
-    },
-    {
-      "added_at": "2024-06-28 02:39:44",
-      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/6jA9fU91iednBgWrmAqZJW"
       },
@@ -1811,26 +1839,6 @@
       "duration_ms": 206440,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/2Mh1JHlvCLtUiMH0YkkMBP"
-    },
-    {
-      "added_at": "2024-06-28 02:39:44",
-      "album": {
-        "name": "Atavista",
-        "url": "https://open.spotify.com/album/4Ji5PWAFzyDcrN0wRukYZb"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        },
-        {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
-        }
-      ],
-      "duration_ms": 226551,
-      "name": "Little Foot Big Foot",
-      "url": "https://open.spotify.com/track/6rW3mLtDPEzJ00X3ubG6Mv"
     },
     {
       "added_at": "2024-06-28 02:39:44",

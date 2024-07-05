@@ -534,7 +534,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 312125,
       "name": "Arabian Soul",
       "url": "https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4"
@@ -934,6 +934,28 @@
       "duration_ms": 169180,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/0cD9Wkmru9qmxuTAVq8CCM"
+    },
+    {
+      "album": {
+        "name": "Cairo's Scent",
+        "url": "https://open.spotify.com/album/1PNCLHV2FhaDjvjcyqqyv0"
+      },
+      "artists": [
+        {
+          "name": "Suray",
+          "url": "https://open.spotify.com/artist/1NdFnV1nlaAy3vP4AvyrVn"
+        },
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206610,
+      "name": "Cairo's Scent",
+      "url": "https://open.spotify.com/track/6qd4ckl2MEeBgrhotAvxga"
     },
     {
       "album": {
@@ -3917,6 +3939,24 @@
     },
     {
       "album": {
+        "name": "Need U",
+        "url": "https://open.spotify.com/album/3LsEuZvOQzvosI3IYTYqzo"
+      },
+      "artists": [
+        {
+          "name": "John Neo",
+          "url": "https://open.spotify.com/artist/2elFwsVoQgp6d5x7fl68De"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131070,
+      "name": "Need U",
+      "url": "https://open.spotify.com/track/5QQbY1pT2kOfYW48UXz03c"
+    },
+    {
+      "album": {
         "name": "Nentori",
         "url": "https://open.spotify.com/album/78iSNwTwoiMwvn6fspEObm"
       },
@@ -5288,7 +5328,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 279216,
       "name": "Sunam",
       "url": "https://open.spotify.com/track/01vX6r5LSjgH7wWru9ymLx"

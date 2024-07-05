@@ -3177,6 +3177,28 @@
     },
     {
       "album": {
+        "name": "Find Your Way",
+        "url": "https://open.spotify.com/album/4Ip7RbsFLF6XKTaoHcb4PZ"
+      },
+      "artists": [
+        {
+          "name": "Shamis",
+          "url": "https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717"
+        },
+        {
+          "name": "Steve Biko.K",
+          "url": "https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323495,
+      "name": "Find Your Way",
+      "url": "https://open.spotify.com/track/6eSyiy2IBds8UThlpxyLhU"
+    },
+    {
+      "album": {
         "name": "Finders Keepers",
         "url": "https://open.spotify.com/album/0GHwcubAh10ID1apl4n22z"
       },
@@ -5056,7 +5078,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 191827,
       "name": "Love",
       "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"

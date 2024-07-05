@@ -2,7 +2,7 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: Haqiem Rusli
+> The best tracks from the world of music\. Cover: BILLIE EILISH
 
 64 songs - 3 hr 50 min
 

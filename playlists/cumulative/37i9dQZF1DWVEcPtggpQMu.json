@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=cyAzRa4XQySLR9e5Z7tZFQ\">Blxckie</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj?si=UOfBGOhwRNi2PUqdIRHVzg\">Audiomarc</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -5430,6 +5430,24 @@
       "duration_ms": 166054,
       "name": "GIVE ME LIFE (feat. Frank Casino)",
       "url": "https://open.spotify.com/track/09dpMSrST3NHgTbQqrSBjn"
+    },
+    {
+      "album": {
+        "name": "GO SANDRAHHH!",
+        "url": "https://open.spotify.com/album/1sXSdcO5CEmoRCvcHCEPfb"
+      },
+      "artists": [
+        {
+          "name": "Sandrahhh",
+          "url": "https://open.spotify.com/artist/6afcFgPYOGzPw1XLH6Heji"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128912,
+      "name": "GO SANDRAHHH!",
+      "url": "https://open.spotify.com/track/3HzNqN1CLvv7cxBh8HvxCz"
     },
     {
       "album": {
@@ -14261,6 +14279,36 @@
     },
     {
       "album": {
+        "name": "THANDO OLUNJANI",
+        "url": "https://open.spotify.com/album/4PbO2k5dsH7h0IfmOmRAl4"
+      },
+      "artists": [
+        {
+          "name": "scumie",
+          "url": "https://open.spotify.com/artist/1MS9NVxu3xtH95mRsi7g36"
+        },
+        {
+          "name": "Blue Pappi",
+          "url": "https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D"
+        },
+        {
+          "name": "LaCabra",
+          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
+        },
+        {
+          "name": "MO\u00cbTT",
+          "url": "https://open.spotify.com/artist/0iyiD7Z1iDyjQs4oVRz3b4"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260846,
+      "name": "THANDO OLUNJANI",
+      "url": "https://open.spotify.com/track/4K9Vt60vyj6amCiJwGTvFU"
+    },
+    {
+      "album": {
         "name": "THE LOST PACK:, Vol. 1",
         "url": "https://open.spotify.com/album/3RFcqfqeIHjtQstdNcBbdF"
       },
@@ -15681,6 +15729,40 @@
     },
     {
       "album": {
+        "name": "Ushukela (feat. Blue Pappi, Sastii & Lowfeye)",
+        "url": "https://open.spotify.com/album/00OXfVXB9T8ZqbOriTEzdj"
+      },
+      "artists": [
+        {
+          "name": "Audiomarc",
+          "url": "https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj"
+        },
+        {
+          "name": "Qwellers",
+          "url": "https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R"
+        },
+        {
+          "name": "Blue Pappi",
+          "url": "https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D"
+        },
+        {
+          "name": "Sastii",
+          "url": "https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml"
+        },
+        {
+          "name": "Lowfeye",
+          "url": "https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219247,
+      "name": "Ushukela (feat. Blue Pappi, Sastii & Lowfeye)",
+      "url": "https://open.spotify.com/track/623xoswmJONiZIXblBTIVz"
+    },
+    {
+      "album": {
         "name": "Oncamnce Vol.2",
         "url": "https://open.spotify.com/album/29RMsBs8PArJy2NSENTphv"
       },
@@ -16058,6 +16140,24 @@
       "duration_ms": 186900,
       "name": "Walking On Water",
       "url": "https://open.spotify.com/track/7dbSPhiAeHOuPSrGKQOdGc"
+    },
+    {
+      "album": {
+        "name": "War Cry (Original)",
+        "url": "https://open.spotify.com/album/20AmRVtbNjCLTIGisq4lYx"
+      },
+      "artists": [
+        {
+          "name": "Bravo Le Roux",
+          "url": "https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "WAR CRY",
+      "url": "https://open.spotify.com/track/7d7zvtJ9zyh3Ip78CwZ9kT"
     },
     {
       "album": {
@@ -16516,6 +16616,28 @@
       "duration_ms": 98195,
       "name": "Window (feat. Moniqu\u00e9 Lawz)",
       "url": "https://open.spotify.com/track/1J5Xpow7q8Yyt8WvKcOZSn"
+    },
+    {
+      "album": {
+        "name": "Wine Confessions",
+        "url": "https://open.spotify.com/album/5sVldLshaaSY2ysP0oHTVg"
+      },
+      "artists": [
+        {
+          "name": "Flash Ikumkani",
+          "url": "https://open.spotify.com/artist/2XK36sugVIN5x79ytKdd6X"
+        },
+        {
+          "name": "Sastii",
+          "url": "https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220407,
+      "name": "Wine Confessions",
+      "url": "https://open.spotify.com/track/4n5eigHMWweLWmfs3HGmeM"
     },
     {
       "album": {

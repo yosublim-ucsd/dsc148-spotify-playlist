@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Park Je Up\(박재업\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,250 songs - 3 day 8 hr 59 min
+1,252 songs - 3 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,6 +644,7 @@
 | [Love Message](https://open.spotify.com/track/1Y6W3Q07asHeQtXCBDAOrT) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Love Message](https://open.spotify.com/album/5tJH4tWyWLtLEG1X6EVBtU) | 3:53 | 2022-02-10 | 2022-02-24 |
 | [Love poem](https://open.spotify.com/track/4B6cJ34Mkfiu4Xo8t8QU7F) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/5JadtZ710Yj8RSLNbSvDqo) | 4:18 | 2021-12-20 | 2022-07-08 |
 | [LOVE PROCESS Act 3:Farewell\(Woman's Story\) \- No More Love](https://open.spotify.com/track/6ZcntF0MCIZEzi1XHYiRjP) | [Ryeowon](https://open.spotify.com/artist/18N3eeeRpVuRfPuk6GF7rp) | [LOVE PROCESS Act 3:Farewell\(Woman's Story\) \- No More Love](https://open.spotify.com/album/5seo7nROqNTWa0l88SmDRn) | 3:59 | 2022-07-07 | 2022-08-13 |
+| [LOVE RECIPE](https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [WONDO Project : LOVE RECIPE, Vol.1](https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7) | 3:51 | 2024-07-04 |  |
 | [Love Story](https://open.spotify.com/track/1W1MrDI5YVuKb9pgCYH3iE) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 4:23 | 2022-01-25 | 2022-04-09 |
 | [Love Things](https://open.spotify.com/track/0XIy3jZASGk60aT8i8Ri2g) | [HYOJIN](https://open.spotify.com/artist/2ZSycsw08uAqPhM7j37Slg) | [Love Things](https://open.spotify.com/album/5BMWCz8yepMfdYuAWU9Yrz) | 3:57 | 2023-02-14 | 2023-04-27 |
 | [Love War](https://open.spotify.com/track/3ZLH3WCaGQ2mvynea5a29s) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Love War](https://open.spotify.com/album/59DdpwFqZnqs1Bz4bgKxW7) | 4:00 | 2023-07-20 | 2023-10-17 |
@@ -672,6 +673,7 @@
 | [Me, Myself](https://open.spotify.com/track/32tdszpJz2MosFHjn2iSmi) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Itsuyoung](https://open.spotify.com/album/7InEECuOl10UMl1eVP9cbr) | 3:33 | 2024-04-15 |  |
 | [Meant to be](https://open.spotify.com/track/2rH9qCs1Ok60cF0lOqn8Mk) | [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI) | [Chabak\- Night of Murder and Romance, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/1q7FUPWyrA2fjvFjcmUTc2) | 4:40 | 2023-08-24 | 2023-11-03 |
 | [Meet him among them](https://open.spotify.com/track/6H8LsxDktkwTuUVGXf3anP) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Meet him among them](https://open.spotify.com/album/3AB3AhRKi0xR5vAj0iuRaP) | 4:18 | 2022-06-18 | 2022-08-02 |
+| [Melody](https://open.spotify.com/track/3Jshe6lnGtBKqEJosdHa8M) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 3:07 | 2024-07-04 |  |
 | [Melody](https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Melody \(Gongzza X Whee In\)](https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4) | 3:54 | 2022-07-07 | 2022-08-02 |
 | [Melting](https://open.spotify.com/track/72JXhN9CABeVLNrt8VJm0l) | [Jin Minho](https://open.spotify.com/artist/32nBx6aSKfWVXWTl5pLneY) | [The Secret Romantic Guesthouse Part.2](https://open.spotify.com/album/5PGBoR7sj4R54UrYLO4G9b) | 3:31 | 2023-03-31 | 2023-08-25 |
 | [Memories](https://open.spotify.com/track/4brbKf89m6T7sul0VIV5cY) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2), [Lee Eun Sang](https://open.spotify.com/artist/23oRZ1WSV1YCPk3Ra7ivzJ) | [Memories](https://open.spotify.com/album/6cicBDN7VCijeMLd0qqyKD) | 2:51 | 2022-01-27 | 2022-02-04 |

@@ -1,13 +1,33 @@
 {
-  "description": "De nieuwste Hollandse hits. Cover: Afro Bros, John West, Monq & Billy Dans",
-  "num_followers": 145724,
+  "description": "De nieuwste Hollandse hits. Cover: Andr\u00e9 Hazes & Mart Hoogkamer",
+  "num_followers": 145796,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoUqWQAAAAAe3nWeqstDv392brbGuOjk",
+  "snapshot_id": "ZocbYAAAAAD9YGieIIefSBXhS2hXV4Ny",
   "tracks": [
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Zij Is Van Mij",
+        "url": "https://open.spotify.com/album/42ySQUp33CT7jH0XTOVYPh"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+        },
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        }
+      ],
+      "duration_ms": 145866,
+      "name": "Zij Is Van Mij",
+      "url": "https://open.spotify.com/track/5ElK7HPvWfRYOzz6F6ICId"
+    },
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
@@ -51,6 +71,22 @@
       "duration_ms": 156249,
       "name": "Op E\u00e9n Been",
       "url": "https://open.spotify.com/track/2qmTTThvPnjOnLe8DyfaRR"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Weg Uit De Sleur",
+        "url": "https://open.spotify.com/album/0I2hNthmZ2FkYIVOucbX4x"
+      },
+      "artists": [
+        {
+          "name": "Sieneke",
+          "url": "https://open.spotify.com/artist/3AbzwHPIn3CHOZ91SstXk0"
+        }
+      ],
+      "duration_ms": 182299,
+      "name": "Weg Uit De Sleur",
+      "url": "https://open.spotify.com/track/6qexkjWsYMNlRdhv2ybFXR"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -127,6 +163,22 @@
       "duration_ms": 146514,
       "name": "Het Lijkt Hier Wel Ibiza",
       "url": "https://open.spotify.com/track/3vz8UKPERttXraKTnrGyAL"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Hoe Ik Leven Moet",
+        "url": "https://open.spotify.com/album/4XSGwd3KwnR1XCpdSN2L11"
+      },
+      "artists": [
+        {
+          "name": "Jan van Est",
+          "url": "https://open.spotify.com/artist/1feKpwHpzkvIwaG7a8KwhE"
+        }
+      ],
+      "duration_ms": 178571,
+      "name": "Hoe Ik Leven Moet",
+      "url": "https://open.spotify.com/track/1HwamkGmsC5nZxkTiiRRcr"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -413,20 +465,20 @@
       "url": "https://open.spotify.com/track/02PkufbhBgxhNO5Su1Z7Qu"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Tranen Zijn Niet Alleen Om Te Huilen",
-        "url": "https://open.spotify.com/album/0sTVCFY1xkJQNxNwzQ57GI"
+        "name": "Heerlijke Vakantie",
+        "url": "https://open.spotify.com/album/5bLmNRX9mb9D5gurA7Abmn"
       },
       "artists": [
         {
-          "name": "Robert Pater",
-          "url": "https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd"
+          "name": "Erik van Hoof",
+          "url": "https://open.spotify.com/artist/0PCXi9VjIC2BwLyDmEQ6G6"
         }
       ],
-      "duration_ms": 179533,
-      "name": "Tranen Zijn Niet Alleen Om Te Huilen",
-      "url": "https://open.spotify.com/track/1WnSszjfLVZUTDPS57LkO6"
+      "duration_ms": 192410,
+      "name": "Heerlijke Vakantie",
+      "url": "https://open.spotify.com/track/2fTLEmV2cAzHgBdyrfKcpx"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -447,6 +499,22 @@
       "duration_ms": 140061,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/3BLCU1TXLUZqnfuttprVHI"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Tranen Zijn Niet Alleen Om Te Huilen",
+        "url": "https://open.spotify.com/album/0sTVCFY1xkJQNxNwzQ57GI"
+      },
+      "artists": [
+        {
+          "name": "Robert Pater",
+          "url": "https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Tranen Zijn Niet Alleen Om Te Huilen",
+      "url": "https://open.spotify.com/track/1WnSszjfLVZUTDPS57LkO6"
     },
     {
       "added_at": "2024-06-13 22:00:00",

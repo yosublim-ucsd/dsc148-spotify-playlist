@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Donde El Verano Seas T\u00fa",
+        "url": "https://open.spotify.com/album/4Pz72AICDOht0fzxkRYInb"
+      },
+      "artists": [
+        {
+          "name": "Belapalma",
+          "url": "https://open.spotify.com/artist/3Pi1Q9bVKMJRc9mM80kwTY"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154624,
+      "name": "Donde El Verano Seas T\u00fa",
+      "url": "https://open.spotify.com/track/278SoIuUjZ2w2IcRSPjbwm"
+    },
+    {
+      "album": {
         "name": "Dos L\u00e1grimas, Dos Peces",
         "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
       },
@@ -2648,7 +2666,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 213920,
       "name": "Leve",
       "url": "https://open.spotify.com/track/4hswVtm8bkPLsMqnctlIBb"

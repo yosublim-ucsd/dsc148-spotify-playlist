@@ -8250,7 +8250,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 149333,
       "name": "Me Again",
       "url": "https://open.spotify.com/track/1Ao1Q1gDv36N3nfa0ZlnXc"
@@ -9310,7 +9310,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 178068,
       "name": "One Man Show",
       "url": "https://open.spotify.com/track/3cv94ffVsAqitFcbwlr2CV"
@@ -11073,6 +11073,24 @@
     },
     {
       "album": {
+        "name": "Still Mine",
+        "url": "https://open.spotify.com/album/3obw9YQZysr4xNu2rFPNxC"
+      },
+      "artists": [
+        {
+          "name": "Ashley Singh",
+          "url": "https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136134,
+      "name": "Still Mine",
+      "url": "https://open.spotify.com/track/1E2WB9LAgRDZIpNf5lCk41"
+    },
+    {
+      "album": {
         "name": "Still Yours (From The Doc)",
         "url": "https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz"
       },
@@ -11940,6 +11958,24 @@
       "duration_ms": 236962,
       "name": "Too Fast",
       "url": "https://open.spotify.com/track/3d4PNHZ9nOuZzfvRrRaIWI"
+    },
+    {
+      "album": {
+        "name": "Dear Joe,",
+        "url": "https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187463,
+      "name": "too young to be old",
+      "url": "https://open.spotify.com/track/0ZuZtcBEGMrkWhxEzJ06Lp"
     },
     {
       "album": {

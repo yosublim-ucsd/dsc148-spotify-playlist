@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-623 songs - 2 day 8 hr 11 min
+624 songs - 2 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Cycles](https://open.spotify.com/track/6Z6hXlSOi0FLrCPgVpsrNV) | [Filterscape](https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1) | [Cycles](https://open.spotify.com/album/7s6RExKiewxS5m6aFT4JXN) | 3:00 | 2021-10-20 | 2022-07-29 |
 | [Cycles](https://open.spotify.com/track/6mqaKL3SnJhtS2fqDkXOiB) | [Filterscape](https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1) | [Cycles](https://open.spotify.com/album/4WoGfkXxEjufoIDOPmRuGG) | 3:00 | 2021-10-20 | 2024-04-19 |
 | [Cypher](https://open.spotify.com/track/7vgaDsZO7WOGWmHSZ2s1kg) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Natalia Bonner](https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Ian Burdge](https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [Cypher](https://open.spotify.com/album/7bOmeP28bKeR9E9twCFTk7) | 7:43 | 2021-10-20 | 2022-04-21 |
+| [Daria](https://open.spotify.com/track/5ecdaJ9LiQ3UYwfXRVcV7i) | [Money Flip](https://open.spotify.com/artist/6S1vdiNvRQpBQgq7jSZaZz) | [Daria](https://open.spotify.com/album/6FBQAIM52QhWtvtu8DXSEU) | 1:46 | 2024-07-04 |  |
 | [Das Unheimliche](https://open.spotify.com/track/64EQZLoqKiaxjghEeaxVxQ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Das Unheimliche](https://open.spotify.com/album/3YEBwRr6N9v9RVz46Sbo9v) | 6:30 | 2021-10-20 |  |
 | [Dawn](https://open.spotify.com/track/3OLtGoMhlQNjEctWGN1yDb) | [Frieder Nagel](https://open.spotify.com/artist/48OvGoIuRRFKlccuXbW9JU) | [Dawn](https://open.spotify.com/album/5P0ozoGtmIfRWRPlsJyO26) | 4:45 | 2021-10-20 | 2023-02-13 |
 | [Dawn](https://open.spotify.com/track/5aBUWfB6OR92YMjs0QYk6k) | [Frieder Nagel](https://open.spotify.com/artist/48OvGoIuRRFKlccuXbW9JU) | [Dawn](https://open.spotify.com/album/6w3KZtjAb0dFOzioo4G83h) | 4:45 | 2021-10-20 | 2022-07-28 |
@@ -353,7 +354,7 @@
 | [Monastic](https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU) | 6:33 | 2021-10-20 | 2024-04-19 |
 | [Monos](https://open.spotify.com/track/488C2VMsZc3YwIei1AsRZn) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Monos](https://open.spotify.com/album/2Q32nNS58ffrVE9u2pGBpq) | 4:00 | 2021-10-20 | 2022-04-20 |
 | [Morning Tremor](https://open.spotify.com/track/41rdl3Oiyz5o5todvKyOWA) | [Affelaye](https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ) | [Thirsts](https://open.spotify.com/album/1Ju3IMjyQFXsrStPmrZX7j) | 6:15 | 2022-03-09 |  |
-| [Muckbirth](https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Muckbirth](https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y) | 3:17 | 2021-10-20 |  |
+| [Muckbirth](https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Muckbirth](https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y) | 3:17 | 2021-10-20 | 2024-07-05 |
 | [Murmur \- Machinefabriek Remix](https://open.spotify.com/track/3sF0muGOQvjsV4ZKLxr7KQ) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90), [Machinefabriek](https://open.spotify.com/artist/4Tzunwe7m9sBMSsmEV49Qo) | [Murmur \(Machinefabriek Remix\)](https://open.spotify.com/album/0ZO7czDtPwdpa76DvMdydf) | 4:01 | 2022-01-13 |  |
 | [Music For Psychedelic Therapy \- Excerpt](https://open.spotify.com/track/4xT0BmSuDNp2vkK5v07yba) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Music For Psychedelic Therapy \(Excerpt\)](https://open.spotify.com/album/0gO5MR5zzkhqplcMbpYTQv) | 7:07 | 2021-11-12 |  |
 | [My Night, My Day](https://open.spotify.com/track/3QvB6AhSmcGcajiKnANT3o) | [Olivier Alary](https://open.spotify.com/artist/7tg7utIvViIXxA4zi0vl2t), [Johannes Malfatti](https://open.spotify.com/artist/6xQOMfltktlRre6jV8wxPG) | [u,i](https://open.spotify.com/album/2XPM7NE0nzi2EKVVeMSiQS) | 5:18 | 2021-10-20 | 2024-07-02 |

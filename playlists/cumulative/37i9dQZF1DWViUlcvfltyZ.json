@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia, Pandorea in cover \ud83c\udfb8",
+  "description": "Rock, indie e punk dall'Italia, Soft Boys Club in cover \ud83c\udfb8",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -222,6 +222,24 @@
       "duration_ms": 172894,
       "name": "666",
       "url": "https://open.spotify.com/track/1ljwn9Y3fqgjexPwCOw0fi"
+    },
+    {
+      "album": {
+        "name": "Scatole",
+        "url": "https://open.spotify.com/album/5GQj7GD9fdsnkTIp2RCXXr"
+      },
+      "artists": [
+        {
+          "name": "Cambra",
+          "url": "https://open.spotify.com/artist/4ATrNzSnFH0B95DLxJ7MJK"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254432,
+      "name": "97",
+      "url": "https://open.spotify.com/track/59iVkVEyolJfhKzs58ZFky"
     },
     {
       "album": {
@@ -738,7 +756,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 173367,
       "name": "All'Apice",
       "url": "https://open.spotify.com/track/5Mvf9Jkq7jfOO51phvVkub"
@@ -1697,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "Zapping",
+        "url": "https://open.spotify.com/album/7D4V7ygJIlhnXvIqZKgifv"
+      },
+      "artists": [
+        {
+          "name": "Altre di B",
+          "url": "https://open.spotify.com/artist/7gHvb6j40CCF43HVJH19Ub"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136534,
+      "name": "Big Boi",
+      "url": "https://open.spotify.com/track/4Ygr2OmIrwwrNubR6lvkci"
+    },
+    {
+      "album": {
         "name": "Biting My Tongue",
         "url": "https://open.spotify.com/album/6zaLk6KBHat0kBk0Wo7hhN"
       },
@@ -2174,7 +2210,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 114500,
       "name": "buio/luce",
       "url": "https://open.spotify.com/track/5Igi6TYXJt8hrEenbqZtMT"
@@ -4057,6 +4093,24 @@
     },
     {
       "album": {
+        "name": "Cuore di plastica",
+        "url": "https://open.spotify.com/album/133fvM0w0I7MYBWpea2FnP"
+      },
+      "artists": [
+        {
+          "name": "GIIN",
+          "url": "https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182126,
+      "name": "Cuore di plastica",
+      "url": "https://open.spotify.com/track/60z4eK84ANB9UZZuAe2cNr"
+    },
+    {
+      "album": {
         "name": "Cuore semplice",
         "url": "https://open.spotify.com/album/3vtlBpilYG12I4gHDfbBZf"
       },
@@ -4465,6 +4519,24 @@
     },
     {
       "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/65J99vAYR0FUUZhuRJDkr1"
+      },
+      "artists": [
+        {
+          "name": "Giungla",
+          "url": "https://open.spotify.com/artist/2hXIoMXYA65EDbqyLMzr5r"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158048,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/2blYo3R16FSCsGQQePt16B"
+    },
+    {
+      "album": {
         "name": "I Botanici",
         "url": "https://open.spotify.com/album/3Px7SSj6u1kiwXEXMiKeFw"
       },
@@ -4782,7 +4854,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 195629,
       "name": "Dura",
       "url": "https://open.spotify.com/track/7CkkEleKvPWD1pLHlBBZgM"
@@ -5498,7 +5570,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 176763,
       "name": "Fare Schifo",
       "url": "https://open.spotify.com/track/3eMEvU8ug9yO60FrUp7mNp"
@@ -9402,7 +9474,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 156968,
       "name": "Lontano",
       "url": "https://open.spotify.com/track/6Y9k0eqeWM6CFTRXmllK2H"
@@ -10338,7 +10410,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 128739,
       "name": "Mi Dai Fastidio",
       "url": "https://open.spotify.com/track/6omYaEUDoM1x4IOWk3jLHa"
@@ -10940,7 +11012,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 150757,
       "name": "Nei guai",
       "url": "https://open.spotify.com/track/1Wy8nj7eR3rLAOc2CKIFjP"
@@ -11048,7 +11120,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 87399,
       "name": "New Fears",
       "url": "https://open.spotify.com/track/1cWNl11hN5VYdMpKZS1s6V"
@@ -11138,7 +11210,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 284920,
       "name": "Nils",
       "url": "https://open.spotify.com/track/5yKRZNgb3LXdWioCVSWZeo"
@@ -13894,7 +13966,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 243039,
       "name": "RIFUGIO",
       "url": "https://open.spotify.com/track/24GNDfqgQx4OiBaUzZWhKy"
@@ -16337,6 +16409,24 @@
     },
     {
       "album": {
+        "name": "The Cage",
+        "url": "https://open.spotify.com/album/4krs7r5xBJdeI92vedf3rG"
+      },
+      "artists": [
+        {
+          "name": "Kick",
+          "url": "https://open.spotify.com/artist/7hpwmq4RFv77J5dv4MUbtC"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211679,
+      "name": "The Cage",
+      "url": "https://open.spotify.com/track/09INTlPvAZek1ujj5ZJfd1"
+    },
+    {
+      "album": {
         "name": "RUSH! (ARE U COMING?)",
         "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
       },
@@ -16924,7 +17014,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 207500,
       "name": "Transpadana",
       "url": "https://open.spotify.com/track/7mTWhWW4OmmdoeEuo9N3a7"
@@ -16964,6 +17054,28 @@
       "duration_ms": 141569,
       "name": "Tre volte",
       "url": "https://open.spotify.com/track/3a0S913LX7Nv95jPWN8nhn"
+    },
+    {
+      "album": {
+        "name": "Volume uno",
+        "url": "https://open.spotify.com/album/366UYbgb13kiYUQZLX1lR5"
+      },
+      "artists": [
+        {
+          "name": "Gato Tomato",
+          "url": "https://open.spotify.com/artist/2V61JPB2PMJ22uXbvGA0QR"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147378,
+      "name": "Treseicinque",
+      "url": "https://open.spotify.com/track/6Yu9v1PlxetOhdbjkEs5V3"
     },
     {
       "album": {

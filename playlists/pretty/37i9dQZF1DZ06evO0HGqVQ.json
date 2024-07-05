@@ -1,12 +1,12 @@
 {
-  "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
-  "num_followers": 27066,
+  "description": "This Is Los inquietos del vallenato. Los temas esenciales, todos en una lista.",
+  "num_followers": 27074,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoNDAAAAAAABsVeXIzCKOj508Q/eaQPj",
+  "snapshot_id": "ZoSUgAAAAAB2yr3cfCmadgM0BdNJAJAW",
   "tracks": [
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 294373,
-      "name": "Cuando Llora El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1vsWun46LmODh9NAjxgbZP"
+      "duration_ms": 251000,
+      "name": "Piel A Piel",
+      "url": "https://open.spotify.com/track/6IytGzzeSCfbX1pqGYeVPz"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 251000,
-      "name": "Piel A Piel",
-      "url": "https://open.spotify.com/track/6IytGzzeSCfbX1pqGYeVPz"
+      "duration_ms": 294373,
+      "name": "Cuando Llora El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1vsWun46LmODh9NAjxgbZP"
     }
   ],
   "unique_name": "This Is Los inquietos del vallenato",

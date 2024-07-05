@@ -2,7 +2,7 @@
 
 ### [Top of the Rock](https://open.spotify.com/playlist/37i9dQZF1DWWSuZL7uNdVA)
 
-> Tom Morello au top des meilleurs morceaux rock du moment.
+> The Warning au top des meilleurs morceaux rock du moment.
 
 213 songs - 12 hr 4 min
 

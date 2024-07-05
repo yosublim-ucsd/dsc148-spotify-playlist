@@ -346,7 +346,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 145114,
       "name": "999",
       "url": "https://open.spotify.com/track/5BdmlzGOBDh0f3BPLfIBG0"
@@ -3150,7 +3150,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 181787,
       "name": "Boom Boom Boom",
       "url": "https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw"
@@ -4052,7 +4052,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 156250,
       "name": "Can't Forget You",
       "url": "https://open.spotify.com/track/3YOkRTqknv92aUyOXcTxVg"
@@ -5578,7 +5578,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 121232,
       "name": "Crush Me Down (You Spin Me Around)",
       "url": "https://open.spotify.com/track/2E8ometum2UaxsEdH8VS5z"
@@ -5640,6 +5640,24 @@
       "duration_ms": 190222,
       "name": "CU",
       "url": "https://open.spotify.com/track/7ure3lFBwSpg9swnE6BIVH"
+    },
+    {
+      "album": {
+        "name": "Masada - Dabke Drive",
+        "url": "https://open.spotify.com/album/3xTmjNxtMpek13avgo444Y"
+      },
+      "artists": [
+        {
+          "name": "OTIOT",
+          "url": "https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294285,
+      "name": "Dabke Drive",
+      "url": "https://open.spotify.com/track/01vur63FwKqv3TkMODKmuB"
     },
     {
       "album": {
@@ -6536,7 +6554,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 186093,
       "name": "Disco Train",
       "url": "https://open.spotify.com/track/1vtbBMBzzHnM85xXis4voe"
@@ -6846,7 +6864,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 229105,
       "name": "Don't Call",
       "url": "https://open.spotify.com/track/1MqZc58tU1uLQ5CFLkHXb2"
@@ -12562,7 +12580,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 228000,
       "name": "I Want This Forever",
       "url": "https://open.spotify.com/track/3TNIwnnxvwirWATsJ5jZWh"
@@ -12728,6 +12746,54 @@
       "duration_ms": 166320,
       "name": "I'm Too Sexy",
       "url": "https://open.spotify.com/track/789dkXoLqoCZ7YeveB5qw8"
+    },
+    {
+      "album": {
+        "name": "I'm Too Sexy (Remixes)",
+        "url": "https://open.spotify.com/album/7Hnh0uxsa3RetJCq7MeHCX"
+      },
+      "artists": [
+        {
+          "name": "MaWayy",
+          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
+        },
+        {
+          "name": "Right Said Fred",
+          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
+        },
+        {
+          "name": "Albert Harvey",
+          "url": "https://open.spotify.com/artist/5OEDPvGsA5L54lRrdqi8Aj"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181417,
+      "name": "I'm Too Sexy (Albert Harvey Remix)",
+      "url": "https://open.spotify.com/track/6OFQ2DQOpID6yyeIIAHzzq"
+    },
+    {
+      "album": {
+        "name": "I'm Too Sexy (Remixes)",
+        "url": "https://open.spotify.com/album/7Hnh0uxsa3RetJCq7MeHCX"
+      },
+      "artists": [
+        {
+          "name": "MaWayy",
+          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
+        },
+        {
+          "name": "Right Said Fred",
+          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "I'm Too Sexy (Festival Mix)",
+      "url": "https://open.spotify.com/track/0yNdBmcPrOM7CAhDIxfsSF"
     },
     {
       "album": {
@@ -13362,7 +13428,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 227200,
       "name": "It Ain't Safe",
       "url": "https://open.spotify.com/track/6lAYlIYhPgHw6cXkxAmiJg"
@@ -15346,7 +15412,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 157734,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/3aM3elSql2STyiob9POgWY"
@@ -16172,6 +16238,28 @@
       "duration_ms": 214687,
       "name": "Lotus (PAROOKAVILLE Anthem 2024)",
       "url": "https://open.spotify.com/track/7GUecHJnM0kfEXNtt9y9nQ"
+    },
+    {
+      "album": {
+        "name": "Lotus (PAROOKAVILLE Anthem 2024) [Creeds Remix]",
+        "url": "https://open.spotify.com/album/3t5gjJAHWEGwl4plVLjgns"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Lotus (PAROOKAVILLE Anthem 2024) - Creeds Remix",
+      "url": "https://open.spotify.com/track/5QvJSbY3lTIag2dgUMazuB"
     },
     {
       "album": {
@@ -17403,6 +17491,24 @@
     },
     {
       "album": {
+        "name": "Masada - Dabke Drive",
+        "url": "https://open.spotify.com/album/3xTmjNxtMpek13avgo444Y"
+      },
+      "artists": [
+        {
+          "name": "OTIOT",
+          "url": "https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202142,
+      "name": "Masada",
+      "url": "https://open.spotify.com/track/6zbEa0mI2k0GpaV5ax3hJC"
+    },
+    {
+      "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/0KMydElRr2Her3IGjGbNgF"
       },
@@ -18004,7 +18110,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 195714,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/6zSza83er01pHYxOgFyEhz"
@@ -18580,6 +18686,28 @@
       "duration_ms": 134400,
       "name": "Muy Fuente (ESH Edit)",
       "url": "https://open.spotify.com/track/5hXBlkIQc9Dx802ZIoxWxJ"
+    },
+    {
+      "album": {
+        "name": "My Baby La La",
+        "url": "https://open.spotify.com/album/16UA5lo1OBlXS6qyufcfLm"
+      },
+      "artists": [
+        {
+          "name": "Sjaak",
+          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
+        },
+        {
+          "name": "YONII",
+          "url": "https://open.spotify.com/artist/7H3TyvM3dpW78cru0Oaui9"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154545,
+      "name": "My Baby La La",
+      "url": "https://open.spotify.com/track/4AvB7BcWXkdQXefCyIVcrB"
     },
     {
       "album": {
@@ -19324,7 +19452,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 204000,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/3UMw5qedrTAXx3UjcFOBA5"
@@ -21328,7 +21456,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 155238,
       "name": "Permission",
       "url": "https://open.spotify.com/track/1aKASOozYerKL6WwYtqqbj"
@@ -26234,7 +26362,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 177600,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov"
@@ -28162,7 +28290,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 270720,
       "name": "Trinity",
       "url": "https://open.spotify.com/track/2lcoaWDL7xWHx6ZZCGOSzl"
@@ -29836,7 +29964,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 235248,
       "name": "Where Are You Tonight",
       "url": "https://open.spotify.com/track/5NosZGOuZRJOTPRAqIOkt8"
@@ -30802,6 +30930,66 @@
       "duration_ms": 153750,
       "name": "Your Love (feat. BLAME) [VIP Mix]",
       "url": "https://open.spotify.com/track/1SYW0BMtnQhrgH2i8R1OLJ"
+    },
+    {
+      "album": {
+        "name": "ZENLESS",
+        "url": "https://open.spotify.com/album/5ItApQpFnG9fDaZpUgbYzu"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        },
+        {
+          "name": "S\u0101n-Z",
+          "url": "https://open.spotify.com/artist/4Ep9NXSZDTJzz6BIv24p5x"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144374,
+      "name": "ZENLESS",
+      "url": "https://open.spotify.com/track/2GW2qcpzaRrErv4Nd8NSCH"
+    },
+    {
+      "album": {
+        "name": "ZENLESS",
+        "url": "https://open.spotify.com/album/4ntjc4RbUVs7TfKUvvTSIA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        },
+        {
+          "name": "S\u0101n-Z",
+          "url": "https://open.spotify.com/artist/3YQzkkbhmbwaMmZuNxkvsb"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144374,
+      "name": "ZENLESS",
+      "url": "https://open.spotify.com/track/3mIouw7V3msMJkm8iqKXXr"
     },
     {
       "album": {

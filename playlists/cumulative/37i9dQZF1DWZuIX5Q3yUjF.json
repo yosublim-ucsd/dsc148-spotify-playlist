@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: iako",
+  "description": "Il meglio dell'R&B italiano. Cover: Palmaria",
   "name": "anima R&B",
   "tracks": [
     {
@@ -542,7 +542,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 152361,
       "name": "Annegare",
       "url": "https://open.spotify.com/track/1tRiIxEcYdMYvyHHp7vQKM"
@@ -1046,6 +1046,28 @@
       "duration_ms": 215172,
       "name": "BLU",
       "url": "https://open.spotify.com/track/6w4QgM7NJgyIxAOVdvMR32"
+    },
+    {
+      "album": {
+        "name": "BOCCA DELLA VERIT\u00c0",
+        "url": "https://open.spotify.com/album/51pHiicssnO5VzkGXsLLx3"
+      },
+      "artists": [
+        {
+          "name": "Heartman",
+          "url": "https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt"
+        },
+        {
+          "name": "Lie O'Neil",
+          "url": "https://open.spotify.com/artist/0j3MbC9QJgv5lhcvF0N5uq"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170714,
+      "name": "BOCCA DELLA VERIT\u00c0",
+      "url": "https://open.spotify.com/track/3tTZk8sI7WC853LADC8hZh"
     },
     {
       "album": {
@@ -2698,7 +2720,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 157241,
       "name": "Di Me",
       "url": "https://open.spotify.com/track/3MxUJy0CsTjzVrAQJOclhs"
@@ -6299,6 +6321,24 @@
     },
     {
       "album": {
+        "name": "Mambo",
+        "url": "https://open.spotify.com/album/4Rf1gy3dHPSQNFhanMHtjp"
+      },
+      "artists": [
+        {
+          "name": "Tatum Rush",
+          "url": "https://open.spotify.com/artist/47p2js8l70JjDWGS0a1hqr"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245411,
+      "name": "Mambo",
+      "url": "https://open.spotify.com/track/1Eslj0XCaVpzPbYBmaol7T"
+    },
+    {
+      "album": {
         "name": "MAPPAMONDO",
         "url": "https://open.spotify.com/album/3rAzTTDojPhT2uaEyO8Lvf"
       },
@@ -6996,6 +7036,24 @@
       "duration_ms": 174000,
       "name": "Nevada",
       "url": "https://open.spotify.com/track/2lWNfdvULQlAg8abVzLRVi"
+    },
+    {
+      "album": {
+        "name": "NEW LIFE",
+        "url": "https://open.spotify.com/album/6RtI4luVah2MJiRNHQ9Thm"
+      },
+      "artists": [
+        {
+          "name": "BENNA",
+          "url": "https://open.spotify.com/artist/3Bbppi5cEGJnyhl6aYyUA1"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171840,
+      "name": "NEW LIFE",
+      "url": "https://open.spotify.com/track/2tIJ1fNfZSmk4kjC14FZ9K"
     },
     {
       "album": {
@@ -8504,7 +8562,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 206433,
       "name": "Pugili",
       "url": "https://open.spotify.com/track/2kmvumjb6kvFzcfW48mqRU"
@@ -9954,7 +10012,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 175774,
       "name": "Sobrio",
       "url": "https://open.spotify.com/track/6rBZMRl4WssrTFcmr8evTL"
@@ -10168,6 +10226,24 @@
       "duration_ms": 172079,
       "name": "Sotto Effetto",
       "url": "https://open.spotify.com/track/5AoTOyFrguTiDH1YCCHZMh"
+    },
+    {
+      "album": {
+        "name": "sotto le luci della citt\u00e0",
+        "url": "https://open.spotify.com/album/1XoYdhAmIlEESAPfkeAzMx"
+      },
+      "artists": [
+        {
+          "name": "maisola",
+          "url": "https://open.spotify.com/artist/2ctwLObzObVxJjzHCMfDM0"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189432,
+      "name": "sotto le luci della citt\u00e0",
+      "url": "https://open.spotify.com/track/1iZjzatPanC3xcqiljUF47"
     },
     {
       "album": {

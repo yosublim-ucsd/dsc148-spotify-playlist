@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from the continent to Paris. Photo : Tam Sir",
+  "description": "African dance party music from the continent to Paris. Photo : Josey",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -1584,10 +1584,28 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 203225,
       "name": "FAUT M'AFFICHER",
       "url": "https://open.spotify.com/track/40Ynf1HXntwWvZQQSnrzSb"
+    },
+    {
+      "album": {
+        "name": "Feu vert",
+        "url": "https://open.spotify.com/album/14qQwarKqA4o9ZPmAJJ7Hx"
+      },
+      "artists": [
+        {
+          "name": "Yvi Atia",
+          "url": "https://open.spotify.com/artist/1pNYGkUNq8bmFCc6xbPlcx"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190294,
+      "name": "Feu vert",
+      "url": "https://open.spotify.com/track/0qOjLJv3YHdckDdSMBE8AR"
     },
     {
       "album": {

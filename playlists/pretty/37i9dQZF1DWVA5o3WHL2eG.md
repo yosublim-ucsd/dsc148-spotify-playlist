@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Y'akoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,400 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,423 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 8 | [You Owe Me](https://open.spotify.com/track/5kwwsfTyavPnE8LfZ4Rnq9) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [You Owe Me](https://open.spotify.com/album/1Axb1g9uXragyykWBri2Hy) | 2:13 |
 | 9 | [Für Änni](https://open.spotify.com/track/2SzmmYnKKL5pWPHRgWupQo) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Für Änni](https://open.spotify.com/album/3t5DHNbBQJXivcpotynFdp) | 3:10 |
 | 10 | [Mittelfinger](https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Mittelfinger](https://open.spotify.com/album/7vR1STUfZ9Io0u1Ei67XDH) | 2:09 |
-| 11 | [Woman](https://open.spotify.com/track/0eZzHpwVdxW99Jlh6yLMaI) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [Woman](https://open.spotify.com/album/01Yq1qHwqFTwgG4ZliCiO3) | 2:10 |
-| 12 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 |
+| 11 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 |
+| 12 | [Woman](https://open.spotify.com/track/0eZzHpwVdxW99Jlh6yLMaI) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [Woman](https://open.spotify.com/album/01Yq1qHwqFTwgG4ZliCiO3) | 2:10 |
 | 13 | [extras](https://open.spotify.com/track/49dsnznVKLZwYJOhGEGRA2) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [extras](https://open.spotify.com/album/1e1uth639kAZm5UnqJC3bK) | 2:29 |
 | 14 | [Renn](https://open.spotify.com/track/29PqzjjhKKu8kBi1coCRrn) | [Alies](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4) | [Renn](https://open.spotify.com/album/6aF03VXMy0AYche1GHvtIW) | 2:13 |
 | 15 | [Come Down to the River](https://open.spotify.com/track/3vcHVC4FRw40udBfSTojqs) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Moody Blues](https://open.spotify.com/album/5dVDpmBMOCCdLoo07G2JNC) | 3:41 |
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 20 | [Keine Liebe \(Nobody to love\)](https://open.spotify.com/track/42t1Kkx0evqAGJMIXpoEKV) | [JUNA](https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj) | [Keine Liebe \(Nobody to love\)](https://open.spotify.com/album/2bCFNHpzFkvJJkKjBN8OHk) | 2:38 |
 | 21 | [Fensterbank](https://open.spotify.com/track/2ajrVWff8PZUzeRF6xSwku) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd) | [Fensterbank](https://open.spotify.com/album/3KnjmQv2UbPFlhuscvieV2) | 2:44 |
 | 22 | [Cumshot](https://open.spotify.com/track/3rkvPrlGZimE8x9VEQeTtI) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Cumshot](https://open.spotify.com/album/0jDEbTx2HflVGLelrIRKUM) | 2:02 |
-| 23 | [liebst du mich noch so wie ich dich ?](https://open.spotify.com/track/7M6917K5sAg3aejbjooySB) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [liebst du mich noch so wie ich dich ?](https://open.spotify.com/album/2mDop7m3DVv8Vy8tc8iz7l) | 2:48 |
+| 23 | [Wenn du gehst](https://open.spotify.com/track/7mDjp1foA6p4us9QZj8s8f) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Wenn du gehst](https://open.spotify.com/album/3M9Bvk0dfZv1HOUCScxpIK) | 2:30 |
 | 24 | [Fool Me Once](https://open.spotify.com/track/76wyTlJOQYwn69IMyIqOVb) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Mermaid Blues](https://open.spotify.com/album/2vZ8pNSUd9uRF4tTgLIBQc) | 3:53 |
-| 25 | [Cöp](https://open.spotify.com/track/0UHhs3pzejxiostXGLnNPH) | [Leyla Karims](https://open.spotify.com/artist/7C9SOLYb9mIZPYVyRR5Owz) | [Cöp](https://open.spotify.com/album/5RlAz9c1qzY0ncGQ86tzr9) | 2:06 |
-| 26 | [Wenn du gehst](https://open.spotify.com/track/7mDjp1foA6p4us9QZj8s8f) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Wenn du gehst](https://open.spotify.com/album/3M9Bvk0dfZv1HOUCScxpIK) | 2:30 |
+| 25 | [liebst du mich noch so wie ich dich ?](https://open.spotify.com/track/7M6917K5sAg3aejbjooySB) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [liebst du mich noch so wie ich dich ?](https://open.spotify.com/album/2mDop7m3DVv8Vy8tc8iz7l) | 2:48 |
+| 26 | [Cöp](https://open.spotify.com/track/0UHhs3pzejxiostXGLnNPH) | [Leyla Karims](https://open.spotify.com/artist/7C9SOLYb9mIZPYVyRR5Owz) | [Cöp](https://open.spotify.com/album/5RlAz9c1qzY0ncGQ86tzr9) | 2:06 |
 | 27 | [DoReMiFaSo](https://open.spotify.com/track/0DrN9WYQsOuIJIuzqcjvmk) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [DoReMiFaSo](https://open.spotify.com/album/3HOuXjkZ7riiQGljJqCkbm) | 2:05 |
 | 28 | [AREA CODES](https://open.spotify.com/track/6E3ZYtO2r8DZEHlSlvXOjI) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [AREA CODES](https://open.spotify.com/album/2ilAU5T7UcLW9iz3oRBMtb) | 2:40 |
 | 29 | [Kalender](https://open.spotify.com/track/7zirNuxuHUkEhOgBQEhLJf) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Kalender](https://open.spotify.com/album/5mgzmuiuNqfDp491jepoBJ) | 3:16 |
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 36 | [Mic Check \(Boomerang\)](https://open.spotify.com/track/1sm4d41wnhIcFSOKr0Rd9I) | [Charisma](https://open.spotify.com/artist/7D9emGGS7rSb4GjWpnfprb) | [Mic Check \(Boomerang\)](https://open.spotify.com/album/4Z6swtt0kdqgkInJzksVGx) | 2:27 |
 | 37 | [What's Good](https://open.spotify.com/track/655afr1nexUYljRZzlB64D) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [What's Good](https://open.spotify.com/album/3YLIB4TbUC73jhq8fhNmfU) | 2:43 |
 | 38 | [Stimmen](https://open.spotify.com/track/4j0aEdwpUwh04DKqmBmYOp) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Stimmen](https://open.spotify.com/album/6q2FZdmkrBSGVCYpxsU6f8) | 3:29 |
-| 39 | [Baby Spice](https://open.spotify.com/track/46PoRiYSTG4xbnl3MGbjYh) | [Nya Polo](https://open.spotify.com/artist/7cAgZXBekLII0vU3Q4V2qS) | [Baby Spice](https://open.spotify.com/album/6yg7SgVkrfKlx6R9ABYzjF) | 1:57 |
-| 40 | [Bottle of Wisdom](https://open.spotify.com/track/4zF0KmSZx5zU4V24hddGbf) | [VANDALISBIN](https://open.spotify.com/artist/0yX4mqTXY2LUs3qJh6LsDd) | [Bottle of Wisdom](https://open.spotify.com/album/75ZfUYm9KOVtfcVhh39BRr) | 3:05 |
+| 39 | [Bottle of Wisdom](https://open.spotify.com/track/4zF0KmSZx5zU4V24hddGbf) | [VANDALISBIN](https://open.spotify.com/artist/0yX4mqTXY2LUs3qJh6LsDd) | [Bottle of Wisdom](https://open.spotify.com/album/75ZfUYm9KOVtfcVhh39BRr) | 3:05 |
+| 40 | [Baby Spice](https://open.spotify.com/track/46PoRiYSTG4xbnl3MGbjYh) | [Nya Polo](https://open.spotify.com/artist/7cAgZXBekLII0vU3Q4V2qS) | [Baby Spice](https://open.spotify.com/album/6yg7SgVkrfKlx6R9ABYzjF) | 1:57 |
 | 41 | [hit'n'run](https://open.spotify.com/track/0PM95lyCWlTrG9EgMcRuX1) | [fraen](https://open.spotify.com/artist/0BmSxSKl373sqmoGAdHKTT) | [hit'n'run](https://open.spotify.com/album/71eRrfN8E7zOVZ6nuc8QQn) | 2:07 |
-| 42 | [Rennfahrer](https://open.spotify.com/track/5Zp5Y1swR56E7p6NLhwGcu) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot) | [Rennfahrer](https://open.spotify.com/album/1QnGQ6Rwxb7gpc1W7lCzt0) | 2:39 |
-| 43 | [Break My Own Heart](https://open.spotify.com/track/2jZgubyu0PsDex7nU4GQiW) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [Break My Own Heart](https://open.spotify.com/album/1NgP3DVeHnyt2stxdMPfA4) | 3:34 |
+| 42 | [wir trafen uns in einem garten](https://open.spotify.com/track/38YmEgPDOqKDPgkwsHw3nR) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [wir trafen uns in einem garten](https://open.spotify.com/album/58Ew6pCPqw2w2eYYGI2waN) | 2:58 |
+| 43 | [mies präpariert](https://open.spotify.com/track/5rdSGMrLZlwdA2xVE3YUcZ) | [Gwen Dolyn](https://open.spotify.com/artist/4GYs1X1Knyogk7tJVXNlv7) | [mies präpariert](https://open.spotify.com/album/3QHBVLxmVRq7wgXins6kfV) | 2:57 |
 | 44 | [Without You](https://open.spotify.com/track/0yIu5UTLqkxoK2MQI8fJ5r) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Babyblues](https://open.spotify.com/album/4TmR0aYCOQ9M0ZRM8q8riP) | 2:35 |
-| 45 | [wir trafen uns in einem garten](https://open.spotify.com/track/38YmEgPDOqKDPgkwsHw3nR) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [wir trafen uns in einem garten](https://open.spotify.com/album/58Ew6pCPqw2w2eYYGI2waN) | 2:58 |
-| 46 | [mies präpariert](https://open.spotify.com/track/5rdSGMrLZlwdA2xVE3YUcZ) | [Gwen Dolyn](https://open.spotify.com/artist/4GYs1X1Knyogk7tJVXNlv7) | [mies präpariert](https://open.spotify.com/album/3QHBVLxmVRq7wgXins6kfV) | 2:57 |
+| 45 | [Rennfahrer](https://open.spotify.com/track/5Zp5Y1swR56E7p6NLhwGcu) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot) | [Rennfahrer](https://open.spotify.com/album/1QnGQ6Rwxb7gpc1W7lCzt0) | 2:39 |
+| 46 | [Break My Own Heart](https://open.spotify.com/track/2jZgubyu0PsDex7nU4GQiW) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [Break My Own Heart](https://open.spotify.com/album/1NgP3DVeHnyt2stxdMPfA4) | 3:34 |
 | 47 | [charlotte street](https://open.spotify.com/track/5As5IBt5hZaCi4K19zCXv8) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [charlotte street](https://open.spotify.com/album/0SzPTavPWswndUHOIFAAZ5) | 3:58 |
 | 48 | [Breakup Meditation](https://open.spotify.com/track/6aYwZPsZbTKJIdwQaCh3YN) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Breakup Meditation](https://open.spotify.com/album/4vbzjWIuxoK7DMCzRW5V11) | 2:42 |
 | 49 | [Green Park](https://open.spotify.com/track/01MDCjSGJ2TrpTclQAqAlw) | [Brosie](https://open.spotify.com/artist/1BhHfoVYBG9UF75NYr61RB) | [Green Park](https://open.spotify.com/album/4GJko6wp6wOnMmK9hWqMoH) | 3:03 |

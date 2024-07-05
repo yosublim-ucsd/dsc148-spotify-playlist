@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover：Vincy 泳兒
+> 感受超級女聲力量。Cover：Sammi 鄭秀文
 
-322 songs - 19 hr 26 min
+324 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [甜蜜在十點五十九分前](https://open.spotify.com/track/3cbv2A9wr4n5100gxnHmUO) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [甜蜜在十點五十九分前](https://open.spotify.com/album/17Qb9AM8uSoKcvIWyOffGb) | 2:29 | 2024-06-27 |  |
 | [白髮齊眉](https://open.spotify.com/track/6qTqCB50JejUbmv2HFTVUP) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [白髮齊眉](https://open.spotify.com/album/12ZDGifLDgCZLEzGRBbdfQ) | 3:39 | 2024-06-27 |  |
 | [百妖夜行的修行](https://open.spotify.com/track/7nhmSdSknuP2OB1fnGdREj) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [百妖夜行的修行](https://open.spotify.com/album/0UjpB9oCfLW0UArVf2h3Jv) | 2:59 | 2024-06-27 |  |
+| [盲盒](https://open.spotify.com/track/7yl5iw9PR3sX4cR3m85Q5h) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [盲盒](https://open.spotify.com/album/6hhy6e1lq8gtgAGCVTogU0) | 4:44 | 2024-07-04 |  |
 | [真話的清高](https://open.spotify.com/track/0wW3KdmRH7K4ruByXTi4Xv) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [真話的清高](https://open.spotify.com/album/54R99UaKuQwZCB4T0yV7FK) | 3:41 | 2024-06-27 |  |
 | [社畜完全體](https://open.spotify.com/track/5zc0B9YxMhanwdDp5D3B9S) | [曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [社畜完全體](https://open.spotify.com/album/3cmzJdniYEVObAZAHS3dqd) | 4:23 | 2024-06-27 |  |
 | [神的不在場證明](https://open.spotify.com/track/5LxfxzmlGFCQm8HT93gksZ) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [神的不在場證明](https://open.spotify.com/album/03E9y0MvddabFJZ4QSq3iD) | 4:32 | 2024-06-27 |  |
@@ -300,6 +301,7 @@
 | [說走就走](https://open.spotify.com/track/1KwWRZ8WwJ2odetEB5Lw2Q) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [說走就走](https://open.spotify.com/album/3KtFzTu5eLYskzCnYNkcOT) | 3:38 | 2024-06-27 |  |
 | [請勿打擾模式](https://open.spotify.com/track/3eUcu4O8TfSSkBuXHRfh89) | [Jocelyn Chan](https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd) | [請勿打擾模式](https://open.spotify.com/album/1JdhSjpvG3483VbfmWX9PJ) | 2:41 | 2024-06-27 |  |
 | [講呀講呀](https://open.spotify.com/track/7M0jGlVo2B0lrFK5ZKQCei) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [講呀講呀](https://open.spotify.com/album/4jwvzdl0meLahunGaF8RxJ) | 3:30 | 2024-06-27 |  |
+| [講呀講呀 \- lofi remix](https://open.spotify.com/track/5vvmYOtUQx3R5vnS1EvbST) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [講呀講呀 \(lofi remix\)](https://open.spotify.com/album/5vcVmxsXA24qEA9bApPaeJ) | 3:32 | 2024-07-04 |  |
 | [謝謝你陪我那麼久](https://open.spotify.com/track/2fmSgHQ7bmeczwdGYmrLnJ) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [謝謝你陪我那麼久](https://open.spotify.com/album/5EFhYXBvXzTBLZ2aoH4t0q) | 3:25 | 2024-06-27 |  |
 | [謝謝對不起](https://open.spotify.com/track/1szYB5fwpt5ZtbCDNcLHId) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [謝謝對不起](https://open.spotify.com/album/4VNLoUSPEpgiSoBmz52BuP) | 3:45 | 2024-06-27 |  |
 | [貓之報恩](https://open.spotify.com/track/2lpWeRLGEIX0wpuNoByT0F) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [貓之報恩](https://open.spotify.com/album/5hLfEWdwVpcnDCD1D8JBQq) | 3:46 | 2024-06-27 |  |

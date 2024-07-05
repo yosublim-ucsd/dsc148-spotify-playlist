@@ -2368,7 +2368,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 171782,
       "name": "Austin (Boots Stop Workin')",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -5524,7 +5524,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 198193,
       "name": "Cash N'",
       "url": "https://open.spotify.com/track/3kFARBEeuPigGaUIJFgwD2"
@@ -9448,7 +9448,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 157506,
       "name": "Elska",
       "url": "https://open.spotify.com/track/3u3uS54VRFbCJThLdTZN8k"
@@ -18896,7 +18896,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 195464,
       "name": "Krumla",
       "url": "https://open.spotify.com/track/1ahTtx2UIz4Kj59aMbcwSh"
@@ -23261,6 +23261,24 @@
     },
     {
       "album": {
+        "name": "My Lady",
+        "url": "https://open.spotify.com/album/4nO5ucsS1r2wBwkT32bs7e"
+      },
+      "artists": [
+        {
+          "name": "BM_Dr.P",
+          "url": "https://open.spotify.com/artist/1mXH18rO3gZAfCj4MXAq7A"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212480,
+      "name": "My Lady",
+      "url": "https://open.spotify.com/track/0OP8vwExIbQNNwB2bU7gH1"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -24708,7 +24726,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 153897,
       "name": "N\u00f3tt og dag",
       "url": "https://open.spotify.com/track/4Fr7ItOnB0yLoCMqpjGpas"
@@ -29621,6 +29639,32 @@
     },
     {
       "album": {
+        "name": "Secure the Bag",
+        "url": "https://open.spotify.com/album/0pFzBMGIqbF0z7xWDMdRJa"
+      },
+      "artists": [
+        {
+          "name": "BM_Dr.P",
+          "url": "https://open.spotify.com/artist/1mXH18rO3gZAfCj4MXAq7A"
+        },
+        {
+          "name": "Pally-J",
+          "url": "https://open.spotify.com/artist/6spCei05pjEDDwvnCaQmN4"
+        },
+        {
+          "name": "Feelingz",
+          "url": "https://open.spotify.com/artist/2drx5YWPs50WLkXWhNKTHF"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193776,
+      "name": "Secure the Bag",
+      "url": "https://open.spotify.com/track/6moboScPauxTwUZWUlNY4G"
+    },
+    {
+      "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
@@ -32624,6 +32668,28 @@
     {
       "album": {
         "name": "Sugar",
+        "url": "https://open.spotify.com/album/3kEvPGzZ8ZRhFY80wNOdix"
+      },
+      "artists": [
+        {
+          "name": "4Mat B",
+          "url": "https://open.spotify.com/artist/3sT7BlOXEw3katFNa222on"
+        },
+        {
+          "name": "Bwalis",
+          "url": "https://open.spotify.com/artist/3kWWaLoXKQ3to4mqoxBHmZ"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/3zm9P2nU1boIFEKnWU0L3k"
+    },
+    {
+      "album": {
+        "name": "Sugar",
         "url": "https://open.spotify.com/album/3sRJWlMDplaZjzPzDhkNRA"
       },
       "artists": [
@@ -34947,6 +35013,32 @@
     },
     {
       "album": {
+        "name": "Tobey (feat. Big Sean and BabyTron)",
+        "url": "https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284892,
+      "name": "Tobey (feat. Big Sean and BabyTron)",
+      "url": "https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW"
+    },
+    {
+      "album": {
         "name": "X Cross",
         "url": "https://open.spotify.com/album/0yUfPZEQhKiVbYE24v7hd8"
       },
@@ -36776,7 +36868,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"

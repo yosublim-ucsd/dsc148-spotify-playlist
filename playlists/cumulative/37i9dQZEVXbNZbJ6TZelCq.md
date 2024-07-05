@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Romania.
 
-1,671 songs - 3 day 16 hr 27 min
+1,672 songs - 3 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1508,6 +1508,7 @@
 | [TOTU' GATA](https://open.spotify.com/track/52KHk29WdiA2DhI5ijDMZh) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [TOTU' GATA](https://open.spotify.com/album/1Iac2x798M2tkOXsKHa8eZ) | 2:07 | 2024-04-04 | 2024-04-14 |
 | [Totul meu](https://open.spotify.com/track/7rKpQsXelc2Q9EOvllyKWp) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Totul meu](https://open.spotify.com/album/5GyH4MjNEXW8WpTvBJGws7) | 2:24 | 2024-01-25 | 2024-04-19 |
 | [Totul Sau Nimic](https://open.spotify.com/track/0D9QzwiLEaHQy8gEy2d4g6) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Înapoi La Viață](https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH) | 4:43 | 2022-08-12 | 2022-08-28 |
+| [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-04 |  |
 | [Toxic](https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Toxic](https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h) | 2:48 | 2021-11-02 | 2021-12-15 |
 | [Toxic](https://open.spotify.com/track/2kaNmAbqrtOf7Rdr3fnCWl) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Faded](https://open.spotify.com/album/1C9KIpgrisvGtCxTfNBBaJ) | 2:48 | 2021-10-18 | 2021-10-19 |
 | [Toxic](https://open.spotify.com/track/0aRAYNUQt0GI79ZrHsuw0n) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Înapoi La Viață](https://open.spotify.com/album/3wkTpN9RolhAhQkIYrPhTi) | 2:03 | 2023-09-14 | 2023-12-25 |
@@ -1676,7 +1677,7 @@
 | [Ștefan](https://open.spotify.com/track/4jRAdGPN0S20hLSaPWZ34p) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Centaur](https://open.spotify.com/album/2CIT3DRAZdPvix0n9wYBhb) | 3:39 | 2022-11-26 | 2022-12-03 |
 | [ȘTIE](https://open.spotify.com/track/2XQF6qhxbWLCZQFqm7m8BF) | [Mobtrap](https://open.spotify.com/artist/6Nspm53g0iGjgJxTcwhqOl), [Angeles](https://open.spotify.com/artist/3tdg8XqJcJxUs0wpeKywzs) | [DETROIT NAPOCA \(DELUXE\)](https://open.spotify.com/album/1e4oTUYQlrbOrqwQyXLrIk) | 2:52 | 2023-11-27 | 2023-12-03 |
 | [ȘTII…](https://open.spotify.com/track/1BhxROmMZpykm6qlc670SR) | [Tussin](https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ȘTII…](https://open.spotify.com/album/03fZeyHkQowEPjTjDdOeW4) | 3:28 | 2024-03-23 | 2024-03-28 |
-| [Țigancă Balcanică](https://open.spotify.com/track/3GVCA9D3bm9xIQePPn7YKw) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Țigancă Balcanică](https://open.spotify.com/album/7sYnNZqW8UZG54fB9MYtnX) | 2:17 | 2023-10-08 |  |
+| [Țigancă Balcanică](https://open.spotify.com/track/3GVCA9D3bm9xIQePPn7YKw) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Țigancă Balcanică](https://open.spotify.com/album/7sYnNZqW8UZG54fB9MYtnX) | 2:17 | 2023-10-08 | 2024-07-05 |
 | [Țigancă de București](https://open.spotify.com/track/3bVBGChrqnNOHADKIDVdxC) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Țigancă de București](https://open.spotify.com/album/5m3o0XXSYsLpeYG8JKdV6e) | 3:00 | 2022-08-19 | 2023-01-03 |
 | [ține\-mă de mână](https://open.spotify.com/track/2rDFNnZlIaygivy6Ivtfq3) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3) | [ultima noapte de dragoste](https://open.spotify.com/album/5sJ2mae4ntm9IQejfepkPO) | 2:56 | 2023-04-22 | 2023-04-24 |
 

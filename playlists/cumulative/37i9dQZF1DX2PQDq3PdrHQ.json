@@ -3678,7 +3678,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 139187,
       "name": "Everything will be good",
       "url": "https://open.spotify.com/track/5EK0YCZr25zrCVGGoPc5Pw"
@@ -5088,7 +5088,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 158935,
       "name": "Howling",
       "url": "https://open.spotify.com/track/2xIEjqVy7RcvTzdwve9nBk"
@@ -6457,6 +6457,28 @@
     },
     {
       "album": {
+        "name": "little moon",
+        "url": "https://open.spotify.com/album/3xPkHHuYAI3kcEh4NDj6x9"
+      },
+      "artists": [
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        },
+        {
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129410,
+      "name": "little moon",
+      "url": "https://open.spotify.com/track/062qwUE6m7XLVSEiUF2pNX"
+    },
+    {
+      "album": {
         "name": "little seed",
         "url": "https://open.spotify.com/album/6qI02KkHymWhs6HHc9UOzn"
       },
@@ -6468,7 +6490,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 142702,
       "name": "little seed",
       "url": "https://open.spotify.com/track/0LNRtU6aY2Nx2tRmrwxa3A"
@@ -10016,7 +10038,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 141700,
       "name": "SadBoy4L",
       "url": "https://open.spotify.com/track/0GiwYUKylIph3gQh4mBeIj"
@@ -10448,7 +10470,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 179200,
       "name": "sheltered love",
       "url": "https://open.spotify.com/track/4Xx2WzhhgaKRtb7993UJO7"

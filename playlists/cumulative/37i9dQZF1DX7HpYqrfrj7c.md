@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-72 songs - 3 hr 44 min
+73 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Cold Leftovers](https://open.spotify.com/track/4nd1Dzjir8lGYXTq5gPkgd) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Cherry Gummy](https://open.spotify.com/album/2zgJcyGollZV9lW0fyL1sX) | 2:14 | 2024-06-24 |  |
 | [Colours](https://open.spotify.com/track/3SJaPZuiVpXs2FTWkPTlBP) | [Willis.](https://open.spotify.com/artist/6meMGWf2GUrmsl3lFvEYQN) | [Colours](https://open.spotify.com/album/5QGZaA2Qjnt4BXq4H7Qk1r) | 2:33 | 2024-06-24 |  |
 | [Conflict of Interest](https://open.spotify.com/track/2o5FbeBMDj0FhMUsEKNdbQ) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Conflict of Interest](https://open.spotify.com/album/36yRNyJruLwrhGsdYcWeQA) | 2:41 | 2024-06-26 |  |
+| [Coolidge \- Bonus Instrumental](https://open.spotify.com/track/5qUuC5Om5JOLAXftkf7VBl) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Glasklar](https://open.spotify.com/album/1o2Hq0jhbHgZ369iorIKTb) | 1:41 | 2024-07-04 |  |
 | [Cotton Candy](https://open.spotify.com/track/5pDR1Z9j4FCTK0EbVQLH5z) | [U\-WARRIOR](https://open.spotify.com/artist/0VaCOtKG226cWSr9GQVeeN), [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C) | [Cotton Candy](https://open.spotify.com/album/2C3TpTptiDdkNIqp0iZXGV) | 2:00 | 2024-06-24 |  |
 | [DFTF \(J Dilla instrumental\)](https://open.spotify.com/track/0i3TqaKNngr64Tw3WgVsR2) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp) | [Yancey Boys \(Instrumentals\)](https://open.spotify.com/album/2gdTpQn3jIAWM9ybgwqPLM) | 4:23 | 2024-06-24 |  |
 | [Do You Believe? \- Instrumental](https://open.spotify.com/track/5wB50WI6crBSLs29UZFFCH) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX) | [Do You Believe? EP](https://open.spotify.com/album/0TWSUGFl8CfJo4HDYnGcak) | 3:41 | 2024-06-24 |  |

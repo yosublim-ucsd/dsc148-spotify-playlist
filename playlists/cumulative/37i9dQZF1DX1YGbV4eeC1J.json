@@ -888,6 +888,24 @@
     {
       "album": {
         "name": "Far Away",
+        "url": "https://open.spotify.com/album/26SiJtz00mjV9MHUL3y5zi"
+      },
+      "artists": [
+        {
+          "name": "Haitham Kim",
+          "url": "https://open.spotify.com/artist/750ujPfB38qROElCTru0vL"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200866,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3xkPEQyclUqwYfrDCzgdUp"
+    },
+    {
+      "album": {
+        "name": "Far Away",
         "url": "https://open.spotify.com/album/3hQN2SC0cgP0LPVh1GErMR"
       },
       "artists": [
@@ -916,7 +934,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 217421,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1T64n0T17I3deCh0Uk9hct"
@@ -974,7 +992,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 223058,
       "name": "Haiwahusu",
       "url": "https://open.spotify.com/track/1Md3HmqIOIOqEenhx7r6Gh"
@@ -1188,6 +1206,24 @@
       "duration_ms": 172035,
       "name": "I Belong To You",
       "url": "https://open.spotify.com/track/2PJhzxSrHqNTfhNuFtybCQ"
+    },
+    {
+      "album": {
+        "name": "The Black Queen",
+        "url": "https://open.spotify.com/album/5hDp3ipvViHB27ya6kWZri"
+      },
+      "artists": [
+        {
+          "name": "Anjella",
+          "url": "https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181133,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/0xKkw3VN1fEFWK8BGsyEBM"
     },
     {
       "album": {
@@ -1704,6 +1740,32 @@
       "duration_ms": 222066,
       "name": "Malaika",
       "url": "https://open.spotify.com/track/0HmfKWUkWltmnyHFdFBA4X"
+    },
+    {
+      "album": {
+        "name": "Mali Safi",
+        "url": "https://open.spotify.com/album/7fotVPs9r5uBiCmpzidB76"
+      },
+      "artists": [
+        {
+          "name": "Nadia Mukami",
+          "url": "https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No"
+        },
+        {
+          "name": "Okello Max",
+          "url": "https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp"
+        },
+        {
+          "name": "Prince Indah",
+          "url": "https://open.spotify.com/artist/72UZHvETWq3aV97cVxC5VS"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238285,
+      "name": "Mali Safi",
+      "url": "https://open.spotify.com/track/275GPFzAqqi5hEZWTvdmPU"
     },
     {
       "album": {
@@ -3610,7 +3672,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 118526,
       "name": "Till I Die",
       "url": "https://open.spotify.com/track/5q5kRdpB5sNYXuvTbCZUZR"

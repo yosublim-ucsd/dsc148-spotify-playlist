@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=-ew7kaC0Qb-1Bg-Jy81NUw\">Spoegwolf</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY?si=oqzSlc6wSSuoUDBAx3N9Qw\">Neil Sandilands</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -3165,6 +3165,24 @@
     },
     {
       "album": {
+        "name": "Land & Sand",
+        "url": "https://open.spotify.com/album/2ouurOd8VHVbzoUDdPAddN"
+      },
+      "artists": [
+        {
+          "name": "Neil Sandilands",
+          "url": "https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171533,
+      "name": "Gooi Kole",
+      "url": "https://open.spotify.com/track/66xWEcI12VxFXpuDCxWnYc"
+    },
+    {
+      "album": {
         "name": "Vreemd",
         "url": "https://open.spotify.com/album/3QhqEsWuvMdvBEcVXWb5UM"
       },
@@ -3646,7 +3664,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 295773,
       "name": "Humbled",
       "url": "https://open.spotify.com/track/4AAz7vj9lUna9VaLtD1tPa"
@@ -4837,6 +4855,24 @@
     },
     {
       "album": {
+        "name": "Medikasie",
+        "url": "https://open.spotify.com/album/3CXb12jfguQCmaOxqQIW23"
+      },
+      "artists": [
+        {
+          "name": "DEJA VU",
+          "url": "https://open.spotify.com/artist/5i6BaUfrVT8EXDzEv3Y7SZ"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226883,
+      "name": "Medikasie",
+      "url": "https://open.spotify.com/track/7hnvlcQRhwt4LTZBKwGE2p"
+    },
+    {
+      "album": {
         "name": "Melissa",
         "url": "https://open.spotify.com/album/6v4eNc39wqE4HyayIIjnpg"
       },
@@ -5057,6 +5093,24 @@
     },
     {
       "album": {
+        "name": "Murmurs",
+        "url": "https://open.spotify.com/album/1ZCeM4FJo7Gqh1crcLsuT1"
+      },
+      "artists": [
+        {
+          "name": "Pierre Stemmett",
+          "url": "https://open.spotify.com/artist/2xei4TwXqWutkMSxSCXSKS"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250370,
+      "name": "Murmurs",
+      "url": "https://open.spotify.com/track/4Bje2kBjtCQBKGpZAN8onp"
+    },
+    {
+      "album": {
         "name": "Die gids vir grootword",
         "url": "https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU"
       },
@@ -5270,6 +5324,24 @@
       "duration_ms": 159494,
       "name": "Nie Alleen Nie",
       "url": "https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3"
+    },
+    {
+      "album": {
+        "name": "Nikotien",
+        "url": "https://open.spotify.com/album/3V0aS1eLxtRTWXgYDnZ1uT"
+      },
+      "artists": [
+        {
+          "name": "Kristi Steyn",
+          "url": "https://open.spotify.com/artist/4KoEmYiPvlvX3qExVzlsqU"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Nikotien",
+      "url": "https://open.spotify.com/track/2GhbAsaThgnJQkJJ2NLll7"
     },
     {
       "album": {
@@ -6302,7 +6374,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 118603,
       "name": "ROLE MODEL",
       "url": "https://open.spotify.com/track/4v9x3cl1AIAbCLYGO6EBuS"
@@ -6740,7 +6812,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 211017,
       "name": "Skree",
       "url": "https://open.spotify.com/track/0nrnO5EK6NLHUqfAesvjwV"
@@ -8466,7 +8538,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 204816,
       "name": "Wees Net Beter",
       "url": "https://open.spotify.com/track/3SMun4H8Fy86MLw2jgUZBu"

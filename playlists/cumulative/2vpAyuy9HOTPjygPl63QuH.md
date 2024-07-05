@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-1,877 songs - 4 day 10 hr 24 min
+1,878 songs - 4 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Daydreamer](https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Daydreamer](https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF) | 2:40 | 2022-05-13 | 2022-05-30 |
 | [Daydreaming \(feat\. Baby D\)](https://open.spotify.com/track/2j33kcEPdSd6kygtGSXKJP) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx), [Baby D](https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc) | [Daydreaming](https://open.spotify.com/album/3amFvPYQ0J8meKMNMzUIL4) | 3:24 | 2023-05-12 | 2023-05-20 |
 | [De Kenner](https://open.spotify.com/track/4c4LWUxRCNpBc5nSdRQGlz) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [FBC](https://open.spotify.com/artist/1nCrupU2QD7Edvz2EeN3G0), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [De Kenner](https://open.spotify.com/album/3KpFIRR5isfnl8DevtTrvB) | 5:20 | 2022-06-24 | 2022-07-02 |
+| [Dead To Me \- Radio Edit](https://open.spotify.com/track/7jAujVlAs9lQXAMGQq7NrL) | [Ritmo Kartel](https://open.spotify.com/artist/5djAumpISorEoZsJW9CZSP), [Chris Ultranova](https://open.spotify.com/artist/51bvesSkE7jEu0Vf00MWFo), [IVI](https://open.spotify.com/artist/3uXB2bZ5rSyOrtUfLW4xup) | [Dead To Me](https://open.spotify.com/album/0ueEb3FfXAx6go66zPwjHL) | 2:56 | 2024-07-04 |  |
 | [Deceiver \- VIP](https://open.spotify.com/track/39aowVnxyzMDZOmrgsN4MU) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Deceiver \(VIP\)](https://open.spotify.com/album/0ZoupfyYTGUYKWTaZ8rymq) | 2:35 | 2023-03-03 | 2023-03-11 |
 | [Deception](https://open.spotify.com/track/2nQFUVGbgrCfnHz83EW77Q) | [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o), [This Culture](https://open.spotify.com/artist/6tCfruTJZuo3hKJHyfvBvr) | [Deception](https://open.spotify.com/album/6AVIEQObwdiylZEwBjoaUF) | 3:01 | 2022-09-17 | 2022-09-24 |
 | [Deep \(with DJ Snake & Yung Felix\)](https://open.spotify.com/track/0hSdx0sbSmYRVJzZTuspu0) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [Deep \(with DJ Snake & Yung Felix\)](https://open.spotify.com/album/3WpS9W69UKt59YFj744I0u) | 3:33 | 2022-09-23 | 2022-10-01 |

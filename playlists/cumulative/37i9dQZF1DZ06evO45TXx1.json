@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
+  "description": "This is Mc Luanna. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Mc Luanna",
   "tracks": [
     {
@@ -872,7 +872,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 128242,
       "name": "Linha Torta",
       "url": "https://open.spotify.com/track/1jp3ua6XiMziN3PbDBKMuA"
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 246965,
       "name": "Pantera",
       "url": "https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd"

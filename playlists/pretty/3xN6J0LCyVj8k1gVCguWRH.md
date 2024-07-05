@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! A predicttion playlist that also Includes Summer 2023 edition &amp; bonus tracks.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 107,871 likes - 118 songs - 6 hr 48 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 107,897 likes - 111 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,15 +18,15 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 8 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
 | 9 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 |
 | 10 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 |
-| 11 | [514 Denim](https://open.spotify.com/track/6wtFipXBfCbH3tOMx6oxh7) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [514 Denim](https://open.spotify.com/album/4AVl6WOtqKyR1gTp8s8stw) | 2:52 |
-| 12 | [de ja vu](https://open.spotify.com/track/2urwpQeVzI8p1QjTYPUcEc) | [Earl Hondo](https://open.spotify.com/artist/6wtwOmHik96gteVK9Kt28x) | [de ja vu](https://open.spotify.com/album/1T41QBcUTncmitLEcy1y9z) | 3:46 |
-| 13 | [Poster Child](https://open.spotify.com/track/2L6eFClqVJy62RkW8FEAQx) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Poster Child](https://open.spotify.com/album/0604mViR529HBNJmZr5IRW) | 2:48 |
-| 14 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
-| 15 | [Tangled](https://open.spotify.com/track/5zOxbR56sP7l2lawHl45HM) | [Winnie Ama](https://open.spotify.com/artist/4DJIumnofpauv3dYkgZSv1) | [Tangled](https://open.spotify.com/album/3u908dnLWI42dDAkbXSBN8) | 3:07 |
-| 16 | [Gentle Angel](https://open.spotify.com/track/3MhCQWnKGxKhDsYSpRsOd9) | [Kieran Stracey](https://open.spotify.com/artist/0l7ylVy9QYBbXlLStMIx4R) | [Gentle Angel](https://open.spotify.com/album/51sGWlBoPzNhmjnqqgaAaf) | 2:16 |
-| 17 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
-| 18 | [last first date](https://open.spotify.com/track/0BoR8leRhGdvCNdwbqUPcJ) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [last first date](https://open.spotify.com/album/2iQY8LE8UQJxatH3Q6hnzZ) | 3:07 |
-| 19 | [Circles](https://open.spotify.com/track/0mpNb4fxKsIfc5bgx6xG2d) | [Gerina](https://open.spotify.com/artist/7gsw0J4ej0rwNl3Pk7D2d4) | [Circles](https://open.spotify.com/album/074vfRX9wjyoNRRDIFfPq3) | 3:51 |
+| 11 | [de ja vu](https://open.spotify.com/track/2urwpQeVzI8p1QjTYPUcEc) | [Earl Hondo](https://open.spotify.com/artist/6wtwOmHik96gteVK9Kt28x) | [de ja vu](https://open.spotify.com/album/1T41QBcUTncmitLEcy1y9z) | 3:46 |
+| 12 | [Poster Child](https://open.spotify.com/track/2L6eFClqVJy62RkW8FEAQx) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Poster Child](https://open.spotify.com/album/0604mViR529HBNJmZr5IRW) | 2:48 |
+| 13 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
+| 14 | [Tangled](https://open.spotify.com/track/5zOxbR56sP7l2lawHl45HM) | [Winnie Ama](https://open.spotify.com/artist/4DJIumnofpauv3dYkgZSv1) | [Tangled](https://open.spotify.com/album/3u908dnLWI42dDAkbXSBN8) | 3:07 |
+| 15 | [Gentle Angel](https://open.spotify.com/track/3MhCQWnKGxKhDsYSpRsOd9) | [Kieran Stracey](https://open.spotify.com/artist/0l7ylVy9QYBbXlLStMIx4R) | [Gentle Angel](https://open.spotify.com/album/51sGWlBoPzNhmjnqqgaAaf) | 2:16 |
+| 16 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
+| 17 | [last first date](https://open.spotify.com/track/0BoR8leRhGdvCNdwbqUPcJ) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [last first date](https://open.spotify.com/album/2iQY8LE8UQJxatH3Q6hnzZ) | 3:07 |
+| 18 | [Circles](https://open.spotify.com/track/0mpNb4fxKsIfc5bgx6xG2d) | [Gerina](https://open.spotify.com/artist/7gsw0J4ej0rwNl3Pk7D2d4) | [Circles](https://open.spotify.com/album/074vfRX9wjyoNRRDIFfPq3) | 3:51 |
+| 19 | [So Plain to See](https://open.spotify.com/track/1k3XUMiF7zFi0O4xcClula) | [KennethB](https://open.spotify.com/artist/74vNAtH9KtlvA4N6AJAk5G) | [So Plain to See](https://open.spotify.com/album/0XhdprRX3gyvcsPJKYo1LV) | 4:00 |
 | 20 | [Noise](https://open.spotify.com/track/33vkeGG9QbOu1OpPJ8r41F) | [Stefan Olovsson BrainZapArt](https://open.spotify.com/artist/6lltpKSCWQFsc6nRrFHoNm) | [Noise](https://open.spotify.com/album/45gu4JlJU6fLcSPrBHcC2Y) | 3:06 |
 | 21 | [silence STArEs me down \(feat\. Cuco\)](https://open.spotify.com/track/78KntfAskv8cMLQSa0a5PR) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [hella \(˃̣̣̥╭╮˂̣̣̥\) ✧ ♡ ‧º·˚](https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ) | 3:06 |
 | 22 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 |
@@ -119,12 +119,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 109 | [RUSH](https://open.spotify.com/track/4DCoqzKqUoVCO6JfOJfdxG) | [Max Parker](https://open.spotify.com/artist/2nv4kJnjCxOSw6LD3a9NRe) | [RUSH](https://open.spotify.com/album/5kk395EVWSwONgyztm4rzo) | 3:03 |
 | 110 | [Vacation](https://open.spotify.com/track/3f0dWJG5TtocEIaySXb1Kb) | [KingTuffa](https://open.spotify.com/artist/4b9B1tlCDr4hnlwcw5IV5C) | [Vacation](https://open.spotify.com/album/0FH1VWRqZrDPOubGYSkktM) | 2:46 |
 | 111 | [Dark Roast](https://open.spotify.com/track/6gm2ImxcRaGV17TVLV1y9K) | [Liv Belda](https://open.spotify.com/artist/3ghmerwCFXWYXPW25fx1le) | [Dark Roast](https://open.spotify.com/album/1p2df2eW35lFZ2QCHd3Lyg) | 4:12 |
-| 112 | [No WiFi](https://open.spotify.com/track/0gPtlR4XF9xSz5bwxCSF9p) | [Soro](https://open.spotify.com/artist/4oEVvyMyPXVP2h8JkNpng5) | [No WiFi](https://open.spotify.com/album/5R6efGpOXqSz7KrOQLoGUK) | 1:44 |
-| 113 | [M\. I\. A.](https://open.spotify.com/track/5BRzi7oEylgXnTkSpm5nw1) | [Jeremy Kennan](https://open.spotify.com/artist/4kVoZUfn6VXbI0HbEP8Gfz) | [M\. I\. A.](https://open.spotify.com/album/3rSBOTEitVcUEKlUjyx9DG) | 2:27 |
-| 114 | [Pull Away](https://open.spotify.com/track/3QA2dhV76yphBaaRWTwwYG) | [Lana Burford](https://open.spotify.com/artist/36YyCk9ZiQ2f0QhaOkoMpw) | [Pull Away](https://open.spotify.com/album/1ZkCoqED2xSyqeAtZ7qYrz) | 2:05 |
-| 115 | [OH ME OH MY](https://open.spotify.com/track/0pwLdGeN0tGywFyHOQWUlf) | [Tyriq](https://open.spotify.com/artist/0uJcNVUUQkwkU86EJdz9EQ) | [OH ME OH MY](https://open.spotify.com/album/4OfP2ZQ2ZCZMrS7GdVLpQi) | 2:31 |
-| 116 | [Fading](https://open.spotify.com/track/47qhavyUKBH9N4iFKQVL5p) | [K\. Epps](https://open.spotify.com/artist/2ASZBoq95nqRoeOAUV7AGM) | [Fading](https://open.spotify.com/album/4IG6VAehaCCwF5WKFnm12B) | 3:31 |
-| 117 | [KRIBZ](https://open.spotify.com/track/6BcWxkpZHe1v0u4yIBfst7) | [AP x FOCUS](https://open.spotify.com/artist/7l6JxLuwEP5jIR0MJN8sO5) | [KRIBZ](https://open.spotify.com/album/3DjkFiqKmg9USDb55PsNK7) | 2:38 |
-| 118 | [Crossroads](https://open.spotify.com/track/1UMmyU3UgLM1nbCTPB0Mum) | [Shani G](https://open.spotify.com/artist/0gf5IFqCBXj41jrFbrGfRs) | [Crossroads](https://open.spotify.com/album/4lhKdbHYYsvMnU2vilpbzy) | 2:51 |
 
-Snapshot ID: `AAAjrnQ3HUPJVp/Nna7y21LqZqB5/4tM`
+Snapshot ID: `AAAjsAqjmfX7iqlTlh7Duv6ttGdZzv86`

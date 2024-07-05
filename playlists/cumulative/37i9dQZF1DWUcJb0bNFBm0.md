@@ -4,7 +4,7 @@
 
 > Noise distortion amongst the hazy clouds ☁️ \(Cover: srwks.\)
 
-100 songs - 7 hr 23 min
+102 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Bitterness](https://open.spotify.com/track/0QnAfmv5CwrotxI8W1ZsGQ) | [Yasu Cub](https://open.spotify.com/artist/01q4aGaA44cHbbv3bY8P1i) | [Bitterness](https://open.spotify.com/album/4vU22oFOy1LjDvipzgwim7) | 3:53 | 2024-06-27 |  |
 | [BLUE WINE](https://open.spotify.com/track/6fFz6JYo9IHvgVLmmFNcci) | [EÄZZ.](https://open.spotify.com/artist/1ybobnnnwcuBzeWoae5LEY) | [Soft,Frail and Blue](https://open.spotify.com/album/1bM9Qt42jRnIlZIIMqkxdb) | 4:13 | 2024-06-27 |  |
 | [Boring Train](https://open.spotify.com/track/5QRgEuPneXDEQjiVuNzTnv) | [Beachside talks](https://open.spotify.com/artist/5sp9TRLcb2ooWZG7XRY6c4) | [Marble Town](https://open.spotify.com/album/4mF2gRfHof8jXkW3ay0Ggu) | 4:48 | 2024-06-27 |  |
+| [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-04 |  |
 | [Candy \(Flashback\)](https://open.spotify.com/track/2pJ0He1anjlfESMrPLwHWv) | [Acidclank](https://open.spotify.com/artist/5F0j8hQsmTuCkgIkb0beLc) | [Candy \(Flashback\)](https://open.spotify.com/album/070X5WUhS7znCajGiJ7kMU) | 3:14 | 2024-06-27 |  |
 | [Cats, Cats and Cats Again](https://open.spotify.com/track/20XKgs3K7NhhmLloOYc1Rb) | [Cosmic Child](https://open.spotify.com/artist/0AbaYCVaRtwCSxFuRCZHjr) | [Blue](https://open.spotify.com/album/5hWisNpBSw9AGfbDL7bZNf) | 4:58 | 2024-06-27 |  |
 | [Chasing Time](https://open.spotify.com/track/2BV6kBmNvphHboUgcDZhRP) | [Dodo Museum](https://open.spotify.com/artist/0hImZdHwKiM7ftmeGUNQwX) | [Chasing Time](https://open.spotify.com/album/6ZzBZpjCqmMm7PBMtrPvgG) | 3:14 | 2024-06-27 |  |
@@ -43,6 +44,7 @@
 | [i don’t wanna live with myself anymore](https://open.spotify.com/track/43DgPRRbirO09NCCRiJd7s) | [don't drown!](https://open.spotify.com/artist/4O39jkB3iGwG3PrCsWrAm2) | [i don’t wanna live with myself anymore](https://open.spotify.com/album/5yKshIdY9kfdrmaSjAXXR3) | 3:34 | 2024-06-27 |  |
 | [Irene](https://open.spotify.com/track/3kch4XBCUYiCBNIZzsxYr5) | [HUSH](https://open.spotify.com/artist/1AEMtlWO4qP2j3SndDRvMB) | [Irene](https://open.spotify.com/album/2Mj8LfQJaeqI2abFjfoTFi) | 7:10 | 2024-06-27 |  |
 | [It's Got Me Again](https://open.spotify.com/track/48uNFXgtrVUIRBfhnbo37P) | [Minaxi](https://open.spotify.com/artist/3gvZuaA1lMGmQoQNl9UmaC) | [It's Got Me Again](https://open.spotify.com/album/4AsrQZ2yw0bEElkyB6jJWB) | 4:46 | 2024-06-27 |  |
+| [Jalur Bebas Hambatan](https://open.spotify.com/track/0WKfFli4wfhr04p0CYuicl) | [Purpla](https://open.spotify.com/artist/6nLhM1QkqsfvLN0sJr6cTv) | [Jalur Bebas Hambatan](https://open.spotify.com/album/6UpsoueDxfB29QRoG9SDld) | 3:45 | 2024-07-04 |  |
 | [Jester crimes](https://open.spotify.com/track/1ymHrpaFt99ukvYzl3jpn2) | [Lyre Still](https://open.spotify.com/artist/3Qte7FNZfil50xdgCs0ajZ) | [Grace](https://open.spotify.com/album/2QGyIkvXy85oWcgQm7X4xU) | 3:27 | 2024-06-27 |  |
 | [jitensha](https://open.spotify.com/track/6v4169idGWlzblAiw2dB67) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [jitensha](https://open.spotify.com/album/6pFZUsvreZ5qcY8ksvOlHH) | 6:26 | 2024-06-27 |  |
 | [Kerat Timur 1](https://open.spotify.com/track/0vPTDcCeINEM6ziGmSavFI) | [Cigarettes Wedding](https://open.spotify.com/artist/4QGjxmeTxzV2mp5hfvCk5P), [Cholil Mahmud](https://open.spotify.com/artist/0xuJCV7Ce4Pp6eU4k5TAxQ) | [Kerat Timur 1](https://open.spotify.com/album/3YoWCTVGUOiOcqXTa4oaGd) | 3:52 | 2024-06-27 |  |

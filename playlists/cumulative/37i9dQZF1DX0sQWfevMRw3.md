@@ -4,7 +4,7 @@
 
 > HOT\-HOT\-AMORE!!
 
-1,145 songs - 2 day 0 hr 8 min
+1,148 songs - 2 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [Hashish de blaa](https://open.spotify.com/track/3xBwIEVxgGCjDSKMpUnwTK) | [Frej Larsson](https://open.spotify.com/artist/3B2Q6VDxVx3WMP620Nk4GH) | [Hashish de blaa](https://open.spotify.com/album/4g0gyRRsgt83I5myozjjeM) | 3:28 | 2021-12-16 | 2022-07-23 |
 | [HATAR DIG](https://open.spotify.com/track/1ntGXeiRPChdQ8xYU6cOB1) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [HATAR DIG](https://open.spotify.com/album/5vX26nV3QDxfJC9yQofQmB) | 2:03 | 2023-06-01 | 2023-08-04 |
 | [Hatar mig](https://open.spotify.com/track/6LbRmYMXgUx5hI8bo3EIXj) | [Hugge](https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g) | [Hatar mig](https://open.spotify.com/album/5lwn8lZwWRbm3iPcRACiRM) | 1:56 | 2023-11-09 |  |
+| [HAWK TUAH](https://open.spotify.com/track/4DqlZOS1lLY7YM7LzI0suS) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [HAWK TUAH](https://open.spotify.com/album/30x6dl7CIzzF5yhsfcV3OE) | 1:44 | 2024-07-04 |  |
 | [Heartless](https://open.spotify.com/track/23LIHPAQp1THQ5bghyPcY2) | [loafers](https://open.spotify.com/artist/4O8EiXZbelscSDs7TgOXHc), [Jungle Jonsson](https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z) | [Heartless](https://open.spotify.com/album/3Z79S5Lzes0y0LNxjzRwic) | 2:47 | 2022-03-24 | 2022-04-19 |
 | [Heathens](https://open.spotify.com/track/4il7cillEo8yKHdlBOP0Qy) | [IZKO](https://open.spotify.com/artist/1BgmLUmytJuDy5CEzP7SL6), [Mert Can](https://open.spotify.com/artist/049qisXXHEXKQSQqzbr14Q), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Heathens](https://open.spotify.com/album/4hBQw4a5SKxUV7Dv3vA4F2) | 2:08 | 2021-12-16 | 2022-06-08 |
 | [Heaven Lights](https://open.spotify.com/track/7ybdtQOu67e6GsvOc0qqOw) | [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf), [Wyko](https://open.spotify.com/artist/01lJ7aW7Z1NAZxIPc50x7N), [Kamix](https://open.spotify.com/artist/25ZeB1AeLY6rRJjv3qZTlx) | [Heaven Lights](https://open.spotify.com/album/6PADpbg9EB7qizfqXsuPLR) | 2:25 | 2022-01-06 | 2022-05-25 |
@@ -661,6 +662,7 @@
 | [Mera E](https://open.spotify.com/track/3IBIfOeAb1jmiFPokguGCQ) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Mera E](https://open.spotify.com/album/4Bq39X6FqqE8iQQt7VnEBk) | 2:04 | 2021-12-16 | 2022-04-14 |
 | [Mera Eva](https://open.spotify.com/track/5KNNHlJw4DOKjxrs8LxHtL) | [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf) | [Mera Eva](https://open.spotify.com/album/4986vDC7DMN8nsPPArb5hq) | 2:23 | 2021-12-16 | 2022-07-21 |
 | [Midnight Runners](https://open.spotify.com/track/6SOzKLfNIPUFCbhYQ5vCF3) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Midnight Runners](https://open.spotify.com/album/0wtF19t93sFbsWhyGzvUNf) | 3:34 | 2021-12-16 | 2022-06-04 |
+| [MIDSOMMARSOL](https://open.spotify.com/track/6gppqZzdAJHSjzCFsvYbjI) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [DJ BERIT](https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI), [LUREBUS](https://open.spotify.com/artist/0wiMDZudqaqFP5O5FQEPWy) | [MIDSOMMARSOL](https://open.spotify.com/album/6477868XVzl7I7cIU6R3Zd) | 1:53 | 2024-07-04 |  |
 | [MIN EPA](https://open.spotify.com/track/6SM1zZLEWjkD4Pr8j9spxn) | [RAGGARSVINET](https://open.spotify.com/artist/36nIhRqcdo4CCcCl3Eadgp) | [MIN EPA](https://open.spotify.com/album/7ulLbQVfefi4RYmd9DVzC0) | 1:48 | 2022-09-29 | 2022-11-04 |
 | [MIN KÄRA MAMMA](https://open.spotify.com/track/5hFzPWi9fAXzrEuuL6Sufn) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [MIN KÄRA MAMMA](https://open.spotify.com/album/0Pxynl2BaH8hA0jIrnlPVO) | 2:18 | 2023-03-16 | 2023-04-14 |
 | [Min Ponny \(min kära lilla ponny\)](https://open.spotify.com/track/3nlmYsWXQLcsXOWJEPc21E) | [Dolores](https://open.spotify.com/artist/4qyhURA0g9oibogcNPMZaP) | [Du är så söt, min kära lilla ponny](https://open.spotify.com/album/1oPeMx3wcZuzr6WM4720AB) | 2:01 | 2023-11-16 | 2024-06-07 |
@@ -1105,6 +1107,7 @@
 | [Violin](https://open.spotify.com/track/2L1AKmvqjSLPdm2OWYvm3I) | [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s), [Popcorn!](https://open.spotify.com/artist/2ghlJsDAq3yMB04J7AgfwJ), [Medon](https://open.spotify.com/artist/1qgI7Ho1Ky0EbmK9JhWg5J) | [Violin](https://open.spotify.com/album/1QtiKaqaRb1r7Em0s6flNh) | 2:19 | 2021-12-16 | 2022-04-22 |
 | [VIP](https://open.spotify.com/track/58QoOmzoDZWkvFHaMyH0l7) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [VIP](https://open.spotify.com/album/57My92fAkm8NMlXI5y8s9x) | 2:30 | 2022-03-24 | 2022-10-21 |
 | [VIVA LA GUNILLA \- MADNEZZ SPED UP REMIX](https://open.spotify.com/track/1lFbLg9oKO5F0XZ9zWqKJl) | [Gunilla Persson](https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE), [MADNEZZ](https://open.spotify.com/artist/5lmx6s9v76pWT7alLaiL9b) | [VIVA LA GUNILLA \(MADNEZZ SPED UP REMIX\)](https://open.spotify.com/album/28wCPnkNDu3xBwHTSy44iH) | 1:57 | 2024-05-23 |  |
+| [Viva La Vida](https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Viva La Vida](https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX) | 2:27 | 2024-07-04 |  |
 | [VOI TILL MIN FUCKBOI](https://open.spotify.com/track/7MVDhCrcjzdEdZbOkZa2XV) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [VOI TILL MIN FUCKBOI](https://open.spotify.com/album/2CuUNP6q3OohkEEUw2orgT) | 2:22 | 2024-04-04 |  |
 | [Voltage](https://open.spotify.com/track/7z3kQQICDz1iLkfo7j1lOV) | [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s), [Popcorn!](https://open.spotify.com/artist/2ghlJsDAq3yMB04J7AgfwJ) | [Voltage](https://open.spotify.com/album/5mXvnVtQEvsg8DptdcHfxk) | 2:27 | 2021-12-16 | 2022-07-29 |
 | [VOLVO 142](https://open.spotify.com/track/0X9q2JqNNK93TEy4M8TWuT) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [VOLVO 142](https://open.spotify.com/album/5OY3p14hOJawBnOBSUgeec) | 2:36 | 2023-10-26 | 2024-01-26 |

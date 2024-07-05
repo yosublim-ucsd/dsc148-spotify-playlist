@@ -445,6 +445,32 @@
     },
     {
       "album": {
+        "name": "following the sun",
+        "url": "https://open.spotify.com/album/5JfGHc9PJTUkB9sZxny5EH"
+      },
+      "artists": [
+        {
+          "name": "rayn",
+          "url": "https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM"
+        },
+        {
+          "name": "julien",
+          "url": "https://open.spotify.com/artist/0Er19QHYcwlekKGGUPd3xU"
+        },
+        {
+          "name": "cloudseven",
+          "url": "https://open.spotify.com/artist/127ajarXOJFUfRFivWi49v"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137727,
+      "name": "following the sun",
+      "url": "https://open.spotify.com/track/74hbbkkUoVYOZAuGuo7YoN"
+    },
+    {
+      "album": {
         "name": "Fool",
         "url": "https://open.spotify.com/album/59MIK4KTZFe2s8Ibd3QHht"
       },
@@ -985,6 +1011,32 @@
     },
     {
       "album": {
+        "name": "Rock N Roll Style",
+        "url": "https://open.spotify.com/album/3ZqaShirb0rDd77DIKiDmj"
+      },
+      "artists": [
+        {
+          "name": "CALEIDESCOPE",
+          "url": "https://open.spotify.com/artist/40Cha4Qon7sdhQIBkZwlQl"
+        },
+        {
+          "name": "WhiteCapMusic",
+          "url": "https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB"
+        },
+        {
+          "name": "FSDW",
+          "url": "https://open.spotify.com/artist/4RPg75BaMIfyBb94V8HqCw"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174211,
+      "name": "Rock N Roll Style",
+      "url": "https://open.spotify.com/track/21UzAA0Sq5Vgaf3OYcqxZ0"
+    },
+    {
+      "album": {
         "name": "Talk To My Body",
         "url": "https://open.spotify.com/album/7195Cy2KrFsFpizBGCTaKO"
       },
@@ -1144,6 +1196,24 @@
       "duration_ms": 157560,
       "name": "Walk Away (feat. Harina)",
       "url": "https://open.spotify.com/track/32EmnwWkI6hzzZUiuJuGlW"
+    },
+    {
+      "album": {
+        "name": "Waste My Love",
+        "url": "https://open.spotify.com/album/3wr9l21vbfevI6k2VmGiQX"
+      },
+      "artists": [
+        {
+          "name": "BELLA X",
+          "url": "https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127055,
+      "name": "Waste My Love",
+      "url": "https://open.spotify.com/track/0iGZTAq3zdC56ClfZ06na0"
     },
     {
       "album": {

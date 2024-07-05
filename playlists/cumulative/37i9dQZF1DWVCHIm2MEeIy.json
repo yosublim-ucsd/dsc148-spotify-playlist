@@ -480,7 +480,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 366614,
       "name": "Betrayal",
       "url": "https://open.spotify.com/track/6a25inJpWjDP9WwKgO8gFI"
@@ -5173,6 +5173,28 @@
     },
     {
       "album": {
+        "name": "The Pledge",
+        "url": "https://open.spotify.com/album/1HKLAFY8fdSVaHGYF1cR7i"
+      },
+      "artists": [
+        {
+          "name": "MRAK",
+          "url": "https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234285,
+      "name": "Never Ends (MRAK & Omnya Remix)",
+      "url": "https://open.spotify.com/track/3B3ORyFgJrlEpHRtqrOYe8"
+    },
+    {
+      "album": {
         "name": "Night Shadows",
         "url": "https://open.spotify.com/album/4utOYP6QynCmhWYB6qTNr6"
       },
@@ -5242,7 +5264,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 277756,
       "name": "No",
       "url": "https://open.spotify.com/track/1gIbfk61xu2QrKiAGfQnL3"
@@ -6444,7 +6466,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 425927,
       "name": "Rise Of The 2nd Sun",
       "url": "https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5"
@@ -7746,6 +7768,28 @@
       "duration_ms": 416502,
       "name": "The World Beyond",
       "url": "https://open.spotify.com/track/5zb4897baRg1VyAWz8Eza6"
+    },
+    {
+      "album": {
+        "name": "The Pledge",
+        "url": "https://open.spotify.com/album/1HKLAFY8fdSVaHGYF1cR7i"
+      },
+      "artists": [
+        {
+          "name": "MRAK",
+          "url": "https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215693,
+      "name": "The World Is Yours",
+      "url": "https://open.spotify.com/track/6K9pYyxTDqXWXxGJbzxGAM"
     },
     {
       "album": {

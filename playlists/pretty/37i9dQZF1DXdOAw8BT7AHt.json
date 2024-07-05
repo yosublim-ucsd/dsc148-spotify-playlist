@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Speed",
-  "num_followers": 453869,
+  "num_followers": 454711,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
+        "name": "stone cold summer",
+        "url": "https://open.spotify.com/album/3fQgWMLRBqYqGgB1mhSAmi"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "duration_ms": 167829,
+      "name": "stone cold summer",
+      "url": "https://open.spotify.com/track/6o8okNBgNmV2ccqNYRFzrg"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
         "name": "CRIMINAL",
         "url": "https://open.spotify.com/album/6tYOhX9KBCYw780fKofaW5"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 227258,
       "name": "CRIMINAL",
       "url": "https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
-        "name": "stone cold summer",
-        "url": "https://open.spotify.com/album/3fQgWMLRBqYqGgB1mhSAmi"
-      },
-      "artists": [
-        {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
-        }
-      ],
-      "duration_ms": 167829,
-      "name": "stone cold summer",
-      "url": "https://open.spotify.com/track/6o8okNBgNmV2ccqNYRFzrg"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "Mob DLA",
-        "url": "https://open.spotify.com/album/5e13yCtWWb0HlXbExrGWYw"
-      },
-      "artists": [
-        {
-          "name": "High Vis",
-          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
-        }
-      ],
-      "duration_ms": 149397,
-      "name": "Mob DLA",
-      "url": "https://open.spotify.com/track/2aeOHlYvx9IIdWmyTiQelk"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
         "name": "California Sober",
         "url": "https://open.spotify.com/album/7gI0X71p03RtZMYpyCgtY9"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 249586,
       "name": "Gift Horse",
       "url": "https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "Mob DLA",
+        "url": "https://open.spotify.com/album/5e13yCtWWb0HlXbExrGWYw"
+      },
+      "artists": [
+        {
+          "name": "High Vis",
+          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
+        }
+      ],
+      "duration_ms": 149397,
+      "name": "Mob DLA",
+      "url": "https://open.spotify.com/track/2aeOHlYvx9IIdWmyTiQelk"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -615,38 +615,6 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "Gone West",
-        "url": "https://open.spotify.com/album/6rm78pZdijc1glSgW5NYXr"
-      },
-      "artists": [
-        {
-          "name": "The Menzingers",
-          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
-        }
-      ],
-      "duration_ms": 166618,
-      "name": "Gone West",
-      "url": "https://open.spotify.com/track/3NXT9lETZWovExuaUpRf0I"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
-        "name": "Swing and Sway",
-        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
-      },
-      "artists": [
-        {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
-        }
-      ],
-      "duration_ms": 178253,
-      "name": "Swing and Sway",
-      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
         "name": "Still Nervous",
         "url": "https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh"
       },
@@ -679,6 +647,38 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
+        "name": "Swing and Sway",
+        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "duration_ms": 178253,
+      "name": "Swing and Sway",
+      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "Gone West",
+        "url": "https://open.spotify.com/album/6rm78pZdijc1glSgW5NYXr"
+      },
+      "artists": [
+        {
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
+        }
+      ],
+      "duration_ms": 166618,
+      "name": "Gone West",
+      "url": "https://open.spotify.com/track/3NXT9lETZWovExuaUpRf0I"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
         "name": "No Backbone",
         "url": "https://open.spotify.com/album/1HTERR04ZhV8lRaxlvYBeL"
       },
@@ -691,22 +691,6 @@
       "duration_ms": 137076,
       "name": "No Backbone",
       "url": "https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
-        "name": "Approachable",
-        "url": "https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "Approachable",
-      "url": "https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -727,18 +711,18 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "Half Album",
-        "url": "https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD"
+        "name": "Approachable",
+        "url": "https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl"
       },
       "artists": [
         {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
         }
       ],
-      "duration_ms": 370939,
-      "name": "The Last Drag",
-      "url": "https://open.spotify.com/track/6YgLfZRRyZ22lYuEMg5rC7"
+      "duration_ms": 240973,
+      "name": "Approachable",
+      "url": "https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -759,6 +743,22 @@
       "duration_ms": 197837,
       "name": "Sail Away",
       "url": "https://open.spotify.com/track/1zBKzHhW0JDglXhGuI0Yzh"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "Half Album",
+        "url": "https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 370939,
+      "name": "The Last Drag",
+      "url": "https://open.spotify.com/track/6YgLfZRRyZ22lYuEMg5rC7"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -795,38 +795,6 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "Found a Job",
-        "url": "https://open.spotify.com/album/2Og3RBFo4N89O90dYQctX7"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 252133,
-      "name": "Found a Job",
-      "url": "https://open.spotify.com/track/2nm6tAe3rTXi7gDaYtgms6"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
-        "name": "\u2026Is Committed",
-        "url": "https://open.spotify.com/album/18vdykeYJ7P2DTvRgKq64R"
-      },
-      "artists": [
-        {
-          "name": "Say Anything",
-          "url": "https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4"
-        }
-      ],
-      "duration_ms": 168619,
-      "name": "AUTO-HARMONIC ASS FIXATION",
-      "url": "https://open.spotify.com/track/4yqxgmvuMVRoKpwTpmcIKL"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
         "name": "God's Country / Body of Mine",
         "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
       },
@@ -839,6 +807,22 @@
       "duration_ms": 131161,
       "name": "Body of Mine",
       "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "Found a Job",
+        "url": "https://open.spotify.com/album/2Og3RBFo4N89O90dYQctX7"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 252133,
+      "name": "Found a Job",
+      "url": "https://open.spotify.com/track/2nm6tAe3rTXi7gDaYtgms6"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -859,6 +843,38 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
+        "name": "Big Black X",
+        "url": "https://open.spotify.com/album/7gD1uFkXuGufNdq34F5Pa0"
+      },
+      "artists": [
+        {
+          "name": "X",
+          "url": "https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Big Black X",
+      "url": "https://open.spotify.com/track/3RsXpoUjM75M2tsiunmqMQ"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "\u2026Is Committed",
+        "url": "https://open.spotify.com/album/18vdykeYJ7P2DTvRgKq64R"
+      },
+      "artists": [
+        {
+          "name": "Say Anything",
+          "url": "https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4"
+        }
+      ],
+      "duration_ms": 168619,
+      "name": "AUTO-HARMONIC ASS FIXATION",
+      "url": "https://open.spotify.com/track/4yqxgmvuMVRoKpwTpmcIKL"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
         "name": "Antidote",
         "url": "https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "Big Black X",
-        "url": "https://open.spotify.com/album/7gD1uFkXuGufNdq34F5Pa0"
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc"
       },
       "artists": [
         {
-          "name": "X",
-          "url": "https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K"
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
         }
       ],
-      "duration_ms": 214973,
-      "name": "Big Black X",
-      "url": "https://open.spotify.com/track/3RsXpoUjM75M2tsiunmqMQ"
+      "duration_ms": 219720,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -911,22 +927,6 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc"
-      },
-      "artists": [
-        {
-          "name": "Kid Kapichi",
-          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
         "name": "The Twits",
         "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
       },
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "Stormy Weather",
-        "url": "https://open.spotify.com/album/27nbEvefyBeXYdC20NlP6D"
-      },
-      "artists": [
-        {
-          "name": "Bearings",
-          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
-        }
-      ],
-      "duration_ms": 153411,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/1OVZlRUXlkLOpWMj3cjlNt"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
         "name": "Break You",
         "url": "https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 139593,
       "name": "Break You",
       "url": "https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "Stormy Weather",
+        "url": "https://open.spotify.com/album/27nbEvefyBeXYdC20NlP6D"
+      },
+      "artists": [
+        {
+          "name": "Bearings",
+          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
+        }
+      ],
+      "duration_ms": 153411,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/1OVZlRUXlkLOpWMj3cjlNt"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "Ruiner",
-        "url": "https://open.spotify.com/album/091osy7G7DbCy5NuBjbAJg"
-      },
-      "artists": [
-        {
-          "name": "The Spill Canvas",
-          "url": "https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj"
-        }
-      ],
-      "duration_ms": 202331,
-      "name": "Ruiner",
-      "url": "https://open.spotify.com/track/36WpXM0TQtY7PGCAbIvpb1"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
         "name": "Fascist Bob",
         "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 116240,
       "name": "Fascist Bob",
       "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "Ruiner",
+        "url": "https://open.spotify.com/album/091osy7G7DbCy5NuBjbAJg"
+      },
+      "artists": [
+        {
+          "name": "The Spill Canvas",
+          "url": "https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj"
+        }
+      ],
+      "duration_ms": 202331,
+      "name": "Ruiner",
+      "url": "https://open.spotify.com/track/36WpXM0TQtY7PGCAbIvpb1"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "Churro",
-        "url": "https://open.spotify.com/album/3LoEELocgdXod9VQvLHxai"
-      },
-      "artists": [
-        {
-          "name": "N8NOFACE",
-          "url": "https://open.spotify.com/artist/0HlRzJcjY69mM3nW2Xvrzi"
-        },
-        {
-          "name": "Conejo",
-          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
-        }
-      ],
-      "duration_ms": 154561,
-      "name": "Churro",
-      "url": "https://open.spotify.com/track/0OsN5xY2fdSmCMSUobmKUl"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
         "name": "Far Out, Bro (Feat. Daryl Taberski of Snapcase)",
         "url": "https://open.spotify.com/album/3DWnpS0PYuV1ELuWmH75pm"
       },
@@ -1291,6 +1271,26 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
+        "name": "Churro",
+        "url": "https://open.spotify.com/album/3LoEELocgdXod9VQvLHxai"
+      },
+      "artists": [
+        {
+          "name": "N8NOFACE",
+          "url": "https://open.spotify.com/artist/0HlRzJcjY69mM3nW2Xvrzi"
+        },
+        {
+          "name": "Conejo",
+          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
+        }
+      ],
+      "duration_ms": 154561,
+      "name": "Churro",
+      "url": "https://open.spotify.com/track/0OsN5xY2fdSmCMSUobmKUl"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
         "name": "Youth",
         "url": "https://open.spotify.com/album/4yyDhCb1DBkS0VGy3L4fOa"
       },
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "Before I Die",
-        "url": "https://open.spotify.com/album/61B7Jjcy1ccw5KnXEebj3T"
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/0LM6iYcA8RxgcHwR0J4yN8"
       },
       "artists": [
         {
-          "name": "Footballhead",
-          "url": "https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd"
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
         }
       ],
-      "duration_ms": 173269,
-      "name": "Before I Die",
-      "url": "https://open.spotify.com/track/7BcTWgmZQp5Ueu3XdjCdFY"
+      "duration_ms": 221465,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/3dTlvE1QJ0UaZ1imdtA0Ot"
     }
   ],
   "unique_name": "Today's Punk",

@@ -2,9 +2,9 @@
 
 ### [Alt\. Ghana](https://open.spotify.com/playlist/37i9dQZF1DWTNJatHBkbx9)
 
-> From the alternative scene in Ghana\. Cover: SUPERJAZZCLUB
+> From the alternative scene in Ghana\. Cover: $pacely
 
-86 songs - 4 hr 13 min
+88 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A POET's BOOK](https://open.spotify.com/track/4E38NnL7k4ttirYrJ7Hxve) | [Jayadi](https://open.spotify.com/artist/4mfk4OCq0FQMYKEJsFjdAl) | [A POET's BOOK](https://open.spotify.com/album/631de2gJdyYojP3aixNqyq) | 2:04 | 2024-05-10 |  |
 | [Abyss](https://open.spotify.com/track/1c3Uvil5DpA6FfFPIi4914) | [Ess thee Legend](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA) | [Abyss](https://open.spotify.com/album/3SVQB6dIQvEaXe53CbZ1QQ) | 2:53 | 2024-05-10 |  |
 | [ACT A FOOL](https://open.spotify.com/track/7DR5U9CtjI9CTFXSAmD0Am) | [ALL MY COUSINS](https://open.spotify.com/artist/0sFj0XrhYtB62oLzheZ8Bm) | [ACT A FOOL](https://open.spotify.com/album/6wag0cQoAza8BuLTLkfPbI) | 2:35 | 2024-05-10 |  |
+| [Agoro](https://open.spotify.com/track/5JemrWFhAJqMgVp2nli7ly) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Agoro](https://open.spotify.com/album/02tQEc4LhQ8O18IIx5p3Yr) | 2:12 | 2024-07-05 |  |
 | [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 | 2024-05-10 |  |
 | [Aquamarie Luvs Ecstasy](https://open.spotify.com/track/0xIy8FcIz088Ec4dxslUtm) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 4:38 | 2024-05-10 |  |
 | [Ascension](https://open.spotify.com/track/5lAuNmFdgHCFgwAPp1WYnJ) | [Corby](https://open.spotify.com/artist/4uHKRVYCZ4sT0EtrlemkT4) | [Ascension](https://open.spotify.com/album/6tXOMXO3H2JD4ZOqcEw0SB) | 2:18 | 2024-05-10 | 2024-05-18 |
@@ -56,6 +57,7 @@
 | [Menko Me Hemaa](https://open.spotify.com/track/3PgrIynhIQ1veOjGDCWroU) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL) | [Menko Me Hemaa](https://open.spotify.com/album/2DBshbcvgxUz5dk2pC2QMD) | 3:00 | 2024-05-10 |  |
 | [No Love](https://open.spotify.com/track/60Jmu3k25uJpIstSpiNAfM) | [Auds](https://open.spotify.com/artist/1aFw1fZWs3zT6r74Kimn2d) | [NO LOVE](https://open.spotify.com/album/1HzsPYXeUzTBJHz3NAxrbY) | 2:44 | 2024-05-17 |  |
 | [Nobody](https://open.spotify.com/track/5qecyCoEoIhKUf47iT67qA) | [Titi Owusu](https://open.spotify.com/artist/1zFAZYHVVh6hgb0q6dVaVV) | [Nobody](https://open.spotify.com/album/4FTBxW8fSHSZwHg69DbWso) | 2:40 | 2024-05-31 |  |
+| [Nonsense](https://open.spotify.com/track/2dKzxUbmDLscf0Wu7EkR3E) | [Wanzam The Classic Dj](https://open.spotify.com/artist/0bTKup0wxXNlwzrNvjZvEx), [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M), [Gaga Ranks](https://open.spotify.com/artist/7utvjdqhdvjjKMEx96KSpt) | [Nonsense](https://open.spotify.com/album/1XDyC4cV2UNE4pmV3hdf0e) | 2:52 | 2024-07-05 |  |
 | [Not Yet](https://open.spotify.com/track/2r6byHfJyDmY7COr5cHLbK) | [Ari Rei](https://open.spotify.com/artist/1UjKYaSaIIABUpkOVxvcPo) | [Not Yet](https://open.spotify.com/album/6SDFshZ7AQfrahxEFaaxeD) | 2:41 | 2024-05-24 | 2024-06-21 |
 | [OFF](https://open.spotify.com/track/2Jkf8z4byKRKRxKmb93U0D) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [OFF](https://open.spotify.com/album/5bEUic0KdaCrouhSB7HFuY) | 3:08 | 2024-05-10 | 2024-05-24 |
 | [Okay](https://open.spotify.com/track/4sGtnz2R0QTfSpf0z4FQBx) | [Paapa Versa](https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41) | [Okay](https://open.spotify.com/album/1UGLQEvDpRqnyxgL33rOmt) | 2:32 | 2024-05-10 | 2024-05-17 |

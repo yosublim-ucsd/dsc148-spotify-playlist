@@ -1,6 +1,6 @@
 {
   "description": "\u0427\u0430\u0441 \u043f\u0435\u0440\u0435\u043f\u043e\u0447\u0438\u0442\u0438 \ud83c\udf3b\ud83c\udfd5\ufe0f\ud83e\uddc1",
-  "num_followers": 29835,
+  "num_followers": 29848,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
-        "name": "I tell everyone about you",
-        "url": "https://open.spotify.com/album/5OAjZsMKliYqXaKsTZZnXf"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 180558,
-      "name": "I tell everyone about you",
-      "url": "https://open.spotify.com/track/7BmXvGEFDk8uPudvlJPCcB"
-    },
-    {
-      "added_at": "2024-06-14 15:04:17",
-      "album": {
         "name": "\u0422\u0438 \u0442\u0430\u043a \u043c\u0430\u043b\u043e \u0433\u043e\u0432\u043e\u0440\u0438\u0448",
         "url": "https://open.spotify.com/album/2SFJTC1JEUbcj5Wuahvitl"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 152608,
       "name": "\u0422\u0438 \u0442\u0430\u043a \u043c\u0430\u043b\u043e \u0433\u043e\u0432\u043e\u0440\u0438\u0448",
       "url": "https://open.spotify.com/track/7mmU3dlHNkrA8sjaT4l03s"
+    },
+    {
+      "added_at": "2024-06-14 15:04:17",
+      "album": {
+        "name": "I tell everyone about you",
+        "url": "https://open.spotify.com/album/5OAjZsMKliYqXaKsTZZnXf"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 180558,
+      "name": "I tell everyone about you",
+      "url": "https://open.spotify.com/track/7BmXvGEFDk8uPudvlJPCcB"
     },
     {
       "added_at": "2024-06-14 15:04:17",
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
-        "name": "Made You Up",
-        "url": "https://open.spotify.com/album/1LKoQv3Mu0DDPt9lRoYuD0"
+        "name": "\u041b\u0456\u0442\u0435\u043f\u043b\u043e",
+        "url": "https://open.spotify.com/album/1mgFYpASAWkMjxQPU0N9r0"
       },
       "artists": [
         {
-          "name": "Tamara Kramar",
-          "url": "https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT"
+          "name": "KRUT\u042c",
+          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
         }
       ],
-      "duration_ms": 166245,
-      "name": "Made You Up",
-      "url": "https://open.spotify.com/track/6hZ4lvDpEsIxCjNziyMC5s"
+      "duration_ms": 177468,
+      "name": "\u041b\u0435\u0441\u044f",
+      "url": "https://open.spotify.com/track/6YVPwRSKMr6SnOBtbdJa1m"
     },
     {
       "added_at": "2024-06-14 15:04:17",
@@ -551,18 +551,18 @@
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
-        "name": "\u041b\u0456\u0442\u0435\u043f\u043b\u043e",
-        "url": "https://open.spotify.com/album/1mgFYpASAWkMjxQPU0N9r0"
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/03g79cWftoGqwO48vn9wOn"
       },
       "artists": [
         {
-          "name": "KRUT\u042c",
-          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
+          "name": "Tamara Kramar",
+          "url": "https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT"
         }
       ],
-      "duration_ms": 177468,
-      "name": "\u041b\u0435\u0441\u044f",
-      "url": "https://open.spotify.com/track/6YVPwRSKMr6SnOBtbdJa1m"
+      "duration_ms": 203895,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/2MKUKzxL3U4bZ12QYhRS4i"
     },
     {
       "added_at": "2024-06-14 15:04:17",
@@ -663,8 +663,8 @@
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/03g79cWftoGqwO48vn9wOn"
+        "name": "Made You Up",
+        "url": "https://open.spotify.com/album/1LKoQv3Mu0DDPt9lRoYuD0"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT"
         }
       ],
-      "duration_ms": 203895,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/2MKUKzxL3U4bZ12QYhRS4i"
+      "duration_ms": 166245,
+      "name": "Made You Up",
+      "url": "https://open.spotify.com/track/6hZ4lvDpEsIxCjNziyMC5s"
     },
     {
       "added_at": "2024-06-14 15:04:17",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
-        "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
-        "url": "https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ"
-      },
-      "artists": [
-        {
-          "name": "\u041b\u0456\u0432\u0456\u043d\u0441\u0442\u043e\u043d",
-          "url": "https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
-      "url": "https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07"
-    },
-    {
-      "added_at": "2024-06-14 15:04:17",
-      "album": {
         "name": "\u0421\u043e\u043b\u043e\u0432'\u0457",
         "url": "https://open.spotify.com/album/1RltwzS3oGphyquYRIReC4"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 143953,
       "name": "\u0421\u043e\u043b\u043e\u0432'\u0457",
       "url": "https://open.spotify.com/track/2LFs6apdfs1cIkrVscZpca"
+    },
+    {
+      "added_at": "2024-06-14 15:04:17",
+      "album": {
+        "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
+        "url": "https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ"
+      },
+      "artists": [
+        {
+          "name": "\u041b\u0456\u0432\u0456\u043d\u0441\u0442\u043e\u043d",
+          "url": "https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
+      "url": "https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07"
     },
     {
       "added_at": "2024-06-14 15:04:17",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
+        "name": "\u0422\u0438 \u0441\u043e\u043d\u0446\u0435 \u044f \u0441\u043d\u0456\u0433",
+        "url": "https://open.spotify.com/album/4Fe2mgI9EEtrGj24IZcmpM"
+      },
+      "artists": [
+        {
+          "name": "ba.latskii",
+          "url": "https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz"
+        }
+      ],
+      "duration_ms": 233777,
+      "name": "\u0422\u0438 \u0441\u043e\u043d\u0446\u0435 \u044f \u0441\u043d\u0456\u0433",
+      "url": "https://open.spotify.com/track/22kDdPFzyCHbqQC05fb1dz"
+    },
+    {
+      "added_at": "2024-06-14 15:04:17",
+      "album": {
         "name": "Can You Believe",
         "url": "https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 268618,
       "name": "\u0417\u0435\u043c\u043b\u044f",
       "url": "https://open.spotify.com/track/6f8g9KiXUOtisu8NTTKm13"
-    },
-    {
-      "added_at": "2024-06-14 15:04:17",
-      "album": {
-        "name": "\u0422\u0438 \u0441\u043e\u043d\u0446\u0435 \u044f \u0441\u043d\u0456\u0433",
-        "url": "https://open.spotify.com/album/4Fe2mgI9EEtrGj24IZcmpM"
-      },
-      "artists": [
-        {
-          "name": "ba.latskii",
-          "url": "https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz"
-        }
-      ],
-      "duration_ms": 233777,
-      "name": "\u0422\u0438 \u0441\u043e\u043d\u0446\u0435 \u044f \u0441\u043d\u0456\u0433",
-      "url": "https://open.spotify.com/track/22kDdPFzyCHbqQC05fb1dz"
     }
   ],
   "unique_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",

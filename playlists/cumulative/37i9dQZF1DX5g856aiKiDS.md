@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-310 songs - 17 hr 24 min
+311 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Love like that](https://open.spotify.com/track/4WdOTZKQ9HzUqo5VEGiLGf) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Absence 'Side A'](https://open.spotify.com/album/294edGP7qQdiIXxZlQNPki) | 3:35 | 2023-09-04 | 2024-04-19 |
 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 | 2022-04-12 | 2023-07-08 |
 | [love on cruise \(feat\. CRUCiAL STAR\)](https://open.spotify.com/track/77gMrFObYyk1WnyQSLBb4g) | [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [love on cruise \(feat\. CRUCiAL STAR\)](https://open.spotify.com/album/1LbbrnPNjFiG3rF5VSlnbL) | 3:28 | 2023-11-04 | 2023-11-16 |
+| [LOVE RECIPE](https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [WONDO Project : LOVE RECIPE, Vol.1](https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7) | 3:51 | 2024-07-04 |  |
 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 | 2022-11-03 | 2023-05-23 |
 | [Love to Hate You](https://open.spotify.com/track/3yyyNGcVpZiUydyaDJgegP) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Love to Hate You, Pt\. 3 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0LKzvEeYhFKchC5hBWkfJx) | 3:20 | 2023-02-24 | 2023-04-13 |
 | [Love Yourself \(feat\. Kelsey Kuan\)](https://open.spotify.com/track/5B0Ki3CZf0mzoN0lLWPcnF) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Symphony](https://open.spotify.com/album/1GwDKLnH82W2m2BBWf3gbS) | 3:14 | 2023-01-05 | 2023-01-14 |
@@ -263,7 +264,7 @@
 | [The Space Between](https://open.spotify.com/track/0lBeCroAGkEdjwKZ3xfcLg) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf) | [SoYou X Urban Zakapa \(Kwon Soonil & Park Yongin\) 'The Space Between'](https://open.spotify.com/album/0vNqTP8EJiXY2XU7YTnTKx) | 3:31 | 2022-04-12 | 2022-04-21 |
 | [The Sweetest Love](https://open.spotify.com/track/69Ht2mj09Y3KCTg57sCsgb) | [Ham Yonji](https://open.spotify.com/artist/0ApM8QPEnTUN5RU5Qh6W5F) | [Dali and Cocky Prince \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/5nvsIWsZSEfgxZDQLmbaJs) | 2:52 | 2022-04-12 | 2022-04-21 |
 | [Thief \(Feat\. MINNIE of \(G\)I\-DLE\)](https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:33 | 2022-07-04 | 2022-08-19 |
-| [Think About' Chu](https://open.spotify.com/track/3e0VhBdgJLUhI1ErcrY64B) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Boys and Girls Music Vol.1](https://open.spotify.com/album/7JHMwCyGG1plb2QGOXSHB6) | 3:59 | 2024-03-21 |  |
+| [Think About' Chu](https://open.spotify.com/track/3e0VhBdgJLUhI1ErcrY64B) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Boys and Girls Music Vol.1](https://open.spotify.com/album/7JHMwCyGG1plb2QGOXSHB6) | 3:59 | 2024-03-21 | 2024-07-05 |
 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 | 2022-07-04 | 2022-07-09 |
 | [Time Machine](https://open.spotify.com/track/0tZzmBIxQbjpTVU7Aanj4J) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Time Machine](https://open.spotify.com/album/6eF7NbhQGi4LL2HIxMULBk) | 3:25 | 2022-04-21 | 2022-07-28 |
 | [time to be with you](https://open.spotify.com/track/7MdF5reoWTTno0XWAuUnZG) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Jword](https://open.spotify.com/artist/6Dp6OYo93kad6QAcXezQRq), [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL) | [time to be with you](https://open.spotify.com/album/6VsK76kmWXbgdt7KbiqEGC) | 4:03 | 2022-04-21 | 2022-07-24 |

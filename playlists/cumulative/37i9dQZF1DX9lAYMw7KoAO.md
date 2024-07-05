@@ -2,9 +2,9 @@
 
 ### [African Gospel Hits](https://open.spotify.com/playlist/37i9dQZF1DX9lAYMw7KoAO)
 
-> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj?si=J8DX32QbTSKCItu4mV40xQ">Sinmidele</a>
+> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=DlVGm6ZJTgmGTDn5Q9qKKQ">Sunmisola Agbebi</a>
 
-424 songs - 1 day 12 hr 52 min
+425 songs - 1 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Adom Grace](https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Adom Grace](https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ) | 4:50 | 2020-09-17 | 2023-04-14 |
 | [Adonai](https://open.spotify.com/track/1YJu9epNBMoQfF1EffjwiY) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Adonai](https://open.spotify.com/album/6FLiEFzCVibo1ptdlzXP4D) | 4:09 | 2023-06-16 |  |
 | [Ah Ya Ya](https://open.spotify.com/track/2up5Sc4s1sh7HhY5VkeAoI) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [Minister Jayclef](https://open.spotify.com/artist/5vTmwsLqMwMpzyeBuq2P8r), [Cee Sharp](https://open.spotify.com/artist/4klUyv1VdiNhMDlWXoZpSN), [Speedy Nasara](https://open.spotify.com/artist/2JHbMnU4IideoZKilIIeVE) | [Ah Ya Ya](https://open.spotify.com/album/3vzzQKuIn0WV58V4DKYZnN) | 3:42 | 2023-04-14 | 2023-06-02 |
+| [Aileyipada](https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Aileyipada](https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ) | 6:35 | 2024-07-05 |  |
 | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/track/2eI4mkTZrQMEty3AOHJBlo) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/album/7bjEV1bDmzGNRgTZhwYoDE) | 4:33 | 2023-06-09 | 2023-06-23 |
 | [Akekho \- Live](https://open.spotify.com/track/1zSO8u1B12TzROgdXNimjb) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Akekho](https://open.spotify.com/album/3lguJGn7be43aOlBAhDqAY) | 5:07 | 2023-12-31 | 2024-01-04 |
 | [All I have is You](https://open.spotify.com/track/7mJ1bWL8MDTQUfK5On1wOi) | [Silver\-Ajifa](https://open.spotify.com/artist/3JnpW6KA64hTOyFotD9bDE) | [All I have is You](https://open.spotify.com/album/3jTu3pt592K1vmiJ27HdYC) | 2:36 | 2023-06-02 | 2023-06-23 |
@@ -282,7 +283,7 @@
 | [Obinigwe](https://open.spotify.com/track/2gfh7QNGVJIdnTA1GSVqnU) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Obinigwe](https://open.spotify.com/album/1ZcK96zMWufzdsMu1yMVmT) | 9:07 | 2021-11-26 | 2022-07-29 |
 | [Obinigwe](https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 9:12 | 2021-11-26 | 2023-04-01 |
 | [Obinigwe](https://open.spotify.com/track/5RvkS0NNUkOoYnDK6xf8xt) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Obinigwe](https://open.spotify.com/album/71H5Wwi06SnNDDJG2XnVoF) | 9:12 | 2021-11-26 | 2022-11-13 |
-| [Ogo](https://open.spotify.com/track/2wKX6c2aXplDCJZT301jBM) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Ogo](https://open.spotify.com/album/6lCqBg5DySvDfvZXNXSURk) | 10:48 | 2023-08-11 |  |
+| [Ogo](https://open.spotify.com/track/2wKX6c2aXplDCJZT301jBM) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Ogo](https://open.spotify.com/album/6lCqBg5DySvDfvZXNXSURk) | 10:48 | 2023-08-11 | 2024-07-05 |
 | [Ogologo](https://open.spotify.com/track/4azoJ0e7rxYKARSzLf2nfX) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [Ogologo](https://open.spotify.com/album/6luZYQRH1UNR87gNL81HjO) | 3:08 | 2023-08-25 | 2023-09-01 |
 | [Okay](https://open.spotify.com/track/03UnPfDS0FvZzi0Z3I7yue) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Okay](https://open.spotify.com/album/7H0fhbJWzN4zP9aPWwSLRl) | 2:35 | 2020-09-17 | 2023-05-05 |
 | [Oluwa](https://open.spotify.com/track/0GemmvjfJSf8MwLMXYdDCx) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Oluwa](https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p) | 2:40 | 2023-08-25 | 2023-09-01 |

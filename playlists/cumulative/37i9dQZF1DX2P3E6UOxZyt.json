@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u6591\u6069 (Ben)",
+  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u6d3e\u5049\u4fca (Patrick Brasca)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -290,6 +290,24 @@
       "duration_ms": 228705,
       "name": "Baby Cakes",
       "url": "https://open.spotify.com/track/45daYf2BsGxDeWUlmX2a2Y"
+    },
+    {
+      "album": {
+        "name": "be mine",
+        "url": "https://open.spotify.com/album/7ykjP8lX5msv0ZjZjykLsh"
+      },
+      "artists": [
+        {
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173854,
+      "name": "be mine",
+      "url": "https://open.spotify.com/track/4Wy1M8fMAgHmLdIDx4upd2"
     },
     {
       "album": {
@@ -598,7 +616,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "CLV",
       "url": "https://open.spotify.com/track/7gh3QqAkJeGSbWTKDopwAd"
@@ -660,7 +678,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 203555,
       "name": "Could Say",
       "url": "https://open.spotify.com/track/5qQNqnKAxjG60Dt8Iv4c4m"
@@ -3484,7 +3502,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 168207,
       "name": "That Guy",
       "url": "https://open.spotify.com/track/1v2aWdfCMOYeyySnXexhPn"
@@ -4206,7 +4224,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 176378,
       "name": "ZENBORGHINI",
       "url": "https://open.spotify.com/track/2gdC1h1TgzjR97gvaDcBkS"
@@ -5026,7 +5044,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 182981,
       "name": "\u4f60\u8b93\u6211",
       "url": "https://open.spotify.com/track/3JNMGo4GhXVFtqO2KNtxbm"
@@ -8058,7 +8076,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 228631,
       "name": "\u6728\u5409\u4ed6\u6c11\u6b4c\u897f\u9910\u5ef3",
       "url": "https://open.spotify.com/track/6ltLMCBb8hrRNWt1ENzoeK"
@@ -8256,7 +8274,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 185808,
       "name": "\u6b78\u5c6c",
       "url": "https://open.spotify.com/track/66BeOoQSwVV1DExeN8XTfZ"

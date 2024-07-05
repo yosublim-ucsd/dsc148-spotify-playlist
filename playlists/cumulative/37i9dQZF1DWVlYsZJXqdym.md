@@ -2,7 +2,7 @@
 
 ### [Happy Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DWVlYsZJXqdym)
 
-> All your favourite mood boosting bangers..\. Cover: Coldplay \#Glastonbury2024
+> All your favourite mood boosting bangers.
 
 160 songs - 7 hr 59 min
 

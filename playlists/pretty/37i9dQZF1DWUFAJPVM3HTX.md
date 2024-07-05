@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY?si=CD7uiJr4QjWzcbKvraT6PA">Greek </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,281 likes - 204 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,388 likes - 204 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 23 | [Malume](https://open.spotify.com/track/7sUyvpVLVGF1STpvi2rjps) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6), [Sai Hle](https://open.spotify.com/artist/5jwK2NSW46p796Xun0s4Tf) | [Malume](https://open.spotify.com/album/0Bgobw9MU5EHzPsgwwUBhL) | 3:45 |
 | 24 | [Soft Girl Era](https://open.spotify.com/track/0J1ulon8vf58gXH9RZdeOU) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06) | [Soft Girl Era](https://open.spotify.com/album/1tWTOhJNzzUT1XvL7fjDSQ) | 2:36 |
 | 25 | [perfect timing](https://open.spotify.com/track/646HOaBSY3LfpbuIAnMrot) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [kame 'n left](https://open.spotify.com/album/0y4FkBE422R6D9C5VWeEh7) | 3:12 |
-| 26 | [Nobody Chase Me](https://open.spotify.com/track/4hK7LsqtEVFmtyVs5tS4ca) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08) | [Nobody Chase Me](https://open.spotify.com/album/1YcaDAxtcfdVgjZYhdRZaR) | 3:10 |
+| 26 | [Nobody Chase Me](https://open.spotify.com/track/4hK7LsqtEVFmtyVs5tS4ca) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Nobody Chase Me](https://open.spotify.com/album/1YcaDAxtcfdVgjZYhdRZaR) | 3:10 |
 | 27 | [WHAT YOU STARTED](https://open.spotify.com/track/7p33kZOiXpk0JiW3sEdD27) | [R3SH](https://open.spotify.com/artist/1ZVh1dGW0ShJyK5Ho7tyPq) | [WHAT YOU STARTED](https://open.spotify.com/album/2R7yKVgTZoMqxMuvLZUvaJ) | 1:20 |
 | 28 | [Dirt Roads](https://open.spotify.com/track/6abgej5aQVjWvSFydjqo6o) | [Tia Wood](https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC) | [Dirt Roads](https://open.spotify.com/album/45mNHIYIE7iJmIMMAMeha9) | 3:12 |
 | 29 | [Lately](https://open.spotify.com/track/5JD0jQyorjikR9rSfjzQo5) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [Lately](https://open.spotify.com/album/0Sfjf90q0L6PrxnHkFsKuw) | 2:26 |

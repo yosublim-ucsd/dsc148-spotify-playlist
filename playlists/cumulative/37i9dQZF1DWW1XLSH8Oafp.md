@@ -2,9 +2,9 @@
 
 ### [planet rave](https://open.spotify.com/playlist/37i9dQZF1DWW1XLSH8Oafp)
 
-> ur on the list bb 🪐 featuring salute, piri
+> ur on the list bb 🪐 featuring BIIANCO
 
-923 songs - 2 day 3 hr 18 min
+925 songs - 2 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Blush Cut](https://open.spotify.com/track/3HaUAMFIw5iZfpO5yOpw2P) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [BABYLON IX](https://open.spotify.com/album/18RD7fs0sVlhy13O8VwN7J) | 3:52 | 2023-04-28 | 2024-01-19 |
 | [Bodiless](https://open.spotify.com/track/28lXXI052MwMKPEwj832Nn) | [Zorza](https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr) | [Bodiless](https://open.spotify.com/album/4ZIxCkK6EwlQSsJIrFfnLo) | 2:54 | 2022-11-03 | 2023-03-29 |
 | [Body Heat](https://open.spotify.com/track/2VPUd42FJQSxKOYjwFeNy7) | [The Pressure](https://open.spotify.com/artist/2VtyXxK4nmVyMRWrcJf8wN) | [Body Heat](https://open.spotify.com/album/0Bmbgr7uBJhdR4BH8LFbUo) | 3:09 | 2023-11-17 | 2024-01-13 |
-| [Boom!!](https://open.spotify.com/track/68QNpbAzIMIz8RRdr9GNcs) | [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Boom!!](https://open.spotify.com/album/6uvNxFdesrrgHath6M2NGs) | 2:12 | 2023-10-06 |  |
+| [Boom!!](https://open.spotify.com/track/68QNpbAzIMIz8RRdr9GNcs) | [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Boom!!](https://open.spotify.com/album/6uvNxFdesrrgHath6M2NGs) | 2:12 | 2023-10-06 | 2024-07-05 |
 | [Born for This](https://open.spotify.com/track/6UmPw1Rv3Ms2kMBdIDrbAh) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Born for This](https://open.spotify.com/album/0mjn9cfTpcgmrLxmnlj7TO) | 2:23 | 2023-12-15 | 2024-01-13 |
 | [Bottle of Bombay](https://open.spotify.com/track/7fxhjn01owKU2TZ2OJ7iG7) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Bottle of Bombay](https://open.spotify.com/album/6ulvGwN90v3vb6GS1EoNLz) | 2:16 | 2022-04-29 | 2022-08-17 |
 | [Boy Next Door](https://open.spotify.com/track/2Oj0gV4VfPwcBjgX1hDoMx) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Boy Next Door](https://open.spotify.com/album/4Bv33Y5ZQPCwB135L78eRH) | 3:15 | 2024-01-29 |  |
@@ -209,7 +209,7 @@
 | [dameda korya](https://open.spotify.com/track/2gwHyMi4WDpv0CTJDF78iC) | [Loli in early 20s](https://open.spotify.com/artist/2E701AAAlg7LthbISEZv0N) | [dameda korya](https://open.spotify.com/album/4rwIQH1OaFzPAZrdbFDZqk) | 2:14 | 2022-09-09 | 2022-10-01 |
 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K) | 2:27 | 2023-10-27 |  |
 | [Dance With Me](https://open.spotify.com/track/7tI027S6KnKQmnjN2uwDfP) | [Symmetrik](https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Dance With Me](https://open.spotify.com/album/2MTBy7JV4GKCmE5wSLEUgN) | 2:28 | 2023-10-20 |  |
-| [Dancing With A Ghost](https://open.spotify.com/track/59l9ToPcTNhaoJRaSnH5Jc) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Dancing With A Ghost](https://open.spotify.com/album/6rRgBjM0ceIiy8MiguAX7D) | 2:33 | 2023-10-06 |  |
+| [Dancing With A Ghost](https://open.spotify.com/track/59l9ToPcTNhaoJRaSnH5Jc) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Dancing With A Ghost](https://open.spotify.com/album/6rRgBjM0ceIiy8MiguAX7D) | 2:33 | 2023-10-06 | 2024-07-05 |
 | [Daydream](https://open.spotify.com/track/4T3VWXlsa1feVAXyDE5V4f) | [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Daydream](https://open.spotify.com/album/41CodDANPLmQrst12l1MAI) | 3:51 | 2022-07-29 | 2022-08-27 |
 | [DC Rot](https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [DC Rot](https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR) | 4:02 | 2022-03-17 | 2022-06-04 |
 | [deAth2Wings](https://open.spotify.com/track/3gDkbsRoHqJpQcDxdy3Hi8) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [deAth2Wings](https://open.spotify.com/album/4j5spNjco82Gq32pJ0HN0N) | 1:51 | 2022-03-18 | 2022-04-16 |
@@ -227,6 +227,7 @@
 | [Distance Between](https://open.spotify.com/track/5v4qeZCfXretKqE04QQILL) | [Will Silver](https://open.spotify.com/artist/0G8Cn9Mrf7SpJ3Ym1w0HgV), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Distance Between](https://open.spotify.com/album/3L43BsCSmsasAEGItEg6Sx) | 4:14 | 2024-06-21 |  |
 | [Distraction](https://open.spotify.com/track/2SfDBMCek2RCwLgSx5Hubm) | [Akemi Fox](https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f) | [Distraction](https://open.spotify.com/album/2Tm6f6agIQ7NK3j1miEaA3) | 2:16 | 2023-04-21 | 2023-05-26 |
 | [District 8](https://open.spotify.com/track/3oXiddNGiWhpmlQCWkJoJ9) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [SYS02](https://open.spotify.com/album/1hWdAnaS9tsIcwYM3hC48Y) | 5:01 | 2022-02-18 | 2022-08-27 |
+| [DJ LULLABY](https://open.spotify.com/track/7L9BXn8a8QLnrO9Gu95Jl3) | [Evissimax](https://open.spotify.com/artist/3KRbZfhEbntEDFNV3b48Cv), [Ayce Bio](https://open.spotify.com/artist/1JJZyzSriYDxn3vp8piOWI) | [REBOOT\-Y](https://open.spotify.com/album/5Y9pJc7aeqjOiTOAzVBjSU) | 4:52 | 2024-07-05 |  |
 | [Do No Wrong](https://open.spotify.com/track/1NbnMc1v8d2mSJBpsGRpfg) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Far Away](https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn) | 1:55 | 2022-04-08 | 2022-06-04 |
 | [Do you miss me?](https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Do you miss me?](https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k) | 2:08 | 2022-11-18 | 2022-12-24 |
 | [Don't Let](https://open.spotify.com/track/44ppHdT8METLfRs30s4zIS) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Don't Let](https://open.spotify.com/album/1ghNHvx6HuoBXaLezY2QmD) | 4:54 | 2021-12-03 | 2022-04-16 |
@@ -777,6 +778,7 @@
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-06 | 2024-03-29 |
 | [Superglue](https://open.spotify.com/track/3e0ZdECpzQAXZIyyI9glBa) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [Superglue](https://open.spotify.com/album/1OEZ2Ct6bMGje4eldWOWjJ) | 2:06 | 2023-02-27 | 2023-05-26 |
 | [Sway \(The Places She Goes\)](https://open.spotify.com/track/01MAfM7gDbLITfH5hzNRnV) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Sway \(The Places She Goes\)](https://open.spotify.com/album/7f1zz0dMUJLwxQjA7JGcCq) | 3:41 | 2022-05-13 | 2022-06-18 |
+| [Switch Up](https://open.spotify.com/track/75EpvWDkENMKxCQ3uln4av) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Switch Up](https://open.spotify.com/album/6ZhbvFMKmjDTGn0RXenWMi) | 2:42 | 2024-07-05 |  |
 | [Switched Up](https://open.spotify.com/track/2r7EsZmUpJS5HktTLb5uqq) | [Jbox](https://open.spotify.com/artist/1AzyQM37FzB6ChE0iJZm77) | [Switched Up](https://open.spotify.com/album/3irVf4y2C8iTxwpgWGlY98) | 3:14 | 2022-10-25 | 2023-01-21 |
 | [Tagawa 3000](https://open.spotify.com/track/3ShelGqdJtLNZ1OruxBdgk) | [Golin](https://open.spotify.com/artist/02c7cpyK3byoTQcHtxHWHS), [Buga](https://open.spotify.com/artist/1MhMgLDFqKu6sdioUeq5dI) | [Tagawa 3000](https://open.spotify.com/album/6ydEEoVXVsTBH3DgvsaYiZ) | 2:02 | 2022-07-22 | 2022-08-27 |
 | [Take It Back](https://open.spotify.com/track/7vbIrYVjE9LYdiAeqp7fnY) | [Janis Zielinski](https://open.spotify.com/artist/0qqVoFZdP1OB0N9FkGfJ4D) | [Take It Back](https://open.spotify.com/album/0X0e0D347ypBiOJa4vnUxZ) | 2:46 | 2023-08-25 | 2024-05-24 |

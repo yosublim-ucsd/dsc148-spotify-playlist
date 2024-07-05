@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZ4yqIW9PVQn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZ4yqIW9PVQn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ4yqIW9PVQn)
 
-### [가을가을해](https://open.spotify.com/playlist/37i9dQZF1DWZ4yqIW9PVQn)
+### [노을\_](https://open.spotify.com/playlist/37i9dQZF1DWZ4yqIW9PVQn)
 
-> 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요\. \(Listen to K\-Pop autumn songs\)
+> 해질녘 감성이 담긴 노래들과 함께 감상에 젖어보세요.
 
 170 songs - 10 hr 15 min
 

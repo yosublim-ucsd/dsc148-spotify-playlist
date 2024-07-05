@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > The Kid LAROI 💚 GIRLS
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,875 likes - 121 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,871 likes - 121 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

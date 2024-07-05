@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion en good vibes. Superster: Idaly",
+  "description": "Motion en good vibes. Cover: Hakmadafack",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -2066,6 +2066,28 @@
       "duration_ms": 161393,
       "name": "Bebe\u011fim",
       "url": "https://open.spotify.com/track/3LHEkrzQf5Von16auXW10H"
+    },
+    {
+      "album": {
+        "name": "Beetje Dik",
+        "url": "https://open.spotify.com/album/1MwGLSiNV1lZz9zIIyUUfW"
+      },
+      "artists": [
+        {
+          "name": "Diaz & Bruno",
+          "url": "https://open.spotify.com/artist/6FGZPlL2dhssxgQlpb7I7W"
+        },
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154010,
+      "name": "Beetje Dik",
+      "url": "https://open.spotify.com/track/2JJMkUJVyu7HrYIjtqwn2x"
     },
     {
       "album": {
@@ -6571,6 +6593,24 @@
     },
     {
       "album": {
+        "name": "Fasta Days",
+        "url": "https://open.spotify.com/album/0aqTHFOwNYVys6tmQ08nyd"
+      },
+      "artists": [
+        {
+          "name": "Rhema & Bethel",
+          "url": "https://open.spotify.com/artist/2mhQjvqnRV83cj1G1b8ToN"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133646,
+      "name": "Fasta Days",
+      "url": "https://open.spotify.com/track/2lDLyjGLoyWydHzz28FdCZ"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -7800,7 +7840,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 210788,
       "name": "Guay",
       "url": "https://open.spotify.com/track/1S3SAFqLBWk3HaR5UyXp43"
@@ -8710,7 +8750,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 144857,
       "name": "Hypnose",
       "url": "https://open.spotify.com/track/0puT5NbrIQDlY1On1DSXrZ"
@@ -11298,7 +11338,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 161359,
       "name": "Lie to You",
       "url": "https://open.spotify.com/track/0PFOCmRvh6HyBXXUsxmcrb"
@@ -12174,6 +12214,32 @@
       "duration_ms": 124240,
       "name": "Madness",
       "url": "https://open.spotify.com/track/2Pu3Ux9Gv1e2UixicsUeLo"
+    },
+    {
+      "album": {
+        "name": "Mafioso",
+        "url": "https://open.spotify.com/album/0Y2N4LZj8PKiJiLTMiUnd0"
+      },
+      "artists": [
+        {
+          "name": "Hakmadafack",
+          "url": "https://open.spotify.com/artist/3zR5ehEa2HIlUB9oRGF0lz"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Eves Laurent",
+          "url": "https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148177,
+      "name": "Mafioso (feat. Henkie T & Eves Laurent)",
+      "url": "https://open.spotify.com/track/4yNHc6EU5G7dFtg775usCD"
     },
     {
       "album": {
@@ -13494,6 +13560,28 @@
       "duration_ms": 109333,
       "name": "Murda",
       "url": "https://open.spotify.com/track/05asUqfJz9ps3hnAQkMttp"
+    },
+    {
+      "album": {
+        "name": "My Caro",
+        "url": "https://open.spotify.com/album/0Ha8eet48eheYrJX4AsfFO"
+      },
+      "artists": [
+        {
+          "name": "Kish",
+          "url": "https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci"
+        },
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135272,
+      "name": "My Caro",
+      "url": "https://open.spotify.com/track/7Eb39zRVX0mq7OZlIaWKlB"
     },
     {
       "album": {
@@ -15683,6 +15771,32 @@
     },
     {
       "album": {
+        "name": "Pepper",
+        "url": "https://open.spotify.com/album/3fCj6rtq8eyACQCq3MFHuK"
+      },
+      "artists": [
+        {
+          "name": "BerryR",
+          "url": "https://open.spotify.com/artist/3DvGSDNONfFBcGBlmHrWth"
+        },
+        {
+          "name": "Rabiaa",
+          "url": "https://open.spotify.com/artist/0SXrdaViozHWtGAAy8UI3s"
+        },
+        {
+          "name": "Giordan Chase",
+          "url": "https://open.spotify.com/artist/70UN6NJ61w4Ugtjgmlu0HT"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166949,
+      "name": "Pepper",
+      "url": "https://open.spotify.com/track/3xq30o7V8f0GKRgTXv0yWE"
+    },
+    {
+      "album": {
         "name": "Perdiste",
         "url": "https://open.spotify.com/album/7kViNXWBbOD3RahNpEZMr3"
       },
@@ -16236,6 +16350,32 @@
       "duration_ms": 162455,
       "name": "Pornstar Martini",
       "url": "https://open.spotify.com/track/7aJe1fs6N7hrWFCpukMAUC"
+    },
+    {
+      "album": {
+        "name": "Pornstar Party",
+        "url": "https://open.spotify.com/album/3CSYLJAhrb9fOAHL1V4wN8"
+      },
+      "artists": [
+        {
+          "name": "KARYO",
+          "url": "https://open.spotify.com/artist/5axX3V9XC7KOWoquBOdA59"
+        },
+        {
+          "name": "Shqq",
+          "url": "https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr"
+        },
+        {
+          "name": "Ori",
+          "url": "https://open.spotify.com/artist/4yAg1949MQjAQD087hLdt1"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131527,
+      "name": "Pornstar Party",
+      "url": "https://open.spotify.com/track/1FzBZ9WQACxflu0hEUcln9"
     },
     {
       "album": {
@@ -17016,6 +17156,10 @@
         {
           "name": "Donpeso",
           "url": "https://open.spotify.com/artist/0iMckXK7aHb3XwF23fALrE"
+        },
+        {
+          "name": "Tyrell",
+          "url": "https://open.spotify.com/artist/5qyj8d6AQxtj6IiNelUuLT"
         }
       ],
       "date_added": "2024-06-27",
@@ -17294,7 +17438,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
@@ -17424,7 +17568,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 126958,
       "name": "Searching",
       "url": "https://open.spotify.com/track/2imYbBOOllM62rDPk1eGUy"
@@ -18322,7 +18466,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 142080,
       "name": "Spiegel",
       "url": "https://open.spotify.com/track/6ANgmO9fBLeeK8MfVv6je0"
@@ -21751,6 +21895,28 @@
     },
     {
       "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205263,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
+    },
+    {
+      "album": {
         "name": "Wayeh",
         "url": "https://open.spotify.com/album/4DvrgdEh0hGPDxR02sNkUV"
       },
@@ -22132,7 +22298,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 125825,
       "name": "Wine Dat",
       "url": "https://open.spotify.com/track/4MrI59cGOBajoKZSzXyvg4"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: Haqiem Rusli
+> The best tracks from the world of music\. Cover: BILLIE EILISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,386 likes - 56 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,415 likes - 56 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 | 55 | [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 |
 | 56 | [Masihkah Ada Rasa Itu? \- From "Wanita Syurga"](https://open.spotify.com/track/4c4Rs17mDezGSFJI3u7CcW) | [Misha Omar](https://open.spotify.com/artist/5cpxHc2y6L3Jn3FWY3z94Q) | [Masihkah Ada Rasa Itu? \(From "Wanita Syurga"\)](https://open.spotify.com/album/3u4ZDExYXwapRXRWwzbJ0G) | 3:22 |
 
-Snapshot ID: `ZoUaRgAAAACBHDqjuMq6OjAtBqN8kqKw`
+Snapshot ID: `ZobHAAAAAADhfUg3sUNaijG8PMGFQ8jW`

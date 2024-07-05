@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Ethismos,\tHalf Quickie",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Light, Hawk",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 171210,
       "name": "0-100",
       "url": "https://open.spotify.com/track/3DdXwqWtG9jV7ehHdFJUMv"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 163298,
       "name": "ATHINA",
       "url": "https://open.spotify.com/track/3ArVgY4NbNqd6RXvD3mdW4"
@@ -266,7 +266,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 148500,
       "name": "Bsns",
       "url": "https://open.spotify.com/track/25ER2jHtzsrxXyem0I37vO"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 150000,
       "name": "Dale",
       "url": "https://open.spotify.com/track/0ojZR0FRaGyop451JkdubS"
@@ -454,7 +454,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 172666,
       "name": "Den Koimamai",
       "url": "https://open.spotify.com/track/297UqXCEjXhd1ENfHww5oa"
@@ -565,6 +565,24 @@
     },
     {
       "album": {
+        "name": "REALNESS",
+        "url": "https://open.spotify.com/album/65K3ySIrBLpnLa4FYmLgZP"
+      },
+      "artists": [
+        {
+          "name": "Kanon",
+          "url": "https://open.spotify.com/artist/1ssOY5fx4efqZ0RXZ4M3PJ"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221200,
+      "name": "ENOXOS",
+      "url": "https://open.spotify.com/track/3MK35GCBKUQvGtxITPIE65"
+    },
+    {
+      "album": {
         "name": "Errico's Freestyle",
         "url": "https://open.spotify.com/album/5cgENNNCOryk6TjftAW8H9"
       },
@@ -580,10 +598,32 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 181000,
       "name": "Errico's Freestyle",
       "url": "https://open.spotify.com/track/6yzT7RNCYEX3iUCaoTB4vV"
+    },
+    {
+      "album": {
+        "name": "Fotia",
+        "url": "https://open.spotify.com/album/6oh21YYghqAoChMbgRX0El"
+      },
+      "artists": [
+        {
+          "name": "Frank",
+          "url": "https://open.spotify.com/artist/4oYTmflvXEVEyt276xAReV"
+        },
+        {
+          "name": "Leaderbrain",
+          "url": "https://open.spotify.com/artist/5q2IdmHx3SBYq1l5IixqTZ"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Fotia",
+      "url": "https://open.spotify.com/track/5WO6ln9zm2870VhESc2Onq"
     },
     {
       "album": {
@@ -709,6 +749,28 @@
     },
     {
       "album": {
+        "name": "Kako Paradeigma",
+        "url": "https://open.spotify.com/album/3gDwiYECE18IU837VgU94J"
+      },
+      "artists": [
+        {
+          "name": "Rapfill",
+          "url": "https://open.spotify.com/artist/2PRuAmTePGnmMqa3vUOsKl"
+        },
+        {
+          "name": "Low P",
+          "url": "https://open.spotify.com/artist/7wt81sVjCe1BL2oOfR5rQW"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130613,
+      "name": "Kako Paradeigma",
+      "url": "https://open.spotify.com/track/0uIWTIlx1JGPDI4F7nx68z"
+    },
+    {
+      "album": {
         "name": "KALOKAIRI",
         "url": "https://open.spotify.com/album/2487Rk9dc5Zg0f7ohXrXMV"
       },
@@ -731,6 +793,46 @@
     },
     {
       "album": {
+        "name": "Kamia San Esena",
+        "url": "https://open.spotify.com/album/7KyJEwhI6F7QwghNe88c8U"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190336,
+      "name": "Kamia San Esena",
+      "url": "https://open.spotify.com/track/4RPbBXNO6784XLVOVBGCT0"
+    },
+    {
+      "album": {
+        "name": "KSANA",
+        "url": "https://open.spotify.com/album/5S9Qckpu5pJdznQEvPpuMM"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Kimi",
+          "url": "https://open.spotify.com/artist/6uhMFybh7MnkaBS2EgyzNw"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224864,
+      "name": "KSANA",
+      "url": "https://open.spotify.com/track/1uK6HOYuYystjc8n1FllwF"
+    },
+    {
+      "album": {
         "name": "KSIRASIA",
         "url": "https://open.spotify.com/album/7sh9ZtpnyLT9anmYqOSxAY"
       },
@@ -750,6 +852,28 @@
       "duration_ms": 208111,
       "name": "KSIRASIA",
       "url": "https://open.spotify.com/track/6y5Nb8Op1TgWCJk1yxeFG8"
+    },
+    {
+      "album": {
+        "name": "Kyma",
+        "url": "https://open.spotify.com/album/5IXuy2kdy9rN6BccbxVYXQ"
+      },
+      "artists": [
+        {
+          "name": "Raptim",
+          "url": "https://open.spotify.com/artist/0Oyng899R3SWuy4TvI1Cs8"
+        },
+        {
+          "name": "Eversor",
+          "url": "https://open.spotify.com/artist/0Xk68OyHT2f2wWdKfO3juX"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197317,
+      "name": "Kyma",
+      "url": "https://open.spotify.com/track/1UMkKliLknRKsLyxdsxnSV"
     },
     {
       "album": {
@@ -776,7 +900,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 222105,
       "name": "Lacoste",
       "url": "https://open.spotify.com/track/2qDINcwqFSLh4NkyfQQBEm"
@@ -827,6 +951,50 @@
     },
     {
       "album": {
+        "name": "MAQUO",
+        "url": "https://open.spotify.com/album/7s4zPalLZZLVWyQXAsoAzb"
+      },
+      "artists": [
+        {
+          "name": "ATC Nico",
+          "url": "https://open.spotify.com/artist/1uENJBsvFjDUv7OrH3DaKR"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165937,
+      "name": "MAQUO",
+      "url": "https://open.spotify.com/track/1Cf69HHda0Tqd1IP8AHUAA"
+    },
+    {
+      "album": {
+        "name": "MASKA",
+        "url": "https://open.spotify.com/album/5JbM9QNwEMVhrCPXtMrHgE"
+      },
+      "artists": [
+        {
+          "name": "ATC Coco",
+          "url": "https://open.spotify.com/artist/4t0acKz54CB6uUA1PeB5wq"
+        },
+        {
+          "name": "skinny",
+          "url": "https://open.spotify.com/artist/0GjmHecf3cA6aWnPalC7RK"
+        },
+        {
+          "name": "Hantze",
+          "url": "https://open.spotify.com/artist/2ed1IT5PQ6RLzryBA2RD2B"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152917,
+      "name": "MASKA",
+      "url": "https://open.spotify.com/track/4l08FdIZvs9DdJAwFMCGVI"
+    },
+    {
+      "album": {
         "name": "Matomeni Triti (Freestyle)",
         "url": "https://open.spotify.com/album/0KMb03eBrveOQgRKu5AGSF"
       },
@@ -838,7 +1006,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 100263,
       "name": "Matomeni Triti (Freestyle)",
       "url": "https://open.spotify.com/track/5eJrtF7LyktIwjWSX4OFze"
@@ -904,7 +1072,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 148500,
       "name": "MIA",
       "url": "https://open.spotify.com/track/0QzWunyFKz5uOqXfdhBXwm"
@@ -944,7 +1112,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 172222,
       "name": "OLE",
       "url": "https://open.spotify.com/track/3SSRwRNswue7DgNR6yH3nZ"
@@ -977,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "Pasar (oulele)",
+        "url": "https://open.spotify.com/album/13e2DVAkijKHghalFWstVR"
+      },
+      "artists": [
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251752,
+      "name": "Pasar (oulele)",
+      "url": "https://open.spotify.com/track/7kGAJAa3cFDO4qsg2Sismf"
+    },
+    {
+      "album": {
         "name": "Pre Za Ki",
         "url": "https://open.spotify.com/album/0CYhzv8lk2aMXgy5XBkxsD"
       },
@@ -988,7 +1174,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 168793,
       "name": "Pornstar .i.",
       "url": "https://open.spotify.com/track/3ijZezhpvrHubmkbOGj6bJ"
@@ -1091,6 +1277,28 @@
     },
     {
       "album": {
+        "name": "Romanzo Criminale",
+        "url": "https://open.spotify.com/album/1RMU0yKJRr0VG1jUdXx9PN"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233009,
+      "name": "Romanzo Criminale",
+      "url": "https://open.spotify.com/track/3nwkz9CX6H0Qie8ehtmyON"
+    },
+    {
+      "album": {
         "name": "Lingo 2",
         "url": "https://open.spotify.com/album/6BPkSnOSgApcpdhGP32tcW"
       },
@@ -1161,6 +1369,36 @@
     },
     {
       "album": {
+        "name": "SOUKOU",
+        "url": "https://open.spotify.com/album/2dvoZNko18fOtSL1X2PEiz"
+      },
+      "artists": [
+        {
+          "name": "Kings",
+          "url": "https://open.spotify.com/artist/72zZ87G4L9Lfx0mstygJVE"
+        },
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Mc Daddy",
+          "url": "https://open.spotify.com/artist/3wuLkQuhEoK7byB0cfCCWT"
+        },
+        {
+          "name": "Teo Tzimas",
+          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160210,
+      "name": "SOUKOU",
+      "url": "https://open.spotify.com/track/4PsVvvUDG0Fg5iG6P41JDF"
+    },
+    {
+      "album": {
         "name": "Sukarie",
         "url": "https://open.spotify.com/album/4aykjh6AjljvE3AGMGnULZ"
       },
@@ -1176,7 +1414,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 182400,
       "name": "Sukarie",
       "url": "https://open.spotify.com/track/3EDocnZVJedQToA6rv8v3p"
@@ -1202,6 +1440,32 @@
       "duration_ms": 165125,
       "name": "Teleia Sxesh",
       "url": "https://open.spotify.com/track/3ze6LTsfPjdMtEpnaQaU1Z"
+    },
+    {
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/2OVXxevOPRm84b9Bx722sR"
+      },
+      "artists": [
+        {
+          "name": "Lil Koni",
+          "url": "https://open.spotify.com/artist/4md2OwykkDpAVx2keVXBBV"
+        },
+        {
+          "name": "Alecc",
+          "url": "https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Ti Amo",
+      "url": "https://open.spotify.com/track/24jT60T9L0pKKuLG9FOe1I"
     },
     {
       "album": {

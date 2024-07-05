@@ -18921,6 +18921,24 @@
     },
     {
       "album": {
+        "name": "Un Po' Mi Pento",
+        "url": "https://open.spotify.com/album/0OQ3aWMS4UEnBVPcvYhzM2"
+      },
+      "artists": [
+        {
+          "name": "Aria",
+          "url": "https://open.spotify.com/artist/3QptZmsuqUYGVDlrC02wdD"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190320,
+      "name": "Un Po' Mi Pento",
+      "url": "https://open.spotify.com/track/4YlZwnSFO7m3xqIsybfYwR"
+    },
+    {
+      "album": {
         "name": "Un'Altra Me",
         "url": "https://open.spotify.com/album/6WInH2ZdBqEAzul2cAF2hM"
       },

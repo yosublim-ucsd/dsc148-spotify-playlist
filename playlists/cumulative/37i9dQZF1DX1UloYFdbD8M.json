@@ -1815,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "Kunji Penne",
+        "url": "https://open.spotify.com/album/2iN9DI5qa6cylJKIUmDhAy"
+      },
+      "artists": [
+        {
+          "name": "E3Y",
+          "url": "https://open.spotify.com/artist/1kfF1kkbyruQ6Abd540tNL"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Kunji Penne",
+      "url": "https://open.spotify.com/track/1hA3nNa0T0J49ZE4vYgLKV"
+    },
+    {
+      "album": {
         "name": "Kunnolam anenikishtam",
         "url": "https://open.spotify.com/album/4RuQccxjGRPk54B0KZ06EC"
       },

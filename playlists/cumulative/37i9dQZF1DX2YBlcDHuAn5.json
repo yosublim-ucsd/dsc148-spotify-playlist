@@ -446,10 +446,28 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 178163,
       "name": "Dead End Street",
       "url": "https://open.spotify.com/track/2uu9JRbYg9IyjTvQoxG8zG"
+    },
+    {
+      "album": {
+        "name": "Desert Bride",
+        "url": "https://open.spotify.com/album/36j7voqMKyHKDaKIIqVfWW"
+      },
+      "artists": [
+        {
+          "name": "VanWyck",
+          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255953,
+      "name": "Desert Bride",
+      "url": "https://open.spotify.com/track/2ZEjpmYFQmKnkIcy5oChgW"
     },
     {
       "album": {
@@ -522,6 +540,24 @@
       "duration_ms": 187355,
       "name": "Driving Like A Dream Car Should",
       "url": "https://open.spotify.com/track/5yeaDXxrodUEbYGxfDXZej"
+    },
+    {
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/10CEYxX8uDXJHef6ANwnlF"
+      },
+      "artists": [
+        {
+          "name": "Calicos",
+          "url": "https://open.spotify.com/artist/2uLnbJ7DFXc382YXWyLyNr"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196872,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/3xNaJRo1hQzk8PiwfiHdZm"
     },
     {
       "album": {
@@ -2192,7 +2228,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 249986,
       "name": "The Way I Love You Now - Bluefinger Version",
       "url": "https://open.spotify.com/track/5PSKr3GOMG58k5SoI2ebQo"

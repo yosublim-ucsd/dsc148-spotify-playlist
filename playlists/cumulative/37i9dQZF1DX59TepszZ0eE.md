@@ -2,9 +2,9 @@
 
 ### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W?si=t46aO0dvRdmAn7mro6qF6Q>Joyous Celebration</a>
+> Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=CtHImU\_HR3aNPd5uZmAMUQ>Lebo Sekgobela</a>
 
-291 songs - 1 day 5 hr 56 min
+292 songs - 1 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Elshadai Adonai Medley \(Live\)](https://open.spotify.com/track/6Cu35kyDyoWUioEWyiYTpS) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Precious Mosotho](https://open.spotify.com/artist/2vQTWpv2T7PVBVomihqmwF) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 7:00 | 2020-09-07 |  |
 | [Elshadai Adonai Medley \- Live](https://open.spotify.com/track/2aeDfyS5sH88NEG3kR7laM) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Precious Mosotho](https://open.spotify.com/artist/2vQTWpv2T7PVBVomihqmwF) | [Collaborations, Vol\. 1 \(Live\)](https://open.spotify.com/album/4icur5o7RxzW78Zkwe15Xc) | 7:00 | 2020-09-07 | 2022-11-14 |
 | [Emmanuel \(Live\)](https://open.spotify.com/track/5waXRF9RxJTy2JtONi4cPc) | [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Mo Roriseng \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/album/0KDGCLqGhPxcY8FN5PYtd4) | 6:12 | 2024-06-07 |  |
+| [Emmanuel \- Live](https://open.spotify.com/track/2h3qJG8J2rPAb6Kgo7dOwC) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Kept by Grace \(Recorded Live at Carnival City\)](https://open.spotify.com/album/3TBeqMUdeBiofdyGDASbJs) | 5:34 | 2024-07-05 |  |
 | [Emmanuel \- Recorded at Studio](https://open.spotify.com/track/4aAbmhOtG5pQT3tBXYKHQN) | [Universal Khathisma Apostolic Church In Zion](https://open.spotify.com/artist/4XMCB93O98csLnrucGLvuw) | [MOPOROFETA](https://open.spotify.com/album/6zu9UliivfrJ11NZEnXcol) | 5:03 | 2023-06-16 |  |
 | [Emnqamlezweni \- Mjinti Madlala Remix](https://open.spotify.com/track/5E8uOfyS3dw7hRzDtav6ew) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN), [Mjinti Madlala](https://open.spotify.com/artist/4u8ket1HXAThwBSwgRnMkt) | [Emnqamlezweni \(Mjinti Madlala Remix\)](https://open.spotify.com/album/0gaxz32VmXyvIhDV477Uy8) | 7:29 | 2023-06-30 | 2023-07-28 |
 | [End of the Story \(Live\)](https://open.spotify.com/track/4AJERyjEvpvi2K8ScL4XHk) | [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [End of the Story \(Live\)](https://open.spotify.com/album/3DgjW3Djx64mhcqG03jlL8) | 4:10 | 2022-09-22 | 2023-03-18 |

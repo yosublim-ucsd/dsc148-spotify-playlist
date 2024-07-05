@@ -1,12 +1,12 @@
 {
   "description": "The freshest tech house &amp; techno | Submit via Instagram: @subshiftmusic",
-  "num_followers": 10762,
+  "num_followers": 10759,
   "original_name": "SUBSHIFT SELECTS ",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAipSjMa741I2DmZnL048XJqlVHIe4K",
+  "snapshot_id": "AAAip8Ux4sRiuzZ0PXi5D6grHwXPyZFJ",
   "tracks": [
     {
       "added_at": "2024-06-28 10:30:04",
@@ -219,6 +219,30 @@
       "duration_ms": 150000,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA"
+    },
+    {
+      "added_at": "2024-07-04 14:05:39",
+      "album": {
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/0ueEb3FfXAx6go66zPwjHL"
+      },
+      "artists": [
+        {
+          "name": "Ritmo Kartel",
+          "url": "https://open.spotify.com/artist/5djAumpISorEoZsJW9CZSP"
+        },
+        {
+          "name": "Chris Ultranova",
+          "url": "https://open.spotify.com/artist/51bvesSkE7jEu0Vf00MWFo"
+        },
+        {
+          "name": "IVI",
+          "url": "https://open.spotify.com/artist/3uXB2bZ5rSyOrtUfLW4xup"
+        }
+      ],
+      "duration_ms": 176190,
+      "name": "Dead To Me - Radio Edit",
+      "url": "https://open.spotify.com/track/7jAujVlAs9lQXAMGQq7NrL"
     },
     {
       "added_at": "2024-06-30 08:09:48",

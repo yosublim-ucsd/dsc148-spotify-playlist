@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rising stars and new releases from sunny Singapore. Cover: Dru Chen, Gentle Bones",
+  "description": "Rising stars and new releases from sunny Singapore. Cover: Sherman Zhuo",
   "name": "Rising 65",
   "tracks": [
     {
@@ -266,7 +266,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 174824,
       "name": "Bread and Better (feat. \u59dc\u6fe4 & Gentle Bones)",
       "url": "https://open.spotify.com/track/60B3iJlgBZBSbiw7rP49PS"
@@ -320,7 +320,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 132800,
       "name": "CAHAYA",
       "url": "https://open.spotify.com/track/1K5dVpVCeYq9iaQT4BMgzn"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 185597,
       "name": "circadian rhythm",
       "url": "https://open.spotify.com/track/0IeejEJT1Pg6p8UNHm4G1H"
@@ -591,6 +591,24 @@
     },
     {
       "album": {
+        "name": "Dyin\u2019 To Know",
+        "url": "https://open.spotify.com/album/5yoPD3c3dHCIJH7QZ1JdpO"
+      },
+      "artists": [
+        {
+          "name": "Aaron Bunac",
+          "url": "https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180380,
+      "name": "Dyin\u2019 To Know",
+      "url": "https://open.spotify.com/track/2pOz4brROgNTWvb33sigQk"
+    },
+    {
+      "album": {
         "name": "easy on me",
         "url": "https://open.spotify.com/album/4jZmQ4S3AATkH6jWhp1o8P"
       },
@@ -606,6 +624,60 @@
       "duration_ms": 156880,
       "name": "easy on me",
       "url": "https://open.spotify.com/track/0i4dOFMCie6lHFgZ7xsSCS"
+    },
+    {
+      "album": {
+        "name": "endless shine",
+        "url": "https://open.spotify.com/album/03cEdnJdRIxQ0n1FwXtK2D"
+      },
+      "artists": [
+        {
+          "name": "Sherman Zhuo",
+          "url": "https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181884,
+      "name": "endless shine",
+      "url": "https://open.spotify.com/track/1OUoxV1qoUGAxFngy2zcxB"
+    },
+    {
+      "album": {
+        "name": "Evolution Of NDP Songs",
+        "url": "https://open.spotify.com/album/1k9IbRlny2vNJe1L6DFUAp"
+      },
+      "artists": [
+        {
+          "name": "MICappella",
+          "url": "https://open.spotify.com/artist/7pOhEqKcqQyyKSxj8mmRKI"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314247,
+      "name": "Evolution Of NDP Songs",
+      "url": "https://open.spotify.com/track/5DIxDHTTKBSsmQd8yvqfIi"
+    },
+    {
+      "album": {
+        "name": "Evolution Of NDP Songs",
+        "url": "https://open.spotify.com/album/7wCSnuRlGMSsVx5Jb0ZRVb"
+      },
+      "artists": [
+        {
+          "name": "The Island Voices",
+          "url": "https://open.spotify.com/artist/6qlXAApftEMUSOCpaFiMKR"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Evolution Of NDP Songs",
+      "url": "https://open.spotify.com/track/5USHxCpDsBJlMFFC6CqkPc"
     },
     {
       "album": {
@@ -646,6 +718,24 @@
       "duration_ms": 172427,
       "name": "Feel The Same",
       "url": "https://open.spotify.com/track/0b7U8X4OjpeJ3HHK7Cw6DN"
+    },
+    {
+      "album": {
+        "name": "forever!",
+        "url": "https://open.spotify.com/album/6rKIpQpZGUJaqgo4ti2kXq"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151456,
+      "name": "forever!",
+      "url": "https://open.spotify.com/track/68N5FkX77LVfDPHczx6wmy"
     },
     {
       "album": {
@@ -700,7 +790,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 210500,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/5AO08KiShi5dNmRVc6Uguf"
@@ -863,6 +953,24 @@
     },
     {
       "album": {
+        "name": "human too",
+        "url": "https://open.spotify.com/album/3eKjAzIcoA9Fq4qb46CP3M"
+      },
+      "artists": [
+        {
+          "name": "Amelia Rae",
+          "url": "https://open.spotify.com/artist/2sX71sKSY55XluACX5F4E6"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158857,
+      "name": "human too",
+      "url": "https://open.spotify.com/track/0iZTnb8FjAyx80r3KJz3Tc"
+    },
+    {
+      "album": {
         "name": "I Believe",
         "url": "https://open.spotify.com/album/1AWqGYJ1b3KAYwpck8C3Wm"
       },
@@ -929,6 +1037,28 @@
     },
     {
       "album": {
+        "name": "idm.",
+        "url": "https://open.spotify.com/album/4qd1ae0hRIeugoxqPAkfQv"
+      },
+      "artists": [
+        {
+          "name": "rae",
+          "url": "https://open.spotify.com/artist/1mvjo1U4RVEab0pQRbyr0x"
+        },
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142359,
+      "name": "idm.",
+      "url": "https://open.spotify.com/track/6chlClDQA8tRd2ivMF6P1L"
+    },
+    {
+      "album": {
         "name": "If only I could",
         "url": "https://open.spotify.com/album/7e54UA8KhvYICFr2NW6cfD"
       },
@@ -940,7 +1070,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 267000,
       "name": "If only I could",
       "url": "https://open.spotify.com/track/6R0b4W7A7cPFJrDQI7pXbf"
@@ -1092,7 +1222,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 153442,
       "name": "Lose Myself",
       "url": "https://open.spotify.com/track/0cE9ZWnzXQqV8ScT2PBhtj"
@@ -1154,7 +1284,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 204272,
       "name": "matters of the heart",
       "url": "https://open.spotify.com/track/2TnwiwXe4ktgHJ5sv53Zhu"
@@ -1216,10 +1346,36 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 175254,
       "name": "My Rules",
       "url": "https://open.spotify.com/track/3fOLYqos0JQMT9fmhV7Q9o"
+    },
+    {
+      "album": {
+        "name": "Never Be The Same",
+        "url": "https://open.spotify.com/album/5tZRHlbo2Q5EoGm5Plt4x2"
+      },
+      "artists": [
+        {
+          "name": "Kenan Waters",
+          "url": "https://open.spotify.com/artist/5wqaqDigmVwxbb69jlpfOv"
+        },
+        {
+          "name": "AKI",
+          "url": "https://open.spotify.com/artist/4PZkiiOKrkpqOkhGSz2tel"
+        },
+        {
+          "name": "Daniel Sid",
+          "url": "https://open.spotify.com/artist/3I4pxD6ShB0V3yiyORZh1J"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163538,
+      "name": "Never Be The Same",
+      "url": "https://open.spotify.com/track/2xRS4L9anCvEidqCTjjKIz"
     },
     {
       "album": {
@@ -1263,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "One Sunrise At A Time",
+        "url": "https://open.spotify.com/album/615YUEpbaWtii06WTIBWPK"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343333,
+      "name": "One Sunrise At A Time",
+      "url": "https://open.spotify.com/track/3rgFqdD4inybMUne06ZubD"
+    },
+    {
+      "album": {
         "name": "Pass You By",
         "url": "https://open.spotify.com/album/50UngKgkmR20TzyxC5TJPv"
       },
@@ -1274,7 +1448,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 163826,
       "name": "Pass You By",
       "url": "https://open.spotify.com/track/68XnEmf2imK8r2yFOoV0UH"
@@ -1368,7 +1542,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 177876,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/4bRmlxIFjwicz4OvXHRDMD"
@@ -1440,7 +1614,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 213000,
       "name": "she's coming alive",
       "url": "https://open.spotify.com/track/0xpgLRE5cCKL8vnUeFiBYz"
@@ -1480,7 +1654,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 180266,
       "name": "SO BE IT",
       "url": "https://open.spotify.com/track/19K2LoHnsuc7LIynGguA0q"
@@ -1498,7 +1672,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 208551,
       "name": "Sorry, Love",
       "url": "https://open.spotify.com/track/1FbCzQdC5Ga3nYUiXtUUjD"
@@ -1695,6 +1869,24 @@
     },
     {
       "album": {
+        "name": "Till the End of Time",
+        "url": "https://open.spotify.com/album/7f6vieaCfq9tbmQwEEmRl3"
+      },
+      "artists": [
+        {
+          "name": "DISHII",
+          "url": "https://open.spotify.com/artist/5tzqjfthIsjdctRbRovv22"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148860,
+      "name": "Till the End of Time",
+      "url": "https://open.spotify.com/track/3kx0g6gOV6dsfZTDjnXSv6"
+    },
+    {
+      "album": {
         "name": "Time Travel",
         "url": "https://open.spotify.com/album/28LQSn0ZYmf5NlbQfhXlCe"
       },
@@ -1724,7 +1916,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 160657,
       "name": "timezones",
       "url": "https://open.spotify.com/track/0LiWOWo7RXmmWy6RMLZrFZ"
@@ -1964,7 +2156,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 351010,
       "name": "Why",
       "url": "https://open.spotify.com/track/2nKWmGyL3h8xu6dlsD7CB7"
@@ -2022,7 +2214,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 235764,
       "name": "\u5584\u826f\u7684\u6211\u5011 (\u5f71\u96c6\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011\u300b\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/1OxW5HUdYBZVCuiPGUPXhb"
@@ -2048,7 +2240,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 203076,
       "name": "\u5e95\u6c14 - Definitely",
       "url": "https://open.spotify.com/track/4BEEVA68KJVt0rgGwByDkN"
@@ -2066,7 +2258,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 232893,
       "name": "\u6700\u5c0d\u7684\u932f",
       "url": "https://open.spotify.com/track/66eKr9Fr056udiV4TtTFVK"
@@ -2084,7 +2276,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 268315,
       "name": "\u6b8b\u5ff5\uff08\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u90a3\u4e00\u5e74\u7684\u9664\u5915\u591c\u300b\u4e3b\u9898\u66f2\uff09",
       "url": "https://open.spotify.com/track/1vw0aTkZA04oHuLw2tdrZk"
@@ -2138,7 +2330,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 258000,
       "name": "\u8fd9\u5c31\u662f\u6211\u4eec\u7684\u7231",
       "url": "https://open.spotify.com/track/09CvSW9NKDasNsfYkmbWsN"

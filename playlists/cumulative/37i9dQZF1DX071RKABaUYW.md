@@ -2,9 +2,9 @@
 
 ### [The Basement](https://open.spotify.com/playlist/37i9dQZF1DX071RKABaUYW)
 
-> Fresh eclectic\. Post\-genre\. Exceptional taste\. Cover: ALT BLK ERA
+> Fresh eclectic\. Post\-genre\. Exceptional taste\. Cover: Koteri
 
-80 songs - 4 hr 23 min
+83 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,10 +26,12 @@
 | [Don't Ask](https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [Don't Ask](https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4) | 4:05 | 2024-06-27 |  |
 | [Don't Make A Sound](https://open.spotify.com/track/10vnQyVQouXnNTrjcSXmUU) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Don’t Make A Sound](https://open.spotify.com/album/2ilYxh8UXmACs87lUDeQrn) | 3:04 | 2024-06-27 |  |
 | [Don't Talk To Me](https://open.spotify.com/track/3d6RjLR03SKtW1e7837W9v) | [BAD WITH PHONES](https://open.spotify.com/artist/6pCduVf5CPK2i5C6FdWfaC) | [Don't Talk To Me](https://open.spotify.com/album/1sdvsKwd65kP2RCmgA9x4I) | 2:33 | 2024-06-27 |  |
+| [Doomsday Prepper](https://open.spotify.com/track/3TlEVaCa0rl1px2Z53c4dF) | [Adult DVD](https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG) | [Doomsday Prepper](https://open.spotify.com/album/1rldSMnJ28AY3uo7z1bvl9) | 2:46 | 2024-07-04 |  |
 | [Dream With You](https://open.spotify.com/track/2gEkF9RXPzw3LSfnEXNBZn) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Dream With You](https://open.spotify.com/album/0hOv3G09E7fOjFe1Q8Iedu) | 4:34 | 2024-06-27 |  |
 | [Dreembaby](https://open.spotify.com/track/6gdAcXYkLZ3zjNf25rlgyG) | [Tom Ford](https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE), [Chase Alex](https://open.spotify.com/artist/7cih7BnULkMapW0ddpZywb), [Frescia Belmar](https://open.spotify.com/artist/5Br9mDjd5tgrXrMc4p6z1Y), [Chris Dave](https://open.spotify.com/artist/0ty2lxzPnKWRfQd18OuAvM) | [Dreembaby](https://open.spotify.com/album/7k2WfJH49S7Qz44477BS5N) | 3:42 | 2024-06-27 |  |
 | [Energy](https://open.spotify.com/track/4DjgMXBAdGWwLMyMUXzg80) | [Kumbi](https://open.spotify.com/artist/0AVWv0DycxPoNr2kdOyXjS) | [Energy](https://open.spotify.com/album/2kaQio8ZLQKXSvW06EnWIS) | 2:32 | 2024-06-27 |  |
 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 | 2024-06-27 |  |
+| [Fortune Green](https://open.spotify.com/track/41arbLAzIm7uV8T0dCZNio) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Fortune Green](https://open.spotify.com/album/4QeB3eT7TwAaeIsqKMTW7o) | 2:24 | 2024-07-04 |  |
 | [Garden Of England](https://open.spotify.com/track/3niX005MakToUal5nk3x9M) | [Mitch Sanders](https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf) | [Garden Of England](https://open.spotify.com/album/1l3RkCJDJQQcEe3He0VPhZ) | 4:33 | 2024-06-27 |  |
 | [Go](https://open.spotify.com/track/23UcwWw8NmM8acCXXfbTrg) | [Pom Poko](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) | [Go](https://open.spotify.com/album/4ZiH9PUfBGDSYgGwl3XBDQ) | 2:49 | 2024-06-27 |  |
 | [Gold](https://open.spotify.com/track/4SlsQsxsPZLxqkgF71Zypu) | [Good Health Good Wealth](https://open.spotify.com/artist/6oaEXmqVM7eQnzva7kHudo) | [Gold](https://open.spotify.com/album/1Tj7fM0bJMyYMcCQD6KrUk) | 4:00 | 2024-06-27 |  |
@@ -55,14 +57,15 @@
 | [MYAEROPLANE](https://open.spotify.com/track/08XyqS2LV1wPzEwxLgaJ2h) | [DeCarteret](https://open.spotify.com/artist/2xpN3bfOsPsnOCzDrxXXhr) | [MYAEROPLANE](https://open.spotify.com/album/5BRCSxV8M8RxAsCd3UtPQk) | 3:31 | 2024-06-27 |  |
 | [Nice](https://open.spotify.com/track/6MDXPP4nyO71FgrTHUT9Lr) | [Niamh Regan](https://open.spotify.com/artist/5vQdYaBacVe00yHMbpnRVa) | [Nice](https://open.spotify.com/album/0ovAHBBe4tfT5kXm3uGmfN) | 3:48 | 2024-06-27 |  |
 | [NO RIGHT 2 LOVE](https://open.spotify.com/track/6E58szEhBkV3GzU6E6laOc) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [NO RIGHT 2 LOVE](https://open.spotify.com/album/4Euk4slgspgUSN7RptUF75) | 5:14 | 2024-06-27 |  |
-| [Nosebleeds](https://open.spotify.com/track/0inudhDQkXZ6DjJ2X0lbcy) | [Korby](https://open.spotify.com/artist/7bOKq0vFB4YI8MP9yqvwnH) | [Nosebleeds](https://open.spotify.com/album/7Lt1XU0k4PqrRWQmEKB1v9) | 2:47 | 2024-06-27 |  |
+| [Nosebleeds](https://open.spotify.com/track/0inudhDQkXZ6DjJ2X0lbcy) | [Korby](https://open.spotify.com/artist/7bOKq0vFB4YI8MP9yqvwnH) | [Nosebleeds](https://open.spotify.com/album/7Lt1XU0k4PqrRWQmEKB1v9) | 2:47 | 2024-06-27 | 2024-07-05 |
 | [Older](https://open.spotify.com/track/4lNUMhx2YoHN3ZaWlEfGmP) | [shania sabrina](https://open.spotify.com/artist/0a8eAkXQcaB6EXHvlAOre4) | [IN MY BEDROOM](https://open.spotify.com/album/5Yq2hTPUeZMTFKhGb1cSNL) | 3:57 | 2024-06-27 |  |
+| [opedge](https://open.spotify.com/track/5Tzwhyt2mCcnCjlD1r5Fri) | [oreglo](https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt) | [Not Real People](https://open.spotify.com/album/7hepxRy2Sm9yrGoM2aWakU) | 6:58 | 2024-07-04 |  |
 | [Painkiller](https://open.spotify.com/track/4n8YvQtQpTJ9PlVzQhCme7) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [For You](https://open.spotify.com/album/1Z06GXJybCOLsXvG9zJm6Z) | 3:36 | 2024-06-27 |  |
 | [Perfume](https://open.spotify.com/track/2e1b8BloDxKE8G8aj3owLA) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Perfume](https://open.spotify.com/album/5LT1rzo7ro36taxLMaTXUV) | 2:27 | 2024-06-27 |  |
 | [please be ok](https://open.spotify.com/track/1kDF6EDCGnSTjbIhjcslwb) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w), [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [nothing or something to die for](https://open.spotify.com/album/6XQydtJrolv08kmTKxFvZ7) | 3:58 | 2024-06-27 |  |
 | [Pressure](https://open.spotify.com/track/6UHBnRZhTedWSM3xiQM56F) | [Raelle](https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc) | [Pressure](https://open.spotify.com/album/6Cmpsdprlh6oV7QaJhUmrf) | 3:38 | 2024-06-27 |  |
 | [projections](https://open.spotify.com/track/0ler9C55DJbLJsgJprlFis) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [projections](https://open.spotify.com/album/4DNu93MzQ2528TXBVJ0zEt) | 4:20 | 2024-06-27 |  |
-| [R.L.M](https://open.spotify.com/track/7xrp1M7PQfRh5fsT8dOGnj) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [R.L.M](https://open.spotify.com/album/5jk1ZbZsxdmcKNFKmDO2nF) | 3:45 | 2024-06-27 |  |
+| [R.L.M](https://open.spotify.com/track/7xrp1M7PQfRh5fsT8dOGnj) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [R.L.M](https://open.spotify.com/album/5jk1ZbZsxdmcKNFKmDO2nF) | 3:45 | 2024-06-27 | 2024-07-05 |
 | [Red \(is my colour\)](https://open.spotify.com/track/0C0VaQZ6QojQx49nPlVy9A) | [Imogen and the Knife](https://open.spotify.com/artist/4nfBa9tw0IWAdtirqqmrbY) | [Red \(is my colour\)](https://open.spotify.com/album/20VihaUZmOG7BYYIhC52jm) | 3:20 | 2024-06-27 |  |
 | [Reprise](https://open.spotify.com/track/0npf0yCBJT6eUacG3XhwLf) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [Reprise](https://open.spotify.com/album/7fD5vw7RPaZkwpnkYvhL9s) | 2:04 | 2024-06-27 |  |
 | [Resisting Resistance](https://open.spotify.com/track/5sxatW3jsmH2gUTJ1zvnHs) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Connla's Well](https://open.spotify.com/album/59lxNUUwxzNmeB4dkqQExa) | 5:58 | 2024-06-27 |  |
@@ -87,6 +90,6 @@
 | [XTC](https://open.spotify.com/track/1nprNtGeg6usxwk5TZHJNi) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [XTC](https://open.spotify.com/album/7vdX9R9wDp0lQcisTd1G2o) | 4:05 | 2024-06-27 |  |
 | [You Make Me Feel So Dumb](https://open.spotify.com/track/4ieveV7aFYub2I2caGoTDy) | [Walt Disco](https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I) | [You Make Me Feel So Dumb](https://open.spotify.com/album/0IC7DqIDuya8uxmSQxMVlf) | 3:29 | 2024-06-27 |  |
 | [You!](https://open.spotify.com/track/5OIn9FHpJKAn6ZbX1y8Y46) | [Toni Sancho](https://open.spotify.com/artist/4SpaShKE14x1P5jTruqwIK) | [Heaven Knows!](https://open.spotify.com/album/3bK8WVeP0mMupP2d53LNWA) | 3:37 | 2024-06-27 |  |
-| [★SLEEPY★](https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud), [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [★SLEEPY★](https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG) | 2:14 | 2024-06-27 |  |
+| [★SLEEPY★](https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud), [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [★SLEEPY★](https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG) | 2:14 | 2024-06-27 | 2024-07-05 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

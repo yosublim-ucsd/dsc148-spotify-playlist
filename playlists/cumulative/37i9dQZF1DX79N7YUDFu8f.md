@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-228 songs - 13 hr 34 min
+229 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [How It Feels To Be Me](https://open.spotify.com/track/6U3n979lTuZ33irdeaNaqj) | [The Wanderer ](https://open.spotify.com/artist/12j1w2RmtWd81xSKRpxhXK) | [How It Feels To Be Me](https://open.spotify.com/album/4EF4w66XudTk9WBO6bkZ4I) | 2:14 | 2023-09-21 |  |
 | [Howling At The Moon](https://open.spotify.com/track/0lj2nJSYWe41NhF07SRAtI) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Howling At The Moon](https://open.spotify.com/album/0gOshFXSYvZTpAYL5sPH7h) | 3:05 | 2022-06-03 | 2022-08-24 |
 | [Howling at the Moon](https://open.spotify.com/track/34Yx1C3PBF986YzL3jfuuR) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Modern Heart](https://open.spotify.com/album/3U1AZauAd7pqx4GitFLTjY) | 3:05 | 2022-08-23 | 2024-04-19 |
-| [Howling at the Moon](https://open.spotify.com/track/5uhD79zVjkKdzmzTjqHXgo) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Modern Heart](https://open.spotify.com/album/0iILGOWECbPUX0QudcogNg) | 3:05 | 2021-11-24 |  |
+| [Howling at the Moon](https://open.spotify.com/track/5uhD79zVjkKdzmzTjqHXgo) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Modern Heart](https://open.spotify.com/album/0iILGOWECbPUX0QudcogNg) | 3:05 | 2021-11-24 | 2024-07-05 |
 | [I Know](https://open.spotify.com/track/7xMtHMEyRCktv2UmDYG8kP) | [Micah & Julia](https://open.spotify.com/artist/5ky4yhXKn4OZw7KtZmfJKE) | [I Know](https://open.spotify.com/album/0cI7LukQT1A8d3orxjBUwR) | 3:19 | 2021-11-24 |  |
 | [I Like You](https://open.spotify.com/track/7Afr3PKTtlFGHGiXYgnv6P) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Walking in Between](https://open.spotify.com/album/0kuIIUFaebmwLCmhp6nwVu) | 2:18 | 2022-06-03 | 2024-04-19 |
 | [I Like You](https://open.spotify.com/track/5C2Vas6jEIarFNVhNHuTGB) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Walking in Between](https://open.spotify.com/album/66AxyK2y4ZugyEFc4IXsWu) | 2:18 | 2021-11-24 |  |
@@ -139,6 +139,7 @@
 | [New Light](https://open.spotify.com/track/41f8HyuxASzuEcEs01x10O) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Treino Pop 2022](https://open.spotify.com/album/1NeZ6oYVALUuygJwW5zvve) | 3:37 | 2022-11-03 | 2022-11-14 |
 | [Nicotine](https://open.spotify.com/track/5YqwpwmzMGwUIU9h1kcOK8) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Amigo](https://open.spotify.com/album/0cai6DfUIlJ3aDAAzommLJ) | 3:58 | 2022-06-03 | 2024-04-19 |
 | [Nicotine](https://open.spotify.com/track/6yvxKrf9KZLTodXFTBmdR1) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Amigo](https://open.spotify.com/album/1jkWbtGWX47YAIYHmRONUg) | 3:58 | 2021-11-24 |  |
+| [Nomad](https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nomad](https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq) | 3:45 | 2024-07-04 |  |
 | [Nothing](https://open.spotify.com/track/7tJNVStBtyz0kIqMx1sofO) | [Noah\-Jazz](https://open.spotify.com/artist/6c133VGM0x6c5kJO5k2sLN) | [Nothing](https://open.spotify.com/album/5EJ1I1OTpQT3Ipjj9rDD2M) | 3:12 | 2022-11-03 | 2023-02-24 |
 | [Nothing For Miles](https://open.spotify.com/track/23Ht5Sur2qTl0C2dPMX6lK) | [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [Haul](https://open.spotify.com/album/4TrA4GVlOwq5pNcW6roKPY) | 4:34 | 2023-04-20 |  |
 | [novembre](https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [novembre](https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S) | 3:05 | 2022-12-01 | 2023-09-30 |

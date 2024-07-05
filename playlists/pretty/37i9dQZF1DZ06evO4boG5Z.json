@@ -1,12 +1,12 @@
 {
   "description": "This is Millencolin. The essential tracks, all in one playlist.",
-  "num_followers": 27743,
+  "num_followers": 27747,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoNDAAAAAAB0EsMyl4ocmUvAqh2xy4La",
+  "snapshot_id": "ZoSUgAAAAABJ3JUCcvAvC5/xdvCFtZWA",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 147693,
-      "name": "Killercrush",
-      "url": "https://open.spotify.com/track/4RyifJbF8JhMtFdR2Bzslt"
+      "duration_ms": 153466,
+      "name": "The Story Of My Life",
+      "url": "https://open.spotify.com/track/1Vt1I7Y29T6ObxjE55VDf4"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 153466,
-      "name": "The Story Of My Life",
-      "url": "https://open.spotify.com/track/1Vt1I7Y29T6ObxjE55VDf4"
+      "duration_ms": 147693,
+      "name": "Killercrush",
+      "url": "https://open.spotify.com/track/4RyifJbF8JhMtFdR2Bzslt"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home From Home",
-        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "Greener Grass",
-      "url": "https://open.spotify.com/track/4m2IM9lmxgXWOyKeWsACkU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Same Old Tunes",
         "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 220973,
       "name": "Diznee Time",
       "url": "https://open.spotify.com/track/4cew9gVe4Ot4gOVFL4Q8Cf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 170480,
+      "name": "Greener Grass",
+      "url": "https://open.spotify.com/track/4m2IM9lmxgXWOyKeWsACkU"
     },
     {
       "added_at": null,
@@ -660,25 +660,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 219504,
-      "name": "Shut You Out",
-      "url": "https://open.spotify.com/track/2yw98z3MXMILFSpHPUiaXZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Monkeys",
-        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 134173,
-      "name": "Entrance At Rudebrook",
-      "url": "https://open.spotify.com/track/0lodVk2uYM4UHyMBexlEHE"
+      "duration_ms": 132333,
+      "name": "Mooseman's Jukebox",
+      "url": "https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
       "duration_ms": 112733,
       "name": "Fazil's Friend",
       "url": "https://open.spotify.com/track/1RnXW0OprV2LRi8s6Er4Kh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 134173,
+      "name": "Entrance At Rudebrook",
+      "url": "https://open.spotify.com/track/0lodVk2uYM4UHyMBexlEHE"
     },
     {
       "added_at": null,
@@ -724,25 +724,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 132333,
-      "name": "Mooseman's Jukebox",
-      "url": "https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Melancholy Collection",
-        "url": "https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 109693,
-      "name": "Vixen",
-      "url": "https://open.spotify.com/track/5EBKNotjiE8N7pkOCvPjrk"
+      "duration_ms": 219504,
+      "name": "Shut You Out",
+      "url": "https://open.spotify.com/track/2yw98z3MXMILFSpHPUiaXZ"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
       "duration_ms": 98426,
       "name": "Domestic Subway",
       "url": "https://open.spotify.com/track/54lIoeGRSmMGExbgCsgVo7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Melancholy Collection",
+        "url": "https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 109693,
+      "name": "Vixen",
+      "url": "https://open.spotify.com/track/5EBKNotjiE8N7pkOCvPjrk"
     },
     {
       "added_at": null,

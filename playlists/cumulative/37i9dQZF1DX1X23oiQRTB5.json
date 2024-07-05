@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "UZI au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Jul au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -183,6 +183,28 @@
     },
     {
       "album": {
+        "name": "50G",
+        "url": "https://open.spotify.com/album/03t4GcRusmQrdC0D1Pj5gP"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+        },
+        {
+          "name": "JKSN",
+          "url": "https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238957,
+      "name": "50G",
+      "url": "https://open.spotify.com/track/2LU5GGxQEiNhv8QxQpBBlw"
+    },
+    {
+      "album": {
         "name": "6G",
         "url": "https://open.spotify.com/album/54LK6dIRTx4gRYznkLdjzt"
       },
@@ -284,7 +306,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 189618,
       "name": "AKRAPO 7",
       "url": "https://open.spotify.com/track/1C6E3aZ4S4fMN1HIgj73MQ"
@@ -478,7 +500,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 206684,
       "name": "A\u00efcha",
       "url": "https://open.spotify.com/track/3Z2lGD8m63wJ93bQ7BJrPT"
@@ -3466,6 +3488,24 @@
       "duration_ms": 209032,
       "name": "Milli",
       "url": "https://open.spotify.com/track/21or6VWTcaOPwwVxPioLmJ"
+    },
+    {
+      "album": {
+        "name": "Miss France",
+        "url": "https://open.spotify.com/album/1buUBxn64TLTYXxTAZGhzy"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Miss France",
+      "url": "https://open.spotify.com/track/015YmEj4dMrDwUga7QEN46"
     },
     {
       "album": {

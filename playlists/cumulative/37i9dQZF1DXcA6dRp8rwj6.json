@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: PLAYERTWO)",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: Felip)",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 186191,
       "name": "Accidentally (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG"
@@ -11874,7 +11874,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 241040,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/6mRk23TWtV8OYVWLXNElc8"
@@ -12315,6 +12315,28 @@
     },
     {
       "album": {
+        "name": "Eggroll",
+        "url": "https://open.spotify.com/album/5FrHtZ1G35U1SlcixkcjgE"
+      },
+      "artists": [
+        {
+          "name": "Dtrue",
+          "url": "https://open.spotify.com/artist/6UYPzNMXXBGcGywqMUwqn2"
+        },
+        {
+          "name": "Bachyard Ghost",
+          "url": "https://open.spotify.com/artist/6lUIj87Yum6daz5pdBeEYq"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123500,
+      "name": "Eggroll",
+      "url": "https://open.spotify.com/track/2qEoJxC8FRZHJ9zgb5llWc"
+    },
+    {
+      "album": {
         "name": "Ego",
         "url": "https://open.spotify.com/album/6ApkLeAfB3ZViZv2aMl3J0"
       },
@@ -12510,6 +12532,24 @@
       "duration_ms": 158727,
       "name": "Enough (Miami)",
       "url": "https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq"
+    },
+    {
+      "album": {
+        "name": "7sins",
+        "url": "https://open.spotify.com/album/55eq63Y489Oc4JybFR4ORH"
+      },
+      "artists": [
+        {
+          "name": "Felip",
+          "url": "https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144160,
+      "name": "envy",
+      "url": "https://open.spotify.com/track/6uJggzzrSE5tK9CRTZejgm"
     },
     {
       "album": {
@@ -19349,6 +19389,24 @@
     },
     {
       "album": {
+        "name": "In Da Kitchen",
+        "url": "https://open.spotify.com/album/6Tjp7C27IdMfus4zx59Izd"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Gemini",
+          "url": "https://open.spotify.com/artist/4AD2SGYmDQVd02vrwH0TaA"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "In Da Kitchen",
+      "url": "https://open.spotify.com/track/4xBjkmSTlIL7h1LJPI7sPo"
+    },
+    {
+      "album": {
         "name": "BOY OF THE YEAR",
         "url": "https://open.spotify.com/album/7jKfffXc64aO4CubnAI1UJ"
       },
@@ -22260,7 +22318,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 226551,
       "name": "Little Foot Big Foot",
       "url": "https://open.spotify.com/track/6rW3mLtDPEzJ00X3ubG6Mv"
@@ -23636,6 +23694,24 @@
       "duration_ms": 288018,
       "name": "MAYNARD VIGNETTE [Feat. T.I., JID, Jacquees]",
       "url": "https://open.spotify.com/track/4H8RhDIpZidT57dKw30k1C"
+    },
+    {
+      "album": {
+        "name": "McNasty",
+        "url": "https://open.spotify.com/album/0Yz3zZhK6e0B5zUTqM5hZV"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192378,
+      "name": "McNasty",
+      "url": "https://open.spotify.com/track/0nMwj215nyfEOER5AJWLDF"
     },
     {
       "album": {
@@ -32496,7 +32572,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 176509,
       "name": "Rock Out",
       "url": "https://open.spotify.com/track/53opE2ZAIvEqv3pwo7kjLF"
@@ -40267,6 +40343,32 @@
     },
     {
       "album": {
+        "name": "Tobey (feat. Big Sean and BabyTron)",
+        "url": "https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284892,
+      "name": "Tobey (feat. Big Sean and BabyTron)",
+      "url": "https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW"
+    },
+    {
+      "album": {
         "name": "The Predator 2: FLEEKY SYNDROME",
         "url": "https://open.spotify.com/album/5OdY6FQMrOo6qmzDUuAf7G"
       },
@@ -41274,7 +41376,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 143826,
       "name": "Turtle (Feat. CHUNG HA)",
       "url": "https://open.spotify.com/track/4EDyTgFsthqY9Kgqkwm2LQ"
@@ -43038,7 +43140,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 149446,
       "name": "WEIRD",
       "url": "https://open.spotify.com/track/3kwIDHpAZaukc6mstY8V9i"
@@ -45383,6 +45485,24 @@
     },
     {
       "album": {
+        "name": "\u4f9d\u7136FANTASY",
+        "url": "https://open.spotify.com/album/2MYIeUWHPvrkMLjbuBnWCV"
+      },
+      "artists": [
+        {
+          "name": "\u5f71\u5b50\u8a08\u5283 Shadow Project",
+          "url": "https://open.spotify.com/artist/4uvymNV7TTy0q47wUKislL"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151077,
+      "name": "\u4f9d\u7136FANTASY",
+      "url": "https://open.spotify.com/track/6ntrEvJeBQPvDF3p6nq6C8"
+    },
+    {
+      "album": {
         "name": "\u795e\u96b1 Spirited Away",
         "url": "https://open.spotify.com/album/1QBYvPKErLnUu7IMKELNM0"
       },
@@ -45496,6 +45616,28 @@
       "duration_ms": 108800,
       "name": "\u65e5\u672c\u59b9",
       "url": "https://open.spotify.com/track/0aYFhMcydpx20YnjFJ7ctI"
+    },
+    {
+      "album": {
+        "name": "\u6b32\u5f35 feat. Jin Dogg",
+        "url": "https://open.spotify.com/album/65OjM4LysvU8PqTo5PBaia"
+      },
+      "artists": [
+        {
+          "name": "CHICO CARLITO",
+          "url": "https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz"
+        },
+        {
+          "name": "Jin Dogg",
+          "url": "https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220011,
+      "name": "\u6b32\u5f35 feat. Jin Dogg",
+      "url": "https://open.spotify.com/track/5b7fhU4Gb6GrpiSnhxhHFK"
     },
     {
       "album": {

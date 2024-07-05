@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Era7capone x Narco
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Semicenk x Doğu Swag
 
 50 songs - 2 hr 26 min
 

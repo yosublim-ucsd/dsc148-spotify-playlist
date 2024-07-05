@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 200296,
+  "num_followers": 200505,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoNDAAAAAABx11cB8NLz/JqMa+Lkirz5",
+  "snapshot_id": "ZoSUgAAAAACNOxNQeLVU5PSXsGS8+Ick",
   "tracks": [
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 195866,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5C1PY8gSPXadGda4SKH1Cs"
+      "duration_ms": 178677,
+      "name": "Sky Priority",
+      "url": "https://open.spotify.com/track/2a6sjwokUT2lAFGtTfrBUG"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 178677,
-      "name": "Sky Priority",
-      "url": "https://open.spotify.com/track/2a6sjwokUT2lAFGtTfrBUG"
+      "duration_ms": 195866,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5C1PY8gSPXadGda4SKH1Cs"
     },
     {
       "added_at": null,

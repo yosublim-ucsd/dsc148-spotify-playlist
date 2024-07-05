@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "a playlist without boundaries, featuring rachel chinouriri \u2601\ufe0f art: @doolittleillustrations",
+  "description": "a playlist without boundaries, featuring jim legxacy \u2601\ufe0f art: @doolittleillustrations",
   "name": "Our Generation",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 164013,
       "name": "Baby Bangs (feat. dacelynn)",
       "url": "https://open.spotify.com/track/01J9q2fcpP9OiEfs1ziyji"
+    },
+    {
+      "album": {
+        "name": "BAD 4 MY HEALTH",
+        "url": "https://open.spotify.com/album/5to9l8DNYbCnkivd9q2359"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126756,
+      "name": "BAD 4 MY HEALTH",
+      "url": "https://open.spotify.com/track/1ZRtMHVeF4KO1sZyTyVMIh"
     },
     {
       "album": {
@@ -207,6 +225,24 @@
     },
     {
       "album": {
+        "name": "City's Violent",
+        "url": "https://open.spotify.com/album/27MzU2VIkyf1PTrdcA3bUA"
+      },
+      "artists": [
+        {
+          "name": "aimei \u5a9a",
+          "url": "https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127689,
+      "name": "City's Violent (intro)",
+      "url": "https://open.spotify.com/track/5Dpz3UsomG2zlY8DBLLFNR"
+    },
+    {
+      "album": {
         "name": "Close To You",
         "url": "https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM"
       },
@@ -272,7 +308,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 228482,
       "name": "Dear Liza",
       "url": "https://open.spotify.com/track/3ZGuIEKnvmfHhjOyypsmyr"
@@ -290,7 +326,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 122000,
       "name": "Death of the Party",
       "url": "https://open.spotify.com/track/0SqMmcSIHxx1T4Dy4JDQTP"
@@ -326,7 +362,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 176805,
       "name": "Down Swinging",
       "url": "https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72"
@@ -348,6 +384,24 @@
       "duration_ms": 211434,
       "name": "Dumb Bitch Juice",
       "url": "https://open.spotify.com/track/3GREjwadOvBZW448ULa6TC"
+    },
+    {
+      "album": {
+        "name": "Ever Seen",
+        "url": "https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203760,
+      "name": "Ever Seen",
+      "url": "https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6"
     },
     {
       "album": {
@@ -470,7 +524,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 211120,
       "name": "Hello Lonely",
       "url": "https://open.spotify.com/track/0qVkhLbM5Y3ef73wirigiQ"
@@ -940,7 +994,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 144786,
       "name": "Mr. Man (feat. Miya Folick)",
       "url": "https://open.spotify.com/track/68O2VV2eloAmNFjI4fEaz0"
@@ -976,10 +1030,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 130595,
       "name": "Nothing Shines On This Island",
       "url": "https://open.spotify.com/track/6pzdU8rRVmcc5KhMtYvTsm"
+    },
+    {
+      "album": {
+        "name": "nothings changed (!)",
+        "url": "https://open.spotify.com/album/34tsjIDnd3Z0EefNbKsr1e"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144630,
+      "name": "nothings changed (!)",
+      "url": "https://open.spotify.com/track/4Lq6T5Hmn9lrRPVUoRjNE4"
     },
     {
       "album": {
@@ -1048,7 +1120,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 211642,
       "name": "Push N Shuv",
       "url": "https://open.spotify.com/track/08KP4FEV1JZUQu8ZL2Uru9"
@@ -1088,6 +1160,42 @@
       "duration_ms": 154406,
       "name": "Robot Lovers",
       "url": "https://open.spotify.com/track/6UWwYDs100VkZly8XWzg4e"
+    },
+    {
+      "album": {
+        "name": "Sage",
+        "url": "https://open.spotify.com/album/5Vyej2QgmMLO0NPyQ6kkPB"
+      },
+      "artists": [
+        {
+          "name": "Ari Morgan",
+          "url": "https://open.spotify.com/artist/1EeyV1OJruocrWkphr12mX"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160461,
+      "name": "Sage",
+      "url": "https://open.spotify.com/track/6So2kOCuIGv8gYgOPLHapp"
+    },
+    {
+      "album": {
+        "name": "Scotch of St. James",
+        "url": "https://open.spotify.com/album/6e7VhvhyMxN2Vz3LRZCj0H"
+      },
+      "artists": [
+        {
+          "name": "Barny Fletcher",
+          "url": "https://open.spotify.com/artist/5q9zHGohILrZ2j1bSL1VeG"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174903,
+      "name": "Scotch of St. James",
+      "url": "https://open.spotify.com/track/4owudhylhdEDmUt7xggVK1"
     },
     {
       "album": {
@@ -1250,6 +1358,24 @@
       "duration_ms": 127510,
       "name": "tears",
       "url": "https://open.spotify.com/track/3VJGO89ULwVFAe6q0sKn6R"
+    },
+    {
+      "album": {
+        "name": "The Go Down",
+        "url": "https://open.spotify.com/album/439ekKZJmgH7sWLk6Ze4JH"
+      },
+      "artists": [
+        {
+          "name": "dialE",
+          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130243,
+      "name": "The Go Down",
+      "url": "https://open.spotify.com/track/4r1IIs9keKHVRO7KSlnxCh"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK's biggest playlist\. Cover: Chappell Roan
+> The UK's biggest playlist\. Cover: Eminem
 
 185 songs - 9 hr 43 min
 

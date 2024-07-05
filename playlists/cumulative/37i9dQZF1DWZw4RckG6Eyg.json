@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 231480,
       "name": "a stranger with my face",
       "url": "https://open.spotify.com/track/4G3NZdYXWTjsKtfFWNkgUo"
@@ -3976,6 +3976,28 @@
       "duration_ms": 209386,
       "name": "Valley",
       "url": "https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ"
+    },
+    {
+      "album": {
+        "name": "VIOLET (feat. ZER\u00d8)",
+        "url": "https://open.spotify.com/album/7nwOlCC2BHsdRV4JB4Ze3z"
+      },
+      "artists": [
+        {
+          "name": "BOKKA",
+          "url": "https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3"
+        },
+        {
+          "name": "ZER\u00d8",
+          "url": "https://open.spotify.com/artist/4X0wkHFRCALIvIprXD5YsK"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250437,
+      "name": "VIOLET (feat. ZER\u00d8)",
+      "url": "https://open.spotify.com/track/0FJTsZUu6A6pd6DXdeZq50"
     },
     {
       "album": {

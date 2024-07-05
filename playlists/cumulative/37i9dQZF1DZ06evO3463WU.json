@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This Is Pancho Barraza. Los temas esenciales, todos en una lista.",
+  "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
   "name": "This Is Pancho Barraza",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 206169,
       "name": "Compa\u00f1era M\u00eda",
       "url": "https://open.spotify.com/track/5MY7W7y0XXZEV5DMRDXrPo"
@@ -970,6 +970,28 @@
       "duration_ms": 170945,
       "name": "Mis Canciones de Amor",
       "url": "https://open.spotify.com/track/54c9K5pPOCH7vsd0SF9eoC"
+    },
+    {
+      "album": {
+        "name": "M\u00e1rchate",
+        "url": "https://open.spotify.com/album/2T8bt0Spo7yhtPFCVspHPc"
+      },
+      "artists": [
+        {
+          "name": "Colmillo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165903,
+      "name": "M\u00e1rchate",
+      "url": "https://open.spotify.com/track/0uC0uPbZONNDiiQMxD2MyH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Astrid
 
-156 songs - 10 hr 40 min
+157 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Sampai Mati](https://open.spotify.com/track/0VMb5OupyZA27f2u6Sck01) | [Putih](https://open.spotify.com/artist/3Yn6aM7XCgMbWGmOrI7zTO) | [Apa Kabar Cinta](https://open.spotify.com/album/0uAfzhtdFkD5AfShuX8610) | 4:31 | 2024-01-05 | 2024-04-19 |
 | [Sayang](https://open.spotify.com/track/1dDpZbX1MfvWNBqhJhvXgm) | [Supernova](https://open.spotify.com/artist/7kydkMNIMNhr7jDgeOQd4H) | [Bercahaya](https://open.spotify.com/album/7Bk0NnaNXmQHq4WKHy8kWK) | 3:54 | 2024-01-05 |  |
 | [Sayap Pelindungmu](https://open.spotify.com/track/3LhUsgwtftfxHIPgViaYxB) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Selamanya](https://open.spotify.com/album/2xVaK1p7ooIIywF6YCSEh5) | 3:42 | 2024-01-05 |  |
+| [Sebuah Rasa \- Remastered 2024](https://open.spotify.com/track/3gZAtOwiKO0PnUYn1zrUjI) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z) | [Agnes Monica \(Remastered 2024\)](https://open.spotify.com/album/3sXoFCzCXy1JfzHAXIf4OA) | 4:11 | 2024-07-04 |  |
 | [Sekuat Hatimu](https://open.spotify.com/track/0fiKmieZ6xzoolzNOC3Fxi) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Our Biggest Thing Ever](https://open.spotify.com/album/0lmWHPA0DAJY2xKscafErm) | 4:43 | 2024-01-05 |  |
 | [Selir Hati](https://open.spotify.com/track/44jm7VMs3gZlzZMnwa3Wt3) | [T.R.I.A.D](https://open.spotify.com/artist/3gp2fVD2tUwoq42eZ7DK3l) | [T.R.I.A.D](https://open.spotify.com/album/3wqDej8S1IdtRYUB8srUEY) | 4:04 | 2024-01-05 |  |
 | [Selow](https://open.spotify.com/track/1c5ZiOfMbDBHKRNuMfinOb) | [Wahyu Selow](https://open.spotify.com/artist/5fTrXgpGtbd2G1Xs30KiA7), [Coki](https://open.spotify.com/artist/7I0aZDVF624WWnFTBR2AyL) | [Selow](https://open.spotify.com/album/590x6JPNRYe0h92QZA4Fdy) | 3:36 | 2024-01-05 |  |

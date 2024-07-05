@@ -1,12 +1,12 @@
 {
-  "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 16798,
+  "description": "This Is De Saloon. Los temas esenciales, todos en una lista.",
+  "num_followers": 16804,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoNDAAAAAACKfhhQ7bxboE2x7Vfym29z",
+  "snapshot_id": "ZoSUgAAAAACo6FPc5H+1X34C3HdEE1NM",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L\u00e1tigo de fuego",
-        "url": "https://open.spotify.com/album/43zuensuw729kZhtB1emiI"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 231171,
-      "name": "L\u00e1tigo de fuego",
-      "url": "https://open.spotify.com/track/4a7n3hqqlgcpqzfBOcfLTQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Saloon",
         "url": "https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 213946,
       "name": "Brigida",
       "url": "https://open.spotify.com/track/3xlHWb5TsdrN0BTb0h2aM5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L\u00e1tigo de fuego",
+        "url": "https://open.spotify.com/album/43zuensuw729kZhtB1emiI"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 231171,
+      "name": "L\u00e1tigo de fuego",
+      "url": "https://open.spotify.com/track/4a7n3hqqlgcpqzfBOcfLTQ"
     },
     {
       "added_at": null,

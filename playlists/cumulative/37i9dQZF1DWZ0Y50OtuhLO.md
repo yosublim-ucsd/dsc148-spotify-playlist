@@ -2,7 +2,7 @@
 
 ### [The Glow Up](https://open.spotify.com/playlist/37i9dQZF1DWZ0Y50OtuhLO)
 
-> The soundtrack to being to best version of you\. Cover: Dua Lipa \#Glastonbury2024
+> The soundtrack to being to best version of you.
 
 352 songs - 18 hr 24 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 19029,
+  "num_followers": 19049,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
@@ -591,26 +591,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Off-White (feat. Lil Uzi Vert)",
-        "url": "https://open.spotify.com/album/1mQayAKgsYORLTbpvXdI5T"
-      },
-      "artists": [
-        {
-          "name": "NGeeYL",
-          "url": "https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 164353,
-      "name": "Off-White (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/6WSypNUxnt7YYXQ9iUGRR7"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Relentless (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/7805rgXmjrssqgW03U9ZTu"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 206533,
       "name": "Relentless (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/6mdPEY68QpFtEau2sfQLW1"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Off-White (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/1mQayAKgsYORLTbpvXdI5T"
+      },
+      "artists": [
+        {
+          "name": "NGeeYL",
+          "url": "https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 164353,
+      "name": "Off-White (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/6WSypNUxnt7YYXQ9iUGRR7"
     },
     {
       "added_at": "2022-10-01 16:17:17",

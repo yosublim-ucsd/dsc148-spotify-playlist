@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-359 songs - 20 hr 27 min
+360 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Lamhon/ Sadiyon](https://open.spotify.com/track/4jmLlG2c1rvAmKmuMKvwO9) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Lamhon/ Sadiyon](https://open.spotify.com/album/5XyWfUVBUQIhFDD31UdvJJ) | 3:23 | 2023-05-17 | 2023-06-03 |
 | [Laut Aa Na Yaar](https://open.spotify.com/track/6k8e52Z0tZulQRDi6koqNj) | [OMVEE](https://open.spotify.com/artist/1RiPd3VdkxY8ypQ8QcJUTe) | [Laut Aa Na Yaar](https://open.spotify.com/album/7laVy6jsedBGBRHYEcpr9o) | 3:15 | 2023-10-17 | 2023-11-30 |
 | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/track/2cz4qH4fCauVA93JHkUMad) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/album/55AiBuh1Ljke5dd9kEby1b) | 4:04 | 2023-07-01 |  |
-| [Le Chal](https://open.spotify.com/track/6LJQ4RhoTFi7KcE57QYCp6) | [Manan Chowdhry](https://open.spotify.com/artist/4kwiOM4JVugEgeXSflae9Q), [Swarup Chattopadhyay](https://open.spotify.com/artist/1yatlDm4IYtiBSR7EtOh2Y) | [Le Chal](https://open.spotify.com/album/0n0lSrFEANOi4cCQ8JUkCX) | 2:52 | 2024-05-31 |  |
+| [Le Chal](https://open.spotify.com/track/6LJQ4RhoTFi7KcE57QYCp6) | [Manan Chowdhry](https://open.spotify.com/artist/4kwiOM4JVugEgeXSflae9Q), [Swarup Chattopadhyay](https://open.spotify.com/artist/1yatlDm4IYtiBSR7EtOh2Y) | [Le Chal](https://open.spotify.com/album/0n0lSrFEANOi4cCQ8JUkCX) | 2:52 | 2024-05-31 | 2024-07-05 |
 | [Le ja](https://open.spotify.com/track/4lggh4NT569bKe4GUH8qN6) | [Akashdeep Sengupta](https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf), [Shubham Shirule](https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1) | [Le ja](https://open.spotify.com/album/3Hghdp415d0JyWwA9mUHH2) | 3:55 | 2024-05-31 |  |
 | [Lovestruck](https://open.spotify.com/track/2uo1gmZZrFGkEP5gAqDhR7) | [Reshabh Chhabra](https://open.spotify.com/artist/0CH9aQmuz1i2RyBW4dOtIk), [KNOJIA](https://open.spotify.com/artist/0giaHm23OwBcUmSVKXndAB) | [Lovestruck](https://open.spotify.com/album/1yCz8yC7MWRjSo8HwhcSyi) | 3:14 | 2024-03-12 |  |
 | [Mahiye Jinna Sohna Unplugged](https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:27 | 2023-08-09 |  |
@@ -239,7 +239,7 @@
 | [Nindiya](https://open.spotify.com/track/5j4XfQQaOtP6VZpo5wMPPP) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [Nindiya](https://open.spotify.com/album/0G0naNmj8UQzJFTQWXlwOZ) | 3:40 | 2023-11-10 | 2024-02-06 |
 | [Noor](https://open.spotify.com/track/0dHWY1elhBd1BOrgyMg5VT) | [Karan Nawani](https://open.spotify.com/artist/7rhiZksPc6NrFYY2x0iajU) | [Echoes Of Love](https://open.spotify.com/album/1xwtHTdzmUs83zWUpoO4CZ) | 3:07 | 2024-02-19 | 2024-04-16 |
 | [O Piya](https://open.spotify.com/track/4F7ZtGn9AADKvcdVA2eODk) | [Ayush Gupta](https://open.spotify.com/artist/389pB8tUWtnvxFuA5H1x52) | [O Piya](https://open.spotify.com/album/1TQUFjE8g7QgYtj8nm2IL5) | 3:55 | 2024-06-11 |  |
-| [Paas Aa](https://open.spotify.com/track/78EbeEIxRZJM9NLRxcFscq) | [Raj Thakur](https://open.spotify.com/artist/3NLgr90lOcgdbUDBiHt5Qr), [Amisha Singh](https://open.spotify.com/artist/1tmzT5qFwrXpjVJYNfxdfl) | [Paas Aa](https://open.spotify.com/album/6C8AMKqkiI4sO6nm1MiUOv) | 4:52 | 2024-07-03 |  |
+| [Paas Aa](https://open.spotify.com/track/78EbeEIxRZJM9NLRxcFscq) | [Raj Thakur](https://open.spotify.com/artist/2Gao6MverARcqpP8Li1jXE), [Amisha Singh](https://open.spotify.com/artist/4eQyLr2gpOu92VoXIBDuy6) | [Paas Aa](https://open.spotify.com/album/6C8AMKqkiI4sO6nm1MiUOv) | 4:52 | 2024-07-03 |  |
 | [Paas Mere](https://open.spotify.com/track/6L8QciURnXIwZVZMeeNJB5) | [Rajraktim Konwar](https://open.spotify.com/artist/6y65f3ZHnYyTcVjnNQwvJZ), [Mayukh](https://open.spotify.com/artist/19I0L8PB44SSGiPhpIjdmr) | [Paas Mere](https://open.spotify.com/album/3zxrvRU4mO4kUBGIXG78xr) | 2:56 | 2023-08-28 | 2023-12-16 |
 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 | 2023-05-17 | 2023-07-13 |
 | [Pal Behta Jaaye 2.0](https://open.spotify.com/track/5SHfxmcRM55HoxnhPJLcal) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Pal Behta Jaaye 2.0](https://open.spotify.com/album/7nCPsjpyUj4pY2HI4EhwLV) | 3:03 | 2023-05-17 | 2024-02-10 |
@@ -320,6 +320,7 @@
 | [Tu](https://open.spotify.com/track/7DlBboctH1CiJFC0chyOO2) | [JEKS](https://open.spotify.com/artist/6aXh2DuJMdQBtd235sTUrl) | [Tu](https://open.spotify.com/album/5I7KqxcjKqJDX6Ne2yDLrR) | 2:16 | 2023-07-20 | 2023-08-05 |
 | [Tu Aisa Kaise Hai](https://open.spotify.com/track/0op7p4Q6gFh44KKeTaKocv) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Saar](https://open.spotify.com/album/2leNjXvtxbHDUFiltWZtbQ) | 3:37 | 2023-05-17 | 2023-06-27 |
 | [Tu Hai Kahaan \- From "Do Aur Do Pyaar"](https://open.spotify.com/track/5qu00elDJgCJMlbCLlTsvD) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0), [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Tu Hai Kahaan \(From "Do Aur Do Pyaar"\)](https://open.spotify.com/album/2xkyBtiU8rMkow6ymV9cUe) | 3:39 | 2024-04-02 |  |
+| [Tu Hai Sab Hai](https://open.spotify.com/track/14g8GrtXyIyHUdi37SxvtW) | [Savneet Singh](https://open.spotify.com/artist/3y7E2LWleEorGmUfFQ5qfY) | [Tu Hai Sab Hai](https://open.spotify.com/album/14H4tiC2cHjLNZ2lwz0lvx) | 3:57 | 2024-07-04 |  |
 | [Tu Hai Toh Main Hu](https://open.spotify.com/track/3JeGnCva6aZgmG8uUlSdqe) | [Mohammed Izhar](https://open.spotify.com/artist/0wefMWpIqzVQ5v5nCehJ6k) | [Tu Hai Toh Main Hu](https://open.spotify.com/album/5antflRPPfVvqj1856YjAj) | 3:54 | 2023-10-26 | 2023-12-13 |
 | [Tu Hai Yaari](https://open.spotify.com/track/67fBkM5CywtT9TD89iONW8) | [Tapas Relia](https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O) | [Tu Hai Yaari](https://open.spotify.com/album/0xGRQ51ajqJv5l4MX2C2AJ) | 2:41 | 2023-05-17 | 2023-12-20 |
 | [Tu Hain](https://open.spotify.com/track/0N3Z2AgLRFHbXXPWtJW372) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Industry2](https://open.spotify.com/album/6KEQkBqgnNo0RN6tfmuc6I) | 2:43 | 2023-08-03 | 2023-08-29 |

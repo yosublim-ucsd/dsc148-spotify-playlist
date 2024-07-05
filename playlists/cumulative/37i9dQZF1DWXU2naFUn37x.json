@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Il top dello street rap italiano. Cover: Il Ghost",
+  "description": "Il top dello street rap italiano. Geolier in cover",
   "name": "Street Culto",
   "tracks": [
     {
@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "SPINGERE SEMPRE",
+        "url": "https://open.spotify.com/album/2T7gONSadyUZBCzu47VDyW"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124793,
+      "name": "30 THOTTIE",
+      "url": "https://open.spotify.com/track/7LdZviAofiMRFgJpBTBRJg"
+    },
+    {
+      "album": {
         "name": "DIO LO SA",
         "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
       },
@@ -426,7 +444,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 138962,
       "name": "5X5",
       "url": "https://open.spotify.com/track/1QnOV3sO14AsjSIMxP0psf"
@@ -444,7 +462,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 187293,
       "name": "64 BARRE DA CENSURA (Red Bull 64 Bars)",
       "url": "https://open.spotify.com/track/4MEnkb0uxSge5j9duWPQxV"
@@ -1954,7 +1972,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 181240,
       "name": "Blocco",
       "url": "https://open.spotify.com/track/53XOl5fbG1dxv8JNB8VkdS"
@@ -2583,6 +2601,36 @@
     },
     {
       "album": {
+        "name": "Caricatori (feat. Jake La Furia, Sacky)",
+        "url": "https://open.spotify.com/album/2A9jxLsM0XFUEXxc40bpNV"
+      },
+      "artists": [
+        {
+          "name": "8blevrai",
+          "url": "https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D"
+        },
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        },
+        {
+          "name": "2nd Roof",
+          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208455,
+      "name": "Caricatori (feat. Jake La Furia, Sacky)",
+      "url": "https://open.spotify.com/track/3rmQXvl1CD6MO43DjkBWfy"
+    },
+    {
+      "album": {
         "name": "Carne Halal (feat. Baby Gang & Simba La Rue)",
         "url": "https://open.spotify.com/album/5J3YRgWiaxwdDR1zCJTph6"
       },
@@ -2752,6 +2800,24 @@
       "duration_ms": 167599,
       "name": "Chakach\u00e0",
       "url": "https://open.spotify.com/track/2y7MyvmXf54VAohtg6eb6s"
+    },
+    {
+      "album": {
+        "name": "Di Rho",
+        "url": "https://open.spotify.com/album/57DgtjflGA7NpypLEd5Mod"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "Chakall",
+      "url": "https://open.spotify.com/track/7zbU2oTwSwBHFi7IdXR8PF"
     },
     {
       "album": {
@@ -5787,6 +5853,28 @@
     },
     {
       "album": {
+        "name": "HOTEL MONTANA (Deluxe)",
+        "url": "https://open.spotify.com/album/55BeUFIdOnQjBEPnrvFyDy"
+      },
+      "artists": [
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Side Baby",
+          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172137,
+      "name": "Justin Bieber (feat. Side Baby)",
+      "url": "https://open.spotify.com/track/62Oxen6MqYesOGcIz7K5s2"
+    },
+    {
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/0NcXP3d0JW89VHWoKxw74y"
       },
@@ -8015,6 +8103,28 @@
     },
     {
       "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134306,
+      "name": "NU PARL, NU SENT, NU VEC",
+      "url": "https://open.spotify.com/track/6FtNSMSavhz0jPx0CzwG3q"
+    },
+    {
+      "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
@@ -8750,7 +8860,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 148800,
       "name": "PLD",
       "url": "https://open.spotify.com/track/6OT4dc0gYkf1I3uxUay82r"
@@ -8982,7 +9092,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 194133,
       "name": "PRESIDENTE",
       "url": "https://open.spotify.com/track/78jAJtOnoKtpHvXM8ByleE"
@@ -9866,6 +9976,32 @@
       "duration_ms": 150693,
       "name": "Senza Di Me (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/6JJksqiePG5LUjiayW0Kre"
+    },
+    {
+      "album": {
+        "name": "\u00c8 LA VIBE (VIBE)",
+        "url": "https://open.spotify.com/album/4n6ZJ1KvZw0mDCRSBtbJgU"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Blssd",
+          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
+        },
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151174,
+      "name": "SENZA FARE POP (feat. Diss Gacha)",
+      "url": "https://open.spotify.com/track/1mWK8YWKHR7kx4gyQ5GOLb"
     },
     {
       "album": {
@@ -11118,7 +11254,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 185761,
       "name": "Tonight (feat. Icy Subzero)",
       "url": "https://open.spotify.com/track/2qze6cCZKajjrqpCwVhEgB"

@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt & more\. Cover: The Story So Far
 
-1,230 songs - 2 day 17 hr 4 min
+1,231 songs - 2 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Can We Just Get High?](https://open.spotify.com/track/2TOgSScrpcnSZeihmZRn93) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [My Life In Subtitles](https://open.spotify.com/album/7sWgC3VwEkJ1NDghlHxGNc) | 2:52 | 2024-04-12 |  |
 | [Can't Break What's Broken](https://open.spotify.com/track/2n7dZRacPcHyXwpRLXf6JW) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [I'd Rather Die Than Let You In \(Deluxe\)](https://open.spotify.com/album/00XgbQS8sSA1my2kQFNVwF) | 3:15 | 2021-12-10 | 2022-07-29 |
 | [Can't Let You Back In](https://open.spotify.com/track/1PvYrRcJ7iyYPvzVlt98IW) | [Victory Lane](https://open.spotify.com/artist/56TexoheCRrAi15dxTQbIF) | [Can't Let You Back In](https://open.spotify.com/album/6V9sZP8Q7CIw1DqDZ7cVGv) | 3:18 | 2022-03-25 | 2022-04-05 |
-| [Cardinals](https://open.spotify.com/track/723vVxxNycnmucEWfpvarT) | [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Cardinals](https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW) | 3:11 | 2024-01-19 |  |
+| [Cardinals](https://open.spotify.com/track/723vVxxNycnmucEWfpvarT) | [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Cardinals](https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW) | 3:11 | 2024-01-19 | 2024-07-05 |
 | [Care](https://open.spotify.com/track/73XEi2vkcuHWF2m9wiOfbu) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Artificial Selection](https://open.spotify.com/album/6rBnEJJUih41OU4AemGs4y) | 4:25 | 2022-02-04 | 2022-04-16 |
 | [Carhartts & Converse \(feat\. Mark Hoppus\)](https://open.spotify.com/track/5gZEWg5YT9fZHyw7sAH4o3) | [Super Whatevr](https://open.spotify.com/artist/2kbAovdYb7krLSGdOrBMRu), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Carhartts & Converse \(feat\. Mark Hoppus\)](https://open.spotify.com/album/0AQ8Eo8necD9pcFSce4qNd) | 3:00 | 2021-12-10 | 2022-07-25 |
 | [caroline](https://open.spotify.com/track/2WxB1yMEPUPAILo8BdEUFa) | [raspy](https://open.spotify.com/artist/1trffosn0Alk3IlloOD5O8) | [caroline](https://open.spotify.com/album/6KuCBVE5ZYTJxbge7Twwel) | 2:47 | 2022-04-01 | 2022-04-06 |
@@ -781,6 +781,7 @@
 | [One True Prince](https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Amazing Things](https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH) | 3:58 | 2022-07-08 | 2023-04-11 |
 | [One True Prince](https://open.spotify.com/track/5wnITloAfJ33x0m1R0sQwF) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [One True Prince](https://open.spotify.com/album/4PzJRdK8unANl6KqYrFjv1) | 3:58 | 2021-12-10 | 2022-07-29 |
 | [Oscillate](https://open.spotify.com/track/1mvYlO2lqNqqvCN2qHVjeh) | [Big Smile](https://open.spotify.com/artist/6aRUlxUt0AIBeAkMVykgbM) | [Oscillate](https://open.spotify.com/album/3D6IJTM8fsP4b2TRudkDHE) | 3:20 | 2022-02-04 | 2022-04-18 |
+| [Out Of My Mind](https://open.spotify.com/track/4L8N6rZRLZndXM2djmpfSw) | [SUCKERPUNCH!](https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp), [Joshua Roberts](https://open.spotify.com/artist/5KrUtVY5gE9p9U52TT42rR) | [Out Of My Mind](https://open.spotify.com/album/4HElf8g3yBVGo2usx3v68S) | 2:48 | 2024-06-24 |  |
 | [Out of Reach](https://open.spotify.com/track/2SEf5vymF45MFR49zwd4Iq) | [Heavy Hearts](https://open.spotify.com/artist/5WH57wBnMti80IPvNFef8f) | [Out of Reach](https://open.spotify.com/album/1rUMHB3BigXlvyF6XKE8BD) | 3:14 | 2022-03-25 | 2022-04-15 |
 | [Outlook](https://open.spotify.com/track/0CrmP1WCDoi6nWm0Bn49cy) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Outlook](https://open.spotify.com/album/1cNp3BCSszUndzImSMZw07) | 3:51 | 2023-06-01 | 2023-08-28 |
 | [OUTRUN MYSELF \(with Travis Barker\)](https://open.spotify.com/track/109mkG2S2huV1S5xFRbJgF) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [OUTRUN MYSELF \(with Travis Barker\)](https://open.spotify.com/album/7id2U1wDRV9goCqhnPrLGv) | 2:24 | 2021-12-10 | 2022-05-18 |

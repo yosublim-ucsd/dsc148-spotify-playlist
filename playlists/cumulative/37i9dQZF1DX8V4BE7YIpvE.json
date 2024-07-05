@@ -927,6 +927,24 @@
     },
     {
       "album": {
+        "name": "The Night Is Mine",
+        "url": "https://open.spotify.com/album/0OR0YcdVqUaNzFWkL6XeTb"
+      },
+      "artists": [
+        {
+          "name": "Forever Sunset",
+          "url": "https://open.spotify.com/artist/6Y5W9usiGN7XrMM1k4ItaG"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217931,
+      "name": "Out in the Rain",
+      "url": "https://open.spotify.com/track/79m4ZOoOIAlhCtADrWqDqN"
+    },
+    {
+      "album": {
         "name": "Outrunners",
         "url": "https://open.spotify.com/album/1lHAsQQl2cVbrsuhKdpqdU"
       },

@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: BABYMONSTER\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-9,143 songs - 21 day 21 hr 7 min
+9,146 songs - 21 day 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2202,6 +2202,7 @@
 | [Everlasting \(feat\. SO HYUN\)](https://open.spotify.com/track/0fiXNcEyk8OtXzX5WEfNEF) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [SO HYUN](https://open.spotify.com/artist/5VLiLdWwqGX5eyXqog2le1) | [I hope time goes by slowly](https://open.spotify.com/album/3FZnC5XIVAu7BXKRQchE7L) | 3:18 | 2024-01-24 | 2024-05-01 |
 | [Everlasting Night](https://open.spotify.com/track/1I0y8DHlS8aKxcUoY9xipA) | [LEE BYEONGCHAN](https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s) | [Everlasting Night](https://open.spotify.com/album/6TVXuxh8Pdd2Vy8KOg569Q) | 4:10 | 2024-02-13 | 2024-03-09 |
 | [Every Day](https://open.spotify.com/track/3yIw4wffZn9hwPUKLUh25l) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [of us](https://open.spotify.com/album/4x6THVlohmI8deJv3I1kU3) | 4:07 | 2022-10-25 | 2022-11-15 |
+| [Every day, Every Moment](https://open.spotify.com/track/3CmCXyTAL6o6rpH1mYLDaw) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Every day, Every Moment](https://open.spotify.com/album/0uUXiUPgLcOXOa8BK2cLRG) | 3:59 | 2024-07-04 |  |
 | [every moment](https://open.spotify.com/track/682rj9039G3B8yztzAM9y7) | [Joori](https://open.spotify.com/artist/0A5FokBLN8HWzKhWxB0eZk) | [every moment](https://open.spotify.com/album/7cOvjBQnliN0WZh0fffDxK) | 3:32 | 2022-04-19 | 2022-04-23 |
 | [Every moment](https://open.spotify.com/track/4oCfbsVlXbaS2rpIpID7DA) | [Lylian](https://open.spotify.com/artist/4Lv8VPFYaNT94Dti8djZF9) | [Every moment](https://open.spotify.com/album/7bLY30fY2RIMrA53SnDZzb) | 4:00 | 2022-04-19 | 2022-05-03 |
 | [Every Morning](https://open.spotify.com/track/2j1BuRG8IB58GXVPFrS5rD) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt) | [Becoming Witch, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/3OIt5jIMJMK5cz2mB8pm69) | 2:30 | 2022-07-24 | 2022-08-10 |
@@ -4556,6 +4557,7 @@
 | [LOVE PROCESS Act 4:Pain\(Woman's Story\) \- Bloom](https://open.spotify.com/track/3aaQ9CxRuchKCQcqq5xVoV) | [J\-Min](https://open.spotify.com/artist/0S6IIwYVTtgMjv7vfkdfRl) | [LOVE PROCESS Act 4:Pain\(Woman's Story\) \- Bloom](https://open.spotify.com/album/2AsuqpJNjUVTX3tjmx1sbk) | 4:16 | 2022-06-01 | 2022-06-14 |
 | [LOVE PROCESS Act 5:Conclusion\(Man's Story\) \- Even After A Long Time](https://open.spotify.com/track/6pjxyO9KH6k9QOnx1u6pEo) | [Bae Na Ra](https://open.spotify.com/artist/7t4tNGbsAMrR3sEsnwwlo4) | [LOVE PROCESS Act 5:Conclusion\(Man's Story\) \- Even After A Long Time](https://open.spotify.com/album/0I2ywTFIrvKlS84QWqTFFB) | 4:22 | 2022-06-13 | 2022-06-19 |
 | [Love Rain](https://open.spotify.com/track/1xXNW74BEX55EhnYQeasd6) | [V.O.S](https://open.spotify.com/artist/2x8nGCQ6zMQYA8oAX6Ggk2) | [Love Rain](https://open.spotify.com/album/3F3UY7Ci52dYI42D05UJrQ) | 4:08 | 2023-07-28 | 2023-08-18 |
+| [LOVE RECIPE](https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [WONDO Project : LOVE RECIPE, Vol.1](https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7) | 3:51 | 2024-07-04 |  |
 | [Love remnants](https://open.spotify.com/track/6Z8HhBie79IA6BEhwf7PwZ) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [EXchange3, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Yu6AvluH9IUEtpsn3g78K) | 4:01 | 2024-01-12 | 2024-03-14 |
 | [Love Sailing](https://open.spotify.com/track/5P16LnT953KPtZr54vSpkl) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [Love Sailing \(Decibel OST X Cha Eun\-Woo\)](https://open.spotify.com/album/4MjcD0zBOqCsHXMq8BAECb) | 3:10 | 2022-10-28 | 2022-12-22 |
 | [Love Scene](https://open.spotify.com/track/4msc0gNZXxZYWdRUlQgDsj) | [ANDOR](https://open.spotify.com/artist/1N4zN6Xe63rCtdDUDdnIDL) | [Love Scene](https://open.spotify.com/album/32qhbNn4vBYHQGlmN33BP4) | 5:32 | 2022-07-11 | 2022-07-20 |
@@ -5727,6 +5729,7 @@
 | [Pepperoni \(feat\. floryy & Min\)](https://open.spotify.com/track/5reAjU8Vaz6dO8A5UIxA2j) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [floryy](https://open.spotify.com/artist/2F9YMUpMgAlX2GrNTTj6Iz), [Min](https://open.spotify.com/artist/34i0mYEs7QoU4YbBjvzEiA) | [Attitude \#7](https://open.spotify.com/album/4waQHNpq3jtqaeGgmfAfoJ) | 3:04 | 2023-09-14 | 2023-10-02 |
 | [Per](https://open.spotify.com/track/1Kp9qkgGOB0nXrXdsW6w8o) | [ADYA](https://open.spotify.com/artist/4J4tJMuTHFBLuNE93GGvDW) | [ADYA](https://open.spotify.com/album/399ty1ZZfuwQ5vbzFPCPmP) | 3:20 | 2023-05-09 | 2023-07-12 |
 | [Perfect \(Feat\. Jeon Chae Un\)](https://open.spotify.com/track/0CYilR3ZTilNSB3XUS3Coh) | [888Unpublic](https://open.spotify.com/artist/7GfbeRXNmdGsZ7pK9tHHDv), [Jeon Chae Un](https://open.spotify.com/artist/3tSgFeF4GEs4zENwoLmhlm) | [Perfect](https://open.spotify.com/album/43Uyvg3x4ggVQ7uLOQ1JZ1) | 3:57 | 2022-06-13 | 2022-06-21 |
+| [Perfect Day](https://open.spotify.com/track/2rJ2wFRUOJeD9XFEskreai) | [Lee Sang Soon](https://open.spotify.com/artist/2k5qXj4B0cMlBbLJOVQMUJ) | [Perfect Day](https://open.spotify.com/album/6Dv3JrvZGhyVpIBSwrm1Ca) | 4:38 | 2024-07-04 |  |
 | [Perfect moment](https://open.spotify.com/track/0cCGUka0a6E3tRofPWYdGf) | [Fleen](https://open.spotify.com/artist/5xV9RrMSLYKLArfYM3Qrjo) | [Perfect moment](https://open.spotify.com/album/6Sl8aGUtyUt6C32jJinTuK) | 3:08 | 2024-01-22 | 2024-03-09 |
 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 | 2023-11-10 | 2023-12-14 |
 | [Perfect Night \(Holiday Remix\)](https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night \(Holiday Remix\)](https://open.spotify.com/album/0YaaIvxu7OH0OxUSnM9WFH) | 2:42 | 2023-12-13 | 2023-12-22 |

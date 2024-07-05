@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Shine ttw",
+  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Godwin",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 266943,
       "name": "(Don't) Say I'm Wrong",
       "url": "https://open.spotify.com/track/66FeTaHEBpOehgauJVcGL5"
@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "Life of The Party",
+        "url": "https://open.spotify.com/album/1R48sF7AE4j1wcfjfOtC7Q"
+      },
+      "artists": [
+        {
+          "name": "MKABOVE",
+          "url": "https://open.spotify.com/artist/6bjBS7xLH2JbajNLMA8FGt"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122392,
+      "name": "4r U",
+      "url": "https://open.spotify.com/track/0yeOy13aMktGb7NCWww0oC"
+    },
+    {
+      "album": {
         "name": "4U",
         "url": "https://open.spotify.com/album/79hX8WPtYLBU8Ah5GQIzE0"
       },
@@ -564,6 +582,28 @@
       "duration_ms": 174588,
       "name": "Abeg U",
       "url": "https://open.spotify.com/track/4WFFWMFIsEqX3SeIkftUp2"
+    },
+    {
+      "album": {
+        "name": "Abeke",
+        "url": "https://open.spotify.com/album/1ixs4iAmZOhqTu6ZK3VrFv"
+      },
+      "artists": [
+        {
+          "name": "Godwin",
+          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
+        },
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247880,
+      "name": "Abeke",
+      "url": "https://open.spotify.com/track/1rOcCMymtbyZBsbO6ADHtg"
     },
     {
       "album": {
@@ -1710,7 +1750,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 174159,
       "name": "BASSA",
       "url": "https://open.spotify.com/track/1KTXudaZZUN1St7KGUBCIt"
@@ -1882,7 +1922,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 165745,
       "name": "BEBE",
       "url": "https://open.spotify.com/track/6g66M8kCsTHH62T7oT0K3I"
@@ -2848,7 +2888,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 182250,
       "name": "CALENDAR (with Moliy)",
       "url": "https://open.spotify.com/track/604gUD6KPH4SuIPREK1RZD"
@@ -5730,7 +5770,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 214588,
       "name": "For You",
       "url": "https://open.spotify.com/track/4WwUs56upUKcrhTaFpN6x7"
@@ -5952,7 +5992,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 137187,
       "name": "Further From Me",
       "url": "https://open.spotify.com/track/53SWYv39WMzmGub1PAd7O2"
@@ -6206,7 +6246,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 166399,
       "name": "girl on a mission",
       "url": "https://open.spotify.com/track/71cG0LyiL0ozOwKAxyM5Fe"
@@ -6660,7 +6700,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 182428,
       "name": "Happy",
       "url": "https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY"
@@ -8095,6 +8135,28 @@
     },
     {
       "album": {
+        "name": "Instantly",
+        "url": "https://open.spotify.com/album/5cDnEzSuOcycPxq1q1GtTh"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Kold AF",
+          "url": "https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188387,
+      "name": "Instantly",
+      "url": "https://open.spotify.com/track/0z8XRsI1lc1Fz6FjRVo8Fm"
+    },
+    {
+      "album": {
         "name": "Is Dat So",
         "url": "https://open.spotify.com/album/1vZSL6Go7LV0ZC9MUbyFNK"
       },
@@ -8604,7 +8666,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 118225,
       "name": "Jump Up Skirt",
       "url": "https://open.spotify.com/track/5h5owfuUP5Te0LFGJQPBHk"
@@ -9034,7 +9096,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 173921,
       "name": "Lactose",
       "url": "https://open.spotify.com/track/0e3qyt6xOYv3KdyfWkHUgm"
@@ -12953,6 +13015,24 @@
     },
     {
       "album": {
+        "name": "Mindless Attraction",
+        "url": "https://open.spotify.com/album/2hpPvL459DuBpbs5e7vOKv"
+      },
+      "artists": [
+        {
+          "name": "Diteh",
+          "url": "https://open.spotify.com/artist/6ZKlegwLWDE16zMlx94Hwt"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147063,
+      "name": "Pay for Y$$$H",
+      "url": "https://open.spotify.com/track/0EsvT30ymaqlvAs6LG8e2a"
+    },
+    {
+      "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/03vkzwvqbc8JQFoURzmqRA"
       },
@@ -14636,7 +14716,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 185660,
       "name": "Salt",
       "url": "https://open.spotify.com/track/68d70XrR9yr5515EzmnE7e"
@@ -14968,6 +15048,24 @@
       "duration_ms": 148283,
       "name": "Selling Dreams",
       "url": "https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR"
+    },
+    {
+      "album": {
+        "name": "Sema Nami",
+        "url": "https://open.spotify.com/album/3LngZ3RRKPaV7OEa961pLy"
+      },
+      "artists": [
+        {
+          "name": "Aurie",
+          "url": "https://open.spotify.com/artist/0mdtCl5QYMb1p4y24HJQi8"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149317,
+      "name": "Sema Nami",
+      "url": "https://open.spotify.com/track/7rAf8Uv1wDS3Z3WmVXO5MW"
     },
     {
       "album": {
@@ -16042,7 +16140,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 174000,
       "name": "sundays",
       "url": "https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ"
@@ -16380,7 +16478,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 150666,
       "name": "Take It",
       "url": "https://open.spotify.com/track/60BmYE0G5451D7LwIqO7md"
@@ -17146,7 +17244,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 183170,
       "name": "Tonic No Lime - Remix",
       "url": "https://open.spotify.com/track/44iABFwPsdM9jVxKojQrw5"
@@ -17346,7 +17444,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 212238,
       "name": "Toxic Trends",
       "url": "https://open.spotify.com/track/1pPquaWmcvzLtO0nffSsLV"
@@ -17864,7 +17962,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 190684,
       "name": "Virgin Denim",
       "url": "https://open.spotify.com/track/69g0enFvUbtdKi5e84frgc"
@@ -18100,6 +18198,24 @@
       "duration_ms": 166530,
       "name": "Weird Space",
       "url": "https://open.spotify.com/track/0ZahurG13submevaayPoLL"
+    },
+    {
+      "album": {
+        "name": "welcome to my world",
+        "url": "https://open.spotify.com/album/0j0q0bAmZMSr5Im6P8hi2R"
+      },
+      "artists": [
+        {
+          "name": "Bella Alubo",
+          "url": "https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182491,
+      "name": "welcome to my world",
+      "url": "https://open.spotify.com/track/31Cg8s9yfeNbL10xo9KyJx"
     },
     {
       "album": {

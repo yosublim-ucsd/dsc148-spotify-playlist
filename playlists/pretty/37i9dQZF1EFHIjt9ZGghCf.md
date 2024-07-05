@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 708 likes - 131 songs - 14 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 711 likes - 131 songs - 14 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 83 | [keep going](https://open.spotify.com/track/6G4ktJZNqIgvZ44QyBHjnx) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB) | 3:11 |
 | 84 | [How Did You Find Me?](https://open.spotify.com/track/0eRzWtiUEhXOVdiXAXpJRc) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 2:28 |
 | 85 | [Worthy \(Spontaneous\) \[feat\. Dante Bowe\]](https://open.spotify.com/track/7N3RQ53JsW95PzLUcvjS4F) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Tribl Nights Atlanta](https://open.spotify.com/album/1FCLtg80IaZgG5WDJirlqt) | 8:50 |
-| 86 | [all god's children](https://open.spotify.com/track/1dhb41l8hPEQW7XA9FtXZE) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB) | 2:56 |
-| 87 | [Every Worship Song Ever](https://open.spotify.com/track/587PUyOpjizhIflg4G1nDH) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Worship Medleys](https://open.spotify.com/album/7N1ho46uf68qsA1yaGsP7M) | 3:38 |
+| 86 | [Every Worship Song Ever](https://open.spotify.com/track/587PUyOpjizhIflg4G1nDH) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Worship Medleys](https://open.spotify.com/album/7N1ho46uf68qsA1yaGsP7M) | 3:38 |
+| 87 | [all god's children](https://open.spotify.com/track/1dhb41l8hPEQW7XA9FtXZE) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB) | 2:56 |
 | 88 | [over and over](https://open.spotify.com/track/1eG6thyGmmWInRCTmUO2If) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [circles](https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB) | 3:37 |
 | 89 | [God’s Been Good \- Live](https://open.spotify.com/track/2NvFKpZ6ECBe3wkSfvNS9K) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 5:58 |
 | 90 | [Free Falling](https://open.spotify.com/track/7mUhoT53JAHiFbh3wfHVZe) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 4:54 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 130 | [Same God / Gratitude](https://open.spotify.com/track/64JqwulYn1A0vhK28NbDAE) | [Kayla Berry](https://open.spotify.com/artist/5wfxEJWKJuT5rUc0o32Q9o) | [Same God / Gratitude](https://open.spotify.com/album/4CSmLNS9eEgBp1umuFIf5X) | 5:03 |
 | 131 | [Champion/Gratitude \- Live](https://open.spotify.com/track/4L7EfoJTqBiGJlHde4zncx) | [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/1geSpbhN3fFFhDCkkq385b) | 10:46 |
 
-Snapshot ID: `AbVvAgAAAABZixcH7/3Jl8dQdh5C6SsP`
+Snapshot ID: `AbV0ogAAAAD8mQONmcc0SdI1DK2oWH79`

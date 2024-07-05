@@ -2,7 +2,7 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Le meilleur de la chanson française actuelle\. Photo : Dominique A
+> Le meilleur de la chanson française actuelle\. Photo : Arthur Teboul & Baptiste Trotignon
 
 50 songs - 2 hr 46 min
 

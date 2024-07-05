@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: AVA, VillaBanks, Mida",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Alfa",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -60,6 +60,28 @@
       "duration_ms": 180555,
       "name": "20 Dicembre (Noemi)",
       "url": "https://open.spotify.com/track/6NgsEjP5Wn8qc04cvyAuii"
+    },
+    {
+      "album": {
+        "name": "24h di te",
+        "url": "https://open.spotify.com/album/4rJizY7pS72c6s9gny5kaB"
+      },
+      "artists": [
+        {
+          "name": "Sho",
+          "url": "https://open.spotify.com/artist/74ET2yJNDxhCknVeZeid1w"
+        },
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160728,
+      "name": "24h di te",
+      "url": "https://open.spotify.com/track/2arD8XpkIC8KQo5zZGcHUG"
     },
     {
       "album": {
@@ -338,7 +360,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 106971,
       "name": "ALLERGICA ALLE FRAGOLE",
       "url": "https://open.spotify.com/track/0hYdFsDUc23IOXCra6ddkB"
@@ -480,6 +502,24 @@
       "duration_ms": 141573,
       "name": "Amore Bianco",
       "url": "https://open.spotify.com/track/7omuQEx0gZX4TjXKX58AGl"
+    },
+    {
+      "album": {
+        "name": "Amore fai presto!",
+        "url": "https://open.spotify.com/album/3pETZo1uiS3FmziALnV9ei"
+      },
+      "artists": [
+        {
+          "name": "marzo",
+          "url": "https://open.spotify.com/artist/20LOUqAbkWCYwND5CarWCR"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167628,
+      "name": "Amore fai presto!",
+      "url": "https://open.spotify.com/track/0MFwAbakcyf587x7evQW9i"
     },
     {
       "album": {
@@ -1885,6 +1925,28 @@
     },
     {
       "album": {
+        "name": "Cupido Senza Ali",
+        "url": "https://open.spotify.com/album/3x3vS767sbgvMnAEgZctdx"
+      },
+      "artists": [
+        {
+          "name": "Sina",
+          "url": "https://open.spotify.com/artist/2BYuUplSlEUC7pg9W05d3F"
+        },
+        {
+          "name": "Tancredi",
+          "url": "https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148775,
+      "name": "Converse / Nike (feat.Tancredi)",
+      "url": "https://open.spotify.com/track/45eksCUmYYaGuwRmYnVAAz"
+    },
+    {
+      "album": {
         "name": "COSE CHE NON SAI",
         "url": "https://open.spotify.com/album/73TFa19BEx0BEhfHbswCDn"
       },
@@ -2122,7 +2184,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 166000,
       "name": "Danimarca",
       "url": "https://open.spotify.com/track/5bkUPNhCQ3LlUEnOT9jQW3"
@@ -2216,7 +2278,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 192120,
       "name": "DIAMANTI GREZZI",
       "url": "https://open.spotify.com/track/3To8zpX92dTdhtORefjgyV"
@@ -2764,7 +2826,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 177786,
       "name": "FERMARE L'ET\u00c0 (feat. Enrico Nigiotti)",
       "url": "https://open.spotify.com/track/5cn3rW6VXCpI9dxysqx5fk"
@@ -2840,7 +2902,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 193387,
       "name": "Fila indiana",
       "url": "https://open.spotify.com/track/2WTgfEZW6gYWhHCMkn4lMc"
@@ -3203,6 +3265,24 @@
     },
     {
       "album": {
+        "name": "Giugno",
+        "url": "https://open.spotify.com/album/4k0QU4YrOmHl1kfBqfD3wH"
+      },
+      "artists": [
+        {
+          "name": "Hal Quarti\u00e8r",
+          "url": "https://open.spotify.com/artist/5eSrt3y7HWtkmuAFGeMbBj"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173454,
+      "name": "Giugno",
+      "url": "https://open.spotify.com/track/0DZynk5siVmgLCPVDMytf0"
+    },
+    {
+      "album": {
         "name": "giusti nei momenti sbagliati",
         "url": "https://open.spotify.com/album/6JFpUqpSF1TP2xDJfovFXq"
       },
@@ -3486,7 +3566,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 166840,
       "name": "ho perso il cuore",
       "url": "https://open.spotify.com/track/28jmvssKonCcMnyBrDStYR"
@@ -5512,7 +5592,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 170001,
       "name": "Notte Fonda",
       "url": "https://open.spotify.com/track/6cGrb2jhfQnrsVl1gRDG87"
@@ -5682,7 +5762,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 139350,
       "name": "orbite",
       "url": "https://open.spotify.com/track/3eboBUzt4ERBUuU89ZKZqH"
@@ -5766,7 +5846,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 150769,
       "name": "ORO ORO ORO",
       "url": "https://open.spotify.com/track/4Re4W6U6JgSGPGPoyiZFyr"
@@ -6137,6 +6217,28 @@
     },
     {
       "album": {
+        "name": "Piccoli piccoli (feat. centomilacarie)",
+        "url": "https://open.spotify.com/album/2pP5kkrKygJ5sFsxHXJhSC"
+      },
+      "artists": [
+        {
+          "name": "Giuse The Lizia",
+          "url": "https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK"
+        },
+        {
+          "name": "centomilacarie",
+          "url": "https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183092,
+      "name": "Piccoli piccoli (feat. centomilacarie)",
+      "url": "https://open.spotify.com/track/1A202wT21CErLDE7FikK03"
+    },
+    {
+      "album": {
         "name": "Piccoli ricordi",
         "url": "https://open.spotify.com/album/6EfIFS3aHzUkIgyLN8zmlg"
       },
@@ -6290,7 +6392,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 182630,
       "name": "POSATENEBRE",
       "url": "https://open.spotify.com/track/2TgvnT8ugu5YMrQpXdspXM"
@@ -6492,7 +6594,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 165709,
       "name": "quasi nuda",
       "url": "https://open.spotify.com/track/317eSzpK6SiEUiqTtke6Jk"
@@ -6622,7 +6724,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 155200,
       "name": "Respiro",
       "url": "https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc"
@@ -6796,7 +6898,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 168136,
       "name": "Rosso Lampone",
       "url": "https://open.spotify.com/track/4h51AEffPE9igl8J52OoTd"
@@ -6814,7 +6916,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 162684,
       "name": "ROSSOFUOCO",
       "url": "https://open.spotify.com/track/5B5p5w9QV0QFBsnASmtL24"
@@ -7118,7 +7220,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 205840,
       "name": "SI STAT\u2019 TU",
       "url": "https://open.spotify.com/track/6s5DJ2zRf9T3A2VidCCHxZ"
@@ -7362,7 +7464,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 222701,
       "name": "SOLO STANOTTE",
       "url": "https://open.spotify.com/track/3w7U6hoes2QzFZB10DSp0h"
@@ -7775,6 +7877,24 @@
     },
     {
       "album": {
+        "name": "Testa o Croce",
+        "url": "https://open.spotify.com/album/42c4lSMW3xF0ilUS65Kw38"
+      },
+      "artists": [
+        {
+          "name": "Mose",
+          "url": "https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147421,
+      "name": "Testa o Croce",
+      "url": "https://open.spotify.com/track/3YrI7ZCMy655cpdMQUWCoE"
+    },
+    {
+      "album": {
         "name": "TI AMO E NON LO SAI",
         "url": "https://open.spotify.com/album/2o6QoLo9MSGFa6vRYwFYLU"
       },
@@ -8152,7 +8272,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 168421,
       "name": "TUTTA ROSA",
       "url": "https://open.spotify.com/track/1bcOhOnjx5qfQsT96wjDZt"
@@ -8174,7 +8294,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 158400,
       "name": "Tutto con te",
       "url": "https://open.spotify.com/track/7CPbIZIGKE8tPLUuLMVujK"
@@ -8276,7 +8396,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 165600,
       "name": "UN'ALTRA NOTTE",
       "url": "https://open.spotify.com/track/2i8ekyE2fOjBcYv7ONy5UY"
@@ -8482,7 +8602,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 156923,
       "name": "Vai!",
       "url": "https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas"
@@ -8536,7 +8656,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 198740,
       "name": "VELENO",
       "url": "https://open.spotify.com/track/2K7bv4Q0FNNKPt4PPPCjOi"

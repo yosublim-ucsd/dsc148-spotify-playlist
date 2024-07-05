@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best in modern indie\. Cover: Still Woozy
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,075,884 likes - 135 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,075,856 likes - 135 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

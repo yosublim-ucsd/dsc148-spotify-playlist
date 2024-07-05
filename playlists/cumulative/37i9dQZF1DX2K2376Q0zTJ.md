@@ -2,9 +2,9 @@
 
 ### [EQUAL Japan](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
 
-> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 新しい学校のリーダーズ
+> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 詩羽
 
-1,196 songs - 2 day 22 hr 49 min
+1,198 songs - 2 day 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [BOSS](https://open.spotify.com/track/5uTMsRYt36mEPu0MCoK68G) | [FUJIKO](https://open.spotify.com/artist/4aH2AmBBVSCRF5fQ2QmlF6) | [BOSS](https://open.spotify.com/album/1EWbajEAKAeyaimtZMpTxP) | 2:42 | 2023-09-05 | 2023-11-08 |
 | [BOUNCE DANCE \(Tennyson remix\)](https://open.spotify.com/track/4J5mrbZvKAZE2yY6RqvsRb) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [BOUNCE DANCE\(Tennyson remix\)](https://open.spotify.com/album/0b9UYMUxvbb5qrxYy7C0UX) | 3:00 | 2023-05-02 | 2023-06-07 |
 | [bouquet](https://open.spotify.com/track/3V0NxWbbUTa3BUAnchm11i) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [amuletum bouquet](https://open.spotify.com/album/36K2oQtq6W4yhYoynuo4Zb) | 4:16 | 2023-06-06 | 2023-07-05 |
-| [Bouquet de cigarettes](https://open.spotify.com/track/54cAcBWgn2vjFi0ymo5bA9) | [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [Bouquet de cigarettes](https://open.spotify.com/album/5B0nVVlbMJWbPINTujUJiY) | 4:20 | 2024-06-20 |  |
+| [Bouquet de cigarettes](https://open.spotify.com/track/54cAcBWgn2vjFi0ymo5bA9) | [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [Bouquet de cigarettes](https://open.spotify.com/album/5B0nVVlbMJWbPINTujUJiY) | 4:20 | 2024-06-20 | 2024-07-05 |
 | [BPMF](https://open.spotify.com/track/5L0JiZaTcfI9W7LrPeuAEj) | [Lil' Leise But Gold](https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [BPMF](https://open.spotify.com/album/7pPH5k5UlnMkC0TM3Kdyp2) | 4:41 | 2022-08-02 | 2024-04-03 |
 | [Brainstop](https://open.spotify.com/track/3Ly4ZqMazZxQgF7iiP3Zri) | [SAGOSAID](https://open.spotify.com/artist/63ojIZR5KasJ1PaouPVdsD) | [Tough Love Therapy](https://open.spotify.com/album/0WAe0aNKZkj8QW8QY77d4k) | 2:30 | 2024-06-20 |  |
 | [Branch in the Road](https://open.spotify.com/track/5jWBbRWwE3l1f3MM1THFdp) | [toddle](https://open.spotify.com/artist/7tFz86gTEtTUA0JA7c9Yh1) | [Vacantly](https://open.spotify.com/album/1c3hxNhaT5ypX4hgaEStvk) | 4:26 | 2022-10-04 | 2022-11-09 |
@@ -129,7 +129,7 @@
 | [click on u](https://open.spotify.com/track/7c2tGDD8w1X9ESzFSaiUa8) | [yuzuha](https://open.spotify.com/artist/1E1ZQGewEUYhLSd3hvreon) | [click on u](https://open.spotify.com/album/240xr5ADvqSqce6Fezt8uv) | 2:31 | 2023-02-01 | 2023-03-01 |
 | [CODE GE4SS](https://open.spotify.com/track/5bIptZAYkYhWutd3iNXM5E) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [CODE GE4SS](https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v) | 2:32 | 2023-07-04 | 2023-08-02 |
 | [Coffee Excess feat\. Orono \(Superorganism\) & Lennon](https://open.spotify.com/track/66lOGYNWhKurI1s4izrkdw) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [Orono](https://open.spotify.com/artist/0CqXZXwwLrqnlXqHrVm8ux), [Lennon](https://open.spotify.com/artist/3nPGCD8cnUmkXAmoQx2DbO) | [Coffee Excess feat\. Orono \(Superorganism\) & Lennon](https://open.spotify.com/album/1sdMAIlIq8yc3pU8eixDI1) | 2:14 | 2024-06-20 |  |
-| [Combo](https://open.spotify.com/track/0iCmSyV9r0FZDq0Dhw6hZZ) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [COMBO](https://open.spotify.com/album/2bhJ2iTDEnNwMpb2vwcY6P) | 2:45 | 2024-06-20 |  |
+| [Combo](https://open.spotify.com/track/0iCmSyV9r0FZDq0Dhw6hZZ) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [COMBO](https://open.spotify.com/album/2bhJ2iTDEnNwMpb2vwcY6P) | 2:45 | 2024-06-20 | 2024-07-05 |
 | [Come & Go](https://open.spotify.com/track/7oxOQFKukTiYvbk5NKmaj2) | [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Come & Go](https://open.spotify.com/album/3Sfs3Wn8mEGlu9PQDWkLzm) | 2:15 | 2022-02-01 | 2022-03-08 |
 | [Comme des Garçons \(Like The Boys\)](https://open.spotify.com/track/2ECuq7NAthE5xFrOAiYtzx) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/6ijADQARGsV0sWAVHN4imN) | 3:01 | 2022-02-01 | 2022-03-08 |
 | [CONMAN](https://open.spotify.com/track/3A4xPOxlnfb4QfaNSLzEMv) | [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI), [Sumire](https://open.spotify.com/artist/3ie7Kl4oUITfThdgrDSHFS) | [CONMAN](https://open.spotify.com/album/3K9mZFUwEV5ABwo93sDjK3) | 3:12 | 2022-05-31 | 2022-07-06 |
@@ -163,6 +163,7 @@
 | [Dodonpa](https://open.spotify.com/track/2AndL1gnrkjtzoxIy2AG8Y) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Candy Racer](https://open.spotify.com/album/1i5J264nc9xYsroDS3FTHx) | 4:37 | 2023-04-04 | 2023-05-03 |
 | [Dog in Lost](https://open.spotify.com/track/0FtkD6YrVGC9sk5awsEwO7) | [Melt\-Banana](https://open.spotify.com/artist/1aDpQ3bo57IlYWmsG5sdlp) | [Return of 13 Hedgehogs \(Mxbx Singles 2000\-2009\)](https://open.spotify.com/album/5HOq417LBZ77SUNTxxOIwz) | 1:27 | 2022-05-04 | 2022-06-01 |
 | [doll](https://open.spotify.com/track/7lZgyhI0XOvjzi7g0eeHBA) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l) | 3:33 | 2024-01-09 | 2024-02-07 |
+| [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 | 2024-07-04 |  |
 | [don't cry](https://open.spotify.com/track/1q1aSnLbv4KG4oXEvYig4H) | [LIGHTERS](https://open.spotify.com/artist/3zIMtn2DQfuy14ZUthklGq) | [don't cry](https://open.spotify.com/album/33OyKHKpfnHKAgfLO3EJKb) | 3:40 | 2022-07-05 | 2022-08-03 |
 | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP) | 2:35 | 2022-10-04 | 2022-11-09 |
 | [Don't light my fire](https://open.spotify.com/track/1mCzk2LKAI3IGVX4fxcLYj) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Don't Light My Fire](https://open.spotify.com/album/2ZMKg7hcYi3lNXOv8gjjkb) | 2:16 | 2022-03-07 | 2022-04-06 |
@@ -478,6 +479,7 @@
 | [music pink](https://open.spotify.com/track/00KQ3SJW18L3KcYBdsNjSC) | [Makoto Kawamoto](https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx), [ゴロニャンず](https://open.spotify.com/artist/1dpt2VwbZ58krYytJqKTdJ) | [川本真琴withゴロニャンず](https://open.spotify.com/album/4QPqqsCOScmDIT388O1pLb) | 5:19 | 2022-11-08 | 2022-12-07 |
 | [Mustang](https://open.spotify.com/track/4Zm9YvYGoq3HCDilGvBq8m) | [AYA A.K.A PANDA](https://open.spotify.com/artist/6H3niqx3EU1Cg14nMe0PhN) | [Disaster ll](https://open.spotify.com/album/3ryuZiy35mETfoLv7VyLA7) | 3:02 | 2023-09-05 | 2023-11-08 |
 | [musuitai](https://open.spotify.com/track/1IKiRmT67kuduEZry25bXw) | [ユカリサ](https://open.spotify.com/artist/79PwVMoAjwMm7IAAF2x8IF) | [WATER](https://open.spotify.com/album/1hodresPN6JKzCG1sthF8f) | 3:51 | 2023-08-01 | 2023-09-06 |
+| [MY BODY IS CUTE](https://open.spotify.com/track/5ytRSw00JzFmL6cpZPCRPC) | [詩羽](https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp) | [うたうように、ほがらかに](https://open.spotify.com/album/1bZcROAAD3VDGBVN799Mh6) | 4:03 | 2024-07-04 |  |
 | [MY DREAM](https://open.spotify.com/track/3Ai9IjVhRy5eMWFQ3luIG6) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [MY DREAM](https://open.spotify.com/album/2wrsym38hvB4Wp9BYkCQxS) | 3:35 | 2022-09-06 | 2023-03-01 |
 | [My Mr.Right](https://open.spotify.com/track/7jg3UyQr4zJdiBcjrXN0rd) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [My Mr.Right](https://open.spotify.com/album/77R5JWquBVS0tqeB2J0pG9) | 3:26 | 2022-03-07 | 2023-04-05 |
 | [MY NAME](https://open.spotify.com/track/0uUnwZF9EQ7nIY3vJe1EWc) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [MY NAME](https://open.spotify.com/album/64aZooeuvhT2AlL0vVwUoI) | 2:45 | 2023-05-02 | 2024-04-03 |

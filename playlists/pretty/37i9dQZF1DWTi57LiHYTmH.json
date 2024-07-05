@@ -1,6 +1,6 @@
 {
   "description": "A calm and cosy classical soundtrack to all activities. ",
-  "num_followers": 64776,
+  "num_followers": 64952,
   "original_name": "Classical in the Background",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,26 @@
     {
       "added_at": "2024-06-07 09:43:47",
       "album": {
+        "name": "Grieg: Lyric Pieces, Books 8 - 10, Opp. 65, 68, and 71",
+        "url": "https://open.spotify.com/album/7AsuXIHGlGtFl3MoA2KCRr"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Einar Steen-N\u00f8kleberg",
+          "url": "https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ"
+        }
+      ],
+      "duration_ms": 131666,
+      "name": "Lyric Pieces, Book 9, Op. 68: Badnlat (Cradle Song)",
+      "url": "https://open.spotify.com/track/5P5LGCJrCByuqgj9djXqa4"
+    },
+    {
+      "added_at": "2024-06-07 09:43:47",
+      "album": {
         "name": "None but the Lonely Heart",
         "url": "https://open.spotify.com/album/5yjely805RPC9bhGjh4Hc2"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 141706,
       "name": "Six Pieces, Op. 51, TH 143: VI. Valse sentimentale. Tempo di Valse",
       "url": "https://open.spotify.com/track/1BbQIyPnuhVIlJEqPcY3Ug"
-    },
-    {
-      "added_at": "2024-06-07 09:43:47",
-      "album": {
-        "name": "Grieg: Lyric Pieces, Books 8 - 10, Opp. 65, 68, and 71",
-        "url": "https://open.spotify.com/album/7AsuXIHGlGtFl3MoA2KCRr"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Einar Steen-N\u00f8kleberg",
-          "url": "https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ"
-        }
-      ],
-      "duration_ms": 131666,
-      "name": "Lyric Pieces, Book 9, Op. 68: Badnlat (Cradle Song)",
-      "url": "https://open.spotify.com/track/5P5LGCJrCByuqgj9djXqa4"
     },
     {
       "added_at": "2024-06-07 09:43:47",
@@ -1647,18 +1647,22 @@
     {
       "added_at": "2024-06-07 09:43:47",
       "album": {
-        "name": "Luciano Berio - The Complete Works For Solo Piano",
-        "url": "https://open.spotify.com/album/2bYrUpinp9EtQYTsA5h2Wb"
+        "name": "Scriabin: Preludes, Vol. 1",
+        "url": "https://open.spotify.com/album/2Ql5IIdZIiGFsNNy0O87ZA"
       },
       "artists": [
         {
-          "name": "David Arden",
-          "url": "https://open.spotify.com/artist/70xr7TopAcWrip0NJWDmOc"
+          "name": "Alexander Scriabin",
+          "url": "https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV"
+        },
+        {
+          "name": "Evgeny Zarafiants",
+          "url": "https://open.spotify.com/artist/1mlJpazSMM0qkokoS6SNRN"
         }
       ],
-      "duration_ms": 122840,
-      "name": "Wasserklavier",
-      "url": "https://open.spotify.com/track/3LRYwBJECFeQGi16cPxEZY"
+      "duration_ms": 61933,
+      "name": "5 Preludes, Op. 16: IV. Prelude No. 4 in E-Flat Minor: Lento",
+      "url": "https://open.spotify.com/track/6Xan47ZLZr9P8YEcOt3JaX"
     },
     {
       "added_at": "2024-06-07 09:43:47",
@@ -1683,22 +1687,18 @@
     {
       "added_at": "2024-06-07 09:43:47",
       "album": {
-        "name": "Scriabin: Preludes, Vol. 1",
-        "url": "https://open.spotify.com/album/2Ql5IIdZIiGFsNNy0O87ZA"
+        "name": "Luciano Berio - The Complete Works For Solo Piano",
+        "url": "https://open.spotify.com/album/2bYrUpinp9EtQYTsA5h2Wb"
       },
       "artists": [
         {
-          "name": "Alexander Scriabin",
-          "url": "https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV"
-        },
-        {
-          "name": "Evgeny Zarafiants",
-          "url": "https://open.spotify.com/artist/1mlJpazSMM0qkokoS6SNRN"
+          "name": "David Arden",
+          "url": "https://open.spotify.com/artist/70xr7TopAcWrip0NJWDmOc"
         }
       ],
-      "duration_ms": 61933,
-      "name": "5 Preludes, Op. 16: IV. Prelude No. 4 in E-Flat Minor: Lento",
-      "url": "https://open.spotify.com/track/6Xan47ZLZr9P8YEcOt3JaX"
+      "duration_ms": 122840,
+      "name": "Wasserklavier",
+      "url": "https://open.spotify.com/track/3LRYwBJECFeQGi16cPxEZY"
     },
     {
       "added_at": "2024-06-07 09:43:47",
@@ -2035,26 +2035,6 @@
     {
       "added_at": "2024-06-07 09:43:47",
       "album": {
-        "name": "Khachaturian: 7 Recitatives & Fugues & Children's Albums Nos. 1 & 2",
-        "url": "https://open.spotify.com/album/3umvKIjsD484pa9pCyPK2x"
-      },
-      "artists": [
-        {
-          "name": "Aram Khachaturian",
-          "url": "https://open.spotify.com/artist/5WIoytpqi3VWoFSHnl49in"
-        },
-        {
-          "name": "Charlene Farrugia",
-          "url": "https://open.spotify.com/artist/1pSsh71dHsWknDZ0It3ziB"
-        }
-      ],
-      "duration_ms": 96240,
-      "name": "Children's Album No. 1 \"Pictures of Childhood\": No. 1, Andantino",
-      "url": "https://open.spotify.com/track/1xky6QliZ0gPbdnatVdb4Q"
-    },
-    {
-      "added_at": "2024-06-07 09:43:47",
-      "album": {
         "name": "Clair de Lune - Orchestral Favourites; Waldteufel - Waltzes",
         "url": "https://open.spotify.com/album/6cHVhRbxBkXYfN0Gfz9uau"
       },
@@ -2079,6 +2059,26 @@
     {
       "added_at": "2024-06-07 09:43:47",
       "album": {
+        "name": "Khachaturian: 7 Recitatives & Fugues & Children's Albums Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/3umvKIjsD484pa9pCyPK2x"
+      },
+      "artists": [
+        {
+          "name": "Aram Khachaturian",
+          "url": "https://open.spotify.com/artist/5WIoytpqi3VWoFSHnl49in"
+        },
+        {
+          "name": "Charlene Farrugia",
+          "url": "https://open.spotify.com/artist/1pSsh71dHsWknDZ0It3ziB"
+        }
+      ],
+      "duration_ms": 96240,
+      "name": "Children's Album No. 1 \"Pictures of Childhood\": No. 1, Andantino",
+      "url": "https://open.spotify.com/track/1xky6QliZ0gPbdnatVdb4Q"
+    },
+    {
+      "added_at": "2024-06-07 09:43:47",
+      "album": {
         "name": "Romance \u2013 The Piano Music of Clara Schumann",
         "url": "https://open.spotify.com/album/7Jt7TzZQgrMsJgI7CPyApE"
       },
@@ -2095,6 +2095,26 @@
       "duration_ms": 182720,
       "name": "3 Romances, Op. 11: No. 1, Andante",
       "url": "https://open.spotify.com/track/6VLzm03YUeXVl3GdGyib6J"
+    },
+    {
+      "added_at": "2024-06-07 09:43:47",
+      "album": {
+        "name": "Scriabin: Preludes, Vol. 1",
+        "url": "https://open.spotify.com/album/2Ql5IIdZIiGFsNNy0O87ZA"
+      },
+      "artists": [
+        {
+          "name": "Alexander Scriabin",
+          "url": "https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV"
+        },
+        {
+          "name": "Evgeny Zarafiants",
+          "url": "https://open.spotify.com/artist/1mlJpazSMM0qkokoS6SNRN"
+        }
+      ],
+      "duration_ms": 62506,
+      "name": "24 Preludes, Op. 11: No. 1 in C Major",
+      "url": "https://open.spotify.com/track/5VUqbQ8Z5NXEITbmFhAhbk"
     },
     {
       "added_at": "2024-06-07 09:43:47",
@@ -2155,26 +2175,6 @@
     {
       "added_at": "2024-06-07 09:43:47",
       "album": {
-        "name": "Scriabin: Preludes, Vol. 1",
-        "url": "https://open.spotify.com/album/2Ql5IIdZIiGFsNNy0O87ZA"
-      },
-      "artists": [
-        {
-          "name": "Alexander Scriabin",
-          "url": "https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV"
-        },
-        {
-          "name": "Evgeny Zarafiants",
-          "url": "https://open.spotify.com/artist/1mlJpazSMM0qkokoS6SNRN"
-        }
-      ],
-      "duration_ms": 62506,
-      "name": "24 Preludes, Op. 11: No. 1 in C Major",
-      "url": "https://open.spotify.com/track/5VUqbQ8Z5NXEITbmFhAhbk"
-    },
-    {
-      "added_at": "2024-06-07 09:43:47",
-      "album": {
         "name": "Orph\u00e9e",
         "url": "https://open.spotify.com/album/1ZPtIPAHcNHgLuL0K6BzJN"
       },
@@ -2199,26 +2199,6 @@
     {
       "added_at": "2024-06-07 09:43:47",
       "album": {
-        "name": "Piano Chillout: 22 Relaxing Classical Themes (Remastered 2022)",
-        "url": "https://open.spotify.com/album/17ViKKpLueT54sAZuAUyPg"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Mario Sollazzo",
-          "url": "https://open.spotify.com/artist/44QKSpMVTzPZGcOegCwtIf"
-        }
-      ],
-      "duration_ms": 177771,
-      "name": "Handel: Suite No. 11 in D Minor, HWV 437: III. Sarabande - Remastered 2022",
-      "url": "https://open.spotify.com/track/4fHnQHcXdcCrVYMpP04uTR"
-    },
-    {
-      "added_at": "2024-06-07 09:43:47",
-      "album": {
         "name": "Folk Tales",
         "url": "https://open.spotify.com/album/2EUlubaDp7vG0ndRJIl8As"
       },
@@ -2239,6 +2219,26 @@
       "duration_ms": 96840,
       "name": "6 Studies in English Folksong (Version for Cello & Piano): No. 3, Larghetto \"Van Dieman's Land\"",
       "url": "https://open.spotify.com/track/6b9euaDFpLzakeuzhZgPHP"
+    },
+    {
+      "added_at": "2024-06-07 09:43:47",
+      "album": {
+        "name": "Piano Chillout: 22 Relaxing Classical Themes (Remastered 2022)",
+        "url": "https://open.spotify.com/album/17ViKKpLueT54sAZuAUyPg"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Mario Sollazzo",
+          "url": "https://open.spotify.com/artist/44QKSpMVTzPZGcOegCwtIf"
+        }
+      ],
+      "duration_ms": 177771,
+      "name": "Handel: Suite No. 11 in D Minor, HWV 437: III. Sarabande - Remastered 2022",
+      "url": "https://open.spotify.com/track/4fHnQHcXdcCrVYMpP04uTR"
     },
     {
       "added_at": "2024-06-07 09:43:47",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2024-06-07 09:43:47",
       "album": {
-        "name": "improvisation",
-        "url": "https://open.spotify.com/album/6YN6hrmHvrLewiHT4h7tRD"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 137775,
-      "name": "improvisation",
-      "url": "https://open.spotify.com/track/1BmSnDPeEgtI9lYp4resjj"
-    },
-    {
-      "added_at": "2024-06-07 09:43:47",
-      "album": {
         "name": "December 32nd",
         "url": "https://open.spotify.com/album/7uxO2W10ECHsn6xUW5CFxy"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 278891,
       "name": "December 32nd - Piano Solo Version",
       "url": "https://open.spotify.com/track/4OuqXdLeZpQJYlruSsSOHb"
+    },
+    {
+      "added_at": "2024-06-07 09:43:47",
+      "album": {
+        "name": "improvisation",
+        "url": "https://open.spotify.com/album/6YN6hrmHvrLewiHT4h7tRD"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 137775,
+      "name": "improvisation",
+      "url": "https://open.spotify.com/track/1BmSnDPeEgtI9lYp4resjj"
     },
     {
       "added_at": "2024-06-07 09:43:47",
@@ -2535,6 +2535,26 @@
     {
       "added_at": "2024-06-07 09:43:47",
       "album": {
+        "name": "Schumann : Piano works",
+        "url": "https://open.spotify.com/album/6jBpmfj61Fb3gOmpGTcMlv"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Piotr Anderszewski",
+          "url": "https://open.spotify.com/artist/0ndw1tUehEV3tnnYUnqFw9"
+        }
+      ],
+      "duration_ms": 125466,
+      "name": "Schumann: 6 Studien in kanonischer Form, Op. 56: No. 1, Nicht schnell",
+      "url": "https://open.spotify.com/track/1q5ayzgYUD1uL2kI389fV4"
+    },
+    {
+      "added_at": "2024-06-07 09:43:47",
+      "album": {
         "name": "Bizet: Jeux d'enfants / Faur\u00e9: Dolly Suite / Ravel: Ma m\u00e8re l'Oye",
         "url": "https://open.spotify.com/album/4MY2auDpOcI2jc9TT01HWE"
       },
@@ -2571,26 +2591,6 @@
       "duration_ms": 200297,
       "name": "The Way It Was",
       "url": "https://open.spotify.com/track/7B5Xs96cpGcl4zHNuZ9nLB"
-    },
-    {
-      "added_at": "2024-06-07 09:43:47",
-      "album": {
-        "name": "Schumann: Carnaval, Op.9, 12. Chopin",
-        "url": "https://open.spotify.com/album/6ezCZHbpHReYh0u4jd9jcd"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Daniil Trifonov",
-          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
-        }
-      ],
-      "duration_ms": 90413,
-      "name": "Carnaval, Op. 9: XII. Chopin",
-      "url": "https://open.spotify.com/track/0XNjIYSeBccSL0jGgOfHQ5"
     },
     {
       "added_at": "2024-06-07 09:43:47",
@@ -3211,22 +3211,6 @@
     {
       "added_at": "2024-06-07 09:43:47",
       "album": {
-        "name": "Nightingale",
-        "url": "https://open.spotify.com/album/4g8tx2nwYVWfo24xRH5fm8"
-      },
-      "artists": [
-        {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        }
-      ],
-      "duration_ms": 186026,
-      "name": "Nightingale",
-      "url": "https://open.spotify.com/track/5fe7xaJWVkljq4QjKixmtN"
-    },
-    {
-      "added_at": "2024-06-07 09:43:47",
-      "album": {
         "name": "Sibelius",
         "url": "https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe"
       },
@@ -3243,6 +3227,22 @@
       "duration_ms": 92466,
       "name": "13 Pieces for Piano, Op. 76: Elegiaco, No. 10",
       "url": "https://open.spotify.com/track/1fz5D2xY8W4CUXicAhvG5D"
+    },
+    {
+      "added_at": "2024-06-07 09:43:47",
+      "album": {
+        "name": "Nightingale",
+        "url": "https://open.spotify.com/album/4g8tx2nwYVWfo24xRH5fm8"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 186026,
+      "name": "Nightingale",
+      "url": "https://open.spotify.com/track/5fe7xaJWVkljq4QjKixmtN"
     },
     {
       "added_at": "2024-06-07 09:43:47",

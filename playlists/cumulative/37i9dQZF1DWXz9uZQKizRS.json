@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Rosalie.",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Nosowska, B\u0142a\u017cej Kr\u00f3l",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 169090,
       "name": "7/8 wiosny",
       "url": "https://open.spotify.com/track/1e7k48QWsUS5IcTm6VZ1f9"
@@ -247,6 +247,32 @@
     },
     {
       "album": {
+        "name": "chaos",
+        "url": "https://open.spotify.com/album/3BokcqHH5dtp8BSqCCxsky"
+      },
+      "artists": [
+        {
+          "name": "Zagi",
+          "url": "https://open.spotify.com/artist/2fLOBc2u4ihUBpfqumia4k"
+        },
+        {
+          "name": "Magda Szczebiot",
+          "url": "https://open.spotify.com/artist/76lCUlBvj6ZyMbohoYSlaX"
+        },
+        {
+          "name": "Agnieszka Pokorska",
+          "url": "https://open.spotify.com/artist/6tow0VqHl4rZK7jZg77bSK"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "chaos",
+      "url": "https://open.spotify.com/track/7y6b5hITEAQORufM2gs8mM"
+    },
+    {
+      "album": {
         "name": "Chodzili\u015bmy nocami",
         "url": "https://open.spotify.com/album/1TzeQF6yFHilcxCpMiqlRu"
       },
@@ -327,6 +353,24 @@
     },
     {
       "album": {
+        "name": "Czy masz si\u0142\u0119 by kocha\u0107?",
+        "url": "https://open.spotify.com/album/79RhKGcQEcdhmAXuUOJS6Q"
+      },
+      "artists": [
+        {
+          "name": "KOLORY",
+          "url": "https://open.spotify.com/artist/1P95gCESH2kyAAUOl1GWsd"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Czy masz si\u0142e by kocha\u0107?",
+      "url": "https://open.spotify.com/track/5x8UMYUwwMoKFf6p6pyyzI"
+    },
+    {
+      "album": {
         "name": "romantyzuj\u0119 EP",
         "url": "https://open.spotify.com/album/1npaNdX2BlFVJut1qvGzpR"
       },
@@ -378,7 +422,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 193842,
       "name": "Do po\u0142owy",
       "url": "https://open.spotify.com/track/35nGS4DzbzhBulUxfiML2h"
@@ -559,6 +603,42 @@
     },
     {
       "album": {
+        "name": "Kosmosy",
+        "url": "https://open.spotify.com/album/30I9WyETvOCanXQFRxJqN7"
+      },
+      "artists": [
+        {
+          "name": "Kuba D\u0105browski",
+          "url": "https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175758,
+      "name": "Kosmosy",
+      "url": "https://open.spotify.com/track/1pJutt0aXEbS1uuFu2qK6w"
+    },
+    {
+      "album": {
+        "name": "Ko\u0142owrotek",
+        "url": "https://open.spotify.com/album/218Gbopr1WBBtDj7VwN8kJ"
+      },
+      "artists": [
+        {
+          "name": "Wojtek Szuma\u0144ski",
+          "url": "https://open.spotify.com/artist/6CoX6j5AX2rK7bRawkDqEI"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178170,
+      "name": "Ko\u0142owrotek",
+      "url": "https://open.spotify.com/track/3P5Sj49AHNNyA4GgJ6WID7"
+    },
+    {
+      "album": {
         "name": "Kultura",
         "url": "https://open.spotify.com/album/14nSVNRKHBR54jxoEDfLbx"
       },
@@ -628,7 +708,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 152909,
       "name": "Ma\u0142y \u015awiat",
       "url": "https://open.spotify.com/track/76vZB7JaZw7QCHy4lTh2qo"
@@ -813,6 +893,28 @@
     },
     {
       "album": {
+        "name": "Mo\u017cna",
+        "url": "https://open.spotify.com/album/5kk3OcTyltZF9aeUa3H5Ah"
+      },
+      "artists": [
+        {
+          "name": "Nosowska",
+          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
+        },
+        {
+          "name": "B\u0142a\u017cej Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240280,
+      "name": "Mo\u017cna",
+      "url": "https://open.spotify.com/track/52vC20FdPjQTcENZuUCy4C"
+    },
+    {
+      "album": {
         "name": "My\u015bl\u0119 sobie, \u017b",
         "url": "https://open.spotify.com/album/7v0o8LcqjbGCprYoKg2ptg"
       },
@@ -832,6 +934,24 @@
       "duration_ms": 170905,
       "name": "My\u015bl\u0119 sobie, \u017b",
       "url": "https://open.spotify.com/track/3HmXpWEdyrczsUgbUAd3qe"
+    },
+    {
+      "album": {
+        "name": "nanana - z filmu \u201eDru\u017cyna A(A)\u201d",
+        "url": "https://open.spotify.com/album/6hyWOn14ZqwVZbqlQpgi8O"
+      },
+      "artists": [
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128993,
+      "name": "nanana - z filmu \u201eDru\u017cyna A(A)\u201d",
+      "url": "https://open.spotify.com/track/2QWniP8acBEmDa3nkdBOMw"
     },
     {
       "album": {
@@ -944,7 +1064,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 193669,
       "name": "No szczerze",
       "url": "https://open.spotify.com/track/195clxypPCgYtrkiFbtMae"
@@ -1064,10 +1184,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 156201,
       "name": "oda do s\u0105siada",
       "url": "https://open.spotify.com/track/2wZQeYxRsRydrycpulPHhc"
+    },
+    {
+      "album": {
+        "name": "Oddycham",
+        "url": "https://open.spotify.com/album/3pmA5zGUrSJxybqf6Dkvpe"
+      },
+      "artists": [
+        {
+          "name": "Jan Marczewski",
+          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148153,
+      "name": "Oddycham",
+      "url": "https://open.spotify.com/track/14tZsoTlEz2YNyPjLXJ38C"
     },
     {
       "album": {
@@ -1100,10 +1238,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 214054,
       "name": "Ogr\u00f3d Eden",
       "url": "https://open.spotify.com/track/7zzX9acYnwrp1p0pBbuDXo"
+    },
+    {
+      "album": {
+        "name": "Oko (Remix)",
+        "url": "https://open.spotify.com/album/0B0Uy0BtGaxn64kfGW7K23"
+      },
+      "artists": [
+        {
+          "name": "Sara Kordowska",
+          "url": "https://open.spotify.com/artist/0tEwXd8Y8XF92pbRVVGq9P"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201567,
+      "name": "Oko - Remix",
+      "url": "https://open.spotify.com/track/5flAr27it6fM7iI1jt7fQi"
     },
     {
       "album": {
@@ -1154,7 +1310,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 215400,
       "name": "Ozdoba",
       "url": "https://open.spotify.com/track/32GWeHkDUF3PhWPM1U1DuX"
@@ -1289,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Pod wod\u0105",
+        "url": "https://open.spotify.com/album/06R90PYpe53UUVMPLpwWQq"
+      },
+      "artists": [
+        {
+          "name": "Natalia Grosiak",
+          "url": "https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175383,
+      "name": "Pod wod\u0105",
+      "url": "https://open.spotify.com/track/2D2njkTuNU2sL6qzy1gNhq"
+    },
+    {
+      "album": {
         "name": "Pop I Disco",
         "url": "https://open.spotify.com/album/19P2OadhL7w0Y7yboP8Lhu"
       },
@@ -1358,7 +1532,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 354400,
       "name": "Radical Kindness",
       "url": "https://open.spotify.com/track/0Twtb0Mi3I6McMdh6UNK3y"
@@ -1376,7 +1550,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 180000,
       "name": "reflektory",
       "url": "https://open.spotify.com/track/18DsvCkv4DnTSfWDUynIxz"
@@ -1394,7 +1568,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 202037,
       "name": "Sama na planecie",
       "url": "https://open.spotify.com/track/6CLZ7p4N5wTIbY7qzApcrD"
@@ -1456,7 +1630,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 185000,
       "name": "Sk\u0142adam si\u0119",
       "url": "https://open.spotify.com/track/6p5DXBcSSEQJKWVI979iCb"
@@ -1478,10 +1652,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 213428,
       "name": "Smutek lubi mnie",
       "url": "https://open.spotify.com/track/5EWUr19AepSJEHR2lIFWQi"
+    },
+    {
+      "album": {
+        "name": "Spotkanie z Warszaw\u0105",
+        "url": "https://open.spotify.com/album/6EhTMfJz1M4X4zICCMimsa"
+      },
+      "artists": [
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146332,
+      "name": "Spotkanie z Warszaw\u0105",
+      "url": "https://open.spotify.com/track/5hDNh1K9yB8stfqMFqlly7"
     },
     {
       "album": {
@@ -1590,7 +1782,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 175601,
       "name": "Taki sam",
       "url": "https://open.spotify.com/track/02jQS3HryEg3epjoGqObzC"
@@ -1630,6 +1822,24 @@
       "duration_ms": 187434,
       "name": "teleranek",
       "url": "https://open.spotify.com/track/68lwG3Z14g6ZguSpUCtqUD"
+    },
+    {
+      "album": {
+        "name": "Too Sad",
+        "url": "https://open.spotify.com/album/0BHSgIWKARuOoE8q0X9xpk"
+      },
+      "artists": [
+        {
+          "name": "The Bobo",
+          "url": "https://open.spotify.com/artist/1dhQg6urYCnTQhYWG8tsvE"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232754,
+      "name": "Too Sad",
+      "url": "https://open.spotify.com/track/6LI0IgqX2Oft1IcqEuNIkB"
     },
     {
       "album": {
@@ -1764,6 +1974,24 @@
       "duration_ms": 225586,
       "name": "W naszym zabetonowanym mie\u015bcie",
       "url": "https://open.spotify.com/track/32y76Kpr1jZEG8UBoKZKvN"
+    },
+    {
+      "album": {
+        "name": "Wielgachne karuzele",
+        "url": "https://open.spotify.com/album/15nLLpE2HFEgA4HZMCHumx"
+      },
+      "artists": [
+        {
+          "name": "micha\u0142 od ko\u015bci",
+          "url": "https://open.spotify.com/artist/4SWaZDXBz7FgqxwOi0iVtI"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210618,
+      "name": "Wielgachne karuzele",
+      "url": "https://open.spotify.com/track/3dd8wmHqL7cY2bk71irNaX"
     },
     {
       "album": {
@@ -1921,6 +2149,28 @@
     },
     {
       "album": {
+        "name": "Zas\u0142o\u0144",
+        "url": "https://open.spotify.com/album/2Eo0Y7LIAlzmmFskTezBl6"
+      },
+      "artists": [
+        {
+          "name": "Vincent",
+          "url": "https://open.spotify.com/artist/43dVSEV7mQfhBINR9Lx6f0"
+        },
+        {
+          "name": "Odet",
+          "url": "https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299000,
+      "name": "Zas\u0142o\u0144",
+      "url": "https://open.spotify.com/track/1seZf4bOnKtXWJhRXjvosT"
+    },
+    {
+      "album": {
         "name": "Ze Sprite\u2019em",
         "url": "https://open.spotify.com/album/1bY0t7aB2LTE2mi6yYZ7p8"
       },
@@ -1994,7 +2244,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 217606,
       "name": "Znajd\u0119 Sw\u00f3j Dom",
       "url": "https://open.spotify.com/track/6MhSfYDUzSOpgs60d7twcC"

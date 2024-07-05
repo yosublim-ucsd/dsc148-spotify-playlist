@@ -4,7 +4,7 @@
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-221 songs - 21 hr 35 min
+222 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Holy Desire \(From Worship Nights at the Barn\)](https://open.spotify.com/track/37o1DSQq5WzSFjYKKXDDIR) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 9:29 | 2020-06-26 | 2024-06-29 |
 | [Holy Forever](https://open.spotify.com/track/5vJNJVYbtBYOSAD4qzq7hy) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Holy Forever](https://open.spotify.com/album/2BDoSC4fVtlCSOgyavzdrV) | 3:43 | 2024-06-22 |  |
 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 | 2024-06-22 |  |
+| [Holy Roar](https://open.spotify.com/track/2IPWIK1PH9ArgXTaKmk7Ly) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:11 | 2024-06-22 |  |
 | [Holy Spirit \- Live](https://open.spotify.com/track/5Xjcst6Rle74VteHx0zczO) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Live From New York](https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP) | 8:09 | 2020-06-26 | 2024-06-23 |
 | [Hosanna \- Live](https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 6:29 | 2020-06-26 |  |
 | [I Stand Here](https://open.spotify.com/track/51eNSYUSTzMn1iPxtkgXWd) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Overflow](https://open.spotify.com/album/36zbRaoRByQr4yNEdFxe9Y) | 3:44 | 2020-06-26 | 2024-06-23 |
@@ -138,7 +139,7 @@
 | [Million Little Miracles \(feat\. Joe L Barnes\)](https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 6:45 | 2024-06-22 |  |
 | [Miracles](https://open.spotify.com/track/7pLzF3koIVzFhBqUBeoVuz) | [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [Miracles](https://open.spotify.com/album/0fXj96ET3plxFGYFTLiuTe) | 4:07 | 2020-06-26 | 2022-06-25 |
 | [Miracles \- Studio Version](https://open.spotify.com/track/5QL5pIVHYuewm4G3gsjE1j) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Miracles \(Studio Version\)](https://open.spotify.com/album/69QFZTaRSOvyEsVREdUxaa) | 5:19 | 2020-06-26 | 2022-10-06 |
-| [More Than Enough \- Live](https://open.spotify.com/track/156GrZB2Ijf2rH4dgxaPcl) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [More Than Enough / Still In Control \(Live\)](https://open.spotify.com/album/1ue3FXYsAQEzWFpUwc3SyL) | 8:36 | 2020-06-26 |  |
+| [More Than Enough \- Live](https://open.spotify.com/track/156GrZB2Ijf2rH4dgxaPcl) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [More Than Enough / Still In Control \(Live\)](https://open.spotify.com/album/1ue3FXYsAQEzWFpUwc3SyL) | 8:36 | 2020-06-26 | 2024-07-05 |
 | [More Than Enough \- Live](https://open.spotify.com/track/6EIDCcB7NlRox5jIrErS8b) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Church Volume One \(Live\)](https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj) | 8:36 | 2020-06-26 | 2024-06-23 |
 | [Mover of Mountains \(Live\)](https://open.spotify.com/track/7tj72TNjfyaYeYyQ01yNhP) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2) | [Mover of Mountains](https://open.spotify.com/album/2lpkPfilFnBtHHqwbVk92G) | 5:44 | 2020-06-26 | 2022-07-21 |
 | [Mover Of Mountains \- Live](https://open.spotify.com/track/5xzOWqDeMxavlNPkKrWt9b) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Aaron Lucas](https://open.spotify.com/artist/0S1Hy45xljd3drmhWaNO6N) | [Mover Of Mountains \(Live\)](https://open.spotify.com/album/5oTXi1hKXRLa4GIpcYweXS) | 5:44 | 2020-06-26 | 2024-04-19 |

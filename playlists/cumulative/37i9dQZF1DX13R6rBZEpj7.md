@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-268 songs - 16 hr 23 min
+269 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Hard Baller](https://open.spotify.com/track/6qjIc90us2mKdFNEr6qdZo) | [Biohzrd](https://open.spotify.com/artist/7Jhx0C8MWbjdZdcraPbOSc) | [Hard Baller](https://open.spotify.com/album/2B51oNisAJxOsYTXhjb9fI) | 3:37 | 2022-05-13 | 2022-10-29 |
 | [Hard Hitters](https://open.spotify.com/track/1QVQdgkRXRD4WON1AHvs1k) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Hard Hitters](https://open.spotify.com/album/2uKCc6oR55TkMuSGTYJIyK) | 3:52 | 2022-04-15 | 2023-05-19 |
 | [Hard Hitters](https://open.spotify.com/track/6T4YgCYDVBlzpdtsknFeQ7) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Hard Hitters](https://open.spotify.com/album/10ugYCkUnBCin3OWtGTlMl) | 3:52 | 2023-04-04 | 2024-03-14 |
+| [Haters](https://open.spotify.com/track/7g8lJpwAKpkW9eNtuVgldf) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Haters](https://open.spotify.com/album/6NMfvPauhjeFWuj3jfwLRk) | 2:58 | 2024-07-05 |  |
 | [Haunter](https://open.spotify.com/track/0IptiiymmfXv3j2NSCHlrm) | [Dr.Oscillator](https://open.spotify.com/artist/0rMuvMAwCY7ciR8ZL0HZyV) | [Cuckoo EP](https://open.spotify.com/album/7Joe9vMJE6545YJxhC0Mww) | 3:33 | 2022-05-20 | 2022-06-08 |
 | [Heartbeat](https://open.spotify.com/track/6Oix0EalSiYYUBOO6xhAaZ) | [Kirbs](https://open.spotify.com/artist/4nuxG6KiK9pq1GRc89GkIm), [DEEPROT](https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC) | [Heartbeat](https://open.spotify.com/album/2zY0mxdrK2mopZ69Id9pQ9) | 3:35 | 2022-04-15 | 2022-07-23 |
 | [Hide N Seek \(feat\. TAET\)](https://open.spotify.com/track/2K2FgAoIodVpU9bBlU7hhP) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [TAET](https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f) | [Hide N Seek \(feat\. TAET\)](https://open.spotify.com/album/16JAgjFAEpguF9mMQV89EQ) | 2:48 | 2023-09-22 |  |
@@ -211,7 +212,7 @@
 | [Redlight](https://open.spotify.com/track/60GofMxxkrLuEIOS9JluGG) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Liberation](https://open.spotify.com/album/5JX891euRdXxQuUNl5f1oW) | 4:09 | 2023-08-24 | 2024-02-20 |
 | [Renegade](https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Renegade](https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8) | 2:34 | 2022-10-28 | 2023-12-22 |
 | [Repeat](https://open.spotify.com/track/3Sexd25qv3yWod8ONwMbrM) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Repeat](https://open.spotify.com/album/2AEe70g4XiNVguRpGEy9Iq) | 3:33 | 2022-04-15 | 2022-07-17 |
-| [Ruffneck](https://open.spotify.com/track/2IdA9NR0QVKYDWKQZObq0s) | [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B), [James Bangura](https://open.spotify.com/artist/7939stjhhD9rNBMg0HvQ4o) | [Ruffneck](https://open.spotify.com/album/266vU1sTez2M31BgOIYEhL) | 4:18 | 2024-06-14 |  |
+| [Ruffneck](https://open.spotify.com/track/2IdA9NR0QVKYDWKQZObq0s) | [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B), [James Bangura](https://open.spotify.com/artist/7939stjhhD9rNBMg0HvQ4o) | [Ruffneck](https://open.spotify.com/album/266vU1sTez2M31BgOIYEhL) | 4:18 | 2024-06-14 | 2024-07-05 |
 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 | 2022-04-15 |  |
 | [Run It](https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Run It](https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF) | 3:31 | 2024-04-05 |  |
 | [Run It](https://open.spotify.com/track/0sIdaWJNmPdm9bMjEWQ9o0) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Run It](https://open.spotify.com/album/72Q8YF27WdFf70eWC4EtGf) | 3:56 | 2022-04-15 | 2023-05-26 |

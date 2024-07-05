@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Agoney.",
-  "num_followers": 18146,
+  "num_followers": 18148,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
+        "name": "Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/4hGUrh2bJTWGAEW5C5hG7e"
+      },
+      "artists": [
+        {
+          "name": "AXHE",
+          "url": "https://open.spotify.com/artist/0Yd11KNwQqqx6kEmuuSfEe"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/4cyWCJlJmLB5C4ArEC9KhN"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
         "name": "Me Gustas Demasiado - Remix",
         "url": "https://open.spotify.com/album/192BQCY2BJGJtpNAuaJLQc"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 161351,
       "name": "Me Gustas Demasiado - Remix",
       "url": "https://open.spotify.com/track/0NXhi0ibdZ0lk5JT6kjfgw"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
-        "name": "Conexi\u00f3n",
-        "url": "https://open.spotify.com/album/4hGUrh2bJTWGAEW5C5hG7e"
-      },
-      "artists": [
-        {
-          "name": "AXHE",
-          "url": "https://open.spotify.com/artist/0Yd11KNwQqqx6kEmuuSfEe"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Conexi\u00f3n",
-      "url": "https://open.spotify.com/track/4cyWCJlJmLB5C4ArEC9KhN"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -583,6 +583,26 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
+        "name": "GINGA",
+        "url": "https://open.spotify.com/album/57iM0Ss6kTZ1SxAzPR1K8Z"
+      },
+      "artists": [
+        {
+          "name": "Lua de Santana",
+          "url": "https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam"
+        },
+        {
+          "name": "nusar3000",
+          "url": "https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex"
+        }
+      ],
+      "duration_ms": 157297,
+      "name": "iLUS\u00c3O II",
+      "url": "https://open.spotify.com/track/2ltTdQRvLbRaD5KxVWwEVe"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
         "name": "Collar Fular",
         "url": "https://open.spotify.com/album/1JuSedkicPVexihsz6qHuP"
       },
@@ -723,26 +743,6 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "GINGA",
-        "url": "https://open.spotify.com/album/57iM0Ss6kTZ1SxAzPR1K8Z"
-      },
-      "artists": [
-        {
-          "name": "Lua de Santana",
-          "url": "https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam"
-        },
-        {
-          "name": "nusar3000",
-          "url": "https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex"
-        }
-      ],
-      "duration_ms": 157297,
-      "name": "iLUS\u00c3O II",
-      "url": "https://open.spotify.com/track/2ltTdQRvLbRaD5KxVWwEVe"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
         "name": "INSOLITO",
         "url": "https://open.spotify.com/album/7EUEvZd0Meiv7StmNSdISn"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "invisible",
-        "url": "https://open.spotify.com/album/5SBLJieZS1BQbNOqTXnQ01"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 189536,
-      "name": "invisible",
-      "url": "https://open.spotify.com/track/2xhKj6tAJ4g3BzhJR8JZkl"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/0MrBdxJiBDtIPyujW0nGzT"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 219840,
       "name": "33",
       "url": "https://open.spotify.com/track/5JBtPAHeH3p2q7w0p14TJ3"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
+        "name": "invisible",
+        "url": "https://open.spotify.com/album/5SBLJieZS1BQbNOqTXnQ01"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 189536,
+      "name": "invisible",
+      "url": "https://open.spotify.com/track/2xhKj6tAJ4g3BzhJR8JZkl"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
+        "name": "estonovabien",
+        "url": "https://open.spotify.com/album/3v1KsYYv3bgQJujQqPuDuW"
+      },
+      "artists": [
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        }
+      ],
+      "duration_ms": 161354,
+      "name": "estonovabien",
+      "url": "https://open.spotify.com/track/0BIS2dEAuLOxAyfC1lvzsD"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
         "name": "Demasiada Mujer",
         "url": "https://open.spotify.com/album/5gfklqSJCw2qHpWHmHQgTF"
       },
@@ -919,34 +935,18 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "estonovabien",
-        "url": "https://open.spotify.com/album/3v1KsYYv3bgQJujQqPuDuW"
+        "name": "LAS 12",
+        "url": "https://open.spotify.com/album/6F4y3KOBfxEA2Zs6N5Ztbl"
       },
       "artists": [
         {
-          "name": "Safree",
-          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+          "name": "Morreo",
+          "url": "https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d"
         }
       ],
-      "duration_ms": 161354,
-      "name": "estonovabien",
-      "url": "https://open.spotify.com/track/0BIS2dEAuLOxAyfC1lvzsD"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
-        "name": "Prometo (Edici\u00f3n especial)",
-        "url": "https://open.spotify.com/album/1jLNPWcykNvUNoWBWBPjep"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "No vaya a ser",
-      "url": "https://open.spotify.com/track/3QVP0l1NB4MS0mVXWVuao6"
+      "duration_ms": 147895,
+      "name": "LAS 12",
+      "url": "https://open.spotify.com/track/1dXGCiV6HBjCqsp7lzioJi"
     }
   ],
   "unique_name": "Glow Espa\u00f1a",

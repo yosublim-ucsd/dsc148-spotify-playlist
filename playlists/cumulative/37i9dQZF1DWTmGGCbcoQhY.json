@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 194560,
       "name": "20 Rosas",
       "url": "https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF"
@@ -230,6 +230,24 @@
       "duration_ms": 196597,
       "name": "Al\u00e9jate de Mi",
       "url": "https://open.spotify.com/track/2elSQMWeHJCiMCmwAUf43W"
+    },
+    {
+      "album": {
+        "name": "Amapola",
+        "url": "https://open.spotify.com/album/4wQyFooTbXzKtuQcFY9nCD"
+      },
+      "artists": [
+        {
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210006,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/1NTJqSvw0dWzU68EQPfKNs"
     },
     {
       "album": {
@@ -724,7 +742,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 227485,
       "name": "Copos de Nieve",
       "url": "https://open.spotify.com/track/6pKKY70MelQKN7LPF0g3SY"
@@ -970,7 +988,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 308320,
       "name": "Cumbia Cholula",
       "url": "https://open.spotify.com/track/7pY2KAZTR53YbiLtbYLPvI"
@@ -1710,7 +1728,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 228573,
       "name": "El Piropo",
       "url": "https://open.spotify.com/track/0AicPuyh78tIpIkOb2egJD"
@@ -1991,6 +2009,24 @@
     },
     {
       "album": {
+        "name": "ES EL AMOR",
+        "url": "https://open.spotify.com/album/4DudCZWhCksvU55qJ4SJPL"
+      },
+      "artists": [
+        {
+          "name": "Los gatos mojados",
+          "url": "https://open.spotify.com/artist/0ibSNu8s3dD6H7oW9frGqn"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289738,
+      "name": "ES EL AMOR",
+      "url": "https://open.spotify.com/track/6OfZTJqKYJ4QM8WNJt0ky3"
+    },
+    {
+      "album": {
         "name": "Esa Parte de M\u00ed",
         "url": "https://open.spotify.com/album/1fzcF6XsOj2O9UfxJm0LZd"
       },
@@ -2187,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "Ilusi\u00f3n y M\u00e1s Ilusi\u00f3n",
+        "url": "https://open.spotify.com/album/4mLoZZEfZ9TC9q5AmikXB9"
+      },
+      "artists": [
+        {
+          "name": "Cuerdas De Venezuela",
+          "url": "https://open.spotify.com/artist/3lmP34nf7TS7DuCpmcdUMy"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177093,
+      "name": "Ilusi\u00f3n",
+      "url": "https://open.spotify.com/track/2PzXc0FEgMEi08IAUuSr8H"
+    },
+    {
+      "album": {
         "name": "Oro Puro: \u00c9xitos",
         "url": "https://open.spotify.com/album/21g7e1NwMiTJMr6G38h0hA"
       },
@@ -2292,7 +2346,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 210955,
       "name": "La Cumbia Triste",
       "url": "https://open.spotify.com/track/2sAFBZ8a7uTT7tsAsjoUzo"
@@ -2624,7 +2678,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 316004,
       "name": "Las Palmitas del Ecuador",
       "url": "https://open.spotify.com/track/0rJ2dL2qhBg1WerWMUZQfK"
@@ -4172,6 +4226,24 @@
       "duration_ms": 176226,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/4yUAN9jxzSyUQwDqoeAn2o"
+    },
+    {
+      "album": {
+        "name": "Tarjeta de Invitaci\u00f3n",
+        "url": "https://open.spotify.com/album/7pvoIdjqLxmEwstHNRmXPh"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Ca\u00f1onera",
+          "url": "https://open.spotify.com/artist/0wkdyY6A8F2q6krgWyrdAC"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203415,
+      "name": "Te Espero en el Cielo",
+      "url": "https://open.spotify.com/track/2g1XCPG2kO8VeUMXWLsQLN"
     },
     {
       "album": {

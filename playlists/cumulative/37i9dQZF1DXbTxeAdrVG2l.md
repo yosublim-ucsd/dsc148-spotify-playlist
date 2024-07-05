@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1990s\. Cover: Céline Dion
 
-721 songs - 2 day 3 hr 8 min
+722 songs - 2 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Alive](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:40 | 2019-06-27 |  |
 | [All 'Bout the Money](https://open.spotify.com/track/0rYiRqCAEbLHf1pCryJU9q) | [Meja](https://open.spotify.com/artist/4eYjWapog2qNOYRnqBvGXP) | [Seven Sisters](https://open.spotify.com/album/4Cx7cTqEim77ZhtarAkcvd) | 2:52 | 2019-07-22 | 2022-04-19 |
 | [All Around the World \- Remastered](https://open.spotify.com/track/1DapqOfkDAQCiKnvfwKo0g) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1), [Ian Devaney](https://open.spotify.com/artist/6Ufm4BHf4ZdolpvcvYgH2S), [Andy Morris](https://open.spotify.com/artist/0A1FSG9WZ2dQ5JSkQYJHIp) | [Affection](https://open.spotify.com/album/2NGdpRuh0JgRLrdAK8AyNR) | 4:25 | 2019-07-16 | 2022-04-21 |
+| [All By Myself](https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 5:12 | 2024-06-19 |  |
 | [All for Love](https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [If We Fall in Love Tonight](https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6) | 4:41 | 2020-04-04 | 2021-04-16 |
 | [All For Love \- From "The Three Musketeers"](https://open.spotify.com/track/035aFnfIrO25Hy4PRP6GC7) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Ultimate](https://open.spotify.com/album/3AUHDaXUhZimlDLFh4sTDV) | 4:43 | 2020-12-22 | 2022-07-29 |
 | [All I Wanna Do](https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Tuesday Night Music Club](https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU) | 4:32 | 2020-12-22 |  |
@@ -231,7 +232,7 @@
 | [Gin And Juice \(feat\. Dat Nigga Daz\)](https://open.spotify.com/track/0WKYRFtH6KKbaNWjsxqm70) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4) | [Doggystyle](https://open.spotify.com/album/7f9KDGqY7X2VLBM5aA66KM) | 3:31 | 2019-07-18 | 2019-07-31 |
 | [Girl You Know It's True](https://open.spotify.com/track/24K5er7fAl8bNeF5H8nMAU) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [Frank Farian \- Summer Hits](https://open.spotify.com/album/1sF1gSmmVfcT8s6m9BWfp7) | 3:17 | 2019-07-17 | 2019-07-18 |
 | [Girl You Know It's True](https://open.spotify.com/track/0C7dYeCLF6ukChtW64UNge) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [Girl You Know It's True \- The Best Of Milli Vanilli](https://open.spotify.com/album/67QUZa2DQaBdeQvPQGfSkL) | 3:18 | 2019-07-29 | 2019-08-09 |
-| [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 | 2019-07-18 |  |
+| [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 | 2019-07-18 | 2024-07-05 |
 | [Give It Away](https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:42 | 2021-04-29 |  |
 | [Gone Till November](https://open.spotify.com/track/6Gd123r71KDdpH8JRdYvrh) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Greatest Hits](https://open.spotify.com/album/0PoNWtqQ56RftkM9nDfKCz) | 3:27 | 2019-07-16 | 2019-08-27 |
 | [Gonna Make You Sweat \(Everybody Dance Now\)](https://open.spotify.com/track/36rXHqN7D1ETFhyKXXKs4w) | [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF) | [Gonna Make You Sweat](https://open.spotify.com/album/5obiQeM3NZ4NMsoeVxNDxw) | 4:03 | 2019-07-16 | 2022-07-29 |

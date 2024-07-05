@@ -1,12 +1,12 @@
 {
   "description": "This is keshi. The essential tracks, all in one playlist.",
-  "num_followers": 217794,
+  "num_followers": 217910,
   "original_name": "This Is keshi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoNDAAAAAAAZN7jQHlhV7MDGlTnp+1f4",
+  "snapshot_id": "ZoSUgAAAAABohScV4E/3q+cnVg1B3aq4",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,26 @@
       "duration_ms": 166023,
       "name": "beside you",
       "url": "https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOVE IN STEREO",
+        "url": "https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "IT'S YOU (feat. keshi)",
+      "url": "https://open.spotify.com/track/1hWDc5jD5br9pXSOtubFlf"
     },
     {
       "added_at": null,
@@ -255,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "magnolia",
-        "url": "https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py"
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
       },
       "artists": [
         {
@@ -264,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 139623,
-      "name": "magnolia",
-      "url": "https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg"
+      "duration_ms": 171019,
+      "name": "ANGOSTURA",
+      "url": "https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3"
     },
     {
       "added_at": null,
@@ -287,6 +307,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "magnolia",
+        "url": "https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 139623,
+      "name": "magnolia",
+      "url": "https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bandaids",
+        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "alright",
+      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GABRIEL",
         "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
       },
@@ -299,6 +351,22 @@
       "duration_ms": 205346,
       "name": "TOUCH",
       "url": "https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "always",
+        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 248010,
+      "name": "us",
+      "url": "https://open.spotify.com/track/3r9eGg4SVPbhtiPTA9UkmK"
     },
     {
       "added_at": null,
@@ -319,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
-        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
+        "name": "skeletons",
+        "url": "https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0"
       },
       "artists": [
         {
@@ -328,9 +396,25 @@
           "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 193373,
-      "name": "War With Heaven",
-      "url": "https://open.spotify.com/track/14gmLQPNYokqB8OKxAp69f"
+      "duration_ms": 165213,
+      "name": "summer",
+      "url": "https://open.spotify.com/track/0LqCvXVNvcnkq78sCQsoO0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 160042,
+      "name": "HELL/HEAVEN",
+      "url": "https://open.spotify.com/track/4ZrT4GknVWRvBYA8AcLCeY"
     },
     {
       "added_at": null,
@@ -351,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
+        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
       },
       "artists": [
         {
@@ -360,9 +444,9 @@
           "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 160042,
-      "name": "HELL/HEAVEN",
-      "url": "https://open.spotify.com/track/4ZrT4GknVWRvBYA8AcLCeY"
+      "duration_ms": 193373,
+      "name": "War With Heaven",
+      "url": "https://open.spotify.com/track/14gmLQPNYokqB8OKxAp69f"
     },
     {
       "added_at": null,
@@ -415,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 247282,
-      "name": "ANGEL",
-      "url": "https://open.spotify.com/track/0srUf03MHZ4cbOO4o2ydDu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "onoffonoff",
         "url": "https://open.spotify.com/album/0GJmg6PCM2HKNv8CfdkNgX"
       },
@@ -447,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "skeletons",
-        "url": "https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 171520,
-      "name": "atlas",
-      "url": "https://open.spotify.com/track/0PQK5efczMVIIjScPRZYH5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "always",
         "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
       },
@@ -475,6 +527,22 @@
       "duration_ms": 184011,
       "name": "more",
       "url": "https://open.spotify.com/track/24Sqz5FNuD6D5Utxeg4DmK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "skeletons",
+        "url": "https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 171520,
+      "name": "atlas",
+      "url": "https://open.spotify.com/track/0PQK5efczMVIIjScPRZYH5"
     },
     {
       "added_at": null,

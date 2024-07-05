@@ -575,6 +575,24 @@
     },
     {
       "album": {
+        "name": "Desire (Remastered 2006)",
+        "url": "https://open.spotify.com/album/2fdzGZ4azyny9eXwKBZe23"
+      },
+      "artists": [
+        {
+          "name": "Pure Saturday",
+          "url": "https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243304,
+      "name": "Desire - Remastered 2006",
+      "url": "https://open.spotify.com/track/09W7rB2LtPqaAjZ4caPRNT"
+    },
+    {
+      "album": {
         "name": "Ketika La La La",
         "url": "https://open.spotify.com/album/1heP6tMSv3osMfEx4btHFd"
       },

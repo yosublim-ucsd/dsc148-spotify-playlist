@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-339 songs - 17 hr 14 min
+340 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [The Nights](https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [The Days / Nights](https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF) | 2:56 | 2023-12-08 |  |
 | [The One](https://open.spotify.com/track/71iBDvsM2h1dcTcMTWJ41j) | [Futuristic Polar Bears](https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7), [HAVOQ](https://open.spotify.com/artist/71ujKAKr4j1X7n4Hio2u7C), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [The One](https://open.spotify.com/album/2cdvMdWc7OsyiqJj79vhMk) | 3:03 | 2022-07-29 | 2023-08-11 |
 | [The Ones We Love \- ARTY Remode](https://open.spotify.com/track/66dv5lOc8zxYdAJzhFDvJb) | [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [The Ones We Love \(ARTY Remode\)](https://open.spotify.com/album/2s2nN8FW7mOJR2jwzmPstA) | 3:59 | 2022-07-29 |  |
+| [The Ones We Love \- VIP Mix](https://open.spotify.com/track/1wt09Ym7YlhKle5q5pGaqG) | [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [The Ones We Love \(VIP Mix\)](https://open.spotify.com/album/7Istc5og7wYdWlkXbPkPzT) | 2:23 | 2024-07-04 |  |
 | [The Pulse Of Machine](https://open.spotify.com/track/1cUOfO7FdFwz5U5Jhm4Jwo) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM) | [The Pulse Of Machine](https://open.spotify.com/album/4oN1LfYW0EY0sF1DKTqgr4) | 3:21 | 2023-06-15 |  |
 | [The Reason](https://open.spotify.com/track/7iYH0oTBEqDUnZrD6E2NuO) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [The Reason](https://open.spotify.com/album/58qHxsua3VudAGBKXo3ESP) | 3:27 | 2024-03-28 |  |
 | [The Way](https://open.spotify.com/track/1BustUyHtfpiRYbs0atiro) | [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM), [AlterBoyz](https://open.spotify.com/artist/7FOSeFufRu4OHI7o1YWW2j), [Melody Mane](https://open.spotify.com/artist/48gbf4ARAxb4gb6dsQrSF7) | [The Way](https://open.spotify.com/album/3wh5DSamOl79eetXWmfPfe) | 2:49 | 2022-11-18 | 2023-02-25 |

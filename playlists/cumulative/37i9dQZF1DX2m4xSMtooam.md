@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-266 songs - 16 hr 56 min
+267 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Just Chill and Breathe](https://open.spotify.com/track/1IibcoE7Dfr7n8AmdnW2EN) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Just Chill and Breathe](https://open.spotify.com/album/5CUrICr5idsitMLUdupNTA) | 3:11 | 2024-01-17 |  |
 | [Just Like Heaven](https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 4:12 | 2022-05-13 |  |
 | [Just My Type](https://open.spotify.com/track/6JMPmjsg9tWVKZ1KkEhwjo) | [Rosie Frater\-Taylor](https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL) | [Bloom](https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4) | 3:38 | 2022-05-13 | 2024-05-25 |
+| [Know About This](https://open.spotify.com/track/5MqmmihJnGYFs3rXjeAlVY) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Know About This](https://open.spotify.com/album/3KlQjBMtdNufLzYtmubs7Z) | 2:45 | 2024-07-01 |  |
 | [La Belle Dame Sans Regrets](https://open.spotify.com/track/5aAHHNcoXd1SrF5MnbKP2k) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [When I Fall In Love](https://open.spotify.com/album/1ghS8R6i5bVgpKl2JOQIuS) | 5:31 | 2022-05-13 |  |
 | [La Belle Dame Sans Regrets](https://open.spotify.com/track/1kTZPhmN8PW3KrXahh8rs8) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [When I Fall In Love](https://open.spotify.com/album/5Qyx80BQxegTNdvdDkjwJu) | 5:31 | 2022-06-28 | 2024-04-19 |
 | [La Boca](https://open.spotify.com/track/4bsNYygNqXlMyIznr6JMOq) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [La Boca](https://open.spotify.com/album/1KOMNG9vql5kg6q7IbEWe5) | 4:04 | 2023-09-22 |  |
@@ -162,7 +163,7 @@
 | [O Morro Não Tem Vez](https://open.spotify.com/track/6fwICn8FWouigyB8BxfljW) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Composer Of Desafinado, Plays](https://open.spotify.com/album/3tW43cUkPyYkzzntfPwm4A) | 3:20 | 2022-06-28 | 2024-04-19 |
 | [O Morro Não Tem Vez](https://open.spotify.com/track/0BFY4ELzGsvmBEJDqCmkyj) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Verve Jazz Masters 13: Antonio Carlos Jobim](https://open.spotify.com/album/4uFZbUN1TogRO5PTIeDpjr) | 3:25 | 2022-11-10 | 2022-11-12 |
 | [O pato](https://open.spotify.com/track/6u6E9DZgzyyo1oFofn7zIs) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Bossa Nova Essentials](https://open.spotify.com/album/2hVlKPHcnN1xpdnIQOfTfi) | 2:02 | 2022-05-13 | 2022-07-29 |
-| [O Pato](https://open.spotify.com/track/5ZhOwbrUtDDct1EwPQ5OsA) | [Nate Najar](https://open.spotify.com/artist/1Ccc6niyzAjhDEjV3cbKpd), [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl) | [O Pato](https://open.spotify.com/album/7s6RlHdAISgk1hgexQa16Q) | 3:13 | 2022-05-13 |  |
+| [O Pato](https://open.spotify.com/track/5ZhOwbrUtDDct1EwPQ5OsA) | [Nate Najar](https://open.spotify.com/artist/1Ccc6niyzAjhDEjV3cbKpd), [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl) | [O Pato](https://open.spotify.com/album/7s6RlHdAISgk1hgexQa16Q) | 3:13 | 2022-05-13 | 2024-07-05 |
 | [O Pato \- Ultimate Mix](https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:58 | 2022-06-28 | 2022-10-26 |
 | [O Que Sera?](https://open.spotify.com/track/1bAnTqAtb5SZc9N58do9nU) | [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8), [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Rio \(Exclusive International Version\)](https://open.spotify.com/album/3xeSQlUbj1czlmHmRduCFI) | 5:24 | 2022-05-13 |  |
 | [O Qué e Amar](https://open.spotify.com/track/23yWKIqw0l0oYRYWE2wJpe) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [O Qué e Amar](https://open.spotify.com/album/5aQw0jC4z1hDAqlb5Tcngu) | 2:53 | 2023-02-23 |  |

@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 134781,
       "name": "A Beautiful Day",
       "url": "https://open.spotify.com/track/65q5Ei9B7MOxzqhyQYB0b5"
@@ -64,7 +64,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 157562,
       "name": "afterglow",
       "url": "https://open.spotify.com/track/1NVTZFS9vAIBXDwxgcpkpP"
@@ -458,7 +458,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 150443,
       "name": "Are You With Me",
       "url": "https://open.spotify.com/track/6EagnEg9fcmVnVTnVc2pRN"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 183942,
       "name": "Bad Romance",
       "url": "https://open.spotify.com/track/2jsj5LogoxcqCnsyCb9Ksn"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 181016,
       "name": "California in Rain",
       "url": "https://open.spotify.com/track/1JybHYAOzP0sWjzplbruqJ"
@@ -2030,7 +2030,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 170451,
       "name": "Dusk Till Dawn",
       "url": "https://open.spotify.com/track/2Y8F6VghlLx4lpUSDOTHZK"
@@ -2408,7 +2408,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 162105,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/1XHVcapurdhEB39TaktK8I"
@@ -2754,7 +2754,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 153876,
       "name": "Forever Right Now",
       "url": "https://open.spotify.com/track/386xGEhucK6PBV2m79novH"
@@ -2834,7 +2834,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 148571,
       "name": "Full Of Love",
       "url": "https://open.spotify.com/track/0Kb3N09AXSE31ocDcuovoT"
@@ -3408,7 +3408,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 160071,
       "name": "Hold This Memory",
       "url": "https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI"
@@ -3736,7 +3736,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 162000,
       "name": "I Found A Life In You",
       "url": "https://open.spotify.com/track/0pwlF1O6h9MwN3cFnB5rQs"
@@ -4136,7 +4136,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 153904,
       "name": "Jump",
       "url": "https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh"
@@ -4749,6 +4749,32 @@
     },
     {
       "album": {
+        "name": "Listen To Your Heart",
+        "url": "https://open.spotify.com/album/6XIcPXZa2eHldNxzO2v3pF"
+      },
+      "artists": [
+        {
+          "name": "Majesto",
+          "url": "https://open.spotify.com/artist/0fFZroJML4yia5tPZs8SDI"
+        },
+        {
+          "name": "Beachlife",
+          "url": "https://open.spotify.com/artist/2kWRTTOH8rNyFCcFJgPYqF"
+        },
+        {
+          "name": "Xtina Louise",
+          "url": "https://open.spotify.com/artist/2vKEblNGdmCIp2OUEI21YN"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Listen To Your Heart",
+      "url": "https://open.spotify.com/track/5w055aGtin06KLKrC4wRS0"
+    },
+    {
+      "album": {
         "name": "Locked Away",
         "url": "https://open.spotify.com/album/5ubRO0U7w0aQA9vPoy6vP2"
       },
@@ -4981,6 +5007,24 @@
     },
     {
       "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/7rHcwitfLAHkxKkd6HCRiP"
+      },
+      "artists": [
+        {
+          "name": "Seasider",
+          "url": "https://open.spotify.com/artist/3bIeHe3ftDnbJMSyorcPSz"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165737,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/6GYQM3XtjSCBmFHQ7I05rb"
+    },
+    {
+      "album": {
         "name": "Losing Sight",
         "url": "https://open.spotify.com/album/72MjUitQVBs1K22WXK1kOT"
       },
@@ -5198,7 +5242,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 168000,
       "name": "Love is wicked",
       "url": "https://open.spotify.com/track/43NykyiKURBnbz5Hx3gfmF"
@@ -5272,7 +5316,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 129229,
       "name": "Love You Like That",
       "url": "https://open.spotify.com/track/4x1rgaejqJqKxkIiQY06SS"
@@ -5944,7 +5988,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 228250,
       "name": "Nightingale",
       "url": "https://open.spotify.com/track/4z9obgtFzinZXBpwG8Flik"
@@ -6094,7 +6138,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 182950,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/4iJGQ9cTFCPRUbd79ZwcvK"
@@ -6512,7 +6556,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 171130,
       "name": "Rain",
       "url": "https://open.spotify.com/track/7tD0sQp4WMnHTvB5PMy4cc"
@@ -7214,7 +7258,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 131515,
       "name": "Sinking Feeling",
       "url": "https://open.spotify.com/track/3P2xBMOaRPnziqk3tV70eM"
@@ -7528,7 +7572,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 140000,
       "name": "Starting With Something",
       "url": "https://open.spotify.com/track/5yUThZ4ah6PXeaILOky27t"
@@ -7736,7 +7780,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -8124,7 +8168,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 181764,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/2gbmGcKUCyU3bifR49KMAY"
@@ -8776,7 +8820,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 119203,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/6GqARMalvyeKe5m53HnUEo"
@@ -9081,6 +9125,32 @@
     },
     {
       "album": {
+        "name": "While We're Young",
+        "url": "https://open.spotify.com/album/5wmGAEZqqoWe8AbXDW8uZZ"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "Eirik N\u00e6ss",
+          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
+        },
+        {
+          "name": "Cozy Sky",
+          "url": "https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146500,
+      "name": "While We're Young",
+      "url": "https://open.spotify.com/track/2muEoAwQInHRY4wakaqsuq"
+    },
+    {
+      "album": {
         "name": "White Flag",
         "url": "https://open.spotify.com/album/4zxa9Gu0z5rIIfbsGb3wfs"
       },
@@ -9370,7 +9440,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 173225,
       "name": "You're The One",
       "url": "https://open.spotify.com/track/5HHDQBZzFWm00giwxPSF51"
@@ -9422,7 +9492,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 153466,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/2esaWj2n6a6u8lgJTHErlH"

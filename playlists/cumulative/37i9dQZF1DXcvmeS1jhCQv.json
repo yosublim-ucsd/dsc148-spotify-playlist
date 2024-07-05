@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "New tunes from Ireland for your discovery. Cover: KNEECAP #Glastonbury2024",
+  "description": "New tunes from Ireland for your discovery. Cover: Holly Munro",
   "name": "A Breath of Fresh \u00c9ire",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 251544,
       "name": "Attention",
       "url": "https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb"
@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "callmepretty",
+        "url": "https://open.spotify.com/album/77YRVmMourluyvaxnjD3pt"
+      },
+      "artists": [
+        {
+          "name": "CARSTEN2X",
+          "url": "https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110750,
+      "name": "callmepretty",
+      "url": "https://open.spotify.com/track/4J797axvbOfmcYylSrrmK7"
+    },
+    {
+      "album": {
         "name": "Chelsea Bakery",
         "url": "https://open.spotify.com/album/02DHWSoYSF7Q0oyuBO18Pc"
       },
@@ -446,7 +464,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 177437,
       "name": "Chelsea Bakery",
       "url": "https://open.spotify.com/track/4nFnrQgocP9fvcF5lOO87t"
@@ -565,6 +583,24 @@
     },
     {
       "album": {
+        "name": "Daisy Chains (The Summer EP)",
+        "url": "https://open.spotify.com/album/0N9G9tvD1yueaWjpHSVvSQ"
+      },
+      "artists": [
+        {
+          "name": "Aim\u00e9e",
+          "url": "https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200892,
+      "name": "Daisy Chains",
+      "url": "https://open.spotify.com/track/0pCUjjbww2787QjYwlaD7M"
+    },
+    {
+      "album": {
         "name": "daisy chains",
         "url": "https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh"
       },
@@ -576,7 +612,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 165657,
       "name": "daisy chains",
       "url": "https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf"
@@ -688,6 +724,24 @@
       "duration_ms": 181735,
       "name": "Doctor",
       "url": "https://open.spotify.com/track/4y3huzGv2hwDcEinxfAAwm"
+    },
+    {
+      "album": {
+        "name": "don't ask away",
+        "url": "https://open.spotify.com/album/1K6gCwNAKorz3J76szbgB8"
+      },
+      "artists": [
+        {
+          "name": "iNNUENDO",
+          "url": "https://open.spotify.com/artist/27VsqWkHWUPHler8uSUUGk"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193297,
+      "name": "don't ask away",
+      "url": "https://open.spotify.com/track/3DEM4Q6E3Lkri1WmadekkF"
     },
     {
       "album": {
@@ -1289,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/4v4mgHdNHnGXZexZ48N788"
+      },
+      "artists": [
+        {
+          "name": "HANNAHBELLA",
+          "url": "https://open.spotify.com/artist/0HY4L6Y3gywUaQ3FnM22yU"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183088,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/1iKE8ZTRJEW0lr8eus0KFS"
+    },
+    {
+      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/4kwLx8Nn42e8XsrFN2Hdi3"
       },
@@ -1394,6 +1466,24 @@
       "duration_ms": 187822,
       "name": "limerence",
       "url": "https://open.spotify.com/track/0AChzXS7AsnWfY4YOdcKEc"
+    },
+    {
+      "album": {
+        "name": "songs that haunt me",
+        "url": "https://open.spotify.com/album/6SC1shq7vtu0067WrlYl2Z"
+      },
+      "artists": [
+        {
+          "name": "Vaelin",
+          "url": "https://open.spotify.com/artist/0sYFhK15CsSuSWijrR9TAB"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121840,
+      "name": "little bird",
+      "url": "https://open.spotify.com/track/2plfNLZWMndyls7Ts3CDab"
     },
     {
       "album": {
@@ -1950,7 +2040,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 150638,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/0m3rJzSC3u0DAgRp8V5y0b"
@@ -2192,7 +2282,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 188055,
       "name": "rain",
       "url": "https://open.spotify.com/track/2mFHuOSkUuTjknIcm9z1v5"
@@ -2657,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "Annie-Dog",
+        "url": "https://open.spotify.com/album/2Gbd9jVGdt4xbLXNywrs69"
+      },
+      "artists": [
+        {
+          "name": "Annie-Dog",
+          "url": "https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203156,
+      "name": "The Car",
+      "url": "https://open.spotify.com/track/4Qx3YoTw0ZyNbqDCUgboqz"
+    },
+    {
+      "album": {
         "name": "The First Time",
         "url": "https://open.spotify.com/album/2lMsA1YGTTt93coLMkAlFP"
       },
@@ -2744,7 +2852,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 187764,
       "name": "The State",
       "url": "https://open.spotify.com/track/2z8W8Wyfy2XMU7kSnDTPNF"
@@ -3098,7 +3206,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 216610,
       "name": "Wretched",
       "url": "https://open.spotify.com/track/0UpfYdgOKjW6ui1TNnkJUZ"
@@ -3156,6 +3264,24 @@
       "duration_ms": 192682,
       "name": "You're My Medicine",
       "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
+    },
+    {
+      "album": {
+        "name": "Zzz",
+        "url": "https://open.spotify.com/album/6JcLuP2beGauqJtGMlcgon"
+      },
+      "artists": [
+        {
+          "name": "EDEN",
+          "url": "https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Zzz",
+      "url": "https://open.spotify.com/track/32Wy13eItx5ym93GYRpXWt"
     },
     {
       "album": {

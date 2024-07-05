@@ -2,9 +2,9 @@
 
 ### [This Is Coke Studio Pakistan](https://open.spotify.com/playlist/37i9dQZF1DX8D7KQ5MCl7U)
 
-> Piya Piya Calling Out Now\. All Coke Studio Pakistan tracks in one place\. Season 15 updated live.
+> Mehmaan by Zeb Bangash, Noorima Rehan, Nizam Torwal Out Now\. All Coke Studio Pakistan tracks in one place\. Season 15 updated live.
 
-412 songs - 1 day 21 hr 3 min
+413 songs - 1 day 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Ik Aarzu](https://open.spotify.com/track/7Lvo57hmjkKvXu8IVvTRBa) | [Jal](https://open.spotify.com/artist/2f50lwdTtShldrc5JrA5fU), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions \(Season 4\)](https://open.spotify.com/album/49vBV5Xsw7Za0yPIVJZIEs) | 7:46 | 2022-03-23 | 2022-07-25 |
 | [Ilallah](https://open.spotify.com/track/6SWvKdouOwgg6miQrnBGPR) | [Sounds Of Kolachi](https://open.spotify.com/artist/2OXuebtuU3LEKGl6FzTVkF) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 9:33 | 2022-03-23 |  |
 | [Ishq Aap Bhe Awalla](https://open.spotify.com/track/6DjzvEFQl2ei4qGqtxjMzL) | [Chakwal Group](https://open.spotify.com/artist/7dEKxEToxvuy0HTTsihWs2), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 5:48 | 2022-03-23 |  |
-| [Ishq Da Kukkar](https://open.spotify.com/track/0dLJH4sfa4eFqbu22J0sAi) | [Sehar Gul Khan](https://open.spotify.com/artist/2YHl92qiRfNuH0yUtohX4F) | [Ishq Da Kukkar](https://open.spotify.com/album/7t75KSVAjlz1KfXY4U4ZLy) | 5:46 | 2022-03-23 |  |
+| [Ishq Da Kukkar](https://open.spotify.com/track/0dLJH4sfa4eFqbu22J0sAi) | [Sehar Gul Khan](https://open.spotify.com/artist/2YHl92qiRfNuH0yUtohX4F) | [Ishq Da Kukkar](https://open.spotify.com/album/7t75KSVAjlz1KfXY4U4ZLy) | 5:46 | 2022-03-23 | 2024-07-05 |
 | [Ishq Di Booti](https://open.spotify.com/track/5E0CLj4Ka2gsnTdRDoEfK6) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 5:58 | 2022-03-23 | 2024-05-06 |
 | [Ishq Kinara – Üsküdar’a Gider Iken](https://open.spotify.com/track/1PuRm7uUUiNlZ1yZF85e8k) | [Zoe Viccaji](https://open.spotify.com/artist/4CSlFJu7OMFb6hcOL2fElL), [Sumru Ağıryürüyen](https://open.spotify.com/artist/6EFwvy9g5Yn2PjyER2Eafs), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 6:34 | 2022-03-23 |  |
 | [Ith Naheen](https://open.spotify.com/track/7EUU0qFx5xXQ5GKDduT8HU) | [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions \(Season 4\)](https://open.spotify.com/album/49vBV5Xsw7Za0yPIVJZIEs) | 6:34 | 2022-03-23 | 2022-07-25 |
@@ -241,6 +241,7 @@
 | [Maula\-E\-Kull](https://open.spotify.com/track/6uAhKs1xbzs4QIREQzHXb1) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Maula\-E\-Kull](https://open.spotify.com/album/4Gb6vs7OZiB2WDExrgRAdl) | 9:52 | 2022-03-23 | 2024-04-19 |
 | [Maula\-E\-Kull](https://open.spotify.com/track/3zNiOIeRHP8Ag6ILRndRpo) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 9:52 | 2022-03-23 | 2022-07-28 |
 | [Megh](https://open.spotify.com/track/1g1nOuT0bhjE4pYTLGWSUN) | [Aizaz Sohail](https://open.spotify.com/artist/69jbAALzkYxF5CgdADXfVM) | [Megh](https://open.spotify.com/album/4HNKEChltGdtE3cmlB9Io9) | 9:10 | 2022-03-23 | 2022-07-29 |
+| [Mehmaan](https://open.spotify.com/track/0Rf3Vv9vgZrMgJd6egLYrQ) | [Zeb Bangash](https://open.spotify.com/artist/0QuAJhN4N4LgXtdU3yUS24), [Noorima Rehan](https://open.spotify.com/artist/29kMoXQCAKBsVOM9HeO5KY), [Nizam Torwali](https://open.spotify.com/artist/0su8mE6eq8ds8JdPipTfBx) | [Mehmaan](https://open.spotify.com/album/6J7sz4kdwoWvK1kfxjOqce) | 6:13 | 2024-07-04 |  |
 | [Mehram](https://open.spotify.com/track/2oi55VmillH7At5wHVNFbE) | [Asfar Hussain](https://open.spotify.com/artist/7lDDbppbcK5F2ZJXG12pru), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Mehram](https://open.spotify.com/album/1I7fGWBGZzOfsbkxxLGSyq) | 5:38 | 2022-03-23 |  |
 | [Mein Sufi Hoon](https://open.spotify.com/track/0dhamF0vASy4g1gEpC1OKI) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 10:19 | 2022-03-23 |  |
 | [Meri Meri](https://open.spotify.com/track/60sHjeA9m4vJ0yNBUJpyXL) | [Sara Haider](https://open.spotify.com/artist/6SAVSCOYe60i9z4XY9O2Rh), [Rizwan Butt](https://open.spotify.com/artist/7EbkUgsmelOvqaXTsXuH1r), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 6:26 | 2022-03-23 | 2022-07-29 |

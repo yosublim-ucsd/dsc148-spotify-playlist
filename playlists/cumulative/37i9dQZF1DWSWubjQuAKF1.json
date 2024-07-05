@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "nasze brzmienie \u2728 Cover: evelina ross",
+  "description": "nasze brzmienie \u2728 Cover: Cyrko",
   "name": "gen z ",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 230735,
       "name": "2/10",
       "url": "https://open.spotify.com/track/5GyjN34ERWoiTbNDEje48C"
@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Brunetka",
+        "url": "https://open.spotify.com/album/2TOEBudesKUHgjgzN61e7v"
+      },
+      "artists": [
+        {
+          "name": "RYSIA",
+          "url": "https://open.spotify.com/artist/3sobbRn7Mx3TM6HAACPYTp"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147067,
+      "name": "Brunetka",
+      "url": "https://open.spotify.com/track/7LDtaQfgKJIQc7zlwBoTEv"
+    },
+    {
+      "album": {
         "name": "by\u0142o min\u0119\u0142o",
         "url": "https://open.spotify.com/album/7mUd8uGotZWdppu9HwWsnr"
       },
@@ -258,6 +276,24 @@
       "duration_ms": 180000,
       "name": "Chc\u0119 tu zosta\u0107",
       "url": "https://open.spotify.com/track/1rNAoVfBPV1wAeYZzCJfVm"
+    },
+    {
+      "album": {
+        "name": "CHC\u0118 TYLKO KRZYCZE\u0106",
+        "url": "https://open.spotify.com/album/5ywUP1yvmqZLjsopZWQxQt"
+      },
+      "artists": [
+        {
+          "name": "Cyrko",
+          "url": "https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161899,
+      "name": "CHC\u0118 TYLKO KRZYCZE\u0106",
+      "url": "https://open.spotify.com/track/1pHyRBjIwgNvmKYCsI3BRD"
     },
     {
       "album": {
@@ -620,7 +656,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 178181,
       "name": "I Just Need A Friend",
       "url": "https://open.spotify.com/track/407q3NjRIfCG4N75zPeTsU"
@@ -678,7 +714,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 188609,
       "name": "jutro b\u0119dzie furtk\u0105",
       "url": "https://open.spotify.com/track/7CKoaVBHrzovd5lRLnpHAi"
@@ -793,6 +829,42 @@
     },
     {
       "album": {
+        "name": "Kosmosy",
+        "url": "https://open.spotify.com/album/30I9WyETvOCanXQFRxJqN7"
+      },
+      "artists": [
+        {
+          "name": "Kuba D\u0105browski",
+          "url": "https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175758,
+      "name": "Kosmosy",
+      "url": "https://open.spotify.com/track/1pJutt0aXEbS1uuFu2qK6w"
+    },
+    {
+      "album": {
+        "name": "Ko\u0142o mnie",
+        "url": "https://open.spotify.com/album/1iQrmb16dKa2BmbrMfEGz8"
+      },
+      "artists": [
+        {
+          "name": "Magda Drejka",
+          "url": "https://open.spotify.com/artist/0pUTemal7XM7uGxiyphELo"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Ko\u0142o mnie",
+      "url": "https://open.spotify.com/track/0ZuHTXFWitlgzoXTXrMcQR"
+    },
+    {
+      "album": {
         "name": "s\u0142owa, kt\u00f3rych nigdy nie wypowiedzia\u0142am",
         "url": "https://open.spotify.com/album/6evdJOStWbQNA0G8RwgssR"
       },
@@ -804,7 +876,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 214838,
       "name": "Lepsze dni",
       "url": "https://open.spotify.com/track/7HnzviYTC1Ag8hPkBaKvHa"
@@ -1204,7 +1276,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 167253,
       "name": "Niedosyt",
       "url": "https://open.spotify.com/track/79cmiNPdQVHeu2qs6x4JMp"
@@ -1479,6 +1551,24 @@
     },
     {
       "album": {
+        "name": "P\u0119tle",
+        "url": "https://open.spotify.com/album/0VM7z6lryDDKmfqONMDpwa"
+      },
+      "artists": [
+        {
+          "name": "Dereal",
+          "url": "https://open.spotify.com/artist/7HRamaztrCxQDrYR0Z1Sx3"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135366,
+      "name": "P\u0119tle",
+      "url": "https://open.spotify.com/track/2XwIPfgqL1ZcvTdDAwOfkE"
+    },
+    {
+      "album": {
         "name": "rych\u0142o",
         "url": "https://open.spotify.com/album/45wHP18JKaFAEMuUQHoKmm"
       },
@@ -1538,6 +1628,24 @@
       "duration_ms": 160714,
       "name": "Sangria",
       "url": "https://open.spotify.com/track/2eOZVNpzl3BxAlUduZfUPu"
+    },
+    {
+      "album": {
+        "name": "SELFISH",
+        "url": "https://open.spotify.com/album/5UoQemJq64zyyU2DAvOvu2"
+      },
+      "artists": [
+        {
+          "name": "ZUZA",
+          "url": "https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151341,
+      "name": "SELFISH",
+      "url": "https://open.spotify.com/track/7kPuCRW93380qAKwAD4NFQ"
     },
     {
       "album": {
@@ -1780,7 +1888,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 211366,
       "name": "Wiem, \u017ce ci ci\u0119\u017cko",
       "url": "https://open.spotify.com/track/6fdsYxLiiqBQBEdZh7lkL4"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Richie Campbell, Van Zee",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Nenny",
   "name": "Seda",
   "tracks": [
     {
@@ -5550,7 +5550,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 205862,
       "name": "IN\u00cdCIO",
       "url": "https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28"
@@ -7459,6 +7459,32 @@
     },
     {
       "album": {
+        "name": "Nha Primero Amor",
+        "url": "https://open.spotify.com/album/4IxGXXvpUhv94oKwl5ddj0"
+      },
+      "artists": [
+        {
+          "name": "Rapaz 100 Juiz",
+          "url": "https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5"
+        },
+        {
+          "name": "SOS MUCCI",
+          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
+        },
+        {
+          "name": "Dareal General",
+          "url": "https://open.spotify.com/artist/7itE86R6ishEmuNJjHevRg"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213593,
+      "name": "Nha Primero Amor",
+      "url": "https://open.spotify.com/track/3GCHMMMA3vFtqqlFp2skQk"
+    },
+    {
+      "album": {
         "name": "NIAGARA",
         "url": "https://open.spotify.com/album/5DcpE1LAHLT7G9g1Fm1BG3"
       },
@@ -7616,6 +7642,24 @@
       "duration_ms": 163468,
       "name": "Noites Que Vivemos",
       "url": "https://open.spotify.com/track/541PcUR69GcPpoDBo83vys"
+    },
+    {
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/6z0rQqq8tF8hrRVDlb02wl"
+      },
+      "artists": [
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172453,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/0zew2jGUrcp12u0wmaWtgQ"
     },
     {
       "album": {
@@ -11996,7 +12040,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 180000,
       "name": "Vistas",
       "url": "https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW"

@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume queste talentuose artiste italiane! Cover: CLARA
 
-1,084 songs - 2 day 6 hr 4 min
+1,085 songs - 2 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1034,6 +1034,7 @@
 | [Un brutto sogno si ripete spesso](https://open.spotify.com/track/46P7ZSfOcRRv6C3kICSOw9) | [clauscalmo](https://open.spotify.com/artist/0JYnmJcNn4DnQkJfHFjLnR) | [Passo Monteluna](https://open.spotify.com/album/1GWowdIESgMbjKxiPPhOia) | 3:42 | 2024-05-08 | 2024-06-05 |
 | [Un giorno al mare](https://open.spotify.com/track/05LIT8zExPFkV9HofkvJjq) | [Tarsia](https://open.spotify.com/artist/0GxuYc2fmF18sLmWU53zH5) | [Un giorno al mare](https://open.spotify.com/album/6dI6lvfcGdcYjTiCixDaFK) | 2:55 | 2022-06-02 | 2022-07-06 |
 | [Un milione di scale](https://open.spotify.com/track/0O4MTlUsx8DeBQaA8VeVQG) | [Sellie](https://open.spotify.com/artist/4HUKF3BddA8HSXvV3lC975) | [Un Milione di Scale](https://open.spotify.com/album/6TJxyIC86xAoImeky8Jb5M) | 3:19 | 2022-09-06 | 2022-11-02 |
+| [Un Po' Mi Pento](https://open.spotify.com/track/4YlZwnSFO7m3xqIsybfYwR) | [Aria](https://open.spotify.com/artist/3QptZmsuqUYGVDlrC02wdD) | [Un Po' Mi Pento](https://open.spotify.com/album/0OQ3aWMS4UEnBVPcvYhzM2) | 3:10 | 2024-07-02 |  |
 | [Un'Altra Me](https://open.spotify.com/track/1f7fdXPkUThNS5MwYHfaSM) | [Pandorea](https://open.spotify.com/artist/6tWC5Umk7qZ8gOXZLFALvk) | [Un'Altra Me](https://open.spotify.com/album/6WInH2ZdBqEAzul2cAF2hM) | 2:53 | 2024-03-05 | 2024-04-03 |
 | [UN'ALTRA ORA](https://open.spotify.com/track/0bYcA8vuiQI4JJRsYwdMRk) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 2:55 | 2023-11-07 | 2023-11-30 |
 | [Una Ragazza](https://open.spotify.com/track/35TZQAdaCUB8pWXD5PjFqG) | [Malika Ayane](https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5) | [Una Ragazza](https://open.spotify.com/album/2WYpx6ukVzaCbbNmORXoAv) | 2:50 | 2022-07-05 | 2022-10-07 |

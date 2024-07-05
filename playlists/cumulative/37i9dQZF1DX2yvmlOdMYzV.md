@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-749 songs - 1 day 16 hr 54 min
+750 songs - 1 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,7 @@
 | [Loyal \(feat\. Isah\)](https://open.spotify.com/track/2M2ZmLhg1u62z3CPdA5b6E) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [Loyal \(feat\. Isah\)](https://open.spotify.com/album/7kC7rRk40ww6ecoifuE6yM) | 3:03 | 2023-10-06 |  |
 | [Lucid Dreamer](https://open.spotify.com/track/6Eid5XV1sprB3t1Bw2N1bd) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Obsidian](https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6) | 3:13 | 2023-10-20 |  |
 | [Lucid Girl](https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lucid Girl](https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w) | 3:22 | 2024-06-21 |  |
-| [Lucky](https://open.spotify.com/track/4HDsNTcpprSDjtO9nK31yb) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Lucky](https://open.spotify.com/album/2k5NXdSqKdDcAFFPzTouet) | 3:36 | 2023-06-30 |  |
+| [Lucky](https://open.spotify.com/track/4HDsNTcpprSDjtO9nK31yb) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Lucky](https://open.spotify.com/album/2k5NXdSqKdDcAFFPzTouet) | 3:36 | 2023-06-30 | 2024-07-05 |
 | [Lucky Girl](https://open.spotify.com/track/6f6SbYsZtqP3DpPjR5OLiB) | [Carlina](https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77) | [Lucky Girl](https://open.spotify.com/album/77G5rwJ5sBhLpdIPsF1OVl) | 3:47 | 2023-04-28 | 2023-08-26 |
 | [Lucky Me](https://open.spotify.com/track/2qhpdMFTiAMM4ZEsFPqyzv) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [GRIP](https://open.spotify.com/album/6yQiAySk0ELR4cjDCgSqtY) | 2:27 | 2024-02-17 |  |
 | [Luv Songs \(Unruly\)](https://open.spotify.com/track/0puWG0IhM981IsC1hd2640) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Don't Get Too Cozy](https://open.spotify.com/album/3fGURvjAC7mZz3nMfPRRBI) | 2:55 | 2023-06-16 |  |
@@ -530,6 +530,7 @@
 | [Pricey](https://open.spotify.com/track/0vkT3Lz1Ojv1pTmyfdaHlE) | [Runway the Catwalker](https://open.spotify.com/artist/0v7OXAWuYuTZJGeHKwGhkQ) | [Pricey](https://open.spotify.com/album/0RvPoh7PrhYs5HcYRPlpRG) | 2:37 | 2021-12-15 | 2022-07-29 |
 | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/track/3DOYM3dncVBzg3cfTLPG87) | [V\. Cartier](https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop), [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/album/7F80alawlEMrhANP2kPwiV) | 3:33 | 2023-08-04 |  |
 | [Problematic](https://open.spotify.com/track/4HYN77KVznXYhcnZ1dHH6W) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [Problematic](https://open.spotify.com/album/2qeuH5GuV4fIct3EJbRTLI) | 3:03 | 2024-04-26 |  |
+| [PURE AMERICANA](https://open.spotify.com/track/6I65yb8kxIGdzyonW8hssZ) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [ACCELERATOR](https://open.spotify.com/album/3h1UIz988QtS6gjJciFVSu) | 3:33 | 2024-06-28 |  |
 | [Purple Room](https://open.spotify.com/track/67eYQpO7xtAcKlPu0oDDhe) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Pink Magnolia](https://open.spotify.com/album/5IMmIvFq2CChk3Fuz4FHf8) | 2:18 | 2023-09-15 |  |
 | [PYP](https://open.spotify.com/track/2OGKCzG66mRzVLjyvnqHAh) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [PYP](https://open.spotify.com/album/6znz7y2vU3zObZ5iZSZ0Vy) | 3:14 | 2024-06-21 |  |
 | [Queen Tings](https://open.spotify.com/track/5tkR9JkBj3Ueeo8W4k8IZD) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 3:08 | 2021-12-15 | 2023-05-13 |

@@ -2,9 +2,9 @@
 
 ### [Volume France](https://open.spotify.com/playlist/37i9dQZF1DX8HxJlVUR3HN)
 
-> Les meilleures nouveautés de la scène rock française\. Photo : The Odds
+> Les meilleures nouveautés de la scène rock française\. Photo : Shaka Ponk
 
-237 songs - 14 hr 28 min
+238 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,13 +108,14 @@
 | [It’s not the end](https://open.spotify.com/track/4w6UY7JZIF75TgLWPybfUm) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3) | [It’s not the end](https://open.spotify.com/album/3W9KQvrIlQ44f9PGuAx0ac) | 3:10 | 2024-02-15 | 2024-03-22 |
 | [JACK IS A SOCIOPATH](https://open.spotify.com/track/780GSelCfBHsMGof0SiPvm) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [JACK IS A SOCIOPATH](https://open.spotify.com/album/6j04zM167yp6INtUTKHdej) | 3:58 | 2024-02-08 | 2024-03-22 |
 | [Jaded](https://open.spotify.com/track/7Mo2zhkWeVUb9ijJoITHNQ) | [Hype Lights](https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo) | [Jaded](https://open.spotify.com/album/6HnzYhHRAY1aUYwbNd8r6b) | 3:08 | 2024-02-29 | 2024-04-19 |
+| [Je m'avance](https://open.spotify.com/track/6tGyyYDL2rzsHMQLY1yvlB) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Shaka Ponk](https://open.spotify.com/album/2mQkHiKFpJ6ovu1usKcWad) | 3:38 | 2024-07-04 |  |
 | [Joy Brings Me Down](https://open.spotify.com/track/7GMAT3z6PIY4mQ1pQkpfAX) | [Fanchon](https://open.spotify.com/artist/5qFDMEfam5K4WRncOFdOEP) | [Joy Brings Me Down](https://open.spotify.com/album/3D4eXoW15Kti0ZkcY2WsEc) | 3:29 | 2023-09-28 | 2023-11-10 |
 | [Julia](https://open.spotify.com/track/7aK97PCxMNqp6XJHCPo03Q) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7) | [Julia](https://open.spotify.com/album/2R6iiNXY1zs1XkZ3WLZ2jI) | 3:40 | 2023-11-30 | 2023-12-15 |
 | [Jungle](https://open.spotify.com/track/18RSrhoUV3Zkrl14iTZfk7) | [VON DER VAL](https://open.spotify.com/artist/1aaNPabro3dyjFj2QWbkh0) | [Relentless](https://open.spotify.com/album/421KWbFwDSlVZGvirZ01bQ) | 3:25 | 2023-09-28 | 2023-10-06 |
 | [Kathleen](https://open.spotify.com/track/4s7l0JNvkvFjoD40Am4p1P) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7), [Harlee Young](https://open.spotify.com/artist/5PjLHWWAAV9GJBRChXuclG) | [Kathleen](https://open.spotify.com/album/6HbXom8ITK6F2IBYVkj0uO) | 2:18 | 2024-03-21 | 2024-05-10 |
 | [Keep My Head](https://open.spotify.com/track/4XlAOyhVWgOgelpqScS1YE) | [daria](https://open.spotify.com/artist/44dVdbbHLKb31Q5V8LPi67) | [Keep My Head](https://open.spotify.com/album/5qu5GSOs0LLXQOSmUT8iZo) | 5:00 | 2024-06-27 |  |
 | [Knife Edge](https://open.spotify.com/track/6YPkB6TiX0ZPJPvlr5P3FV) | [Doorshan](https://open.spotify.com/artist/4b0rw6riYNCnFzZ2vYFjTk) | [Knife Edge](https://open.spotify.com/album/4OhcI1lakywE8lytUxDVZ5) | 3:42 | 2023-09-28 | 2023-10-20 |
-| [Know](https://open.spotify.com/track/3QyvWzVXwvSYn3aSC2ugHY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Know](https://open.spotify.com/album/1LIrodIqhLCPK6Dvt91UFj) | 3:53 | 2024-03-14 |  |
+| [Know](https://open.spotify.com/track/3QyvWzVXwvSYn3aSC2ugHY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Know](https://open.spotify.com/album/1LIrodIqhLCPK6Dvt91UFj) | 3:53 | 2024-03-14 | 2024-07-05 |
 | [Koda](https://open.spotify.com/track/2mbg1A5gDbyJX1pHPpGTWJ) | [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [Koda](https://open.spotify.com/album/0d5CiECfD56OVv6tttLiCP) | 3:42 | 2024-03-28 |  |
 | [La vie est belle](https://open.spotify.com/track/70wrE9rvgtQ5kR0UrdgT1o) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [La vie est belle](https://open.spotify.com/album/4EZPqR5zgSI7w7khsuPJAh) | 2:58 | 2024-03-21 | 2024-06-14 |
 | [Le chant des cygnes \- Single Version](https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Le chant des cygnes](https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3) | 3:37 | 2024-06-13 |  |

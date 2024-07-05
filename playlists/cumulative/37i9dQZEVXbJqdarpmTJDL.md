@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,693 songs - 3 day 18 hr 9 min
+1,694 songs - 3 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -743,6 +743,7 @@
 | [KALABAKA \- Remix](https://open.spotify.com/track/7dNqWKOw2crbuRcH3hSH3R) | [iLLEOo](https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk), [Lau Jr](https://open.spotify.com/artist/0VqAapxk0FZ4ijMAZxf3hA), [TSE](https://open.spotify.com/artist/06dkSTsCWI3Lk4OR3g9FPe), [GAB](https://open.spotify.com/artist/0LuYYFDRJd3PNTh1k4nFRN), [Retro](https://open.spotify.com/artist/09E3lzgW2TIZZaDAB2y4nb) | [KALABAKA \(Remix\)](https://open.spotify.com/album/6bHVTtJr3XBqziwEctlxnM) | 4:24 | 2022-02-08 | 2022-02-24 |
 | [KALOKAIRI](https://open.spotify.com/track/4f5U2wOXspirNi7GNfJGvO) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [KALOKAIRI](https://open.spotify.com/album/2487Rk9dc5Zg0f7ohXrXMV) | 2:17 | 2024-06-08 |  |
 | [KALOKAIRIA](https://open.spotify.com/track/5hkmNSQd3eu0mhxpMhfck9) | [REC](https://open.spotify.com/artist/0XWz3PvSdEaZMO72W00Xfj) | [KALOKAIRIA](https://open.spotify.com/album/1HGqnPN0bqnJoZK1uyHPdi) | 2:35 | 2024-05-25 | 2024-06-15 |
+| [Kamia San Esena](https://open.spotify.com/track/4RPbBXNO6784XLVOVBGCT0) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM) | [Kamia San Esena](https://open.spotify.com/album/7KyJEwhI6F7QwghNe88c8U) | 3:10 | 2024-07-04 |  |
 | [KANE MOU TI XARI](https://open.spotify.com/track/53iYKhd2RnQ5KzPJtdX9mu) | [REC](https://open.spotify.com/artist/0XWz3PvSdEaZMO72W00Xfj) | [KANE MOU TI XARI](https://open.spotify.com/album/6u2pRcqjwiyow4Q0PifR9t) | 3:03 | 2024-02-20 | 2024-02-22 |
 | [Kanenas De Me Niothei](https://open.spotify.com/track/3HPBrkNdhK9ms08yYvOgO5) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [Fthina Tricks](https://open.spotify.com/album/7MqSq1YDxSsLL5vEvBPsAk) | 4:14 | 2023-05-20 | 2023-05-26 |
 | [Kano Ena Tsigaro Kai Fevgo](https://open.spotify.com/track/3iOi929JUrrW776bXZ2Rc8) | [Vasilis Karras](https://open.spotify.com/artist/4P4cATtI7ozt4k4oKho4uz) | [Oneira](https://open.spotify.com/album/7Fw7EgSn4NfPrv8a9TfN1u) | 3:44 | 2023-12-26 | 2023-12-30 |
@@ -1252,7 +1253,7 @@
 | [Prepi Den Prepi](https://open.spotify.com/track/4iKWPfPRUAneWDTuq9iIi7) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Prepi Den Prepi](https://open.spotify.com/album/1bGhNFOKbGhb69EZCz0hHI) | 4:00 | 2022-11-05 | 2022-11-24 |
 | [Presidente](https://open.spotify.com/track/38WWLroplM6GN2Pw5j8DpO) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd) | [Presidente](https://open.spotify.com/album/0hbWTOMKVRPDj9SbJ7X1ID) | 3:29 | 2021-09-04 | 2021-09-05 |
 | [Prestige](https://open.spotify.com/track/4gFO7c2q8Iku8bjylseQzT) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Rackattack](https://open.spotify.com/album/7yVBbv5rns5WJmpQaDSEK3) | 2:58 | 2021-05-21 | 2022-04-22 |
-| [PRIN MAFISEIS](https://open.spotify.com/track/2HryglxMYeEZcLHxSgQe4T) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [DELUXE](https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3) | 3:24 | 2024-02-24 |  |
+| [PRIN MAFISEIS](https://open.spotify.com/track/2HryglxMYeEZcLHxSgQe4T) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [DELUXE](https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3) | 3:24 | 2024-02-24 | 2024-07-05 |
 | [Prince](https://open.spotify.com/track/4M8I7zcnQYsGH5thn1J0sC) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Prince](https://open.spotify.com/album/12fMkjJiORq3h1JVJAdtOc) | 5:01 | 2021-03-27\* | 2021-05-14 |
 | [Privileged Rappers](https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:40 | 2022-11-05 | 2022-11-10 |
 | [Professor](https://open.spotify.com/track/7p735bl8nXf0Dg1EHNU0Ci) | [IAMSTRONG](https://open.spotify.com/artist/0IFfGEYUge1S0WGqCZmFrM), [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe) | [Professor](https://open.spotify.com/album/6sbOrUwiPROlM1l3BGUUHc) | 2:30 | 2021-04-16 | 2021-05-28 |

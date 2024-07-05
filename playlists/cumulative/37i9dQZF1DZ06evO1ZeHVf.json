@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "This Is CeCe Winans. Los temas esenciales, todos en una lista.",
+  "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
   "name": "This Is CeCe Winans",
   "tracks": [
     {
@@ -60,6 +60,24 @@
     {
       "album": {
         "name": "More Than This",
+        "url": "https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244634,
+      "name": "Be Still and Know",
+      "url": "https://open.spotify.com/track/30snoZvilHid7ou2YKKkfj"
+    },
+    {
+      "album": {
+        "name": "More Than This",
         "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
       },
       "artists": [
@@ -70,7 +88,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 244634,
       "name": "Be Still and Know",
       "url": "https://open.spotify.com/track/4imu5r7gaV1uenj2X1iFBb"
@@ -154,7 +172,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 220923,
       "name": "Blessed Assurance",
       "url": "https://open.spotify.com/track/0W8YA8ADcKFDyOTaoK85ue"
@@ -646,7 +664,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 377026,
       "name": "How Great Thou Art!",
       "url": "https://open.spotify.com/track/0rJhS2Mw9ozyCnxzducYi4"
@@ -726,7 +744,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 329573,
       "name": "I Surrender All",
       "url": "https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv"
@@ -798,7 +816,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 294493,
       "name": "Jesus, You're Beautiful",
       "url": "https://open.spotify.com/track/2hURR2OEp83kltTqHXaB6G"
@@ -946,7 +964,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 300733,
       "name": "Mercy Said No",
       "url": "https://open.spotify.com/track/3wOHgqLMIqHierF0D8VoMl"
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 320110,
       "name": "Waging War",
       "url": "https://open.spotify.com/track/1TKNkFNRWL5YcefJeIkfKz"
@@ -1536,7 +1554,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 196038,
       "name": "What Are We Waiting For?",
       "url": "https://open.spotify.com/track/0Yf8qEi74w9JnGGSrPRXEX"

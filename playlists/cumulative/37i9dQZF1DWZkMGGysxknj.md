@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-289 songs - 16 hr 28 min
+290 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Sunflower](https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Sunflower](https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw) | 3:01 | 2021-07-16 |  |
 | [Sweet but Psycho \- Acoustic](https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr) | [Parker Jenkins](https://open.spotify.com/artist/7tWORed2e6L4nzFezvRPOI) | [Sweet but Psycho](https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e) | 3:08 | 2021-07-16 |  |
 | [Take a Bow](https://open.spotify.com/track/36CEKFj615FPeNYyGWcmuI) | [Chimdrop](https://open.spotify.com/artist/0oXV2JEgqbIkieZf3f1GgZ) | [Take a Bow](https://open.spotify.com/album/3T1pXluHHXJluVmcHc4BWM) | 3:40 | 2021-07-16 | 2022-07-29 |
-| [Tattoo](https://open.spotify.com/track/3Q9p99byx2eazd0PbRvjyP) | [Natalie 2V](https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x) | [Tattoo](https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr) | 2:56 | 2021-07-16 |  |
+| [Tattoo](https://open.spotify.com/track/3Q9p99byx2eazd0PbRvjyP) | [Natalie 2V](https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x) | [Tattoo](https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr) | 2:56 | 2021-07-16 | 2024-07-05 |
 | [Tenderness](https://open.spotify.com/track/0l4C0NqebeMcpVJkduRuUK) | [Laura Gibson](https://open.spotify.com/artist/396L5wXlifF7nfSLhP3tTH) | [Tenderness](https://open.spotify.com/album/0QciEURoa6fZUkITRIUOQM) | 3:36 | 2021-07-16 | 2022-07-26 |
 | [Terrace Rain](https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Terrace Rain/Grid Search](https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI) | 2:56 | 2023-01-03 |  |
 | [The Best Sea](https://open.spotify.com/track/0s5KsQzfARUoA6aqOcZ2m1) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [The Best Sea](https://open.spotify.com/album/6viJOxH6ZeWSFqiigxA1a1) | 2:21 | 2024-05-24 |  |
@@ -270,6 +270,7 @@
 | [Un Día Planté una Rosa](https://open.spotify.com/track/0PjcBblfgbaeMrWNQ80SCb) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Un Día Planté una Rosa](https://open.spotify.com/album/1ZCvBLVlfrfhpPXWVHspQk) | 2:41 | 2021-07-16 | 2022-07-29 |
 | [Una Forma de Energía Que Ilumina las Cosas](https://open.spotify.com/track/3SHUNQPRPLs8ro0wqQg1bX) | [Números Primos](https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Una Forma de Energía Que Ilumina las Cosas](https://open.spotify.com/album/0CiWilvMV56ugYkjd8Ct1O) | 3:20 | 2021-07-16 |  |
 | [Underground](https://open.spotify.com/track/7o6k7QXBptuHj0XWsatlQs) | [Billie Mercedez](https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG) | [Underground](https://open.spotify.com/album/1U1lAdEOPh4Zs5SKL8XvKS) | 2:58 | 2021-07-16 | 2022-07-29 |
+| [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-07-04 |  |
 | [Valentine Shmalentine](https://open.spotify.com/track/05clJaG0NPoowlJR4sUknK) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Valentine Shmalentine](https://open.spotify.com/album/4wJfdMhH8mTiEr2e9wGWT4) | 3:58 | 2021-07-16 | 2022-07-29 |
 | [Visions](https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:55 | 2021-07-16 | 2024-04-19 |
 | [Visions](https://open.spotify.com/track/67yniWH9m9UjFwSA0CPeIk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Visions](https://open.spotify.com/album/3HGLigPm8UcqiA0vPAv3Ye) | 3:55 | 2021-07-16 | 2022-07-29 |

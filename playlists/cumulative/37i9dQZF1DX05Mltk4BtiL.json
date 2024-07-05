@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 202297,
       "name": "Am Ufer der Zeit",
       "url": "https://open.spotify.com/track/2ojvf5fHFXQfwhuwLx9ycY"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 219740,
       "name": "An das Publikum",
       "url": "https://open.spotify.com/track/03h2MUlvSj5dwgI0yCvnBT"
@@ -92,6 +92,24 @@
       "duration_ms": 188489,
       "name": "BAUM",
       "url": "https://open.spotify.com/track/4fH8xERQuzAh1pfn5ZEQkS"
+    },
+    {
+      "album": {
+        "name": "beckenrand",
+        "url": "https://open.spotify.com/album/7zYA4se9fvvZKCnbGw1VDR"
+      },
+      "artists": [
+        {
+          "name": "SCHRAMM",
+          "url": "https://open.spotify.com/artist/15eXysq80jazu6dKxed7BU"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175116,
+      "name": "beckenrand",
+      "url": "https://open.spotify.com/track/3K3S6dIwvqq1mzQFzWEDW0"
     },
     {
       "album": {
@@ -146,6 +164,24 @@
       "duration_ms": 213586,
       "name": "Das Neue Normal",
       "url": "https://open.spotify.com/track/4JZzUgcFrkWisEO1yirDj7"
+    },
+    {
+      "album": {
+        "name": "Der Weg zu zweit",
+        "url": "https://open.spotify.com/album/2oDEOQhPicIKRZ19vWOwF1"
+      },
+      "artists": [
+        {
+          "name": "Frittenbude",
+          "url": "https://open.spotify.com/artist/7jy0nL3F5ehHJxXYMBImkk"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152101,
+      "name": "Der Weg zu zweit",
+      "url": "https://open.spotify.com/track/1m5sm7IfjJzHWBDsK2FC0r"
     },
     {
       "album": {
@@ -247,6 +283,28 @@
     },
     {
       "album": {
+        "name": "Geheimnis",
+        "url": "https://open.spotify.com/album/7LhNRo0xj6F1SYL8kHbJ9y"
+      },
+      "artists": [
+        {
+          "name": "Florian Paul & Die Kapelle der letzten Hoffnung",
+          "url": "https://open.spotify.com/artist/1yu9UIPwfNB7w4ZqjKSnnV"
+        },
+        {
+          "name": "Magdalena Wawra",
+          "url": "https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139986,
+      "name": "Geheimnis",
+      "url": "https://open.spotify.com/track/50guZa3AiSjT2bXMm1xwQz"
+    },
+    {
+      "album": {
         "name": "Das nullte Kapitel",
         "url": "https://open.spotify.com/album/1KPrzlaKozFUOMrDv7AH7Z"
       },
@@ -302,7 +360,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 145695,
       "name": "Hellwach",
       "url": "https://open.spotify.com/track/2w4fID8bdypR2UIgHYgVKZ"
@@ -332,6 +390,42 @@
       "duration_ms": 166866,
       "name": "I.C.E. 2 (feat. Kryptik Joe and Rocko Schamoni)",
       "url": "https://open.spotify.com/track/3fcIZ7Ia4Rr4DdBlWfjfDh"
+    },
+    {
+      "album": {
+        "name": "Ich brauch ein Bier",
+        "url": "https://open.spotify.com/album/01I2xDTg5tQMYUwxzbsfGM"
+      },
+      "artists": [
+        {
+          "name": "Dagobert",
+          "url": "https://open.spotify.com/artist/6ggenA9SmMMwVYsDSOKIqJ"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123201,
+      "name": "Ich brauch ein Bier",
+      "url": "https://open.spotify.com/track/0EnYDvdiddeC9Kq7orP4Qt"
+    },
+    {
+      "album": {
+        "name": "Ich geh lieber allein",
+        "url": "https://open.spotify.com/album/6KDag1zRDVlFblcdPHKLB0"
+      },
+      "artists": [
+        {
+          "name": "Die Liga der gew\u00f6hnlichen Gentlemen",
+          "url": "https://open.spotify.com/artist/7xYldHloSckuP93hORkq8v"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170981,
+      "name": "Ich geh lieber allein",
+      "url": "https://open.spotify.com/track/57DMEgQLbvviLZR1NN0umV"
     },
     {
       "album": {
@@ -660,7 +754,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 212630,
       "name": "Panik",
       "url": "https://open.spotify.com/track/3TO48iUyVSruxeUotD1NyK"
@@ -682,7 +776,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 219946,
       "name": "Pirdutu cori",
       "url": "https://open.spotify.com/track/0xzcU8WQaCaigkEkR5suY8"

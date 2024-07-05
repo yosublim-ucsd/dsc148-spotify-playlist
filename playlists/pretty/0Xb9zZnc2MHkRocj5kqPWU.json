@@ -1,13 +1,153 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.",
-  "num_followers": 62648,
+  "num_followers": 62644,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAHMBqVJIZ5CnQF+7VpkE3ER4Rm5GYB",
+  "snapshot_id": "AAAHOZskpaE1x7mlSrwAp3+09tJ8pshx",
   "tracks": [
+    {
+      "added_at": "2024-07-04 20:01:27",
+      "album": {
+        "name": "Danse des Fleurs",
+        "url": "https://open.spotify.com/album/1KxShD3HTAWk3RC2y52kcp"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "duration_ms": 143840,
+      "name": "Danse des Fleurs",
+      "url": "https://open.spotify.com/track/2TCBiOu9kpsk0JaC8vwTOf"
+    },
+    {
+      "added_at": "2024-07-04 20:01:11",
+      "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/23M3Rk93JM2tBofJQyybSw"
+      },
+      "artists": [
+        {
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/35bdYC7xm7koy0KoyKS4Bw"
+    },
+    {
+      "added_at": "2024-07-04 20:00:54",
+      "album": {
+        "name": "6 Piano Pieces, Op. 118/No. 2: Intermezzo in A Major",
+        "url": "https://open.spotify.com/album/5GLie4IiAzBJHlHe0swGY1"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "duration_ms": 353739,
+      "name": "6 Piano Pieces, Op. 118: 6 Piano Pieces, Op. 118/No. 2: Intermezzo in A Major",
+      "url": "https://open.spotify.com/track/2hXtkD5vFf6flaZWlVA6HE"
+    },
+    {
+      "added_at": "2024-07-04 20:01:50",
+      "album": {
+        "name": "Ravel Bolero Variation (After Bolero, M. 81, Arr. for Piano by Tim Allhoff)",
+        "url": "https://open.spotify.com/album/5OGpXDPlRFrQMdFcT66SmE"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "duration_ms": 153640,
+      "name": "Ravel Bolero Variation (After Bolero, M. 81, Arr. for Piano by Tim Allhoff)",
+      "url": "https://open.spotify.com/track/7fxAIhOSzm4l5y30HBaezt"
+    },
+    {
+      "added_at": "2024-07-04 19:56:22",
+      "album": {
+        "name": "Two Pieces for Piano Solo/I. Augenblick",
+        "url": "https://open.spotify.com/album/0js0BkJf2G1rEHjvnwUHFv"
+      },
+      "artists": [
+        {
+          "name": "Valentin Silvestrov",
+          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
+        },
+        {
+          "name": "Alexei Lubimov",
+          "url": "https://open.spotify.com/artist/0604Eow92EXTCLStZOUNlG"
+        }
+      ],
+      "duration_ms": 91133,
+      "name": "I. Augenblick",
+      "url": "https://open.spotify.com/track/5CCZkBpvYzsTaZGfxM3T0g"
+    },
+    {
+      "added_at": "2024-07-04 19:55:59",
+      "album": {
+        "name": "Mon Coeur, B\u00e9ton Brut",
+        "url": "https://open.spotify.com/album/2arrYzy4My4xKLc05tGmtK"
+      },
+      "artists": [
+        {
+          "name": "Dardust",
+          "url": "https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt"
+        }
+      ],
+      "duration_ms": 170909,
+      "name": "Mon Coeur, B\u00e9ton Brut",
+      "url": "https://open.spotify.com/track/5173dCKZ2LebM7PJFTTv3S"
+    },
+    {
+      "added_at": "2024-07-04 19:55:40",
+      "album": {
+        "name": "Together Without You",
+        "url": "https://open.spotify.com/album/4SPaZt0yKuLHkB4bd5mEfA"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 207626,
+      "name": "Together Without You",
+      "url": "https://open.spotify.com/track/2STpnOCDlWxS5JdtsLWaFA"
+    },
+    {
+      "added_at": "2024-07-04 19:54:15",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/6PQEXTlkunfNtJ5tgT5eVd"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "duration_ms": 208480,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/32q8GrkqQotlZjWLJMHyF8"
+    },
     {
       "added_at": "2024-06-03 14:35:53",
       "album": {
@@ -59,6 +199,22 @@
       "duration_ms": 204457,
       "name": "Anima II - Sleep Rework",
       "url": "https://open.spotify.com/track/4YQX0Y5vsY9J9hOUTNB1Su"
+    },
+    {
+      "added_at": "2024-07-04 19:54:34",
+      "album": {
+        "name": "Hey Ya!",
+        "url": "https://open.spotify.com/album/0ZKCeXyo4d0d8eSGhlne8U"
+      },
+      "artists": [
+        {
+          "name": "Alban Claudin",
+          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
+        }
+      ],
+      "duration_ms": 199006,
+      "name": "Hey Ya!",
+      "url": "https://open.spotify.com/track/5utJbgEfRvgCfgca9naQxZ"
     },
     {
       "added_at": "2024-06-03 13:32:28",

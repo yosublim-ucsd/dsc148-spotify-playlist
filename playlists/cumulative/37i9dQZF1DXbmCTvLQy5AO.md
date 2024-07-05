@@ -2,7 +2,7 @@
 
 ### [Work It, Own It](https://open.spotify.com/playlist/37i9dQZF1DXbmCTvLQy5AO)
 
-> Empowered rhymes and vibes\. Cover: Janelle Monae \#Glastonbury2024
+> Empowered rhymes and vibes\. Cover: Tinashe
 
 139 songs - 7 hr 46 min
 

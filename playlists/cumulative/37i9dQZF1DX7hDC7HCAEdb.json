@@ -524,7 +524,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 122208,
       "name": "HOME",
       "url": "https://open.spotify.com/track/71qc8VB5Ub08N19jcXxRPq"
@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "New World Order",
+        "url": "https://open.spotify.com/album/0mLzhqgBQEnOq6Avo658IO"
+      },
+      "artists": [
+        {
+          "name": "Big Miz",
+          "url": "https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187669,
+      "name": "New World Order",
+      "url": "https://open.spotify.com/track/13ZmKAjcGiIX0Qwj4TpnkB"
+    },
+    {
+      "album": {
         "name": "nothing bad will ever happen to me",
         "url": "https://open.spotify.com/album/4q8x1qZWpRpGCX91PHn8LT"
       },
@@ -852,6 +870,42 @@
       "duration_ms": 204800,
       "name": "Only This Could Happen To Me",
       "url": "https://open.spotify.com/track/4tkNRCnN7TGV1ukMfIXuaU"
+    },
+    {
+      "album": {
+        "name": "Over The Moon",
+        "url": "https://open.spotify.com/album/2bLTTdrndC5OnswWBbF6bu"
+      },
+      "artists": [
+        {
+          "name": "Lewis McLaughlin",
+          "url": "https://open.spotify.com/artist/6Th5PnKHXHqchkCl7pXeHz"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269172,
+      "name": "Over The Moon",
+      "url": "https://open.spotify.com/track/60N3qBaaCjK9Aq6Nt4Ujvy"
+    },
+    {
+      "album": {
+        "name": "Photobooth",
+        "url": "https://open.spotify.com/album/4sfGi0V4wKK1BwrRPEMtRZ"
+      },
+      "artists": [
+        {
+          "name": "Swiss Portrait",
+          "url": "https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176992,
+      "name": "Photobooth",
+      "url": "https://open.spotify.com/track/3sw0xXDVupxDehe4EeA8vz"
     },
     {
       "album": {
@@ -938,7 +992,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 220942,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/61r9UkhMDvzpbaSvBLyscX"
@@ -1176,7 +1230,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 283933,
       "name": "Tired Of Being Alone",
       "url": "https://open.spotify.com/track/1cUWtqz5LeN7LsLu2DCQmw"

@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-726 songs - 2 day 21 hr 17 min
+727 songs - 2 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Experience](https://open.spotify.com/track/6ewzsniysRplwdDRA7eNdn) | [Luna Lucci](https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp) | [Experience](https://open.spotify.com/album/2mHKmSPCtMud5SwgzMNEQ1) | 5:48 | 2023-04-07 | 2023-10-13 |
 | [Experimental Evidence](https://open.spotify.com/track/4gneAAeKWfJVfYv3qXdGXY) | [The YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg) | [Experimental Evidence](https://open.spotify.com/album/6TBbQajTShHNJozU1s8Bnd) | 7:07 | 2021-06-05 | 2022-01-08 |
 | [Exploration](https://open.spotify.com/track/5F1zvhsJgKnoQ0SsHXYFcs) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Exploration](https://open.spotify.com/album/3tgWHAwuMFYX4Bv1KhW4yx) | 6:47 | 2023-11-10 |  |
-| [Exposition](https://open.spotify.com/track/6ZN7n4r7J4I5twACCitIJ1) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Exposition](https://open.spotify.com/album/5PZwvDFqD6e1H1ckshEcDg) | 3:12 | 2024-04-25 |  |
+| [Exposition](https://open.spotify.com/track/6ZN7n4r7J4I5twACCitIJ1) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Exposition](https://open.spotify.com/album/5PZwvDFqD6e1H1ckshEcDg) | 3:12 | 2024-04-25 | 2024-07-05 |
 | [Eyes Hidden](https://open.spotify.com/track/0p6xBnrIJtWjD4QeYE4cue) | [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB), [B!nary](https://open.spotify.com/artist/17lmAnHxZNBpsxxFkVZrVV) | [Eyes Hidden](https://open.spotify.com/album/0SKaFMaXhR7mr8xBlCkUgn) | 3:46 | 2023-08-18 | 2024-01-23 |
 | [Fading to Black \- Bart Skils Remix](https://open.spotify.com/track/4iJf345WG3JpkJH7LsfTDW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Fading to Black \(Bart Skils Remix\)](https://open.spotify.com/album/2DBOuNQBqtm2GTbxINsooC) | 4:45 | 2023-12-22 | 2024-04-06 |
 | [Fahrenheit](https://open.spotify.com/track/6m5ALRlpoPhhYGPeRayDpO) | [Chris Keya](https://open.spotify.com/artist/7zCJiVQxxnpXTnIDVMihPl) | [Fahrenheit](https://open.spotify.com/album/4uk4lM4TYTh6xd8ERfVNo0) | 7:41 | 2020-04-18\* | 2020-05-09 |
@@ -487,6 +487,7 @@
 | [Power Plant \- Radio Edit](https://open.spotify.com/track/6RzWVsOkcep95wOkHecytK) | [Thomas Hoffknecht](https://open.spotify.com/artist/5NZNUuAd9Z92Q4wAVRq3Cf) | [Power Plant](https://open.spotify.com/album/6CaMFGOv8TEtGMB2ibTvLY) | 4:35 | 2020-08-22 | 2020-12-05 |
 | [Predator \- Original Mix](https://open.spotify.com/track/4CbEP5CJiJsC3KE7Ssaorw) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Predator EP](https://open.spotify.com/album/5cxcjuNazD5RsGoqMLgc5K) | 6:52 | 2020-06-13 | 2021-05-03 |
 | [Pria](https://open.spotify.com/track/5NLu9XiiF80Txfg2Pl8zE8) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Power Of Thought EP](https://open.spotify.com/album/1WjosIw46H2KJUb9W462FU) | 7:00 | 2023-10-20 |  |
+| [Prisoner](https://open.spotify.com/track/4MZvGawjIrPQpViMTfKb66) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alex Farell](https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I) | [Prisoner](https://open.spotify.com/album/0qdNWrDIjtA1yEZtQI7Onk) | 5:08 | 2024-07-04 |  |
 | [Pulchra](https://open.spotify.com/track/63mFPNs3UaFmBB55YiW0it) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Pulchra](https://open.spotify.com/album/0ihSHBFI9OEuwPg4dqyi14) | 4:14 | 2023-01-06 | 2023-08-19 |
 | [Pulse \- Marie Vaunt Remix](https://open.spotify.com/track/0rUd34miBQcQTzevrULn3G) | [Gizmo & Mac](https://open.spotify.com/artist/7mnoyEA7pGl5D9QmJtNP7L), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Pulse](https://open.spotify.com/album/2POEND23KcLg9y4zzPSSuO) | 6:00 | 2022-06-28 | 2023-02-11 |
 | [Purpose Of Life](https://open.spotify.com/track/7HezUa1nL8m0awuNpNWtnL) | [IOA](https://open.spotify.com/artist/40Jjt5b6dAOvDjjRW1oBAc) | [Stepping Stones, Vol\. 2](https://open.spotify.com/album/3OmPWQ9f9Ib440CVap125n) | 6:51 | 2024-03-07 |  |

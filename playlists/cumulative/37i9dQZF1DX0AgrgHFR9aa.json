@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Lacrim",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Heykel",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "ILL'",
+        "url": "https://open.spotify.com/album/1L1sWMW7RJLHlQiLQQqLiX"
+      },
+      "artists": [
+        {
+          "name": "Metah",
+          "url": "https://open.spotify.com/artist/0Dr1nbwa1KW5wHYUCsrnAF"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158455,
+      "name": "PLAYBOI CARTI",
+      "url": "https://open.spotify.com/track/1tzaO7UkR3tk9PXJXMKTMo"
+    },
+    {
+      "album": {
         "name": "Plus fort que l'orage",
         "url": "https://open.spotify.com/album/4LdYnCjNvxtjOOuP90Vszy"
       },
@@ -746,7 +764,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 177021,
       "name": "Une fois ou deux",
       "url": "https://open.spotify.com/track/3ibta0jnNl7NuRNNFkVnTd"

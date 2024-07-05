@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: South Summit",
+  "description": "New and local indie noise. Cover: Noah Dillon",
   "name": "Local Noise",
   "tracks": [
+    {
+      "album": {
+        "name": "4AM Child",
+        "url": "https://open.spotify.com/album/65F2mqOBUj6uZORsv4CE5r"
+      },
+      "artists": [
+        {
+          "name": "Ra Ra Viper",
+          "url": "https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214056,
+      "name": "4AM Child",
+      "url": "https://open.spotify.com/track/7bja6vslF1B9Qw0ZAv7fAk"
+    },
     {
       "album": {
         "name": "ADELINE",
@@ -167,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Burn My Scars",
+        "url": "https://open.spotify.com/album/2mT2E4FnB94bKNrZLweSJt"
+      },
+      "artists": [
+        {
+          "name": "ROX LAVI",
+          "url": "https://open.spotify.com/artist/4VA9QmsuAL3yxm5K5OCizT"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Burn My Scars",
+      "url": "https://open.spotify.com/track/4WyuJ1Z4epLkuZn95CcZP4"
+    },
+    {
+      "album": {
         "name": "Calico",
         "url": "https://open.spotify.com/album/1mDl0kJX6M2Phb5ojNWu9r"
       },
@@ -203,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Fantasy Camp",
+        "url": "https://open.spotify.com/album/06Yb2iAYePLOZtMmDvU45K"
+      },
+      "artists": [
+        {
+          "name": "Majak Door",
+          "url": "https://open.spotify.com/artist/07T4q3baUiO1NImfuaAwid"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281173,
+      "name": "Call It What You Want",
+      "url": "https://open.spotify.com/track/1oBGDRf6xUwTMZ2bFS8xnD"
+    },
+    {
+      "album": {
         "name": "Can't Do That / Morph",
         "url": "https://open.spotify.com/album/2ixbSN3x8PSa3vbsX8dQFR"
       },
@@ -232,7 +286,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 160589,
       "name": "CELLPHONE",
       "url": "https://open.spotify.com/track/6JR09Bqla348Q30W34Vh5n"
@@ -322,7 +376,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 76693,
       "name": "Couch Potato",
       "url": "https://open.spotify.com/track/6yLG0gsssy6C5ZDgVZVziN"
@@ -412,7 +466,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 167360,
       "name": "Everything",
       "url": "https://open.spotify.com/track/12AORt5BnsSXoRACGqTGK2"
@@ -545,6 +599,24 @@
     },
     {
       "album": {
+        "name": "He's A Lad",
+        "url": "https://open.spotify.com/album/5oTg0D4D6qNCmtpkOskoYZ"
+      },
+      "artists": [
+        {
+          "name": "Noah Dillon",
+          "url": "https://open.spotify.com/artist/6g4VCntGKDE2bsGSPEjtal"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230247,
+      "name": "He's A Lad",
+      "url": "https://open.spotify.com/track/5btBJ5bMhC5rj9hI5uG44I"
+    },
+    {
+      "album": {
         "name": "Heart Pumps Blood",
         "url": "https://open.spotify.com/album/38tf14Nlk4xBpZhwax3wZ6"
       },
@@ -632,6 +704,24 @@
       "duration_ms": 217966,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/6b1rteUzofKjQVnPN3Lv6N"
+    },
+    {
+      "album": {
+        "name": "How Dare You Fall In Love In This City",
+        "url": "https://open.spotify.com/album/3USTrE8ybIHl8Ax8vL5C5A"
+      },
+      "artists": [
+        {
+          "name": "Polish Club",
+          "url": "https://open.spotify.com/artist/2tYm7UbTKfLXw7Jsp0xyzD"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228340,
+      "name": "How Dare You Fall In Love In This City",
+      "url": "https://open.spotify.com/track/0G3g1Wk5pcIgV7UsUxZrli"
     },
     {
       "album": {
@@ -725,6 +815,24 @@
     },
     {
       "album": {
+        "name": "Party Boy",
+        "url": "https://open.spotify.com/album/2ej9yuqrAkQyVQVXbdGTYe"
+      },
+      "artists": [
+        {
+          "name": "Eaglemont",
+          "url": "https://open.spotify.com/artist/29lNdWVT8FA54OsgO0TUca"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223866,
+      "name": "Ikea",
+      "url": "https://open.spotify.com/track/6Vqp5GCkUwPGzwYJ7bChbg"
+    },
+    {
+      "album": {
         "name": "Ill Times",
         "url": "https://open.spotify.com/album/4ooQidkyIsGzKmBZEv9f8W"
       },
@@ -740,7 +848,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 214629,
       "name": "Ill Times",
       "url": "https://open.spotify.com/track/05OFzOtX3tiGxBN3aHFxYR"
@@ -852,6 +960,24 @@
       "duration_ms": 209414,
       "name": "Level",
       "url": "https://open.spotify.com/track/2YWOrav3BwXayiej6xQw1O"
+    },
+    {
+      "album": {
+        "name": "Man Erases",
+        "url": "https://open.spotify.com/album/1CaZDuIlxzgBZt37Q9TTa0"
+      },
+      "artists": [
+        {
+          "name": "Hooper Crescent",
+          "url": "https://open.spotify.com/artist/6hgsdi402jtqHSbqRYfvQ5"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183115,
+      "name": "Man Erases",
+      "url": "https://open.spotify.com/track/1fzswjWuaOipYkj4rkpy6O"
     },
     {
       "album": {
@@ -1176,7 +1302,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 208043,
       "name": "Quick To Judge",
       "url": "https://open.spotify.com/track/1smO3CANg3W9UzrI1Nvk7Z"
@@ -1194,7 +1320,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 285214,
       "name": "Rain (Single Edit)",
       "url": "https://open.spotify.com/track/09k4hLToZWIHw0ZADJkGMz"
@@ -1212,7 +1338,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 192946,
       "name": "Ready Or Not",
       "url": "https://open.spotify.com/track/1fwRmYPwZgnR2zEkkfk6u9"
@@ -1252,6 +1378,24 @@
       "duration_ms": 137188,
       "name": "Rich Boy",
       "url": "https://open.spotify.com/track/2f52g2azBDFDjurfBew533"
+    },
+    {
+      "album": {
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/4Nmz7HLOy8PPU25q5ofj0J"
+      },
+      "artists": [
+        {
+          "name": "Scream Mountain",
+          "url": "https://open.spotify.com/artist/66ynecUWT8zCAzZ1GnbfUN"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199026,
+      "name": "Ricochet",
+      "url": "https://open.spotify.com/track/0bAVFTQjDZ1ZOKiqTS4LRq"
     },
     {
       "album": {
@@ -1309,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "sharp tongue",
+        "url": "https://open.spotify.com/album/04H1lR6aneFeKIS1CyAeGp"
+      },
+      "artists": [
+        {
+          "name": "DIVEBAR YOUTH",
+          "url": "https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244750,
+      "name": "sharp tongue",
+      "url": "https://open.spotify.com/track/0qTya9vMHszwTnuPeJwhyR"
+    },
+    {
+      "album": {
         "name": "she's lying to me",
         "url": "https://open.spotify.com/album/4uzCctwtXuFkd6ftGFFQGA"
       },
@@ -1356,7 +1518,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 142512,
       "name": "Silverline",
       "url": "https://open.spotify.com/track/4xZquoRZVEDlyPZ1qEpyPz"
@@ -1464,7 +1626,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 179058,
       "name": "Subject A",
       "url": "https://open.spotify.com/track/0VruXJV888vDHzRO8qUexM"

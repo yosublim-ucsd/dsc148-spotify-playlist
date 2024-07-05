@@ -1,28 +1,44 @@
 {
-  "description": "Nieuwe indie, rock en alternative. Cover: Wodan Boys",
-  "num_followers": 54702,
+  "description": "Nieuwe indie, rock en alternative. Cover: Kasabian",
+  "num_followers": 54720,
   "original_name": "New Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoJiAAAAAAAa3OSd5X+dgHi7bIPNHRGx",
+  "snapshot_id": "ZocbYAAAAACzFOHMbFwFx24a6UuC/VyH",
   "tracks": [
     {
-      "added_at": "2024-06-24 10:25:23",
+      "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/1SVyQqde45xP0zxF7kcTPx"
+        "name": "Happenings",
+        "url": "https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc"
       },
       "artists": [
         {
-          "name": "Wodan Boys",
-          "url": "https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr"
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
         }
       ],
-      "duration_ms": 197673,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/6mvPDUqfCE5XHfVvsdebdi"
+      "duration_ms": 155658,
+      "name": "Italian Horror",
+      "url": "https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "All Kinds Of People",
+        "url": "https://open.spotify.com/album/1qrfKDFYVsll4mThf6pxqJ"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "duration_ms": 167493,
+      "name": "All Kinds Of People",
+      "url": "https://open.spotify.com/track/5dOkvWdlRlKYvhM3MkD2Ai"
     },
     {
       "added_at": "2024-06-24 10:25:23",
@@ -43,18 +59,18 @@
     {
       "added_at": "2024-06-24 10:25:23",
       "album": {
-        "name": "Darkest Lullaby",
-        "url": "https://open.spotify.com/album/1R1J4SFlMtGIuTeH7yS9yH"
+        "name": "Power",
+        "url": "https://open.spotify.com/album/1SVyQqde45xP0zxF7kcTPx"
       },
       "artists": [
         {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+          "name": "Wodan Boys",
+          "url": "https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr"
         }
       ],
-      "duration_ms": 190817,
-      "name": "Darkest Lullaby",
-      "url": "https://open.spotify.com/track/3MV0SFjUcQYUGmAQv6o7Q2"
+      "duration_ms": 197673,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/6mvPDUqfCE5XHfVvsdebdi"
     },
     {
       "added_at": "2024-06-24 10:25:23",
@@ -167,6 +183,22 @@
       "duration_ms": 173866,
       "name": "The Craving - single version",
       "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
+    },
+    {
+      "added_at": "2024-06-24 10:25:23",
+      "album": {
+        "name": "Darkest Lullaby",
+        "url": "https://open.spotify.com/album/1R1J4SFlMtGIuTeH7yS9yH"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "duration_ms": 190817,
+      "name": "Darkest Lullaby",
+      "url": "https://open.spotify.com/track/3MV0SFjUcQYUGmAQv6o7Q2"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -839,22 +871,6 @@
     {
       "added_at": "2024-06-24 10:25:23",
       "album": {
-        "name": "Wild God",
-        "url": "https://open.spotify.com/album/0mDWCfytbtRYgiWzjUQrnp"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 319106,
-      "name": "Wild God",
-      "url": "https://open.spotify.com/track/6d2JJCLcg02uteyuvFVmCq"
-    },
-    {
-      "added_at": "2024-06-24 10:25:23",
-      "album": {
         "name": "GOLDY",
         "url": "https://open.spotify.com/album/4CTzp3ZZUFjQopaCvbQ6Oe"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 151141,
       "name": "Fun Fact",
       "url": "https://open.spotify.com/track/1f5EdRf2pijijsSEeJBaKg"
-    },
-    {
-      "added_at": "2024-06-24 10:25:23",
-      "album": {
-        "name": "She Likes Me",
-        "url": "https://open.spotify.com/album/2YnT8eUlDz0lAYxmuoxu3h"
-      },
-      "artists": [
-        {
-          "name": "Moving Into Tucson",
-          "url": "https://open.spotify.com/artist/5mFtVrSOmWy0NRUTMZ7JRY"
-        }
-      ],
-      "duration_ms": 227284,
-      "name": "She Likes Me",
-      "url": "https://open.spotify.com/track/1PRTvqpZHSxsTIRQMgoFNo"
     },
     {
       "added_at": "2024-06-24 10:25:23",

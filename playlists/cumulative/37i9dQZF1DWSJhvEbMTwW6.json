@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-26",
   "description": "Favor de hacer doble fila para bailar estos cumbiones \u00a1S\u00fabale hay lugares!",
-  "name": "Cumbias de Microb\u00fas",
+  "name": "Cumbia de Microb\u00fas",
   "tracks": [
     {
       "album": {
@@ -218,6 +218,24 @@
       "duration_ms": 235128,
       "name": "Alma De Acero",
       "url": "https://open.spotify.com/track/3LgQlKNGiQiQhMiTU0ZKao"
+    },
+    {
+      "album": {
+        "name": "Amapola",
+        "url": "https://open.spotify.com/album/4wQyFooTbXzKtuQcFY9nCD"
+      },
+      "artists": [
+        {
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210006,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/1NTJqSvw0dWzU68EQPfKNs"
     },
     {
       "album": {
@@ -670,7 +688,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 219320,
       "name": "Conga Y Timbal",
       "url": "https://open.spotify.com/track/7LXEJkLmNUCXD4WNbshFdy"
@@ -1034,7 +1052,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 220533,
       "name": "Cumbia Francesa",
       "url": "https://open.spotify.com/track/74VcBE1CXvIIOMGqHJn74z"
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 230022,
       "name": "Dejenme Llorar (feat. Jorge Dominguez y Su Grupo Super Class)",
       "url": "https://open.spotify.com/track/3bTZoKn6YfWu6rw1OCE1pw"
@@ -1847,6 +1865,24 @@
     },
     {
       "album": {
+        "name": "ES EL AMOR",
+        "url": "https://open.spotify.com/album/4DudCZWhCksvU55qJ4SJPL"
+      },
+      "artists": [
+        {
+          "name": "Los gatos mojados",
+          "url": "https://open.spotify.com/artist/0ibSNu8s3dD6H7oW9frGqn"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289738,
+      "name": "ES EL AMOR",
+      "url": "https://open.spotify.com/track/6OfZTJqKYJ4QM8WNJt0ky3"
+    },
+    {
+      "album": {
         "name": "Cumbia Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0ZgIMgZMTpyNRZNCYoHhYm"
       },
@@ -2040,6 +2076,24 @@
       "duration_ms": 306133,
       "name": "He Sentido Amor - Corazo\u0301n Tun Tun",
       "url": "https://open.spotify.com/track/0WcFkMy9QR5mNBlJSuCT1j"
+    },
+    {
+      "album": {
+        "name": "Ilusi\u00f3n y M\u00e1s Ilusi\u00f3n",
+        "url": "https://open.spotify.com/album/4mLoZZEfZ9TC9q5AmikXB9"
+      },
+      "artists": [
+        {
+          "name": "Cuerdas De Venezuela",
+          "url": "https://open.spotify.com/artist/3lmP34nf7TS7DuCpmcdUMy"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177093,
+      "name": "Ilusi\u00f3n",
+      "url": "https://open.spotify.com/track/2PzXc0FEgMEi08IAUuSr8H"
     },
     {
       "album": {
@@ -3490,7 +3544,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 165047,
       "name": "Sensacion Latina",
       "url": "https://open.spotify.com/track/1z7YvRwJKKCxzEMLPA2WbL"
@@ -3674,6 +3728,24 @@
       "duration_ms": 176226,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/4yUAN9jxzSyUQwDqoeAn2o"
+    },
+    {
+      "album": {
+        "name": "Tarjeta de Invitaci\u00f3n",
+        "url": "https://open.spotify.com/album/7pvoIdjqLxmEwstHNRmXPh"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Ca\u00f1onera",
+          "url": "https://open.spotify.com/artist/0wkdyY6A8F2q6krgWyrdAC"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203415,
+      "name": "Te Espero en el Cielo",
+      "url": "https://open.spotify.com/track/2g1XCPG2kO8VeUMXWLsQLN"
     },
     {
       "album": {

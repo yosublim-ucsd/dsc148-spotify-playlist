@@ -2237,6 +2237,24 @@
     },
     {
       "album": {
+        "name": "Bitches Outside",
+        "url": "https://open.spotify.com/album/5MRcORRHdZVHYHpO8W5rRc"
+      },
+      "artists": [
+        {
+          "name": "MEZZ",
+          "url": "https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151620,
+      "name": "Bitches Outside",
+      "url": "https://open.spotify.com/track/1FGAJTAK9WpyQxMvtsdeAb"
+    },
+    {
+      "album": {
         "name": "BLESS U",
         "url": "https://open.spotify.com/album/17eaa64NwzaBpy30GL7EDx"
       },
@@ -3688,7 +3706,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 240107,
       "name": "Ding Dong - feat. \u3069\u3093\u3050\u308a\u305a",
       "url": "https://open.spotify.com/track/4bUghg2QFEn0kesGB8TDG0"
@@ -9394,8 +9412,8 @@
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         },
         {
-          "name": "Yuki Chiba",
-          "url": "https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR"
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
         }
       ],
       "date_added": "2024-06-28",
@@ -11315,6 +11333,24 @@
     },
     {
       "album": {
+        "name": "OHAYO!",
+        "url": "https://open.spotify.com/album/74RiebqS3I4AVbWL42NDv0"
+      },
+      "artists": [
+        {
+          "name": "MIYACHI",
+          "url": "https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141466,
+      "name": "OHAYO!",
+      "url": "https://open.spotify.com/track/6XAinjzt62WMyBT8aUb9pj"
+    },
+    {
+      "album": {
         "name": "Oil",
         "url": "https://open.spotify.com/album/1RiMtUb7MdEGVCV3XxgHY8"
       },
@@ -11999,6 +12035,36 @@
     },
     {
       "album": {
+        "name": "Party Night (feat. 18stop & JAKEN)",
+        "url": "https://open.spotify.com/album/3MKYBk575e0nIKlramDqgo"
+      },
+      "artists": [
+        {
+          "name": "YUTO",
+          "url": "https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA"
+        },
+        {
+          "name": "DopeOnigiri",
+          "url": "https://open.spotify.com/artist/3K2Hmv1k0CJjuSRk8NXluO"
+        },
+        {
+          "name": "18stop",
+          "url": "https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF"
+        },
+        {
+          "name": "JAKEN",
+          "url": "https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179258,
+      "name": "Party Night (feat. 18stop & JAKEN)",
+      "url": "https://open.spotify.com/track/3HRtVSWwWLvFTCt4yLakPC"
+    },
+    {
+      "album": {
         "name": "Pay (Remix)",
         "url": "https://open.spotify.com/album/4cD59RJcTzGyTSXKqhoRIk"
       },
@@ -12090,6 +12156,24 @@
       "duration_ms": 138486,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/3tWsNTG8oCwGZXKxsLO9up"
+    },
+    {
+      "album": {
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/2mfzeqN27BQhiDkFBTtHM8"
+      },
+      "artists": [
+        {
+          "name": "Charlu",
+          "url": "https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138891,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/6lFQpInJCEuop8fLbnwXA5"
     },
     {
       "album": {
@@ -12302,7 +12386,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 168214,
       "name": "POLAR EXPRESS",
       "url": "https://open.spotify.com/track/6kapbtuuYswF3f7Q1Dd4GB"
@@ -14846,7 +14930,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 152162,
       "name": "Sushi",
       "url": "https://open.spotify.com/track/3fJVsH4ZDRt0yMiwtFbL2J"
@@ -17994,7 +18078,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 139823,
       "name": "\u30c1\u30fc\u30e0\u53cb\u9054 - Watson Remix",
       "url": "https://open.spotify.com/track/76GhMomsx1wQszZdwI3vRC"

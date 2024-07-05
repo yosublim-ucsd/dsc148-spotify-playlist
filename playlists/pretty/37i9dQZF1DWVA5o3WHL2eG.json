@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Y'akoto",
-  "num_followers": 34400,
+  "num_followers": 34423,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-07-03 08:13:40",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/01Yq1qHwqFTwgG4ZliCiO3"
-      },
-      "artists": [
-        {
-          "name": "DAMONA",
-          "url": "https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/0eZzHpwVdxW99Jlh6yLMaI"
-    },
-    {
-      "added_at": "2024-07-03 08:13:40",
-      "album": {
         "name": "Crazy Woman",
         "url": "https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 168517,
       "name": "Crazy Woman",
       "url": "https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX"
+    },
+    {
+      "added_at": "2024-07-03 08:13:40",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/01Yq1qHwqFTwgG4ZliCiO3"
+      },
+      "artists": [
+        {
+          "name": "DAMONA",
+          "url": "https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/0eZzHpwVdxW99Jlh6yLMaI"
     },
     {
       "added_at": "2024-07-03 08:13:40",
@@ -367,18 +367,18 @@
     {
       "added_at": "2024-07-03 08:13:40",
       "album": {
-        "name": "liebst du mich noch so wie ich dich ?",
-        "url": "https://open.spotify.com/album/2mDop7m3DVv8Vy8tc8iz7l"
+        "name": "Wenn du gehst",
+        "url": "https://open.spotify.com/album/3M9Bvk0dfZv1HOUCScxpIK"
       },
       "artists": [
         {
-          "name": "AMBRA",
-          "url": "https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5"
+          "name": "Aylo",
+          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
         }
       ],
-      "duration_ms": 168333,
-      "name": "liebst du mich noch so wie ich dich ?",
-      "url": "https://open.spotify.com/track/7M6917K5sAg3aejbjooySB"
+      "duration_ms": 150084,
+      "name": "Wenn du gehst",
+      "url": "https://open.spotify.com/track/7mDjp1foA6p4us9QZj8s8f"
     },
     {
       "added_at": "2024-07-03 08:13:40",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-07-03 08:13:40",
       "album": {
+        "name": "liebst du mich noch so wie ich dich ?",
+        "url": "https://open.spotify.com/album/2mDop7m3DVv8Vy8tc8iz7l"
+      },
+      "artists": [
+        {
+          "name": "AMBRA",
+          "url": "https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "liebst du mich noch so wie ich dich ?",
+      "url": "https://open.spotify.com/track/7M6917K5sAg3aejbjooySB"
+    },
+    {
+      "added_at": "2024-07-03 08:13:40",
+      "album": {
         "name": "C\u00f6p",
         "url": "https://open.spotify.com/album/5RlAz9c1qzY0ncGQ86tzr9"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 126975,
       "name": "C\u00f6p",
       "url": "https://open.spotify.com/track/0UHhs3pzejxiostXGLnNPH"
-    },
-    {
-      "added_at": "2024-07-03 08:13:40",
-      "album": {
-        "name": "Wenn du gehst",
-        "url": "https://open.spotify.com/album/3M9Bvk0dfZv1HOUCScxpIK"
-      },
-      "artists": [
-        {
-          "name": "Aylo",
-          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
-        }
-      ],
-      "duration_ms": 150084,
-      "name": "Wenn du gehst",
-      "url": "https://open.spotify.com/track/7mDjp1foA6p4us9QZj8s8f"
     },
     {
       "added_at": "2024-07-03 08:13:40",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-07-03 08:13:40",
       "album": {
-        "name": "Baby Spice",
-        "url": "https://open.spotify.com/album/6yg7SgVkrfKlx6R9ABYzjF"
-      },
-      "artists": [
-        {
-          "name": "Nya Polo",
-          "url": "https://open.spotify.com/artist/7cAgZXBekLII0vU3Q4V2qS"
-        }
-      ],
-      "duration_ms": 117638,
-      "name": "Baby Spice",
-      "url": "https://open.spotify.com/track/46PoRiYSTG4xbnl3MGbjYh"
-    },
-    {
-      "added_at": "2024-07-03 08:13:40",
-      "album": {
         "name": "Bottle of Wisdom",
         "url": "https://open.spotify.com/album/75ZfUYm9KOVtfcVhh39BRr"
       },
@@ -655,6 +639,22 @@
     {
       "added_at": "2024-07-03 08:13:40",
       "album": {
+        "name": "Baby Spice",
+        "url": "https://open.spotify.com/album/6yg7SgVkrfKlx6R9ABYzjF"
+      },
+      "artists": [
+        {
+          "name": "Nya Polo",
+          "url": "https://open.spotify.com/artist/7cAgZXBekLII0vU3Q4V2qS"
+        }
+      ],
+      "duration_ms": 117638,
+      "name": "Baby Spice",
+      "url": "https://open.spotify.com/track/46PoRiYSTG4xbnl3MGbjYh"
+    },
+    {
+      "added_at": "2024-07-03 08:13:40",
+      "album": {
         "name": "hit'n'run",
         "url": "https://open.spotify.com/album/71eRrfN8E7zOVZ6nuc8QQn"
       },
@@ -667,54 +667,6 @@
       "duration_ms": 127272,
       "name": "hit'n'run",
       "url": "https://open.spotify.com/track/0PM95lyCWlTrG9EgMcRuX1"
-    },
-    {
-      "added_at": "2024-07-03 08:13:40",
-      "album": {
-        "name": "Rennfahrer",
-        "url": "https://open.spotify.com/album/1QnGQ6Rwxb7gpc1W7lCzt0"
-      },
-      "artists": [
-        {
-          "name": "MODULAR",
-          "url": "https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot"
-        }
-      ],
-      "duration_ms": 159020,
-      "name": "Rennfahrer",
-      "url": "https://open.spotify.com/track/5Zp5Y1swR56E7p6NLhwGcu"
-    },
-    {
-      "added_at": "2024-07-03 08:13:40",
-      "album": {
-        "name": "Break My Own Heart",
-        "url": "https://open.spotify.com/album/1NgP3DVeHnyt2stxdMPfA4"
-      },
-      "artists": [
-        {
-          "name": "Krak\u00f3w Loves Adana",
-          "url": "https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN"
-        }
-      ],
-      "duration_ms": 214770,
-      "name": "Break My Own Heart",
-      "url": "https://open.spotify.com/track/2jZgubyu0PsDex7nU4GQiW"
-    },
-    {
-      "added_at": "2024-07-03 08:13:40",
-      "album": {
-        "name": "Babyblues",
-        "url": "https://open.spotify.com/album/4TmR0aYCOQ9M0ZRM8q8riP"
-      },
-      "artists": [
-        {
-          "name": "Y'akoto",
-          "url": "https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM"
-        }
-      ],
-      "duration_ms": 155355,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0yIu5UTLqkxoK2MQI8fJ5r"
     },
     {
       "added_at": "2024-07-03 08:13:40",
@@ -747,6 +699,54 @@
       "duration_ms": 177575,
       "name": "mies pr\u00e4pariert",
       "url": "https://open.spotify.com/track/5rdSGMrLZlwdA2xVE3YUcZ"
+    },
+    {
+      "added_at": "2024-07-03 08:13:40",
+      "album": {
+        "name": "Babyblues",
+        "url": "https://open.spotify.com/album/4TmR0aYCOQ9M0ZRM8q8riP"
+      },
+      "artists": [
+        {
+          "name": "Y'akoto",
+          "url": "https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM"
+        }
+      ],
+      "duration_ms": 155355,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0yIu5UTLqkxoK2MQI8fJ5r"
+    },
+    {
+      "added_at": "2024-07-03 08:13:40",
+      "album": {
+        "name": "Rennfahrer",
+        "url": "https://open.spotify.com/album/1QnGQ6Rwxb7gpc1W7lCzt0"
+      },
+      "artists": [
+        {
+          "name": "MODULAR",
+          "url": "https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot"
+        }
+      ],
+      "duration_ms": 159020,
+      "name": "Rennfahrer",
+      "url": "https://open.spotify.com/track/5Zp5Y1swR56E7p6NLhwGcu"
+    },
+    {
+      "added_at": "2024-07-03 08:13:40",
+      "album": {
+        "name": "Break My Own Heart",
+        "url": "https://open.spotify.com/album/1NgP3DVeHnyt2stxdMPfA4"
+      },
+      "artists": [
+        {
+          "name": "Krak\u00f3w Loves Adana",
+          "url": "https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN"
+        }
+      ],
+      "duration_ms": 214770,
+      "name": "Break My Own Heart",
+      "url": "https://open.spotify.com/track/2jZgubyu0PsDex7nU4GQiW"
     },
     {
       "added_at": "2024-07-03 08:13:40",

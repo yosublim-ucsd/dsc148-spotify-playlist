@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "Musica da gridare \ud83d\udda4 Cover: Sally Cruz",
+  "description": "musica da gridare \ud83d\udda4 sillyelly in cover",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -2365,6 +2365,24 @@
     },
     {
       "album": {
+        "name": "Da quando non sono qui\u2026",
+        "url": "https://open.spotify.com/album/5P0HR4Kf3NLlQLArt5bmrw"
+      },
+      "artists": [
+        {
+          "name": "Brown",
+          "url": "https://open.spotify.com/artist/0Q4V6DfjCMP0AYZvErnC2V"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151558,
+      "name": "Betty",
+      "url": "https://open.spotify.com/track/7M44cUOP5mNIP2nAylun3i"
+    },
+    {
+      "album": {
         "name": "Bimbi sperduti",
         "url": "https://open.spotify.com/album/71Hni2mOJAUVC9ll9fpvdo"
       },
@@ -4481,6 +4499,24 @@
     },
     {
       "album": {
+        "name": "Cuore di plastica",
+        "url": "https://open.spotify.com/album/133fvM0w0I7MYBWpea2FnP"
+      },
+      "artists": [
+        {
+          "name": "GIIN",
+          "url": "https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182126,
+      "name": "Cuore di plastica",
+      "url": "https://open.spotify.com/track/60z4eK84ANB9UZZuAe2cNr"
+    },
+    {
+      "album": {
         "name": "CUORE IN UNA BUSTA",
         "url": "https://open.spotify.com/album/59jpMKXkosR9Z9H0TTFpBc"
       },
@@ -5202,6 +5238,32 @@
       "duration_ms": 207312,
       "name": "Disordine",
       "url": "https://open.spotify.com/track/1D5u53U87GbNsQdOZeWIza"
+    },
+    {
+      "album": {
+        "name": "Distratti !",
+        "url": "https://open.spotify.com/album/480OibnuCZzZTj9TNoKF11"
+      },
+      "artists": [
+        {
+          "name": "Artu10000000",
+          "url": "https://open.spotify.com/artist/47Y9w726v5ujczF4Qpdw5h"
+        },
+        {
+          "name": "Boisi\u00e9",
+          "url": "https://open.spotify.com/artist/4aYFx0nZk91epacdJub6Ti"
+        },
+        {
+          "name": "GIOVAPI\u00d9GIOVA",
+          "url": "https://open.spotify.com/artist/2bJ8pwwyjQJfeVcLRQDnlx"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Distratti !",
+      "url": "https://open.spotify.com/track/5ulOn76mFsjGbpeP1cvEsK"
     },
     {
       "album": {
@@ -7506,7 +7568,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 175507,
       "name": "Gin Tonic (feat. NASKA)",
       "url": "https://open.spotify.com/track/46REGeMTDwkyjHLm3NKswF"
@@ -7825,6 +7887,32 @@
     },
     {
       "album": {
+        "name": "Playa Sanguedoro",
+        "url": "https://open.spotify.com/album/64thJHuBUy3jnH7K83DCP6"
+      },
+      "artists": [
+        {
+          "name": "Frada",
+          "url": "https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY"
+        },
+        {
+          "name": "DANTE",
+          "url": "https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj"
+        },
+        {
+          "name": "Germo67",
+          "url": "https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161007,
+      "name": "Goccia",
+      "url": "https://open.spotify.com/track/1d3Ar2b9vFKIkr7PGZBSDM"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -7898,7 +7986,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 205312,
       "name": "GOVERNO PUNK",
       "url": "https://open.spotify.com/track/7He9P5gjaE4cmQOquezZnl"
@@ -8006,7 +8094,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 141311,
       "name": "GUARDAMI NEGLI OCCHI",
       "url": "https://open.spotify.com/track/4z0TQHbnMAuwqhcmeLHD9i"
@@ -8104,6 +8192,24 @@
       "duration_ms": 176154,
       "name": "GUIDA SPERICOLATA",
       "url": "https://open.spotify.com/track/1Hiqf2YnCL7JaYf7Qer4Bp"
+    },
+    {
+      "album": {
+        "name": "hai qualcosa da dirmi",
+        "url": "https://open.spotify.com/album/3rCTmgucViJ6nF2mpNejos"
+      },
+      "artists": [
+        {
+          "name": "Amdrea(-.-)",
+          "url": "https://open.spotify.com/artist/1mPh5zrftjcjmBE3RYvRZ6"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138966,
+      "name": "hai qualcosa da dirmi",
+      "url": "https://open.spotify.com/track/2g87rgZH0CFWebejSDBkf7"
     },
     {
       "album": {
@@ -8210,6 +8316,28 @@
       "duration_ms": 135000,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/51fvbZ3wibIDS8Kz7fBqS5"
+    },
+    {
+      "album": {
+        "name": "HO FATTO UN CASINO",
+        "url": "https://open.spotify.com/album/5ZQresaqjP6G7dySu4uEzY"
+      },
+      "artists": [
+        {
+          "name": "Piccola kappa",
+          "url": "https://open.spotify.com/artist/1OtNgQFoP2nnK8dxxTcLhN"
+        },
+        {
+          "name": "Giast",
+          "url": "https://open.spotify.com/artist/1Sms2Hz4kX49kNnzNW9MKT"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "HO FATTO UN CASINO",
+      "url": "https://open.spotify.com/track/0a4xJxS8BZHeLZXFYoGxhN"
     },
     {
       "album": {
@@ -8784,7 +8912,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 155641,
       "name": "IL MIO FUNERALE",
       "url": "https://open.spotify.com/track/41DJVZFS981Y0A6pIEejMo"
@@ -9839,6 +9967,44 @@
     },
     {
       "album": {
+        "name": "Lacrima Nuova",
+        "url": "https://open.spotify.com/album/7xNYqNekje9BsbaCYZG7ip"
+      },
+      "artists": [
+        {
+          "name": "Mille Piccoli Cieli",
+          "url": "https://open.spotify.com/artist/6BFBvqZPlGZ2FUMXVHSsUY"
+        },
+        {
+          "name": "Floral Grin",
+          "url": "https://open.spotify.com/artist/5m1fvLDO1DDWVNhluFhOA9"
+        },
+        {
+          "name": "Altolucenti",
+          "url": "https://open.spotify.com/artist/4lpUgEzwYlZ4OZa4vYHkV9"
+        },
+        {
+          "name": "Christopher Padilla Billa",
+          "url": "https://open.spotify.com/artist/7gf6pwtdLMAtllg6eEwpno"
+        },
+        {
+          "name": "Colibree",
+          "url": "https://open.spotify.com/artist/7s961XmA8A69tQ3UQRD6sk"
+        },
+        {
+          "name": "\u00c8SSA",
+          "url": "https://open.spotify.com/artist/3vzv7k1u60UzTFUYiTV4Ca"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Lacrima Nuova",
+      "url": "https://open.spotify.com/track/499sucSYMaIPv6qVdYHWce"
+    },
+    {
+      "album": {
         "name": "LACRIME",
         "url": "https://open.spotify.com/album/3VNariQYcnXLuIP9tAJkDD"
       },
@@ -10533,6 +10699,24 @@
     },
     {
       "album": {
+        "name": "LOSER SOLO PER TE",
+        "url": "https://open.spotify.com/album/2J8wtMmG9qjBhknuh59GZO"
+      },
+      "artists": [
+        {
+          "name": "Melody Fall",
+          "url": "https://open.spotify.com/artist/2FzBfLO85pYbw7sZ9LdHys"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "LOSER SOLO PER TE",
+      "url": "https://open.spotify.com/track/3erP9xWlchFJCYHHdQG8Nk"
+    },
+    {
+      "album": {
         "name": "LosT",
         "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
       },
@@ -11175,6 +11359,24 @@
     },
     {
       "album": {
+        "name": "MDMA",
+        "url": "https://open.spotify.com/album/5FUcrODEUTca0k7fkwJsbd"
+      },
+      "artists": [
+        {
+          "name": "Sami River",
+          "url": "https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153548,
+      "name": "MDMA",
+      "url": "https://open.spotify.com/track/6UdVZhvXWEFvi1vnhvhb2b"
+    },
+    {
+      "album": {
         "name": "TRAUMA",
         "url": "https://open.spotify.com/album/4viNe5RBvDbJkaz5fDGQM0"
       },
@@ -11809,6 +12011,28 @@
     },
     {
       "album": {
+        "name": "Musica di Plastica",
+        "url": "https://open.spotify.com/album/6rcZbGfaeE6Dc0kqpjDwFl"
+      },
+      "artists": [
+        {
+          "name": "Nyno",
+          "url": "https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP"
+        },
+        {
+          "name": "Machweo",
+          "url": "https://open.spotify.com/artist/5Mr3g9Iu3I1jnGYi2ATlH3"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "Musica di Plastica",
+      "url": "https://open.spotify.com/track/16Iw4a24u1TicRhZjisiBg"
+    },
+    {
+      "album": {
         "name": "Mutande",
         "url": "https://open.spotify.com/album/0Df1BnTZBxAVNaG4cEvKIs"
       },
@@ -12204,6 +12428,52 @@
       "duration_ms": 141473,
       "name": "Non fa x me",
       "url": "https://open.spotify.com/track/1YCED21RSrmC6dSdY6oa5D"
+    },
+    {
+      "album": {
+        "name": "NON FUNZIONA CON ME",
+        "url": "https://open.spotify.com/album/6uskFKxh2yaKrndjcNrdex"
+      },
+      "artists": [
+        {
+          "name": "SPINABELLA",
+          "url": "https://open.spotify.com/artist/2V6hgWccRYE8HM1CbNgobr"
+        },
+        {
+          "name": "Lecomte",
+          "url": "https://open.spotify.com/artist/6heUOSN1PbORMAyKh6Lxpi"
+        },
+        {
+          "name": "Skrabbabby",
+          "url": "https://open.spotify.com/artist/4X6OA7xuCuovpUbPpMn62n"
+        },
+        {
+          "name": "Heavyangel",
+          "url": "https://open.spotify.com/artist/7p63AvCn4RRaREv06AnKnr"
+        },
+        {
+          "name": "Lincxn",
+          "url": "https://open.spotify.com/artist/29pfmNxifqErXIFZfubjAq"
+        },
+        {
+          "name": "elia",
+          "url": "https://open.spotify.com/artist/4AtwkLcoCPKhSVsXB8U8mJ"
+        },
+        {
+          "name": "5am",
+          "url": "https://open.spotify.com/artist/6CwvradIrlV1Ek2EGVAvpD"
+        },
+        {
+          "name": "PIERO",
+          "url": "https://open.spotify.com/artist/7apweWwbiQm4nv8pRDSkQe"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196924,
+      "name": "NON FUNZIONA CON ME",
+      "url": "https://open.spotify.com/track/3OqvLBEukh06M4dW0Y1DQU"
     },
     {
       "album": {
@@ -12664,6 +12934,24 @@
       "duration_ms": 142962,
       "name": "Nuda nei miei panni",
       "url": "https://open.spotify.com/track/27A4gpdZ1nkEYxRBA73cKT"
+    },
+    {
+      "album": {
+        "name": "NULLA (non ci ho capito)",
+        "url": "https://open.spotify.com/album/62lVHGMhNuHQARh7PYSzLj"
+      },
+      "artists": [
+        {
+          "name": "OCCHI",
+          "url": "https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "NULLA (non ci ho capito)",
+      "url": "https://open.spotify.com/track/2Fo5zKMlcjLLPEAbSpZBSI"
     },
     {
       "album": {
@@ -13552,6 +13840,24 @@
       "duration_ms": 142725,
       "name": "PERCH\u00c9 NON TI CAPIVO",
       "url": "https://open.spotify.com/track/1JLSRLlbsdX9Ac9S0I1QIq"
+    },
+    {
+      "album": {
+        "name": "PERDERAI TUTTO SE CONTINUI",
+        "url": "https://open.spotify.com/album/2ThemOKLLVEm9LIRq9bgZk"
+      },
+      "artists": [
+        {
+          "name": "NXFEIT",
+          "url": "https://open.spotify.com/artist/1gU9mTuXPAIAHzudmIXU8k"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161724,
+      "name": "PERDERAI TUTTO SE CONTINUI",
+      "url": "https://open.spotify.com/track/3vk66NwzPu5zI6IprAfmGk"
     },
     {
       "album": {
@@ -14639,6 +14945,28 @@
     },
     {
       "album": {
+        "name": "QUELLE VOLTE CHE TI HO ODIATO",
+        "url": "https://open.spotify.com/album/3Z4KDvq8wNi8NFTyLQ6Acn"
+      },
+      "artists": [
+        {
+          "name": "MANU ROC",
+          "url": "https://open.spotify.com/artist/5uwVgGZOxoWYt5AikAEim8"
+        },
+        {
+          "name": "Moka",
+          "url": "https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165388,
+      "name": "QUELLE VOLTE CHE TI HO ODIATO",
+      "url": "https://open.spotify.com/track/7DBZy42cZcN3fHC32bVPNT"
+    },
+    {
+      "album": {
         "name": "Quelli come noi",
         "url": "https://open.spotify.com/album/69FIQOMkfmxTmcNm4Abadk"
       },
@@ -15198,7 +15526,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 197766,
       "name": "RUGGINE \u26ae (con chiello & Coez)",
       "url": "https://open.spotify.com/track/0RIfczN0zU09Jl1ZzsUS2Y"
@@ -15821,6 +16149,28 @@
     },
     {
       "album": {
+        "name": "SEROTONINA",
+        "url": "https://open.spotify.com/album/5QnugKAe67cmVm2gsOLWCt"
+      },
+      "artists": [
+        {
+          "name": "Alelock",
+          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
+        },
+        {
+          "name": "NAMIDA",
+          "url": "https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "SEROTONINA",
+      "url": "https://open.spotify.com/track/6yMYR2CTxVPa1If4Qe3AVx"
+    },
+    {
+      "album": {
         "name": "Serramanico Farfalla",
         "url": "https://open.spotify.com/album/10ggwPJhklVqNIl9ef9Qcp"
       },
@@ -16174,7 +16524,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Skifo",
       "url": "https://open.spotify.com/track/7s5HKqVqa2mcYqqtpu9Zvw"
@@ -16420,6 +16770,24 @@
       "duration_ms": 162519,
       "name": "sotto casa tua",
       "url": "https://open.spotify.com/track/1IRpiETZQGRNecgAfJOmHe"
+    },
+    {
+      "album": {
+        "name": "SOTTO CASSA",
+        "url": "https://open.spotify.com/album/4DA8rH0nzQ0CaBcngpOmet"
+      },
+      "artists": [
+        {
+          "name": "n1chxlas",
+          "url": "https://open.spotify.com/artist/4aGmDcjK1jQgGm8ah08Udx"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "SOTTO CASSA",
+      "url": "https://open.spotify.com/track/0VlOYUE0jR7pMcWX3n0f4N"
     },
     {
       "album": {

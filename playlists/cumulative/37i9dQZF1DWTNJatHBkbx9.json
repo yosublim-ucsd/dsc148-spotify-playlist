@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-14",
-  "description": "From the alternative scene in Ghana. Cover: SUPERJAZZCLUB",
+  "description": "From the alternative scene in Ghana. Cover: $pacely",
   "name": "Alt. Ghana",
   "tracks": [
     {
@@ -110,6 +110,28 @@
       "duration_ms": 155000,
       "name": "ACT A FOOL",
       "url": "https://open.spotify.com/track/7DR5U9CtjI9CTFXSAmD0Am"
+    },
+    {
+      "album": {
+        "name": "Agoro",
+        "url": "https://open.spotify.com/album/02tQEc4LhQ8O18IIx5p3Yr"
+      },
+      "artists": [
+        {
+          "name": "$pacely",
+          "url": "https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1"
+        },
+        {
+          "name": "Marince Omario",
+          "url": "https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Agoro",
+      "url": "https://open.spotify.com/track/5JemrWFhAJqMgVp2nli7ly"
     },
     {
       "album": {
@@ -966,6 +988,32 @@
       "duration_ms": 160823,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/5qecyCoEoIhKUf47iT67qA"
+    },
+    {
+      "album": {
+        "name": "Nonsense",
+        "url": "https://open.spotify.com/album/1XDyC4cV2UNE4pmV3hdf0e"
+      },
+      "artists": [
+        {
+          "name": "Wanzam The Classic Dj",
+          "url": "https://open.spotify.com/artist/0bTKup0wxXNlwzrNvjZvEx"
+        },
+        {
+          "name": "Marince Omario",
+          "url": "https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M"
+        },
+        {
+          "name": "Gaga Ranks",
+          "url": "https://open.spotify.com/artist/7utvjdqhdvjjKMEx96KSpt"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172978,
+      "name": "Nonsense",
+      "url": "https://open.spotify.com/track/2dKzxUbmDLscf0Wu7EkR3E"
     },
     {
       "album": {

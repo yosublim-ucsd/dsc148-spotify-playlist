@@ -1551,6 +1551,24 @@
     },
     {
       "album": {
+        "name": "La Salvacion",
+        "url": "https://open.spotify.com/album/1cgavAkBLUru2Eh3OWOHha"
+      },
+      "artists": [
+        {
+          "name": "Bokotax",
+          "url": "https://open.spotify.com/artist/36WR5iGUPJs83E8g7LPgTE"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136888,
+      "name": "Amaga",
+      "url": "https://open.spotify.com/track/3ZWxvrAza3lOIEiff5sAeC"
+    },
+    {
+      "album": {
         "name": "Amanece",
         "url": "https://open.spotify.com/album/464FQ8gr0oKlQ1a0TCK4Yj"
       },
@@ -11686,7 +11704,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 124285,
       "name": "Hoy Si",
       "url": "https://open.spotify.com/track/0psfsyaZP1MNEBiTSeTM9N"
@@ -13116,7 +13134,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 174229,
       "name": "LA FALDA",
       "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
@@ -15664,7 +15682,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 152653,
       "name": "Ma Buena",
       "url": "https://open.spotify.com/track/0KAR1qidh5Og0JcG9Ws18A"
@@ -30408,7 +30426,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 143225,
       "name": "WOA",
       "url": "https://open.spotify.com/track/77BeE5CasHQzrVxKXKVTR7"
@@ -30510,7 +30528,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "WYA",
       "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"

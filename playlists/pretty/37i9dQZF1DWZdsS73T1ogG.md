@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Jotaerre
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,698 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,722 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 47 | [ETA](https://open.spotify.com/track/7h01E3mGqPrudATKy7zVKN) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [ETA](https://open.spotify.com/album/7yofWqjDQfluI8HN9ZqUqq) | 2:03 |
 | 48 | [Paracaídas](https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paracaídas](https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6) | 2:45 |
 | 49 | [Mi Cuki](https://open.spotify.com/track/7uqNxRCccosBv9eeAxWsMQ) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5) | [Mi Cuki](https://open.spotify.com/album/1JbB7otm98HhkAA55BV1He) | 2:38 |
-| 50 | [X MADRID](https://open.spotify.com/track/7dzgQFyIswR1VnewrMU06X) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [X MADRID](https://open.spotify.com/album/1RL9iRKuK6DoyviIrdOf9O) | 2:42 |
+| 50 | [X MADRID](https://open.spotify.com/track/7dzgQFyIswR1VnewrMU06X) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [X MADRID](https://open.spotify.com/album/1RL9iRKuK6DoyviIrdOf9O) | 2:42 |
 | 51 | [BRICKELL](https://open.spotify.com/track/4S5KwSntvkT6bbUnfltXQl) | [LA MAS FLY](https://open.spotify.com/artist/4aUcQBWDj6ka9IlziykmQy), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [FLY CITY](https://open.spotify.com/album/1hiFt1RgjfXx3YKETueU2g) | 3:01 |
 | 52 | [MUJER FINA](https://open.spotify.com/track/4k0ieiGqa9HcHRwnzpvs1C) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Adan La Amenaza](https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S) | [MUJER FINA](https://open.spotify.com/album/6n82Dmo91AJ28X8Z4Yiy7W) | 2:26 |
 | 53 | [CheeseCake](https://open.spotify.com/track/2NLdEvHNcpGeCfrO6p0XnZ) | [Oplus](https://open.spotify.com/artist/2JQQDzeOEkRz7ld1pekbw0) | [CheeseCake](https://open.spotify.com/album/2Cc8d2y2xDW97OxCbBUgZ5) | 2:37 |

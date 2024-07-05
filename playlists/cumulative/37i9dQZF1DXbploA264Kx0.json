@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: June Pan",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Mandark",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -652,6 +652,24 @@
       "duration_ms": 245299,
       "name": "Cult Film Club",
       "url": "https://open.spotify.com/track/13LmtdvULXYBy9q6fYthvt"
+    },
+    {
+      "album": {
+        "name": "DJV",
+        "url": "https://open.spotify.com/album/5X8xK7oeSYUL3qTYGSYs6W"
+      },
+      "artists": [
+        {
+          "name": "Mandark",
+          "url": "https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166560,
+      "name": "DJV",
+      "url": "https://open.spotify.com/track/7tuNmssymaXZDmyU0Waf60"
     },
     {
       "album": {
@@ -1674,7 +1692,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 335595,
       "name": "Moon",
       "url": "https://open.spotify.com/track/30g5POchpw47WCcIeeqeIO"
@@ -2612,7 +2630,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 259648,
       "name": "S\u00f8ul\u043ca\u0442e - Remix",
       "url": "https://open.spotify.com/track/6iw67Qocm9GfffN5vgdiSO"
@@ -3054,7 +3072,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 161666,
       "name": "WHY AM I HERE",
       "url": "https://open.spotify.com/track/4pFD8YFEzOXslurT0tXLer"
@@ -3098,6 +3116,28 @@
       "duration_ms": 272083,
       "name": "You Better Kiss Me ( feat.LINION )",
       "url": "https://open.spotify.com/track/4vw5HnGzn2eRiciecr3xxd"
+    },
+    {
+      "album": {
+        "name": "Young Man",
+        "url": "https://open.spotify.com/album/5nc0Puti8JCg2jkbFRYQ0x"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        },
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257286,
+      "name": "Young Man",
+      "url": "https://open.spotify.com/track/02cOOZKta4qE4Qv9BusfOQ"
     },
     {
       "album": {
@@ -3824,6 +3864,28 @@
       "duration_ms": 265250,
       "name": "\u6c34\u71c8\u796d\u5178 Water Lanterns",
       "url": "https://open.spotify.com/track/1WGzKFSbxFUdo0OcPc0YBP"
+    },
+    {
+      "album": {
+        "name": "\u6c38\u9060 (feat. Norio)",
+        "url": "https://open.spotify.com/album/6plwMz01mkUlqapxx4rZFo"
+      },
+      "artists": [
+        {
+          "name": "Misi Ke",
+          "url": "https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl"
+        },
+        {
+          "name": "Norio",
+          "url": "https://open.spotify.com/artist/3I9p8Q35lqt1NmCx2r0L9S"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266002,
+      "name": "\u6c38\u9060 (feat. Norio)",
+      "url": "https://open.spotify.com/track/2vMsqshNbPC3ksiSTnwtpT"
     },
     {
       "album": {

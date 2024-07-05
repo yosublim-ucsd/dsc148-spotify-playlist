@@ -1,12 +1,12 @@
 {
-  "description": "This is Black Alien. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 34157,
+  "description": "This is Black Alien. The essential tracks, all in one playlist.",
+  "num_followers": 34178,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoNDAAAAAABxoxPs7hH094yqf7MEhbcf",
+  "snapshot_id": "ZoSUgAAAAADeTvXq6gu45eZy+YTFZquh",
   "tracks": [
     {
       "added_at": null,
@@ -363,42 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JARDINEIROS",
-        "url": "https://open.spotify.com/album/5RhgokruA7dS8c7rG63ejD"
-      },
-      "artists": [
-        {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 154413,
-      "name": "O RITMO E A RAIVA",
-      "url": "https://open.spotify.com/track/4jYaCHJA2Kuu7ETTdBN3Lf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Abaixo de Zero: Hello Hell",
-        "url": "https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 165858,
-      "name": "\u00c1rea 51",
-      "url": "https://open.spotify.com/track/0k70HfFx7rqehJDmYk8FKh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gord\u00e3o Chefe",
         "url": "https://open.spotify.com/album/3zlu8V6JkmUBvPn1fZ1b7Y"
       },
@@ -419,6 +383,42 @@
       "duration_ms": 331775,
       "name": "Sinto Muito Baby",
       "url": "https://open.spotify.com/track/7IZvPErl548WXwqHABeNuS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abaixo de Zero: Hello Hell",
+        "url": "https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 165858,
+      "name": "\u00c1rea 51",
+      "url": "https://open.spotify.com/track/0k70HfFx7rqehJDmYk8FKh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JARDINEIROS",
+        "url": "https://open.spotify.com/album/5RhgokruA7dS8c7rG63ejD"
+      },
+      "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 154413,
+      "name": "O RITMO E A RAIVA",
+      "url": "https://open.spotify.com/track/4jYaCHJA2Kuu7ETTdBN3Lf"
     },
     {
       "added_at": null,
@@ -491,6 +491,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Como Eu Te Quero (Remix)",
+        "url": "https://open.spotify.com/album/202XFQhcWaClPP1PbwDb5y"
+      },
+      "artists": [
+        {
+          "name": "Gabe",
+          "url": "https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu"
+        },
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "Como Eu Te Quero - Remix",
+      "url": "https://open.spotify.com/track/028kyZPJ1bWNSDrtmj6CWM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Princi\u0301pio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 176318,
+      "name": "O Estranho Vizinho da Frente",
+      "url": "https://open.spotify.com/track/7ymEK7S0DIlXiTLB4Fs17J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crian\u00e7as Selvagens",
         "url": "https://open.spotify.com/album/5KD6a45jKqFqE7HrhcfghS"
       },
@@ -519,46 +559,6 @@
       "duration_ms": 235413,
       "name": "Papaia",
       "url": "https://open.spotify.com/track/3PMXcwMCEcFx5ZmSmUFXSg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Princi\u0301pio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 176318,
-      "name": "O Estranho Vizinho da Frente",
-      "url": "https://open.spotify.com/track/7ymEK7S0DIlXiTLB4Fs17J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como Eu Te Quero (Remix)",
-        "url": "https://open.spotify.com/album/202XFQhcWaClPP1PbwDb5y"
-      },
-      "artists": [
-        {
-          "name": "Gabe",
-          "url": "https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu"
-        },
-        {
-          "name": "Viot",
-          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "Como Eu Te Quero - Remix",
-      "url": "https://open.spotify.com/track/028kyZPJ1bWNSDrtmj6CWM"
     },
     {
       "added_at": null,

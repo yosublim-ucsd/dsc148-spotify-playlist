@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Alejandro y María Laura.
 
-623 songs - 1 day 13 hr 17 min
+624 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [El primero](https://open.spotify.com/track/3yFlsxRaK7TuIByEWGPdlw) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Las manos](https://open.spotify.com/album/1LKDk8RQ588oxmj4tBK39i) | 3:11 | 2022-11-25 | 2022-12-27 |
 | [El Sitio](https://open.spotify.com/track/5eh20XbXOPiFgDz8XXo9WY) | [Lo Lamento](https://open.spotify.com/artist/08I7fke1XRwIgC0orK1pRN) | [El Sitio](https://open.spotify.com/album/1aXGNKkRQoHwE6RJacP5kE) | 3:19 | 2023-05-19 | 2023-06-17 |
 | [El Tiempo Está Después](https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox), [Ernesto Snajer](https://open.spotify.com/artist/2lsW2v88mmr3SCDpKFlUao) | [Raíces](https://open.spotify.com/album/5O4fzDFmTZXSRjQZpMc9P5) | 3:01 | 2021-12-24 | 2024-04-20 |
+| [El Uniforme](https://open.spotify.com/track/7cmLEaipTvsKCLhAURQJm3) | [Chlöe's Clue](https://open.spotify.com/artist/1sRWTOOn4OvDGoe1oXVFoE) | [El Uniforme](https://open.spotify.com/album/3yKCDNAd10ZlTVTSONPGye) | 2:00 | 2024-06-28 |  |
 | [El Verano Que Vivimos](https://open.spotify.com/track/1LTaLoBeGVgQ9CXNhr6aXL) | [Alfredo González](https://open.spotify.com/artist/4DzEtZMxJdNGHsIvzGILfb), [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [El Verano Que Vivimos](https://open.spotify.com/album/0WNi05EyoAFBDvKdqtVmYk) | 3:51 | 2023-09-29 | 2023-10-24 |
 | [El Viejo Comunista](https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [El Viejo Comunista](https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke) | 4:57 | 2021-12-24 | 2024-05-10 |
 | [Elegía](https://open.spotify.com/track/6CgUntvaIGORRa5qTdx0Jx) | [Andrea Santiago](https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo) | [Elegía](https://open.spotify.com/album/7iISpm6hy6cNtC2I0dymTE) | 3:28 | 2024-05-09 | 2024-06-06 |
@@ -434,7 +435,7 @@
 | [Pecho Jardín](https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7) | [Alejandro Albarrán](https://open.spotify.com/artist/1QmdL2FgY8hrUjbKxX3jcK), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Pecho Jardín](https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc) | 4:42 | 2024-05-30 |  |
 | [Pedres blanques](https://open.spotify.com/track/2SWP92PW7S0uFZZKCxIrci) | [Magalí Datzira](https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4) | [Pedres blanques](https://open.spotify.com/album/0BEz51ZYMtM7TFA0BJMnvy) | 2:38 | 2022-10-10 | 2022-11-26 |
 | [Peligrosamente Dark \(feat\. Silvana Estrada\)](https://open.spotify.com/track/15pq95Ie1omSW3e1oCCynv) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Cuando Te Muerdes el Labio](https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4) | 2:53 | 2021-12-24 |  |
-| [Pequeñas Esperanzas](https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Pequeñas Esperanzas](https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K) | 3:20 | 2023-06-16 |  |
+| [Pequeñas Esperanzas](https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Pequeñas Esperanzas](https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K) | 3:20 | 2023-06-16 | 2024-07-05 |
 | [Pequeñito](https://open.spotify.com/track/1d73Yo9pEc4mfaZG7Z1zCZ) | [Maritune](https://open.spotify.com/artist/5pZKCvKqPprJ96bKy7jjUY) | [Pequeñito](https://open.spotify.com/album/0zfPmtmMrsV2qVGtoA0Pse) | 3:37 | 2022-04-01 | 2022-04-21 |
 | [Persiguiendo el sol](https://open.spotify.com/track/22MdrwrcX4TK0dLP7iDfLe) | [Sara Sístole](https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8) | [Persiguiendo el sol](https://open.spotify.com/album/45zzJc7zbQOhVgjR9PrXZF) | 2:24 | 2023-05-19 | 2023-05-30 |
 | [Petit Matin](https://open.spotify.com/track/1n4avKsSM6Zh6iUlCaImdq) | [Lili Del Sol](https://open.spotify.com/artist/7H4yMcbwwmQYF4zrOPz3bl), [Manu Linois](https://open.spotify.com/artist/3hnHGtZ0ZJsEeMaCpb76hj) | [HOMINUM](https://open.spotify.com/album/1o6QLWlzUUuRX5GucEohCx) | 4:07 | 2022-02-04 | 2022-07-14 |

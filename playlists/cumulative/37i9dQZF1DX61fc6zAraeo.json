@@ -266,7 +266,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 156220,
       "name": "Big Emotion",
       "url": "https://open.spotify.com/track/2yXpN0Rz2KTny9J5BxwYFz"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 162222,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/7gTz5MRjppI1Pdid7VX6Xy"
@@ -1122,6 +1122,24 @@
       "duration_ms": 158571,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c"
+    },
+    {
+      "album": {
+        "name": "Gibberish",
+        "url": "https://open.spotify.com/album/1i5z3OweX0CKIJilrAw9Nq"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153321,
+      "name": "Gibberish",
+      "url": "https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc"
     },
     {
       "album": {
@@ -1256,7 +1274,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 153004,
       "name": "Hidden Signs",
       "url": "https://open.spotify.com/track/5Y8MD5KkcEd6BZUHRz7oJN"
@@ -1957,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/4k3Ds6BpAVHke4RgMOrZhr"
+      },
+      "artists": [
+        {
+          "name": "Slider & Magnit",
+          "url": "https://open.spotify.com/artist/37ZsOOOyY41QwwvhTaUAZ6"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200585,
+      "name": "Nonstop",
+      "url": "https://open.spotify.com/track/5wbVnCpaHQ0PpIMSBUjq3u"
+    },
+    {
+      "album": {
         "name": "Nothing In Common",
         "url": "https://open.spotify.com/album/2OVpPBoS3pjmlaJH6PuT39"
       },
@@ -2030,7 +2066,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 222911,
       "name": "On My Love",
       "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
@@ -2129,6 +2165,28 @@
     },
     {
       "album": {
+        "name": "Only Way Is Up (feat. Izzy Bizu)",
+        "url": "https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149816,
+      "name": "Only Way Is Up (feat. Izzy Bizu)",
+      "url": "https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV"
+    },
+    {
+      "album": {
         "name": "Only You and I",
         "url": "https://open.spotify.com/album/47cpXq5eoAPVwTojjZwYP3"
       },
@@ -2152,7 +2210,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 175300,
       "name": "Only You and I",
       "url": "https://open.spotify.com/track/79KGZzqNgevzXDN18Gmdqm"
@@ -2174,7 +2232,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 164000,
       "name": "Out My Head",
       "url": "https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF"
@@ -2266,7 +2324,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 164576,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/1bQeHzGMsZFQx9WRARaBJq"
@@ -2332,6 +2390,28 @@
       "duration_ms": 135483,
       "name": "Pretty Little Lies",
       "url": "https://open.spotify.com/track/2gg28k4Djlpg0a7SGsB8Zc"
+    },
+    {
+      "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/5ztoSLLT7MGaSs1GMAtkUg"
+      },
+      "artists": [
+        {
+          "name": "Makasi",
+          "url": "https://open.spotify.com/artist/6eV9xjvttxeYB2iST5hfT6"
+        },
+        {
+          "name": "Dannii Murphy",
+          "url": "https://open.spotify.com/artist/3TmtulA8Wifl6Mt8c0JwtI"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214003,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/4zvBl1Qn1ZeTW4jkdnrEuq"
     },
     {
       "album": {
@@ -2888,7 +2968,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 176328,
       "name": "The Drop - \u00d6wnboss Remix",
       "url": "https://open.spotify.com/track/0Sqo0vvIRcIQBD1XuTrH69"
@@ -3034,7 +3114,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 169831,
       "name": "V I B R A T I O N (w/ Shift K3Y)",
       "url": "https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW"
@@ -3448,7 +3528,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 165804,
       "name": "You",
       "url": "https://open.spotify.com/track/0k4IrHcS8tMOzgOaufCl1A"

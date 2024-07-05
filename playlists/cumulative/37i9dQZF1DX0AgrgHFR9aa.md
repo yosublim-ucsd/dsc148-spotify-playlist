@@ -2,9 +2,9 @@
 
 ### [Lyricistes](https://open.spotify.com/playlist/37i9dQZF1DX0AgrgHFR9aa)
 
-> Les plus belles plumes rap français du moment\. Photo : Lacrim
+> Les plus belles plumes rap français du moment\. Photo : Heykel
 
-40 songs - 2 hr 17 min
+41 songs - 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Madame](https://open.spotify.com/track/5zxTyelb42bd7QXzJuGNp9) | [IZAID](https://open.spotify.com/artist/1uXtKoRnSL2151WEZFN9Ab) | [Madame](https://open.spotify.com/album/6qaLbepFBV2ZECcBDWBD3j) | 2:27 | 2024-06-27 |  |
 | [No Choice](https://open.spotify.com/track/7FX9fJFJL1BSgrWKZ3zrhX) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn), [Le Shoush](https://open.spotify.com/artist/3pBS7ZKUIPG82BxrOVRaFH) | [No Choice](https://open.spotify.com/album/5RHher7IXArSsZGvXHUFui) | 2:22 | 2024-06-27 |  |
 | [Okocha](https://open.spotify.com/track/6iCnRrrog1pejAaIJ3rflq) | [Keroué](https://open.spotify.com/artist/5BmYHHk3xzJxkmrHVkq4y8), [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Okocha](https://open.spotify.com/album/5b4oBtPVPjROqyg8RyUcTC) | 2:26 | 2024-06-27 |  |
+| [PLAYBOI CARTI](https://open.spotify.com/track/1tzaO7UkR3tk9PXJXMKTMo) | [Metah](https://open.spotify.com/artist/0Dr1nbwa1KW5wHYUCsrnAF) | [ILL'](https://open.spotify.com/album/1L1sWMW7RJLHlQiLQQqLiX) | 2:38 | 2024-07-04 |  |
 | [Plus fort](https://open.spotify.com/track/7wLy1EDhsCY4k7rymb9L4E) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC) | [Plus fort que l'orage](https://open.spotify.com/album/4LdYnCjNvxtjOOuP90Vszy) | 2:30 | 2024-06-27 |  |
 | [Psychose](https://open.spotify.com/track/3g7owEXAWIoX23gOMT709Z) | [Falcko](https://open.spotify.com/artist/0U4UrgHYuU5CiuJoMZf4fl) | [BLACK CODE TOME 4](https://open.spotify.com/album/5nzw8NtPjaK2OT5df1HLji) | 2:40 | 2024-06-27 |  |
 | [Rebellion](https://open.spotify.com/track/1JtOe5JDDjASnbcNsiPlD0) | [Lesram](https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03) | [Rebellion](https://open.spotify.com/album/3mivoTyPvqrpKCcRpAYuK9) | 2:25 | 2024-06-27 |  |
@@ -43,7 +44,7 @@
 | [Retours dans les abysses](https://open.spotify.com/track/2mPlM83Qd04ImIUNx9A6sB) | [Scylla](https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA) | [Ivresse des profondeurs](https://open.spotify.com/album/7vygsCyNB7x683jqWfDBrI) | 4:54 | 2024-06-27 |  |
 | [ROSE \(MILKTAPE\)](https://open.spotify.com/track/4bCqWgUfw5muaci4ZN4HZc) | [Hobiwan](https://open.spotify.com/artist/4lg0P1vyhTD3l4g7JGZ3ui), [MILK](https://open.spotify.com/artist/4MRxeXBlpO1Z5D57c0GymF) | [ROSE \(MILKTAPE\)](https://open.spotify.com/album/6gUXAxsd4VXyA64ndb9D9q) | 2:25 | 2024-06-27 |  |
 | [Trap House](https://open.spotify.com/track/1lOkxlm1w2RhM8tWOId3e9) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti) | [Trap House](https://open.spotify.com/album/47lkxnHwOsoS4RftJLrWRN) | 2:58 | 2024-06-27 |  |
-| [Une fois ou deux](https://open.spotify.com/track/3ibta0jnNl7NuRNNFkVnTd) | [Civil](https://open.spotify.com/artist/696uf26etJndy1oI0wiFYm) | [Une fois ou deux](https://open.spotify.com/album/0TkgjvxCimgBWYE8vEHtBA) | 2:57 | 2024-06-27 |  |
+| [Une fois ou deux](https://open.spotify.com/track/3ibta0jnNl7NuRNNFkVnTd) | [Civil](https://open.spotify.com/artist/696uf26etJndy1oI0wiFYm) | [Une fois ou deux](https://open.spotify.com/album/0TkgjvxCimgBWYE8vEHtBA) | 2:57 | 2024-06-27 | 2024-07-05 |
 | [Vernissage](https://open.spotify.com/track/2yF364s6VEUTx1Hs4Nyytf) | [Caballero](https://open.spotify.com/artist/5DE0by3fZT0nrlJSutY2D7), [Lesram](https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03) | [Dose héroïque](https://open.spotify.com/album/54aPS3jDEYjVOZo8KO9AIq) | 3:12 | 2024-06-27 |  |
 | [Vérité 7](https://open.spotify.com/track/5xm8SYHo9JsqAK8uL7fyeB) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j) | [Vérité 7](https://open.spotify.com/album/0LlqvuC4mIyal7gFaqifH1) | 5:54 | 2024-06-27 |  |
 | [À La Faveur De L'automne](https://open.spotify.com/track/0DguFFo4yDAe2P8KfyCHTe) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP) | [Cesium](https://open.spotify.com/album/3OBZmTgqZ9IInlEWoRseIm) | 5:41 | 2024-06-27 |  |

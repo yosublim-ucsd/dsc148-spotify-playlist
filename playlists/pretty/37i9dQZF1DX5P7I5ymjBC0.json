@@ -1,6 +1,6 @@
 {
   "description": "Where Sitar meets Guitar. Cover - 'Sonchadi' by DigV, Neha Kakkar and Kamla Devi",
-  "num_followers": 69751,
+  "num_followers": 69754,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-06-13 12:13:13",
       "album": {
+        "name": "Savera - Single",
+        "url": "https://open.spotify.com/album/01uQLmpmr0kXXW935hub2N"
+      },
+      "artists": [
+        {
+          "name": "Anusha Mani",
+          "url": "https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry"
+        }
+      ],
+      "duration_ms": 245510,
+      "name": "Savera",
+      "url": "https://open.spotify.com/track/7zCNzMtqsYAFX5GC2TLin2"
+    },
+    {
+      "added_at": "2024-06-13 12:13:13",
+      "album": {
         "name": "Albela",
         "url": "https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ"
       },
@@ -1007,46 +1023,26 @@
     {
       "added_at": "2024-06-13 12:13:13",
       "album": {
-        "name": "Savera - Single",
-        "url": "https://open.spotify.com/album/01uQLmpmr0kXXW935hub2N"
+        "name": "Krishna Murari",
+        "url": "https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp"
       },
       "artists": [
         {
-          "name": "Anusha Mani",
-          "url": "https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry"
+          "name": "Hrishikesh Datar",
+          "url": "https://open.spotify.com/artist/0mn7WBfik9JJWhvQ0nHY08"
+        },
+        {
+          "name": "Shilpa Puntambekar",
+          "url": "https://open.spotify.com/artist/39BPeGp96iluxeeOJB4Cho"
+        },
+        {
+          "name": "Savani Kulkarni",
+          "url": "https://open.spotify.com/artist/6ryQKtRDvVIAe74nmB0m5T"
         }
       ],
-      "duration_ms": 245510,
-      "name": "Savera",
-      "url": "https://open.spotify.com/track/7zCNzMtqsYAFX5GC2TLin2"
-    },
-    {
-      "added_at": "2024-06-13 12:13:13",
-      "album": {
-        "name": "As We Speak",
-        "url": "https://open.spotify.com/album/2ZxzJ0ULWeGLzUhyapuVNN"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Zakir Hussain",
-          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
-        },
-        {
-          "name": "Edgar Meyer",
-          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
-        },
-        {
-          "name": "Rakesh Chaurasia",
-          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
-        }
-      ],
-      "duration_ms": 504051,
-      "name": "Pashto",
-      "url": "https://open.spotify.com/track/6vxP8D4gBHH1EiMmlzYmSL"
+      "duration_ms": 225353,
+      "name": "Krishna Murari",
+      "url": "https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644"
     }
   ],
   "unique_name": "Fusion Finds",

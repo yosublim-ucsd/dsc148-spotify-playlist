@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-25",
-  "description": "The calming space of Japanese Ambient and Environmental music. Masayoshi Fujita on cover.",
+  "description": "The calming space of Japanese Ambient and Environmental music. Kenichiro Isoda on cover.",
   "name": "Ambient Japan",
   "tracks": [
     {
@@ -4586,6 +4586,24 @@
       "duration_ms": 169000,
       "name": "\u3055\u3066\u3068",
       "url": "https://open.spotify.com/track/5QGQs3ju80BbO5Q3heCVkX"
+    },
+    {
+      "album": {
+        "name": "\u30de\u30b8\u30a8\u30eb\u306e\u307e\u3069\u308d\u307f - Majel's Slumber",
+        "url": "https://open.spotify.com/album/1Z4lvGOqC5H6rDfkeJre8a"
+      },
+      "artists": [
+        {
+          "name": "\u78ef\u7530\u5065\u4e00\u90ce",
+          "url": "https://open.spotify.com/artist/3rFwskAbReckTSOvClgBCt"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 692300,
+      "name": "\u30af\u30e9\u30e0\u30dc\u30f3\u306e\u7791\u60f3- Meditation of Clammbon",
+      "url": "https://open.spotify.com/track/5pjPli1o6JBDVxtdvWi4j8"
     },
     {
       "album": {

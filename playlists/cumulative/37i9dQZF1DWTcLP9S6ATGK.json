@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Jaz, Mawar de Jongh ",
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Geisha",
   "name": "Musik Akhir Pekan",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 225205,
       "name": "Balik Arah",
       "url": "https://open.spotify.com/track/2BbUfHUTIZsokhzrApZzSy"
@@ -208,10 +208,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 267096,
       "name": "Bersalah",
       "url": "https://open.spotify.com/track/6WV2LkAwhDMH0znwXXYq5R"
+    },
+    {
+      "album": {
+        "name": "Filosofi Males",
+        "url": "https://open.spotify.com/album/3RiYb3auIbLVAo8E38mLq8"
+      },
+      "artists": [
+        {
+          "name": "Amis",
+          "url": "https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212062,
+      "name": "bila",
+      "url": "https://open.spotify.com/track/6gHh6SMnCRxLwpDDD7zTqW"
     },
     {
       "album": {
@@ -296,6 +314,24 @@
       "duration_ms": 274005,
       "name": "Dan...",
       "url": "https://open.spotify.com/track/1rQikrucqgplHbRz4zs0uu"
+    },
+    {
+      "album": {
+        "name": "Datang Untuk Bertamu",
+        "url": "https://open.spotify.com/album/4yf7Jnp2IpqdfSuKDSSrcV"
+      },
+      "artists": [
+        {
+          "name": "Dewanda Pratama",
+          "url": "https://open.spotify.com/artist/2fyO8muxJQylRhoNGHdIRV"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Datang Untuk Bertamu",
+      "url": "https://open.spotify.com/track/5DtDSgArYifkJS5hDZ7YAx"
     },
     {
       "album": {
@@ -530,7 +566,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 260700,
       "name": "Hilang",
       "url": "https://open.spotify.com/track/1DWOLBHEMAFweYninH7oxv"
@@ -642,6 +678,24 @@
       "duration_ms": 270800,
       "name": "Jatuh Rapuh",
       "url": "https://open.spotify.com/track/5NmL2p9TXa9H17LoCyCKJS"
+    },
+    {
+      "album": {
+        "name": "Love Recalls",
+        "url": "https://open.spotify.com/album/7hfFSGo473KD4F40JLxA9A"
+      },
+      "artists": [
+        {
+          "name": "Geisha",
+          "url": "https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260653,
+      "name": "Jika Cinta Dia - Love Recalls Version",
+      "url": "https://open.spotify.com/track/3V2l5oSSdcna93pRw1OgQV"
     },
     {
       "album": {
@@ -1152,7 +1206,7 @@
       },
       "artists": [
         {
-          "name": "JordyRiz",
+          "name": "Jordy Riz",
           "url": "https://open.spotify.com/artist/02b3NF3lcXPtBGDsrWAbfo"
         }
       ],
@@ -1162,6 +1216,24 @@
       "duration_ms": 240345,
       "name": "Mengalah Tetap Salah",
       "url": "https://open.spotify.com/track/0fRENlzBJ9NKvIeI6TouYG"
+    },
+    {
+      "album": {
+        "name": "Mengenal Lebih Jauh",
+        "url": "https://open.spotify.com/album/5FXGHXWAcNMvgjfEzNb5eT"
+      },
+      "artists": [
+        {
+          "name": "Nuca",
+          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228125,
+      "name": "Mengenal Lebih Jauh",
+      "url": "https://open.spotify.com/track/3SnTh7hIYJzB4J6zyJ17OA"
     },
     {
       "album": {
@@ -1270,7 +1342,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 243428,
       "name": "Pada Akhirnya",
       "url": "https://open.spotify.com/track/5Cjjypy2Pm1LK1mdmohCuT"
@@ -1288,7 +1360,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 253411,
       "name": "Pada Akhirnya, Berkawan Berlalu",
       "url": "https://open.spotify.com/track/2AEBdOleejb5T6Gl2VALsb"
@@ -1504,7 +1576,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 217142,
       "name": "Saat Bersamanya",
       "url": "https://open.spotify.com/track/5HTUL2CcEddX6VUkCBOgxQ"
@@ -1522,7 +1594,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 240441,
       "name": "Salahkah Berharap",
       "url": "https://open.spotify.com/track/3cLJss4xbXCovH0GNOxgw2"
@@ -1624,7 +1696,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 217219,
       "name": "Selimut Rindu",
       "url": "https://open.spotify.com/track/6jjHaJQkryIX7UB3E5Zb00"
@@ -1714,7 +1786,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 279900,
       "name": "Tak Ingin Mengenalmu",
       "url": "https://open.spotify.com/track/1FBrBZFAnBiUcIVEh38K6q"
@@ -1732,7 +1804,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 225783,
       "name": "Tak Masalah",
       "url": "https://open.spotify.com/track/05QYcEboiQno5QQmQbr4rF"
@@ -1750,10 +1822,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 263641,
       "name": "Tak Pernah Cukup",
       "url": "https://open.spotify.com/track/62xkvlY0eeT6Utko8jmtNm"
+    },
+    {
+      "album": {
+        "name": "Tak Sehebat Dulu",
+        "url": "https://open.spotify.com/album/4mBpp8hGA5oj6fkmmdrxtX"
+      },
+      "artists": [
+        {
+          "name": "ACYUTA",
+          "url": "https://open.spotify.com/artist/3OB0l92TmjSGDLGVyaiY8s"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240226,
+      "name": "Tak Sehebat Dulu",
+      "url": "https://open.spotify.com/track/20QZAN1Cc9v8piHeAoGkm8"
     },
     {
       "album": {
@@ -1768,7 +1858,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 210000,
       "name": "Tempat Bercerita",
       "url": "https://open.spotify.com/track/6OtJBSqTlc2cPGDcijNutb"
@@ -1822,10 +1912,46 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 210923,
       "name": "Terluka Hati",
       "url": "https://open.spotify.com/track/7fIg9hw5tSGt1t0hCVR8gk"
+    },
+    {
+      "album": {
+        "name": "Tersemogakan",
+        "url": "https://open.spotify.com/album/09yLZPS9Puyw7DJHYyjSNi"
+      },
+      "artists": [
+        {
+          "name": "Keisya Levronka",
+          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254189,
+      "name": "Tersemogakan",
+      "url": "https://open.spotify.com/track/4DOc22yZdsjVPvlrACYIqA"
+    },
+    {
+      "album": {
+        "name": "Untukmu",
+        "url": "https://open.spotify.com/album/0NaEN66fsELpbLDHg7Spnp"
+      },
+      "artists": [
+        {
+          "name": "Danyannisa",
+          "url": "https://open.spotify.com/artist/2AWnRV889vjq7HLW6kEOVW"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183214,
+      "name": "Untukmu",
+      "url": "https://open.spotify.com/track/2LUBuAQHbXYet792SqD1L5"
     },
     {
       "album": {
@@ -1840,10 +1966,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 223423,
       "name": "Usai Pencarianku",
       "url": "https://open.spotify.com/track/2rjtGWQXEHgMw1tpI0HTqF"
+    },
+    {
+      "album": {
+        "name": "Wahai Tuan",
+        "url": "https://open.spotify.com/album/7mzOdhe8Huo3uWF2RIJ6Kz"
+      },
+      "artists": [
+        {
+          "name": "bungareyza",
+          "url": "https://open.spotify.com/artist/6HvcThrt4sOkqXk5oXb2QQ"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194664,
+      "name": "Wahai Tuan",
+      "url": "https://open.spotify.com/track/5MNUpUqsp1pj8rpQrktIg1"
     },
     {
       "album": {
@@ -1876,7 +2020,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 238749,
       "name": "Wangimu Seperti Aku",
       "url": "https://open.spotify.com/track/6XDprKbmT0VXk5aeKZcdjY"

@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-354 songs - 21 hr 7 min
+358 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Each Other](https://open.spotify.com/track/5527KNwYQWSlCO2xvNZuYl) | [SIROJ](https://open.spotify.com/artist/0SQOIur6PFpZ7ACj9BX2Tv), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [You Will Be Fine](https://open.spotify.com/album/6ufZebDKqcDJfQyMkkDh9z) | 3:42 | 2023-03-17 | 2024-03-21 |
 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 | 2022-09-09 | 2024-04-11 |
 | [Easy Like Before](https://open.spotify.com/track/4l7TlDRTwRRGdQ5tlQcf4b) | [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [I Was Wrong](https://open.spotify.com/album/6h0r7WdrJT3h7uiZ0rCHIT) | 2:58 | 2022-09-09 | 2022-10-15 |
+| [Easy To Love](https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Into The Blue](https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz) | 3:50 | 2024-07-04 |  |
 | [Echo In The Chamber](https://open.spotify.com/track/4z8q6Ob38UExUmoSXfB7Ei) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Silver](https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10) | 3:20 | 2024-04-10 | 2024-04-19 |
 | [Echo In The Chamber](https://open.spotify.com/track/7mamMoh4j7RUpYrT7IvRov) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Echo In The Chamber](https://open.spotify.com/album/3ywLr5Ciaxauop3NuF2DFJ) | 3:20 | 2024-04-18 |  |
 | [Elastico](https://open.spotify.com/track/2jFFHNAorMKhsupMXN3EmB) | [Blu Samu](https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB) | [7](https://open.spotify.com/album/0J4tJMg8IXQ5ZQQw17Jj0Y) | 3:07 | 2022-09-09 |  |
@@ -172,6 +173,7 @@
 | [Kerosene](https://open.spotify.com/track/6PamSzxRNCbbBH2OXrz9Yl) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Kerosene](https://open.spotify.com/album/4MSiTkDNGzUCGPzrOjwegY) | 3:29 | 2022-10-14 |  |
 | [Know It All](https://open.spotify.com/track/05maKFIe6w8GMjfxK2VsU1) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Know It All](https://open.spotify.com/album/4Aqu1U1n9e61woAX77t1O9) | 2:48 | 2022-09-09 | 2022-10-15 |
 | [Laredo](https://open.spotify.com/track/6uZtDv3kmFYbB6iiOS1GiR) | [Meeka Kates](https://open.spotify.com/artist/24XZ9joYiC4hzMYXihqgc1) | [Laredo](https://open.spotify.com/album/2GZ2wiEkYIc4uUtkFk0jHE) | 4:12 | 2022-09-09 | 2024-06-21 |
+| [Lena](https://open.spotify.com/track/2ma6FYKV0rIDhOhiquNdB6) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Lena](https://open.spotify.com/album/3aGQNTgUSPn8bu4XqHMBAM) | 3:25 | 2024-07-04 |  |
 | [Let No Man Put Asunder \- Dam Swindle Remix](https://open.spotify.com/track/5nyWYE1Ld3Gr3xbFUMIbVP) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Dam Swindle x Salsoul Reworks Vol\. 1](https://open.spotify.com/album/1axQNdwJ7JJ4yjmQ4ryPzf) | 7:34 | 2022-09-09 | 2022-10-15 |
 | [Lighthouse](https://open.spotify.com/track/46788befoNH7QS8zLZbfJT) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Lighthouse](https://open.spotify.com/album/2Xl05sxgAvqCXhQo4A1SQ4) | 3:40 | 2024-02-08 |  |
 | [Like That](https://open.spotify.com/track/63McwMFvGQQR6VjeB1P3n6) | [Marra](https://open.spotify.com/artist/1K0pCVhJZHTvrCmGItXoq5) | [Like That](https://open.spotify.com/album/4FFmc9mfb3rIxpeYLMQyLf) | 2:22 | 2022-09-09 | 2023-07-08 |
@@ -213,6 +215,7 @@
 | [New Earth](https://open.spotify.com/track/2E4vDslJtI2rF1sibFUXO5) | [Joshua Bredow](https://open.spotify.com/artist/1TXaey5ct7JzJsUQFSmCnF) | [New Earth](https://open.spotify.com/album/5x37IsVtadwOD6ELuEG0W1) | 3:24 | 2022-09-09 | 2022-09-16 |
 | [New Love](https://open.spotify.com/track/6O4IrYYhx5YFcneT5Oxtd6) | [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Sunflower](https://open.spotify.com/album/6JWuJhE6y7PR9WoNiEvM4s) | 4:00 | 2022-09-09 | 2022-09-16 |
 | [New View](https://open.spotify.com/track/5ovfNHvYoSkgotc30bn8uL) | [Saux](https://open.spotify.com/artist/14bYCWgayimiNVMbO2HSrN) | [New View](https://open.spotify.com/album/4SLW1wlhfhuYnikmMFhumC) | 3:27 | 2023-08-15 |  |
+| [Nirvana](https://open.spotify.com/track/3XqZ6qWdX7pKa4sbLZaFDk) | [Cezaire](https://open.spotify.com/artist/6BqtukFFVB3LgyyOIH8t1z), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Nirvana](https://open.spotify.com/album/5IKPyU8dOpvPFQXxE9aekm) | 3:40 | 2024-07-04 |  |
 | [No Limit](https://open.spotify.com/track/5U6PQ4fJo1yyTvmpvdcq3L) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [No Limit](https://open.spotify.com/album/1sdW3TsYbEtjdhnZHQhNpV) | 3:27 | 2022-09-22 |  |
 | [No Pressure](https://open.spotify.com/track/30YcRhbM8ChTRp9ocwxCQh) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [No Pressure](https://open.spotify.com/album/0lHku96pxwHcs2PMQhVrUK) | 3:21 | 2022-09-09 | 2024-02-02 |
 | [No Soul Fo Sale](https://open.spotify.com/track/0k0FKfVLDEdQKfyfgxbpWa) | [John Parm](https://open.spotify.com/artist/6sH4U1jng4pnJLkWPHsIY4), [Frase](https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254) | [No Soul Fo Sale](https://open.spotify.com/album/6FcJUwmI5QlRlppe9UA95K) | 3:39 | 2022-09-09 | 2022-10-15 |
@@ -358,6 +361,7 @@
 | [Without You](https://open.spotify.com/track/0r8vxCY5ZP9Q49FJBzwdH0) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [For All Time](https://open.spotify.com/album/4U6jJK40mq3OXnvgjFqukJ) | 2:26 | 2024-05-31 |  |
 | [Workin' All Day](https://open.spotify.com/track/1R5dbZKMJyoBziVfDV76dU) | [LAZA](https://open.spotify.com/artist/6pdDxUY3ffYATztOUou9lq) | [Reflections EP](https://open.spotify.com/album/2KU6x6XydX45h8tfaPDVff) | 5:58 | 2022-12-05 | 2024-03-21 |
 | [You 2 Thank](https://open.spotify.com/track/0r73aRdmx8uVeUzL6yYzSC) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [You 2 Thank](https://open.spotify.com/album/770NPIetbye6vd31ZDuG09) | 2:44 | 2023-12-08 |  |
+| [You Can Do Anything](https://open.spotify.com/track/3mgBGxzglmgIK02jP5oqX2) | [YesYou](https://open.spotify.com/artist/22qas00XuS5sVfW0YaR5Wd) | [You Can Do Anything](https://open.spotify.com/album/5rYDRc3OLQVqWqa41I3KBL) | 2:39 | 2024-07-04 |  |
 | [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 | 2023-01-12 | 2024-01-23 |
 | [Young Hearts \(Polo & Pan Remix\)](https://open.spotify.com/track/6zeDZ7S5TJ8kIn3V0OGVvV) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Young Hearts \(Polo & Pan Remix\)](https://open.spotify.com/album/5UCvSYbby8k6RQam1apbbz) | 3:29 | 2024-01-22 | 2024-04-19 |
 | [Young Hearts \- Polo & Pan Remix](https://open.spotify.com/track/3mxeFg1uMVSOWZtYd5glBV) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Young Hearts \(Polo & Pan Remix\)](https://open.spotify.com/album/2wMAaNgsWO0egLsDGdNsf9) | 3:29 | 2024-04-18 |  |

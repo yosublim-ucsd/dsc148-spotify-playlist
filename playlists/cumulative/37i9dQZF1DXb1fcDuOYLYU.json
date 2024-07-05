@@ -2059,6 +2059,24 @@
     },
     {
       "album": {
+        "name": "Fan\u00e1tica Sensual",
+        "url": "https://open.spotify.com/album/0utyQ9RUr02DwEgktaA9tm"
+      },
+      "artists": [
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197621,
+      "name": "Fan\u00e1tica Sensual",
+      "url": "https://open.spotify.com/track/4eHEmR1ZyvaGmY8IaIccdn"
+    },
+    {
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/1X7N9J7vljruYHfXuww2tv"
       },
@@ -2386,7 +2404,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 157268,
       "name": "Herrera",
       "url": "https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn"

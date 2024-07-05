@@ -418,7 +418,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 193469,
       "name": "\u05d2\u05dc\u05d9\u05dd \u05d2\u05dc\u05d9\u05dd",
       "url": "https://open.spotify.com/track/41n1aASQlGMsPylHEwI1wo"
@@ -516,7 +516,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 225821,
       "name": "\u05d4\u05de\u05d9\u05dd \u05d4\u05e7\u05d3\u05d5\u05e9\u05d9\u05dd",
       "url": "https://open.spotify.com/track/5DqxfeM3LYqSTiiB1NORSu"
@@ -574,10 +574,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 175313,
       "name": "\u05d6\u05d4 \u05d4\u05e1\u05d5\u05e3",
       "url": "https://open.spotify.com/track/6byQRm6aWdMwcacX1MIxz5"
+    },
+    {
+      "album": {
+        "name": "\u05d8\u05d5\u05d1 \u05d8\u05d5\u05d1",
+        "url": "https://open.spotify.com/album/4Xk3fTwiaDgLy7Vyob7169"
+      },
+      "artists": [
+        {
+          "name": "Natali Dashti",
+          "url": "https://open.spotify.com/artist/7ikUpBIjAJ9bRpwwE81fR8"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141473,
+      "name": "\u05d8\u05d5\u05d1 \u05d8\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/0FmiEDdpHoLHjAmD4QoLFe"
     },
     {
       "album": {
@@ -628,7 +646,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 212000,
       "name": "\u05db\u05d5\u05db\u05d1\u05d9\u05dd \u05e9\u05dc \u05d0\u05d5\u05e9\u05e8",
       "url": "https://open.spotify.com/track/2wvQYI212zCnC1pBWa1LPK"
@@ -650,10 +668,32 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 216000,
       "name": "\u05db\u05de\u05e2\u05d8 \u05e9\u05e0\u05ea\u05d9\u05d9\u05dd",
       "url": "https://open.spotify.com/track/3gsouDDSV6MNnXYoVlLzt4"
+    },
+    {
+      "album": {
+        "name": "\u05db\u05e4\u05e8\u05d4 \u05dc\u05e0\u05d3",
+        "url": "https://open.spotify.com/album/2I1xx5j5N0yQhdSDAGsHZx"
+      },
+      "artists": [
+        {
+          "name": "Nunu",
+          "url": "https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG"
+        },
+        {
+          "name": "\u05e2\u05d9\u05d3\u05d5 \u05d1\u05d9",
+          "url": "https://open.spotify.com/artist/1obWO7PfWL5n6oyqB984OQ"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "\u05db\u05e4\u05e8\u05d4 \u05dc\u05e0\u05d3",
+      "url": "https://open.spotify.com/track/1Sw4FRafnTe0BLumLcpi3N"
     },
     {
       "album": {
@@ -784,7 +824,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 191255,
       "name": "\u05dc\u05e4\u05e2\u05de\u05d9\u05dd",
       "url": "https://open.spotify.com/track/0CoCNhbhXZyCljWgQtAZP6"
@@ -810,6 +850,28 @@
       "duration_ms": 150000,
       "name": "\u05de\u05d4 \u05e9\u05d0\u05e0\u05d9 \u05e6\u05e8\u05d9\u05db\u05d4",
       "url": "https://open.spotify.com/track/5Uu5mT5IafIRISL6lOAdBK"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05d5\u05d3\u05d4 \u05d0\u05e0\u05d9",
+        "url": "https://open.spotify.com/album/7arNglLP1SeJUbR2IFETpn"
+      },
+      "artists": [
+        {
+          "name": "Moshe Peretz",
+          "url": "https://open.spotify.com/artist/2kOE3Jm5tMqLh65EiDkHJi"
+        },
+        {
+          "name": "Mooki",
+          "url": "https://open.spotify.com/artist/2RMH8nqc3YmaUEikglXlXm"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199687,
+      "name": "\u05de\u05d5\u05d3\u05d4 \u05d0\u05e0\u05d9",
+      "url": "https://open.spotify.com/track/7dFXMRBRtLu6GMku07kYGD"
     },
     {
       "album": {
@@ -933,6 +995,24 @@
     },
     {
       "album": {
+        "name": "\u05e2\u05d5\u05d3 \u05d0\u05d7\u05d3",
+        "url": "https://open.spotify.com/album/5YLdnAImxgjXXAzccrP7kf"
+      },
+      "artists": [
+        {
+          "name": "Anna Zak",
+          "url": "https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135230,
+      "name": "\u05e2\u05d5\u05d3 \u05d0\u05d7\u05d3",
+      "url": "https://open.spotify.com/track/7jevGyHj54ThsFRu5wL4zB"
+    },
+    {
+      "album": {
         "name": "\u05e2\u05d5\u05e9\u05d4 \u05d0\u05dc\u05d9\u05da \u05d3\u05e8\u05da",
         "url": "https://open.spotify.com/album/7diEQeaMv9e4y1CZbL6qvy"
       },
@@ -948,6 +1028,28 @@
       "duration_ms": 204375,
       "name": "\u05e2\u05d5\u05e9\u05d4 \u05d0\u05dc\u05d9\u05da \u05d3\u05e8\u05da",
       "url": "https://open.spotify.com/track/2uB1iBf7jJS8juQCsCepfu"
+    },
+    {
+      "album": {
+        "name": "\u05e8\u05d5\u05e7\u05d3\u05ea \u05d1\u05e9\u05e7\u05d9\u05e2\u05d4",
+        "url": "https://open.spotify.com/album/3ofLyqRcjIOtU2oLGzz9Wo"
+      },
+      "artists": [
+        {
+          "name": "Inbal Bibi",
+          "url": "https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc"
+        },
+        {
+          "name": "ShrekDiMC",
+          "url": "https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192941,
+      "name": "\u05e4\u05d9\u05e0\u05d5\u05e7\u05d9\u05d5",
+      "url": "https://open.spotify.com/track/0SH0QjZhzbsrgEHNmuO0wy"
     },
     {
       "album": {
@@ -970,6 +1072,46 @@
       "duration_ms": 152931,
       "name": "\u05e4\u05d9\u05e8\u05d5\u05d8\u05db\u05e0\u05d9\u05e7\u05d4",
       "url": "https://open.spotify.com/track/3AoMtLAWwJ1Swj1MVZNkaN"
+    },
+    {
+      "album": {
+        "name": "\u05e4\u05e8\u05d7\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/5fKn580G0PipwcnpAAiNpy"
+      },
+      "artists": [
+        {
+          "name": "\u05de\u05d9\u05d4 \u05e1\u05d5\u05dc\u05d9\u05de\u05df",
+          "url": "https://open.spotify.com/artist/12ft1cfLUNXc6gfM1JzaKR"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159113,
+      "name": "\u05e4\u05e8\u05d7\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/1laJVCysA40K9z3YLEHfQ6"
+    },
+    {
+      "album": {
+        "name": "\u05e6'\u05d5\u05e4 \u05e6'\u05d5\u05e4",
+        "url": "https://open.spotify.com/album/5ZciqquzRfFvGev2NZhwgs"
+      },
+      "artists": [
+        {
+          "name": "\u05e1\u05dc\u05d5\u05df \u05e7\u05d5\u05e8\u05d8\u05d9\u05e0\u05d4",
+          "url": "https://open.spotify.com/artist/4c2Lkr9QFX5ifjlLKgFd5o"
+        },
+        {
+          "name": "J.Lamotta",
+          "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157177,
+      "name": "\u05e6'\u05d5\u05e4 \u05e6'\u05d5\u05e4",
+      "url": "https://open.spotify.com/track/6EC5YNG81bMVfxX56u0j9T"
     },
     {
       "album": {
@@ -1118,7 +1260,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 173333,
       "name": "\u05e9\u05e7\u05e8\u05d9\u05dd \u05dc\u05d1\u05e0\u05d9\u05dd",
       "url": "https://open.spotify.com/track/2KPcdrTVHHNMtD0H9w4pRZ"

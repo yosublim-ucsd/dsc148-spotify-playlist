@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "Glory to Jesus Forever",
+        "url": "https://open.spotify.com/album/1qotccFUotC9CrhD3hnNYj"
+      },
+      "artists": [
+        {
+          "name": "Daniel Aikhomu",
+          "url": "https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351828,
+      "name": "Glory to Jesus Forever",
+      "url": "https://open.spotify.com/track/3wOuvkjq9UWJGNxGauqgkZ"
+    },
+    {
+      "album": {
         "name": "The Message",
         "url": "https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd"
       },

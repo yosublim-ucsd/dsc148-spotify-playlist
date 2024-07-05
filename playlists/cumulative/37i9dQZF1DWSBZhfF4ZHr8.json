@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Helena",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Louane",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 159106,
       "name": "Chez toi, chez moi",
       "url": "https://open.spotify.com/track/0gOjmVqeKWFByLqpPTTrJF"
@@ -790,10 +790,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 165576,
       "name": "Petite gueule",
       "url": "https://open.spotify.com/track/1KceWs92cxNJjxiBi8VR7m"
+    },
+    {
+      "album": {
+        "name": "\u00c9quilibre (Summer \u00c9dition)",
+        "url": "https://open.spotify.com/album/4aX6qGfTFevsgX6v4yBMvU"
+      },
+      "artists": [
+        {
+          "name": "Keen' V",
+          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179732,
+      "name": "Que tu restes",
+      "url": "https://open.spotify.com/track/1ckpbpRvFOlDZ006AVXw7Y"
     },
     {
       "album": {
@@ -812,6 +830,24 @@
       "duration_ms": 190840,
       "name": "R\u00e9sister (What about Peace?)",
       "url": "https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx"
+    },
+    {
+      "album": {
+        "name": "Sentiers de la brume",
+        "url": "https://open.spotify.com/album/6X4h1fNGloFPCNKn1bvu8L"
+      },
+      "artists": [
+        {
+          "name": "Elia",
+          "url": "https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236066,
+      "name": "Sentiers de la brume",
+      "url": "https://open.spotify.com/track/3REOJVcm5TaOSjsMPwB6X2"
     },
     {
       "album": {
@@ -869,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Tout ira bien",
+        "url": "https://open.spotify.com/album/4I0IDPYWMSVOwBCmhSxnuj"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le & Robin",
+          "url": "https://open.spotify.com/artist/1C04qPsvqhYBJhpWGCIFo8"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179533,
+      "name": "Tout ira bien",
+      "url": "https://open.spotify.com/track/6khbmpr97wNMcU7wa9uE4E"
+    },
+    {
+      "album": {
         "name": "Hyper Lorie (Vol. 2)",
         "url": "https://open.spotify.com/album/3DekfUe0VqOZvdjinQLPLL"
       },
@@ -884,7 +938,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 140947,
       "name": "Toute seule - 2024",
       "url": "https://open.spotify.com/track/3J1lGIvRnqJ2XmVgwi9TMP"

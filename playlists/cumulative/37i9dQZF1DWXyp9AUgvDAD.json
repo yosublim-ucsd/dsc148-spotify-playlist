@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\u00c0 deux, c'est mieux ! Photo : Vitaa & Slimane",
+  "description": "\u00c0 deux, c'est mieux ! Photo : Julien Dor\u00e9 et Joseph Kamel",
   "name": "Entre deux",
   "tracks": [
     {
@@ -93,6 +93,28 @@
     },
     {
       "album": {
+        "name": "A Mi Manera (Edit)",
+        "url": "https://open.spotify.com/album/6kRKRsMHruU3Ulnu9PdCWu"
+      },
+      "artists": [
+        {
+          "name": "Ycare",
+          "url": "https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB"
+        },
+        {
+          "name": "Amel Bent",
+          "url": "https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176511,
+      "name": "A Mi Manera - Edit",
+      "url": "https://open.spotify.com/track/6OJMfmLFG1dzlmIAlut8N1"
+    },
+    {
+      "album": {
         "name": "Animaux fragiles",
         "url": "https://open.spotify.com/album/0bM7IqCH0vPrYCrhFiScY6"
       },
@@ -181,6 +203,28 @@
     },
     {
       "album": {
+        "name": "Miroirs",
+        "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        },
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176653,
+      "name": "Beau (feat. Julien Dor\u00e9)",
+      "url": "https://open.spotify.com/track/7xZrirKz1fymGxGVPtRRRk"
+    },
+    {
+      "album": {
         "name": "Call on me (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/23uCYiDGcfNkrKbGAfMTLx"
       },
@@ -196,7 +240,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 200706,
       "name": "Call on me (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2RO4aPByijQUqBZhYm1apz"
@@ -438,7 +482,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 196480,
       "name": "Dans mes bras",
       "url": "https://open.spotify.com/track/3ZOkB07TeBFB6vPSUjChPY"
@@ -819,6 +863,28 @@
     },
     {
       "album": {
+        "name": "L'\u00e9cole de la vie",
+        "url": "https://open.spotify.com/album/5xpWrRABn5rpscaaVETrzY"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        },
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237160,
+      "name": "Le feu",
+      "url": "https://open.spotify.com/track/3xUMbFT9dglVVZAEHerlff"
+    },
+    {
+      "album": {
         "name": "Chasseur d'\u00e9toiles",
         "url": "https://open.spotify.com/album/35CCZ7wWetfK32serxdHS6"
       },
@@ -1054,7 +1120,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 184226,
       "name": "Midi sur novembre",
       "url": "https://open.spotify.com/track/37lHdHJC9yCQkOAw1qBJnI"

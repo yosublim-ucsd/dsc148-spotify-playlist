@@ -9751,6 +9751,28 @@
     },
     {
       "album": {
+        "name": "HAWK TUAH",
+        "url": "https://open.spotify.com/album/30x6dl7CIzzF5yhsfcV3OE"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104166,
+      "name": "HAWK TUAH",
+      "url": "https://open.spotify.com/track/4DqlZOS1lLY7YM7LzI0suS"
+    },
+    {
+      "album": {
         "name": "O My Heart",
         "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
       },

@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Mimi Barks
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. ALT BLK ERA
 
-892 songs - 1 day 18 hr 59 min
+897 songs - 1 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Freefall](https://open.spotify.com/track/0XczwSIVWCjH800SBieNkC) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Freefall](https://open.spotify.com/album/08TgrjuVSPLq8ID3yGUs3W) | 3:12 | 2024-04-18 |  |
 | [FRIDAY \(Reloaded\)](https://open.spotify.com/track/3Pf28cD5MjAuQzkBnYviCj) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [FRIDAY \(Reloaded\)](https://open.spotify.com/album/3XSKnyN9nvtxA2LFQOdTCu) | 1:40 | 2021-12-27 | 2022-02-18 |
 | [Friendly Machine](https://open.spotify.com/track/1HwDXo5LrML3NYmYQiboCB) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Friendly Machine](https://open.spotify.com/album/0K4D8UZiHwXH2c1cKNXnXZ) | 3:46 | 2021-12-27 | 2022-01-19 |
+| [Friends In Low Places](https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Friends In Low Places](https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP) | 3:03 | 2024-07-04 |  |
 | [Froglake](https://open.spotify.com/track/0PQbOcnO2MwbqvJRQq3ksK) | [Vanessa Weisz](https://open.spotify.com/artist/7dvGiSfugWRPvRmuptKcHA) | [Froglake](https://open.spotify.com/album/3u1TiYQgE20HLmiL5uXrTL) | 3:16 | 2021-12-27 | 2022-02-04 |
 | [FSU](https://open.spotify.com/track/3GtVAWHLN0Jve9y0zzjcyG) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [FSU](https://open.spotify.com/album/3XIr7xFwP0tJCV59ez5j3B) | 3:04 | 2024-02-09 | 2024-05-24 |
 | [Fuck the Hollywood Cult](https://open.spotify.com/track/5SoxOODF9bvcb7vEBkG6dz) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [Fuck the Hollywood Cult](https://open.spotify.com/album/36CVtGbnMvnZphHX7IiRPJ) | 3:10 | 2021-12-27 | 2022-01-29 |
@@ -467,6 +468,7 @@
 | [K9](https://open.spotify.com/track/5nnhETVQeAoJEnGJDuB6fC) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [K9](https://open.spotify.com/album/4yBjOCopyDn9TDoJHm59kf) | 2:55 | 2024-05-16 |  |
 | [Kawasaki \(I Love It\)](https://open.spotify.com/track/1Oqran5DzGGQ1a3U1dQQDM) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Kawasaki \(I Love It\)](https://open.spotify.com/album/31SchVDFY93wxiw59fHdyY) | 3:18 | 2022-07-21 | 2022-09-23 |
 | [KEEP THE PACE](https://open.spotify.com/track/0XMSd4LHV5ZKAUTRclwBw9) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [KEEP THE PACE](https://open.spotify.com/album/54eDyS3Lay5udZ1ypiianP) | 2:53 | 2021-12-27 | 2022-01-19 |
+| [Keep Up](https://open.spotify.com/track/1iKE8ZTRJEW0lr8eus0KFS) | [HANNAHBELLA](https://open.spotify.com/artist/0HY4L6Y3gywUaQ3FnM22yU) | [Keep Up](https://open.spotify.com/album/4v4mgHdNHnGXZexZ48N788) | 3:03 | 2024-07-04 |  |
 | [kill all of u](https://open.spotify.com/track/3gxdROUxVaDaj9c1MXdOzI) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [GOODNIGHT](https://open.spotify.com/album/5QOGIpTHGhWmyhT1uTonJZ) | 2:44 | 2024-06-27 |  |
 | [KILL ALL PREDATORS](https://open.spotify.com/track/116m1FqbddR1KEFTw7ZItH) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf), [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [KILL ALL PREDATORS](https://open.spotify.com/album/33OtJjrHXYS7cHY7O6NDXn) | 2:05 | 2022-10-20 | 2023-05-05 |
 | [KILLIN](https://open.spotify.com/track/0QNXRzvMbrX2NC6eZ8nLSl) | [GREEN ORXNGE](https://open.spotify.com/artist/57QsdaQhaRhRruISmg7W2G), [Eyez Hate U](https://open.spotify.com/artist/0dIUq8UqtoJF5T7Lt3MxBT) | [KILLIN](https://open.spotify.com/album/3Oy7WMxX7dtnKx4HVCnyHP) | 2:03 | 2022-04-28 | 2022-10-14 |
@@ -502,6 +504,7 @@
 | [Loathe](https://open.spotify.com/track/06lunGWo5mSF7wdERI8jh4) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Loathe](https://open.spotify.com/album/0KtkJuIHKm4E6E2WdGX12E) | 2:21 | 2023-02-10 | 2023-09-08 |
 | [Locals \(Girls like us\) \[with gabby start\]](https://open.spotify.com/track/2MMHDP5jHn6oNoBJvEA88L) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [Locals \(Girls like us\) \[with gabby start\]](https://open.spotify.com/album/6iCbxmNk6vmXTGLYInRVJX) | 4:18 | 2023-07-13 | 2024-03-08 |
 | [lock](https://open.spotify.com/track/6uyLlMgGbTpZ8cOpdWlzVl) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [lock](https://open.spotify.com/album/265AleMWrh4uPL0IQuPdQ1) | 2:13 | 2024-01-26 | 2024-05-10 |
+| [Lonely](https://open.spotify.com/track/0Yw8ULkkEHOL97vp5minac) | [Macca Wiles](https://open.spotify.com/artist/7CkWoeaDeH2dRdiOxILlS3), [Cokasian](https://open.spotify.com/artist/6cjECcpo0k8pwn7twpd4ge) | [Lonely](https://open.spotify.com/album/6ksVIFkPxJ4IH6WBuKddPI) | 2:52 | 2024-07-04 |  |
 | [Loner](https://open.spotify.com/track/1VDpzf4lahkZqdkFwdmXiY) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Silly Little Dream, Pt\. 1](https://open.spotify.com/album/7EA7NiPEaF7LXUueRDfRo6) | 3:16 | 2022-04-07 | 2022-06-24 |
 | [Loose](https://open.spotify.com/track/6NSUDjjx22ZobxJqRHynpL) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004), [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [Loose](https://open.spotify.com/album/1ZzBNSEcqoxFqoedZoYXpG) | 4:07 | 2023-08-24 | 2024-02-09 |
 | [Lose My Cool](https://open.spotify.com/track/1UEbyNXgbFfJHNUTkCxOiS) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Matriarchy](https://open.spotify.com/album/3Kh7DCpfbG9rotZBLoNWKK) | 2:09 | 2024-05-16 |  |
@@ -604,6 +607,7 @@
 | [Offering](https://open.spotify.com/track/4E57AM9ffX8dPZ9STjGw8p) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Hiss Spun](https://open.spotify.com/album/1nnenAgIzIipcodyg879Vx) | 2:49 | 2024-05-28 | 2024-06-07 |
 | [OHHH OFFICER!](https://open.spotify.com/track/6BUPc5GhDUG2hA6wlipUY7) | [paris yves](https://open.spotify.com/artist/2DHFs7Hi872pGrCVCZF4x4) | [OHHH OFFICER!](https://open.spotify.com/album/1vhpYkPDLMPom1NvN4nGdE) | 1:57 | 2024-06-06 | 2024-06-28 |
 | [omfg](https://open.spotify.com/track/08c7VSQICT3aO5jYhI2KVI) | [m1v](https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S), [stardante](https://open.spotify.com/artist/5D73Rmcxz9HEaAD3vlimsf) | [omfg](https://open.spotify.com/album/3UKgCHzl8H0VYcC1dsAzp6) | 2:34 | 2022-08-04 | 2022-11-04 |
+| [On My Body](https://open.spotify.com/track/5aEswz3UYGouiW2o1xYEPQ) | [Crae Wolf](https://open.spotify.com/artist/0sLk8jQFM8gu9omVj2JGT9) | [On My Body](https://open.spotify.com/album/2RHVk97p6ybscKCBcwUH1z) | 2:26 | 2024-07-04 |  |
 | [Opinion](https://open.spotify.com/track/2ODY9n6MPPDTLgqTlgFW50) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Opinion](https://open.spotify.com/album/1zR96H40EoUG62VmJ7fK6A) | 2:27 | 2021-12-27 | 2022-02-04 |
 | [Outcast Radio](https://open.spotify.com/track/2ZXmDl6a8yvWRTrOml2wvS) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS) | [Outcast Radio](https://open.spotify.com/album/3RDcuLho8axFjv64qo9iFg) | 2:49 | 2021-12-27 | 2022-01-06 |
 | [Over It](https://open.spotify.com/track/0eArfQGTTeqPmBuj1Z58cv) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Over It](https://open.spotify.com/album/52XmcASMvRBkCTuFIPxwPi) | 2:04 | 2024-05-09 |  |
@@ -637,6 +641,7 @@
 | [Player Of Games](https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Player Of Games](https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r) | 4:05 | 2021-12-27 | 2022-01-29 |
 | [Poison](https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Poison](https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr) | 2:52 | 2024-03-01 |  |
 | [Poison](https://open.spotify.com/track/3Ruv9GEcztgqxDvbOL3ccT) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [GFOTYBUCKS](https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH) | 2:46 | 2023-01-21 | 2023-06-02 |
+| [POISONOUS](https://open.spotify.com/track/6EgopYXPE6JT3xLc6oUwg0) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [POISONOUS](https://open.spotify.com/album/0PrQ1CHicF8l6f8K1Xcb0L) | 3:14 | 2024-07-04 |  |
 | [Pollyanna](https://open.spotify.com/track/41OgWDcM6bn7A8UqBrIwOv) | [Northstar](https://open.spotify.com/artist/50LCD3XERdxwjqdg9bc3CW) | [Pollyanna](https://open.spotify.com/album/4pNUkrDAdiScAS2Z72GuH0) | 4:08 | 2024-05-28 | 2024-06-07 |
 | [PORN ACTING\*](https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk) | 2:52 | 2022-02-25 | 2022-09-30 |
 | [portal](https://open.spotify.com/track/5jdUVh8cPAZxEAL8d4D1KY) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [portal](https://open.spotify.com/album/0tC7IPnSn7ku4xIEAYJoXC) | 3:06 | 2023-02-03 | 2023-03-03 |

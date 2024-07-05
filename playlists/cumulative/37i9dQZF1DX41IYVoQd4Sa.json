@@ -306,10 +306,50 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 245600,
       "name": "\u05d1\u05d9\u05e7\u05d5\u05e8 \u05de\u05d5\u05dc\u05d3\u05ea",
       "url": "https://open.spotify.com/track/4rT56VSPuaAJMbK73oHxzy"
+    },
+    {
+      "album": {
+        "name": "\u05d1\u05dc\u05d3\u05d4 \u05dc\u05e0\u05d4\u05d2 \u05de\u05d5\u05e0\u05d9\u05ea (\u05de\u05d5\u05e9\u05d9\u05e7\u05d5) [\u05d1\u05d4\u05d5\u05e4\u05e2\u05d4 \u05d7\u05d9\u05d4 \u05de\u05d4\u05d1\u05d0\u05e8\u05d1\u05d9]",
+        "url": "https://open.spotify.com/album/11EHrUuVEfsHrUjdjsoD7b"
+      },
+      "artists": [
+        {
+          "name": "Dudy Levy",
+          "url": "https://open.spotify.com/artist/6BXPyhT8Ue5Trc1Q315PRm"
+        },
+        {
+          "name": "Dan Toren",
+          "url": "https://open.spotify.com/artist/285uARLcuYJ5SqmbGnJuRl"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 549240,
+      "name": "\u05d1\u05dc\u05d3\u05d4 \u05dc\u05e0\u05d4\u05d2 \u05de\u05d5\u05e0\u05d9\u05ea (\u05de\u05d5\u05e9\u05d9\u05e7\u05d5) - \u05d1\u05d4\u05d5\u05e4\u05e2\u05d4 \u05d7\u05d9\u05d4 \u05de\u05d4\u05d1\u05d0\u05e8\u05d1\u05d9",
+      "url": "https://open.spotify.com/track/6ADHsTTcJzx9Ls6l6qW27V"
+    },
+    {
+      "album": {
+        "name": "\u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
+        "url": "https://open.spotify.com/album/0Ch02uieisTBRUvU3i5vfJ"
+      },
+      "artists": [
+        {
+          "name": "Yoni Rechter",
+          "url": "https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205720,
+      "name": "\u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
+      "url": "https://open.spotify.com/track/6m3qxagd6VP0zpBnfd6MXi"
     },
     {
       "album": {
@@ -400,7 +440,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 219000,
       "name": "\u05d4\u05db\u05dc \u05e4\u05d4 \u05de\u05e9\u05d5\u05d1\u05e9",
       "url": "https://open.spotify.com/track/5H7rrKBPj7xyU3XrRpP6FI"
@@ -1000,10 +1040,32 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 212595,
       "name": "\u05e4\u05e6\u05e2 \u05e2\u05dc \u05e4\u05e6\u05e2",
       "url": "https://open.spotify.com/track/5kY9Jbhn1BxIs9wqfzucFQ"
+    },
+    {
+      "album": {
+        "name": "\u05e6'\u05d5\u05e4 \u05e6'\u05d5\u05e4",
+        "url": "https://open.spotify.com/album/5ZciqquzRfFvGev2NZhwgs"
+      },
+      "artists": [
+        {
+          "name": "\u05e1\u05dc\u05d5\u05df \u05e7\u05d5\u05e8\u05d8\u05d9\u05e0\u05d4",
+          "url": "https://open.spotify.com/artist/4c2Lkr9QFX5ifjlLKgFd5o"
+        },
+        {
+          "name": "J.Lamotta",
+          "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157177,
+      "name": "\u05e6'\u05d5\u05e4 \u05e6'\u05d5\u05e4",
+      "url": "https://open.spotify.com/track/6EC5YNG81bMVfxX56u0j9T"
     },
     {
       "album": {

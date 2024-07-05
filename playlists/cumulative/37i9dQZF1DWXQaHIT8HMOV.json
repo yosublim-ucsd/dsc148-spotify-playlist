@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Homegrown Ugandan hits in one playlist. Cover: Vinka",
+  "description": "Homegrown Ugandan hits in one playlist. Cover: Elijah Kitaka",
   "name": "Made In Uganda",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 171428,
       "name": "Abeeyo",
       "url": "https://open.spotify.com/track/1duc3xfXWOgV9nq2w7cBIN"
@@ -754,6 +754,48 @@
       "duration_ms": 184400,
       "name": "Bikole",
       "url": "https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn"
+    },
+    {
+      "album": {
+        "name": "Bingabire",
+        "url": "https://open.spotify.com/album/2WEVsPvSMmvrdx7EY65U2O"
+      },
+      "artists": [
+        {
+          "name": "DJ Shiru",
+          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
+        },
+        {
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+        },
+        {
+          "name": "Jackie Chandiru",
+          "url": "https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ"
+        },
+        {
+          "name": "Green Daddy",
+          "url": "https://open.spotify.com/artist/77C4sGNZqav9HQNGNCTXdm"
+        },
+        {
+          "name": "JLAKug",
+          "url": "https://open.spotify.com/artist/6PIbmNxv4RzozuFvX1uOGh"
+        },
+        {
+          "name": "Mark Da Urban",
+          "url": "https://open.spotify.com/artist/3DdaInPk5MfnMPAOncCzHQ"
+        },
+        {
+          "name": "Sugarbwoy",
+          "url": "https://open.spotify.com/artist/3cLNi3tX3qvVS6nI3uAN1O"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181224,
+      "name": "Bingabire",
+      "url": "https://open.spotify.com/track/2p7wI5RiQ57kUeGPAIlxYW"
     },
     {
       "album": {
@@ -1445,6 +1487,24 @@
     },
     {
       "album": {
+        "name": "Dawa",
+        "url": "https://open.spotify.com/album/2sOLzGgRxQ5nH6pz30vVJb"
+      },
+      "artists": [
+        {
+          "name": "Elijah Kitaka",
+          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192539,
+      "name": "Dawa",
+      "url": "https://open.spotify.com/track/31WfPtHHPfL8C67RzlgMRv"
+    },
+    {
+      "album": {
         "name": "Do You Want to Party",
         "url": "https://open.spotify.com/album/7jPtTxpFgvCeDJwUfxO0OZ"
       },
@@ -1978,7 +2038,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 175072,
       "name": "Fertilizer",
       "url": "https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG"
@@ -2228,7 +2288,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 210000,
       "name": "Hallo",
       "url": "https://open.spotify.com/track/2hLyobDDNdIZ4Oarc95nkz"
@@ -2796,7 +2856,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 140067,
       "name": "Let It Play",
       "url": "https://open.spotify.com/track/0DbRMauNkXY78bzmB1fa6B"
@@ -4104,7 +4164,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 194455,
       "name": "Nwanilaako",
       "url": "https://open.spotify.com/track/3LqicxLoiOglpMim5kwit2"
@@ -4660,7 +4720,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 178775,
       "name": "Pickup",
       "url": "https://open.spotify.com/track/2zpIwVEQbpGkcrbJx9L8YE"
@@ -5164,6 +5224,28 @@
       "duration_ms": 230500,
       "name": "SHE WAAN",
       "url": "https://open.spotify.com/track/2r8fW6t21bMrrfQW20OKF8"
+    },
+    {
+      "album": {
+        "name": "Shuu (Remix)",
+        "url": "https://open.spotify.com/album/0BUSD1SZ5ok8qN8I3zSLjU"
+      },
+      "artists": [
+        {
+          "name": "KAPEKE",
+          "url": "https://open.spotify.com/artist/5PmsG49rnSaGHFElOTkHi2"
+        },
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153835,
+      "name": "Shuu (Remix)",
+      "url": "https://open.spotify.com/track/30hWSRl6bhLdPMlhYrytf6"
     },
     {
       "album": {
@@ -5776,6 +5858,50 @@
       "duration_ms": 196000,
       "name": "Thursday",
       "url": "https://open.spotify.com/track/5d4mvGOh7ZzKVIZrNmKKGc"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/01orUU1eynuw2jDjbtqJCk"
+      },
+      "artists": [
+        {
+          "name": "I-Blade",
+          "url": "https://open.spotify.com/artist/0ZtJYd6DVTab3LqeSGKApU"
+        },
+        {
+          "name": "Ruyonga",
+          "url": "https://open.spotify.com/artist/7IFepiNUUVtAglkh1RUH5z"
+        },
+        {
+          "name": "Mxlan A",
+          "url": "https://open.spotify.com/artist/6LkjLHSfHPvN8g9LMLsBL3"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159839,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/2tFGCKW58iD8WK8J9e3G2I"
+    },
+    {
+      "album": {
+        "name": "Morphed",
+        "url": "https://open.spotify.com/album/3FxaHwvCvsfjHLJ8croNDf"
+      },
+      "artists": [
+        {
+          "name": "KabiKabi",
+          "url": "https://open.spotify.com/artist/5DrRCNTpS5z6OYS8BRg147"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206938,
+      "name": "Togenda",
+      "url": "https://open.spotify.com/track/0xhNGZYyHEbsK5MkiuvRsK"
     },
     {
       "album": {

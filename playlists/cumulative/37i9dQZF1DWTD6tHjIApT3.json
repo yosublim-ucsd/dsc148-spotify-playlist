@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u9234\u6728\u771f\u6d77\u5b50 (Mamiko Suzuki)",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u3042\u3044\u307f\u3087\u3093 (Aimyon)",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -438,7 +438,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 208474,
       "name": "2025",
       "url": "https://open.spotify.com/track/1r5KFMAbthTgyOzLQDFIT6"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 206733,
       "name": "About You",
       "url": "https://open.spotify.com/track/5oMwzrQAgjM7gPQIq7dHS1"
@@ -2490,7 +2490,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 185164,
       "name": "BABY",
       "url": "https://open.spotify.com/track/7aleITb2mY06erVdI8RRnp"
@@ -6854,7 +6854,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 219066,
       "name": "End of All",
       "url": "https://open.spotify.com/track/7cKsYrxKACCqAlefoECZcM"
@@ -7051,6 +7051,28 @@
     },
     {
       "album": {
+        "name": "EVERY HOUR",
+        "url": "https://open.spotify.com/album/1ubUasn6ja0uSJEHLGvgRr"
+      },
+      "artists": [
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW"
+        },
+        {
+          "name": "Shin Sakiura",
+          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183466,
+      "name": "EVERY HOUR",
+      "url": "https://open.spotify.com/track/7uT5F80Qca7dha4tXlN1Xd"
+    },
+    {
+      "album": {
         "name": "Better Days (Japanese Edition)",
         "url": "https://open.spotify.com/album/15VgsndSAQkLnlLoF38yBc"
       },
@@ -7062,7 +7084,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 182500,
       "name": "Every Second - Japanese Version",
       "url": "https://open.spotify.com/track/7DaNgo0E0pFOkgX1eHtwoi"
@@ -7160,6 +7182,24 @@
       "duration_ms": 184281,
       "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
+    },
+    {
+      "album": {
+        "name": "EYES ON YOU",
+        "url": "https://open.spotify.com/album/744FY3ysIEHKSVJU1pFg2L"
+      },
+      "artists": [
+        {
+          "name": "Kana Nishino",
+          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216892,
+      "name": "EYES ON YOU",
+      "url": "https://open.spotify.com/track/6p8SZOytmthKLKfB95viaY"
     },
     {
       "album": {
@@ -8197,6 +8237,24 @@
     },
     {
       "album": {
+        "name": "Ghost Town",
+        "url": "https://open.spotify.com/album/18A0WFTgmL7WJarMn6j4sr"
+      },
+      "artists": [
+        {
+          "name": "moeki",
+          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/1k5xhBfbd6o7XqRSwH2tGA"
+    },
+    {
+      "album": {
         "name": "Two Moon",
         "url": "https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa"
       },
@@ -8226,7 +8284,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 202042,
       "name": "Ginger",
       "url": "https://open.spotify.com/track/7bsa6yPlYiLMvgWo89IKKc"
@@ -15712,7 +15770,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 299126,
       "name": "Mystical Composer (feat. I'm)",
       "url": "https://open.spotify.com/track/7FZo5fMqyG5Ys1dm8F1FHa"
@@ -20546,7 +20604,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 141633,
       "name": "Server Down",
       "url": "https://open.spotify.com/track/4Wr6BagMS3ZYgRkRhwOOsN"
@@ -25406,7 +25464,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 190293,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/6cUCa4fN3MC5FvqLGtXHQD"
@@ -26908,7 +26966,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 227906,
       "name": "With",
       "url": "https://open.spotify.com/track/3yYu68P1WYsGCevgip6w2G"
@@ -29462,7 +29520,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 205733,
       "name": "\u3059\u306a\u3044\u3071\u30fc\u3002",
       "url": "https://open.spotify.com/track/0taluMnYokviw9ujgOslXV"
@@ -30774,7 +30832,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 289648,
       "name": "\u307e\u3060\u65e9\u3044\u679c\u7269",
       "url": "https://open.spotify.com/track/3TdQ9gzUlb8xLs6tBBMzEW"
@@ -33920,7 +33978,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 219315,
       "name": "\u30c1\u30fc\u30ba",
       "url": "https://open.spotify.com/track/4oP10N50ouz6R6FdoMyiPm"
@@ -34330,7 +34388,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 199400,
       "name": "\u30cf\u30cb\u30fc\u30c8\u30fc\u30b9\u30c8",
       "url": "https://open.spotify.com/track/1wHh3KOgmph3brfijQTMQb"
@@ -35772,6 +35830,24 @@
       "duration_ms": 184125,
       "name": "\u30e9\u30c3\u30ad\u30fc",
       "url": "https://open.spotify.com/track/56JwLFPIor1uzTZCMrkLWj"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30c3\u30ad\u30fc\u30ab\u30e9\u30fc",
+        "url": "https://open.spotify.com/album/6LYuCN75nHet5fz8Cvzs8H"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219328,
+      "name": "\u30e9\u30c3\u30ad\u30fc\u30ab\u30e9\u30fc",
+      "url": "https://open.spotify.com/track/5Fzv7ho7XOwvvEOvxFnnTp"
     },
     {
       "album": {
@@ -37906,6 +37982,28 @@
       "duration_ms": 212078,
       "name": "\u526f\u90fd\u5fc3",
       "url": "https://open.spotify.com/track/4WmBjNWriwtA7nV7jWiU4n"
+    },
+    {
+      "album": {
+        "name": "\u5275\u9020",
+        "url": "https://open.spotify.com/album/3S2gnL0ouaaysORJdKLylf"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        },
+        {
+          "name": "\u5742\u6771\u7950\u5927",
+          "url": "https://open.spotify.com/artist/5QFWvTvRWBQYVMTfXEqu7q"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324451,
+      "name": "\u5275\u9020",
+      "url": "https://open.spotify.com/track/3S6GTN1iZqA0x0yosF0UbH"
     },
     {
       "album": {
@@ -43284,7 +43382,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 249000,
       "name": "\u6ce3\u3044\u3061\u3083\u3046\u3051\u3069\u3055",
       "url": "https://open.spotify.com/track/5WnrDuFyXDTYuw9WZG4Swb"
@@ -44124,7 +44222,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 180000,
       "name": "\u751f\u8005\u306e\u884c\u9032",
       "url": "https://open.spotify.com/track/776Reas4582bRjLEBRkKFM"
@@ -44958,6 +45056,24 @@
       "duration_ms": 260713,
       "name": "\u7a7a\u767d\u306e\u5c45\u5834\u6240",
       "url": "https://open.spotify.com/track/4CrPB6keI8Msl5uovASijx"
+    },
+    {
+      "album": {
+        "name": "\u660e\u93e1\u6b62\u6c34",
+        "url": "https://open.spotify.com/album/1wQtmslnzXHUZ7LmNHKOEz"
+      },
+      "artists": [
+        {
+          "name": "Shizuka Kudo",
+          "url": "https://open.spotify.com/artist/7sU5H7XSVz0GC1RyM7jY2W"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304200,
+      "name": "\u7b2c3\u60d1\u661f",
+      "url": "https://open.spotify.com/track/7MB7llHj8NatE6t07K0DIs"
     },
     {
       "album": {
@@ -46910,7 +47026,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 266373,
       "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
       "url": "https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7"
@@ -47446,7 +47562,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 267053,
       "name": "\u98a8\u306b\u306a\u308c",
       "url": "https://open.spotify.com/track/6X4v5ATZMXOiGhqXnpck8v"

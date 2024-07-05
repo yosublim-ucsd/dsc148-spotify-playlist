@@ -1,12 +1,12 @@
 {
   "description": "This is El Harag\u00e1n y Compa\u00f1\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 31844,
+  "num_followers": 31849,
   "original_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoNDAAAAAABPc+pP8vmCjCpVha40NCqG",
+  "snapshot_id": "ZoSUgAAAAAAcTjSjsqLZ5PD5/F677UGG",
   "tracks": [
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ac\u00fastico en Vivo",
-        "url": "https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl"
+        "name": "Volviendo a Casa",
+        "url": "https://open.spotify.com/album/716oCpYaFSnR7CUZWro5Tu"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 326133,
-      "name": "En los A\u00f1os 30 - En Vivo",
-      "url": "https://open.spotify.com/track/6i0Bd62X1NRfkdroWlwvo3"
+      "duration_ms": 189453,
+      "name": "Puedes Decir",
+      "url": "https://open.spotify.com/track/0KROw0m8ruvn7LaWA5uYhy"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volviendo a Casa",
-        "url": "https://open.spotify.com/album/716oCpYaFSnR7CUZWro5Tu"
+        "name": "Ac\u00fastico en Vivo",
+        "url": "https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 189453,
-      "name": "Puedes Decir",
-      "url": "https://open.spotify.com/track/0KROw0m8ruvn7LaWA5uYhy"
+      "duration_ms": 326133,
+      "name": "En los A\u00f1os 30 - En Vivo",
+      "url": "https://open.spotify.com/track/6i0Bd62X1NRfkdroWlwvo3"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mas Grande Homenaje A Los Tigres Del Norte (Reissue)",
-        "url": "https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri"
+        "name": "En el Coraz\u00f3n No Hay Nada",
+        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 306293,
-      "name": "Un D\u00eda A La Vez",
-      "url": "https://open.spotify.com/track/0XW8HrbqM5zRQ0zUvwWdQu"
+      "duration_ms": 183576,
+      "name": "Sue\u00f1os de la Ciudad",
+      "url": "https://open.spotify.com/track/1vF4DBQzM7bEPjemMek3GK"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En el Coraz\u00f3n No Hay Nada",
-        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
+        "name": "El Mas Grande Homenaje A Los Tigres Del Norte (Reissue)",
+        "url": "https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 183576,
-      "name": "Sue\u00f1os de la Ciudad",
-      "url": "https://open.spotify.com/track/1vF4DBQzM7bEPjemMek3GK"
+      "duration_ms": 306293,
+      "name": "Un D\u00eda A La Vez",
+      "url": "https://open.spotify.com/track/0XW8HrbqM5zRQ0zUvwWdQu"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En el Coraz\u00f3n No Hay Nada",
+        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 243159,
+      "name": "J.C. Del Barrio",
+      "url": "https://open.spotify.com/track/3S6ijIIkgWjQFA80cH7Q02"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Delincuentes Con Placa",
         "url": "https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn"
       },
@@ -691,6 +707,38 @@
       "duration_ms": 229426,
       "name": "Polic\u00eda Chacal",
       "url": "https://open.spotify.com/track/6QrFIhcq4EaclMmeC2cdgX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c1nimas",
+        "url": "https://open.spotify.com/album/0PeZWdSpAE6OPz2awjer34"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 205893,
+      "name": "Una Oportunidad",
+      "url": "https://open.spotify.com/track/7hFNHNj8LKHZq9QBoaAfhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock Que Se Comparte",
+        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 223468,
+      "name": "Tu Te las Tomaste S\u00f3lo",
+      "url": "https://open.spotify.com/track/0E71YpNaDKT3dibeQ5jPwU"
     },
     {
       "added_at": null,
@@ -720,89 +768,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 243159,
-      "name": "J.C. Del Barrio",
-      "url": "https://open.spotify.com/track/3S6ijIIkgWjQFA80cH7Q02"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock Que Se Comparte",
-        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 223468,
-      "name": "Tu Te las Tomaste S\u00f3lo",
-      "url": "https://open.spotify.com/track/0E71YpNaDKT3dibeQ5jPwU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c1nimas",
-        "url": "https://open.spotify.com/album/0PeZWdSpAE6OPz2awjer34"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "Una Oportunidad",
-      "url": "https://open.spotify.com/track/7hFNHNj8LKHZq9QBoaAfhm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Alg\u00fan Lugar en el Cielo",
-        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 269106,
-      "name": "Vivir por Vivir",
-      "url": "https://open.spotify.com/track/6Hok72DzGIdQs7UITndTrp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En el Coraz\u00f3n No Hay Nada",
-        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
       "duration_ms": 266890,
       "name": "Aguja en la Ciudad",
       "url": "https://open.spotify.com/track/3RtmmS2IxTLbmOalW5cIk3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock Que Se Comparte",
-        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 212601,
-      "name": "Tengo un Acoholico en Mi Casa",
-      "url": "https://open.spotify.com/track/6aSZWceWgE6cMlKRvLn6yL"
     },
     {
       "added_at": null,
@@ -823,6 +791,38 @@
       "duration_ms": 258668,
       "name": "Y T\u00fa C\u00f3mo Lo Sabes? (Like Heaven Club)",
       "url": "https://open.spotify.com/track/50DdzGb5A01K43n5PNZMEi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock Que Se Comparte",
+        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 212601,
+      "name": "Tengo un Acoholico en Mi Casa",
+      "url": "https://open.spotify.com/track/6aSZWceWgE6cMlKRvLn6yL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Alg\u00fan Lugar en el Cielo",
+        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 269106,
+      "name": "Vivir por Vivir",
+      "url": "https://open.spotify.com/track/6Hok72DzGIdQs7UITndTrp"
     }
   ],
   "unique_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",

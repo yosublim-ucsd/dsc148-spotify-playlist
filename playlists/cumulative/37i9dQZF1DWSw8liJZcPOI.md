@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-508 songs - 1 day 10 hr 57 min
+509 songs - 1 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Glimmer](https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Modulations: EP2](https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut) | 3:21 | 2021-05-29 |  |
 | [Gloaming](https://open.spotify.com/track/2mqSvQ8XCWa0uoMVx6RmO9) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Gloaming](https://open.spotify.com/album/4kiOHWOmNCzJsjidp4XvDz) | 5:59 | 2020-10-20\* | 2022-05-04 |
 | [Gloaming](https://open.spotify.com/track/3MEdin54eIIkEJoqIC2hyX) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [MMXIX](https://open.spotify.com/album/4RhybGFDUu3UkYL0YMU6Wb) | 6:00 | 2024-03-01 | 2024-04-19 |
-| [Glow \- Foam and Sand Rework](https://open.spotify.com/track/6TuQKHMMawk2rswRisvV9J) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [Glow \(Foam and Sand Rework\)](https://open.spotify.com/album/5CEIDLZZdmlacCspDjYNYJ) | 4:15 | 2022-04-15 |  |
+| [Glow \- Foam and Sand Rework](https://open.spotify.com/track/6TuQKHMMawk2rswRisvV9J) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [Glow \(Foam and Sand Rework\)](https://open.spotify.com/album/5CEIDLZZdmlacCspDjYNYJ) | 4:15 | 2022-04-15 | 2024-07-05 |
 | [Glyph II \- Julia Kent Rework](https://open.spotify.com/track/6RPrKKDJ97PPFUntqvhc5W) | [Michael A\. Muller](https://open.spotify.com/artist/2jNobg3ln4Ylaokr4C3qoU), [Julia Kent](https://open.spotify.com/artist/2YJXo1ERQAO7r4hQtu2vFc) | [Lower River Reworks](https://open.spotify.com/album/2WSbqHIN889Lsp595Jf8ft) | 4:08 | 2020-10-20\* | 2022-04-21 |
 | [Glühwürmchen \(Piano Vision\)](https://open.spotify.com/track/6UonjQJl4bd6V9D6ukyPkk) | [Stimming x Lambert](https://open.spotify.com/artist/1TTO5SuWJWgnOOGMdwVvD5) | [Glühwürmchen \(Piano Vision\)](https://open.spotify.com/album/1QuZ4mXB5Ya01m9KQwRvxn) | 2:27 | 2022-07-01 |  |
 | [Gnossienne: No.1 \(Satie Reworks\) \- Spotify Singles](https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles](https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI) | 2:39 | 2022-03-25 |  |
@@ -213,6 +213,7 @@
 | [Hallonlandet](https://open.spotify.com/track/4bBQM9OuT0oJh18mgaK3h0) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Hallonlandet](https://open.spotify.com/album/3JCdeKnV0QHIPq6sivWb6j) | 3:14 | 2020-10-20\* | 2022-07-01 |
 | [Hammer Frenzy \- Edit](https://open.spotify.com/track/6Tb8TuoH4H0jueYjnmbMSV) | [Theo Alexander](https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK) | [Hammer Frenzy](https://open.spotify.com/album/5mDz8VNJjXX3AYt24WfHLl) | 3:49 | 2020-10-21 |  |
 | [Hanover Birds](https://open.spotify.com/track/0y0v7z8CnX9BgUlU65Ivj6) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [For the Birds: The Birdsong Project, Vol\. III](https://open.spotify.com/album/01ocunqirX7p6foVZlzwEg) | 3:41 | 2024-03-01 | 2024-04-19 |
+| [Hanover Birds](https://open.spotify.com/track/668NjVxsRvOOZ8LGsVAuYs) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [For the Birds: The Birdsong Project, Vol\. III](https://open.spotify.com/album/3vHDJ2gVHKfBxv417wCBmI) | 3:41 | 2024-06-07 |  |
 | [Happiness \- 2019 Remaster](https://open.spotify.com/track/4RKkM08C2YQFMmnUHTkl5P) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps \(2019 Remaster\)](https://open.spotify.com/album/2LnLKuyXwiV11E363M8h2Q) | 9:19 | 2020-12-10 | 2020-12-11 |
 | [Harvester of Sorrow](https://open.spotify.com/track/1K11KPcUynDLD0b0Ds1zpQ) | [Little Kruta](https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe), [Jenn Mundia](https://open.spotify.com/artist/23Cb4TkNrKVdjShbEnyHQq) | [Justice](https://open.spotify.com/album/7cYJR3GwWpo1sMvNkyNBJH) | 3:47 | 2020-10-20\* | 2021-04-20 |
 | [Heart Failure](https://open.spotify.com/track/5IKBHH07ER6qB5uWPTXpUv) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Heart Failure](https://open.spotify.com/album/5nt2tuWF3S2opn7npYS3LO) | 4:49 | 2020-10-20\* | 2022-07-29 |

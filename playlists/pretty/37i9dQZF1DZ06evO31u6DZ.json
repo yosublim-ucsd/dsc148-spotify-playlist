@@ -1,12 +1,12 @@
 {
   "description": "This is Senses Fail. The essential tracks, all in one playlist.",
-  "num_followers": 8983,
+  "num_followers": 8982,
   "original_name": "This Is Senses Fail",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoNDAAAAAABvUO9xfYJ18ProaRuBJlCf",
+  "snapshot_id": "ZoSUgAAAAAA4jp2qjmoLhEe+6t68xph8",
   "tracks": [
     {
       "added_at": null,
@@ -279,18 +279,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Searching",
-        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
+        "name": "VOID ETERNAL",
+        "url": "https://open.spotify.com/album/3zO5Pq3zhf3qz85rpFlDNK"
       },
       "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        },
+        {
+          "name": "Buddy Nielsen",
+          "url": "https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc"
+        },
         {
           "name": "Senses Fail",
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 184306,
-      "name": "Every Day Is a Struggle",
-      "url": "https://open.spotify.com/track/2hpsX6fPhOd7BPkWPDqFAa"
+      "duration_ms": 184111,
+      "name": "M1SERY_SYNDROME (feat. BUDDY NIELSEN)",
+      "url": "https://open.spotify.com/track/5HuONHSJVsyksi8JJnLmh0"
     },
     {
       "added_at": null,
@@ -327,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is Not a Waiting Room",
-        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
       },
       "artists": [
         {
@@ -336,9 +344,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 207520,
-      "name": "Wolves at the Door",
-      "url": "https://open.spotify.com/track/48T4mKe6sqTNi6I22mYnYY"
+      "duration_ms": 184306,
+      "name": "Every Day Is a Struggle",
+      "url": "https://open.spotify.com/track/2hpsX6fPhOd7BPkWPDqFAa"
     },
     {
       "added_at": null,
@@ -359,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Searching (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
+        "name": "Life Is Not a Waiting Room",
+        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
       },
       "artists": [
         {
@@ -368,9 +376,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 258479,
-      "name": "Still Searching",
-      "url": "https://open.spotify.com/track/093MmGxax3ppg6MrC3LBQZ"
+      "duration_ms": 207520,
+      "name": "Wolves at the Door",
+      "url": "https://open.spotify.com/track/48T4mKe6sqTNi6I22mYnYY"
     },
     {
       "added_at": null,
@@ -391,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is Not a Waiting Room",
-        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
+        "name": "Still Searching (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
       },
       "artists": [
         {
@@ -400,9 +408,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 218746,
-      "name": "Garden State",
-      "url": "https://open.spotify.com/track/6mMu70aOyDSS8MxOhKMgUt"
+      "duration_ms": 258479,
+      "name": "Still Searching",
+      "url": "https://open.spotify.com/track/093MmGxax3ppg6MrC3LBQZ"
     },
     {
       "added_at": null,
@@ -423,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Depths Of Dreams",
-        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
+        "name": "Life Is Not a Waiting Room",
+        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
       },
       "artists": [
         {
@@ -432,9 +440,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 141200,
-      "name": "Handguns and Second Chances",
-      "url": "https://open.spotify.com/track/2HdtxF6IO9zvFTyuoe44kX"
+      "duration_ms": 218746,
+      "name": "Garden State",
+      "url": "https://open.spotify.com/track/6mMu70aOyDSS8MxOhKMgUt"
     },
     {
       "added_at": null,
@@ -455,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is Not a Waiting Room",
-        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
+        "name": "From The Depths Of Dreams",
+        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
       },
       "artists": [
         {
@@ -464,9 +472,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 255466,
-      "name": "Four Years",
-      "url": "https://open.spotify.com/track/6805gZi35lOajVzQNpnzKF"
+      "duration_ms": 141200,
+      "name": "Handguns and Second Chances",
+      "url": "https://open.spotify.com/track/2HdtxF6IO9zvFTyuoe44kX"
     },
     {
       "added_at": null,
@@ -495,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Depths Of Dreams",
-        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
+        "name": "Life Is Not a Waiting Room",
+        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
       },
       "artists": [
         {
@@ -504,9 +512,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 252800,
-      "name": "Free Fall Without A Parachute",
-      "url": "https://open.spotify.com/track/11EE0kTgJokpFRVv8IjyWM"
+      "duration_ms": 255466,
+      "name": "Four Years",
+      "url": "https://open.spotify.com/track/6805gZi35lOajVzQNpnzKF"
     },
     {
       "added_at": null,
@@ -527,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is Not a Waiting Room",
-        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
+        "name": "From The Depths Of Dreams",
+        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
       },
       "artists": [
         {
@@ -536,9 +544,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 129919,
-      "name": "Fireworks at Dawn",
-      "url": "https://open.spotify.com/track/0pAuXS0axaaZxs2vkIjDXQ"
+      "duration_ms": 252800,
+      "name": "Free Fall Without A Parachute",
+      "url": "https://open.spotify.com/track/11EE0kTgJokpFRVv8IjyWM"
     },
     {
       "added_at": null,
@@ -555,6 +563,22 @@
       "duration_ms": 229453,
       "name": "Institutionalized",
       "url": "https://open.spotify.com/track/2Uwx8PL1UYzZNwd7sZFa05"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life Is Not a Waiting Room",
+        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 129919,
+      "name": "Fireworks at Dawn",
+      "url": "https://open.spotify.com/track/0pAuXS0axaaZxs2vkIjDXQ"
     },
     {
       "added_at": null,
@@ -819,22 +843,6 @@
       "duration_ms": 195826,
       "name": "Saint Anthony",
       "url": "https://open.spotify.com/track/5WBdIPNXqTJV1Q7VtVNpFv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hell is in Your Head",
-        "url": "https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "I Am Error",
-      "url": "https://open.spotify.com/track/6dedec4UcACJV9MlQwydqK"
     }
   ],
   "unique_name": "This Is Senses Fail",

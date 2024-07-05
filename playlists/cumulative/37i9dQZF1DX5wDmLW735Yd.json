@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Brodie",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Cameron Hayes",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -4275,6 +4275,24 @@
     },
     {
       "album": {
+        "name": "Fall A Little Further",
+        "url": "https://open.spotify.com/album/3rZRLZOPXIsA8hfYsm6IPj"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159342,
+      "name": "Fall A Little Further",
+      "url": "https://open.spotify.com/track/10AhHD1WQoDPicXe9WrK38"
+    },
+    {
+      "album": {
         "name": "Fall From The Dark",
         "url": "https://open.spotify.com/album/0fNPjgBIuSbfFzFuqoYQ5B"
       },
@@ -5912,7 +5930,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 167441,
       "name": "Hell In High Heels (feat. Jazmine Johnson)",
       "url": "https://open.spotify.com/track/2N1SBksYNigOK3XtGNhp8i"
@@ -6066,7 +6084,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 285689,
       "name": "High Technology Lifestyle",
       "url": "https://open.spotify.com/track/04wsImzICZ4aTuVWu6PydJ"
@@ -7476,7 +7494,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 221479,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/6eWgNJspumvHtUmx8pQlFM"
@@ -8137,6 +8155,24 @@
     },
     {
       "album": {
+        "name": "Loved You So",
+        "url": "https://open.spotify.com/album/2aDkvALnwjfvjjfzRiiiXx"
+      },
+      "artists": [
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224827,
+      "name": "Loved You So",
+      "url": "https://open.spotify.com/track/0eAikblA7zLjI1ygfuQI1b"
+    },
+    {
+      "album": {
         "name": "Lowkey (LDN Drift) [feat. Takura]",
         "url": "https://open.spotify.com/album/5rGnxRc5WOwevqYSLNMdkp"
       },
@@ -8368,6 +8404,28 @@
       "duration_ms": 225412,
       "name": "MAZI",
       "url": "https://open.spotify.com/track/48lizQ5HBC7lPDRqDrdgsT"
+    },
+    {
+      "album": {
+        "name": "Mbapp\u00e9",
+        "url": "https://open.spotify.com/album/08LIHAljLBmXTE4YbMyHfW"
+      },
+      "artists": [
+        {
+          "name": "Sudley",
+          "url": "https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn"
+        },
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157205,
+      "name": "Mbapp\u00e9",
+      "url": "https://open.spotify.com/track/0cHikxpKB7AAkb6abfYIkk"
     },
     {
       "album": {

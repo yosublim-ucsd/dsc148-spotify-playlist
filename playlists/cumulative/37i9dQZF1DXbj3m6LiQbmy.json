@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ italiana. Gianna Nannini in cover! \u2728",
+  "description": "Musica dalla comunit\u00e0 LGBQTIA+ \ud83c\uddee\ud83c\uddf9. STE in cover! \u2728",
   "name": "GLOW Italia",
   "tracks": [
     {
@@ -2756,7 +2756,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 229743,
       "name": "I Know Your Present",
       "url": "https://open.spotify.com/track/3CD3Ymds6yWnVHBNDYfZTA"
@@ -4818,7 +4818,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 148839,
       "name": "PETARDI",
       "url": "https://open.spotify.com/track/6aBkkxEVmDGC1o0DpxQcjM"
@@ -5538,6 +5538,24 @@
       "duration_ms": 233051,
       "name": "Senticomespinge",
       "url": "https://open.spotify.com/track/47PZZhIc1rQd4CyZ9U0XXX"
+    },
+    {
+      "album": {
+        "name": "Sexed & Sexual",
+        "url": "https://open.spotify.com/album/5K4Knt06ZayoEBqroeYW6h"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174694,
+      "name": "Sexed & Sexual",
+      "url": "https://open.spotify.com/track/1TDlpkrErbMcPJf8ODgTlh"
     },
     {
       "album": {
@@ -6912,6 +6930,24 @@
       "duration_ms": 155400,
       "name": "XTC (feat. LA NI\u00d1A & BigMama)",
       "url": "https://open.spotify.com/track/6N0wZxSpYH5pm6XrubgxEy"
+    },
+    {
+      "album": {
+        "name": "YACHT CLUB",
+        "url": "https://open.spotify.com/album/0iwAIB5fDKkgUTpgBrDr7t"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177349,
+      "name": "YACHT CLUB",
+      "url": "https://open.spotify.com/track/6akyMw7cDDCVGqrAwHA6b2"
     },
     {
       "album": {

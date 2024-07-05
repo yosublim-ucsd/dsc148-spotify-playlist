@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Amira Elfeky
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Calva Louise
 
-728 songs - 1 day 22 hr 5 min
+731 songs - 1 day 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 | 2024-01-05 |  |
 | [Krøterveg Te Helvete \- Single Version](https://open.spotify.com/track/5NOYRMBd512A6qmwTug8SL) | [Kvelertak](https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9) | [Krøterveg Te Helvete](https://open.spotify.com/album/7lv0IHJ9OB0l0NPIGQe7BJ) | 4:14 | 2023-04-13 | 2024-02-03 |
 | [L'Envol](https://open.spotify.com/track/30JoA3CWCXqcACZzRtyaJr) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [L'Envol](https://open.spotify.com/album/0ha4JvwSl9kBT0vCUQn0GI) | 8:02 | 2024-02-23 |  |
+| [La Corriente](https://open.spotify.com/track/7HRBtlZw4DoioERhRwi6gA) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [La Corriente](https://open.spotify.com/album/0BG0MTNfRewg3HKYecsL52) | 4:00 | 2024-07-05 |  |
 | [Land Of The Sun](https://open.spotify.com/track/79Uosr9Ne21ve72zOtpCT2) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Land Of The Sun](https://open.spotify.com/album/3lkZtqInxyQ1XNnRShoBTT) | 3:54 | 2023-06-30 | 2024-02-03 |
 | [Landslide](https://open.spotify.com/track/4UnezplnQOoiNCRxYfveZR) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [Landslide](https://open.spotify.com/album/6Jca9m0heHbc7wu44GZs0A) | 1:36 | 2024-01-26 |  |
 | [Last Laugh \(feat\. Dylan Walker & Full of Hell\)](https://open.spotify.com/track/3p6BUYKhnUIn5WGF1TVB5I) | [Year of the Knife](https://open.spotify.com/artist/6z6uImpvyrxii5OyX1ic8Q), [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Dylan Walker](https://open.spotify.com/artist/4qkOSBrxz6jcBqcDayhmBg) | [Wish / Last Laugh](https://open.spotify.com/album/19sxqwRhFmtmwo7V0Pjjhz) | 0:47 | 2023-09-29 | 2024-02-03 |
@@ -460,6 +461,7 @@
 | [Pissed](https://open.spotify.com/track/4XXNCayzo7OFJGztzLkZm0) | [Sanguisugabogg](https://open.spotify.com/artist/0n98EIfTSiyxUZHUojHykN) | [Pissed](https://open.spotify.com/album/7GrmcUajNVtMHWyiWcg9sW) | 3:18 | 2022-11-18 | 2023-07-15 |
 | [Please End Me](https://open.spotify.com/track/6TlZSSNZd397eYRzbu5SaT) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Please End Me](https://open.spotify.com/album/4IHL9ClOQoD6bT0IipDgPi) | 3:11 | 2023-06-16 | 2024-02-03 |
 | [Poison Flowers](https://open.spotify.com/track/11O2WpROGfGmVrvIjVWzjV) | [Billy Howerdel](https://open.spotify.com/artist/29T1xRveILTzNfQkuqlvDf) | [Poison Flowers](https://open.spotify.com/album/52l1ZY3fbJ6SlIgDcyrnT6) | 5:32 | 2022-03-04 | 2023-07-15 |
+| [Poisoned Apple](https://open.spotify.com/track/4uBp1JwbTLgaIyqlIMIXkB) | [Lilith PH](https://open.spotify.com/artist/5nXlGudijhyJZ5f3KgIDG3) | [Poisoned Apple](https://open.spotify.com/album/1smJ2OftBEPrqx7SadeimT) | 3:56 | 2024-07-05 |  |
 | [Pray](https://open.spotify.com/track/4weKyrqLqUmsCST8e6g4ww) | [Vosh](https://open.spotify.com/artist/0bh5RSxIUP58Gvd5nLaCPs) | [Pray](https://open.spotify.com/album/1RjQFy4E02oX3RBq8oSFet) | 3:01 | 2023-02-03 | 2024-02-03 |
 | [Predatory Savior](https://open.spotify.com/track/7sXYOblxpZmMfWOji020Q5) | [Vomit Forth](https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP) | [Predatory Savior](https://open.spotify.com/album/6nswezZB2rXRS1aGz5Phnh) | 2:58 | 2022-06-17 | 2023-07-15 |
 | [Premium Offer](https://open.spotify.com/track/4QAO8vNiEQJFECZyfksE4i) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Premium Offer](https://open.spotify.com/album/0779EKnVwh2qEe4qzM2woS) | 2:54 | 2022-02-11 | 2023-07-15 |
@@ -563,6 +565,7 @@
 | [Stillpoint](https://open.spotify.com/track/7e7MSmuu0opQe214jZFuix) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT), [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp) | [Stillpoint](https://open.spotify.com/album/6HYN0mvt1KfBvMOPJc0DlN) | 3:37 | 2024-06-18 |  |
 | [STRAITJACKET AFTERBIRTH](https://open.spotify.com/track/1XpGYpAK3SvsMIJv0zKfsM) | [PSYCHO\-FRAME](https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR), [SCARAB](https://open.spotify.com/artist/3DmQmled0fZTVhU9MEBSrX) | [AUTOMATIC DEATH PROTOCOL](https://open.spotify.com/album/3TV7pYsruvNpnvcWU5UiOc) | 3:29 | 2023-12-08 | 2024-02-03 |
 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 | 2022-07-08 | 2023-07-15 |
+| [Strangled By Hatred](https://open.spotify.com/track/65B2NhSzmvxgjlSeOYEGjn) | [Laceration](https://open.spotify.com/artist/762Ablx3xD0IF4ijV5Eq2G) | [Strangled By Hatred](https://open.spotify.com/album/3YqXnuGlKmUZoDYcxT5t8M) | 4:59 | 2024-07-05 |  |
 | [Stuck in a Dream](https://open.spotify.com/track/5DN4UT7DeL7CDkkqgrKKBZ) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Stuck in a Dream](https://open.spotify.com/album/4UiowcedUnLore1tPSqkM2) | 2:40 | 2024-01-12 |  |
 | [such.a.shame](https://open.spotify.com/track/04NGTMGRH8GmDMOvTuRZ6R) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [such.a.shame](https://open.spotify.com/album/7rfZBUbE3cfxXXPW9haLxw) | 3:18 | 2022-02-25 | 2023-07-15 |
 | [Suffocate \(feat\. Poppy\)](https://open.spotify.com/track/1f9GowTtuwSkdJfKBk3VeU) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Suffocate \(feat\. Poppy\)](https://open.spotify.com/album/2Ow8BhxOQJDErR0ei0RYHo) | 2:44 | 2024-04-26 |  |

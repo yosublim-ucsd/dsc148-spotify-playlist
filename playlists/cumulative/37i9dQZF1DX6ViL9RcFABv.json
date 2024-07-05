@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Kura",
+  "description": "Uma playlist de pura alma pop! Foto: iolanda",
   "name": "Pop PT",
   "tracks": [
     {
@@ -282,7 +282,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 176425,
       "name": "Clima",
       "url": "https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK"
@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "OLHAR P\u2019RA BAIXO",
+        "url": "https://open.spotify.com/album/1BeGFKGmjiP1RHDT9IxWUE"
+      },
+      "artists": [
+        {
+          "name": "iolanda",
+          "url": "https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163264,
+      "name": "COMPLICADO",
+      "url": "https://open.spotify.com/track/0FbAnTTFeLnpfrNer6CzHZ"
+    },
+    {
+      "album": {
         "name": "Contra Probabilidades",
         "url": "https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8"
       },
@@ -446,7 +464,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 166111,
       "name": "Dan\u00e7a Comigo",
       "url": "https://open.spotify.com/track/49bdrqL0gtcJXEt2i0YouZ"
@@ -667,6 +685,28 @@
     },
     {
       "album": {
+        "name": "Eu e Tu",
+        "url": "https://open.spotify.com/album/3mhOdbBo8GTzbRDNgD99gq"
+      },
+      "artists": [
+        {
+          "name": "Mike11",
+          "url": "https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x"
+        },
+        {
+          "name": "D.A.M.A",
+          "url": "https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282204,
+      "name": "Eu e Tu",
+      "url": "https://open.spotify.com/track/4YN0S8r2onJGCiPdVrMh8A"
+    },
+    {
+      "album": {
         "name": "Eu Prometo (feat. Nuno Ribeiro)",
         "url": "https://open.spotify.com/album/2vXp7NGxTjJaI4VQF5LdTy"
       },
@@ -748,6 +788,32 @@
       "duration_ms": 202474,
       "name": "Fuma\u00e7a (feat. Veigh)",
       "url": "https://open.spotify.com/track/1Qi9DwRbJCAyBsLWY8Lope"
+    },
+    {
+      "album": {
+        "name": "G Wagon",
+        "url": "https://open.spotify.com/album/5yOXfIJsr2DBJuFTKRG3Az"
+      },
+      "artists": [
+        {
+          "name": "David Carreira",
+          "url": "https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch"
+        },
+        {
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+        },
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190779,
+      "name": "G Wagon",
+      "url": "https://open.spotify.com/track/726AIEba3u6eETD7A4e5LJ"
     },
     {
       "album": {
@@ -1014,6 +1080,24 @@
       "duration_ms": 120004,
       "name": "Ondas Do Mar",
       "url": "https://open.spotify.com/track/57U5uPOSahT6Cis5IgPw6g"
+    },
+    {
+      "album": {
+        "name": "Outro Planeta",
+        "url": "https://open.spotify.com/album/2QEjRxraeyKj7iYlLLQUCM"
+      },
+      "artists": [
+        {
+          "name": "Virgul",
+          "url": "https://open.spotify.com/artist/0qe3I1MOY8oFj3DuoWNwbq"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184902,
+      "name": "Outro Planeta",
+      "url": "https://open.spotify.com/track/5gowKvKBEEpQhdAL2Qklhe"
     },
     {
       "album": {
@@ -1316,7 +1400,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 158536,
       "name": "Sil\u00eancio e Tanta Gente",
       "url": "https://open.spotify.com/track/1ficHVddpZ4rCfgExZXYpd"
@@ -1378,7 +1462,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 148695,
       "name": "Sozinho",
       "url": "https://open.spotify.com/track/6FRjQPBZ4pEdKWGSCSgeh8"

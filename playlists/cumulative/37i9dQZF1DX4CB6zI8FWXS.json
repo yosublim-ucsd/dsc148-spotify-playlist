@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Nao Yoshioka",
+  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Lucky Daye",
   "name": "Groovin' R&B",
   "tracks": [
     {
@@ -2274,7 +2274,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 207900,
       "name": "Endless Night",
       "url": "https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU"
@@ -2818,7 +2818,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 241511,
       "name": "FromHere (feat. Snoop Dogg & October London)",
       "url": "https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7"
@@ -7801,6 +7801,28 @@
     },
     {
       "album": {
+        "name": "Smile Away",
+        "url": "https://open.spotify.com/album/3w4wHIAfI5j7rZ4YYNJyy1"
+      },
+      "artists": [
+        {
+          "name": "Jeff Darko",
+          "url": "https://open.spotify.com/artist/3sBwgjV04Bb5QrEvOZp1Nd"
+        },
+        {
+          "name": "Caesar",
+          "url": "https://open.spotify.com/artist/6TlSyoLPJijSVzFpPL9nOi"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247294,
+      "name": "Smile Away",
+      "url": "https://open.spotify.com/track/5Q4DZsj6zIdiMo8IvoIlHY"
+    },
+    {
+      "album": {
         "name": "Smoke (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA"
       },
@@ -8820,6 +8842,24 @@
       "duration_ms": 171596,
       "name": "The Process",
       "url": "https://open.spotify.com/track/5A5d8Coap6LIWcbk3xGDXi"
+    },
+    {
+      "album": {
+        "name": "The Weekend",
+        "url": "https://open.spotify.com/album/45BhhftBxyGd6EEcY5VDaF"
+      },
+      "artists": [
+        {
+          "name": "MoMo",
+          "url": "https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162093,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/5cmDZP3J5RXD2VhraggoZj"
     },
     {
       "album": {

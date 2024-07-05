@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-1,777 songs - 3 day 19 hr 15 min
+1,778 songs - 3 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [3KIPA](https://open.spotify.com/track/7rvgrmZdQeR1qDdzLLbo4Q) | [Ekipa](https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM) | [SEZON3 \(Deluxe\)](https://open.spotify.com/album/2GZpgflGzo3BNIPYpEFmeA) | 4:58 | 2021-07-01 | 2021-07-02 |
 | [3wagon](https://open.spotify.com/track/69ZU0UZ9FIpRI5RsjZ0Pbk) | [chillwagon](https://open.spotify.com/artist/31KykqmaPRWmV8PMHgWdE3), [Borixon](https://open.spotify.com/artist/5Q5WdRs96HgbxdVIfhHqt2), [TEDE](https://open.spotify.com/artist/38iqZSGa2pvToKrMISU8g1), [Reto](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli), [SecretRank](https://open.spotify.com/artist/57uA41c5h8M3FSaceJOwsQ) | [3wagon](https://open.spotify.com/album/2XJnq34wwzdwh7pi0g2IyM) | 3:21 | 2022-03-24 | 2022-03-31 |
 | [4 am in Metawers](https://open.spotify.com/track/2ZbSIu4PbLIcyGE4LwSGfB) | [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [Kosmos](https://open.spotify.com/artist/1x5ThUhPQnZRAlpK4ROh6p) | [ROUGH N' GENTLE](https://open.spotify.com/album/1an7kS5I0MnVqhROpzEBW7) | 2:40 | 2022-04-09 | 2022-04-11 |
-| [4 RANO](https://open.spotify.com/track/0yeSXZ4we6LzZUyUhoGOIS) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [4 RANO](https://open.spotify.com/album/57GcfcB49w7OmlOzb5EPO8) | 2:00 | 2024-05-18 |  |
+| [4 RANO](https://open.spotify.com/track/0yeSXZ4we6LzZUyUhoGOIS) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [4 RANO](https://open.spotify.com/album/57GcfcB49w7OmlOzb5EPO8) | 2:00 | 2024-05-18 | 2024-07-05 |
 | [45](https://open.spotify.com/track/6LzThc9BpClQyBR7w1agi6) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0) | [Aporofobia](https://open.spotify.com/album/0kFsF8QMOTj8ZkHaiF1G5C) | 2:38 | 2022-01-08 | 2022-01-14 |
 | [4TB](https://open.spotify.com/track/4kVVnZ0CVeJJMimZde2uo7) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY), [Asster](https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX) | [???](https://open.spotify.com/album/6b9nJ7eZHoXbVfIA3KQ6bg) | 3:48 | 2023-07-01 | 2023-07-10 |
 | [5 INFLUENCEREK](https://open.spotify.com/track/1pTsC1EwqfBmf8Ab9yVRoK) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [5 INFLUENCEREK](https://open.spotify.com/album/6mLGEbtI3F0aq5Mm7MCSPl) | 2:24 | 2023-06-08 | 2023-07-02 |
@@ -61,6 +61,7 @@
 | [67\-410](https://open.spotify.com/track/2w8C31hIPvJMPD4MDdNTro) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT), [Maurycy Żółtański](https://open.spotify.com/artist/6GkmaR2QHFZZgZgJBLqfb8) | [Młody Matczak](https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd) | 5:11 | 2021-10-03 | 2021-10-22 |
 | [7 DAM](https://open.spotify.com/track/0u4LafmewDz5L2FNqqWGud) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [7 DAM](https://open.spotify.com/album/6Mu6pSBimQAd9i334j2nQw) | 2:14 | 2024-06-06 |  |
 | [8MILA](https://open.spotify.com/track/5zOQ3PjlARswR8wvJaby8A) | [Guzior](https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV) | [8MILA](https://open.spotify.com/album/4aKvcMUnw2chfeJ8aa9FY0) | 3:23 | 2024-04-06 | 2024-04-10 |
+| [911](https://open.spotify.com/track/0spb4Kfcsn8t37E1Qv7f3m) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [OG ENZO](https://open.spotify.com/artist/4NvUzGnIZ4z0sSD4bnX3zi) | [911](https://open.spotify.com/album/0tbekMBVgamh1qFEoZJuio) | 2:29 | 2024-07-04 |  |
 | [:\(](https://open.spotify.com/track/7abEPkeDrajfoTxUBjuQ3G) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [</3 + :\(](https://open.spotify.com/album/4mD7rKj1et3PjyYy8Bw4yM) | 2:55 | 2022-11-19 | 2022-12-19 |
 | [</3](https://open.spotify.com/track/14154tJOTjeyeOyhnqP4QM) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [</3 + :\(](https://open.spotify.com/album/4mD7rKj1et3PjyYy8Bw4yM) | 2:11 | 2022-11-19 | 2023-02-15 |
 | [@champagnepapi](https://open.spotify.com/track/1y62mw3mC3mtVOOtjrVVl1) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [TTHE GRIND](https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP) | 2:31 | 2024-04-06 | 2024-05-03 |

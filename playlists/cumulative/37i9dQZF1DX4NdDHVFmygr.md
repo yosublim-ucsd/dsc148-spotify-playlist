@@ -2,7 +2,7 @@
 
 ### [Maroc Hits](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> Tawsen & Ayoub Anbaoui en tête des hits populaires au Maroc.
+> Nouamane Belaiachi en tête des hits populaires au Maroc.
 
 388 songs - 20 hr 45 min
 

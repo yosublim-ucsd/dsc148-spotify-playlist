@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: toldyuuso",
+  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: PRIBELSZKI",
   "name": "Nemazapop",
   "tracks": [
     {
@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Dreamgirl",
+        "url": "https://open.spotify.com/album/2jCYpMUl6kltjhUpxotxBO"
+      },
+      "artists": [
+        {
+          "name": "Puzzls",
+          "url": "https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132727,
+      "name": "Dreamgirl",
+      "url": "https://open.spotify.com/track/4GaXyfHQd1grsMdL5y5N50"
+    },
+    {
+      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/7K0LwglwjmTKmciV4qQXYa"
       },
@@ -414,7 +432,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 184874,
       "name": "Egyform\u00e1k",
       "url": "https://open.spotify.com/track/6fgA2gddZ2AjbM5bHh00xd"
@@ -472,6 +490,24 @@
       "duration_ms": 207130,
       "name": "El\u00e9g a tenger",
       "url": "https://open.spotify.com/track/7fqCWm2j1szb2PyKTNQJba"
+    },
+    {
+      "album": {
+        "name": "ember NEM \u00e9lhet t\u00f6r\u00f6tt l\u00e1bbal",
+        "url": "https://open.spotify.com/album/4G9Vuu4KqcUDSWyk6KaqBi"
+      },
+      "artists": [
+        {
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127885,
+      "name": "ember NEM \u00e9lhet t\u00f6r\u00f6tt l\u00e1bbal",
+      "url": "https://open.spotify.com/track/3znhW8bjZFh0y6QYFiXGPJ"
     },
     {
       "album": {
@@ -609,6 +645,24 @@
     },
     {
       "album": {
+        "name": "Hablaty",
+        "url": "https://open.spotify.com/album/1PhHb6ohDdv1DpOOlqFWlr"
+      },
+      "artists": [
+        {
+          "name": "Buz\u00e1s Bence",
+          "url": "https://open.spotify.com/artist/2o2LGwOqfNC1hoC4ErptYR"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Hablaty",
+      "url": "https://open.spotify.com/track/0TuzWfuD8eFZTM0aloPgPX"
+    },
+    {
+      "album": {
         "name": "Hex",
         "url": "https://open.spotify.com/album/0xuiWphJRKgRJgeQmaKMgV"
       },
@@ -726,6 +780,24 @@
       "duration_ms": 188230,
       "name": "H\u00e9jan\u00e1sz",
       "url": "https://open.spotify.com/track/1s1xGPOO6GbNoTTX4ih0bt"
+    },
+    {
+      "album": {
+        "name": "I'M OK",
+        "url": "https://open.spotify.com/album/2bkmcYbQ2qxT8HBQQOVYpE"
+      },
+      "artists": [
+        {
+          "name": "PRIBELSZKI",
+          "url": "https://open.spotify.com/artist/6ZHMYSQiWKGHPgme6nAzTW"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159010,
+      "name": "I'M OK",
+      "url": "https://open.spotify.com/track/5AEg3Mzvi2R1ub0gC1fFkh"
     },
     {
       "album": {
@@ -1022,7 +1094,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 236433,
       "name": "Ny\u00e1ll\u00e1m\u00e1ll\u00f3",
       "url": "https://open.spotify.com/track/1TBrCQXd9NC5Uaki3f4wQ8"
@@ -1422,7 +1494,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 156000,
       "name": "sziv\u00e1rv\u00e1ny v\u00e9g\u00e9n",
       "url": "https://open.spotify.com/track/69uDRZ64aDn32VPcnPjWjv"
@@ -1476,7 +1548,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 188676,
       "name": "T\u00c9LI SZ\u00c9L",
       "url": "https://open.spotify.com/track/1K4F6xaXorBQXxheyLRh6R"

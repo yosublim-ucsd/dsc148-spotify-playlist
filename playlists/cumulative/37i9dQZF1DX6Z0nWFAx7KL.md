@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-218 songs - 10 hr 54 min
+219 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Summer Stars](https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Summer Stars](https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3) | 2:30 | 2022-09-15 |  |
 | [Sunday Monday](https://open.spotify.com/track/08D2l1z7iGDMbHbb227ydx) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Sunday Monday](https://open.spotify.com/album/1Mf0YgXEyGOxKIARtZKWvq) | 2:27 | 2022-12-22 | 2024-03-21 |
 | [Sunlight](https://open.spotify.com/track/595M3e9mqepEd19NGVEABi) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sunlight](https://open.spotify.com/album/2P0ApHEYZEpv1qa6hzI7bM) | 3:49 | 2023-10-02 |  |
+| [Sunset](https://open.spotify.com/track/2mCDr3iGivDH7rGBVIgkUf) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [Sunset](https://open.spotify.com/album/75SOVqtkavzS4o2DlS9KcG) | 2:58 | 2024-07-04 |  |
 | [Sunshine](https://open.spotify.com/track/1VEziHkHWy6sfVnEXq1j5q) | [Palm Trees](https://open.spotify.com/artist/3IYNUniWKkMmHKUHssC392) | [Sunshine](https://open.spotify.com/album/286kpjUvHwKKK19JR7OggD) | 2:36 | 2023-06-08 |  |
 | [Sweet Harmony](https://open.spotify.com/track/14Hg8gKCCboRLw0yXpcrMV) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Dario Trapani](https://open.spotify.com/artist/3Hr5KIqDswsyQtOoDyJTmM), [Ivan Cappello](https://open.spotify.com/artist/7feK9L4NzDWTVvUlG6rZgR), [Sh3](https://open.spotify.com/artist/5OwncnHbQGwU9RtHWvsFvW) | [Sweet Harmony](https://open.spotify.com/album/6siJjSXj7shJrMIKY1yMzE) | 2:42 | 2022-09-15 | 2024-04-19 |
 | [Sweet Side \(feat\. Caitlyn Scarlett\)](https://open.spotify.com/track/6YGq0IfrGMx4KsF0GnFpP3) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [Sweet Side \(feat\. Caitlyn Scarlett\)](https://open.spotify.com/album/5g4LsEEhNuYX4h1d7a6EXR) | 3:03 | 2022-09-15 | 2022-11-17 |
@@ -202,7 +203,7 @@
 | [Tell Me How](https://open.spotify.com/track/0d2yUkzvqA85zHqiKA9IuE) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Jeannette](https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw) | [Tell Me How](https://open.spotify.com/album/5M8b8IFy69V7CHCRfdkJuv) | 2:12 | 2022-10-30 | 2024-03-21 |
 | [That Kinda Love](https://open.spotify.com/track/1Mpo8ZIbEYMVQYZeEHlF15) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [JIMINI](https://open.spotify.com/artist/1bAeb4kHa1nNLk8GBkDVDn) | [That Kinda Love](https://open.spotify.com/album/55CLCdTPdK4EhfeHqeZ5Zc) | 2:44 | 2024-01-11 | 2024-04-19 |
 | [That Kinda Love](https://open.spotify.com/track/6xaKJufSjgKoYlJt2UNnLx) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [JIMINI](https://open.spotify.com/artist/1bAeb4kHa1nNLk8GBkDVDn) | [That Kinda Love](https://open.spotify.com/album/7DzgRJKoXPUbkHsnxOnASQ) | 2:44 | 2024-04-11 |  |
-| [The Beach](https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [The Beach](https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD) | 3:37 | 2022-09-15 |  |
+| [The Beach](https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [The Beach](https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD) | 3:37 | 2022-09-15 | 2024-07-05 |
 | [The Boys Of Summer](https://open.spotify.com/track/5oeG2dP6Qda3ueQEllB7pW) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Geoff Duncan](https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N) | [The Boys Of Summer](https://open.spotify.com/album/31XBvtJJ3fQkQUrRukoq1E) | 2:17 | 2023-06-08 | 2024-03-21 |
 | [the key \- Tim van Werd remix](https://open.spotify.com/track/2HMZhXZhX3ErAds3UmFhem) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3), [Tim van Werd](https://open.spotify.com/artist/5UgA77bKieWHI27WVk6bPE) | [the key \(Tim van Werd remix\)](https://open.spotify.com/album/42qOGIkeeyxxc2i7ZMXrJp) | 4:30 | 2024-04-11 |  |
 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 | 2023-07-27 | 2024-02-13 |

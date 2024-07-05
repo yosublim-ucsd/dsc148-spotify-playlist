@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleurs morceaux alternatifs du moment. Photo : MJ Lenderman",
+  "description": "Les meilleurs morceaux alternatifs du moment. Photo : Fontaines D.C.",
   "name": "Hot Alternative",
   "tracks": [
     {
@@ -162,6 +162,24 @@
       "duration_ms": 199093,
       "name": "All I've Heard - Single Edit",
       "url": "https://open.spotify.com/track/3QcyheDyLa6SZrIOpZbwIF"
+    },
+    {
+      "album": {
+        "name": "All Kinds Of People",
+        "url": "https://open.spotify.com/album/1qrfKDFYVsll4mThf6pxqJ"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167493,
+      "name": "All Kinds Of People",
+      "url": "https://open.spotify.com/track/5dOkvWdlRlKYvhM3MkD2Ai"
     },
     {
       "album": {
@@ -756,7 +774,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 217778,
       "name": "Cocoon",
       "url": "https://open.spotify.com/track/6FTXzaE0mrimbEIp4NuZNH"
@@ -1503,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "All Again",
+        "url": "https://open.spotify.com/album/1MYKIaNTldxjMjrk34v5bM"
+      },
+      "artists": [
+        {
+          "name": "Queen of Jeans",
+          "url": "https://open.spotify.com/artist/61HFuOrTUb63I9b11WdnqL"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263011,
+      "name": "Go Down Easy",
+      "url": "https://open.spotify.com/track/1BieFVIxChUHgt9JF11h5x"
+    },
+    {
+      "album": {
         "name": "Good Time",
         "url": "https://open.spotify.com/album/0OnblvmyOmNIlMGL6rxLWx"
       },
@@ -1921,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "Goodnight, God Bless, I Love U, Delete.",
+        "url": "https://open.spotify.com/album/3omXFuNbc0B6MlCm5Nf5Xn"
+      },
+      "artists": [
+        {
+          "name": "\u271d\u271d\u271d (Crosses)",
+          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234134,
+      "name": "Invisible Hand",
+      "url": "https://open.spotify.com/track/4r5bMIasNl5uYBnzf9TYXU"
+    },
+    {
+      "album": {
         "name": "Invisible Hand",
         "url": "https://open.spotify.com/album/0tdKFj9MZ2g1oPb2VoEepz"
       },
@@ -1957,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "Happenings",
+        "url": "https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155658,
+      "name": "Italian Horror",
+      "url": "https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98"
+    },
+    {
+      "album": {
         "name": "jamcod",
         "url": "https://open.spotify.com/album/5vIGXSK8CJfU136cXYtziM"
       },
@@ -1990,7 +2062,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 336218,
       "name": "Just Another Rainbow",
       "url": "https://open.spotify.com/track/2xE7912IhBp4poxLjOS6WJ"
@@ -2260,7 +2332,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 255440,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/2gxeIxrZIGCnzFGxg39Yrh"
@@ -2714,7 +2786,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 275492,
       "name": "on & on",
       "url": "https://open.spotify.com/track/0506x1pgaOUdCHl7pMVs3Z"
@@ -3926,7 +3998,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 145841,
       "name": "Time",
       "url": "https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8"

@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 251933,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7vSx1uzjLF2elseUEFDDgu"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 243529,
       "name": "Cannonball - Will Sparks Remix",
       "url": "https://open.spotify.com/track/4wRKAezWo1oLA0g2fw0XE9"
@@ -2190,7 +2190,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 184761,
       "name": "Drop That Low (Tujamo's Secret Weapon 2022)",
       "url": "https://open.spotify.com/track/0AukI6rH3HqIbVcKX8FjNk"
@@ -2746,7 +2746,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 159777,
       "name": "Flight 643 - KAAZE Remix",
       "url": "https://open.spotify.com/track/7eV5PavCAxbKD026Xc1GYk"
@@ -3504,7 +3504,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 183555,
       "name": "He's A Pirate",
       "url": "https://open.spotify.com/track/45kPbDRRY5kWe8p6OO2YvM"
@@ -3570,7 +3570,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 165000,
       "name": "Heaven Is A Place On Earth",
       "url": "https://open.spotify.com/track/6FAmtZoa7jq6bH9GBjCRkM"
@@ -3808,7 +3808,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 198805,
       "name": "I Wanna Dance",
       "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
@@ -4418,7 +4418,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 176250,
       "name": "Let Me Be Your Fantasy",
       "url": "https://open.spotify.com/track/4fGOsBz3c3d3CXAmc1kLob"
@@ -4904,7 +4904,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 167261,
       "name": "Mas Que Nada (with Marnik)",
       "url": "https://open.spotify.com/track/1BNawYa1bUgOfRSSyQQzNe"
@@ -5228,6 +5228,32 @@
       "duration_ms": 199111,
       "name": "MOLLY (Will Sparks Remix)",
       "url": "https://open.spotify.com/track/6NHiXIDWuFMYNWza24rk9y"
+    },
+    {
+      "album": {
+        "name": "MONEY ON THE DASH (Armin van Buuren Remix)",
+        "url": "https://open.spotify.com/album/6iX8QGLkFvYsU48BkOStVP"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139034,
+      "name": "MONEY ON THE DASH - Armin van Buuren Remix",
+      "url": "https://open.spotify.com/track/4JikZDJOw5YICLoqTWn9pX"
     },
     {
       "album": {
@@ -5646,7 +5672,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 141562,
       "name": "No Good",
       "url": "https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN"
@@ -5766,7 +5792,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 189374,
       "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
       "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
@@ -7308,7 +7334,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 161142,
       "name": "Rush",
       "url": "https://open.spotify.com/track/5X9TtQKz6VmMo6QDFcYLEn"
@@ -7378,7 +7404,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 205379,
       "name": "Sandstorm",
       "url": "https://open.spotify.com/track/2IkFYu5yQsH0eIt8vIk5To"
@@ -7604,7 +7630,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 122578,
       "name": "Shockwave (with Afrojack)",
       "url": "https://open.spotify.com/track/4bOVDHj19JdKriaDQu41wD"
@@ -8321,6 +8347,24 @@
     },
     {
       "album": {
+        "name": "Tamara",
+        "url": "https://open.spotify.com/album/1Lsqnc5hGVO25f0DPh8PgD"
+      },
+      "artists": [
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206068,
+      "name": "Tamara",
+      "url": "https://open.spotify.com/track/0iXHcWtw4npb2FPf6Gh5js"
+    },
+    {
+      "album": {
         "name": "TARAKA (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/6busnvOpzGXyFGe7hJXMa3"
       },
@@ -8442,7 +8486,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-05",
       "duration_ms": 171428,
       "name": "Tell Me Why - MEDUZA Remix",
       "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
@@ -8602,7 +8646,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 171006,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"
@@ -9369,6 +9413,36 @@
     },
     {
       "album": {
+        "name": "Urban Shakedown (nilsix Remix)",
+        "url": "https://open.spotify.com/album/6icaGxc1vJVCwa4QGWwPmb"
+      },
+      "artists": [
+        {
+          "name": "Mark Sixma",
+          "url": "https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm"
+        },
+        {
+          "name": "Orjan Nilsen",
+          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
+        },
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        },
+        {
+          "name": "nilsix",
+          "url": "https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176525,
+      "name": "Urban Shakedown - nilsix Remix",
+      "url": "https://open.spotify.com/track/25V41Kqa2zq3brpwY1TvdF"
+    },
+    {
+      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/2dhuBvJE1DM0jWeUraTceH"
       },
@@ -9852,6 +9926,36 @@
       "duration_ms": 195562,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/4sXrwNmYfg5x5CCfKpxYiO"
+    },
+    {
+      "album": {
+        "name": "ZENLESS",
+        "url": "https://open.spotify.com/album/5ItApQpFnG9fDaZpUgbYzu"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        },
+        {
+          "name": "S\u0101n-Z",
+          "url": "https://open.spotify.com/artist/4Ep9NXSZDTJzz6BIv24p5x"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144374,
+      "name": "ZENLESS",
+      "url": "https://open.spotify.com/track/2GW2qcpzaRrErv4Nd8NSCH"
     },
     {
       "album": {

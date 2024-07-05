@@ -1,12 +1,12 @@
 {
   "description": "This Is Herencia de Patrones. Los temas esenciales, todos en una lista.",
-  "num_followers": 121966,
+  "num_followers": 122027,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoNDAAAAAABm6Jmhk9WjOSoOd/s51N7D",
+  "snapshot_id": "ZoSUgAAAAADZpH6QDbX5PovAlx1l4oDc",
   "tracks": [
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 268527,
-      "name": "Fabi",
-      "url": "https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9"
+      "duration_ms": 222819,
+      "name": "Coraz\u00f3n Cromado",
+      "url": "https://open.spotify.com/track/0gBImi8U4Ut1DOG5hZmmRz"
     },
     {
       "added_at": null,
@@ -788,29 +788,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 222819,
-      "name": "Coraz\u00f3n Cromado",
-      "url": "https://open.spotify.com/track/0gBImi8U4Ut1DOG5hZmmRz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Es Casualidad",
-        "url": "https://open.spotify.com/album/0Tl4y30AejX8M4gERMahsg"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 162531,
-      "name": "No Es Casualidad",
-      "url": "https://open.spotify.com/track/2XbojtQDggjVsEGkB5pUye"
+      "duration_ms": 268527,
+      "name": "Fabi",
+      "url": "https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9"
     },
     {
       "added_at": null,
@@ -855,22 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "99 Problemas",
-        "url": "https://open.spotify.com/album/2d5jDHiiFvFnxLO3pFVpeA"
+        "name": "No Es Casualidad",
+        "url": "https://open.spotify.com/album/0Tl4y30AejX8M4gERMahsg"
       },
       "artists": [
         {
-          "name": "Los Del Puerto",
-          "url": "https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e"
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
         },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 192718,
-      "name": "99 Problemas",
-      "url": "https://open.spotify.com/track/6Td09iZqppMRhWaCCJiplg"
+      "duration_ms": 162531,
+      "name": "No Es Casualidad",
+      "url": "https://open.spotify.com/track/2XbojtQDggjVsEGkB5pUye"
     },
     {
       "added_at": null,
@@ -887,6 +867,26 @@
       "duration_ms": 220752,
       "name": "Crimes",
       "url": "https://open.spotify.com/track/73FEbxI3YxlVzN1rkkbcxe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "99 Problemas",
+        "url": "https://open.spotify.com/album/2d5jDHiiFvFnxLO3pFVpeA"
+      },
+      "artists": [
+        {
+          "name": "Los Del Puerto",
+          "url": "https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 192718,
+      "name": "99 Problemas",
+      "url": "https://open.spotify.com/track/6Td09iZqppMRhWaCCJiplg"
     },
     {
       "added_at": null,

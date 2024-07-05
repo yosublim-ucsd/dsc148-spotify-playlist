@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,117,940 likes - 198 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,118,073 likes - 198 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 26 | [Twilight's Fires](https://open.spotify.com/track/42oCqSWKMxVnBZlJqm5YZU) | [The Red Army Choir](https://open.spotify.com/artist/4yNluGAiPbYXLwlA9KspbG) | [The CCCP Years](https://open.spotify.com/album/0VxATEaN6KiKbszFYcrPyB) | 3:19 |
 | 27 | [Up Around The Bend](https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:41 |
 | 28 | [Fine Time](https://open.spotify.com/track/0hePnybCyyhHn97nRWLgp5) | [Free Beer](https://open.spotify.com/artist/1EwicW2et3B7nOzkOmKaIT) | [Free Beer® \- Best](https://open.spotify.com/album/2yATWjO3BytnvQ1Xd0hzhL) | 3:11 |
-| 29 | [B.g.’s One Eye](https://open.spotify.com/track/1V3CJZwyzkDw0QBZY8C0ns) | [The Nuchez's](https://open.spotify.com/artist/5juac9B6Ytvkp5a5s12muD) | [Chocolate Soup for Diabetics, Vol\. 1](https://open.spotify.com/album/4H3Y4L9NS0OTKHFGI5cNnc) | 2:12 |
+| 29 | [B.G.’s One Eye](https://open.spotify.com/track/1V3CJZwyzkDw0QBZY8C0ns) | [The Nuchez's](https://open.spotify.com/artist/5juac9B6Ytvkp5a5s12muD) | [Chocolate Soup for Diabetics, Vol\. 1](https://open.spotify.com/album/4H3Y4L9NS0OTKHFGI5cNnc) | 2:12 |
 | 30 | [40 Miles Bad Road](https://open.spotify.com/track/1SzKu64YLIUqbIVDHyDWOx) | [The Lively Ones](https://open.spotify.com/artist/63T2P0nIRzAj4rCSwnSC8J) | [Surf Drums](https://open.spotify.com/album/0pmft5pJtKhZaJxE1Bg9mp) | 3:02 |
 | 31 | [Fields of Coral](https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 7:43 |
 | 32 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 |

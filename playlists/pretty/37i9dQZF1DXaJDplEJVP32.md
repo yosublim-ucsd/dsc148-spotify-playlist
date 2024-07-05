@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain](/playlists/plain/37i9dQZF1DXaJDplEJVP32) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaJDplEJVP32)
 
-### [Top Christian presents..\. Best Christian & Gospel Songs of the 2010s](https://open.spotify.com/playlist/37i9dQZF1DXaJDplEJVP32)
+### [2010s Christian & Gospel](https://open.spotify.com/playlist/37i9dQZF1DXaJDplEJVP32)
 
-> Spotify music editors' choice for the best Christian & Gospel songs of the past decade\. Cover: Lauren Daigle
+> Spotify music editors' choice for the best Christian & Gospel songs of 2010s\. Cover: <a href="spotify:artist:40LHVA5BTQp9RxHOQ9JPYj">Lauren Daigle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,786 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,811 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain]
 | 99 | [Even If](https://open.spotify.com/track/787cootcZRw5Xr47Of97AN) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 4:15 |
 | 100 | [Broken Vessels \(Amazing Grace\) \- Live](https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [No Other Name \(Deluxe Edition/Live\)](https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP) | 9:28 |
 
-Snapshot ID: `ZIxUEwAAAADA0OGYVb+Z1W6F2eG8e2bH`
+Snapshot ID: `ZocIjAAAAAC9HPzY82c37cOYETLr3vpE`
