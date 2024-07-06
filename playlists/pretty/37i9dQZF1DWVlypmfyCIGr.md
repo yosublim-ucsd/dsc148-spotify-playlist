@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: チョーキューメイ
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,861 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,870 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [コンプレックス・コンプ](https://open.spotify.com/track/2Almeewk3Jk8q2c5Wwkz5v) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [銀河ムチェック](https://open.spotify.com/album/5SnaZk72TkjTWT2TOSDppK) | 3:08 |
-| 2 | [DAY DREAM](https://open.spotify.com/track/7gQxMaIFRGPzWPbfy03WT1) | [CHIANZ](https://open.spotify.com/artist/131DUTfKAyi7NWTRfnnxxX) | [OGYA](https://open.spotify.com/album/5bDnfyR79LFRZ4dl8JH4zA) | 3:07 |
+| 2 | [DAYDREAM](https://open.spotify.com/track/7gQxMaIFRGPzWPbfy03WT1) | [CHIANZ](https://open.spotify.com/artist/131DUTfKAyi7NWTRfnnxxX) | [OGYA](https://open.spotify.com/album/5bDnfyR79LFRZ4dl8JH4zA) | 3:07 |
 | 3 | [イケナイフタリ](https://open.spotify.com/track/3WNo5ns3LuSWjE69Q09Dax) | [Nagie Lane](https://open.spotify.com/artist/1NSPGP2G2k6pZFFZERvOwC) | [イケナイフタリ](https://open.spotify.com/album/2XzLFZXG4itYRUYXUco0ly) | 3:25 |
 | 4 | [ユウウツダンスフロア](https://open.spotify.com/track/7D5dqcUsxrZfhohlbfLqbt) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [ユウウツダンスフロア](https://open.spotify.com/album/2KoBA4KkzTdsy6kZr2dKq6) | 2:19 |
 | 5 | [グレーハートハッカー](https://open.spotify.com/track/5lqF1P9zfBN8ebVzHTWm81) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [グレーハートハッカー](https://open.spotify.com/album/1SO2oBHLqK5Zjl6UnsM2vT) | 4:17 |

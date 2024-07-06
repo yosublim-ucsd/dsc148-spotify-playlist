@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-19",
-  "description": "Monster Hiphop anthems to unlock your day. Tracks from Offset & Gunna, Mustard & Travis Scott, Eminem, Megan Thee Stallion, Kendrick Lamar and more",
+  "description": "Monster Hiphop anthems to unlock your day. Tracks from AJ Tracey, Offset & Gunna, Mustard & Travis Scott, Eminem, Kendrick Lamar and more",
   "name": "JumpOff",
   "tracks": [
     {
@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "Bubble Bath",
+        "url": "https://open.spotify.com/album/4Jgkh361Fjh0ScarMZtASS"
+      },
+      "artists": [
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131666,
+      "name": "Bubble Bath",
+      "url": "https://open.spotify.com/track/3bYJKHx28JSYDnCXbBXpY5"
+    },
+    {
+      "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
       },
@@ -786,7 +804,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 154960,
       "name": "Can't Come Back",
       "url": "https://open.spotify.com/track/4iB93144GBYUfBuNmIkoCX"
@@ -1010,7 +1028,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 194811,
       "name": "coMPRess",
       "url": "https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn"
@@ -2556,7 +2574,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 186268,
       "name": "JUDY (with Skilla Baby)",
       "url": "https://open.spotify.com/track/0XgbZ1n0M8FawSqTlhnW4x"
@@ -2614,6 +2632,24 @@
       "duration_ms": 162063,
       "name": "Kalesa na Leather",
       "url": "https://open.spotify.com/track/0YETEpBObtWQAAlrEBL5VK"
+    },
+    {
+      "album": {
+        "name": "KEHLANI",
+        "url": "https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122360,
+      "name": "KEHLANI",
+      "url": "https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT"
     },
     {
       "album": {
@@ -3528,7 +3564,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 169066,
       "name": "OKLOSER",
       "url": "https://open.spotify.com/track/3Vlt0DKYBK0h3Vf92nywhp"
@@ -4418,7 +4454,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 186796,
       "name": "Shame On You",
       "url": "https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2"
@@ -5217,6 +5253,32 @@
     },
     {
       "album": {
+        "name": "Tobey (feat. Big Sean and BabyTron)",
+        "url": "https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284892,
+      "name": "Tobey (feat. Big Sean and BabyTron)",
+      "url": "https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW"
+    },
+    {
+      "album": {
         "name": "Told Ya",
         "url": "https://open.spotify.com/album/6sPmFdZn1p92RnXJYamKtz"
       },
@@ -5424,6 +5486,32 @@
       "duration_ms": 267441,
       "name": "Umoroto",
       "url": "https://open.spotify.com/track/5wjD5yBTFfmSzfFdxfNAki"
+    },
+    {
+      "album": {
+        "name": "W odpowiednim miejscu (In the right place)",
+        "url": "https://open.spotify.com/album/4rqEGuTWzWQB8zlwSXbllq"
+      },
+      "artists": [
+        {
+          "name": "Oskar83",
+          "url": "https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172083,
+      "name": "W odpowiednim miejscu (In the right place)",
+      "url": "https://open.spotify.com/track/6UsczG6i7kak79V5FdYTgx"
     },
     {
       "album": {

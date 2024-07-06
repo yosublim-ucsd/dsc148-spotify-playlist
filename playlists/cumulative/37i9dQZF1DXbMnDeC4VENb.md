@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-263 songs - 14 hr 54 min
+265 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Complicado](https://open.spotify.com/track/5LxtXRqA2i3LBWdJiqE91O) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Complicado](https://open.spotify.com/album/5JOuCtRnFr7hM271TWk3YC) | 4:00 | 2022-05-25 |  |
 | [Confianza](https://open.spotify.com/track/4chzKVwJz3Dt0ryO3Vd9ue) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Inefable](https://open.spotify.com/album/5AcfM2EiLTrnFxQjpo7mxp) | 3:27 | 2022-05-25 |  |
 | [Confundido](https://open.spotify.com/track/27RuS7SkQmWvmrtzVVujIo) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Confundido](https://open.spotify.com/album/4bRYQKtGDLljfLWR7XHMve) | 4:36 | 2022-06-27 |  |
+| [Corazón Frío](https://open.spotify.com/track/6xCltTC8YJC4JYQCfCbvuy) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ) | [Corazón Frío](https://open.spotify.com/album/4V2Qhhq5WnanWILWxP1Nic) | 3:21 | 2024-07-05 |  |
 | [Cuatro Paredes](https://open.spotify.com/track/5YzYf1636ixpWoLYuQZ9O6) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Cuatro Paredes](https://open.spotify.com/album/2QUCFoOF9BiRyVE4SReMJ9) | 3:15 | 2022-05-25 | 2022-06-17 |
 | [De Madrugada](https://open.spotify.com/track/280QqgbMrLeMs6B80mIPG2) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Madrugada](https://open.spotify.com/album/1tWIyjJX38WxDiIgyySy4P) | 3:40 | 2022-05-25 | 2023-07-15 |
 | [De Ti Me Olvidé](https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [De Ti Me Olvidé](https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp) | 3:41 | 2022-05-25 | 2023-07-15 |
@@ -69,6 +70,7 @@
 | [Eclipse](https://open.spotify.com/track/0Zd7PSqNfM0NtAoVioKgno) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Noisedealer](https://open.spotify.com/artist/5vzROBva2YTrUeExbK8ixT) | [Eclipse](https://open.spotify.com/album/62WyrV9L2n76K7mUOqaPNX) | 2:49 | 2024-06-04 |  |
 | [El Hilo Rojo](https://open.spotify.com/track/7BiRQIc2CjUQ2HvER8y7fx) | [Bizor](https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7), [Bolishe One](https://open.spotify.com/artist/0xlPxX2JioH67ifjTQwQcA) | [Leche Bronca](https://open.spotify.com/album/5Jlh73cu1QTaSYJSrqAKeo) | 4:08 | 2024-06-04 |  |
 | [El Llorón](https://open.spotify.com/track/744Hf71vPD64vnPUIYyYjD) | [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC) | [El Llorón](https://open.spotify.com/album/2pDfl8RG9fMNEzLIV0mdTS) | 3:24 | 2023-07-07 | 2023-07-15 |
+| [El Último Tango](https://open.spotify.com/track/6pUeqmlV162GbTx76DbodN) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [El Último Tango](https://open.spotify.com/album/7uvZ0u4gg8xAm8b9lps07W) | 4:10 | 2024-07-05 |  |
 | [Ella es](https://open.spotify.com/track/1W3izj7yjPvRh6vZg5EZiR) | [Dani Machine](https://open.spotify.com/artist/6TeuImCe2URuzZG1GoETm3) | [Ella es](https://open.spotify.com/album/6vnbQXwWrfMaW5cCt256t3) | 3:01 | 2023-02-08 | 2023-07-29 |
 | [Ella Es](https://open.spotify.com/track/4wNwmejbGQkgk8qIsqWRqy) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Smoky](https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb) | [Ella Es](https://open.spotify.com/album/4FZHnZPGheiOd83ZGrTZ1P) | 3:49 | 2022-10-28 |  |
 | [Ella Lo Sabe](https://open.spotify.com/track/67QJixbJX8M7Z4iVz7TJpR) | [Solitario Mondragon](https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ) | [Ella Lo Sabe](https://open.spotify.com/album/7d2FJNpM4qaEg5fS5d9ulx) | 4:06 | 2024-01-19 |  |

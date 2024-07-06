@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de J Abdiel, Anuel AA, Blessd, iZaak y Pirlo.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Alnz G.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -6262,6 +6262,32 @@
       "duration_ms": 151587,
       "name": "e-mail",
       "url": "https://open.spotify.com/track/4XZvEK7CpqmBEBvZoEiwTl"
+    },
+    {
+      "album": {
+        "name": "Con Las Que Perreaba Tu Mam\u00e1",
+        "url": "https://open.spotify.com/album/3l18uuE92xAoSurhNZM21p"
+      },
+      "artists": [
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        },
+        {
+          "name": "Rey Pirin",
+          "url": "https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9"
+        },
+        {
+          "name": "Dj Esli",
+          "url": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177285,
+      "name": "Echando Pata Rmx",
+      "url": "https://open.spotify.com/track/4kfhXUNuqaoxaM3vfIHZEd"
     },
     {
       "album": {

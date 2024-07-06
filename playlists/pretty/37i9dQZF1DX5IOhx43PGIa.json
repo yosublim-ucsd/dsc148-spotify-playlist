@@ -1,6 +1,6 @@
 {
   "description": "Illuminating Asian artists everywhere.  Cover: Raveena.",
-  "num_followers": 286596,
+  "num_followers": 286594,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "apart of me",
-        "url": "https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2"
-      },
-      "artists": [
-        {
-          "name": "Takayoshi",
-          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
-        }
-      ],
-      "duration_ms": 76285,
-      "name": "apart of me",
-      "url": "https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "how can i pretend?",
         "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 132000,
       "name": "ur so pretty",
       "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "apart of me",
+        "url": "https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2"
+      },
+      "artists": [
+        {
+          "name": "Takayoshi",
+          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
+        }
+      ],
+      "duration_ms": 76285,
+      "name": "apart of me",
+      "url": "https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Sunny When I'm With You",
-        "url": "https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E"
-      },
-      "artists": [
-        {
-          "name": "Ysanygo",
-          "url": "https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ"
-        },
-        {
-          "name": "Purplecat",
-          "url": "https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Sunny When I'm With You",
-      "url": "https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5"
       },
@@ -1331,22 +1311,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "A Room Up In The Sky (feat. The Mar\u00edas)",
-        "url": "https://open.spotify.com/album/0S4c1T8qWm1ZnCUj9edQq2"
+        "name": "Sunny When I'm With You",
+        "url": "https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E"
       },
       "artists": [
         {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+          "name": "Ysanygo",
+          "url": "https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ"
         },
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Purplecat",
+          "url": "https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN"
         }
       ],
-      "duration_ms": 165525,
-      "name": "A Room Up In The Sky (feat. The Mar\u00edas)",
-      "url": "https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu"
+      "duration_ms": 180000,
+      "name": "Sunny When I'm With You",
+      "url": "https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1363,6 +1343,26 @@
       "duration_ms": 124553,
       "name": "flip phone",
       "url": "https://open.spotify.com/track/0jLYbfU5qwk4ivxrE4sZUi"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "A Room Up In The Sky (feat. The Mar\u00edas)",
+        "url": "https://open.spotify.com/album/0S4c1T8qWm1ZnCUj9edQq2"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 165525,
+      "name": "A Room Up In The Sky (feat. The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "love, k",
-        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
+        "name": "don't miss me too much",
+        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
       },
       "artists": [
         {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 151631,
-      "name": "If I Weren't Me",
-      "url": "https://open.spotify.com/track/0FAdft85l0fYbs8qHnMakf"
+      "duration_ms": 197474,
+      "name": "don't miss me too much",
+      "url": "https://open.spotify.com/track/3CpvvoudcR6LJtChWIOzTo"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1811,18 +1811,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "don't miss me too much",
-        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
+        "name": "love, k",
+        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
       },
       "artists": [
         {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
         }
       ],
-      "duration_ms": 197474,
-      "name": "don't miss me too much",
-      "url": "https://open.spotify.com/track/3CpvvoudcR6LJtChWIOzTo"
+      "duration_ms": 151631,
+      "name": "If I Weren't Me",
+      "url": "https://open.spotify.com/track/0FAdft85l0fYbs8qHnMakf"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "EAT / DIRT",
-        "url": "https://open.spotify.com/album/5sSHtc1O80DaV60NDKPnYu"
-      },
-      "artists": [
-        {
-          "name": "Zoe Ko",
-          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "EAT",
-      "url": "https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "moviestar",
         "url": "https://open.spotify.com/album/60Sla9POUkC3JtiMlPEOfW"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 138714,
       "name": "moviestar",
       "url": "https://open.spotify.com/track/4YO6SdPNChAqKLgiZvEnIc"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "EAT / DIRT",
+        "url": "https://open.spotify.com/album/5sSHtc1O80DaV60NDKPnYu"
+      },
+      "artists": [
+        {
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "EAT",
+      "url": "https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "love letters to u (EP)",
-        "url": "https://open.spotify.com/album/4F1W1gMngOB4UhVF0ykpox"
-      },
-      "artists": [
-        {
-          "name": "Takayoshi",
-          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
-        }
-      ],
-      "duration_ms": 157377,
-      "name": "love of my life",
-      "url": "https://open.spotify.com/track/2ooHvit2WOf9PmptyEWfY4"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Giggles",
         "url": "https://open.spotify.com/album/38nM2l54T2K0sr7OJAoffP"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 199136,
       "name": "Shower Song",
       "url": "https://open.spotify.com/track/345fxKqJCqWeQk5kuc7eKs"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "love letters to u (EP)",
+        "url": "https://open.spotify.com/album/4F1W1gMngOB4UhVF0ykpox"
+      },
+      "artists": [
+        {
+          "name": "Takayoshi",
+          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
+        }
+      ],
+      "duration_ms": 157377,
+      "name": "love of my life",
+      "url": "https://open.spotify.com/track/2ooHvit2WOf9PmptyEWfY4"
     },
     {
       "added_at": "2024-06-28 04:00:00",

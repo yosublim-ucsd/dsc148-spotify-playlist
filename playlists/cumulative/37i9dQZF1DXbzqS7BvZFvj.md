@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Quavo, Lana Del Rey
 
-719 songs - 1 day 12 hr 31 min
+720 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,6 +588,7 @@
 | [SPLIT](https://open.spotify.com/track/2IfF66ZKFHsyoqBI1llkyx) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [SPLIT](https://open.spotify.com/album/0cjjgDrwEWPxrc5GyqNhZz) | 3:13 | 2024-04-25 |  |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-02 | 2023-07-01 |
 | [SRT \(feat\. Slim Jxmmi\)](https://open.spotify.com/track/4tfUSfavhddmL6tmfjRdwc) | [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa), [Slim Jxmmi](https://open.spotify.com/artist/7EEiVZvj6RCEtVX2F2pyxu) | [S.H.O.T.T.A.](https://open.spotify.com/album/53BUO883zRxzLTHppZAc9P) | 2:21 | 2024-03-07 | 2024-03-29 |
+| [ss](https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 3:04 | 2024-07-04 |  |
 | [Star Stuff](https://open.spotify.com/track/2AiYu7b5GZiNfQhHzNjgUX) | [Seven Star](https://open.spotify.com/artist/1HjsUYkvMJPAfGDoBMF9DI), [Cloud Ni9e](https://open.spotify.com/artist/76uzoXrMnhKhxoo5y89rdJ) | [STARS IN JARS vol.1](https://open.spotify.com/album/3npEqsXxY8jrhyavsZc6LI) | 2:56 | 2024-02-08 | 2024-02-23 |
 | [Stars Out](https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Stars Out](https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H) | 1:47 | 2024-06-28 |  |
 | [Steppas](https://open.spotify.com/track/1NIYStZPXSEwxoeX28lK5e) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Steppas](https://open.spotify.com/album/5EFWc59llfnLab6hpjJBkX) | 3:21 | 2024-03-28 | 2024-04-11 |

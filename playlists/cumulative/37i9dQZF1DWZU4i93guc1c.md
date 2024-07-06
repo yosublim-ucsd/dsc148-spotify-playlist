@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Schmalgauzen
 
-80 songs - 4 hr 2 min
+81 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Автомагістралі](https://open.spotify.com/track/1TyGIDpK57pPdg6u9Zlg5j) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G), [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Автомагістралі](https://open.spotify.com/album/4Z38v7Ak824Riy62zQm1EQ) | 3:21 | 2024-06-27 |  |
 | [Айстри](https://open.spotify.com/track/1NiB0lmZ7KUnDspnZjYr5H) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [La Dame Blanche](https://open.spotify.com/album/5RGMLdor9nnZCQVRk11vZb) | 2:48 | 2024-06-27 |  |
 | [Брат Сестра](https://open.spotify.com/track/45yfszx0vwD36WBWD1HrPH) | [Схожа](https://open.spotify.com/artist/70MEj6TnbVEjYdKgE8ZRGC), [Марний](https://open.spotify.com/artist/4VnECM6avO6XogtNebPh0M) | [Брат Сестра](https://open.spotify.com/album/06PQehMV8qO6zBKzHB7XCD) | 4:25 | 2024-06-27 |  |
+| [Весна](https://open.spotify.com/track/4iaR3PBjWEV68xGJRkQPBV) | [Пиріг і Батіг](https://open.spotify.com/artist/72WPri6uCSfr6l9WdgZ2D6) | [Зелений](https://open.spotify.com/album/5kvB3QO1QL8cwceCw7LHGo) | 3:22 | 2024-06-27 |  |
 | [Відпусти](https://open.spotify.com/track/5IEHU7WIw059cVDCSnz8FX) | [Kadnay](https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ) | [Відпусти](https://open.spotify.com/album/3HV8gpFROgO6peVAfZVeOL) | 5:24 | 2024-06-27 |  |
 | [Голубочки \- prod\. by Jandy](https://open.spotify.com/track/0U0Km4b5cPsj7ofScTV5uR) | [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [Голубочки \(prod\. by Jandy\)](https://open.spotify.com/album/2oqyoH7Ap13kiaGiZ6QxLZ) | 2:46 | 2024-06-27 |  |
 | [Дай мені шанс](https://open.spotify.com/track/4OUNPYTUH6NxOn8H6jRWPc) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Чорний лебідь](https://open.spotify.com/album/52eVDoGR49BfRY64WG0QmQ) | 2:26 | 2024-06-27 |  |
@@ -60,7 +61,7 @@
 | [Серце в сейфі](https://open.spotify.com/track/2OcpUVKiexliVt10iHpO8W) | [ULIANA ROYCE](https://open.spotify.com/artist/4PZcy5sJnOBC85FxlsbzYh) | [Серце в сейфі](https://open.spotify.com/album/2t8pGpu78PppaR4Q7fLsjP) | 2:29 | 2024-06-27 |  |
 | [сирець](https://open.spotify.com/track/3ndRmk1CsIbsMDOIftIxIf) | [пропаща сила](https://open.spotify.com/artist/7qXRtbGyISPD8fUFhIqCyE) | [сирець](https://open.spotify.com/album/0YjnRcxiZPSB9Ldb0f1Kxz) | 4:06 | 2024-06-27 |  |
 | [Скрути мене](https://open.spotify.com/track/4ZUIe9dSfMNpYuhjOK86zm) | [LOVERA BREAUX](https://open.spotify.com/artist/71iXh9KV482p6lhyCZnaSa) | [Скрути мене](https://open.spotify.com/album/7AgI0CGYTttMFp2a0B8PyA) | 2:22 | 2024-06-27 |  |
-| [Слоу моушн](https://open.spotify.com/track/7jo2Jo9WX20nkMmtMoMWCP) | [Blooms Corda](https://open.spotify.com/artist/3mlUhGSEvqMhUNu7uWB9hA) | [Дощ іде, але сонце світить](https://open.spotify.com/album/0BpYqhHGVLZvXmgj8uw9dB) | 5:11 | 2024-06-27 |  |
+| [Слоу моушн](https://open.spotify.com/track/7jo2Jo9WX20nkMmtMoMWCP) | [Blooms Corda](https://open.spotify.com/artist/3mlUhGSEvqMhUNu7uWB9hA) | [Дощ іде, але сонце світить](https://open.spotify.com/album/0BpYqhHGVLZvXmgj8uw9dB) | 5:11 | 2024-06-27 | 2024-07-06 |
 | [Сльози](https://open.spotify.com/track/5hctfulHiPJxVCVJipKgoT) | [Sasha Chemerov](https://open.spotify.com/artist/6EkxNdVClS3VI3zVWbDch9) | [Сльози](https://open.spotify.com/album/5WwXxzhkEatEDwAAJoG6GW) | 3:39 | 2024-06-27 |  |
 | [сліди](https://open.spotify.com/track/5agHTSdfKI9jXYcyw0E7X7) | [хейтспіч](https://open.spotify.com/artist/2sdWfIbu9rLQ0p7MULuhxC), [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [сліди](https://open.spotify.com/album/5hvjdpKtcPSg7Gbo2tEy7k) | 3:33 | 2024-06-27 |  |
 | [СНИ](https://open.spotify.com/track/6pLnB6l1OcSFe0m2fgYmvu) | [vladislava melis](https://open.spotify.com/artist/2gEcWv6TRsyk1J7RGdWZnU) | [СНИ](https://open.spotify.com/album/0MKiTUrOtNHsV1XmXWT3xA) | 2:28 | 2024-06-27 |  |

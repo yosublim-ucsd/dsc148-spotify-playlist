@@ -1489,6 +1489,24 @@
     },
     {
       "album": {
+        "name": "Cool",
+        "url": "https://open.spotify.com/album/2o0LavVNrpftVIQReVS0G8"
+      },
+      "artists": [
+        {
+          "name": "GIU",
+          "url": "https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147855,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/2xakKayPIv4w0nSRVfdvES"
+    },
+    {
+      "album": {
         "name": "Crazy People (Victor Ruiz Remix)",
         "url": "https://open.spotify.com/album/6TyFYm26pb39Lms5kOnOac"
       },
@@ -2518,7 +2536,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 167619,
       "name": "Flute",
       "url": "https://open.spotify.com/track/2PA7dRQno5zcM65bocvu08"
@@ -2624,6 +2642,28 @@
       "duration_ms": 175803,
       "name": "For Life (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
+    },
+    {
+      "album": {
+        "name": "For The Beat",
+        "url": "https://open.spotify.com/album/5CoTB3OwwOqWg7tTUoC4aR"
+      },
+      "artists": [
+        {
+          "name": "Schillist",
+          "url": "https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d"
+        },
+        {
+          "name": "LEMON DROPS",
+          "url": "https://open.spotify.com/artist/50ANvd7tfvmNJf2JhcjguF"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "For The Beat",
+      "url": "https://open.spotify.com/track/3zuWoFhLtS3kcvEYffZUn2"
     },
     {
       "album": {
@@ -3966,7 +4006,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 103819,
       "name": "KRVSH!",
       "url": "https://open.spotify.com/track/1mVlzw3sHcyhMDFKwj2SEy"
@@ -4258,6 +4298,24 @@
       "duration_ms": 175664,
       "name": "Loca",
       "url": "https://open.spotify.com/track/3ww0kfsqNhowRhFX6X0OIl"
+    },
+    {
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/4pzCKG1YciF2PzrUKd9xNa"
+      },
+      "artists": [
+        {
+          "name": "Kiko Franco",
+          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181572,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/5XDLAp3ahcCEEifDSuU86Y"
     },
     {
       "album": {
@@ -6252,7 +6310,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 150869,
       "name": "Seek Love (On The Beach)",
       "url": "https://open.spotify.com/track/0vhxITfBNsA3nBPbu7lRhP"

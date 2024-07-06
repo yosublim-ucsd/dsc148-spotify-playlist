@@ -472,7 +472,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 131287,
       "name": "Decir Adi\u00f3s - En Vivo",
       "url": "https://open.spotify.com/track/3CBdi6o9Egg357jbpxBi60"
@@ -2928,6 +2928,28 @@
       "duration_ms": 298293,
       "name": "Vamos A Bailar",
       "url": "https://open.spotify.com/track/45w6jlCTU1PEIAlYZYNhtT"
+    },
+    {
+      "album": {
+        "name": "Artistas invitados, Pt. 3 (En Vivo)",
+        "url": "https://open.spotify.com/album/1zXO3nXZgTKRcxpAzPMcpk"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        },
+        {
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95108,
+      "name": "Vete - En Vivo",
+      "url": "https://open.spotify.com/track/5EkVGJzbtrFPoTpMIapgBu"
     },
     {
       "album": {

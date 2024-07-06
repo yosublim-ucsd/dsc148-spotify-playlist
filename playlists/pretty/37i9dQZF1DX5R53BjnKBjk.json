@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: dad\u00e1 Jo\u00e3ozinho / Arte: Isu Kim",
-  "num_followers": 19812,
+  "num_followers": 19816,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Embalo",
-        "url": "https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ"
-      },
-      "artists": [
-        {
-          "name": "TIRI",
-          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
-        }
-      ],
-      "duration_ms": 201231,
-      "name": "Embalo",
-      "url": "https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Quando Eu Falei Pra Ela",
         "url": "https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 183666,
       "name": "Quando Eu Falei Pra Ela",
       "url": "https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Embalo",
+        "url": "https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ"
+      },
+      "artists": [
+        {
+          "name": "TIRI",
+          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
+        }
+      ],
+      "duration_ms": 201231,
+      "name": "Embalo",
+      "url": "https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Mete o P\u00e9",
-        "url": "https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 142699,
-      "name": "Mete o P\u00e9",
-      "url": "https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "bem vi",
         "url": "https://open.spotify.com/album/7fMdliOcULUtShWJrBD25a"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 197297,
       "name": "bem vi",
       "url": "https://open.spotify.com/track/3RqLIFBLb0UUSMc7QgA3a7"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Mete o P\u00e9",
+        "url": "https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 142699,
+      "name": "Mete o P\u00e9",
+      "url": "https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "tudo que eu fa\u00e7o",
-        "url": "https://open.spotify.com/album/5fj9SAx9TZ6CwSSc8Tg219"
-      },
-      "artists": [
-        {
-          "name": "R\u00f4",
-          "url": "https://open.spotify.com/artist/0DuebGyOlpHONL8lMizMGQ"
-        }
-      ],
-      "duration_ms": 143766,
-      "name": "tudo que eu fa\u00e7o",
-      "url": "https://open.spotify.com/track/4RDOaLRGMorHJpAndOgWo3"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 230588,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "tudo que eu fa\u00e7o",
+        "url": "https://open.spotify.com/album/5fj9SAx9TZ6CwSSc8Tg219"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4",
+          "url": "https://open.spotify.com/artist/0DuebGyOlpHONL8lMizMGQ"
+        }
+      ],
+      "duration_ms": 143766,
+      "name": "tudo que eu fa\u00e7o",
+      "url": "https://open.spotify.com/track/4RDOaLRGMorHJpAndOgWo3"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Voc\u00ea Chegou na Hora Certa",
-        "url": "https://open.spotify.com/album/2S6JVRCJQ4Jlg7kesk8cln"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9lanie",
-          "url": "https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c"
-        }
-      ],
-      "duration_ms": 148484,
-      "name": "Voc\u00ea Chegou na Hora Certa",
-      "url": "https://open.spotify.com/track/7DgVZXIT4FxG49oHTGNTen"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Ideia Errada",
         "url": "https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 239360,
       "name": "Ideia Errada",
       "url": "https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Voc\u00ea Chegou na Hora Certa",
+        "url": "https://open.spotify.com/album/2S6JVRCJQ4Jlg7kesk8cln"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9lanie",
+          "url": "https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c"
+        }
+      ],
+      "duration_ms": 148484,
+      "name": "Voc\u00ea Chegou na Hora Certa",
+      "url": "https://open.spotify.com/track/7DgVZXIT4FxG49oHTGNTen"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Deixa Pra L\u00e1",
-        "url": "https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt"
-      },
-      "artists": [
-        {
-          "name": "Verdan",
-          "url": "https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "Deixa Pra L\u00e1",
-      "url": "https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Ma\u00e7\u00e3 do Amor",
         "url": "https://open.spotify.com/album/2b1X7WinJHgCeLO8LihyIa"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Surrender!",
-        "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
+        "name": "Deixa Pra L\u00e1",
+        "url": "https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt"
       },
       "artists": [
         {
-          "name": "Bemti",
-          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
+          "name": "Verdan",
+          "url": "https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y"
         }
       ],
-      "duration_ms": 189030,
-      "name": "Surrender!",
-      "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
+      "duration_ms": 152137,
+      "name": "Deixa Pra L\u00e1",
+      "url": "https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -955,18 +939,18 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Jacquemus",
-        "url": "https://open.spotify.com/album/7pL7EHos5wHLJPChNacH45"
+        "name": "Surrender!",
+        "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
       },
       "artists": [
         {
-          "name": "TOLENTINO",
-          "url": "https://open.spotify.com/artist/3PMuzPH1ybLdzHnZFumKLZ"
+          "name": "Bemti",
+          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
         }
       ],
-      "duration_ms": 153559,
-      "name": "Jacquemus",
-      "url": "https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6"
+      "duration_ms": 189030,
+      "name": "Surrender!",
+      "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -983,6 +967,22 @@
       "duration_ms": 176398,
       "name": "Me Liga",
       "url": "https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Jacquemus",
+        "url": "https://open.spotify.com/album/7pL7EHos5wHLJPChNacH45"
+      },
+      "artists": [
+        {
+          "name": "TOLENTINO",
+          "url": "https://open.spotify.com/artist/3PMuzPH1ybLdzHnZFumKLZ"
+        }
+      ],
+      "duration_ms": 153559,
+      "name": "Jacquemus",
+      "url": "https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Por um Fio",
-        "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
+        "name": "reluz",
+        "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
       },
       "artists": [
         {
-          "name": "Sulamericana",
-          "url": "https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ"
+          "name": "As\u00fa",
+          "url": "https://open.spotify.com/artist/33niI54BdTNsMN18d5lLM0"
         }
       ],
-      "duration_ms": 189271,
-      "name": "Por um Fio",
-      "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
+      "duration_ms": 193053,
+      "name": "reluz",
+      "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "reluz",
-        "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
+        "name": "Por um Fio",
+        "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
       },
       "artists": [
         {
-          "name": "As\u00fa",
-          "url": "https://open.spotify.com/artist/33niI54BdTNsMN18d5lLM0"
+          "name": "Sulamericana",
+          "url": "https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ"
         }
       ],
-      "duration_ms": 193053,
-      "name": "reluz",
-      "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
+      "duration_ms": 189271,
+      "name": "Por um Fio",
+      "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Cardeal",
-        "url": "https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3"
-      },
-      "artists": [
-        {
-          "name": "Unidade Nova Praia",
-          "url": "https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp"
-        }
-      ],
-      "duration_ms": 215251,
-      "name": "\u00c9 preciso Calma",
-      "url": "https://open.spotify.com/track/0INaEInPtDdJJSSENNS2VY"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Esquece",
         "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 178526,
       "name": "Esquece",
       "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Cardeal",
+        "url": "https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3"
+      },
+      "artists": [
+        {
+          "name": "Unidade Nova Praia",
+          "url": "https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp"
+        }
+      ],
+      "duration_ms": 215251,
+      "name": "\u00c9 preciso Calma",
+      "url": "https://open.spotify.com/track/0INaEInPtDdJJSSENNS2VY"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Amigo",
-        "url": "https://open.spotify.com/album/0G1eZMhQdujsdZ5RSQQBYc"
-      },
-      "artists": [
-        {
-          "name": "Junim",
-          "url": "https://open.spotify.com/artist/2VSSpNdBUOGmNkrBLATwft"
-        }
-      ],
-      "duration_ms": 155129,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/100MjqTU5I7U0qPvYbrWFA"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "facetime",
         "url": "https://open.spotify.com/album/6kZxUbWswaoQjvBevsLaTN"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 181197,
       "name": "perigo !!!",
       "url": "https://open.spotify.com/track/20I1YGkQ5DSBrPK2Xlgkb1"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Amigo",
+        "url": "https://open.spotify.com/album/0G1eZMhQdujsdZ5RSQQBYc"
+      },
+      "artists": [
+        {
+          "name": "Junim",
+          "url": "https://open.spotify.com/artist/2VSSpNdBUOGmNkrBLATwft"
+        }
+      ],
+      "duration_ms": 155129,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/100MjqTU5I7U0qPvYbrWFA"
     },
     {
       "added_at": "2024-05-22 08:00:00",

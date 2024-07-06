@@ -4,7 +4,7 @@
 
 > 
 
-724 songs - 1 day 10 hr 42 min
+725 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,6 +389,7 @@
 | [Me And My Bitch](https://open.spotify.com/track/1Kz0tgMRWsbLzEuzRaU1vP) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 3:05 | 2024-03-26 |  |
 | [Me N My Kup](https://open.spotify.com/track/0hhNTyH6RJJGItHeSMCof3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:54 | 2023-10-14 |  |
 | [Metro Spider \(with Young Thug\)](https://open.spotify.com/track/2VtgzixdB967bHDNu5A1nh) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 2:54 | 2024-05-02 |  |
+| [mewtwo](https://open.spotify.com/track/6xZYGIixR3zhhOHwu7UEMY) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 2:08 | 2024-07-05 |  |
 | [Mic Line](https://open.spotify.com/track/0pu6JO1sPqW1TxE0nQC080) | [Monsta Island Czars](https://open.spotify.com/artist/6cN2ZI3Rsi0K6SXANDlZvc), [King Ghidra](https://open.spotify.com/artist/21IYa0bMpDZiSFY9x0y02q) | [Escape from Monsta Island](https://open.spotify.com/album/2DPjykMKiZZrL6mKPHM4hX) | 3:13 | 2023-10-03 | 2024-03-05 |
 | [Milk \- 2021 Remaster](https://open.spotify.com/track/7Jq4cV3F5puQfUAxL4sHL8) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why \(2021 Remaster\)](https://open.spotify.com/album/0kmPn6M3cue7rec6Unw6BD) | 4:25 | 2024-04-30 |  |
 | [Millions](https://open.spotify.com/track/43YQDj1KOPMFAUcTEPKy4p) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [So Much Fun \(Deluxe\)](https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK) | 2:37 | 2023-11-29 |  |

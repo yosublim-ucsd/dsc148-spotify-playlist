@@ -1985,6 +1985,28 @@
     },
     {
       "album": {
+        "name": "Mogre",
+        "url": "https://open.spotify.com/album/7c5HUxOGSnBeyX9MGwCiD1"
+      },
+      "artists": [
+        {
+          "name": "Samuel Cosmic",
+          "url": "https://open.spotify.com/artist/53sw8R4uVMNDvNooBNETao"
+        },
+        {
+          "name": "Stevo Atambire",
+          "url": "https://open.spotify.com/artist/2j5WNJ2jh843iblwvnxmfn"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "Mogre",
+      "url": "https://open.spotify.com/track/0o2BUgkstqJoA6L8eebVqS"
+    },
+    {
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/4ddsZufWZXep03HuxtPJJG"
       },
@@ -3620,7 +3642,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 270583,
       "name": "Under The Strikes",
       "url": "https://open.spotify.com/track/767IdfyG4k7BIczG9HQ3dQ"

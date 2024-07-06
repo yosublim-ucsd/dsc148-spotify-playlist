@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 127626,
       "name": "American Music",
       "url": "https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g"
@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "With Monsters and Gods",
+        "url": "https://open.spotify.com/album/5ejGluFtTbkWyVTRY7LU5z"
+      },
+      "artists": [
+        {
+          "name": "The Hillbilly Moon Explosion",
+          "url": "https://open.spotify.com/artist/2osRW41mzIig6TuqQeNsJR"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128773,
+      "name": "Depression",
+      "url": "https://open.spotify.com/track/28vMuX0gRJMeIhGaW0cQPn"
+    },
+    {
+      "album": {
         "name": "Kim Lenz And Her Jaguars",
         "url": "https://open.spotify.com/album/1S8GKcUi2QMBDN6AtSZLOL"
       },
@@ -888,7 +906,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 197324,
       "name": "Don't Come Knocking on My Door",
       "url": "https://open.spotify.com/track/3yZL03V9NrrM6PnjK9WEqu"
@@ -942,7 +960,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 129052,
       "name": "Drugstore Rock'n'roll",
       "url": "https://open.spotify.com/track/2CSc9piC2paA385jhFIXcR"
@@ -960,7 +978,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 154680,
       "name": "Evelina",
       "url": "https://open.spotify.com/track/4Lz9MQ6Je5niOfsT6xLVKO"
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 157160,
       "name": "Far Too Far Away",
       "url": "https://open.spotify.com/track/26LN2TRg48VT6qKVo5O7Wt"
@@ -1147,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "Deluxe: Classics",
+        "url": "https://open.spotify.com/album/5lKeIecT4StO6RwzBCGqgP"
+      },
+      "artists": [
+        {
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Funnel of Love",
+      "url": "https://open.spotify.com/track/4hoF5V2AQPpzsXR9kqJ065"
+    },
+    {
+      "album": {
         "name": "Get Rhythm",
         "url": "https://open.spotify.com/album/0cQCTZVaKrSV8tHh6FECLN"
       },
@@ -1184,6 +1220,24 @@
       "duration_ms": 132970,
       "name": "Get Rhythm",
       "url": "https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk"
+    },
+    {
+      "album": {
+        "name": "From The Hip",
+        "url": "https://open.spotify.com/album/1HmxDGxp5ukkGqr2iYdmaP"
+      },
+      "artists": [
+        {
+          "name": "Josie Cotton",
+          "url": "https://open.spotify.com/artist/3cLCoFmTc8zHOP26agi4dC"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154853,
+      "name": "Gina",
+      "url": "https://open.spotify.com/track/4RApbu33Qq7IW3es3MCMTa"
     },
     {
       "album": {
@@ -1526,7 +1580,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 122506,
       "name": "Hot Rod Roadeo",
       "url": "https://open.spotify.com/track/5cWKBOUUemcjynxC5hS7yP"
@@ -1634,7 +1688,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 172140,
       "name": "I Need a Man",
       "url": "https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3"
@@ -1710,6 +1764,24 @@
       "duration_ms": 180372,
       "name": "Ideas of Love",
       "url": "https://open.spotify.com/track/2CroqpGLYfhN8Xpa4xMfRz"
+    },
+    {
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/5IyCgTYgXhCzNTfN3YMKTM"
+      },
+      "artists": [
+        {
+          "name": "Eva Eastwood",
+          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128767,
+      "name": "If Love Don't Work On You",
+      "url": "https://open.spotify.com/track/35JhHtM0bCboIkWHQnBsga"
     },
     {
       "album": {
@@ -1839,6 +1911,24 @@
     },
     {
       "album": {
+        "name": "Brenda Lee",
+        "url": "https://open.spotify.com/album/3DzEQCPg0Irz2vWUaBSEkm"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154840,
+      "name": "Let's Jump The Broomstick",
+      "url": "https://open.spotify.com/track/3gshcJd9xIITbbYAJeFEFg"
+    },
+    {
+      "album": {
         "name": "Lip Lickin' Lou",
         "url": "https://open.spotify.com/album/2vJyPunjsJLeTCV2WNDcn5"
       },
@@ -1850,7 +1940,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 125840,
       "name": "Lip Lickin' Lou",
       "url": "https://open.spotify.com/track/74hKkSJTY4Z6P6BRV1641u"
@@ -2301,6 +2391,24 @@
     },
     {
       "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/5NiVekCbovR7lfNoDX2YOQ"
+      },
+      "artists": [
+        {
+          "name": "Kim Lenz & Her Jaguars",
+          "url": "https://open.spotify.com/artist/2yG5isAT56JzRO1qpmmwnB"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138133,
+      "name": "Pay Dearly",
+      "url": "https://open.spotify.com/track/2WRMJxbNhFBuwI4eP6W1Su"
+    },
+    {
+      "album": {
         "name": "Debut Recordings",
         "url": "https://open.spotify.com/album/1dWl4T3dwulIxTFzJ2xaZO"
       },
@@ -2334,6 +2442,24 @@
       "duration_ms": 188739,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/11Kio5fnxAzzNLWTgTOla6"
+    },
+    {
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/15AyjB0TYLriPym8G87vLI"
+      },
+      "artists": [
+        {
+          "name": "The Rhythm Shakers",
+          "url": "https://open.spotify.com/artist/6mlUdYWiqDyrAVDHwddCkQ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144381,
+      "name": "Rather Be Alone",
+      "url": "https://open.spotify.com/track/5zAjGORs9r1VGXv9rrgCPw"
     },
     {
       "album": {
@@ -2456,7 +2582,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 149705,
       "name": "Red Hot",
       "url": "https://open.spotify.com/track/024xjVutLFgK3gInQCJxGj"
@@ -2733,6 +2859,24 @@
     },
     {
       "album": {
+        "name": "Rock Me",
+        "url": "https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156400,
+      "name": "Rock Me",
+      "url": "https://open.spotify.com/track/1jdWe6cIuo50wNo9jWCNLN"
+    },
+    {
+      "album": {
         "name": "Come On Roll",
         "url": "https://open.spotify.com/album/4IbYvsIRqmfWO5XxMEkvlJ"
       },
@@ -2798,7 +2942,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 200146,
       "name": "Rockabilly Blues (Texas 1955)",
       "url": "https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum"
@@ -2942,7 +3086,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 214400,
       "name": "Rocket to the Moon",
       "url": "https://open.spotify.com/track/7E1XmqVGR1GfAPa6LYEYM0"
@@ -3148,7 +3292,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 217853,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/1e1p5hTzbfLDDjumMOzl9w"
@@ -3184,7 +3328,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 165586,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/390RYJSKZVN9IHa9E9zB34"
@@ -3444,7 +3588,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 212066,
       "name": "We the Boys Will Rock Ya",
       "url": "https://open.spotify.com/track/5X0Bw8bVxSm274py1RyosM"
@@ -3613,6 +3757,24 @@
     },
     {
       "album": {
+        "name": "Kill Bill Vol. 1 Original Soundtrack (PA Version)",
+        "url": "https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ"
+      },
+      "artists": [
+        {
+          "name": "The 5.6.7.8's",
+          "url": "https://open.spotify.com/artist/5MZqcO35TJh5QXaFmvXmUy"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119386,
+      "name": "Woo Hoo",
+      "url": "https://open.spotify.com/track/6S9lcjREUTU4Yv5y7oMcv2"
+    },
+    {
+      "album": {
         "name": "Straight from the Heart",
         "url": "https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask"
       },
@@ -3642,7 +3804,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 151320,
       "name": "You Broke Another Heart",
       "url": "https://open.spotify.com/track/2aTgrEUkUqkQq2XOTiCoez"

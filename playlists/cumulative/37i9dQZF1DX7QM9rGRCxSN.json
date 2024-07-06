@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 283000,
       "name": "Boni Nait\u00f3",
       "url": "https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 277443,
       "name": "El Tiempo",
       "url": "https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC"
@@ -762,6 +762,24 @@
       "duration_ms": 180000,
       "name": "Figura de Cristal",
       "url": "https://open.spotify.com/track/4aZIaHfXGIcDFMCrGaEoFS"
+    },
+    {
+      "album": {
+        "name": "Fisura",
+        "url": "https://open.spotify.com/album/3HKsQOjzhSkn3UGKiVI01n"
+      },
+      "artists": [
+        {
+          "name": "Siniestra Pandora",
+          "url": "https://open.spotify.com/artist/1cuq3b3taULpho8MTTZD2U"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259051,
+      "name": "Fisura",
+      "url": "https://open.spotify.com/track/5EvlNMIsyGB53lQdcoaIAQ"
     },
     {
       "album": {
@@ -1008,6 +1026,28 @@
       "duration_ms": 190520,
       "name": "La Era de los Monstruos",
       "url": "https://open.spotify.com/track/3hjyxB7JF9RdLYbnxwoZ8O"
+    },
+    {
+      "album": {
+        "name": "La Luz (ALT TAKE)",
+        "url": "https://open.spotify.com/album/2ESAr0oJJgRDv8tVw5m7vP"
+      },
+      "artists": [
+        {
+          "name": "Bachata Mexican Combo",
+          "url": "https://open.spotify.com/artist/0CdBLcZNj9LFyBc0aJOqIb"
+        },
+        {
+          "name": "alessa de lara",
+          "url": "https://open.spotify.com/artist/1v6ADBBD7QnwAiEmp4KOnc"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172363,
+      "name": "La Luz - ALT TAKE",
+      "url": "https://open.spotify.com/track/2qtP19U5Z3QjQZvSvA6Odr"
     },
     {
       "album": {
@@ -1344,7 +1384,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 207435,
       "name": "m\u00e1s tiempo",
       "url": "https://open.spotify.com/track/0Z0CnfVm3VSHD9jtiemuRe"
@@ -1441,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Eleg\u00eda",
+        "url": "https://open.spotify.com/album/6EEkWd8f7a1zctFgoptqUj"
+      },
+      "artists": [
+        {
+          "name": "Siniestra Pandora",
+          "url": "https://open.spotify.com/artist/1cuq3b3taULpho8MTTZD2U"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227178,
+      "name": "Pagano",
+      "url": "https://open.spotify.com/track/0K8fmZNZFG2bCxamePeiFE"
+    },
+    {
+      "album": {
         "name": "paisaje",
         "url": "https://open.spotify.com/album/6GTbegYCgONoryeg5056Xx"
       },
@@ -1478,6 +1536,24 @@
       "duration_ms": 211109,
       "name": "para dormir",
       "url": "https://open.spotify.com/track/4NhiH1dK8eZBTGXRT3wRDQ"
+    },
+    {
+      "album": {
+        "name": "Para los P\u00e1jaros / Carlos",
+        "url": "https://open.spotify.com/album/6fwq1M7IulFPZ0lbn4BB5v"
+      },
+      "artists": [
+        {
+          "name": "Sanje",
+          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268640,
+      "name": "Para los P\u00e1jaros",
+      "url": "https://open.spotify.com/track/21i2D8lKOnfT7vOJx5D8z5"
     },
     {
       "album": {
@@ -1716,7 +1792,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 135083,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/7mrG4CWCjYiWWfSiYLdoxg"

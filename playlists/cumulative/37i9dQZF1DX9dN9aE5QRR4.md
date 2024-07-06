@@ -2,9 +2,9 @@
 
 ### [Nouvelle École](https://open.spotify.com/playlist/37i9dQZF1DX9dN9aE5QRR4)
 
-> La playlist officielle de l'émission Nouvelle École Saison  3, disponible sur Netflix.
+> La playlist officielle de l'émission Nouvelle École Saison 3, disponible sur Netflix.
 
-70 songs - 3 hr 22 min
+75 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,10 +18,12 @@
 | [Arrêt du cœur](https://open.spotify.com/track/2zvseOSbmKBuYBOe264UYm) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [R.A.S](https://open.spotify.com/album/2KMkCKYVdjmRLPqdWL3Ql8) | 4:23 | 2023-05-31 | 2024-07-05 |
 | [Au cas où je vais percer](https://open.spotify.com/track/58bhnwRZwCImxenUZJWvOQ) | [Josué](https://open.spotify.com/artist/4Bb3vJgKsgjMmxDEElLZ1Y) | [Confessions](https://open.spotify.com/album/43E6VSUTTVstLg60GF9z8k) | 2:28 | 2023-05-31 | 2024-07-05 |
 | [Autobahn](https://open.spotify.com/track/03o8WSqd2K5rkGvn9IsLy2) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Autobahn](https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII) | 2:50 | 2023-05-31 | 2024-07-05 |
+| [Avant\-goût \- Nouvelle École](https://open.spotify.com/track/5MXsJhqpma8RvMr98zMD7Q) | [Clara Charlotte](https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki) | [Nouvelle École \| Saison 3 \| Partie 1 \(Série Netflix\)](https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6) | 1:51 | 2024-07-05 |  |
 | [Baby Mama](https://open.spotify.com/track/5XD8dAkKVX2RwjYEjgGY9j) | [Yuz Boy](https://open.spotify.com/artist/0D02Za9zPwvLFkiRQoi6qH) | [Baby Mama](https://open.spotify.com/album/6onJiWfTJ5nYCg6B1ihMug) | 3:14 | 2023-05-31 | 2024-07-05 |
 | [BAGARRE \- Nouvelle École](https://open.spotify.com/track/4rgY6aiDHgEiRG6pZvfBPf) | [Arka](https://open.spotify.com/artist/3PnK1yG5p3O5dfK0m3oNRG), [Bayass](https://open.spotify.com/artist/0PT8CEHQdV4RtZfgpEdSgb), [LEDOS](https://open.spotify.com/artist/3YWUSYVX6bCnVZBaXEUwbH), [Rethno](https://open.spotify.com/artist/2buxXXrtBJJ480Nwmw95yp), [WarEnd](https://open.spotify.com/artist/0kf4yD8VtffGwtLpbienGR) | [BAGARRE \- Nouvelle École](https://open.spotify.com/album/10oTjqrL31dPKWJlZXfj3H) | 4:45 | 2023-05-31 | 2024-07-05 |
 | [Benze](https://open.spotify.com/track/3fwXNaxlslH41y3a47qela) | [Driss Sks](https://open.spotify.com/artist/2sbCB581cl6ZarOL5cU7t7) | [Benze](https://open.spotify.com/album/3w6eziQRJ2GqZEk1h03IKH) | 3:05 | 2023-05-31 | 2024-07-05 |
 | [Bolide allemand](https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 2:56 | 2024-07-04 |  |
+| [Ca tue l'temps \- Nouvelle École](https://open.spotify.com/track/11ezbmguurG9L3LKijWyj5) | [Kenz](https://open.spotify.com/artist/4VGM96ndosnexzrvC3gI2p) | [Nouvelle École \| Saison 3 \| Partie 1 \(Série Netflix\)](https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6) | 1:53 | 2024-07-05 |  |
 | [Ca y est ..\. J'suis là](https://open.spotify.com/track/2ZHu310HcSyHiZz2yz2z5A) | [Kenz](https://open.spotify.com/artist/4VGM96ndosnexzrvC3gI2p) | [Ca y est ..\. J'suis là](https://open.spotify.com/album/5hb8dkyicIx6bgMQHmqkMi) | 2:27 | 2024-07-04 |  |
 | [CARGO \(feat\. Tiakola\)](https://open.spotify.com/track/0chm8ReJ6d5O4RTDolJ68t) | [Mac Tyer](https://open.spotify.com/artist/1PTl9q5EaEZejVGts7MBLN), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA VIE DU TRIPLE OG](https://open.spotify.com/album/5du1qYrMbi78jEzaNf7NVj) | 3:18 | 2024-07-04 |  |
 | [Champs\-Élysées](https://open.spotify.com/track/3GA0XILGuMHjTTGcQtP7lu) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [A7](https://open.spotify.com/album/2VlYazP0xKrO9BxKe9wTZ4) | 3:45 | 2024-07-04 |  |
@@ -29,6 +31,7 @@
 | [Come On](https://open.spotify.com/track/557X9hpi0tWsrCeD1yneDe) | [ELSO](https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P) | [Come On](https://open.spotify.com/album/7MMUOLZJ2g9ph19pplEkSy) | 2:28 | 2023-05-31 | 2024-07-05 |
 | [Come On](https://open.spotify.com/track/6R6acFTljyYK1sww9BIcOo) | [ELSO](https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P) | [Come On](https://open.spotify.com/album/4TVGVePfkd6hndEEAQqfTU) | 2:28 | 2023-05-31 | 2024-04-19 |
 | [Coucou](https://open.spotify.com/track/3kiTnvHHKipoAwa40GTGGy) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Jour avant caviar](https://open.spotify.com/album/4PX1ZZFjRIhHG57nRSP4mF) | 2:41 | 2023-05-31 | 2024-07-05 |
+| [CRF \- Nouvelle École](https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [Nouvelle École \| Saison 3 \| Partie 1 \(Série Netflix\)](https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6) | 2:09 | 2024-07-05 |  |
 | [Crois\-moi \(feat\. Ninho\)](https://open.spotify.com/track/69I4Eynuxdj6LEmpvG56u6) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Architecte](https://open.spotify.com/album/0QOCs2S4yp3M47sNZGCUqY) | 3:03 | 2023-05-31 | 2024-07-05 |
 | [Célèbre](https://open.spotify.com/track/3hHXDKVOfeHdqNoj9oDr8n) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Frenetik](https://open.spotify.com/artist/71XOKoFKWFjlV91e2Z5r21) | [Célèbre](https://open.spotify.com/album/10XkYe39UD8iIiuP6c4WRS) | 2:56 | 2023-05-31 | 2024-07-05 |
 | [Daddy](https://open.spotify.com/track/1qG77EJYDIgxOTEsUZqNLx) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Daddy](https://open.spotify.com/album/7M3SEQCleBaVkwdlogqHbc) | 2:38 | 2024-07-04 |  |
@@ -70,7 +73,9 @@
 | [Pop $mok€](https://open.spotify.com/track/31qsklcu6f0djboRNvxltu) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [Pop $mok€](https://open.spotify.com/album/5SSq4E9asJsReNnd7IMp8P) | 2:00 | 2024-07-04 |  |
 | [Prequel](https://open.spotify.com/track/0y2JXGqNraYN2gbnSLguWk) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS Prequel : Giulio](https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS) | 3:30 | 2024-07-04 |  |
 | [S.A.D \(feat\. Josman\)](https://open.spotify.com/track/3NNawIkm2v7x971h8BIJdo) | [Oldpee](https://open.spotify.com/artist/6IxN9Jvo31OWIvYHJAeZlJ), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [S.A.D \(feat\. Josman\)](https://open.spotify.com/album/5jeTtd8qX77BCi0MvdJiF9) | 3:12 | 2023-05-31 | 2024-07-05 |
+| [Sarouel \- Nouvelle École](https://open.spotify.com/track/0eDP9XFJn7ghObMOpJcPH9) | [JYEUHAIR](https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn) | [Nouvelle École \| Saison 3 \| Partie 1 \(Série Netflix\)](https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6) | 1:56 | 2024-07-05 |  |
 | [Seule](https://open.spotify.com/track/5OLUrLvTptlqQoieD1LZWP) | [Leys](https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG) | [Seule](https://open.spotify.com/album/5IUFZeiYpy3b9qajjLGDNH) | 2:36 | 2023-05-31 | 2024-07-05 |
+| [Shifu \- Nouvelle École](https://open.spotify.com/track/4yPrfU3LhXRETMdX7DjN86) | [Damys](https://open.spotify.com/artist/486eivvjMrA8ZyjYzlie10) | [Nouvelle École \| Saison 3 \| Partie 1 \(Série Netflix\)](https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6) | 1:24 | 2024-07-05 |  |
 | [Sound System](https://open.spotify.com/track/5f7BIsnqxFCgt4KqWI8Twy) | [HoussBad](https://open.spotify.com/artist/3Bq4yBJeMX2uoNvUjBKJGf), [Yuz Boy](https://open.spotify.com/artist/0D02Za9zPwvLFkiRQoi6qH) | [GATE 67](https://open.spotify.com/album/3fhujrYvdJS2KTruswtYHr) | 2:51 | 2023-05-31 | 2024-07-05 |
 | [Soundcheck](https://open.spotify.com/track/1PfoqIN2zTEtcCRt9QUJyW) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [Soundcheck](https://open.spotify.com/album/5QV70k0oveL96v7UzDCBcM) | 2:09 | 2023-05-31 | 2023-06-29 |
 | [Temps en temps](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Temps en temps](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 | 2024-07-04 |  |

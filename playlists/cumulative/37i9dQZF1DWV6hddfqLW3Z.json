@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 170706,
       "name": "Amanheceu",
       "url": "https://open.spotify.com/track/2dnsqxCyWYslPCT6ajjUDI"
@@ -518,6 +518,24 @@
       "duration_ms": 254558,
       "name": "Calm\u00f4",
       "url": "https://open.spotify.com/track/5DHApowmRCAlCHRiLapAPh"
+    },
+    {
+      "album": {
+        "name": "Casa de Boneca",
+        "url": "https://open.spotify.com/album/2HKCooq58CYNbgVnVlZka2"
+      },
+      "artists": [
+        {
+          "name": "Nina Oliveira",
+          "url": "https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159230,
+      "name": "Casa de Boneca",
+      "url": "https://open.spotify.com/track/4RD4FUbGQqHE8nMnv3inYJ"
     },
     {
       "album": {
@@ -980,6 +998,24 @@
       "duration_ms": 217573,
       "name": "Flor da Pele",
       "url": "https://open.spotify.com/track/4Y1lcFT9McR3GcLWXdNGPi"
+    },
+    {
+      "album": {
+        "name": "Gabriela - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1epPdl89RfrtujzRW2MSug"
+      },
+      "artists": [
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253732,
+      "name": "Gabriela - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6c4TZcp1po2GH7ZJz3Jkf3"
     },
     {
       "album": {
@@ -1458,7 +1494,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 182757,
       "name": "Neste Contexto",
       "url": "https://open.spotify.com/track/4WS6S4uWBa4WLsRSvdqGrL"
@@ -2200,7 +2236,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 236535,
       "name": "Rio Dentro do Mar",
       "url": "https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT"
@@ -2768,6 +2804,24 @@
       "duration_ms": 273727,
       "name": "Vilarejo - Ao Vivo",
       "url": "https://open.spotify.com/track/3E3jroGWmeblwYhW6YJvoK"
+    },
+    {
+      "album": {
+        "name": "Garoa",
+        "url": "https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Voa",
+      "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"
     },
     {
       "album": {

@@ -1571,6 +1571,28 @@
     },
     {
       "album": {
+        "name": "Thalakeezhai",
+        "url": "https://open.spotify.com/album/2U2ZVcOxcgwF6hDzcxFQwG"
+      },
+      "artists": [
+        {
+          "name": "Jerard Felix",
+          "url": "https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Thalakeezhai",
+      "url": "https://open.spotify.com/track/349EqVyKRJaTmhSENFxu4v"
+    },
+    {
+      "album": {
         "name": "Maze in Idhayam",
         "url": "https://open.spotify.com/album/4zBa7qnn1jBEfpY7bm6uNT"
       },

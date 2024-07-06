@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
+    },
+    {
+      "album": {
         "name": "3D Country",
         "url": "https://open.spotify.com/album/3453dOJZDbTPog3TyLklI4"
       },
@@ -2922,7 +2940,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 221302,
       "name": "Dooley's Farm (feat. Billy Strings)",
       "url": "https://open.spotify.com/track/6zy5mComj7NwXGSBQ9VVEd"
@@ -3006,6 +3024,24 @@
       "duration_ms": 215449,
       "name": "Driver 8",
       "url": "https://open.spotify.com/track/3Etjw7DBhlX24sntsKNnBW"
+    },
+    {
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/5Y8hv9mXolK9hQej1MOlwF"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288121,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/22AYv6oubrOclu24nNux0M"
     },
     {
       "album": {
@@ -4688,6 +4724,24 @@
       "duration_ms": 176915,
       "name": "Heart is the Hero",
       "url": "https://open.spotify.com/track/4ZufgwcvuH5BLMOmOVPQy8"
+    },
+    {
+      "album": {
+        "name": "Heart Like This",
+        "url": "https://open.spotify.com/album/0BtVB8PHNQb9HC0wfJbpN9"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198693,
+      "name": "Heart Like This",
+      "url": "https://open.spotify.com/track/73KQhe6foBjiEspdYRap0I"
     },
     {
       "album": {
@@ -8570,7 +8624,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 180152,
       "name": "Purple Gas",
       "url": "https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx"
@@ -12306,7 +12360,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 232917,
       "name": "Wondering Why",
       "url": "https://open.spotify.com/track/158mZIMC4X58ZJK4fJfH1b"

@@ -1699,6 +1699,28 @@
     },
     {
       "album": {
+        "name": "Bulgari",
+        "url": "https://open.spotify.com/album/1oo9IZ9OZVD8iqbERtQKxN"
+      },
+      "artists": [
+        {
+          "name": "La Bruja en el Beat",
+          "url": "https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34"
+        },
+        {
+          "name": "Tus",
+          "url": "https://open.spotify.com/artist/2nIUyFPGvJ6Wuj10rNowq5"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189767,
+      "name": "Bulgari",
+      "url": "https://open.spotify.com/track/1y7x4qStqQmSaGFDGPEmuE"
+    },
+    {
+      "album": {
         "name": "Bullshit",
         "url": "https://open.spotify.com/album/5k6550GWuoG6o2UCqA9W5w"
       },
@@ -2158,7 +2180,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 203994,
       "name": "Charic",
       "url": "https://open.spotify.com/track/5hDWlCSRBsoI5Xb3C4DbAq"
@@ -2737,6 +2759,28 @@
     },
     {
       "album": {
+        "name": "Triste Y Linda: Linda",
+        "url": "https://open.spotify.com/album/5CALTCDnmh9SAj1lx8VlHH"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185081,
+      "name": "Culito",
+      "url": "https://open.spotify.com/track/6qBUklJgQu1YtJ3Ermu57V"
+    },
+    {
+      "album": {
         "name": "Cumbia Castrosa",
         "url": "https://open.spotify.com/album/0ZlNlIgcLPYQZyiAJwAcwf"
       },
@@ -3244,7 +3288,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 259312,
       "name": "Dependiente",
       "url": "https://open.spotify.com/track/3dx81Srvs1e34kiIA9bWrD"
@@ -3942,6 +3986,32 @@
       "duration_ms": 171428,
       "name": "El Trono Del Rap",
       "url": "https://open.spotify.com/track/3sxlEWTe3Dr5Kx9rQlUwCP"
+    },
+    {
+      "album": {
+        "name": "El \u00daltimo Tango",
+        "url": "https://open.spotify.com/album/7uvZ0u4gg8xAm8b9lps07W"
+      },
+      "artists": [
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250382,
+      "name": "El \u00daltimo Tango",
+      "url": "https://open.spotify.com/track/6pUeqmlV162GbTx76DbodN"
     },
     {
       "album": {
@@ -5940,7 +6010,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 167127,
       "name": "La Fuente",
       "url": "https://open.spotify.com/track/3ysOIJAqg29lkdRAKAelAZ"
@@ -7850,7 +7920,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 180000,
       "name": "Mientras Dorm\u00edas",
       "url": "https://open.spotify.com/track/13uMnjrM1uVDuHgAbEkgMc"
@@ -8822,7 +8892,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 181317,
       "name": "No Lo Sab\u00eda",
       "url": "https://open.spotify.com/track/53ElsLZ9pgLzvEv1nkeNii"
@@ -8896,7 +8966,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 152441,
       "name": "No Pidas Tanto",
       "url": "https://open.spotify.com/track/35AK8srOaFTQBnwN2RxQTJ"
@@ -9600,6 +9670,28 @@
       "duration_ms": 184326,
       "name": "Pan Comido (feat. Pollo 821)",
       "url": "https://open.spotify.com/track/4cEHSnAafQXqc2eDo1IYgf"
+    },
+    {
+      "album": {
+        "name": "Rap Garuya",
+        "url": "https://open.spotify.com/album/35V0U9At1mBK8CvgQiRBbC"
+      },
+      "artists": [
+        {
+          "name": "Solitario Soldado",
+          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
+        },
+        {
+          "name": "El sonido del javier",
+          "url": "https://open.spotify.com/artist/4uVbjrw33FZ26BdquXi36u"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166119,
+      "name": "Para Salvar Vidas",
+      "url": "https://open.spotify.com/track/6vL82sT8JgMdEZIUr80SK1"
     },
     {
       "album": {
@@ -11103,6 +11195,32 @@
     },
     {
       "album": {
+        "name": "Se Juega",
+        "url": "https://open.spotify.com/album/71aJR2rDTofWbm2CX0qkI7"
+      },
+      "artists": [
+        {
+          "name": "Komba",
+          "url": "https://open.spotify.com/artist/45GCCsbyU6F1K5qMciA4tc"
+        },
+        {
+          "name": "Thomas Parr",
+          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
+        },
+        {
+          "name": "Pocket Tincho",
+          "url": "https://open.spotify.com/artist/4s65hXCQfmaf39pGFlM387"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219422,
+      "name": "Se Juega",
+      "url": "https://open.spotify.com/track/79YIeUN59Tzz8qbAixInUs"
+    },
+    {
+      "album": {
         "name": "Secreto de Dos",
         "url": "https://open.spotify.com/album/4CiGeQYuRbwlSn1uzNWWOu"
       },
@@ -11272,7 +11390,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 155500,
       "name": "SHININ' (PISPO)",
       "url": "https://open.spotify.com/track/13GchKfm2oLMK17m0FAkIJ"

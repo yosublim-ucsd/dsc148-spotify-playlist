@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Rau\_Ze
 
-485 songs - 1 day 3 hr 59 min
+487 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Bad Behaviour \- Busty and the Bass Remix](https://open.spotify.com/track/7wEhnDrdSm7bUAl5g1jDX8) | [Blue Belly](https://open.spotify.com/artist/03bICu3gRRsxcnjEpG6u3g), [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Bad Behaviour \(Busty and the Bass Remix\)](https://open.spotify.com/album/1jeYjFGaJvNoC3VgrPdxKE) | 3:43 | 2022-03-25 | 2022-04-16 |
 | [Baleine et moi \(take 10\)](https://open.spotify.com/track/1qKGgaZnRL3dQxJqFWrWE9) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Baleine et moi \(take 10\) / Portrait d'une Marianne](https://open.spotify.com/album/5kx9LSIXnSrQCC8GYgxC4R) | 4:25 | 2022-11-21 | 2023-01-28 |
 | [Beau beam](https://open.spotify.com/track/6ua2eIv3IxLvuxPqYn9dFV) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Applaudissez, bande de chameaux](https://open.spotify.com/album/5iY1ENGgSyP7THcv1Zmgsl) | 3:05 | 2022-03-25 | 2022-10-22 |
+| [Besoin](https://open.spotify.com/track/5LiOvDRWNm9QAeIa9WuBT8) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Besoin](https://open.spotify.com/album/1hfiyR4GixCxvmmS3GoBrJ) | 2:18 | 2024-07-05 |  |
 | [BEZU](https://open.spotify.com/track/5Nvb6ZXeAoBDhXBlpDVNLK) | [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [BEZU](https://open.spotify.com/album/3hPUNBUJVZ6QLu29pMQ9FF) | 3:04 | 2023-01-20 | 2024-03-02 |
 | [Bicycle](https://open.spotify.com/track/3e5DYz9hSXkUyQyxT8eo8R) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Bicycle](https://open.spotify.com/album/7d7vmt2uwD7DRaA9p9U7dC) | 2:52 | 2022-10-21 | 2023-02-18 |
 | [Bigger Love](https://open.spotify.com/track/6BR7PRyiBy54vpa0pTksnw) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Bigger Love](https://open.spotify.com/album/5OfM4QCrtxxcMkAp8aFEtK) | 3:49 | 2022-04-29 | 2022-08-23 |
@@ -222,7 +223,7 @@
 | [Juillet](https://open.spotify.com/track/0rAmw31b9kQLSbOAF7ElaP) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Juillet](https://open.spotify.com/album/78WQi9nKw7KivHbgVwF61a) | 3:04 | 2023-01-06 | 2023-04-15 |
 | [Jump Cut](https://open.spotify.com/track/0jRBEROpKjbjhqqLol11NF) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Jump Cut](https://open.spotify.com/album/5T25MocYOo34A7pzzduOLS) | 3:53 | 2024-04-26 |  |
 | [Just Like](https://open.spotify.com/track/1deniAR9BR8JhNG1679O63) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [Just Like](https://open.spotify.com/album/0NoGvhRvcF0GaTwSHCm25Z) | 2:52 | 2024-03-29 |  |
-| [karoshi](https://open.spotify.com/track/3yqGndHj0cRlzX0neZ7dE7) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA), [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [karoshi](https://open.spotify.com/album/0kvlVr56tiWquP16l0rEAY) | 2:42 | 2023-11-10 |  |
+| [karoshi](https://open.spotify.com/track/3yqGndHj0cRlzX0neZ7dE7) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA), [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [karoshi](https://open.spotify.com/album/0kvlVr56tiWquP16l0rEAY) | 2:42 | 2023-11-10 | 2024-07-06 |
 | [Keep Hiding \(way back\)](https://open.spotify.com/track/24jKuK0iTLqc6Fbywv1pYu) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [Keep Hiding \(way back\)](https://open.spotify.com/album/68ra6iNQK40XmAW9TGh5XF) | 2:57 | 2022-10-14 | 2023-03-25 |
 | [Kiss Me on the Floor](https://open.spotify.com/track/5wIBA1lYaBIrycozAWCqyI) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Kiss Me on the Floor](https://open.spotify.com/album/4X7CbXtYH209XThPd3sdSr) | 2:54 | 2023-11-10 |  |
 | [L'Ami idéal](https://open.spotify.com/track/0QMtHqmvPe1URDTdsa3tGt) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [L'Ami idéal](https://open.spotify.com/album/5aGfT3NgFxOwGxumgvrapE) | 3:14 | 2023-11-17 | 2024-01-20 |
@@ -305,6 +306,7 @@
 | [Not Ideal](https://open.spotify.com/track/6WclB5qGbvCgcFH0MZ1EQy) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Not Ideal](https://open.spotify.com/album/11P1h67I1jUbh3ZXUy6uJc) | 3:23 | 2022-11-11 | 2024-01-06 |
 | [Nothing Left \(Lonely Song\)](https://open.spotify.com/track/3Fs8IAImTJ1Igtr8YDTeUO) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Nothing Left \(Lonely Song\)](https://open.spotify.com/album/43LrTSzFvVUX4fcZT4IeDP) | 3:27 | 2023-04-21 | 2024-06-22 |
 | [Nothing Less, Nothing More](https://open.spotify.com/track/6GYsooXBA2y4ICjPgCPE4k) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Run up River](https://open.spotify.com/album/3HXVfCJIxqcphgtwxSMvtd) | 4:19 | 2022-03-25 | 2022-04-16 |
+| [nowhere to be found](https://open.spotify.com/track/3kp4slLJYxaKUrQsKJqu8y) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA), [Erwan](https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH) | [nowhere to be found](https://open.spotify.com/album/7Md72T44krozhp9I3kk0Vb) | 4:24 | 2024-07-05 |  |
 | [Nue](https://open.spotify.com/track/1U4WYnIEBbwPxuLHwrves6) | [Paupière](https://open.spotify.com/artist/7tzLFQFi3BoEjtMMLztOwq) | [Sade Sati \(Deluxe\)](https://open.spotify.com/album/3PXo9tdk59o5O8VHJcrR6K) | 3:28 | 2023-09-15 | 2023-10-28 |
 | [Nue](https://open.spotify.com/track/7wI0SPXLQ7sUFfIJ7PkLxk) | [Paupière](https://open.spotify.com/artist/7tzLFQFi3BoEjtMMLztOwq) | [Sade Sati Deluxe](https://open.spotify.com/album/4tkmcZ4KlP5bSM64k5xFUf) | 3:28 | 2022-09-16 | 2023-09-16 |
 | [Nuit](https://open.spotify.com/track/6mz6BXD2buUl5f8dngL9DH) | [Emmanuelle Querry](https://open.spotify.com/artist/332bgqbid7rQBvqcuTObcI) | [Nuit](https://open.spotify.com/album/2I8svUiy9H9b4IIAZKfTtj) | 3:03 | 2022-04-08 | 2023-04-01 |
@@ -445,7 +447,7 @@
 | [Toune 1](https://open.spotify.com/track/3v1mSem8vZUTBJutzWOWXQ) | [Anatole](https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396) | [Toune 1](https://open.spotify.com/album/4up15itKNiWEDZYtmTcMof) | 4:17 | 2022-09-16 | 2022-10-29 |
 | [Toune 2](https://open.spotify.com/track/0McnGxQOn78rzxXZvuNfKe) | [Anatole](https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396) | [Toune 2](https://open.spotify.com/album/4D1iaqCVxIq7Za3dk2Gfiz) | 3:51 | 2022-05-27 | 2022-09-17 |
 | [Toune 9](https://open.spotify.com/track/6SIBHaXzFYw7NG98NnNbWL) | [Anatole](https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396) | [Alexandre Martel](https://open.spotify.com/album/12gDz8t5kwGaQtuWrwVEsH) | 4:18 | 2022-10-28 | 2023-03-18 |
-| [Tous les corps](https://open.spotify.com/track/6DJHBWHgjQrCmDK41k6aNQ) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Soif](https://open.spotify.com/album/1JMutIbqGGBgwDWDLr41SC) | 3:23 | 2023-05-12 |  |
+| [Tous les corps](https://open.spotify.com/track/6DJHBWHgjQrCmDK41k6aNQ) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Soif](https://open.spotify.com/album/1JMutIbqGGBgwDWDLr41SC) | 3:23 | 2023-05-12 | 2024-07-06 |
 | [Tout est parfait](https://open.spotify.com/track/0ZJKrCCgePFz5obWfJqHh7) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait](https://open.spotify.com/album/741zAnDJPbroIfVD2MrGvQ) | 3:07 | 2022-10-07 | 2023-01-06 |
 | [Tracer des lignes](https://open.spotify.com/track/37nelpJO6CHNhl9tOvuTDB) | [oui merci](https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr) | [Tracer des lignes](https://open.spotify.com/album/7xty3TrdI151JCmI6tO35v) | 3:09 | 2023-09-29 | 2024-04-06 |
 | [Tragique décès d'une âme sensible](https://open.spotify.com/track/0D831XchPdlfTwvaPQz6IL) | [Matt Moln](https://open.spotify.com/artist/7ANHFWaXJtG963OePSX29C) | [Tragique décès d'une âme sensible](https://open.spotify.com/album/3T2wv9f7sN7aDI7EtGvR2l) | 3:20 | 2024-03-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,277 likes - 99 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,321 likes - 99 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 41 | [PRELUDE](https://open.spotify.com/track/7Ab36lIzfV514EAWtjn8j6) | [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [PRELUDE](https://open.spotify.com/album/3Ty16jF85SL2KxP1kG5Dh7) | 2:17 |
 | 42 | [FULL EFFECT](https://open.spotify.com/track/3cW9VuItRwuHILeeCsCZeJ) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [FULL EFFECT](https://open.spotify.com/album/0hB81fE583hZGbJ1V18cv9) | 2:15 |
 | 43 | [Spoiled Dogs, Sleeping Belly Up](https://open.spotify.com/track/6KqheHUHGIRKze9HBBAj3u) | [Warlord Colossus](https://open.spotify.com/artist/5gYimn2wODaiKOTFJlzVnn) | [Spoiled Dogs, Sleeping Belly Up](https://open.spotify.com/album/7nIcjGtTgPKGjN8FBcQS2l) | 2:23 |
-| 44 | [brand of sacrifice](https://open.spotify.com/track/751LChVLJ1vWrijD6zb2tw) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [brand of sacrifice](https://open.spotify.com/album/1thedlMFT9GxcNjdV1AVBV) | 2:30 |
+| 44 | [brand of sacrifice](https://open.spotify.com/track/751LChVLJ1vWrijD6zb2tw) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [brand of sacrifice](https://open.spotify.com/album/1thedlMFT9GxcNjdV1AVBV) | 2:30 |
 | 45 | [Scars](https://open.spotify.com/track/13xFz6KanQ08XiE6348CWu) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Scars](https://open.spotify.com/album/0m1FGRxM3wEaIxEgqSW5Oq) | 2:27 |
 | 46 | [I DON'T GO TO HIGHSCHOOL](https://open.spotify.com/track/1LkVouG5VCmvA6Nf4klKMt) | [All But 6](https://open.spotify.com/artist/2BZgYLKKHwbZoKRmSe04US), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [I DON'T GO TO HIGHSCHOOL](https://open.spotify.com/album/5DugO8A3mcSdepXCMoIZQq) | 2:55 |
 | 47 | [MY DAY IS RUINED !](https://open.spotify.com/track/7kxSAje77rPVfZZlWCqtGH) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY DAY IS RUINED !](https://open.spotify.com/album/0S2I5ehn7kCisujdvyYImy) | 2:13 |

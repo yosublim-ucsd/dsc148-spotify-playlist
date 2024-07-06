@@ -4,7 +4,7 @@
 
 > The songs that defined Nigeria's Alté era\. Cover: Amaarae
 
-149 songs - 7 hr 47 min
+150 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Gold Grills](https://open.spotify.com/track/1EhYCGnX7XKFP44nGOrTXA) | [Mafeni](https://open.spotify.com/artist/2ethW0V4e5GFiOsnfza3Xs) | [enjoy](https://open.spotify.com/album/3ARS1ArXJvbRxOGNZwSzni) | 3:17 | 2022-07-27 | 2024-02-09 |
 | [H.I.G.H\. \(Her In Greater Heights\)](https://open.spotify.com/track/2t8J9awuC3vFZZRKvaTXI6) | [Wavy The Creator](https://open.spotify.com/artist/5kr136hLeeKJznp60ieWdC) | [H.I.G.H\. \(Her In Greater Heights\)](https://open.spotify.com/album/6vXfiaiDdaBkzgHUrdY7om) | 3:26 | 2022-07-27 | 2024-02-09 |
 | [Happy Hour \(feat\. Okuntakinte\)](https://open.spotify.com/track/37PhY5sfXk1yiIdHquMrn5) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Økuntakinte](https://open.spotify.com/artist/0o8UK8VeLVZdOYyb04klZ9) | [Happy Hour \(feat\. Okuntakinte\)](https://open.spotify.com/album/2Jedf85FITOVIpd8VzGc4J) | 4:20 | 2022-07-27 | 2024-02-09 |
+| [Holiday Sniping](https://open.spotify.com/track/1fZS5QzwiwU3BvE9FJHo6d) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Holiday Sniping](https://open.spotify.com/album/2bByla9AqUB3Rqgz2nFd0F) | 2:22 | 2024-06-24 |  |
 | [I Don't Like You](https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [I Don’t Like You](https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t) | 2:31 | 2024-02-15 |  |
 | [Ice Cream](https://open.spotify.com/track/3ecnAvBthA0oRBoUSQIZrP) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Ice Cream](https://open.spotify.com/album/5Ih3Xx5N1q5o9AibsvIQqB) | 3:28 | 2022-07-27 | 2024-02-09 |
 | [Icy \(feat\. Izzy, Maison2500 & Odunsi\)](https://open.spotify.com/track/3LPQFl6X9oi7aniP2oDeI4) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Izzy](https://open.spotify.com/artist/76jfnDc7m3BrrcFORVEcdK), [Maison2500](https://open.spotify.com/artist/4LM7PNYtQtrHXnfQYr16mx), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Icy](https://open.spotify.com/album/4PzJtM0vWVz6OvRozs6J2Y) | 4:00 | 2022-07-27 | 2024-02-09 |
@@ -118,7 +119,7 @@
 | [Squad](https://open.spotify.com/track/3S99N747IJomX6CrZHZ9ho) | [Idris King](https://open.spotify.com/artist/72RaYOqPyRGRgaXP5XNXR1) | [Cruise](https://open.spotify.com/album/4ueg8Xn74iH3sY4MRc7MYJ) | 3:12 | 2022-07-27 | 2022-10-12 |
 | [Squad](https://open.spotify.com/track/48KxNEn76nPC6Tq08tRGFW) | [Idris King](https://open.spotify.com/artist/72RaYOqPyRGRgaXP5XNXR1) | [Squad](https://open.spotify.com/album/6iCd662RxmzQtMdEvInl88) | 3:12 | 2022-07-27 | 2024-02-09 |
 | [star signs](https://open.spotify.com/track/26AI33STXsKwtuV9hmzDPG) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Runtown](https://open.spotify.com/artist/4hg9bMurq8TvayGHYk9Mid) | [rare.](https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48) | 2:59 | 2022-07-27 |  |
-| [Steal A Dime](https://open.spotify.com/track/3Znf3C6S38qnVfFKvmNQBP) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Suzie's Funeral](https://open.spotify.com/album/22WXPfyPwdYZKOa59009Cc) | 3:20 | 2022-07-27 |  |
+| [Steal A Dime](https://open.spotify.com/track/3Znf3C6S38qnVfFKvmNQBP) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Suzie's Funeral](https://open.spotify.com/album/22WXPfyPwdYZKOa59009Cc) | 3:20 | 2022-07-27 | 2024-07-06 |
 | [Still II](https://open.spotify.com/track/3n93IQsYtjrig79670GI4i) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Still II](https://open.spotify.com/album/6isatQNDbd269qTvYArPpy) | 2:09 | 2023-02-16 | 2023-11-03 |
 | [Still II](https://open.spotify.com/track/7fVEkRuAjRlEWd6GPSdSuP) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Still II](https://open.spotify.com/album/4suYeq2z1bGkU9AftrlMU7) | 2:09 | 2023-10-25 | 2024-04-19 |
 | [Still II](https://open.spotify.com/track/6p3Ze7kZRPSAX8moYolJil) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Still II](https://open.spotify.com/album/6c9KUWjLyQ8yxB9wGnbxfX) | 2:09 | 2022-07-27 | 2023-03-03 |

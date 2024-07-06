@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,000 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,002 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 76 | [atha](https://open.spotify.com/track/0ll9U2YH9ygIWVrxMwvcXS) | [木\(KI\)](https://open.spotify.com/artist/3tudb25wfMnZH5fbEFEpn6) | [atha](https://open.spotify.com/album/4QjwQKcnNjmLXlBxCYjt1A) | 5:12 |
 | 77 | [Know You Did](https://open.spotify.com/track/62n4Fv2LF86hDkJyeb5NZf) | [bongjeingan](https://open.spotify.com/artist/3zyq3DzSd4aue9Q7s1qMVu) | [Know You Did / Say Yes](https://open.spotify.com/album/3B6D95jRuk3UfNeKSmdlLo) | 4:45 |
 | 78 | [Lonely Dancers](https://open.spotify.com/track/1UOer7h7QD0tsVRPNYya3d) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [Lonely Dancers](https://open.spotify.com/album/2jXRL1OP7YwZWCjmyKsMuh) | 3:58 |
-| 79 | [DAY DREAM](https://open.spotify.com/track/7gQxMaIFRGPzWPbfy03WT1) | [CHIANZ](https://open.spotify.com/artist/131DUTfKAyi7NWTRfnnxxX) | [OGYA](https://open.spotify.com/album/5bDnfyR79LFRZ4dl8JH4zA) | 3:07 |
+| 79 | [DAYDREAM](https://open.spotify.com/track/7gQxMaIFRGPzWPbfy03WT1) | [CHIANZ](https://open.spotify.com/artist/131DUTfKAyi7NWTRfnnxxX) | [OGYA](https://open.spotify.com/album/5bDnfyR79LFRZ4dl8JH4zA) | 3:07 |
 | 80 | [Echelon](https://open.spotify.com/track/6v61nfuCBk2AiXyHqrzFKm) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D), [Sascha](https://open.spotify.com/artist/0rwANEL5H5Tzt8ZYSmgtFI) | [Echelon](https://open.spotify.com/album/3joyuTsnahEQgvQ3yh6PKr) | 2:37 |
 
 Snapshot ID: `ZoKZCAAAAABRq6GHhuUttKWVu3GvlbLt`

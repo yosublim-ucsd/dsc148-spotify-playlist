@@ -4,7 +4,7 @@
 
 > Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Stephen Zechariah, Priya Jerson
 
-82 songs - 5 hr 21 min
+83 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Saaral Nee](https://open.spotify.com/track/6Lms8pldN40GLHfcP6NSf8) | [Raja Sai](https://open.spotify.com/artist/73yc1Tcimoc5wXKJUAiRJF), [Keshav Vinod](https://open.spotify.com/artist/1wu1Pg4sb54JwUhlfBP5FS) | [Saaral Nee](https://open.spotify.com/album/7dqfwweoQmFX8V7gJL2cyx) | 3:02 | 2021-12-01 | 2024-03-24 |
 | [Sathiyama](https://open.spotify.com/track/6t7XOZk8Hv07QJOZVHekFv) | [Mugen Rao](https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA), [Priyashankari](https://open.spotify.com/artist/2uhjPLTC6bHZYvLXsHgrf8) | [Sathiyama](https://open.spotify.com/album/7MRQnV1a5MvQ7PPhymeGxv) | 4:38 | 2022-03-30 |  |
 | [Serithaana](https://open.spotify.com/track/5cdUR8s0paGuX4G2qANUeu) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt) | [Serithaana](https://open.spotify.com/album/3qUobbcOQKOPuzJBOiSGF6) | 3:22 | 2023-04-28 |  |
+| [Thalakeezhai](https://open.spotify.com/track/349EqVyKRJaTmhSENFxu4v) | [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Thalakeezhai](https://open.spotify.com/album/2U2ZVcOxcgwF6hDzcxFQwG) | 2:40 | 2024-07-05 |  |
 | [Thean Kudika](https://open.spotify.com/track/3mFCOJxMugGr2q7KyNG0Zj) | [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q), [Pragathi](https://open.spotify.com/artist/5ZjYHPK2ChSKoqikhjpgBa) | [Maze in Idhayam](https://open.spotify.com/album/4zBa7qnn1jBEfpY7bm6uNT) | 4:14 | 2022-03-30 |  |
 | [Thottu Vidum Thooram](https://open.spotify.com/track/50JJ12Cb2eJmKBJjlfGWze) | [Raj Thillaiyampalam](https://open.spotify.com/artist/0j0eGN0Ujo81Qm1z1Yc7ak), [Aishwarya Yogarajh](https://open.spotify.com/artist/3TZfjkHHgQWsXYT5o9PYdZ) | [Thottu Vidum Thooram](https://open.spotify.com/album/4qdpasJoDy0nrh0oSYBbah) | 3:41 | 2021-12-01 |  |
 | [Un Pol Yarum Illai](https://open.spotify.com/track/14WIdRI4LOTmXvwkJmlpEG) | [Kirthana\. G](https://open.spotify.com/artist/700wvqydW0qKAWtw9uvEjw) | [Un Pol Yarum Illai](https://open.spotify.com/album/5o13tdH9TGWGat8QM41ufi) | 3:47 | 2021-12-01 | 2023-08-19 |

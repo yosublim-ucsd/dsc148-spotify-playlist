@@ -2,9 +2,9 @@
 
 ### [Reggaetón Argentino](https://open.spotify.com/playlist/37i9dQZF1DXdoVgSepr1uh)
 
-> Perreo hecho en Argentina\. Foto: Salastkbron.
+> Perreo hecho en Argentina\. Foto: Angela Torres.
 
-248 songs - 11 hr 49 min
+250 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Borracho y Loco](https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [El Pibe \(Vol.1\)](https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84) | 2:44 | 2022-07-22 | 2023-10-08 |
 | [Cada Vez](https://open.spotify.com/track/7pXFWatDtUZibqr3fzaev8) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Fannel](https://open.spotify.com/artist/0hQVUeyB2yRgUJ3lksKO6S), [J eme 17](https://open.spotify.com/artist/0dP5nV8m70tWCBnPdOdPg4), [dimelokako](https://open.spotify.com/artist/5YVHmtpyu0wpKItRxn8YDA) | [Cada Vez](https://open.spotify.com/album/4UWsWdz91SpbdTazsYQhxJ) | 3:01 | 2024-05-24 | 2024-06-29 |
 | [Cartera Drxga y Maquillaje](https://open.spotify.com/track/1usHY94fx76ykpvlMD5dWk) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Tomm](https://open.spotify.com/artist/6E8xEoc2l0qAsP3uHKD2JP) | [Cartera Drxga y Maquillaje](https://open.spotify.com/album/7idvjC1nomwslxVrZum7Rr) | 2:06 | 2023-01-05 |  |
+| [Castigo](https://open.spotify.com/track/1OdqKDJx5SYmft9GkMx3gX) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Castigo](https://open.spotify.com/album/7AJZpdbaqpkSndP6QL7aiB) | 2:31 | 2024-07-05 |  |
 | [CG TITÁN](https://open.spotify.com/track/2nK093YRX43T7NbUanYVL1) | [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG), [Rodrii Ortiz](https://open.spotify.com/artist/3KeiJ1oVHnSpj8O2Qwp3r2) | [CG TITÁN](https://open.spotify.com/album/1D0Cch9ZhxjdRQzT6rQFNZ) | 2:45 | 2023-10-27 | 2023-12-14 |
 | [Chau, Bye](https://open.spotify.com/track/5sZkmuKztMmkohDtvqKTBQ) | [J Gonz](https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL) | [Chau, Bye](https://open.spotify.com/album/4s43PBRjE1avz28bIeOLL0) | 2:24 | 2023-03-10 |  |
 | [CHIN CHIN](https://open.spotify.com/track/20rMomDU9dk6QDRKCYKrzh) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [CHIN CHIN](https://open.spotify.com/album/3Fx7xYB3rpSfnvSSZNYmyx) | 2:58 | 2022-11-18 | 2023-05-13 |
@@ -233,7 +234,7 @@
 | [Todo](https://open.spotify.com/track/6QoVCBTmF5BMtXyFq80AJ2) | [Tygas](https://open.spotify.com/artist/1mLmCADd22UpYNqCAykYKT), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [Todo](https://open.spotify.com/album/53G1JnSG1R69cHCBz65gue) | 1:58 | 2022-11-18 | 2023-05-13 |
 | [TOKENS](https://open.spotify.com/track/4Gi4HuhMMfgo5LuqE52zov) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [TOKENS](https://open.spotify.com/album/6sggNseMaAIxr92DZh22rf) | 2:25 | 2023-01-20 | 2023-07-29 |
 | [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 | 2022-05-24 | 2024-04-19 |
-| [Tu Tormento](https://open.spotify.com/track/1fgFZZ19cPaJtoJbu0IXi1) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL), [Keed Baby](https://open.spotify.com/artist/5QSZ4mP3ycTPK4b0VJNmK4) | [Tu Tormento](https://open.spotify.com/album/7gg9kKwCBhfqlGEYicSh8m) | 2:16 | 2024-04-12 |  |
+| [Tu Tormento](https://open.spotify.com/track/1fgFZZ19cPaJtoJbu0IXi1) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL), [Keed Baby](https://open.spotify.com/artist/5QSZ4mP3ycTPK4b0VJNmK4) | [Tu Tormento](https://open.spotify.com/album/7gg9kKwCBhfqlGEYicSh8m) | 2:16 | 2024-04-12 | 2024-07-06 |
 | [TUYYO](https://open.spotify.com/track/01UVX4Rxtvh5tIBjwkEXy0) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [TUYYO](https://open.spotify.com/album/5avYEg2zhAaFaJK82TrobT) | 3:03 | 2022-05-24 | 2023-02-04 |
 | [UBI](https://open.spotify.com/track/3AJkvNYRAHCoWvSqInm55X) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [UBI](https://open.spotify.com/album/1RPkK6tm0Oy0scMNwNdkDW) | 2:47 | 2022-05-24 | 2022-11-19 |
 | [UH LA LA](https://open.spotify.com/track/5yLKkXLJKwygToVcT5CISv) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [Lisan Beat](https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X) | [SIX PACK](https://open.spotify.com/album/7kE61YnaJ8Lf0iFK8Jzz9a) | 1:57 | 2022-12-06 | 2023-10-08 |
@@ -246,6 +247,7 @@
 | [Underground](https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Underground](https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr) | 2:29 | 2022-11-18 |  |
 | [Unfollow](https://open.spotify.com/track/6GsD646HrIDJJpzoY9T1Rt) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Unfollow](https://open.spotify.com/album/7kZP9XNkAgcKMqhXWZG4PB) | 3:16 | 2022-05-24 | 2023-11-11 |
 | [Utopía](https://open.spotify.com/track/5jCeTPt24kvPb9WNL9uZFb) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3), [DOC](https://open.spotify.com/artist/0GR5HJ4Lo9rqVAqmewAODa) | [Utopía](https://open.spotify.com/album/76hcVFUJtbF7LyqN1hVDDa) | 2:30 | 2023-02-17 |  |
+| [Vente](https://open.spotify.com/track/3a6CoIDFv3XmCTIahaQWoK) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57) | [Vente](https://open.spotify.com/album/004RhTHPEEuZkt79PrUyZO) | 2:28 | 2024-07-05 |  |
 | [Verificada](https://open.spotify.com/track/6wIByDvOQvyjqR3hBtOECG) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Verificada](https://open.spotify.com/album/3WfkSS2h0jiJedZwYVmOsq) | 2:38 | 2022-05-24 | 2022-07-29 |
 | [Verificada](https://open.spotify.com/track/4DuyqxuT3sGiGlZJi5dpn4) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Verificada](https://open.spotify.com/album/4tIqAcRBIsjOU4kTHQZqwL) | 2:38 | 2022-07-28 | 2023-07-08 |
 | [Vida Gangster](https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Vida Gangster](https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX) | 2:50 | 2022-12-23 | 2024-06-15 |

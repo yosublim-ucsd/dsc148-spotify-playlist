@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,480 songs - 3 day 8 hr 51 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,484 songs - 3 day 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1488,5 +1488,9 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1478 | [The Unknown](https://open.spotify.com/track/3Zh6HPk8CXyrorF2cYTUkr) | [INVADE](https://open.spotify.com/artist/4e8kbnPF9d7axpC8u8QJbX) | [The Unknown](https://open.spotify.com/album/7uyGlq5083wMjPlklmQVoh) | 3:33 |
 | 1479 | [Electronic Universe](https://open.spotify.com/track/2RNfcVb3cE39PztJECqdDI) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [Electronic Universe](https://open.spotify.com/album/4Xb07nPtieoHVPNX5hZsGW) | 4:06 |
 | 1480 | [Kingdoms Hero](https://open.spotify.com/track/0nKfjIBlvW8s92zrFdLviM) | [Eufeion](https://open.spotify.com/artist/7ykuX8JwiitjBbIMlGVH0B) | [Kingdoms Hero](https://open.spotify.com/album/0knPQcjn6NfmAmlCbHnQuE) | 4:00 |
+| 1481 | [Grainding](https://open.spotify.com/track/0q1H5Q0NPKflBMxNyhjN5p) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Grainding](https://open.spotify.com/album/7CBxps4CSVVr2yACYwRdJK) | 2:36 |
+| 1482 | [Bite The Bullet](https://open.spotify.com/track/4zh1cV69dw5HvykJnn83G9) | [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [Bite The Bullet](https://open.spotify.com/album/2prLw2WZ5ZW9Ae6ewRoslf) | 2:52 |
+| 1483 | [Backstabbers \(Envy\)](https://open.spotify.com/track/4HuoADJExHXV7o3qRVcDPY) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Backstabbers \(Envy\)](https://open.spotify.com/album/0CRm5cBbAUfqcmWiRgbc8x) | 3:25 |
+| 1484 | [Sugar, We're Going Down](https://open.spotify.com/track/5cUTsWrxb9uuICptTjdaac) | [Tweekacore](https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj), [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Sugar, We're Going Down](https://open.spotify.com/album/1RHTzt7CeQO0uAhajwbvgW) | 3:00 |
 
-Snapshot ID: `AAAF9TuMuLIN71JDTpjzERZFQCd4Hets`
+Snapshot ID: `AAAF+c/lnzJJm6AftQCdMAGTaVZq9BUs`

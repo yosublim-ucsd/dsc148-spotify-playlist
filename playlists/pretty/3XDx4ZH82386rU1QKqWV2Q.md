@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,074,490 likes - 150 songs - 6 hr 2 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,074,447 likes - 150 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 59 | [BURNING OUT](https://open.spotify.com/track/4Eo8tsg8EEMhQRSOYWawcF) | [BERNZ](https://open.spotify.com/artist/1mEkCpjXPIymCGkKCJzcl5) | [BURNING OUT](https://open.spotify.com/album/6NeHaP5TF8cyBVY1MT1XfB) | 2:10 |
 | 60 | [SOKAP](https://open.spotify.com/track/3fMiazKG2by9TJ9yffQt58) | [Wendeng Music](https://open.spotify.com/artist/4idjeYFjNRsyKAZuwwdnmr), [SXLVXRMANE](https://open.spotify.com/artist/0sdE2SVeNSKj5UWT0m6YlN), [AKØZA](https://open.spotify.com/artist/7uEdqbEG4M7bdpCFbCa7xA) | [SOKAP](https://open.spotify.com/album/1rGVePEFfFVh3S4oNVOsMJ) | 1:38 |
 | 61 | [krushcore](https://open.spotify.com/track/3463mahDZqFJlZBf2lDuFa) | [ashka](https://open.spotify.com/artist/0qIbhVFTXtM13puqFuEOE8), [Nemecist](https://open.spotify.com/artist/3HZFRAdrfCUdkl2ajPWQ0M), [acronym.](https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0) | [krushcore](https://open.spotify.com/album/2jdO1GP9QHK4UTNWNk5nxy) | 1:28 |
-| 62 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 |
+| 62 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 |
 | 63 | [Drive Forever](https://open.spotify.com/track/6Ede2Ta7dVhcV7QYQ3OH6N) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi) | [Drive Forever](https://open.spotify.com/album/3nw958OcSLIbilnETAD7KO) | 2:25 |
 | 64 | [Work It](https://open.spotify.com/track/4A4B07A0oyjUdBXF4usCVA) | [Rawdolff](https://open.spotify.com/artist/1uOdznwRu5THtldbzDFTGX), [Tara Mcdonald](https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct) | [Work It](https://open.spotify.com/album/5NhOfFftBaVumQKzzjJPtJ) | 3:02 |
 | 65 | [lost cause!](https://open.spotify.com/track/1vyBKmJooi5Zdx1SBeotHQ) | [Yung Zime](https://open.spotify.com/artist/3iG3DOwDRNNcU4SD26P0qp), [ILLXSION](https://open.spotify.com/artist/1hTmnnajpUWBkxJeiwmZWn), [acronym.](https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0) | [lost cause!](https://open.spotify.com/album/77LNJ6CN8Fji6317zKPPP8) | 2:14 |

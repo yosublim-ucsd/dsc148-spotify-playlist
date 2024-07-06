@@ -1,13 +1,29 @@
 {
   "description": "Underground indie rock gems. Cover: Been Stellar",
-  "num_followers": 296123,
+  "num_followers": 296148,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoR0ewAAAAC82pN2AC4TO8gUaKDoK/U0",
+  "snapshot_id": "Zog5UwAAAADXJi/zx59oSMuQW32sAD+d",
   "tracks": [
+    {
+      "added_at": "2024-07-05 18:20:03",
+      "album": {
+        "name": "So Cold (Instrumental)",
+        "url": "https://open.spotify.com/album/7xY45qp3jSsvrLh5mtMVoQ"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/37pAUJak4foKdSH28OMKTq"
+    },
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
@@ -23,6 +39,102 @@
       "duration_ms": 256799,
       "name": "Cockpit",
       "url": "https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Guardian",
+        "url": "https://open.spotify.com/album/720UnNrUIg5bBHKTbdFtLC"
+      },
+      "artists": [
+        {
+          "name": "Armlock",
+          "url": "https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG"
+        }
+      ],
+      "duration_ms": 211884,
+      "name": "Guardian",
+      "url": "https://open.spotify.com/track/6100X6J1JlLr9GxYPvS5iw"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Scream from New York, NY",
+        "url": "https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe"
+      },
+      "artists": [
+        {
+          "name": "Been Stellar",
+          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "Scream from New York, NY",
+      "url": "https://open.spotify.com/track/1i1vCpXh3BFkHkTLnq7Lof"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Tell Me Who I Am",
+        "url": "https://open.spotify.com/album/45NDgg4WkVLrqROEL76w0k"
+      },
+      "artists": [
+        {
+          "name": "Legit Smitty",
+          "url": "https://open.spotify.com/artist/1jzrVsvcSp4J1n5OctWBEu"
+        }
+      ],
+      "duration_ms": 209999,
+      "name": "Tell Me Who I Am",
+      "url": "https://open.spotify.com/track/73hZYhnVdzTjK9km3dM8AL"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Gisele",
+        "url": "https://open.spotify.com/album/7zjshQXoSi0kLZthi6Rq8I"
+      },
+      "artists": [
+        {
+          "name": "Willa Mae",
+          "url": "https://open.spotify.com/artist/2YHWH5dyiNRD04RsbhA8Fn"
+        }
+      ],
+      "duration_ms": 264566,
+      "name": "Gisele",
+      "url": "https://open.spotify.com/track/6LbE5nm9kC0vd783eOgXb5"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/0LcsjflfoYtr5eqAKE1ReW"
+      },
+      "artists": [
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        }
+      ],
+      "duration_ms": 163986,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/5kLJXrh3JISuYxAdeUe0wp"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Don't Let Me Down Easy",
+        "url": "https://open.spotify.com/album/2c6huLgcVNejsRn2Od7m9d"
+      },
+      "artists": [
+        {
+          "name": "Majak Door",
+          "url": "https://open.spotify.com/artist/07T4q3baUiO1NImfuaAwid"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "Don't Let Me Down Easy",
+      "url": "https://open.spotify.com/track/2umQiMeWlzfSYN2NgldIUY"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -57,6 +169,22 @@
       "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
     },
     {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "don't want u to die",
+        "url": "https://open.spotify.com/album/6GiCET4YvGHfvcnHi4KZJB"
+      },
+      "artists": [
+        {
+          "name": "Thala",
+          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+        }
+      ],
+      "duration_ms": 188306,
+      "name": "don't want u to die",
+      "url": "https://open.spotify.com/track/2RKFPVUnx3jtvsTBSC8Tif"
+    },
+    {
       "added_at": "2024-07-02 21:43:23",
       "album": {
         "name": "Later",
@@ -71,22 +199,6 @@
       "duration_ms": 267828,
       "name": "Later",
       "url": "https://open.spotify.com/track/3TrnJe4PR4xRtrY6vElta3"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Scream from New York, NY",
-        "url": "https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe"
-      },
-      "artists": [
-        {
-          "name": "Been Stellar",
-          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "Scream from New York, NY",
-      "url": "https://open.spotify.com/track/1i1vCpXh3BFkHkTLnq7Lof"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1049,22 +1161,6 @@
       "url": "https://open.spotify.com/track/5EPE4kkkngiXtqHjGb31QP"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Superior Mirage",
-        "url": "https://open.spotify.com/album/1msigtwFKskruYCUZE3ufK"
-      },
-      "artists": [
-        {
-          "name": "Metz",
-          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
-        }
-      ],
-      "duration_ms": 242965,
-      "name": "Superior Mirage",
-      "url": "https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh"
-    },
-    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "Twice Around the Sun",
@@ -1309,22 +1405,6 @@
       "url": "https://open.spotify.com/track/4gFoC9Ox16YHhxH7Q40RWU"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/1G6sjX1SKZuie8PV47QHU7"
-      },
-      "artists": [
-        {
-          "name": "Echo Thrills",
-          "url": "https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF"
-        }
-      ],
-      "duration_ms": 191439,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/1ZtCULlU6FKT2xyA6xbWI7"
-    },
-    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "The Dreamer",
@@ -1355,22 +1435,6 @@
       "duration_ms": 217402,
       "name": "Mon Argent",
       "url": "https://open.spotify.com/track/2S2MHKQYRA6LdBWsTb6fcK"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/1VQbLqhYQBUPC9ZO9mhC3W"
-      },
-      "artists": [
-        {
-          "name": "fanclubwallet",
-          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/7JxgVxbmzuzwjgZPrpDcZj"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1407,22 +1471,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/3msIYseD4AuvSLzb63E2YS"
-      },
-      "artists": [
-        {
-          "name": "Coco",
-          "url": "https://open.spotify.com/artist/4NxTtZTeJqQ1n27i2qnPCe"
-        }
-      ],
-      "duration_ms": 210512,
-      "name": "Any Other Way",
-      "url": "https://open.spotify.com/track/56bYmPBQGwcfsCgltuCh5U"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Late",
         "url": "https://open.spotify.com/album/6dJSqvOrm05gaHlLNFNWeY"
       },
@@ -1435,38 +1483,6 @@
       "duration_ms": 237677,
       "name": "Late",
       "url": "https://open.spotify.com/track/3oOLmRfPj0hBbCG6rQn0ok"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Let\u2019s keep it in the family",
-        "url": "https://open.spotify.com/album/0qhbLNl6p4kK3wb1gG6KnZ"
-      },
-      "artists": [
-        {
-          "name": "Fay Wildhagen",
-          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "ohmygod",
-      "url": "https://open.spotify.com/track/3EB4t4qPtUB46Dn9OaUvlk"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Birdseye",
-        "url": "https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 151573,
-      "name": "Birdseye",
-      "url": "https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1515,22 +1531,6 @@
       "duration_ms": 174160,
       "name": "Pop Star",
       "url": "https://open.spotify.com/track/3MDcELZE4lvnm8LX3jDYfu"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Next Time",
-        "url": "https://open.spotify.com/album/4cDkVp1F4MoDk14LiUQzZV"
-      },
-      "artists": [
-        {
-          "name": "Sydney Ross Mitchell",
-          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
-        }
-      ],
-      "duration_ms": 178180,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/2JfSHrsOnxzDUZptyH31DL"
     },
     {
       "added_at": "2024-03-01 05:00:00",

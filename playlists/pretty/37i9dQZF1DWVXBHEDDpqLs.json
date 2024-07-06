@@ -1,6 +1,6 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 31476,
+  "num_followers": 31480,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Lei do Baile",
+        "url": "https://open.spotify.com/album/33YgvrMiFsYrsD2lqUURzW"
+      },
+      "artists": [
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        }
+      ],
+      "duration_ms": 212015,
+      "name": "Lei do Baile",
+      "url": "https://open.spotify.com/track/3KAsxrlMdJfslK4vZsDedO"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "ELASTIC",
         "url": "https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 219508,
       "name": "ELASTIC",
       "url": "https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Lei do Baile",
-        "url": "https://open.spotify.com/album/33YgvrMiFsYrsD2lqUURzW"
-      },
-      "artists": [
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        }
-      ],
-      "duration_ms": 212015,
-      "name": "Lei do Baile",
-      "url": "https://open.spotify.com/track/3KAsxrlMdJfslK4vZsDedO"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Nah Follow Dem",
-        "url": "https://open.spotify.com/album/1XXV1sE3cJ2eshrGhwu2zg"
-      },
-      "artists": [
-        {
-          "name": "Dom 877",
-          "url": "https://open.spotify.com/artist/0roH52rW4h4PIhdsRK277v"
-        },
-        {
-          "name": "Magugu",
-          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
-        }
-      ],
-      "duration_ms": 183692,
-      "name": "Nah Follow Dem",
-      "url": "https://open.spotify.com/track/4ye2rIlt5fw0S7Creva7VX"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Wicked (feat. Eliza Legzdina)",
         "url": "https://open.spotify.com/album/3SGr4NHccCw3UI1tiuhIpK"
       },
@@ -1143,6 +1123,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Nah Follow Dem",
+        "url": "https://open.spotify.com/album/1XXV1sE3cJ2eshrGhwu2zg"
+      },
+      "artists": [
+        {
+          "name": "Dom 877",
+          "url": "https://open.spotify.com/artist/0roH52rW4h4PIhdsRK277v"
+        },
+        {
+          "name": "Magugu",
+          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "Nah Follow Dem",
+      "url": "https://open.spotify.com/track/4ye2rIlt5fw0S7Creva7VX"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Tighten Up",
         "url": "https://open.spotify.com/album/3veDY7nOtuBTTbzD3SQDX3"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 123650,
       "name": "Tighten Up",
       "url": "https://open.spotify.com/track/1lZr19oQWX6GwbaqmqCSlT"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Rhythm Chronicles",
-        "url": "https://open.spotify.com/album/7ou6gSn7Qh5osmu10HHhT7"
-      },
-      "artists": [
-        {
-          "name": "Gina Jeanz",
-          "url": "https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Body Bend",
-      "url": "https://open.spotify.com/track/6FrpVh6qp1UeQReksd7IlF"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1191,6 +1175,22 @@
       "duration_ms": 176572,
       "name": "Lonely in Tokyo - Bianca Oblivion Club Remix",
       "url": "https://open.spotify.com/track/4nFTdm00nqHN0TKT39QnsE"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Rhythm Chronicles",
+        "url": "https://open.spotify.com/album/7ou6gSn7Qh5osmu10HHhT7"
+      },
+      "artists": [
+        {
+          "name": "Gina Jeanz",
+          "url": "https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Body Bend",
+      "url": "https://open.spotify.com/track/6FrpVh6qp1UeQReksd7IlF"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Wash Yo Handz",
+        "url": "https://open.spotify.com/album/6NyZuJXVfaw3yg6jh8rjkY"
+      },
+      "artists": [
+        {
+          "name": "DJ Class",
+          "url": "https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507"
+        }
+      ],
+      "duration_ms": 118282,
+      "name": "Wash Yo Handz",
+      "url": "https://open.spotify.com/track/0r1zuvTrYEXOSYw6vv2zZB"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "The Floor Is Ours",
         "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
       },
@@ -1423,38 +1439,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Wash Yo Handz",
-        "url": "https://open.spotify.com/album/6NyZuJXVfaw3yg6jh8rjkY"
+        "name": "Money Mouth",
+        "url": "https://open.spotify.com/album/691hEcaZox9DpOhMnzRa4o"
       },
       "artists": [
         {
-          "name": "DJ Class",
-          "url": "https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507"
-        }
-      ],
-      "duration_ms": 118282,
-      "name": "Wash Yo Handz",
-      "url": "https://open.spotify.com/track/0r1zuvTrYEXOSYw6vv2zZB"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Get Freaky",
-        "url": "https://open.spotify.com/album/4Lmx3PGRf7tIRest0Wdxaa"
-      },
-      "artists": [
-        {
-          "name": "TateKo",
-          "url": "https://open.spotify.com/artist/0mvV3dQKJObqwGdWszYW3K"
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
         },
         {
-          "name": "Da Yo Boyz",
-          "url": "https://open.spotify.com/artist/5hfqwT02GtAzIfY2Ea5lAp"
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
         }
       ],
-      "duration_ms": 178872,
-      "name": "Get Freaky",
-      "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
+      "duration_ms": 129348,
+      "name": "Money Mouth",
+      "url": "https://open.spotify.com/track/0G6rvTge4OQ8DYaOntvqFd"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1475,22 +1475,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Money Mouth",
-        "url": "https://open.spotify.com/album/691hEcaZox9DpOhMnzRa4o"
+        "name": "Get Freaky",
+        "url": "https://open.spotify.com/album/4Lmx3PGRf7tIRest0Wdxaa"
       },
       "artists": [
         {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+          "name": "TateKo",
+          "url": "https://open.spotify.com/artist/0mvV3dQKJObqwGdWszYW3K"
         },
         {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+          "name": "Da Yo Boyz",
+          "url": "https://open.spotify.com/artist/5hfqwT02GtAzIfY2Ea5lAp"
         }
       ],
-      "duration_ms": 129348,
-      "name": "Money Mouth",
-      "url": "https://open.spotify.com/track/0G6rvTge4OQ8DYaOntvqFd"
+      "duration_ms": 178872,
+      "name": "Get Freaky",
+      "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "sunscreen",
-        "url": "https://open.spotify.com/album/5vTvEDpakO9KL0CGnRArew"
-      },
-      "artists": [
-        {
-          "name": "Jubilee",
-          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
-        }
-      ],
-      "duration_ms": 247236,
-      "name": "sunscreen",
-      "url": "https://open.spotify.com/track/3UyVoeuY8Pr4ixF2jr3a48"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "FIJI WATER",
         "url": "https://open.spotify.com/album/1BS1edClr1Bo0pdBTq8zuk"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 136615,
       "name": "FIJI WATER",
       "url": "https://open.spotify.com/track/4YHwBlm1YVZ8pgMVlYAx9k"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "sunscreen",
+        "url": "https://open.spotify.com/album/5vTvEDpakO9KL0CGnRArew"
+      },
+      "artists": [
+        {
+          "name": "Jubilee",
+          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
+        }
+      ],
+      "duration_ms": 247236,
+      "name": "sunscreen",
+      "url": "https://open.spotify.com/track/3UyVoeuY8Pr4ixF2jr3a48"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "DELETE",
+        "url": "https://open.spotify.com/album/5HZJ7eDbjIaCvs8YVpnsp6"
+      },
+      "artists": [
+        {
+          "name": "Jubilee",
+          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
+        }
+      ],
+      "duration_ms": 376888,
+      "name": "DELETE",
+      "url": "https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Bustin' At Em'",
         "url": "https://open.spotify.com/album/7t773uLK0eKzqgDbElG6TU"
       },
@@ -2015,34 +2031,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "DURO",
-        "url": "https://open.spotify.com/album/3XCTUt1TLaWdOho6dND3Qx"
+        "name": "Rok The Hips",
+        "url": "https://open.spotify.com/album/3N6pe44E2ta1C7C4vsbpxn"
       },
       "artists": [
         {
-          "name": "INVT",
-          "url": "https://open.spotify.com/artist/7iS41tYQBUyJsZYcxCse0D"
+          "name": "Dj L-Banga",
+          "url": "https://open.spotify.com/artist/5CRIOUlKKUQpcdHXgv91dK"
         }
       ],
-      "duration_ms": 342481,
-      "name": "TEMPRANO",
-      "url": "https://open.spotify.com/track/67m4RmEnCwnnvDwFMkKH0N"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "DELETE",
-        "url": "https://open.spotify.com/album/5HZJ7eDbjIaCvs8YVpnsp6"
-      },
-      "artists": [
-        {
-          "name": "Jubilee",
-          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
-        }
-      ],
-      "duration_ms": 376888,
-      "name": "DELETE",
-      "url": "https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE"
+      "duration_ms": 118520,
+      "name": "Rok The Hips",
+      "url": "https://open.spotify.com/track/4CqpnfWiO0rgLr8QoGza7P"
     }
   ],
   "unique_name": "Global Club Music",

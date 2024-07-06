@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: 『ユイカ』
 
-489 songs - 1 day 4 hr 7 min
+490 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,6 +389,7 @@
 | [ラビリンス](https://open.spotify.com/track/3K2zyJhcnMMA6yOdR6hOW7) | [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG) | [ラビリンス](https://open.spotify.com/album/1pHD8AFu4z1CvuTPjZFOFi) | 4:54 | 2023-12-19 | 2024-02-14 |
 | [ラブソング](https://open.spotify.com/track/5iYQ3bdL5XsPPpu8iZskQJ) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv), [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [LOVE: AMPLIFIED](https://open.spotify.com/album/45NbVBQW1OYgYXUC8K9Ejh) | 2:44 | 2023-06-13 | 2023-12-08 |
 | [ルバート](https://open.spotify.com/track/1w3837OMA0xxpFqqMtL7B5) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [ルバート](https://open.spotify.com/album/0SlZ8UoV2wgNqDZNMTpgD0) | 3:51 | 2024-05-30 |  |
+| [ルル](https://open.spotify.com/track/6UuxnR9zgvzpFS6YvfCqFL) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ルル](https://open.spotify.com/album/10iuG3s2Fry5JiUh0i0c75) | 3:17 | 2024-07-04 |  |
 | [ロックオン](https://open.spotify.com/track/6Ypn0bd1K7IFWPEWHUPk75) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [巡巡](https://open.spotify.com/artist/37gq7KFHsAIEuEuRFT8RNl) | [ロックオン](https://open.spotify.com/album/0J8A7J3iEm0umNxT38O7lx) | 2:47 | 2024-01-11 | 2024-01-26 |
 | [ロマンス宣言](https://open.spotify.com/track/7ph7HRUsxYcKLRFTaYCQYQ) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [祝祭](https://open.spotify.com/album/3lrZCCakw7a68QVCBTt7BT) | 2:29 | 2023-05-09 | 2023-12-08 |
 | [一雨 feat.諭吉佳作/men](https://open.spotify.com/track/0RRYEDt603mlA063jM6Fvy) | [fishbowl](https://open.spotify.com/artist/1nyeiKFHnbe9QsI8bOjGK5), [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [一雨 feat.諭吉佳作/men](https://open.spotify.com/album/0V09cpCNwp54jcXkcUF60J) | 5:00 | 2024-02-20 | 2024-04-05 |

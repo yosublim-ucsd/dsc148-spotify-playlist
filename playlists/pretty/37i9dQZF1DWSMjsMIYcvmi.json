@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-05-23 23:05:52",
       "album": {
+        "name": "Everything's Blurred But You",
+        "url": "https://open.spotify.com/album/3ZNxdIgd8wFuQcFj6WhF6O"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/3rZ29lqgtrpuIIuCdZaxEA"
+    },
+    {
+      "added_at": "2024-05-23 23:05:52",
+      "album": {
         "name": "If The World Was Ending (feat. Julia Michaels) [Original Demo]",
         "url": "https://open.spotify.com/album/1YjKDpybD8SS9rSHCjhvFq"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 211626,
       "name": "If The World Was Ending (feat. Julia Michaels) - Original Demo",
       "url": "https://open.spotify.com/track/1WnKdiEPEvd1Meo3gUipPe"
-    },
-    {
-      "added_at": "2024-05-23 23:05:52",
-      "album": {
-        "name": "Everything's Blurred But You",
-        "url": "https://open.spotify.com/album/3ZNxdIgd8wFuQcFj6WhF6O"
-      },
-      "artists": [
-        {
-          "name": "EASY FREAK",
-          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/3rZ29lqgtrpuIIuCdZaxEA"
     },
     {
       "added_at": "2024-05-23 23:05:52",

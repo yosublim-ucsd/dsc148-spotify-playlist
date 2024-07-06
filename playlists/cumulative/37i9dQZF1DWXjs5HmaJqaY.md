@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-245 songs - 1 day 0 hr 10 min
+247 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,9 +207,10 @@
 | [Something Half Way \(feat\. Ralf Hildenbeutel\)](https://open.spotify.com/track/4SKkLIyC381iLFbjt0dIWM) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf) | [Another Day](https://open.spotify.com/album/0vrJ2GjVQ9lavv0u74PHJn) | 5:15 | 2022-09-16 | 2024-04-19 |
 | [Soopertrack](https://open.spotify.com/track/0tZFL2LU8XSThRttMJif6Q) | [Extrawelt](https://open.spotify.com/artist/3VRvi42U8SsiT4YKP5LNCB) | [Extra Welt Hits](https://open.spotify.com/album/3XKvUkeeuxTcKAKBrzR4lE) | 8:02 | 2022-09-16 | 2024-01-27 |
 | [Sounds Of The Riff](https://open.spotify.com/track/3vcgv2BSEg2OFAtwg0dZGf) | [Moritz Sachse](https://open.spotify.com/artist/2yPFNVTKTqKeIn3leJpeq3), [NEPØ](https://open.spotify.com/artist/4C4Kdk8ScpbmRRLkM7MIrK) | [Sounds Of The Riff](https://open.spotify.com/album/6uFfxiKt07cOABrOS4HkKI) | 6:29 | 2024-03-22 |  |
+| [Space X \- Bobby Flava Remix](https://open.spotify.com/track/26hHmmAWMPIVlVglfvotiS) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Bobby Flava](https://open.spotify.com/artist/29aImfkgSWV98BbiGlr1p6) | [Space X Remixes](https://open.spotify.com/album/5Ot6YhSxroVnlszZrgx9Q1) | 4:01 | 2024-07-05 |  |
 | [Space X \- Edit](https://open.spotify.com/track/7y2fFvQyCuEqhGbLaAEAIN) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Space X \(Edit\)](https://open.spotify.com/album/0isHRGzyIFvSKDeSdlem8j) | 3:36 | 2023-06-23 | 2023-10-21 |
 | [Space X \- Moritz Hofbauer Remix](https://open.spotify.com/track/2sSmDApYtBmwz8DHQTPbJg) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Space X Remixes](https://open.spotify.com/album/5Ot6YhSxroVnlszZrgx9Q1) | 5:31 | 2024-06-28 |  |
-| [Space X \- Piet Kämpfer Remix](https://open.spotify.com/track/3O5B3UgS7ahxNQQ2sGQ2L3) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Piet Kämpfer](https://open.spotify.com/artist/3V66VR6CiPl3zveio71Q9v) | [Space X Remixes](https://open.spotify.com/album/5Ot6YhSxroVnlszZrgx9Q1) | 5:07 | 2024-06-28 |  |
+| [Space X \- Piet Kämpfer Remix](https://open.spotify.com/track/3O5B3UgS7ahxNQQ2sGQ2L3) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Piet Kämpfer](https://open.spotify.com/artist/3V66VR6CiPl3zveio71Q9v) | [Space X Remixes](https://open.spotify.com/album/5Ot6YhSxroVnlszZrgx9Q1) | 5:07 | 2024-06-28 | 2024-07-06 |
 | [Spinicular](https://open.spotify.com/track/1GBvv1GMhhr89x99Fv1KDU) | [DJ Lion](https://open.spotify.com/artist/0ZwTI7HIWqX7mz1KwdZSoq), [AlBird](https://open.spotify.com/artist/1Prnl3WpJztMLBodIfJKu6) | [Dance with the Robots](https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC) | 6:44 | 2023-03-03 | 2023-10-28 |
 | [Stardust and Glitter](https://open.spotify.com/track/6TEAfm3Hh7JYNDHHj6MKHn) | [Jürgen Kaisr](https://open.spotify.com/artist/6hzeX2ERTNIeQ3QolZk8sW) | [Elektronenschwungdynamik](https://open.spotify.com/album/7DLN31hXu37rDh3EuksFME) | 6:42 | 2022-09-16 |  |
 | [Subconscious](https://open.spotify.com/track/5R8PgzKg69PUSLxb2CDgzT) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v) | [Subconscious](https://open.spotify.com/album/5GuHgCcoVrDmGYnpPprN0S) | 5:39 | 2022-09-16 | 2023-08-26 |
@@ -222,6 +223,7 @@
 | [The House Of House \- Original Mix](https://open.spotify.com/track/4Dtv1NQTHSbzrja0fEVsX7) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [The Ultimate Megamix](https://open.spotify.com/album/2NdTJ1aEFe0gCzFEsQwuxx) | 7:38 | 2022-11-07 | 2022-11-13 |
 | [The House Of House \- Original Remastered Mix](https://open.spotify.com/track/1afHl4iHfqeQ5U0vnWYRCh) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [The House Of House](https://open.spotify.com/album/6wz1BxyLMqtnziouqFnFtp) | 7:35 | 2022-09-16 | 2024-04-19 |
 | [The House Of House \- Original Remastered Mix](https://open.spotify.com/track/28RwoHEeQbQn4VYZb1ezTZ) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [20 Years Bonzai](https://open.spotify.com/album/2SGPVcsd9IoDoY4Cmea0Vx) | 7:35 | 2024-04-05 |  |
+| [The Towers](https://open.spotify.com/track/3aq24LaCBsnIjJawjdRrI9) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [The Towers](https://open.spotify.com/album/5tOv0p1MtgLS2pxf7NeOxm) | 4:23 | 2024-07-05 |  |
 | [This Is a Dream](https://open.spotify.com/track/7AfMHMKIg9MKMN7rePjukN) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [This Is a Dream](https://open.spotify.com/album/5KpV9ITrp6tRkR1Qp9DEaM) | 8:31 | 2022-09-16 | 2023-03-25 |
 | [Thought](https://open.spotify.com/track/5fYAIzCmrCEIk2OmooGp0n) | [Smilla](https://open.spotify.com/artist/4GNUAjOnCWs0kuq2ikLBVK) | [Dance with the Robots](https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC) | 6:32 | 2023-03-03 |  |
 | [Time](https://open.spotify.com/track/57cNAYsgC0pS5cijXwWqNm) | [DSTRTD SGNL](https://open.spotify.com/artist/4ISX2aRyZ10uoLtypdPNai) | [Time](https://open.spotify.com/album/54TFEyda1C12XdXFa4T8Al) | 5:23 | 2024-05-24 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Astrid Cruz y Zxmyr en portada.",
+  "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Astrid Sandro Malandro en portada.",
   "name": "Rap Latte",
   "tracks": [
     {
@@ -278,6 +278,24 @@
       "duration_ms": 167707,
       "name": "alexademie",
       "url": "https://open.spotify.com/track/3St7sFGXYDJqgbdxnT9gwR"
+    },
+    {
+      "album": {
+        "name": "Amor Chiquito (Banda Sonora Original de la pel\u00edcula MU\u00d1ECA)",
+        "url": "https://open.spotify.com/album/5JOsWKQkHFTkYM4TGyji9c"
+      },
+      "artists": [
+        {
+          "name": "Tino El Ping\u00fcino",
+          "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279788,
+      "name": "Amor Chiquito (Banda Sonora Original de la pel\u00edcula MU\u00d1ECA)",
+      "url": "https://open.spotify.com/track/5ogmTte4i4LPYCz8zq3NBQ"
     },
     {
       "album": {
@@ -1216,7 +1234,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 226829,
       "name": "Enculado",
       "url": "https://open.spotify.com/track/07lthWzkSdlmEI435DtCcf"
@@ -2993,6 +3011,24 @@
     },
     {
       "album": {
+        "name": "SANDRO",
+        "url": "https://open.spotify.com/album/13iUVLEs0sIvCtG8ft4MiP"
+      },
+      "artists": [
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186200,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/3xa51mQzMnNPhQEOxm6sPG"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Onda Mija",
         "url": "https://open.spotify.com/album/6Fnmf8xjY2jQ72gJan5UQR"
       },
@@ -3900,7 +3936,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 191840,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/1bg8OvZcoYvvQl2WwDCQXI"

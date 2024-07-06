@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Ananda, Lou Garcia
 
-162 songs - 9 hr 46 min
+163 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [N\-U\-M\-A\-B\-O\-A](https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [De Volta Ao Novo \- Volume 1](https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC) | 3:06 | 2023-10-13 |  |
 | [Na Sua Estante \- Ao Vivo](https://open.spotify.com/track/2gherKlc3X6kBvzOdz8jMg) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas \(Ao Vivo\)](https://open.spotify.com/album/34Q4mgQQN0vsEKSZ3c3jE5) | 5:22 | 2024-02-02 | 2024-04-19 |
 | [Na Sua Estante \- Ao Vivo](https://open.spotify.com/track/4GifjoggvmG2sYEGE2PsIu) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas \(Ao Vivo\)](https://open.spotify.com/album/5GXMquIjfejiBifabM0Tny) | 5:22 | 2023-07-21 |  |
+| [Nada Sei \- Apneia, Ao Vivo](https://open.spotify.com/track/3x8QrTuZCTbEJI0NrWEye2) | [Paula Toller](https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Nada Sei \(Apneia\)](https://open.spotify.com/album/0X1QuDiAcgHOZ4zNDQ1AaO) | 3:49 | 2024-07-05 |  |
 | [No Delta dos Rios](https://open.spotify.com/track/7ifgiwIrIWAlckZPXSL2m2) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Power Trio](https://open.spotify.com/album/4my2f5Jg1MTotcaknswcxR) | 4:03 | 2023-09-15 |  |
 | [No Small Thing](https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [No Small Thing](https://open.spotify.com/album/2lT0SejUDTztqxLQtFPuzm) | 4:42 | 2023-07-21 |  |
 | [Not the One](https://open.spotify.com/track/5jpqyokFLz5Atb9Ve6f0FH) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Not the One](https://open.spotify.com/album/6zBLkJVa4eSXgP7o7ta7IO) | 4:26 | 2023-07-21 |  |
@@ -119,7 +120,7 @@
 | [Quem Me Dera](https://open.spotify.com/track/6NqgtbC5WuR20UKSnDCsQ2) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [Invernia](https://open.spotify.com/album/6aICwiB8bpY0ZA409IIfdx) | 3:30 | 2023-09-15 | 2024-06-22 |
 | [Quero Te Levar](https://open.spotify.com/track/5HNSzyOYeKko9LiIJvVGaQ) | [Arthur Pares](https://open.spotify.com/artist/1B3VYQcK1cV9R9Ckxun2n3) | [Quero Te Levar](https://open.spotify.com/album/22CxgpaTDyzRSzdeQq1jQc) | 2:59 | 2023-07-21 | 2023-12-15 |
 | [Quero Te Levar](https://open.spotify.com/track/5yBvVZR9fRKUQxfe6cg83b) | [Arthur Pares](https://open.spotify.com/artist/1B3VYQcK1cV9R9Ckxun2n3) | [Quero Te Levar](https://open.spotify.com/album/6sFQsoONnVuvaf1ZKFl6kw) | 2:59 | 2023-12-08 | 2024-04-19 |
-| [Quero Te Levar](https://open.spotify.com/track/63NmP2zUVMzgTBjjUf2jxB) | [Arthur Pares](https://open.spotify.com/artist/1B3VYQcK1cV9R9Ckxun2n3) | [Quero Te Levar](https://open.spotify.com/album/5DP1QsiGascLy3m7xTfMBm) | 2:59 | 2024-04-19 |  |
+| [Quero Te Levar](https://open.spotify.com/track/63NmP2zUVMzgTBjjUf2jxB) | [Arthur Pares](https://open.spotify.com/artist/1B3VYQcK1cV9R9Ckxun2n3) | [Quero Te Levar](https://open.spotify.com/album/5DP1QsiGascLy3m7xTfMBm) | 2:59 | 2024-04-19 | 2024-07-06 |
 | [Quimera](https://open.spotify.com/track/38AhroLzkLm5gs2JRkVjPJ) | [Tukum](https://open.spotify.com/artist/69aatX6EpsWfK0b4rsFsly) | [Estradas Dentro](https://open.spotify.com/album/2HS046T4uwxsytXEKHMXTt) | 3:43 | 2023-09-15 | 2024-01-05 |
 | [Rainha Do Luar \- Acoustic](https://open.spotify.com/track/4TeG3MuhkWvYV0iBRkMvOF) | [Edu Falaschi](https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A) | [Rainha Do Luar \(Acoustic\)](https://open.spotify.com/album/52Kl1OzGWBtNE9nCho2Uqn) | 2:54 | 2023-09-01 | 2023-11-18 |
 | [Renata](https://open.spotify.com/track/4XMc6OTIFSzkcDKOLrA682) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Renata](https://open.spotify.com/album/2NZvpmeIzbwYbTi0KODCYI) | 2:50 | 2023-11-10 | 2024-06-22 |

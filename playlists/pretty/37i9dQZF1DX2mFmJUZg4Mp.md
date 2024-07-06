@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mFmJUZg4Mp.md) - [plain]
 
 > Soothing sounds of gentle rain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,972 likes - 267 songs - 12 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,040 likes - 267 songs - 12 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Raining For Hours](https://open.spotify.com/track/60uoiqXyQpKkbRtPSs8nAF) | [Rain Story](https://open.spotify.com/artist/5sDGFYfzqLSGypFQUMtf2u) | [Raining For Hours](https://open.spotify.com/album/6j07pWZ67sAkRUIOxwICYT) | 2:10 |
 | 2 | [Cozy Calming Nocturnal Rain](https://open.spotify.com/track/7yfJG16maztJXFzCQ3RJEa) | [Drip\-Drop](https://open.spotify.com/artist/0iDx4sYtJ0FfXi5tdGGXTA) | [Nocturnal Cozy Rain](https://open.spotify.com/album/3C4JU2iVIEI5F8B59b7upA) | 2:40 |
 | 3 | [In The Clouds](https://open.spotify.com/track/3cH75G5f24Bc7koyOlBtDg) | [The Stormwater](https://open.spotify.com/artist/01c7DohUs02BwUDAyxzTUU) | [Weather Front](https://open.spotify.com/album/33LXnoQeIUfX5va0n2jiCx) | 2:42 |
-| 4 | [Washington Rain Reverie](https://open.spotify.com/track/1AfbsmFhOpX9GZHFd8Cb9l) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/6zFCcsGRJaALSvGj9VuHh5) | [Nature's Rainfall Melodies](https://open.spotify.com/album/2L4ZTUZNAvkyo3d1G3Nu5c) | 3:12 |
+| 4 | [Washington Rain Reverie](https://open.spotify.com/track/1AfbsmFhOpX9GZHFd8Cb9l) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Nature's Rainfall Melodies](https://open.spotify.com/album/2L4ZTUZNAvkyo3d1G3Nu5c) | 3:12 |
 | 5 | [Noise Rain](https://open.spotify.com/track/1Vxx4lP5fRdm4A18AwNGBu) | [Natures Orchestra](https://open.spotify.com/artist/4lpovYMDiersW7wuJ3P5Ep) | [Noise Rain](https://open.spotify.com/album/0gQvJtixPCxHTn9GGogXEy) | 2:44 |
 | 6 | [rain in reykjavik](https://open.spotify.com/track/2Wx5BlOCoLw3mNf0YtFxqh) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in reykjavik](https://open.spotify.com/album/4yhdOzyz5ih5L6YA7kOnAK) | 3:28 |
 | 7 | [Rain Sounds in Palomino](https://open.spotify.com/track/7aOB9gLVYOIowhC3kx5opd) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Tropical Rain Sounds \- Colombia](https://open.spotify.com/album/1o6MUAVUhkL7FlvuV5cND8) | 2:19 |

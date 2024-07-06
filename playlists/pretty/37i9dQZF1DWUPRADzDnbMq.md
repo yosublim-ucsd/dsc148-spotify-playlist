@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 
 > Chill, beachy tunes to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,431 likes - 92 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,461 likes - 92 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 | 91 | [One Day](https://open.spotify.com/track/3Vzj3XBPoC4wHvuOR39jD0) | [Josh Melton](https://open.spotify.com/artist/5l5SDQs2xyEidWQOw3ro6T) | [One Day](https://open.spotify.com/album/71dZ9LHhvH06KuSYoeRgJP) | 2:45 |
 | 92 | [Six\-Pack Summer](https://open.spotify.com/track/23qDMWnwf8p0pr5slljB6i) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [Phil Vassar](https://open.spotify.com/album/5F5mOJ0WkMwpqVkK1AwMHC) | 3:39 |
 
-Snapshot ID: `ZkJfigAAAACUnMs6xSFTdlPEyQzG1Dd8`
+Snapshot ID: `ZohrmwAAAAAqmevpsZG2zy4U9B6kY7+3`

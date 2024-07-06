@@ -1,12 +1,12 @@
 {
-  "description": "This Is League of Legends. Los temas esenciales, todos en una lista.",
-  "num_followers": 387893,
+  "description": "This is League of Legends. The essential tracks, all in one playlist.",
+  "num_followers": 387904,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAACxWfkbiuz7yqSO9GTIDXll",
+  "snapshot_id": "ZoXmAAAAAADnDFllnXGz8TwBvEr3y09s",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,34 @@
       "duration_ms": 210575,
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "url": "https://open.spotify.com/track/0bs5Nbnk6nDjxcgqfehx9v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 173381,
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"
     },
     {
       "added_at": null,
@@ -1211,26 +1239,6 @@
       "duration_ms": 277674,
       "name": "Seraphine, the Starry-Eyed Songstress",
       "url": "https://open.spotify.com/track/29kJz9cOUnTVOKwQWbQCsh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Music of League of Legends: Season 2 (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/5tbKnlrYfWLOS2oDNVRG1I"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Nicki Taylor",
-          "url": "https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG"
-        }
-      ],
-      "duration_ms": 161348,
-      "name": "Vi, the Piltover Enforcer (Here Comes Vi) (From League of Legends: Season 2)",
-      "url": "https://open.spotify.com/track/7slAKPvgzuKgaTTQgrxWUd"
     }
   ],
   "unique_name": "This Is League of Legends",

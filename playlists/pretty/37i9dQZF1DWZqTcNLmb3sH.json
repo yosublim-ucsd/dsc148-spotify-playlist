@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Krishnam Pranaya Sakhi\n",
-  "num_followers": 57861,
+  "num_followers": 57866,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoY9pAAAAABtWTS77KcYrCkpxqjEVk1m",
+  "snapshot_id": "ZogFzAAAAACbKdktCESYsTGzy01BBUpg",
   "tracks": [
     {
       "added_at": "2024-06-11 10:34:59",
@@ -69,6 +69,30 @@
       "url": "https://open.spotify.com/track/5MtySuDzWviisruGhEU8Nr"
     },
     {
+      "added_at": "2024-07-05 06:11:08",
+      "album": {
+        "name": "Hello Hello (From \"Chef Chidambara\")",
+        "url": "https://open.spotify.com/album/4CIGwtxGSd0Au16clAi97n"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Ritvik Muralidhar",
+          "url": "https://open.spotify.com/artist/6WCsxUetmUxK3BinjpKIDH"
+        },
+        {
+          "name": "Vinay Pandavapura",
+          "url": "https://open.spotify.com/artist/66mtz8MKcRFdWuxUdeS2Ob"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Hello Hello - From \"Chef Chidambara\"",
+      "url": "https://open.spotify.com/track/13749eZqeDXUtqjXi3H9Ec"
+    },
+    {
       "added_at": "2024-07-04 06:13:56",
       "album": {
         "name": "Ta Takkara (Complex Song) (From \"Kalki 2898 AD\") (Kannada)",
@@ -127,6 +151,78 @@
       "duration_ms": 259413,
       "name": "Nanagantaane (feat. Rajavardan, Rihana & Divya Suresh) [From \"Hiranya - The Hitman\"]",
       "url": "https://open.spotify.com/track/4rpc50DRQTwzLJYFRMEXMm"
+    },
+    {
+      "added_at": "2024-07-05 14:40:12",
+      "album": {
+        "name": "Havamaanave (From \"Ronny - The Ruler\")",
+        "url": "https://open.spotify.com/album/3O1gkqr0PlUYi1UmrQKazo"
+      },
+      "artists": [
+        {
+          "name": "Kunal Ganjawala",
+          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
+        },
+        {
+          "name": "Hamsika Iyer",
+          "url": "https://open.spotify.com/artist/35jsUTwBj5cW9GuNB7Xp61"
+        },
+        {
+          "name": "Kadri Mani Kanth",
+          "url": "https://open.spotify.com/artist/61LUri2kq5bRBRV2nquWhP"
+        }
+      ],
+      "duration_ms": 218058,
+      "name": "Havamaanave (From \"Ronny - The Ruler\")",
+      "url": "https://open.spotify.com/track/6LS1uzz0NlP9hWaJ4kHDZQ"
+    },
+    {
+      "added_at": "2024-07-05 06:12:17",
+      "album": {
+        "name": "Yenendu Helali (From \"Taj\")",
+        "url": "https://open.spotify.com/album/4ecfASPhYdlFRIzQZKTKKf"
+      },
+      "artists": [
+        {
+          "name": "Sathish Aryan",
+          "url": "https://open.spotify.com/artist/0CyVF7HsS4bpKEL15NZVDg"
+        },
+        {
+          "name": "Nanditha",
+          "url": "https://open.spotify.com/artist/0qBLXkziuBou13bmjY5z8i"
+        },
+        {
+          "name": "Jassie Gift",
+          "url": "https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl"
+        }
+      ],
+      "duration_ms": 262442,
+      "name": "Yenendu Helali - From \"Taj\"",
+      "url": "https://open.spotify.com/track/43SLIolmsInaJpVmvJ9nEk"
+    },
+    {
+      "added_at": "2024-07-05 06:39:32",
+      "album": {
+        "name": "Hope of Shambala (From \"Kalki 2898 AD\") (Kannada)",
+        "url": "https://open.spotify.com/album/0l5xyZZFzFsI33xdGKVr5t"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Pavithra Chari",
+          "url": "https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "duration_ms": 102000,
+      "name": "Hope of Shambala (From \"Kalki 2898 AD\") (Kannada)",
+      "url": "https://open.spotify.com/track/11KxJOGZLScbPVUzDgmQHn"
     },
     {
       "added_at": "2024-07-04 06:13:56",
@@ -1617,26 +1713,6 @@
       "url": "https://open.spotify.com/track/5JZmrkfwLsh2dkq6uIo9oG"
     },
     {
-      "added_at": "2024-05-13 06:21:00",
-      "album": {
-        "name": "Naisha's World Reprise (From \"4N6\")",
-        "url": "https://open.spotify.com/album/6dXuYnhXTsKtOjE0bz7M5g"
-      },
-      "artists": [
-        {
-          "name": "Sai Somesh",
-          "url": "https://open.spotify.com/artist/1XIyGl4m9YSFAkWBOKUwvM"
-        },
-        {
-          "name": "Aniruddha Prabhu",
-          "url": "https://open.spotify.com/artist/23t95bugGiYXyLrS12KPAz"
-        }
-      ],
-      "duration_ms": 209088,
-      "name": "Naisha's World Reprise (From \"4N6\")",
-      "url": "https://open.spotify.com/track/43UixpH4odrqR7Lxqi8T3o"
-    },
-    {
       "added_at": "2024-05-16 12:59:57",
       "album": {
         "name": "Music Shop Murthy (Kannada)",
@@ -1685,30 +1761,6 @@
       "url": "https://open.spotify.com/track/2mBohqxv66BLXlHkj0xfzQ"
     },
     {
-      "added_at": "2024-04-22 10:23:34",
-      "album": {
-        "name": "Bad Boys (from \"Bheema\")",
-        "url": "https://open.spotify.com/album/7l7dcwAVpFOUt7eRAsyXed"
-      },
-      "artists": [
-        {
-          "name": "Rahul Dit-O",
-          "url": "https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe"
-        },
-        {
-          "name": "MC Bijju",
-          "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
-        },
-        {
-          "name": "Charanraj MR",
-          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Bad Boys (from \"Bheema\")",
-      "url": "https://open.spotify.com/track/1fpHvSPEF5au5OTIrkroeV"
-    },
-    {
       "added_at": "2024-05-13 06:19:19",
       "album": {
         "name": "Kcpd (From \"Atharva\") [KANNADA]",
@@ -1723,46 +1775,6 @@
       "duration_ms": 232115,
       "name": "Kcpd (From \"Atharva\") [KANNADA]",
       "url": "https://open.spotify.com/track/4YCV1Z033OH1pqikQXEZlt"
-    },
-    {
-      "added_at": "2024-05-13 06:18:31",
-      "album": {
-        "name": "Ramma (From \"Grey Games\")",
-        "url": "https://open.spotify.com/album/2z9pMk3DR0PbFS9okWx63k"
-      },
-      "artists": [
-        {
-          "name": "Ashwin",
-          "url": "https://open.spotify.com/artist/46DgYEKIJIgcs8vkNv1yte"
-        },
-        {
-          "name": "Brrithheve",
-          "url": "https://open.spotify.com/artist/1X08JrFH5NJscgap2ylMzl"
-        },
-        {
-          "name": "Gangadhar Salimath",
-          "url": "https://open.spotify.com/artist/5p2CoFD8zmpOslnpbnbxWO"
-        }
-      ],
-      "duration_ms": 158600,
-      "name": "Ramma (From \"Grey Games\")",
-      "url": "https://open.spotify.com/track/4GZXPZPlsPdgCHJFcFB2k5"
-    },
-    {
-      "added_at": "2024-05-13 06:21:32",
-      "album": {
-        "name": "Changu Changure (From \"Atharva\") [KANNADA]",
-        "url": "https://open.spotify.com/album/1ZDmy4esiYkB5byDXwf9ti"
-      },
-      "artists": [
-        {
-          "name": "Yamini Ghantasala",
-          "url": "https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0"
-        }
-      ],
-      "duration_ms": 217141,
-      "name": "Changu Changure (From \"Atharva\") [KANNADA]",
-      "url": "https://open.spotify.com/track/3zwfu9ULGrRdQhMvmVVfkx"
     },
     {
       "added_at": "2024-04-08 10:57:58",

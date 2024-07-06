@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Belly",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: KAYTRANADA",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -19144,7 +19144,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 132075,
       "name": "Nvm",
       "url": "https://open.spotify.com/track/4OVqoD9exHPI6c1Zt2aVdT"
@@ -25076,6 +25076,28 @@
       "duration_ms": 211890,
       "name": "Still Got Love",
       "url": "https://open.spotify.com/track/5XeXoq6bSIrzWdFX1kgzZ8"
+    },
+    {
+      "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/09Jexwk7SWNLDHj4LwPcZ9"
+      },
+      "artists": [
+        {
+          "name": "Mindflip",
+          "url": "https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi"
+        },
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136897,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/0lCQmmsXJSLah3ybJ9O9pJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-158 songs - 10 hr 26 min
+159 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Cumbia Fuerte \- En Vivo](https://open.spotify.com/track/6SVlZ15BSPgi0ieB4SO8gG) | [La Provisoria](https://open.spotify.com/artist/1oExLOsTX1ok1TCH0FSf1h) | [Vivo Niceto Club](https://open.spotify.com/album/3tbUBD2mtaeIDsjsyNAshh) | 3:42 | 2022-03-25 | 2022-07-14 |
 | [Cóncavo y Convexo \- En Vivo](https://open.spotify.com/track/3t7KW4pk5pvAZtOIWxXCTR) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [En Vivo en Ciudad Cultural Konex](https://open.spotify.com/album/6Vyd5KnNi0zKuYXbbfqNTy) | 3:38 | 2022-01-03 | 2022-10-30 |
 | [Damas Gratis Mix](https://open.spotify.com/track/2zJ5HUOwz7eX21MVLG9DG8) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Damas Gratis Mix](https://open.spotify.com/album/5yS2IHOvthngA9QJM59NYb) | 5:17 | 2021-12-10 | 2022-07-28 |
-| [Decir Adiós \- En Vivo](https://open.spotify.com/track/3CBdi6o9Egg357jbpxBi60) | [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Show En Parque Recondo](https://open.spotify.com/album/5olJyfS4YAdQJk6wiNmLDG) | 2:11 | 2022-06-03 |  |
+| [Decir Adiós \- En Vivo](https://open.spotify.com/track/3CBdi6o9Egg357jbpxBi60) | [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Show En Parque Recondo](https://open.spotify.com/album/5olJyfS4YAdQJk6wiNmLDG) | 2:11 | 2022-06-03 | 2024-07-06 |
 | [Después De Ti](https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 1:21 | 2021-12-10 | 2024-06-20 |
 | [Dime Si Eres Feliz \- En Vivo](https://open.spotify.com/track/7tl6gH6Mhaf9tz9JGlXBw6) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Crecer \(En Vivo\)](https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE) | 3:32 | 2022-08-26 | 2024-04-19 |
 | [Dime Si Eres Feliz \- Vivo](https://open.spotify.com/track/2GZs2PsaucrkL1pBpA7Ym7) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Crecer \(En Vivo\)](https://open.spotify.com/album/6GB3GNXuINYpN8MxBNTe2E) | 3:32 | 2021-12-10 | 2022-09-17 |
@@ -161,6 +161,7 @@
 | [Una Copa de Más \- En Vivo](https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr) | [Sonido Caracol](https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Una Copa de Más \(En Vivo\)](https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL) | 5:16 | 2023-04-17 |  |
 | [Vamos A Bailar](https://open.spotify.com/track/3hV51n3q3lA9cZfsIYe6xt) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [En Vivo](https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI) | 4:58 | 2022-08-26 | 2023-04-16 |
 | [Vamos A Bailar](https://open.spotify.com/track/45w6jlCTU1PEIAlYZYNhtT) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [En Vivo](https://open.spotify.com/album/1LdPP5ucu3EselExGmWjPy) | 4:58 | 2021-12-10 | 2022-09-12 |
+| [Vete \- En Vivo](https://open.spotify.com/track/5EkVGJzbtrFPoTpMIapgBu) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE), [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Artistas invitados, Pt\. 3 \(En Vivo\)](https://open.spotify.com/album/1zXO3nXZgTKRcxpAzPMcpk) | 1:35 | 2024-07-05 |  |
 | [Y Tu Te Vas / Pídeme](https://open.spotify.com/track/1Ze4dVOuJq5SjjY98UjhSt) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT) | [Y Tu Te Vas / Pídeme](https://open.spotify.com/album/3HtRs4GRpIbMTT4qncwElQ) | 5:50 | 2023-04-24 |  |
 | [Ya Te Olvide \- En Vivo](https://open.spotify.com/track/1Xhy66Vvyk4KUSNWx3P8Qf) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Ya Te Olvide \(En Vivo\)](https://open.spotify.com/album/69vSl7Ue6NQe92t0k7LVwC) | 4:20 | 2021-12-10 | 2022-07-29 |
 | [Yo Tengo un Angel \- En Vivo](https://open.spotify.com/track/73lLqZyFsu6jGFfD1e7nYI) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Yo Tengo un Angel \(En Vivo\)](https://open.spotify.com/album/6nqRXecIGxl5eDTNekrldR) | 2:09 | 2022-03-18 | 2022-07-25 |

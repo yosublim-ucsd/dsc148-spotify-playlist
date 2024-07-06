@@ -1,12 +1,12 @@
 {
   "description": "This is Gojira. The essential tracks, all in one playlist.",
-  "num_followers": 116010,
+  "num_followers": 116051,
   "original_name": "This Is Gojira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAADN4zh8fn+9n81KxFMWpWAj",
+  "snapshot_id": "ZoXmAAAAAACay49K/swI+u+T0/Ke3Dsh",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Mars to Sirius",
-        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
+        "name": "Our Time Is Now",
+        "url": "https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 348013,
-      "name": "From The Sky",
-      "url": "https://open.spotify.com/track/2MTneA2YvNBzvd8zDpWE4n"
+      "duration_ms": 271417,
+      "name": "Our Time Is Now",
+      "url": "https://open.spotify.com/track/0dDs144SVansAFynvKYQMW"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From Mars to Sirius",
+        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 348013,
+      "name": "From The Sky",
+      "url": "https://open.spotify.com/track/2MTneA2YvNBzvd8zDpWE4n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "L'Enfant Sauvage (Special Edition)",
         "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 274480,
       "name": "The Axe",
       "url": "https://open.spotify.com/track/25I6CiICRyGB0K7E9c7Ho0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From Mars to Sirius",
-        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 144786,
-      "name": "From Mars",
-      "url": "https://open.spotify.com/track/4CJ7iadNL15GuTr7fXMqxr"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From Mars to Sirius",
+        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 144786,
+      "name": "From Mars",
+      "url": "https://open.spotify.com/track/4CJ7iadNL15GuTr7fXMqxr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fortitude",
         "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 396634,
       "name": "New Found",
       "url": "https://open.spotify.com/track/3Kl4f3sVKb8iwQ8ZffHim6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From Mars to Sirius",
-        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 332760,
-      "name": "Ocean Planet",
-      "url": "https://open.spotify.com/track/6nSKJWDpiNiLgmdofhgRXw"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
       "duration_ms": 344746,
       "name": "Esoteric surgery",
       "url": "https://open.spotify.com/track/7bUcTW0mHg4Ec0kgdXemEG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Mars to Sirius",
+        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 332760,
+      "name": "Ocean Planet",
+      "url": "https://open.spotify.com/track/6nSKJWDpiNiLgmdofhgRXw"
     },
     {
       "added_at": null,
@@ -647,22 +663,6 @@
       "duration_ms": 270225,
       "name": "Lizard Skin",
       "url": "https://open.spotify.com/track/5CPRRhl7cWZPGv9kGISivd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Terra Incognita",
-        "url": "https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 309674,
-      "name": "Blow Me Away You - Niverse",
-      "url": "https://open.spotify.com/track/3FfsRhBRDE7yxQbRZuSzBM"
     }
   ],
   "unique_name": "This Is Gojira",

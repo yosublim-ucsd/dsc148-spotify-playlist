@@ -598,7 +598,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 211200,
       "name": "Arcane Ooze",
       "url": "https://open.spotify.com/track/2nsC5w9pVl93uG80vanP5j"
@@ -1547,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "Boarding Party",
+        "url": "https://open.spotify.com/album/2hG59Objv4njdYDRnM3wvr"
+      },
+      "artists": [
+        {
+          "name": "Space Wizard",
+          "url": "https://open.spotify.com/artist/1wcleSLRiSdM4P0ugXdg3H"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "Boarding Party",
+      "url": "https://open.spotify.com/track/73mJVsxtk0oXxhxr0GqgeA"
+    },
+    {
+      "album": {
         "name": "Bone Breaker",
         "url": "https://open.spotify.com/album/04CwA0cKXWaySTpciO8vcx"
       },
@@ -1944,7 +1962,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 275200,
       "name": "BURN UP",
       "url": "https://open.spotify.com/track/7mo99X14j5mkgbYXjaH7WW"
@@ -2856,7 +2874,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 231724,
       "name": "CYBERHELL",
       "url": "https://open.spotify.com/track/2NfAq9xX1bEVWueNRDZh7n"
@@ -2962,6 +2980,28 @@
       "duration_ms": 287000,
       "name": "Dead Man Walking",
       "url": "https://open.spotify.com/track/1BocvYKP6Khn2AXOLqNmUS"
+    },
+    {
+      "album": {
+        "name": "Dead to Rights",
+        "url": "https://open.spotify.com/album/5HSlFY8bnz9560igqUpUrv"
+      },
+      "artists": [
+        {
+          "name": "Cyberoptics",
+          "url": "https://open.spotify.com/artist/071KeoRJhoGdiaZXSxCEnJ"
+        },
+        {
+          "name": "Figure",
+          "url": "https://open.spotify.com/artist/5mADpqv2E8KIHDmEhH7wmr"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267433,
+      "name": "Dead To Rights",
+      "url": "https://open.spotify.com/track/3xk4odE5KMjlQIDcprWmlO"
     },
     {
       "album": {
@@ -4281,6 +4321,28 @@
     },
     {
       "album": {
+        "name": "estrondo da morte",
+        "url": "https://open.spotify.com/album/5UodKGwqbLfKsWTywDy2oo"
+      },
+      "artists": [
+        {
+          "name": "Code: Pandorum",
+          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+        },
+        {
+          "name": "Qoiet",
+          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "estrondo da morte",
+      "url": "https://open.spotify.com/track/4U0tBHpKjvXEEXsovQvOkx"
+    },
+    {
+      "album": {
         "name": "Event Horizon",
         "url": "https://open.spotify.com/album/1NyJ0JVameoQbDzzaR6liX"
       },
@@ -4420,7 +4482,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 204370,
       "name": "Face Lift",
       "url": "https://open.spotify.com/track/7AGiUADvmOw5MjhGOQKtOr"
@@ -6748,7 +6810,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 241632,
       "name": "Insidious",
       "url": "https://open.spotify.com/track/0KlN0Cyk1wZA1kwFWJVZtN"
@@ -7633,6 +7695,32 @@
     },
     {
       "album": {
+        "name": "Mad Ting",
+        "url": "https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194685,
+      "name": "Mad Ting",
+      "url": "https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9"
+    },
+    {
+      "album": {
         "name": "Madara",
         "url": "https://open.spotify.com/album/17JIU9E1un5GmXxEGBjjEl"
       },
@@ -8412,6 +8500,28 @@
       "duration_ms": 149666,
       "name": "NEMESIS",
       "url": "https://open.spotify.com/track/6q1kgH3t1gYbGRD3sVV2ra"
+    },
+    {
+      "album": {
+        "name": "Never Be Gold",
+        "url": "https://open.spotify.com/album/3kph1CFI4PHdHsarA8vnNv"
+      },
+      "artists": [
+        {
+          "name": "HVDES",
+          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+        },
+        {
+          "name": "CRaymak",
+          "url": "https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245076,
+      "name": "Never Be Gold",
+      "url": "https://open.spotify.com/track/33v3pCQef3HBtjPoEEyGU9"
     },
     {
       "album": {
@@ -9535,6 +9645,28 @@
     },
     {
       "album": {
+        "name": "Pop, Lock & Drop It",
+        "url": "https://open.spotify.com/album/38Ekud22i84S9aKovvGeNo"
+      },
+      "artists": [
+        {
+          "name": "Izzy Vadim",
+          "url": "https://open.spotify.com/artist/3mEgLhTVxuUG4n1ezLNY5l"
+        },
+        {
+          "name": "Huey",
+          "url": "https://open.spotify.com/artist/33wbkdcxtduHKY53LnI1Hf"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "Pop, Lock & Drop It",
+      "url": "https://open.spotify.com/track/3MGgzQBgl3nnrqychGdTtw"
+    },
+    {
+      "album": {
         "name": "CROWN OF TORMENT",
         "url": "https://open.spotify.com/album/5eZvQ2sA1DFSXILHEvnhYv"
       },
@@ -9718,6 +9850,24 @@
       "duration_ms": 129600,
       "name": "Psychosis - VIP Mix",
       "url": "https://open.spotify.com/track/5G2yowSJVtqadcVdKzNs54"
+    },
+    {
+      "album": {
+        "name": "Pugilist Pit",
+        "url": "https://open.spotify.com/album/31tnttFIbaww56CYl5tF5K"
+      },
+      "artists": [
+        {
+          "name": "Midnight Tyrannosaurus",
+          "url": "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210482,
+      "name": "Pugilist Pit",
+      "url": "https://open.spotify.com/track/1zXnPu1SIruF04j5rGlpHz"
     },
     {
       "album": {
@@ -12184,7 +12334,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 160000,
       "name": "STORM THE CASTLE",
       "url": "https://open.spotify.com/track/26x6tpt8ZG8mMJGrh0A8CR"
@@ -14354,7 +14504,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 188689,
       "name": "Whoah, Fire!",
       "url": "https://open.spotify.com/track/1m3PihD00HUc3eNeabNCEg"

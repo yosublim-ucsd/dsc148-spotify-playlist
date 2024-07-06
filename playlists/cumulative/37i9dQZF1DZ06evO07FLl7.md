@@ -2,9 +2,9 @@
 
 ### [This Is Tassia Reis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO07FLl7)
 
-> This is Tassia Reis\. The essential tracks, all in one playlist.
+> This is Tassia Reis\. Todos os maiores hits em uma só playlist.
 
-65 songs - 4 hr 12 min
+66 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Ansiejazz](https://open.spotify.com/track/0tZVFCC60EASRBcdv9OTjY) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 2:59 | 2023-09-18 |  |
 | [BABY](https://open.spotify.com/track/3caKU7alEI7k7umlX9m6UA) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Kayuá](https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH) | [FEBRE AMARELA](https://open.spotify.com/album/6niwDsmhFpUuWWoiT9s3q4) | 3:22 | 2023-09-18 | 2024-06-18 |
 | [Bem Longe do Fim](https://open.spotify.com/track/2j3dKkYkaknKhACoUxlPMs) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 3:33 | 2024-03-16 |  |
+| [Black Loro](https://open.spotify.com/track/4oXmqXtCQhbK77XGg4c8fx) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Black Loro](https://open.spotify.com/album/6be6POk7ENDnzbgBFlTfYh) | 2:45 | 2024-07-06 |  |
 | [BoxOkê](https://open.spotify.com/track/0G7AtVdCLQAGrGjRbLvCeK) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi), [ATR](https://open.spotify.com/artist/4l4EjHjmOJyDgzN9Vqukn0), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Remonta](https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH) | 3:17 | 2023-09-18 |  |
 | [Bêbada de Feriado](https://open.spotify.com/track/23C1cUsh8QcMZZfUXiXbeR) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J) | [Próspera D+](https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj) | 3:54 | 2023-09-18 |  |
 | [Calma Preta](https://open.spotify.com/track/75igikg3xWQPFhHHVj3jdT) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN) | 3:09 | 2023-09-18 |  |
@@ -56,7 +57,7 @@
 | [Preta](https://open.spotify.com/track/5vr8UkemCFnCjIfQ4gbTj5) | [TH4I](https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Preta](https://open.spotify.com/album/4DTdTAABJ6pPmbLc3eTaJe) | 3:10 | 2023-10-05 | 2023-11-11 |
 | [Preta D+](https://open.spotify.com/track/1RsXIRweHrvL1MqmxHgiKf) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 3:14 | 2023-09-18 |  |
 | [Primavera](https://open.spotify.com/track/4nrBZ1bxeP1JYL0jykNWOK) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN) | 3:18 | 2023-09-18 |  |
-| [Próspera D+](https://open.spotify.com/track/587Wwyisn5zHduewGcBWt1) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera D+](https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj) | 2:21 | 2023-09-18 |  |
+| [Próspera D+](https://open.spotify.com/track/587Wwyisn5zHduewGcBWt1) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera D+](https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj) | 2:21 | 2023-09-18 | 2024-07-06 |
 | [Pérola](https://open.spotify.com/track/5roVS9zsTErv2UetMM45Z4) | [WEKS](https://open.spotify.com/artist/4v157m8UraCNRXlW8wpkRN), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Pérola](https://open.spotify.com/album/19Sy32AXcvFQgTV4JyliwN) | 3:05 | 2023-10-01 | 2023-10-11 |
 | [Rude](https://open.spotify.com/track/3rdUXvGBzH97grQewH9AtO) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [EVEHIVE](https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h) | [Rude](https://open.spotify.com/album/68UOEAyDvW6kxhDDMF5NOC) | 2:54 | 2023-09-18 |  |
 | [Se Avexe Não](https://open.spotify.com/track/27hosIGRjZMgGU8HUuKIKc) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v) | 3:44 | 2023-09-18 |  |

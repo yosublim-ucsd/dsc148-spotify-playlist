@@ -1,12 +1,12 @@
 {
-  "description": "This Is El Fantasma. Los temas esenciales, todos en una lista.",
-  "num_followers": 431412,
+  "description": "This is El Fantasma. The essential tracks, all in one playlist.",
+  "num_followers": 431490,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAAA5K1v152UWjFIGmn9k0PHq",
+  "snapshot_id": "ZoXmAAAAAAB/di7p39Amxjxj5zyeHouc",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolor y Amor",
-        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 159613,
-      "name": "Dolor y Amor",
-      "url": "https://open.spotify.com/track/7JF3vH3qtE35wKztVK7398"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UVV Vol. 8 (En Vivo)",
         "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 194000,
       "name": "Fuerza (En Vivo)",
       "url": "https://open.spotify.com/track/7BYqMtURItgUntm7rkj7jz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dolor y Amor",
+        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 159613,
+      "name": "Dolor y Amor",
+      "url": "https://open.spotify.com/track/7JF3vH3qtE35wKztVK7398"
     },
     {
       "added_at": null,
@@ -823,6 +823,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DE 8 A 5",
+        "url": "https://open.spotify.com/album/5qiRNbxxZW5kUPFA9v0O8c"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 194477,
+      "name": "De 8 A 5",
+      "url": "https://open.spotify.com/track/19CPH67llc3aSBnTtQNTZE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bien EnRRedado",
         "url": "https://open.spotify.com/album/1iXDvhAunMV7qEEMFDzCvp"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 172993,
       "name": "Bien EnRRedado",
       "url": "https://open.spotify.com/track/6Qld1xtQDQS4FqdhgOQ6V7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DE 8 A 5",
-        "url": "https://open.spotify.com/album/5qiRNbxxZW5kUPFA9v0O8c"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 194477,
-      "name": "De 8 A 5",
-      "url": "https://open.spotify.com/track/19CPH67llc3aSBnTtQNTZE"
     },
     {
       "added_at": null,

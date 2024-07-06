@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades do pop nacional pra te deixar mais leve! Foto: GUPE",
+  "description": "Novidades do pop nacional pra te deixar mais leve! Foto: MAR ABERTO, Jo\u00e3o Mar",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 207110,
       "name": "Azul",
       "url": "https://open.spotify.com/track/1kLIaT39bF27PX2xGEhjMx"
@@ -1844,7 +1844,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 132636,
       "name": "Cear\u00e1",
       "url": "https://open.spotify.com/track/4und8X5ZjsDoFJMUyQoZX6"
@@ -2778,6 +2778,24 @@
       "duration_ms": 190825,
       "name": "De Mansinho",
       "url": "https://open.spotify.com/track/0pNZN7o0JWq9EXoPCutAHn"
+    },
+    {
+      "album": {
+        "name": "De Novo",
+        "url": "https://open.spotify.com/album/45qeCoq05K7BO45Kg5pVnY"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161656,
+      "name": "De Novo",
+      "url": "https://open.spotify.com/track/5mDLtG5amHhOH6CIZEMtoe"
     },
     {
       "album": {
@@ -5167,6 +5185,24 @@
     },
     {
       "album": {
+        "name": "GUARDA O TEU CORA\u00c7\u00c3O",
+        "url": "https://open.spotify.com/album/6ygRDr2Uf4Tz7jvVitXyJy"
+      },
+      "artists": [
+        {
+          "name": "Arthur Martins",
+          "url": "https://open.spotify.com/artist/1DqIsYBAF5gtBsKQI5dPXd"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "GUARDA O TEU CORA\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/0IHNarDUnqJzHCWSGeGSGS"
+    },
+    {
+      "album": {
         "name": "Horizonte",
         "url": "https://open.spotify.com/album/2yfBvpXbJ15VXJSKU6YTJH"
       },
@@ -5994,6 +6030,28 @@
       "duration_ms": 203896,
       "name": "Massagem",
       "url": "https://open.spotify.com/track/0rJvi7IQP6JLO5djPLvaZx"
+    },
+    {
+      "album": {
+        "name": "Massagem nas Costas",
+        "url": "https://open.spotify.com/album/19tU95QBl4RTYwM28LW9Dq"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        },
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159280,
+      "name": "Massagem nas Costas",
+      "url": "https://open.spotify.com/track/230Z8Ryx3tj4LfmtVGvMrJ"
     },
     {
       "album": {
@@ -8917,6 +8975,28 @@
     },
     {
       "album": {
+        "name": "Quem Sabe",
+        "url": "https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc"
+      },
+      "artists": [
+        {
+          "name": "Julies",
+          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
+        },
+        {
+          "name": "Sofia Gayoso",
+          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173858,
+      "name": "Quem Sabe",
+      "url": "https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB"
+    },
+    {
+      "album": {
         "name": "Quero Bem Mais",
         "url": "https://open.spotify.com/album/67c6vSA5eLN2Q98gIuzdNL"
       },
@@ -9247,6 +9327,28 @@
     },
     {
       "album": {
+        "name": "PROIBIDO N\u00c3O GOSTAR",
+        "url": "https://open.spotify.com/album/69WlCG6kcfEwIinh2asJcu"
+      },
+      "artists": [
+        {
+          "name": "Duda Brack",
+          "url": "https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab"
+        },
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/7JqcuxIUQDuLNE8LMoRB7X"
+    },
+    {
+      "album": {
         "name": "Rom\u00e2ntica Demais",
         "url": "https://open.spotify.com/album/7JZHxFyLvQZe5dlGuXp7cE"
       },
@@ -9485,7 +9587,7 @@
       "artists": [
         {
           "name": "Gabriela",
-          "url": "https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM"
+          "url": "https://open.spotify.com/artist/1Xh87BgBDuD8UpD6erCSBQ"
         }
       ],
       "date_added": "2024-07-01",
@@ -9794,7 +9896,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 228631,
       "name": "Sem Saber Seu Nome",
       "url": "https://open.spotify.com/track/7DmmaG43Jq3rZUDR3bITqD"
@@ -9920,7 +10022,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 208819,
       "name": "seus planos",
       "url": "https://open.spotify.com/track/5pDqtLsN7vFmyWrTIGrNFR"
@@ -11284,7 +11386,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 174339,
       "name": "Tudo Vai Ser Como Deve Ser",
       "url": "https://open.spotify.com/track/6UVvpnthUpkYT7dQu3oJbQ"
@@ -11804,7 +11906,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 172329,
       "name": "Vento",
       "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
@@ -12600,6 +12702,24 @@
       "duration_ms": 178666,
       "name": "\u00d3leo de Coco",
       "url": "https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z"
+    },
+    {
+      "album": {
+        "name": "Urbano",
+        "url": "https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129381,
+      "name": "\u00d4 Sorte",
+      "url": "https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB"
     },
     {
       "album": {

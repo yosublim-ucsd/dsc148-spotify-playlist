@@ -2,9 +2,9 @@
 
 ### [New Música Mexicana Albums](https://open.spotify.com/playlist/37i9dQZF1DWXbC1ZOkTuut)
 
-> Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Peso Pluma
+> Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: El Mimiso Luis Antonio López
 
-508 songs - 1 day 2 hr 12 min
+511 songs - 1 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Mis Compas](https://open.spotify.com/track/27I5mfTqctVRiZqrIGns8g) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mis Compas Vol\. 1](https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa) | 3:43 | 2024-05-10 |  |
 | [Motivos](https://open.spotify.com/track/1hqmf2KAa5PaHgQhOEctZd) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 3:10 | 2023-09-22 | 2024-02-24 |
 | [Muchacha \- Con Grupo Firme](https://open.spotify.com/track/3DOu0f6GA30IurY1cAE4zz) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [CHSM El Higado!](https://open.spotify.com/album/3VbpI9PvaAPstho7ce8umB) | 3:13 | 2023-09-15 | 2024-02-24 |
+| [Muchas Gracias](https://open.spotify.com/track/3Dhcr9UlOvFZc70ATuDL2J) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Luciano Luna](https://open.spotify.com/artist/57BbKXJtNatw70ug0uOzQq) | [Obra Maestra](https://open.spotify.com/album/6H5D1HZktbeGJN8iDGNORq) | 3:53 | 2024-07-05 |  |
 | [Mujeres Divinas](https://open.spotify.com/track/1aonRnI6HP31i30Gcbsuj6) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [México en Mi Voz](https://open.spotify.com/album/3K6llo2F2tGmc8d2dww0xE) | 3:19 | 2023-09-15 | 2024-02-24 |
 | [Mundo De Marfil](https://open.spotify.com/track/3esEg8OKVi1RFQpW5z24sW) | [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq) | [Limbo \(Con Mi Hermano\)](https://open.spotify.com/album/7azWeMopMTqNlUXiSZCcIc) | 4:05 | 2023-09-22 | 2024-02-24 |
 | [Muy Tarde](https://open.spotify.com/track/2lVoEj7kqIOofHdnIDwVBr) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve) | [Casa Lumbre](https://open.spotify.com/album/2sreILB4Eo77xBpLNrv8DT) | 3:09 | 2023-11-10 | 2024-02-24 |
@@ -339,6 +340,7 @@
 | [No Fuiste Tú](https://open.spotify.com/track/2GgTs6KZ2ACoEVqbsIUkEN) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:42 | 2024-05-03 |  |
 | [No Mata Un Adiós](https://open.spotify.com/track/57t2aQMU7ALAuH8GRbCqy7) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Neta Que No](https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr) | 3:12 | 2024-03-29 |  |
 | [No Me Cree](https://open.spotify.com/track/0qBywtCUGYAlKDdcALQkjx) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Apadrinado](https://open.spotify.com/album/7KvMBCC3HVeMeF0wL3oTEn) | 3:20 | 2023-09-29 | 2024-02-24 |
+| [No Me Digas Amor](https://open.spotify.com/track/4N6ptPHdpOhd2ZrCRbUXxt) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Meño Segovia](https://open.spotify.com/artist/10yoMUJRhiYQXeSBqyckcK) | [Obra Maestra](https://open.spotify.com/album/6H5D1HZktbeGJN8iDGNORq) | 3:25 | 2024-07-05 |  |
 | [No Me Gusta Hablar](https://open.spotify.com/track/2G6fO9jyYNsJc5r4ENpQTG) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Ando En Lo Mío](https://open.spotify.com/album/2tEVr2cieLQYhf4WZMGz6v) | 2:57 | 2023-12-08 | 2024-04-13 |
 | [No Me Mereces](https://open.spotify.com/track/6TYQ3qHExWkDkXMhZvOY3W) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Valió La Pena Con Mariachi](https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW) | 3:26 | 2023-05-19 | 2023-06-24 |
 | [No Me Quejo \- En Vivo](https://open.spotify.com/track/3VKGf3HLYL5lqIBmB62aH9) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón, Vol\. II \(En Vivo\)](https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13) | 4:21 | 2024-06-07 |  |
@@ -510,6 +512,7 @@
 | [Ya Ves](https://open.spotify.com/track/56dIcGpwScRmTv62eYKoq8) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Prefiero Estar Contigo \(Deluxe\)](https://open.spotify.com/album/0RyJXHmyxfV0JlTonmmAyx) | 3:09 | 2023-05-19 | 2023-06-24 |
 | [Yo Se Que Se Siente](https://open.spotify.com/track/7t9Bqf5BPAQ5bygjqOpSrH) | [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [INSURGENTE](https://open.spotify.com/album/3EF9OFj3hQxwiNQrEbLqjr) | 3:56 | 2023-06-16 | 2024-02-24 |
 | [Yo soy Gallo](https://open.spotify.com/track/4pZwvYTjHKvDGRr8giavD8) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Corridos Makabroz](https://open.spotify.com/album/5brpkBl857UcX7DX8L9oZQ) | 3:07 | 2024-02-23 |  |
+| [Yo Te Amaría](https://open.spotify.com/track/40RYeA4GmHEl6JRHDBOf9Q) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Alfaro Aylin](https://open.spotify.com/artist/1LhsOXXFjJ34cGh2i1pSQ4) | [Obra Maestra](https://open.spotify.com/album/6H5D1HZktbeGJN8iDGNORq) | 4:15 | 2024-07-05 |  |
 | [Yo Te Extrañaré](https://open.spotify.com/track/6MHmMj5jjQuMNjAagOqmdG) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Yo Te Extrañaré](https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20) | 4:55 | 2024-02-23 |  |
 | [Zona Roja R1](https://open.spotify.com/track/06xoj7olTITKHMB9iVgQsF) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [Corridos De Encargo, Vol\. 4](https://open.spotify.com/album/1VwbxW7BrjQDV7TXcz1KWi) | 3:04 | 2023-07-14 | 2024-02-24 |
 | [¿Quién Te Crees Para Olvidarme?](https://open.spotify.com/track/55fh0qyQ7wQxlWhMNja8C0) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [¿Quién Te Crees Para Olvidarme?](https://open.spotify.com/album/3VpfYbUmvVc7oAPFPoxK2s) | 2:44 | 2023-08-25 | 2024-02-24 |

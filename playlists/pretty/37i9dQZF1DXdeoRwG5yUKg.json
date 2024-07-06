@@ -1,13 +1,33 @@
 {
   "description": "Soulful, bluesy ballads. Cover: The War and Treaty",
-  "num_followers": 92442,
+  "num_followers": 92471,
   "original_name": "Blue Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZeqbjAAAAAB2xbBAnSAJFrIBd9rvxUio",
+  "snapshot_id": "ZodvwAAAAAC4vK7ZXix8T4EG2yDcFB68",
   "tracks": [
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7yesF2kWMklf0zDJQRDzGj"
+      },
+      "artists": [
+        {
+          "name": "Tom Rhodes",
+          "url": "https://open.spotify.com/artist/4lsAzbWcYZblSVl1zhT9bc"
+        },
+        {
+          "name": "Colin Coppola",
+          "url": "https://open.spotify.com/artist/5XR0RFAEuZPD5ldYChGadC"
+        }
+      ],
+      "duration_ms": 210176,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/5ryxnvRfWi9q8BHlNHLzOv"
+    },
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
@@ -1215,22 +1235,6 @@
       "duration_ms": 239226,
       "name": "Lay My Head On Your Pillow",
       "url": "https://open.spotify.com/track/6ZN106OpbakIb13AswoWOw"
-    },
-    {
-      "added_at": "2020-11-05 20:25:04",
-      "album": {
-        "name": "Original",
-        "url": "https://open.spotify.com/album/205WlLTwMDXBqF6Uexj9b4"
-      },
-      "artists": [
-        {
-          "name": "Janiva Magness",
-          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
-        }
-      ],
-      "duration_ms": 240613,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/5aXHTenMHl2XDsN9L4FW6F"
     },
     {
       "added_at": "2020-11-05 20:25:04",

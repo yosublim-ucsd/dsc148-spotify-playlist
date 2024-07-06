@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsi i najlepiej rockuj\u0105cy na polskiej scenie. Cover: Verde",
+  "description": "Najlepsi i najlepiej rockuj\u0105cy na polskiej scenie. Cover: 8 Lat W Tybecie",
   "name": "Tylko Polski Rock",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 169090,
       "name": "7/8 wiosny",
       "url": "https://open.spotify.com/track/1e7k48QWsUS5IcTm6VZ1f9"
+    },
+    {
+      "album": {
+        "name": "9.",
+        "url": "https://open.spotify.com/album/3jtRfh6jOJBEt4fQ2tgFYj"
+      },
+      "artists": [
+        {
+          "name": "Fuzz'Ya",
+          "url": "https://open.spotify.com/artist/6JoYuiIQOXlD20IipAK7jU"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205945,
+      "name": "9.",
+      "url": "https://open.spotify.com/track/078qBtzNUwFPJhQafqouVp"
     },
     {
       "album": {
@@ -236,7 +254,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 270000,
       "name": "CONSTRUCT.IO",
       "url": "https://open.spotify.com/track/1IKOqHNjP0V8bDp9MLOG7H"
@@ -653,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Ko\u0142owrotek",
+        "url": "https://open.spotify.com/album/218Gbopr1WBBtDj7VwN8kJ"
+      },
+      "artists": [
+        {
+          "name": "Wojtek Szuma\u0144ski",
+          "url": "https://open.spotify.com/artist/6CoX6j5AX2rK7bRawkDqEI"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178170,
+      "name": "Ko\u0142owrotek",
+      "url": "https://open.spotify.com/track/3P5Sj49AHNNyA4GgJ6WID7"
+    },
+    {
+      "album": {
         "name": "Zenit",
         "url": "https://open.spotify.com/album/5q2RxVPhclLTZFiHFJSBaq"
       },
@@ -758,7 +794,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 159335,
       "name": "Mamy Problem",
       "url": "https://open.spotify.com/track/5UAF5S4TlidMa0vEU3qBTN"
@@ -924,7 +960,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 264816,
       "name": "Na tej mokrej trawie",
       "url": "https://open.spotify.com/track/7grFBQH0Be2dGPhYOKpFmk"
@@ -949,6 +985,24 @@
     },
     {
       "album": {
+        "name": "nauka p\u0142ywania w weekend",
+        "url": "https://open.spotify.com/album/6PMGvdnkowVQYa9R6Ucn4k"
+      },
+      "artists": [
+        {
+          "name": "osoby",
+          "url": "https://open.spotify.com/artist/0NpiJ7e1PgwFFvRP7FxXyC"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214849,
+      "name": "nauka p\u0142ywania w weekend",
+      "url": "https://open.spotify.com/track/4FpBn2emdBZDMd1PZxZwTw"
+    },
+    {
+      "album": {
         "name": "Nie b\u0119dziesz sama",
         "url": "https://open.spotify.com/album/0Ie70wAYpDE19rZP9a4rlN"
       },
@@ -960,7 +1014,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 209885,
       "name": "Nie b\u0119dziesz sama",
       "url": "https://open.spotify.com/track/3vrkC46BdPPnyoUIWotHFF"
@@ -1032,7 +1086,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 215400,
       "name": "Ozdoba",
       "url": "https://open.spotify.com/track/32GWeHkDUF3PhWPM1U1DuX"
@@ -1122,7 +1176,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 284741,
       "name": "Pogo / Na razie stoj\u0119, Na razie patrz\u0119",
       "url": "https://open.spotify.com/track/71e4iZsTmzqPidLcyZFjLk"
@@ -1237,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "PPP/CONSTRUCT.IO/RODE-O",
+        "url": "https://open.spotify.com/album/2S3yxwPc6vFp8y4JkQz7w8"
+      },
+      "artists": [
+        {
+          "name": "hage-o",
+          "url": "https://open.spotify.com/artist/62lJ6hETzegyVN4xXIYCop"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155131,
+      "name": "RODE-O",
+      "url": "https://open.spotify.com/track/0exKPNWiWqlYzHyiLYiSOm"
+    },
+    {
+      "album": {
         "name": "Rudy 102",
         "url": "https://open.spotify.com/album/41faJzIXyWO9mFRTQhFcMp"
       },
@@ -1288,6 +1360,28 @@
       "duration_ms": 198626,
       "name": "Samo Z\u0142o",
       "url": "https://open.spotify.com/track/5vlNQwA8jRik5FycTqwKhh"
+    },
+    {
+      "album": {
+        "name": "SKATE OR DIE feat. LEO ROS",
+        "url": "https://open.spotify.com/album/7x4BIxqd1wG5rpJ12qdgIJ"
+      },
+      "artists": [
+        {
+          "name": "W\u0119\u017ce",
+          "url": "https://open.spotify.com/artist/1HjJ1TjM0fXh0ufEpX1M9B"
+        },
+        {
+          "name": "Leo Ros",
+          "url": "https://open.spotify.com/artist/1qXCTpQh1JNGdTnHRnUjtf"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103177,
+      "name": "SKATE OR DIE feat. LEO ROS",
+      "url": "https://open.spotify.com/track/0Ajt6e4j37t60lK6OzBMU2"
     },
     {
       "album": {
@@ -1670,6 +1764,24 @@
       "duration_ms": 161439,
       "name": "Wszystko co kocham",
       "url": "https://open.spotify.com/track/7IEaG22Q1pgUqqgXZ2f8cw"
+    },
+    {
+      "album": {
+        "name": "WWW",
+        "url": "https://open.spotify.com/album/14ICsHCyBORWGMnV7JZ89a"
+      },
+      "artists": [
+        {
+          "name": "Siaki",
+          "url": "https://open.spotify.com/artist/6Hd25UIv7hdmUUTx21LGqm"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154746,
+      "name": "WWW",
+      "url": "https://open.spotify.com/track/3jJ59t5kAibMImhlzBNRPy"
     },
     {
       "album": {

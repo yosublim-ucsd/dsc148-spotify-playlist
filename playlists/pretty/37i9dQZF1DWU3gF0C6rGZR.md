@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 
 > Las obras maestras de dos enormes compositores, una tras otra\. No hay fallo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,599 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,630 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Y Nos Dieron las Diez](https://open.spotify.com/track/1eCie6lwjb4crxeAvkRaSi) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Fisica Y Quimica](https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC) | 5:02 |
-| 2 | [Cantares](https://open.spotify.com/track/3sjv1TBUwUjXeyUrsH3DwJ) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Dedicado A Antonio Machado, Poeta](https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX) | 3:16 |
+| 1 | [19 Dias y 500 Noches \- En Directo](https://open.spotify.com/track/3LXFi1Xk9qJsYXYEjDcuVH) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Nos Sobran Los Motivos](https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv) | 5:19 |
+| 2 | [Penelope](https://open.spotify.com/track/099StFOYvyeMEYQU6jxuyr) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Discografía en Castellano](https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko) | 4:01 |
 | 3 | [La Canción Más Hermosa del Mundo](https://open.spotify.com/track/5UNKhmppwHMhqV2s9iYX6a) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Diario De Un Peaton](https://open.spotify.com/album/3b7tKskjkIsYIYYmmx9JTu) | 4:54 |
 | 4 | [Hoy Puede Ser un Gran Día](https://open.spotify.com/track/5YxgSArh0FDP0CEDuZcYnC) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [En Transito](https://open.spotify.com/album/2OlJAOxMhMBR7wfS5CkfwJ) | 2:10 |
 | 5 | [Y Sin Embargo](https://open.spotify.com/track/3uJ51H6KQNKtwcVm0owsG3) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Esencial Joaquin Sabina](https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet) | 4:31 |
 | 6 | [Tu Nombre Me Sabe a Yerba](https://open.spotify.com/track/3z3DtBS12kXOwaWDlYhh6i) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [La Paloma](https://open.spotify.com/album/10CPq3R1c4Lq9nH4qVA8Eg) | 2:31 |
-| 7 | [19 Dias y 500 Noches \- En Directo](https://open.spotify.com/track/3LXFi1Xk9qJsYXYEjDcuVH) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Nos Sobran Los Motivos](https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv) | 5:19 |
-| 8 | [Penelope](https://open.spotify.com/track/099StFOYvyeMEYQU6jxuyr) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Discografía en Castellano](https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko) | 4:01 |
-| 9 | [Contigo](https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Yo, Mi, Me, Contigo](https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI) | 4:39 |
+| 7 | [Contigo](https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Yo, Mi, Me, Contigo](https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI) | 4:39 |
+| 8 | [Cantares](https://open.spotify.com/track/3sjv1TBUwUjXeyUrsH3DwJ) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Dedicado A Antonio Machado, Poeta](https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX) | 3:16 |
+| 9 | [Y Nos Dieron las Diez](https://open.spotify.com/track/1eCie6lwjb4crxeAvkRaSi) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Fisica Y Quimica](https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC) | 5:02 |
 | 10 | [La Saeta](https://open.spotify.com/track/5d6NoRmMBfFoNRjrWKIPBf) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Dedicado A Antonio Machado, Poeta](https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX) | 2:19 |
 | 11 | [Quién Me Ha Robado el Mes de Abril](https://open.spotify.com/track/1fm8q8fynkggbVDXShFoiw) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Esencial Joaquin Sabina](https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet) | 4:54 |
 | 12 | [Esos Locos Bajitos](https://open.spotify.com/track/47tWQbVn9bJZfH83QiDebk) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [En Transito](https://open.spotify.com/album/2OlJAOxMhMBR7wfS5CkfwJ) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 | 99 | [Parabola](https://open.spotify.com/track/1iYsg65dfhhfE6dqhnySj2) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Dedicado A Antonio Machado, Poeta](https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX) | 2:15 |
 | 100 | [Com Ho Fa el Vent](https://open.spotify.com/track/1UnRlYQY1fyPrOqIKpLLfR) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Com Ho Fa El Vent](https://open.spotify.com/album/7amxIKMZZQE8AUkrXaje1O) | 1:36 |
 
-Snapshot ID: `ZfsSMgAAAADFtzpKvST83AOZQ3flG9Lh`
+Snapshot ID: `ZoevGAAAAAA1ilGvY5U7j34D1vez4+/S`

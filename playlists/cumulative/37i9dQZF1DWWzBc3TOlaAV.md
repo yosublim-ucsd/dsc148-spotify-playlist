@@ -2,7 +2,7 @@
 
 ### [60s Rock Anthems](https://open.spotify.com/playlist/37i9dQZF1DWWzBc3TOlaAV)
 
-> These songs rocked the '60s\. Cover: Jimi Hendrix
+> These songs rocked the '60s\. Cover: The Rolling Stones
 
 150 songs - 8 hr 39 min
 

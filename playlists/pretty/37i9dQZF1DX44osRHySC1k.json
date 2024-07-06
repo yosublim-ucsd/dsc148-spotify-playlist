@@ -1,6 +1,6 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 52390,
+  "num_followers": 52389,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Loving-Kindness",
-        "url": "https://open.spotify.com/album/0cHpCmG4oLbGPStNrpdgMD"
-      },
-      "artists": [
-        {
-          "name": "Vimassana",
-          "url": "https://open.spotify.com/artist/1JwJysIUFMsM5HjV5fJvGv"
-        }
-      ],
-      "duration_ms": 170085,
-      "name": "Loving-Kindness",
-      "url": "https://open.spotify.com/track/4YQn86jDGtlXovQJT9nwiB"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Endless Meditation",
         "url": "https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 163684,
       "name": "Endless Sleep",
       "url": "https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Loving-Kindness",
+        "url": "https://open.spotify.com/album/0cHpCmG4oLbGPStNrpdgMD"
+      },
+      "artists": [
+        {
+          "name": "Vimassana",
+          "url": "https://open.spotify.com/artist/1JwJysIUFMsM5HjV5fJvGv"
+        }
+      ],
+      "duration_ms": 170085,
+      "name": "Loving-Kindness",
+      "url": "https://open.spotify.com/track/4YQn86jDGtlXovQJT9nwiB"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -715,6 +715,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Flowing Strings",
+        "url": "https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8"
+      },
+      "artists": [
+        {
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
+        }
+      ],
+      "duration_ms": 278797,
+      "name": "Buenas Noches",
+      "url": "https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Dream Dependence",
         "url": "https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Flowing Strings",
-        "url": "https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8"
+        "name": "Deep Meditation 50: Relaxation & Sleep, Yoga, Meditation, Massage, Healing Music with Nature Sounds",
+        "url": "https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2"
       },
       "artists": [
         {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
+          "name": "Meditation Music Zone",
+          "url": "https://open.spotify.com/artist/7zwiFdY90oXzLh1Wz22oEq"
         }
       ],
-      "duration_ms": 278797,
-      "name": "Buenas Noches",
-      "url": "https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN"
+      "duration_ms": 249300,
+      "name": "REM Phase",
+      "url": "https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -791,22 +807,6 @@
       "duration_ms": 110434,
       "name": "Loveliness",
       "url": "https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Deep Meditation 50: Relaxation & Sleep, Yoga, Meditation, Massage, Healing Music with Nature Sounds",
-        "url": "https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2"
-      },
-      "artists": [
-        {
-          "name": "Meditation Music Zone",
-          "url": "https://open.spotify.com/artist/7zwiFdY90oXzLh1Wz22oEq"
-        }
-      ],
-      "duration_ms": 249300,
-      "name": "REM Phase",
-      "url": "https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "unspoken",
-        "url": "https://open.spotify.com/album/13YgCo3QU3MKCB5d75wpAI"
-      },
-      "artists": [
-        {
-          "name": "Rosetta Arroyo",
-          "url": "https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "anywhere",
-      "url": "https://open.spotify.com/track/72vxTKMDAc9eh7Nb8wgpHU"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Dulces Sue\u00f1os",
         "url": "https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 245514,
       "name": "Dulces Sue\u00f1os",
       "url": "https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "unspoken",
+        "url": "https://open.spotify.com/album/13YgCo3QU3MKCB5d75wpAI"
+      },
+      "artists": [
+        {
+          "name": "Rosetta Arroyo",
+          "url": "https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "anywhere",
+      "url": "https://open.spotify.com/track/72vxTKMDAc9eh7Nb8wgpHU"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2"
+        "name": "Sleep Well",
+        "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
       },
       "artists": [
         {
-          "name": "Sufi Ellman",
-          "url": "https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz"
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
         }
       ],
-      "duration_ms": 135903,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN"
+      "duration_ms": 146624,
+      "name": "Violin Lullaby",
+      "url": "https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Sleep Well",
-        "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2"
       },
       "artists": [
         {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
+          "name": "Sufi Ellman",
+          "url": "https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz"
         }
       ],
-      "duration_ms": 146624,
-      "name": "Violin Lullaby",
-      "url": "https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd"
+      "duration_ms": 135903,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Eternal Thoughts",
+        "url": "https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP"
+      },
+      "artists": [
+        {
+          "name": "Orbit Release",
+          "url": "https://open.spotify.com/artist/2FBNGiujxsVznAFGo4YvuG"
+        }
+      ],
+      "duration_ms": 241438,
+      "name": "Eternal Thoughts",
+      "url": "https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "In My Quiet Hour",
         "url": "https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 125656,
       "name": "A Missing Piece",
       "url": "https://open.spotify.com/track/4fr2dY1gNyl1J8nz5GUWTs"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Eternal Thoughts",
-        "url": "https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP"
-      },
-      "artists": [
-        {
-          "name": "Orbit Release",
-          "url": "https://open.spotify.com/artist/2FBNGiujxsVznAFGo4YvuG"
-        }
-      ],
-      "duration_ms": 241438,
-      "name": "Eternal Thoughts",
-      "url": "https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Lover Man",
-        "url": "https://open.spotify.com/album/4vT3k8HlxyiOlTEHde8Unz"
-      },
-      "artists": [
-        {
-          "name": "Carl Clementine",
-          "url": "https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg"
-        }
-      ],
-      "duration_ms": 160250,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/6Qur3sb3jen75OnKG2Omv6"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 152581,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/1OTHwPZtINBdYK4wAFyF4V"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/4vT3k8HlxyiOlTEHde8Unz"
+      },
+      "artists": [
+        {
+          "name": "Carl Clementine",
+          "url": "https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg"
+        }
+      ],
+      "duration_ms": 160250,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/6Qur3sb3jen75OnKG2Omv6"
     },
     {
       "added_at": "2021-06-24 10:58:44",

@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\.  Cover: Shenseea
 
-372 songs - 18 hr 38 min
+374 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [Romance](https://open.spotify.com/track/6UdBnXVvJTHm4o8E3ZCo1O) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [Romance](https://open.spotify.com/album/10Or98Yy7DO1vUVaHhLY8I) | 3:18 | 2023-02-10 | 2023-10-28 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2023-01-27 | 2023-03-11 |
 | [Rush](https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:05 | 2023-01-27 | 2024-03-23 |
-| [RYL0VE Song](https://open.spotify.com/track/09Sksb6alLvHMiHsa200n6) | [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [RYL0VE Song](https://open.spotify.com/album/6HBRUgWffKMaS8pWYfzKEN) | 3:04 | 2024-03-22 |  |
+| [RYL0VE Song](https://open.spotify.com/track/09Sksb6alLvHMiHsa200n6) | [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [RYL0VE Song](https://open.spotify.com/album/6HBRUgWffKMaS8pWYfzKEN) | 3:04 | 2024-03-22 | 2024-07-06 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-02-04 | 2023-01-28 |
 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 | 2022-02-04 | 2023-01-28 |
 | [Sandman](https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sandman](https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc) | 3:32 | 2023-06-23 | 2024-06-01 |
@@ -318,12 +318,14 @@
 | [Symphony](https://open.spotify.com/track/72SK3g6dMnNTttykalnyeb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Symphony](https://open.spotify.com/album/5AdRhol1OoCKxwg1Eg0Z7S) | 2:41 | 2023-10-17 | 2024-04-13 |
 | [Syrup](https://open.spotify.com/track/1ocLSTOw9RNTMmHfxkhc7t) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Syrup](https://open.spotify.com/album/2BUrp7pIF6OTVS2Tu8JMpy) | 2:25 | 2022-02-04 | 2022-02-26 |
 | [Tainted Love](https://open.spotify.com/track/4ZGtGVsSemEMqVXU3cox7m) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Banish The Banshee](https://open.spotify.com/album/5G55JBphRFFY6DaYELM6Gk) | 3:21 | 2023-01-27 | 2023-06-24 |
+| [Take It Slow](https://open.spotify.com/track/4i9TjoNNAjYEcgXJ1IX07u) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Take It Slow](https://open.spotify.com/album/0inDI68EUkhmQjo90QcVqh) | 2:19 | 2024-07-05 |  |
 | [Take My Breath](https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 5:39 | 2022-02-04 | 2022-04-16 |
 | [Take Your Man](https://open.spotify.com/track/1CF5kzz5XDBAL24wtVyyTJ) | [Mahogany Lox](https://open.spotify.com/artist/1wG6KrT3zgutFeiCddBivH) | [Take Your Man](https://open.spotify.com/album/1m3nVwnSGaV6Jsc9fIttE8) | 1:57 | 2022-02-04 | 2022-02-26 |
 | [Take Your Time \(Slow Down\)](https://open.spotify.com/track/01eRSf9IjbyWK7wjCygQRn) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [International Girl, Pt\. 1](https://open.spotify.com/album/4C8q9K3fEhwrEULk2akLR7) | 2:13 | 2024-06-14 |  |
 | [TAKUTÁ](https://open.spotify.com/track/3WRXW64cLmy1WSHEs9zgUZ) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [TAKUTÁ](https://open.spotify.com/album/3isNlsXrKxnpbrznyJe2gu) | 2:38 | 2023-03-31 | 2023-08-19 |
 | [Tears \(feat\. Omah Lay\)](https://open.spotify.com/track/0A0MTURTbuUgZNvS9tbh1g) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [CRASH](https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m) | 3:33 | 2024-06-24 |  |
 | [Tears in the Moonlight](https://open.spotify.com/track/2MAz9mZH3n9nVGZWUC2VUh) | [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU) | [Tears in the Moonlight](https://open.spotify.com/album/5VMt4kmFV2RghvnTx9DCyu) | 2:59 | 2023-05-19 | 2023-09-16 |
+| [Tears To Stay](https://open.spotify.com/track/702sclnvy3bqY7KcUZarpr) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Tears To Stay](https://open.spotify.com/album/56v1Xxrq0f6iodYsedT9Bw) | 2:05 | 2024-07-05 |  |
 | [Tell Somebody](https://open.spotify.com/track/1ClHCOX8C1aB9RNtXJrQKO) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [Tell Somebody](https://open.spotify.com/album/4bdbkfQjyuRdCsWR3UAj9C) | 3:19 | 2022-02-04 | 2023-01-28 |
 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 | 2024-02-16 | 2024-06-15 |
 | [telly](https://open.spotify.com/track/01YqF3Nhfu3nsiQnZONpqT) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [telly](https://open.spotify.com/album/2ANxpNOc4tI3yi8baY5q8J) | 2:14 | 2022-02-04 | 2023-01-28 |
@@ -348,7 +350,7 @@
 | [UNISEX \(feat\. Amber Mark\)](https://open.spotify.com/track/23fvPXabTlaUn9zkDb9XU5) | [Shaun Ross](https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [UNISEX \(feat\. Amber Mark\)](https://open.spotify.com/album/4lA6xtiJILqi8VCSc6YXc6) | 3:21 | 2022-04-22 | 2023-01-28 |
 | [Unreplaceable](https://open.spotify.com/track/0PiBkWGuBSzZRYLvQaS3Qe) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [It's Not So Bad](https://open.spotify.com/album/7CiDYc1gQ1In1cfhkX11I9) | 2:58 | 2022-02-04 | 2022-07-29 |
 | [Unreplaceable](https://open.spotify.com/track/6MOGEJj9xkoW9cjVdfLeBR) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [It's Not So Bad](https://open.spotify.com/album/0mXGk4yEN4sdNOOVxL8VBH) | 2:58 | 2022-04-22 | 2023-01-28 |
-| [Unwind](https://open.spotify.com/track/2nuDAyuVQOyQ3PBp4r1SO9) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [Unwind](https://open.spotify.com/album/11tbIyhBWtfHn60JGKfEMb) | 2:18 | 2024-05-20 |  |
+| [Unwind](https://open.spotify.com/track/2nuDAyuVQOyQ3PBp4r1SO9) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [Unwind](https://open.spotify.com/album/11tbIyhBWtfHn60JGKfEMb) | 2:18 | 2024-05-20 | 2024-07-06 |
 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 | 2022-02-04 | 2022-02-12 |
 | [UPSIDE DOWN](https://open.spotify.com/track/7fL09zyZfcsEltjtxL2u11) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [UPSIDE DOWN](https://open.spotify.com/album/435sa84NSMTcIzBeSN178q) | 3:10 | 2023-08-18 | 2024-06-01 |
 | [ur a bitch](https://open.spotify.com/track/0rIyGzKYFeYGUKrQUnZwR5) | [Adanna Duru](https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90) | [ur a bitch](https://open.spotify.com/album/6NKD7pZV97cesnUVyMToGO) | 2:30 | 2023-02-17 | 2023-10-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Light, Hawk
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,211 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,243 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 59 | [Messy](https://open.spotify.com/track/5CqO0vPgia1781FOP2CjdE) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Messy](https://open.spotify.com/album/7nWf3uKfeQOGvkxAxfRfiw) | 3:12 |
 | 60 | [9ARI](https://open.spotify.com/track/6vlH3qCZn1PjuBww5Z0e5I) | [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [9ARI](https://open.spotify.com/album/5AlVNGNmZw1zh988FeOif6) | 2:52 |
 
-Snapshot ID: `ZocNUAAAAAAGHdswdNrrJaRKc+SH6zIb`
+Snapshot ID: `ZofK6gAAAAC6aN/iGZzPX8HXQ25rmiP8`

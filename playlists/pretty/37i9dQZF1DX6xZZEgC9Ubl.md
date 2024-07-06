@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: mgk & Trippie Redd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,595,004 likes - 150 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,595,108 likes - 150 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 44 | [In My Head](https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [In My Head](https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK) | 3:12 |
 | 45 | [Sorry](https://open.spotify.com/track/3RwPhgCYVi3qXQieYvO2V6) | [RONEN](https://open.spotify.com/artist/3wDeS1sr05fxaOeiJJrOnL), [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [Sorry](https://open.spotify.com/album/7iELbh8MEDcTvv7ukeQxFh) | 2:44 |
 | 46 | [I Miss The Days](https://open.spotify.com/track/3ebfDw8WEbf0DxGh47R2lo) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv) | 4:29 |
-| 47 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 |
+| 47 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 |
 | 48 | [Hiding in the Dark](https://open.spotify.com/track/1eau7EVXGFffQAGYFxIx6w) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [Hiding in the Dark](https://open.spotify.com/album/0hMJhcenN0EFZvD4qxdyZN) | 3:04 |
 | 49 | [mistake maker](https://open.spotify.com/track/2T368SCcj3uUeP4U7ZZcNl) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0), [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [mistake maker](https://open.spotify.com/album/78I08Hokb2nM3HfVnEYraa) | 2:25 |
 | 50 | [i might be alone, i'm scared](https://open.spotify.com/track/5ldDWlR5UkZTD5kw3q8Ken) | [Brvski](https://open.spotify.com/artist/18NE0VFCA7M9c8coZaczZF), [VITO](https://open.spotify.com/artist/5mjU2E6rpMs0FWPnm89eCm), [静的 Static](https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET) | [i might be alone, i'm scared](https://open.spotify.com/album/1YVp5sFvKI5PO07NPl1D4o) | 2:08 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 53 | [2017](https://open.spotify.com/track/1K6RIXsdPEuM0p96YoG6Xg) | [Cold Hart](https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4), [GothBoiClique](https://open.spotify.com/artist/5P798sMaycWbuAO8vxfLFK) | [2017](https://open.spotify.com/album/7hEBb2hqGNbf0j9J0j1uH1) | 2:36 |
 | 54 | [Enough](https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Enough](https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo) | 3:05 |
 | 55 | [digital crush](https://open.spotify.com/track/4hYbCohbCENEkrnLih5s55) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Ryan Librada](https://open.spotify.com/artist/6JygKoUdCYpjiwjQFFolI7) | [digital crush](https://open.spotify.com/album/4MEzMHYcPOkGiKBQ0mOjKd) | 2:39 |
-| 56 | [FALLING DOWN](https://open.spotify.com/track/2B5TeT7cCgvKOrpORd6f4k) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [FALLING DOWN](https://open.spotify.com/album/5FnohciwH81y7LwEZFT1Jx) | 2:49 |
+| 56 | [FALLING DOWN](https://open.spotify.com/track/2B5TeT7cCgvKOrpORd6f4k) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [FALLING DOWN](https://open.spotify.com/album/5FnohciwH81y7LwEZFT1Jx) | 2:49 |
 | 57 | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 |
 | 58 | [why am i here, i feel so alone](https://open.spotify.com/track/0jBaoN25PbNxfbv4sPs6eM) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [why am i here, i feel so alone](https://open.spotify.com/album/0rE8L0frf30RD6TMsdxqDn) | 2:47 |
 | 59 | [Sick of Me Too](https://open.spotify.com/track/5p10pR7Hs1nM99bUwCAaqW) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Sick of Me Too](https://open.spotify.com/album/3r9SgXJ51nliEoI6Az7zO5) | 2:31 |

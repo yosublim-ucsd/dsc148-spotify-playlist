@@ -231,6 +231,28 @@
     },
     {
       "album": {
+        "name": "Abeke",
+        "url": "https://open.spotify.com/album/1ixs4iAmZOhqTu6ZK3VrFv"
+      },
+      "artists": [
+        {
+          "name": "Godwin",
+          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
+        },
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247880,
+      "name": "Abeke",
+      "url": "https://open.spotify.com/track/1rOcCMymtbyZBsbO6ADHtg"
+    },
+    {
+      "album": {
         "name": "L.I.T.A",
         "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
       },
@@ -896,7 +918,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 238661,
       "name": "Baki Pekee Yako",
       "url": "https://open.spotify.com/track/5WPdyLkd0QNgC2HACe6Rte"
@@ -4043,6 +4065,24 @@
     },
     {
       "album": {
+        "name": "Algorithm",
+        "url": "https://open.spotify.com/album/7C3s4jMUKRJtm8ztviFu55"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "HERicane",
+      "url": "https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5"
+    },
+    {
+      "album": {
         "name": "Journey to Idan",
         "url": "https://open.spotify.com/album/2U6DR87NV7jBoc2d5cHRxt"
       },
@@ -4646,7 +4686,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 169310,
       "name": "Impatient",
       "url": "https://open.spotify.com/track/2LnADQWYzH6LWSsylwpmFE"
@@ -4880,7 +4920,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 188181,
       "name": "It Aint Me",
       "url": "https://open.spotify.com/track/74NvwSDJtsFGBPqcgodmMT"
@@ -5797,6 +5837,24 @@
     },
     {
       "album": {
+        "name": "Looking for God",
+        "url": "https://open.spotify.com/album/6mPOuVIBfjt3Qj8DySayjZ"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Looking for God",
+      "url": "https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M"
+    },
+    {
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
       },
@@ -6324,7 +6382,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 115000,
       "name": "Maybe It's You",
       "url": "https://open.spotify.com/track/2tPrMupHtHxkEhkPqKrSkE"
@@ -6470,6 +6528,28 @@
       "duration_ms": 186500,
       "name": "Messi",
       "url": "https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7"
+    },
+    {
+      "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/7ngqg1CSDp6jc7KPs6tWax"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180571,
+      "name": "Messiah (feat. Asa)",
+      "url": "https://open.spotify.com/track/4XwDWSqhaXCr1MTaaMPMdf"
     },
     {
       "album": {
@@ -7034,7 +7114,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 166200,
       "name": "NO GO LIE",
       "url": "https://open.spotify.com/track/4g9Ir7rXdtFNvdTC2tUikT"
@@ -7334,6 +7414,24 @@
       "duration_ms": 164210,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR"
+    },
+    {
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/7rfG2qzNG150rC2L3UzCAi"
+      },
+      "artists": [
+        {
+          "name": "Ronis Goliath",
+          "url": "https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160200,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/0V8My1NtUo51470iBrav0Y"
     },
     {
       "album": {
@@ -9665,6 +9763,28 @@
     },
     {
       "album": {
+        "name": "SPEED DIAL",
+        "url": "https://open.spotify.com/album/15uK0warT7iSjTh8FvzgUL"
+      },
+      "artists": [
+        {
+          "name": "Amadi Blue",
+          "url": "https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "SPEED DIAL",
+      "url": "https://open.spotify.com/track/2he239VQ9kzPwd4YtOHvVu"
+    },
+    {
+      "album": {
         "name": "Spell (Remix)",
         "url": "https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW"
       },
@@ -11878,7 +11998,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 168000,
       "name": "Yaba Left",
       "url": "https://open.spotify.com/track/0HpYQ8FvoFZSS3jyl5vFKo"

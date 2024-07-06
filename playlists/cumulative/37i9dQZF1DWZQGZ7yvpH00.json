@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 ERRE en portada. ",
+  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 Ismael CM, Adrian L Santos, Calle 24 en portada. ",
   "name": "sad sierre\u00f1o",
   "tracks": [
     {
@@ -3293,6 +3293,32 @@
     },
     {
       "album": {
+        "name": "MIRAA",
+        "url": "https://open.spotify.com/album/5y9gU5iaqGy61GUeANXwLu"
+      },
+      "artists": [
+        {
+          "name": "Ismael CM",
+          "url": "https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR"
+        },
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188250,
+      "name": "MIRAA",
+      "url": "https://open.spotify.com/track/2TTCzngTprmJJGlmkeM5HR"
+    },
+    {
+      "album": {
         "name": "Modelo",
         "url": "https://open.spotify.com/album/52nBpElr412dXlW6NU4aEV"
       },
@@ -5422,7 +5448,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 188808,
       "name": "Tocarte y Besarte",
       "url": "https://open.spotify.com/track/3PPus37qOodRA7eDQwc56E"

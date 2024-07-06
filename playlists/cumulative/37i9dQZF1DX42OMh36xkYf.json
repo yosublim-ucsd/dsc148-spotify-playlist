@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 302524,
       "name": "Antes de los 30",
       "url": "https://open.spotify.com/track/0BV8DNvqkRPtaP9N5mNmWp"
@@ -2344,6 +2344,24 @@
       "duration_ms": 149255,
       "name": "Si no no",
       "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
+    },
+    {
+      "album": {
+        "name": "si t\u00fa no est\u00e1s aqu\u00ed",
+        "url": "https://open.spotify.com/album/07Lar6NcLhksUUtjjzDZZT"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218695,
+      "name": "si t\u00fa no est\u00e1s aqu\u00ed",
+      "url": "https://open.spotify.com/track/6ODPOeIy6b99BZlpmqWn9I"
     },
     {
       "album": {

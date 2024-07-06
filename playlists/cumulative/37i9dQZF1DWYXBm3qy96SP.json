@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Fontaines D.C.",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Kasabian",
   "name": "Rock The World",
   "tracks": [
     {
@@ -1244,6 +1244,24 @@
       "duration_ms": 190715,
       "name": "All In My Head",
       "url": "https://open.spotify.com/track/5wN2jQWIrCGjWT5bOL2WFg"
+    },
+    {
+      "album": {
+        "name": "All Kinds Of People",
+        "url": "https://open.spotify.com/album/1qrfKDFYVsll4mThf6pxqJ"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167493,
+      "name": "All Kinds Of People",
+      "url": "https://open.spotify.com/track/5dOkvWdlRlKYvhM3MkD2Ai"
     },
     {
       "album": {
@@ -3270,7 +3288,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 186779,
       "name": "Both Ways",
       "url": "https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK"
@@ -3556,7 +3574,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 236073,
       "name": "BROKEN GAMES",
       "url": "https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5"
@@ -3824,6 +3842,24 @@
       "duration_ms": 175959,
       "name": "Burn The Witch",
       "url": "https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y"
+    },
+    {
+      "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231250,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
     },
     {
       "album": {
@@ -4964,7 +5000,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 437502,
       "name": "Columbia - Sawmills Outtake",
       "url": "https://open.spotify.com/track/7C2nz2EEB7pvqUbWFdZk3g"
@@ -5412,6 +5448,24 @@
       "duration_ms": 149251,
       "name": "C\u2019est Comme \u00c7a",
       "url": "https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq"
+    },
+    {
+      "album": {
+        "name": "Daily Queen",
+        "url": "https://open.spotify.com/album/6UMrQXSdh75gN7UGGHytO4"
+      },
+      "artists": [
+        {
+          "name": "Faustus",
+          "url": "https://open.spotify.com/artist/6sqXbSeB9ZEfZSEz6kg95k"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282922,
+      "name": "Daily Queen",
+      "url": "https://open.spotify.com/track/53YiLtXKQXGrUfcK8rd2TF"
     },
     {
       "album": {
@@ -6954,7 +7008,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 259907,
       "name": "Etalase",
       "url": "https://open.spotify.com/track/4OAi6KATMr1C62OJwganVN"
@@ -11267,6 +11321,42 @@
     },
     {
       "album": {
+        "name": "It's Supposed To Hurt",
+        "url": "https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212086,
+      "name": "It's Supposed To Hurt",
+      "url": "https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT"
+    },
+    {
+      "album": {
+        "name": "Happenings",
+        "url": "https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155658,
+      "name": "Italian Horror",
+      "url": "https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98"
+    },
+    {
+      "album": {
         "name": "I\u2019m a Mess (with YUNGBLUD)",
         "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
       },
@@ -11936,7 +12026,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 152762,
       "name": "La Vida Ca\u00f1\u00f3n",
       "url": "https://open.spotify.com/track/4vpaNEHd9USvwaVVDVj3yz"
@@ -12966,6 +13056,24 @@
       "duration_ms": 199342,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3RQHAFkEHiFHQ7qmMpKRdv"
+    },
+    {
+      "album": {
+        "name": "Lost (Between Darkness & Hope)",
+        "url": "https://open.spotify.com/album/3DCV71xJoPdT5n49Ps33cd"
+      },
+      "artists": [
+        {
+          "name": "MATW",
+          "url": "https://open.spotify.com/artist/6PxvVTrmdw8uzYvTuFTYMX"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166183,
+      "name": "Lost (Between Darkness & Hope)",
+      "url": "https://open.spotify.com/track/5Ji1DGRzALnJuMg3lYiFU7"
     },
     {
       "album": {
@@ -18281,6 +18389,24 @@
     },
     {
       "album": {
+        "name": "Scream from New York, NY",
+        "url": "https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe"
+      },
+      "artists": [
+        {
+          "name": "Been Stellar",
+          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269800,
+      "name": "Scream from New York, NY",
+      "url": "https://open.spotify.com/track/1i1vCpXh3BFkHkTLnq7Lof"
+    },
+    {
+      "album": {
         "name": "Screaming In The Rain Again",
         "url": "https://open.spotify.com/album/3jpkNQcDMg94XMxtj4Lk3m"
       },
@@ -23066,7 +23192,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 239665,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/6SiLb2AJVSRIv7EODUou2d"
@@ -24606,7 +24732,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 187044,
       "name": "\u25ef - 8+3<\u00a5\u00a5 \u00a5\\+ 3%6=",
       "url": "https://open.spotify.com/track/1kTDi3VNS16kDChrTftuM4"

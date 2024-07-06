@@ -6,10 +6,330 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACLjGGF66dPU7Oucfde/UCl",
+  "snapshot_id": "AAAAAAAAAADVAlVcYNz5O8AWdwi5RSWx",
   "tracks": [
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "No Explanation (Live)",
+        "url": "https://open.spotify.com/album/046k6aFOA3rSyw49fEOQaG"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 276004,
+      "name": "Epic - Live 1995",
+      "url": "https://open.spotify.com/track/0ScWNr7NuTunjYhuNTEMNm"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Paradigm (Live)",
+        "url": "https://open.spotify.com/album/36UFz7d3yhZgMSI3XeaerU"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 444327,
+      "name": "Ugly Truth - Live 1992",
+      "url": "https://open.spotify.com/track/1mLXgJdMpVmWT1HXfRwYwG"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Lazy Sod",
+        "url": "https://open.spotify.com/album/2uogLBT81XZN5fDsOHLOjs"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 220506,
+      "name": "Lazy Sod",
+      "url": "https://open.spotify.com/track/6hHEAgRuoIu879fOsczCwM"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Up On The Cross",
+        "url": "https://open.spotify.com/album/0lX6S7eUjqdy9QpE0X8mSn"
+      },
+      "artists": [
+        {
+          "name": "Corlyx",
+          "url": "https://open.spotify.com/artist/2K8LJm6DxnMVU6fQklN5Z5"
+        },
+        {
+          "name": "Blutengel",
+          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
+        }
+      ],
+      "duration_ms": 272955,
+      "name": "Up On The Cross",
+      "url": "https://open.spotify.com/track/3UUR6DaW68sxZ5aUaCoY9Z"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Live At Rockpalast 1979 (Live, Hamburg, 1979)",
+        "url": "https://open.spotify.com/album/0t3ufEdHY8K6RRIYSLHCsc"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Keep Pushin' - Live, Hamburg, 1979",
+      "url": "https://open.spotify.com/track/0hOy1QMijkTp6lYEEAwfg2"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Tonight I\u2019m Alive",
+        "url": "https://open.spotify.com/album/2iGQvx1bqpDmLZD7mW25iz"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "Tonight I'm Alive",
+      "url": "https://open.spotify.com/track/4j8NCEbj5SMGbpjqLi8iUV"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Focus 12",
+        "url": "https://open.spotify.com/album/14f9Wbk9l84KkMEpmsYSAF"
+      },
+      "artists": [
+        {
+          "name": "Focus",
+          "url": "https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR"
+        }
+      ],
+      "duration_ms": 247587,
+      "name": "B\u00e9la",
+      "url": "https://open.spotify.com/track/0qbP8PDOjSTQG2RyCO5RjM"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Acaecer",
+        "url": "https://open.spotify.com/album/3PRvbNxj1nyt2n71V06qTo"
+      },
+      "artists": [
+        {
+          "name": "La Brigida Orquesta",
+          "url": "https://open.spotify.com/artist/4XbPmAuePPr3JhIoN6WNGP"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Acaecer",
+      "url": "https://open.spotify.com/track/0TXJsbQDxbUlsjsk2FttAb"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Papercuts: Instrumentals",
+        "url": "https://open.spotify.com/album/494aUGKXMH5ruXtR3O1a3H"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 216346,
+      "name": "In the End (Instrumental)",
+      "url": "https://open.spotify.com/track/6RUv6gg1Jv1NMT8N5Jv2Wd"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "The Only Thing That Looks Good On Me Is You (Classic Version)",
+        "url": "https://open.spotify.com/album/5nrTebiSO8IKKm9PmILE4e"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 216268,
+      "name": "The Only Thing That Looks Good On Me Is You - Classic Version",
+      "url": "https://open.spotify.com/track/4SG5YnAQUrD6b8yZFxv2ja"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "I Have Notes",
+        "url": "https://open.spotify.com/album/4l89gOBML1oUH3Yow6GEUY"
+      },
+      "artists": [
+        {
+          "name": "Graham Gouldman",
+          "url": "https://open.spotify.com/artist/5Z6IqCEJ0aYRpxd5moXnQL"
+        },
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "duration_ms": 160986,
+      "name": "Couldn't Love You More",
+      "url": "https://open.spotify.com/track/76Xe5O7neH9OCBYvqeEZsJ"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "\u9065\u304b\u5f7c\u65b9 (2024 ver.)",
+        "url": "https://open.spotify.com/album/4dWjVtltGW5YsDIqegCcAM"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "\u9065\u304b\u5f7c\u65b9 (2024 ver.)",
+      "url": "https://open.spotify.com/track/5mZGmMnM99YI70hvqBlViY"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Encontrando La Paz Interior: M\u00fasica Para Yoga Zen",
+        "url": "https://open.spotify.com/album/4zNlihiHEqo2Cjhlz14D4X"
+      },
+      "artists": [
+        {
+          "name": "Alma Yoga",
+          "url": "https://open.spotify.com/artist/2CrEKOczebvCfgGimWCXZC"
+        },
+        {
+          "name": "Monjes Tibetanos",
+          "url": "https://open.spotify.com/artist/4Y5t1XCXXpViFckIHadvW6"
+        },
+        {
+          "name": "Lucia Guiada",
+          "url": "https://open.spotify.com/artist/41DGnk3krLinECBXiZChbM"
+        }
+      ],
+      "duration_ms": 214927,
+      "name": "Resonancia De Reflexi\u00f3n Del Yoga",
+      "url": "https://open.spotify.com/track/6ZHnqisCqyx5mXmBAcPHCI"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Ambient Sounds | Yoga and Spa",
+        "url": "https://open.spotify.com/album/3vZXy1wnZXmpXjOqQDnobw"
+      },
+      "artists": [
+        {
+          "name": "Kinderliederbande",
+          "url": "https://open.spotify.com/artist/69f48xXmMNpbZiV7gk4U97"
+        },
+        {
+          "name": "Deep Sleep Meditation",
+          "url": "https://open.spotify.com/artist/0a7IMVQLynzliWvqoPo5tE"
+        },
+        {
+          "name": "Meditaci\u00f3n",
+          "url": "https://open.spotify.com/artist/1CXnoUdfelMmk8FPXwPtb7"
+        }
+      ],
+      "duration_ms": 187191,
+      "name": "Enchanting Lullaby Haven",
+      "url": "https://open.spotify.com/track/07uiCslju0faJEYzVWQhoo"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 216253,
+      "name": "Sandpaper (feat. Bruce Springsteen)",
+      "url": "https://open.spotify.com/track/3JzVK0f8gqAAjyEDyXAys4"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Romance in F Minor, Op. 5",
+        "url": "https://open.spotify.com/album/7bvSzM67PK3pUZYhWNIWhP"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "German Kitkin",
+          "url": "https://open.spotify.com/artist/5HOVcgYQBn73abTDJP8MTy"
+        }
+      ],
+      "duration_ms": 383875,
+      "name": "Romance in F Minor, Op. 5",
+      "url": "https://open.spotify.com/track/1ZdTGX902DbyccLqtxi8SH"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "R3SPAWNED Radio 001 (DJ Mix)",
+        "url": "https://open.spotify.com/album/3UBeqM5jQ2o4E6nPRE110h"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Thank You (Not So Bad) (Mixed)",
+      "url": "https://open.spotify.com/track/4OlWmoKNiP3A0HejJmzSXb"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Attack Phase (Live Los Angeles '84)",
         "url": "https://open.spotify.com/album/2MkLcXpAaiTCW6Uas7bpCN"
@@ -25,7 +345,23 @@
       "url": "https://open.spotify.com/track/5e1HmPZkfie8e1HMeiLhqm"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "The 30th Anniversary of Weezer | Spotify Anniversaries LIVE",
+        "url": "https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 163330,
+      "name": "Buddy Holly - Spotify Anniversaries Version - Live",
+      "url": "https://open.spotify.com/track/5c5rLhAayijwytvgq5AfVF"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Black Bear Don't Care (Gothminister Remix)",
         "url": "https://open.spotify.com/album/1ywke8AocVQU2LYdj250BX"
@@ -45,23 +381,7 @@
       "url": "https://open.spotify.com/track/2O4TJS6lXOv3WHDBxhLIHf"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "The 30th Anniversary of Weezer | Spotify Anniversaries LIVE",
-        "url": "https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 163330,
-      "name": "Buddy Holly - Spotify Anniversaries Version - Live",
-      "url": "https://open.spotify.com/track/5c5rLhAayijwytvgq5AfVF"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Linger (Iain Cook Remix)",
         "url": "https://open.spotify.com/album/1cu4TMoCmGTpuJ0cozozF0"
@@ -81,7 +401,7 @@
       "url": "https://open.spotify.com/track/5p77oRvGJ57vzlhjw8pqtq"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Higher (Live At Freeman Coliseum / 1999)",
         "url": "https://open.spotify.com/album/6Ixe4fptNmVlqXbruGd49b"
@@ -97,23 +417,7 @@
       "url": "https://open.spotify.com/track/0Ljlin6tvDj2aP6HaBQVNi"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Aisumasen (I\u2019m Sorry) [Ultimate Mix]",
-        "url": "https://open.spotify.com/album/7rW2fNXFic1t1SYz88c9nY"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 252648,
-      "name": "You Are Here - Ultimate Mix",
-      "url": "https://open.spotify.com/track/5cYo63NgwuSqc2AvTE2RBl"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Sahara",
         "url": "https://open.spotify.com/album/27b6R1rArOqNMAKmNuXMBG"
@@ -133,7 +437,7 @@
       "url": "https://open.spotify.com/track/5hDQhCL9BrZPsBdhCcZqRc"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "You Are Here (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1stqMzVEOMvNSQ5jXOsYfa"
@@ -149,23 +453,7 @@
       "url": "https://open.spotify.com/track/1A7iM5jn5m7bROmLS6rqZt"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Cosmic",
-        "url": "https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 225864,
-      "name": "Cosmic",
-      "url": "https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Paralyzed",
         "url": "https://open.spotify.com/album/2ZB3oyrG9aDyb6hFOOuYnd"
@@ -181,7 +469,7 @@
       "url": "https://open.spotify.com/track/73EIurQGydymTCrHuxYt3q"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "(LIVE) - Born & Raised 2022, St Catharines ON",
         "url": "https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip"
@@ -197,47 +485,39 @@
       "url": "https://open.spotify.com/track/0QwTG5slf3LCYi6xTUlHCT"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Undefeated Eyes",
-        "url": "https://open.spotify.com/album/2NDZv0CTUyP6wTkwbgs0UF"
+        "name": "Cosmic",
+        "url": "https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW"
       },
       "artists": [
         {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 266429,
-      "name": "Undefeated Eyes",
-      "url": "https://open.spotify.com/track/3KBAaMTd6oSbZDLAjSRQSV"
+      "duration_ms": 225864,
+      "name": "Cosmic",
+      "url": "https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Error o la Inevitable Tragedia de Macbeth Sudaka",
-        "url": "https://open.spotify.com/album/4JackiDGkgL6MYo1gvFhyf"
+        "name": "Aisumasen (I\u2019m Sorry) [Ultimate Mix]",
+        "url": "https://open.spotify.com/album/7rW2fNXFic1t1SYz88c9nY"
       },
       "artists": [
         {
-          "name": "E.Cais",
-          "url": "https://open.spotify.com/artist/0qZXdjvKdYbQgxUPVdsaGF"
-        },
-        {
-          "name": "Gran Rah",
-          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
         }
       ],
-      "duration_ms": 236419,
-      "name": "Omnisciencia",
-      "url": "https://open.spotify.com/track/4keDfOkRLkw3XHl0nJzLfy"
+      "duration_ms": 279784,
+      "name": "Aisumasen (I'm Sorry) - Ultimate Mix",
+      "url": "https://open.spotify.com/track/4LJsW2Db80OBypNtD79n7k"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Parasite",
         "url": "https://open.spotify.com/album/6m99BaJU8IxfWcfqPGRZwu"
@@ -261,7 +541,47 @@
       "url": "https://open.spotify.com/track/05HTGemZtN0xZibKQ60KKz"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Error o la Inevitable Tragedia de Macbeth Sudaka",
+        "url": "https://open.spotify.com/album/4JackiDGkgL6MYo1gvFhyf"
+      },
+      "artists": [
+        {
+          "name": "E.Cais",
+          "url": "https://open.spotify.com/artist/0qZXdjvKdYbQgxUPVdsaGF"
+        },
+        {
+          "name": "Gran Rah",
+          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
+        }
+      ],
+      "duration_ms": 236419,
+      "name": "Omnisciencia",
+      "url": "https://open.spotify.com/track/4keDfOkRLkw3XHl0nJzLfy"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Undefeated Eyes",
+        "url": "https://open.spotify.com/album/2NDZv0CTUyP6wTkwbgs0UF"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 266429,
+      "name": "Undefeated Eyes",
+      "url": "https://open.spotify.com/track/3KBAaMTd6oSbZDLAjSRQSV"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Agua un regalo del cielo (feat. Pollo Gonz\u00e1lez, Evelyn Cornejo, Coco Leon & El Pacha)",
         "url": "https://open.spotify.com/album/6xWukFtWuufu0IvGSwXOST"
@@ -293,47 +613,7 @@
       "url": "https://open.spotify.com/track/4c0KDHLLWVZgtlJLdt2ZDr"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Peaceful Ambient Melodies for Sleep",
-        "url": "https://open.spotify.com/album/789vZ6vwtU6fbIw6lq0wCq"
-      },
-      "artists": [
-        {
-          "name": "ASMR HD",
-          "url": "https://open.spotify.com/artist/1YlO6kjH7pQwIiBh9xs2Vp"
-        },
-        {
-          "name": "Meditaci\u00f3n",
-          "url": "https://open.spotify.com/artist/1CXnoUdfelMmk8FPXwPtb7"
-        },
-        {
-          "name": "Sonidos De Lluvia y Tormentas",
-          "url": "https://open.spotify.com/artist/20uIhDhmZY0BJaNicxgxuW"
-        }
-      ],
-      "duration_ms": 150375,
-      "name": "Enchanted Lullaby of Leaves",
-      "url": "https://open.spotify.com/track/03G0YItcyqTPdUK4DUt5LY"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Focus 13",
-        "url": "https://open.spotify.com/album/6vCJKzle4S8iFsK14ohitg"
-      },
-      "artists": [
-        {
-          "name": "Focus",
-          "url": "https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR"
-        }
-      ],
-      "duration_ms": 308852,
-      "name": "Focus 13",
-      "url": "https://open.spotify.com/track/0wBpSezl32HJpktpTAJMCW"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Early Daze",
         "url": "https://open.spotify.com/album/7g0CYkdgqH0t7LJN2FiSlQ"
@@ -353,7 +633,7 @@
       "url": "https://open.spotify.com/track/3UCjlVtxpkyUkilBgihN6G"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "I Feel It Coming",
         "url": "https://open.spotify.com/album/6JDgkJx4wohyYjStrr2Yrc"
@@ -369,75 +649,7 @@
       "url": "https://open.spotify.com/track/21YXMFoMeuNm42zKMjsnmm"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Elevar La Tranquilidad Del Yoga: Asanas De M\u00fasica Ambiental",
-        "url": "https://open.spotify.com/album/6GGURJeuMLhARDsDsu3uEN"
-      },
-      "artists": [
-        {
-          "name": "Kundalini: Yoga Meditaci\u00f3n Relajaci\u00f3n",
-          "url": "https://open.spotify.com/artist/1lAybs5Azekc3cELJA29HR"
-        },
-        {
-          "name": "Monjes Tibetanos",
-          "url": "https://open.spotify.com/artist/4Y5t1XCXXpViFckIHadvW6"
-        },
-        {
-          "name": "Musica Reiki",
-          "url": "https://open.spotify.com/artist/3NQXNfw4O0uZ3BGnUrZYWh"
-        }
-      ],
-      "duration_ms": 278366,
-      "name": "Yoga Tranquilidad De M\u00fasica Ambiental",
-      "url": "https://open.spotify.com/track/6PVNgHmWodQif05hgth88K"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "6 Pieces, Op. 19: No. 4 in C-Sharp Minor. Nocturne. Andante sentimentale",
-        "url": "https://open.spotify.com/album/5jI4Grc0G0Jqoekh3t28Tj"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Lee Chang",
-          "url": "https://open.spotify.com/artist/17uLq4Gf6209yfl9L2CacM"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "6 Pieces, Op. 19: No. 4 in C-Sharp Minor. Nocturne. Andante sentimentale",
-      "url": "https://open.spotify.com/track/7dhmDpejGHOkiGMPIviRu1"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Spicy Margarita (A7S Remix)",
-        "url": "https://open.spotify.com/album/5SthpeFn4PkDawgyWO8QUu"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 147230,
-      "name": "Spicy Margarita (A7S Remix)",
-      "url": "https://open.spotify.com/track/4iDztJeRKU05YvfufEZ1XG"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "My Favourite Game (feat. The Cardigans & P Money) [P Money Remix]",
         "url": "https://open.spotify.com/album/5PIEuV0qZOlHiXAgcF3ESy"
@@ -465,23 +677,31 @@
       "url": "https://open.spotify.com/track/7ulxfXLMgNo7yUX34fHyoU"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Der Sturm",
-        "url": "https://open.spotify.com/album/4JyToCAoD3aWc4FMzF1oad"
+        "name": "Spicy Margarita (A7S Remix)",
+        "url": "https://open.spotify.com/album/5SthpeFn4PkDawgyWO8QUu"
       },
       "artists": [
         {
-          "name": "Blutengel",
-          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
         }
       ],
-      "duration_ms": 243421,
-      "name": "Der Sturm",
-      "url": "https://open.spotify.com/track/7A6Rq2vg6I9CN8fsFEBToR"
+      "duration_ms": 147230,
+      "name": "Spicy Margarita (A7S Remix)",
+      "url": "https://open.spotify.com/track/4iDztJeRKU05YvfufEZ1XG"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Not Nothing",
         "url": "https://open.spotify.com/album/2T5iMDHBrMdV0N9e0qySzj"
@@ -497,7 +717,7 @@
       "url": "https://open.spotify.com/track/4vmLFO56Gb5LeMK8surfau"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "La Dieta del Murci\u00e9lago (Instrumentales)",
         "url": "https://open.spotify.com/album/2ZGVSITaf9Jmne4WH1lhOC"
@@ -521,7 +741,7 @@
       "url": "https://open.spotify.com/track/3froYwOJees9keYu5Z0MkG"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "7 Screaming Diz-Busters (Live)",
         "url": "https://open.spotify.com/album/37YpFvRfNqmJm5HYwesE2u"
@@ -537,7 +757,7 @@
       "url": "https://open.spotify.com/track/3c85MmYaJkGPhHEJFZ8vZv"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "lofi chill vibes with korn",
         "url": "https://open.spotify.com/album/2an3rCrUgZsJu7ApHemCBC"
@@ -557,7 +777,7 @@
       "url": "https://open.spotify.com/track/0nOAqwyTeddVOUC9KZBb8I"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Cuarto",
         "url": "https://open.spotify.com/album/57rUsa5oTRdwbgKbCHSNQb"
@@ -573,27 +793,7 @@
       "url": "https://open.spotify.com/track/0HapbnDdUPdVHT0C6jHGV9"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "us. (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Worlds Collide Tour (Live in Amsterdam)",
         "url": "https://open.spotify.com/album/4FA76o2vhVqP8dpMlnnmPv"
@@ -609,7 +809,7 @@
       "url": "https://open.spotify.com/track/09az9LNbYDb1aBXiKoNjjz"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Mistake",
         "url": "https://open.spotify.com/album/173Zbg8d7uScUUd4c1NJRW"
@@ -637,23 +837,27 @@
       "url": "https://open.spotify.com/track/4tOCjcTo8c4wH5krCVgwsw"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Only The Strong Survive (Live)",
-        "url": "https://open.spotify.com/album/3fSrcBnBcXCKHB7UEtk5tP"
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
       "artists": [
         {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 251040,
-      "name": "Only The Strong Survive - Live, Hamburg, 1979",
-      "url": "https://open.spotify.com/track/2mTSeu5k2k9RwhWeo77TJq"
+      "duration_ms": 242666,
+      "name": "us. (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Younger Than Today (Live)",
         "url": "https://open.spotify.com/album/6TDBrwfmzqmUBI538kc7zj"
@@ -669,7 +873,7 @@
       "url": "https://open.spotify.com/track/2fJYylG39CsZtmG1ATaOoR"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "The Henry Mancini 100th Sessions: Henry Has Company",
         "url": "https://open.spotify.com/album/6GkHGNDk3Zf7pIAsvN5J0v"
@@ -705,7 +909,7 @@
       "url": "https://open.spotify.com/track/6g7uwja1iFcOEPFHWEZN8I"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Jewel (Remastered and Expanded)",
         "url": "https://open.spotify.com/album/2JFMNWJoPCWOqL0QpnjaWp"
@@ -729,7 +933,7 @@
       "url": "https://open.spotify.com/track/2p5tO39jvj5kPy7voaCOWX"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "\u0421\u043e\u043d / Son",
         "url": "https://open.spotify.com/album/1fcCWRHZESlnXFSPs8piEb"
@@ -745,7 +949,7 @@
       "url": "https://open.spotify.com/track/6bn5OFUhl8lm4VzKEPSzEz"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Fall in Line",
         "url": "https://open.spotify.com/album/7ru1OonrDxyPDGx3zi6MqT"
@@ -761,7 +965,7 @@
       "url": "https://open.spotify.com/track/7ftpyir5ygZkv92mbZMFqi"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Worry",
         "url": "https://open.spotify.com/album/1qISfk68iEjgZ4cG17YuEy"
@@ -777,7 +981,7 @@
       "url": "https://open.spotify.com/track/4TBMUdlZiHHWRZPHMBIMq4"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Columbia (Sawmills Outtake)",
         "url": "https://open.spotify.com/album/38uIcT5xt5iECIYM33vRfK"
@@ -793,7 +997,7 @@
       "url": "https://open.spotify.com/track/7C2nz2EEB7pvqUbWFdZk3g"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Just Like 73 (Tom Morello Version)",
         "url": "https://open.spotify.com/album/7afy0Ytt67hzFxYlLzmKyq"
@@ -813,7 +1017,7 @@
       "url": "https://open.spotify.com/track/11DxHa7QIQ5NfdiHstN2O2"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Rock 'n' Roll Star!",
         "url": "https://open.spotify.com/album/1bqZP0fgsBTnQaYj4Dte7Z"
@@ -829,7 +1033,7 @@
       "url": "https://open.spotify.com/track/4atQJpxhZKQQ7iHSRUpNDY"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Let You Go",
         "url": "https://open.spotify.com/album/74Fi5fLSHlxRhveI7HMLHz"
@@ -845,7 +1049,7 @@
       "url": "https://open.spotify.com/track/5URlaiX8c6XtrpI2ucYxpK"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Ranma 1/2 (Olvida La Amargura)",
         "url": "https://open.spotify.com/album/6hVWovjwcad0FSoGXqE9Bh"
@@ -865,7 +1069,7 @@
       "url": "https://open.spotify.com/track/59sUk0NRw5WEmnBf72F3FU"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Que Viva el Chamam\u00e9",
         "url": "https://open.spotify.com/album/4HenxJp1vS4ki7Bhye7H0D"
@@ -885,7 +1089,7 @@
       "url": "https://open.spotify.com/track/0LpzBuOMD5OgSU3uzCHnFZ"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "One Hand Clapping",
         "url": "https://open.spotify.com/album/5bo520v8a72MrqnQNCPh5Y"
@@ -905,7 +1109,7 @@
       "url": "https://open.spotify.com/track/4ahgYKeOdXFQvnMBL2kLDZ"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Endless Riddance",
         "url": "https://open.spotify.com/album/0JBlgmqIsosVFIs55zFeyF"
@@ -921,7 +1125,7 @@
       "url": "https://open.spotify.com/track/0slfUT2BP2tI5uIis9Z8Cb"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Make It All Right",
         "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
@@ -937,7 +1141,7 @@
       "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "The Quest for Tanelorn (Revisited)",
         "url": "https://open.spotify.com/album/7vtUeoxwk5o5zSJ7IudmNY"
@@ -953,7 +1157,7 @@
       "url": "https://open.spotify.com/track/2mAjUCgk5GowangZMlQJTa"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Plays Metallica, Vol. 2",
         "url": "https://open.spotify.com/album/5iBW3WJk0JpwNaxsjQxlAI"
@@ -962,18 +1166,14 @@
         {
           "name": "Apocalyptica",
           "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Dave Lombardo",
-          "url": "https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r"
         }
       ],
-      "duration_ms": 358581,
-      "name": "Blackened (feat. Dave Lombardo)",
-      "url": "https://open.spotify.com/track/1KF7vtHz0vPrqjHkqVnFmL"
+      "duration_ms": 407450,
+      "name": "Ride the Lightning",
+      "url": "https://open.spotify.com/track/4I7kE1p6koxfNl8alzesJR"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "London Session 1972",
         "url": "https://open.spotify.com/album/4Ea2mTODEbaxH49mywljHY"
@@ -989,7 +1189,7 @@
       "url": "https://open.spotify.com/track/2PhmNY1Kr3RgDTFseVX0cj"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Quer\u00eda Saber",
         "url": "https://open.spotify.com/album/45rGX85ik14xfJT0oPGYme"
@@ -1005,7 +1205,7 @@
       "url": "https://open.spotify.com/track/7pyLMyetR8knvKifDs19yK"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Finsterwacht",
         "url": "https://open.spotify.com/album/6VbJXyZrazAAEfaS7uOyH1"
@@ -1033,7 +1233,7 @@
       "url": "https://open.spotify.com/track/6RV8XTQfO7DXRgT0yJmq2U"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW"
@@ -1049,7 +1249,7 @@
       "url": "https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Boston Tea Party, Boston 1970",
         "url": "https://open.spotify.com/album/24TZHrFBS55qRZ8G5SK575"
@@ -1065,7 +1265,7 @@
       "url": "https://open.spotify.com/track/4vvblEUbUHH1HRN35ZxN8g"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Count Me Out",
         "url": "https://open.spotify.com/album/1ePPzs2oFi7S0PtgdJidgQ"
@@ -1081,7 +1281,7 @@
       "url": "https://open.spotify.com/track/5Obhe5gMI1htOwRupTc5K2"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Wherever You Are",
         "url": "https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK"
@@ -1103,30 +1303,6 @@
       "duration_ms": 207992,
       "name": "Wherever You Are",
       "url": "https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Don't Give Up (Grafix Remix)",
-        "url": "https://open.spotify.com/album/2Fdk5LR49i4X5WTtYvUU0f"
-      },
-      "artists": [
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        },
-        {
-          "name": "Grafix",
-          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
-        },
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "Don't Give Up - Grafix Remix",
-      "url": "https://open.spotify.com/track/6cJH8BO7B8Gl3n40q8Inh5"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

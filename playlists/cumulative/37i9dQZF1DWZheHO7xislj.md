@@ -4,7 +4,7 @@
 
 > Perfect music for perfect food.
 
-459 songs - 1 day 5 hr 43 min
+460 songs - 1 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Harvest for the World, Pt\. 1 \- Single Version](https://open.spotify.com/track/0fl2MichhIDeOYQOCce7GW) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Harvest for the World](https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ) | 3:31 | 2023-01-09 | 2023-06-28 |
 | [Have A Heart](https://open.spotify.com/track/3krDSP5K5hAKEIOXuxXXH2) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [Boss Man](https://open.spotify.com/album/3TJXaEUG0E8Tvex7tAzlCK) | 3:10 | 2023-01-09 |  |
 | [He Called Me Baby](https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Stand By Your Man](https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r) | 3:33 | 2023-06-27 |  |
+| [Heart of Gold](https://open.spotify.com/track/2RE8rBl5QfF1NA5aLc3dvA) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/1voX114Nwj9pSaXJ3xtXgb) | 3:03 | 2024-06-25 |  |
 | [Heart of Gold](https://open.spotify.com/track/36X97rcBwZSa79eNfM1kKN) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp) | 3:03 | 2023-06-27 | 2024-04-19 |
 | [Hercules](https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Tell It Like It Is](https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg) | 4:09 | 2023-01-09 | 2023-11-05 |
 | [Hercules](https://open.spotify.com/track/0GVurvfPLwv6sNXaqtxHWQ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Love Letters](https://open.spotify.com/album/7jfRBjUiIc9uUbdikDiUh6) | 4:11 | 2023-08-15 | 2024-01-25 |
@@ -247,7 +248,7 @@
 | [Long Weekend](https://open.spotify.com/track/0BLyr2LI3CJACYcP6xbFMY) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Say That To Say This](https://open.spotify.com/album/2cyzBFOHQep4sOuKHpTaBq) | 4:07 | 2023-06-27 | 2024-02-08 |
 | [Look at the Smile](https://open.spotify.com/track/4BqC9W4fV9irOrKgStgKYr) | [Pacific Express](https://open.spotify.com/artist/5zUYeKreM9Lo7fCqxM60Bv), [Jonathan Bulter](https://open.spotify.com/artist/1PQxSbYThsQ8jXoxUUQOMW) | [Anthology\. Pt\. 2](https://open.spotify.com/album/7uxSrZ7tpDC4D04BQWUb21) | 3:17 | 2023-01-09 | 2023-06-28 |
 | [Love and Happiness](https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [I'm Still in Love with You](https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT) | 5:07 | 2023-06-27 | 2024-04-19 |
-| [Love Is A Losing Game](https://open.spotify.com/track/3RE6wbVJOxpE0CTTajuLPq) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank & Back To Black](https://open.spotify.com/album/4O5NY8SjUZqs4D9tvhJhk6) | 2:34 | 2024-06-25 |  |
+| [Love Is A Losing Game](https://open.spotify.com/track/3RE6wbVJOxpE0CTTajuLPq) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank & Back To Black](https://open.spotify.com/album/4O5NY8SjUZqs4D9tvhJhk6) | 2:34 | 2024-06-25 | 2024-07-06 |
 | [Love Is A Losing Game](https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:35 | 2023-06-27 | 2024-04-19 |
 | [Love T.K.O.](https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 4:59 | 2023-01-09 | 2023-06-28 |
 | [Love That Girl](https://open.spotify.com/track/3XTYgwvbBsNonoauUvZgo6) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP) | 3:04 | 2024-04-16 |  |

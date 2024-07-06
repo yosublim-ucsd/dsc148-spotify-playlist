@@ -18449,6 +18449,24 @@
     },
     {
       "album": {
+        "name": "God Is with Us",
+        "url": "https://open.spotify.com/album/2Pw52yj3lRX7VGuMp10hab"
+      },
+      "artists": [
+        {
+          "name": "Ebube Immanuel",
+          "url": "https://open.spotify.com/artist/6T9pNc1rbjm0SpkqyDO6dp"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268925,
+      "name": "God Is with Us",
+      "url": "https://open.spotify.com/track/1HcpdLzAcySmIAPUUZ5m7L"
+    },
+    {
+      "album": {
         "name": "God Is With Us",
         "url": "https://open.spotify.com/album/08r4XlqVXIG7JL9tNpk7VL"
       },
@@ -44076,6 +44094,28 @@
       "duration_ms": 143999,
       "name": "Provider",
       "url": "https://open.spotify.com/track/2l0MtMrRIvBIwRHfFTJ388"
+    },
+    {
+      "album": {
+        "name": "PRVDR",
+        "url": "https://open.spotify.com/album/3p3x9ATH1Gw6Jo2nkl1nIH"
+      },
+      "artists": [
+        {
+          "name": "Ka\u00e9gan",
+          "url": "https://open.spotify.com/artist/3ypFqbZ8uiCUUNPgyIldam"
+        },
+        {
+          "name": "Elenee",
+          "url": "https://open.spotify.com/artist/78ik45hdCuCyQ1gyiFEueX"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174705,
+      "name": "PRVDR",
+      "url": "https://open.spotify.com/track/4wfusIrpax05JL3MoshQ0l"
     },
     {
       "album": {

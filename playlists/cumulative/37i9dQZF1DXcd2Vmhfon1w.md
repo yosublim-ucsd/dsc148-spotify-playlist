@@ -4,7 +4,7 @@
 
 > Lo mejor del hip hop español\. Feat\. Natos
 
-374 songs - 20 hr 4 min
+375 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,9 +69,10 @@
 | [Cada Loco Con Su Tema](https://open.spotify.com/track/0kUUX7FklcEBqjdpCFKoVU) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm), [Hugsound](https://open.spotify.com/artist/3I3DSocG5r4o5kBGOlzNAi) | [Cada Loco Con Su Tema](https://open.spotify.com/album/2r9aNtDgRgSrMYmjiDjbRU) | 2:43 | 2024-03-22 | 2024-04-12 |
 | [Cada Motivo](https://open.spotify.com/track/5RwF8yjTv6LvpCjJL8yjkL) | [EZVIT 810](https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx), [Lu Decker](https://open.spotify.com/artist/74LXFsgo40nbOJaO74QTAm), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [Cada Motivo](https://open.spotify.com/album/5ZkrNdw8WiUr1kvpwAIT6x) | 4:28 | 2022-01-21 | 2023-10-24 |
 | [Calavero Session \#02](https://open.spotify.com/track/4SiVSBKLlwiVTEq6jBGD5L) | [Cocco Lexa](https://open.spotify.com/artist/5WMoWNq8DuL9pob4qu7mau) | [Calavero Session \#02](https://open.spotify.com/album/33EiVQY7AjmrRTUFNvGaeb) | 2:15 | 2024-05-23 | 2024-06-01 |
+| [Calavero Session \#03](https://open.spotify.com/track/3oDjH1X9XuHctBjCR7I77q) | [Cocco Lexa](https://open.spotify.com/artist/5WMoWNq8DuL9pob4qu7mau) | [Calavero Session \#03](https://open.spotify.com/album/5XhFPEF9R0lmDEmWxYcQsJ) | 2:41 | 2024-07-05 |  |
 | [CALIENTE](https://open.spotify.com/track/3mh6bL6SJVg7T57IhKNZXA) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [CALIENTE](https://open.spotify.com/album/1xTcDLX3SnSY6rpqEeJlfT) | 5:02 | 2023-05-09 | 2023-06-27 |
 | [Cansao de To](https://open.spotify.com/track/7ziZS7Bmrs7vNXqc2aSsOw) | [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD), [Tork](https://open.spotify.com/artist/2gZByjNu2u3Zs9x3BUdCzY), [Baghira](https://open.spotify.com/artist/1M6rXjguUqsqaV0cYsytdY) | [Me Tocó Ganar / Cansao de To](https://open.spotify.com/album/70yk59XUkbvKlP3YV3ZI3u) | 4:09 | 2024-06-27 |  |
-| [Caro](https://open.spotify.com/track/361r8vLK0bgSoiKHXPERyR) | [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg) | [Caro](https://open.spotify.com/album/7HeHYUW5xgsVSk5bvUaW6n) | 3:26 | 2024-04-25 |  |
+| [Caro](https://open.spotify.com/track/361r8vLK0bgSoiKHXPERyR) | [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg) | [Caro](https://open.spotify.com/album/7HeHYUW5xgsVSk5bvUaW6n) | 3:26 | 2024-04-25 | 2024-07-06 |
 | [CASANOVA](https://open.spotify.com/track/2YNtUj9qvvmaSe4DIvJedT) | [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [CASANOVA](https://open.spotify.com/album/5FCBY0PBrrrPLJVyJIVRxt) | 3:06 | 2023-06-07 | 2023-06-27 |
 | [Causas Pendientes](https://open.spotify.com/track/4SbWwVQCjv5DaxeKv1JNxW) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [KG970](https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb) | [Causas Pendientes](https://open.spotify.com/album/7rZIOdnQ1TxcJSSmkpjK8x) | 3:05 | 2024-03-22 | 2024-04-12 |
 | [Cero Negativo](https://open.spotify.com/track/10tZvAsXkD6yLyztNzVIQ4) | [K1ZA](https://open.spotify.com/artist/4Om3ZoQAy1yw4caBOvMT2F), [Geckodelarue](https://open.spotify.com/artist/7pN6gysuGSvvdMpWPyDoN4) | [Cero Negativo](https://open.spotify.com/album/5liO9uFnwv3WhlsHysVuHe) | 2:06 | 2024-02-22 | 2024-03-12 |

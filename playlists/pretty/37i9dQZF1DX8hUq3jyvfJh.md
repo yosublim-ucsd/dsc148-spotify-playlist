@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Yasmin Santos e mais mulheres no volume máximo! Co\-curadoria com Yasmin Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,240 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,267 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 22 | [Você Humilha \- Ao Vivo](https://open.spotify.com/track/5kMKSkbbwi6VHiHDRegH7N) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Verdade \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/1cZdFWvvyAKXlUDAZNMs1c) | 3:01 |
 | 23 | [Outra Vez](https://open.spotify.com/track/4SO47HbaWop3fHAKP7fwT4) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:29 |
 | 24 | [A Loba](https://open.spotify.com/track/6TJJi1sNzwrUpjlXHXazlz) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [A Paixão Tem Memória](https://open.spotify.com/album/0RHOy2yMiGSIctpV7ediQl) | 4:24 |
-| 25 | [Cê Não Me Superou \- Ao Vivo](https://open.spotify.com/track/7zmS0vPbWg2k6sfL3uqrGD) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Continua, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/7mcHPmUUdA3O8JjnVkKjxe) | 2:48 |
+| 25 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 |
 | 26 | [Ausência \- Ao Vivo \| Acústico](https://open.spotify.com/track/37erXXnh4mlWE7mdO6EYOp) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Marília Mendonça \- Perfil \(Ao Vivo\)](https://open.spotify.com/album/6JFSCrp4FNZhVZmrDpEZi5) | 2:29 |
-| 27 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 |
+| 27 | [Cê Não Me Superou \- Ao Vivo](https://open.spotify.com/track/7zmS0vPbWg2k6sfL3uqrGD) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Continua, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/7mcHPmUUdA3O8JjnVkKjxe) | 2:48 |
 | 28 | [Cria Da Ivete \- Ao Vivo](https://open.spotify.com/track/4XpB5oBPuygG2Gbpi3PUhu) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Chega Mais \(Ao Vivo\)](https://open.spotify.com/album/72ubm2vqYUYmYOjEUl687c) | 3:57 |
 | 29 | [Psiu](https://open.spotify.com/track/0dBo1a9Tvxtx9x2N4cTL1w) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Indigo Borboleta Anil](https://open.spotify.com/album/7GCAjZgKwHBucSRz7rQize) | 4:55 |
 | 30 | [Primeira Vez](https://open.spotify.com/track/3mpScioNCvPyutQlILGHDr) | [Samyra Show](https://open.spotify.com/artist/4Tf3QqoMHY7pAeE51Ib8Il) | [Primeira Vez](https://open.spotify.com/album/2aT8iWreA86SIdy8LdgoXf) | 2:52 |

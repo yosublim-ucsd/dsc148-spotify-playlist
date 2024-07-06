@@ -261,6 +261,28 @@
     },
     {
       "album": {
+        "name": "Acaecer",
+        "url": "https://open.spotify.com/album/3PRvbNxj1nyt2n71V06qTo"
+      },
+      "artists": [
+        {
+          "name": "La Brigida Orquesta",
+          "url": "https://open.spotify.com/artist/4XbPmAuePPr3JhIoN6WNGP"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224906,
+      "name": "Acaecer",
+      "url": "https://open.spotify.com/track/0TXJsbQDxbUlsjsk2FttAb"
+    },
+    {
+      "album": {
         "name": "After The Storm (Pete Rock Remix)",
         "url": "https://open.spotify.com/album/6TM1R6aTR2wGMMAZpwvXje"
       },
@@ -570,7 +592,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 220797,
       "name": "Battiti in parole",
       "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
@@ -596,7 +618,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 253590,
       "name": "Beautiful Life (feat. 38 Spesh & Jay Worthy)",
       "url": "https://open.spotify.com/track/6lKRzRSizlPqAnHSAALuqG"
@@ -984,6 +1006,28 @@
       "duration_ms": 157603,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/4sw0pibcfTp63iRctT7Fnk"
+    },
+    {
+      "album": {
+        "name": "Peerless",
+        "url": "https://open.spotify.com/album/2maCyX9Ug03EyMtdia3j0T"
+      },
+      "artists": [
+        {
+          "name": "Stalley",
+          "url": "https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161536,
+      "name": "Boiler Room (feat. Benny The Butcher)",
+      "url": "https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE"
     },
     {
       "album": {
@@ -5091,6 +5135,32 @@
     },
     {
       "album": {
+        "name": "MANTO",
+        "url": "https://open.spotify.com/album/59yhLJyas2piQCsJ74N5SL"
+      },
+      "artists": [
+        {
+          "name": "Heems",
+          "url": "https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu"
+        },
+        {
+          "name": "Sid Vashi",
+          "url": "https://open.spotify.com/artist/6wD4PrOL4VPp0SDCtpbtba"
+        },
+        {
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279528,
+      "name": "MANTO",
+      "url": "https://open.spotify.com/track/7Gu0awrdJUvfRNDoXIIAMF"
+    },
+    {
+      "album": {
         "name": "meet the grahams",
         "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
       },
@@ -5392,7 +5462,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 193450,
       "name": "Morning Walk",
       "url": "https://open.spotify.com/track/4C2y1aKylM9BcA0qrk0ABY"

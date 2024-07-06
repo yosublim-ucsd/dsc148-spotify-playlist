@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: احمد كامل و زاب ثروت
 
-1,023 songs - 2 day 9 hr 39 min
+1,024 songs - 2 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [3ala el e3ana](https://open.spotify.com/track/2MD1pRCriQPN6w7FyMcTYY) | [Kassar](https://open.spotify.com/artist/7gTOyOn5JD1cty9eWZvRjP) | [Msh Fahem Haga](https://open.spotify.com/album/7CPW65OAotETJipoKYrN6w) | 3:46 | 2023-03-16 | 2023-05-11 |
 | [3alam Kaddaba](https://open.spotify.com/track/6CxJSgUtAxa4JfpVe9kVkM) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [3alam Kaddaba](https://open.spotify.com/album/2kGGB4ZgQcQeMkrxlRiB53) | 3:50 | 2023-08-24 | 2023-12-09 |
 | [3amalna Ema](https://open.spotify.com/track/17JMZQiLWe3NxHGBv80ll3) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [3amalna Ema](https://open.spotify.com/album/3Udz2hgIlmKqxSW8c0mYJm) | 4:17 | 2023-08-28 | 2023-12-14 |
+| [3amla 3beta](https://open.spotify.com/track/4JwPNEqvFcMAqynTFLRRun) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [3amla 3beta](https://open.spotify.com/album/0S1nVRzvQpDJNypUNLS4dx) | 2:54 | 2024-07-05 |  |
 | [3amlt 5er](https://open.spotify.com/track/7zEyLmurfWk1i1MGrnOtH8) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [3amlt 5er](https://open.spotify.com/album/2906UsdxF63k38NfKXMnjA) | 3:55 | 2023-02-23 | 2023-04-27 |
 | [3an Albi](https://open.spotify.com/track/1Kp8xfjcjQLOBj4BxpV6m0) | [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0) | [3an Albi](https://open.spotify.com/album/4qZZPJFD3Y5y0cnn3Ol7EN) | 2:35 | 2023-05-18 | 2023-07-13 |
 | [3asal Ya Nas](https://open.spotify.com/track/6N7OyyrRQRMiVaUzDh9RiP) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3asal Ya Nas](https://open.spotify.com/album/4PukzqTnEoXMAd2VwEooNb) | 3:04 | 2022-12-31 | 2023-02-17 |
@@ -87,7 +88,7 @@
 | [An El Awan](https://open.spotify.com/track/1iUN70RBPfcqbT1PbohVuS) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [An El Awan](https://open.spotify.com/album/7ILydBC9TthOU5Y42EhPZk) | 3:38 | 2021-12-23 | 2021-12-30 |
 | [An Farh Ghayeb](https://open.spotify.com/track/64ADmsVX0pw03E6gTjtVqY) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [An Farh Ghayeb](https://open.spotify.com/album/0ag4ldewWuzQulhbnHFsEN) | 5:11 | 2024-02-23 | 2024-02-24 |
 | [AN ROUHIK](https://open.spotify.com/track/5sMnbFbgksgK5GGUpQ0GlK) | [Hany Adel](https://open.spotify.com/artist/4Te3SJVA9dluqVRfgGzrzQ) | [AN ROUHIK](https://open.spotify.com/album/6PMLpfFq34WiM7rRJbaRQF) | 5:20 | 2024-05-02 | 2024-07-04 |
-| [Ana Asef](https://open.spotify.com/track/171FQ7zhZduUpHEsn4xzpl) | [Khaled Essam](https://open.spotify.com/artist/5PmKjFeOzaKp69NfojQG6C) | [Ana Asef](https://open.spotify.com/album/6QCSqpeQLRRnnIOaXKZ7iP) | 3:48 | 2024-07-03 |  |
+| [Ana Asef](https://open.spotify.com/track/171FQ7zhZduUpHEsn4xzpl) | [Khaled Essam El Deen](https://open.spotify.com/artist/3syfdFK4iR0fZ1xur7rNao) | [Ana Asef](https://open.spotify.com/album/6QCSqpeQLRRnnIOaXKZ7iP) | 3:48 | 2024-07-03 |  |
 | [Ana Be Touly](https://open.spotify.com/track/3vnaFVNsC059Iiu5QDZ6Ms) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE) | [Ana Be Touly](https://open.spotify.com/album/2snYyolbPLnvsU2VNHyA3F) | 3:44 | 2023-03-07 | 2023-05-06 |
 | [Ana El Mostahel](https://open.spotify.com/track/4lYozOwaI7qe9clHySo8UN) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [Ana El Mostahel](https://open.spotify.com/album/7BmITE5PHY7SF8bblQWfQg) | 4:21 | 2022-03-10 | 2022-07-02 |
 | [Ana El Tayeb](https://open.spotify.com/track/7BpSOx73f8kASfLHhxSbBr) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Ana El Tayeb](https://open.spotify.com/album/1jly0ZLFaEbXVLZkxO7gkC) | 3:24 | 2023-08-10 | 2023-08-29 |
@@ -677,7 +678,7 @@
 | [Ya Layaly](https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Ya Layaly](https://open.spotify.com/album/3p1T8i6PfyTuZkaXMBQGX7) | 3:10 | 2023-07-18 | 2023-08-21 |
 | [Ya Leil Ya Ein](https://open.spotify.com/track/2SXXbIKHfFL4WcmzLkDrMn) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ya Leil Ya Ein](https://open.spotify.com/album/2Euy1OmiFdS02tYAG6fdvL) | 3:31 | 2023-03-03 | 2023-05-05 |
 | [Ya Mawlana](https://open.spotify.com/track/1puamrYWE2cSMKqM2x02j0) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [Ya Mawlana](https://open.spotify.com/album/1azCb4UB8DYaqMT2zUnnwS) | 3:53 | 2024-03-07 | 2024-04-26 |
-| [Ya Nahla](https://open.spotify.com/track/0er5CBzYS2GlYoNU3V4D9X) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Ya Nahla](https://open.spotify.com/album/4PN02EomiBAsQLVKuivtst) | 3:18 | 2024-05-06 |  |
+| [Ya Nahla](https://open.spotify.com/track/0er5CBzYS2GlYoNU3V4D9X) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Ya Nahla](https://open.spotify.com/album/4PN02EomiBAsQLVKuivtst) | 3:18 | 2024-05-06 | 2024-07-06 |
 | [Ya Naseeni](https://open.spotify.com/track/22d2S7bEi30u4TIyfBn6UD) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Ya Naseeni](https://open.spotify.com/album/5dUFJ8fT2qtwrRcNenJoGy) | 2:45 | 2024-02-05 | 2024-03-11 |
 | [Ya Rab Tkoon Be Khair](https://open.spotify.com/track/7BHkU54RSmqhtd8TNKRKx6) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ya Rab Tkoon Be Khair](https://open.spotify.com/album/6Uvz6FXsedSGbIJwTEGrVV) | 3:05 | 2022-12-20 | 2023-02-15 |
 | [Ya Safeena](https://open.spotify.com/track/4ticYbFy3RxBbw94pMvHWj) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Ya Safeena](https://open.spotify.com/album/0l4tnmYwdmygeTEeNnDF5N) | 4:09 | 2023-09-06 | 2023-12-24 |

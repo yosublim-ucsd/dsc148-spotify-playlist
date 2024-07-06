@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Gj7nguS95W.md) - [plain](/playlists/plain/37i9dQZF1DX3Gj7nguS95W) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3Gj7nguS95W)
 
-### [Is it New Wave?](https://open.spotify.com/playlist/37i9dQZF1DX3Gj7nguS95W)
+### [Essential New Wave](https://open.spotify.com/playlist/37i9dQZF1DX3Gj7nguS95W)
 
-> New wave took the 70s punk blueprint and ran wild! Cover: Blondie
+> The greatest New Wave songs through the decades\. Cover: Blondie
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,307 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,541 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Gj7nguS95W.md) - [plain]
 | 49 | [Paint By Number Heart \- Remastered](https://open.spotify.com/track/3djJEaq5BPeIKYrn7znBDH) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [Metro Music](https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX) | 3:29 |
 | 50 | [A Message to You Rudy \- 2002 Remaster](https://open.spotify.com/track/5dRfBz5ZXJc5gZJsNM04nn) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(2002 Remaster\)](https://open.spotify.com/album/7kHtInr7Es2tPk5QJO6y6c) | 2:52 |
 
-Snapshot ID: `ZhBiJAAAAABJBo799OW+uGTJ2oUIhOSQ`
+Snapshot ID: `ZoiDoQAAAABheo4GikKMFdsafuoHQCGI`

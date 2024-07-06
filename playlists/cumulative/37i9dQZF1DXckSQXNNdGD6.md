@@ -4,7 +4,7 @@
 
 > La banda sonora de tu orgullo\. Foto: Agoney.
 
-62 songs - 3 hr 2 min
+63 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [invisible](https://open.spotify.com/track/2xhKj6tAJ4g3BzhJR8JZkl) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [invisible](https://open.spotify.com/album/5SBLJieZS1BQbNOqTXnQ01) | 3:09 | 2024-06-11 |  |
 | [LA LUNA](https://open.spotify.com/track/0Oe5FDm7zS2cz4WDRW2erw) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [LA LUNA](https://open.spotify.com/album/3ETnGzTDjhnrVudUbcc4TG) | 1:57 | 2024-06-05 |  |
 | [La Magia de Tu Melena](https://open.spotify.com/track/2pfgvbJXsmSGXdR98Aemvv) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [ORTIGA](https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6) | [La Magia de Tu Melena](https://open.spotify.com/album/5skve00VQ4XaOUQqqD3XRw) | 3:06 | 2024-06-05 |  |
-| [LAS 12](https://open.spotify.com/track/1dXGCiV6HBjCqsp7lzioJi) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [LAS 12](https://open.spotify.com/album/6F4y3KOBfxEA2Zs6N5Ztbl) | 2:27 | 2024-06-05 |  |
+| [LAS 12](https://open.spotify.com/track/1dXGCiV6HBjCqsp7lzioJi) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [LAS 12](https://open.spotify.com/album/6F4y3KOBfxEA2Zs6N5Ztbl) | 2:27 | 2024-06-05 | 2024-07-06 |
 | [LOCOLOCO](https://open.spotify.com/track/6O3wWV2M81Vhs3JQJtGdcT) | [Yenesi](https://open.spotify.com/artist/2G49dkprxnvfogsgYd3yOb) | [LOCOLOCO](https://open.spotify.com/album/2GGWmq9XIqwKO9xCH5kJSB) | 2:37 | 2024-07-02 |  |
 | [MADRE MÍA EL ASCO QUE ME DAS](https://open.spotify.com/track/30J1epk1XS8p0pFttAPZ4b) | [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [MADRE MÍA EL ASCO QUE ME DAS](https://open.spotify.com/album/4aCUBRVvC3l1aFMZ1Vp9Yr) | 3:39 | 2024-06-05 |  |
 | [Madres Solteras Buscan Polla](https://open.spotify.com/track/5HBKJZOUmNM6EDHbIF8K5V) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [DICTADURA TRAVESTI](https://open.spotify.com/album/4wyhnwydBRXCxjzhlMqT1D) | 3:40 | 2024-06-05 | 2024-07-03 |
@@ -66,6 +66,7 @@
 | [Soy Lesbiana](https://open.spotify.com/track/341va7dx1zrzUKhjXDylWX) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM) | [Soy Lesbiana](https://open.spotify.com/album/2EdFxhEmZtBAqbhl4CBIbR) | 1:36 | 2024-06-05 | 2024-07-03 |
 | [Special K](https://open.spotify.com/track/0jsVPYRgzAFGyQAXihhZnC) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [El Virtual](https://open.spotify.com/artist/1M6Haz9vxliXQXeVO49CSY), [BASS.SEISMIC](https://open.spotify.com/artist/34N9ufnZMrCYjShnohtnV4), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [Special K](https://open.spotify.com/album/3IlmoET8hmw33UHeZFyscK) | 2:32 | 2024-07-02 |  |
 | [Sueño](https://open.spotify.com/track/2uEchvRtFmNNvTiQQSi2am) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Sueño](https://open.spotify.com/album/7z7pDIZ6snsyjddw5oi3bB) | 3:07 | 2024-06-06 |  |
+| [TIEMBLO](https://open.spotify.com/track/4uqnehVpFI8ykMOhzlgfpV) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [TIEMBLO](https://open.spotify.com/album/1KiAXR3Eu85qGm2m7vQ11p) | 2:10 | 2024-07-03 |  |
 | [TODOS LOS DÍAS](https://open.spotify.com/track/2qTIRmguqQTQaeWbDdeH31) | [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa), [GAZZI](https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK) | [TODOS LOS DÍAS](https://open.spotify.com/album/0enhgiXd8aZwycKfwxQszf) | 3:56 | 2024-06-05 |  |
 | [Todos Miran](https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Todos Miran](https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx) | 2:27 | 2024-07-02 |  |
 | [Y q más da](https://open.spotify.com/track/44gwcQaWBtZiAo32wddGAL) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [Y q más da](https://open.spotify.com/album/4ChNZTumfZjlC5QfdcrwoH) | 2:29 | 2024-06-05 | 2024-07-03 |

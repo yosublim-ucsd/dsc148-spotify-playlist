@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Music for your soul. Cover: Hiatus Kaiyote",
+  "description": "Music for your soul. Cover: Channel Tres",
   "name": "BUTTER",
   "tracks": [
     {
@@ -162,6 +162,24 @@
       "duration_ms": 142120,
       "name": "22",
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
+    },
+    {
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/6Rgww4ZKoUkNqki1bQdJNW"
+      },
+      "artists": [
+        {
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182318,
+      "name": "23 SPECIAL",
+      "url": "https://open.spotify.com/track/7Li8IkGfaLNt8nsxcpVxvl"
     },
     {
       "album": {
@@ -3287,6 +3305,28 @@
     },
     {
       "album": {
+        "name": "Peerless",
+        "url": "https://open.spotify.com/album/2maCyX9Ug03EyMtdia3j0T"
+      },
+      "artists": [
+        {
+          "name": "Stalley",
+          "url": "https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161536,
+      "name": "Boiler Room (feat. Benny The Butcher)",
+      "url": "https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE"
+    },
+    {
+      "album": {
         "name": "Bordeaux",
         "url": "https://open.spotify.com/album/10TXpC7OxsHnu8TtfOCU4Z"
       },
@@ -3707,6 +3747,24 @@
     },
     {
       "album": {
+        "name": "Head Rush",
+        "url": "https://open.spotify.com/album/1LWY99BhdUJPU72PZ0MCIc"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203746,
+      "name": "Cactus Water",
+      "url": "https://open.spotify.com/track/3HGXe6GnBCbwaOpMcbUd0U"
+    },
+    {
+      "album": {
         "name": "Cactus Water",
         "url": "https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR"
       },
@@ -3718,7 +3776,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 204240,
       "name": "Cactus Water",
       "url": "https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6"
@@ -6406,6 +6464,36 @@
       "duration_ms": 173615,
       "name": "DT pt.3",
       "url": "https://open.spotify.com/track/5mdDR3IiaePEjw9NGXNlGf"
+    },
+    {
+      "album": {
+        "name": "Remixes and Archives Volume 2",
+        "url": "https://open.spotify.com/album/74d0qx8ay4jPn12kbrgqkE"
+      },
+      "artists": [
+        {
+          "name": "Rhombus",
+          "url": "https://open.spotify.com/artist/4yLHavsAnCJ9gocbofmXGm"
+        },
+        {
+          "name": "TK Paradza",
+          "url": "https://open.spotify.com/artist/2clg7HUEosXUIR8coFTT9w"
+        },
+        {
+          "name": "Lisa Tomlins",
+          "url": "https://open.spotify.com/artist/6SisxwZsa3yQ3VTNGJ8AXR"
+        },
+        {
+          "name": "Matthew Allison",
+          "url": "https://open.spotify.com/artist/1zHzxMGkd8yOHp1dJ0kwe3"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300989,
+      "name": "Dub You So Right",
+      "url": "https://open.spotify.com/track/6ObQi9MvGidlSQc3rwf9ty"
     },
     {
       "album": {
@@ -10098,7 +10186,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 195147,
       "name": "Hell N Back (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
@@ -11132,7 +11220,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 172777,
       "name": "I Know",
       "url": "https://open.spotify.com/track/5UJRrmcrapgTCEhpUlDFXH"
@@ -16743,6 +16831,24 @@
     },
     {
       "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219950,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa"
+    },
+    {
+      "album": {
         "name": "Overgold",
         "url": "https://open.spotify.com/album/5oW0Zsl8PcoaWXEENCIVi6"
       },
@@ -19154,7 +19260,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 199615,
       "name": "Self",
       "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
@@ -20142,7 +20248,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 202687,
       "name": "Sock It To Me",
       "url": "https://open.spotify.com/track/71TgR2sWsKz4tgkVWSOA87"
@@ -21248,6 +21354,28 @@
       "duration_ms": 149773,
       "name": "Subject Seven",
       "url": "https://open.spotify.com/track/0bc9mvAiQ5wRXMBtcolUMr"
+    },
+    {
+      "album": {
+        "name": "Submerge",
+        "url": "https://open.spotify.com/album/0RvovDZcFIQI1e3D2fkwaZ"
+      },
+      "artists": [
+        {
+          "name": "Jerome Thomas",
+          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
+        },
+        {
+          "name": "Pitch 92",
+          "url": "https://open.spotify.com/artist/0LjApYPFAPUvMYMb1gFJrc"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Submerge - Single Version",
+      "url": "https://open.spotify.com/track/3mSYvWiHbYxPqhZbRvXGdV"
     },
     {
       "album": {
@@ -24288,7 +24416,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 231198,
       "name": "What I Like About You",
       "url": "https://open.spotify.com/track/7BQuXsi9qxPrirAnPF2wq4"

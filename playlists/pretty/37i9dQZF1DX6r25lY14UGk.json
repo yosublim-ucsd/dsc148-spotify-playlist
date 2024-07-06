@@ -1,13 +1,97 @@
 {
   "description": "New releases for the kids. Cover: PJ Panda",
-  "num_followers": 25784,
+  "num_followers": 25866,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn7LswAAAAApFea/2VkCFm8R73gaYwtP",
+  "snapshot_id": "ZodvwAAAAAAo/3D1vjI+kELHjcjhxJ/V",
   "tracks": [
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "We\u2019re Taking Over (Dance Remix)",
+        "url": "https://open.spotify.com/album/7lGHNlYMPOHzHXYuokMcys"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 203767,
+      "name": "We're Taking Over - Dance Remix",
+      "url": "https://open.spotify.com/track/0ORhF7uMVltT5g2Bj7aSwk"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "The Ducks Go Waddling",
+        "url": "https://open.spotify.com/album/2RlTAOEZCBOodf66Yp21zr"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 268491,
+      "name": "The Ducks Go Waddling",
+      "url": "https://open.spotify.com/track/3U85iilIbluK9rffhUj8O1"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Fruit Facts",
+        "url": "https://open.spotify.com/album/5JQsXSxzw73E2tNJSnlCer"
+      },
+      "artists": [
+        {
+          "name": "The Vegetable Plot",
+          "url": "https://open.spotify.com/artist/25obYieOVBceEUnI5t5Jih"
+        }
+      ],
+      "duration_ms": 274529,
+      "name": "Fruit Facts",
+      "url": "https://open.spotify.com/track/2Gv3ecx3duoQKDbEpmkdZa"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/12bk4c6nkFZl3gTusgeGSg"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "duration_ms": 188354,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/6Ak0B6CRDfD4UbNsOutBer"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Starlight Starbright",
+        "url": "https://open.spotify.com/album/5hkyVvd22pzUkET8SME7oe"
+      },
+      "artists": [
+        {
+          "name": "The Mik Maks",
+          "url": "https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF"
+        },
+        {
+          "name": "Ava McInnes",
+          "url": "https://open.spotify.com/artist/6NWrE3Wz8ITXVkVg425nBo"
+        }
+      ],
+      "duration_ms": 207103,
+      "name": "Starlight Starbright",
+      "url": "https://open.spotify.com/track/3SPfWqSECcugB1J2JSMRrj"
+    },
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {

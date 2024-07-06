@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 193170,
       "name": "AACHO",
       "url": "https://open.spotify.com/track/7GeJYEhQsBY2hyJZjZrslZ"
@@ -3154,7 +3154,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 150236,
       "name": "La Casa De Las Flores",
       "url": "https://open.spotify.com/track/3ivUzc6yLzHuXbS0TBSGC5"
@@ -4537,6 +4537,28 @@
     },
     {
       "album": {
+        "name": "Noche Y Dia",
+        "url": "https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152601,
+      "name": "Noche Y Dia",
+      "url": "https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa"
+    },
+    {
+      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/65P7YthZh9foaMiByA4smr"
       },
@@ -4960,6 +4982,32 @@
       "duration_ms": 151519,
       "name": "Patilla (feat. El Chima En La Casa & JoeyTheGawd)",
       "url": "https://open.spotify.com/track/3BQn0kOqvoCtV83QAVGd0e"
+    },
+    {
+      "album": {
+        "name": "PE$O",
+        "url": "https://open.spotify.com/album/2XoyikKhNxe9XLRloDLRC7"
+      },
+      "artists": [
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156416,
+      "name": "PE$O",
+      "url": "https://open.spotify.com/track/5o0r8QqEH6AR5OOrBVrKxr"
     },
     {
       "album": {

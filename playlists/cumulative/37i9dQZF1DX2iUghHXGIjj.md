@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-178 songs - 11 hr 9 min
+179 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Another Man](https://open.spotify.com/track/3aYzsSfm5H5597mewo0r3N) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:14 | 2021-10-15 |  |
 | [Apple Picker \(Acoustic\)](https://open.spotify.com/track/3y3cL6EO4ZwSUAFqSMF1Ec) | [Little G Weevil](https://open.spotify.com/artist/4hkwwRsMaMnDGor4KRup2m) | [Three Chords Too Many](https://open.spotify.com/album/5ncj1ATQJG0z62v5zvowKt) | 5:36 | 2020-08-11 |  |
 | [Baby, Please Don't Go](https://open.spotify.com/track/2l3cWYbnJaocXNaWUxm2lu) | [Preacher Boy](https://open.spotify.com/artist/3pvKfUWJ5sqkjXo4dLUnZu) | [The National Blues](https://open.spotify.com/album/66V2vodLs0cyWla3FbSymM) | 3:23 | 2020-08-11 |  |
+| [Back Porch Blues](https://open.spotify.com/track/5xXCW3T0WHCIJYWkWevnK0) | [Rī Wolf](https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n) | [Back Porch Blues](https://open.spotify.com/album/0PijqpPmbwVX0jbPh1IWEU) | 2:32 | 2024-07-05 |  |
 | [Backstreets](https://open.spotify.com/track/5zxLOp4pDCfnJuMhZakq4f) | [Lazer Lloyd](https://open.spotify.com/artist/3M7XE8fhxddDJWWhchEXud) | [Backstreets](https://open.spotify.com/album/3OgV4LLpLHkzMKY063lPdi) | 4:56 | 2020-08-11 |  |
 | [Bad Guy Necessity \- Acoustic](https://open.spotify.com/track/08qYcblROPJzWHOhMFqSt2) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Bad Guy Necessity \(acoustic\)](https://open.spotify.com/album/08aRguL8EvjUpy2oPH6Pqe) | 3:57 | 2020-08-11 |  |
 | [Bad Guy Necessity \- Acoustic](https://open.spotify.com/track/4VthU2Re0xqGF0qt6XHPMD) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead \(Deluxe\)](https://open.spotify.com/album/76BB70ASc22gc7NcRTGSQl) | 3:57 | 2020-08-11 | 2024-04-19 |
@@ -165,7 +166,7 @@
 | [Talkin' To Jehova](https://open.spotify.com/track/69gubiWawGe46tKg6DpIyG) | [Kelly Joe Phelps](https://open.spotify.com/artist/7MGPOWrHHrTJcviOWNbKEF) | [Brother Sinner & The Whale](https://open.spotify.com/album/49SYH9sbBqVVLhFP1XJW8O) | 4:36 | 2020-08-11 |  |
 | [The Dolls Are Sleeping](https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 2:56 | 2022-08-19 |  |
 | [The World Can Be So Cold](https://open.spotify.com/track/0U1M0MLvbw0ZZQDR2BXELd) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 3:26 | 2021-05-21 | 2024-04-19 |
-| [The World Can Be So Cold](https://open.spotify.com/track/1lUN4eNRlpuf3hHJjXf7KG) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [The World Can Be So Cold](https://open.spotify.com/album/7kE0bDyvEtUN1HLK6aHRwC) | 3:26 | 2021-05-21 |  |
+| [The World Can Be So Cold](https://open.spotify.com/track/1lUN4eNRlpuf3hHJjXf7KG) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [The World Can Be So Cold](https://open.spotify.com/album/7kE0bDyvEtUN1HLK6aHRwC) | 3:26 | 2021-05-21 | 2024-07-06 |
 | [The World Can Be So Cold](https://open.spotify.com/track/5N03Df9IsmsWtHNZbrmTjb) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [The World Can Be So Cold](https://open.spotify.com/album/4WA7Zxne8GkMDjnkkZEW1s) | 3:26 | 2021-05-21 | 2022-11-13 |
 | [Thumb a Ride](https://open.spotify.com/track/16AOTn3W58LmpNA6QG19CE) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Thumb a Ride](https://open.spotify.com/album/1GqL0hJ1WP4C3b52wqOUiF) | 2:53 | 2020-08-11 | 2024-04-13 |
 | [Thumb a Ride](https://open.spotify.com/track/6FFQ4nIyeXaDYQLb1zFitB) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Thumb a Ride](https://open.spotify.com/album/5RFZCJtz9yiadjhRB5kaof) | 2:53 | 2020-08-11 |  |

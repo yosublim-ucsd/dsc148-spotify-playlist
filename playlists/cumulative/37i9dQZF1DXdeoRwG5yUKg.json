@@ -933,6 +933,28 @@
     },
     {
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7yesF2kWMklf0zDJQRDzGj"
+      },
+      "artists": [
+        {
+          "name": "Tom Rhodes",
+          "url": "https://open.spotify.com/artist/4lsAzbWcYZblSVl1zhT9bc"
+        },
+        {
+          "name": "Colin Coppola",
+          "url": "https://open.spotify.com/artist/5XR0RFAEuZPD5ldYChGadC"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210176,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/5ryxnvRfWi9q8BHlNHLzOv"
+    },
+    {
+      "album": {
         "name": "I Found A Place In My Heart",
         "url": "https://open.spotify.com/album/6gQRIuxmGLeFzNCbJF4kM5"
       },
@@ -1622,7 +1644,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 240613,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/5aXHTenMHl2XDsN9L4FW6F"

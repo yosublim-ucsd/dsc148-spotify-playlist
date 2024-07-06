@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 853762,
+  "num_followers": 854017,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
+        "name": "AUTOMOTIVO EMPURRA",
+        "url": "https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr"
+      },
+      "artists": [
+        {
+          "name": "sma$her",
+          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
+        }
+      ],
+      "duration_ms": 72014,
+      "name": "AUTOMOTIVO EMPURRA",
+      "url": "https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
         "name": "Tacata (Remix)",
         "url": "https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 156716,
       "name": "Tacata (Remix)",
       "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
-        "name": "AUTOMOTIVO EMPURRA",
-        "url": "https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr"
-      },
-      "artists": [
-        {
-          "name": "sma$her",
-          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
-        }
-      ],
-      "duration_ms": 72014,
-      "name": "AUTOMOTIVO EMPURRA",
-      "url": "https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "Phonkageddon",
-        "url": "https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 133565,
-      "name": "Live Another Day",
-      "url": "https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
         "name": "SEQU\u00caNCIA MAL\u00c9FICA 1.0",
         "url": "https://open.spotify.com/album/4Fpr7mZ709qg0Iu1ESYNwz"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 96461,
       "name": "SEQU\u00caNCIA MAL\u00c9FICA 1.0",
       "url": "https://open.spotify.com/track/1v5PQyuSHxPy56xCuCnMQ0"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
+        "name": "Phonkageddon",
+        "url": "https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 133565,
+      "name": "Live Another Day",
+      "url": "https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "EMPTY DREAMS",
-        "url": "https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2"
-      },
-      "artists": [
-        {
-          "name": "CYPARISS",
-          "url": "https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "EMPTY DREAMS",
-      "url": "https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
         "name": "Scopin",
         "url": "https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1"
       },
@@ -699,22 +683,18 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "YUM YUM",
-        "url": "https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS"
+        "name": "EMPTY DREAMS",
+        "url": "https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2"
       },
       "artists": [
         {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+          "name": "CYPARISS",
+          "url": "https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP"
         }
       ],
-      "duration_ms": 154236,
-      "name": "YUM YUM - Slowed",
-      "url": "https://open.spotify.com/track/7eLiel6UxoNWPGJoSfrq46"
+      "duration_ms": 135000,
+      "name": "EMPTY DREAMS",
+      "url": "https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -739,6 +719,26 @@
       "duration_ms": 136062,
       "name": "MTG - PISTA TOMA",
       "url": "https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
+        "name": "YUM YUM",
+        "url": "https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 154236,
+      "name": "YUM YUM - Slowed",
+      "url": "https://open.spotify.com/track/7eLiel6UxoNWPGJoSfrq46"
     }
   ],
   "unique_name": "gymcore",

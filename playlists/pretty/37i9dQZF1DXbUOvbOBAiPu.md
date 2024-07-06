@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: OneRepublic
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,535 likes - 69 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,546 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,24 +58,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 48 | [HUMBLE ME](https://open.spotify.com/track/0cKykVvNFfHVyPzLdQI6xT) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [HUMBLE ME](https://open.spotify.com/album/6K0i2TgBy7x4agrBXIrnrF) | 2:56 |
 | 49 | [Pretend](https://open.spotify.com/track/4XMll7UtWqbjL2E8ezkkiq) | [Flames and Fables](https://open.spotify.com/artist/5UcpBobbpto9pn0asxc5Jm) | [Pretend](https://open.spotify.com/album/6iPjAkxljSFbCkyah4Kw3r) | 2:59 |
 | 50 | [Brand New](https://open.spotify.com/track/6rNAMdpBADbhYLywtfIulS) | [Chloe Catara](https://open.spotify.com/artist/5sLvTFxeCy8vyXuFWHqb4R) | [Brand New](https://open.spotify.com/album/6l4voS5owJAeIR13st7Cwo) | 2:53 |
-| 51 | [Ana W Yak](https://open.spotify.com/track/0KLFB5ip4HnLQOLrUgAc8P) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [Ne3ne3 Radio](https://open.spotify.com/album/2m0ZqwzrmYhnWa6xB4KhNI) | 2:36 |
-| 52 | [Bubble Bath](https://open.spotify.com/track/3bYJKHx28JSYDnCXbBXpY5) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Bubble Bath](https://open.spotify.com/album/4Jgkh361Fjh0ScarMZtASS) | 2:11 |
-| 53 | [Ojalá Que Fueras Tú](https://open.spotify.com/track/6O7W7tbp4CQJleRbKSWM3S) | [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc) | [Ojalá Que Fueras Tú](https://open.spotify.com/album/0Eag5EDxTBfnWVEzc4Wdmi) | 2:00 |
-| 54 | [Moth](https://open.spotify.com/track/5gzOfu6AnS7cOJq7hTgI94) | [AMNES](https://open.spotify.com/artist/1NWWdL1ttPLXOnDwqJFrbJ), [barking continues](https://open.spotify.com/artist/5CXAbK2R1Jepg9bl76AZ39) | [Moth](https://open.spotify.com/album/55uu2JJEUnFdgQn2QjYKg1) | 2:14 |
-| 55 | [Stuff I Don't Need](https://open.spotify.com/track/58nQiapDkRiWzqncAAhUYq) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Stuff I Don't Need](https://open.spotify.com/album/2zpoawbfmqKewTBC9KYRYe) | 2:54 |
-| 56 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 |
-| 57 | [Mayday](https://open.spotify.com/track/3eQoRW75yqbepDER6ORxOJ) | [Imrah](https://open.spotify.com/artist/38H4tOq5jhinSF5C34lozP), [Nerih](https://open.spotify.com/artist/7eweklo1pwEsb3GZChMjqb) | [Nouvelle Saison](https://open.spotify.com/album/5REAPzcZW7YmhINpyINxLj) | 3:00 |
-| 58 | [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 |
-| 59 | [le secret.](https://open.spotify.com/track/45qdB0VWRuBc5Iyek9Luv0) | [Axel Enderlin](https://open.spotify.com/artist/2MQ3E39TGXpcv9yMqRMHSt) | [le secret.](https://open.spotify.com/album/41Kgsn8A5MZXUPWR4qdhQZ) | 2:59 |
-| 60 | [Cervôlan](https://open.spotify.com/track/6Nqwg5kJ6s0w3zCw5Rdkbw) | [Le Dé](https://open.spotify.com/artist/2UZBLsGKZZnYDb37cDM13m), [Rhum One](https://open.spotify.com/artist/3jJBcXK79N392qKNropVMZ) | [Cervôlan](https://open.spotify.com/album/4CcQO8hqxlzDfuTRbnjniD) | 3:17 |
-| 61 | [Tears To Stay](https://open.spotify.com/track/702sclnvy3bqY7KcUZarpr) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Tears To Stay](https://open.spotify.com/album/56v1Xxrq0f6iodYsedT9Bw) | 2:05 |
-| 62 | [Alive](https://open.spotify.com/track/4ffFByoICCx9gKDQKLJK0M) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Alive](https://open.spotify.com/album/1DhvNti8w03vd00MYvmy7Q) | 2:49 |
-| 63 | [angel](https://open.spotify.com/track/4nZPGie71nH77fbcNJnx0w) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [in the light and shadows](https://open.spotify.com/album/4ovbdT33akJwJUqKCzDK2l) | 2:54 |
-| 64 | [don't want u to die](https://open.spotify.com/track/2RKFPVUnx3jtvsTBSC8Tif) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [don't want u to die](https://open.spotify.com/album/6GiCET4YvGHfvcnHi4KZJB) | 3:08 |
-| 65 | [Mindset](https://open.spotify.com/track/10oE9653NIrmAtbzcb7mZ1) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Mindset](https://open.spotify.com/album/23FgNkUlrdyxGS6yTBFmDb) | 2:35 |
-| 66 | [WIE](https://open.spotify.com/track/5urK7a9JSQo1FdaGcTVJhQ) | [Zes Gang](https://open.spotify.com/artist/0Yf74a135hUkl9qkrBmsin) | [WIE](https://open.spotify.com/album/4mlUQauvoYrz0TNJesb9Su) | 3:57 |
-| 67 | [Room On Do Not Disturb](https://open.spotify.com/track/7zL67nQIpDGrhGqKlNSMy1) | [Wavey Vayn](https://open.spotify.com/artist/0sYOoTwUSsuk6JR5pnH68x) | [Room On Do Not Disturb](https://open.spotify.com/album/56MVaWeqJNbqboP6ZiP31C) | 2:37 |
-| 68 | [Lonsdale Slipons](https://open.spotify.com/track/0qCJBlXoE0mQ21BkHr8tfs) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Lonsdale Slipons](https://open.spotify.com/album/6O5pX1TqnuDbXLHQOpwaoS) | 2:13 |
-| 69 | [House of Bones](https://open.spotify.com/track/5CCZF5sZ8q08ehBckPxQ3W) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [House of Bones](https://open.spotify.com/album/4N0ToZAG8KoYHYquWpSRJD) | 2:21 |
+| 51 | [NAN](https://open.spotify.com/track/0CbXAQ9r0pvnQC9WAbZij4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [NAN](https://open.spotify.com/album/1wkQpHtCqwnHzWJ9aNHANu) | 1:55 |
+| 52 | [Ana W Yak](https://open.spotify.com/track/0KLFB5ip4HnLQOLrUgAc8P) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [Ne3ne3 Radio](https://open.spotify.com/album/2m0ZqwzrmYhnWa6xB4KhNI) | 2:36 |
+| 53 | [Bubble Bath](https://open.spotify.com/track/3bYJKHx28JSYDnCXbBXpY5) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Bubble Bath](https://open.spotify.com/album/4Jgkh361Fjh0ScarMZtASS) | 2:11 |
+| 54 | [Ojalá Que Fueras Tú](https://open.spotify.com/track/6O7W7tbp4CQJleRbKSWM3S) | [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc) | [Ojalá Que Fueras Tú](https://open.spotify.com/album/0Eag5EDxTBfnWVEzc4Wdmi) | 2:00 |
+| 55 | [Moth](https://open.spotify.com/track/5gzOfu6AnS7cOJq7hTgI94) | [AMNES](https://open.spotify.com/artist/1NWWdL1ttPLXOnDwqJFrbJ), [barking continues](https://open.spotify.com/artist/5CXAbK2R1Jepg9bl76AZ39) | [Moth](https://open.spotify.com/album/55uu2JJEUnFdgQn2QjYKg1) | 2:14 |
+| 56 | [Stuff I Don't Need](https://open.spotify.com/track/58nQiapDkRiWzqncAAhUYq) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Stuff I Don't Need](https://open.spotify.com/album/2zpoawbfmqKewTBC9KYRYe) | 2:54 |
+| 57 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 |
+| 58 | [Mayday](https://open.spotify.com/track/3eQoRW75yqbepDER6ORxOJ) | [Imrah](https://open.spotify.com/artist/38H4tOq5jhinSF5C34lozP), [Nerih](https://open.spotify.com/artist/7eweklo1pwEsb3GZChMjqb) | [Nouvelle Saison](https://open.spotify.com/album/5REAPzcZW7YmhINpyINxLj) | 3:00 |
+| 59 | [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 |
+| 60 | [le secret.](https://open.spotify.com/track/45qdB0VWRuBc5Iyek9Luv0) | [Axel Enderlin](https://open.spotify.com/artist/2MQ3E39TGXpcv9yMqRMHSt) | [le secret.](https://open.spotify.com/album/41Kgsn8A5MZXUPWR4qdhQZ) | 2:59 |
+| 61 | [Cervôlan](https://open.spotify.com/track/6Nqwg5kJ6s0w3zCw5Rdkbw) | [Le Dé](https://open.spotify.com/artist/2UZBLsGKZZnYDb37cDM13m), [Rhum One](https://open.spotify.com/artist/3jJBcXK79N392qKNropVMZ) | [Cervôlan](https://open.spotify.com/album/4CcQO8hqxlzDfuTRbnjniD) | 3:17 |
+| 62 | [Tears To Stay](https://open.spotify.com/track/702sclnvy3bqY7KcUZarpr) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Tears To Stay](https://open.spotify.com/album/56v1Xxrq0f6iodYsedT9Bw) | 2:05 |
+| 63 | [Alive](https://open.spotify.com/track/4ffFByoICCx9gKDQKLJK0M) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Alive](https://open.spotify.com/album/1DhvNti8w03vd00MYvmy7Q) | 2:49 |
+| 64 | [angel](https://open.spotify.com/track/4nZPGie71nH77fbcNJnx0w) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [in the light and shadows](https://open.spotify.com/album/4ovbdT33akJwJUqKCzDK2l) | 2:54 |
+| 65 | [don't want u to die](https://open.spotify.com/track/2RKFPVUnx3jtvsTBSC8Tif) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [don't want u to die](https://open.spotify.com/album/6GiCET4YvGHfvcnHi4KZJB) | 3:08 |
+| 66 | [Mindset](https://open.spotify.com/track/10oE9653NIrmAtbzcb7mZ1) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Mindset](https://open.spotify.com/album/23FgNkUlrdyxGS6yTBFmDb) | 2:35 |
+| 67 | [WIE](https://open.spotify.com/track/5urK7a9JSQo1FdaGcTVJhQ) | [Zes Gang](https://open.spotify.com/artist/0Yf74a135hUkl9qkrBmsin) | [WIE](https://open.spotify.com/album/4mlUQauvoYrz0TNJesb9Su) | 3:57 |
+| 68 | [Room On Do Not Disturb](https://open.spotify.com/track/7zL67nQIpDGrhGqKlNSMy1) | [Wavey Vayn](https://open.spotify.com/artist/0sYOoTwUSsuk6JR5pnH68x) | [Room On Do Not Disturb](https://open.spotify.com/album/56MVaWeqJNbqboP6ZiP31C) | 2:37 |
+| 69 | [Lonsdale Slipons](https://open.spotify.com/track/0qCJBlXoE0mQ21BkHr8tfs) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Lonsdale Slipons](https://open.spotify.com/album/6O5pX1TqnuDbXLHQOpwaoS) | 2:13 |
+| 70 | [House of Bones](https://open.spotify.com/track/5CCZF5sZ8q08ehBckPxQ3W) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [House of Bones](https://open.spotify.com/album/4N0ToZAG8KoYHYquWpSRJD) | 2:21 |
 
 Snapshot ID: `ZocbYAAAAAAVyMMvjG1nUbKz+aId4wJF`

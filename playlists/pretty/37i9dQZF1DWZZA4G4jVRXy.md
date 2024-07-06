@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai 🍹 and festoon yourself with lei 🌺, welcome to the Hawaiian party! 🌴🥭🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,697 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,720 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lujon](https://open.spotify.com/track/3hGgNSkBGcbdYTIcCa12pt) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Mr\. Lucky + Mr\. Lucky Goes Latin](https://open.spotify.com/album/51wBh15iTsmho1Td2jRONc) | 2:38 |
 | 2 | [The Enchanted Sea](https://open.spotify.com/track/5EJ9MfO86fEG7ICjhciyd1) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [The Enchanted Sea](https://open.spotify.com/album/5GkmwrmDAeNW83ZCmcLKom) | 2:01 |
 | 3 | [Tiny Bubbles](https://open.spotify.com/track/5xQLjEHGibyfh8YkAtMuWx) | [Don Ho](https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL) | [Tiny Bubbles](https://open.spotify.com/album/12jlS1kFwsM3EP6PrKYj9y) | 2:42 |
-| 4 | [A Man And A Woman \- Remastered](https://open.spotify.com/track/5VwssP9QyvfoKLt9FkI0aR) | [Sir Julian Gould](https://open.spotify.com/artist/4gj1oBNysZZ7lb6sqnRivp) | [Ultra\-Lounge: Organs In Orbit](https://open.spotify.com/album/3g94MSXd9bCi28DBn0SqCU) | 2:32 |
-| 5 | [Alika \- Digitally Remastered 1996](https://open.spotify.com/track/49Zp8RpkMIHa0Pf7A1kcce) | [Webley Edwards](https://open.spotify.com/artist/7zRuASTSFAwiC9wo3moUnS) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 2:28 |
+| 4 | [Alika \- Digitally Remastered 1996](https://open.spotify.com/track/49Zp8RpkMIHa0Pf7A1kcce) | [Webley Edwards](https://open.spotify.com/artist/7zRuASTSFAwiC9wo3moUnS) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 2:28 |
+| 5 | [A Man And A Woman \- Remastered](https://open.spotify.com/track/5VwssP9QyvfoKLt9FkI0aR) | [Sir Julian Gould](https://open.spotify.com/artist/4gj1oBNysZZ7lb6sqnRivp) | [Ultra\-Lounge: Organs In Orbit](https://open.spotify.com/album/3g94MSXd9bCi28DBn0SqCU) | 2:32 |
 | 6 | [Serenade to Nalani](https://open.spotify.com/track/3YEMdmxkrM7XQKxexD9oK9) | [Jerry Byrd](https://open.spotify.com/artist/5PGYCViqsPlum357lDLBpm) | [Hawaiian Style Guitars](https://open.spotify.com/album/0AgeEriHiY3FsJe8ufUMWb) | 2:52 |
 | 7 | [Sunset on the Kona Kai](https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu) | [The Tikiyaki Orchestra](https://open.spotify.com/artist/7kJPKUUnHCennOOEBxjidx) | [Swingin' sounds for the Jungle Jetset !](https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc) | 3:40 |
 | 8 | [Alika](https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R) | [Genoa Keawe](https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy) | [Hana Hou! Vol\. 1](https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt) | 4:36 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 64 | [Mareld 2021](https://open.spotify.com/track/7vTne4h3Rxpk8lCRfcONXJ) | [Ìxtahuele](https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN) | [Mareld 2021](https://open.spotify.com/album/7dGU6JD2hxL29IZ1jlfoyi) | 3:02 |
 | 65 | [Palmeras](https://open.spotify.com/track/5iR7o7agHc6Xfyoa15dxKa) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/4UlE2kIAik6pcM15aztAhs) | 2:20 |
 | 66 | [I Kona](https://open.spotify.com/track/5rexglBxLZ18rUnHha32Xy) | [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX) | [The Golden Voice of Hawai'i, Vol\. 1](https://open.spotify.com/album/6c13l06xAppZ30jLRHp0N1) | 3:35 |
-| 67 | [When It's Time to Go](https://open.spotify.com/track/7cENS3IEG7zkmRgwtXg7Cs) | [Buddy Fo & His Group](https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI) | [When It's Time to Go](https://open.spotify.com/album/12U7NpnNfc1XbMxDkndmqd) | 2:43 |
-| 68 | [Kawohikukapulani](https://open.spotify.com/track/2t5nydEEeYdsi2hR33TRjx) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Hawaiian Sunset](https://open.spotify.com/album/0krfVkBvqQxmQXAXOFeuwg) | 2:26 |
+| 67 | [Kawohikukapulani](https://open.spotify.com/track/2t5nydEEeYdsi2hR33TRjx) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Hawaiian Sunset](https://open.spotify.com/album/0krfVkBvqQxmQXAXOFeuwg) | 2:26 |
+| 68 | [When It's Time to Go](https://open.spotify.com/track/7cENS3IEG7zkmRgwtXg7Cs) | [Buddy Fo & His Group](https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI) | [When It's Time to Go](https://open.spotify.com/album/12U7NpnNfc1XbMxDkndmqd) | 2:43 |
 | 69 | [Lolita Ya Ya](https://open.spotify.com/track/6kAC0ln9itn3TXFZHeEMyg) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Lolita: Original Motion Picture Soundtrack](https://open.spotify.com/album/5Rw1VdeWqxgAfiqC6dk61q) | 3:23 |
 | 70 | [Colors of Hawaiki](https://open.spotify.com/track/2diwam6gjyWIsaIQ3OZ59A) | [Ìxtahuele](https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN) | [Call of the Islands](https://open.spotify.com/album/2hp5uasLT9eKTERMX4rYWD) | 3:06 |
 | 71 | [Jivaro](https://open.spotify.com/track/1pP9JVGU5jKP7sWah8ROPx) | [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d) | [Yma Sumac \- Story Of The Jivaro Vol\. 1](https://open.spotify.com/album/4HKVsoMLahluq4lxl3VMKb) | 2:55 |

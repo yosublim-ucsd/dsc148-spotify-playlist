@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:1pQ5oAMGcFhkkuLqGJQUCd">Ryan Ofei</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,015 likes - 68 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,075 likes - 68 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Temple](https://open.spotify.com/track/66XywM16QAO6Stui0fBEAz) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Restore](https://open.spotify.com/album/2Upq0VFnL6M6Q9UlyN8bCx) | 3:59 |
 | 2 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 |
 | 3 | [Basic Love](https://open.spotify.com/track/01ZqVWJ80sdFpV7qtSOk7R) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP) | [Basic Love](https://open.spotify.com/album/0cTX67U2FMwlJJcuFV2ISz) | 2:12 |
-| 4 | [Matthew 5](https://open.spotify.com/track/2YVR77jP2YNcKwRzlVF6Un) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [Anike](https://open.spotify.com/artist/11qZAJPY3DLCGBehYpsguM) | [Matthew 5](https://open.spotify.com/album/0axHibfqSUrENZhLZKtRrB) | 3:43 |
+| 4 | [Matthew 5](https://open.spotify.com/track/2YVR77jP2YNcKwRzlVF6Un) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Matthew 5](https://open.spotify.com/album/0axHibfqSUrENZhLZKtRrB) | 3:43 |
 | 5 | [Good God II](https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Good God II](https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm) | 3:01 |
 | 6 | [Your Will](https://open.spotify.com/track/3c06N48ZgdY9eCHQ1HBJde) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [Your Will](https://open.spotify.com/album/3Y32cIkisGBiItm0b7LlVp) | 2:29 |
 | 7 | [Cut 'Em Off](https://open.spotify.com/track/0EIjQy9ifrBLscYBSVCr1M) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Koryn Hawthorne Bundle](https://open.spotify.com/album/2WnXB1FLl2M3JwHqNLpy0b) | 2:14 |

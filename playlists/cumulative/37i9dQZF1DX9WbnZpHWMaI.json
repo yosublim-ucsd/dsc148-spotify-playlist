@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203618,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
+    },
+    {
+      "album": {
         "name": "About Work The Dancefloor (The Blessed Madonna Remix)",
         "url": "https://open.spotify.com/album/1gb9PQawrh5AldGrdrlzxP"
       },
@@ -1364,10 +1382,32 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 237230,
       "name": "Don't Understand",
       "url": "https://open.spotify.com/track/3PRYBfxhOk16LhRjRPnRGq"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls)",
+        "url": "https://open.spotify.com/album/2Zm55SQeHeeK2fK9UBJlrE"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158409,
+      "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls)",
+      "url": "https://open.spotify.com/track/0iRxPHydedV81XOsc3JWu7"
     },
     {
       "album": {
@@ -2458,7 +2498,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 209490,
       "name": "Go Ghost",
       "url": "https://open.spotify.com/track/34mRNAdHE2chF02ibo2x6v"
@@ -2672,6 +2712,24 @@
       "duration_ms": 185987,
       "name": "Her",
       "url": "https://open.spotify.com/track/16Vvd690cYoxmMvqaiTBwz"
+    },
+    {
+      "album": {
+        "name": "Hey (Shut Up)",
+        "url": "https://open.spotify.com/album/5lO7A8BggmR1eaUNtSoehK"
+      },
+      "artists": [
+        {
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265500,
+      "name": "Hey (Shut Up)",
+      "url": "https://open.spotify.com/track/6Sy8VJKsFhvWab130OFLjO"
     },
     {
       "album": {
@@ -3036,7 +3094,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 157784,
       "name": "I Can't Take No More",
       "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
@@ -5812,7 +5870,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 161757,
       "name": "Talk talk",
       "url": "https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS"
@@ -6032,6 +6090,24 @@
       "duration_ms": 189773,
       "name": "The Game",
       "url": "https://open.spotify.com/track/0Rm3QhTh5GZoXdg5wI6MB4"
+    },
+    {
+      "album": {
+        "name": "The Life",
+        "url": "https://open.spotify.com/album/0OXDzuQer6RMIBeksBYEYk"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168056,
+      "name": "The Life",
+      "url": "https://open.spotify.com/track/4u9Dvrt4VSSrOPvFTu6FPb"
     },
     {
       "album": {

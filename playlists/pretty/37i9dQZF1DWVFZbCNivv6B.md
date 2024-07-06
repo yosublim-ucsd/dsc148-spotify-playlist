@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Aquí vive el hip\-hop mexicano\. MC Davo en la casa.
+> Aquí vive el hip\-hop mexicano\. Remik Gonzalez en la casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,273 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,308 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Alzypher Vol\. 18](https://open.spotify.com/track/4iYPFY7wHMfdFhqJAaPFw6) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [Alzypher Vol\. 18](https://open.spotify.com/album/4G7la9eJr0ZngnCHjV2mYo) | 3:34 |
-| 2 | [PUT EM IN THE FRIDGE](https://open.spotify.com/track/2BACqEbfDpPMOO7xhSOz2B) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:34 |
-| 3 | [GOET](https://open.spotify.com/track/5CE77TLqLjOQ2qgAobzPds) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [GOET](https://open.spotify.com/album/3tbuO1Yqd3nkyGdVqqtAbF) | 3:01 |
-| 4 | [Con Todo Menos Con Miedo](https://open.spotify.com/track/5BWZHBmOTRL2fA0djH3aYZ) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Con Todo Menos Con Miedo](https://open.spotify.com/album/7nJr0EhoIRfakDLlcYNIyi) | 2:36 |
-| 5 | [Un Buen Día](https://open.spotify.com/track/4hZgiw2H2NzPEEBo9rwsvj) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6) | [Un Buen Día](https://open.spotify.com/album/6o3bBmWEgjCrRbYAFqOYOW) | 3:50 |
-| 6 | [DELE ALLI](https://open.spotify.com/track/66ZI58YP9tz7CJZdmAP934) | [Kevis & Maykyy](https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH), [Chans](https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG) | [DELE ALLI](https://open.spotify.com/album/7qz7zoDI2v2Q2slFwUByCp) | 2:19 |
-| 7 | [Lo Que Fué Ya Fue](https://open.spotify.com/track/7Af4qIPX3NenmkMeL0mrAa) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Abril Mancilla](https://open.spotify.com/artist/5BavlViN948RmxrVtJtOMC), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Lo Que Fué Ya Fue](https://open.spotify.com/album/6fWNMBF0lrnJp9cQxgSYhC) | 4:32 |
-| 8 | [N.D\. State Of Mind](https://open.spotify.com/track/5KxMcIwEMVypmQYALXMQ0A) | [Eptos Uno](https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK) | [N.D\. State Of Mind](https://open.spotify.com/album/0WZZYgUGfNvIzjVmDuYww9) | 2:46 |
+| 1 | [GOET](https://open.spotify.com/track/5CE77TLqLjOQ2qgAobzPds) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [GOET](https://open.spotify.com/album/3tbuO1Yqd3nkyGdVqqtAbF) | 3:01 |
+| 2 | [Enemigo de las Leyes](https://open.spotify.com/track/5NnlIpnudDfVZ76j5e2pea) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6) | [Enemigo de las Leyes](https://open.spotify.com/album/7LPAiVJnr8g9HCPHCnkZzi) | 3:20 |
+| 3 | [PUT EM IN THE FRIDGE](https://open.spotify.com/track/2BACqEbfDpPMOO7xhSOz2B) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:34 |
+| 4 | [N.D\. State Of Mind](https://open.spotify.com/track/5KxMcIwEMVypmQYALXMQ0A) | [Eptos Uno](https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK) | [N.D\. State Of Mind](https://open.spotify.com/album/0WZZYgUGfNvIzjVmDuYww9) | 2:46 |
+| 5 | [Gris](https://open.spotify.com/track/17FVbijsf73yOTSZCTFWKc) | [Solek 473](https://open.spotify.com/artist/0Gn8KswCJzIBPgmEhCcoSU), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Gris](https://open.spotify.com/album/2wzHNh3BYZyHBMAwEEVfKO) | 2:59 |
+| 6 | [Alzypher Vol\. 18](https://open.spotify.com/track/4iYPFY7wHMfdFhqJAaPFw6) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [Alzypher Vol\. 18](https://open.spotify.com/album/4G7la9eJr0ZngnCHjV2mYo) | 3:34 |
+| 7 | [Con Todo Menos Con Miedo](https://open.spotify.com/track/5BWZHBmOTRL2fA0djH3aYZ) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Con Todo Menos Con Miedo](https://open.spotify.com/album/7nJr0EhoIRfakDLlcYNIyi) | 2:36 |
+| 8 | [Un Buen Día](https://open.spotify.com/track/4hZgiw2H2NzPEEBo9rwsvj) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6) | [Un Buen Día](https://open.spotify.com/album/6o3bBmWEgjCrRbYAFqOYOW) | 3:50 |
 | 9 | [100k Pies](https://open.spotify.com/track/1RxebDqBajjS8vBWWN2ZZK) | [Cráneo](https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [100k Pies](https://open.spotify.com/album/4qjuaPMl32PP0ykVfEGhLu) | 2:43 |
 | 10 | [Mis Demonios](https://open.spotify.com/track/2bt4ICyaBAmqjfSjkMcNtx) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6) | [Mis Demonios](https://open.spotify.com/album/5xXtWGBc3x0tqPSgPlmA8B) | 3:30 |
 | 11 | [Gangstas](https://open.spotify.com/track/0zetj2e5QBWucd7M96a7ye) | [Lobo Estepario](https://open.spotify.com/artist/3mqPl8mavq0P24IIbbgYnI) | [Gangstas](https://open.spotify.com/album/0HDinWuDHwChmZP0p8c0dN) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 49 | [El Morrillo](https://open.spotify.com/track/11ca4YK18NT1OZZKkjgvzV) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [El Morrillo](https://open.spotify.com/album/6KRYRynSZ3tdOHfzNtw1jd) | 2:47 |
 | 50 | [A Toda Hora](https://open.spotify.com/track/7AApA6u8jKnrQwhOtZ8EvF) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Muelas De Gallo](https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD), [Dee](https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk), [Yoga Fire](https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF), [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx), [Phul King Fu](https://open.spotify.com/artist/0gKLv0OjOfDAd2HXhYqUh3) | [A Toda Hora](https://open.spotify.com/album/0AEyObamxFk4bG6PnkKQrX) | 4:51 |
 
-Snapshot ID: `Zn5RYQAAAADax89Kuaq76yRUgtg8INQ9`
+Snapshot ID: `ZoeL4AAAAABzCidxPdYfS4Jneqdwctc2`

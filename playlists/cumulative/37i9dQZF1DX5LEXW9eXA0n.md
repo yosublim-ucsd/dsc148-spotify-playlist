@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Park Je Up\(박재업\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,252 songs - 3 day 9 hr 6 min
+1,253 songs - 3 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [Hobby](https://open.spotify.com/track/1AdQRDBrSEvrjfkJrAHY8E) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Hobby](https://open.spotify.com/album/08Elmqrujo2Zyf8BmOJnLI) | 3:37 | 2022-03-31 | 2022-04-15 |
 | [Hold Me](https://open.spotify.com/track/1kQzQWJzQdJnjhP2QW20DB) | [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [You Raise Me Up \(Original Soundtrack\), Pt\. 2](https://open.spotify.com/album/0B7ZUYlQznN02KponYyGvf) | 4:09 | 2022-03-29 | 2022-05-21 |
 | [Hold Me Back](https://open.spotify.com/track/69Bx1c9Hzv7IZGkLyFCeMw) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Queen of Tears \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/2pnbrVkxwo8uEBMg1J1GqE) | 3:52 | 2024-03-20 |  |
+| [Hold Me Now](https://open.spotify.com/track/2SiGvKZCCLMjoXnbWSsMA0) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Dear City](https://open.spotify.com/album/7ibKvB4WLDqCZutb1s1Yeu) | 3:11 | 2024-07-05 |  |
 | [Hold My Hand](https://open.spotify.com/track/7brPjLpvlaYLnPGCA9U6y7) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7yfqRYBQmoNZqoeGe4kPeM) | 3:30 | 2021-12-23 | 2022-07-05 |
 | [Hold on](https://open.spotify.com/track/4I8HkdCUsx3klJdXyefBaq) | [DOHU](https://open.spotify.com/artist/2R1wgdbaWY2KJG9xLWJ2Vh) | [Hold on](https://open.spotify.com/album/4xDmwkuOs9WDHKMVdmNiH3) | 3:51 | 2023-01-20 | 2023-03-28 |
 | [Hold On](https://open.spotify.com/track/7ch0WVownlf3971uGCwJcv) | [Yumin](https://open.spotify.com/artist/7mpr6KFA3Ss5MDZA0cy6ve) | [Hold On](https://open.spotify.com/album/1Pwno5h3SQ06NiwZmxERh1) | 3:36 | 2022-07-07 | 2022-09-06 |

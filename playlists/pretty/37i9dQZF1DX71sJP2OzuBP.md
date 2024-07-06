@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,385 likes - 108 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,393 likes - 108 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 78 | [致遠道而來的我們 \(feat.陳華\)](https://open.spotify.com/track/6o95XPlKyjtDEmSowKncrt) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf), [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [日與夜，跟自己說晚安](https://open.spotify.com/album/6eZ6GBoYL3HAezneabIq49) | 4:03 |
 | 79 | [折起的遗憾](https://open.spotify.com/track/4LFtmTogIZRGpUPzZvgwGl) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [折起的遗憾](https://open.spotify.com/album/1yYmhgWjWjTiktMbmauvlK) | 4:11 |
 | 80 | [若不是有你](https://open.spotify.com/track/1v6xopgHxDctjWEdr69Zhi) | [Soya 許素瑄](https://open.spotify.com/artist/4jpBObbAiOf1Zi55MIKgJr) | [若不是有你](https://open.spotify.com/album/3aVxOVme9qlssq8HNvH11e) | 4:14 |
-| 81 | [心跳回音](https://open.spotify.com/track/2Ma81ugd3c3luqCOxvoqeT) | [高卿尘](https://open.spotify.com/artist/2WH1n92GLBhW4tOrnCXoJd) | [情绪商店](https://open.spotify.com/album/4AkBgswrYIAOo8r0AOFERs) | 4:03 |
+| 81 | [心跳回音](https://open.spotify.com/track/2Ma81ugd3c3luqCOxvoqeT) | [高卿尘](https://open.spotify.com/artist/2WH1n92GLBhW4tOrnCXoJd) | [情绪商店 \(Part1\)](https://open.spotify.com/album/4AkBgswrYIAOo8r0AOFERs) | 4:03 |
 | 82 | [不是不想你](https://open.spotify.com/track/6a1CN3T7lK6kMOWaJAlp6i) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [不是不想你](https://open.spotify.com/album/3DaLWOh8VP7vIxRPEK5YKx) | 3:07 |
 | 83 | [年少的我們永遠輕狂](https://open.spotify.com/track/1lYLNUL6ZIqVFepQ2LBip8) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [年少的我們永遠輕狂](https://open.spotify.com/album/39EAbQkvuzTLASXB94Lj7a) | 4:31 |
 | 84 | [最特別的人](https://open.spotify.com/track/3R3mXD5H3xSTYKXAKwUnAT) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK) | [最特別的人 Say It](https://open.spotify.com/album/77zflKsLQVGVPZDLsGq7bm) | 3:32 |

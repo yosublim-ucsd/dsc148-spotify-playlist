@@ -3176,7 +3176,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 240795,
       "name": "Get On It",
       "url": "https://open.spotify.com/track/5vDEodWFzseVwZLH8sTdo2"
@@ -5594,6 +5594,24 @@
       "duration_ms": 184285,
       "name": "Newfound Treasure",
       "url": "https://open.spotify.com/track/34NSmeactf8t2me3ynMuAm"
+    },
+    {
+      "album": {
+        "name": "Newport Nights (Radio Edit)",
+        "url": "https://open.spotify.com/album/35C6c8BYLjAa6OBYtdfIpj"
+      },
+      "artists": [
+        {
+          "name": "Michael Cates",
+          "url": "https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229628,
+      "name": "Newport Nights - Radio Edit",
+      "url": "https://open.spotify.com/track/5b82tnpFe2WDC2ZgEnbAAx"
     },
     {
       "album": {

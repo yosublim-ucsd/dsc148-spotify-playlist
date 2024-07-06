@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 156628,
+  "num_followers": 156682,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "caravane",
-        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
-      },
-      "artists": [
-        {
-          "name": "Rapha\u00ebl",
-          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Ne partons pas f\u00e2ch\u00e9s",
-      "url": "https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Nonante-Cinq",
         "url": "https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA"
       },
@@ -307,22 +291,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Cats On Trees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
+        "name": "caravane",
+        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
       },
       "artists": [
         {
-          "name": "Cats On Trees",
-          "url": "https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B"
-        },
-        {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+          "name": "Rapha\u00ebl",
+          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
         }
       ],
-      "duration_ms": 176618,
-      "name": "Jimmy",
-      "url": "https://open.spotify.com/track/5rjHhZb8nSQJZZSIGtt78N"
+      "duration_ms": 193000,
+      "name": "Ne partons pas f\u00e2ch\u00e9s",
+      "url": "https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -339,6 +319,26 @@
       "duration_ms": 263440,
       "name": "Encore un soir",
       "url": "https://open.spotify.com/track/51yjUe42smRbgWvg9i9pFa"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Cats On Trees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
+      },
+      "artists": [
+        {
+          "name": "Cats On Trees",
+          "url": "https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B"
+        },
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        }
+      ],
+      "duration_ms": 176618,
+      "name": "Jimmy",
+      "url": "https://open.spotify.com/track/5rjHhZb8nSQJZZSIGtt78N"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Pri\u00e8re pa\u00efenne",
+      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "la derniere annee",
         "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 218133,
       "name": "Le reste",
       "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Pri\u00e8re pa\u00efenne",
-      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "La femme chocolat",
-        "url": "https://open.spotify.com/album/2s7Ajk85HeHsrB0rSzcKJM"
-      },
-      "artists": [
-        {
-          "name": "Olivia Ruiz",
-          "url": "https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj"
-        }
-      ],
-      "duration_ms": 171213,
-      "name": "La femme chocolat",
-      "url": "https://open.spotify.com/track/5M93fqN6b9HNmfQGmXlqdu"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Amoureuse (Edition Deluxe)",
         "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Ginger",
-        "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
+        "name": "La femme chocolat",
+        "url": "https://open.spotify.com/album/2s7Ajk85HeHsrB0rSzcKJM"
       },
       "artists": [
         {
-          "name": "Ga\u00ebtan Roussel",
-          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
+          "name": "Olivia Ruiz",
+          "url": "https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj"
         }
       ],
-      "duration_ms": 188173,
-      "name": "Dis-Moi Encore Que Tu M'Aimes",
-      "url": "https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O"
+      "duration_ms": 171213,
+      "name": "La femme chocolat",
+      "url": "https://open.spotify.com/track/5M93fqN6b9HNmfQGmXlqdu"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Mauvais r\u00eave",
-        "url": "https://open.spotify.com/album/5blMLwINO84ZJntrW0CTNh"
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
       },
       "artists": [
         {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+          "name": "Ga\u00ebtan Roussel",
+          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
         }
       ],
-      "duration_ms": 239546,
-      "name": "Mauvais r\u00eave",
-      "url": "https://open.spotify.com/track/6IZWTHVNit0ajtXwAWDGO9"
+      "duration_ms": 188173,
+      "name": "Dis-Moi Encore Que Tu M'Aimes",
+      "url": "https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1183,6 +1167,22 @@
       "duration_ms": 195693,
       "name": "Le temps passe",
       "url": "https://open.spotify.com/track/7h10VREXjoiHk7YE9QGfgs"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Mauvais r\u00eave",
+        "url": "https://open.spotify.com/album/5blMLwINO84ZJntrW0CTNh"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "duration_ms": 239546,
+      "name": "Mauvais r\u00eave",
+      "url": "https://open.spotify.com/track/6IZWTHVNit0ajtXwAWDGO9"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Osez Josephine",
-        "url": "https://open.spotify.com/album/0653WmIcH7ZSTas8txIZgM"
+        "name": "Je Dis Aime",
+        "url": "https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav"
       },
       "artists": [
         {
-          "name": "Alain Bashung",
-          "url": "https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b"
+          "name": "-M-",
+          "url": "https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6"
         }
       ],
-      "duration_ms": 178173,
-      "name": "Osez Jos\u00e9phine",
-      "url": "https://open.spotify.com/track/3XJG4svqKswsr2ixWNgjg1"
+      "duration_ms": 236600,
+      "name": "Je dis aime",
+      "url": "https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Je Dis Aime",
-        "url": "https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav"
+        "name": "Osez Josephine",
+        "url": "https://open.spotify.com/album/0653WmIcH7ZSTas8txIZgM"
       },
       "artists": [
         {
-          "name": "-M-",
-          "url": "https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6"
+          "name": "Alain Bashung",
+          "url": "https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b"
         }
       ],
-      "duration_ms": 236600,
-      "name": "Je dis aime",
-      "url": "https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO"
+      "duration_ms": 178173,
+      "name": "Osez Jos\u00e9phine",
+      "url": "https://open.spotify.com/track/3XJG4svqKswsr2ixWNgjg1"
     },
     {
       "added_at": "2024-05-23 22:00:00",

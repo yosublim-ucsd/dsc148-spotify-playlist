@@ -4,7 +4,7 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-129 songs - 8 hr 47 min
+130 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [ラブカ?](https://open.spotify.com/track/5R3XD7aR25OcI6qimQU91Z) | [柊キライ](https://open.spotify.com/artist/6enAUr8uYLFYHKDcnRUst2), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ラブカ?](https://open.spotify.com/album/54t8GGGwqraTv779NBRZas) | 3:05 | 2024-02-22 |  |
 | [リベリオン](https://open.spotify.com/track/3AchaKyy2z6K85YGR729JQ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [リベリオン](https://open.spotify.com/album/120fFIxJOERpjvhdC7xJSE) | 2:58 | 2024-02-22 |  |
 | [リベリオン](https://open.spotify.com/track/3JTIwNusgtT95H26DDadkc) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 2:58 | 2024-01-30 | 2024-04-19 |
+| [ルル](https://open.spotify.com/track/6UuxnR9zgvzpFS6YvfCqFL) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ルル](https://open.spotify.com/album/10iuG3s2Fry5JiUh0i0c75) | 3:17 | 2024-07-05 |  |
 | [レディメイド](https://open.spotify.com/track/3hkGr1uZjTdiAPZrk2NTiP) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 4:03 | 2024-02-22 |  |
 | [ヴィラン](https://open.spotify.com/track/0f8sTi3wquQrV6cdflhbxl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Adoの歌ってみたアルバム](https://open.spotify.com/album/4cnBUmiIGHBHozAVteqWXT) | 3:19 | 2024-02-22 |  |
 | [世界のつづき](https://open.spotify.com/track/17zp5n2rbiRJzQtCaZpXDD) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 4:47 | 2024-02-22 |  |

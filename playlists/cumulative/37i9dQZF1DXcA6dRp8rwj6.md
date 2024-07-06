@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Felip\)
 
-2,120 songs - 4 day 11 hr 28 min
+2,121 songs - 4 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -763,6 +763,7 @@
 | [Grown Ups](https://open.spotify.com/track/4RUkKYsuxVreX5AHNdVTHL) | [Sayla](https://open.spotify.com/artist/0KxbnyZU4ptLMcQo2iDrnM), [Kudoshi](https://open.spotify.com/artist/2cABEOZ0sMYypUI1BxrxKw) | [40](https://open.spotify.com/album/5Uiz1ggB3D5W1SkmBdh4un) | 3:27 | 2024-01-11 | 2024-02-23 |
 | [Grrr \- Spotify Singles](https://open.spotify.com/track/2UrBX2cG7ZSnN2SbgspmtK) | [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [BlackNut](https://open.spotify.com/artist/0T8sqjCB5w57zxvW5lp3qJ), [Jimmy Paige](https://open.spotify.com/artist/0lb59tIBwWrDfP6X956pkK), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [SMUGGLERS](https://open.spotify.com/artist/0brXIqiS2RuhcFnwLqMx9p) | [Spotify Singles](https://open.spotify.com/album/2XAl1NxzmOcAgtXNwYjqWn) | 3:56 | 2023-03-17 | 2023-04-28 |
 | [Grrrls](https://open.spotify.com/track/7Mto5DGHzHXzF1hpsMRtYK) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Grrrls](https://open.spotify.com/album/0qFaO3ORj00440rLfVVbb1) | 2:01 | 2022-06-09 | 2022-07-29 |
+| [GUD](https://open.spotify.com/track/28ufgMN1iAMYwuU6R7fyr5) | [T\-LOG](https://open.spotify.com/artist/3GI8SSmtPZAluXrLexTN5u), [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s) | [GUD](https://open.spotify.com/album/65tdS7eUg7SQfR1M2phLNG) | 2:58 | 2024-07-04 |  |
 | [Gum](https://open.spotify.com/track/6QJEWaTiiBSYPHr6FrZ8vu) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Gum](https://open.spotify.com/album/3y6bGlIVIIOQbOgQDRSw1T) | 2:42 | 2023-11-09 | 2024-01-12 |
 | [GUMMY YUMMY](https://open.spotify.com/track/43u36BnruNoxMgxStSLEXQ) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [JV.JARVIS](https://open.spotify.com/artist/3RukKIu27TAGLJ4VT5mNRz), [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [GUMMY YUMMY](https://open.spotify.com/album/47iAhuFISwSujzJFasNVRq) | 4:03 | 2023-04-27 | 2023-05-19 |
 | [Gunsmoke Town](https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:54 | 2023-05-25 | 2023-07-07 |

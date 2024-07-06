@@ -1,13 +1,129 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Kate Bollinger",
-  "num_followers": 795955,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Chance Pe\u00f1a",
+  "num_followers": 796106,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn7SYAAAAACp/ZyFkOsQ1nITTABG7a3O",
+  "snapshot_id": "ZodvwAAAAAAQd2tjBUaKGKmyZv1Wzpnp",
   "tracks": [
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Better Days (feat. John Mayer)",
+      "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Feel It All",
+        "url": "https://open.spotify.com/album/1c0txChD976x1NdD0WU5XO"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 209233,
+      "name": "Feel It All",
+      "url": "https://open.spotify.com/track/4eISmOIOx8s1pWtLkpYHxj"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Babe, I'm All Yours",
+        "url": "https://open.spotify.com/album/2HHy6xAYe8T0UD3mzaGo9M"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Babe, I'm All Yours",
+      "url": "https://open.spotify.com/track/0ObTn3Xn2B28LpFqFrMmLd"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "The Loose Screws",
+        "url": "https://open.spotify.com/album/2bz6QQKfmmvdrmwON1bw7J"
+      },
+      "artists": [
+        {
+          "name": "Camille Jansen",
+          "url": "https://open.spotify.com/artist/3fPap8kKuNMRn5PR06x0gN"
+        }
+      ],
+      "duration_ms": 220123,
+      "name": "The Right Time",
+      "url": "https://open.spotify.com/track/0vRVde5N9PB9JKBOVFUJEa"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Beauty In Your Wake",
+        "url": "https://open.spotify.com/album/3NLiwJYdhhF59hWVpPj9IF"
+      },
+      "artists": [
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+        }
+      ],
+      "duration_ms": 253373,
+      "name": "Follow You Down",
+      "url": "https://open.spotify.com/track/4QgCo6slLJMe4HtCcswJkU"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "I feel, free",
+        "url": "https://open.spotify.com/album/29Gp8bOvQsaQz61RZrw5Sq"
+      },
+      "artists": [
+        {
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
+        }
+      ],
+      "duration_ms": 163924,
+      "name": "I feel, free",
+      "url": "https://open.spotify.com/track/383sYribMAExuB068eOKyj"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Arrow",
+        "url": "https://open.spotify.com/album/38tbGrEsmQbhjbC9hXKiIb"
+      },
+      "artists": [
+        {
+          "name": "Roland Faunte",
+          "url": "https://open.spotify.com/artist/1IMFkgZ2ZpHknO1v2n97CH"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "Arrow",
+      "url": "https://open.spotify.com/track/2TLDx6E35SywKsaz7zrUbb"
+    },
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
@@ -2355,146 +2471,6 @@
       "duration_ms": 210951,
       "name": "Scared of the Dark",
       "url": "https://open.spotify.com/track/2YJAJWHMixHd9XAV5kI9ZM"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "What Lovers Do",
-        "url": "https://open.spotify.com/album/1CuyyyV12THOAVoBAKiRTM"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        },
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 126407,
-      "name": "What Lovers Do",
-      "url": "https://open.spotify.com/track/2RYn22DOInD8RwPE41xEuV"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Back For The Funeral",
-        "url": "https://open.spotify.com/album/0XgBUadqi7WXDReJAetsCX"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 192701,
-      "name": "Back For The Funeral",
-      "url": "https://open.spotify.com/track/3YIQtNLONCMhdVHAz4axNK"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Conversation Starter",
-        "url": "https://open.spotify.com/album/0RAUOFUaAMhzRgtMcoUGEC"
-      },
-      "artists": [
-        {
-          "name": "Odie Leigh",
-          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
-        }
-      ],
-      "duration_ms": 169939,
-      "name": "Conversation Starter",
-      "url": "https://open.spotify.com/track/17KBwzyuzwyGbPath94zzX"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Warning Streets",
-        "url": "https://open.spotify.com/album/6580C3gXlJYMI6ISa7t110"
-      },
-      "artists": [
-        {
-          "name": "Caiola",
-          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
-        },
-        {
-          "name": "Barney Cortez",
-          "url": "https://open.spotify.com/artist/4wKwoVNNPlgxD8JP1P66IA"
-        }
-      ],
-      "duration_ms": 225378,
-      "name": "Warning Streets",
-      "url": "https://open.spotify.com/track/2uZGgqvTLdAYRVCbQuP9Gj"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "I'll Find A Way (To Carry It All)",
-        "url": "https://open.spotify.com/album/4wSsREguKiYzErGexb5NBz"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 261786,
-      "name": "I'll Find A Way (To Carry It All)",
-      "url": "https://open.spotify.com/track/4WP2lTksH5pxmm8uPqpG3d"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Afraid",
-        "url": "https://open.spotify.com/album/5XEB2cwnwp8SFSmHgql9yV"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 244322,
-      "name": "Afraid",
-      "url": "https://open.spotify.com/track/6EWVIxPbH2i5sdzYkAvpp6"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "The Witch",
-        "url": "https://open.spotify.com/album/1tawEN40gmanTIG2QaN3BC"
-      },
-      "artists": [
-        {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
-        },
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 205956,
-      "name": "The Witch",
-      "url": "https://open.spotify.com/track/1SdFf1MOh8F3bQ1zSxWgw6"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Light Verse",
-        "url": "https://open.spotify.com/album/0dZ4tHT2Ka2kScPqLK9x1Q"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 218639,
-      "name": "Sweet Talk",
-      "url": "https://open.spotify.com/track/3sUl6iXhQLGulbyDNaihDw"
     }
   ],
   "unique_name": "Fresh Folk",

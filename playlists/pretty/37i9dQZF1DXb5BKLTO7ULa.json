@@ -1,6 +1,6 @@
 {
   "description": "De nieuwste releases elke vrijdag op Spotify! Cover: Davina Michelle",
-  "num_followers": 262177,
+  "num_followers": 262266,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "NAN",
+        "url": "https://open.spotify.com/album/1wkQpHtCqwnHzWJ9aNHANu"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 115973,
+      "name": "NAN",
+      "url": "https://open.spotify.com/track/0CbXAQ9r0pvnQC9WAbZij4"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Rom\u00e9o",
         "url": "https://open.spotify.com/album/2G1S5u90hxevr1krTQHtaq"
       },
@@ -804,7 +820,7 @@
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 184424,
+      "duration_ms": 184552,
       "name": "Soh-Soh",
       "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
     },

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 ### [GLOW Italia](https://open.spotify.com/playlist/37i9dQZF1DXbj3m6LiQbmy)
 
-> Musica dalla comunità LGBQTIA+ 🇮🇹\. STE in cover! ✨
+> Musica dalla comunità LGBQTIA+ 🇮🇹\. Gianna Nannini in cover! ✨
 
 [Spotify](https://open.spotify.com/user/spotify) - 6,501 likes - 85 songs - 4 hr 29 min
 
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 84 | [Non ti sopporto più](https://open.spotify.com/track/6E2sqmmajA8nXs4pijQebR) | [Senza\_Cri](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [Non ti sopporto più](https://open.spotify.com/album/1wDp4rWLCgkQF55BSdaa3C) | 2:42 |
 | 85 | [Parigi \(mi manchi\) \- Hey Cabrera! Remix](https://open.spotify.com/track/4yDG7Q9kemM7LS2AfxcFs9) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf) | [Le città](https://open.spotify.com/album/6VCWcupYXk4UdIeXJNjC07) | 4:24 |
 
-Snapshot ID: `ZocbnAAAAAD3ZhixkZpvgN6fiNqi+dRk`
+Snapshot ID: `ZogGJQAAAAA7nc+x64qzgEmUGkfT2Bbd`

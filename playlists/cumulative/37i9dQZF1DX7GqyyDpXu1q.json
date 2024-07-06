@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
+  "description": "Modern southern rock swagger served neat. Cover: Bones Owens",
   "name": "Southern Comfort",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 187899,
       "name": "5AM",
       "url": "https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 234783,
       "name": "A Different Kind of Year",
       "url": "https://open.spotify.com/track/3GnTWJSfDr96JJMxCGUUuu"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 258581,
       "name": "Ain't No Need",
       "url": "https://open.spotify.com/track/5aln9BaySR0CldSCFY6xdX"
@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Birmingham Steel",
+        "url": "https://open.spotify.com/album/6cZGRg9YEivfnOwYhAA0Vs"
+      },
+      "artists": [
+        {
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246477,
+      "name": "Birmingham Steel",
+      "url": "https://open.spotify.com/track/7utMoZKOlo64wl4UY624g5"
+    },
+    {
+      "album": {
         "name": "Black Holes Demos",
         "url": "https://open.spotify.com/album/3joUkppKWBZqJvRnF5YGCR"
       },
@@ -556,7 +574,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 216153,
       "name": "Black Powder Soul",
       "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
@@ -574,10 +592,32 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 148790,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/0Lh0BSj5q1vsUgY2OmvOA5"
+    },
+    {
+      "album": {
+        "name": "BLACKOUT feat. Danny Worsnop",
+        "url": "https://open.spotify.com/album/3JN1uFR87CPDIt4u4HkwPh"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        },
+        {
+          "name": "Danny Worsnop",
+          "url": "https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157495,
+      "name": "BLACKOUT feat. Danny Worsnop",
+      "url": "https://open.spotify.com/track/3YAz4V7u4izaT6GiI0PTU9"
     },
     {
       "album": {
@@ -769,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Brother Joe",
+        "url": "https://open.spotify.com/album/0wiqtkItbePXyQjpbJUFcN"
+      },
+      "artists": [
+        {
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Brother Joe",
+      "url": "https://open.spotify.com/track/6A9zZO9ibucGSN8Jmyxt9w"
+    },
+    {
+      "album": {
         "name": "Buffet Days",
         "url": "https://open.spotify.com/album/272cuK8kjbVwLnIl41N4rx"
       },
@@ -802,7 +860,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 259851,
       "name": "Bury My Bones",
       "url": "https://open.spotify.com/track/0lB69AOLAMGpWBMBtIdORj"
@@ -820,7 +878,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 231263,
       "name": "By Surprise",
       "url": "https://open.spotify.com/track/3FYbP66Yr5Gx887ZZuqi3F"
@@ -1076,7 +1134,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 232048,
       "name": "Crawling Kingsnake - Edit",
       "url": "https://open.spotify.com/track/6ReF4Cn3aG4ehqC4NdrLrV"
@@ -1094,7 +1152,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 226309,
       "name": "Creeps",
       "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
@@ -1130,7 +1188,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 270617,
       "name": "Death Wish",
       "url": "https://open.spotify.com/track/5U5OsdeMUIF4MjRP9ee015"
@@ -1184,7 +1242,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 178920,
       "name": "Devil You Know",
       "url": "https://open.spotify.com/track/2sKvfN6Kdjf9FA2yDWHQ6J"
@@ -1400,7 +1458,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 258626,
       "name": "F*ck My Life Up Again",
       "url": "https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv"
@@ -1490,7 +1548,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 189928,
       "name": "Flying",
       "url": "https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN"
@@ -1508,7 +1566,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 211200,
       "name": "For the Love of Money",
       "url": "https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe"
@@ -1526,7 +1584,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 239114,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/7GPTK0ueaymxm8UUvYyP2l"
@@ -1641,6 +1699,24 @@
     },
     {
       "album": {
+        "name": "Summer Skin",
+        "url": "https://open.spotify.com/album/1mB1IJ1SBBD897Z0FgCNu2"
+      },
+      "artists": [
+        {
+          "name": "Bones Owens",
+          "url": "https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167946,
+      "name": "Goin' Back Where I Came From",
+      "url": "https://open.spotify.com/track/7nEcu06mVKfrWeOmNAp6ef"
+    },
+    {
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/1k5RtNRhskf6DG3mX7Oh6Y"
       },
@@ -1706,7 +1782,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 250893,
       "name": "Good Night Down in Georgia",
       "url": "https://open.spotify.com/track/2SJygkVMOLAp8690LOee1h"
@@ -1731,6 +1807,28 @@
     },
     {
       "album": {
+        "name": "Guilty (feat. DL of Bad Wolves)",
+        "url": "https://open.spotify.com/album/4w56LBKWG6lAa5BQg7BUyE"
+      },
+      "artists": [
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        },
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179876,
+      "name": "Guilty (feat. DL of Bad Wolves)",
+      "url": "https://open.spotify.com/track/2VIRo7fNsyarvqzwDgT78d"
+    },
+    {
+      "album": {
         "name": "A Little Calamity",
         "url": "https://open.spotify.com/album/35LXXukiQmYjZ9sRjpga2I"
       },
@@ -1742,7 +1840,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 200138,
       "name": "Half My Fault",
       "url": "https://open.spotify.com/track/5kHCIdvSRoDgt4Fzfi0U7P"
@@ -1814,7 +1912,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 206618,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/7zdR9mlXoyrrw9eqE2sNgV"
@@ -1965,6 +2063,28 @@
     },
     {
       "album": {
+        "name": "High Road (feat. Jessie Murph)",
+        "url": "https://open.spotify.com/album/62NSHNGNQC2hXZKNuvF6pi"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        },
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179413,
+      "name": "High Road (feat. Jessie Murph)",
+      "url": "https://open.spotify.com/track/73KAidtqbDftZjy8AD0H04"
+    },
+    {
+      "album": {
         "name": "Get Rollin'",
         "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
       },
@@ -2099,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "Black on Black",
+        "url": "https://open.spotify.com/album/0gW6rlrjPt0vVCh5knGVCC"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140153,
+      "name": "Hot Damn",
+      "url": "https://open.spotify.com/track/1IayPAwjwwaZAF1GL0Qz4o"
+    },
+    {
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/0c588tsvqcq4wHVpizvxC2"
       },
@@ -2186,7 +2324,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 188142,
       "name": "In The Night Time",
       "url": "https://open.spotify.com/track/0S84XFY5CMmwDTTkbi08q4"
@@ -2425,6 +2563,24 @@
     },
     {
       "album": {
+        "name": "First Last Time",
+        "url": "https://open.spotify.com/album/0DmblXOXPvWPC8u5FnQuUM"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216613,
+      "name": "Last Train To Nowhere",
+      "url": "https://open.spotify.com/track/4JlGrKroKFknodbz9KPSvr"
+    },
+    {
+      "album": {
         "name": "Leaving Hell",
         "url": "https://open.spotify.com/album/2g8x4ROXs8Zhqog9uMGGUz"
       },
@@ -2562,7 +2718,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 281613,
       "name": "Looking For An Old Friend",
       "url": "https://open.spotify.com/track/2BRVCYzNCuazGKNBVZtgIA"
@@ -2584,6 +2740,24 @@
       "duration_ms": 281613,
       "name": "Looking For An Old Friend",
       "url": "https://open.spotify.com/track/49J7rTPBI4lkgd2cf4xlqG"
+    },
+    {
+      "album": {
+        "name": "Thunder Above You",
+        "url": "https://open.spotify.com/album/4n2t9fCAhB6VcZ4dIZmgxa"
+      },
+      "artists": [
+        {
+          "name": "Ida Mae",
+          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233704,
+      "name": "Lost On Your Time",
+      "url": "https://open.spotify.com/track/60bnbNNxDoJR48comugVit"
     },
     {
       "album": {
@@ -2722,7 +2896,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 222653,
       "name": "Midnight Train To Memphis",
       "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
@@ -2758,7 +2932,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 152973,
       "name": "Mississippi Queen",
       "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
@@ -3070,7 +3244,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 175360,
       "name": "Off The Rails",
       "url": "https://open.spotify.com/track/48aM8R9hhTHb4MfHT5sajp"
@@ -3184,7 +3358,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 197234,
       "name": "Outlaws & Outsiders",
       "url": "https://open.spotify.com/track/4OBrZqJzkwdDaXoYVfmIw7"
@@ -3209,6 +3383,24 @@
     },
     {
       "album": {
+        "name": "Deep in the Trouble",
+        "url": "https://open.spotify.com/album/5Uki8ZPYpS7wDAKdUks7Me"
+      },
+      "artists": [
+        {
+          "name": "Goodbye June",
+          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325254,
+      "name": "Pile of Bones",
+      "url": "https://open.spotify.com/track/0P7DARpTXXH01LhUArEYQK"
+    },
+    {
+      "album": {
         "name": "Delta Kream",
         "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
       },
@@ -3220,7 +3412,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 248511,
       "name": "Poor Boy a Long Way From Home",
       "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
@@ -3314,10 +3506,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 150861,
       "name": "Ride It Hard",
       "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
+    },
+    {
+      "album": {
+        "name": "Rides On",
+        "url": "https://open.spotify.com/album/2lu9WD2gKfgX0YlgP7o2vu"
+      },
+      "artists": [
+        {
+          "name": "The Nude Party",
+          "url": "https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284597,
+      "name": "Ride On",
+      "url": "https://open.spotify.com/track/048gO52Od4ig8MEM4oQTv1"
     },
     {
       "album": {
@@ -3332,10 +3542,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 186458,
       "name": "Ride the Lightning - 717 Tapes",
       "url": "https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe"
+    },
+    {
+      "album": {
+        "name": "Crawling My Way Back To You",
+        "url": "https://open.spotify.com/album/0vEfqjzKBIc1GPky8cCfgw"
+      },
+      "artists": [
+        {
+          "name": "The Georgia Thunderbolts",
+          "url": "https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202187,
+      "name": "Rise Above It All",
+      "url": "https://open.spotify.com/track/0Dj1rIYLG4f5jICYjxMnld"
     },
     {
       "album": {
@@ -3350,7 +3578,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 202187,
       "name": "Rise Above It All",
       "url": "https://open.spotify.com/track/64RFA8JNrcHTRRizsXHVPv"
@@ -3404,7 +3632,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 194341,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/5jhY1n1cTKSxx8lEujMcAS"
@@ -3426,6 +3654,42 @@
       "duration_ms": 198107,
       "name": "Rolling Off My Tongue",
       "url": "https://open.spotify.com/track/7qzXjNuwpSgqydOt5lv3PJ"
+    },
+    {
+      "album": {
+        "name": "Songs From Savage",
+        "url": "https://open.spotify.com/album/7C0G7YUeJn2UhgnDC0iNRL"
+      },
+      "artists": [
+        {
+          "name": "Tim Montana",
+          "url": "https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195856,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/4wQOoSjqkdLbfSuYYoGsuv"
+    },
+    {
+      "album": {
+        "name": "Bittersweet Satisfaction",
+        "url": "https://open.spotify.com/album/0kvZy7SqYI9x96qg47TRDP"
+      },
+      "artists": [
+        {
+          "name": "Bad Touch",
+          "url": "https://open.spotify.com/artist/7mDw6B8FlS2JtsgVtwqgQw"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168542,
+      "name": "See It To Believe It",
+      "url": "https://open.spotify.com/track/6bn401AZaUr8josksESfuq"
     },
     {
       "album": {
@@ -3494,7 +3758,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 174124,
       "name": "Sho Been Worse",
       "url": "https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx"
@@ -3566,7 +3830,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 238573,
       "name": "Smokestack Lightning",
       "url": "https://open.spotify.com/track/0AA58C0kJduvq8gvDF1E4r"
@@ -3602,7 +3866,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 156000,
       "name": "Sober",
       "url": "https://open.spotify.com/track/46NdO4T844WlG2nIfETxVl"
@@ -3750,7 +4014,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 247895,
       "name": "Step Aside",
       "url": "https://open.spotify.com/track/6CBRLsIvAeKj1MiPhHnPO9"
@@ -3822,7 +4086,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 242424,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/1wBtnfOFCMmr6yOy1dE5VM"
@@ -3901,6 +4165,24 @@
     },
     {
       "album": {
+        "name": "Takes Me Back",
+        "url": "https://open.spotify.com/album/7zkdUduq8wRQwyXusmx8HE"
+      },
+      "artists": [
+        {
+          "name": "JJ Wilde",
+          "url": "https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231729,
+      "name": "Takes Me Back",
+      "url": "https://open.spotify.com/track/1e1sdcCwbJBYuNqFZs3R29"
+    },
+    {
+      "album": {
         "name": "Bones Owens",
         "url": "https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG"
       },
@@ -3930,7 +4212,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 197782,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6O5Mg4jkIM3EJmphJTCEon"
@@ -4071,6 +4353,24 @@
     },
     {
       "album": {
+        "name": "Ohio Players",
+        "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224044,
+      "name": "This Is Nowhere",
+      "url": "https://open.spotify.com/track/7aQx06Jx3iA9pRdixCUADJ"
+    },
+    {
+      "album": {
         "name": "Three Chords",
         "url": "https://open.spotify.com/album/4ksvsvLoQ7DwjMwDS3Uyvt"
       },
@@ -4154,10 +4454,28 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 247008,
       "name": "Waiting for the Thunder",
       "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
+    },
+    {
+      "album": {
+        "name": "Wanna Be Loved",
+        "url": "https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217307,
+      "name": "Wanna Be Loved",
+      "url": "https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb"
     },
     {
       "album": {
@@ -4287,6 +4605,24 @@
     },
     {
       "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/4hlHbBAzgvjs0w0J7VXDjU"
+      },
+      "artists": [
+        {
+          "name": "The Karma Effect",
+          "url": "https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Wild Honey",
+      "url": "https://open.spotify.com/track/6Lko73yVUqtbwXVpKWjg4T"
+    },
+    {
+      "album": {
         "name": "Happiness Bastards",
         "url": "https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX"
       },
@@ -4324,7 +4660,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 306706,
       "name": "Wilted Rose (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/0otZ1U54WAS8H34PxADNk6"
@@ -4414,7 +4750,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 266933,
       "name": "You're The One",
       "url": "https://open.spotify.com/track/0iYBNrznkCwhN3xCmNVJpo"

@@ -4,7 +4,7 @@
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-105 songs - 5 hr 54 min
+106 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Paisagem](https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Paisagem](https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu) | 3:32 | 2024-03-01 |  |
 | [Particular](https://open.spotify.com/track/7CdOq42qo6ZY4AHS8iNBX3) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [Romântico, Pt\. 1](https://open.spotify.com/album/7iGK5BUubDY6GZrxADD9Gy) | 3:16 | 2023-11-03 | 2023-11-25 |
 | [Perfeita Demais](https://open.spotify.com/track/0iNOiUAd5TjdGTA60iiPCJ) | [R0DR1](https://open.spotify.com/artist/2VpY3fWHu7VbsHZSyQKOGZ) | [Perfeita Demais](https://open.spotify.com/album/4TVvIDkA9n06aB2FzEvRU9) | 3:20 | 2023-09-15 |  |
-| [PFP \(para fazer pretinhos\)](https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh) | [Aysha Lima](https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U), [André Miquelotti](https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54), [DG Prod](https://open.spotify.com/artist/5yRNIQrZSfIpSKXjDQ1qif) | [Ín.ti.mo](https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU) | 3:07 | 2024-01-26 |  |
+| [PFP \(para fazer pretinhos\)](https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh) | [Aysha Lima](https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U), [André Miquelotti](https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54), [DG Prod](https://open.spotify.com/artist/5yRNIQrZSfIpSKXjDQ1qif) | [Ín.ti.mo](https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU) | 3:07 | 2024-01-26 | 2024-07-06 |
 | [Ponte para Terapia](https://open.spotify.com/track/0QiPpYaOqbq8a5uY2TK7P4) | [Amanda Leite](https://open.spotify.com/artist/4Q49VqEExmuqtNK2QZAthq), [Track Room](https://open.spotify.com/artist/3z9m0AVnhY4i7HHL8wOMdc) | [Ponte para Terapia](https://open.spotify.com/album/5yTc6JsARqGCX6mjUnXRq6) | 3:19 | 2023-09-15 | 2023-11-10 |
 | [PORTAIS](https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q) | [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4), [Amanda Magno](https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R) | [30ºC](https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE) | 2:40 | 2024-03-01 |  |
 | [Pouco a Pouco](https://open.spotify.com/track/2XpLF91lmKXTduqNIAhsqe) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Os Garotin Session](https://open.spotify.com/album/1TmShjmZqjOqvhCbma8B4s) | 2:51 | 2023-09-15 | 2023-12-16 |
@@ -97,6 +97,7 @@
 | [SHAWTY](https://open.spotify.com/track/75liZXV6t18aVko4JTjkkm) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [SHAWTY](https://open.spotify.com/album/1jmxpG3tlqWxDYUyFU1FhF) | 2:53 | 2024-04-05 |  |
 | [Sinal de Fumaça](https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Sinal de Fumaça](https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi) | 2:30 | 2023-09-15 | 2023-09-23 |
 | [Sinto a Sua Falta](https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n) | [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Sinto a Sua Falta](https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL) | 3:21 | 2023-09-15 |  |
+| [Só Agradecer \- Ao Vivo](https://open.spotify.com/track/5F5zaoD15lYmW3yGB1VNm3) | [Mr\. Dan](https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52) | [Só Agradecer \(Ao Vivo\)](https://open.spotify.com/album/4GxPHApUC1I89SuDbMiiVX) | 3:59 | 2024-07-05 |  |
 | [só eu sei](https://open.spotify.com/track/1B11lI2bkyrqE7ZfReu7if) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [só eu sei](https://open.spotify.com/album/64lnpVXtLJjZVA1sScIbGo) | 1:55 | 2023-09-15 |  |
 | [Tempo Pra Pensar](https://open.spotify.com/track/0KfUCubX9qFf58eHJOy5o7) | [Jun Alcan](https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V) | [Rosas & Violetas faço um buquê\. Eu quero queimar um \*\*\*\*\*\*\* com você.](https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg) | 3:00 | 2023-09-15 | 2024-06-29 |
 | [That's Why I Love You](https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [idontcare](https://open.spotify.com/artist/3sXDqkz0u2n7NXAPb3H7jV) | [That's Why I Love You](https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV) | 3:38 | 2023-11-10 |  |

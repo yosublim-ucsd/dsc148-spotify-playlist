@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29894,
+  "num_followers": 29902,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAO7Tmxx41VFU4FWB2xXRSRe7pAWu8T",
+  "snapshot_id": "AAAO8DyGNp4OsJvEKFOSpQfENlrkQyqV",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -91,6 +91,22 @@
       "duration_ms": 160440,
       "name": "luv stuck",
       "url": "https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt"
+    },
+    {
+      "added_at": "2024-07-05 15:57:05",
+      "album": {
+        "name": "Things to Come",
+        "url": "https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 163944,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/23DvufvHJAr0OUPfrB7g2J"
     },
     {
       "added_at": "2024-06-20 17:13:18",
@@ -727,22 +743,6 @@
       "duration_ms": 243413,
       "name": "Forgive Me (Live) (ODESZA VIP Remix)",
       "url": "https://open.spotify.com/track/1knm1uDD2L258Ia1z10k2N"
-    },
-    {
-      "added_at": "2024-04-12 10:52:05",
-      "album": {
-        "name": "Your Skin",
-        "url": "https://open.spotify.com/album/7se5zvHVTlsELjqh4MZmRR"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 246823,
-      "name": "Your Skin",
-      "url": "https://open.spotify.com/track/6wejq4291nzIEdKS4iu76l"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

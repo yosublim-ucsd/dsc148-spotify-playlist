@@ -4,7 +4,7 @@
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-100 songs - 6 hr 26 min
+102 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Ilha \- Ao Vivo](https://open.spotify.com/track/4Wls6Mo3QpCTnfa1kSEs6X) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR) | 4:47 | 2023-07-07 |  |
 | [A Sombra da Maldade \(Acústico\)](https://open.spotify.com/track/6oGsJnSlJdGQ6Rir5YHS8c) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 3:50 | 2023-07-07 |  |
 | [A Verdade](https://open.spotify.com/track/2bYnxpCsu0GOPCH0VG98mu) | [Acustico Reggae](https://open.spotify.com/artist/7FcAQCTYtDwaJxuImpe7Wh) | [Na Cidade](https://open.spotify.com/album/6PazpBG8UxyQNrf2GFFpSt) | 3:19 | 2023-07-07 |  |
-| [Acorda Pra Vida](https://open.spotify.com/track/0pHR15s9OE55dlr3Coi2X1) | [Nazirê](https://open.spotify.com/artist/0v6SZmVraj9p6fs3Zzz3ZO) | [Acorda Pra Vida](https://open.spotify.com/album/2pi1P36f6Y5K7LZHxdg6ef) | 3:33 | 2023-07-07 |  |
+| [Acorda Pra Vida](https://open.spotify.com/track/0pHR15s9OE55dlr3Coi2X1) | [Nazirê](https://open.spotify.com/artist/0v6SZmVraj9p6fs3Zzz3ZO) | [Acorda Pra Vida](https://open.spotify.com/album/2pi1P36f6Y5K7LZHxdg6ef) | 3:33 | 2023-07-07 | 2024-07-06 |
 | [Amor Fora Da Lei \- Acústico / Ao Vivo](https://open.spotify.com/track/35ivG7tuA3VNjIR8AFT9jJ) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Na Casa Do Lago \(Acústico / Ao Vivo\)](https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60) | 3:50 | 2023-07-07 |  |
 | [Andei Só \- Ao Vivo](https://open.spotify.com/track/754w4HeOR2R6Si4UmQB8tv) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro](https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX) | 4:23 | 2024-04-19 |  |
 | [Andei Só \- Ao Vivo](https://open.spotify.com/track/7xMb0izMxYXFT0T7w0s9ir) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 4:23 | 2023-07-07 | 2024-04-19 |
@@ -59,6 +59,7 @@
 | [O Erê \(Acústico\)](https://open.spotify.com/track/1Mfx88JU9ztFfsGc2k5pCQ) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 3:56 | 2023-07-07 |  |
 | [Odisséia Na Babilônia \- Ao Vivo](https://open.spotify.com/track/0cUr7yd1UjtyPYwybL4fDi) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 4:12 | 2023-07-07 |  |
 | [Onda do Arraial \- Ao Vivo](https://open.spotify.com/track/2JSxHhnDHsz0d6v22amg7y) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR) | 3:25 | 2023-07-07 |  |
+| [Os Sonhos](https://open.spotify.com/track/2m2NLJeOK1b2KrCibBCCom) | [Walace Fonseca](https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW) | [Os Sonhos](https://open.spotify.com/album/5yLvVlsbb83QpNZKhai85L) | 2:54 | 2024-07-05 |  |
 | [Pensamento \(Acústico\)](https://open.spotify.com/track/2NhI1Yc8XNEztaWxAR1SdD) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 2:52 | 2023-07-07 |  |
 | [Pescador](https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Casinha](https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu) | 2:59 | 2023-07-07 |  |
 | [Pra Falar de Amor](https://open.spotify.com/track/2wYebg7tdJDu77sPEcJrjp) | [Onze:20](https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk) | [Pra Falar de Amor](https://open.spotify.com/album/1Glos4COakkGhj7ODxy9Wf) | 3:29 | 2024-04-19 |  |
@@ -67,6 +68,7 @@
 | [Pra Voar / Posso Ser \- Acústico](https://open.spotify.com/track/0T3SbagkxIpfZmO6fz6SSt) | [Viegas](https://open.spotify.com/artist/6rTzxjnhz5roe983OC25he) | [Pra Voar / Posso Ser \(Acústico\)](https://open.spotify.com/album/7l0HTdQbqI2DHbQ8BdOa9z) | 4:21 | 2023-10-13 | 2024-04-19 |
 | [Proibiram as Flores \- Acústico](https://open.spotify.com/track/6TlCniUVARBxvWoYO3nkqy) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [Eltin](https://open.spotify.com/artist/0CuAjzGLgyZe7aHgVwSzSq) | [Proibiram as Flores \(Acústico\)](https://open.spotify.com/album/4acrd7sLUexTmyeRF15QOs) | 3:58 | 2023-07-07 |  |
 | [Pupila](https://open.spotify.com/track/7Gk5OrMYaMRtT2JmgJVAfk) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Pupila](https://open.spotify.com/album/2YJviUWVUlAlKku8Ghb3sj) | 3:22 | 2023-07-07 |  |
+| [Quem Sabe](https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB) | [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN), [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Quem Sabe](https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc) | 2:53 | 2024-07-05 |  |
 | [Quero Ser Feliz Também \- Ao Vivo](https://open.spotify.com/track/3b8vIZo54D5aIHjukUCYuy) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 3:34 | 2023-07-07 | 2024-04-19 |
 | [Quero Ser Feliz Também \- Ao Vivo](https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro](https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX) | 3:34 | 2024-04-19 |  |
 | [Rasta no Topo \- Ao Vivo](https://open.spotify.com/track/6LRSZXqMl7VjYqDfJdyEB2) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Toque Vivo \(Ao Vivo\)](https://open.spotify.com/album/6bc00G612a4Ru1u6gs4cPx) | 4:01 | 2024-05-10 |  |
@@ -88,7 +90,7 @@
 | [Solstício de Verão \- Acústico](https://open.spotify.com/track/0zRto7Wtn1J6cUfUQzxGlS) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Solstício de Verão \(acústico\)](https://open.spotify.com/album/6DONyw3OmEpeUxUumx0Fcw) | 3:11 | 2023-07-07 |  |
 | [Stepping Out \- Live](https://open.spotify.com/track/2XPATe2p5O9RLC6T1XgI9b) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Rastafari Centennial: Live In Paris \- Elysee Montmartre](https://open.spotify.com/album/0DBU2QlxJuMujoxvydwrcd) | 5:58 | 2023-07-07 |  |
 | [Só Os Loucos Sabem](https://open.spotify.com/track/3nI0piSOxAik2RCpHGloB7) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Camisa 10 joga bola até na chuva](https://open.spotify.com/album/0tbiBipiOorOAnL7XWFbgt) | 3:30 | 2023-07-07 |  |
-| [Toque de Amor \- Ao Vivo](https://open.spotify.com/track/3HEinXxTLr7bHXvtfDijX3) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Toque de Amor \(Ao Vivo\)](https://open.spotify.com/album/05xs0f9DAgvTM3M6ZTMERR) | 4:06 | 2024-04-19 |  |
+| [Toque de Amor \- Ao Vivo](https://open.spotify.com/track/3HEinXxTLr7bHXvtfDijX3) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Toque de Amor \(Ao Vivo\)](https://open.spotify.com/album/05xs0f9DAgvTM3M6ZTMERR) | 4:06 | 2024-04-19 | 2024-07-06 |
 | [Tranquila \- Versão Acústica](https://open.spotify.com/track/0ohZWsvWdcGlXDiuBqxDuV) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Tranquila \(Versão Acústica\)](https://open.spotify.com/album/7cz1MN4Q2jnd1UgI49U6kh) | 2:48 | 2023-07-07 | 2024-04-19 |
 | [Tranquila \- Versão Acústica](https://open.spotify.com/track/0I70H9PTeywaND8P80R5fP) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Tranquila \(Versão Acústica\)](https://open.spotify.com/album/4cMpYRT2XAgI8eiLpQUr42) | 2:48 | 2024-04-19 |  |
 | [True Love](https://open.spotify.com/track/1HnriuDThLq7bEl1QKiaJL) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE) | [Peace in a Time of War](https://open.spotify.com/album/3fmRr51BQGbdFUeFfyGn04) | 4:16 | 2023-07-07 | 2024-04-19 |

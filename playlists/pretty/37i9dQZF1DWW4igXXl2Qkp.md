@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:1PpFka2STGQ57kJcgYBgEF">Angelo Mota</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,289 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,352 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 54 | [HAVE I GROWN COMPLACENT ?](https://open.spotify.com/track/1d9CkQKfDoYRaw70OlilWc) | [GR3G](https://open.spotify.com/artist/074OZlAWHVEVUIpLmRjyjq) | [HEAL FOR ME](https://open.spotify.com/album/4Xoozy0hVulE24TxuxONjI) | 3:15 |
 | 55 | [Even Angels Cry](https://open.spotify.com/track/1pvCpLYXBn713dHe7cjZVO) | [PETROS](https://open.spotify.com/artist/2kRc6Pdf9Jt1fJgrAysiOm) | [Even Angels Cry](https://open.spotify.com/album/1enh91yqFweTpPqDUP7I1g) | 1:58 |
 | 56 | [undecided'](https://open.spotify.com/track/3tdTzfiK5MMntCzwqZocuU) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [undecided'](https://open.spotify.com/album/3R6bCb3Lrl1PU07Q4pxB3h) | 1:36 |
-| 57 | [Team Tomodachi](https://open.spotify.com/track/51MTYQC6SuyRsGQsrP9BEu) | [Yuki Chiba](https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR) | [Team Tomodachi](https://open.spotify.com/album/1CWasLa3b4zvDom0paNlBj) | 2:32 |
+| 57 | [Team Tomodachi](https://open.spotify.com/track/51MTYQC6SuyRsGQsrP9BEu) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [Team Tomodachi](https://open.spotify.com/album/1CWasLa3b4zvDom0paNlBj) | 2:32 |
 | 58 | [Hit My Line](https://open.spotify.com/track/33jUEyYnZyyCImlOXdgaZ9) | [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Hit My Line](https://open.spotify.com/album/2oYmC8LoQ9A0ajDxs0ziED) | 2:25 |
 | 59 | [Splat](https://open.spotify.com/track/3lXHc32BQnQsTjQpyaDWbs) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Splat](https://open.spotify.com/album/7yxhsijLki5kVHC62xPhKr) | 2:58 |
 | 60 | [FLU GAME](https://open.spotify.com/track/3M9RsAQWcVAR8UN6FYFDD1) | [Rome HSB](https://open.spotify.com/artist/5cJixE9JvtFOwilPT0Soro) | [FLU GAME](https://open.spotify.com/album/5YZyhuui2Cd6fQRKlZ1feY) | 2:10 |

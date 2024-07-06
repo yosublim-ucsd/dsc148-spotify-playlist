@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 456483,
+  "num_followers": 456601,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAAAYIumyE8Lpo5PhSGTebpyX",
+  "snapshot_id": "ZoXmAAAAAADNPZR1oXMDQtcWdHPyG2I2",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,22 @@
       "duration_ms": 201400,
       "name": "Heaven's On Fire",
       "url": "https://open.spotify.com/track/1brpdmqkx3kSxyqzqXfW7J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lick It Up",
+        "url": "https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 236640,
+      "name": "Lick It Up",
+      "url": "https://open.spotify.com/track/3cXiUuiGpFmZ8OdAWKk8Ck"
     },
     {
       "added_at": null,
@@ -363,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 259079,
-      "name": "Rock 'N' Roll All Nite - Live",
-      "url": "https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revenge",
         "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
       },
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psycho Circus",
-        "url": "https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 330360,
-      "name": "Psycho Circus",
-      "url": "https://open.spotify.com/track/1D28pacrVWg8sg7v00l4uR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destroyer",
         "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 253840,
       "name": "God Of Thunder",
       "url": "https://open.spotify.com/track/2CJ9wTckMqRjjVVSLTs8QZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psycho Circus",
+        "url": "https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 330360,
+      "name": "Psycho Circus",
+      "url": "https://open.spotify.com/track/1D28pacrVWg8sg7v00l4uR"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy Nights",
-        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Turn On The Night",
-      "url": "https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 175013,
       "name": "Beth - Live",
       "url": "https://open.spotify.com/track/5cPISbao7sZ27Cxj3la7lT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crazy Nights",
+        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Turn On The Night",
+      "url": "https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 314026,
-      "name": "Black Diamond",
-      "url": "https://open.spotify.com/track/6PmckFG2BhEELc5OM7O7DS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 149720,
       "name": "See You Tonight - Live",
       "url": "https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 314026,
+      "name": "Black Diamond",
+      "url": "https://open.spotify.com/track/6PmckFG2BhEELc5OM7O7DS"
     },
     {
       "added_at": null,
@@ -795,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symphony: Alive IV",
-        "url": "https://open.spotify.com/album/2tu4fl2V9D3NHdocyV9J5T"
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
       },
       "artists": [
         {
           "name": "KISS",
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        },
-        {
-          "name": "The Melbourne Symphony Ensemble",
-          "url": "https://open.spotify.com/artist/7heI8mAanEFxzKBOCNWxJB"
         }
       ],
-      "duration_ms": 230386,
-      "name": "Forever (Live)",
-      "url": "https://open.spotify.com/track/1fM0MXvqlJT2H7znb3LiUD"
+      "duration_ms": 171853,
+      "name": "Comin' Home - Live From MTV Unplugged/1995",
+      "url": "https://open.spotify.com/track/1qp9BUccsAqU9r9PdgJzk0"
     }
   ],
   "unique_name": "This Is KISS",

@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 43693,
+  "num_followers": 43701,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAAADxvhczYIHWASwyMBpODwd",
+  "snapshot_id": "ZoXmAAAAAADI7pV2TM2R7GmLStgK+VDQ",
   "tracks": [
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 191796,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/4WgqQODh6GOGqIf7o7pkX4"
+      "duration_ms": 209640,
+      "name": "Blister",
+      "url": "https://open.spotify.com/track/1k4SbPrQlJws5oxPvVi6bP"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 209640,
-      "name": "Blister",
-      "url": "https://open.spotify.com/track/1k4SbPrQlJws5oxPvVi6bP"
+      "duration_ms": 191796,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4WgqQODh6GOGqIf7o7pkX4"
     },
     {
       "added_at": null,

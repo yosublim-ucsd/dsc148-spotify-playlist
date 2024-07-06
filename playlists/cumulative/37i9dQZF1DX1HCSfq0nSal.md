@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. JC Reyes, Omar Montes
 
-592 songs - 1 day 8 hr 55 min
+593 songs - 1 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [120](https://open.spotify.com/track/3KJ3opyV29269SXkPrc19l) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:31 | 2022-02-03 | 2022-09-20 |
 | [2 Hielos](https://open.spotify.com/track/4za7UzHuKvr84o8h9CxqV1) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [2 Hielos](https://open.spotify.com/album/36cXeSQ4gqFwUIdoWFwmR9) | 3:14 | 2023-05-12 | 2023-07-01 |
 | [23 \(With Ape Drums\)](https://open.spotify.com/track/4vv8wcnT04GHHbUCFBAiHF) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u) | [Romances de una Nota 2021, Vol.2](https://open.spotify.com/album/6uEzgIGDVyYfx0yyfON43T) | 2:47 | 2022-01-07 | 2022-01-17 |
+| [2xLL](https://open.spotify.com/track/2ZgZ0RIEVmxUwCZzLTYFoh) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn) | [2xLL](https://open.spotify.com/album/0n4GVoClbgpTfrr6PCP3Au) | 2:58 | 2024-07-05 |  |
 | [3 Am](https://open.spotify.com/track/1F205Nl2feOSYSztLNOJAL) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 3:28 | 2023-03-13 | 2023-09-30 |
 | [38](https://open.spotify.com/track/2LqIOz2Etck4ihJLBRGE0d) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Biwan La Pauta](https://open.spotify.com/artist/2gVPhMOFpW3p95EigvSJXI), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [38](https://open.spotify.com/album/1JEMQtX0pAFIkO88vQe0Wb) | 2:58 | 2024-02-23 | 2024-03-15 |
 | [4 PREZ](https://open.spotify.com/track/5KI2PiYrNnVhj4PQ3kqMjr) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [4 PREZ](https://open.spotify.com/album/2Blh4kM0W8RddcJojwSlll) | 2:29 | 2023-05-16 | 2023-06-24 |
@@ -451,7 +452,7 @@
 | [Qué Prefieres?](https://open.spotify.com/track/1YEQ5CvZVK9P4PsZY76GK5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Qué Prefieres?](https://open.spotify.com/album/5EswK2NXREOYyhrPk8lXb1) | 3:22 | 2022-09-26 | 2023-02-22 |
 | [QUÉSESIENTE](https://open.spotify.com/track/1fWvwI6A5HumUYcfHsiGkx) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [QUÉSESIENTE](https://open.spotify.com/album/5p31iM5fcy4gz2P2iYn4Si) | 2:28 | 2023-05-09 | 2023-06-27 |
 | [Rapido \(with Cris Mj\)](https://open.spotify.com/track/1emJPywtseFLmLCcPY92dW) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Quién es Dei V?](https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5) | 2:26 | 2024-06-17 |  |
-| [Razones](https://open.spotify.com/track/6ioloNq3bBHgoIJh3rC8BQ) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Razones](https://open.spotify.com/album/4WfHOJYS5nbp2bY4crOJUY) | 3:42 | 2024-06-27 |  |
+| [Razones](https://open.spotify.com/track/6ioloNq3bBHgoIJh3rC8BQ) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Razones](https://open.spotify.com/album/4WfHOJYS5nbp2bY4crOJUY) | 3:42 | 2024-06-27 | 2024-07-06 |
 | [Reaction](https://open.spotify.com/track/755ZYuKkmvxrFm0hSCnff9) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Reaction](https://open.spotify.com/album/00NYRqVAD0DNrWIBwNYB48) | 3:06 | 2022-02-25 | 2022-03-12 |
 | [Real G](https://open.spotify.com/track/6WU2eYUtOL91iROonROPyh) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Real G](https://open.spotify.com/album/4zQmGdxbD2EOKItaKLMnrC) | 3:11 | 2022-12-01 | 2023-01-20 |
 | [REAL GANGSTA LOVE](https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:25 | 2024-06-10 |  |

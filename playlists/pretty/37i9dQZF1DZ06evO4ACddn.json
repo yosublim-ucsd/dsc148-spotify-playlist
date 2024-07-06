@@ -1,12 +1,12 @@
 {
   "description": "This is Lonely The Brave. The essential tracks, all in one playlist.",
-  "num_followers": 1086,
+  "num_followers": 1087,
   "original_name": "This Is Lonely The Brave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAAA0igh2uaRt9ln0CYsSQzUL",
+  "snapshot_id": "ZoXmAAAAAADMdFE5Cx4buSl1xVJS/dXO",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
       "duration_ms": 218533,
       "name": "Two Heads",
       "url": "https://open.spotify.com/track/2d3QPzIxf4TRyoXrsujY8S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dust & Bones",
-        "url": "https://open.spotify.com/album/3GHMDiFyBUSZWhLBiBiHK4"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 187257,
-      "name": "Bottled Time",
-      "url": "https://open.spotify.com/track/5AOTvul1pG5guRXeWvq1Za"
     },
     {
       "added_at": null,

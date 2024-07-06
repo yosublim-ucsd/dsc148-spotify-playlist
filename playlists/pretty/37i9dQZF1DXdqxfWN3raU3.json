@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LIT Killah en portada.",
-  "num_followers": 254021,
+  "num_followers": 254040,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "posta",
-        "url": "https://open.spotify.com/album/40qHcVnx8VFQxi9uVzVa4Z"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 121290,
-      "name": "posta",
-      "url": "https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Estoy Bien",
         "url": "https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 168000,
       "name": "Estoy Bien",
       "url": "https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "posta",
+        "url": "https://open.spotify.com/album/40qHcVnx8VFQxi9uVzVa4Z"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 121290,
+      "name": "posta",
+      "url": "https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "LUNAR",
+        "url": "https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 186787,
+      "name": "LUNAR",
+      "url": "https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "T\u00edrame Un Hello (Remix)",
         "url": "https://open.spotify.com/album/5tUPv0bmgylRODlVkL0FGx"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 169621,
       "name": "T\u00edrame Un Hello - Remix",
       "url": "https://open.spotify.com/track/4Kb3xZkdhXtAwAdQ0yeSSA"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "LUNAR",
-        "url": "https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 186787,
-      "name": "LUNAR",
-      "url": "https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Pobre Diablo",
-        "url": "https://open.spotify.com/album/1Z68G3eWNkXwDRmoDSt1WX"
-      },
-      "artists": [
-        {
-          "name": "Shantty",
-          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
-        },
-        {
-          "name": "Priscilla D\u00edaz",
-          "url": "https://open.spotify.com/artist/7q7epBvUzDEKbnoMNz4s96"
-        }
-      ],
-      "duration_ms": 218297,
-      "name": "Pobre Diablo",
-      "url": "https://open.spotify.com/track/6Vu7of1zMd1LPoR0ZJuxTY"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Grillz",
         "url": "https://open.spotify.com/album/1YH8ILbFvKc6NK5iyblISg"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 192526,
       "name": "Grillz",
       "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Pobre Diablo",
+        "url": "https://open.spotify.com/album/1Z68G3eWNkXwDRmoDSt1WX"
+      },
+      "artists": [
+        {
+          "name": "Shantty",
+          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
+        },
+        {
+          "name": "Priscilla D\u00edaz",
+          "url": "https://open.spotify.com/artist/7q7epBvUzDEKbnoMNz4s96"
+        }
+      ],
+      "duration_ms": 218297,
+      "name": "Pobre Diablo",
+      "url": "https://open.spotify.com/track/6Vu7of1zMd1LPoR0ZJuxTY"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "9:15",
+        "url": "https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "9:15",
+      "url": "https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "no me dejes ir",
         "url": "https://open.spotify.com/album/69ZQKycDrLE7bxQvItohZO"
       },
@@ -1071,18 +1087,18 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "9:15",
-        "url": "https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en"
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
       "artists": [
         {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 124800,
-      "name": "9:15",
-      "url": "https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK"
+      "duration_ms": 159465,
+      "name": "ADI\u00d3S AMOR",
+      "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 159465,
-      "name": "ADI\u00d3S AMOR",
-      "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Helado De Vainilla",
         "url": "https://open.spotify.com/album/2rvrhgSwAx5WMZAqeNoO5R"
       },
@@ -1139,6 +1139,22 @@
       "duration_ms": 209100,
       "name": "Helado De Vainilla",
       "url": "https://open.spotify.com/track/6kQq7hY3uAW4hQiysJrR03"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Opciones",
+        "url": "https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 213444,
+      "name": "Opciones",
+      "url": "https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Opciones",
-        "url": "https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB"
+        "name": "Carmes\u00ed",
+        "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
       },
       "artists": [
         {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
         }
       ],
-      "duration_ms": 213444,
-      "name": "Opciones",
-      "url": "https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z"
+      "duration_ms": 165562,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Carmes\u00ed",
-        "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 165562,
-      "name": "Carmes\u00ed",
-      "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/0cBb2v72QQychZ8tuOyWCp"
       },
@@ -1251,6 +1251,22 @@
       "duration_ms": 244700,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/3J1nlJLXVzSVgVEYhR6zPY"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Ketamina",
+        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "Ketamina",
+      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Ketamina",
-        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "Ketamina",
-      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Modo Avi\u00f3n",
         "url": "https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 181463,
       "name": "Modo Avi\u00f3n",
       "url": "https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "YELIANA - Cap.1 - Que me quiera / Lokita",
-        "url": "https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Que me quiera",
-      "url": "https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "YELIANA - Cap.1 - Que me quiera / Lokita",
+        "url": "https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Que me quiera",
+      "url": "https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "Invierno",
         "url": "https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu"
       },
@@ -1387,6 +1387,26 @@
       "duration_ms": 225882,
       "name": "Invierno",
       "url": "https://open.spotify.com/track/2tuEMMVAIRWjOTCTHgI7d8"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "DIME C\u00d3MO HACER",
+        "url": "https://open.spotify.com/album/6kYWm4x6I4BKaUTdJxCGCp"
+      },
+      "artists": [
+        {
+          "name": "Karla Breu",
+          "url": "https://open.spotify.com/artist/64kqaiiwxLbRBOM3JQufP1"
+        },
+        {
+          "name": "Phyzh Eye",
+          "url": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "DIME C\u00d3MO HACER",
+      "url": "https://open.spotify.com/track/3VKP3ukqYj9lHvA3JdP734"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1435,26 +1455,6 @@
       "duration_ms": 202400,
       "name": "Mi Piscis",
       "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "DIME C\u00d3MO HACER",
-        "url": "https://open.spotify.com/album/6kYWm4x6I4BKaUTdJxCGCp"
-      },
-      "artists": [
-        {
-          "name": "Karla Breu",
-          "url": "https://open.spotify.com/artist/64kqaiiwxLbRBOM3JQufP1"
-        },
-        {
-          "name": "Phyzh Eye",
-          "url": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "DIME C\u00d3MO HACER",
-      "url": "https://open.spotify.com/track/3VKP3ukqYj9lHvA3JdP734"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Kafka",
-        "url": "https://open.spotify.com/album/0gptfIY6g3e1xTrb9019J7"
-      },
-      "artists": [
-        {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Kafka",
-      "url": "https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Barco",
         "url": "https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 238000,
       "name": "Barco",
       "url": "https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Kafka",
+        "url": "https://open.spotify.com/album/0gptfIY6g3e1xTrb9019J7"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Kafka",
+      "url": "https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "Acuerdo",
+        "url": "https://open.spotify.com/album/7MlhebsVfSmCgB8UnOJBVM"
+      },
+      "artists": [
+        {
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+        }
+      ],
+      "duration_ms": 203470,
+      "name": "Acuerdo",
+      "url": "https://open.spotify.com/track/2rn1YQ19QkhAWB9oYEb4ue"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "Nadie Nos Entiende",
         "url": "https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms"
       },
@@ -1699,18 +1715,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Acuerdo",
-        "url": "https://open.spotify.com/album/7MlhebsVfSmCgB8UnOJBVM"
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/4xxtiFnG5k9Tr92mdUGTaW"
       },
       "artists": [
         {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+          "name": "Kidd Manny",
+          "url": "https://open.spotify.com/artist/6ckHURH4vaNUiIsoFanfX8"
+        },
+        {
+          "name": "Birat Bitz",
+          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
         }
       ],
-      "duration_ms": 203470,
-      "name": "Acuerdo",
-      "url": "https://open.spotify.com/track/2rn1YQ19QkhAWB9oYEb4ue"
+      "duration_ms": 156060,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/02nqZpvFs0QLGbn8lItNWW"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1739,26 +1759,6 @@
       "duration_ms": 192000,
       "name": "RIP",
       "url": "https://open.spotify.com/track/1iSLhqv5Lf9N9Rp9bqQQWD"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/4xxtiFnG5k9Tr92mdUGTaW"
-      },
-      "artists": [
-        {
-          "name": "Kidd Manny",
-          "url": "https://open.spotify.com/artist/6ckHURH4vaNUiIsoFanfX8"
-        },
-        {
-          "name": "Birat Bitz",
-          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
-        }
-      ],
-      "duration_ms": 156060,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/02nqZpvFs0QLGbn8lItNWW"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1815,8 +1815,8 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "dec\u00eddete",
-        "url": "https://open.spotify.com/album/4gJIXcAlMbC5yagmVTUgMN"
+        "name": "Gotas",
+        "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
       },
       "artists": [
         {
@@ -1824,13 +1824,13 @@
           "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
         },
         {
-          "name": "Absa G.",
-          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
         }
       ],
-      "duration_ms": 161311,
-      "name": "dec\u00eddete",
-      "url": "https://open.spotify.com/track/33MvQLMWwL0vP55gnBh6L5"
+      "duration_ms": 215156,
+      "name": "Gotas",
+      "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
     },
     {
       "added_at": "2024-06-28 06:00:00",

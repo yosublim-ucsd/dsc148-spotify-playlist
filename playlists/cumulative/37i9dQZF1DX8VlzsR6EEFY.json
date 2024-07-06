@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-09",
-  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Adriel Favela en portada.",
+  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Nathan Galante y Matisse en portada.",
   "name": "La Miscel\u00e1nea: Banda, Corridos & m\u00e1s...",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 195232,
       "name": "25 Rosas",
       "url": "https://open.spotify.com/track/21X776V0IvK8eIpRC22s2M"
@@ -268,6 +268,24 @@
       "duration_ms": 227696,
       "name": "Amor Clandestino - Versi\u00f3n Regional Mexicano",
       "url": "https://open.spotify.com/track/5qZaNA8FPzxPEtOaRj9zeY"
+    },
+    {
+      "album": {
+        "name": "Andale Terca",
+        "url": "https://open.spotify.com/album/4sMXLoAl1vpBA3Mi0IFcsA"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196253,
+      "name": "Andale Terca",
+      "url": "https://open.spotify.com/track/0Q90LgKe7DBsEeDSsXG3AN"
     },
     {
       "album": {
@@ -490,7 +508,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 210349,
       "name": "Camaron Pelao",
       "url": "https://open.spotify.com/track/4QC5C5FOQtEcuw0ZDrgTxJ"
@@ -584,10 +602,32 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 201898,
       "name": "Con Una Mirada",
       "url": "https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh"
+    },
+    {
+      "album": {
+        "name": "Coquetas",
+        "url": "https://open.spotify.com/album/6EFL23ZDgl72h59YANjdPP"
+      },
+      "artists": [
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142226,
+      "name": "Coquetas",
+      "url": "https://open.spotify.com/track/4x7k8YgC6Co2RQRiRMD8YK"
     },
     {
       "album": {
@@ -766,7 +806,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 176377,
       "name": "Dudaste",
       "url": "https://open.spotify.com/track/4X5MTSMbxLCbFxSKK9ACip"
@@ -1089,6 +1129,28 @@
     },
     {
       "album": {
+        "name": "Juego De Feria",
+        "url": "https://open.spotify.com/album/4mFw8K0Ts3T6yQourMWESD"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        },
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157146,
+      "name": "Juego De Feria",
+      "url": "https://open.spotify.com/track/5tVNRjHFayBzyOPSpUniDF"
+    },
+    {
+      "album": {
         "name": "Kbron y Medio",
         "url": "https://open.spotify.com/album/43lZUcMvNSAHtQTVHzAgax"
       },
@@ -1148,7 +1210,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 163335,
       "name": "La Chamba",
       "url": "https://open.spotify.com/track/50PPvQOz0WqwMDEx2mMA0Z"
@@ -1547,6 +1609,32 @@
     },
     {
       "album": {
+        "name": "Lunetas",
+        "url": "https://open.spotify.com/album/77PjwDAfnqkqKWm4yGlV93"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176760,
+      "name": "Lunetas",
+      "url": "https://open.spotify.com/track/5stvPTThbnckmxWgW8Nswj"
+    },
+    {
+      "album": {
         "name": "Malamente",
         "url": "https://open.spotify.com/album/1Rd0sR7bIlPzD8XhkfmSBM"
       },
@@ -1903,6 +1991,28 @@
     },
     {
       "album": {
+        "name": "Obra Maestra",
+        "url": "https://open.spotify.com/album/6H5D1HZktbeGJN8iDGNORq"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "Me\u00f1o Segovia",
+          "url": "https://open.spotify.com/artist/10yoMUJRhiYQXeSBqyckcK"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "No Me Digas Amor",
+      "url": "https://open.spotify.com/track/4N6ptPHdpOhd2ZrCRbUXxt"
+    },
+    {
+      "album": {
         "name": "No Soy De Modas",
         "url": "https://open.spotify.com/album/2SdmqBcmimSz8LYusIYWzR"
       },
@@ -2008,7 +2118,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 166949,
       "name": "Ojal\u00e1 Estuvieras Aqu\u00ed",
       "url": "https://open.spotify.com/track/0qv6HGoCMqZ7ipX4u4N8KQ"
@@ -2479,6 +2589,28 @@
     },
     {
       "album": {
+        "name": "Te Pienso",
+        "url": "https://open.spotify.com/album/4icHyq5cQAE4lhT4CcQpvX"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        },
+        {
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170080,
+      "name": "Te Pienso",
+      "url": "https://open.spotify.com/track/4YLhVXBkAiDUmXMubRijEw"
+    },
+    {
+      "album": {
         "name": "Te quiero",
         "url": "https://open.spotify.com/album/1c0oBLMD4sjDbBckO4Nqbe"
       },
@@ -2542,6 +2674,28 @@
       "duration_ms": 173975,
       "name": "Te Ves Tan Bien",
       "url": "https://open.spotify.com/track/2jQSAAik7RO3EGv0YeJtXV"
+    },
+    {
+      "album": {
+        "name": "Tengo Claro",
+        "url": "https://open.spotify.com/album/6r2fG8QS313bzSxFEi7wnr"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191681,
+      "name": "Tengo Claro",
+      "url": "https://open.spotify.com/track/2UAE43Y8K321CDAbnIXDD0"
     },
     {
       "album": {
@@ -2665,6 +2819,24 @@
     },
     {
       "album": {
+        "name": "Tus Mentiras",
+        "url": "https://open.spotify.com/album/4ZP2jImo4MyE671HpdsBoY"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266653,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/5kjKugCiXoTMo7xnwCBLhi"
+    },
+    {
+      "album": {
         "name": "T\u00fa o Yo",
         "url": "https://open.spotify.com/album/3Uu0DhWrr2GiqDf9wPE8I2"
       },
@@ -2680,7 +2852,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 163188,
       "name": "T\u00fa o Yo",
       "url": "https://open.spotify.com/track/6kALmpYx3aGYLQhcsXlKaz"
@@ -2702,7 +2874,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 161746,
       "name": "T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/6KL6betdtjLyzJmpjPjvuw"

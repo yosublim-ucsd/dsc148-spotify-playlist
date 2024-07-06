@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd72\ud83e\udd4a",
-  "num_followers": 213869,
+  "num_followers": 213861,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "LOVE AGAIN",
         "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
       },
@@ -447,6 +463,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Se p\u00e5 meg",
+        "url": "https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv"
+      },
+      "artists": [
+        {
+          "name": "Tigergutt101",
+          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
+        }
+      ],
+      "duration_ms": 143759,
+      "name": "Se p\u00e5 meg",
+      "url": "https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "You Need Me Now? (feat. Sabrina Carpenter)",
         "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
       },
@@ -467,18 +499,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Se p\u00e5 meg",
-        "url": "https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv"
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
       "artists": [
         {
-          "name": "Tigergutt101",
-          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 143759,
-      "name": "Se p\u00e5 meg",
-      "url": "https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE"
+      "duration_ms": 212466,
+      "name": "Better Days (feat. John Mayer)",
+      "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -495,6 +531,22 @@
       "duration_ms": 149173,
       "name": "Vin",
       "url": "https://open.spotify.com/track/4UGiylwOx9pBF0D6VlnhpR"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 179757,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -519,18 +571,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 179757,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
+      "duration_ms": 183473,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -567,22 +619,6 @@
       "duration_ms": 214555,
       "name": "beat up car",
       "url": "https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Too Much",
-        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 183473,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -707,22 +743,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "En g\u00e5ng till",
-        "url": "https://open.spotify.com/album/4DHfWTM0wLOcsvPftNzluD"
+        "name": "I'M DOING IT AGAIN BABY!",
+        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
       },
       "artists": [
         {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        },
-        {
-          "name": "Shenzi Beats",
-          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 145000,
-      "name": "En g\u00e5ng till",
-      "url": "https://open.spotify.com/track/2vd8CskGdduZW0LvVvXW7f"
+      "duration_ms": 179791,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -743,18 +775,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "I'M DOING IT AGAIN BABY!",
-        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
+        "name": "En g\u00e5ng till",
+        "url": "https://open.spotify.com/album/4DHfWTM0wLOcsvPftNzluD"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "Shenzi Beats",
+          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
         }
       ],
-      "duration_ms": 179791,
-      "name": "I'm Back",
-      "url": "https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg"
+      "duration_ms": 145000,
+      "name": "En g\u00e5ng till",
+      "url": "https://open.spotify.com/track/2vd8CskGdduZW0LvVvXW7f"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -839,42 +875,6 @@
       "duration_ms": 163070,
       "name": "Sjarm\u00f8r (Beepolar)",
       "url": "https://open.spotify.com/track/6KRzKdnFjMabdStm61TQ13"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "R\u00f8de Rubin",
-        "url": "https://open.spotify.com/album/6Yrm9gEwrSFWgsIDgr7YbI"
-      },
-      "artists": [
-        {
-          "name": "Plaza",
-          "url": "https://open.spotify.com/artist/00Pw5UR1M3PTfsr0S7nhUQ"
-        }
-      ],
-      "duration_ms": 156459,
-      "name": "R\u00f8de Rubin",
-      "url": "https://open.spotify.com/track/0Pdi9usvND947TMv869DmN"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Danseproblem",
-        "url": "https://open.spotify.com/album/5du6PDgOJPuXt6EwK8Y3HE"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        },
-        {
-          "name": "Coucheron",
-          "url": "https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D"
-        }
-      ],
-      "duration_ms": 163655,
-      "name": "Danseproblem",
-      "url": "https://open.spotify.com/track/4MyPCOodOr2arMPmDxHqBX"
     }
   ],
   "unique_name": "ung, dum & lovende",

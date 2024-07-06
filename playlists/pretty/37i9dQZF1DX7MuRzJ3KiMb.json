@@ -1,6 +1,6 @@
 {
   "description": "el amor es <3",
-  "num_followers": 91136,
+  "num_followers": 91171,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,18 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Desconocernos",
-        "url": "https://open.spotify.com/album/2sjbd7CdcKMOFQuLZwAz9K"
+        "name": "Tengo Algo Que Decirte",
+        "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
       },
       "artists": [
         {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
-        },
-        {
-          "name": "Mar\u00eda Centeno",
-          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
         }
       ],
-      "duration_ms": 177826,
-      "name": "Desconocernos",
-      "url": "https://open.spotify.com/track/4S4Q9yocHzKUI2Ws4Ir4lC"
+      "duration_ms": 206546,
+      "name": "Tengo Algo Que Decirte",
+      "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -879,18 +875,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Tengo Algo Que Decirte",
-        "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
+        "name": "Desconocernos",
+        "url": "https://open.spotify.com/album/2sjbd7CdcKMOFQuLZwAz9K"
       },
       "artists": [
         {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        },
+        {
+          "name": "Mar\u00eda Centeno",
+          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
         }
       ],
-      "duration_ms": 206546,
-      "name": "Tengo Algo Que Decirte",
-      "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"
+      "duration_ms": 177826,
+      "name": "Desconocernos",
+      "url": "https://open.spotify.com/track/4S4Q9yocHzKUI2Ws4Ir4lC"
     },
     {
       "added_at": "2024-06-28 06:00:00",

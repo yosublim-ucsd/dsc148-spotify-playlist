@@ -1926,7 +1926,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 155792,
       "name": "AYO (feat. Barney Bones)",
       "url": "https://open.spotify.com/track/0cvaZCETV0MHGNHLixgxgE"
@@ -2262,7 +2262,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 221760,
       "name": "Banks",
       "url": "https://open.spotify.com/track/3ye6QIIvOq5doDr0HRgWUC"
@@ -3698,7 +3698,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 252021,
       "name": "Box Chevy 8",
       "url": "https://open.spotify.com/track/0g5LQ3XQqQYxJiQzXSIRNh"
@@ -4204,7 +4204,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 177875,
       "name": "BYMYSIDE",
       "url": "https://open.spotify.com/track/4chcjrwWpdHsToYAM1xVmG"
@@ -4251,6 +4251,28 @@
     },
     {
       "album": {
+        "name": "Came Out A Beast",
+        "url": "https://open.spotify.com/album/4oZgxRFlrMERvMT7L7x8CK"
+      },
+      "artists": [
+        {
+          "name": "Flau'jae",
+          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192251,
+      "name": "Came Out A Beast",
+      "url": "https://open.spotify.com/track/3kG55S6xshp9TqgdSx2ebL"
+    },
+    {
+      "album": {
         "name": "Best Of Both Worlds",
         "url": "https://open.spotify.com/album/5IQjn7uiZgXKitwi0NBzti"
       },
@@ -4266,7 +4288,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 192251,
       "name": "Came Out A Beast",
       "url": "https://open.spotify.com/track/6o4yrCbHJAl0vpH1zi6PFZ"
@@ -5916,7 +5938,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 158746,
       "name": "DEAD PRESIDENTS",
       "url": "https://open.spotify.com/track/0VG1AXy5amvetqcoutX1ES"
@@ -6600,6 +6622,24 @@
       "duration_ms": 114264,
       "name": "Dim the lights",
       "url": "https://open.spotify.com/track/3me3bUUEDkJNKRM8WaRl2A"
+    },
+    {
+      "album": {
+        "name": "Triptyque: \u00c9clats cosmiques",
+        "url": "https://open.spotify.com/album/1CS3DKRnFi1DdYptPZbM61"
+      },
+      "artists": [
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136285,
+      "name": "Dingue",
+      "url": "https://open.spotify.com/track/7nAGowSZK6pZmvOqjP8svp"
     },
     {
       "album": {
@@ -9083,6 +9123,24 @@
     },
     {
       "album": {
+        "name": "Feelin' Country (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/5aLutN8p5McM5jLqfPXM38"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164767,
+      "name": "Feelin' Country (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6Zz5S1Qz5QIS1XX33vJMxv"
+    },
+    {
+      "album": {
         "name": "Living In A Haze",
         "url": "https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn"
       },
@@ -10976,7 +11034,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 285000,
       "name": "Gjenta Etter Meg",
       "url": "https://open.spotify.com/track/4zg8lwBAXOvct7x1qG9ANZ"
@@ -11086,6 +11144,32 @@
       "duration_ms": 130822,
       "name": "Go",
       "url": "https://open.spotify.com/track/4nsyIu8RL55Rh6YnFPo0uQ"
+    },
+    {
+      "album": {
+        "name": "Damn Daniel",
+        "url": "https://open.spotify.com/album/4hKelZgetW69oeejVsJh6C"
+      },
+      "artists": [
+        {
+          "name": "DanielBadeaTV",
+          "url": "https://open.spotify.com/artist/7oY5aVgPka3wkrI9dKAqoy"
+        },
+        {
+          "name": "DollaGreedy Chalo",
+          "url": "https://open.spotify.com/artist/1ExQI2kBGajsva1btPGuVg"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "Go Harder",
+      "url": "https://open.spotify.com/track/3TpnGDnwpnlOk7iIkAUPXR"
     },
     {
       "album": {
@@ -12626,10 +12710,32 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 150746,
       "name": "HOT UPTOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd"
+    },
+    {
+      "album": {
+        "name": "C,XOXO",
+        "url": "https://open.spotify.com/album/4yvsyIKcqYFmUbD5gzb20W"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150746,
+      "name": "HOT UPTOWN (feat. Drake)",
+      "url": "https://open.spotify.com/track/7roN0Nu1FdBk9abw7qIbSG"
     },
     {
       "album": {
@@ -12742,6 +12848,24 @@
       "duration_ms": 100666,
       "name": "hue_man nature",
       "url": "https://open.spotify.com/track/2cVIKCgIfYOYyyXfQEstZN"
+    },
+    {
+      "album": {
+        "name": "HUMBLE ME",
+        "url": "https://open.spotify.com/album/6K0i2TgBy7x4agrBXIrnrF"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176521,
+      "name": "HUMBLE ME",
+      "url": "https://open.spotify.com/track/0cKykVvNFfHVyPzLdQI6xT"
     },
     {
       "album": {
@@ -16385,6 +16509,24 @@
     },
     {
       "album": {
+        "name": "Lithonia",
+        "url": "https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179320,
+      "name": "Lithonia",
+      "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
+    },
+    {
+      "album": {
         "name": "Little Bit Yours",
         "url": "https://open.spotify.com/album/1AAnGhmJLEL4usZgEyIS97"
       },
@@ -19197,6 +19339,28 @@
     },
     {
       "album": {
+        "name": "Match My Freak EP",
+        "url": "https://open.spotify.com/album/2xyUg14ugS5nOqSJSoEjr1"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182643,
+      "name": "Nasty - Match My Chic Remix",
+      "url": "https://open.spotify.com/track/5Z1bS1NU57tcnhqNAXVM6D"
+    },
+    {
+      "album": {
         "name": "Neighbors",
         "url": "https://open.spotify.com/album/5mU4UlDKgQr6vfg9ONiDfK"
       },
@@ -20090,7 +20254,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 186611,
       "name": "Okay",
       "url": "https://open.spotify.com/track/0oohdNzQIMjaFUk4130Lyh"
@@ -20424,6 +20588,36 @@
       "duration_ms": 148062,
       "name": "One For - Slowed",
       "url": "https://open.spotify.com/track/7k5xO3Dmut1wsuQwCTVIF9"
+    },
+    {
+      "album": {
+        "name": "Rekindle Retreat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2aws0QI5JmaOxzKpR9fNtn"
+      },
+      "artists": [
+        {
+          "name": "Marcus Wallace",
+          "url": "https://open.spotify.com/artist/71jMyPI5BOfUb12IeHty1q"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "CHaze",
+          "url": "https://open.spotify.com/artist/74DeQzyl1FoR9rYL2pmzWp"
+        },
+        {
+          "name": "Tony Tig",
+          "url": "https://open.spotify.com/artist/7unn2XYng72MittSllWuLs"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273667,
+      "name": "One For The Money",
+      "url": "https://open.spotify.com/track/7mNerd0pzwTNjTHLqnztMa"
     },
     {
       "album": {
@@ -23302,7 +23496,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 294133,
-      "name": "Retours dans les abysses",
+      "name": "Retour dans les abysses",
       "url": "https://open.spotify.com/track/2mPlM83Qd04ImIUNx9A6sB"
     },
     {
@@ -26530,7 +26724,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 340360,
       "name": "Stravaganza: 2. Dreams & Drones",
       "url": "https://open.spotify.com/track/2hVkfl9L8QkvyU90dGuGfa"
@@ -26806,7 +27000,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 227477,
       "name": "Super Villains",
       "url": "https://open.spotify.com/track/6iMfUuHZN1RybfUGuncTeL"
@@ -29367,6 +29561,32 @@
     },
     {
       "album": {
+        "name": "Tobey (feat. Big Sean and BabyTron)",
+        "url": "https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284892,
+      "name": "Tobey (feat. Big Sean and BabyTron)",
+      "url": "https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW"
+    },
+    {
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
       },
@@ -29434,6 +29654,36 @@
       "duration_ms": 242670,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2imQHlhnuTG3TvgxLEKcGR"
+    },
+    {
+      "album": {
+        "name": "VAN VAN",
+        "url": "https://open.spotify.com/album/69axdMJsEQFWeBpj0evce6"
+      },
+      "artists": [
+        {
+          "name": "VanVan",
+          "url": "https://open.spotify.com/artist/3WxOjk5szKnKRX6uGSTJnl"
+        },
+        {
+          "name": "Da Brat",
+          "url": "https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "MC Lyte",
+          "url": "https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236199,
+      "name": "TOO BOLD",
+      "url": "https://open.spotify.com/track/0AVEM4TT3dcpmzOd9SSwgy"
     },
     {
       "album": {
@@ -31908,7 +32158,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 206321,
       "name": "White Claw (with Shania Twain)",
       "url": "https://open.spotify.com/track/33sCcwIzi4zfPPfbQZay2n"
@@ -33204,6 +33454,36 @@
       "duration_ms": 182267,
       "name": "YUPP! (feat. Remy Ma)",
       "url": "https://open.spotify.com/track/0VTl8AlNH1TTaZ5k7vsTvU"
+    },
+    {
+      "album": {
+        "name": "ZENLESS",
+        "url": "https://open.spotify.com/album/5ItApQpFnG9fDaZpUgbYzu"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        },
+        {
+          "name": "S\u0101n-Z",
+          "url": "https://open.spotify.com/artist/4Ep9NXSZDTJzz6BIv24p5x"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144374,
+      "name": "ZENLESS",
+      "url": "https://open.spotify.com/track/2GW2qcpzaRrErv4Nd8NSCH"
     },
     {
       "album": {

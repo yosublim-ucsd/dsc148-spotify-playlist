@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Kasabian (pictured), Jessie Ware & Romy, beabadoobee and more!",
-  "num_followers": 854257,
+  "num_followers": 854358,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZocpcAAAAABQWFH9+TTG7PzytqpYSu7j",
+  "snapshot_id": "Zoe1ZAAAAACOiqDY0IErTp4G9R27/A5B",
   "tracks": [
     {
       "added_at": "2024-07-04 23:00:00",
@@ -72,7 +72,7 @@
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 184424,
+      "duration_ms": 184552,
       "name": "Soh-Soh",
       "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
     },
@@ -179,6 +179,30 @@
       "duration_ms": 144331,
       "name": "Fortune Green",
       "url": "https://open.spotify.com/track/41arbLAzIm7uV8T0dCZNio"
+    },
+    {
+      "added_at": "2024-07-05 08:57:08",
+      "album": {
+        "name": "Tobey (feat. Big Sean and BabyTron)",
+        "url": "https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "duration_ms": 284892,
+      "name": "Tobey (feat. Big Sean and BabyTron)",
+      "url": "https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW"
     },
     {
       "added_at": "2024-07-04 23:00:00",

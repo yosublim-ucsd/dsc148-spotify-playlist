@@ -4,7 +4,7 @@
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: OneRepublic
 
-928 songs - 2 day 1 hr 11 min
+929 songs - 2 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,6 +545,7 @@
 | [Nacht](https://open.spotify.com/track/0uXTjtDTiNXSl7QVhuS0pA) | [Kleine Sanders](https://open.spotify.com/artist/2WtM4aWFZdNw3uRqDv9Y2z), [Madoc](https://open.spotify.com/artist/2UdUeokyq30EpptlVr2Q9x), [Woebn](https://open.spotify.com/artist/3yfMqqxSYQjufPDxqyLiNX) | [Nacht](https://open.spotify.com/album/2LH3DePIPZRUnKh4YkEXOj) | 3:08 | 2024-06-13 | 2024-06-21 |
 | [Nachtbede \- Uit Liefde Voor Muziek](https://open.spotify.com/track/33Jb8wzZfnCO2kA06FSO5x) | [Tourist LeMC](https://open.spotify.com/artist/6mbdN4ACD50R8vBKGCfzsr) | [Nachtbede \(Uit Liefde Voor Muziek\)](https://open.spotify.com/album/5yTol1bAEwNhWWtOVk1jyu) | 2:54 | 2024-05-02 | 2024-05-10 |
 | [Naked And Alive](https://open.spotify.com/track/5ivyL3WEFCo0IfivYC0FOF) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Naked And Alive](https://open.spotify.com/album/6mPCKnNWmqzIhuLAwuCfQe) | 3:27 | 2024-05-31 | 2024-06-07 |
+| [NAN](https://open.spotify.com/track/0CbXAQ9r0pvnQC9WAbZij4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [NAN](https://open.spotify.com/album/1wkQpHtCqwnHzWJ9aNHANu) | 1:55 | 2024-07-04 |  |
 | [Nanana](https://open.spotify.com/track/3VwXoUuiLVStCpCWPShTTm) | [Kleine Sanders](https://open.spotify.com/artist/2WtM4aWFZdNw3uRqDv9Y2z), [Madoc](https://open.spotify.com/artist/2UdUeokyq30EpptlVr2Q9x), [Woebn](https://open.spotify.com/artist/3yfMqqxSYQjufPDxqyLiNX) | [Prettig Gestoord](https://open.spotify.com/album/64Y3Nr2xwgEHj87SdG4g9v) | 3:09 | 2024-06-27 | 2024-07-05 |
 | [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-05-17 | 2024-05-24 |
 | [Nattigheid](https://open.spotify.com/track/4qN82AjbLTTavfrwm7JXwE) | [Fixkes](https://open.spotify.com/artist/45EDyNLJAvgshFEFXKssfl) | [Nattigheid](https://open.spotify.com/album/4rjeCX9XuHE59GmwvcekXp) | 2:46 | 2024-04-26 | 2024-05-03 |

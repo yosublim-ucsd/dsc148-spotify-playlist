@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "A Tear in Space (Airlock)",
+        "url": "https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203989,
+      "name": "A Tear in Space (Airlock)",
+      "url": "https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm"
+    },
+    {
+      "album": {
         "name": "Xenos",
         "url": "https://open.spotify.com/album/1hCLthnc6Q0zrfJxknU93h"
       },
@@ -96,7 +114,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 196040,
       "name": "Aeroplane",
       "url": "https://open.spotify.com/track/254t0ZC71gtdAGTinIGTwV"
@@ -121,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz"
+      },
+      "artists": [
+        {
+          "name": "chokecherry",
+          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs"
+    },
+    {
+      "album": {
         "name": "Ain't Scared",
         "url": "https://open.spotify.com/album/2YTCtKjAHW0Vefyv3KmGIw"
       },
@@ -132,7 +168,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 260333,
       "name": "Ain't Scared",
       "url": "https://open.spotify.com/track/5HzEg0V4L0GKCke6xOBNwO"
@@ -348,7 +384,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 179400,
       "name": "April",
       "url": "https://open.spotify.com/track/2tOgEHKrbZ2KekBQGIcFZZ"
@@ -366,7 +402,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 179400,
       "name": "April",
       "url": "https://open.spotify.com/track/4fQBttr6GZZua9I1NqjxPq"
@@ -496,6 +532,24 @@
       "duration_ms": 174539,
       "name": "Back In My Head Again",
       "url": "https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0"
+    },
+    {
+      "album": {
+        "name": "Bad Luck",
+        "url": "https://open.spotify.com/album/1nX5ipB1JDiptJyxwt4gTO"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202387,
+      "name": "Bad Luck",
+      "url": "https://open.spotify.com/track/1Ln6nNE0NKKCEmxSkBNGsT"
     },
     {
       "album": {
@@ -701,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Birthday Baby (The Girl with No Smile)",
+        "url": "https://open.spotify.com/album/3qbFUJ1rBSjabLFf4UsnM1"
+      },
+      "artists": [
+        {
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230355,
+      "name": "Birthday Baby (The Girl with No Smile)",
+      "url": "https://open.spotify.com/track/1qrFUCI7ozaw5FTmxItnJF"
+    },
+    {
+      "album": {
         "name": "Black Summer",
         "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
       },
@@ -820,7 +892,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 189886,
       "name": "Blows",
       "url": "https://open.spotify.com/track/25AByE7r0IzMqEHqZY1gZ8"
@@ -860,7 +932,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217026,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/5TG4PLHEIZPiUlK4osfFcm"
@@ -918,7 +990,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-06",
+      "date_removed": null,
       "duration_ms": 183693,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/16DgQG7hAb6S7Bb783rRro"
@@ -1084,7 +1156,7 @@
       ],
       "date_added": "2020-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 170600,
       "name": "Candy Eyes",
       "url": "https://open.spotify.com/track/3wsFy2qbDtWRuAqzfu86hd"
@@ -1657,6 +1729,28 @@
     },
     {
       "album": {
+        "name": "Death Grip",
+        "url": "https://open.spotify.com/album/1J71Jvi9ZrCg1prlKhtMOI"
+      },
+      "artists": [
+        {
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+        },
+        {
+          "name": "Something Corporate",
+          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191292,
+      "name": "Death Grip",
+      "url": "https://open.spotify.com/track/6uU6HSA2QLqNy6OIyaCbkb"
+    },
+    {
+      "album": {
         "name": "Death of Me",
         "url": "https://open.spotify.com/album/2UQJTykxd6XNynpRkWZtMP"
       },
@@ -2107,6 +2201,24 @@
     },
     {
       "album": {
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256066,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
+    },
+    {
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/56n7qDmaew4z2HQ602Vx5M"
       },
@@ -2140,6 +2252,24 @@
       "duration_ms": 233958,
       "name": "Filth",
       "url": "https://open.spotify.com/track/6ynqLEZvcA4Wqv8B23IyYN"
+    },
+    {
+      "album": {
+        "name": "How It Ends",
+        "url": "https://open.spotify.com/album/1moZ22n6w8zWMkWHdHyjSE"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187506,
+      "name": "Flake",
+      "url": "https://open.spotify.com/track/0VWV373XFV4xpX2s6bQS9n"
     },
     {
       "album": {
@@ -2957,6 +3087,24 @@
     },
     {
       "album": {
+        "name": "High In Low Places",
+        "url": "https://open.spotify.com/album/3LGeTs25E1Emefp9Johfq9"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190828,
+      "name": "High In Low Places",
+      "url": "https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq"
+    },
+    {
+      "album": {
         "name": "Hold / She Was",
         "url": "https://open.spotify.com/album/5Ar7kiYQjX1l1VEXqKjsCF"
       },
@@ -3012,6 +3160,24 @@
       "duration_ms": 218760,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V"
+    },
+    {
+      "album": {
+        "name": "Lady Lou",
+        "url": "https://open.spotify.com/album/1Yh3TJP49ypjIuQVy5Kcmi"
+      },
+      "artists": [
+        {
+          "name": "HAFFWAY",
+          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277177,
+      "name": "Home for the Weekend",
+      "url": "https://open.spotify.com/track/1YB4xS05wUpuCaJs8IFDjA"
     },
     {
       "album": {
@@ -3622,7 +3788,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 198789,
       "name": "Killer Queen (What I Need)",
       "url": "https://open.spotify.com/track/02RJ5dskUzptI7vFRMKw3J"
@@ -3806,7 +3972,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 233088,
       "name": "Let Us Die",
       "url": "https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ"
@@ -3868,6 +4034,24 @@
       "duration_ms": 259188,
       "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
+    },
+    {
+      "album": {
+        "name": "Lithonia",
+        "url": "https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179320,
+      "name": "Lithonia",
+      "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
     },
     {
       "album": {
@@ -4060,13 +4244,13 @@
       },
       "artists": [
         {
-          "name": "joe p",
+          "name": "Joe P",
           "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
         }
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 263786,
       "name": "Middle Class Dream",
       "url": "https://open.spotify.com/track/6eUuwMYJv8p68UGT5u4FZS"
@@ -4174,7 +4358,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 198755,
       "name": "Mr. 29",
       "url": "https://open.spotify.com/track/168fmRRPvlRujqdnO6LgZl"
@@ -4304,6 +4488,24 @@
       "duration_ms": 158239,
       "name": "New Age Crisis",
       "url": "https://open.spotify.com/track/1jbBmjncsqWO0oa81kGrCO"
+    },
+    {
+      "album": {
+        "name": "New Propeller",
+        "url": "https://open.spotify.com/album/725xhkAOsCFsKG9c39QtlF"
+      },
+      "artists": [
+        {
+          "name": "Nada Surf",
+          "url": "https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317893,
+      "name": "New Propeller",
+      "url": "https://open.spotify.com/track/7jL7NYXj9Ix92PlSno4Qsz"
     },
     {
       "album": {
@@ -4743,6 +4945,24 @@
     },
     {
       "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219964,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
+    },
+    {
+      "album": {
         "name": "Perspective",
         "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
       },
@@ -4974,6 +5194,24 @@
       "duration_ms": 202653,
       "name": "Purple",
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+    },
+    {
+      "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195760,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
     },
     {
       "album": {
@@ -5302,7 +5540,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 201666,
       "name": "Sleepwalking, Pt. I (Acoustic)",
       "url": "https://open.spotify.com/track/2Y5v72rZR7ym6LRbh5NilJ"
@@ -5716,7 +5954,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 289324,
       "name": "Suburban Trees",
       "url": "https://open.spotify.com/track/1gzXd86MIR8NSLGvvl6OXG"
@@ -6166,7 +6404,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 210943,
       "name": "The Youth",
       "url": "https://open.spotify.com/track/34VxehtpB6VaZ7s0rHOOXb"
@@ -6890,7 +7128,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 177679,
       "name": "Your Life Your Time - Acoustic",
       "url": "https://open.spotify.com/track/33whXaknBDUx53evCaViv1"

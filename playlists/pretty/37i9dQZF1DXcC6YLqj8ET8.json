@@ -1,6 +1,6 @@
 {
   "description": "Electronic Trap House with Arab spices. Cover: DJ KABOO.",
-  "num_followers": 207183,
+  "num_followers": 207209,
   "original_name": "Arabic Trap",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
+        "name": "Dulce",
+        "url": "https://open.spotify.com/album/01f58ABTNjb0quUNprou4v"
+      },
+      "artists": [
+        {
+          "name": "FG",
+          "url": "https://open.spotify.com/artist/7dGG5t1lq8eRel7cRvLj0F"
+        }
+      ],
+      "duration_ms": 193959,
+      "name": "Dulce",
+      "url": "https://open.spotify.com/track/6pROMUI7CBvoe6zhP85OjV"
+    },
+    {
+      "added_at": "2023-02-17 13:36:32",
+      "album": {
         "name": "Kobra (feat. Pouvoir Magique)",
         "url": "https://open.spotify.com/album/3TOeBRsAVOjxnP2bGU5aWx"
       },
@@ -167,22 +183,6 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
-        "name": "Oriental",
-        "url": "https://open.spotify.com/album/3L45kcBwrsdrjQDiNdHEqk"
-      },
-      "artists": [
-        {
-          "name": "OSAK",
-          "url": "https://open.spotify.com/artist/7E52EFOelXp541PpFcbtrf"
-        }
-      ],
-      "duration_ms": 268551,
-      "name": "Oriental",
-      "url": "https://open.spotify.com/track/1C3PeqYtCFVFxUBdFZoxeT"
-    },
-    {
-      "added_at": "2023-02-17 13:36:32",
-      "album": {
         "name": "Arab Trap: Made in Egypt",
         "url": "https://open.spotify.com/album/2ZYdkTjXsKXajkPiwUTgQ7"
       },
@@ -199,6 +199,22 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
+        "name": "Oriental",
+        "url": "https://open.spotify.com/album/3L45kcBwrsdrjQDiNdHEqk"
+      },
+      "artists": [
+        {
+          "name": "OSAK",
+          "url": "https://open.spotify.com/artist/7E52EFOelXp541PpFcbtrf"
+        }
+      ],
+      "duration_ms": 268551,
+      "name": "Oriental",
+      "url": "https://open.spotify.com/track/1C3PeqYtCFVFxUBdFZoxeT"
+    },
+    {
+      "added_at": "2023-02-17 13:36:32",
+      "album": {
         "name": "Manama",
         "url": "https://open.spotify.com/album/585HAjkmk1LL2ceEdzOCQm"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 173187,
       "name": "Manama",
       "url": "https://open.spotify.com/track/2IiNgBjUpVl06PPgjhTP2x"
-    },
-    {
-      "added_at": "2023-02-17 13:36:32",
-      "album": {
-        "name": "Dulce",
-        "url": "https://open.spotify.com/album/01f58ABTNjb0quUNprou4v"
-      },
-      "artists": [
-        {
-          "name": "FG",
-          "url": "https://open.spotify.com/artist/7dGG5t1lq8eRel7cRvLj0F"
-        }
-      ],
-      "duration_ms": 193959,
-      "name": "Dulce",
-      "url": "https://open.spotify.com/track/6pROMUI7CBvoe6zhP85OjV"
     },
     {
       "added_at": "2023-02-17 13:36:32",

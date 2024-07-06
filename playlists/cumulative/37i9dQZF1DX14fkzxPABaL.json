@@ -2251,6 +2251,24 @@
     },
     {
       "album": {
+        "name": "Mi buen coraz\u00f3n",
+        "url": "https://open.spotify.com/album/10QRkHKOmAEeOyYm9AH1Ub"
+      },
+      "artists": [
+        {
+          "name": "Denisse Malebr\u00e1n",
+          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Mi buen coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0el1KkRH1ltn8gEHSkGpPn"
+    },
+    {
+      "album": {
         "name": "Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5e8zaDNGYEs72yRCuPrr4w"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,571 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,593 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 45 | [My Way](https://open.spotify.com/track/3CW9KBOZUPEcEpjGYE1xW5) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [My Way](https://open.spotify.com/album/30XLtfdfPyuv79WA8Tqrep) | 3:15 |
 | 46 | [Swallow It](https://open.spotify.com/track/7gnMMIlH6scodeu3kHINvs) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Swallow It](https://open.spotify.com/album/5H5rbvZh68gtoN0dgTV76M) | 3:31 |
 | 47 | [This Feeling](https://open.spotify.com/track/2H0eRy9vmts59596rouqUy) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Ricardo Moreno](https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt) | [This Feeling](https://open.spotify.com/album/6cZWKvXdA4z02iC42gBWns) | 3:08 |
-| 48 | [Spellbound](https://open.spotify.com/track/5rDs2OzHnP6V6JuqEf5aDx) | [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO) | [Spellbound](https://open.spotify.com/album/3VVzubmO7pwygwJpniAgEf) | 3:26 |
-| 49 | [Dynamite](https://open.spotify.com/track/7ecePzsLSoELyuQ3ZyKqMU) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Dynamite](https://open.spotify.com/album/5F7aiiYykkbEHH4RvKBfp2) | 3:22 |
+| 48 | [Dynamite](https://open.spotify.com/track/7ecePzsLSoELyuQ3ZyKqMU) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Dynamite](https://open.spotify.com/album/5F7aiiYykkbEHH4RvKBfp2) | 3:22 |
+| 49 | [Spellbound](https://open.spotify.com/track/5rDs2OzHnP6V6JuqEf5aDx) | [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO) | [Spellbound](https://open.spotify.com/album/3VVzubmO7pwygwJpniAgEf) | 3:26 |
 | 50 | [Bounce To This \- Official Bounce Anthem 2024](https://open.spotify.com/track/67sXGYP0pSj9CM8cb3BFeX) | [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Bounce To This \(Official Bounce Anthem 2024\)](https://open.spotify.com/album/0JXxPzx1VLj9K59oWSW5AR) | 3:16 |
 | 51 | [Adrenaline Kicks](https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA) | [Jur Terreur](https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u) | [Adrenaline Kicks](https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN) | 2:40 |
 | 52 | [Ignition](https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Ignition](https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U) | 3:57 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 58 | [I Need You](https://open.spotify.com/track/24MO8oHZsd7carleJjgDCC) | [Alpha Lion](https://open.spotify.com/artist/02vWERJ8STBgtOeBEBIMno), [Desolate One](https://open.spotify.com/artist/0iQCbp8TQLE4p6YBu8rBzm) | [I Need You](https://open.spotify.com/album/78r6uveupLLOKxFECcEtQC) | 2:40 |
 | 59 | [Wake Up Now](https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk) | [Lem\-X](https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n) | [Wake Up Now](https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7) | 3:22 |
 | 60 | [Higher](https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Higher](https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM) | 3:54 |
-| 61 | [Furious Anger](https://open.spotify.com/track/0BPSWhSC2puc2FdabboU6z) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Furious Anger](https://open.spotify.com/album/7J9ZqsUWwH6sxRqAUeeEvR) | 3:25 |
-| 62 | [Gremlins](https://open.spotify.com/track/1yYT2mfhVOT5ZlqM7ScAzi) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq) | [Gremlins](https://open.spotify.com/album/1asJFJ8TnBW94hCs9ArRkZ) | 3:37 |
-| 63 | [Hide Away](https://open.spotify.com/track/1X0BVI7ISwMYualJLRpEob) | [Invaderz](https://open.spotify.com/artist/1eKL2T8Hy0bjjjLWlxGQrD), [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN) | [Hide Away](https://open.spotify.com/album/32hVSE1AzVACORPkW4CWBs) | 3:32 |
+| 61 | [Gremlins](https://open.spotify.com/track/1yYT2mfhVOT5ZlqM7ScAzi) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq) | [Gremlins](https://open.spotify.com/album/1asJFJ8TnBW94hCs9ArRkZ) | 3:37 |
+| 62 | [Hide Away](https://open.spotify.com/track/1X0BVI7ISwMYualJLRpEob) | [Invaderz](https://open.spotify.com/artist/1eKL2T8Hy0bjjjLWlxGQrD), [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN) | [Hide Away](https://open.spotify.com/album/32hVSE1AzVACORPkW4CWBs) | 3:32 |
+| 63 | [Furious Anger](https://open.spotify.com/track/0BPSWhSC2puc2FdabboU6z) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Furious Anger](https://open.spotify.com/album/7J9ZqsUWwH6sxRqAUeeEvR) | 3:25 |
 | 64 | [Mutilate](https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE) | [Chapter V](https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab), [Amduscias](https://open.spotify.com/artist/2s2uHpjXIyzhPIXkm8iP2y) | [Mutilate](https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b) | 3:50 |
 | 65 | [In the year 2222](https://open.spotify.com/track/276doaEmdigNFjR6JeLs4b) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [In the year 2222](https://open.spotify.com/album/4BUq0MYMPCVVRVTNYv0lVl) | 3:37 |
 | 66 | [SIUU!](https://open.spotify.com/track/2OWCrAs7CVXECZax6Qhuuc) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Dopameme](https://open.spotify.com/album/7mrKtXt92sGdK4IIkBJNO0) | 3:37 |

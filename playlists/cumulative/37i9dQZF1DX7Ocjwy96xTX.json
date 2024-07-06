@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240527,
+      "name": "9 Circles",
+      "url": "https://open.spotify.com/track/0yo0S4H7hSS79S2C2vptGV"
+    },
+    {
+      "album": {
         "name": "A Language Disappears",
         "url": "https://open.spotify.com/album/6RuHa5z7lsZnAFuHrCdweD"
       },
@@ -785,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Canti",
+        "url": "https://open.spotify.com/album/6xfxbGUlBQwGR1gly4ZKhB"
+      },
+      "artists": [
+        {
+          "name": "Soft Blue Shimmer",
+          "url": "https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201595,
+      "name": "Canti",
+      "url": "https://open.spotify.com/track/12i53anRnxnhjV6XKwGEnQ"
+    },
+    {
+      "album": {
         "name": "Daydream Twins",
         "url": "https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO"
       },
@@ -1110,6 +1146,24 @@
       "duration_ms": 171428,
       "name": "Dancing In The Summer",
       "url": "https://open.spotify.com/track/3HCeXL9rSE7CWAb6GV5a9W"
+    },
+    {
+      "album": {
+        "name": "Darksign",
+        "url": "https://open.spotify.com/album/63gEDuQFgeSPMvcNkeXtGd"
+      },
+      "artists": [
+        {
+          "name": "Hayien",
+          "url": "https://open.spotify.com/artist/757lp5rkqNBZKPLeQ5NugB"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262222,
+      "name": "Darksign",
+      "url": "https://open.spotify.com/track/6P19etqkPYzjO9VwGbb18a"
     },
     {
       "album": {
@@ -1697,6 +1751,28 @@
     },
     {
       "album": {
+        "name": "Psykos",
+        "url": "https://open.spotify.com/album/3Prj5ncKli5arNTmILU6aV"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180083,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/3w6dkcgoHdRrSUlkH0w8T7"
+    },
+    {
+      "album": {
         "name": "Giving My All 2 U",
         "url": "https://open.spotify.com/album/7IjOfbF7Lb1L6i7wlHbE2Y"
       },
@@ -1810,6 +1886,24 @@
       "duration_ms": 207120,
       "name": "Goth",
       "url": "https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6"
+    },
+    {
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/3HseNECeqM5CL7GEdg2YM3"
+      },
+      "artists": [
+        {
+          "name": "L'Rain",
+          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239853,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/4jRj9rmvSkshJq2QaGLg8A"
     },
     {
       "album": {
@@ -2870,6 +2964,24 @@
       "duration_ms": 121617,
       "name": "lungs",
       "url": "https://open.spotify.com/track/7hQmgR3ssV8Racno82rkB1"
+    },
+    {
+      "album": {
+        "name": "lust",
+        "url": "https://open.spotify.com/album/0Lm2tTEWpEYyZKhS5tXzku"
+      },
+      "artists": [
+        {
+          "name": "Glixen",
+          "url": "https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228741,
+      "name": "lust",
+      "url": "https://open.spotify.com/track/3QRwycTXCQrrDaFvQn235B"
     },
     {
       "album": {
@@ -4024,7 +4136,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 253281,
       "name": "rUN tHE FaDE",
       "url": "https://open.spotify.com/track/2ZrlFzDK4qmEGoUS7GqLzP"
@@ -5114,6 +5226,24 @@
       "duration_ms": 203033,
       "name": "WISH ME LUCK",
       "url": "https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi"
+    },
+    {
+      "album": {
+        "name": "Streetwise",
+        "url": "https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238344,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/0jQgW55Vkcjv00JVgJYcgW"
     },
     {
       "album": {

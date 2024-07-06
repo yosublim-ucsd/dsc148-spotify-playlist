@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "Devoted to Violet",
+        "url": "https://open.spotify.com/album/1OVPJvZwcoKctLbBNfvJ4a"
+      },
+      "artists": [
+        {
+          "name": "Julia Groves",
+          "url": "https://open.spotify.com/artist/2kobiVcFE5QbsUbkxkrFq3"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135820,
+      "name": "Devoted to Violet",
+      "url": "https://open.spotify.com/track/7Kn2u3i65LuebgyWqYuJoe"
+    },
+    {
+      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/3MrnLV813ZQmMh0mUQNjXW"
       },
@@ -871,6 +889,46 @@
     },
     {
       "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/2rikYSxPPa4vqpvq7yCx7O"
+      },
+      "artists": [
+        {
+          "name": "Wishes and Dreams",
+          "url": "https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h"
+        },
+        {
+          "name": "Birds Of The West",
+          "url": "https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/3JSLI0U4O42f0dT5SpgF9A"
+    },
+    {
+      "album": {
+        "name": "Highland Sun",
+        "url": "https://open.spotify.com/album/1f6wprppVelLkRBfCFlr1S"
+      },
+      "artists": [
+        {
+          "name": "humble hugo",
+          "url": "https://open.spotify.com/artist/6DxiHTkbvxfCK63EZ7M32W"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121481,
+      "name": "Highland Sun",
+      "url": "https://open.spotify.com/track/4AtVKZl198zqSTWRyanskK"
+    },
+    {
+      "album": {
         "name": "Hometown",
         "url": "https://open.spotify.com/album/1iAMtj1McRmlNRRQkJCkjc"
       },
@@ -944,6 +1002,24 @@
       "duration_ms": 118437,
       "name": "If you love me",
       "url": "https://open.spotify.com/track/1cjPd0li1F1s3FAGAa8Odl"
+    },
+    {
+      "album": {
+        "name": "Imaginary Garden",
+        "url": "https://open.spotify.com/album/3GjSmY7FrwRnbFbMkpFl11"
+      },
+      "artists": [
+        {
+          "name": "Vincent Rayn",
+          "url": "https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146894,
+      "name": "Imaginary Garden",
+      "url": "https://open.spotify.com/track/1xVTHr8uCCuRLB2yzhktoh"
     },
     {
       "album": {

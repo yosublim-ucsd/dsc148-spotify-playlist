@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 12973,
+  "num_followers": 12980,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Treat Em Right (Boards Of Canada Remix)",
-        "url": "https://open.spotify.com/album/3biP5TpmbP1eQBjnMVo2cm"
-      },
-      "artists": [
-        {
-          "name": "Nevermen",
-          "url": "https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq"
-        },
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 269987,
-      "name": "Treat Em Right - Boards of Canada Remix Instrumental",
-      "url": "https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
         "name": "Illusion Of Time",
         "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 262373,
       "name": "Illusion Of Time",
       "url": "https://open.spotify.com/track/3Bt8RJQH4KGo1OjyXATkC9"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Treat Em Right (Boards Of Canada Remix)",
+        "url": "https://open.spotify.com/album/3biP5TpmbP1eQBjnMVo2cm"
+      },
+      "artists": [
+        {
+          "name": "Nevermen",
+          "url": "https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq"
+        },
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 269987,
+      "name": "Treat Em Right - Boards of Canada Remix Instrumental",
+      "url": "https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1013,22 +1013,6 @@
       "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "The Space Lady's Greatest Hits",
-        "url": "https://open.spotify.com/album/5jHqrml3maWBldVlyzFjKh"
-      },
-      "artists": [
-        {
-          "name": "The Space Lady",
-          "url": "https://open.spotify.com/artist/6KUKRy1D49ZxwfSFPcV7WF"
-        }
-      ],
-      "duration_ms": 275372,
-      "name": "I Had Too Much to Dream Last Night",
-      "url": "https://open.spotify.com/track/0z8i5oCBPR9MLFrvxO2JpI"
-    },
-    {
       "added_at": "2023-03-03 04:01:23",
       "album": {
         "name": "Dragonfly",
@@ -1043,6 +1027,22 @@
       "duration_ms": 197142,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "The Space Lady's Greatest Hits",
+        "url": "https://open.spotify.com/album/5jHqrml3maWBldVlyzFjKh"
+      },
+      "artists": [
+        {
+          "name": "The Space Lady",
+          "url": "https://open.spotify.com/artist/6KUKRy1D49ZxwfSFPcV7WF"
+        }
+      ],
+      "duration_ms": 275372,
+      "name": "I Had Too Much to Dream Last Night",
+      "url": "https://open.spotify.com/track/0z8i5oCBPR9MLFrvxO2JpI"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1229,22 +1229,6 @@
       "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Drunken Clouds",
-        "url": "https://open.spotify.com/album/7zq2EKERswJ5whwvT9frrR"
-      },
-      "artists": [
-        {
-          "name": "rRoxymore",
-          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
-        }
-      ],
-      "duration_ms": 253701,
-      "name": "Drunken Clouds",
-      "url": "https://open.spotify.com/track/0JF3Ju6TpQjwnnH10B9kpu"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Dopamine",
@@ -1259,6 +1243,22 @@
       "duration_ms": 349575,
       "name": "Warm Electronics Box",
       "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Drunken Clouds",
+        "url": "https://open.spotify.com/album/7zq2EKERswJ5whwvT9frrR"
+      },
+      "artists": [
+        {
+          "name": "rRoxymore",
+          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
+        }
+      ],
+      "duration_ms": 253701,
+      "name": "Drunken Clouds",
+      "url": "https://open.spotify.com/track/0JF3Ju6TpQjwnnH10B9kpu"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1445,22 +1445,6 @@
       "url": "https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Onism",
-        "url": "https://open.spotify.com/album/6lw2Nl3pITEMMuhVFMWKj0"
-      },
-      "artists": [
-        {
-          "name": "Photay",
-          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
-        }
-      ],
-      "duration_ms": 276318,
-      "name": "Off-Piste",
-      "url": "https://open.spotify.com/track/3Du0PkY1azjluiVSb9U5Ru"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Puzzlewood",
@@ -1475,6 +1459,22 @@
       "duration_ms": 150289,
       "name": "Years and Elements",
       "url": "https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Onism",
+        "url": "https://open.spotify.com/album/6lw2Nl3pITEMMuhVFMWKj0"
+      },
+      "artists": [
+        {
+          "name": "Photay",
+          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
+        }
+      ],
+      "duration_ms": 276318,
+      "name": "Off-Piste",
+      "url": "https://open.spotify.com/track/3Du0PkY1azjluiVSb9U5Ru"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1725,22 +1725,6 @@
       "url": "https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Puzzlewood",
-        "url": "https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq"
-      },
-      "artists": [
-        {
-          "name": "Plone",
-          "url": "https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41"
-        }
-      ],
-      "duration_ms": 208983,
-      "name": "Red Kite",
-      "url": "https://open.spotify.com/track/3I7n1t3f3mSJWeHAxILqSP"
-    },
-    {
       "added_at": "2023-07-28 21:27:55",
       "album": {
         "name": "Zero to Sixty",
@@ -1759,6 +1743,22 @@
       "duration_ms": 288000,
       "name": "Zero to Sixty",
       "url": "https://open.spotify.com/track/0WSMGjQGf1WJvAPpbx1Efn"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Puzzlewood",
+        "url": "https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq"
+      },
+      "artists": [
+        {
+          "name": "Plone",
+          "url": "https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41"
+        }
+      ],
+      "duration_ms": 208983,
+      "name": "Red Kite",
+      "url": "https://open.spotify.com/track/3I7n1t3f3mSJWeHAxILqSP"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -2211,6 +2211,22 @@
     {
       "added_at": "2023-02-17 01:53:11",
       "album": {
+        "name": "People On Sunday",
+        "url": "https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 225207,
+      "name": "People On Sunday",
+      "url": "https://open.spotify.com/track/3qbJR3E3iKWssRw2nzhz2w"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
         "name": "Bizarster",
         "url": "https://open.spotify.com/album/7J9TDj6wxFbYGorUJoHm17"
       },
@@ -2241,22 +2257,6 @@
       "url": "https://open.spotify.com/track/51otAp4ocieYr1ogeg4Why"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Amaat One",
-        "url": "https://open.spotify.com/album/4UVVXIPLpuFYFxOr8hEPjJ"
-      },
-      "artists": [
-        {
-          "name": "Manatee Commune",
-          "url": "https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Amaat One",
-      "url": "https://open.spotify.com/track/60nFcBJzUY17ZuDTDtD8qi"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Music Has The Right To Children",
@@ -2273,20 +2273,20 @@
       "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
+      "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "High Maintenance: Original Music (Season 1)",
-        "url": "https://open.spotify.com/album/04lzRvq2MISPHUiMjoxjag"
+        "name": "Amaat One",
+        "url": "https://open.spotify.com/album/4UVVXIPLpuFYFxOr8hEPjJ"
       },
       "artists": [
         {
-          "name": "Chris Bear",
-          "url": "https://open.spotify.com/artist/0do9UA8mgexUfGJiVTSmiv"
+          "name": "Manatee Commune",
+          "url": "https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec"
         }
       ],
-      "duration_ms": 135051,
-      "name": "Goodnight Felicia",
-      "url": "https://open.spotify.com/track/7quMtERAYLteumHQSrBkMr"
+      "duration_ms": 336000,
+      "name": "Amaat One",
+      "url": "https://open.spotify.com/track/60nFcBJzUY17ZuDTDtD8qi"
     },
     {
       "added_at": "2023-03-03 04:31:38",
@@ -2307,6 +2307,22 @@
       "duration_ms": 153162,
       "name": "jazmin",
       "url": "https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "High Maintenance: Original Music (Season 1)",
+        "url": "https://open.spotify.com/album/04lzRvq2MISPHUiMjoxjag"
+      },
+      "artists": [
+        {
+          "name": "Chris Bear",
+          "url": "https://open.spotify.com/artist/0do9UA8mgexUfGJiVTSmiv"
+        }
+      ],
+      "duration_ms": 135051,
+      "name": "Goodnight Felicia",
+      "url": "https://open.spotify.com/track/7quMtERAYLteumHQSrBkMr"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2411,22 +2427,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Poly Pointillism",
-        "url": "https://open.spotify.com/album/66zkrppo8OPQq9kMhxhzp0"
-      },
-      "artists": [
-        {
-          "name": "Chants",
-          "url": "https://open.spotify.com/artist/1bboGoBc0rr3oXFdFlAjSC"
-        }
-      ],
-      "duration_ms": 130416,
-      "name": "Shimmer and Glimmer",
-      "url": "https://open.spotify.com/track/4ij6tfkN13bt1jfWGWXg9S"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Hi Scores",
         "url": "https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii"
       },
@@ -2439,6 +2439,22 @@
       "duration_ms": 423933,
       "name": "Everything You Do Is A Balloon",
       "url": "https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Poly Pointillism",
+        "url": "https://open.spotify.com/album/66zkrppo8OPQq9kMhxhzp0"
+      },
+      "artists": [
+        {
+          "name": "Chants",
+          "url": "https://open.spotify.com/artist/1bboGoBc0rr3oXFdFlAjSC"
+        }
+      ],
+      "duration_ms": 130416,
+      "name": "Shimmer and Glimmer",
+      "url": "https://open.spotify.com/track/4ij6tfkN13bt1jfWGWXg9S"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -2483,26 +2499,6 @@
       "duration_ms": 465058,
       "name": "Indica - Pye Corner Audio Remix - Glok Re-Edit",
       "url": "https://open.spotify.com/track/5c2thP8s3mjh30FpVGrISV"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Feast / Beast",
-        "url": "https://open.spotify.com/album/7Iw2Io8NipDlMCDdS8UsKC"
-      },
-      "artists": [
-        {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        },
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 267226,
-      "name": "Ted - Bibio Remix",
-      "url": "https://open.spotify.com/track/1EQuf1dflSSt3HfUNIOzDM"
     }
   ],
   "unique_name": "Quirktronica",

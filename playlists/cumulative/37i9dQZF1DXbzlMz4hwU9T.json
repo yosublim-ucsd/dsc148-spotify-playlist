@@ -1213,6 +1213,28 @@
     },
     {
       "album": {
+        "name": "La Luz (ALT TAKE)",
+        "url": "https://open.spotify.com/album/2ESAr0oJJgRDv8tVw5m7vP"
+      },
+      "artists": [
+        {
+          "name": "Bachata Mexican Combo",
+          "url": "https://open.spotify.com/artist/0CdBLcZNj9LFyBc0aJOqIb"
+        },
+        {
+          "name": "alessa de lara",
+          "url": "https://open.spotify.com/artist/1v6ADBBD7QnwAiEmp4KOnc"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172363,
+      "name": "La Luz - ALT TAKE",
+      "url": "https://open.spotify.com/track/2qtP19U5Z3QjQZvSvA6Odr"
+    },
+    {
+      "album": {
         "name": "El Viaje de Copperpot",
         "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
       },
@@ -1740,7 +1762,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 224506,
       "name": "Mushaboom",
       "url": "https://open.spotify.com/track/662u318704xl9XpTDRpcPy"

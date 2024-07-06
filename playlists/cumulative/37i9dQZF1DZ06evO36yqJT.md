@@ -2,9 +2,9 @@
 
 ### [This Is Shirley Caesar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO36yqJT)
 
-> This is Shirley Caesar\. The essential tracks, all in one playlist.
+> This Is Shirley Caesar\. Los temas esenciales, todos en una lista.
 
-80 songs - 5 hr 56 min
+81 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Blessed Assurance](https://open.spotify.com/track/0NCWc2gtH3rNkq18osObXe) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 3:50 | 2023-05-12 |  |
 | [Caught Up \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/1CvwoAEl17W0b1f0ZgEbIm) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Rebirth of Kirk Franklin \(Live at Lakewood Church, Houston, TX \- June 16, 2000\)](https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d) | 5:57 | 2023-05-12 | 2023-08-04 |
 | [Caught Up \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/6IUzYQEPdvnsKqEn3o64iJ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 5:57 | 2023-08-03 |  |
+| [Come Ye, Disconsolate](https://open.spotify.com/track/7iZ285acdKmeSg01yL8s3L) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 5:15 | 2024-07-06 |  |
 | [Don't Be Afraid](https://open.spotify.com/track/5qcAI2okoSPebBpM6f0hdz) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 3:34 | 2023-05-12 | 2024-03-12 |
 | [Don't Drive Your Mama Away](https://open.spotify.com/track/17Re3BFUZRroR1ItmvBSvi) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 10:23 | 2023-05-12 |  |
 | [Don't Give Up](https://open.spotify.com/track/0ZvtrA7yHqvOrkVcuAUXlV) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 6:21 | 2023-05-12 |  |
@@ -76,7 +77,7 @@
 | [The Lord Will Make a Way](https://open.spotify.com/track/6v4owQIaYIlZ4MVAdpcsC2) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:40 | 2023-05-12 |  |
 | [The Stone](https://open.spotify.com/track/2byQq9uYgH0otzE0NXICBu) | [Ann Nesby](https://open.spotify.com/artist/6hIILipyNOmswy0IdWHx7b), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Fighting Temptations \(Music From The Motion Picture\)](https://open.spotify.com/album/3w4b3oRDOCFaig5HfSLRmq) | 1:53 | 2024-05-03 | 2024-05-27 |
 | [The World Didn't Give It to Me](https://open.spotify.com/track/1I341GhDAnOmIa3NalRlff) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 5:06 | 2023-05-12 |  |
-| [There Is Power in the Blood](https://open.spotify.com/track/6DNpzYsh4UzvHlnUwMa0Ks) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 2:58 | 2023-09-25 |  |
+| [There Is Power in the Blood](https://open.spotify.com/track/6DNpzYsh4UzvHlnUwMa0Ks) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 2:58 | 2023-09-25 | 2024-07-06 |
 | [This Is My Prayer](https://open.spotify.com/track/4MCGM8Symn7QTUi51R7OAY) | [Charles Jenkins & Fellowship Chicago](https://open.spotify.com/artist/2jqLJvBYhbA8qNe37kbSaU), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Praise Party, Volume 1](https://open.spotify.com/album/1oBDxwqNSZM3G2PLdQvSyC) | 4:23 | 2024-04-19 |  |
 | [Tithes and Offerings \- Live](https://open.spotify.com/track/2s2SNAPBxC4TnxTVt60xIC) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar Live ...He Will Come](https://open.spotify.com/album/5a9DMGSMyl2Kq4GISbQQgp) | 5:24 | 2023-06-02 | 2023-06-16 |
 | [U Name It Holiday Anthem](https://open.spotify.com/track/2uNoV93jYDQgOmYP8VS92M) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [DJ Battlecat](https://open.spotify.com/artist/0oywmZ7vl6A3bQPTsN66Rm), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [U Name It Holiday Anthem](https://open.spotify.com/album/3DffNWg9Aoc3ACYxCbpf7X) | 2:51 | 2023-12-20 | 2024-01-18 |

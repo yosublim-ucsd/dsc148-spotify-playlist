@@ -1,6 +1,6 @@
 {
   "description": "\u0427\u0430\u0441 \u043f\u0435\u0440\u0435\u043f\u043e\u0447\u0438\u0442\u0438 \ud83c\udf3b\ud83c\udfd5\ufe0f\ud83e\uddc1",
-  "num_followers": 29848,
+  "num_followers": 29865,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,18 @@
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
-        "name": "\u041f\u0440\u043e \u0442\u0435\u0431\u0435 \u043c\u0435\u043d\u0456",
-        "url": "https://open.spotify.com/album/6zMuDbuE3HS7RAtqAM1amr"
+        "name": "\u0412\u0440\u043e\u0434\u043b\u0438\u0432\u0430",
+        "url": "https://open.spotify.com/album/30CrSBR6y6TGFq9WHBHuHI"
       },
       "artists": [
         {
           "name": "YAKTAK",
           "url": "https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog"
-        },
-        {
-          "name": "Golubenko",
-          "url": "https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ"
         }
       ],
-      "duration_ms": 182068,
-      "name": "\u041f\u0440\u043e \u0442\u0435\u0431\u0435 \u043c\u0435\u043d\u0456",
-      "url": "https://open.spotify.com/track/4nVWcr7boHgs9cpobSXosG"
+      "duration_ms": 150638,
+      "name": "\u0412\u0440\u043e\u0434\u043b\u0438\u0432\u0430",
+      "url": "https://open.spotify.com/track/714gZqwzaj9MrjyDGPWq1c"
     },
     {
       "added_at": "2024-06-14 15:04:17",
@@ -455,18 +451,22 @@
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
-        "name": "\u0412\u0440\u043e\u0434\u043b\u0438\u0432\u0430",
-        "url": "https://open.spotify.com/album/30CrSBR6y6TGFq9WHBHuHI"
+        "name": "\u041f\u0440\u043e \u0442\u0435\u0431\u0435 \u043c\u0435\u043d\u0456",
+        "url": "https://open.spotify.com/album/6zMuDbuE3HS7RAtqAM1amr"
       },
       "artists": [
         {
           "name": "YAKTAK",
           "url": "https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog"
+        },
+        {
+          "name": "Golubenko",
+          "url": "https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ"
         }
       ],
-      "duration_ms": 150638,
-      "name": "\u0412\u0440\u043e\u0434\u043b\u0438\u0432\u0430",
-      "url": "https://open.spotify.com/track/714gZqwzaj9MrjyDGPWq1c"
+      "duration_ms": 182068,
+      "name": "\u041f\u0440\u043e \u0442\u0435\u0431\u0435 \u043c\u0435\u043d\u0456",
+      "url": "https://open.spotify.com/track/4nVWcr7boHgs9cpobSXosG"
     },
     {
       "added_at": "2024-06-14 15:04:17",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
-        "name": "\u0412\u043e\u043b\u044f (full version)",
-        "url": "https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf"
+        "name": "\u0421\u043e\u043b\u043e\u0432'\u0457",
+        "url": "https://open.spotify.com/album/1RltwzS3oGphyquYRIReC4"
       },
       "artists": [
         {
-          "name": "KRUT\u042c",
-          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
+          "name": "Oxana Trach",
+          "url": "https://open.spotify.com/artist/1VqqAM2W8jfZSq8hKU7Kww"
         }
       ],
-      "duration_ms": 164636,
-      "name": "\u0412\u043e\u043b\u044f - full version",
-      "url": "https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb"
+      "duration_ms": 143953,
+      "name": "\u0421\u043e\u043b\u043e\u0432'\u0457",
+      "url": "https://open.spotify.com/track/2LFs6apdfs1cIkrVscZpca"
     },
     {
       "added_at": "2024-06-14 15:04:17",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
-        "name": "\u0421\u043e\u043b\u043e\u0432'\u0457",
-        "url": "https://open.spotify.com/album/1RltwzS3oGphyquYRIReC4"
+        "name": "\u0412\u043e\u043b\u044f (full version)",
+        "url": "https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf"
       },
       "artists": [
         {
-          "name": "Oxana Trach",
-          "url": "https://open.spotify.com/artist/1VqqAM2W8jfZSq8hKU7Kww"
+          "name": "KRUT\u042c",
+          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
         }
       ],
-      "duration_ms": 143953,
-      "name": "\u0421\u043e\u043b\u043e\u0432'\u0457",
-      "url": "https://open.spotify.com/track/2LFs6apdfs1cIkrVscZpca"
+      "duration_ms": 164636,
+      "name": "\u0412\u043e\u043b\u044f - full version",
+      "url": "https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb"
     },
     {
       "added_at": "2024-06-14 15:04:17",
@@ -867,18 +867,18 @@
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
-        "name": "\u041c\u0430\u044f\u043a",
-        "url": "https://open.spotify.com/album/4hJSdd1BpnHRMYidMuewBH"
+        "name": "\u041d\u043e\u0436\u0456",
+        "url": "https://open.spotify.com/album/0v2WlcePcHwyL9uC5Wu2c9"
       },
       "artists": [
         {
-          "name": "LAUD",
-          "url": "https://open.spotify.com/artist/5SFA8vO07EK8SGJVdr9mX6"
+          "name": "DEMCHUK",
+          "url": "https://open.spotify.com/artist/3TRGNgtC8KdP5XOWrwzpxO"
         }
       ],
-      "duration_ms": 178000,
-      "name": "\u041c\u0430\u044f\u043a",
-      "url": "https://open.spotify.com/track/380s9IBgyXYHCvlJLxLGd7"
+      "duration_ms": 165000,
+      "name": "\u041d\u043e\u0436\u0456",
+      "url": "https://open.spotify.com/track/7sJaNUYg8EsY8WmJb6JRLQ"
     },
     {
       "added_at": "2024-06-14 15:04:17",
@@ -899,18 +899,18 @@
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
-        "name": "\u041d\u043e\u0436\u0456",
-        "url": "https://open.spotify.com/album/0v2WlcePcHwyL9uC5Wu2c9"
+        "name": "\u041c\u0430\u044f\u043a",
+        "url": "https://open.spotify.com/album/4hJSdd1BpnHRMYidMuewBH"
       },
       "artists": [
         {
-          "name": "DEMCHUK",
-          "url": "https://open.spotify.com/artist/3TRGNgtC8KdP5XOWrwzpxO"
+          "name": "LAUD",
+          "url": "https://open.spotify.com/artist/5SFA8vO07EK8SGJVdr9mX6"
         }
       ],
-      "duration_ms": 165000,
-      "name": "\u041d\u043e\u0436\u0456",
-      "url": "https://open.spotify.com/track/7sJaNUYg8EsY8WmJb6JRLQ"
+      "duration_ms": 178000,
+      "name": "\u041c\u0430\u044f\u043a",
+      "url": "https://open.spotify.com/track/380s9IBgyXYHCvlJLxLGd7"
     },
     {
       "added_at": "2024-06-14 15:04:17",

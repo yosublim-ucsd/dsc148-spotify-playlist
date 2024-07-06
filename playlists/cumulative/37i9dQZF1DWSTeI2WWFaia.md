@@ -2,7 +2,7 @@
 
 ### [Spilled Ink](https://open.spotify.com/playlist/37i9dQZF1DWSTeI2WWFaia)
 
-> Lyrical, lo\-fi, and lowlife raps\. Cover: Rapsody
+> Lyrical, lo\-fi, and lowlife raps\. Cover: Boldy James
 
 660 songs - 1 day 11 hr 25 min
 
@@ -99,7 +99,7 @@
 | [Bruuuh \(with Denzel Curry\) \- Remix](https://open.spotify.com/track/5LghBGmNUUwI2BvX2boIdK) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Bruuuh \(with Denzel Curry\) \[Remix\]](https://open.spotify.com/album/2VBF1VUAfb250CHkaReyAz) | 3:26 | 2021-09-03 | 2022-10-01 |
 | [BUCKET](https://open.spotify.com/track/4BvKJxXLY9pJPMvh14ixhw) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [HERBERT](https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO) | 3:05 | 2022-12-16 | 2023-03-05 |
 | [Buckle Up Freestyle](https://open.spotify.com/track/65qEh62xjgsKVyWH5SbUUG) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:01 | 2023-05-12 | 2023-08-08 |
-| [Buddy A Fool](https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Don't Forget To Breathe](https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0) | 2:34 | 2024-03-29 | 2024-06-22 |
+| [Buddy A Fool](https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Don't Forget To Breathe](https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0) | 2:34 | 2024-03-29 |  |
 | [Buried Alive](https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Buried Alive](https://open.spotify.com/album/7weKMGw4crGVeeKQJ6lQ94) | 2:02 | 2024-05-03 |  |
 | [Burning Bush](https://open.spotify.com/track/3yDZ1IIFMsNbbe1NIUn53q) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP), [Kenny Mason](https://open.spotify.com/artist/5NFQr1KZQS9V6SDSrmU0q3) | [Burning Bush](https://open.spotify.com/album/5YKN83sKhEwwVxCt8UX9kB) | 3:31 | 2021-09-03 | 2022-03-18 |
 | [Burning Desire](https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Burning Desire](https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9) | 1:48 | 2023-10-13 | 2024-04-29 |
@@ -267,7 +267,7 @@
 | [Hood Blues \(feat\. Westside Gunn, Benny The Butcher & Conway The Machine\)](https://open.spotify.com/track/2gFD8UPaAcuNfz7Lrwd0Bp) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Hood Blues](https://open.spotify.com/album/6B7qtytx2HbSpqRWXbgxmR) | 4:36 | 2021-09-03 | 2022-05-16 |
 | [HOT WIND BLOWS \(feat\. Lil Wayne\)](https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:35 | 2021-09-03 | 2022-02-26 |
 | [Houston BBQ \(feat\. Bun B\)](https://open.spotify.com/track/1BOdSKk6qnTUMY3AV0hayh) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Termanology](https://open.spotify.com/artist/7oF48iRjggIDjtfRcmmMvl), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Start Finish Repeat](https://open.spotify.com/album/0jFuO3558SHKGCMOiGyU8n) | 3:06 | 2023-10-13 | 2023-11-16 |
-| [How Do You Do It?](https://open.spotify.com/track/383MR4HFkkD7JE1P208kCT) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Movie](https://open.spotify.com/album/2C1iMGVsLhuj6odPjCn0kI) | 2:37 | 2024-06-21 |  |
+| [How Do You Do It?](https://open.spotify.com/track/383MR4HFkkD7JE1P208kCT) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Movie](https://open.spotify.com/album/2C1iMGVsLhuj6odPjCn0kI) | 2:37 | 2024-06-21 | 2024-07-06 |
 | [How You Live It \(feat\. Joey Bada$$\)](https://open.spotify.com/track/6dW64vFw23XYoPihztXZuv) | [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [How You Live It \(feat\. Joey Bada$$\)](https://open.spotify.com/album/1DnwUfn1lj7Zas2vNNrhsT) | 3:00 | 2021-09-03 | 2022-07-29 |
 | [hue\_man nature](https://open.spotify.com/track/2cVIKCgIfYOYyyXfQEstZN) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [hue\_man nature](https://open.spotify.com/album/7kVjOwhgEPAapTI57E7y1v) | 1:40 | 2023-06-02 | 2023-11-04 |
 | [Hunnid \(feat\. Joyce Wrice\)](https://open.spotify.com/track/4O4VqQ5dt0uMVoXo60R2WN) | [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Hunnid \(feat\. Joyce Wrice\)](https://open.spotify.com/album/0e7zg0oVPwhGiRpjZ3dRzH) | 3:14 | 2022-03-18 | 2022-04-21 |

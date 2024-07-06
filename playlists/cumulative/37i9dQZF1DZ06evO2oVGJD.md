@@ -2,7 +2,7 @@
 
 ### [This Is Banda Pequeños Musical](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2oVGJD)
 
-> This is Banda Pequeños Musical\. The essential tracks, all in one playlist.
+> This is Banda Pequeños Musical\. Todos os maiores hits em uma só playlist.
 
 86 songs - 4 hr 34 min
 

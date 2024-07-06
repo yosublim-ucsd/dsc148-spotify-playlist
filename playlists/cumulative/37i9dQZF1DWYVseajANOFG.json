@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 198713,
       "name": "Cuna de Oro",
       "url": "https://open.spotify.com/track/3NcVKaoq4vsoGUGiR5Nq2y"
@@ -2514,7 +2514,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 140979,
       "name": "HUMO Y PARTY",
       "url": "https://open.spotify.com/track/00FZJvOpaA9n2OxY1ssB0w"
@@ -2842,6 +2842,32 @@
       "duration_ms": 175694,
       "name": "Judas",
       "url": "https://open.spotify.com/track/6AgaV6iDCGiAi652RC30Dc"
+    },
+    {
+      "album": {
+        "name": "Judas",
+        "url": "https://open.spotify.com/album/5NQa9IvvcR1Z7i21TD40me"
+      },
+      "artists": [
+        {
+          "name": "EL BEWI",
+          "url": "https://open.spotify.com/artist/0TscbxeMzPiEDhB0NlmNuL"
+        },
+        {
+          "name": "DJ Crime Music",
+          "url": "https://open.spotify.com/artist/1rj5wyNO85buMx9gkG0z61"
+        },
+        {
+          "name": "Pty Audio",
+          "url": "https://open.spotify.com/artist/6DkH4Ke70caDBhPODwoL7p"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160835,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/7JSVNEUSl7eRPNFxUle5hM"
     },
     {
       "album": {
@@ -4600,7 +4626,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 173877,
       "name": "Ojitos - Remix",
       "url": "https://open.spotify.com/track/3kR3FCupyTbyJX9VjIJ3m4"
@@ -5911,6 +5937,28 @@
     },
     {
       "album": {
+        "name": "Sin Control",
+        "url": "https://open.spotify.com/album/42yS1yxA98DH2VzudGryIv"
+      },
+      "artists": [
+        {
+          "name": "El Tiex",
+          "url": "https://open.spotify.com/artist/6464frNa6A3iV5HovTeKd9"
+        },
+        {
+          "name": "El Zeta",
+          "url": "https://open.spotify.com/artist/24iSgjiesQ2bhUsHsav2uk"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191559,
+      "name": "Sin Control",
+      "url": "https://open.spotify.com/track/7raKGuDlOukzGKlj6rvzOm"
+    },
+    {
+      "album": {
         "name": "SIN CULPA",
         "url": "https://open.spotify.com/album/3XNi6X9s6ZfMBg31sKlhso"
       },
@@ -6162,6 +6210,32 @@
       "duration_ms": 230399,
       "name": "Story",
       "url": "https://open.spotify.com/track/3N1VjV2pcBUmg2Z0mj95S9"
+    },
+    {
+      "album": {
+        "name": "Suelta La 40",
+        "url": "https://open.spotify.com/album/7jltilhQiPW6F7mBRXvGwx"
+      },
+      "artists": [
+        {
+          "name": "El Wes",
+          "url": "https://open.spotify.com/artist/0fjwJ2wiOEcmNt1jEvhfm0"
+        },
+        {
+          "name": "Gary 507",
+          "url": "https://open.spotify.com/artist/5o8R6dyQKFpRII1PyobYuZ"
+        },
+        {
+          "name": "Peregrino Hernandex",
+          "url": "https://open.spotify.com/artist/3LI5SqePcV2PC2mkCOGwiG"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206732,
+      "name": "Suelta La 40",
+      "url": "https://open.spotify.com/track/6GplOB3XJoSTmCSHn3jWAQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Endelig fredag! 🎵
 
-1,149 songs - 2 day 10 hr 34 min
+1,150 songs - 2 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [HOW DARE YOU](https://open.spotify.com/track/4s3yRuJm8kO1Xzi3Yeqa81) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Dear Joe,](https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI) | 3:58 | 2024-06-27 | 2024-07-05 |
 | [How Far Will We Take It?](https://open.spotify.com/track/453CeQGjxlMGaokntLtz5x) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Stampede: Vol\. 1](https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE) | 2:52 | 2024-05-09 | 2024-05-17 |
 | [Howdy](https://open.spotify.com/track/3tacvIn8QzjQLVaINE0ARa) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 3:27 | 2024-05-23 | 2024-06-01 |
+| [Hum hum från Humlegården](https://open.spotify.com/track/4589g5CnsPNehuadfCZLQZ) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Hum hum från Humlegården](https://open.spotify.com/album/0ygctymTMmMbAqzsdrj1Bl) | 3:47 | 2024-07-04 |  |
 | [Hun er min](https://open.spotify.com/track/3WxZbqofeEuApUFY7LCHqw) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Hun er min](https://open.spotify.com/album/55a3eTnwA5lGt9lUO73C85) | 3:22 | 2024-05-23 | 2024-06-01 |
 | [Hurt](https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hurt](https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS) | 2:41 | 2024-07-04 |  |
 | [Hurt Me Like You Do](https://open.spotify.com/track/1yjVWsuNgxGUB5LfNzmIJ7) | [Jacqline](https://open.spotify.com/artist/5ZIzGM3sXUiF8EI6K18XQC) | [Hurt Me Like You Do](https://open.spotify.com/album/4gWqOjkTUhvKKzvuMfRpe8) | 2:40 | 2024-06-27 | 2024-07-05 |

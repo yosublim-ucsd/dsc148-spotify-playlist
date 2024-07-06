@@ -1916,7 +1916,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 161861,
       "name": "DICC (feat. Moore Kismet & UNIIQU3)",
       "url": "https://open.spotify.com/track/1aKM5DQiZDFzhvg25lEWUg"
@@ -3401,6 +3401,28 @@
     },
     {
       "album": {
+        "name": "Monomyth",
+        "url": "https://open.spotify.com/album/3snB2cQcZUkFYS1aawRQm9"
+      },
+      "artists": [
+        {
+          "name": "Saka",
+          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
+        },
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Ghoul",
+      "url": "https://open.spotify.com/track/53ICazVbw0uQNOBnUff09a"
+    },
+    {
+      "album": {
         "name": "GITP",
         "url": "https://open.spotify.com/album/09p0AA8UmQWGViT4MegOjA"
       },
@@ -4414,7 +4436,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 152275,
       "name": "IBTFY",
       "url": "https://open.spotify.com/track/09b31KaJfkzpPGNDsihd4t"
@@ -6884,7 +6906,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 209016,
       "name": "Pour All Night",
       "url": "https://open.spotify.com/track/3SgNqKp4pugZ4k1vuyRcew"
@@ -7632,6 +7654,28 @@
       "duration_ms": 211846,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/1pSVHYdn6KP0ZNqD6hqtV9"
+    },
+    {
+      "album": {
+        "name": "Set The Flow",
+        "url": "https://open.spotify.com/album/6HJDm4GQlJLaYwWzsVJTbl"
+      },
+      "artists": [
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197603,
+      "name": "Set The Flow",
+      "url": "https://open.spotify.com/track/1GkvXqjgnH8iLLcRuhp9m7"
     },
     {
       "album": {
@@ -8814,7 +8858,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 174545,
       "name": "the.RAVE",
       "url": "https://open.spotify.com/track/7b7hNLGE8t3170T8l9mYUh"
@@ -9288,6 +9332,42 @@
       "duration_ms": 217000,
       "name": "Tums",
       "url": "https://open.spotify.com/track/00HG0BYPrRQQ5S7HVhVNSy"
+    },
+    {
+      "album": {
+        "name": "TUNNELVISION",
+        "url": "https://open.spotify.com/album/7FkozWsxLGoq2AGOiJXeTk"
+      },
+      "artists": [
+        {
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152275,
+      "name": "TUNNELVISION",
+      "url": "https://open.spotify.com/track/2eiA7QT6N0tDwgIljqVpjJ"
+    },
+    {
+      "album": {
+        "name": "TURN ME UP",
+        "url": "https://open.spotify.com/album/1UaQOhg1Pa5LUbsKJ8Upib"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "TURN ME UP",
+      "url": "https://open.spotify.com/track/48Rgzrr4Wxfbqq2gzHkM8J"
     },
     {
       "album": {

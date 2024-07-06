@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Breaking from the Fold",
+        "url": "https://open.spotify.com/album/6QCAQYvJvxs6CxKij68p1F"
+      },
+      "artists": [
+        {
+          "name": "Triddana",
+          "url": "https://open.spotify.com/artist/0roc2y8jlLS01zexM1Uumb"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Breaking from the Fold",
+      "url": "https://open.spotify.com/track/6UKKQXlf8CC719Ra5LlCfv"
+    },
+    {
+      "album": {
         "name": "Crystalline",
         "url": "https://open.spotify.com/album/4qhT2L4SCZdvBz51rkdJ6u"
       },
@@ -266,6 +284,24 @@
       "duration_ms": 246706,
       "name": "Dagar eru Taldir - Days Are Numbered",
       "url": "https://open.spotify.com/track/1LEulFdOhyD0t2VPgQydEK"
+    },
+    {
+      "album": {
+        "name": "Der Himmel muss warten",
+        "url": "https://open.spotify.com/album/43Q7gDUQETLoJmJLDa4LhF"
+      },
+      "artists": [
+        {
+          "name": "Saltatio Mortis",
+          "url": "https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143425,
+      "name": "Der Himmel muss warten",
+      "url": "https://open.spotify.com/track/0FRAUkJtl4bn92ySux8EEg"
     },
     {
       "album": {
@@ -1163,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "Midvinter",
+        "url": "https://open.spotify.com/album/6OPbBT3bjSX3Md6lPIznjy"
+      },
+      "artists": [
+        {
+          "name": "Ereb Altor",
+          "url": "https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392983,
+      "name": "Midvinter",
+      "url": "https://open.spotify.com/track/1qlSpiCwjxCsD2VVWpJV1H"
+    },
+    {
+      "album": {
         "name": "Norupo",
         "url": "https://open.spotify.com/album/2dqDsdWvvKA1CDHcD3UwFc"
       },
@@ -1412,6 +1466,24 @@
       "duration_ms": 160400,
       "name": "R\u00fan",
       "url": "https://open.spotify.com/track/4YmSk5JhkXdiG0LbQgjXma"
+    },
+    {
+      "album": {
+        "name": "Tales from the North",
+        "url": "https://open.spotify.com/album/3BG4tlGVST1q4yrHshwHLx"
+      },
+      "artists": [
+        {
+          "name": "Tokt",
+          "url": "https://open.spotify.com/artist/01CEsyk6W2k8Pgw5TrEty0"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212479,
+      "name": "Saga of the North",
+      "url": "https://open.spotify.com/track/5YuyHtVMCHDEcaNGgiTQOL"
     },
     {
       "album": {
@@ -1802,6 +1874,44 @@
       "duration_ms": 226400,
       "name": "Sverker - Era Metallum - Single Edit",
       "url": "https://open.spotify.com/track/0m5hkGREyOS3xm0KfMT5tl"
+    },
+    {
+      "album": {
+        "name": "S\u00c1LA",
+        "url": "https://open.spotify.com/album/2jWTe1EO0Xbg5ylm8T0t53"
+      },
+      "artists": [
+        {
+          "name": "Kati Ran",
+          "url": "https://open.spotify.com/artist/6Ug5CwD7oxSB5WNQH69NUJ"
+        },
+        {
+          "name": "Karl Seglem",
+          "url": "https://open.spotify.com/artist/0byRdidl3crTKAt9Kj4iuS"
+        },
+        {
+          "name": "Gaahls WYRD",
+          "url": "https://open.spotify.com/artist/7h8V7XHdJ3akShW3uFaZyn"
+        },
+        {
+          "name": "Geald\u00fdr",
+          "url": "https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM"
+        },
+        {
+          "name": "Umbra",
+          "url": "https://open.spotify.com/artist/5A8VWvvbZf5S9M7vZJWf3S"
+        },
+        {
+          "name": "Emilie Lorentzen",
+          "url": "https://open.spotify.com/artist/2rDUs552em1yNX7FQEFzyd"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407293,
+      "name": "S\u00c1LA",
+      "url": "https://open.spotify.com/track/3XBG05K4XT1lFiiJkmYhwB"
     },
     {
       "album": {

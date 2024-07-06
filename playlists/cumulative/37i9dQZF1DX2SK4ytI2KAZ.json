@@ -320,7 +320,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 263080,
       "name": "All Comes Crashing",
       "url": "https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA"
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 229773,
       "name": "BRIGHTSIDE",
       "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 184768,
       "name": "Control",
       "url": "https://open.spotify.com/track/6TDl9RlC2udRlAyxDwEm7H"
@@ -2943,6 +2943,24 @@
     },
     {
       "album": {
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256066,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
+    },
+    {
+      "album": {
         "name": "February EP",
         "url": "https://open.spotify.com/album/0VRxAmlJ7brgsTeHuAd6Xk"
       },
@@ -3044,7 +3062,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 167370,
       "name": "Flagstaff",
       "url": "https://open.spotify.com/track/0PXl1N2xmZxbayBQOljH4u"
@@ -3756,7 +3774,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 111653,
       "name": "HEAD",
       "url": "https://open.spotify.com/track/5stVamqETg34UDrpC5Zwhy"
@@ -4308,6 +4326,24 @@
       "duration_ms": 177919,
       "name": "Hush Hush",
       "url": "https://open.spotify.com/track/3ePeWP6f8ccQtF7wayoNrD"
+    },
+    {
+      "album": {
+        "name": "I Got Cracked",
+        "url": "https://open.spotify.com/album/4bubPbLDMUekBjvHIrhgYe"
+      },
+      "artists": [
+        {
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219896,
+      "name": "I Got Cracked",
+      "url": "https://open.spotify.com/track/24Og6NEvKGGJmxNJCJ7Ugm"
     },
     {
       "album": {
@@ -5192,6 +5228,24 @@
       "duration_ms": 188457,
       "name": "Lights Down",
       "url": "https://open.spotify.com/track/1JkOqfiFIafUmq1yrJTlfj"
+    },
+    {
+      "album": {
+        "name": "Little Chaos",
+        "url": "https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174893,
+      "name": "Little Chaos",
+      "url": "https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif"
     },
     {
       "album": {
@@ -9595,6 +9649,24 @@
     },
     {
       "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206700,
+      "name": "This Is Why",
+      "url": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"
+    },
+    {
+      "album": {
         "name": "This Party",
         "url": "https://open.spotify.com/album/7sXYHSchuHIHgBY9mIG1Xn"
       },
@@ -10338,6 +10410,24 @@
       "duration_ms": 226680,
       "name": "What Now",
       "url": "https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh"
+    },
+    {
+      "album": {
+        "name": "WHEN THE MUSIC STOPS",
+        "url": "https://open.spotify.com/album/1HU7wSsEM83drfgiAZP9PL"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172604,
+      "name": "WHAT THE HELL",
+      "url": "https://open.spotify.com/track/3E3s4xXjmt43Bl1SIC3ij7"
     },
     {
       "album": {

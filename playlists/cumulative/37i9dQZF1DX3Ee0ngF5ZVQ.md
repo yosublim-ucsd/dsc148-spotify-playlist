@@ -2,7 +2,7 @@
 
 ### [Texas Country Now](https://open.spotify.com/playlist/37i9dQZF1DX3Ee0ngF5ZVQ)
 
-> New and trending tracks from Texas Country icons and rising stars\. Cover: Kaitlin Butts
+> New and trending tracks from Texas Country icons and rising stars\. Cover: Hudson Westbrook
 
 633 songs - 1 day 13 hr 49 min
 

@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Chandler Leighton
+> Dark, hard hitting pop\. Cover: Ari Hicks
 
-712 songs - 1 day 8 hr 45 min
+714 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [gold star](https://open.spotify.com/track/61BvDWK5JRzPhdn0qWqtvR) | [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [gold star](https://open.spotify.com/album/30AyS7pdsIF8h0pOgzfM0G) | 3:06 | 2022-10-28 | 2022-11-19 |
 | [Golden Age](https://open.spotify.com/track/3hModU6Dy7ym4BO9r7zxFG) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Golden Age](https://open.spotify.com/album/17HxYIWUvrRw9xIpx6AFqM) | 2:56 | 2022-07-15 | 2022-10-22 |
 | [golden retriever boy](https://open.spotify.com/track/20M00steJbkD9bCIUCuHPI) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [golden retriever boy](https://open.spotify.com/album/5yMX1oz6JdR8ApLCB0TwOT) | 3:06 | 2021-10-29 | 2022-02-19 |
-| [Good Boy](https://open.spotify.com/track/0ZuPqWaILv4VJsTii3UdeM) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Good Boy](https://open.spotify.com/album/0jlQOoi6XuQfOi5bBwqOUZ) | 2:26 | 2024-04-12 |  |
+| [Good Boy](https://open.spotify.com/track/0ZuPqWaILv4VJsTii3UdeM) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Good Boy](https://open.spotify.com/album/0jlQOoi6XuQfOi5bBwqOUZ) | 2:26 | 2024-04-12 | 2024-07-06 |
 | [GOOD ENEMY](https://open.spotify.com/track/1dkVl41242u0eGODPvjd0l) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GOOD ENEMY](https://open.spotify.com/album/3A5aAGLhHkQZFJsk4FsvAg) | 2:10 | 2023-03-31 | 2023-08-05 |
 | [GOOD FOR HER](https://open.spotify.com/track/76YyKbh4QI8Sfxm9Id2mBz) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [GOOD FOR HER](https://open.spotify.com/album/4HSsLhmoneSVz1GmqFTFdK) | 2:13 | 2022-02-18 | 2022-06-11 |
 | [GOOD GIRL ERA \(SIDE A\)](https://open.spotify.com/track/5whdFux566Ve7KTpR0Hk73) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES V1](https://open.spotify.com/album/7hF7nGQXoQhkWjz7y1uTPk) | 2:19 | 2023-04-28 | 2023-06-10 |
@@ -320,6 +320,7 @@
 | [i hope you know what you're doing](https://open.spotify.com/track/5PMIK7eIb9doUGKWOuHZjq) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [i hope you know what you're doing](https://open.spotify.com/album/3m4h6292GAxkgXnbRSZjob) | 2:39 | 2022-09-09 | 2022-10-29 |
 | [I Just Came To Dance](https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Just Came To Dance](https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3) | 2:24 | 2022-10-28 | 2023-05-06 |
 | [I Know U Know](https://open.spotify.com/track/2EFNCr1kRsyLmryWA3M8xF) | [PIA MARIA](https://open.spotify.com/artist/76FvAg4V0F4hX5rNFF0MFZ) | [I Know U Know](https://open.spotify.com/album/5TTU4kEpnHYMA8k822kJjk) | 3:01 | 2022-06-03 | 2022-07-16 |
+| [I Like You Best](https://open.spotify.com/track/75TVJYusnr7pk5ooXNLZCP) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [I Like You Best](https://open.spotify.com/album/6dk1A9dHnyENBQyJk3QWJX) | 2:43 | 2024-07-05 |  |
 | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/track/6CpeA8nhcJO9zdRsrJwLE8) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A), [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R) | 3:42 | 2021-10-22 | 2022-03-18 |
 | [i only smoke to feel bad](https://open.spotify.com/track/5gtAq2cTH1MpT2Ek8zv7mt) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [SPILT MILK](https://open.spotify.com/album/7bjMUmI8UUbAMWUIW0GCkk) | 3:00 | 2023-11-10 | 2024-06-08 |
 | [I Really F\*\*ked It Up](https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [I Really F\*\*ked It Up](https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ) | 2:45 | 2022-09-23 | 2023-04-22 |
@@ -341,12 +342,13 @@
 | [In My Head \(ft\. Josh Dun\)](https://open.spotify.com/track/06EkBgJuvf0zIPCeYwx3vP) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Josh Dun](https://open.spotify.com/artist/1DTwvOULHkUfXGwfJybYga) | [In My Head](https://open.spotify.com/album/0IuGpDVzTsxVpgXyc7qhJR) | 3:08 | 2022-03-18 | 2022-04-02 |
 | [indieedgycool](https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [indieedgycool](https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ) | 2:26 | 2022-08-12 | 2022-09-17 |
 | [INFERNO](https://open.spotify.com/track/7aonAWn0J0AJ47ZU9WHCXC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [INFERNO](https://open.spotify.com/album/0o6H7RwYZAE6v15lnENDab) | 2:13 | 2021-09-10 | 2022-04-09 |
+| [Innocent](https://open.spotify.com/track/59C8ZrER11yeFZMLui18YU) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Innocent](https://open.spotify.com/album/4jlyVTzQdrtr9FBsx6xsxC) | 2:35 | 2024-07-05 |  |
 | [insane](https://open.spotify.com/track/3wl7mM4pGdw46wpteRJYQS) | [KINGS](https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3) | [mess & a half](https://open.spotify.com/album/6kXyrVr53ipInyenK6EZeL) | 1:59 | 2024-02-02 | 2024-04-27 |
 | [INTIMACY ISSUES](https://open.spotify.com/track/6dWNhHol6ZB8TAY0urVBwj) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [INTIMACY ISSUES](https://open.spotify.com/album/5SXtS4KZSbhxjbW99aus7A) | 2:02 | 2024-02-16 | 2024-06-15 |
 | [Into My Body](https://open.spotify.com/track/40HSFJpsSRNDkuxA0IaL34) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Into My Body](https://open.spotify.com/album/0fFbuKhFl6pk44s5mETFz6) | 2:24 | 2022-10-28 | 2022-12-16 |
 | [Into My Body](https://open.spotify.com/track/6Idi0H5TS4PwVW91ReBK7z) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:24 | 2022-10-28 | 2023-05-06 |
 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 | 2023-05-26 | 2023-08-19 |
-| [Jennifer's Body](https://open.spotify.com/track/176fR2MtPlctufVYwqoW1j) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Jennifer's Body](https://open.spotify.com/album/1HekaZKhXgi9JpGFODnmHF) | 1:57 | 2024-04-24 |  |
+| [Jennifer's Body](https://open.spotify.com/track/176fR2MtPlctufVYwqoW1j) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Jennifer's Body](https://open.spotify.com/album/1HekaZKhXgi9JpGFODnmHF) | 1:57 | 2024-04-24 | 2024-07-06 |
 | [JET LIKE BENNIE](https://open.spotify.com/track/772rV8Rld38jaLEZSCdFmO) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [JET LIKE BENNIE](https://open.spotify.com/album/7DZkZFkkc6ssSsmGuZgrML) | 1:52 | 2024-01-12 | 2024-04-24 |
 | [JUICE BOX](https://open.spotify.com/track/6oZafL1or65dWK6OwYSM0u) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [JUICE BOX](https://open.spotify.com/album/2XChtb4PHji5kdYRaEHY4n) | 1:54 | 2024-04-24 | 2024-06-29 |
 | [Jump Rope](https://open.spotify.com/track/2HOn21FfcrL8e2QHWc9e96) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Jump Rope](https://open.spotify.com/album/68mSmcOTx03AiQZH6MPzt3) | 3:06 | 2024-06-28 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-1,778 songs - 3 day 19 hr 17 min
+1,779 songs - 3 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1318,7 +1318,7 @@
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-05 | 2022-12-03 |
 | [Ride or Die](https://open.spotify.com/track/5OVD56aqdB0BmEzFXwvito) | [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [Cameleo](https://open.spotify.com/album/7D9aUl816mU5lIFCgHMVdS) | 3:27 | 2023-10-28 | 2023-11-03 |
 | [Rim Tim Tagi Dim](https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ) | [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [Rim Tim Tagi Dim](https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t) | 2:59 | 2024-05-13 | 2024-05-19 |
-| [RING RING](https://open.spotify.com/track/3VjDhZl73eK9VgvRQovsmw) | [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [YARSKI](https://open.spotify.com/artist/1TY6oc7uiXgpqiiJEidPD6) | [RING RING](https://open.spotify.com/album/4qmp6ahoR0Qhb3JN2wtSPc) | 2:36 | 2024-03-16 |  |
+| [RING RING](https://open.spotify.com/track/3VjDhZl73eK9VgvRQovsmw) | [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [YARSKI](https://open.spotify.com/artist/1TY6oc7uiXgpqiiJEidPD6) | [RING RING](https://open.spotify.com/album/4qmp6ahoR0Qhb3JN2wtSPc) | 2:36 | 2024-03-16 | 2024-07-06 |
 | [Rio](https://open.spotify.com/track/61xlsJ8hVB8sbBqNFx1AvZ) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0) | [King Sento](https://open.spotify.com/album/3YRzH7qZylwUdJG4eBPDSh) | 2:21 | 2021-11-06 | 2021-11-17 |
 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 | 2023-04-24 | 2023-04-26 |
 | [RiRi](https://open.spotify.com/track/4pRJeJb1KI755CsrDP8ay5) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [RiRi](https://open.spotify.com/album/3OOvMK5o8BJxryzRtNxYFJ) | 2:31 | 2022-06-17 | 2022-06-26 |
@@ -1562,6 +1562,7 @@
 | [TOPIA TWINS \(feat\. Rob49 & 21 Savage\)](https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:43 | 2023-07-29 | 2023-08-05 |
 | [Tornado](https://open.spotify.com/track/2uBDn9E9bXPPDucVx12dRc) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Wac Toja](https://open.spotify.com/artist/5AmZdY72O0NVE0XxWdMfxv), [BeMelo](https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx) | [Tornado](https://open.spotify.com/album/7n0ayBoDtJAPzmvgeyjctV) | 2:38 | 2022-08-13 | 2022-08-15 |
 | [TOTORO](https://open.spotify.com/track/4oa5GCUVLK0KMXOHhz70tr) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [UZUMAKI FORMA OSTATECZNA](https://open.spotify.com/album/6qcbKRA7omOSjv0PoUVj79) | 2:56 | 2023-07-28 | 2023-08-13 |
+| [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-05 |  |
 | [Toxic](https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Toxic](https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h) | 2:48 | 2021-11-23 | 2021-12-01 |
 | [Toxic Baby](https://open.spotify.com/track/5ImhDDsUhLlM8SlcWASlf4) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [Hubi](https://open.spotify.com/artist/755Qcptgh9gvozO8dXZcHN) | [Toxic Baby](https://open.spotify.com/album/0u8qKpspSORd4jHcehm9d5) | 2:38 | 2022-01-29 | 2022-01-31 |
 | [TOXIC LUV](https://open.spotify.com/track/1JHpOPgFjg8LdK79lYRhug) | [Young Multi](https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [TOXIC](https://open.spotify.com/album/4ffBtV3qGXuUwhudySZdle) | 3:16 | 2021-12-18 | 2021-12-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Kate Bollinger",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Chance Pe\u00f1a",
   "name": "Fresh Folk",
   "tracks": [
     {
@@ -890,7 +890,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 244322,
       "name": "Afraid",
       "url": "https://open.spotify.com/track/6EWVIxPbH2i5sdzYkAvpp6"
@@ -2481,6 +2481,24 @@
     },
     {
       "album": {
+        "name": "Arrow",
+        "url": "https://open.spotify.com/album/38tbGrEsmQbhjbC9hXKiIb"
+      },
+      "artists": [
+        {
+          "name": "Roland Faunte",
+          "url": "https://open.spotify.com/artist/1IMFkgZ2ZpHknO1v2n97CH"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239960,
+      "name": "Arrow",
+      "url": "https://open.spotify.com/track/2TLDx6E35SywKsaz7zrUbb"
+    },
+    {
+      "album": {
         "name": "The Only Thing Worse Than A Woman Who Lies Is A Girl Who\u2019ll Tell Truths",
         "url": "https://open.spotify.com/album/26sB0HxlHsy0oM4LJ6jjNv"
       },
@@ -2611,6 +2629,24 @@
     },
     {
       "album": {
+        "name": "Babe, I'm All Yours",
+        "url": "https://open.spotify.com/album/2HHy6xAYe8T0UD3mzaGo9M"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197040,
+      "name": "Babe, I'm All Yours",
+      "url": "https://open.spotify.com/track/0ObTn3Xn2B28LpFqFrMmLd"
+    },
+    {
+      "album": {
         "name": "Baby Teeth",
         "url": "https://open.spotify.com/album/79qhXBZUFvDZ90kj5svopV"
       },
@@ -2680,7 +2716,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 192701,
       "name": "Back For The Funeral",
       "url": "https://open.spotify.com/track/3YIQtNLONCMhdVHAz4axNK"
@@ -3378,6 +3414,28 @@
       "duration_ms": 362786,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/1uMazr2OwFSC4SHqfkoY7h"
+    },
+    {
+      "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212466,
+      "name": "Better Days (feat. John Mayer)",
+      "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
     },
     {
       "album": {
@@ -6910,7 +6968,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 169939,
       "name": "Conversation Starter",
       "url": "https://open.spotify.com/track/17KBwzyuzwyGbPath94zzX"
@@ -11081,6 +11139,24 @@
     },
     {
       "album": {
+        "name": "Feel It All",
+        "url": "https://open.spotify.com/album/1c0txChD976x1NdD0WU5XO"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209233,
+      "name": "Feel It All",
+      "url": "https://open.spotify.com/track/4eISmOIOx8s1pWtLkpYHxj"
+    },
+    {
+      "album": {
         "name": "Feel Like Going Home",
         "url": "https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S"
       },
@@ -11718,6 +11794,24 @@
       "duration_ms": 350920,
       "name": "Follow the Sound of My Voice",
       "url": "https://open.spotify.com/track/1QXNrX8FDJtjygjZesvEwv"
+    },
+    {
+      "album": {
+        "name": "Beauty In Your Wake",
+        "url": "https://open.spotify.com/album/3NLiwJYdhhF59hWVpPj9IF"
+      },
+      "artists": [
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253373,
+      "name": "Follow You Down",
+      "url": "https://open.spotify.com/track/4QgCo6slLJMe4HtCcswJkU"
     },
     {
       "album": {
@@ -16733,6 +16827,24 @@
     },
     {
       "album": {
+        "name": "I feel, free",
+        "url": "https://open.spotify.com/album/29Gp8bOvQsaQz61RZrw5Sq"
+      },
+      "artists": [
+        {
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163924,
+      "name": "I feel, free",
+      "url": "https://open.spotify.com/track/383sYribMAExuB068eOKyj"
+    },
+    {
+      "album": {
         "name": "I felt a Funeral, in my Brain [feat. Phoebe Bridgers]",
         "url": "https://open.spotify.com/album/2NAQ55IP8e5YH9sasQDuCJ"
       },
@@ -17326,7 +17438,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 261786,
       "name": "I'll Find A Way (To Carry It All)",
       "url": "https://open.spotify.com/track/4WP2lTksH5pxmm8uPqpG3d"
@@ -33030,7 +33142,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 218639,
       "name": "Sweet Talk",
       "url": "https://open.spotify.com/track/3sUl6iXhQLGulbyDNaihDw"
@@ -35143,6 +35255,24 @@
     },
     {
       "album": {
+        "name": "The Loose Screws",
+        "url": "https://open.spotify.com/album/2bz6QQKfmmvdrmwON1bw7J"
+      },
+      "artists": [
+        {
+          "name": "Camille Jansen",
+          "url": "https://open.spotify.com/artist/3fPap8kKuNMRn5PR06x0gN"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220123,
+      "name": "The Right Time",
+      "url": "https://open.spotify.com/track/0vRVde5N9PB9JKBOVFUJEa"
+    },
+    {
+      "album": {
         "name": "The Roads",
         "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
       },
@@ -35558,7 +35688,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 205956,
       "name": "The Witch",
       "url": "https://open.spotify.com/track/1SdFf1MOh8F3bQ1zSxWgw6"
@@ -38268,7 +38398,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 225378,
       "name": "Warning Streets",
       "url": "https://open.spotify.com/track/2uZGgqvTLdAYRVCbQuP9Gj"
@@ -38948,7 +39078,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 126407,
       "name": "What Lovers Do",
       "url": "https://open.spotify.com/track/2RYn22DOInD8RwPE41xEuV"

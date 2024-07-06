@@ -1,12 +1,12 @@
 {
   "description": "This Is Lunay. Los temas esenciales, todos en una lista.",
-  "num_followers": 66910,
+  "num_followers": 66930,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAACpUzvNQxhIB1+7xGtOArgZ",
+  "snapshot_id": "ZoXmAAAAAAC7XYglQFbLMrSK+SBsj7ag",
   "tracks": [
     {
       "added_at": null,
@@ -900,13 +900,17 @@
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         },
         {
-          "name": "Susan Soltero",
-          "url": "https://open.spotify.com/artist/7DdMp8sUGVIXO4dMesY6Mx"
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
         }
       ],
-      "duration_ms": 43008,
-      "name": "INTERLUDE / REPORTE DEL TIEMPO",
-      "url": "https://open.spotify.com/track/3NLDHndVSYmUt57fofO14y"
+      "duration_ms": 212657,
+      "name": "OTRA NO",
+      "url": "https://open.spotify.com/track/3f2K8tmTI3mHzojNYqae4h"
     },
     {
       "added_at": null,
@@ -1000,17 +1004,13 @@
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         },
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+          "name": "Susan Soltero",
+          "url": "https://open.spotify.com/artist/7DdMp8sUGVIXO4dMesY6Mx"
         }
       ],
-      "duration_ms": 212657,
-      "name": "OTRA NO",
-      "url": "https://open.spotify.com/track/3f2K8tmTI3mHzojNYqae4h"
+      "duration_ms": 43008,
+      "name": "INTERLUDE / REPORTE DEL TIEMPO",
+      "url": "https://open.spotify.com/track/3NLDHndVSYmUt57fofO14y"
     },
     {
       "added_at": null,

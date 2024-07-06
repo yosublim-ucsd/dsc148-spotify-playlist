@@ -4,14 +4,14 @@
 
 > El nuevo sonido de la canción sudamericana de la mano de Perotá Chingó.
 
-100 songs - 5 hr 49 min
+101 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abanicos negros](https://open.spotify.com/track/2nZYV4fsJFo9HK8d4uScJf) | [Belén Cuturi](https://open.spotify.com/artist/0IDto1IZOp1qMhBBAhnzVr) | [Abanicos negros](https://open.spotify.com/album/5HooZBR32c9nMCDSMvg6GR) | 2:42 | 2024-06-28 |  |
 | [Abducida \- Remix](https://open.spotify.com/track/3KzUfFElM7qGGC7HP56Yef) | [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [Abducida \(Remix\)](https://open.spotify.com/album/0Cg2PqBsAUtcMFHKph7TvX) | 2:54 | 2024-06-28 |  |
 | [Alabanza](https://open.spotify.com/track/3eYYMWH1rnLqBwLqSMBhCB) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Alabanza](https://open.spotify.com/album/4Sj66PMH6HgszQqlZHSrYH) | 3:24 | 2024-06-28 |  |
-| [Alamedas](https://open.spotify.com/track/67wQoV3kJhahodFdKTu1yu) | [Nando García](https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf) | [Material Particulado en Suspensión](https://open.spotify.com/album/4WQyQ0EHrHRTOpQHJtAdct) | 4:11 | 2024-06-28 |  |
+| [Alamedas](https://open.spotify.com/track/67wQoV3kJhahodFdKTu1yu) | [Nando García](https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf) | [Material Particulado en Suspensión](https://open.spotify.com/album/4WQyQ0EHrHRTOpQHJtAdct) | 4:11 | 2024-06-28 | 2024-07-06 |
 | [Amor Libre](https://open.spotify.com/track/6fFG7bHilanpAAbEu9jF95) | [Rocio Igarzabal](https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ), [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Amor Libre](https://open.spotify.com/album/0FCNWttcDi6rF5pRuwppVx) | 3:05 | 2024-06-28 |  |
 | [Ana María](https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [TÁ](https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03) | 2:20 | 2024-06-28 |  |
 | [Apasionadamente](https://open.spotify.com/track/40R2dPgyTDiToHbjU6Nen0) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y), [Juan Pablo de Mendonça](https://open.spotify.com/artist/3mtXjQYoBmpnmZeCchOLVT) | [Sed de Ternura Vol.1 \(Duo Set\)](https://open.spotify.com/album/4qYPcULqIyFhuyqBRbDHpA) | 3:07 | 2024-06-28 |  |
@@ -89,6 +89,7 @@
 | [Suponte](https://open.spotify.com/track/1SeOc1M9lJzUFwYKnXIRUy) | [Noelia Recalde](https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv) | [Mi Propia Casa](https://open.spotify.com/album/6fk7OdqM6ToImBSso5tCdx) | 2:29 | 2024-06-28 |  |
 | [Tan solo una señal](https://open.spotify.com/track/7vjeDyZ2oYSbOsIx7ogBbv) | [Liuba María Hevia](https://open.spotify.com/artist/1UC32JGoil54GhEOHpzmrB), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY), [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X), [Argentina](https://open.spotify.com/artist/7dZexQj3iCyp7wr690gnf2), [Ivette Cepeda](https://open.spotify.com/artist/1mkwhgPtaFZyrIpV3lWbwV) | [Tan solo una señal](https://open.spotify.com/album/4PTOkZH8IEFd3Jo4nGsSNr) | 3:38 | 2024-06-28 |  |
 | [Tarde o temprano](https://open.spotify.com/track/0hcM9LkquCW5AEZb6cEbwq) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Dj Perez](https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr) | [Tarde o temprano](https://open.spotify.com/album/1q1ZEjeH4JnnweEEnCBitJ) | 3:42 | 2024-06-28 |  |
+| [Te Vi](https://open.spotify.com/track/3ptv1CEMQXKYe5oJqU9QfP) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx), [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Te Vi](https://open.spotify.com/album/5TWzzBAsdeixfrixZlmqnh) | 3:41 | 2024-07-05 |  |
 | [Tequila](https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ), [La Nueva Imperial](https://open.spotify.com/artist/77ACTvw7McpnqutCOJx4o5) | [Tequila](https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV) | 3:22 | 2024-06-28 |  |
 | [Tinta y Tiempo](https://open.spotify.com/track/3sNmeMXgzDw5887ClDLfXH) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Tinta y Tiempo](https://open.spotify.com/album/7drLytofGXezhYswIuCGHu) | 4:09 | 2024-06-28 |  |
 | [Todo lo que puedo darte](https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [LIBRE](https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O) | 3:26 | 2024-06-28 |  |

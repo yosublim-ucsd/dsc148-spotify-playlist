@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 215956,
+  "num_followers": 216092,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -391,26 +391,6 @@
     {
       "added_at": "2024-07-02 23:47:42",
       "album": {
-        "name": "En Vivo, Vol.1",
-        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        }
-      ],
-      "duration_ms": 254339,
-      "name": "La Pareja Ideal - En Vivo",
-      "url": "https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat"
-    },
-    {
-      "added_at": "2024-07-02 23:47:42",
-      "album": {
         "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
         "url": "https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA"
       },
@@ -431,6 +411,22 @@
     {
       "added_at": "2024-07-02 23:47:42",
       "album": {
+        "name": "Tres Botes",
+        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "Inventame - En Vivo",
+      "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
+    },
+    {
+      "added_at": "2024-07-02 23:47:42",
+      "album": {
         "name": "Y Para Siempre ...",
         "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
       },
@@ -447,18 +443,22 @@
     {
       "added_at": "2024-07-02 23:47:42",
       "album": {
-        "name": "Tres Botes",
-        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
+        "name": "En Vivo, Vol.1",
+        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
       },
       "artists": [
         {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
         }
       ],
-      "duration_ms": 195117,
-      "name": "Inventame - En Vivo",
-      "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
+      "duration_ms": 254339,
+      "name": "La Pareja Ideal - En Vivo",
+      "url": "https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat"
     },
     {
       "added_at": "2024-07-02 23:47:42",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-07-02 23:47:42",
       "album": {
-        "name": "La Colecci\u00f3n de Covers, Vol. 1",
-        "url": "https://open.spotify.com/album/5wRMWOVabGtz0ulOwZMusZ"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 228056,
-      "name": "C\u00f3mo Me Haces Falta",
-      "url": "https://open.spotify.com/track/1dtpnvjay5bEhEuui09YWx"
-    },
-    {
-      "added_at": "2024-07-02 23:47:42",
-      "album": {
         "name": "La Mas Completa Coleccion (Disco 1)",
         "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 196933,
       "name": "Mira Nomas",
       "url": "https://open.spotify.com/track/3rgDRWbIntoNsUeui2q0NE"
+    },
+    {
+      "added_at": "2024-07-02 23:47:42",
+      "album": {
+        "name": "La Colecci\u00f3n de Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/5wRMWOVabGtz0ulOwZMusZ"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 228056,
+      "name": "C\u00f3mo Me Haces Falta",
+      "url": "https://open.spotify.com/track/1dtpnvjay5bEhEuui09YWx"
     },
     {
       "added_at": "2024-07-02 23:47:42",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-02 23:47:42",
       "album": {
-        "name": "Por Eso...Gracias",
-        "url": "https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 210733,
-      "name": "Sin \u00c9l",
-      "url": "https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM"
-    },
-    {
-      "added_at": "2024-07-02 23:47:42",
-      "album": {
         "name": "La Mas Completa Coleccion (Disco 1)",
         "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
       },
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2024-07-02 23:47:42",
       "album": {
+        "name": "Por Eso...Gracias",
+        "url": "https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 210733,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM"
+    },
+    {
+      "added_at": "2024-07-02 23:47:42",
+      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-02 23:47:42",
       "album": {
-        "name": "Crossroads: Cruce De Caminos",
-        "url": "https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Nada Es Igual",
-      "url": "https://open.spotify.com/track/3FPyEh683Et820zkVWHBoB"
-    },
-    {
-      "added_at": "2024-07-02 23:47:42",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 205373,
       "name": "Inv\u00e9ntame",
       "url": "https://open.spotify.com/track/1yTl2UvjZFPUVE8ugKQdOY"
+    },
+    {
+      "added_at": "2024-07-02 23:47:42",
+      "album": {
+        "name": "Crossroads: Cruce De Caminos",
+        "url": "https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Nada Es Igual",
+      "url": "https://open.spotify.com/track/3FPyEh683Et820zkVWHBoB"
     },
     {
       "added_at": "2024-07-02 23:47:42",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-07-02 23:47:42",
       "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Para Que No Te Vayas",
-      "url": "https://open.spotify.com/track/2WMgMvIKhQW6LmkSCA5Ct6"
-    },
-    {
-      "added_at": "2024-07-02 23:47:42",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 204019,
       "name": "El Celoso",
       "url": "https://open.spotify.com/track/58PlhLYOXl1aOLDHzbIpDA"
+    },
+    {
+      "added_at": "2024-07-02 23:47:42",
+      "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 196986,
+      "name": "Sigue Sin Mi",
+      "url": "https://open.spotify.com/track/0SrxRhhNIhyTx0wLTl4zCt"
     },
     {
       "added_at": "2024-07-02 23:47:42",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-07-02 23:47:42",
       "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Sigue Sin Mi",
-      "url": "https://open.spotify.com/track/0SrxRhhNIhyTx0wLTl4zCt"
-    },
-    {
-      "added_at": "2024-07-02 23:47:42",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2024-07-02 23:47:42",
       "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Para Que No Te Vayas",
+      "url": "https://open.spotify.com/track/2WMgMvIKhQW6LmkSCA5Ct6"
+    },
+    {
+      "added_at": "2024-07-02 23:47:42",
+      "album": {
         "name": "Como Este Loco",
         "url": "https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f"
       },
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-07-02 23:47:42",
       "album": {
-        "name": "Si No Te Hubieras Ido",
-        "url": "https://open.spotify.com/album/2ZOR1A4L2hCEiyXnx6DImD"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 292236,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/6R5QRhLTTk2KetYpu6H5O7"
-    },
-    {
-      "added_at": "2024-07-02 23:47:42",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 235106,
       "name": "\u00bf A D\u00f3nde Vamos A Parar ?",
       "url": "https://open.spotify.com/track/139or2pGbQ3RQsFHEaFn6M"
+    },
+    {
+      "added_at": "2024-07-02 23:47:42",
+      "album": {
+        "name": "Si No Te Hubieras Ido",
+        "url": "https://open.spotify.com/album/2ZOR1A4L2hCEiyXnx6DImD"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 292236,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/6R5QRhLTTk2KetYpu6H5O7"
     },
     {
       "added_at": "2024-07-02 23:47:42",
@@ -2040,9 +2040,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 203400,
-      "name": "Mi Fantasia",
-      "url": "https://open.spotify.com/track/1C5b8u6soZnLGkBqYrEtUE"
+      "duration_ms": 231426,
+      "name": "Necesito Una Compa\u00f1era",
+      "url": "https://open.spotify.com/track/3C774e6E4KmqSFHk1b4GNY"
     },
     {
       "added_at": "2024-07-02 23:47:42",
@@ -2056,9 +2056,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 231426,
-      "name": "Necesito Una Compa\u00f1era",
-      "url": "https://open.spotify.com/track/3C774e6E4KmqSFHk1b4GNY"
+      "duration_ms": 203400,
+      "name": "Mi Fantasia",
+      "url": "https://open.spotify.com/track/1C5b8u6soZnLGkBqYrEtUE"
     },
     {
       "added_at": "2024-07-02 23:47:42",

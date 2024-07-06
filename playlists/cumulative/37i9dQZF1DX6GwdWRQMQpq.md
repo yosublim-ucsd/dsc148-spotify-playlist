@@ -2,13 +2,13 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Megan Thee Stallion
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Latto
 
-542 songs - 1 day 0 hr 33 min
+543 songs - 1 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10 White Toes](https://open.spotify.com/track/0g6uvmCUk0GOWfB8Uo0blt) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [10 White Toes](https://open.spotify.com/album/393uGrwWrg1PqP8UAscMH1) | 1:35 | 2024-06-28 |  |
+| [10 White Toes](https://open.spotify.com/track/0g6uvmCUk0GOWfB8Uo0blt) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [10 White Toes](https://open.spotify.com/album/393uGrwWrg1PqP8UAscMH1) | 1:35 | 2024-06-28 | 2024-07-06 |
 | [11:11](https://open.spotify.com/track/5mVcYCCKAKkOW1Yjjgo1zh) | [Lil Kayla](https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp) | [11:11](https://open.spotify.com/album/7goPUFOOsxCg5WNxUpsILS) | 1:33 | 2023-04-21 | 2023-06-24 |
 | [50/50](https://open.spotify.com/track/1DwW4mn2dVLJxGJzdvAcls) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [50/50](https://open.spotify.com/album/1Fv4D4aMB6GPfOTDe4Gh0F) | 1:40 | 2024-02-09 | 2024-03-16 |
 | [6000 Degrees \(AH HA\)](https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC) | [6000 Degrees \(AH HA\)](https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH) | 1:42 | 2022-12-09 | 2023-09-02 |
@@ -464,7 +464,7 @@
 | [SPAGHETTII](https://open.spotify.com/track/5UcUppRaEIBMIHXiUFl7LI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Linda Martell](https://open.spotify.com/artist/78adFi9EyRkMh3CTIatrV9), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:38 | 2024-03-29 | 2024-04-27 |
 | [Spring, Summer](https://open.spotify.com/track/0vF3fuZGdOS2pBd17GbtMc) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [Spring, Summer](https://open.spotify.com/album/5iG6E2PsabzkSgDrLA0oDF) | 2:46 | 2022-06-10 | 2022-09-03 |
 | [Standards](https://open.spotify.com/track/54llkrIQrEyNyHx7PcrtSc) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Standards](https://open.spotify.com/album/77CuQ0NcdI8FfqPnGPlvDt) | 2:55 | 2022-03-11 | 2022-07-16 |
-| [Standing On Bidness](https://open.spotify.com/track/5GhPo3t87xQ50LLLsvPeGB) | [NextYoungin](https://open.spotify.com/artist/2e7a6ZMxkwltCzbxHq8b3t) | [Daddy 2 Baddie](https://open.spotify.com/album/6UiLSi6xcV7LPURLFWgtF4) | 2:37 | 2024-06-28 |  |
+| [Standing On Bidness](https://open.spotify.com/track/5GhPo3t87xQ50LLLsvPeGB) | [NextYoungin](https://open.spotify.com/artist/2e7a6ZMxkwltCzbxHq8b3t) | [Daddy 2 Baddie](https://open.spotify.com/album/6UiLSi6xcV7LPURLFWgtF4) | 2:37 | 2024-06-28 | 2024-07-06 |
 | [Stank Ass Walk \(RAP SH!T: Soundtrack From The Max Original Series, S1\)](https://open.spotify.com/track/0KqZCRr1HIvgyNBs0H3uHO) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr), [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [RAP SH!T \(Soundtrack: From The Max Original Series, S1\)](https://open.spotify.com/album/0ej4GVNwII3h7eFqVs5q3M) | 2:21 | 2022-09-02 | 2022-10-01 |
 | [Stone Cold](https://open.spotify.com/track/2ZJSuTo2KtL066oKKmcUlL) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Stone Cold](https://open.spotify.com/album/75XtJQhaA2gnlYJ1RsrxgO) | 2:30 | 2022-11-18 | 2023-02-04 |
 | [Stressed](https://open.spotify.com/track/0VgFUdSwF7cdQMixbHIXzD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Stressed](https://open.spotify.com/album/5c83fHwumoUMJpwvPmVCX8) | 3:03 | 2022-10-14 | 2023-02-11 |
@@ -539,6 +539,7 @@
 | [Wig](https://open.spotify.com/track/1Vx3GtCAj9Hl5tajqA7McX) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb) | 2:42 | 2023-10-27 | 2023-11-04 |
 | [Wig Splitter](https://open.spotify.com/track/2VUZU4RAaSdIjnpKaWOVCW) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Where The Flowers Don't Die](https://open.spotify.com/album/0oKgiQKCek2KARB2vjo7Tf) | 2:17 | 2023-06-23 | 2023-07-08 |
 | [Wigs](https://open.spotify.com/track/2XdeL4FRkc6ADX4XTcpa0s) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:07 | 2023-10-20 | 2023-10-28 |
+| [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-07-05 |  |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2021-09-13 | 2022-02-12 |
 | [Work For It](https://open.spotify.com/track/7gwEKj4xXm9iRqxGhHxSI4) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 1:46 | 2023-10-20 | 2024-05-25 |
 | [WOULD YOU?](https://open.spotify.com/track/4375FaARAe3R3PMzdIdtKS) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [After 7](https://open.spotify.com/album/3jMiuPdLcZ3svm5u2hSmnj) | 2:35 | 2024-05-31 | 2024-06-15 |

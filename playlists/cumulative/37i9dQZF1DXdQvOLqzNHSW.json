@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173913,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
+    },
+    {
+      "album": {
         "name": "frenemy",
         "url": "https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU"
       },
@@ -2083,6 +2101,24 @@
     },
     {
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303440,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+    },
+    {
+      "album": {
         "name": "Picture You",
         "url": "https://open.spotify.com/album/5GyjftTci65k0lr3TTnh9t"
       },
@@ -2684,7 +2720,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 295331,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/5dXSZacyn5kvZHrXZ3rFsL"
@@ -2942,6 +2978,24 @@
       "duration_ms": 248883,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/0Nm7Bew0ZXCxXbnv3m7X4t"
+    },
+    {
+      "album": {
+        "name": "Dispose of Me",
+        "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217880,
+      "name": "Dispose of Me",
+      "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
     },
     {
       "album": {
@@ -4950,6 +5004,24 @@
       "duration_ms": 213056,
       "name": "Go",
       "url": "https://open.spotify.com/track/0SCtV9YQhnsY0m277xlmxg"
+    },
+    {
+      "album": {
+        "name": "go steady",
+        "url": "https://open.spotify.com/album/3zKPxCnOoNvoDKAElJAvI3"
+      },
+      "artists": [
+        {
+          "name": "TENDER",
+          "url": "https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237321,
+      "name": "go steady",
+      "url": "https://open.spotify.com/track/29kTSgO3YHSArvtVZwiX2r"
     },
     {
       "album": {
@@ -7410,7 +7482,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 208080,
       "name": "Love As A Weapon",
       "url": "https://open.spotify.com/track/2CwZN7Qv20PRenBsoyUp7v"
@@ -7616,6 +7688,24 @@
       "duration_ms": 182453,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/4BGcVxS20x7sLA2uKp5wJU"
+    },
+    {
+      "album": {
+        "name": "Lucid Girl",
+        "url": "https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202573,
+      "name": "Lucid Girl",
+      "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
     },
     {
       "album": {
@@ -10000,7 +10090,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 185333,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/11nL5QfqIl1DEpwlxbQplf"
@@ -10734,7 +10824,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 213120,
       "name": "Show Me How - Live at RBC Echo Beach",
       "url": "https://open.spotify.com/track/546DYMoIeq9bpz2ZQdDB6a"
@@ -12618,7 +12708,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 147644,
       "name": "Tides",
       "url": "https://open.spotify.com/track/5PKry44nrSmbNmbFJ7gSD0"

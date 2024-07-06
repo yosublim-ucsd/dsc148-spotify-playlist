@@ -2648,7 +2648,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 182689,
       "name": "Heavy Soul",
       "url": "https://open.spotify.com/track/5qwc4qqv0CHfbJN6byvExp"
@@ -2756,7 +2756,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 253320,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/5pbvXAfrjtRwfwcKGPAZma"
@@ -2818,7 +2818,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 273954,
       "name": "High and Lonesome",
       "url": "https://open.spotify.com/track/4V2f0Sy043rdiWJoeHkAwg"
@@ -2926,7 +2926,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 218760,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V"
@@ -3038,7 +3038,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 213328,
       "name": "Hospital",
       "url": "https://open.spotify.com/track/7yELjeC1XSdso8N8EBrVib"
@@ -3060,6 +3060,24 @@
       "duration_ms": 257733,
       "name": "Hot Damn",
       "url": "https://open.spotify.com/track/4yFararsjQ0deuaZVH8CGb"
+    },
+    {
+      "album": {
+        "name": "Hot Rod Pipe Dream",
+        "url": "https://open.spotify.com/album/2haMU8vcx0Cv0lfeMjM951"
+      },
+      "artists": [
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225244,
+      "name": "Hot Rod Pipe Dream",
+      "url": "https://open.spotify.com/track/6yv6AU2WtV7nH4GqgcXQIg"
     },
     {
       "album": {
@@ -3778,7 +3796,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 203235,
       "name": "Lonely Cowboy - Radio Edit",
       "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
@@ -4052,7 +4070,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 194813,
       "name": "McKenzie",
       "url": "https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg"
@@ -4884,7 +4902,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 198413,
       "name": "Oregon",
       "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
@@ -6210,7 +6228,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 270483,
       "name": "Stars",
       "url": "https://open.spotify.com/track/2lGIQz1KaDIFSoAtsYZWxI"
@@ -7298,7 +7316,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 198840,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/1jyN2jROkI3dR6UbnkDPrp"
@@ -7930,7 +7948,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 232917,
       "name": "Wondering Why",
       "url": "https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0"

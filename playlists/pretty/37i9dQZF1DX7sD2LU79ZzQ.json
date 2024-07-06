@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Anggis Devaki",
-  "num_followers": 120669,
+  "num_followers": 120752,
   "original_name": "Naik Daun",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,26 @@
       "duration_ms": 194664,
       "name": "Wahai Tuan",
       "url": "https://open.spotify.com/track/5MNUpUqsp1pj8rpQrktIg1"
+    },
+    {
+      "added_at": "2024-07-04 17:00:00",
+      "album": {
+        "name": "right where you left me",
+        "url": "https://open.spotify.com/album/0a28dOkcC53FjmLwNpVEOm"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        },
+        {
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "right where you left me",
+      "url": "https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP"
     },
     {
       "added_at": "2024-07-04 17:00:00",

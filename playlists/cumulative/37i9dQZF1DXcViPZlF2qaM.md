@@ -4,7 +4,7 @@
 
 > Abajo y a la izquierda.
 
-261 songs - 16 hr 28 min
+262 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Las Olas del Mar](https://open.spotify.com/track/6jmryqXt0Ixj8q68fzDaih) | [Mon de León](https://open.spotify.com/artist/5NejWF2yqY4C5ZWlfIGOcG) | [Las Olas del Mar](https://open.spotify.com/album/5xYifiyDQBBzpxuU0P5ri0) | 3:28 | 2022-11-15 | 2023-05-13 |
 | [Latinoamérica \(feat\. Totó la Momposina, Susana Baca & Maria Rita\)](https://open.spotify.com/track/1xuYajTJZh8zZrPRmUaagf) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk), [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0), [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 5:01 | 2022-04-01 |  |
 | [Le Soleil Descend](https://open.spotify.com/track/0mDNjIWcWqU3bgF8fiGnOW) | [Wesli](https://open.spotify.com/artist/7BOu7POeMEK7gaMPZcsvt5), [Paul Cargnello](https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj) | [Le Soleil Descend](https://open.spotify.com/album/5GmeUeefieul7OH3nrFaKN) | 4:08 | 2021-10-16 | 2022-07-29 |
-| [Liit](https://open.spotify.com/track/0tZytKFwVKhuTVAr1kJCSB) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Liit](https://open.spotify.com/album/1bSOutlOEi6xlqpLQC4Mss) | 2:47 | 2023-04-01 |  |
+| [Liit](https://open.spotify.com/track/0tZytKFwVKhuTVAr1kJCSB) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Liit](https://open.spotify.com/album/1bSOutlOEi6xlqpLQC4Mss) | 2:47 | 2023-04-01 | 2024-07-06 |
 | [Linda Nena](https://open.spotify.com/track/6QsovprLkdGeE9FSsOjuQA) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR) | [The Roots of Chicha](https://open.spotify.com/album/77iuhYUaKEvAsEjKJNh3lN) | 3:45 | 2021-10-16 | 2022-07-25 |
 | [Lluvia con Nieve](https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg) | [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx) | [Que Gente Averiguá](https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY) | 2:57 | 2021-10-16 |  |
 | [Llévame en un Beso](https://open.spotify.com/track/2LyNql7yzPQ8cW4tpWFzVK) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Película Muda, Pt\. 2](https://open.spotify.com/album/1wWEK9zctGZ9o6YBq3ysJW) | 5:03 | 2021-10-16 |  |
@@ -217,6 +217,7 @@
 | [Se Me Ocurre](https://open.spotify.com/track/4fZJ1PRKY0cWC8PRWnRZQa) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N) | 4:02 | 2022-09-26 |  |
 | [Se Va, Se Va](https://open.spotify.com/track/4FdAAU9OClnZ5jclUZhVIE) | [Las Mijas](https://open.spotify.com/artist/5wCV48XtdJnhSEiu9bj8NP), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Se Va, Se Va](https://open.spotify.com/album/3e1o7UkNTr0dTQyW9aNvn9) | 4:25 | 2023-08-17 | 2023-09-05 |
 | [Semilla de Laurel](https://open.spotify.com/track/2CfWc68OcLYunEOLTpX0OS) | [Eli Moya](https://open.spotify.com/artist/6ikKwotJHytevUmECzLhww), [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Semilla de Laurel](https://open.spotify.com/album/3x1sFQ58wDd7t0Pa8abeZ9) | 4:05 | 2022-09-12 | 2022-10-29 |
+| [Si me lleva la corriente](https://open.spotify.com/track/6WXjTLK3yYl0K7gKYXEHac) | [Truzman](https://open.spotify.com/artist/7qFuA1DT1Ubb1iMPnWKMIr) | [Conexión Atípica](https://open.spotify.com/album/2K1od6pjgRHAQOCTiJ3i9J) | 2:40 | 2024-07-05 |  |
 | [Si Me Matan](https://open.spotify.com/track/3Tv57oLXrydAK4Hlwm7fX6) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N) | 4:10 | 2022-09-26 |  |
 | [Si Me Matan](https://open.spotify.com/track/5L9OruCuqnA9PGGh1VkXcm) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx) | 4:10 | 2022-09-26 | 2022-10-29 |
 | [Si Supieras](https://open.spotify.com/track/7n3UQcMAUm8wFdAWz1RrHo) | [Chalanes del Amor](https://open.spotify.com/artist/1bRwLJQkhtCpWz5YHxPCJK) | [Ritmos de Acercamiento](https://open.spotify.com/album/5uUkISvym9YcOcYl3cQ0IS) | 4:06 | 2021-10-16 | 2022-07-24 |

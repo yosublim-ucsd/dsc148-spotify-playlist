@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-1,822 songs - 2 day 22 hr 34 min
+1,828 songs - 2 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Blue Skies](https://open.spotify.com/track/0tDRTPduFjI70EiYXNN92W) | [Aoko](https://open.spotify.com/artist/2AneE7YpS3dgN9XjDgv2pO), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [Blue Skies](https://open.spotify.com/album/2lOJHbB1CbKAX7zpHI5riG) | 2:36 | 2022-09-16 | 2022-12-24 |
 | [Blue Sky](https://open.spotify.com/track/72wU2pULJn543SMa52Y0lH) | [.GR](https://open.spotify.com/artist/1OMpdIjoqWbL5f559HWCA9) | [Blue Sky](https://open.spotify.com/album/5u6mLR1LxLF2XFILsJCerf) | 2:19 | 2022-09-23 | 2022-12-24 |
 | [Blueberry](https://open.spotify.com/track/0VEOJhK5Pf6HLKD5a9FHVN) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Blueberry](https://open.spotify.com/album/5uab19M3OkQEGScyvDvkXu) | 1:42 | 2023-03-01 | 2023-08-22 |
+| [Blunda](https://open.spotify.com/track/2FSe6GnnmKmeGu1EsnA15L) | [Oysterz](https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq) | [Blunda](https://open.spotify.com/album/2KyA0n5ZLSF56hjHqCh8Ll) | 2:22 | 2024-07-05 |  |
 | [Blunotte](https://open.spotify.com/track/425HNsoUUAUGNPFbPZuyE2) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Insomnia](https://open.spotify.com/album/0B79D0ahoTfJSul9Gx7SIJ) | 2:22 | 2023-10-20 | 2024-02-09 |
 | [Blunotte](https://open.spotify.com/track/7xJ9d7j9fcB2czQyPbLyhy) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Blunotte](https://open.spotify.com/album/5U5C9RGGsnUR5okigKTANF) | 2:22 | 2023-06-05 | 2023-10-22 |
 | [blunt smokers](https://open.spotify.com/track/6e47tJyzfjkGhrQrm8xu6Y) | [DAISI](https://open.spotify.com/artist/6puAtSfW1mN8JoGYgG1x2i) | [blunt smokers](https://open.spotify.com/album/5LPdm1VBxSUkDVcyo7ImKY) | 1:49 | 2023-07-13 | 2024-02-09 |
@@ -196,6 +197,7 @@
 | [Boarded](https://open.spotify.com/track/3TYZ8OUPMZ0O6AiMRmv5lP) | [Sidual.](https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI) | [Boarded](https://open.spotify.com/album/0971OYZtfCZfegzT2TDmqh) | 2:20 | 2021-12-07 | 2022-04-22 |
 | [Bolivia](https://open.spotify.com/track/0rCMCvrYA4LKXFKdUSyseQ) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Bolivia](https://open.spotify.com/album/0sAapPHnSeEDZBDIP6diAg) | 2:36 | 2022-05-13 | 2022-11-12 |
 | [bored in classroom](https://open.spotify.com/track/665TMmzkptxb0iRP96g3nx) | [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb), [sbardo](https://open.spotify.com/artist/3h4IU6M9nYbcQiKV7SltHZ) | [bored in classroom](https://open.spotify.com/album/1OeNkOFURMxxJSXoRFi10r) | 1:37 | 2022-07-29 | 2022-11-12 |
+| [Borrowed Car](https://open.spotify.com/track/3wwUV04m85SsAqbn04dpnR) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [Borrowed Car](https://open.spotify.com/album/5imAUxqWdjsZBmsbrBwc1I) | 2:06 | 2024-07-05 |  |
 | [Bounce Around](https://open.spotify.com/track/7nbgHt3fUI8k40Ve8qrqsP) | [Palmyra Flo](https://open.spotify.com/artist/6z6Pcqh3ygPBybhLXSiaxl) | [Bounce Around](https://open.spotify.com/album/04APyXciogHezbFroL8Mlg) | 2:28 | 2022-01-26 | 2022-07-01 |
 | [Boutique](https://open.spotify.com/track/3atyuxObBb1LkmKcvEZT95) | [Lunchmoney](https://open.spotify.com/artist/7JD72qpbmGSp9M0uCLOa3D) | [Boutique](https://open.spotify.com/album/4BGa7q7U3A3NWve9Pxajc4) | 1:52 | 2021-12-07 | 2022-07-08 |
 | [Brainwaves](https://open.spotify.com/track/1upsUbZSRONTmWYq8iXTvR) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Brainwaves](https://open.spotify.com/album/337H8IQR3KiJLmdFTaX8T4) | 2:31 | 2023-03-08 |  |
@@ -738,6 +740,7 @@
 | [Home Roots](https://open.spotify.com/track/0EXhTgF6e1fpFHsO3uCGeP) | [PINANO](https://open.spotify.com/artist/2SJvTrEFHegW2SEVgMy6aT) | [Keep Track](https://open.spotify.com/album/14nHWUf96LpgoN9Gpz7CQv) | 1:48 | 2021-12-07 | 2022-06-10 |
 | [home styling](https://open.spotify.com/track/43Aw7i0PCijYdMeVCs3i5v) | [slån](https://open.spotify.com/artist/3FtHbjWZC4p0XzS0qbaleC) | [modern grooves](https://open.spotify.com/album/0fOAKYEVrzvIGkWEs1fMfl) | 1:25 | 2021-12-07 | 2022-07-01 |
 | [Homesick](https://open.spotify.com/track/1tunIrMoyuW5xRYQbViTPQ) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Homesick](https://open.spotify.com/album/0ZOiLib3wIbXTce9luU49t) | 1:44 | 2023-02-07 | 2023-09-22 |
+| [Honestly](https://open.spotify.com/track/5CzVTEr2Ue7Ac7CFKLp75Y) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Honestly](https://open.spotify.com/album/7q0tXoUWaZ2CYQX8itV794) | 2:07 | 2024-07-05 |  |
 | [honestly](https://open.spotify.com/track/5zCa75jnSOrgap5EaAW7zI) | [dirtybirdie](https://open.spotify.com/artist/757oyVLql8wYqYzOEz7BIT) | [honestly](https://open.spotify.com/album/4zIdz6orD5zDjyknExQwxk) | 1:38 | 2022-05-27 | 2024-04-13 |
 | [Hope](https://open.spotify.com/track/153ikHLHd0r3dhycyYuLfn) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [Hope](https://open.spotify.com/album/1CALuWpHb0s5Hjjk5FA08D) | 2:12 | 2022-07-01 | 2023-08-22 |
 | [Hope!](https://open.spotify.com/track/1hIPTXl8fGnLxn4P6qYInV) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Hope!](https://open.spotify.com/album/6KojVBlOOuoyp3e3AsDBf3) | 2:43 | 2021-12-07 | 2022-09-23 |
@@ -1046,6 +1049,7 @@
 | [Midnight Coffee](https://open.spotify.com/track/4ezxA4ICGNFjYHc81McwHH) | [Mount Dreamer](https://open.spotify.com/artist/2pPuDXt6uSj2gGllSLRjnO) | [Midnight Coffee](https://open.spotify.com/album/5PNoSA2H4zFJxcbqLQwcWQ) | 2:33 | 2022-12-09 | 2023-07-14 |
 | [Midnight Cruisin](https://open.spotify.com/track/08IyQetUzlz3p6v4TVpXFI) | [jelaquest](https://open.spotify.com/artist/2vkUei6EdRcTOJtsH5hJeX), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Midnight Cruisin](https://open.spotify.com/album/35pGGy7msW1H9WvCLU2uTu) | 2:34 | 2022-05-20 | 2022-05-27 |
 | [midnight escape](https://open.spotify.com/track/1H1wSRhMTiGB6cgrNQO4gw) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [midnight escape](https://open.spotify.com/album/4soXZQhBjBXl0480o8cj5G) | 3:00 | 2024-06-21 |  |
+| [Midnight Groove](https://open.spotify.com/track/7gDvDMEIlY8ocNh0OpptRB) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53) | [Midnight Groove](https://open.spotify.com/album/4cS4FNN1tFk9sT8avKlsSD) | 2:19 | 2024-07-05 |  |
 | [Midnight Sun](https://open.spotify.com/track/6CfHNWrevYWVtmWiGF3gOu) | [Embarco](https://open.spotify.com/artist/2U28L4mqy3Lo2ENcS5p0LO) | [Randa Stars](https://open.spotify.com/album/6VbHpXjhyNuUEupYZgoibK) | 3:19 | 2021-12-07 | 2022-06-03 |
 | [Midnight Tales](https://open.spotify.com/track/6G31dyrwgoxh1JZttznEJc) | [mėlyna](https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ), [Draw Beats](https://open.spotify.com/artist/36JWIw87ka7WsPRMBLGB3F) | [Midnight Tales](https://open.spotify.com/album/2Ja2kKT6z2Fmiodi6neQWB) | 2:38 | 2023-01-20 | 2023-09-02 |
 | [Miffing](https://open.spotify.com/track/482V3gj1s0CmyxggOk4OLh) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Miffing](https://open.spotify.com/album/2HW7ivX1zL2ymrEdQkecm8) | 2:23 | 2021-12-07 | 2022-06-03 |
@@ -1360,6 +1364,7 @@
 | [Secret Place](https://open.spotify.com/track/3buyFUrF0ZNbaWImMEkUKS) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Secret Place](https://open.spotify.com/album/03JWU66lZghWbITjt3h239) | 2:17 | 2023-02-17 |  |
 | [secrets i keep](https://open.spotify.com/track/66mov52eOGweiC5cec6FSO) | [O k O](https://open.spotify.com/artist/54FTacKE0BxtzKWB19zsem) | [secrets i keep](https://open.spotify.com/album/6LKZY7oL4ZFI5Ba6MN8Rpv) | 2:01 | 2021-12-07 | 2023-07-14 |
 | [Seeds](https://open.spotify.com/track/78n8yS6zyQpz0P22ClNDfg) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Seeds](https://open.spotify.com/album/7GCT8pcyjxsNchr9Pom2fv) | 1:56 | 2022-07-22 | 2022-11-26 |
+| [seek somebody](https://open.spotify.com/track/5qirk6OgA1PzJhBxAOnTyi) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [seek somebody](https://open.spotify.com/album/4cj8n9qE2S3ccWglfiNzMT) | 2:44 | 2024-07-05 |  |
 | [Self Expression](https://open.spotify.com/track/5569JOKhunZw0jEjawEfx3) | [Looper Boy](https://open.spotify.com/artist/1Bs8y3WbVckMAcIBwN1FXV) | [Stories from the Ramen House](https://open.spotify.com/album/3RgRIP700F6MfcVug49OuR) | 2:52 | 2021-12-07 | 2022-08-19 |
 | [Semester](https://open.spotify.com/track/0fNNBqC28Ap2KGyjZ3fVkz) | [Phive O](https://open.spotify.com/artist/3BazVVHaz03CY1JFfedL9L) | [Semester](https://open.spotify.com/album/4WvZPXhQMUz94Cf6AvTgZ9) | 2:05 | 2021-12-07 | 2022-07-01 |
 | [Sensations](https://open.spotify.com/track/3rXKDTaZe8U8RVeSL88eJ4) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Sensations](https://open.spotify.com/album/3SIkmz1TSE0ReBKTZZ9x3E) | 2:39 | 2022-12-02 |  |
@@ -1811,6 +1816,7 @@
 | [Woozy](https://open.spotify.com/track/1FZBWosZEVIrSoFicS0Jh9) | [Joe Arrow](https://open.spotify.com/artist/0FoHpBCk3IjQFbEJyB9Spa) | [Woozy](https://open.spotify.com/album/4VqyqAAcChsHuGVe9KC1t9) | 2:05 | 2024-05-29 |  |
 | [Workit](https://open.spotify.com/track/7GmA2dTy4r4MPxenVVDzMy) | [Netta Inn](https://open.spotify.com/artist/7lF2gpQHWssOuxR1kipNsn) | [Workit](https://open.spotify.com/album/1WSr66Wahw1IvFjmystaxW) | 2:45 | 2022-02-16 | 2022-07-01 |
 | [Worlds Away](https://open.spotify.com/track/1XnMSLQ66Fp8XHpapfJZbE) | [Ale Fillman](https://open.spotify.com/artist/0fNB9GqTAxeZcJW5euF3df), [TCXMASTA](https://open.spotify.com/artist/26PU2jHghi9U5Ajh09gb3u) | [Worlds Away](https://open.spotify.com/album/1DymwSU7AYROu2rnBf3hbj) | 2:55 | 2022-10-28 | 2023-09-16 |
+| [Wunderkind](https://open.spotify.com/track/2JiKSNdbGmiRSeHgglHkTq) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [Wunderkind](https://open.spotify.com/album/3ngXpICokhkA4wmJXAdqZ7) | 2:33 | 2024-07-05 |  |
 | [X\-Girlfriend](https://open.spotify.com/track/40PFktBMJ3H7rjNDw279JJ) | [Bold Colors](https://open.spotify.com/artist/27CjBjeuWztVwxJgUroJ1u) | [X\-Girlfriend](https://open.spotify.com/album/01RmGnnmBaiW0mSE6WJ2Q1) | 2:11 | 2021-12-07 | 2022-06-03 |
 | [XOXO](https://open.spotify.com/track/6Bc5p9BJM9YPS9sZNaBp9V) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Night Life](https://open.spotify.com/album/5cNuT4skHDNiMmiwehhknD) | 1:31 | 2021-12-07 | 2022-07-01 |
 | [Yagoda](https://open.spotify.com/track/0vawCvvdH0fjLes5gYNbJY) | [DIRTYTHREE](https://open.spotify.com/artist/4FBSXEaE4sG5WlTgfzIx51) | [urban sounds](https://open.spotify.com/album/74hIFzEgt9T3d7UcX6EPdr) | 2:31 | 2023-04-20 | 2023-09-29 |

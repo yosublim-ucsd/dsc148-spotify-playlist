@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,647 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,672 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 81 | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd) | 4:40 |
 | 82 | [Carretera Perdida \- En Vivo](https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Carretera Perdida \(En Vivo\)](https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3) | 4:50 |
 | 83 | [La Superacción \- En Vivo en el Metropólitan](https://open.spotify.com/track/4SQEBJU7ISs2n9TqNPhD43) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [LOBEL](https://open.spotify.com/artist/6ZYC3LeRCpUZheX0WKVPGl) | [La Superacción \(En Vivo en el Metropólitan\)](https://open.spotify.com/album/6U3QnrJIkFiJACZv9WhXKO) | 5:17 |
-| 84 | [Julieta \- Vivo Moscú](https://open.spotify.com/track/1fKns7yBA2gao1CGrGVSlx) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [BABYROCK \(Vivo Moscú\)](https://open.spotify.com/album/3iWXsRv0pPb0OdcraHOjUh) | 3:45 |
-| 85 | [Ella Vendrá](https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU) | [Palo Pandolfo](https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf) | [El Vuelo del Dragón, Pt\. 3](https://open.spotify.com/album/1IyfurpAggpzBi4oDwgR6x) | 4:49 |
+| 84 | [Ella Vendrá](https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU) | [Palo Pandolfo](https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf) | [El Vuelo del Dragón, Pt\. 3](https://open.spotify.com/album/1IyfurpAggpzBi4oDwgR6x) | 4:49 |
+| 85 | [Julieta \- Vivo Moscú](https://open.spotify.com/track/1fKns7yBA2gao1CGrGVSlx) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [BABYROCK \(Vivo Moscú\)](https://open.spotify.com/album/3iWXsRv0pPb0OdcraHOjUh) | 3:45 |
 | 86 | [Música Del Alma \- En Vivo](https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Música del Alma \(En Vivo\)](https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X) | 4:11 |
 | 87 | [Cinco Siglos Igual \(En Vivo Teatro Coliseo\)](https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Cinco Siglos Igual \(En Vivo Teatro Coliseo\)](https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x) | 4:28 |
 | 88 | [Colgado de la luna \- En vivo El Sol 2, abril 1998](https://open.spotify.com/track/4gPtmKoWB6X7vXxLn3Dhcf) | [Ariel Rot](https://open.spotify.com/artist/5kXK8waG1JeBQ8b5leWNSu) | [Colgado de la luna \(En vivo El Sol 2, abril 1998\)](https://open.spotify.com/album/0w8Lpf5B1qVbRid4BFMCWo) | 4:15 |

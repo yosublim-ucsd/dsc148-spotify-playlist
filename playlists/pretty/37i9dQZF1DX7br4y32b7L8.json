@@ -1,12 +1,12 @@
 {
   "description": "songs voor je playlist! #fyp",
-  "num_followers": 34417,
+  "num_followers": 34492,
   "original_name": "Viral Hits NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoabAgAAAAAbcqyWHqWx0kpLZJbbuCWF",
+  "snapshot_id": "ZoegGAAAAABL0gs1UlniSnKAcAhzkQtD",
   "tracks": [
     {
       "added_at": "2024-07-03 22:00:00",
@@ -31,6 +31,26 @@
       "duration_ms": 172382,
       "name": "Don't Copy My Flow",
       "url": "https://open.spotify.com/track/44HTE9IdjUk01DEAp54amH"
+    },
+    {
+      "added_at": "2024-07-03 22:00:00",
+      "album": {
+        "name": "Yo Bunny",
+        "url": "https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2"
+      },
+      "artists": [
+        {
+          "name": "prodbycpkshawn",
+          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
+        },
+        {
+          "name": "Ugly Andz.",
+          "url": "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
+        }
+      ],
+      "duration_ms": 110471,
+      "name": "Yo Bunny",
+      "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"
     },
     {
       "added_at": "2024-07-03 22:00:00",
@@ -63,26 +83,6 @@
       "duration_ms": 196384,
       "name": "Oranjebewaarder - Het Wordt Prachtig Net Als In 1988",
       "url": "https://open.spotify.com/track/6ujoOWdEuIT0ppoo4tRED8"
-    },
-    {
-      "added_at": "2024-07-03 22:00:00",
-      "album": {
-        "name": "Yo Bunny",
-        "url": "https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2"
-      },
-      "artists": [
-        {
-          "name": "prodbycpkshawn",
-          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
-        },
-        {
-          "name": "Ugly Andz.",
-          "url": "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
-        }
-      ],
-      "duration_ms": 110471,
-      "name": "Yo Bunny",
-      "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"
     },
     {
       "added_at": "2024-07-03 22:00:00",

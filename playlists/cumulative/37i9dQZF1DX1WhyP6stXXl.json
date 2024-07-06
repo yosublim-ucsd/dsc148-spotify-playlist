@@ -1321,6 +1321,24 @@
     },
     {
       "album": {
+        "name": "Mindset",
+        "url": "https://open.spotify.com/album/23FgNkUlrdyxGS6yTBFmDb"
+      },
+      "artists": [
+        {
+          "name": "Only The Poets",
+          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155832,
+      "name": "Mindset",
+      "url": "https://open.spotify.com/track/10oE9653NIrmAtbzcb7mZ1"
+    },
+    {
+      "album": {
         "name": "MONEY",
         "url": "https://open.spotify.com/album/1B7p5jOJpHqdEBg0n7s8us"
       },

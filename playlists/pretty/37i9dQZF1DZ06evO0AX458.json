@@ -1,12 +1,12 @@
 {
-  "description": "This Is Touch\u00e9 Amor\u00e9. Los temas esenciales, todos en una lista.",
-  "num_followers": 3398,
+  "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
+  "num_followers": 3399,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAAD86CFHl2X1KC2XGpylfgy+",
+  "snapshot_id": "ZoXmAAAAAACtL2Wd1wP5foBE1oe1w3L7",
   "tracks": [
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...To the Beat of a Dead Horse",
-        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+        "name": "Is Survived By (Revived [Remixed / Remastered])",
+        "url": "https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 152985,
-      "name": "Honest Sleep",
-      "url": "https://open.spotify.com/track/6q3tRF4KypWtXUVdM5N5FN"
+      "duration_ms": 128946,
+      "name": "DNA - Revived (Remixed / Remastered)",
+      "url": "https://open.spotify.com/track/6du0m5TxO4f8vmvKmtIjPK"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 128946,
-      "name": "DNA - Revived (Remixed / Remastered)",
-      "url": "https://open.spotify.com/track/6du0m5TxO4f8vmvKmtIjPK"
+      "duration_ms": 102240,
+      "name": "Kerosene - Revived (Remixed / Remastered)",
+      "url": "https://open.spotify.com/track/1zx9RJjhSaX8RlwIx70LdZ"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parting the Sea Between Brightness and Me",
-        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 113040,
-      "name": "Method Act",
-      "url": "https://open.spotify.com/track/4dnRxoWjd0xHcqxpt6UZsL"
+      "duration_ms": 152985,
+      "name": "Honest Sleep",
+      "url": "https://open.spotify.com/track/6q3tRF4KypWtXUVdM5N5FN"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is Survived By (Revived [Remixed / Remastered])",
-        "url": "https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK"
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 102240,
-      "name": "Kerosene - Revived (Remixed / Remastered)",
-      "url": "https://open.spotify.com/track/1zx9RJjhSaX8RlwIx70LdZ"
+      "duration_ms": 113040,
+      "name": "Method Act",
+      "url": "https://open.spotify.com/track/4dnRxoWjd0xHcqxpt6UZsL"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covers Vol. 1",
-        "url": "https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 210154,
-      "name": "Hard to Explain",
-      "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is Survived By (Revived [Remixed / Remastered])",
         "url": "https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 91906,
       "name": "Blue Angels - Revived (Remixed / Remastered)",
       "url": "https://open.spotify.com/track/4bBU5YMY4daFmFFxMj9q9Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Covers Vol. 1",
+        "url": "https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 210154,
+      "name": "Hard to Explain",
+      "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
       "duration_ms": 63000,
       "name": "Swimming with Sharks",
       "url": "https://open.spotify.com/track/4BjDJV6gg3dCVwoXyQkf8q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is Survived By",
+        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 158480,
+      "name": "Steps",
+      "url": "https://open.spotify.com/track/66tkJursjOgAkQ94z7Vtn5"
     },
     {
       "added_at": null,

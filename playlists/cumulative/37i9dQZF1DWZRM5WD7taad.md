@@ -2,9 +2,9 @@
 
 ### [Femcees](https://open.spotify.com/playlist/37i9dQZF1DWZRM5WD7taad)
 
-> Mujeres raperas rompiéndola en toda Latinoamérica\. Villano Antillano en Portada
+> Mujeres raperas rompiéndola en toda Latinoamérica\. Sofish e Hispana en Portada
 
-305 songs - 15 hr 17 min
+306 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [KEEP IT STUPID](https://open.spotify.com/track/5FsUKOjDDeQ0vEc5dn77AY) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [KEEP IT STUPID](https://open.spotify.com/album/7qbZ5AczohhC6vaOmTa044) | 2:27 | 2024-05-24 | 2024-06-22 |
 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 | 2022-01-21 | 2023-03-11 |
 | [Kintsugi](https://open.spotify.com/track/5M5DaipN38XHlGQC4Tfa06) | [Jezzy P](https://open.spotify.com/artist/2hRGPSlRUReuHtM0Cx0R7W) | [Kintsugi](https://open.spotify.com/album/0LzlreqpMJPGWsseWggW3k) | 3:44 | 2021-12-13 | 2023-07-01 |
+| [Kiss Kiss](https://open.spotify.com/track/0WJ0YJOroL60n0Z9VNH6Rp) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Triste Y Linda: Linda](https://open.spotify.com/album/5CALTCDnmh9SAj1lx8VlHH) | 2:19 | 2024-07-05 |  |
 | [LA ETAPA \(LA LA LA\)](https://open.spotify.com/track/4LMfV7bNyQHCw34OOSVHXO) | [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K), [Khylie Rylo](https://open.spotify.com/artist/7DEl4c92YlNTimrWuCRU7q), [yolanda segura](https://open.spotify.com/artist/3JhNoXe6bBtnORMr4L4lZc) | [LA ETAPA \(LA LA LA\)](https://open.spotify.com/album/58Vqnhcn2R4lm1dbU03sq9) | 3:16 | 2024-04-19 | 2024-06-01 |
 | [La mejor noche d mi vida <3](https://open.spotify.com/track/5vvaJgErSongYCqKuYLH3C) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Dulcinea](https://open.spotify.com/album/5qldzuecHg69MKkQjCEesb) | 3:15 | 2024-05-17 |  |
 | [La Mexicana](https://open.spotify.com/track/24VM2sOz0yCR2feDyTehmA) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Los González](https://open.spotify.com/album/0sGiueQWjYKzacveBnbY5h) | 4:06 | 2021-12-13 | 2023-07-01 |
@@ -167,7 +168,7 @@
 | [Madre Mía](https://open.spotify.com/track/4wREpwAeOahQ37NBO47QqT) | [Beelial](https://open.spotify.com/artist/04iTZQYr3kP61HCOBZPz7k) | [Madre Mía](https://open.spotify.com/album/6mWj8CTUKbpTqYHmJShw7j) | 3:10 | 2022-06-27 | 2023-03-11 |
 | [Mala Vida](https://open.spotify.com/track/75qzBs73rU11GaAGBOBypc) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Mala Vida](https://open.spotify.com/album/6zqlltyMymh6XhIZ4BjhGq) | 2:31 | 2023-12-01 |  |
 | [Mala Vida](https://open.spotify.com/track/3SzBLvShr2FKp1qSaqK6cm) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Mala Vida](https://open.spotify.com/album/1MQWpXacjrqP583eW6ntG1) | 2:40 | 2021-12-13 | 2024-03-09 |
-| [Maria](https://open.spotify.com/track/1vPVH2LNu5KUxxLbNsn4vS) | [Sherry](https://open.spotify.com/artist/0qKzket0i9hSMVGTV9fnZe) | [Maria](https://open.spotify.com/album/63ZAKRDHnWaZRICjRTkik3) | 2:10 | 2023-04-21 |  |
+| [Maria](https://open.spotify.com/track/1vPVH2LNu5KUxxLbNsn4vS) | [Sherry](https://open.spotify.com/artist/0qKzket0i9hSMVGTV9fnZe) | [Maria](https://open.spotify.com/album/63ZAKRDHnWaZRICjRTkik3) | 2:10 | 2023-04-21 | 2024-07-06 |
 | [María](https://open.spotify.com/track/4YNEuxbsAJV2jcQ9JVgg8T) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [María](https://open.spotify.com/album/5GaPfak2nHpaRL7dtn1mHn) | 2:30 | 2024-03-08 |  |
 | [Matense Por La Corona](https://open.spotify.com/track/0Aiz2Y6YlCLMiEAavlbzFe) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Matense Por La Corona](https://open.spotify.com/album/2MHoSraRWUexi2RdZsZiEV) | 3:02 | 2024-05-31 |  |
 | [Me Escojo A Mi](https://open.spotify.com/track/5frQcUKGw1UXM04OW9pdIr) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Me Escojo A Mi](https://open.spotify.com/album/03sYBeXU2wGBf7gdfjf17V) | 2:48 | 2023-06-02 | 2024-05-18 |

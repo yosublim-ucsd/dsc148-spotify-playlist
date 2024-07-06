@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 15598,
+  "num_followers": 15611,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c. (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-07-04 09:44:59",
       "album": {
-        "name": "Errr Day",
-        "url": "https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK"
-      },
-      "artists": [
-        {
-          "name": "Youngjae",
-          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
-        }
-      ],
-      "duration_ms": 204533,
-      "name": "Errr Day",
-      "url": "https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG"
-    },
-    {
-      "added_at": "2024-07-04 09:44:59",
-      "album": {
         "name": "Beige coat",
         "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
       },
@@ -291,18 +275,18 @@
     {
       "added_at": "2024-07-04 09:44:59",
       "album": {
-        "name": "LOVE & HATE",
-        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
+        "name": "Errr Day",
+        "url": "https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK"
       },
       "artists": [
         {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
         }
       ],
-      "duration_ms": 164253,
-      "name": "Don't wanna leave tonight",
-      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
+      "duration_ms": 204533,
+      "name": "Errr Day",
+      "url": "https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG"
     },
     {
       "added_at": "2024-07-04 09:44:59",
@@ -331,6 +315,22 @@
       "duration_ms": 211506,
       "name": "Beautiful (Feat. Gaho, Moti, Jung Jin Woo)",
       "url": "https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro"
+    },
+    {
+      "added_at": "2024-07-04 09:44:59",
+      "album": {
+        "name": "LOVE & HATE",
+        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 164253,
+      "name": "Don't wanna leave tonight",
+      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
     },
     {
       "added_at": "2024-07-04 09:44:59",
@@ -483,26 +483,6 @@
     {
       "added_at": "2024-07-04 09:44:59",
       "album": {
-        "name": "Way U Are (feat. BIG Naughty)",
-        "url": "https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59"
-      },
-      "artists": [
-        {
-          "name": "Jiselle",
-          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 163773,
-      "name": "Way U Are (feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
-    },
-    {
-      "added_at": "2024-07-04 09:44:59",
-      "album": {
         "name": "Evening",
         "url": "https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 217000,
       "name": "Evening (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G"
+    },
+    {
+      "added_at": "2024-07-04 09:44:59",
+      "album": {
+        "name": "Way U Are (feat. BIG Naughty)",
+        "url": "https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59"
+      },
+      "artists": [
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 163773,
+      "name": "Way U Are (feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
     },
     {
       "added_at": "2024-07-04 09:44:59",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-07-04 09:44:59",
       "album": {
+        "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
+      },
+      "artists": [
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "duration_ms": 152963,
+      "name": "Kiss The Rain",
+      "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"
+    },
+    {
+      "added_at": "2024-07-04 09:44:59",
+      "album": {
         "name": "Trust in Me (Piano by Cho Youngsoo)",
         "url": "https://open.spotify.com/album/3bNYE2TxqWOeZiQW0KMaXy"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 172245,
       "name": "WANT U",
       "url": "https://open.spotify.com/track/64D4Sjf0D6p1xSh8daZuBX"
-    },
-    {
-      "added_at": "2024-07-04 09:44:59",
-      "album": {
-        "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
-      },
-      "artists": [
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
-        }
-      ],
-      "duration_ms": 152963,
-      "name": "Kiss The Rain",
-      "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"
     },
     {
       "added_at": "2024-07-04 09:44:59",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-04 09:44:59",
       "album": {
-        "name": "Sea&U&I",
-        "url": "https://open.spotify.com/album/0e0k1c48udAcIXwwGJFa2W"
-      },
-      "artists": [
-        {
-          "name": "polar",
-          "url": "https://open.spotify.com/artist/61XcAsKXS3L7iElrRCN8hi"
-        }
-      ],
-      "duration_ms": 195720,
-      "name": "Sea&U&I",
-      "url": "https://open.spotify.com/track/5wuYrY2inHss7V9zE7xKd9"
-    },
-    {
-      "added_at": "2024-07-04 09:44:59",
-      "album": {
         "name": "\ud558\ub8e8 \ud55c\ubc29\uc6b8 One drop a day (Original Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 190520,
       "name": "\uc9c0\uae08 \uc774\ub300\ub85c Stay with me",
       "url": "https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt"
+    },
+    {
+      "added_at": "2024-07-04 09:44:59",
+      "album": {
+        "name": "Sea&U&I",
+        "url": "https://open.spotify.com/album/0e0k1c48udAcIXwwGJFa2W"
+      },
+      "artists": [
+        {
+          "name": "polar",
+          "url": "https://open.spotify.com/artist/61XcAsKXS3L7iElrRCN8hi"
+        }
+      ],
+      "duration_ms": 195720,
+      "name": "Sea&U&I",
+      "url": "https://open.spotify.com/track/5wuYrY2inHss7V9zE7xKd9"
     },
     {
       "added_at": "2024-07-04 09:44:59",

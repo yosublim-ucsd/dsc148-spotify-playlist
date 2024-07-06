@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 29 | [Ego](https://open.spotify.com/track/7dHzPI3YRolg60tFHtTydt) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Ego](https://open.spotify.com/album/6a51W0b5pxwJZOEvVGIyWm) | 3:43 |
 | 30 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 |
 | 31 | [Arrival](https://open.spotify.com/track/1T2KyCYBHZhHSmnwLH0A5Y) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C) | [Arrival](https://open.spotify.com/album/52nTSpBzE91qPdD4B2FKQq) | 4:31 |
-| 32 | [Is This What Love Is?](https://open.spotify.com/track/4GOfwIZckKlsgnt62esc40) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Is This What Love Is?](https://open.spotify.com/album/5kVea5Ulg8bpNHhRbWfAkt) | 3:37 |
+| 32 | [23 SPECIAL](https://open.spotify.com/track/7Li8IkGfaLNt8nsxcpVxvl) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Kaleidoscope](https://open.spotify.com/album/6Rgww4ZKoUkNqki1bQdJNW) | 3:02 |
 | 33 | [For The Living](https://open.spotify.com/track/1ubDKiPd70vAcckgoyA4Ot) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [For The Living](https://open.spotify.com/album/61Yso4pxiob9KFC4Mmomus) | 2:59 |
 | 34 | [Do Your Worst](https://open.spotify.com/track/1WQm4kw3blYLYbsA9kTsTE) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [Do Your Worst](https://open.spotify.com/album/2LS7qVSq37ThFZkkmhrY3w) | 3:39 |
 | 35 | [Over You](https://open.spotify.com/track/6KX5lORRwSuUWyXpMlJ8Hs) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [Over You](https://open.spotify.com/album/0Y8njREiJhHegRMwHHrNth) | 2:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 59 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 |
 | 60 | [Last Train Home \- Ballad Version](https://open.spotify.com/track/60CQpHremwdzRXIzoaufDF) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Last Train Home \(Ballad Version\)](https://open.spotify.com/album/4qI7QOLeKaYr0OtqjCXi7d) | 5:57 |
 
-Snapshot ID: `AAAUFECuHCGpJ0SMSnnNsK7GkQeb9YD9`
+Snapshot ID: `AAAUGS2TbdNa22HZq2BMZn5ClE8XjaQd`

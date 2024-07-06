@@ -1,12 +1,12 @@
 {
   "description": "This Is Belinda. Los temas esenciales, todos en una lista.",
-  "num_followers": 67464,
+  "num_followers": 67517,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAAAkT1TtohylAwVKjVTnMe5x",
+  "snapshot_id": "ZoXmAAAAAACJtSAXKE/MFC2AC5i7m7/w",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Traguito",
-        "url": "https://open.spotify.com/album/1OfaHu7z6jOeVkoZsEVl0H"
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
       },
       "artists": [
-        {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 184185,
-      "name": "Un Traguito",
-      "url": "https://open.spotify.com/track/5OSrMt5y9dExB2J5vMdTVk"
+      "duration_ms": 207346,
+      "name": "En La Obscuridad",
+      "url": "https://open.spotify.com/track/1BYfviBeZuGy7SCFg4mBt9"
     },
     {
       "added_at": null,
@@ -595,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+        "name": "Un Traguito",
+        "url": "https://open.spotify.com/album/1OfaHu7z6jOeVkoZsEVl0H"
       },
       "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 204666,
-      "name": "Ni Freud Ni Tu Mama",
-      "url": "https://open.spotify.com/track/2SHu2n8MmP3ym3LpuyTrUf"
+      "duration_ms": 184185,
+      "name": "Un Traguito",
+      "url": "https://open.spotify.com/track/5OSrMt5y9dExB2J5vMdTVk"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
       "duration_ms": 206226,
       "name": "Sal De Mi Piel",
       "url": "https://open.spotify.com/track/1COpsT2iGXmVp9TiI8poft"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 204666,
+      "name": "Ni Freud Ni Tu Mama",
+      "url": "https://open.spotify.com/track/2SHu2n8MmP3ym3LpuyTrUf"
     },
     {
       "added_at": null,
@@ -851,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 195426,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -867,22 +899,6 @@
       "duration_ms": 238120,
       "name": "Te Sigo Amando",
       "url": "https://open.spotify.com/track/5QmjF6TMAAym2u3hb8o1ym"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 195426,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW"
     },
     {
       "added_at": null,
@@ -959,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Esencial de Belinda",
-        "url": "https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4"
-      },
-      "artists": [
-        {
-          "name": "Martin",
-          "url": "https://open.spotify.com/artist/2y0r48kt0NajnkfFELASlI"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "Amigos por Siempre",
-      "url": "https://open.spotify.com/track/5xSljhyINjp7c3g0Qi20NS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Madrid X Marbella",
         "url": "https://open.spotify.com/album/2coM4rvjL0SLDKoCwjtu8y"
       },
@@ -995,6 +991,26 @@
       "duration_ms": 194576,
       "name": "Madrid X Marbella",
       "url": "https://open.spotify.com/track/3DiE3kg9WyLw0s8Sa7aTPE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Esencial de Belinda",
+        "url": "https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4"
+      },
+      "artists": [
+        {
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/2y0r48kt0NajnkfFELASlI"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "Amigos por Siempre",
+      "url": "https://open.spotify.com/track/5xSljhyINjp7c3g0Qi20NS"
     },
     {
       "added_at": null,
@@ -1035,22 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colorblind",
-        "url": "https://open.spotify.com/album/10pmOIJFrZ1Miyl1qP6Xfw"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 205040,
-      "name": "Colorblind",
-      "url": "https://open.spotify.com/track/2oekKvTdvWAk3x09g7HVlJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aventuras En El Tiempo",
         "url": "https://open.spotify.com/album/0TpcSvWBE1qXWGvtybMfAq"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 160173,
       "name": "Aventuras En El Tiempo",
       "url": "https://open.spotify.com/track/0lh18hhI9vxejLA6fjwynz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/10pmOIJFrZ1Miyl1qP6Xfw"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 205040,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/2oekKvTdvWAk3x09g7HVlJ"
     },
     {
       "added_at": null,
@@ -1163,22 +1179,6 @@
       "duration_ms": 180666,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/1D2RM65NrWgwGOFLidtJTg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "Culpable",
-      "url": "https://open.spotify.com/track/5KgaJoG1aeBAz2zNFJKofQ"
     }
   ],
   "unique_name": "This Is Belinda",

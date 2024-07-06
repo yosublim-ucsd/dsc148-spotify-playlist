@@ -1553,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "We\u2019re Taking Over (Dance Remix)",
+        "url": "https://open.spotify.com/album/7lGHNlYMPOHzHXYuokMcys"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203767,
+      "name": "We're Taking Over - Dance Remix",
+      "url": "https://open.spotify.com/track/0ORhF7uMVltT5g2Bj7aSwk"
+    },
+    {
+      "album": {
         "name": "yes, and?",
         "url": "https://open.spotify.com/album/1Tu30xev5rUpBZnFuKV4rR"
       },

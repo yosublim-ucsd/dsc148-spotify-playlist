@@ -4,7 +4,7 @@
 
 > Always good, always chill indie for hanging out and relaxing.
 
-625 songs - 1 day 12 hr 13 min
+626 songs - 1 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [No Words](https://open.spotify.com/track/0wjkGB4cICc48iBCWbwr6t) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [No Words](https://open.spotify.com/album/1USFZq9vbmoTyYfWdH1JtP) | 3:30 | 2023-02-03 | 2023-05-03 |
 | [No Words](https://open.spotify.com/track/5quHTv0HWbVfTHu1KkrdDo) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [Do Ya?](https://open.spotify.com/album/6MoJmMmC671jbhGV5G1lH5) | 3:30 | 2023-04-28 | 2024-04-06 |
 | [Nocturne Interlude](https://open.spotify.com/track/5jpnoBnHSxRARxZhAXgOzb) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Nocturne Interlude / Unholy Appetite](https://open.spotify.com/album/2naRj9IUpRB5dyWstiTRkm) | 1:29 | 2022-10-12 | 2022-11-12 |
+| [Nomad](https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nomad](https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq) | 3:45 | 2024-07-05 |  |
 | [Not Around](https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa) | [Nova](https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF) | [Not Around](https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P) | 3:03 | 2021-09-02 | 2022-11-26 |
 | [Nothing & Everything](https://open.spotify.com/track/21olzr6m9aB9ZvfquKzdFh) | [Parker Louis](https://open.spotify.com/artist/5Zo2GpQdYsiYf7YYZCTBSD) | [Nothing & Everything](https://open.spotify.com/album/7n7NfivNnVE8SjlYHzGJ65) | 5:12 | 2022-03-25 | 2023-04-22 |
 | [Ocean](https://open.spotify.com/track/7tqLWumGlP0N0ouyj49WLk) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Ocean](https://open.spotify.com/album/06Cmr5pNMEZ3zAQAjQYd8E) | 4:21 | 2021-01-15 | 2022-01-22 |

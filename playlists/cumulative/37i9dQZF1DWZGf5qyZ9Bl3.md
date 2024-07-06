@@ -4,7 +4,7 @@
 
 > chill piano melodies and cozy lofi beats
 
-124 songs - 4 hr 45 min
+128 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Come By Sometime](https://open.spotify.com/track/6Sw6pt7ksxQjwt1oOT4sU9) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [About Last Night](https://open.spotify.com/album/6HTLyZXIIM4ZtdkRweWlUK) | 2:18 | 2023-09-22 |  |
 | [Damn](https://open.spotify.com/track/5O1j64ep8DD9sHtmhSVGlb) | [byJ.](https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Damn](https://open.spotify.com/album/6P7kJQT9f04UGvUuhxQsyB) | 2:00 | 2024-02-02 |  |
 | [Deepmind](https://open.spotify.com/track/5ynxCqpiDWDFnZ02EuR4nm) | [Lala Vega & the Rookies](https://open.spotify.com/artist/3NOwCiCBRXtxSG9xcBi3IR) | [Deepmind](https://open.spotify.com/album/2EY7EXnrdieWdNzdBbntWT) | 2:19 | 2023-09-22 | 2024-05-14 |
+| [Devoted to Violet](https://open.spotify.com/track/7Kn2u3i65LuebgyWqYuJoe) | [Julia Groves](https://open.spotify.com/artist/2kobiVcFE5QbsUbkxkrFq3) | [Devoted to Violet](https://open.spotify.com/album/1OVPJvZwcoKctLbBNfvJ4a) | 2:15 | 2024-07-05 |  |
 | [Dreamland](https://open.spotify.com/track/4yvVPtvQ0yF1Nckkb3EGrd) | [Goloise](https://open.spotify.com/artist/4kMBqDrPnAOZnUVZLYNDbX) | [Dreamland](https://open.spotify.com/album/3MrnLV813ZQmMh0mUQNjXW) | 2:30 | 2023-09-22 |  |
 | [easel](https://open.spotify.com/track/1TqbZmrBR9n50ChWfJImcQ) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [easel](https://open.spotify.com/album/4uE9mTN0CSrr03PZvA5kgS) | 1:51 | 2023-09-22 | 2024-05-14 |
 | [Elephants Dream Just Like I Used To](https://open.spotify.com/track/3qgChLC3sVRyW3J4l31pDk) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Elephants Dream Just Like I Used To](https://open.spotify.com/album/4ncZnNTKo2WVxugkN21aEP) | 2:41 | 2023-09-22 |  |
@@ -55,10 +56,13 @@
 | [Hanger Vibe](https://open.spotify.com/track/56BSqitDi9w23IjhKZq3q4) | [Ant Sworm](https://open.spotify.com/artist/03hfjQFQtymVzrGYwGOych) | [Hanger Vibe](https://open.spotify.com/album/5as8gSVtdT4uFCq2rMoUf6) | 1:53 | 2023-09-22 |  |
 | [Hayati](https://open.spotify.com/track/5Z5vicNoRjhq7Tft22xSUb) | [Naritomi](https://open.spotify.com/artist/5jRkUp9d5LrpYOlKFGvVUx) | [Hayati](https://open.spotify.com/album/2Omx85msMQQdtlsn7vQsW7) | 2:20 | 2023-09-22 | 2024-05-14 |
 | [Hello](https://open.spotify.com/track/5wowMR5xFYrXEP3Xc23btB) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Hello](https://open.spotify.com/album/75JoRWlKawBi4H6QMNulQU) | 2:48 | 2023-09-22 |  |
+| [Her](https://open.spotify.com/track/3JSLI0U4O42f0dT5SpgF9A) | [Wishes and Dreams](https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h), [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq) | [Her](https://open.spotify.com/album/2rikYSxPPa4vqpvq7yCx7O) | 2:27 | 2024-07-05 |  |
+| [Highland Sun](https://open.spotify.com/track/4AtVKZl198zqSTWRyanskK) | [humble hugo](https://open.spotify.com/artist/6DxiHTkbvxfCK63EZ7M32W) | [Highland Sun](https://open.spotify.com/album/1f6wprppVelLkRBfCFlr1S) | 2:01 | 2024-07-05 |  |
 | [Hometown](https://open.spotify.com/track/6iuefeej3QJAFtCDwyHthS) | [Zephyr Deer](https://open.spotify.com/artist/4jqFHYuOvsCgaYiWWy8bGy) | [Hometown](https://open.spotify.com/album/1iAMtj1McRmlNRRQkJCkjc) | 2:34 | 2023-09-22 |  |
 | [How It Goes](https://open.spotify.com/track/1utm3EHfJ6kn1sBHeblnkJ) | [nomōyu](https://open.spotify.com/artist/3awVNU7vA87hTnVAAxqQ7e), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [How It Goes](https://open.spotify.com/album/5jdggOZDC0kw5eI0PDrvFT) | 2:42 | 2023-09-22 |  |
 | [if not now, when](https://open.spotify.com/track/7JcLHusPNkA7MEevw3S4Ax) | [96 Zeus](https://open.spotify.com/artist/4QJlbrf6YpfIkRB5GrK34n) | [somber september](https://open.spotify.com/album/6Uf1eHQEcwjHsHwGt1jF9U) | 2:33 | 2023-09-22 |  |
 | [If you love me](https://open.spotify.com/track/1cjPd0li1F1s3FAGAa8Odl) | [Perffetio Loggini](https://open.spotify.com/artist/4GGtJ0JeUH0t9xGrrS5zcB) | [If you love me](https://open.spotify.com/album/2cGe0weASMLDLlOdQBbYqL) | 1:58 | 2023-09-22 |  |
+| [Imaginary Garden](https://open.spotify.com/track/1xVTHr8uCCuRLB2yzhktoh) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Imaginary Garden](https://open.spotify.com/album/3GjSmY7FrwRnbFbMkpFl11) | 2:26 | 2024-07-05 |  |
 | [In Berlin](https://open.spotify.com/track/13N9uTMko9M6WXXKBnjR8o) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [In Berlin](https://open.spotify.com/album/41PtsnHFeYna6uD46iKSM7) | 1:25 | 2023-09-22 |  |
 | [Just Not Right](https://open.spotify.com/track/1A2QgnkHKihTJq4wP9So2i) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Just Not Right](https://open.spotify.com/album/7vFqx76sNBIm0c8fLUVs44) | 2:06 | 2023-09-22 |  |
 | [key time](https://open.spotify.com/track/6IrxzsAgT8DQl1dPsS8kx7) | [dave.](https://open.spotify.com/artist/17R10v2unr1DGfF0cDg7OE) | [key time](https://open.spotify.com/album/4sDY7oLYykrfNxXgwnot2B) | 1:59 | 2023-09-22 | 2024-05-14 |

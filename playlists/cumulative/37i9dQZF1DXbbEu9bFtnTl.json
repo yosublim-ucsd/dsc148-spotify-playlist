@@ -356,7 +356,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 158124,
       "name": "DEAL",
       "url": "https://open.spotify.com/track/5iPEljPHnLaIqQbOglksIV"
@@ -404,6 +404,32 @@
       "duration_ms": 133571,
       "name": "Die For You!",
       "url": "https://open.spotify.com/track/5jUEEzElqWd91VuHcNg2Ri"
+    },
+    {
+      "album": {
+        "name": "Do Something!",
+        "url": "https://open.spotify.com/album/7wOOMSpNAHJO4vadu3V6RN"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131660,
+      "name": "Do Something!",
+      "url": "https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa"
     },
     {
       "album": {
@@ -760,7 +786,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 171128,
       "name": "Hell on earth",
       "url": "https://open.spotify.com/track/3YuLB1nEQYJi3Q6lSVqscJ"
@@ -843,6 +869,24 @@
     },
     {
       "album": {
+        "name": "INSOMNIO",
+        "url": "https://open.spotify.com/album/0auZksU0YvrKAino1T9i2g"
+      },
+      "artists": [
+        {
+          "name": "xHEIDIx",
+          "url": "https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162600,
+      "name": "INSOMNIO",
+      "url": "https://open.spotify.com/track/1muqpBqYe7O6fZgcK49uba"
+    },
+    {
+      "album": {
         "name": "TRAPPii",
         "url": "https://open.spotify.com/album/1EcwiKaYxKwOWsnju1rwHT"
       },
@@ -909,6 +953,28 @@
     },
     {
       "album": {
+        "name": "Kokoro",
+        "url": "https://open.spotify.com/album/3aA6zlhQmNVdefVv5EcGtz"
+      },
+      "artists": [
+        {
+          "name": "Haruki!!!",
+          "url": "https://open.spotify.com/artist/5gdw2RUEaYpz1Vmkx3ewjB"
+        },
+        {
+          "name": "Nana!",
+          "url": "https://open.spotify.com/artist/5vqTkyJrjYddHL7Sz6dwfw"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107461,
+      "name": "Kokoro",
+      "url": "https://open.spotify.com/track/6SyNhF43GaHxOo4PYvSmrI"
+    },
+    {
+      "album": {
         "name": "KOMO TU ME MIRAS",
         "url": "https://open.spotify.com/album/1iSB1gsiO7SWXI4OPLhU0C"
       },
@@ -942,6 +1008,28 @@
       "duration_ms": 86000,
       "name": "KOOROMI",
       "url": "https://open.spotify.com/track/0ltHIm3zlnr8isfBBb9vBy"
+    },
+    {
+      "album": {
+        "name": "La Ciudad",
+        "url": "https://open.spotify.com/album/2g8I7vNzrXhGjbmLa7aqV9"
+      },
+      "artists": [
+        {
+          "name": "Waidrian",
+          "url": "https://open.spotify.com/artist/2KHMDED0sL5iU8WLUS3OFj"
+        },
+        {
+          "name": "El Verumcito",
+          "url": "https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146223,
+      "name": "La Ciudad",
+      "url": "https://open.spotify.com/track/6hW4wzj88wEhaF6H1PNAI6"
     },
     {
       "album": {
@@ -1082,7 +1170,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 166070,
       "name": "Mariposa'",
       "url": "https://open.spotify.com/track/1blNFOmrPsOcSASwbtaYAu"
@@ -1134,7 +1222,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 121500,
       "name": "Medios de Prensa",
       "url": "https://open.spotify.com/track/5o0vMzUnjC5g9Ye6ayZmDu"
@@ -1466,7 +1554,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 157088,
       "name": "Paranormal",
       "url": "https://open.spotify.com/track/2DBkKyH9T63bvfNRmXlPRZ"
@@ -1782,6 +1870,28 @@
       "duration_ms": 128000,
       "name": "sunflower",
       "url": "https://open.spotify.com/track/1QnmzIQBJWVg1u5xqLxyZe"
+    },
+    {
+      "album": {
+        "name": "TAY SWIFT!",
+        "url": "https://open.spotify.com/album/7mS4LhfUpQiDQAdARIBnWj"
+      },
+      "artists": [
+        {
+          "name": "KyozeH",
+          "url": "https://open.spotify.com/artist/258O12vApWppL528cs0gQf"
+        },
+        {
+          "name": "Vod-K",
+          "url": "https://open.spotify.com/artist/4CRSelEOn2NpNrz3OZz3JW"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137306,
+      "name": "TAY SWIFT!",
+      "url": "https://open.spotify.com/track/3ASoeCpeBRs62iOLWZZ8g5"
     },
     {
       "album": {

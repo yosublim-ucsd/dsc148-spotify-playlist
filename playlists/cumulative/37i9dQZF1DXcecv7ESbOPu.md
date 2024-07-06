@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-14,398 songs - 31 day 1 hr 56 min
+14,399 songs - 31 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5753,6 +5753,7 @@
 | [HTAFL](https://open.spotify.com/track/0ezt3b76CRzJcmCMmCVmbw) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Lost Files](https://open.spotify.com/album/5SLvT5S6ZthRj2sOqD649Q) | 2:55 | 2022-12-23 | 2023-01-06 |
 | [Huhhahhei](https://open.spotify.com/track/6FlgcrEoaGurTfbcSeqHVm) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Huhhahhei](https://open.spotify.com/album/1VTKgQzzYIsOM7qDZSwnpx) | 3:08 | 2023-10-19 | 2023-11-11 |
 | [Hula Hoop](https://open.spotify.com/track/1d1Rtd6vEphJviMVOizL9h) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [Hula Hoop](https://open.spotify.com/album/2hyUyUG3Wh0ckPhNA8j4Zk) | 2:10 | 2023-04-20 | 2023-04-28 |
+| [Hum hum från Humlegården](https://open.spotify.com/track/4589g5CnsPNehuadfCZLQZ) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Hum hum från Humlegården](https://open.spotify.com/album/0ygctymTMmMbAqzsdrj1Bl) | 3:47 | 2024-07-04 |  |
 | [Human](https://open.spotify.com/track/3QgMdFFxSsaT1KuhIg9M22) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Human](https://open.spotify.com/album/7A72gh3cPqlDUwiGLbSIZK) | 3:12 | 2023-04-13 | 2023-04-21 |
 | [Human](https://open.spotify.com/track/5cHjWKnwhdfj1z7pSJJ4uD) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Human](https://open.spotify.com/album/2Mr2fNS6Jz0dGUA7hR6lNR) | 3:31 | 2024-03-21 | 2024-03-29 |
 | [Human \(I Don't Get It\)](https://open.spotify.com/track/6uvzGTxbMpC0yaHhVfqBFO) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Human \(I Don't Get It\)](https://open.spotify.com/album/7HXd5FNC3qgNQDZ7AR206x) | 3:44 | 2023-08-24 | 2023-09-01 |

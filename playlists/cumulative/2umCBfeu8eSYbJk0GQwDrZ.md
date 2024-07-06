@@ -4,7 +4,7 @@
 
 > Stay current with the latest indie\-alt tracks\. Cover: Myles Smtih.
 
-357 songs - 19 hr 28 min
+358 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [paris](https://open.spotify.com/track/6i0FcQXML5J3FgZSVWa3pk) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [paris](https://open.spotify.com/album/4ihpxWgHCfBc3hJ7nkX7ak) | 2:29 | 2024-07-02 |  |
 | [Part of Me](https://open.spotify.com/track/4Z8Q1ysqqdTYDr7yyP3ONx) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c), [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [Part of Me](https://open.spotify.com/album/0Xu17UGt6rn4ViWJTQnwTe) | 3:28 | 2023-12-15 | 2024-01-20 |
 | [Pasadena](https://open.spotify.com/track/5EcxDrQuoP14uKF2RFOy8A) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Pasadena](https://open.spotify.com/album/0zmWwqe1hamqWmBwdnaw3C) | 3:08 | 2024-04-01 | 2024-05-04 |
+| [Past Life](https://open.spotify.com/track/2qF7DKXG3ULJJZ7QK1MZSH) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Past Life](https://open.spotify.com/album/7C1pBfRR7plseoG4LKNKk4) | 3:23 | 2024-07-05 |  |
 | [Penthouse in The Sky](https://open.spotify.com/track/5UC5kPr4qlY0PDrGwE31zA) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 4:35 | 2023-11-10 | 2024-01-13 |
 | [Pick A Fight](https://open.spotify.com/track/3jIKNn0CbeTkhgeYiQSn8x) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Confessions \(Deluxe Version\)](https://open.spotify.com/album/3aOmFmkTCzDOOfrT0HMXrH) | 2:31 | 2024-03-01 | 2024-05-25 |
 | [pick me up](https://open.spotify.com/track/3gWtBd5U14O4JyRqte3ijm) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [pick me up](https://open.spotify.com/album/0UAsFgBzXsHBT8ovfLnYzr) | 2:46 | 2024-03-15 | 2024-04-20 |

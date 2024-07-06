@@ -4,7 +4,7 @@
 
 > Jadi lebih produktif ditemani musik terkini
 
-200 songs - 12 hr 2 min
+201 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Rusuk](https://open.spotify.com/track/6fEOGx8QEljOO88YuzgemL) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk](https://open.spotify.com/album/4cLrMz5zfE7JgxDLylxbvt) | 4:15 | 2024-02-01 |  |
 | [Salla Alayka Rahman](https://open.spotify.com/track/0uAndoynoIcGYlSqEm35ZQ) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Salla Alayka Rahman](https://open.spotify.com/album/5lWu2EumPpXIBaSDCTEAeh) | 3:48 | 2024-03-21 | 2024-04-19 |
 | [Salla Alayka Rahman](https://open.spotify.com/track/2JVRBAOAXAcNM21EyziBLj) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Salla Alayka Rahman](https://open.spotify.com/album/5dR7qtDmtEfrQhKe3yPEK5) | 3:48 | 2024-04-18 | 2024-04-24 |
+| [Satu Mimpiku](https://open.spotify.com/track/34M7BB5zhcLbuXec2Mbggv) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [The Groove](https://open.spotify.com/artist/4k9NyPZz7zajxboTKM17qa) | [Kuingin](https://open.spotify.com/album/4ETmD2ooVCjpVhjNNBNuUG) | 4:19 | 2024-07-05 |  |
 | [Satu Tuju](https://open.spotify.com/track/4rVXkYPwY8oHJhQwcBL0On) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Satu Tuju](https://open.spotify.com/album/1OyDDO3hE5d5tNsoSqxgaf) | 4:06 | 2023-03-22 |  |
 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 | 2023-03-22 | 2023-06-19 |
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-05-08 |  |

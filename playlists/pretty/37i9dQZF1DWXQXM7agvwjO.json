@@ -1,6 +1,6 @@
 {
   "description": "Hottest indie sounds & the best new tracks from Asia. cover: HYUKOH, Sunset Rollercoaster",
-  "num_followers": 97510,
+  "num_followers": 97550,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-07-04 16:05:36",
       "album": {
-        "name": "pwede ba kitang ligawan?",
-        "url": "https://open.spotify.com/album/1965BuJYRYfO7y8hjW6Mki"
-      },
-      "artists": [
-        {
-          "name": "The Juans",
-          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
-        }
-      ],
-      "duration_ms": 135860,
-      "name": "pwede ba kitang ligawan?",
-      "url": "https://open.spotify.com/track/54jyPfgfNqsSrGy9pFkYQD"
-    },
-    {
-      "added_at": "2024-07-04 16:05:36",
-      "album": {
         "name": "tell me, will we survive?",
         "url": "https://open.spotify.com/album/70G0Vz66zfhGLqeKkQvMQk"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 194142,
       "name": "tell me, will we survive?",
       "url": "https://open.spotify.com/track/2TksKegWgcUKDpiG5sTY44"
+    },
+    {
+      "added_at": "2024-07-04 16:05:36",
+      "album": {
+        "name": "pwede ba kitang ligawan?",
+        "url": "https://open.spotify.com/album/1965BuJYRYfO7y8hjW6Mki"
+      },
+      "artists": [
+        {
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+        }
+      ],
+      "duration_ms": 135860,
+      "name": "pwede ba kitang ligawan?",
+      "url": "https://open.spotify.com/track/54jyPfgfNqsSrGy9pFkYQD"
     },
     {
       "added_at": "2024-07-04 16:05:36",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-07-04 16:05:36",
       "album": {
-        "name": "undo",
-        "url": "https://open.spotify.com/album/3pFdWqWA2nsTC2te2Ohv9U"
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc"
       },
       "artists": [
         {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
         }
       ],
-      "duration_ms": 208854,
-      "name": "undo",
-      "url": "https://open.spotify.com/track/0jS3y7nP0DQZ32JG80FqxV"
+      "duration_ms": 231250,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
     },
     {
       "added_at": "2024-07-04 16:05:36",
@@ -875,22 +875,18 @@
     {
       "added_at": "2024-07-04 16:05:36",
       "album": {
-        "name": "\u4f60\u5728\u54ea\u88e1",
-        "url": "https://open.spotify.com/album/6LT7YFr4Mw6MEUZIcy6Dz3"
+        "name": "undo",
+        "url": "https://open.spotify.com/album/3pFdWqWA2nsTC2te2Ohv9U"
       },
       "artists": [
         {
-          "name": "Cosmos People",
-          "url": "https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G"
-        },
-        {
-          "name": "Mixer",
-          "url": "https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv"
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
         }
       ],
-      "duration_ms": 246448,
-      "name": "\u4f60\u5728\u54ea\u88e1",
-      "url": "https://open.spotify.com/track/4SBrGswUzLYp2uXNqSEYZ1"
+      "duration_ms": 208854,
+      "name": "undo",
+      "url": "https://open.spotify.com/track/0jS3y7nP0DQZ32JG80FqxV"
     },
     {
       "added_at": "2024-07-04 16:05:36",
@@ -911,6 +907,26 @@
     {
       "added_at": "2024-07-04 16:05:36",
       "album": {
+        "name": "\u4f60\u5728\u54ea\u88e1",
+        "url": "https://open.spotify.com/album/6LT7YFr4Mw6MEUZIcy6Dz3"
+      },
+      "artists": [
+        {
+          "name": "Cosmos People",
+          "url": "https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G"
+        },
+        {
+          "name": "Mixer",
+          "url": "https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv"
+        }
+      ],
+      "duration_ms": 246448,
+      "name": "\u4f60\u5728\u54ea\u88e1",
+      "url": "https://open.spotify.com/track/4SBrGswUzLYp2uXNqSEYZ1"
+    },
+    {
+      "added_at": "2024-07-04 16:05:36",
+      "album": {
         "name": "Perih Jerih",
         "url": "https://open.spotify.com/album/3OtihGv9QJO72PdghRlUdq"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 200277,
       "name": "Perih Jerih",
       "url": "https://open.spotify.com/track/5FU11jfMr0J7tr2LJkb1S7"
-    },
-    {
-      "added_at": "2024-07-04 16:05:36",
-      "album": {
-        "name": "\u505a\u4e00\u534a\u7684\u5922",
-        "url": "https://open.spotify.com/album/37I6oZZMqyleclQQp6mPAa"
-      },
-      "artists": [
-        {
-          "name": "The Chairs",
-          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
-        }
-      ],
-      "duration_ms": 204584,
-      "name": "\u505a\u4e00\u534a\u7684\u5922",
-      "url": "https://open.spotify.com/track/4DF0vn03c0k24e2dr6cGqA"
     },
     {
       "added_at": "2024-07-04 16:05:36",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-07-04 16:05:36",
       "album": {
+        "name": "\u505a\u4e00\u534a\u7684\u5922",
+        "url": "https://open.spotify.com/album/37I6oZZMqyleclQQp6mPAa"
+      },
+      "artists": [
+        {
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
+        }
+      ],
+      "duration_ms": 204584,
+      "name": "\u505a\u4e00\u534a\u7684\u5922",
+      "url": "https://open.spotify.com/track/4DF0vn03c0k24e2dr6cGqA"
+    },
+    {
+      "added_at": "2024-07-04 16:05:36",
+      "album": {
         "name": "Su\u00fdt 1",
         "url": "https://open.spotify.com/album/5ER34Rd6OkCwXBD7SOMB97"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 211777,
       "name": "01 Chuy\u1ec7n D\u1edf Dang",
       "url": "https://open.spotify.com/track/3vWCRttEOSRmXZs8jfAPSX"
-    },
-    {
-      "added_at": "2024-07-04 16:05:36",
-      "album": {
-        "name": "Lola Amour",
-        "url": "https://open.spotify.com/album/11RYeRVMyewvGzrBo5UigQ"
-      },
-      "artists": [
-        {
-          "name": "Lola Amour",
-          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Umiinit",
-      "url": "https://open.spotify.com/track/2BtALVUCAnFvAUwHki5LEg"
     },
     {
       "added_at": "2024-07-04 16:05:36",
@@ -1023,6 +1023,22 @@
       "duration_ms": 210322,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12"
+    },
+    {
+      "added_at": "2024-07-04 16:05:36",
+      "album": {
+        "name": "Lola Amour",
+        "url": "https://open.spotify.com/album/11RYeRVMyewvGzrBo5UigQ"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Umiinit",
+      "url": "https://open.spotify.com/track/2BtALVUCAnFvAUwHki5LEg"
     },
     {
       "added_at": "2024-07-04 16:05:36",
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2024-07-04 16:05:36",
       "album": {
-        "name": "Burning",
-        "url": "https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 231250,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
-    },
-    {
-      "added_at": "2024-07-04 16:05:36",
-      "album": {
         "name": "POWER ANDRE 99",
         "url": "https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1"
       },
@@ -1227,6 +1227,38 @@
     {
       "added_at": "2024-07-04 16:05:36",
       "album": {
+        "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e15\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21 (Changed)",
+        "url": "https://open.spotify.com/album/6k0Frmgoclu4EIJnLlP9vQ"
+      },
+      "artists": [
+        {
+          "name": "AYLA's",
+          "url": "https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e15\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21 (Changed)",
+      "url": "https://open.spotify.com/track/69nkOVHSHgN2AyZRXHfAeD"
+    },
+    {
+      "added_at": "2024-07-04 16:05:36",
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/3fmFGrUV5K4gN82pvxje31"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/30FlUAmPFIns6SaAeoLkQi"
+    },
+    {
+      "added_at": "2024-07-04 16:05:36",
+      "album": {
         "name": "sad girl",
         "url": "https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN"
       },
@@ -1243,22 +1275,6 @@
       "duration_ms": 148000,
       "name": "sad girl",
       "url": "https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM"
-    },
-    {
-      "added_at": "2024-07-04 16:05:36",
-      "album": {
-        "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e15\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21 (Changed)",
-        "url": "https://open.spotify.com/album/6k0Frmgoclu4EIJnLlP9vQ"
-      },
-      "artists": [
-        {
-          "name": "AYLA's",
-          "url": "https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e15\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21 (Changed)",
-      "url": "https://open.spotify.com/track/69nkOVHSHgN2AyZRXHfAeD"
     },
     {
       "added_at": "2024-07-04 16:05:36",
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2024-07-04 16:05:36",
       "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/3fmFGrUV5K4gN82pvxje31"
+        "name": "meringue doll",
+        "url": "https://open.spotify.com/album/7qeJaFdCP3hCLm2KFp96Ts"
       },
       "artists": [
         {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
         }
       ],
-      "duration_ms": 181714,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/30FlUAmPFIns6SaAeoLkQi"
+      "duration_ms": 253057,
+      "name": "meringue doll",
+      "url": "https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ"
     },
     {
       "added_at": "2024-07-04 16:05:36",
@@ -1311,22 +1327,6 @@
       "duration_ms": 165040,
       "name": "People Never Change - Radio Edit",
       "url": "https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9"
-    },
-    {
-      "added_at": "2024-07-04 16:05:36",
-      "album": {
-        "name": "meringue doll",
-        "url": "https://open.spotify.com/album/7qeJaFdCP3hCLm2KFp96Ts"
-      },
-      "artists": [
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
-        }
-      ],
-      "duration_ms": 253057,
-      "name": "meringue doll",
-      "url": "https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ"
     },
     {
       "added_at": "2024-07-04 16:05:36",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-07-04 16:05:36",
       "album": {
-        "name": "Toast",
-        "url": "https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb"
-      },
-      "artists": [
-        {
-          "name": "CLAUDIA",
-          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
-        }
-      ],
-      "duration_ms": 154105,
-      "name": "Toast",
-      "url": "https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s"
-    },
-    {
-      "added_at": "2024-07-04 16:05:36",
-      "album": {
         "name": "Jalaran Sadrah",
         "url": "https://open.spotify.com/album/65hiBZugUD4hPjDM4RurWC"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 259907,
       "name": "Etalase",
       "url": "https://open.spotify.com/track/4OAi6KATMr1C62OJwganVN"
+    },
+    {
+      "added_at": "2024-07-04 16:05:36",
+      "album": {
+        "name": "Toast",
+        "url": "https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb"
+      },
+      "artists": [
+        {
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s"
     },
     {
       "added_at": "2024-07-04 16:05:36",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2024-07-04 16:05:36",
       "album": {
-        "name": "Life Goes On",
-        "url": "https://open.spotify.com/album/6UMgTaIuqcZh5GXW7zbX6s"
-      },
-      "artists": [
-        {
-          "name": "YA\u00d8",
-          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
-        },
-        {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        }
-      ],
-      "duration_ms": 176216,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/4Id1V7jy2XXmCYWIflaq8Z"
-    },
-    {
-      "added_at": "2024-07-04 16:05:36",
-      "album": {
         "name": "UMAMI",
         "url": "https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 202000,
       "name": "UMAMI",
       "url": "https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8"
+    },
+    {
+      "added_at": "2024-07-04 16:05:36",
+      "album": {
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/6UMgTaIuqcZh5GXW7zbX6s"
+      },
+      "artists": [
+        {
+          "name": "YA\u00d8",
+          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
+        },
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "duration_ms": 176216,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/4Id1V7jy2XXmCYWIflaq8Z"
     },
     {
       "added_at": "2024-07-04 16:05:36",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-07-04 16:05:36",
       "album": {
+        "name": "The Greng Jai Piece",
+        "url": "https://open.spotify.com/album/1I9TAJhnJucoNfu2KX8Hcg"
+      },
+      "artists": [
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "duration_ms": 228888,
+      "name": "Loving And Letting Go",
+      "url": "https://open.spotify.com/track/3Zv4HZiyM8TeAbYGdWysXw"
+    },
+    {
+      "added_at": "2024-07-04 16:05:36",
+      "album": {
         "name": "tired",
         "url": "https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA"
       },
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2024-07-04 16:05:36",
       "album": {
-        "name": "The Greng Jai Piece",
-        "url": "https://open.spotify.com/album/1I9TAJhnJucoNfu2KX8Hcg"
-      },
-      "artists": [
-        {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
-        }
-      ],
-      "duration_ms": 228888,
-      "name": "Loving And Letting Go",
-      "url": "https://open.spotify.com/track/3Zv4HZiyM8TeAbYGdWysXw"
-    },
-    {
-      "added_at": "2024-07-04 16:05:36",
-      "album": {
         "name": "Love, Again",
         "url": "https://open.spotify.com/album/4h6KumY8NGiN5wVXexLl18"
       },
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-07-04 16:05:36",
       "album": {
-        "name": "No Cares Era",
-        "url": "https://open.spotify.com/album/5FZpZ3glnOilS48UA4C5aB"
-      },
-      "artists": [
-        {
-          "name": "Valentina Ploy",
-          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
-        }
-      ],
-      "duration_ms": 200425,
-      "name": "No Cares Era",
-      "url": "https://open.spotify.com/track/1dI9QSKVCt4uXHzGVuBRLa"
-    },
-    {
-      "added_at": "2024-07-04 16:05:36",
-      "album": {
         "name": "Correspondances",
         "url": "https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 148000,
       "name": "\u58f0\u3092\u805e\u304b\u305b\u3066",
       "url": "https://open.spotify.com/track/0ZJmMINFDqxtS5QhZzMjWh"
+    },
+    {
+      "added_at": "2024-07-04 16:05:36",
+      "album": {
+        "name": "No Cares Era",
+        "url": "https://open.spotify.com/album/5FZpZ3glnOilS48UA4C5aB"
+      },
+      "artists": [
+        {
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+        }
+      ],
+      "duration_ms": 200425,
+      "name": "No Cares Era",
+      "url": "https://open.spotify.com/track/1dI9QSKVCt4uXHzGVuBRLa"
     }
   ],
   "unique_name": ".ORG",

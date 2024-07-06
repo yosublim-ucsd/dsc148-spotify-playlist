@@ -4,7 +4,7 @@
 
 > New Music from Simi, Qing Madi, Eminem and more
 
-284 songs - 13 hr 40 min
+285 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Lose](https://open.spotify.com/track/0QQCiP9RQJXn5FhibrS9mf) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Lose](https://open.spotify.com/album/5Npbu5A0KNYnf51FsRZ8Sz) | 3:50 | 2024-07-05 |  |
 | [Love Game](https://open.spotify.com/track/1t43A2SrVfO5rMLwwVuoYM) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Love Game](https://open.spotify.com/album/3GP7Wd3HJivgATV7JEcfqm) | 3:29 | 2024-06-21 | 2024-06-28 |
 | [LOVE OR LAMBA](https://open.spotify.com/track/4jkIybqZVorJl9tUsurxLH) | [Kobi Jonz](https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR) | [LOVE OR LAMBA](https://open.spotify.com/album/0B7OiCfdcXs7a68aYvm6wP) | 2:33 | 2024-06-28 | 2024-07-05 |
-| [Love or trust](https://open.spotify.com/track/6N5FrRW8pn0UEmVt2sACyf) | [Klever](https://open.spotify.com/artist/1J7WTTDZCjKnAyQz3Lg6PY), [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Love or trust](https://open.spotify.com/album/1057dxJtveKgyHOEG63jXK) | 2:46 | 2024-07-05 |  |
+| [Love or lust](https://open.spotify.com/track/6N5FrRW8pn0UEmVt2sACyf) | [Klevarr](https://open.spotify.com/artist/5vSwQzCx4pmaarv2EaT4Z7), [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Love or lust](https://open.spotify.com/album/1057dxJtveKgyHOEG63jXK) | 2:46 | 2024-07-05 |  |
 | [Low Key \(feat\. Humby\)](https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Humby](https://open.spotify.com/artist/48qllQaUjZZOijgvJrHtag) | [Low Key \(feat\. Humby\)](https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl) | 3:36 | 2024-06-07 | 2024-06-14 |
 | [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 | 2024-06-07 | 2024-06-14 |
 | [Ma Cherie \(Remix\)](https://open.spotify.com/track/4Rv6zpv0GZvlwynha2iLTN) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Ma Cherie \(Remix\)](https://open.spotify.com/album/27kBORRwppfjBcXrfE1Suc) | 2:52 | 2024-06-07 | 2024-06-14 |
@@ -172,6 +172,7 @@
 | [My Heart](https://open.spotify.com/track/0U8tAKDSunJl0Vo64GcqlW) | [Konstance](https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [My Heart](https://open.spotify.com/album/3OmSaK7TjzoCcdB1uZDYAz) | 2:36 | 2024-06-28 | 2024-07-05 |
 | [Naija Anthem \- Afro Version](https://open.spotify.com/track/7BMECN8ISbVJaGG0dJ3uy0) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m) | [Naija Anthem \(Afro Version\)](https://open.spotify.com/album/1xQQxue3uG1jmx8yvEzdoX) | 2:31 | 2024-06-14 | 2024-06-21 |
 | [Nama naa la torop](https://open.spotify.com/track/6XmCfKWS166RgtEBodiS2C) | [Dawda](https://open.spotify.com/artist/5CtgmVTepFFoGGtuXsPKFj) | [Nama naa la torop](https://open.spotify.com/album/6nM1gPpJcICvp9GWFFDdgP) | 2:58 | 2024-07-05 |  |
+| [NAN](https://open.spotify.com/track/0CbXAQ9r0pvnQC9WAbZij4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [NAN](https://open.spotify.com/album/1wkQpHtCqwnHzWJ9aNHANu) | 1:55 | 2024-07-05 |  |
 | [Nashona Item](https://open.spotify.com/track/48EPXhVdEjKo60RSap6Gzn) | [GRNDMSTR](https://open.spotify.com/artist/2qSdgy9Qw0enxM9EZRPKDC), [WeTalkSound](https://open.spotify.com/artist/5kPbvgX78vvZPQLrHHhf1w) | [Nashona Item](https://open.spotify.com/album/5SlDp95bFw3AIiOOyqtHTy) | 1:03 | 2024-06-28 | 2024-07-05 |
 | [Nduki \(feat\. dutchavelli\)](https://open.spotify.com/track/2fLXqKmxFQXZ5qcJVtBuCk) | [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Mbuzi](https://open.spotify.com/album/22lDZE5BEh0ZYMx0dPzx8j) | 3:21 | 2024-06-28 | 2024-07-05 |
 | [Necessary](https://open.spotify.com/track/5a46j5NDnRiYtX5JutdumB) | [Solidstar](https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX) | [Necessary](https://open.spotify.com/album/2gNR0OC0bm9ka74g9t8grs) | 2:44 | 2024-06-07 | 2024-06-14 |

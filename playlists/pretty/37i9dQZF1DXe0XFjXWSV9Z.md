@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,574 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,587 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 77 | [Invasión](https://open.spotify.com/track/3s7jL9o8vvhLmw4lV3xMHW) | [EsaMiPau!](https://open.spotify.com/artist/2lmxVMvK3ROVKHvLg23fei), [Jacinto y La Cumbia](https://open.spotify.com/artist/23IL1fbbI60l5k6fWuPk5W), [Yawarana Orquesta](https://open.spotify.com/artist/21QWbz8AInxH5PPteJwmDf), [Héctor Hernández](https://open.spotify.com/artist/2RMGPGcbneXvxE2fweAXja) | [Invasión](https://open.spotify.com/album/0ebWSgyvKLGBKOlf2BsMPI) | 4:08 |
 | 78 | [La Era del GigaHertz](https://open.spotify.com/track/7pUESHJMBtBRcUkls9wbvT) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [La Era del GigaHertz](https://open.spotify.com/album/6DPCgGaRIPO5BJUXlVlOhZ) | 5:06 |
 | 79 | [Bicicleta Intergalactica](https://open.spotify.com/track/4TWACVrN1zq2x16kABBBaU) | [Bacalao Men](https://open.spotify.com/artist/601e30gtHzQJEPnxcQDwKk) | [El Nuevo Bugalu](https://open.spotify.com/album/2SwzUlWaxbpEVr5GWURihF) | 4:30 |
-| 80 | [Voy de Aquí Pa'allá](https://open.spotify.com/track/34Tcii0RhnwUaWc5tupCoZ) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [Levante la Mano](https://open.spotify.com/album/2iQK6aPZQDGsoayymfySUJ) | 3:08 |
-| 81 | [Chucha](https://open.spotify.com/track/206oJ0ulnpsdfaxK8dJVD2) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Chucha](https://open.spotify.com/album/2jRnyhgUfDXCAbhmGWE4yZ) | 2:27 |
+| 80 | [Chucha](https://open.spotify.com/track/206oJ0ulnpsdfaxK8dJVD2) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Chucha](https://open.spotify.com/album/2jRnyhgUfDXCAbhmGWE4yZ) | 2:27 |
+| 81 | [Voy de Aquí Pa'allá](https://open.spotify.com/track/34Tcii0RhnwUaWc5tupCoZ) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [Levante la Mano](https://open.spotify.com/album/2iQK6aPZQDGsoayymfySUJ) | 3:08 |
 | 82 | [Ya](https://open.spotify.com/track/7F3girVxqXUFc75BEVrLq5) | [CHIFLIDO](https://open.spotify.com/artist/1j2ynZu5H24PDCnVsovPL1) | [Ya](https://open.spotify.com/album/7nzAbKNMTxGFlGloo6sytM) | 2:20 |
 | 83 | [La Camisola](https://open.spotify.com/track/2RG8t0NsauuHJX21ALqw0Y) | [Carmelo Torres & Los Toscos](https://open.spotify.com/artist/1N5QujMfmdnmeVnLTIOUJZ) | [El Chacho](https://open.spotify.com/album/1KpbX2DHAf3uhhnMe8MqIn) | 4:01 |
 | 84 | [Mary Sol](https://open.spotify.com/track/6hp9tqJr04dB0AZNhSILn5) | [Papi Perez](https://open.spotify.com/artist/58sA5PhdfixwU0PIfLNhRo), [Chirimoyo](https://open.spotify.com/artist/4ksypgLryHLmQe8fMl5wR3) | [Mary Sol](https://open.spotify.com/album/2LFNGr4OTi6fVNYAQE2GUh) | 4:10 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 96 | [Virgen de Guadalupe](https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T) | [Los Peñaloza](https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli) | [Virgen de Guadalupe](https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D) | 3:42 |
 | 97 | [Que Tumba](https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF) | [Romperayo](https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu) | [Que Tumba](https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr) | 3:16 |
 | 98 | [Quémalo](https://open.spotify.com/track/7mcCU3oiQoQppurDxSPVo6) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Quémalo](https://open.spotify.com/album/6L9dyeQJ9doBa5HPh7i8yY) | 3:40 |
-| 99 | [Cumbia del Pichamán](https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia Siglo XXI](https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR) | 3:17 |
-| 100 | [Sonaja y Tambor](https://open.spotify.com/track/2RnrVGQ0y3eRwGJNjYxJmA) | [Salterio Marsupial](https://open.spotify.com/artist/7yind2mqV2sMwUa6qoEysI), [Líber Terán](https://open.spotify.com/artist/5NkwN3sVPbeE8xnCCyVr9p) | [Sonaja y Tambor](https://open.spotify.com/album/2Y1M7UOgh5PDC4wxC5ksKL) | 3:57 |
+| 99 | [Sonaja y Tambor](https://open.spotify.com/track/2RnrVGQ0y3eRwGJNjYxJmA) | [Salterio Marsupial](https://open.spotify.com/artist/7yind2mqV2sMwUa6qoEysI), [Líber Terán](https://open.spotify.com/artist/5NkwN3sVPbeE8xnCCyVr9p) | [Sonaja y Tambor](https://open.spotify.com/album/2Y1M7UOgh5PDC4wxC5ksKL) | 3:57 |
+| 100 | [Dame Tu Wasap](https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw) | [Los Cotopla Boyz](https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV) | [Mamarron, Vol.1](https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy) | 5:20 |
 
 Snapshot ID: `Zn2k+gAAAAA5G8x6UpEuNtM6MXM9rAOS`

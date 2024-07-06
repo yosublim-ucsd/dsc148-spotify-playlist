@@ -4,7 +4,7 @@
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Luke Combs
 
-182 songs - 12 hr 30 min
+183 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [My Way \- Live at the Honolulu International Center](https://open.spotify.com/track/2VGkf2IJXOSWouDhatlH3i) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Aloha from Hawaii Via Satellite \(Live\)](https://open.spotify.com/album/6AUihdKWdT5evm91G7wirB) | 4:01 | 2024-05-04 |  |
 | [Need You Now \- Live](https://open.spotify.com/track/0B6xuiHFvxkiAtmGbbuSKB) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Spotify Live \(Live From Austin, TX\)](https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE) | 5:42 | 2021-07-22 |  |
 | [Next Thing You Know \- Live From The O2 London](https://open.spotify.com/track/3iqGOpRkz4V4juMd7ccyIl) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Next Thing You Know \(Live From The O2 London\)](https://open.spotify.com/album/7eSlozbGidbOROgKxcNkOU) | 3:01 | 2023-05-19 |  |
-| [No One Else On Earth \- Live](https://open.spotify.com/track/5dNlMKYjk6BsTEKrZX61mT) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [No One Else On Earth \(Live\)](https://open.spotify.com/album/62uaZ5wUlfUwMn7eEJ9v1G) | 4:44 | 2024-06-07 |  |
+| [No One Else On Earth \- Live](https://open.spotify.com/track/5dNlMKYjk6BsTEKrZX61mT) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [No One Else On Earth \(Live\)](https://open.spotify.com/album/62uaZ5wUlfUwMn7eEJ9v1G) | 4:44 | 2024-06-07 | 2024-07-06 |
 | [Nobody But You \(Duet with Gwen Stefani\) \- Live](https://open.spotify.com/track/3twoyaIBmqSyBkIxTQYl5m) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Nobody But You \(Duet with Gwen Stefani\) \[Live\]](https://open.spotify.com/album/28JOBmOhSs9ssOBgbxGTrp) | 3:30 | 2021-07-22 |  |
 | [Okie From Muskogee \- Live In Muskogee, Oklahoma/1969](https://open.spotify.com/track/4b65hP5xZvthkSTkCSJuVs) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Okie From Muskogee \(Live In Muskogee, Oklahoma/1969\)](https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6) | 4:08 | 2024-05-04 |  |
 | [Oklahoma Smokeshow \- Live](https://open.spotify.com/track/38L9BdfJKkWGwot9GWIXMz) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [All My Homies Hate Ticketmaster \(Live from Red Rocks\)](https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH) | 3:33 | 2022-12-25 |  |
@@ -156,6 +156,7 @@
 | [Sundown \- Live at the Fillmore New York at Irving Plaza, 2010](https://open.spotify.com/track/2RBfevYbpxycnnzBXZUwEi) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets in the Gun](https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH) | 4:33 | 2024-05-04 |  |
 | [Take Me Home, Country Roads \- Live at the Universal Amphitheatre, Los Angeles, CA \- August/September 1974](https://open.spotify.com/track/6sPWx6muyq4EQ7edBCqVTy) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [An Evening With John Denver](https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4) | 3:18 | 2024-05-04 |  |
 | [Talladega \- Live At Legacy Arena At The BJCC, Birmingham, AL / February 17, 2017](https://open.spotify.com/track/6q50UDwq3vgqH7Itt2CME7) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 1](https://open.spotify.com/album/2dZjAdGqTcHgYS0tuW4KVR) | 4:19 | 2021-07-22 |  |
+| [Tell Me Why \- Live](https://open.spotify.com/track/1plzgdb3hbyAYa5t2DcBrV) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Tell Me Why \(Live\)](https://open.spotify.com/album/2eiFxvSfTfCuAi0TgSbMT7) | 3:32 | 2024-06-28 |  |
 | [Thank God \- Live from Fenway](https://open.spotify.com/track/5cpNbiyqYcWtOy6C6TR5EC) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Thank God \(Live from Fenway\)](https://open.spotify.com/album/1FwfnEMU23NCsVbgMJBLC8) | 4:00 | 2023-08-18 |  |
 | [Thank God I'm a Country Boy \- Live at the Universal Amphitheatre, Los Angeles, CA \- August/September 1974](https://open.spotify.com/track/7sVfJHBjH9cr4XsTYAwNYI) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [An Evening With John Denver](https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4) | 3:40 | 2024-05-04 |  |
 | [The First Cut Is The Deepest \- Live from the Ryman/2019](https://open.spotify.com/track/2XmHi7tiJKashUfWs3Ser3) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Live From the Ryman And More](https://open.spotify.com/album/6umHfVdm0kTvSVsasefD6U) | 4:04 | 2021-08-13 | 2024-05-05 |

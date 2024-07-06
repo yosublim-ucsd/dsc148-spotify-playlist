@@ -2076,7 +2076,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 179551,
       "name": "Feeling Like A Plant",
       "url": "https://open.spotify.com/track/3oabWSuwImdNajR9s46Sdu"
@@ -5304,6 +5304,24 @@
       "duration_ms": 203680,
       "name": "Miroir",
       "url": "https://open.spotify.com/track/5TDFaPYthBso4zax3EbpAO"
+    },
+    {
+      "album": {
+        "name": "Moi je t'aime",
+        "url": "https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177556,
+      "name": "Moi je t'aime",
+      "url": "https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg"
     },
     {
       "album": {

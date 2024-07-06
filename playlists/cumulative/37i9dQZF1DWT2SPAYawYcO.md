@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Zach Bryan
 
-4,707 songs - 10 day 14 hr 46 min
+4,708 songs - 10 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2796,6 +2796,7 @@
 | [Naked Eye](https://open.spotify.com/track/1964OnoI5ceUXsyX478MTK) | [Keelan Mak](https://open.spotify.com/artist/4xSveO2Pb18Jyl2f7xW8SW) | [Naked Eye](https://open.spotify.com/album/6IR5I5Rdfg26xz282ywM6L) | 3:15 | 2024-05-09 | 2024-05-17 |
 | [Name of God](https://open.spotify.com/track/6gOxexvj0mjwnRRrLXT1cB) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Name of God](https://open.spotify.com/album/1bKT0c0tDqVeHx3G4VPGai) | 3:28 | 2023-10-19 | 2023-10-27 |
 | [Names](https://open.spotify.com/track/69GjbMCrVifiA9i6Coqjx9) | [Miles Nautu](https://open.spotify.com/artist/0o5U1p6ZUurte1gamdqmLI), [Marigold](https://open.spotify.com/artist/1qxMrN7GOPfiFkC8H0rKh6) | [Names](https://open.spotify.com/album/7CttQhlKWFVS8Ke8axRr4i) | 2:33 | 2024-05-02 | 2024-05-10 |
+| [NAN](https://open.spotify.com/track/0CbXAQ9r0pvnQC9WAbZij4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [NAN](https://open.spotify.com/album/1wkQpHtCqwnHzWJ9aNHANu) | 1:55 | 2024-07-04 |  |
 | [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-05-16 | 2024-05-24 |
 | [Nashville High](https://open.spotify.com/track/4Vj74kLbuZAspnESjpcE83) | [Mick Harvey](https://open.spotify.com/artist/5RyAbJ3y4yw8EbDcRblB8S) | [Five Ways to Say Goodbye](https://open.spotify.com/album/19DIxjkdllcQIbPhNIPtqG) | 5:04 | 2024-05-09 | 2024-05-17 |
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-04-11 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > 
 
-302 songs - 17 hr 55 min
+303 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 | 2023-07-13 |  |
 | [Guest List](https://open.spotify.com/track/4wu8x5GMH1GTZEAbDaMHz8) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [shndō](https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH), [CHASE PAVES](https://open.spotify.com/artist/3NUNrKJ3ZOClTAMjDgE5yz) | [Im Feelin Good / Guest List](https://open.spotify.com/album/12uLijMmrBkTCPakE4kkLk) | 3:54 | 2023-07-13 |  |
 | [Heads Will Roll \- Little Vampire Remix](https://open.spotify.com/track/761ruPUsyO07RkPdx6HmYl) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Heads Will Roll \(Remixes\)](https://open.spotify.com/album/4xvA2ogfpQM2sktH8F5Pc6) | 4:46 | 2021-10-01 |  |
+| [Heartless](https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [808s & Heartbreak](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU) | 3:31 | 2024-07-06 |  |
 | [Hell Shell](https://open.spotify.com/track/5fO4ybFbomoSWPB3n2d6pe) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Nudy Land](https://open.spotify.com/album/07pAbeTv7PS5m7VUQ5zGuO) | 2:42 | 2023-07-13 |  |
 | [Hex](https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [Hex](https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ) | 2:02 | 2023-07-13 |  |
 | [Hey Baby \(Drop It to the Floor\) \(feat\. T\-Pain\)](https://open.spotify.com/track/3rfhI32Il2hVRKDkuGeeen) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Planet Pit \(Deluxe Version\)](https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB) | 3:54 | 2021-10-01 |  |

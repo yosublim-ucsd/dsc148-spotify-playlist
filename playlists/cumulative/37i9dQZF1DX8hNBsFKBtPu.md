@@ -2,9 +2,9 @@
 
 ### [Ny Pop \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX8hNBsFKBtPu)
 
-> The Kid LAROI 💚 GIRLS
+> Beinir ❤️‍🔥 Dopha
 
-121 songs - 6 hr 11 min
+124 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,8 +18,8 @@
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-06-27 |  |
 | [Better Days](https://open.spotify.com/track/7E1kK0D0goo85p02ZAoa8Y) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Better Days](https://open.spotify.com/album/64OLfOz30pmwGnjngRodRT) | 3:38 | 2024-06-27 |  |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-27 |  |
-| [Blåregn](https://open.spotify.com/track/3CDYrDINLxRhjvvqbSaryC) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Blåregn / 10/10](https://open.spotify.com/album/6BPaKbKBo3mbcgsNl1o3mh) | 3:07 | 2024-06-27 |  |
-| [Cheat Code](https://open.spotify.com/track/3rGYQLxtPkFSgrEPkgUX5t) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Cheat Code](https://open.spotify.com/album/4n6aFAgYI9y2bY9IaoB6VW) | 2:29 | 2024-06-27 |  |
+| [Blåregn](https://open.spotify.com/track/3CDYrDINLxRhjvvqbSaryC) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Blåregn / 10/10](https://open.spotify.com/album/6BPaKbKBo3mbcgsNl1o3mh) | 3:07 | 2024-06-27 | 2024-07-06 |
+| [Cheat Code](https://open.spotify.com/track/3rGYQLxtPkFSgrEPkgUX5t) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Cheat Code](https://open.spotify.com/album/4n6aFAgYI9y2bY9IaoB6VW) | 2:29 | 2024-06-27 | 2024-07-06 |
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-27 |  |
 | [Cold](https://open.spotify.com/track/3yTxDUuueSjhtsK1ea3Lbp) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cold](https://open.spotify.com/album/6dSayYt3E6jPTp66PcXsrI) | 2:50 | 2024-06-27 |  |
 | [Company](https://open.spotify.com/track/6IQvWaVOykPkINlpdfULOr) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Company](https://open.spotify.com/album/6UGQ1xOA8bl8aSOqtfQk3Y) | 2:26 | 2024-06-27 |  |
@@ -40,8 +40,9 @@
 | [Et For Dig](https://open.spotify.com/track/1GJLUl8G9AEvZ3W5zFEQ54) | [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq) | [Et For Dig](https://open.spotify.com/album/1ausI3KEdJkT435B6u4nGY) | 2:42 | 2024-06-27 |  |
 | [Fartblind](https://open.spotify.com/track/5ap2LagBiIXYkxuROXgv9q) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Fartblind](https://open.spotify.com/album/7EoVkxuxuEOqh483a52H8f) | 3:38 | 2024-06-27 |  |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-27 |  |
-| [Ferrari](https://open.spotify.com/track/6pIQxaY3KwmYSAowTxssZW) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [the last 90s bitch](https://open.spotify.com/album/3iuUD5t9JpxeISE6LNYafg) | 2:41 | 2024-06-27 |  |
+| [Ferrari](https://open.spotify.com/track/6pIQxaY3KwmYSAowTxssZW) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [the last 90s bitch](https://open.spotify.com/album/3iuUD5t9JpxeISE6LNYafg) | 2:41 | 2024-06-27 | 2024-07-06 |
 | [Finde Tilbage](https://open.spotify.com/track/1UNf3igHn4Gvl0YApRbbZP) | [Danser Med Piger](https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS) | [Finde Tilbage](https://open.spotify.com/album/6cIiFImHSjUAOj4C4UUniJ) | 2:51 | 2024-06-27 |  |
+| [For The Love Of You](https://open.spotify.com/track/3hBJzRjC7HLxJOXEg8PEiN) | [Hush](https://open.spotify.com/artist/6F5xUbHE5eHGoGBS4IMWPj) | [For The Love Of You](https://open.spotify.com/album/0AUwUepLLK2EoZBAcE5K5U) | 3:35 | 2024-07-05 |  |
 | [For The Show](https://open.spotify.com/track/5nq49A7NUjar8G7tiVfWnc) | [SOL](https://open.spotify.com/artist/7FZzDJqjzhkZi4V4SJnQWj) | [For The Show](https://open.spotify.com/album/5mzVQJPAL75eUyIFT4TEjb) | 3:04 | 2024-06-27 |  |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-06-27 |  |
 | [Færdig Med Pis?](https://open.spotify.com/track/76ebYJn6WUdOZuYvlqka5r) | [Jung](https://open.spotify.com/artist/2P6G4CYRAhpRKMXy097RSL) | [Færdig Med Pis?](https://open.spotify.com/album/1bSnvK3278AA7cKRnRbWTb) | 2:52 | 2024-06-27 |  |
@@ -125,7 +126,9 @@
 | [Wake Up](https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:46 | 2024-06-27 |  |
 | [Ways To Go \(feat\. Khalid\)](https://open.spotify.com/track/4NuS3N2ip2WkR74a3fr3K6) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [12 Notes](https://open.spotify.com/album/4ZavFNoQHApc5NExeJl5Xj) | 2:34 | 2024-06-27 |  |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 | 2024-06-27 |  |
+| [What Can I Say](https://open.spotify.com/track/2PP5711DTbZBdKIE420QIa) | [Luke Alvin](https://open.spotify.com/artist/484n5top8RJk6NL3mGasDc), [20xx](https://open.spotify.com/artist/5Fn2scSzPPkJTKJrH4nI6b) | [What Can I Say](https://open.spotify.com/album/7CTcEiQMYMZCjPchXqAgfk) | 2:27 | 2024-07-05 |  |
 | [What Do You Believe In?](https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In?](https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP) | 3:10 | 2024-06-27 |  |
+| [When I Open My Eyes](https://open.spotify.com/track/0thJsODpMsCoEaE1c7GCfL) | [Beinir](https://open.spotify.com/artist/0SA6vUUcuORGdt3ZjjJzjf), [Dopha](https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn) | [When I Open My Eyes](https://open.spotify.com/album/5fK5IMWLlxJ7V0lc8KWjkD) | 2:31 | 2024-07-05 |  |
 | [Winner \(Heartbreak of The Year\)](https://open.spotify.com/track/2BLLEsyUhgi2CwAmN6LGk4) | [Tamara Mneney](https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV) | [Winner \(Heartbreak of The Year\)](https://open.spotify.com/album/5CxgCBXCKVI1J1qf5OSokp) | 3:24 | 2024-06-27 |  |
 | [You Found Me](https://open.spotify.com/track/0xr8Vdy7svQMJXicR1XWEt) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [You Found Me](https://open.spotify.com/album/0A4r9XhPvTM5Axc2ctn3Kv) | 3:27 | 2024-06-27 |  |
 | [You Only Say You Love Me When You're Drunk](https://open.spotify.com/track/4lJaSZx6Pg4FmEPK4b6tx2) | [EYJAA](https://open.spotify.com/artist/3Izf45JtVxEjBMvq5vJOsg) | [You Only Say You Love Me When You're Drunk](https://open.spotify.com/album/5FD14A1Wu21djP0xLB3W4M) | 3:05 | 2024-06-27 |  |

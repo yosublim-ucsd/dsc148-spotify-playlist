@@ -1,33 +1,13 @@
 {
-  "description": "This Is BIA. Los temas esenciales, todos en una lista.",
-  "num_followers": 14465,
+  "description": "This is BIA. The essential tracks, all in one playlist.",
+  "num_followers": 14468,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAAAJoqk1wIXjzYql1Amtmhom",
+  "snapshot_id": "ZoXmAAAAAAB5SAiy6r4MCSjJMLK62OzB",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "LIGHTS OUT",
-        "url": "https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 198352,
-      "name": "LIGHTS OUT",
-      "url": "https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb"
-    },
     {
       "added_at": null,
       "album": {
@@ -103,6 +83,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "Bamba (feat. Aitch & BIA)",
+      "url": "https://open.spotify.com/track/7sJNeWTXkZCEC7OnFMpGWL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SHAKE THE SNOW GLOBE",
         "url": "https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk"
       },
@@ -119,6 +123,26 @@
       "duration_ms": 160720,
       "name": "BEST ON EARTH (feat. BIA) - Bonus",
       "url": "https://open.spotify.com/track/0xKBkLcF71uUQeTA7FSu4A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIGHTS OUT",
+        "url": "https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 198352,
+      "name": "LIGHTS OUT",
+      "url": "https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb"
     },
     {
       "added_at": null,
@@ -811,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yeah (with BIA)",
-        "url": "https://open.spotify.com/album/4CalADPdJKv4vtRvZlwrcC"
-      },
-      "artists": [
-        {
-          "name": "Lebra Jolie",
-          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 140875,
-      "name": "Yeah (with BIA)",
-      "url": "https://open.spotify.com/track/7ktRp04laieDdnGcon2QVX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Distrito Federal",
         "url": "https://open.spotify.com/album/6ojf6Hfhj5NtQLRMiCRaFt"
       },
@@ -851,6 +855,26 @@
       "duration_ms": 172078,
       "name": "Vamos",
       "url": "https://open.spotify.com/track/4gbRykMoB7dM0okw4DHj5J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yeah (with BIA)",
+        "url": "https://open.spotify.com/album/4CalADPdJKv4vtRvZlwrcC"
+      },
+      "artists": [
+        {
+          "name": "Lebra Jolie",
+          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 140875,
+      "name": "Yeah (with BIA)",
+      "url": "https://open.spotify.com/track/7ktRp04laieDdnGcon2QVX"
     },
     {
       "added_at": null,
@@ -1047,22 +1071,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SIXTEEN",
-        "url": "https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 152948,
-      "name": "SIXTEEN",
-      "url": "https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FOR CERTAIN (Deluxe)",
         "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
       },
@@ -1083,50 +1091,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pi\u00f1ata (feat. BIA, Kap G & Justin Quiles)",
-        "url": "https://open.spotify.com/album/6rYMjTdVEaCgI25ZVNwVca"
-      },
-      "artists": [
-        {
-          "name": "Vice",
-          "url": "https://open.spotify.com/artist/0q4NrXqJnc367PieejuROJ"
-        },
-        {
-          "name": "Kap G",
-          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "Pi\u00f1ata (feat. BIA, Kap G & Justin Quiles)",
-      "url": "https://open.spotify.com/track/1K2xnKlPqXhLuTwPkQxmrJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REALLY HER (INTL DELUXE)",
-        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
+        "name": "SIXTEEN",
+        "url": "https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN"
       },
       "artists": [
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
         }
       ],
-      "duration_ms": 142258,
-      "name": "DON'T TELL (feat. Juicy J)",
-      "url": "https://open.spotify.com/track/058XdfrLCP1tPxnc39ibGy"
+      "duration_ms": 152948,
+      "name": "SIXTEEN",
+      "url": "https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl"
     }
   ],
   "unique_name": "This Is BIA",

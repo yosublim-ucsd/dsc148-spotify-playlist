@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-273 songs - 16 hr 56 min
+274 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Different Directions](https://open.spotify.com/track/30QM80woaoPtONO99xRyyw) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Different Directions](https://open.spotify.com/album/4VOq3YC6cWd1kULS0oKEKL) | 3:51 | 2022-07-15 | 2022-08-13 |
 | [Disco](https://open.spotify.com/track/4Wi7j71MROAcJPSTT11HQy) | [Gjon's Tears](https://open.spotify.com/artist/0RIwEP1SaALlxn9jOVqHfA) | [Disco](https://open.spotify.com/album/2yXcDJCkVy5aEgkEzI1cxO) | 3:50 | 2023-04-07 | 2023-06-03 |
 | [Disco Save My Life](https://open.spotify.com/track/0Rh5XomjOtIYabPhtZ1TyV) | [Babert](https://open.spotify.com/artist/2WyIaamOi8lW7R7nhGMDoe) | [Disco Save My Life](https://open.spotify.com/album/6uuicoy9ap6PS9vR8qpHBF) | 5:26 | 2023-07-07 |  |
+| [Disco Snails](https://open.spotify.com/track/6DpcY8DLvDyMjJri97HNFy) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Zachary Barker](https://open.spotify.com/artist/5qUT1yYC5tJiz928OCYG1c) | [Disco Snails](https://open.spotify.com/album/3b13wU9zmyxbMn5bNVfEgZ) | 3:13 | 2024-07-05 |  |
 | [Discoproof](https://open.spotify.com/track/0CQcUsyDEfKsHWDDF3h2C1) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Discoproof](https://open.spotify.com/album/3uMU0ZiDp3MDBypUiVKGYh) | 3:52 | 2023-08-25 |  |
 | [Do I Do \- Radio Edit](https://open.spotify.com/track/0GzNOBgWu5468S9emhSFRv) | [Micky More & Andy Tee](https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN), [Angela Johnson](https://open.spotify.com/artist/6OCcrLBIO5JCdDMUU6h35w) | [Do I Do \(Radio Edit\)](https://open.spotify.com/album/6mXfyALqYhNgAKKBIlgyY3) | 3:29 | 2022-05-20 | 2024-04-27 |
 | [Do You Wanna \(BoogieKnights ReThink\)](https://open.spotify.com/track/6LSXQaauJxBhFv0NGJkOyh) | [Rokwell](https://open.spotify.com/artist/1NOc6Hatk5Jo0dxGxYpj3X), [BoogieKnights](https://open.spotify.com/artist/3wJU7ygNJY0wWWhwZVYnI0) | [Do You Wanna \(BoogieKnights ReThink\)](https://open.spotify.com/album/3P2FzPaQy1NAU1ggwMevY5) | 4:18 | 2023-01-20 |  |
@@ -163,7 +164,7 @@
 | [Lost & Found](https://open.spotify.com/track/0t333Rq2na4uyt29VfXU1s) | [LOU'ANA](https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7) | [Lost & Found](https://open.spotify.com/album/4ASxmYeXQfUMcaDAxAgx2a) | 3:59 | 2022-11-25 | 2024-03-23 |
 | [Lost & Found](https://open.spotify.com/track/6A7HqsKxJMFhu445YhVEes) | [LOU'ANA](https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7) | [Lost & Found](https://open.spotify.com/album/3HZENo8xClrt9dUyFubNrl) | 3:59 | 2022-11-25 | 2023-07-27 |
 | [Lost Tonight](https://open.spotify.com/track/7yz9JSRAHicHMCzXUT4OBq) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF), [Danny Dearden](https://open.spotify.com/artist/52kE0a8ilvPQop3NN7tplj) | [Lost Tonight](https://open.spotify.com/album/40EL8JYJETe50ES1GN39Kp) | 2:51 | 2022-05-20 | 2023-12-02 |
-| [Love And Appreciation \- Radio Edit](https://open.spotify.com/track/7a506fRBFFXnalrqcjj3eT) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Love And Appreciation \(Radio Edit\)](https://open.spotify.com/album/7HYTTSaO6GJ7OQIi4cb558) | 3:08 | 2022-08-26 |  |
+| [Love And Appreciation \- Radio Edit](https://open.spotify.com/track/7a506fRBFFXnalrqcjj3eT) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Love And Appreciation \(Radio Edit\)](https://open.spotify.com/album/7HYTTSaO6GJ7OQIi4cb558) | 3:08 | 2022-08-26 | 2024-07-06 |
 | [Love Like That](https://open.spotify.com/track/4SeRgGadREC8IIbRuhs6Rd) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf) | [Love Like That](https://open.spotify.com/album/4mYaGC7BV3dTYtS6c34ftw) | 3:18 | 2023-03-10 | 2023-04-01 |
 | [Lucid](https://open.spotify.com/track/55P4JZd6AIy0uw7Idyod5e) | [Leif](https://open.spotify.com/artist/18Hmt48JdoqU1aNfFjlXEN), [J Matty](https://open.spotify.com/artist/1TNhcMWtFXnVTeBHyVQkfw) | [Lucid](https://open.spotify.com/album/3nCkMF4a6k4y53S5esgacG) | 2:46 | 2022-09-30 | 2023-03-11 |
 | [Magic](https://open.spotify.com/track/79IUJvJMFv3rOvKTs0eIhr) | [dazeychain](https://open.spotify.com/artist/6nRyak5Bpqz95OwA9JUBVE), [The Wildcardz](https://open.spotify.com/artist/5pcPCj25V5zH3ly8v6JF8L) | [Magic](https://open.spotify.com/album/1FH0tgNLVXGIYwQO5o7YLc) | 2:29 | 2022-11-18 | 2023-05-27 |

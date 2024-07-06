@@ -2897,6 +2897,28 @@
     },
     {
       "album": {
+        "name": "Kuingin",
+        "url": "https://open.spotify.com/album/4ETmD2ooVCjpVhjNNBNuUG"
+      },
+      "artists": [
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        },
+        {
+          "name": "The Groove",
+          "url": "https://open.spotify.com/artist/4k9NyPZz7zajxboTKM17qa"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Satu Mimpiku",
+      "url": "https://open.spotify.com/track/34M7BB5zhcLbuXec2Mbggv"
+    },
+    {
+      "album": {
         "name": "Satu Tuju",
         "url": "https://open.spotify.com/album/1OyDDO3hE5d5tNsoSqxgaf"
       },

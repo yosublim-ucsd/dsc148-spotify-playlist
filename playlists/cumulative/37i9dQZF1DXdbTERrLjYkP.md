@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Juliet Ivy
+> Discover the next wave of talent writing their own songs\. Cover: Grace Power
 
-696 songs - 1 day 13 hr 1 min
+697 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -541,7 +541,7 @@
 | [Since I Met You](https://open.spotify.com/track/34VVaSIR9qIwlz8tihRMPq) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [If It's Not Forever](https://open.spotify.com/album/5OhIJcMEADcrAKH5kkAvzT) | 4:30 | 2022-07-22 | 2022-08-20 |
 | [Single in September \- Acoustic](https://open.spotify.com/track/4Q0HFo67Jq6ySobJooMpOJ) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Single in September \(Acoustic\)](https://open.spotify.com/album/1n450BAtvB1tYqdBo5wnWj) | 3:20 | 2022-03-25 | 2022-04-23 |
 | [Skeleton Key](https://open.spotify.com/track/3cUcHmvK9cYmOzJsa6BjXu) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Skeleton Key](https://open.spotify.com/album/2M6ggaZ4w9Qnuu7VW5rF3q) | 2:59 | 2022-12-02 | 2023-02-25 |
-| [Skin](https://open.spotify.com/track/3Jeo5LzCcMBtdFlp1FqpsN) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Skin](https://open.spotify.com/album/3l3z8fcI2FMAcCMq1wcd3E) | 3:35 | 2024-01-19 |  |
+| [Skin](https://open.spotify.com/track/3Jeo5LzCcMBtdFlp1FqpsN) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Skin](https://open.spotify.com/album/3l3z8fcI2FMAcCMq1wcd3E) | 3:35 | 2024-01-19 | 2024-07-06 |
 | [Sky Up](https://open.spotify.com/track/7zHWEEujRkOoFIACmVZLmG) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Sky Up](https://open.spotify.com/album/17URfXjuXdGaAYw7ecG8M9) | 3:36 | 2024-01-19 |  |
 | [Skylight](https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Skylight](https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY) | 4:00 | 2022-01-14 | 2022-04-02 |
 | [Sleepy](https://open.spotify.com/track/1uw7DIRDt68BtoYhavfRca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Sleepy](https://open.spotify.com/album/1UtBW3nzfD7d7Qt4Hsm1YQ) | 3:08 | 2022-09-09 | 2022-11-12 |
@@ -664,6 +664,7 @@
 | [Way Up](https://open.spotify.com/track/0oCnBvlZRGf5xJQfiJRMLI) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Way Up](https://open.spotify.com/album/1O8oAeo6twKIsRW6PLDUuX) | 2:30 | 2022-02-11 | 2022-02-26 |
 | [we were girls together](https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [we were girls together](https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj) | 2:17 | 2023-06-30 | 2023-12-14 |
 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 | 2022-03-28 | 2022-10-29 |
+| [Weeping Willow](https://open.spotify.com/track/2637H4or8sjAJ08Dnvq7fX) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Weeping Willow](https://open.spotify.com/album/7imiiEYZmcrbNMpSFq9JlN) | 2:56 | 2024-07-05 |  |
 | [Wella](https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Wella](https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF) | 2:49 | 2024-06-07 |  |
 | [What Did I Do?](https://open.spotify.com/track/3olUFMwgASQGeXrlm4g6OH) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [What Did I Do?](https://open.spotify.com/album/74WdQxAgACeqOaId2H4W7I) | 3:35 | 2022-01-14 | 2022-09-10 |
 | [What Does Sorry Mean](https://open.spotify.com/track/0hRCg9wtCKF0NhTrogZ6qF) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [What Does Sorry Mean](https://open.spotify.com/album/1fH8s1jiVXfxVB9WkdzzXf) | 3:01 | 2022-09-09 | 2022-12-24 |

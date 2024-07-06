@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: BABYMONSTER
 
-11,271 songs - 25 day 17 hr 20 min
+11,273 songs - 25 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7698,6 +7698,7 @@
 | [RIGHT OR WRONG \(HYPNOSIS\)](https://open.spotify.com/track/59ze8lLaqAIamVOBx46RcQ) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [RIGHT OR WRONG \(HYPNOSIS\)](https://open.spotify.com/album/0FijhrXIqeHShfcww5Smb0) | 2:41 | 2023-01-19 | 2023-01-27 |
 | [Right People Wrong Time](https://open.spotify.com/track/0TPogBqvsj6i1h6vclDYX1) | [Kim!](https://open.spotify.com/artist/2EVVSRpRPI6B5xw6cbaXCa) | [Right People Wrong Time](https://open.spotify.com/album/4mVRXhbtobK8nUxIfW2v7a) | 2:59 | 2022-02-03 | 2022-02-11 |
 | [Right Person, Wrong Time](https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Right Person, Wrong Time](https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa) | 3:58 | 2022-12-01 | 2022-12-09 |
+| [right where you left me](https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [right where you left me](https://open.spotify.com/album/0a28dOkcC53FjmLwNpVEOm) | 2:53 | 2024-07-04 |  |
 | [Rigor Mortis Radio](https://open.spotify.com/track/006xBsccJhHkcrdUILF1cP) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Rigor Mortis Radio](https://open.spotify.com/album/5c8XabOTIVdkm39NkdAUJv) | 2:28 | 2023-07-13 | 2023-07-21 |
 | [RIIVERDANCE](https://open.spotify.com/track/0TsCBkrq3owPs06HP5Q9Z4) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:11 | 2024-03-28 | 2024-04-05 |
 | [Rindu Di Hari Lebaran](https://open.spotify.com/track/6mh4K1JoPftgmjh7zd2DIB) | [Dato Jamal Abdillah](https://open.spotify.com/artist/2EYYkKx3dOBxFnx75HDNuf) | [Rindu Di Hari Lebaran](https://open.spotify.com/album/7bgiSGUpmoYAufuiSIp37m) | 3:09 | 2023-04-06 | 2023-04-14 |
@@ -7794,6 +7795,7 @@
 | [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 | 2024-02-01 | 2024-02-09 |
 | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/track/0HBJYdY4dsF6vd7xqLLWxH) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Deryck Whibley](https://open.spotify.com/artist/4qJK4cVUMM04auRU8oa4bf) | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/album/0ff0J1jhzWqDJDv5Cv03Dp) | 3:19 | 2022-02-17 | 2022-02-25 |
 | [Ruined](https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Ruined](https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA) | 4:32 | 2023-12-07 | 2023-12-15 |
+| [RuLe](https://open.spotify.com/track/1SGsYkgcVoGd4GCBlQyuYh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [RuLe](https://open.spotify.com/album/7gjjcHhpt9R2L5uZspoACk) | 3:17 | 2024-07-04 |  |
 | [Rule The World](https://open.spotify.com/track/3GElb4cD3GkscbanLhYlQQ) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Rule The World](https://open.spotify.com/album/4D2GvlKXrCTl0WEDgzgjxe) | 2:27 | 2023-03-09 | 2023-03-18 |
 | [Rules](https://open.spotify.com/track/2emPIwDnKVX0WSKfwacbnM) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Gemini Moon](https://open.spotify.com/album/4MmfPccObteJ4bAhnMtcA6) | 2:46 | 2023-05-25 | 2023-06-02 |
 | [Rum Pum Pum](https://open.spotify.com/track/0orUoBenQ9Cwx26z4I4RAT) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [Rum Pum Pum](https://open.spotify.com/album/1OeKgT4UKXTfZ5cDIs0HsZ) | 3:39 | 2022-10-27 | 2022-11-04 |

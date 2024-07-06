@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Anggis Devaki
 
-370 songs - 1 day 0 hr 10 min
+371 songs - 1 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Raja dan Ratu](https://open.spotify.com/track/7FZyTvbYGvyDBo0XSDDuXu) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Raja dan Ratu](https://open.spotify.com/album/4nHoAM5p4eDehGmgQQQvKI) | 3:53 | 2024-05-02 |  |
 | [Rapuh \- From "Kawin Tangan"](https://open.spotify.com/track/4z6f9z75aV6rcFwjlzbgVF) | [Adrian Sant](https://open.spotify.com/artist/7LnKv7Mz67Fnpo9AyKXbyB) | [Rapuh \(From "Kawin Tangan"\)](https://open.spotify.com/album/5HPpfn3f5jf52NSOe6hP0I) | 4:33 | 2024-06-06 | 2024-06-28 |
 | [Relakan](https://open.spotify.com/track/1PWhHGFq93yZnZKUQxiSya) | [Good Morning Everyone](https://open.spotify.com/artist/6HyZoYVf8K9abFPxwhJcbK) | [Relakan](https://open.spotify.com/album/0SUZ4oGGWQN1pn0Mbfer8L) | 4:24 | 2024-03-28 | 2024-05-03 |
+| [right where you left me](https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [right where you left me](https://open.spotify.com/album/0a28dOkcC53FjmLwNpVEOm) | 2:53 | 2024-07-04 |  |
 | [Rindu Dalam Sunyi \(Thaghut Original Motion Pictures Soundtrack\)](https://open.spotify.com/track/2RGrqXoub7squjIihLpWhu) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL) | [Rindu Dalam Sunyi \(Thaghut Original Motion Pictures Soundtrack\)](https://open.spotify.com/album/10zPrC718iV3GiIRVy8cUH) | 4:03 | 2024-06-27 |  |
 | [Rona Jingga](https://open.spotify.com/track/6Pz7UO9PrihGAOoR72SM4q) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Rona Jingga](https://open.spotify.com/album/5YEWre4h02YQHTBJSGMXIy) | 3:27 | 2024-04-18 | 2024-05-24 |
 | [Ruang Luka](https://open.spotify.com/track/4f1mDUpM4c62Nhf0yW9HXV) | [Ekhsan](https://open.spotify.com/artist/6nfhbYSRrnkFkdVRZ080Lx) | [Ruang Luka](https://open.spotify.com/album/1pB0U49YDHggstJn0FhWpl) | 4:07 | 2024-06-13 | 2024-06-28 |

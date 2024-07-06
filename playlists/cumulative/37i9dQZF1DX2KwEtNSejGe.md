@@ -2,7 +2,7 @@
 
 ### [pop songs we can all scream](https://open.spotify.com/playlist/37i9dQZF1DX2KwEtNSejGe)
 
-> songs you can't help but scream along to
+> Songs you can't help but just scream along to.
 
 165 songs - 10 hr 1 min
 

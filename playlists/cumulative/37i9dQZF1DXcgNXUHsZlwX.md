@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-467 songs - 1 day 3 hr 56 min
+468 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Faire semblant](https://open.spotify.com/track/5kdf58kpcfNTZL6m6cSTEo) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Faire semblant](https://open.spotify.com/album/5Cu3tXyCTDUa13HMajeggp) | 3:36 | 2021-07-10 | 2021-11-13 |
 | [Falaise de malaise](https://open.spotify.com/track/0Vgi5K94psHDQEfYWfkTje) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Falaise de malaise](https://open.spotify.com/album/3HI9GAaoFVfIm08lICX6Rm) | 3:24 | 2021-08-11 | 2021-10-01 |
 | [Fatal Line](https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Fatal Line](https://open.spotify.com/album/02389joKGpQeSgbeMocOI2) | 3:01 | 2022-03-11 | 2022-04-16 |
-| [Feeling Like A Plant](https://open.spotify.com/track/3oabWSuwImdNajR9s46Sdu) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Feeling Like A Plant](https://open.spotify.com/album/02KDbCTfvENyYrGJxOFyK5) | 2:59 | 2023-07-14 |  |
+| [Feeling Like A Plant](https://open.spotify.com/track/3oabWSuwImdNajR9s46Sdu) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Feeling Like A Plant](https://open.spotify.com/album/02KDbCTfvENyYrGJxOFyK5) | 2:59 | 2023-07-14 | 2024-07-06 |
 | [Feu de forêt](https://open.spotify.com/track/2NSe87osMF90QPPQIErhdC) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/76RkceWu7JvxFkuzp4aizo) | 3:40 | 2021-01-03\* | 2022-07-29 |
 | [Feu de forêt](https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:40 | 2022-07-08 | 2023-06-08 |
 | [Feu sacré](https://open.spotify.com/track/64hbPzpaWfHw2V5j11odlp) | [Antoine Lachance](https://open.spotify.com/artist/28VuRVI2ZCZZC2kd3DXefq) | [Antoine Lachance](https://open.spotify.com/album/1eUbhI4uMivdZOtrGVrdmP) | 3:38 | 2021-01-15 | 2022-07-27 |
@@ -297,6 +297,7 @@
 | [Milles fois par jour](https://open.spotify.com/track/3KNWGc3CrZFWML2P9jNE9r) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers](https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh) | 3:26 | 2022-07-08 | 2022-08-19 |
 | [Mirador](https://open.spotify.com/track/28G4d150k0L97C2rEBlafm) | [Ambre ciel](https://open.spotify.com/artist/33ZTmzZfwF05EqmpxweL2v) | [Mirador](https://open.spotify.com/album/51fwq1pDme4wmvmp97VSnc) | 4:09 | 2021-01-03\* | 2022-07-29 |
 | [Miroir](https://open.spotify.com/track/5TDFaPYthBso4zax3EbpAO) | [Georgian Bay](https://open.spotify.com/artist/2E2f1LWGVylKbzx2S8YAwi) | [Courage, Vol\. 2: Moon](https://open.spotify.com/album/7gAdZXiEQqp8pDVH8jgSLN) | 3:23 | 2021-01-15 | 2021-10-02 |
+| [Moi je t'aime](https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Moi je t'aime](https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx) | 2:57 | 2024-07-05 |  |
 | [Moi, Elsie](https://open.spotify.com/track/4GQbRIeWqmiJaosRyQ2WsF) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [There Will Be Stars](https://open.spotify.com/album/4Gbv3ZJ8Pn0vFiwvIxO9w9) | 5:18 | 2021-10-03 | 2023-06-28 |
 | [Mon île](https://open.spotify.com/track/27sfdhX5ndVTQoscsB50LY) | [Audrey Emery](https://open.spotify.com/artist/2Ffn40Clz80XZSQS8Tylr6) | [Shangri\-La](https://open.spotify.com/album/244hbTwCOMYTK077ZUXq7z) | 5:07 | 2021-01-03\* | 2022-07-29 |
 | [Mona Lisa](https://open.spotify.com/track/3lmVvm0lBpxirgDHfLCLRR) | [Soul & Sister](https://open.spotify.com/artist/6FKmH1yrlnresuuvHdY2lh) | [Mona Lisa \- Single](https://open.spotify.com/album/3u8WgVkDhQJDVaX6o9IL78) | 2:50 | 2021-01-15 | 2022-01-24 |

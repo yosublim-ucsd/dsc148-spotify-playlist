@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-928 songs - 1 day 12 hr 3 min
+929 songs - 1 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,7 +385,7 @@
 | [Kids](https://open.spotify.com/track/50b0kt9UF5zu9WDiaIjAxL) | [Quality Blues](https://open.spotify.com/artist/3kU1BwnXjcIGhJxeZfqPy9) | [Kids](https://open.spotify.com/album/640L11zarEqJbXHV0gVLbG) | 3:56 | 2022-04-15 | 2022-05-27 |
 | [Knox U](https://open.spotify.com/track/4STt3ABfGPhaT0OhKRKanc) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Knox U](https://open.spotify.com/album/2OIOLhlLiMhZM0YHnTfTpy) | 2:40 | 2022-04-15 |  |
 | [KOI FISH](https://open.spotify.com/track/5X4Wk6FiOu74JG3PNxX3LB) | [Boba Ti](https://open.spotify.com/artist/6K8Fm7RrcIfdnemnDklnD7) | [KOI FISH](https://open.spotify.com/album/3sgn6a1a43LZzkznOWo5Lt) | 2:08 | 2022-11-11 |  |
-| [Kopo](https://open.spotify.com/track/5OleafVdjWJZXpgH0xogCQ) | [ShoPaRo](https://open.spotify.com/artist/2GkroNSOCAW3rYkMfZyfdn), [Karma Kush](https://open.spotify.com/artist/46c7S778Q0SzgxgdPQriL0), [Meraki99](https://open.spotify.com/artist/1Ahnk99UWwxfK79NVSjcnI) | [Kopo](https://open.spotify.com/album/6FL1U7mZv2170IdhZuXduy) | 1:53 | 2023-01-13 |  |
+| [Kopo](https://open.spotify.com/track/5OleafVdjWJZXpgH0xogCQ) | [ShoPaRo](https://open.spotify.com/artist/2GkroNSOCAW3rYkMfZyfdn), [Karma Kush](https://open.spotify.com/artist/46c7S778Q0SzgxgdPQriL0), [Meraki99](https://open.spotify.com/artist/1Ahnk99UWwxfK79NVSjcnI) | [Kopo](https://open.spotify.com/album/6FL1U7mZv2170IdhZuXduy) | 1:53 | 2023-01-13 | 2024-07-06 |
 | [la donna e la chitarra](https://open.spotify.com/track/5goDbdYkF4ogWljlBSqoKb) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/6soofQydUlYQbMl16Mbs2f) | 1:45 | 2022-04-15 | 2022-06-25 |
 | [Lakeview Hotel](https://open.spotify.com/track/64KLZ6ghwEzRH6yAoNfEj2) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [Charlie Young](https://open.spotify.com/artist/5HPpufL8VIMnpG7423YMmH) | [Lakeview Hotel](https://open.spotify.com/album/0e5iO95x8kua0wwFU0H3qe) | 2:33 | 2022-04-15 | 2023-10-13 |
 | [Lantana](https://open.spotify.com/track/2FoFXdEp7Vq0F6WnX5C2pp) | [Rooey](https://open.spotify.com/artist/5y2hfguiOBZAN1WUEyi2cv) | [Lantana](https://open.spotify.com/album/5UNOpQ3MBnoqtzUWQLKYYl) | 3:00 | 2022-09-02 | 2023-11-17 |
@@ -863,6 +863,7 @@
 | [under my ground](https://open.spotify.com/track/6pS37YGyZRkCiA9o8ZVksC) | [mindrae.](https://open.spotify.com/artist/1LbrEsKUarj4IL86lbVF4R), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [under my ground](https://open.spotify.com/album/0r45aNkzMnhUoKeOlicNle) | 1:22 | 2022-07-29 | 2022-08-12 |
 | [Under the Tide](https://open.spotify.com/track/3qUvV6jdRZVwUvTusNUGOH) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [In Due Time](https://open.spotify.com/album/13sb8AYLDP6VK75wwvpPEm) | 2:05 | 2022-04-15 | 2022-07-08 |
 | [Under Water](https://open.spotify.com/track/2UltutQuhWKc1hPuEY5Rje) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [Under Water](https://open.spotify.com/album/2hcHXpCfHtP28XiAgEopaB) | 3:00 | 2022-08-19 |  |
+| [Underground Glacier Vibes](https://open.spotify.com/track/60Nklx8OyD5oykK8BWArL6) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [In the Gloaming](https://open.spotify.com/album/5LJcCu2BwcCUxRG4yPRm6J) | 2:24 | 2024-07-04 |  |
 | [Unexpected World](https://open.spotify.com/track/63kQCkG3LYRD90O2QZbhnh) | [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [$MASH](https://open.spotify.com/artist/2AOBbDqMyCWp12M8ULOJdw), [Crun](https://open.spotify.com/artist/7aQFz7nMIRg5XTM1YLwEZ4) | [Unexpected World](https://open.spotify.com/album/51loInMhKTCu0j8iW3RW3u) | 1:36 | 2023-03-13 | 2023-09-22 |
 | [United We Belong](https://open.spotify.com/track/29tQwha5pdWNZIbYAAo7AA) | [Frankly, We Hold](https://open.spotify.com/artist/3iWvwND7pIhG7IUtdDsFKy) | [Open Skies](https://open.spotify.com/album/1JXMg78YhoyB4Xhx9dc7sC) | 2:02 | 2022-04-15 | 2022-10-29 |
 | [Unity](https://open.spotify.com/track/2esxMguB1vPwhv9GgKKMdL) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Unity](https://open.spotify.com/album/02HGvM4UDSIiUEOP7PfLMF) | 2:13 | 2022-11-11 | 2023-10-06 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 262772,
+  "description": "This Is Lenny Kravitz. Los temas esenciales, todos en una lista.",
+  "num_followers": 262871,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAACzkBnzqxj2JJqRdygWkgVg",
+  "snapshot_id": "ZoXmAAAAAACAz05K7g/ZnQDcZdMsLqEX",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 221332,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 231666,
       "name": "Again",
       "url": "https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/3YcbqIhwAiHy3w2vWy2orI"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "I Belong To You",
-      "url": "https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"
     },
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Heaven Help",
-      "url": "https://open.spotify.com/track/0uHbPoDjquncfYsLt00Aj2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 264560,
       "name": "American Woman",
       "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Heaven Help",
+      "url": "https://open.spotify.com/track/0uHbPoDjquncfYsLt00Aj2"
     },
     {
       "added_at": null,
@@ -343,22 +343,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backatown",
-        "url": "https://open.spotify.com/album/5J26uchSALEhy9xwkdeV5a"
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
       "artists": [
-        {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
-        },
         {
           "name": "Lenny Kravitz",
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 221360,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/1ZESGzWrFSwXPplkscUsUR"
+      "duration_ms": 294693,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6x9t21Gl6bRhOrgigur7wK"
     },
     {
       "added_at": null,
@@ -395,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+        "name": "Backatown",
+        "url": "https://open.spotify.com/album/5J26uchSALEhy9xwkdeV5a"
       },
       "artists": [
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        },
         {
           "name": "Lenny Kravitz",
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 294693,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/6x9t21Gl6bRhOrgigur7wK"
+      "duration_ms": 221360,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/1ZESGzWrFSwXPplkscUsUR"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lenny",
+        "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 280973,
+      "name": "Believe In Me",
+      "url": "https://open.spotify.com/track/7aJjhQlplwtUS7emsLIEWC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mama Said (Deluxe)",
         "url": "https://open.spotify.com/album/2in7TjOFOuw5upPjUGB2jh"
       },
@@ -471,6 +487,38 @@
       "duration_ms": 289880,
       "name": "What Goes Around Comes Around - 2012 Remaster/Explicit",
       "url": "https://open.spotify.com/track/3pyjJrvYubl5klFaLTCLQg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 384133,
+      "name": "Thinking Of You",
+      "url": "https://open.spotify.com/track/4LU3LpgFCNdi8PE9PgnTZM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Electric Light",
+        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 306378,
+      "name": "Bundle of Joy",
+      "url": "https://open.spotify.com/track/4dNqV9k2uMEccSRlrjSjzh"
     },
     {
       "added_at": null,
@@ -507,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Electric Light",
-        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
       },
       "artists": [
         {
@@ -516,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 306378,
-      "name": "Bundle of Joy",
-      "url": "https://open.spotify.com/track/4dNqV9k2uMEccSRlrjSjzh"
+      "duration_ms": 203933,
+      "name": "Rock And Roll Is Dead",
+      "url": "https://open.spotify.com/track/1os9lKQD0M56nlIiXbWpE5"
     },
     {
       "added_at": null,
@@ -795,54 +843,6 @@
       "duration_ms": 290826,
       "name": "Black Velveteen",
       "url": "https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black and White America",
-        "url": "https://open.spotify.com/album/0RJA6msM8USEqe50FRY6b0"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 208626,
-      "name": "Superlove",
-      "url": "https://open.spotify.com/track/3jzm36w0SW0QD005JxbRUR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mama Said",
-        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "More Than Anything In This World",
-      "url": "https://open.spotify.com/track/1UWyfK84h7uPHMEPf8qba2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Raise Vibration",
-        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 378040,
-      "name": "Johnny Cash",
-      "url": "https://open.spotify.com/track/2KB62sZq0v8PQUlMSb3kBR"
     }
   ],
   "unique_name": "This Is Lenny Kravitz",

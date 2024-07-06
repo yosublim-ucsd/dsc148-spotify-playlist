@@ -4,7 +4,7 @@
 
 > The essence of Tamil Rap from Kollywood<br/>Cover : Yuvan Shankar Raja
 
-88 songs - 6 hr 9 min
+89 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Porattam \- From "Vendhu Thanindhathu Kaadu"](https://open.spotify.com/track/7CcxIeSvx9NE2X8EumKGJL) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Neeraj Madhav](https://open.spotify.com/artist/2LATypZ1Z4YnoVZ7K8BhVI) | [Porattam \(From "Vendhu Thanindhathu Kaadu"\)](https://open.spotify.com/album/4eXKztxH4xyhB5z2DzOSou) | 2:02 | 2022-09-30 |  |
 | [Porkkalam \- Tamil Rap](https://open.spotify.com/track/5iv6lZAIguXWYW4Zaz5zvY) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Aadukalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0czPRsN8uZZ5o3J8usUHbR) | 4:20 | 2022-02-08 |  |
 | [Power \(From "Jai Bhim"\)](https://open.spotify.com/track/03EWeCL6DT7g5725PB6Yvv) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Power \(From "Jai Bhim"\)](https://open.spotify.com/album/0enZQ3uBeFAATgU3yQh6xz) | 3:38 | 2022-02-08 | 2023-05-13 |
+| [Raayan Rumble \(From "Raayan"\)](https://open.spotify.com/track/47yvxC80llSgqVhMWBZeLd) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arivu](https://open.spotify.com/artist/4YZKlYrsp8YSwFtFxNcdhd) | [Raayan Rumble \(From "Raayan"\)](https://open.spotify.com/album/1FVH2D7UkI5LNhim5CshPS) | 3:30 | 2024-07-05 |  |
 | [Rich Rich \(From "Mahaan"\)](https://open.spotify.com/track/0Ozbr9VJeL4ratoGYWop3K) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Durai](https://open.spotify.com/artist/17g7q1dOGhKiEfUY1BRQNe), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Rich Rich \(From "Mahaan"\)](https://open.spotify.com/album/3Z4pHhZ5NKMNoNCKIngFCm) | 3:05 | 2022-02-08 |  |
 | [Run for Your Life](https://open.spotify.com/track/4n74SPac7vNNusBi0Mm4iV) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Psycho.unit](https://open.spotify.com/artist/1hLQI3u6T2xxVOkrCCjbBC), [Gana Bala](https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg) | [Biriyani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19ByOiM4yu0ETa2HNYng86) | 4:52 | 2022-02-08 | 2023-05-13 |
 | [Semma Weightu](https://open.spotify.com/track/4DTPvhTmF3oVTLjAfHujVK) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Harihara Sudhan](https://open.spotify.com/artist/4BWGWW865iPYzyM5PTsKGM), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe), [Dopeadelicz](https://open.spotify.com/artist/4HqaCsAhhMF8t4ExOwugpK) | [Kaala \(Tamil\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ypfdQ9KvJb9NizV0dqh8y) | 4:58 | 2022-02-08 | 2023-05-13 |

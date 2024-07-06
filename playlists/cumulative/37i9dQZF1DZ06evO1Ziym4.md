@@ -2,7 +2,7 @@
 
 ### [This Is Guns N' Roses](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Ziym4)
 
-> This Is Guns N' Roses\. Los temas esenciales, todos en una lista.
+> This Is Guns N' Roses\. Todas as faixas essenciais numa única playlist.
 
 62 songs - 5 hr 4 min
 

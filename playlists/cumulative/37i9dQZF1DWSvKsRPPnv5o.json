@@ -1622,7 +1622,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 301108,
       "name": "BANG YOUR HEAD",
       "url": "https://open.spotify.com/track/7u6J1agNGrSBvAByZRQu3J"
@@ -3508,7 +3508,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 155783,
       "name": "COOL DOWN (feat. YG)",
       "url": "https://open.spotify.com/track/5xF2xRuCrPzdiuquJ363Ok"
@@ -3708,7 +3708,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 192000,
       "name": "Crash Out",
       "url": "https://open.spotify.com/track/1XM7vZZ6mLtNox6Zp8rBaO"
@@ -3836,7 +3836,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 210804,
       "name": "Dance With The Devil",
       "url": "https://open.spotify.com/track/45wa8hJ0kmnoFHe3Q2b7wD"
@@ -4536,7 +4536,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 101052,
       "name": "Double Dippin",
       "url": "https://open.spotify.com/track/12hnLRsfveQumcJYIYPTuO"
@@ -8419,6 +8419,28 @@
     },
     {
       "album": {
+        "name": "Guns & Butter",
+        "url": "https://open.spotify.com/album/13Ku0eT9WawVkyiXT2nyPK"
+      },
+      "artists": [
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
+        },
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "In The Field",
+      "url": "https://open.spotify.com/track/7GAP94zr3pzFIapGw5ff4L"
+    },
+    {
+      "album": {
         "name": "In The Field 2",
         "url": "https://open.spotify.com/album/30IcN0SRgdVHFkjLsnTIDX"
       },
@@ -11284,7 +11306,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 187826,
       "name": "New Wave",
       "url": "https://open.spotify.com/track/7zJVl2Z4XsYoISPzRawLMr"
@@ -15368,7 +15390,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 147692,
       "name": "Still Ghetto",
       "url": "https://open.spotify.com/track/1MTGcMi6F0drGQ6qNzc0RQ"
@@ -16097,6 +16119,28 @@
     },
     {
       "album": {
+        "name": "Guns & Butter",
+        "url": "https://open.spotify.com/album/13Ku0eT9WawVkyiXT2nyPK"
+      },
+      "artists": [
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
+        },
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Tell Me That I'm Not",
+      "url": "https://open.spotify.com/track/1LEJOG7vWgjwWNESHC7C4V"
+    },
+    {
+      "album": {
         "name": "Tell The Truth (with Shordie Shordie)",
         "url": "https://open.spotify.com/album/7DNdz17UKZ3b6wxU8mHJAz"
       },
@@ -16496,7 +16540,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 158906,
       "name": "The Hottest",
       "url": "https://open.spotify.com/track/2otNrH5529jrNFIpbiBV4N"
@@ -16636,6 +16680,28 @@
       "duration_ms": 165148,
       "name": "THE SPOT",
       "url": "https://open.spotify.com/track/1np70YDK3EJW265gilCRkr"
+    },
+    {
+      "album": {
+        "name": "They Wanna See Me",
+        "url": "https://open.spotify.com/album/6gs4sadslEIdT9taav0Uby"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "They Wanna See Me",
+      "url": "https://open.spotify.com/track/239J9xvfJsdmvWMSk3vib5"
     },
     {
       "album": {
@@ -17670,7 +17736,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 220058,
       "name": "WHAT WE DOIN!?",
       "url": "https://open.spotify.com/track/7581x5zZnkhgt2q7IoE4eq"
@@ -18130,6 +18196,40 @@
       "duration_ms": 131368,
       "name": "Yacht Master",
       "url": "https://open.spotify.com/track/4RJTYHKzXzbKh0qjlq7Lpf"
+    },
+    {
+      "album": {
+        "name": "YANKIN!",
+        "url": "https://open.spotify.com/album/4UzCUrPGInWVchMROi7XEV"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "D-LO",
+          "url": "https://open.spotify.com/artist/40uPOeOQVWuNb6imBRJWjR"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Raymon Marco",
+          "url": "https://open.spotify.com/artist/2hk2X7xeg4QEQwKdnvl0JG"
+        },
+        {
+          "name": "MALACHI",
+          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238181,
+      "name": "YANKIN!",
+      "url": "https://open.spotify.com/track/7jICgMZ4vEkAirE1gxMMZm"
     },
     {
       "album": {

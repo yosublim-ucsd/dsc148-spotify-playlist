@@ -1,6 +1,6 @@
 {
   "description": "Just lean back and enjoy relaxed beats.",
-  "num_followers": 1937396,
+  "num_followers": 1937716,
   "original_name": "Chillout Lounge",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "In Deep",
+        "url": "https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm"
+      },
+      "artists": [
+        {
+          "name": "Beachwax",
+          "url": "https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr"
+        }
+      ],
+      "duration_ms": 171289,
+      "name": "In Deep",
+      "url": "https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/3jInq6xu9DvJHP3e7KUL8Z"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 151525,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "In Deep",
-        "url": "https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm"
-      },
-      "artists": [
-        {
-          "name": "Beachwax",
-          "url": "https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr"
-        }
-      ],
-      "duration_ms": 171289,
-      "name": "In Deep",
-      "url": "https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/6AFwibLKtWYJVKdY9ChZGh"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        }
-      ],
-      "duration_ms": 184269,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/7FoyKoMhQyDCSomTBYKVP1"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Morning Workout",
         "url": "https://open.spotify.com/album/1rkT9Y5aXjnyBW44DhAh2L"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 162597,
       "name": "Morning Workout",
       "url": "https://open.spotify.com/track/4ZWO4l9zqiT7S35qjvusjE"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/6AFwibLKtWYJVKdY9ChZGh"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "duration_ms": 184269,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/7FoyKoMhQyDCSomTBYKVP1"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "Running Faster",
+        "url": "https://open.spotify.com/album/4EfzsnrxTIK5qMLZXSRHlK"
+      },
+      "artists": [
+        {
+          "name": "Mellowdy",
+          "url": "https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc"
+        }
+      ],
+      "duration_ms": 140263,
+      "name": "Running Faster",
+      "url": "https://open.spotify.com/track/3vzdR4GaLtV4i0h5QKoSHv"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Don't Worry",
         "url": "https://open.spotify.com/album/1JY1js3AQi74qUZhqG6xrL"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 195160,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/1nOwt0eXrd8z2i2Q7Hqjdc"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Running Faster",
-        "url": "https://open.spotify.com/album/4EfzsnrxTIK5qMLZXSRHlK"
-      },
-      "artists": [
-        {
-          "name": "Mellowdy",
-          "url": "https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc"
-        }
-      ],
-      "duration_ms": 140263,
-      "name": "Running Faster",
-      "url": "https://open.spotify.com/track/3vzdR4GaLtV4i0h5QKoSHv"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Heat Waves",
-        "url": "https://open.spotify.com/album/02lNMqgTeGkhWkad7NK8Yd"
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/61e2gK909Y2JMapY2jPw1b"
       },
       "artists": [
         {
-          "name": "Together Alone",
-          "url": "https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY"
+          "name": "Bjarne Hendrik",
+          "url": "https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2"
         }
       ],
-      "duration_ms": 157992,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/2bloJtfWRNnHjylvX8AWOt"
+      "duration_ms": 207549,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2HcHfWexQZ2UcjIvpZbxVI"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/61e2gK909Y2JMapY2jPw1b"
+        "name": "Heat Waves",
+        "url": "https://open.spotify.com/album/02lNMqgTeGkhWkad7NK8Yd"
       },
       "artists": [
         {
-          "name": "Bjarne Hendrik",
-          "url": "https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2"
+          "name": "Together Alone",
+          "url": "https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY"
         }
       ],
-      "duration_ms": 207549,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2HcHfWexQZ2UcjIvpZbxVI"
+      "duration_ms": 157992,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/2bloJtfWRNnHjylvX8AWOt"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "AQUARIUM",
-        "url": "https://open.spotify.com/album/4FtyDXorsIluXMZxpEAR4I"
-      },
-      "artists": [
-        {
-          "name": "Kharfi",
-          "url": "https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC"
-        }
-      ],
-      "duration_ms": 187245,
-      "name": "Aquarium",
-      "url": "https://open.spotify.com/track/3kAlWNK9bo5pEMwKvpgzNE"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "The right mood",
         "url": "https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 242750,
       "name": "White Dust",
       "url": "https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "AQUARIUM",
+        "url": "https://open.spotify.com/album/4FtyDXorsIluXMZxpEAR4I"
+      },
+      "artists": [
+        {
+          "name": "Kharfi",
+          "url": "https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC"
+        }
+      ],
+      "duration_ms": 187245,
+      "name": "Aquarium",
+      "url": "https://open.spotify.com/track/3kAlWNK9bo5pEMwKvpgzNE"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "You and You",
-        "url": "https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp"
-      },
-      "artists": [
-        {
-          "name": "Mute Surrender",
-          "url": "https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "You and You",
-      "url": "https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Gardient heaven",
         "url": "https://open.spotify.com/album/1WVwh0s7pzG0PXzvtRVVJ8"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Informalit\u00e9",
-        "url": "https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ"
+        "name": "You and You",
+        "url": "https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp"
       },
       "artists": [
         {
-          "name": "Nyhuis",
-          "url": "https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d"
+          "name": "Mute Surrender",
+          "url": "https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE"
         }
       ],
-      "duration_ms": 171704,
-      "name": "Informalit\u00e9",
-      "url": "https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK"
+      "duration_ms": 201000,
+      "name": "You and You",
+      "url": "https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1387,6 +1371,22 @@
       "duration_ms": 187075,
       "name": "Wings",
       "url": "https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Informalit\u00e9",
+        "url": "https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ"
+      },
+      "artists": [
+        {
+          "name": "Nyhuis",
+          "url": "https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d"
+        }
+      ],
+      "duration_ms": 171704,
+      "name": "Informalit\u00e9",
+      "url": "https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Sunset Serene",
-        "url": "https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG"
-      },
-      "artists": [
-        {
-          "name": "Znoijk",
-          "url": "https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl"
-        }
-      ],
-      "duration_ms": 126005,
-      "name": "Sunset Serene",
-      "url": "https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "I Feel Warmer Already",
         "url": "https://open.spotify.com/album/72jLh8lLAIG07SY7m1cADS"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 150872,
       "name": "I Feel Warmer Already",
       "url": "https://open.spotify.com/track/5dvXFPoyEo4KM6BumvypbA"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Sunset Serene",
+        "url": "https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG"
+      },
+      "artists": [
+        {
+          "name": "Znoijk",
+          "url": "https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl"
+        }
+      ],
+      "duration_ms": 126005,
+      "name": "Sunset Serene",
+      "url": "https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Hands Together",
-        "url": "https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p"
-      },
-      "artists": [
-        {
-          "name": "SOL LOS",
-          "url": "https://open.spotify.com/artist/7kVyiWLcDMgRtgVbkXhnF8"
-        }
-      ],
-      "duration_ms": 189289,
-      "name": "Hands Together",
-      "url": "https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/5TaXMm4oQOa3LQ1MbiFZOF"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 135000,
       "name": "Changes",
       "url": "https://open.spotify.com/track/7C5p1xQCbQHgaW1WtQI8w2"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Hands Together",
+        "url": "https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p"
+      },
+      "artists": [
+        {
+          "name": "SOL LOS",
+          "url": "https://open.spotify.com/artist/7kVyiWLcDMgRtgVbkXhnF8"
+        }
+      ],
+      "duration_ms": 189289,
+      "name": "Hands Together",
+      "url": "https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1535,38 +1535,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "IOU",
-        "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
+        "name": "Unhappy Alien",
+        "url": "https://open.spotify.com/album/4JpLIm5YrcMfhbNmrvVdjx"
       },
       "artists": [
         {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+          "name": "Not Tudor",
+          "url": "https://open.spotify.com/artist/3dOxIuKHSabrAVdJosO7gJ"
         }
       ],
-      "duration_ms": 212906,
-      "name": "IOU",
-      "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Sunny Cruisin",
-        "url": "https://open.spotify.com/album/7pAD2HJ6Q0SDx7HNwBcgRw"
-      },
-      "artists": [
-        {
-          "name": "Marcos Berretini",
-          "url": "https://open.spotify.com/artist/5JmI54Dii7SFTo2b5VGJDl"
-        }
-      ],
-      "duration_ms": 160166,
-      "name": "Sunny Cruisin",
-      "url": "https://open.spotify.com/track/4A0ubBA1RJokIlivz7vEyo"
+      "duration_ms": 198260,
+      "name": "Unhappy Alien",
+      "url": "https://open.spotify.com/track/3O6FAjNGBUVPa5ahfMhucZ"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1587,18 +1567,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Unhappy Alien",
-        "url": "https://open.spotify.com/album/4JpLIm5YrcMfhbNmrvVdjx"
+        "name": "Sunny Cruisin",
+        "url": "https://open.spotify.com/album/7pAD2HJ6Q0SDx7HNwBcgRw"
       },
       "artists": [
         {
-          "name": "Not Tudor",
-          "url": "https://open.spotify.com/artist/3dOxIuKHSabrAVdJosO7gJ"
+          "name": "Marcos Berretini",
+          "url": "https://open.spotify.com/artist/5JmI54Dii7SFTo2b5VGJDl"
         }
       ],
-      "duration_ms": 198260,
-      "name": "Unhappy Alien",
-      "url": "https://open.spotify.com/track/3O6FAjNGBUVPa5ahfMhucZ"
+      "duration_ms": 160166,
+      "name": "Sunny Cruisin",
+      "url": "https://open.spotify.com/track/4A0ubBA1RJokIlivz7vEyo"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1615,6 +1595,26 @@
       "duration_ms": 235000,
       "name": "Star System",
       "url": "https://open.spotify.com/track/5tjM0EiK6wTMwMrR3csFpt"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "IOU",
+        "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
+      },
+      "artists": [
+        {
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 212906,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/5aeblHVH3Yo3Xh8xsv1gjD"
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/4CT0135sHX4XqxcZk2TYx9"
       },
       "artists": [
         {
-          "name": "Dj Hindi Bacha",
-          "url": "https://open.spotify.com/artist/4DKQvnJHtQWd7G7DgyjKKV"
+          "name": "Dreweybear",
+          "url": "https://open.spotify.com/artist/5HDqj7lexto9EPJ42uS2dM"
         }
       ],
-      "duration_ms": 193577,
-      "name": "Seeds",
-      "url": "https://open.spotify.com/track/2EkhQc261n3oQsLFIgZdws"
+      "duration_ms": 229830,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/1t7dnSgClxQdMB4NYonJLn"
     }
   ],
   "unique_name": "Chillout Lounge",

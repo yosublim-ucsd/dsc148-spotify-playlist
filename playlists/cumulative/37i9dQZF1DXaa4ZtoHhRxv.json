@@ -2193,6 +2193,28 @@
     },
     {
       "album": {
+        "name": "I Can't (Dave Aud\u00e9 Remix)",
+        "url": "https://open.spotify.com/album/4oLqaTmdizNHWSRa5lf6pI"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        {
+          "name": "Dave Aud\u00e9",
+          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216092,
+      "name": "I Can't - Dave Aud\u00e9 Remix",
+      "url": "https://open.spotify.com/track/0tVK8v4KrIe2m31mkymR3G"
+    },
+    {
+      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
       },

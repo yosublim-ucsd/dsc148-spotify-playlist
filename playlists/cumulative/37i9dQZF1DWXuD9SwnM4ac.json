@@ -1291,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/6arNo80DW0kNafC8yPLeO2"
+      },
+      "artists": [
+        {
+          "name": "ufo ufo",
+          "url": "https://open.spotify.com/artist/1TsvuGn3XJ4F04fRavTonu"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/4YSwiI9qZEHi5Pz0nMjnmB"
+    },
+    {
+      "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/2yhyGos2sBxftVw79T7CNU"
       },

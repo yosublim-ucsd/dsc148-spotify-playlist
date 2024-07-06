@@ -1,28 +1,32 @@
 {
-  "description": "Novidades do pop nacional pra te deixar mais leve! Foto: GUPE",
-  "num_followers": 434079,
+  "description": "Novidades do pop nacional pra te deixar mais leve! Foto: MAR ABERTO, Jo\u00e3o Mar",
+  "num_followers": 434118,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoL49QAAAAANxbKbTxCJwTRlsoZuLijG",
+  "snapshot_id": "ZodhsAAAAAB8OvCd5tS5ZggdaIbDHneR",
   "tracks": [
     {
-      "added_at": "2024-07-01 18:44:05",
+      "added_at": "2024-07-05 03:00:00",
       "album": {
-        "name": "A Cara do Amor da Minha Vida",
-        "url": "https://open.spotify.com/album/0OvRM5meYXSh2A5n4vN2NC"
+        "name": "Massagem nas Costas",
+        "url": "https://open.spotify.com/album/19tU95QBl4RTYwM28LW9Dq"
       },
       "artists": [
         {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        },
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
         }
       ],
-      "duration_ms": 151128,
-      "name": "A Cara do Amor da Minha Vida",
-      "url": "https://open.spotify.com/track/4IjOrQ4CBgjE6JDxbSEnJx"
+      "duration_ms": 159280,
+      "name": "Massagem nas Costas",
+      "url": "https://open.spotify.com/track/230Z8Ryx3tj4LfmtVGvMrJ"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -53,44 +57,12 @@
       "artists": [
         {
           "name": "Gabriela",
-          "url": "https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM"
+          "url": "https://open.spotify.com/artist/1Xh87BgBDuD8UpD6erCSBQ"
         }
       ],
       "duration_ms": 175771,
       "name": "Saudade Sussurrou",
       "url": "https://open.spotify.com/track/46hMVeI8kjadm4xrokacdG"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
-        "name": "seus planos",
-        "url": "https://open.spotify.com/album/6aSc5gDviUEiMxPbRjV4G0"
-      },
-      "artists": [
-        {
-          "name": "JUNIOR",
-          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
-        }
-      ],
-      "duration_ms": 208819,
-      "name": "seus planos",
-      "url": "https://open.spotify.com/track/5pDqtLsN7vFmyWrTIGrNFR"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
-        "name": "No Teu Mar",
-        "url": "https://open.spotify.com/album/6ewFG75JpBi8H630jshivJ"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 149072,
-      "name": "No Teu Mar",
-      "url": "https://open.spotify.com/track/3YI1nFCJBx33t2YM9d8VmT"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -113,6 +85,58 @@
       "url": "https://open.spotify.com/track/1UP0EZEC7xepgQHdsishXG"
     },
     {
+      "added_at": "2024-07-05 03:00:00",
+      "album": {
+        "name": "Quem Sabe",
+        "url": "https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc"
+      },
+      "artists": [
+        {
+          "name": "Julies",
+          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
+        },
+        {
+          "name": "Sofia Gayoso",
+          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "Quem Sabe",
+      "url": "https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB"
+    },
+    {
+      "added_at": "2024-07-01 18:44:05",
+      "album": {
+        "name": "Balada do Amor Inabal\u00e1vel",
+        "url": "https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 142144,
+      "name": "Balada do Amor Inabal\u00e1vel",
+      "url": "https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB"
+    },
+    {
+      "added_at": "2024-07-05 03:00:00",
+      "album": {
+        "name": "De Novo",
+        "url": "https://open.spotify.com/album/45qeCoq05K7BO45Kg5pVnY"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 161656,
+      "name": "De Novo",
+      "url": "https://open.spotify.com/track/5mDLtG5amHhOH6CIZEMtoe"
+    },
+    {
       "added_at": "2024-07-01 18:44:05",
       "album": {
         "name": "Depois do Fim (Deluxe)",
@@ -131,18 +155,18 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
-        "name": "Balada do Amor Inabal\u00e1vel",
-        "url": "https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE"
+        "name": "Ela n\u00e3o \u00e9 pra qualquer um",
+        "url": "https://open.spotify.com/album/3agtWz9aoBrXHrbByXd3gS"
       },
       "artists": [
         {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 142144,
-      "name": "Balada do Amor Inabal\u00e1vel",
-      "url": "https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB"
+      "duration_ms": 193190,
+      "name": "Ela n\u00e3o \u00e9 pra qualquer um",
+      "url": "https://open.spotify.com/track/0lT3qWdrV0qwhjydlgs0uN"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -167,18 +191,38 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
-        "name": "Ela n\u00e3o \u00e9 pra qualquer um",
-        "url": "https://open.spotify.com/album/3agtWz9aoBrXHrbByXd3gS"
+        "name": "Mais Uma Hist\u00f3ria de Amor",
+        "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "Cupertino",
+          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
+        },
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
         }
       ],
-      "duration_ms": 193190,
-      "name": "Ela n\u00e3o \u00e9 pra qualquer um",
-      "url": "https://open.spotify.com/track/0lT3qWdrV0qwhjydlgs0uN"
+      "duration_ms": 150000,
+      "name": "A Gente Tem Tudo a Ver",
+      "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
+    },
+    {
+      "added_at": "2024-07-01 18:44:05",
+      "album": {
+        "name": "Resposta",
+        "url": "https://open.spotify.com/album/6fPQatXeKSpZuyNKj5adbD"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 211069,
+      "name": "Resposta",
+      "url": "https://open.spotify.com/track/0ZJ6kYBasODtY4JWDzkDDE"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -211,26 +255,6 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
-        "name": "Mais Uma Hist\u00f3ria de Amor",
-        "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
-      },
-      "artists": [
-        {
-          "name": "Cupertino",
-          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
-        },
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "A Gente Tem Tudo a Ver",
-      "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
         "name": "Antes Que O Mundo Acabe",
         "url": "https://open.spotify.com/album/7rAGzb5tmPjeJRJZULY1GD"
       },
@@ -243,62 +267,6 @@
       "duration_ms": 198961,
       "name": "Eu S\u00f3 Queria...",
       "url": "https://open.spotify.com/track/6F9UyxHuKfvHOmfMkRDCdm"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
-        "name": "Vento",
-        "url": "https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK"
-      },
-      "artists": [
-        {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 172329,
-      "name": "Vento",
-      "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
-        "name": "Resposta",
-        "url": "https://open.spotify.com/album/6fPQatXeKSpZuyNKj5adbD"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 211069,
-      "name": "Resposta",
-      "url": "https://open.spotify.com/track/0ZJ6kYBasODtY4JWDzkDDE"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/3tWgDELRJCNsT4QHypCGXu"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 207110,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/1kLIaT39bF27PX2xGEhjMx"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -335,22 +303,6 @@
       "duration_ms": 193949,
       "name": "S\u00f3 Mais Um Pouquinho",
       "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
-        "name": "Cear\u00e1",
-        "url": "https://open.spotify.com/album/37Os4CH6bRBrT6BkZtMWmx"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 132636,
-      "name": "Cear\u00e1",
-      "url": "https://open.spotify.com/track/4und8X5ZjsDoFJMUyQoZX6"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -503,6 +455,26 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
+        "name": "Praia do Rosa",
+        "url": "https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 155553,
+      "name": "Praia do Rosa",
+      "url": "https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84"
+    },
+    {
+      "added_at": "2024-07-01 18:44:05",
+      "album": {
         "name": "Deixa Acender",
         "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
       },
@@ -535,26 +507,6 @@
       "duration_ms": 183679,
       "name": "Big Bang",
       "url": "https://open.spotify.com/track/4xC41bv1fU1BXaO6cdmEAy"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
-        "name": "Praia do Rosa",
-        "url": "https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 155553,
-      "name": "Praia do Rosa",
-      "url": "https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -635,6 +587,22 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
+        "name": "A Cara do Amor da Minha Vida",
+        "url": "https://open.spotify.com/album/0OvRM5meYXSh2A5n4vN2NC"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 151128,
+      "name": "A Cara do Amor da Minha Vida",
+      "url": "https://open.spotify.com/track/4IjOrQ4CBgjE6JDxbSEnJx"
+    },
+    {
+      "added_at": "2024-07-01 18:44:05",
+      "album": {
         "name": "Samba Azul",
         "url": "https://open.spotify.com/album/4yGKNoM67bEOR8rE9T1Tgo"
       },
@@ -695,22 +663,6 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
-        "name": "Beijos de artif\u00edcio",
-        "url": "https://open.spotify.com/album/3CFAqEIXUM7AFu4gngcwQw"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 232331,
-      "name": "Beijos de artif\u00edcio",
-      "url": "https://open.spotify.com/track/7ePoRoOa6Xl2IsvaZfyeeA"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
         "name": "Inevit\u00e1vel",
         "url": "https://open.spotify.com/album/6nFK4rVRWiM5q0wEAf7sBb"
       },
@@ -731,6 +683,22 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
+        "name": "Beijos de artif\u00edcio",
+        "url": "https://open.spotify.com/album/3CFAqEIXUM7AFu4gngcwQw"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 232331,
+      "name": "Beijos de artif\u00edcio",
+      "url": "https://open.spotify.com/track/7ePoRoOa6Xl2IsvaZfyeeA"
+    },
+    {
+      "added_at": "2024-07-01 18:44:05",
+      "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
       },
@@ -743,22 +711,6 @@
       "duration_ms": 154603,
       "name": "Fim de Semana",
       "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
-        "name": "AGRIDOCE (PARTE 1)",
-        "url": "https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn"
-      },
-      "artists": [
-        {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
-        }
-      ],
-      "duration_ms": 162835,
-      "name": "BONITA",
-      "url": "https://open.spotify.com/track/3I5e0k2WbTDfk1mF5ATRNl"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -779,6 +731,22 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
+        "name": "AGRIDOCE (PARTE 1)",
+        "url": "https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 162835,
+      "name": "BONITA",
+      "url": "https://open.spotify.com/track/3I5e0k2WbTDfk1mF5ATRNl"
+    },
+    {
+      "added_at": "2024-07-01 18:44:05",
+      "album": {
         "name": "Lindo Dom",
         "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
       },
@@ -791,22 +759,6 @@
       "duration_ms": 193842,
       "name": "Lindo Dom",
       "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
-        "name": "Tudo Vai Ser Como Deve Ser",
-        "url": "https://open.spotify.com/album/28bYnQhOKBgA6NFngPPqPJ"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 174339,
-      "name": "Tudo Vai Ser Como Deve Ser",
-      "url": "https://open.spotify.com/track/6UVvpnthUpkYT7dQu3oJbQ"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -883,6 +835,22 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
+        "name": "Todo Azul",
+        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 152952,
+      "name": "Todo Azul",
+      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
+    },
+    {
+      "added_at": "2024-07-01 18:44:05",
+      "album": {
         "name": "Tenta",
         "url": "https://open.spotify.com/album/1pset4Mihdi5MPfWjJ0O1Y"
       },
@@ -899,22 +867,6 @@
       "duration_ms": 197560,
       "name": "Tenta",
       "url": "https://open.spotify.com/track/2yUYVT5UCEHFiowzNFF3WE"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
-        "name": "Todo Azul",
-        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 152952,
-      "name": "Todo Azul",
-      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -967,8 +919,8 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
-        "name": "J\u00e1 Te Falei",
-        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
+        "name": "Duas da Manh\u00e3",
+        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
       },
       "artists": [
         {
@@ -976,29 +928,9 @@
           "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
         }
       ],
-      "duration_ms": 205540,
-      "name": "J\u00e1 Te Falei",
-      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
-        "name": "Dan\u00e7a Comigo",
-        "url": "https://open.spotify.com/album/13P91cYrcOMBBceoxDLHJc"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        },
-        {
-          "name": "Nanda",
-          "url": "https://open.spotify.com/artist/1QD43Tp8RUMWTSWtRsqlvL"
-        }
-      ],
-      "duration_ms": 82380,
-      "name": "Dan\u00e7a Comigo",
-      "url": "https://open.spotify.com/track/69Rgymrzdoyqo7oEshYTBB"
+      "duration_ms": 198071,
+      "name": "Duas da Manh\u00e3",
+      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -1019,6 +951,26 @@
       "duration_ms": 216988,
       "name": "Diante dos Olhos",
       "url": "https://open.spotify.com/track/4MS7gcn0uGhmzNWWl5RRwd"
+    },
+    {
+      "added_at": "2024-07-01 18:44:05",
+      "album": {
+        "name": "Dan\u00e7a Comigo",
+        "url": "https://open.spotify.com/album/13P91cYrcOMBBceoxDLHJc"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        },
+        {
+          "name": "Nanda",
+          "url": "https://open.spotify.com/artist/1QD43Tp8RUMWTSWtRsqlvL"
+        }
+      ],
+      "duration_ms": 82380,
+      "name": "Dan\u00e7a Comigo",
+      "url": "https://open.spotify.com/track/69Rgymrzdoyqo7oEshYTBB"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -1075,6 +1027,26 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
+        "name": "Sonora Sessions: Gabriel Nandes",
+        "url": "https://open.spotify.com/album/2NWyCcCBNoxMHom6j01ous"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Nandes",
+          "url": "https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77"
+        },
+        {
+          "name": "Sonora Sessions",
+          "url": "https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb"
+        }
+      ],
+      "duration_ms": 188507,
+      "name": "Voc\u00ea Mentiu",
+      "url": "https://open.spotify.com/track/7bwie2qmIvmqGMk3adpAYK"
+    },
+    {
+      "added_at": "2024-07-01 18:44:05",
+      "album": {
         "name": "desacostumar (special edition)",
         "url": "https://open.spotify.com/album/4nuZLiikdYgkvWjitxOvVF"
       },
@@ -1095,8 +1067,8 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
-        "name": "V\u00e1 Com Deus",
-        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
+        "name": "No Teu Mar",
+        "url": "https://open.spotify.com/album/6ewFG75JpBi8H630jshivJ"
       },
       "artists": [
         {
@@ -1104,41 +1076,9 @@
           "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         }
       ],
-      "duration_ms": 172268,
-      "name": "V\u00e1 Com Deus",
-      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
-        "name": "Duas da Manh\u00e3",
-        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 198071,
-      "name": "Duas da Manh\u00e3",
-      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
-        "name": "Sem Saber Seu Nome",
-        "url": "https://open.spotify.com/album/3a63XpQ1GsZ55I6KRNY0vh"
-      },
-      "artists": [
-        {
-          "name": "Pedro Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
-        }
-      ],
-      "duration_ms": 228631,
-      "name": "Sem Saber Seu Nome",
-      "url": "https://open.spotify.com/track/7DmmaG43Jq3rZUDR3bITqD"
+      "duration_ms": 149072,
+      "name": "No Teu Mar",
+      "url": "https://open.spotify.com/track/3YI1nFCJBx33t2YM9d8VmT"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -1155,6 +1095,22 @@
       "duration_ms": 128904,
       "name": "Miragem",
       "url": "https://open.spotify.com/track/1fqC1wqKMIhyp2pSpyap0H"
+    },
+    {
+      "added_at": "2024-07-01 18:44:05",
+      "album": {
+        "name": "J\u00e1 Te Falei",
+        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 205540,
+      "name": "J\u00e1 Te Falei",
+      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -1191,22 +1147,6 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
-        "name": "Eu Sinto Muito",
-        "url": "https://open.spotify.com/album/1dlUQFGqoBTZ5P2KO5ohgO"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Eu Sinto Muito",
-      "url": "https://open.spotify.com/track/5lgsS8jO4AVZnaM9j9IwgT"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
         "name": "Embeleza o Meu Dia",
         "url": "https://open.spotify.com/album/5VWGI6NFkWzOOuHnQvEiln"
       },
@@ -1219,22 +1159,6 @@
       "duration_ms": 172760,
       "name": "Embeleza o Meu Dia",
       "url": "https://open.spotify.com/track/7GnBocYkE07GydCTZ7mhNi"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
-        "name": "Me Deixa Ser S\u00f3 Teu",
-        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Me Deixa Ser S\u00f3 Teu",
-      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -1255,18 +1179,34 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
-        "name": "Apressa",
-        "url": "https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ"
+        "name": "Eu Sinto Muito",
+        "url": "https://open.spotify.com/album/1dlUQFGqoBTZ5P2KO5ohgO"
       },
       "artists": [
         {
-          "name": "Rebeca",
-          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
         }
       ],
-      "duration_ms": 155100,
-      "name": "Apressa",
-      "url": "https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im"
+      "duration_ms": 160000,
+      "name": "Eu Sinto Muito",
+      "url": "https://open.spotify.com/track/5lgsS8jO4AVZnaM9j9IwgT"
+    },
+    {
+      "added_at": "2024-07-01 18:44:05",
+      "album": {
+        "name": "V\u00e1 Com Deus",
+        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 172268,
+      "name": "V\u00e1 Com Deus",
+      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -1291,6 +1231,22 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
+        "name": "Apressa",
+        "url": "https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ"
+      },
+      "artists": [
+        {
+          "name": "Rebeca",
+          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
+        }
+      ],
+      "duration_ms": 155100,
+      "name": "Apressa",
+      "url": "https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im"
+    },
+    {
+      "added_at": "2024-07-01 18:44:05",
+      "album": {
         "name": "Sol de S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
       },
@@ -1303,26 +1259,6 @@
       "duration_ms": 174000,
       "name": "Sol de S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
-    },
-    {
-      "added_at": "2024-07-01 18:44:05",
-      "album": {
-        "name": "Sonora Sessions: Gabriel Nandes",
-        "url": "https://open.spotify.com/album/2NWyCcCBNoxMHom6j01ous"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Nandes",
-          "url": "https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77"
-        },
-        {
-          "name": "Sonora Sessions",
-          "url": "https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb"
-        }
-      ],
-      "duration_ms": 188507,
-      "name": "Voc\u00ea Mentiu",
-      "url": "https://open.spotify.com/track/7bwie2qmIvmqGMk3adpAYK"
     },
     {
       "added_at": "2024-07-01 18:44:05",
@@ -1383,6 +1319,22 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
+        "name": "Bia Marques Sessions (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4FxJpaUTrbHY6jbD7c3BD4"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 145395,
+      "name": "Doce - Ao Vivo",
+      "url": "https://open.spotify.com/track/7ybk5hOq9uGrMMw3ICXzey"
+    },
+    {
+      "added_at": "2024-07-01 18:44:05",
+      "album": {
         "name": "Coisa Rara",
         "url": "https://open.spotify.com/album/2nZF5ivwh57dEE5zHD9dNn"
       },
@@ -1399,18 +1351,70 @@
     {
       "added_at": "2024-07-01 18:44:05",
       "album": {
-        "name": "Bia Marques Sessions (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4FxJpaUTrbHY6jbD7c3BD4"
+        "name": "Me Deixa Ser S\u00f3 Teu",
+        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
       },
       "artists": [
         {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         }
       ],
-      "duration_ms": 145395,
-      "name": "Doce - Ao Vivo",
-      "url": "https://open.spotify.com/track/7ybk5hOq9uGrMMw3ICXzey"
+      "duration_ms": 160000,
+      "name": "Me Deixa Ser S\u00f3 Teu",
+      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
+    },
+    {
+      "added_at": "2024-07-05 03:00:00",
+      "album": {
+        "name": "PROIBIDO N\u00c3O GOSTAR",
+        "url": "https://open.spotify.com/album/69WlCG6kcfEwIinh2asJcu"
+      },
+      "artists": [
+        {
+          "name": "Duda Brack",
+          "url": "https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab"
+        },
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/7JqcuxIUQDuLNE8LMoRB7X"
+    },
+    {
+      "added_at": "2024-07-05 03:00:00",
+      "album": {
+        "name": "Urbano",
+        "url": "https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 129381,
+      "name": "\u00d4 Sorte",
+      "url": "https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB"
+    },
+    {
+      "added_at": "2024-07-05 03:00:00",
+      "album": {
+        "name": "GUARDA O TEU CORA\u00c7\u00c3O",
+        "url": "https://open.spotify.com/album/6ygRDr2Uf4Tz7jvVitXyJy"
+      },
+      "artists": [
+        {
+          "name": "Arthur Martins",
+          "url": "https://open.spotify.com/artist/1DqIsYBAF5gtBsKQI5dPXd"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "GUARDA O TEU CORA\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/0IHNarDUnqJzHCWSGeGSGS"
     },
     {
       "added_at": "2024-07-01 18:44:05",

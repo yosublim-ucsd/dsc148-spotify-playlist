@@ -2,14 +2,14 @@
 
 ### [I Love My Underground Classics](https://open.spotify.com/playlist/37i9dQZF1DXdUAMxTn0rVu)
 
-> Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Common
+> Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: The Alchemist
 
-149 songs - 10 hr 1 min
+151 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100% Dundee](https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 3:53 | 2020-09-25 |  |
-| [1999 \- Street](https://open.spotify.com/track/1379SGBOnPB6yNc3sj1Dj6) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Sadat X](https://open.spotify.com/artist/7fDLDq2weBagiAFD2j17Al) | [Rawkus Records \- Best of Decade I 1995\-2005 \(Explicit Version\)](https://open.spotify.com/album/3Uk9Cu2QdEwM1BHacXYp9W) | 4:16 | 2022-02-08 |  |
+| [1999 \- Street](https://open.spotify.com/track/1379SGBOnPB6yNc3sj1Dj6) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Sadat X](https://open.spotify.com/artist/7fDLDq2weBagiAFD2j17Al) | [Rawkus Records \- Best of Decade I 1995\-2005 \(Explicit Version\)](https://open.spotify.com/album/3Uk9Cu2QdEwM1BHacXYp9W) | 4:16 | 2022-02-08 | 2024-07-06 |
 | [2000 Seasons](https://open.spotify.com/track/5fAacciZPmLLFrr8RZ5fvn) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Train of Thought: Lost Lyrics, Rare Releases & Beautiful B\-Sides, Vol\. 1](https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo) | 4:13 | 2021-03-26 | 2024-06-01 |
 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 | 2020-09-25 |  |
 | [Above The Clouds](https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 3:41 | 2022-09-30 |  |
@@ -66,6 +66,7 @@
 | [He Comes \(feat\. Ghostface\)](https://open.spotify.com/track/4l6SxtkpHebFGpKH2xPnAU) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Ghostface](https://open.spotify.com/artist/3t5QLYg3fqvohxXt7q1niX) | [The Grind Date](https://open.spotify.com/album/1RmcAYmGiRHFBjhgkrg3AA) | 3:44 | 2022-02-08 | 2023-05-02 |
 | [High Expectations](https://open.spotify.com/track/546IPb3Ibo63aXZgHTO00C) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Soul in the Hole \(Original Music from and Inspired by the Motion Picture\)](https://open.spotify.com/album/14HG4eN496ABqibDVn3pZc) | 4:14 | 2023-06-02 | 2023-07-02 |
 | [Hip Hop Essentials](https://open.spotify.com/track/4gBwvgP9zhEv6S0QkIsreH) | [Rasco](https://open.spotify.com/artist/3W9SDpMLYOSVYn5zIqr90j) | [Time Waits For No Man](https://open.spotify.com/album/2TlXbfIjSLPBvhs6jUmhJW) | 4:14 | 2022-02-08 | 2022-07-20 |
+| [Hold You Down](https://open.spotify.com/track/4TpBPG62p9RefejCGNoxF9) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6), [Prodigy](https://open.spotify.com/artist/1GwxXgEc6oxCKQ5wykWXFs), [Illa Ghee](https://open.spotify.com/artist/3brL6NPSZHYrJNzeUKcVbL) | [1st Infantry](https://open.spotify.com/album/6bTrNPIYDpWVFoE3E7wpUk) | 3:58 | 2024-07-05 |  |
 | [I Declare War](https://open.spotify.com/track/3x9oD1pM3gTgNBBOazMq1V) | [Pacewon](https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt) | [Won](https://open.spotify.com/album/34fhxFsx0fd56F7qwfJUYH) | 2:37 | 2020-09-25 | 2023-02-04 |
 | [I Juswanna Chill](https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw) | [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [The LP](https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1) | 3:28 | 2020-09-25 |  |
 | [I Love You \(Bitch\)](https://open.spotify.com/track/30Fn7SCjCEqG0hZTOyQb52) | [Sean Price](https://open.spotify.com/artist/2x6jz70u3sZq75tW10akUW) | [Monkey Barz](https://open.spotify.com/album/4zJT6c0bh2o1RcVlZOfcbe) | 3:20 | 2020-09-25 | 2022-06-25 |
@@ -155,7 +156,8 @@
 | [Work](https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 2:57 | 2022-09-30 |  |
 | [Workinonit](https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Donuts](https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW) | 2:57 | 2022-02-08 | 2024-04-19 |
 | [Workinonit](https://open.spotify.com/track/6qK7s9JlNBfYLWPb1nwQAG) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Donuts](https://open.spotify.com/album/7xJ7jHNu3JNfdnao9xwMho) | 2:57 | 2021-02-01 | 2022-07-29 |
-| [Worst Comes To Worst \- Edited](https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Expansion Team](https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB) | 3:35 | 2021-08-13 |  |
+| [Worst Comes To Worst](https://open.spotify.com/track/4bHrZLxaOU1gfAz0rZAnCx) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Expansion Team](https://open.spotify.com/album/5l8eNNfdgghJbhPtOf0aw2) | 3:36 | 2024-07-05 |  |
+| [Worst Comes To Worst \- Edited](https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Expansion Team](https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB) | 3:35 | 2021-08-13 | 2024-07-06 |
 | [Your Fuckin’ Head Split](https://open.spotify.com/track/1WkJbf3RsZCtPUvxM8AdN9) | [Necro](https://open.spotify.com/artist/51vjIMmHWyVqDrkxD07Jh7) | [I Need Drugs](https://open.spotify.com/album/3goXMAFZit2Wiaazp8zO2f) | 3:02 | 2022-02-08 |  |
 
 \*This playlist was first scraped on 2022-01-10. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Clairo
 
-983 songs - 2 day 3 hr 2 min
+987 songs - 2 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [childish](https://open.spotify.com/track/3DjoJbtUyKN2ydYbVZq4Gg) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [childish / sanctuary](https://open.spotify.com/album/2CnVGmUmGV68rcg2ec9Jw9) | 2:27 | 2021-05-23 | 2021-05-28 |
 | [Chinese New Year](https://open.spotify.com/track/0SIAFU49FFHwR3QnT5Jx0k) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Chinese New Year](https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi) | 2:40 | 2020-06-12 | 2023-06-10 |
 | [Circles](https://open.spotify.com/track/4KxRDX5ora3JaeXn2ie1w8) | [Folk9](https://open.spotify.com/artist/4rZltXRJKOJfrMb94wvBbL), [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Circles](https://open.spotify.com/album/4nQ4ccQz4BEtVkRIZOT06t) | 3:42 | 2021-02-28 | 2021-05-23 |
-| [cirrostratus](https://open.spotify.com/track/6bYMqPOoKowrOAUlboVcEi) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [cirrostratus](https://open.spotify.com/album/6KoqPWFxw1UWqYWMEbw3Al) | 2:32 | 2024-01-12 |  |
+| [cirrostratus](https://open.spotify.com/track/6bYMqPOoKowrOAUlboVcEi) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [cirrostratus](https://open.spotify.com/album/6KoqPWFxw1UWqYWMEbw3Al) | 2:32 | 2024-01-12 | 2024-07-06 |
 | [Cleaner Air](https://open.spotify.com/track/3RNHSxHnAIdMAHtMsVNqlS) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Cleaner Air](https://open.spotify.com/album/2DSu8njxwzY0bNvc029jNf) | 2:08 | 2019-07-30\* | 2020-04-24 |
 | [Clear Water](https://open.spotify.com/track/4VkcLBrVk0rjcbSvEIjyix) | [Pretty Boy Aaron](https://open.spotify.com/artist/6TIiGARk7Eo8igAnbM2eeR), [Phlowerie](https://open.spotify.com/artist/4gnXAbCkJgPL3Pd2D79B5A) | [Pretty Boy](https://open.spotify.com/album/327jlRWWT2vjxbTIHGVWFX) | 2:22 | 2021-10-25 | 2022-04-19 |
 | [Clementine](https://open.spotify.com/track/2odYMaZmkYcfcuIaxIZGlR) | [Sonya](https://open.spotify.com/artist/1sxq3PHS2sb0jQhAQRv3TA) | [Clementine](https://open.spotify.com/album/10Zs0dh8IWO0Ztahybh90K) | 2:08 | 2024-01-12 | 2024-04-24 |
@@ -319,6 +319,7 @@
 | [Fool](https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V) | 3:53 | 2021-02-27 | 2022-12-15 |
 | [Fool](https://open.spotify.com/track/45BBrk7dOwXpn45XpAEdp2) | [Choo](https://open.spotify.com/artist/75XWZB98ncTvMwUP2sucIi) | [Fool](https://open.spotify.com/album/5QyW8tO1c08bXfLMu7dnMk) | 4:02 | 2020-01-23 | 2020-04-05 |
 | [Fool](https://open.spotify.com/track/18wWSj6ydP6E8oSkgw5vrM) | [Emmett Mulrooney](https://open.spotify.com/artist/5pJ2pz0jrulWmS23wiPknh) | [Fool](https://open.spotify.com/album/6ZFJA2oxw1AdQUop3BzTV8) | 3:11 | 2021-08-27 | 2022-07-29 |
+| [FOOL 4 U](https://open.spotify.com/track/350gfBgFmGRocTUld0ppMP) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [FOOL 4 U](https://open.spotify.com/album/0129HIAFAn0iAdGTZ1BPyd) | 3:04 | 2024-07-05 |  |
 | [For the First Time](https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:02 | 2024-04-23 |  |
 | [FOREVER](https://open.spotify.com/track/0X4gcqSwVi48ZwrTCIrxkT) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [FOREVER](https://open.spotify.com/album/6GAa7DcoYONEcHPYXBd7dt) | 3:47 | 2021-09-10 | 2022-05-04 |
 | [forever, with you](https://open.spotify.com/track/593EdsNavqugMt7jSoptxC) | [Paradise Blossom](https://open.spotify.com/artist/69CROBu60QZWX8uig8XpDb) | [forever, with you](https://open.spotify.com/album/1gxjY87dJpAGGSXLGimXVS) | 2:56 | 2024-01-12 | 2024-03-27 |
@@ -362,12 +363,13 @@
 | [golden feeling since june](https://open.spotify.com/track/4ALuKkHjcduEJq9wll2uEJ) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Over Grey Skies](https://open.spotify.com/album/0lR03Yi5SSu0IeFMkE7jG1) | 2:27 | 2019-07-30\* | 2021-05-03 |
 | [Golden Light](https://open.spotify.com/track/1rPYEWQfIRo5A4fvLgFbBe) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Miracle Mile](https://open.spotify.com/album/1bvGSdxElbk5CTTPIrWO2L) | 4:43 | 2024-04-23 |  |
 | [Good Dog](https://open.spotify.com/track/5T0Y9lMJNNA50FswxRPkmX) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG) | [Good Dog](https://open.spotify.com/album/3OFQDp9qEGZvI9QeAZqCYK) | 2:58 | 2021-04-30 | 2021-08-25 |
+| [Goodbye](https://open.spotify.com/track/0p1KjT88fOshVrM0sFVDhA) | [Sonia Gadhia](https://open.spotify.com/artist/3bjxtDdZiByIKfHFEK96zB), [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Goodbye](https://open.spotify.com/album/0T0wt8HN43bWa4fkBcoLHD) | 2:54 | 2024-07-05 |  |
 | [Goodbye Texas](https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Goodbye Texas](https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3) | 3:34 | 2023-02-10 |  |
 | [Goodie Bag](https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl) | 2:26 | 2019-07-30\* | 2022-07-29 |
 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 | 2021-02-27 | 2024-04-19 |
 | [Gotta Run](https://open.spotify.com/track/1KcuZCtR3XTcJS6VJsLiHS) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Gotta Run](https://open.spotify.com/album/1FBzIbU60x8HY7z9xzIKTT) | 3:08 | 2020-06-12 | 2021-05-24 |
 | [Gravity](https://open.spotify.com/track/2bCAgbpt22GjAYlO2PggAj) | [Posh Chocolates](https://open.spotify.com/artist/3xTWaGPtvulmX73dfT71J1) | [Gravity](https://open.spotify.com/album/299IQB4kbejJwVROtq0jBK) | 2:48 | 2021-08-13 | 2022-04-20 |
-| [gum v6.4](https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [gum](https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE) | 3:41 | 2024-01-12 |  |
+| [gum v6.4](https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [gum](https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE) | 3:41 | 2024-01-12 | 2024-07-06 |
 | [Gummi Bear](https://open.spotify.com/track/7gKgu4EJwLTuYZXIzA23vO) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Thursday Friday](https://open.spotify.com/album/4aLMhlTE9KUz6L2MMYs1xw) | 4:18 | 2021-04-03 | 2021-08-20 |
 | [gushers](https://open.spotify.com/track/1mByHpt75sOE7xFToiJntc) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [tape 001](https://open.spotify.com/album/20aDiqiFzvjFvRsKwvNrbS) | 2:34 | 2021-03-21 | 2021-08-28 |
 | [Habit](https://open.spotify.com/track/1M321puDN1WBd5NF0ogOKW) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Habit](https://open.spotify.com/album/0gZEC6z4RSUiLOK9nHhGwG) | 2:33 | 2019-07-31 | 2021-08-28 |
@@ -533,6 +535,7 @@
 | [Lover Is a Day](https://open.spotify.com/track/7saliZ9OxOgVZvac91pnHH) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Wannabewithu](https://open.spotify.com/album/6uOJGKQMmk2LyNeEwRewTe) | 7:36 | 2019-07-31 | 2022-04-20 |
 | [Loverboy](https://open.spotify.com/track/3eKvhQ3qNnxlZBwq8uP8fz) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [Loverboy](https://open.spotify.com/album/6lrOEu5jfjS4BpJDFeZJaQ) | 2:50 | 2021-08-27 | 2022-04-18 |
 | [Loverboy](https://open.spotify.com/track/375MmzTJHKB4cL7kEfTgKy) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy) | [Loverboy](https://open.spotify.com/album/3tZtehud2gmrnNNm9IsMOi) | 3:26 | 2019-12-23 | 2020-04-12 |
+| [lovers](https://open.spotify.com/track/0nDPiOmDMOzUBBLdrpnqmM) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [lovers](https://open.spotify.com/album/3oBBhAVngxucbdMcQhFY8k) | 3:50 | 2024-07-05 |  |
 | [LoveSick](https://open.spotify.com/track/1zS5TccQwMDp5ZsEnt4FAh) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Faded](https://open.spotify.com/album/3PDjhTtjrjMLcNXjnfykz7) | 2:26 | 2021-09-10 | 2022-12-15 |
 | [LoveSick](https://open.spotify.com/track/6MEHkS9tjO4ztPmqlXtzGr) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Faded](https://open.spotify.com/album/1C9KIpgrisvGtCxTfNBBaJ) | 2:26 | 2021-09-10 | 2022-04-19 |
 | [Lovetripper](https://open.spotify.com/track/0BfHjBugow6VGOvj66cFGr) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Para Mi](https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m) | 5:09 | 2019-08-09 | 2019-08-10 |
@@ -750,6 +753,7 @@
 | [Sis](https://open.spotify.com/track/6Qoz4HdYCIzQCmEd8ARYWP) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sis](https://open.spotify.com/album/0tGZsYEJXwkOnnTGuHTrli) | 2:16 | 2019-07-31 | 2021-08-03 |
 | [Six AM](https://open.spotify.com/track/5ac9xtBIyhpsPqqH7dBVQ2) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [wya](https://open.spotify.com/album/79kdqxniiLUROGEZ3L7cRF) | 2:05 | 2019-07-31 | 2021-05-27 |
 | [Six Speed](https://open.spotify.com/track/38loOBAgDgCW4pFWyH9cey) | [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [Six Speed](https://open.spotify.com/album/2DkQzt5cmb3Jy8ZQH4tBo9) | 2:00 | 2019-07-31 | 2023-08-26 |
+| [Skeleton Key](https://open.spotify.com/track/1JnRhnZMomYsZ13RI3PRUQ) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Skeleton Key](https://open.spotify.com/album/6AplXmqTv6a4Pl7agAhEEv) | 3:18 | 2024-07-05 |  |
 | [Skin](https://open.spotify.com/track/467t3218y3yihFcyDGWjr0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Skin](https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW) | 3:50 | 2024-04-23 |  |
 | [skype calls](https://open.spotify.com/track/4i4YoTjnTs1Z0VRAX9GSIU) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [come ovr/skype calls](https://open.spotify.com/album/6WlsGn24BvEIiQCyCXtvfG) | 3:12 | 2019-11-26 | 2021-05-27 |
 | [Sleep Well](https://open.spotify.com/track/3GWuPbPr5nT65fmew963zV) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Sleep Well](https://open.spotify.com/album/7vT3flPEcoHfHJrGGw1YFU) | 4:08 | 2021-03-19 | 2022-04-29 |
@@ -886,7 +890,7 @@
 | [Tournament Hill](https://open.spotify.com/track/3ntVC9mzbS7NjyrcojDFnS) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Tournament Hill](https://open.spotify.com/album/3t6qVSXwI78uPSTBtDBDKb) | 1:53 | 2019-08-02 | 2020-01-30 |
 | [Tree Among Shrubs](https://open.spotify.com/track/4JYJU761kWJEK91hyug33F) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 3:08 | 2021-08-27 | 2023-08-26 |
 | [Trippy World](https://open.spotify.com/track/0IzEXsrtZN9onM5t4dtyGr) | [Soft Pine](https://open.spotify.com/artist/2GT63EyB3EMBmSJXOupIwx) | [Trippy World](https://open.spotify.com/album/7ubrvFHlXFlma8eLl8Vl2S) | 2:47 | 2021-06-25 | 2022-04-20 |
-| [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 | 2024-03-01 |  |
+| [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 | 2024-03-01 | 2024-07-06 |
 | [Turbulence](https://open.spotify.com/track/1LZ4N16PaRnOg7odVvBG34) | [Jay Portal](https://open.spotify.com/artist/2mE6lFglCyhkrseEcufU0d) | [Turbulence](https://open.spotify.com/album/1RBEZ22dLFRuWwuluBlasY) | 1:50 | 2021-08-13 | 2022-04-17 |
 | [Turtleneck Sweater](https://open.spotify.com/track/2QHTcXI19lvcVrkVeADxa5) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Turtleneck Sweater](https://open.spotify.com/album/42mVQOTeh84Y7TFu9wKUbd) | 2:30 | 2020-04-18 | 2022-04-29 |
 | [tuviste](https://open.spotify.com/track/7GF3A4qaws52KBcxUB1Owl) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tuviste](https://open.spotify.com/album/6MCEy8eBUXCoT7r2InLlxC) | 3:54 | 2021-05-14 | 2022-04-21 |
@@ -956,7 +960,7 @@
 | [Wind](https://open.spotify.com/track/1rphSU3RK5DTitT9muQ1rE) | [Healing Potpourri](https://open.spotify.com/artist/7DORj3eYMlPwqbRZ4StSmQ) | [Wind](https://open.spotify.com/album/2UsxClNKxjLQKvBPf7diro) | 3:44 | 2022-06-14 | 2022-06-23 |
 | [Wish You Well](https://open.spotify.com/track/6PcDDuSAPG1AE1wefg6Y7D) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Wish You Well](https://open.spotify.com/album/7q1q1QmZumtecSST83J210) | 3:55 | 2021-10-08 | 2022-07-18 |
 | [With Somebody](https://open.spotify.com/track/2pxjnQcQ2fNje67977QI0f) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [With Somebody](https://open.spotify.com/album/5FCsvzNZ50iU6eKUvWLBNu) | 3:24 | 2023-04-17 | 2024-04-24 |
-| [Woman](https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Woman](https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds) | 3:10 | 2024-04-23 |  |
+| [Woman](https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Woman](https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds) | 3:10 | 2024-04-23 | 2024-07-06 |
 | [Work It On Out](https://open.spotify.com/track/2pPWGBZzE1h46lgYv6CgYn) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Bloom Baby Bloom](https://open.spotify.com/album/1OeU8CeNl7tLWNWrKTQ8QO) | 3:45 | 2021-05-01 | 2022-06-22 |
 | [Workin’ On It](https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Workin' On It](https://open.spotify.com/album/4KD7VxzKwT2hNNNyEuk9I8) | 3:35 | 2024-04-23 |  |
 | [Wormwood](https://open.spotify.com/track/3W89enABhR4P2BFYvARctH) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Her and All of My Friends](https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK) | 2:59 | 2023-04-17 |  |

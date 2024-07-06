@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: : beabadoobee
 
-1,642 songs - 4 day 2 hr 56 min
+1,643 songs - 4 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1158,6 +1158,7 @@
 | [Right on time](https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:44 | 2022-02-17 | 2022-06-03 |
 | [Right Out The Window](https://open.spotify.com/track/3EaKMMt6amp2ugYQnIzQeD) | [Sunshine Boysclub](https://open.spotify.com/artist/0gdl8nlCZQBRSMRLTj1FwB) | [Hut on the Hill](https://open.spotify.com/album/0rYVOt1BF78JvhOVC2j613) | 3:18 | 2022-02-03 | 2022-04-23 |
 | [Right People Wrong Time](https://open.spotify.com/track/0TPogBqvsj6i1h6vclDYX1) | [Kim!](https://open.spotify.com/artist/2EVVSRpRPI6B5xw6cbaXCa) | [Right People Wrong Time](https://open.spotify.com/album/4mVRXhbtobK8nUxIfW2v7a) | 2:59 | 2022-02-03 | 2022-03-11 |
+| [right where you left me](https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [right where you left me](https://open.spotify.com/album/0a28dOkcC53FjmLwNpVEOm) | 2:53 | 2024-07-04 |  |
 | [Ring of Past](https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Ring of Past](https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L) | 3:21 | 2023-02-17 | 2023-06-02 |
 | [ringringring](https://open.spotify.com/track/18jycfEb8t7gDaELRiVNac) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [ringringring](https://open.spotify.com/album/2gw8fYdm5Sxc1NCntLC7EH) | 3:47 | 2024-05-23 |  |
 | [Road](https://open.spotify.com/track/6f5OzmQxiXh6viB0WQP1C2) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 5:18 | 2022-12-08 | 2023-03-11 |

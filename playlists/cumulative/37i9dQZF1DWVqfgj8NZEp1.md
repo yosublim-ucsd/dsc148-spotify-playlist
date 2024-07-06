@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-316 songs - 1 day 5 hr 4 min
+317 songs - 1 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Clouds](https://open.spotify.com/track/7LIFp3v3CaTCvcG6fmceIg) | [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a) | [Clouds](https://open.spotify.com/album/3LEyIlY9P6z9Mvp6dpxk9d) | 4:43 | 2020-11-27 |  |
 | [Clouds](https://open.spotify.com/track/7hW3pQ8yVD94VzKiX0RC8u) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 4:43 | 2022-06-30 | 2024-04-19 |
 | [Colonel Sanders \- Two Moons Analog Session](https://open.spotify.com/track/6sq2nfadF6Riqdbb3e5k8U) | [Sebastian Gahler](https://open.spotify.com/artist/3CfwkW9rDM1yyEuPRRBG5W), [Denis Gäbel](https://open.spotify.com/artist/1D6hUykxz5eOqzOmk1rtn0) | [Colonel Sanders \(Two Moons Analog Session\)](https://open.spotify.com/album/0WDdLI63t4lp8YCItwfRPm) | 5:19 | 2023-01-26 |  |
-| [Come What May](https://open.spotify.com/track/4CY09ZCdgvjtCaw0fGITbN) | [Joshua Redman Quartet](https://open.spotify.com/artist/53HPdlKWDIGFF4GvVrCtEV) | [Come What May](https://open.spotify.com/album/38R4DeasP4tqHhfiiShLVE) | 6:46 | 2020-10-09 |  |
+| [Come What May](https://open.spotify.com/track/4CY09ZCdgvjtCaw0fGITbN) | [Joshua Redman Quartet](https://open.spotify.com/artist/53HPdlKWDIGFF4GvVrCtEV) | [Come What May](https://open.spotify.com/album/38R4DeasP4tqHhfiiShLVE) | 6:46 | 2020-10-09 | 2024-07-06 |
 | [Contemplation](https://open.spotify.com/track/78siZ5mLJApB78bhS9WwXI) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Contemplation](https://open.spotify.com/album/7rvhFTQ5KZNCzFtomenAfv) | 4:37 | 2023-05-25 |  |
 | [Contemplation](https://open.spotify.com/track/7IYXZHYRWyhaKwoZGHckkM) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment: Second View](https://open.spotify.com/album/7CxvY9uDtXY6za0GdpWInW) | 4:37 | 2023-08-24 | 2024-04-19 |
 | [Count Your Blessings](https://open.spotify.com/track/6NpwgYdHNNpq81GnpJNx3Y) | [Seamus Blake](https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY), [Chris Cheek](https://open.spotify.com/artist/0UNmTLmOIClt5YDeEkZuk1) | [Let's Call the Whole Thing Off](https://open.spotify.com/album/4jWRaPmgnSrobk6RLirNOG) | 8:12 | 2020-10-09 | 2022-03-18 |
@@ -319,6 +319,7 @@
 | [Who Could Care?](https://open.spotify.com/track/1kBKndNFG5Um2DK87FYk1m) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Recorded Fall '61](https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h) | 4:46 | 2022-06-30 | 2024-04-19 |
 | [Who Could Care?](https://open.spotify.com/track/2TdqT2IBlGFxP8c3AeoX4K) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Jazz Sax Festival](https://open.spotify.com/album/2RdHPLOMOLhGkCG7mTG7Io) | 4:46 | 2022-11-10 | 2022-11-13 |
 | [Why Did I Choose You](https://open.spotify.com/track/5KT7qJe8KOoafHAkUFWmRd) | [Houston Person](https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr) | [Reminiscing at Rudy's](https://open.spotify.com/album/3Fh49WPCX4Xq6fbbSHw0b4) | 4:12 | 2022-11-17 |  |
+| [Why Was I Born](https://open.spotify.com/track/7a3aOIigjCBXW34Q1w6gvk) | [John Lee](https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN) | [Second Wind](https://open.spotify.com/album/5246UsnGsn1Q1i15dhLzvy) | 4:48 | 2024-07-05 |  |
 | [Woodwind](https://open.spotify.com/track/0g1TBY3JUXO8fGD2iI1CM7) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Woodwind](https://open.spotify.com/album/5JwbjlP5BpJ7LouNT6tNxU) | 5:20 | 2022-10-06 |  |
 | [Yesteryear](https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Yesteryear](https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD) | 4:19 | 2023-02-16 |  |
 | [You Go To My Head](https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 4:18 | 2020-10-09 | 2023-09-07 |

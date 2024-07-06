@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-955 songs - 1 day 23 hr 37 min
+956 songs - 1 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Bir Gün Ol Yerimde](https://open.spotify.com/track/4NYYwPTLIgoyPNG2iu3OrG) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bir Gün Ol Yerimde](https://open.spotify.com/album/2GnkPSkkWAE1tmdHwSLa0b) | 2:49 | 2023-12-15 |  |
 | [Bir İmkansız Var](https://open.spotify.com/track/6dcYNJRora79VEpUj5S2w4) | [Emrah Karaduman](https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Bir İmkansız Var](https://open.spotify.com/album/2nVfIifuijOR2SLCrZecIZ) | 2:32 | 2024-02-11 | 2024-05-13 |
 | [Bir Karanfil](https://open.spotify.com/track/0a56Y5XrlRQ0JYg6jse5QJ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Karanfil](https://open.spotify.com/album/3Yb6RlZyEkrXfbYjsqFzPb) | 2:53 | 2024-06-08 |  |
-| [Bir Oluruz Yolunda \- Version 1](https://open.spotify.com/track/4gAB2dr4FfTUVgJooEoFVe) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Bir Oluruz Yolunda](https://open.spotify.com/album/0gmJnEgzHmgAiRE85r2Dpu) | 4:16 | 2024-07-03 |  |
+| [Bir Oluruz Yolunda \- Version 1](https://open.spotify.com/track/4gAB2dr4FfTUVgJooEoFVe) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Bir Oluruz Yolunda](https://open.spotify.com/album/0gmJnEgzHmgAiRE85r2Dpu) | 4:16 | 2024-07-03 | 2024-07-06 |
 | [Bir Sebebi Var](https://open.spotify.com/track/4WixufiyHUgg1jFqkYop2K) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bir Sebebi Var](https://open.spotify.com/album/1TOYbjUU1GF3KTbb6JZj1i) | 3:30 | 2021-03-27\* | 2021-09-03 |
 | [Bir Şehri Sevmek](https://open.spotify.com/track/6jDRPXjvUv2N9ACBXR6sTh) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme), [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Bir Şehri Sevmek](https://open.spotify.com/album/4I9V8wfMcG9u2ZF4h7E4GC) | 3:15 | 2024-03-02 | 2024-03-10 |
 | [Birader](https://open.spotify.com/track/3MlvEOpAgoyTx3wIx3Qdbl) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Birader](https://open.spotify.com/album/7BkXqpxNDF88chpCD4OdOS) | 3:24 | 2022-04-08 | 2022-09-03 |
@@ -251,6 +251,7 @@
 | [Derinden / bazen hayat çok kötü gidiyor ve ben onu nasıl anlatacağımı bilemiyorum](https://open.spotify.com/track/1iFGzZThVz7rYr2uqaTffV) | [Barış Diri](https://open.spotify.com/artist/1K3hYM185V2bhs9iRzFpIH) | [Derinden / bazen hayat çok kötü gidiyor ve ben onu nasıl anlatacağımı bilemiyorum](https://open.spotify.com/album/0NMAVArKbc1TFBih22eIMt) | 3:05 | 2021-03-27\* | 2023-03-11 |
 | [Derinlerde](https://open.spotify.com/track/7eGi47ucrFzRVwMiNvPtsU) | [Mark Eliyahu](https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9), [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [About Love](https://open.spotify.com/album/0TJ4vUmmSvJ4DMGRq9WhYu) | 3:21 | 2023-04-16 | 2023-06-04 |
 | [Değilim Bi Aşık](https://open.spotify.com/track/0zjiGvCYPHDT7OT4HIv5kp) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [Değilim Bi Aşık](https://open.spotify.com/album/7eCHPDgtLhtJPxt8Ghk3lX) | 2:43 | 2022-10-20 | 2022-12-18 |
+| [Değişmene Rağmen](https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Değişmene Rağmen](https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz) | 3:05 | 2024-07-05 |  |
 | [Diabolico](https://open.spotify.com/track/4c2M8LTjJChc890Pr1I43h) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Diabolico](https://open.spotify.com/album/7t5MPt9ACpBHcWwXsx9AM7) | 3:09 | 2022-02-05 | 2022-02-09 |
 | [Dibine Kadar](https://open.spotify.com/track/5pbFyTdwtJVmZB5LXmccX4) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Duman 1](https://open.spotify.com/album/0DKrLdv42DlBsGZQYMKU8C) | 3:48 | 2021-10-20 | 2022-02-13 |
 | [Diken Mi Gül Mü?](https://open.spotify.com/track/0QQ1BLUudNdqOHg3FpFnYH) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Yeni Aşkım](https://open.spotify.com/album/3zuJa3yg2XJWMmxoOULDaA) | 3:28 | 2023-03-31 | 2023-08-25 |

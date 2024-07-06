@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-142 songs - 8 hr 23 min
+143 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Statistics](https://open.spotify.com/track/2SKrFsrNoT1CO2uBDd9Ora) | [Lyfe Jennings](https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf) | [I Still Believe \(Deluxe\)](https://open.spotify.com/album/2m1dt02G7ShQXmdz549Vpi) | 3:23 | 2023-12-13 |  |
 | [Stressed \(with J\. Cole & T\-Shyne\)](https://open.spotify.com/track/0uqsdBw9KvD8jSWmfMmMAp) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [T\-Shyne](https://open.spotify.com/artist/14qypx78D3Jd1mm7c2BqQb) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 3:40 | 2023-12-13 |  |
 | [Summer Bummer \(feat\. A$AP Rocky & Playboi Carti\)](https://open.spotify.com/track/5QqyRUZeBE04yJxsD1OC0I) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:20 | 2023-12-13 |  |
-| [Sunday Morning](https://open.spotify.com/track/14a5LKghQkm7AUaxUCSBHg) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Atlantis: Hymns For Disco](https://open.spotify.com/album/2JCIYwOXrHK2TTamO9X1nL) | 3:47 | 2023-12-13 |  |
+| [Sunday Morning](https://open.spotify.com/track/14a5LKghQkm7AUaxUCSBHg) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Atlantis: Hymns For Disco](https://open.spotify.com/album/2JCIYwOXrHK2TTamO9X1nL) | 3:47 | 2023-12-13 | 2024-07-06 |
+| [Sunday Morning](https://open.spotify.com/track/5TridrikuB8m6Cc1Em7mKN) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Atlantis \- Hymns For Disco](https://open.spotify.com/album/2ZhDy6jEDhPznslp5BidBs) | 3:47 | 2024-07-05 |  |
 | [Sunshine \- In Studio](https://open.spotify.com/track/6tQsHftopPaC1toeH5CV9v) | [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [BOY \(In Studio\)](https://open.spotify.com/album/7J7UwPas7q9pAy8c1EyBdR) | 3:58 | 2023-12-13 |  |
 | [Swimming Pools \(Drank\)](https://open.spotify.com/track/23RXMgsL67RwKHYy8tJRwF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Swimming Pools \(Drank\)](https://open.spotify.com/album/6SKicD1IkM8QF8hCK45gGe) | 3:52 | 2023-12-13 | 2024-02-02 |
 | [Swimming Pools \(Drank\)](https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Swimming Pools \(Drank\)](https://open.spotify.com/album/2XPrwlaAHHXnJzP9tBcIzH) | 4:07 | 2023-12-14 |  |

@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-144 songs - 8 hr 35 min
+145 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Nada é Melhor Do Que Você](https://open.spotify.com/track/5av3enKGwy5cfBKX8dpQ4r) | [Vitto Meirelles](https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee) | [Da Hora](https://open.spotify.com/album/7nPkLH5JVbbc1mvesc6cGi) | 4:35 | 2021-11-26 | 2024-04-19 |
 | [No Gurufim do Tio Sam](https://open.spotify.com/track/4GbVxEoS43Q8TfmvLveiuP) | [Rodrigo Lessa](https://open.spotify.com/artist/579p9tBYxs1p79tqV8nqTG), [Celsinho Silva](https://open.spotify.com/artist/4JdO9dhvvCt7GeaTuta1aR), [Edu Neves](https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY), [Everson Moraes](https://open.spotify.com/artist/6HX0YIU3MInb2cWswmGXZW), [Lucas Brito](https://open.spotify.com/artist/1AMghPiVVQlIpgRAC7xqKi), [Rogério Souza](https://open.spotify.com/artist/3VMrYFbtHX3uXrdP1ZuZp1) | [No Jeito](https://open.spotify.com/album/2s9LJjJJgI3WskTqhu9wx8) | 3:41 | 2021-11-26 |  |
 | [O Melhor Carinho](https://open.spotify.com/track/3xd46xZUGiSYimnA2KjpHw) | [Elisa Gudin](https://open.spotify.com/artist/0KohRofb3VpXpSrUmcGw4I) | [O Melhor Carinho](https://open.spotify.com/album/4IX9RG24kBaqKZHdn8G59o) | 3:13 | 2021-11-26 |  |
-| [O Morro Nao Tem Vez](https://open.spotify.com/track/57U0iv9L9gG6fqXXIle1GB) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Antonio Carlos Jobim](https://open.spotify.com/album/1cnvL1UIhCM0OQODOGJYyT) | 3:19 | 2021-11-26 |  |
+| [O Morro Nao Tem Vez](https://open.spotify.com/track/57U0iv9L9gG6fqXXIle1GB) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Antonio Carlos Jobim](https://open.spotify.com/album/1cnvL1UIhCM0OQODOGJYyT) | 3:19 | 2021-11-26 | 2024-07-06 |
 | [O Morro Não Tem Vez](https://open.spotify.com/track/6fwICn8FWouigyB8BxfljW) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Composer Of Desafinado, Plays](https://open.spotify.com/album/3tW43cUkPyYkzzntfPwm4A) | 3:20 | 2021-11-26 | 2024-04-19 |
 | [O Morro Não Tem Vez](https://open.spotify.com/track/0BFY4ELzGsvmBEJDqCmkyj) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Verve Jazz Masters 13: Antonio Carlos Jobim](https://open.spotify.com/album/4uFZbUN1TogRO5PTIeDpjr) | 3:25 | 2022-10-14 | 2022-11-13 |
 | [Outra Vez](https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp) | [Adriana Arias](https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK) | [Outra Vez](https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B) | 2:17 | 2021-11-26 |  |
@@ -145,6 +145,7 @@
 | [Vivo Sonhando](https://open.spotify.com/track/1CLCxyhhZyUb2Vp9mtP8cK) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Bossa Nova For Lovers](https://open.spotify.com/album/5PQxnjJaBa2FpcgS3U47wJ) | 2:53 | 2022-10-14 | 2022-11-13 |
 | [Vivo Sonhando](https://open.spotify.com/track/1Zfs685ci0kxKAym9WMuxi) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 2:53 | 2021-11-26 | 2023-04-10 |
 | [Vivo Sonhando](https://open.spotify.com/track/1k5uGD16xxHlDzXTyUo5iS) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Collection](https://open.spotify.com/album/31gC5j7HG79gAD6aTCUEiv) | 2:53 | 2021-11-26 |  |
+| [Voa](https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Garoa](https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe) | 2:44 | 2024-07-05 |  |
 | [Voando \(Nel Blu Dipinto Di Blu\)](https://open.spotify.com/track/5eJ4kcwdET3HsQvwT5QSuX) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Voando \(Nel Blu Dipinto Di Blu\)](https://open.spotify.com/album/1QQkssDjcaEVl6pJhSOWIQ) | 3:56 | 2024-06-14 |  |
 | [Você](https://open.spotify.com/track/1d3qDMU9yAjC5rnmWysKT8) | [Lucas Sousa Bossa](https://open.spotify.com/artist/0IqYi6pLXMPRYTCLAis6xZ) | [Você](https://open.spotify.com/album/4XmYp5cXvq202uUzz118L5) | 3:33 | 2021-11-26 |  |
 | [Você E Eu](https://open.spotify.com/track/4XsuAqkLStEB5qgiAG3Zgo) | [Bossa Avenida](https://open.spotify.com/artist/5xrWkIVKlaN0xson8wkoWJ) | [Você E Eu](https://open.spotify.com/album/5tGRo4uM3dFYUXusmu9yBe) | 2:59 | 2021-11-26 |  |

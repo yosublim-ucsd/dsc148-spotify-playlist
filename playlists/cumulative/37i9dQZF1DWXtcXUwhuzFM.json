@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "Viikon parhaat uutuusbiisit samassa paketissa. Kannessa Jenni Vartiainen ja Etta.",
+  "description": "Viikon parhaat uutuusbiisit samassa paketissa. Kannessa Jenni Vartiainen ja Etta. \ud83d\udc4c",
   "name": "New Music Friday Suomi",
   "tracks": [
     {
@@ -2444,6 +2444,24 @@
       "duration_ms": 175747,
       "name": "B\u00e4kkii",
       "url": "https://open.spotify.com/track/6gl3J4KuoTcRRNB5dKFC2y"
+    },
+    {
+      "album": {
+        "name": "Call You Mine",
+        "url": "https://open.spotify.com/album/7kRbk1TezpFAsxkzBWUiWL"
+      },
+      "artists": [
+        {
+          "name": "Andi",
+          "url": "https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217509,
+      "name": "Call You Mine",
+      "url": "https://open.spotify.com/track/17YCVCHb36D7lZ5p0gOOni"
     },
     {
       "album": {
@@ -18737,6 +18755,24 @@
     },
     {
       "album": {
+        "name": "A Great Chaos (Deluxe)",
+        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184375,
+      "name": "ss",
+      "url": "https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq"
+    },
+    {
+      "album": {
         "name": "Stadi (Alicia)",
         "url": "https://open.spotify.com/album/1Q3cD40iLszO4uvmc0kH87"
       },
@@ -23114,6 +23150,24 @@
       "duration_ms": 200288,
       "name": "Weak",
       "url": "https://open.spotify.com/track/4B5w2ugkNbyrI9fXTfDb2w"
+    },
+    {
+      "album": {
+        "name": "Weeping Willow",
+        "url": "https://open.spotify.com/album/7imiiEYZmcrbNMpSFq9JlN"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176712,
+      "name": "Weeping Willow",
+      "url": "https://open.spotify.com/track/2637H4or8sjAJ08Dnvq7fX"
     },
     {
       "album": {

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: DAYA
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Tiësto, Lucas &amp; Steve, Sān\-Z
 
 [Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,200 likes - 8 songs - 25 min 7 sec
 
@@ -17,4 +17,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 7 | [I'm Too Sexy \(Albert Harvey Remix\)](https://open.spotify.com/track/6OFQ2DQOpID6yyeIIAHzzq) | [MaWayy](https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp), [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL), [Albert Harvey](https://open.spotify.com/artist/5OEDPvGsA5L54lRrdqi8Aj) | [I'm Too Sexy \(Remixes\)](https://open.spotify.com/album/7Hnh0uxsa3RetJCq7MeHCX) | 3:01 |
 | 8 | [Masada](https://open.spotify.com/track/6zbEa0mI2k0GpaV5ax3hJC) | [OTIOT](https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF) | [Masada \- Dabke Drive](https://open.spotify.com/album/3xTmjNxtMpek13avgo444Y) | 3:22 |
 
-Snapshot ID: `AAAdlIHPKtntMB5Ry2n98ziq7isEtQa2`
+Snapshot ID: `AAAdlpfclZG1AytfUFIW585lK3yJPAdf`

@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Allegra Krieger
 
-1,289 songs - 3 day 5 hr 0 min
+1,290 songs - 3 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,6 +590,7 @@
 | [i think i feel the way the words do](https://open.spotify.com/track/0K2VWbLhE2Qp6ujHf6tGw7) | [Cayden Wemple](https://open.spotify.com/artist/0hzr8TCwUaFkbq03iJ7W0q) | [i think i feel the way the words do](https://open.spotify.com/album/2gLE88UfeuJpGSJNJ5iIim) | 2:28 | 2024-04-17 | 2024-06-20 |
 | [I Tried to Keep on Loving You](https://open.spotify.com/track/0wBlKSeOUM0yKlNu9tkePZ) | [Moon Shine](https://open.spotify.com/artist/2npYYH9Tn3ndPMnulAxpAt) | [I Tried to Keep on Loving You](https://open.spotify.com/album/0pANGd0sTXJpjsy2Pj7LiS) | 3:00 | 2022-10-26 | 2022-12-01 |
 | [I Wanna Win](https://open.spotify.com/track/6ZqRxeKMNLcB7vln15XTqn) | [Lola Balter](https://open.spotify.com/artist/2jesD34oQL3fEcEtm6jJDs) | [I Wanna Win](https://open.spotify.com/album/4MRAw2nW0ezpWALKce1abo) | 5:32 | 2023-01-11 | 2023-03-09 |
+| [I Wish I Had A God](https://open.spotify.com/track/3wLq6MPdUv2fAE0l06ugFV) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [I Wish I Had A God](https://open.spotify.com/album/5yvbLehCjY1bNpY31KeAvb) | 3:45 | 2024-07-05 |  |
 | [I Wouldn't Mind](https://open.spotify.com/track/2TwRFKnBx1EjNJ5vDRRvNC) | [Aaron Percy](https://open.spotify.com/artist/1OCGT4W29rXiHvDzMHkJyu) | [I Wouldn't Mind](https://open.spotify.com/album/59poBmSzdEHPoZT4Sk7oYt) | 2:27 | 2023-01-11 | 2023-02-16 |
 | [I'd Be Your Man](https://open.spotify.com/track/7yCHkU5t8If3EBPsiTCh3N) | [Parker Twomey](https://open.spotify.com/artist/6RdYyGcZfoHSX02etvl0BZ) | [I'd Be Your Man](https://open.spotify.com/album/3LkRe6em5CAwrG2i2BNQNm) | 4:13 | 2022-05-25 | 2022-08-11 |
 | [I'll Be Alright](https://open.spotify.com/track/4eI99hJrQpIJasCMRk75VT) | [Dominic Wright](https://open.spotify.com/artist/6JPpKyhX2EmJD1QqKrU9UE) | [I'll Be Alright](https://open.spotify.com/album/3aMgaRQFRwK4Y7iSwi4v9i) | 2:39 | 2024-05-08 |  |

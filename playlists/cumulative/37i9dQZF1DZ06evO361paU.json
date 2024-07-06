@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
+  "description": "This Is Lenny Kravitz. Los temas esenciales, todos en una lista.",
   "name": "This Is Lenny Kravitz",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 280973,
       "name": "Believe In Me",
       "url": "https://open.spotify.com/track/7aJjhQlplwtUS7emsLIEWC"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 221332,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 257733,
       "name": "I Belong To You",
       "url": "https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 378040,
       "name": "Johnny Cash",
       "url": "https://open.spotify.com/track/2KB62sZq0v8PQUlMSb3kBR"
@@ -896,7 +896,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 208133,
       "name": "More Than Anything In This World",
       "url": "https://open.spotify.com/track/1UWyfK84h7uPHMEPf8qba2"
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 203933,
       "name": "Rock And Roll Is Dead",
       "url": "https://open.spotify.com/track/1os9lKQD0M56nlIiXbWpE5"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 208626,
       "name": "Superlove",
       "url": "https://open.spotify.com/track/3jzm36w0SW0QD005JxbRUR"
@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 384133,
       "name": "Thinking Of You",
       "url": "https://open.spotify.com/track/4LU3LpgFCNdi8PE9PgnTZM"

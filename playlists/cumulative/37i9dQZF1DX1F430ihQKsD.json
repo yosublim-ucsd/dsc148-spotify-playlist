@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Besoin",
+        "url": "https://open.spotify.com/album/1hfiyR4GixCxvmmS3GoBrJ"
+      },
+      "artists": [
+        {
+          "name": "Blynk",
+          "url": "https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Besoin",
+      "url": "https://open.spotify.com/track/5LiOvDRWNm9QAeIa9WuBT8"
+    },
+    {
+      "album": {
         "name": "BEZU",
         "url": "https://open.spotify.com/album/3hPUNBUJVZ6QLu29pMQ9FF"
       },
@@ -4112,7 +4130,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 162514,
       "name": "karoshi",
       "url": "https://open.spotify.com/track/3yqGndHj0cRlzX0neZ7dE7"
@@ -5644,6 +5662,28 @@
       "duration_ms": 259471,
       "name": "Nothing Less, Nothing More",
       "url": "https://open.spotify.com/track/6GYsooXBA2y4ICjPgCPE4k"
+    },
+    {
+      "album": {
+        "name": "nowhere to be found",
+        "url": "https://open.spotify.com/album/7Md72T44krozhp9I3kk0Vb"
+      },
+      "artists": [
+        {
+          "name": "Avril Jensen",
+          "url": "https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA"
+        },
+        {
+          "name": "Erwan",
+          "url": "https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264420,
+      "name": "nowhere to be found",
+      "url": "https://open.spotify.com/track/3kp4slLJYxaKUrQsKJqu8y"
     },
     {
       "album": {
@@ -8342,7 +8382,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 203534,
       "name": "Tous les corps",
       "url": "https://open.spotify.com/track/6DJHBWHgjQrCmDK41k6aNQ"

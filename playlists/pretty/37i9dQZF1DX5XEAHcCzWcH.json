@@ -1,6 +1,6 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 38250,
+  "num_followers": 38291,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
+        "name": "The King of Chicago Blues Piano",
+        "url": "https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z"
+      },
+      "artists": [
+        {
+          "name": "Big Maceo",
+          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
+        }
+      ],
+      "duration_ms": 180026,
+      "name": "Things Have Changed",
+      "url": "https://open.spotify.com/track/5fY1xBMbBUwN1ejbK647Yi"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
         "name": "Flip Flop And Fly",
         "url": "https://open.spotify.com/album/4t4fEfhICbe6UyBQmCkj77"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 175466,
       "name": "Boogie Woogie Country Girl",
       "url": "https://open.spotify.com/track/5OesDeYiBNJ68MX5gGspNI"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
-        "name": "The King of Chicago Blues Piano",
-        "url": "https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z"
-      },
-      "artists": [
-        {
-          "name": "Big Maceo",
-          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
-        }
-      ],
-      "duration_ms": 180026,
-      "name": "Things Have Changed",
-      "url": "https://open.spotify.com/track/5fY1xBMbBUwN1ejbK647Yi"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Victor Wainwright and the Train",
-        "url": "https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p"
-      },
-      "artists": [
-        {
-          "name": "Victor Wainwright",
-          "url": "https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9"
-        }
-      ],
-      "duration_ms": 215460,
-      "name": "Train",
-      "url": "https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "This Is the Blues! Vol. 7 (Mono Version)",
         "url": "https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 192011,
       "name": "Me and My Gin",
       "url": "https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "Victor Wainwright and the Train",
+        "url": "https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p"
+      },
+      "artists": [
+        {
+          "name": "Victor Wainwright",
+          "url": "https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9"
+        }
+      ],
+      "duration_ms": 215460,
+      "name": "Train",
+      "url": "https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C"
     },
     {
       "added_at": "2024-05-30 16:22:42",

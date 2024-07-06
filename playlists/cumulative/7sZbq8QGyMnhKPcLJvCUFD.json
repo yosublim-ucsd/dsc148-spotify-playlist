@@ -1219,6 +1219,28 @@
     },
     {
       "album": {
+        "name": "Bring Me Back",
+        "url": "https://open.spotify.com/album/687uy3Ih1r5of0gzr2PZgT"
+      },
+      "artists": [
+        {
+          "name": "Adikop",
+          "url": "https://open.spotify.com/artist/1bmpgDPBBF9GapFDg7DGA4"
+        },
+        {
+          "name": "Nieulotni",
+          "url": "https://open.spotify.com/artist/1d0vAkMFX8agTOeEQ7wTLo"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230839,
+      "name": "Bring Me Back",
+      "url": "https://open.spotify.com/track/1AMvw3Z9htH6YBDLNiMHT3"
+    },
+    {
+      "album": {
         "name": "Bring Me The Christmas Light",
         "url": "https://open.spotify.com/album/1BbVSrRnQoLZxH5tZkhiDt"
       },
@@ -11527,6 +11549,28 @@
     },
     {
       "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/1RuC8GhdatGI2Yfwk7gkm1"
+      },
+      "artists": [
+        {
+          "name": "NIVIRO",
+          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
+        },
+        {
+          "name": "Justin J. Moore",
+          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6jgW1FXQvfdGVcOKiL9T57"
+    },
+    {
+      "album": {
         "name": "Wizkid",
         "url": "https://open.spotify.com/album/0DfHdC5Ahks277KoV2ycp7"
       },
@@ -11582,6 +11626,24 @@
       "duration_ms": 225000,
       "name": "World on Fire",
       "url": "https://open.spotify.com/track/6RUrwniB9s0Xm3iqXa5Jc2"
+    },
+    {
+      "album": {
+        "name": "Worship",
+        "url": "https://open.spotify.com/album/4uSfrfa4EdUa1PgwpaxZkx"
+      },
+      "artists": [
+        {
+          "name": "Diamond Eyes",
+          "url": "https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245581,
+      "name": "Worship",
+      "url": "https://open.spotify.com/track/3UL3mFsWBtRUZWRu0qAD46"
     },
     {
       "album": {

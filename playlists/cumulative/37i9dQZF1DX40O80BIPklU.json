@@ -1635,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "Contra el Mundo",
+        "url": "https://open.spotify.com/album/2NXNCG5pnLvb3Ns9X5jcwC"
+      },
+      "artists": [
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "Contra el Mundo",
+      "url": "https://open.spotify.com/track/4MHCYnRJeSqRSl2oKmGY5q"
+    },
+    {
+      "album": {
         "name": "Cuando Ya Est\u00e9 Muerto",
         "url": "https://open.spotify.com/album/5wlBPVzU5PyNNhNqhR5L3v"
       },
@@ -1750,6 +1768,36 @@
       "duration_ms": 273823,
       "name": "Cuidado en Quien Confias",
       "url": "https://open.spotify.com/track/34LnKrUc7W3N9zqrdPtts3"
+    },
+    {
+      "album": {
+        "name": "Customers",
+        "url": "https://open.spotify.com/album/0CFpsWfZAX9D57lv16DJp8"
+      },
+      "artists": [
+        {
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+        },
+        {
+          "name": "Joniel",
+          "url": "https://open.spotify.com/artist/7rTIfFH7B5TCSx8wKzkNPI"
+        },
+        {
+          "name": "Galindo Again",
+          "url": "https://open.spotify.com/artist/3e3y36WvzuMeXpTf282KKW"
+        },
+        {
+          "name": "Jozzu",
+          "url": "https://open.spotify.com/artist/0w82woTBdhc5VcxIAL7V3U"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Customers",
+      "url": "https://open.spotify.com/track/6x5aWKAL2H7UjK7u26rFSf"
     },
     {
       "album": {
@@ -2044,7 +2092,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 139961,
       "name": "DELE ALLI",
       "url": "https://open.spotify.com/track/66ZI58YP9tz7CJZdmAP934"
@@ -2378,10 +2426,36 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 224521,
       "name": "El Sol",
       "url": "https://open.spotify.com/track/2qaRS0nH4KHINXl2nMNQFZ"
+    },
+    {
+      "album": {
+        "name": "El \u00daltimo Tango",
+        "url": "https://open.spotify.com/album/7uvZ0u4gg8xAm8b9lps07W"
+      },
+      "artists": [
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250382,
+      "name": "El \u00daltimo Tango",
+      "url": "https://open.spotify.com/track/6pUeqmlV162GbTx76DbodN"
     },
     {
       "album": {
@@ -2448,6 +2522,24 @@
       "duration_ms": 212519,
       "name": "En La Nube",
       "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
+    },
+    {
+      "album": {
+        "name": "Enemigo de las Leyes",
+        "url": "https://open.spotify.com/album/7LPAiVJnr8g9HCPHCnkZzi"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200930,
+      "name": "Enemigo de las Leyes",
+      "url": "https://open.spotify.com/track/5NnlIpnudDfVZ76j5e2pea"
     },
     {
       "album": {
@@ -4892,7 +4984,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 210731,
       "name": "Mis Demonios",
       "url": "https://open.spotify.com/track/2bt4ICyaBAmqjfSjkMcNtx"
@@ -6710,7 +6802,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 250105,
       "name": "Sicariato & Robo",
       "url": "https://open.spotify.com/track/3OQzbOfl3KsIHNUOGYZCg1"

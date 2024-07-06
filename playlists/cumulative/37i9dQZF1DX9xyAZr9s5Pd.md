@@ -2,9 +2,9 @@
 
 ### [Indie Andinos](https://open.spotify.com/playlist/37i9dQZF1DX9xyAZr9s5Pd)
 
-> ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Diamante Eléctrico
+> ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Alejandro y Maria Laura
 
-85 songs - 4 hr 46 min
+87 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [LAS FURIAS // NOS MIRAN](https://open.spotify.com/track/696gS5v3M9ikaR7hx88UNh) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [MIEL](https://open.spotify.com/album/1OoKdq8qfZZSfANVp3cmGP) | 2:15 | 2023-10-20 |  |
 | [Lejos](https://open.spotify.com/track/27ACuxbiIuu7BUW1av32i9) | [Cometa Sucre](https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK) | [El Eco Eterno](https://open.spotify.com/album/5dIDiTOK58RdCmNc5DwlO5) | 3:07 | 2023-09-22 | 2024-05-18 |
 | [Los Domingos](https://open.spotify.com/track/7ArjPcNTIMIPTST10plFKV) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Los Domingos](https://open.spotify.com/album/4pKMqz4Q8R1bIGCK41ilrt) | 3:37 | 2023-09-22 |  |
+| [Lugar ideal](https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Dos Hemisferios](https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu) | 3:18 | 2024-07-05 |  |
 | [Límites](https://open.spotify.com/track/3InU95w7uhcHOxXU9m1294) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Límites](https://open.spotify.com/album/66tUKjngOsWoJj7ccwktRD) | 3:30 | 2023-11-17 |  |
 | [Marchito](https://open.spotify.com/track/7EYVt3gOAG8bOq3D5sqXLb) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Marchito](https://open.spotify.com/album/7KNK4fSGZlkMJ3ItyrM06H) | 3:56 | 2023-09-29 |  |
 | [Me Olvido / Te Sigo](https://open.spotify.com/track/3QRQMXFPLmtq2KzSREjnZs) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Me Olvido / Te Sigo](https://open.spotify.com/album/6qDykJWNBv8mXubUrWgAwP) | 3:38 | 2023-09-22 |  |
@@ -72,13 +73,14 @@
 | [Nudos](https://open.spotify.com/track/2rMcMfA9vNbXBHMKKYBacM) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Residencia Azul](https://open.spotify.com/album/7a0NP5cqVBLSe6YofHXcGL) | 4:40 | 2023-09-22 |  |
 | [Nunca Nunca](https://open.spotify.com/track/01RidTuR638AM20oXDqD1u) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj), [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Nunca Nunca](https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6) | 2:51 | 2023-09-22 |  |
 | [Puquio](https://open.spotify.com/track/7AU74ElllykOv422FjsU1E) | [Triste Domingo](https://open.spotify.com/artist/5wWTQAmSqsyuPXtjNm0oos) | [Puquio](https://open.spotify.com/album/4gLcpquRoWzxLjF0451BD6) | 2:56 | 2023-09-22 | 2023-09-30 |
-| [Quiero Verte Así](https://open.spotify.com/track/1i9wjyXgsdGFbY8ZeRaThL) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb), [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Quiero Verte Así](https://open.spotify.com/album/1IOjKmdCCz7Ci6ZRnv2b3j) | 3:04 | 2023-09-22 |  |
+| [Quiero Verte Así](https://open.spotify.com/track/1i9wjyXgsdGFbY8ZeRaThL) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb), [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Quiero Verte Así](https://open.spotify.com/album/1IOjKmdCCz7Ci6ZRnv2b3j) | 3:04 | 2023-09-22 | 2024-07-06 |
 | [Quisiera](https://open.spotify.com/track/58s4Lbsh8MBAFoJ7Aeaex8) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [Quisiera](https://open.spotify.com/album/3HJ3fRk2KTki8HvqsoLWm6) | 3:44 | 2023-09-22 |  |
-| [RELA](https://open.spotify.com/track/1D0WGWoxhwaeGfxWiRt1sw) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Carita Feliz \| Carita Triste \(Deluxe\)](https://open.spotify.com/album/5Bk9I9wmvglASEK0yJDIqJ) | 2:55 | 2023-09-22 |  |
+| [RELA](https://open.spotify.com/track/1D0WGWoxhwaeGfxWiRt1sw) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Carita Feliz \| Carita Triste \(Deluxe\)](https://open.spotify.com/album/5Bk9I9wmvglASEK0yJDIqJ) | 2:55 | 2023-09-22 | 2024-07-06 |
 | [Resurrección](https://open.spotify.com/track/5HqnE9PwuOuqg73YhX2bpZ) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ), [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [ORILLAS](https://open.spotify.com/album/3QK5vLsPeBj9oItoA5YkAo) | 4:50 | 2023-09-22 | 2023-10-21 |
 | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 | 2023-09-22 | 2024-02-17 |
 | [Sed](https://open.spotify.com/track/5qwBGh8rMY4jEdszbxXA0Z) | [Xavier Martinex](https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY), [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Sed](https://open.spotify.com/album/6taEnbo5tcuo1hY11NeZEK) | 3:08 | 2023-09-22 |  |
 | [Shorty 2](https://open.spotify.com/track/4PxNkl09m4T65wW7qqPh6J) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki), [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws) | [Shorty 2](https://open.spotify.com/album/1YVcXIfifU15sAd7fIr7Dt) | 3:23 | 2023-09-22 | 2023-11-18 |
+| [si tú no estás aquí](https://open.spotify.com/track/6ODPOeIy6b99BZlpmqWn9I) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [si tú no estás aquí](https://open.spotify.com/album/07Lar6NcLhksUUtjjzDZZT) | 3:38 | 2024-07-05 |  |
 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 | 2023-09-22 | 2024-03-02 |
 | [Souvenir, Pt\. 1](https://open.spotify.com/track/3D7rpYcDzVVTu6bN7is1Ga) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Souvenir](https://open.spotify.com/album/4Gs5BxNDabBlz281OcxFYO) | 2:11 | 2024-03-01 |  |
 | [Suficiente](https://open.spotify.com/track/1tHIfjP3YPkoTLLTmW0BUP) | [Gran Radio Riviera](https://open.spotify.com/artist/3RUegLawnCVTlcsbFk6fUq), [YIYI](https://open.spotify.com/artist/7AN8elJtTMhsDuKjTZOYKZ) | [0\-800 HOY](https://open.spotify.com/album/6GzCj4kV2236LdiDBg6VHP) | 4:05 | 2023-09-22 | 2023-09-30 |

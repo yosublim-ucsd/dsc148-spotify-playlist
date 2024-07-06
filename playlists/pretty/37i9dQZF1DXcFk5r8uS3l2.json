@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 445872,
+  "num_followers": 445935,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn41QAAAAAAT9gJBmwxqdrG0Nnqxs6uv",
+  "snapshot_id": "ZodvwAAAAAD9TAgiw9xqs0CGMMVrTHsL",
   "tracks": [
     {
       "added_at": "2024-06-28 04:00:00",
@@ -23,6 +23,26 @@
       "duration_ms": 289068,
       "name": "Heartshine",
       "url": "https://open.spotify.com/track/53bgRTz4YRHfTkVAwfYWDc"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Monsoon Lightning",
+        "url": "https://open.spotify.com/album/7ELb0B6hRV0GO0U4e7BBpN"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Shack",
+          "url": "https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3"
+        },
+        {
+          "name": "Tom Walbank",
+          "url": "https://open.spotify.com/artist/6Ju4WiHeO57mAP7iEUFfCw"
+        }
+      ],
+      "duration_ms": 263277,
+      "name": "Monsoon Lightning",
+      "url": "https://open.spotify.com/track/2amxmJp83GsKX3tS3GkBFo"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -139,22 +159,6 @@
       "duration_ms": 189739,
       "name": "What I Wouldn't Do",
       "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Fresh Bones",
-        "url": "https://open.spotify.com/album/5YVPNyHgApTTHosueEDxEZ"
-      },
-      "artists": [
-        {
-          "name": "Lonesome Shack",
-          "url": "https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3"
-        }
-      ],
-      "duration_ms": 194140,
-      "name": "Fresh Bones",
-      "url": "https://open.spotify.com/track/5TDEy1qTEFWwdWTZ9K9v3p"
     },
     {
       "added_at": "2024-06-21 04:00:00",

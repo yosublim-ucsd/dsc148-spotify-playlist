@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 111000,
       "name": "Capurgan\u00e1",
       "url": "https://open.spotify.com/track/3r3nHyqS7oG7wsFrTh0gl9"
@@ -2574,6 +2574,24 @@
       "duration_ms": 197525,
       "name": "Coraz\u00f3n Ruidoso",
       "url": "https://open.spotify.com/track/2tfzdblmcuXHAcEAEeYD9d"
+    },
+    {
+      "album": {
+        "name": "Corro",
+        "url": "https://open.spotify.com/album/7fTAGkS8xcsI5C9l0uYZWM"
+      },
+      "artists": [
+        {
+          "name": "Solomon Zu",
+          "url": "https://open.spotify.com/artist/5fhdwAxeYvUbQqNww6kRqw"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199024,
+      "name": "Corro",
+      "url": "https://open.spotify.com/track/0yiATCsokjcVzdVsTDu28x"
     },
     {
       "album": {
@@ -3298,7 +3316,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 185739,
       "name": "dif\u00edcil de olvidar",
       "url": "https://open.spotify.com/track/7aUjQg9J1OtRbtQGufEMyS"
@@ -3342,7 +3360,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 215931,
       "name": "Dos Hemisferios",
       "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
@@ -3553,6 +3571,28 @@
     },
     {
       "album": {
+        "name": "El Cosechero",
+        "url": "https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv"
+      },
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
+        },
+        {
+          "name": "Yves Desrosiers",
+          "url": "https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197826,
+      "name": "El Cosechero",
+      "url": "https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588"
+    },
+    {
+      "album": {
         "name": "Mundos inm\u00f3viles derrumb\u00e1ndose",
         "url": "https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5"
       },
@@ -3634,6 +3674,24 @@
       "duration_ms": 225000,
       "name": "El Estallido",
       "url": "https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB"
+    },
+    {
+      "album": {
+        "name": "El hombre de la habitaci\u00f3n de al lado",
+        "url": "https://open.spotify.com/album/7EqHXkO34eYZLPco3EpGZC"
+      },
+      "artists": [
+        {
+          "name": "Pez Mago",
+          "url": "https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234933,
+      "name": "El hombre de la habitaci\u00f3n de al lado",
+      "url": "https://open.spotify.com/track/0O8cglYEjO4csK9xHbKqp0"
     },
     {
       "album": {
@@ -6339,6 +6397,28 @@
     },
     {
       "album": {
+        "name": "Dos Hemisferios",
+        "url": "https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198642,
+      "name": "Lugar ideal",
+      "url": "https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA"
+    },
+    {
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/4N49uJYVWaDxhesWOlTKRJ"
       },
@@ -7174,7 +7254,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 190124,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/6NcGTOcFLQiYSrW8pv7fuO"
@@ -8512,7 +8592,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 183797,
       "name": "Piel de pantera",
       "url": "https://open.spotify.com/track/3HjGCQ1KQfIKc1IkNbrJVn"
@@ -9134,7 +9214,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 219185,
       "name": "Qu\u00e9 Bonito Lugar",
       "url": "https://open.spotify.com/track/0yTFUbBfdrrInuHfTmzV8d"
@@ -10551,6 +10631,24 @@
     },
     {
       "album": {
+        "name": "Te Quiero No, Lo Anterior",
+        "url": "https://open.spotify.com/album/3Bkf0xkuNt0kIIr21MNYRU"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00edlopez",
+          "url": "https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223800,
+      "name": "Te Quiero No, Lo Anterior",
+      "url": "https://open.spotify.com/track/5EemCiOapShlSLNQMPVjE5"
+    },
+    {
+      "album": {
         "name": "Temerario (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2zZVXgcEvBEiIyOtGmO0Ic"
       },
@@ -11496,7 +11594,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 213760,
       "name": "una se\u00f1al",
       "url": "https://open.spotify.com/track/7C4aWyzH7EbUkyGhlbOPcC"

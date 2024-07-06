@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: Candy Bleakz
 
-262 songs - 12 hr 7 min
+263 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [NI NIGERIA](https://open.spotify.com/track/4p92W0Op710L8WIzt6EQGf) | [Tomi Tribe](https://open.spotify.com/artist/3Rk3u5yJYynTAwt50Fbm51), [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [NI NIGERIA](https://open.spotify.com/album/4aoMwgAa2hqW9tvSCZF33K) | 2:25 | 2023-05-04 | 2023-08-18 |
 | [No Advise Me](https://open.spotify.com/track/563TepXA7x9GT17SHlSBMW) | [Orezi](https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD) | [No Advise Me](https://open.spotify.com/album/1DVKvXIvBqaIIuPQxy1qkK) | 2:58 | 2022-11-18 | 2023-05-15 |
 | [NO COMPETITION \(feat\. Asake\)](https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:36 | 2023-03-30 |  |
+| [No Panic](https://open.spotify.com/track/7qH7p8wCt9GJERou8j4gb7) | [Raymmond](https://open.spotify.com/artist/1WEGRrdwPJkPvJyhwza6Mp), [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [No Panic](https://open.spotify.com/album/6ozRJ7M3r3MSZZI5yCldAP) | 2:30 | 2024-07-05 |  |
 | [No Peace \(Violence\)](https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Bad Boy Etiquette 101](https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA) | 2:35 | 2022-12-08 | 2023-09-01 |
 | [NO SLEEP $$$ \(feat\. Young Jonn\)](https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 3:07 | 2023-10-27 |  |
 | [Nobody](https://open.spotify.com/track/5WKHQJCEHNqzZHZduHGrHc) | [LAOD](https://open.spotify.com/artist/7pUd9fPD9tSOugDrBHqMl9), [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Nelly Baradi](https://open.spotify.com/artist/77bRctbyJcjkQcyEa5wrQr) | [Nobody](https://open.spotify.com/album/6ZN0u3yb58U9SKLQ5ciIoq) | 2:44 | 2023-09-29 | 2023-10-13 |
@@ -198,7 +199,7 @@
 | [P.P.P \(Puff Puff Pass\)](https://open.spotify.com/track/75KOIUWqG81Qzlkm0XEqNi) | [Bahd Man Niko](https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb) | [BOYAHNAH](https://open.spotify.com/album/2y49Ac4BVke9qR9fkABIH9) | 2:04 | 2024-02-08 | 2024-05-04 |
 | [Para Boi](https://open.spotify.com/track/7oDSvHJUY3NPdH9YKiCQwe) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Memory Card](https://open.spotify.com/album/4Wk9EIBBsEviAPd7PdGYWI) | 2:37 | 2023-01-16 | 2023-11-03 |
 | [PARIWO](https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [PARIWO](https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8) | 2:00 | 2023-06-22 | 2024-03-12 |
-| [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 | 2022-06-29 |  |
+| [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 | 2022-06-29 | 2024-07-06 |
 | [Pepper Dem](https://open.spotify.com/track/5OOJeJuR8cy18QeohY5qhT) | [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Introduction](https://open.spotify.com/album/4qxDgfQJbQrVNLAyTNJ2ym) | 2:24 | 2023-12-01 | 2024-01-25 |
 | [Personal](https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Personal](https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx) | 2:23 | 2022-12-18 | 2023-02-04 |
 | [Pop \(Alcohol Alcohol\)](https://open.spotify.com/track/6rMi4IgGoZ8ahKFNlhUym1) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [No Bad Boy, No Party](https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT) | 2:26 | 2023-06-02 | 2023-09-29 |

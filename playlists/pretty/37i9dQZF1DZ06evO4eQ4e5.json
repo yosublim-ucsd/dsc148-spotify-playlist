@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 80219,
+  "num_followers": 80232,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAAAR/a39v+zgcXFBeWTAz4Wz",
+  "snapshot_id": "ZoXmAAAAAABVJrXO+I2IALxA0BaLEwO3",
   "tracks": [
     {
       "added_at": null,
@@ -335,18 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caricias del Cielo",
-        "url": "https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD"
+        "name": "Triolog\u00eda",
+        "url": "https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL"
       },
       "artists": [
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+        },
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 248026,
-      "name": "Acost\u00fambrame al cielo",
-      "url": "https://open.spotify.com/track/1SuRXVqyizsGWkb8Jm2DZu"
+      "duration_ms": 182213,
+      "name": "Sin Ti (feat. Edith M\u00e1rquez)",
+      "url": "https://open.spotify.com/track/7dAa9LiVslrY0BNp1Yb4Hy"
     },
     {
       "added_at": null,
@@ -367,22 +371,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triolog\u00eda",
-        "url": "https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL"
+        "name": "Caricias del Cielo",
+        "url": "https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD"
       },
       "artists": [
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
-        },
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 182213,
-      "name": "Sin Ti (feat. Edith M\u00e1rquez)",
-      "url": "https://open.spotify.com/track/7dAa9LiVslrY0BNp1Yb4Hy"
+      "duration_ms": 248026,
+      "name": "Acost\u00fambrame al cielo",
+      "url": "https://open.spotify.com/track/1SuRXVqyizsGWkb8Jm2DZu"
     },
     {
       "added_at": null,

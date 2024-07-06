@@ -1,12 +1,12 @@
 {
-  "description": "This is Deep Purple. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 287871,
+  "description": "This is Deep Purple. The essential tracks, all in one playlist.",
+  "num_followers": 287938,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAADh1U4Kyu1INLL0oouvr0Bh",
+  "snapshot_id": "ZoXmAAAAAABeW7BbVUtsD+OC/16kw5G3",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Strangers",
-        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 328426,
-      "name": "Perfect Strangers",
-      "url": "https://open.spotify.com/track/2JhJOPGvtqMpj5RQC8cIYf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stormbringer (Remastered)",
         "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
       },
@@ -107,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine Head (Remastered)",
-        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 366136,
-      "name": "Highway Star - Remastered 2012",
-      "url": "https://open.spotify.com/track/3uMmllZo1AfoEnVT4ENCD3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shades of Deep Purple",
         "url": "https://open.spotify.com/album/5qxy4Qf0ug4rV9YVYGQRn2"
       },
@@ -139,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
+        "name": "Machine Head (Remastered)",
+        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
       },
       "artists": [
         {
@@ -148,9 +116,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 364933,
-      "name": "Burn - Remastered 2004",
-      "url": "https://open.spotify.com/track/1iW2ktyrQHNKZwFTvgP0Ta"
+      "duration_ms": 366136,
+      "name": "Highway Star - Remastered 2012",
+      "url": "https://open.spotify.com/track/3uMmllZo1AfoEnVT4ENCD3"
     },
     {
       "added_at": null,
@@ -167,22 +135,6 @@
       "duration_ms": 425200,
       "name": "Knocking At Your Back Door",
       "url": "https://open.spotify.com/track/1VJBQdDrOblSLmoZMeh1xh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Machine Head (Remastered)",
-        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 209246,
-      "name": "When A Blind Man Cries - Remastered",
-      "url": "https://open.spotify.com/track/0JtcFIgrkSagrM5JdFakeO"
     },
     {
       "added_at": null,
@@ -219,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Machine Head (Remastered)",
+        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 209246,
+      "name": "When A Blind Man Cries - Remastered",
+      "url": "https://open.spotify.com/track/0JtcFIgrkSagrM5JdFakeO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stormbringer (Remastered)",
         "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
       },
@@ -231,22 +199,6 @@
       "duration_ms": 246773,
       "name": "Stormbringer - 2009 Digital Remaster",
       "url": "https://open.spotify.com/track/5xu6aPH06QRtfTqwckG7Pb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Machine Head (Remastered)",
-        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 272996,
-      "name": "Space Truckin' - Remastered 2012",
-      "url": "https://open.spotify.com/track/5S126DaCBZ8z6yh7B1Lszr"
     },
     {
       "added_at": null,
@@ -283,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Machine Head (Remastered)",
+        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 272996,
+      "name": "Space Truckin' - Remastered 2012",
+      "url": "https://open.spotify.com/track/5S126DaCBZ8z6yh7B1Lszr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Perfect Strangers",
         "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
       },
@@ -295,22 +263,6 @@
       "duration_ms": 235960,
       "name": "Wasted Sunsets",
       "url": "https://open.spotify.com/track/07W9HcJyjXPnKQSMbUcWZU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Machine Head (Remastered)",
-        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 303894,
-      "name": "Pictures Of Home - Remastered 2012",
-      "url": "https://open.spotify.com/track/5cXKhFw5kjRSfifazrnPbp"
     },
     {
       "added_at": null,
@@ -347,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Machine Head (Remastered)",
+        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 303894,
+      "name": "Pictures Of Home - Remastered 2012",
+      "url": "https://open.spotify.com/track/5cXKhFw5kjRSfifazrnPbp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Purpendicular",
         "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
       },
@@ -363,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine Head (Remastered)",
-        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
       },
       "artists": [
         {
@@ -372,9 +340,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 442840,
-      "name": "Lazy - Remastered 2012",
-      "url": "https://open.spotify.com/track/27WqFiOFm2u1hax2ksdyqK"
+      "duration_ms": 312826,
+      "name": "A Gypsy's Kiss",
+      "url": "https://open.spotify.com/track/2Uh9e3fTZRPBzxqNPaY7zr"
     },
     {
       "added_at": null,
@@ -395,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Strangers",
-        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
+        "name": "Machine Head (Remastered)",
+        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
       },
       "artists": [
         {
@@ -404,9 +372,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 240026,
-      "name": "Nobody's Home",
-      "url": "https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D"
+      "duration_ms": 442840,
+      "name": "Lazy - Remastered 2012",
+      "url": "https://open.spotify.com/track/27WqFiOFm2u1hax2ksdyqK"
     },
     {
       "added_at": null,
@@ -423,6 +391,22 @@
       "duration_ms": 233866,
       "name": "Strange Kind Of Woman",
       "url": "https://open.spotify.com/track/0Q56LPrOBBRbh0XfyqbhXR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 240026,
+      "name": "Nobody's Home",
+      "url": "https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D"
     },
     {
       "added_at": null,
@@ -747,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extras: The Infinite B-Sides and Bonus Songs",
-        "url": "https://open.spotify.com/album/1tk2fJEkbes3rEw36iY5Cc"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 75706,
-      "name": "Simple Folk",
-      "url": "https://open.spotify.com/track/6xDU8lJWqm2IqiPlUFmicV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Purple",
         "url": "https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc"
       },
@@ -775,6 +743,22 @@
       "duration_ms": 305773,
       "name": "Lalena - 2000 Remaster",
       "url": "https://open.spotify.com/track/4mBXB13NhpYnPqP7TepGsl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extras: The Infinite B-Sides and Bonus Songs",
+        "url": "https://open.spotify.com/album/1tk2fJEkbes3rEw36iY5Cc"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 75706,
+      "name": "Simple Folk",
+      "url": "https://open.spotify.com/track/6xDU8lJWqm2IqiPlUFmicV"
     },
     {
       "added_at": null,
@@ -839,6 +823,22 @@
       "duration_ms": 475240,
       "name": "Flight of the Rat - 1995 Remaster",
       "url": "https://open.spotify.com/track/3zhuhqAO2QHQKBK1zWYGrY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stormbringer (Remastered)",
+        "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Lady Double Dealer - 2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/2HVmjaLefp248iCaaYtpBR"
     }
   ],
   "unique_name": "This Is Deep Purple",

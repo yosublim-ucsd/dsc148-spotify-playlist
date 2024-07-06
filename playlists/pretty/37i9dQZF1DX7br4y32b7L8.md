@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > songs voor je playlist! \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,417 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,492 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Don't Copy My Flow](https://open.spotify.com/track/44HTE9IdjUk01DEAp54amH) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2), [Mwizz](https://open.spotify.com/artist/5bSeeBLmB0lRlEQk02KoeU), [George Kipa](https://open.spotify.com/artist/3ueSDQRME8RZFqJpJUEsxR) | [Don't Copy My Flow](https://open.spotify.com/album/3uxZV2XyunoLM15AMYl4au) | 2:52 |
-| 2 | [Mannenharten](https://open.spotify.com/track/77LUjS8OKEvK17B5FpeuEN) | [Muda](https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm) | [Mannenharten](https://open.spotify.com/album/5IK5FClnzL4ugGSFUhbgFl) | 2:46 |
-| 3 | [Oranjebewaarder \- Het Wordt Prachtig Net Als In 1988](https://open.spotify.com/track/6ujoOWdEuIT0ppoo4tRED8) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Oranjebewaarder \(Het Wordt Prachtig Net Als In 1988\)](https://open.spotify.com/album/35jF3kaa8oNzxYAxhnHI8X) | 3:16 |
-| 4 | [Yo Bunny](https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z), [Ugly Andz.](https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW) | [Yo Bunny](https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2) | 1:50 |
+| 2 | [Yo Bunny](https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z), [Ugly Andz.](https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW) | [Yo Bunny](https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2) | 1:50 |
+| 3 | [Mannenharten](https://open.spotify.com/track/77LUjS8OKEvK17B5FpeuEN) | [Muda](https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm) | [Mannenharten](https://open.spotify.com/album/5IK5FClnzL4ugGSFUhbgFl) | 2:46 |
+| 4 | [Oranjebewaarder \- Het Wordt Prachtig Net Als In 1988](https://open.spotify.com/track/6ujoOWdEuIT0ppoo4tRED8) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Oranjebewaarder \(Het Wordt Prachtig Net Als In 1988\)](https://open.spotify.com/album/35jF3kaa8oNzxYAxhnHI8X) | 3:16 |
 | 5 | [Don't Give Up On Me](https://open.spotify.com/track/0fiijtFXDJ9MOVwgSaEQJ5) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Naïve](https://open.spotify.com/album/4NkgzNCOzuki4FuWUOY28R) | 3:16 |
 | 6 | [Rainbow in the Sky](https://open.spotify.com/track/6L931X4LbkLbvOpJp04YbE) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [May the Forze Be with You](https://open.spotify.com/album/4WMailt3JxCYn1RnoiAQAP) | 3:27 |
 | 7 | [Bulletproof \- Techno](https://open.spotify.com/track/3YqNM0sEyoxa7r5qRrYqRp) | [Hyper Hamster](https://open.spotify.com/artist/2zEmE2fUy3FPemLS0WI5fM), [PET3RPUNX](https://open.spotify.com/artist/1Z0DRUany5l8E7J6XNRlmC), [Techno Cats](https://open.spotify.com/artist/4uMWA9vlZvYaMf19OoQ0Lh) | [Bulletproof \(Techno\)](https://open.spotify.com/album/2UGRcy0PFLyVeSFj8LjM2B) | 2:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 79 | [If It's Lovin' That You Want](https://open.spotify.com/track/1Q29dre9FCspRSarHziizl) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/19UbDbyaYRW1U7lBMYO9F2) | 3:28 |
 | 80 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 
-Snapshot ID: `ZoabAgAAAAAbcqyWHqWx0kpLZJbbuCWF`
+Snapshot ID: `ZoegGAAAAABL0gs1UlniSnKAcAhzkQtD`

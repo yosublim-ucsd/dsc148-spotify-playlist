@@ -2781,6 +2781,32 @@
     },
     {
       "album": {
+        "name": "Falling Into You",
+        "url": "https://open.spotify.com/album/5sLop69oN5zrq9KzVgEunR"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Kezano",
+          "url": "https://open.spotify.com/artist/0Le6TvnuhTKjcrNYENXDX4"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189798,
+      "name": "Falling Into You",
+      "url": "https://open.spotify.com/track/3ZHKnaw6nJCXGYVY1h63lK"
+    },
+    {
+      "album": {
         "name": "Faster",
         "url": "https://open.spotify.com/album/2GF8ON7y9f8dhs3aGGVHNY"
       },
@@ -8226,7 +8252,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 151688,
       "name": "Renaissance",
       "url": "https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY"
@@ -8506,6 +8532,28 @@
       "duration_ms": 262015,
       "name": "Save a Soul",
       "url": "https://open.spotify.com/track/7bDDYji600PxR0F921ctVN"
+    },
+    {
+      "album": {
+        "name": "SAVE ME",
+        "url": "https://open.spotify.com/album/4IHs5K9AlUPG2jNNlNR84l"
+      },
+      "artists": [
+        {
+          "name": "Boston Bun",
+          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
+        },
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216960,
+      "name": "SAVE ME",
+      "url": "https://open.spotify.com/track/0TsJzxDrjLNs6szBrho1dG"
     },
     {
       "album": {
@@ -10238,7 +10286,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 136580,
       "name": "These Words",
       "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"

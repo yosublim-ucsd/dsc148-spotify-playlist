@@ -4,7 +4,7 @@
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: Quanzo
 
-188 songs - 10 hr 48 min
+189 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [913 feat\. 148LLy](https://open.spotify.com/track/7CaKv0vQnPl4EOlaXTUaSg) | [郭幼康](https://open.spotify.com/artist/6Iu0WrCZJK1MIhyr3p72Lt), [148LLy](https://open.spotify.com/artist/25ew4iXH0VgcfGSw7nzI1l) | [913](https://open.spotify.com/album/6D8H7IJIHjPcwbUxbZWld0) | 3:34 | 2024-06-27 |  |
 | [99 chocolate](https://open.spotify.com/track/0C4F3PRqJv5sNQnRl4vq5q) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE), [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV) | [99 chocolate](https://open.spotify.com/album/7HfbS848JHu1J1KbiOFNjv) | 2:27 | 2024-06-27 |  |
 | [ABC](https://open.spotify.com/track/5OthRKUDvYrAr6LFYnkqWO) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [ABC](https://open.spotify.com/album/2CTLbz8tqtWhhuUM8ZD6gU) | 3:28 | 2024-07-04 |  |
+| [Akhe](https://open.spotify.com/track/3B98uAoCEcFRxxa3UclSu5) | [Proak 破克](https://open.spotify.com/artist/0RKnMMXqLd9Dgdr701ZBq3) | [Akhe](https://open.spotify.com/album/1cScYdsahmg0Qun6sNl5rX) | 2:44 | 2024-07-04 |  |
 | [Anun Bala 你好 \(feat\. Alena Murang\)](https://open.spotify.com/track/1VdmxWjUoZvHsR1BydipNG) | [Sauljaljui](https://open.spotify.com/artist/5U7enzUf0xuOMdiqj4tncy), [Alena Murang](https://open.spotify.com/artist/7fxEcgl9ozJhSXTQf0Y9vq) | [Sauljaljui](https://open.spotify.com/album/346YN7qfO68PxzlrroChPX) | 4:46 | 2024-07-04 |  |
 | [Apollo](https://open.spotify.com/track/1kCoInaMWzctGtmS0z5sTr) | [Dtrue](https://open.spotify.com/artist/6UYPzNMXXBGcGywqMUwqn2), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [Apollo](https://open.spotify.com/album/24Hjy7PMyBt0NWYtbnA3CJ) | 3:44 | 2024-06-27 | 2024-07-05 |
 | [But You Give It Up](https://open.spotify.com/track/09UKQYaSD0t82v9kal1x3g) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB) | [But You Give It Up](https://open.spotify.com/album/1b75emx0lwTRomAOIO0D6l) | 2:33 | 2024-07-04 |  |

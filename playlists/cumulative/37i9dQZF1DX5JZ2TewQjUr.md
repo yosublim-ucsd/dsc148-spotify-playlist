@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Joya, Juniper Care
 
-1,084 songs - 2 day 13 hr 20 min
+1,085 songs - 2 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -864,6 +864,7 @@
 | [山](https://open.spotify.com/track/2xzDKreyfbW10hylyz1elm) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [光](https://open.spotify.com/album/2MtSFBXfAvd1UlO6OVVkpP) | 4:33 | 2023-04-20 | 2023-07-14 |
 | [山長水遠](https://open.spotify.com/track/5LtlNjIcPKjXOSO2E45ULu) | [Chefwest](https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee), [shinylungs⁺₊✧](https://open.spotify.com/artist/2g7UAB5TToknyyKW44XvV9), [0rganicman](https://open.spotify.com/artist/6JSPhYkty9j06FeFahuhDo), [丸](https://open.spotify.com/artist/5tUbF2wVYoQQAbSyN5iM1n) | [山長水遠](https://open.spotify.com/album/66wKvoCdhUkbnjY09NpRJR) | 5:18 | 2023-12-14 | 2024-05-10 |
 | [岸](https://open.spotify.com/track/6HddvIovaBHsG3gHuNSt5l) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [岸](https://open.spotify.com/album/5Q7u6skbFXQSGgWdmJiAi7) | 3:21 | 2022-10-13 | 2023-03-18 |
+| [已封存對話](https://open.spotify.com/track/7AwSKBeP8umN4F0AiThHYN) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [舒適症候群](https://open.spotify.com/album/3cXyvdNPltrEB40XmJuKTb) | 4:33 | 2024-07-04 |  |
 | [平行線上](https://open.spotify.com/track/1ceXW7hLxqfaINttNnq4Ug) | [DEZ余宗遙](https://open.spotify.com/artist/0gO6exxCesSGRThkEHTk2Z) | [平行線上](https://open.spotify.com/album/1Ayd6fJ3cu4CVRfh0Xs57y) | 4:00 | 2022-09-08 | 2023-01-06 |
 | [平行線上 \- 幽光 Version](https://open.spotify.com/track/7yH6VqhjvI8NrJLJUaHZX1) | [DEZ余宗遙](https://open.spotify.com/artist/0gO6exxCesSGRThkEHTk2Z), [mansonvibes](https://open.spotify.com/artist/1a8TIH1iv3shLyozSMjaoX) | [平行線上 \(幽光 Version\)](https://open.spotify.com/album/1DHzTV9Fx8QdNPI6rSXxr4) | 4:00 | 2022-12-22 | 2023-03-18 |
 | [年月漫漫 \- 電影《年少日記》主題曲](https://open.spotify.com/track/4X9Z19oJlxgR4G6i9hwCYZ) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT), [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [年月漫漫 \(電影《年少日記》主題曲\)](https://open.spotify.com/album/77YMeS9QqVa3cYEeaQOO11) | 4:07 | 2023-11-16 | 2024-02-02 |

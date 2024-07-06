@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: Chandler Leighton",
+  "description": "Dark, hard hitting pop. Cover: Ari Hicks",
   "name": "SALT",
   "tracks": [
     {
@@ -4674,7 +4674,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 146677,
       "name": "Good Boy",
       "url": "https://open.spotify.com/track/0ZuPqWaILv4VJsTii3UdeM"
@@ -5729,6 +5729,24 @@
     },
     {
       "album": {
+        "name": "I Like You Best",
+        "url": "https://open.spotify.com/album/6dk1A9dHnyENBQyJk3QWJX"
+      },
+      "artists": [
+        {
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163258,
+      "name": "I Like You Best",
+      "url": "https://open.spotify.com/track/75TVJYusnr7pk5ooXNLZCP"
+    },
+    {
+      "album": {
         "name": "I Love You But I Love Me More (feat. Beach Bunny)",
         "url": "https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R"
       },
@@ -6119,6 +6137,24 @@
     },
     {
       "album": {
+        "name": "Innocent",
+        "url": "https://open.spotify.com/album/4jlyVTzQdrtr9FBsx6xsxC"
+      },
+      "artists": [
+        {
+          "name": "ari hicks",
+          "url": "https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155238,
+      "name": "Innocent",
+      "url": "https://open.spotify.com/track/59C8ZrER11yeFZMLui18YU"
+    },
+    {
+      "album": {
         "name": "mess & a half",
         "url": "https://open.spotify.com/album/6kXyrVr53ipInyenK6EZeL"
       },
@@ -6220,7 +6256,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 117430,
       "name": "Jennifer's Body",
       "url": "https://open.spotify.com/track/176fR2MtPlctufVYwqoW1j"

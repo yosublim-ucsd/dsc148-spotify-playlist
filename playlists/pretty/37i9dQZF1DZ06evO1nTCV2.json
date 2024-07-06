@@ -1,12 +1,12 @@
 {
-  "description": "This is Ryan Adams. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 43258,
+  "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
+  "num_followers": 43261,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAACQ7aDoniZFo4foIOORVwEu",
+  "snapshot_id": "ZoXmAAAAAAC2yB2i5LD8Gon8k8S+lcNL",
   "tracks": [
     {
       "added_at": null,
@@ -87,22 +87,6 @@
       "duration_ms": 248280,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "When The Stars Go Blue",
-      "url": "https://open.spotify.com/track/04rMpRstoJt3uvqyNGKczX"
     },
     {
       "added_at": null,
@@ -219,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy Tiger",
-        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
       "artists": [
         {
@@ -228,9 +212,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 158293,
-      "name": "Two",
-      "url": "https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced"
+      "duration_ms": 226693,
+      "name": "New York, New York",
+      "url": "https://open.spotify.com/track/4snBTILMGyRKErKygwoDkE"
     },
     {
       "added_at": null,
@@ -251,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
       },
       "artists": [
         {
@@ -260,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 226693,
-      "name": "New York, New York",
-      "url": "https://open.spotify.com/track/4snBTILMGyRKErKygwoDkE"
+      "duration_ms": 158293,
+      "name": "Two",
+      "url": "https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced"
     },
     {
       "added_at": null,
@@ -283,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
       "artists": [
         {
@@ -292,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 201693,
-      "name": "Blank Space",
-      "url": "https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa"
+      "duration_ms": 185000,
+      "name": "Answering Bell",
+      "url": "https://open.spotify.com/track/0LXfdDKFrHSlRmOXJnhBar"
     },
     {
       "added_at": null,
@@ -315,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+        "name": "1989",
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
       },
       "artists": [
         {
@@ -324,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Answering Bell",
-      "url": "https://open.spotify.com/track/0LXfdDKFrHSlRmOXJnhBar"
+      "duration_ms": 201693,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa"
     },
     {
       "added_at": null,
@@ -347,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demolition",
-        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ"
       },
       "artists": [
         {
@@ -356,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 178706,
-      "name": "Chin Up, Cheer Up",
-      "url": "https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz"
+      "duration_ms": 301013,
+      "name": "La Cienega Just Smiled",
+      "url": "https://open.spotify.com/track/7M5muIJFufE3FaF1b6F8ho"
     },
     {
       "added_at": null,
@@ -379,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ"
+        "name": "Demolition",
+        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
       },
       "artists": [
         {
@@ -388,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 301013,
-      "name": "La Cienega Just Smiled",
-      "url": "https://open.spotify.com/track/7M5muIJFufE3FaF1b6F8ho"
+      "duration_ms": 178706,
+      "name": "Chin Up, Cheer Up",
+      "url": "https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz"
     },
     {
       "added_at": null,
@@ -443,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Down In A Hole (Live)",
-        "url": "https://open.spotify.com/album/1uz5hEKIxeHhZbdyu9s1s2"
+        "name": "Cinnamon Girl (Live from Calgary, AL. 2023)",
+        "url": "https://open.spotify.com/album/3mi2e18BqDgJGz1p8SZHqL"
       },
       "artists": [
         {
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 241052,
-      "name": "Down In A Hole - Live from Eugene, OR. 2023.",
-      "url": "https://open.spotify.com/track/6WbyHzHJFu2BOFRlXhBBIl"
+      "duration_ms": 168503,
+      "name": "Cinnamon Girl - Live from Calgary, AL. 2023",
+      "url": "https://open.spotify.com/track/1fbqDTZADDqo1BpVtvFtIJ"
     },
     {
       "added_at": null,
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cinnamon Girl (Live from Calgary, AL. 2023)",
-        "url": "https://open.spotify.com/album/3mi2e18BqDgJGz1p8SZHqL"
+        "name": "Down In A Hole (Live)",
+        "url": "https://open.spotify.com/album/1uz5hEKIxeHhZbdyu9s1s2"
       },
       "artists": [
         {
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 168503,
-      "name": "Cinnamon Girl - Live from Calgary, AL. 2023",
-      "url": "https://open.spotify.com/track/1fbqDTZADDqo1BpVtvFtIJ"
+      "duration_ms": 241052,
+      "name": "Down In A Hole - Live from Eugene, OR. 2023.",
+      "url": "https://open.spotify.com/track/6WbyHzHJFu2BOFRlXhBBIl"
     },
     {
       "added_at": null,
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Runaway Train (Live from Minneapolis, MN. 2022.)",
-        "url": "https://open.spotify.com/album/6U26PW2LjoFnSS9VTehfRR"
+        "name": "1989",
+        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
       },
       "artists": [
         {
@@ -596,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 237868,
-      "name": "Runaway Train - Live from Minneapolis, MN. 2022.",
-      "url": "https://open.spotify.com/track/2ZLRiipzf76aJeuFZRrYSc"
+      "duration_ms": 321120,
+      "name": "Wildest Dreams",
+      "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"
     },
     {
       "added_at": null,
@@ -619,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 321120,
-      "name": "Wildest Dreams",
-      "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Demolition",
         "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
       },
@@ -647,6 +615,22 @@
       "duration_ms": 204026,
       "name": "Nuclear",
       "url": "https://open.spotify.com/track/3rZtJBEvgcG2yZlkaTH9TD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Runaway Train (Live from Minneapolis, MN. 2022.)",
+        "url": "https://open.spotify.com/album/6U26PW2LjoFnSS9VTehfRR"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 237868,
+      "name": "Runaway Train - Live from Minneapolis, MN. 2022.",
+      "url": "https://open.spotify.com/track/2ZLRiipzf76aJeuFZRrYSc"
     },
     {
       "added_at": null,
@@ -708,25 +692,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 181840,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After the Gold Rush (Live from Calgary, AL. 2023)",
-        "url": "https://open.spotify.com/album/5KBjPeuLIyBBsCMAVTBn5k"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 238859,
-      "name": "Harvest Moon - Live from Calgary, AL. 2023",
-      "url": "https://open.spotify.com/track/3cTOXcZi3I61oAGqwAtc2y"
+      "duration_ms": 162306,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
     },
     {
       "added_at": null,
@@ -743,6 +711,22 @@
       "duration_ms": 164466,
       "name": "Style",
       "url": "https://open.spotify.com/track/5awiVmsHfpUjg8P6Kh2iGP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After the Gold Rush (Live from Calgary, AL. 2023)",
+        "url": "https://open.spotify.com/album/5KBjPeuLIyBBsCMAVTBn5k"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 238859,
+      "name": "Harvest Moon - Live from Calgary, AL. 2023",
+      "url": "https://open.spotify.com/track/3cTOXcZi3I61oAGqwAtc2y"
     },
     {
       "added_at": null,
@@ -772,57 +756,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 162306,
-      "name": "Haunted House",
-      "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sword & Stone",
-        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 166693,
-      "name": "I Was Here",
-      "url": "https://open.spotify.com/track/6N8syRCLSHedst5P0HS6Tu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Built This City (Live from Oakland, CA, 2022)",
-        "url": "https://open.spotify.com/album/2gm2b6mIhwljA7WwdrDJTG"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 253044,
-      "name": "We Built This City - Live from Oakland, CA, 2022",
-      "url": "https://open.spotify.com/track/3XJx0M1mC7ppnl2JULqT37"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Do Not Feel Like Being Good",
-        "url": "https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 195440,
-      "name": "How Much Light",
-      "url": "https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q"
+      "duration_ms": 181840,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh"
     },
     {
       "added_at": null,
@@ -852,9 +788,41 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 172173,
-      "name": "Never Run",
-      "url": "https://open.spotify.com/track/5yBCZUGiLBa1juMts6aLPW"
+      "duration_ms": 166693,
+      "name": "I Was Here",
+      "url": "https://open.spotify.com/track/6N8syRCLSHedst5P0HS6Tu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Do Not Feel Like Being Good",
+        "url": "https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 195440,
+      "name": "How Much Light",
+      "url": "https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Built This City (Live from Oakland, CA, 2022)",
+        "url": "https://open.spotify.com/album/2gm2b6mIhwljA7WwdrDJTG"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 253044,
+      "name": "We Built This City - Live from Oakland, CA, 2022",
+      "url": "https://open.spotify.com/track/3XJx0M1mC7ppnl2JULqT37"
     },
     {
       "added_at": null,
@@ -871,6 +839,38 @@
       "duration_ms": 340666,
       "name": "English Girls Approximately",
       "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sword & Stone",
+        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Never Run",
+      "url": "https://open.spotify.com/track/5yBCZUGiLBa1juMts6aLPW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "The Rescue Blues",
+      "url": "https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco"
     }
   ],
   "unique_name": "This Is Ryan Adams",

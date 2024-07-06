@@ -4,7 +4,7 @@
 
 > Meditative dubstep rhythms for focus and contemplation.
 
-106 songs - 7 hr 40 min
+107 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Late Lake](https://open.spotify.com/track/7yQWdYmRBujBxEaVJfSNAq) | [Dave N.A.](https://open.spotify.com/artist/1cxEOlUUySOA6xSJ36PvlM) | [Solo Move](https://open.spotify.com/album/2mCKGUc0ONcibctnDBgMhr) | 4:30 | 2023-03-01 |  |
 | [Lion](https://open.spotify.com/track/7LTpf2Jwk9bnBVtVlBSMgq) | [BamJam](https://open.spotify.com/artist/3CWbOX4o8QeOTB28g9nnf2) | [Lion](https://open.spotify.com/album/2rIFm28ANwiy57hT98dyjb) | 2:21 | 2024-05-07 |  |
 | [Lucid](https://open.spotify.com/track/5B2SBpFLNXgsxJUIkdr2YT) | [Formless](https://open.spotify.com/artist/7hXf0gBQHoIPWMWKZnxSj6) | [Lucid](https://open.spotify.com/album/1zIx1aP24zBQrP01inAiV9) | 5:59 | 2023-06-22 |  |
+| [Lucid Dreaming](https://open.spotify.com/track/3533HywmhKf5Y5qXl5VLjp) | [Redrum](https://open.spotify.com/artist/21GltJryVNKOnsKjrmYmnw) | [Daydream](https://open.spotify.com/album/38MEpA8ZL3zXLgA8Hfxaq2) | 3:32 | 2024-07-05 |  |
 | [Malaku](https://open.spotify.com/track/3LCxm5TwNd2a1gFCWD2k4x) | [Uhrk\-Nagimi](https://open.spotify.com/artist/4zdZNzoehOEhWPKlwlv0OX) | [Malaku](https://open.spotify.com/album/7zev7B0gKjYLJfeUbQmhqx) | 2:36 | 2024-01-24 |  |
 | [Meek Dub](https://open.spotify.com/track/6jHOxTUmWeTupc4lKz76Vy) | [Somah](https://open.spotify.com/artist/0Dk9atH2YtBzyWlxu5VpyC) | [Mercy](https://open.spotify.com/album/5JOg5b9KEBsHju0GUen7lj) | 4:23 | 2022-11-30 |  |
 | [Micro Dose](https://open.spotify.com/track/4kNbzt8JmheXA0CBUTo5qe) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S) | [Negative Space](https://open.spotify.com/album/7cz8J3Bnwgr5L9wwZUnXOz) | 6:33 | 2023-03-01 | 2023-08-24 |

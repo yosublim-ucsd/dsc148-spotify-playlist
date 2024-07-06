@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 163409,
+  "num_followers": 163454,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-07-03 00:42:25",
       "album": {
-        "name": "\u30b7\u30e5\u30fc\u30ba\u306f\u8131\u304c\u306a\u3044\u3067",
-        "url": "https://open.spotify.com/album/6oBRsPbalhRy2TmM8TbcyQ"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 248924,
-      "name": "\u30b7\u30e5\u30fc\u30ba\u306f\u8131\u304c\u306a\u3044\u3067",
-      "url": "https://open.spotify.com/track/79uQGELJZmGKRB1d6ru7zH"
-    },
-    {
-      "added_at": "2024-07-03 00:42:25",
-      "album": {
         "name": "Black Humor",
         "url": "https://open.spotify.com/album/0LNnAK39uQkjEa0fSCYjBt"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 190906,
       "name": "MOON NIGHT",
       "url": "https://open.spotify.com/track/4Ndg10oNRmN8FtOrWxs3Q5"
+    },
+    {
+      "added_at": "2024-07-03 00:42:25",
+      "album": {
+        "name": "\u30b7\u30e5\u30fc\u30ba\u306f\u8131\u304c\u306a\u3044\u3067",
+        "url": "https://open.spotify.com/album/6oBRsPbalhRy2TmM8TbcyQ"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 248924,
+      "name": "\u30b7\u30e5\u30fc\u30ba\u306f\u8131\u304c\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/79uQGELJZmGKRB1d6ru7zH"
     },
     {
       "added_at": "2024-07-03 00:42:25",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-07-03 00:42:25",
       "album": {
-        "name": "Twenty-Twenty",
-        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 242836,
-      "name": "Twenty-Twenty",
-      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
-    },
-    {
-      "added_at": "2024-07-03 00:42:25",
-      "album": {
         "name": "\u305a\u308b\u304f\u306a\u3044?",
         "url": "https://open.spotify.com/album/4n8v2qy6CaAySJN7yJ9gW7"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 259146,
       "name": "\u30ad\u30e3\u30e9\u30d0\u30f3",
       "url": "https://open.spotify.com/track/6bIELZs1M0OXx6dXHdU6Mq"
+    },
+    {
+      "added_at": "2024-07-03 00:42:25",
+      "album": {
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 242836,
+      "name": "Twenty-Twenty",
+      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
     },
     {
       "added_at": "2024-07-03 00:42:25",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-07-03 00:42:25",
       "album": {
-        "name": "MAGIC HOUR ~Lovers at Dusk~",
-        "url": "https://open.spotify.com/album/3yjh0vKwNzMgFE4l93IWtT"
-      },
-      "artists": [
-        {
-          "name": "\u89d2\u677e \u654f\u751f",
-          "url": "https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ"
-        }
-      ],
-      "duration_ms": 255680,
-      "name": "Magic Hour",
-      "url": "https://open.spotify.com/track/2k5vtnSBpNQm1DS3VZB6Bf"
-    },
-    {
-      "added_at": "2024-07-03 00:42:25",
-      "album": {
         "name": "Summer Ghost",
         "url": "https://open.spotify.com/album/3Pv50hUUVfvuN1ajFxYjBF"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 198586,
       "name": "City Drive",
       "url": "https://open.spotify.com/track/24aoDh5VjWUquYEx28Bfpj"
+    },
+    {
+      "added_at": "2024-07-03 00:42:25",
+      "album": {
+        "name": "MAGIC HOUR ~Lovers at Dusk~",
+        "url": "https://open.spotify.com/album/3yjh0vKwNzMgFE4l93IWtT"
+      },
+      "artists": [
+        {
+          "name": "\u89d2\u677e \u654f\u751f",
+          "url": "https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ"
+        }
+      ],
+      "duration_ms": 255680,
+      "name": "Magic Hour",
+      "url": "https://open.spotify.com/track/2k5vtnSBpNQm1DS3VZB6Bf"
     },
     {
       "added_at": "2024-07-03 00:42:25",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-07-03 00:42:25",
       "album": {
+        "name": "STARLIGHT",
+        "url": "https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 187557,
+      "name": "STARLIGHT",
+      "url": "https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT"
+    },
+    {
+      "added_at": "2024-07-03 00:42:25",
+      "album": {
         "name": "Sweet Sweet (feat. \u571f\u5c90\u9ebb\u5b50)",
         "url": "https://open.spotify.com/album/1thBf4gOv73FiEe21Jro2y"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 250237,
       "name": "Sweet Sweet - feat. \u571f\u5c90\u9ebb\u5b50",
       "url": "https://open.spotify.com/track/0nwBOeANdTYkamtj8lHp0U"
-    },
-    {
-      "added_at": "2024-07-03 00:42:25",
-      "album": {
-        "name": "STARLIGHT",
-        "url": "https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 187557,
-      "name": "STARLIGHT",
-      "url": "https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT"
     },
     {
       "added_at": "2024-07-03 00:42:25",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2024-07-03 00:42:25",
       "album": {
-        "name": "Play The Game",
-        "url": "https://open.spotify.com/album/13X5IoOEs4FWvZVzx7WC6c"
+        "name": "FEEL GOOD",
+        "url": "https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn"
       },
       "artists": [
         {
-          "name": "CHEMISTRY",
-          "url": "https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE"
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
         }
       ],
-      "duration_ms": 206433,
-      "name": "Play The Game",
-      "url": "https://open.spotify.com/track/4seNDGr7HS97xSdUZHZkUg"
+      "duration_ms": 305760,
+      "name": "LOOP",
+      "url": "https://open.spotify.com/track/0njFXMhCDQ1MHAZJXurgvN"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

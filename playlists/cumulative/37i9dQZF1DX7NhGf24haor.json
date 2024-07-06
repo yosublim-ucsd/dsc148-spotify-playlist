@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Updated weekly | Hardstyle | Cover: Showtek",
+  "description": "Updated weekly | Hardstyle | Cover: Coone",
   "name": "Hardstyle Adrenaline! 2024",
   "tracks": [
+    {
+      "album": {
+        "name": "1 Team (Kick Edit)",
+        "url": "https://open.spotify.com/album/1Y5qYaJq6G7xEDurYl1N72"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "De Kraaien",
+          "url": "https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147967,
+      "name": "1 Team (Kick Edit)",
+      "url": "https://open.spotify.com/track/2brTbOlmEfyBTGNyLCKewi"
+    },
     {
       "album": {
         "name": "1527",
@@ -1197,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "Backstabbers (Envy)",
+        "url": "https://open.spotify.com/album/0CRm5cBbAUfqcmWiRgbc8x"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205766,
+      "name": "Backstabbers (Envy)",
+      "url": "https://open.spotify.com/track/4HuoADJExHXV7o3qRVcDPY"
+    },
+    {
+      "album": {
         "name": "Baddest On The Block",
         "url": "https://open.spotify.com/album/6HvQJY24SFntvou40dlq84"
       },
@@ -1234,7 +1274,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 157582,
       "name": "BALDRACCA",
       "url": "https://open.spotify.com/track/2q5jjRL0OA8LmPZUmeyQG5"
@@ -1730,7 +1770,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 156093,
       "name": "BEYOND TRIPPIN'",
       "url": "https://open.spotify.com/track/3W238yi0P8847kTgdVY88L"
@@ -2267,6 +2307,24 @@
     },
     {
       "album": {
+        "name": "Break Away",
+        "url": "https://open.spotify.com/album/17XXbvNgd4Fz5J7tBFCqiN"
+      },
+      "artists": [
+        {
+          "name": "Killshot",
+          "url": "https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Break Away",
+      "url": "https://open.spotify.com/track/3tVUc2cAezwllNaiykckN5"
+    },
+    {
+      "album": {
         "name": "Break My Heart Again",
         "url": "https://open.spotify.com/album/3pMTdANEnWqRSF1W9n2ges"
       },
@@ -2388,7 +2446,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 207000,
       "name": "Broken",
       "url": "https://open.spotify.com/track/036CdpEXVShFxaER0K7LVW"
@@ -2604,6 +2662,24 @@
       "duration_ms": 177677,
       "name": "Cage (Feed Them The Rage)",
       "url": "https://open.spotify.com/track/1eVNmNv5L6heH6Y32xQmcI"
+    },
+    {
+      "album": {
+        "name": "Call it Love",
+        "url": "https://open.spotify.com/album/24enOzG3Jj0SOUBo6lMWvB"
+      },
+      "artists": [
+        {
+          "name": "Maxtreme",
+          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197255,
+      "name": "Call it Love",
+      "url": "https://open.spotify.com/track/5eK7mtygh7j2seVNa6GAgo"
     },
     {
       "album": {
@@ -2984,7 +3060,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 190774,
       "name": "Closer & Closer (Lust)",
       "url": "https://open.spotify.com/track/33I6EMlyKVXZFexDSOWJw9"
@@ -3028,6 +3104,24 @@
       "duration_ms": 162000,
       "name": "Codebreaker",
       "url": "https://open.spotify.com/track/2sDdP6fdMzTcX4PpN9DH9w"
+    },
+    {
+      "album": {
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/77cInQFumMTB0g5W5WlMSa"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177682,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/4QuLvVp76ztgtugmHQ3AoM"
     },
     {
       "album": {
@@ -3116,7 +3210,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 177994,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/0B2ZbGyryoEAmSmRbHndPp"
@@ -3320,6 +3414,32 @@
       "duration_ms": 208955,
       "name": "Cosmic Dance",
       "url": "https://open.spotify.com/track/6nHXUm7pMJGnkqqRiW9kdO"
+    },
+    {
+      "album": {
+        "name": "Crank It Loud",
+        "url": "https://open.spotify.com/album/1V0ThDNbu07m4mppr4GFdv"
+      },
+      "artists": [
+        {
+          "name": "Deluzion",
+          "url": "https://open.spotify.com/artist/3r40SMXcvhhDUE1xhU8MSB"
+        },
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172503,
+      "name": "Crank It Loud",
+      "url": "https://open.spotify.com/track/54NYW1EBw5h8tX956UlUHY"
     },
     {
       "album": {
@@ -5608,7 +5728,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 195200,
       "name": "Far From Here",
       "url": "https://open.spotify.com/track/54NQOkaFiVnkMMwbOPN1jB"
@@ -7290,10 +7410,40 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 254601,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/2ta87BcMoIcwg4W0UStZED"
+    },
+    {
+      "album": {
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/7oEm0ankzz0Is25YkrhUNu"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "Jurgen Vries",
+          "url": "https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg"
+        },
+        {
+          "name": "Ecstatic",
+          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186470,
+      "name": "Heat Of The Moment",
+      "url": "https://open.spotify.com/track/6VpR1Ddi97grQSLuHjh4dH"
     },
     {
       "album": {
@@ -7502,7 +7652,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 169500,
       "name": "Hit The Floor",
       "url": "https://open.spotify.com/track/5YNlE7p0YICNhoCohD5U4P"
@@ -8267,6 +8417,28 @@
     },
     {
       "album": {
+        "name": "IJSCOMAN",
+        "url": "https://open.spotify.com/album/5HEmDLuIkLDpr4xJ8mcRAm"
+      },
+      "artists": [
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        {
+          "name": "Bassbrain",
+          "url": "https://open.spotify.com/artist/2FpmZwomIGHEVAICcfIg5T"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "IJSCOMAN",
+      "url": "https://open.spotify.com/track/55gMCUlmE8mNQulOST9KvZ"
+    },
+    {
+      "album": {
         "name": "Illuminate",
         "url": "https://open.spotify.com/album/1FFFK7JQM6gcsD53nTSHUO"
       },
@@ -8479,6 +8651,28 @@
     },
     {
       "album": {
+        "name": "Incoming",
+        "url": "https://open.spotify.com/album/0UgXY26t826eeQoiX7xVed"
+      },
+      "artists": [
+        {
+          "name": "Adjuzt",
+          "url": "https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8"
+        },
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141003,
+      "name": "Incoming",
+      "url": "https://open.spotify.com/track/60BXRzKo4POERx76B1glqk"
+    },
+    {
+      "album": {
         "name": "Incriminate",
         "url": "https://open.spotify.com/album/2tTwWF6vYf2dqfopbf3z8t"
       },
@@ -8490,7 +8684,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 165000,
       "name": "Incriminate",
       "url": "https://open.spotify.com/track/5vl5t1dnRBIdGOQvpLFt8h"
@@ -9644,7 +9838,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 162750,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/6cfilq76OvuHwLSlY5Vtkx"
@@ -10036,7 +10230,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 211500,
       "name": "Live For The Hard",
       "url": "https://open.spotify.com/track/5CbzwDqLjODFI9BJBgINrD"
@@ -12057,6 +12251,28 @@
     },
     {
       "album": {
+        "name": "NEXT TO U",
+        "url": "https://open.spotify.com/album/2ir9fnnsgkzvsF9q4Wukdl"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "TOZA",
+          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166136,
+      "name": "NEXT TO U",
+      "url": "https://open.spotify.com/track/7JwoBMrnKy23dqnQqv8fQE"
+    },
+    {
+      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/24kvwqHPUzcSEJdC33qRjx"
       },
@@ -13120,7 +13336,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 166600,
       "name": "Outlaws",
       "url": "https://open.spotify.com/track/7DDagCsWCjgoTGF19hmZ2A"
@@ -13168,7 +13384,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 221109,
       "name": "Over The Edge",
       "url": "https://open.spotify.com/track/3OJtqlbp0jLbFnUd9L4EVd"
@@ -13600,7 +13816,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 325494,
       "name": "Power of the Tribe (Defqon.1 2024 Anthem)",
       "url": "https://open.spotify.com/track/0Bwq1DvIe3YSN2nVQ1n5Am"
@@ -15520,7 +15736,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 177750,
       "name": "SAVE ME",
       "url": "https://open.spotify.com/track/15YYQC2n1LJblmAoN8F5ke"
@@ -15582,7 +15798,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 218322,
       "name": "Schooier (feat. Chicco)",
       "url": "https://open.spotify.com/track/45Wtlihsfygwj4GcXl59sS"
@@ -15936,6 +16152,24 @@
       "duration_ms": 200727,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/2VZ1eAKMcrF3eXwYWq2NHQ"
+    },
+    {
+      "album": {
+        "name": "So Happy (So W'Happy Festival Anthem 2024)",
+        "url": "https://open.spotify.com/album/0YKFYehfdq82Q2ZFa4Mawk"
+      },
+      "artists": [
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160385,
+      "name": "So Happy - So W'Happy Festival Anthem 2024",
+      "url": "https://open.spotify.com/track/1IBzPMAjtQCccoq0EnNmyC"
     },
     {
       "album": {
@@ -17504,7 +17738,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 186640,
       "name": "Temporary High Part II (Brennan Heart & Toneshifterz Remix)",
       "url": "https://open.spotify.com/track/7aeiFyksFf0M7GjwH4M8Fr"
@@ -18520,7 +18754,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 198971,
       "name": "The Unknown",
       "url": "https://open.spotify.com/track/7DbegEH7xQiMoMJxDQHriF"
@@ -18876,6 +19110,28 @@
       "duration_ms": 161654,
       "name": "Together",
       "url": "https://open.spotify.com/track/2hMk0OQdWtUaFmk76tNgPu"
+    },
+    {
+      "album": {
+        "name": "TOKYO BY NIGHT HARDSTYLE (SPED UP)",
+        "url": "https://open.spotify.com/album/02k53HHJahPgt5NA0dSF3k"
+      },
+      "artists": [
+        {
+          "name": "DJ Smellhodet",
+          "url": "https://open.spotify.com/artist/5nmPnGMbZXF1fNhV3ZKYFz"
+        },
+        {
+          "name": "SICK LEGEND",
+          "url": "https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "TOKYO BY NIGHT HARDSTYLE",
+      "url": "https://open.spotify.com/track/2Hmq6wnNRdnYIDwc7CLCXr"
     },
     {
       "album": {
@@ -19758,7 +20014,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 247758,
       "name": "Victorious",
       "url": "https://open.spotify.com/track/7GXdv79Bkj3yuFuvzILHVw"
@@ -19916,6 +20172,28 @@
       "duration_ms": 156000,
       "name": "Warrior",
       "url": "https://open.spotify.com/track/4C38Ho0CQ5Te98cjDWASTl"
+    },
+    {
+      "album": {
+        "name": "Warrior Cry",
+        "url": "https://open.spotify.com/album/47EV2t9QoqQ7D3hCr9UJhT"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207483,
+      "name": "Warrior Cry",
+      "url": "https://open.spotify.com/track/3MKGucsbvdG7RgfoFOqDaj"
     },
     {
       "album": {
@@ -21026,6 +21304,32 @@
       "duration_ms": 192000,
       "name": "XTREME XTASY",
       "url": "https://open.spotify.com/track/7DIAUvqEp8uCAp9rL5pBEA"
+    },
+    {
+      "album": {
+        "name": "YEAHBOIII",
+        "url": "https://open.spotify.com/album/04sm7KL9lAoandtv1skukC"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Mish",
+          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
+        },
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "YEAHBOIII",
+      "url": "https://open.spotify.com/track/0ylo3XIQYUzPYhTdfPWn4v"
     },
     {
       "album": {

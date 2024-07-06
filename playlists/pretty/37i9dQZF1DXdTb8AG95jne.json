@@ -1,6 +1,6 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: LEE SEUNG YOON(\uc774\uc2b9\uc724)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 469574,
+  "num_followers": 469764,
   "original_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-07-05 02:32:09",
       "album": {
-        "name": "Begins youth (Original Xclusive Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/4nK3NKTn5dDmuRMKW33QFL"
-      },
-      "artists": [
-        {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
-        }
-      ],
-      "duration_ms": 248981,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/0KaN3qT6D58wAezCAEyIU2"
-    },
-    {
-      "added_at": "2024-07-05 02:32:09",
-      "album": {
         "name": "Hug me tight",
         "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 227756,
       "name": "Hug me tight",
       "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
+    },
+    {
+      "added_at": "2024-07-05 02:32:09",
+      "album": {
+        "name": "Begins youth (Original Xclusive Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/4nK3NKTn5dDmuRMKW33QFL"
+      },
+      "artists": [
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        }
+      ],
+      "duration_ms": 248981,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0KaN3qT6D58wAezCAEyIU2"
     },
     {
       "added_at": "2024-07-05 02:32:09",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-05 02:32:09",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7"
-      },
-      "artists": [
-        {
-          "name": "dosii",
-          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
-        }
-      ],
-      "duration_ms": 243321,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ"
-    },
-    {
-      "added_at": "2024-07-05 02:32:09",
-      "album": {
         "name": "\"L\"",
         "url": "https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2024-07-05 02:32:09",
       "album": {
-        "name": "2 Minutes",
-        "url": "https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz"
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7"
       },
       "artists": [
         {
-          "name": "Milena",
-          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+          "name": "dosii",
+          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
         }
       ],
-      "duration_ms": 120453,
-      "name": "2 Minutes",
-      "url": "https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo"
+      "duration_ms": 243321,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ"
     },
     {
       "added_at": "2024-07-05 02:32:09",
@@ -743,6 +727,22 @@
       "duration_ms": 226559,
       "name": "Let's Meet In Spring",
       "url": "https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs"
+    },
+    {
+      "added_at": "2024-07-05 02:32:09",
+      "album": {
+        "name": "2 Minutes",
+        "url": "https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "duration_ms": 120453,
+      "name": "2 Minutes",
+      "url": "https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo"
     },
     {
       "added_at": "2024-07-05 02:32:09",

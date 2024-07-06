@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 343545,
+  "num_followers": 343640,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -615,26 +615,6 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
-        "name": "High Notes",
-        "url": "https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "High Notes",
-      "url": "https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO"
-    },
-    {
-      "added_at": "2024-06-14 14:50:20",
-      "album": {
         "name": "Function",
         "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 197639,
       "name": "Function",
       "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
+    },
+    {
+      "added_at": "2024-06-14 14:50:20",
+      "album": {
+        "name": "High Notes",
+        "url": "https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "High Notes",
+      "url": "https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO"
     },
     {
       "added_at": "2024-06-14 14:50:20",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
+        "name": "Nah It Ain't The Same",
+        "url": "https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 251831,
+      "name": "Nah It Ain't The Same",
+      "url": "https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO"
+    },
+    {
+      "added_at": "2024-06-14 14:50:20",
+      "album": {
         "name": "Sunrise Sunfall (Edit)",
         "url": "https://open.spotify.com/album/2dxUn6hVWWdHXvidEdJ7R6"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 193105,
       "name": "Sunrise Sunfall - Edit",
       "url": "https://open.spotify.com/track/191lXO61Bz5ncHsxCJksUW"
-    },
-    {
-      "added_at": "2024-06-14 14:50:20",
-      "album": {
-        "name": "Nah It Ain't The Same",
-        "url": "https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 251831,
-      "name": "Nah It Ain't The Same",
-      "url": "https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO"
     },
     {
       "added_at": "2024-06-14 14:50:20",

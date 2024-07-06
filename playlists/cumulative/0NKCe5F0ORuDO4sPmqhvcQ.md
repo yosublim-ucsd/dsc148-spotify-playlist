@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-616 songs - 1 day 10 hr 35 min
+617 songs - 1 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Lavender \(feat\. Jolina Elísh\)](https://open.spotify.com/track/6DQUJXeQbpzVcB2sT0rrlA) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Jolina Elísh](https://open.spotify.com/artist/36XHszB4UC3UDGGcamfclK) | [Lavender Dreams & Scarlet Nightmares](https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP) | 3:15 | 2023-05-01 | 2023-08-18 |
 | [Left Behind](https://open.spotify.com/track/3NQOEIsyMlYGgy0i1pbxlL) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Left Behind](https://open.spotify.com/album/3ahJz8yBkI9eUcKun7MDel) | 4:24 | 2022-09-16 | 2023-04-01 |
 | [LEFT TO RIGHT \- JADED Remix](https://open.spotify.com/track/6SejpzU5kr4Jlw2iZyBRwq) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [LEFT TO RIGHT \(JADED Remix\)](https://open.spotify.com/album/0o1mk3UOSifeAFi46JdHL6) | 2:56 | 2023-03-15 | 2023-04-01 |
+| [Leo \(Flicker\)](https://open.spotify.com/track/6Rv52AlUaniafnTHwtLmLr) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [George Gleeson](https://open.spotify.com/artist/0mEFVuC5KrUvXFpSB2JctV), [STARSIGNS](https://open.spotify.com/artist/4i6h8ZEK64FovE2EQCjMMZ), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Leo \(Flicker\)](https://open.spotify.com/album/160Tod59m8NhG1EvUU9U3t) | 4:03 | 2024-07-05 |  |
 | [Lest I Forget](https://open.spotify.com/track/36TSK3QjHHJOcjMEFdtTqw) | [Simon Cress](https://open.spotify.com/artist/1bI3fRB0jBmdtVI5yxUqW1) | [Bloom](https://open.spotify.com/album/6mclW6BfNuFLYWsPceVL3t) | 4:32 | 2021-08-27 | 2022-01-08 |
 | [Let Go](https://open.spotify.com/track/4oZnV1W54b1TIn96i0KIwV) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Let Go](https://open.spotify.com/album/2itVxfPOWQrHr2X27J4ZhG) | 2:06 | 2022-11-03 |  |
 | [Let You Go](https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Let You Go](https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ) | 3:21 | 2022-12-06 | 2023-01-30 |

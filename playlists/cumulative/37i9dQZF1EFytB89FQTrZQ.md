@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-464 songs - 1 day 2 hr 29 min
+465 songs - 1 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,7 +351,8 @@
 | [Runaway](https://open.spotify.com/track/6yyt5haoLPB88BmRDYXONo) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [Infinity](https://open.spotify.com/album/7i6hniRU5Rv7z0CoLWVD4Q) | 4:17 | 2023-06-22 | 2023-12-14 |
 | [Runaway](https://open.spotify.com/track/4y4DwppW6dvTPtIt7a1y8v) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq), [Tiffi](https://open.spotify.com/artist/6YJLGRyg8mzvDkwSUgl8nW) | [HTTP404](https://open.spotify.com/album/2mHLX4cwIZxtrISqQLo729) | 3:29 | 2022-09-08 |  |
 | [Running](https://open.spotify.com/track/1M63e49UMbQLjj5ovdY0cw) | [MATTIE](https://open.spotify.com/artist/4CNJAcDjY6gy8rR9o9GIlb) | [Running](https://open.spotify.com/album/3CTvBKVFDXoutFzU0lz6cr) | 4:32 | 2022-12-15 |  |
-| [Rush](https://open.spotify.com/track/0ujXF7s3C0XliL3ygwvVfE) | [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Fantasy & Facts](https://open.spotify.com/album/70gaiI4hthpS7Ef5uo8C2h) | 3:59 | 2022-09-08 |  |
+| [Rush](https://open.spotify.com/track/0ujXF7s3C0XliL3ygwvVfE) | [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Fantasy & Facts](https://open.spotify.com/album/70gaiI4hthpS7Ef5uo8C2h) | 3:59 | 2022-09-08 | 2024-07-06 |
+| [Rush](https://open.spotify.com/track/4auwKIU6xiylngSIMXVEYa) | [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Fantasy & Facts](https://open.spotify.com/album/6HtKBTMCxQKy9jPnuVd6vl) | 3:59 | 2024-07-05 |  |
 | [Sad Girl Music \(feat\. BANKS\)](https://open.spotify.com/track/6Zx9jLPOmRwZSxf7zdwoth) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Sad Girl Music \(feat\. BANKS\)](https://open.spotify.com/album/0WkKqicUopy6vqSqm4LJLj) | 3:23 | 2022-10-01 |  |
 | [Safe \- Gianluigi Di Russo Remix](https://open.spotify.com/track/3Tu97UqEVK0ztchxq6R0aJ) | [Ryan Mullin](https://open.spotify.com/artist/03P40uvlrvQ9yJAqyFiLI5) | [Safe](https://open.spotify.com/album/2gzA6hATddeEbDupJW6XeT) | 6:57 | 2023-06-22 | 2023-12-14 |
 | [Saturday Night](https://open.spotify.com/track/0eQZaR47vkYzvmsRkJHxKL) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Easy Listening for Jerks, Pt\. 2](https://open.spotify.com/album/6v6ZJt4l99JznyJ9YnMwwK) | 5:24 | 2023-08-19 |  |

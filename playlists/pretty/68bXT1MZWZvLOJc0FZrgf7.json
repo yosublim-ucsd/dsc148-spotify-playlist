@@ -1,13 +1,37 @@
 {
-  "description": "Dance to your favorite electronic hits \ud83e\udea9 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \ud83d\udd7a Cover: BUNT.",
-  "num_followers": 99125,
+  "description": "Dance to your favorite electronic hits \ud83e\udea9 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \ud83d\udd7a Cover: Sigala",
+  "num_followers": 99124,
   "original_name": "Dance For Days \ud83e\udea9\ud83d\udd7a 2024 EDM",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "AAAQfPWflgmu8WTkg7u+ZHkj+Xkyqjb2",
+  "snapshot_id": "AAAQf0Y0WuABl23tOjDap484cQ8hMFYW",
   "tracks": [
+    {
+      "added_at": "2024-07-05 14:17:52",
+      "album": {
+        "name": "It's A Feeling",
+        "url": "https://open.spotify.com/album/3lV6tjpfPlg08Yjs4WjsDZ"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Trevor Daniel",
+          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 189223,
+      "name": "It's A Feeling",
+      "url": "https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8"
+    },
     {
       "added_at": "2024-06-28 13:45:54",
       "album": {

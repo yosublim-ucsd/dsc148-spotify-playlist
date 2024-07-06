@@ -2527,6 +2527,24 @@
     },
     {
       "album": {
+        "name": "INGRATA4 (dime si a\u00fan)",
+        "url": "https://open.spotify.com/album/2ze4ym7uREFXo0nvswNpek"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "INGRATA4 (dime si a\u00fan)",
+      "url": "https://open.spotify.com/track/6PBvW3ndFy2YafGRIniiNZ"
+    },
+    {
+      "album": {
         "name": "Insecure",
         "url": "https://open.spotify.com/album/2S32rMqgkDur5hStJolwg6"
       },
@@ -3282,7 +3300,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 155492,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/4rejyzjiLkT53w4NWC0Sct"

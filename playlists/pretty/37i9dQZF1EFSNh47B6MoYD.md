@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461 likes - 143 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 462 likes - 143 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 98 | [Mi Canal](https://open.spotify.com/track/1eCG7oAPgfmzB3vVCj9dNN) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Panamá Mía](https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv) | 3:55 |
 | 99 | [Desde Siempre \- En Vivo](https://open.spotify.com/track/4W9TrGS7HAFkYTTLN6XNDv) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 3:34 |
 | 100 | [Tudo por Amor](https://open.spotify.com/track/29kGwiWNbsT24lXvSHBnDK) | [Emanuel](https://open.spotify.com/artist/1xuWbulfiPxqP5rucKLiQN), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Hoje Há Festa](https://open.spotify.com/album/2pHTzvXpUcEOw2xlf5jSpH) | 4:48 |
-| 101 | [Con Tal de Que No Te Vays \- En Vivo](https://open.spotify.com/track/2jXmAvQ6AEXS0EDMaTkCgK) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 4:06 |
-| 102 | [Siembro Mi Vida](https://open.spotify.com/track/4y6oqAgr6EsHHim3Ksyym5) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Panamá Mía](https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv) | 2:29 |
+| 101 | [Siembro Mi Vida](https://open.spotify.com/track/4y6oqAgr6EsHHim3Ksyym5) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Panamá Mía](https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv) | 2:29 |
+| 102 | [Con Tal de Que No Te Vays \- En Vivo](https://open.spotify.com/track/2jXmAvQ6AEXS0EDMaTkCgK) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 4:06 |
 | 103 | [Até Logo](https://open.spotify.com/track/5GN0ecahtja4wD7mpjvSyw) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 3:54 |
 | 104 | [Cueste Lo Que Cueste](https://open.spotify.com/track/4rkr5Irpn5fRwwkgGSiGdl) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 4:18 |
 | 105 | [Donde \(Xeque\-Mate\)](https://open.spotify.com/track/314hiE2Yr06A9gDHNg7Pyr) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Donde \(Xeque\-Mate\)](https://open.spotify.com/album/06ZepOfHjDSp99jAECXmjW) | 3:26 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 142 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
 | 143 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 
-Snapshot ID: `AbV03gAAAACavYISbdR4UThvNbrE9ckh`
+Snapshot ID: `AbV6fgAAAAD1/D50aBzeCeWed5y9hx3u`

@@ -4,7 +4,7 @@
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.
 
-171 songs - 9 hr 28 min
+172 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Dirt On Us](https://open.spotify.com/track/1gv7dH35aQjmfvdrSzphws) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [Dirt On Us](https://open.spotify.com/album/6tvUq3lJ1nVe3taTIREnDS) | 3:03 | 2024-05-31 |  |
 | [Don't Make Me Get Over You](https://open.spotify.com/track/03QcpHj9HH6RzSqRhlY4Oy) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Don't Make Me Get Over You](https://open.spotify.com/album/14AzP8Po9UYxn2croucHYX) | 3:31 | 2023-11-03 | 2024-01-20 |
 | [Double Down](https://open.spotify.com/track/7LvbLxitSFgQYfrXResa6k) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Double Down](https://open.spotify.com/album/5l5yGchZei9NrlijF7DHtn) | 2:55 | 2024-02-02 | 2024-06-22 |
+| [Drowning](https://open.spotify.com/track/22AYv6oubrOclu24nNux0M) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Drowning](https://open.spotify.com/album/5Y8hv9mXolK9hQej1MOlwF) | 4:48 | 2024-07-05 |  |
 | [Evangelina](https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Evangelina](https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib) | 3:47 | 2023-11-03 | 2024-04-02 |
 | [Evangelina](https://open.spotify.com/track/6RxtsOjMkQI3AVqgJDs3It) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Little Songs](https://open.spotify.com/album/4l1JW9aV2fmAxnH9TeeK82) | 3:47 | 2023-11-03 | 2024-01-13 |
 | [Fall In Love With Me](https://open.spotify.com/track/56CmYOZ5YNtmuVUtY5W5jF) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Fall In Love With Me](https://open.spotify.com/album/67JHB0s8c5pbNELuRkl0E8) | 3:15 | 2023-11-03 | 2024-01-20 |

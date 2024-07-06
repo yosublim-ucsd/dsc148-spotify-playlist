@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 127183,
       "name": "100 Bands",
       "url": "https://open.spotify.com/track/7nQMqUUXPkMCQNOESQ3bkV"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 181875,
       "name": "Expensive (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/6J5arrQW3qOEccgueXbKn0"
@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 189791,
       "name": "HOMAGE (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/7d385YmjS53AFzloIRmfL9"
@@ -1882,6 +1882,24 @@
       "duration_ms": 151821,
       "name": "HOP IN THE WHIP",
       "url": "https://open.spotify.com/track/2gla8798ZLQ8GVRaBcS3Lh"
+    },
+    {
+      "album": {
+        "name": "How Many",
+        "url": "https://open.spotify.com/album/4IylGJ09nibqVHqRGzxSIN"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123558,
+      "name": "How Many",
+      "url": "https://open.spotify.com/track/7r4eIeyVaErbZlXHDXaQeb"
     },
     {
       "album": {
@@ -2345,6 +2363,24 @@
     },
     {
       "album": {
+        "name": "Lithonia",
+        "url": "https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179320,
+      "name": "Lithonia",
+      "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
+    },
+    {
+      "album": {
         "name": "Atavista",
         "url": "https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ"
       },
@@ -2690,6 +2726,28 @@
       "duration_ms": 275750,
       "name": "No Face",
       "url": "https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF"
+    },
+    {
+      "album": {
+        "name": "No Time (feat. SadBoi) [Extended]",
+        "url": "https://open.spotify.com/album/7ikMBbBakjjHKp3ETNd64E"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171520,
+      "name": "No Time (feat. SadBoi)",
+      "url": "https://open.spotify.com/track/6CFtKlUG02HhCEySHm2yuj"
     },
     {
       "album": {

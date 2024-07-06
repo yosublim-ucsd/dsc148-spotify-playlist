@@ -1,6 +1,6 @@
 {
   "description": "De nieuwste Hollandse hits. Cover: Andr\u00e9 Hazes & Mart Hoogkamer",
-  "num_followers": 145796,
+  "num_followers": 145896,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
@@ -55,6 +55,26 @@
       "duration_ms": 148704,
       "name": "Vannacht Slaap Jij Bij Mij",
       "url": "https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Limbo (feat. Lange Frans)",
+        "url": "https://open.spotify.com/album/59zlubTTdweZ1nD8oxuKx6"
+      },
+      "artists": [
+        {
+          "name": "Stef Horn",
+          "url": "https://open.spotify.com/artist/4cXq4XlhzpOmp4hOZ4wXUi"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "duration_ms": 155043,
+      "name": "Limbo (feat. Lange Frans)",
+      "url": "https://open.spotify.com/track/6k0nST5Ww3yvZhQWBJquH0"
     },
     {
       "added_at": "2024-06-20 22:00:00",

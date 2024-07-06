@@ -5,6 +5,42 @@
   "tracks": [
     {
       "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
+    {
+      "album": {
+        "name": "Ale ja",
+        "url": "https://open.spotify.com/album/3zOIePiY1Nm2JgKi9txVWd"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Szczygie\u0142",
+          "url": "https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Ale ja",
+      "url": "https://open.spotify.com/track/4D2RsHcxiLCnvJWtkGomyl"
+    },
+    {
+      "album": {
         "name": "ALERTY RCB",
         "url": "https://open.spotify.com/album/3qWtFi06FJ8CyM4GprFhDu"
       },
@@ -16,10 +52,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 165417,
       "name": "ALERTY RCB",
       "url": "https://open.spotify.com/track/2HWPhvQLMVwhTLNVvLK3er"
+    },
+    {
+      "album": {
+        "name": "AMORE",
+        "url": "https://open.spotify.com/album/7A7Yg3CYOmOtM6XDJtOz8i"
+      },
+      "artists": [
+        {
+          "name": "tomash",
+          "url": "https://open.spotify.com/artist/3F4KehTGmSeMmPd2YQvmeY"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "AMORE",
+      "url": "https://open.spotify.com/track/044O7GSnrUGZIGt2meiJdj"
     },
     {
       "album": {
@@ -218,7 +272,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 260120,
       "name": "Drown",
       "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
@@ -362,7 +416,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 195862,
       "name": "Halfway There",
       "url": "https://open.spotify.com/track/6yp2xpP4aqgTpxzHdVid1M"
@@ -380,7 +434,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 156329,
       "name": "HATE YOUR GUTS",
       "url": "https://open.spotify.com/track/6x3VbkjJpLygkueOL604cz"
@@ -518,6 +572,24 @@
       "duration_ms": 166830,
       "name": "KEEP IT UP",
       "url": "https://open.spotify.com/track/6x5GkDddrOaBTmX55yU12Y"
+    },
+    {
+      "album": {
+        "name": "Kosmosy",
+        "url": "https://open.spotify.com/album/30I9WyETvOCanXQFRxJqN7"
+      },
+      "artists": [
+        {
+          "name": "Kuba D\u0105browski",
+          "url": "https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175758,
+      "name": "Kosmosy",
+      "url": "https://open.spotify.com/track/1pJutt0aXEbS1uuFu2qK6w"
     },
     {
       "album": {
@@ -1009,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "Treadmill",
+        "url": "https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193262,
+      "name": "Treadmill",
+      "url": "https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA"
+    },
+    {
+      "album": {
         "name": "Tyle mog\u0142em Ci da\u0107",
         "url": "https://open.spotify.com/album/4dfPdu3N7AOQ4RLzSYIFNR"
       },
@@ -1020,7 +1110,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "Tyle mog\u0142em Ci da\u0107",
       "url": "https://open.spotify.com/track/7yhlUkUDOyGqrfkb1THfSj"
@@ -1038,7 +1128,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
@@ -1114,7 +1204,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 228480,
       "name": "\u0141api\u0119 si\u0119 na my\u015blach",
       "url": "https://open.spotify.com/track/5NbwPBOEFXAYHRZ4GIFYgb"

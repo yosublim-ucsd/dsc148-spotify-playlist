@@ -2,7 +2,7 @@
 
 ### [This Is Touché Amoré](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AX458)
 
-> This Is Touché Amoré\. Los temas esenciales, todos en una lista.
+> This is Touché Amoré\. The essential tracks, all in one playlist.
 
 71 songs - 2 hr 47 min
 
@@ -69,7 +69,7 @@
 | [Social Caterpillar](https://open.spotify.com/track/3ST2MhuSUaSbDv9G4edwDU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 3:03 | 2022-10-05 | 2022-10-07 |
 | [Social Caterpillar \- Revived \(Remixed / Remastered\)](https://open.spotify.com/track/3OpGupuQpODzL7hszQZkJv) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By \(Revived \[Remixed / Remastered\]\)](https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK) | 3:03 | 2024-01-20 | 2024-01-22 |
 | [Softer Spoken](https://open.spotify.com/track/7aoOy4QXKGhecDODluw2c6) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 1:55 | 2022-09-19 | 2022-10-13 |
-| [Steps](https://open.spotify.com/track/66tkJursjOgAkQ94z7Vtn5) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 2:38 | 2022-09-16 | 2023-04-04 |
+| [Steps](https://open.spotify.com/track/66tkJursjOgAkQ94z7Vtn5) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 2:38 | 2022-09-16 |  |
 | [Steps \- Revived \(Remixed / Remastered\)](https://open.spotify.com/track/0wnFv3Ybu7S7fN5nAnPQN3) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By \(Revived \[Remixed / Remastered\]\)](https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK) | 2:38 | 2024-01-20 | 2024-01-22 |
 | [Suckerfish](https://open.spotify.com/track/24GkGstdibYrnnhfZWsFE4) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:38 | 2022-09-16 |  |
 | [Swimming with Sharks](https://open.spotify.com/track/4BjDJV6gg3dCVwoXyQkf8q) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:03 | 2022-09-30 |  |

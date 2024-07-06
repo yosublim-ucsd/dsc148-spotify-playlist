@@ -7809,6 +7809,28 @@
     },
     {
       "album": {
+        "name": "right where you left me",
+        "url": "https://open.spotify.com/album/0a28dOkcC53FjmLwNpVEOm"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        },
+        {
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173466,
+      "name": "right where you left me",
+      "url": "https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP"
+    },
+    {
+      "album": {
         "name": "Risk",
         "url": "https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw"
       },

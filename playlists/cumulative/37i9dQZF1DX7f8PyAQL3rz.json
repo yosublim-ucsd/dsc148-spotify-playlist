@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "t\u00f4 com a filha do deputado",
+  "description": "wiuzin t\u00e1 de volta na pegada de fortal",
   "name": "creme",
   "tracks": [
     {
@@ -68,7 +68,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 128503,
       "name": "01 N\u00e3o \u00c9 02",
       "url": "https://open.spotify.com/track/27ECP9NCzTAoTpxXNePZuS"
@@ -2518,7 +2518,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 177877,
       "name": "Dose de Gin",
       "url": "https://open.spotify.com/track/6kuirWr63J83WizobD7Bx9"
@@ -6039,6 +6039,56 @@
     },
     {
       "album": {
+        "name": "M\u00f3 Temp\u00e3o Que Tu N\u00e3o Fala Comigo",
+        "url": "https://open.spotify.com/album/6KgnlBPf54hiTXIBNtfYcJ"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 532941,
+      "name": "M\u00f3 Temp\u00e3o Que Tu N\u00e3o Fala Comigo",
+      "url": "https://open.spotify.com/track/398GQsAm55L04n4LcBgzFP"
+    },
+    {
+      "album": {
         "name": "Modo Repeat",
         "url": "https://open.spotify.com/album/0nnTIilwUj6zqezx6dRzQ1"
       },
@@ -8078,6 +8128,24 @@
       "duration_ms": 182448,
       "name": "Radar",
       "url": "https://open.spotify.com/track/0V4LaOkdQm1sJwNerXcxMl"
+    },
+    {
+      "album": {
+        "name": "Rainha da Finesse",
+        "url": "https://open.spotify.com/album/2WDkXg8cZKpEMhxJ2yRBfM"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Rainha da Finesse",
+      "url": "https://open.spotify.com/track/1JgAwzPyaXdaTZrjHSEntY"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 568307,
+  "num_followers": 568455,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAACJovpfRcvrG/6r+jJPZuT0",
+  "snapshot_id": "ZoXmAAAAAABH5TcMevbTAjFNeQYLYUKS",
   "tracks": [
     {
       "added_at": null,
@@ -147,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 265826,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/0hsrqeudoR9Kymm7RNiVoq"
+      "duration_ms": 350666,
+      "name": "One More Try - Remastered",
+      "url": "https://open.spotify.com/track/5932kbyNt445gDTT2chRUS"
     },
     {
       "added_at": null,
@@ -183,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
       },
       "artists": [
         {
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 280720,
-      "name": "Kissing a Fool - Remastered",
-      "url": "https://open.spotify.com/track/1sEGwuvScFU2uNzlI7Aepy"
+      "duration_ms": 265826,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/0hsrqeudoR9Kymm7RNiVoq"
     },
     {
       "added_at": null,
@@ -215,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 330800,
-      "name": "You Have Been Loved",
-      "url": "https://open.spotify.com/track/1W19bowAmX4WJusclbWIbM"
+      "duration_ms": 280720,
+      "name": "Kissing a Fool - Remastered",
+      "url": "https://open.spotify.com/track/1sEGwuvScFU2uNzlI7Aepy"
     },
     {
       "added_at": null,
@@ -247,6 +247,22 @@
       "duration_ms": 318866,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 330800,
+      "name": "You Have Been Loved",
+      "url": "https://open.spotify.com/track/1W19bowAmX4WJusclbWIbM"
     },
     {
       "added_at": null,
@@ -279,22 +295,6 @@
       "duration_ms": 230893,
       "name": "Too Funky - Single Edit",
       "url": "https://open.spotify.com/track/4fW718TtzWhIfGMc6owKzZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 289986,
-      "name": "Waiting for That Day - Remastered",
-      "url": "https://open.spotify.com/track/1fGvBYkZ6txCsWYpFSqFMJ"
     },
     {
       "added_at": null,
@@ -679,86 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirito Italiano",
-        "url": "https://open.spotify.com/album/5T4REe6LvQuo7hr3hcWrv8"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        },
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        },
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        },
-        {
-          "name": "Eurythmics",
-          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
-        },
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        },
-        {
-          "name": "Irene Grandi",
-          "url": "https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H"
-        },
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        },
-        {
-          "name": "Skunk Anansie",
-          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
-        },
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        },
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Ars Canto G. Verdi",
-          "url": "https://open.spotify.com/artist/2nlUKg0hGbfQkhUuyudOgE"
-        },
-        {
-          "name": "Cambodian And Tibetan Children's Choir",
-          "url": "https://open.spotify.com/artist/5roVbMFPCz0wtqh7ffwzSd"
-        },
-        {
-          "name": "Orchestra Sinfonica Italiana",
-          "url": "https://open.spotify.com/artist/2TLCdLafkMIbrLHYvh4U5P"
-        },
-        {
-          "name": "Jos\u00e9 Molina",
-          "url": "https://open.spotify.com/artist/64sor8KhJsha9rn0LKiDGh"
-        }
-      ],
-      "duration_ms": 255733,
-      "name": "All You Need Is Love",
-      "url": "https://open.spotify.com/track/11sPHLSUyGhyDMXjI25nwM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
       },
@@ -771,22 +691,6 @@
       "duration_ms": 355733,
       "name": "Round Here",
       "url": "https://open.spotify.com/track/0CXKSzlIQfmQI3I7oQj9kv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs From The Last Century",
-        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 105946,
-      "name": "My Baby Just Cares for Me",
-      "url": "https://open.spotify.com/track/6iu9Pko748wfZbn3COSZe3"
     },
     {
       "added_at": null,
@@ -807,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 105946,
+      "name": "My Baby Just Cares for Me",
+      "url": "https://open.spotify.com/track/6iu9Pko748wfZbn3COSZe3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
         "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
@@ -823,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
+        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
       },
       "artists": [
         {
@@ -832,25 +752,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 263573,
-      "name": "John and Elvis Are Dead",
-      "url": "https://open.spotify.com/track/0pavieu1tjZZvUkUDevy7k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs From The Last Century",
-        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 159546,
-      "name": "Secret Love",
-      "url": "https://open.spotify.com/track/5DvAuonLamxQJUiY44tBiq"
+      "duration_ms": 198240,
+      "name": "Something to Save - Remastered",
+      "url": "https://open.spotify.com/track/0reIhlNWbYxMc2AAyKHzFX"
     },
     {
       "added_at": null,
@@ -871,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 159546,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/5DvAuonLamxQJUiY44tBiq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
         "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
@@ -887,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
       },
       "artists": [
         {
@@ -896,9 +816,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 276200,
-      "name": "Hand to Mouth - Remastered",
-      "url": "https://open.spotify.com/track/4wLjiz87aGbmDhADeMQWwt"
+      "duration_ms": 263573,
+      "name": "John and Elvis Are Dead",
+      "url": "https://open.spotify.com/track/0pavieu1tjZZvUkUDevy7k"
     },
     {
       "added_at": null,
@@ -915,6 +835,26 @@
       "duration_ms": 278573,
       "name": "An Easier Affair - Remastered 2006",
       "url": "https://open.spotify.com/track/0LNlKea7BFyja8oSeSs86o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duets An American Classic",
+        "url": "https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 323320,
+      "name": "How Do You Keep the Music Playing? (with George Michael)",
+      "url": "https://open.spotify.com/track/6c1BwNumEAwmAUBOKx5WjI"
     }
   ],
   "unique_name": "This Is George Michael",

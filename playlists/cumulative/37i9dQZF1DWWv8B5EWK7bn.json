@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 164598,
       "name": "Dicen",
       "url": "https://open.spotify.com/track/6Fp99MU2pE8RILQnqAL8iT"
@@ -3690,7 +3690,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 171342,
       "name": "Log In Your Fire",
       "url": "https://open.spotify.com/track/7txXo9E9GS7ioSX1g3RNSv"
@@ -4745,6 +4745,24 @@
     },
     {
       "album": {
+        "name": "Eleg\u00eda",
+        "url": "https://open.spotify.com/album/6EEkWd8f7a1zctFgoptqUj"
+      },
+      "artists": [
+        {
+          "name": "Siniestra Pandora",
+          "url": "https://open.spotify.com/artist/1cuq3b3taULpho8MTTZD2U"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227178,
+      "name": "Pagano",
+      "url": "https://open.spotify.com/track/0K8fmZNZFG2bCxamePeiFE"
+    },
+    {
+      "album": {
         "name": "Prize",
         "url": "https://open.spotify.com/album/0EMnfWB37amlYLEuQzoV3k"
       },
@@ -4800,6 +4818,24 @@
       "duration_ms": 214575,
       "name": "Palace In My Head",
       "url": "https://open.spotify.com/track/0VjY5jJjnDruOnMhMqkAks"
+    },
+    {
+      "album": {
+        "name": "Para los P\u00e1jaros / Carlos",
+        "url": "https://open.spotify.com/album/6fwq1M7IulFPZ0lbn4BB5v"
+      },
+      "artists": [
+        {
+          "name": "Sanje",
+          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268640,
+      "name": "Para los P\u00e1jaros",
+      "url": "https://open.spotify.com/track/21i2D8lKOnfT7vOJx5D8z5"
     },
     {
       "album": {
@@ -5122,7 +5158,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 297239,
       "name": "Right Is Alright, Wrong Is To Belong",
       "url": "https://open.spotify.com/track/3MQ8tI1RbEj7SL0FVG9sTt"
@@ -5384,6 +5420,24 @@
       "duration_ms": 174656,
       "name": "SAMO",
       "url": "https://open.spotify.com/track/7tUp7rwXgZ1VN9rjD6dn7F"
+    },
+    {
+      "album": {
+        "name": "& the Charm",
+        "url": "https://open.spotify.com/album/4lfxnysknFsZMnrB07hlCo"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269446,
+      "name": "Sandrail Silhouette",
+      "url": "https://open.spotify.com/track/0d3yrpfIZj4BJUVRdm2llW"
     },
     {
       "album": {

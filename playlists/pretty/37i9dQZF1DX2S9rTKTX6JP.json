@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 682814,
+  "num_followers": 682957,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-06-27 04:00:00",
       "album": {
-        "name": "God's Gonna Cut You Down",
-        "url": "https://open.spotify.com/album/1aGCsyMzwIyDgkfUwSwFcf"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
-        }
-      ],
-      "duration_ms": 160538,
-      "name": "God's Gonna Cut You Down",
-      "url": "https://open.spotify.com/track/0FkcmHJOsWE80rlpzfT0Pq"
-    },
-    {
-      "added_at": "2024-06-27 04:00:00",
-      "album": {
         "name": "Experience Hendrix: The Best Of Jimi Hendrix",
         "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 238626,
       "name": "All Along the Watchtower",
       "url": "https://open.spotify.com/track/7xdLNxZCtY68x5MAOBEmBq"
+    },
+    {
+      "added_at": "2024-06-27 04:00:00",
+      "album": {
+        "name": "God's Gonna Cut You Down",
+        "url": "https://open.spotify.com/album/1aGCsyMzwIyDgkfUwSwFcf"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "duration_ms": 160538,
+      "name": "God's Gonna Cut You Down",
+      "url": "https://open.spotify.com/track/0FkcmHJOsWE80rlpzfT0Pq"
     },
     {
       "added_at": "2024-06-27 04:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-06-27 04:00:00",
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
-    },
-    {
-      "added_at": "2024-06-27 04:00:00",
-      "album": {
         "name": "**** Live In Phoenix",
         "url": "https://open.spotify.com/album/2JA03Yv9LA7rRxHvZ15WXh"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 227880,
       "name": "Beat It - Studio Version",
       "url": "https://open.spotify.com/track/3C65zQ69c8RMiJ3wqB1ogp"
+    },
+    {
+      "added_at": "2024-06-27 04:00:00",
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
     },
     {
       "added_at": "2024-06-27 04:00:00",
@@ -1371,22 +1371,18 @@
     {
       "added_at": "2024-06-27 04:00:00",
       "album": {
-        "name": "Temple of Love (feat. VV)",
-        "url": "https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj"
+        "name": "Rebels",
+        "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
       },
       "artists": [
         {
           "name": "Black Veil Brides",
           "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        },
-        {
-          "name": "VV",
-          "url": "https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l"
         }
       ],
-      "duration_ms": 204759,
-      "name": "Temple of Love (feat. VV)",
-      "url": "https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX"
+      "duration_ms": 278280,
+      "name": "Rebel Yell",
+      "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
     },
     {
       "added_at": "2024-06-27 04:00:00",
@@ -1471,18 +1467,22 @@
     {
       "added_at": "2024-06-27 04:00:00",
       "album": {
-        "name": "Rebels",
-        "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
+        "name": "Temple of Love (feat. VV)",
+        "url": "https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj"
       },
       "artists": [
         {
           "name": "Black Veil Brides",
           "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        },
+        {
+          "name": "VV",
+          "url": "https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l"
         }
       ],
-      "duration_ms": 278280,
-      "name": "Rebel Yell",
-      "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
+      "duration_ms": 204759,
+      "name": "Temple of Love (feat. VV)",
+      "url": "https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX"
     },
     {
       "added_at": "2024-06-27 04:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-06-27 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 152377,
+      "name": "My Sharona - Live Session from Abbey Road Studios, London, UK",
+      "url": "https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH"
+    },
+    {
+      "added_at": "2024-06-27 04:00:00",
+      "album": {
         "name": "I Think We're Alone Now",
         "url": "https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 134671,
       "name": "I Think We're Alone Now",
       "url": "https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr"
-    },
-    {
-      "added_at": "2024-06-27 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 152377,
-      "name": "My Sharona - Live Session from Abbey Road Studios, London, UK",
-      "url": "https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH"
     },
     {
       "added_at": "2024-06-27 04:00:00",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2024-06-27 04:00:00",
       "album": {
-        "name": "Instant Karma: The Amnesty International Campaign To Save Darfur (Standard Version)",
-        "url": "https://open.spotify.com/album/5hJwAMtrAvp9cGLhR3ZmYN"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 263733,
-      "name": "Working Class Hero",
-      "url": "https://open.spotify.com/track/1rls1uw64JiGI2O7MZABWj"
-    },
-    {
-      "added_at": "2024-06-27 04:00:00",
-      "album": {
         "name": "Mississippi Queen/Slow Hand",
         "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 152973,
       "name": "Mississippi Queen",
       "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
+    },
+    {
+      "added_at": "2024-06-27 04:00:00",
+      "album": {
+        "name": "Instant Karma: The Amnesty International Campaign To Save Darfur (Standard Version)",
+        "url": "https://open.spotify.com/album/5hJwAMtrAvp9cGLhR3ZmYN"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 263733,
+      "name": "Working Class Hero",
+      "url": "https://open.spotify.com/track/1rls1uw64JiGI2O7MZABWj"
     },
     {
       "added_at": "2024-06-27 04:00:00",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-06-27 04:00:00",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/4uiyLLg6YL8wQuYQcw29I8"
-      },
-      "artists": [
-        {
-          "name": "Lit",
-          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
-        }
-      ],
-      "duration_ms": 228974,
-      "name": "Breakaway",
-      "url": "https://open.spotify.com/track/7IcSNVUvVdOv2gOXjExsFC"
-    },
-    {
-      "added_at": "2024-06-27 04:00:00",
-      "album": {
         "name": "One Step Closer \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/6IJc9uUeydaQenQSu9d3Ym"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 146526,
       "name": "One Step Closer \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/3PmNDKYfKGALpIRz5CEQD1"
+    },
+    {
+      "added_at": "2024-06-27 04:00:00",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/4uiyLLg6YL8wQuYQcw29I8"
+      },
+      "artists": [
+        {
+          "name": "Lit",
+          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
+        }
+      ],
+      "duration_ms": 228974,
+      "name": "Breakaway",
+      "url": "https://open.spotify.com/track/7IcSNVUvVdOv2gOXjExsFC"
     },
     {
       "added_at": "2024-06-27 04:00:00",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2024-06-27 04:00:00",
       "album": {
-        "name": "Royals",
-        "url": "https://open.spotify.com/album/5s43GovfaEXhryRE71wH9c"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 216193,
-      "name": "Royals",
-      "url": "https://open.spotify.com/track/2kRzQJ6CBubjaLBbDIuLra"
-    },
-    {
-      "added_at": "2024-06-27 04:00:00",
-      "album": {
         "name": "Rock & Roll Hall of Fame Covers - EP",
         "url": "https://open.spotify.com/album/2DKXYxXlATCLvg6SVcJsxB"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 139840,
       "name": "I Get Around - Live",
       "url": "https://open.spotify.com/track/06JprR8etx1u9C9k55lT1x"
+    },
+    {
+      "added_at": "2024-06-27 04:00:00",
+      "album": {
+        "name": "Royals",
+        "url": "https://open.spotify.com/album/5s43GovfaEXhryRE71wH9c"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 216193,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/2kRzQJ6CBubjaLBbDIuLra"
     },
     {
       "added_at": "2024-06-27 04:00:00",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2024-06-27 04:00:00",
       "album": {
-        "name": "WILLOW: Live At Electric Lady",
-        "url": "https://open.spotify.com/album/2yaCKbj7pFFEkXn3ixVr7w"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 123733,
-      "name": "Bag Lady / Split - Live",
-      "url": "https://open.spotify.com/track/6V3J9NK2BK2KbwmkGgTjip"
-    },
-    {
-      "added_at": "2024-06-27 04:00:00",
-      "album": {
         "name": "Summer In the City",
         "url": "https://open.spotify.com/album/3E06stlTQWUMGzysbx6YUu"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 188513,
       "name": "Summer in the City",
       "url": "https://open.spotify.com/track/1yCXPOdArdy2kDPUD1WTeQ"
+    },
+    {
+      "added_at": "2024-06-27 04:00:00",
+      "album": {
+        "name": "WILLOW: Live At Electric Lady",
+        "url": "https://open.spotify.com/album/2yaCKbj7pFFEkXn3ixVr7w"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 123733,
+      "name": "Bag Lady / Split - Live",
+      "url": "https://open.spotify.com/track/6V3J9NK2BK2KbwmkGgTjip"
     },
     {
       "added_at": "2024-06-27 04:00:00",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2024-06-27 04:00:00",
       "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/2WApmrlB4VgT8Mz0zEMrty"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 187404,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/2c5y2QB5qY6S84MoJTJYzE"
-    },
-    {
-      "added_at": "2024-06-27 04:00:00",
-      "album": {
         "name": "The Metallica Blacklist",
         "url": "https://open.spotify.com/album/7N32mF0BlA3BOhlSyCiHgf"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 262693,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/5zpubzwKoDQupHOCI6kgMf"
+    },
+    {
+      "added_at": "2024-06-27 04:00:00",
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/2WApmrlB4VgT8Mz0zEMrty"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 187404,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/2c5y2QB5qY6S84MoJTJYzE"
     },
     {
       "added_at": "2024-06-27 04:00:00",
@@ -2423,6 +2423,22 @@
     {
       "added_at": "2024-06-27 04:00:00",
       "album": {
+        "name": "Our House",
+        "url": "https://open.spotify.com/album/1o0W44e3TLSSkyFI55Wi2Z"
+      },
+      "artists": [
+        {
+          "name": "American Hi-Fi",
+          "url": "https://open.spotify.com/artist/4XlcLj6bxCnpBIOHmBpIWP"
+        }
+      ],
+      "duration_ms": 212365,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/1rkGytnje8oF8Ek13ZodT5"
+    },
+    {
+      "added_at": "2024-06-27 04:00:00",
+      "album": {
         "name": "Orgy of the Damned",
         "url": "https://open.spotify.com/album/3t3ZFkQhYdxBro1D83C8EB"
       },
@@ -2439,22 +2455,6 @@
       "duration_ms": 472253,
       "name": "Papa Was a Rolling Stone (feat. Demi Lovato)",
       "url": "https://open.spotify.com/track/2ZBE2MwgYqw6JgNgUztCVZ"
-    },
-    {
-      "added_at": "2024-06-27 04:00:00",
-      "album": {
-        "name": "Our House",
-        "url": "https://open.spotify.com/album/1o0W44e3TLSSkyFI55Wi2Z"
-      },
-      "artists": [
-        {
-          "name": "American Hi-Fi",
-          "url": "https://open.spotify.com/artist/4XlcLj6bxCnpBIOHmBpIWP"
-        }
-      ],
-      "duration_ms": 212365,
-      "name": "Our House",
-      "url": "https://open.spotify.com/track/1rkGytnje8oF8Ek13ZodT5"
     },
     {
       "added_at": "2024-06-27 04:00:00",

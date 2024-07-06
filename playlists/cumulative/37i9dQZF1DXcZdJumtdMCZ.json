@@ -1559,6 +1559,28 @@
     },
     {
       "album": {
+        "name": "Raayan Rumble (From \"Raayan\")",
+        "url": "https://open.spotify.com/album/1FVH2D7UkI5LNhim5CshPS"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/4YZKlYrsp8YSwFtFxNcdhd"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210768,
+      "name": "Raayan Rumble (From \"Raayan\")",
+      "url": "https://open.spotify.com/track/47yvxC80llSgqVhMWBZeLd"
+    },
+    {
+      "album": {
         "name": "Rich Rich (From \"Mahaan\")",
         "url": "https://open.spotify.com/album/3Z4pHhZ5NKMNoNCKIngFCm"
       },

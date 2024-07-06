@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 68171,
+  "num_followers": 68176,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "I'll Never Be The Same",
-        "url": "https://open.spotify.com/album/40pvocPd4gZdOefaiJ0PUg"
-      },
-      "artists": [
-        {
-          "name": "Algot Aelster",
-          "url": "https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP"
-        }
-      ],
-      "duration_ms": 147436,
-      "name": "I'll Never Be The Same",
-      "url": "https://open.spotify.com/track/6zmqdPkbV4fn9IhWvoLPNY"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
         "name": "En t'attendant",
         "url": "https://open.spotify.com/album/4zojkjd8EnxhvBQAx1Nd4W"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 160066,
       "name": "D\u00e9but",
       "url": "https://open.spotify.com/track/6YS1MXqso0zlmcL4OV1kXk"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
+        "name": "I'll Never Be The Same",
+        "url": "https://open.spotify.com/album/40pvocPd4gZdOefaiJ0PUg"
+      },
+      "artists": [
+        {
+          "name": "Algot Aelster",
+          "url": "https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP"
+        }
+      ],
+      "duration_ms": 147436,
+      "name": "I'll Never Be The Same",
+      "url": "https://open.spotify.com/track/6zmqdPkbV4fn9IhWvoLPNY"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "They Keep Asking",
-        "url": "https://open.spotify.com/album/6v1pneOr3DwY05Mk90l5v0"
-      },
-      "artists": [
-        {
-          "name": "Gottfried Barber",
-          "url": "https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl"
-        }
-      ],
-      "duration_ms": 151557,
-      "name": "They Keep Asking",
-      "url": "https://open.spotify.com/track/2gY1SFySK9FC7Nq41kBoOd"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
         "name": "Dolce Far Niente",
         "url": "https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 132000,
       "name": "Dolce Far Niente",
       "url": "https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
+        "name": "They Keep Asking",
+        "url": "https://open.spotify.com/album/6v1pneOr3DwY05Mk90l5v0"
+      },
+      "artists": [
+        {
+          "name": "Gottfried Barber",
+          "url": "https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl"
+        }
+      ],
+      "duration_ms": 151557,
+      "name": "They Keep Asking",
+      "url": "https://open.spotify.com/track/2gY1SFySK9FC7Nq41kBoOd"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "In Love In Vain",
-        "url": "https://open.spotify.com/album/0nlZbsqWq2DaRyxKjJ3SsT"
-      },
-      "artists": [
-        {
-          "name": "Amanda Heartwood",
-          "url": "https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz"
-        }
-      ],
-      "duration_ms": 174239,
-      "name": "In Love In Vain",
-      "url": "https://open.spotify.com/track/6eV6cumFU53rxA88CnnvZa"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 147029,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
+        "name": "In Love In Vain",
+        "url": "https://open.spotify.com/album/0nlZbsqWq2DaRyxKjJ3SsT"
+      },
+      "artists": [
+        {
+          "name": "Amanda Heartwood",
+          "url": "https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz"
+        }
+      ],
+      "duration_ms": 174239,
+      "name": "In Love In Vain",
+      "url": "https://open.spotify.com/track/6eV6cumFU53rxA88CnnvZa"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "Forest Flower",
-        "url": "https://open.spotify.com/album/1xEwOzWSVhygukb5WJYXnZ"
-      },
-      "artists": [
-        {
-          "name": "Arto Ferrara",
-          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
-        }
-      ],
-      "duration_ms": 253056,
-      "name": "Forest Flower",
-      "url": "https://open.spotify.com/track/1YxFFbAsEvNA8ocSVQJEH2"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
         "name": "This Is The Time",
         "url": "https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 159599,
       "name": "This Is The Time",
       "url": "https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
+        "name": "Forest Flower",
+        "url": "https://open.spotify.com/album/1xEwOzWSVhygukb5WJYXnZ"
+      },
+      "artists": [
+        {
+          "name": "Arto Ferrara",
+          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
+        }
+      ],
+      "duration_ms": 253056,
+      "name": "Forest Flower",
+      "url": "https://open.spotify.com/track/1YxFFbAsEvNA8ocSVQJEH2"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/617mBec4f2asE69pD1Tn5c"
+        "name": "Nefelibata",
+        "url": "https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn"
       },
       "artists": [
         {
-          "name": "Lisa Livalli",
-          "url": "https://open.spotify.com/artist/5qRGl1Cpcwz5uR17bGfOLR"
+          "name": "Jeanelle Bolduc",
+          "url": "https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ"
         }
       ],
-      "duration_ms": 216978,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/2FnNdUC2HDLSgTkuO8d7LG"
+      "duration_ms": 180624,
+      "name": "Nefelibata",
+      "url": "https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "Nefelibata",
-        "url": "https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/617mBec4f2asE69pD1Tn5c"
       },
       "artists": [
         {
-          "name": "Jeanelle Bolduc",
-          "url": "https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ"
+          "name": "Lisa Livalli",
+          "url": "https://open.spotify.com/artist/5qRGl1Cpcwz5uR17bGfOLR"
         }
       ],
-      "duration_ms": 180624,
-      "name": "Nefelibata",
-      "url": "https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ"
+      "duration_ms": 216978,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/2FnNdUC2HDLSgTkuO8d7LG"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "Pennies From Heaven",
-        "url": "https://open.spotify.com/album/75bRjjsmOtXqoSHeziafj0"
-      },
-      "artists": [
-        {
-          "name": "Avery Miller",
-          "url": "https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Pennies From Heaven",
-      "url": "https://open.spotify.com/track/5FZ1EwzovpSlbfPK2eynR0"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
         "name": "I See the Light - From \"Tangled\"",
         "url": "https://open.spotify.com/album/5dcUAPK0jMufmUiKT5oJW0"
       },
@@ -1303,22 +1287,6 @@
       "duration_ms": 200812,
       "name": "I See the Light - From \"Tangled\"",
       "url": "https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
-        "name": "Becoming",
-        "url": "https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C"
-      },
-      "artists": [
-        {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "Becoming",
-      "url": "https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -1339,6 +1307,22 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
+        "name": "Becoming",
+        "url": "https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "Becoming",
+      "url": "https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
         "name": "The Ember",
         "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
       },
@@ -1351,6 +1335,38 @@
       "duration_ms": 198298,
       "name": "Trail of Light",
       "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
+        "name": "Pennies From Heaven",
+        "url": "https://open.spotify.com/album/75bRjjsmOtXqoSHeziafj0"
+      },
+      "artists": [
+        {
+          "name": "Avery Miller",
+          "url": "https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Pennies From Heaven",
+      "url": "https://open.spotify.com/track/5FZ1EwzovpSlbfPK2eynR0"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
+      },
+      "artists": [
+        {
+          "name": "Serenity for Sleep",
+          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
+        }
+      ],
+      "duration_ms": 282824,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -1399,22 +1415,6 @@
       "duration_ms": 91898,
       "name": "Friendship.",
       "url": "https://open.spotify.com/track/4tgsdsLdze2YKRMSqmcy6A"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
-      },
-      "artists": [
-        {
-          "name": "Serenity for Sleep",
-          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
-        }
-      ],
-      "duration_ms": 282824,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "Mass",
-        "url": "https://open.spotify.com/album/2LTY4ASorTFysOfV8Nk1c2"
-      },
-      "artists": [
-        {
-          "name": "Zwera",
-          "url": "https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn"
-        }
-      ],
-      "duration_ms": 130267,
-      "name": "Mass",
-      "url": "https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
         "name": "La Vie",
         "url": "https://open.spotify.com/album/7xmt9O9FKI2sLhQuA3ON2o"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 109228,
       "name": "La Vie",
       "url": "https://open.spotify.com/track/7yGdwiZ84hot8b9PqRtOzV"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
+        "name": "Mass",
+        "url": "https://open.spotify.com/album/2LTY4ASorTFysOfV8Nk1c2"
+      },
+      "artists": [
+        {
+          "name": "Zwera",
+          "url": "https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn"
+        }
+      ],
+      "duration_ms": 130267,
+      "name": "Mass",
+      "url": "https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS"
     },
     {
       "added_at": "2024-07-01 02:52:41",

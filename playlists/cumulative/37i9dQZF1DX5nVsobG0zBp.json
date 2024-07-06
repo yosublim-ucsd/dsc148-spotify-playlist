@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Plutonio.  ",
+  "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Dillaz",
   "name": "Rap Tuga Hits",
   "tracks": [
     {
@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Acordar",
+        "url": "https://open.spotify.com/album/1tWREZzrDTdmy0ADiiI18b"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197862,
+      "name": "Acordar",
+      "url": "https://open.spotify.com/track/1M7pnSHpd4i5xFE2nUGq2W"
+    },
+    {
+      "album": {
         "name": "Iluminado",
         "url": "https://open.spotify.com/album/5fbYIdwgZSukUtH9iZ3xeq"
       },
@@ -344,6 +362,28 @@
       "duration_ms": 165860,
       "name": "ALKiMISTA",
       "url": "https://open.spotify.com/track/3vUNW5Gx2cNtRJ9feEtt0G"
+    },
+    {
+      "album": {
+        "name": "O Pr\u00f3prio",
+        "url": "https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        },
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211714,
+      "name": "Al\u00f4",
+      "url": "https://open.spotify.com/track/6vBuEFImAx36hDYiYqBtkZ"
     },
     {
       "album": {
@@ -1236,7 +1276,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 293748,
       "name": "Devia Ir",
       "url": "https://open.spotify.com/track/1ftBvRj542ol7LT1A0EtL7"
@@ -1280,6 +1320,24 @@
       "duration_ms": 229867,
       "name": "DIAS",
       "url": "https://open.spotify.com/track/56hVdyqQWCMYfKopnVRCwQ"
+    },
+    {
+      "album": {
+        "name": "O Pr\u00f3prio",
+        "url": "https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242970,
+      "name": "Dire\u00e7\u00e3o Paris",
+      "url": "https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8"
     },
     {
       "album": {
@@ -1408,7 +1466,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 217715,
       "name": "ES7\u00c1DIO",
       "url": "https://open.spotify.com/track/430EuoJ6KwzO0fFuCwu6am"
@@ -1696,6 +1754,24 @@
       "duration_ms": 178471,
       "name": "Focado",
       "url": "https://open.spotify.com/track/7gFnB4estwyHNeIERBQ5cM"
+    },
+    {
+      "album": {
+        "name": "Afro Fado",
+        "url": "https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/3p5b0fr7ynsuGeE8EJCJk9"
     },
     {
       "album": {
@@ -2174,7 +2250,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 159452,
       "name": "Juvena",
       "url": "https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP"
@@ -2322,7 +2398,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 192976,
       "name": "Lisabona",
       "url": "https://open.spotify.com/track/20BVQh0gMBhzcBpeCRi97F"
@@ -2694,7 +2770,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 219130,
       "name": "Ma\u00e7\u00e3",
       "url": "https://open.spotify.com/track/0eyTM1AjoPMdzfwCBfLIpO"
@@ -2934,7 +3010,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 207658,
       "name": "Morte do Artista",
       "url": "https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr"

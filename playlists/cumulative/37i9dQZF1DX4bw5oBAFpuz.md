@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-455 songs - 1 day 2 hr 25 min
+456 songs - 1 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [And So I Grow](https://open.spotify.com/track/6ODXo2jtBLbsVlnDFIVglV) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [And So I Grow](https://open.spotify.com/album/47dKXU9d4G8QbfcfKS8aHy) | 3:38 | 2023-12-28 |  |
 | [Another Day](https://open.spotify.com/track/19fXG7QBtxMBEDM4zGfahj) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty) | [For Life](https://open.spotify.com/album/4HeApjft3eRBID1XjF5QSs) | 3:52 | 2023-02-23 | 2023-04-26 |
 | [Another Day](https://open.spotify.com/track/4sClnnhC23yXMFMvE7lhc0) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Another Day](https://open.spotify.com/album/5IdiLQkgPHbTl5ukYAYhXg) | 2:48 | 2024-02-29 |  |
+| [Anxious](https://open.spotify.com/track/0bqwsQAkGaO0jzfzgI5iLV) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Anxious](https://open.spotify.com/album/7zdqBNL7UW6ez29rMY0NJ0) | 2:56 | 2024-07-05 |  |
 | [Anyone For You \(Tiger Lily\) \- Acoustic](https://open.spotify.com/track/1Fh2slksBn9TpTu3tSHSMa) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/70YBSblGdiJmHDbqg5LSrc) | 3:23 | 2023-02-23 | 2024-04-19 |
 | [Anything To Feel Alive](https://open.spotify.com/track/0ZfCPcY1RrPKdY8L5N79YP) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX), [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Anything To Feel Alive](https://open.spotify.com/album/68gQpGGfxAXDokf3PBLCzQ) | 4:20 | 2023-02-23 | 2024-04-05 |
 | [Anywhere Away from Here \- Acoustic](https://open.spotify.com/track/58OJ0w2DrwAvS4bf54iLWj) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Anywhere Away From Here \(Remixes\)](https://open.spotify.com/album/1ItTc2EfjzuF7Y85ieQbyG) | 3:56 | 2023-02-23 | 2024-04-19 |
@@ -51,7 +52,7 @@
 | [Blue](https://open.spotify.com/track/7uhaG1MmBzH5KU6X0TMNBJ) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Blue](https://open.spotify.com/album/4c8A95egg8m0QCgWYxGisw) | 3:27 | 2023-02-23 |  |
 | [Blue Bittersweet](https://open.spotify.com/track/31MtA1bmM3PsiAX1sur7rM) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [After The Hurricane \- Greatest Hits & More](https://open.spotify.com/album/3c7XPav9lVFFeTfOTL8fyk) | 4:30 | 2023-02-23 |  |
 | [Bobbie's Song](https://open.spotify.com/track/07DydynEAQfvBrOOIuHNcz) | [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj) | [Bobbie's Song](https://open.spotify.com/album/6canaf9tWSYr7bhrCzQemP) | 2:25 | 2023-02-23 |  |
-| [Borrow Your Time](https://open.spotify.com/track/1LEy7NUZqXHuc9SE5Xgv5A) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Borrow Your Time](https://open.spotify.com/album/7b9O11SYtiGD26f8sXIcAJ) | 3:29 | 2024-03-20 |  |
+| [Borrow Your Time](https://open.spotify.com/track/1LEy7NUZqXHuc9SE5Xgv5A) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Borrow Your Time](https://open.spotify.com/album/7b9O11SYtiGD26f8sXIcAJ) | 3:29 | 2024-03-20 | 2024-07-06 |
 | [Boston](https://open.spotify.com/track/2WZyfujzMweFLnozyUJBkW) | [Augustana](https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7) | [All The Stars and Boulevards](https://open.spotify.com/album/36i3fUi7xuuE0UA8pXtdxK) | 4:05 | 2023-02-23 |  |
 | [Breezy](https://open.spotify.com/track/3BsV7QKK1mmN1TN8ItZJCj) | [Wouter Hamel](https://open.spotify.com/artist/7eK4wPcMgmSIxcGBS2lJl0) | [Hamel](https://open.spotify.com/album/3nBmAlu9hp91II2wl8LvWm) | 3:59 | 2023-02-23 | 2024-04-04 |
 | [Bright Blue Skies](https://open.spotify.com/track/5zxwumO0laRosoeOvbVSvc) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [Mitch James \- Deluxe Edition](https://open.spotify.com/album/2uyhLTwc2V8KeSgysLtXTf) | 3:02 | 2023-02-23 |  |
@@ -123,7 +124,7 @@
 | [Fall](https://open.spotify.com/track/2qwQh8YCmWzEeS7KARFoqw) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5) | 4:11 | 2023-02-23 | 2024-04-19 |
 | [Fall Apart](https://open.spotify.com/track/31iIDD0Np4zBqnk5xVXSgf) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Beauty Is A Mess](https://open.spotify.com/album/56G0aPRr7G9paEbEGFlola) | 3:04 | 2023-02-23 |  |
 | [Fallin' All In You](https://open.spotify.com/track/5EYBryPOgIEPB7r5QIy6eG) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:55 | 2023-02-23 |  |
-| [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2024-03-21 |  |
+| [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2024-03-21 | 2024-07-06 |
 | [Fatherhood](https://open.spotify.com/track/22W5OLsXEcu5qc6cSblrvr) | [Euan Allison](https://open.spotify.com/artist/3ZW3NzHzLniYblaJ4s5eem) | [Fatherhood](https://open.spotify.com/album/3EIuPSXucrog6yYBwITBXB) | 2:58 | 2023-02-23 | 2024-04-19 |
 | [Feel At Home](https://open.spotify.com/track/4rjPdgGdaLyuQfOzV79v9h) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc), [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Quarter Life Crisis](https://open.spotify.com/album/4sfC2BT8zecnW2Lh9rDml1) | 3:55 | 2023-04-12 | 2024-06-13 |
 | [Feel The Love \- Sam Feldt Edit](https://open.spotify.com/track/3kxwFmWdVNvaJKE0xNGHpQ) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Feel The Love \(Sam Feldt Edit\)](https://open.spotify.com/album/6BO3DfKyMnvK3OzVZUDLYW) | 2:50 | 2023-02-23 |  |
@@ -320,7 +321,7 @@
 | [Save Your Love](https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB) | 3:23 | 2023-02-23 | 2023-04-07 |
 | [Say Something \(feat\. Chris Stapleton\)](https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 4:38 | 2023-02-23 |  |
 | [Seatbelts](https://open.spotify.com/track/5LpNNr02dABUYZ6ofq0xkY) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Seatbelts](https://open.spotify.com/album/7dx3bn5pvZnNwVA1Gptpll) | 3:47 | 2023-02-23 |  |
-| [Second Hand Lover](https://open.spotify.com/track/4uFws0rPYlbDCcPXTMjbfC) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Horizon](https://open.spotify.com/album/3nziLyYhBlU55CVhB7PDGC) | 3:34 | 2023-02-23 | 2024-07-05 |
+| [Second Hand Lover](https://open.spotify.com/track/4uFws0rPYlbDCcPXTMjbfC) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Horizon](https://open.spotify.com/album/3nziLyYhBlU55CVhB7PDGC) | 3:34 | 2023-02-23 |  |
 | [Seeing Straight](https://open.spotify.com/track/37jDUmxh5NUuaBWTAOB0si) | [Mitch Santiago](https://open.spotify.com/artist/6eERFYkiQQPyRK4rPEXTNH) | [Seeing Straight](https://open.spotify.com/album/4JAKg35Lyg9g9259rmL2cW) | 4:38 | 2023-02-23 | 2023-04-26 |
 | [Selfish Ways \- Acoustic](https://open.spotify.com/track/1nnNyDxDuSW88AP2oh4pQp) | [Elle Hollis](https://open.spotify.com/artist/5ZCeCsLU92i1Uv75rarNNn) | [Selfish Ways \(Acoustic\)](https://open.spotify.com/album/1F4rojYzrIQvsD6xNU1dTC) | 2:40 | 2023-04-25 | 2024-03-20 |
 | [September](https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [September](https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc) | 3:40 | 2024-03-21 |  |

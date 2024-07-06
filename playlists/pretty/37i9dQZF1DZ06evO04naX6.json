@@ -1,12 +1,12 @@
 {
   "description": "This Is Yandel. Los temas esenciales, todos en una lista.",
-  "num_followers": 168058,
+  "num_followers": 168082,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAACAzU3PR2lA+a/rxX1Qo7BP",
+  "snapshot_id": "ZoXmAAAAAAA53O215Zb/Obq3Qq5wJlEm",
   "tracks": [
     {
       "added_at": null,
@@ -259,38 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Criatura",
-        "url": "https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3"
-      },
-      "artists": [
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        }
-      ],
-      "duration_ms": 217093,
-      "name": "B\u00e1ilame - Remix",
-      "url": "https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -311,26 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MANIFESTING 20-05",
-        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "De Negro",
-      "url": "https://open.spotify.com/track/4vAAGNZAjmCUc51qjhFZdM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LAS QUE NO IBAN A SALIR",
         "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
       },
@@ -347,6 +295,26 @@
       "duration_ms": 209180,
       "name": "CANCI\u00d3N CON YANDEL",
       "url": "https://open.spotify.com/track/3pm4XtcsRIFFtH2UErk62R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "De Negro",
+      "url": "https://open.spotify.com/track/4vAAGNZAjmCUc51qjhFZdM"
     },
     {
       "added_at": null,
@@ -403,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 241560,
+      "name": "Nunca Me Olvides",
+      "url": "https://open.spotify.com/track/27ebni0DfbT5Owz6W42HP8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MANIFESTING 20-05",
         "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
       },
@@ -419,22 +403,6 @@
       "duration_ms": 225786,
       "name": "Pa Janguiar",
       "url": "https://open.spotify.com/track/6M3Wbw9M57Kaw2wXSMyjyf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 241560,
-      "name": "Nunca Me Olvides",
-      "url": "https://open.spotify.com/track/27ebni0DfbT5Owz6W42HP8"
     },
     {
       "added_at": null,
@@ -603,6 +571,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De L\u00edder a Leyenda",
+        "url": "https://open.spotify.com/album/6t3uUCp5kGlcXKmSfDl3Ul"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Moviendo Caderas (feat. Daddy Yankee)",
+      "url": "https://open.spotify.com/track/0bdL8X3MrX51dRz231BFtv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arena y Sal (feat. Yandel, Saiko, FMK, LIT killah & Tunvao) [Remix]",
         "url": "https://open.spotify.com/album/7szreH35LFWOfHayYZoE5v"
       },
@@ -643,26 +631,6 @@
       "duration_ms": 318259,
       "name": "Arena y Sal (feat. Yandel, Saiko, FMK, LIT killah & Tunvao) - Remix",
       "url": "https://open.spotify.com/track/3MhpTdIHlgg5uxNPXSfFOJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De L\u00edder a Leyenda",
-        "url": "https://open.spotify.com/album/6t3uUCp5kGlcXKmSfDl3Ul"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Moviendo Caderas (feat. Daddy Yankee)",
-      "url": "https://open.spotify.com/track/0bdL8X3MrX51dRz231BFtv"
     },
     {
       "added_at": null,
@@ -1039,6 +1007,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuanto Vale",
+        "url": "https://open.spotify.com/album/0xh0WBa0N4bQsbowMvDCIH"
+      },
+      "artists": [
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 165365,
+      "name": "Cuanto Vale",
+      "url": "https://open.spotify.com/track/3WHnnU4jaCPfzywrqSF5kl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
       },
@@ -1059,26 +1047,6 @@
       "duration_ms": 166929,
       "name": "UNA M\u00c1S",
       "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuanto Vale",
-        "url": "https://open.spotify.com/album/0xh0WBa0N4bQsbowMvDCIH"
-      },
-      "artists": [
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 165365,
-      "name": "Cuanto Vale",
-      "url": "https://open.spotify.com/track/3WHnnU4jaCPfzywrqSF5kl"
     },
     {
       "added_at": null,
@@ -1191,6 +1159,30 @@
       "duration_ms": 185973,
       "name": "La Calle Me Lo Pidio",
       "url": "https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legacy - De L\u00edder a Leyenda Tour (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0kEZti5UKQ2Dgc5o5ts5TQ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "El General Gadiel",
+          "url": "https://open.spotify.com/artist/7tETQjUDr6hqeJVd0WyuhH"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Plakito (feat. El General Gadiel & Farruko) - Remix",
+      "url": "https://open.spotify.com/track/1WmiclR92NBBRbgqS4hXsQ"
     }
   ],
   "unique_name": "This Is Yandel",

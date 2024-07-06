@@ -3895,6 +3895,24 @@
     },
     {
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/42D3FszT9XdwpK9zICUBsa"
+      },
+      "artists": [
+        {
+          "name": "GEL",
+          "url": "https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172687,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/486JaB4ZK017faPW9kNpje"
+    },
+    {
+      "album": {
         "name": "Mirror Muscles",
         "url": "https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG"
       },
@@ -6172,7 +6190,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 217007,
       "name": "Was It Worth It",
       "url": "https://open.spotify.com/track/2ADNTs7rzqTcl9kDn6p0xZ"

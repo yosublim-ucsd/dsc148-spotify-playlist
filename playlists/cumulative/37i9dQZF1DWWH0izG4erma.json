@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country Music that rocks. Cover: Eddie and the Getaway",
+  "description": "Country music that rocks. Cover: HARDY",
   "name": "Country Rocks",
   "tracks": [
     {
@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 151148,
       "name": "Call It Country",
       "url": "https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT"
@@ -1780,6 +1780,24 @@
       "duration_ms": 198591,
       "name": "Dragging Me Down",
       "url": "https://open.spotify.com/track/3jiccoy5e5npYDj8yVr5g1"
+    },
+    {
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/5Y8hv9mXolK9hQej1MOlwF"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288121,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/22AYv6oubrOclu24nNux0M"
     },
     {
       "album": {

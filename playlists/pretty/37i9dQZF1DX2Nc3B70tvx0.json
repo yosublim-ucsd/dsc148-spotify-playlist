@@ -1,12 +1,12 @@
 {
   "description": "The best in modern indie. Cover: Still Woozy",
-  "num_followers": 2075856,
+  "num_followers": 2075832,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXHzQAAAAATFTBNIgbee48lNlouf8uL",
+  "snapshot_id": "Zogo9gAAAAA6oV8mUNvTlEciN0cuvlvl",
   "tracks": [
     {
       "added_at": "2024-06-28 04:00:00",
@@ -159,6 +159,22 @@
       "duration_ms": 182761,
       "name": "Double",
       "url": "https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ"
+    },
+    {
+      "added_at": "2024-07-05 17:10:14",
+      "album": {
+        "name": "A Tear in Space (Airlock)",
+        "url": "https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 203989,
+      "name": "A Tear in Space (Airlock)",
+      "url": "https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm"
     },
     {
       "added_at": "2024-07-03 21:51:09",
@@ -637,6 +653,22 @@
       "url": "https://open.spotify.com/track/1akuYztpg4VfZT8Lg4N1w9"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "The Last Year",
+        "url": "https://open.spotify.com/album/0c576Mju3GRgkxR4YcUmtT"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "The Last Year",
+      "url": "https://open.spotify.com/track/2gs4GCStX8lwS8XIrrv63g"
+    },
+    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Oontz",
@@ -945,6 +977,22 @@
       "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "What A Devastating Turn of Events (Deluxe)",
+        "url": "https://open.spotify.com/album/6TE3Ozdv6QqR4CKbGi7lk2"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 178427,
+      "name": "Marie Kondo",
+      "url": "https://open.spotify.com/track/79xgVUXA77Sz3S5WWvfQX3"
+    },
+    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "Perfume",
@@ -1039,6 +1087,22 @@
       "duration_ms": 260407,
       "name": "Thrown Around",
       "url": "https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw"
+    },
+    {
+      "added_at": "2024-04-29 23:41:40",
+      "album": {
+        "name": "Hovvdy",
+        "url": "https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l"
     },
     {
       "added_at": "2024-06-13 16:56:48",
@@ -1421,6 +1485,22 @@
       "url": "https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7"
     },
     {
+      "added_at": "2024-04-26 01:04:15",
+      "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq"
+    },
+    {
       "added_at": "2024-06-13 16:56:48",
       "album": {
         "name": "Together We Are One, You and I",
@@ -1435,22 +1515,6 @@
       "duration_ms": 312413,
       "name": "Born In Early May",
       "url": "https://open.spotify.com/track/62RtrW0grZ2EUF3FetcbOK"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "The Last Year",
-        "url": "https://open.spotify.com/album/0c576Mju3GRgkxR4YcUmtT"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "The Last Year",
-      "url": "https://open.spotify.com/track/2gs4GCStX8lwS8XIrrv63g"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1537,6 +1601,22 @@
       "url": "https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ"
     },
     {
+      "added_at": "2024-03-28 23:28:29",
+      "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
+    },
+    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Small Change",
@@ -1619,22 +1699,6 @@
       "duration_ms": 204469,
       "name": "Boom Boom Back",
       "url": "https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/56ALbArb98jRcfSITJ4xsP"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 245980,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/7L33BfYhHwlQM8QqE1Fy3D"
     },
     {
       "added_at": "2024-05-24 00:03:31",
@@ -1721,22 +1785,6 @@
       "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
     },
     {
-      "added_at": "2024-04-29 23:41:40",
-      "album": {
-        "name": "Hovvdy",
-        "url": "https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l"
-    },
-    {
       "added_at": "2024-03-01 05:05:00",
       "album": {
         "name": "Underdressed at the Symphony",
@@ -1801,42 +1849,6 @@
       "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
     },
     {
-      "added_at": "2024-05-24 00:03:31",
-      "album": {
-        "name": "Hang On",
-        "url": "https://open.spotify.com/album/3Rhkg7UzUtz67mLXole1al"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 181967,
-      "name": "Hang On",
-      "url": "https://open.spotify.com/track/1Yzkeg4AIn65PAIcM3AFzJ"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Claw Machine",
-        "url": "https://open.spotify.com/album/0OSVJBh1GMnRjzyPUCTdDP"
-      },
-      "artists": [
-        {
-          "name": "Sloppy Jane",
-          "url": "https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 227786,
-      "name": "Claw Machine",
-      "url": "https://open.spotify.com/track/0pUlPdW6iTBWLgMHCp1yvc"
-    },
-    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "Ordinary Games",
@@ -1883,6 +1895,22 @@
       "duration_ms": 148506,
       "name": "Get It Right",
       "url": "https://open.spotify.com/track/2CO04OO1MMV1z8zY5N1pyD"
+    },
+    {
+      "added_at": "2024-02-27 18:55:37",
+      "album": {
+        "name": "Like A Ribbon",
+        "url": "https://open.spotify.com/album/7zEIMfEjyBreLK9TfrkwBC"
+      },
+      "artists": [
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "duration_ms": 204916,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/0uMd9pp22GoCf6i1r60lxA"
     },
     {
       "added_at": "2024-02-27 18:55:37",
@@ -1985,38 +2013,6 @@
       "url": "https://open.spotify.com/track/5thf5fzKD3tBooHlbwML78"
     },
     {
-      "added_at": "2024-03-28 23:28:29",
-      "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
-    },
-    {
-      "added_at": "2024-04-26 01:04:15",
-      "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq"
-    },
-    {
       "added_at": "2024-04-11 21:28:26",
       "album": {
         "name": "Pandora",
@@ -2047,38 +2043,6 @@
       "duration_ms": 239828,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4RPs3OeGwQFwUm3fuMbhgI"
-    },
-    {
-      "added_at": "2024-03-28 23:28:29",
-      "album": {
-        "name": "Take Me to the River",
-        "url": "https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Take Me to the River",
-      "url": "https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl"
-    },
-    {
-      "added_at": "2024-03-28 23:28:29",
-      "album": {
-        "name": "Catching Chickens EP",
-        "url": "https://open.spotify.com/album/2F3uJS0u2IHG8itwnMTTNH"
-      },
-      "artists": [
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        }
-      ],
-      "duration_ms": 223986,
-      "name": "Hell of a Ride",
-      "url": "https://open.spotify.com/track/09P99kOfM2P7w3DN3eL1uz"
     },
     {
       "added_at": "2024-03-21 18:03:44",
@@ -2151,22 +2115,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "What A Devastating Turn of Events (Deluxe)",
-        "url": "https://open.spotify.com/album/6TE3Ozdv6QqR4CKbGi7lk2"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 178427,
-      "name": "Marie Kondo",
-      "url": "https://open.spotify.com/track/79xgVUXA77Sz3S5WWvfQX3"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Nothing 2 See",
         "url": "https://open.spotify.com/album/6TgkkyqFf6xihTl96kmUN9"
       },
@@ -2211,38 +2159,6 @@
       "duration_ms": 283404,
       "name": "Blonde",
       "url": "https://open.spotify.com/track/2xu5nRMqxuXSdHPFUglucc"
-    },
-    {
-      "added_at": "2024-04-11 21:28:26",
-      "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Earrings",
-      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
-    },
-    {
-      "added_at": "2024-02-27 18:55:37",
-      "album": {
-        "name": "Like A Ribbon",
-        "url": "https://open.spotify.com/album/7zEIMfEjyBreLK9TfrkwBC"
-      },
-      "artists": [
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        }
-      ],
-      "duration_ms": 204916,
-      "name": "Emotions",
-      "url": "https://open.spotify.com/track/0uMd9pp22GoCf6i1r60lxA"
     }
   ],
   "unique_name": "Front Page Indie",

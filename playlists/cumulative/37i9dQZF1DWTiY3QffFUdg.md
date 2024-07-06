@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-194 songs - 10 hr 44 min
+195 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Ameno \(Techno Mix\)](https://open.spotify.com/track/4gTFHQpidAuSjo5voOV5cG) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Roberto Molinaro](https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9) | [Ameno \(Techno Mix\)](https://open.spotify.com/album/462dtvXo4JbizSYgI6wUPX) | 2:30 | 2024-02-16 |  |
 | [Angeli Domini \- with Jane in the Box](https://open.spotify.com/track/0JkUZtDFKWCIeL5HtEaseK) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Axel Cooper](https://open.spotify.com/artist/1adz07qkurydHDZRSePFhI), [Jane in the Box](https://open.spotify.com/artist/5XJBVppii4yVWTKt2aXdlJ) | [Angeli Domini \(with Jane in the Box\)](https://open.spotify.com/album/0m1iMXb5n9u12RwuwZxdq0) | 2:20 | 2023-11-07 |  |
 | [ANNE KAFFEEKANNE](https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd) | [TIM PLVNK](https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk) | [ANNE KAFFEEKANNE](https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i) | 2:20 | 2024-05-17 |  |
+| [ART DECO \(TEKKNO\)](https://open.spotify.com/track/5E0FGSdQruBGedbKrhx4po) | [Clarke 99](https://open.spotify.com/artist/2oAPxiUkLs3EdFAtYX4Qr5) | [ART DECO \(TEKKNO\)](https://open.spotify.com/album/4cPDwpxho889ZbeQiLLK8o) | 3:18 | 2024-07-05 |  |
 | [Bad Girls](https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Bad Girls](https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH) | 2:01 | 2024-03-15 |  |
 | [BARBEE \- On Acid](https://open.spotify.com/track/7Ium6Ib92uNyQAJKqlnv9s) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7) | [BARBEE \(On Acid\)](https://open.spotify.com/album/4afcZIEQNtU404MSb03d0h) | 3:28 | 2023-08-18 | 2023-09-20 |
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-08-11 |  |
@@ -118,7 +119,7 @@
 | [Move It](https://open.spotify.com/track/7F7G8FuCtggmPvs51E9fmN) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Move It](https://open.spotify.com/album/1IxDiKZoA2gGfoQMC3EJ4n) | 3:05 | 2023-10-06 |  |
 | [My Fantasy](https://open.spotify.com/track/2mbRfE0uDMWBAG0x3I7VCJ) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [My Fantasy](https://open.spotify.com/album/4BtrOR6UZNQV8yJl0P3vF4) | 2:59 | 2024-01-26 | 2024-03-16 |
 | [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 | 2023-08-18 |  |
-| [New Generation \(The Official Nature One Anthem 2024\)](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 | 2024-05-31 |  |
+| [New Generation \(The Official Nature One Anthem 2024\)](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 | 2024-05-31 | 2024-07-06 |
 | [No Guestlist \(feat\. Angelala\)](https://open.spotify.com/track/4RFrq3f4QrVORVgo8V633v) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Angelala](https://open.spotify.com/artist/5CJ01auuddLMVSm1dKCOys) | [No Guestlist \(feat\. Angelala\)](https://open.spotify.com/album/207i0ymIRSh6PCZY9UrDm7) | 4:51 | 2023-08-11 | 2023-09-20 |
 | [Novaacation \(Solomun Remix\)](https://open.spotify.com/track/69V3ab9N7fahkgWc4vLddT) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Novaacation \(Solomun Remix\)](https://open.spotify.com/album/6aVjBTKbhhhjAN4OlEUzvd) | 3:41 | 2023-08-11 | 2023-09-02 |
 | [Oblivion](https://open.spotify.com/track/050mcqcICeaJ4h2yXdwCHT) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Hedara](https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm) | [Oblivion](https://open.spotify.com/album/0WOXfzinWC4ACoMv7L8KJa) | 2:01 | 2024-04-19 |  |

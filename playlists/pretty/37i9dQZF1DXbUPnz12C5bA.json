@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 115802,
+  "num_followers": 115930,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -671,18 +671,18 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "50 a\u00f1os tocando para ti",
-        "url": "https://open.spotify.com/album/0z4qrWLVFyhdXEmKJ9WOQw"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
       },
       "artists": [
         {
-          "name": "Orquesta Filarm\u00f3nica de Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/6iR9h8XJsIb3WwA8u9j7sU"
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 300000,
-      "name": "Jaime Molina",
-      "url": "https://open.spotify.com/track/7KGk2Az2Pkg5KBGIAmYfJN"
+      "duration_ms": 246506,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
+        "name": "50 a\u00f1os tocando para ti",
+        "url": "https://open.spotify.com/album/0z4qrWLVFyhdXEmKJ9WOQw"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Filarm\u00f3nica de Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/6iR9h8XJsIb3WwA8u9j7sU"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Jaime Molina",
+      "url": "https://open.spotify.com/track/7KGk2Az2Pkg5KBGIAmYfJN"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
         "name": "\u2026Que viva el vallenato!",
         "url": "https://open.spotify.com/album/0d2xaYm4ahP90Bdbm2Ea28"
       },
@@ -719,6 +735,38 @@
       "duration_ms": 294640,
       "name": "Si Tu Amor No Vuelve",
       "url": "https://open.spotify.com/track/4frx1sI3l2Chq71SLHjiSx"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "Los 3 Amigos",
+        "url": "https://open.spotify.com/album/192GUv5p5fMEjf7ODUdpof"
+      },
+      "artists": [
+        {
+          "name": "Nelson Velasquez",
+          "url": "https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj"
+        }
+      ],
+      "duration_ms": 296693,
+      "name": "Ajena - En Vivo Version",
+      "url": "https://open.spotify.com/track/54wv2En7qrGKMwvbgMvuxi"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 300346,
+      "name": "Nunca Niegues Que Te Amo",
+      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -743,38 +791,6 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Los 3 Amigos",
-        "url": "https://open.spotify.com/album/192GUv5p5fMEjf7ODUdpof"
-      },
-      "artists": [
-        {
-          "name": "Nelson Velasquez",
-          "url": "https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj"
-        }
-      ],
-      "duration_ms": 296693,
-      "name": "Ajena - En Vivo Version",
-      "url": "https://open.spotify.com/track/54wv2En7qrGKMwvbgMvuxi"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
         "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
         "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 286640,
       "name": "Mi Diosa Humana",
       "url": "https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "Presente y Futuro",
-        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 300346,
-      "name": "Nunca Niegues Que Te Amo",
-      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -823,24 +823,8 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
-        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
-      },
-      "artists": [
-        {
-          "name": "Jose Luis Carrascal",
-          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
-        }
-      ],
-      "duration_ms": 297746,
-      "name": "Como duele el frio",
-      "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
+        "name": "Mas Cerca De T\u00ed",
+        "url": "https://open.spotify.com/album/7kKtbhe3YnMB4XyyE0fvtE"
       },
       "artists": [
         {
@@ -848,41 +832,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 303413,
-      "name": "Dif\u00edcil de Igualar",
-      "url": "https://open.spotify.com/track/3vD0lvTizLj1jr8QE75Y9x"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
-        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
-      },
-      "artists": [
-        {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
-        }
-      ],
-      "duration_ms": 310933,
-      "name": "Sirena Encantadora",
-      "url": "https://open.spotify.com/track/3wVuD02J4ErPU2jp5QtX10"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "Volver a Triunfar",
-        "url": "https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 297413,
-      "name": "Quiero Saber de Ti",
-      "url": "https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg"
+      "duration_ms": 287426,
+      "name": "Me Vas A Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/0pgnRjCupIUPCscgwTFTZ2"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -903,18 +855,66 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Mis Nuevos Cantares",
-        "url": "https://open.spotify.com/album/0XCGWbApuVV51sfZSmvWoz"
+        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
+        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
       "artists": [
         {
-          "name": "Erick Escobar",
-          "url": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
+          "name": "Jose Luis Carrascal",
+          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
         }
       ],
-      "duration_ms": 233073,
-      "name": "Eras Diferente",
-      "url": "https://open.spotify.com/track/1xVud4kEVDa8mnZAcEUAsP"
+      "duration_ms": 297746,
+      "name": "Como duele el frio",
+      "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
+        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
+      },
+      "artists": [
+        {
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+        }
+      ],
+      "duration_ms": 310933,
+      "name": "Sirena Encantadora",
+      "url": "https://open.spotify.com/track/3wVuD02J4ErPU2jp5QtX10"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "Sue\u00f1os de Colombia",
+        "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 317760,
+      "name": "Entregame Tu Amor",
+      "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/2YCWN8hMvb8QYUEHkmGqDb"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 300786,
+      "name": "Me Ilusione",
+      "url": "https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Vallenato",

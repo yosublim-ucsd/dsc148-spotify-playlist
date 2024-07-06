@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock, neo\-psychedelic, and psychedelic indie.
 
-973 songs - 2 day 15 hr 27 min
+977 songs - 2 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Doris](https://open.spotify.com/track/01psXbOBykOM12RHATPCjr) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:50 | 2022-04-20 | 2023-03-07 |
 | [Dorothy](https://open.spotify.com/track/7jay75cMfpEIyIkkvmemYr) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:06 | 2022-05-26 | 2022-07-09 |
 | [Dream of You](https://open.spotify.com/track/6pVYBR8WJdwUwMkdSTensd) | [Lionlimb](https://open.spotify.com/artist/06wmOEVNWtAOfLxNVcnz0V), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Dream of You](https://open.spotify.com/album/4OU061WzwjHr9KUBJnLEMR) | 3:57 | 2024-04-12 |  |
+| [Dream With You](https://open.spotify.com/track/2gEkF9RXPzw3LSfnEXNBZn) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Dream With You](https://open.spotify.com/album/0hOv3G09E7fOjFe1Q8Iedu) | 4:34 | 2024-07-05 |  |
 | [Dreamland](https://open.spotify.com/track/7ypIT6petNtsufzVizemQp) | [Misnomar](https://open.spotify.com/artist/3NeFQ1K7VGRnVgfvAfMm0s) | [Dreamland](https://open.spotify.com/album/4ZKAazai2eZv4V5gQBhk5D) | 4:59 | 2021-06-04 | 2022-04-16 |
 | [Dreams](https://open.spotify.com/track/0ZqTolRYHEfdsM5d3lNv0Q) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 2:55 | 2023-03-24 | 2023-04-09 |
 | [Dreams](https://open.spotify.com/track/5Wf95x7Tt0pIjUydyD5h4w) | [Joshy Soul](https://open.spotify.com/artist/077rXfQQLRyXfLdwGckDsg) | [Dreams](https://open.spotify.com/album/2pA1a9oAhcaknGh4Qs4Oo4) | 3:54 | 2021-10-18 | 2022-07-30 |
@@ -263,6 +264,7 @@
 | [Everyone Acts Crazy Nowadays](https://open.spotify.com/track/6VPvz8SZWRFEoawyUTvQTt) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/7c2Xfq7aQKzs0KdSI3K7Rc) | 4:14 | 2021-04-02 | 2022-04-17 |
 | [Everything Unspoken](https://open.spotify.com/track/2pTGZ8uKH5xwwsUYVGZVbH) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Everything Unspoken](https://open.spotify.com/album/4zMnF8DIMnTyvrSdH24q8w) | 3:49 | 2023-06-09 |  |
 | [everything's worth it](https://open.spotify.com/track/68IEDuJMZlaPaDVqhwcARF) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo) | 4:35 | 2021-06-04 | 2023-03-07 |
+| [Exploding Rainbows](https://open.spotify.com/track/0UJhYAUW9v4GU7BEOqydra) | [Branland](https://open.spotify.com/artist/3MzHEjlbXOGx9BHbxyejt2) | [Exploding Rainbows](https://open.spotify.com/album/6woRtzpy6rjbrj6hQtqRNM) | 2:31 | 2024-07-05 |  |
 | [Eye 2 Eye](https://open.spotify.com/track/4qu0t0ALzfAHmzuFliman4) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Stars Are The Light](https://open.spotify.com/album/3J3wekJNr78DPFd865z9PP) | 4:21 | 2021-04-02 | 2022-04-21 |
 | [Eyez](https://open.spotify.com/track/4gP55KOAwtv0qGuKq4YjLA) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Electrophonic Chronic](https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ) | 3:40 | 2023-03-06 | 2023-04-22 |
 | [Eyez](https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Eyez](https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4) | 3:40 | 2022-12-09 | 2023-03-07 |
@@ -351,6 +353,7 @@
 | [Heat Wave](https://open.spotify.com/track/7gkwA9D1GqsbecFEfLR1ka) | [Motel Radio](https://open.spotify.com/artist/69tXKp8pHBX6ZoVMkNdvt7) | [Heat Wave](https://open.spotify.com/album/757XmHJA5ltYC7lX4oazsP) | 3:49 | 2022-06-17 | 2022-07-26 |
 | [Heaven Is A Place](https://open.spotify.com/track/5KkeyBF2tSvOkFnsJSU12p) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Heaven Is A Place](https://open.spotify.com/album/4mL87tGrk35L47qxO5CTp8) | 4:49 | 2022-11-10 | 2023-03-07 |
 | [Heaven Surrounds Us Like a Hood](https://open.spotify.com/track/3nEGqUkkHyrDE9od2Uh2FM) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven Surrounds Us Like a Hood](https://open.spotify.com/album/5t7N8dFT1XvMnDekrjfHkb) | 4:06 | 2023-03-10 | 2023-11-18 |
+| [Here To Play](https://open.spotify.com/track/3e84fKOdUxnAvjL797tpmp) | [Huttch](https://open.spotify.com/artist/0pTXIJh9cWLEg3imgWvyIc) | [Here To Play](https://open.spotify.com/album/5iM0OxqlMZ6vqu7XBoTF1a) | 3:12 | 2024-07-05 |  |
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-03-06 | 2023-06-24 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-03-06 | 2023-06-02 |
 | [Hexagonal Field](https://open.spotify.com/track/07hOwFSoMe3NFioahHgmVs) | [Julian Lynch](https://open.spotify.com/artist/5pcVPO1Dc2LkIJZuQohg9k) | [Hexagonal Field](https://open.spotify.com/album/3MtY2d3j1oJXvy1IUgT7o6) | 5:07 | 2021-04-02 | 2022-04-21 |
@@ -690,6 +693,7 @@
 | [Restless Thoughts](https://open.spotify.com/track/3fJaQLBjTjl0TmXhff9TdL) | [Zooey Celeste](https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy) | [Restless Thoughts](https://open.spotify.com/album/5NYUwVB0BrNpQ35ZP3zgqk) | 2:32 | 2023-11-10 |  |
 | [Restless Thoughts](https://open.spotify.com/track/6rx2PKLSvz4El2ZW5o1skH) | [Zooey Celeste](https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy) | [Restless Thoughts](https://open.spotify.com/album/2Xitvfl8pZL8XH7iqxV9UJ) | 2:32 | 2023-11-10 | 2024-04-19 |
 | [Revelator](https://open.spotify.com/track/0xVwkfyPh0brDtlmtdIb2d) | [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc) | [Revelator](https://open.spotify.com/album/7zI8PDMo7i9ZZcIBL7BK1d) | 3:05 | 2022-03-04 | 2022-06-15 |
+| [Rigid Dreams](https://open.spotify.com/track/5BK89NXr4JtWja07GftbdO) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Rigid Dreams](https://open.spotify.com/album/7LZGymeiZ80ZJvA7h95O8f) | 3:32 | 2024-07-05 |  |
 | [Roddy](https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0) | 4:12 | 2023-09-29 |  |
 | [Rolling Stone](https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Rolling Stone](https://open.spotify.com/album/7qkzYjhpUzGCiGzm9p3Dv8) | 2:49 | 2021-12-14 | 2023-03-07 |
 | [Rosemary Hemphill](https://open.spotify.com/track/63FnpR9gIfFkpGMK2v6DAl) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Rosemary Hemphill](https://open.spotify.com/album/7hJXawgXArmsLcxHvIWIPr) | 5:11 | 2023-03-10 | 2023-08-24 |

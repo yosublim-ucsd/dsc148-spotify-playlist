@@ -1,13 +1,29 @@
 {
   "description": "Push play on the coolest playlist around, and get ready to jump around. Cover: Gracie's Corner",
-  "num_followers": 58964,
+  "num_followers": 59134,
   "original_name": "Hip-Hop & R&B for Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnT6wAAAAADaHBV5MrN89tn/8QKFvAkJ",
+  "snapshot_id": "ZodvwQAAAAD4774ryMT5UGbXmvDKVH/R",
   "tracks": [
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Veggie Dance",
+        "url": "https://open.spotify.com/album/5rFResvBMH7atGl0pFSaUZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie's Corner",
+          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
+        }
+      ],
+      "duration_ms": 105124,
+      "name": "Veggie Dance - Steamed Broccoli",
+      "url": "https://open.spotify.com/track/2Ino5VIjhkchNGPk2WfQxO"
+    },
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
@@ -27,26 +43,6 @@
       "duration_ms": 170280,
       "name": "Celebrate!",
       "url": "https://open.spotify.com/track/0ud8GbjknpHxDrhGZxwrFl"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Veggie Dance (Remix)",
-        "url": "https://open.spotify.com/album/6icID5P2oWMMmr1nO2aJV2"
-      },
-      "artists": [
-        {
-          "name": "Gracie's Corner",
-          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
-        },
-        {
-          "name": "2Rare",
-          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
-        }
-      ],
-      "duration_ms": 112699,
-      "name": "Veggie Dance - Remix",
-      "url": "https://open.spotify.com/track/2BBvcBwojcHlSTjp48I2SJ"
     },
     {
       "added_at": "2024-06-21 04:00:00",

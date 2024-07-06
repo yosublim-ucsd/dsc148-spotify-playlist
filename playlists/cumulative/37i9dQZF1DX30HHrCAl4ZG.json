@@ -7588,7 +7588,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 153760,
       "name": "Dreamboy",
       "url": "https://open.spotify.com/track/7LJDeRGp1ZfgkXayb0UUMC"
@@ -16947,6 +16947,24 @@
     },
     {
       "album": {
+        "name": "MR. ROMEO",
+        "url": "https://open.spotify.com/album/3IzxVPZ6HUeaAqZiZIYZgk"
+      },
+      "artists": [
+        {
+          "name": "Ashes To Amber",
+          "url": "https://open.spotify.com/artist/1VjLe0p8LUFKPbyKaQZAgu"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157723,
+      "name": "MR. ROMEO",
+      "url": "https://open.spotify.com/track/1oxJbV6ixCH6hNEqhj5eQy"
+    },
+    {
+      "album": {
         "name": "Into The Rift",
         "url": "https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y"
       },
@@ -19668,6 +19686,24 @@
       "duration_ms": 178236,
       "name": "Pretty Pictures",
       "url": "https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl"
+    },
+    {
+      "album": {
+        "name": "Pretty Pink Sky",
+        "url": "https://open.spotify.com/album/1reaWBcwSZXB0PW5b5pTBK"
+      },
+      "artists": [
+        {
+          "name": "stereo roux",
+          "url": "https://open.spotify.com/artist/7hnRKDRhjSaBaph70JtRbx"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297591,
+      "name": "Pretty Pink Sky",
+      "url": "https://open.spotify.com/track/5kjfjqkIPmBQbffroznTck"
     },
     {
       "album": {
@@ -24600,7 +24636,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 251600,
       "name": "The Kill",
       "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
@@ -26794,7 +26830,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 218022,
       "name": "Waiting A Lifetime",
       "url": "https://open.spotify.com/track/2E6uRIo6wa6KrhDNarmbJ1"
@@ -26888,6 +26924,24 @@
       "duration_ms": 199078,
       "name": "Warm Blanket",
       "url": "https://open.spotify.com/track/1PZz5Xx3A98S7vQH9HDWpD"
+    },
+    {
+      "album": {
+        "name": "Wasted (YTYKS)",
+        "url": "https://open.spotify.com/album/7e5MyGbbCFILWzac4BVPAv"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255483,
+      "name": "Wasted (YTYKS)",
+      "url": "https://open.spotify.com/track/2qSAQ9xQDQUgNduZU4IXbt"
     },
     {
       "album": {

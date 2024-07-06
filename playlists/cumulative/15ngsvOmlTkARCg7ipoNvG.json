@@ -304,7 +304,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 63374,
       "name": "Above The Skyline",
       "url": "https://open.spotify.com/track/45Dc80XMvyomJiIXkqFthC"
@@ -4823,6 +4823,24 @@
     },
     {
       "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/4bWWMAVUPkSWBG95A7gbdz"
+      },
+      "artists": [
+        {
+          "name": "July Sunrise",
+          "url": "https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60865,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/30lPH79Dq5k5DGCNkakAnO"
+    },
+    {
+      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/4KWQdvYkfCatSafb1o5vCR"
       },
@@ -7254,7 +7272,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 63191,
       "name": "Deep Yellow Sunrise",
       "url": "https://open.spotify.com/track/0NSCeOVRzjT8E0PqWEHrVE"
@@ -7672,7 +7690,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 63273,
       "name": "Distancing Sunlight",
       "url": "https://open.spotify.com/track/6y4QX4id7LugNfuqmacre5"
@@ -8774,7 +8792,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 63375,
       "name": "Empathy And Peace",
       "url": "https://open.spotify.com/track/0JboP91uwsy5Wl7VlcgCVu"
@@ -11418,6 +11436,24 @@
       "duration_ms": 95265,
       "name": "From Dream to Dream",
       "url": "https://open.spotify.com/track/2e9FQGZnnl5Us52CDEssjZ"
+    },
+    {
+      "album": {
+        "name": "Hillside Songs",
+        "url": "https://open.spotify.com/album/32e44ep6VLvMxxIEawIlGc"
+      },
+      "artists": [
+        {
+          "name": "Ivory Light",
+          "url": "https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63374,
+      "name": "From The Beautiful Horizon",
+      "url": "https://open.spotify.com/track/29pVYPkvJZv0mjJDE10DrD"
     },
     {
       "album": {
@@ -19742,7 +19778,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 63369,
       "name": "Only Now We Know",
       "url": "https://open.spotify.com/track/7zXNK7kkEbuNumDeAHJuTe"

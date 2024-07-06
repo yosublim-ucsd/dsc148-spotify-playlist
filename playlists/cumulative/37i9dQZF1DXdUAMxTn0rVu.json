@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Common",
+  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: The Alchemist ",
   "name": "I Love My Underground Classics",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 256160,
       "name": "1999 - Street",
       "url": "https://open.spotify.com/track/1379SGBOnPB6yNc3sj1Dj6"
@@ -1234,6 +1234,36 @@
       "duration_ms": 254000,
       "name": "Hip Hop Essentials",
       "url": "https://open.spotify.com/track/4gBwvgP9zhEv6S0QkIsreH"
+    },
+    {
+      "album": {
+        "name": "1st Infantry",
+        "url": "https://open.spotify.com/album/6bTrNPIYDpWVFoE3E7wpUk"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Nina Sky",
+          "url": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6"
+        },
+        {
+          "name": "Prodigy",
+          "url": "https://open.spotify.com/artist/1GwxXgEc6oxCKQ5wykWXFs"
+        },
+        {
+          "name": "Illa Ghee",
+          "url": "https://open.spotify.com/artist/3brL6NPSZHYrJNzeUKcVbL"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238706,
+      "name": "Hold You Down",
+      "url": "https://open.spotify.com/track/4TpBPG62p9RefejCGNoxF9"
     },
     {
       "album": {
@@ -3104,6 +3134,24 @@
     {
       "album": {
         "name": "Expansion Team",
+        "url": "https://open.spotify.com/album/5l8eNNfdgghJbhPtOf0aw2"
+      },
+      "artists": [
+        {
+          "name": "Dilated Peoples",
+          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Worst Comes To Worst",
+      "url": "https://open.spotify.com/track/4bHrZLxaOU1gfAz0rZAnCx"
+    },
+    {
+      "album": {
+        "name": "Expansion Team",
         "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
       },
       "artists": [
@@ -3114,7 +3162,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 215973,
       "name": "Worst Comes To Worst - Edited",
       "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"

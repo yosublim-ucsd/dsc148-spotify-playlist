@@ -5372,7 +5372,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 184615,
       "name": "RYL0VE Song",
       "url": "https://open.spotify.com/track/09Sksb6alLvHMiHsa200n6"
@@ -5993,6 +5993,24 @@
     },
     {
       "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/0inDI68EUkhmQjo90QcVqh"
+      },
+      "artists": [
+        {
+          "name": "Isaac Dunbar",
+          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139133,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/4i9TjoNNAjYEcgXJ1IX07u"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -6102,6 +6120,24 @@
       "duration_ms": 179222,
       "name": "Tears in the Moonlight",
       "url": "https://open.spotify.com/track/2MAz9mZH3n9nVGZWUC2VUh"
+    },
+    {
+      "album": {
+        "name": "Tears To Stay",
+        "url": "https://open.spotify.com/album/56v1Xxrq0f6iodYsedT9Bw"
+      },
+      "artists": [
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125185,
+      "name": "Tears To Stay",
+      "url": "https://open.spotify.com/track/702sclnvy3bqY7KcUZarpr"
     },
     {
       "album": {
@@ -6588,7 +6624,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 138535,
       "name": "Unwind",
       "url": "https://open.spotify.com/track/2nuDAyuVQOyQ3PBp4r1SO9"

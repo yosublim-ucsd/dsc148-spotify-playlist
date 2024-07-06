@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 9803,
+  "num_followers": 9811,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAAB9DV2ZIztqGkmiafALPVDj",
+  "snapshot_id": "ZoXmAAAAAABqprygFADEElLCLUfltxQO",
   "tracks": [
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad",
-        "url": "https://open.spotify.com/album/7ghg4UUVy004mc7lPql9uj"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/0LvTcWy1faRiiMWpLAoOkN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "wanted",
         "url": "https://open.spotify.com/album/7hUvM7ObwajUcdqGoH94ZV"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 159446,
       "name": "wanted",
       "url": "https://open.spotify.com/track/1YXIzmg0unpW7FlY3UZXsh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/7ghg4UUVy004mc7lPql9uj"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/0LvTcWy1faRiiMWpLAoOkN"
     },
     {
       "added_at": null,

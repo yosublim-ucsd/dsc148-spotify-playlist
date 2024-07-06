@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  SAÈ
 
-3,625 songs - 9 day 6 hr 24 min
+3,627 songs - 9 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,6 +557,7 @@
 | [Candu](https://open.spotify.com/track/561mKE9VPhGJ8LhrcxP61k) | [Tres](https://open.spotify.com/artist/1hG431jvRHUGiEs2Yl48hP) | [Candu](https://open.spotify.com/album/64GanQCIpUok2nku5if0G2) | 4:55 | 2022-02-24 | 2022-03-11 |
 | [Canggu Life](https://open.spotify.com/track/4o700ZB2lwp3vitQHe2FYV) | [Dreads Of Paradise](https://open.spotify.com/artist/6NIIjwZRokrd50uRNomvm6) | [Canggu Life](https://open.spotify.com/album/2UG75vXWlAETLVgu1p3ggb) | 4:13 | 2023-11-17 | 2023-12-01 |
 | [Cantik Dari Selatan](https://open.spotify.com/track/63lxfecsHZVINzDcDW2BSC) | [Tiffany Kenanga](https://open.spotify.com/artist/0zT2tZH2apSkDSUKGMouvV) | [Cantik Dari Selatan](https://open.spotify.com/album/5tHwpYlrKjmfUPOhi07Ha6) | 3:34 | 2023-09-19 | 2023-10-06 |
+| [Cap Cip Cup](https://open.spotify.com/track/0xIV3W0W9LjlbNHcFMNWJt) | [3 Papah Muda](https://open.spotify.com/artist/3wkv8QdNj7ElkfHJHzyP5j), [Intan Fauziah](https://open.spotify.com/artist/15SBg9r1zorCYN8GtL0XcH) | [Cap Cip Cup](https://open.spotify.com/album/24M1PIABVcxglRD0jaCTCw) | 3:52 | 2024-07-05 |  |
 | [CAP TIKUS](https://open.spotify.com/track/71L3GOFEjFAPECXEVp6vyJ) | [Kenz](https://open.spotify.com/artist/2uMaQHQpDHTukH2gI5UiMk) | [CAP TIKUS](https://open.spotify.com/album/1vpjSbxfqOG2BHBFIMiBfX) | 3:04 | 2022-10-06 | 2022-11-04 |
 | [care](https://open.spotify.com/track/2U9JNOGeSMnyh190Nmxm7r) | [Cleo\*](https://open.spotify.com/artist/6Zgd9pZ50DDKgsZBjKJoXk) | [care](https://open.spotify.com/album/0tvlRfQ20fabVETawqpOID) | 2:15 | 2023-12-28 | 2024-01-26 |
 | [Carlaine](https://open.spotify.com/track/513lk8yQTgl9vmG2hDPB6y) | [Sink 90](https://open.spotify.com/artist/2odKmrzwdsSa5CT9cMs53C) | [Sink's Up To Something](https://open.spotify.com/album/14qaIgzow4rzAksaxMNbtK) | 4:08 | 2022-02-10 | 2022-02-25 |
@@ -3031,6 +3032,7 @@
 | [stupid](https://open.spotify.com/track/5QPMBTEk7kbzEFnVmUbeGU) | [Livingroom.](https://open.spotify.com/artist/7waocZDnwhSgSPIt7By0QA) | [stupid](https://open.spotify.com/album/1nspvJx79he8aYYbtM3C4O) | 3:29 | 2023-01-26 | 2023-02-10 |
 | [stupid excuses](https://open.spotify.com/track/3NFLBJTj4XnbUss3RffPcD) | [Aruna Dawn](https://open.spotify.com/artist/0IR68oTOmMzCDoidJ7FICS) | [stupid excuses](https://open.spotify.com/album/5Ki6xVl3ZlUKWxp8Nljb6J) | 3:28 | 2023-11-17 | 2023-12-01 |
 | [Suaka Sementara](https://open.spotify.com/track/61F1rI0iRfC3Um0GQCrmZj) | [Ratama](https://open.spotify.com/artist/69buLR74wxaSrqtPzp8VTY) | [Suaka Sementara](https://open.spotify.com/album/6WfAwpwnDm2cMgJXI4evON) | 4:00 | 2022-01-13 | 2022-01-28 |
+| [Suamiku](https://open.spotify.com/track/5L6ydpf6e8upEYWBpBGggs) | [Astrid Kuya](https://open.spotify.com/artist/1GkXjvYeaQiWD4KwZVw5PY) | [Suamiku](https://open.spotify.com/album/1rEERVVGC49VgTHStK8U2l) | 4:02 | 2024-07-05 |  |
 | [Suar](https://open.spotify.com/track/2lAuNqGPktFSofapHv3SKB) | [Pieter anroputra](https://open.spotify.com/artist/5iKnmuPSMDkd6Ubm3XYEf4), [Shiela Sumayyah](https://open.spotify.com/artist/1LUftMnfiLm7cNI6Jw7j4I) | [Suar](https://open.spotify.com/album/67qvnDK9oZU9rNxXxVKkZE) | 9:51 | 2022-06-02 | 2022-06-24 |
 | [Suatu Malam Di Pelabuhan Khayalan](https://open.spotify.com/track/1yScIns1DTexY6gCeJUQsV) | [Alya Zurayya](https://open.spotify.com/artist/3CPz3uIo3kPeMbMaSdGdzm) | [Terbentur Terbentuk](https://open.spotify.com/album/64Znf2RLOnYO0QspHsWj86) | 3:14 | 2023-09-22 | 2023-10-13 |
 | [Such Is Life](https://open.spotify.com/track/4OaxqHssLexmIYgPLSdGcT) | [More on Mumbles](https://open.spotify.com/artist/3w6Jz1N07G2oREu2jRqKSN) | [Such Is Life](https://open.spotify.com/album/2yAuI31A1YhNKxWLqTgiYC) | 3:11 | 2023-09-28 | 2023-10-20 |

@@ -2,14 +2,14 @@
 
 ### [David Bowie: Covered](https://open.spotify.com/playlist/37i9dQZF1DX58mGPDoDYN5)
 
-> Fresh takes \- from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.
+> Fresh takes \- from new revisions and iconic covers to unexpected versions.
 
 53 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1984 \- 2015 Remaster](https://open.spotify.com/track/1X2VNi0IN4CXflM6dJt2vq) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 3:11 | 2022-06-10 |  |
-| [All the Young Dudes](https://open.spotify.com/track/0HxiwEvOMIgaHsa7fiIScD) | [Gene Loves Jezebel Featuring Michael Aston](https://open.spotify.com/artist/7cqreivs0XiVAWDRULoCnp) | [Goth on Goth](https://open.spotify.com/album/7vTKZe1DyCbdXY2qjRIB1v) | 4:25 | 2022-06-10 |  |
+| [All the Young Dudes](https://open.spotify.com/track/0HxiwEvOMIgaHsa7fiIScD) | [Gene Loves Jezebel Featuring Michael Aston](https://open.spotify.com/artist/7cqreivs0XiVAWDRULoCnp) | [Goth on Goth](https://open.spotify.com/album/7vTKZe1DyCbdXY2qjRIB1v) | 4:25 | 2022-06-10 | 2024-07-06 |
 | [All the Young Dudes](https://open.spotify.com/track/0WNGPpmWqzPnk0psUhJ3SX) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [All The Young Dudes \(Expanded Edition\)](https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa) | 3:31 | 2022-06-10 |  |
 | [All the Young Dudes](https://open.spotify.com/track/1VzHYblFdt9cTPGuoZX7Ss) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Under Cover](https://open.spotify.com/album/5yIXVMM70ay1mQ5kCWpidF) | 4:34 | 2022-06-10 |  |
 | [Always Crashing in the Same Car](https://open.spotify.com/track/6wrVZ470ZZSJYJmmyUGApf) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Always Crashing in the Same Car](https://open.spotify.com/album/11JZGaycm4NJeNkGz6hSz0) | 3:27 | 2022-06-10 |  |
@@ -48,7 +48,7 @@
 | [Starman](https://open.spotify.com/track/5wfd0Uu6qP19vCCTn5le2e) | [10,000 Maniacs](https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj) | [Campfire Songs: The Popular, Obscure and Unknown Recordings of 10,000 Maniacs](https://open.spotify.com/album/2hU57PGB4z8FY2L8N6aRfm) | 4:11 | 2022-06-10 |  |
 | [Starman](https://open.spotify.com/track/1ncYtemyDNYLz6aINyAUef) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [No Gods No Masters](https://open.spotify.com/album/50LbfGmfmrcPiiIgtBsAfc) | 4:09 | 2022-06-10 | 2024-04-19 |
 | [Starman](https://open.spotify.com/track/5i3lmM2SDMfftM2KkNV9Xl) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [No Gods No Masters](https://open.spotify.com/album/0Pr4iEMou8CPCeeN53DxGP) | 4:09 | 2022-06-10 |  |
-| [Suffragette City](https://open.spotify.com/track/49vf1IoYhJKwgpDpLmay1r) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Poison'd!](https://open.spotify.com/album/779cLZs0OemjzlFmwuUHud) | 2:57 | 2022-06-10 |  |
+| [Suffragette City](https://open.spotify.com/track/49vf1IoYhJKwgpDpLmay1r) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Poison'd!](https://open.spotify.com/album/779cLZs0OemjzlFmwuUHud) | 2:57 | 2022-06-10 | 2024-07-06 |
 | [Suffragette City](https://open.spotify.com/track/1L7PXeab9hfdnlyEHoyM8q) | [The Get Up Kids](https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm) | [Eudora](https://open.spotify.com/album/57igukfQsNVctm8u1QQSm6) | 3:21 | 2022-06-10 | 2024-04-19 |
 | [Suffragette City](https://open.spotify.com/track/4vS26SNRpWzbYxr8pNt5P5) | [The Get Up Kids](https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm) | [Eudora](https://open.spotify.com/album/4VzFXlEdn1HaynezaXxBe9) | 3:21 | 2022-06-10 |  |
 | [Suffragette City \- Bonus Track](https://open.spotify.com/track/39xJkzHABe6fFYoymDnEHn) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Apocalypse Dudes](https://open.spotify.com/album/5y0kLa3OexlQ1o5gfPr4AR) | 2:52 | 2022-06-10 |  |

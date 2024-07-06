@@ -4,7 +4,7 @@
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-218 songs - 15 hr 29 min
+219 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Animal](https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH) | [Prick](https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz) | [Animal](https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN) | 4:15 | 2022-08-12 |  |
 | [Anti\-Social Masochistic Rage \[ASMR\]](https://open.spotify.com/track/0VrXpPSNlwKep3otvmw9iX) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 3:13 | 2022-07-01 | 2023-05-06 |
 | [Assimilate](https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF) | [Skinny Puppy](https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns) | [Bites](https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA) | 6:56 | 2022-08-12 |  |
-| [Attack Ships on Fire](https://open.spotify.com/track/43zzNBaOzTuSraWzROV5AG) | [Revolting Cocks](https://open.spotify.com/artist/7vCJSBATlld5vDKTH87tpG) | [Big Sexy Land](https://open.spotify.com/album/2uk1BH7Dl6X880vOADBw5a) | 4:54 | 2024-01-30 |  |
+| [Attack Ships on Fire](https://open.spotify.com/track/43zzNBaOzTuSraWzROV5AG) | [Revolting Cocks](https://open.spotify.com/artist/7vCJSBATlld5vDKTH87tpG) | [Big Sexy Land](https://open.spotify.com/album/2uk1BH7Dl6X880vOADBw5a) | 4:54 | 2024-01-30 | 2024-07-06 |
 | [Augen auf!](https://open.spotify.com/track/6gcFq5UOdNa8LzTRd4lldD) | [OOMPH!](https://open.spotify.com/artist/2mZITUvfEwrKlksoGpHTsM) | [Wahrheit oder Pflicht](https://open.spotify.com/album/6ChP2BF5LTHwyjzklcSTiG) | 3:20 | 2022-07-01 |  |
 | [Ausländer](https://open.spotify.com/track/7j43FohbLVulScL7S9sQZk) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 3:51 | 2022-07-01 |  |
 | [Below](https://open.spotify.com/track/1lesoWjO892IFBhaFjhoAn) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [REVENGE \(Deluxe Edition\)](https://open.spotify.com/album/7KBCW1fhxbyk775NbSHjjg) | 4:53 | 2022-07-01 | 2022-10-15 |
@@ -53,6 +53,7 @@
 | [D4TM](https://open.spotify.com/track/6S4Q0HDqHDsdcmfFNvyc8y) | [Oddko](https://open.spotify.com/artist/1UVYxhc5UIS5VLvUXrSo81) | [Digital Gods](https://open.spotify.com/album/2dhSJeHtfSCcpEwyQCikfc) | 3:26 | 2022-07-01 |  |
 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/2pCEaJskwTTp7omAyUKvR0) | [Revolting Cocks](https://open.spotify.com/artist/7vCJSBATlld5vDKTH87tpG) | [Linger Ficken' Good...And Other Barnyard Oddities](https://open.spotify.com/album/4tK8thYb8QtoE73oH4UzJC) | 5:37 | 2022-10-21 |  |
 | [Deadened](https://open.spotify.com/track/2Vlfc5hZxy1XY6XtsOF0aD) | [Front Line Assembly](https://open.spotify.com/artist/5QYAExYvxixCVwX70SRf7F) | [Echogenetic](https://open.spotify.com/album/0f45KbfktTH1dpYgApp979) | 5:48 | 2023-09-29 |  |
+| [DEGENERATE](https://open.spotify.com/track/4xzPvogI6M8kJ1kPr7IrkO) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [DEGENERATE](https://open.spotify.com/album/4msDecysbB1ZE7hjrbrnib) | 3:36 | 2024-07-05 |  |
 | [Demons](https://open.spotify.com/track/71YT7JxU6etsde4vTUz1BF) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [Demons](https://open.spotify.com/album/49YrBIMYXJy9AzK47mxAoK) | 3:36 | 2022-10-07 | 2022-11-13 |
 | [Denature](https://open.spotify.com/track/7kcKdTFOGQmvWEWZHjth4r) | [Rabbit Junk](https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS) | [Denature](https://open.spotify.com/album/6BMq5ky0p6E94W8c1O7okq) | 4:47 | 2022-07-01 | 2022-07-29 |
 | [Deutschland](https://open.spotify.com/track/1T8IRUJBga0JXioJZvxjBR) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Deutschland](https://open.spotify.com/album/3R7mUm3SZhV3BIIY7FMrU1) | 5:22 | 2022-07-01 |  |

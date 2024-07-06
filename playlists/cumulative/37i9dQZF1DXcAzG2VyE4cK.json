@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Songwriter",
+        "url": "https://open.spotify.com/album/4Y58KotkrZ32Nnni8CuXRd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182840,
+      "name": "Hello Out There",
+      "url": "https://open.spotify.com/track/0x1u8snNiyKqfmYmyQg3Kr"
+    },
+    {
+      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -424,7 +442,7 @@
       ],
       "date_added": "2020-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 215240,
       "name": "Ment\u00eda",
       "url": "https://open.spotify.com/track/37OFAZ00hyRo6o3tPE6IAU"

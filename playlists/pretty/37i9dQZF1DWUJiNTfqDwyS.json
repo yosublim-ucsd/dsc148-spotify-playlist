@@ -1,6 +1,6 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Motionless In White",
-  "num_followers": 374021,
+  "num_followers": 374092,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-06-13 09:47:43",
       "album": {
-        "name": "Winter Kills (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2rotrtFHZXM3QkZIiAMk5P"
-      },
-      "artists": [
-        {
-          "name": "DevilDriver",
-          "url": "https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L"
-        }
-      ],
-      "duration_ms": 246480,
-      "name": "Sail",
-      "url": "https://open.spotify.com/track/2QusYlHgyVRNu05c36wWlJ"
-    },
-    {
-      "added_at": "2024-06-13 09:47:43",
-      "album": {
         "name": "Greatest Hits, Vol. 1",
         "url": "https://open.spotify.com/album/7aC5SxTBOl3FNl3pdqZV4T"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 427973,
       "name": "Another Brick in the Wall, Pt. 1, 2, 3 - Pink Floyd Cover",
       "url": "https://open.spotify.com/track/39SHjPPvNVW2H9rSsGGOPD"
+    },
+    {
+      "added_at": "2024-06-13 09:47:43",
+      "album": {
+        "name": "Winter Kills (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2rotrtFHZXM3QkZIiAMk5P"
+      },
+      "artists": [
+        {
+          "name": "DevilDriver",
+          "url": "https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L"
+        }
+      ],
+      "duration_ms": 246480,
+      "name": "Sail",
+      "url": "https://open.spotify.com/track/2QusYlHgyVRNu05c36wWlJ"
     },
     {
       "added_at": "2024-06-13 09:47:43",

@@ -30284,7 +30284,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 89600,
       "name": "Dizzy Dreams",
       "url": "https://open.spotify.com/track/5sWuI90Qs18nOyYiqWbHb5"
@@ -39658,7 +39658,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 121379,
       "name": "fizzy pop",
       "url": "https://open.spotify.com/track/1x0vuG5frwPlJ9FNwVwBRX"
@@ -76279,6 +76279,28 @@
     },
     {
       "album": {
+        "name": "Mother Earth (Beat Edit)",
+        "url": "https://open.spotify.com/album/3yOEp2swptKdwMv53za2QC"
+      },
+      "artists": [
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        },
+        {
+          "name": "Slim.",
+          "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104946,
+      "name": "Mother Earth - Beat Edit",
+      "url": "https://open.spotify.com/track/3ZlKyjhkrqDVHALxOUUJ7i"
+    },
+    {
+      "album": {
         "name": "Cruise Control",
         "url": "https://open.spotify.com/album/5jFmRm1ZG5dajVWUuI5WN0"
       },
@@ -96762,6 +96784,28 @@
       "duration_ms": 121312,
       "name": "Rosso",
       "url": "https://open.spotify.com/track/3pscNS95UxbGBl9JY0SsFP"
+    },
+    {
+      "album": {
+        "name": "Rotations",
+        "url": "https://open.spotify.com/album/1aY21H3EiFzk4TafqDZ7EX"
+      },
+      "artists": [
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        },
+        {
+          "name": "Leavv",
+          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128274,
+      "name": "Rotations",
+      "url": "https://open.spotify.com/track/3hny0ozGjSAAuBfJrSWYwE"
     },
     {
       "album": {

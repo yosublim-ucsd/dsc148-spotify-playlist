@@ -1,12 +1,12 @@
 {
   "description": "This is Cage The Elephant. The essential tracks, all in one playlist.",
-  "num_followers": 167018,
+  "num_followers": 167072,
   "original_name": "This Is Cage The Elephant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAACBAGyU3BFhidpAvB+/q6Lb",
+  "snapshot_id": "ZoXmAAAAAAAcUrPHIHJ8bZwqK1Fod4Qw",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 238826,
-      "name": "Float Into The Sky",
-      "url": "https://open.spotify.com/track/35VPGInrefWbfj8c8S2wXu"
+      "duration_ms": 186466,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/5WLghRISj6S0G3OziVTaa9"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 186466,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/5WLghRISj6S0G3OziVTaa9"
+      "duration_ms": 238826,
+      "name": "Float Into The Sky",
+      "url": "https://open.spotify.com/track/35VPGInrefWbfj8c8S2wXu"
     },
     {
       "added_at": null,

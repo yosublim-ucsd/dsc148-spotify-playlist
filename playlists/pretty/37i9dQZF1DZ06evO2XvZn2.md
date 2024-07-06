@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2XvZn2.md) - [plain]
 
 ### [This Is Evaluna Montaner](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2XvZn2)
 
-> This Is Evaluna Montaner\. Los temas esenciales, todos en una lista.
+> This is Evaluna Montaner\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,983 likes - 41 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,986 likes - 41 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2XvZn2.md) - [plain]
 | 25 | [Bailando en la Lluvia \(feat\. Riccardo Frascari\)](https://open.spotify.com/track/3mSbMxBPNuV1XQuxu3Us9o) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Riccardo Frascari](https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76) | [Club 57](https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI) | 2:58 |
 | 26 | [Tú Cuentas Conmigo \(feat\. Carolina Mestrovic, Fefi Oliveira, Sebastián Silva & Santiago Achaga\)](https://open.spotify.com/track/7o1euvvl0ctDsnkvXuPhYF) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Carolina Mestrovic](https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4), [Fefi Oliveira](https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH), [Sebastián Silva](https://open.spotify.com/artist/2y6RIOPS6ABYXhQ7kWugMu), [Santiago Achaga](https://open.spotify.com/artist/20WmAHWxy7rlPV53ypKX8T) | [Tú Cuentas Conmigo \(feat\. Carolina Mestrovic, Fefi Oliveira, Sebastián Silva & Santiago Achaga\)](https://open.spotify.com/album/58oiaDxwcQwP3Os4WFmGQT) | 2:53 |
 | 27 | [Beauty Of Grace \- Acoustic Version](https://open.spotify.com/track/2NSUZFHuWB3hQBKLnvpH1N) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Sesión Orgánica: Parte 2](https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu) | 3:56 |
-| 28 | [Luna Para Ti \(feat\. Riccardo Frascari\)](https://open.spotify.com/track/4zpwnpqgv58YIE3mGqxHBU) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Riccardo Frascari](https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76) | [Luna Para Ti \(feat\. Riccardo Frascari\)](https://open.spotify.com/album/5PwTYoP0LgXel5HctvYlsm) | 3:32 |
+| 28 | [Quiero A Cristo](https://open.spotify.com/track/6mAU2YRQkhWdk5LZyxsyz0) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Avivamiento](https://open.spotify.com/album/5HrZsblI2GKiT8FcKRo3BM) | 5:59 |
 | 29 | [El Tiempo Corre al Revés](https://open.spotify.com/track/53TqzbSwNKz3TQVyxGAAC7) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr) | [Club 57](https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI) | 2:17 |
-| 30 | [Quiero A Cristo](https://open.spotify.com/track/6mAU2YRQkhWdk5LZyxsyz0) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Avivamiento](https://open.spotify.com/album/5HrZsblI2GKiT8FcKRo3BM) | 5:59 |
+| 30 | [Luna Para Ti \(feat\. Riccardo Frascari\)](https://open.spotify.com/track/4zpwnpqgv58YIE3mGqxHBU) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Riccardo Frascari](https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76) | [Luna Para Ti \(feat\. Riccardo Frascari\)](https://open.spotify.com/album/5PwTYoP0LgXel5HctvYlsm) | 3:32 |
 | 31 | [Wings](https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Wings](https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ) | 4:14 |
 | 32 | [Muchacha Solitaria](https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr) | [Muchacha Solitaria](https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe) | 3:41 |
 | 33 | [Algo Bueno Va a Pasar \(feat\. Fefi Oliveira & Riccardo Frascari\)](https://open.spotify.com/track/5gAsh9ARvb03FCffajAXyE) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Fefi Oliveira](https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH), [Riccardo Frascari](https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76) | [Club 57](https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI) | 2:55 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2XvZn2.md) - [plain]
 | 40 | [Nunca Es Tarde](https://open.spotify.com/track/7cSvEaSTGNtdQ2AwUjKOBL) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:16 |
 | 41 | [Unforgettable \(feat\. Evaluna Montaner\)](https://open.spotify.com/track/2l4iMLWm3dlZErGtsXUNZf) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Unforgettable \(feat\. Evaluna Montaner\)](https://open.spotify.com/album/7wxgyL41IUJnZZO7kIJvvG) | 3:28 |
 
-Snapshot ID: `ZoSUgAAAAABe0HpibZTjgv9s7dMuJSqI`
+Snapshot ID: `ZoXmAAAAAADxBQRo1nkiZn9evhqIectq`

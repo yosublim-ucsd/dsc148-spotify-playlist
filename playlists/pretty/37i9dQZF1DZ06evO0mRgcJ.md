@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mRgcJ.md) - [plain]
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 482 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 484 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,16 +23,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mRgcJ.md) - [plain]
 | 13 | [Payonazo Exoticos](https://open.spotify.com/track/6Sr29vvXfxPaV8wlfW6If8) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Payonazo Exoticos](https://open.spotify.com/album/4RdLhLXeCGo3xDAFH0lwNR) | 3:53 |
 | 14 | [Johnny Boy \(feat\. Los Nuevos Ilegales & La Decima Banda\)](https://open.spotify.com/track/4APetySIwtHz0sUdBcwsNw) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac) | [Johnny Boy \(feat\. Los Nuevos Ilegales & La Decima Banda\)](https://open.spotify.com/album/7MgODVOyJPFXuThp6bivKL) | 2:37 |
 | 15 | [En Lynwood Transito](https://open.spotify.com/track/5FIaAzVDQoAWc4bQdrkuz2) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Dueto Consentido](https://open.spotify.com/artist/5oTnGKTgUQYePdPHjbTM4R) | [En Lynwood Transito](https://open.spotify.com/album/0CECKpMVo8kFrGfFdIPkrI) | 3:55 |
-| 16 | [Camioneta Alterada](https://open.spotify.com/track/0fvHIf04ujurWHXX7NLx5l) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Camioneta Alterada](https://open.spotify.com/album/5AKUeJnTKAPQOKk3KmoX0t) | 3:29 |
-| 17 | [Me Tuve Que Pelar Pa Culiacán](https://open.spotify.com/track/1Ltvt6fkT1Pq6t9r70Qe94) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Me Tuve Que Pelar Pa Culiacán](https://open.spotify.com/album/60L8KEOT1XsBxkni1EiAlR) | 3:31 |
+| 16 | [Me Tuve Que Pelar Pa Culiacán](https://open.spotify.com/track/1Ltvt6fkT1Pq6t9r70Qe94) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Me Tuve Que Pelar Pa Culiacán](https://open.spotify.com/album/60L8KEOT1XsBxkni1EiAlR) | 3:31 |
+| 17 | [Camioneta Alterada](https://open.spotify.com/track/0fvHIf04ujurWHXX7NLx5l) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Camioneta Alterada](https://open.spotify.com/album/5AKUeJnTKAPQOKk3KmoX0t) | 3:29 |
 | 18 | [Quien Es Quien](https://open.spotify.com/track/7KXMg5P1prQfS3vtedemX9) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los Pistones De Uriel Valdez](https://open.spotify.com/artist/7k1FiT4LBe1fIkVSdI8Dmn) | [Quien Es Quien](https://open.spotify.com/album/0BkKVjZfHP0tAI4f7gHd2j) | 3:42 |
 | 19 | [Dash](https://open.spotify.com/track/3mGNfLaiEjokEf4IGN5eI5) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Dash](https://open.spotify.com/album/6yPZzcF4xp64gOdDB7lxfI) | 3:18 |
 | 20 | [Ay Les Voy de Nuevo \(En Vivo\)](https://open.spotify.com/track/3WYLaOOQs6OlZtWb2VYrRZ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground Desde Culiacan Sin \(En Vivo\)](https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp) | 3:15 |
 | 21 | [Bueno para Lo Mal](https://open.spotify.com/track/32K8tXYpqGNPPcMYQyx8Ml) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Hombres de Ley](https://open.spotify.com/artist/1rX6xWlSLwHejshQZzJPnv) | [Bueno para Lo Mal](https://open.spotify.com/album/4LVOHVtCGN4OxBCmKkplpl) | 4:33 |
 | 22 | [Equipo Cannabis](https://open.spotify.com/track/7Kuljk1IHforwjZryE6QC5) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Grupo Viada](https://open.spotify.com/artist/6TBtNrAvB4UVFzWZK293ix) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 2:48 |
 | 23 | [Situaciones de la Calle](https://open.spotify.com/track/7ukzqJfrOL3Nj3VGjIHzNx) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 2:25 |
-| 24 | [Los Tengo Viendo](https://open.spotify.com/track/7hGcGzrh6Bl6OLubzHbLb2) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Los Tengo Viendo](https://open.spotify.com/album/22YgCj8XGrlDQjlJGT8faI) | 3:54 |
-| 25 | [Uno Nueve](https://open.spotify.com/track/6iAlYAuGyh73zwIj35gula) | [Grupo Elexion](https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Uno Nueve](https://open.spotify.com/album/1EkygNp1Nv1WYx63blh8tg) | 3:36 |
+| 24 | [Uno Nueve](https://open.spotify.com/track/6iAlYAuGyh73zwIj35gula) | [Grupo Elexion](https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Uno Nueve](https://open.spotify.com/album/1EkygNp1Nv1WYx63blh8tg) | 3:36 |
+| 25 | [Los Tengo Viendo](https://open.spotify.com/track/7hGcGzrh6Bl6OLubzHbLb2) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Los Tengo Viendo](https://open.spotify.com/album/22YgCj8XGrlDQjlJGT8faI) | 3:54 |
 | 26 | [The Cookie Plug \(En Vivo\)](https://open.spotify.com/track/6p3AgriQhiZSGLeOI1JASQ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [The Cookie Plug \(En Vivo\)](https://open.spotify.com/album/1b3k7w3Ixl7sq0DQVYJBMQ) | 3:57 |
 | 27 | [Gucci](https://open.spotify.com/track/7kSRQrZzc36I1XYFFMiDlW) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 3:47 |
 | 28 | [PISO FIRME](https://open.spotify.com/track/3bPXt1s3Amixv7hy6IE4lg) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mRgcJ.md) - [plain]
 | 49 | [Calles Californianas](https://open.spotify.com/track/77JRJFvxexYjbf49Q0RF2y) | [Hijos De La Plaza](https://open.spotify.com/artist/6tGfaDLiyGkJy05dbcPEJZ), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Calles Californianas](https://open.spotify.com/album/6022qbvV7Hbn7ArgsgWXkl) | 3:46 |
 | 50 | [Aqui Sigo Chevereando \(En Vivo\)](https://open.spotify.com/track/08QMehyraBMIg42REIm9xs) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [En Vivo Desde Tacos Desvelados](https://open.spotify.com/album/2XjhT8SxqQiKmAiYs0nCrF) | 2:52 |
 
-Snapshot ID: `ZoSUgAAAAACgJ4nyv6nfaDUKFFfEOFWI`
+Snapshot ID: `ZoXmAAAAAABqm9Pyg4Ok+STBh0WYSLLE`

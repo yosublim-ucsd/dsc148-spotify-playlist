@@ -4,7 +4,7 @@
 
 > All the new indie tracks worth knowing about\. Cover: Good Neighbours
 
-114 songs - 6 hr 17 min
+115 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Maybe I Don’t Know How](https://open.spotify.com/track/2ATe15bH1t5VSfElCoNoIz) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Maybe I Don’t Know How](https://open.spotify.com/album/33ZYWkGtG6o4XSp7rp0aEP) | 3:56 | 2024-05-16 | 2024-07-05 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-05-30 |  |
 | [Method Actor](https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Method Actor](https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE) | 3:51 | 2024-06-13 |  |
+| [Mexico](https://open.spotify.com/track/4YSwiI9qZEHi5Pz0nMjnmB) | [ufo ufo](https://open.spotify.com/artist/1TsvuGn3XJ4F04fRavTonu) | [Mexico](https://open.spotify.com/album/6arNo80DW0kNafC8yPLeO2) | 3:20 | 2024-07-04 |  |
 | [Mirrors](https://open.spotify.com/track/7Jzyzf5gvoZ5RbFzIL7nQ6) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5) | [Mirrors](https://open.spotify.com/album/2yhyGos2sBxftVw79T7CNU) | 3:32 | 2024-06-20 |  |
 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-05-02 |  |
 | [Motorcycle](https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Motorcycle](https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g) | 2:46 | 2024-06-13 |  |

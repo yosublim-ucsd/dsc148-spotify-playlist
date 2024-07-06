@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Luan Santana, Luan Pereira",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Murilo Huff, Gustavo Mioto",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -900,7 +900,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 205973,
       "name": "Como Um Beijo",
       "url": "https://open.spotify.com/track/60wgnlVBEsyswrTB6pYiTi"
@@ -2717,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "Morar Nesse Motel",
+        "url": "https://open.spotify.com/album/1i3R2NzmaLZjDDB6txSgqy"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187037,
+      "name": "Morar Nesse Motel",
+      "url": "https://open.spotify.com/track/5QpcLTQjh0qO7OIuR9q8IR"
+    },
+    {
+      "album": {
         "name": "MORENA",
         "url": "https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv"
       },
@@ -2902,7 +2920,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 211200,
       "name": "Narcisista - Ao Vivo",
       "url": "https://open.spotify.com/track/0WrM1ON5poAsmKw3x5uPhD"
@@ -3888,6 +3906,28 @@
       "duration_ms": 148548,
       "name": "SOLTEIROU - Ao Vivo",
       "url": "https://open.spotify.com/track/0AIA4KsMsyqur8FbTVhGNT"
+    },
+    {
+      "album": {
+        "name": "Sombra Desconhecida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7j9FmFWjSSuqJe5XAtz0WG"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160885,
+      "name": "Sombra Desconhecida - Ao Vivo",
+      "url": "https://open.spotify.com/track/3Na9gwLmFdEJH2l54AYwpk"
     },
     {
       "album": {

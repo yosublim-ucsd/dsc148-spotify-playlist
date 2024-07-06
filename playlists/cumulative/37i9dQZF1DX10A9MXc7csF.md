@@ -4,7 +4,7 @@
 
 > The new school of Música Mexicana\. Cover: Daren & Jorge Cuellar
 
-892 songs - 1 day 21 hr 39 min
+894 songs - 1 day 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -541,6 +541,8 @@
 | [Mil Horas](https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:16 | 2022-11-18 | 2023-04-22 |
 | [Mil Pedazos](https://open.spotify.com/track/2Mi5BLsctdUzadFCTbhSQC) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Mil Pedazos](https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF) | 3:01 | 2023-10-06 | 2024-01-13 |
 | [MILLAS](https://open.spotify.com/track/708JPXmTUccJ5t6aKzThG1) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [MILLAS](https://open.spotify.com/album/3GSs7IdhLrNsZuSOxmqnt8) | 2:41 | 2024-02-23 | 2024-03-09 |
+| [MINIMI](https://open.spotify.com/track/758S4LdiMkRdauciXJI1v7) | [Bryan Martínez](https://open.spotify.com/artist/7FctMSq2t2zyod20njlcjP) | [MINIMI](https://open.spotify.com/album/3T2NudFA3qcifGwgzWkQHY) | 2:30 | 2024-07-05 |  |
+| [MIRAA](https://open.spotify.com/track/2TTCzngTprmJJGlmkeM5HR) | [Ismael CM](https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [MIRAA](https://open.spotify.com/album/5y9gU5iaqGy61GUeANXwLu) | 3:08 | 2024-07-05 |  |
 | [Miro La Luna](https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Miro La Luna](https://open.spotify.com/album/54wwbqUyOybBoAbTiNFKo9) | 2:06 | 2024-02-23 | 2024-04-27 |
 | [Mis Travesuras](https://open.spotify.com/track/19gfnvZCia2fknfk9utMgB) | [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Pasajes Negros](https://open.spotify.com/album/4trLYsGUm6UmLuhdlMAC7A) | 2:20 | 2022-05-14 | 2022-09-09 |
 | [Misión Secreta](https://open.spotify.com/track/1FTAZLq38OCJ5clZF7Fu53) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Misión Secreta](https://open.spotify.com/album/2UXW2EkrfnA1RE52r5YBE1) | 3:14 | 2022-06-03 | 2022-09-09 |
@@ -645,7 +647,7 @@
 | [PERRO SIN CADENA](https://open.spotify.com/track/1EX9j5ZkYvxTuWgi3cTp04) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [PERRO SIN CADENA](https://open.spotify.com/album/3vEwkwxpSxxQQJY6F5E68G) | 2:34 | 2023-09-08 | 2023-11-25 |
 | [Piensa](https://open.spotify.com/track/1u25yYhSNY1PFOoc9kh1my) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [Piensa](https://open.spotify.com/album/1muFFQvj6MF64ZyBGNOBSV) | 4:33 | 2022-07-15 | 2022-08-27 |
 | [Piensa En Mi](https://open.spotify.com/track/2JSmFHR2FpruHXgF5udA1l) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Piensa En Mi](https://open.spotify.com/album/3QvltqphdmNGv93YoM310C) | 3:24 | 2023-09-08 | 2023-11-25 |
-| [Pienso En Ti](https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [EddyJae](https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp) | [Pienso En Ti](https://open.spotify.com/album/1KZLIoIoqSda8Fq0lJCYMt) | 2:35 | 2024-04-26 |  |
+| [Pienso En Ti](https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [EddyJae](https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp) | [Pienso En Ti](https://open.spotify.com/album/1KZLIoIoqSda8Fq0lJCYMt) | 2:35 | 2024-04-26 | 2024-07-06 |
 | [PILAS](https://open.spotify.com/track/0wb7kYQ9pVeDeWVSl8I7H8) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94), [Daniel Castro](https://open.spotify.com/artist/09zMzF2rKWjV9oE3hMmEYf) | [PILAS](https://open.spotify.com/album/0hgTUBh0xHtG2EWtD3tOaK) | 2:35 | 2024-05-31 |  |
 | [Placer](https://open.spotify.com/track/2YQ6Ywu88QhII8ZHcxDHgL) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Ando En Lo Mío](https://open.spotify.com/album/2tEVr2cieLQYhf4WZMGz6v) | 3:05 | 2023-12-08 | 2024-02-24 |
 | [Plan B](https://open.spotify.com/track/6prLB64chLph5L7FSiYsiV) | [ENANO](https://open.spotify.com/artist/42KS12jXMMjUHxYdQswCuz) | [Plan B](https://open.spotify.com/album/3pljduvYLW3gKVATmAGx3i) | 2:51 | 2024-06-14 |  |

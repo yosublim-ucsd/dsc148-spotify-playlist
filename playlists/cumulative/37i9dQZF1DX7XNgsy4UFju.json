@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best indie tracks of the moment. Cover: Still Woozy",
+  "description": "The best indie tracks of the moment. Cover: Balu Brigada",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -2456,7 +2456,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 174906,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/1nvmIf2NpdUdIJ65qsW0fr"
@@ -2766,6 +2766,24 @@
       "duration_ms": 189338,
       "name": "Bender",
       "url": "https://open.spotify.com/track/0HOGhI5rJXiDaNI3DQ43dz"
+    },
+    {
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/0LcsjflfoYtr5eqAKE1ReW"
+      },
+      "artists": [
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163986,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/5kLJXrh3JISuYxAdeUe0wp"
     },
     {
       "album": {
@@ -6287,6 +6305,24 @@
     },
     {
       "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182685,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
       },
@@ -7641,6 +7677,24 @@
     },
     {
       "album": {
+        "name": "don't want u to die",
+        "url": "https://open.spotify.com/album/6GiCET4YvGHfvcnHi4KZJB"
+      },
+      "artists": [
+        {
+          "name": "Thala",
+          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188306,
+      "name": "don't want u to die",
+      "url": "https://open.spotify.com/track/2RKFPVUnx3jtvsTBSC8Tif"
+    },
+    {
+      "album": {
         "name": "God Said No",
         "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
       },
@@ -8462,6 +8516,24 @@
       "duration_ms": 240555,
       "name": "Eveningstar",
       "url": "https://open.spotify.com/track/6R5konGlxf9XDRBytKI2pr"
+    },
+    {
+      "album": {
+        "name": "Ever Seen",
+        "url": "https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203760,
+      "name": "Ever Seen",
+      "url": "https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6"
     },
     {
       "album": {
@@ -13344,7 +13416,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 201280,
       "name": "i don't believe in God",
       "url": "https://open.spotify.com/track/4gQ76st50BNwJg6jOLBwvv"
@@ -14016,7 +14088,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 210241,
       "name": "Ice Grass Underpass",
       "url": "https://open.spotify.com/track/0EaL003IM2kJB9jU5a3ACv"
@@ -23274,7 +23346,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 224234,
       "name": "Robbed",
       "url": "https://open.spotify.com/track/6xft4ovLvZ3gqNJdSlq7AF"
@@ -23814,7 +23886,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 195105,
       "name": "Sandringham",
       "url": "https://open.spotify.com/track/2kaOCp1THEcL48ws2I7fOo"
@@ -24421,6 +24493,24 @@
     },
     {
       "album": {
+        "name": "She's Leaving You",
+        "url": "https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278226,
+      "name": "She's Leaving You",
+      "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
+    },
+    {
+      "album": {
         "name": "Sheets of Grey",
         "url": "https://open.spotify.com/album/2i2nkoVKaQ8jfszpG8RJBs"
       },
@@ -24490,6 +24580,24 @@
       "duration_ms": 127392,
       "name": "shoes",
       "url": "https://open.spotify.com/track/2KVf6iZG9pLrtmC5dAcZKG"
+    },
+    {
+      "album": {
+        "name": "Short Straws",
+        "url": "https://open.spotify.com/album/6hYLfEe4TB52Z8mIKnmhGj"
+      },
+      "artists": [
+        {
+          "name": "Tex",
+          "url": "https://open.spotify.com/artist/6k8bzv6Pm9RwlpxZxprqnD"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268500,
+      "name": "Short Straws",
+      "url": "https://open.spotify.com/track/5SAyjNgzpeA01YXhlx3Gem"
     },
     {
       "album": {
@@ -27192,7 +27300,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 158866,
       "name": "Take A Bite",
       "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
@@ -29116,7 +29224,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 176853,
       "name": "tidal wave",
       "url": "https://open.spotify.com/track/6AGDZxn3JbRDDoNi9nQFZN"
@@ -30610,6 +30718,24 @@
       "duration_ms": 438400,
       "name": "Violet",
       "url": "https://open.spotify.com/track/4i85oysQdNeP8M7pqUH9sr"
+    },
+    {
+      "album": {
+        "name": "Streetwise",
+        "url": "https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163720,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
     },
     {
       "album": {

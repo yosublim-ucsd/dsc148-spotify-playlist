@@ -2585,6 +2585,24 @@
     },
     {
       "album": {
+        "name": "Fruit Facts",
+        "url": "https://open.spotify.com/album/5JQsXSxzw73E2tNJSnlCer"
+      },
+      "artists": [
+        {
+          "name": "The Vegetable Plot",
+          "url": "https://open.spotify.com/artist/25obYieOVBceEUnI5t5Jih"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274529,
+      "name": "Fruit Facts",
+      "url": "https://open.spotify.com/track/2Gv3ecx3duoQKDbEpmkdZa"
+    },
+    {
+      "album": {
         "name": "Netflix Jr. Jams: Vol. 7",
         "url": "https://open.spotify.com/album/1T1V21x7a4s8vaflfs8aUR"
       },
@@ -3752,6 +3770,24 @@
       "duration_ms": 159320,
       "name": "I Care Bear",
       "url": "https://open.spotify.com/track/0VnSdWDiOkBUesZl0NNX13"
+    },
+    {
+      "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/12bk4c6nkFZl3gTusgeGSg"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188354,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/6Ak0B6CRDfD4UbNsOutBer"
     },
     {
       "album": {
@@ -6821,6 +6857,28 @@
     },
     {
       "album": {
+        "name": "Starlight Starbright",
+        "url": "https://open.spotify.com/album/5hkyVvd22pzUkET8SME7oe"
+      },
+      "artists": [
+        {
+          "name": "The Mik Maks",
+          "url": "https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF"
+        },
+        {
+          "name": "Ava McInnes",
+          "url": "https://open.spotify.com/artist/6NWrE3Wz8ITXVkVg425nBo"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207103,
+      "name": "Starlight Starbright",
+      "url": "https://open.spotify.com/track/3SPfWqSECcugB1J2JSMRrj"
+    },
+    {
+      "album": {
         "name": "Elemental (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV"
       },
@@ -7398,6 +7456,24 @@
       "duration_ms": 253009,
       "name": "The Crabs Go Crawling",
       "url": "https://open.spotify.com/track/2x25wqwggjcs2b1ACrVGcV"
+    },
+    {
+      "album": {
+        "name": "The Ducks Go Waddling",
+        "url": "https://open.spotify.com/album/2RlTAOEZCBOodf66Yp21zr"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268491,
+      "name": "The Ducks Go Waddling",
+      "url": "https://open.spotify.com/track/3U85iilIbluK9rffhUj8O1"
     },
     {
       "album": {
@@ -8480,6 +8556,24 @@
       "duration_ms": 70767,
       "name": "We're Gonna Rock It",
       "url": "https://open.spotify.com/track/7EJFLJLlVOGXzf8nlsj1lc"
+    },
+    {
+      "album": {
+        "name": "We\u2019re Taking Over (Dance Remix)",
+        "url": "https://open.spotify.com/album/7lGHNlYMPOHzHXYuokMcys"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203767,
+      "name": "We're Taking Over - Dance Remix",
+      "url": "https://open.spotify.com/track/0ORhF7uMVltT5g2Bj7aSwk"
     },
     {
       "album": {

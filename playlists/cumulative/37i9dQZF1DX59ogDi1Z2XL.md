@@ -2,9 +2,9 @@
 
 ### [Northern Bars](https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL)
 
-> The coldest sounds in hip\-hop, coming out of Canada\. Cover: Belly
+> The coldest sounds in hip\-hop, coming out of Canada\. Cover: KAYTRANADA
 
-1,537 songs - 2 day 23 hr 18 min
+1,538 songs - 2 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -966,7 +966,7 @@
 | [Nuevo León](https://open.spotify.com/track/54PIHkr0jXammGfxVfNwJ8) | [Papi AQ](https://open.spotify.com/artist/0mmHKSem35TkpNRcGuokZB) | [Nuevo León](https://open.spotify.com/album/0aNaoPz4fQ69iotTy94lOa) | 2:27 | 2023-01-06 | 2023-02-25 |
 | [NUMB](https://open.spotify.com/track/4usIhM5LlrFs7pulK0o668) | [Adrian Dey](https://open.spotify.com/artist/41TTSjdfiIV7sFPCgWwCzA) | [NUMB](https://open.spotify.com/album/7vijlWkIQCRpHdWyhmBG6R) | 3:07 | 2022-07-15 | 2022-08-13 |
 | [NUMBERS](https://open.spotify.com/track/5Na9xqJ39hpECb1Us9gAJc) | [Charlie Noiir](https://open.spotify.com/artist/3jAbhB16sbyvBKSpvQzRdO) | [NUMBERS](https://open.spotify.com/album/5KNAfULmMxdGxWvwYzVbOa) | 1:45 | 2023-03-17 | 2023-04-09 |
-| [Nvm](https://open.spotify.com/track/4OVqoD9exHPI6c1Zt2aVdT) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x), [Tilla](https://open.spotify.com/artist/5ZqsYKUVqwJl0kIdaCzM0Y) | [Its Me Not You](https://open.spotify.com/album/1bvkLtyYfPl65K9YNUrcH5) | 2:12 | 2024-02-16 |  |
+| [Nvm](https://open.spotify.com/track/4OVqoD9exHPI6c1Zt2aVdT) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x), [Tilla](https://open.spotify.com/artist/5ZqsYKUVqwJl0kIdaCzM0Y) | [Its Me Not You](https://open.spotify.com/album/1bvkLtyYfPl65K9YNUrcH5) | 2:12 | 2024-02-16 | 2024-07-06 |
 | [Off Camera](https://open.spotify.com/track/57BOA3bSVd0F1Uj3U0W2F7) | [Swagger Rite](https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR) | [Off Camera](https://open.spotify.com/album/5n8nPN42AWfFHOl9dCqixZ) | 1:39 | 2023-07-28 | 2023-09-16 |
 | [Off the Map](https://open.spotify.com/track/1UkO1A7IufnYfFzCYZPjvN) | [Friyie](https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08) | [Off the Map](https://open.spotify.com/album/1mn2sW41D429Ar0WJ0acTp) | 3:44 | 2023-05-26 | 2023-06-17 |
 | [Oh Hey](https://open.spotify.com/track/3YQNxrx2SXua5A6tcIm7Tz) | [Riicch](https://open.spotify.com/artist/2CD6U9YiRscScZ5lT7vUFQ) | [Oh Hey](https://open.spotify.com/album/19J2AVhmwvX6ShvIf6D1i4) | 1:45 | 2022-05-28 | 2022-08-20 |
@@ -1263,6 +1263,7 @@
 | [STICKTOPLAN](https://open.spotify.com/track/3jgmjzB8ldjrniRAmZTnan) | [NLN](https://open.spotify.com/artist/62n4U1X9Uk7DF9jQkAaBrW) | [STICKTOPLAN](https://open.spotify.com/album/5Nj7zGiWNIMJIe87TatNKH) | 2:30 | 2022-10-21 | 2022-11-19 |
 | [Still Believe](https://open.spotify.com/track/2wvQ3I5kNZFGqxD810wGpr) | [Leondro](https://open.spotify.com/artist/33OvupXcSbv7GsPtgWC98r) | [Still Believe](https://open.spotify.com/album/5QRCM7lJQ1Lv2566oSSmL3) | 1:38 | 2023-04-28 | 2023-06-10 |
 | [Still Got Love](https://open.spotify.com/track/5XeXoq6bSIrzWdFX1kgzZ8) | [Mattmac](https://open.spotify.com/artist/2wn3YMzruUNJ2Ee1z6xnjY), [Toosick](https://open.spotify.com/artist/5a6yAfApln9ROEfKoWskCu) | [All Eyes On Us](https://open.spotify.com/album/2e56iyUPW6P0yJ9QxFtZnw) | 3:31 | 2024-06-28 |  |
+| [Still Here](https://open.spotify.com/track/0lCQmmsXJSLah3ybJ9O9pJ) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi), [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [Still Here](https://open.spotify.com/album/09Jexwk7SWNLDHj4LwPcZ9) | 2:16 | 2024-07-05 |  |
 | [Still Him](https://open.spotify.com/track/7vQvrQRQcK5s9z0OaaXaTM) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Still Him](https://open.spotify.com/album/5wjaQbSKqAOpuVbcJCa7ZO) | 3:11 | 2023-03-03 | 2023-04-29 |
 | [Still Hot](https://open.spotify.com/track/23IahlGF2rWghCCuJIjQNm) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Still Hot](https://open.spotify.com/album/61DBQPGDyRHoSuA9OZhEya) | 2:10 | 2023-06-09 | 2023-08-05 |
 | [Still Rollin](https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 | 2023-05-19 | 2023-09-30 |

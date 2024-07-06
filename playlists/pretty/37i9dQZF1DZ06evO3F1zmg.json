@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 39201,
+  "num_followers": 39207,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAADq5OPpMXpypt04vyMcVZyc",
+  "snapshot_id": "ZoXmAAAAAADOWdSo836NyEuth5mQeO0N",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ICY",
+        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 126446,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Khutti",
         "url": "https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z"
       },
@@ -111,6 +127,22 @@
       "duration_ms": 197763,
       "name": "All Night (feat. Saweetie)",
       "url": "https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tap In",
+        "url": "https://open.spotify.com/album/3XpOIE22NDEl5VSguQGv2h"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 139413,
+      "name": "Tap In",
+      "url": "https://open.spotify.com/track/4Hpib09wXgD84w4uwTPnYD"
     },
     {
       "added_at": null,
@@ -175,26 +207,6 @@
       "duration_ms": 175992,
       "name": "Kings & Queens, Pt. 2 (feat. Lauv & Saweetie)",
       "url": "https://open.spotify.com/track/5rB5mfeFCkUI3nkHQMMZ3K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sway With Me (with GALXARA)",
-        "url": "https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "GALXARA",
-          "url": "https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC"
-        }
-      ],
-      "duration_ms": 168018,
-      "name": "Sway With Me (with GALXARA)",
-      "url": "https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs"
     },
     {
       "added_at": null,
@@ -291,6 +303,22 @@
       "duration_ms": 173532,
       "name": "Hey, Mickey!",
       "url": "https://open.spotify.com/track/7r6uppLBApzJPMpDmdFoi4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fast (Motion)",
+        "url": "https://open.spotify.com/album/5vIJnjshQfOPk710tNy9HB"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 170653,
+      "name": "Fast (Motion)",
+      "url": "https://open.spotify.com/track/7zEz7q43xjzbRSUar4yH3m"
     },
     {
       "added_at": null,
@@ -515,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talkin' Bout (feat. Saweetie)",
-        "url": "https://open.spotify.com/album/2bjv3pxHHeerVrMDG4Iqyd"
-      },
-      "artists": [
-        {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 126225,
-      "name": "Talkin' Bout (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/0NS0ycRjNrnONGvqoou1ot"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Money Mouf",
         "url": "https://open.spotify.com/album/6dn11fbycq7fhBCfS8GBRG"
       },
@@ -583,6 +591,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ICY",
+        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 171235,
+      "name": "Tip Toes (feat. Quavo)",
+      "url": "https://open.spotify.com/track/6001xXfECxjyKrrbbRF0Vl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feels",
         "url": "https://open.spotify.com/album/7KkdRBQs12lylKXSrWHbx8"
       },
@@ -599,26 +627,6 @@
       "duration_ms": 208235,
       "name": "Feels",
       "url": "https://open.spotify.com/track/6jdkNQpwclqrrgcxbz6GA5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Come First (feat. Saweetie)",
-        "url": "https://open.spotify.com/album/53fnJWISeZ4hjXYXBDVqB0"
-      },
-      "artists": [
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 191254,
-      "name": "You Come First (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/5Ef2noaxqTAfa5gLVw05OJ"
     },
     {
       "added_at": null,
@@ -643,6 +651,26 @@
       "duration_ms": 169944,
       "name": "Addiction (feat. Lil Wayne & Saweetie)",
       "url": "https://open.spotify.com/track/62TseHr3oK08tbDG5LgdUv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get It Girl (from Insecure: Music From The HBO Original Series, Season 5)",
+        "url": "https://open.spotify.com/album/7HTABc351qZLd8vX6y2Res"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Raedio",
+          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
+        }
+      ],
+      "duration_ms": 165302,
+      "name": "Get It Girl (from Insecure: Music From The HBO Original Series, Season 5)",
+      "url": "https://open.spotify.com/track/2QcWBgN96CO3eex8VSKJOh"
     },
     {
       "added_at": null,
@@ -787,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pissed",
-        "url": "https://open.spotify.com/album/0oiYI6kp2vKJgtCTjKIWV9"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 135621,
-      "name": "Pissed",
-      "url": "https://open.spotify.com/track/61big1BzOklF2jK5t4FzZ6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What Was Said?",
         "url": "https://open.spotify.com/album/4Kd6xvRUGl0F4frNpyu7Ve"
       },
@@ -823,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dancing With The Devil\u2026The Art of Starting Over",
-        "url": "https://open.spotify.com/album/7LEb5SYZrXiB8NDj2oYvOd"
+        "name": "Pissed",
+        "url": "https://open.spotify.com/album/0oiYI6kp2vKJgtCTjKIWV9"
       },
       "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        },
         {
           "name": "Saweetie",
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 187761,
-      "name": "My Girlfriends Are My Boyfriend (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/3Ge1KFkRXKJgPz3keyQWaw"
+      "duration_ms": 135621,
+      "name": "Pissed",
+      "url": "https://open.spotify.com/track/61big1BzOklF2jK5t4FzZ6"
     },
     {
       "added_at": null,
@@ -899,6 +907,22 @@
       "duration_ms": 190428,
       "name": "Emotional (feat. Quavo)",
       "url": "https://open.spotify.com/track/4rrFGOdnreypzg6ux5mdPh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DON'T SAY NOTHIN'",
+        "url": "https://open.spotify.com/album/1lcQCI355q0dW7gCrIs5x3"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 187172,
+      "name": "DON'T SAY NOTHIN'",
+      "url": "https://open.spotify.com/track/71OhlyZmlUaJ1yL20SR372"
     },
     {
       "added_at": null,
@@ -995,50 +1019,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ICY",
-        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
+        "name": "One Night Ting (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/5dzapwbVC7KYnvUB5zZlTB"
       },
       "artists": [
+        {
+          "name": "Tai'Aysha",
+          "url": "https://open.spotify.com/artist/2RY3ihP6cPwsuGv97SGWg2"
+        },
         {
           "name": "Saweetie",
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 169409,
-      "name": "Dipped In Ice",
-      "url": "https://open.spotify.com/track/70Vc2mCfevAjiM6O1vfGXR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Icy Chain",
-        "url": "https://open.spotify.com/album/3w9vMC3vFzCWBq1pQFHAQ5"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 110790,
-      "name": "Icy Chain",
-      "url": "https://open.spotify.com/track/5MkPZ9VprDSFTljruLxDEd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pretty Summer Playlist: Season 1",
-        "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 106687,
-      "name": "Pretty & Rich",
-      "url": "https://open.spotify.com/track/41z1jdRoERVUz1MPtfSl14"
+      "duration_ms": 144665,
+      "name": "One Night Ting (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/0v3WvQ010FCs5IT1VvvHCr"
     }
   ],
   "unique_name": "This Is Saweetie",

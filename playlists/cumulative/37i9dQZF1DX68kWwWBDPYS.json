@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "puros morrxs haciendo m\u00fasica chida. Sofish e Hispana en portada.",
+  "description": "puros morrxs haciendo m\u00fasica chida. Jacinto en portada.",
   "name": "indie fresco",
   "tracks": [
     {
@@ -738,7 +738,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 238315,
       "name": "Confesi\u00f3n",
       "url": "https://open.spotify.com/track/1kKEfjhJNE3OKMu0GoqeU3"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 217435,
       "name": "Cuesta Olvidar",
       "url": "https://open.spotify.com/track/4KJ4rTWYlhQeJsw0tIxl3E"
@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "Desastre Emocional",
+        "url": "https://open.spotify.com/album/1bnsJ7ZuB6TaWW364pwtag"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178160,
+      "name": "Desastre Emocional",
+      "url": "https://open.spotify.com/track/7ra9A7fAuuEjTyadsObgHI"
+    },
+    {
+      "album": {
         "name": "Desorden",
         "url": "https://open.spotify.com/album/1y0EaKqovoRvT9316GaP9u"
       },
@@ -894,6 +912,50 @@
       "duration_ms": 208000,
       "name": "Desorden",
       "url": "https://open.spotify.com/track/0y5NsA4NMN27BVBLezLnqT"
+    },
+    {
+      "album": {
+        "name": "Dicen Que Eres Arte",
+        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164736,
+      "name": "Dicen Que Eres Arte",
+      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
+    },
+    {
+      "album": {
+        "name": "Do Something!",
+        "url": "https://open.spotify.com/album/7wOOMSpNAHJO4vadu3V6RN"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131660,
+      "name": "Do Something!",
+      "url": "https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa"
     },
     {
       "album": {
@@ -966,7 +1028,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 208383,
       "name": "d\u00e9sol\u00e9",
       "url": "https://open.spotify.com/track/5KVWz2QaQdxFU9eAcSAFnh"
@@ -1020,7 +1082,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 226000,
       "name": "El mar en los ojos",
       "url": "https://open.spotify.com/track/0nQnHELVoAD4GdJbJrJ9Lb"
@@ -1064,6 +1126,24 @@
       "duration_ms": 210187,
       "name": "El Principal",
       "url": "https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640"
+    },
+    {
+      "album": {
+        "name": "El R\u00edo",
+        "url": "https://open.spotify.com/album/1CIxFgXEjuJB6NQz2OvsF9"
+      },
+      "artists": [
+        {
+          "name": "Fer Casillas",
+          "url": "https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217692,
+      "name": "El R\u00edo",
+      "url": "https://open.spotify.com/track/5IulrtbklYxOCrDEtJPtNz"
     },
     {
       "album": {
@@ -1230,6 +1310,24 @@
       "duration_ms": 162272,
       "name": "fujifilm",
       "url": "https://open.spotify.com/track/31CBsIdvIq8qulxi0sbfw7"
+    },
+    {
+      "album": {
+        "name": "FYAH",
+        "url": "https://open.spotify.com/album/4vDEwIEtcEZsNWNQVcIR5M"
+      },
+      "artists": [
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202146,
+      "name": "FYAH",
+      "url": "https://open.spotify.com/track/35CFwzAjjOyY1teh0NUwF5"
     },
     {
       "album": {
@@ -1444,6 +1542,28 @@
       "duration_ms": 182864,
       "name": "La Protagonista",
       "url": "https://open.spotify.com/track/76ghjeu5kx0IuGSH5kvy5Y"
+    },
+    {
+      "album": {
+        "name": "Laberinto",
+        "url": "https://open.spotify.com/album/64cQcqpTfJQ4YMSvQfxmlo"
+      },
+      "artists": [
+        {
+          "name": "Juan Son",
+          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
+        },
+        {
+          "name": "Luis Humberto Navejas",
+          "url": "https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271000,
+      "name": "Laberinto",
+      "url": "https://open.spotify.com/track/5lo4luJDYXCV3KGvHt5smB"
     },
     {
       "album": {
@@ -1856,7 +1976,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 145800,
       "name": "ni\u00f1o azul",
       "url": "https://open.spotify.com/track/6qV11bT43TNvpV9WdXN29O"
@@ -1950,6 +2070,24 @@
       "duration_ms": 141760,
       "name": "Olivia Rodrigo",
       "url": "https://open.spotify.com/track/2jSijYfc6NxLkh1NvmSLCM"
+    },
+    {
+      "album": {
+        "name": "Para los P\u00e1jaros / Carlos",
+        "url": "https://open.spotify.com/album/6fwq1M7IulFPZ0lbn4BB5v"
+      },
+      "artists": [
+        {
+          "name": "Sanje",
+          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268640,
+      "name": "Para los P\u00e1jaros",
+      "url": "https://open.spotify.com/track/21i2D8lKOnfT7vOJx5D8z5"
     },
     {
       "album": {
@@ -2422,7 +2560,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 196071,
       "name": "Solo Los Amantes Sobreviven",
       "url": "https://open.spotify.com/track/7irJUUYtWxt3fRFfjGIDXF"
@@ -2448,6 +2586,24 @@
       "duration_ms": 159789,
       "name": "Soy",
       "url": "https://open.spotify.com/track/3ILJACdliRYuUYu6kvnqtq"
+    },
+    {
+      "album": {
+        "name": "Trascendente",
+        "url": "https://open.spotify.com/album/6ITBeE0phdtPNQKawqnony"
+      },
+      "artists": [
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212125,
+      "name": "Soy Capaz",
+      "url": "https://open.spotify.com/track/2ACkhhtp0rpOGj5lDdIrHc"
     },
     {
       "album": {
@@ -2506,7 +2662,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 165193,
       "name": "Sweet Face",
       "url": "https://open.spotify.com/track/4pxPWlC8K2hh5M6rihqpZX"
@@ -2734,7 +2890,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 242666,
       "name": "Un d\u00eda nos vamos a morir",
       "url": "https://open.spotify.com/track/5X5Xsye9sVzAR41FAF0IUi"

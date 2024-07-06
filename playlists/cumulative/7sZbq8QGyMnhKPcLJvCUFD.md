@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-559 songs - 1 day 4 hr 31 min
+562 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Bot Fight](https://open.spotify.com/track/29g0FD7lk8B3Qj2VXKihLt) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [Bot Fight](https://open.spotify.com/album/03XCiMYaPTpQs5ntaHG3Hg) | 4:35 | 2022-08-05 | 2023-04-28 |
 | [BOUNCE!](https://open.spotify.com/track/0tDQdGzAuoz7H21SYlAyCj) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [Nieko](https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm) | [BOUNCE!](https://open.spotify.com/album/2W9hlXiWGgzaeZ3N6LavPE) | 2:30 | 2022-06-17 | 2023-04-28 |
 | [Bring It Back](https://open.spotify.com/track/5ShOfO7H7GhaSH3m3UL8pg) | [Polygon](https://open.spotify.com/artist/5BGIoAtF2cwgcydpnUyFkF) | [Bring It Back](https://open.spotify.com/album/0mJoluase48Igg9q7tlDHx) | 3:25 | 2023-02-24 | 2023-12-14 |
+| [Bring Me Back](https://open.spotify.com/track/1AMvw3Z9htH6YBDLNiMHT3) | [Adikop](https://open.spotify.com/artist/1bmpgDPBBF9GapFDg7DGA4), [Nieulotni](https://open.spotify.com/artist/1d0vAkMFX8agTOeEQ7wTLo) | [Bring Me Back](https://open.spotify.com/album/687uy3Ih1r5of0gzr2PZgT) | 3:50 | 2024-07-05 |  |
 | [Bring Me The Christmas Light](https://open.spotify.com/track/4umzhAz6dEmAyqKC4WXiwc) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [Bring Me The Christmas Light](https://open.spotify.com/album/1BbVSrRnQoLZxH5tZkhiDt) | 4:35 | 2022-12-22 | 2022-12-29 |
 | [Bring Me The Light \- Rob Gasser Remix](https://open.spotify.com/track/5i2aGKutUx2keiTqQXAm8j) | [Rob Gasser](https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc), [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [Bring Me The Light \(Rob Gasser Remix\)](https://open.spotify.com/album/30gpaJcuO1M6izxV6osZvG) | 4:11 | 2022-03-31 | 2023-04-28 |
 | [Broken](https://open.spotify.com/track/4kBV5yyLDvhlttdtccSP21) | [Trinist](https://open.spotify.com/artist/6XTrviAQeBuCkWgDenoiId) | [Broken](https://open.spotify.com/album/4qqpxg0c0PmM1Mwe0NtHDi) | 4:00 | 2024-02-20 |  |
@@ -553,9 +554,11 @@
 | [Wings](https://open.spotify.com/track/18IhZkRfALANBQeaWfOVuk) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791) | [Wings](https://open.spotify.com/album/4rBjac9XBU8UgiZvPMixU2) | 3:56 | 2022-11-09 | 2023-04-28 |
 | [Wish You The Best](https://open.spotify.com/track/4aRIkmQcFWLDYT2J4SdXdr) | [32Stitches](https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ), [GNDHI](https://open.spotify.com/artist/3JCQBfcQu5347GddKkbKlo), [J Fitz](https://open.spotify.com/artist/5fO3cjaQXn3DpDsxlJbmQJ) | [Wish You The Best](https://open.spotify.com/album/36VVorl4pqN1wGFxI1qIki) | 3:18 | 2022-12-22 | 2023-04-28 |
 | [With You](https://open.spotify.com/track/6t2Kj4DEcYmRwAsCGWFs2E) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [With You](https://open.spotify.com/album/7N300AA6yGawrIIzq6n1Hb) | 3:30 | 2022-03-10 | 2023-04-28 |
+| [Without You](https://open.spotify.com/track/6jgW1FXQvfdGVcOKiL9T57) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Without You](https://open.spotify.com/album/1RuC8GhdatGI2Yfwk7gkm1) | 3:08 | 2024-07-05 |  |
 | [Wizkid](https://open.spotify.com/track/2rC9Mwkntrhv1RH4FzZ1MM) | [ReauBeau](https://open.spotify.com/artist/5fKpGPlcEvjFMDDWDKniND), [AVA NOVA](https://open.spotify.com/artist/3F7A0HJo5EKQKQ01Fv1TxW) | [Wizkid](https://open.spotify.com/album/0DfHdC5Ahks277KoV2ycp7) | 2:43 | 2022-11-10 | 2023-04-28 |
 | [World on Fire](https://open.spotify.com/track/0vyzWCQaPRwaJPbRv9SB1q) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl) | [Eternity](https://open.spotify.com/album/0VKsGtPK6AupzW1IvsiEjh) | 3:45 | 2023-06-21 | 2023-08-10 |
 | [World on Fire](https://open.spotify.com/track/6RUrwniB9s0Xm3iqXa5Jc2) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl) | [World on Fire](https://open.spotify.com/album/6xYYOfJjOi1Xrs7M46NPoX) | 3:45 | 2023-03-22 | 2023-08-10 |
+| [Worship](https://open.spotify.com/track/3UL3mFsWBtRUZWRu0qAD46) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Worship](https://open.spotify.com/album/4uSfrfa4EdUa1PgwpaxZkx) | 4:05 | 2024-07-05 |  |
 | [Would You Be Waiting](https://open.spotify.com/track/3PHOx8osoFglbGHz8dWY5E) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn) | [Would You Be Waiting](https://open.spotify.com/album/17zDJZXkFFsfWDpH83URKA) | 2:57 | 2022-08-26 | 2023-04-28 |
 | [Would You Ever](https://open.spotify.com/track/6qI2itQgAThUD1s24FtgAR) | [Maze](https://open.spotify.com/artist/6lAnJw7YqGPgG1ShMCjcbQ), [Trinist](https://open.spotify.com/artist/6XTrviAQeBuCkWgDenoiId) | [Would You Ever](https://open.spotify.com/album/08Nda5fgWQLMB7Ni36QQQ1) | 2:27 | 2023-05-12 | 2023-08-10 |
 | [Would You Ever](https://open.spotify.com/track/7ubF8QYmaeM0p0opdDiMtB) | [Maze](https://open.spotify.com/artist/6lAnJw7YqGPgG1ShMCjcbQ), [Trinist](https://open.spotify.com/artist/6XTrviAQeBuCkWgDenoiId) | [Lost Words EP](https://open.spotify.com/album/3bS5ZqH24CFVNO43q2I0uI) | 2:27 | 2023-06-23 | 2023-08-10 |

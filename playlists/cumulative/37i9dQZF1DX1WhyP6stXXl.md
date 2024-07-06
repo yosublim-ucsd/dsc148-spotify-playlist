@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Felix Jaehn, Sophie Ellis\-Bextor
 
-116 songs - 5 hr 47 min
+117 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Memories](https://open.spotify.com/track/1MhEHP518uoBJApVUJ86tS) | [Stanfour](https://open.spotify.com/artist/0Ku9jFTJvPANO4LBOyJoWv) | [Memories](https://open.spotify.com/album/0SaWPZs5LTFV2INvWA84Mq) | 2:35 | 2024-06-28 |  |
 | [met someone](https://open.spotify.com/track/75hVEv2EHMyZ2o0u0aKeNl) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [met someone](https://open.spotify.com/album/6PJdFyt5marOQFZIvkQ8ON) | 2:49 | 2024-06-28 |  |
 | [Mi Amor \(with JVKE & Anitta\)](https://open.spotify.com/track/5u2EjRHBYRLFvfMXpBAewy) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mi Amor \(with JVKE & Anitta\)](https://open.spotify.com/album/5cSRo7t8wqzwSiEc5hBDUz) | 2:19 | 2024-06-28 |  |
+| [Mindset](https://open.spotify.com/track/10oE9653NIrmAtbzcb7mZ1) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Mindset](https://open.spotify.com/album/23FgNkUlrdyxGS6yTBFmDb) | 2:35 | 2024-07-05 |  |
 | [MONEY](https://open.spotify.com/track/0TfIUn5NqD0cJUVtynM2RP) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [MONEY](https://open.spotify.com/album/1B7p5jOJpHqdEBg0n7s8us) | 3:01 | 2024-06-28 |  |
 | [Mykonos](https://open.spotify.com/track/5hrmyMmjEk8BkUVtrxZNNl) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Mykonos](https://open.spotify.com/album/1tCOyrSPqRfEluaKUF346p) | 2:13 | 2024-06-28 |  |
 | [Naked And Alive](https://open.spotify.com/track/5ivyL3WEFCo0IfivYC0FOF) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Naked And Alive](https://open.spotify.com/album/6mPCKnNWmqzIhuLAwuCfQe) | 3:27 | 2024-06-28 | 2024-07-05 |

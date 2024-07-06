@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\. Photo: 2Frères
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,834 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,836 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Notre p'tit refrain](https://open.spotify.com/track/3IETeJZYbBCT9NIXuIBJ14) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Notre p'tit refrain](https://open.spotify.com/album/4QuHgOVVO7FMFTMnfDtoUw) | 3:29 |
-| 2 | [Ensemble \- Radio Edit](https://open.spotify.com/track/73G5Qtfwq7lSFR9MlpQDlj) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble \(Radio Edit\)](https://open.spotify.com/album/0KAc9578FWtoMFmv78oZKu) | 2:27 |
-| 3 | [Un peu trop](https://open.spotify.com/track/0lqVTiEJlebBVu6EFl8V0r) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Une semaine à Paris](https://open.spotify.com/album/3O7RvFFEcxYUrXy49GqDCl) | 2:34 |
-| 4 | [La fin du show](https://open.spotify.com/track/5UrNvwWNKGhpfuI6c1kH58) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [Pub Royal](https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U) | 7:16 |
+| 2 | [La fin du show](https://open.spotify.com/track/5UrNvwWNKGhpfuI6c1kH58) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [Pub Royal](https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U) | 7:16 |
+| 3 | [Ensemble \- Radio Edit](https://open.spotify.com/track/73G5Qtfwq7lSFR9MlpQDlj) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble \(Radio Edit\)](https://open.spotify.com/album/0KAc9578FWtoMFmv78oZKu) | 2:27 |
+| 4 | [Un peu trop](https://open.spotify.com/track/0lqVTiEJlebBVu6EFl8V0r) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Une semaine à Paris](https://open.spotify.com/album/3O7RvFFEcxYUrXy49GqDCl) | 2:34 |
 | 5 | [Moi je t'aime](https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Moi je t'aime](https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx) | 2:57 |
 | 6 | [LVL UP](https://open.spotify.com/track/4YZvYMlisIXy5lhC9GU3dX) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [LVL UP](https://open.spotify.com/album/5Azn7JvsnTC5wzFiwr13WB) | 3:17 |
 | 7 | [Le reste du temps](https://open.spotify.com/track/3W5N7Yzq14iQ3Zxy1gJPM7) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Le reste du temps](https://open.spotify.com/album/6mQG6GKJVdB70oYwl60Yzw) | 3:28 |
@@ -20,15 +20,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 10 | [Se laisser aller](https://open.spotify.com/track/5Hs56ulIld86EdBtPHp7JM) | [Francis Degrandpré](https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2) | [Se laisser aller](https://open.spotify.com/album/0Jd1mE56AkhMcPGZNAmJZX) | 3:18 |
 | 11 | [Une bouteille à la mer](https://open.spotify.com/track/5RAOn9UuZ1mHdh8eZBtnIh) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Submergé](https://open.spotify.com/album/1VFQdOkNGpV8kYZ9xESRv4) | 2:22 |
 | 12 | [Danser la nuit](https://open.spotify.com/track/1VID3HWSIYV3y5v87ESX1K) | [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx) | [Danser la nuit](https://open.spotify.com/album/2Isdr3D3UD0Bj97Z6QcLHB) | 2:12 |
-| 13 | [Répondre aux oiseaux](https://open.spotify.com/track/0jSeM1z5vSzWujlPPiLipt) | [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc) | [Répondre aux oiseaux](https://open.spotify.com/album/0iTsz5DhBS1FXuUJNq6Yjq) | 3:30 |
-| 14 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/4GgQWuxZL8qbZUHHA0wWuI) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 3:58 |
-| 15 | [Je ne sais quoi](https://open.spotify.com/track/0m0UzHmi1csduQT0cNCJEA) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Le ciel est beau regarde les nuages](https://open.spotify.com/album/5uCWa2yqZmpgJNdOJNhK81) | 2:55 |
-| 16 | [Lala](https://open.spotify.com/track/1FCva9S8VQYi6DWZxeDU7A) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y), [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Lala](https://open.spotify.com/album/6nkfWpygPTF1j2OgSBf9Ca) | 3:10 |
-| 17 | [Beaux](https://open.spotify.com/track/0VskpD8acEn3VPp0dGOBoa) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [L'écho des perles](https://open.spotify.com/album/0P2xHJhtnbVC90itxc3XDN) | 3:11 |
-| 18 | [Chance](https://open.spotify.com/track/6WnqfeV1QsQjrDSRmdv16Q) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Chance](https://open.spotify.com/album/7vXh4lUacVjLfxdfmyHz1K) | 3:27 |
-| 19 | [Besoin de bras](https://open.spotify.com/track/4VJxp5oheMQcURrcbWLKAA) | [Émile Proulx\-Cloutier](https://open.spotify.com/artist/2tcdf8FUEBD6SEiJgaVeAT) | [Ma main au feu \- ACTE I](https://open.spotify.com/album/5WY0VNlI4MDKXHskwjKR1q) | 5:07 |
-| 20 | [dans le silence](https://open.spotify.com/track/7s36Fxyrk7ZpIqjNyRv47G) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [dans le silence](https://open.spotify.com/album/0S4qKIW589fzA4JDEfe3bo) | 2:34 |
-| 21 | [Jouer pour jouer](https://open.spotify.com/track/1P1W8f5D0BXyw4GzwkfSCY) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Jouer pour jouer](https://open.spotify.com/album/2PLDtWbg3zLz92lGHwOpYq) | 3:11 |
+| 13 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/4GgQWuxZL8qbZUHHA0wWuI) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 3:58 |
+| 14 | [Je ne sais quoi](https://open.spotify.com/track/0m0UzHmi1csduQT0cNCJEA) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Le ciel est beau regarde les nuages](https://open.spotify.com/album/5uCWa2yqZmpgJNdOJNhK81) | 2:55 |
+| 15 | [Lala](https://open.spotify.com/track/1FCva9S8VQYi6DWZxeDU7A) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y), [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Lala](https://open.spotify.com/album/6nkfWpygPTF1j2OgSBf9Ca) | 3:10 |
+| 16 | [Beaux](https://open.spotify.com/track/0VskpD8acEn3VPp0dGOBoa) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [L'écho des perles](https://open.spotify.com/album/0P2xHJhtnbVC90itxc3XDN) | 3:11 |
+| 17 | [Chance](https://open.spotify.com/track/6WnqfeV1QsQjrDSRmdv16Q) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Chance](https://open.spotify.com/album/7vXh4lUacVjLfxdfmyHz1K) | 3:27 |
+| 18 | [Besoin de bras](https://open.spotify.com/track/4VJxp5oheMQcURrcbWLKAA) | [Émile Proulx\-Cloutier](https://open.spotify.com/artist/2tcdf8FUEBD6SEiJgaVeAT) | [Ma main au feu \- ACTE I](https://open.spotify.com/album/5WY0VNlI4MDKXHskwjKR1q) | 5:07 |
+| 19 | [dans le silence](https://open.spotify.com/track/7s36Fxyrk7ZpIqjNyRv47G) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [dans le silence](https://open.spotify.com/album/0S4qKIW589fzA4JDEfe3bo) | 2:34 |
+| 20 | [Jouer pour jouer](https://open.spotify.com/track/1P1W8f5D0BXyw4GzwkfSCY) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Jouer pour jouer](https://open.spotify.com/album/2PLDtWbg3zLz92lGHwOpYq) | 3:11 |
+| 21 | [Répondre aux oiseaux](https://open.spotify.com/track/0jSeM1z5vSzWujlPPiLipt) | [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc) | [Répondre aux oiseaux](https://open.spotify.com/album/0iTsz5DhBS1FXuUJNq6Yjq) | 3:30 |
 | 22 | [Si je rampe](https://open.spotify.com/track/0URJzuHMZC8sywrbSYXVAn) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Si je rampe](https://open.spotify.com/album/6juYcRp6bkkorf1MwbI7ss) | 2:57 |
 | 23 | [Il faut que je migre](https://open.spotify.com/track/7eBfWRx7k41ufBTiokl96p) | [Irène](https://open.spotify.com/artist/5nK5s5oK58IWpRwWcoogYS) | [Il faut que je migre](https://open.spotify.com/album/4jRzUZY5FBu937fnIlv7em) | 3:00 |
 | 24 | [Mes secrets](https://open.spotify.com/track/7FCRbMKICwFrdkv0xbfyrU) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Mes secrets](https://open.spotify.com/album/3JFLbwf4FVFSL7HsKu97MU) | 3:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 74 | [LAISSE LES BONS TEMPS ROULER](https://open.spotify.com/track/21lHmyEpEhciv3hvqRLLY3) | [Kaïn](https://open.spotify.com/artist/1KMHmX2PgvEl1nFzFmEdcZ) | [El GRANDE TORPEDO](https://open.spotify.com/album/0GPARm2KCkGhIhNPQFnKeQ) | 3:45 |
 | 75 | [Comme Avant](https://open.spotify.com/track/0u8VoI8F0JIL2Oq240vWuV) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Comme Avant](https://open.spotify.com/album/102GkrErk0tQ4aqUOayWtg) | 2:26 |
 
-Snapshot ID: `Zn41QAAAAAC0ff+M3m1LCNCadI/kh2CY`
+Snapshot ID: `ZodvwAAAAABNdDlmiTHphTQpa9AfsqbP`

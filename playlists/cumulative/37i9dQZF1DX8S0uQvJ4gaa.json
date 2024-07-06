@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Austin Snell",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Chase Matthew",
   "name": "New Boots",
   "tracks": [
     {
@@ -418,6 +418,24 @@
       "duration_ms": 174721,
       "name": "35\u2019s",
       "url": "https://open.spotify.com/track/4B0nJLbPzVxWt7o99SiGrO"
+    },
+    {
+      "album": {
+        "name": "4x4xU",
+        "url": "https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239453,
+      "name": "4x4xU",
+      "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
     },
     {
       "album": {
@@ -868,6 +886,24 @@
       "duration_ms": 213493,
       "name": "After A Few",
       "url": "https://open.spotify.com/track/1z6wl2rwKatfmza6usanWw"
+    },
+    {
+      "album": {
+        "name": "After Me?",
+        "url": "https://open.spotify.com/album/2uXVVL02SJGNLxy1tGdGKP"
+      },
+      "artists": [
+        {
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183186,
+      "name": "After Me?",
+      "url": "https://open.spotify.com/track/7fTZ1peoDmIZtpdnVe8m5G"
     },
     {
       "album": {
@@ -1528,6 +1564,24 @@
       "duration_ms": 161085,
       "name": "Alright (feat. Russell Dickerson)",
       "url": "https://open.spotify.com/track/1h8X2tLPGk35kQ5hRY4rul"
+    },
+    {
+      "album": {
+        "name": "Always Be Mine",
+        "url": "https://open.spotify.com/album/3JJQ2x9Egr2mHPlaeCFOUN"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183191,
+      "name": "Always Be Mine",
+      "url": "https://open.spotify.com/track/7dG5PEETAeTTPGDBitMnOo"
     },
     {
       "album": {
@@ -3187,6 +3241,28 @@
     },
     {
       "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212466,
+      "name": "Better Days (feat. John Mayer)",
+      "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
+    },
+    {
+      "album": {
         "name": "Better In A Car",
         "url": "https://open.spotify.com/album/5VY7MlO6bxG8jwzgfJYdSg"
       },
@@ -3620,7 +3696,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 159600,
       "name": "Blonde",
       "url": "https://open.spotify.com/track/3OyDQE1kQawm1xGhVc4uiR"
@@ -8701,6 +8777,24 @@
     },
     {
       "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/5Y8hv9mXolK9hQej1MOlwF"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288121,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/22AYv6oubrOclu24nNux0M"
+    },
+    {
+      "album": {
         "name": "Drunk (And I Don't Wanna Go Home)",
         "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
       },
@@ -9765,6 +9859,24 @@
     },
     {
       "album": {
+        "name": "Feelin' Country (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/5aLutN8p5McM5jLqfPXM38"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164767,
+      "name": "Feelin' Country (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6Zz5S1Qz5QIS1XX33vJMxv"
+    },
+    {
+      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/1XCW1cVzWiPHq8QjZcMCcS"
       },
@@ -10044,7 +10156,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 174412,
       "name": "First",
       "url": "https://open.spotify.com/track/0GFwR94TMOMi8ev2T39ufA"
@@ -11339,6 +11451,24 @@
     },
     {
       "album": {
+        "name": "girl next door",
+        "url": "https://open.spotify.com/album/7JpRzIRYmyEMbvCT2yWyBR"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206773,
+      "name": "girl next door",
+      "url": "https://open.spotify.com/track/4bd1V7nlKSW0pN2W13pFue"
+    },
+    {
+      "album": {
         "name": "Girl On Fire",
         "url": "https://open.spotify.com/album/1a9TtIPjYqfXrFMhAq8xBM"
       },
@@ -12136,7 +12266,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 181471,
       "name": "Good Day To Have A Great Day",
       "url": "https://open.spotify.com/track/3XY1FU9onLzMYjhnuh82lZ"
@@ -18296,7 +18426,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 199392,
       "name": "Just Like Johnny",
       "url": "https://open.spotify.com/track/3Sg0jiuv2ckmxTBX4tLJQq"
@@ -26220,7 +26350,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 180152,
       "name": "Purple Gas",
       "url": "https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx"
@@ -28072,7 +28202,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 180603,
       "name": "Scary Love",
       "url": "https://open.spotify.com/track/1Q2npOPcXnQA8sYKV0fLy2"
@@ -36170,7 +36300,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 153070,
       "name": "What Happens Now?",
       "url": "https://open.spotify.com/track/4cQ8Os8Gf1GgAkzoFQg8Az"
@@ -36408,6 +36538,24 @@
       "duration_ms": 183026,
       "name": "What Would You Do?",
       "url": "https://open.spotify.com/track/3F7qTaugjHaRNTWS6cqoFM"
+    },
+    {
+      "album": {
+        "name": "What You Don't Know",
+        "url": "https://open.spotify.com/album/6pPjnREffMBPUyQhfgpwgr"
+      },
+      "artists": [
+        {
+          "name": "Gareth",
+          "url": "https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141488,
+      "name": "What You Don't Know",
+      "url": "https://open.spotify.com/track/3kSZUbS1EXE5xaOt1VDmCV"
     },
     {
       "album": {
@@ -39044,7 +39192,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 224280,
       "name": "you look like you love me (feat. Riley Green)",
       "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"

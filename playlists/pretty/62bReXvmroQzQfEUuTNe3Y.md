@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Summer chill tracks to vibe or dance to in 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-[selected.](https://open.spotify.com/user/selectedbase) - 1,292,863 likes - 150 songs - 8 hr 5 min
+[selected.](https://open.spotify.com/user/selectedbase) - 1,293,856 likes - 150 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,7 +140,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 130 | [When I Get There](https://open.spotify.com/track/7nYClzzNY6f3EcfeDFNqhS) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Invincible EP](https://open.spotify.com/album/78ROcR5rkK56FnSYxBo40L) | 3:40 |
 | 131 | [Better Days](https://open.spotify.com/track/5f9t61TRxZ3ancJadJyrHm) | [Oliver Cricket](https://open.spotify.com/artist/5kU4kGnYmdsBioNmQ0meDr) | [Better Days](https://open.spotify.com/album/5aE3PTdZrFwfrDdg01GIjg) | 2:28 |
 | 132 | [Remedy](https://open.spotify.com/track/11CnwxdRxrHNYDCVT6npaz) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Running Touch](https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE) | [Remedy](https://open.spotify.com/album/0kTUETKwjoj5x8iHJaOb4Y) | 3:45 |
-| 133 | [Infected](https://open.spotify.com/track/7HCH8oqXmXCnYXDleGlJFP) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Thando1988](https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX), [Anton Karskiy](https://open.spotify.com/artist/2oD2lrsJ6SWbNJI2XiMV0n), [Billy Vena](https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp) | [Infected](https://open.spotify.com/album/6EfJ5wbalgnQY12ABXCKXF) | 2:37 |
+| 133 | [Infected](https://open.spotify.com/track/7HCH8oqXmXCnYXDleGlJFP) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Thando](https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX), [Anton Karskiy](https://open.spotify.com/artist/2oD2lrsJ6SWbNJI2XiMV0n), [Billy Vena](https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp) | [Infected](https://open.spotify.com/album/6EfJ5wbalgnQY12ABXCKXF) | 2:37 |
 | 134 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 |
 | 135 | [Let You Know](https://open.spotify.com/track/0ZKvsGwD3D8Y4orIQGyyBW) | [Carter.](https://open.spotify.com/artist/4FNkz4oChr6RwFLZqHQiX0), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Let You Know](https://open.spotify.com/album/3j0SwqbhvA8Aw0pmET5Wh9) | 2:43 |
 | 136 | [Moon \(And It Went Like\)](https://open.spotify.com/track/24upABZ8A0sAepfu91sEYr) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/4iII9nfzjxOYQFp8PyV6HD) | 6:30 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 149 | [Caught in a Dream](https://open.spotify.com/track/2aahxM4jGWFWgMzmHpelAR) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Caught in a Dream](https://open.spotify.com/album/7mGJVmWc4oVS9LUwGVO20x) | 2:45 |
 | 150 | [Figure It Out](https://open.spotify.com/track/65cJdhZ0Kk4yqwGnk72QES) | [Zak Joshua](https://open.spotify.com/artist/2dKZypJTEFmqwehvMnIsWM) | [Figure It Out](https://open.spotify.com/album/5cbVzYvgN4AQRRzp7280Ee) | 3:12 |
 
-Snapshot ID: `AAAPqK5WjphcXaPafMrAGEf0QB690tHl`
+Snapshot ID: `AAAPqu0tDVKngRQeyqGDGhlqMqtRfd+9`

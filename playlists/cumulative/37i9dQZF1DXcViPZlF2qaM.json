@@ -2574,7 +2574,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 167449,
       "name": "Liit",
       "url": "https://open.spotify.com/track/0tZytKFwVKhuTVAr1kJCSB"
@@ -4088,6 +4088,24 @@
       "duration_ms": 245842,
       "name": "Semilla de Laurel",
       "url": "https://open.spotify.com/track/2CfWc68OcLYunEOLTpX0OS"
+    },
+    {
+      "album": {
+        "name": "Conexi\u00f3n At\u00edpica",
+        "url": "https://open.spotify.com/album/2K1od6pjgRHAQOCTiJ3i9J"
+      },
+      "artists": [
+        {
+          "name": "Truzman",
+          "url": "https://open.spotify.com/artist/7qFuA1DT1Ubb1iMPnWKMIr"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "Si me lleva la corriente",
+      "url": "https://open.spotify.com/track/6WXjTLK3yYl0K7gKYXEHac"
     },
     {
       "album": {

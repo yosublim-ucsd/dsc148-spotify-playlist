@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184573,
       "name": "I Love My Country",
       "url": "https://open.spotify.com/track/5blHL2xSCGv00fr1DGuvEf"
@@ -2475,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229459,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/6BTdD91y7j796RSXHvI70v"
+    },
+    {
+      "album": {
         "name": "Ashley McBryde Presents: Lindeville",
         "url": "https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq"
       },
@@ -3002,7 +3020,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 183733,
       "name": "Something Like That",
       "url": "https://open.spotify.com/track/1zG6cEmeo4rv7Old8XD7vC"
@@ -3164,7 +3182,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 268560,
       "name": "Temporary Home",
       "url": "https://open.spotify.com/track/0d0tJF80562KcMndcBcSfM"

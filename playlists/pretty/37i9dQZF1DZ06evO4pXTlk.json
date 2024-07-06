@@ -1,12 +1,12 @@
 {
   "description": "This is The XCERTS. The essential tracks, all in one playlist.",
-  "num_followers": 574,
+  "num_followers": 575,
   "original_name": "This Is The XCERTS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAAB4SpgEQQMLG2HRhIdSmsty",
+  "snapshot_id": "ZoXmAAAAAABnOLukv0ofMmOPS9SY+jtK",
   "tracks": [
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 247324,
-      "name": "Home Versus Home",
-      "url": "https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR"
+      "duration_ms": 262190,
+      "name": "Crisis in the Slow Lane",
+      "url": "https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 262190,
-      "name": "Crisis in the Slow Lane",
-      "url": "https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV"
+      "duration_ms": 247324,
+      "name": "Home Versus Home",
+      "url": "https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR"
     },
     {
       "added_at": null,
@@ -484,25 +484,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 209443,
-      "name": "Just Go Home",
-      "url": "https://open.spotify.com/track/1jbfcvWMZdVGY7P3xJzJbc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wildheart Dreaming",
-        "url": "https://open.spotify.com/album/66OUu51LrvQjuywPP78Itc"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 192638,
-      "name": "Fight or Run",
-      "url": "https://open.spotify.com/track/1bkRlqgIqGHsthK66ot39Q"
+      "duration_ms": 316893,
+      "name": "Cool Ethan",
+      "url": "https://open.spotify.com/track/2qHRHqAVw7HPjCiJHF4UPM"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
       "duration_ms": 250203,
       "name": "Weather Warning",
       "url": "https://open.spotify.com/track/7brYfjNrouDl1WtqLxQP9s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wildheart Dreaming",
+        "url": "https://open.spotify.com/album/66OUu51LrvQjuywPP78Itc"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 192638,
+      "name": "Fight or Run",
+      "url": "https://open.spotify.com/track/1bkRlqgIqGHsthK66ot39Q"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Like This",
-        "url": "https://open.spotify.com/album/6aid0JJx7b8qP7kRNejoGd"
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 230897,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/3r5giCeK7AtSByLMbmQgl0"
+      "duration_ms": 195066,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
+        "name": "Live Like This",
+        "url": "https://open.spotify.com/album/6aid0JJx7b8qP7kRNejoGd"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 195066,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt"
+      "duration_ms": 230897,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/3r5giCeK7AtSByLMbmQgl0"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
       "duration_ms": 199266,
       "name": "Gum",
       "url": "https://open.spotify.com/track/5cOebVOa8m5nfJOIGvBErB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "Carnival Time",
+      "url": "https://open.spotify.com/track/0d05B9yk71AD3d4PRb1LbB"
     }
   ],
   "unique_name": "This Is The XCERTS",

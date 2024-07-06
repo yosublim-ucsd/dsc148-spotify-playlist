@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Heykel
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,524 likes - 40 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,551 likes - 40 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 14 | [Avec des mots](https://open.spotify.com/track/7o47hpUDZUXFdYJDfkb4gQ) | [Davodka](https://open.spotify.com/artist/3viUmbbKSqgMFOVHfrZQpn), [Sinik](https://open.spotify.com/artist/1ONnyhQBTnkvg4QmI97hJg) | [Avec des mots](https://open.spotify.com/album/2nzd04FMf4BJ2jqoBMSLsu) | 3:12 |
 | 15 | [À La Faveur De L'automne](https://open.spotify.com/track/0DguFFo4yDAe2P8KfyCHTe) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP) | [Cesium](https://open.spotify.com/album/3OBZmTgqZ9IInlEWoRseIm) | 5:41 |
 | 16 | [Trap House](https://open.spotify.com/track/1lOkxlm1w2RhM8tWOId3e9) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti) | [Trap House](https://open.spotify.com/album/47lkxnHwOsoS4RftJLrWRN) | 2:58 |
-| 17 | [Retours dans les abysses](https://open.spotify.com/track/2mPlM83Qd04ImIUNx9A6sB) | [Scylla](https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA) | [Ivresse des profondeurs](https://open.spotify.com/album/7vygsCyNB7x683jqWfDBrI) | 4:54 |
+| 17 | [Retour dans les abysses](https://open.spotify.com/track/2mPlM83Qd04ImIUNx9A6sB) | [Scylla](https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA) | [Ivresse des profondeurs](https://open.spotify.com/album/7vygsCyNB7x683jqWfDBrI) | 4:54 |
 | 18 | [7 VIES \(feat\. Sofiane Pamart\) \- Bonus](https://open.spotify.com/track/3Hh3hbbgmDnSbr8kYuvx98) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [7 VIES \(feat\. Sofiane Pamart\) \[Bonus\]](https://open.spotify.com/album/7n7B2br4veokMC1M7mVutH) | 4:33 |
 | 19 | [PLAYBOI CARTI](https://open.spotify.com/track/1tzaO7UkR3tk9PXJXMKTMo) | [Metah](https://open.spotify.com/artist/0Dr1nbwa1KW5wHYUCsrnAF) | [ILL'](https://open.spotify.com/album/1L1sWMW7RJLHlQiLQQqLiX) | 2:38 |
 | 20 | [Vérité 7](https://open.spotify.com/track/5xm8SYHo9JsqAK8uL7fyeB) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j) | [Vérité 7](https://open.spotify.com/album/0LlqvuC4mIyal7gFaqifH1) | 5:54 |

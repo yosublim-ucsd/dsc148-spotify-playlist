@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: Willow Avalon
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,545 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,567 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Guilty](https://open.spotify.com/track/1WKRU8ovR8lbHD5gIj8h2P) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Guilty](https://open.spotify.com/album/50ahLeRHDEANoAMhDnaNCz) | 3:02 |
 | 100 | [Goodbye to Goodbye](https://open.spotify.com/track/3cwJEaPREKbmAOqG1cIx2T) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [For You](https://open.spotify.com/album/5Gv1mY3pYSO0mEu7J3aR9F) | 3:46 |
 
-Snapshot ID: `Zn41QAAAAAArDoUvB8ekc1mOZtM19tPP`
+Snapshot ID: `ZohiJQAAAAAj7/G7cLP8C9AhqVYb4PBa`

@@ -1,6 +1,6 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover: Felip)",
-  "num_followers": 440757,
+  "num_followers": 440881,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,26 @@
       "duration_ms": 192378,
       "name": "McNasty",
       "url": "https://open.spotify.com/track/0nMwj215nyfEOER5AJWLDF"
+    },
+    {
+      "added_at": "2024-07-04 16:00:00",
+      "album": {
+        "name": "GUD",
+        "url": "https://open.spotify.com/album/65tdS7eUg7SQfR1M2phLNG"
+      },
+      "artists": [
+        {
+          "name": "T-LOG",
+          "url": "https://open.spotify.com/artist/3GI8SSmtPZAluXrLexTN5u"
+        },
+        {
+          "name": "Jelex",
+          "url": "https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "GUD",
+      "url": "https://open.spotify.com/track/28ufgMN1iAMYwuU6R7fyr5"
     },
     {
       "added_at": "2024-07-04 16:00:00",

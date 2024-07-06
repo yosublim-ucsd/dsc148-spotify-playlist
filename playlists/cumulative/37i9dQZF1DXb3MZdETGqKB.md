@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Judith Hill
 
-302 songs - 17 hr 52 min
+303 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Give Praises](https://open.spotify.com/track/6Sa3ga6JEhzguGcmH4cAJV) | [The 32 Golden Souls](https://open.spotify.com/artist/2zDq66Zcl7NcRY1XViXBN8), [Lymie Murray](https://open.spotify.com/artist/6A53ujYIa2XYuZQou20kGI), [Winston McAnuff](https://open.spotify.com/artist/3KnbABMv83BtL1scL56svt) | [Give Praises](https://open.spotify.com/album/60cMUwLJw5peMZnQb0FFP4) | 3:36 | 2022-09-02 |  |
 | [Gone](https://open.spotify.com/track/33hXeP9dCStIHmtUWNepnA) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Gone](https://open.spotify.com/album/2xheRzFSbejr9p1g18pQOu) | 3:02 | 2021-08-30 | 2022-06-19 |
 | [Good for Nothing](https://open.spotify.com/track/5TWEKe4IotZ7WK5sWE3krv) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Good for Nothing](https://open.spotify.com/album/3uflPsxAFtm3IWLcb8yoY5) | 3:10 | 2021-12-17 | 2022-06-19 |
-| [Good People](https://open.spotify.com/track/0KlEYhot7IwsbCNGpww72s) | [The Harpoonist](https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG) | [Good People](https://open.spotify.com/album/5b2N8BU4Libo6GmfcxX3E5) | 5:45 | 2024-04-26 |  |
+| [Good People](https://open.spotify.com/track/0KlEYhot7IwsbCNGpww72s) | [The Harpoonist](https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG) | [Good People](https://open.spotify.com/album/5b2N8BU4Libo6GmfcxX3E5) | 5:45 | 2024-04-26 | 2024-07-06 |
 | [Good Times](https://open.spotify.com/track/5cUjDokJ7BpzghS8gcRhWi) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Good Times](https://open.spotify.com/album/4LtBDjPPZbgcinG0qCyuwR) | 3:14 | 2022-04-08 | 2024-02-17 |
 | [Good Times](https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Good Times](https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx) | 3:14 | 2022-04-08 | 2023-11-06 |
 | [Grown Folks Love](https://open.spotify.com/track/60Bnlpj51IUFDK7Tcyinii) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [Grown Folks Love](https://open.spotify.com/album/4IPV2zybll9xnQg8r1vx6J) | 2:48 | 2023-05-12 | 2023-11-11 |
@@ -218,6 +218,7 @@
 | [She's So Cold](https://open.spotify.com/track/5j9JLxnym3t87UZbgU4EwE) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Motel Mississippi](https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx) | 2:21 | 2023-04-24 |  |
 | [Shooting Star](https://open.spotify.com/track/1Om3Mz5IazKScLUqL88oCd) | [Ziggy Sullivin](https://open.spotify.com/artist/1GGvXGUggylx8NMKA0AITq) | [Everybody Knows My Name](https://open.spotify.com/album/5FsMYB0f5tSktoA4QiP0uy) | 2:48 | 2022-01-21 | 2023-08-26 |
 | [Shout Into The Noise](https://open.spotify.com/track/6VmqR7BEVXqYWKCRsdSaDO) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/4JN56UyhqvwmD9fQJuJlPo) | 3:13 | 2022-01-21 | 2022-02-19 |
+| [Show Me The Green](https://open.spotify.com/track/1YzIXYmTLbjGtG3AEuJlRP) | [The Harpoonist](https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG), [Big Sugar](https://open.spotify.com/artist/75eraSeadYDXU4zyzDxglZ) | [Show Me The Green](https://open.spotify.com/album/2lSS8XMdwd7iFICtoYbDkW) | 3:10 | 2024-07-05 |  |
 | [Sit Down Baby](https://open.spotify.com/track/7HNSPiFPpO1Z05Jrrs39be) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Sit Down Baby](https://open.spotify.com/album/7GEM0fdAOYfOUMMF3BYB6M) | 2:53 | 2021-02-05 | 2022-03-26 |
 | [Slippin' Away](https://open.spotify.com/track/3dQQ7VxOFQNX13kiL5duyV) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Slippin' Away](https://open.spotify.com/album/5ouhFRuXLv1oJVG3SLpzzL) | 3:25 | 2021-03-12 | 2022-03-26 |
 | [Solo](https://open.spotify.com/track/0jQ4rEj73u8VovZqagg3a8) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Solo](https://open.spotify.com/album/70g16BtNgegDcYkhUOeUXr) | 3:26 | 2021-02-05 | 2022-03-26 |

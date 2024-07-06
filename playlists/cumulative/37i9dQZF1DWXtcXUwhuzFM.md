@@ -2,9 +2,9 @@
 
 ### [New Music Friday Suomi](https://open.spotify.com/playlist/37i9dQZF1DWXtcXUwhuzFM)
 
-> Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Jenni Vartiainen ja Etta.
+> Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Jenni Vartiainen ja Etta\. 👌
 
-1,217 songs - 2 day 14 hr 52 min
+1,220 songs - 2 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-04 |  |
 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 | 2024-06-06 | 2024-06-14 |
 | [Bäkkii](https://open.spotify.com/track/6gl3J4KuoTcRRNB5dKFC2y) | [Teo Vincent](https://open.spotify.com/artist/6P7AOvhscobMwWZViwEXxR), [Topi Alanko](https://open.spotify.com/artist/6aKiwr6RqsY6BneGBtbiIt) | [Bäkkii](https://open.spotify.com/album/653QvtubW1nW5JYBwcQGFB) | 2:55 | 2024-04-26 | 2024-05-03 |
+| [Call You Mine](https://open.spotify.com/track/17YCVCHb36D7lZ5p0gOOni) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Call You Mine](https://open.spotify.com/album/7kRbk1TezpFAsxkzBWUiWL) | 3:37 | 2024-07-04 |  |
 | [Call Your Girlfriend \- Spotify Singles](https://open.spotify.com/track/3gyKc7WqqzH0ZYjnzlphXP) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [Call Your Girlfriend \- Spotify Singles](https://open.spotify.com/album/1bWTawivUyBxTr6Sydx6WM) | 3:47 | 2024-05-02 | 2024-05-10 |
 | [Can I Pet Your Face?](https://open.spotify.com/track/1uqlrlJQttwYLcHvs5xjMh) | [messier](https://open.spotify.com/artist/6eXZgc6tcSNl21GgcDqO3o) | [Can I Pet Your Face?](https://open.spotify.com/album/16jbu3d6A6NYo50MMVWPOm) | 2:47 | 2024-06-06 | 2024-06-14 |
 | [Can't Forget You](https://open.spotify.com/track/3YOkRTqknv92aUyOXcTxVg) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Can't Forget You](https://open.spotify.com/album/17p2hpEP5OkJnFZpbsL3wC) | 2:36 | 2024-06-20 | 2024-06-28 |
@@ -950,6 +951,7 @@
 | [Spiral](https://open.spotify.com/track/6RfgvYyQaM3lFys834sWwx) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spiral](https://open.spotify.com/album/1FTD5Ik0Ex0MofuRwt8eYR) | 3:37 | 2024-06-13 | 2024-06-21 |
 | [Sprit & Blondiner](https://open.spotify.com/track/0jXbmr98Xm2bNlAUyq9caV) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Sprit & Blondiner](https://open.spotify.com/album/3bXFyWuISWjAIonXpBupcK) | 3:23 | 2024-06-07 | 2024-06-14 |
 | [Square One](https://open.spotify.com/track/2Mj6GyD3GDqUEOZHxV0b9k) | [BENN](https://open.spotify.com/artist/39ChlVzK2W25FHJ6x8wZIv) | [Square One](https://open.spotify.com/album/6VEJduwmrdIjoVVZ6oYhGi) | 3:16 | 2024-05-30 | 2024-06-07 |
+| [ss](https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 3:04 | 2024-07-04 |  |
 | [Stadi \(Alicia\)](https://open.spotify.com/track/7gHubaWZNQNvLieogqkVmA) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Stadi \(Alicia\)](https://open.spotify.com/album/1Q3cD40iLszO4uvmc0kH87) | 2:22 | 2024-06-13 | 2024-06-21 |
 | [stadi on fire](https://open.spotify.com/track/0RqlBpHgXWo7GTSAaWP6a3) | [JAL](https://open.spotify.com/artist/0mzUrVVjls5DsuRk5mTi6f), [Baby Blu](https://open.spotify.com/artist/4MRUt0W6EcwLPwuH7ehu4A) | [stadi on fire](https://open.spotify.com/album/5qtcYawqxQwcLO1HMjMNQL) | 3:13 | 2024-06-20 | 2024-06-28 |
 | [Starburned and Unkissed](https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Starburned and Unkissed](https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc) | 3:40 | 2024-05-02 | 2024-05-10 |
@@ -1170,6 +1172,7 @@
 | [We Met \(Tonight\)](https://open.spotify.com/track/0DOQ1wiHMu3LTLLBI0lJaY) | [WRTR](https://open.spotify.com/artist/1KqodSPx693Hbxj6uf8SMA) | [We Met \(Tonight\)](https://open.spotify.com/album/7N0T5BtYbbgxhBJWKXBUdX) | 2:54 | 2024-07-04 |  |
 | [we were](https://open.spotify.com/track/6aMfkyugXzPTmvuuVFuPf8) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0) | [we were](https://open.spotify.com/album/6ckbiSTuokLPCIBlm7dxRL) | 2:58 | 2024-07-04 |  |
 | [Weak](https://open.spotify.com/track/4B5w2ugkNbyrI9fXTfDb2w) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [WILLEM](https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv) | [Weak](https://open.spotify.com/album/5j3R1mBN3a6e1niKXy32oE) | 3:20 | 2024-05-02 | 2024-05-10 |
+| [Weeping Willow](https://open.spotify.com/track/2637H4or8sjAJ08Dnvq7fX) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Weeping Willow](https://open.spotify.com/album/7imiiEYZmcrbNMpSFq9JlN) | 2:56 | 2024-07-04 |  |
 | [What A Woman](https://open.spotify.com/track/2x0IElokcAprEpWdxOEeZS) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [What A Woman](https://open.spotify.com/album/3ttdvoQZaJHrSaLfj3uSsY) | 2:21 | 2024-05-02 | 2024-05-10 |
 | [What Do You Believe In?](https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In?](https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP) | 3:10 | 2024-05-23 | 2024-06-01 |
 | [What I Know Now](https://open.spotify.com/track/5nNT5ulZvirF7aA1mn58gO) | [MAIH](https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI) | [What I Know Now](https://open.spotify.com/album/2dbsq7LPzjXQPJrla8i1Bb) | 2:43 | 2024-06-06 | 2024-06-14 |

@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 219400,
       "name": "Bessa",
       "url": "https://open.spotify.com/track/1GClY6s7tBT9BnSWU1231A"
@@ -7143,6 +7143,24 @@
     },
     {
       "album": {
+        "name": "Letter to the Martyrs",
+        "url": "https://open.spotify.com/album/27YMLZSmyV4t5R0ygfqLM5"
+      },
+      "artists": [
+        {
+          "name": "cacique'97",
+          "url": "https://open.spotify.com/artist/33t1sk0KBtX3FxfAyWsSkc"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254291,
+      "name": "Letter to the Martyrs",
+      "url": "https://open.spotify.com/track/5NPqlvUBNkiqsgxVd2SM6M"
+    },
+    {
+      "album": {
         "name": "Levante la Mano (Remixes)",
         "url": "https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS"
       },
@@ -8506,7 +8524,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 235706,
       "name": "Move on Up",
       "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
@@ -9684,7 +9702,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 213373,
       "name": "Pas Contente",
       "url": "https://open.spotify.com/track/2Pb7Z8lrgBN8sMNNGEPBWx"
@@ -11723,6 +11741,28 @@
     },
     {
       "album": {
+        "name": "S\u00edsamo",
+        "url": "https://open.spotify.com/album/78o146Ry6KcgCDMGRyAHA3"
+      },
+      "artists": [
+        {
+          "name": "Baiuca",
+          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
+        },
+        {
+          "name": "Ant\u00eda Ameixeiras",
+          "url": "https://open.spotify.com/artist/20l9cWx7i3D25HB47521qh"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206800,
+      "name": "S\u00edsamo",
+      "url": "https://open.spotify.com/track/0KqAhASPqyxtENdx5cjcZ9"
+    },
+    {
+      "album": {
         "name": "Ta Lassa",
         "url": "https://open.spotify.com/album/4ZtsbFxbxbum6KL9CIlVmu"
       },
@@ -12466,6 +12506,36 @@
       "duration_ms": 187906,
       "name": "Tinko Tinko (Don't Play Me for a Fool)",
       "url": "https://open.spotify.com/track/6f8pOnEswFwiU4FTcZicV6"
+    },
+    {
+      "album": {
+        "name": "Tipo Assim",
+        "url": "https://open.spotify.com/album/5zFGvIyqWkyRFc5CarPG2w"
+      },
+      "artists": [
+        {
+          "name": "La\u00edz",
+          "url": "https://open.spotify.com/artist/0gv81Nb7IoUMeOvGd3K4Om"
+        },
+        {
+          "name": "The New Love Experience",
+          "url": "https://open.spotify.com/artist/2JfBJAgIk3EVjROlooESVT"
+        },
+        {
+          "name": "VOVA",
+          "url": "https://open.spotify.com/artist/3XinDglBqwE8v6uGkAqhaA"
+        },
+        {
+          "name": "Lucy Liebe",
+          "url": "https://open.spotify.com/artist/5vQsRfgPNe8DrRqGPjh1tu"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250995,
+      "name": "Tipo Assim",
+      "url": "https://open.spotify.com/track/48k6ryCJjV8K4CqFQoGFUu"
     },
     {
       "album": {

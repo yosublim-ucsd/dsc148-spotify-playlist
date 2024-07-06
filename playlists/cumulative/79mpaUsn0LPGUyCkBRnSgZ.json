@@ -1883,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "Born To Die",
+        "url": "https://open.spotify.com/album/4vXt6IpMcSnqonljffWlMI"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286253,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/5kMAugdkH2coRHRnW5FuDb"
+    },
+    {
+      "album": {
         "name": "Night Time, My Time",
         "url": "https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr"
       },
@@ -6462,7 +6480,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 241853,
       "name": "Legend",
       "url": "https://open.spotify.com/track/1ID1QFSNNxi0hiZCNcwjUC"

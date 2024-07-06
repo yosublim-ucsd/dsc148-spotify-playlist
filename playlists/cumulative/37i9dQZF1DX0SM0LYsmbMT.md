@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,171 songs - 6 day 15 hr 17 min
+4,172 songs - 6 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,7 +561,7 @@
 | [Camberwell](https://open.spotify.com/track/0rhsSLzNfB91innrvTBdx3) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Camberwell](https://open.spotify.com/album/7ALBhgIL3vvB2c5PVUSJ4Y) | 2:13 | 2020-09-04 | 2021-04-30 |
 | [Cambrai](https://open.spotify.com/track/22nmtSEfoLluVVHDmAaH98) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Cambrai](https://open.spotify.com/album/2ZcK96UqUPEiJDXrgDwZ4q) | 1:52 | 2021-12-06 | 2024-04-26 |
 | [Camel Ride](https://open.spotify.com/track/7lRDkaeIXwgm78lCFR3zvt) | [Lvnt](https://open.spotify.com/artist/0lJBgFBswR7nf4TrKtwZQt) | [Camel Ride](https://open.spotify.com/album/2WkIMFzrUv3VtDscB9lf7k) | 2:18 | 2023-06-01 | 2023-08-25 |
-| [Camelot](https://open.spotify.com/track/6bIGbpZ4EOfkhDcTP526Va) | [L E F](https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV) | [Smooth Transition](https://open.spotify.com/album/0vUMaBuPhr9EYc8I6NnmCX) | 2:12 | 2023-10-12 |  |
+| [Camelot](https://open.spotify.com/track/6bIGbpZ4EOfkhDcTP526Va) | [L E F](https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV) | [Smooth Transition](https://open.spotify.com/album/0vUMaBuPhr9EYc8I6NnmCX) | 2:12 | 2023-10-12 | 2024-07-06 |
 | [Camping With Claude](https://open.spotify.com/track/4lXRsUAcf5wPthpzKVYDxi) | [Lyrik Greens](https://open.spotify.com/artist/5R7QjVJlJuNYs5EKt6xvpv) | [Camping With Claude](https://open.spotify.com/album/5XBTUk5M6BmuQwThH2vcx6) | 1:36 | 2024-04-25 | 2024-05-10 |
 | [Can Do](https://open.spotify.com/track/17cUrQgR2mErga1fo4fxP7) | [Malia Løu](https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL) | [Can Do](https://open.spotify.com/album/0pUwnqkCbHQoVdc7TrlsCt) | 1:44 | 2023-03-30 | 2023-05-12 |
 | [can't sleep](https://open.spotify.com/track/2LdQlq1FVnDtfNkg6zumUE) | [pettersson](https://open.spotify.com/artist/72Q5cOChL72xjupeqzKlWd) | [can't sleep](https://open.spotify.com/album/0UzU5o70AJ8OYZJNeQKagE) | 2:25 | 2019-05-26\* | 2019-08-13 |
@@ -838,6 +838,7 @@
 | [Dawn Chorus](https://open.spotify.com/track/5mk8Ob0XqYhVpcG7VZAQwP) | [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Dawn Chorus](https://open.spotify.com/album/2YofiA7sYJxTU5gdhIawHr) | 1:54 | 2024-03-07 |  |
 | [Dawn Light](https://open.spotify.com/track/3wMVNDiUIJ9ZUH0h55nRPQ) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Tomas Delfgaauw](https://open.spotify.com/artist/1eubKzTitl4RtmWK1AmJuz) | [Dawn Light](https://open.spotify.com/album/2UlKp3BxkSrSCATlanNFHp) | 2:47 | 2023-10-19 |  |
 | [Dawnlight](https://open.spotify.com/track/72epC72BQjPF0KqYUTj0PT) | [Huez](https://open.spotify.com/artist/11nJzHENlaUYrrT9CAd0W9) | [Dawnlight / Diamond Queen](https://open.spotify.com/album/27ej7ZIC8uAWNcqXMyrODR) | 1:41 | 2019-05-26\* | 2019-08-21 |
+| [Day After](https://open.spotify.com/track/16Dlzc8aUsqzI6oDseP04u) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn), [h00t](https://open.spotify.com/artist/0HSpA668bhwiKDBvzqTcvX), [Myuga](https://open.spotify.com/artist/1PGBkdt38wLMukl1HUX6ED) | [Day After](https://open.spotify.com/album/4F2kBATpwTeKETYpX57u68) | 2:22 | 2024-07-04 |  |
 | [day after day](https://open.spotify.com/track/3NJVZBzYRMOLabGq1hSDRd) | [Koaraktor](https://open.spotify.com/artist/6wn1ulTOgegggm9vCwK9Ql) | [day after day](https://open.spotify.com/album/39LdsRZXXUENgM2dprcmJM) | 1:53 | 2021-11-27 | 2021-12-29 |
 | [Day Blessing](https://open.spotify.com/track/7sOWaCTLMXgeic0njcAdGN) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Day Blessing](https://open.spotify.com/album/4BUPHOTT0bRM7rcsuaHwUV) | 2:00 | 2023-07-27 | 2023-10-20 |
 | [Day One](https://open.spotify.com/track/63cbElHfVa2IewIu8mhDq5) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [DDob](https://open.spotify.com/artist/3gFdymAugBzttDhDaH6VJo) | [Day One](https://open.spotify.com/album/67FJXm7DQw0XeJJCy1zEgN) | 2:32 | 2021-10-08 | 2021-11-12 |

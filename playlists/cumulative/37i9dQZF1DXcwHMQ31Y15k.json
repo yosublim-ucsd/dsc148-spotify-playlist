@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Lavora",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Ndarboy Genk, Woro Widowati",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -270,7 +270,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 368175,
       "name": "Alum",
       "url": "https://open.spotify.com/track/0ExvgOOke3ZeB5kT6pC0ex"
@@ -476,7 +476,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 345600,
       "name": "Apik",
       "url": "https://open.spotify.com/track/0pKMPmXE9W7jQnKsjbEn0p"
@@ -2877,6 +2877,24 @@
     },
     {
       "album": {
+        "name": "Lestari",
+        "url": "https://open.spotify.com/album/3FMH1kNsf24utY6UIv4KEY"
+      },
+      "artists": [
+        {
+          "name": "Safira Inema",
+          "url": "https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343680,
+      "name": "Lestari",
+      "url": "https://open.spotify.com/track/2LgpMo9GCSXo95KtUpMQ7C"
+    },
+    {
+      "album": {
         "name": "LESTARI",
         "url": "https://open.spotify.com/album/7c1wv3yXdOce3AhHfn6R3H"
       },
@@ -3948,6 +3966,28 @@
       "duration_ms": 358939,
       "name": "Nona Jelita",
       "url": "https://open.spotify.com/track/0uF0r2nmmM90FefkgsbZ63"
+    },
+    {
+      "album": {
+        "name": "Nona Jelita",
+        "url": "https://open.spotify.com/album/4nAIj88a6PBtZFCsoy4KJJ"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        },
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330573,
+      "name": "Nona Jelita",
+      "url": "https://open.spotify.com/track/6zBwNBR8SMEDfPL0eRI9Pp"
     },
     {
       "album": {

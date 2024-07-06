@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-538 songs - 1 day 8 hr 40 min
+539 songs - 1 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Fade \(feat\. KIRBY\)](https://open.spotify.com/track/4JIQyyCvJnUcRTYxKBB4LU) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Fade \(feat\. KIRBY\)](https://open.spotify.com/album/2np1sUdwyKLUGAe1NFs4uL) | 3:28 | 2024-05-31 |  |
 | [Fall into place](https://open.spotify.com/track/0f6kT8WozcmtkenxnhDbp6) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Fall into place](https://open.spotify.com/album/6H9LrowBd43bph6WF3NKxo) | 2:48 | 2023-05-05 | 2023-10-07 |
 | [Falling For You](https://open.spotify.com/track/0jCbfcLupN9I5ILvNxMGty) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Love Songs](https://open.spotify.com/album/7tiLiMKiZ34qwvJQiuXfzN) | 3:15 | 2022-09-09 | 2022-10-14 |
+| [Far Away](https://open.spotify.com/track/15TSeUwFv4YAbtxleSPU7J) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Far Away](https://open.spotify.com/album/0ITMYKdS5PdE1cZ1QNdvLy) | 2:48 | 2024-07-05 |  |
 | [Feel Something Do Something](https://open.spotify.com/track/6PMeQ7jFfPiig2mhnrvY33) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Gravy](https://open.spotify.com/album/5xZdBUJsZ3RIiePqGFgOaP) | 3:10 | 2023-11-10 | 2024-02-13 |
 | [Feelings](https://open.spotify.com/track/2gFQRVxsRB99l3zz7Bd8Ua) | [Dre Scot](https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1) | [Feelings](https://open.spotify.com/album/2cMhlYR6U9pHXCAoXsF8uh) | 3:22 | 2023-06-16 |  |
 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 | 2022-11-11 |  |
@@ -380,7 +381,7 @@
 | [Pineapple Cognac](https://open.spotify.com/track/74mprhwOJDamrTZ69Pz0cE) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Pineapple Cognac](https://open.spotify.com/album/1b4agvuR4YOtlqSP5whuJC) | 2:14 | 2022-10-03 | 2024-04-19 |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2022-03-11 | 2023-02-25 |
 | [PIT STOP](https://open.spotify.com/track/4dEQyFlM6xPqB7UWMbn54x) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [DeShawn Jenkins](https://open.spotify.com/artist/2Dxkrl4da72WpLloFlg6R1) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 1:31 | 2024-05-31 |  |
-| [Planet Nine](https://open.spotify.com/track/7fVt2s9EQVuqxTaB4UscpI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [1978](https://open.spotify.com/album/7uid7xXNdaEHU9AMOQpcwj) | 4:50 | 2024-04-05 |  |
+| [Planet Nine](https://open.spotify.com/track/7fVt2s9EQVuqxTaB4UscpI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [1978](https://open.spotify.com/album/7uid7xXNdaEHU9AMOQpcwj) | 4:50 | 2024-04-05 | 2024-07-06 |
 | [PLASTIC OFF THE SOFA](https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:14 | 2022-09-09 | 2023-08-05 |
 | [POF](https://open.spotify.com/track/1NY9g5OFUoezXeTveFYWSM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 3:40 | 2022-09-09 | 2023-05-21 |
 | [poison \- demo](https://open.spotify.com/track/76y9rYVLGK4Ob2qaruXmhC) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [poison \(demo\)](https://open.spotify.com/album/4qIShsDt5DHqK9WxMwWx8Q) | 2:43 | 2023-06-02 | 2023-08-26 |

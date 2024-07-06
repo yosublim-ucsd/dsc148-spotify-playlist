@@ -4,7 +4,7 @@
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5?si=3UUmf3abS9\-5m18G2hXMCw">Quavo</a>, <a href="https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa?si=DO0f\-RPYQr\-EXcRWz42JxQ">Lana Del Rey</a>
 
-3,474 songs - 9 day 23 hr 0 min
+3,476 songs - 9 day 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2088,6 +2088,7 @@
 | [Nako](https://open.spotify.com/track/300ZG5cAu0vRAb0J20n3tD) | [Tshepang Ramoba](https://open.spotify.com/artist/2MmU0xFFmDGDONtHlPHUXh) | [Sello](https://open.spotify.com/album/0FZJRs20d6SFhG4S9XlT0E) | 4:39 | 2024-06-27 | 2024-07-05 |
 | [Nako Tsele \(feat\. Lioness Ratang\)](https://open.spotify.com/track/15dIOUdfH8jJcXMQuCroGV) | [Casswell P](https://open.spotify.com/artist/13TUuvzi6FAkiA5F9MiYF8), [Lioness Ratang](https://open.spotify.com/artist/5qltS8SwpvIgYGfaWpEK8s) | [Nako Tsele \(feat\. Lioness Ratang\)](https://open.spotify.com/album/0qDdNbeH0PGVokjWCMmYw9) | 4:14 | 2024-04-19 | 2024-04-26 |
 | [Namhlanje](https://open.spotify.com/track/0NofrfC376r1sj0oIb3gOQ) | [Xowla](https://open.spotify.com/artist/08ejcjfMzbGwiK9MVslxc5), [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Namhlanje](https://open.spotify.com/album/13GaKKLj8B9Qkd9tIkXLAj) | 3:51 | 2024-06-13 | 2024-06-21 |
+| [NAN](https://open.spotify.com/track/0CbXAQ9r0pvnQC9WAbZij4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [NAN](https://open.spotify.com/album/1wkQpHtCqwnHzWJ9aNHANu) | 1:55 | 2024-07-05 |  |
 | [Nana \(feat\. Ice Beats Slide, Shakes & Les\)](https://open.spotify.com/track/1bX28jo2J33vF6Muby0QGr) | [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Shakes](https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y), [Les](https://open.spotify.com/artist/5aEsFpT9g2o5DpXjqLez88) | [Nana \(feat\. Ice Beats Slide, Shakes & Les\)](https://open.spotify.com/album/5pgHQr7dfts3oj4W8M14hX) | 5:43 | 2023-10-20 | 2023-11-11 |
 | [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-05-17 | 2024-05-24 |
 | [Narcos](https://open.spotify.com/track/0bXnjLwjvFJqQE1MB4Wd1M) | [DJ Kwamzy](https://open.spotify.com/artist/3hiqYAXIosBBDG9Uqxt37h), [J Slayz](https://open.spotify.com/artist/0NV4GLGLjuLWL7Il9IOOdj) | [Narcos](https://open.spotify.com/album/1QhZ3sBP8SEGIcYcO5Af5C) | 8:00 | 2023-10-12 | 2023-10-24 |
@@ -2480,6 +2481,7 @@
 | [Re Romilwe](https://open.spotify.com/track/4wCP6oOPwbFetTKiZEcTpw) | [Tshepang Ramoba](https://open.spotify.com/artist/2MmU0xFFmDGDONtHlPHUXh) | [Re Romilwe](https://open.spotify.com/album/66TbtAqn9qIrQt5Qi8PUMW) | 4:28 | 2024-06-06 | 2024-06-14 |
 | [READY](https://open.spotify.com/track/5xT1XuQ5TunvvLZuop2W4w) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [ON AIR](https://open.spotify.com/album/0ARXZhTXu81dsgWcTrlGUn) | 1:25 | 2024-04-19 | 2024-04-26 |
 | [Ready](https://open.spotify.com/track/1hWi7x6YYkpCt6aRlC2r6R) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Ready](https://open.spotify.com/album/4VEmS1AQqFKNhCCtmp2R0E) | 3:01 | 2023-07-07 | 2023-07-14 |
+| [Ready For Your Love](https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Ready For Your Love](https://open.spotify.com/album/5qcOnOmMYeKDPWjsVim6Ss) | 2:39 | 2024-07-05 |  |
 | [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 | 2023-09-22 | 2023-09-29 |
 | [reason](https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:27 | 2023-06-15 | 2023-06-23 |
 | [Reason](https://open.spotify.com/track/59Dr6KNsWhcygOZ8yr8zLO) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [LOVRBOY](https://open.spotify.com/album/4b6RqYu2RjfGqrcB9NH3Rf) | 3:33 | 2024-02-08 | 2024-02-17 |

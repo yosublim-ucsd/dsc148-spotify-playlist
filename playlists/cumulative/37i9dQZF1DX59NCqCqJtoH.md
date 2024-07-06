@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ["I am the light of the world"](https://open.spotify.com/track/3d0ODmvpdEnRHwGAaF7w2J) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [christian core](https://open.spotify.com/album/4yNBgGfT0GcPTcaEB7VBak) | 2:28 | 2023-10-16 | 2024-07-05 |
+| ["I am the light of the world"](https://open.spotify.com/track/3d0ODmvpdEnRHwGAaF7w2J) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [christian core](https://open.spotify.com/album/4yNBgGfT0GcPTcaEB7VBak) | 2:28 | 2023-10-16 |  |
 | [1 step forward, 3 steps back](https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:43 | 2021-06-25 | 2022-05-26 |
 | [17250](https://open.spotify.com/track/4RRHEpkrrYa0TkTEyTPUv7) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i care so much that i dont care at all](https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC) | 2:31 | 2023-07-21 | 2023-09-30 |
 | [2 Hurt Me](https://open.spotify.com/track/2IpSgH91f8BVfoKSIVhCxu) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct) | [2 Hurt Me](https://open.spotify.com/album/28I6rRHavLzqvdJb9GCQqA) | 2:51 | 2021-04-02 | 2022-04-17 |
@@ -527,7 +527,7 @@
 | [Sick of Losing Soulmates](https://open.spotify.com/track/4hjbxjZpJ8H6qRCzDOGI0M) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Sick of Losing Soulmates](https://open.spotify.com/album/6QBJTOxkR7sM0snlvzD4d2) | 4:27 | 2021-04-02 |  |
 | [Sick of This](https://open.spotify.com/track/5JtkrEGCt433sr2wEGSVsR) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [When You Forgive](https://open.spotify.com/album/57V7Q54bacsS1tJYnHxmDT) | 3:53 | 2021-04-02 | 2022-04-14 |
 | [Silhouette](https://open.spotify.com/track/0xIxUesRUXMlX1zYitECjs) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Silhouette](https://open.spotify.com/album/7EWk2u29tK8b6EMv5fVbhl) | 2:59 | 2021-04-02 | 2022-04-21 |
-| [silhouette](https://open.spotify.com/track/5jCv6lP0L05g8GcRTYLCIE) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [silhouette](https://open.spotify.com/album/3oIahIvFl1nQjfzoJrdP7Y) | 4:16 | 2023-06-23 |  |
+| [silhouette](https://open.spotify.com/track/5jCv6lP0L05g8GcRTYLCIE) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [silhouette](https://open.spotify.com/album/3oIahIvFl1nQjfzoJrdP7Y) | 4:16 | 2023-06-23 | 2024-07-06 |
 | [Silly Girl](https://open.spotify.com/track/0ZP3E9L1I0C6rmD0CAKqDc) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Rabbit Hearted.](https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz) | 3:18 | 2022-07-15 | 2024-04-19 |
 | [Silly Girl](https://open.spotify.com/track/3RGVYzHQWQOlHYphHMAaaj) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Rabbit Hearted.](https://open.spotify.com/album/5N83DElmMbgJiPV6u7qEyn) | 3:18 | 2021-04-02 | 2022-07-24 |
 | [Simply The Best](https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Simply The Best](https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7) | 2:53 | 2022-03-24 | 2022-10-15 |

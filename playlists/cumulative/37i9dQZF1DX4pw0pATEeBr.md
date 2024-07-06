@@ -2,7 +2,7 @@
 
 ### [Ejercicio con Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DX4pw0pATEeBr)
 
-> Versos y barras de alto poder, con un takeover por Faruz Feet.
+> Versos y barras de alto poder
 
 83 songs - 5 hr 12 min
 

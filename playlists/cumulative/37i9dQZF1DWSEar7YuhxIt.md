@@ -2,7 +2,7 @@
 
 ### [Raised on Metal](https://open.spotify.com/playlist/37i9dQZF1DWSEar7YuhxIt)
 
-> Horns up for this metal soundtrack for headbangers of all ages!
+> A metal soundtrack for headbangers of all ages.
 
 75 songs - 6 hr 4 min
 

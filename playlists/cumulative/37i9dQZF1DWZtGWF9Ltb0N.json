@@ -2252,7 +2252,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 165339,
       "name": "Dead Meat",
       "url": "https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE"
@@ -3862,6 +3862,28 @@
       "duration_ms": 301714,
       "name": "Ghost Talk",
       "url": "https://open.spotify.com/track/6FooBZcIyC5NOjivPZQvbx"
+    },
+    {
+      "album": {
+        "name": "Monomyth",
+        "url": "https://open.spotify.com/album/3snB2cQcZUkFYS1aawRQm9"
+      },
+      "artists": [
+        {
+          "name": "Saka",
+          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
+        },
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Ghoul",
+      "url": "https://open.spotify.com/track/53ICazVbw0uQNOBnUff09a"
     },
     {
       "album": {
@@ -7356,7 +7378,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 196802,
       "name": "Pinky",
       "url": "https://open.spotify.com/track/6Do1b2IicfJwzxXR3lGVFz"
@@ -7732,7 +7754,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 226285,
       "name": "Psychotherapy",
       "url": "https://open.spotify.com/track/32RVEL94lelYvfcLOKl1Gh"

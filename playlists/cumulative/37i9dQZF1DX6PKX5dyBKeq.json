@@ -12341,7 +12341,7 @@
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 140865,
+      "duration_ms": 140368,
       "name": "Famous",
       "url": "https://open.spotify.com/track/2IM2d4PGoDmoYL5WF6QfYf"
     },
@@ -30022,6 +30022,32 @@
       "duration_ms": 198904,
       "name": "Sasuke",
       "url": "https://open.spotify.com/track/5q5t2C28uQdg2mk8HOfDWb"
+    },
+    {
+      "album": {
+        "name": "Say Narda (feat. K1 Never Forget Loyalty)",
+        "url": "https://open.spotify.com/album/3jS63Oz11jEsht3itYuP8R"
+      },
+      "artists": [
+        {
+          "name": "Dezzie",
+          "url": "https://open.spotify.com/artist/24Ws1EeobHSyqDxQKfie7Q"
+        },
+        {
+          "name": "Izzpot",
+          "url": "https://open.spotify.com/artist/4IvEtOiujya1B5LAoc8xZC"
+        },
+        {
+          "name": "K1 Never Forget Loyalty",
+          "url": "https://open.spotify.com/artist/2wTBSchYhjwEPFetT25hFN"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205241,
+      "name": "Say Narda (feat. K1 Never Forget Loyalty)",
+      "url": "https://open.spotify.com/track/5GKREHUU8JFKSFABpmiMC4"
     },
     {
       "album": {

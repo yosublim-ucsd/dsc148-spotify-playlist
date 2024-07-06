@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 ### [Fresh Hits](https://open.spotify.com/playlist/37i9dQZF1DWYrgs30Ir8ow)
 
-> Altijd fris in Fresh Hits\. Cover: Sam Feldt
+> Altijd fris in Fresh Hits\. Cover: Afro Bros, John West, Monq & Billy Dans
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,023 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,045 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Wat Er Ook Gebeurt](https://open.spotify.com/track/1DfvARmbKyxKZwa6Y6LQtF) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Wat Er Ook Gebeurt](https://open.spotify.com/album/68nAyxzH7dJkcsGnifgI5k) | 3:08 |
 | 40 | [In My Bones](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [In My Bones](https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB) | 2:36 |
 
-Snapshot ID: `ZocbYAAAAACk7qRyLg/zs/lLfeESSZky`
+Snapshot ID: `ZoebsQAAAADvENdnbDlbkETTgrCVTvZn`

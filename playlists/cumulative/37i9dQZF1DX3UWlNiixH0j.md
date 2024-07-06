@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: どんぐりず \(DONGURIZU\)
 
-1,733 songs - 4 day 11 hr 33 min
+1,735 songs - 4 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1028,7 +1028,7 @@
 | [Tower](https://open.spotify.com/track/6RTy1yYaJPhJ5372QTHDv5) | [砂の壁](https://open.spotify.com/artist/63BnigqL6MjIgPZF5kG9fy) | [Tower](https://open.spotify.com/album/1ISSwD8yInosQUOTxqiuFN) | 5:20 | 2024-04-02 | 2024-04-10 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-19 | 2023-09-27 |
 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-09-14 | 2024-04-02 |
-| [trank](https://open.spotify.com/track/5tJasimBMGlOR9y15v1ATu) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [trank](https://open.spotify.com/album/0mcReQHeeMJzIG8BFCyQJf) | 2:57 | 2024-04-16 |  |
+| [trank](https://open.spotify.com/track/5tJasimBMGlOR9y15v1ATu) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [trank](https://open.spotify.com/album/0mcReQHeeMJzIG8BFCyQJf) | 2:57 | 2024-04-16 | 2024-07-06 |
 | [Trash?](https://open.spotify.com/track/3LzH854rORAcAXVJovKCyX) | [Mellow Youth](https://open.spotify.com/artist/2gz3u0swrP8haOwVzegHYk) | [Trash? / ダリア](https://open.spotify.com/album/0n81gVG8orwqVBg0pazVjl) | 3:36 | 2024-04-16 | 2024-04-24 |
 | [trust none](https://open.spotify.com/track/1OO9p0vTUo9Ecd4aiWTXz6) | [くだらない1日](https://open.spotify.com/artist/0e11UZEaAK9dntRu5NAc6f) | [trust none](https://open.spotify.com/album/2zZeIRHjF2wITdR4lOtVLZ) | 3:45 | 2023-12-07 | 2023-12-13 |
 | [Try it](https://open.spotify.com/track/6uiJDc0yjQ9hBVIpQ0ZZw2) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [Try it](https://open.spotify.com/album/3acGxNAVqRP0UCLT0rQpuR) | 3:41 | 2023-01-12 | 2023-02-15 |
@@ -1177,6 +1177,7 @@
 | [しょうもない夜](https://open.spotify.com/track/1mSDhkET9Qecp1EuPWX7Er) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [しょうもない夜](https://open.spotify.com/album/31zPEVkCWiYlzMKJF2FvGc) | 3:32 | 2023-12-21 | 2024-04-03 |
 | [じゃじゃ馬にさせないで](https://open.spotify.com/track/6qV4xNwIt7qF0gO6yW086K) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [\(茜\)](https://open.spotify.com/album/7EQlFBJV2yiLhi3SDq91vR) | 4:23 | 2024-01-25 | 2024-02-02 |
 | [ずっとIMI](https://open.spotify.com/track/0R98847JNfUWNTNaeYCwTU) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5) | [ずっとIMI](https://open.spotify.com/album/7wPGSbDiZtj7fPrOsgUPSx) | 2:58 | 2023-03-14 | 2023-03-22 |
+| [そういえばさ](https://open.spotify.com/track/67tDM0mNG094Pjs7OYrEoG) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ) | [そういえばさ](https://open.spotify.com/album/51WVp8jC7FRxncclDbzdGR) | 2:18 | 2024-07-02 |  |
 | [そこにいなくても](https://open.spotify.com/track/5yLbNvn4OCgcqTznRaXjC8) | [ケイチ&ココナッツ・グルーヴ](https://open.spotify.com/artist/3gAjtIRzE9P94zXKBmX5Xg) | [そこにいなくても](https://open.spotify.com/album/7BEHuPul1hr5g8af7Xjuk8) | 3:42 | 2024-01-09 | 2024-01-11 |
 | [それでも、僕は](https://open.spotify.com/track/3vQGpmtadSq1uSkebkrLzW) | [ポニーのヒサミツ](https://open.spotify.com/artist/5Jgmn1ZKXTKLR1uxbu0lSg) | [それでも、僕は](https://open.spotify.com/album/7AigxeTzOuM1MoiHvL61KG) | 4:11 | 2023-02-28 | 2023-03-15 |
 | [たがまま](https://open.spotify.com/track/4Bd6TKf5JT9V0yPFRusQnW) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [たがまま](https://open.spotify.com/album/7j1qRIW05kJYGO3ZdGWNMq) | 6:08 | 2024-02-06 | 2024-02-14 |
@@ -1435,6 +1436,7 @@
 | [光線](https://open.spotify.com/track/42DGm06re0rxSEOM0AhO6p) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [光線](https://open.spotify.com/album/05rp9bgAR4fXTNYrhSBvg0) | 3:09 | 2023-08-22 | 2023-11-24 |
 | [六つの橋](https://open.spotify.com/track/5EusjMYNGvfnEwt60OVqaq) | [SOMAOTA](https://open.spotify.com/artist/7iDt6acAAE3tr0bfHM5h3O) | [六つの橋](https://open.spotify.com/album/7b81wxZxyENklF2nZCbduH) | 4:00 | 2024-05-21 | 2024-05-29 |
 | [共振](https://open.spotify.com/track/41o30p9zWXn1SbdODFZBjf) | [Arakoi](https://open.spotify.com/artist/2jJfXAB5K7ZlK1H7xQt0tl) | [響鳴](https://open.spotify.com/album/2lw6n33b4NK9oLeioBCBd6) | 5:14 | 2024-01-16 | 2024-01-24 |
+| [冥冥](https://open.spotify.com/track/39bCGq3Ad9c3IMcYV2ROhe) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [冥冥](https://open.spotify.com/album/76a759u25fWITdpdjqidXn) | 3:27 | 2024-07-02 |  |
 | [冬越え](https://open.spotify.com/track/4hf6Vgy3AbYlzZiBHnyA48) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [冬越え](https://open.spotify.com/album/47OBebnmm2E2xo6tASrtGT) | 4:04 | 2024-03-12 | 2024-03-14 |
 | [初恋](https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [初恋](https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD) | 3:15 | 2023-11-29 |  |
 | [初恋](https://open.spotify.com/track/1zf8tA4xX7LzhEK4Nm6YYE) | [yomm](https://open.spotify.com/artist/51eUf0X63PMw1Cm8p8xkqV) | [初恋](https://open.spotify.com/album/2CcyWs26HCrKU0v9BFZkYo) | 4:38 | 2024-04-23 | 2024-05-01 |
@@ -1728,7 +1730,7 @@
 | [風になって](https://open.spotify.com/track/4rz9SL6tnC4Pno1DQQCk2y) | [地球から2ミリ浮いてる人たち](https://open.spotify.com/artist/4KjgDrlQ5okGyYFrDe0xWn) | [風になって](https://open.spotify.com/album/2s7KGADcWkxCNpui3yFsoG) | 3:40 | 2024-04-09 | 2024-04-17 |
 | [風になれ \(cover ver.\)](https://open.spotify.com/track/4OQJYn73HxvQFQw9HgR50e) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [風になれ \(cover ver.\)](https://open.spotify.com/album/76uNTXz2UEwwkdNMfGs8Py) | 3:06 | 2023-01-12 | 2023-02-01 |
 | [風のように](https://open.spotify.com/track/4R6iLmupfyrt4PrvaxMifX) | [武田理沙](https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697) | [風のように](https://open.spotify.com/album/4v1rmFqeN2zX6MEB2oJD5F) | 6:23 | 2024-05-21 | 2024-05-29 |
-| [風の向きが変わって](https://open.spotify.com/track/1up7HNjeHsDrtzirzJT4Wt) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [風の向きが変わって](https://open.spotify.com/album/16zd5CxZ5VzZKppocHWg2E) | 5:02 | 2023-06-13 |  |
+| [風の向きが変わって](https://open.spotify.com/track/1up7HNjeHsDrtzirzJT4Wt) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [風の向きが変わって](https://open.spotify.com/album/16zd5CxZ5VzZKppocHWg2E) | 5:02 | 2023-06-13 | 2024-07-06 |
 | [風を吹かせて](https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [ありがとう](https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV) | 5:09 | 2023-06-20 |  |
 | [風来](https://open.spotify.com/track/0NCp3Af9c2ufCah4LinfJT) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [風来](https://open.spotify.com/album/3JrxuhOs9bd9Tbcs6P7j7D) | 4:25 | 2023-02-21 | 2023-02-23 |
 | [風船は小さな手を離れて](https://open.spotify.com/track/1dF4ksSNiXJnogblM7YfEa) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [もしかして世間](https://open.spotify.com/album/78Bbwa8TUPLlsaV1Y0vL3Q) | 3:55 | 2023-04-25 | 2023-05-24 |

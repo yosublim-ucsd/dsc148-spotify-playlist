@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "la nueva ola de artistas con Maria Centeno en portada. \ud83c\udf0a\u2728 ",
+  "description": "la nueva ola de artistas con Foudeqush en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "tracks": [
     {
@@ -204,7 +204,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 138509,
       "name": "A TI",
       "url": "https://open.spotify.com/track/7BvX8hQxTizTNxsZhx9VIs"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 144260,
       "name": "ALMA</3",
       "url": "https://open.spotify.com/track/1Mq86WnX64KKQoCuIaXT1t"
@@ -2401,6 +2401,24 @@
     },
     {
       "album": {
+        "name": "Desastre Emocional",
+        "url": "https://open.spotify.com/album/1bnsJ7ZuB6TaWW364pwtag"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178160,
+      "name": "Desastre Emocional",
+      "url": "https://open.spotify.com/track/7ra9A7fAuuEjTyadsObgHI"
+    },
+    {
+      "album": {
         "name": "Desconocernos",
         "url": "https://open.spotify.com/album/2sjbd7CdcKMOFQuLZwAz9K"
       },
@@ -2556,6 +2574,24 @@
       "duration_ms": 184000,
       "name": "DIADREAMER",
       "url": "https://open.spotify.com/track/7MFWP8pH2bSMvDeCdijnVv"
+    },
+    {
+      "album": {
+        "name": "Dicen Que Eres Arte",
+        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164736,
+      "name": "Dicen Que Eres Arte",
+      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
     },
     {
       "album": {
@@ -3467,6 +3503,24 @@
     },
     {
       "album": {
+        "name": "FYAH",
+        "url": "https://open.spotify.com/album/4vDEwIEtcEZsNWNQVcIR5M"
+      },
+      "artists": [
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202146,
+      "name": "FYAH",
+      "url": "https://open.spotify.com/track/35CFwzAjjOyY1teh0NUwF5"
+    },
+    {
+      "album": {
         "name": "GENIAL",
         "url": "https://open.spotify.com/album/5rafwaYjurrEADQNdqBFSS"
       },
@@ -3986,7 +4040,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 243999,
       "name": "la calle",
       "url": "https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc"
@@ -8504,7 +8558,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 155293,
       "name": "Te Juro No Te Miento",
       "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
@@ -8892,6 +8946,24 @@
       "duration_ms": 214790,
       "name": "todo pasa",
       "url": "https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4"
+    },
+    {
+      "album": {
+        "name": "TONY MONTANA",
+        "url": "https://open.spotify.com/album/5WzMhrOgTyRoMNMPvvRhI0"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "TONY MONTANA",
+      "url": "https://open.spotify.com/track/6BUhgP4VBxhAlExeKMyLCB"
     },
     {
       "album": {

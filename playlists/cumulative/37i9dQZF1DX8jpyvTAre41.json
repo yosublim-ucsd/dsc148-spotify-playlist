@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: Bleeker",
+  "description": "The best rock songs of the moment. Cover: Imagine Dragons",
   "name": "Rock Now",
   "tracks": [
     {
@@ -598,7 +598,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 213014,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/0O2Xj14M8PgYm3wbbjrKqX"
@@ -696,6 +696,24 @@
       "duration_ms": 148361,
       "name": "All In My Mind",
       "url": "https://open.spotify.com/track/384oW4RbxvLy2eE4zAFABD"
+    },
+    {
+      "album": {
+        "name": "All Kinds Of People",
+        "url": "https://open.spotify.com/album/1qrfKDFYVsll4mThf6pxqJ"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167493,
+      "name": "All Kinds Of People",
+      "url": "https://open.spotify.com/track/5dOkvWdlRlKYvhM3MkD2Ai"
     },
     {
       "album": {
@@ -2131,6 +2149,24 @@
     },
     {
       "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231250,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
+    },
+    {
+      "album": {
         "name": "Burnout",
         "url": "https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0"
       },
@@ -2716,6 +2752,24 @@
       "duration_ms": 313373,
       "name": "Cold",
       "url": "https://open.spotify.com/track/1QivlVy4J2yWaCZ6RnWl70"
+    },
+    {
+      "album": {
+        "name": "Cold Caller",
+        "url": "https://open.spotify.com/album/6cu9qXzpFVNGU8ARlfqvH2"
+      },
+      "artists": [
+        {
+          "name": "Honeyglaze",
+          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185787,
+      "name": "Cold Caller",
+      "url": "https://open.spotify.com/track/5QKbilwxACHAIJMNGjt6rX"
     },
     {
       "album": {
@@ -4086,7 +4140,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 169560,
       "name": "ERASED",
       "url": "https://open.spotify.com/track/3MZ3rgrGgNgyhEgkzhDKwl"
@@ -4302,7 +4356,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 200010,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
@@ -6590,7 +6644,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 159506,
       "name": "I'LL BE OKAY",
       "url": "https://open.spotify.com/track/6XFNd3f9wVt4N0LTeRNrwL"
@@ -6756,6 +6810,24 @@
       "duration_ms": 203800,
       "name": "It's Over",
       "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
+    },
+    {
+      "album": {
+        "name": "It's Supposed To Hurt",
+        "url": "https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212086,
+      "name": "It's Supposed To Hurt",
+      "url": "https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT"
     },
     {
       "album": {
@@ -7420,7 +7492,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 184607,
       "name": "Landmine",
       "url": "https://open.spotify.com/track/4YjTwBC1T231kB5AEOK8vf"
@@ -7970,6 +8042,24 @@
       "duration_ms": 293105,
       "name": "Listen to the Beat",
       "url": "https://open.spotify.com/track/1nNczyQpQI6nwjcnsnctNs"
+    },
+    {
+      "album": {
+        "name": "Lithonia",
+        "url": "https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179320,
+      "name": "Lithonia",
+      "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
     },
     {
       "album": {
@@ -12990,7 +13080,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 177731,
       "name": "Stay Blessed",
       "url": "https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb"
@@ -13734,7 +13824,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 142467,
       "name": "The Blob",
       "url": "https://open.spotify.com/track/0QKgoPaVYMUL4mFxX3SyWd"
@@ -14266,6 +14356,24 @@
       "duration_ms": 220567,
       "name": "The Thing That Wrecks You",
       "url": "https://open.spotify.com/track/4ZT5geWeKg8Ar3IR2Gj22I"
+    },
+    {
+      "album": {
+        "name": "The View From The Barstool",
+        "url": "https://open.spotify.com/album/4RX2lBDWEujXlKs6vvd6n1"
+      },
+      "artists": [
+        {
+          "name": "Hotel Mira",
+          "url": "https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188563,
+      "name": "The View From The Barstool",
+      "url": "https://open.spotify.com/track/6bnurSHQjUedKgVoeXUjFy"
     },
     {
       "album": {
@@ -16492,6 +16600,24 @@
       "duration_ms": 218520,
       "name": "ZOMBIFIED",
       "url": "https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft"
+    },
+    {
+      "album": {
+        "name": "Because It\u2019s True",
+        "url": "https://open.spotify.com/album/1E1ncAUiHSyXacOPCSYxSK"
+      },
+      "artists": [
+        {
+          "name": "Laughing",
+          "url": "https://open.spotify.com/artist/02wBeDenxYGyaUy9H49nt6"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276733,
+      "name": "\ufeffGarden Path",
+      "url": "https://open.spotify.com/track/3EUm3GbXgkEOS38GleJjWN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8jpyvTAre41"

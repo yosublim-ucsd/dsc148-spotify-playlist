@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "Inspired by African drums. Cover: Burna Boy \ud83c\uddf3\ud83c\uddec ",
+  "description": "Inspired by African drums. Cover: Asake \ud83c\uddf3\ud83c\uddec ",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -2609,6 +2609,28 @@
     },
     {
       "album": {
+        "name": "Body Rich",
+        "url": "https://open.spotify.com/album/0upfL3LB43EZv05JKPMnG4"
+      },
+      "artists": [
+        {
+          "name": "TRACKDILLA",
+          "url": "https://open.spotify.com/artist/5rq1B097PR2SxsVBVhG9bR"
+        },
+        {
+          "name": "Serani",
+          "url": "https://open.spotify.com/artist/22099GssG7Ood0d5UIh2wo"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198605,
+      "name": "Body Rich",
+      "url": "https://open.spotify.com/track/2u8ACvVG947VznargTa0o8"
+    },
+    {
+      "album": {
         "name": "BORN FOR GREATNESS",
         "url": "https://open.spotify.com/album/37A8OxnuHRRRd8QJcwzEfg"
       },
@@ -2752,7 +2774,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 188000,
       "name": "Borrow Me Your Baby (feat. Falz)",
       "url": "https://open.spotify.com/track/01AkBgeMy8BSiJuzDl0WXc"
@@ -6336,6 +6358,32 @@
       "duration_ms": 257272,
       "name": "Fuh Spite",
       "url": "https://open.spotify.com/track/6LwbLdUGrzO2BLjJu4nz7v"
+    },
+    {
+      "album": {
+        "name": "Gal we Love",
+        "url": "https://open.spotify.com/album/71vPoSAtLtxSjEvY7tNvqj"
+      },
+      "artists": [
+        {
+          "name": "Nadg",
+          "url": "https://open.spotify.com/artist/3cebGxBz4V81fXQDHv66WB"
+        },
+        {
+          "name": "Massive B",
+          "url": "https://open.spotify.com/artist/36fJ2Mx3ktclhSlBbsUbFY"
+        },
+        {
+          "name": "Bobby Konders",
+          "url": "https://open.spotify.com/artist/1AEHGLRSBHwSr4VmU7IOXj"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Gal we Love",
+      "url": "https://open.spotify.com/track/2ePhOHdxz3BcYxJg27QxFE"
     },
     {
       "album": {
@@ -11427,6 +11475,28 @@
     },
     {
       "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/7ngqg1CSDp6jc7KPs6tWax"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Miracle Worker (feat. Lojay)",
+      "url": "https://open.spotify.com/track/7pkTAS4TcKg1gThbTA8FLX"
+    },
+    {
+      "album": {
         "name": "Missbnasty",
         "url": "https://open.spotify.com/album/59kzETWYbbnNYMhysIA1fy"
       },
@@ -12956,7 +13026,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 176020,
       "name": "Oh My Days",
       "url": "https://open.spotify.com/track/6pFItbFfi3fNagHGCeXCUF"
@@ -14904,7 +14974,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 154380,
       "name": "RETE",
       "url": "https://open.spotify.com/track/5A5btOt99UdaHHClXSP7VS"
@@ -16144,7 +16214,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 119653,
       "name": "Shattarock",
       "url": "https://open.spotify.com/track/2CEkB1XfR41pK5VpLAULeL"
@@ -18609,6 +18679,28 @@
     },
     {
       "album": {
+        "name": "Too Girly Girly",
+        "url": "https://open.spotify.com/album/4NYkz5khn8h090UNsK1958"
+      },
+      "artists": [
+        {
+          "name": "Alicai Harley",
+          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
+        },
+        {
+          "name": "Toddla T",
+          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Too Girly Girly",
+      "url": "https://open.spotify.com/track/4pxmWIqKflqDNfhon9AOat"
+    },
+    {
+      "album": {
         "name": "Too Young",
         "url": "https://open.spotify.com/album/03dhscBuyiDdIHf58zBe7D"
       },
@@ -19470,7 +19562,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 166000,
       "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
@@ -20910,6 +21002,28 @@
       "duration_ms": 180000,
       "name": "YAWA",
       "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
+    },
+    {
+      "album": {
+        "name": "Qing Madi (Deluxe)",
+        "url": "https://open.spotify.com/album/4vxIotduGifC33fGSfxxom"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195789,
+      "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
+      "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
     },
     {
       "album": {

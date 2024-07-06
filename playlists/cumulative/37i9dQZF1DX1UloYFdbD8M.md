@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Benny Dayal
 
-204 songs - 13 hr 54 min
+206 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Navarasam](https://open.spotify.com/track/6w53UWYxXvQv5nU7GdNz1w) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Navarasam](https://open.spotify.com/album/4nFm7BobV1Wmat82PbgDog) | 6:34 | 2022-11-21 |  |
 | [Ne Mathram](https://open.spotify.com/track/2UeUcMklimRzYjmpohUPWK) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Bindu Anirudhan](https://open.spotify.com/artist/40yIKIP4JwrsB1OL3dKau9) | [Ne Mathram](https://open.spotify.com/album/1b9FDYIr9PM38BwZzd63bQ) | 3:14 | 2022-07-13 | 2023-07-28 |
 | [Ne Po](https://open.spotify.com/track/3Q1KfAc1O75K0OEX2YPI4H) | [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [Ne Po](https://open.spotify.com/album/5RwYNI6oeKE0YGhhwM2H9X) | 2:35 | 2023-05-26 | 2023-07-28 |
+| [NEE](https://open.spotify.com/track/2DUIq6Pdoqpee0xK6rBrB2) | [Ahin Viswam](https://open.spotify.com/artist/53G8vyT2YvzkLOTQoyGJj0) | [NEE](https://open.spotify.com/album/5i4gCzAX9Esw9TUo3z2YFf) | 7:03 | 2024-07-05 |  |
 | [Nee Aara](https://open.spotify.com/track/5bmr1bA6jmwPyWIoZVcgSa) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Nee Aara](https://open.spotify.com/album/30y65kQtOzKiEbn7qfbOsA) | 3:44 | 2023-07-27 |  |
 | [Neela Kavarey](https://open.spotify.com/track/0itVbkKH8mWv7Oxk3Zurqx) | [Toby Ignatious](https://open.spotify.com/artist/6VU3YKjIkdGNVBqHnbvEfC), [Indulekha Warrier](https://open.spotify.com/artist/3xWYC9Ongag29dyWUaaiAl), [Rap Kid India](https://open.spotify.com/artist/40KXGueq8yPOb6dtZD6QmA) | [Neela Kavarey](https://open.spotify.com/album/66WsMnChreMEN2x0FbVWZW) | 3:47 | 2022-06-23 | 2023-07-28 |
 | [Neeye](https://open.spotify.com/track/72SLyELTJugyYPq8cdD1jo) | [Redvin](https://open.spotify.com/artist/0ZfSypS8JUaKWJKMejNNa6), [Nevin Thomas](https://open.spotify.com/artist/29t7mv5S6lSSOlVhPAFP2y), [Madhav Nair](https://open.spotify.com/artist/0h9ULGzB0qPXSb2Atx2EcY) | [Neeye](https://open.spotify.com/album/2tzsdw82Of9y0Nv3f9St0z) | 3:13 | 2022-08-01 | 2023-07-28 |
@@ -179,6 +180,7 @@
 | [Sundown](https://open.spotify.com/track/1IhTE7V9oA76Vz8gcHBhZG) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3), [Trosk](https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN) | [Sundown](https://open.spotify.com/album/0zqm6Hg7w9cRVJhgxfHOCY) | 4:42 | 2023-09-22 |  |
 | [Swapname](https://open.spotify.com/track/0diGuDISOvsXWs9v5aWv00) | [Emil Mohammed](https://open.spotify.com/artist/7F4yMSf7dsRVAPnkkoR8Wx), [Raazi](https://open.spotify.com/artist/0VKALXldkVaRzYcx7SkKHi) | [Swapname](https://open.spotify.com/album/3mvzVMfX6EmUKMe39Xm1QO) | 3:46 | 2024-05-07 |  |
 | [Swasamay](https://open.spotify.com/track/2T5iv3yppmAVwU9RduQOHe) | [Goutham Vincent](https://open.spotify.com/artist/44AI6q02YIJMvtzmgFetaV), [Sony Mohan](https://open.spotify.com/artist/65NpKvImlpRJpitOScm5GJ), [Ridhu Krishna](https://open.spotify.com/artist/0VAXoBqMrGpLbF1PC3rNbD) | [Swasamay](https://open.spotify.com/album/2gsKpKlh3cT5zXGeA1yLG6) | 2:37 | 2024-02-05 | 2024-02-15 |
+| [Swayam](https://open.spotify.com/track/3iCpruRKrLLcTKdCOMr9yp) | [Ananthu Gopi](https://open.spotify.com/artist/5SaT26rmsIGokgh2ZpxNnd) | [Swayam](https://open.spotify.com/album/0r8LXn3TVf4SqohQUbARZa) | 2:52 | 2024-07-05 |  |
 | [Thaalam \- Version 1](https://open.spotify.com/track/0Y2Z5RLw2MPLVC3mQj9EK9) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaalam](https://open.spotify.com/album/67CJFdWcTVKeSybZlnMf9k) | 6:00 | 2022-06-23 |  |
 | [Thaaraattu \- Live](https://open.spotify.com/track/2fe5loAluoPJsHT1nCpgDc) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaaraattu \(Live\)](https://open.spotify.com/album/5kqLzeSaEAv5Shc5wAnvud) | 3:02 | 2023-07-27 |  |
 | [The Bacardi Song](https://open.spotify.com/track/6V6Gp9FBvuge8f7IwijFUX) | [Rinosh George](https://open.spotify.com/artist/3sMWWB27n75DQtRwIAo0Ru) | [The Bacardi Song](https://open.spotify.com/album/7moZLvp3D9nj5xjL83fjCr) | 3:54 | 2024-02-15 | 2024-05-25 |

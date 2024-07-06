@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Lens, LZee",
-  "num_followers": 61333,
+  "num_followers": 61376,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
+        "name": "Hazmat/ Deserted",
+        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 201517,
+      "name": "Deserted",
+      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
         "name": "Crunchy Nutter",
         "url": "https://open.spotify.com/album/1WlUE6Kq9JTU4bAlYq87YA"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 204332,
       "name": "Crunchy Nutter",
       "url": "https://open.spotify.com/track/0G9V10A931yQ6KU36SsQZw"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "Ghosting Your Love",
-        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 199728,
-      "name": "Ghosting Your Love",
-      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
+        "name": "Ghosting Your Love",
+        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 199728,
+      "name": "Ghosting Your Love",
+      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
         "name": "Nightmares",
         "url": "https://open.spotify.com/album/2lQ23jZfDgcb2s4v47W1NK"
       },
@@ -959,30 +975,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Confliction",
-        "url": "https://open.spotify.com/album/1WS53YDSSfOFyJPUQ1SR1E"
-      },
-      "artists": [
-        {
-          "name": "CrossBreed",
-          "url": "https://open.spotify.com/artist/3ifKKKcUBOYQ64Un0bpjQL"
-        },
-        {
-          "name": "MTD",
-          "url": "https://open.spotify.com/artist/0DSkqLja3BBRvuoK0WcBDo"
-        },
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Confliction",
-      "url": "https://open.spotify.com/track/1ExW4pjV1zROf5QveEk64S"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "Skillz",
         "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
       },
@@ -1015,18 +1007,26 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Hazmat/ Deserted",
-        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
+        "name": "Confliction",
+        "url": "https://open.spotify.com/album/1WS53YDSSfOFyJPUQ1SR1E"
       },
       "artists": [
         {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+          "name": "CrossBreed",
+          "url": "https://open.spotify.com/artist/3ifKKKcUBOYQ64Un0bpjQL"
+        },
+        {
+          "name": "MTD",
+          "url": "https://open.spotify.com/artist/0DSkqLja3BBRvuoK0WcBDo"
+        },
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
         }
       ],
-      "duration_ms": 201517,
-      "name": "Deserted",
-      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
+      "duration_ms": 200228,
+      "name": "Confliction",
+      "url": "https://open.spotify.com/track/1ExW4pjV1zROf5QveEk64S"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
+        "name": "Lady Petrol",
+        "url": "https://open.spotify.com/album/24e3IAndixmqYlExyKTldi"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 309986,
+      "name": "Lady Petrol",
+      "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
         "name": "Lapse",
         "url": "https://open.spotify.com/album/7HcZT4FVS2BdGJIr7FfWPB"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 252558,
       "name": "Lapse",
       "url": "https://open.spotify.com/track/6rduLWfZ32SDJLco9Pb4jr"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "Lady Petrol",
-        "url": "https://open.spotify.com/album/24e3IAndixmqYlExyKTldi"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 309986,
-      "name": "Lady Petrol",
-      "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
     }
   ],
   "unique_name": "Jump Up!",

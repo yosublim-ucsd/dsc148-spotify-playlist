@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura with Drake. \ud83e\udd89 ",
+  "description": "This is R&B in Canada, elevate your aura with RAAHiiM.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -198,6 +198,24 @@
       "duration_ms": 142191,
       "name": "222",
       "url": "https://open.spotify.com/track/0gv0tyqaOONXB6JhZsrXSb"
+    },
+    {
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/6Rgww4ZKoUkNqki1bQdJNW"
+      },
+      "artists": [
+        {
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182318,
+      "name": "23 SPECIAL",
+      "url": "https://open.spotify.com/track/7Li8IkGfaLNt8nsxcpVxvl"
     },
     {
       "album": {
@@ -484,7 +502,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 118200,
       "name": "Aaliyah",
       "url": "https://open.spotify.com/track/5JR3Sp5tlgxqlvRs6LNOJu"
@@ -1796,7 +1814,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 136959,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/6sJONCa13pEDfik2GvGWhN"
@@ -1890,6 +1908,24 @@
       "duration_ms": 210810,
       "name": "Beside Me",
       "url": "https://open.spotify.com/track/2VrV7wCTN2LBvhZyv5Xly5"
+    },
+    {
+      "album": {
+        "name": "Besoin",
+        "url": "https://open.spotify.com/album/1hfiyR4GixCxvmmS3GoBrJ"
+      },
+      "artists": [
+        {
+          "name": "Blynk",
+          "url": "https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Besoin",
+      "url": "https://open.spotify.com/track/5LiOvDRWNm9QAeIa9WuBT8"
     },
     {
       "album": {
@@ -3993,6 +4029,24 @@
     },
     {
       "album": {
+        "name": "Day Dreamer",
+        "url": "https://open.spotify.com/album/5Q5vrXqQu1mm7YEBD7sS4b"
+      },
+      "artists": [
+        {
+          "name": "Samalong",
+          "url": "https://open.spotify.com/artist/4yOkiVMHxAhibnNCjD7C7j"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185025,
+      "name": "Day Dreamer",
+      "url": "https://open.spotify.com/track/4zTQDFFUD1OM0YpqJWWR8N"
+    },
+    {
+      "album": {
         "name": "Day Like This",
         "url": "https://open.spotify.com/album/6XXha8DIiLzRXNIxFFLpV8"
       },
@@ -5665,6 +5719,24 @@
     },
     {
       "album": {
+        "name": "Faeries",
+        "url": "https://open.spotify.com/album/6k1QSnCsga9PH7RwYiJuDO"
+      },
+      "artists": [
+        {
+          "name": "SHEBAD",
+          "url": "https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278500,
+      "name": "Faeries",
+      "url": "https://open.spotify.com/track/6U8SL8MtdSOgCkru7ujEry"
+    },
+    {
+      "album": {
         "name": "Fairy Tales",
         "url": "https://open.spotify.com/album/6E6z4ShjrNh5ko5f9gGltf"
       },
@@ -7165,6 +7237,24 @@
     },
     {
       "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/5gSypsDx7t3BDOrHBZ0JHO"
+      },
+      "artists": [
+        {
+          "name": "Serenade",
+          "url": "https://open.spotify.com/artist/3pXkGyRhsDavFHyVL9pmoY"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201999,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/2pxutDTmh6dvNUO86PxpBY"
+    },
+    {
+      "album": {
         "name": "Hate",
         "url": "https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv"
       },
@@ -7768,7 +7858,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 178615,
       "name": "Home",
       "url": "https://open.spotify.com/track/1cP6g7lhFx3TjIgQ57JXUi"
@@ -8265,6 +8355,28 @@
     },
     {
       "album": {
+        "name": "ice (feat. BAMBII)",
+        "url": "https://open.spotify.com/album/26MoAtmtvBMP1VP5Oc5uox"
+      },
+      "artists": [
+        {
+          "name": "Ragz Originale",
+          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
+        },
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114081,
+      "name": "ice (feat. BAMBII)",
+      "url": "https://open.spotify.com/track/6hJctn0h0dnTfpijZcK8E9"
+    },
+    {
+      "album": {
         "name": "Iced Tea",
         "url": "https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d"
       },
@@ -8468,6 +8580,28 @@
       "duration_ms": 140434,
       "name": "Imagine That - A COLORS SHOW",
       "url": "https://open.spotify.com/track/18rWb4jmlvu9TyPGS23pyR"
+    },
+    {
+      "album": {
+        "name": "NiiGHTBEFORESERVICE",
+        "url": "https://open.spotify.com/album/3Z78nNMXYqQ6HDaRZ8YaxZ"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        },
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220408,
+      "name": "IMISSTORONTO (Been A While)",
+      "url": "https://open.spotify.com/track/4oMdM1VU3CyuWZpIoB12MM"
     },
     {
       "album": {
@@ -10791,6 +10925,28 @@
     },
     {
       "album": {
+        "name": "handful",
+        "url": "https://open.spotify.com/album/61InI8u58RhlqAfoYmG1gL"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152017,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/76er21ysUhq1Luw6os29vI"
+    },
+    {
+      "album": {
         "name": "Makaveli",
         "url": "https://open.spotify.com/album/00gBmKMQctzkcT0AEDLaBH"
       },
@@ -12402,7 +12558,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 127526,
       "name": "NOSEBLEED",
       "url": "https://open.spotify.com/track/4nKQOCFrY9zJ4LRmvRFEHp"
@@ -14150,7 +14306,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 178825,
       "name": "Pointer du doigt",
       "url": "https://open.spotify.com/track/2ZkSqGFLWlUMwDMgTIaCSQ"
@@ -14580,6 +14736,24 @@
       "duration_ms": 224187,
       "name": "R e s e n t m e n t",
       "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
+    },
+    {
+      "album": {
+        "name": "RACEBACKTOEARTH",
+        "url": "https://open.spotify.com/album/1fB6O9XYxXuh5ZFVjiMi1w"
+      },
+      "artists": [
+        {
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182986,
+      "name": "RACEBACKTOEARTH",
+      "url": "https://open.spotify.com/track/6s3uHntNNuJ9dsRSFKq5zl"
     },
     {
       "album": {
@@ -16164,7 +16338,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 178916,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/4uti0PZJXWZheQCwzn381X"
@@ -17738,7 +17912,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 213304,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/3NbJm0B7ZFAEqhR8Rc3ZFk"
@@ -17888,6 +18062,28 @@
       "duration_ms": 199180,
       "name": "Tell Somebody",
       "url": "https://open.spotify.com/track/1ClHCOX8C1aB9RNtXJrQKO"
+    },
+    {
+      "album": {
+        "name": "Restore",
+        "url": "https://open.spotify.com/album/2Upq0VFnL6M6Q9UlyN8bCx"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239090,
+      "name": "Temple",
+      "url": "https://open.spotify.com/track/66XywM16QAO6Stui0fBEAz"
     },
     {
       "album": {
@@ -18380,7 +18576,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 213501,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/3J3IbLPca66I0gNCxJyhfl"
@@ -18492,7 +18688,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 166584,
       "name": "THINKING OUT LOUD",
       "url": "https://open.spotify.com/track/2gKE5mQyhvORtwetc75NLE"
@@ -20262,7 +20458,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 178027,
       "name": "Who's Gonna",
       "url": "https://open.spotify.com/track/2X3xur7x1K5PYiWrzJfM1O"
@@ -20578,7 +20774,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 192941,
       "name": "WOUND UP",
       "url": "https://open.spotify.com/track/18nH2sfyJKxQKaN2OBQGZi"
@@ -20600,6 +20796,24 @@
       "duration_ms": 150461,
       "name": "WTF",
       "url": "https://open.spotify.com/track/7HLjZNXC0BhteqncIigRX1"
+    },
+    {
+      "album": {
+        "name": "WYL",
+        "url": "https://open.spotify.com/album/6w4ARSVt9PXE7uhBbSDp0b"
+      },
+      "artists": [
+        {
+          "name": "ibxrhm",
+          "url": "https://open.spotify.com/artist/0clPo9vES13IpyWxFEu9DQ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126498,
+      "name": "WYL",
+      "url": "https://open.spotify.com/track/4lGURJcofrRec4JpzIzxZX"
     },
     {
       "album": {

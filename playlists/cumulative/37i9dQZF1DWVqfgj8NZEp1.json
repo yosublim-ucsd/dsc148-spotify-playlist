@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 406920,
       "name": "Come What May",
       "url": "https://open.spotify.com/track/4CY09ZCdgvjtCaw0fGITbN"
@@ -6504,6 +6504,24 @@
       "duration_ms": 252600,
       "name": "Why Did I Choose You",
       "url": "https://open.spotify.com/track/5KT7qJe8KOoafHAkUFWmRd"
+    },
+    {
+      "album": {
+        "name": "Second Wind",
+        "url": "https://open.spotify.com/album/5246UsnGsn1Q1i15dhLzvy"
+      },
+      "artists": [
+        {
+          "name": "John Lee",
+          "url": "https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288442,
+      "name": "Why Was I Born",
+      "url": "https://open.spotify.com/track/7a3aOIigjCBXW34Q1w6gvk"
     },
     {
       "album": {

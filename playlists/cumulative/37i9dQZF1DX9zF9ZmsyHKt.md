@@ -4,12 +4,13 @@
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-215 songs - 12 hr 46 min
+216 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+ Mulheres Pretas](https://open.spotify.com/track/0BRuk2trF5sNjgbC3yTva6) | [Lady Rap](https://open.spotify.com/artist/4qfV25oIIDVFCCYUIG5ODW) | [Algo A Dizer \- Volume 1](https://open.spotify.com/album/0VR7wezO2iOuxiIgrdxfHk) | 3:50 | 2021-10-15 | 2022-07-28 |
 | [100% Feminista](https://open.spotify.com/track/4hLSdyrFDMjRJS3zhU2ZQz) | [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Bandida](https://open.spotify.com/album/57gugEndr41sLF4rRVcUte) | 3:19 | 2021-10-15 |  |
+| [1910](https://open.spotify.com/track/7HKydihmOppbDnnLlSJAbF) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [Nobru Black](https://open.spotify.com/artist/5t7bPHYwPWyUo2J0RBUiy7), [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s), [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq) | [1910](https://open.spotify.com/album/2OpL0wEz7H75Yb62PLNF9g) | 8:37 | 2022-10-07 |  |
 | [50 Reais](https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [50 Reais](https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6) | 3:27 | 2021-10-15 |  |
 | [A Menina Dança](https://open.spotify.com/track/3K1mmD3jyjSp0kruKKAoBl) | [Baby Do Brasil](https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls) | [A Menina Ainda Dança \(Baby Sucessos\)](https://open.spotify.com/album/4FhqrNecbtzv5Ym3gxqITi) | 6:53 | 2021-10-15 |  |
 | [A Mulher do Fim do Mundo](https://open.spotify.com/track/6sbT0r4zqYl0FTK0YcmmWq) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [A Mulher do Fim do Mundo](https://open.spotify.com/album/6pmPFWW4M6YDDDuFeUppDG) | 4:37 | 2021-10-15 | 2022-07-28 |
@@ -96,7 +97,7 @@
 | [Filhas de Iemanjá](https://open.spotify.com/track/766BFJT1PM8HTr4bELcafx) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151) | [Dos Santos](https://open.spotify.com/album/6HhJcF7yFhjgc0uSuPPMVa) | 4:10 | 2021-10-15 | 2022-07-29 |
 | [Fiz Pra Você](https://open.spotify.com/track/3rgn58oPuIZPIZMtlfDLqt) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Rod 3030](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2) | [Fiz Pra Você](https://open.spotify.com/album/6ZtKSZaPPKhP9UN3byPiQu) | 3:17 | 2021-10-15 | 2022-07-20 |
 | [Florescer](https://open.spotify.com/track/1T6QvU1JMup4x4koI3s5EY) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Florescer](https://open.spotify.com/album/4u8IzJipJSQiNrIP1udKHi) | 3:08 | 2021-10-15 | 2022-07-26 |
-| [FLOW](https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [FLOW](https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6) | 3:25 | 2021-10-15 |  |
+| [FLOW](https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [FLOW](https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6) | 3:25 | 2021-10-15 | 2024-07-06 |
 | [Frank Ocean](https://open.spotify.com/track/1YfAhV5hYhxhVdi0sTVh9b) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 2:33 | 2021-10-15 | 2024-04-19 |
 | [Frank Ocean](https://open.spotify.com/track/3BlKOnV53VWByI6pQ7NJyE) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Beijo De Judas](https://open.spotify.com/album/4NCpCNfz0V08DmAhmdtqkD) | 2:33 | 2021-10-15 | 2022-07-26 |
 | [Frevo Mulher](https://open.spotify.com/track/1ePuI28sGPx7ROzKZBRbqS) | [Amelinha](https://open.spotify.com/artist/5hzHutt6DLPzctqvnS6Fdv) | [Frevo Mulher](https://open.spotify.com/album/48nwSoJS9YsQ1f8OotMNUg) | 4:01 | 2021-10-15 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 154537,
+  "num_followers": 154604,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -475,8 +475,8 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Blanco F\u00e1cil",
-        "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
+        "name": "Efecto Domin\u00f3",
+        "url": "https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
         }
       ],
-      "duration_ms": 263838,
-      "name": "Completamente",
-      "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
+      "duration_ms": 217911,
+      "name": "Querer",
+      "url": "https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -639,8 +639,8 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Efecto Domin\u00f3",
-        "url": "https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb"
+        "name": "Blanco F\u00e1cil",
+        "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
         }
       ],
-      "duration_ms": 217911,
-      "name": "Querer",
-      "url": "https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf"
+      "duration_ms": 263838,
+      "name": "Completamente",
+      "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Bengala",
-        "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
-      },
-      "artists": [
-        {
-          "name": "Bengala",
-          "url": "https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Miente",
-      "url": "https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Amador",
         "url": "https://open.spotify.com/album/2IsJL5SdD7FnplHSrlS6A0"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 193840,
       "name": "Amor Sin Fin",
       "url": "https://open.spotify.com/track/5wPsMPU6dTGckf8VLW2fsg"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Bengala",
+        "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
+      },
+      "artists": [
+        {
+          "name": "Bengala",
+          "url": "https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Miente",
+      "url": "https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 295800,
-      "name": "Pesadilla",
-      "url": "https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "LeBaron",
         "url": "https://open.spotify.com/album/1ZROHNWumhnNlEzo69ubgb"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 214280,
       "name": "Exilio",
       "url": "https://open.spotify.com/track/1H93RYiJu5nE7YAfGgO3yJ"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 295800,
+      "name": "Pesadilla",
+      "url": "https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Hola Chicuelos",
+        "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "Al\u00f3",
+      "url": "https://open.spotify.com/track/1bBO92RtVTlJlfxuVaLek8"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "M\u00e9jico M\u00e1xico",
         "url": "https://open.spotify.com/album/70WPUwHcJq2pRObNPByUaV"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 285247,
       "name": "Berl\u00edn",
       "url": "https://open.spotify.com/track/4z55q1ocJQOiSwkFQAdUFO"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Hola Chicuelos",
-        "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
-      },
-      "artists": [
-        {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
-        }
-      ],
-      "duration_ms": 244933,
-      "name": "Al\u00f3",
-      "url": "https://open.spotify.com/track/1bBO92RtVTlJlfxuVaLek8"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Levantate Sakuraba",
-        "url": "https://open.spotify.com/album/1Qbmbt6pxdVfgX8mwCeHGS"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a ",
-          "url": "https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Chubaca Tiene un Secreto",
-      "url": "https://open.spotify.com/track/7KhY4LpnabTWYCoShC9k0Z"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Lluvia",
         "url": "https://open.spotify.com/album/07g3BVeM6QhWXfdLvRLlvy"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 254889,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Levantate Sakuraba",
+        "url": "https://open.spotify.com/album/1Qbmbt6pxdVfgX8mwCeHGS"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a ",
+          "url": "https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Chubaca Tiene un Secreto",
+      "url": "https://open.spotify.com/track/7KhY4LpnabTWYCoShC9k0Z"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Never Greens, Vol. 1",
-        "url": "https://open.spotify.com/album/4MV8h1smFlnTbQtgD3RxKh"
-      },
-      "artists": [
-        {
-          "name": "Los Fancy Free",
-          "url": "https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt"
-        }
-      ],
-      "duration_ms": 241346,
-      "name": "Ja Ja Ja",
-      "url": "https://open.spotify.com/track/4uFn00BDEN9SFt1Ow93yBn"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Sistema Solar",
         "url": "https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 249630,
       "name": "Amorfos",
       "url": "https://open.spotify.com/track/2DmZbYnCLusQ1m20awqYnm"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Never Greens, Vol. 1",
+        "url": "https://open.spotify.com/album/4MV8h1smFlnTbQtgD3RxKh"
+      },
+      "artists": [
+        {
+          "name": "Los Fancy Free",
+          "url": "https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt"
+        }
+      ],
+      "duration_ms": 241346,
+      "name": "Ja Ja Ja",
+      "url": "https://open.spotify.com/track/4uFn00BDEN9SFt1Ow93yBn"
     },
     {
       "added_at": "2023-09-01 16:42:45",

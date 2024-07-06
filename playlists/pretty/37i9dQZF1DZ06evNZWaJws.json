@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Tucanes De Tijuana. Los temas esenciales, todos en una lista.",
-  "num_followers": 305023,
+  "num_followers": 305150,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAAAevxxKpXILlkH1hn8mvtkQ",
+  "snapshot_id": "ZoXmAAAAAAD9eHgqc6TWfWTJj+KZQuPP",
   "tracks": [
     {
       "added_at": null,
@@ -635,18 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Felones - Serie 35",
-        "url": "https://open.spotify.com/album/5BM8L7XrRzfXg4MtUWbmr5"
+        "name": "El \u00c1guila Blanca",
+        "url": "https://open.spotify.com/album/5JejGcuWuFRx2SeuIIXFso"
       },
       "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
         {
           "name": "Los Tucanes De Tijuana",
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 158848,
-      "name": "La Profecia",
-      "url": "https://open.spotify.com/track/0hH5Eo74vpejE5B3JnRSye"
+      "duration_ms": 135882,
+      "name": "El \u00c1guila Blanca",
+      "url": "https://open.spotify.com/track/4z7isLhEqhDj5UAhDBPLNN"
     },
     {
       "added_at": null,
@@ -667,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Primera Plana",
-        "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
+        "name": "Corridos Felones - Serie 35",
+        "url": "https://open.spotify.com/album/5BM8L7XrRzfXg4MtUWbmr5"
       },
       "artists": [
         {
@@ -676,9 +680,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 173386,
-      "name": "El Pesado",
-      "url": "https://open.spotify.com/track/1INJtwan6KATEWHapjTtHZ"
+      "duration_ms": 158848,
+      "name": "La Profecia",
+      "url": "https://open.spotify.com/track/0hH5Eo74vpejE5B3JnRSye"
     },
     {
       "added_at": null,
@@ -699,22 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El \u00c1guila Blanca",
-        "url": "https://open.spotify.com/album/5JejGcuWuFRx2SeuIIXFso"
+        "name": "Corridos De Primera Plana",
+        "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
       },
       "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
         {
           "name": "Los Tucanes De Tijuana",
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 135882,
-      "name": "El \u00c1guila Blanca",
-      "url": "https://open.spotify.com/track/4z7isLhEqhDj5UAhDBPLNN"
+      "duration_ms": 173386,
+      "name": "El Pesado",
+      "url": "https://open.spotify.com/track/1INJtwan6KATEWHapjTtHZ"
     },
     {
       "added_at": null,

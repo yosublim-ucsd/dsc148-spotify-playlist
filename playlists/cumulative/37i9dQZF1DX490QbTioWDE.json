@@ -621,6 +621,28 @@
     },
     {
       "album": {
+        "name": "Arrancarte de M\u00ed",
+        "url": "https://open.spotify.com/album/5mZ6yPIMdL8rii7bT2WBhp"
+      },
+      "artists": [
+        {
+          "name": "Lautaro LR",
+          "url": "https://open.spotify.com/artist/7mC8RpAGrd7HEEXwgJUWK8"
+        },
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179172,
+      "name": "Arrancarte de M\u00ed",
+      "url": "https://open.spotify.com/track/0RxjDDZj47Q0k7nD4aBGsi"
+    },
+    {
+      "album": {
         "name": "Arrasando / Soy Lo Que Me Das",
         "url": "https://open.spotify.com/album/6HKNcLg2AYBEVE9FhCoaUU"
       },
@@ -3679,6 +3701,24 @@
     },
     {
       "album": {
+        "name": "Lejos de Tu Alma",
+        "url": "https://open.spotify.com/album/7tgswzEjX4XkEfgzGs6BhU"
+      },
+      "artists": [
+        {
+          "name": "Sabroso",
+          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197288,
+      "name": "Lejos de Tu Alma",
+      "url": "https://open.spotify.com/track/0ViLNOOz03XlxlOG6NwmZO"
+    },
+    {
+      "album": {
         "name": "Libertad Provisoria",
         "url": "https://open.spotify.com/album/4qQBzFa6K1RLY2YQrfEgjQ"
       },
@@ -4218,10 +4258,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 192483,
       "name": "Me Duele Tu Nombre (En Vivo)",
       "url": "https://open.spotify.com/track/2wZfOHTas2wzIXyp7hquFE"
+    },
+    {
+      "album": {
+        "name": "Me Elijo a Mi",
+        "url": "https://open.spotify.com/album/7r0BC5odLpajUFg2nj6Zgu"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199235,
+      "name": "Me Elijo a Mi",
+      "url": "https://open.spotify.com/track/7etcM3Fw35faeKppqLGKUp"
     },
     {
       "album": {
@@ -4594,7 +4652,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 178943,
       "name": "Mi Otra Mitad",
       "url": "https://open.spotify.com/track/3OYiGZYV6ZoRrqN1mwr1Ie"
@@ -6630,7 +6688,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 155913,
       "name": "Qu\u00e9 Bonito (en vivo Luna Park)",
       "url": "https://open.spotify.com/track/00VddhKPOxqdUzyO7sVtfV"
@@ -7102,6 +7160,24 @@
       "duration_ms": 264237,
       "name": "Si Va A Ser...Ser\u00e1",
       "url": "https://open.spotify.com/track/3R3SF0dXWShukKIaGUli43"
+    },
+    {
+      "album": {
+        "name": "simplemente un ex",
+        "url": "https://open.spotify.com/album/6j7R6pnJKBk2LaTClv5ASB"
+      },
+      "artists": [
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188293,
+      "name": "simplemente un ex",
+      "url": "https://open.spotify.com/track/3dp6bXcjwmNWBSy8nnWxq6"
     },
     {
       "album": {
@@ -8524,7 +8600,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 187573,
       "name": "Voy A Olvidarme De Mi",
       "url": "https://open.spotify.com/track/7At4ts4UEcrRJSP0rR3Q0B"

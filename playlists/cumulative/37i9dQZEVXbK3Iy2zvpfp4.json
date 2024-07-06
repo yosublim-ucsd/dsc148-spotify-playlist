@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 162840,
       "name": "ABCD",
       "url": "https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1"
@@ -6738,7 +6738,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 292373,
       "name": "Champagne Coast",
       "url": "https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0"
@@ -9709,6 +9709,32 @@
     },
     {
       "album": {
+        "name": "Don't Copy My Flow",
+        "url": "https://open.spotify.com/album/3uxZV2XyunoLM15AMYl4au"
+      },
+      "artists": [
+        {
+          "name": "\u0444\u0440\u043e\u0437\u0438",
+          "url": "https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2"
+        },
+        {
+          "name": "Mwizz",
+          "url": "https://open.spotify.com/artist/5bSeeBLmB0lRlEQk02KoeU"
+        },
+        {
+          "name": "George Kipa",
+          "url": "https://open.spotify.com/artist/3ueSDQRME8RZFqJpJUEsxR"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172382,
+      "name": "Don't Copy My Flow",
+      "url": "https://open.spotify.com/track/44HTE9IdjUk01DEAp54amH"
+    },
+    {
+      "album": {
         "name": "Dear Insanity...",
         "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
       },
@@ -12672,7 +12698,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 279316,
       "name": "Fourth of July",
       "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
@@ -18444,7 +18470,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 199512,
       "name": "ITALODISCO",
       "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
@@ -35236,6 +35262,24 @@
       "duration_ms": 123000,
       "name": "Slowdown (girl what's up)",
       "url": "https://open.spotify.com/track/4xexPtg7VSPCf9hM3aZdfZ"
+    },
+    {
+      "album": {
+        "name": "SLUNE\u010cNICE",
+        "url": "https://open.spotify.com/album/18zCZyhRT0KvseZMaMSNj9"
+      },
+      "artists": [
+        {
+          "name": "ALVIN STAR",
+          "url": "https://open.spotify.com/artist/6RwwrEniKycgbmefdr1aGT"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185121,
+      "name": "SLUNE\u010cNICE",
+      "url": "https://open.spotify.com/track/4o1gsL4KUi8LUMkGK0tDyQ"
     },
     {
       "album": {

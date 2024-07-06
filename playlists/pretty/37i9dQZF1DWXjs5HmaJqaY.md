@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,705 likes - 63 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,780 likes - 64 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 7 | [Enjoy Yourself](https://open.spotify.com/track/0CRJG06feSIhls8hfPZgCd) | [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [A.I.](https://open.spotify.com/album/5vNsdIBpV5iNqe8lp2SYoy) | 7:05 |
 | 8 | [Hedonism \- Edit](https://open.spotify.com/track/2NUKjixrloJdybniS27UFx) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Hedonism EP](https://open.spotify.com/album/1wpsJ2flEpL30s7YwJFrtR) | 3:25 |
 | 9 | [So Sweet](https://open.spotify.com/track/7DyqZMCkblbJU6dqlQrnd2) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [So Sweet](https://open.spotify.com/album/5xW1GTPUQjzEW4qfMXBLMG) | 4:18 |
-| 10 | [Long Time](https://open.spotify.com/track/4sckpkCazhIIoZ883A5vF8) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Long Time](https://open.spotify.com/album/4YbNxKeo16NRhviluszpco) | 3:13 |
+| 10 | [The Towers](https://open.spotify.com/track/3aq24LaCBsnIjJawjdRrI9) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [The Towers](https://open.spotify.com/album/5tOv0p1MtgLS2pxf7NeOxm) | 4:23 |
 | 11 | [Infinity \- Edit](https://open.spotify.com/track/1dJHTsfW70khXX06idBw8Q) | [Plasmatique](https://open.spotify.com/artist/0Y53znZSnUq6ytRtwWoTej) | [Infinity](https://open.spotify.com/album/242RRzCcPqBTRe7R34Xl6c) | 3:05 |
 | 12 | [On my Mind](https://open.spotify.com/track/1397ffAEnc6cv4jsESZlPj) | [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [A.I.](https://open.spotify.com/album/5vNsdIBpV5iNqe8lp2SYoy) | 6:34 |
-| 13 | [Space X \- Moritz Hofbauer Remix](https://open.spotify.com/track/2sSmDApYtBmwz8DHQTPbJg) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Space X Remixes](https://open.spotify.com/album/5Ot6YhSxroVnlszZrgx9Q1) | 5:31 |
+| 13 | [Space X \- Bobby Flava Remix](https://open.spotify.com/track/26hHmmAWMPIVlVglfvotiS) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Bobby Flava](https://open.spotify.com/artist/29aImfkgSWV98BbiGlr1p6) | [Space X Remixes](https://open.spotify.com/album/5Ot6YhSxroVnlszZrgx9Q1) | 4:01 |
 | 14 | [Pharaoh](https://open.spotify.com/track/4vSaBN4wJ3q9Ds6FQLHhEY) | [Fritz Rabenstein](https://open.spotify.com/artist/1NLYzK3iw04yEaLt9Ax1mk) | [Pharaoh EP](https://open.spotify.com/album/6jTpXqDzEra9G4AAjKZvBu) | 3:42 |
 | 15 | [Time](https://open.spotify.com/track/57cNAYsgC0pS5cijXwWqNm) | [DSTRTD SGNL](https://open.spotify.com/artist/4ISX2aRyZ10uoLtypdPNai) | [Time](https://open.spotify.com/album/54TFEyda1C12XdXFa4T8Al) | 5:23 |
 | 16 | [Vertigo](https://open.spotify.com/track/3Tnq724aKQ5aVP9lugAMeq) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [Revelation](https://open.spotify.com/album/7CzizuZiWvO6wgTtvqJ1I9) | 4:54 |
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 18 | [Hurt By Envy Cut By Greed](https://open.spotify.com/track/5nITAkOfYqDYK0CbcSeRCG) | [Sikora](https://open.spotify.com/artist/4cKdwlnRYAkd3MFwN4AJvj) | [Shootout](https://open.spotify.com/album/7HYeQOJMgi1HzgQPwvoMLs) | 6:19 |
 | 19 | [In A Blurry World \- Teho Remix](https://open.spotify.com/track/60rFlNI2apIPEOMTz9fRXL) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [In A Blurry World \(Teho Remix\)](https://open.spotify.com/album/55uKvWwpBFVQLY6AtljvPY) | 6:14 |
 | 20 | [Dark City Angels](https://open.spotify.com/track/3QLLqEVbSBL2iOfC6oHOZK) | [Humantronic](https://open.spotify.com/artist/76hRRAuRxt9Ic0ljjHHoLQ) | [Desidero](https://open.spotify.com/album/4NnLjhzrqPqO1aAjQlW6CF) | 6:15 |
-| 21 | [Acid Mixture](https://open.spotify.com/track/73ll72z97lOW0iPIaZsZvR) | [Glitch Molecule](https://open.spotify.com/artist/6B3yPTtrg1DCzQDA2kVVRw) | [Sex](https://open.spotify.com/album/6TCrsnjPcOqxc79wE7BoHc) | 8:15 |
-| 22 | [no one going home](https://open.spotify.com/track/4AYmfKH2kIfZQybd97Qyde) | [shot by stanley](https://open.spotify.com/artist/5jVEGx3UP7jXfHzVoaZOuJ) | [no one going home](https://open.spotify.com/album/4STO8uNkTiKjm6qkbizEVJ) | 5:47 |
-| 23 | [Space X \- Piet Kämpfer Remix](https://open.spotify.com/track/3O5B3UgS7ahxNQQ2sGQ2L3) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Piet Kämpfer](https://open.spotify.com/artist/3V66VR6CiPl3zveio71Q9v) | [Space X Remixes](https://open.spotify.com/album/5Ot6YhSxroVnlszZrgx9Q1) | 5:07 |
+| 21 | [Space X \- Moritz Hofbauer Remix](https://open.spotify.com/track/2sSmDApYtBmwz8DHQTPbJg) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Space X Remixes](https://open.spotify.com/album/5Ot6YhSxroVnlszZrgx9Q1) | 5:31 |
+| 22 | [Acid Mixture](https://open.spotify.com/track/73ll72z97lOW0iPIaZsZvR) | [Glitch Molecule](https://open.spotify.com/artist/6B3yPTtrg1DCzQDA2kVVRw) | [Sex](https://open.spotify.com/album/6TCrsnjPcOqxc79wE7BoHc) | 8:15 |
+| 23 | [no one going home](https://open.spotify.com/track/4AYmfKH2kIfZQybd97Qyde) | [shot by stanley](https://open.spotify.com/artist/5jVEGx3UP7jXfHzVoaZOuJ) | [no one going home](https://open.spotify.com/album/4STO8uNkTiKjm6qkbizEVJ) | 5:47 |
 | 24 | [Tuvan](https://open.spotify.com/track/2qBJgqzTu3isR9gfh78b0c) | [Plasmatique](https://open.spotify.com/artist/0Y53znZSnUq6ytRtwWoTej) | [Tuvan](https://open.spotify.com/album/6ru36qCAGIe8jwRhRVC2ui) | 3:02 |
 | 25 | [Solar Flare \- Edit](https://open.spotify.com/track/7f8QgBiGPzUo0oOFWJNa8m) | [Al\-Faris](https://open.spotify.com/artist/07LrIMW3EHnuoc5us4AGgm), [Andrew Wooden](https://open.spotify.com/artist/2BcpCh7qQg8YDzAQ7XrxG2) | [Solar Flare](https://open.spotify.com/album/54x1liWb99WVZauV6bKMtF) | 3:28 |
 | 26 | [Nocturnal \- Edit](https://open.spotify.com/track/20iF2uPnDuwbeFOsmF9dZC) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Nocturnal \(Edit\)](https://open.spotify.com/album/3yttbWTXJt72VwEfGtFq26) | 4:36 |
@@ -71,5 +71,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 61 | [Good Life \- Inner City Edit of Carl Craig Remix](https://open.spotify.com/track/5oHZkmXPUVU9nX0b9xW2iL) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [30 Years EP](https://open.spotify.com/album/7H8d96hgtZ7Q44M5ZtJMhZ) | 3:15 |
 | 62 | [Typerope \- Original Mix](https://open.spotify.com/track/6EEcPi3jwGYlG7BdMlnf42) | [Mathew Jonson](https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71) | [Typerope EP](https://open.spotify.com/album/7GeBsbuHAU7CfzNmCMaotz) | 8:10 |
 | 63 | [The House Of House \- Original Remastered Mix](https://open.spotify.com/track/28RwoHEeQbQn4VYZb1ezTZ) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [20 Years Bonzai](https://open.spotify.com/album/2SGPVcsd9IoDoY4Cmea0Vx) | 7:35 |
+| 64 | [Long Time](https://open.spotify.com/track/4sckpkCazhIIoZ883A5vF8) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Long Time](https://open.spotify.com/album/4YbNxKeo16NRhviluszpco) | 3:13 |
 
-Snapshot ID: `ZoKW0QAAAACqpQ/AlDQx8snyisjnlPRX`
+Snapshot ID: `ZofiHwAAAABGPt7FIFTrr1UzSqXBVjTt`

@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Tony Trischka",
-  "num_followers": 162189,
+  "num_followers": 162206,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Squareneck Soul",
-        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
-      },
-      "artists": [
-        {
-          "name": "Andy Hall",
-          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
-        }
-      ],
-      "duration_ms": 149346,
-      "name": "Squareneck Soul",
-      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Get Lost",
         "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 267954,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Squareneck Soul",
+        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
+      },
+      "artists": [
+        {
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
+        }
+      ],
+      "duration_ms": 149346,
+      "name": "Squareneck Soul",
+      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
         "name": "For Your Love",
         "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 306440,
       "name": "For Your Love",
       "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1139,38 +1139,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Into the Fire",
-        "url": "https://open.spotify.com/album/11VbCENTERIqVpyGyBzZDT"
-      },
-      "artists": [
-        {
-          "name": "Yonder Mountain String Band",
-          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
-        }
-      ],
-      "duration_ms": 158779,
-      "name": "Into the Fire",
-      "url": "https://open.spotify.com/track/0RjqoAsp5jmUVliLaCWuvt"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
-        "name": "Authentic Unlimited",
-        "url": "https://open.spotify.com/album/4jAGbUaqVKU00V2JpV2Izn"
-      },
-      "artists": [
-        {
-          "name": "Authentic Unlimited",
-          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Long Gone",
-      "url": "https://open.spotify.com/track/2Qgq33OeGVBY3FjZI3LxWc"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Trapper's Attic",
         "url": "https://open.spotify.com/album/1nepXC3JRZ1OfdoTByMKqJ"
       },
@@ -1191,6 +1159,38 @@
       "duration_ms": 302000,
       "name": "Idaho Mountain Song",
       "url": "https://open.spotify.com/track/1mj8ViehGEsL6qR385CD0W"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Authentic Unlimited",
+        "url": "https://open.spotify.com/album/4jAGbUaqVKU00V2JpV2Izn"
+      },
+      "artists": [
+        {
+          "name": "Authentic Unlimited",
+          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/2Qgq33OeGVBY3FjZI3LxWc"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Into the Fire",
+        "url": "https://open.spotify.com/album/11VbCENTERIqVpyGyBzZDT"
+      },
+      "artists": [
+        {
+          "name": "Yonder Mountain String Band",
+          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+        }
+      ],
+      "duration_ms": 158779,
+      "name": "Into the Fire",
+      "url": "https://open.spotify.com/track/0RjqoAsp5jmUVliLaCWuvt"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Tiny Wooden Box",
-        "url": "https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850"
-      },
-      "artists": [
-        {
-          "name": "The Dead South",
-          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
-        }
-      ],
-      "duration_ms": 247813,
-      "name": "Tiny Wooden Box",
-      "url": "https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "+ 1",
         "url": "https://open.spotify.com/album/0WerA63tJFged7ZimsZGxZ"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Reason To Believe",
-        "url": "https://open.spotify.com/album/4e0ipEnmu8sMBeISv4RGrn"
+        "name": "Tiny Wooden Box",
+        "url": "https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850"
       },
       "artists": [
         {
-          "name": "The Seldom Scene",
-          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
         }
       ],
-      "duration_ms": 173688,
-      "name": "Reason To Believe",
-      "url": "https://open.spotify.com/track/7eYu7mpSO3ReYrPM2Hyg72"
+      "duration_ms": 247813,
+      "name": "Tiny Wooden Box",
+      "url": "https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
+        "name": "Reason To Believe",
+        "url": "https://open.spotify.com/album/4e0ipEnmu8sMBeISv4RGrn"
+      },
+      "artists": [
+        {
+          "name": "The Seldom Scene",
+          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
+        }
+      ],
+      "duration_ms": 173688,
+      "name": "Reason To Believe",
+      "url": "https://open.spotify.com/track/7eYu7mpSO3ReYrPM2Hyg72"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/7h6jcDbRnEgGckNmHETnxS"
       },
@@ -1315,22 +1315,6 @@
       "duration_ms": 236000,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/1O3PgBXag8FXqk0s7gFQ3A"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
-        "name": "Big City",
-        "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
-      },
-      "artists": [
-        {
-          "name": "Joe Mullins & The Radio Ramblers",
-          "url": "https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17"
-        }
-      ],
-      "duration_ms": 171055,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1395,6 +1379,42 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
+        "name": "Mr. Charlie",
+        "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        },
+        {
+          "name": "Josh Shilling",
+          "url": "https://open.spotify.com/artist/2aaOHInTP3KKRiOdfl0TiE"
+        }
+      ],
+      "duration_ms": 273627,
+      "name": "Mr. Charlie",
+      "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Big City",
+        "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
+      },
+      "artists": [
+        {
+          "name": "Joe Mullins & The Radio Ramblers",
+          "url": "https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17"
+        }
+      ],
+      "duration_ms": 171055,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
         "name": "White Line Fever",
         "url": "https://open.spotify.com/album/5h6xmbk0GucwMFn6M6irAL"
       },
@@ -1435,26 +1455,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Mr. Charlie",
-        "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
-      },
-      "artists": [
-        {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
-        },
-        {
-          "name": "Josh Shilling",
-          "url": "https://open.spotify.com/artist/2aaOHInTP3KKRiOdfl0TiE"
-        }
-      ],
-      "duration_ms": 273627,
-      "name": "Mr. Charlie",
-      "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
       },
@@ -1483,6 +1483,30 @@
       "duration_ms": 222302,
       "name": "Disarm",
       "url": "https://open.spotify.com/track/28mgF3i1YsF7Vn9HZJl9rj"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Lovin' Of The Game",
+        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
+      },
+      "artists": [
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        },
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        },
+        {
+          "name": "Jeff White",
+          "url": "https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "Sunny Days (Are Comin' Once Again)",
+      "url": "https://open.spotify.com/track/1YvyvvCAgGxxxg5RFG7sL8"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1523,30 +1547,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Lovin' Of The Game",
-        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
-      },
-      "artists": [
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        },
-        {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
-        },
-        {
-          "name": "Jeff White",
-          "url": "https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "Sunny Days (Are Comin' Once Again)",
-      "url": "https://open.spotify.com/track/1YvyvvCAgGxxxg5RFG7sL8"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Kinetic Tone",
         "url": "https://open.spotify.com/album/0rzsm2eUbu7i7gR2rFiCKX"
       },
@@ -1559,22 +1559,6 @@
       "duration_ms": 292000,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/5Pa5e2bklYYT44kgVwoHCF"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
-        "name": "Highs and Lows",
-        "url": "https://open.spotify.com/album/6gsuZrOn3AeGlxaREdp5HZ"
-      },
-      "artists": [
-        {
-          "name": "Hogslop String Band",
-          "url": "https://open.spotify.com/artist/4BATXGCjpDls0URO3Pt1kO"
-        }
-      ],
-      "duration_ms": 256997,
-      "name": "Highs and Lows",
-      "url": "https://open.spotify.com/track/1GMidgnsaRuVFbm3T3DLEm"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
+        "name": "Highs and Lows",
+        "url": "https://open.spotify.com/album/6gsuZrOn3AeGlxaREdp5HZ"
+      },
+      "artists": [
+        {
+          "name": "Hogslop String Band",
+          "url": "https://open.spotify.com/artist/4BATXGCjpDls0URO3Pt1kO"
+        }
+      ],
+      "duration_ms": 256997,
+      "name": "Highs and Lows",
+      "url": "https://open.spotify.com/track/1GMidgnsaRuVFbm3T3DLEm"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
         "name": "Brand New Day",
         "url": "https://open.spotify.com/album/0nOo0LwXS3wb3Mkj0bOhyB"
       },
@@ -1607,6 +1607,22 @@
       "duration_ms": 204106,
       "name": "Fire Song",
       "url": "https://open.spotify.com/track/6JW7S2jU3rnm9rQmbOzdIY"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Murmurations, Vol. 2",
+        "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
+      },
+      "artists": [
+        {
+          "name": "Birds of Play",
+          "url": "https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC"
+        }
+      ],
+      "duration_ms": 279506,
+      "name": "Sandhill Cranes",
+      "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1643,22 +1659,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Murmurations, Vol. 2",
-        "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
-      },
-      "artists": [
-        {
-          "name": "Birds of Play",
-          "url": "https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC"
-        }
-      ],
-      "duration_ms": 279506,
-      "name": "Sandhill Cranes",
-      "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Heartbreak Train",
         "url": "https://open.spotify.com/album/3eUKVLMOhOOLvyvffz7vY0"
       },
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Blues of the Night",
-        "url": "https://open.spotify.com/album/7xZO2VJHf9KJkB5OkbP8qf"
-      },
-      "artists": [
-        {
-          "name": "Lonesome River Band",
-          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Blues of the Night",
-      "url": "https://open.spotify.com/track/6kIPJSV6Z6Pixo7RQRjwYP"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Just Let Me Know",
         "url": "https://open.spotify.com/album/6bfTQn4NFP7pDjwNqcJPpg"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 168000,
       "name": "Just Let Me Know",
       "url": "https://open.spotify.com/track/6YwqHK6OUiTvkcKNnH48nZ"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Blues of the Night",
+        "url": "https://open.spotify.com/album/7xZO2VJHf9KJkB5OkbP8qf"
+      },
+      "artists": [
+        {
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Blues of the Night",
+      "url": "https://open.spotify.com/track/6kIPJSV6Z6Pixo7RQRjwYP"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Hey Blue Eyed Girl",
-        "url": "https://open.spotify.com/album/0iejH3OR2VXe7lsYrxH8AP"
+        "name": "Mary Ann is a Pistol",
+        "url": "https://open.spotify.com/album/4ELCAWPMPJn0WhWa1rbM0z"
       },
       "artists": [
         {
-          "name": "Cody Sherman",
-          "url": "https://open.spotify.com/artist/5BCBTcz3o3Uv5KRTHSSCsa"
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
         }
       ],
-      "duration_ms": 154720,
-      "name": "Hey Blue Eyed Girl",
-      "url": "https://open.spotify.com/track/17Nj11TnEg5iOs7hOWvQ8k"
+      "duration_ms": 161333,
+      "name": "Mary Ann is a Pistol",
+      "url": "https://open.spotify.com/track/7A79xett0AOEe8NVpMC2bg"
     }
   ],
   "unique_name": "Grass Roots",

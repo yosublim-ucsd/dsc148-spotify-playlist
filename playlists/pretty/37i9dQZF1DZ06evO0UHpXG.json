@@ -1,12 +1,12 @@
 {
-  "description": "This is Mot\u00f6rhead. The essential tracks, all in one playlist.",
-  "num_followers": 191237,
+  "description": "This is Mot\u00f6rhead. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 191294,
   "original_name": "This Is Mot\u00f6rhead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAABhUCwshFg80uyGFdQFq6tk",
+  "snapshot_id": "ZoXmAAAAAACNHlcTl2poftBxDCAB96Gc",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1916",
-        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 149026,
-      "name": "Going To Brazil",
-      "url": "https://open.spotify.com/track/63cQrvazYCVTQgWiOWKUPr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock N' Roll (Expanded Edition)",
         "url": "https://open.spotify.com/album/0Ghu8Pkq9lSZTQkmYcf3uU"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 274440,
       "name": "Eat the Rich",
       "url": "https://open.spotify.com/track/6WcyOskUC1L0ZyHgkPDc7V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1916",
+        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 149026,
+      "name": "Going To Brazil",
+      "url": "https://open.spotify.com/track/63cQrvazYCVTQgWiOWKUPr"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Overkill (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 176360,
-      "name": "(I Won't) Pay Your Price",
-      "url": "https://open.spotify.com/track/3Y7Oo8QVUKqVLU4ojeWkun"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Orgasmatron",
         "url": "https://open.spotify.com/album/4bVbdsl3q1Bnsn6Eq8MKJI"
       },
@@ -743,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under C\u00f6ver",
-        "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
+        "name": "Overkill (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
       },
       "artists": [
         {
@@ -752,9 +736,9 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 199249,
-      "name": "Jumpin' Jack Flash",
-      "url": "https://open.spotify.com/track/723GhiDQytwyF7NYX6MyuH"
+      "duration_ms": 176360,
+      "name": "(I Won't) Pay Your Price",
+      "url": "https://open.spotify.com/track/3Y7Oo8QVUKqVLU4ojeWkun"
     },
     {
       "added_at": null,
@@ -771,6 +755,22 @@
       "duration_ms": 174653,
       "name": "Burner",
       "url": "https://open.spotify.com/track/4tNx0zCy4Ujs7b5IufkjQb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Under C\u00f6ver",
+        "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 199249,
+      "name": "Jumpin' Jack Flash",
+      "url": "https://open.spotify.com/track/723GhiDQytwyF7NYX6MyuH"
     },
     {
       "added_at": null,

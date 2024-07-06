@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8cV4ZaSfaxp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8cV4ZaSfaxp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8cV4ZaSfaxp)
 
-### [City Pop Korea \(한국 씨티팝\)](https://open.spotify.com/playlist/37i9dQZF1DX8cV4ZaSfaxp)
+### [서울 씨티팝 \(Seoul City Pop\)](https://open.spotify.com/playlist/37i9dQZF1DX8cV4ZaSfaxp)
 
-> A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: Taeha\(태하\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
+> 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
 329 songs - 20 hr 22 min
 

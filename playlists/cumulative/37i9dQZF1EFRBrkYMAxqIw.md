@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-117 songs - 6 hr 9 min
+118 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Party In My Mind](https://open.spotify.com/track/6AyYs7KHYGCnb1262KBKoq) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Party In My Mind](https://open.spotify.com/album/32935YTcbtHICTMQAzpYdv) | 2:39 | 2022-05-25 |  |
 | [Peace of Mind](https://open.spotify.com/track/4K0d1T6SUO9Ji9vyXl657d) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Peace of Mind](https://open.spotify.com/album/2hrhHhcevl0g70FBgynmIh) | 2:57 | 2022-10-18 |  |
 | [Peace of Mind](https://open.spotify.com/track/7eAwdGGl9sihvZtvomgz9l) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Peace of Mind](https://open.spotify.com/album/6D0GK3nbND87zH81x0Unqr) | 2:57 | 2022-05-25 | 2022-10-19 |
+| [Perfect People](https://open.spotify.com/track/6jN3D2VW4f7DQVNGLbmgsu) | [PBH & JACK](https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl), [Robin Grubert](https://open.spotify.com/artist/2iv63DstBtfPKPOq7vL7cS) | [Perfect People](https://open.spotify.com/album/5HLbNPO9y18zYws3ve0Bfr) | 3:29 | 2024-07-05 |  |
 | [PICK YOUR POISON \(feat\. Stormzy\)](https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 2:44 | 2023-04-05 |  |
 | [Planet](https://open.spotify.com/track/1DD7BCsexlwDHYm6o6KBDo) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Planet](https://open.spotify.com/album/1r975QemC2LPmOoC35VjtE) | 2:12 | 2022-12-13 |  |
 | [Queen Of The Night \- From The Voice Of Germany](https://open.spotify.com/track/5idzZY9eDzlh4JbZqVHgei) | [Mary Summer](https://open.spotify.com/artist/5JPLyJCt5tWeHZc33Rs7OD) | [Queen Of The Night \(From The Voice Of Germany\)](https://open.spotify.com/album/6DvJhjNeDzqdqTCkQ7BpOO) | 3:53 | 2022-05-25 |  |
@@ -110,7 +111,7 @@
 | [Switching Gears](https://open.spotify.com/track/4gIGodi4ksOcavBosvDHRr) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [This Is Wulf](https://open.spotify.com/album/7BIbiX7wrPRaXuJ2RZ37kK) | 3:02 | 2022-05-25 |  |
 | [Tiger Style](https://open.spotify.com/track/0l5SV9KzArEMV03rqHA9yM) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [Tiger Style](https://open.spotify.com/album/52G03cQ20MDAhIPhlKKooV) | 2:13 | 2023-06-02 | 2023-06-26 |
 | [Tiger Style](https://open.spotify.com/track/2vDpTwmngMfXaLIbDFtNfi) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [Tiger Style](https://open.spotify.com/album/2XV8XjeCKE2aMXKBeTRhHJ) | 2:13 | 2023-06-25 |  |
-| [Touching Air](https://open.spotify.com/track/0x7G7lYj8CVe0pSJ8JsxCO) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 3:33 | 2022-05-25 | 2024-07-04 |
+| [Touching Air](https://open.spotify.com/track/0x7G7lYj8CVe0pSJ8JsxCO) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 3:33 | 2022-05-25 |  |
 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 | 2022-05-25 |  |
 | [Up for Love \(with Camidoh\)](https://open.spotify.com/track/31y8tN8uY5KVp8Z6rUwoJg) | [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Up for Love \(with Camidoh\)](https://open.spotify.com/album/00G8A8CXRkg9PPTIHmrsIn) | 2:38 | 2023-08-08 |  |
 | [We Are Love](https://open.spotify.com/track/2MEkDq4Rl17FXDWK5JKsVX) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [We Are Love](https://open.spotify.com/album/6pp6Rn3GK8hmtFIPNkhR3n) | 3:09 | 2022-05-25 |  |

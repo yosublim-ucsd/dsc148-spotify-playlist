@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,499 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,528 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 57 | [Thinkin of You](https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Thinkin of You](https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6) | 2:17 |
 | 58 | [all around me](https://open.spotify.com/track/40iWD68MUB5VzhA3Ojg2f2) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [all around me](https://open.spotify.com/album/0qJcw1a1aPBVLojxSBblC5) | 3:44 |
 | 59 | [Lay It On The Line](https://open.spotify.com/track/6Vaj44ivQoT7np1gHCFik0) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Lay It On The Line](https://open.spotify.com/album/4rmqHr3NzJTf5krmooYend) | 4:38 |
-| 60 | [Lovesome](https://open.spotify.com/track/6563duTX83eTMkc2AGETfE) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Peaky Beats](https://open.spotify.com/artist/1QEUzOmKdCmakEgcatckZd) | [Business As Usual EP](https://open.spotify.com/album/30URyJrwzIsoabTOMRncJw) | 4:33 |
+| 60 | [Crush](https://open.spotify.com/track/1SZU8VVD6rpnvbcVZBDPJb) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Crush](https://open.spotify.com/album/6ZJLgBGDiuxT9t4CCS76ML) | 3:11 |
 
 Snapshot ID: `Zoc3vAAAAAD2GbDfZRV5Nqet9ZIRzFVd`

@@ -1721,6 +1721,28 @@
     },
     {
       "album": {
+        "name": "Gulzar",
+        "url": "https://open.spotify.com/album/6hN4c25T3ZWXjpjNjwW5iD"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        },
+        {
+          "name": "Subhi",
+          "url": "https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189426,
+      "name": "Gulzar",
+      "url": "https://open.spotify.com/track/0qkXvj4p0hZ3ETGl1r8ULV"
+    },
+    {
+      "album": {
         "name": "Gypsy",
         "url": "https://open.spotify.com/album/3xdZxmCjLG3LInVjizK8k5"
       },

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-150 songs - 9 hr 22 min
+151 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Leave](https://open.spotify.com/track/0EoKAD9I7OOOohRmmVvtIT) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [One](https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ) | 3:07 | 2022-12-13 | 2023-06-08 |
 | [Lenggang Puspita](https://open.spotify.com/track/0mB5VPfAyvtBJnqw8pcFAA) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Lenggang Puspita](https://open.spotify.com/album/4LnLFxcpm4PUDYRa3nHdft) | 4:51 | 2022-12-13 |  |
 | [Lepas Berdansa](https://open.spotify.com/track/0IzuVV47KPKT0ejyaKLQaT) | [Agatha Pricilla](https://open.spotify.com/artist/5j6EloCQDnZmMP3k6pATOd), [Mondo Gascaro](https://open.spotify.com/artist/6x92tfaXHuPBctPxrfTeMY) | [Cipta di Batas Rasa / Lepas Berdansa](https://open.spotify.com/album/1jdYQWbLFxrTX6aHyHDfgj) | 4:06 | 2022-12-13 | 2024-02-01 |
-| [LESTARI MERDU](https://open.spotify.com/track/4SehVxkRW1gi0mOPCvxlmi) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [+62](https://open.spotify.com/album/42LLrtJK1RfPRiZqDyswlk) | 4:47 | 2022-12-13 |  |
+| [LESTARI MERDU](https://open.spotify.com/track/4SehVxkRW1gi0mOPCvxlmi) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [+62](https://open.spotify.com/album/42LLrtJK1RfPRiZqDyswlk) | 4:47 | 2022-12-13 | 2024-07-06 |
 | [Lifetime \(Dimension\)](https://open.spotify.com/track/4xI9phV5erN5I7cMC00VTU) | [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO), [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Green Banana](https://open.spotify.com/album/2h4MnsFmmZdXsqXqPESDc8) | 3:36 | 2023-09-20 | 2023-11-16 |
 | [love for u \(❤️4U\)](https://open.spotify.com/track/1cU7aqkCntWTZVcMusnHp1) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [love for u \(❤️4U\)](https://open.spotify.com/album/2mHmxlzaXf0yEuab0Up6wq) | 2:32 | 2024-01-31 | 2024-05-07 |
 | [MAMONEY](https://open.spotify.com/track/6wWzU1FELh7ioiuQtMZ7NA) | [Natasha Udu](https://open.spotify.com/artist/5788KAWYDqWlejC63W92S7) | [MAMONEY](https://open.spotify.com/album/5j8kr0to3ALKqG9K8knJZD) | 3:04 | 2022-12-13 | 2023-11-16 |
@@ -129,6 +129,7 @@
 | [Rusuk](https://open.spotify.com/track/6fEOGx8QEljOO88YuzgemL) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk](https://open.spotify.com/album/4cLrMz5zfE7JgxDLylxbvt) | 4:15 | 2024-02-01 |  |
 | [Samba Di Kota](https://open.spotify.com/track/1Sj8vwRdJRDgOws3XRmyCM) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Samba Di Kota](https://open.spotify.com/album/7plglO6ToXm07DcGE6IW6k) | 4:30 | 2022-12-13 | 2023-11-16 |
 | [Sampai Kapan](https://open.spotify.com/track/2yhr89m0E7V16xOB3fRdF1) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Magnolya](https://open.spotify.com/album/3yUBpUAsQeuAu9R86wiukG) | 3:58 | 2022-12-13 | 2023-06-08 |
+| [Satu Mimpiku](https://open.spotify.com/track/34M7BB5zhcLbuXec2Mbggv) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [The Groove](https://open.spotify.com/artist/4k9NyPZz7zajxboTKM17qa) | [Kuingin](https://open.spotify.com/album/4ETmD2ooVCjpVhjNNBNuUG) | 4:19 | 2024-07-05 |  |
 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 | 2022-12-13 |  |
 | [Selalu Bersama](https://open.spotify.com/track/4E0Ib1Xfhr15mQU6BNShSp) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Selalu Bersama](https://open.spotify.com/album/0nZF3NgXbl8qj7exGx9AtP) | 3:25 | 2022-12-13 | 2023-12-07 |
 | [Selamat Pagi](https://open.spotify.com/track/493V5dhXECdFJ7SBqOsybH) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [RAN For Your Life](https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8) | 3:54 | 2022-12-13 | 2024-04-19 |

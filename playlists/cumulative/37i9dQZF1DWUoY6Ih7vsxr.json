@@ -376,7 +376,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 207466,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/2IrmdHJjwBH1pFIMcTJ1xq"
@@ -1449,7 +1449,7 @@
     },
     {
       "album": {
-        "name": "Give It To Me (2)",
+        "name": "Give It To Me",
         "url": "https://open.spotify.com/album/1nErNFyYvHnuCYvfwrMyoz"
       },
       "artists": [
@@ -3914,6 +3914,24 @@
       "duration_ms": 208160,
       "name": "The Way U Are",
       "url": "https://open.spotify.com/track/2zFaPaROQ6Md5950lSalpd"
+    },
+    {
+      "album": {
+        "name": "BLAQ% Version",
+        "url": "https://open.spotify.com/album/7xGuN3N0aeOm5ccTvk9iay"
+      },
+      "artists": [
+        {
+          "name": "MBLAQ",
+          "url": "https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231354,
+      "name": "This Is War",
+      "url": "https://open.spotify.com/track/4PtuwgcMvho64Mhq8HiOZD"
     },
     {
       "album": {

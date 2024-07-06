@@ -2,9 +2,9 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 ERRE en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Ismael CM, Adrian L Santos, Calle 24 en portada.
 
-334 songs - 18 hr 39 min
+335 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Mil Horas](https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:16 | 2022-11-25 | 2023-04-29 |
 | [Mil Pedazos](https://open.spotify.com/track/2Mi5BLsctdUzadFCTbhSQC) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Mil Pedazos](https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF) | 3:01 | 2023-10-06 | 2023-12-23 |
 | [MILES DE ROSAS](https://open.spotify.com/track/0N9YbdsoDv3SwT8wt4S5rT) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 4:11 | 2023-10-06 |  |
+| [MIRAA](https://open.spotify.com/track/2TTCzngTprmJJGlmkeM5HR) | [Ismael CM](https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [MIRAA](https://open.spotify.com/album/5y9gU5iaqGy61GUeANXwLu) | 3:08 | 2024-07-05 |  |
 | [Modelo](https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Modelo](https://open.spotify.com/album/52nBpElr412dXlW6NU4aEV) | 4:25 | 2024-03-08 |  |
 | [MODO DEPRE :\(](https://open.spotify.com/track/2U27fF38cgWIPsfoMDuYQD) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:19 | 2022-05-06 | 2022-06-11 |
 | [Nada es Igual](https://open.spotify.com/track/3ExycM3hsqRMC4FAOcFT9k) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Nada es Igual](https://open.spotify.com/album/3cRTveeXfjce0BqnFDcped) | 2:25 | 2024-01-26 | 2024-04-06 |
@@ -289,7 +290,7 @@
 | [Terminaste Perdiendo](https://open.spotify.com/track/6MUOoy2N11fdY9SSLujiyh) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Terminaste Perdiendo](https://open.spotify.com/album/3jrWrC8ThBb1TQejK14n0v) | 4:18 | 2022-06-24 | 2022-07-23 |
 | [Termine Sufriendo](https://open.spotify.com/track/79A1VwJknwHTh2105djsQm) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:15 | 2023-04-28 | 2023-06-10 |
 | [Tiempo](https://open.spotify.com/track/4hupfKQFsQuj55bMNMbk4r) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Tiempo](https://open.spotify.com/album/0YK6koGYXva8aceQpman6H) | 2:21 | 2021-12-17 | 2022-08-06 |
-| [Tocarte y Besarte](https://open.spotify.com/track/3PPus37qOodRA7eDQwc56E) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Tocarte y Besarte](https://open.spotify.com/album/3IIIBmE589z8KUkGLFqeLT) | 3:08 | 2024-05-17 |  |
+| [Tocarte y Besarte](https://open.spotify.com/track/3PPus37qOodRA7eDQwc56E) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Tocarte y Besarte](https://open.spotify.com/album/3IIIBmE589z8KUkGLFqeLT) | 3:08 | 2024-05-17 | 2024-07-06 |
 | [Todavia](https://open.spotify.com/track/0Aexh6qBGuMRnxZQpcaNoa) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf), [Inquieto Liniaje](https://open.spotify.com/artist/0cBkLUqMmgdTFWf2INvqSV) | [Todavia](https://open.spotify.com/album/1Nqdpy5j3juTdK90Gbo2Bo) | 2:45 | 2024-01-15 | 2024-02-17 |
 | [Todo Es Diferente](https://open.spotify.com/track/7ppXlZ2376a0Ci6fxJB1br) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [Todo Es Diferente](https://open.spotify.com/album/2c0I79Gj9Q8SzwxFIENA3a) | 3:34 | 2023-07-14 | 2023-09-09 |
 | [Tomando](https://open.spotify.com/track/1CGht82S5X0ZZiEqDaFdGI) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Tomando](https://open.spotify.com/album/1f8bw9BkGoBWH0eHFHI0b2) | 3:19 | 2024-04-26 | 2024-06-08 |

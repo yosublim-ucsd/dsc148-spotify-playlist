@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-617 songs - 1 day 19 hr 10 min
+618 songs - 1 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Dark Moon](https://open.spotify.com/track/2qKZuu7zSMKoSiM7vE58Ez) | [MeSo](https://open.spotify.com/artist/6JWiO1GpBwxybssaf6OUJe), [Kurei](https://open.spotify.com/artist/4vhBj1tAmj0jreQyGM7s9W) | [Dark Moon](https://open.spotify.com/album/1T8N40MFM6T28qUNI9Pun5) | 2:01 | 2024-02-16 |  |
 | [Dark Wing](https://open.spotify.com/track/6pBqdX2uWt9fZOLZ5tnz6w) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [Dark Wing](https://open.spotify.com/album/52RrqDeEPeiA5JWrnLWIb8) | 3:37 | 2022-06-03 | 2024-05-11 |
 | [Darkness Interim](https://open.spotify.com/track/0yFjx1pX9fDhREx0NZjoyL) | [Deadcrow](https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE) | [Darkness Interim](https://open.spotify.com/album/4x0qmzoQosyWmx4GtnwWlq) | 3:12 | 2022-09-02 | 2023-07-12 |
-| [Dead Meat](https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE) | [Esseks](https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ), [tiedye ky](https://open.spotify.com/artist/7cLPkazOF3m109B7KBT37x) | [Dead Meat](https://open.spotify.com/album/4z176xDdgu7rn2pP2WwfIZ) | 2:45 | 2023-08-18 |  |
+| [Dead Meat](https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE) | [Esseks](https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ), [tiedye ky](https://open.spotify.com/artist/7cLPkazOF3m109B7KBT37x) | [Dead Meat](https://open.spotify.com/album/4z176xDdgu7rn2pP2WwfIZ) | 2:45 | 2023-08-18 | 2024-07-06 |
 | [Death Row](https://open.spotify.com/track/7GLQdG2KbAA7VXPtkj9RTO) | [Madcore](https://open.spotify.com/artist/1271NVXrouqOPPxx8K5TUP), [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [Death Row](https://open.spotify.com/album/7zSGRoJPUYKU4xxUCm3xr5) | 2:54 | 2023-02-17 | 2023-07-06 |
 | [Deep Fall](https://open.spotify.com/track/4tLbTzUXzzuz6EGU7wb3aU) | [ERBES](https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk) | [Al Controlled](https://open.spotify.com/album/3ejog3FXoAW8lOwIzHcr0V) | 3:08 | 2023-01-06 | 2023-02-27 |
 | [Deep Fall](https://open.spotify.com/track/5j7p02mLq0q7FWcePhzZeJ) | [ERBES](https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk) | [Al Controlled](https://open.spotify.com/album/61HwK93KgSfmCsbL1uqvDT) | 3:08 | 2023-02-17 | 2024-03-23 |
@@ -206,6 +206,7 @@
 | [Ghost Castle](https://open.spotify.com/track/0dJMeuSxovXw4jnrN3BC98) | [Reso](https://open.spotify.com/artist/4tgLpC6rPhMSBH6hKgUVrj) | [Hatched 27](https://open.spotify.com/album/76HHvV4JYCLD4h5GOcix6g) | 4:00 | 2022-07-08 | 2024-03-16 |
 | [Ghost Castle](https://open.spotify.com/track/2sRnZidMzDTnwTX2EIfdfa) | [Reso](https://open.spotify.com/artist/4tgLpC6rPhMSBH6hKgUVrj) | [Hatched 27](https://open.spotify.com/album/0tO62Y8WIDRZG2mCFRpNpm) | 4:00 | 2022-02-17 | 2022-07-29 |
 | [Ghost Talk](https://open.spotify.com/track/6FooBZcIyC5NOjivPZQvbx) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Substrada](https://open.spotify.com/artist/1c27zyfou3LpncKmjvbtLd) | [Ghost Talk / Tusk](https://open.spotify.com/album/579NIcHU4u4K2nUBPqaiVF) | 5:01 | 2023-01-06 | 2023-02-01 |
+| [Ghoul](https://open.spotify.com/track/53ICazVbw0uQNOBnUff09a) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Monomyth](https://open.spotify.com/album/3snB2cQcZUkFYS1aawRQm9) | 3:05 | 2024-07-05 |  |
 | [Gimidah](https://open.spotify.com/track/7bhxpYCqZ2W3bf6mTYt5u0) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Gimidah](https://open.spotify.com/album/69cgoc6VHLgWhrfLuCQX0M) | 3:57 | 2022-09-30 | 2024-04-27 |
 | [Gimme](https://open.spotify.com/track/0PyX0nNJjFCGPIMrlXUN1U) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Gimme](https://open.spotify.com/album/5CtuvqCkEu11jscm6KkU7t) | 2:52 | 2024-05-10 |  |
 | [Global](https://open.spotify.com/track/3CuNX6KlrDFxBcwFp1NRwY) | [Egoless](https://open.spotify.com/artist/06kZZb0f2O9zUfFrkI7rKg) | [Decolonize](https://open.spotify.com/album/3Sz2i96qNwnlevouWxbeNz) | 6:27 | 2022-07-08 | 2024-04-05 |
@@ -386,7 +387,7 @@
 | [Paradisius](https://open.spotify.com/track/3Rbs2FjHW5RdpNW3mfdUm8) | [CJ Broad](https://open.spotify.com/artist/6KvQZNIPCsdqw8zLV2w4AV), [Oxidia](https://open.spotify.com/artist/6mFF0UJS77vtqd8RKYXTjK) | [Eventually](https://open.spotify.com/album/3330jVvbXSjdT8vlQx2zHf) | 5:05 | 2022-02-17 | 2022-04-09 |
 | [Parsley Tea](https://open.spotify.com/track/333rUt9ztQHYmwMjcS0CaB) | [DPRTNDRP](https://open.spotify.com/artist/1OsyLdBrbBzicSLMOKUUEH) | [Unshaken](https://open.spotify.com/album/5Cx5XQNyEIiajYz3qdhlun) | 4:13 | 2022-02-17 | 2022-07-28 |
 | [Perceiver](https://open.spotify.com/track/2HMXYPAtj8liB6ywImkELU) | [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [CODE RED EP](https://open.spotify.com/album/3m7ox4dJaPu8SjUtbuJDFj) | 3:27 | 2023-06-23 | 2023-08-18 |
-| [Pinky](https://open.spotify.com/track/6Do1b2IicfJwzxXR3lGVFz) | [Pigeon Hole](https://open.spotify.com/artist/50gZGkC4xYd5vJUBEnXwXP) | [Pinky](https://open.spotify.com/album/0bB6HUYWFx1B40l27ABu4C) | 3:16 | 2024-03-22 | 2024-05-24 |
+| [Pinky](https://open.spotify.com/track/6Do1b2IicfJwzxXR3lGVFz) | [Pigeon Hole](https://open.spotify.com/artist/50gZGkC4xYd5vJUBEnXwXP) | [Pinky](https://open.spotify.com/album/0bB6HUYWFx1B40l27ABu4C) | 3:16 | 2024-03-22 |  |
 | [Pistola](https://open.spotify.com/track/65ztgzqmVXzHqHQ7DuPMhT) | [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Zeroes](https://open.spotify.com/album/7IqtStixf9Y4W529LVRxca) | 5:31 | 2022-07-08 | 2022-07-30 |
 | [Pistola](https://open.spotify.com/track/6OW0RWmKQUU6iq0lDWeetS) | [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Zeroes](https://open.spotify.com/album/0ME2x6n9ni4PJ6nmPzjuu2) | 5:31 | 2022-02-17 | 2022-07-29 |
 | [PLAY HARD](https://open.spotify.com/track/7LABUtohkGbYgEKyimA403) | [Secret Recipe](https://open.spotify.com/artist/22eFyjzI4OqJzqUrYlF46I) | [PLAY HARD](https://open.spotify.com/album/1tV39U1ylVuJyDSMEzUX6d) | 1:51 | 2024-03-22 |  |
@@ -406,7 +407,7 @@
 | [Profound](https://open.spotify.com/track/3m92wis6TZWW6XeGyneEur) | [Bisweed](https://open.spotify.com/artist/6egUhNySE0htFQzdHxO6Nw) | [Kaleidoscope, Vol\. 2](https://open.spotify.com/album/7jLrpzLUbTLDMWG2r4xhSY) | 5:04 | 2022-02-17 | 2022-07-30 |
 | [Psycho Sushi](https://open.spotify.com/track/5QtuIc4VSjUp2nniV903bZ) | [Eva808](https://open.spotify.com/artist/6BgBdBrs55ObAN04jkmn0Q) | [Psycho Sushi](https://open.spotify.com/album/4RjrGw3HvUfW6fefKoHJfS) | 4:23 | 2022-02-17 | 2022-04-09 |
 | [Psychosis](https://open.spotify.com/track/2VTpMLEAkRwy1fpokBElm6) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Psychosis](https://open.spotify.com/album/3LjPEsUdZeRAVxTBjdgm5z) | 4:02 | 2024-02-16 |  |
-| [Psychotherapy](https://open.spotify.com/track/32RVEL94lelYvfcLOKl1Gh) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Blood Money EP](https://open.spotify.com/album/6qM4HawzP3zIvArvApLctM) | 3:46 | 2022-02-17 |  |
+| [Psychotherapy](https://open.spotify.com/track/32RVEL94lelYvfcLOKl1Gh) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Blood Money EP](https://open.spotify.com/album/6qM4HawzP3zIvArvApLctM) | 3:46 | 2022-02-17 | 2024-07-06 |
 | [Pula Riddim](https://open.spotify.com/track/0G1wBqjlZBfs76i3BO4hIc) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [Hold and Pull](https://open.spotify.com/album/1tSfn3zNanP0h8b9qEebEq) | 5:12 | 2022-02-17 | 2022-07-01 |
 | [Pulah](https://open.spotify.com/track/4IUjouPv1U45nvpmb0ZIC4) | [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj) | [Pulah](https://open.spotify.com/album/6qqnpJWz4oecaOmDXkGwfJ) | 3:05 | 2022-05-27 | 2022-11-11 |
 | [Pulse](https://open.spotify.com/track/5g7gJzOgSt8iujy6DORM50) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa), [FLY](https://open.spotify.com/artist/5uzvRvcTtbA3JqZxglgTda) | [Pulse](https://open.spotify.com/album/78tirUQlTQeqiZpTyXdXkO) | 2:27 | 2023-09-29 |  |

@@ -1,13 +1,29 @@
 {
   "description": "Raw, emotional, and acoustic. Cover: Charlie Musselwhite",
-  "num_followers": 788641,
+  "num_followers": 788623,
   "original_name": "Acoustic Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjTwMgAAAABTu0lAlEZMEgUw2ROfunQL",
+  "snapshot_id": "ZodvwAAAAAAUU5FKSM1DixTHW2tFep5V",
   "tracks": [
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Back Porch Blues",
+        "url": "https://open.spotify.com/album/0PijqpPmbwVX0jbPh1IWEU"
+      },
+      "artists": [
+        {
+          "name": "R\u012b Wolf",
+          "url": "https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n"
+        }
+      ],
+      "duration_ms": 152147,
+      "name": "Back Porch Blues",
+      "url": "https://open.spotify.com/track/5xXCW3T0WHCIJYWkWevnK0"
+    },
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
@@ -391,22 +407,6 @@
       "duration_ms": 438840,
       "name": "Heavy Load",
       "url": "https://open.spotify.com/track/10zwPTX4CiU3axwgy4LcXW"
-    },
-    {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "The World Can Be So Cold",
-        "url": "https://open.spotify.com/album/7kE0bDyvEtUN1HLK6aHRwC"
-      },
-      "artists": [
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "The World Can Be So Cold",
-      "url": "https://open.spotify.com/track/1lUN4eNRlpuf3hHJjXf7KG"
     },
     {
       "added_at": "2021-02-05 05:01:00",

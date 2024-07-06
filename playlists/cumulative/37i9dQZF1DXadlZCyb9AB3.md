@@ -2,9 +2,9 @@
 
 ### [Riot Grrrl](https://open.spotify.com/playlist/37i9dQZF1DXadlZCyb9AB3)
 
-> The defining songs of the riot grrrl era, and the artists keeping their spirit alive\. Cover: Sleater\-Kinney
+> Defining songs of the riot grrrl era and the artists keeping its spirit alive
 
-185 songs - 9 hr 11 min
+186 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,9 +46,10 @@
 | [Cool Schmool](https://open.spotify.com/track/3piPEvZQsCWNANsNMxH1LU) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth](https://open.spotify.com/album/18FoSWsA63ZVL2t859PYv4) | 2:03 | 2021-06-11 | 2024-05-14 |
 | [Cry Baby](https://open.spotify.com/track/22NvTlRdtyX6EPMSYBOlGM) | [Kitten Forever](https://open.spotify.com/artist/49aEBCKsGMO5vaRnr1GBg4) | [Pressure](https://open.spotify.com/album/4vmr9XYRGlcl1JWY8rQuGL) | 1:44 | 2021-06-11 | 2024-04-19 |
 | [Cry Baby](https://open.spotify.com/track/6D5SZmFPCEvRMeQgBrsMzY) | [Kitten Forever](https://open.spotify.com/artist/49aEBCKsGMO5vaRnr1GBg4) | [Pressure](https://open.spotify.com/album/3IoTZRPtHvNs4UmDUli8Dy) | 1:44 | 2021-06-11 | 2024-05-14 |
-| [Current Affair](https://open.spotify.com/track/0HINeS16DfBP7DGCSC6QVx) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56), [Sienna](https://open.spotify.com/artist/0aiQeYnP7FNRD8BwG90wdG) | [Current Affair \(feat\. Sienna\)](https://open.spotify.com/album/3pyiSjhhlYmUvGo3i8Mhy9) | 2:49 | 2021-06-11 |  |
+| [Current Affair](https://open.spotify.com/track/0HINeS16DfBP7DGCSC6QVx) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56), [Sienna](https://open.spotify.com/artist/0aiQeYnP7FNRD8BwG90wdG) | [Current Affair \(feat\. Sienna\)](https://open.spotify.com/album/3pyiSjhhlYmUvGo3i8Mhy9) | 2:49 | 2021-06-11 | 2024-07-06 |
 | [Current Affair](https://open.spotify.com/track/721rlw9VI4IqhpPhNFrZIv) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56), [Sienna](https://open.spotify.com/artist/0aiQeYnP7FNRD8BwG90wdG) | [Current Affair \(feat\. Sienna\)](https://open.spotify.com/album/30Tq94VCaG31USW0MsFli2) | 2:49 | 2021-06-11 | 2024-04-19 |
 | [Cute Boy Discount](https://open.spotify.com/track/1iJHW1X7Kke2OQ9fK7Fou1) | [Cold Cold Hearts](https://open.spotify.com/artist/1LdA2Q0GE08HyoCdjbBbxa) | [Cold Cold Hearts](https://open.spotify.com/album/2zdFqVcD1PJnz14X3k8Aod) | 3:17 | 2024-05-13 |  |
+| [Dead Man](https://open.spotify.com/track/5LZmZSVTcDoGqhds6YJuBF) | [Bacchae](https://open.spotify.com/artist/2kkzGUcM1xMk6BWxbIINd8) | [Dead Man](https://open.spotify.com/album/50H78cd7BSk6xi8iWR5j6X) | 2:45 | 2024-07-05 |  |
 | [Dead Men Don't Rape](https://open.spotify.com/track/4iGxxqZaZ2Z0YFiXgd8n8O) | [7 Year Bitch](https://open.spotify.com/artist/535KSdsDbNGj6w6eCBkRP5) | [Sick'em](https://open.spotify.com/album/39vMdABPceCzciL1mlolsg) | 2:47 | 2024-05-13 |  |
 | [Deceptacon](https://open.spotify.com/track/3PVRSOQ57O3LO6HCAPkbfY) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/3N4rp7pLbDlWo2EvtONFMG) | 3:04 | 2021-06-11 |  |
 | [Deceptacon](https://open.spotify.com/track/4l0HxP8wm5iWHqo9myvFsm) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/5k3SJlcTe5aDF7gDkcBnOL) | 3:04 | 2021-06-11 | 2024-04-19 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > exu do blues é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,147 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,142 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [sodade](https://open.spotify.com/track/1fXFNDgwUEXQObh7A9XN10) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [FETICHE](https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol) | 2:45 |
-| 2 | [Carolina](https://open.spotify.com/track/4QDvm5ELYUTPXEDQpMQkGS) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Edubeatz](https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8), [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4) | [Carolina](https://open.spotify.com/album/0xxoQzJK8XEpWJFukN7J9E) | 2:50 |
+| 2 | [Carolina](https://open.spotify.com/track/4QDvm5ELYUTPXEDQpMQkGS) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [Edubeatz](https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8) | [Carolina](https://open.spotify.com/album/0xxoQzJK8XEpWJFukN7J9E) | 2:50 |
 | 3 | [La Noche](https://open.spotify.com/track/0IEVEtKQ4kRgZehxyfUrKS) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [OPROPRIO](https://open.spotify.com/album/0b2iLDXb2gs0jRk4Vj7jlR) | 3:21 |
 | 4 | [BOOMBAP PERFEITO](https://open.spotify.com/track/5OrfScVAsdqEgo4Og8ebrv) | [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [Grafiteh](https://open.spotify.com/artist/1mZKPF3NjGsiwsnGi9zE4r), [Bxrgez](https://open.spotify.com/artist/1JpJY4VOgwfE5xLtqzOJVD) | [BOOMBAP PERFEITO](https://open.spotify.com/album/5BLeGawegQZ8zquNP8hpiu) | 2:48 |
 | 5 | [MUITO BRABO](https://open.spotify.com/track/3QNjS73flaaTBKyxk7E0kL) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [MUITO BRABO](https://open.spotify.com/album/6H7CjzXl7ILsfMqs9pyik6) | 3:39 |

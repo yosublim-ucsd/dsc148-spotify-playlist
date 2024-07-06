@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "como en una nube. Bedroom pop vibes featuring Luisa Almaguer",
+  "description": "como en una nube. Bedroom pop vibes featuring Paloma Morphy",
   "name": "dreamy \u2728",
   "tracks": [
+    {
+      "album": {
+        "name": "(sola)",
+        "url": "https://open.spotify.com/album/0CpJqtfZSaryVvqYx794z4"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148677,
+      "name": "(sola)",
+      "url": "https://open.spotify.com/track/3SdwgzRoY5ZnDt3tsiva5F"
+    },
     {
       "album": {
         "name": "100m",
@@ -266,7 +284,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 174116,
       "name": "About You",
       "url": "https://open.spotify.com/track/4QoZMxwAGm4yDYlNoHNyHN"
@@ -484,7 +502,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 183056,
       "name": "Amantes Astrales",
       "url": "https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA"
@@ -1581,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "Dicen Que Eres Arte",
+        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164736,
+      "name": "Dicen Que Eres Arte",
+      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
+    },
+    {
+      "album": {
         "name": "didn't know",
         "url": "https://open.spotify.com/album/6SPcRko47zyU386oL9RqkK"
       },
@@ -2380,7 +2416,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 171689,
       "name": "FXNGXR",
       "url": "https://open.spotify.com/track/4muxcrszgWJZZJBaqqq8mc"
@@ -3448,7 +3484,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 199357,
       "name": "me pongo un poco sad",
       "url": "https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe"
@@ -3905,6 +3941,24 @@
     },
     {
       "album": {
+        "name": "nevermind",
+        "url": "https://open.spotify.com/album/7cyTbNsT1xANsUaIOCKRvF"
+      },
+      "artists": [
+        {
+          "name": "Porcelain People",
+          "url": "https://open.spotify.com/artist/6v9XtT9VXOY2003I5f8amB"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180437,
+      "name": "nevermind",
+      "url": "https://open.spotify.com/track/5rE0juKMtowt2672Wen8L8"
+    },
+    {
+      "album": {
         "name": "No Aguanto el Calor",
         "url": "https://open.spotify.com/album/3GCeHjcKXUKDNag52Mj9PB"
       },
@@ -4276,7 +4330,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 213444,
       "name": "Opciones",
       "url": "https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z"
@@ -4352,6 +4406,24 @@
       "duration_ms": 144300,
       "name": "Pajaritos",
       "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
+    },
+    {
+      "album": {
+        "name": "Panoramas",
+        "url": "https://open.spotify.com/album/2u82jIdMDns8zq6aeuTUcm"
+      },
+      "artists": [
+        {
+          "name": "Nunca Fuimos Listos",
+          "url": "https://open.spotify.com/artist/68ACpELeoQ2CcSYksOvQ8T"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232800,
+      "name": "Panoramas",
+      "url": "https://open.spotify.com/track/59vpeNsARH7p8qXLQjaD2k"
     },
     {
       "album": {
@@ -6058,7 +6130,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 175596,
       "name": "Volver A Empezar",
       "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"

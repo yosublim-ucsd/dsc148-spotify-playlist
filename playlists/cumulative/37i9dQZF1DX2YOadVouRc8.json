@@ -315,6 +315,36 @@
     },
     {
       "album": {
+        "name": "AFRIKANA",
+        "url": "https://open.spotify.com/album/3Xty3EB0LLI6AaDtvb49Bz"
+      },
+      "artists": [
+        {
+          "name": "BILO",
+          "url": "https://open.spotify.com/artist/2mRpEmM3HN911HcNiDEsuT"
+        },
+        {
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        },
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        },
+        {
+          "name": "Sona",
+          "url": "https://open.spotify.com/artist/0fZfg0q442duxzNdPCLOLa"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188737,
+      "name": "AFRIKANA",
+      "url": "https://open.spotify.com/track/64WCLvf2CC5u9YTP5sXH8s"
+    },
+    {
+      "album": {
         "name": "Alinko",
         "url": "https://open.spotify.com/album/2emgoSO0tHVlIv8s4fprne"
       },
@@ -608,7 +638,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 120000,
       "name": "Angie Riddim",
       "url": "https://open.spotify.com/track/7vK6MUFKqhzVdEMPANzHWE"
@@ -958,7 +988,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 174159,
       "name": "BASSA",
       "url": "https://open.spotify.com/track/1KTXudaZZUN1St7KGUBCIt"
@@ -1148,7 +1178,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 160517,
       "name": "Belle",
       "url": "https://open.spotify.com/track/2gdO9XcEWeXOL79XksUjzj"
@@ -1532,7 +1562,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 139666,
       "name": "Braids",
       "url": "https://open.spotify.com/track/482tB4gtpuW8ObJNQI0BXP"
@@ -2230,7 +2260,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 116400,
       "name": "CRAZY SEXY PERFECT GIRLS",
       "url": "https://open.spotify.com/track/2yK4TLFFCgLUmTWyQoY8qj"
@@ -2812,7 +2842,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 140963,
       "name": "Exclusive",
       "url": "https://open.spotify.com/track/70PaIwmNlnNjR3xBFgdiY0"
@@ -3414,7 +3444,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 140727,
       "name": "Go Harder",
       "url": "https://open.spotify.com/track/1Yiiy90LfO31UDfE5SpU2a"
@@ -3542,7 +3572,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 198709,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/6JNLAYsRE0JAES5arxN0nY"
@@ -4048,10 +4078,32 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 156212,
       "name": "Inside",
       "url": "https://open.spotify.com/track/2oggtjZEvlUtmXq5flIu3K"
+    },
+    {
+      "album": {
+        "name": "Instantly",
+        "url": "https://open.spotify.com/album/5cDnEzSuOcycPxq1q1GtTh"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Kold AF",
+          "url": "https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188387,
+      "name": "Instantly",
+      "url": "https://open.spotify.com/track/0z8XRsI1lc1Fz6FjRVo8Fm"
     },
     {
       "album": {
@@ -4070,6 +4122,28 @@
       "duration_ms": 156527,
       "name": "It\u2019s Giving Summer",
       "url": "https://open.spotify.com/track/6yED7TjsAgeiuduj9D9yyj"
+    },
+    {
+      "album": {
+        "name": "JABO",
+        "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "JABO",
+      "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
     },
     {
       "album": {
@@ -5615,6 +5689,24 @@
     },
     {
       "album": {
+        "name": "Nama naa la torop",
+        "url": "https://open.spotify.com/album/6nM1gPpJcICvp9GWFFDdgP"
+      },
+      "artists": [
+        {
+          "name": "Dawda",
+          "url": "https://open.spotify.com/artist/5CtgmVTepFFoGGtuXsPKFj"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178679,
+      "name": "Nama naa la torop",
+      "url": "https://open.spotify.com/track/6XmCfKWS166RgtEBodiS2C"
+    },
+    {
+      "album": {
         "name": "Never Love Again",
         "url": "https://open.spotify.com/album/0DyQM70GwzJIhxLDHeaULt"
       },
@@ -5838,6 +5930,24 @@
       "duration_ms": 186000,
       "name": "Obaa Sima",
       "url": "https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA"
+    },
+    {
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/7rfG2qzNG150rC2L3UzCAi"
+      },
+      "artists": [
+        {
+          "name": "Ronis Goliath",
+          "url": "https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160200,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/0V8My1NtUo51470iBrav0Y"
     },
     {
       "album": {
@@ -6084,7 +6194,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 193846,
       "name": "Over",
       "url": "https://open.spotify.com/track/1gMaklshAS3EUz2uhqfx8H"
@@ -7212,7 +7322,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 160280,
       "name": "shadow",
       "url": "https://open.spotify.com/track/6Jllvxl97ni5T2bW3zEDGi"
@@ -7490,6 +7600,24 @@
       "duration_ms": 211807,
       "name": "Soak Garri",
       "url": "https://open.spotify.com/track/3Rs0WjvcDSIbk5mx353yiQ"
+    },
+    {
+      "album": {
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
     },
     {
       "album": {
@@ -8492,7 +8620,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 175500,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
@@ -8878,7 +9006,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 153126,
       "name": "UNO (feat. BenjiFlow)",
       "url": "https://open.spotify.com/track/2wkETmSgtUgDyg8i94AZrn"
@@ -9064,7 +9192,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 235151,
       "name": "WAHALA (Stressed)",
       "url": "https://open.spotify.com/track/14JmQapOfMzE13SP7OeAfP"
@@ -9762,7 +9890,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "You (Rum & Schnapp)",
       "url": "https://open.spotify.com/track/6yfTq51uOS74YlSEErCE1P"
@@ -9784,7 +9912,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 102863,
       "name": "You Trap Me",
       "url": "https://open.spotify.com/track/2AYjnv47XVccCzv2ehzFNb"
@@ -9942,7 +10070,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 176692,
       "name": "Zero",
       "url": "https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN"
@@ -9960,7 +10088,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 243000,
       "name": "\u1ecc\u0300r\u1ecd\u0300 \u00c0\u1e63\u1eb9",
       "url": "https://open.spotify.com/track/648h77piOsFhlzniWDHqBo"

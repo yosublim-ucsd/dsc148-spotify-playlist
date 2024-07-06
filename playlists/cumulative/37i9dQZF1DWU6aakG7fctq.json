@@ -3020,7 +3020,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 209045,
       "name": "droga del momento",
       "url": "https://open.spotify.com/track/1wTy0rpYciXNPl2ApruK3A"
@@ -3318,6 +3318,24 @@
       "duration_ms": 134884,
       "name": "El Rio",
       "url": "https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK"
+    },
+    {
+      "album": {
+        "name": "El R\u00edo",
+        "url": "https://open.spotify.com/album/1CIxFgXEjuJB6NQz2OvsF9"
+      },
+      "artists": [
+        {
+          "name": "Fer Casillas",
+          "url": "https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217692,
+      "name": "El R\u00edo",
+      "url": "https://open.spotify.com/track/5IulrtbklYxOCrDEtJPtNz"
     },
     {
       "album": {
@@ -6950,7 +6968,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 209088,
       "name": "Mi Ni\u00f1a",
       "url": "https://open.spotify.com/track/5XolCHaLC9wHPQo6w7hF8A"
@@ -7030,6 +7048,28 @@
       "duration_ms": 303022,
       "name": "Mi Viejo",
       "url": "https://open.spotify.com/track/326nCnHzA2BttJWhuJIan9"
+    },
+    {
+      "album": {
+        "name": "MI \u00c1NGEL",
+        "url": "https://open.spotify.com/album/6doouIwPgaxcL7vTm7f6Pj"
+      },
+      "artists": [
+        {
+          "name": "Javier Arce",
+          "url": "https://open.spotify.com/artist/2WW13i9QlHkOZ0Iy2kk0iw"
+        },
+        {
+          "name": "Mica Sotera",
+          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176065,
+      "name": "MI \u00c1NGEL",
+      "url": "https://open.spotify.com/track/4XbBw1wkTHK6NRshu4qa69"
     },
     {
       "album": {
@@ -7572,7 +7612,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 199531,
       "name": "nada de nada",
       "url": "https://open.spotify.com/track/11Ycp611BypMSPvJy6su4S"
@@ -9560,7 +9600,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 186613,
       "name": "Quicksand",
       "url": "https://open.spotify.com/track/2cHu1IBtAVO5q9cl3LLJie"
@@ -10751,6 +10791,24 @@
     },
     {
       "album": {
+        "name": "Trascendente",
+        "url": "https://open.spotify.com/album/6ITBeE0phdtPNQKawqnony"
+      },
+      "artists": [
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212125,
+      "name": "Soy Capaz",
+      "url": "https://open.spotify.com/track/2ACkhhtp0rpOGj5lDdIrHc"
+    },
+    {
+      "album": {
         "name": "Soy Tu Pap\u00e1 (feat. Fernando Palomo)",
         "url": "https://open.spotify.com/album/1yMQpJi4NbATzyf37Y0muR"
       },
@@ -11100,6 +11158,24 @@
       "duration_ms": 199052,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/7D4se6J5kxfuJUF6BeTo71"
+    },
+    {
+      "album": {
+        "name": "TAYLOR",
+        "url": "https://open.spotify.com/album/6VL4p6rD5mnCZ1a8OnPpee"
+      },
+      "artists": [
+        {
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222782,
+      "name": "TAYLOR",
+      "url": "https://open.spotify.com/track/0Q4b98WIeJkWDqAeSyYZR4"
     },
     {
       "album": {

@@ -1,13 +1,217 @@
 {
-  "description": "The newest r&b drops, every week. Cover: Ravyn Lenae",
-  "num_followers": 1039657,
+  "description": "The newest r&b drops, every week. Cover: Odeal",
+  "num_followers": 1039750,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn41QAAAAAB6nGjJniurGBzB5qJo46Rl",
+  "snapshot_id": "ZogmtQAAAADlQsG9hdbieCAwWsrQPWjw",
   "tracks": [
+    {
+      "added_at": "2024-07-05 17:00:37",
+      "album": {
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
+    },
+    {
+      "added_at": "2024-07-05 17:00:37",
+      "album": {
+        "name": "Match My Freak EP",
+        "url": "https://open.spotify.com/album/2xyUg14ugS5nOqSJSoEjr1"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 182643,
+      "name": "Nasty - Match My Chic Remix",
+      "url": "https://open.spotify.com/track/5Z1bS1NU57tcnhqNAXVM6D"
+    },
+    {
+      "added_at": "2024-07-05 17:00:37",
+      "album": {
+        "name": "Qing Madi (Deluxe)",
+        "url": "https://open.spotify.com/album/4vxIotduGifC33fGSfxxom"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
+      "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
+    },
+    {
+      "added_at": "2024-07-05 17:00:37",
+      "album": {
+        "name": "IMISSTORONTO (Been A While)",
+        "url": "https://open.spotify.com/album/72ycVbf7uebQHVHEPLRzEs"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        },
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "duration_ms": 220408,
+      "name": "IMISSTORONTO (Been A While)",
+      "url": "https://open.spotify.com/track/0EtT4Y1KYAx5oZgCzBOyo0"
+    },
+    {
+      "added_at": "2024-07-05 17:00:37",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/0ITMYKdS5PdE1cZ1QNdvLy"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "duration_ms": 168643,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/15TSeUwFv4YAbtxleSPU7J"
+    },
+    {
+      "added_at": "2024-07-05 17:00:37",
+      "album": {
+        "name": "NEGLIGENT (Remix)",
+        "url": "https://open.spotify.com/album/3Kv2NnN9EHNhw4hW1eLgYX"
+      },
+      "artists": [
+        {
+          "name": "SAHXL",
+          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
+        },
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "duration_ms": 195460,
+      "name": "NEGLIGENT (Remix) [feat. Kaash Paige]",
+      "url": "https://open.spotify.com/track/7sQJS5X1f74xaY8BX8Bm6v"
+    },
+    {
+      "added_at": "2024-07-05 17:00:37",
+      "album": {
+        "name": "Favors",
+        "url": "https://open.spotify.com/album/2fl9xfumFKIVYwwl3qjp5p"
+      },
+      "artists": [
+        {
+          "name": "PLAZA",
+          "url": "https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Favors",
+      "url": "https://open.spotify.com/track/5JwyFzThGsjFxkB1mo01ac"
+    },
+    {
+      "added_at": "2024-07-05 17:00:37",
+      "album": {
+        "name": "need to know",
+        "url": "https://open.spotify.com/album/7FSU6GwzGWpG0roxK8FbUl"
+      },
+      "artists": [
+        {
+          "name": "zandros",
+          "url": "https://open.spotify.com/artist/30gojhXynjLSWe1kHNUZ1Q"
+        },
+        {
+          "name": "NateTaylorr",
+          "url": "https://open.spotify.com/artist/6FaeHLNz3ISxqrVJCprURb"
+        }
+      ],
+      "duration_ms": 187703,
+      "name": "need to know",
+      "url": "https://open.spotify.com/track/5Cw6hiPWth7Z5lr8qeCgDS"
+    },
+    {
+      "added_at": "2024-07-05 17:00:37",
+      "album": {
+        "name": "Alone Again",
+        "url": "https://open.spotify.com/album/7fpCTI1h9vyPGzrCGAjKrf"
+      },
+      "artists": [
+        {
+          "name": "Ballad",
+          "url": "https://open.spotify.com/artist/5rzpNZtFsVj1CxuF9qzeRx"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 205007,
+      "name": "Alone Again",
+      "url": "https://open.spotify.com/track/0Wk0GJno9JUtFpRRG1RpId"
+    },
+    {
+      "added_at": "2024-07-05 17:00:37",
+      "album": {
+        "name": "Just Imagine",
+        "url": "https://open.spotify.com/album/4ooUeAkwr8SmLFflcyKaYH"
+      },
+      "artists": [
+        {
+          "name": "July 7",
+          "url": "https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA"
+        },
+        {
+          "name": "eejebee",
+          "url": "https://open.spotify.com/artist/5cFJUBx5psjJrIrLWWfrAu"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Just Imagine",
+      "url": "https://open.spotify.com/track/7ryReXybZZwhpISu1gq9TV"
+    },
+    {
+      "added_at": "2024-07-05 17:00:37",
+      "album": {
+        "name": "when brains dance",
+        "url": "https://open.spotify.com/album/41uCGlgUDw5K3Lxa21E8pC"
+      },
+      "artists": [
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "when brains dance",
+      "url": "https://open.spotify.com/track/4aE94pPbfuDpW9JVOCXr3E"
+    },
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
@@ -1997,22 +2201,6 @@
       "url": "https://open.spotify.com/track/1eUkDg4v2xomoSRQkV7XWp"
     },
     {
-      "added_at": "2024-06-14 04:46:31",
-      "album": {
-        "name": "Dear Imani",
-        "url": "https://open.spotify.com/album/033gPMjdGtD1ITBLEYhyMX"
-      },
-      "artists": [
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        }
-      ],
-      "duration_ms": 162102,
-      "name": "Dear Imani",
-      "url": "https://open.spotify.com/track/6kxcafIbwbt3dSG81ZacOz"
-    },
-    {
       "added_at": "2024-06-07 04:13:01",
       "album": {
         "name": "TIMELESS",
@@ -2155,26 +2343,6 @@
       "duration_ms": 210000,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/6500uBEUQTXfSepkef2k0Z"
-    },
-    {
-      "added_at": "2024-06-07 04:13:01",
-      "album": {
-        "name": "This Close To You",
-        "url": "https://open.spotify.com/album/3cxPGZ0ES2lA2zG8rIiTaF"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        },
-        {
-          "name": "Luther",
-          "url": "https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Don't Wanna Be A Fool",
-      "url": "https://open.spotify.com/track/41PN50VXHcaJudkNPwAGZI"
     },
     {
       "added_at": "2024-06-07 04:13:01",
@@ -2411,22 +2579,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Next 2 U",
-        "url": "https://open.spotify.com/album/5AkuoilPAkKfzfm2nIF7KA"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 161801,
-      "name": "Next 2 U",
-      "url": "https://open.spotify.com/track/3qV20sy8VPyt5R8aminfhA"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Make Me Forget",
         "url": "https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl"
       },
@@ -2527,22 +2679,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Love Heart Cheat Code",
-        "url": "https://open.spotify.com/album/3TsAZSV9r6h0w4S5fxS2qX"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 273291,
-      "name": "Love Heart Cheat Code",
-      "url": "https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Electric Honey",
         "url": "https://open.spotify.com/album/4Tw5mOARJzR867OGuF5o67"
       },
@@ -2615,22 +2751,6 @@
       "duration_ms": 179310,
       "name": "Sugar (feat. Larry June & SHOW N PROVE)",
       "url": "https://open.spotify.com/track/0X6AAWEtz8SDZxClmxNhe3"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/5vBlJU3wNcLv9Pobuzk988"
-      },
-      "artists": [
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        }
-      ],
-      "duration_ms": 120078,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/3wdbGER9TIbNeCXfOD2CTr"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -2801,38 +2921,6 @@
       "url": "https://open.spotify.com/track/0F4ztuiA5xMeNCoze1f09l"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Align (Sorry)",
-        "url": "https://open.spotify.com/album/7B5hF0ad6sxUVsMZSuQLV6"
-      },
-      "artists": [
-        {
-          "name": "Manana",
-          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "Align (Sorry)",
-      "url": "https://open.spotify.com/track/5X0Zgtq35C1aaqySYuIWua"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Deep Rest",
-        "url": "https://open.spotify.com/album/6swkISkLHItiTbHUb3OphG"
-      },
-      "artists": [
-        {
-          "name": "SAYGRACE",
-          "url": "https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst"
-        }
-      ],
-      "duration_ms": 201214,
-      "name": "Ungrateful",
-      "url": "https://open.spotify.com/track/5eKPEgQR5Fgoxw1zjXEvV8"
-    },
-    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Rental",
@@ -2847,42 +2935,6 @@
       "duration_ms": 189266,
       "name": "Rental",
       "url": "https://open.spotify.com/track/2SctW8kEr0eNsnantkaxj1"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Made For Me (with Mariah Carey)",
-        "url": "https://open.spotify.com/album/7kLt47kt9E31gqRepjHIn7"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        },
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Made For Me (with Mariah Carey)",
-      "url": "https://open.spotify.com/track/7A237bWglHPhH3nKGgBsRr"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Ravyn Lenae - Spotify Singles",
-        "url": "https://open.spotify.com/album/6LTLO1em5gSsWWlBCOBazT"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 226355,
-      "name": "Killing Me Softly With His Song - Spotify Singles",
-      "url": "https://open.spotify.com/track/3bhNKifdyaf0TUr7bBxQGU"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -3327,22 +3379,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Bicoastal: B-Sides",
-        "url": "https://open.spotify.com/album/0yJE5hjeOZ80XVdsTXfvhn"
-      },
-      "artists": [
-        {
-          "name": "Bathe",
-          "url": "https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Coney Island",
-      "url": "https://open.spotify.com/track/15Ya2a4p4WLbZ3HLICeZrh"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Tell Her",
         "url": "https://open.spotify.com/album/64k5YDxZtFWPvKWMGxKYrO"
       },
@@ -3459,22 +3495,6 @@
       "duration_ms": 71866,
       "name": "down",
       "url": "https://open.spotify.com/track/2aOGWRexXObCHluDRPFF51"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "falling or flying (Reimagined)",
-        "url": "https://open.spotify.com/album/6pLWFHmvJ82dUQF1bUTvZM"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "Falling or flying - Reimagined",
-      "url": "https://open.spotify.com/track/0OT6eMljP4fshxNA1STPgr"
     },
     {
       "added_at": "2024-05-03 04:00:00",

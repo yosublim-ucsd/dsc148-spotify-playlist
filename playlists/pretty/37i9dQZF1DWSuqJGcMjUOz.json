@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6167,
+  "num_followers": 6172,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "monde autour",
-        "url": "https://open.spotify.com/album/77Isp6SAhHX3vRplCtfKQv"
-      },
-      "artists": [
-        {
-          "name": "comment debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
-        }
-      ],
-      "duration_ms": 264891,
-      "name": "blood pareil",
-      "url": "https://open.spotify.com/track/5gZY6ZOPf2C70N7DBAH91O"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "POURquoi!!",
         "url": "https://open.spotify.com/album/0I3hm9l2KKfr1bhKlGk5Kj"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 150160,
       "name": "OH LAla!!",
       "url": "https://open.spotify.com/track/4v07LupvD9RJHUAWFCSME2"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "monde autour",
+        "url": "https://open.spotify.com/album/77Isp6SAhHX3vRplCtfKQv"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "duration_ms": 264891,
+      "name": "blood pareil",
+      "url": "https://open.spotify.com/track/5gZY6ZOPf2C70N7DBAH91O"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Temp\u00eate",
+        "url": "https://open.spotify.com/album/0dWJ4hnsaf6gbsfgCz6KpT"
+      },
+      "artists": [
+        {
+          "name": "Malaim\u00e9 Soleil",
+          "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "Coin coin",
+      "url": "https://open.spotify.com/track/0wPhoMR46QzfzHeQP94v1E"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "\u00c9l\u00e9vaZIIION (Soci\u00e9t\u00e9 distincte)",
         "url": "https://open.spotify.com/album/7sjiQnZKBAU6etTZUeFfR8"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 293760,
       "name": "L\u00e9gendaire",
       "url": "https://open.spotify.com/track/2dMS1TDVseVattgEVMvURB"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Temp\u00eate",
-        "url": "https://open.spotify.com/album/0dWJ4hnsaf6gbsfgCz6KpT"
-      },
-      "artists": [
-        {
-          "name": "Malaim\u00e9 Soleil",
-          "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "Coin coin",
-      "url": "https://open.spotify.com/track/0wPhoMR46QzfzHeQP94v1E"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Suite pour personne",
-        "url": "https://open.spotify.com/album/3s0746U6SBRp6vcisxxtcV"
-      },
-      "artists": [
-        {
-          "name": "Jeanne C\u00f4t\u00e9",
-          "url": "https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7"
-        }
-      ],
-      "duration_ms": 276662,
-      "name": "Y peut mouiller",
-      "url": "https://open.spotify.com/track/7oQdX58s6Hec7jH3CDEfge"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Le monde est fou",
         "url": "https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 244200,
       "name": "Le monde est fou",
       "url": "https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Suite pour personne",
+        "url": "https://open.spotify.com/album/3s0746U6SBRp6vcisxxtcV"
+      },
+      "artists": [
+        {
+          "name": "Jeanne C\u00f4t\u00e9",
+          "url": "https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7"
+        }
+      ],
+      "duration_ms": 276662,
+      "name": "Y peut mouiller",
+      "url": "https://open.spotify.com/track/7oQdX58s6Hec7jH3CDEfge"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Oniromancie",
+        "url": "https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI"
+      },
+      "artists": [
+        {
+          "name": "Laurence-Anne",
+          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "Polymorphe",
+      "url": "https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "C'est pire et c'est mieux",
         "url": "https://open.spotify.com/album/1gs9QEyRSZHgDr3edcKzD8"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 196572,
       "name": "C'est pire et c'est mieux",
       "url": "https://open.spotify.com/track/2nQSmjPsB6EmGUSTGf5AlF"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Oniromancie",
-        "url": "https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI"
-      },
-      "artists": [
-        {
-          "name": "Laurence-Anne",
-          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
-        }
-      ],
-      "duration_ms": 216146,
-      "name": "Polymorphe",
-      "url": "https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Traits d'union",
-        "url": "https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g"
-      },
-      "artists": [
-        {
-          "name": "Marilou",
-          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
-        }
-      ],
-      "duration_ms": 245250,
-      "name": "Trait d'union",
-      "url": "https://open.spotify.com/track/4D5JucdHfnZmiPPKrX0aj1"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "\u00c7a s'invente pas",
         "url": "https://open.spotify.com/album/1QPEBa411xm2gFUwXiGeRg"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 143253,
       "name": "Du country dans le ravin",
       "url": "https://open.spotify.com/track/2T2mpckFPDfpM9wgCFdJXt"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Traits d'union",
+        "url": "https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g"
+      },
+      "artists": [
+        {
+          "name": "Marilou",
+          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
+        }
+      ],
+      "duration_ms": 245250,
+      "name": "Trait d'union",
+      "url": "https://open.spotify.com/track/4D5JucdHfnZmiPPKrX0aj1"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "DVTR",
+        "url": "https://open.spotify.com/album/0FQ99J1DvLNYP6x1uwHPYW"
+      },
+      "artists": [
+        {
+          "name": "DVTR",
+          "url": "https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF"
+        }
+      ],
+      "duration_ms": 136973,
+      "name": "DVTR",
+      "url": "https://open.spotify.com/track/6kyU5s2JQj3kqjZ225Hwjv"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "O\u00d9 EST PASS\u00c9 ZEUDOG ?",
         "url": "https://open.spotify.com/album/461A8bwUFWhREU9mvKL6tB"
       },
@@ -1607,18 +1623,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "DVTR",
-        "url": "https://open.spotify.com/album/0FQ99J1DvLNYP6x1uwHPYW"
+        "name": "Holla",
+        "url": "https://open.spotify.com/album/3QQQGEyXrL2ZSyce01FuDo"
       },
       "artists": [
         {
-          "name": "DVTR",
-          "url": "https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF"
+          "name": "Heskis",
+          "url": "https://open.spotify.com/artist/1l4zmi29P6ZWSehP5qOL7U"
         }
       ],
-      "duration_ms": 136973,
-      "name": "DVTR",
-      "url": "https://open.spotify.com/track/6kyU5s2JQj3kqjZ225Hwjv"
+      "duration_ms": 168888,
+      "name": "Quelqu'un quand-m\u00eame",
+      "url": "https://open.spotify.com/track/44qZlOo2ivJ5Cn6bHGsJfi"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1659,22 +1675,6 @@
       "duration_ms": 169567,
       "name": "\u00c7A APPELLE",
       "url": "https://open.spotify.com/track/7lVXC2IpkKj7J91C3mVdaS"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Holla",
-        "url": "https://open.spotify.com/album/3QQQGEyXrL2ZSyce01FuDo"
-      },
-      "artists": [
-        {
-          "name": "Heskis",
-          "url": "https://open.spotify.com/artist/1l4zmi29P6ZWSehP5qOL7U"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "Quelqu'un quand-m\u00eame",
-      "url": "https://open.spotify.com/track/44qZlOo2ivJ5Cn6bHGsJfi"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Fleur de cactus (Face A)",
-        "url": "https://open.spotify.com/album/5TmctCsJ7iHZOEfPov009R"
-      },
-      "artists": [
-        {
-          "name": "King Melrose",
-          "url": "https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91"
-        }
-      ],
-      "duration_ms": 213961,
-      "name": "Western",
-      "url": "https://open.spotify.com/track/4yn7tvfl1AiGOFZ0E4ctGL"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Bons Times Bad Times",
         "url": "https://open.spotify.com/album/3e1Ie4LcLqAXk7HWN2kDj9"
       },
@@ -1779,22 +1763,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Il n'y a rien que je ne suis pas",
-        "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
-      },
-      "artists": [
-        {
-          "name": "Arielle Soucy",
-          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Promenade",
-      "url": "https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "R.B.",
         "url": "https://open.spotify.com/album/7xZKrE00O2cUzItOtQ2oPU"
       },
@@ -1807,6 +1775,38 @@
       "duration_ms": 289959,
       "name": "R.B.",
       "url": "https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Fleur de cactus (Face A)",
+        "url": "https://open.spotify.com/album/5TmctCsJ7iHZOEfPov009R"
+      },
+      "artists": [
+        {
+          "name": "King Melrose",
+          "url": "https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91"
+        }
+      ],
+      "duration_ms": 213961,
+      "name": "Western",
+      "url": "https://open.spotify.com/track/4yn7tvfl1AiGOFZ0E4ctGL"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Il n'y a rien que je ne suis pas",
+        "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
+      },
+      "artists": [
+        {
+          "name": "Arielle Soucy",
+          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Promenade",
+      "url": "https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Mort de rire",
-        "url": "https://open.spotify.com/album/4kZKcEYXarLLoVZIyEhGY7"
-      },
-      "artists": [
-        {
-          "name": "Radiant Baby",
-          "url": "https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM"
-        }
-      ],
-      "duration_ms": 246818,
-      "name": "Mort de rire",
-      "url": "https://open.spotify.com/track/1YMyJOWvg161nP3yP2ViAn"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Fluxus",
         "url": "https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 156904,
       "name": "OnO Song",
       "url": "https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Mort de rire",
+        "url": "https://open.spotify.com/album/4kZKcEYXarLLoVZIyEhGY7"
+      },
+      "artists": [
+        {
+          "name": "Radiant Baby",
+          "url": "https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM"
+        }
+      ],
+      "duration_ms": 246818,
+      "name": "Mort de rire",
+      "url": "https://open.spotify.com/track/1YMyJOWvg161nP3yP2ViAn"
     },
     {
       "added_at": "2024-06-19 20:38:05",

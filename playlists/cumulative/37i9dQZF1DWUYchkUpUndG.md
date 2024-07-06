@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=SfYXALl6QKOyLDH2Thw\_4w>Malcolm Rue</a>
 
-2,976 songs - 8 day 22 hr 41 min
+2,978 songs - 8 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -898,6 +898,7 @@
 | [God is real \- Live](https://open.spotify.com/track/13Zy5nezQL3TQUyv2FPFGT) | [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [God is real \(Live\)](https://open.spotify.com/album/5GLuneB4fGAnG5Inkvr5QU) | 10:59 | 2024-06-28 |  |
 | [God Is Too Sweet, Vol\. 1](https://open.spotify.com/track/5TCkhXNeQ5ov0klbXweM3i) | [AGATHA MOSES](https://open.spotify.com/artist/3y5Gaau4VQ45CUyyOZEjDE) | [God Is Too Sweet, Vol\. 1](https://open.spotify.com/album/7emWNH60OeC01KsjFKqHX2) | 7:42 | 2024-05-10 | 2024-05-17 |
 | [God is Unity](https://open.spotify.com/track/32D7eDLjL3u0Y9kMGIBEId) | [Otee Simz](https://open.spotify.com/artist/28n6zgdwUcPrOUFGoI6A9y), [M'sebe The Sun](https://open.spotify.com/artist/66oIKbhD3O7dIJGBDS5Lrg), [Negrita](https://open.spotify.com/artist/2oe2cBExue1yrR6Lpjk5NK) | [God is Unity](https://open.spotify.com/album/6KStD1XhrRYpnMgMkDoSpc) | 4:15 | 2023-12-01 | 2023-12-15 |
+| [God Is with Us](https://open.spotify.com/track/1HcpdLzAcySmIAPUUZ5m7L) | [Ebube Immanuel](https://open.spotify.com/artist/6T9pNc1rbjm0SpkqyDO6dp) | [God Is with Us](https://open.spotify.com/album/2Pw52yj3lRX7VGuMp10hab) | 4:28 | 2024-07-05 |  |
 | [God Is With Us](https://open.spotify.com/track/6VYvZGqByeWdv7HgMsculz) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [God Is With Us](https://open.spotify.com/album/08r4XlqVXIG7JL9tNpk7VL) | 3:46 | 2023-08-11 | 2023-08-25 |
 | [God Is With Us](https://open.spotify.com/track/7LQMnGF4OAVX6JBqBpr9p5) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [God Is With Us](https://open.spotify.com/album/6nQo0N1ep6600BCQheax8w) | 3:46 | 2023-08-11 | 2023-08-12 |
 | [God Never Fails](https://open.spotify.com/track/5IisENOR5O8RkMt2Zo6l5K) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [God Never Fails](https://open.spotify.com/album/7nSMrynuM3iy9RNsyNGwnq) | 3:18 | 2023-10-06 | 2023-10-20 |
@@ -2157,6 +2158,7 @@
 | [Provider](https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Provider](https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285) | 3:32 | 2023-07-21 | 2023-08-02 |
 | [Provider](https://open.spotify.com/track/0n9BmdMs7fugQBsLAOmMGg) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Provider](https://open.spotify.com/album/52o4SrgD78FtKdtrtCp747) | 3:28 | 2023-12-08 | 2023-12-22 |
 | [Provider](https://open.spotify.com/track/2l0MtMrRIvBIwRHfFTJ388) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Provider](https://open.spotify.com/album/08ypCfpeQ2fC2Ej3KL1yLX) | 2:23 | 2023-11-03 | 2023-11-17 |
+| [PRVDR](https://open.spotify.com/track/4wfusIrpax05JL3MoshQ0l) | [Kaégan](https://open.spotify.com/artist/3ypFqbZ8uiCUUNPgyIldam), [Elenee](https://open.spotify.com/artist/78ik45hdCuCyQ1gyiFEueX) | [PRVDR](https://open.spotify.com/album/3p3x9ATH1Gw6Jo2nkl1nIH) | 2:54 | 2024-07-05 |  |
 | [Prys Die Here](https://open.spotify.com/track/1FHnxk7lCVAi5CiWGrwvKQ) | [RICHELLE GRANT](https://open.spotify.com/artist/5ngimDhvnW2WdAOASWoP9H) | [Prys Die Here](https://open.spotify.com/album/034UIijSn7w6Ow3r7kuYk1) | 3:46 | 2024-03-01 | 2024-03-08 |
 | [Psalm 20:1\-5 \- Acoustic Version](https://open.spotify.com/track/3gyq3qz1qQ2cmzk9KzbaWq) | [Dbilovd](https://open.spotify.com/artist/5xvyAXQfTzG95lXHos2ZDn) | [Psalm 20:1\-5](https://open.spotify.com/album/0KoLUUG7wBqFkfYqjGKtYr) | 3:57 | 2024-02-16 | 2024-02-23 |
 | [Psalms 23](https://open.spotify.com/track/5r1Szh29yffvwkf3af6kmk) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2), [Ibquake](https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u) | [Psalms 23](https://open.spotify.com/album/77na3WEu647Ki6SMLUyj3c) | 1:46 | 2024-04-12 | 2024-04-26 |

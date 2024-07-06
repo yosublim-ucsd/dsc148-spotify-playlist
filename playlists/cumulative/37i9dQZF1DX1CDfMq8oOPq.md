@@ -4,7 +4,7 @@
 
 > btrem artilheira nata e as de raça
 
-247 songs - 11 hr 47 min
+248 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Larga Essa Vida](https://open.spotify.com/track/1I7rnx1blEUfgEi9owDD4C) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Larga Essa Vida](https://open.spotify.com/album/4fraCYAYq2B7H3AsennyRp) | 1:59 | 2023-04-07 |  |
 | [Lençol](https://open.spotify.com/track/1kExsrotab58XS3pTd1Ym7) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Lençol](https://open.spotify.com/album/6k2B1qx4XwaKcg2eni2Tgm) | 3:09 | 2023-08-18 |  |
 | [Let's Go](https://open.spotify.com/track/7258f9ip4DludOiLU5i7HV) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Let's Go](https://open.spotify.com/album/2JH0I5n2AvaTzWjyJIsKuC) | 2:38 | 2023-10-27 | 2023-11-11 |
-| [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 | 2022-09-30 |  |
+| [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 | 2022-09-30 | 2024-07-06 |
 | [Licor](https://open.spotify.com/track/3pPudCfrDQWTnMZsYzIs7N) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Licor](https://open.spotify.com/album/6a9GBHSCTEoyGopwFQOj19) | 4:17 | 2022-03-11 | 2023-09-30 |
 | [Linda Duas Vezes](https://open.spotify.com/track/09gAJP4C7rCyQyT2CkftBq) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Linda Duas Vezes](https://open.spotify.com/album/1vpJoWyk35tcsH5uAyUzso) | 2:34 | 2022-04-15 | 2022-11-12 |
 | [Linda, Chique, Sexy & Braba](https://open.spotify.com/track/1JwSUCeNoLgqb5rTUIbA3W) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [Linda, Chique, Sexy & Braba](https://open.spotify.com/album/3MFToXYZ3DfGpJqUEp5maK) | 2:44 | 2022-03-11 | 2022-04-23 |
@@ -171,6 +171,7 @@
 | [Owens](https://open.spotify.com/track/16yrHiZiZPsNlWVAHE94pT) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC) | [BIG CA$H](https://open.spotify.com/album/1XVJWUfSwdUuOicmgjYd1m) | 2:24 | 2023-12-08 | 2024-02-10 |
 | [Papo Reto](https://open.spotify.com/track/51KzKfcPELW9rrWi3Rxfll) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Papo Reto](https://open.spotify.com/album/0IIF5iRrk0Xc0spUkT2lzi) | 2:40 | 2022-03-11 | 2022-04-02 |
 | [Passa Nada](https://open.spotify.com/track/2Qap5fr0cEMMXyt4PCXM3Z) | [Bell Puã](https://open.spotify.com/artist/6epqSiuqjXpK1cFKGDrm2n), [Tombc](https://open.spotify.com/artist/6xWZS3GMWCdADhHYLW2gb6), [Marley no Beat](https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH) | [Passa Nada](https://open.spotify.com/album/26Lj5ic7yUaDilQhDLmMZA) | 2:52 | 2024-05-03 | 2024-05-18 |
+| [Peita Preta](https://open.spotify.com/track/3PQL3PRicFrAWGwRl5OFjG) | [Jéssica Sales](https://open.spotify.com/artist/3vVoudC6n2tmDICASvcMLz), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Asfalto Rec](https://open.spotify.com/artist/0QGicFlDrqHZqBIVSjWWMv) | [Peita Preta](https://open.spotify.com/album/0sCG1dui8ftMQkNVyemeA6) | 2:58 | 2024-07-05 |  |
 | [Pele.](https://open.spotify.com/track/0gDMh0AU5u9QDmZqRNLvHo) | [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq) | [Pele.](https://open.spotify.com/album/3SnK4T0S2TShoO0WTTGK9K) | 3:25 | 2022-03-11 | 2022-06-04 |
 | [Pensamentos Intrusivos](https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 2:13 | 2023-10-20 |  |
 | [Perfil \#89 \- Sapiência](https://open.spotify.com/track/5a1cIb0jtkhrNTLxQ8Hu2z) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Perfil \#89 \- Sapiência](https://open.spotify.com/album/0WSNvJv1ZQqqwa8CISl1tQ) | 3:52 | 2024-03-08 |  |

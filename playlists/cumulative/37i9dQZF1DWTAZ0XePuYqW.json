@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "That's that big energy. Cover: Channel Tres",
+  "description": "That's that big energy. Cover: Tinashe",
   "name": "Bounce",
   "tracks": [
     {
@@ -254,6 +254,24 @@
       "duration_ms": 141533,
       "name": "808",
       "url": "https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK"
+    },
+    {
+      "album": {
+        "name": "BARE CHAT",
+        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138088,
+      "name": "Ackee",
+      "url": "https://open.spotify.com/track/2cEZKqPlouhdWVAQ3qFGFu"
     },
     {
       "album": {
@@ -535,6 +553,40 @@
     },
     {
       "album": {
+        "name": "ATL Sh*t (Original Mix)",
+        "url": "https://open.spotify.com/album/2OrDOyF0YPykoZigArtHyx"
+      },
+      "artists": [
+        {
+          "name": "Stefan Ringer",
+          "url": "https://open.spotify.com/artist/1qJyku2FyCAAahyeoXs9qV"
+        },
+        {
+          "name": "Ash Lauryn",
+          "url": "https://open.spotify.com/artist/1DAJGebgIA7OjVy2umBB8g"
+        },
+        {
+          "name": "Kai Alc\u00e9",
+          "url": "https://open.spotify.com/artist/28okccoDb505PNOF3LeMTi"
+        },
+        {
+          "name": "Niyah",
+          "url": "https://open.spotify.com/artist/3reO9I7N4odf1RGj8rRdnU"
+        },
+        {
+          "name": "Divine Interface",
+          "url": "https://open.spotify.com/artist/1GoScGT5iRz0DmNQUDjLoL"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466000,
+      "name": "ATL Sh*t",
+      "url": "https://open.spotify.com/track/4zSY1xhF2kImW63OrMyi0S"
+    },
+    {
+      "album": {
         "name": "CHUPACABRA",
         "url": "https://open.spotify.com/album/3YUzlaFbKNUi7BmYk9MBE3"
       },
@@ -672,7 +724,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 173823,
       "name": "Baddies",
       "url": "https://open.spotify.com/track/72ZVTeHKV9Uzkk8qtYbkss"
@@ -2240,7 +2292,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 195813,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/02HnreS8f1YDpr5qXrCtw3"
@@ -4318,6 +4370,28 @@
     {
       "album": {
         "name": "Match My Freak EP",
+        "url": "https://open.spotify.com/album/2xyUg14ugS5nOqSJSoEjr1"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182643,
+      "name": "Nasty - Match My Chic Remix",
+      "url": "https://open.spotify.com/track/5Z1bS1NU57tcnhqNAXVM6D"
+    },
+    {
+      "album": {
+        "name": "Match My Freak EP",
         "url": "https://open.spotify.com/album/1tDRvPJmMJhvYXbmVNMAXJ"
       },
       "artists": [
@@ -4332,7 +4406,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 283157,
       "name": "Nasty - Match My Heat Remix",
       "url": "https://open.spotify.com/track/46ZmwtyO7mtZyhXC0KQA64"
@@ -4394,7 +4468,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 90545,
       "name": "Neva Beta",
       "url": "https://open.spotify.com/track/6Jr0RcXA9xjK7vyoHcZAU5"
@@ -4490,7 +4564,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 164706,
       "name": "Normally (feat. NSG)",
       "url": "https://open.spotify.com/track/3xo3GCZI9Vz1GVDeIKWJhR"
@@ -4508,7 +4582,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 121573,
       "name": "Not what keeps you",
       "url": "https://open.spotify.com/track/45IFORnsYXubFScDDadOV6"
@@ -4730,6 +4804,24 @@
       "duration_ms": 326048,
       "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
       "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
+    },
+    {
+      "album": {
+        "name": "Peak",
+        "url": "https://open.spotify.com/album/6dfw2mZzkclt69losFJxyD"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168226,
+      "name": "Peak",
+      "url": "https://open.spotify.com/track/0g3GwtbGrSZOJaGmHpQdEA"
     },
     {
       "album": {
@@ -6379,6 +6471,24 @@
     },
     {
       "album": {
+        "name": "TOO COOL TO BE CARELESS",
+        "url": "https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220046,
+      "name": "TOO COOL TO BE CARELESS",
+      "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5"
+    },
+    {
+      "album": {
         "name": "too fast",
         "url": "https://open.spotify.com/album/6UV79NnkVMC2doyJeC4twp"
       },
@@ -6402,6 +6512,28 @@
       "duration_ms": 194028,
       "name": "too fast",
       "url": "https://open.spotify.com/track/6GZ4qfWtm0xjKPw5EKSdze"
+    },
+    {
+      "album": {
+        "name": "Too Girly Girly",
+        "url": "https://open.spotify.com/album/4NYkz5khn8h090UNsK1958"
+      },
+      "artists": [
+        {
+          "name": "Alicai Harley",
+          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
+        },
+        {
+          "name": "Toddla T",
+          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Too Girly Girly",
+      "url": "https://open.spotify.com/track/4pxmWIqKflqDNfhon9AOat"
     },
     {
       "album": {

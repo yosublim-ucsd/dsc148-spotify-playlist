@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: LP Giobbi",
-  "num_followers": 860496,
+  "num_followers": 860550,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoBtmgAAAAA7uAdos5DmhuOPky0hGbJA",
+  "snapshot_id": "ZoeERAAAAAABRRbbkdrbBdTNJZDX0Kr1",
   "tracks": [
     {
       "added_at": "2024-06-28 04:20:08",
@@ -27,6 +27,26 @@
       "duration_ms": 298425,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/70u4z4wltq4ANdu7EszBXX"
+    },
+    {
+      "added_at": "2024-07-05 05:27:32",
+      "album": {
+        "name": "Head Rush",
+        "url": "https://open.spotify.com/album/1LWY99BhdUJPU72PZ0MCIc"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 169986,
+      "name": "ASPEN (feat. Toro Y Moi)",
+      "url": "https://open.spotify.com/track/5EdKi0sMiXYvfvuxx8D6sM"
     },
     {
       "added_at": "2024-06-24 13:06:02",
@@ -61,6 +81,22 @@
       "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
     },
     {
+      "added_at": "2024-07-05 05:27:32",
+      "album": {
+        "name": "Spiritual",
+        "url": "https://open.spotify.com/album/04Wfk6jaMs5Han513hslrL"
+      },
+      "artists": [
+        {
+          "name": "Blush'ko",
+          "url": "https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Spiritual",
+      "url": "https://open.spotify.com/track/3rGGwt7jXRx5jcNu84yaC2"
+    },
+    {
       "added_at": "2024-06-29 20:24:58",
       "album": {
         "name": "Snog",
@@ -75,22 +111,6 @@
       "duration_ms": 207134,
       "name": "Snog",
       "url": "https://open.spotify.com/track/3HM98iPblYJraH2pQIwlti"
-    },
-    {
-      "added_at": "2024-06-28 04:20:08",
-      "album": {
-        "name": "Phantom",
-        "url": "https://open.spotify.com/album/1Dbr9RCt2NuoJ4q5m0bK6J"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 281106,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/1sM70q8HETr85d99r1eWdL"
     },
     {
       "added_at": "2024-06-24 13:06:02",
@@ -153,6 +173,26 @@
       "url": "https://open.spotify.com/track/5hDtgTpEmgkRFdiOREk98b"
     },
     {
+      "added_at": "2024-07-05 05:27:32",
+      "album": {
+        "name": "Struckdown",
+        "url": "https://open.spotify.com/album/4RHz9Dy0nLdDaXxlIFxJHe"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "Arno Faraji",
+          "url": "https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ"
+        }
+      ],
+      "duration_ms": 174831,
+      "name": "Struckdown",
+      "url": "https://open.spotify.com/track/2kb1zk4JsOuHQnstPJx1V7"
+    },
+    {
       "added_at": "2024-06-28 04:20:08",
       "album": {
         "name": "stay",
@@ -189,6 +229,26 @@
       "url": "https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt"
     },
     {
+      "added_at": "2024-07-05 05:27:32",
+      "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/0J9qs4ytoY8jvOuf4E2lp5"
+      },
+      "artists": [
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+        },
+        {
+          "name": "Willaris. K",
+          "url": "https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj"
+        }
+      ],
+      "duration_ms": 174519,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/6OVWzb8z0HCUscjq9wb1Yo"
+    },
+    {
       "added_at": "2024-06-24 13:06:02",
       "album": {
         "name": "SENESCENCE 03 + 04",
@@ -219,6 +279,22 @@
       "duration_ms": 145320,
       "name": "MADNESS!",
       "url": "https://open.spotify.com/track/3nZIiM8v7Y1fcxmmqAYHh9"
+    },
+    {
+      "added_at": "2024-07-05 05:27:32",
+      "album": {
+        "name": "amun\u00ec",
+        "url": "https://open.spotify.com/album/0NLBvNzqS8IJWoYFEwkuDr"
+      },
+      "artists": [
+        {
+          "name": "fenoaltea",
+          "url": "https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L"
+        }
+      ],
+      "duration_ms": 199565,
+      "name": "amun\u00ec",
+      "url": "https://open.spotify.com/track/7f55PbgmDgjN2bdwm2btjY"
     },
     {
       "added_at": "2024-06-24 13:06:02",
@@ -289,6 +365,22 @@
       "url": "https://open.spotify.com/track/0lDb4lRcpgiH698Y1tavNi"
     },
     {
+      "added_at": "2024-06-28 04:20:08",
+      "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/1Dbr9RCt2NuoJ4q5m0bK6J"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 281106,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/1sM70q8HETr85d99r1eWdL"
+    },
+    {
       "added_at": "2024-06-24 13:06:02",
       "album": {
         "name": "DON\u2019T THINK ABOUT IT MUCH",
@@ -335,6 +427,22 @@
       "duration_ms": 210913,
       "name": "Now She Knows",
       "url": "https://open.spotify.com/track/7nW7leLofx8DTpJ4LYayRi"
+    },
+    {
+      "added_at": "2024-07-05 05:27:32",
+      "album": {
+        "name": "could you not go?",
+        "url": "https://open.spotify.com/album/7qE5I0RQDSp3xt5QYPMuF1"
+      },
+      "artists": [
+        {
+          "name": "Vaarwell",
+          "url": "https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG"
+        }
+      ],
+      "duration_ms": 167753,
+      "name": "could you not go?",
+      "url": "https://open.spotify.com/track/7KZ9PE9btCfgqqhMGDh7P6"
     },
     {
       "added_at": "2024-06-28 04:20:08",
@@ -731,22 +839,6 @@
     {
       "added_at": "2024-06-24 13:06:02",
       "album": {
-        "name": ":)",
-        "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 180568,
-      "name": ":)",
-      "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
-    },
-    {
-      "added_at": "2024-06-24 13:06:02",
-      "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/5vADgMWFWWTBPwexXjBEAi"
       },
@@ -1007,26 +1099,6 @@
     {
       "added_at": "2024-06-24 13:06:02",
       "album": {
-        "name": "Stop Thinking Start Feeling",
-        "url": "https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 162807,
-      "name": "Eating Heartache (feat. spill tab)",
-      "url": "https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS"
-    },
-    {
-      "added_at": "2024-06-24 13:06:02",
-      "album": {
         "name": "Kimbara",
         "url": "https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu"
       },
@@ -1147,22 +1219,6 @@
     {
       "added_at": "2024-06-24 13:06:02",
       "album": {
-        "name": "Darkroom",
-        "url": "https://open.spotify.com/album/0EL6B1uF8KkXOh99PnR5ME"
-      },
-      "artists": [
-        {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
-        }
-      ],
-      "duration_ms": 214773,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/284f8fL3XQ71bGIZvNTpId"
-    },
-    {
-      "added_at": "2024-06-24 13:06:02",
-      "album": {
         "name": "Love You Better",
         "url": "https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6"
       },
@@ -1199,26 +1255,6 @@
       "duration_ms": 202862,
       "name": "Still Wonder - Edit",
       "url": "https://open.spotify.com/track/0E4x6alpwvpbzF7zynsQXO"
-    },
-    {
-      "added_at": "2024-06-24 13:06:02",
-      "album": {
-        "name": "Over You",
-        "url": "https://open.spotify.com/album/3wuKH3EZ96ocxjcvozaHGc"
-      },
-      "artists": [
-        {
-          "name": "CHEEKS",
-          "url": "https://open.spotify.com/artist/3yeAenPW5DfjuousCOdek9"
-        },
-        {
-          "name": "CRONIN",
-          "url": "https://open.spotify.com/artist/6FJuV645kRPPrMRHLjPq7M"
-        }
-      ],
-      "duration_ms": 142608,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/5GdlsWmNyourbjreXO8cW4"
     },
     {
       "added_at": "2024-06-24 13:06:02",
@@ -1411,22 +1447,6 @@
       "duration_ms": 179750,
       "name": "Touch",
       "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
-    },
-    {
-      "added_at": "2024-06-24 13:06:02",
-      "album": {
-        "name": "joycelyn's dance",
-        "url": "https://open.spotify.com/album/1ZmhzQQWURtuF9K7yPcAoJ"
-      },
-      "artists": [
-        {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "joycelyn's dance",
-      "url": "https://open.spotify.com/track/6OI1stBQI4YHH2ceWVIrk4"
     },
     {
       "added_at": "2024-06-24 13:06:02",
@@ -1659,22 +1679,6 @@
       "duration_ms": 189293,
       "name": "Shine Love In",
       "url": "https://open.spotify.com/track/6oX2fvFiYdxpVXhvUiUPX0"
-    },
-    {
-      "added_at": "2024-06-24 13:06:02",
-      "album": {
-        "name": "And 1",
-        "url": "https://open.spotify.com/album/5qO7TlsQmMhQ5LomtBrKlT"
-      },
-      "artists": [
-        {
-          "name": "Mel\u00e9",
-          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "And 1",
-      "url": "https://open.spotify.com/track/3jY03u0KugM4iPu0nKbJnn"
     },
     {
       "added_at": "2024-06-24 13:06:02",

@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW?si=Mz0GoCLoQ7-LwD95Qaea4A\">AKA's</a> phenomenal \"LEVELS\".",
-  "num_followers": 63154,
+  "num_followers": 63219,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-06-28 06:57:16",
       "album": {
-        "name": "Greatest Hits 1964-2004",
-        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 220360,
-      "name": "Nomakanjani",
-      "url": "https://open.spotify.com/track/7sAaRNhvkHH87PnV5ArZ98"
-    },
-    {
-      "added_at": "2024-06-28 06:57:16",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 228413,
       "name": "Homeless (with Ladysmith Black Mambazo)",
       "url": "https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy"
+    },
+    {
+      "added_at": "2024-06-28 06:57:16",
+      "album": {
+        "name": "Greatest Hits 1964-2004",
+        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 220360,
+      "name": "Nomakanjani",
+      "url": "https://open.spotify.com/track/7sAaRNhvkHH87PnV5ArZ98"
     },
     {
       "added_at": "2024-06-28 06:57:16",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-06-28 06:57:16",
       "album": {
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/31trLskVnGbl1GFS9BzOkZ"
+      },
+      "artists": [
+        {
+          "name": "Watershed",
+          "url": "https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW"
+        }
+      ],
+      "duration_ms": 180546,
+      "name": "Indigo Girl",
+      "url": "https://open.spotify.com/track/13lumrL4b1cw4htq7R2uKV"
+    },
+    {
+      "added_at": "2024-06-28 06:57:16",
+      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
       },
@@ -407,26 +423,6 @@
       "duration_ms": 279306,
       "name": "Weekend Special",
       "url": "https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r"
-    },
-    {
-      "added_at": "2024-06-28 06:57:16",
-      "album": {
-        "name": "Halloween",
-        "url": "https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        },
-        {
-          "name": "2 Shot",
-          "url": "https://open.spotify.com/artist/1w7mqJk0lodbOOb7tZGPzX"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "Mambotjie (feat. 2Shot)",
-      "url": "https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM"
     },
     {
       "added_at": "2024-06-28 06:57:16",
@@ -447,18 +443,22 @@
     {
       "added_at": "2024-06-28 06:57:16",
       "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/31trLskVnGbl1GFS9BzOkZ"
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF"
       },
       "artists": [
         {
-          "name": "Watershed",
-          "url": "https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW"
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        },
+        {
+          "name": "2 Shot",
+          "url": "https://open.spotify.com/artist/1w7mqJk0lodbOOb7tZGPzX"
         }
       ],
-      "duration_ms": 180546,
-      "name": "Indigo Girl",
-      "url": "https://open.spotify.com/track/13lumrL4b1cw4htq7R2uKV"
+      "duration_ms": 262826,
+      "name": "Mambotjie (feat. 2Shot)",
+      "url": "https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM"
     },
     {
       "added_at": "2024-06-28 06:57:16",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-06-28 06:57:16",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 351746,
-      "name": "Shibobo / The Final Countdown",
-      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
-    },
-    {
-      "added_at": "2024-06-28 06:57:16",
-      "album": {
         "name": "Another Universe",
         "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 314772,
       "name": "Free",
       "url": "https://open.spotify.com/track/45k24cRKkfkLoA6nslCwHG"
+    },
+    {
+      "added_at": "2024-06-28 06:57:16",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 351746,
+      "name": "Shibobo / The Final Countdown",
+      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
     },
     {
       "added_at": "2024-06-28 06:57:16",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-06-28 06:57:16",
       "album": {
-        "name": "Roba Letheka",
-        "url": "https://open.spotify.com/album/6rIrhFTuKliZLJEubiBkre"
+        "name": "Ancient Evening",
+        "url": "https://open.spotify.com/album/76liT8ky1ucxXF1niWhRYT"
       },
       "artists": [
         {
-          "name": "Ishmael",
-          "url": "https://open.spotify.com/artist/23kwDDCo3lIQQvjuWf1b08"
+          "name": "Sibongile Khumalo",
+          "url": "https://open.spotify.com/artist/0Weus9dOTFjSa7Kv230UsI"
         }
       ],
-      "duration_ms": 339133,
-      "name": "Roba Letheka",
-      "url": "https://open.spotify.com/track/5Y3V1EP3PhEuriQnsloibv"
+      "duration_ms": 246293,
+      "name": "Thula Mama",
+      "url": "https://open.spotify.com/track/28w5yEBRRqVhxxHgoBNzfM"
     },
     {
       "added_at": "2024-06-28 06:57:16",
@@ -987,18 +987,18 @@
     {
       "added_at": "2024-06-28 06:57:16",
       "album": {
-        "name": "Ancient Evening",
-        "url": "https://open.spotify.com/album/76liT8ky1ucxXF1niWhRYT"
+        "name": "Roba Letheka",
+        "url": "https://open.spotify.com/album/6rIrhFTuKliZLJEubiBkre"
       },
       "artists": [
         {
-          "name": "Sibongile Khumalo",
-          "url": "https://open.spotify.com/artist/0Weus9dOTFjSa7Kv230UsI"
+          "name": "Ishmael",
+          "url": "https://open.spotify.com/artist/23kwDDCo3lIQQvjuWf1b08"
         }
       ],
-      "duration_ms": 246293,
-      "name": "Thula Mama",
-      "url": "https://open.spotify.com/track/28w5yEBRRqVhxxHgoBNzfM"
+      "duration_ms": 339133,
+      "name": "Roba Letheka",
+      "url": "https://open.spotify.com/track/5Y3V1EP3PhEuriQnsloibv"
     },
     {
       "added_at": "2024-06-28 06:57:16",

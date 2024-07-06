@@ -4,7 +4,7 @@
 
 > The best in modern punk rock music\. Cover: Speed
 
-349 songs - 17 hr 34 min
+350 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Mayday](https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Mayday](https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo) | 3:15 | 2022-12-02 | 2023-08-05 |
 | [me vs me vs all of y'all](https://open.spotify.com/track/0t7VlVRdaVBqH1p1UIPcrV) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [me vs me vs all of y'all](https://open.spotify.com/album/5wJmMACyVn4r4Eb3AXqM1u) | 2:59 | 2023-01-20 | 2023-04-15 |
 | [Menace](https://open.spotify.com/track/5wkska9Au4AdhnZjEf3nOR) | [Hot Water Music](https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff) | [Menace/Burn Forever](https://open.spotify.com/album/5gBse4SykL0eYCMdqTDCGt) | 3:25 | 2024-05-31 | 2024-06-15 |
+| [Mirage](https://open.spotify.com/track/486JaB4ZK017faPW9kNpje) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Mirage](https://open.spotify.com/album/42D3FszT9XdwpK9zICUBsa) | 2:52 | 2024-07-05 |  |
 | [Mirror Muscles](https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Mirror Muscles](https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG) | 2:43 | 2024-03-15 |  |
 | [MK Nothing](https://open.spotify.com/track/6P8YIrdXjCKEOxGj3jgAx2) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [MK Nothing](https://open.spotify.com/album/3O6JtZeMzT19scGcO0z88j) | 3:24 | 2023-06-08 | 2024-04-27 |
 | [Mob DLA](https://open.spotify.com/track/2aeOHlYvx9IIdWmyTiQelk) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Mob DLA](https://open.spotify.com/album/5e13yCtWWb0HlXbExrGWYw) | 2:29 | 2024-06-14 |  |
@@ -342,7 +343,7 @@
 | [Wake Me Up \(When This Nightmare’s Over\)](https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:36 | 2022-12-02 | 2023-11-18 |
 | [Walk Alone](https://open.spotify.com/track/6hpIW8zOcktH6AbRuDWwjr) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp), [Matty Mullins](https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot) | [Walk Alone](https://open.spotify.com/album/0Cpkr1J8G7a1ntNd1ZLdyg) | 3:15 | 2024-06-27 |  |
 | [wallflower](https://open.spotify.com/track/1uSCWWZnyo78wKELz8pXlD) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [wallflower](https://open.spotify.com/album/3n1eCljBLZcM6YOBbNevEt) | 3:10 | 2024-06-14 |  |
-| [Was It Worth It](https://open.spotify.com/track/2ADNTs7rzqTcl9kDn6p0xZ) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK) | [Youth](https://open.spotify.com/album/4yyDhCb1DBkS0VGy3L4fOa) | 3:37 | 2024-06-27 |  |
+| [Was It Worth It](https://open.spotify.com/track/2ADNTs7rzqTcl9kDn6p0xZ) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK) | [Youth](https://open.spotify.com/album/4yyDhCb1DBkS0VGy3L4fOa) | 3:37 | 2024-06-27 | 2024-07-06 |
 | [Waste](https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Waste](https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj) | 3:06 | 2022-12-02 | 2023-11-18 |
 | [Watch You Go](https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [I Want To Disappear](https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo) | 2:10 | 2024-06-27 |  |
 | [WEIRDO](https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ) | [GANG!](https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C) | [WEIRDO](https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz) | 2:35 | 2024-05-31 | 2024-06-28 |

@@ -2,7 +2,7 @@
 
 ### [BILLIONS CLUB](https://open.spotify.com/playlist/37i9dQZF1DX7iB3RCnBnN4)
 
-> All the songs with more than 1 BILLION streams on Spotify\. Cover: Rauw Alejandro & Chencho Corleone
+> All the songs with more than 1 BILLION streams on Spotify\. Cover: Benson Boone
 
 730 songs - 1 day 20 hr 19 min
 

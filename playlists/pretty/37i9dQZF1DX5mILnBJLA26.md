@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV?si=b0fzkfmlRb\-NlfKPz21aoQ">Felo Le Tee</a>,  <a href="https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS?si=Qve3PtFNRIuXXL9SB4PJQg">Scotts Maphuma</a>,  <a href="https://open.spotify.com/artist/5JyEgson2YVsJT0fNGroWn?si=e83buzJWSQeSW01S8jWzqA">Thabza Tee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 799,569 likes - 51 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,477 likes - 51 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

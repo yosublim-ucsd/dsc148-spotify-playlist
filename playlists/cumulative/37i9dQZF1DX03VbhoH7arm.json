@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Grandes hits do BR e do mundo! / Foto: LUDMILLA, IZA",
+  "description": "Grandes hits do BR e do mundo! / Foto: Sevdaliza, Pabllo Vittar, Yseult",
   "name": "Hot Hits Brasil",
   "tracks": [
     {
@@ -221,6 +221,28 @@
     },
     {
       "album": {
+        "name": "Aceita (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/6QXjrHkPxuk3N8ZINvq3le"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Aceita - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/5neNUN5qPB1hkJzhT823rO"
+    },
+    {
+      "album": {
         "name": "ACORDA PEDRINHO",
         "url": "https://open.spotify.com/album/3zYKRs5QY4f5B66TTAg3p6"
       },
@@ -288,6 +310,32 @@
       "duration_ms": 148048,
       "name": "Ai Papai",
       "url": "https://open.spotify.com/track/4PQ5AInr4YoBauth9YPduL"
+    },
+    {
+      "album": {
+        "name": "Alibi (with Pabllo Vittar & Yseult)",
+        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161655,
+      "name": "Alibi (with Pabllo Vittar & Yseult)",
+      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
       "album": {
@@ -2710,7 +2758,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 110858,
       "name": "Grip",
       "url": "https://open.spotify.com/track/52kROkm8RbJsYLM5taByIP"
@@ -4212,7 +4260,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 171600,
       "name": "No Particular",
       "url": "https://open.spotify.com/track/1ZfWqYG2avyXoJhhr8nn80"

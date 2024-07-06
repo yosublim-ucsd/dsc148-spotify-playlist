@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-22",
-  "description": "\u00a1Bienvenidos a La Tierra del Corrido! Historias que hacen historia. Banda MS y Los Tucanes de Tijuana en portada. ",
+  "description": "\u00a1Bienvenidos a La Tierra del Corrido! Historias que hacen historia. R\u00e9gulo Caro en portada. ",
   "name": "La Tierra del Corrido",
   "tracks": [
     {
@@ -20,6 +20,42 @@
       "duration_ms": 174586,
       "name": "25 De Diciembre",
       "url": "https://open.spotify.com/track/2ZyPDr61OhPbnLp8L9rAjW"
+    },
+    {
+      "album": {
+        "name": "Musica, Polvora y Sangre",
+        "url": "https://open.spotify.com/album/1EoN3U7I9CrVgLDUbEHEJV"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183013,
+      "name": "25 de Diciembre",
+      "url": "https://open.spotify.com/track/0vkWhjZgixnhhvMQjzLa9v"
+    },
+    {
+      "album": {
+        "name": "Ni Hoy Ni Manana",
+        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126120,
+      "name": "A La Moda",
+      "url": "https://open.spotify.com/track/4qap3khBojdW5RkU9FouIV"
     },
     {
       "album": {
@@ -82,7 +118,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 174942,
       "name": "AMG",
       "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
@@ -178,6 +214,24 @@
       "duration_ms": 184106,
       "name": "Ando Enfocado",
       "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
+    },
+    {
+      "album": {
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198026,
+      "name": "Aquiles Afirmo",
+      "url": "https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY"
     },
     {
       "album": {
@@ -315,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Morir y Existir En Vivo",
+        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282266,
+      "name": "Cara A La Muerte (En Vivo)",
+      "url": "https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ"
+    },
+    {
+      "album": {
         "name": "El Heredero Del Cartel",
         "url": "https://open.spotify.com/album/4bq24Gh63VIRn6v41VJVhs"
       },
@@ -449,6 +521,32 @@
     },
     {
       "album": {
+        "name": "R\u00e9gulo Caro vs. Emilio Garra",
+        "url": "https://open.spotify.com/album/3jpK8xsQuiEeCLCj3zwpyY"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Emilio Garra",
+          "url": "https://open.spotify.com/artist/5EgezdXajH2FAf79KHmrah"
+        },
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186812,
+      "name": "Cien vidas Antrax",
+      "url": "https://open.spotify.com/track/6KHrhw2BMo3L9rNhEPDyq6"
+    },
+    {
+      "album": {
         "name": "Cruisin' with Junior H",
         "url": "https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM"
       },
@@ -536,7 +634,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 204453,
       "name": "Compa\u00f1era Presidenta",
       "url": "https://open.spotify.com/track/0p8TaudvyXLcM67ORslaSH"
@@ -756,7 +854,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 162854,
       "name": "Domingo Corrales",
       "url": "https://open.spotify.com/track/2YhF4zGkvmoxMKfTDXN19n"
@@ -984,7 +1082,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 146146,
       "name": "El Chulo",
       "url": "https://open.spotify.com/track/4xydTcMJJGaTEJUdYaEUmQ"
@@ -1092,7 +1190,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 202327,
       "name": "El Corrido de Panchito",
       "url": "https://open.spotify.com/track/5X1fOMurUPOobZJj95NDef"
@@ -1154,6 +1252,24 @@
       "duration_ms": 205141,
       "name": "El De Las Mieles",
       "url": "https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi"
+    },
+    {
+      "album": {
+        "name": "El de los Lentes Carrera",
+        "url": "https://open.spotify.com/album/2VCtTs3ZpYcE82M2CKhEM4"
+      },
+      "artists": [
+        {
+          "name": "Revolver Cannabis",
+          "url": "https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223137,
+      "name": "El de los Lentes Carrera",
+      "url": "https://open.spotify.com/track/0GsCrrrcK5asymW6QpCUKc"
     },
     {
       "album": {
@@ -1668,7 +1784,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 177625,
       "name": "El Quijote De Don Chuy",
       "url": "https://open.spotify.com/track/26zCUlNao14hL4HmfgmRTp"
@@ -1837,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Ni Hoy Ni Manana",
+        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154946,
+      "name": "El Trokero Lokochon",
+      "url": "https://open.spotify.com/track/6wMYwA7VyjkvTFUPj2LgyB"
+    },
+    {
+      "album": {
         "name": "Corridos Volumen 1",
         "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
       },
@@ -1942,7 +2076,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 200493,
       "name": "Empujando la L\u00ednea",
       "url": "https://open.spotify.com/track/4doAczw4VqEa9qJu1M8Ou5"
@@ -2101,6 +2235,24 @@
     },
     {
       "album": {
+        "name": "De Sinaloa Para El Mundo",
+        "url": "https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161613,
+      "name": "Escuela Del Virus Antrax",
+      "url": "https://open.spotify.com/track/4UUf48kLSSO3fLL0lYkfoe"
+    },
+    {
+      "album": {
         "name": "Musica, Polvora y Sangre",
         "url": "https://open.spotify.com/album/1EoN3U7I9CrVgLDUbEHEJV"
       },
@@ -2116,6 +2268,24 @@
       "duration_ms": 201000,
       "name": "Estilo Especial",
       "url": "https://open.spotify.com/track/5gu86M6D80wPPDnnrxCQ79"
+    },
+    {
+      "album": {
+        "name": "Carteles Unidos",
+        "url": "https://open.spotify.com/album/6SfZZhWHTrLDbn8TfyiOTr"
+      },
+      "artists": [
+        {
+          "name": "El Movimiento Alterado",
+          "url": "https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145493,
+      "name": "Estrategia De Escape",
+      "url": "https://open.spotify.com/track/5RJ6UcbfdyH9zA57IAK9vO"
     },
     {
       "album": {
@@ -2272,7 +2442,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 203885,
       "name": "Hoy Todo Cambio",
       "url": "https://open.spotify.com/track/5K8lmNY7fv7VcSuHHXP1Qa"
@@ -2904,7 +3074,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 212878,
       "name": "LADY GAGA",
       "url": "https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR"
@@ -3052,7 +3222,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 137750,
       "name": "Lealtad",
       "url": "https://open.spotify.com/track/5HG6bnHO89RRqiqxAVr20B"
@@ -3176,6 +3346,32 @@
       "duration_ms": 249774,
       "name": "Los Tres Amarradores",
       "url": "https://open.spotify.com/track/2YOZV4dEKxK9s54VcpDBkD"
+    },
+    {
+      "album": {
+        "name": "Con El Pie Derecho",
+        "url": "https://open.spotify.com/album/7tfTfzVmVrplYDru65lUbP"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Tino Acosta",
+          "url": "https://open.spotify.com/artist/2KDJtRiuNSnTiyxYZnhhBN"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150733,
+      "name": "Los Tres Mandos",
+      "url": "https://open.spotify.com/track/0wS4OuuXKAXN8aUCG6f3tE"
     },
     {
       "album": {
@@ -3718,7 +3914,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 172560,
       "name": "Porte de Scarface",
       "url": "https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK"
@@ -3758,7 +3954,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 231855,
       "name": "Prueba De Fuego",
       "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
@@ -3812,7 +4008,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 231378,
       "name": "Que Tiene de Malo",
       "url": "https://open.spotify.com/track/3uUvQGiUZMj8WzG5Vo1MCz"

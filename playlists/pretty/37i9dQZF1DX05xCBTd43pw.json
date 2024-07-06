@@ -383,6 +383,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e"
+      },
+      "artists": [
+        {
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+        }
+      ],
+      "duration_ms": 164425,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Ready For It All",
         "url": "https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8"
       },
@@ -451,38 +467,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
-      },
-      "artists": [
-        {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
-        }
-      ],
-      "duration_ms": 157906,
-      "name": "Hurting",
-      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "No Time to Cry",
-        "url": "https://open.spotify.com/album/7BzVEVmymCnsyeSrq20MnC"
-      },
-      "artists": [
-        {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "No Time to Cry",
-      "url": "https://open.spotify.com/track/3Sb2oR0HGNPyhsx1qnJiDh"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "For The Night",
         "url": "https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw"
       },
@@ -503,6 +487,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
+      },
+      "artists": [
+        {
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+        }
+      ],
+      "duration_ms": 157906,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Alles was ich will",
         "url": "https://open.spotify.com/album/6vqi0ixcuy9pUSlGHFtNRa"
       },
@@ -519,18 +519,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e"
+        "name": "No Time to Cry",
+        "url": "https://open.spotify.com/album/7BzVEVmymCnsyeSrq20MnC"
       },
       "artists": [
         {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
         }
       ],
-      "duration_ms": 164425,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
+      "duration_ms": 182320,
+      "name": "No Time to Cry",
+      "url": "https://open.spotify.com/track/3Sb2oR0HGNPyhsx1qnJiDh"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -547,6 +547,22 @@
       "duration_ms": 142786,
       "name": "Another Heart",
       "url": "https://open.spotify.com/track/4azu3mztPqAbJLDGrcraQK"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "SucieriaZH",
+        "url": "https://open.spotify.com/album/0HOt4Q0nybLug5MreioV5j"
+      },
+      "artists": [
+        {
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+        }
+      ],
+      "duration_ms": 174296,
+      "name": "SucieriaZH",
+      "url": "https://open.spotify.com/track/1n5vXSrZ0xbFRG1JFi1L7t"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -599,26 +615,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/6ssTOfG6Bq2vnhAsnbOx73"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        },
-        {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
-        }
-      ],
-      "duration_ms": 177317,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5BsHkqrEgTvMjLChE7nFoI"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE"
       },
@@ -655,6 +651,26 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/6ssTOfG6Bq2vnhAsnbOx73"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        },
+        {
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+        }
+      ],
+      "duration_ms": 177317,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5BsHkqrEgTvMjLChE7nFoI"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Let You Down",
         "url": "https://open.spotify.com/album/0s3lcAryjPZFfLNB6gqWTk"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 165257,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/7xK8eI5X33bF5RxkyJDMXg"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "SucieriaZH",
-        "url": "https://open.spotify.com/album/0HOt4Q0nybLug5MreioV5j"
-      },
-      "artists": [
-        {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
-        }
-      ],
-      "duration_ms": 174296,
-      "name": "SucieriaZH",
-      "url": "https://open.spotify.com/track/1n5vXSrZ0xbFRG1JFi1L7t"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Daredevil",
-        "url": "https://open.spotify.com/album/1eLoAa0EpSIq1QhDUeEgaa"
-      },
-      "artists": [
-        {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
-        }
-      ],
-      "duration_ms": 153883,
-      "name": "Daredevil",
-      "url": "https://open.spotify.com/track/1edoaqKUVDzWNs4flkvNPw"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/5lJ5Ns7bIDv0KWoEJUW5xM"
       },
@@ -751,18 +735,34 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Zeilen f\u00fcr dich",
-        "url": "https://open.spotify.com/album/4aKndM39CDDcGyx1wBYx4P"
+        "name": "Daredevil",
+        "url": "https://open.spotify.com/album/1eLoAa0EpSIq1QhDUeEgaa"
       },
       "artists": [
         {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
         }
       ],
-      "duration_ms": 197506,
-      "name": "Zeilen f\u00fcr dich",
-      "url": "https://open.spotify.com/track/79jLtzgfJDXcEbMiTGzOUV"
+      "duration_ms": 153883,
+      "name": "Daredevil",
+      "url": "https://open.spotify.com/track/1edoaqKUVDzWNs4flkvNPw"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Tribut",
+        "url": "https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP"
+      },
+      "artists": [
+        {
+          "name": "Lo & Leduc",
+          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
+        }
+      ],
+      "duration_ms": 197992,
+      "name": "Tribut",
+      "url": "https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Tribut",
-        "url": "https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP"
+        "name": "Botanical Garden",
+        "url": "https://open.spotify.com/album/7bcLaytbnuWJCfqa2JdyBc"
       },
       "artists": [
         {
-          "name": "Lo & Leduc",
-          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
+          "name": "Anna Erhard",
+          "url": "https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e"
         }
       ],
-      "duration_ms": 197992,
-      "name": "Tribut",
-      "url": "https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy"
+      "duration_ms": 188740,
+      "name": "Botanical Garden",
+      "url": "https://open.spotify.com/track/7bx7MDIg8p098HHmsJebzl"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Botanical Garden",
-        "url": "https://open.spotify.com/album/7bcLaytbnuWJCfqa2JdyBc"
+        "name": "Zeilen f\u00fcr dich",
+        "url": "https://open.spotify.com/album/4aKndM39CDDcGyx1wBYx4P"
       },
       "artists": [
         {
-          "name": "Anna Erhard",
-          "url": "https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e"
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
         }
       ],
-      "duration_ms": 188740,
-      "name": "Botanical Garden",
-      "url": "https://open.spotify.com/track/7bx7MDIg8p098HHmsJebzl"
+      "duration_ms": 197506,
+      "name": "Zeilen f\u00fcr dich",
+      "url": "https://open.spotify.com/track/79jLtzgfJDXcEbMiTGzOUV"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -919,18 +919,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Can't Be Loved",
-        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
+        "name": "Snooze",
+        "url": "https://open.spotify.com/album/5SoFmAahTD61wjjoVl5cAZ"
       },
       "artists": [
         {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+          "name": "Lo & Leduc",
+          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
+        },
+        {
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
         }
       ],
-      "duration_ms": 171696,
-      "name": "Can't Be Loved",
-      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
+      "duration_ms": 182408,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/5aC4WmADiTLODiVefda591"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -951,6 +955,54 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Can't Be Loved",
+        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Can't Be Loved",
+      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "2560",
+        "url": "https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv"
+      },
+      "artists": [
+        {
+          "name": "James Gruntz",
+          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
+        }
+      ],
+      "duration_ms": 198586,
+      "name": "2560",
+      "url": "https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Flight Mode",
+        "url": "https://open.spotify.com/album/1b3uUquOhMNhm95lPI48Fo"
+      },
+      "artists": [
+        {
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+        }
+      ],
+      "duration_ms": 150794,
+      "name": "Flight Mode",
+      "url": "https://open.spotify.com/track/2jWdBRug5Q4jtYEA4xGHP5"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk"
       },
@@ -963,26 +1015,6 @@
       "duration_ms": 194379,
       "name": "Julia",
       "url": "https://open.spotify.com/track/6CTHHyCpJqqZiHQ8IdTKX3"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Snooze",
-        "url": "https://open.spotify.com/album/5SoFmAahTD61wjjoVl5cAZ"
-      },
-      "artists": [
-        {
-          "name": "Lo & Leduc",
-          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
-        },
-        {
-          "name": "Jugglerz",
-          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
-        }
-      ],
-      "duration_ms": 182408,
-      "name": "Snooze",
-      "url": "https://open.spotify.com/track/5aC4WmADiTLODiVefda591"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1039,22 +1071,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Flight Mode",
-        "url": "https://open.spotify.com/album/1b3uUquOhMNhm95lPI48Fo"
-      },
-      "artists": [
-        {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
-        }
-      ],
-      "duration_ms": 150794,
-      "name": "Flight Mode",
-      "url": "https://open.spotify.com/track/2jWdBRug5Q4jtYEA4xGHP5"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Kiss Me in the Morning",
         "url": "https://open.spotify.com/album/0Z1SeJgduMYHUHThMpMNEc"
       },
@@ -1071,18 +1087,38 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "2560",
-        "url": "https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv"
+        "name": "Remind Me (feat. Amanda Collis) [Radio Edit]",
+        "url": "https://open.spotify.com/album/3zWmOFP23qGMU82VObTE16"
       },
       "artists": [
         {
-          "name": "James Gruntz",
-          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+        },
+        {
+          "name": "Amanda Collis",
+          "url": "https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9"
         }
       ],
-      "duration_ms": 198586,
-      "name": "2560",
-      "url": "https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o"
+      "duration_ms": 187242,
+      "name": "Remind Me (feat. Amanda Collis) - Radio Edit",
+      "url": "https://open.spotify.com/track/1RLbLGxjESkAspZVcAJtev"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/1aglfhSGUMbBBU3OGkw5y0"
+      },
+      "artists": [
+        {
+          "name": "Marc Sway",
+          "url": "https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w"
+        }
+      ],
+      "duration_ms": 180373,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/0K8zPoD9XCfHt1Q2qVGmq2"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1131,42 +1167,6 @@
       "duration_ms": 176086,
       "name": "Mi Mundo",
       "url": "https://open.spotify.com/track/7b52XqwbhEFvsMMqO7YWLT"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Remind Me (feat. Amanda Collis) [Radio Edit]",
-        "url": "https://open.spotify.com/album/3zWmOFP23qGMU82VObTE16"
-      },
-      "artists": [
-        {
-          "name": "Gil Glaze",
-          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
-        },
-        {
-          "name": "Amanda Collis",
-          "url": "https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9"
-        }
-      ],
-      "duration_ms": 187242,
-      "name": "Remind Me (feat. Amanda Collis) - Radio Edit",
-      "url": "https://open.spotify.com/track/1RLbLGxjESkAspZVcAJtev"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "rabbit holes",
-        "url": "https://open.spotify.com/album/3phEbmy3JlzoSijThN3gzE"
-      },
-      "artists": [
-        {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
-        }
-      ],
-      "duration_ms": 216307,
-      "name": "rabbit holes",
-      "url": "https://open.spotify.com/track/1DIwckc1SPLX99Z0WdNGGi"
     }
   ],
   "unique_name": "Swiss Made",

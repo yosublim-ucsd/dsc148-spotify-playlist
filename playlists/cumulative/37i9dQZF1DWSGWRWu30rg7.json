@@ -10295,6 +10295,28 @@
     },
     {
       "album": {
+        "name": "Cap Cip Cup",
+        "url": "https://open.spotify.com/album/24M1PIABVcxglRD0jaCTCw"
+      },
+      "artists": [
+        {
+          "name": "3 Papah Muda",
+          "url": "https://open.spotify.com/artist/3wkv8QdNj7ElkfHJHzyP5j"
+        },
+        {
+          "name": "Intan Fauziah",
+          "url": "https://open.spotify.com/artist/15SBg9r1zorCYN8GtL0XcH"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232494,
+      "name": "Cap Cip Cup",
+      "url": "https://open.spotify.com/track/0xIV3W0W9LjlbNHcFMNWJt"
+    },
+    {
+      "album": {
         "name": "CAP TIKUS",
         "url": "https://open.spotify.com/album/1vpjSbxfqOG2BHBFIMiBfX"
       },
@@ -56568,6 +56590,24 @@
       "duration_ms": 240000,
       "name": "Suaka Sementara",
       "url": "https://open.spotify.com/track/61F1rI0iRfC3Um0GQCrmZj"
+    },
+    {
+      "album": {
+        "name": "Suamiku",
+        "url": "https://open.spotify.com/album/1rEERVVGC49VgTHStK8U2l"
+      },
+      "artists": [
+        {
+          "name": "Astrid Kuya",
+          "url": "https://open.spotify.com/artist/1GkXjvYeaQiWD4KwZVw5PY"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242800,
+      "name": "Suamiku",
+      "url": "https://open.spotify.com/track/5L6ydpf6e8upEYWBpBGggs"
     },
     {
       "album": {

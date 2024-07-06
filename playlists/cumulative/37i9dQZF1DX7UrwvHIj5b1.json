@@ -973,6 +973,24 @@
     },
     {
       "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/38MEpA8ZL3zXLgA8Hfxaq2"
+      },
+      "artists": [
+        {
+          "name": "Redrum",
+          "url": "https://open.spotify.com/artist/21GltJryVNKOnsKjrmYmnw"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Lucid Dreaming",
+      "url": "https://open.spotify.com/track/3533HywmhKf5Y5qXl5VLjp"
+    },
+    {
+      "album": {
         "name": "Malaku",
         "url": "https://open.spotify.com/album/7zev7B0gKjYLJfeUbQmhqx"
       },

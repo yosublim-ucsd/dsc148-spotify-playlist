@@ -4,7 +4,7 @@
 
 > Unearthing your new favourite artists\. Cover: Chloe Qisha\. Artwork: Isu Kim.
 
-731 songs - 1 day 16 hr 1 min
+732 songs - 1 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Dream](https://open.spotify.com/track/1a16L3oOnkaL7hJ8tnKh0y) | [Afee](https://open.spotify.com/artist/3UgXt5RJMgngGdKXJAFoOD) | [Dream](https://open.spotify.com/album/5kmbEpruzZP1WFrgvWUbsI) | 2:24 | 2024-02-25 |  |
 | [Dream](https://open.spotify.com/track/44JjaIcssjh9md4oEsoebj) | [Joel See](https://open.spotify.com/artist/44DkJ4VKIXuLWfpyL9Tbps) | [Dream](https://open.spotify.com/album/6Eoz5t6TnTaQRJM2ZiUaih) | 2:27 | 2024-01-11 |  |
 | [dream boy](https://open.spotify.com/track/24tXaX2zJStI0F5lcmVayK) | [FARIS](https://open.spotify.com/artist/4VnQPCXcDCyg6wp2hOhRFT) | [dream boy](https://open.spotify.com/album/7qi4kZQUYPtnj1aehOl1lk) | 2:46 | 2022-09-01 | 2023-02-10 |
+| [Dreamboat](https://open.spotify.com/track/4REaP0rbaiYRfwyZftoW4m) | [Mardiana](https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH) | [Dreamboat](https://open.spotify.com/album/1DAHdPHe7sgDYTtR9RdTct) | 1:46 | 2024-07-04 |  |
 | [Dreamin'](https://open.spotify.com/track/5xjNNZzBsDowaof05ktr8k) | [Charmaine Koh](https://open.spotify.com/artist/4AXM9QrBp5qGABjIQVPBQI) | [Dreamin'](https://open.spotify.com/album/24kIXLAef1zxugpKzZcNJ4) | 3:18 | 2022-01-20 | 2023-01-13 |
 | [Drunk Text](https://open.spotify.com/track/1aoOINdeCCgsOIIsxEITCE) | [Qastalani](https://open.spotify.com/artist/66WdsOJqSYj93d2tDRygaj) | [Drunk Text](https://open.spotify.com/album/7bP72JG545fWBAoF9Uuu75) | 2:59 | 2022-01-13 | 2022-06-17 |
 | [Early For Tomorrow](https://open.spotify.com/track/3hGu51uqgRxJ4x5VaSKwZu) | [Ihasamic!](https://open.spotify.com/artist/1iQWokgeROUSPQ8L39ycdh), [kozy allways](https://open.spotify.com/artist/68IGPZDzdsLulAkXZ3Hk6G), [Khalif Rawi](https://open.spotify.com/artist/5v4YVpkGC55ywh3z8jRSXm) | [Early For Tomorrow](https://open.spotify.com/album/4NxPxOw2IzMsM4MmmHFQeN) | 1:29 | 2023-11-02 | 2024-01-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Timmy Trumpet
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,836 likes - 81 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,929 likes - 81 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 49 | [Lonely Days](https://open.spotify.com/track/1FUHBdTDSFmHvZ7ReZpmI6) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Lonely Days](https://open.spotify.com/album/3t4J5uFJHqUubUkx8zTjf1) | 2:33 |
 | 50 | [Papi](https://open.spotify.com/track/5nsGwIGBNcwYVAPNdZCYQV) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Alina Pozi](https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY) | [Papi](https://open.spotify.com/album/0MJZ4UzanaEtPdYBTeuA20) | 2:18 |
 | 51 | [Give Me Your Love](https://open.spotify.com/track/5xRJsZ6Mv4O3W37JKkzmg5) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Give Me Your Love](https://open.spotify.com/album/1V2KNfEY5AwuyUAiVB1Qmb) | 3:14 |
-| 52 | [Monster](https://open.spotify.com/track/6jkID6wHsTic4gQc4917Uu) | [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv), [Lotus](https://open.spotify.com/artist/7irNamZWVrstQU1HWzY6mj) | [Monster](https://open.spotify.com/album/7MTbpfoYjvazpakg6CGDmS) | 2:20 |
+| 52 | [Monster](https://open.spotify.com/track/6jkID6wHsTic4gQc4917Uu) | [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b) | [Monster](https://open.spotify.com/album/7MTbpfoYjvazpakg6CGDmS) | 2:20 |
 | 53 | [You're My Everything](https://open.spotify.com/track/4aMXRyyANGyF9CjH1kBeBn) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6) | [You're My Everything](https://open.spotify.com/album/5KIUxaCnWXH6C554vpwGLb) | 2:19 |
 | 54 | [Rosarote Brille](https://open.spotify.com/track/7Azx17KAv7vNBE26kWVB7t) | [IIVEN](https://open.spotify.com/artist/0ydBtmgupeHnGowYxRo6tq), [yuki](https://open.spotify.com/artist/6VJWsJHZTbVvrL3xeFlySq) | [Rosarote Brille](https://open.spotify.com/album/5mvvidipy3CDSbvNgXIfpF) | 2:08 |
 | 55 | [Summer's Back](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Summer's Back](https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO) | 2:27 |

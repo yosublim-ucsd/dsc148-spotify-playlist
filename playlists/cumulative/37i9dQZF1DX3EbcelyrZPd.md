@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Alikiba
 
-419 songs - 1 day 0 hr 0 min
+420 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Kautaka](https://open.spotify.com/track/1CFb8yXaAWFHicsHC3mtiz) | [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [JFS Music](https://open.spotify.com/artist/2Y07NCPFAgmTOIjPzvekC1), [King Tone SA](https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA) | [Kautaka](https://open.spotify.com/album/194quVbCyP8bv2di4w7DEA) | 3:19 | 2024-05-09 |  |
 | [Kazi Iendelee \(feat\. Awilo Longomba\)](https://open.spotify.com/track/6BU5S85SVEsB8CDkyMwawi) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Awilo Longomba](https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT) | [Muziki Wa Samia](https://open.spotify.com/album/3JnsY2Il2yMASXxB21Kf5R) | 4:18 | 2024-06-07 |  |
 | [Kibango \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/6DVmXhTHQ5WKp1Fu5UlPfq) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Kibango \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/4KE7cYz611eP9Sip1kg1f7) | 3:16 | 2024-04-25 |  |
+| [Kisela](https://open.spotify.com/track/6V17CrLEjB70BQYgxwJFid) | [Mr Kesho](https://open.spotify.com/artist/6rZGUJzy0D4deAsDty3baO), [Ben Pol](https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4) | [Kisela](https://open.spotify.com/album/4xpwKdhIFAtXsTv4xyAWuh) | 3:30 | 2024-07-04 |  |
 | [Kiss Me](https://open.spotify.com/track/0LeiaF8Dudetg0XUznifzA) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Kiss Me](https://open.spotify.com/album/2iOaaDNIrrCzMvjQcGs0LE) | 3:33 | 2023-09-07 | 2024-01-19 |
 | [Kitu \(feat\. Bontle Smith & Tyler ICU\)](https://open.spotify.com/track/0GyrZ0OTQ7XEEhNtxumVzq) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Bontle Smith](https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4) | [Kitu \(feat\. Bontle Smith & Tyler ICU\)](https://open.spotify.com/album/3rlcakt6Svb3HU2oXWKNkA) | 5:56 | 2022-01-06 | 2022-07-01 |
 | [Kolo Kolo](https://open.spotify.com/track/2RnkJgwCzgvQU3MUysO1fG) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Kolo Kolo](https://open.spotify.com/album/6o46JSSqZAcJSma0j37t4u) | 3:15 | 2022-09-08 | 2023-09-15 |

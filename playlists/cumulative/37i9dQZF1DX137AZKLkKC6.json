@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Luis Alfonso, Ciro Qui\u00f1onez, Pipe Bueno y Jessi Uribe",
+  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Luis Alfonso",
   "name": "La + Popular",
   "tracks": [
     {
@@ -1357,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "El Cincuent\u00f3n",
+        "url": "https://open.spotify.com/album/25ZUOfikyBpQg7SfnfrCjG"
+      },
+      "artists": [
+        {
+          "name": "Fifty",
+          "url": "https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "El Cincuent\u00f3n",
+      "url": "https://open.spotify.com/track/5AWACaWINU1ZkEENNNEwTR"
+    },
+    {
+      "album": {
         "name": "El Desmadre",
         "url": "https://open.spotify.com/album/7EA4LPbqYNO4h7K0xhfA8c"
       },
@@ -1536,6 +1554,24 @@
       "duration_ms": 215263,
       "name": "El Problema",
       "url": "https://open.spotify.com/track/4fq7LJ43lbr1OYB93KvBDI"
+    },
+    {
+      "album": {
+        "name": "El Provinciano",
+        "url": "https://open.spotify.com/album/6QsYzYrVwGxP0YtqsXbjNy"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188642,
+      "name": "El Provinciano",
+      "url": "https://open.spotify.com/track/0Bm7IA6LFnU5KwlT3A8emi"
     },
     {
       "album": {
@@ -1975,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "Kbron y Medio",
+        "url": "https://open.spotify.com/album/43lZUcMvNSAHtQTVHzAgax"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258441,
+      "name": "Kbron y Medio",
+      "url": "https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0"
+    },
+    {
+      "album": {
         "name": "La Calientahuevos",
         "url": "https://open.spotify.com/album/44ZBC1HGyDGvxvxi9jY8cg"
       },
@@ -2114,7 +2168,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 262883,
       "name": "LA DURANGO",
       "url": "https://open.spotify.com/track/1uxiaf3DUS4vpOqNGu4MzL"
@@ -2717,6 +2771,24 @@
     },
     {
       "album": {
+        "name": "Mi Debilidad",
+        "url": "https://open.spotify.com/album/7gkYUuQbtMUDxkJof4FNpq"
+      },
+      "artists": [
+        {
+          "name": "Francy",
+          "url": "https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Mi Debilidad",
+      "url": "https://open.spotify.com/track/0WTgAgwnqTQsFgq01hXnb4"
+    },
+    {
+      "album": {
         "name": "Mi Decisi\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/1JlFSRosgIw9PiLtEtxBZS"
       },
@@ -3106,6 +3178,24 @@
       "duration_ms": 170280,
       "name": "No Duele Tu Olvido",
       "url": "https://open.spotify.com/track/4k1Fa69L8ink1epcYhljZj"
+    },
+    {
+      "album": {
+        "name": "No Me 100to Bien",
+        "url": "https://open.spotify.com/album/3FYnU0zDcAikblh1uTYQ95"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202767,
+      "name": "No Me 100to Bien",
+      "url": "https://open.spotify.com/track/4ojX5C1upQBxlVLvZt8AgD"
     },
     {
       "album": {
@@ -3680,7 +3770,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 197819,
       "name": "Que Mal Te Ves Sin M\u00ed",
       "url": "https://open.spotify.com/track/7zHo6F8N4z4SOl9eBmLqpn"
@@ -4600,7 +4690,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 142000,
       "name": "Vamos a Hacer el Amor",
       "url": "https://open.spotify.com/track/3Ue5K9fWPoiQZlyKUVmV8R"
@@ -4900,7 +4990,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 198985,
       "name": "Yo Se Cuando Miente",
       "url": "https://open.spotify.com/track/5l0DvSZ4nFtPoAgb05qW8v"
@@ -4926,7 +5016,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 173437,
       "name": "\u00bfCulpa de Qui\u00e9n? (Remix)",
       "url": "https://open.spotify.com/track/5zRc8LYoCkrBp8ryT2iN60"

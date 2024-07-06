@@ -1,13 +1,33 @@
 {
   "description": "All new, all blues. Cover: Judith Hill",
-  "num_followers": 148526,
+  "num_followers": 148540,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn41QAAAAABOuY8kP3g1HOqZVOUcYa7F",
+  "snapshot_id": "ZodvwAAAAAB3vBfrA6nEsJiY4YL4slQi",
   "tracks": [
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Show Me The Green",
+        "url": "https://open.spotify.com/album/2lSS8XMdwd7iFICtoYbDkW"
+      },
+      "artists": [
+        {
+          "name": "The Harpoonist",
+          "url": "https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG"
+        },
+        {
+          "name": "Big Sugar",
+          "url": "https://open.spotify.com/artist/75eraSeadYDXU4zyzDxglZ"
+        }
+      ],
+      "duration_ms": 190763,
+      "name": "Show Me The Green",
+      "url": "https://open.spotify.com/track/1YzIXYmTLbjGtG3AEuJlRP"
+    },
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
@@ -267,22 +287,6 @@
       "duration_ms": 213077,
       "name": "Spiritual Warrior",
       "url": "https://open.spotify.com/track/1PLVmQc9U0agrKJv0ljR3G"
-    },
-    {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
-        "name": "Good People",
-        "url": "https://open.spotify.com/album/5b2N8BU4Libo6GmfcxX3E5"
-      },
-      "artists": [
-        {
-          "name": "The Harpoonist",
-          "url": "https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG"
-        }
-      ],
-      "duration_ms": 345596,
-      "name": "Good People",
-      "url": "https://open.spotify.com/track/0KlEYhot7IwsbCNGpww72s"
     },
     {
       "added_at": "2024-04-12 04:01:00",

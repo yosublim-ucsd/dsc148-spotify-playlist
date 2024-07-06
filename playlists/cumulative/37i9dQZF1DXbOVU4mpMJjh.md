@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-1,198 songs - 3 day 8 hr 32 min
+1,199 songs - 3 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -793,6 +793,7 @@
 | [Only Way To Play Is All In](https://open.spotify.com/track/5nEXgS8wX0y4dVqe3GUPHI) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Only Way To Play Is All In](https://open.spotify.com/album/4PzO4qn8WkZtHL6Fx6z65h) | 3:18 | 2023-03-30 |  |
 | [Orange Was the Color of Her Dress, Then Blue Silk \- Edit](https://open.spotify.com/track/01Udds3MCkViVJmdJoYLEA) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Jazz in Detroit / Strata Concert Gallery / 46 Selden \(Edits\)](https://open.spotify.com/album/6WzjrLkSQAbdbzC81fK5Ep) | 5:00 | 2022-04-14 | 2022-05-03 |
 | [Our Love Story](https://open.spotify.com/track/1FW1U15nbWIAteWTI2Iy9L) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Our Love Story](https://open.spotify.com/album/3G7vIhBdcwdmKTMdr4NcYt) | 2:40 | 2023-04-14 |  |
+| [Our Time Together](https://open.spotify.com/track/4AZcQolMBIHrcm0GevPB00) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Our Time Together](https://open.spotify.com/album/3uDEqgHrvm2levSRrq2NWD) | 2:56 | 2024-07-01 |  |
 | [Out Of The Blue](https://open.spotify.com/track/6pGvi1k9FL1p27JwYDuB8S) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [Out Of The Blue](https://open.spotify.com/album/6emBxjRNaXLFFBJUtzpUQI) | 2:58 | 2023-03-09 |  |
 | [Out of Wilma](https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Out of Wilma](https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y) | 2:49 | 2022-12-22 |  |
 | [Over The Rooftops](https://open.spotify.com/track/2erYjP47q8077YP2LH8Ar2) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Over The Rooftops](https://open.spotify.com/album/0IxhkuCEcEtyo5uMoTjpYB) | 3:50 | 2023-05-25 |  |
@@ -1185,7 +1186,7 @@
 | [You Go to My Head](https://open.spotify.com/track/0K98aZItWBqCnFiMMiXiD8) | [The Blue Room Band](https://open.spotify.com/artist/6LdbGDV2CfGd4BJYI0j6Eh) | [Have You Met Miss Jones?](https://open.spotify.com/album/5rtnXuxolDdh5HhGJZL5ro) | 5:16 | 2022-04-14 | 2023-08-19 |
 | [You Go To My Heart](https://open.spotify.com/track/43bLhZkulGIf55O7fpRRok) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [You Go To My Heart](https://open.spotify.com/album/370Ld8YCqxXQvHIyAh7Efy) | 3:41 | 2023-03-30 |  |
 | [You Know I Care](https://open.spotify.com/track/3mdmA5e62x4CEXVIUZ2S92) | [Ian Buss](https://open.spotify.com/artist/2lFzhpbs0F8gwsJycYjWsa) | [You Know I Care](https://open.spotify.com/album/4YydQ4MLcVZZLE9deKSQka) | 6:27 | 2023-03-09 |  |
-| [You Know I Care](https://open.spotify.com/track/0TUwZjN2G4WA8HBwuGNC6J) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [The Deep](https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7) | 4:29 | 2023-06-15 |  |
+| [You Know I Care](https://open.spotify.com/track/0TUwZjN2G4WA8HBwuGNC6J) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [The Deep](https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7) | 4:29 | 2023-06-15 | 2024-07-06 |
 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 | 2022-10-27 |  |
 | [You Softly Breathe](https://open.spotify.com/track/71sykxrXDUVEDA4TkHeIzh) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [You Softly Breathe](https://open.spotify.com/album/4CQl0m4bI32Ffjbmap9VCI) | 3:16 | 2022-11-24 |  |
 | [You Stepped Out Of A Dream](https://open.spotify.com/track/627SZOevCkeudqmkV3Mc6h) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [You Stepped Out Of A Dream](https://open.spotify.com/album/6KWak4nHQy1wR2ed4nhES6) | 3:37 | 2023-08-31 |  |

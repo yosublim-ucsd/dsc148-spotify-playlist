@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:2R0CFyeMDiRbfkhkIMbyl1\">Cash Cobain</a>",
+  "description": "The official voice of the next generation. Cover: <a href=\"https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ?si=r7izKEJTSuWuYy5ReGGWVQ\">NLE Choppa</a>",
   "name": "Most Necessary",
   "tracks": [
     {
@@ -3687,6 +3687,28 @@
     },
     {
       "album": {
+        "name": "Black & Tan",
+        "url": "https://open.spotify.com/album/1NKgDOTffsHRGfllRRLsis"
+      },
+      "artists": [
+        {
+          "name": "YT",
+          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138260,
+      "name": "Black & Tan",
+      "url": "https://open.spotify.com/track/0khdaccXqOnFQimOHmECK2"
+    },
+    {
+      "album": {
         "name": "black enuff",
         "url": "https://open.spotify.com/album/6hm8EXSOCKbRxEypqsmag4"
       },
@@ -3872,6 +3894,28 @@
       "duration_ms": 132367,
       "name": "Blick (feat. Key Glock)",
       "url": "https://open.spotify.com/track/5k2aoLqBx3GQAb1x9dbHZ1"
+    },
+    {
+      "album": {
+        "name": "Blick (feat. NLE Choppa) [Remix]",
+        "url": "https://open.spotify.com/album/4luQV28tZT0RsxoXgboGnc"
+      },
+      "artists": [
+        {
+          "name": "ScarLip",
+          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188421,
+      "name": "Blick (feat. NLE Choppa) - Remix",
+      "url": "https://open.spotify.com/track/6W5l0WMb1BTvUsYmVfywco"
     },
     {
       "album": {
@@ -6132,7 +6176,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 170106,
       "name": "Climate (feat. Offset)",
       "url": "https://open.spotify.com/track/1c7MITQmNJTrvfbDSzWT6x"
@@ -6534,6 +6578,28 @@
       "duration_ms": 122686,
       "name": "Conniving",
       "url": "https://open.spotify.com/track/5EYL9q1bReeJ67DwkSsGey"
+    },
+    {
+      "album": {
+        "name": "On Zai",
+        "url": "https://open.spotify.com/album/0qXeIPzrKbNIJmZmu37Pp1"
+      },
+      "artists": [
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        },
+        {
+          "name": "Blac Youngsta",
+          "url": "https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170126,
+      "name": "Cook It (feat. Blac Youngsta)",
+      "url": "https://open.spotify.com/track/7DXYY34X3lGsh5nGNCAw3d"
     },
     {
       "album": {
@@ -10471,6 +10537,28 @@
     },
     {
       "album": {
+        "name": "Fit Check (feat. VonOff1700)",
+        "url": "https://open.spotify.com/album/7rHLiaVnSaN3satk0iFc5Z"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        },
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140904,
+      "name": "Fit Check (feat. VonOff1700)",
+      "url": "https://open.spotify.com/track/5SDhxMtn5Gd87eeMg4gI1H"
+    },
+    {
+      "album": {
         "name": "Mr. Crawford",
         "url": "https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7"
       },
@@ -12292,7 +12380,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 146261,
       "name": "GOLDMEMBERS",
       "url": "https://open.spotify.com/track/1SBOxKzO7BepxapwYn8kmV"
@@ -15314,7 +15402,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 246360,
       "name": "In The Air (feat. Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/4y9XkoxMmpRSIjYKVmB8Ew"
@@ -19961,6 +20049,24 @@
     },
     {
       "album": {
+        "name": "A Great Chaos (Deluxe)",
+        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141072,
+      "name": "more chaos",
+      "url": "https://open.spotify.com/track/6ovJ4vtrLdONeRoTT4s4uw"
+    },
+    {
+      "album": {
         "name": "STREETS SAY YOU MISS ME",
         "url": "https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH"
       },
@@ -20788,7 +20894,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 178911,
       "name": "N.P.O. (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/5GYKltEbk7h1DDM8aGloPu"
@@ -21612,6 +21718,28 @@
       "duration_ms": 176184,
       "name": "No Love",
       "url": "https://open.spotify.com/track/3ktZQRNnDBhioF14dWIjPH"
+    },
+    {
+      "album": {
+        "name": "4eva Us Neva Them",
+        "url": "https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175514,
+      "name": "No Love (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/0iZh0S8Fczu80nKITqWPGs"
     },
     {
       "album": {
@@ -22870,7 +22998,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 143808,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/0P0SGr1kqiDDiDxOcxFmOP"
@@ -25576,7 +25704,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 248730,
       "name": "R.I.C.O.",
       "url": "https://open.spotify.com/track/1xwwiCARYUFeKtmPoT048O"
@@ -27828,7 +27956,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 139802,
       "name": "ScoreGod (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/3jvUUI68ZxFYosDbQLuSBL"
@@ -31967,6 +32095,28 @@
     },
     {
       "album": {
+        "name": "They Wanna See Me",
+        "url": "https://open.spotify.com/album/6gs4sadslEIdT9taav0Uby"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "They Wanna See Me",
+      "url": "https://open.spotify.com/track/239J9xvfJsdmvWMSk3vib5"
+    },
+    {
+      "album": {
         "name": "Shades of Gloss",
         "url": "https://open.spotify.com/album/20LqQ2uXyi3Io5KMY0I95m"
       },
@@ -35848,7 +35998,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 135861,
       "name": "Work",
       "url": "https://open.spotify.com/track/0qtj507DWXEbfJpIxAMtB9"
@@ -36134,6 +36284,24 @@
       "duration_ms": 186728,
       "name": "Yea Freestyle",
       "url": "https://open.spotify.com/track/1tNIrPGSAhs4wquxihb01G"
+    },
+    {
+      "album": {
+        "name": "Yea Yea",
+        "url": "https://open.spotify.com/album/32kB87vZ7B8xYXjM3i4B3h"
+      },
+      "artists": [
+        {
+          "name": "STAR BANDZ",
+          "url": "https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121887,
+      "name": "Yea Yea",
+      "url": "https://open.spotify.com/track/2VIJ6TJoMNc0KeXgrCUSLu"
     },
     {
       "album": {

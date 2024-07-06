@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,729 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,732 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 8 | [Theme of Ryu \-SFIV Arrange\-](https://open.spotify.com/track/4uOVEIuJohifTMgFicMUPq) | [Hideyuki Fukasawa](https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu) | [ストリートファイターIVシリーズ サウンドBOX](https://open.spotify.com/album/1DRWIHpmCo3H13NddOTAZu) | 3:19 |
 | 9 | ["DEVILS NEVER CRY"\(スタッフロール\)](https://open.spotify.com/track/3ozivYJGJGq6TSzdy8m64X) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [デビル メイ クライ 3 オリジナル・サウンドトラック](https://open.spotify.com/album/2NTNKtQXpBwf80gpaITckb) | 5:19 |
 | 10 | [綾里真宵 〜逆転姉妹のテーマ 2001](https://open.spotify.com/track/1L84WnMrvTg84ilWBnSv4e) | [Masakazu Sugimori](https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq) | [逆転裁判 蘇る逆転 オリジナル・サウンドトラック](https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq) | 2:41 |
-| 11 | [大追求 〜成歩堂龍ノ介の覺悟](https://open.spotify.com/track/7a0PMLaZMhu18Hl88STQBk) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d) | [大逆転裁判2 \-成歩堂龍ノ介の覺悟\- 劇伴音樂大全集](https://open.spotify.com/album/6eOTzkW3xOLBwG8zRfA2V4) | 2:09 |
-| 12 | [星に駆られて](https://open.spotify.com/track/18wSghW2luxajMP9LfeGtx) | [TADAYOSHI MAKINO](https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt) | [モンスターハンター:ワールド オリジナル・サウンドトラック](https://open.spotify.com/album/0hU2xjMRQWN7zsawye1wfh) | 4:31 |
+| 11 | [星に駆られて](https://open.spotify.com/track/18wSghW2luxajMP9LfeGtx) | [TADAYOSHI MAKINO](https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt) | [モンスターハンター:ワールド オリジナル・サウンドトラック](https://open.spotify.com/album/0hU2xjMRQWN7zsawye1wfh) | 4:31 |
+| 12 | [大追求 〜成歩堂龍ノ介の覺悟](https://open.spotify.com/track/7a0PMLaZMhu18Hl88STQBk) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d) | [大逆転裁判2 \-成歩堂龍ノ介の覺悟\- 劇伴音樂大全集](https://open.spotify.com/album/6eOTzkW3xOLBwG8zRfA2V4) | 2:09 |
 | 13 | [英雄の証 〜 ミラクル☆ミルクティ](https://open.spotify.com/track/1mbJVz9bjm7Rdm5ZkZnNhC) | [ミラクル☆ミルクティ\(CV:上田麗奈&高野麻里佳\)](https://open.spotify.com/artist/6F3dWs4bYDUJ80qE7ypQQN) | [モンスターハンターダブルクロス ミラクル☆ミルクティ](https://open.spotify.com/album/5gpRBUGBt9nkKQZldHXkY8) | 4:03 |
 | 14 | [銀翼の凶星/バルファルク \- Rise ver.](https://open.spotify.com/track/56eXeZWgCsXO5a3CMoz2Bd) | [裏谷玲央](https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb) | [MONSTER HUNTER RISE Extra Tracks](https://open.spotify.com/album/2g234Htpvky7Ix919DGik6) | 4:03 |
 | 15 | [太陽は昇る](https://open.spotify.com/track/16v8Prn0jyUJ93oQ5TWHQx) | [T’s MUSIC](https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V) | [大神 音調\(しらべ\)の巻 \[四\]](https://open.spotify.com/album/44egYoICIMQdGRkkACFuhP) | 5:42 |

@@ -1307,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "It's Supposed To Hurt",
+        "url": "https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212086,
+      "name": "It's Supposed To Hurt",
+      "url": "https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT"
+    },
+    {
+      "album": {
         "name": "Da\u00f1ado",
         "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
       },
@@ -1883,6 +1901,32 @@
     },
     {
       "album": {
+        "name": "NIENTIENDO",
+        "url": "https://open.spotify.com/album/0cq6E8PgDiEOnV0CCpXEVy"
+      },
+      "artists": [
+        {
+          "name": "Mau Moctezuma",
+          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
+        },
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163666,
+      "name": "NIENTIENDO",
+      "url": "https://open.spotify.com/track/1S0U81LjOFfcsVGpSEJrFG"
+    },
+    {
+      "album": {
         "name": "NIGHT DANCER",
         "url": "https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy"
       },
@@ -1960,7 +2004,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 124543,
       "name": "PESAO",
       "url": "https://open.spotify.com/track/4J1Wu4oFT34P67r0186HyF"
@@ -2022,7 +2066,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 110141,
       "name": "POPPER!",
       "url": "https://open.spotify.com/track/3dffM1ONyWwC9153O47a2O"
@@ -2604,7 +2648,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 216280,
       "name": "Te Lo Doy",
       "url": "https://open.spotify.com/track/1JKivZOBdmCbKgdu6P76E2"
@@ -2656,6 +2700,24 @@
       "duration_ms": 202000,
       "name": "Tipo Gatsby",
       "url": "https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI"
+    },
+    {
+      "album": {
+        "name": "viviendo lo que queda",
+        "url": "https://open.spotify.com/album/7yXlODIg63kJx7Sc9d8G8C"
+      },
+      "artists": [
+        {
+          "name": "Crazy Point",
+          "url": "https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133375,
+      "name": "tokicha",
+      "url": "https://open.spotify.com/track/21xcyIsljrbLjv9FbW6kCi"
     },
     {
       "album": {

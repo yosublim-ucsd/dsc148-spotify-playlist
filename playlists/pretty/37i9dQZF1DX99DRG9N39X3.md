@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99DRG9N39X3.md) - [plain]
 
 > These songs rocked the 10s\. Cover: Twenty One Pilots
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050,993 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,110,431 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99DRG9N39X3.md) - [plain]
 | 99 | [Longshot](https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balance](https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r) | 3:52 |
 | 100 | [Something's Gotta Give](https://open.spotify.com/track/6OPoF9qiuV2dNfJ44w3X4M) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/6SdmyV1DoEIWU6HDal5BgY) | 3:09 |
 
-Snapshot ID: `ZoRRIQAAAADuUXEaSX2zgU6ygYyCr4eY`
+Snapshot ID: `ZohragAAAADjWl78k7Lf2wT7HzqBGNds`

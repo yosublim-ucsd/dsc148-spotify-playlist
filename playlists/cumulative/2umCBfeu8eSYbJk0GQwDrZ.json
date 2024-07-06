@@ -4529,6 +4529,24 @@
     },
     {
       "album": {
+        "name": "Past Life",
+        "url": "https://open.spotify.com/album/7C1pBfRR7plseoG4LKNKk4"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203716,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/2qF7DKXG3ULJJZ7QK1MZSH"
+    },
+    {
+      "album": {
         "name": "Emerald Year",
         "url": "https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR"
       },

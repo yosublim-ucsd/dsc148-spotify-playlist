@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: El Doctor.
 
-291 songs - 14 hr 47 min
+292 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Ideas En Mi Cabeza](https://open.spotify.com/track/5Vh2tE1Bx8UoYLBgL4n07V) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [ILL](https://open.spotify.com/album/7zr7be3J7DNFsZPw1m1BtY) | 2:53 | 2023-09-01 | 2024-04-13 |
 | [Imposible](https://open.spotify.com/track/0et5kHSyE7vNPbysINU6vy) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [Imposible](https://open.spotify.com/album/0WHVZ4w8mOWhbBDOi3DSks) | 2:49 | 2023-09-01 |  |
 | [INTRO](https://open.spotify.com/track/5OKy5809rOuZGRiCyWwfZS) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 0:41 | 2024-05-24 |  |
+| [I´m Blessed](https://open.spotify.com/track/5ToZKR67BcLZOTMn38zMdm) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:28 | 2024-07-05 |  |
 | [JOSEAR](https://open.spotify.com/track/6Lyh9aeQ4Rf9ssfUlUZB1A) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [EL DON](https://open.spotify.com/album/4LGUFTOOvXX8fl5yrAHUxj) | 3:43 | 2024-02-16 | 2024-04-06 |
 | [JOSEAR](https://open.spotify.com/track/0kqVbc8GrAUQo6zAee7CP1) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [JOSEAR](https://open.spotify.com/album/2agTC7zjgkT8yAxZ9F9ceG) | 3:47 | 2023-06-09 | 2024-02-17 |
 | [Jove](https://open.spotify.com/track/4f4V6yEu8qBRpbunequTUp) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Ramiro Jota](https://open.spotify.com/artist/643hBnrVfRzLm6Kz9YYfga) | [Jove](https://open.spotify.com/album/1mPtqibOsDaDsFwEDNFup5) | 2:17 | 2024-04-12 |  |
@@ -190,7 +191,7 @@
 | [Mi Habilidad](https://open.spotify.com/track/1gYFY8wNgJD7ydmnaW3CTA) | [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW) | [Mi Habilidad](https://open.spotify.com/album/5yjj5tPt7fG1PefQiMPJ9E) | 2:49 | 2023-08-11 | 2024-06-22 |
 | [MI PROPÓSITO](https://open.spotify.com/track/1rXAnGCgbEYwCKxbVQfaEc) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr) | [NOS CRUZAS EN EL POGO](https://open.spotify.com/album/1AIrHoe9khhRwfmePrYTld) | 2:40 | 2024-04-19 | 2024-06-29 |
 | [Mi Verdad](https://open.spotify.com/track/1aSkg4ktmneEIpb7Km5JoO) | [Dtoke](https://open.spotify.com/artist/2KeSIMXQoTUxvWOIecCOun) | [Mi Verdad](https://open.spotify.com/album/1dSYCNvuuGMzTWaZKVPWWz) | 2:05 | 2021-11-26 | 2024-05-18 |
-| [MIS AMIGAS](https://open.spotify.com/track/1pbFv95SIwBGHzDZoPTKaH) | [Miel](https://open.spotify.com/artist/1AMGfEmHW0CZqlgmhpftgm), [Chivi](https://open.spotify.com/artist/2bKySOuviZxzwqrxu7Xq0w), [Emily](https://open.spotify.com/artist/2e114sYsb8Acm1DmiSrxjB), [Juli Taramasso](https://open.spotify.com/artist/73gaISgA7aOXk2H57JbSWl), [Shoshi XXI](https://open.spotify.com/artist/6E1PI3L1MMuvKVmwRruehD) | [Awaviva](https://open.spotify.com/album/5p5Gtms22Nrc2Xy5VhIYuV) | 4:33 | 2024-06-21 |  |
+| [MIS AMIGAS](https://open.spotify.com/track/1pbFv95SIwBGHzDZoPTKaH) | [Miel](https://open.spotify.com/artist/1AMGfEmHW0CZqlgmhpftgm), [Chivi](https://open.spotify.com/artist/2bKySOuviZxzwqrxu7Xq0w), [Emily](https://open.spotify.com/artist/2e114sYsb8Acm1DmiSrxjB), [Juli Taramasso](https://open.spotify.com/artist/73gaISgA7aOXk2H57JbSWl), [Shoshi XXI](https://open.spotify.com/artist/6E1PI3L1MMuvKVmwRruehD) | [Awaviva](https://open.spotify.com/album/5p5Gtms22Nrc2Xy5VhIYuV) | 4:33 | 2024-06-21 | 2024-07-06 |
 | [Modelo](https://open.spotify.com/track/3kpYDvfKVwjEwyl515tR7G) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL) | [Modelo](https://open.spotify.com/album/5BHbjf6T8ciROCIMafEvS5) | 2:27 | 2022-11-11 | 2024-05-25 |
 | [MORNING](https://open.spotify.com/track/1dJhW3HRdLnySFEUhf6VRh) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [MORNING](https://open.spotify.com/album/4BTbG5SHgE030stLkqx48q) | 2:03 | 2023-03-03 |  |
 | [MUGRE](https://open.spotify.com/track/0hoo74Q82lOWekiPWYOOuz) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [MUGRE](https://open.spotify.com/album/76U5G9L3YaFDkKGYXfl1Zb) | 4:19 | 2021-11-26 | 2022-04-12 |

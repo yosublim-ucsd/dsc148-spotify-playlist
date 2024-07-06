@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 落日飛車 \(Sunset Rollercoaster\) x HYUKOH
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,913 likes - 55 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,916 likes - 55 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 15 | [Speed Reload](https://open.spotify.com/track/38a9LDolzHbWngPWIu3qVg) | [Ozone](https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1) | [Speed Reload](https://open.spotify.com/album/2diXSqUep0JVkkhoSDsfg8) | 3:27 |
 | 16 | [Sugar Cover](https://open.spotify.com/track/4HabjE8SrUgJUF5YIgppMK) | [DrunkMonk 撞克茫客](https://open.spotify.com/artist/2o6IlfKpVWK4eZivj0yZUX), [羊駝小姐](https://open.spotify.com/artist/4BjR5qTMbBGGAmN7r1ysaA) | [Sugar Cover](https://open.spotify.com/album/4qUQkRq3KGnfAXWWNISWLq) | 4:32 |
 | 17 | [旅徒](https://open.spotify.com/track/4kW2QiG6ihBssg4nI58bBr) | [Control T](https://open.spotify.com/artist/6KZPYI3NDCfL1Z3Uxp3Sge) | [旅徒](https://open.spotify.com/album/5nfkPP8P8u3vAx1Uh4GjZI) | 4:40 |
-| 18 | [永晝飛船 InSonnia \(2024金牌台灣啤酒年度廣告主題曲\)](https://open.spotify.com/track/1Bp5W3DSjBaOoic2gOEzBc) | [桑尼Sonnie](https://open.spotify.com/artist/4QTWSC2z6j9KARKVzvHtxe) | [永晝飛船 InSonnia \(2024金牌台灣啤酒年度廣告主題曲\)](https://open.spotify.com/album/6T5UTHDvx1UDm2KArcEWzZ) | 4:01 |
+| 18 | [永晝飛船 InSonnia \(2024金牌台灣啤酒年度廣告主題曲\)](https://open.spotify.com/track/1Bp5W3DSjBaOoic2gOEzBc) | [桑尼 SONNIE](https://open.spotify.com/artist/4QTWSC2z6j9KARKVzvHtxe) | [永晝飛船 InSonnia \(2024金牌台灣啤酒年度廣告主題曲\)](https://open.spotify.com/album/6T5UTHDvx1UDm2KArcEWzZ) | 4:01 |
 | 19 | [山頂](https://open.spotify.com/track/0SzZ9egCeYwXHaqsSQ6cwv) | [滾動糯米](https://open.spotify.com/artist/1jLetP2ZjtSYT4IRgH2lHa), [縉 Jin](https://open.spotify.com/artist/6JfXcHzBOntsXu0MojxAXJ) | [山頂](https://open.spotify.com/album/2NpUoqBk7WVw9yEO7iwk5U) | 3:15 |
 | 20 | [催眠](https://open.spotify.com/track/7cXGcYLcXNCwRu88ZMzgoh) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [結伴](https://open.spotify.com/album/5P7W9ZOIIManMjXgMuPCbA) | 4:30 |
 | 21 | [我喜歡你](https://open.spotify.com/track/6FpUCVpLvO0QXwsovSfWEa) | [芒果醬 Mango Jump](https://open.spotify.com/artist/1t1GIb4bb1lARAXwWEekUN) | [心跳保衛戰](https://open.spotify.com/album/7nGbf2KdoEMWtTKh3vViyK) | 3:27 |

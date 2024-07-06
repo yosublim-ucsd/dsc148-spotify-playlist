@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-706 songs - 1 day 22 hr 15 min
+707 songs - 1 day 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Body of Work](https://open.spotify.com/track/2ZaM1JRPn73pqq5cqOz7WZ) | [Cave Story](https://open.spotify.com/artist/1VJmUKy8XJ1gecAv2KRUDx) | [West](https://open.spotify.com/album/0Up7fNL6ZFNMx3sGdYNTOS) | 4:02 | 2024-01-18 |  |
 | [Bonito Intro](https://open.spotify.com/track/5b1S06C3AuUOelyne3OJEw) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3s3PEd50fVx2qXMNgPy0uD) | 0:50 | 2023-05-18 | 2023-06-15 |
 | [Born](https://open.spotify.com/track/0BiEG7SI1LyBjwKJIjew4q) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Reptilians](https://open.spotify.com/album/5pfqk4oFycMVynOD8S2Cqs) | 3:23 | 2022-12-18 |  |
+| [Born To Die](https://open.spotify.com/track/5kMAugdkH2coRHRnW5FuDb) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die](https://open.spotify.com/album/4vXt6IpMcSnqonljffWlMI) | 4:46 | 2024-07-05 |  |
 | [Boys](https://open.spotify.com/track/6Nc3KauZ5OOk7ogX7h5HhO) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 4:39 | 2023-06-08 | 2023-07-11 |
 | [Breadcrumb Trail](https://open.spotify.com/track/7K8mX41Nub7AzBt1RwwE6d) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8) | 5:55 | 2023-11-30 |  |
 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:25 | 2024-01-08 |  |
@@ -355,7 +356,7 @@
 | [Leather & Lace](https://open.spotify.com/track/33Z5vF0bF0OyZWabDcXgbB) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Torch Song](https://open.spotify.com/album/1GYm7FRy5UZPNu1cTtOdKs) | 2:01 | 2023-12-03 | 2024-01-07 |
 | [Leave It In My Dreams](https://open.spotify.com/track/31u6rUeIEXGrYVoh10U7eu) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 3:59 | 2023-09-12 |  |
 | [Leave Us Here \(We're Fine\)](https://open.spotify.com/track/71OhvvtYoZDKkvVT6fUUur) | [Orchards](https://open.spotify.com/artist/4XWU6kWmuSBJJ1QL0BV3NZ) | [Trust Issues](https://open.spotify.com/album/5TzJP7CDqmtLCj7YcHPEaL) | 3:16 | 2024-06-11 |  |
-| [Legend](https://open.spotify.com/track/1ID1QFSNNxi0hiZCNcwjUC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 4:01 | 2024-03-11 |  |
+| [Legend](https://open.spotify.com/track/1ID1QFSNNxi0hiZCNcwjUC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 4:01 | 2024-03-11 | 2024-07-06 |
 | [Let England Shake](https://open.spotify.com/track/2XwL9kTn9411Ed4p0MLYx3) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Let England Shake](https://open.spotify.com/album/2f8Rfpdol5jrJe3OL4YH6k) | 3:09 | 2023-05-20 |  |
 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 | 2024-05-10 |  |
 | [Let It Go](https://open.spotify.com/track/0jYgfSncMwfefAUpUMcM5X) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Trap Lord](https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki) | 4:42 | 2022-07-14 |  |

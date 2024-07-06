@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "No rules. No boundaries. The best new alternative tracks. Cover: jxdn",
+  "description": "No rules. No boundaries. The best new alternative tracks. Cover: Ashe",
   "name": "The New Alt",
   "tracks": [
     {
@@ -1578,7 +1578,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 178260,
       "name": "American Spirit",
       "url": "https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c"
@@ -2154,7 +2154,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 238752,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/74GoxOdXs5RbnT3XJPTvW2"
@@ -3054,6 +3054,24 @@
       "duration_ms": 238143,
       "name": "Beguiled",
       "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
+    },
+    {
+      "album": {
+        "name": "Being One",
+        "url": "https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Being One",
+      "url": "https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W"
     },
     {
       "album": {
@@ -7087,6 +7105,24 @@
     },
     {
       "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182685,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
       },
@@ -9938,6 +9974,24 @@
       "duration_ms": 136771,
       "name": "even when the sun is dead, will you tell them how hard i tried",
       "url": "https://open.spotify.com/track/2qhvP4If0pFP5SCk1xuU30"
+    },
+    {
+      "album": {
+        "name": "Ever Seen",
+        "url": "https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203760,
+      "name": "Ever Seen",
+      "url": "https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6"
     },
     {
       "album": {
@@ -14896,7 +14950,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 165120,
       "name": "How Long",
       "url": "https://open.spotify.com/track/3ntYF8MmJNzrMshD7ofFxU"
@@ -16663,6 +16717,24 @@
     },
     {
       "album": {
+        "name": "Happenings",
+        "url": "https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155658,
+      "name": "Italian Horror",
+      "url": "https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98"
+    },
+    {
+      "album": {
         "name": "It's Fine",
         "url": "https://open.spotify.com/album/5cWGHnWOhetbCvCAhyYSSA"
       },
@@ -18356,7 +18428,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 177475,
       "name": "Like I Say (I runaway)",
       "url": "https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT"
@@ -18476,6 +18548,24 @@
       "duration_ms": 173194,
       "name": "Lip Service",
       "url": "https://open.spotify.com/track/2Jsy0chsTcykVKKs5YQIIw"
+    },
+    {
+      "album": {
+        "name": "Lithonia",
+        "url": "https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179320,
+      "name": "Lithonia",
+      "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
     },
     {
       "album": {
@@ -25060,7 +25150,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 161034,
       "name": "React",
       "url": "https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk"
@@ -28084,7 +28174,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 239106,
       "name": "Skydiver",
       "url": "https://open.spotify.com/track/1IX5RUHNGNdIM92qwebSU8"
@@ -28712,7 +28802,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 201735,
       "name": "Sour Patch",
       "url": "https://open.spotify.com/track/4I0XnxrpkwD7CvJuUm9DgB"
@@ -30354,7 +30444,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 158866,
       "name": "Take A Bite",
       "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
@@ -35726,6 +35816,24 @@
       "duration_ms": 319106,
       "name": "Wild God",
       "url": "https://open.spotify.com/track/6d2JJCLcg02uteyuvFVmCq"
+    },
+    {
+      "album": {
+        "name": "Wild Horses",
+        "url": "https://open.spotify.com/album/5tZVK7vHvdmh3AOMr6X1dd"
+      },
+      "artists": [
+        {
+          "name": "Mondo Cozmo",
+          "url": "https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231240,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/5eN5nGmW92Iuzh77yM1Qd4"
     },
     {
       "album": {

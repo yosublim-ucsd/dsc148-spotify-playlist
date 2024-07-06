@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "NA",
+        "url": "https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162840,
+      "name": "ABCD",
+      "url": "https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1"
+    },
+    {
+      "album": {
         "name": "the bird and the bee",
         "url": "https://open.spotify.com/album/6a0Cjn8ctxzj67VGrk96IH"
       },
@@ -1676,6 +1694,24 @@
       "duration_ms": 213933,
       "name": "Formidable",
       "url": "https://open.spotify.com/track/382n05RtneO3ykQlFQrAd1"
+    },
+    {
+      "album": {
+        "name": "Carrie & Lowell",
+        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279316,
+      "name": "Fourth of July",
+      "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
     },
     {
       "album": {
@@ -7020,7 +7056,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 181105,
       "name": "\u0411\u044b\u043b\u0438 \u0431\u044b \u043a\u0440\u044b\u043b\u044c\u044f",
       "url": "https://open.spotify.com/track/6b8OHSAXUjf62Yxebnw58d"
@@ -7238,7 +7274,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 201019,
       "name": "\u0433\u0434\u0435 \u0442\u044b?",
       "url": "https://open.spotify.com/track/5Om5hEHe2lKknhmveGXA2j"
@@ -8162,7 +8198,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 130274,
       "name": "\u043a\u043e\u043d\u0447\u0438\u043b",
       "url": "https://open.spotify.com/track/4Q6eUXtjd9sbzP2orZY6x0"
@@ -8412,7 +8448,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 166301,
       "name": "\u041c\u043d\u044f \u0432\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0434\u044b\u043c",
       "url": "https://open.spotify.com/track/1FF4PyIzXMAB4xakYryYvq"

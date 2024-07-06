@@ -1,6 +1,6 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 76191,
+  "num_followers": 76221,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
-        "name": "Una Noche M\u00e1s",
-        "url": "https://open.spotify.com/album/55VoL4ZTESAMk4zl3lX9IH"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 205557,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/5zkVIqB0REw19AXIl9rH2q"
-    },
-    {
-      "added_at": "2024-06-12 22:59:35",
-      "album": {
         "name": "Renacer",
         "url": "https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 229642,
       "name": "Canci\u00f3n de Lejos",
       "url": "https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn"
+    },
+    {
+      "added_at": "2024-06-12 22:59:35",
+      "album": {
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/55VoL4ZTESAMk4zl3lX9IH"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 205557,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/5zkVIqB0REw19AXIl9rH2q"
     },
     {
       "added_at": "2024-06-12 22:59:35",
@@ -1343,8 +1343,8 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
-        "name": "Todo Ser\u00e1 Mejor",
-        "url": "https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q"
+        "name": "Amarte Sin Piedad",
+        "url": "https://open.spotify.com/album/62i9o08soByC7ONFYj67IB"
       },
       "artists": [
         {
@@ -1352,9 +1352,9 @@
           "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
         }
       ],
-      "duration_ms": 239365,
-      "name": "Todo Ser\u00e1 Mejor",
-      "url": "https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5"
+      "duration_ms": 211410,
+      "name": "Amarte Sin Piedad",
+      "url": "https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8"
     },
     {
       "added_at": "2024-06-12 22:59:35",
@@ -1503,8 +1503,8 @@
     {
       "added_at": "2024-06-12 22:59:35",
       "album": {
-        "name": "Amarte Sin Piedad",
-        "url": "https://open.spotify.com/album/62i9o08soByC7ONFYj67IB"
+        "name": "Todo Ser\u00e1 Mejor",
+        "url": "https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q"
       },
       "artists": [
         {
@@ -1512,9 +1512,9 @@
           "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
         }
       ],
-      "duration_ms": 211410,
-      "name": "Amarte Sin Piedad",
-      "url": "https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8"
+      "duration_ms": 239365,
+      "name": "Todo Ser\u00e1 Mejor",
+      "url": "https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5"
     },
     {
       "added_at": "2024-06-12 22:59:35",

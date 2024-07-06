@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 63061,
+  "num_followers": 63076,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "King Of The World",
-        "url": "https://open.spotify.com/album/5CtsuslrRP5CNsmuZQ8UIr"
-      },
-      "artists": [
-        {
-          "name": "Sheila",
-          "url": "https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu"
-        }
-      ],
-      "duration_ms": 354240,
-      "name": "Spacer",
-      "url": "https://open.spotify.com/track/2HnfVsBDEesQJPcXSyB7L2"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Back To Back",
         "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 229626,
       "name": "I Want To Thank You",
       "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "King Of The World",
+        "url": "https://open.spotify.com/album/5CtsuslrRP5CNsmuZQ8UIr"
+      },
+      "artists": [
+        {
+          "name": "Sheila",
+          "url": "https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu"
+        }
+      ],
+      "duration_ms": 354240,
+      "name": "Spacer",
+      "url": "https://open.spotify.com/track/2HnfVsBDEesQJPcXSyB7L2"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "People... Hold On",
-        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
-      },
-      "artists": [
-        {
-          "name": "Eddie Kendricks",
-          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "Date With The Rain",
-      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Norma Jean",
         "url": "https://open.spotify.com/album/7Bo2lPXUL79QoKPzbFT1TZ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 366160,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/59n20ABic3nU1hqy2tDauE"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "People... Hold On",
+        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kendricks",
+          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
+        }
+      ],
+      "duration_ms": 160906,
+      "name": "Date With The Rain",
+      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Magical Night (Greatest Hits Special Price)",
-        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        }
-      ],
-      "duration_ms": 429813,
-      "name": "Angel in My Pocket - Extended Version",
-      "url": "https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "The Way We Were: The Best Of Gladys Knight & The Pips",
         "url": "https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 346600,
       "name": "It's a Better Than Good Time",
       "url": "https://open.spotify.com/track/0htlkpMiT2nAUwpBxo64LL"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Magical Night (Greatest Hits Special Price)",
+        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
+      },
+      "artists": [
+        {
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        }
+      ],
+      "duration_ms": 429813,
+      "name": "Angel in My Pocket - Extended Version",
+      "url": "https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ"
     },
     {
       "added_at": "2024-02-12 15:00:21",

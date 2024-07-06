@@ -2,9 +2,9 @@
 
 ### [Rarities](https://open.spotify.com/playlist/37i9dQZF1DX18m1EYRUeh9)
 
-> Smooth indie jazz joints from around the globe\. Cover: André 3000
+> Smooth indie jazz joints from around the globe\. Cover: Thee Marloes
 
-221 songs - 14 hr 43 min
+222 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [I DM U](https://open.spotify.com/track/5e0gYGMPLrsSUjSQONdjlF) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Gentle Confrontation](https://open.spotify.com/album/6t8EEPPBUhJiYucv3zsIKx) | 4:23 | 2023-09-25 | 2024-04-19 |
 | [I DM U](https://open.spotify.com/track/68lJLfOBW85RyWcbPxzMcO) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [I DM U](https://open.spotify.com/album/1IIZNcK6YUDis4Fu9SYAMk) | 4:23 | 2024-01-12 | 2024-06-20 |
 | [I Know](https://open.spotify.com/track/5UJRrmcrapgTCEhpUlDFXH) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I Know](https://open.spotify.com/album/7JW9Ok3X1No2KOQ8ebaVu3) | 2:52 | 2024-06-19 |  |
-| [I Met God](https://open.spotify.com/track/6v9CIwn1623LQd9x6qXodk) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [I Met God](https://open.spotify.com/album/3TUtl9BQPfP4kWqXveAyv6) | 4:22 | 2023-09-21 |  |
+| [I Met God](https://open.spotify.com/track/6v9CIwn1623LQd9x6qXodk) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [I Met God](https://open.spotify.com/album/3TUtl9BQPfP4kWqXveAyv6) | 4:22 | 2023-09-21 | 2024-07-06 |
 | [I Need Therapy 2.4 \(alt\_demo\)](https://open.spotify.com/track/3kHfDibfmgiZR5eLodqjx8) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [I Need Therapy 2.4 \(alt\_demo\)](https://open.spotify.com/album/6YQvIFdk95oCIGcO4sCI05) | 2:06 | 2023-09-14 |  |
 | [I swear, I Really Wanted To Make A "Rap" Album But This Is Literally The Way The Wind Blew Me This Time](https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [New Blue Sun](https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD) | 12:20 | 2023-11-16 |  |
 | [I'm Scanning Things I Can't See](https://open.spotify.com/track/6PFMHtcCD9l1O7PVUvxRn5) | [Fievel Is Glauque](https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ) | [I'm Scanning Things I Can't See / Dark Dancing](https://open.spotify.com/album/0KwTL3GstzmHzXYVfVYpx9) | 2:28 | 2023-08-17 | 2023-09-29 |
@@ -184,6 +184,7 @@
 | [Stalemate \(Edit\)](https://open.spotify.com/track/6Nc3VlsiqEZNvF42ziCCAl) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Stalemate \(Edit\)](https://open.spotify.com/album/4E9cv2ksnwf1JttplEwyTd) | 6:43 | 2023-10-12 | 2024-04-19 |
 | [Stalemate \- Edit](https://open.spotify.com/track/1V7LkpiUuuECEEU80qUcl0) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Stalemate \(Edit\)](https://open.spotify.com/album/5ZNGeIk9sgQfgNBikHrFU8) | 6:43 | 2024-01-12 |  |
 | [Stay Soft](https://open.spotify.com/track/5oHTLHLHVbuVK5YY1yO3rt) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Softboi](https://open.spotify.com/album/17d8Xd8QtMjXSCDb4pb5t1) | 3:19 | 2023-09-07 |  |
+| [Suddenly](https://open.spotify.com/track/1lDS95xiG8ln73gdOlNjfU) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Suddenly](https://open.spotify.com/album/0eRXhuldZMfhRSy6vTEToQ) | 4:44 | 2024-07-05 |  |
 | [Summer Rain](https://open.spotify.com/track/4AxMrysTzBOsFg94g3H7Mh) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Summer Rain](https://open.spotify.com/album/3OYtcP4ZW7XxlrkTsh9z62) | 4:19 | 2024-02-16 |  |
 | [Sun Always](https://open.spotify.com/track/775nZtOlg5D8Qr29XLfYQ4) | [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [Natalie Slade](https://open.spotify.com/artist/2G4QmfdQaRtHde3OYDl3AQ) | [Sun Always](https://open.spotify.com/album/2egatdFWAG8YpZG7XwvGej) | 4:20 | 2023-11-09 |  |
 | [Sun Shines Bright](https://open.spotify.com/track/6m5Q3I5OawFTm8PeJJFFvY) | [konradd](https://open.spotify.com/artist/57rpNkknZ8IJXvWuVO9rIt) | [Sun Shines Bright](https://open.spotify.com/album/04uNV1QxaOClUOjirVnokP) | 4:22 | 2023-08-10 | 2023-09-29 |

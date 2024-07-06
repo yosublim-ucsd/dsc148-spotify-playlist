@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-10",
-  "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
+  "description": "This Is Dolly Parton. Los temas esenciales, todos en una lista.",
   "name": "This Is Dolly Parton",
   "tracks": [
     {
@@ -752,7 +752,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 102779,
       "name": "Puppy Love",
       "url": "https://open.spotify.com/track/3IWF9k6ezeVFwG08nbB0gI"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 203427,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/3HCPcK7bCPAczLUfRmZEUn"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 156160,
       "name": "The Last Thing On My Mind",
       "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 257372,
       "name": "The Story",
       "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 247053,
       "name": "When I Get Where I'm Going (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/3VLCtStwYsAL4LKZgeUvy3"

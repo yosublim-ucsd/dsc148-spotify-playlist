@@ -2,7 +2,7 @@
 
 ### [Made in Sweden](https://open.spotify.com/playlist/37i9dQZF1DX0ekBHz1NmKS)
 
-> En samling av de bästa svenska låtarna just nu\. Cover: Seinabo Sey
+> En samling av de bästa svenska låtarna just nu\. Cover: Jacqline
 
 1,490 songs - 3 day 5 hr 19 min
 

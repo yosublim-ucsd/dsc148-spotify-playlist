@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-28",
-  "description": "Cumbia pa' volar la chapa con Omar Varela, Homer El Mero Mero & El Negro Tecla.",
+  "description": "Cumbia pa' volar la chapa con Los Turros.",
   "name": "Cumbia de Barrio",
   "tracks": [
     {
@@ -1051,6 +1051,28 @@
     },
     {
       "album": {
+        "name": "Cositas",
+        "url": "https://open.spotify.com/album/0kTRRez9wxcpg7ZVfup8dE"
+      },
+      "artists": [
+        {
+          "name": "El Rodri",
+          "url": "https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm"
+        },
+        {
+          "name": "Lolo OG",
+          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Cositas",
+      "url": "https://open.spotify.com/track/5IqDl7EZ6AHY1ny7b3KOql"
+    },
+    {
+      "album": {
         "name": "Cual Fue? (Remix)",
         "url": "https://open.spotify.com/album/2mROokrsjxuPcDemjcqvJ6"
       },
@@ -1780,7 +1802,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 164346,
       "name": "Ella",
       "url": "https://open.spotify.com/track/78K8wJinqmHpfiLwjUk8jS"
@@ -2494,7 +2516,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 193080,
       "name": "La colorada",
       "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
@@ -3486,7 +3508,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 128170,
       "name": "Mi Casaca",
       "url": "https://open.spotify.com/track/7tZVIu2cV8ppvLpD1wLV8j"
@@ -3504,7 +3526,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 193738,
       "name": "MI VIEJO",
       "url": "https://open.spotify.com/track/4sN0m8KGkPsyBEDhEE2oBm"
@@ -4566,7 +4588,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 212210,
       "name": "Saveiro",
       "url": "https://open.spotify.com/track/7gBjthQXTuZS0DsfCJEt0Q"
@@ -4830,6 +4852,28 @@
       "duration_ms": 259173,
       "name": "Sos Bot\u00f3n",
       "url": "https://open.spotify.com/track/5kYmx9V55bJWm7Qt9hD8WK"
+    },
+    {
+      "album": {
+        "name": "Sos Un Boton",
+        "url": "https://open.spotify.com/album/4cevwCBkPCc8xRItp1lFft"
+      },
+      "artists": [
+        {
+          "name": "La Mary",
+          "url": "https://open.spotify.com/artist/77oD0wY2yR0v53K3vjcMZn"
+        },
+        {
+          "name": "Dany Lescano y Su Flor de Piedra",
+          "url": "https://open.spotify.com/artist/1VFoC9tUQhiWZO6H4yMK05"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263246,
+      "name": "Sos Un Boton",
+      "url": "https://open.spotify.com/track/36jhHChKNzIZUdfbCYN1zu"
     },
     {
       "album": {
@@ -5700,7 +5744,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 125600,
       "name": "YA FUE",
       "url": "https://open.spotify.com/track/1Vd2kfgMMq7hsd1tPQYpl7"

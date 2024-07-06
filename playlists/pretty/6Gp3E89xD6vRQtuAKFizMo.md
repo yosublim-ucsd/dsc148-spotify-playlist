@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,225 likes - 165 songs - 7 hr 42 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,223 likes - 165 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 | 164 | [Bassline Phenomena](https://open.spotify.com/track/4Bt3hOOoxEzjOM3crYro4O) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Bassline Phenomena](https://open.spotify.com/album/64fSyVklb0r3Xn0EuezI8A) | 4:03 |
 | 165 | [DROP 'EM](https://open.spotify.com/track/0ia4JRneHZ67w3sgTA3fL5) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [SOFI](https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb) | [DROP 'EM](https://open.spotify.com/album/4d97rkRs2t5uB1Lk9irLky) | 2:42 |
 
-Snapshot ID: `AAAZdhwwoQJ1J2UZiDVA00/pgOtv2Pdw`
+Snapshot ID: `AAAZeOg8+Vingv+mki/aofxzXSunlTvH`

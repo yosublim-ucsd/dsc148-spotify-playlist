@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,299 likes - 151 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,327 likes - 151 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 150 | [Little Rain](https://open.spotify.com/track/1w4pCNSU7FTmDXY8j0nYzx) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Heart Like a Levee \(Deluxe Version\)](https://open.spotify.com/album/1GedbzrnJWEdLnySwqEAzr) | 3:52 |
 | 151 | [Mint Condition](https://open.spotify.com/track/5VCZa0H6UqoubZNQxVHaE7) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Long Haul / Mint Condition](https://open.spotify.com/album/5G7L3fwh31Di6QK4iim30m) | 4:01 |
 
-Snapshot ID: `Zk/JpgAAAABHxI6gZjQfWtmRdIJdtGjB`
+Snapshot ID: `ZohcZQAAAAA8IO0sh4vS7RO8Tbetmxtk`

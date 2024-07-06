@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:0gqbW7Uf6BAWiAh5C6jlPs\">Tommy Royale</a> ",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:4B4YYJ0BAYBK86yxqQV7mu\">Funky</a> y <a href=\"spotify:artist:6pdXxGaaEGf7huw3C6fz6a\">Gilberto Daza</a> ",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -766,7 +766,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 235208,
       "name": "Alfa y Omega",
       "url": "https://open.spotify.com/track/7oNR16Yh6UQCcWOhATDBWv"
@@ -4939,6 +4939,28 @@
     },
     {
       "album": {
+        "name": "Fuera de L\u00ednea",
+        "url": "https://open.spotify.com/album/24Ttor45TBGdqlSjUa7Jhq"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        },
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181539,
+      "name": "Fuera de L\u00ednea",
+      "url": "https://open.spotify.com/track/2u5LscGdSD1Tc17CZgF2tn"
+    },
+    {
+      "album": {
         "name": "Full Color",
         "url": "https://open.spotify.com/album/6rPs4EXBOmSGienNcx8rwa"
       },
@@ -5377,6 +5399,28 @@
     },
     {
       "album": {
+        "name": "Habita entre nosotros",
+        "url": "https://open.spotify.com/album/3GHfF3Up2dNyc88e9CoPEd"
+      },
+      "artists": [
+        {
+          "name": "TOMATULUGAR",
+          "url": "https://open.spotify.com/artist/44RfC7kgNNz6s2MD3gJqXX"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363780,
+      "name": "Habita entre nosotros",
+      "url": "https://open.spotify.com/track/0Ux84pv1A6aVwtDHlB3rkO"
+    },
+    {
+      "album": {
         "name": "Hasta La Eternidad",
         "url": "https://open.spotify.com/album/53dywng9hTIkHvljhNavG2"
       },
@@ -5414,6 +5458,28 @@
       "duration_ms": 192959,
       "name": "Hay Fiesta",
       "url": "https://open.spotify.com/track/0O5JZMB8BntvrzyMlHY7UW"
+    },
+    {
+      "album": {
+        "name": "Hay Libertad (Reimagined)",
+        "url": "https://open.spotify.com/album/1JF2s8tuSmv8QfcLF9xeDb"
+      },
+      "artists": [
+        {
+          "name": "Art Aguilera",
+          "url": "https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn"
+        },
+        {
+          "name": "KA2SH",
+          "url": "https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193242,
+      "name": "Hay Libertad (Reimagined)",
+      "url": "https://open.spotify.com/track/0Z5bqtzjelFK9Z4wuIngim"
     },
     {
       "album": {
@@ -8341,6 +8407,28 @@
     },
     {
       "album": {
+        "name": "Noche Al Dia",
+        "url": "https://open.spotify.com/album/5aIZdxCQ1gzzW7Q8MFr5EB"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        },
+        {
+          "name": "Kenny Rivers",
+          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Noche Al Dia",
+      "url": "https://open.spotify.com/track/1cmGA4i3195uoFW9dgQAXc"
+    },
+    {
+      "album": {
         "name": "Noches Enteras",
         "url": "https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup"
       },
@@ -9040,7 +9128,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 450000,
       "name": "Que Mi Vida Te Adore",
       "url": "https://open.spotify.com/track/0SMlfgAWLBFc2GOmBOzCMw"

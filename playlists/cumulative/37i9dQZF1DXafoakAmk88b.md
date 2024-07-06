@@ -4,7 +4,7 @@
 
 > New indie from black artists driving the current\. Cover: Jelani Aryeh
 
-437 songs - 22 hr 57 min
+439 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [backseat](https://open.spotify.com/track/68CijBYyD89CISS4vDLAaq) | [WESLEE](https://open.spotify.com/artist/2sfC2KuIzmNQEtVordUuqq) | [backseat](https://open.spotify.com/album/3IOA0OXQ2kkFWT3HKF016w) | 2:54 | 2024-02-28 | 2024-05-05 |
 | [Bad Ting](https://open.spotify.com/track/6ui76rE0geLZvF57z4fPK2) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Bad Ting](https://open.spotify.com/album/5F52mSRpY9XvPTdmsgdMr8) | 3:26 | 2022-02-18 | 2022-02-26 |
 | [Bamboo](https://open.spotify.com/track/7aJGnriGYMhFONUgC4yDFh) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Bamboo](https://open.spotify.com/album/5nbiNNINR828Q0QWmZ0pxK) | 4:50 | 2022-02-18 | 2022-11-12 |
-| [Basquiat](https://open.spotify.com/track/1KeXz6D76LhEaBhYR9n5vI) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [The End of the World](https://open.spotify.com/album/1IhJclrz77F5stIY0oMh7i) | 3:55 | 2023-10-11 |  |
+| [Basquiat](https://open.spotify.com/track/1KeXz6D76LhEaBhYR9n5vI) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [The End of the World](https://open.spotify.com/album/1IhJclrz77F5stIY0oMh7i) | 3:55 | 2023-10-11 | 2024-07-06 |
 | [Beautiful](https://open.spotify.com/track/0SPvoWOI3cUvLSF61bToD0) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Beautiful](https://open.spotify.com/album/6izE6ya12rKksWBZXKh7zU) | 2:46 | 2022-10-03 | 2023-02-11 |
 | [Beautifully Black](https://open.spotify.com/track/0EgaO4boPVHe3Kk1sNUdMB) | [Rahael](https://open.spotify.com/artist/3oldP3klCA3xONdq9IW6YJ) | [Beautifully Black](https://open.spotify.com/album/74Ps9MKdrjQwRHY4rryHCG) | 3:05 | 2022-02-18 | 2022-03-26 |
 | [Before It Hurts](https://open.spotify.com/track/7iP6bz6tvVKzy1rZOvJ4Pz) | [Naimah](https://open.spotify.com/artist/4RNIFrUK6i8KFU2Nga8rVf) | [Before It Hurts](https://open.spotify.com/album/5RXvlBiL2CgJR6eRdiGdvg) | 4:13 | 2022-02-18 | 2022-11-12 |
@@ -133,7 +133,7 @@
 | [FAMJAM4000](https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 2:38 | 2023-08-31 |  |
 | [Fight for it](https://open.spotify.com/track/6tYauukRQsMVED9eNqreNA) | [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [Fight for it](https://open.spotify.com/album/4E3yem5KfbaQQixWsBZnWC) | 2:06 | 2023-03-03 | 2023-08-22 |
 | [Fire](https://open.spotify.com/track/2H4uSHGHRwmye5AAsycdOv) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Fire](https://open.spotify.com/album/4rbFqaLd2gRytJuQU2zVjT) | 2:14 | 2022-02-18 | 2022-11-12 |
-| [First Time](https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Cruzafied](https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv) | 3:37 | 2024-06-17 |  |
+| [First Time](https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Cruzafied](https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv) | 3:37 | 2024-06-17 | 2024-07-06 |
 | [fitt \(with Amaarae\)](https://open.spotify.com/track/7ulh0asPyRT8nEkh3qbjBc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [fitt \(with Amaarae\)](https://open.spotify.com/album/0rcevx17L0BaFLryqgEQZo) | 3:36 | 2022-02-18 | 2022-02-26 |
 | [Fluent Stutter](https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/23Moldp9m4ZHPUHokhwg3z) | 2:26 | 2023-06-07 | 2023-06-10 |
 | [Fluent Stutter](https://open.spotify.com/track/5ajwojfoQcgv1a7VVk20hb) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA) | 2:26 | 2023-06-07 | 2023-08-22 |
@@ -242,6 +242,7 @@
 | [limbo](https://open.spotify.com/track/0JFUAuI5jrh7xHaY0kRFW1) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the star factory](https://open.spotify.com/album/3uOmDnsAd5bFVaOx6nsUTB) | 3:02 | 2023-11-17 | 2023-12-09 |
 | [LIME](https://open.spotify.com/track/38wBthQfH7pQVqJ9N8EjWQ) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [VITAMIN \- C](https://open.spotify.com/album/3X8aSPH9cvQQBsrMO5mHtM) | 3:15 | 2023-02-03 | 2023-08-22 |
 | [Liquorice](https://open.spotify.com/track/5UEnl8IntXqIABMLOIrz2l) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF), [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Liquorice](https://open.spotify.com/album/5XT8Y2ZfswLOpgZE5lXfyy) | 2:17 | 2022-02-18 | 2022-11-12 |
+| [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 | 2024-07-05 |  |
 | [Little Lies \- A COLORS SHOW](https://open.spotify.com/track/3mKaY08m60EwKSx5sbsANC) | [Mighloe](https://open.spotify.com/artist/44obblyrd8EsnfeDkJpiov) | [Little Lies \- A COLORS SHOW](https://open.spotify.com/album/7uiJKbfH5H4GHSC315IebW) | 3:09 | 2022-02-25 | 2022-11-12 |
 | [lived to love](https://open.spotify.com/track/0WtSBij3WrxbY7BNnWJcqH) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/6vdc6p5GTtE9knNhNpXWVD) | 4:15 | 2022-05-13 | 2023-02-11 |
 | [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 | 2022-02-18 | 2022-10-13 |
@@ -402,6 +403,7 @@
 | [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-10-03 | 2023-03-04 |
 | [Tied Up!](https://open.spotify.com/track/37ZUrbtzezZPvuDPsbjWAd) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Tied Up!](https://open.spotify.com/album/4n3Z6bRWaewBbgKOjx8NZD) | 3:09 | 2023-08-09 | 2023-10-07 |
 | [Til The Morning](https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Til The Morning](https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC) | 2:10 | 2022-04-01 | 2022-11-12 |
+| [Time](https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Time](https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF) | 3:44 | 2024-07-05 |  |
 | [Tisched Off](https://open.spotify.com/track/48SVMzB9DEQcbXo0R6DMw3) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Tisched Off](https://open.spotify.com/album/2wt7YjWa3zGjODjVu0vBis) | 2:02 | 2023-02-10 | 2023-06-08 |
 | [TODAY](https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [TODAY](https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt) | 4:01 | 2022-11-11 | 2023-06-08 |
 | [Too Good](https://open.spotify.com/track/2aSrgexC5pyhwgjUu6pHeo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Too Good \(Unknown Mortal Orchestra Remix\)](https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN) | 3:41 | 2022-02-18 | 2022-04-02 |

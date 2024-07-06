@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : Yoa",
+  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : VEN1",
   "name": "RADAR FRANCE",
   "tracks": [
     {
@@ -1241,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "Hakayet",
+        "url": "https://open.spotify.com/album/2p3ns7RThAsCEkBf6Py5cO"
+      },
+      "artists": [
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158208,
+      "name": "Hakayet",
+      "url": "https://open.spotify.com/track/3PyRt7gpih7EPvV0fMWEom"
+    },
+    {
+      "album": {
         "name": "1.6",
         "url": "https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf"
       },
@@ -1800,6 +1818,24 @@
       "duration_ms": 192943,
       "name": "Le temps passe",
       "url": "https://open.spotify.com/track/24o720A8MCkwTWWytpMZld"
+    },
+    {
+      "album": {
+        "name": "Les bonbons",
+        "url": "https://open.spotify.com/album/6NAzRGJOPpOUs24BLpzdsI"
+      },
+      "artists": [
+        {
+          "name": "Lisa Pariente",
+          "url": "https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171960,
+      "name": "Les bonbons",
+      "url": "https://open.spotify.com/track/2KQRtOnkcFpPM7f6P761Oe"
     },
     {
       "album": {
@@ -2884,6 +2920,24 @@
       "duration_ms": 164666,
       "name": "S\u00e9maphore",
       "url": "https://open.spotify.com/track/0DJsJJ34nrznOTyI6Qvmko"
+    },
+    {
+      "album": {
+        "name": "The World I'm Searching For",
+        "url": "https://open.spotify.com/album/740kshLk68k7I9KSXFi8Hg"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272946,
+      "name": "Talk Tonight",
+      "url": "https://open.spotify.com/track/1ELp8T7arWLvK5q34Akt0r"
     },
     {
       "album": {

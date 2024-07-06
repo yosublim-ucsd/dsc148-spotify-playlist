@@ -1,13 +1,33 @@
 {
   "description": "A new take on a classic sound. Cover: Idina Menzel",
-  "num_followers": 122482,
+  "num_followers": 122608,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn41QAAAAABbNVi7OYONvCrkGKftkJdc",
+  "snapshot_id": "ZodvwAAAAAA7MLreMhpHRG2LsSf1RD2G",
   "tracks": [
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Disco Snails",
+        "url": "https://open.spotify.com/album/3b13wU9zmyxbMn5bNVfEgZ"
+      },
+      "artists": [
+        {
+          "name": "Vulfmon",
+          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+        },
+        {
+          "name": "Zachary Barker",
+          "url": "https://open.spotify.com/artist/5qUT1yYC5tJiz928OCYG1c"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Disco Snails",
+      "url": "https://open.spotify.com/track/6DpcY8DLvDyMjJri97HNFy"
+    },
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
@@ -1767,22 +1787,6 @@
       "duration_ms": 221111,
       "name": "Never Knew",
       "url": "https://open.spotify.com/track/5GwzmBgVwaS14JuB65ZMoQ"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Love And Appreciation (Radio Edit)",
-        "url": "https://open.spotify.com/album/7HYTTSaO6GJ7OQIi4cb558"
-      },
-      "artists": [
-        {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
-        }
-      ],
-      "duration_ms": 188216,
-      "name": "Love And Appreciation - Radio Edit",
-      "url": "https://open.spotify.com/track/7a506fRBFFXnalrqcjj3eT"
     },
     {
       "added_at": "2023-01-06 05:00:00",

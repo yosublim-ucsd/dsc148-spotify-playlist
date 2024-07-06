@@ -4,7 +4,7 @@
 
 > POST HUMAN: NeX GEn is out! Foto: Bring Me The Horizon
 
-111 songs - 5 hr 39 min
+112 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [ELA FAZ TUDO QUE EU FAÇO](https://open.spotify.com/track/4AfuhAI2NkMxEzdRO5ILe8) | [LIVS](https://open.spotify.com/artist/5XRPl0u0ZeXPzWPlz9p9oO) | [ELA FAZ TUDO QUE EU FAÇO](https://open.spotify.com/album/1FP6qGR08o9rYeEtCu36bL) | 3:24 | 2024-06-21 |  |
 | [Emocionado](https://open.spotify.com/track/0cSQ6uPHR8IHL3QfYe7n8j) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Emocionado](https://open.spotify.com/album/4EsncwoboDBXFxpFKG8Khj) | 2:47 | 2024-01-19 | 2024-03-02 |
 | [Eu Não Sei](https://open.spotify.com/track/7eeJgq9MhDnycYbd0oM2EZ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Eu Não Sei](https://open.spotify.com/album/5rfuaPrFL0zxgLawlcHI94) | 3:34 | 2024-02-16 | 2024-03-23 |
+| [eu odeio despedidas](https://open.spotify.com/track/5IZ5Kx9r1VX9VsBBUt22Gd) | [UELO](https://open.spotify.com/artist/4IvFfW47jtzYq83IFccA7M), [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [eu odeio despedidas](https://open.spotify.com/album/3Cs0yY0A9dxYtHCSVOrkKO) | 2:31 | 2024-07-05 |  |
 | [Even When I’m Not With You](https://open.spotify.com/track/4FUT5585FDMRFq7z5ZprHC) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Even When I’m Not With You](https://open.spotify.com/album/38nUbLUn1QQvxiYOSezqJU) | 2:54 | 2024-04-12 |  |
 | [Even When I’m Not With You](https://open.spotify.com/track/6yJmxPGazR55GAQdyHPf6q) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 2:54 | 2023-07-21 | 2024-04-19 |
 | [everybody hates me](https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [everybody hates me](https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q) | 2:00 | 2023-07-21 |  |
@@ -101,7 +102,7 @@
 | [Sorry Not Sorry \(with Slash\) \- Rock Version](https://open.spotify.com/track/3sxeoitzj07ONdF2akJ62y) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [Sorry Not Sorry \(with Slash\) \[Rock Version\]](https://open.spotify.com/album/17YnG9TORmVa3NWHwQKQHA) | 3:34 | 2023-07-21 | 2023-08-19 |
 | [Stitches](https://open.spotify.com/track/5rQQaAUU86ulQ4uZIyS1hp) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU) | 3:03 | 2023-07-21 |  |
 | [Sua Versão Jovem](https://open.spotify.com/track/39xAO5ixyiEC8lHN7ntmj9) | [Laura Schadeck](https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS) | [Sua Versão Jovem](https://open.spotify.com/album/1GJAERsQczsGEfiImUGkud) | 2:49 | 2024-04-26 | 2024-05-11 |
-| [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2023-07-21 |  |
+| [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2023-07-21 | 2024-07-06 |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2023-07-21 | 2023-09-16 |
 | [SWINE](https://open.spotify.com/track/5Fl7K6enaM7IDuOkmdbdXg) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SWINE](https://open.spotify.com/album/25TrMACZ5mWFn9r1q7qaY3) | 2:46 | 2023-07-21 | 2023-08-26 |
 | [Swing At Me](https://open.spotify.com/track/3doZB64Wdm6yRRtvAVGdNf) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Swing At Me](https://open.spotify.com/album/5ph5mqEdwDTyEaoTkFknoN) | 3:25 | 2024-05-31 |  |

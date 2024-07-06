@@ -1890,7 +1890,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 194140,
       "name": "Fresh Bones",
       "url": "https://open.spotify.com/track/5TDEy1qTEFWwdWTZ9K9v3p"
@@ -3936,6 +3936,28 @@
       "duration_ms": 248386,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/0Sox7tv3MK5h6AkFLUPHtY"
+    },
+    {
+      "album": {
+        "name": "Monsoon Lightning",
+        "url": "https://open.spotify.com/album/7ELb0B6hRV0GO0U4e7BBpN"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Shack",
+          "url": "https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3"
+        },
+        {
+          "name": "Tom Walbank",
+          "url": "https://open.spotify.com/artist/6Ju4WiHeO57mAP7iEUFfCw"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263277,
+      "name": "Monsoon Lightning",
+      "url": "https://open.spotify.com/track/2amxmJp83GsKX3tS3GkBFo"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Marama, Migrantes & Flor Alvarez.",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Rafaga & Roze Oficial.",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -808,7 +808,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 317666,
       "name": "Ayer / Quiere Beber / OA",
       "url": "https://open.spotify.com/track/1UGtRPa4OnNWsLIEF4YZxa"
@@ -2340,7 +2340,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 172806,
       "name": "Dejar\u00eda Todo",
       "url": "https://open.spotify.com/track/6lv2OAHcT33IOxJSbeJzZT"
@@ -3323,6 +3323,28 @@
     },
     {
       "album": {
+        "name": "Esc\u00e1ndalo",
+        "url": "https://open.spotify.com/album/6FSn34lHVtrPxIjJHNrxlY"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146138,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/1H51wUDrLNB4AIOAnqE8Px"
+    },
+    {
+      "album": {
         "name": "No Est\u00e1 en la Flecha Sino en el Indio",
         "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
       },
@@ -3684,7 +3706,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 172354,
       "name": "Hablemos de Ti",
       "url": "https://open.spotify.com/track/1ZaoJzMJnsmfYOsEOMuT3e"
@@ -3816,7 +3838,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 142840,
       "name": "Hipnotizados",
       "url": "https://open.spotify.com/track/2t88IEEgCkZr9OQHOrOr3j"
@@ -3982,6 +4004,24 @@
       "duration_ms": 178033,
       "name": "Impostora",
       "url": "https://open.spotify.com/track/4hCjnoUtmbDAewKJwZQefM"
+    },
+    {
+      "album": {
+        "name": "Mix Cumbia 2",
+        "url": "https://open.spotify.com/album/7gNaQ1A9ipBj7mz3NyhpRG"
+      },
+      "artists": [
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193496,
+      "name": "Inocente",
+      "url": "https://open.spotify.com/track/5barxcgd1ar3OTzbvXrQaB"
     },
     {
       "album": {
@@ -5456,7 +5496,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 242400,
       "name": "Maravillosa Esta Noche",
       "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
@@ -5914,7 +5954,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 189473,
       "name": "Miradas - Remix",
       "url": "https://open.spotify.com/track/5IhVxfhY81aRjLHddjnDnK"
@@ -6816,6 +6856,24 @@
       "duration_ms": 129410,
       "name": "Nunca M\u00e1s",
       "url": "https://open.spotify.com/track/636uUKyY6Uq7PdsFO3FECC"
+    },
+    {
+      "album": {
+        "name": "Ojitos Cerrados",
+        "url": "https://open.spotify.com/album/75NwksYxfwwQiqR3TlfqL2"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Ojitos Cerrados",
+      "url": "https://open.spotify.com/track/01gEeTQvRM1lt9P8uPbjyw"
     },
     {
       "album": {
@@ -11234,7 +11292,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 285714,
       "name": "Yo Que Te Ame / No Vivo Sin Ti / Como Quisiera",
       "url": "https://open.spotify.com/track/5YLP1H3Un1XJF40VLbhfCp"

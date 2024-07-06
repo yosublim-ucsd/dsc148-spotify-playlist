@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 
 > Nur tote Fische schwimmen mit dem Strom\. Cover: H.i.T.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,455 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,470 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 36 | [Stures dummes Herz](https://open.spotify.com/track/2Jw8Ij0rDWuUDKvkktFzrO) | [TRÄNEN](https://open.spotify.com/artist/4NKHTY0ghFbhkFwl29BxMD) | [Stures dummes Herz](https://open.spotify.com/album/7iTZebDTdiXQC4uluRWoxi) | 2:56 |
 | 37 | [König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw) | [Traumatin](https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV) | [König Der Welt](https://open.spotify.com/album/6iP34lE8L8EDx6JGgHPMB6) | 3:28 |
 | 38 | [Ein Spiel \(feat\. piya\)](https://open.spotify.com/track/1klDCE1ebQnTf9cds6I0hW) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo), [piya](https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh) | [Ein Spiel \(feat\. piya\)](https://open.spotify.com/album/1MxxDZjHKqlHiS4xuNx8VT) | 3:33 |
-| 39 | [Achtung Fragile](https://open.spotify.com/track/6Mc07uFlXtFxqBDMv1He0f) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x) | [Achtung Fragile](https://open.spotify.com/album/4Suc6drXFcuMj1IofmJeV9) | 2:27 |
-| 40 | [Leere Flaschen](https://open.spotify.com/track/7vxZqMRKJAIGCJPVkZAIor) | [Anda Morts](https://open.spotify.com/artist/4I2FyJP0zs6IPgasQVwG7r) | [Leere Flaschen](https://open.spotify.com/album/1O60XqPGhSgEJ1LPDLlwgK) | 2:53 |
+| 39 | [Leere Flaschen](https://open.spotify.com/track/7vxZqMRKJAIGCJPVkZAIor) | [Anda Morts](https://open.spotify.com/artist/4I2FyJP0zs6IPgasQVwG7r) | [Leere Flaschen](https://open.spotify.com/album/1O60XqPGhSgEJ1LPDLlwgK) | 2:53 |
+| 40 | [Achtung Fragile](https://open.spotify.com/track/6Mc07uFlXtFxqBDMv1He0f) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x) | [Achtung Fragile](https://open.spotify.com/album/4Suc6drXFcuMj1IofmJeV9) | 2:27 |
 | 41 | [Das Neue Normal](https://open.spotify.com/track/4JZzUgcFrkWisEO1yirDj7) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Das Neue Normal](https://open.spotify.com/album/6X5diaWcPFGcsNMjwnWZdC) | 3:33 |
 | 42 | [So schreibt man seinen Song](https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe) | [Olli Schulz](https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1) | [Vom Rand der Zeit](https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH) | 3:23 |
 | 43 | [Marmelade Und Himbeereis](https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Marmelade Und Himbeereis](https://open.spotify.com/album/064OxNn7XPDjxpmaKu57Di) | 3:48 |
 | 44 | [Das Fest](https://open.spotify.com/track/15ttYbkCS4LGeBYEBKpdJe) | [Oehl](https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp) | [Das Fest](https://open.spotify.com/album/6wsAw2KnjH439LE0oLd0YI) | 2:44 |
-| 45 | [Die Hitze ist heiß](https://open.spotify.com/track/4AbH6roYbLNcjZmZEkkbtw) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x) | [Die Hitze ist heiß](https://open.spotify.com/album/1gtzF9NqsPorWOxmICuHSr) | 2:34 |
-| 46 | [Van Noten \- Live](https://open.spotify.com/track/1BcilPuV8RJ3mtGvTUC1Xv) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Orpheum \(Live\)](https://open.spotify.com/album/70leZm9lR2a4sa7H3eP3qo) | 4:21 |
-| 47 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 |
+| 45 | [Van Noten \- Live](https://open.spotify.com/track/1BcilPuV8RJ3mtGvTUC1Xv) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Orpheum \(Live\)](https://open.spotify.com/album/70leZm9lR2a4sa7H3eP3qo) | 4:21 |
+| 46 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 |
+| 47 | [haus am meer](https://open.spotify.com/track/1rXogQOERbDIu90ZSXTBEW) | [Tuffy](https://open.spotify.com/artist/4UDkNikL9D2vhFwqmMoJ2h) | [haus am meer](https://open.spotify.com/album/04M4bDc6yaTrkarToMjWKs) | 2:21 |
 | 48 | [zwei bier \(la la la\)](https://open.spotify.com/track/5HlxYAqsU0vXhKVS0rvROI) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [zwei bier \(la la la\)](https://open.spotify.com/album/4DmMom1MSf4NrKNgLtRDAa) | 3:29 |
-| 49 | [haus am meer](https://open.spotify.com/track/1rXogQOERbDIu90ZSXTBEW) | [Tuffy](https://open.spotify.com/artist/4UDkNikL9D2vhFwqmMoJ2h) | [haus am meer](https://open.spotify.com/album/04M4bDc6yaTrkarToMjWKs) | 2:21 |
-| 50 | [ICH WEISS ES NICHT](https://open.spotify.com/track/7L2c0Gy88eOncmLPQ2PF9V) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ) | [ICH WEISS ES NICHT](https://open.spotify.com/album/0DgFYFrptZIulH79F3zGe9) | 2:35 |
+| 49 | [Die Hitze ist heiß](https://open.spotify.com/track/4AbH6roYbLNcjZmZEkkbtw) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x) | [Die Hitze ist heiß](https://open.spotify.com/album/1gtzF9NqsPorWOxmICuHSr) | 2:34 |
+| 50 | [Pirdutu cori](https://open.spotify.com/track/0xzcU8WQaCaigkEkR5suY8) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM), [Pippo Pollina](https://open.spotify.com/artist/5npjIDoA8dath4yVEVmKhZ) | [Pirdutu cori](https://open.spotify.com/album/7x3SSmmPtAK4VgiksNvJBD) | 3:39 |
 
 Snapshot ID: `ZocbYAAAAAASWhjc++R9mjKaq9u0FDvy`

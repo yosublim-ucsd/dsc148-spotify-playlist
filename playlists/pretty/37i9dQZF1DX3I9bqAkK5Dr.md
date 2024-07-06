@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,042 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,050 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [Veduka Kanaro Maa Inta](https://open.spotify.com/track/4O7rIqx6h3BixM4JmWY4jK) | [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb), [Sumanth Borra](https://open.spotify.com/artist/3hu79lSCu6pxnTG3Vfpuyz), [Soma Rishitha](https://open.spotify.com/artist/4eOZsojt4r5136CWprInPa) | [Veduka Kanaro Maa Inta](https://open.spotify.com/album/23n6s3GksVZRUi1LQaejh5) | 4:15 |
 | 75 | [Andhami Swapnam](https://open.spotify.com/track/3tiYuEpEjZGuFLjfDf0UyX) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Andhami Swapnam](https://open.spotify.com/album/6IUYeqHEcXN6OYusVU3b8z) | 4:26 |
 
-Snapshot ID: `ZoJCdAAAAACljdL21BzPS2F7DBranyAt`
+Snapshot ID: `ZogbqgAAAADnQ0a9h7XXS38lKWUmKDuv`

@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2930077,
+  "num_followers": 2930614,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAAAHHa+ChA3ZBD7m0gmIxLEs",
+  "snapshot_id": "ZoXmAAAAAABRkBD9cl65tnw8HsuhCK/u",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 166605,
-      "name": "SAD!",
-      "url": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
+      "duration_ms": 135090,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL"
     },
     {
       "added_at": null,
@@ -419,22 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Baby 2: All Grown Up",
-        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
       },
       "artists": [
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
           "name": "XXXTENTACION",
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
         }
       ],
-      "duration_ms": 213132,
-      "name": "Roll in Peace (feat. XXXTENTACION)",
-      "url": "https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI"
+      "duration_ms": 169978,
+      "name": "RIP Roach",
+      "url": "https://open.spotify.com/track/658I1uDnmLSiltFCf98AWE"
     },
     {
       "added_at": null,
@@ -455,26 +455,6 @@
       "duration_ms": 176590,
       "name": "infinity (888) - feat. Joey Bada$$",
       "url": "https://open.spotify.com/track/7J2gyNghNTzl4EsLhXp01Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        },
-        {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
-        }
-      ],
-      "duration_ms": 169978,
-      "name": "RIP Roach",
-      "url": "https://open.spotify.com/track/658I1uDnmLSiltFCf98AWE"
     },
     {
       "added_at": null,
@@ -572,9 +552,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 76973,
-      "name": "difference (interlude)",
-      "url": "https://open.spotify.com/track/5itzep0nGnq7hxCfFNsTIR"
+      "duration_ms": 150769,
+      "name": "what are you so afraid of",
+      "url": "https://open.spotify.com/track/57nOpVSc3j9o03Cr928ZM4"
     },
     {
       "added_at": null,
@@ -636,9 +616,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 150769,
-      "name": "what are you so afraid of",
-      "url": "https://open.spotify.com/track/57nOpVSc3j9o03Cr928ZM4"
+      "duration_ms": 76973,
+      "name": "difference (interlude)",
+      "url": "https://open.spotify.com/track/5itzep0nGnq7hxCfFNsTIR"
     },
     {
       "added_at": null,
@@ -851,6 +831,22 @@
       "duration_ms": 219560,
       "name": "King Of The Dead",
       "url": "https://open.spotify.com/track/46OkOaarmTsAQQFfZSsruW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teeth (Interlude)",
+        "url": "https://open.spotify.com/album/7Gy8dMtA8JLwItcuYQiSXu"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 142716,
+      "name": "Teeth (Interlude)",
+      "url": "https://open.spotify.com/track/2TIgwzoxcj1VIX1Y43OhMG"
     },
     {
       "added_at": null,

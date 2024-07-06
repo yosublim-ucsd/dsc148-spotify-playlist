@@ -1,12 +1,12 @@
 {
-  "description": "This is The White Stripes. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 112845,
+  "description": "This is The White Stripes. The essential tracks, all in one playlist.",
+  "num_followers": 112878,
   "original_name": "This Is The White Stripes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAAA9mWIorheHNHmMZLQy22+r",
+  "snapshot_id": "ZoXmAAAAAABSQTqjC2CVix0fyX/iJ3fg",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 109720,
-      "name": "You're Pretty Good Looking (For a Girl)",
-      "url": "https://open.spotify.com/track/5OjQHOLMSzm9gkcIhtsgMO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Icky Thump",
         "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 258066,
       "name": "Catch Hell Blues",
       "url": "https://open.spotify.com/track/064unATFKRpnOwL1Yfvp39"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 109720,
+      "name": "You're Pretty Good Looking (For a Girl)",
+      "url": "https://open.spotify.com/track/5OjQHOLMSzm9gkcIhtsgMO"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 269946,
-      "name": "Death Letter",
-      "url": "https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Icky Thump",
         "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 234400,
       "name": "You Don't Know What Love Is (You Just Do as You're Told)",
       "url": "https://open.spotify.com/track/2PVq6RRjQpycXb6yQEkHHt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 269946,
+      "name": "Death Letter",
+      "url": "https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 186800,
-      "name": "Little Bird",
-      "url": "https://open.spotify.com/track/7uYoO8Jt7BUib2teUpLFLZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Icky Thump",
         "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 228000,
       "name": "Rag and Bone",
       "url": "https://open.spotify.com/track/37SxzqcjbwYfZxZlW8jZYA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 186800,
+      "name": "Little Bird",
+      "url": "https://open.spotify.com/track/7uYoO8Jt7BUib2teUpLFLZ"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "Truth Doesn't Make a Noise",
-      "url": "https://open.spotify.com/track/4cuKwDw7T3JELdePWwa3hZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Icky Thump",
         "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 168306,
       "name": "Conquest",
       "url": "https://open.spotify.com/track/53ofSOPSvejQkQQLhpEN6X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "Truth Doesn't Make a Noise",
+      "url": "https://open.spotify.com/track/4cuKwDw7T3JELdePWwa3hZ"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Behind Me Satan",
-        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Take, Take, Take",
-      "url": "https://open.spotify.com/track/4DDKpCCJPC0A66aGTQv6gH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Icky Thump",
         "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 274533,
       "name": "I'm Slowly Turning Into You",
       "url": "https://open.spotify.com/track/3MsWy7Is42kx8OImv41rUG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "Take, Take, Take",
+      "url": "https://open.spotify.com/track/4DDKpCCJPC0A66aGTQv6gH"
     },
     {
       "added_at": null,

@@ -4628,7 +4628,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 204675,
       "name": "Falling (with Njomza & Daniel Allan)",
       "url": "https://open.spotify.com/track/6hDdCDnxu7omTDIKC1BICK"
@@ -10105,6 +10105,24 @@
     },
     {
       "album": {
+        "name": "It Was All Okay in the End",
+        "url": "https://open.spotify.com/album/2tGR22L9iBgqCNVAa0Itiu"
+      },
+      "artists": [
+        {
+          "name": "Soki",
+          "url": "https://open.spotify.com/artist/3VpJFT2qTuLFZ6PEviUlhr"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173335,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/3JdnT0f6cNTWld74AI3dR4"
+    },
+    {
+      "album": {
         "name": "Pachamama",
         "url": "https://open.spotify.com/album/4pyp9BJdIT2rqRiavNpiWL"
       },
@@ -11214,7 +11232,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 197612,
       "name": "Romantic Homicide - Spotify Singles",
       "url": "https://open.spotify.com/track/1P7xMiKHrAl4e5Vbi6NbPf"
@@ -12436,6 +12454,32 @@
       "duration_ms": 192063,
       "name": "slomo (with Tohji & Midas The Jagaban)",
       "url": "https://open.spotify.com/track/1siKLsvJLmVM8fBzJrpBNy"
+    },
+    {
+      "album": {
+        "name": "Slow (with Laszewo & pluko)",
+        "url": "https://open.spotify.com/album/1PgLV682VcIkeUabDEEDqa"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Laszewo",
+          "url": "https://open.spotify.com/artist/7ytetffNf8Df0lYmPxi9R2"
+        },
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191573,
+      "name": "Slow (with Laszewo & pluko)",
+      "url": "https://open.spotify.com/track/1xM4as4z4qfqXzk4HR8GPb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-859 songs - 2 day 1 hr 45 min
+860 songs - 2 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [How Long \(Single Version\)](https://open.spotify.com/track/5F1MUKe3MGBmHDDYT9XFaB) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ) | [How Long \(Single Version\)](https://open.spotify.com/album/5msvA8WSAQxX6ras6GKJHD) | 3:34 | 2023-05-26 | 2024-01-27 |
 | [How to Say I Love You](https://open.spotify.com/track/3zU0TFR29rZGoJIkaoRS84) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [How to Say I Love You](https://open.spotify.com/album/3xPPfPfqh4gTeQJCxWeK7s) | 3:26 | 2024-06-07 |  |
 | [Humble Quest](https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:24 | 2022-03-25 | 2022-07-29 |
+| [Hurt](https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hurt](https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS) | 2:41 | 2024-07-05 |  |
 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-04-01 | 2023-01-28 |
 | [Hurts So Bad \- with Josh Teskey](https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Hurts So Bad](https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2) | 3:55 | 2022-11-25 | 2023-01-06 |
 | [Hurts So Bad \- with Josh Teskey](https://open.spotify.com/track/7BNVtH2GKz8GGGXlFvHNZb) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Those Days Are Over](https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf) | 3:55 | 2022-12-02 | 2023-02-25 |
@@ -366,7 +367,7 @@
 | [i don't wanna ruin ur party](https://open.spotify.com/track/1mYEAoHFaq4I5gJV0MvhSa) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [i don't wanna ruin ur party](https://open.spotify.com/album/38ZS3InIKSDLYcKZpfm09m) | 2:22 | 2022-09-30 | 2022-10-08 |
 | [I Don’t Know How To End](https://open.spotify.com/track/24n43FNabatI424TFU39Tr) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Sunday In Heaven](https://open.spotify.com/album/6Xi4qZBRpq328DPysFR6fO) | 4:00 | 2022-10-14 | 2023-05-13 |
 | [I Don’t Wanna See You Try](https://open.spotify.com/track/6BhFYU7Fyq85NIFRmHbVaY) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [I Don’t Wanna See You Try](https://open.spotify.com/album/7ltoJAs4T639HlUdiEFdOB) | 2:43 | 2024-02-23 |  |
-| [I Get It Now](https://open.spotify.com/track/0bgkFYeUHHu3ANzPwvGUgH) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Red Sky Continued](https://open.spotify.com/album/3iguCKsubREAOrpyG0wcoZ) | 3:38 | 2023-10-13 |  |
+| [I Get It Now](https://open.spotify.com/track/0bgkFYeUHHu3ANzPwvGUgH) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Red Sky Continued](https://open.spotify.com/album/3iguCKsubREAOrpyG0wcoZ) | 3:38 | 2023-10-13 | 2024-07-06 |
 | [I Guess](https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [I Guess](https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E) | 3:44 | 2024-03-15 |  |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 | 2021-08-04 | 2022-08-13 |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [I Guess I Just Feel Like](https://open.spotify.com/album/35Kv9CZURVdrejZ5jsL8Xn) | 4:46 | 2021-08-04 | 2022-05-04 |

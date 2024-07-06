@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: $uicideboy$
 
-973 songs - 1 day 22 hr 34 min
+974 songs - 1 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Beat It](https://open.spotify.com/track/30cwmNAQximovZ8Uu1JI1j) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Beat It](https://open.spotify.com/album/0HcLr07FuylFKSvK9eq0aE) | 2:04 | 2023-12-08 | 2024-02-17 |
 | [Beautiful Madness](https://open.spotify.com/track/3ztxnRagH23y9W5J1jdjUY) | [Wale the Sage](https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD) | [Beautiful Madness](https://open.spotify.com/album/50vg1WAgdsvSdGfqydIqlm) | 2:59 | 2024-04-05 |  |
 | [beauty](https://open.spotify.com/track/4kXOuF3EGVS3YGrpbfdT3n) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [genre : sadboy](https://open.spotify.com/album/1WkykSHhndyQJcYNwL7zxY) | 3:16 | 2024-03-29 | 2024-04-06 |
-| [Bed Bugs](https://open.spotify.com/track/0DRBjzdzLby5Oe9xKShl5q) | [Ahmad Anonimis](https://open.spotify.com/artist/3wnsNFtqQ75UEUAN3PwkPH) | [Mnt\. Snug](https://open.spotify.com/album/1CxZ3qofoLQQ6OqohMZqSa) | 2:13 | 2024-04-26 |  |
+| [Bed Bugs](https://open.spotify.com/track/0DRBjzdzLby5Oe9xKShl5q) | [Ahmad Anonimis](https://open.spotify.com/artist/3wnsNFtqQ75UEUAN3PwkPH) | [Mnt\. Snug](https://open.spotify.com/album/1CxZ3qofoLQQ6OqohMZqSa) | 2:13 | 2024-04-26 | 2024-07-06 |
 | [Been About It](https://open.spotify.com/track/7BmwARA7tuxdIYq59xSDFf) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Never Land II](https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL) | 2:21 | 2022-03-25 | 2022-10-15 |
 | [Been Himma](https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Been Himma](https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq) | 2:46 | 2022-01-14 | 2022-02-11 |
 | [Berghain \(feat\. Barney Bones\)](https://open.spotify.com/track/3uqjvrA1xkjshN7HfKHkX6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Berghain \(feat\. Barney Bones\)](https://open.spotify.com/album/5uKHNEyh0EeOYsEjK3ZkBG) | 3:09 | 2024-05-03 | 2024-05-25 |
@@ -498,6 +498,7 @@
 | [LIGHT MY FIRE](https://open.spotify.com/track/5siWFY5GsiwUo1rrEb19gY) | [Pnkblnkt](https://open.spotify.com/artist/7qpXAGPtNcePq9ddltAVRV), [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh), [BIGBABYGUCCI](https://open.spotify.com/artist/1ra8ujbJcZrV5aUjcfzFKs) | [LIGHT MY FIRE](https://open.spotify.com/album/272zWysASJEkXlv31EfK7S) | 3:10 | 2024-04-05 | 2024-04-27 |
 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 | 2024-03-22 | 2024-03-30 |
 | [LIGHTER FLUID](https://open.spotify.com/track/6ZRC56ykoaYLnncqvSwKWR) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [LIGHTER FLUID](https://open.spotify.com/album/6qm4XXccJz12KfaFyKkcwJ) | 2:13 | 2023-04-21 | 2024-04-13 |
+| [Lil Angel](https://open.spotify.com/track/70Z2wP3lTfnqPt3SAIhUVC) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Lil Angel](https://open.spotify.com/album/0Taz0jmEsVdAgjrfXotHea) | 2:28 | 2024-07-05 |  |
 | [Lil Fish, Big Pond](https://open.spotify.com/track/3TvFUCXBX98jXJ9aIts2Na) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Lil Fish, Big Pond](https://open.spotify.com/album/6JznnjXuTAJkN2N6fFXWt9) | 2:34 | 2023-07-21 | 2023-10-07 |
 | [Lil X](https://open.spotify.com/track/4RwPDEWhzlhpcXlzsNyR1X) | [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Lil X](https://open.spotify.com/album/7pS3lWklO394wo7IqVWorw) | 2:23 | 2024-02-02 | 2024-02-17 |
 | [Lilypad](https://open.spotify.com/track/2TVbyt1fENms720Vpobtwh) | [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [Lilypad](https://open.spotify.com/album/5cdIXp8gnJBs0EX1zpGEd8) | 3:57 | 2023-11-03 | 2023-11-11 |

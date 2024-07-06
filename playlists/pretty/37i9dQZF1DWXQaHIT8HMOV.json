@@ -1,6 +1,6 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Elijah Kitaka",
-  "num_followers": 3542,
+  "num_followers": 3556,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,30 @@
       "duration_ms": 181276,
       "name": "Wesudiya",
       "url": "https://open.spotify.com/track/6k856Fpj5VGtxwRdni0kcz"
+    },
+    {
+      "added_at": "2024-07-04 23:59:00",
+      "album": {
+        "name": "Kiki Naye",
+        "url": "https://open.spotify.com/album/5d30swJn03ZzY5CQIoPU7b"
+      },
+      "artists": [
+        {
+          "name": "That Malcolm Guy",
+          "url": "https://open.spotify.com/artist/2oNtuWZXcMdCspkoQr97SI"
+        },
+        {
+          "name": "JOKA",
+          "url": "https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV"
+        },
+        {
+          "name": "GEOXwill",
+          "url": "https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX"
+        }
+      ],
+      "duration_ms": 257738,
+      "name": "Kiki Naye",
+      "url": "https://open.spotify.com/track/0oP11acxTwZ0fa5oyEaPZc"
     },
     {
       "added_at": "2024-07-04 23:59:00",

@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Davina Michelle
 
-6,850 songs - 14 day 23 hr 28 min
+6,851 songs - 14 day 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4033,6 +4033,7 @@
 | [Naked And Alive](https://open.spotify.com/track/5ivyL3WEFCo0IfivYC0FOF) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Naked And Alive](https://open.spotify.com/album/6mPCKnNWmqzIhuLAwuCfQe) | 3:27 | 2024-05-31 | 2024-06-07 |
 | [Nakie Nakie](https://open.spotify.com/track/18QfA6nedF15GCefoRmbcT) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Nakie Nakie](https://open.spotify.com/album/2hEEMvD5dELumMCQOfNdVg) | 4:38 | 2023-12-14 | 2023-12-22 |
 | [Name in Lights](https://open.spotify.com/track/6dtAX5faQSUOS1950qXT8x) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Name in Lights](https://open.spotify.com/album/0j8V7hJZIsJqr1aN8nPNAE) | 3:31 | 2023-05-25 | 2023-06-02 |
+| [NAN](https://open.spotify.com/track/0CbXAQ9r0pvnQC9WAbZij4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [NAN](https://open.spotify.com/album/1wkQpHtCqwnHzWJ9aNHANu) | 1:55 | 2024-07-04 |  |
 | [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-05-16 | 2024-05-24 |
 | [Nao Tem Jeito](https://open.spotify.com/track/3H1mXHzAi1jrBeYDFgR4yt) | [Zuco 103](https://open.spotify.com/artist/7m5FwndSbCRd5vJvgviUCA) | [Nao Tem Jeito](https://open.spotify.com/album/18nFQk8PvDQuMpukxNI4XS) | 3:26 | 2023-03-30 | 2023-04-07 |
 | [Narcissist](https://open.spotify.com/track/0fayxbip7asGIBze5wWZnu) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Narcissist](https://open.spotify.com/album/5q4oFnbNrfW9MtuZdBIZlC) | 2:29 | 2024-01-04 | 2024-01-12 |

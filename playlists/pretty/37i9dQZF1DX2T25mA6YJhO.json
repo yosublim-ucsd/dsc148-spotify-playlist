@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Sexy Zebras.",
-  "num_followers": 19019,
+  "num_followers": 19050,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "The Last of Us",
+        "url": "https://open.spotify.com/album/3m706HSNKqmnycUdWYt7Zw"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "duration_ms": 270137,
+      "name": "The Last of Us",
+      "url": "https://open.spotify.com/track/2WxZ92Q1q5NPbdJbJx7k8q"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Maldito",
         "url": "https://open.spotify.com/album/2j5JyU1ZbTAotHmrLIujL4"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 171740,
       "name": "Y no lo ves",
       "url": "https://open.spotify.com/track/5ds91qYmtz0fSPwQgUBIJi"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "The Last of Us",
-        "url": "https://open.spotify.com/album/3m706HSNKqmnycUdWYt7Zw"
-      },
-      "artists": [
-        {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
-        }
-      ],
-      "duration_ms": 270137,
-      "name": "The Last of Us",
-      "url": "https://open.spotify.com/track/2WxZ92Q1q5NPbdJbJx7k8q"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Que arda Madriz",
-        "url": "https://open.spotify.com/album/6DbaSRHWCIjvzXvFLg3IYC"
+        "name": "5 MESES",
+        "url": "https://open.spotify.com/album/5qN6vm6Z4nW90l4m072RoY"
       },
       "artists": [
         {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+          "name": "Agudo",
+          "url": "https://open.spotify.com/artist/7AV6djETiJOxkb38gsU3Y6"
         }
       ],
-      "duration_ms": 234067,
-      "name": "Que arda Madriz",
-      "url": "https://open.spotify.com/track/6kiSbGU14JU9wgcWqQhQAn"
+      "duration_ms": 191428,
+      "name": "5 meses",
+      "url": "https://open.spotify.com/track/2yNYMqWDnZ6Z8cvE1H5D8o"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Que arda Madriz",
+        "url": "https://open.spotify.com/album/6DbaSRHWCIjvzXvFLg3IYC"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "duration_ms": 234067,
+      "name": "Que arda Madriz",
+      "url": "https://open.spotify.com/track/6kiSbGU14JU9wgcWqQhQAn"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Demasiada Mujer",
         "url": "https://open.spotify.com/album/5gfklqSJCw2qHpWHmHQgTF"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 155250,
       "name": "Demasiada Mujer",
       "url": "https://open.spotify.com/track/7HquvibqnlfIM0s0tg4IG7"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "5 MESES",
-        "url": "https://open.spotify.com/album/5qN6vm6Z4nW90l4m072RoY"
-      },
-      "artists": [
-        {
-          "name": "Agudo",
-          "url": "https://open.spotify.com/artist/7AV6djETiJOxkb38gsU3Y6"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "5 meses",
-      "url": "https://open.spotify.com/track/2yNYMqWDnZ6Z8cvE1H5D8o"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Tu nombre es una puerta por cerrar",
-        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
-      },
-      "artists": [
-        {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
-        }
-      ],
-      "duration_ms": 244164,
-      "name": "Tu nombre es una puerta por cerrar",
-      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Tekken",
         "url": "https://open.spotify.com/album/43Ost0Cu1JwQPIVA8fgxXs"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 261333,
       "name": "Tekken",
       "url": "https://open.spotify.com/track/5kxroIDsvS0AQck5X8EKYN"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Echo de menos a los Arctic Monkeys",
+        "url": "https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG"
+      },
+      "artists": [
+        {
+          "name": "Tenda",
+          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
+        }
+      ],
+      "duration_ms": 199448,
+      "name": "Echo de menos a los Arctic Monkeys",
+      "url": "https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Echo de menos a los Arctic Monkeys",
-        "url": "https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG"
+        "name": "Tu nombre es una puerta por cerrar",
+        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
       },
       "artists": [
         {
-          "name": "Tenda",
-          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
         }
       ],
-      "duration_ms": 199448,
-      "name": "Echo de menos a los Arctic Monkeys",
-      "url": "https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK"
+      "duration_ms": 244164,
+      "name": "Tu nombre es una puerta por cerrar",
+      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1091,22 +1091,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Al Amanecer",
-        "url": "https://open.spotify.com/album/4JfvYkC4ih4egFoHmMr7ZG"
+        "name": "La estrella eres t\u00fa",
+        "url": "https://open.spotify.com/album/4wjcEIgfl8UXALJ8RMf5Sl"
       },
       "artists": [
         {
-          "name": "Monteperdido",
-          "url": "https://open.spotify.com/artist/3GxxpOZw5vZ4Z5Wxesav1y"
-        },
-        {
-          "name": "Marco",
-          "url": "https://open.spotify.com/artist/5NIA81lu3aTT72RVQ20l2W"
+          "name": "Yawners",
+          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
         }
       ],
-      "duration_ms": 174034,
-      "name": "Al Amanecer",
-      "url": "https://open.spotify.com/track/4e53xhYzdbAWuZu6dqfDOh"
+      "duration_ms": 197635,
+      "name": "La estrella eres t\u00fa",
+      "url": "https://open.spotify.com/track/02D1Dj42VGXSg45nY5YMe1"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1127,18 +1123,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "La estrella eres t\u00fa",
-        "url": "https://open.spotify.com/album/4wjcEIgfl8UXALJ8RMf5Sl"
+        "name": "Al Amanecer",
+        "url": "https://open.spotify.com/album/4JfvYkC4ih4egFoHmMr7ZG"
       },
       "artists": [
         {
-          "name": "Yawners",
-          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
+          "name": "Monteperdido",
+          "url": "https://open.spotify.com/artist/3GxxpOZw5vZ4Z5Wxesav1y"
+        },
+        {
+          "name": "Marco",
+          "url": "https://open.spotify.com/artist/5NIA81lu3aTT72RVQ20l2W"
         }
       ],
-      "duration_ms": 197635,
-      "name": "La estrella eres t\u00fa",
-      "url": "https://open.spotify.com/track/02D1Dj42VGXSg45nY5YMe1"
+      "duration_ms": 174034,
+      "name": "Al Amanecer",
+      "url": "https://open.spotify.com/track/4e53xhYzdbAWuZu6dqfDOh"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "FATAL, GRACIAS",
+        "url": "https://open.spotify.com/album/1xD40JizwIWMrgncSJFlqH"
+      },
+      "artists": [
+        {
+          "name": "Coolnenas",
+          "url": "https://open.spotify.com/artist/4hLqOlbnetKrAoF7PHZzwd"
+        },
+        {
+          "name": "Galician Army",
+          "url": "https://open.spotify.com/artist/1uryf2kVKqQP54Kb9EsN2x"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "FATAL, GRACIAS",
+      "url": "https://open.spotify.com/track/074wAQGPvi3hOFzwsA94yE"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Sofisticado",
         "url": "https://open.spotify.com/album/38hAaDQw9itDaxurry5vrw"
       },
@@ -1267,22 +1287,6 @@
       "duration_ms": 177887,
       "name": "Sofisticado",
       "url": "https://open.spotify.com/track/2UEtrZwOlCSgUpx0GYeTFY"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Amanecer Gal\u00e1ctico",
-        "url": "https://open.spotify.com/album/0gPfFGANWqyNiBiKqbyip2"
-      },
-      "artists": [
-        {
-          "name": "Sexy Zebras",
-          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
-        }
-      ],
-      "duration_ms": 222040,
-      "name": "Amanecer Gal\u00e1ctico",
-      "url": "https://open.spotify.com/track/2K2nuQlPhZOwRkkoz6Vbqc"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1303,22 +1307,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "FATAL, GRACIAS",
-        "url": "https://open.spotify.com/album/1xD40JizwIWMrgncSJFlqH"
+        "name": "Amanecer Gal\u00e1ctico",
+        "url": "https://open.spotify.com/album/0gPfFGANWqyNiBiKqbyip2"
       },
       "artists": [
         {
-          "name": "Coolnenas",
-          "url": "https://open.spotify.com/artist/4hLqOlbnetKrAoF7PHZzwd"
-        },
-        {
-          "name": "Galician Army",
-          "url": "https://open.spotify.com/artist/1uryf2kVKqQP54Kb9EsN2x"
+          "name": "Sexy Zebras",
+          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
         }
       ],
-      "duration_ms": 140487,
-      "name": "FATAL, GRACIAS",
-      "url": "https://open.spotify.com/track/074wAQGPvi3hOFzwsA94yE"
+      "duration_ms": 222040,
+      "name": "Amanecer Gal\u00e1ctico",
+      "url": "https://open.spotify.com/track/2K2nuQlPhZOwRkkoz6Vbqc"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Rosquilla de canela",
+        "url": "https://open.spotify.com/album/5j3euieoInLiYr65q5nEgh"
+      },
+      "artists": [
+        {
+          "name": "Marta Movidas",
+          "url": "https://open.spotify.com/artist/59NswlApCpxmZbKSNQg0i5"
+        }
+      ],
+      "duration_ms": 217512,
+      "name": "Rosquilla de canela",
+      "url": "https://open.spotify.com/track/5W7u9wTj93pOYcxea9orOF"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "O Todos o Ninguno",
         "url": "https://open.spotify.com/album/5Lequ6yHwYYoT6SNS2wTuB"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 204173,
       "name": "La Carretera Nocturna",
       "url": "https://open.spotify.com/track/1PJpxElpWQucgRdV8voVRA"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Rosquilla de canela",
-        "url": "https://open.spotify.com/album/5j3euieoInLiYr65q5nEgh"
-      },
-      "artists": [
-        {
-          "name": "Marta Movidas",
-          "url": "https://open.spotify.com/artist/59NswlApCpxmZbKSNQg0i5"
-        }
-      ],
-      "duration_ms": 217512,
-      "name": "Rosquilla de canela",
-      "url": "https://open.spotify.com/track/5W7u9wTj93pOYcxea9orOF"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Pronto",
-        "url": "https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl"
-      },
-      "artists": [
-        {
-          "name": "Repion",
-          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Pronto",
-      "url": "https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Al Final",
         "url": "https://open.spotify.com/album/1JThc0vxLAFqk4pj6jPkYa"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 184201,
       "name": "Al Final",
       "url": "https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Pronto",
+        "url": "https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl"
+      },
+      "artists": [
+        {
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Pronto",
+      "url": "https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Diciendo que Me Quieres",
-        "url": "https://open.spotify.com/album/6Hnnk5RRXAfkpVheJde33u"
-      },
-      "artists": [
-        {
-          "name": "Mujeres",
-          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "Diciendo que Me Quieres",
-      "url": "https://open.spotify.com/track/4ewS1SzDqpEOzkSUSBKmeL"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Ya Sale El Sol",
         "url": "https://open.spotify.com/album/1UBkMgr6rZuPvHe0eaH8hq"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 190894,
       "name": "Ya Sale El Sol",
       "url": "https://open.spotify.com/track/3CcaAsGasFGp9GkXByLNms"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Diciendo que Me Quieres",
+        "url": "https://open.spotify.com/album/6Hnnk5RRXAfkpVheJde33u"
+      },
+      "artists": [
+        {
+          "name": "Mujeres",
+          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
+        }
+      ],
+      "duration_ms": 206280,
+      "name": "Diciendo que Me Quieres",
+      "url": "https://open.spotify.com/track/4ewS1SzDqpEOzkSUSBKmeL"
     },
     {
       "added_at": "2024-07-04 22:00:00",

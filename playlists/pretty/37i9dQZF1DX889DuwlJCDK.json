@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u30af\u30b8\u30e9\u591c\u306e\u8857",
-  "num_followers": 14140,
+  "num_followers": 14158,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-07-02 15:07:34",
       "album": {
-        "name": "\u30a8\u30a6\u30ec\u30ab",
-        "url": "https://open.spotify.com/album/1wMuqByMRXmJzCTjmtZfLz"
-      },
-      "artists": [
-        {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
-        }
-      ],
-      "duration_ms": 184201,
-      "name": "\u30a8\u30a6\u30ec\u30ab",
-      "url": "https://open.spotify.com/track/6RrkERm8gb8E1jzVGyz7l5"
-    },
-    {
-      "added_at": "2024-07-02 15:07:34",
-      "album": {
         "name": "\u30ab\u30b9\u30df\u30bd\u30a6",
         "url": "https://open.spotify.com/album/7aEiuGRM1CVprvce4RkQ15"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 222352,
       "name": "\u30ab\u30b9\u30df\u30bd\u30a6",
       "url": "https://open.spotify.com/track/5ZcXYs8O3q6melv9GF5VEd"
+    },
+    {
+      "added_at": "2024-07-02 15:07:34",
+      "album": {
+        "name": "\u30a8\u30a6\u30ec\u30ab",
+        "url": "https://open.spotify.com/album/1wMuqByMRXmJzCTjmtZfLz"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 184201,
+      "name": "\u30a8\u30a6\u30ec\u30ab",
+      "url": "https://open.spotify.com/track/6RrkERm8gb8E1jzVGyz7l5"
     },
     {
       "added_at": "2024-07-02 15:07:34",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-07-02 15:07:34",
       "album": {
+        "name": "\u30e6\u30fc\u30b9\u30ec\u30b9\u30de\u30b7\u30f3",
+        "url": "https://open.spotify.com/album/6aD8OohhGkZYwIqx6mbkbO"
+      },
+      "artists": [
+        {
+          "name": "Humbreaders",
+          "url": "https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi"
+        }
+      ],
+      "duration_ms": 179026,
+      "name": "SUMMER PLANNING",
+      "url": "https://open.spotify.com/track/4QVz6OjvzefQ1Hi6kKIj8u"
+    },
+    {
+      "added_at": "2024-07-02 15:07:34",
+      "album": {
         "name": "FLASH",
         "url": "https://open.spotify.com/album/22Ch3wBTwzaMgWKqIertI6"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 225256,
       "name": "\u4f1a\u3044\u305f\u304f\u306a\u3063\u305f\u3089",
       "url": "https://open.spotify.com/track/2ofXUTtrhwCWgsX3ia3Kvt"
-    },
-    {
-      "added_at": "2024-07-02 15:07:34",
-      "album": {
-        "name": "\u30e6\u30fc\u30b9\u30ec\u30b9\u30de\u30b7\u30f3",
-        "url": "https://open.spotify.com/album/6aD8OohhGkZYwIqx6mbkbO"
-      },
-      "artists": [
-        {
-          "name": "Humbreaders",
-          "url": "https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "SUMMER PLANNING",
-      "url": "https://open.spotify.com/track/4QVz6OjvzefQ1Hi6kKIj8u"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

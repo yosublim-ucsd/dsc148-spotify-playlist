@@ -2,9 +2,9 @@
 
 ### [RADAR Global ](https://open.spotify.com/playlist/37i9dQZF1DWTU63finroJM)
 
-> Meet the future\. New artists on the horizon\. Cover: 派偉俊Patrick Brasca
+> Meet the future\. New artists on the horizon\. Cover: 派偉俊Patrick Brasca.
 
-1,511 songs - 3 day 10 hr 45 min
+1,512 songs - 3 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Black Hole](https://open.spotify.com/track/0vnKE8ukNmF641XhnEyZJD) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 3:20 | 2022-02-03 | 2022-09-16 |
 | [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 | 2022-02-03 | 2022-03-02 |
 | [BLAME IT ON ME](https://open.spotify.com/track/3O4EGwdDFNMs69RWWSQRFI) | [Alex Coles](https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b) | [BLAME IT ON ME](https://open.spotify.com/album/5w2zXflgG8ZZtJLqT7Gvsl) | 2:42 | 2024-05-24 |  |
+| [Blame Me](https://open.spotify.com/track/5eRSBJ5HF7g5IzDhY45Ryi) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Blame Me](https://open.spotify.com/album/4Ip5jY0U3bUyx5QjyFC3LJ) | 2:43 | 2024-06-28 |  |
 | [blanket](https://open.spotify.com/track/1HtOV8CG71MY8kjqbaTrEm) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [blanket](https://open.spotify.com/album/77rv24srv70kCBADI5nB1d) | 3:03 | 2022-02-03 | 2022-08-02 |
 | [Blanket of Sadness \(feat\. Rendy Pandugo\)](https://open.spotify.com/track/0EXd3T4RUhTowr4S5XRGS5) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF), [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [Strangers Again](https://open.spotify.com/album/3q6c8XzlrtbsE3FFdatQtO) | 4:06 | 2022-02-03 | 2022-08-02 |
 | [Bledi mon amour](https://open.spotify.com/track/7nQJM5q5MPxWmo4jYnnAGH) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [KHEDMA 3](https://open.spotify.com/album/5OJfDiJq9OpukfvumILeS9) | 3:00 | 2024-04-19 |  |
@@ -510,7 +511,7 @@
 | [hedonist.](https://open.spotify.com/track/1ilxwybAc0Sd3Gwc4oRKgi) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [HEDONIST](https://open.spotify.com/album/2hJqttVXOCMHCGrfqkkuRl) | 2:55 | 2022-02-10 | 2022-11-19 |
 | [Hell You Call A Dream](https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Hell You Call A Dream / Qué Más Quieres](https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir) | 2:56 | 2024-05-03 | 2024-06-29 |
 | [Hennesy \- Acoustic Version](https://open.spotify.com/track/5eEBWObr9qNmFoPs2t8ifh) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 3:27 | 2022-05-27 | 2023-05-09 |
-| [HERO](https://open.spotify.com/track/2gjEdzgJMgVaZBdRuIRVW5) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [HERO](https://open.spotify.com/album/3VqYEAjG9bMRh0WT6Yc4hL) | 3:58 | 2024-05-10 |  |
+| [HERO](https://open.spotify.com/track/2gjEdzgJMgVaZBdRuIRVW5) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [HERO](https://open.spotify.com/album/3VqYEAjG9bMRh0WT6Yc4hL) | 3:58 | 2024-05-10 | 2024-07-06 |
 | [Hey Love](https://open.spotify.com/track/1gGVs5VYqj912AJCNp2sSe) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [Hey Love](https://open.spotify.com/album/5UNISFP0L5IJ3uRub35raQ) | 3:45 | 2023-05-30 | 2023-08-19 |
 | [Hidey](https://open.spotify.com/track/2gxqb9SIEdO2GNsXMGy6RA) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:18 | 2022-03-24 | 2022-04-04 |
 | [Hielo](https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Hielo](https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g) | 3:04 | 2024-01-19 | 2024-04-19 |

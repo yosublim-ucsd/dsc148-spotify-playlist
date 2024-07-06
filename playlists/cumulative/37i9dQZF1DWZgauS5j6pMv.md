@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Durand Bernarr
 
-438 songs - 1 day 1 hr 48 min
+439 songs - 1 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [Living Backwards](https://open.spotify.com/track/2FRX6fs6wXkf8jJigGdpGm) | [Pace](https://open.spotify.com/artist/7qem60JOzr0TKI9WOmkNaG) | [Living Backwards](https://open.spotify.com/album/2BZziXEUmY61NXLni2LOSJ) | 3:16 | 2021-03-19 | 2022-06-04 |
 | [lockdown](https://open.spotify.com/track/6JvM4RyaFmEdiV58dpv1Jr) | [GARDENA](https://open.spotify.com/artist/0HjFA96a8v0dDyN58HGhrB), [Ethan Dufault](https://open.spotify.com/artist/5c7oIOloT3runmK9YMayzJ) | [lockdown](https://open.spotify.com/album/6ZgBNr3doJZ1IIWjB9snwZ) | 3:21 | 2023-02-24 | 2024-03-30 |
 | [Lockstep](https://open.spotify.com/track/7y6fgrmnX6HF4pbyQugSTQ) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0), [MacKenzie](https://open.spotify.com/artist/7boixvIKSl9OEnvnsJNws6) | [Lockstep](https://open.spotify.com/album/5iH6tJElNHGHMrUEmpgs6j) | 5:18 | 2023-09-08 | 2024-05-25 |
-| [Lola](https://open.spotify.com/track/5wncqbdGEyrmowwIGddZCs) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Lola](https://open.spotify.com/album/2eMcFHmOIAepZqmlt15wOY) | 3:32 | 2024-05-17 |  |
+| [Lola](https://open.spotify.com/track/5wncqbdGEyrmowwIGddZCs) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Lola](https://open.spotify.com/album/2eMcFHmOIAepZqmlt15wOY) | 3:32 | 2024-05-17 | 2024-07-06 |
 | [Look Around](https://open.spotify.com/track/4cH9h6nvtxYNo450VXEo1s) | [Dux](https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr), [Moorea Masa & the Mood](https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Look Around](https://open.spotify.com/album/6ttL4crGEJOfpcIiEVQFmM) | 3:41 | 2024-03-22 |  |
 | [Look At Me](https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Look At Me](https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat) | 3:53 | 2023-05-23 |  |
 | [Look In The Mirror](https://open.spotify.com/track/6rwRf8DFQsadNxevwfUcSX) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [Analog Love](https://open.spotify.com/album/5g9mJsxT9wg3SyBbeAPUmx) | 4:13 | 2024-04-12 |  |
@@ -387,6 +387,7 @@
 | [This Vibe](https://open.spotify.com/track/1Y9z7IqlSnet2A5raxs22e) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe) | [This Vibe](https://open.spotify.com/album/46gXRt1zGMf89qJPSI9cje) | 4:12 | 2022-08-19 | 2024-01-20 |
 | [Thousand Knives \- Thundercat Remodel](https://open.spotify.com/track/3yJ57qr7LOU4cauQQwe50N) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Thousand Knives \- Thundercat Remodel](https://open.spotify.com/album/2QiROj647TO8FCCoKoojnA) | 5:26 | 2022-10-07 | 2023-02-18 |
 | [Thumpahlenah \- Radio Edit](https://open.spotify.com/track/01prSP4l0I3Gf1WCfC9jTI) | [Nik West](https://open.spotify.com/artist/5yrmwjhscVmbinBG3hx86i), [Larry Graham](https://open.spotify.com/artist/6lUcc15t11bnaPr2qOuFs2) | [Thumpahlenah \(Radio Edit\)](https://open.spotify.com/album/2VbzGgntgJu0oHLGHOjq3E) | 3:22 | 2023-05-26 |  |
+| [TIANA](https://open.spotify.com/track/3clenG2tAtYdINNWyR4VA8) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [TIANA](https://open.spotify.com/album/3TjWPkQLxE4m5Ok2RvAQEa) | 2:56 | 2024-07-05 |  |
 | [Tides \- Jean Tonique Remix](https://open.spotify.com/track/7G7Ugg03M2X0lKvQp4uGl0) | [3kelves](https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Tides \(Jean Tonique Remix\)](https://open.spotify.com/album/6iB6j9WbxZ3e3Ooht1fteY) | 3:01 | 2024-04-26 |  |
 | [Tightrope](https://open.spotify.com/track/1v2gz3Z8jdh8LzhM8j1sdc) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Blue Solstice: Volume 1](https://open.spotify.com/album/5gIGA2nOaMi0JRio4ATLr8) | 3:40 | 2021-09-10 | 2022-09-24 |
 | [Time Machine](https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Time Machine](https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3) | 4:11 | 2024-02-16 |  |

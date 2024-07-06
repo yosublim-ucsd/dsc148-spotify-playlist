@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Durand Bernarr\n",
-  "num_followers": 324517,
+  "num_followers": 324579,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoLHZgAAAAD1804LJycL+y+paBBodAAL",
+  "snapshot_id": "ZodvwQAAAACi8mLaQIQ8hgRH4JsmUHai",
   "tracks": [
     {
       "added_at": "2024-07-01 15:12:38",
@@ -23,6 +23,22 @@
       "duration_ms": 253133,
       "name": "Hip Replacement",
       "url": "https://open.spotify.com/track/0xbRBmn4poZWxCdnbfvmCq"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "TIANA",
+        "url": "https://open.spotify.com/album/3TjWPkQLxE4m5Ok2RvAQEa"
+      },
+      "artists": [
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "duration_ms": 176410,
+      "name": "TIANA",
+      "url": "https://open.spotify.com/track/3clenG2tAtYdINNWyR4VA8"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -211,22 +227,6 @@
       "duration_ms": 221311,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/2Waa8KOIfBo9o45OeHGtBN"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
-        "name": "Lola",
-        "url": "https://open.spotify.com/album/2eMcFHmOIAepZqmlt15wOY"
-      },
-      "artists": [
-        {
-          "name": "Nic Hanson",
-          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Lola",
-      "url": "https://open.spotify.com/track/5wncqbdGEyrmowwIGddZCs"
     },
     {
       "added_at": "2024-04-26 04:01:00",

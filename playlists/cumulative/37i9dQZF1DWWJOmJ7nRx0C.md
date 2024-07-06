@@ -2,9 +2,9 @@
 
 ### [VOLUME](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
-> The very best new rock songs\. Turn it  ⬆️ Cover: <b>Cage The Elephant</b>
+> The very best new rock songs\. Turn it  ⬆️ Cover: <b>Tom Morello</b>
 
-1,209 songs - 3 day 0 hr 11 min
+1,211 songs - 3 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [Fear the Sun](https://open.spotify.com/track/2MOk3NNDzsEnNllOlzAhSK) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Fear the Sun](https://open.spotify.com/album/5hJVy5PfgPrVRbX8sREhKx) | 2:46 | 2022-09-23 | 2023-02-04 |
 | [Feast Of Fire](https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Feast Of Fire](https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq) | 4:18 | 2021-08-13 | 2022-05-14 |
 | [Feedback](https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Feedback](https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP) | 2:32 | 2024-05-31 |  |
+| [Feel Like That \(feat\. Bradley Nowell\)](https://open.spotify.com/track/193RlTGibelHrNqyAMEbLl) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Jakobs Castle](https://open.spotify.com/artist/0D4JnDxTBaTWJzH4BXU8Ro), [Bradley Nowell](https://open.spotify.com/artist/2SN17aji6ZUYSjeWTgk8RG) | [Feel Like That \(feat\. Bradley Nowell\)](https://open.spotify.com/album/4Ocj71UOGUGwtn9PSH2wwY) | 3:47 | 2024-07-05 |  |
 | [Fence](https://open.spotify.com/track/6gQmCGUYq9Xql5rlShqUXj) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Fence](https://open.spotify.com/album/7kTY68ysd8P6LOZe3TybbD) | 3:37 | 2023-04-14 | 2023-07-15 |
 | [Fever Dream](https://open.spotify.com/track/56nQ0EwaDX0X1TFGrDVC0b) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/69QGJEAqtvEQ9hjwCCaPQk) | 5:06 | 2022-07-15 | 2023-01-06 |
 | [Fight Alone](https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw) | [Motive Black](https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw) | [Fight Alone](https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx) | 3:40 | 2022-09-30 | 2022-12-03 |
@@ -543,7 +544,7 @@
 | [It's Hell Down Here](https://open.spotify.com/track/0chASbpWKoTnrXDoPyNSyH) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [It's Hell Down Here](https://open.spotify.com/album/2nyvCfPmmT3u7fbF4Hno4a) | 4:00 | 2023-03-24 | 2023-05-21 |
 | [It's Hell Down Here](https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Not Without My Ghosts](https://open.spotify.com/album/5IBhAOIYSATI3WY7DgeSl7) | 4:00 | 2023-05-19 | 2023-05-27 |
 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 | 2021-11-19 | 2022-02-26 |
-| [It's Supposed To Hurt](https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [It's Supposed To Hurt](https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE) | 3:32 | 2024-05-03 | 2024-06-22 |
+| [It's Supposed To Hurt](https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [It's Supposed To Hurt](https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE) | 3:32 | 2024-05-03 |  |
 | [IT'S YOUR LACK OF RESPECT](https://open.spotify.com/track/2sMqQreD7c9xDV6gBKyt9o) | [FLAT BLACK](https://open.spotify.com/artist/7dZynKGWc8X8jsdH0WLuzo) | [IT'S YOUR LACK OF RESPECT](https://open.spotify.com/album/2uzDhEhJXQlls4uOBkXKCp) | 3:52 | 2023-08-25 | 2023-12-09 |
 | [I’m Alright](https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth II](https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi) | 4:35 | 2023-11-03 | 2024-04-13 |
 | [JACK](https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [JACK](https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc) | 2:48 | 2022-09-30 | 2023-09-16 |
@@ -910,7 +911,7 @@
 | [Shake Your City](https://open.spotify.com/track/5tVcVrv04rJlQxrbZ5sDzK) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Electric Sounds](https://open.spotify.com/album/1cD91d8t0Nc5fwMevI6gkj) | 3:30 | 2023-09-15 | 2023-10-28 |
 | [she](https://open.spotify.com/track/1H7k2yuO2bQs5fz7CPvXtm) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [she](https://open.spotify.com/album/5ik4kZTHYwwTfgs6NQY2t8) | 2:53 | 2022-12-02 | 2023-01-14 |
 | [Shed My Skin \(feat\. Annisokay\)](https://open.spotify.com/track/0lx2eqqsCRaTHlUU0PPZ5O) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Shed My Skin](https://open.spotify.com/album/5wQ5wKjbpHrjAITDl3LIVA) | 4:30 | 2021-06-25 | 2022-01-15 |
-| [Shimmy \(feat\. Spiritual Cramp\)](https://open.spotify.com/track/2gOBCPYzHmpaMJ6NDpDhIg) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF), [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [White Reaper / Spiritual Cramp Split](https://open.spotify.com/album/1aRctwqK98oWkrooXcUghR) | 2:36 | 2024-05-17 |  |
+| [Shimmy \(feat\. Spiritual Cramp\)](https://open.spotify.com/track/2gOBCPYzHmpaMJ6NDpDhIg) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF), [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [White Reaper / Spiritual Cramp Split](https://open.spotify.com/album/1aRctwqK98oWkrooXcUghR) | 2:36 | 2024-05-17 | 2024-07-06 |
 | [Shipwreck](https://open.spotify.com/track/12uswvXC1QR3WiKJXbXxrI) | [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Shipwreck](https://open.spotify.com/album/1kVSrNEw1CDaXEFo8oRcm0) | 3:50 | 2022-04-01 | 2022-09-24 |
 | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 | 2022-05-13 | 2022-11-26 |
 | [Shotgun Blues](https://open.spotify.com/track/0L3TkNCKAwHCaYHxeYPuhp) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Shotgun Blues](https://open.spotify.com/album/4ALN0YC4oFfoaOPY1Hec5u) | 4:27 | 2021-09-24 | 2022-04-23 |
@@ -1212,6 +1213,7 @@
 | [YOU DON'T KNOW WHAT LOVE MEANS](https://open.spotify.com/track/5SYugUCqLTkFfInqpIMTY7) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [SPIRITS](https://open.spotify.com/album/0SZqkeTCVvOZEYhnMHIdO7) | 4:08 | 2022-10-14 | 2023-03-25 |
 | [You Made Me Want To Live](https://open.spotify.com/track/2HsP2DbYLAjDItQUP2RQ88) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Doom Crew Inc.](https://open.spotify.com/album/5j7daAyvVHbB4oNhJvsTX4) | 4:31 | 2021-11-26 | 2022-06-25 |
 | [You Made Me Want To Live](https://open.spotify.com/track/0oTYX6tG3Nas6dzleBXbh6) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Doom Crew Inc.](https://open.spotify.com/album/6ZWvYdM0tNMw4GmE6YIQv0) | 4:31 | 2022-08-12 | 2022-11-26 |
+| [You're Gonna Get It](https://open.spotify.com/track/7aXbppRpGAl8E4jMzN82CT) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [You're Gonna Get It](https://open.spotify.com/album/3ndOl8SScHfom5tHpdcZA7) | 2:49 | 2024-07-05 |  |
 | [Zeit](https://open.spotify.com/track/2KsHzM4L7ThhNJB6MHXkPx) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 5:21 | 2022-07-15 | 2022-11-05 |
 | [Zeit](https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu) | 5:21 | 2022-03-11 | 2022-04-23 |
 | [Zick Zack](https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zick Zack](https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8) | 4:04 | 2022-04-22 | 2022-07-16 |

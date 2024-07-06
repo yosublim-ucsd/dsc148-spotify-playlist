@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Jairo Vera.",
+  "description": "Este Flow tiene otro Flow. Foto: Loyaltty",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -811,7 +811,7 @@
     },
     {
       "album": {
-        "name": "Amiga Ya Mato",
+        "name": "Amiga Ya Mat\u00f3",
         "url": "https://open.spotify.com/album/3vdeLAOCdRgLEYXaoAxpwh"
       },
       "artists": [
@@ -824,7 +824,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 144014,
-      "name": "Amiga Ya Mato",
+      "name": "Amiga Ya Mat\u00f3",
       "url": "https://open.spotify.com/track/0UONsSefbs5YP6iluxq8Dq"
     },
     {
@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 168631,
       "name": "BEB\u00c9",
       "url": "https://open.spotify.com/track/6sGnHZ87j6S76DkY36pYvh"
@@ -2654,7 +2654,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 207000,
       "name": "CARRO RE-KL (with Pailita)",
       "url": "https://open.spotify.com/track/1IoRN5PB6bnygJEiu6K4TQ"
@@ -2676,6 +2676,28 @@
       "duration_ms": 205340,
       "name": "Casualidad",
       "url": "https://open.spotify.com/track/3hxjOU3voK4ESd1SX1s1W5"
+    },
+    {
+      "album": {
+        "name": "CELESTE",
+        "url": "https://open.spotify.com/album/0ba9PcLgMQEKXUVugkK0t8"
+      },
+      "artists": [
+        {
+          "name": "Daiko 02",
+          "url": "https://open.spotify.com/artist/7HyrZUMEfu8eTF2iN5iP7T"
+        },
+        {
+          "name": "Erreflexx",
+          "url": "https://open.spotify.com/artist/3Wck1E7AcfrcW3beEPtPaU"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168865,
+      "name": "CELESTE",
+      "url": "https://open.spotify.com/track/6PKTGYF1V7dYwv3g3NBDnK"
     },
     {
       "album": {
@@ -3175,6 +3197,28 @@
     },
     {
       "album": {
+        "name": "Corte Seria",
+        "url": "https://open.spotify.com/album/1R7nGFCwaUKbOyTMYDh2Ym"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "Corte Seria",
+      "url": "https://open.spotify.com/track/2YBjvYCvaI0Ha8RQYEqvSp"
+    },
+    {
+      "album": {
         "name": "Controlando el Ki",
         "url": "https://open.spotify.com/album/1wcO3kN9gjHVzrB2wRbK9I"
       },
@@ -3425,6 +3469,28 @@
     },
     {
       "album": {
+        "name": "Triste Y Linda: Linda",
+        "url": "https://open.spotify.com/album/5CALTCDnmh9SAj1lx8VlHH"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185081,
+      "name": "Culito",
+      "url": "https://open.spotify.com/track/6qBUklJgQu1YtJ3Ermu57V"
+    },
+    {
+      "album": {
         "name": "C\u00f3mo T\u00fa Est\u00e1s",
         "url": "https://open.spotify.com/album/72PoGVtpkD4Qq1O4sqo3qS"
       },
@@ -3666,7 +3732,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 153765,
       "name": "DE SERIE",
       "url": "https://open.spotify.com/track/2IxNQwOauQhMRhcL3GfEf2"
@@ -4626,7 +4692,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 247745,
       "name": "En la Nae",
       "url": "https://open.spotify.com/track/37q4ESrD6XMIIhhlMT2Gu8"
@@ -7820,7 +7886,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 168600,
       "name": "ll\u00e1mame y buskame </3",
       "url": "https://open.spotify.com/track/1Jmu0IZNTtHM1Itt0TJd1F"
@@ -8375,6 +8441,32 @@
     },
     {
       "album": {
+        "name": "LUNA DILE",
+        "url": "https://open.spotify.com/album/1yz795Mk0g1ntVvbN6zpwg"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Moustache",
+          "url": "https://open.spotify.com/artist/2xJX5DFnSlKjOrO1lOtL6B"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167074,
+      "name": "LUNA DILE",
+      "url": "https://open.spotify.com/track/7ttbb6KZNMhkCw4PuASjxz"
+    },
+    {
+      "album": {
         "name": "Luz Verde",
         "url": "https://open.spotify.com/album/7clZqL05aJuFdh3BzDiInT"
       },
@@ -8682,7 +8774,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 151153,
       "name": "MALLORCA",
       "url": "https://open.spotify.com/track/37mNw8BRhiiBLzbLFqFCnI"
@@ -12173,6 +12265,40 @@
     },
     {
       "album": {
+        "name": "Pedazo de Corte",
+        "url": "https://open.spotify.com/album/1llrMN58Il4owiGZwzWxns"
+      },
+      "artists": [
+        {
+          "name": "Son Gotten",
+          "url": "https://open.spotify.com/artist/6WjgkE7KEl4vyqwVXSuAox"
+        },
+        {
+          "name": "Nova \"La Amenaza\"",
+          "url": "https://open.spotify.com/artist/40lIeuVeOyTsifyK93dUIx"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        },
+        {
+          "name": "Andrehbred",
+          "url": "https://open.spotify.com/artist/3XpIrqVeY0I0kItCCUMuY1"
+        },
+        {
+          "name": "El Goldo De Las Conec",
+          "url": "https://open.spotify.com/artist/3TcTm7AGTlIJys8Wh7QzBr"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Pedazo de Corte",
+      "url": "https://open.spotify.com/track/7xNkcNMkA9KboR1YK2YzSB"
+    },
+    {
+      "album": {
         "name": "Pegao",
         "url": "https://open.spotify.com/album/4RXe248Ftb09XrdfZF4BbQ"
       },
@@ -12652,7 +12778,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 127272,
       "name": "Polen",
       "url": "https://open.spotify.com/track/0BPkXAcwpEZUjLVgNHh1kM"
@@ -13701,6 +13827,36 @@
     },
     {
       "album": {
+        "name": "REGGAET\u00d3N SEASON",
+        "url": "https://open.spotify.com/album/46ly5tNN1FrbUhphynGZbu"
+      },
+      "artists": [
+        {
+          "name": "Keed Baby",
+          "url": "https://open.spotify.com/artist/5QSZ4mP3ycTPK4b0VJNmK4"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "EL VALLE DE LOS REYES",
+          "url": "https://open.spotify.com/artist/4Dzk3OGILq6bUpGc5L7qdQ"
+        },
+        {
+          "name": "DONNER",
+          "url": "https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185187,
+      "name": "QU\u00c9 TAL BEB\u00c9",
+      "url": "https://open.spotify.com/track/5QnpiuYk0RNejlxwPRB77N"
+    },
+    {
+      "album": {
         "name": "6.5",
         "url": "https://open.spotify.com/album/5QFR1S8bcR3YA68BC5tTUO"
       },
@@ -13778,7 +13934,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 204894,
       "name": "REBULEO",
       "url": "https://open.spotify.com/track/6qepYRhvU44L9kYkB8TLMC"
@@ -13822,7 +13978,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 134783,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/1YZR8L15wmHNWRs2kwGklj"
@@ -16585,6 +16741,24 @@
     },
     {
       "album": {
+        "name": "Triste Y Linda: Linda",
+        "url": "https://open.spotify.com/album/5CALTCDnmh9SAj1lx8VlHH"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154732,
+      "name": "Tu Diosa",
+      "url": "https://open.spotify.com/track/6AVF8BlUQYC8TsDlFmWRkE"
+    },
+    {
+      "album": {
         "name": "Tu Favorito",
         "url": "https://open.spotify.com/album/1dTkmGes2SGFUe009cB5PJ"
       },
@@ -17758,6 +17932,32 @@
       "duration_ms": 194500,
       "name": "Xinga",
       "url": "https://open.spotify.com/track/17LoyD06c7hSZAGfj3Mybp"
+    },
+    {
+      "album": {
+        "name": "XIPETA",
+        "url": "https://open.spotify.com/album/7uIblVdUDWc4EHKL7LPoWC"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Jossie A",
+          "url": "https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5"
+        },
+        {
+          "name": "Gabito Beretta",
+          "url": "https://open.spotify.com/artist/3ySbRKGR4Ow1pf47Jc3KTg"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215270,
+      "name": "XIPETA",
+      "url": "https://open.spotify.com/track/3oGBv7eOmUBoFhbwVrJut6"
     },
     {
       "album": {

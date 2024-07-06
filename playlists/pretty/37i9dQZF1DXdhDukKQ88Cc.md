@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > den største danske rap lige nu <a href="spotify:album:0vYywoBHcZgwW08A2rA9fU">@KENNY</a> 😮‍💨
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,635 likes - 71 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,673 likes - 71 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

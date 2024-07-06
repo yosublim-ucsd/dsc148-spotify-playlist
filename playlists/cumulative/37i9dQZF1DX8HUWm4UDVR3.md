@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Eddy de Pretto
+> La pop française annonce la couleur\. Photo : Charlotte Cardin
 
-202 songs - 10 hr 2 min
+204 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [fou](https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [fou](https://open.spotify.com/album/1fYpB6W7Yt1RopNSdVGMk9) | 2:48 | 2023-11-09 | 2024-06-21 |
 | [Fragile](https://open.spotify.com/track/2Md4p1zQCVkyPQDuxKho5L) | [Carla Dona](https://open.spotify.com/artist/5WN3kbUKg1vpWSlEsuNx0x) | [Fragile](https://open.spotify.com/album/2TzIs1gMlmTvYdcpT9GKx6) | 2:58 | 2024-03-28 |  |
 | [Fête des années 70](https://open.spotify.com/track/2C8FoGkNZ59r0e4tkVTby5) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Fête des années 70](https://open.spotify.com/album/2Joa0NEZ7HkFyTwjITLmZh) | 2:21 | 2023-11-09 | 2024-06-21 |
-| [Game Boy](https://open.spotify.com/track/7LUl8ERnmPnu31QktDyQlQ) | [Solal Roubine](https://open.spotify.com/artist/6QkOiXleQySLXeqp36LxHQ), [Minette](https://open.spotify.com/artist/2W7lHCMm7IWKz1aX2TkynR) | [Game Boy](https://open.spotify.com/album/367br2eaC1tEaViboGWIcf) | 2:53 | 2024-04-25 |  |
+| [Game Boy](https://open.spotify.com/track/7LUl8ERnmPnu31QktDyQlQ) | [Solal Roubine](https://open.spotify.com/artist/6QkOiXleQySLXeqp36LxHQ), [Minette](https://open.spotify.com/artist/2W7lHCMm7IWKz1aX2TkynR) | [Game Boy](https://open.spotify.com/album/367br2eaC1tEaViboGWIcf) | 2:53 | 2024-04-25 | 2024-07-06 |
 | [Gratte\-ciel](https://open.spotify.com/track/0IbpLRq2Sc575ookIzbUB3) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Gratte\-ciel](https://open.spotify.com/album/3jj3zfB2qrUYe7ZGtRjBia) | 3:12 | 2024-06-27 |  |
 | [Heureux](https://open.spotify.com/track/6g5rAr2XNdeTHz7XtSCb8l) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Nuits bleues](https://open.spotify.com/album/6qh5Kq92rJISNj2DpKpOpU) | 2:50 | 2023-11-30 | 2024-04-26 |
 | [Hold Up \(à l'eau de rose\)](https://open.spotify.com/track/6a0Ad99CVzcR9FS9XJr9VP) | [Sara Saphir](https://open.spotify.com/artist/64WmkM3KtYsEfK2niBa4Jl) | [Pansements](https://open.spotify.com/album/09p6CCTiy6jIdGDgyFSnTB) | 3:10 | 2023-07-27 | 2023-08-25 |
@@ -112,7 +112,7 @@
 | [Le bonheur et la tristesse](https://open.spotify.com/track/2YUJ40ggS5vW61ZufiCOK8) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Le bonheur et la tristesse](https://open.spotify.com/album/6LuBZMDUnsdkmyTYC3rF9M) | 3:20 | 2024-04-18 |  |
 | [Le club des 27](https://open.spotify.com/track/4u7Vc3ia7XEhirbBk9BqRe) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Le club des 27](https://open.spotify.com/album/18Q7ySQhJ4nDErcnQ7fTnj) | 3:12 | 2023-09-21 | 2024-01-19 |
 | [Le dessert en premier](https://open.spotify.com/track/1rJMWy4MeA2fo04H9O9YxU) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 2:38 | 2023-07-27 | 2024-01-12 |
-| [Le Marbre](https://open.spotify.com/track/2e5C5tdiQEjk3QCa1H9AbV) | [CHARLES](https://open.spotify.com/artist/3BAyGVtoPcmQbeb58hlIZs) | [Le Marbre](https://open.spotify.com/album/2qh4jxj48CyH6n7jUuk8Ja) | 2:22 | 2024-03-28 |  |
+| [Le Marbre](https://open.spotify.com/track/2e5C5tdiQEjk3QCa1H9AbV) | [CHARLES](https://open.spotify.com/artist/3BAyGVtoPcmQbeb58hlIZs) | [Le Marbre](https://open.spotify.com/album/2qh4jxj48CyH6n7jUuk8Ja) | 2:22 | 2024-03-28 | 2024-07-06 |
 | [Le Mythe de Jesse James](https://open.spotify.com/track/54hOQ15avjXZfBecwARm7z) | [Takeshi HRTBRK](https://open.spotify.com/artist/5UDVJ8zsudfutHD7DCLeuz) | [Le Mythe de Jesse James](https://open.spotify.com/album/7vCaq8ooLgcw5p08ZEdQUy) | 3:24 | 2024-03-14 | 2024-05-25 |
 | [Le Pas](https://open.spotify.com/track/52N5YwXgVCV9dHWAOegiPr) | [Esken](https://open.spotify.com/artist/6YASQSJPMeUFm0rpMXY0p1) | [Le pas](https://open.spotify.com/album/2kizAvObb16TiKr4G2y6Yz) | 2:36 | 2024-03-29 | 2024-05-17 |
 | [Le sport](https://open.spotify.com/track/327n10K86XlYJ6SNU92HLx) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [Le sport](https://open.spotify.com/album/1eeXV77VD0bcIROCu4MAI0) | 3:08 | 2023-10-12 | 2023-11-17 |
@@ -193,6 +193,7 @@
 | [Stop](https://open.spotify.com/track/1FHYc87SB04yU4D07Ar9eD) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [Stop](https://open.spotify.com/album/41B9LhfvPuQ9a1u9n7DIhs) | 3:08 | 2024-04-25 |  |
 | [Super potos](https://open.spotify.com/track/6zeKT4FyrZogtpv1NZqINr) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW) | [Super potos](https://open.spotify.com/album/6AuJdkK4SBkcLskg9tF1NK) | 2:11 | 2023-09-14 | 2023-11-10 |
 | [Tara](https://open.spotify.com/track/4DokPvEWGHqqFIi4uWnYyh) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Comme je suis](https://open.spotify.com/album/50MyaLvIiDzLntnyJoihFW) | 2:32 | 2023-12-14 |  |
+| [tattoo](https://open.spotify.com/track/7evwmxNkhVLd2upYjGa7De) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [MOLITOR 24](https://open.spotify.com/album/4YHAsfQRvDHhBbe2S7RBA9) | 2:50 | 2024-07-05 |  |
 | [Tirer la nuit sur les étoiles \- Yan Wagner Radio Remix](https://open.spotify.com/track/7bY9boNbEOBFACQicbgyvF) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk), [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd), [Yan Wagner](https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc) | [Tirer la nuit sur les étoiles \(Yan Wagner Remix\)](https://open.spotify.com/album/0Je8ec42W3n68qOlKAZtEh) | 3:18 | 2023-07-27 | 2023-09-08 |
 | [Toi et moi](https://open.spotify.com/track/3FaInds8Srk4PVpqCSuH9p) | [Mauvais Œil](https://open.spotify.com/artist/3Y9K5UfReurp9VFJmOcrjj) | [Toi et moi](https://open.spotify.com/album/5ZNrFN5vkaWMdqZK4SAmFq) | 2:55 | 2024-01-18 | 2024-02-09 |
 | [Tombée In Love](https://open.spotify.com/track/3A6Co1ShZ3F6z0nBjG40Za) | [SALYA](https://open.spotify.com/artist/2xXqtqQ3MyZVlE7mp1l8ef) | [Tombée In Love](https://open.spotify.com/album/1QfcmGQDxGefWqG0qBAc8m) | 2:44 | 2023-07-27 | 2023-09-15 |
@@ -200,6 +201,7 @@
 | [Trop bonnes](https://open.spotify.com/track/7iK13xTzFJPPigdz62zh7X) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Trop bonnes](https://open.spotify.com/album/7clsSaHNGevHo4oN6OQE95) | 2:32 | 2023-07-27 | 2023-09-08 |
 | [TU M'RENDS FOU \(spooky bitch\)](https://open.spotify.com/track/6Ra93KBC44jqzesIBGPG6x) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [LE CLUB C'EST VOUS](https://open.spotify.com/album/6ApAbH2lJXkm5LiM8QS3qI) | 2:46 | 2024-03-28 |  |
 | [Ultra Chelou](https://open.spotify.com/track/57UBYwVmyJI6vKxU9C5toS) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Ultra Chelou](https://open.spotify.com/album/6yREVOqD9UEQb4sR4aZzge) | 2:46 | 2023-10-05 | 2024-03-29 |
+| [Un peu trop](https://open.spotify.com/track/3yhun6KOBDXbOscvC4FCiF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights \(Edition Deluxe\)](https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD) | 2:34 | 2024-07-05 |  |
 | [urgences 911](https://open.spotify.com/track/6oPdINOiUOUMn6InuqFrXa) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:57 | 2024-02-22 |  |
 | [Vanves](https://open.spotify.com/track/5y1qlBZufBrTIIFl9BtMQn) | [Distractions](https://open.spotify.com/artist/0tjYp5aomovObVn97GZjIN) | [Vanves](https://open.spotify.com/album/0UQU72tWqIODSrzyZzE6dK) | 3:50 | 2024-01-26 | 2024-02-02 |
 | [Vent violent](https://open.spotify.com/track/08B3fIzo8bmYNlGgeZMzCM) | [Fleur Copin](https://open.spotify.com/artist/7LcMjf96A3Do8qhgjnn8Fy) | [Vent violent](https://open.spotify.com/album/2ZmUpBmqmuRf2Ev6opeojO) | 2:13 | 2023-09-28 | 2023-10-20 |

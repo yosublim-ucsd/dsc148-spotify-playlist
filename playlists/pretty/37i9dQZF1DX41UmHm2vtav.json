@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 468147,
+  "num_followers": 468188,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,34 @@
     {
       "added_at": "2024-06-28 03:03:00",
       "album": {
+        "name": "Quem N\u00e3o Quer Sou Eu",
+        "url": "https://open.spotify.com/album/5W6Q0cY6UPrE8xETTenYVr"
+      },
+      "artists": [
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Santti",
+          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 178205,
+      "name": "Quem N\u00e3o Quer Sou Eu",
+      "url": "https://open.spotify.com/track/2kVbOlICxuNwFU8pFEx12q"
+    },
+    {
+      "added_at": "2024-06-28 03:03:00",
+      "album": {
         "name": "Azul (Illusionize & Linkage Remix)",
         "url": "https://open.spotify.com/album/7EX3FMUMFmiu4WBts8RZsz"
       },
@@ -775,6 +803,26 @@
       "duration_ms": 198867,
       "name": "Azul - Illusionize & Linkage Remix",
       "url": "https://open.spotify.com/track/54OR3bj7ddSx8Xm6LLpOxa"
+    },
+    {
+      "added_at": "2024-06-28 03:03:00",
+      "album": {
+        "name": "Somebody That You Loved",
+        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+        }
+      ],
+      "duration_ms": 215998,
+      "name": "Somebody That You Loved",
+      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
     },
     {
       "added_at": "2024-06-28 03:03:00",
@@ -803,54 +851,6 @@
       "duration_ms": 376680,
       "name": "Piloto Autom\u00e1tico - Gabriel Boni, Voltech & Zucchi Remix",
       "url": "https://open.spotify.com/track/00YOa6SnANXEQWK9JWJlpm"
-    },
-    {
-      "added_at": "2024-06-28 03:03:00",
-      "album": {
-        "name": "Somebody That You Loved",
-        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "New Hope Club",
-          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
-        }
-      ],
-      "duration_ms": 215998,
-      "name": "Somebody That You Loved",
-      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
-    },
-    {
-      "added_at": "2024-06-28 03:03:00",
-      "album": {
-        "name": "Quem N\u00e3o Quer Sou Eu",
-        "url": "https://open.spotify.com/album/5W6Q0cY6UPrE8xETTenYVr"
-      },
-      "artists": [
-        {
-          "name": "DJ TOPO",
-          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Santti",
-          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 178205,
-      "name": "Quem N\u00e3o Quer Sou Eu",
-      "url": "https://open.spotify.com/track/2kVbOlICxuNwFU8pFEx12q"
     },
     {
       "added_at": "2024-06-28 03:03:00",
@@ -959,8 +959,8 @@
     {
       "added_at": "2024-06-28 03:03:00",
       "album": {
-        "name": "I Do (with Zeeba)",
-        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
+        "name": "A Namorada",
+        "url": "https://open.spotify.com/album/09eU4tqe8H3r8l7iXPK8LR"
       },
       "artists": [
         {
@@ -968,13 +968,13 @@
           "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+          "name": "Carlinhos Brown",
+          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
         }
       ],
-      "duration_ms": 173446,
-      "name": "I Do - with Zeeba",
-      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
+      "duration_ms": 181147,
+      "name": "A Namorada",
+      "url": "https://open.spotify.com/track/4XiKD9S5iYetRQJAgb6El1"
     },
     {
       "added_at": "2024-06-28 03:03:00",
@@ -1055,8 +1055,8 @@
     {
       "added_at": "2024-06-28 03:03:00",
       "album": {
-        "name": "Youngr",
-        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
+        "name": "I Do (with Zeeba)",
+        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
       },
       "artists": [
         {
@@ -1064,13 +1064,13 @@
           "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "Shaun Jacobs",
-          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
         }
       ],
-      "duration_ms": 175204,
-      "name": "Youngr",
-      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
+      "duration_ms": 173446,
+      "name": "I Do - with Zeeba",
+      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
     },
     {
       "added_at": "2024-06-28 03:03:00",
@@ -1371,34 +1371,6 @@
     {
       "added_at": "2024-06-28 03:03:00",
       "album": {
-        "name": "Eu Vou Pra Bahia (Felguk, Watzgood Remix)",
-        "url": "https://open.spotify.com/album/6t5UoBRyZejocCUowTmzSW"
-      },
-      "artists": [
-        {
-          "name": "DOT (BR)",
-          "url": "https://open.spotify.com/artist/7FNFSXlkICere98esgLRyQ"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        },
-        {
-          "name": "Felguk",
-          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
-        },
-        {
-          "name": "Watzgood",
-          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
-        }
-      ],
-      "duration_ms": 230322,
-      "name": "Eu Vou Pra Bahia - Felguk, Watzgood Remix",
-      "url": "https://open.spotify.com/track/4URoP8kzqgmBfo3WcXFzFb"
-    },
-    {
-      "added_at": "2024-06-28 03:03:00",
-      "album": {
         "name": "Imprevis\u00edvel (Overdriver Duo e Guz Zanotto Remix)",
         "url": "https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW"
       },
@@ -1439,6 +1411,34 @@
       "duration_ms": 173114,
       "name": "Make Me Wanna",
       "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
+    },
+    {
+      "added_at": "2024-06-28 03:03:00",
+      "album": {
+        "name": "Eu Vou Pra Bahia (Felguk, Watzgood Remix)",
+        "url": "https://open.spotify.com/album/6t5UoBRyZejocCUowTmzSW"
+      },
+      "artists": [
+        {
+          "name": "DOT (BR)",
+          "url": "https://open.spotify.com/artist/7FNFSXlkICere98esgLRyQ"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        },
+        {
+          "name": "Felguk",
+          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
+        },
+        {
+          "name": "Watzgood",
+          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
+        }
+      ],
+      "duration_ms": 230322,
+      "name": "Eu Vou Pra Bahia - Felguk, Watzgood Remix",
+      "url": "https://open.spotify.com/track/4URoP8kzqgmBfo3WcXFzFb"
     },
     {
       "added_at": "2024-06-28 03:03:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-06-28 03:03:00",
       "album": {
-        "name": "Hot Summer",
-        "url": "https://open.spotify.com/album/4wFTM9WLwSSq8nM30ckDYb"
-      },
-      "artists": [
-        {
-          "name": "Felguk",
-          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
-        }
-      ],
-      "duration_ms": 191129,
-      "name": "Hot Summer",
-      "url": "https://open.spotify.com/track/37CObm6PbDabgHBNK4Z65X"
-    },
-    {
-      "added_at": "2024-06-28 03:03:00",
-      "album": {
         "name": "Roda Gigante",
         "url": "https://open.spotify.com/album/0pO3jAs20jXXsevyFf1R7o"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 178328,
       "name": "Roda Gigante",
       "url": "https://open.spotify.com/track/4ZbPzncqIaim9AhBaI5iO2"
+    },
+    {
+      "added_at": "2024-06-28 03:03:00",
+      "album": {
+        "name": "Hot Summer",
+        "url": "https://open.spotify.com/album/4wFTM9WLwSSq8nM30ckDYb"
+      },
+      "artists": [
+        {
+          "name": "Felguk",
+          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
+        }
+      ],
+      "duration_ms": 191129,
+      "name": "Hot Summer",
+      "url": "https://open.spotify.com/track/37CObm6PbDabgHBNK4Z65X"
     }
   ],
   "unique_name": "Festa na Praia",

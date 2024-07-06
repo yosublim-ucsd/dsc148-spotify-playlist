@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: shyboiitobii\(샤이보이토비\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,285 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,297 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 76 | [scabiosa](https://open.spotify.com/track/36k7AneFlfwLv8mPKqMIR3) | [migoo](https://open.spotify.com/artist/7BV43zSPYFU1W7SY6QbMcH) | [scabiosa](https://open.spotify.com/album/73PME0lFBXMxZ7HKlhRDDm) | 2:56 |
 | 77 | [OVER](https://open.spotify.com/track/6tXwpZ0KqMlwa9OuRociym) | [YUMIN](https://open.spotify.com/artist/1Wbm8a86AGAgr1S71ZNn9i) | [OVER](https://open.spotify.com/album/6bXYyIOdahDUTYwBUnlE3z) | 3:18 |
 | 78 | [Bridge of Time](https://open.spotify.com/track/6pQowlqruNaH8o2jKgzjSE) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Bridge of Time](https://open.spotify.com/album/5pZO6Tu24W2nXMtg5MSsRJ) | 4:35 |
-| 79 | [Can't Forget You](https://open.spotify.com/track/2Yw95YwNukcpd4V8tNLyIc) | [IMI\_BLUE](https://open.spotify.com/artist/4eiuwKQgcoqcRuBxskefkc) | [Can't Forget You](https://open.spotify.com/album/14xYoVFNpALQ2BGrYrRCpQ) | 2:41 |
+| 79 | [Can't Forget You](https://open.spotify.com/track/2Yw95YwNukcpd4V8tNLyIc) | [IMIBLUE](https://open.spotify.com/artist/4eiuwKQgcoqcRuBxskefkc) | [Can't Forget You](https://open.spotify.com/album/14xYoVFNpALQ2BGrYrRCpQ) | 2:41 |
 | 80 | [Default](https://open.spotify.com/track/7a9JYapvSZ6jYu2TaG7BRU) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Default](https://open.spotify.com/album/4P8nciEu4ohngeo77oex4u) | 3:52 |
 | 81 | [We're in Luv](https://open.spotify.com/track/2pnd8iRl9d17WeDi3640w4) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z) | [We're in Luv](https://open.spotify.com/album/4nLgf4SwiJ61LaBmLA3pWh) | 3:02 |
 | 82 | [With You Back Then](https://open.spotify.com/track/1yp7CNSVBSjrXrRdS7EWUX) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1) | [With You Back Then](https://open.spotify.com/album/7ErveJVCxFgPDk0PVqk5VR) | 2:41 |

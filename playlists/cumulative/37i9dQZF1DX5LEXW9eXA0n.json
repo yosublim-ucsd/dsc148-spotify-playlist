@@ -6943,6 +6943,24 @@
     },
     {
       "album": {
+        "name": "Dear City",
+        "url": "https://open.spotify.com/album/7ibKvB4WLDqCZutb1s1Yeu"
+      },
+      "artists": [
+        {
+          "name": "Shinae An",
+          "url": "https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191866,
+      "name": "Hold Me Now",
+      "url": "https://open.spotify.com/track/2SiGvKZCCLMjoXnbWSsMA0"
+    },
+    {
+      "album": {
         "name": "Now, We Are Breaking Up (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/7yfqRYBQmoNZqoeGe4kPeM"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: CINTHIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,106 likes - 90 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,314 likes - 90 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 73 | [My Reflection](https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [My Reflection](https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT) | 4:17 |
 | 74 | [AEI](https://open.spotify.com/track/1O7c3cNxsaxwzyd6Ii5Ho9) | [James Harcourt](https://open.spotify.com/artist/0vClj7nDFd3J6mRKNmdZ0O) | [Knopfleur EP](https://open.spotify.com/album/1P9fuzaKHAYItF2qO0D6GF) | 6:34 |
 | 75 | [Young and Wild](https://open.spotify.com/track/0EMePJuGCg9MIlrXCvkd33) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9), [The Luv](https://open.spotify.com/artist/1OsWW3Akaw0Xz5eeKORfhY) | [Young and Wild](https://open.spotify.com/album/7bAzdN3NPhLs6fMfPTk6yC) | 6:13 |
-| 76 | [Sold Our Souls](https://open.spotify.com/track/4NDDX6wCm1IBMaGNxbBL75) | [Alex Tomb](https://open.spotify.com/artist/3nVDcXlZeXPG1GsjrUdGZJ), [Maria Ruhe](https://open.spotify.com/artist/3PrevxPsZD3pkh1HNpC00t) | [Sold Our Souls](https://open.spotify.com/album/7JHZHQdY6hPhthtyHgDpk0) | 8:30 |
+| 76 | [Sold Our Souls](https://open.spotify.com/track/4NDDX6wCm1IBMaGNxbBL75) | [Alex Tomb](https://open.spotify.com/artist/3nVDcXlZeXPG1GsjrUdGZJ), [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Sold Our Souls](https://open.spotify.com/album/7JHZHQdY6hPhthtyHgDpk0) | 8:30 |
 | 77 | [Two Makes Everything](https://open.spotify.com/track/0LouQgkKaJIE5vmwaXXy9F) | [Denis Horvat](https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee), [Lilli Ellen](https://open.spotify.com/artist/2kWP5nduv0bmZ07LVX9OWI) | [Two Makes Everything](https://open.spotify.com/album/1OTeZ40OnpocIm9Ws5IvAG) | 5:21 |
 | 78 | [Citizen 99](https://open.spotify.com/track/1TJNlmRZvUusHR7UGCbjFi) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Citizen 99 EP](https://open.spotify.com/album/5W4jbxardkPcBrKsxXZClI) | 4:58 |
 | 79 | [Bang Bang](https://open.spotify.com/track/5JtimrEnLxne3K2mChcsIW) | [Iman Hanzo](https://open.spotify.com/artist/5ayIaDgQlMl8YcCdY70zRr) | [Bang Bang](https://open.spotify.com/album/01AITBHLRTVZpTvPuC35qA) | 5:50 |

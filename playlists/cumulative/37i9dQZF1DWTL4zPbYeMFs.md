@@ -4,7 +4,7 @@
 
 > A perfect mix for your Mehendi ceremony.
 
-96 songs - 6 hr 51 min
+97 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Sajh Dhaj Ke](https://open.spotify.com/track/5HJGzB7sZleFrrDvr0pRo4) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Pankaj Kapur](https://open.spotify.com/artist/2o8YweTDrUygJuPWOFDN62) | [Mausam](https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP) | 4:52 | 2022-03-14 |  |
 | [Shagnaa](https://open.spotify.com/track/4YtqSiEWM1xXtzn1hmdkqr) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Shagnaa](https://open.spotify.com/album/2YxNZ37OoJNlYLhfpBWVSp) | 3:25 | 2023-10-27 |  |
 | [Shagun](https://open.spotify.com/track/1V3nPW84P7vDffxUAHtjJl) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4), [Mousam Mehta](https://open.spotify.com/artist/6TwlAFUoLtnJwumsxYhhex), [Malka Mehta](https://open.spotify.com/artist/2rrqD52eAe6byv62wB6RYq) | [Lagan](https://open.spotify.com/album/7EQqho3zZa8WyzHo3H0LLD) | 4:47 | 2023-02-07 | 2024-05-21 |
-| [Suit Patiala](https://open.spotify.com/track/09JKODZW0Y9ThIO6OfrfDM) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Yaariyan 2](https://open.spotify.com/album/7ae6aMd39gAqmMfaPi9GUY) | 3:07 | 2023-09-25 |  |
+| [Suhagan](https://open.spotify.com/track/3yLw3cfcVgralWalq2nVMc) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Suhagan](https://open.spotify.com/album/3Y7ONQoYBhUIupBp1psKkh) | 2:03 | 2024-07-05 |  |
+| [Suit Patiala](https://open.spotify.com/track/09JKODZW0Y9ThIO6OfrfDM) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Yaariyan 2](https://open.spotify.com/album/7ae6aMd39gAqmMfaPi9GUY) | 3:07 | 2023-09-25 | 2024-07-06 |
 | [Sun Sohniye \- From "Afsar"](https://open.spotify.com/track/0Sf6tCf1PpIXrG5htibftj) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Sun Sohniye \(From "Afsar"\)](https://open.spotify.com/album/1lotYHh1TgHkdt28VVUfSF) | 2:38 | 2022-03-14 |  |
 | [Taar Bijli](https://open.spotify.com/track/2mMW4YtrF03h5h4NaXCDsS) | [Sharda Sinha](https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2) | [Gangs Of Wasseypur \- 2](https://open.spotify.com/album/7DBbDXQbei6e4X6EdXOyz2) | 6:52 | 2022-03-14 | 2023-11-07 |
 | [Thoda Thoda Pyar](https://open.spotify.com/track/0tHgJvMHEy3tQUxGqs8zTb) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CIIJ9TXRdX5bMrvO0vC3v) | 4:02 | 2022-03-14 | 2023-03-11 |

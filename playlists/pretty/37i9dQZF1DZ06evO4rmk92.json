@@ -1,18 +1,18 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 114326,
+  "num_followers": 114359,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAACqovNQvAYuf3DEqujvhARk",
+  "snapshot_id": "ZoXmAAAAAAAh13FA9XJxa/n731L5AWw1",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "L-O-V-E",
-        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
       },
       "artists": [
         {
@@ -20,25 +20,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 155306,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nat King Cole Sings George Shearing Plays",
-        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 165973,
-      "name": "Let There Be Love",
-      "url": "https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC"
+      "duration_ms": 191973,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
     },
     {
       "added_at": null,
@@ -79,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 160666,
-      "name": "Autumn Leaves - Remastered 1987",
-      "url": "https://open.spotify.com/track/3AgqQbQWYLGsemeBHk1U1d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Don't Want To Be Hurt Anymore",
         "url": "https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe"
       },
@@ -107,22 +75,6 @@
       "duration_ms": 156906,
       "name": "I Don't Want To See Tomorrow",
       "url": "https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
     },
     {
       "added_at": null,
@@ -143,8 +95,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
       "artists": [
         {
@@ -152,9 +104,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 113293,
-      "name": "Almost Like Being In Love - Remastered",
-      "url": "https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK"
+      "duration_ms": 173266,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
     },
     {
       "added_at": null,
@@ -179,18 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+        "name": "Nat King Cole Sings George Shearing Plays",
+        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
       "artists": [
         {
           "name": "Nat King Cole",
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
         }
       ],
-      "duration_ms": 204626,
-      "name": "Too Young",
-      "url": "https://open.spotify.com/track/0zII0Soax7wbm3Avw7iVAd"
+      "duration_ms": 211173,
+      "name": "Fly Me To The Moon (In Other Words)",
+      "url": "https://open.spotify.com/track/2waiAcLQiqlX5bzvLtNUA0"
     },
     {
       "added_at": null,
@@ -207,6 +163,22 @@
       "duration_ms": 162600,
       "name": "You'll Never Know - Remastered",
       "url": "https://open.spotify.com/track/5dPRT4LvyogKLxmFpNGV4m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 173533,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl"
     },
     {
       "added_at": null,
@@ -243,6 +215,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Is Nat King Cole",
+        "url": "https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "Love Me As Though There Were No Tomorrow - Remastered 2001",
+      "url": "https://open.spotify.com/track/0RluX0auLYdKAZxWQZpLiG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "Too Young",
+      "url": "https://open.spotify.com/track/0zII0Soax7wbm3Avw7iVAd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sincerely",
+        "url": "https://open.spotify.com/album/338VuAlKIPVBLt5O2AKe5M"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 168826,
+      "name": "Cappuccina",
+      "url": "https://open.spotify.com/track/0l77yPx7obpLzZ93NFNcFR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Fair Lady",
         "url": "https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 192826,
       "name": "On The Street Where You Live",
       "url": "https://open.spotify.com/track/1xTlKISiuPabtjwJe3aPEy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nat King Cole Sings George Shearing Plays",
-        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        },
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "I Got It Bad (And That Ain't Good)",
-      "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cole Espanol",
-        "url": "https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p"
+        "name": "After Midnight: The Complete Session",
+        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
       },
       "artists": [
         {
@@ -308,25 +308,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 144293,
-      "name": "El Bodeguero (Grocer's Cha-Cha)",
-      "url": "https://open.spotify.com/track/4DfK9livSlasQjziFFVEql"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Fair Lady",
-        "url": "https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 150040,
-      "name": "I Could Have Danced All Night",
-      "url": "https://open.spotify.com/track/20mEmrHhY9yN6IvYncoL96"
+      "duration_ms": 252000,
+      "name": "Blame It On My Youth - Remastered 1999",
+      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
     },
     {
       "added_at": null,
@@ -347,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Fair Lady",
+        "url": "https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 150040,
+      "name": "I Could Have Danced All Night",
+      "url": "https://open.spotify.com/track/20mEmrHhY9yN6IvYncoL96"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Don't Want To Be Hurt Anymore",
         "url": "https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe"
       },
@@ -359,6 +359,22 @@
       "duration_ms": 169760,
       "name": "You're My Everything",
       "url": "https://open.spotify.com/track/0TRQeUKT5X3gWA4LUZsrvc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 168520,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/6Zis3c4TSJHeBkivT2tMzY"
     },
     {
       "added_at": null,
@@ -395,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Touch Of Your Lips",
-        "url": "https://open.spotify.com/album/0ec54Pa8SjLsJT94qqK9TU"
+        "name": "Just One Of Those Things",
+        "url": "https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek"
       },
       "artists": [
         {
@@ -404,9 +420,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 286173,
-      "name": "A Nightingale Sang In Berkeley Square",
-      "url": "https://open.spotify.com/track/0XboALCVOmAxzi5JEZHytz"
+      "duration_ms": 164800,
+      "name": "The Party's Over",
+      "url": "https://open.spotify.com/track/0iJ84lhFqdMr0D6YwGY2ow"
     },
     {
       "added_at": null,
@@ -463,6 +479,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Mis Amigos",
+        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 115733,
+      "name": "Fantastico",
+      "url": "https://open.spotify.com/track/6lREZJIPtXSX31YxI5gP3C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is The Thing",
+        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "It's All In The Game",
+      "url": "https://open.spotify.com/track/7HLHKnQzlQK8aOueTdZLUe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Those Lazy Hazy Crazy Days Of Summer",
         "url": "https://open.spotify.com/album/5jA1HyOHqWy718lEXH2koC"
       },
@@ -479,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cole Espanol",
-        "url": "https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p"
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
       "artists": [
         {
@@ -488,25 +536,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 168826,
-      "name": "Acercate Mas (Come Closer To Me)",
-      "url": "https://open.spotify.com/track/76AbCflWiJBgByIqFl396O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O"
+      "duration_ms": 176133,
+      "name": "(Get Your Kicks On) Route 66",
+      "url": "https://open.spotify.com/track/6AlmudWNrmyqohVSV7Vgib"
     },
     {
       "added_at": null,
@@ -559,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Cole Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/2MNgRvW32ijISrmFNiCxRr"
+        "name": "Penthouse Serenade (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6b04OM0B7hYI2XVy2PAtnJ"
       },
       "artists": [
         {
@@ -568,9 +600,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 165720,
-      "name": "Solamente Una Vez",
-      "url": "https://open.spotify.com/track/4CzO5nlZdaoa331G9qfpIV"
+      "duration_ms": 165906,
+      "name": "Laura - Remastered",
+      "url": "https://open.spotify.com/track/7JYPL2iwTl99TLZrJzpexz"
     },
     {
       "added_at": null,
@@ -623,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BD Music & Cabu Present Nat King Cole",
-        "url": "https://open.spotify.com/album/2yWx9ptM3TdlwZIkXwZacq"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 189560,
-      "name": "\u2019Tis Autumn",
-      "url": "https://open.spotify.com/track/6sQruAh3HYroK1zT8PUrea"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Cole Espa\u00f1ol",
         "url": "https://open.spotify.com/album/2MNgRvW32ijISrmFNiCxRr"
       },
@@ -651,6 +667,22 @@
       "duration_ms": 129666,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/4Vp7v5mc7P4SOR4PaIKqOi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Mis Amigos",
+        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 148106,
+      "name": "Capullito De Aleli",
+      "url": "https://open.spotify.com/track/0dzxDcTxjzqkQlXq1CWwcv"
     },
     {
       "added_at": null,
@@ -671,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cole Espanol",
-        "url": "https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "Noche De Ronda",
-      "url": "https://open.spotify.com/track/14r5VuEHs2S4H54yiYI1Sb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Capitol Vaults (Vol. 3)",
         "url": "https://open.spotify.com/album/4z763lntNKfZ6VpnjSinS3"
       },
@@ -703,26 +719,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lester Young Trio",
-        "url": "https://open.spotify.com/album/0bf8S6VdlrkX39DYxFC0DF"
+        "name": "More Cole Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/2MNgRvW32ijISrmFNiCxRr"
       },
       "artists": [
         {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 125800,
+      "name": "Tres Palabras",
+      "url": "https://open.spotify.com/track/5KN5TBU6dbz9I8oP2bUmZq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Mis Amigos",
+        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
+      },
+      "artists": [
         {
           "name": "Nat King Cole",
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        },
-        {
-          "name": "Buddy Rich",
-          "url": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs"
         }
       ],
-      "duration_ms": 236400,
-      "name": "I Cover The Waterfront - 12\" Version",
-      "url": "https://open.spotify.com/track/0sl6B3Cwkm9UOMaYDlcvKc"
+      "duration_ms": 142733,
+      "name": "Yo Vendo Unos Ojos Negros",
+      "url": "https://open.spotify.com/track/3LeNzetyINNwZLOR7O5lNR"
     },
     {
       "added_at": null,
@@ -743,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cole Espanol",
-        "url": "https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p"
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
       },
       "artists": [
         {
@@ -752,9 +776,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 166453,
-      "name": "Arrivederci Roma",
-      "url": "https://open.spotify.com/track/0MOHEhz9GzKd5kMZxtfH4C"
+      "duration_ms": 136093,
+      "name": "Three Little Words",
+      "url": "https://open.spotify.com/track/6J1oewqsGoNwIyTUv88E7O"
     },
     {
       "added_at": null,
@@ -768,9 +792,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 171106,
-      "name": "Adios Marquita Linda",
-      "url": "https://open.spotify.com/track/0ouj5Z8smLTqpluuhAQ1Cq"
+      "duration_ms": 118653,
+      "name": "Aqui Se Habla En Amor",
+      "url": "https://open.spotify.com/track/53nnrTen3vrTQ3Qm88TwOV"
     },
     {
       "added_at": null,
@@ -803,38 +827,6 @@
       "duration_ms": 154146,
       "name": "What Does It Take? - Live at the Blue Note Chicago",
       "url": "https://open.spotify.com/track/1pk8u7sU6pxO92NZMljYEe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let's Face The Music (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0GnnnrEJWgUHRdfqdZGRi0"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "These Foolish Things (Remind Me Of You)",
-      "url": "https://open.spotify.com/track/3VWYuQ65f34zCUYSoakoJR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From The Capitol Vaults (Vol. 1)",
-        "url": "https://open.spotify.com/album/3pYZK02cKFCRUKZ2zemgzk"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 179510,
-      "name": "Easter Sunday Morning",
-      "url": "https://open.spotify.com/track/3LB8JR4c3rYEHfQT3Px4Iq"
     }
   ],
   "unique_name": "This Is Nat King Cole",

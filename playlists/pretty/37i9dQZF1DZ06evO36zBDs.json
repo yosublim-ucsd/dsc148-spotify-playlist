@@ -1,12 +1,12 @@
 {
   "description": "This is ClariS. The essential tracks, all in one playlist.",
-  "num_followers": 19185,
+  "num_followers": 19193,
   "original_name": "This Is ClariS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAAAFz1iTNZaBSvc/GXyZc8Zb",
+  "snapshot_id": "ZoXmAAAAAAD7VYlJ1ULWyMaMxFDo0giD",
   "tracks": [
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 234533,
-      "name": "with you",
-      "url": "https://open.spotify.com/track/0q7cr2AmsvucswUwfX1FoL"
+      "duration_ms": 253373,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/2bQTmdOKGgqO2OT2jEVf1g"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 253373,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/2bQTmdOKGgqO2OT2jEVf1g"
+      "duration_ms": 234533,
+      "name": "with you",
+      "url": "https://open.spotify.com/track/0q7cr2AmsvucswUwfX1FoL"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u3075\u3049\u308a\u3089",
-        "url": "https://open.spotify.com/album/3ah4RPsC1U9fGp3sSLdtsi"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "\u541b\u8272",
-      "url": "https://open.spotify.com/track/62AcHFZEOPip5hGuaKoRpz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ClariS 10th Anniversary BEST - Green Star -",
         "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u3075\u3049\u308a\u3089",
+        "url": "https://open.spotify.com/album/3ah4RPsC1U9fGp3sSLdtsi"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "\u541b\u8272",
+      "url": "https://open.spotify.com/track/62AcHFZEOPip5hGuaKoRpz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SUMMER TRACKS \uff0d\u590f\u306e\u3046\u305f\uff0d",
         "url": "https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC"
       },
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Love",
-        "url": "https://open.spotify.com/album/4Mk7ZN64AnujZEE2lgZ2JA"
+        "name": "ClariS 10th Anniversary BEST - Green Star -",
+        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 336853,
-      "name": "White Love",
-      "url": "https://open.spotify.com/track/3B1EQrVkFiaHHTFbspLrwX"
+      "duration_ms": 267626,
+      "name": "PRECIOUS",
+      "url": "https://open.spotify.com/track/6pY3mA8t0DUfQWL1HuyGxX"
     }
   ],
   "unique_name": "This Is ClariS",

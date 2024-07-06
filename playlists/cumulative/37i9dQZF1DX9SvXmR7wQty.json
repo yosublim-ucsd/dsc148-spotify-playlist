@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Hubert Lenoir, P'tit Belliveau",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Swing",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -246,7 +246,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 205655,
       "name": "18",
       "url": "https://open.spotify.com/track/1ql8A7vfO3SEedqedSozyX"
@@ -4448,6 +4448,24 @@
       "duration_ms": 197333,
       "name": "Beriz",
       "url": "https://open.spotify.com/track/2taeWDYU3KPjlxvSy7nSVH"
+    },
+    {
+      "album": {
+        "name": "Besoin",
+        "url": "https://open.spotify.com/album/1hfiyR4GixCxvmmS3GoBrJ"
+      },
+      "artists": [
+        {
+          "name": "Blynk",
+          "url": "https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Besoin",
+      "url": "https://open.spotify.com/track/5LiOvDRWNm9QAeIa9WuBT8"
     },
     {
       "album": {
@@ -8885,6 +8903,24 @@
     },
     {
       "album": {
+        "name": "COME BACK",
+        "url": "https://open.spotify.com/album/3HOgd7sygm3dsWui8i4YCR"
+      },
+      "artists": [
+        {
+          "name": "Boogie",
+          "url": "https://open.spotify.com/artist/526J8Yi6wnwWoOPuydTLaR"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101500,
+      "name": "COME BACK",
+      "url": "https://open.spotify.com/track/1xHpGHG2xEUrfivnzWDpcv"
+    },
+    {
+      "album": {
         "name": "Come To Daddy",
         "url": "https://open.spotify.com/album/09u8dCwj2GDRuKsjJVRbqI"
       },
@@ -9386,7 +9422,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 128197,
       "name": "Confidences",
       "url": "https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi"
@@ -16557,6 +16593,24 @@
     },
     {
       "album": {
+        "name": "Frank Sinatra",
+        "url": "https://open.spotify.com/album/72aZxjlqwxx0ZN265M0F0Q"
+      },
+      "artists": [
+        {
+          "name": "Lova",
+          "url": "https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196427,
+      "name": "Frank Sinatra",
+      "url": "https://open.spotify.com/track/5sEzMtfOrzAKDFQnkaCkGH"
+    },
+    {
+      "album": {
         "name": "FREE FOR ALL",
         "url": "https://open.spotify.com/album/5b4JbnHLC1riCY5q1VFn1z"
       },
@@ -16840,7 +16894,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 170744,
       "name": "FTB",
       "url": "https://open.spotify.com/track/2V36YxLYeTq8vCMsie7h4N"
@@ -18475,6 +18529,28 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0KsdScu60du8oOKxtArluO"
+      },
+      "artists": [
+        {
+          "name": "Mahdi Ba",
+          "url": "https://open.spotify.com/artist/4bjdItQFpfNUmAWpY2ao7M"
+        },
+        {
+          "name": "St-Prince",
+          "url": "https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117991,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2rTkTwADWvIQ2NXixzpTWI"
+    },
+    {
+      "album": {
         "name": "Aucune promesse",
         "url": "https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP"
       },
@@ -19552,7 +19628,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 165775,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
@@ -20344,6 +20420,24 @@
       "duration_ms": 174306,
       "name": "J'avais besoin d'un p\u00e8re - Bonus Track",
       "url": "https://open.spotify.com/track/3fJoBa767U2glkVFs8kPD6"
+    },
+    {
+      "album": {
+        "name": "J'avoue",
+        "url": "https://open.spotify.com/album/7bnbZfvaAEicU4wHezytpg"
+      },
+      "artists": [
+        {
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182984,
+      "name": "J'avoue",
+      "url": "https://open.spotify.com/track/4jH2zP0nXyJl55ruDJpJyL"
     },
     {
       "album": {
@@ -23854,7 +23948,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 272413,
       "name": "La Diff\u00e9rence",
       "url": "https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6"
@@ -24506,7 +24600,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 112080,
       "name": "La peur est une fleur",
       "url": "https://open.spotify.com/track/2msKGnoEgQM4MManhl8Dji"
@@ -25592,7 +25686,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 178833,
       "name": "Le Ciel Sur La T\u00eate",
       "url": "https://open.spotify.com/track/619m8eazjTsTbSbTO8zrWA"
@@ -27826,7 +27920,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 189920,
       "name": "Libre",
       "url": "https://open.spotify.com/track/1cxU8Lm89wGrMCcQISzYTf"
@@ -29805,6 +29899,32 @@
     },
     {
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/7etElUD2VBeeuYfBY5hYHO"
+      },
+      "artists": [
+        {
+          "name": "Jay Jay",
+          "url": "https://open.spotify.com/artist/42IVM8biRfwghSfukPMimt"
+        },
+        {
+          "name": "IZO",
+          "url": "https://open.spotify.com/artist/5A1DfHw6UVRykKZr08UZtC"
+        },
+        {
+          "name": "SMZ",
+          "url": "https://open.spotify.com/artist/6YL07efGhdAVsqDuRgXACG"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231156,
+      "name": "Mapessa",
+      "url": "https://open.spotify.com/track/4KcqVTWv453EFbAiM8lwoF"
+    },
+    {
+      "album": {
         "name": "MAQUETTE",
         "url": "https://open.spotify.com/album/0GqqFYgH1JSFFlZbOD6rGA"
       },
@@ -30418,7 +30538,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 256874,
       "name": "Mean mug",
       "url": "https://open.spotify.com/track/69VgYJwIP0UiS3WrRUk2W5"
@@ -31034,6 +31154,28 @@
       "duration_ms": 177556,
       "name": "Moi je t'aime",
       "url": "https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg"
+    },
+    {
+      "album": {
+        "name": "Moi Qu'on Regarde",
+        "url": "https://open.spotify.com/album/5JQbEbOZv82n0FH7kafJBU"
+      },
+      "artists": [
+        {
+          "name": "Zach Scott",
+          "url": "https://open.spotify.com/artist/0x1BXAAWrf873stnf7Iszw"
+        },
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Moi Qu'on Regarde",
+      "url": "https://open.spotify.com/track/17EdUU3rXnRKBl629gSiBy"
     },
     {
       "album": {
@@ -32263,6 +32405,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9rite",
+        "url": "https://open.spotify.com/album/7lUUawLsupAMnHfWSaj5K8"
+      },
+      "artists": [
+        {
+          "name": "Swing",
+          "url": "https://open.spotify.com/artist/0OQMxt6l70FM2YlLwYDiEn"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156527,
+      "name": "M\u00e9rite",
+      "url": "https://open.spotify.com/track/30TFJPpwdXJPmhGVbY77rj"
+    },
+    {
+      "album": {
         "name": "M\u00e9rit\u00e9",
         "url": "https://open.spotify.com/album/32kQLDgEXAfljcw3wgOQxk"
       },
@@ -33084,7 +33244,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 178122,
       "name": "Nothing Personal - A COLORS SHOW",
       "url": "https://open.spotify.com/track/45Vsjd89poscQkXodaMc0v"
@@ -36667,6 +36827,24 @@
     },
     {
       "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/535W2Yy9YCZeKqefhEMyM0"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208645,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/3aLBTbiSEgxDPn3FvVghCD"
+    },
+    {
+      "album": {
         "name": "Plein d'adresses",
         "url": "https://open.spotify.com/album/5COClDxF8SwIZUVlg1wQf3"
       },
@@ -38816,7 +38994,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 180107,
       "name": "Quill\u00e9",
       "url": "https://open.spotify.com/track/05tF2Drqpc0hbHyh071354"
@@ -39166,6 +39344,24 @@
       "duration_ms": 176160,
       "name": "Rashel",
       "url": "https://open.spotify.com/track/4OXR2xcqJiLIjAtzEdbauW"
+    },
+    {
+      "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/5LtjW9e7zu1KvIGQiuuDo0"
+      },
+      "artists": [
+        {
+          "name": "B.B. Jacques",
+          "url": "https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161377,
+      "name": "Rayol",
+      "url": "https://open.spotify.com/track/3If2Z0wH9FM1EBW2xQfEM2"
     },
     {
       "album": {
@@ -39816,6 +40012,24 @@
       "duration_ms": 219600,
       "name": "Rien du tout",
       "url": "https://open.spotify.com/track/5HNwKqcWKzdArJqoI9EJlz"
+    },
+    {
+      "album": {
+        "name": "Psyca",
+        "url": "https://open.spotify.com/album/2oV3EZpq7eI8BgSAIg4XUU"
+      },
+      "artists": [
+        {
+          "name": "Psycadelick",
+          "url": "https://open.spotify.com/artist/1HqB7rrPzpiqR9OMNKfZdE"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188761,
+      "name": "Rien m'faire",
+      "url": "https://open.spotify.com/track/5mai2Bwht380oISASmMx3T"
     },
     {
       "album": {
@@ -41368,6 +41582,24 @@
       "duration_ms": 181580,
       "name": "Sans toi",
       "url": "https://open.spotify.com/track/1mk9y8glt1zXx5qoHzxYvx"
+    },
+    {
+      "album": {
+        "name": "Sans toi",
+        "url": "https://open.spotify.com/album/3cPEx5vZJKVzRjVJ9qd1Bv"
+      },
+      "artists": [
+        {
+          "name": "Passion Poire",
+          "url": "https://open.spotify.com/artist/6O7S83SFDd2xDlCKQmad3l"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "Sans toi",
+      "url": "https://open.spotify.com/track/5QVvxHXCAkx2WVwVH9rGB5"
     },
     {
       "album": {
@@ -43204,7 +43436,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 127734,
       "name": "Son Mad",
       "url": "https://open.spotify.com/track/2ajJIOv9mRekNm1wIfMxi6"
@@ -43484,7 +43716,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 188818,
       "name": "SPIDER",
       "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
@@ -44254,7 +44486,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 150000,
       "name": "Sur moi",
       "url": "https://open.spotify.com/track/3KusaCNQdquUZDMDzdStEz"

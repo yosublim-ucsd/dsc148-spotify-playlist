@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Samba de Malandro e os funks mais 🔑 do Brasil\. Foto: MC Paulin da Capital
+> THE BOX MEDLEY FUNK 2 e os funks mais 🔑 do Brasil\. Foto: Mc Brinquedo, MC Cebezinho, MC Tuto, Mc Laranjinha
 
 271 songs - 15 hr 32 min
 
@@ -246,7 +246,7 @@
 | [Sua amiga deu](https://open.spotify.com/track/142YjJNOuXjzeSDnB1ujw1) | [MC Levin](https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY) | [Sua amiga deu](https://open.spotify.com/album/2PnAF3M9NIbF2LlozAKIGk) | 2:58 | 2021-12-31 | 2022-07-23 |
 | [Subindo e Descendo](https://open.spotify.com/track/4F3XVx6fmZvWLBqmBG1gxg) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy) | [Alcateia](https://open.spotify.com/album/5ds061BRZCKGmFLpq1Cwok) | 3:12 | 2023-12-18 |  |
 | [Só Tapão Nervoso Vs Toma Catucada Violenta](https://open.spotify.com/track/2BEGTomoM88uGMOzRmZirl) | [DJ DN](https://open.spotify.com/artist/5mBzms8INTkASOeSDLvwoe), [MC Gui Andrade](https://open.spotify.com/artist/1UFLR3TTJAODTIog5FNv3e), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq) | [Só Tapão Nervoso Vs Toma Catucada Violenta](https://open.spotify.com/album/0FkHrCD8RzALIgBvzsqvXR) | 3:06 | 2021-12-31 | 2022-02-19 |
-| [Te Maceto Depois do Baile](https://open.spotify.com/track/3EuPKX0FLhAxfL5hZBlfJe) | [DJ Zigão](https://open.spotify.com/artist/7t0BSQtRRdLyO3VseiGBBy), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [DJ Lafon Do Md](https://open.spotify.com/artist/1zie7wOcoVwPHWLTJyEXG7), [Mc Rf](https://open.spotify.com/artist/21XypSEosIAo1NYqT0UKkc) | [Te Maceto Depois do Baile](https://open.spotify.com/album/3S84WqT6S97NTnegU0gvtg) | 3:49 | 2024-06-14 |  |
+| [Te Maceto Depois do Baile](https://open.spotify.com/track/3EuPKX0FLhAxfL5hZBlfJe) | [DJ Zigão](https://open.spotify.com/artist/7t0BSQtRRdLyO3VseiGBBy), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [DJ Lafon Do Md](https://open.spotify.com/artist/1zie7wOcoVwPHWLTJyEXG7), [Mc Rf](https://open.spotify.com/artist/21XypSEosIAo1NYqT0UKkc) | [Te Maceto Depois do Baile](https://open.spotify.com/album/3S84WqT6S97NTnegU0gvtg) | 3:49 | 2024-06-14 | 2024-07-06 |
 | [Tequila](https://open.spotify.com/track/2qPIIfZV6d1FgvCCNoLiVL) | [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Tequila](https://open.spotify.com/album/6QForwzdHYH7DxK1DogGQ5) | 2:39 | 2022-07-08 | 2022-09-10 |
 | [Terror da Cidade](https://open.spotify.com/track/6YYCK0t9NAz1p7cXLe4xqL) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Terror da Cidade](https://open.spotify.com/album/3Y5GTDoyf5CiaDIwlYOYWF) | 3:06 | 2023-07-07 | 2023-12-23 |
 | [THE BOX MEDLEY FUNK 2](https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [Mc Brinquedo](https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp) | [THE BOX MEDLEY FUNK 2](https://open.spotify.com/album/0dW6ozKchun19vdN4BSIUy) | 4:26 | 2024-05-07 |  |

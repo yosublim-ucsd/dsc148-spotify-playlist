@@ -2,9 +2,9 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez les nouveautés des artistes RADAR France\. Photo : Yoa
+> Découvrez les nouveautés des artistes RADAR France\. Photo : VEN1
 
-187 songs - 9 hr 41 min
+190 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [GARÇON](https://open.spotify.com/track/7wZnwgGkwpJ8EYJ6VEJD2A) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [GARÇON](https://open.spotify.com/album/0pgPGBjDayWlzT8eAjjcKG) | 2:24 | 2023-01-24 | 2024-04-11 |
 | [GOLDIE](https://open.spotify.com/track/6WHOjMA8qv0MEA9URdJBTX) | [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [GOLDIE](https://open.spotify.com/album/6twBCMNENpz0zdwb4XxPDr) | 2:24 | 2024-04-10 |  |
 | [Génération](https://open.spotify.com/track/1EhRHRVBDLPkhgKfAmltWy) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [Génération](https://open.spotify.com/album/7udnk26I0QpteVaRr1srhh) | 2:52 | 2023-03-10 | 2024-03-12 |
+| [Hakayet](https://open.spotify.com/track/3PyRt7gpih7EPvV0fMWEom) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/2p3ns7RThAsCEkBf6Py5cO) | 2:38 | 2024-07-05 |  |
 | [HINATA](https://open.spotify.com/track/1TJyY6XPwaprBSFT2owEG6) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [1.6](https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf) | 2:55 | 2023-10-04 |  |
 | [Hiroshima](https://open.spotify.com/track/7iLRVEuWHbVGu7g4xSEvDr) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [IOTA](https://open.spotify.com/album/3bHBzNSc5wHgedsW4m9Ykn) | 2:46 | 2024-04-10 |  |
 | [HLM en papier](https://open.spotify.com/track/1H2XgIWqSYq0hNGEBjoslV) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [HLM en papier](https://open.spotify.com/album/7oJAgG54spaDSF0oyD8OFH) | 2:45 | 2022-11-24 | 2023-03-11 |
@@ -107,6 +108,7 @@
 | [Le Jeune](https://open.spotify.com/track/6amKBSZGfDYxNbL2ByRnir) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Le Jeune](https://open.spotify.com/album/6f0YgX8Oec0sTVluzFCT9C) | 3:59 | 2021-12-02 | 2022-02-04 |
 | [le manège](https://open.spotify.com/track/1544oKxSzETEcBpOKdf3de) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [le manège](https://open.spotify.com/album/6Qt86ubTBo7keQIxje0qNW) | 3:49 | 2021-12-02 | 2022-03-02 |
 | [Le temps passe](https://open.spotify.com/track/24o720A8MCkwTWWytpMZld) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Le temps passe](https://open.spotify.com/album/2JZquiQA5Vg3J0HYokRdyE) | 3:12 | 2021-12-02 | 2022-06-18 |
+| [Les bonbons](https://open.spotify.com/track/2KQRtOnkcFpPM7f6P761Oe) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Les bonbons](https://open.spotify.com/album/6NAzRGJOPpOUs24BLpzdsI) | 2:51 | 2024-07-05 |  |
 | [Les bonnes manières](https://open.spotify.com/track/1tmEnZhAhwUjzwJ7L0QFAh) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Les bonnes manières](https://open.spotify.com/album/3x9CnMbpz96ggiCQATfLQ4) | 2:58 | 2022-02-03 | 2022-05-17 |
 | [Les bonnes manières](https://open.spotify.com/track/3Gp36IydZoAw6p1Lb9HvIS) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Pour la vie entière](https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb) | 2:59 | 2022-09-29 |  |
 | [Les dormantes](https://open.spotify.com/track/5FRYkF4q7TJ3QRHn2aWZHr) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Les dormantes](https://open.spotify.com/album/58Gqv2FeIlHyw0mxSnRs9Q) | 3:18 | 2022-11-24 | 2023-09-09 |
@@ -167,6 +169,7 @@
 | [Suffisamment](https://open.spotify.com/track/2G0jAoWT4mtcvsOyXaWzSt) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Suffisamment](https://open.spotify.com/album/5bYohHTjPB1Na7wcv5YRG3) | 3:46 | 2022-10-28 | 2022-11-25 |
 | [Suffisamment](https://open.spotify.com/track/7jIsa1OvMZSWWmOxqekPCx) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Suffisamment](https://open.spotify.com/album/1xwjEIbQEqd9gFnUlm0SUb) | 3:46 | 2022-09-29 | 2022-11-09 |
 | [Sémaphore](https://open.spotify.com/track/0DJsJJ34nrznOTyI6Qvmko) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Sémaphore](https://open.spotify.com/album/3qjdU74qTtATmlXFV0B9PY) | 2:44 | 2024-04-10 |  |
+| [Talk Tonight](https://open.spotify.com/track/1ELp8T7arWLvK5q34Akt0r) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [The World I'm Searching For](https://open.spotify.com/album/740kshLk68k7I9KSXFi8Hg) | 4:32 | 2024-07-05 |  |
 | [Tapion](https://open.spotify.com/track/2vHzw04q8IL0wRKJmBDocw) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Tapion](https://open.spotify.com/album/0aOEqCwX0R9fr9vpdXIdEA) | 3:17 | 2022-06-10 | 2022-09-30 |
 | [Tarzan](https://open.spotify.com/track/7bTEYM4keeHBnm8h0nBj5G) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Tarzan](https://open.spotify.com/album/0vvWbMFuL708tNtMx4Z2QL) | 3:10 | 2022-09-29 | 2024-01-19 |
 | [Tell Me Who](https://open.spotify.com/track/3uCh2PMx17GZKf9kWaFMkY) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Niko](https://open.spotify.com/artist/7DidhnHZXjvLywJgaNbl9Q) | [Tell Me Who](https://open.spotify.com/album/3xSW1meBZp2Fiq4xZwQB5T) | 2:43 | 2023-07-11 | 2024-03-12 |

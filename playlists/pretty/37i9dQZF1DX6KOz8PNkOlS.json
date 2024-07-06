@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 461760,
+  "num_followers": 461890,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -59,26 +59,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Oceans",
-        "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 279573,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "What Kinda Music",
         "url": "https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 300990,
       "name": "Nightrider",
       "url": "https://open.spotify.com/track/5TgZ7lOUugOdabBcD9a6ud"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 279573,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
     },
     {
       "added_at": "2024-07-04 20:03:20",
@@ -1189,22 +1189,6 @@
       "url": "https://open.spotify.com/track/76J5USnS7KSKZVwZURVlMI"
     },
     {
-      "added_at": "2022-08-13 01:09:13",
-      "album": {
-        "name": "Marci",
-        "url": "https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e"
-      },
-      "artists": [
-        {
-          "name": "Marci",
-          "url": "https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E"
-        }
-      ],
-      "duration_ms": 209873,
-      "name": "Immaterial Girl",
-      "url": "https://open.spotify.com/track/6A7fTO37KsQ2aXwkoV2m9L"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Tru Love",
@@ -1219,6 +1203,22 @@
       "duration_ms": 198084,
       "name": "Tru Love",
       "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
+    },
+    {
+      "added_at": "2022-08-13 01:09:13",
+      "album": {
+        "name": "Marci",
+        "url": "https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e"
+      },
+      "artists": [
+        {
+          "name": "Marci",
+          "url": "https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E"
+        }
+      ],
+      "duration_ms": 209873,
+      "name": "Immaterial Girl",
+      "url": "https://open.spotify.com/track/6A7fTO37KsQ2aXwkoV2m9L"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1545,6 +1545,22 @@
       "url": "https://open.spotify.com/track/4BvhCD3CgNX6Dlw6fBD3L4"
     },
     {
+      "added_at": "2024-06-26 18:41:25",
+      "album": {
+        "name": "Love Potion",
+        "url": "https://open.spotify.com/album/04LlcT4cTidlpzQc3rHxOH"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Love Potion",
+      "url": "https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU"
+    },
+    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Wonderful",
@@ -1609,22 +1625,6 @@
       "url": "https://open.spotify.com/track/28l122zrGEGeQtpB6v8Ev2"
     },
     {
-      "added_at": "2024-06-26 18:41:25",
-      "album": {
-        "name": "Love Potion",
-        "url": "https://open.spotify.com/album/04LlcT4cTidlpzQc3rHxOH"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Love Potion",
-      "url": "https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU"
-    },
-    {
       "added_at": "2022-09-15 12:32:00",
       "album": {
         "name": "caso de estudio",
@@ -1681,22 +1681,6 @@
       "url": "https://open.spotify.com/track/5sPGOHTaJSyGpun0ZxiKOV"
     },
     {
-      "added_at": "2022-12-07 04:05:43",
-      "album": {
-        "name": "Fallaway",
-        "url": "https://open.spotify.com/album/4x7g9rKQxdxzZIKoKImOka"
-      },
-      "artists": [
-        {
-          "name": "Molly McPhaul",
-          "url": "https://open.spotify.com/artist/2C6ewTAa9ZJKn6cltA1OnL"
-        }
-      ],
-      "duration_ms": 197763,
-      "name": "Fallaway",
-      "url": "https://open.spotify.com/track/0x0I35jX48pVLSV7Fljiqd"
-    },
-    {
       "added_at": "2022-01-14 00:57:55",
       "album": {
         "name": "Je Suis La Pomme Rouge",
@@ -1711,6 +1695,22 @@
       "duration_ms": 270265,
       "name": "Je Suis La Pomme Rouge",
       "url": "https://open.spotify.com/track/5HzPAB3IWjlH1KHDoTuv9P"
+    },
+    {
+      "added_at": "2022-12-07 04:05:43",
+      "album": {
+        "name": "Fallaway",
+        "url": "https://open.spotify.com/album/4x7g9rKQxdxzZIKoKImOka"
+      },
+      "artists": [
+        {
+          "name": "Molly McPhaul",
+          "url": "https://open.spotify.com/artist/2C6ewTAa9ZJKn6cltA1OnL"
+        }
+      ],
+      "duration_ms": 197763,
+      "name": "Fallaway",
+      "url": "https://open.spotify.com/track/0x0I35jX48pVLSV7Fljiqd"
     }
   ],
   "unique_name": "Soft Office",

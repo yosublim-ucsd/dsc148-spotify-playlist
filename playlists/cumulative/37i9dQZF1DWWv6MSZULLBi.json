@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Devan, PJ Harding",
+  "description": "A laid-back trip in the folk scene. Cover: Flower Face",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -1007,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "Babe, I'm All Yours",
+        "url": "https://open.spotify.com/album/2HHy6xAYe8T0UD3mzaGo9M"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197040,
+      "name": "Babe, I'm All Yours",
+      "url": "https://open.spotify.com/track/0ObTn3Xn2B28LpFqFrMmLd"
+    },
+    {
+      "album": {
         "name": "Baby, You Know",
         "url": "https://open.spotify.com/album/330iEZ1HuQ1ghRg53B0xog"
       },
@@ -1317,6 +1335,28 @@
     },
     {
       "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212466,
+      "name": "Better Days (feat. John Mayer)",
+      "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
+    },
+    {
+      "album": {
         "name": "Better Part of Me",
         "url": "https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw"
       },
@@ -1458,7 +1498,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 173226,
       "name": "Black Bird - A COLORS SHOW",
       "url": "https://open.spotify.com/track/00SYX4AtIHCpSXopJUj5pP"
@@ -1825,6 +1865,24 @@
     },
     {
       "album": {
+        "name": "call my name",
+        "url": "https://open.spotify.com/album/3J97lJZpNCtLWzUResJmTH"
+      },
+      "artists": [
+        {
+          "name": "phin",
+          "url": "https://open.spotify.com/artist/1LiAFR5jEJrfQK8vVavciN"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "call my name",
+      "url": "https://open.spotify.com/track/6rfXIASvO0iwomFkJ6grW6"
+    },
+    {
+      "album": {
         "name": "Call You in the Morning",
         "url": "https://open.spotify.com/album/3IO0Epg4XkvOaES3dfTCXB"
       },
@@ -1876,7 +1934,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 231533,
       "name": "Can't Stop Loving You (Live from the Treehouse)",
       "url": "https://open.spotify.com/track/3qo22ku7j0p8xsMBymHUo4"
@@ -3646,7 +3704,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 159266,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4S9cpPwTo9o0tMFNGkYzRn"
@@ -4592,6 +4650,24 @@
       "duration_ms": 284720,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
+    },
+    {
+      "album": {
+        "name": "Feel It All",
+        "url": "https://open.spotify.com/album/1c0txChD976x1NdD0WU5XO"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209233,
+      "name": "Feel It All",
+      "url": "https://open.spotify.com/track/4eISmOIOx8s1pWtLkpYHxj"
     },
     {
       "album": {
@@ -6691,6 +6767,24 @@
     },
     {
       "album": {
+        "name": "I feel, free",
+        "url": "https://open.spotify.com/album/29Gp8bOvQsaQz61RZrw5Sq"
+      },
+      "artists": [
+        {
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163924,
+      "name": "I feel, free",
+      "url": "https://open.spotify.com/track/383sYribMAExuB068eOKyj"
+    },
+    {
+      "album": {
         "name": "If Nothing Changes",
         "url": "https://open.spotify.com/album/3nXHu0E3uVVGf2MyUNQJqG"
       },
@@ -8294,7 +8388,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 138123,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/37Gqg6D070Ahztf2RaDXBb"
@@ -10076,7 +10170,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 237666,
       "name": "Nothing to Lose",
       "url": "https://open.spotify.com/track/434io34sIbKCD3KzuoJCg5"
@@ -12461,6 +12555,24 @@
     },
     {
       "album": {
+        "name": "Solstice Song",
+        "url": "https://open.spotify.com/album/4QNoLiRg84fdLhSHWvBGEF"
+      },
+      "artists": [
+        {
+          "name": "Taylor Jackson",
+          "url": "https://open.spotify.com/artist/7nGtZvEYXujS2JZVlgxCif"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188139,
+      "name": "Solstice Song",
+      "url": "https://open.spotify.com/track/72SXpHeJWgA926pdouhSKW"
+    },
+    {
+      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
       },
@@ -12620,7 +12732,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 220691,
       "name": "Somewhere Between",
       "url": "https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2"
@@ -13440,7 +13552,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 314827,
       "name": "Tall Boy",
       "url": "https://open.spotify.com/track/7qcJoUaUpoE01mJjWi4U1k"
@@ -16400,6 +16512,24 @@
       "duration_ms": 231640,
       "name": "Your Hand in Mine",
       "url": "https://open.spotify.com/track/69hxfX2XVJwbJONF32a0kR"
+    },
+    {
+      "album": {
+        "name": "Your Love / Here To Stay / Burn",
+        "url": "https://open.spotify.com/album/6FzSdcQmRAnau5JVb3GN5X"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214610,
+      "name": "Your Love (Where It's At)",
+      "url": "https://open.spotify.com/track/1X3z4USaPZH5Hv47uzYQl9"
     },
     {
       "album": {

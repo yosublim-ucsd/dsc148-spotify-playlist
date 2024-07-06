@@ -2,7 +2,7 @@
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=Q6qir8SSSjiv66AbdjCOPg">Asake</a>
+> The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod?si=YoxMG14\_TC\-zhugQbjb28g">Diamond Platnumz</a>
 
 398 songs - 23 hr 37 min
 

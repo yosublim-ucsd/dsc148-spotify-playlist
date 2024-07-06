@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,964 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,134 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Celebrate!](https://open.spotify.com/track/0ud8GbjknpHxDrhGZxwrFl) | [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI), [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR) | [Celebrate!](https://open.spotify.com/album/2fqSsy31vWs78Ga6h5us2j) | 2:50 |
-| 2 | [Veggie Dance \- Remix](https://open.spotify.com/track/2BBvcBwojcHlSTjp48I2SJ) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Veggie Dance \(Remix\)](https://open.spotify.com/album/6icID5P2oWMMmr1nO2aJV2) | 1:52 |
+| 1 | [Veggie Dance \- Steamed Broccoli](https://open.spotify.com/track/2Ino5VIjhkchNGPk2WfQxO) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Veggie Dance](https://open.spotify.com/album/5rFResvBMH7atGl0pFSaUZ) | 1:45 |
+| 2 | [Celebrate!](https://open.spotify.com/track/0ud8GbjknpHxDrhGZxwrFl) | [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI), [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR) | [Celebrate!](https://open.spotify.com/album/2fqSsy31vWs78Ga6h5us2j) | 2:50 |
 | 3 | [No Limits](https://open.spotify.com/track/3lp8uKSytH2EkthguoNZcS) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Culture Kidz](https://open.spotify.com/album/20h68tcBMmHaDVobHNilSC) | 2:36 |
 | 4 | [I Love Dinosaurs](https://open.spotify.com/track/0V9Yrvf9H7LNyT4QVcZYxh) | [Uncle Apple](https://open.spotify.com/artist/07FHLWnXS1tigApNnuDp9M) | [I Love Dinosaurs](https://open.spotify.com/album/4g2hEUxtILneGHgfl3p5zf) | 3:08 |
 | 5 | [I Won’t Shrink](https://open.spotify.com/track/3nOqd6Ke2QPCoWV7Pyr5Ix) | [Dee & Friends](https://open.spotify.com/artist/2lGGE35VFwio8LutCGUIln) | [Magic Gemstones](https://open.spotify.com/album/0kvyjC6X4tJ3oo6jhJlBGS) | 1:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 49 | [Best Day Ever](https://open.spotify.com/track/5zNvK3AfYvmMfb458bzUFY) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Okay to Be Different](https://open.spotify.com/album/79hcqBz6rqKuv1aMCJfx23) | 2:30 |
 | 50 | [Be You You You](https://open.spotify.com/track/7Eg3RbciQgucCxDanFjEbE) | [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI) | [Taste The Sky](https://open.spotify.com/album/3j2LHcEsD5j3LY77fAitx5) | 3:02 |
 
-Snapshot ID: `ZnT6wAAAAADaHBV5MrN89tn/8QKFvAkJ`
+Snapshot ID: `ZodvwQAAAAD4774ryMT5UGbXmvDKVH/R`

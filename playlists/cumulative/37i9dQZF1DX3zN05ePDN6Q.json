@@ -555,6 +555,36 @@
     },
     {
       "album": {
+        "name": "A Volta da Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/6UtV6tKIbzHwTA5GuDTlGA"
+      },
+      "artists": [
+        {
+          "name": "Makalister",
+          "url": "https://open.spotify.com/artist/1RoerHIsbQo1h0V8KpznKV"
+        },
+        {
+          "name": "Beli Remour",
+          "url": "https://open.spotify.com/artist/6vtzYhjkFNNnKca9BzC3Tc"
+        },
+        {
+          "name": "Dj Mary",
+          "url": "https://open.spotify.com/artist/26GUjH8iqOdqKRFWDqvxkv"
+        },
+        {
+          "name": "DJ Mary Jane",
+          "url": "https://open.spotify.com/artist/5rsEgESCYm2PFGWVxxSFRa"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202434,
+      "name": "A Volta da Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/2ZPogoeHu3xdDNmKKI8UaK"
+    },
+    {
+      "album": {
         "name": "A Volta do Ano L\u00edrico",
         "url": "https://open.spotify.com/album/6H1jnfLHcnm3MfHO8v8emY"
       },
@@ -3190,7 +3220,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 469558,
       "name": "Dose de Vida",
       "url": "https://open.spotify.com/track/4IjvTwt3zoyzdj54vBAKp7"
@@ -3893,6 +3923,28 @@
     },
     {
       "album": {
+        "name": "O Queridinho de Deus",
+        "url": "https://open.spotify.com/album/12FBYClyofbdrOns5C79yq"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Makalister",
+          "url": "https://open.spotify.com/artist/1RoerHIsbQo1h0V8KpznKV"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Filme",
+      "url": "https://open.spotify.com/track/6ANURLQZufu3HpCA6AVQh9"
+    },
+    {
+      "album": {
         "name": "Fiz Minha Unha",
         "url": "https://open.spotify.com/album/55IqlpNBxtJPpfGbWHOayn"
       },
@@ -3934,7 +3986,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 313700,
       "name": "Flores de Galeano - Ao Vivo",
       "url": "https://open.spotify.com/track/0r8KmiBut9KRG4oxI2iLNT"
@@ -10606,6 +10658,24 @@
       "duration_ms": 167278,
       "name": "Time",
       "url": "https://open.spotify.com/track/61Aw3yZH92IyGyfIhkcAO8"
+    },
+    {
+      "album": {
+        "name": "TOCA Q TOCA",
+        "url": "https://open.spotify.com/album/12TzmJhXTw2qvRnag3WYVM"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/5zf64lwDr9ZoKtCw2b3Mdd"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204037,
+      "name": "TOCA Q TOCA",
+      "url": "https://open.spotify.com/track/0RMYaqYY0xcaFB8aRlUXe6"
     },
     {
       "album": {

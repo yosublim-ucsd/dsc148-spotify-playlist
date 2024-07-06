@@ -1,15 +1,63 @@
 {
-  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : Yoa",
-  "num_followers": 103930,
+  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : VEN1",
+  "num_followers": 103935,
   "original_name": "RADAR FRANCE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnlbmgAAAABuOs4BHckv8j5snakEMVX8",
+  "snapshot_id": "ZofgQAAAAACmBpAn07LC0bdE+ZzmHi9l",
   "tracks": [
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
+      "album": {
+        "name": "Hakayet",
+        "url": "https://open.spotify.com/album/2p3ns7RThAsCEkBf6Py5cO"
+      },
+      "artists": [
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        }
+      ],
+      "duration_ms": 158208,
+      "name": "Hakayet",
+      "url": "https://open.spotify.com/track/3PyRt7gpih7EPvV0fMWEom"
+    },
+    {
+      "added_at": "2024-07-05 12:00:00",
+      "album": {
+        "name": "Les bonbons",
+        "url": "https://open.spotify.com/album/6NAzRGJOPpOUs24BLpzdsI"
+      },
+      "artists": [
+        {
+          "name": "Lisa Pariente",
+          "url": "https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X"
+        }
+      ],
+      "duration_ms": 171960,
+      "name": "Les bonbons",
+      "url": "https://open.spotify.com/track/2KQRtOnkcFpPM7f6P761Oe"
+    },
+    {
+      "added_at": "2024-07-05 12:00:00",
+      "album": {
+        "name": "The World I'm Searching For",
+        "url": "https://open.spotify.com/album/740kshLk68k7I9KSXFi8Hg"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "duration_ms": 272946,
+      "name": "Talk Tonight",
+      "url": "https://open.spotify.com/track/1ELp8T7arWLvK5q34Akt0r"
+    },
+    {
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Matcha Queen",
         "url": "https://open.spotify.com/album/5bZX5IFxfYNKdJUMPtIMS5"
@@ -25,7 +73,7 @@
       "url": "https://open.spotify.com/track/6WRhbMJiQJo4SZv6ub8ptn"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "KHEDMA 2",
         "url": "https://open.spotify.com/album/1S3jVlJByB4CzqwoVpaUAI"
@@ -41,7 +89,7 @@
       "url": "https://open.spotify.com/track/1JQv5PYJLat5Ra2So7vTkI"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Biso Mibale (feat. Jungeli)",
         "url": "https://open.spotify.com/album/2qJCFSI8a3jNLyusz1opBU"
@@ -61,7 +109,7 @@
       "url": "https://open.spotify.com/track/5Ymv6tlT7HgheiAfiU12mN"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "S/O DIEU",
         "url": "https://open.spotify.com/album/5h1HPR6Bu9tEOQEQD3mDRi"
@@ -77,7 +125,7 @@
       "url": "https://open.spotify.com/track/1EyW8EbDOr0YXJOaV3hpkK"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "un million de petits chocs",
         "url": "https://open.spotify.com/album/2IC2gH3S0XVQvug7M3rFjS"
@@ -93,7 +141,7 @@
       "url": "https://open.spotify.com/track/0tH5JUbzvZYKk3CciyUlTy"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "L'AFRO OU LES TRESSES",
         "url": "https://open.spotify.com/album/5GaFutbilpzWUYP0kkoVPP"
@@ -109,7 +157,7 @@
       "url": "https://open.spotify.com/track/2KjPE7Km3e8ILfin60DEFF"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Rome",
         "url": "https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST"
@@ -125,7 +173,7 @@
       "url": "https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "RECHERCHE&DESTRUCTION",
         "url": "https://open.spotify.com/album/7KbUIt8qVNwQK8WFze3nS4"
@@ -141,7 +189,7 @@
       "url": "https://open.spotify.com/track/3xSi7D0gRrcPMV89JbxkBp"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "ELOWI",
         "url": "https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2"
@@ -157,7 +205,7 @@
       "url": "https://open.spotify.com/track/424utU9OlUcB7j2LRU9l6f"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "J'aimerais danser avec toi",
         "url": "https://open.spotify.com/album/5V5TGyamn7lRkTfnoYM8vO"
@@ -173,7 +221,7 @@
       "url": "https://open.spotify.com/track/1fWvBuZBG7AomF8Qk27vMM"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "1.6",
         "url": "https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf"
@@ -189,7 +237,7 @@
       "url": "https://open.spotify.com/track/1TJyY6XPwaprBSFT2owEG6"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "The Whole Story",
         "url": "https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal"
@@ -205,7 +253,7 @@
       "url": "https://open.spotify.com/track/7y2FybBAX1q90Z5QYpfqy1"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Plus rien \u00e0 perdre",
         "url": "https://open.spotify.com/album/6VVCYq9xfB0G5aiie7NBAN"
@@ -221,7 +269,7 @@
       "url": "https://open.spotify.com/track/1imBbvEq9JCGmpYe9S4e4D"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "SUN7",
         "url": "https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk"
@@ -237,7 +285,7 @@
       "url": "https://open.spotify.com/track/2cTyysES2ribL9idJXy3fI"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "BAD QUEEN",
         "url": "https://open.spotify.com/album/6tFR7Oob6kt98NLhTpfZ90"
@@ -253,7 +301,7 @@
       "url": "https://open.spotify.com/track/08ckCoQXKD3GbSHGOoQG5J"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Faut que tu m'aimes",
         "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
@@ -269,7 +317,7 @@
       "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Allo docteur",
         "url": "https://open.spotify.com/album/3vGD4O0bt9YgtLZQ1R6JBk"
@@ -285,7 +333,7 @@
       "url": "https://open.spotify.com/track/1VPvT71I6DUFlONOvPsOHn"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "L'angle mort",
         "url": "https://open.spotify.com/album/4CK0HSqv3dn1WfO0owPk28"
@@ -301,7 +349,7 @@
       "url": "https://open.spotify.com/track/6iI71ISS7X0T5nHHRYyjG9"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "La loi du papillon",
         "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
@@ -317,7 +365,7 @@
       "url": "https://open.spotify.com/track/6KUSsnsYl1DVT2K6sHmsV7"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "EXIT",
         "url": "https://open.spotify.com/album/5k2kGcJwHBWckBy9aeKkGy"
@@ -333,7 +381,7 @@
       "url": "https://open.spotify.com/track/41hl3QWKVaFZMZTNZhrARK"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Ma ch\u00e9rie",
         "url": "https://open.spotify.com/album/12SKaGibhGHQ091b1Iqgdz"
@@ -349,7 +397,7 @@
       "url": "https://open.spotify.com/track/6HP89eE4a0PQv0emwrstu2"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "boomerang",
         "url": "https://open.spotify.com/album/2TfKNF59cB0dW7z1glQeiY"
@@ -365,7 +413,7 @@
       "url": "https://open.spotify.com/track/1MDGRQiCy0bOIsh3wo2ReD"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "La symphonie des \u00e9clairs",
         "url": "https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH"
@@ -381,7 +429,7 @@
       "url": "https://open.spotify.com/track/1E9HERI5XdI9ZZIgCw51QS"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Saison 2",
         "url": "https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy"
@@ -397,7 +445,7 @@
       "url": "https://open.spotify.com/track/0LrR09OWMytBTDwMVYicPv"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Ma Terre",
         "url": "https://open.spotify.com/album/3rRwuezJjg5MCdzQKJJAyN"
@@ -413,7 +461,7 @@
       "url": "https://open.spotify.com/track/7iXlZHf6HtYvU0AqbAjr9j"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Celui qui part",
         "url": "https://open.spotify.com/album/2I7XAd8CHqNXmuIf6jUnMe"
@@ -429,7 +477,7 @@
       "url": "https://open.spotify.com/track/3iJQzmcPnLrTC7WOQ2kYUt"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Ce qu'il restera de nous",
         "url": "https://open.spotify.com/album/5O9PH4OPR3rxtpjXhMjElr"
@@ -445,7 +493,7 @@
       "url": "https://open.spotify.com/track/0DHsp9yphS9BdAHAI64JYS"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "De la fontaine",
         "url": "https://open.spotify.com/album/6y824K5r5gFjMcjpWbJ12E"
@@ -461,7 +509,7 @@
       "url": "https://open.spotify.com/track/0gRObzGXDXLAbu8WOjy9i9"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "La grande d\u00e9sillusion",
         "url": "https://open.spotify.com/album/2UKpK4wcpUeCLOyvHG1gyS"
@@ -477,7 +525,7 @@
       "url": "https://open.spotify.com/track/0GIZezqLlyi4QpsQAPemU8"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "NISHATI",
         "url": "https://open.spotify.com/album/6Rl0Xb0LQKQjcFbtiptz1f"
@@ -493,7 +541,7 @@
       "url": "https://open.spotify.com/track/5jHthJFk8TMUGDy532jiof"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Pour la vie enti\u00e8re",
         "url": "https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb"
@@ -509,7 +557,7 @@
       "url": "https://open.spotify.com/track/3Gp36IydZoAw6p1Lb9HvIS"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "MNE",
         "url": "https://open.spotify.com/album/7ehcqR3D3rLDDKiv2LSqu5"
@@ -525,7 +573,7 @@
       "url": "https://open.spotify.com/track/1otp7EwLpgTmEmTlMwouKB"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Multicolore",
         "url": "https://open.spotify.com/album/5pshEhto6fETHUMWA42en8"
@@ -541,7 +589,7 @@
       "url": "https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "The Beast",
         "url": "https://open.spotify.com/album/3U9XwEP5Ia637qr6yX3578"
@@ -557,7 +605,7 @@
       "url": "https://open.spotify.com/track/5nE5gmDADdXZ3LwES22kYt"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "era 24",
         "url": "https://open.spotify.com/album/3AtIL5qSiwp7dXB7Hjr8Nx"
@@ -573,7 +621,7 @@
       "url": "https://open.spotify.com/track/2RNoqVwUgu6G9U87DoNYnu"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Toujours des fleurs",
         "url": "https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy"
@@ -589,7 +637,7 @@
       "url": "https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "That Boom",
         "url": "https://open.spotify.com/album/5X421PzjGCYXBGAizNaXNK"
@@ -605,7 +653,7 @@
       "url": "https://open.spotify.com/track/2x5jjXueCFiPtL4POBTxUL"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "J'ai plus peur",
         "url": "https://open.spotify.com/album/1epUOG9NbeV7YydZYFmV7p"
@@ -621,7 +669,7 @@
       "url": "https://open.spotify.com/track/23A5YxiaHkz2pT7KOesZBN"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "GOLDIE",
         "url": "https://open.spotify.com/album/6twBCMNENpz0zdwb4XxPDr"
@@ -637,7 +685,7 @@
       "url": "https://open.spotify.com/track/6WHOjMA8qv0MEA9URdJBTX"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "bedroom walls : le salon",
         "url": "https://open.spotify.com/album/16yfLwmzCO9eVfLh8veI43"
@@ -653,7 +701,7 @@
       "url": "https://open.spotify.com/track/7BsF2M59SaoOQI9HOWk8bU"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Home of Sanity (the playlist)",
         "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
@@ -669,7 +717,7 @@
       "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Feu",
         "url": "https://open.spotify.com/album/3uDxABmXID0PlqYSXqcAe3"
@@ -685,7 +733,7 @@
       "url": "https://open.spotify.com/track/1a3gfsItYAxLYzxpQwBfnj"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Ozoror",
         "url": "https://open.spotify.com/album/6OPqZboiTNSYCKd3fSiSLX"
@@ -701,7 +749,7 @@
       "url": "https://open.spotify.com/track/2rmsk2OmSVRvZteMIA2Jxc"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Photographie",
         "url": "https://open.spotify.com/album/3OUdDelS2copkJpYt7LEP2"
@@ -717,7 +765,7 @@
       "url": "https://open.spotify.com/track/50buPmiBu8HJrykNSPKofs"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "[pr\u00e8chof]",
         "url": "https://open.spotify.com/album/2aBKPRAq1UDHecxexXz0lq"
@@ -733,7 +781,7 @@
       "url": "https://open.spotify.com/track/4gjIWbgt4XfRiuNjC09Xo6"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Metaverse",
         "url": "https://open.spotify.com/album/0feXuheWM3Kk6koWrQhqwt"
@@ -749,7 +797,7 @@
       "url": "https://open.spotify.com/track/5WfMk2vk5hMD1bzByNJCC6"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "IOTA",
         "url": "https://open.spotify.com/album/3bHBzNSc5wHgedsW4m9Ykn"
@@ -765,7 +813,7 @@
       "url": "https://open.spotify.com/track/7iLRVEuWHbVGu7g4xSEvDr"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "S\u00e9maphore",
         "url": "https://open.spotify.com/album/3qjdU74qTtATmlXFV0B9PY"
@@ -781,7 +829,7 @@
       "url": "https://open.spotify.com/track/0DJsJJ34nrznOTyI6Qvmko"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Par Fiert\u00e9",
         "url": "https://open.spotify.com/album/3joknrlbS386Npao4I4p49"
@@ -797,7 +845,7 @@
       "url": "https://open.spotify.com/track/6UOGItOYXOpnqCORE9VP9t"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Gardien du Labyrinthe",
         "url": "https://open.spotify.com/album/0qCijZ9tv7v38CxL4tO7zQ"
@@ -813,7 +861,7 @@
       "url": "https://open.spotify.com/track/0YofBGEEMMQGidD3sQcqvp"
     },
     {
-      "added_at": "2024-06-24 11:42:18",
+      "added_at": "2024-07-05 12:00:00",
       "album": {
         "name": "Immoral & Ill\u00e9gal",
         "url": "https://open.spotify.com/album/0KKgZIUwkhKV82olpr3QIU"

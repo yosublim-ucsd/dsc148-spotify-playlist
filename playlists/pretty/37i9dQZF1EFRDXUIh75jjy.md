@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544 likes - 185 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 553 likes - 185 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 16 | [A Nonsense Christmas](https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [A Nonsense Christmas](https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38) | 2:33 |
 | 17 | [Almost Love](https://open.spotify.com/track/1yXFAwSMDZmX2ZyDLLyQ9s) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 3:32 |
 | 18 | [Don't Hurt \(feat\. Brezy\)](https://open.spotify.com/track/0dfy8LYDzGRC2TMMde0vex) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Brezy](https://open.spotify.com/artist/13NUtXm6qqGiPcRRBNdZsq) | [Don't Hurt \(feat\. Brezy\)](https://open.spotify.com/album/2D2QBvtnhYh8z3cOlKfvwZ) | 3:35 |
-| 19 | [In My Bed](https://open.spotify.com/track/1FjD1jpm51dH5LzLvrDVPY) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 3:09 |
-| 20 | [bet u wanna](https://open.spotify.com/track/1RAeuvRyRzCweAK3jUT0ZW) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:11 |
+| 19 | [bet u wanna](https://open.spotify.com/track/1RAeuvRyRzCweAK3jUT0ZW) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:11 |
+| 20 | [In My Bed](https://open.spotify.com/track/1FjD1jpm51dH5LzLvrDVPY) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 3:09 |
 | 21 | [Song on Fire](https://open.spotify.com/track/4UQSxaJZS8kH62JaQgkr14) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Feed The Machine](https://open.spotify.com/album/0I7iZWKIGM4mkmZonobtJh) | 3:50 |
 | 22 | [Bartender](https://open.spotify.com/track/6g1VMY89VJmDmofqnyC6Rt) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 3:13 |
 | 23 | [Bad for Business](https://open.spotify.com/track/38bbpkFcxgjupISR0K94UU) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:08 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 99 | [Cemetery](https://open.spotify.com/track/68eyW8UBCCKbqZwXP1i19v) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [Solastalgia](https://open.spotify.com/album/7rwzI6iThLPPhZWL07AgE4) | 4:09 |
 | 100 | [Baggage](https://open.spotify.com/track/4fnR2KQNeOhYtiLJgeHxP8) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Baggage](https://open.spotify.com/album/2fNOpoG64UvSthM69iKCHc) | 3:03 |
 | 101 | [Stay](https://open.spotify.com/track/1NNZnxd6PShEKf8K2lP8H7) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 2:39 |
-| 102 | [Can't Stay Mad](https://open.spotify.com/track/2caU93YaWxERJpGB0ZXnUw) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:27 |
-| 103 | [Bubbles](https://open.spotify.com/track/2Z1hvUB3unIudQSRVGTBC2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:38 |
+| 102 | [Bubbles](https://open.spotify.com/track/2Z1hvUB3unIudQSRVGTBC2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:38 |
+| 103 | [Can't Stay Mad](https://open.spotify.com/track/2caU93YaWxERJpGB0ZXnUw) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:27 |
 | 104 | [on my way](https://open.spotify.com/track/2D9VGKzODKblwcTxaxZhIt) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Tulip Drive](https://open.spotify.com/album/20dZqC8aUO4ip6aqAPymYL) | 2:57 |
 | 105 | [Plastic Purse](https://open.spotify.com/track/51XzyvRLe38bouIZCv5itX) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:23 |
 | 106 | [Don't Feel Like Fighting](https://open.spotify.com/track/5cex5w6GN9h7sC9GFtAip6) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Life Love & Madness](https://open.spotify.com/album/57nDa2V6zo9QDKZLpTLtBx) | 3:03 |
@@ -168,8 +168,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 158 | [Moonlight](https://open.spotify.com/track/5V3FvBPNGARSDtjy43lpO7) | [Chris Bloom](https://open.spotify.com/artist/7CHhuFCa2PZXtPhXUY4wVy) | [Questions and Confessions](https://open.spotify.com/album/00kXw1Htv99Qslf3o2vWIt) | 3:15 |
 | 159 | [better off](https://open.spotify.com/track/6Wey3WDGWqwOJ4b5acKh1u) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 3:04 |
 | 160 | [L.O.V.E.](https://open.spotify.com/track/5v6Zl83YKRsNBu8DevZ8ow) | [MAYCE](https://open.spotify.com/artist/5MLjCi6tlmcBXNyklgRzaZ) | [Cry For Help](https://open.spotify.com/album/3kigMOOCboaYxSI3HedLdS) | 3:00 |
-| 161 | [HEAVYWEIGHT](https://open.spotify.com/track/09Xano9Q7PRllK5t3qk74l) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [THIS IS NOT AN EXIT](https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh) | 3:13 |
-| 162 | [Shimmering Seas \- From "Disney Cruise Line"/25th Anniversary Theme](https://open.spotify.com/track/5LbetxUPzDO4zL46yFClNq) | [Michelle Zarlenga](https://open.spotify.com/artist/5TbAVEN0oQUPFfJZy0JP3q) | [Shimmering Seas \(From "Disney Cruise Line"/25th Anniversary Theme\)](https://open.spotify.com/album/0uoA6FdN5MJkHJEphNtQdu) | 2:53 |
+| 161 | [Shimmering Seas \- From "Disney Cruise Line"/25th Anniversary Theme](https://open.spotify.com/track/5LbetxUPzDO4zL46yFClNq) | [Michelle Zarlenga](https://open.spotify.com/artist/5TbAVEN0oQUPFfJZy0JP3q) | [Shimmering Seas \(From "Disney Cruise Line"/25th Anniversary Theme\)](https://open.spotify.com/album/0uoA6FdN5MJkHJEphNtQdu) | 2:53 |
+| 162 | [HEAVYWEIGHT](https://open.spotify.com/track/09Xano9Q7PRllK5t3qk74l) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [THIS IS NOT AN EXIT](https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh) | 3:13 |
 | 163 | [That Other Ship](https://open.spotify.com/track/429JFl9TbL8M4AVEnYy50B) | [Kevin Rudolf](https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL) | [That Other Ship](https://open.spotify.com/album/0H1y4M5oivt7DOMBvV7HNj) | 3:26 |
 | 164 | [Bad Karma](https://open.spotify.com/track/2wukQYZ4iFRYtlWPLGCdLG) | [Jorge Blanco](https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD) | [Bad Karma](https://open.spotify.com/album/5mKk4OvQLooCtzMK8p33Jp) | 3:14 |
 | 165 | [Breathe Easy](https://open.spotify.com/track/2iZks8KE7VceyhmfLAxC0d) | [Timothy James Bowen](https://open.spotify.com/artist/1RbbOX8wvGXfEJ9yFqIxM5) | [Steel & Wood](https://open.spotify.com/album/3oxktdCfpj1tbzELUmu1kf) | 4:24 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 184 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 185 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `AbV03gAAAAD43x1n3tlyvwhfxx/ohiaj`
+Snapshot ID: `AbV6fgAAAADZ3MKFGBhKJ9Lnk+vYY8S+`

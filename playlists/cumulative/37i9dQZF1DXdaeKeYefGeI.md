@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Herman van Veen
 
-167 songs - 10 hr 21 min
+169 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,8 +54,8 @@
 | [Elke Dag](https://open.spotify.com/track/11xhfbAwIjBtionnAFdbNf) | [Ten Sharp](https://open.spotify.com/artist/0ap24Mjt6qlze8v667KlaF) | [Elke Dag](https://open.spotify.com/album/4HdHIIuRPiIvRKCKtfAty5) | 2:59 | 2023-11-16 |  |
 | [Elke Seconde](https://open.spotify.com/track/41Y8FqhbSRNEqsK47Ks7xW) | [Belinda Kinnaer](https://open.spotify.com/artist/3MHjbcGUxFSEHexlD4csSF) | [Elke Seconde](https://open.spotify.com/album/4i6m3BW07pUoAuWd4IFP4c) | 3:43 | 2023-02-10 | 2023-03-18 |
 | [Er Wordt Op Je Gewacht](https://open.spotify.com/track/59L9doBK0VFybuPglXAqzo) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Er Wordt Op Je Gewacht](https://open.spotify.com/album/4b9Jjg3fjdBiZ2EMQzJQWp) | 3:35 | 2023-02-10 |  |
-| [Even voorgoed](https://open.spotify.com/track/4C7Opc7GkOln45lwSUqsaT) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Even voorgoed](https://open.spotify.com/album/0BbM1K1A00wIpkX4H9cq3q) | 3:18 | 2023-02-10 |  |
-| [Geef Je Hart Niet Zomaar Weg](https://open.spotify.com/track/2JPdHwNtkyZCSf2pM6AYMl) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Geef Je Hart Niet Zomaar Weg](https://open.spotify.com/album/6DtVWWZoinuNU1QiUgFMZq) | 4:05 | 2023-02-10 |  |
+| [Even voorgoed](https://open.spotify.com/track/4C7Opc7GkOln45lwSUqsaT) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Even voorgoed](https://open.spotify.com/album/0BbM1K1A00wIpkX4H9cq3q) | 3:18 | 2023-02-10 | 2024-07-06 |
+| [Geef Je Hart Niet Zomaar Weg](https://open.spotify.com/track/2JPdHwNtkyZCSf2pM6AYMl) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Geef Je Hart Niet Zomaar Weg](https://open.spotify.com/album/6DtVWWZoinuNU1QiUgFMZq) | 4:05 | 2023-02-10 | 2024-07-06 |
 | [Geen Ander](https://open.spotify.com/track/0erh8RtDG4siDMHqdixBXf) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Geen Ander](https://open.spotify.com/album/4miPU2jUOXsoUDAtglywn9) | 3:31 | 2023-02-10 | 2023-03-09 |
 | [Geen Kind Meer](https://open.spotify.com/track/4ZMBna8ky5JR1gocyYCiML) | [Karin Bloemen](https://open.spotify.com/artist/7CKdAdmSeZxUgSZqugSkKx) | [Kameleon](https://open.spotify.com/album/7bEv36tsd3IBSvP4TJRDpA) | 4:23 | 2023-02-10 |  |
 | [Geen Kind Meer](https://open.spotify.com/track/50icYQNGHdT8wLoIbMEpix) | [Karin Bloemen](https://open.spotify.com/artist/7CKdAdmSeZxUgSZqugSkKx) | [Kameleon](https://open.spotify.com/album/2BXUEUcVn8LbeQRh18aQfY) | 4:23 | 2023-10-12 | 2024-04-19 |
@@ -101,6 +101,7 @@
 | [Lindeboom](https://open.spotify.com/track/3XEMH6bcN5yI3ALWRwyfcq) | [Brent Beukelaer](https://open.spotify.com/artist/1Ngq1CTE4lYGXg2OBWfhVg) | [Ramen Als Ogen](https://open.spotify.com/album/3aMPLrQQ4vk5VaQie7Pjmj) | 4:09 | 2024-05-31 |  |
 | [Los](https://open.spotify.com/track/35LMuMdS0uonMULXeGfQcV) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW), [Klangstof](https://open.spotify.com/artist/25lIYhqIj0R1AnnmqsTrtO) | [Los](https://open.spotify.com/album/7tzQmiWfCA5vCFaaYMpBog) | 4:02 | 2023-07-20 | 2024-03-05 |
 | [Luie Liefde](https://open.spotify.com/track/4afcjiDL53xe9M7eU4r74E) | [Vreemde Kostgangers](https://open.spotify.com/artist/5uLY3PL1Mrj4kusy2LOXMd) | [Luie Liefde](https://open.spotify.com/album/2zMMiH7rxlW1WbSqT2gsvn) | 3:02 | 2023-02-10 | 2023-04-26 |
+| [Mag Ik Alsjeblieft \(In Het Wiel II\)](https://open.spotify.com/track/7De0CL6kj5lJ2xFtwIBoin) | [Leo Alkemade](https://open.spotify.com/artist/0dhYbvBvHUyhMTeoqwvus1) | [Mag Ik Alsjeblieft \(In Het Wiel II\)](https://open.spotify.com/album/6I5Q1NF4WrhiQf9F2rFpiX) | 3:26 | 2024-07-05 |  |
 | [Mag Ik Dan Bij Jou \( Single Version \)](https://open.spotify.com/track/0iYDkElqY6uu0aw8CzOttm) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Mag Ik Dan Bij Jou \( Single Version \)](https://open.spotify.com/album/64JUrdAAT1Dr57kgqB89KK) | 3:23 | 2024-04-18 |  |
 | [Mag ik dan bij jou \- Single Version](https://open.spotify.com/track/6jXoII9HpQpBvs4mxA7EGT) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Mag ik dan bij jou](https://open.spotify.com/album/6YdAR6x5rHf846m5ZqZscr) | 3:23 | 2023-02-10 | 2024-04-19 |
 | [Mama Kijk Ik Kan Het Zelf](https://open.spotify.com/track/2V3C6CtUJ9kyHuTXKOxSe9) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Mama Kijk Ik Kan Het Zelf](https://open.spotify.com/album/0Q5LstDM9e8UuDhAARTs3H) | 3:38 | 2023-11-09 |  |
@@ -161,6 +162,7 @@
 | [Vreemde Leegte](https://open.spotify.com/track/6lk0guHFQTBYnvWYDstwrU) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Vreemde Leegte](https://open.spotify.com/album/4SRzMDY6F82IOndVDUAwEN) | 4:28 | 2023-02-10 | 2023-04-07 |
 | [Vrouw Van De Dominee \- Live @ Radio Veronica](https://open.spotify.com/track/5Lotjy3vbmJtH0DCIRxSDo) | [Thijs Boontjes](https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei) | [Vrouw van de Dominee \(Live @ Radio Veronica\)](https://open.spotify.com/album/5AC8CHQPpGp4lNjq6NoWZT) | 2:56 | 2023-06-30 | 2023-12-14 |
 | [Wandel Naar Mezelf](https://open.spotify.com/track/2Sy2rs0LePigyLngKdYugM) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Wandel Naar Mezelf](https://open.spotify.com/album/63Z0OfQDfPLmBlqSHLvqp5) | 3:48 | 2023-12-05 | 2024-05-10 |
+| [Wanneer](https://open.spotify.com/track/1cJ5aNJYaGZ9YHfoNacbYi) | [Yentl en de Boer](https://open.spotify.com/artist/5wMKGwFrXxoqKjTfrKOglE) | [Wanneer](https://open.spotify.com/album/2afs03ALxfQetAhXkZeiDu) | 4:01 | 2024-07-05 |  |
 | [Wat Als Later Nu Is](https://open.spotify.com/track/0jYNaO3cN6Fpkxe9VzYCUK) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [‘t Is Mooi Geweest](https://open.spotify.com/album/25TYuXkyQpV3ykpbggkGIj) | 3:38 | 2023-02-10 | 2023-12-14 |
 | [Wat Een Dag](https://open.spotify.com/track/1w5D5Ib5VBJu94v6fyzw6w) | [Nol Havens](https://open.spotify.com/artist/7wPy6YZoLBYA5dBDpXEkqG) | [Wat Een Dag](https://open.spotify.com/album/74retVUCzvEwPP20Z2Jhle) | 2:45 | 2023-02-10 | 2023-03-09 |
 | [Wat rest van je tijd](https://open.spotify.com/track/690HQ2MncCTel24PljUIC9) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Hans Vroomans](https://open.spotify.com/artist/2KvJJ4ntMldtYNia7SvlBb) | [De seizoenen van Legrand](https://open.spotify.com/album/3m5MsIbhHgMi5z2sAdxsvW) | 5:52 | 2023-02-10 | 2023-07-21 |

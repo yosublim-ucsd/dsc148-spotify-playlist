@@ -2389,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "NEE",
+        "url": "https://open.spotify.com/album/5i4gCzAX9Esw9TUo3z2YFf"
+      },
+      "artists": [
+        {
+          "name": "Ahin Viswam",
+          "url": "https://open.spotify.com/artist/53G8vyT2YvzkLOTQoyGJj0"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423502,
+      "name": "NEE",
+      "url": "https://open.spotify.com/track/2DUIq6Pdoqpee0xK6rBrB2"
+    },
+    {
+      "album": {
         "name": "Nee Aara",
         "url": "https://open.spotify.com/album/30y65kQtOzKiEbn7qfbOsA"
       },
@@ -3512,6 +3530,24 @@
       "duration_ms": 157687,
       "name": "Swasamay",
       "url": "https://open.spotify.com/track/2T5iv3yppmAVwU9RduQOHe"
+    },
+    {
+      "album": {
+        "name": "Swayam",
+        "url": "https://open.spotify.com/album/0r8LXn3TVf4SqohQUbARZa"
+      },
+      "artists": [
+        {
+          "name": "Ananthu Gopi",
+          "url": "https://open.spotify.com/artist/5SaT26rmsIGokgh2ZpxNnd"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172777,
+      "name": "Swayam",
+      "url": "https://open.spotify.com/track/3iCpruRKrLLcTKdCOMr9yp"
     },
     {
       "album": {

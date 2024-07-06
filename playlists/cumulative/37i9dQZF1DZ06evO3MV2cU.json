@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 267066,
       "name": "Amazing Grace (My Chains Are Gone)",
       "url": "https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 192980,
       "name": "As For Me (feat. Chris Tomlin)",
       "url": "https://open.spotify.com/track/1XFbNf7O1xycvXDZiO8NsK"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 208053,
       "name": "Chase Me Down (feat. RaeLynn)",
       "url": "https://open.spotify.com/track/4PVt0PcZyI61mCuwMdvtzy"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 299786,
       "name": "Come Thou Fount (I Will Sing)",
       "url": "https://open.spotify.com/track/2aVWXW3JC6MHK5TzwrezIZ"
@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Pour Over Me - Worship Together Live 2001",
+        "url": "https://open.spotify.com/album/154cvVNb9uaBEqztlz6rmv"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338026,
+      "name": "Give Us Clean Hands - Pour Over Me Album Version",
+      "url": "https://open.spotify.com/track/2jjyMzq3pvknVSBeSzjck6"
+    },
+    {
+      "album": {
         "name": "Hello Love",
         "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
       },
@@ -436,7 +454,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 293398,
       "name": "Good Good Father",
       "url": "https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB"
@@ -458,7 +476,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 264923,
       "name": "Good Good Father",
       "url": "https://open.spotify.com/track/1l6Ffi07jIzh5DquHPf7a3"
@@ -794,7 +812,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 257240,
       "name": "I Stand In Awe",
       "url": "https://open.spotify.com/track/1tlyPIx6lL2g4Em8JbHDcR"
@@ -830,7 +848,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 301240,
       "name": "I Will Rise",
       "url": "https://open.spotify.com/track/0BP0JHEeYVZZsyngW4Uc1x"
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 285160,
       "name": "Our God",
       "url": "https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp"
@@ -1084,7 +1102,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 302048,
       "name": "Precious Love - Live",
       "url": "https://open.spotify.com/track/1sWYM9HHpUX0UMTUETzLMH"
@@ -1208,7 +1226,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 168693,
       "name": "Thank You Lord (feat. Thomas Rhett & Florida Georgia Line)",
       "url": "https://open.spotify.com/track/1k9dLBzwep1k1eGP0Ec8ZK"
@@ -1362,7 +1380,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 348750,
       "name": "What A Beautiful Name",
       "url": "https://open.spotify.com/track/7yeslH8Y5kwAVJyxK7AqIt"
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 290633,
       "name": "YAHWEH (No One) (with Elevation Worship)",
       "url": "https://open.spotify.com/track/2ooZId1w8kz1FWe3WOT0iM"

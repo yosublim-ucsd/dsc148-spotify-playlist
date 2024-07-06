@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Tomo Como Rey en portada.",
-  "num_followers": 461966,
+  "num_followers": 462022,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "Salon Victoria",
+        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
+      },
+      "artists": [
+        {
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
+        }
+      ],
+      "duration_ms": 183480,
+      "name": "Mi Vida es un Tango",
+      "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "L\u00e1grimas y Risas",
         "url": "https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 233253,
       "name": "Ciegos de Amor",
       "url": "https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "Salon Victoria",
-        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
-      },
-      "artists": [
-        {
-          "name": "Salon Victoria",
-          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
-        }
-      ],
-      "duration_ms": 183480,
-      "name": "Mi Vida es un Tango",
-      "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Contigo Me Encontr\u00e9",
-        "url": "https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0"
-      },
-      "artists": [
-        {
-          "name": "Negros Vivos",
-          "url": "https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "Contigo Me Encontr\u00e9",
-      "url": "https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Batuco",
         "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 328680,
       "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
       "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Contigo Me Encontr\u00e9",
+        "url": "https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0"
+      },
+      "artists": [
+        {
+          "name": "Negros Vivos",
+          "url": "https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ"
+        }
+      ],
+      "duration_ms": 202946,
+      "name": "Contigo Me Encontr\u00e9",
+      "url": "https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "El \u00c1tico",
-        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "El \u00c1tico",
-      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Mugre",
         "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
       },
@@ -1363,22 +1347,18 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Alo con las islas mutantes?",
-        "url": "https://open.spotify.com/album/5YB4gdMdAM0HbRqPhLBRwM"
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
       },
       "artists": [
         {
-          "name": "La Floripondio",
-          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
-        },
-        {
-          "name": "Colombina Parra",
-          "url": "https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk"
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
         }
       ],
-      "duration_ms": 187792,
-      "name": "Entre fantasmas",
-      "url": "https://open.spotify.com/track/5B5uRoFjvNL5ydjgOjzgKd"
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1415,6 +1395,26 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "Alo con las islas mutantes?",
+        "url": "https://open.spotify.com/album/5YB4gdMdAM0HbRqPhLBRwM"
+      },
+      "artists": [
+        {
+          "name": "La Floripondio",
+          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
+        },
+        {
+          "name": "Colombina Parra",
+          "url": "https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk"
+        }
+      ],
+      "duration_ms": 187792,
+      "name": "Entre fantasmas",
+      "url": "https://open.spotify.com/track/5B5uRoFjvNL5ydjgOjzgKd"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "Don't Worry Be Happy",
         "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
       },
@@ -1443,22 +1443,6 @@
       "duration_ms": 137000,
       "name": "La Ca\u00edda y la Gloria",
       "url": "https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "Chamuyo",
-        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 190580,
-      "name": "Caras y Caretas",
-      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1495,6 +1479,22 @@
       "duration_ms": 218750,
       "name": "Paz y Baile",
       "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Chamuyo",
+        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 190580,
+      "name": "Caras y Caretas",
+      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1547,6 +1547,22 @@
       "duration_ms": 142252,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/1lY9ZV5TaqoNsFCr3Mm26b"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Este Ritmo",
+        "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
+      },
+      "artists": [
+        {
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+        }
+      ],
+      "duration_ms": 167128,
+      "name": "Este Ritmo",
+      "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Este Ritmo",
-        "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
-      },
-      "artists": [
-        {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
-        }
-      ],
-      "duration_ms": 167128,
-      "name": "Este Ritmo",
-      "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Inflammable",
         "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Mariposa",
-        "url": "https://open.spotify.com/album/4LnnHaLA7KByCKgrcyNtFc"
-      },
-      "artists": [
-        {
-          "name": "Girls Go Ska",
-          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Mariposa",
-      "url": "https://open.spotify.com/track/156aNcRPFoLlW2WzpD8apD"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Somos amigos",
         "url": "https://open.spotify.com/album/1CQJiErOJUYIbdh3ZcHqxJ"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 190147,
       "name": "Somos amigos",
       "url": "https://open.spotify.com/track/6V3zMRLRCSOQtAJG8wVybk"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/4LnnHaLA7KByCKgrcyNtFc"
+      },
+      "artists": [
+        {
+          "name": "Girls Go Ska",
+          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/156aNcRPFoLlW2WzpD8apD"
     },
     {
       "added_at": "2024-06-28 06:00:00",

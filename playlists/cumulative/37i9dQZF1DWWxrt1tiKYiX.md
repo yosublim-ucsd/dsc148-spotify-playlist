@@ -2,7 +2,7 @@
 
 ### [Acoustic Pop](https://open.spotify.com/playlist/37i9dQZF1DWWxrt1tiKYiX)
 
-> Lovely, acoustic pop\. Cover: Liana Flores
+> Lovely, acoustic pop\. Cover: Taylor Swift
 
 258 songs - 14 hr 15 min
 

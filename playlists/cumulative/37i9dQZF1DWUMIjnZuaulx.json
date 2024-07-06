@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:3NYwlCIjzmWwNdLPGT9UV8\">Phil Thompson</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:3qfrrrSO7utFdJkM2tvMRb\">CeCe Winans</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 301327,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1vFtgxUCHSk5dlAptuyKpb"
@@ -2941,6 +2941,24 @@
     },
     {
       "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/5R7bp4VDiSkXWd7BfW1BiW"
+      },
+      "artists": [
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253074,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/0RamNJ3yMsYouJLTFBCgX5"
+    },
+    {
+      "album": {
         "name": "Great",
         "url": "https://open.spotify.com/album/0Bqdy5R3spCEiCDrptDziq"
       },
@@ -3258,6 +3276,24 @@
       "duration_ms": 302577,
       "name": "He Kept Me - Live",
       "url": "https://open.spotify.com/track/3q5Btikwq1dKZxNica2gch"
+    },
+    {
+      "album": {
+        "name": "History Maker",
+        "url": "https://open.spotify.com/album/03qCZLGriMk5hOHdzQj2U9"
+      },
+      "artists": [
+        {
+          "name": "Chris Morgan",
+          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348891,
+      "name": "He loves me",
+      "url": "https://open.spotify.com/track/6EV96sGoOXaj6P6W2gLrNu"
     },
     {
       "album": {
@@ -6368,7 +6404,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 236000,
       "name": "Miracles Signs & Wonders - Radio Edit",
       "url": "https://open.spotify.com/track/7uxkNadLgW6di2LPOPUX2L"
@@ -6426,7 +6462,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 499250,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/2kmucvuH6lJzDpvd5QXHWG"
@@ -6532,7 +6568,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 341986,
       "name": "My Tribute (To God Be The Glory)",
       "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
@@ -6918,6 +6954,24 @@
       "duration_ms": 268625,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
+    },
+    {
+      "album": {
+        "name": "Nobody Can Take It",
+        "url": "https://open.spotify.com/album/4TTwu8jBdghzgoOLimQjpl"
+      },
+      "artists": [
+        {
+          "name": "Rudy Currence",
+          "url": "https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179728,
+      "name": "Nobody Can Take It",
+      "url": "https://open.spotify.com/track/7yDmnwq3n1bwBMmOIRDRlG"
     },
     {
       "album": {
@@ -7670,7 +7724,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 275620,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/6YlAikG2vnFgcMO4tfijub"
@@ -8994,6 +9048,24 @@
       "duration_ms": 710916,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j"
+    },
+    {
+      "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251155,
+      "name": "That's My King",
+      "url": "https://open.spotify.com/track/7HyTL3DCYAjRiPwWcWaT8x"
     },
     {
       "album": {
@@ -10380,6 +10452,24 @@
       "duration_ms": 337603,
       "name": "What Shall I Fear",
       "url": "https://open.spotify.com/track/2e6HRXAIjm8MZB5iiuvT1Y"
+    },
+    {
+      "album": {
+        "name": "What You Say",
+        "url": "https://open.spotify.com/album/5lAQXXoTAz4GVwYxLsjuVw"
+      },
+      "artists": [
+        {
+          "name": "Jay Todd",
+          "url": "https://open.spotify.com/artist/5MsEDRnwrD69LtmZuBtu3A"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293149,
+      "name": "What You Say",
+      "url": "https://open.spotify.com/track/1XtXq1jLfniQvKaMq3mrl4"
     },
     {
       "album": {

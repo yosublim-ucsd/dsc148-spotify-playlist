@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-232 songs - 13 hr 34 min
+233 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Peach Sky](https://open.spotify.com/track/7ljGNojZOWRrCii8npbf0g) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Lost Girls](https://open.spotify.com/album/21pLZkjJiP0zaFve7FJ8wq) | 4:34 | 2024-03-07 |  |
 | [people like you](https://open.spotify.com/track/28bqKJ8P2akWe6Q1hf3x37) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:32 | 2024-03-07 |  |
 | [Perfect](https://open.spotify.com/track/7zRObPOHA0tWMYTAxLudmA) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:53 | 2024-03-07 |  |
-| [Perfect Magnitude](https://open.spotify.com/track/7t1fjw7oIwDzMAmiLR2nDc) | [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Fantasy & Facts](https://open.spotify.com/album/70gaiI4hthpS7Ef5uo8C2h) | 4:31 | 2024-03-07 |  |
+| [Perfect Magnitude](https://open.spotify.com/track/34h3eIajAp6WsJPQzYkF58) | [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Fantasy & Facts](https://open.spotify.com/album/6HtKBTMCxQKy9jPnuVd6vl) | 4:31 | 2024-07-05 |  |
+| [Perfect Magnitude](https://open.spotify.com/track/7t1fjw7oIwDzMAmiLR2nDc) | [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Fantasy & Facts](https://open.spotify.com/album/70gaiI4hthpS7Ef5uo8C2h) | 4:31 | 2024-03-07 | 2024-07-06 |
 | [Perfect to Me](https://open.spotify.com/track/0DC7Zs2qvAbNK1owWQ4mlL) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Perfect to Me](https://open.spotify.com/album/53WGU9U5hmgWPUdfNitaVO) | 3:17 | 2024-03-07 |  |
 | [pixie dust](https://open.spotify.com/track/3lh4K4ksY84ATTQNbcTg4u) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for pixie](https://open.spotify.com/album/5dLZH32QBSqkcHhJxHTqb6) | 2:08 | 2024-03-07 |  |
 | [Play Date](https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 2:59 | 2024-03-07 |  |

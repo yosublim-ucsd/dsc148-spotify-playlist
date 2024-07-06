@@ -2,9 +2,9 @@
 
 ### [Electro Corridos](https://open.spotify.com/playlist/37i9dQZF1DX0J2sZQ1dV6f)
 
-> Bien alucin con el electro, perreo y el dembow belico\. La nueva ola de la fiesta\. Cover: Sangre X Sangre & Joe Parra
+> Bien alucin con el electro, perreo y el dembow belico\. La nueva ola de la fiesta\. Cover: Luis R Conriquez, Deorro & Tony Aguirre
 
-466 songs - 1 day 0 hr 3 min
+467 songs - 1 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [DEMBOW BÉLICO](https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DEMBOW BÉLICO](https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL) | 2:06 | 2023-12-06 |  |
 | [Dembow Freson](https://open.spotify.com/track/2BHYDz6p7INj1sPE9n2bK9) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Dembow Freson](https://open.spotify.com/album/3HnSkevqtdilqq6kWnEw7n) | 2:08 | 2024-01-21 |  |
 | [Dembow Zumba La Srt](https://open.spotify.com/track/0Pqo8dMSWl0FTHSqcrZlgB) | [Skrapy](https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP), [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4), [Daniell Garcia](https://open.spotify.com/artist/3fvumtKq3FVLeZghusG1R1) | [Dembow Zumba La Srt](https://open.spotify.com/album/50vUKq806a2UejX9FCVGwz) | 3:00 | 2023-12-06 |  |
+| [Derecha la Flecha](https://open.spotify.com/track/1cJZroCncDlIhRoXEilZKz) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Derecha la Flecha](https://open.spotify.com/album/0gmbTKhvRzJEXPw5DSNglp) | 3:20 | 2024-07-05 |  |
 | [Descontrol](https://open.spotify.com/track/32P1jzQQ8K3zp97AirjLFG) | [El Abelito](https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Descontrol](https://open.spotify.com/album/6DRs1wUbne7sb2hBxMxIah) | 2:34 | 2024-03-22 |  |
 | [Deseándote](https://open.spotify.com/track/5Vs8sN2nybAETsTF8crpYD) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Deseándote](https://open.spotify.com/album/3YQ4tM0jt6aKIn2JN1P99u) | 3:03 | 2023-04-03 | 2023-05-26 |
 | [Después Del Party](https://open.spotify.com/track/4AanOfVKkQKYRe4nbcaVaG) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 2:42 | 2023-07-07 | 2023-12-07 |
@@ -201,7 +202,7 @@
 | [Jordan](https://open.spotify.com/track/2rDZhKnPaPG054ExZ6nXUS) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/1GuZxmifdAu3zq2189iT5M) | 2:56 | 2022-04-19 | 2022-07-29 |
 | [Jordan](https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI) | 2:56 | 2022-07-28 | 2023-05-26 |
 | [JUNGLE](https://open.spotify.com/track/3monFIRNCDt9we37DDvCCK) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [JUNGLE](https://open.spotify.com/album/6XromBO32uhidY3LWZORO1) | 2:54 | 2022-07-08 | 2023-05-26 |
-| [Jálale alv](https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Jálale alv](https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY) | 1:49 | 2024-05-03 |  |
+| [Jálale alv](https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Jálale alv](https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY) | 1:49 | 2024-05-03 | 2024-07-06 |
 | [Kachin](https://open.spotify.com/track/6mhWPv4qu7hBmBZlRs5vza) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Kachin](https://open.spotify.com/album/2pN1aM6Qq2mTsoHO1VosvY) | 2:22 | 2022-12-07 | 2023-04-18 |
 | [Kaleidoscópica](https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:34 | 2022-12-07 | 2023-12-07 |
 | [KATY PERRY](https://open.spotify.com/track/7F9wULTYG7mrp7bykMoU2K) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Sheeno](https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO) | [KATY PERRY](https://open.spotify.com/album/0ZwHrjXLSKASw5RRvJK01t) | 2:35 | 2024-02-24 |  |

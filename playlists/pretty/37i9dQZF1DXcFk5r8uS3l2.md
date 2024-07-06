@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,872 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,935 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heartshine](https://open.spotify.com/track/53bgRTz4YRHfTkVAwfYWDc) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Heartshine](https://open.spotify.com/album/6l3sHGhVV31YItfJP6lHTq) | 4:49 |
-| 2 | [Devil That You Know](https://open.spotify.com/track/5ax26o9wSrvrG6qN3fy9e0) | [Emma Elena Grace](https://open.spotify.com/artist/1Mc3xsFMKi5eXRqNbUq1Wc) | [Devil That You Know](https://open.spotify.com/album/6j19OocI2RQsxz9waAgqB4) | 3:18 |
-| 3 | [Let's Walk](https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Let's Walk](https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz) | 4:52 |
-| 4 | [Peaches](https://open.spotify.com/track/2lnnBOiuEgoVpvHx5enMTe) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Peaches](https://open.spotify.com/album/6dv2y76f9gdKEfbfXJKMGU) | 5:05 |
-| 5 | [Gotta Believe \- with The Blind Boys Of Alabama](https://open.spotify.com/track/49mG3SEU4SwUysCslef0me) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda), [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Gotta Believe \(with The Blind Boys Of Alabama\)](https://open.spotify.com/album/0Mf6PSdMNaPgO0EBejws7x) | 3:41 |
-| 6 | [You Still Got Me \- Edit](https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [You Still Got Me](https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi) | 4:20 |
-| 7 | [Whom I Adore](https://open.spotify.com/track/0KyEGhg4AcfSuMrgPjMdEc) | [Oliver Wood](https://open.spotify.com/artist/74evjLDRTaA6Fz6s2rHudU) | [Fat Cat Silhouette](https://open.spotify.com/album/1yfKoTH7qutAxGbjpZGHJs) | 2:55 |
-| 8 | [What I Wouldn't Do](https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C) | [Shantaia](https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T) | [What I Wouldn't Do](https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A) | 3:09 |
-| 9 | [Fresh Bones](https://open.spotify.com/track/5TDEy1qTEFWwdWTZ9K9v3p) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [Fresh Bones](https://open.spotify.com/album/5YVPNyHgApTTHosueEDxEZ) | 3:14 |
+| 2 | [Monsoon Lightning](https://open.spotify.com/track/2amxmJp83GsKX3tS3GkBFo) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3), [Tom Walbank](https://open.spotify.com/artist/6Ju4WiHeO57mAP7iEUFfCw) | [Monsoon Lightning](https://open.spotify.com/album/7ELb0B6hRV0GO0U4e7BBpN) | 4:23 |
+| 3 | [Devil That You Know](https://open.spotify.com/track/5ax26o9wSrvrG6qN3fy9e0) | [Emma Elena Grace](https://open.spotify.com/artist/1Mc3xsFMKi5eXRqNbUq1Wc) | [Devil That You Know](https://open.spotify.com/album/6j19OocI2RQsxz9waAgqB4) | 3:18 |
+| 4 | [Let's Walk](https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Let's Walk](https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz) | 4:52 |
+| 5 | [Peaches](https://open.spotify.com/track/2lnnBOiuEgoVpvHx5enMTe) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Peaches](https://open.spotify.com/album/6dv2y76f9gdKEfbfXJKMGU) | 5:05 |
+| 6 | [Gotta Believe \- with The Blind Boys Of Alabama](https://open.spotify.com/track/49mG3SEU4SwUysCslef0me) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda), [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Gotta Believe \(with The Blind Boys Of Alabama\)](https://open.spotify.com/album/0Mf6PSdMNaPgO0EBejws7x) | 3:41 |
+| 7 | [You Still Got Me \- Edit](https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [You Still Got Me](https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi) | 4:20 |
+| 8 | [Whom I Adore](https://open.spotify.com/track/0KyEGhg4AcfSuMrgPjMdEc) | [Oliver Wood](https://open.spotify.com/artist/74evjLDRTaA6Fz6s2rHudU) | [Fat Cat Silhouette](https://open.spotify.com/album/1yfKoTH7qutAxGbjpZGHJs) | 2:55 |
+| 9 | [What I Wouldn't Do](https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C) | [Shantaia](https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T) | [What I Wouldn't Do](https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A) | 3:09 |
 | 10 | [The Line](https://open.spotify.com/track/46qU3BOdKfXI4LSSGxAw4D) | [Bryan Elijah Smith](https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre) | [The Line](https://open.spotify.com/album/0X4aStSXiLUG7HOVng0A51) | 2:34 |
 | 11 | [Hole](https://open.spotify.com/track/2jZcVKNkG5JMAXSRDumflt) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Hole](https://open.spotify.com/album/3pu464f772FhbYLE5KaYlk) | 3:53 |
 | 12 | [Leave the Light On](https://open.spotify.com/track/4smQ0i6j6gH4Yly2qUcuqZ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Leave The Light On](https://open.spotify.com/album/0XzophZTU9CMVqTudEZVWo) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 99 | [Freedom Road](https://open.spotify.com/track/5zRlD6bPTJI0zBvqMJ2H95) | [Indra Rios\-Moore](https://open.spotify.com/artist/43WX6yWKK6qAqKCr2d3yw9) | [Freedom Road](https://open.spotify.com/album/3fN5DXHpo9ut4TmVAouTRG) | 3:43 |
 | 100 | [How Deep Is Your Love](https://open.spotify.com/track/5O7oXGr6wariuJbTNNX4oy) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [How Deep Is Your Love](https://open.spotify.com/album/4p2PP3RIx6tghBjEJZurTh) | 4:08 |
 
-Snapshot ID: `Zn41QAAAAAAT9gJBmwxqdrG0Nnqxs6uv`
+Snapshot ID: `ZodvwAAAAAD9TAgiw9xqs0CGMMVrTHsL`

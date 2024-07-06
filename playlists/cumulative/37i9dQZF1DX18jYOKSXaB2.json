@@ -386,7 +386,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 161632,
       "name": "Bucket List",
       "url": "https://open.spotify.com/track/7fnH0BHcOanXLbaPOFW5AA"
@@ -444,7 +444,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 156226,
       "name": "Carry Am Go",
       "url": "https://open.spotify.com/track/56QegwkRucsEi48LrPhfUc"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 225517,
       "name": "For You",
       "url": "https://open.spotify.com/track/3225yFOItlcXiJOl2hURor"
@@ -1234,6 +1234,50 @@
       "duration_ms": 174178,
       "name": "Look What You Made Me Do (with Simi)",
       "url": "https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w"
+    },
+    {
+      "album": {
+        "name": "Looking for God",
+        "url": "https://open.spotify.com/album/6mPOuVIBfjt3Qj8DySayjZ"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Looking for God",
+      "url": "https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M"
+    },
+    {
+      "album": {
+        "name": "Lose",
+        "url": "https://open.spotify.com/album/5Npbu5A0KNYnf51FsRZ8Sz"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230124,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/0QQCiP9RQJXn5FhibrS9mf"
     },
     {
       "album": {
@@ -1714,6 +1758,32 @@
       "duration_ms": 133592,
       "name": "Oshe",
       "url": "https://open.spotify.com/track/5IPbL3A6dxajsR5VAlNkuN"
+    },
+    {
+      "album": {
+        "name": "Oshimiri",
+        "url": "https://open.spotify.com/album/1POl3m0J5qgozQW5kTvhnP"
+      },
+      "artists": [
+        {
+          "name": "RAGEE",
+          "url": "https://open.spotify.com/artist/0mjNWMrcydC0CNQWBwjDuu"
+        },
+        {
+          "name": "Logos olori",
+          "url": "https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156029,
+      "name": "Oshimiri",
+      "url": "https://open.spotify.com/track/7CX3rEmKtC54tx6sOuLicM"
     },
     {
       "album": {
@@ -2386,7 +2456,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 188000,
       "name": "Winner",
       "url": "https://open.spotify.com/track/0Bmw1fmFi01PvyIKT0akqt"
@@ -2462,6 +2532,28 @@
       "duration_ms": 198058,
       "name": "World In My Hands",
       "url": "https://open.spotify.com/track/5bYIDjsBb5mjKQdNfFj0fJ"
+    },
+    {
+      "album": {
+        "name": "Qing Madi (Deluxe)",
+        "url": "https://open.spotify.com/album/4vxIotduGifC33fGSfxxom"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195789,
+      "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
+      "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
     },
     {
       "album": {

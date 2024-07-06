@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 136000,
       "name": "CISTAK",
       "url": "https://open.spotify.com/track/4KwetoJ2Hi9KN0K0oIcWNE"
@@ -3458,7 +3458,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 72046,
       "name": "Get Wrecked 2024 Tool",
       "url": "https://open.spotify.com/track/6AObZNK4BuQNWMUVdDqzr3"
@@ -4800,7 +4800,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 145846,
       "name": "it boy",
       "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
@@ -5070,7 +5070,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 130660,
       "name": "JUNGE BALLER",
       "url": "https://open.spotify.com/track/29vCE5UzdE8dzcJWbG2CsK"
@@ -7217,6 +7217,24 @@
     },
     {
       "album": {
+        "name": "Oeh La La La",
+        "url": "https://open.spotify.com/album/3eqMMJ4hL9SWBMqBB2LL5Q"
+      },
+      "artists": [
+        {
+          "name": "Camille",
+          "url": "https://open.spotify.com/artist/2aV2tpJtR55vg19SxBJvNs"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174998,
+      "name": "Oeh La La La",
+      "url": "https://open.spotify.com/track/5RAlu64yzBj0qXJqKxxMH6"
+    },
+    {
+      "album": {
         "name": "D\u00e9cennie",
         "url": "https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA"
       },
@@ -9220,7 +9238,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"

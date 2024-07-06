@@ -1650,7 +1650,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 287319,
       "name": "LESTARI MERDU",
       "url": "https://open.spotify.com/track/4SehVxkRW1gi0mOPCvxlmi"
@@ -2312,6 +2312,28 @@
       "duration_ms": 238000,
       "name": "Sampai Kapan",
       "url": "https://open.spotify.com/track/2yhr89m0E7V16xOB3fRdF1"
+    },
+    {
+      "album": {
+        "name": "Kuingin",
+        "url": "https://open.spotify.com/album/4ETmD2ooVCjpVhjNNBNuUG"
+      },
+      "artists": [
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        },
+        {
+          "name": "The Groove",
+          "url": "https://open.spotify.com/artist/4k9NyPZz7zajxboTKM17qa"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Satu Mimpiku",
+      "url": "https://open.spotify.com/track/34M7BB5zhcLbuXec2Mbggv"
     },
     {
       "album": {

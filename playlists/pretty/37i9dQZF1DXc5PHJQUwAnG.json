@@ -1,15 +1,87 @@
 {
   "description": "Bienvenidx a la trampa mexa. Peso Pluma y Arc\u00e1ngel en portada.",
-  "num_followers": 164926,
+  "num_followers": 164942,
   "original_name": "TRAPPERZ_MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn5RYAAAAAA9UZNNd7R4yhoQrURQkrdU",
+  "snapshot_id": "ZoeL4AAAAADr+rtiOwAqJih0d/VYgRQS",
   "tracks": [
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Estilo B\u00e9lico",
+        "url": "https://open.spotify.com/album/2b3HWNfnGhehOzAdz9QEGh"
+      },
+      "artists": [
+        {
+          "name": "Riky Produce",
+          "url": "https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c"
+        },
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "Royal Religion",
+          "url": "https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Estilo B\u00e9lico",
+      "url": "https://open.spotify.com/track/4N2QWDCHXmLNQX94TxUc8s"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Canci\u00f3n para Sentirte Trillonario",
+        "url": "https://open.spotify.com/album/4gxARTSSjoyfSZ75hhiiLs"
+      },
+      "artists": [
+        {
+          "name": "El HueyCoyote",
+          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
+        }
+      ],
+      "duration_ms": 78110,
+      "name": "Canci\u00f3n para Sentirte Trillonario",
+      "url": "https://open.spotify.com/track/04ikA7z7scbinLvcpem6aV"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "La Perrada de la R",
+        "url": "https://open.spotify.com/album/3mEa2RTqTJF4oMJ2UpwocX"
+      },
+      "artists": [
+        {
+          "name": "Proceder Elegante",
+          "url": "https://open.spotify.com/artist/31I3LvGAhnvpBqv5YRkxbO"
+        }
+      ],
+      "duration_ms": 170175,
+      "name": "La Perrada de la R",
+      "url": "https://open.spotify.com/track/2rfhYUlnrj8d9NvOMfiAl4"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Quehacer",
+        "url": "https://open.spotify.com/album/2iEKSHSVMbOBmjkN6osGBc"
+      },
+      "artists": [
+        {
+          "name": "El HueyCoyote",
+          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
+        }
+      ],
+      "duration_ms": 83928,
+      "name": "Quehacer",
+      "url": "https://open.spotify.com/track/2ApMbu401bqRcFYUgmSP7J"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
@@ -25,7 +97,7 @@
       "url": "https://open.spotify.com/track/7s0YftbAtOPmkyWKjq6HA0"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
@@ -45,7 +117,7 @@
       "url": "https://open.spotify.com/track/3HQztiNynPPCCuowUnKoVR"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Batman",
         "url": "https://open.spotify.com/album/5TNCzVBiupKDj6GxrqYkdl"
@@ -65,7 +137,7 @@
       "url": "https://open.spotify.com/track/6IMklja7dz3LwuwUdQB90j"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Enamorado",
         "url": "https://open.spotify.com/album/0Wa49PwMchDyJEvgZPr717"
@@ -81,39 +153,7 @@
       "url": "https://open.spotify.com/track/2IdUAUcoL8cFx1NQ2HjOzx"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "Canci\u00f3n para Sentirte Trillonario",
-        "url": "https://open.spotify.com/album/4gxARTSSjoyfSZ75hhiiLs"
-      },
-      "artists": [
-        {
-          "name": "El HueyCoyote",
-          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
-        }
-      ],
-      "duration_ms": 78110,
-      "name": "Canci\u00f3n para Sentirte Trillonario",
-      "url": "https://open.spotify.com/track/04ikA7z7scbinLvcpem6aV"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "Quehacer",
-        "url": "https://open.spotify.com/album/2iEKSHSVMbOBmjkN6osGBc"
-      },
-      "artists": [
-        {
-          "name": "El HueyCoyote",
-          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
-        }
-      ],
-      "duration_ms": 83928,
-      "name": "Quehacer",
-      "url": "https://open.spotify.com/track/2ApMbu401bqRcFYUgmSP7J"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Ley",
         "url": "https://open.spotify.com/album/6JKceCR3CnqGKED0hh4GhQ"
@@ -133,7 +173,7 @@
       "url": "https://open.spotify.com/track/2TP2opBAwygF1xSxcsMicJ"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "A-U",
         "url": "https://open.spotify.com/album/4zdR0F7ObL8gknjwFEwMSx"
@@ -157,7 +197,7 @@
       "url": "https://open.spotify.com/track/36OkCaR2ZzDPGmOoiZP6TB"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "De Por Vida",
         "url": "https://open.spotify.com/album/0SD5803nMitaFCZFliaktr"
@@ -181,7 +221,7 @@
       "url": "https://open.spotify.com/track/5ykrkjleDzZWCmkTkWoN8h"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Intenso",
         "url": "https://open.spotify.com/album/0juH0Sa9FvydmIhNkH6pcR"
@@ -205,7 +245,7 @@
       "url": "https://open.spotify.com/track/65ZgdkDdwZhHndW9QXxnVy"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Fuk on Me! (Look At Me!)",
         "url": "https://open.spotify.com/album/0Q7YfXN6pPH8fjJfnf6upc"
@@ -221,7 +261,7 @@
       "url": "https://open.spotify.com/track/5a2FnwjgYsaLbjZi9PpHVs"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Tony",
         "url": "https://open.spotify.com/album/4IfuSLPsg6F3ETOwH5D0PM"
@@ -237,7 +277,7 @@
       "url": "https://open.spotify.com/track/0C2qHMVmcdUnl5EkptgHYq"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Tirando Flow Sesh #10",
         "url": "https://open.spotify.com/album/5znfD7f3uRb1UMbrMDV3OQ"
@@ -257,7 +297,7 @@
       "url": "https://open.spotify.com/track/6WmCmQuse2SjjSVab5EHxg"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Lo Necesario",
         "url": "https://open.spotify.com/album/7oFDq5F8UqiT8u8FDNZT5e"
@@ -273,7 +313,7 @@
       "url": "https://open.spotify.com/track/5flMyPH1w2R5arUxk0M17u"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "LPKD",
         "url": "https://open.spotify.com/album/20r8i6Yz3WKZHp0FKwIUJt"
@@ -289,7 +329,7 @@
       "url": "https://open.spotify.com/track/5eo4xwCfGFqwCUyIatfe61"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "I DON'T WANNA WAIT FOR YOU (I AIN'T GOT TIME FOR THIS)",
         "url": "https://open.spotify.com/album/2DABF8pvSgOTvrwOUnjNXw"
@@ -305,7 +345,7 @@
       "url": "https://open.spotify.com/track/6N0G1FI0nwofcMKgvAnRjZ"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "LowKey",
         "url": "https://open.spotify.com/album/0WK2yQv2NmyLwVhMnXFfyi"
@@ -325,7 +365,7 @@
       "url": "https://open.spotify.com/track/4Nxcy0GtAANYDmCiLdUcWz"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "PESAO",
         "url": "https://open.spotify.com/album/0VtOM9LzN2iiraItSi4vYM"
@@ -345,7 +385,7 @@
       "url": "https://open.spotify.com/track/4J1Wu4oFT34P67r0186HyF"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "PESO COMPLETO",
         "url": "https://open.spotify.com/album/0omumEPaOKxBunEn2xh0zQ"
@@ -365,7 +405,7 @@
       "url": "https://open.spotify.com/track/1nCXy1RQQYMgt97DO8uCSI"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "AL0NE",
         "url": "https://open.spotify.com/album/2oIpRFI1k4yB32XD5Q0gDf"
@@ -385,7 +425,7 @@
       "url": "https://open.spotify.com/track/54Jk6726TvuuUFrhWnTicw"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "PUNTOS",
         "url": "https://open.spotify.com/album/616dHklJ46HJ21QkvVlGBm"
@@ -405,7 +445,7 @@
       "url": "https://open.spotify.com/track/3GhUDC9368DncApQHAkaOS"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Liga TBL",
         "url": "https://open.spotify.com/album/73F23hRNRDBJP6a5lDZyG9"
@@ -425,7 +465,7 @@
       "url": "https://open.spotify.com/track/0nTlOipvjslhH7xWMYdqq6"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Fashion Luv",
         "url": "https://open.spotify.com/album/02n7xATM34AtXmD43Rq9z6"
@@ -449,7 +489,7 @@
       "url": "https://open.spotify.com/track/1bYGyj9s8QPkWXDyFb8Wrt"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "PRIME",
         "url": "https://open.spotify.com/album/1hlnHah6JN4IY9iLYXBdW3"
@@ -465,7 +505,7 @@
       "url": "https://open.spotify.com/track/40B5xLuQP0FLWQ8po13oM0"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "UNAVAILABLE",
         "url": "https://open.spotify.com/album/1V0GjvkmCE7czHgKxPVQOE"
@@ -481,23 +521,7 @@
       "url": "https://open.spotify.com/track/4brASkg3m8bst9RzQ6fisd"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "Tengo Fr\u00edo",
-        "url": "https://open.spotify.com/album/7cJhAmLJgBmbITITIMbNFT"
-      },
-      "artists": [
-        {
-          "name": "Alak",
-          "url": "https://open.spotify.com/artist/0lnmuoifLjmlIHwd7H5AS1"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Tengo Fr\u00edo",
-      "url": "https://open.spotify.com/track/2IzzKncuaSUNIRzUnipykn"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
         "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
@@ -517,7 +541,7 @@
       "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "fa$hion killa",
         "url": "https://open.spotify.com/album/5UfL0JnWie1XjTqmPhf8R8"
@@ -533,7 +557,7 @@
       "url": "https://open.spotify.com/track/64KyVkOxuptx0T5ecVZdfP"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "SI SUPIERAN",
         "url": "https://open.spotify.com/album/2NVuqgsSST2qewvGLnQ3mC"
@@ -557,7 +581,7 @@
       "url": "https://open.spotify.com/track/3yRod1EQrsP5s4poDmk68M"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Sin Juegos",
         "url": "https://open.spotify.com/album/4JbhwXdwoOKh1QVciPa4bK"
@@ -577,7 +601,7 @@
       "url": "https://open.spotify.com/track/2E2CFvW68tL9GKauv9XTct"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Sed de Ganar",
         "url": "https://open.spotify.com/album/5InhJktEVmsMZMjs3btorG"
@@ -597,7 +621,7 @@
       "url": "https://open.spotify.com/track/0nu0muJL39ZhAdZHB4gjcc"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Flow Mexicano",
         "url": "https://open.spotify.com/album/06FCKaCaLtn8n53sLGBQxn"
@@ -613,7 +637,7 @@
       "url": "https://open.spotify.com/track/3CBylMtRArk0HA9QgqYZUM"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Wapo y Mam\u00f3n",
         "url": "https://open.spotify.com/album/0G7rMvRLu7tPiKeti54UbE"
@@ -629,7 +653,7 @@
       "url": "https://open.spotify.com/track/4eg82YP4NxGNVqBmi7ajqH"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Trap Ejecutivo",
         "url": "https://open.spotify.com/album/3IUbI0QbFDjBYvo1t4OXqh"
@@ -645,7 +669,7 @@
       "url": "https://open.spotify.com/track/7xuq3E5t2kJcuAZqkNDOvG"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Flight 0009",
         "url": "https://open.spotify.com/album/25Hj5JbCzBpUWqPJwOUQ2S"
@@ -665,7 +689,7 @@
       "url": "https://open.spotify.com/track/0T60QrLjC67kLuSqUIwllu"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "LAS MORRAS TAMBI\u00c9N HACEN TR444P",
         "url": "https://open.spotify.com/album/4cYi6ydyioYs3PquKrGTPt"
@@ -685,7 +709,7 @@
       "url": "https://open.spotify.com/track/5efoy1qDiKRrlJs9MfEQVk"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "No Kiero Correr (Remix)",
         "url": "https://open.spotify.com/album/6jFGXDG7kIdQx76tzytpgB"
@@ -713,31 +737,7 @@
       "url": "https://open.spotify.com/track/5hPtYGIIPVS3pWi1kLUOQT"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "AUTOMATIC",
-        "url": "https://open.spotify.com/album/1D3uqtLlSy3YFpgojWYued"
-      },
-      "artists": [
-        {
-          "name": "OPYI",
-          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
-        },
-        {
-          "name": "Birat Bitz",
-          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
-        },
-        {
-          "name": "Kidd Manny",
-          "url": "https://open.spotify.com/artist/6ckHURH4vaNUiIsoFanfX8"
-        }
-      ],
-      "duration_ms": 154541,
-      "name": "AUTOMATIC",
-      "url": "https://open.spotify.com/track/5UHTTHMJ0hDTt6DXmlCuTq"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Afuera Que Tengan Miedo",
         "url": "https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Solo M\u00edrate",
         "url": "https://open.spotify.com/album/16HaReMEF1TAMRpy7mPsWO"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/6QAT6D16VmI84LUwPOI86K"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Yo tmb me fui",
         "url": "https://open.spotify.com/album/7GwBFqoSDDKQ0GsqU2MzEo"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/0fuEBBx9zVGJKzCNNEcxU5"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Tirando Flow Sesh #8",
         "url": "https://open.spotify.com/album/6KVKStSWXUvoZF2ibE643k"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/48LRWkjqh0MuiyQmGkqzgP"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/13k2zzqSV0ZCV8tmYGhvSL"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/3a72rKC1wpcoVx6HIpEzRO"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Ferragamo",
         "url": "https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Mustang 65'",
         "url": "https://open.spotify.com/album/42EHvFRsQtspIer2baInn7"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/0dyz7VlyWTbd9mbuUl3wKq"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Chicago",
         "url": "https://open.spotify.com/album/0qxOUAIDnMLYqvRYmicgjm"
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/1tzTYPfNNu2QEwYqRISmGi"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "No Me Quieren",
         "url": "https://open.spotify.com/album/0sLgMiJoybUIcM2pk0neay"
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/3p1Ai6RRQm30uf2oOgWqQ6"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Lento y Contento (Remix)",
         "url": "https://open.spotify.com/album/0QR8tzQEwBHa3LHG1Mr8Sl"
@@ -929,7 +929,7 @@
       "url": "https://open.spotify.com/track/2hHBzhSQShNFmWPXrFK9yU"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
         "url": "https://open.spotify.com/album/3GN1tT5enSZQ6lMDtls3an"
@@ -949,7 +949,7 @@
       "url": "https://open.spotify.com/track/3ke6it1vTmHtz2ApcIVUz5"
     },
     {
-      "added_at": "2024-06-28 06:00:00",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"

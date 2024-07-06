@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-117 songs - 7 hr 55 min
+118 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Biarku Merindu](https://open.spotify.com/track/6CxAzRJjOUr3LL1qXbQCry) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [Biarku Merindu](https://open.spotify.com/album/3ZGwkNHkhqkw3J9id6LVgG) | 2:57 | 2024-02-13 |  |
 | [Blue Jeans](https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Blue Jeans](https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi) | 3:31 | 2024-02-13 |  |
 | [Caraku, Caramu](https://open.spotify.com/track/5VvU0BRvnOvnedAjZodsKQ) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [semua, semua.](https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49) | 3:39 | 2023-09-20 | 2024-02-13 |
+| [Cinta Pertama Dan Terakhir](https://open.spotify.com/track/4TomVy5zx50p9boc8FqYnT) | [Sherina Munaf](https://open.spotify.com/artist/3UUS2j9dYbI6MB5ee8d0jp) | [Gemini](https://open.spotify.com/album/5UUq5EZYAvCFD0ZMNankvF) | 4:35 | 2024-07-05 |  |
 | [Cinta Sejati](https://open.spotify.com/track/7zoWyFMR4t8m4CWSmTAois) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Hit Singles BCL And More](https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j) | 5:02 | 2023-04-17 |  |
 | [Cinta Terakhirku](https://open.spotify.com/track/5bLIFHq7N4yqz8LX3wwD4E) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Syifa Hadju](https://open.spotify.com/artist/0xchyM3xA3eEnjNUU2BZby) | [Cinta Terakhirku](https://open.spotify.com/album/4clmaWZDHoHzqw70ZhcW7W) | 4:17 | 2023-02-03 |  |
 | [Cintanya Aku](https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Cintanya Aku](https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4) | 3:54 | 2023-05-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 23941,
+  "num_followers": 23944,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAACQ/umpWgm1/aDCqzqM/Fcg",
+  "snapshot_id": "ZoXmAAAAAACze2VjG9tDPDBdwwRvSB3L",
   "tracks": [
     {
       "added_at": null,
@@ -71,18 +71,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
+        "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
+        "url": "https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu"
       },
       "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
         {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 209186,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/7d1CFwrBmH34gmS0Hkbfbt"
+      "duration_ms": 187943,
+      "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
+      "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
     },
     {
       "added_at": null,
@@ -119,22 +123,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
-        "url": "https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu"
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/7ql438zy2icDWhxBHGOieI"
       },
       "artists": [
         {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 187943,
-      "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
-      "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
+      "duration_ms": 212906,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/1z15fhSgN6U2k4gqA1Zu4j"
     },
     {
       "added_at": null,
@@ -599,22 +603,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silver Soul",
-        "url": "https://open.spotify.com/album/50kJC7jxGk1sbWTC51syZ4"
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
       },
       "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        },
         {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 268973,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/4JAIxZETWX5KwNTmCcJVXH"
+      "duration_ms": 191173,
+      "name": "Heaven Lost an Angel",
+      "url": "https://open.spotify.com/track/6x0Tov4xcIoHK7DN1BiEsM"
     },
     {
       "added_at": null,
@@ -635,6 +635,26 @@
       "duration_ms": 187813,
       "name": "This is My Dance Floor",
       "url": "https://open.spotify.com/track/6A4t0Qss5Azkt2D7n0XbFJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silver Soul",
+        "url": "https://open.spotify.com/album/50kJC7jxGk1sbWTC51syZ4"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 268973,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/4JAIxZETWX5KwNTmCcJVXH"
     },
     {
       "added_at": null,

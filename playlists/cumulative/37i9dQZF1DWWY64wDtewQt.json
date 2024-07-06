@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 119373,
       "name": "Baile do Coqueiro 5. 0 [Slowed Reverb]",
       "url": "https://open.spotify.com/track/3ZzGvBGavOpmTCyO9AV2zb"
@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 130000,
       "name": "BASSLINE - SLOWED",
       "url": "https://open.spotify.com/track/3KpuvLHfzkUl2T7ARb5SUP"
@@ -5452,6 +5452,24 @@
       "duration_ms": 132011,
       "name": "GLOCK GLOCK",
       "url": "https://open.spotify.com/track/0jZrlNfW35trATveaKIjGA"
+    },
+    {
+      "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf"
+      },
+      "artists": [
+        {
+          "name": "Ogryzek",
+          "url": "https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149522,
+      "name": "GLORY",
+      "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
     },
     {
       "album": {
@@ -14638,6 +14656,28 @@
       "duration_ms": 118034,
       "name": "Wtf U Mean",
       "url": "https://open.spotify.com/track/3PHt7AdVhjIMS5Yw5RIZKU"
+    },
+    {
+      "album": {
+        "name": "X-SLIDE",
+        "url": "https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32"
+      },
+      "artists": [
+        {
+          "name": "2KE",
+          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
+        },
+        {
+          "name": "808iuli",
+          "url": "https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79452,
+      "name": "X-SLIDE",
+      "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
-  "num_followers": 34023,
+  "num_followers": 34062,
   "original_name": "Wellness",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
+        "name": "Relieving",
+        "url": "https://open.spotify.com/album/6ACa4v7ue1vczGy03tJkH0"
+      },
+      "artists": [
+        {
+          "name": "Degravitated",
+          "url": "https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Relieving",
+      "url": "https://open.spotify.com/track/2DWYBGBzNQKQ7sB1IJDnRz"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/7zh4s3MKpQp4Rv878PH9J5"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 149795,
       "name": "Mesmeric Quietude",
       "url": "https://open.spotify.com/track/2vrftkFrb4WUmq9o0S13s4"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
-        "name": "Relieving",
-        "url": "https://open.spotify.com/album/6ACa4v7ue1vczGy03tJkH0"
-      },
-      "artists": [
-        {
-          "name": "Degravitated",
-          "url": "https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Relieving",
-      "url": "https://open.spotify.com/track/2DWYBGBzNQKQ7sB1IJDnRz"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Lotus Garden & Healing Serenade",
-        "url": "https://open.spotify.com/album/7KoiOv415asddhMDXYYOlQ"
-      },
-      "artists": [
-        {
-          "name": "The Tides",
-          "url": "https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Healing Serenade",
-      "url": "https://open.spotify.com/track/3RVyOL4WiLVUAw5s0M1M2K"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Dreams of Calmness",
         "url": "https://open.spotify.com/album/4EtyVHSabhRKs3DqYygDCT"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 154000,
       "name": "Dreams of Calmness",
       "url": "https://open.spotify.com/track/0n7hJpHTyo48IZ43NAKDP9"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Lotus Garden & Healing Serenade",
+        "url": "https://open.spotify.com/album/7KoiOv415asddhMDXYYOlQ"
+      },
+      "artists": [
+        {
+          "name": "The Tides",
+          "url": "https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Healing Serenade",
+      "url": "https://open.spotify.com/track/3RVyOL4WiLVUAw5s0M1M2K"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Vinyasa",
-        "url": "https://open.spotify.com/album/0LrU2qxwUpZ9KuKJVL0UA1"
-      },
-      "artists": [
-        {
-          "name": "Krishna's Flute",
-          "url": "https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz"
-        }
-      ],
-      "duration_ms": 238602,
-      "name": "Vinyasa",
-      "url": "https://open.spotify.com/track/5ZUdgJ8uUo7LMoMNezC999"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Night Bells (432 Hz)",
         "url": "https://open.spotify.com/album/3awJzQg6vbV9tckTaY9apr"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 175500,
       "name": "Night Bells (432 Hz)",
       "url": "https://open.spotify.com/track/4fW7JLrMCSkPHKg6QmxfGc"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Vinyasa",
+        "url": "https://open.spotify.com/album/0LrU2qxwUpZ9KuKJVL0UA1"
+      },
+      "artists": [
+        {
+          "name": "Krishna's Flute",
+          "url": "https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz"
+        }
+      ],
+      "duration_ms": 238602,
+      "name": "Vinyasa",
+      "url": "https://open.spotify.com/track/5ZUdgJ8uUo7LMoMNezC999"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh"
-      },
-      "artists": [
-        {
-          "name": "Full Presence",
-          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
-        }
-      ],
-      "duration_ms": 134349,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "528 Hz - Depth",
         "url": "https://open.spotify.com/album/4I6ywVOrEHtslVrCFC3tI8"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 183857,
       "name": "Terrestrial",
       "url": "https://open.spotify.com/track/27oha8wgBjsfI6cAeG3YMl"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh"
+      },
+      "artists": [
+        {
+          "name": "Full Presence",
+          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
+        }
+      ],
+      "duration_ms": 134349,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2107,38 +2107,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Descend",
-        "url": "https://open.spotify.com/album/4alXFRYsK4de9Ee7J7Vg7n"
-      },
-      "artists": [
-        {
-          "name": "Quiet Point",
-          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Descend",
-      "url": "https://open.spotify.com/track/50JAwhngZgAwl5WmmfuCpM"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
-        "name": "Calm Cosmos",
-        "url": "https://open.spotify.com/album/7wUSmY0F0eoFd5pa644lvE"
-      },
-      "artists": [
-        {
-          "name": "Franz Emerald",
-          "url": "https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv"
-        }
-      ],
-      "duration_ms": 137250,
-      "name": "Calm Cosmos",
-      "url": "https://open.spotify.com/track/2lrjDsy5PFchhGWXgDkDMG"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Travel Through Time",
         "url": "https://open.spotify.com/album/0XqN1uf1gz5Ts00H9slDZS"
       },
@@ -2155,18 +2123,34 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "The Shimmer",
-        "url": "https://open.spotify.com/album/6zRUgOuLPUhfBBRtj6eqrt"
+        "name": "Descend",
+        "url": "https://open.spotify.com/album/4alXFRYsK4de9Ee7J7Vg7n"
       },
       "artists": [
         {
-          "name": "ZIWA",
-          "url": "https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf"
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
         }
       ],
-      "duration_ms": 169722,
-      "name": "The Shimmer",
-      "url": "https://open.spotify.com/track/2FGtHQ3GZHvqZI0xVAvwzI"
+      "duration_ms": 166000,
+      "name": "Descend",
+      "url": "https://open.spotify.com/track/50JAwhngZgAwl5WmmfuCpM"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Testanaadee",
+        "url": "https://open.spotify.com/album/2r1IdCCzou6ux9MdcOj20X"
+      },
+      "artists": [
+        {
+          "name": "Shikha Chadha",
+          "url": "https://open.spotify.com/artist/2vVK4gTQuqvtqWHX8GiIDc"
+        }
+      ],
+      "duration_ms": 184512,
+      "name": "Testanaadee",
+      "url": "https://open.spotify.com/track/0dKEL8IL3Wgz6vEIAL3P4J"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2187,6 +2171,38 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
+        "name": "The Shimmer",
+        "url": "https://open.spotify.com/album/6zRUgOuLPUhfBBRtj6eqrt"
+      },
+      "artists": [
+        {
+          "name": "ZIWA",
+          "url": "https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf"
+        }
+      ],
+      "duration_ms": 169722,
+      "name": "The Shimmer",
+      "url": "https://open.spotify.com/track/2FGtHQ3GZHvqZI0xVAvwzI"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Calm Cosmos",
+        "url": "https://open.spotify.com/album/7wUSmY0F0eoFd5pa644lvE"
+      },
+      "artists": [
+        {
+          "name": "Franz Emerald",
+          "url": "https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv"
+        }
+      ],
+      "duration_ms": 137250,
+      "name": "Calm Cosmos",
+      "url": "https://open.spotify.com/track/2lrjDsy5PFchhGWXgDkDMG"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
         "name": "Asana",
         "url": "https://open.spotify.com/album/5jKt8AOgsOYMaEdIykJ3bo"
       },
@@ -2199,22 +2215,6 @@
       "duration_ms": 151666,
       "name": "Asana",
       "url": "https://open.spotify.com/track/5JrPeUYpXnIXFAA1YLM8kc"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
-        "name": "Testanaadee",
-        "url": "https://open.spotify.com/album/2r1IdCCzou6ux9MdcOj20X"
-      },
-      "artists": [
-        {
-          "name": "Shikha Chadha",
-          "url": "https://open.spotify.com/artist/2vVK4gTQuqvtqWHX8GiIDc"
-        }
-      ],
-      "duration_ms": 184512,
-      "name": "Testanaadee",
-      "url": "https://open.spotify.com/track/0dKEL8IL3Wgz6vEIAL3P4J"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Convergence",
-        "url": "https://open.spotify.com/album/6T3aTAlvUxsgTqKoRhRLr9"
-      },
-      "artists": [
-        {
-          "name": "Logan Ronfeld",
-          "url": "https://open.spotify.com/artist/0pVfP276c80iwVhymewTp9"
-        }
-      ],
-      "duration_ms": 198529,
-      "name": "Convergence",
-      "url": "https://open.spotify.com/track/1MJC0r9sxYQkFWpoZ1thTk"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Asha",
         "url": "https://open.spotify.com/album/45j2xwLqufgtoAkOIBna6p"
       },
@@ -2379,18 +2363,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/7magGCz2T7htZUF1uguOP2"
+        "name": "Convergence",
+        "url": "https://open.spotify.com/album/6T3aTAlvUxsgTqKoRhRLr9"
       },
       "artists": [
         {
-          "name": "Zoe Connelly",
-          "url": "https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO"
+          "name": "Logan Ronfeld",
+          "url": "https://open.spotify.com/artist/0pVfP276c80iwVhymewTp9"
         }
       ],
-      "duration_ms": 136820,
-      "name": "Lush",
-      "url": "https://open.spotify.com/track/5SDlIDE7MvKEEfUwPvXrvN"
+      "duration_ms": 198529,
+      "name": "Convergence",
+      "url": "https://open.spotify.com/track/1MJC0r9sxYQkFWpoZ1thTk"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2407,6 +2391,22 @@
       "duration_ms": 156000,
       "name": "Floating Aura",
       "url": "https://open.spotify.com/track/5RZLhIZPGMhexvfw2WtVwy"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/7magGCz2T7htZUF1uguOP2"
+      },
+      "artists": [
+        {
+          "name": "Zoe Connelly",
+          "url": "https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO"
+        }
+      ],
+      "duration_ms": 136820,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/5SDlIDE7MvKEEfUwPvXrvN"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2491,6 +2491,22 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
+        "name": "Let It Heal",
+        "url": "https://open.spotify.com/album/7l2UxyaSgVWBMxCChOXMeR"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "432hz Let It Heal - Studio Edit",
+      "url": "https://open.spotify.com/track/5NWPSiHduPE5OSAeh6Frpb"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
         "name": "Temple of the Heart",
         "url": "https://open.spotify.com/album/5yuklwSxgyuIPtHU0nkGXQ"
       },
@@ -2503,22 +2519,6 @@
       "duration_ms": 216672,
       "name": "Temple",
       "url": "https://open.spotify.com/track/2jpdJofQjOI2qCF2A5Fj4M"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
-        "name": "Captain Speaking",
-        "url": "https://open.spotify.com/album/6LxidQWnPX1XULUsNagGG8"
-      },
-      "artists": [
-        {
-          "name": "myndstream",
-          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
-        }
-      ],
-      "duration_ms": 377250,
-      "name": "Captain Speaking",
-      "url": "https://open.spotify.com/track/6nWU4ka90Da1aQsH9lDbgM"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2539,18 +2539,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Let It Heal",
-        "url": "https://open.spotify.com/album/7l2UxyaSgVWBMxCChOXMeR"
+        "name": "Captain Speaking",
+        "url": "https://open.spotify.com/album/6LxidQWnPX1XULUsNagGG8"
       },
       "artists": [
         {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
         }
       ],
-      "duration_ms": 220000,
-      "name": "432hz Let It Heal - Studio Edit",
-      "url": "https://open.spotify.com/track/5NWPSiHduPE5OSAeh6Frpb"
+      "duration_ms": 377250,
+      "name": "Captain Speaking",
+      "url": "https://open.spotify.com/track/6nWU4ka90Da1aQsH9lDbgM"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Majestica",
-        "url": "https://open.spotify.com/album/4QlLsa23L21oa7V84sjj0K"
-      },
-      "artists": [
-        {
-          "name": "Phanari",
-          "url": "https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg"
-        }
-      ],
-      "duration_ms": 193635,
-      "name": "Majestica",
-      "url": "https://open.spotify.com/track/33fpGhpBEiIqY8rGSKNA9y"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Dream for me",
         "url": "https://open.spotify.com/album/16xkhJ4gPdifxksHPjsO1a"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 152440,
       "name": "Dream for me",
       "url": "https://open.spotify.com/track/0Ev8yzzWg7n6WIFeTrup5Q"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Majestica",
+        "url": "https://open.spotify.com/album/4QlLsa23L21oa7V84sjj0K"
+      },
+      "artists": [
+        {
+          "name": "Phanari",
+          "url": "https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg"
+        }
+      ],
+      "duration_ms": 193635,
+      "name": "Majestica",
+      "url": "https://open.spotify.com/track/33fpGhpBEiIqY8rGSKNA9y"
     },
     {
       "added_at": "2023-12-15 11:35:26",

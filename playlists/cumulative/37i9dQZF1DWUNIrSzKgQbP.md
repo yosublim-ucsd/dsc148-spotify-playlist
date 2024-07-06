@@ -4,7 +4,7 @@
 
 > Sweet songs for sunny days.
 
-679 songs - 1 day 18 hr 27 min
+680 songs - 1 day 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Berlin](https://open.spotify.com/track/1LHyM1giY7WzsqfYXL0NaM) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Berlin EP](https://open.spotify.com/album/50mlYGhcwMxVKqYmlVLx73) | 2:50 | 2022-03-21 | 2022-06-08 |
 | [Berlin](https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 2:54 | 2022-12-21 | 2024-03-16 |
 | [Berlin Wall](https://open.spotify.com/track/3qLfmrJQfzrI5GKFTA3Hgp) | [Modern Crusoe](https://open.spotify.com/artist/5Cb7g3NYl9mYHTp83OvJhO) | [Foreign Language](https://open.spotify.com/album/2IjYMy5egIPjUCAPvTZu2I) | 4:35 | 2022-03-21 | 2022-06-08 |
+| [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 | 2024-07-05 |  |
 | [Better Place](https://open.spotify.com/track/4st6icUEghanSagq30JgzJ) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Better Place](https://open.spotify.com/album/2V1BZvTESUAII3ZOy0GrgG) | 2:38 | 2023-04-12 | 2024-05-21 |
 | [Better Way](https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Better Way](https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M) | 5:56 | 2022-03-21 | 2022-06-08 |
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2022-06-07 | 2022-09-07 |

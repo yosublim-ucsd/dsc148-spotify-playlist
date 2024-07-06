@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: <a href=\"spotify:artist:2XDaX0gxzE4eCXjPPAREEq\">CAIN</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: <a href=\"spotify:artist:3SKza3YPBri1k43LB1Tqy4\">Tauren Wells</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -4532,7 +4532,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 170521,
       "name": "GOOD DAY",
       "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
@@ -6206,7 +6206,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 235997,
       "name": "Human Condition",
       "url": "https://open.spotify.com/track/0Zs6lYB1xtU6XR37s7juJ0"
@@ -9905,6 +9905,28 @@
     },
     {
       "album": {
+        "name": "NEVER GET USED TO THIS",
+        "url": "https://open.spotify.com/album/5TYR4SsDvqfGjfY9MZ2AD9"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145034,
+      "name": "NEVER GET USED TO THIS",
+      "url": "https://open.spotify.com/track/1VFxnzJWG7LWYTrHNwGt9P"
+    },
+    {
+      "album": {
         "name": "Bigger Story",
         "url": "https://open.spotify.com/album/5Ya9Un8iVDcaQe16E11uoR"
       },
@@ -10284,6 +10306,24 @@
       "duration_ms": 217040,
       "name": "Nobody's Fault But Mine",
       "url": "https://open.spotify.com/track/27Gcs6x0EV4npr9v5btbu8"
+    },
+    {
+      "album": {
+        "name": "Not Done Yet",
+        "url": "https://open.spotify.com/album/6hdf7tH7T4fww2FI9WhIpR"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196524,
+      "name": "Not Done Yet",
+      "url": "https://open.spotify.com/track/6cAObGU0XLTa3HqJ6v9dAH"
     },
     {
       "album": {

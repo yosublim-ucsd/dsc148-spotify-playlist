@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-324 songs - 16 hr 43 min
+326 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,9 @@
 | [Kheench Maari](https://open.spotify.com/track/2W45HI9Tfj1YdhMHJE0Lnd) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Nitin Randhawa](https://open.spotify.com/artist/0WIMfLnFgEZkwlzCaemJkS) | [Kheench Maari](https://open.spotify.com/album/1Vp9PMPUHVdITIdbtzlQmH) | 2:48 | 2023-11-29 |  |
 | [King Of Indian Hip Hop](https://open.spotify.com/track/21noylFh40f8j2lyWah95R) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of Indian Hip Hop](https://open.spotify.com/album/6CiopvBPnSPd7G6l3qbbHt) | 7:20 | 2023-06-06 | 2024-06-23 |
 | [King Of The Streets \- Intro](https://open.spotify.com/track/22Qz9UKeAAtGNPaMAbqT4P) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of The Streets \(Intro\)](https://open.spotify.com/album/4bLCFr5ikH6eMXO9T5QLZ5) | 2:00 | 2023-03-29 | 2023-04-17 |
+| [KODAK](https://open.spotify.com/track/3e1g159cSgose2jHQj9uzd) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [KODAK](https://open.spotify.com/album/3PzVNvVBZ8MnyGyWl2A3CC) | 6:03 | 2024-07-05 |  |
 | [Kon Hai Tu](https://open.spotify.com/track/0ko5n1BkAyWHDxXwvzrgWu) | [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF) | [Junkie](https://open.spotify.com/album/64ZdfxElAIAgbVCBAAbvjL) | 2:02 | 2024-06-07 |  |
+| [Korakkavo!](https://open.spotify.com/track/0EglZV7Juuo9U40iwgBgrl) | [Anohnymouss](https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT) | [Korakkavo!](https://open.spotify.com/album/0FqkoDLnqr3NtvWLoqdQPs) | 3:19 | 2024-07-05 |  |
 | [KOTS \- Freestyle](https://open.spotify.com/track/0rcb8gZqXRBSXzQfylEjCS) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of The Streets](https://open.spotify.com/album/2hPOXAgxqTZvkg8qNKO88e) | 3:02 | 2023-06-09 | 2023-10-28 |
 | [Kudi](https://open.spotify.com/track/0oRcVOYsdFICJsH5FD9Rj5) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Swaalina](https://open.spotify.com/artist/2mIcM14FamHYPzBbHRIsPE) | [Kudi](https://open.spotify.com/album/73ATQ9LpJkVKtUDTyZ9aob) | 3:10 | 2023-08-03 | 2024-06-29 |
 | [KULFA\-KAR\-MA](https://open.spotify.com/track/4RnHapKw9jDMaND7srX9Se) | [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [KULFA\-KAR\-MA](https://open.spotify.com/album/0f53UzOwYgA5YC7KkoEJ7D) | 4:00 | 2023-04-28 | 2024-05-01 |

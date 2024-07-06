@@ -407,6 +407,24 @@
     },
     {
       "album": {
+        "name": "Bun Venit Acasa (Deluxe)",
+        "url": "https://open.spotify.com/album/5A4tD7qWgfhfOJ1kXJY9SF"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Fierbe",
+      "url": "https://open.spotify.com/track/4Gya3VF9e3oYKreBxPl0KO"
+    },
+    {
+      "album": {
         "name": "Flori de Lavand\u0103",
         "url": "https://open.spotify.com/album/0XLsQLNSDLKN2d6tmvI5KD"
       },

@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 191666,
       "name": "Alcohol",
       "url": "https://open.spotify.com/track/7FDCQfEwJDsOlv655b1Qsv"
@@ -108,7 +108,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -429,6 +429,24 @@
     },
     {
       "album": {
+        "name": "Closer Than This",
+        "url": "https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223302,
+      "name": "Closer Than This",
+      "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
+    },
+    {
+      "album": {
         "name": "Da i prisedne",
         "url": "https://open.spotify.com/album/5qRA2ZjNcdWbtlZfsCaJcp"
       },
@@ -484,6 +502,28 @@
       "duration_ms": 170769,
       "name": "DALE BABY",
       "url": "https://open.spotify.com/track/71D3yrwwKGf9HDbXO5PJjD"
+    },
+    {
+      "album": {
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        },
+        {
+          "name": "Tzank\u01ce Uraganu",
+          "url": "https://open.spotify.com/artist/1nRdMIjXitRbmuhwGJopDK"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Delta Force",
+      "url": "https://open.spotify.com/track/3D4O7Jetr7t07qOo6i6Pds"
     },
     {
       "album": {
@@ -628,7 +668,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 129522,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
@@ -894,7 +934,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 212640,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"
@@ -1053,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "Ka\u00e7amad\u0131m",
+        "url": "https://open.spotify.com/album/0ubFAE4cHDpFRif2fLdPUZ"
+      },
+      "artists": [
+        {
+          "name": "Uralxlr",
+          "url": "https://open.spotify.com/artist/4L8XrSpW2bBZ50Isfi6Oyr"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113742,
+      "name": "Ka\u00e7amad\u0131m",
+      "url": "https://open.spotify.com/track/74H7jyyJp53HSzpcFMLL21"
+    },
+    {
+      "album": {
         "name": "Seven",
         "url": "https://open.spotify.com/album/1e3AsihMn2vg7ivyWt1Hgt"
       },
@@ -1122,7 +1180,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 212253,
       "name": "Like Crazy (English Version)",
       "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
@@ -1148,7 +1206,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
@@ -1588,7 +1646,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 121399,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
@@ -1870,7 +1928,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 200929,
       "name": "Set Me Free Pt.2",
       "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
@@ -1896,7 +1954,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 189333,
       "name": "Shmekeria",
       "url": "https://open.spotify.com/track/0gzomWkh8Zwba12EmQsNaG"
@@ -1958,6 +2016,28 @@
       "duration_ms": 194906,
       "name": "Slimed In",
       "url": "https://open.spotify.com/track/2GLWhy9iiO1wrLUF5l4FtJ"
+    },
+    {
+      "album": {
+        "name": "Smeraldo Garden Marching Band (feat. Loco)",
+        "url": "https://open.spotify.com/album/2PcM535knJOZb6MUth8axj"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182840,
+      "name": "Smeraldo Garden Marching Band (feat. Loco)",
+      "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
     },
     {
       "album": {
@@ -2262,7 +2342,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 146823,
       "name": "Tishinata im",
       "url": "https://open.spotify.com/track/5WGCguQHGcGbVrUsUsubqJ"
@@ -2381,6 +2461,24 @@
     },
     {
       "album": {
+        "name": "Tuka Tuka",
+        "url": "https://open.spotify.com/album/4cx5JhmWbo2REbNu2EVHBW"
+      },
+      "artists": [
+        {
+          "name": "Krisko",
+          "url": "https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196918,
+      "name": "Tuka Tuka",
+      "url": "https://open.spotify.com/track/4zlMrhh3Le1JtimQxGKt0e"
+    },
+    {
+      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -2404,7 +2502,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 228266,
       "name": "Type Shit",
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
@@ -2641,6 +2739,24 @@
     },
     {
       "album": {
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202271,
+      "name": "\u0413\u043e\u0440\u0447\u0438\u0432\u043e",
+      "url": "https://open.spotify.com/track/08CyZVdEU7FBsGs9zttnIU"
+    },
+    {
+      "album": {
         "name": "\u0414\u0436\u0435\u043d\u0442\u044a\u043b\u043c\u0435\u043d",
         "url": "https://open.spotify.com/album/2u9hkU7grdSjkLPClwZ3He"
       },
@@ -2656,6 +2772,24 @@
       "duration_ms": 185217,
       "name": "\u0414\u0436\u0435\u043d\u0442\u044a\u043b\u043c\u0435\u043d",
       "url": "https://open.spotify.com/track/3VjtC9G89HrlWKwd1TuWwk"
+    },
+    {
+      "album": {
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209571,
+      "name": "\u0414\u043e\u043a\u0442\u043e\u0440\u0435",
+      "url": "https://open.spotify.com/track/3w30KXcLHK8crsWlDAxSVe"
     },
     {
       "album": {
@@ -2699,6 +2833,24 @@
     },
     {
       "album": {
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "\u0416\u0430\u043b\u043a\u043e",
+      "url": "https://open.spotify.com/track/5GikULGCkwN6T8l5ldDAGL"
+    },
+    {
+      "album": {
         "name": "\u0416\u0438\u0432\u0435\u0439, \u043c\u0438\u043b\u043e \u043c\u043e\u0435",
         "url": "https://open.spotify.com/album/793qXnOneVVHQrbebbRpfc"
       },
@@ -2714,6 +2866,24 @@
       "duration_ms": 189600,
       "name": "\u0416\u0438\u0432\u0435\u0439, \u043c\u0438\u043b\u043e \u043c\u043e\u0435",
       "url": "https://open.spotify.com/track/2LMdXVxVRKM5Ls7IVBjqb9"
+    },
+    {
+      "album": {
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198580,
+      "name": "\u0417\u0430\u043f\u0430\u043b\u043a\u0430\u0442\u0430",
+      "url": "https://open.spotify.com/track/1i19URHkO0hfawEtZ9JiwO"
     },
     {
       "album": {
@@ -2754,6 +2924,42 @@
       "duration_ms": 213975,
       "name": "\u0417\u0434\u0440\u0430\u0441\u0442\u0438",
       "url": "https://open.spotify.com/track/5zQJgQMsG2Q8JOmMmiE5Nt"
+    },
+    {
+      "album": {
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168800,
+      "name": "\u0417\u0438\u0433-\u0437\u0430\u0433",
+      "url": "https://open.spotify.com/track/6i9AZs8Cv8d3I6PQMN22RC"
+    },
+    {
+      "album": {
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "\u0418\u0433\u0440\u0430\u0439",
+      "url": "https://open.spotify.com/track/0nOmcHDPI2fwIBEDeuSwzT"
     },
     {
       "album": {
@@ -3092,7 +3298,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 240937,
       "name": "\u041e\u0442 \u043a\u0435\u0444 \u0434\u0430 \u0443\u043c\u0438\u0440\u0430\u043c",
       "url": "https://open.spotify.com/track/6XJc1nK44MNSV2kK1IuyKU"
@@ -3165,6 +3371,28 @@
     },
     {
       "album": {
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        },
+        {
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241558,
+      "name": "\u041f\u043e, \u043f\u043e, \u043f\u043e",
+      "url": "https://open.spotify.com/track/7fm9V7mOWyfoiLwJFj4FnY"
+    },
+    {
+      "album": {
         "name": "\u041f\u0440\u0430\u0445",
         "url": "https://open.spotify.com/album/0ItbhAAReHtPyyTRi0pXhY"
       },
@@ -3216,10 +3444,32 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 220400,
       "name": "\u041f\u0443\u0448\u0438, \u043f\u0443\u0448\u0438",
       "url": "https://open.spotify.com/track/0336cbGmNVwmytwQh0zNeB"
+    },
+    {
+      "album": {
+        "name": "\u041f\u0443\u0448\u0438, \u043f\u0443\u0448\u0438",
+        "url": "https://open.spotify.com/album/7yF4PVvRoaoCQtxgke3XvY"
+      },
+      "artists": [
+        {
+          "name": "Konstantin",
+          "url": "https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8"
+        },
+        {
+          "name": "Danna",
+          "url": "https://open.spotify.com/artist/2M8DUpSnqu7TlGxEgjUocd"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220400,
+      "name": "\u041f\u0443\u0448\u0438, \u043f\u0443\u0448\u0438",
+      "url": "https://open.spotify.com/track/2aAauMPpypnaxndfR1y6Y6"
     },
     {
       "album": {
@@ -3263,6 +3513,24 @@
     },
     {
       "album": {
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185777,
+      "name": "\u0422\u043e\u043a \u043f\u043e \u0442\u044f\u043b\u043e\u0442\u043e",
+      "url": "https://open.spotify.com/track/4LK3G3bxhj1OYcOdOvXmXp"
+    },
+    {
+      "album": {
         "name": "\u0422\u043e\u043f, \u0442\u043e\u043f, \u0442\u043e\u043f",
         "url": "https://open.spotify.com/album/0SjTFgK4uWJgntsGLObsNz"
       },
@@ -3289,6 +3557,24 @@
     },
     {
       "album": {
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "\u0423\u0431\u0438\u0439 \u043c\u0435",
+      "url": "https://open.spotify.com/track/2EQc2P44Rbxnisizg91153"
+    },
+    {
+      "album": {
         "name": "\u0424\u0438\u043b\u043c \u0437\u0430 \u043d\u0430\u0441",
         "url": "https://open.spotify.com/album/4appOGvrMiOg4RjZOYkcCV"
       },
@@ -3304,7 +3590,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 181304,
       "name": "\u0424\u0438\u043b\u043c \u0437\u0430 \u043d\u0430\u0441",
       "url": "https://open.spotify.com/track/772ARvmnEjryug7ce0lRAF"
@@ -3322,7 +3608,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 206000,
       "name": "\u0425\u0430\u043f\u0438 \u043c\u0435",
       "url": "https://open.spotify.com/track/4CdCa2gcNtsqPTA9JELgqb"

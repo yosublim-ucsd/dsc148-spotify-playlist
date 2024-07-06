@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2024\. Polo Gonzales & Dan Sanchez \. en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,571 likes - 108 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,835 likes - 108 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

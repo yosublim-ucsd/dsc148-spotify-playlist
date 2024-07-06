@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 554545,
+  "num_followers": 554521,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -935,30 +935,6 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
-        "name": "Like Gold",
-        "url": "https://open.spotify.com/album/0tiJtd3FqJVlT7uAezBSwK"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        },
-        {
-          "name": "Stephen Puth",
-          "url": "https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC"
-        }
-      ],
-      "duration_ms": 176388,
-      "name": "Like Gold",
-      "url": "https://open.spotify.com/track/5seWZTjT0U8a7cy3Y5NJQ9"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
         "name": "Big (feat. Gunna)",
         "url": "https://open.spotify.com/album/4oAJhbdsokVDoLHMdbqtDP"
       },
@@ -983,6 +959,30 @@
       "duration_ms": 156781,
       "name": "Big (feat. Gunna)",
       "url": "https://open.spotify.com/track/78oZ26xvmtCfarveRXs3dq"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
+        "name": "Like Gold",
+        "url": "https://open.spotify.com/album/0tiJtd3FqJVlT7uAezBSwK"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Stephen Puth",
+          "url": "https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC"
+        }
+      ],
+      "duration_ms": 176388,
+      "name": "Like Gold",
+      "url": "https://open.spotify.com/track/5seWZTjT0U8a7cy3Y5NJQ9"
     },
     {
       "added_at": "2024-06-26 02:03:12",

@@ -581,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Back To The Sun",
+        "url": "https://open.spotify.com/album/7yQluEMVJbUbve5i1TT0RM"
+      },
+      "artists": [
+        {
+          "name": "Mellowdy",
+          "url": "https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135906,
+      "name": "Back To The Sun",
+      "url": "https://open.spotify.com/track/1cd3tQ5tB7V81PQhDOWUfY"
+    },
+    {
+      "album": {
         "name": "Bad Romance",
         "url": "https://open.spotify.com/album/3nIj5qPG72xSGoJ5nbNn9z"
       },
@@ -1867,6 +1885,28 @@
     },
     {
       "album": {
+        "name": "Don't Belong",
+        "url": "https://open.spotify.com/album/5RcVowc1HLlAyp7RXLspWu"
+      },
+      "artists": [
+        {
+          "name": "MVCA",
+          "url": "https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R"
+        },
+        {
+          "name": "ALSO ASTIR",
+          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234144,
+      "name": "Don't Belong",
+      "url": "https://open.spotify.com/track/3rYCn7V5XiHwLvoFSD1h2o"
+    },
+    {
+      "album": {
         "name": "Don't Look Down",
         "url": "https://open.spotify.com/album/1Kp2JeEVHM9KmeQJHY5s6m"
       },
@@ -2386,7 +2426,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 188494,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/2a8Pzj0iurArPqFrig3op9"
@@ -2816,6 +2856,24 @@
       "duration_ms": 148432,
       "name": "Free Fall",
       "url": "https://open.spotify.com/track/1XSMcpNvYttlzvgON9QbBJ"
+    },
+    {
+      "album": {
+        "name": "From Here",
+        "url": "https://open.spotify.com/album/3B2S24gKijiJNkvjRei9Jl"
+      },
+      "artists": [
+        {
+          "name": "Midnight Run",
+          "url": "https://open.spotify.com/artist/5mITWbhWk5w7FPzymBNQsF"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143610,
+      "name": "From Here",
+      "url": "https://open.spotify.com/track/1Kk73V1P3iSc37Ap43FHtj"
     },
     {
       "album": {
@@ -4519,6 +4577,36 @@
     },
     {
       "album": {
+        "name": "Let It Slide",
+        "url": "https://open.spotify.com/album/2NpYYEUnqTtDO4afL5dh1I"
+      },
+      "artists": [
+        {
+          "name": "AIM\u00c9",
+          "url": "https://open.spotify.com/artist/7IzSLcjhE05QonUdUtqQ3R"
+        },
+        {
+          "name": "Odeon",
+          "url": "https://open.spotify.com/artist/3SWSnHWyLjxCkSREp4j6ye"
+        },
+        {
+          "name": "Freyer",
+          "url": "https://open.spotify.com/artist/5rWDaIemV0O8diTTcitrZ4"
+        },
+        {
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161311,
+      "name": "Let It Slide",
+      "url": "https://open.spotify.com/track/4zuodNOafqvTJiAxW61k76"
+    },
+    {
+      "album": {
         "name": "Let Me Love You",
         "url": "https://open.spotify.com/album/3cSRnSUOhwayhoMqnfsUPY"
       },
@@ -6185,6 +6273,24 @@
     },
     {
       "album": {
+        "name": "One for Me",
+        "url": "https://open.spotify.com/album/3kzSRgawJTVLzRie5UMFD4"
+      },
+      "artists": [
+        {
+          "name": "Retrac",
+          "url": "https://open.spotify.com/artist/4P9X0X8dNRMp6GoIQNFfMr"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182874,
+      "name": "One for Me",
+      "url": "https://open.spotify.com/track/72wAXN8FFG7daJ2Pc9GKUZ"
+    },
+    {
+      "album": {
         "name": "One Last Time",
         "url": "https://open.spotify.com/album/0RcHRcX8VmosC6hVEgrxDS"
       },
@@ -7240,6 +7346,36 @@
       "duration_ms": 157377,
       "name": "Shine So Bright",
       "url": "https://open.spotify.com/track/0hSpPmY8ktBSav1lpazGTY"
+    },
+    {
+      "album": {
+        "name": "Sing To You",
+        "url": "https://open.spotify.com/album/5oqiNDfc4Q2NyxojCjgWOo"
+      },
+      "artists": [
+        {
+          "name": "Amaranth Skies",
+          "url": "https://open.spotify.com/artist/6v1yanGkwUBUbk6G3dgNOq"
+        },
+        {
+          "name": "\u00c6j",
+          "url": "https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41"
+        },
+        {
+          "name": "FIXL",
+          "url": "https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li"
+        },
+        {
+          "name": "Gavriel",
+          "url": "https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134880,
+      "name": "Sing To You",
+      "url": "https://open.spotify.com/track/3n8PdsOSOYbzYquEDDy3WB"
     },
     {
       "album": {
@@ -8439,6 +8575,28 @@
     },
     {
       "album": {
+        "name": "The Power Of Love",
+        "url": "https://open.spotify.com/album/2h6NzhwCfzQNP6i4NFzZF3"
+      },
+      "artists": [
+        {
+          "name": "Brandon Chase",
+          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
+        },
+        {
+          "name": "outset island",
+          "url": "https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/4LF9qVQKdM46SQ3Rl2ZEhY"
+    },
+    {
+      "album": {
         "name": "The Rhythm of the Night",
         "url": "https://open.spotify.com/album/0N6vzwE5lMFBu90zKoftig"
       },
@@ -9262,6 +9420,28 @@
     {
       "album": {
         "name": "With You",
+        "url": "https://open.spotify.com/album/6hE8DlNrnvnavNIT9kShMq"
+      },
+      "artists": [
+        {
+          "name": "Conner Fox",
+          "url": "https://open.spotify.com/artist/5pzmyLQtEyHVHfz9snWDmn"
+        },
+        {
+          "name": "madugo",
+          "url": "https://open.spotify.com/artist/5NstYi6AvKAVD0kroo0QVC"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121142,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/7nIJwWOQgmatvOcwOfNZ6Y"
+    },
+    {
+      "album": {
+        "name": "With You",
         "url": "https://open.spotify.com/album/6QWXR95ARSK49Jo1YZvMny"
       },
       "artists": [
@@ -9315,6 +9495,24 @@
     },
     {
       "album": {
+        "name": "Wonderwall",
+        "url": "https://open.spotify.com/album/4YqEWewtT3C4Yuq4hyxEZM"
+      },
+      "artists": [
+        {
+          "name": "NORRA",
+          "url": "https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/1zQQyk8eqbvGZZuPMMUE3S"
+    },
+    {
+      "album": {
         "name": "Wondrous",
         "url": "https://open.spotify.com/album/35eoDCF09R5E0R1t6YI5bL"
       },
@@ -9364,6 +9562,50 @@
       "duration_ms": 163509,
       "name": "Wondrous",
       "url": "https://open.spotify.com/track/7r6dJAxWNa2Y2gIKwpeiKl"
+    },
+    {
+      "album": {
+        "name": "YOU & I",
+        "url": "https://open.spotify.com/album/6jg65vUhHbwyuCzW79EGpb"
+      },
+      "artists": [
+        {
+          "name": "PHURS",
+          "url": "https://open.spotify.com/artist/2UXdzClMex3N47C9m1fkeX"
+        },
+        {
+          "name": "Timmy Commerford",
+          "url": "https://open.spotify.com/artist/0Y0r9IKRjfC62MAYMDEMZO"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188040,
+      "name": "YOU & I",
+      "url": "https://open.spotify.com/track/6nPh3Cn9n4JR1ywTVGM720"
+    },
+    {
+      "album": {
+        "name": "You And I",
+        "url": "https://open.spotify.com/album/0wqjtQh6JElawszfoGejhC"
+      },
+      "artists": [
+        {
+          "name": "Friends & I",
+          "url": "https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn"
+        },
+        {
+          "name": "NVRT",
+          "url": "https://open.spotify.com/artist/6qxvo887cuQQjfMEtyE0v7"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136271,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/3J217Q4UxPawt2p0ldy419"
     },
     {
       "album": {

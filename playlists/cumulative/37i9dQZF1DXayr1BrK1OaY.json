@@ -440,7 +440,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 162954,
       "name": "Another Life (feat. FLETCHER & Josh Golden)",
       "url": "https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 196375,
       "name": "Because You Move Me",
       "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
@@ -1030,6 +1030,24 @@
       "duration_ms": 275828,
       "name": "Calling On",
       "url": "https://open.spotify.com/track/6ByN6v7D5YUogv622VMGrk"
+    },
+    {
+      "album": {
+        "name": "CAN WE DO BETTER?",
+        "url": "https://open.spotify.com/album/4Rw1TC7L4Of74J9Zjx8ruQ"
+      },
+      "artists": [
+        {
+          "name": "LUV HRTS",
+          "url": "https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187145,
+      "name": "CAN WE DO BETTER?",
+      "url": "https://open.spotify.com/track/7rk4EiOqYMntjUVqQv7yoy"
     },
     {
       "album": {
@@ -2418,7 +2436,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 241040,
       "name": "Heavy With Hoping",
       "url": "https://open.spotify.com/track/2W2e6TBrwJt4ASh5jyYgvZ"
@@ -2546,7 +2564,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 196598,
       "name": "Higher Than Ever Before",
       "url": "https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh"
@@ -4436,7 +4454,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 206320,
       "name": "Ocean Drive",
       "url": "https://open.spotify.com/track/4b93D55xv3YCH5mT4p6HPn"
@@ -5326,6 +5344,28 @@
       "duration_ms": 223336,
       "name": "Satisfied - Edit",
       "url": "https://open.spotify.com/track/378c4bnvmnfAoMTSIOveDX"
+    },
+    {
+      "album": {
+        "name": "SAVE ME",
+        "url": "https://open.spotify.com/album/4IHs5K9AlUPG2jNNlNR84l"
+      },
+      "artists": [
+        {
+          "name": "Boston Bun",
+          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
+        },
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216960,
+      "name": "SAVE ME",
+      "url": "https://open.spotify.com/track/0TsJzxDrjLNs6szBrho1dG"
     },
     {
       "album": {
@@ -6616,6 +6656,28 @@
       "duration_ms": 171786,
       "name": "Turn The Table",
       "url": "https://open.spotify.com/track/70HsIqEK1ATmos8ZAz4wHC"
+    },
+    {
+      "album": {
+        "name": "U REALLY HURT ME",
+        "url": "https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5"
+      },
+      "artists": [
+        {
+          "name": "LUV HRTS",
+          "url": "https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8"
+        },
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162406,
+      "name": "U REALLY HURT ME",
+      "url": "https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy"
     },
     {
       "album": {

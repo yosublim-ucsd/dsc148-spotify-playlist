@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 🌺 Kannessa emma.
 
-120 songs - 6 hr 5 min
+122 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Baddie](https://open.spotify.com/track/3rigBKJ6rkvbBnH95Gn6jf) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Baddie](https://open.spotify.com/album/6hboIqWwRiPMYaLWYfDHjq) | 2:27 | 2024-07-02 | 2024-07-05 |
 | [barbi ja ken](https://open.spotify.com/track/3GfmAxiaZZKYwyIR4YL6fR) | [beibi](https://open.spotify.com/artist/18nbG6xuN3bgVkZXoeoIZj) | [barbi ja ken](https://open.spotify.com/album/19o1zKf5fLwg3oDHtUkEjK) | 2:42 | 2024-07-04 |  |
 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 | 2024-07-02 |  |
+| [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 | 2024-07-05 |  |
 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 | 2024-07-02 |  |
 | [Caught Up](https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Caught Up](https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML) | 3:50 | 2024-07-02 |  |
 | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN) | 2:34 | 2024-07-02 |  |
@@ -26,6 +27,7 @@
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-07-02 |  |
 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 | 2024-07-02 |  |
 | [Cross Your Mind](https://open.spotify.com/track/5E4dFNH0sBnSnIybnKui0S) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Cross Your Mind](https://open.spotify.com/album/2T6k6o12ud6iyjYNNhOSPz) | 2:34 | 2024-07-04 |  |
+| [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 | 2024-07-05 |  |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-04 |  |
 | [Dance With Me](https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance With Me](https://open.spotify.com/album/1wkUCIDGpYN0PEIcyG4dS6) | 3:45 | 2024-07-02 |  |
 | [Dansa](https://open.spotify.com/track/4BMRAWN0jTtswCO2WEn8Ew) | [Maciano](https://open.spotify.com/artist/3GpWYbEJR6zCD92xABJXTD) | [Dansa](https://open.spotify.com/album/7MWtlBEpanvceoC9hvwd2A) | 2:46 | 2024-07-04 |  |
@@ -68,8 +70,8 @@
 | [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 | 2024-07-04 |  |
 | [Loistamaan](https://open.spotify.com/track/1RrQF0fwHmEchQpK3lJei8) | [LukaBo](https://open.spotify.com/artist/3d3qDkQWPJ8lVF8PddvTXb) | [Loistamaan](https://open.spotify.com/album/0unIjef51eLYGB3l9v7Gae) | 3:05 | 2024-07-04 |  |
 | [Look Who's Laughing Now](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Look Who's Laughing Now](https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3) | 2:54 | 2024-07-02 |  |
-| [LOVE](https://open.spotify.com/track/67GlbA9W8Iv5bQo46hDmiB) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [LOVE](https://open.spotify.com/album/02TBIc5O1840Y6VSa92gU5) | 2:26 | 2024-07-02 |  |
-| [Love Flow](https://open.spotify.com/track/2joCJp4nNp0ug8Dr7txktX) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Unforgettable](https://open.spotify.com/album/5wrBNU0VALWGi0MN3brYUO) | 3:39 | 2024-07-02 |  |
+| [LOVE](https://open.spotify.com/track/67GlbA9W8Iv5bQo46hDmiB) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [LOVE](https://open.spotify.com/album/02TBIc5O1840Y6VSa92gU5) | 2:26 | 2024-07-02 | 2024-07-06 |
+| [Love Flow](https://open.spotify.com/track/2joCJp4nNp0ug8Dr7txktX) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Unforgettable](https://open.spotify.com/album/5wrBNU0VALWGi0MN3brYUO) | 3:39 | 2024-07-02 | 2024-07-06 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-07-02 |  |
 | [Lupaa et sä lähet](https://open.spotify.com/track/7MR91GiYTmxI5U9oKhqn9c) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T), [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Lupaa et sä lähet](https://open.spotify.com/album/3Z3oF6JddtFYHYMY3JFCct) | 3:23 | 2024-07-02 |  |
 | [Lutkajenkka](https://open.spotify.com/track/3AfyderccqdtuLSTYAu3vv) | [Vgr](https://open.spotify.com/artist/4EJrHgRLh0VMC3aA7RkmH9) | [Lutkajenkka](https://open.spotify.com/album/52ixbntmHugJHdcSwAtsiB) | 2:42 | 2024-07-02 |  |

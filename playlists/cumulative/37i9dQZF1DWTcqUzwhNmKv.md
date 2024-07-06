@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> NOTHING MORE on top of today's best Metal playlist.
+> Poppy on top of today's best Metal playlist.
 
-707 songs - 1 day 22 hr 45 min
+709 songs - 1 day 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Changes](https://open.spotify.com/track/1UE2CNieJRlvAL5xxyQgPT) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN), [Nico Sallach](https://open.spotify.com/artist/02UmgKnxslxUbrVpHhF9bb) | [Changes](https://open.spotify.com/album/4gDPDFL9lxg1865PN8niQB) | 3:47 | 2022-01-07 | 2022-02-11 |
 | [CHAOS](https://open.spotify.com/track/7MKG6MvGpmE8qkdzXS4Rfe) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [CHAOS](https://open.spotify.com/album/1KOFi5BG2eDs7oomy6tMxW) | 3:02 | 2022-03-03 | 2022-06-10 |
 | [Chaos Horrific](https://open.spotify.com/track/4Zsix11Dx5iiS0X7EclZSF) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Chaos Horrific](https://open.spotify.com/album/2OsBHxwlW8kJx2YCnhH7rI) | 3:32 | 2023-10-20 | 2024-02-10 |
-| [Chaotic](https://open.spotify.com/track/4mdp26YsqfiqL6Fj9DJmaV) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Chaotic](https://open.spotify.com/album/7CVMgkiSYe0PWvm6umBTwj) | 2:51 | 2024-05-03 |  |
+| [Chaotic](https://open.spotify.com/track/4mdp26YsqfiqL6Fj9DJmaV) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Chaotic](https://open.spotify.com/album/7CVMgkiSYe0PWvm6umBTwj) | 2:51 | 2024-05-03 | 2024-07-06 |
 | [CHILDREN OF SORROW](https://open.spotify.com/track/0m1JXimp3o6AP7yBtCXCKd) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [CHILDREN OF SORROW](https://open.spotify.com/album/7Kb3GTVE5cBCvXOPxoLzlr) | 3:20 | 2023-11-03 | 2024-06-22 |
 | [Church Burns](https://open.spotify.com/track/5a6VEGwYR8xM6daWuhml9j) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Church Burns](https://open.spotify.com/album/6Ox5BbUgNycErk1kekWaMB) | 3:03 | 2022-01-21 | 2022-02-11 |
 | [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/track/74Ijstyp0EXcdEZzyLOJy6) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/album/6EhTaVPe67FETk9tIbi8nq) | 4:06 | 2022-04-15 | 2022-06-24 |
@@ -308,7 +308,7 @@
 | [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 | 2023-04-14 | 2023-04-29 |
 | [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-03 | 2023-04-17 |
 | [If I Could](https://open.spotify.com/track/7MSGK0KByE9M66NOMup1AT) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [If I Could](https://open.spotify.com/album/6szEjP6Wd7OcTeITpFlNtR) | 3:29 | 2023-04-28 | 2023-12-02 |
-| [IF IT DOESN'T HURT](https://open.spotify.com/track/1ve6FiKnpfXt8vUxhndH7p) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [CARNAL](https://open.spotify.com/album/0ivYaIK4SxXpiSiKXTNvtF) | 2:59 | 2024-06-28 |  |
+| [IF IT DOESN'T HURT](https://open.spotify.com/track/1ve6FiKnpfXt8vUxhndH7p) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [CARNAL](https://open.spotify.com/album/0ivYaIK4SxXpiSiKXTNvtF) | 2:59 | 2024-06-28 | 2024-07-06 |
 | [IF IT DOESN'T HURT](https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [IF IT DOESN'T HURT](https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo) | 2:59 | 2024-02-02 | 2024-06-29 |
 | [If Tomorrow Never Comes](https://open.spotify.com/track/0OzYhueF403FBct7orzGEg) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Dear Monsters](https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o) | 3:08 | 2021-12-20 | 2022-03-11 |
 | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/5MgL0ccriqgDP1Gq3pwNNO) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/3la7NF2COfg90BdTY7HGtS) | 3:09 | 2022-03-18 | 2022-06-17 |
@@ -439,6 +439,7 @@
 | [Pale Iris](https://open.spotify.com/track/5c3CJeTQO5oZqKdKRAqkg3) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Pale Iris](https://open.spotify.com/album/3XIN5O8ioMsCQwumlx7QUt) | 4:23 | 2023-08-25 | 2024-02-10 |
 | [Panic Attack](https://open.spotify.com/track/1yEz9RflAoVrjAbCLnEI35) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Panic Attack](https://open.spotify.com/album/02DtysqFzSbWAfptGA7mec) | 5:25 | 2023-10-20 | 2024-02-24 |
 | [Paradigm Trigger](https://open.spotify.com/track/5sHywETRouJFGWns4QKKlp) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Paradigm Trigger / Angels Weep](https://open.spotify.com/album/1yESM99I8dgP2XBl6gTDkZ) | 3:21 | 2024-02-23 | 2024-03-09 |
+| [Paralyzed](https://open.spotify.com/track/4IZqSAp69gs1gaRREITNmr) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Paralyzed](https://open.spotify.com/album/3blpmJHSbVyMkFAw42nVkD) | 3:15 | 2024-07-05 |  |
 | [Parasite](https://open.spotify.com/track/0sBXPxWJpMlQBnVF2y78Rg) | [Archetypes Collide](https://open.spotify.com/artist/6Gnk08ItppARKX1z1EW3Vn) | [Parasite](https://open.spotify.com/album/0sx2ImaWkigyLHH45jdIo1) | 3:32 | 2023-03-03 | 2023-09-16 |
 | [Party in My Head](https://open.spotify.com/track/0iqJIE15UsLphh2BdZ3aoh) | [Pain](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Party in My Head](https://open.spotify.com/album/7yiMd6l7NvEbDwgjfImxUp) | 3:08 | 2022-10-07 | 2022-12-10 |
 | [Pass The Nirvana](https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Pass The Nirvana](https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs) | 3:17 | 2022-10-14 | 2023-04-22 |
@@ -491,6 +492,7 @@
 | [Salt](https://open.spotify.com/track/4BSrRUm2cSaLRjN7xGpCRt) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Color Decay](https://open.spotify.com/album/5H93Egq9XH6M9R1mkxQDch) | 3:27 | 2022-09-30 | 2023-03-11 |
 | [Salt](https://open.spotify.com/track/5Ve3eqZmguw75vcY7iwwZY) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Salt](https://open.spotify.com/album/1HqkZxWaoHVC5OPhGlHGa0) | 3:27 | 2022-06-10 | 2022-08-06 |
 | [Salt \(feat\. Dayseeker\)](https://open.spotify.com/track/4giP4hSHWfO7LfvlG50Z44) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Salt \(feat\. Dayseeker\)](https://open.spotify.com/album/3aniEhGPueequKj0nUJzfP) | 3:27 | 2023-08-25 | 2024-02-24 |
+| [Saturn Coming Down](https://open.spotify.com/track/31ZTKhrSPeufd3L1Wd12kc) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Saturn Coming Down](https://open.spotify.com/album/5VgKnBiputFStCvTUPlYge) | 5:58 | 2024-07-05 |  |
 | [Save Us](https://open.spotify.com/track/4wgNeJC09meKtvYTjGTyG8) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Save Us](https://open.spotify.com/album/5vCm979YxXhzYDlpgyYRgW) | 4:45 | 2022-03-03 | 2022-05-06 |
 | [Scars On A Soul](https://open.spotify.com/track/7zuuCnA5KwE12ij3up8i4P) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I) | [Scars On A Soul](https://open.spotify.com/album/5DMaqfH3GHcqcxbeTQaYRH) | 2:48 | 2024-05-03 | 2024-05-25 |
 | [Scourge of the Offspring](https://open.spotify.com/track/68xQkT5Ww6SZBzbQzreOju) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [Scourge of the Offspring](https://open.spotify.com/album/0EOXYZmf3RXHG8ERn4iElN) | 4:28 | 2023-04-07 | 2023-07-15 |

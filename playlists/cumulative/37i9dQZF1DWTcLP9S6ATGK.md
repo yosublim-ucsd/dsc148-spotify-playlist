@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Geisha
 
-112 songs - 7 hr 23 min
+114 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bukan Dengan Dia](https://open.spotify.com/track/03mQ3i9vPCEYO9KVi9qjHb) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm), [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Bukan Dengan Dia](https://open.spotify.com/album/6F8ak3UeNmOXcE4v3KctlC) | 4:01 | 2024-06-27 |  |
 | [Bukan Karena Tak Cinta](https://open.spotify.com/track/66mmXcrSk8HfyIf28hRGIT) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd), [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Bukan Karena Tak Cinta](https://open.spotify.com/album/1txZB0N3UvCesSy5mdyq3x) | 4:18 | 2024-06-27 |  |
 | [Bukan Sebuah Rindu](https://open.spotify.com/track/52nlvStdjH3V5h4Kga8nTp) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Bukan Sebuah Rindu](https://open.spotify.com/album/3aEQ9agxX7W9hCR5dQi4jy) | 3:51 | 2024-06-27 |  |
+| [Cap Cip Cup](https://open.spotify.com/track/0xIV3W0W9LjlbNHcFMNWJt) | [3 Papah Muda](https://open.spotify.com/artist/3wkv8QdNj7ElkfHJHzyP5j), [Intan Fauziah](https://open.spotify.com/artist/15SBg9r1zorCYN8GtL0XcH) | [Cap Cip Cup](https://open.spotify.com/album/24M1PIABVcxglRD0jaCTCw) | 3:52 | 2024-07-05 |  |
 | [Dan...](https://open.spotify.com/track/1rQikrucqgplHbRz4zs0uu) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Dan...](https://open.spotify.com/album/1Gu0t5IsJYhU1c6MqphVNO) | 4:34 | 2024-06-27 |  |
 | [Datang Untuk Bertamu](https://open.spotify.com/track/5DtDSgArYifkJS5hDZ7YAx) | [Dewanda Pratama](https://open.spotify.com/artist/2fyO8muxJQylRhoNGHdIRV) | [Datang Untuk Bertamu](https://open.spotify.com/album/4yf7Jnp2IpqdfSuKDSSrcV) | 3:42 | 2024-07-04 |  |
 | [Daur Hidup](https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Daur Hidup](https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI) | 2:42 | 2024-06-27 |  |
@@ -102,6 +103,7 @@
 | [Senja Kala Itu](https://open.spotify.com/track/0I0oskzM8APHsjHeccZwnc) | [Hiranya](https://open.spotify.com/artist/2qF8KVdfgswp7r9Atf4XXp) | [Senja Kala Itu](https://open.spotify.com/album/3MCA0xGtfAvWVGTGIybY0h) | 3:33 | 2024-06-27 |  |
 | [Siapa yang Salah](https://open.spotify.com/track/17UUHWz4YE6NGiOnrEMqtH) | [More on Mumbles](https://open.spotify.com/artist/3w6Jz1N07G2oREu2jRqKSN) | [\(Masih\) Kalah](https://open.spotify.com/album/6r2HtvSWwhAU4b74a3OcT3) | 2:58 | 2024-06-27 |  |
 | [Silakan](https://open.spotify.com/track/4pzNeQGUwjiS62z253nHWQ) | [Astrid](https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l) | [Silakan](https://open.spotify.com/album/444trBoPD85W5xTE1G82lj) | 3:30 | 2024-06-27 |  |
+| [Suamiku](https://open.spotify.com/track/5L6ydpf6e8upEYWBpBGggs) | [Astrid Kuya](https://open.spotify.com/artist/1GkXjvYeaQiWD4KwZVw5PY) | [Suamiku](https://open.spotify.com/album/1rEERVVGC49VgTHStK8U2l) | 4:02 | 2024-07-05 |  |
 | [Tak Disisiku](https://open.spotify.com/track/4lOSSfnRC0wxPLhV8DB2Ev) | [Ronie Udara](https://open.spotify.com/artist/4DtOpD3b6VrkUwa1HZecJx) | [Tak Disisiku](https://open.spotify.com/album/1Wdsl0q8Yjfu6bK7BR9xVM) | 3:58 | 2024-06-27 |  |
 | [Tak Ingin Mengenalmu](https://open.spotify.com/track/1FBrBZFAnBiUcIVEh38K6q) | [Janita Gabriela](https://open.spotify.com/artist/4Hg2HsjmpwAYB1yAyKE1U7) | [Tak Ingin Mengenalmu](https://open.spotify.com/album/7omNPpYUjfINeqZjJ9qMmr) | 4:39 | 2024-06-27 | 2024-07-05 |
 | [Tak Masalah](https://open.spotify.com/track/05QYcEboiQno5QQmQbr4rF) | [Indah Aqila](https://open.spotify.com/artist/0W9e1Ynzjurb3VAE1atJGD) | [Tak Masalah](https://open.spotify.com/album/49CI1tIBEN1VjxgMjvjFu3) | 3:45 | 2024-06-27 | 2024-07-05 |

@@ -3734,7 +3734,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 201823,
       "name": "Damage",
       "url": "https://open.spotify.com/track/6S0nRvCvWPpYg07vDqf1gM"
@@ -4110,7 +4110,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 172067,
       "name": "DELTA",
       "url": "https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U"
@@ -4599,6 +4599,32 @@
     },
     {
       "album": {
+        "name": "Don't Go",
+        "url": "https://open.spotify.com/album/2F3f8VoAkiKe55ERSni6Ym"
+      },
+      "artists": [
+        {
+          "name": "Slippy",
+          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
+        },
+        {
+          "name": "Rebel Scum",
+          "url": "https://open.spotify.com/artist/59aaYbMLU4xeqKrwJSY4tE"
+        },
+        {
+          "name": "Medyk",
+          "url": "https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289655,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/2wxhfVQVsBc6A0mjoak3bI"
+    },
+    {
+      "album": {
         "name": "Don't Look Back",
         "url": "https://open.spotify.com/album/3kWl8jchAKeK2VoT2sw1cZ"
       },
@@ -4728,7 +4754,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 181028,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/1DoFiO1x9P3Ls2LVI40qVj"
@@ -7084,7 +7110,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 191836,
       "name": "Frequency Knife",
       "url": "https://open.spotify.com/track/1V2gN3aisB9mQRH8hWEbwY"
@@ -7965,6 +7991,28 @@
     },
     {
       "album": {
+        "name": "HAWT",
+        "url": "https://open.spotify.com/album/6FhSIhgctT9qOQ7akFXMMV"
+      },
+      "artists": [
+        {
+          "name": "Hydraulix",
+          "url": "https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W"
+        },
+        {
+          "name": "Oski",
+          "url": "https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229714,
+      "name": "HAWT",
+      "url": "https://open.spotify.com/track/5KbDsa9FwfOLlU0lEK4a54"
+    },
+    {
+      "album": {
         "name": "HEADCASE",
         "url": "https://open.spotify.com/album/4QFtZ8a8SjNrk2uCY1TP0Z"
       },
@@ -8204,7 +8252,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 225600,
       "name": "HERO",
       "url": "https://open.spotify.com/track/10LJKB5IyEZX4uimdwOi6t"
@@ -8306,6 +8354,60 @@
       "duration_ms": 147019,
       "name": "Himalaya",
       "url": "https://open.spotify.com/track/4BihwGtI5z8wYsr3GkCi6T"
+    },
+    {
+      "album": {
+        "name": "Hoist The Colours (Excision & Sullivan King Remix)",
+        "url": "https://open.spotify.com/album/33EAeyVU1KQKTvh4K0Dg80"
+      },
+      "artists": [
+        {
+          "name": "The Wellermen",
+          "url": "https://open.spotify.com/artist/20q3NJtmeKSi3BTnmUFK16"
+        },
+        {
+          "name": "Ebucs",
+          "url": "https://open.spotify.com/artist/0Sl22kYbJDXJoZvmOKe4XQ"
+        },
+        {
+          "name": "Eric Hollaway",
+          "url": "https://open.spotify.com/artist/1h9NOlRgTGVBZdX3Zab79l"
+        },
+        {
+          "name": "Daniel Brevik",
+          "url": "https://open.spotify.com/artist/0g1ScDyTSIJprId6DF9iP7"
+        },
+        {
+          "name": "Davide Dalmonte",
+          "url": "https://open.spotify.com/artist/1RSqmcLE8D3i6NTXiCTDfj"
+        },
+        {
+          "name": "Bobby Bass",
+          "url": "https://open.spotify.com/artist/0ZM2ioGGBOZ3NPTSUbuimj"
+        },
+        {
+          "name": "Jesse Elkins",
+          "url": "https://open.spotify.com/artist/0L0niduYxtCzpa0MVV6NDQ"
+        },
+        {
+          "name": "Luke G. Taylor",
+          "url": "https://open.spotify.com/artist/2WjGfJyJAY4Q5WvY2rtKMr"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149136,
+      "name": "Hoist The Colours (Excision & Sullivan King Remix)",
+      "url": "https://open.spotify.com/track/6sKog4OAuRZfYmQRrLYExz"
     },
     {
       "album": {
@@ -10499,6 +10601,32 @@
     },
     {
       "album": {
+        "name": "Mad Ting",
+        "url": "https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194685,
+      "name": "Mad Ting",
+      "url": "https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9"
+    },
+    {
+      "album": {
         "name": "Make U SWEAT!",
         "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
       },
@@ -11820,6 +11948,24 @@
       "duration_ms": 156190,
       "name": "Nightbird",
       "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
+    },
+    {
+      "album": {
+        "name": "NIICETALK",
+        "url": "https://open.spotify.com/album/1rp7NYqb5bGlAAgI6V8JQG"
+      },
+      "artists": [
+        {
+          "name": "Shadient",
+          "url": "https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "NIICETALK",
+      "url": "https://open.spotify.com/track/0swcIxhOu1iKmyU5686yl3"
     },
     {
       "album": {
@@ -13666,7 +13812,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 160800,
       "name": "Rainbow Funk",
       "url": "https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa"
@@ -14799,6 +14945,28 @@
     },
     {
       "album": {
+        "name": "SECONDS",
+        "url": "https://open.spotify.com/album/5Xn6T5RsI175AieQ3amtEw"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        },
+        {
+          "name": "Stace Cadet",
+          "url": "https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "SECONDS",
+      "url": "https://open.spotify.com/track/62K7mijyKUuvomEaFDWDX7"
+    },
+    {
+      "album": {
         "name": "Seduce / Destroy",
         "url": "https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv"
       },
@@ -14950,7 +15118,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 231724,
       "name": "Sell My Soul",
       "url": "https://open.spotify.com/track/6zHP39snHhnIAJVax30Xqh"
@@ -15002,6 +15170,28 @@
       "duration_ms": 232137,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/6ZT3s43kO7TpVJbrl6UREX"
+    },
+    {
+      "album": {
+        "name": "Set The Flow",
+        "url": "https://open.spotify.com/album/6HJDm4GQlJLaYwWzsVJTbl"
+      },
+      "artists": [
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197603,
+      "name": "Set The Flow",
+      "url": "https://open.spotify.com/track/1GkvXqjgnH8iLLcRuhp9m7"
     },
     {
       "album": {

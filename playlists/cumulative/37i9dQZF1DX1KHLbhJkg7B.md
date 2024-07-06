@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Kane Brown
 
-387 songs - 1 day 0 hr 12 min
+388 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Here You Come Again](https://open.spotify.com/track/2DaaWA2TxQV4heZwWrX5oY) | [Cody Belew](https://open.spotify.com/artist/57mO2JxS9Ce0dX4ZJsUlfk) | [Here You Come Again](https://open.spotify.com/album/2Qcwg7sn0G09II6pjLXb8K) | 3:13 | 2022-03-25 | 2022-04-21 |
 | [Highwayman](https://open.spotify.com/track/177Nwcm2cHRyQCGmunqTA5) | [Ashley Campbell](https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew) | [Highwayman](https://open.spotify.com/album/5aXf2xKrN9AwLp905oxkSg) | 4:02 | 2022-01-07 | 2022-07-15 |
 | [Highwayman](https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Nashville Rebel](https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg) | 3:02 | 2022-03-25 |  |
+| [Hold On, We're Going Home \- Country Version](https://open.spotify.com/track/2Hie8F7KYwDtxAZf9rZPwd) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Hold On, We're Going Home \(Country Version\)](https://open.spotify.com/album/1wWyT7gYPFTviJ6NNYISx8) | 3:21 | 2024-07-05 |  |
 | [Holy \(Recovered & Reimagined\)](https://open.spotify.com/track/6rQb3fNfDUiWXyNgfS6g6o) | [Levi Kreis](https://open.spotify.com/artist/3MxSB2qv4d11PSgSVCSzJG) | [Holy \(Recovered & Reimagined\)](https://open.spotify.com/album/4doUVGnSbpEHavVg5888cb) | 2:50 | 2022-03-25 | 2022-04-21 |
 | [Home](https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pure BS \(Deluxe Edition\)](https://open.spotify.com/album/1Y2uUDf2eqGm2KxvlvaJbe) | 3:50 | 2021-12-10 |  |
 | [Honky Tonk Man](https://open.spotify.com/track/0JH86boEDEXrREt6rOBac8) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Rancho Fiesta Sessions](https://open.spotify.com/album/01AWRFHGz9ioWiPcFgqGrv) | 2:51 | 2022-01-07 | 2022-07-04 |
@@ -152,7 +153,7 @@
 | [How's It Going To Be](https://open.spotify.com/track/7na30RWB0zAMrXanGSaXCJ) | [The Roads Below](https://open.spotify.com/artist/4gTxZRVdDpwAZCpSaXy7fI) | [How's It Going To Be](https://open.spotify.com/album/5i12HkZB9nh38tRvFXmyxS) | 3:51 | 2022-10-21 | 2023-01-06 |
 | [Hurt](https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:36 | 2022-03-25 |  |
 | [I Can't Stop Loving You](https://open.spotify.com/track/2apXUUeJnEMB09oZHe8Ms7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Love, Pain & The Whole Crazy Thing](https://open.spotify.com/album/4sTNnZi0xkMIaFs8tT96fl) | 4:43 | 2022-03-25 | 2022-04-20 |
-| [I Don't Want To Miss A Thing](https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy) | 4:06 | 2021-12-10 |  |
+| [I Don't Want To Miss A Thing](https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy) | 4:06 | 2021-12-10 | 2024-07-06 |
 | [I Love You Always Forever \- Acoustic](https://open.spotify.com/track/0tmIGE20GvacDymC1UEgbY) | [Everly Fair](https://open.spotify.com/artist/3x9nHuhEIv8DT7PYbyO4EE) | [I Love You Always Forever \(Acoustic\)](https://open.spotify.com/album/71wnYe7sliuqQdXMTOPa8u) | 2:40 | 2024-02-02 |  |
 | [I Shall Be Released \(feat\. Larkin Poe\)](https://open.spotify.com/track/6w6ZTXBkcf4JurAR0ruRU5) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [I Shall Be Released \(feat\. Larkin Poe\)](https://open.spotify.com/album/21WX3fvuUwoP0k7GQo5NAo) | 4:47 | 2022-04-08 | 2022-06-12 |
 | [I Swear](https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Love Songs](https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i) | 4:22 | 2021-12-10 |  |

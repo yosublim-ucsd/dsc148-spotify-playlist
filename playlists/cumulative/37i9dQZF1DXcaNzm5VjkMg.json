@@ -429,6 +429,24 @@
     },
     {
       "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/5UUq5EZYAvCFD0ZMNankvF"
+      },
+      "artists": [
+        {
+          "name": "Sherina Munaf",
+          "url": "https://open.spotify.com/artist/3UUS2j9dYbI6MB5ee8d0jp"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275133,
+      "name": "Cinta Pertama Dan Terakhir",
+      "url": "https://open.spotify.com/track/4TomVy5zx50p9boc8FqYnT"
+    },
+    {
+      "album": {
         "name": "Hit Singles BCL And More",
         "url": "https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j"
       },

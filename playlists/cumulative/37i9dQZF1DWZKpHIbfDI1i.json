@@ -2838,7 +2838,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 228880,
       "name": "Buenos Tiempos",
       "url": "https://open.spotify.com/track/7pDRRilFOcD5JZUuKWkDzx"
@@ -5068,7 +5068,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 125426,
       "name": "Dembow Fres\u00f3n \"Remix\"",
       "url": "https://open.spotify.com/track/7ckxkUmV3YgWMSJ0hgv4Lt"
@@ -5444,7 +5444,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 205517,
       "name": "Dime - Toy Selectah Cumbia Remix",
       "url": "https://open.spotify.com/track/5CrIhnbLia8Fqqr4d8UEi1"
@@ -5806,7 +5806,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 178100,
       "name": "El 100",
       "url": "https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5"
@@ -6172,7 +6172,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 170751,
       "name": "El Cielo Te Mand\u00f3 para M\u00ed",
       "url": "https://open.spotify.com/track/7HdimD8zmBiFmz5XfRIKIj"
@@ -8962,7 +8962,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 109866,
       "name": "J\u00e1lale alv",
       "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
@@ -10128,7 +10128,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 177813,
       "name": "La T\u00f3xica",
       "url": "https://open.spotify.com/track/6iNS7Co2kw6yhsioGKLMEP"
@@ -10464,7 +10464,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 188933,
       "name": "Literal",
       "url": "https://open.spotify.com/track/4M4tWXiF87o7z2y1OkHzQw"
@@ -11325,6 +11325,28 @@
     },
     {
       "album": {
+        "name": "Mali S\u00e1catela",
+        "url": "https://open.spotify.com/album/7b6q8q4NOXpUFIzObsnrKE"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Ezya",
+          "url": "https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143022,
+      "name": "Mali S\u00e1catela",
+      "url": "https://open.spotify.com/track/4522fyQXMF4dpQ5tTOKgui"
+    },
+    {
+      "album": {
         "name": "Malo Malo",
         "url": "https://open.spotify.com/album/2xVRYsy8BwFcRpxoXudKA0"
       },
@@ -11414,7 +11436,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 174609,
       "name": "Mami Chula",
       "url": "https://open.spotify.com/track/2eyM3P1DmOLguEE904BMkR"
@@ -13323,6 +13345,32 @@
     },
     {
       "album": {
+        "name": "NIENTIENDO",
+        "url": "https://open.spotify.com/album/0cq6E8PgDiEOnV0CCpXEVy"
+      },
+      "artists": [
+        {
+          "name": "Mau Moctezuma",
+          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
+        },
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163666,
+      "name": "NIENTIENDO",
+      "url": "https://open.spotify.com/track/1S0U81LjOFfcsVGpSEJrFG"
+    },
+    {
+      "album": {
         "name": "Ni\u00f1o De Oro (Deluxe Version)",
         "url": "https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz"
       },
@@ -13428,7 +13476,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 203799,
       "name": "No Disponible",
       "url": "https://open.spotify.com/track/7MuMzPh58s0acf0pCMowSr"
@@ -13688,7 +13736,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 157007,
       "name": "No Molestar",
       "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
@@ -15416,7 +15464,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 152826,
       "name": "Polvo De Gigantes",
       "url": "https://open.spotify.com/track/7K3h4TeHfK3cLWB1H6nzfO"
@@ -15712,6 +15760,36 @@
       "duration_ms": 258579,
       "name": "Prenda del Alma - Spotify Singles",
       "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
+    },
+    {
+      "album": {
+        "name": "PRENDE LA BOCINA (feat. BeatBoy)",
+        "url": "https://open.spotify.com/album/4TID8AMKXScQbE140lc45n"
+      },
+      "artists": [
+        {
+          "name": "Potencia Lirical",
+          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "BeatBoy",
+          "url": "https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171720,
+      "name": "PRENDE LA BOCINA (feat. BeatBoy)",
+      "url": "https://open.spotify.com/track/4RESrc6w1WJ2njfysrmMPt"
     },
     {
       "album": {
@@ -17780,7 +17858,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 179717,
       "name": "Six Feet Deep",
       "url": "https://open.spotify.com/track/0PYv39k6J2A85gCidgpn5u"

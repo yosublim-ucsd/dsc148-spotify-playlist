@@ -4,11 +4,12 @@
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-191 songs - 10 hr 11 min
+192 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Dois Passos do Paraíso](https://open.spotify.com/track/6ek42FNnwFIXhP0ZArfZ7h) | [SoFly](https://open.spotify.com/artist/5cjbfaJkOOpNKimOQSCsOO), [Duckhandz](https://open.spotify.com/artist/4ngmXjzqqHfeZeYnAav41E) | [A Dois Passos do Paraíso](https://open.spotify.com/album/5hKxhHCqNsFLDjdcDF8TT8) | 3:18 | 2022-06-29 | 2024-03-08 |
+| [A Namorada](https://open.spotify.com/track/4XiKD9S5iYetRQJAgb6El1) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [A Namorada](https://open.spotify.com/album/09eU4tqe8H3r8l7iXPK8LR) | 3:01 | 2024-06-28 |  |
 | [A Tal Canção Pra Lua \(Madism Remix\)](https://open.spotify.com/track/5Bf6UwWBqoqCY1hvZk2wXr) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [A Tal Canção Pra Lua \(Madism Remix\)](https://open.spotify.com/album/1mxI42QBYSi5HfNJgmKOfT) | 3:26 | 2022-06-29 | 2022-07-29 |
 | [A Tal Canção Pra Lua \- Madism Remix](https://open.spotify.com/track/1Wrw9FAuxbM3mb0kkH2M2c) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [A Tal Canção Pra Lua \(Madism Remix\)](https://open.spotify.com/album/39lSHTYchhIflEsYUPDKq0) | 3:26 | 2022-09-09 | 2024-04-19 |
 | [Abraço](https://open.spotify.com/track/3eLsE4puPlM9kTCv8lQyrR) | [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [Abraço](https://open.spotify.com/album/3qr7vGbU2AUhVNxzbWOVCb) | 3:19 | 2022-06-29 | 2022-07-23 |
@@ -195,7 +196,7 @@
 | [Várias Queixas \- Remix](https://open.spotify.com/track/3Z3hfUZFfY01EnbxhSsPB3) | [Brunetta](https://open.spotify.com/artist/2BhgwlfI2SpEU9t6vhhdiX), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas \(Remix\)](https://open.spotify.com/album/1KKLrUEv4YvPfBAoBUhOu8) | 2:03 | 2022-06-29 | 2023-02-01 |
 | [What's Love Got to Do with It](https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It](https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno) | 3:28 | 2022-06-29 | 2022-09-10 |
 | [When In Rome](https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Damon Sharpe](https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ) | [When In Rome](https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f) | 3:14 | 2022-06-29 |  |
-| [Youngr](https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Youngr](https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz) | 2:55 | 2022-06-29 |  |
+| [Youngr](https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Youngr](https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz) | 2:55 | 2022-06-29 | 2024-07-06 |
 | [Zé do caroço](https://open.spotify.com/track/0AKNWA4m7jhh4SdZxKMC0R) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh) | [Zé do caroço](https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q) | 3:12 | 2022-06-29 |  |
 | [Água de Coco](https://open.spotify.com/track/1MFanLEhxtE5NULojdFkB3) | [Nu Azeite](https://open.spotify.com/artist/7irioMPN0dD3u5I94D9TFE) | [Vem pro Mar](https://open.spotify.com/album/6KM6hXviSBq4erdXgVPAvX) | 5:05 | 2022-10-07 | 2023-02-04 |
 | [Água de Coco](https://open.spotify.com/track/1ViWBiUcCKb0vLRgzZspdc) | [Nu Azeite](https://open.spotify.com/artist/7irioMPN0dD3u5I94D9TFE) | [Água de Coco](https://open.spotify.com/album/6EIJGfcD6JyQDx2HMUetzH) | 5:05 | 2022-06-29 | 2022-10-15 |

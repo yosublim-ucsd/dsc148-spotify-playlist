@@ -67,6 +67,28 @@
     },
     {
       "album": {
+        "name": "Beyblade",
+        "url": "https://open.spotify.com/album/06tRiOznvjvLPmn7Yv4j2p"
+      },
+      "artists": [
+        {
+          "name": "BROKIX",
+          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
+        },
+        {
+          "name": "Tezzel",
+          "url": "https://open.spotify.com/artist/25wbr3tsglSoeDK40ockmT"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171034,
+      "name": "Beyblade",
+      "url": "https://open.spotify.com/track/5tWycCyiMEZSrDa9W37TSL"
+    },
+    {
+      "album": {
         "name": "BORRAXXA",
         "url": "https://open.spotify.com/album/29g2vAkqMbojrcb0SrnHQI"
       },
@@ -1582,7 +1604,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 155056,
       "name": "Me Perjudique",
       "url": "https://open.spotify.com/track/70tG2LYkoL0bbBGZhCYjnt"
@@ -1612,6 +1634,32 @@
       "duration_ms": 182068,
       "name": "Medayork",
       "url": "https://open.spotify.com/track/0OVJRLUDVurs2KSKGV9oFE"
+    },
+    {
+      "album": {
+        "name": "Mela",
+        "url": "https://open.spotify.com/album/7q5XH7ugzAYII887WeYT44"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195463,
+      "name": "Mela",
+      "url": "https://open.spotify.com/track/7qys9lvqqMCxg0dDC9cjQl"
     },
     {
       "album": {
@@ -2690,7 +2738,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 165926,
       "name": "Totes",
       "url": "https://open.spotify.com/track/5XUA9F75n88Upeze9EAazR"

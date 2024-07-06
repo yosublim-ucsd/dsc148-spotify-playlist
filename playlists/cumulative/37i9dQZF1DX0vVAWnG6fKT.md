@@ -2,7 +2,7 @@
 
 ### [40s Country](https://open.spotify.com/playlist/37i9dQZF1DX0vVAWnG6fKT)
 
-> Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
+> Classic Country from the Legends of the 1940's\. Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
 118 songs - 5 hr 22 min
 

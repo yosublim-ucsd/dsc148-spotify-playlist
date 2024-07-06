@@ -4,7 +4,7 @@
 
 > Back to the golden age of the scene\. Cover: Underoath
 
-247 songs - 15 hr 35 min
+248 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Give It All](https://open.spotify.com/track/6TTBhxnb9NYT7cz6aLOkBy) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 2:50 | 2023-03-14 | 2024-04-19 |
 | [Goodbye My Love](https://open.spotify.com/track/51VhgCrpMdrGysx0CMgyIM) | [Lovehatehero](https://open.spotify.com/artist/7x0UWXyNsNRQJtScbBnrBq) | [White Lies](https://open.spotify.com/album/2MPznUFDORXqL2lpA2IbPs) | 3:33 | 2024-07-02 |  |
 | [Guys Like You Make Us Look Bad](https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [His Last Walk](https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM) | 3:55 | 2021-12-07 |  |
+| [Hail Destroyer](https://open.spotify.com/track/1G6dOWV5WuDkg78BCT77uX) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Hail Destroyer](https://open.spotify.com/album/21rFHsmF8bEOVq7fYvCr67) | 3:16 | 2024-07-02 |  |
 | [Hand Of Blood](https://open.spotify.com/track/1z3LsJRCvln5qO5TOLduQM) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 3:36 | 2021-12-07 | 2022-07-22 |
 | [Hand Of Blood](https://open.spotify.com/track/5JWDt4NZNiZQR8iMenaa7h) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Hand Of Blood](https://open.spotify.com/album/1OEMNmMnsSLAjIC6WniFBF) | 3:37 | 2021-12-07 | 2022-12-12 |
 | [Hang 'Em High](https://open.spotify.com/track/5nDtweR08DoAARclRxt9Gp) | [A Static Lullaby](https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb) | [A Static Lullaby](https://open.spotify.com/album/3H3bVSRPq92GpMDVzPMxyJ) | 3:59 | 2021-12-07 |  |
@@ -172,7 +173,7 @@
 | [Rookie Of The Year](https://open.spotify.com/track/49W8opgkv41FNWmTYdgjCp) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed & Deep In Conversation](https://open.spotify.com/album/3wt9zG5lJJsPIs64JOSrEA) | 3:00 | 2023-03-20 | 2024-04-19 |
 | [Rookie of the Year](https://open.spotify.com/track/05IWxcvFY5t7fUVJQdK9GA) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 3:00 | 2023-03-28 |  |
 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 | 2021-12-07 |  |
-| [Save Our Selves \(The Warning\)](https://open.spotify.com/track/3jme2RKgrkBcIs0wbwbc7B) | [The Blackout](https://open.spotify.com/artist/35b2hm2fvbdZnckJO6FijB) | [The Best In Town](https://open.spotify.com/album/0PtAekoQJNGjtrTfZFc6pp) | 3:34 | 2024-07-02 |  |
+| [Save Our Selves \(The Warning\)](https://open.spotify.com/track/3jme2RKgrkBcIs0wbwbc7B) | [The Blackout](https://open.spotify.com/artist/35b2hm2fvbdZnckJO6FijB) | [The Best In Town](https://open.spotify.com/album/0PtAekoQJNGjtrTfZFc6pp) | 3:34 | 2024-07-02 | 2024-07-06 |
 | [Saying Sorry](https://open.spotify.com/track/0ZFUn5dFxuN3Um8y6ubX93) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [If Only You Were Lonely](https://open.spotify.com/album/3W97WBA2zPIHh4o6SiHapo) | 3:07 | 2021-12-07 | 2022-07-29 |
 | [Saying Sorry](https://open.spotify.com/track/3tNF4ktNoFYVbzd5LAgfMY) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [If Only You Were Lonely](https://open.spotify.com/album/2EthcuI1HKMfZC6CeC3RHq) | 3:07 | 2021-12-07 | 2024-04-19 |
 | [SECOND & SEBRING](https://open.spotify.com/track/3bdqdxoWXP3z0KuDt0o4Cn) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Of Mice & Men](https://open.spotify.com/album/2YOIrzi5u5xuiGCA7GhCMS) | 3:49 | 2021-12-07 | 2022-12-12 |

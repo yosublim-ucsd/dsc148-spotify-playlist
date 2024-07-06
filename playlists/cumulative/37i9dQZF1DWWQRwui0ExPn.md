@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,847 songs - 10 day 19 hr 34 min
+6,849 songs - 10 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1560,7 +1560,7 @@
 | [Dizzy](https://open.spotify.com/track/4jtGfSRuNkTBkF3I9qt0N5) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [Dizzy](https://open.spotify.com/album/1YOb6V7Hxqz8jbHq7ZvLJr) | 1:22 | 2022-04-08 | 2022-07-16 |
 | [Dizzy Dino](https://open.spotify.com/track/0JEt2ZD8qL4JNMb2klnalV) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Dizzy Dino](https://open.spotify.com/album/7vGE2cjl9s1fBj8MJcTDLj) | 2:48 | 2022-07-15 | 2022-11-11 |
 | [Dizzy Dreams](https://open.spotify.com/track/6hoEeSZsiJUsMvHyieLGSx) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Dizzy Dreams](https://open.spotify.com/album/6RYirlRRYpiXhav03Qthtk) | 1:57 | 2022-10-14 | 2023-10-20 |
-| [Dizzy Dreams](https://open.spotify.com/track/5sWuI90Qs18nOyYiqWbHb5) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Dizzy Dreams](https://open.spotify.com/album/2tnXyK59qY9bt2iaT5HKUo) | 1:29 | 2024-05-24 |  |
+| [Dizzy Dreams](https://open.spotify.com/track/5sWuI90Qs18nOyYiqWbHb5) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Dizzy Dreams](https://open.spotify.com/album/2tnXyK59qY9bt2iaT5HKUo) | 1:29 | 2024-05-24 | 2024-07-06 |
 | [Do I Wanna Know?](https://open.spotify.com/track/5q2RrKxolPmERgX5u3Vv9Q) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Do I Wanna Know?](https://open.spotify.com/album/1CwJBkXgCCnudjV3migqnc) | 1:30 | 2021-01-12 | 2021-06-18 |
 | [Do not Disturb](https://open.spotify.com/track/60tOs0T7iYubmzDICh6QpC) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Do not Disturb](https://open.spotify.com/album/08PFRPjfvGFEHEx7egyZRE) | 1:49 | 2023-07-27 | 2023-08-26 |
 | [Do not forget](https://open.spotify.com/track/1rUtzvQGTNYap9gPlEg1Er) | [Perry Goldfish](https://open.spotify.com/artist/4lom5jgcjrLwLQLmdi4gQZ) | [Do not forget](https://open.spotify.com/album/3uPT9OLRvCXlKGTSnviWgd) | 2:53 | 2024-05-31 |  |
@@ -2043,7 +2043,7 @@
 | [Fix Something You Broke](https://open.spotify.com/track/11cXLYRRW0OAqlPN5lJzLO) | [Recovery TIme](https://open.spotify.com/artist/30ECrzUanbQrlkzo7HQjap) | [Fix Something You Broke](https://open.spotify.com/album/7CfLOP1GRrHi6GwLPMm2rV) | 1:49 | 2022-03-11 | 2024-06-29 |
 | [fixed width](https://open.spotify.com/track/4cp6VuQ8JM3jHn6lyN28gz) | [SEIZMAN](https://open.spotify.com/artist/0cYriv4nFuLW6XRiWefFef) | [POPCORN](https://open.spotify.com/album/5tp12Oo32jLzYjOV9tYrXE) | 1:24 | 2022-01-07 | 2024-06-09 |
 | [Fizzy Kombucha](https://open.spotify.com/track/2DvaGmLzj1q4YMLfKsqTm6) | [Knob Reflection](https://open.spotify.com/artist/64jX3OfGvQkiyRkxvuCWnv) | [Fizzy Kombucha](https://open.spotify.com/album/09rlTnLULOelxZ3kV38uKo) | 1:45 | 2024-03-29 |  |
-| [fizzy pop](https://open.spotify.com/track/1x0vuG5frwPlJ9FNwVwBRX) | [Leevs](https://open.spotify.com/artist/3HHCa5TohONStbWCA2rhEo) | [fizzy pop](https://open.spotify.com/album/7q3FJ623E6o7m0pV2cOMar) | 2:01 | 2023-10-06 |  |
+| [fizzy pop](https://open.spotify.com/track/1x0vuG5frwPlJ9FNwVwBRX) | [Leevs](https://open.spotify.com/artist/3HHCa5TohONStbWCA2rhEo) | [fizzy pop](https://open.spotify.com/album/7q3FJ623E6o7m0pV2cOMar) | 2:01 | 2023-10-06 | 2024-07-06 |
 | [Flagstaff And Forest Fires](https://open.spotify.com/track/2PQ0EBpFcm9kaT11Zz4FAB) | [Charles Edison](https://open.spotify.com/artist/501lbswnZlQ04MdRpfsw1d), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Vista Point](https://open.spotify.com/album/6Ox5bWURnX5zs7WCuX5jil) | 2:10 | 2019-11-29 | 2020-10-28 |
 | [Flakes](https://open.spotify.com/track/0MgmmYnlrjM5UXsYKIRsbV) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Flakes](https://open.spotify.com/album/4aE8kXASUeG9wiH7Gx7xLz) | 1:54 | 2022-02-14 | 2022-07-22 |
 | [Flama](https://open.spotify.com/track/0uVboTc1k0nzI2JPyXMdSB) | [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [Flama](https://open.spotify.com/album/1tJjd2MpdngE0wVVkNZiXE) | 2:43 | 2023-10-06 |  |
@@ -3923,6 +3923,7 @@
 | [Most anything you want](https://open.spotify.com/track/1NtQdNfpvGv2AgDp7X5bkq) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Most anything you want](https://open.spotify.com/album/5AronauwBHe9v9AmzRGLIs) | 1:58 | 2022-12-02 | 2023-11-24 |
 | [Mostly Strong](https://open.spotify.com/track/0a3e4QmABVPEouPHV9HRSP) | [Perry Goldfish](https://open.spotify.com/artist/4lom5jgcjrLwLQLmdi4gQZ) | [Mostly Strong](https://open.spotify.com/album/4L95j8QbjuVsE171JfwpAz) | 2:44 | 2021-11-05 | 2022-05-27 |
 | [Mother Earth](https://open.spotify.com/track/1fFQhH7c9kI5JhQanfmfhJ) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Mother Earth](https://open.spotify.com/album/1b38YWEUjM281wupVyqX2i) | 1:44 | 2023-10-27 |  |
+| [Mother Earth \- Beat Edit](https://open.spotify.com/track/3ZlKyjhkrqDVHALxOUUJ7i) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z), [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH) | [Mother Earth \(Beat Edit\)](https://open.spotify.com/album/3yOEp2swptKdwMv53za2QC) | 1:44 | 2024-07-05 |  |
 | [Motion](https://open.spotify.com/track/7lTGIvl3RjuquSWs3es8ej) | [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx) | [Cruise Control](https://open.spotify.com/album/5jFmRm1ZG5dajVWUuI5WN0) | 2:34 | 2021-09-11 | 2022-04-08 |
 | [Motion Blur](https://open.spotify.com/track/41z8AHFPjaRu6PSaj3mTKL) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD) | [Divergenz](https://open.spotify.com/album/6cQNpcfHxABrVsXkLOMTag) | 2:01 | 2022-11-25 | 2022-12-11 |
 | [Motion Blur](https://open.spotify.com/track/6iYdBrHjTSmmDgPZO4EXfU) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD) | [Divergenz](https://open.spotify.com/album/4p61zb20E3SOhgS1M3IkZi) | 2:01 | 2022-12-09 | 2023-10-20 |
@@ -4970,6 +4971,7 @@
 | [Roses](https://open.spotify.com/track/3sF5Kl4KSwJGmnCtKMsnHE) | [Dolittlebeats](https://open.spotify.com/artist/3fk9GO2x9QE9ZHGmv1TTZz) | [Roses](https://open.spotify.com/album/7iKHSEWJ9OCV59FwlJzn5c) | 1:29 | 2023-04-05 | 2023-07-29 |
 | [Rosewood](https://open.spotify.com/track/6F0ky02XB2sZsiMl2tVuxm) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Rosewood](https://open.spotify.com/album/5og8lhHA5yP0YhhcyPV6Ie) | 2:42 | 2019-05-26\* | 2020-04-04 |
 | [Rosso](https://open.spotify.com/track/3pscNS95UxbGBl9JY0SsFP) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Rosso](https://open.spotify.com/album/0VBXpCv2RP6ekq7rtGpX7w) | 2:01 | 2023-02-07 | 2023-04-06 |
+| [Rotations](https://open.spotify.com/track/3hny0ozGjSAAuBfJrSWYwE) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Rotations](https://open.spotify.com/album/1aY21H3EiFzk4TafqDZ7EX) | 2:08 | 2024-07-05 |  |
 | [Rough Sea](https://open.spotify.com/track/3p4FGcnGJWDuVwMXnXHDFc) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Rough Sea](https://open.spotify.com/album/6PGTZefZ9kRgobVjaQ97hm) | 2:24 | 2023-12-08 |  |
 | [Roulette](https://open.spotify.com/track/1vgY5wTDjfC0ElSMhg9ITn) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Roulette](https://open.spotify.com/album/7xSNWnFbZQydyh3P3xkEA0) | 2:15 | 2022-09-09 | 2022-11-21 |
 | [Roulette](https://open.spotify.com/track/2lI7nhr0XEcxDvnb9DP9qP) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Roulette](https://open.spotify.com/album/7GPvT0fVgMY5BefBNMOhNo) | 2:15 | 2022-11-18 | 2022-12-09 |

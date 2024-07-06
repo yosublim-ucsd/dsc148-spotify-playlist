@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-727 songs - 2 day 21 hr 22 min
+728 songs - 2 day 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Mercury](https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp) | 3:45 | 2022-09-02 | 2023-02-18 |
 | [Metamorphosis \- Marie Vaunt Remix](https://open.spotify.com/track/0bfeRvbX6Y7BU13QqeA7wf) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Metamorphosis \(Remixes\)](https://open.spotify.com/album/57pdwokXUIOHrmM272v7qk) | 6:17 | 2023-06-09 | 2023-10-13 |
 | [Metron](https://open.spotify.com/track/5TECPwdkPrllyEff27z99g) | [Mark Reeve](https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ) | [Metron](https://open.spotify.com/album/3Cd2TcLNpCpsDOmsAYHbE8) | 6:31 | 2020-04-18\* | 2020-06-30 |
+| [Midnight Paradox](https://open.spotify.com/track/0ItHtlutZ5R49NjmUkjgor) | [Gizmo & Mac](https://open.spotify.com/artist/7mnoyEA7pGl5D9QmJtNP7L), [HNGT](https://open.spotify.com/artist/1LMZAwKQsYL6iIyAx7VuLK) | [Midnight Paradox](https://open.spotify.com/album/20Fz0RZPN4DC2Zxvu0yRWu) | 6:16 | 2024-07-05 |  |
 | [Mind Capture \- Original Mix](https://open.spotify.com/track/1vFIbLmg3FlXwRszXFbbnK) | [Uto Karem](https://open.spotify.com/artist/6KBbbE4QVlVQwFNIXrD8hF), [Gaston Zani](https://open.spotify.com/artist/2uU0gIFQJd8zSyAaxhhoL1) | [Desiderati 4.3](https://open.spotify.com/album/4OcZSX1wb3NsOi8xkSJPM8) | 7:03 | 2020-08-08 | 2020-12-18 |
 | [Mind Hype](https://open.spotify.com/track/7M6BK7guer8tuSMu2ixk5a) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Scope](https://open.spotify.com/album/5CGCxAJjT4cUdTRsmjGGR7) | 6:08 | 2022-12-02 | 2023-05-13 |
 | [Mindblower](https://open.spotify.com/track/3UdmXo9ZEMDFOHQgj5Svs4) | [Tom Wax](https://open.spotify.com/artist/1b0WGyps7QC5KqSSq57wXX) | [Mindblower](https://open.spotify.com/album/3HEgPHkuUoJenH1HOIRrxC) | 6:42 | 2021-10-30 | 2022-03-26 |
@@ -718,7 +719,7 @@
 | [Winamp](https://open.spotify.com/track/4ztlC3EnemDhNIooYR3SOV) | [Introversion](https://open.spotify.com/artist/7qXRl6cKc9zsbV0ekjUQKm) | [Frostwire EP](https://open.spotify.com/album/3p7kKnXyXbRGDJ6pLBKIWo) | 5:39 | 2024-06-14 |  |
 | [Wise Saying](https://open.spotify.com/track/12w5BTUsdBNPQtDQr0xe8w) | [Rødhåd](https://open.spotify.com/artist/2hjOQqLAZDVolzxNhnSK2h), [Sara Clarke](https://open.spotify.com/artist/1Dthi9kK2qsRoIw2S2coDd) | [Alternation](https://open.spotify.com/album/1X6UFwxiJp7V3QVkziem8G) | 5:17 | 2022-03-07 | 2022-04-23 |
 | [World Gone Mad](https://open.spotify.com/track/40tYY6O9fgxJVp4DFMkJ0Y) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Welcome to My World](https://open.spotify.com/album/7wPqfJhYxRIS8qA1YxlNCQ) | 4:24 | 2022-10-07 | 2022-11-12 |
-| [Worst Poisons Taste the Sweetest](https://open.spotify.com/track/2VB9UYFqo0tIEyMPEMJljh) | [Isabelle Beaucamp](https://open.spotify.com/artist/4RrxhOmXj9bjyb5kXwt3Pz) | [Worst Poisons Taste the Sweetest](https://open.spotify.com/album/3xx8Sc6Z1ltqS3ws6Of4QW) | 6:17 | 2024-01-22 |  |
+| [Worst Poisons Taste the Sweetest](https://open.spotify.com/track/2VB9UYFqo0tIEyMPEMJljh) | [Isabelle Beaucamp](https://open.spotify.com/artist/4RrxhOmXj9bjyb5kXwt3Pz) | [Worst Poisons Taste the Sweetest](https://open.spotify.com/album/3xx8Sc6Z1ltqS3ws6Of4QW) | 6:17 | 2024-01-22 | 2024-07-06 |
 | [Wrong or Right \- Acid Rain over Berlin Mix](https://open.spotify.com/track/65S7ET0jEWAUbVcxKvkJxn) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Wrong or Right \(Acid Rain over Berlin Mix\)](https://open.spotify.com/album/48gfUgvr5CWytneYBNV1ov) | 6:31 | 2021-08-14 | 2022-01-22 |
 | [XXL](https://open.spotify.com/track/2upd6rVgXLQzVEZg3aZgim) | [The YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg) | [XXL](https://open.spotify.com/album/0T8313bNo56UFlDG2DkPKE) | 7:05 | 2023-03-24 | 2023-05-06 |
 | [Ykn \- Original Mix](https://open.spotify.com/track/2rGvg9yjXMQ8B462BOautq) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Ykn](https://open.spotify.com/album/78iL2XUWnnuUqMqwNEftxC) | 4:07 | 2021-02-13 | 2021-10-23 |

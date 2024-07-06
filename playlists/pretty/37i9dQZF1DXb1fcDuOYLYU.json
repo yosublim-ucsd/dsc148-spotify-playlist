@@ -1,6 +1,6 @@
 {
   "description": "Celebrating the powerful voices of Latin music. Cover: Greeicy",
-  "num_followers": 59785,
+  "num_followers": 59926,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 175317,
+      "name": "AUTOM\u00c1TICO",
+      "url": "https://open.spotify.com/track/0poQY3RMThmIiutOGv3yH3"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Enam\u00f3rate",
         "url": "https://open.spotify.com/album/17FLF5NkLfUNkEYjQkaO32"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 147785,
       "name": "Enam\u00f3rate",
       "url": "https://open.spotify.com/track/332fAqelC3Uik91QPxPcB8"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 175317,
-      "name": "AUTOM\u00c1TICO",
-      "url": "https://open.spotify.com/track/0poQY3RMThmIiutOGv3yH3"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "curita",
-        "url": "https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "curita",
-      "url": "https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Qui\u00e9reme Menos",
         "url": "https://open.spotify.com/album/7wU6rEuPAtlHXFqRnrdWic"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 213283,
       "name": "Qui\u00e9reme Menos",
       "url": "https://open.spotify.com/track/08lj7xleA0SBiLhrDZUqIU"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "curita",
+        "url": "https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "curita",
+      "url": "https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "att.",
-        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 198409,
-      "name": "no quiero pelear",
-      "url": "https://open.spotify.com/track/73g6RENTgyeOn8vD04F2MT"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Nena Trampa",
         "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 183413,
       "name": "Mal\u00e9fica",
       "url": "https://open.spotify.com/track/0U9OZFbn82oICL2jNbpNHy"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 198409,
+      "name": "no quiero pelear",
+      "url": "https://open.spotify.com/track/73g6RENTgyeOn8vD04F2MT"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "pesimista",
+        "url": "https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 234453,
+      "name": "pesimista",
+      "url": "https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "BOBO",
         "url": "https://open.spotify.com/album/7nMVMZeaTPsWx8T6BbOHzC"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 224760,
       "name": "BOBO",
       "url": "https://open.spotify.com/track/52wspfpsfPcsw7pw8dnQyM"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "pesimista",
-        "url": "https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 234453,
-      "name": "pesimista",
-      "url": "https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Clonazepamela",
-        "url": "https://open.spotify.com/album/2oaC1GdSFnaSIWXiIJbdB4"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 130461,
-      "name": "Clonazepamela",
-      "url": "https://open.spotify.com/track/0m2HMCgaTuCKIn1iJqFWW4"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "los mejores a\u00f1os (notas de diario)",
         "url": "https://open.spotify.com/album/3Wh0rvyFOKNY3WXeXgVYUp"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 201706,
       "name": "Los Mejores A\u00f1os",
       "url": "https://open.spotify.com/track/4wrCdbPzT2hJYyzSsqHqHf"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Clonazepamela",
+        "url": "https://open.spotify.com/album/2oaC1GdSFnaSIWXiIJbdB4"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 130461,
+      "name": "Clonazepamela",
+      "url": "https://open.spotify.com/track/0m2HMCgaTuCKIn1iJqFWW4"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Fan\u00e1tica Sensual",
+        "url": "https://open.spotify.com/album/0utyQ9RUr02DwEgktaA9tm"
+      },
+      "artists": [
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        }
+      ],
+      "duration_ms": 197621,
+      "name": "Fan\u00e1tica Sensual",
+      "url": "https://open.spotify.com/track/4eHEmR1ZyvaGmY8IaIccdn"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "La Piti",
         "url": "https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "DIVA- Platinum Edition",
-        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "To Anywhere",
         "url": "https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V"
       },
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "DIVA- Platinum Edition",
+        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Quien Como T\u00fa",
         "url": "https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 211000,
       "name": "Qui\u00e9n Como T\u00fa",
       "url": "https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Fan\u00e1tica Sensual",
-        "url": "https://open.spotify.com/album/0utyQ9RUr02DwEgktaA9tm"
-      },
-      "artists": [
-        {
-          "name": "Las Villa",
-          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
-        }
-      ],
-      "duration_ms": 197621,
-      "name": "Fan\u00e1tica Sensual",
-      "url": "https://open.spotify.com/track/4eHEmR1ZyvaGmY8IaIccdn"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "ANASTASIA",
-        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
+        "name": "INGRATA4 (dime si a\u00fan)",
+        "url": "https://open.spotify.com/album/2ze4ym7uREFXo0nvswNpek"
       },
       "artists": [
         {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
         }
       ],
-      "duration_ms": 155492,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/4rejyzjiLkT53w4NWC0Sct"
+      "duration_ms": 158666,
+      "name": "INGRATA4 (dime si a\u00fan)",
+      "url": "https://open.spotify.com/track/6PBvW3ndFy2YafGRIniiNZ"
     }
   ],
   "unique_name": "Women of Latin",

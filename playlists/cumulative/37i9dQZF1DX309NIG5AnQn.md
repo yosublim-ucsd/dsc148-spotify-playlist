@@ -2,9 +2,9 @@
 
 ### [el under](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo argentino\. <br/>📷 Dum Chica
+> rock alternativo argentino\. <br/>📷 MUGRE
 
-216 songs - 12 hr 19 min
+218 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Anita](https://open.spotify.com/track/3ppvrwFRLLD4PTxmZDZVfO) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Anita](https://open.spotify.com/album/0zKPQqcqkPWWdNwcE6ZCVy) | 2:51 | 2023-05-19 |  |
 | [Antes de que Olvide](https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Lo Más Cercano a Caer](https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK) | 2:53 | 2023-05-26 |  |
 | [Atenta](https://open.spotify.com/track/3GZuixcRRQ7PidTtKxXOPn) | [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Sur](https://open.spotify.com/album/5PHhl2tm9iQVxkjGGOcsAe) | 2:53 | 2024-06-28 |  |
-| [AVE MARÍA](https://open.spotify.com/track/5d7RuDDWI7TcCNWJMsaUqN) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [LA SANTÍSIMA TRINIDAD](https://open.spotify.com/album/42YySIet0Gr5dtERZBsFt0) | 1:58 | 2023-08-04 |  |
+| [AVE MARÍA](https://open.spotify.com/track/5d7RuDDWI7TcCNWJMsaUqN) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [LA SANTÍSIMA TRINIDAD](https://open.spotify.com/album/42YySIet0Gr5dtERZBsFt0) | 1:58 | 2023-08-04 | 2024-07-06 |
 | [Baldío](https://open.spotify.com/track/4F2YFSAvXUBeJpCVGn8meh) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl) | [Baldío](https://open.spotify.com/album/2zoYwEvAMNb9SrEh9zMs6M) | 4:34 | 2023-03-23 | 2023-08-26 |
 | [Batalla Naval](https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Batalla Naval](https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh) | 3:23 | 2023-03-23 |  |
 | [Baño de Sangre](https://open.spotify.com/track/1MjJ5ZFLo0qtZyeBPr7Nfj) | [Erich Larsson](https://open.spotify.com/artist/0iD5zEeQslF2KjFvLReU2l) | [Adorno](https://open.spotify.com/album/7JUOpq60jz3lRHQ7p7SROj) | 2:40 | 2022-03-25 | 2023-03-25 |
@@ -66,12 +66,14 @@
 | [Culpable](https://open.spotify.com/track/7gCYnJTLrgYgfO6qU7gHIt) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT), [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [ARDE](https://open.spotify.com/album/3XlbISNBUWfa7dPO9rZoDm) | 3:07 | 2022-03-25 | 2023-03-25 |
 | [Cómo Conquistar la Ciudad](https://open.spotify.com/track/0KQE1Mt4imKQKya2d0aPg3) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta \(Deluxe\)](https://open.spotify.com/album/32qXrkxbLyo7lGqNeN2Oe0) | 3:04 | 2024-02-09 |  |
 | [D.I.E \(Dance In Ecstasy\)](https://open.spotify.com/track/03y9Y3WXf2A4RvNl7c4FN2) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Esto es lo que Obtenés cuando te Cansás de lo que Ya Obtuviste](https://open.spotify.com/album/4N2YIuYGbn5P0pyTbrwend) | 5:49 | 2023-04-28 |  |
+| [DAME MENOS](https://open.spotify.com/track/5kjeSPCqW7SqvT9bCJV1HN) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [SOMOS PROFESIONALES](https://open.spotify.com/album/0deIeSsYeNUehBW1yfxfoT) | 1:43 | 2024-07-05 |  |
 | [De Cero A Cien X Essentials \#1](https://open.spotify.com/track/3HsgtlddNm8Q9zoKkgwsUo) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Tygas](https://open.spotify.com/artist/1mLmCADd22UpYNqCAykYKT), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Elsidechain](https://open.spotify.com/artist/0DubQNvKAkkXWIIC2jImhU) | [De Cero A Cien X Essentials \#1](https://open.spotify.com/album/4JDgTCvoC6nbyjDkE2F9OW) | 3:01 | 2022-03-25 | 2023-03-25 |
 | [Denadie](https://open.spotify.com/track/6JuEz0iSyCHLCMUOM0hsY2) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Denadie](https://open.spotify.com/album/2tcipp41d0bfl5mkpWo50G) | 3:06 | 2022-03-25 | 2023-03-25 |
 | [Desmotivada](https://open.spotify.com/track/647413f98cYW3U09g3tHjq) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Desmotivada](https://open.spotify.com/album/0fuevSufdQPDZTWoyeEu5H) | 2:22 | 2022-03-25 | 2023-03-25 |
 | [Desvelo](https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Desvelo](https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI) | 4:34 | 2022-03-25 | 2023-03-25 |
 | [Distante](https://open.spotify.com/track/7yhQlwY8Yjnbzf1NqAL0Md) | [Altocamet](https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe) | [Surfista Nocturno](https://open.spotify.com/album/27hZtuTwWgy62WlAVqFVo2) | 6:00 | 2022-03-25 | 2023-03-25 |
 | [Divina Seducción](https://open.spotify.com/track/3CjyLMFWTcdUrHHIbn3m4v) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Divina Seducción](https://open.spotify.com/album/6y9yqbRjgQa7NwiPcCqF8O) | 3:30 | 2023-05-12 | 2023-08-19 |
+| [DOBLE TURNO](https://open.spotify.com/track/3HJIgY9NA6SscmXtE3mPp8) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V), [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [SOMOS PROFESIONALES](https://open.spotify.com/album/0deIeSsYeNUehBW1yfxfoT) | 2:48 | 2024-07-05 |  |
 | [Dopamina](https://open.spotify.com/track/0VMUzNfWNx3egfZko8bOhS) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Dopamina](https://open.spotify.com/album/1EV4jUvno8aaw2yUEqdVg0) | 6:15 | 2023-03-23 |  |
 | [Dopamina](https://open.spotify.com/track/78ZxiCT7pdrtUUIsIxF5xQ) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Esto es lo que Obtenés cuando te Cansás de lo que Ya Obtuviste](https://open.spotify.com/album/4N2YIuYGbn5P0pyTbrwend) | 6:15 | 2023-08-11 | 2024-04-19 |
 | [Dulces Sueños, y Hasta Siempre !](https://open.spotify.com/track/2cbKcRgL0jBJ2BGIAJyOSX) | [electro reno](https://open.spotify.com/artist/3ch5YUSBJld17z6WfbKVXq), [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Un Pie en la Tumba](https://open.spotify.com/album/6IHjEeDPQX1nBU45c6DLYt) | 1:37 | 2022-03-25 | 2023-03-25 |
@@ -185,7 +187,7 @@
 | [Regalos](https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM) | [Cometas](https://open.spotify.com/artist/32239AWhqRXbc7gxJNounF) | [Regalos](https://open.spotify.com/album/6oAFSyabc4tjftTMDIwkyO) | 3:30 | 2023-06-30 |  |
 | [Sal chivo](https://open.spotify.com/track/4pBjPkFU6AVk4WBdljdMm7) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [Sal chivo](https://open.spotify.com/album/6n85JjMfghPhCttGoo9U6p) | 3:21 | 2024-06-06 |  |
 | [Salir del Confort](https://open.spotify.com/track/4ObAtoz13OZ8uN2g5ADVyX) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Salir del Confort](https://open.spotify.com/album/2uk2MSf9s40VYEMD3C3CM5) | 3:16 | 2023-08-25 |  |
-| [SALTEMOS MOLINETES](https://open.spotify.com/track/5zwfDBnoWSMDUeIaefJvQH) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [SALTEMOS MOLINETES](https://open.spotify.com/album/3BlTPafpEOmDaCLdQAoyat) | 2:46 | 2024-03-08 |  |
+| [SALTEMOS MOLINETES](https://open.spotify.com/track/5zwfDBnoWSMDUeIaefJvQH) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [SALTEMOS MOLINETES](https://open.spotify.com/album/3BlTPafpEOmDaCLdQAoyat) | 2:46 | 2024-03-08 | 2024-07-06 |
 | [San Juan](https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [San Juan](https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl) | 3:45 | 2023-05-12 |  |
 | [Santa Fe \(feat\. Marilina Bertoldi\)](https://open.spotify.com/track/2Lpu0GIzpbiLj4W8ccW3i5) | [Zero Kill](https://open.spotify.com/artist/79Ni1ePx75PABzezrpjmwV), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Lapsus](https://open.spotify.com/album/5mVzHcH0B9KYunmuSgLrq3) | 5:16 | 2022-03-25 | 2023-03-25 |
 | [Será](https://open.spotify.com/track/6jpXkK8IWxoqMIegRTNTCY) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Será](https://open.spotify.com/album/0OE8zZZAUTiYpEnGZkAwkV) | 3:06 | 2024-03-15 |  |

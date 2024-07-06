@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Braxton Brothers
 
-469 songs - 1 day 9 hr 15 min
+470 songs - 1 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Fresh Air](https://open.spotify.com/track/2Xh0zqD0VwVfo3xgVXiO0Q) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Cord Martin](https://open.spotify.com/artist/63cZyR7rLr6FUBcJXb7tXx), [Sam Ojalvo](https://open.spotify.com/artist/4ZnNAbmDRT7GZe8p3Vjuip) | [Fresh Air](https://open.spotify.com/album/7HOog0MOFLIgCmSDoRz4Fy) | 3:29 | 2024-06-14 |  |
 | [G\-Wiggle](https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream 2\-Turn It Up](https://open.spotify.com/album/69dx6W2l6wJdcvRYhFDlt8) | 4:30 | 2022-04-29 | 2023-09-16 |
 | [Galaxy](https://open.spotify.com/track/4vNMy68DUVib0AtOrUNbba) | [Zach Sanders](https://open.spotify.com/artist/0jSvsAskhfvKwEzWQ07wCn) | [Galaxy](https://open.spotify.com/album/1p3tbkM2DoGdDVqUgelhef) | 3:17 | 2020-10-30 | 2022-03-15 |
-| [Get On It](https://open.spotify.com/track/5vDEodWFzseVwZLH8sTdo2) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [Get On It](https://open.spotify.com/album/0pCwzuO8g4CzYmrkIXhaJX) | 4:00 | 2024-02-16 |  |
+| [Get On It](https://open.spotify.com/track/5vDEodWFzseVwZLH8sTdo2) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [Get On It](https://open.spotify.com/album/0pCwzuO8g4CzYmrkIXhaJX) | 4:00 | 2024-02-16 | 2024-07-06 |
 | [Gift to the World](https://open.spotify.com/track/7dmEXRsuWBSi4gsbjA4f4S) | [Michael Haggins](https://open.spotify.com/artist/6CKmfNuULyn3w1pMMHrHqx) | [Gift to the World](https://open.spotify.com/album/0AiFnIPpeIMFWpCBZJmX8y) | 4:04 | 2021-06-04 | 2022-07-29 |
 | [Give Me Your Love](https://open.spotify.com/track/5YTTAwPC8NkT67yx7MLZS7) | [Mark Allen Felton](https://open.spotify.com/artist/3WnIsv9TaH1unkErOs83GK) | [Give Me Your Love](https://open.spotify.com/album/76rdABxCKq6lEAVTWvjU3n) | 3:52 | 2022-02-25 | 2023-06-17 |
 | [Glow](https://open.spotify.com/track/0SqKAPOW90ZlQEkZUINTB7) | [Ilya Serov](https://open.spotify.com/artist/1iffcHDU0oWJvEXhufA71G) | [Glow](https://open.spotify.com/album/5Dywi2jSnHLfrx8TO08RqW) | 4:18 | 2024-03-01 |  |
@@ -292,6 +292,7 @@
 | [New Lives](https://open.spotify.com/track/1Uv9mEVCgAFwdgnvZdyGXh) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A), [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza) | [New Lives](https://open.spotify.com/album/0MkZW5ETQZkQ5q2Bf7YS1R) | 4:11 | 2023-07-28 |  |
 | [New Lives \- Radio Edit](https://open.spotify.com/track/0UBFcH7kXYQ8GiPvuHFKJJ) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [New Lives \(Radio Edit\)](https://open.spotify.com/album/7iVn7hAbIRliWQUp7d1808) | 4:11 | 2023-07-28 | 2024-04-19 |
 | [Newfound Treasure](https://open.spotify.com/track/34NSmeactf8t2me3ynMuAm) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO) | [Newfound Treasure](https://open.spotify.com/album/6W9eRTZ5LmNEOD9mW8LHc0) | 3:04 | 2022-06-17 | 2023-06-24 |
+| [Newport Nights \- Radio Edit](https://open.spotify.com/track/5b82tnpFe2WDC2ZgEnbAAx) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [Newport Nights \(Radio Edit\)](https://open.spotify.com/album/35C6c8BYLjAa6OBYtdfIpj) | 3:49 | 2024-07-05 |  |
 | [Nice and Easy \(Walter's Version\)](https://open.spotify.com/track/4KopqTSf6XxC3hHmQR7Vgx) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP), [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Nice and Easy \(Walter's Version\)](https://open.spotify.com/album/2zVWak9gCSDkoCBPgMS4Zl) | 4:16 | 2023-06-02 |  |
 | [Nico’s Groove](https://open.spotify.com/track/2xPr3ODopFSqA2I1TmReAK) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [Nico’s Groove](https://open.spotify.com/album/2QxxlPUxcATya406iG9izA) | 6:57 | 2023-06-09 |  |
 | [Nico’s Groove](https://open.spotify.com/track/7rW0altos5eKOAQyqFFp0h) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [The Magic of Moonlight](https://open.spotify.com/album/6YmwG1NG50beLi4G6T7f2N) | 6:57 | 2023-06-09 | 2024-04-19 |

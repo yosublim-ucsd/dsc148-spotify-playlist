@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-169 songs - 11 hr 48 min
+170 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [How Many Tears](https://open.spotify.com/track/3d8ZtqYPchg3dY05IpPNIM) | [Quinn Sullivan](https://open.spotify.com/artist/3RBOewcm7cYn3IhFBxkQ2J) | [How Many Tears](https://open.spotify.com/album/3PP99enC9m8vnlM5FJST6X) | 3:32 | 2021-04-09 |  |
 | [How Many Tears](https://open.spotify.com/track/4hYjPSFmCPeYL8JGinnD4N) | [Quinn Sullivan](https://open.spotify.com/artist/3RBOewcm7cYn3IhFBxkQ2J) | [Wide Awake](https://open.spotify.com/album/2b7MbvztGNG6i21VrDclME) | 3:32 | 2021-04-09 | 2024-04-19 |
 | [How Many Times?](https://open.spotify.com/track/3dzG0Hd5xXFgFIiB9lMSzq) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [How Many Times?](https://open.spotify.com/album/7kHS26d1CwereSBwSSpxrK) | 4:45 | 2022-11-11 |  |
+| [Hurricane](https://open.spotify.com/track/5ryxnvRfWi9q8BHlNHLzOv) | [Tom Rhodes](https://open.spotify.com/artist/4lsAzbWcYZblSVl1zhT9bc), [Colin Coppola](https://open.spotify.com/artist/5XR0RFAEuZPD5ldYChGadC) | [Hurricane](https://open.spotify.com/album/7yesF2kWMklf0zDJQRDzGj) | 3:30 | 2024-07-05 |  |
 | [I Found A Place In My Heart](https://open.spotify.com/track/2JMcnVo0GurJvj5BF6APuY) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [I Found A Place In My Heart](https://open.spotify.com/album/6gQRIuxmGLeFzNCbJF4kM5) | 3:05 | 2023-05-05 |  |
 | [I Love You More Than You'll Ever Know](https://open.spotify.com/track/4FcpPf53TWKOrsdfX9pA5O) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Blue Again](https://open.spotify.com/album/5mIuCWBG1unPCj6YKTF16O) | 5:38 | 2020-11-05 | 2024-04-19 |
 | [I Love You More Than You'll Ever Know](https://open.spotify.com/track/7FUqdSCIFQCNdaX3bGXfw8) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Blue Again](https://open.spotify.com/album/0pLAn8grfMFtJoKU310Etx) | 5:38 | 2020-11-05 |  |
@@ -95,7 +96,7 @@
 | [More Than You Needed](https://open.spotify.com/track/5q3Vbceg2WlCqgMfc9Kosq) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Rooftops and Satellites](https://open.spotify.com/album/1LiAEvcdWVb9qNHFku5YzA) | 3:48 | 2020-11-05 | 2024-04-19 |
 | [More Than You Needed](https://open.spotify.com/track/65rDtap9t8DlT1Z8Pxr4QJ) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Rooftops and Satellites](https://open.spotify.com/album/6NqHuD7AFDh4p0pcPjTp84) | 3:48 | 2020-11-05 |  |
 | [Mountain](https://open.spotify.com/track/4rVyCobGlhYiLVIVgBaSn6) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Original](https://open.spotify.com/album/5pg0LnXJII43RFJrsfsnfJ) | 4:00 | 2020-11-05 | 2024-04-19 |
-| [Mountain](https://open.spotify.com/track/5aXHTenMHl2XDsN9L4FW6F) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Original](https://open.spotify.com/album/205WlLTwMDXBqF6Uexj9b4) | 4:00 | 2020-11-05 |  |
+| [Mountain](https://open.spotify.com/track/5aXHTenMHl2XDsN9L4FW6F) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Original](https://open.spotify.com/album/205WlLTwMDXBqF6Uexj9b4) | 4:00 | 2020-11-05 | 2024-07-06 |
 | [Nearer to You](https://open.spotify.com/track/4RZpEldGCrBIDdfkFqkAgw) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Chills & Fever](https://open.spotify.com/album/5NZDCNOT2froy17ZVqEM9F) | 3:24 | 2020-11-05 | 2024-04-12 |
 | [Nearer to You](https://open.spotify.com/track/4r27op6qF2c6aOvVwiaNrI) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Chills & Fever](https://open.spotify.com/album/23zeW7minvQQfP2XifkF17) | 3:24 | 2020-11-05 |  |
 | [Never Tear Us Apart](https://open.spotify.com/track/3I7Fqr8wLi60aZ9P4wIFwq) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Never Tear Us Apart](https://open.spotify.com/album/4doBTxqHZNmn9a06bP3A5s) | 3:24 | 2021-04-09 |  |

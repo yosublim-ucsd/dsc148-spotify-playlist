@@ -4,7 +4,7 @@
 
 > pearls of an oyster\. Cover: Tinashe
 
-1,347 songs - 3 day 1 hr 51 min
+1,350 songs - 3 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,6 +444,7 @@
 | [Freedom 2](https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Freedom 2](https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN) | 3:26 | 2023-07-27 | 2023-10-27 |
 | [French Lessons](https://open.spotify.com/track/7kivbAAHjxCOnBtkQzRO8p) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Stay Close To Music](https://open.spotify.com/album/5Rp7lUCN6NbLirhc505A1j) | 3:24 | 2023-09-28 | 2023-10-20 |
 | [frenemy \- Jacana People Remix](https://open.spotify.com/track/2GbzMKA9Qnx2gCRqx3IcdE) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE), [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [frenemy \(with friends\)](https://open.spotify.com/album/1EzVzKIej6xbASVOvFsQFW) | 3:55 | 2023-06-22 | 2023-06-30 |
+| [FRESH AND NEW](https://open.spotify.com/track/6jkkBQC3drJYtL03cl6vS3) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [FRESH AND NEW](https://open.spotify.com/album/6y5eGkaWm3HPeuMi8P7fiy) | 2:25 | 2024-07-05 |  |
 | [Fri till slut \- Spotify Singles](https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Fri till slut \- Spotify Singles](https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO) | 4:48 | 2023-10-19 | 2024-03-15 |
 | [Friend or Foe](https://open.spotify.com/track/5PM4EyvM68K8XA0UCmWpLF) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Friend or Foe](https://open.spotify.com/album/2yBWhovYNLKS7VnHdK8cEN) | 4:10 | 2024-04-04 | 2024-06-21 |
 | [FRIENDLY FEELINGS](https://open.spotify.com/track/1mAyVyICWy1kP91ekCa466) | [Chris Taylor](https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q) | [FRIENDLY FEELINGS](https://open.spotify.com/album/4rJMlEgBdTbNek890DkQq5) | 2:56 | 2023-09-29 | 2024-02-09 |
@@ -705,6 +706,7 @@
 | [Limits](https://open.spotify.com/track/1B0iOpkr5IojCDJZt5GAp4) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Limits](https://open.spotify.com/album/5IX9e7jYLTUbqubgkxJ11B) | 4:12 | 2022-11-10 | 2023-01-20 |
 | [Limoncello Ice Cream](https://open.spotify.com/track/1JLcmSgxiaXO0IYhTiZ0H5) | [XOV](https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv) | [Limoncello Ice Cream](https://open.spotify.com/album/58GAHXnzrJhc4CnXNKJ5NU) | 3:16 | 2023-06-08 | 2023-06-16 |
 | [Lip Service](https://open.spotify.com/track/3tqo6JRpy7V6LNVcGDdo0Z) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Lip Service](https://open.spotify.com/album/1D34fZbECFHAVdk3kbZ9xA) | 2:29 | 2022-11-17 | 2023-03-03 |
+| [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 | 2024-07-05 |  |
 | [Little Foot Big Foot \(feat\. Young Nudy\)](https://open.spotify.com/track/1SdqlTmK9P97PntBQrtf85) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 3:46 | 2024-05-16 |  |
 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2023-05-11 | 2023-06-30 |
 | [Little Things \- Nia Archives Remix](https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Little Things \(Nia Archives Remix\)](https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb) | 2:40 | 2023-06-15 | 2023-09-01 |
@@ -1217,6 +1219,7 @@
 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 | 2024-01-25 | 2024-03-08 |
 | [To Be Yours \(feat\. Claud\)](https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [To Be Yours \(feat\. Claud\)](https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf) | 3:31 | 2023-03-17 | 2023-04-07 |
 | [Tongo Barra](https://open.spotify.com/track/3skOhs7TlQOCuzHjmTa8Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Tongo Barra](https://open.spotify.com/album/5mWSH5ReDP2NGc7XY9j9lN) | 5:33 | 2022-10-28 | 2022-12-09 |
+| [TOO COOL TO BE CARELESS](https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [TOO COOL TO BE CARELESS](https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa) | 3:40 | 2024-07-05 |  |
 | [too fast](https://open.spotify.com/track/6GZ4qfWtm0xjKPw5EKSdze) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [too fast](https://open.spotify.com/album/6UV79NnkVMC2doyJeC4twp) | 3:14 | 2024-04-25 | 2024-05-03 |
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-02-08 | 2024-03-22 |
 | [too strong](https://open.spotify.com/track/1soy2KpqWppS1vzVMPpTvb) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV) | [too strong](https://open.spotify.com/album/2UDA04UrxhydfzN1KNiv7X) | 3:51 | 2023-08-03 | 2023-09-29 |

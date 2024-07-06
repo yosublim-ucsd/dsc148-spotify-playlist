@@ -4,7 +4,7 @@
 
 > Evadez\-vous tout en douceur...
 
-162 songs - 8 hr 31 min
+163 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Only God Knows](https://open.spotify.com/track/2DuCbz1WK7yZXyTSrOtMkc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [ECHoBOY](https://open.spotify.com/artist/5tGSpRGRAJGaHguGRHz3gJ) | [Only God Knows](https://open.spotify.com/album/6B6o64fBRzC3IiIfJdzs8I) | 3:30 | 2024-01-05 |  |
 | [Open Road \(feat\. Nate VanDeusen\)](https://open.spotify.com/track/6GTdNhWfd1klaioOmyleJ8) | [EyeMad](https://open.spotify.com/artist/2C15mEsXxAqiKWKG4skXHY), [Beatmad](https://open.spotify.com/artist/2radibWvmOFH2EvH38zyOK), [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU) | [Open Road \(feat\. Nate VanDeusen\)](https://open.spotify.com/album/0IaYkArWMwpfHgzZcBLd19) | 2:40 | 2024-04-18 |  |
 | [Ordinary Love \- Folamour Remix](https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Ordinary Love \(Folamour Remix\)](https://open.spotify.com/album/1bZe6bclEpMPDiCWOgpxKk) | 5:25 | 2024-01-25 | 2024-02-10 |
-| [Other Boys](https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Other Boys](https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ) | 2:17 | 2023-10-23 |  |
+| [Other Boys](https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Other Boys](https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ) | 2:17 | 2023-10-23 | 2024-07-06 |
 | [Our Place ft\. Thom Gill](https://open.spotify.com/track/4fvyspoROGz30LjX2Fu47O) | [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Thom Gill](https://open.spotify.com/artist/3zj39NVYkiKY8KUx7lFZRL) | [Our Place ft\. Thom Gill](https://open.spotify.com/album/5DstTguxvodTBYHifdo8hv) | 3:00 | 2023-05-12 | 2024-01-12 |
 | [Out of Time \- Instrumental](https://open.spotify.com/track/6oYRgLK4B38yYy9TeTpMjn) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 3:34 | 2023-05-12 | 2023-07-04 |
 | [Over You](https://open.spotify.com/track/4FNkE8eT1CJBmHcX2MT5ex) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA), [Aili](https://open.spotify.com/artist/0TVW1CjHIgfuFIUimSgPoj) | [Over You](https://open.spotify.com/album/3RbMFz4GlUUKABu9c398fN) | 2:26 | 2024-01-05 | 2024-01-26 |
@@ -135,6 +135,7 @@
 | [Stripes](https://open.spotify.com/track/6Iubxxf4cBRv8cuureNRK9) | [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Stripes](https://open.spotify.com/album/7b3lF7lWIKs3CzXUgf0p4s) | 2:15 | 2023-05-12 | 2024-01-06 |
 | [Stumble](https://open.spotify.com/track/3uvALUobqjZvTGAh6737Mb) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Juicy Fruit](https://open.spotify.com/album/7Ih98kmIPJCsXcgrikcmoq) | 4:30 | 2023-05-12 | 2024-02-10 |
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-04-08 |  |
+| [Sunset](https://open.spotify.com/track/2mCDr3iGivDH7rGBVIgkUf) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [Sunset](https://open.spotify.com/album/75SOVqtkavzS4o2DlS9KcG) | 2:58 | 2024-07-05 |  |
 | [Sunset Lovers](https://open.spotify.com/track/1x7NAvqHgCvhV549ls0FTE) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [Sunset Lovers](https://open.spotify.com/album/5x7S16YvroS0lLKXARqUMu) | 2:56 | 2022-12-20 | 2024-04-19 |
 | [Sunset Memories](https://open.spotify.com/track/29hvDT8LFAr0wMG8j3LJUr) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Sunset Memories](https://open.spotify.com/album/5unPukcKP0JqN4CU8SwOuj) | 3:04 | 2022-12-20 | 2023-05-13 |
 | [Sunsets](https://open.spotify.com/track/0PPdGlXl0Djfmp1IolZpZ1) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Sunsets](https://open.spotify.com/album/5w96i0VsQxI1eP8rDLOERy) | 2:32 | 2023-05-12 |  |

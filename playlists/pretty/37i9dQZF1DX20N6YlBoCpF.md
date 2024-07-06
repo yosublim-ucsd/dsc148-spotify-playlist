@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=rXf6GEv2SfiKK5bhBOHSOg">Loufi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,896 likes - 74 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,934 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,17 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 60 | [Vergaan](https://open.spotify.com/track/0grmeujEDEfmnsJGUhhlku) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [OASE](https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf) | 3:50 |
 | 61 | [10000 Redes](https://open.spotify.com/track/3z7BlPCaXBCfPp06Wt7xAD) | [Berry](https://open.spotify.com/artist/13w9tIoAE9FSWhwgjz7XKd) | [10000 Redes](https://open.spotify.com/album/5koBelDAaLdxC4cYQNsZrc) | 3:29 |
 | 62 | [Hou My Vas, Stywer Vas \- Remix](https://open.spotify.com/track/2lEfnRceO7c7QPVQ7MPjYA) | [Pretorius](https://open.spotify.com/artist/6OlAKyXaSPw7M5ivaVpC5G), [David Fourie](https://open.spotify.com/artist/3372wrCwHX44K1vjwiZHoA) | [Hou My Vas, Stywer Vas \(Remix\)](https://open.spotify.com/album/3kE8XOCcd4TpprWgu2Vmq9) | 3:52 |
-| 63 | [Converse](https://open.spotify.com/track/2pJ03ZzcJs9dVl3bUbWbDC) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Converse](https://open.spotify.com/album/2fvn55Fl1ORQJTUOO5eH7J) | 2:37 |
-| 64 | [Arendsvlerke](https://open.spotify.com/track/6iRi9Lw4xozjiMjiRDRYOq) | [Tertius rooi](https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl) | [Arendsvlerke](https://open.spotify.com/album/4VbKDQ7ccIjjtR0eKHdEwK) | 3:23 |
-| 65 | [Bosveld Dans](https://open.spotify.com/track/489YLHaA5sh1CD7awfMRTD) | [WG NEL](https://open.spotify.com/artist/62J5bvFwPxJf52xjGcHTd4) | [Bosveld Dans](https://open.spotify.com/album/7K7LqdCep5KSEnpaRyYnA0) | 3:14 |
-| 66 | [Nuwe Asem](https://open.spotify.com/track/2kSEwoYeaVN7S5Hwe5N77d) | [Touch by Mirror](https://open.spotify.com/artist/0wyKENJo86SfbhWYUiFOc8) | [Nuwe Asem](https://open.spotify.com/album/1UaykSCG7vw3MdwSyfaoav) | 4:02 |
-| 67 | [Somer \- Remix](https://open.spotify.com/track/5a6q77lhw2umRhxNDC8ELq) | [William Wolf](https://open.spotify.com/artist/3QwFyw3JPeW3U1TJrtadaY), [Afrikaans Wil Dans](https://open.spotify.com/artist/0izyicZrCh95ouk1VWn59M) | [Somer \(Remix\)](https://open.spotify.com/album/0cyVQyja5O5lzUtYza28oQ) | 2:43 |
-| 68 | [Dis Naweek \- Remix](https://open.spotify.com/track/2inJZafKIff0gOuW2Ubjyz) | [Amore Barnard](https://open.spotify.com/artist/3WNuZdnThwkMxGrZtqH0lH), [Lenny Dtox](https://open.spotify.com/artist/2eSxrUOX6TsbC6JgvCtj0p) | [Dis Naweek \(Remix\)](https://open.spotify.com/album/6pP4BS5xt8wOFCwujUNRnp) | 4:02 |
-| 69 | [Alweer in Verkeer](https://open.spotify.com/track/4rEEHKOLiSR3f7mc285lQi) | [Klaas Zaberman en die Nie\-reisende Reserwes](https://open.spotify.com/artist/4H6OMdEui2kMQ4FAMFM3aA) | [Alweer in Verkeer](https://open.spotify.com/album/2sklSOtikCE5w4Pd3u5vaN) | 2:21 |
-| 70 | [Trêk Uit Jou Baadjie](https://open.spotify.com/track/7GZYrBCgqBVQeqCB5HglVb) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Om Die Vuur](https://open.spotify.com/album/1Vh5NQKuddyxp4Zz6kd9Ws) | 3:42 |
-| 71 | [Nie perfek nie](https://open.spotify.com/track/3lejvS3Qxg00HGlrd2d3Ob) | [Snacci](https://open.spotify.com/artist/373NRUyodyMISLLxcN2qr1), [Slamma D](https://open.spotify.com/artist/4fRD6JB528hNdAVikqKvHb) | [Nie perfek nie](https://open.spotify.com/album/6KNMH3hdGSaEYffWLQEHGF) | 2:48 |
-| 72 | [Brandewyn Botha](https://open.spotify.com/track/2d8aP4RPSk8Mjxa5xr8i3m) | [Boschter](https://open.spotify.com/artist/5oZEwvGKQblP1d7ist4wUU) | [Boschter](https://open.spotify.com/album/7MfUKNZSsIgKPX5PwOEs7e) | 3:28 |
-| 73 | [Bly Jy's By My](https://open.spotify.com/track/19CzG2cGINwZoXbPOHfUsv) | [Shaun Wulf](https://open.spotify.com/artist/7DYJAQlpFEmHZU02hLjUsS) | [Bly Jy's By My](https://open.spotify.com/album/2Txa3aqSgojRCcOE6PNDid) | 2:45 |
-| 74 | [Meer](https://open.spotify.com/track/6JeZcuudILkavH18oQ6hDB) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Estetika](https://open.spotify.com/album/0F5JB3HCxOrNuB2mIQqKjS) | 3:11 |
+| 63 | [Soen My Sag](https://open.spotify.com/track/6E5FxrwmL0k9asiS2cjrsZ) | [Liesl Ahlers](https://open.spotify.com/artist/7fkdyKmNgl5pjMv5V5ohfY) | [Soen My Sag](https://open.spotify.com/album/3oDL7dx7f2szB0WgVdccgN) | 4:02 |
+| 64 | [Converse](https://open.spotify.com/track/2pJ03ZzcJs9dVl3bUbWbDC) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Converse](https://open.spotify.com/album/2fvn55Fl1ORQJTUOO5eH7J) | 2:37 |
+| 65 | [Arendsvlerke](https://open.spotify.com/track/6iRi9Lw4xozjiMjiRDRYOq) | [Tertius rooi](https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl) | [Arendsvlerke](https://open.spotify.com/album/4VbKDQ7ccIjjtR0eKHdEwK) | 3:23 |
+| 66 | [Bosveld Dans](https://open.spotify.com/track/489YLHaA5sh1CD7awfMRTD) | [WG NEL](https://open.spotify.com/artist/62J5bvFwPxJf52xjGcHTd4) | [Bosveld Dans](https://open.spotify.com/album/7K7LqdCep5KSEnpaRyYnA0) | 3:14 |
+| 67 | [Nuwe Asem](https://open.spotify.com/track/2kSEwoYeaVN7S5Hwe5N77d) | [Touch by Mirror](https://open.spotify.com/artist/0wyKENJo86SfbhWYUiFOc8) | [Nuwe Asem](https://open.spotify.com/album/1UaykSCG7vw3MdwSyfaoav) | 4:02 |
+| 68 | [Somer \- Remix](https://open.spotify.com/track/5a6q77lhw2umRhxNDC8ELq) | [William Wolf](https://open.spotify.com/artist/3QwFyw3JPeW3U1TJrtadaY), [Afrikaans Wil Dans](https://open.spotify.com/artist/0izyicZrCh95ouk1VWn59M) | [Somer \(Remix\)](https://open.spotify.com/album/0cyVQyja5O5lzUtYza28oQ) | 2:43 |
+| 69 | [Dis Naweek \- Remix](https://open.spotify.com/track/2inJZafKIff0gOuW2Ubjyz) | [Amore Barnard](https://open.spotify.com/artist/3WNuZdnThwkMxGrZtqH0lH), [Lenny Dtox](https://open.spotify.com/artist/2eSxrUOX6TsbC6JgvCtj0p) | [Dis Naweek \(Remix\)](https://open.spotify.com/album/6pP4BS5xt8wOFCwujUNRnp) | 4:02 |
+| 70 | [Alweer in Verkeer](https://open.spotify.com/track/4rEEHKOLiSR3f7mc285lQi) | [Klaas Zaberman en die Nie\-reisende Reserwes](https://open.spotify.com/artist/4H6OMdEui2kMQ4FAMFM3aA) | [Alweer in Verkeer](https://open.spotify.com/album/2sklSOtikCE5w4Pd3u5vaN) | 2:21 |
+| 71 | [Trêk Uit Jou Baadjie](https://open.spotify.com/track/7GZYrBCgqBVQeqCB5HglVb) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Om Die Vuur](https://open.spotify.com/album/1Vh5NQKuddyxp4Zz6kd9Ws) | 3:42 |
+| 72 | [Nie perfek nie](https://open.spotify.com/track/3lejvS3Qxg00HGlrd2d3Ob) | [Snacci](https://open.spotify.com/artist/373NRUyodyMISLLxcN2qr1), [Slamma D](https://open.spotify.com/artist/4fRD6JB528hNdAVikqKvHb) | [Nie perfek nie](https://open.spotify.com/album/6KNMH3hdGSaEYffWLQEHGF) | 2:48 |
+| 73 | [Brandewyn Botha](https://open.spotify.com/track/2d8aP4RPSk8Mjxa5xr8i3m) | [Boschter](https://open.spotify.com/artist/5oZEwvGKQblP1d7ist4wUU) | [Boschter](https://open.spotify.com/album/7MfUKNZSsIgKPX5PwOEs7e) | 3:28 |
+| 74 | [Bly Jy's By My](https://open.spotify.com/track/19CzG2cGINwZoXbPOHfUsv) | [Shaun Wulf](https://open.spotify.com/artist/7DYJAQlpFEmHZU02hLjUsS) | [Bly Jy's By My](https://open.spotify.com/album/2Txa3aqSgojRCcOE6PNDid) | 2:45 |
+| 75 | [Meer](https://open.spotify.com/track/6JeZcuudILkavH18oQ6hDB) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Estetika](https://open.spotify.com/album/0F5JB3HCxOrNuB2mIQqKjS) | 3:11 |
 
 Snapshot ID: `ZocbYAAAAAAeVXakkD9nUu23T8X2APsk`

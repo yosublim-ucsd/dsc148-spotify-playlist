@@ -2157,6 +2157,24 @@
     },
     {
       "album": {
+        "name": "GHOST",
+        "url": "https://open.spotify.com/album/1u8b0DTDnDGkki5W6CQr0U"
+      },
+      "artists": [
+        {
+          "name": "Sipho the Gift",
+          "url": "https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109038,
+      "name": "GHOST",
+      "url": "https://open.spotify.com/track/0xCKxqaai05km1YorLdqqt"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/244PN0XvpKImjCg50MkQbq"
       },
@@ -3652,7 +3670,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 196904,
       "name": "Next to Me",
       "url": "https://open.spotify.com/track/1dRcJH6gdBPnXKcvVU8SiB"
@@ -3718,6 +3736,32 @@
       "duration_ms": 162474,
       "name": "No Joke",
       "url": "https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6"
+    },
+    {
+      "album": {
+        "name": "No Love In Lagos",
+        "url": "https://open.spotify.com/album/3qUxHQMBLeBWsBTkPnhXb3"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        },
+        {
+          "name": "Nsikak David",
+          "url": "https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189199,
+      "name": "No Love In Lagos",
+      "url": "https://open.spotify.com/track/3S612TExInLWnYOsQ9Ti9y"
     },
     {
       "album": {
@@ -4213,6 +4257,32 @@
     },
     {
       "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/2l1vHQBcWQtGkyBGLNjTnB"
+      },
+      "artists": [
+        {
+          "name": "JessB",
+          "url": "https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27"
+        },
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        },
+        {
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163024,
+      "name": "Power (feat. Sister Nancy & Sampa the Great)",
+      "url": "https://open.spotify.com/track/0KKF3byU8SS4cW3z1XfvLp"
+    },
+    {
+      "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/1DuDPjQW38GF4bpZ4GgPR5"
       },
@@ -4698,7 +4768,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 150000,
       "name": "SHUT IT DOWN",
       "url": "https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX"
@@ -5238,7 +5308,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 212835,
       "name": "Too Late for Mama",
       "url": "https://open.spotify.com/track/1Xp4Cy2DSnghxhXDriDKrr"

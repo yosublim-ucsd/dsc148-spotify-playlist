@@ -849,6 +849,24 @@
     },
     {
       "album": {
+        "name": "BDDS",
+        "url": "https://open.spotify.com/album/2Ukn6x5IgCJdeYhxQKNapc"
+      },
+      "artists": [
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223921,
+      "name": "BDDS",
+      "url": "https://open.spotify.com/track/0fFUDx0R7Wsa5zLDM7V2oN"
+    },
+    {
+      "album": {
         "name": "Beijo Com Trap",
         "url": "https://open.spotify.com/album/5xR5eyS25Z6QnpHx05anGs"
       },
@@ -3975,6 +3993,32 @@
     },
     {
       "album": {
+        "name": "Estrela do Rap",
+        "url": "https://open.spotify.com/album/29BE8XW1c7IjLGXh1fvBoO"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Rare G",
+          "url": "https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH"
+        },
+        {
+          "name": "Marvin Mk",
+          "url": "https://open.spotify.com/artist/2yz0gE0Xh3L4EhQBkyxWe6"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264761,
+      "name": "Paris 6",
+      "url": "https://open.spotify.com/track/5ludwEiIz9aBKVBOZvPSF3"
+    },
+    {
+      "album": {
         "name": "Paris 6",
         "url": "https://open.spotify.com/album/7n0UUHLeBKoP2z4Mfn9iPy"
       },
@@ -5026,6 +5070,28 @@
       "duration_ms": 151103,
       "name": "Sintomas de Prazer - Live",
       "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
+    },
+    {
+      "album": {
+        "name": "Sobe, Espera, Desce",
+        "url": "https://open.spotify.com/album/67y5NocmQyfIG3yg4Msa2f"
+      },
+      "artists": [
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142941,
+      "name": "Sobe, Espera, Desce",
+      "url": "https://open.spotify.com/track/6ZT3dub8ECHm4G4ySDkRgO"
     },
     {
       "album": {

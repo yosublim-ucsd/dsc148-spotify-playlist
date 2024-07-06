@@ -4,7 +4,7 @@
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Calva Louise
 
-731 songs - 1 day 22 hr 18 min
+734 songs - 1 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-12-02 | 2023-07-15 |
 | [Lysergic War Psychosis](https://open.spotify.com/track/1aegOIEWeGvUVm1Kavduz4) | [Antichrist Siege Machine](https://open.spotify.com/artist/0g132bsggkLIMT0pW9aa7s) | [Vengeance of Eternal Fire](https://open.spotify.com/album/4MHngXy37mudMEn2H39sAg) | 2:35 | 2024-04-19 |  |
 | [MaBeLu](https://open.spotify.com/track/14gGfvwn3Fdb74NKTBy6Di) | [MTVoid](https://open.spotify.com/artist/18zL2Ycw9paUbgS4TiAgOP) | [MaBeLu](https://open.spotify.com/album/0WeHR1XLB4yHTKAwWOh7uM) | 3:47 | 2023-09-08 | 2024-02-03 |
+| [Made Me This Way](https://open.spotify.com/track/2QmqloB5RrJ9JXIOSxM2fL) | [Silent Theory](https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR) | [Made Me This Way](https://open.spotify.com/album/4y5H1S6oL2W983ataQpdQi) | 3:30 | 2024-07-05 |  |
 | [Magno Interitus](https://open.spotify.com/track/2eAer3KcjPluOhra1Qo6DS) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Joe Bad](https://open.spotify.com/artist/1GI7k8gduzXUlQrnH3Aizp) | [Magno Interitus](https://open.spotify.com/album/3D9Uy89sXoOF9eXKFNxktl) | 3:27 | 2022-05-06 | 2023-07-15 |
 | [Man Without Fear](https://open.spotify.com/track/6F5ludZs5W93BB4JBsGIPQ) | [bulletsbetweentongues](https://open.spotify.com/artist/0EWT2MtvWeCf1yvvLf2EeG) | [Man Without Fear](https://open.spotify.com/album/6ZAUIdWYngfvh3qLWXv1wy) | 3:34 | 2024-01-19 |  |
 | [Mandatory Malevolence](https://open.spotify.com/track/7JzHzguxd5yaK66LX17dol) | [Babirusa](https://open.spotify.com/artist/35yVMdlqtayJwkb192ePgh) | [Mandatory Malevolence](https://open.spotify.com/album/6YxRaWPGIa2CNk6TgLDh3K) | 4:04 | 2022-06-03 | 2023-07-15 |
@@ -543,6 +544,7 @@
 | [Sleepless Deathbed](https://open.spotify.com/track/1ZAFLRxIurbkvn5xrs4soC) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Sleepless Deathbed](https://open.spotify.com/album/4NNQqKSzqvqqGBVMkh2yeJ) | 3:58 | 2024-01-19 |  |
 | [Snack Run](https://open.spotify.com/track/676pwcDn6OiyTWFF0LXX9O) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Snack Run](https://open.spotify.com/album/5RMfiR0EZQ1lfNK1PDjOnK) | 0:56 | 2023-05-19 | 2024-02-03 |
 | [Snapshot](https://open.spotify.com/track/3FyGUTC41cUpXhugPyQaz6) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [The Above](https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C) | 3:29 | 2023-09-29 | 2024-02-03 |
+| [So True To My Own](https://open.spotify.com/track/7pMBk0u7EMExWF4vYJ1EiT) | [Hold My Own](https://open.spotify.com/artist/0wX6EizFx2wnsU3jGd1luW), [Disgrace](https://open.spotify.com/artist/6xmtgaO9Xsepypg9XN1YtA), [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Da Trifecta](https://open.spotify.com/album/0xqcjJzWNGCLSAWAjmvZVA) | 2:39 | 2024-07-05 |  |
 | [Soaking Nerves](https://open.spotify.com/track/16obiBx0cUuFG2ib5QRTfX) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Soaking Nerves](https://open.spotify.com/album/28LaJRDcI0PPmkylQH0vsn) | 2:57 | 2023-06-30 | 2024-02-03 |
 | [Social Grace](https://open.spotify.com/track/7aOPJzvWO4RrUOpEemI15I) | [BRAT](https://open.spotify.com/artist/1kfSVYNmjmYsdWjEQ6fnQF) | [Social Grace](https://open.spotify.com/album/6T0UIDL3VPU5byHMcV19jV) | 3:01 | 2023-10-20 | 2024-02-03 |
 | [Societal Bile](https://open.spotify.com/track/0caF9S71yIZl43EbGCn85u) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Societal Bile](https://open.spotify.com/album/6Huux7HHfhFuKtTAd1zL5v) | 3:00 | 2024-01-12 |  |
@@ -628,6 +630,7 @@
 | [The Razor's Apple](https://open.spotify.com/track/6skD0fAOAk5zswKCiSevHz) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [The Razor's Apple](https://open.spotify.com/album/7vBzf3GC0LJ9FiGDDKqwlr) | 3:11 | 2022-10-21 | 2023-07-15 |
 | [The Reaper’s Servant](https://open.spotify.com/track/6tt1I3KMJCLjKw4gTBoXHH) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh), [Darius Tehrani](https://open.spotify.com/artist/6zgEcx3Zls6xVzT6lG2vH1) | [The Reaper’s Servant](https://open.spotify.com/album/5rfTMvJNvJyPdzxdyXfag8) | 4:55 | 2023-11-17 | 2024-02-03 |
 | [The Requiem](https://open.spotify.com/track/6hfkFSmTZktAqOoPV1Jqlf) | [Deadbody](https://open.spotify.com/artist/1wGgCyV0NZ50dH1aEoKjma) | [The Requiem](https://open.spotify.com/album/3d7HL1BTrcrfkjvOrAQQMf) | 1:43 | 2022-10-21 | 2023-07-15 |
+| [The Seed That Dreamed Of Its Own Creation](https://open.spotify.com/track/7G2A1TVHR1tXpB13upMe6y) | [Lowen](https://open.spotify.com/artist/2jJxBOcsVwHF0kYnnjsPu9) | [The Seed That Dreamed Of Its Own Creation](https://open.spotify.com/album/5xGngVEkhiPb8bh7zOxaMN) | 3:26 | 2024-07-05 |  |
 | [The Serpent and the Rainbow](https://open.spotify.com/track/2CkpD7gqMXrrpTCJ9TZ0bw) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [DIRTIESTNASTIEST$UICIDE](https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz) | 2:57 | 2022-12-16 | 2023-07-15 |
 | [The Silence Beyond Life](https://open.spotify.com/track/1oywTxidTBZiX9uYsW3u9z) | [Fuming Mouth](https://open.spotify.com/artist/2I7atnUFOmvMyGPuesD7cB) | [The Silence Beyond Life](https://open.spotify.com/album/2ETcW1eIJaZbNSTBiZdmCR) | 4:18 | 2023-09-08 | 2024-02-03 |
 | [The Sin of Human Frailty](https://open.spotify.com/track/5JZnn0DbRP9ZrpNfut6nCx) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [The Sin of Human Frailty](https://open.spotify.com/album/259zMZ6YBj39MehGYMR80C) | 2:11 | 2023-09-15 | 2024-02-03 |

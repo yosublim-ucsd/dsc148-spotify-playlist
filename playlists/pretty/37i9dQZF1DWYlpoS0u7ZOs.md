@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > A new wave of rock music\. Cover: chokecherry
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,121 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,135 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 25 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 |
 | 26 | [kill all of u](https://open.spotify.com/track/3gxdROUxVaDaj9c1MXdOzI) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [GOODNIGHT](https://open.spotify.com/album/5QOGIpTHGhWmyhT1uTonJZ) | 2:44 |
 | 27 | [Boys](https://open.spotify.com/track/3wRLsbybqoHVncYouMQvp3) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Boys](https://open.spotify.com/album/5PzrhYhmTEb8Wao6CmZe66) | 3:12 |
-| 28 | [Body In Your Basemet](https://open.spotify.com/track/54wMMdzLQ9FieLP3zoyKIV) | [Lizzy Farrall](https://open.spotify.com/artist/6ifpb96yDqUFuSIpM62FTa) | [Body In Your Basemet](https://open.spotify.com/album/3L6YPRXTg6KSIBIbKbVcXx) | 3:03 |
+| 28 | [Body In Your Basement](https://open.spotify.com/track/54wMMdzLQ9FieLP3zoyKIV) | [Lizzy Farrall](https://open.spotify.com/artist/6ifpb96yDqUFuSIpM62FTa) | [Body In Your Basement](https://open.spotify.com/album/3L6YPRXTg6KSIBIbKbVcXx) | 3:03 |
 | 29 | [Demons](https://open.spotify.com/track/342Y1xCB1oSNuh2BdWbCN6) | [October Drift](https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS) | [Demons](https://open.spotify.com/album/22nrfblrecfGibtd9ikjh7) | 3:22 |
 | 30 | [My Thoughts Go](https://open.spotify.com/track/0HgiTjbuOBalJw2QgDlR0H) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [My Thoughts Go](https://open.spotify.com/album/2Xmyy15pLd7NwLjc1PAjXT) | 3:42 |
 | 31 | [Idle Idle](https://open.spotify.com/track/5QrM00XhEbT1OYAcmdHPa2) | [Fold Paper](https://open.spotify.com/artist/418tC16FB4NdGVApqhpoFo) | [Idle Idle](https://open.spotify.com/album/5cX99OGTHS20ql72coOMRP) | 4:27 |

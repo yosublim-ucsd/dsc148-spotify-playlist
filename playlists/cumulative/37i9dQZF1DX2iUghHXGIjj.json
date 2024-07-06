@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "Back Porch Blues",
+        "url": "https://open.spotify.com/album/0PijqpPmbwVX0jbPh1IWEU"
+      },
+      "artists": [
+        {
+          "name": "R\u012b Wolf",
+          "url": "https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152147,
+      "name": "Back Porch Blues",
+      "url": "https://open.spotify.com/track/5xXCW3T0WHCIJYWkWevnK0"
+    },
+    {
+      "album": {
         "name": "Backstreets",
         "url": "https://open.spotify.com/album/3OgV4LLpLHkzMKY063lPdi"
       },
@@ -2950,7 +2968,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 206040,
       "name": "The World Can Be So Cold",
       "url": "https://open.spotify.com/track/1lUN4eNRlpuf3hHJjXf7KG"

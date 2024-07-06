@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 168333,
       "name": "I'll Play the Fool",
       "url": "https://open.spotify.com/track/0ypsakEytTz70C7OgZjfbf"
@@ -1338,6 +1338,24 @@
       "duration_ms": 253983,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/2yDWhOjZhKZ0XqPXyjNQhx"
+    },
+    {
+      "album": {
+        "name": "Luna mar",
+        "url": "https://open.spotify.com/album/3NtPpmzBw3Pfjn6ng3XuAa"
+      },
+      "artists": [
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195862,
+      "name": "Luna mar",
+      "url": "https://open.spotify.com/track/6NQHukyi4qcPuC3ZfCVyLu"
     },
     {
       "album": {

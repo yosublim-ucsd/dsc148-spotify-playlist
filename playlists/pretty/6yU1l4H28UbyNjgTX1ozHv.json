@@ -6,7 +6,7 @@
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "AAAE+7zXCcBnfMPCfHjc8hF5vwgkYlgP",
+  "snapshot_id": "AAAE/nVD/d9WeHnZKGg2zt+2Cm0du52u",
   "tracks": [
     {
       "added_at": "2024-05-10 18:18:10",
@@ -347,6 +347,22 @@
       "duration_ms": 282093,
       "name": "Fields Of Gold",
       "url": "https://open.spotify.com/track/5vtOJrmovXGxGsnAck694H"
+    },
+    {
+      "added_at": "2024-07-05 20:27:40",
+      "album": {
+        "name": "I'm Gonna Be (500 Miles) [Acoustic]",
+        "url": "https://open.spotify.com/album/7xpPMA88SFHaj9KOq4QzI8"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Haynes",
+          "url": "https://open.spotify.com/artist/5ktwL8uLtQzLeGwJzqE0wE"
+        }
+      ],
+      "duration_ms": 197926,
+      "name": "I'm Gonna Be (500 Miles) - Acoustic",
+      "url": "https://open.spotify.com/track/0mDRImiyeBWKQf34pfrYJY"
     },
     {
       "added_at": "2024-01-12 12:39:52",
@@ -891,6 +907,22 @@
       "duration_ms": 155413,
       "name": "Sk8er Boi - Acoustic",
       "url": "https://open.spotify.com/track/2sMcfmeQgoLAxnVKxEtIUM"
+    },
+    {
+      "added_at": "2024-07-05 20:23:51",
+      "album": {
+        "name": "Say My Name (Acoustic)",
+        "url": "https://open.spotify.com/album/1jNMfAU9v8HNIfI0mDjbie"
+      },
+      "artists": [
+        {
+          "name": "Amber Leigh Irish",
+          "url": "https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05"
+        }
+      ],
+      "duration_ms": 125512,
+      "name": "Say My Name - Acoustic",
+      "url": "https://open.spotify.com/track/39vsqGcS9eHZYwfuvjLcKY"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -2119,22 +2151,6 @@
       "duration_ms": 216413,
       "name": "Symphony (feat. Zara Larsson) - Acoustic Version",
       "url": "https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d"
-    },
-    {
-      "added_at": "2019-10-13 06:38:53",
-      "album": {
-        "name": "Unplugged Acoustic, Vol. 2",
-        "url": "https://open.spotify.com/album/7bmh7DWf51dbPB5pDVjyIQ"
-      },
-      "artists": [
-        {
-          "name": "Amber Leigh Irish",
-          "url": "https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05"
-        }
-      ],
-      "duration_ms": 145056,
-      "name": "2002 - Acoustic",
-      "url": "https://open.spotify.com/track/67hLk2IWPV2kHXlbP8I79Q"
     },
     {
       "added_at": "2019-10-13 06:38:53",

@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Vaundy, あいみょん, 西野カナ, OneRepublic, Quavo & Lana Del Rey and more! cover: Vaundy
 
-5,864 songs - 13 day 18 hr 4 min
+5,867 songs - 13 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1640,6 +1640,7 @@
 | [For The Both of Us](https://open.spotify.com/track/0QIiiAoUQru2NQtRBrihII) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [For The Both of Us](https://open.spotify.com/album/0fxF1wmYvHSPbche9nHviN) | 2:45 | 2023-09-07 | 2023-09-15 |
 | [Forbidden Doors](https://open.spotify.com/track/0WpnfNGEoI2YswrO8LNkQk) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Forbidden Doors](https://open.spotify.com/album/2HlAQgCP2dsQNdyM35Iihu) | 3:54 | 2023-02-02 | 2023-02-10 |
 | [Forbidden Fruit](https://open.spotify.com/track/0JNcgsLk3Zdxgu75aGppmH) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Forbidden Fruit](https://open.spotify.com/album/1259gMBnBGDuCkAlLcJEyj) | 2:22 | 2024-05-02 | 2024-05-10 |
+| [FOREVER](https://open.spotify.com/track/47QP509sXnE54NwhzoMHAi) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [FOREVER](https://open.spotify.com/album/4MxSuIIvLMFtfL5pwa0cJh) | 3:32 | 2024-07-05 |  |
 | [Forever](https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Forever](https://open.spotify.com/album/0sZTJtEOsqFoWexi2tUvtc) | 3:16 | 2023-08-24 | 2023-09-01 |
 | [Forever](https://open.spotify.com/track/24qAJbvE3wT2zjEvvxhBiv) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [How Many Dreams?](https://open.spotify.com/album/2wYPALt15aZ22mny0PZvqc) | 3:50 | 2023-03-31 | 2023-04-07 |
 | [Forever](https://open.spotify.com/track/52Y1NDCiTeWECwQSeUdAaA) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RobbieG](https://open.spotify.com/artist/2NWRfNAjBd2cUOKbE9Isda) | [Forever](https://open.spotify.com/album/6B5LA5m4bNlH1lTI91biWb) | 3:01 | 2023-12-21 | 2023-12-30 |
@@ -2650,6 +2651,7 @@
 | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP) | 2:54 | 2023-08-03 | 2023-08-11 |
 | [Lick Or Sum](https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lick Or Sum](https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR) | 2:21 | 2023-05-25 | 2023-06-02 |
 | [lie](https://open.spotify.com/track/2GQqCyDCD0Z7BL2otJkFRh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [lie](https://open.spotify.com/album/6uy43Z8UWtPQS7tnddxU8G) | 3:34 | 2023-06-22 | 2023-06-30 |
+| [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 | 2024-07-05 |  |
 | [Life](https://open.spotify.com/track/37a5ZqRLzP1msTWdV2fc9q) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Life](https://open.spotify.com/album/7zPWO2JKcttuUQe2flGSjA) | 3:11 | 2023-08-17 | 2023-08-25 |
 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 | 2024-06-21 | 2024-06-28 |
 | [Life](https://open.spotify.com/track/4fKGoKVkyAgZK3p3CoiZIa) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Life](https://open.spotify.com/album/2kxvs0BMPQVRlBo5KnqkDz) | 4:16 | 2024-05-16 | 2024-05-24 |
@@ -5617,6 +5619,7 @@
 | [ランタン](https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [ランタン](https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe) | 3:26 | 2024-02-02 | 2024-02-09 |
 | [リズム64](https://open.spotify.com/track/74GJbmNHys47ZfdoQCySpM) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [リズム64](https://open.spotify.com/album/5ItDzD0v8osJxkUrUCPLJs) | 4:28 | 2024-02-02 | 2024-02-03 |
 | [ルバート](https://open.spotify.com/track/1w3837OMA0xxpFqqMtL7B5) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [ルバート](https://open.spotify.com/album/0SlZ8UoV2wgNqDZNMTpgD0) | 3:51 | 2024-05-30 | 2024-06-07 |
+| [ルル](https://open.spotify.com/track/6UuxnR9zgvzpFS6YvfCqFL) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ルル](https://open.spotify.com/album/10iuG3s2Fry5JiUh0i0c75) | 3:17 | 2024-07-05 |  |
 | [ルージュ](https://open.spotify.com/track/7g6lGyhKD2OYByD6YJq4im) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [ルージュ](https://open.spotify.com/album/7fH4NYbcCV994KVTuv520x) | 3:10 | 2023-06-22 | 2023-06-30 |
 | [ルードルーズダンス](https://open.spotify.com/track/0sHbdxyepJ11nCCUEOin35) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [ルードルーズダンス](https://open.spotify.com/album/78MM2z00YPJadoqTqmhDbi) | 4:42 | 2023-01-29 | 2023-02-03 |
 | [レナセールセレナーデ](https://open.spotify.com/track/4LiRiw0zRSf9fN3QEf0fN3) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [レナセールセレナーデ](https://open.spotify.com/album/6NeE8qVQDMwIMEp7DDcWEI) | 4:09 | 2024-06-28 | 2024-07-05 |
@@ -5656,7 +5659,7 @@
 | [切望](https://open.spotify.com/track/7vjOo9fJElFH24nXraNRYK) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [音楽](https://open.spotify.com/album/2CBL0ep4HNPCrCkQGhWJ1M) | 4:25 | 2024-02-22 | 2024-03-01 |
 | [初恋キラー](https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [初恋キラー](https://open.spotify.com/album/2pUxSIXaFG9Pm3jXeYa93e) | 2:12 | 2024-05-10 | 2024-05-17 |
 | [別れ花](https://open.spotify.com/track/3daBPaEPPBxpUpDFTYRiw7) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [別れ花](https://open.spotify.com/album/4xCe2G83LCOPH6U61vfozT) | 4:42 | 2023-05-18 | 2023-05-26 |
-| [創造](https://open.spotify.com/track/3S6GTN1iZqA0x0yosF0UbH) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC), [坂東祐大](https://open.spotify.com/artist/5QFWvTvRWBQYVMTfXEqu7q) | [創造](https://open.spotify.com/album/3S2gnL0ouaaysORJdKLylf) | 5:24 | 2024-07-04 |  |
+| [創造](https://open.spotify.com/track/3S6GTN1iZqA0x0yosF0UbH) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC), [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [創造](https://open.spotify.com/album/3S2gnL0ouaaysORJdKLylf) | 5:24 | 2024-07-04 |  |
 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 | 2023-09-28 | 2023-10-06 |
 | [勇者の旗](https://open.spotify.com/track/5vYSPdND4HcviaZtgBLlHa) | [Shizuka Kudo](https://open.spotify.com/artist/7sU5H7XSVz0GC1RyM7jY2W) | [勇者の旗](https://open.spotify.com/album/43gUehvM0qOS4SAPg3nmPH) | 4:53 | 2023-06-29 | 2023-07-01 |
 | [匿名奇謀](https://open.spotify.com/track/56VGFy1ykmlUfGulaXaGo0) | [アツキタケトモ](https://open.spotify.com/artist/3heMyf2JzG0BDI5KGMNF1f) | [匿名奇謀](https://open.spotify.com/album/7n1ooVetm2k8AUgQZF1jSu) | 3:34 | 2024-01-05 | 2024-01-12 |

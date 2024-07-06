@@ -4,13 +4,13 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-244 songs - 12 hr 39 min
+246 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Your Love Keeps Lifting Me\) Higher & Higher \- Acoustic](https://open.spotify.com/track/4oa1DiVw9hVhXeoD0c9pKK) | [Franklyn Jay](https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr) | [\(Your Love Keeps Lifting Me\) Higher & Higher \[Acoustic\]](https://open.spotify.com/album/5xxYqq9qp6qmTbusizp692) | 2:48 | 2024-06-25 |  |
 | [1973 \- Acoustic](https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 3:29 | 2019-10-13 |  |
-| [2002 \- Acoustic](https://open.spotify.com/track/67hLk2IWPV2kHXlbP8I79Q) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Unplugged Acoustic, Vol\. 2](https://open.spotify.com/album/7bmh7DWf51dbPB5pDVjyIQ) | 2:25 | 2019-10-13 |  |
+| [2002 \- Acoustic](https://open.spotify.com/track/67hLk2IWPV2kHXlbP8I79Q) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Unplugged Acoustic, Vol\. 2](https://open.spotify.com/album/7bmh7DWf51dbPB5pDVjyIQ) | 2:25 | 2019-10-13 | 2024-07-06 |
 | [Africa \- Acoustic](https://open.spotify.com/track/2oUb1OhVJ4JusGBn3qqFWU) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Lisa Cimorelli](https://open.spotify.com/artist/3LnKjRAWZqaSyJnHqc05Rq) | [he said\. she said.](https://open.spotify.com/album/2fPoRKXtIhmc70zJlDrTY2) | 3:18 | 2021-08-01 |  |
 | [Ain't Nobody \- Acoustic](https://open.spotify.com/track/5WjvEQDGeckLD5BfsE3QnR) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU), [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Ain't Nobody \(Acoustic\)](https://open.spotify.com/album/43zIXrsyryxFsZhrTQooND) | 3:04 | 2023-02-10 | 2023-02-28 |
 | [All I Have to Do Is Dream \- Acoustic](https://open.spotify.com/track/1ZInn6dKkIyQv8YFDgmsBD) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [All I Have to Do Is Dream \(Acoustic\)](https://open.spotify.com/album/0kG9UJ3SqUt8vAq7g9jRcs) | 2:12 | 2023-01-06 |  |
@@ -105,6 +105,7 @@
 | [I'll Be There For You \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Spotify Singles](https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz) | 2:48 | 2019-10-13 |  |
 | [I'm a Believer \- Acoustic](https://open.spotify.com/track/3YZxfxxOyaneUFobNYlVlA) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [I'm a Believer \(Acoustic\)](https://open.spotify.com/album/21sYbjhRnRJMmSI60vUP9F) | 2:53 | 2024-02-19 |  |
 | [I'm A Believer \- Acoustic](https://open.spotify.com/track/0arOYnavWumToLwoHTKUtV) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [I'm A Believer \(Acoustic\)](https://open.spotify.com/album/5bef8Aq3CMZvfwR2kcb6ce) | 2:38 | 2024-03-22 | 2024-05-11 |
+| [I'm Gonna Be \(500 Miles\) \- Acoustic](https://open.spotify.com/track/0mDRImiyeBWKQf34pfrYJY) | [Lizzie Haynes](https://open.spotify.com/artist/5ktwL8uLtQzLeGwJzqE0wE) | [I'm Gonna Be \(500 Miles\) \[Acoustic\]](https://open.spotify.com/album/7xpPMA88SFHaj9KOq4QzI8) | 3:17 | 2024-07-05 |  |
 | [I'm Like a Bird \- Acoustic](https://open.spotify.com/track/3c8tm69G8hZTs8gJI99Pbe) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [I'm Like a Bird \(Acoustic\)](https://open.spotify.com/album/6k4uP5KtblJ7MNJKkQY54c) | 2:41 | 2023-01-03 | 2023-01-19 |
 | [I'm Outta Love \- Acoustic](https://open.spotify.com/track/5jUYDbQYp5rkU9f10EK0KX) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [I'm Outta Love \(Acoustic\)](https://open.spotify.com/album/1CaneGSTgnqGrGAKDj5SVd) | 2:45 | 2024-03-08 |  |
 | [I'm Still Standing \- Acoustic](https://open.spotify.com/track/58qyn3EztQitvZIOhE8u66) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05), [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [I'm Still Standing \(Acoustic\)](https://open.spotify.com/album/42X06RmupweTB9QHr0coFa) | 2:28 | 2024-01-12 | 2024-02-10 |
@@ -177,6 +178,7 @@
 | [Rise Up \- Acoustic](https://open.spotify.com/track/1qmCoha1HrkCVInVnfhpPC) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Rise Up \(Acoustic\)](https://open.spotify.com/album/1QC3l2jIGCX0FeIXZgIgLW) | 3:16 | 2021-09-24 | 2023-03-25 |
 | [Running Up That Hill \(A Deal With God\) \- Acoustic](https://open.spotify.com/track/0eMIhZyrQ1SqPR89AJ3oOx) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Running Up That Hill \(A Deal With God\) \[Acoustic\]](https://open.spotify.com/album/6EvmJCsRyjv2XvOxhCoGKG) | 2:47 | 2022-07-22 | 2023-05-10 |
 | [Save the Best for Last \- Acoustic](https://open.spotify.com/track/2ZWFn3j8hz50G6bigMOLqj) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Save the Best for Last \(Acoustic\)](https://open.spotify.com/album/2ZLa6AUy1jNRGSdipoYdl3) | 2:45 | 2023-09-01 | 2024-02-10 |
+| [Say My Name \- Acoustic](https://open.spotify.com/track/39vsqGcS9eHZYwfuvjLcKY) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Say My Name \(Acoustic\)](https://open.spotify.com/album/1jNMfAU9v8HNIfI0mDjbie) | 2:05 | 2024-07-05 |  |
 | [Say Something \- Live from Spotify NYC](https://open.spotify.com/track/43cKoF3PLrsJSqGKgeqagV) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Spotify Sessions](https://open.spotify.com/album/4ipsAUmKH4ieH5Yh9tln9t) | 4:03 | 2019-10-13 |  |
 | [Shape of You \- Acoustic](https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shape of You \(Acoustic\)](https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw) | 3:43 | 2019-10-13 |  |
 | [She's Electric \- Acoustic](https://open.spotify.com/track/7Fqmr5xwLksBUgku1bfBFO) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [She's Electric \(Acoustic\)](https://open.spotify.com/album/1vdMBDG6eCCsInfSiIqc0E) | 3:36 | 2021-04-08 |  |

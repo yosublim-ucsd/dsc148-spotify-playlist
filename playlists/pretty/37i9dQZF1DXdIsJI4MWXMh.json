@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 66623,
+  "num_followers": 66644,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Por una Yegua No Se para la Trilla",
-        "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
-      },
-      "artists": [
-        {
-          "name": "Grupo el duelo",
-          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "La Mesa 20",
-      "url": "https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Michelada",
         "url": "https://open.spotify.com/album/5ROfzY597Mylv1i5xJUPzQ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 162320,
       "name": "Michelada",
       "url": "https://open.spotify.com/track/6wXMK7J7eNmwxOoIBexT7B"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Por una Yegua No Se para la Trilla",
+        "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
+      },
+      "artists": [
+        {
+          "name": "Grupo el duelo",
+          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "La Mesa 20",
+      "url": "https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Siempre en Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59vA22sZsQ0exXTI07xc3R"
-      },
-      "artists": [
-        {
-          "name": "Los Villanos de Coltauco",
-          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
-        }
-      ],
-      "duration_ms": 311016,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/1xew4s5581HZOaES46OSTN"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Nacieron para Triunfar, Vol. 1",
         "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 169466,
       "name": "Sombrero Vaquero",
       "url": "https://open.spotify.com/track/3dNAZRp5BnwVuKa7NDjGfE"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Siempre en Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59vA22sZsQ0exXTI07xc3R"
+      },
+      "artists": [
+        {
+          "name": "Los Villanos de Coltauco",
+          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
+        }
+      ],
+      "duration_ms": 311016,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/1xew4s5581HZOaES46OSTN"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "El Sol No Regresa",
-        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
-      },
-      "artists": [
-        {
-          "name": "LOS FLORES DE YUNGAY",
-          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
-        }
-      ],
-      "duration_ms": 174474,
-      "name": "El Sol No Regresa",
-      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Una Hora para Bailar",
         "url": "https://open.spotify.com/album/4rACcbOMPBbwWBiCLp5M7B"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 201627,
       "name": "All\u00e1 Va la Liebre",
       "url": "https://open.spotify.com/track/3512Mh1spOR8MLMlz57VtE"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "El Sol No Regresa",
+        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
+      },
+      "artists": [
+        {
+          "name": "LOS FLORES DE YUNGAY",
+          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+        }
+      ],
+      "duration_ms": 174474,
+      "name": "El Sol No Regresa",
+      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
     },
     {
       "added_at": "2024-06-12 22:58:17",

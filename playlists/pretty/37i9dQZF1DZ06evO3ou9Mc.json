@@ -1,12 +1,12 @@
 {
-  "description": "This Is The Offspring. Los temas esenciales, todos en una lista.",
-  "num_followers": 391583,
+  "description": "This is The Offspring. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 391714,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAABQRaT/DlWh3P5gvAz65DEv",
+  "snapshot_id": "ZoXmAAAAAAAyFLq6C5MShNjvjF6NP0JF",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Conspiracy Of One",
         "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
       },
@@ -71,6 +87,38 @@
       "duration_ms": 202573,
       "name": "Want You Bad",
       "url": "https://open.spotify.com/track/6hwQ69v7VbPhTTR2fOtYX7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 268826,
+      "name": "Gone Away - 1997",
+      "url": "https://open.spotify.com/track/5BnFZLH99sYav2cxJFGO2n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 134760,
+      "name": "(Can't Get My) Head Around You",
+      "url": "https://open.spotify.com/track/1qYcHo4wiesUC2VIRch45G"
     },
     {
       "added_at": null,
@@ -100,25 +148,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 188666,
-      "name": "Pretty Fly (For A White Guy)",
-      "url": "https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Splinter",
-        "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 134760,
-      "name": "(Can't Get My) Head Around You",
-      "url": "https://open.spotify.com/track/1qYcHo4wiesUC2VIRch45G"
+      "duration_ms": 133586,
+      "name": "Staring At The Sun",
+      "url": "https://open.spotify.com/track/0D2A4Rid7gnlcwlspLTkx0"
     },
     {
       "added_at": null,
@@ -171,22 +203,6 @@
       "duration_ms": 220946,
       "name": "Original Prankster",
       "url": "https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Splinter",
-        "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 169413,
-      "name": "Hit That",
-      "url": "https://open.spotify.com/track/3lfmqF0ULXRHlWxBeaHo3t"
     },
     {
       "added_at": null,
@@ -559,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
       },
       "artists": [
         {
@@ -568,9 +584,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 213106,
-      "name": "Genocide",
-      "url": "https://open.spotify.com/track/2NlRF63jgKhHY1RNhoXQRX"
+      "duration_ms": 179506,
+      "name": "Takes Me Nowhere",
+      "url": "https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A"
     },
     {
       "added_at": null,
@@ -591,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
       },
       "artists": [
         {
@@ -600,9 +616,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 179506,
-      "name": "Takes Me Nowhere",
-      "url": "https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A"
+      "duration_ms": 177373,
+      "name": "Mota",
+      "url": "https://open.spotify.com/track/5SvJWjPUiJcXqtXm8BmM5z"
     },
     {
       "added_at": null,
@@ -623,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "Mota",
-      "url": "https://open.spotify.com/track/5SvJWjPUiJcXqtXm8BmM5z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let The Bad Times Roll (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
       },
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 158333,
-      "name": "This Is Not Utopia",
-      "url": "https://open.spotify.com/track/7JmbtvmRa0ujQc7HXesX5G"
+      "duration_ms": 201266,
+      "name": "Behind Your Walls",
+      "url": "https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Go By",
-        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 240213,
-      "name": "Dirty Magic",
-      "url": "https://open.spotify.com/track/0iRJc27fHvcDd7D3mUlZZX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ixnay On The Hombre",
         "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 240213,
+      "name": "Dirty Magic",
+      "url": "https://open.spotify.com/track/0iRJc27fHvcDd7D3mUlZZX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let The Bad Times Roll (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
       },
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 191026,
-      "name": "Army Of One",
-      "url": "https://open.spotify.com/track/5HCgbSD9EPArLlyW7goKIt"
+      "duration_ms": 158333,
+      "name": "This Is Not Utopia",
+      "url": "https://open.spotify.com/track/7JmbtvmRa0ujQc7HXesX5G"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "Army Of One",
+      "url": "https://open.spotify.com/track/5HCgbSD9EPArLlyW7goKIt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ixnay On The Hombre",
         "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 156773,
       "name": "Way Down The Line",
       "url": "https://open.spotify.com/track/6hyZliAlUzUmU3sAeWLDwp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 210786,
-      "name": "We Never Have Sex Anymore",
-      "url": "https://open.spotify.com/track/3rqXh9yVOCPHGUjaW2a200"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 234666,
-      "name": "I Choose",
-      "url": "https://open.spotify.com/track/19cjuo0y4w2my2GcybUunG"
+      "duration_ms": 210786,
+      "name": "We Never Have Sex Anymore",
+      "url": "https://open.spotify.com/track/3rqXh9yVOCPHGUjaW2a200"
     }
   ],
   "unique_name": "This Is The Offspring",

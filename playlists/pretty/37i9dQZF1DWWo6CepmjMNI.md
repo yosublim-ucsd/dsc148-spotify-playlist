@@ -2,30 +2,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: HAPPILY
+> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: CURS
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,779 likes - 65 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,783 likes - 65 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [พอแล้ว\(แต่อีกแล้ว\)](https://open.spotify.com/track/6cvASv3yuhmXUkpvArYNGo) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [พอแล้ว\(แต่อีกแล้ว\)](https://open.spotify.com/album/1dtLsETExRe02RSDxixrAI) | 4:28 |
-| 2 | [ทุกครั้งที่สบตา](https://open.spotify.com/track/1gihnuYvGbRVgxrRmwgAey) | [BitterSweet](https://open.spotify.com/artist/01rltm3r7dWeRlV79wmaWG) | [ทุกครั้งที่สบตา](https://open.spotify.com/album/2yhWcMFw7i2KlVNVQu25ua) | 4:04 |
-| 3 | [เธอที่คิดถึง \(about you\)](https://open.spotify.com/track/1XTnPEPekA4VvA0uMtpgC8) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [เธอที่คิดถึง \(about you\)](https://open.spotify.com/album/5Hc4DEVAgvwGFkTVUK4LGO) | 5:45 |
-| 4 | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/track/4Miqyv9ecik7CkUjoCQSj7) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/album/4F6w0JDPOzEBmsZfZDhshe) | 7:24 |
-| 5 | [ขอบคุณ](https://open.spotify.com/track/0ybe3S732T6M2ch6fSrEIQ) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [ขอบคุณ](https://open.spotify.com/album/03zPBAx38bbnMbqdEfA24p) | 4:06 |
-| 6 | [ถ้าพบกัน ขอให้วันนั้นเราโตพอที่จะไม่ทิ้งกันอีก](https://open.spotify.com/track/6oX1bzufZSJR5Tb1lYRebA) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ถ้าพบกัน ขอให้วันนั้นเราโตพอที่จะไม่ทิ้งกันอีก](https://open.spotify.com/album/74z2Q1arMBR1Z8HgNtsySL) | 3:56 |
-| 7 | [Jinna](https://open.spotify.com/track/4sTpyVCItKsKf9yduwZMIF) | [PLASUI PLASUI](https://open.spotify.com/artist/5sL9SQbnub24DHQ2gITtEX) | [Jinna](https://open.spotify.com/album/1tjZtHV3wJuaeMgMouIkQ2) | 4:18 |
-| 8 | [แปรงฟัน](https://open.spotify.com/track/23rueOXtXSoenSxTaL16zo) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แปรงฟัน](https://open.spotify.com/album/4PB22xc4pU5jgfrI3VpurG) | 4:09 |
-| 9 | [ลมฝน \(By Your Side\)](https://open.spotify.com/track/1oNSDOwAjJUxFLQy2z5OcH) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [ลมฝน \(By Your Side\)](https://open.spotify.com/album/5E2cMAXwpBCYRMGaAWBVIV) | 4:39 |
-| 10 | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/track/2lNN1td6q6EBa05iof1zFl) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/album/6R9NfMpZdUfTQZnQn60UWS) | 4:20 |
-| 11 | [Drowning Leaf](https://open.spotify.com/track/76dipWHfhzdJ0EH8WYVImp) | [Flowers For Daryl](https://open.spotify.com/artist/7juHNCQiSAGwJNbvDch2FM) | [Drowning Leaf](https://open.spotify.com/album/6CYGKwZEdDX2o4j3VwJmMR) | 4:49 |
-| 12 | [0](https://open.spotify.com/track/0r2bwvtnNhPqfvowmoNLEX) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X), [HARTBEAT](https://open.spotify.com/artist/3rrcZ4qOsOshvqlSIlK36q) | [0](https://open.spotify.com/album/4V03QskDroW8KDabI6kLYS) | 3:52 |
-| 13 | [Someone](https://open.spotify.com/track/5qNzv6J7edmRQOtJH5whkl) | [Vrach](https://open.spotify.com/artist/6GSRIetKAXzSmqZublWHZM) | [Someone](https://open.spotify.com/album/3XnCKRIj2QvaKSwfkLKdyM) | 3:07 |
-| 14 | [ในเวลานี้](https://open.spotify.com/track/3KjSED3yuZ7MKpXJPYK0W2) | [FRONGNTC](https://open.spotify.com/artist/473j8XAhQml9Te4xvm2q3j) | [ในเวลานี้](https://open.spotify.com/album/2ZVV64XxjuWQcroyJhISN8) | 3:10 |
-| 15 | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/track/5jJt7NSLkYSB2g4j5bqf2P) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/album/5ejjRhYbOurcyaGkstwjC0) | 4:56 |
+| 1 | [ทุกครั้งที่สบตา](https://open.spotify.com/track/1gihnuYvGbRVgxrRmwgAey) | [BitterSweet](https://open.spotify.com/artist/01rltm3r7dWeRlV79wmaWG) | [ทุกครั้งที่สบตา](https://open.spotify.com/album/2yhWcMFw7i2KlVNVQu25ua) | 4:04 |
+| 2 | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/track/4Miqyv9ecik7CkUjoCQSj7) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/album/4F6w0JDPOzEBmsZfZDhshe) | 7:24 |
+| 3 | [ถ้าไม่อยากให้ฉันเสียใจ \(Gone\)](https://open.spotify.com/track/72lDaQUobAhzEcOXR4dHdL) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [When you cry, I cry](https://open.spotify.com/album/5XhRRYSmXmx6oEHgJM72vk) | 4:39 |
+| 4 | [เธอที่คิดถึง \(about you\)](https://open.spotify.com/track/1XTnPEPekA4VvA0uMtpgC8) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [เธอที่คิดถึง \(about you\)](https://open.spotify.com/album/5Hc4DEVAgvwGFkTVUK4LGO) | 5:45 |
+| 5 | [จากเมื่อวาน](https://open.spotify.com/track/22NejFlrIPRARMMKZRke5A) | [TWINSHOUSE](https://open.spotify.com/artist/35DKkzJ2J2lRoLrgnoAhuD) | [จากเมื่อวาน](https://open.spotify.com/album/6mjFCfCHUe17B3opy0FulL) | 4:27 |
+| 6 | [พอแล้ว\(แต่อีกแล้ว\)](https://open.spotify.com/track/6cvASv3yuhmXUkpvArYNGo) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [พอแล้ว\(แต่อีกแล้ว\)](https://open.spotify.com/album/1dtLsETExRe02RSDxixrAI) | 4:28 |
+| 7 | [ปล่อยใจ](https://open.spotify.com/track/6YEXIvR9f3S1Ca9E6Dn5uM) | [Wallry](https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki) | [ปล่อยใจ](https://open.spotify.com/album/7aAhsiKMaeuWLnmE70lohf) | 4:00 |
+| 8 | [ถ้าพบกัน ขอให้วันนั้นเราโตพอที่จะไม่ทิ้งกันอีก](https://open.spotify.com/track/6oX1bzufZSJR5Tb1lYRebA) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ถ้าพบกัน ขอให้วันนั้นเราโตพอที่จะไม่ทิ้งกันอีก](https://open.spotify.com/album/74z2Q1arMBR1Z8HgNtsySL) | 3:56 |
+| 9 | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/track/2lNN1td6q6EBa05iof1zFl) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/album/6R9NfMpZdUfTQZnQn60UWS) | 4:20 |
+| 10 | [แปรงฟัน](https://open.spotify.com/track/23rueOXtXSoenSxTaL16zo) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แปรงฟัน](https://open.spotify.com/album/4PB22xc4pU5jgfrI3VpurG) | 4:09 |
+| 11 | [ขอบคุณ](https://open.spotify.com/track/0ybe3S732T6M2ch6fSrEIQ) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [ขอบคุณ](https://open.spotify.com/album/03zPBAx38bbnMbqdEfA24p) | 4:06 |
+| 12 | [Jinna](https://open.spotify.com/track/4sTpyVCItKsKf9yduwZMIF) | [PLASUI PLASUI](https://open.spotify.com/artist/5sL9SQbnub24DHQ2gITtEX) | [Jinna](https://open.spotify.com/album/1tjZtHV3wJuaeMgMouIkQ2) | 4:18 |
+| 13 | [0](https://open.spotify.com/track/0r2bwvtnNhPqfvowmoNLEX) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X), [HARTBEAT](https://open.spotify.com/artist/3rrcZ4qOsOshvqlSIlK36q) | [0](https://open.spotify.com/album/4V03QskDroW8KDabI6kLYS) | 3:52 |
+| 14 | [ลมฝน \(By Your Side\)](https://open.spotify.com/track/1oNSDOwAjJUxFLQy2z5OcH) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [ลมฝน \(By Your Side\)](https://open.spotify.com/album/5E2cMAXwpBCYRMGaAWBVIV) | 4:39 |
+| 15 | [Someone](https://open.spotify.com/track/5qNzv6J7edmRQOtJH5whkl) | [Vrach](https://open.spotify.com/artist/6GSRIetKAXzSmqZublWHZM) | [Someone](https://open.spotify.com/album/3XnCKRIj2QvaKSwfkLKdyM) | 3:07 |
 | 16 | [ของเล่น](https://open.spotify.com/track/1vDqNZzCsD76TtVHgjYg3z) | [PENFINS](https://open.spotify.com/artist/6XEk4cGPHvtYxn9UYQly2l) | [ของเล่น](https://open.spotify.com/album/3Gmy7xeuCwfTRjhiXHfcX4) | 4:56 |
-| 17 | [ผู้ที่ศรัทธาในพระเจ้า แต่หมดกำลังอธิษฐาน](https://open.spotify.com/track/5lB51wzR4OxghE3qvREaaj) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ผู้ที่ศรัทธาในพระเจ้า แต่หมดกำลังอธิษฐาน](https://open.spotify.com/album/0eBVwsYfR3cDooFjZJGyyZ) | 4:06 |
-| 18 | [ถ้าเขาดีกว่า \(You’d Better Go\)](https://open.spotify.com/track/0nqVLxHEfr4FJ8NVl4DHwI) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ถ้าเขาดีกว่า \(You’d Better Go\)](https://open.spotify.com/album/6BNRczALadlNUQYJmAE3Ny) | 3:49 |
+| 17 | [ถ้าเขาดีกว่า \(You’d Better Go\)](https://open.spotify.com/track/0nqVLxHEfr4FJ8NVl4DHwI) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ถ้าเขาดีกว่า \(You’d Better Go\)](https://open.spotify.com/album/6BNRczALadlNUQYJmAE3Ny) | 3:49 |
+| 18 | [ผู้ที่ศรัทธาในพระเจ้า แต่หมดกำลังอธิษฐาน](https://open.spotify.com/track/5lB51wzR4OxghE3qvREaaj) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ผู้ที่ศรัทธาในพระเจ้า แต่หมดกำลังอธิษฐาน](https://open.spotify.com/album/0eBVwsYfR3cDooFjZJGyyZ) | 4:06 |
 | 19 | [อนันตกาล](https://open.spotify.com/track/1Q8mMXizYlIL3uE3klZPkT) | [Plastic Cavern](https://open.spotify.com/artist/6tpZMDoMCapU7JEefVtyAR) | [อนันตกาล](https://open.spotify.com/album/1BaTNj2bow0sTC8Tpajz0u) | 4:54 |
 | 20 | [เลิกกันมั้ย](https://open.spotify.com/track/4KQjNIhqDF4Gq3mr0bz5n0) | [Driver Boy](https://open.spotify.com/artist/1JM6CtpAcTwOYTYlya2wKi) | [เลิกกันมั้ย](https://open.spotify.com/album/4gAgb61C6W03LgiPQ9pkcu) | 5:02 |
 | 21 | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 64 | [ในวันที่ไม่เหลือใคร](https://open.spotify.com/track/3th5V3ADNe1y8K9Vf6H3aR) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [ในวันที่ไม่เหลือใคร \(Lost it all\)](https://open.spotify.com/album/5LpBEKIcnhqpslAWcZAmS8) | 4:52 |
 | 65 | [ตลอดไป](https://open.spotify.com/track/5eTOts5kvMHOVDMtOqY6uX) | [Petit Desk](https://open.spotify.com/artist/31WjytzKxWWvcr6uu0oZmw) | [ตลอดไป](https://open.spotify.com/album/3pA4CJzeCiRpSSLSqt6NkY) | 4:46 |
 
-Snapshot ID: `Zn6VvAAAAABSK5c4ZHVX8O4wEFaAWb39`
+Snapshot ID: `ZoeXgQAAAADuFjD2Gq1ml71vdaR1O4iv`

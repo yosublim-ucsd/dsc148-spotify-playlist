@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 
 > תחנת הרדיו הפרטית שלכם\. שירים יפים מישראל והעולם\. עטיפה: ילד
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,649 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,648 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 70 | [רונדלים](https://open.spotify.com/track/3Au0H4VhjcXZ5HGOHo8Nc3) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 1:54 |
 | 71 | [יהיה טוב](https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [אין עולם](https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc) | 3:16 |
 | 72 | [יהיה טוב & מים שקופים](https://open.spotify.com/track/44GSjYhBxuuKx0ikN5Dmag) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יהיה טוב & מים שקופים](https://open.spotify.com/album/2EXKJU0fNDfuFSTCea3xCl) | 4:47 |
-| 73 | [לצאת מדיכאון](https://open.spotify.com/track/0E9S1H3TktlpHmGyuKEfkL) | [יגל אושרי](https://open.spotify.com/artist/6Kn2CjfEButrWXszsA0E6Q) | [לצאת מדיכאון](https://open.spotify.com/album/3yKhRbzXdiublxlbHo69JF) | 3:10 |
-| 74 | [ככה וככה](https://open.spotify.com/track/3QCWA9RzAPb4Xw4BagADFq) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [Part II](https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e) | 3:39 |
+| 73 | [ככה וככה](https://open.spotify.com/track/3QCWA9RzAPb4Xw4BagADFq) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [Part II](https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e) | 3:39 |
+| 74 | [לצאת מדיכאון](https://open.spotify.com/track/0E9S1H3TktlpHmGyuKEfkL) | [יגל אושרי](https://open.spotify.com/artist/6Kn2CjfEButrWXszsA0E6Q) | [לצאת מדיכאון](https://open.spotify.com/album/3yKhRbzXdiublxlbHo69JF) | 3:10 |
 | 75 | [Vandalist](https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Vandalist](https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ) | 3:28 |
 | 76 | [אהבה חולה](https://open.spotify.com/track/4RyMByXc5HfKc3b8wqwOso) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח](https://open.spotify.com/album/3YoJ4HHNk56z0qabdxYmci) | 3:02 |
 | 77 | [בנות כמוני לא בוכות](https://open.spotify.com/track/2gwiDHH38cpSXuMU6Iu53d) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [בנות כמוני לא בוכות](https://open.spotify.com/album/7xlUbVX3KggFMOiLFyCrSM) | 2:36 |
@@ -102,10 +102,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 92 | [נהר הדמעות](https://open.spotify.com/track/0LqFPyHVwoYxJnZsa3Ji8x) | [Shlomo Artzi](https://open.spotify.com/artist/2W0dQPsEPd0tz7cj95gUse), [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [נהר הדמעות](https://open.spotify.com/album/6wI63Cyq2GddBiACSov0jB) | 2:54 |
 | 93 | [Quiet \[from the Netflix Film ‘Heart of Stone’\]](https://open.spotify.com/track/0ir6hnTJdwudrna8HJSHPN) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Quiet \[from the Netflix Film ‘Heart of Stone’\]](https://open.spotify.com/album/1XVaTJKPLDku4QGu0bZoXL) | 3:09 |
 | 94 | [DEJA VU](https://open.spotify.com/track/7v7nrrYMIdugbGRAseawG9) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [DEJA VU](https://open.spotify.com/album/6RyQ5WoUUyokV0X5hboeAY) | 3:09 |
-| 95 | [בובה](https://open.spotify.com/track/6m6oaAugKIwqZpLhqtOXMX) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn) | [בובה](https://open.spotify.com/album/34QC2WFPIqwoaoUcsCflix) | 3:07 |
-| 96 | [ויני וידי ויצ'י](https://open.spotify.com/track/4RrZdfphKgLiQ6uJJEgIMx) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [ויני וידי ויצ'י](https://open.spotify.com/album/2ZAVMJ0cfMztnaQoPiYv4N) | 2:24 |
-| 97 | [לחגוג ומגוג](https://open.spotify.com/track/7do5HTFZLs7swQHiBe8rQz) | [שחר סאול](https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE), [Ella Lee](https://open.spotify.com/artist/0wVxjQGYkyNh5qQsVCZWlo), [הפשוטע](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) | [לחגוג ומגוג](https://open.spotify.com/album/6tBtsrQRiZ46WSNnTVR9Ld) | 2:25 |
-| 98 | [אחותי כבר לא סובלת אותך](https://open.spotify.com/track/6clAq1cGO4PYimAmzelTmL) | [Shira Margalit](https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz) | [אחותי כבר לא סובלת אותך](https://open.spotify.com/album/50V1UPWQyk6uGVdIm8WgC5) | 3:01 |
+| 95 | [ויני וידי ויצ'י](https://open.spotify.com/track/4RrZdfphKgLiQ6uJJEgIMx) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [ויני וידי ויצ'י](https://open.spotify.com/album/2ZAVMJ0cfMztnaQoPiYv4N) | 2:24 |
+| 96 | [בובה](https://open.spotify.com/track/6m6oaAugKIwqZpLhqtOXMX) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn) | [בובה](https://open.spotify.com/album/34QC2WFPIqwoaoUcsCflix) | 3:07 |
+| 97 | [אחותי כבר לא סובלת אותך](https://open.spotify.com/track/6clAq1cGO4PYimAmzelTmL) | [Shira Margalit](https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz) | [אחותי כבר לא סובלת אותך](https://open.spotify.com/album/50V1UPWQyk6uGVdIm8WgC5) | 3:01 |
+| 98 | [לחגוג ומגוג](https://open.spotify.com/track/7do5HTFZLs7swQHiBe8rQz) | [שחר סאול](https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE), [Ella Lee](https://open.spotify.com/artist/0wVxjQGYkyNh5qQsVCZWlo), [הפשוטע](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) | [לחגוג ומגוג](https://open.spotify.com/album/6tBtsrQRiZ46WSNnTVR9Ld) | 2:25 |
 | 99 | [צריך אותך](https://open.spotify.com/track/4QDPzbvvoLr5EhsRO0n4KX) | [Full Trunk](https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k) | [שובר במות](https://open.spotify.com/album/4rhNl9PNCYluDbA39LYkgU) | 4:57 |
 | 100 | [Miss You \(with Robin Schulz\)](https://open.spotify.com/track/1gTaC1CpQMt2nshXPcZDhu) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/39IdRQGJP54qVCKhIXNB8T) | 3:26 |
 

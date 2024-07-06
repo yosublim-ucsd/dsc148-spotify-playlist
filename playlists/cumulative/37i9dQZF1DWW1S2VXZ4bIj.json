@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e07\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Earth Patravee",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e07\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Paradox",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 298392,
       "name": "April",
       "url": "https://open.spotify.com/track/1HcNxQxyvT4Jg2c1A9FxjS"
+    },
+    {
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
       "album": {
@@ -276,6 +294,24 @@
       "duration_ms": 255750,
       "name": "Pink",
       "url": "https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL"
+    },
+    {
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
       "album": {
@@ -786,7 +822,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 244469,
       "name": "\u0e16\u0e49\u0e32\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e02\u0e36\u0e49\u0e19\u0e21\u0e32",
       "url": "https://open.spotify.com/track/54HAal2HAWet2sjAAJDiVq"
@@ -1344,7 +1380,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 183000,
       "name": "\u0e40\u0e01\u0e48\u0e07\u0e41\u0e15\u0e48\u0e25\u0e31\u0e1a\u0e2b\u0e25\u0e31\u0e07",
       "url": "https://open.spotify.com/track/5JmP1f56boflkB8xPbfz2t"
@@ -1546,10 +1582,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 279000,
       "name": "\u0e40\u0e2d\u0e40\u0e23\u0e19\u0e40\u0e14\u0e25 (EARENDEL)",
       "url": "https://open.spotify.com/track/3cvnQ06TvhaROQrObb4Cai"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e2d\u0e47\u0e19\u0e14\u0e39 - Single",
+        "url": "https://open.spotify.com/album/2sRprySk4hYdhwebAIDDxY"
+      },
+      "artists": [
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/32bq0Oy4ygWPR5ItUM5J5M"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207318,
+      "name": "\u0e40\u0e2d\u0e47\u0e19\u0e14\u0e39",
+      "url": "https://open.spotify.com/track/2ZHtauPTfmZJhlbRdlyM9P"
     },
     {
       "album": {
@@ -1647,6 +1701,28 @@
     },
     {
       "album": {
+        "name": "\u0e41\u0e23\u0e07\u0e40\u0e2a\u0e35\u0e22\u0e14\u0e17\u0e32\u0e19 - Single",
+        "url": "https://open.spotify.com/album/4QcRAF57FpYesSmGtD3t9J"
+      },
+      "artists": [
+        {
+          "name": "Cocktail",
+          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+        },
+        {
+          "name": "22Bullets",
+          "url": "https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231576,
+      "name": "\u0e41\u0e23\u0e07\u0e40\u0e2a\u0e35\u0e22\u0e14\u0e17\u0e32\u0e19",
+      "url": "https://open.spotify.com/track/0BvFqapFhSqvyeHKcFt5gu"
+    },
+    {
+      "album": {
         "name": "\u0e41\u0e25\u0e01\u0e2d\u0e30\u0e44\u0e23\u0e01\u0e47\u0e44\u0e14\u0e49",
         "url": "https://open.spotify.com/album/1czWyzVwvKtsAAOQiuUrqw"
       },
@@ -1676,7 +1752,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 234368,
       "name": "\u0e42\u0e04\u0e15\u0e23\u0e0a\u0e2d\u0e1a\u0e40\u0e25\u0e22\u0e2d\u0e48\u0e30 (Hey ! I Like You)",
       "url": "https://open.spotify.com/track/42sFJN5a3knoZyUCXdiNEy"
@@ -1730,7 +1806,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 161076,
       "name": "\u0e43\u0e04\u0e23\u0e01\u0e47\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u2026 (Millions People)",
       "url": "https://open.spotify.com/track/1SA1i9nvKnHPnXLAypWn0P"

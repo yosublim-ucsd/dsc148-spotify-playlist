@@ -4,7 +4,7 @@
 
 > The big Hip\-Life hits rn\. Cover: Black Sherif
 
-203 songs - 13 hr 50 min
+204 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Atweetan](https://open.spotify.com/track/5RUySragatyT0s0BZZbh7b) | [Kofi Nti](https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Rakia](https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T) | 5:06 | 2020-02-20 | 2024-02-27 |
 | [Awoyo Sofo](https://open.spotify.com/track/0AYl4k8cN3YXxVb88azE9K) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Awoyo Sofo](https://open.spotify.com/album/0GvruFtY50oHOTlsixNnah) | 3:15 | 2024-03-04 |  |
 | [Back 2 Sender](https://open.spotify.com/track/5UpqMuJ6xGpkwml44uvwQK) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [G.I.N.A](https://open.spotify.com/album/5FP1OJulMa7Y7siPhErW2F) | 3:07 | 2024-03-04 | 2024-03-15 |
-| [Back To Sender \(Taamiawu\)](https://open.spotify.com/track/2Ttg2Q7FuEJwT024yjz8ca) | [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Back To Sender \(Taamiawu\)](https://open.spotify.com/album/1m1j17DRfl9ESfDXELGjmi) | 3:43 | 2024-05-03 |  |
+| [Back To Sender \(Taamiawu\)](https://open.spotify.com/track/2Ttg2Q7FuEJwT024yjz8ca) | [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Back To Sender \(Taamiawu\)](https://open.spotify.com/album/1m1j17DRfl9ESfDXELGjmi) | 3:43 | 2024-05-03 | 2024-07-06 |
 | [Bad Boy](https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Bad Boy](https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP) | 3:12 | 2024-03-04 |  |
 | [Bad Feeling](https://open.spotify.com/track/1toPx3Ekrax1CIGIBJIgLf) | [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Bad Friends](https://open.spotify.com/album/7CPDg8cp3nKsAWNdZniYme) | 2:41 | 2024-05-03 |  |
 | [Been A Fool For You](https://open.spotify.com/track/0KL0cCn54gGCggbKFtT3Sb) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Been A Fool For You](https://open.spotify.com/album/22abtC7wk76NHDS3fdhopN) | 4:28 | 2023-12-01 | 2023-12-21 |
@@ -106,6 +106,7 @@
 | [Love You](https://open.spotify.com/track/23RRPvbF7A5o0Rosnw95nj) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Love You](https://open.spotify.com/album/4wyKFCKsJZCXzcr00nl9EE) | 3:06 | 2022-03-10 | 2024-03-05 |
 | [Maba](https://open.spotify.com/track/4Ygc9wczMo4gt2kjslEsoJ) | [Ex Doe](https://open.spotify.com/artist/5UTvTjvwBMdcgqBBVHN57S) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 3:32 | 2020-02-20 | 2022-03-10 |
 | [Made in Ghana](https://open.spotify.com/track/7dMMkof2wbprZYG6ggp8eP) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Made in Ghana](https://open.spotify.com/album/2U7uD59hrGd7V5i1HiASD1) | 3:09 | 2022-02-10 | 2023-11-25 |
+| [Makoma](https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Makoma](https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q) | 2:44 | 2024-07-05 |  |
 | [MAMA](https://open.spotify.com/track/7n3q5KB6vOF5Mh3YCVtovp) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [MAMA](https://open.spotify.com/album/08amz14qiWtlECBBBLIMSw) | 2:34 | 2022-03-03 | 2023-11-16 |
 | [Martha Matter](https://open.spotify.com/track/7IZDdDiQqR8sPiVKWCGFuy) | [KOFI BRUCE](https://open.spotify.com/artist/3C96ARfG9uaoD9AiE86jzt) | [Martha Matter](https://open.spotify.com/album/1ZCgErXZWyokFUHryxATW5) | 3:14 | 2022-05-19 | 2023-02-04 |
 | [Medo](https://open.spotify.com/track/2oyghYx5263u7C6O1vq2FA) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/1gpzzTqs3Dk0TdIWvXrqgP) | [Yeesom Sika](https://open.spotify.com/album/4EmJCbMg0wowFsOHMQKY6e) | 4:52 | 2020-02-20 | 2022-07-27 |

@@ -2,7 +2,7 @@
 
 ### [Fresh Hits](https://open.spotify.com/playlist/37i9dQZF1DWYrgs30Ir8ow)
 
-> Altijd fris in Fresh Hits\. Cover: Sam Feldt
+> Altijd fris in Fresh Hits\. Cover: Afro Bros, John West, Monq & Billy Dans
 
 635 songs - 1 day 6 hr 50 min
 

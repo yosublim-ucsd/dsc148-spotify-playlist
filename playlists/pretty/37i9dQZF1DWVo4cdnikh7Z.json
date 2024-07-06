@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : GOAT",
-  "num_followers": 664609,
+  "num_followers": 664673,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoQRfgAAAACVtc+3POMkkVldyq8wP70a",
+  "snapshot_id": "ZogIigAAAABDFBI+jIxf0r3bTR8dtogD",
   "tracks": [
     {
       "added_at": "2024-06-22 12:52:29",
@@ -47,6 +47,26 @@
       "duration_ms": 234023,
       "name": "Kadharalz",
       "url": "https://open.spotify.com/track/77OQsnAirm7Ke8EGgBeOxz"
+    },
+    {
+      "added_at": "2024-07-05 14:51:54",
+      "album": {
+        "name": "Raayan Rumble (From \"Raayan\")",
+        "url": "https://open.spotify.com/album/1FVH2D7UkI5LNhim5CshPS"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/4YZKlYrsp8YSwFtFxNcdhd"
+        }
+      ],
+      "duration_ms": 210768,
+      "name": "Raayan Rumble (From \"Raayan\")",
+      "url": "https://open.spotify.com/track/47yvxC80llSgqVhMWBZeLd"
     },
     {
       "added_at": "2024-05-20 09:32:22",
@@ -181,6 +201,30 @@
       "url": "https://open.spotify.com/track/3mIyypFRBKUgcaFp70EfTW"
     },
     {
+      "added_at": "2024-07-05 12:08:27",
+      "album": {
+        "name": "Yezhezhu Malai (From \"Yezhu Kadal Yezhu Malai\")",
+        "url": "https://open.spotify.com/album/0tceSPv2sosip0Dobxg415"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        }
+      ],
+      "duration_ms": 184571,
+      "name": "Yezhezhu Malai - From \"Yezhu Kadal Yezhu Malai\"",
+      "url": "https://open.spotify.com/track/0Z5S5vaptrVvjSDJHhLUDd"
+    },
+    {
       "added_at": "2024-06-25 14:00:22",
       "album": {
         "name": "Theme Of Kalki (From \"Kalki 2898 AD\") (Tamil)",
@@ -207,6 +251,34 @@
       "duration_ms": 189566,
       "name": "Theme Of Kalki (From \"Kalki 2898 AD\") (Tamil)",
       "url": "https://open.spotify.com/track/1bbOBvCjuXSg5iLKLvvl6s"
+    },
+    {
+      "added_at": "2024-07-02 11:41:04",
+      "album": {
+        "name": "Double ISMART (Tamil)",
+        "url": "https://open.spotify.com/album/4DBc3zAiZ4oDkHAyuAO0TU"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Sunandhan",
+          "url": "https://open.spotify.com/artist/1TdX02ny0RNoEGgNERMEEc"
+        },
+        {
+          "name": "Sahithi Chaganti",
+          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+        },
+        {
+          "name": "D.Mohan Kumar",
+          "url": "https://open.spotify.com/artist/1ZNjvrF2WSxwtLYrPIPfQQ"
+        }
+      ],
+      "duration_ms": 232599,
+      "name": "SteppaMaar",
+      "url": "https://open.spotify.com/track/1neavjLyyP0ZOa5Fy48BES"
     },
     {
       "added_at": "2024-07-01 09:10:19",
@@ -257,20 +329,28 @@
       "url": "https://open.spotify.com/track/5eSoySxUnx3xsm0FHFgHiv"
     },
     {
-      "added_at": "2024-06-07 12:45:10",
+      "added_at": "2024-07-05 12:05:25",
       "album": {
-        "name": "Garudan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5znc6AjRR30yU7gS55tWAl"
+        "name": "Imaikkathey (From \"Weapon\")",
+        "url": "https://open.spotify.com/album/0E3WJMVHxOyaO6Tnsf1TE8"
       },
       "artists": [
         {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Saindhavi",
+          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
+        },
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
         }
       ],
-      "duration_ms": 164542,
-      "name": "Panjavarna Kiliye",
-      "url": "https://open.spotify.com/track/3wxHHaXJax2h7iyOLOdbrp"
+      "duration_ms": 187066,
+      "name": "Imaikkathey (From \"Weapon\")",
+      "url": "https://open.spotify.com/track/1YITNsadQKJbo6MYXz4ayB"
     },
     {
       "added_at": "2024-05-29 05:58:39",
@@ -297,32 +377,96 @@
       "url": "https://open.spotify.com/track/6B7VV8M68NhKxHsd2nkFsZ"
     },
     {
-      "added_at": "2024-07-02 11:41:04",
+      "added_at": "2024-07-05 12:08:27",
       "album": {
-        "name": "Double ISMART (Tamil)",
-        "url": "https://open.spotify.com/album/4DBc3zAiZ4oDkHAyuAO0TU"
+        "name": "Panangarukka (From \"Sir\")",
+        "url": "https://open.spotify.com/album/4gJBbdTawcYFZERDQol59a"
       },
       "artists": [
         {
-          "name": "Mani Sharma",
-          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+          "name": "Siddhu Kumar",
+          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
         },
         {
-          "name": "Sunandhan",
-          "url": "https://open.spotify.com/artist/1TdX02ny0RNoEGgNERMEEc"
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
         },
         {
-          "name": "Sahithi Chaganti",
-          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+          "name": "Saindhavi",
+          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
         },
         {
-          "name": "D.Mohan Kumar",
-          "url": "https://open.spotify.com/artist/1ZNjvrF2WSxwtLYrPIPfQQ"
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
         }
       ],
-      "duration_ms": 232599,
-      "name": "SteppaMaar",
-      "url": "https://open.spotify.com/track/1neavjLyyP0ZOa5Fy48BES"
+      "duration_ms": 218450,
+      "name": "Panangarukka - From \"Sir\"",
+      "url": "https://open.spotify.com/track/2o1YWhxRfQHLjWnHOL3t3r"
+    },
+    {
+      "added_at": "2024-07-05 12:08:27",
+      "album": {
+        "name": "Dhama Dhama (From \"Miss You\")",
+        "url": "https://open.spotify.com/album/5hLvIGAHPY5zQ7wTP4MN2q"
+      },
+      "artists": [
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        },
+        {
+          "name": "Guru Hariraj",
+          "url": "https://open.spotify.com/artist/6JYbKbNMLBlHfHNQlssC4w"
+        },
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        }
+      ],
+      "duration_ms": 201162,
+      "name": "Dhama Dhama (From \"Miss You\")",
+      "url": "https://open.spotify.com/track/6AktQfsNi1y6WYnN7qEopE"
+    },
+    {
+      "added_at": "2024-06-07 12:45:10",
+      "album": {
+        "name": "Garudan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5znc6AjRR30yU7gS55tWAl"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        }
+      ],
+      "duration_ms": 164542,
+      "name": "Panjavarna Kiliye",
+      "url": "https://open.spotify.com/track/3wxHHaXJax2h7iyOLOdbrp"
+    },
+    {
+      "added_at": "2024-07-05 12:05:25",
+      "album": {
+        "name": "Hope of Shambala (From \"Kalki 2898 AD\") (Tamil)",
+        "url": "https://open.spotify.com/album/6tboEaoZeT54lHF3GkqrS1"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Meenakshi Santhosh",
+          "url": "https://open.spotify.com/artist/694qJeY9ibnSYLnhPp1boa"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Hope of Shambala (From \"Kalki 2898 AD\") (Tamil)",
+      "url": "https://open.spotify.com/track/7kpgS4PmzPFVL1jyABjiJX"
     },
     {
       "added_at": "2024-07-01 09:10:19",
@@ -387,6 +531,26 @@
       "duration_ms": 222206,
       "name": "Kolladhey",
       "url": "https://open.spotify.com/track/3pJ4xvGuBWN7a7qCeffiyu"
+    },
+    {
+      "added_at": "2024-07-05 12:05:25",
+      "album": {
+        "name": "Varshangalkku Shesham - Tamil (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0SiQ9DhFaXeahodOHM0g7F"
+      },
+      "artists": [
+        {
+          "name": "Amrit Ramnath",
+          "url": "https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm"
+        },
+        {
+          "name": "R.P. Shravan",
+          "url": "https://open.spotify.com/artist/6z6IiuvxpYNQNFEF5a3r9w"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Madhu Malaro",
+      "url": "https://open.spotify.com/track/3pEhvWDq6AvXsuNfJDPRy0"
     },
     {
       "added_at": "2024-06-19 12:16:22",
@@ -523,6 +687,26 @@
       "duration_ms": 249677,
       "name": "Thai Thai - Rasavathi Fusion (From \"Rasavathi\")",
       "url": "https://open.spotify.com/track/7HE2qxaYXEBmuW6FBq5uGZ"
+    },
+    {
+      "added_at": "2024-07-05 12:05:25",
+      "album": {
+        "name": "Varshangalkku Shesham - Tamil (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0SiQ9DhFaXeahodOHM0g7F"
+      },
+      "artists": [
+        {
+          "name": "Amrit Ramnath",
+          "url": "https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm"
+        },
+        {
+          "name": "Poorna Meenakshi",
+          "url": "https://open.spotify.com/artist/6ABUPjGwYkH3TM4tSf06K7"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "Karai Theendum",
+      "url": "https://open.spotify.com/track/7wCPpT9YAartvsR41T2d90"
     },
     {
       "added_at": "2024-06-28 12:37:10",

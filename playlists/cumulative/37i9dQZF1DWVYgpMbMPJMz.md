@@ -2,9 +2,9 @@
 
 ### [WorshipNow](https://open.spotify.com/playlist/37i9dQZF1DWVYgpMbMPJMz)
 
-> No need to wait!  Experience today's best Worship music right here, right now\. Cover:  <a href="spotify:artist:0bz9hDpUbAw5JElgEiuIYZ">Matt Redman</a>
+> No need to wait!  Experience today's best Worship music right here, right now\. Cover:  <a href="spotify:artist:5A0SFJQSdSjFHGcndiGT1s">Planetshakers</a>
 
-604 songs - 2 day 8 hr 59 min
+605 songs - 2 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -565,6 +565,7 @@
 | [Up To Something \- Live](https://open.spotify.com/track/3zZ7jyrOgsj5Z5fRTK2wc8) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Taku Mudere](https://open.spotify.com/artist/0vwGmATjvSL1WFEFBOxBxP) | [Up To Something \(Live\)](https://open.spotify.com/album/16zpnlir2p3x354iszhPoZ) | 4:47 | 2022-08-12 | 2022-10-08 |
 | [Victorious \(Live\)](https://open.spotify.com/track/2WevAGXIXkcu96nNoP7S5v) | [Metro Life Worship](https://open.spotify.com/artist/7KkrNnMiMaKtIY87vYGGNK), [Mary Alessi](https://open.spotify.com/artist/2UIP3nP9br1L5Gu2OFE5F2), [Steph Alessi Muiña](https://open.spotify.com/artist/0YyhKuzuNV2wAYKkBKx5Gd) | [Overcome \(Live\)](https://open.spotify.com/album/2OsBS9sG3MzMDpLj9n7m0j) | 4:07 | 2022-02-25 | 2022-11-05 |
 | [Victory Of Jesus \- Live](https://open.spotify.com/track/7ktXVe69SF3sZoTCo54VIX) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Greater \(Live\)](https://open.spotify.com/album/3vD5fn6jCpUahEfJElUa6u) | 6:40 | 2022-09-02 | 2022-10-29 |
+| [Wash Over Me \- Live](https://open.spotify.com/track/5iIcJhksyVDWo72yag8AYS) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Wash Over Me \(Live\)](https://open.spotify.com/album/2OdJ4uS3VHMruiNKZl4X1Y) | 7:51 | 2024-07-05 |  |
 | [We Adore You](https://open.spotify.com/track/2htJ3lVlX1hcsT5SeK0Wme) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [REVERE: Brasil](https://open.spotify.com/album/7C1oFsJIw85C1Bi6zRkqwb) | 5:01 | 2022-05-06 | 2022-09-24 |
 | [We Bless \- Live](https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Victory Sounds \(Live\)](https://open.spotify.com/album/4Qrwc9UuMmNgBfgYWQf21n) | 6:36 | 2024-06-21 |  |
 | [We Crown You](https://open.spotify.com/track/01BsgrD3uoUEhVxyCHc9r2) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Live in the Prayer Room](https://open.spotify.com/album/2aGiv73UJKLLSjqE4Tvejd) | 7:29 | 2022-11-11 | 2024-01-13 |

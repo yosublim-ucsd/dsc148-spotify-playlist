@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "120",
+        "url": "https://open.spotify.com/album/5mygG63HJgXy8j0oKuByZb"
+      },
+      "artists": [
+        {
+          "name": "Daniel Martinez",
+          "url": "https://open.spotify.com/artist/0rtjia73NEeeTl4McsHU34"
+        },
+        {
+          "name": "Brand Randall",
+          "url": "https://open.spotify.com/artist/76iz3JNOhCYTh7QgjFZkhL"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "120",
+      "url": "https://open.spotify.com/track/0mU9qLx39wAvbNxmsapUyc"
+    },
+    {
+      "album": {
         "name": "12x3",
         "url": "https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr"
       },
@@ -246,6 +268,32 @@
       "duration_ms": 94077,
       "name": "Afeitate",
       "url": "https://open.spotify.com/track/4e1xygjKrLZ75zpuIzEwJF"
+    },
+    {
+      "album": {
+        "name": "AFERRAFTER",
+        "url": "https://open.spotify.com/album/3l3LRjvW69vWqR1Ia2xWQv"
+      },
+      "artists": [
+        {
+          "name": "Aguila DS",
+          "url": "https://open.spotify.com/artist/4tRMFw64H6uS3M5czNnRNv"
+        },
+        {
+          "name": "Saulito Pi",
+          "url": "https://open.spotify.com/artist/2YUKPfsqatwka855RoterR"
+        },
+        {
+          "name": "Dj Alexis Najera",
+          "url": "https://open.spotify.com/artist/4HvTa7hPj4FL8f397lcNqa"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179445,
+      "name": "AFERRAFTER",
+      "url": "https://open.spotify.com/track/5yocGyDqLyFOWAuuRF3nRf"
     },
     {
       "album": {
@@ -502,7 +550,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 252764,
       "name": "Apaguen la Luz",
       "url": "https://open.spotify.com/track/78cPTHYb5mI6o28M5oBvf4"
@@ -1892,7 +1940,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 201084,
       "name": "Chup\u00f3n",
       "url": "https://open.spotify.com/track/3lev2QW3nUHNuxrVstVEGj"
@@ -3132,6 +3180,32 @@
       "duration_ms": 167748,
       "name": "Dosis",
       "url": "https://open.spotify.com/track/10SVwgvHl2LN6H6ij5lloD"
+    },
+    {
+      "album": {
+        "name": "Con Las Que Perreaba Tu Mam\u00e1",
+        "url": "https://open.spotify.com/album/3l18uuE92xAoSurhNZM21p"
+      },
+      "artists": [
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        },
+        {
+          "name": "Rey Pirin",
+          "url": "https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9"
+        },
+        {
+          "name": "Dj Esli",
+          "url": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177285,
+      "name": "Echando Pata Rmx",
+      "url": "https://open.spotify.com/track/4kfhXUNuqaoxaM3vfIHZEd"
     },
     {
       "album": {
@@ -4818,7 +4892,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 158666,
       "name": "INGRATA4 (dime si a\u00fan)",
       "url": "https://open.spotify.com/track/6PBvW3ndFy2YafGRIniiNZ"
@@ -6502,7 +6576,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 136843,
       "name": "MAMI CHAKALOSA",
       "url": "https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw"
@@ -7310,7 +7384,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 165606,
       "name": "Mu\u00f1equita Vip",
       "url": "https://open.spotify.com/track/24e3FWpZTkwNTM7PdPXqpm"
@@ -7854,7 +7928,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 161700,
       "name": "Ojitos Chiquititos",
       "url": "https://open.spotify.com/track/3Bly9WOgOmDe72tpi5tRMd"
@@ -8422,7 +8496,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 210648,
       "name": "Perdon\u00e9monos 2",
       "url": "https://open.spotify.com/track/3luKYPdlxd3BqfbgegqLda"
@@ -8832,7 +8906,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 178474,
       "name": "Plastic Bombastic",
       "url": "https://open.spotify.com/track/367fC0Vpg30BYpzWiAAQnz"
@@ -9076,7 +9150,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 164997,
       "name": "PPP",
       "url": "https://open.spotify.com/track/1M7F1tBukdUEY1XqHRgUlW"
@@ -9517,6 +9591,32 @@
     },
     {
       "album": {
+        "name": "Rabote",
+        "url": "https://open.spotify.com/album/0pikRI78NM8XI7tDM2NvzF"
+      },
+      "artists": [
+        {
+          "name": "Gelous",
+          "url": "https://open.spotify.com/artist/5kYCLpKf9xPzuAtGV0j7EO"
+        },
+        {
+          "name": "Dj Drewther",
+          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
+        },
+        {
+          "name": "Interrogante Uno",
+          "url": "https://open.spotify.com/artist/0kL4y31aI77SsAjlE9G3i2"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126606,
+      "name": "Rabote",
+      "url": "https://open.spotify.com/track/2yz9M2dg31BbxL3sFs9dMO"
+    },
+    {
+      "album": {
         "name": "RAYBEN CAP 7: BELLAKACOQUETTE (feat. Profeta Yao Yao & Cachirula)",
         "url": "https://open.spotify.com/album/6oacIxkILsvDG3nG045io9"
       },
@@ -9544,7 +9644,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 159937,
       "name": "RAYBEN CAP 7: BELLAKACOQUETTE (feat. Profeta Yao Yao & Cachirula)",
       "url": "https://open.spotify.com/track/2PliTxLuOKE7RykFqDeDGb"
@@ -11072,7 +11172,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 171588,
       "name": "Tendo - Remix",
       "url": "https://open.spotify.com/track/5iQlORQQ6qpj9QSyWoxLbs"
@@ -11182,7 +11282,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 189613,
       "name": "Tiki",
       "url": "https://open.spotify.com/track/5U8rQGmRb9ps9nxHbSsyVy"
@@ -12118,7 +12218,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 161830,
       "name": "Verano Bellako",
       "url": "https://open.spotify.com/track/3m7x1yzyYNBqM2ZNCxmeHg"
@@ -12408,7 +12508,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 151578,
       "name": "YA VALI\u00d3",
       "url": "https://open.spotify.com/track/0VNwfyKyDrGw1BW7zxlGeQ"

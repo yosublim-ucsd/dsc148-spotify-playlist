@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 ### [New Dance Music Friday](https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr)
 
-> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: KREAM
+> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: Sjaak &amp; YONII
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,547 likes - 8 songs - 25 min 7 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,550 likes - 8 songs - 25 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,4 +17,4 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 7 | [I'm Too Sexy \(Albert Harvey Remix\)](https://open.spotify.com/track/6OFQ2DQOpID6yyeIIAHzzq) | [MaWayy](https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp), [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL), [Albert Harvey](https://open.spotify.com/artist/5OEDPvGsA5L54lRrdqi8Aj) | [I'm Too Sexy \(Remixes\)](https://open.spotify.com/album/7Hnh0uxsa3RetJCq7MeHCX) | 3:01 |
 | 8 | [Masada](https://open.spotify.com/track/6zbEa0mI2k0GpaV5ax3hJC) | [OTIOT](https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF) | [Masada \- Dabke Drive](https://open.spotify.com/album/3xTmjNxtMpek13avgo444Y) | 3:22 |
 
-Snapshot ID: `AAAqtqmHePvHuwjr6VwHazK+ETV/AKrh`
+Snapshot ID: `AAAqt4lzJ7I1qLS59ZbIK2eB8trOn8L/`

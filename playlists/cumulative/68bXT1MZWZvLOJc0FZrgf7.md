@@ -2,9 +2,9 @@
 
 ### [Dance For Days 🪩🕺 2024 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: BUNT.
+> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Sigala
 
-597 songs - 1 day 7 hr 2 min
+598 songs - 1 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c) | 2:48 | 2023-03-03 | 2023-12-14 |
 | [Inhale / Exhale \(with Sabrina Claudio\) \- VIP](https://open.spotify.com/track/6XRODAnJphegnNoxm6i2po) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Inhale / Exhale \(with Sabrina Claudio\) \[VIP\]](https://open.spotify.com/album/7v1mVahzhj3g5cxRmuMfcy) | 3:01 | 2023-12-08 |  |
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 | 2022-06-03 | 2023-07-29 |
+| [It's A Feeling](https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [It's A Feeling](https://open.spotify.com/album/3lV6tjpfPlg08Yjs4WjsDZ) | 3:09 | 2024-07-05 |  |
 | [Jacaré](https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Jacaré](https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO) | 2:36 | 2023-04-21 | 2023-12-14 |
 | [Jacaré \- Cat Dealers Remix](https://open.spotify.com/track/17lUIaVkGcCRe8H5a9PBNi) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Jacaré \(Cat Dealers Remix\)](https://open.spotify.com/album/2PDfmMTmpW3DL0gTVlJ05i) | 2:50 | 2023-08-04 | 2023-12-14 |
 | [Jalapeño \(feat\. DIAS\)](https://open.spotify.com/track/0mssLywe7VqYH6NlvdxLhV) | [WAVES](https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ), [DIAS](https://open.spotify.com/artist/005nAN1lLc2dTLpjBQQGCq) | [Jalapeño \(feat\. DIAS\)](https://open.spotify.com/album/0FZc5utNvOQamO9PggX7jF) | 2:18 | 2023-12-08 |  |

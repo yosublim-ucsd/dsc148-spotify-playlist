@@ -1,12 +1,12 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 166799,
+  "num_followers": 166849,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAAAc5342IAsNX93BDOZWe6ed",
+  "snapshot_id": "ZoXmAAAAAABSAc4SXmDrpbpKIBW68b9T",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Painkiller",
-        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
+        "name": "Point Of Entry",
+        "url": "https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 344360,
-      "name": "Night Crawler",
-      "url": "https://open.spotify.com/track/0MU1TyyAbuoXLGiQBgW9CI"
+      "duration_ms": 225533,
+      "name": "Heading Out to the Highway",
+      "url": "https://open.spotify.com/track/7sicPw7V9SYJl3Zjme9i4p"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Point Of Entry",
-        "url": "https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP"
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 225533,
-      "name": "Heading Out to the Highway",
-      "url": "https://open.spotify.com/track/7sicPw7V9SYJl3Zjme9i4p"
+      "duration_ms": 344360,
+      "name": "Night Crawler",
+      "url": "https://open.spotify.com/track/0MU1TyyAbuoXLGiQBgW9CI"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "British Steel",
-        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 238293,
-      "name": "Metal Gods",
-      "url": "https://open.spotify.com/track/0VFfZVCFNe1I2IIChVBR5m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stained Class",
         "url": "https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 409800,
       "name": "Beyond the Realms of Death",
       "url": "https://open.spotify.com/track/3Rtv6zRNKpeSygXoaF9kCm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 238293,
+      "name": "Metal Gods",
+      "url": "https://open.spotify.com/track/0VFfZVCFNe1I2IIChVBR5m"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Screaming For Vengeance (Expanded Edition)",
-        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 283120,
-      "name": "Screaming for Vengeance",
-      "url": "https://open.spotify.com/track/5xmmAlr7JqT53WqacPRhLA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Redeemer of Souls (Deluxe)",
         "url": "https://open.spotify.com/album/0RIfXMHvRpLqHsZ0FZE3mS"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 364080,
       "name": "Halls of Valhalla",
       "url": "https://open.spotify.com/track/4zX2bEgFHUIZV8rR3qsLor"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Screaming For Vengeance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 283120,
+      "name": "Screaming for Vengeance",
+      "url": "https://open.spotify.com/track/5xmmAlr7JqT53WqacPRhLA"
     },
     {
       "added_at": null,

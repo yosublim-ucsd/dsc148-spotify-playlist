@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=rXf6GEv2SfiKK5bhBOHSOg">Loufi</a>
 
-1,049 songs - 2 day 11 hr 3 min
+1,050 songs - 2 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -826,6 +826,7 @@
 | [So Gevoel](https://open.spotify.com/track/59vVY3wCh7AutqrcJ22aIv) | [Phillip](https://open.spotify.com/artist/281XJeBYeOa7LBfZx48NmY) | [So Gevoel](https://open.spotify.com/album/3YbqHiMtYB5Ta2A75F3Pjm) | 3:10 | 2023-10-26 | 2023-11-10 |
 | [So Onskuldig](https://open.spotify.com/track/1OXevWERz0x6r3c2y7n9RR) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [So Onskuldig](https://open.spotify.com/album/1DlxuUz2B8cnmWiMU7Sx1a) | 3:44 | 2024-03-21 | 2024-04-19 |
 | [Soen](https://open.spotify.com/track/5OQnmA3wT5JDL3RPRTRacI) | [Theo Amstel](https://open.spotify.com/artist/3C6hSKd1YurYkPr93D1JV4), [Stelle](https://open.spotify.com/artist/4J54uyaK1RW6AVWXVI4IxI) | [Soen](https://open.spotify.com/album/1dd6MkrfKQp591jOxv3NO7) | 3:02 | 2023-11-30 | 2023-12-15 |
+| [Soen My Sag](https://open.spotify.com/track/6E5FxrwmL0k9asiS2cjrsZ) | [Liesl Ahlers](https://open.spotify.com/artist/7fkdyKmNgl5pjMv5V5ohfY) | [Soen My Sag](https://open.spotify.com/album/3oDL7dx7f2szB0WgVdccgN) | 4:02 | 2024-07-04 |  |
 | [Soen Soos Wat Jy Dans](https://open.spotify.com/track/4yCS6Pqvpg9EaLQcvOPz40) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Soen Soos Wat Jy Dans](https://open.spotify.com/album/2td5HHRkCc3bcSvN9YO3IB) | 3:35 | 2024-02-01 | 2024-06-14 |
 | [Sokkie Tot Die Einde](https://open.spotify.com/track/42zwwodmjObOkLONUDkjRv) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Sokkie Tot Die Einde](https://open.spotify.com/album/28FmLzjwY5uqI69rq5HJkP) | 3:48 | 2024-05-30 |  |
 | [Solank Jy by My Is](https://open.spotify.com/track/5q8uR9E4YQ3hlMwcFvPfgs) | [Dwayne Griffin](https://open.spotify.com/artist/1jqur7Uppp7Wu2rBiq2tDI) | [Solank Jy by My Is](https://open.spotify.com/album/0K9onEUjtIdbvq0BpUQbMu) | 4:01 | 2023-02-16 | 2023-03-03 |

@@ -2,9 +2,9 @@
 
 ### [Tropical Hits](https://open.spotify.com/playlist/37i9dQZF1DWYey22ryYM8U)
 
-> Hits con sabor\. Cover: Luck Ra, Maluma & KHEA
+> Hits con sabor\. Cover: KAROL G
 
-326 songs - 20 hr 58 min
+327 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Señor Mentira](https://open.spotify.com/track/1euUy5iIipadV7jrHQRiYE) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/5qPa8E6bhoC1iCGaJOvhzW) | 4:29 | 2022-02-14 | 2022-07-29 |
 | [Señor Mentira](https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk) | 4:29 | 2022-07-19 | 2024-04-19 |
 | [Señorita Por Favor](https://open.spotify.com/track/1Dn8Kkt9ZPOmULlsAfN7Kc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ALTER EGO](https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p) | 3:42 | 2021-12-03 | 2022-02-13 |
+| [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-07-05 |  |
 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 | 2023-01-13 |  |
 | [Si Fuera Mía](https://open.spotify.com/track/5IdGYOdbqCALcfeNz06Y7k) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Si Fuera Mía](https://open.spotify.com/album/2JdSZ73pd1XebSWbzaLqw7) | 3:23 | 2022-02-14 | 2023-01-13 |
 | [Si Fuera Mía](https://open.spotify.com/track/7HB7UXn3aQxrQhkb1YS50E) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Si Fuera Mía](https://open.spotify.com/album/0koGvL6hKTCzvgR8IevXLf) | 3:23 | 2023-04-13 | 2024-04-19 |

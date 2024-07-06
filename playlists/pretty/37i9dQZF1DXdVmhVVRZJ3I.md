@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,547 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,557 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 49 | [Mami](https://open.spotify.com/track/293FR9YVtNOqAQhTXq3zEB) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Mami](https://open.spotify.com/album/4HdCnUOdk6zCGaBoDgHZGL) | 2:18 |
 | 50 | [Oscillator \(Jack Is Back\)](https://open.spotify.com/track/6WPazu06dUe2cQ95KbS6NN) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd), [Chuck Roberts](https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu) | [Oscillator \(Jack Is Back\)](https://open.spotify.com/album/6IyQxAbhpHfUeL3zbjNx0z) | 2:48 |
 
-Snapshot ID: `Zn4n5AAAAACwcFDBgv2tz+afuQAXmZy5`
+Snapshot ID: `ZodiZAAAAAAOOMBUq9r/nqRMB9g2KOwd`

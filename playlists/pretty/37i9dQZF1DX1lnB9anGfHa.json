@@ -1,6 +1,6 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 223053,
+  "num_followers": 223103,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,26 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Jinxed by Being",
+        "url": "https://open.spotify.com/album/5RTzu3SdKzh3M9hAx8vLqD"
+      },
+      "artists": [
+        {
+          "name": "Shackleton",
+          "url": "https://open.spotify.com/artist/5Mq3CTRRgLcPkMnUue75a3"
+        },
+        {
+          "name": "Six Organs Of Admittance",
+          "url": "https://open.spotify.com/artist/5jX8L7D6vWHYlNj9k361vI"
+        }
+      ],
+      "duration_ms": 553600,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/3zLL7RKf2gk148x05km0uB"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Selva",
         "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 187166,
       "name": "Taivshral",
       "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Jinxed by Being",
-        "url": "https://open.spotify.com/album/5RTzu3SdKzh3M9hAx8vLqD"
-      },
-      "artists": [
-        {
-          "name": "Shackleton",
-          "url": "https://open.spotify.com/artist/5Mq3CTRRgLcPkMnUue75a3"
-        },
-        {
-          "name": "Six Organs Of Admittance",
-          "url": "https://open.spotify.com/artist/5jX8L7D6vWHYlNj9k361vI"
-        }
-      ],
-      "duration_ms": 553600,
-      "name": "Open Your Heart",
-      "url": "https://open.spotify.com/track/3zLL7RKf2gk148x05km0uB"
     },
     {
       "added_at": "2024-06-28 00:01:00",

@@ -1,32 +1,60 @@
 {
   "description": "Genre-less. Quality first always. Cover: James Blake & Lil Yachty",
-  "num_followers": 1327415,
+  "num_followers": 1327398,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn6+LQAAAAAAzYQSV0xYj/8P9ERjShaf",
+  "snapshot_id": "ZodvwAAAAAATIJNwWNtRG4QqhD7UwWZn",
   "tracks": [
     {
-      "added_at": "2024-06-28 13:44:13",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Bad Cameo",
-        "url": "https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf"
+        "name": "It Only Takes 2",
+        "url": "https://open.spotify.com/album/5SrS2HHxX18rfgszNrWDFf"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          "name": "Thandii",
+          "url": "https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M"
         }
       ],
-      "duration_ms": 298882,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS"
+      "duration_ms": 203708,
+      "name": "It Only Takes 2",
+      "url": "https://open.spotify.com/track/7GTEkSbb0bG5RNKOrckKwi"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "nothings changed (!)",
+        "url": "https://open.spotify.com/album/34tsjIDnd3Z0EefNbKsr1e"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "duration_ms": 144630,
+      "name": "nothings changed (!)",
+      "url": "https://open.spotify.com/track/4Lq6T5Hmn9lrRPVUoRjNE4"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Sd-2",
+        "url": "https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Snoopy",
+      "url": "https://open.spotify.com/track/7IhiFqtPKncCJHF721tp8J"
     },
     {
       "added_at": "2024-06-28 13:44:13",
@@ -49,6 +77,66 @@
       "url": "https://open.spotify.com/track/6sefxeZxiA07DbMSQB498S"
     },
     {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Head Rush",
+        "url": "https://open.spotify.com/album/1LWY99BhdUJPU72PZ0MCIc"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Chain Hang Low (feat. Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/5FByRC0MNQpoA88jEk7URl"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "The Last One",
+        "url": "https://open.spotify.com/album/26PpclJsqvQlP50d5XcLWp"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 188708,
+      "name": "Memories (feat. Sampha)",
+      "url": "https://open.spotify.com/track/3r743128YSBlOb38PhO4pV"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Bad Cameo",
+        "url": "https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 169821,
+      "name": "Woo",
+      "url": "https://open.spotify.com/track/5wktQ3fg1lRjzUYyy7nu36"
+    },
+    {
       "added_at": "2024-06-28 13:44:13",
       "album": {
         "name": "WHEW LAWD",
@@ -63,6 +151,22 @@
       "duration_ms": 93409,
       "name": "WHEW LAWD",
       "url": "https://open.spotify.com/track/2nbTq1JQ1CrteXxYF4JAGR"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Lithonia",
+        "url": "https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 179320,
+      "name": "Lithonia",
+      "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
     },
     {
       "added_at": "2024-06-24 13:07:46",
@@ -81,6 +185,22 @@
       "url": "https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ"
     },
     {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "when brains dance",
+        "url": "https://open.spotify.com/album/41uCGlgUDw5K3Lxa21E8pC"
+      },
+      "artists": [
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "when brains dance",
+      "url": "https://open.spotify.com/track/4aE94pPbfuDpW9JVOCXr3E"
+    },
+    {
       "added_at": "2024-06-28 13:44:13",
       "album": {
         "name": "Blink Twice",
@@ -95,6 +215,42 @@
       "duration_ms": 182357,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/0mrawlgSrnmAoGxc8uG1mI"
+    },
+    {
+      "added_at": "2024-06-24 13:07:46",
+      "album": {
+        "name": "don't rely on other men",
+        "url": "https://open.spotify.com/album/0S3p06Juu3pFmzpdQbOHOK"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 194897,
+      "name": "don't rely on other men",
+      "url": "https://open.spotify.com/track/2RZBNHSfrxyIs8u9ciLKLf"
+    },
+    {
+      "added_at": "2024-06-28 13:44:13",
+      "album": {
+        "name": "Bad Cameo",
+        "url": "https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 298882,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS"
     },
     {
       "added_at": "2024-06-24 13:07:46",
@@ -147,22 +303,6 @@
       "duration_ms": 289054,
       "name": "CHROMA 004 ROLA",
       "url": "https://open.spotify.com/track/3YTLL48dJGvXU7NrtiXDFQ"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "don't rely on other men",
-        "url": "https://open.spotify.com/album/0S3p06Juu3pFmzpdQbOHOK"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 194897,
-      "name": "don't rely on other men",
-      "url": "https://open.spotify.com/track/2RZBNHSfrxyIs8u9ciLKLf"
     },
     {
       "added_at": "2024-06-24 13:07:46",
@@ -1031,30 +1171,6 @@
     {
       "added_at": "2024-06-24 13:07:46",
       "album": {
-        "name": "3FOR82",
-        "url": "https://open.spotify.com/album/5bOzaa9qvH7q8rEl3fg5nE"
-      },
-      "artists": [
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        },
-        {
-          "name": "Topaz Jones",
-          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
-        },
-        {
-          "name": "Ezri",
-          "url": "https://open.spotify.com/artist/4l5nRI74C0dHyddoaTKNwJ"
-        }
-      ],
-      "duration_ms": 170386,
-      "name": "RESPEK",
-      "url": "https://open.spotify.com/track/5Bbr0WZHVxuJ8DxBjdPywV"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/2g0KKIXBPUGx3zBdl2HUm9"
       },
@@ -1103,38 +1219,6 @@
       "duration_ms": 217880,
       "name": "Dispose of Me",
       "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Kali Yuga Discotheque",
-        "url": "https://open.spotify.com/album/4zaHfhoQmv9JFBKN3Glomd"
-      },
-      "artists": [
-        {
-          "name": "A/S/L",
-          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
-        }
-      ],
-      "duration_ms": 198749,
-      "name": "Kali Yuga Discotheque",
-      "url": "https://open.spotify.com/track/7qhj9SfAu5s0JJo3iKho9X"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Cupid Deluxe",
-        "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 256693,
-      "name": "Uncle ACE",
-      "url": "https://open.spotify.com/track/0Cn4UhpHhgf88eWaS9nn5u"
     },
     {
       "added_at": "2024-06-24 13:07:46",
@@ -1199,22 +1283,6 @@
       "duration_ms": 161661,
       "name": "Confusion Song",
       "url": "https://open.spotify.com/track/62Zw1ojf7TsvGCUMzzQOT8"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Ten Fold",
-        "url": "https://open.spotify.com/album/4CZCMvnmbjR6FkOAhzgmg3"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 139304,
-      "name": "career day",
-      "url": "https://open.spotify.com/track/6tRB5hUaJDStska9BvNxov"
     },
     {
       "added_at": "2024-06-24 13:07:46",
@@ -1643,22 +1711,6 @@
     {
       "added_at": "2024-06-24 13:07:46",
       "album": {
-        "name": "N.F.A. DEMOS",
-        "url": "https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz"
-      },
-      "artists": [
-        {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
-        }
-      ],
-      "duration_ms": 208713,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
         "name": "Weak (Mav's Version)",
         "url": "https://open.spotify.com/album/56v6sdACC0SuLiSvtsilLN"
       },
@@ -1683,18 +1735,18 @@
     {
       "added_at": "2024-06-24 13:07:46",
       "album": {
-        "name": "Mahal",
-        "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
+        "name": "N.F.A. DEMOS",
+        "url": "https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz"
       },
       "artists": [
         {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
         }
       ],
-      "duration_ms": 201339,
-      "name": "Mahal",
-      "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+      "duration_ms": 208713,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t"
     },
     {
       "added_at": "2024-06-24 13:07:46",
@@ -1715,70 +1767,18 @@
     {
       "added_at": "2024-06-24 13:07:46",
       "album": {
-        "name": "A LA SALA",
-        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
         }
       ],
-      "duration_ms": 255100,
-      "name": "A Love International",
-      "url": "https://open.spotify.com/track/3Bbb7sfVmXbJnuy75MidP3"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Hide (Bibio Rework)",
-        "url": "https://open.spotify.com/album/30s41AsEU9rXsgAbjmEmez"
-      },
-      "artists": [
-        {
-          "name": "Dorian Concept",
-          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
-        }
-      ],
-      "duration_ms": 210582,
-      "name": "Hide - Bibio Rework",
-      "url": "https://open.spotify.com/track/2gEMezYfDfRJcHdsiDZpMC"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Feel",
-        "url": "https://open.spotify.com/album/7dWUHgFmoGDdKzKIgc2xVC"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        },
-        {
-          "name": "Deza",
-          "url": "https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg"
-        }
-      ],
-      "duration_ms": 160532,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/4oY6egXEVlBy8jqsBSy5OC"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "AMAMA",
-        "url": "https://open.spotify.com/album/5FqxuOKOkFjjkawp7bf4NA"
-      },
-      "artists": [
-        {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        }
-      ],
-      "duration_ms": 190413,
-      "name": "AMAMA",
-      "url": "https://open.spotify.com/track/6rI8nhxfPes1TpaxOKQj0D"
+      "duration_ms": 201339,
+      "name": "Mahal",
+      "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
     }
   ],
   "unique_name": "POLLEN",

@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Anna Graves",
-  "num_followers": 78374,
+  "num_followers": 78400,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
+        "name": "God Needs The Devil",
+        "url": "https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
         }
       ],
-      "duration_ms": 251600,
-      "name": "The Kill",
-      "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
+      "duration_ms": 192133,
+      "name": "God Needs The Devil",
+      "url": "https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "God Needs The Devil",
-        "url": "https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl"
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
       },
       "artists": [
         {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 192133,
-      "name": "God Needs The Devil",
-      "url": "https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP"
+      "duration_ms": 251600,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/7wrLNCRVTujZouG9qSUrry"
-      },
-      "artists": [
-        {
-          "name": "Hans Williams",
-          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
-        }
-      ],
-      "duration_ms": 224371,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/4uqfL7UKwWPF1bpZok6zGs"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Autumn Variations",
         "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 194277,
       "name": "Magical",
       "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/7wrLNCRVTujZouG9qSUrry"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 224371,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/4uqfL7UKwWPF1bpZok6zGs"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "I Guess",
-        "url": "https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 224022,
-      "name": "I Guess",
-      "url": "https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Unheard",
         "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 222177,
       "name": "Wildflower and Barley",
       "url": "https://open.spotify.com/track/5AchurLxOrkSX5YVoH4FeJ"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "I Guess",
+        "url": "https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224022,
+      "name": "I Guess",
+      "url": "https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Timeline",
-        "url": "https://open.spotify.com/album/2SRvaltkNT8jvQ2NW8J8OZ"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 332585,
-      "name": "Timeline",
-      "url": "https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Undone (Love & Loss) [Deluxe]",
         "url": "https://open.spotify.com/album/7aEGLB6rp077QBEms6JPZ4"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 158813,
       "name": "The Anchor & The Kite",
       "url": "https://open.spotify.com/track/14GaOalWhixmfpfFVw8ycy"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Timeline",
+        "url": "https://open.spotify.com/album/2SRvaltkNT8jvQ2NW8J8OZ"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 332585,
+      "name": "Timeline",
+      "url": "https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Wishes",
-        "url": "https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 249138,
-      "name": "Wishes",
-      "url": "https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Free Treasure",
         "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 215514,
       "name": "Free Treasure",
       "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Wishes",
+        "url": "https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 249138,
+      "name": "Wishes",
+      "url": "https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Cape Forestier",
-        "url": "https://open.spotify.com/album/4jYX3Qzf8jzasDiGls6o7h"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 232725,
-      "name": "Cape Forestier",
-      "url": "https://open.spotify.com/track/1W2ihQwMDPNX7eAJaex3om"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Wildewoman (The New Recordings) [Deluxe]",
         "url": "https://open.spotify.com/album/7IFZ1uR0Hs2h2W0arSqeHC"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Cape Forestier",
+        "url": "https://open.spotify.com/album/4jYX3Qzf8jzasDiGls6o7h"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 232725,
+      "name": "Cape Forestier",
+      "url": "https://open.spotify.com/track/1W2ihQwMDPNX7eAJaex3om"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
       },
@@ -1179,22 +1179,6 @@
       "duration_ms": 203324,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Back For The Funeral",
-        "url": "https://open.spotify.com/album/0XgBUadqi7WXDReJAetsCX"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 192701,
-      "name": "Back For The Funeral",
-      "url": "https://open.spotify.com/track/3YIQtNLONCMhdVHAz4axNK"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Back For The Funeral",
+        "url": "https://open.spotify.com/album/0XgBUadqi7WXDReJAetsCX"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 192701,
+      "name": "Back For The Funeral",
+      "url": "https://open.spotify.com/track/3YIQtNLONCMhdVHAz4axNK"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Evolution (Deluxe)",
         "url": "https://open.spotify.com/album/17u2BRLhnXTtnDRaOuebQy"
       },
@@ -1231,22 +1231,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Oh No!",
-        "url": "https://open.spotify.com/album/6hbXOmm6JkscrDJqj5rSNX"
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
       },
       "artists": [
         {
-          "name": "The Decemberists",
-          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
-        },
-        {
-          "name": "James Mercer",
-          "url": "https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd"
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 244773,
-      "name": "Burial Ground",
-      "url": "https://open.spotify.com/track/1DGBNjWsXgKZqFlYBa0gIw"
+      "duration_ms": 306613,
+      "name": "Your Town",
+      "url": "https://open.spotify.com/track/2L6bK5oWN9QH8WY2ziRSM6"
     },
     {
       "added_at": "2024-06-28 04:00:00",

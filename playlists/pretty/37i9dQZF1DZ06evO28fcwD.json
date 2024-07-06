@@ -1,12 +1,12 @@
 {
-  "description": "This is Ladysmith Black Mambazo. The essential tracks, all in one playlist.",
-  "num_followers": 27859,
+  "description": "This is Ladysmith Black Mambazo. Les chansons essentielles, toutes regroup\u00e9es dans une seule liste de lecture.",
+  "num_followers": 27860,
   "original_name": "This Is Ladysmith Black Mambazo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAABGUh4EfflpEydH9bDWDga/",
+  "snapshot_id": "ZoXmAAAAAAAERz1jBq6FrUWJwrCdTd8u",
   "tracks": [
     {
       "added_at": null,
@@ -215,42 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nostalgic Moments",
-        "url": "https://open.spotify.com/album/5LOf3nKArt5FPYukAKFhdo"
-      },
-      "artists": [
-        {
-          "name": "The Soil",
-          "url": "https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 257306,
-      "name": "Hamba Uyosebenza",
-      "url": "https://open.spotify.com/track/3X18zAWjiu5uUCcDwwAg92"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Africa in Harmony: 50th Anniversary Edition",
-        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
-      "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Harmony",
         "url": "https://open.spotify.com/album/0Ei2iU4AG1Qgz23S5pNpjf"
       },
@@ -271,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shaka Zulu",
-        "url": "https://open.spotify.com/album/6BqoNCQsupSaLBkl8u1uME"
+        "name": "Africa in Harmony: 50th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
       },
       "artists": [
         {
@@ -280,9 +244,29 @@
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 189360,
-      "name": "Hello My Baby",
-      "url": "https://open.spotify.com/track/6FajJfTlwR9r1kkGlKlB8c"
+      "duration_ms": 210613,
+      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
+      "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nostalgic Moments",
+        "url": "https://open.spotify.com/album/5LOf3nKArt5FPYukAKFhdo"
+      },
+      "artists": [
+        {
+          "name": "The Soil",
+          "url": "https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 257306,
+      "name": "Hamba Uyosebenza",
+      "url": "https://open.spotify.com/track/3X18zAWjiu5uUCcDwwAg92"
     },
     {
       "added_at": null,
@@ -299,6 +283,22 @@
       "duration_ms": 183426,
       "name": "Thula Mtwana",
       "url": "https://open.spotify.com/track/3Ljbrj0nexrBh9Rte2LVaX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shaka Zulu",
+        "url": "https://open.spotify.com/album/6BqoNCQsupSaLBkl8u1uME"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "Hello My Baby",
+      "url": "https://open.spotify.com/track/6FajJfTlwR9r1kkGlKlB8c"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Umthombo Wamanzi",
+        "url": "https://open.spotify.com/album/0WhCJsx3LQ7hiZrIDlR1iM"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 217880,
+      "name": "Siligugu Isiphambano",
+      "url": "https://open.spotify.com/track/1NPc4dIbxgekcxpJIMa6A6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/6E6fumzB50Dwmzc7MUkXuC"
       },
@@ -499,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Umthombo Wamanzi",
-        "url": "https://open.spotify.com/album/0WhCJsx3LQ7hiZrIDlR1iM"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 217880,
-      "name": "Siligugu Isiphambano",
-      "url": "https://open.spotify.com/track/1NPc4dIbxgekcxpJIMa6A6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Star and the Wiseman",
         "url": "https://open.spotify.com/album/6ua556UHIvk1qNJBw6kDng"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 232093,
       "name": "Swing Low Sweet Chariot",
       "url": "https://open.spotify.com/track/5BujScz3tYp115DoioZUCs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Africa in Harmony: 50th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 183360,
+      "name": "Music Knows No Boundaries",
+      "url": "https://open.spotify.com/track/2ICJfwuwjtePkwgUE4tliT"
     },
     {
       "added_at": null,
@@ -547,22 +563,6 @@
       "duration_ms": 424666,
       "name": "Lonile Ibandla Lakho (Live)",
       "url": "https://open.spotify.com/track/5zL5q7nW7JSnx9xVe4cylT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Africa in Harmony: 50th Anniversary Edition",
-        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 183360,
-      "name": "Music Knows No Boundaries",
-      "url": "https://open.spotify.com/track/2ICJfwuwjtePkwgUE4tliT"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Izigqi Zendoda",
+        "url": "https://open.spotify.com/album/6gbef5MDVDy0cSHReqQBxx"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 215333,
+      "name": "Lelilungelo Ngelakho",
+      "url": "https://open.spotify.com/track/6ide03N57y59RaaGCqlelJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gospel Hits",
         "url": "https://open.spotify.com/album/2hJ9BieLDUmePCXiZHFKI3"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Africa in Harmony: 50th Anniversary Edition",
-        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 255927,
-      "name": "Selingelethu Sonke",
-      "url": "https://open.spotify.com/track/0hdzhCgfrfVbLpjbwzrcXh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ezulwini Siyakhona",
         "url": "https://open.spotify.com/album/2VOZDi18mx1k4feiFSXOD6"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 240160,
       "name": "Amagugu",
       "url": "https://open.spotify.com/track/4Yr0GLFCwZAyIV8WjYYXRk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Africa in Harmony: 50th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 255927,
+      "name": "Selingelethu Sonke",
+      "url": "https://open.spotify.com/track/0hdzhCgfrfVbLpjbwzrcXh"
     },
     {
       "added_at": null,
@@ -839,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lihl' Ixhiba Likagogo (My Grandmother's Kitchen)",
+        "url": "https://open.spotify.com/album/2mTxloMTnWHXML3dGLyiDt"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 256946,
+      "name": "Dlondlobala Njalo",
+      "url": "https://open.spotify.com/track/67Ey8t5US5jijGZZnfOfeZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Africa in Harmony: 50th Anniversary Edition",
         "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
       },
@@ -855,22 +887,6 @@
       "duration_ms": 226400,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/0sGbDq8dssHTaXryYykdEa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lihl' Ixhiba Likagogo (My Grandmother's Kitchen)",
-        "url": "https://open.spotify.com/album/2mTxloMTnWHXML3dGLyiDt"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 256946,
-      "name": "Dlondlobala Njalo",
-      "url": "https://open.spotify.com/track/67Ey8t5US5jijGZZnfOfeZ"
     },
     {
       "added_at": null,
@@ -919,22 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wenyukela",
-        "url": "https://open.spotify.com/album/1sCK9ROgvlWRvN08keQmb7"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 274693,
-      "name": "Wenza Ngani",
-      "url": "https://open.spotify.com/track/0EWp8ieJlF6IJeiCUxy1aa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ezinkulu",
         "url": "https://open.spotify.com/album/5w7fCN6djX1UXL1rTG9Rnh"
       },
@@ -979,8 +979,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heavenly",
-        "url": "https://open.spotify.com/album/5Wjx5HcyrsiR9eFe6Q8bUU"
+        "name": "Wenyukela",
+        "url": "https://open.spotify.com/album/1sCK9ROgvlWRvN08keQmb7"
       },
       "artists": [
         {
@@ -988,9 +988,9 @@
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 288466,
-      "name": "Inkanyezi Nezazi (The Star And The Wiseman)",
-      "url": "https://open.spotify.com/track/1EYDFzpXnupeapHRA6vX3c"
+      "duration_ms": 274693,
+      "name": "Wenza Ngani",
+      "url": "https://open.spotify.com/track/0EWp8ieJlF6IJeiCUxy1aa"
     }
   ],
   "unique_name": "This Is Ladysmith Black Mambazo",

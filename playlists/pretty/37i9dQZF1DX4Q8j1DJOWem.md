@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 ### [RADAR Thailand 2024](https://open.spotify.com/playlist/37i9dQZF1DX4Q8j1DJOWem)
 
-> สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: Newery
+> สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: BUS
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,462 likes - 35 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,471 likes - 35 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/track/0KdiGdEM5WRIcSWqFjT33b) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/album/6AQEMLftDGMFTOAEybxBBv) | 3:39 |
-| 2 | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 |
-| 3 | [Shall We](https://open.spotify.com/track/42TLIkJ2kFSY0WlCBjqzhB) | [Percy](https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr), [4ourYou](https://open.spotify.com/artist/6cEEa8xu47O2bYkQedFkUK), [GENA DESOUZA](https://open.spotify.com/artist/7jyl0OsOio6yzfWZUSCbip) | [Shall We](https://open.spotify.com/album/3KyVvNvqo1Rp14e1lR0z6i) | 3:17 |
-| 4 | [Disposable](https://open.spotify.com/track/2NNvziKZJDKXieWoVZGPCu) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m), [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD), [The Ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [Disposable](https://open.spotify.com/album/6MLdAacv7cSFW15pod6p4N) | 4:21 |
-| 5 | [เก่งไม่พอ](https://open.spotify.com/track/2ByaD5xzVHFQyOv5CHUUZ5) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [เก่งไม่พอ](https://open.spotify.com/album/32d3fXG3QNzy8Eh2u2PsPX) | 4:59 |
-| 6 | [น่ารักน้อยลงหน่อย \(Cuteless\)](https://open.spotify.com/track/7f1L9GyOgbt3ZguWN7Eog0) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [น่ารักน้อยลงหน่อย \(Cuteless\) \- Single](https://open.spotify.com/album/1iDsrhpGyZfAtoDXXgxhxE) | 3:45 |
-| 7 | [เฟี้ยว \- Ost\. บัส ซิ่ง ไทยแลนด์](https://open.spotify.com/track/0H1rhRyBH1reSi3Qac8Y2j) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [เฟี้ยว \(Ost\. บัส ซิ่ง ไทยแลนด์\)](https://open.spotify.com/album/0qVPQ3HfsbAkdKyiakDBkr) | 4:20 |
-| 8 | [so good so bad](https://open.spotify.com/track/0w6zTpil7ny1enDWlFLMff) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [so good so bad](https://open.spotify.com/album/5JpxHDyjPJ06ky5W08b5yb) | 3:44 |
-| 9 | [Missed Call](https://open.spotify.com/track/1fNr9IOJ7mMsWorMQFlsW8) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [Missed Call](https://open.spotify.com/album/3b4wW8YhqVI7qqV4k89hUC) | 2:12 |
-| 10 | [หมอน](https://open.spotify.com/track/4Ymg08MNEy5Uqkl9ptSejs) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หมอน](https://open.spotify.com/album/6ctR4QPBcG6UA4fjJd5PY2) | 4:03 |
-| 11 | [จำต้องลา](https://open.spotify.com/track/7tkz8JRnB7IPyXm4403Czz) | [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [จำต้องลา \- Single](https://open.spotify.com/album/3KEYfYPE4lWgzjrYkG2uOC) | 4:14 |
-| 12 | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt) | 4:38 |
+| 1 | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 |
+| 2 | [จินตนาการ](https://open.spotify.com/track/7DUIu2I0iJ9ABxFLrQA2JE) | [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [DREAMLAND](https://open.spotify.com/album/3dHSrJyHreCMV33yGZOFWI) | 4:05 |
+| 3 | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/track/0KdiGdEM5WRIcSWqFjT33b) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/album/6AQEMLftDGMFTOAEybxBBv) | 3:39 |
+| 4 | [Shall We](https://open.spotify.com/track/42TLIkJ2kFSY0WlCBjqzhB) | [Percy](https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr), [4ourYou](https://open.spotify.com/artist/6cEEa8xu47O2bYkQedFkUK), [GENA DESOUZA](https://open.spotify.com/artist/7jyl0OsOio6yzfWZUSCbip) | [Shall We](https://open.spotify.com/album/3KyVvNvqo1Rp14e1lR0z6i) | 3:17 |
+| 5 | [Disposable](https://open.spotify.com/track/2NNvziKZJDKXieWoVZGPCu) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m), [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD), [The Ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [Disposable](https://open.spotify.com/album/6MLdAacv7cSFW15pod6p4N) | 4:21 |
+| 6 | [เก่งไม่พอ](https://open.spotify.com/track/2ByaD5xzVHFQyOv5CHUUZ5) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [เก่งไม่พอ](https://open.spotify.com/album/32d3fXG3QNzy8Eh2u2PsPX) | 4:59 |
+| 7 | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt) | 4:38 |
+| 8 | [น่ารักน้อยลงหน่อย \(Cuteless\)](https://open.spotify.com/track/7f1L9GyOgbt3ZguWN7Eog0) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [น่ารักน้อยลงหน่อย \(Cuteless\) \- Single](https://open.spotify.com/album/1iDsrhpGyZfAtoDXXgxhxE) | 3:45 |
+| 9 | [so good so bad](https://open.spotify.com/track/0w6zTpil7ny1enDWlFLMff) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [so good so bad](https://open.spotify.com/album/5JpxHDyjPJ06ky5W08b5yb) | 3:44 |
+| 10 | [Missed Call](https://open.spotify.com/track/1fNr9IOJ7mMsWorMQFlsW8) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [Missed Call](https://open.spotify.com/album/3b4wW8YhqVI7qqV4k89hUC) | 2:12 |
+| 11 | [หมอน](https://open.spotify.com/track/4Ymg08MNEy5Uqkl9ptSejs) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หมอน](https://open.spotify.com/album/6ctR4QPBcG6UA4fjJd5PY2) | 4:03 |
+| 12 | [จำต้องลา](https://open.spotify.com/track/7tkz8JRnB7IPyXm4403Czz) | [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [จำต้องลา \- Single](https://open.spotify.com/album/3KEYfYPE4lWgzjrYkG2uOC) | 4:14 |
 | 13 | [สำคัญแต่สำรอง](https://open.spotify.com/track/6lervPyDIbvSzaXc6mvY38) | [Miteennn](https://open.spotify.com/artist/17BqlKtHAQ6D6CnRKmpyG3) | [สำคัญแต่สำรอง](https://open.spotify.com/album/26DspK99DPtbGZGujPNCQz) | 3:12 |
 | 14 | [ใครก็ดีกว่าฉัน \(not me\)](https://open.spotify.com/track/3diTflmcNMJkLgqiW3MN0G) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ใครก็ดีกว่าฉัน \(not me\)](https://open.spotify.com/album/3vklMAlwVFAduoXNvig4x3) | 4:02 |
 | 15 | [แปรงฟัน](https://open.spotify.com/track/23rueOXtXSoenSxTaL16zo) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แปรงฟัน](https://open.spotify.com/album/4PB22xc4pU5jgfrI3VpurG) | 4:09 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 34 | [Miserable In December](https://open.spotify.com/track/71yOI0Awo57nYpNbVfUiMU) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [Miserable In December](https://open.spotify.com/album/73QlHz8uqujMgNIoXA1bPW) | 2:02 |
 | 35 | [ฟีลลิ่งแบบว่าอู้วว!](https://open.spotify.com/track/330spX93u5K5XINCCJzko3) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ฟีลลิ่งแบบว่าอู้วว!](https://open.spotify.com/album/3WGthfl2NKI9tuX4z4R7CP) | 4:22 |
 
-Snapshot ID: `Zn6EDgAAAAA15uZqjX+0EXKBzEJBxHqx`
+Snapshot ID: `ZoekHAAAAADehHLZAOxN1TRw9cta4lGB`

@@ -1,6 +1,6 @@
 {
   "description": "blir det en hvit sommer?",
-  "num_followers": 110190,
+  "num_followers": 110212,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -643,18 +643,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Ja likav\u00e4l",
-        "url": "https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh"
+        "name": "De g\u00e6rne har det godt",
+        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
       },
       "artists": [
         {
-          "name": "Kuselofte",
-          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        },
+        {
+          "name": "rOlfFa",
+          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
         }
       ],
-      "duration_ms": 161917,
-      "name": "Ja likav\u00e4l",
-      "url": "https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5"
+      "duration_ms": 128653,
+      "name": "De g\u00e6rne har det godt",
+      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -679,22 +683,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "De g\u00e6rne har det godt",
-        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
+        "name": "Ja likav\u00e4l",
+        "url": "https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh"
       },
       "artists": [
         {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        },
-        {
-          "name": "rOlfFa",
-          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
         }
       ],
-      "duration_ms": 128653,
-      "name": "De g\u00e6rne har det godt",
-      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
+      "duration_ms": 161917,
+      "name": "Ja likav\u00e4l",
+      "url": "https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Naboen har operert kona si",
-        "url": "https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE"
+        "name": "Alt du vil ha",
+        "url": "https://open.spotify.com/album/2QRyTA27H57KmItlwy9LNR"
       },
       "artists": [
         {
-          "name": "B\u00f8rse",
-          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
+          "name": "Sie Gubba",
+          "url": "https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6"
         }
       ],
-      "duration_ms": 150624,
-      "name": "Naboen har operert kona si",
-      "url": "https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS"
+      "duration_ms": 180826,
+      "name": "Alt du vil ha",
+      "url": "https://open.spotify.com/track/0gSJWzYKV9mjwO0pBs5ZXB"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -947,18 +947,54 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Alt du vil ha",
-        "url": "https://open.spotify.com/album/2QRyTA27H57KmItlwy9LNR"
+        "name": "Naboen har operert kona si",
+        "url": "https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE"
       },
       "artists": [
         {
-          "name": "Sie Gubba",
-          "url": "https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6"
+          "name": "B\u00f8rse",
+          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
         }
       ],
-      "duration_ms": 180826,
-      "name": "Alt du vil ha",
-      "url": "https://open.spotify.com/track/0gSJWzYKV9mjwO0pBs5ZXB"
+      "duration_ms": 150624,
+      "name": "Naboen har operert kona si",
+      "url": "https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "FREDAG",
+        "url": "https://open.spotify.com/album/2FlDQsT40blZmH2HAt097u"
+      },
+      "artists": [
+        {
+          "name": "Silje Bakke",
+          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
+        },
+        {
+          "name": "Jamze",
+          "url": "https://open.spotify.com/artist/3OBoHiFRFSu5KaqskfBDPX"
+        }
+      ],
+      "duration_ms": 127026,
+      "name": "FREDAG",
+      "url": "https://open.spotify.com/track/2BW06C7AAEjCdK6GVi2tzU"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "29 tonn",
+        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 198268,
+      "name": "29 tonn",
+      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -979,22 +1015,6 @@
       "duration_ms": 153843,
       "name": "Livet p\u00e5 b\u00f8gda",
       "url": "https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "29 tonn",
-        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 198268,
-      "name": "29 tonn",
-      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1039,22 +1059,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "FREDAG",
-        "url": "https://open.spotify.com/album/2FlDQsT40blZmH2HAt097u"
+        "name": "S\u00e5nn e livet - Live 10 \u00e5r",
+        "url": "https://open.spotify.com/album/5ddmdS7xuwOgpsD8FiJHB6"
       },
       "artists": [
         {
-          "name": "Silje Bakke",
-          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
-        },
-        {
-          "name": "Jamze",
-          "url": "https://open.spotify.com/artist/3OBoHiFRFSu5KaqskfBDPX"
+          "name": "Sie Gubba",
+          "url": "https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6"
         }
       ],
-      "duration_ms": 127026,
-      "name": "FREDAG",
-      "url": "https://open.spotify.com/track/2BW06C7AAEjCdK6GVi2tzU"
+      "duration_ms": 266293,
+      "name": "Fjellrypa",
+      "url": "https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1071,22 +1087,6 @@
       "duration_ms": 221833,
       "name": "Bygdas Rebell",
       "url": "https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "S\u00e5nn e livet - Live 10 \u00e5r",
-        "url": "https://open.spotify.com/album/5ddmdS7xuwOgpsD8FiJHB6"
-      },
-      "artists": [
-        {
-          "name": "Sie Gubba",
-          "url": "https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6"
-        }
-      ],
-      "duration_ms": 266293,
-      "name": "Fjellrypa",
-      "url": "https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd"
     },
     {
       "added_at": "2024-06-27 22:00:00",

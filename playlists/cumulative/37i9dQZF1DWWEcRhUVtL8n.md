@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: beabadoobee
 
-1,899 songs - 4 day 4 hr 12 min
+1,902 songs - 4 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 | 2024-06-21 |  |
 | [cherry blossom](https://open.spotify.com/track/44xUqPXksQ2MNtuF2AuRBN) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [cherry blossom](https://open.spotify.com/album/4iwQeZpCPNI3TNfhrYmk8U) | 2:20 | 2020-12-12 | 2021-05-30 |
 | [Cherry Bomb](https://open.spotify.com/track/3MyuOZO9kWyvluRgxBoMus) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Cherry Bomb](https://open.spotify.com/album/78a6SHXF3uUFDqZ1FBCS7h) | 3:17 | 2021-06-03 | 2021-10-16 |
+| [cherry cola](https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [cherry cola / sunburn](https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn) | 2:48 | 2024-07-05 |  |
 | [Cherub](https://open.spotify.com/track/50WYoOH9qyAUQmsgn7bdT5) | [Franklin Jonas](https://open.spotify.com/artist/0CiDBbLe1R6VLQ4wXgRHoV) | [Sewer Rat](https://open.spotify.com/album/5ct3lmfTmWd2MRgxsF6LHJ) | 2:39 | 2023-06-23 | 2023-07-01 |
 | [Chess & Checkers](https://open.spotify.com/track/7I1L8djBxdsQGtybPXSeMZ) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [Chess & Checkers](https://open.spotify.com/album/7tf1B0szpLaftMECpvPYWh) | 2:29 | 2021-10-14 | 2021-10-16 |
 | [Chicken Tenders](https://open.spotify.com/track/3D8sT8D3f5egWSQnF0fbqu) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Chicken Tenders](https://open.spotify.com/album/6Hlyw2Jvzz7BnIQQYzSXVZ) | 2:50 | 2021-01-19 | 2022-04-11 |
@@ -402,6 +403,7 @@
 | [d e e p e r](https://open.spotify.com/track/2nG3GpzBnzwIjd7ahxatje) | [Carlina](https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77) | [d e e p e r](https://open.spotify.com/album/5QuYd1kH5AZPIFOxXiv2G2) | 2:10 | 2022-06-17 | 2022-07-29 |
 | [D.M.T.](https://open.spotify.com/track/7kausMmJLNEieRLe2WLn84) | [STACEY](https://open.spotify.com/artist/1rfYzEJpmnmhVM1V6LUHTQ) | [D.M.T.](https://open.spotify.com/album/0BEeSBYWiBLAqFMBVOLyUl) | 3:54 | 2020-10-13\* | 2020-11-10 |
 | [Daddy](https://open.spotify.com/track/06paPnT9vsd9qonDCsOzTX) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Daddy](https://open.spotify.com/album/0IrcO4h2IURsFVFiyciNiO) | 2:50 | 2021-01-25 | 2021-05-28 |
+| [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-05 |  |
 | [Daisy Chain](https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI), [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Daisy Chain](https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD) | 2:46 | 2023-06-16 | 2024-01-13 |
 | [Damn Bean](https://open.spotify.com/track/3eZReaCGyJoXQvXCN9HuG9) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [Damn Bean](https://open.spotify.com/album/0L6Wmjz8QhjXqKn8ZNaTtl) | 2:54 | 2021-02-28 | 2021-05-26 |
 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 | 2022-01-07 | 2022-04-10 |
@@ -413,7 +415,7 @@
 | [Dangerous](https://open.spotify.com/track/66k2yf5A5yeWidimsHOtSF) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Dangerous](https://open.spotify.com/album/54xf7HiB51PGuga8FDvxGS) | 2:51 | 2020-10-13\* | 2021-10-21 |
 | [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 | 2024-01-26 | 2024-03-17 |
 | [Darker Place](https://open.spotify.com/track/5fUzMvyRsUklP0Pdmsh9Mz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Darker Place](https://open.spotify.com/album/1kyPhLSGgMempOXgJEc9s5) | 2:48 | 2021-02-22 | 2021-10-13 |
-| [Darkest Lullaby](https://open.spotify.com/track/3MV0SFjUcQYUGmAQv6o7Q2) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Darkest Lullaby](https://open.spotify.com/album/1R1J4SFlMtGIuTeH7yS9yH) | 3:10 | 2024-06-28 |  |
+| [Darkest Lullaby](https://open.spotify.com/track/3MV0SFjUcQYUGmAQv6o7Q2) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Darkest Lullaby](https://open.spotify.com/album/1R1J4SFlMtGIuTeH7yS9yH) | 3:10 | 2024-06-28 | 2024-07-06 |
 | [Day by Day](https://open.spotify.com/track/1iAtzizV90sFq9oXw4zONM) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Day by Day](https://open.spotify.com/album/1g5s0gmdxuwtZP4qzt9APy) | 2:57 | 2020-10-20 | 2021-02-25 |
 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 | 2022-10-07 | 2023-07-29 |
 | [Day By Day](https://open.spotify.com/track/7t6NSZQArTCYimaQmfwS0S) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7qeL0K9UlZMlfo7GS6127i) | 3:07 | 2022-09-30 | 2022-10-13 |
@@ -490,7 +492,7 @@
 | [Doppelgänger](https://open.spotify.com/track/1q9jh0Ov1tk9aaxFVaYzkC) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Doppelgänger](https://open.spotify.com/album/4teZN2PzvrzgLyQ41rO3OH) | 2:52 | 2023-07-21 | 2023-07-29 |
 | [Dover Beach](https://open.spotify.com/track/24xZVbTSffURaVwGfiVTOu) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Dover Beach](https://open.spotify.com/album/3cF6aotAMfbdocJDA2fLjU) | 3:38 | 2021-05-05 | 2021-10-11 |
 | [Dover Beach](https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 3:38 | 2022-04-29 | 2022-12-10 |
-| [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 | 2024-03-15 |  |
+| [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 | 2024-03-15 | 2024-07-06 |
 | [Drain Me!](https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Drain Me!](https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW) | 2:01 | 2023-11-06 |  |
 | [Dream Drop](https://open.spotify.com/track/4UR2N5fuU37KA0gu6SjJr3) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Dream Drop](https://open.spotify.com/album/5xeJjEHTAmh2W59hqFRRVk) | 2:54 | 2021-06-03 | 2021-10-16 |
 | [Dream Girl](https://open.spotify.com/track/568ZnkQDsn09lX1FXn7a4Q) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/5zn3hu6uk2DVnPF5yWfw0H) | 2:31 | 2021-02-24 | 2021-05-21 |
@@ -543,6 +545,7 @@
 | [Enough](https://open.spotify.com/track/3wJYYJMdAAfMc2eKA4gxj6) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI) | [Enough](https://open.spotify.com/album/5qbW5namU5OjOws5zMfcKD) | 2:15 | 2020-10-15 | 2020-11-15 |
 | [Eraser](https://open.spotify.com/track/1JNVs1DgzDKcL83wiXjQMv) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Eraser](https://open.spotify.com/album/38zJIoiflwVxYFpQX1II64) | 3:03 | 2023-04-07 | 2023-09-23 |
 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-09-12 | 2024-04-20 |
+| [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-05 |  |
 | [everest](https://open.spotify.com/track/375vzhCsYArHMzT4UG5FgJ) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [everest](https://open.spotify.com/album/46aPiWLHkwjsEHOnCyGoQ1) | 1:49 | 2024-03-08 | 2024-05-05 |
 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-05-03 |  |
 | [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 3:33 | 2022-01-21 | 2022-07-29 |
@@ -841,7 +844,7 @@
 | [I Want To Be With You](https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:59 | 2021-12-03 | 2022-12-10 |
 | [I Want U](https://open.spotify.com/track/52ewMn6BRCU9hAPysg8TLm) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [I Want U](https://open.spotify.com/album/0AuX0J4cRITW4Xzejp1e8d) | 3:33 | 2021-11-12 | 2022-07-23 |
 | [i wanted to call her but i'm tragic and she's overseas \(8 months\)](https://open.spotify.com/track/2q2nBiMnBRyLlXilJmmk88) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m), [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [i wanted to call her but i'm tragic and she's overseas \(8 months\)](https://open.spotify.com/album/3TDS9sPYNXyWn8Hul9wzZk) | 3:06 | 2021-05-07 | 2021-05-26 |
-| [I wish for the rain](https://open.spotify.com/track/5SbkJitufb38BnGDsUjdqN) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [I wish for the rain](https://open.spotify.com/album/1d8v7jpq86c6WjRwTsoYIk) | 2:31 | 2024-04-26 |  |
+| [I wish for the rain](https://open.spotify.com/track/5SbkJitufb38BnGDsUjdqN) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [I wish for the rain](https://open.spotify.com/album/1d8v7jpq86c6WjRwTsoYIk) | 2:31 | 2024-04-26 | 2024-07-06 |
 | [I Wish I Never Met You](https://open.spotify.com/track/4P6Y4uhdy4Z9W9WUdCjt8l) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [I Wish I Never Met You](https://open.spotify.com/album/2bWrP5Lo6BJZaxjiAjbNCu) | 2:59 | 2020-10-20 | 2020-10-21 |
 | [I Won't Bite](https://open.spotify.com/track/3NJe9t6oxZgzErlBrWDuKx) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [I Won't Bite](https://open.spotify.com/album/6qn9Deaiebh89YVpukAhcX) | 4:17 | 2022-03-18 | 2022-07-29 |
 | [I! Only! Wanna! Live! Forever!](https://open.spotify.com/track/2fHRtDFVqV5KCgl5LnG8Bv) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [I! Only! Wanna! Live! Forever!](https://open.spotify.com/album/2xG3Whos27zHMLCzcgv0Xp) | 3:13 | 2022-02-25 | 2022-04-12 |

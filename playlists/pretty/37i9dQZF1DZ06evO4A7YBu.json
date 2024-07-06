@@ -1,12 +1,12 @@
 {
-  "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 35996,
+  "description": "This Is Static-X. Los temas esenciales, todos en una lista.",
+  "num_followers": 36005,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAACcCUDmtbpbjE7aqUxQIkjt",
+  "snapshot_id": "ZoXmAAAAAAAdKWBUyzuOYLF6ebNfe0Be",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,25 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 204626,
-      "name": "I'm With Stupid",
-      "url": "https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2"
+      "duration_ms": 154906,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shadow Zone",
+        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 171106,
+      "name": "The Only",
+      "url": "https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa"
     },
     {
       "added_at": null,
@@ -59,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wisconsin Death Trip",
+        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "I'm With Stupid",
+      "url": "https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cannibal",
         "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
       },
@@ -71,22 +103,6 @@
       "duration_ms": 165960,
       "name": "Destroyer",
       "url": "https://open.spotify.com/track/4fQIMU0neeR5XlQp0ol1c9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wisconsin Death Trip",
-        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Bled for Days",
-      "url": "https://open.spotify.com/track/38i5zDVbBEZNxnHGsto6kn"
     },
     {
       "added_at": null,
@@ -123,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wisconsin Death Trip",
+        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Bled for Days",
+      "url": "https://open.spotify.com/track/38i5zDVbBEZNxnHGsto6kn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Machine",
         "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
       },
@@ -135,22 +167,6 @@
       "duration_ms": 231240,
       "name": "Black and White",
       "url": "https://open.spotify.com/track/1GwiQCsJ0wEtzQTnblUSnH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wisconsin Death Trip",
-        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 259800,
-      "name": "Love Dump",
-      "url": "https://open.spotify.com/track/6kJb4WaCuc4wLBIkSJUY3n"
     },
     {
       "added_at": null,
@@ -187,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Regeneration, Vol. 2",
-        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 240304,
-      "name": "Black Star",
-      "url": "https://open.spotify.com/track/5Fbdx8HTneMfmLHoDwU8dz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wisconsin Death Trip",
         "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 189293,
-      "name": "Wisconsin Death Trip",
-      "url": "https://open.spotify.com/track/5ctRbSANfjfqVeNGPI7oau"
+      "duration_ms": 259800,
+      "name": "Love Dump",
+      "url": "https://open.spotify.com/track/6kJb4WaCuc4wLBIkSJUY3n"
     },
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Project Regeneration, Vol. 2",
+        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 240304,
+      "name": "Black Star",
+      "url": "https://open.spotify.com/track/5Fbdx8HTneMfmLHoDwU8dz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Z0mbie",
         "url": "https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE"
       },
@@ -247,6 +263,22 @@
       "duration_ms": 191470,
       "name": "Z0mbie",
       "url": "https://open.spotify.com/track/1sigPT3Dq2zgrPL0YVMPOj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wisconsin Death Trip",
+        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Wisconsin Death Trip",
+      "url": "https://open.spotify.com/track/5ctRbSANfjfqVeNGPI7oau"
     },
     {
       "added_at": null,
@@ -267,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wisconsin Death Trip",
-        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
       },
       "artists": [
         {
@@ -276,9 +308,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 167200,
-      "name": "I Am",
-      "url": "https://open.spotify.com/track/5T4Wez0kAQRMnzdHIMQDKI"
+      "duration_ms": 169800,
+      "name": "Get to the Gone",
+      "url": "https://open.spotify.com/track/2ty1wBvzv7tEuRbXdkE6bi"
     },
     {
       "added_at": null,
@@ -299,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine",
-        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
+        "name": "Wisconsin Death Trip",
+        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
       "artists": [
         {
@@ -308,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 169800,
-      "name": "Get to the Gone",
-      "url": "https://open.spotify.com/track/2ty1wBvzv7tEuRbXdkE6bi"
+      "duration_ms": 167200,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/5T4Wez0kAQRMnzdHIMQDKI"
     },
     {
       "added_at": null,
@@ -427,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wisconsin Death Trip",
-        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Sweat of the Bud",
-      "url": "https://open.spotify.com/track/029NI2uU26Zx9JiOPa86r8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Project Regeneration, Vol. 2",
         "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shadow Zone",
-        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Shadow Zone",
-      "url": "https://open.spotify.com/track/3HcUKdqS6M8dEticD9RC4G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cult of Static",
         "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 319106,
       "name": "Tera-Fied",
       "url": "https://open.spotify.com/track/5n9ZFf0QDe2AXPbeO3ZHoB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shadow Zone",
+        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Shadow Zone",
+      "url": "https://open.spotify.com/track/3HcUKdqS6M8dEticD9RC4G"
     },
     {
       "added_at": null,
@@ -523,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shadow Zone",
-        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "So",
-      "url": "https://open.spotify.com/track/6JUuxEQ47lJH3qfPf5nlil"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Machine",
         "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 241666,
       "name": "Permanence",
       "url": "https://open.spotify.com/track/63DUo97PJNh69Gg1rXGHEN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shadow Zone",
+        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "So",
+      "url": "https://open.spotify.com/track/6JUuxEQ47lJH3qfPf5nlil"
     },
     {
       "added_at": null,
@@ -603,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shadow Zone",
-        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
       },
       "artists": [
         {
@@ -612,9 +628,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 241933,
-      "name": "All in Wait",
-      "url": "https://open.spotify.com/track/433sVjZi13pqPYYUGsvWBV"
+      "duration_ms": 209800,
+      "name": "Otsego Undead",
+      "url": "https://open.spotify.com/track/1hovoaCUCITutlnm7IL3dh"
     },
     {
       "added_at": null,
@@ -651,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine",
-        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 209800,
-      "name": "Otsego Undead",
-      "url": "https://open.spotify.com/track/1hovoaCUCITutlnm7IL3dh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cult of Static",
         "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 164346,
-      "name": "Chroma-Matic",
-      "url": "https://open.spotify.com/track/6kI9g6skgFFrKdmEeATr6c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beneath...Between...Beyond...",
         "url": "https://open.spotify.com/album/5Gmv5JYxVuXAVexz5fTSdr"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 166133,
       "name": "Head",
       "url": "https://open.spotify.com/track/1zLhzxd2qAs9fcWElOLOI2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 164346,
+      "name": "Chroma-Matic",
+      "url": "https://open.spotify.com/track/6kI9g6skgFFrKdmEeATr6c"
     },
     {
       "added_at": null,

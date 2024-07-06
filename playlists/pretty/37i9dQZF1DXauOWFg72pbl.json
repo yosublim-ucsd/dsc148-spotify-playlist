@@ -1,6 +1,6 @@
 {
   "description": "Cold beer. Hot wings. Great rock. ",
-  "num_followers": 584350,
+  "num_followers": 584387,
   "original_name": "Beer & Wings",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "With Teeth",
-        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "The Hand That Feeds",
-      "url": "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Dead Club City",
         "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 214723,
       "name": "Overcome",
       "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "With Teeth",
+        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "The Hand That Feeds",
+      "url": "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "The Glorious Dead",
-        "url": "https://open.spotify.com/album/5MmMomspau1V5YpXjHYJRy"
-      },
-      "artists": [
-        {
-          "name": "The Heavy",
-          "url": "https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42"
-        }
-      ],
-      "duration_ms": 226380,
-      "name": "What Makes A Good Man?",
-      "url": "https://open.spotify.com/track/3nGWzFBJ5tMzHWAgs16fK6"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "In Times New Roman...",
         "url": "https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 202776,
       "name": "Paper Machete",
       "url": "https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "The Glorious Dead",
+        "url": "https://open.spotify.com/album/5MmMomspau1V5YpXjHYJRy"
+      },
+      "artists": [
+        {
+          "name": "The Heavy",
+          "url": "https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42"
+        }
+      ],
+      "duration_ms": 226380,
+      "name": "What Makes A Good Man?",
+      "url": "https://open.spotify.com/track/3nGWzFBJ5tMzHWAgs16fK6"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Wild Child",
+        "url": "https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 164866,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Villains",
         "url": "https://open.spotify.com/album/6JdX9MGiEMypqYLMKyIE8a"
       },
@@ -1403,18 +1419,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Wild Child",
-        "url": "https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb"
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/7zsfcfnaarayjDTB4KBRDV"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
         }
       ],
-      "duration_ms": 164866,
-      "name": "Wild Child",
-      "url": "https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4"
+      "duration_ms": 242424,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/4xdUk9rp5wOd3ZLwwNfjwd"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1447,22 +1463,6 @@
       "duration_ms": 225840,
       "name": "Don\u2019t Back Down",
       "url": "https://open.spotify.com/track/1RYI0fqfKDuLi8e4B9XwSe"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/7zsfcfnaarayjDTB4KBRDV"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 242424,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/4xdUk9rp5wOd3ZLwwNfjwd"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/0VXcqDD3sHdOIGtO6oYv3d"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/3ctoHckjyd13eBi2IDw2Ip"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "One By One",
         "url": "https://open.spotify.com/album/2TIp2qGorHvqyaiAb82Awe"
       },
@@ -1595,34 +1611,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Take a Sip",
-        "url": "https://open.spotify.com/album/6gwaYJ4J8cZsN91wJmiY3d"
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
       },
       "artists": [
         {
-          "name": "Skrizzly Adams",
-          "url": "https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 201885,
-      "name": "Take a Sip",
-      "url": "https://open.spotify.com/track/3zgzbGes5o5X0ExPhj0zpl"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Himalayan",
-        "url": "https://open.spotify.com/album/4XWbfiTYAP828RXQmkEkUd"
-      },
-      "artists": [
-        {
-          "name": "Band Of Skulls",
-          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
-        }
-      ],
-      "duration_ms": 246101,
-      "name": "Asleep at the Wheel",
-      "url": "https://open.spotify.com/track/2VnkxWob7ooT5NrN9WtctI"
+      "duration_ms": 331573,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/1hKdDCpiI9mqz1jVHRKG0E"
     }
   ],
   "unique_name": "Beer & Wings",

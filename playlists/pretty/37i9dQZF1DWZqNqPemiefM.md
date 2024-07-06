@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,637 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,645 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 72 | [20210310](https://open.spotify.com/track/2jfZwpvdkJyOhUZtqgBdW9) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M) | 6:53 |
 | 73 | [腐海にて](https://open.spotify.com/track/02U2krXPaHmoZDw0ghxm35) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風の谷のナウシカ サウンドトラック \~はるかな地へ・・・](https://open.spotify.com/album/6w7zJbSYmmkn0oaAlxPj32) | 2:33 |
 | 74 | [Imminent](https://open.spotify.com/track/4GYWbWRnrGBkXOOTp3bqyi) | [Vince Clarke](https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1) | [Songs of Silence](https://open.spotify.com/album/3WNHfcR03NSfUg4ZcZJG7t) | 4:56 |
-| 75 | [Nomozaki](https://open.spotify.com/track/3tUB1UvLWbFkSrPmFftXdp) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ), [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Nomozaki](https://open.spotify.com/album/4Sm8ekmzW1tGc4JMSF8PAK) | 4:21 |
-| 76 | [IQAMURAH](https://open.spotify.com/track/0JITO1cwdcgGeUHltqryMK) | [Vasola Punte](https://open.spotify.com/artist/3rxpGR9QZLc6tsY3N7lAOF), [あだち麗三郎](https://open.spotify.com/artist/03lyogJ68lBASFzxRFVXuc), [高橋佳輝](https://open.spotify.com/artist/2IsDNMbLD0WwWxGwjJ70uH), [髙野なつみ](https://open.spotify.com/artist/3zrLn8jCzac4cDpi6ppXc2) | [Vasola Punte](https://open.spotify.com/album/1GPUvMxysCvpFlrrt33mKY) | 5:24 |
-| 77 | [Epigraph エピグラフ](https://open.spotify.com/track/5vhLVV8AHtfLqMLQdbnw87) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [e o](https://open.spotify.com/album/5rotTIzASSa2IDU9uQA0nQ) | 3:07 |
+| 75 | [IQAMURAH](https://open.spotify.com/track/0JITO1cwdcgGeUHltqryMK) | [Vasola Punte](https://open.spotify.com/artist/3rxpGR9QZLc6tsY3N7lAOF), [あだち麗三郎](https://open.spotify.com/artist/03lyogJ68lBASFzxRFVXuc), [高橋佳輝](https://open.spotify.com/artist/2IsDNMbLD0WwWxGwjJ70uH), [髙野なつみ](https://open.spotify.com/artist/3zrLn8jCzac4cDpi6ppXc2) | [Vasola Punte](https://open.spotify.com/album/1GPUvMxysCvpFlrrt33mKY) | 5:24 |
+| 76 | [Epigraph エピグラフ](https://open.spotify.com/track/5vhLVV8AHtfLqMLQdbnw87) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [e o](https://open.spotify.com/album/5rotTIzASSa2IDU9uQA0nQ) | 3:07 |
+| 77 | [Nomozaki](https://open.spotify.com/track/3tUB1UvLWbFkSrPmFftXdp) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ), [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Nomozaki](https://open.spotify.com/album/4Sm8ekmzW1tGc4JMSF8PAK) | 4:21 |
 | 78 | [金継ぎ](https://open.spotify.com/track/7Idnc6G2UTAGANTgC4xLpX) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [古風](https://open.spotify.com/album/6up103j3F99vuOxqx9ye83) | 1:06 |
 | 79 | [夜の街](https://open.spotify.com/track/6GDHhqXm5rRuHyXc6nRpsi) | [Yoshiaki Dewa](https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY) | [TVアニメ『よふかしのうた』オリジナル・サウンドトラック](https://open.spotify.com/album/0hRquZKDpTRqpi8kjD7lcv) | 3:07 |
 | 80 | [SLEEP](https://open.spotify.com/track/1aw0BaQEC2PGp8kmYYHvyP) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green \(SFX Version\)](https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w) | 6:50 |

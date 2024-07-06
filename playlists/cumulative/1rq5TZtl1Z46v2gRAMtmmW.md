@@ -4,7 +4,7 @@
 
 > 
 
-294 songs - 19 hr 46 min
+295 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Ain’t No Place](https://open.spotify.com/track/2kwDjw07hMHJErQCprXxid) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW) | [Vast Oceans, Empty Skies](https://open.spotify.com/album/5vBh6dcOCsHMs3o7NvbGMI) | 4:01 | 2023-12-11 | 2023-12-20 |
 | [Air Tight](https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Prism of Pleasure](https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er) | 3:54 | 2024-06-07 |  |
 | [Akousmatikous](https://open.spotify.com/track/6asdwZnekIys3Phf8leM5G) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX), [Soccer96](https://open.spotify.com/artist/5CPQQs8WGfYZjEyRu3mkij) | [Akousmatikous / Propaganda](https://open.spotify.com/album/5GTtlZdaIA94Zz95m1pl7w) | 5:45 | 2023-03-22 | 2023-04-13 |
+| [All I Need](https://open.spotify.com/track/23DvufvHJAr0OUPfrB7g2J) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Things to Come](https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA) | 2:43 | 2024-07-05 |  |
 | [All I Need](https://open.spotify.com/track/54DstnlyeCz0Zb2HDtBJaq) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [All I Need](https://open.spotify.com/album/1VsjBsi7QxD87w4dRoBc8h) | 3:35 | 2023-04-19 | 2023-05-16 |
 | [All In A Dream](https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [All In A Dream](https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6) | 3:50 | 2022-06-29 | 2022-10-14 |
 | [All We Need \- ODESZA VIP Remix](https://open.spotify.com/track/0gGSxG7r332R7Vgvk24GHY) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Shy Girls](https://open.spotify.com/artist/4oFdxup3UmMDNoLLITyDrs) | [The Last Goodbye \(Deluxe Edition\)](https://open.spotify.com/album/1ZSBGvgxsWbX1i5gdz4gUM) | 3:30 | 2023-04-26 | 2023-07-12 |
@@ -300,7 +301,7 @@
 | [Woman](https://open.spotify.com/track/53Mar0XxfUNHeHlGymw52n) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Woman](https://open.spotify.com/album/32cgWHAadfJEeQVFWhTipy) | 3:52 | 2023-05-31 | 2024-03-23 |
 | [You Knew](https://open.spotify.com/track/3tYTLCvnS63hpobSK3tRsR) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc) | 7:16 | 2023-07-18 | 2024-02-16 |
 | [You Need Me](https://open.spotify.com/track/1qJhgjy1XcepOKrM3w7xuB) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [You Need Me](https://open.spotify.com/album/4oCf7fcuXDJr649Y7rcuzH) | 6:04 | 2022-08-16 | 2022-10-22 |
-| [Your Skin](https://open.spotify.com/track/6wejq4291nzIEdKS4iu76l) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Your Skin](https://open.spotify.com/album/7se5zvHVTlsELjqh4MZmRR) | 4:06 | 2024-04-12 |  |
+| [Your Skin](https://open.spotify.com/track/6wejq4291nzIEdKS4iu76l) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Your Skin](https://open.spotify.com/album/7se5zvHVTlsELjqh4MZmRR) | 4:06 | 2024-04-12 | 2024-07-06 |
 | [ZOOM](https://open.spotify.com/track/5BrX72zkxJaowRZwgM8wyB) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [ZOOM](https://open.spotify.com/album/1sh6E8cJ0BOG5aN4jQ1MiK) | 3:45 | 2024-03-04 | 2024-06-11 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

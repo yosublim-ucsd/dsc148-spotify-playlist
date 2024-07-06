@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The newest r&b drops, every week. Cover: Ravyn Lenae",
+  "description": "The newest r&b drops, every week. Cover: Odeal",
   "name": "R&B Weekly",
   "tracks": [
     {
@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 157160,
       "name": "Align (Sorry)",
       "url": "https://open.spotify.com/track/5X0Zgtq35C1aaqySYuIWua"
@@ -2106,6 +2106,28 @@
       "duration_ms": 127280,
       "name": "alone",
       "url": "https://open.spotify.com/track/2PStUfFvW2nFnPj658cDWE"
+    },
+    {
+      "album": {
+        "name": "Alone Again",
+        "url": "https://open.spotify.com/album/7fpCTI1h9vyPGzrCGAjKrf"
+      },
+      "artists": [
+        {
+          "name": "Ballad",
+          "url": "https://open.spotify.com/artist/5rzpNZtFsVj1CxuF9qzeRx"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205007,
+      "name": "Alone Again",
+      "url": "https://open.spotify.com/track/0Wk0GJno9JUtFpRRG1RpId"
     },
     {
       "album": {
@@ -8920,7 +8942,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 217133,
       "name": "Coney Island",
       "url": "https://open.spotify.com/track/15Ya2a4p4WLbZ3HLICeZrh"
@@ -10118,7 +10140,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 162102,
       "name": "Dear Imani",
       "url": "https://open.spotify.com/track/6kxcafIbwbt3dSG81ZacOz"
@@ -11526,7 +11548,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 201173,
       "name": "Don't Wanna Be A Fool",
       "url": "https://open.spotify.com/track/41PN50VXHcaJudkNPwAGZI"
@@ -13730,7 +13752,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 210226,
       "name": "Falling or flying - Reimagined",
       "url": "https://open.spotify.com/track/0OT6eMljP4fshxNA1STPgr"
@@ -13850,6 +13872,24 @@
       "duration_ms": 155373,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/3tDAxa9V0bZlGq4rmbAD9O"
+    },
+    {
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/0ITMYKdS5PdE1cZ1QNdvLy"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168643,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/15TSeUwFv4YAbtxleSPU7J"
     },
     {
       "album": {
@@ -13984,6 +14024,24 @@
       "duration_ms": 215392,
       "name": "Favorite Thing to Do",
       "url": "https://open.spotify.com/track/2CvrLqKWl77sjcg608A1xW"
+    },
+    {
+      "album": {
+        "name": "Favors",
+        "url": "https://open.spotify.com/album/2fl9xfumFKIVYwwl3qjp5p"
+      },
+      "artists": [
+        {
+          "name": "PLAZA",
+          "url": "https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Favors",
+      "url": "https://open.spotify.com/track/5JwyFzThGsjFxkB1mo01ac"
     },
     {
       "album": {
@@ -21705,6 +21763,28 @@
     },
     {
       "album": {
+        "name": "IMISSTORONTO (Been A While)",
+        "url": "https://open.spotify.com/album/72ycVbf7uebQHVHEPLRzEs"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        },
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220408,
+      "name": "IMISSTORONTO (Been A While)",
+      "url": "https://open.spotify.com/track/0EtT4Y1KYAx5oZgCzBOyo0"
+    },
+    {
+      "album": {
         "name": "Immature",
         "url": "https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9"
       },
@@ -23153,6 +23233,28 @@
     },
     {
       "album": {
+        "name": "Just Imagine",
+        "url": "https://open.spotify.com/album/4ooUeAkwr8SmLFflcyKaYH"
+      },
+      "artists": [
+        {
+          "name": "July 7",
+          "url": "https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA"
+        },
+        {
+          "name": "eejebee",
+          "url": "https://open.spotify.com/artist/5cFJUBx5psjJrIrLWWfrAu"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Just Imagine",
+      "url": "https://open.spotify.com/track/7ryReXybZZwhpISu1gq9TV"
+    },
+    {
+      "album": {
         "name": "JUST LIKE CANDY",
         "url": "https://open.spotify.com/album/3R6AG9fnGJeF2odxFzHhS1"
       },
@@ -23436,7 +23538,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 226355,
       "name": "Killing Me Softly With His Song - Spotify Singles",
       "url": "https://open.spotify.com/track/3bhNKifdyaf0TUr7bBxQGU"
@@ -26022,7 +26124,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 273291,
       "name": "Love Heart Cheat Code",
       "url": "https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX"
@@ -27038,7 +27140,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 189000,
       "name": "Made For Me (with Mariah Carey)",
       "url": "https://open.spotify.com/track/7A237bWglHPhH3nKGgBsRr"
@@ -29713,6 +29815,28 @@
     },
     {
       "album": {
+        "name": "Match My Freak EP",
+        "url": "https://open.spotify.com/album/2xyUg14ugS5nOqSJSoEjr1"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182643,
+      "name": "Nasty - Match My Chic Remix",
+      "url": "https://open.spotify.com/track/5Z1bS1NU57tcnhqNAXVM6D"
+    },
+    {
+      "album": {
         "name": "HIT 'EM WITH THE FUNK",
         "url": "https://open.spotify.com/album/4wcUsSOAYh7RPG7aRNWfem"
       },
@@ -29861,6 +29985,28 @@
     },
     {
       "album": {
+        "name": "need to know",
+        "url": "https://open.spotify.com/album/7FSU6GwzGWpG0roxK8FbUl"
+      },
+      "artists": [
+        {
+          "name": "zandros",
+          "url": "https://open.spotify.com/artist/30gojhXynjLSWe1kHNUZ1Q"
+        },
+        {
+          "name": "NateTaylorr",
+          "url": "https://open.spotify.com/artist/6FaeHLNz3ISxqrVJCprURb"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187703,
+      "name": "need to know",
+      "url": "https://open.spotify.com/track/5Cw6hiPWth7Z5lr8qeCgDS"
+    },
+    {
+      "album": {
         "name": "Need U Tonite",
         "url": "https://open.spotify.com/album/1fosbY1jCipe3rYvEU8S8V"
       },
@@ -29974,6 +30120,28 @@
       "duration_ms": 204144,
       "name": "NEGLIGENT",
       "url": "https://open.spotify.com/track/38rL1N6TYmh1UFPKYHKjeA"
+    },
+    {
+      "album": {
+        "name": "NEGLIGENT (Remix)",
+        "url": "https://open.spotify.com/album/3Kv2NnN9EHNhw4hW1eLgYX"
+      },
+      "artists": [
+        {
+          "name": "SAHXL",
+          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
+        },
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195460,
+      "name": "NEGLIGENT (Remix) [feat. Kaash Paige]",
+      "url": "https://open.spotify.com/track/7sQJS5X1f74xaY8BX8Bm6v"
     },
     {
       "album": {
@@ -30204,7 +30372,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 161801,
       "name": "Next 2 U",
       "url": "https://open.spotify.com/track/3qV20sy8VPyt5R8aminfhA"
@@ -39739,6 +39907,24 @@
     },
     {
       "album": {
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
+    },
+    {
+      "album": {
         "name": "SOLA CON LA LUNA",
         "url": "https://open.spotify.com/album/7Hk2BhlBYVd4NopkQbLamP"
       },
@@ -42320,7 +42506,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 120078,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/3wdbGER9TIbNeCXfOD2CTr"
@@ -46506,7 +46692,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 201214,
       "name": "Ungrateful",
       "url": "https://open.spotify.com/track/5eKPEgQR5Fgoxw1zjXEvV8"
@@ -49133,6 +49319,24 @@
     },
     {
       "album": {
+        "name": "when brains dance",
+        "url": "https://open.spotify.com/album/41uCGlgUDw5K3Lxa21E8pC"
+      },
+      "artists": [
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "when brains dance",
+      "url": "https://open.spotify.com/track/4aE94pPbfuDpW9JVOCXr3E"
+    },
+    {
+      "album": {
         "name": "When I Call Late at Night",
         "url": "https://open.spotify.com/album/5aMvq1wMiAXrMMKECpRk2w"
       },
@@ -50614,6 +50818,28 @@
       "duration_ms": 167151,
       "name": "Yasss Queen",
       "url": "https://open.spotify.com/track/0vr3yirxJ13sWjwkP8abml"
+    },
+    {
+      "album": {
+        "name": "Qing Madi (Deluxe)",
+        "url": "https://open.spotify.com/album/4vxIotduGifC33fGSfxxom"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195789,
+      "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
+      "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
     },
     {
       "album": {

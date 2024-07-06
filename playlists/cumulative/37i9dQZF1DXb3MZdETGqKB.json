@@ -1914,7 +1914,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 345596,
       "name": "Good People",
       "url": "https://open.spotify.com/track/0KlEYhot7IwsbCNGpww72s"
@@ -4158,6 +4158,28 @@
       "duration_ms": 193535,
       "name": "Shout Into The Noise",
       "url": "https://open.spotify.com/track/6VmqR7BEVXqYWKCRsdSaDO"
+    },
+    {
+      "album": {
+        "name": "Show Me The Green",
+        "url": "https://open.spotify.com/album/2lSS8XMdwd7iFICtoYbDkW"
+      },
+      "artists": [
+        {
+          "name": "The Harpoonist",
+          "url": "https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG"
+        },
+        {
+          "name": "Big Sugar",
+          "url": "https://open.spotify.com/artist/75eraSeadYDXU4zyzDxglZ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190763,
+      "name": "Show Me The Green",
+      "url": "https://open.spotify.com/track/1YzIXYmTLbjGtG3AEuJlRP"
     },
     {
       "album": {

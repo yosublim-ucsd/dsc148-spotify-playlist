@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 101288,
+  "num_followers": 101351,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -87,18 +87,18 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Sin Sendero",
-        "url": "https://open.spotify.com/album/2ANVtDVy4ib21lbrZJLK2C"
+        "name": "MultiViral",
+        "url": "https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng"
       },
       "artists": [
         {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
         }
       ],
-      "duration_ms": 213646,
-      "name": "Sin Sendero",
-      "url": "https://open.spotify.com/track/20G6EzPINihLGvToMI49Dd"
+      "duration_ms": 292920,
+      "name": "Adentro",
+      "url": "https://open.spotify.com/track/5NOtC9vnvCuEy6IaNflffX"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -135,18 +135,18 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "MultiViral",
-        "url": "https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng"
+        "name": "Sin Sendero",
+        "url": "https://open.spotify.com/album/2ANVtDVy4ib21lbrZJLK2C"
       },
       "artists": [
         {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
         }
       ],
-      "duration_ms": 292920,
-      "name": "Adentro",
-      "url": "https://open.spotify.com/track/5NOtC9vnvCuEy6IaNflffX"
+      "duration_ms": 213646,
+      "name": "Sin Sendero",
+      "url": "https://open.spotify.com/track/20G6EzPINihLGvToMI49Dd"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Entren Los Que Quieran",
-        "url": "https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "La Bala",
-      "url": "https://open.spotify.com/track/036nr5jRMRlrvtEVvld4lj"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Cualquier Parecido con La Realidad",
         "url": "https://open.spotify.com/album/1fWIXSbLLG41HN0WFdkjGb"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 194285,
       "name": "Patrullando",
       "url": "https://open.spotify.com/track/0Gwt9fOjhcIjfSQJM0ARua"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Entren Los Que Quieran",
+        "url": "https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "La Bala",
+      "url": "https://open.spotify.com/track/036nr5jRMRlrvtEVvld4lj"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Dolor",
-        "url": "https://open.spotify.com/album/1QXRglXocvvIB7lroBNUc8"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Laberinto ELC",
-          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
-        }
-      ],
-      "duration_ms": 265747,
-      "name": "Dolor",
-      "url": "https://open.spotify.com/track/4fCg5TdCsAaf2sizMKYFjm"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Amor Puro (feat. La Banda Baston)",
         "url": "https://open.spotify.com/album/1o4F0i1k4nyoOOqQwLR4qQ"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 215373,
       "name": "Amor Puro (feat. La Banda Baston)",
       "url": "https://open.spotify.com/track/6XKTQUnpryvy723TkfEhHd"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Dolor",
+        "url": "https://open.spotify.com/album/1QXRglXocvvIB7lroBNUc8"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Laberinto ELC",
+          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
+        }
+      ],
+      "duration_ms": 265747,
+      "name": "Dolor",
+      "url": "https://open.spotify.com/track/4fCg5TdCsAaf2sizMKYFjm"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Origen",
+        "url": "https://open.spotify.com/album/63uuT0VHOyDaQvxUhytGpO"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        }
+      ],
+      "duration_ms": 347441,
+      "name": "Origen",
+      "url": "https://open.spotify.com/track/293p8igLtACWCeDhXohcnC"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Gala",
         "url": "https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Origen",
-        "url": "https://open.spotify.com/album/63uuT0VHOyDaQvxUhytGpO"
-      },
-      "artists": [
-        {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        }
-      ],
-      "duration_ms": 347441,
-      "name": "Origen",
-      "url": "https://open.spotify.com/track/293p8igLtACWCeDhXohcnC"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Escaleras y Serpientes",
         "url": "https://open.spotify.com/album/53uvTdRvIxmC0bJDDEiI4j"
       },
@@ -743,26 +743,18 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "LACOSTA",
-        "url": "https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc"
+        "name": "So Sad",
+        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
       },
       "artists": [
         {
-          "name": "Hard GZ",
-          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
-        },
-        {
-          "name": "Marcelus Airlinez",
-          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
-        },
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         }
       ],
-      "duration_ms": 248546,
-      "name": "MALDITO",
-      "url": "https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A"
+      "duration_ms": 217511,
+      "name": "So Sad",
+      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -787,18 +779,26 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "So Sad",
-        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
+        "name": "LACOSTA",
+        "url": "https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc"
       },
       "artists": [
         {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Marcelus Airlinez",
+          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
+        },
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
         }
       ],
-      "duration_ms": 217511,
-      "name": "So Sad",
-      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
+      "duration_ms": 248546,
+      "name": "MALDITO",
+      "url": "https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -843,6 +843,26 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "LA VIDA ES TAN DURA",
+        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Cheo Gallego",
+          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "LA VIDA ES TAN DURA",
+      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Plomo en el Aire",
         "url": "https://open.spotify.com/album/45LpcCIYNG7CptIGvLcMhX"
       },
@@ -867,26 +887,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "LA VIDA ES TAN DURA",
-        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
-      },
-      "artists": [
-        {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
-        },
-        {
-          "name": "Cheo Gallego",
-          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "LA VIDA ES TAN DURA",
-      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "La Felicidad",
         "url": "https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q"
       },
@@ -907,6 +907,30 @@
       "duration_ms": 203089,
       "name": "La Felicidad",
       "url": "https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "El eslab\u00f3n perdido",
+        "url": "https://open.spotify.com/album/0cnmNoOmJCsRYTruZmE8oq"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "duration_ms": 213334,
+      "name": "El eslab\u00f3n perdido",
+      "url": "https://open.spotify.com/track/5oPhZx0Ap6kcJKBIfzzy6D"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -939,30 +963,6 @@
       "duration_ms": 250732,
       "name": "Jamming Sin Fronteras",
       "url": "https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "El eslab\u00f3n perdido",
-        "url": "https://open.spotify.com/album/0cnmNoOmJCsRYTruZmE8oq"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        },
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "Trafikante de Almas",
-          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
-        }
-      ],
-      "duration_ms": 213334,
-      "name": "El eslab\u00f3n perdido",
-      "url": "https://open.spotify.com/track/5oPhZx0Ap6kcJKBIfzzy6D"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "No Plastic",
-        "url": "https://open.spotify.com/album/69j4gGoZImXXdjSp4jEAsL"
-      },
-      "artists": [
-        {
-          "name": "Mamborap",
-          "url": "https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0"
-        },
-        {
-          "name": "Yoky Barrios",
-          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
-        }
-      ],
-      "duration_ms": 225238,
-      "name": "No Plastic",
-      "url": "https://open.spotify.com/track/1uqCdusN5nAO9MXU01KuxO"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "La Capital Del Pecado",
         "url": "https://open.spotify.com/album/5ZhKILys7Vne4fJ1gvWZVc"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 163266,
       "name": "La Capital Del Pecado",
       "url": "https://open.spotify.com/track/5sxIv3QmlnQ4u5NxPM1E7V"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "No Plastic",
+        "url": "https://open.spotify.com/album/69j4gGoZImXXdjSp4jEAsL"
+      },
+      "artists": [
+        {
+          "name": "Mamborap",
+          "url": "https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0"
+        },
+        {
+          "name": "Yoky Barrios",
+          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
+        }
+      ],
+      "duration_ms": 225238,
+      "name": "No Plastic",
+      "url": "https://open.spotify.com/track/1uqCdusN5nAO9MXU01KuxO"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Psicofonia",
+        "url": "https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "duration_ms": 184255,
+      "name": "Matar o Morir",
+      "url": "https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "La Brujula",
         "url": "https://open.spotify.com/album/6zWeN2rVEAbIHrEgbfVYu6"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "El Mundo en Abstinencia",
-        "url": "https://open.spotify.com/album/7rk2Op7j5T5qENRsNdWEHx"
-      },
-      "artists": [
-        {
-          "name": "La Era de Gomes",
-          "url": "https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0"
-        }
-      ],
-      "duration_ms": 145979,
-      "name": "\u00bfPor Qu\u00e9?",
-      "url": "https://open.spotify.com/track/2Xr1HkDPYayvIvGDRAnz7a"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Ellas",
         "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
       },
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Psicofonia",
-        "url": "https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw"
+        "name": "El Mundo en Abstinencia",
+        "url": "https://open.spotify.com/album/7rk2Op7j5T5qENRsNdWEHx"
       },
       "artists": [
         {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+          "name": "La Era de Gomes",
+          "url": "https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0"
         }
       ],
-      "duration_ms": 184255,
-      "name": "Matar o Morir",
-      "url": "https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV"
+      "duration_ms": 145979,
+      "name": "\u00bfPor Qu\u00e9?",
+      "url": "https://open.spotify.com/track/2Xr1HkDPYayvIvGDRAnz7a"
     },
     {
       "added_at": "2024-06-21 06:01:00",

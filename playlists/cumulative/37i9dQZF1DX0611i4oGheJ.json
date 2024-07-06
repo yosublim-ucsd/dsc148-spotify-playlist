@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Running Start",
+        "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261165,
+      "name": "A Running Start",
+      "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
+    },
+    {
+      "album": {
         "name": "A Thread to Find",
         "url": "https://open.spotify.com/album/4jxZ8wm6AfkNUVDPmmT6Ua"
       },
@@ -74,6 +92,28 @@
       "duration_ms": 233320,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/6zmGtaJ5If4EXZOijSHnx0"
+    },
+    {
+      "album": {
+        "name": "Light Verse",
+        "url": "https://open.spotify.com/album/0dZ4tHT2Ka2kScPqLK9x1Q"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        },
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255338,
+      "name": "All in Good Time",
+      "url": "https://open.spotify.com/track/3K8csekmDMhYCh0BDzalmW"
     },
     {
       "album": {
@@ -203,6 +243,24 @@
     },
     {
       "album": {
+        "name": "awe",
+        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235382,
+      "name": "awe",
+      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
       },
@@ -286,7 +344,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 255986,
       "name": "Better Way",
       "url": "https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo"
@@ -606,7 +664,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 197458,
       "name": "Call My Name - Acoustic",
       "url": "https://open.spotify.com/track/3cTbjXWKsCm1hg3TrUlFXC"
@@ -950,6 +1008,24 @@
       "duration_ms": 293973,
       "name": "Cover Me Up",
       "url": "https://open.spotify.com/track/5qW6ZYct54PhKliCntyxRX"
+    },
+    {
+      "album": {
+        "name": "Crying Over U",
+        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
     },
     {
       "album": {
@@ -1526,7 +1602,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 198403,
       "name": "For Now",
       "url": "https://open.spotify.com/track/0c99BUd87HQfzgUUQqRyds"
@@ -2411,6 +2487,24 @@
     },
     {
       "album": {
+        "name": "Flower of the soul",
+        "url": "https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151999,
+      "name": "I wish for the rain",
+      "url": "https://open.spotify.com/track/59ZkByVPAIPe0YhqIO723Y"
+    },
+    {
+      "album": {
         "name": "I Wish I Could Write You a Song",
         "url": "https://open.spotify.com/album/7EMFhBBfG9itHMug9vE02X"
       },
@@ -2899,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/23dhOqyLfO9IBocggQ7AeN"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241906,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy"
+    },
+    {
+      "album": {
         "name": "Love Flew Away",
         "url": "https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k"
       },
@@ -2994,7 +3106,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 213127,
       "name": "Love Is Everywhere (Beware)",
       "url": "https://open.spotify.com/track/4hrJhMznNddR7UThDKHSJy"
@@ -4012,7 +4124,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 155352,
       "name": "Pharmakon",
       "url": "https://open.spotify.com/track/2J2oWsC3KGoqdUMIwcMRMU"
@@ -4048,7 +4160,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 219466,
       "name": "Poison & Wine",
       "url": "https://open.spotify.com/track/3wsZYuHJrk3lssa7V7jvye"
@@ -4783,6 +4895,24 @@
     },
     {
       "album": {
+        "name": "Sunwarmed",
+        "url": "https://open.spotify.com/album/59VwIN9sQruODzORauynKX"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178417,
+      "name": "Sunwarmed",
+      "url": "https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4"
+    },
+    {
+      "album": {
         "name": "Deeper Well",
         "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
       },
@@ -4866,7 +4996,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 299440,
       "name": "The Barrel",
       "url": "https://open.spotify.com/track/04XeEuHyG4Z3NKY1zgAYEO"
@@ -5244,7 +5374,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 247631,
       "name": "The Swimmer (To Be an Old Man)",
       "url": "https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw"
@@ -5270,6 +5400,24 @@
       "duration_ms": 220600,
       "name": "The Traveling Kind",
       "url": "https://open.spotify.com/track/5OHTqUeUeV09qhqszxS541"
+    },
+    {
+      "album": {
+        "name": "The Trek",
+        "url": "https://open.spotify.com/album/71QLGDfkyZqoN8U9LTDmYj"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282253,
+      "name": "The Trek",
+      "url": "https://open.spotify.com/track/5P4Uaj4mKQpkZYRyt5ceMC"
     },
     {
       "album": {
@@ -5700,7 +5848,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 216415,
       "name": "Top to Toe",
       "url": "https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0"
@@ -5970,7 +6118,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 331111,
       "name": "Wake Me",
       "url": "https://open.spotify.com/track/6pOiBHK2mMiSNnPsYNGsEc"
@@ -6449,6 +6597,24 @@
     },
     {
       "album": {
+        "name": "All For Something",
+        "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249138,
+      "name": "Wishes",
+      "url": "https://open.spotify.com/track/4JqEKltIZUj2H0jmUUsaPQ"
+    },
+    {
+      "album": {
         "name": "Young In All The Wrong Ways",
         "url": "https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR"
       },
@@ -6608,6 +6774,28 @@
       "duration_ms": 178826,
       "name": "You Sigh",
       "url": "https://open.spotify.com/track/38vsMOGABG97FQGRN2Yc4z"
+    },
+    {
+      "album": {
+        "name": "Your Garden (Reimagined)",
+        "url": "https://open.spotify.com/album/5SrLUP0ppsI5NaoiZ9rB6c"
+      },
+      "artists": [
+        {
+          "name": "Lydia Luce",
+          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
+        },
+        {
+          "name": "Andrea von Kampen",
+          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206376,
+      "name": "Your Garden - Reimagined",
+      "url": "https://open.spotify.com/track/03rQ7EPH4B8FDj873S4uVO"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0611i4oGheJ"

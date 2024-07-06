@@ -7467,6 +7467,24 @@
     },
     {
       "album": {
+        "name": "A Great Chaos (Deluxe)",
+        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "mewtwo",
+      "url": "https://open.spotify.com/track/6xZYGIixR3zhhOHwu7UEMY"
+    },
+    {
+      "album": {
         "name": "Escape from Monsta Island",
         "url": "https://open.spotify.com/album/2DPjykMKiZZrL6mKPHM4hX"
       },

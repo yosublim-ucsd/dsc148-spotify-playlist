@@ -123,6 +123,28 @@
     },
     {
       "album": {
+        "name": "2Kidney (Remix)",
+        "url": "https://open.spotify.com/album/7vltbawqLLX2S7aFSVoTgX"
+      },
+      "artists": [
+        {
+          "name": "Dan Drizzy",
+          "url": "https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI"
+        },
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165970,
+      "name": "2Kidney - Remix",
+      "url": "https://open.spotify.com/track/6bkAOavs4hlbtBKLyqMOZg"
+    },
+    {
+      "album": {
         "name": "360",
         "url": "https://open.spotify.com/album/35BwMj0VAg3BCwB78CO7wa"
       },
@@ -156,7 +178,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 167142,
       "name": "4LYFE",
       "url": "https://open.spotify.com/track/2TSyn5AUP4XKlx2DULEPvs"
@@ -2731,6 +2753,28 @@
     },
     {
       "album": {
+        "name": "Foriwah",
+        "url": "https://open.spotify.com/album/65oOTA8beykC7r2J979aQt"
+      },
+      "artists": [
+        {
+          "name": "K.O.G",
+          "url": "https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi"
+        },
+        {
+          "name": "Ogunskele",
+          "url": "https://open.spotify.com/artist/62aZaZy0pmoii33RWxriLA"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305946,
+      "name": "Foriwah",
+      "url": "https://open.spotify.com/track/4CNIY2CNIpy9thQrc4b0l2"
+    },
+    {
+      "album": {
         "name": "Freaky & Naughty",
         "url": "https://open.spotify.com/album/4vjPY3edDk05mtDoQO41oo"
       },
@@ -4099,6 +4143,24 @@
     },
     {
       "album": {
+        "name": "Makoma",
+        "url": "https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164745,
+      "name": "Makoma",
+      "url": "https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC"
+    },
+    {
+      "album": {
         "name": "Man Down",
         "url": "https://open.spotify.com/album/0M7Q84WZQSbgYhjDgBpa32"
       },
@@ -4456,7 +4518,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 192301,
       "name": "My Father (feat. King Paluta)",
       "url": "https://open.spotify.com/track/36R0QHKBuPjhB2GMwNEYEl"
@@ -4670,7 +4732,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-06",
       "duration_ms": 160809,
       "name": "No More",
       "url": "https://open.spotify.com/track/7eClgSPyjnbANZYbogtZNE"

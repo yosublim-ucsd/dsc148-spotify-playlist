@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-430 songs - 22 hr 7 min
+431 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/track/5UautcyJDjHxwnejNAkfg9) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/album/1t7HLxUEYRN3TUBGkoazWj) | 3:14 | 2023-07-14 | 2023-10-09 |
 | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/track/5VF45DoQu9oT7Se5ieLoZk) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:14 | 2023-09-29 | 2023-10-20 |
 | [Flex \(feat\. Wande Coal\)](https://open.spotify.com/track/0hroedzZOal7JsvUZxepLu) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Flex \(feat\. Wande Coal\)](https://open.spotify.com/album/1DaChKu9Kxx6oFV3bsqspX) | 2:54 | 2022-11-18 | 2022-12-03 |
-| [Focus](https://open.spotify.com/track/264HkpmqRAHqlGHQJSKMIp) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [More Kashcoming, Vol\. 2](https://open.spotify.com/album/7rihBCOnj640TOFRJD1FKz) | 2:21 | 2024-06-28 |  |
+| [Focus](https://open.spotify.com/track/264HkpmqRAHqlGHQJSKMIp) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [More Kashcoming, Vol\. 2](https://open.spotify.com/album/7rihBCOnj640TOFRJD1FKz) | 2:21 | 2024-06-28 | 2024-07-06 |
 | [For Daddy](https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [For Daddy](https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf) | 2:33 | 2023-04-27 |  |
 | [Freaky & Naughty](https://open.spotify.com/track/3pegFML6cZ9rgDuvLHm7Wj) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Freaky & Naughty](https://open.spotify.com/album/4vjPY3edDk05mtDoQO41oo) | 2:46 | 2023-08-03 | 2023-09-28 |
 | [Freaky Friday](https://open.spotify.com/track/0m3chcCAwOAgdTj4rcAD8d) | [E'Major](https://open.spotify.com/artist/2Ozp4F6jLBYyUrIyJgF236), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Freaky Friday](https://open.spotify.com/album/3F94KLNyE0b4tifAUqrvcL) | 3:29 | 2022-07-28 | 2022-09-20 |
@@ -289,6 +289,7 @@
 | [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 | 2023-05-11 | 2023-10-18 |
 | [No Love](https://open.spotify.com/track/1XnOhq5lHDWOFnjZIj7g6M) | [Korra Obidi](https://open.spotify.com/artist/5D7ylBByLFxsmDgJ40qoRn) | [No Love](https://open.spotify.com/album/68kx729WvoNUnbfMV8VsMy) | 2:40 | 2023-08-10 | 2023-09-28 |
 | [No Peace \(Violence\)](https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Bad Boy Etiquette 101](https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA) | 2:35 | 2022-12-08 | 2023-01-28 |
+| [No Police](https://open.spotify.com/track/555YPV71yCcEdeHhCGFE1h) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Mix It Up, Vol\. 3](https://open.spotify.com/album/2cE1RskVBcMiIhrsGQgV5P) | 4:23 | 2024-07-05 |  |
 | [No Suffer \(3am in Jozi\)](https://open.spotify.com/track/4CHdozuiZ8q5ZjUqeYNjs8) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [No Suffer \(3am in Jozi\)](https://open.spotify.com/album/5M6D9F6tKvTroGFZBi6z1D) | 3:36 | 2024-02-09 | 2024-02-16 |
 | [Not That Simple](https://open.spotify.com/track/5bMj885rdf14vMri390d37) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [Not That Simple](https://open.spotify.com/album/5wMuamc5ZTJO4R2M0eVJRK) | 2:13 | 2024-06-28 | 2024-06-30 |
 | [NYEM EGO \(feat\. Jeriq\)](https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:35 | 2023-11-03 | 2024-06-28 |

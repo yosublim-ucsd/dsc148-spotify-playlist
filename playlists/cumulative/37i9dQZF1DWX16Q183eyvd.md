@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-150 songs - 7 hr 2 min
+151 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,8 @@
 | [This Old Man](https://open.spotify.com/track/33brRRHTjeMZVXzt4tDOzp) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Reggae for Kids](https://open.spotify.com/album/5jRkWa2bRjwJ6hdPrJ1odi) | 3:13 | 2023-10-10 | 2024-01-31 |
 | [This Old Man](https://open.spotify.com/track/7JaMhrgXmPSXDjVAVxrDav) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 3:13 | 2021-11-19 | 2023-11-04 |
 | [Three Little Birds \(feat\. Ziggy Marley\)](https://open.spotify.com/track/4lWJMQSOJIWSodi3Oe6Few) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [!Vamos a bailar! Let's Dance! The Dora the Explorer Music Collection](https://open.spotify.com/album/3fLxjCJkL1BANWMLA7uwok) | 3:25 | 2021-11-19 | 2024-01-31 |
-| [Veggie Dance \- Remix](https://open.spotify.com/track/2BBvcBwojcHlSTjp48I2SJ) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Veggie Dance \(Remix\)](https://open.spotify.com/album/6icID5P2oWMMmr1nO2aJV2) | 1:52 | 2024-05-31 |  |
+| [Veggie Dance \- Remix](https://open.spotify.com/track/2BBvcBwojcHlSTjp48I2SJ) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Veggie Dance \(Remix\)](https://open.spotify.com/album/6icID5P2oWMMmr1nO2aJV2) | 1:52 | 2024-05-31 | 2024-07-06 |
+| [Veggie Dance \- Steamed Broccoli](https://open.spotify.com/track/2Ino5VIjhkchNGPk2WfQxO) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Veggie Dance](https://open.spotify.com/album/5rFResvBMH7atGl0pFSaUZ) | 1:45 | 2024-07-05 |  |
 | [Walk Tall](https://open.spotify.com/track/1uk67qKtIK0zYnuSHDYfRp) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/2vFNvV2DvTfKVG49asgPlT) | 3:16 | 2022-02-04 | 2022-10-13 |
 | [Walk Tall](https://open.spotify.com/track/58C6oflMuofn2CvZnO4nyt) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2) | 3:16 | 2022-02-04 | 2023-11-09 |
 | [Walk Tall \(feat\. Paul Simon\)](https://open.spotify.com/track/7j0tMRulMtwmNpyOZmHtD0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/1OreWX3yJbrIozwosO1ELn) | 3:16 | 2021-11-19 | 2022-07-29 |

@@ -6,7 +6,7 @@
     "name": "realARreal",
     "url": "https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e"
   },
-  "snapshot_id": "AAAB0laXdC86j45S5SVhLJmvERHaTHrS",
+  "snapshot_id": "AAAB050Q4Q+LzbZ5d+yvrcKdmUPf+SK2",
   "tracks": [
     {
       "added_at": "2023-11-12 18:47:04",
@@ -5759,6 +5759,22 @@
       "duration_ms": 345186,
       "name": "Veridis Quo",
       "url": "https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds"
+    },
+    {
+      "added_at": "2024-07-05 20:33:53",
+      "album": {
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 285906,
+      "name": "When the Sun Hits",
+      "url": "https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44"
     }
   ],
   "unique_name": "Ballads",

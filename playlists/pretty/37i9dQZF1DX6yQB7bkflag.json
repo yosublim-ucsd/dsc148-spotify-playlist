@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: BABYMONSTER",
-  "num_followers": 116066,
+  "num_followers": 116092,
   "original_name": "Pop Rising Indonesia",
   "owner": {
     "name": "Spotify",
@@ -23,6 +23,26 @@
       "duration_ms": 212734,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ"
+    },
+    {
+      "added_at": "2024-07-04 17:00:00",
+      "album": {
+        "name": "right where you left me",
+        "url": "https://open.spotify.com/album/0a28dOkcC53FjmLwNpVEOm"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        },
+        {
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "right where you left me",
+      "url": "https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP"
     },
     {
       "added_at": "2024-07-04 17:00:00",

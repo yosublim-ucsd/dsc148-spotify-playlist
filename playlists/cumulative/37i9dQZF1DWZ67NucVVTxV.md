@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-554 songs - 1 day 2 hr 48 min
+555 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Bread](https://open.spotify.com/track/1LWBKiR25hhbVACZREEDcG) | [Skaa Veceti](https://open.spotify.com/artist/7moqwVMHJ39sfMGtjfRNNo), [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA) | [Nothing Personal](https://open.spotify.com/album/2pJNxJSjNu2eCOtVMouABo) | 2:49 | 2023-10-27 | 2023-11-09 |
 | [Brodo](https://open.spotify.com/track/2GHzh4jGjrLb0WYLqpixCd) | [Kev the Topic](https://open.spotify.com/artist/4MahedKXMQXH2Dt0nKyN8s), [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Brodo](https://open.spotify.com/album/5vP5InTqdYiCA3i2LORLJ3) | 3:35 | 2023-01-27 | 2023-02-11 |
 | [Bust Down](https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bust Down](https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G) | 3:16 | 2024-02-02 |  |
-| [Busy & Broke](https://open.spotify.com/track/5oGQ7wWe5DxxWJDVbpwNnm) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [Busy & Broke](https://open.spotify.com/album/2beprFW3yOohVHvReH74ei) | 2:11 | 2024-06-28 |  |
+| [Busy & Broke](https://open.spotify.com/track/5oGQ7wWe5DxxWJDVbpwNnm) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [Busy & Broke](https://open.spotify.com/album/2beprFW3yOohVHvReH74ei) | 2:11 | 2024-06-28 | 2024-07-06 |
 | [Call Jehova](https://open.spotify.com/track/1CANP9um3E8PolYHhvzttV) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Call Jehova](https://open.spotify.com/album/0bDZOcGeHoA2GM0qll0beL) | 2:39 | 2023-01-27 | 2023-02-11 |
 | [Can't Stop \(feat\. Sarkodie\)](https://open.spotify.com/track/5nylrAThl0wI4EeJuUQ6ym) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Young & Matured](https://open.spotify.com/album/7e4OZbvQBYDfCdbLHTIGbc) | 3:22 | 2024-04-19 | 2024-05-10 |
 | [Can't Stop Me](https://open.spotify.com/track/4goMPS6RIikE3MmfrUYVrj) | [badthesoundboy](https://open.spotify.com/artist/39xSEItKpV8z7fhtLn5lRI) | [Can't Stop Me](https://open.spotify.com/album/7gfBnv1pWY6a3JLceiXeAE) | 2:18 | 2022-04-07 | 2022-08-06 |
@@ -360,6 +360,7 @@
 | [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 | 2023-05-11 | 2023-11-28 |
 | [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 | 2023-06-30 | 2023-08-04 |
 | [No One Cares](https://open.spotify.com/track/4KXymUzgOQlVzzUJkqhlT6) | [DEDAN](https://open.spotify.com/artist/6V3bSP6SAobPg4SVtsUTrP) | [No One Cares](https://open.spotify.com/album/6phBnvjWE3OarO3o1xHspu) | 2:52 | 2024-04-19 | 2024-05-03 |
+| [No Panic](https://open.spotify.com/track/7qH7p8wCt9GJERou8j4gb7) | [Raymmond](https://open.spotify.com/artist/1WEGRrdwPJkPvJyhwza6Mp), [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [No Panic](https://open.spotify.com/album/6ozRJ7M3r3MSZZI5yCldAP) | 2:30 | 2024-07-05 |  |
 | [No Pressure](https://open.spotify.com/track/0mVzuvUprU7rwle4EC2yz8) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t), [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [No Pressure](https://open.spotify.com/album/30JwPQ889kwhIyLbjqTOYd) | 3:05 | 2023-12-08 |  |
 | [No pressure](https://open.spotify.com/track/0xEnqib4eV96z45o8FgyS7) | [DennyB](https://open.spotify.com/artist/4CpA6KhbohKW7a1huUT7oU), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [No pressure](https://open.spotify.com/album/5D2di4IqXPZiQeZMoBg54j) | 2:22 | 2024-06-07 | 2024-06-15 |
 | [No Religion](https://open.spotify.com/track/6JcsgUcIpOR0f3K1OZRAfP) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [No Religion](https://open.spotify.com/album/3cyrejkXVcYbXQhiCcu2qB) | 2:17 | 2022-10-30 | 2023-02-04 |

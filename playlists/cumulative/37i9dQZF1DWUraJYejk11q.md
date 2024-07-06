@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-266 songs - 20 hr 54 min
+267 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,13 +58,14 @@
 | [CHROMA 003 Bi83](https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 003](https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk) | 3:56 | 2024-05-08 |  |
 | [Cinétique \- Edit](https://open.spotify.com/track/1jRdRoJqx2s6v4T5VZM41C) | [Jinjé](https://open.spotify.com/artist/59ceK8A6RxzUQZF05aXezk) | [Cinétique](https://open.spotify.com/album/36j2hkJhjKKiGDu6IRT9Vr) | 4:00 | 2021-10-15 | 2022-01-20 |
 | [Circuitous](https://open.spotify.com/track/6vu6oVaFUJkHt49OeoaO3k) | [Afrikan Sciences](https://open.spotify.com/artist/4Ewz395zbkN9YjaRc10t0U) | [Circuitous](https://open.spotify.com/album/2zjSQpLovbXE8bUemBiOby) | 5:34 | 2023-06-01 | 2024-01-05 |
-| [Closer \- Daniel Avery Edit](https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Closer \(Daniel Avery Edit\)](https://open.spotify.com/album/7ibaWfGIltYCxmRD9Qjz1G) | 4:06 | 2022-07-08 |  |
+| [Closer \- Daniel Avery Edit](https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Closer \(Daniel Avery Edit\)](https://open.spotify.com/album/7ibaWfGIltYCxmRD9Qjz1G) | 4:06 | 2022-07-08 | 2024-07-06 |
 | [Closer \- Daniel Avery Edit](https://open.spotify.com/track/6n3bL5mXJ9iD3W8lB55PiA) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Closer \(Daniel Avery Edit\)](https://open.spotify.com/album/0dcne5FaazxA0dFUrnUfiN) | 4:06 | 2022-07-08 | 2024-04-19 |
 | [Clouds](https://open.spotify.com/track/4h28da1metrUE6DMRbCYY5) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Ones](https://open.spotify.com/album/1DNOCMa2UrOXEHU8oJ8M7s) | 4:05 | 2022-01-11 | 2022-11-12 |
 | [Clouds](https://open.spotify.com/track/6VipQibtXdo7Dy3uuW981g) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Ones](https://open.spotify.com/album/6lo52TlixgAYR8gX6vescb) | 4:05 | 2022-01-11 | 2022-07-29 |
 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 | 2021-10-15 | 2022-01-13 |
 | [Create Machines](https://open.spotify.com/track/7FOYuFCff3wYlAuO2m8zYe) | [Venjent](https://open.spotify.com/artist/7xu08SujAqLp7BGinS96vd) | [R U Guna Move](https://open.spotify.com/album/3mTh8XaiVOGtGLsopbTbjU) | 2:49 | 2024-01-03 | 2024-04-16 |
 | [Cuarzo](https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8) | [Syntrovert](https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA) | [Amuleto](https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg) | 3:35 | 2022-01-11 | 2022-03-12 |
+| [Data Passenger](https://open.spotify.com/track/2L52S4jeIP7AHrb24v0cZv) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Data Passenger EP](https://open.spotify.com/album/3K4cvowbf3loJkuPneBRia) | 5:07 | 2024-07-05 |  |
 | [Day By Day](https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC) | [Stack Effect](https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz) | [Pause](https://open.spotify.com/album/2hspcikJXpHWS7xeaKwvgf) | 4:49 | 2022-08-24 | 2023-03-29 |
 | [Daydream Repeat](https://open.spotify.com/track/3jBAlJcUMJKwRgTuGiLFGX) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 6:08 | 2024-04-15 |  |
 | [DAZED](https://open.spotify.com/track/4z4XTugxaVap8Ndp8QI5T7) | [Galaksit](https://open.spotify.com/artist/7xb6guCCpe8BhM0F62ah9X) | [DAZED](https://open.spotify.com/album/1mE4SkBA46imrI1TcLhhN6) | 2:12 | 2022-04-06 | 2022-09-22 |

@@ -4,7 +4,7 @@
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Buscabulla en portada.
 
-329 songs - 19 hr 50 min
+330 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Ninfa de la villa](https://open.spotify.com/track/7Ax9fR3OPue9dRH7n9Pidm) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Ninfa de la villa](https://open.spotify.com/album/25c9ZAKyYYpeS8ZfUKMeZ2) | 3:09 | 2021-10-05 | 2022-07-29 |
 | [No la Controles](https://open.spotify.com/track/2MjjIhsTUJT9Em2IK1DYbL) | [Vic Contreras](https://open.spotify.com/artist/6P93ryoAZ536dC2ZvPWtev), [La Alucinante Banda](https://open.spotify.com/artist/4MzZm21ozsCMzX4SwntjBo) | [No la Controles](https://open.spotify.com/album/3cnie000TIlXmMybJaQyvl) | 3:25 | 2022-08-13 | 2022-11-09 |
 | [No la Controles](https://open.spotify.com/track/3h8lcSa7U2hB5c57LOliqE) | [Vic Contreras](https://open.spotify.com/artist/6P93ryoAZ536dC2ZvPWtev), [La Alucinante Banda](https://open.spotify.com/artist/4MzZm21ozsCMzX4SwntjBo) | [No la Controles](https://open.spotify.com/album/1LYj7dodHz75dXhEeBWUWy) | 3:25 | 2022-08-13 | 2023-04-01 |
+| [No me opongo](https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [R\-A\-B\-I\-A](https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33) | 3:05 | 2024-07-05 |  |
 | [Nosotros También](https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp) | 3:26 | 2021-10-05 | 2023-04-30 |
 | [Nosotros También](https://open.spotify.com/track/6aLokUtExlh83ueaUUOzrt) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Nosotros También](https://open.spotify.com/album/6SdRuhERJbTAuWMIHtvsLL) | 3:26 | 2021-10-05 | 2022-10-13 |
 | [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 | 2023-05-05 | 2023-10-17 |
@@ -258,7 +259,7 @@
 | [Quería Olvidarte](https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Quería Olvidarte](https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w) | 2:46 | 2023-03-16 |  |
 | [quizás en otra vida](https://open.spotify.com/track/4mozAEJ8Gb7LOF5cX68LYh) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [intentos](https://open.spotify.com/album/1WCOuQJEvzFmDg4bZvqkgu) | 2:02 | 2024-02-02 |  |
 | [Quién Podrá Saberlo](https://open.spotify.com/track/4Ioz0P53jC1z6zVUcj12GW) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Quién Podrá Saberlo](https://open.spotify.com/album/5cvmkQT4H1rfZT8reSzanZ) | 2:43 | 2021-10-05 | 2023-04-01 |
-| [Rainfalls](https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN) | [Mandale Mecha](https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m) | [Rainfalls](https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y) | 3:36 | 2022-01-14 |  |
+| [Rainfalls](https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN) | [Mandale Mecha](https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m) | [Rainfalls](https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y) | 3:36 | 2022-01-14 | 2024-07-06 |
 | [Rama](https://open.spotify.com/track/40Qrc6OlhCPokKfigR987S) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [RAMA](https://open.spotify.com/album/5wC4ACPfltMaoWe9bTwPq5) | 5:07 | 2023-06-01 |  |
 | [Real Luv](https://open.spotify.com/track/33cDr0F2NZHw0HonZ24aZh) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Amores Pasajeros](https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe) | 2:25 | 2023-12-07 | 2024-06-29 |
 | [Resistencia](https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Recuerdos de Expiación](https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN) | 3:12 | 2021-10-05 | 2023-12-04 |

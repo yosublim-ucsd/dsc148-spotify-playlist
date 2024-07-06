@@ -4,7 +4,7 @@
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Kali Uchis en portada.
 
-139 songs - 7 hr 49 min
+140 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Algo Discreto](https://open.spotify.com/track/7y660DIuwEb44cC86hNjAf) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Algo Discreto](https://open.spotify.com/album/10RilTBrHWcQeLOmgbptgp) | 3:20 | 2023-09-22 | 2023-11-11 |
 | [Algo Más](https://open.spotify.com/track/7CjfzkUKIbNrPD6ztRI8xO) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Cheo](https://open.spotify.com/artist/7KoRkLCpcB7svD45xGxEfU) | [Algo Más](https://open.spotify.com/album/0s7AksApzZ6ann92uaNvJ3) | 3:27 | 2023-11-24 | 2024-01-27 |
 | [AMOR // QUE BIEN LO BAILA](https://open.spotify.com/track/3xz4Jg0TxpkyH9axrFFNFW) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [AMOR // QUE BIEN LO BAILA](https://open.spotify.com/album/2IH4LWJl1W4XNqojhOQTUV) | 3:15 | 2023-09-22 | 2023-10-07 |
-| [Antes de los 30](https://open.spotify.com/track/0BV8DNvqkRPtaP9N5mNmWp) | [Nicolás y los Fumadores](https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh), [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Antes de los 30](https://open.spotify.com/album/2dQ8ANC4SA9hQZ53BElAiH) | 5:02 | 2023-09-22 |  |
+| [Antes de los 30](https://open.spotify.com/track/0BV8DNvqkRPtaP9N5mNmWp) | [Nicolás y los Fumadores](https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh), [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Antes de los 30](https://open.spotify.com/album/2dQ8ANC4SA9hQZ53BElAiH) | 5:02 | 2023-09-22 | 2024-07-06 |
 | [Antes De Partir](https://open.spotify.com/track/2mbxifzlODJWwSG5O6LMuY) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC), [Julian Carrion](https://open.spotify.com/artist/6A9coo36yFEB0cfxZT8cih) | [Antes De Partir](https://open.spotify.com/album/5vcN3zxTsyTPZcIlVDNhOq) | 5:27 | 2024-02-09 | 2024-06-15 |
 | [Autosabotear](https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Autosabotear](https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a) | 3:12 | 2023-10-13 | 2024-06-08 |
 | [Avisarás](https://open.spotify.com/track/2J6HbyxY6CENgWplG3LfrJ) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Avisarás](https://open.spotify.com/album/5cswaSE9pnLtoUbKJ4SXLj) | 4:17 | 2023-09-22 | 2023-11-11 |
@@ -125,6 +125,7 @@
 | [Resurrección](https://open.spotify.com/track/5HqnE9PwuOuqg73YhX2bpZ) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ), [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [ORILLAS](https://open.spotify.com/album/3QK5vLsPeBj9oItoA5YkAo) | 4:50 | 2023-09-22 | 2023-10-21 |
 | [Sal](https://open.spotify.com/track/2Wui8fU5Vp8aDZ8p7mcyli) | [Ságan](https://open.spotify.com/artist/6QFmvaeIACPMkTBmXX86gN) | [Sal](https://open.spotify.com/album/3MtbOxFsx48CrminzLGCWZ) | 4:01 | 2023-09-22 | 2023-10-14 |
 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 | 2024-05-10 |  |
+| [si tú no estás aquí](https://open.spotify.com/track/6ODPOeIy6b99BZlpmqWn9I) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [si tú no estás aquí](https://open.spotify.com/album/07Lar6NcLhksUUtjjzDZZT) | 3:38 | 2024-07-05 |  |
 | [Sin Riesgo](https://open.spotify.com/track/2DdGAU31oTaGJkuLGHK9gp) | [laurél](https://open.spotify.com/artist/4hCJr1sLjhayxsPwwrtChF) | [Sin Riesgo](https://open.spotify.com/album/4bgmeuetXEk3czfOgkggcf) | 2:51 | 2024-03-01 |  |
 | [So payaso](https://open.spotify.com/track/3OSIzpGBWIcygaZNcp099X) | [\_juno](https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP) | [So payaso](https://open.spotify.com/album/1SJJG2C7MHBWA3FQyHrLXZ) | 3:06 | 2024-02-09 | 2024-04-27 |
 | [Sola](https://open.spotify.com/track/2RJH45gf8JIMswhYCLcgHK) | [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv), [RI](https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU) | [Sola](https://open.spotify.com/album/1YxzQ8nW8hu2g0nvyx6yYA) | 2:17 | 2024-03-01 |  |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 62090,
+  "description": "This Is Ice Spice. Los temas esenciales, todos en una lista.",
+  "num_followers": 62145,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoSUgAAAAAAuaf/S3WrEb21iUaC6zuFW",
+  "snapshot_id": "ZoXmAAAAAABs+5LHglp3NhsGkgDQdRLm",
   "tracks": [
     {
       "added_at": null,
@@ -227,26 +227,6 @@
       "duration_ms": 106666,
       "name": "Bikini Bottom",
       "url": "https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pretty Girl (with Rema)",
-        "url": "https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 137907,
-      "name": "Pretty Girl (with Rema)",
-      "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
     },
     {
       "added_at": null,

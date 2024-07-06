@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>.
 
-227 songs - 12 hr 15 min
+228 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/track/0mvcsYusnTYlAkOZ077lDb) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Surbhi Jyoti](https://open.spotify.com/artist/0ZwLuYX3Fe14PhonPeqd5X) | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/album/5wNK25BcVubz95drmXiBCZ) | 2:48 | 2022-07-18 | 2024-02-23 |
 | [Got It All](https://open.spotify.com/track/6dsnBVYmOkQ5sYWOluVYw8) | [UpsideDown](https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu), [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Got It All](https://open.spotify.com/album/2Z1KXlqb2Agtc2F8ep1DU5) | 3:10 | 2021-11-11 | 2022-07-19 |
 | [Gotta Go](https://open.spotify.com/track/0qKsgeSKJNx7nT7C1jtwd6) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Gotta Go](https://open.spotify.com/album/5eLqcFc9iQBu8KMJtlP7KK) | 3:03 | 2021-11-11 | 2022-07-19 |
+| [Gulzar](https://open.spotify.com/track/0qkXvj4p0hZ3ETGl1r8ULV) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Gulzar](https://open.spotify.com/album/6hN4c25T3ZWXjpjNjwW5iD) | 3:09 | 2024-07-05 |  |
 | [Gypsy](https://open.spotify.com/track/0twaTHqMG7xYjX2zHyfjDy) | [G.D\. Kaur](https://open.spotify.com/artist/1JASStJXixMu8BtchqHp2s), [Dinesh Golan](https://open.spotify.com/artist/06oJwi4lIO6n5wvhrXSOwS), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [Gypsy](https://open.spotify.com/album/3xdZxmCjLG3LInVjizK8k5) | 2:30 | 2024-04-15 |  |
 | [Gypsy \(feat\. Pranjal Dahiya \)](https://open.spotify.com/track/1jatFRyNym063A5LiYe5uR) | [G.D\. Kaur](https://open.spotify.com/artist/1JASStJXixMu8BtchqHp2s), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM), [Dinesh Golan](https://open.spotify.com/artist/06oJwi4lIO6n5wvhrXSOwS), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Gypsy \(feat\. Pranjal Dahiya \)](https://open.spotify.com/album/1wIizKCTHbMHcEpeFzPw0W) | 2:30 | 2024-02-22 | 2024-04-19 |
 | [Harami](https://open.spotify.com/track/5IHWigPKhsajqRGxgWyC6x) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Harami](https://open.spotify.com/album/4oU8WP84iokSNQo1tJqzY5) | 2:29 | 2022-01-14 | 2022-07-19 |

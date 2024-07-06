@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Chappell Roan
 
-373 songs - 20 hr 2 min
+374 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [ANYTHING 4 U](https://open.spotify.com/track/3bfqtvnae2MjD6ONvLIH5H) | [Naethan Apollo](https://open.spotify.com/artist/7iS4CQkDpux3s40py3SqZi) | [ANYTHING 4 U](https://open.spotify.com/album/6pSyEQrFZCPYlmlHI8VP6o) | 2:41 | 2024-02-09 |  |
 | [Are You Satisfied?](https://open.spotify.com/track/6lKRMylSZMtA7EqPl0pcdI) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/3dWObfa3vKyudzgmh53Xzg) | 3:18 | 2022-05-17 | 2023-05-27 |
 | [Army Dreamers \- 2018 Remaster](https://open.spotify.com/track/5QYUNHT2dQwoNHorXznygN) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH) | 2:59 | 2024-03-19 |  |
-| [Aspartame](https://open.spotify.com/track/18PHtRnlXpXC3A01eOXRdX) | [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w), [Elegant Ensemble](https://open.spotify.com/artist/6Gis2e0EzPH00b2v5OIFxh) | [Elegant Ensemble](https://open.spotify.com/album/5LVsFiW7vbyElF7NBGEZB2) | 3:16 | 2024-05-24 |  |
+| [Aspartame](https://open.spotify.com/track/18PHtRnlXpXC3A01eOXRdX) | [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w), [Elegant Ensemble](https://open.spotify.com/artist/6Gis2e0EzPH00b2v5OIFxh) | [Elegant Ensemble](https://open.spotify.com/album/5LVsFiW7vbyElF7NBGEZB2) | 3:16 | 2024-05-24 | 2024-07-06 |
 | [Backseat Girl](https://open.spotify.com/track/4GcjmPentdxkwiIR9y8xfI) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Backseat Girl](https://open.spotify.com/album/1Ht5DzGkQdXs6iXCQjjRC9) | 2:23 | 2024-03-01 | 2024-04-24 |
 | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296) | 2:13 | 2023-12-27 |  |
 | [BAD LUCK!](https://open.spotify.com/track/38POirUtTfpoDWpX8QLiKP) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/6LLqwrFRS3rgwKVCRBYGYy) | 3:33 | 2022-05-17 | 2022-12-10 |
@@ -314,6 +314,7 @@
 | [stacy's brother](https://open.spotify.com/track/7aTXnk6qGF8d4pZ51zDcaQ) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [stacy's brother](https://open.spotify.com/album/3T3XGndYk7rJWwYJZLvS68) | 3:02 | 2024-05-27 |  |
 | [Stalker's Tango](https://open.spotify.com/track/51HiWFC8v4oJNClRYbzpGl) | [Autoheart](https://open.spotify.com/artist/5Lm1CMoa8VOCBCLZesAcvc) | [Lent](https://open.spotify.com/album/4v1R6oYeyeIDjDNBiQGo9Q) | 2:55 | 2023-12-29 |  |
 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2022-05-17 | 2023-06-21 |
+| [Summer Song](https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Summer Song](https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL) | 4:05 | 2024-07-05 |  |
 | [Sunday Morning](https://open.spotify.com/track/3viBNiQST9s6ea8NW27ZYo) | [Dominick Fulco](https://open.spotify.com/artist/3s7mu0cVl7jhG6EZE6WNP6) | [Sunday Morning](https://open.spotify.com/album/5Z61nSZOz926LJeacvpf3b) | 2:51 | 2024-05-24 |  |
 | [Taking What's Not Yours](https://open.spotify.com/track/53mChDyESfwn9Dz8poHRf6) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 3:25 | 2024-03-26 |  |
 | [Tapeworms](https://open.spotify.com/track/1tRqkzDbWCxDq2wBiI5vhm) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Tapeworms](https://open.spotify.com/album/1EfIsnaZOJ9FK6cWFg53J8) | 3:07 | 2022-07-11 | 2022-07-16 |

@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 215976,
+  "num_followers": 216212,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-06-24 12:31:35",
       "album": {
+        "name": "Chill Factor",
+        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 276360,
+      "name": "Deep Touch",
+      "url": "https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW"
+    },
+    {
+      "added_at": "2024-06-24 12:31:35",
+      "album": {
         "name": "Pearls",
         "url": "https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF"
       },
@@ -331,18 +347,18 @@
     {
       "added_at": "2024-06-24 12:31:35",
       "album": {
-        "name": "Chill Factor",
-        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
       },
       "artists": [
         {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
         }
       ],
-      "duration_ms": 276360,
-      "name": "Deep Touch",
-      "url": "https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW"
+      "duration_ms": 256853,
+      "name": "If I Could Fly",
+      "url": "https://open.spotify.com/track/6ZrF3FEq8MQd1CN9MXTHqa"
     },
     {
       "added_at": "2024-06-24 12:31:35",
@@ -363,22 +379,6 @@
       "duration_ms": 282666,
       "name": "Surrender (feat. Boney James)",
       "url": "https://open.spotify.com/track/3XS01xqHzkICimJBDwy0iA"
-    },
-    {
-      "added_at": "2024-06-24 12:31:35",
-      "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 256853,
-      "name": "If I Could Fly",
-      "url": "https://open.spotify.com/track/6ZrF3FEq8MQd1CN9MXTHqa"
     },
     {
       "added_at": "2024-06-24 12:31:35",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-06-24 12:31:35",
       "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Straight to the Heart",
+      "url": "https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov"
+    },
+    {
+      "added_at": "2024-06-24 12:31:35",
+      "album": {
         "name": "Battery Park",
         "url": "https://open.spotify.com/album/1Lh2EnOd11OTV64zqIUAlq"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 144729,
       "name": "Battery Park",
       "url": "https://open.spotify.com/track/4eT8pcYWhhcGST01XuzcKp"
-    },
-    {
-      "added_at": "2024-06-24 12:31:35",
-      "album": {
-        "name": "Grinnell Street",
-        "url": "https://open.spotify.com/album/70qBNTYFomQkHYnBZvvYcX"
-      },
-      "artists": [
-        {
-          "name": "Citronium",
-          "url": "https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX"
-        }
-      ],
-      "duration_ms": 235696,
-      "name": "Grinnell Street",
-      "url": "https://open.spotify.com/track/6DKXxUcWJqGIleYjogIoEQ"
     },
     {
       "added_at": "2024-06-24 12:31:35",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-06-24 12:31:35",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
+        "name": "Grinnell Street",
+        "url": "https://open.spotify.com/album/70qBNTYFomQkHYnBZvvYcX"
       },
       "artists": [
         {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+          "name": "Citronium",
+          "url": "https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX"
         }
       ],
-      "duration_ms": 233666,
-      "name": "Straight to the Heart",
-      "url": "https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov"
+      "duration_ms": 235696,
+      "name": "Grinnell Street",
+      "url": "https://open.spotify.com/track/6DKXxUcWJqGIleYjogIoEQ"
     },
     {
       "added_at": "2024-06-24 12:31:35",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-06-24 12:31:35",
       "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Can't Stop Now",
-      "url": "https://open.spotify.com/track/0CrM8E0DGn8BRu38mbPoiV"
-    },
-    {
-      "added_at": "2024-06-24 12:31:35",
-      "album": {
         "name": "Keepin' It Cool",
         "url": "https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7"
       },
@@ -579,18 +563,18 @@
     {
       "added_at": "2024-06-24 12:31:35",
       "album": {
-        "name": "Love's Melody",
-        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
       },
       "artists": [
         {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
         }
       ],
-      "duration_ms": 320733,
-      "name": "Midnight At The Oasis",
-      "url": "https://open.spotify.com/track/3R2KtkNnblbd9icRjH04d8"
+      "duration_ms": 255160,
+      "name": "Can't Stop Now",
+      "url": "https://open.spotify.com/track/0CrM8E0DGn8BRu38mbPoiV"
     },
     {
       "added_at": "2024-06-24 12:31:35",
@@ -611,6 +595,22 @@
     {
       "added_at": "2024-06-24 12:31:35",
       "album": {
+        "name": "Love's Melody",
+        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 320733,
+      "name": "Midnight At The Oasis",
+      "url": "https://open.spotify.com/track/3R2KtkNnblbd9icRjH04d8"
+    },
+    {
+      "added_at": "2024-06-24 12:31:35",
+      "album": {
         "name": "My One And Only One",
         "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
       },
@@ -627,18 +627,18 @@
     {
       "added_at": "2024-06-24 12:31:35",
       "album": {
-        "name": "Do not disturb",
-        "url": "https://open.spotify.com/album/4RG39enCANdnjbagkDndcp"
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g"
       },
       "artists": [
         {
-          "name": "Matty Mel Jr",
-          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
+          "name": "Marion Meadows",
+          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
         }
       ],
-      "duration_ms": 179250,
-      "name": "Do not disturb",
-      "url": "https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE"
+      "duration_ms": 256295,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY"
     },
     {
       "added_at": "2024-06-24 12:31:35",
@@ -675,38 +675,18 @@
     {
       "added_at": "2024-06-24 12:31:35",
       "album": {
-        "name": "It's On Tonight",
-        "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
+        "name": "Do not disturb",
+        "url": "https://open.spotify.com/album/4RG39enCANdnjbagkDndcp"
       },
       "artists": [
         {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        },
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+          "name": "Matty Mel Jr",
+          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
         }
       ],
-      "duration_ms": 339826,
-      "name": "Secret Affair",
-      "url": "https://open.spotify.com/track/06gw3rpzTWZjqe0ff8y2kN"
-    },
-    {
-      "added_at": "2024-06-24 12:31:35",
-      "album": {
-        "name": "Whisper",
-        "url": "https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g"
-      },
-      "artists": [
-        {
-          "name": "Marion Meadows",
-          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
-        }
-      ],
-      "duration_ms": 256295,
-      "name": "Whisper",
-      "url": "https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY"
+      "duration_ms": 179250,
+      "name": "Do not disturb",
+      "url": "https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE"
     },
     {
       "added_at": "2024-06-24 12:31:35",
@@ -759,6 +739,22 @@
     {
       "added_at": "2024-06-24 12:31:35",
       "album": {
+        "name": "Dressed To Chill",
+        "url": "https://open.spotify.com/album/19oObbehmZIBxRB0lxfxXg"
+      },
+      "artists": [
+        {
+          "name": "Marion Meadows",
+          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
+        }
+      ],
+      "duration_ms": 241386,
+      "name": "Dressed To Chill",
+      "url": "https://open.spotify.com/track/5yEoj9jfZcq2i31RfGIGUk"
+    },
+    {
+      "added_at": "2024-06-24 12:31:35",
+      "album": {
         "name": "Working Buttons",
         "url": "https://open.spotify.com/album/1mVGzvC6G2EyX4uVMFuUfe"
       },
@@ -771,6 +767,26 @@
       "duration_ms": 270025,
       "name": "Working Buttons",
       "url": "https://open.spotify.com/track/2KVOhGRZ4TjY3cXnnt40nn"
+    },
+    {
+      "added_at": "2024-06-24 12:31:35",
+      "album": {
+        "name": "It's On Tonight",
+        "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        },
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "duration_ms": 339826,
+      "name": "Secret Affair",
+      "url": "https://open.spotify.com/track/06gw3rpzTWZjqe0ff8y2kN"
     },
     {
       "added_at": "2024-06-24 12:31:35",
@@ -791,22 +807,6 @@
     {
       "added_at": "2024-06-24 12:31:35",
       "album": {
-        "name": "Emily",
-        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Everett",
-          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
-        }
-      ],
-      "duration_ms": 219752,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/1THYlGUnGESGfmZWLW11C6"
-    },
-    {
-      "added_at": "2024-06-24 12:31:35",
-      "album": {
         "name": "Force Field",
         "url": "https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 309826,
       "name": "Revelation Of The Heart",
       "url": "https://open.spotify.com/track/6aYepV7d90JzmFI4sJLYfv"
+    },
+    {
+      "added_at": "2024-06-24 12:31:35",
+      "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Everett",
+          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
+        }
+      ],
+      "duration_ms": 219752,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/1THYlGUnGESGfmZWLW11C6"
     },
     {
       "added_at": "2024-06-24 12:31:35",
@@ -839,38 +855,6 @@
     {
       "added_at": "2024-06-24 12:31:35",
       "album": {
-        "name": "Divine Morning",
-        "url": "https://open.spotify.com/album/4sR1UNCsD2Q8wrNPCh80jS"
-      },
-      "artists": [
-        {
-          "name": "Delorme & Co",
-          "url": "https://open.spotify.com/artist/3SHdVmPB4OnBpkkme0OP4W"
-        }
-      ],
-      "duration_ms": 213813,
-      "name": "Divine Morning",
-      "url": "https://open.spotify.com/track/76NCiXYW0Be1Cxgi6tXXX7"
-    },
-    {
-      "added_at": "2024-06-24 12:31:35",
-      "album": {
-        "name": "Dressed To Chill",
-        "url": "https://open.spotify.com/album/19oObbehmZIBxRB0lxfxXg"
-      },
-      "artists": [
-        {
-          "name": "Marion Meadows",
-          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
-        }
-      ],
-      "duration_ms": 241386,
-      "name": "Dressed To Chill",
-      "url": "https://open.spotify.com/track/5yEoj9jfZcq2i31RfGIGUk"
-    },
-    {
-      "added_at": "2024-06-24 12:31:35",
-      "album": {
         "name": "Celebration",
         "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
       },
@@ -887,18 +871,18 @@
     {
       "added_at": "2024-06-24 12:31:35",
       "album": {
-        "name": "For Your Pleasure",
-        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
+        "name": "Divine Morning",
+        "url": "https://open.spotify.com/album/4sR1UNCsD2Q8wrNPCh80jS"
       },
       "artists": [
         {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+          "name": "Delorme & Co",
+          "url": "https://open.spotify.com/artist/3SHdVmPB4OnBpkkme0OP4W"
         }
       ],
-      "duration_ms": 258398,
-      "name": "I Feel You",
-      "url": "https://open.spotify.com/track/5yqw56hswQdEZofRcIOUhd"
+      "duration_ms": 213813,
+      "name": "Divine Morning",
+      "url": "https://open.spotify.com/track/76NCiXYW0Be1Cxgi6tXXX7"
     },
     {
       "added_at": "2024-06-24 12:31:35",
@@ -919,6 +903,22 @@
     {
       "added_at": "2024-06-24 12:31:35",
       "album": {
+        "name": "For Your Pleasure",
+        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 258398,
+      "name": "I Feel You",
+      "url": "https://open.spotify.com/track/5yqw56hswQdEZofRcIOUhd"
+    },
+    {
+      "added_at": "2024-06-24 12:31:35",
+      "album": {
         "name": "Third Wish",
         "url": "https://open.spotify.com/album/59rYARbQWHRi3wT19DwRA4"
       },
@@ -931,6 +931,22 @@
       "duration_ms": 280426,
       "name": "Third Wish",
       "url": "https://open.spotify.com/track/6nrafhMBvaXH9srTIk5Y6U"
+    },
+    {
+      "added_at": "2024-06-24 12:31:35",
+      "album": {
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Read Between the Lines",
+      "url": "https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY"
     },
     {
       "added_at": "2024-06-24 12:31:35",
@@ -951,22 +967,6 @@
       "duration_ms": 253815,
       "name": "Just One Wish",
       "url": "https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f"
-    },
-    {
-      "added_at": "2024-06-24 12:31:35",
-      "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Read Between the Lines",
-      "url": "https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY"
     },
     {
       "added_at": "2024-06-24 12:31:35",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-06-24 12:31:35",
       "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 277840,
-      "name": "Saturday Cool",
-      "url": "https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK"
-    },
-    {
-      "added_at": "2024-06-24 12:31:35",
-      "album": {
         "name": "My Inspiration",
         "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 266960,
       "name": "Old School",
       "url": "https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi"
+    },
+    {
+      "added_at": "2024-06-24 12:31:35",
+      "album": {
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 277840,
+      "name": "Saturday Cool",
+      "url": "https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK"
     },
     {
       "added_at": "2024-06-24 12:31:35",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-06-24 12:31:35",
       "album": {
-        "name": "Urban Knights III",
-        "url": "https://open.spotify.com/album/1eFckepvnMBzHnqKaHFOGZ"
-      },
-      "artists": [
-        {
-          "name": "Urban Knights",
-          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "You're The One For Me",
-      "url": "https://open.spotify.com/track/6HtsA6ZSbdaLoYswmXfPiM"
-    },
-    {
-      "added_at": "2024-06-24 12:31:35",
-      "album": {
         "name": "Ready to Play",
         "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 303973,
       "name": "Catnap",
       "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
+    },
+    {
+      "added_at": "2024-06-24 12:31:35",
+      "album": {
+        "name": "Urban Knights III",
+        "url": "https://open.spotify.com/album/1eFckepvnMBzHnqKaHFOGZ"
+      },
+      "artists": [
+        {
+          "name": "Urban Knights",
+          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "You're The One For Me",
+      "url": "https://open.spotify.com/track/6HtsA6ZSbdaLoYswmXfPiM"
     },
     {
       "added_at": "2024-06-24 12:31:35",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-06-24 12:31:35",
       "album": {
+        "name": "Another Door Opens",
+        "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
+      },
+      "artists": [
+        {
+          "name": "Jeff Kashiwa",
+          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
+        }
+      ],
+      "duration_ms": 284200,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES"
+    },
+    {
+      "added_at": "2024-06-24 12:31:35",
+      "album": {
         "name": "In The Moment",
         "url": "https://open.spotify.com/album/05h8p9mEdqwTApYGtR66Q6"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 325373,
       "name": "Night Calls",
       "url": "https://open.spotify.com/track/1VNSWg6Z0X0lPyBlCqVD7I"
-    },
-    {
-      "added_at": "2024-06-24 12:31:35",
-      "album": {
-        "name": "Another Door Opens",
-        "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
-      },
-      "artists": [
-        {
-          "name": "Jeff Kashiwa",
-          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
-        }
-      ],
-      "duration_ms": 284200,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES"
     },
     {
       "added_at": "2024-06-24 12:31:35",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-06-24 12:31:35",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
-      },
-      "artists": [
-        {
-          "name": "Dan Siegel",
-          "url": "https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd"
-        }
-      ],
-      "duration_ms": 332920,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/4fhmc1aqLwQuvd3gAyZONN"
-    },
-    {
-      "added_at": "2024-06-24 12:31:35",
-      "album": {
         "name": "Under The Influence",
         "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 305026,
       "name": "A Short Walk From Home",
       "url": "https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF"
+    },
+    {
+      "added_at": "2024-06-24 12:31:35",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
+      },
+      "artists": [
+        {
+          "name": "Dan Siegel",
+          "url": "https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd"
+        }
+      ],
+      "duration_ms": 332920,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/4fhmc1aqLwQuvd3gAyZONN"
     },
     {
       "added_at": "2024-06-24 12:31:35",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-06-24 12:31:35",
       "album": {
-        "name": "Melrose Avenue",
-        "url": "https://open.spotify.com/album/5E4dQbOoOdl3LQIKFWbuT0"
-      },
-      "artists": [
-        {
-          "name": "Melrose Avenue",
-          "url": "https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1"
-        }
-      ],
-      "duration_ms": 175930,
-      "name": "Melrose Avenue",
-      "url": "https://open.spotify.com/track/4uWBdsYOAqJhkfzpLWbEsA"
-    },
-    {
-      "added_at": "2024-06-24 12:31:35",
-      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/00D7sHveDqx8HwneqBVvq0"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 213946,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/7CezvnEL5FMOnbsRCgBiMy"
+    },
+    {
+      "added_at": "2024-06-24 12:31:35",
+      "album": {
+        "name": "Melrose Avenue",
+        "url": "https://open.spotify.com/album/5E4dQbOoOdl3LQIKFWbuT0"
+      },
+      "artists": [
+        {
+          "name": "Melrose Avenue",
+          "url": "https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1"
+        }
+      ],
+      "duration_ms": 175930,
+      "name": "Melrose Avenue",
+      "url": "https://open.spotify.com/track/4uWBdsYOAqJhkfzpLWbEsA"
     },
     {
       "added_at": "2024-06-24 12:31:35",

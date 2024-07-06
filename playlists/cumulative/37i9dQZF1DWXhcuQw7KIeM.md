@@ -4,7 +4,7 @@
 
 > From the very deep spirit of the almighty North\. Cover: The HU
 
-140 songs - 12 hr 30 min
+145 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,9 +19,11 @@
 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 | 2022-07-08 |  |
 | [Blodbylgje](https://open.spotify.com/track/49vfzNh1RARoPNcDDIAGLf) | [Kati Ran](https://open.spotify.com/artist/6Ug5CwD7oxSB5WNQH69NUJ), [Gaahls WYRD](https://open.spotify.com/artist/7h8V7XHdJ3akShW3uFaZyn) | [Blodbylgje](https://open.spotify.com/album/5SrSRDf01IzfQGJ4yKrGJn) | 15:22 | 2022-05-13 | 2024-04-17 |
 | [Blot](https://open.spotify.com/track/0YYZwCwlj4LVEsQxPPJJmf) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Blot](https://open.spotify.com/album/1ADhesMd0cTTjL8Vv44Idf) | 5:13 | 2024-05-03 |  |
+| [Breaking from the Fold](https://open.spotify.com/track/6UKKQXlf8CC719Ra5LlCfv) | [Triddana](https://open.spotify.com/artist/0roc2y8jlLS01zexM1Uumb) | [Breaking from the Fold](https://open.spotify.com/album/6QCAQYvJvxs6CxKij68p1F) | 4:02 | 2024-07-05 |  |
 | [Crystalline](https://open.spotify.com/track/40Wmu8qja6oJYzDsZ4jek5) | [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [Crystalline](https://open.spotify.com/album/4qhT2L4SCZdvBz51rkdJ6u) | 5:48 | 2024-04-16 |  |
 | [Dagar eru Taldir \- Days Are Numbered](https://open.spotify.com/track/3KT52834YTKYqxMS3Uus55) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: The Wave of Giants \(Original Soundtrack\)](https://open.spotify.com/album/7hBdpuRzven4G0UHw8bnnl) | 4:06 | 2022-05-13 | 2023-02-12 |
 | [Dagar eru Taldir \- Days Are Numbered](https://open.spotify.com/track/1LEulFdOhyD0t2VPgQydEK) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed Valhalla: The Wave of Giants \(Original Soundtrack\)](https://open.spotify.com/album/29v92y2nqpfhWNe4thAsBw) | 4:06 | 2022-12-01 | 2024-04-17 |
+| [Der Himmel muss warten](https://open.spotify.com/track/0FRAUkJtl4bn92ySux8EEg) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw) | [Der Himmel muss warten](https://open.spotify.com/album/43Q7gDUQETLoJmJLDa4LhF) | 2:23 | 2024-07-05 |  |
 | [Dronning Ellisiv](https://open.spotify.com/track/5QdO7aRLZEUhwti8gTM0qW) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Dronning Ellisiv](https://open.spotify.com/album/1VQkQ1tkn5lIVXTG1QjpEZ) | 4:32 | 2022-05-13 | 2024-04-17 |
 | [Ella](https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Ella](https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9) | 3:54 | 2022-05-13 |  |
 | [Ethel](https://open.spotify.com/track/2kDFEgMbmQ0rmt1mAeI7fp) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [Ethel](https://open.spotify.com/album/4IbI4W9JAiPWXUMFmkXjVG) | 3:39 | 2024-04-16 |  |
@@ -71,6 +73,7 @@
 | [Lorn and Loath](https://open.spotify.com/track/73qYS0GZUcEwTagjlHt3Jd) | [Wolcensmen](https://open.spotify.com/artist/2valAzrV6xeHL0weVnIAp8) | [Lorn and Loath](https://open.spotify.com/album/4cAXLQhqL9YpxktpvuuFTF) | 7:35 | 2022-10-07 | 2022-11-13 |
 | [Lorn and Loath](https://open.spotify.com/track/7dEaI9CRR47tyamPx1lBfP) | [Wolcensmen](https://open.spotify.com/artist/2valAzrV6xeHL0weVnIAp8) | [Lorn and Loath](https://open.spotify.com/album/0jpbUfolUgPX3H4FKHdUSf) | 7:35 | 2022-05-13 |  |
 | [Mandara](https://open.spotify.com/track/5U0awMJOLy123ikEFUIfHt) | [Vas](https://open.spotify.com/artist/7bUGU28qbm4vGTSrha1H55) | [Feast Of Silence](https://open.spotify.com/album/1QTNlTne1hb0WHJe0sF6K4) | 6:23 | 2022-05-13 |  |
+| [Midvinter](https://open.spotify.com/track/1qlSpiCwjxCsD2VVWpJV1H) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Midvinter](https://open.spotify.com/album/6OPbBT3bjSX3Md6lPIznjy) | 6:32 | 2024-07-05 |  |
 | [Norupo](https://open.spotify.com/track/6HptVLMwjkTcwjDi4Tq6if) | [Heilung](https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ) | [Norupo](https://open.spotify.com/album/2dqDsdWvvKA1CDHcD3UwFc) | 4:17 | 2022-05-13 |  |
 | [Norðrljós](https://open.spotify.com/track/0Sjps7HTP1MUPUXqBMXTt0) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Norðrljós](https://open.spotify.com/album/4UC8HNvhmz0b0ZspOcbmCa) | 3:20 | 2022-05-13 |  |
 | [Oraakkelit](https://open.spotify.com/track/1xPcaGTkI1OaK3Zjxvy0hX) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Oraakkelit](https://open.spotify.com/album/50yrNdmIunYGqarLPxAF07) | 3:12 | 2024-04-16 |  |
@@ -85,6 +88,7 @@
 | [Rún](https://open.spotify.com/track/1MjMpqiHCPQdPUdG44P2U4) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [SKÁLD](https://open.spotify.com/album/7IjcTZQThdCKOl7DYvX0Zu) | 2:40 | 2022-10-07 | 2022-11-13 |
 | [Rún](https://open.spotify.com/track/34hYH6o60RtUv5u5UUgnd0) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Vikings Chant \(Alfar Fagrahvél Edition\)](https://open.spotify.com/album/3yapZbvOcHcqs4vH0VPfgF) | 2:40 | 2022-07-08 | 2024-04-19 |
 | [Rún](https://open.spotify.com/track/4YmSk5JhkXdiG0LbQgjXma) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Vikings Chant](https://open.spotify.com/album/2lA9qxoicTpczW6FyCySzH) | 2:40 | 2022-05-13 |  |
+| [Saga of the North](https://open.spotify.com/track/5YuyHtVMCHDEcaNGgiTQOL) | [Tokt](https://open.spotify.com/artist/01CEsyk6W2k8Pgw5TrEty0) | [Tales from the North](https://open.spotify.com/album/3BG4tlGVST1q4yrHshwHLx) | 3:32 | 2024-07-05 |  |
 | [Seidfylgjur](https://open.spotify.com/track/0kyH6SWNBMNnBiK8R15dwl) | [Rúnahild](https://open.spotify.com/artist/6B28AjXpmQglsDG2hHAwg3) | [Seidfylgjur](https://open.spotify.com/album/6gFf0gVsTsA1gB3d1Whj8e) | 4:20 | 2022-05-13 |  |
 | [Shaman of Chaos](https://open.spotify.com/track/4Cf003BdpXLECiZWAa44wS) | [OMNIA](https://open.spotify.com/artist/6frUTw3CamrF5NAGaQchBS) | [Reflexions](https://open.spotify.com/album/5xjBih5IE6cz9tgayGPeXR) | 4:11 | 2022-05-13 |  |
 | [Shelter](https://open.spotify.com/track/2WBybEifpPpXx38HUUegV5) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Shelter](https://open.spotify.com/album/1mznHNl2GKfIdiZYZThVsM) | 4:39 | 2024-04-16 |  |
@@ -106,6 +110,7 @@
 | [Sun and the Morning Star](https://open.spotify.com/track/5UcGAYuUcxiGt7Wc2SwWBu) | [Romuvos](https://open.spotify.com/artist/0GlwrXB5cmvWo091lMFeud) | [Sun and the Morning Star](https://open.spotify.com/album/5Lg1rhYDzoYgL6XFEnHnKA) | 5:23 | 2024-04-16 |  |
 | [Sven i Rosengård](https://open.spotify.com/track/1n8xLLvELDH8wmroa1hm1H) | [Garmarna](https://open.spotify.com/artist/7ED7dE68y0YZGpyXcuiRsI) | [Förbundet](https://open.spotify.com/album/6HTeDbq8HlLFE78im6CjyV) | 5:24 | 2022-05-13 | 2024-04-17 |
 | [Sverker \- Era Metallum \- Single Edit](https://open.spotify.com/track/0m5hkGREyOS3xm0KfMT5tl) | [Corvus Corax](https://open.spotify.com/artist/0Qeg2Ytz5AcfvkIO3RYV3z), [SAMI YLI\-SIRNIO](https://open.spotify.com/artist/5OpE2VHSQsDY77cYQ6uueg) | [Sverker](https://open.spotify.com/album/5XLWLeptNhENo0uAY6UPxa) | 3:46 | 2022-05-13 |  |
+| [SÁLA](https://open.spotify.com/track/3XBG05K4XT1lFiiJkmYhwB) | [Kati Ran](https://open.spotify.com/artist/6Ug5CwD7oxSB5WNQH69NUJ), [Karl Seglem](https://open.spotify.com/artist/0byRdidl3crTKAt9Kj4iuS), [Gaahls WYRD](https://open.spotify.com/artist/7h8V7XHdJ3akShW3uFaZyn), [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM), [Umbra](https://open.spotify.com/artist/5A8VWvvbZf5S9M7vZJWf3S), [Emilie Lorentzen](https://open.spotify.com/artist/2rDUs552em1yNX7FQEFzyd) | [SÁLA](https://open.spotify.com/album/2jWTe1EO0Xbg5ylm8T0t53) | 6:47 | 2024-07-05 |  |
 | [The Elm](https://open.spotify.com/track/6kGb58FphWqHUAbDQyw72G) | [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [Lunar Falls](https://open.spotify.com/album/1HUzttzwHcJeFyIBGeLXL3) | 3:30 | 2022-05-13 |  |
 | [The Empire of Winds](https://open.spotify.com/track/2mg3b0qMy3z8aFZ08kT3U2) | [Alpine Universe](https://open.spotify.com/artist/2p2f0IoFel8v0mdBqGsw1C) | [The Empire of Winds \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4yfCaNi6PU9euTYdQFAnjk) | 3:04 | 2022-05-13 |  |
 | [The Legend of Mother Swan](https://open.spotify.com/track/0q8qLv0DTVWKkOS0R510Pg) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [The Gereg](https://open.spotify.com/album/6YIA45KnCATXRzPFOeA9S8) | 5:25 | 2022-05-13 | 2022-07-08 |
