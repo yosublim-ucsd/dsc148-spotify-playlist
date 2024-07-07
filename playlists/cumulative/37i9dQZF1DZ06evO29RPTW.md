@@ -2,7 +2,7 @@
 
 ### [This Is Rob Zombie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO29RPTW)
 
-> This is Rob Zombie\. The essential tracks, all in one playlist.
+> This Is Rob Zombie\. Los temas esenciales, todos en una lista.
 
 74 songs - 4 hr 13 min
 
@@ -36,7 +36,7 @@
 | [Iron Head](https://open.spotify.com/track/1BTpL8k7DytUPa2sNYs53P) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 4:11 | 2022-05-30 |  |
 | [It’s Zombo \(The Zombo Theme\) \[from The Munsters\]](https://open.spotify.com/track/2luJh9EXFMCFg8mxpa0eJ0) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [It's Zombo \(from The Munsters\)](https://open.spotify.com/album/209c4mdbIVBfTit9V3GDc7) | 1:18 | 2022-08-02 | 2022-09-22 |
 | [Let It All Bleed Out](https://open.spotify.com/track/2pdD9sxt4WuYADKACM2JYN) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 4:09 | 2022-05-30 |  |
-| [Living Dead Girl](https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:21 | 2022-05-30 | 2024-07-06 |
+| [Living Dead Girl](https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:21 | 2022-05-30 |  |
 | [Lords Of Salem](https://open.spotify.com/track/1TWYm9bNuRT8m8IrSmSDfN) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 4:13 | 2022-05-30 |  |
 | [Lucifer Rising](https://open.spotify.com/track/6mlkXrADJObRQXMPVBWFV0) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:18 | 2022-05-30 |  |
 | [Medication For The Melancholy](https://open.spotify.com/track/0868aqEdMFPsiD5jR14BlE) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:26 | 2022-05-30 |  |
@@ -44,7 +44,7 @@
 | [Michael](https://open.spotify.com/track/6t2rkfinBDuh0SK1lHcjuF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Special Edition\)](https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB) | 3:27 | 2022-06-12 | 2023-03-07 |
 | [More Human Than Human \- Live](https://open.spotify.com/track/7rnmG4RgR9knQExnkgglL3) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Spookshow International Live](https://open.spotify.com/album/54qVAHjV4zSX0Ofvsl2aGI) | 4:26 | 2022-05-30 | 2022-10-19 |
 | [Never Gonna Stop \(The Red, Red Kroovy\)](https://open.spotify.com/track/4P4V9JQhiQEP9hr4U33lEY) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:09 | 2022-05-30 |  |
-| [Perversion 99](https://open.spotify.com/track/6kT2VCmHwlASVk9iyZrKj8) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 1:43 | 2024-05-15 |  |
+| [Perversion 99](https://open.spotify.com/track/6kT2VCmHwlASVk9iyZrKj8) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 1:43 | 2024-05-15 | 2024-07-07 |
 | [Pussy Liquor](https://open.spotify.com/track/03VzAAMs5PrLM42XR7ijuc) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 4:46 | 2022-05-30 |  |
 | [Real Solution \#9 \- Live At Riot Fest / 2016](https://open.spotify.com/track/6tbM7PdCTV8QBNzGyykUSM) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Astro\-Creep: 2000 Live \- Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head \(Live At Riot Fest\)](https://open.spotify.com/album/0gUwZR11HJJYAHo47RGvsY) | 4:32 | 2023-01-02 | 2023-01-07 |
 | [Reload](https://open.spotify.com/track/2Ntobm6ecJ9wm3kcNql3qa) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Charlie Clouser](https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf) | [The Matrix Reloaded: The Album](https://open.spotify.com/album/4iLPd0Abb4S96sB2QEz2bl) | 4:25 | 2022-05-30 |  |

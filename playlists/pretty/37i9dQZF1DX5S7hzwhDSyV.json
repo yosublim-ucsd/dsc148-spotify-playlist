@@ -1,6 +1,6 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 112496,
+  "num_followers": 112560,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
+        "name": "Coltrane's Sound",
+        "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 411293,
+      "name": "The Night Has a Thousand Eyes",
+      "url": "https://open.spotify.com/track/5rVVbOL9bl2RmAh9aNqPp8"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
         "name": "Saxophone Colossus",
         "url": "https://open.spotify.com/album/0yodD8uAkAT5UmrlF2xy97"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 387480,
       "name": "You Don't Know What Love Is - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/4F8h9jXJBeuSRQSlo6owwL"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
-        "name": "Coltrane's Sound",
-        "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 411293,
-      "name": "The Night Has a Thousand Eyes",
-      "url": "https://open.spotify.com/track/5rVVbOL9bl2RmAh9aNqPp8"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "Jazz 'Round Midnight",
-        "url": "https://open.spotify.com/album/7pFxr8Y8sqlALBW2mg1AUr"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 399000,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/6i5EWjhdORPYWGyYVHfhxE"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 199573,
       "name": "I Can't Give You Anything But Love",
       "url": "https://open.spotify.com/track/2Bu0UMTRHqwEQlXzHl6wQr"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
+        "name": "Jazz 'Round Midnight",
+        "url": "https://open.spotify.com/album/7pFxr8Y8sqlALBW2mg1AUr"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 399000,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/6i5EWjhdORPYWGyYVHfhxE"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "Moon Beams [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc"
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
       },
       "artists": [
         {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 365666,
-      "name": "It Might As Well Be Spring",
-      "url": "https://open.spotify.com/track/2ErJ9mgDw6dh8IOT1Ovd0a"
+      "duration_ms": 330733,
+      "name": "I Love You - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/3WC3GPIxGaFeWhsEFSVMDC"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+        "name": "Moon Beams [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
         }
       ],
-      "duration_ms": 330733,
-      "name": "I Love You - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/3WC3GPIxGaFeWhsEFSVMDC"
+      "duration_ms": 365666,
+      "name": "It Might As Well Be Spring",
+      "url": "https://open.spotify.com/track/2ErJ9mgDw6dh8IOT1Ovd0a"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
+        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 339160,
+      "name": "Our Love Is Here To Stay - Rudy Van Gelder Edition / 2003 Remaster",
+      "url": "https://open.spotify.com/track/3WBOCI8zM5SKfTXq41wM4e"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
         "name": "Our Man In Jazz",
         "url": "https://open.spotify.com/album/0RlZm6d9pRFza05C7pY28T"
       },
@@ -1627,18 +1643,18 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
+        "name": "Small Groups: 1941-1945",
+        "url": "https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Benny Goodman Quintet",
+          "url": "https://open.spotify.com/artist/1IIqlqFBKcgfsY0KOfe3vq"
         }
       ],
-      "duration_ms": 339160,
-      "name": "Our Love Is Here To Stay - Rudy Van Gelder Edition / 2003 Remaster",
-      "url": "https://open.spotify.com/track/3WBOCI8zM5SKfTXq41wM4e"
+      "duration_ms": 183160,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/4leHEk0wS3rLsdfHz3ZItX"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -1671,22 +1687,6 @@
       "duration_ms": 267053,
       "name": "Do Nothing Till You Hear From Me",
       "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
-        "name": "Small Groups: 1941-1945",
-        "url": "https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman Quintet",
-          "url": "https://open.spotify.com/artist/1IIqlqFBKcgfsY0KOfe3vq"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/4leHEk0wS3rLsdfHz3ZItX"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
+        "name": "Boss Guitar [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/2bpF4FOmTyBanTjzPfwv6Y"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 291826,
+      "name": "Dearly Beloved",
+      "url": "https://open.spotify.com/track/3ZBsbQOqGJWUpApbCXiQkU"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
         "name": "Another Workout",
         "url": "https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji"
       },
@@ -1771,18 +1787,18 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "Boss Guitar [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/2bpF4FOmTyBanTjzPfwv6Y"
+        "name": "The Jazz Messengers",
+        "url": "https://open.spotify.com/album/3pz0v3v5f96GUBfwZ6pbrX"
       },
       "artists": [
         {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
         }
       ],
-      "duration_ms": 291826,
-      "name": "Dearly Beloved",
-      "url": "https://open.spotify.com/track/3ZBsbQOqGJWUpApbCXiQkU"
+      "duration_ms": 333493,
+      "name": "It's You or No One",
+      "url": "https://open.spotify.com/track/5XVsNByeqX0YN2VBpw0dVW"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -1803,22 +1819,6 @@
       "duration_ms": 237333,
       "name": "You Took Advantage Of Me",
       "url": "https://open.spotify.com/track/1QpoiqlsaMLOfxfcnjIpuy"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
-        "name": "The Jazz Messengers",
-        "url": "https://open.spotify.com/album/3pz0v3v5f96GUBfwZ6pbrX"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        }
-      ],
-      "duration_ms": 333493,
-      "name": "It's You or No One",
-      "url": "https://open.spotify.com/track/5XVsNByeqX0YN2VBpw0dVW"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "Take Five: Jazz Classics",
-        "url": "https://open.spotify.com/album/09e1nOPpppExp0qwaiotQ3"
-      },
-      "artists": [
-        {
-          "name": "Teddy Wilson Trio",
-          "url": "https://open.spotify.com/artist/098w47IvmZRjaDsfkzIKO7"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Someone to Watch Over Me",
-      "url": "https://open.spotify.com/track/7m00AecmzNV4J4XPMFT7tw"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
         "name": "Julian \"Cannonball\" Adderley",
         "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 253133,
       "name": "The Song Is You",
       "url": "https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
+        "name": "Take Five: Jazz Classics",
+        "url": "https://open.spotify.com/album/09e1nOPpppExp0qwaiotQ3"
+      },
+      "artists": [
+        {
+          "name": "Teddy Wilson Trio",
+          "url": "https://open.spotify.com/artist/098w47IvmZRjaDsfkzIKO7"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Someone to Watch Over Me",
+      "url": "https://open.spotify.com/track/7m00AecmzNV4J4XPMFT7tw"
     },
     {
       "added_at": "2024-03-20 12:33:02",

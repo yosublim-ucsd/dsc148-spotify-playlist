@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-22",
-  "description": "This is Filipe Ret. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
   "name": "This Is Filipe Ret",
   "tracks": [
     {
@@ -1463,6 +1463,56 @@
     },
     {
       "album": {
+        "name": "Poesia Ac\u00fastica #9 Melhor Forma",
+        "url": "https://open.spotify.com/album/0qv2YZ17FLtrzkO3TbwOBr"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 611076,
+      "name": "Poesia Ac\u00fastica #9 Melhor Forma",
+      "url": "https://open.spotify.com/track/3NqKRuFQjTFXYKimFXlMwt"
+    },
+    {
+      "album": {
         "name": "Poesia Ac\u00fastica #9: Melhor Forma",
         "url": "https://open.spotify.com/album/6drqaBLJWKqoNlKvOQeBTm"
       },
@@ -1506,7 +1556,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 611076,
       "name": "Poesia Ac\u00fastica #9: Melhor Forma",
       "url": "https://open.spotify.com/track/2fmeSswdyVq4wcqhY41UHk"

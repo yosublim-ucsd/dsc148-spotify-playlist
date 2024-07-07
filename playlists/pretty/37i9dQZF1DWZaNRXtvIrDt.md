@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. <br/>Cover: SBTRKT
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,283 likes - 79 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,291 likes - 79 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 25 | [Love Divide \- Bubble Love Remix](https://open.spotify.com/track/77xrEjHvl3b8MEiUU5aMSn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF), [Bubble Love](https://open.spotify.com/artist/0Uu5MoqXbYYsMb6HLw0X62) | [Love Divide / The Knife \(Bubble Love Remixes\)](https://open.spotify.com/album/48a5z32orq8hPAIIyDfQzp) | 6:27 |
 | 26 | [Treat Each Other Right](https://open.spotify.com/track/52GJf3163rfoCtjOvCe85K) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Treat Each Other Right](https://open.spotify.com/album/4eLKazdPS6o3AFEtoIZS1B) | 4:00 |
 | 27 | [Mode](https://open.spotify.com/track/3XW62ETNAoGsqc5MEMo9Fp) | [Cotto](https://open.spotify.com/artist/2Ui5BC3xnA4YiR77xb7XOr) | [Mode](https://open.spotify.com/album/40S2DhtJltGx3nVvi1JoTU) | 6:27 |
-| 28 | [Nasty \- Match My Peak Remix](https://open.spotify.com/track/2izTSBSDm9dEHojdOaZD1j) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Match My Freak EP](https://open.spotify.com/album/1tDRvPJmMJhvYXbmVNMAXJ) | 2:39 |
+| 28 | [Nasty \(Match My Peak Remix\)](https://open.spotify.com/track/2izTSBSDm9dEHojdOaZD1j) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Match My Freak EP](https://open.spotify.com/album/1tDRvPJmMJhvYXbmVNMAXJ) | 2:39 |
 | 29 | [1000 FACES](https://open.spotify.com/track/6N782SRelKTC2FXbLfNELm) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [New World Expression](https://open.spotify.com/album/55y5C1yYu8dxG9833arfkP) | 5:54 |
 | 30 | [sorryimlate](https://open.spotify.com/track/4Ri0FsZdmSmnMUQKmwBrXO) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [sorryimlate](https://open.spotify.com/album/4gvLG8xFUqsVL6HjE8BuMC) | 2:35 |
 | 31 | [Spine](https://open.spotify.com/track/6IZBSemFcZQfKiNsFY12Ac) | [Brad Mullins](https://open.spotify.com/artist/5yGxsoA0P5Era0ha3F6kBd) | [Spine](https://open.spotify.com/album/7vnHGPZIyLuSo1O20kvOji) | 4:11 |

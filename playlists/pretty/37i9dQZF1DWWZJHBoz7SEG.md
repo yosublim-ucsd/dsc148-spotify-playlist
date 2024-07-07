@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Verano de copas ⚽️🏆 Musica Nueva🕺Verano, no te acabes nunca ✨ Banda MS y Alfredito Olivas en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,663 likes - 53 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,987 likes - 53 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

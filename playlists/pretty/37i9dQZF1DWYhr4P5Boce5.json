@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 203351,
+  "num_followers": 203362,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Somebody Loves You",
-        "url": "https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/7HZ71xA72mMAj94NH7suWy"
-        }
-      ],
-      "duration_ms": 191944,
-      "name": "Somebody Loves You",
-      "url": "https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Hold Me Close",
         "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 148800,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Somebody Loves You",
+        "url": "https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/7HZ71xA72mMAj94NH7suWy"
+        }
+      ],
+      "duration_ms": 191944,
+      "name": "Somebody Loves You",
+      "url": "https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf"
-      },
-      "artists": [
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 222918,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "You Are My Love",
         "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 203120,
       "name": "You Are My Love",
       "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 222918,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Colton Dixon",
-        "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
+        "name": "Britt Nicole (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM"
       },
       "artists": [
         {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+          "name": "Britt Nicole",
+          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
         }
       ],
-      "duration_ms": 200538,
-      "name": "Can't Quit You",
-      "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
+      "duration_ms": 251106,
+      "name": "Fallin In Love",
+      "url": "https://open.spotify.com/track/6lSKrLc95qy97lCE6CXSZb"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Britt Nicole (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM"
+        "name": "Colton Dixon",
+        "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
       },
       "artists": [
         {
-          "name": "Britt Nicole",
-          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
         }
       ],
-      "duration_ms": 251106,
-      "name": "Fallin In Love",
-      "url": "https://open.spotify.com/track/6lSKrLc95qy97lCE6CXSZb"
+      "duration_ms": 200538,
+      "name": "Can't Quit You",
+      "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "What a Heart Is Beating For",
+        "url": "https://open.spotify.com/album/4lFRCkeRRBG4nnzmeckIyU"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/11S5G8taDSpsUiGYP4lKxm"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Till I Found You",
         "url": "https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 206999,
       "name": "Till I Found You",
       "url": "https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "What a Heart Is Beating For",
-        "url": "https://open.spotify.com/album/4lFRCkeRRBG4nnzmeckIyU"
-      },
-      "artists": [
-        {
-          "name": "Chris Rice",
-          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/11S5G8taDSpsUiGYP4lKxm"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "fall (when we fell in love)",
-        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
-      },
-      "artists": [
-        {
-          "name": "Xander Sallows",
-          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
-        }
-      ],
-      "duration_ms": 157990,
-      "name": "fall (when we fell in love)",
-      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Love You, Still",
         "url": "https://open.spotify.com/album/5fYsh7JcLm4oIA5N5dkG1f"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 307000,
       "name": "Love You, Still",
       "url": "https://open.spotify.com/track/7hsWnD0nwuMp9hRACCtdm8"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "fall (when we fell in love)",
+        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
+      },
+      "artists": [
+        {
+          "name": "Xander Sallows",
+          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
+        }
+      ],
+      "duration_ms": 157990,
+      "name": "fall (when we fell in love)",
+      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2071,26 +2071,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Warm",
-        "url": "https://open.spotify.com/album/3OuRCknIWadGRarsOyhdgC"
-      },
-      "artists": [
-        {
-          "name": "AO1 Collective",
-          "url": "https://open.spotify.com/artist/7B1PFNIplX3KFKPizcl8e5"
-        },
-        {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Warm",
-      "url": "https://open.spotify.com/track/5spzlJAr9QnRzkF0kJhGhv"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Holding On To You",
         "url": "https://open.spotify.com/album/687m8cBc9UYAT9iH6Jv6Xw"
       },
@@ -2111,6 +2091,26 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "Warm",
+        "url": "https://open.spotify.com/album/3OuRCknIWadGRarsOyhdgC"
+      },
+      "artists": [
+        {
+          "name": "AO1 Collective",
+          "url": "https://open.spotify.com/artist/7B1PFNIplX3KFKPizcl8e5"
+        },
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Warm",
+      "url": "https://open.spotify.com/track/5spzlJAr9QnRzkF0kJhGhv"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "HOW DOES IT FEEL",
         "url": "https://open.spotify.com/album/6b5axnC9yBEz1jrtV9kzpB"
       },
@@ -2123,6 +2123,22 @@
       "duration_ms": 168400,
       "name": "HOW DOES IT FEEL",
       "url": "https://open.spotify.com/track/0I5Z4qbYI7D3BSyTmnyNxG"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Day 1",
+        "url": "https://open.spotify.com/album/62toDLoNV7Z0Glh8BGuPis"
+      },
+      "artists": [
+        {
+          "name": "DJ Mal-Ski",
+          "url": "https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Day 1",
+      "url": "https://open.spotify.com/track/4sLYab7HPkBmFw6KnO4GU0"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2143,22 +2159,6 @@
       "duration_ms": 166000,
       "name": "Copacetic",
       "url": "https://open.spotify.com/track/4Ruz004Up9H5sPPeLs7JLe"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Day 1",
-        "url": "https://open.spotify.com/album/62toDLoNV7Z0Glh8BGuPis"
-      },
-      "artists": [
-        {
-          "name": "DJ Mal-Ski",
-          "url": "https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Day 1",
-      "url": "https://open.spotify.com/track/4sLYab7HPkBmFw6KnO4GU0"
     },
     {
       "added_at": "2024-02-05 17:58:02",

@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9799,
+  "num_followers": 9798,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-06-05 03:49:47",
       "album": {
+        "name": "something between us (Romance 101 X george)",
+        "url": "https://open.spotify.com/album/21ekeU23kDA3zUhB4pXTLv"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 248076,
+      "name": "something between us (Romance 101 X george)",
+      "url": "https://open.spotify.com/track/6VmavOAnMepekIwArBoEEH"
+    },
+    {
+      "added_at": "2024-06-05 03:49:47",
+      "album": {
         "name": "Ordinary Love",
         "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 232866,
       "name": "Ordinary Love",
       "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
-    },
-    {
-      "added_at": "2024-06-05 03:49:47",
-      "album": {
-        "name": "something between us (Romance 101 X george)",
-        "url": "https://open.spotify.com/album/21ekeU23kDA3zUhB4pXTLv"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 248076,
-      "name": "something between us (Romance 101 X george)",
-      "url": "https://open.spotify.com/track/6VmavOAnMepekIwArBoEEH"
     },
     {
       "added_at": "2024-06-05 03:49:47",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-06-05 03:49:47",
       "album": {
-        "name": "Love.zip",
-        "url": "https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 188013,
-      "name": "FRIEND THE END",
-      "url": "https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb"
-    },
-    {
-      "added_at": "2024-06-05 03:49:47",
-      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/23Z11DRgeIQQhsNJWSuxKq"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 205773,
       "name": "Natural",
       "url": "https://open.spotify.com/track/6NTqjlA3cY297AfumSxm2o"
+    },
+    {
+      "added_at": "2024-06-05 03:49:47",
+      "album": {
+        "name": "Love.zip",
+        "url": "https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "FRIEND THE END",
+      "url": "https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb"
     },
     {
       "added_at": "2024-06-05 03:49:47",
@@ -523,26 +523,6 @@
     {
       "added_at": "2024-06-05 03:49:47",
       "album": {
-        "name": "Someday (feat. Ha Hyun Sang)",
-        "url": "https://open.spotify.com/album/5I3ukJ3aeVcoVy2Q6OWGPW"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        },
-        {
-          "name": "Ha Hyun Sang",
-          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Someday (feat. Ha Hyun Sang)",
-      "url": "https://open.spotify.com/track/3G4TbgDHUyMnt1RT3lZM66"
-    },
-    {
-      "added_at": "2024-06-05 03:49:47",
-      "album": {
         "name": "Before the Petals Fall",
         "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 170746,
       "name": "Say I Love U",
       "url": "https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H"
+    },
+    {
+      "added_at": "2024-06-05 03:49:47",
+      "album": {
+        "name": "Someday (feat. Ha Hyun Sang)",
+        "url": "https://open.spotify.com/album/5I3ukJ3aeVcoVy2Q6OWGPW"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Someday (feat. Ha Hyun Sang)",
+      "url": "https://open.spotify.com/track/3G4TbgDHUyMnt1RT3lZM66"
     },
     {
       "added_at": "2024-06-05 03:49:47",
@@ -639,26 +639,6 @@
     {
       "added_at": "2024-06-05 03:49:47",
       "album": {
-        "name": "NANGMAN",
-        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 212386,
-      "name": "Actor (Feat. pH-1)",
-      "url": "https://open.spotify.com/track/35vGPMlJwGQeBPzjJAZMW5"
-    },
-    {
-      "added_at": "2024-06-05 03:49:47",
-      "album": {
         "name": "What about (feat. PENOMECO)",
         "url": "https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 208690,
       "name": "What about (feat. PENOMECO)",
       "url": "https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd"
+    },
+    {
+      "added_at": "2024-06-05 03:49:47",
+      "album": {
+        "name": "NANGMAN",
+        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 212386,
+      "name": "Actor (Feat. pH-1)",
+      "url": "https://open.spotify.com/track/35vGPMlJwGQeBPzjJAZMW5"
     },
     {
       "added_at": "2024-06-05 03:49:47",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-06-05 03:49:47",
       "album": {
+        "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Something Precious",
+      "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"
+    },
+    {
+      "added_at": "2024-06-05 03:49:47",
+      "album": {
         "name": "izzana (Feat. OLNL)",
         "url": "https://open.spotify.com/album/0pVFUTRcXEnGA3d5BkPj6N"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 212693,
       "name": "izzana (Feat. OLNL)",
       "url": "https://open.spotify.com/track/3WZzMC6xb14FRUWcnWDL9b"
-    },
-    {
-      "added_at": "2024-06-05 03:49:47",
-      "album": {
-        "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Something Precious",
-      "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"
     },
     {
       "added_at": "2024-06-05 03:49:47",

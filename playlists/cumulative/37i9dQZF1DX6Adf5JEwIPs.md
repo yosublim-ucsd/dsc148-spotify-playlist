@@ -4,7 +4,7 @@
 
 > Lo más nuevo de la Música Mexicana\. Cover: Adriel Favela, Tito Double P, Juanchito
 
-5,369 songs - 11 day 15 hr 7 min
+5,370 songs - 11 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5277,6 +5277,7 @@
 | [Yo Creí](https://open.spotify.com/track/0cHAuuU7NVyHvcUIZyfEwT) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Yo Creí](https://open.spotify.com/album/4n7RnUYICgOT8chjn1sJpd) | 2:49 | 2022-12-09 | 2022-12-17 |
 | [Yo Estaba Solo \- En Vivo](https://open.spotify.com/track/0FJ4mVBV1D1TvXV4UFP12H) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Yo Estaba Solo \(En Vivo\)](https://open.spotify.com/album/0YVpggI6DRcIMGclrWWDYp) | 3:57 | 2022-07-29 | 2022-08-06 |
 | [Yo Fui El 4 De Los Antrax](https://open.spotify.com/track/6yWZvj6xQW6axcJtns5Cba) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Yo Fui El 4 De Los Antrax](https://open.spotify.com/album/7ygPV1gBmEI8nJinZpQ7Cn) | 3:09 | 2023-08-18 | 2023-08-26 |
+| [Yo Fui El Chore](https://open.spotify.com/track/4uw2bKb0xVZExmNU5DyKWo) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Yo Fui El Chore](https://open.spotify.com/album/4JmgmHfeedoSowGlj5DHSt) | 3:25 | 2024-07-05 |  |
 | [Yo Fui El Plebe \(Con Guitarras\)](https://open.spotify.com/track/48Jm7073qMrtoThTqHvdD7) | [Grupo Escolta](https://open.spotify.com/artist/4ZBmQM7663rZsb4Ir96awl) | [Yo Fui El Plebe \(Con Guitarras\)](https://open.spotify.com/album/1UKqUA49Sn8FkZ9CZbpbPW) | 3:17 | 2022-08-05 | 2022-08-13 |
 | [Yo Me Canse](https://open.spotify.com/track/1vKAPX2O6WZeeOiAMi08j9) | [Los Pimenteles](https://open.spotify.com/artist/5d6K5E4jQZHP3mzj6FekJS), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Yo Me Canse](https://open.spotify.com/album/1bGJMnxFopi5xeFk6tQ0Xp) | 3:19 | 2024-01-12 | 2024-01-20 |
 | [Yo Me Moriré \- En Vivo](https://open.spotify.com/track/4z6uCRcGMOw7I1dAcieRFW) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [Yo Me Moriré \(En Vivo\)](https://open.spotify.com/album/4sBLV3XFdt2ImZRkHo7r1t) | 4:03 | 2023-04-07 | 2023-04-15 |

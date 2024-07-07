@@ -7475,6 +7475,24 @@
     },
     {
       "album": {
+        "name": "Typical",
+        "url": "https://open.spotify.com/album/52EEYalE16TZY5EkdDr5zX"
+      },
+      "artists": [
+        {
+          "name": "Presley Regier",
+          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130738,
+      "name": "Typical",
+      "url": "https://open.spotify.com/track/5sGTgu8E6XIUcYX6KbAaW9"
+    },
+    {
+      "album": {
         "name": "Feed The Beast",
         "url": "https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA"
       },

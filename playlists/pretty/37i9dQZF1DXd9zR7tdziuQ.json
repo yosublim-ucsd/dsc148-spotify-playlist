@@ -1,6 +1,6 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 930627,
+  "num_followers": 930702,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "You Are My Sunshine",
-        "url": "https://open.spotify.com/album/5ueNN8xbGK6BMFnLjeiXUM"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 157868,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/5qMjtrGnezsafpH4oqg7oU"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "La Vie En Rose",
         "url": "https://open.spotify.com/album/3rU947MaPxzKjSSbx4cQjg"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 105500,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/0VxocBntP1XTZRsR9ZURPS"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "You Are My Sunshine",
+        "url": "https://open.spotify.com/album/5ueNN8xbGK6BMFnLjeiXUM"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 157868,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/5qMjtrGnezsafpH4oqg7oU"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Spotify Session",
-        "url": "https://open.spotify.com/album/3NW16XZ8U99Qm8E9v52UTz"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "I'm Not the Only One - Live from Spotify, London",
-      "url": "https://open.spotify.com/track/7wIYDzWW82O6Rc4vGuzjND"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "True Colours",
         "url": "https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 143706,
       "name": "True Colours",
       "url": "https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Spotify Session",
+        "url": "https://open.spotify.com/album/3NW16XZ8U99Qm8E9v52UTz"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "I'm Not the Only One - Live from Spotify, London",
+      "url": "https://open.spotify.com/track/7wIYDzWW82O6Rc4vGuzjND"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "It Aint me (Acoustic)",
-        "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 192545,
-      "name": "It Aint me - Acoustic",
-      "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "City of Stars",
         "url": "https://open.spotify.com/album/1TylOvw81vANdJBV5Fa3BU"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 154858,
       "name": "City of Stars",
       "url": "https://open.spotify.com/track/0KQnOjW6AP1LECHd18xjFj"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "It Aint me (Acoustic)",
+        "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 192545,
+      "name": "It Aint me - Acoustic",
+      "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Shallow",
-        "url": "https://open.spotify.com/album/6JlWkUQJQu2Py6G2zL1sLA"
-      },
-      "artists": [
-        {
-          "name": "The Hound + The Fox",
-          "url": "https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us"
-        }
-      ],
-      "duration_ms": 221712,
-      "name": "Shallow",
-      "url": "https://open.spotify.com/track/4q0v24VXobXe0kTLb46Xa9"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 174837,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Shallow",
+        "url": "https://open.spotify.com/album/6JlWkUQJQu2Py6G2zL1sLA"
+      },
+      "artists": [
+        {
+          "name": "The Hound + The Fox",
+          "url": "https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us"
+        }
+      ],
+      "duration_ms": 221712,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/4q0v24VXobXe0kTLb46Xa9"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -2023,8 +2023,8 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
       },
       "artists": [
         {
@@ -2032,9 +2032,9 @@
           "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
         }
       ],
-      "duration_ms": 194129,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
+      "duration_ms": 165697,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -2191,8 +2191,8 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
       },
       "artists": [
         {
@@ -2200,9 +2200,9 @@
           "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
         }
       ],
-      "duration_ms": 165697,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
+      "duration_ms": 194129,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
     },
     {
       "added_at": "2023-11-30 18:27:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 
 > <a></a>Celebrate the holiday season in style with this timeless playlist of Xmas favorites old and new! Merry Christmas, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul 🎄
 
-[Topsify](https://open.spotify.com/user/topsify) - 927,991 likes - 100 songs - 5 hr 16 min
+[Topsify](https://open.spotify.com/user/topsify) - 927,903 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

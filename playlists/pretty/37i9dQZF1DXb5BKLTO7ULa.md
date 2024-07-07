@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Davina Michelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,266 likes - 90 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,301 likes - 90 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 38 | [All Kinds Of People](https://open.spotify.com/track/5dOkvWdlRlKYvhM3MkD2Ai) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All Kinds Of People](https://open.spotify.com/album/1qrfKDFYVsll4mThf6pxqJ) | 2:47 |
 | 39 | [Got an Idea](https://open.spotify.com/track/3q6b1cke3QLZxxOzZtVp9I) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Got an Idea](https://open.spotify.com/album/6YrPlAqnQwhiKBZIl7qlSk) | 2:53 |
 | 40 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 |
-| 41 | [Heat Of The Moment](https://open.spotify.com/track/6VpR1Ddi97grQSLuHjh4dH) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Jurgen Vries](https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg), [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Destination](https://open.spotify.com/album/7oEm0ankzz0Is25YkrhUNu) | 3:06 |
+| 41 | [Heat Of The Moment](https://open.spotify.com/track/6VpR1Ddi97grQSLuHjh4dH) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem), [Jurgen Vries](https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Destination](https://open.spotify.com/album/7oEm0ankzz0Is25YkrhUNu) | 3:06 |
 | 42 | [Tamara](https://open.spotify.com/track/0iXHcWtw4npb2FPf6Gh5js) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Tamara](https://open.spotify.com/album/1Lsqnc5hGVO25f0DPh8PgD) | 3:26 |
 | 43 | [My World](https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [My World](https://open.spotify.com/album/1dKhJGNr0C8dckZXHeWlKe) | 3:20 |
 | 44 | [La Melodia](https://open.spotify.com/track/0nFl1LtQrhJbAK0s2uMmdk) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [La Melodia](https://open.spotify.com/album/4cxSNgxrbrxKGq9xXHFQFa) | 4:42 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 70 | [Loop me iets tegemoet](https://open.spotify.com/track/1beyJVORcXULB0XNLnfeRW) | [Sophia Mason](https://open.spotify.com/artist/2v5PJeR9kJsZbkGvi85tVv) | [Loop me iets tegemoet](https://open.spotify.com/album/6xSovQMNpORzvhDRjjrPND) | 2:31 |
 | 71 | [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 |
 | 72 | [Boss Bish](https://open.spotify.com/track/1UxTC8W3do0eVr05d5OvZq) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R) | [Boss Bish](https://open.spotify.com/album/1poohP4jplfBQ3r5mbpEIZ) | 2:22 |
-| 73 | [Zina](https://open.spotify.com/track/2z40IRNtq5smsWqHeksIPx) | [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM) | [Zina](https://open.spotify.com/album/5huLEgCa6fmKy9rt5kWyAo) | 2:55 |
+| 73 | [Ya zina](https://open.spotify.com/track/2z40IRNtq5smsWqHeksIPx) | [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM) | [Ya zina](https://open.spotify.com/album/5huLEgCa6fmKy9rt5kWyAo) | 2:55 |
 | 74 | [House of Bones](https://open.spotify.com/track/5CCZF5sZ8q08ehBckPxQ3W) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [House of Bones](https://open.spotify.com/album/4N0ToZAG8KoYHYquWpSRJD) | 2:21 |
 | 75 | [Alive](https://open.spotify.com/track/4ffFByoICCx9gKDQKLJK0M) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Alive](https://open.spotify.com/album/1DhvNti8w03vd00MYvmy7Q) | 2:49 |
 | 76 | [I Wanna Know](https://open.spotify.com/track/5V8vO1h5HJAcwt1INaK4LA) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [I Wanna Know](https://open.spotify.com/album/4ESDAKoD962Ung9T8UlrbL) | 2:18 |

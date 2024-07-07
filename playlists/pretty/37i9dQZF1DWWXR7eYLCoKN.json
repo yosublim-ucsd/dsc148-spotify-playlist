@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 148205,
+  "num_followers": 148262,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -391,26 +391,6 @@
     {
       "added_at": "2024-06-14 19:11:40",
       "album": {
-        "name": "A Bossa De Caetano",
-        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 308906,
-      "name": "Desde Que O Samba \u00c9 Samba",
-      "url": "https://open.spotify.com/track/628hP5ZZjXTz4AnIyDfDZ0"
-    },
-    {
-      "added_at": "2024-06-14 19:11:40",
-      "album": {
         "name": "Melhor Assim",
         "url": "https://open.spotify.com/album/4DWkJyeCTzLFHRbZ4U4d4m"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 214560,
       "name": "Beijo Sem - Ao Vivo",
       "url": "https://open.spotify.com/track/07JmyvYMNUs4WnZs1SYEuG"
+    },
+    {
+      "added_at": "2024-06-14 19:11:40",
+      "album": {
+        "name": "A Bossa De Caetano",
+        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 308906,
+      "name": "Desde Que O Samba \u00c9 Samba",
+      "url": "https://open.spotify.com/track/628hP5ZZjXTz4AnIyDfDZ0"
     },
     {
       "added_at": "2024-06-14 19:11:40",
@@ -519,18 +519,18 @@
     {
       "added_at": "2024-06-14 19:11:40",
       "album": {
-        "name": "Canta Cartola",
-        "url": "https://open.spotify.com/album/3JetnGaI0LSpY0HtoM2Ci5"
+        "name": "Meu Coco",
+        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
       },
       "artists": [
         {
-          "name": "Teresa Cristina",
-          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 146093,
-      "name": "Corra e Olhe o C\u00e9u",
-      "url": "https://open.spotify.com/track/41xNiLF0fk3EZuhfkK99F4"
+      "duration_ms": 212014,
+      "name": "Sem Samba N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
     },
     {
       "added_at": "2024-06-14 19:11:40",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-06-14 19:11:40",
       "album": {
-        "name": "Meu Coco",
-        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
+        "name": "Canta Cartola",
+        "url": "https://open.spotify.com/album/3JetnGaI0LSpY0HtoM2Ci5"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Teresa Cristina",
+          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
         }
       ],
-      "duration_ms": 212014,
-      "name": "Sem Samba N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
+      "duration_ms": 146093,
+      "name": "Corra e Olhe o C\u00e9u",
+      "url": "https://open.spotify.com/track/41xNiLF0fk3EZuhfkK99F4"
     },
     {
       "added_at": "2024-06-14 19:11:40",

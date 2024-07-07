@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,937,716 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,938,162 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 38 | [Go Insane](https://open.spotify.com/track/63F5su8UafOr42Ixl49jPY) | [Sunmoon](https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv) | [Go Insane](https://open.spotify.com/album/2zLnQUtnEhi0u51UhJvM3g) | 2:10 |
 | 39 | [Love Tonight](https://open.spotify.com/track/7upogXdc53IaJBvkR4L0Vj) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Love Tonight](https://open.spotify.com/album/2WdG47U5Pnd7sPZMkJh9hV) | 2:54 |
 | 40 | [I Love You](https://open.spotify.com/track/0O4fJqz7sptID3Q3p4yaeL) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W) | [I Love You](https://open.spotify.com/album/3WJvjcVRXWWoY5a1ZZ9k14) | 2:18 |
-| 41 | [Ghost \- Fejká Remix](https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Ghost \(Fejká Remix\)](https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV) | 4:43 |
-| 42 | [The Dream](https://open.spotify.com/track/6xtd91nRRlk0Qim5GjoaLF) | [Harry Cho](https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q) | [The Dream](https://open.spotify.com/album/7ABM5ukoc9HtRaDCHGTiwk) | 2:46 |
+| 41 | [The Dream](https://open.spotify.com/track/6xtd91nRRlk0Qim5GjoaLF) | [Harry Cho](https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q) | [The Dream](https://open.spotify.com/album/7ABM5ukoc9HtRaDCHGTiwk) | 2:46 |
+| 42 | [Ghost \- Fejká Remix](https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Ghost \(Fejká Remix\)](https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV) | 4:43 |
 | 43 | [Santa Fe](https://open.spotify.com/track/46hBN101eELE1lhjYPauSx) | [Zoo Pool](https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I) | [Santa Fe](https://open.spotify.com/album/5cUcn68RalhwwDcOWpOBQa) | 2:57 |
 | 44 | [Morning Workout](https://open.spotify.com/track/4ZWO4l9zqiT7S35qjvusjE) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Morning Workout](https://open.spotify.com/album/1rkT9Y5aXjnyBW44DhAh2L) | 2:42 |
 | 45 | [Karma](https://open.spotify.com/track/7FoyKoMhQyDCSomTBYKVP1) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Karma](https://open.spotify.com/album/6AFwibLKtWYJVKdY9ChZGh) | 3:04 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 65 | [Discovery](https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Discovery](https://open.spotify.com/album/0T75iZGdnWmBK32aQA0i4f) | 2:31 |
 | 66 | [The right mood](https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc) | [Alan Devale](https://open.spotify.com/artist/5KuppFlfwpXUiNaNsRwIiY) | [The right mood](https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f) | 3:12 |
 | 67 | [White Dust](https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 4:02 |
-| 68 | [Aquarium](https://open.spotify.com/track/3kAlWNK9bo5pEMwKvpgzNE) | [Kharfi](https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC) | [AQUARIUM](https://open.spotify.com/album/4FtyDXorsIluXMZxpEAR4I) | 3:07 |
-| 69 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 |
+| 68 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 |
+| 69 | [Aquarium](https://open.spotify.com/track/3kAlWNK9bo5pEMwKvpgzNE) | [Kharfi](https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC) | [AQUARIUM](https://open.spotify.com/album/4FtyDXorsIluXMZxpEAR4I) | 3:07 |
 | 70 | [Follow Me](https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Follow Me](https://open.spotify.com/album/5uf0wgEvW98JtVzU67BUZq) | 3:03 |
 | 71 | [All Roads Lead Here \(Edit\)](https://open.spotify.com/track/5dABuTnt3wSDc014DCASDW) | [Mark Bassano](https://open.spotify.com/artist/7khhkGwYL2XLuNTOwnkV5u) | [All Roads Lead Here \(Edit\)](https://open.spotify.com/album/08NukPbbuxAupnoNEeRyQ7) | 2:41 |
 | 72 | [flux de vibrations](https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [flux de vibrations](https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9) | 2:56 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 76 | [Sun Road](https://open.spotify.com/track/25R1QCYHhETbO5552Hxl4W) | [Alinno](https://open.spotify.com/artist/43Sajp33BHbRnUaDUrWQn7) | [Sun Road](https://open.spotify.com/album/4zt4I3llbETJPs7EOoJAJa) | 3:14 |
 | 77 | [The Screen](https://open.spotify.com/track/7JZpf4Rct4FfrRpQ3KkEOG) | [Oruam](https://open.spotify.com/artist/7hswPtRs02dG03rVj7wQBK) | [The Screen](https://open.spotify.com/album/6qzUxr3JUL5D6SWT2TK3sr) | 3:17 |
 | 78 | [Gardient heaven](https://open.spotify.com/track/4O1CGcCUjJXow4oBHxMxTK) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Gardient heaven](https://open.spotify.com/album/1WVwh0s7pzG0PXzvtRVVJ8) | 2:32 |
-| 79 | [You and You](https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf) | [Mute Surrender](https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE) | [You and You](https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp) | 3:21 |
-| 80 | [Wings](https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Wings](https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj) | 3:07 |
+| 79 | [Wings](https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Wings](https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj) | 3:07 |
+| 80 | [You and You](https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf) | [Mute Surrender](https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE) | [You and You](https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp) | 3:21 |
 | 81 | [Informalité](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Informalité](https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ) | 2:51 |
 | 82 | [Sueño Lúcido](https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Sueño Lúcido](https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD) | 4:05 |
 | 83 | [Babylon](https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh) | [Lak Host](https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam) | [Babylon](https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf) | 3:28 |
@@ -97,13 +97,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 87 | [Alike](https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Alike / Surface](https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk) | 3:15 |
 | 88 | [Changes](https://open.spotify.com/track/7C5p1xQCbQHgaW1WtQI8w2) | [John Heart](https://open.spotify.com/artist/4IZpFlDTyIvuIcY4XPDRu0) | [Changes](https://open.spotify.com/album/5TaXMm4oQOa3LQ1MbiFZOF) | 2:15 |
 | 89 | [Hands Together](https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn) | [SOL LOS](https://open.spotify.com/artist/7kVyiWLcDMgRtgVbkXhnF8) | [Hands Together](https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p) | 3:09 |
-| 90 | [Adore](https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT) | [Apsa](https://open.spotify.com/artist/6DDiYDtHywDhJPGHDCSKzm) | [Adore](https://open.spotify.com/album/6FTW4vthpJX9HeB97mtvh4) | 2:02 |
-| 91 | [Unhappy Alien](https://open.spotify.com/track/3O6FAjNGBUVPa5ahfMhucZ) | [Not Tudor](https://open.spotify.com/artist/3dOxIuKHSabrAVdJosO7gJ) | [Unhappy Alien](https://open.spotify.com/album/4JpLIm5YrcMfhbNmrvVdjx) | 3:18 |
+| 90 | [Unhappy Alien](https://open.spotify.com/track/3O6FAjNGBUVPa5ahfMhucZ) | [Not Tudor](https://open.spotify.com/artist/3dOxIuKHSabrAVdJosO7gJ) | [Unhappy Alien](https://open.spotify.com/album/4JpLIm5YrcMfhbNmrvVdjx) | 3:18 |
+| 91 | [Adore](https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT) | [Apsa](https://open.spotify.com/artist/6DDiYDtHywDhJPGHDCSKzm) | [Adore](https://open.spotify.com/album/6FTW4vthpJX9HeB97mtvh4) | 2:02 |
 | 92 | [Love Story](https://open.spotify.com/track/0WsbPxyiVqhlLSqvIkpvKC) | [Lui Mafuta](https://open.spotify.com/artist/5hbQrh0EFGQBfGjYHFWbsp) | [Love Story](https://open.spotify.com/album/5wI1TLikoyiQuHoeTqW5Wc) | 5:50 |
-| 93 | [Sunny Cruisin](https://open.spotify.com/track/4A0ubBA1RJokIlivz7vEyo) | [Marcos Berretini](https://open.spotify.com/artist/5JmI54Dii7SFTo2b5VGJDl) | [Sunny Cruisin](https://open.spotify.com/album/7pAD2HJ6Q0SDx7HNwBcgRw) | 2:40 |
+| 93 | [Vacation](https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n) | [Hanawal](https://open.spotify.com/artist/3xUcEsjHpe4Ps5ziYErlqs) | [Vacation](https://open.spotify.com/album/6mgZeATUdVHaEOobbSR6Dv) | 3:15 |
 | 94 | [Star System](https://open.spotify.com/track/5tjM0EiK6wTMwMrR3csFpt) | [Isla Cruz](https://open.spotify.com/artist/0b4aT0b93OhjSIIsYkW6s1) | [Star System](https://open.spotify.com/album/6p80kE6886zA5gT6A9VBpF) | 3:55 |
-| 95 | [IOU](https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [IOU](https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp) | 3:32 |
-| 96 | [Vacation](https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n) | [Hanawal](https://open.spotify.com/artist/3xUcEsjHpe4Ps5ziYErlqs) | [Vacation](https://open.spotify.com/album/6mgZeATUdVHaEOobbSR6Dv) | 3:15 |
+| 95 | [Sunny Cruisin](https://open.spotify.com/track/4A0ubBA1RJokIlivz7vEyo) | [Marcos Berretini](https://open.spotify.com/artist/5JmI54Dii7SFTo2b5VGJDl) | [Sunny Cruisin](https://open.spotify.com/album/7pAD2HJ6Q0SDx7HNwBcgRw) | 2:40 |
+| 96 | [IOU](https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [IOU](https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp) | 3:32 |
 | 97 | [listen love](https://open.spotify.com/track/5oUIrYI0KTZBYh5r9Z5GFA) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [listen love](https://open.spotify.com/album/6zBjkfHOntP2AmRooDkx2O) | 2:47 |
 | 98 | [Toybox](https://open.spotify.com/track/5eZp105lnwsIkLpdGfSLn7) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Toybox](https://open.spotify.com/album/5oGhsKmDJgrgdkLI2SQV5s) | 3:41 |
 | 99 | [Ray of Light](https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Ray of Light](https://open.spotify.com/album/40cUksrjQvtzoCmKDMskYE) | 3:48 |

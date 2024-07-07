@@ -412,7 +412,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 201400,
       "name": "10-90",
       "url": "https://open.spotify.com/track/25p3vqBNZMrDqAEaJZw2EL"
@@ -3329,6 +3329,24 @@
     },
     {
       "album": {
+        "name": "America, F**K Yeah! (From \"Team America World Police\")",
+        "url": "https://open.spotify.com/album/1pyCJNC61xC650GimqXjls"
+      },
+      "artists": [
+        {
+          "name": "Geek Music",
+          "url": "https://open.spotify.com/artist/4TkCMPznXOjlsYLfzIU1rw"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163331,
+      "name": "America, F**K Yeah! (From \"Team America World Police\")",
+      "url": "https://open.spotify.com/track/5QTTqnJUZ67yVXexI5efjI"
+    },
+    {
+      "album": {
         "name": "American Flags",
         "url": "https://open.spotify.com/album/50ct4CDwDw1UzpRisTqcvs"
       },
@@ -5603,6 +5621,28 @@
     },
     {
       "album": {
+        "name": "Beckham (Kyle Richh)",
+        "url": "https://open.spotify.com/album/6dgd4B1VLzKDejQunFNIfT"
+      },
+      "artists": [
+        {
+          "name": "Croozy",
+          "url": "https://open.spotify.com/artist/2E5EZVfaqHchVy9p5fQAuQ"
+        },
+        {
+          "name": "41 Demon",
+          "url": "https://open.spotify.com/artist/7H58y8vmXBBEgZhw4zd5N0"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152326,
+      "name": "Beckham (Kyle Richh)",
+      "url": "https://open.spotify.com/track/0L1AxCzSSUNMq6b9nO0eiU"
+    },
+    {
+      "album": {
         "name": "Unleashed",
         "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
       },
@@ -7616,7 +7656,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 268474,
       "name": "Burgundy",
       "url": "https://open.spotify.com/track/22YmmVRHfFX49G6HY5NV3T"
@@ -12853,6 +12893,24 @@
     },
     {
       "album": {
+        "name": "Double Life (From \"Despicable Me 4\")",
+        "url": "https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190782,
+      "name": "Double Life - From \"Despicable Me 4\"",
+      "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
+    },
+    {
+      "album": {
         "name": "douji feva",
         "url": "https://open.spotify.com/album/2Vozz0Pth98uZVHoiFfLm5"
       },
@@ -16888,6 +16946,24 @@
       "duration_ms": 191658,
       "name": "Four Leaf Clover",
       "url": "https://open.spotify.com/track/23XqRpuJoOgUokER9MeNLP"
+    },
+    {
+      "album": {
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224360,
+      "name": "Fourth Of July",
+      "url": "https://open.spotify.com/track/1vrjcPplEuenckUzGGp2UR"
     },
     {
       "album": {
@@ -21210,7 +21286,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 165270,
       "name": "HOT ONE (with TiaCorine & A$AP Ferg)",
       "url": "https://open.spotify.com/track/083HuPvgqYBLUiv82bVxwE"
@@ -27588,7 +27664,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 202648,
       "name": "Life",
       "url": "https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am"
@@ -37096,6 +37172,28 @@
       "duration_ms": 166299,
       "name": "Pink Friday Girls",
       "url": "https://open.spotify.com/track/44L2bY93uD65CEHWbozpx4"
+    },
+    {
+      "album": {
+        "name": "Pink Lemonade (Str8 Reload)",
+        "url": "https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Mr Reload It",
+          "url": "https://open.spotify.com/artist/51Ap1wNTfeway5Q06oFCLh"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122208,
+      "name": "Pink Lemonade (Str8 Reload)",
+      "url": "https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht"
     },
     {
       "album": {
@@ -47058,7 +47156,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 215448,
       "name": "Tengo Un Plan - Remix",
       "url": "https://open.spotify.com/track/6SJ01hvFkBLTUnkLyZ72G5"

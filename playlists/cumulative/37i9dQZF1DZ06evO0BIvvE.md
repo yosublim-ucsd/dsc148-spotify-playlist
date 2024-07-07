@@ -2,7 +2,7 @@
 
 ### [This Is Billy Paul](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BIvvE)
 
-> This is Billy Paul\. Todos os maiores hits em uma só playlist.
+> This is Billy Paul\. The essential tracks, all in one playlist.
 
 76 songs - 6 hr 10 min
 
@@ -14,7 +14,7 @@
 | [Amanhã \(feat\. Billy Paul\)](https://open.spotify.com/track/5pLsXl65StWByYN0PppUhk) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Sandra de Sá](https://open.spotify.com/album/1EFJZlGXZjfQvY86kDIgBm) | 5:25 | 2022-05-25 |  |
 | [Be Truthful to Me](https://open.spotify.com/track/2qvVFJqlGwSmAsdqpew5xv) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Got My Head On Straight](https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo) | 3:08 | 2022-07-03 |  |
 | [Billy's Back Home](https://open.spotify.com/track/4Bt1bolv73Tc5K9nw8v5cN) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Got My Head On Straight](https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo) | 4:32 | 2022-05-25 |  |
-| [Black Wonders of the World](https://open.spotify.com/track/4vfdPWGjFSA623VULHgQqN) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Got My Head On Straight](https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo) | 7:56 | 2022-05-25 | 2024-07-01 |
+| [Black Wonders of the World](https://open.spotify.com/track/4vfdPWGjFSA623VULHgQqN) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Got My Head On Straight](https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo) | 7:56 | 2022-05-25 |  |
 | [Bring the Family Back](https://open.spotify.com/track/2p1SZrBaJS6yHK0OdPfo1x) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [First Class](https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168) | 5:01 | 2022-05-25 |  |
 | [Brown Baby](https://open.spotify.com/track/3awQsj2wDfaISFX47q9fTi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 4:35 | 2022-05-25 |  |
 | [Compared to What](https://open.spotify.com/track/6DNKhb6QCGppmSz1AP423W) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 5:19 | 2022-05-25 | 2024-06-01 |
@@ -50,7 +50,7 @@
 | [Let's Make a Baby](https://open.spotify.com/track/2nUdP86O3XTrrsz4KItvQV) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 7:10 | 2022-05-25 |  |
 | [Let's Stay Together](https://open.spotify.com/track/18lK1qUysT3bdjUZsHFFlb) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 6:25 | 2022-07-10 | 2024-06-27 |
 | [Love Buddies](https://open.spotify.com/track/39CtdFoNAUQbRfzEQ3bH9k) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 3:39 | 2022-05-25 |  |
-| [Love Train \- Live](https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes \(Live In Concert\)](https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX) | 5:02 | 2022-11-26 |  |
+| [Love Train \- Live](https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes \(Live In Concert\)](https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX) | 5:02 | 2022-11-26 | 2024-07-07 |
 | [Magic Carpet Ride](https://open.spotify.com/track/160J6uDzOUJpDRGWUgHhsm) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 5:19 | 2022-05-25 | 2024-05-15 |
 | [Malorie](https://open.spotify.com/track/4smJDFiteu2hZOW9oFlCzt) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 3:47 | 2022-05-25 |  |
 | [Me and Mrs Jones \(with Billy Paul\)](https://open.spotify.com/track/3An00Ze0w1MugizM3HGYtr) | [Chico & The Gypsies](https://open.spotify.com/artist/7EbSS8L1ZtVfwiMz40F1MI), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Chico & The Gypsies & International Friends](https://open.spotify.com/album/1j0sRFAO5QDtqAMVFOptn7) | 3:55 | 2022-05-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 16522,
+  "num_followers": 16532,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAAC64jr9OXPCO4mSTmtQinPH",
+  "snapshot_id": "Zoc3gAAAAADMnDctcrMHooi0Z2r90dIv",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 135253,
+      "name": "Make My Day (with David Guetta)",
+      "url": "https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lemon Cars",
         "url": "https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 208822,
       "name": "Slide (with Gunna)",
       "url": "https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No More Parties (Remix)",
-        "url": "https://open.spotify.com/album/4H8JPgTkCXVgVr8e2J5tKX"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 192880,
-      "name": "No More Parties - Remix",
-      "url": "https://open.spotify.com/track/5A4WcRuy0FFEAC5pAK43oa"
     },
     {
       "added_at": null,
@@ -891,6 +891,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trendsetter",
+        "url": "https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Overthinking (with H.E.R.)",
+      "url": "https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Run It Up",
         "url": "https://open.spotify.com/album/0sTMa5g20KXJCg3t0Z0jay"
       },
@@ -923,8 +943,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU"
+        "name": "Lemon Cars",
+        "url": "https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm"
       },
       "artists": [
         {
@@ -932,9 +952,9 @@
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 152800,
-      "name": "Wicked Butterflies",
-      "url": "https://open.spotify.com/track/4B2DEH1EMgNRU9LuoZkeKJ"
+      "duration_ms": 177230,
+      "name": "Poster Girl",
+      "url": "https://open.spotify.com/track/5EUIAKpcGL0CS9O0Tx3sl4"
     },
     {
       "added_at": null,
@@ -955,8 +975,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU"
       },
       "artists": [
         {
@@ -964,25 +984,9 @@
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 119493,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/2tyfNq6oSghX5RBZ0taCGB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lemon Cars",
-        "url": "https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Poster Girl",
-      "url": "https://open.spotify.com/track/5EUIAKpcGL0CS9O0Tx3sl4"
+      "duration_ms": 152800,
+      "name": "Wicked Butterflies",
+      "url": "https://open.spotify.com/track/4B2DEH1EMgNRU9LuoZkeKJ"
     }
   ],
   "unique_name": "This Is Coi Leray",

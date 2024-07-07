@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Quavo, Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,338 likes - 84 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,343 likes - 84 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 49 | [Reiche Freunde](https://open.spotify.com/track/5ENHNKeDD3fin6Zg3p0FWn) | [Apsilon](https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm), [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [Reiche Freunde](https://open.spotify.com/album/64LpSd1Bba6Hi2yrulKDDj) | 2:51 |
 | 50 | [Rhythm Of The Unknown](https://open.spotify.com/track/6MEwcrixWzNWHrZ8H5Se4C) | [Dominic Strike](https://open.spotify.com/artist/022hDFiSTA1SSbykVp8D09) | [Rhythm Of The Unknown](https://open.spotify.com/album/3oNfvvqzDF1pMJpuNSkdog) | 2:44 |
 | 51 | [holidaze](https://open.spotify.com/track/7dFilj5qLam3yMZjBrFcHK) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [holidaze](https://open.spotify.com/album/4h2dxuyV6lS1CxnKaQnGS2) | 3:14 |
-| 52 | [Haunted \(feat\. KOOLKID\)](https://open.spotify.com/track/5mURF77s0QlIuB9g2hUMyO) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf), [KOOLKID](https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY) | [Haunted \(feat\. KOOLKID\)](https://open.spotify.com/album/12cKMWQluS9TIpoYBxYlAj) | 2:23 |
+| 52 | [Haunted](https://open.spotify.com/track/5mURF77s0QlIuB9g2hUMyO) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf), [KOOLKID](https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY) | [Haunted](https://open.spotify.com/album/12cKMWQluS9TIpoYBxYlAj) | 2:23 |
 | 53 | [Sandkastenfreunde](https://open.spotify.com/track/7cWl4KWpp6qP8W31HEDDCR) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [Olli Banjo](https://open.spotify.com/artist/52iro9cKM86Z46TVIoir8h) | [Sandkastenfreunde](https://open.spotify.com/album/2LwHi4QxESKXI1B1U6arqs) | 3:29 |
 | 54 | [I Adore You](https://open.spotify.com/track/34sqMNmzwXKllkc1FJLTR9) | [Whitepumpkin](https://open.spotify.com/artist/10NlN9XAoQgAjPfLk2cW32) | [I Adore You](https://open.spotify.com/album/4jQxqnMa8nyvbym9wxHRBB) | 2:53 |
 | 55 | [ENDLICH EGAL](https://open.spotify.com/track/6FC4KbCKeKPZbdjEpJtNex) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [ENDLICH EGAL](https://open.spotify.com/album/2xadm1GleIfA1Q8Pt1WcT4) | 2:42 |

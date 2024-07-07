@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3894906,
+  "num_followers": 3895484,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-07-02 15:36:43",
       "album": {
+        "name": "When The Light Breaks",
+        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 191557,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde"
+    },
+    {
+      "added_at": "2024-07-02 15:36:43",
+      "album": {
         "name": "Ray Of Solar (Mau P Remix)",
         "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 251428,
       "name": "Ray Of Solar - Mau P Remix",
       "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
-    },
-    {
-      "added_at": "2024-07-02 15:36:43",
-      "album": {
-        "name": "When The Light Breaks",
-        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 191557,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde"
     },
     {
       "added_at": "2024-07-02 15:36:43",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2024-07-02 15:36:43",
       "album": {
-        "name": "Brighter (Emmit's Version)",
-        "url": "https://open.spotify.com/album/6H8SEtvWCSthGHsKiXOaHt"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Brighter - Emmit's Version",
-      "url": "https://open.spotify.com/track/033ONGPnuUbMiIPL6Awdpf"
-    },
-    {
-      "added_at": "2024-07-02 15:36:43",
-      "album": {
         "name": "My Reflection",
         "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 193613,
       "name": "Turtle Jazz",
       "url": "https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu"
+    },
+    {
+      "added_at": "2024-07-02 15:36:43",
+      "album": {
+        "name": "Brighter (Emmit's Version)",
+        "url": "https://open.spotify.com/album/6H8SEtvWCSthGHsKiXOaHt"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Brighter - Emmit's Version",
+      "url": "https://open.spotify.com/track/033ONGPnuUbMiIPL6Awdpf"
     },
     {
       "added_at": "2024-07-02 15:36:43",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2024-07-02 15:36:43",
       "album": {
+        "name": "U REALLY HURT ME",
+        "url": "https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5"
+      },
+      "artists": [
+        {
+          "name": "LUV HRTS",
+          "url": "https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8"
+        },
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 162406,
+      "name": "U REALLY HURT ME",
+      "url": "https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy"
+    },
+    {
+      "added_at": "2024-07-02 15:36:43",
+      "album": {
         "name": "Lost In The Melody",
         "url": "https://open.spotify.com/album/3c94wnBH81Zrj5M1KHzwYj"
       },
@@ -1243,46 +1263,6 @@
     {
       "added_at": "2024-07-02 15:36:43",
       "album": {
-        "name": "U REALLY HURT ME",
-        "url": "https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5"
-      },
-      "artists": [
-        {
-          "name": "LUV HRTS",
-          "url": "https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8"
-        },
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 162406,
-      "name": "U REALLY HURT ME",
-      "url": "https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy"
-    },
-    {
-      "added_at": "2024-07-02 15:36:43",
-      "album": {
-        "name": "Those Days",
-        "url": "https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX"
-      },
-      "artists": [
-        {
-          "name": "Chris Luno",
-          "url": "https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq"
-        },
-        {
-          "name": "Exit Coda",
-          "url": "https://open.spotify.com/artist/1tWlyIsg08lUcBQ4ckFUH8"
-        }
-      ],
-      "duration_ms": 227987,
-      "name": "Those Days",
-      "url": "https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi"
-    },
-    {
-      "added_at": "2024-07-02 15:36:43",
-      "album": {
         "name": "every-little-part",
         "url": "https://open.spotify.com/album/5KHdOhmUfsSVgbCX8fy3ij"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 229710,
       "name": "every-little-part",
       "url": "https://open.spotify.com/track/2iI827tTlkWlaKXypNB6rE"
+    },
+    {
+      "added_at": "2024-07-02 15:36:43",
+      "album": {
+        "name": "Those Days",
+        "url": "https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX"
+      },
+      "artists": [
+        {
+          "name": "Chris Luno",
+          "url": "https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq"
+        },
+        {
+          "name": "Exit Coda",
+          "url": "https://open.spotify.com/artist/1tWlyIsg08lUcBQ4ckFUH8"
+        }
+      ],
+      "duration_ms": 227987,
+      "name": "Those Days",
+      "url": "https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi"
     },
     {
       "added_at": "2024-07-02 15:36:43",
@@ -1339,38 +1339,6 @@
     {
       "added_at": "2024-07-02 15:36:43",
       "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB"
-      },
-      "artists": [
-        {
-          "name": "Shingo Nakamura",
-          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
-        }
-      ],
-      "duration_ms": 195250,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz"
-    },
-    {
-      "added_at": "2024-07-02 15:36:43",
-      "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/1GMlSudRzZJhxl2Qq8Epdl"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 262221,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/2olzFCSJhJvc8KVxwH4J9b"
-    },
-    {
-      "added_at": "2024-07-02 15:36:43",
-      "album": {
         "name": "Hush Hush",
         "url": "https://open.spotify.com/album/3jkBwDVX1UXdLclMHJsAAX"
       },
@@ -1395,6 +1363,22 @@
     {
       "added_at": "2024-07-02 15:36:43",
       "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        }
+      ],
+      "duration_ms": 195250,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz"
+    },
+    {
+      "added_at": "2024-07-02 15:36:43",
+      "album": {
         "name": "fever",
         "url": "https://open.spotify.com/album/44KLbHGEN8Oxwg3EwCgLZG"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 140952,
       "name": "fever",
       "url": "https://open.spotify.com/track/0qCzMwwsrHm56Wk0PPOndb"
+    },
+    {
+      "added_at": "2024-07-02 15:36:43",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/1GMlSudRzZJhxl2Qq8Epdl"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 262221,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/2olzFCSJhJvc8KVxwH4J9b"
     },
     {
       "added_at": "2024-07-02 15:36:43",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-07-02 15:36:43",
       "album": {
-        "name": "Gleams",
-        "url": "https://open.spotify.com/album/4YrxxFmElZO6FgUjc8R3Lo"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 293133,
-      "name": "Gleams",
-      "url": "https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1"
-    },
-    {
-      "added_at": "2024-07-02 15:36:43",
-      "album": {
         "name": "Heartburn",
         "url": "https://open.spotify.com/album/6xjTB9H3uNfy75leYV1NYY"
       },
@@ -1559,22 +1543,6 @@
     {
       "added_at": "2024-07-02 15:36:43",
       "album": {
-        "name": "It's Ok It's Alright",
-        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "It's Ok It's Alright",
-      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
-    },
-    {
-      "added_at": "2024-07-02 15:36:43",
-      "album": {
         "name": "Company",
         "url": "https://open.spotify.com/album/0Q8UbgnUCvUdvbGjMnYKkP"
       },
@@ -1595,6 +1563,38 @@
       "duration_ms": 162338,
       "name": "Company",
       "url": "https://open.spotify.com/track/1XvOGEMfHaLZu5opqKqtEz"
+    },
+    {
+      "added_at": "2024-07-02 15:36:43",
+      "album": {
+        "name": "It's Ok It's Alright",
+        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "It's Ok It's Alright",
+      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
+    },
+    {
+      "added_at": "2024-07-02 15:36:43",
+      "album": {
+        "name": "Gleams",
+        "url": "https://open.spotify.com/album/4YrxxFmElZO6FgUjc8R3Lo"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 293133,
+      "name": "Gleams",
+      "url": "https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1"
     },
     {
       "added_at": "2024-07-02 15:36:43",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2024-07-02 15:36:43",
       "album": {
+        "name": "It's All Love",
+        "url": "https://open.spotify.com/album/0bSjpqslnkqZHImdwBIRL0"
+      },
+      "artists": [
+        {
+          "name": "Ashibah",
+          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+        }
+      ],
+      "duration_ms": 315483,
+      "name": "It's All Love",
+      "url": "https://open.spotify.com/track/4KD5P3vY1rZUziFdw2qrKp"
+    },
+    {
+      "added_at": "2024-07-02 15:36:43",
+      "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/1dLN65huLLcvL8Vjq9QyAK"
       },
@@ -1831,22 +1847,6 @@
     {
       "added_at": "2024-07-02 15:36:43",
       "album": {
-        "name": "It's All Love",
-        "url": "https://open.spotify.com/album/0bSjpqslnkqZHImdwBIRL0"
-      },
-      "artists": [
-        {
-          "name": "Ashibah",
-          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
-        }
-      ],
-      "duration_ms": 315483,
-      "name": "It's All Love",
-      "url": "https://open.spotify.com/track/4KD5P3vY1rZUziFdw2qrKp"
-    },
-    {
-      "added_at": "2024-07-02 15:36:43",
-      "album": {
         "name": "iwaly",
         "url": "https://open.spotify.com/album/5t9ZFc1WA70vNHvAGGoHVC"
       },
@@ -1859,26 +1859,6 @@
       "duration_ms": 201866,
       "name": "iwaly",
       "url": "https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ"
-    },
-    {
-      "added_at": "2024-07-02 15:36:43",
-      "album": {
-        "name": "Fortified",
-        "url": "https://open.spotify.com/album/3CY9DD7Kle1y2hA5tjoT4I"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        },
-        {
-          "name": "Dwara",
-          "url": "https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG"
-        }
-      ],
-      "duration_ms": 212870,
-      "name": "Fortified",
-      "url": "https://open.spotify.com/track/4DCUXQ5oVnTqEnCgK65B5a"
     },
     {
       "added_at": "2024-07-02 15:36:43",
@@ -1899,6 +1879,26 @@
       "duration_ms": 258284,
       "name": "Nothing To Lose (feat. Circa Waves)",
       "url": "https://open.spotify.com/track/4iU0r23eZnO9uOQ0y0xJ7F"
+    },
+    {
+      "added_at": "2024-07-02 15:36:43",
+      "album": {
+        "name": "See You In Dreams",
+        "url": "https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz"
+      },
+      "artists": [
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        },
+        {
+          "name": "Be No Rain",
+          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
+        }
+      ],
+      "duration_ms": 271519,
+      "name": "See You In Dreams",
+      "url": "https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW"
     },
     {
       "added_at": "2024-07-02 15:36:43",

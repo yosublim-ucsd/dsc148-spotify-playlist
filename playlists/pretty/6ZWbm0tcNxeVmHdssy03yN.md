@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 42,674 likes - 94 songs - 5 hr 2 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 42,703 likes - 94 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 90 | [VEM](https://open.spotify.com/track/3oQwrk9FszQAZRLJKReF5G) | [Davi Bandeira](https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68) | [VEM](https://open.spotify.com/album/5oWDd8ox89yqzqTHTD2NN3) | 2:58 |
 | 91 | [CONFESSO](https://open.spotify.com/track/4uexfxiXP7F6JxPnnSMJr2) | [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw) | [CONFESSO](https://open.spotify.com/album/3uzt0Bvc6SS3UaMhRdaHKg) | 3:10 |
 | 92 | [Priscilla](https://open.spotify.com/track/7ji7K69z8xYAbjaQHIIJSk) | [Jair Bloch](https://open.spotify.com/artist/6MxxJJL8PtzfnqAGouZDKe) | [Priscilla](https://open.spotify.com/album/2WcFuzoidiuWop5X3R7uys) | 2:37 |
-| 93 | [ONOME](https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg) | 3:17 |
+| 93 | [ONOME](https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg) | 3:18 |
 | 94 | [Astronaut](https://open.spotify.com/track/5qSYMfFHhqLSJ5yb4AFO7Z) | [Gino Mondana](https://open.spotify.com/artist/2vsRoBbScJXFoPggL3co4M) | [Astronaut](https://open.spotify.com/album/0CfbFtd6RO7v7KG89kXIww) | 2:48 |
 
 Snapshot ID: `AAAXvAEhHALcrrsIZPybPiHWNZ+zr4Gt`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: Joel Corry, Jason Derulo, Jax Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,600 likes - 88 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,621 likes - 88 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 25 | [Player](https://open.spotify.com/track/2FEXFQSB4PjMeEP9AmVd58) | [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [Player](https://open.spotify.com/album/3QYw7yGmsz5wvBDIHg9BAO) | 2:16 |
 | 26 | [On My Mind](https://open.spotify.com/track/1Pk2uI83Kn27uZrl8Ftkup) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [On My Mind](https://open.spotify.com/album/5XTrhUxnjd147ibNZfUtcY) | 2:55 |
 | 27 | [Lioness](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Lioness](https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u) | 2:52 |
-| 28 | [Nasty \- Match My Peak Remix](https://open.spotify.com/track/2izTSBSDm9dEHojdOaZD1j) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Match My Freak EP](https://open.spotify.com/album/1tDRvPJmMJhvYXbmVNMAXJ) | 2:39 |
+| 28 | [Nasty \(Match My Peak Remix\)](https://open.spotify.com/track/2izTSBSDm9dEHojdOaZD1j) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Match My Freak EP](https://open.spotify.com/album/1tDRvPJmMJhvYXbmVNMAXJ) | 2:39 |
 | 29 | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Kilo Ali](https://open.spotify.com/artist/6qbmEw8JjPrPV4HknWp0O1) | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/album/3XqYLQXudPtDBs73gZYLQG) | 2:25 |
 | 30 | [Zeros \(feat\. Headie One\)](https://open.spotify.com/track/1V0HauTAFl7CnslORPhAzB) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Zeros \(feat\. Headie One\)](https://open.spotify.com/album/3EXGGB0DAQEUbvzOuaSJub) | 2:13 |
 | 31 | [My City](https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [My City](https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe) | 2:31 |

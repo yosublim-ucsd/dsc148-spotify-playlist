@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-439 songs - 19 hr 9 min
+440 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Teenage Dream](https://open.spotify.com/track/6mSJPeIzfqbQH83qkMBS7I) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [Raphael DeLove](https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA) | [Teenage Dream](https://open.spotify.com/album/5wZOs9KxbL30axtsoIoe2p) | 2:33 | 2024-06-09 |  |
 | [Tell Me You Love Me](https://open.spotify.com/track/7lak0WdbGJiJDbyBiZcLgH) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [AALLAR](https://open.spotify.com/artist/0Zo4tbJKj4xYiidcaYRtz1), [Che'Nelle](https://open.spotify.com/artist/7zVOa12T0RhNRzpbwZ4OCt) | [Tell Me You Love Me](https://open.spotify.com/album/4Kt5Ph2XYQTBjqP9988Vqo) | 2:42 | 2023-11-26 | 2024-01-28 |
 | [That Could Be Us](https://open.spotify.com/track/5Jo1DvQ6auXLFx6QD3SC5I) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [Ben Samama](https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4) | [That Could Be Us](https://open.spotify.com/album/17Z8BUgk8JdLKb44JZROU6) | 2:04 | 2023-09-22 |  |
+| [The Coast](https://open.spotify.com/track/2stURTZNZ9ewQrku3C0KIW) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16), [Joel Winterflood](https://open.spotify.com/artist/6SW28suhyCreYrl00Amk36) | [The Coast](https://open.spotify.com/album/5sRT5OqDQUM7JmYZkJ98yx) | 2:54 | 2024-07-06 |  |
 | [The Letter](https://open.spotify.com/track/73CAqIUMfHPj2dxvO3Gg6r) | [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu), [PRSM](https://open.spotify.com/artist/3sWBYLIL9PPIP2HvQW8gP9) | [The Letter](https://open.spotify.com/album/61kwJ03rXpL0NTjflA9c3f) | 2:00 | 2023-11-26 |  |
 | [The Ocean](https://open.spotify.com/track/062qW7RpxcMfsYNLdyXqn6) | [Byond Bliss](https://open.spotify.com/artist/1eBjc550NNKmWGUJNVtliE), [Rachel Morgan Perry](https://open.spotify.com/artist/1VpFjX7r5UVSrMXq0NPyr0) | [The Ocean](https://open.spotify.com/album/288UbMYjrkrgTiezKd72mZ) | 2:39 | 2023-11-03 | 2024-05-13 |
 | [The One](https://open.spotify.com/track/5f0ZV2eHblXCPAaadia3qc) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D) | [The One](https://open.spotify.com/album/600ZsVXoEf02ybAbfKgMC8) | 2:37 | 2024-04-01 | 2024-04-29 |

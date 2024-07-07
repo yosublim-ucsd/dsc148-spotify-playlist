@@ -1,10 +1,10 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 184625,
+  "num_followers": 184681,
   "original_name": "Melodic & Euphoric",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
   "snapshot_id": "Zoc3vAAAAAAXZV2McOWnaaEqAz6yERsx",
   "tracks": [
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "Fortified",
-        "url": "https://open.spotify.com/album/3CY9DD7Kle1y2hA5tjoT4I"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        },
-        {
-          "name": "Dwara",
-          "url": "https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG"
-        }
-      ],
-      "duration_ms": 212870,
-      "name": "Fortified",
-      "url": "https://open.spotify.com/track/4DCUXQ5oVnTqEnCgK65B5a"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
         "name": "See You In Dreams",
         "url": "https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 271519,
       "name": "See You In Dreams",
       "url": "https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "Fortified",
+        "url": "https://open.spotify.com/album/3CY9DD7Kle1y2hA5tjoT4I"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        },
+        {
+          "name": "Dwara",
+          "url": "https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG"
+        }
+      ],
+      "duration_ms": 212870,
+      "name": "Fortified",
+      "url": "https://open.spotify.com/track/4DCUXQ5oVnTqEnCgK65B5a"
     },
     {
       "added_at": "2024-07-05 00:01:00",

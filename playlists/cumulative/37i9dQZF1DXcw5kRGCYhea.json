@@ -463,6 +463,32 @@
     },
     {
       "album": {
+        "name": "Dorouf",
+        "url": "https://open.spotify.com/album/4lWsp6iC5Dd9pCR81VLpAp"
+      },
+      "artists": [
+        {
+          "name": "Barri",
+          "url": "https://open.spotify.com/artist/3UfDCiyE0dCUBe1iBBC8bl"
+        },
+        {
+          "name": "Tflow",
+          "url": "https://open.spotify.com/artist/1gEQbGxdBq1vvCskS9qQBI"
+        },
+        {
+          "name": "Ali Loka",
+          "url": "https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181750,
+      "name": "Dorouf",
+      "url": "https://open.spotify.com/track/4SboVJybgfRxp2Z6M1zUxr"
+    },
+    {
+      "album": {
         "name": "DRAMA",
         "url": "https://open.spotify.com/album/3eqisrlNJL0vyCAezWELR3"
       },
@@ -1647,6 +1673,24 @@
     },
     {
       "album": {
+        "name": "TABOUT",
+        "url": "https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN"
+      },
+      "artists": [
+        {
+          "name": "KALIL",
+          "url": "https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199968,
+      "name": "TABOUT",
+      "url": "https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j"
+    },
+    {
+      "album": {
         "name": "TAGHAZOUT",
         "url": "https://open.spotify.com/album/41GRsxsRdLnlhN06bTH2VM"
       },
@@ -1816,7 +1860,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 205263,
       "name": "Wave",
       "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"

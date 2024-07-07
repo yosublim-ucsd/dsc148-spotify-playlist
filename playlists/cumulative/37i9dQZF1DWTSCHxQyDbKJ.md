@@ -4,7 +4,7 @@
 
 > Necessities from LGBTQIA+ artists\. Cover: I\. JORDAN
 
-101 songs - 5 hr 16 min
+102 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Bite The Hand](https://open.spotify.com/track/2dFREjV7w8TunHysQtcYj5) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Bite The Hand / Kind of Love](https://open.spotify.com/album/4Ehq3wUDJzv6pWVFWW8V6T) | 2:38 | 2024-06-10 |  |
 | [Body of Mine](https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country / Body of Mine](https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql) | 2:11 | 2024-06-10 |  |
 | [Break You](https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Break You](https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR) | 2:19 | 2024-06-10 |  |
+| [Cheap Love](https://open.spotify.com/track/6wXeopx3eNpkqZMNDR0B8P) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Cheap Love](https://open.spotify.com/album/3GS9722YN1sHJYSO39HwW9) | 3:05 | 2024-06-10 |  |
 | [Cheerleader](https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Cheerleader](https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH) | 2:12 | 2024-06-10 |  |
 | [Close To You](https://open.spotify.com/track/4kfj4X52ALk29tz32GxyJq) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [I AM JORDAN](https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU) | 5:41 | 2024-06-10 |  |
 | [Coming Home](https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coming Home](https://open.spotify.com/album/5xJOewC53fRL37VrHco2de) | 2:16 | 2024-06-10 |  |
@@ -56,7 +57,7 @@
 | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/75Sj3dduOdCPSL6g2Cpkzu) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [My Soft Machine \(Deluxe\)](https://open.spotify.com/album/3grTaYSw0sYx5HEaR2m8Tt) | 3:07 | 2024-06-10 |  |
 | [idc](https://open.spotify.com/track/3kx5C5gy96hofwSNdHttmu) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [idc](https://open.spotify.com/album/1JfqJMtr7hhtWZ56o2Amdd) | 2:30 | 2024-06-10 |  |
 | [If I Don't Laugh I'll Cry](https://open.spotify.com/track/6HnAjUUMPLyvOFFBxV58Hv) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [If I Don't Laugh I'll Cry](https://open.spotify.com/album/1dP4KmXsWmKYOE1Hpc7ECd) | 2:52 | 2024-06-10 |  |
-| [Jennifer's Body](https://open.spotify.com/track/176fR2MtPlctufVYwqoW1j) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Jennifer's Body](https://open.spotify.com/album/1HekaZKhXgi9JpGFODnmHF) | 1:57 | 2024-06-10 |  |
+| [Jennifer's Body](https://open.spotify.com/track/176fR2MtPlctufVYwqoW1j) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Jennifer's Body](https://open.spotify.com/album/1HekaZKhXgi9JpGFODnmHF) | 1:57 | 2024-06-10 | 2024-07-07 |
 | [Joe](https://open.spotify.com/track/4ebg7FQu7KfiVcXhi5bj0o) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:07 | 2024-06-10 |  |
 | [Just Come Home With Me Tonight \- Live at 45](https://open.spotify.com/track/4m9dFksHdnXQ0UR77VCyeb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home With Me Tonight \(Live at 45\)](https://open.spotify.com/album/6xLZX3BctRo9ETHG0uQh5f) | 4:40 | 2024-06-10 |  |
 | [Kerosene Dreams](https://open.spotify.com/track/2tHUKqdFCcrJ0xiC9SNOwb) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [A Guilty Heart Can Never Rest](https://open.spotify.com/album/7kUEQbqX1Kaf6oL2x046d6) | 3:05 | 2024-06-10 |  |

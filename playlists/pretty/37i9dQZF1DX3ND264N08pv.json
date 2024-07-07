@@ -1,6 +1,6 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 73593,
+  "num_followers": 73606,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -811,18 +811,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Stress",
-        "url": "https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI"
+        "name": "DANCEFLOOR SLAYER",
+        "url": "https://open.spotify.com/album/6uXYnYAFqg6i6Ti2svFblo"
       },
       "artists": [
         {
-          "name": "Noxiouz",
-          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
+          "name": "LunaKorpz",
+          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
+        },
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
         }
       ],
-      "duration_ms": 147789,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN"
+      "duration_ms": 161653,
+      "name": "DANCEFLOOR SLAYER",
+      "url": "https://open.spotify.com/track/7dqpISlr5xVC4eDID1jc5c"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -847,22 +851,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "DANCEFLOOR SLAYER",
-        "url": "https://open.spotify.com/album/6uXYnYAFqg6i6Ti2svFblo"
+        "name": "Stress",
+        "url": "https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI"
       },
       "artists": [
         {
-          "name": "LunaKorpz",
-          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
-        },
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+          "name": "Noxiouz",
+          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
         }
       ],
-      "duration_ms": 161653,
-      "name": "DANCEFLOOR SLAYER",
-      "url": "https://open.spotify.com/track/7dqpISlr5xVC4eDID1jc5c"
+      "duration_ms": 147789,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Gremlins",
-        "url": "https://open.spotify.com/album/1asJFJ8TnBW94hCs9ArRkZ"
-      },
-      "artists": [
-        {
-          "name": "F. Noize",
-          "url": "https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7"
-        },
-        {
-          "name": "S-KILL",
-          "url": "https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "Gremlins",
-      "url": "https://open.spotify.com/track/1yYT2mfhVOT5ZlqM7ScAzi"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Hide Away",
         "url": "https://open.spotify.com/album/32hVSE1AzVACORPkW4CWBs"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 212000,
       "name": "Hide Away",
       "url": "https://open.spotify.com/track/1X0BVI7ISwMYualJLRpEob"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Gremlins",
+        "url": "https://open.spotify.com/album/1asJFJ8TnBW94hCs9ArRkZ"
+      },
+      "artists": [
+        {
+          "name": "F. Noize",
+          "url": "https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7"
+        },
+        {
+          "name": "S-KILL",
+          "url": "https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "Gremlins",
+      "url": "https://open.spotify.com/track/1yYT2mfhVOT5ZlqM7ScAzi"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "I'm A Raver",
+        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 205664,
+      "name": "I'm A Raver",
+      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "The Roots (Official Harmony of Hardcore 2023 Anthem)",
         "url": "https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 235734,
       "name": "The Roots - Official Harmony of Hardcore 2023 Anthem",
       "url": "https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "I'm A Raver",
-        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 205664,
-      "name": "I'm A Raver",
-      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Shadows in the Dark",
-        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
-      },
-      "artists": [
-        {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
-        }
-      ],
-      "duration_ms": 288398,
-      "name": "Shadows in the Dark",
-      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "The Oni Retribution",
         "url": "https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 265900,
       "name": "The Oni Retribution",
       "url": "https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Shadows in the Dark",
+        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
+      },
+      "artists": [
+        {
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+        }
+      ],
+      "duration_ms": 288398,
+      "name": "Shadows in the Dark",
+      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1579,18 +1579,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Mysteries of Creation",
-        "url": "https://open.spotify.com/album/0GBa0Z1qbfRGpQrNxcXpna"
+        "name": "Outta Here",
+        "url": "https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw"
       },
       "artists": [
         {
-          "name": "Furyan",
-          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Sihk",
+          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
         }
       ],
-      "duration_ms": 197379,
-      "name": "Mysteries of Creation",
-      "url": "https://open.spotify.com/track/2fW70pWLS91PeHFp6BvsEk"
+      "duration_ms": 138500,
+      "name": "Outta Here",
+      "url": "https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1611,22 +1615,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Outta Here",
-        "url": "https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw"
+        "name": "Mysteries of Creation",
+        "url": "https://open.spotify.com/album/0GBa0Z1qbfRGpQrNxcXpna"
       },
       "artists": [
         {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "Sihk",
-          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
+          "name": "Furyan",
+          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
         }
       ],
-      "duration_ms": 138500,
-      "name": "Outta Here",
-      "url": "https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35"
+      "duration_ms": 197379,
+      "name": "Mysteries of Creation",
+      "url": "https://open.spotify.com/track/2fW70pWLS91PeHFp6BvsEk"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "BE LOUDER",
+        "url": "https://open.spotify.com/album/6dTq1L6wEGnJWNaEVCsTGg"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "BE LOUDER",
+      "url": "https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "RTC is the legacy",
         "url": "https://open.spotify.com/album/6Vs6Cu9JpivGvsLsdkkB5b"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 372982,
       "name": "Nobody Harder (2019 Remaster) - G-Town Madness Remix",
       "url": "https://open.spotify.com/track/2SbHD97inSP7eEXkJUpUCk"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "BE LOUDER",
-        "url": "https://open.spotify.com/album/6dTq1L6wEGnJWNaEVCsTGg"
-      },
-      "artists": [
-        {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "BE LOUDER",
-      "url": "https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG"
     },
     {
       "added_at": "2024-06-27 22:00:00",

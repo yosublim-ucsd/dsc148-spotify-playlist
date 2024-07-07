@@ -4,7 +4,7 @@
 
 > When the night isn't over just yet.
 
-321 songs - 22 hr 45 min
+322 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Contact \- Karen Nyame KG Remix](https://open.spotify.com/track/6iJnmbCDoNWdnDeEFudk1f) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Contact \(Karen Nyame KG Remix\)](https://open.spotify.com/album/3zMv67VTQVoh9lmEax4giy) | 4:29 | 2023-10-20 |  |
 | [Control](https://open.spotify.com/track/0C13caBkmVXP2UMSZN4fy4) | [Does it matter](https://open.spotify.com/artist/00fhyHwDkhykp7qxLsbvch) | [Control](https://open.spotify.com/album/4RcwY3VN7xzksIegr04fph) | 2:05 | 2024-01-05 | 2024-03-01 |
 | [Cosmos \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1E5y9PZLIAngpD0L699Ul9) | [Paul Epworth](https://open.spotify.com/artist/04ouBKIoUizgF9j6v6TWR8), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Voyager](https://open.spotify.com/album/6inskjOXMnEFnxt0QUFFYu) | 3:49 | 2021-11-24 | 2022-07-25 |
+| [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 | 2024-07-05 |  |
 | [Crush](https://open.spotify.com/track/58Fkphee9r7xCQmKj4SMar) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Crush](https://open.spotify.com/album/7GFnomhPOTcD3hexX6GNRn) | 4:59 | 2024-04-04 |  |
 | [Daft Puns](https://open.spotify.com/track/3UoLhFBp6qNY8jpSS1AO8F) | [Astrolemo](https://open.spotify.com/artist/6XtEzqCB9T1Y8uAjCGS17j) | [Daft Puns](https://open.spotify.com/album/1J3lMWdcIrkkmcBrrxMPk5) | 1:45 | 2021-11-24 | 2022-07-27 |
 | [Dart](https://open.spotify.com/track/7x0Y7Ne5O0W2eqWPFqbSWt) | [Jimbo Jones](https://open.spotify.com/artist/22Y6Kb1gjWN1Ka6gU2yNQJ) | [The Heat Death of My Hometown](https://open.spotify.com/album/6HQxXu3eeZGOwt4ysgIhdQ) | 8:16 | 2021-11-24 | 2022-07-29 |
@@ -261,7 +262,7 @@
 | [Settle Down \- Mixed](https://open.spotify.com/track/3Eeh7y2avP7wwLtyhljcU2) | [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [fabric presents Maribou State \(DJ Mix\)](https://open.spotify.com/album/132x7s5otIdXjWqQqA0S4O) | 2:24 | 2021-11-24 | 2024-05-06 |
 | [She Loves Me](https://open.spotify.com/track/2eiXRfxpCBSr4zz2qArd1z) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:08 | 2021-11-24 | 2022-07-29 |
 | [Sheltered](https://open.spotify.com/track/2CL8PXyzCpDV07SozN67Ay) | [John Tejada](https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq) | [Year Of The Living Dead](https://open.spotify.com/album/0jwjHNhMdj3V6fOvx36ozD) | 4:58 | 2021-11-24 | 2022-05-18 |
-| [Shining](https://open.spotify.com/track/1w05kLq8yTawV2UStnkBxF) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Shining](https://open.spotify.com/album/2h2rLM0aSmNe2QNLTZuoCd) | 3:34 | 2023-10-20 |  |
+| [Shining](https://open.spotify.com/track/1w05kLq8yTawV2UStnkBxF) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Shining](https://open.spotify.com/album/2h2rLM0aSmNe2QNLTZuoCd) | 3:34 | 2023-10-20 | 2024-07-07 |
 | [Should Have Seen It Coming](https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AETHO](https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG) | [Should Have Seen It Coming](https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa) | 3:58 | 2021-11-24 | 2024-06-07 |
 | [Shut Up](https://open.spotify.com/track/56GVYeBS8bc9JINzlUKrTK) | [MEYY](https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5), [Object Blue](https://open.spotify.com/artist/51rzklJj6mqBOEXOiOPqY7) | [Shut Up](https://open.spotify.com/album/2yxEAGxyOJzEg4IMxGew8h) | 2:19 | 2024-01-05 | 2024-06-07 |
 | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/track/2eBDPaRvjNs0Ek4fuFzOZx) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/album/6crVJqqqNJekqNgp4FNp7u) | 3:15 | 2024-06-14 |  |

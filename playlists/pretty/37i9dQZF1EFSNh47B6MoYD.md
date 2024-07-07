@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 73 | [El Lugar Que Me Vio Nacer](https://open.spotify.com/track/3YBfSs056lKJKGMPgCjjDF) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 4:39 |
 | 74 | [Que Tu Piano Hable Por Ti](https://open.spotify.com/track/32uWwAPQEEjhCGABHsphLU) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Piano Sin Fronteras](https://open.spotify.com/album/5feKFwQgUEn3UL56cxdDmq) | 3:52 |
 | 75 | [Indestructible](https://open.spotify.com/track/1FWNaYZdL0npIuzxsHb8aK) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Juego De Valientes](https://open.spotify.com/album/4xUjdG7ySlpPVEFCmjCWG4) | 3:25 |
-| 76 | [Arena Movediza](https://open.spotify.com/track/2mcg0Nd75PVm0fcyOTHqmI) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 4:15 |
-| 77 | [Vete](https://open.spotify.com/track/7uVUxfSd7xiaURQLTaMONb) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [No Es Brujeria](https://open.spotify.com/album/4nuYRYCbs4fqdzwjtkoiw4) | 3:11 |
+| 76 | [Vete](https://open.spotify.com/track/7uVUxfSd7xiaURQLTaMONb) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [No Es Brujeria](https://open.spotify.com/album/4nuYRYCbs4fqdzwjtkoiw4) | 3:11 |
+| 77 | [Arena Movediza](https://open.spotify.com/track/2mcg0Nd75PVm0fcyOTHqmI) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 4:15 |
 | 78 | [Desliga A Luz](https://open.spotify.com/track/2nYgS1eh6jp4rs2Q05ybcU) | [Celso Fonseca](https://open.spotify.com/artist/4zanHFwOXpPRKMMk3qUuHu), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Turning Point](https://open.spotify.com/album/5iFeJsiYedyhtcefzuNMyE) | 4:09 |
 | 79 | [Panamá Mia](https://open.spotify.com/track/17UBnqRCNrqXRLtQizeRAL) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Panamá Mía](https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv) | 3:34 |
 | 80 | [Bien](https://open.spotify.com/track/6qcDwycoQlUXKEc5TntCKD) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z) | [Quién Lo Diría](https://open.spotify.com/album/6Gt6dCkxw2cJ0TJ6oRffum) | 3:21 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 142 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
 | 143 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 
-Snapshot ID: `AbV6fgAAAAD1/D50aBzeCeWed5y9hx3u`
+Snapshot ID: `AbWAIgAAAAAA78FIYgS6eQXOJiUhAagI`

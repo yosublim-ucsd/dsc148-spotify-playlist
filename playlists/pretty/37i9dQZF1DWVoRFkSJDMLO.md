@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Cover: Asake 🇳🇬
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,001 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,022 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 2 | [BENIN BOYS](https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [BENIN BOYS](https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT) | 2:49 |
 | 3 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 |
 | 4 | [Too Girly Girly](https://open.spotify.com/track/4pxmWIqKflqDNfhon9AOat) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [Too Girly Girly](https://open.spotify.com/album/4NYkz5khn8h090UNsK1958) | 2:11 |
-| 5 | [Nasty \- Match My Heat Remix](https://open.spotify.com/track/46ZmwtyO7mtZyhXC0KQA64) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Match My Freak EP](https://open.spotify.com/album/1tDRvPJmMJhvYXbmVNMAXJ) | 4:43 |
+| 5 | [Nasty \(Match My Heat Remix\)](https://open.spotify.com/track/46ZmwtyO7mtZyhXC0KQA64) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Match My Freak EP](https://open.spotify.com/album/1tDRvPJmMJhvYXbmVNMAXJ) | 4:43 |
 | 6 | [Jolene](https://open.spotify.com/track/5483pcvbfX7Ii7gO5JGUpF) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:55 |
 | 7 | [BASMATI](https://open.spotify.com/track/6CnVtUmo4DNL1dD9N6QIbm) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03), [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [BASMATI](https://open.spotify.com/album/6S7g9vDlH0KlKXDDuR8Qio) | 2:37 |
 | 8 | [Miracle Worker \(feat\. Lojay\)](https://open.spotify.com/track/7pkTAS4TcKg1gThbTA8FLX) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Lost and Found](https://open.spotify.com/album/7ngqg1CSDp6jc7KPs6tWax) | 3:05 |

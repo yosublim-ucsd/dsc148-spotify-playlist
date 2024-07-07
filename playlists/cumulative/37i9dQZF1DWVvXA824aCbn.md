@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-574 songs - 1 day 12 hr 21 min
+575 songs - 1 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Any luck?](https://open.spotify.com/track/5JnKZmkG66lymIuFzBFiuH) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Any luck?](https://open.spotify.com/album/6HuXTSXWkxps6cxllsyUGX) | 3:36 | 2024-02-09 | 2024-06-27 |
 | [Apple Crumble](https://open.spotify.com/track/0hopRI3X9IUDYDM5jp3U3P) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Last Goodbye](https://open.spotify.com/album/5w2EjSu6wKnsZppJAJhnpF) | 2:53 | 2021-10-14 | 2023-01-06 |
 | [As Time Goes By](https://open.spotify.com/track/2FgLhm6EwB0Ix8XLHABFkC) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [As Time Goes By](https://open.spotify.com/album/43blKT5tNQotndvCtQGMhg) | 4:10 | 2022-09-29 | 2023-02-17 |
-| [As Times Goes By](https://open.spotify.com/track/3S7gPyRE9cjd5IXCh1WAWK) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Mads Vinding](https://open.spotify.com/artist/7rrlGOFMo4ERCTSBsWVxEP), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [Standard Collections Vol\. 1](https://open.spotify.com/album/0Z3WWNniSo85Zutv5lelLF) | 7:18 | 2021-02-14 |  |
+| [As Times Goes By](https://open.spotify.com/track/3S7gPyRE9cjd5IXCh1WAWK) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Mads Vinding](https://open.spotify.com/artist/7rrlGOFMo4ERCTSBsWVxEP), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [Standard Collections Vol\. 1](https://open.spotify.com/album/0Z3WWNniSo85Zutv5lelLF) | 7:18 | 2021-02-14 | 2024-07-07 |
 | [Ascent](https://open.spotify.com/track/4d2YgepBRyYjr1EXM6slZq) | [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Balance Point](https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ) | 4:10 | 2021-01-21 |  |
 | [Ask Me Again](https://open.spotify.com/track/6e47Pg5J7YtKJwGyvoDQjd) | [We Three Trio](https://open.spotify.com/artist/1T5DJ6QCdj86XsYXSCF5kj) | [Ask Me Again](https://open.spotify.com/album/0FuL5flOIZiQjYWEyPh6r4) | 4:10 | 2020-10-20\* |  |
 | [Ask Me Now](https://open.spotify.com/track/04ICJKheRrWvKTXcQQN8FM) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Ask Me Now](https://open.spotify.com/album/2M7mD8tcjef75sXOfQg2Q4) | 4:41 | 2023-11-17 |  |
@@ -205,6 +205,7 @@
 | [I Got It Bad And That Ain't Good](https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 5:06 | 2021-01-21 | 2022-10-28 |
 | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/3WVKyc1in22UyqbohaNuhP) | [Hector Milo Trio](https://open.spotify.com/artist/0sn0tQQs3lIlLSgHgidapX) | [I Can't Get Started](https://open.spotify.com/album/36KOcJTwtz8mKCmpac4cD6) | 4:14 | 2021-02-06 | 2024-03-10 |
 | [I Guess I'll Have To Change My Plans](https://open.spotify.com/track/1Dn4xfTFsE7T3QM7adZFo4) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [I Guess I'll Have To Change My Plans](https://open.spotify.com/album/7iJ7DbrzgjSKQF0aBwDoNx) | 3:51 | 2022-08-17 |  |
+| [I Guess That Too](https://open.spotify.com/track/3H9howcJYmpW8d5wPqrgQd) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [I Guess That Too](https://open.spotify.com/album/6tQUVmdC5BUcVR0BiBpzPR) | 3:56 | 2024-07-01 |  |
 | [I Have Dreamed](https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:27 | 2021-01-21 | 2022-11-02 |
 | [I Know Too Well](https://open.spotify.com/track/6tKDtGWfRkozO6r0kwsyYr) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [I Know Too Well](https://open.spotify.com/album/2CkXWv8Yaq4Si9IXgAVvbc) | 3:26 | 2022-09-29 |  |
 | [I Know Why \(And So Do You\)](https://open.spotify.com/track/3DsIu9DB0AZufrQHR4yJKL) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 4:47 | 2021-01-21 | 2023-05-12 |

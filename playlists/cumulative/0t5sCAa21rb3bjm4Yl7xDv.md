@@ -4,7 +4,7 @@
 
 > The hottest tracks you want to hear, all in one playlist! Cover: Camila Cabello &amp; Drake
 
-319 songs - 16 hr 28 min
+321 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Myself](https://open.spotify.com/track/5r8kNexW2JdeW2NF8cZvRc) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55), [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC) | [Myself](https://open.spotify.com/album/6DHv10clynLQ3fpDgiou8C) | 2:38 | 2024-05-17 |  |
 | [name everywhere](https://open.spotify.com/track/3mOd7FgLgWATxB0khHOSOk) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [name everywhere](https://open.spotify.com/album/3V9iuYMjGOFl3bp5BLxYNq) | 3:34 | 2023-11-06 | 2023-11-25 |
 | [Natural](https://open.spotify.com/track/7z9TlbrDkEkwKAyScdDamy) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Lost In Translation](https://open.spotify.com/album/1MC8OGjVd1Wjs7ng4oiKXO) | 2:36 | 2023-11-06 | 2023-11-25 |
+| [Never Fall In Love Again](https://open.spotify.com/track/5kcrlw7MXLq8sY9Z4rn2oD) | [Shawn Desman](https://open.spotify.com/artist/4LOZt2Vt1xqIWRCVG4v6tV) | [Never Fall In Love Again](https://open.spotify.com/album/2Bi2srvtPRKMfNhgrAPjdr) | 2:45 | 2024-07-06 |  |
 | [Never Gonna Drink Again](https://open.spotify.com/track/4N3s7PFzxQxaP6DM2LRrxu) | [Carneyval](https://open.spotify.com/artist/2L8dsMgFCSOumasWQ4gvwZ) | [Never Gonna Drink Again](https://open.spotify.com/album/0ec83K28MZDn4Elg89VCd9) | 2:50 | 2023-11-06 | 2023-11-25 |
 | [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-20 |  |
 | [Next To You \(feat\. Kane Brown\)](https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Next To You \(feat\. Kane Brown\)](https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe) | 2:41 | 2023-11-06 | 2023-11-25 |
@@ -291,6 +292,7 @@
 | [this time](https://open.spotify.com/track/3RflzntjekyDoIlm11kNIN) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [this time](https://open.spotify.com/album/7JXBW10JRr5UtC7CjPZR5t) | 2:56 | 2023-11-06 | 2024-01-27 |
 | [TIME!](https://open.spotify.com/track/571eDSnPzwHNL3233ICp6w) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [the greatest hits](https://open.spotify.com/album/6RY9gppYrTRUHBHvPWfPyW) | 3:12 | 2024-03-08 |  |
 | [TIMEZONE](https://open.spotify.com/track/71N11HZCLEolNgAxvcj2cb) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9) | [TIMEZONE](https://open.spotify.com/album/3t3Z3avQW3hVQbOw5aSj4R) | 3:08 | 2023-11-06 | 2023-11-25 |
+| [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-06 |  |
 | [Treat Me Like A Ho](https://open.spotify.com/track/5b67O08sN2itkQPsNmafPx) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 1:55 | 2023-11-06 | 2023-11-25 |
 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 | 2023-11-24 | 2024-03-16 |
 | [Undefeated](https://open.spotify.com/track/0OaacUi36UrMb1kEsLWW9E) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Undefeated](https://open.spotify.com/album/1sd0tWdmMr0i9MXGBE9Qkl) | 2:55 | 2023-11-06 | 2024-02-17 |

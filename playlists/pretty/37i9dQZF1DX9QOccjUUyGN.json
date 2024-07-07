@@ -1,6 +1,6 @@
 {
   "description": "tranquilo e calmo, no flow. Foto: MC Rogerinho, WIU",
-  "num_followers": 16527,
+  "num_followers": 16523,
   "original_name": "tamo flex",
   "owner": {
     "name": "Spotify",
@@ -476,16 +476,16 @@
       },
       "artists": [
         {
-          "name": "Cauart",
-          "url": "https://open.spotify.com/artist/37ABwEAZXTXfUkhoAKzgOP"
-        },
-        {
           "name": "Blackbe",
           "url": "https://open.spotify.com/artist/6BsJ09vtlJuxZ9dRxLbajo"
         },
         {
           "name": "Lp067",
           "url": "https://open.spotify.com/artist/20EHnmoCDJFL4mnot2ad3M"
+        },
+        {
+          "name": "Cauart",
+          "url": "https://open.spotify.com/artist/37ABwEAZXTXfUkhoAKzgOP"
         }
       ],
       "duration_ms": 120004,

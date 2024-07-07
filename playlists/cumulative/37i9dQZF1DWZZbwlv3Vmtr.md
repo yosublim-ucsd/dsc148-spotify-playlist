@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-929 songs - 1 day 12 hr 6 min
+930 songs - 1 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Drops](https://open.spotify.com/track/4bUsbn32Gk1CQHnykm6gm1) | [Prism Sorrow](https://open.spotify.com/artist/5Fh6NGwhB7tyhUR7XPuxhT) | [Drops](https://open.spotify.com/album/4FhgXX6FF1mv2M0ji7QgpF) | 2:33 | 2022-11-25 |  |
 | [Dusk's Delight](https://open.spotify.com/track/6GpE61U0CCL7k01WyF3DiN) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Dusk's Delight](https://open.spotify.com/album/3da8NaCjNEuTJiVOUlDR3O) | 2:00 | 2023-09-22 |  |
 | [early one day](https://open.spotify.com/track/7vtAeEq9ICIBVjkFGpXeqN) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [early one day](https://open.spotify.com/album/0XAznNmMD2hT3rgM7Tf1y2) | 2:06 | 2023-12-22 |  |
+| [Early rise](https://open.spotify.com/track/0Xc8uXfsxcNMj2y1IKwo2T) | [7th Realm](https://open.spotify.com/artist/4UtJ3cnpM9ptMHY6LSfMUs), [tides.](https://open.spotify.com/artist/138GsDz0pX5leXnKi7ay7G) | [Early rise](https://open.spotify.com/album/4rqsMKNsFZOgf2QRgeaLPN) | 1:46 | 2024-07-04 |  |
 | [Echovision](https://open.spotify.com/track/1kPlZE0QL6gzMkykmEz0Zv) | [FreakBeats](https://open.spotify.com/artist/0pyekPSB9eriDdKgK71n2V) | [Echovision](https://open.spotify.com/album/2bfn7CAh6ULbmpDOOazf3W) | 2:19 | 2024-03-01 |  |
 | [El Clásico](https://open.spotify.com/track/2R8izDCEhhL9vQSkHZZZLG) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [El Clásico](https://open.spotify.com/album/2rPikPoa8oTq9EWfPUgS6b) | 2:04 | 2022-10-14 | 2024-02-09 |
 | [Elastic](https://open.spotify.com/track/2L2aSrua8ZBRMogFhF6I1Q) | [4to28](https://open.spotify.com/artist/0yWkm3SjcPi6xzWv5qCKmM) | [Elastic](https://open.spotify.com/album/4lXR2fC1cbE3mD732vjbdM) | 2:01 | 2022-05-20 |  |
@@ -311,7 +312,7 @@
 | [Head Down](https://open.spotify.com/track/6bK9DxZ3UOo1x6fpUTmhLr) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Head Down](https://open.spotify.com/album/00BtezqtTN1x9b252Lvc5P) | 2:29 | 2022-04-22 | 2022-12-10 |
 | [Healing](https://open.spotify.com/track/7ww9dpRq9JazTQTbmQvt1F) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Healing](https://open.spotify.com/album/0V8w3lrIyZbd47a3ZMgsEF) | 2:25 | 2023-12-08 |  |
 | [Heat Sink](https://open.spotify.com/track/1LkKE6EKpkBXBqYnfaPHXE) | [Yeriho](https://open.spotify.com/artist/78i2cMCD9ZGsHitYgLbMhW), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [Odyssey](https://open.spotify.com/album/0tt8x0BZjFBKRbPP5Z5tNq) | 2:00 | 2022-07-22 | 2022-12-10 |
-| [Heaux](https://open.spotify.com/track/2XF3s6ycUXSJQCVMteiERI) | [Dr\. Travis](https://open.spotify.com/artist/49IK4aTJhEP93RfabiqaEZ) | [Kawhi](https://open.spotify.com/album/0ASHEDZAklWntGctYuGsRY) | 2:36 | 2022-04-15 |  |
+| [Heaux](https://open.spotify.com/track/2XF3s6ycUXSJQCVMteiERI) | [Dr\. Travis](https://open.spotify.com/artist/49IK4aTJhEP93RfabiqaEZ) | [Kawhi](https://open.spotify.com/album/0ASHEDZAklWntGctYuGsRY) | 2:36 | 2022-04-15 | 2024-07-07 |
 | [Heavensent](https://open.spotify.com/track/0SdZzPskMPdVibBUHNrrim) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Heavensent](https://open.spotify.com/album/0nzrNWqyAHUgLFiB4gE15Y) | 3:04 | 2023-12-22 |  |
 | [Hello, Beautiful](https://open.spotify.com/track/0EZBeSP6JhQ9tiZRkm45wE) | [Nostalgique](https://open.spotify.com/artist/0vQZ3ouldVTGqaF2RJCr6O) | [Hello, Beautiful](https://open.spotify.com/album/2visBkenZRm39wKPaCd5kh) | 1:16 | 2022-04-15 | 2022-06-10 |
 | [Hello, Hi](https://open.spotify.com/track/5W3FAOOcBGlhyS14THQvPC) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [Hello, Hi](https://open.spotify.com/album/33JTS1buALOUApqVP63eSL) | 2:10 | 2022-06-03 | 2022-09-03 |

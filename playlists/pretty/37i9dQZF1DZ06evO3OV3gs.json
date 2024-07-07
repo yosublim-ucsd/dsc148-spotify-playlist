@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 661002,
+  "num_followers": 661164,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAADR0jkOOgt52sHx/c+TVv00",
+  "snapshot_id": "Zoc3gAAAAAB6S5xwmhXaQZwJEGHBWtqm",
   "tracks": [
     {
       "added_at": null,
@@ -227,8 +227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 281880,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/55whbebR4olz2HHcRQa2kx"
+      "duration_ms": 251160,
+      "name": "The Power of Good-Bye",
+      "url": "https://open.spotify.com/track/01VFDkHBNJcCNUjzD3flWg"
     },
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ray of Light",
-        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 251160,
-      "name": "The Power of Good-Bye",
-      "url": "https://open.spotify.com/track/01VFDkHBNJcCNUjzD3flWg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who's That Girl Soundtrack",
         "url": "https://open.spotify.com/album/21vHnROXDZY51gJxsjTLXZ"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 239173,
       "name": "Who's That Girl",
       "url": "https://open.spotify.com/track/3G0NNqwQ1sqRpySr6soHlH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "Ray of Light",
+      "url": "https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
       "duration_ms": 257466,
       "name": "True Blue",
       "url": "https://open.spotify.com/track/7azOuDeJGbxt5mvq3GQHXp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ray of Light",
-        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 322000,
-      "name": "Ray of Light",
-      "url": "https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6"
     },
     {
       "added_at": null,
@@ -440,9 +424,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 238360,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/4FMNpPI7mkhdeFCCk6fZiE"
+      "duration_ms": 229280,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/3kme5Qos8h04yrKxsgur79"
     },
     {
       "added_at": null,
@@ -508,9 +492,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 229280,
-      "name": "Open Your Heart",
-      "url": "https://open.spotify.com/track/3kme5Qos8h04yrKxsgur79"
+      "duration_ms": 238360,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/4FMNpPI7mkhdeFCCk6fZiE"
     },
     {
       "added_at": null,
@@ -824,13 +808,13 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         },
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 298164,
-      "name": "Medell\u00edn (with Maluma)",
-      "url": "https://open.spotify.com/track/6mfu6jyFgvnXeTPQrYNs8d"
+      "duration_ms": 245706,
+      "name": "Faz Gostoso (feat. Anitta)",
+      "url": "https://open.spotify.com/track/2SC14LGDbRWRlyLg9Wupa0"
     },
     {
       "added_at": null,
@@ -867,42 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bedtime Stories",
-        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 293933,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/4Cna7QxOOTNnylVHLtShCi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Madame X (Deluxe)",
-        "url": "https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 245706,
-      "name": "Faz Gostoso (feat. Anitta)",
-      "url": "https://open.spotify.com/track/2SC14LGDbRWRlyLg9Wupa0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frozen On Fire",
         "url": "https://open.spotify.com/album/1tigrws32UpX26xU9Y3Yac"
       },
@@ -923,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bedtime Stories",
+        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 293933,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/4Cna7QxOOTNnylVHLtShCi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "American Life",
         "url": "https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW"
       },
@@ -935,6 +899,42 @@
       "duration_ms": 216026,
       "name": "Love Profusion",
       "url": "https://open.spotify.com/track/5NDS6qHwbOmVqZgTvtC66y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Erotica (PA Version)",
+        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 333466,
+      "name": "Deeper and Deeper",
+      "url": "https://open.spotify.com/track/6KU8g98m1tcrUXRNjPQeOI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hung Up on Tokischa",
+        "url": "https://open.spotify.com/album/0lJ8KgNF2nzGoCv2yfrBxQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 206315,
+      "name": "Hung Up on Tokischa",
+      "url": "https://open.spotify.com/track/3oJzE5dSRl51xxzLeih0sy"
     }
   ],
   "unique_name": "This Is Madonna",

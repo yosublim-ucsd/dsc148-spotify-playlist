@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 323953,
+  "num_followers": 324139,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-07-06 00:00:00",
       "album": {
+        "name": "Need U",
+        "url": "https://open.spotify.com/album/3LsEuZvOQzvosI3IYTYqzo"
+      },
+      "artists": [
+        {
+          "name": "John Neo",
+          "url": "https://open.spotify.com/artist/2elFwsVoQgp6d5x7fl68De"
+        }
+      ],
+      "duration_ms": 131070,
+      "name": "Need U",
+      "url": "https://open.spotify.com/track/5QQbY1pT2kOfYW48UXz03c"
+    },
+    {
+      "added_at": "2024-07-06 00:00:00",
+      "album": {
         "name": "Cemal\u0131m",
         "url": "https://open.spotify.com/album/7aCBkw9nDEr3gadb0yjzjc"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 227419,
       "name": "Cemal\u0131m",
       "url": "https://open.spotify.com/track/7FN0P5LONPlHjTksSOI5K5"
-    },
-    {
-      "added_at": "2024-07-06 00:00:00",
-      "album": {
-        "name": "Need U",
-        "url": "https://open.spotify.com/album/3LsEuZvOQzvosI3IYTYqzo"
-      },
-      "artists": [
-        {
-          "name": "John Neo",
-          "url": "https://open.spotify.com/artist/2elFwsVoQgp6d5x7fl68De"
-        }
-      ],
-      "duration_ms": 131070,
-      "name": "Need U",
-      "url": "https://open.spotify.com/track/5QQbY1pT2kOfYW48UXz03c"
     },
     {
       "added_at": "2024-07-06 00:00:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2024-07-06 00:00:00",
       "album": {
-        "name": "3ala bali",
-        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Pamela Antoun",
-          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
-        }
-      ],
-      "duration_ms": 210132,
-      "name": "3ala bali",
-      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
-    },
-    {
-      "added_at": "2024-07-06 00:00:00",
-      "album": {
         "name": "Sophonisbe",
         "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 396428,
       "name": "Sophonisbe - Sahale Remix",
       "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
+    },
+    {
+      "added_at": "2024-07-06 00:00:00",
+      "album": {
+        "name": "3ala bali",
+        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Pamela Antoun",
+          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
+        }
+      ],
+      "duration_ms": 210132,
+      "name": "3ala bali",
+      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
     },
     {
       "added_at": "2024-07-06 00:00:00",
@@ -1159,6 +1159,30 @@
     {
       "added_at": "2024-07-06 00:00:00",
       "album": {
+        "name": "Y\u00e2r",
+        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
+      },
+      "artists": [
+        {
+          "name": "Avcio",
+          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
+        },
+        {
+          "name": "fidanson",
+          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
+        },
+        {
+          "name": "Ezgi Sa\u011fl\u0131k",
+          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
+        }
+      ],
+      "duration_ms": 97636,
+      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
+      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
+    },
+    {
+      "added_at": "2024-07-06 00:00:00",
+      "album": {
         "name": "El Hawa",
         "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
       },
@@ -1211,30 +1235,6 @@
     {
       "added_at": "2024-07-06 00:00:00",
       "album": {
-        "name": "Salam",
-        "url": "https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA"
-      },
-      "artists": [
-        {
-          "name": "Anis Karek",
-          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        },
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        }
-      ],
-      "duration_ms": 273502,
-      "name": "Rhim - Jad Halal Remix",
-      "url": "https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon"
-    },
-    {
-      "added_at": "2024-07-06 00:00:00",
-      "album": {
         "name": "Beirut",
         "url": "https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh"
       },
@@ -1255,26 +1255,26 @@
     {
       "added_at": "2024-07-06 00:00:00",
       "album": {
-        "name": "Y\u00e2r",
-        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
+        "name": "Salam",
+        "url": "https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA"
       },
       "artists": [
         {
-          "name": "Avcio",
-          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
+          "name": "Anis Karek",
+          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
         },
         {
-          "name": "fidanson",
-          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
         },
         {
-          "name": "Ezgi Sa\u011fl\u0131k",
-          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
         }
       ],
-      "duration_ms": 97636,
-      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
-      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
+      "duration_ms": 273502,
+      "name": "Rhim - Jad Halal Remix",
+      "url": "https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon"
     },
     {
       "added_at": "2024-07-06 00:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-07-06 00:00:00",
       "album": {
-        "name": "Watra",
-        "url": "https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg"
-      },
-      "artists": [
-        {
-          "name": "D33pSoul",
-          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
-        }
-      ],
-      "duration_ms": 141754,
-      "name": "Watra",
-      "url": "https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2"
-    },
-    {
-      "added_at": "2024-07-06 00:00:00",
-      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 213737,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
+    },
+    {
+      "added_at": "2024-07-06 00:00:00",
+      "album": {
+        "name": "Watra",
+        "url": "https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg"
+      },
+      "artists": [
+        {
+          "name": "D33pSoul",
+          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
+        }
+      ],
+      "duration_ms": 141754,
+      "name": "Watra",
+      "url": "https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2"
     },
     {
       "added_at": "2024-07-06 00:00:00",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2024-07-06 00:00:00",
       "album": {
-        "name": "Eternal Roots",
-        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
       },
       "artists": [
         {
-          "name": "SAFAR",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
         }
       ],
-      "duration_ms": 305005,
-      "name": "Eternal Roots",
-      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
+      "duration_ms": 184421,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
     },
     {
       "added_at": "2024-07-06 00:00:00",
@@ -1555,6 +1555,22 @@
       "duration_ms": 332000,
       "name": "La Blanche",
       "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
+    },
+    {
+      "added_at": "2024-07-06 00:00:00",
+      "album": {
+        "name": "Eternal Roots",
+        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
+      },
+      "artists": [
+        {
+          "name": "SAFAR",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "duration_ms": 305005,
+      "name": "Eternal Roots",
+      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
     },
     {
       "added_at": "2024-07-06 00:00:00",
@@ -1599,22 +1615,6 @@
       "duration_ms": 355886,
       "name": "Lbechra",
       "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"
-    },
-    {
-      "added_at": "2024-07-06 00:00:00",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
     },
     {
       "added_at": "2024-07-06 00:00:00",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2024-07-06 00:00:00",
       "album": {
-        "name": "White Desert",
-        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
-      },
-      "artists": [
-        {
-          "name": "Pysh",
-          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
-        },
-        {
-          "name": "Stephane Salerno",
-          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
-        }
-      ],
-      "duration_ms": 400696,
-      "name": "White Desert",
-      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
-    },
-    {
-      "added_at": "2024-07-06 00:00:00",
-      "album": {
         "name": "Yaman",
         "url": "https://open.spotify.com/album/5xWy7VAU1D1e6RJandRATO"
       },
@@ -1871,6 +1851,26 @@
       "duration_ms": 293694,
       "name": "Yaman - Radio Edit",
       "url": "https://open.spotify.com/track/1JomuRkday0y29kjtxJQ0q"
+    },
+    {
+      "added_at": "2024-07-06 00:00:00",
+      "album": {
+        "name": "White Desert",
+        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+      },
+      "artists": [
+        {
+          "name": "Pysh",
+          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        }
+      ],
+      "duration_ms": 400696,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
     },
     {
       "added_at": "2024-07-06 00:00:00",
@@ -1915,18 +1915,22 @@
     {
       "added_at": "2024-07-06 00:00:00",
       "album": {
-        "name": "Arabian Soul",
-        "url": "https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9"
+        "name": "Ya Rayeh",
+        "url": "https://open.spotify.com/album/3rxXVZ7hyrgUlzlT64C5QM"
       },
       "artists": [
         {
-          "name": "DJ Oscar Sharm",
-          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        },
+        {
+          "name": "Latif El Idrissi",
+          "url": "https://open.spotify.com/artist/3jBG8lkqZiBWL2GDMsE2rD"
         }
       ],
-      "duration_ms": 312125,
-      "name": "Arabian Soul",
-      "url": "https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4"
+      "duration_ms": 330150,
+      "name": "Ya Rayeh",
+      "url": "https://open.spotify.com/track/3PU7mVJbqsEsowKgEPdqNW"
     }
   ],
   "unique_name": "mosaic",

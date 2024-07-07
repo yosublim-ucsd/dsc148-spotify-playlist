@@ -4,7 +4,7 @@
 
 > Lo que necesita cualquier verbena veraniega.
 
-243 songs - 15 hr 29 min
+244 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [La Bicicleta](https://open.spotify.com/track/0Gx4VrHzS7pZOEAGrmXXBH) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [VIVES](https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK) | 3:49 | 2022-08-11 | 2024-04-19 |
 | [La Bilirrubina](https://open.spotify.com/track/4xzcXQrlMKwvv3kDpvBKWm) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:05 | 2022-08-11 |  |
 | [La Bilirrubina](https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:05 | 2022-08-11 | 2024-04-19 |
-| [La Bomba](https://open.spotify.com/track/5UmGJS0jd1r52OjnNvVHvU) | [King Africa](https://open.spotify.com/artist/2vAu3qMgOvtukijgajuXhM) | [La Bomba](https://open.spotify.com/album/6P73QHeqdIP1AnJYopAPB2) | 3:19 | 2023-06-09 |  |
+| [La Bomba](https://open.spotify.com/track/5UmGJS0jd1r52OjnNvVHvU) | [King Africa](https://open.spotify.com/artist/2vAu3qMgOvtukijgajuXhM) | [La Bomba](https://open.spotify.com/album/6P73QHeqdIP1AnJYopAPB2) | 3:19 | 2023-06-09 | 2024-07-07 |
 | [La Camisa Negra](https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:36 | 2022-08-11 |  |
 | [La Cintura](https://open.spotify.com/track/6VUJQqyeQhAZHkQbSDqLtI) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Mar De Colores \(Versión Extendida\)](https://open.spotify.com/album/66IXFg1AukADK41CP0xANr) | 3:24 | 2023-06-09 | 2024-04-19 |
 | [La Cucaracha](https://open.spotify.com/track/3VBnhEvPBkH5nUMCtAGpv7) | [El Combo Dominicano](https://open.spotify.com/artist/0SRhX6qz5KzKtfvY85Jgsb) | [La Cucaracha](https://open.spotify.com/album/52RyozzM58iDLzgKyxuOZ1) | 4:04 | 2023-06-09 |  |
@@ -189,6 +189,7 @@
 | [Rock And Roll en la Plaza del Pueblo](https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Matricula De Honor/New Booklet](https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv) | 3:00 | 2023-06-09 |  |
 | [Salir](https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Canciones Prohibidas](https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG) | 5:18 | 2023-06-09 |  |
 | [Salomé](https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado a Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:13 | 2023-06-09 |  |
+| [Salsa Con Reggaetón](https://open.spotify.com/track/7KnfMJhMvciKC9TKEWVXi8) | [K\-Narias](https://open.spotify.com/artist/6bwz9tsKnEgaWbwGobFWQR) | [Hombres Con Pañales](https://open.spotify.com/album/0hS0znsJelROTBJXG6l8sT) | 3:25 | 2024-06-18 |  |
 | [Salta!!!](https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Confidencial/New Booklet](https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU) | 3:09 | 2023-06-09 |  |
 | [Samba de Janeiro](https://open.spotify.com/track/5aIfLbdgkbH7NbQryd1poB) | [Bellini](https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6) | [Samba de Janeiro](https://open.spotify.com/album/5TfIXTpntvzKhPPH7JBBoR) | 2:48 | 2023-06-09 |  |
 | [Sarandonga](https://open.spotify.com/track/2zNDRGoRkNEkMhO5fcGTMv) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Lola Lolita Lola](https://open.spotify.com/album/4NLreQcjpcQESB7yvGU8RY) | 4:00 | 2023-06-09 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 60069,
+  "num_followers": 60149,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "De California Te Escribo",
-        "url": "https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX"
-      },
-      "artists": [
-        {
-          "name": "Raul Garcia Y Su Grupo Kabildo",
-          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "El Rey Pobre",
-      "url": "https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Cuando Los Hombres Lloran",
         "url": "https://open.spotify.com/album/5YIASXVs6Ps86VhKtihANo"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 156288,
       "name": "Cuando Los Hombres Lloran",
       "url": "https://open.spotify.com/track/2ZfamCU9nLYxUa9dxIpd14"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "De California Te Escribo",
+        "url": "https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX"
+      },
+      "artists": [
+        {
+          "name": "Raul Garcia Y Su Grupo Kabildo",
+          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "El Rey Pobre",
+      "url": "https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Casita de Adobe",
-        "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
-      },
-      "artists": [
-        {
-          "name": "Estrellas De Tuzantla",
-          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
-        }
-      ],
-      "duration_ms": 239737,
-      "name": "Casita de Adobe",
-      "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Homenaje al Rey Pobre",
         "url": "https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST"
       },
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "Casita de Adobe",
+        "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
+      },
+      "artists": [
+        {
+          "name": "Estrellas De Tuzantla",
+          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
+        }
+      ],
+      "duration_ms": 239737,
+      "name": "Casita de Adobe",
+      "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "Como Diablos Te Olvido",
         "url": "https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Eres Mi Sexto Sentido",
-        "url": "https://open.spotify.com/album/4ixLghGMb69nGfkirXyGe6"
-      },
-      "artists": [
-        {
-          "name": "tierra caliente music",
-          "url": "https://open.spotify.com/artist/5jcQ9RE1WsH5D2j2Nb1Xp0"
-        }
-      ],
-      "duration_ms": 184900,
-      "name": "Guachita Hermosa",
-      "url": "https://open.spotify.com/track/5I7VMy1ueLlh8HBDN1DM4h"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Made in Michoacan",
         "url": "https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 224840,
       "name": "Mi Destino Fue Quererte",
       "url": "https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Eres Mi Sexto Sentido",
+        "url": "https://open.spotify.com/album/4ixLghGMb69nGfkirXyGe6"
+      },
+      "artists": [
+        {
+          "name": "tierra caliente music",
+          "url": "https://open.spotify.com/artist/5jcQ9RE1WsH5D2j2Nb1Xp0"
+        }
+      ],
+      "duration_ms": 184900,
+      "name": "Guachita Hermosa",
+      "url": "https://open.spotify.com/track/5I7VMy1ueLlh8HBDN1DM4h"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "2 Cruces",
-        "url": "https://open.spotify.com/album/6UKgOa6D1RQMs1mDec2ZqL"
-      },
-      "artists": [
-        {
-          "name": "Joaquin el Guache",
-          "url": "https://open.spotify.com/artist/4ykAZA5ykehQ5GpFmcr677"
-        }
-      ],
-      "duration_ms": 187637,
-      "name": "2 Cruces",
-      "url": "https://open.spotify.com/track/5BLvkvcMVRMxEXbuRocGeb"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Se Equivoco Tu Corazon",
         "url": "https://open.spotify.com/album/0L9ukApFrYj9w8eMODlVEb"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 149693,
       "name": "Lo Descubri En Tus Brazos",
       "url": "https://open.spotify.com/track/5MzjN7ydAXnv7odUfl0xV7"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "2 Cruces",
+        "url": "https://open.spotify.com/album/6UKgOa6D1RQMs1mDec2ZqL"
+      },
+      "artists": [
+        {
+          "name": "Joaquin el Guache",
+          "url": "https://open.spotify.com/artist/4ykAZA5ykehQ5GpFmcr677"
+        }
+      ],
+      "duration_ms": 187637,
+      "name": "2 Cruces",
+      "url": "https://open.spotify.com/track/5BLvkvcMVRMxEXbuRocGeb"
     },
     {
       "added_at": "2024-06-07 06:00:00",

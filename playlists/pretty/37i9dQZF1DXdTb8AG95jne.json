@@ -1,6 +1,6 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: LEE SEUNG YOON(\uc774\uc2b9\uc724)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 469764,
+  "num_followers": 469835,
   "original_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-05 02:32:09",
       "album": {
-        "name": "pony",
-        "url": "https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "pony",
-      "url": "https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V"
-    },
-    {
-      "added_at": "2024-07-05 02:32:09",
-      "album": {
         "name": "\"L\"",
         "url": "https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 192514,
       "name": "Starfish on your head",
       "url": "https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh"
+    },
+    {
+      "added_at": "2024-07-05 02:32:09",
+      "album": {
+        "name": "pony",
+        "url": "https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "pony",
+      "url": "https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V"
     },
     {
       "added_at": "2024-07-05 02:32:09",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-07-05 02:32:09",
       "album": {
-        "name": "ringringring",
-        "url": "https://open.spotify.com/album/2gw8fYdm5Sxc1NCntLC7EH"
+        "name": "pool vol. 2 - Peanut Butter Sandwich",
+        "url": "https://open.spotify.com/album/3yItJ86DsLRh9OynW2x8pV"
       },
       "artists": [
         {
-          "name": "SURL",
-          "url": "https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3"
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
         }
       ],
-      "duration_ms": 227000,
-      "name": "ringringring",
-      "url": "https://open.spotify.com/track/18jycfEb8t7gDaELRiVNac"
+      "duration_ms": 231386,
+      "name": "Peanut butter Sandwich",
+      "url": "https://open.spotify.com/track/3A76bRRuVaIJrV8mrVeb21"
     }
   ],
   "unique_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",

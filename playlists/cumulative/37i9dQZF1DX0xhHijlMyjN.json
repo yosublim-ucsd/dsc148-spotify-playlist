@@ -2122,7 +2122,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 199106,
       "name": "La Bomba",
       "url": "https://open.spotify.com/track/5UmGJS0jd1r52OjnNvVHvU"
@@ -3532,6 +3532,24 @@
       "duration_ms": 253133,
       "name": "Salom\u00e9",
       "url": "https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM"
+    },
+    {
+      "album": {
+        "name": "Hombres Con Pa\u00f1ales",
+        "url": "https://open.spotify.com/album/0hS0znsJelROTBJXG6l8sT"
+      },
+      "artists": [
+        {
+          "name": "K-Narias",
+          "url": "https://open.spotify.com/artist/6bwz9tsKnEgaWbwGobFWQR"
+        }
+      ],
+      "date_added": "2024-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205453,
+      "name": "Salsa Con Reggaet\u00f3n",
+      "url": "https://open.spotify.com/track/7KnfMJhMvciKC9TKEWVXi8"
     },
     {
       "album": {

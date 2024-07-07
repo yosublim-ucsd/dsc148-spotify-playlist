@@ -1,12 +1,12 @@
 {
-  "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 195440,
+  "description": "This Is Sum 41. Los temas esenciales, todos en una lista.",
+  "num_followers": 195516,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAAA0srCqvbBwYyDVyfncaMQs",
+  "snapshot_id": "Zoc3gAAAAACUtrVm8rL9fUPRfHEK+l1s",
   "tracks": [
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 135586,
-      "name": "Crazy Amanda Bunkface",
-      "url": "https://open.spotify.com/track/4jLe3N7rJMTBE7MiHiYJeQ"
+      "duration_ms": 178826,
+      "name": "Rhythms",
+      "url": "https://open.spotify.com/track/6t8phlQc47YhAF38sucBRw"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 178826,
-      "name": "Rhythms",
-      "url": "https://open.spotify.com/track/6t8phlQc47YhAF38sucBRw"
+      "duration_ms": 135586,
+      "name": "Crazy Amanda Bunkface",
+      "url": "https://open.spotify.com/track/4jLe3N7rJMTBE7MiHiYJeQ"
     },
     {
       "added_at": null,

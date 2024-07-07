@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,715 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,738 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 45 | [Ome Robert](https://open.spotify.com/track/4hFLAgCvQdngAtIhb3KaVI) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Albino](https://open.spotify.com/album/2X87EHKVeyoKrjMfaGpJfR) | 2:32 |
 | 46 | [Forget You](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Forget You](https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6) | 2:27 |
 | 47 | [Makeba](https://open.spotify.com/track/5JdLUE9D743ob2RtgmVpVx) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka](https://open.spotify.com/album/2S12TNfqdnUFdTfYlE96tb) | 4:09 |
-| 48 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 |
-| 49 | [Soñar](https://open.spotify.com/track/3lI1sZnyM1Ju3ApgNo0ITT) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Soñar](https://open.spotify.com/album/7A70nUpKaVQYIlDfyZjoT0) | 4:15 |
+| 48 | [Soñar](https://open.spotify.com/track/3lI1sZnyM1Ju3ApgNo0ITT) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Soñar](https://open.spotify.com/album/7A70nUpKaVQYIlDfyZjoT0) | 4:15 |
+| 49 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 |
 | 50 | [Barbaras Rhabarberbar](https://open.spotify.com/track/7ki0Q2nYTBhVxZvqLLDp5W) | [Bodo Wartke](https://open.spotify.com/artist/62YvTZOwIJTFumiiXIiIwn), [Marti Fischer](https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV) | [Zungenbrecher 4.0 \- Staffel 4](https://open.spotify.com/album/2AKVV2Rx3cmIZuUkND2NkC) | 1:25 |
 | 51 | [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 |
 | 52 | [Karma](https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Karma](https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak) | 3:07 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 62 | [Tiara](https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Tiara](https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn) | 3:23 |
 | 63 | [Osztriga](https://open.spotify.com/track/1BXp9PwKtW5AKD0QDdaPSw) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A bús barista balladái](https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo) | 2:06 |
 | 64 | [Rocketship](https://open.spotify.com/track/5q2zRUEMUMh51Ipd97bmAa) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Rocketship](https://open.spotify.com/album/4za3vqGRKS1vFTQAhYnLwQ) | 2:36 |
-| 65 | [Don't Turn the Bass Down](https://open.spotify.com/track/0m1rKryxt6PuEStB89hEgy) | [L'Entourloop](https://open.spotify.com/artist/63vMehdxxRWq9HBZHskapk), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Don't Turn the Bass Down](https://open.spotify.com/album/0tGSQtJO7b68PSv30HXfS5) | 3:22 |
+| 65 | [45 Primo](https://open.spotify.com/track/1iJSUAeT5x2fooS8jFg7cy) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [IGAZIAKÉRT](https://open.spotify.com/album/79TxTooMGOIBxL57zgx6n1) | 2:36 |
 | 66 | [kapu](https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [skatulya I](https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw) | 2:46 |
-| 67 | [45 Primo](https://open.spotify.com/track/1iJSUAeT5x2fooS8jFg7cy) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [IGAZIAKÉRT](https://open.spotify.com/album/79TxTooMGOIBxL57zgx6n1) | 2:36 |
+| 67 | [Don't Turn the Bass Down](https://open.spotify.com/track/0m1rKryxt6PuEStB89hEgy) | [L'Entourloop](https://open.spotify.com/artist/63vMehdxxRWq9HBZHskapk), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Don't Turn the Bass Down](https://open.spotify.com/album/0tGSQtJO7b68PSv30HXfS5) | 3:22 |
 | 68 | [Doktor \- Torz](https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Torz](https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh) | 2:58 |
 | 69 | [Mámor](https://open.spotify.com/track/1zWdoNRmxhBaAJiJI2SI7j) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 2:56 |
 | 70 | [Pakisztáni/popo](https://open.spotify.com/track/1tCIXEBHBFHO1x3M07z3xy) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [CARPE DIEM](https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb) | 2:41 |

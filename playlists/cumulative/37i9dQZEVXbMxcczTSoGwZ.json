@@ -9548,7 +9548,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 152979,
       "name": "GIRLS",
       "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
@@ -9830,7 +9830,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -10630,7 +10630,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 183482,
       "name": "Heikkouteni (feat. TUULI)",
       "url": "https://open.spotify.com/track/1NwbEj6H1dRsgPcd7CKJNa"
@@ -12558,6 +12558,32 @@
       "duration_ms": 187943,
       "name": "I'm Tired - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
+    },
+    {
+      "album": {
+        "name": "IBZ (feat. T Swoop & Nelli Orell)",
+        "url": "https://open.spotify.com/album/0Z6bOiJgEL0JaLlzOgezgd"
+      },
+      "artists": [
+        {
+          "name": "Aste",
+          "url": "https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL"
+        },
+        {
+          "name": "T Swoop",
+          "url": "https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3"
+        },
+        {
+          "name": "Nelli Orell",
+          "url": "https://open.spotify.com/artist/1Buj43f2VREVfcmEsNBjVd"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150360,
+      "name": "IBZ (feat. T Swoop & Nelli Orell)",
+      "url": "https://open.spotify.com/track/2DjLdWKFTuG6qqE6yTlKuj"
     },
     {
       "album": {
@@ -16448,7 +16474,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 165583,
       "name": "Kissa (feat. Averagekidluke)",
       "url": "https://open.spotify.com/track/698RPeb6Y12F89u1u5VRWH"
@@ -23328,7 +23354,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 166187,
       "name": "Mun vuoro safkaa",
       "url": "https://open.spotify.com/track/2uc376dOBgeCLynv8CHGCz"
@@ -24272,7 +24298,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 217223,
       "name": "Neiti Kes\u00e4hein\u00e4",
       "url": "https://open.spotify.com/track/1pJbvYH5FiR8FVY8Hpx9XX"
@@ -26586,7 +26612,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 177381,
       "name": "Paremmin ku kukaan muu",
       "url": "https://open.spotify.com/track/480mO1deUri2RsSSbTfye6"
@@ -27981,6 +28007,28 @@
     },
     {
       "album": {
+        "name": "Prinsessa (feat. baka\u00ae)",
+        "url": "https://open.spotify.com/album/3oybXiUqKzYBOzQHSfS3ii"
+      },
+      "artists": [
+        {
+          "name": "VJ",
+          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
+        },
+        {
+          "name": "baka\u00ae",
+          "url": "https://open.spotify.com/artist/2cIN5e6ouIgJiebmItnDaW"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120590,
+      "name": "Prinsessa (feat. baka\u00ae)",
+      "url": "https://open.spotify.com/track/6ioqZb07eWdepb7NaBt2xA"
+    },
+    {
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/1C7B9slsGeLEDgzbrJcHkg"
       },
@@ -28834,6 +28882,32 @@
       "duration_ms": 186209,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+    },
+    {
+      "album": {
+        "name": "Rauhaa",
+        "url": "https://open.spotify.com/album/1tBc5Z4KadITFBbIp6Y9YU"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        },
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        },
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177407,
+      "name": "Rauhaa",
+      "url": "https://open.spotify.com/track/1LgLXYqd3JYcHXfwHbszaZ"
     },
     {
       "album": {
@@ -30476,6 +30550,24 @@
       "duration_ms": 198302,
       "name": "Seksi Sein\u00e4joella",
       "url": "https://open.spotify.com/track/6xdi29bJS0Hb7yhlcFKaWU"
+    },
+    {
+      "album": {
+        "name": "Selvii p\u00e4ivii",
+        "url": "https://open.spotify.com/album/3acDUN7PzZpC8N21Pm2Ty5"
+      },
+      "artists": [
+        {
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180031,
+      "name": "Selvii p\u00e4ivii",
+      "url": "https://open.spotify.com/track/4aDQIhFNwywQ7Ch0kJCXF0"
     },
     {
       "album": {
@@ -34314,7 +34406,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 183995,
       "name": "Taustapeili",
       "url": "https://open.spotify.com/track/0Z0Y0HYw1LyhPh6JHUn8iz"
@@ -35037,6 +35129,24 @@
     },
     {
       "album": {
+        "name": "Tireht\u00f6\u00f6ri",
+        "url": "https://open.spotify.com/album/5D0Gba4iAUAEa2O9lx8sP6"
+      },
+      "artists": [
+        {
+          "name": "Spekti",
+          "url": "https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163080,
+      "name": "Tireht\u00f6\u00f6ri",
+      "url": "https://open.spotify.com/track/3JaLpRa7UO4CdF8Q0TOJjn"
+    },
+    {
+      "album": {
         "name": "Music Is The Weapon (Reloaded)",
         "url": "https://open.spotify.com/album/5pmiFuzEtKlwWQhy5irJIJ"
       },
@@ -35096,6 +35206,32 @@
       "duration_ms": 403961,
       "name": "To Be Loved",
       "url": "https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ"
+    },
+    {
+      "album": {
+        "name": "Tobey (feat. Big Sean and BabyTron)",
+        "url": "https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284892,
+      "name": "Tobey (feat. Big Sean and BabyTron)",
+      "url": "https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW"
     },
     {
       "album": {
@@ -35319,6 +35455,28 @@
     },
     {
       "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188828,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
+    },
+    {
+      "album": {
         "name": "Tout l'univers",
         "url": "https://open.spotify.com/album/1UnqlxXSM5dlxZi6vLIIEH"
       },
@@ -35490,7 +35648,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 179253,
       "name": "Tuhoaisti",
       "url": "https://open.spotify.com/track/0GAHNwEb8l7yt1ogGdDPkF"
@@ -35548,6 +35706,32 @@
       "duration_ms": 185408,
       "name": "Tulevaisuuteen",
       "url": "https://open.spotify.com/track/1qkA0EE3kgcuXQrn5lUZP7"
+    },
+    {
+      "album": {
+        "name": "Tuli mit\u00e4 vaan",
+        "url": "https://open.spotify.com/album/0pZfxk1Qim7Ul3HaF6RkJB"
+      },
+      "artists": [
+        {
+          "name": "Ida Paul & Kalle Lindroth",
+          "url": "https://open.spotify.com/artist/1pbX4qbCZOyiRA0ih5jGfX"
+        },
+        {
+          "name": "Ida Paul",
+          "url": "https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0"
+        },
+        {
+          "name": "Kalle Lindroth",
+          "url": "https://open.spotify.com/artist/49PPHx2WvBFfsk6RKE0lCi"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197054,
+      "name": "Tuli mit\u00e4 vaan",
+      "url": "https://open.spotify.com/track/5O37M1e9u0BvcMOVedVbYx"
     },
     {
       "album": {
@@ -38103,6 +38287,28 @@
     },
     {
       "album": {
+        "name": "Viimeinen pisara (feat. Etta)",
+        "url": "https://open.spotify.com/album/1ZonF7ec14BnRP96ifuD96"
+      },
+      "artists": [
+        {
+          "name": "Jenni Vartiainen",
+          "url": "https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9"
+        },
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164415,
+      "name": "Viimeinen pisara (feat. Etta)",
+      "url": "https://open.spotify.com/track/6cbIICgbxjXqt90w3xMJrH"
+    },
+    {
+      "album": {
         "name": "Viimeinen tanssi",
         "url": "https://open.spotify.com/album/4in73tSouBxV3pESwjLT5M"
       },
@@ -38140,7 +38346,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 222439,
       "name": "Viimeinen tanssi",
       "url": "https://open.spotify.com/track/643oAKTJRrWg6sd7Npc0Qk"
@@ -39964,6 +40170,24 @@
       "duration_ms": 182790,
       "name": "Yksin\u00e4ist\u00e4 (feat. ibe)",
       "url": "https://open.spotify.com/track/66rQYlWFStk3cCFr2UOCbm"
+    },
+    {
+      "album": {
+        "name": "Yliajattelen sua",
+        "url": "https://open.spotify.com/album/5tfV5vwt0S0PMbMZAbkLVp"
+      },
+      "artists": [
+        {
+          "name": "TUULI",
+          "url": "https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171614,
+      "name": "Yliajattelen sua",
+      "url": "https://open.spotify.com/track/3cYXxC2KHuhx1NxiN04g0t"
     },
     {
       "album": {

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y92Yr.md) - [plain]
 
 ### [This Is Chappell Roan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4y92Yr)
 
-> This is Chappell Roan\. The essential tracks, all in one playlist.
+> This is Chappell Roan\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,445 likes - 23 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,706 likes - 23 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y92Yr.md) - [plain]
 | 22 | [Die Young](https://open.spotify.com/track/1dGsmX6TryxdBHfBzzZ1eK) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [School Nights](https://open.spotify.com/album/44u4QMvReXg0lhHl9xARxu) | 3:45 |
 | 23 | [Bad for You](https://open.spotify.com/track/68njXuc0Fj7kzR70Ad0Wav) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [School Nights](https://open.spotify.com/album/44u4QMvReXg0lhHl9xARxu) | 3:52 |
 
-Snapshot ID: `ZoXmAAAAAADXj8rE5Pbum9CwoNi3b11n`
+Snapshot ID: `Zoc3gAAAAABG+X/L7izHvHQvVeP84UJo`

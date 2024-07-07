@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 
 > So you think you got pocket? Cover: Nate Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,661 likes - 69 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,672 likes - 69 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 | 24 | [Nate Smith Is the Ace of Aces](https://open.spotify.com/track/3p8Gxhqy3pzCU7BRfqhqPE) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 2:17 |
 | 25 | [Inside My Memory](https://open.spotify.com/track/3gaGmRxUQ8n2vMC4BmDXSE) | [Cristiano Parato](https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP), [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn), [Lele Melotti](https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR) | [Ostinato Bass](https://open.spotify.com/album/5a1EmamjgzVgnoOgL9MMjz) | 4:13 |
 | 26 | [In The Pocket](https://open.spotify.com/track/6m7GqeOw8x6AhfAXNlA70B) | [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [Hard\-Wired](https://open.spotify.com/album/7zJPWOGX9SdA0HSkZD5qmS) | 5:30 |
-| 27 | [Jungle Circuit](https://open.spotify.com/track/1khNGmU4Hhr1GjkaISocYA) | [Trix](https://open.spotify.com/artist/0r3CKyd6SM51XaPM3b66iv) | [Art](https://open.spotify.com/album/44AeXmG9YVEx9NPSi5cEsp) | 5:35 |
+| 27 | [Jungle Circuit](https://open.spotify.com/track/1khNGmU4Hhr1GjkaISocYA) | [TRIX](https://open.spotify.com/artist/6bQlQn3QZhhTtcO4TG9lkE) | [Art](https://open.spotify.com/album/44AeXmG9YVEx9NPSi5cEsp) | 5:35 |
 | 28 | [Porky & Beans](https://open.spotify.com/track/6LcZLOWOzQGFQzRDtqefSq) | [Jeff Berlin](https://open.spotify.com/artist/4S6LWQMlfbLPNrXLY7RxI1) | [Aneurythms](https://open.spotify.com/album/6u8f8EVidJ6TJ3lRIZ4dMR) | 6:24 |
 | 29 | [Good Morning Mr Shmink](https://open.spotify.com/track/065t46m5WdOSgKtkX37DsN) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 4:59 |
 | 30 | [Duck People](https://open.spotify.com/track/3QZxDFLLr5tiuCtPKEnGaa) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1) | [Four](https://open.spotify.com/album/2wQ0Zr1lshzY6cWsKbhTca) | 5:05 |

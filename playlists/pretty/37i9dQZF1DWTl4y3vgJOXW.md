@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: A'ja Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,318,931 likes - 99 songs - 4 hr 54 min
+[](https://open.spotify.com/user/null) - 3,320,724 likes - 99 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Rhove, Niky Savage, Yung Snapp, Villabanks e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,349 likes - 116 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,372 likes - 116 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 16 | [Bank Account](https://open.spotify.com/track/2wwhZI50NiSqVkBovf6HKz) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP), [Milano Mobster](https://open.spotify.com/artist/4WAFo0IQmpG3O999VAYtJ7) | [Bank Account](https://open.spotify.com/album/59TvnbJggWTB2pVMIAvatS) | 2:08 |
 | 17 | [Demoni \(feat\. 22simba\)](https://open.spotify.com/track/2G9Zx7KBKeZgkpOD9qftq9) | [Sgribaz](https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Demoni \(feat\. 22simba\)](https://open.spotify.com/album/5ysro1UFFa2lJKCJ2yDboP) | 2:49 |
 | 18 | [XTOI](https://open.spotify.com/track/5ccxrcwcGE0mJ6thgpEVBj) | [Shavi](https://open.spotify.com/artist/6j3cFwWsq5GHasOrEIeqQk), [Rio Savana](https://open.spotify.com/artist/10vkRVtgnqn2gi0noOSIuT), [Andrea 17](https://open.spotify.com/artist/5Vn0dDQGOTSdEyPVsXi0eo) | [XTOI](https://open.spotify.com/album/2QSIy1Wp8YKM8vKdm5vxFr) | 2:48 |
-| 19 | [BOCCA DELLA VERITÀ](https://open.spotify.com/track/3tTZk8sI7WC853LADC8hZh) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neil](https://open.spotify.com/artist/0j3MbC9QJgv5lhcvF0N5uq) | [BOCCA DELLA VERITÀ](https://open.spotify.com/album/51pHiicssnO5VzkGXsLLx3) | 2:50 |
+| 19 | [BOCCA DELLA VERITÀ](https://open.spotify.com/track/3tTZk8sI7WC853LADC8hZh) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [BOCCA DELLA VERITÀ](https://open.spotify.com/album/51pHiicssnO5VzkGXsLLx3) | 2:50 |
 | 20 | [Trench Code \(feat\. Faneto\)](https://open.spotify.com/track/348FkFje2GEWdoSHRDB9ok) | [Melons el pejor](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [Trench Code \(feat\. Faneto\)](https://open.spotify.com/album/3gShtt4KfJiCrzalsXkxhA) | 3:08 |
 | 21 | [IN 'N OUT](https://open.spotify.com/track/2x83EYIFuxhJawhqgLzlBS) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti) | [IN 'N OUT](https://open.spotify.com/album/23o3IofouabTOB7sTOXxov) | 2:12 |
 | 22 | [TOGASHI \(SAGA 3\)](https://open.spotify.com/track/0hHUtelwof6u5Aqbuy9P8V) | [Dahel](https://open.spotify.com/artist/0OAu2KNpG20u8DtmJyiACW) | [TOGASHI \(SAGA 3\)](https://open.spotify.com/album/3Y7FfJz9Bf5YSADn7ZqOBK) | 1:31 |

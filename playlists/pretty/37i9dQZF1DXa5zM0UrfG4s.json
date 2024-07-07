@@ -1,6 +1,6 @@
 {
   "description": "blir det en hvit sommer?",
-  "num_followers": 110212,
+  "num_followers": 110256,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Kj\u00f8rer Som En Bestemor",
-        "url": "https://open.spotify.com/album/61FHg6nwPlTc84cQaGhL8c"
-      },
-      "artists": [
-        {
-          "name": "Ole Hartz",
-          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
-        }
-      ],
-      "duration_ms": 191142,
-      "name": "Kj\u00f8rer Som En Bestemor",
-      "url": "https://open.spotify.com/track/1V9wDqSJ9GuOKQSx2lOV00"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Jag Vill Vara Din Margareta",
         "url": "https://open.spotify.com/album/6QJVx7H5M4barKMggXATqm"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 167543,
       "name": "Jag Vill Vara Din Margareta",
       "url": "https://open.spotify.com/track/35oDGwwEB9Xnz5tmr1tjVN"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Kj\u00f8rer Som En Bestemor",
+        "url": "https://open.spotify.com/album/61FHg6nwPlTc84cQaGhL8c"
+      },
+      "artists": [
+        {
+          "name": "Ole Hartz",
+          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
+        }
+      ],
+      "duration_ms": 191142,
+      "name": "Kj\u00f8rer Som En Bestemor",
+      "url": "https://open.spotify.com/track/1V9wDqSJ9GuOKQSx2lOV00"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -915,18 +915,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Alt du vil ha",
-        "url": "https://open.spotify.com/album/2QRyTA27H57KmItlwy9LNR"
+        "name": "FREDAG",
+        "url": "https://open.spotify.com/album/2FlDQsT40blZmH2HAt097u"
       },
       "artists": [
         {
-          "name": "Sie Gubba",
-          "url": "https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6"
+          "name": "Silje Bakke",
+          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
+        },
+        {
+          "name": "Jamze",
+          "url": "https://open.spotify.com/artist/3OBoHiFRFSu5KaqskfBDPX"
         }
       ],
-      "duration_ms": 180826,
-      "name": "Alt du vil ha",
-      "url": "https://open.spotify.com/track/0gSJWzYKV9mjwO0pBs5ZXB"
+      "duration_ms": 127026,
+      "name": "FREDAG",
+      "url": "https://open.spotify.com/track/2BW06C7AAEjCdK6GVi2tzU"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -947,6 +951,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Alt du vil ha",
+        "url": "https://open.spotify.com/album/2QRyTA27H57KmItlwy9LNR"
+      },
+      "artists": [
+        {
+          "name": "Sie Gubba",
+          "url": "https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6"
+        }
+      ],
+      "duration_ms": 180826,
+      "name": "Alt du vil ha",
+      "url": "https://open.spotify.com/track/0gSJWzYKV9mjwO0pBs5ZXB"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Naboen har operert kona si",
         "url": "https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 150624,
       "name": "Naboen har operert kona si",
       "url": "https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "FREDAG",
-        "url": "https://open.spotify.com/album/2FlDQsT40blZmH2HAt097u"
-      },
-      "artists": [
-        {
-          "name": "Silje Bakke",
-          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
-        },
-        {
-          "name": "Jamze",
-          "url": "https://open.spotify.com/artist/3OBoHiFRFSu5KaqskfBDPX"
-        }
-      ],
-      "duration_ms": 127026,
-      "name": "FREDAG",
-      "url": "https://open.spotify.com/track/2BW06C7AAEjCdK6GVi2tzU"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Siste Kveld",
-        "url": "https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my"
-      },
-      "artists": [
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 159380,
-      "name": "Siste Kveld",
-      "url": "https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver (EPA Remixes)",
         "url": "https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp"
       },
@@ -1059,18 +1039,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "S\u00e5nn e livet - Live 10 \u00e5r",
-        "url": "https://open.spotify.com/album/5ddmdS7xuwOgpsD8FiJHB6"
+        "name": "Siste Kveld",
+        "url": "https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my"
       },
       "artists": [
         {
-          "name": "Sie Gubba",
-          "url": "https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6"
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 266293,
-      "name": "Fjellrypa",
-      "url": "https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd"
+      "duration_ms": 159380,
+      "name": "Siste Kveld",
+      "url": "https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1087,6 +1071,22 @@
       "duration_ms": 221833,
       "name": "Bygdas Rebell",
       "url": "https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "S\u00e5nn e livet - Live 10 \u00e5r",
+        "url": "https://open.spotify.com/album/5ddmdS7xuwOgpsD8FiJHB6"
+      },
+      "artists": [
+        {
+          "name": "Sie Gubba",
+          "url": "https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6"
+        }
+      ],
+      "duration_ms": 266293,
+      "name": "Fjellrypa",
+      "url": "https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "N\u00e5 er det helg",
-        "url": "https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius"
-      },
-      "artists": [
-        {
-          "name": "Katastrofe",
-          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
-        }
-      ],
-      "duration_ms": 183958,
-      "name": "N\u00e5 er det helg",
-      "url": "https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Ei tid (Akustisk versjon)",
         "url": "https://open.spotify.com/album/2JenyjghH78NEzzNDEfPvF"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 242906,
       "name": "Ei tid - Akustisk versjon",
       "url": "https://open.spotify.com/track/38Qxu73W4pnkkwlKJaLfUK"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "N\u00e5 er det helg",
+        "url": "https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius"
+      },
+      "artists": [
+        {
+          "name": "Katastrofe",
+          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
+        }
+      ],
+      "duration_ms": 183958,
+      "name": "N\u00e5 er det helg",
+      "url": "https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1251,18 +1251,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Der Jeg H\u00f8rer Te (Bygda)",
-        "url": "https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3"
+        "name": "Jeg fortjener en \u00f8l",
+        "url": "https://open.spotify.com/album/45biKF9vMhEpCJxrBROwjG"
       },
       "artists": [
         {
-          "name": "Ole Hartz",
-          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
+          "name": "Erik Og Kriss",
+          "url": "https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 137106,
-      "name": "Der Jeg H\u00f8rer Te (Bygda)",
-      "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
+      "duration_ms": 152822,
+      "name": "Jeg fortjener en \u00f8l",
+      "url": "https://open.spotify.com/track/12MOqhpW8IsWO5xiCqjJdU"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

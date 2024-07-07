@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Swing",
-  "num_followers": 41199,
+  "num_followers": 41202,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -63,42 +63,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Nous on sait",
-        "url": "https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx"
-      },
-      "artists": [
-        {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "Nous on sait",
-      "url": "https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "SIMULATION FREESTYLE",
-        "url": "https://open.spotify.com/album/67icCWPplOTmKycqmtR7Pl"
-      },
-      "artists": [
-        {
-          "name": "Hubert Lenoir",
-          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
-        },
-        {
-          "name": "P'tit Belliveau",
-          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
-        }
-      ],
-      "duration_ms": 150923,
-      "name": "SIMULATION FREESTYLE",
-      "url": "https://open.spotify.com/track/5zOmfRwRObA58CFCurmftN"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "TI TI TI",
         "url": "https://open.spotify.com/album/4xAALJ2WaDy2IhJUaXPPfP"
       },
@@ -123,6 +87,42 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "SIMULATION FREESTYLE",
+        "url": "https://open.spotify.com/album/67icCWPplOTmKycqmtR7Pl"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        },
+        {
+          "name": "P'tit Belliveau",
+          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
+        }
+      ],
+      "duration_ms": 150923,
+      "name": "SIMULATION FREESTYLE",
+      "url": "https://open.spotify.com/track/5zOmfRwRObA58CFCurmftN"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Nous on sait",
+        "url": "https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "Nous on sait",
+      "url": "https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "Frank Sinatra",
         "url": "https://open.spotify.com/album/72aZxjlqwxx0ZN265M0F0Q"
       },
@@ -139,18 +139,18 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Tout g\u00e2ch\u00e9",
-        "url": "https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7"
+        "name": "42",
+        "url": "https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2"
       },
       "artists": [
         {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 150029,
-      "name": "Tout g\u00e2ch\u00e9",
-      "url": "https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s"
+      "duration_ms": 175842,
+      "name": "42",
+      "url": "https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -175,18 +175,22 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "42",
-        "url": "https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2"
+        "name": "Mes Lov\u00e9s",
+        "url": "https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Ponko",
+          "url": "https://open.spotify.com/artist/2xzGVKiyGIsI4NomojrK39"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 175842,
-      "name": "42",
-      "url": "https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg"
+      "duration_ms": 188717,
+      "name": "Mes Lov\u00e9s",
+      "url": "https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -207,22 +211,18 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Lalla",
-        "url": "https://open.spotify.com/album/5OXNr5pjxuzvHgWTV4mRp0"
+        "name": "Tout g\u00e2ch\u00e9",
+        "url": "https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7"
       },
       "artists": [
         {
-          "name": "Kore",
-          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
         }
       ],
-      "duration_ms": 187319,
-      "name": "Lalla",
-      "url": "https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN"
+      "duration_ms": 150029,
+      "name": "Tout g\u00e2ch\u00e9",
+      "url": "https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -247,22 +247,22 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Mes Lov\u00e9s",
-        "url": "https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT"
+        "name": "Lalla",
+        "url": "https://open.spotify.com/album/5OXNr5pjxuzvHgWTV4mRp0"
       },
       "artists": [
         {
-          "name": "Ponko",
-          "url": "https://open.spotify.com/artist/2xzGVKiyGIsI4NomojrK39"
+          "name": "Kore",
+          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
         },
         {
           "name": "Hamza",
           "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 188717,
-      "name": "Mes Lov\u00e9s",
-      "url": "https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4"
+      "duration_ms": 187319,
+      "name": "Lalla",
+      "url": "https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Cannelloni",
-        "url": "https://open.spotify.com/album/4NZbikstasK82K7jq7YXgO"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 198146,
-      "name": "Cannelloni",
-      "url": "https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "HASTA LA VISTA",
         "url": "https://open.spotify.com/album/7hUqFjJC3W7ClnQolEO3NT"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 199666,
       "name": "HASTA LA VISTA",
       "url": "https://open.spotify.com/track/14j9HbZoSdTooGK12uTNRc"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Cannelloni",
+        "url": "https://open.spotify.com/album/4NZbikstasK82K7jq7YXgO"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 198146,
+      "name": "Cannelloni",
+      "url": "https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -467,18 +467,22 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Chaque seconde",
-        "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
+        "name": "LVDR",
+        "url": "https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1"
       },
       "artists": [
         {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
         }
       ],
-      "duration_ms": 166333,
-      "name": "Chaque seconde",
-      "url": "https://open.spotify.com/track/5QKXM4zRBrVzofZJxlO5tL"
+      "duration_ms": 161666,
+      "name": "Shayo",
+      "url": "https://open.spotify.com/track/2e7qqQ8MkLa0h5xmHL5cso"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -535,22 +539,18 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "LVDR",
-        "url": "https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1"
+        "name": "Chaque seconde",
+        "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
       },
       "artists": [
         {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
-        },
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
         }
       ],
-      "duration_ms": 161666,
-      "name": "Shayo",
-      "url": "https://open.spotify.com/track/2e7qqQ8MkLa0h5xmHL5cso"
+      "duration_ms": 166333,
+      "name": "Chaque seconde",
+      "url": "https://open.spotify.com/track/5QKXM4zRBrVzofZJxlO5tL"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -775,6 +775,26 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "MAMACITA",
+        "url": "https://open.spotify.com/album/4ZhmFglWYBzjI1hxNsjUPN"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "MAMACITA",
+      "url": "https://open.spotify.com/track/3qxnil0JyAWGS3vWxJyXEi"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "Le chant des cygnes",
         "url": "https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3"
       },
@@ -791,22 +811,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "IL LE FALLAIT",
-        "url": "https://open.spotify.com/album/55LmawLdjtaSJbJTIvvKVd"
-      },
-      "artists": [
-        {
-          "name": "Fav\u00e9",
-          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
-        }
-      ],
-      "duration_ms": 153006,
-      "name": "NO LACK",
-      "url": "https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Ton regard",
         "url": "https://open.spotify.com/album/1988pIjDPXPRwSLJQHIKvH"
       },
@@ -819,6 +823,22 @@
       "duration_ms": 153266,
       "name": "Ton regard",
       "url": "https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "IL LE FALLAIT",
+        "url": "https://open.spotify.com/album/55LmawLdjtaSJbJTIvvKVd"
+      },
+      "artists": [
+        {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        }
+      ],
+      "duration_ms": 153006,
+      "name": "NO LACK",
+      "url": "https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -843,18 +863,18 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "La Raclure",
-        "url": "https://open.spotify.com/album/7JJAarTZBx60JtTOSczlyU"
+        "name": "Play",
+        "url": "https://open.spotify.com/album/535W2Yy9YCZeKqefhEMyM0"
       },
       "artists": [
         {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
         }
       ],
-      "duration_ms": 182080,
-      "name": "La Raclure",
-      "url": "https://open.spotify.com/track/4QK1gqduV0DgTRhZk9Jbts"
+      "duration_ms": 208645,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/3aLBTbiSEgxDPn3FvVghCD"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -875,34 +895,18 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "J'avoue",
-        "url": "https://open.spotify.com/album/7bnbZfvaAEicU4wHezytpg"
+        "name": "La Raclure",
+        "url": "https://open.spotify.com/album/7JJAarTZBx60JtTOSczlyU"
       },
       "artists": [
         {
-          "name": "Moha K",
-          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
         }
       ],
-      "duration_ms": 182984,
-      "name": "J'avoue",
-      "url": "https://open.spotify.com/track/4jH2zP0nXyJl55ruDJpJyL"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/535W2Yy9YCZeKqefhEMyM0"
-      },
-      "artists": [
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        }
-      ],
-      "duration_ms": 208645,
-      "name": "Play",
-      "url": "https://open.spotify.com/track/3aLBTbiSEgxDPn3FvVghCD"
+      "duration_ms": 182080,
+      "name": "La Raclure",
+      "url": "https://open.spotify.com/track/4QK1gqduV0DgTRhZk9Jbts"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

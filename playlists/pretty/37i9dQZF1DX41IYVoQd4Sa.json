@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05ea\u05d5\u05de\u05e8 \u05d9\u05d5\u05e1\u05e3 \u05d5\u05e7\u05d5\u05ea\u05d9\u05de\u05d0\u05df",
-  "num_followers": 29663,
+  "num_followers": 29671,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -931,18 +931,22 @@
     {
       "added_at": "2024-07-04 21:00:00",
       "album": {
-        "name": "\u05db\u05e9\u05d0\u05d9\u05df \u05d1\u05d9 \u05d0\u05d4\u05d1\u05d4",
-        "url": "https://open.spotify.com/album/7jpjHhEo31VK1T5DaVB8S5"
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/2fXHQgcncO7Em0PcRKTE05"
       },
       "artists": [
         {
-          "name": "Daniela Spector",
-          "url": "https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W"
+          "name": "Daniella Tourgeman",
+          "url": "https://open.spotify.com/artist/7qp55YAqM5IcqzSpmoi3O7"
+        },
+        {
+          "name": "Maor Shvartzberg",
+          "url": "https://open.spotify.com/artist/0lQpHeiH1mC9GkSPSQvj65"
         }
       ],
-      "duration_ms": 200680,
-      "name": "\u05db\u05e9\u05d0\u05d9\u05df \u05d1\u05d9 \u05d0\u05d4\u05d1\u05d4",
-      "url": "https://open.spotify.com/track/1H4HWSagU7m1FjQf3slAKw"
+      "duration_ms": 239562,
+      "name": "Wishing Girl - Lola Marsh Cover",
+      "url": "https://open.spotify.com/track/7tiXgnhKPsHDxYvfe85paQ"
     },
     {
       "added_at": "2024-07-04 21:00:00",
@@ -975,22 +979,18 @@
     {
       "added_at": "2024-07-04 21:00:00",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/2fXHQgcncO7Em0PcRKTE05"
+        "name": "\u05db\u05e9\u05d0\u05d9\u05df \u05d1\u05d9 \u05d0\u05d4\u05d1\u05d4",
+        "url": "https://open.spotify.com/album/7jpjHhEo31VK1T5DaVB8S5"
       },
       "artists": [
         {
-          "name": "Daniella Tourgeman",
-          "url": "https://open.spotify.com/artist/7qp55YAqM5IcqzSpmoi3O7"
-        },
-        {
-          "name": "Maor Shvartzberg",
-          "url": "https://open.spotify.com/artist/0lQpHeiH1mC9GkSPSQvj65"
+          "name": "Daniela Spector",
+          "url": "https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W"
         }
       ],
-      "duration_ms": 239562,
-      "name": "Wishing Girl - Lola Marsh Cover",
-      "url": "https://open.spotify.com/track/7tiXgnhKPsHDxYvfe85paQ"
+      "duration_ms": 200680,
+      "name": "\u05db\u05e9\u05d0\u05d9\u05df \u05d1\u05d9 \u05d0\u05d4\u05d1\u05d4",
+      "url": "https://open.spotify.com/track/1H4HWSagU7m1FjQf3slAKw"
     },
     {
       "added_at": "2024-07-04 21:00:00",

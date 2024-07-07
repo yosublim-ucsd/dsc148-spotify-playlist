@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover:  Dunnie
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,354 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,369 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 8 | [Gin & Juice](https://open.spotify.com/track/68ywjjGuJD3uzJDKJpXQB5) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Another Style](https://open.spotify.com/album/0z3KhLC6yItBrFzYvHOe8y) | 2:36 |
 | 9 | [A Million Things](https://open.spotify.com/track/1jG5GaaSjcX5F6qy6RuvbN) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [A Million Things](https://open.spotify.com/album/3m8ZRJvS9m5wEwScchXjlv) | 3:07 |
 | 10 | [Gen\-Z Faaji](https://open.spotify.com/track/6ML4o3KWB24d8R7RU6fVkl) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Gen\-Z Faaji](https://open.spotify.com/album/3cYGt8zKA4oN1JFIiXGd7Z) | 3:39 |
-| 11 | [ONOME](https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg) | 3:17 |
+| 11 | [ONOME](https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg) | 3:18 |
 | 12 | [MAJO](https://open.spotify.com/track/0CRU6MdxT0fuptw7GoGrrA) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good II](https://open.spotify.com/album/0XggRVMapMGMuh55fKDD4Y) | 2:47 |
 | 13 | [My Heart](https://open.spotify.com/track/0U8tAKDSunJl0Vo64GcqlW) | [Konstance](https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [My Heart](https://open.spotify.com/album/3OmSaK7TjzoCcdB1uZDYAz) | 2:36 |
 | 14 | [Ko Possible](https://open.spotify.com/track/6LZrYVJpaTUGmnxUiWSqcd) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Ko Possible](https://open.spotify.com/album/2AQgwujElBT9oTirF9o8ch) | 1:58 |

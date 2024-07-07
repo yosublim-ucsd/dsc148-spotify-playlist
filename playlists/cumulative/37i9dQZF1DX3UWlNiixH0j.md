@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: どんぐりず \(DONGURIZU\)
 
-1,735 songs - 4 day 11 hr 39 min
+1,736 songs - 4 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -855,7 +855,7 @@
 | [SHOZEN](https://open.spotify.com/track/016rLtnTe7IChoF8f0l0Nu) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [SHOZEN](https://open.spotify.com/album/6FEJoTviFUPHucUfGgbJT9) | 3:43 | 2023-12-05 | 2024-03-06 |
 | [Shunrai](https://open.spotify.com/track/6QIyB1933cJ6VBt50bzidT) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 3:39 | 2023-03-30 | 2023-04-05 |
 | [Side Step](https://open.spotify.com/track/1te3NRWiAyRzowFqMrrLw0) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Side Step](https://open.spotify.com/album/6TvvtkYhB2KIFvPeXMTTE6) | 3:28 | 2024-02-20 | 2024-03-13 |
-| [Side Step](https://open.spotify.com/track/386pH7tdgWOUkvAEija9eK) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Your Favorite Things](https://open.spotify.com/album/45w2uu1ElL5z9NCTJ9Sf8e) | 3:28 | 2024-03-12 |  |
+| [Side Step](https://open.spotify.com/track/386pH7tdgWOUkvAEija9eK) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Your Favorite Things](https://open.spotify.com/album/45w2uu1ElL5z9NCTJ9Sf8e) | 3:28 | 2024-03-12 | 2024-07-07 |
 | [Siesta](https://open.spotify.com/track/74J0ffff6Hp3fYCkp3ceKW) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Siesta](https://open.spotify.com/album/4q5mMGjlcMUUhlGd4RWDp3) | 3:11 | 2023-04-25 | 2023-05-10 |
 | [Signal](https://open.spotify.com/track/0RWAEbEcbu53uJjGEykgOi) | [藤本夏樹](https://open.spotify.com/artist/0l14yZqsqEyTqqaR7tz4iz) | [RANDOM](https://open.spotify.com/album/4S7xvdrtOQqUFMd9Clwksr) | 5:07 | 2023-08-08 | 2023-08-23 |
 | [sinister](https://open.spotify.com/track/7tR03ofElFzll0dVIgnIAm) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [sinister](https://open.spotify.com/album/2sYMWQ3gsmhz8waGwYpGCq) | 3:38 | 2023-04-11 | 2024-01-09 |
@@ -909,7 +909,7 @@
 | [Step By Step](https://open.spotify.com/track/2yOWhJp10UqSiW5WuE1pJF) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011), [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [Step By Step](https://open.spotify.com/album/6hjTU7HdnWBk41VUnymI2m) | 3:54 | 2024-06-18 |  |
 | [Storm](https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [KARÍTAS](https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc) | [Storm](https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g) | 3:46 | 2023-01-12 | 2023-03-01 |
 | [Strange Leaf](https://open.spotify.com/track/3c9NKkqj3SNvc1njMOgUks) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Strange Leaf](https://open.spotify.com/album/5GX6BXfojiA7qG2sXni4hb) | 3:47 | 2023-11-12 | 2023-11-27 |
-| [Strangers In The Night](https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Strangers In The Night](https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv) | 3:55 | 2023-10-31 | 2024-07-03 |
+| [Strangers In The Night](https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Strangers In The Night](https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv) | 3:55 | 2023-10-31 |  |
 | [strong zero gravity](https://open.spotify.com/track/701I1Uyx6gLciKwRfuhSJR) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3) | [strong zero gravity](https://open.spotify.com/album/7dv9fz7OJTyH5UpwvIkzLy) | 4:13 | 2023-01-12 | 2023-01-18 |
 | [suddenly](https://open.spotify.com/track/60H06Uwpf1K7ZSzIPXloZr) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [Ampersand](https://open.spotify.com/album/2WQwITVOBHDt6YzUa2tSnt) | 4:49 | 2023-01-24 | 2023-03-10 |
 | [sugar cannon ball](https://open.spotify.com/track/6KF2HG0q8q7xighJaoKPvU) | [インディアカヌー](https://open.spotify.com/artist/1KNT3mnqMTCRXaDHkGcm7r) | [sugar cannon ball / alcohol](https://open.spotify.com/album/3s1VTJFQN3viRC9NEh2mfU) | 5:18 | 2023-11-30 | 2023-12-06 |
@@ -1136,7 +1136,8 @@
 | [あなたを踊らせたい](https://open.spotify.com/track/6disnHJweSQLGaoAPwF36R) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [あなたを踊らせたい](https://open.spotify.com/album/1xWEFy3OY6pJp6shojQAA1) | 4:51 | 2023-08-30 | 2023-10-18 |
 | [あのうたがきこえる \- feat.Ema & 吉田沙良\(モノンクル\)](https://open.spotify.com/track/4XAKBxbKGViYZUrH7g59B6) | [象眠舎](https://open.spotify.com/artist/7KSV9OZfpTakHP1o9uPFG6), [Ema](https://open.spotify.com/artist/75cOYlSMrc2yl7Qo6ijHN1), [吉田沙良\(モノンクル\)](https://open.spotify.com/artist/5zPTykeJKoiGZhhWJgLfKj) | [あのうたがきこえる \[feat.Ema & 吉田沙良\(モノンクル\)\]](https://open.spotify.com/album/4QgTPyeJtiMl74cmQdu4LM) | 6:48 | 2023-05-18 | 2023-07-25 |
 | [あの夏のRadio](https://open.spotify.com/track/0TW89yREoPADchLd1okIJ2) | [天童児直](https://open.spotify.com/artist/14X47SyysR5Hhx9g3jG4RG) | [あの夏のRadio](https://open.spotify.com/album/5CpLvAalwyQ9eKN58aiBdl) | 3:53 | 2023-08-30 | 2023-09-06 |
-| [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 | 2024-01-30 |  |
+| [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 | 2024-01-30 | 2024-07-07 |
+| [あらわれないで](https://open.spotify.com/track/64SO6pPvPRA1MrdyepGx1p) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:57 | 2024-07-02 |  |
 | [あるところ](https://open.spotify.com/track/1OpGSGItJtXVVNuor3D8uf) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [あるところ](https://open.spotify.com/album/4Ze3Umc7S4eBxxRh6SCwO9) | 3:08 | 2024-04-30 | 2024-05-08 |
 | [あるサンセット](https://open.spotify.com/track/6cBCrkEBMDigvkiUosyb66) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ハロー！グッドモーニング！](https://open.spotify.com/album/46qMP08f2cjRcfkqRLd5UH) | 4:05 | 2024-04-02 | 2024-05-22 |
 | [あんしん](https://open.spotify.com/track/02sTGST2qx3lMLkCmXWn6g) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [あんしん](https://open.spotify.com/album/0HA0iTP3cmhSfD2h9MztHO) | 3:24 | 2023-10-31 | 2024-04-29 |

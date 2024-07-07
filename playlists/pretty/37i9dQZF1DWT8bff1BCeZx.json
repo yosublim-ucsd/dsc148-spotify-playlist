@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 16369,
+  "num_followers": 16390,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Assignment",
-        "url": "https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK"
+        "name": "Mon Dieu",
+        "url": "https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd"
       },
       "artists": [
         {
-          "name": "Joepraize",
-          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Emandiong",
+          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
         }
       ],
-      "duration_ms": 262321,
-      "name": "COME AND SEE",
-      "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
+      "duration_ms": 166000,
+      "name": "Mon Dieu",
+      "url": "https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -919,18 +915,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Mon Dieu",
-        "url": "https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd"
+        "name": "The Assignment",
+        "url": "https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK"
       },
       "artists": [
         {
-          "name": "Emandiong",
-          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Mon Dieu",
-      "url": "https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk"
+      "duration_ms": 262321,
+      "name": "COME AND SEE",
+      "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
     },
     {
       "added_at": "2024-01-12 00:01:00",

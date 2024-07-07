@@ -587,6 +587,22 @@
     {
       "added_at": "2024-01-29 10:55:46",
       "album": {
+        "name": "Wander",
+        "url": "https://open.spotify.com/album/0NtsRlMtC5jJiPwi8QxlJG"
+      },
+      "artists": [
+        {
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Wander",
+      "url": "https://open.spotify.com/track/7j53xRQzT5VXy5hz8WnQLT"
+    },
+    {
+      "added_at": "2024-01-29 10:55:46",
+      "album": {
         "name": "Pacifying Morning - Blissful Yoga Magic Rhythms",
         "url": "https://open.spotify.com/album/0fO9RULLW0MSeWuybERMlt"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 222626,
       "name": "Khandam",
       "url": "https://open.spotify.com/track/4jdaOd9GLwuKlC7ssI9jqG"
-    },
-    {
-      "added_at": "2024-01-29 10:55:46",
-      "album": {
-        "name": "Wander",
-        "url": "https://open.spotify.com/album/0NtsRlMtC5jJiPwi8QxlJG"
-      },
-      "artists": [
-        {
-          "name": "Ishaan Ghosh",
-          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Wander",
-      "url": "https://open.spotify.com/track/7j53xRQzT5VXy5hz8WnQLT"
     },
     {
       "added_at": "2024-01-29 10:55:46",

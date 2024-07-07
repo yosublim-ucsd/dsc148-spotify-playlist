@@ -1,6 +1,6 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Silver Rose en portada.",
-  "num_followers": 31312,
+  "num_followers": 31347,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,26 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "Morning Sun",
+        "url": "https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        },
+        {
+          "name": "Z.A.M.P.A",
+          "url": "https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2"
+        }
+      ],
+      "duration_ms": 267019,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "Como Rei Ayanami",
         "url": "https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 237087,
       "name": "Lazy Lovers",
       "url": "https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "Morning Sun",
-        "url": "https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh"
-      },
-      "artists": [
-        {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        },
-        {
-          "name": "Z.A.M.P.A",
-          "url": "https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2"
-        }
-      ],
-      "duration_ms": 267019,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ"
     },
     {
       "added_at": "2024-06-28 06:00:00",

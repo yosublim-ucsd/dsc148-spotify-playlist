@@ -4,7 +4,7 @@
 
 > Vibrez au rythme des hits urbains et Afro en feu 🎶
 
-95 songs - 4 hr 47 min
+97 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Dawk Lya](https://open.spotify.com/track/1o3HZiLGDq1pp4OXjcQTo5) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/1u0Ay7UasMffHSWkMgyxS5) | 2:28 | 2024-04-18 | 2024-05-21 |
 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7) | 3:02 | 2024-03-26 |  |
 | [Diali](https://open.spotify.com/track/4XO9kZEztAPhjhXMfKXJ5m) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Arabesque Vol\. 3](https://open.spotify.com/album/3fedvxkm2spgp8sq4DJFFX) | 2:46 | 2024-03-26 | 2024-04-16 |
+| [Dorouf](https://open.spotify.com/track/4SboVJybgfRxp2Z6M1zUxr) | [Barri](https://open.spotify.com/artist/3UfDCiyE0dCUBe1iBBC8bl), [Tflow](https://open.spotify.com/artist/1gEQbGxdBq1vvCskS9qQBI), [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Dorouf](https://open.spotify.com/album/4lWsp6iC5Dd9pCR81VLpAp) | 3:01 | 2024-07-06 |  |
 | [DRAMA](https://open.spotify.com/track/028TQoY1jsSbLp5gUjNXph) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [DRAMA](https://open.spotify.com/album/3eqisrlNJL0vyCAezWELR3) | 3:48 | 2024-03-26 |  |
 | [ELGHIRA](https://open.spotify.com/track/5Zqqq0hj7FdMMOmkshNA7X) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [ELGHIRA](https://open.spotify.com/album/22yFEfoVOJOtcvD0BHT3bm) | 2:45 | 2024-03-26 | 2024-05-28 |
 | [En mieux](https://open.spotify.com/track/2bOILaj684WoqEbpWTswdL) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Chambre 140 \(Part.2\)](https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ) | 3:00 | 2024-03-26 | 2024-04-19 |
@@ -89,6 +90,7 @@
 | [So7ba](https://open.spotify.com/track/72Hxn5mWGhp1CDh6ZFT6zd) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [So7ba](https://open.spotify.com/album/3bFQ38gXLJgtxR6SGraJSX) | 2:53 | 2024-06-07 |  |
 | [Sokkar](https://open.spotify.com/track/22MZ14wFJ0DQUAaRy50uEW) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Sokkar](https://open.spotify.com/album/6LufOTjtT03JshmT4eT7np) | 3:08 | 2024-03-26 |  |
 | [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 | 2024-05-10 |  |
+| [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 | 2024-07-06 |  |
 | [TAGHAZOUT](https://open.spotify.com/track/7yEsnGST85zjPEbDGEoMaJ) | [Sarah & Ismael](https://open.spotify.com/artist/54iTijiayB88SSI44m1Slt), [Aziz Ozouss](https://open.spotify.com/artist/5F8YjfBPMkIBUjeYByzC1K) | [TAGHAZOUT](https://open.spotify.com/album/41GRsxsRdLnlhN06bTH2VM) | 3:28 | 2024-05-10 | 2024-05-18 |
 | [Tiki Taka](https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Tiki Taka](https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq) | 2:45 | 2024-03-26 |  |
 | [Tié fou](https://open.spotify.com/track/2pSmuV6Vt0KkJLoEfB2DxW) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 3:37 | 2024-06-07 |  |
@@ -96,7 +98,7 @@
 | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/track/54seQV7MCcppBrznALCdlT) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft) | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY) | 6:30 | 2024-03-26 |  |
 | [Vanillée](https://open.spotify.com/track/2OrVl8djetZs39Mr3Ujkaf) | [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est de la Cali](https://open.spotify.com/album/4hcyzMtlhQdTxpxXqDL8jI) | 2:47 | 2024-07-03 |  |
 | [Wahala \(feat\. Olamide\)](https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Wahala \(feat\. Olamide\)](https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW) | 2:50 | 2024-04-18 |  |
-| [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 | 2024-07-04 |  |
+| [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 | 2024-07-04 | 2024-07-07 |
 | [Wayeh](https://open.spotify.com/track/037wIgLisUOMSRfLRrB38O) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Wayeh](https://open.spotify.com/album/4DvrgdEh0hGPDxR02sNkUV) | 2:30 | 2024-05-22 |  |
 | [Wine](https://open.spotify.com/track/1KyRQJGLLkuEQC9Y0aeI9U) | [Dawda](https://open.spotify.com/artist/5CtgmVTepFFoGGtuXsPKFj) | [Wine](https://open.spotify.com/album/3HvRgamjEvg5mSB6ergRjc) | 2:18 | 2024-05-17 | 2024-06-23 |
 | [Wsalni MSG](https://open.spotify.com/track/5REou7BKcQgFUOe6tTUXBD) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [Wsalni MSG](https://open.spotify.com/album/0QftcGAPGyjwlZespn29DU) | 2:36 | 2024-03-26 |  |

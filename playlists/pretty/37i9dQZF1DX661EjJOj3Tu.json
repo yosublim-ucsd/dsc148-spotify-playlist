@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 516845,
+  "num_followers": 516896,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Un Telegrama",
+      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Ultimate Duets",
         "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 299160,
       "name": "After All",
       "url": "https://open.spotify.com/track/579OSusZBmVE5rNDWhPUwk"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 162986,
-      "name": "Un Telegrama",
-      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -547,6 +547,38 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Trumpet Evolution",
+        "url": "https://open.spotify.com/album/2LPMsaLCnE7HOVvMRPV16A"
+      },
+      "artists": [
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Manteca",
+      "url": "https://open.spotify.com/track/17pqfMthW6dzPxLy0gvEsh"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 165440,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/5adCpfWaVDZUorqk15ScHj"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Dreams in Transition",
         "url": "https://open.spotify.com/album/75pe3vO6xqrfOU1UW8e9f5"
       },
@@ -571,38 +603,6 @@
       "duration_ms": 417078,
       "name": "Dreams in Transition",
       "url": "https://open.spotify.com/track/3bMcZO6wcvyJDWS3529YSC"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 165440,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/5adCpfWaVDZUorqk15ScHj"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Trumpet Evolution",
-        "url": "https://open.spotify.com/album/2LPMsaLCnE7HOVvMRPV16A"
-      },
-      "artists": [
-        {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Manteca",
-      "url": "https://open.spotify.com/track/17pqfMthW6dzPxLy0gvEsh"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -639,26 +639,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Flor De Piel",
-        "url": "https://open.spotify.com/album/3thQXVuy3QaPfGgh3wwli6"
+        "name": "The Best Of Paquito D'Rivera",
+        "url": "https://open.spotify.com/album/2HWAPCvYnTDQQrcCuR8v3F"
       },
       "artists": [
         {
-          "name": "Martirio",
-          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
-        },
-        {
-          "name": "Ra\u00fal Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A"
-        },
-        {
-          "name": "Chano Dominguez",
-          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
+          "name": "Paquito D'Rivera",
+          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
         }
       ],
-      "duration_ms": 311920,
-      "name": "En Esta Tarde Gris",
-      "url": "https://open.spotify.com/track/6QLMwPzna66p3kuJbWQMJ4"
+      "duration_ms": 291733,
+      "name": "C\u00f3mo Fue",
+      "url": "https://open.spotify.com/track/6BtRxQRMHXc8RSUXRTFgNn"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -683,18 +675,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The Best Of Paquito D'Rivera",
-        "url": "https://open.spotify.com/album/2HWAPCvYnTDQQrcCuR8v3F"
+        "name": "Flor De Piel",
+        "url": "https://open.spotify.com/album/3thQXVuy3QaPfGgh3wwli6"
       },
       "artists": [
         {
-          "name": "Paquito D'Rivera",
-          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
+          "name": "Martirio",
+          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
+        },
+        {
+          "name": "Ra\u00fal Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A"
+        },
+        {
+          "name": "Chano Dominguez",
+          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
         }
       ],
-      "duration_ms": 291733,
-      "name": "C\u00f3mo Fue",
-      "url": "https://open.spotify.com/track/6BtRxQRMHXc8RSUXRTFgNn"
+      "duration_ms": 311920,
+      "name": "En Esta Tarde Gris",
+      "url": "https://open.spotify.com/track/6QLMwPzna66p3kuJbWQMJ4"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "South American All Stars (Guapachando)",
-        "url": "https://open.spotify.com/album/2e1EwQ14pZF7ompCZuaEMI"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 117539,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/4RAeL4OABP3aI9cu8iCXrF"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "How Did You Get In My Dreams?",
         "url": "https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 217376,
       "name": "How Did You Get In My Dreams?",
       "url": "https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "The Very Best Of Dave Pike (The Latin Jazz Legend)",
+        "url": "https://open.spotify.com/album/68HyYBWjTgPL4liVhD3OX6"
+      },
+      "artists": [
+        {
+          "name": "Dave Pike",
+          "url": "https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Catin Latin",
+      "url": "https://open.spotify.com/track/38dUD8S84uJi5NGmQ3LsRX"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -959,18 +959,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The Very Best Of Dave Pike (The Latin Jazz Legend)",
-        "url": "https://open.spotify.com/album/68HyYBWjTgPL4liVhD3OX6"
+        "name": "South American All Stars (Guapachando)",
+        "url": "https://open.spotify.com/album/2e1EwQ14pZF7ompCZuaEMI"
       },
       "artists": [
         {
-          "name": "Dave Pike",
-          "url": "https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl"
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 289306,
-      "name": "Catin Latin",
-      "url": "https://open.spotify.com/track/38dUD8S84uJi5NGmQ3LsRX"
+      "duration_ms": 117539,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/4RAeL4OABP3aI9cu8iCXrF"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Meetings",
-        "url": "https://open.spotify.com/album/7nC6eOInxBoOPru39yFmjS"
-      },
-      "artists": [
-        {
-          "name": "Adrien Brandeis",
-          "url": "https://open.spotify.com/artist/6xdQZ13VLgYk2BrgtVDME1"
-        },
-        {
-          "name": "Orlando Poleo",
-          "url": "https://open.spotify.com/artist/0VNkHMk153dbnBF7MbzUOX"
-        }
-      ],
-      "duration_ms": 369797,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/2qJYJ8Q1O10RBwbEqqVw9z"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Enchantment",
         "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 271173,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/6tulqYEcEWv8qXJrQzXZZG"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Meetings",
+        "url": "https://open.spotify.com/album/7nC6eOInxBoOPru39yFmjS"
+      },
+      "artists": [
+        {
+          "name": "Adrien Brandeis",
+          "url": "https://open.spotify.com/artist/6xdQZ13VLgYk2BrgtVDME1"
+        },
+        {
+          "name": "Orlando Poleo",
+          "url": "https://open.spotify.com/artist/0VNkHMk153dbnBF7MbzUOX"
+        }
+      ],
+      "duration_ms": 369797,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/2qJYJ8Q1O10RBwbEqqVw9z"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The Bronx Pyramid",
-        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Henriquez",
-          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 321420,
-      "name": "Descarga Entre Amigos (feat. Rub\u00e9n Blades)",
-      "url": "https://open.spotify.com/track/2wDWb88s7POYtWg5757eiE"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Yesun",
         "url": "https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ"
       },
@@ -1283,18 +1263,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+        "name": "The Bronx Pyramid",
+        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
       },
       "artists": [
         {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+          "name": "Carlos Henriquez",
+          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 131386,
-      "name": "Seven Steps To Heaven",
-      "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
+      "duration_ms": 321420,
+      "name": "Descarga Entre Amigos (feat. Rub\u00e9n Blades)",
+      "url": "https://open.spotify.com/track/2wDWb88s7POYtWg5757eiE"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1319,6 +1303,22 @@
       "duration_ms": 233483,
       "name": "Desde Que O Samba \u00c9 Samba - Ao Vivo Em Nova York / 2019",
       "url": "https://open.spotify.com/track/5mVzs9ECtDIgZzMjcCi6qE"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+      },
+      "artists": [
+        {
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+        }
+      ],
+      "duration_ms": 131386,
+      "name": "Seven Steps To Heaven",
+      "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/2AVZ1US53MfCbtgL0arAmi"
+      },
+      "artists": [
+        {
+          "name": "Edmar Casta\u00f1eda",
+          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
+        }
+      ],
+      "duration_ms": 263515,
+      "name": "Agua Fresca",
+      "url": "https://open.spotify.com/track/2W3ks6dcaTBPGwEbjea75P"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Time Is Right",
         "url": "https://open.spotify.com/album/3euNmYDyAEAShiGMo65pRd"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 432026,
       "name": "Enchantment",
       "url": "https://open.spotify.com/track/1EtpgxQQIHUV9x46yA1H4B"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/2AVZ1US53MfCbtgL0arAmi"
-      },
-      "artists": [
-        {
-          "name": "Edmar Casta\u00f1eda",
-          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
-        }
-      ],
-      "duration_ms": 263515,
-      "name": "Agua Fresca",
-      "url": "https://open.spotify.com/track/2W3ks6dcaTBPGwEbjea75P"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "cuarto de colores",
+        "url": "https://open.spotify.com/album/7ijTXugrPlHTRSuzo7u2Br"
+      },
+      "artists": [
+        {
+          "name": "Edmar Casta\u00f1eda",
+          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Sonrisas",
+      "url": "https://open.spotify.com/track/5KgVtIQvN2FcOyhalfXpsP"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Asi de Simple",
         "url": "https://open.spotify.com/album/23kX4w7LihVLW6ui9vOUoV"
       },
@@ -1547,26 +1563,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Pr\u00f3logo: Hoy",
-        "url": "https://open.spotify.com/album/3bYh3iEf42l5HYD5Ir5Wqp"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Bosch",
-          "url": "https://open.spotify.com/artist/33KZMQECd5v6S2FjRMCctD"
-        },
-        {
-          "name": "Alain P\u00e9rez",
-          "url": "https://open.spotify.com/artist/71MILvcLWofhqgXKEVrn0a"
-        }
-      ],
-      "duration_ms": 282973,
-      "name": "Hoy (feat. Alain P\u00e9rez)",
-      "url": "https://open.spotify.com/track/46ALUwk979bzXjjN95bHvx"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Acertijos",
         "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
       },
@@ -1587,18 +1583,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "New Era",
-        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
+        "name": "Pr\u00f3logo: Hoy",
+        "url": "https://open.spotify.com/album/3bYh3iEf42l5HYD5Ir5Wqp"
       },
       "artists": [
         {
-          "name": "Negroni's Trio",
-          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
+          "name": "Jeremy Bosch",
+          "url": "https://open.spotify.com/artist/33KZMQECd5v6S2FjRMCctD"
+        },
+        {
+          "name": "Alain P\u00e9rez",
+          "url": "https://open.spotify.com/artist/71MILvcLWofhqgXKEVrn0a"
         }
       ],
-      "duration_ms": 267240,
-      "name": "Brazilian Love Affair",
-      "url": "https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1"
+      "duration_ms": 282973,
+      "name": "Hoy (feat. Alain P\u00e9rez)",
+      "url": "https://open.spotify.com/track/46ALUwk979bzXjjN95bHvx"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
+      },
+      "artists": [
+        {
+          "name": "Negroni's Trio",
+          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Brazilian Love Affair",
+      "url": "https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Indigenous",
         "url": "https://open.spotify.com/album/1dUdmpLdWTWb7zpw9H20hT"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 243944,
       "name": "Sombras Del Pasado",
       "url": "https://open.spotify.com/track/39gM45pNgzKLcR8FUTtOwV"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "cuarto de colores",
-        "url": "https://open.spotify.com/album/7ijTXugrPlHTRSuzo7u2Br"
-      },
-      "artists": [
-        {
-          "name": "Edmar Casta\u00f1eda",
-          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Sonrisas",
-      "url": "https://open.spotify.com/track/5KgVtIQvN2FcOyhalfXpsP"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Transparency",
-        "url": "https://open.spotify.com/album/66ddMl9jBOyoSeM9WLQgjh"
+        "name": "Big Band Urban Folktales",
+        "url": "https://open.spotify.com/album/7Bj8SyKhqNdNqm8tPPu4Zr"
       },
       "artists": [
         {
-          "name": "Dafnis Prieto Sextet",
-          "url": "https://open.spotify.com/artist/1IxYKYyHFmwGIqdI0zkcze"
+          "name": "Bobby Sanabria",
+          "url": "https://open.spotify.com/artist/6U28NQEcAzzjAaXyNUCpVF"
         }
       ],
-      "duration_ms": 381060,
-      "name": "Amanecer Contigo",
-      "url": "https://open.spotify.com/track/5tjmjLcIwMhBT1UQ91VZpX"
+      "duration_ms": 440600,
+      "name": "El Lider",
+      "url": "https://open.spotify.com/track/1Q3cBlznAETrtKJrS6TSzr"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Big Band Urban Folktales",
-        "url": "https://open.spotify.com/album/7Bj8SyKhqNdNqm8tPPu4Zr"
+        "name": "Transparency",
+        "url": "https://open.spotify.com/album/66ddMl9jBOyoSeM9WLQgjh"
       },
       "artists": [
         {
-          "name": "Bobby Sanabria",
-          "url": "https://open.spotify.com/artist/6U28NQEcAzzjAaXyNUCpVF"
+          "name": "Dafnis Prieto Sextet",
+          "url": "https://open.spotify.com/artist/1IxYKYyHFmwGIqdI0zkcze"
         }
       ],
-      "duration_ms": 440600,
-      "name": "El Lider",
-      "url": "https://open.spotify.com/track/1Q3cBlznAETrtKJrS6TSzr"
+      "duration_ms": 381060,
+      "name": "Amanecer Contigo",
+      "url": "https://open.spotify.com/track/5tjmjLcIwMhBT1UQ91VZpX"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "El Suelo Mio",
+        "url": "https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4"
+      },
+      "artists": [
+        {
+          "name": "Jorge Roeder",
+          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "El Suelo Mio",
+      "url": "https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Back to the Sunset",
         "url": "https://open.spotify.com/album/4cVleu2VjKo3Ujz86nzDqB"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 447863,
       "name": "Una Vez Mas",
       "url": "https://open.spotify.com/track/4H7fdafXGufIs6PomE8boe"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "El Suelo Mio",
-        "url": "https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4"
-      },
-      "artists": [
-        {
-          "name": "Jorge Roeder",
-          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "El Suelo Mio",
-      "url": "https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t"
     },
     {
       "added_at": "2024-02-09 05:00:00",

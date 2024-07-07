@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-2,777 songs - 6 day 3 hr 4 min
+2,778 songs - 6 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1717,6 +1717,7 @@
 | [Nicea](https://open.spotify.com/track/5OYaQw9IS8MMDFRgTPqDnR) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [Nicea](https://open.spotify.com/album/561wVB1MRTfJ0muUnsniNU) | 3:37 | 2023-09-26 | 2023-09-30 |
 | [NIE MA CIĘ](https://open.spotify.com/track/1cnkQScXEGBZKqqy6EjVZo) | [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [PRELUDIUM](https://open.spotify.com/album/426XdCZCzEN4lA4B7dEHH6) | 2:47 | 2023-09-01 | 2023-09-05 |
 | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0) | 2:55 | 2022-03-29 | 2022-04-16 |
+| [NIGHTS LIKE THIS](https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 1:26 | 2024-07-06 |  |
 | [Niscaya](https://open.spotify.com/track/4uyjk95qGXbQCBFfMqpul5) | [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De) | [Nelangsa Pasar Turi](https://open.spotify.com/album/3WDFtJW61DcXNnYzCjEjh6) | 3:58 | 2024-05-24 | 2024-06-13 |
 | [NKBİ](https://open.spotify.com/track/7lkqbdBKrsyNNq3xi0LeaY) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz) | 2:57 | 2022-06-28 | 2022-07-20 |
 | [No digas nada](https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [No digas nada](https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3) | 3:42 | 2023-05-31 | 2023-06-14 |
@@ -2094,7 +2095,7 @@
 | [Saari Duniya Jalaa Denge](https://open.spotify.com/track/0YxKKO272sacGBJKjf6FnB) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [ANIMAL](https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO) | 3:02 | 2023-12-12 | 2023-12-22 |
 | [Sadqay](https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Sadqay](https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD) | 2:34 | 2024-02-25 | 2024-04-03 |
 | [Safar](https://open.spotify.com/track/3cjA9xteIeOj82os8oSo4i) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Safar](https://open.spotify.com/album/5b7lWuBahHJ8dnNj3jKtCf) | 3:17 | 2022-12-10 | 2023-01-04 |
-| [Sagrado Profano](https://open.spotify.com/track/7ldcYtMOjtX1eFVEYzj2kJ) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:16 | 2024-05-31 |  |
+| [Sagrado Profano](https://open.spotify.com/track/7ldcYtMOjtX1eFVEYzj2kJ) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:16 | 2024-05-31 | 2024-07-07 |
 | [SAH](https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH](https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX) | 3:48 | 2024-02-24 | 2024-03-15 |
 | [Sahabat Dulu \- From Layangan Putus](https://open.spotify.com/track/0zwz8FMlxFZXdnMHhLNvx5) | [Prinsa Mandagie](https://open.spotify.com/artist/2a5iLHTui2soMRrOQf2Dsr) | [Sahabat Dulu \(From Layangan Putus\)](https://open.spotify.com/album/5abXZR2GOqONPOc7ZuYoEO) | 4:03 | 2022-01-13 | 2022-02-03 |
 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 | 2021-12-27 | 2022-02-09 |

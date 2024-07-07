@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Thandiswa
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,901 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,918 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 8 | [SAID](https://open.spotify.com/track/57kmRD4yNmP3HTrKm56Yfd) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Pan African Rockstar](https://open.spotify.com/album/2kA7NTDqESZM0B7COf3cfh) | 3:14 |
 | 9 | [What a Day That Was](https://open.spotify.com/track/3hmUo3gs1HBv2OfrM4hhgp) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [What a Day That Was](https://open.spotify.com/album/5n4avVnK5UeC951UtjeqzA) | 4:30 |
 | 10 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 |
-| 11 | [Mogre](https://open.spotify.com/track/0o2BUgkstqJoA6L8eebVqS) | [Samuel Cosmic](https://open.spotify.com/artist/53sw8R4uVMNDvNooBNETao), [Stevo Atambire](https://open.spotify.com/artist/2j5WNJ2jh843iblwvnxmfn) | [Mogre](https://open.spotify.com/album/7c5HUxOGSnBeyX9MGwCiD1) | 3:38 |
+| 11 | [Mogre](https://open.spotify.com/track/0o2BUgkstqJoA6L8eebVqS) | [Samuel Cosmic](https://open.spotify.com/artist/53sw8R4uVMNDvNooBNETao), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Mogre](https://open.spotify.com/album/7c5HUxOGSnBeyX9MGwCiD1) | 3:38 |
 | 12 | [Late Night On Lokko Street](https://open.spotify.com/track/4kHSBFk0AuUCVCYnyiYYOO) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd), [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Roadman and Folks](https://open.spotify.com/album/3gZJDhBIWDDAcJHmcbUomZ) | 4:00 |
 | 13 | [Mpenzi Wangu](https://open.spotify.com/track/46OHcOnDAzUxcfmSggZAhA) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Mpenzi Wangu](https://open.spotify.com/album/0XBbgMNrZQXyNSZTSd0llv) | 2:52 |
 | 14 | [Billiki \- remix](https://open.spotify.com/track/54zHwBEGGG1k5ndsMzDbuW) | [Justina Lee Brown](https://open.spotify.com/artist/1yDOBOX7Q9i9MrFLZgh046) | [BILLIKI EP](https://open.spotify.com/album/4B8neKJWOFj40IXDqAl4nn) | 4:21 |

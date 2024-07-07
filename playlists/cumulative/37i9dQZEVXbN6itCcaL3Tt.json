@@ -19470,7 +19470,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
@@ -20358,7 +20358,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 139659,
       "name": "Ma\u0142o kto",
       "url": "https://open.spotify.com/track/781GlMMTC7QUeeRnrWKUmg"
@@ -37949,6 +37949,28 @@
     },
     {
       "album": {
+        "name": "Wosk",
+        "url": "https://open.spotify.com/album/2Urv8R4iILFJDzrVrVoPDs"
+      },
+      "artists": [
+        {
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+        },
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168175,
+      "name": "Wosk",
+      "url": "https://open.spotify.com/track/7KbJRPtHT3uVD2gmqO8A4u"
+    },
+    {
+      "album": {
         "name": "Akademia Sztuk Pi\u0119knych",
         "url": "https://open.spotify.com/album/2pzDm1usjCxQGw8nYU8nkZ"
       },
@@ -39552,6 +39574,32 @@
       "duration_ms": 141663,
       "name": "Zosia",
       "url": "https://open.spotify.com/track/785dMrfsQWxg1hcPWXnyli"
+    },
+    {
+      "album": {
+        "name": "zosta\u0144, prosz\u0119",
+        "url": "https://open.spotify.com/album/4ZCCHJbKdusUv15RU5lJZH"
+      },
+      "artists": [
+        {
+          "name": "kuqe 2115",
+          "url": "https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        },
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164691,
+      "name": "zosta\u0144, prosz\u0119",
+      "url": "https://open.spotify.com/track/5i0KjwixfbjGyD1Dxa6vxS"
     },
     {
       "album": {

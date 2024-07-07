@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with ISOKNOCK",
-  "num_followers": 976321,
+  "num_followers": 976307,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1425,6 +1425,22 @@
       "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
     },
     {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "how2fly",
+      "url": "https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC"
+    },
+    {
       "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Antagonist",
@@ -1443,22 +1459,6 @@
       "duration_ms": 167001,
       "name": "King",
       "url": "https://open.spotify.com/track/6OvMmEeumtCP6WgYqgA08T"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "kidsgonemad!",
-        "url": "https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 241714,
-      "name": "how2fly",
-      "url": "https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1569,22 +1569,6 @@
       "url": "https://open.spotify.com/track/6cXZ5xkPNb9P5C6Z9564Cx"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Brain Tickler",
-        "url": "https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg"
-      },
-      "artists": [
-        {
-          "name": "AHEE",
-          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
-        }
-      ],
-      "duration_ms": 144134,
-      "name": "Brain Tickler",
-      "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
-    },
-    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "The von dutch remix with skream and benga",
@@ -1607,6 +1591,22 @@
       "duration_ms": 281142,
       "name": "The von dutch remix with skream and benga",
       "url": "https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Brain Tickler",
+        "url": "https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg"
+      },
+      "artists": [
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        }
+      ],
+      "duration_ms": 144134,
+      "name": "Brain Tickler",
+      "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
     },
     {
       "added_at": "2024-06-07 04:01:30",
@@ -1669,26 +1669,6 @@
       "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "CAN YOU SEE ME?",
-        "url": "https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Digital Ethos",
-          "url": "https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX"
-        }
-      ],
-      "duration_ms": 222219,
-      "name": "CUT ME OUT",
-      "url": "https://open.spotify.com/track/7wa5lBm1Nl0kcXb9psV2Sj"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Shut Shit Down",
@@ -1707,6 +1687,26 @@
       "duration_ms": 162373,
       "name": "Shut Shit Down",
       "url": "https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "CAN YOU SEE ME?",
+        "url": "https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Digital Ethos",
+          "url": "https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX"
+        }
+      ],
+      "duration_ms": 222219,
+      "name": "CUT ME OUT",
+      "url": "https://open.spotify.com/track/7wa5lBm1Nl0kcXb9psV2Sj"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1857,30 +1857,6 @@
       "url": "https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Trippy Land",
-        "url": "https://open.spotify.com/album/0gSPOYfq5SPRQOHp0awjnI"
-      },
-      "artists": [
-        {
-          "name": "Mersiv",
-          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
-        },
-        {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
-        },
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "Trippy Land",
-      "url": "https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz"
-    },
-    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "Touch Me",
@@ -1919,6 +1895,30 @@
       "duration_ms": 195428,
       "name": "Triumphant",
       "url": "https://open.spotify.com/track/4oZv0tAHrosvWJKPv2oWNT"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Trippy Land",
+        "url": "https://open.spotify.com/album/0gSPOYfq5SPRQOHp0awjnI"
+      },
+      "artists": [
+        {
+          "name": "Mersiv",
+          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Trippy Land",
+      "url": "https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz"
     },
     {
       "added_at": "2024-05-10 04:00:00",

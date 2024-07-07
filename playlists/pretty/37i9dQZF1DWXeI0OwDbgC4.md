@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,079 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,092 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,14 +67,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 57 | [Boring People](https://open.spotify.com/track/34n2HfHMrHlN8wRJTPTWCc) | [sunnytheduo](https://open.spotify.com/artist/22PL7GHGfcMNB75oLBkFR2) | [Boring People](https://open.spotify.com/album/2n2RVSI0VghVBvPzdyw9iN) | 3:10 |
 | 58 | [Shoot Me Down](https://open.spotify.com/track/2NgwMt6Oay0NQ8x0hTL0kM) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Shoot Me Down](https://open.spotify.com/album/0IK82QYmC74RY1geq4Kgu8) | 3:06 |
 | 59 | [Running Out Of Love](https://open.spotify.com/track/7BjwOpg3xCcSYyKbnNAbyE) | [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Running Out Of Love](https://open.spotify.com/album/3Wg67wKrBJBUud8rZtIEy0) | 2:46 |
-| 60 | [Hey You \(feat\. Jonathan McReynolds\)](https://open.spotify.com/track/5Hi8tZPoSgvt3NkZLbTIk3) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [DOE \- EP](https://open.spotify.com/album/2Qsk6hOtjEoBPURQWEppLo) | 3:35 |
-| 61 | [Stay](https://open.spotify.com/track/2gR3jPSYrnwdczEjBACA1i) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [The After](https://open.spotify.com/album/37UvijJdXfvXKiIAe6GZBS) | 4:37 |
+| 60 | [Stay](https://open.spotify.com/track/2gR3jPSYrnwdczEjBACA1i) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [The After](https://open.spotify.com/album/37UvijJdXfvXKiIAe6GZBS) | 4:37 |
+| 61 | [Hey You \(feat\. Jonathan McReynolds\)](https://open.spotify.com/track/5Hi8tZPoSgvt3NkZLbTIk3) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [DOE \- EP](https://open.spotify.com/album/2Qsk6hOtjEoBPURQWEppLo) | 3:35 |
 | 62 | [ilym](https://open.spotify.com/track/35vaMa2SQtGbyvJRwZRr4C) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [ilym](https://open.spotify.com/album/3RZ3gxJs0aXflqt1RW4ddg) | 3:57 |
 | 63 | [Love You, Still](https://open.spotify.com/track/7hsWnD0nwuMp9hRACCtdm8) | [Andrew Osenga](https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Love You, Still](https://open.spotify.com/album/5fYsh7JcLm4oIA5N5dkG1f) | 5:07 |
 | 64 | [love in the summer](https://open.spotify.com/track/3lYrsTLgTx81qvNgxmGXYW) | [Ben Lawrence](https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN) | [love in the summer](https://open.spotify.com/album/6C2PK15p8aTeJEEDQHrBM3) | 2:25 |
 | 65 | [Happier](https://open.spotify.com/track/7aUtyTij6lRyNjSAV9liDq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Happier](https://open.spotify.com/album/1dQCWiSfNzXl9nhRCiGhsV) | 2:08 |
-| 66 | [Heaven Is Too Far Away](https://open.spotify.com/track/6iNjeRwNNyRiJQ0RGQiz7s) | [Shelly E\. Johnson](https://open.spotify.com/artist/51ivlzD9Vuy7pi21E3FF67) | [Heaven Is Too Far Away](https://open.spotify.com/album/5ntPNlQX5ElhcWELkkrBUj) | 6:23 |
-| 67 | [Uncharted](https://open.spotify.com/track/4Sab6e6jf4wosrhWMynBYZ) | [Hannah Jewel](https://open.spotify.com/artist/48enPb9xT0Dj6zhg2aU61o) | [1:02](https://open.spotify.com/album/3qHbN5zSMTpGvMsG62iHNY) | 5:30 |
+| 66 | [Uncharted](https://open.spotify.com/track/4Sab6e6jf4wosrhWMynBYZ) | [Hannah Jewel](https://open.spotify.com/artist/48enPb9xT0Dj6zhg2aU61o) | [1:02](https://open.spotify.com/album/3qHbN5zSMTpGvMsG62iHNY) | 5:30 |
+| 67 | [Heaven Is Too Far Away](https://open.spotify.com/track/6iNjeRwNNyRiJQ0RGQiz7s) | [Shelly E\. Johnson](https://open.spotify.com/artist/51ivlzD9Vuy7pi21E3FF67) | [Heaven Is Too Far Away](https://open.spotify.com/album/5ntPNlQX5ElhcWELkkrBUj) | 6:23 |
 | 68 | [TAKE A CHANCE](https://open.spotify.com/track/27j28hzT9pzB0rx2lJR5u8) | [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb) | [TAKE A CHANCE](https://open.spotify.com/album/3hXhvsQ8LkRvFHlFyyd6Py) | 2:29 |
 | 69 | [Closure](https://open.spotify.com/track/2WBHmEgFHvzYFM24L4m9BO) | [Jemimah Paine](https://open.spotify.com/artist/4KsMnVZJDA21NtWFMXwQin) | [Closure](https://open.spotify.com/album/0vMCaROMM23vQHgjTArSOn) | 3:23 |
 | 70 | [Mender Of Broken Hearts](https://open.spotify.com/track/7LrTq9MG2jsGK5VWhEleLa) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Nothing But The Hits: Fred Hammond](https://open.spotify.com/album/0BrE1eS3LplGo2OnLPa2j4) | 5:00 |

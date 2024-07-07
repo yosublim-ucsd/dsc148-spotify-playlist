@@ -1,6 +1,6 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 205575,
+  "num_followers": 205663,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "Searching For",
-        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
-      },
-      "artists": [
-        {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
-        }
-      ],
-      "duration_ms": 255118,
-      "name": "Searching For",
-      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 178587,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
+        "name": "Searching For",
+        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
+      },
+      "artists": [
+        {
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+        }
+      ],
+      "duration_ms": 255118,
+      "name": "Searching For",
+      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -1363,6 +1363,38 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
+        "name": "Best Thing - Summer 2022",
+        "url": "https://open.spotify.com/album/0scWMv27dJB9TeLkiA2g7s"
+      },
+      "artists": [
+        {
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+        }
+      ],
+      "duration_ms": 182593,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/2X8mAkdiXXxFdcDGQ4Og13"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
+        "name": "Say Goodbye (Say Hello)",
+        "url": "https://open.spotify.com/album/1lcvSD9QEzDXdcbqSc0nCQ"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 195358,
+      "name": "Say Goodbye (Say Hello)",
+      "url": "https://open.spotify.com/track/25lxh52ko6CaGeE615bdGI"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
         "name": "Conversation",
         "url": "https://open.spotify.com/album/26qSpAIvmpQFn5bgZI6uuc"
       },
@@ -1403,38 +1435,6 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "Best Thing - Summer 2022",
-        "url": "https://open.spotify.com/album/0scWMv27dJB9TeLkiA2g7s"
-      },
-      "artists": [
-        {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
-        }
-      ],
-      "duration_ms": 182593,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/2X8mAkdiXXxFdcDGQ4Og13"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
-        "name": "Say Goodbye (Say Hello)",
-        "url": "https://open.spotify.com/album/1lcvSD9QEzDXdcbqSc0nCQ"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 195358,
-      "name": "Say Goodbye (Say Hello)",
-      "url": "https://open.spotify.com/track/25lxh52ko6CaGeE615bdGI"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
         "name": "High Low (Remix)",
         "url": "https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8"
       },
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "I Will Follow You (Live)",
-        "url": "https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3"
-      },
-      "artists": [
-        {
-          "name": "planetboom",
-          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
-        }
-      ],
-      "duration_ms": 231123,
-      "name": "I Will Follow You - Live",
-      "url": "https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
         "name": "Out Of The Dark (Petey Martin Remix)",
         "url": "https://open.spotify.com/album/79HDfZmxKg9v2NCsvpNboH"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 165941,
       "name": "Out Of The Dark - Petey Martin Remix",
       "url": "https://open.spotify.com/track/4SfcLgPBOZa0ZFtHt3HBXO"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
+        "name": "I Will Follow You (Live)",
+        "url": "https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3"
+      },
+      "artists": [
+        {
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+        }
+      ],
+      "duration_ms": 231123,
+      "name": "I Will Follow You - Live",
+      "url": "https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/1iEHm6xjd7QWKYt67AmjZ3"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stanley",
-          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
-        }
-      ],
-      "duration_ms": 225520,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/7Fmk7xa6JijQVUpDILAxrR"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
         "name": "Choose to Praise (Reinvented)",
         "url": "https://open.spotify.com/album/0eyqPa96JLeqNSbjejlfcL"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 150213,
       "name": "Choose To Praise - Reinvented",
       "url": "https://open.spotify.com/track/7EkvI5wcwayleQvmpd4ZfI"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/1iEHm6xjd7QWKYt67AmjZ3"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "duration_ms": 225520,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/7Fmk7xa6JijQVUpDILAxrR"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -1587,6 +1587,30 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
+        "name": "Like Water",
+        "url": "https://open.spotify.com/album/1DMZYsA8AHrJuBJRIQF4ih"
+      },
+      "artists": [
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "JoyFull",
+          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
+        }
+      ],
+      "duration_ms": 161219,
+      "name": "Like Water",
+      "url": "https://open.spotify.com/track/6LUfGFrjUQSu0hrEKZvQRf"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
         "name": "HEY GOD",
         "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
       },
@@ -1619,30 +1643,6 @@
       "duration_ms": 293706,
       "name": "Praise",
       "url": "https://open.spotify.com/track/4Ot0zyWL4fzzVuduj6GZ9L"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
-        "name": "Like Water",
-        "url": "https://open.spotify.com/album/1DMZYsA8AHrJuBJRIQF4ih"
-      },
-      "artists": [
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        },
-        {
-          "name": "JoyFull",
-          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
-        }
-      ],
-      "duration_ms": 161219,
-      "name": "Like Water",
-      "url": "https://open.spotify.com/track/6LUfGFrjUQSu0hrEKZvQRf"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
+        "name": "Better View (Deluxe)",
+        "url": "https://open.spotify.com/album/4UUJjM3UeSH53Mz1jiwS8z"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 190040,
+      "name": "All Day Long",
+      "url": "https://open.spotify.com/track/1MpkWSRcLCzvGnbhSr7b8X"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
         "name": "No Borders",
         "url": "https://open.spotify.com/album/55LcFQDryvwz6SO7gkbqat"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 152520,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/2pqZrVeXTBgxky4wDxiUIy"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
-        "name": "Better View (Deluxe)",
-        "url": "https://open.spotify.com/album/4UUJjM3UeSH53Mz1jiwS8z"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 190040,
-      "name": "All Day Long",
-      "url": "https://open.spotify.com/track/1MpkWSRcLCzvGnbhSr7b8X"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 179843,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
         "name": "Adored",
         "url": "https://open.spotify.com/album/75bljkIQXx0Ved3xr62xZH"
       },
@@ -1783,6 +1767,26 @@
       "duration_ms": 206802,
       "name": "Adored",
       "url": "https://open.spotify.com/track/3HUhWUt20d0L1Jh6BNdK1t"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
+        "name": "ECHO",
+        "url": "https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT"
+      },
+      "artists": [
+        {
+          "name": "Damaris Guerra",
+          "url": "https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj"
+        },
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        }
+      ],
+      "duration_ms": 195882,
+      "name": "ECHO",
+      "url": "https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY"
     },
     {
       "added_at": "2024-05-10 04:42:27",

@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 246807,
+  "num_followers": 246900,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZoO2XgAAAABNVEtvKqLck8Gkpev7MJ9L",
   "tracks": [
-    {
-      "added_at": "2024-07-02 08:12:14",
-      "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
-    },
     {
       "added_at": "2024-07-02 08:12:14",
       "album": {
@@ -47,6 +31,22 @@
       "duration_ms": 208524,
       "name": "You & Me - Rivo Remix",
       "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
+    },
+    {
+      "added_at": "2024-07-02 08:12:14",
+      "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
       "added_at": "2024-07-02 08:12:14",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-07-02 08:12:14",
       "album": {
+        "name": "Like The Deserts Miss The Rain",
+        "url": "https://open.spotify.com/album/3fZbJRKdX4TAoC43xo5kWK"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 235026,
+      "name": "Missing - Todd Terry Remix / Radio Edit",
+      "url": "https://open.spotify.com/track/1IsvXZXAV9EBC4hBKW6yDN"
+    },
+    {
+      "added_at": "2024-07-02 08:12:14",
+      "album": {
         "name": "Ask Me / Mesmerize",
         "url": "https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 193795,
       "name": "Ask Me",
       "url": "https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t"
-    },
-    {
-      "added_at": "2024-07-02 08:12:14",
-      "album": {
-        "name": "Like The Deserts Miss The Rain",
-        "url": "https://open.spotify.com/album/3fZbJRKdX4TAoC43xo5kWK"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 235026,
-      "name": "Missing - Todd Terry Remix / Radio Edit",
-      "url": "https://open.spotify.com/track/1IsvXZXAV9EBC4hBKW6yDN"
     },
     {
       "added_at": "2024-07-02 08:12:14",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-07-02 08:12:14",
       "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/0QIT60nFvB6oxdntBO8dmQ"
+        "name": "Pressure Makes Diamonds",
+        "url": "https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh"
       },
       "artists": [
         {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 183752,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/6SlYQ2fAKWSfHEHNhH2kgM"
+      "duration_ms": 344593,
+      "name": "Pressure Makes Diamonds",
+      "url": "https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L"
     },
     {
       "added_at": "2024-07-02 08:12:14",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-07-02 08:12:14",
       "album": {
-        "name": "Pressure Makes Diamonds",
-        "url": "https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh"
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/0QIT60nFvB6oxdntBO8dmQ"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
         }
       ],
-      "duration_ms": 344593,
-      "name": "Pressure Makes Diamonds",
-      "url": "https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L"
+      "duration_ms": 183752,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/6SlYQ2fAKWSfHEHNhH2kgM"
     },
     {
       "added_at": "2024-07-02 08:12:14",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-07-02 08:12:14",
       "album": {
-        "name": "La Motocicletta",
-        "url": "https://open.spotify.com/album/1z5KThCiuYwgnJODi6Lxfa"
-      },
-      "artists": [
-        {
-          "name": "Teuteu",
-          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
-        }
-      ],
-      "duration_ms": 297354,
-      "name": "La Motocicletta",
-      "url": "https://open.spotify.com/track/6Fsikuruoag80X8KXj9odm"
-    },
-    {
-      "added_at": "2024-07-02 08:12:14",
-      "album": {
         "name": "Happiness Therapy 06: All\u00e9gresse",
         "url": "https://open.spotify.com/album/4HeN8rpI28qPE06m2ZOi2q"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 330000,
       "name": "Amicalement V\u00f4tre",
       "url": "https://open.spotify.com/track/0pl6IKhaBj7hheHHOmEIp6"
+    },
+    {
+      "added_at": "2024-07-02 08:12:14",
+      "album": {
+        "name": "La Motocicletta",
+        "url": "https://open.spotify.com/album/1z5KThCiuYwgnJODi6Lxfa"
+      },
+      "artists": [
+        {
+          "name": "Teuteu",
+          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
+        }
+      ],
+      "duration_ms": 297354,
+      "name": "La Motocicletta",
+      "url": "https://open.spotify.com/track/6Fsikuruoag80X8KXj9odm"
     },
     {
       "added_at": "2024-07-02 08:12:14",

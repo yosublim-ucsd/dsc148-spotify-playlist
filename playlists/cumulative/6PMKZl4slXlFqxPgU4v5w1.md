@@ -4,18 +4,22 @@
 
 > 
 
-22 songs - 1 hr 29 min
+27 songs - 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Being Boring \- 2018 Remaster](https://open.spotify.com/track/6utJDOqzWj8FggDp1R2Wi2) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Behaviour: Further Listening 1990 \- 1991 \(2018 Remaster\)](https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET) | 6:50 | 2024-07-06 |  |
 | [Blue Velvet](https://open.spotify.com/track/4LAa9a5VMkk3mN8BHhB93c) | [Alberto Baldan Bembo](https://open.spotify.com/artist/13MlmKnz81PZqZgMfCdVRR) | [L'amica di mia madre \(Colonna sonora originale del film\)](https://open.spotify.com/album/3wMMEeUpFG4YqilF56KCHw) | 1:18 | 2024-07-03 |  |
 | [endsville is burning](https://open.spotify.com/track/0mr8LFEGjDJsH2LnSWYCmg) | [NNTYTUU](https://open.spotify.com/artist/1DbJR3WnrE6zQ5XIuLx8mD) | [Wants and Needs](https://open.spotify.com/album/652mPQWHKHwl39CQ9HozGP) | 1:27 | 2024-07-03 |  |
 | [Essa Passou](https://open.spotify.com/track/3whBktP2FropNwzMpmXJJx) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [...E No Entanto É Preciso Cantar](https://open.spotify.com/album/30hcakANWtR9xuTuCOXo75) | 2:23 | 2024-07-03 |  |
 | [Gone Too Soon](https://open.spotify.com/track/66mXHPRfAwbnNKnTCNpytj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 3:21 | 2024-07-03 |  |
 | [Holding Back the Years \- 2008 Remaster](https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Picture Book \(Expanded Version\)](https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT) | 4:29 | 2024-07-03 |  |
+| [I Want You](https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 3:52 | 2024-07-06 |  |
 | [I'm Not In Love](https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [The Original Soundtrack](https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj) | 6:06 | 2024-07-03 |  |
 | [La javanaise](https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO) | 2:29 | 2024-07-03 |  |
 | [Lagu Putih](https://open.spotify.com/track/3aCKk7vSPu7hshjjqfguPy) | [Trio Bebek](https://open.spotify.com/artist/4lgGQjHbIsu2U1IMloHANT) | [Pergelaran Karya Cipta Guruh Sukarno Putra II: Untukmu Indonesiaku! Vol\. 1](https://open.spotify.com/album/6ggNcVlD45yVX3oqgrt8Bt) | 3:15 | 2024-07-03 |  |
+| [Loving Machine](https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 3:47 | 2024-07-06 |  |
+| [Loving You \(Original Version\)](https://open.spotify.com/track/5Yo0Jz7YDAEPKsklNfQTA6) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [XSCAPE](https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ) | 3:02 | 2024-07-06 |  |
 | [Mary's Theme](https://open.spotify.com/track/2wo8xxzFHcB7WorvcIBkfD) | [Stelvio Cipriani](https://open.spotify.com/artist/32GAlFg8ZU34WZLFjAUAGQ) | [Femina Ridens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7IxHAfOEAOTHn8630AcsL8) | 2:10 | 2024-07-03 |  |
 | [mellow medicine](https://open.spotify.com/track/387f14Nawgt52SKuIlRTzz) | [Naoko Gushima](https://open.spotify.com/artist/75Vr32zFTf1oJgGwqWJcfs) | [mellow medicine](https://open.spotify.com/album/02qNO6VZBFvBB4OByIe5nC) | 5:31 | 2024-07-03 |  |
 | [Move On](https://open.spotify.com/track/6el9YfXiuMrnnPOKyEmU6U) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 4:45 | 2024-07-03 |  |
@@ -25,6 +29,7 @@
 | [Sara Smile](https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Daryl Hall & John Oates \(The Silver Album\)](https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA) | 3:05 | 2024-07-03 |  |
 | [Summer Cruise Ship](https://open.spotify.com/track/614OlObZvoTtW765yyGM84) | [UWANOSORA](https://open.spotify.com/artist/5cyWYZjbXR0b9yY7HztDFI) | [Hidamari](https://open.spotify.com/album/5FejbHbqrLiRYjL97zd7WW) | 5:37 | 2024-07-03 |  |
 | [Vampire](https://open.spotify.com/track/5VU9epGgea0rXnXymRSmhh) | [NUUAMM](https://open.spotify.com/artist/7HyY7hachlO53AjpM7CTOv) | [w / ave](https://open.spotify.com/album/7u2xjrnKjxjr9y6wx8MPTZ) | 4:07 | 2024-07-03 |  |
+| [Where There Is Love](https://open.spotify.com/track/7bfBBmySorcpDFJFa0iCCL) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Remind Me \(The Classic Elektra Recordings 1978\-1984\)](https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t) | 3:11 | 2024-07-06 |  |
 | [You \(Are the Light\)](https://open.spotify.com/track/0kuhwDH06NkACgPaGj8EUZ) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Guardian of the Light \(Expanded Edition\)](https://open.spotify.com/album/0yduidVknofkXgNygUtrBQ) | 4:15 | 2024-07-03 |  |
 | [いきのこり●ぼくら](https://open.spotify.com/track/6ad7bQ48TlqAgebCExUJVe) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [0](https://open.spotify.com/album/4yqm0ZLcphXs8M8cVvLKym) | 6:46 | 2024-07-03 |  |
 | [午前2時の恋人](https://open.spotify.com/track/14w4ik9lemqH2PR7Js2gTf) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [ORACLE](https://open.spotify.com/album/24dtvNJDBoI6gCaTwzCcLZ) | 4:50 | 2024-07-03 |  |

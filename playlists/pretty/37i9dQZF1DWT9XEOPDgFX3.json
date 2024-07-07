@@ -1,6 +1,6 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Ruby Waters",
-  "num_followers": 99068,
+  "num_followers": 99101,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Everything So Far",
-        "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
-      },
-      "artists": [
-        {
-          "name": "Pinegrove",
-          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
-        }
-      ],
-      "duration_ms": 191796,
-      "name": "Need 2",
-      "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 279316,
       "name": "Fourth of July",
       "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Everything So Far",
+        "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "duration_ms": 191796,
+      "name": "Need 2",
+      "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/6HmLstTPXIcQLaJ8ELX0gO"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/1cBUacNdVpbYZok1Mtklcq"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Let The Radio Play",
         "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/6HmLstTPXIcQLaJ8ELX0gO"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/1cBUacNdVpbYZok1Mtklcq"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Here in the Pitch",
         "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 189640,
       "name": "World on a String",
       "url": "https://open.spotify.com/track/06uOV6fQr0khY0LzYcy4w0"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Milk Town / Mr. Carter",
-        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
-      },
-      "artists": [
-        {
-          "name": "Nep",
-          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
-        }
-      ],
-      "duration_ms": 77032,
-      "name": "Milk Town / Mr. Carter",
-      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -895,6 +879,22 @@
       "duration_ms": 143162,
       "name": "In Two",
       "url": "https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Milk Town / Mr. Carter",
+        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "duration_ms": 77032,
+      "name": "Milk Town / Mr. Carter",
+      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Rare Feeling",
+        "url": "https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt"
+      },
+      "artists": [
+        {
+          "name": "Twain",
+          "url": "https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW"
+        }
+      ],
+      "duration_ms": 245849,
+      "name": "Dear Mexico (Thank You for Joyce)",
+      "url": "https://open.spotify.com/track/43ntHxVNix1dsWLUoV5y3H"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Rumble Strip",
         "url": "https://open.spotify.com/album/0DCZGmIVHuc7p33ECSayvf"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 150142,
       "name": "Soup Song",
       "url": "https://open.spotify.com/track/3kfqthibmWsfYyCApilYPm"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Rare Feeling",
-        "url": "https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt"
-      },
-      "artists": [
-        {
-          "name": "Twain",
-          "url": "https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW"
-        }
-      ],
-      "duration_ms": 245849,
-      "name": "Dear Mexico (Thank You for Joyce)",
-      "url": "https://open.spotify.com/track/43ntHxVNix1dsWLUoV5y3H"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "I Promise",
-        "url": "https://open.spotify.com/album/5Amy4k4ccGfO2pA9wFCPLs"
-      },
-      "artists": [
-        {
-          "name": "Lila Dupont",
-          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
-        }
-      ],
-      "duration_ms": 221415,
-      "name": "I Promise",
-      "url": "https://open.spotify.com/track/02UnxTJJJYS0yGNOIGdjOF"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Life Is",
         "url": "https://open.spotify.com/album/2oNn8ZtAIo2cSnp06DPo2k"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 188293,
       "name": "Life Is",
       "url": "https://open.spotify.com/track/4J2iXXCHLyyuRTS6rieF0t"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "I Promise",
+        "url": "https://open.spotify.com/album/5Amy4k4ccGfO2pA9wFCPLs"
+      },
+      "artists": [
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "duration_ms": 221415,
+      "name": "I Promise",
+      "url": "https://open.spotify.com/track/02UnxTJJJYS0yGNOIGdjOF"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Dark",
-        "url": "https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Dark",
-      "url": "https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Good Stuff",
         "url": "https://open.spotify.com/album/0UaN6Vd5pxhNe44APBIUUu"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 183320,
       "name": "Good Stuff",
       "url": "https://open.spotify.com/track/1aFPbPKOfsfgdZMmF3PQqt"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Rotten Mind",
-        "url": "https://open.spotify.com/album/1mFE1PCfN3ERsrNvMarAKq"
-      },
-      "artists": [
-        {
-          "name": "Fashion Club",
-          "url": "https://open.spotify.com/artist/6IOqRJfqL3IKF8VkJzA3a3"
-        },
-        {
-          "name": "Julie Byrne",
-          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Rotten Mind",
-      "url": "https://open.spotify.com/track/1RpSFK71zPBttHaOOABVAN"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Blue Moon (with paris jackson)",
         "url": "https://open.spotify.com/album/1kNrj1GRY8WziMDBaruSnU"
       },
@@ -1423,18 +1403,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "from here on out",
-        "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
+        "name": "Rotten Mind",
+        "url": "https://open.spotify.com/album/1mFE1PCfN3ERsrNvMarAKq"
       },
       "artists": [
         {
-          "name": "lighthearted",
-          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+          "name": "Fashion Club",
+          "url": "https://open.spotify.com/artist/6IOqRJfqL3IKF8VkJzA3a3"
+        },
+        {
+          "name": "Julie Byrne",
+          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
         }
       ],
-      "duration_ms": 271421,
-      "name": "from here on out",
-      "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
+      "duration_ms": 197866,
+      "name": "Rotten Mind",
+      "url": "https://open.spotify.com/track/1RpSFK71zPBttHaOOABVAN"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1451,6 +1435,22 @@
       "duration_ms": 261173,
       "name": "damn",
       "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "from here on out",
+        "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
+      },
+      "artists": [
+        {
+          "name": "lighthearted",
+          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+        }
+      ],
+      "duration_ms": 271421,
+      "name": "from here on out",
+      "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Bindi in the Dirt",
-        "url": "https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm"
-      },
-      "artists": [
-        {
-          "name": "Mikayla Pasterfield",
-          "url": "https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "Bindi in the Dirt",
-      "url": "https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "In My Room",
         "url": "https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 162013,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Bindi in the Dirt",
+        "url": "https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Pasterfield",
+          "url": "https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA"
+        }
+      ],
+      "duration_ms": 231573,
+      "name": "Bindi in the Dirt",
+      "url": "https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Why You?",
-        "url": "https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 160613,
-      "name": "Why You?",
-      "url": "https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Shove",
         "url": "https://open.spotify.com/album/1Zn4cAAjfE9ymJ6PYA34Jb"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 209826,
       "name": "Michelangelo",
       "url": "https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Why You?",
+        "url": "https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 160613,
+      "name": "Why You?",
+      "url": "https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1903,18 +1903,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Nightmare Machine",
-        "url": "https://open.spotify.com/album/7l3bigwzunjgakr32KbRns"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE"
       },
       "artists": [
         {
-          "name": "Olivia Reid",
-          "url": "https://open.spotify.com/artist/570A6QXjRBWJHPM3LrDjg1"
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
         }
       ],
-      "duration_ms": 259760,
-      "name": "Nightmare Machine",
-      "url": "https://open.spotify.com/track/7GAoSqewwn9PArGeeD3DVv"
+      "duration_ms": 217293,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/7jUitZww3URFitXC32ezRd"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1951,18 +1951,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE"
+        "name": "Nightmare Machine",
+        "url": "https://open.spotify.com/album/7l3bigwzunjgakr32KbRns"
       },
       "artists": [
         {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+          "name": "Olivia Reid",
+          "url": "https://open.spotify.com/artist/570A6QXjRBWJHPM3LrDjg1"
         }
       ],
-      "duration_ms": 217293,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/7jUitZww3URFitXC32ezRd"
+      "duration_ms": 259760,
+      "name": "Nightmare Machine",
+      "url": "https://open.spotify.com/track/7GAoSqewwn9PArGeeD3DVv"
     },
     {
       "added_at": "2024-06-07 04:00:00",

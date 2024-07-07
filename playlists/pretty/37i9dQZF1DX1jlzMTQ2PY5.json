@@ -1,6 +1,6 @@
 {
   "description": "Escape with these melodic liquid drum & bass beats. (photo from Hubble Space Project)",
-  "num_followers": 108680,
+  "num_followers": 108760,
   "original_name": "Chilled Drum & Bass",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,26 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
+        "name": "CAPSUL",
+        "url": "https://open.spotify.com/album/6ya1ggGwmnwegd0bjjyW0t"
+      },
+      "artists": [
+        {
+          "name": "MKSTN",
+          "url": "https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD"
+        },
+        {
+          "name": "CAPSUL",
+          "url": "https://open.spotify.com/artist/6bKawCX7BxUXTBf05SsIpZ"
+        }
+      ],
+      "duration_ms": 149647,
+      "name": "Final Render",
+      "url": "https://open.spotify.com/track/2kkSL3E7r2SfdgTBNaA3qz"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
         "name": "Grow",
         "url": "https://open.spotify.com/album/3ltcAgSi9tAObMxJwGvzBC"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 355144,
       "name": "Grow",
       "url": "https://open.spotify.com/track/0JCHKnoruBII0Ir6CnhLCf"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
-        "name": "CAPSUL",
-        "url": "https://open.spotify.com/album/6ya1ggGwmnwegd0bjjyW0t"
-      },
-      "artists": [
-        {
-          "name": "MKSTN",
-          "url": "https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD"
-        },
-        {
-          "name": "CAPSUL",
-          "url": "https://open.spotify.com/artist/6bKawCX7BxUXTBf05SsIpZ"
-        }
-      ],
-      "duration_ms": 149647,
-      "name": "Final Render",
-      "url": "https://open.spotify.com/track/2kkSL3E7r2SfdgTBNaA3qz"
     },
     {
       "added_at": "2024-07-05 00:01:00",

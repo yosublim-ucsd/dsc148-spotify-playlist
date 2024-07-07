@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 120413,
+  "num_followers": 120523,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-06-27 16:00:00",
       "album": {
+        "name": "Jiwa Yang Bersedih",
+        "url": "https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "duration_ms": 278219,
+      "name": "Jiwa Yang Bersedih",
+      "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
+    },
+    {
+      "added_at": "2024-06-27 16:00:00",
+      "album": {
         "name": "Lagu Pernikahan Kita",
         "url": "https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 261476,
       "name": "Lagu Pernikahan Kita",
       "url": "https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681"
-    },
-    {
-      "added_at": "2024-06-27 16:00:00",
-      "album": {
-        "name": "Jiwa Yang Bersedih",
-        "url": "https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL"
-      },
-      "artists": [
-        {
-          "name": "Ghea Indrawari",
-          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
-        }
-      ],
-      "duration_ms": 278219,
-      "name": "Jiwa Yang Bersedih",
-      "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
     },
     {
       "added_at": "2024-06-27 16:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-06-27 16:00:00",
       "album": {
+        "name": "Lelaki Hebat",
+        "url": "https://open.spotify.com/album/3vTH8RPuIqcjnBA2T0cSC9"
+      },
+      "artists": [
+        {
+          "name": "Seventeen",
+          "url": "https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ"
+        }
+      ],
+      "duration_ms": 209346,
+      "name": "Untuk Mencintaimu",
+      "url": "https://open.spotify.com/track/04tvOIuyk8y0QVA8Ta0UOd"
+    },
+    {
+      "added_at": "2024-06-27 16:00:00",
+      "album": {
         "name": "Rumah",
         "url": "https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 234546,
       "name": "Karena Kamu",
       "url": "https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD"
-    },
-    {
-      "added_at": "2024-06-27 16:00:00",
-      "album": {
-        "name": "Lelaki Hebat",
-        "url": "https://open.spotify.com/album/3vTH8RPuIqcjnBA2T0cSC9"
-      },
-      "artists": [
-        {
-          "name": "Seventeen",
-          "url": "https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ"
-        }
-      ],
-      "duration_ms": 209346,
-      "name": "Untuk Mencintaimu",
-      "url": "https://open.spotify.com/track/04tvOIuyk8y0QVA8Ta0UOd"
     },
     {
       "added_at": "2024-06-27 16:00:00",
@@ -851,22 +851,18 @@
     {
       "added_at": "2024-06-27 16:00:00",
       "album": {
-        "name": "Ada",
-        "url": "https://open.spotify.com/album/6oP8VmNt84dc4Kn00FM46C"
+        "name": "Kenyataan Perasaan",
+        "url": "https://open.spotify.com/album/61AGUY22dIy89vcxCUvC00"
       },
       "artists": [
         {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        },
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+          "name": "Kerispatih",
+          "url": "https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ"
         }
       ],
-      "duration_ms": 210801,
-      "name": "Ada",
-      "url": "https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK"
+      "duration_ms": 277498,
+      "name": "Mengenangmu",
+      "url": "https://open.spotify.com/track/6l9L0ssWzD5XI1aJgVFpaS"
     }
   ],
   "unique_name": "galau rabak",

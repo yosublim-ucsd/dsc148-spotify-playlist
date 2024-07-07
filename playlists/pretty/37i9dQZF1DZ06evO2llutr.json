@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 441030,
+  "num_followers": 442155,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAAD6XZG9hcDNqrs0C/TGaQSW",
+  "snapshot_id": "Zoc3gAAAAAA/Wxc5lvcnSp0cFY+xTUKn",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
       "duration_ms": 171692,
       "name": "Heading South",
       "url": "https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
       "added_at": null,
@@ -267,18 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Heartbreak",
-        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+        "name": "Dawns (feat. Maggie Rogers)",
+        "url": "https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m"
       },
       "artists": [
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 190780,
-      "name": "Heavy Eyes",
-      "url": "https://open.spotify.com/track/2gJj6WtAxXjApMs3PXsCeX"
+      "duration_ms": 290892,
+      "name": "Dawns (feat. Maggie Rogers)",
+      "url": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1"
     },
     {
       "added_at": null,
@@ -295,6 +283,22 @@
       "duration_ms": 189053,
       "name": "Tourniquet",
       "url": "https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 234771,
+      "name": "Open the Gate",
+      "url": "https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF"
     },
     {
       "added_at": null,
@@ -319,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Summertime Blues",
-        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
       "artists": [
         {
@@ -328,25 +332,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 220885,
-      "name": "Quittin' Time",
-      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Heartbreak",
-        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 211315,
-      "name": "The Good I'll Do",
-      "url": "https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL"
+      "duration_ms": 218933,
+      "name": "American Nights",
+      "url": "https://open.spotify.com/track/3c9EsIo34kil8Oj1reaozB"
     },
     {
       "added_at": null,
@@ -367,6 +355,86 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 190780,
+      "name": "Heavy Eyes",
+      "url": "https://open.spotify.com/track/2gJj6WtAxXjApMs3PXsCeX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Greatest Day of My Life",
+        "url": "https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 178151,
+      "name": "Fifth of May",
+      "url": "https://open.spotify.com/track/1wLNEMiUzwvRZz9XHCXhAE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 185520,
+      "name": "The Way Back",
+      "url": "https://open.spotify.com/track/4jIy1KWDGEptJGq94tqB5Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "East Side of Sorrow",
+      "url": "https://open.spotify.com/track/00syWkRGIVQvYsg2OwfBUw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 211315,
+      "name": "The Good I'll Do",
+      "url": "https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quiet, Heavy Dreams",
         "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
       },
@@ -379,6 +447,22 @@
       "duration_ms": 243709,
       "name": "November Air",
       "url": "https://open.spotify.com/track/0u9NVrPqUINrHIFCuPOnYm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 185173,
+      "name": "Boons",
+      "url": "https://open.spotify.com/track/5hrGuVnNc8tkRgkW38J5Vv"
     },
     {
       "added_at": null,
@@ -403,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 188882,
+      "name": "Tishomingo",
+      "url": "https://open.spotify.com/track/1TsiwVwHhLgVK8sxBchINM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DeAnn",
         "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
       },
@@ -419,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
       "artists": [
         {
@@ -428,9 +528,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 209320,
-      "name": "East Side of Sorrow",
-      "url": "https://open.spotify.com/track/00syWkRGIVQvYsg2OwfBUw"
+      "duration_ms": 216720,
+      "name": "The Great American Bar Scene",
+      "url": "https://open.spotify.com/track/2OcpUR9GG6jOv6OXhFrUda"
     },
     {
       "added_at": null,
@@ -451,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Heartbreak",
-        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
       },
       "artists": [
         {
@@ -460,9 +560,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 220035,
-      "name": "Highway Boys",
-      "url": "https://open.spotify.com/track/1kga1HtTWs6Jv6kTKieN6m"
+      "duration_ms": 199500,
+      "name": "All the Time",
+      "url": "https://open.spotify.com/track/1ldUPmqrCvk6thNYe0oUen"
     },
     {
       "added_at": null,
@@ -483,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Summertime Blues",
-        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
       "artists": [
         {
@@ -492,9 +592,77 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 199500,
-      "name": "All the Time",
-      "url": "https://open.spotify.com/track/1ldUPmqrCvk6thNYe0oUen"
+      "duration_ms": 239410,
+      "name": "Oak Island",
+      "url": "https://open.spotify.com/track/3XbIhTYl6a0uXPyO43eiXa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 209089,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/1HMFdKHDiHY0qmqdVH710d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "duration_ms": 220057,
+      "name": "Jamie (feat. Charles Wesley Godwin)",
+      "url": "https://open.spotify.com/track/11xeawurZXUDqRPxCasaDt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/5k7tvONUJjP2aTxI6BBCo0"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 181239,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/0qoSVsQJOTINFkkux2lbJj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Mechanical Bull",
+      "url": "https://open.spotify.com/track/41XsipI31N1fLKLVvWNuQC"
     },
     {
       "added_at": null,
@@ -516,7 +684,7 @@
       "added_at": null,
       "album": {
         "name": "Summertime Blues",
-        "url": "https://open.spotify.com/album/5k7tvONUJjP2aTxI6BBCo0"
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
       },
       "artists": [
         {
@@ -524,9 +692,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 181239,
-      "name": "Summertime Blues",
-      "url": "https://open.spotify.com/track/0qoSVsQJOTINFkkux2lbJj"
+      "duration_ms": 166341,
+      "name": "Us Then",
+      "url": "https://open.spotify.com/track/6K155OgCAeWxx4Be2kHkym"
     },
     {
       "added_at": null,
@@ -543,26 +711,6 @@
       "duration_ms": 163531,
       "name": "Loom",
       "url": "https://open.spotify.com/track/46dUiDTF3xDchz5lZ3T36s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Summertime Blues",
-        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
-        }
-      ],
-      "duration_ms": 220057,
-      "name": "Jamie (feat. Charles Wesley Godwin)",
-      "url": "https://open.spotify.com/track/11xeawurZXUDqRPxCasaDt"
     },
     {
       "added_at": null,
@@ -592,41 +740,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 206416,
-      "name": "Birmingham",
-      "url": "https://open.spotify.com/track/7DyMTd5uNSi6ioB6z5BGtG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elisabeth",
-        "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 167997,
-      "name": "Washington Lilacs",
-      "url": "https://open.spotify.com/track/1w17Cv2Q2cbyoN8HZrX4Da"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Summertime Blues",
-        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 166341,
-      "name": "Us Then",
-      "url": "https://open.spotify.com/track/6K155OgCAeWxx4Be2kHkym"
+      "duration_ms": 197226,
+      "name": "Crooked Teeth",
+      "url": "https://open.spotify.com/track/0Is8zshpnWUiFQJIYAMrQN"
     },
     {
       "added_at": null,
@@ -647,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Greatest Day of My Life",
-        "url": "https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7"
+        "name": "Elisabeth",
+        "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
       },
       "artists": [
         {
@@ -656,9 +772,25 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 238624,
-      "name": "The Greatest Day of My Life",
-      "url": "https://open.spotify.com/track/2leovgVrJjIhnm85tKTemI"
+      "duration_ms": 167997,
+      "name": "Washington Lilacs",
+      "url": "https://open.spotify.com/track/1w17Cv2Q2cbyoN8HZrX4Da"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 206416,
+      "name": "Birmingham",
+      "url": "https://open.spotify.com/track/7DyMTd5uNSi6ioB6z5BGtG"
     },
     {
       "added_at": null,
@@ -675,134 +807,6 @@
       "duration_ms": 184500,
       "name": "From a Lover's Point of View",
       "url": "https://open.spotify.com/track/6N7FFwu2DQer3wB7rEmm6u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Heartbreak",
-        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 193127,
-      "name": "'68 Fastback",
-      "url": "https://open.spotify.com/track/4Hq3ZYml7RLPYKcm8AA3Bn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 218933,
-      "name": "American Nights",
-      "url": "https://open.spotify.com/track/3c9EsIo34kil8Oj1reaozB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elisabeth",
-        "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 207103,
-      "name": "Leaving",
-      "url": "https://open.spotify.com/track/4cA2NmoE75r4yU7oeq4QGG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 216720,
-      "name": "The Great American Bar Scene",
-      "url": "https://open.spotify.com/track/2OcpUR9GG6jOv6OXhFrUda"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "Mechanical Bull",
-      "url": "https://open.spotify.com/track/41XsipI31N1fLKLVvWNuQC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 239410,
-      "name": "Oak Island",
-      "url": "https://open.spotify.com/track/3XbIhTYl6a0uXPyO43eiXa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Lucky Enough (Poem)",
-      "url": "https://open.spotify.com/track/6k54kYFGcR5OqsYgp0PMlY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 185520,
-      "name": "The Way Back",
-      "url": "https://open.spotify.com/track/4jIy1KWDGEptJGq94tqB5Y"
     }
   ],
   "unique_name": "This Is Zach Bryan",

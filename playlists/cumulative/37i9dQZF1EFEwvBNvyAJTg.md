@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-164 songs - 8 hr 56 min
+166 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Enjoy Youth](https://open.spotify.com/track/3fBT8ulgB2jVaOr77QEV9u) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 4:11 | 2024-06-13 |  |
 | [Face The Music](https://open.spotify.com/track/1BEE0Pu5aamUeLi4s9pjPm) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [The Black Box](https://open.spotify.com/album/2eYRi6t0GbWNxhLY8r7IPT) | 3:24 | 2024-06-13 |  |
 | [Fancy](https://open.spotify.com/track/3W3KtDwAIg3mAruSpnfG3Q) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/3WUe1HRgE7qoUQ3oejofGf) | 3:19 | 2024-06-13 |  |
+| [Fantasy](https://open.spotify.com/track/7ycOHP8qG6lfvjc0nx6eSG) | [RoZe](https://open.spotify.com/artist/3FnDrB5pRYfH6sN3FSw3L3) | [Fantasy](https://open.spotify.com/album/39NbYK8IiqbxjySgrqJE8U) | 2:53 | 2024-07-06 |  |
 | [Fear](https://open.spotify.com/track/6zsaQIs0gWs6anNBEQw7fC) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [Red Flag](https://open.spotify.com/album/2eQjNxatEtQmwhBOVfRd5q) | 3:56 | 2024-06-13 |  |
 | [Feel It Deep Inside](https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Feel It Deep Inside](https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG) | 2:33 | 2024-06-13 |  |
 | [Free Falling](https://open.spotify.com/track/0MxXc2F46m0xTDHkbQpLs1) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Sirens](https://open.spotify.com/album/3Y3ZsVngNf68uBvv7QHrZ3) | 2:39 | 2024-06-13 |  |
@@ -127,6 +128,7 @@
 | [Problems](https://open.spotify.com/track/3f3EHJg9siYsaTRaSbhGEg) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 1](https://open.spotify.com/album/70LJ28NE9LV93xF2z6PiyN) | 3:29 | 2024-06-13 |  |
 | [Repeat \(feat\. Jessie J\)](https://open.spotify.com/track/1g13QKRzafR7wjPM7V7oG7) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Nothing but the Beat Ultimate](https://open.spotify.com/album/1fAn5gw4Q5HN8Wpx2neYd2) | 3:26 | 2024-06-13 |  |
 | [Revived](https://open.spotify.com/track/196IEpHnMLllSSIRndFEGX) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 3:15 | 2024-06-13 |  |
+| [Saturday](https://open.spotify.com/track/5PKcv8T4xv1IbcW1s7lklP) | [RoZe](https://open.spotify.com/artist/3FnDrB5pRYfH6sN3FSw3L3) | [Greener Grass](https://open.spotify.com/album/6Rx9pQ9UbIDAPpNXvHPmGx) | 3:05 | 2024-07-06 |  |
 | [Save That Shit](https://open.spotify.com/track/3VZlCJimDGY0D7YEC7S351) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 1](https://open.spotify.com/album/70LJ28NE9LV93xF2z6PiyN) | 3:51 | 2024-06-13 |  |
 | [Say You Do](https://open.spotify.com/track/74jDFju8j3sX1yQJeLdJ6O) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn), [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:22 | 2024-06-13 |  |
 | [September Rose](https://open.spotify.com/track/2RIE736kkO0hLZ4Y3auCL2) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [September Rose](https://open.spotify.com/album/5HaNyMxVqfJQHygG2bjIJr) | 3:41 | 2024-06-13 |  |

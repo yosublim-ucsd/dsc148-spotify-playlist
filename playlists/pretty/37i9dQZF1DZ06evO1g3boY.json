@@ -1,12 +1,12 @@
 {
-  "description": "This is Emicida. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 169777,
+  "description": "This is Emicida. The essential tracks, all in one playlist.",
+  "num_followers": 169801,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAAAW7kxa4Wmvk+EEEnXs0ZGw",
+  "snapshot_id": "Zoc3gAAAAAAo+oYX31R7ph4sVe78SLZA",
   "tracks": [
     {
       "added_at": null,
@@ -387,18 +387,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
+        "name": "Um Gosto de Sol",
+        "url": "https://open.spotify.com/album/3KHEbkkbnX5ioSzVXwXw8V"
       },
       "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 209480,
-      "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
+      "duration_ms": 194183,
+      "name": "Deixa acontecer",
+      "url": "https://open.spotify.com/track/0pkXLmHhKRO11n5TtyFq4S"
     },
     {
       "added_at": null,
@@ -419,22 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Gosto de Sol",
-        "url": "https://open.spotify.com/album/3KHEbkkbnX5ioSzVXwXw8V"
+        "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
       },
       "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 194183,
-      "name": "Deixa acontecer",
-      "url": "https://open.spotify.com/track/0pkXLmHhKRO11n5TtyFq4S"
+      "duration_ms": 209480,
+      "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
     },
     {
       "added_at": null,

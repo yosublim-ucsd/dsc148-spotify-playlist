@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Jenni Vartiainen ja Etta\. 👌
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,242 likes - 107 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,278 likes - 107 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 79 | [Viisi Vuodenaikaa](https://open.spotify.com/track/1mkxMfmkr63ya0igVteJxW) | [Syksymies](https://open.spotify.com/artist/6NAXaXfN1DA9MnD2DQaAMn), [Getto Mekaanikko](https://open.spotify.com/artist/51woN86TYlJjmCExqVbgrN), [Cozie](https://open.spotify.com/artist/38f9ZxefXrMjdW985F0WbO), [Ori](https://open.spotify.com/artist/4ZMYw5qlHFlmkOWRVMwAsY), [Armas](https://open.spotify.com/artist/2qMX0BkNbPIsSdgC70ue9s) | [Viisi Vuodenaikaa](https://open.spotify.com/album/0fLW4PCPdnKxJfmHFURk9k) | 4:05 |
 | 80 | [All Kinds Of People](https://open.spotify.com/track/5dOkvWdlRlKYvhM3MkD2Ai) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All Kinds Of People](https://open.spotify.com/album/1qrfKDFYVsll4mThf6pxqJ) | 2:47 |
 | 81 | [DEGENERATE](https://open.spotify.com/track/4xzPvogI6M8kJ1kPr7IrkO) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [DEGENERATE](https://open.spotify.com/album/4msDecysbB1ZE7hjrbrnib) | 3:36 |
-| 82 | [Goodbye Ah](https://open.spotify.com/track/4tHkaLeuB3J4gIV91pUOgF) | [Jonsjooel](https://open.spotify.com/artist/1ILOFjlM9mmizHFPtEjvQF) | [Goobye Ah](https://open.spotify.com/album/20RHQGmW2Apcx0tAZIPnDH) | 3:42 |
+| 82 | [Goodbye Ah](https://open.spotify.com/track/4tHkaLeuB3J4gIV91pUOgF) | [Jonsjooel](https://open.spotify.com/artist/1ILOFjlM9mmizHFPtEjvQF) | [Goodbye Ah](https://open.spotify.com/album/20RHQGmW2Apcx0tAZIPnDH) | 3:42 |
 | 83 | [All Of Me](https://open.spotify.com/track/4ORITaL5t91GSEfd3bXLPG) | [Audrum](https://open.spotify.com/artist/00o92d5a9vQIIz9nrNiGk4) | [All Of Me](https://open.spotify.com/album/1MRHOKJYGoRq625mblTUrL) | 3:13 |
 | 84 | [Didn't Have To](https://open.spotify.com/track/5t2FrzAyXGGZGq8I1UacCu) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Didn't Have To](https://open.spotify.com/album/5VVKWRiULbJkKeAJTysitg) | 2:20 |
 | 85 | [Elämäni Paskin Reissu](https://open.spotify.com/track/0FmrUHt1u0w2GsnyAQCs7h) | [Mängi](https://open.spotify.com/artist/6xBSuqLlGqCWaKDEeQkqVr), [Karpo](https://open.spotify.com/artist/0csHnyDNmyHTZffzJkg0Vn), [Massali](https://open.spotify.com/artist/18oBPoSwvQDy3M7mOGDAbi) | [Elämäni Paskin Reissu](https://open.spotify.com/album/3mZlNCN6FB2dGAYB5D6GdS) | 2:30 |

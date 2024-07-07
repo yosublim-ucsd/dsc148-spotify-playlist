@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-429 songs - 23 hr 42 min
+430 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Timebomb \(feat\. MOD SUN\)](https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Timebomb \(feat\. MOD SUN\)](https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU) | 3:02 | 2023-06-22 |  |
 | [tiziana](https://open.spotify.com/track/1sRk2aDhvKOoBvXc225wgl) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i care so much that i dont care at all](https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC) | 3:13 | 2023-07-25 |  |
 | [Try Again \(feat\. Lauv\)](https://open.spotify.com/track/0DHh3p0g7qmNNfNdRNwL6N) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Try Again \(feat\. Lauv\)](https://open.spotify.com/album/19CXVGNF0uSHVc5f4zCmi4) | 3:09 | 2021-12-27 |  |
+| [Typical](https://open.spotify.com/track/5sGTgu8E6XIUcYX6KbAaW9) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Typical](https://open.spotify.com/album/52EEYalE16TZY5EkdDr5zX) | 2:10 | 2024-07-06 |  |
 | [uhoh](https://open.spotify.com/track/04w6RjedkvhojBqAFyxI70) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:50 | 2023-06-30 |  |
 | [Ultimatum](https://open.spotify.com/track/2LefC4zg7mWiiRGaGJmfkm) | [Televisionaries](https://open.spotify.com/artist/6Tb9rehtVCRdLfsQXMgOaD) | [Mad About You](https://open.spotify.com/album/2iZFxp4O4u11do64P2381S) | 2:37 | 2023-06-22 |  |
 | [Under](https://open.spotify.com/track/1oCDJiTPVayQx46M8YZOHB) | [Lovi Poe](https://open.spotify.com/artist/7y1faroNftK3H3EJqeLQo8) | [Under](https://open.spotify.com/album/3cYuWp7jZuiZ40hqCvXhYu) | 3:10 | 2022-12-15 |  |

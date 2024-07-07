@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-301 songs - 20 hr 6 min
+302 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [All for You](https://open.spotify.com/track/1aHiADbmDJi1ukmZghtvIn) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [All for You](https://open.spotify.com/album/7Ckd5Akndk0AC2HAhbQgdT) | 4:13 | 2024-02-02 |  |
 | [All My Friends](https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Real Cultural Shit](https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0) | 4:03 | 2023-05-19 |  |
 | [All The Things We Say](https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [All The Things We Say / Move Me](https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4) | 3:51 | 2023-06-09 |  |
+| [Alsace](https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Alsace](https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS) | 1:57 | 2024-07-05 |  |
 | [Always By Your Side](https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Always By Your Side](https://open.spotify.com/album/1o4hTnWRBt6GxbNytqNHxH) | 5:37 | 2024-06-14 |  |
 | [Amantes \- Poolside Remix](https://open.spotify.com/track/1Bj4RpZHBXXz0G4wX4QYRi) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Amantes \(Poolside Remix\)](https://open.spotify.com/album/1nPnBp78vPtN3xdnTXUlUm) | 3:25 | 2024-05-31 |  |
 | [Amor](https://open.spotify.com/track/6bgs3RYz2AE8eJ5NJmBm8a) | [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [Amor](https://open.spotify.com/album/6ZYoYbyYrGZonOyeEOHPxg) | 4:01 | 2022-06-20 | 2023-06-22 |
@@ -308,6 +309,6 @@
 | [You're in My System \- Dennis Quin Club Mix](https://open.spotify.com/track/2H9gxsO0ezkDjK9j61GRIV) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B), [Troy Denari](https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Ibadan 2019 Ade Sampler](https://open.spotify.com/album/33cqQ9duEuQKewCUjYItqg) | 5:51 | 2023-07-28 | 2023-08-05 |
 | [You've Got That Sound](https://open.spotify.com/track/6XBap7RZKz8fnJ8H7ChGLz) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [You've Got That Sound](https://open.spotify.com/album/7CgaGa73tHombkMeXLyyNV) | 6:05 | 2021-07-24 | 2023-05-20 |
 | [Young In California](https://open.spotify.com/track/4HEpz9QQ8uOViMf6K8tucK) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Young In California](https://open.spotify.com/album/77AL4lIpiSzEf4P6Z2j4XF) | 3:57 | 2023-07-21 |  |
-| [You’re Gonna Make Me Love Somebody Else \(feat\. Kelli Sae\)](https://open.spotify.com/track/6JYFZ20WIZQB9ZEnR2aqZ7) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz), [Kelli Sae](https://open.spotify.com/artist/5BtZ4qimzjq5yGth6PBJ17) | [You’re Gonna Make Me Love Somebody Else \(feat\. Kelli Sae\)](https://open.spotify.com/album/6HKCBgUjVZ6JwUc22wMx5O) | 3:41 | 2023-05-19 |  |
+| [You’re Gonna Make Me Love Somebody Else \(feat\. Kelli Sae\)](https://open.spotify.com/track/6JYFZ20WIZQB9ZEnR2aqZ7) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz), [Kelli Sae](https://open.spotify.com/artist/5BtZ4qimzjq5yGth6PBJ17) | [You’re Gonna Make Me Love Somebody Else \(feat\. Kelli Sae\)](https://open.spotify.com/album/6HKCBgUjVZ6JwUc22wMx5O) | 3:41 | 2023-05-19 | 2024-07-07 |
 
 \*This playlist was first scraped on 2022-04-09. Prior content cannot be recovered.

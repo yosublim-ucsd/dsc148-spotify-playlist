@@ -167,6 +167,36 @@
     },
     {
       "album": {
+        "name": "Ahlam",
+        "url": "https://open.spotify.com/album/422LklmVZfFAoQOyCedcbl"
+      },
+      "artists": [
+        {
+          "name": "NES",
+          "url": "https://open.spotify.com/artist/2gVohQzPBy9wFFc3k7O9ot"
+        },
+        {
+          "name": "Nesrine",
+          "url": "https://open.spotify.com/artist/3nCNWyIpMAMYnnCPrLtNAo"
+        },
+        {
+          "name": "Matthieu Saglio",
+          "url": "https://open.spotify.com/artist/3YkXWDe8COS52gvfccIScx"
+        },
+        {
+          "name": "David Gadea",
+          "url": "https://open.spotify.com/artist/2c54DqAX3lnRXDEtKO6vso"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268760,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/4OjVl9VWxl45MXIvkLpl3c"
+    },
+    {
+      "album": {
         "name": "Good & Great - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/262TLn6YLogOz3Vn7CVRYo"
       },

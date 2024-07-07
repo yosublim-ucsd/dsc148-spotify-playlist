@@ -1,6 +1,6 @@
 {
   "description": "Classic Country from the Legends of the 1940's. Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 145048,
+  "num_followers": 145066,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
-        "name": "The Essential Gene Autry",
-        "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
-      },
-      "artists": [
-        {
-          "name": "Gene Autry",
-          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Jingle Jangle Jingle",
-      "url": "https://open.spotify.com/track/2aBoUu846J4ILDXmgc9tQ3"
-    },
-    {
-      "added_at": "2024-07-05 22:55:37",
-      "album": {
         "name": "Guitar Legend: The RCA Years",
         "url": "https://open.spotify.com/album/0ulLNifT0Lvwf8jCSHEIS0"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 152893,
       "name": "Canned Heat - Buddha Remastered - 2000",
       "url": "https://open.spotify.com/track/0OzRwhv4HwIlMTabLvt0bE"
+    },
+    {
+      "added_at": "2024-07-05 22:55:37",
+      "album": {
+        "name": "The Essential Gene Autry",
+        "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
+      },
+      "artists": [
+        {
+          "name": "Gene Autry",
+          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Jingle Jangle Jingle",
+      "url": "https://open.spotify.com/track/2aBoUu846J4ILDXmgc9tQ3"
     },
     {
       "added_at": "2024-07-05 22:55:37",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
-        "name": "Columbia Country Classics Volume 1: The Golden Age",
-        "url": "https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V"
-      },
-      "artists": [
-        {
-          "name": "Ted Daffan's Texans",
-          "url": "https://open.spotify.com/artist/2YnfSATOB2uSfoyltK0uyq"
-        }
-      ],
-      "duration_ms": 159800,
-      "name": "Born to Lose",
-      "url": "https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY"
-    },
-    {
-      "added_at": "2024-07-05 22:55:37",
-      "album": {
         "name": "Rhythm & Booze",
         "url": "https://open.spotify.com/album/3W7UIA50NjiTKPkgXTXI3g"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 164506,
       "name": "Beer Drinking Blues",
       "url": "https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm"
+    },
+    {
+      "added_at": "2024-07-05 22:55:37",
+      "album": {
+        "name": "Columbia Country Classics Volume 1: The Golden Age",
+        "url": "https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V"
+      },
+      "artists": [
+        {
+          "name": "Ted Daffan's Texans",
+          "url": "https://open.spotify.com/artist/2YnfSATOB2uSfoyltK0uyq"
+        }
+      ],
+      "duration_ms": 159800,
+      "name": "Born to Lose",
+      "url": "https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY"
     },
     {
       "added_at": "2024-07-05 22:55:37",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
-        "name": "My Favorite Country Songs",
-        "url": "https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU"
+        "name": "Classic Western Swing",
+        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
         }
       ],
-      "duration_ms": 185200,
-      "name": "Tumbling Tumbleweeds",
-      "url": "https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3"
+      "duration_ms": 173693,
+      "name": "Cherokee Maiden",
+      "url": "https://open.spotify.com/track/0nBjrklebmieCxTBY4jITG"
     },
     {
       "added_at": "2024-07-05 22:55:37",
@@ -831,18 +831,34 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
-        "name": "Classic Western Swing",
-        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
+        "name": "Psycho - The K-Ark and Allstar Recordings 1962-1969",
+        "url": "https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6"
       },
       "artists": [
         {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+          "name": "Eddie Noack",
+          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
         }
       ],
-      "duration_ms": 173693,
-      "name": "Cherokee Maiden",
-      "url": "https://open.spotify.com/track/0nBjrklebmieCxTBY4jITG"
+      "duration_ms": 140426,
+      "name": "Invisible Stripes",
+      "url": "https://open.spotify.com/track/5m2aHtyWdsUMFPtpv6I6IQ"
+    },
+    {
+      "added_at": "2024-07-05 22:55:37",
+      "album": {
+        "name": "My Favorite Country Songs",
+        "url": "https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Tumbling Tumbleweeds",
+      "url": "https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3"
     },
     {
       "added_at": "2024-07-05 22:55:37",
@@ -875,22 +891,6 @@
       "duration_ms": 171466,
       "name": "Heavy Traffic Ahead",
       "url": "https://open.spotify.com/track/3cRYM2V4teCLpVoF0pmrNr"
-    },
-    {
-      "added_at": "2024-07-05 22:55:37",
-      "album": {
-        "name": "Psycho - The K-Ark and Allstar Recordings 1962-1969",
-        "url": "https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6"
-      },
-      "artists": [
-        {
-          "name": "Eddie Noack",
-          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
-        }
-      ],
-      "duration_ms": 140426,
-      "name": "Invisible Stripes",
-      "url": "https://open.spotify.com/track/5m2aHtyWdsUMFPtpv6I6IQ"
     },
     {
       "added_at": "2024-07-05 22:55:37",

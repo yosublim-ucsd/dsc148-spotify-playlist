@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,849 songs - 10 day 19 hr 38 min
+6,850 songs - 10 day 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6205,7 +6205,7 @@
 | [Treviso](https://open.spotify.com/track/6mowqJfIFIpI39Gj5MjkG8) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Treviso](https://open.spotify.com/album/1uhZtZXyyL8TtDfHTW2F1D) | 2:52 | 2022-09-16 | 2022-12-16 |
 | [Trim \- chill](https://open.spotify.com/track/4XUY9weecNX1o93uGrGFBx) | [Wolfy](https://open.spotify.com/artist/2HKzuS0CWT4F3ApbPI257y), [Rosie Tucker](https://open.spotify.com/artist/21IgTzfAyrn8DJpEY7F4DM) | [Trim \(chill\)](https://open.spotify.com/album/7fxDv9CfnHgItOssLa3gou) | 1:33 | 2021-09-11 | 2022-04-08 |
 | [Trineos](https://open.spotify.com/track/45qPHGAfaTDAyg11FMFkwY) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [L'hiver](https://open.spotify.com/album/1fDNUQK2rYH2FKo4Ga6TL3) | 1:31 | 2024-02-09 |  |
-| [Trio Delphi](https://open.spotify.com/track/5t7rVRIFpZxb7Cv6B2zwoZ) | [Titus Martinu](https://open.spotify.com/artist/5xgzUVEK9ndCxbJQIoZjlA), [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Packed Rich](https://open.spotify.com/artist/3VP45ZJW1y1Mz7LEMkxj94) | [Trio Delphi](https://open.spotify.com/album/4KF3CemGaUE2B3QvK735n6) | 2:38 | 2024-04-26 |  |
+| [Trio Delphi](https://open.spotify.com/track/5t7rVRIFpZxb7Cv6B2zwoZ) | [Titus Martinu](https://open.spotify.com/artist/5xgzUVEK9ndCxbJQIoZjlA), [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Packed Rich](https://open.spotify.com/artist/3VP45ZJW1y1Mz7LEMkxj94) | [Trio Delphi](https://open.spotify.com/album/4KF3CemGaUE2B3QvK735n6) | 2:38 | 2024-04-26 | 2024-07-07 |
 | [Trip](https://open.spotify.com/track/259smqbf0DwBMS3tGuoA3A) | [Bongmaster](https://open.spotify.com/artist/6AT5AgVdTXN7xsjqM4Zn1g) | [Trip](https://open.spotify.com/album/2ac8uINIseN26o6CJyvs1h) | 1:52 | 2022-08-12 | 2022-11-18 |
 | [Trippin](https://open.spotify.com/track/0d8eIybG59tZb9EfGaJ0dS) | [LOVICHI](https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP) | [Trippin](https://open.spotify.com/album/52UgLRP7JX08pBHXdi79h5) | 2:09 | 2023-09-15 | 2024-02-02 |
 | [Trippin](https://open.spotify.com/track/3ZlkH9iXwzuicNCfHkGi6p) | [Manamera](https://open.spotify.com/artist/7ar7lfJxKo3iW5YNXzrLJz) | [Trippin](https://open.spotify.com/album/7Emm7sYsH9R4kqvoFwyLfJ) | 2:08 | 2019-08-18 | 2021-06-08 |
@@ -6504,6 +6504,7 @@
 | [Wanderlust](https://open.spotify.com/track/3bAOlIpMvPmdZod2cBOk1Z) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Wanderlust](https://open.spotify.com/album/0qsyWQPmkdnt5VaVd75aKb) | 2:50 | 2020-01-19 | 2021-08-22 |
 | [Wanderlust](https://open.spotify.com/track/7faRlCClQQHUoUuCxTYdui) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Wanderlust](https://open.spotify.com/album/1xOmsOH6M4SHM3Z8cLPz6I) | 2:24 | 2022-09-30 | 2023-01-13 |
 | [Wanderlust](https://open.spotify.com/track/3qgTvFq4UrUxMrLdYlND7S) | [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Wanderlust](https://open.spotify.com/album/5lzgqLiZEpgw7Iq15XEiv4) | 2:13 | 2021-07-11 | 2022-03-12 |
+| [Wanderlust](https://open.spotify.com/track/4tZ4KY8RNCTRzPjzM2Ubq4) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Wanderlust](https://open.spotify.com/album/732R5E6c2CSsUAExELguNf) | 2:37 | 2024-07-05 |  |
 | [War of Jenkins](https://open.spotify.com/track/5nOs1XotO7WDv10F9CjiH0) | [Yours Truly, CC](https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL), [Soulful Playground](https://open.spotify.com/artist/0jA7y63ujwFWqTc2E6Sjyt), [Lofi Sax](https://open.spotify.com/artist/6CnIDZGUocwG0NIyYkoJ7w) | [Treasure](https://open.spotify.com/album/1PvcQ7jqRYmurma1jSfjfj) | 2:01 | 2023-01-13 | 2023-05-04 |
 | [War\-Saw](https://open.spotify.com/track/7qP4B31sTgHhyXnX9uDCU8) | [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [Kubuch](https://open.spotify.com/artist/1dSbVVizZlEH0XqcMJ5jJ8) | [Dusty Lofi](https://open.spotify.com/album/7lT1sYBRZdKBznPgGS1m9W) | 1:36 | 2021-11-05 | 2022-05-27 |
 | [Warm Air](https://open.spotify.com/track/2FcN9T2z0VyGvSXDQxHFcJ) | [Bipeula](https://open.spotify.com/artist/5Kcv07Jj6RthywQndqvfh2) | [Warm Air](https://open.spotify.com/album/6603XthjwNNrSQ0e1zeVSz) | 2:11 | 2023-12-01 |  |

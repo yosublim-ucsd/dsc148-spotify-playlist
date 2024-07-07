@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Hiatus Kaiyote
 
-1,223 songs - 2 day 16 hr 44 min
+1,224 songs - 2 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1106,6 +1106,7 @@
 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 | 2023-08-25 | 2024-03-30 |
 | [Tried To Fly .](https://open.spotify.com/track/7LdBSqbWyWGBKYboMQghPF) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Tried To Fly .](https://open.spotify.com/album/18Qyq8CXpenmGAgVzRNrIA) | 2:59 | 2023-09-08 | 2023-10-22 |
 | [Trouble](https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Trouble](https://open.spotify.com/album/7arfU7Nnx72FDYB83muIRY) | 3:04 | 2021-10-15 | 2022-07-24 |
+| [Truman Show](https://open.spotify.com/track/4IzjDkQrKWLLUXQK4sAXZ3) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3), [L3GION](https://open.spotify.com/artist/2CGaMJdUQ5ArTPKYli1Lf4) | [Truman Show](https://open.spotify.com/album/5pNVjKBlfgVJO7EuZ4wdk1) | 2:57 | 2024-06-07 |  |
 | [Trust](https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Trust](https://open.spotify.com/album/4R536rrBEQjh7g1MrhasoS) | 2:45 | 2022-10-07 | 2022-12-03 |
 | [Trust Nobody](https://open.spotify.com/track/60noSWJZxLxgZBzmOKxckF) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Trust Nobody](https://open.spotify.com/album/3Ysfk40yB4vJNCjflkD7tZ) | 3:15 | 2021-11-05 | 2022-07-29 |
 | [Trust Nobody](https://open.spotify.com/track/7ceXCl3ndsTFrH60P1c0io) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [AT LEAST WE HAVE THIS](https://open.spotify.com/album/6nnAy3W80YnGUj7t2wf2tr) | 3:15 | 2022-06-10 | 2022-08-09 |
@@ -1117,7 +1118,7 @@
 | [U](https://open.spotify.com/track/5JGfILIfLpHMLjEx9ckGHg) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [VEDDY](https://open.spotify.com/album/3jpK8aFV72vhWvKXH9d6af) | 3:21 | 2022-07-15 | 2022-07-29 |
 | [U A Star \(feat\. Mereba\)](https://open.spotify.com/track/1KRvtRhh9m6XfWOUCUQscH) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [DON'T GROW UP TOO SOON](https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v) | 3:35 | 2024-04-26 | 2024-06-01 |
 | [U, Lost \(Prom Edition\)](https://open.spotify.com/track/2tBgQT6FJDcih3rjyYRBgV) | [Jeremy Pope](https://open.spotify.com/artist/524EFpZzvA7B9cdU27Fmm9) | [LAST NAME: POPE](https://open.spotify.com/album/6J51eeYBvF9cVtPsb7NppV) | 4:06 | 2024-06-21 |  |
-| [U4EA](https://open.spotify.com/track/4AYQzjTMJTyQj6Rfh7A0Yx) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Synthesis+](https://open.spotify.com/album/6GCQOfKDbr84KCS9LX8oTb) | 3:01 | 2023-08-25 |  |
+| [U4EA](https://open.spotify.com/track/4AYQzjTMJTyQj6Rfh7A0Yx) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Synthesis+](https://open.spotify.com/album/6GCQOfKDbr84KCS9LX8oTb) | 3:01 | 2023-08-25 | 2024-07-07 |
 | [Ughh Parents Evening](https://open.spotify.com/track/09NAWwOkfRCGurjHthLeJL) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [three.one](https://open.spotify.com/album/2xGck9uWnQCNpiBfhHa7JI) | 2:31 | 2023-04-28 | 2023-08-02 |
 | [UGOMDN \- A COLORS SHOW](https://open.spotify.com/track/3dDEKW90qTAjYPxhcA6Mtk) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [UGOMDN \- A COLORS SHOW](https://open.spotify.com/album/5WJlAVq7OMFFQSA5ZVRnyH) | 2:56 | 2023-11-19 | 2024-06-29 |
 | [UGOMDN pt\. 2 \(ft\. Mick Jenkins\)](https://open.spotify.com/track/38Y0EZIIgdvTwlgF8n0Czg) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [UGOMDN pt\. 2 \(ft\. Mick Jenkins\)](https://open.spotify.com/album/6PkAatyHeh4ez3Cpkaezqg) | 2:52 | 2024-02-23 |  |

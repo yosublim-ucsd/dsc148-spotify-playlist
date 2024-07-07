@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 
 > Jejeran artis perempuan inspiratif Indonesia\. Cover: Nabila Taqiyyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,244 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,239 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 16 | [Oh! All My Love \(From "Alpha Girls"\)](https://open.spotify.com/track/1iKxiW2Y9dlpHdGXvvuGpi) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Oh! All My Love \(From "Alpha Girls"\)](https://open.spotify.com/album/63IkYy3t5JcO919xtJ04De) | 2:50 |
 | 17 | [Biru](https://open.spotify.com/track/515rABpFyAWjEydiAgbWoa) | [Gabriella Fernaldi](https://open.spotify.com/artist/5zGnoscN1lVq4vWNExbDZO) | [Biru](https://open.spotify.com/album/4wsiaYODnvF2iT0BbAjyZN) | 3:13 |
 | 18 | [Perjalanan Panjang](https://open.spotify.com/track/66XSzL1AMucrdsRGgoPP1t) | [Titik Hamzah](https://open.spotify.com/artist/4mg24v8BP717RVt23a9MBk) | [Perjalanan Panjang](https://open.spotify.com/album/5Hm8erzAT61gliDSWcwaBf) | 5:16 |
-| 19 | [Arutala](https://open.spotify.com/track/4dRV4oxoLxMy9ipgXXmpr6) | [Fanny Soegi](https://open.spotify.com/artist/45BKi9DoM8ns6CcSAV6phW) | [Arutala](https://open.spotify.com/album/7KIj8dXkRxlSYeL0V896PW) | 4:45 |
+| 19 | [Arutala](https://open.spotify.com/track/4dRV4oxoLxMy9ipgXXmpr6) | [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE) | [Arutala](https://open.spotify.com/album/7KIj8dXkRxlSYeL0V896PW) | 4:45 |
 | 20 | [Kuat](https://open.spotify.com/track/1E8Ahc6hhfHMiwf0cOmvtn) | [Mentari Novel](https://open.spotify.com/artist/5DsdNBqFCoD43aPV8XhxmQ) | [Kuat](https://open.spotify.com/album/20cife3t2WhMEFUKE5028s) | 3:56 |
 | 21 | [Rumah](https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Rumah](https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn) | 4:18 |
 | 22 | [Katakanlah](https://open.spotify.com/track/2amvo8crQG0NXuDyb4oufo) | [Maira](https://open.spotify.com/artist/575IqK1Km1I86w0e3OzVAL) | [Katakanlah](https://open.spotify.com/album/5wuapuSpdDsAqDrxmPtHzz) | 3:19 |

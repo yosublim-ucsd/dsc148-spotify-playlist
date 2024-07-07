@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14303,
+  "num_followers": 14307,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -595,26 +595,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Produkcja Hip-Hop Ciemna/Jasna",
-        "url": "https://open.spotify.com/album/47WX4JHl2oMXyXV6rPagKt"
-      },
-      "artists": [
-        {
-          "name": "DJ 600V",
-          "url": "https://open.spotify.com/artist/1f5Eu4igDRi2LNNY837AdS"
-        },
-        {
-          "name": "Kaliber 44",
-          "url": "https://open.spotify.com/artist/2UTeT9IOjc4x9MeQWA0Hrx"
-        }
-      ],
-      "duration_ms": 263625,
-      "name": "Ja Si\u0119 Wcale Nie Chwal\u0119",
-      "url": "https://open.spotify.com/track/6BGeRP62GNdpbiS4iGtI0Q"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Sadza Delux",
         "url": "https://open.spotify.com/album/7cukwLQ4grlGJcB3rFAfBA"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 215717,
       "name": "Jezioro szcz\u0119\u015bcia - Bonus Track",
       "url": "https://open.spotify.com/track/16r1IlfSqrBVYKVeZvdmzl"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Produkcja Hip-Hop Ciemna/Jasna",
+        "url": "https://open.spotify.com/album/47WX4JHl2oMXyXV6rPagKt"
+      },
+      "artists": [
+        {
+          "name": "DJ 600V",
+          "url": "https://open.spotify.com/artist/1f5Eu4igDRi2LNNY837AdS"
+        },
+        {
+          "name": "Kaliber 44",
+          "url": "https://open.spotify.com/artist/2UTeT9IOjc4x9MeQWA0Hrx"
+        }
+      ],
+      "duration_ms": 263625,
+      "name": "Ja Si\u0119 Wcale Nie Chwal\u0119",
+      "url": "https://open.spotify.com/track/6BGeRP62GNdpbiS4iGtI0Q"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Pokolenie Ko\u0144ca \u015awiata",
-        "url": "https://open.spotify.com/album/1AIy2wSd4TWW0CjP1ibZsp"
-      },
-      "artists": [
-        {
-          "name": "Kacperczyk",
-          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
-        }
-      ],
-      "duration_ms": 168351,
-      "name": "Jakbym zjad\u0142 mentosy i popi\u0142 je col\u0105",
-      "url": "https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Chory na Polsk\u0119",
         "url": "https://open.spotify.com/album/0SGXYkMO9FNhn7wznAaFiw"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 199253,
       "name": "Chory na Polsk\u0119",
       "url": "https://open.spotify.com/track/3ZLGYIVXOjINT2ZLakODhF"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Pokolenie Ko\u0144ca \u015awiata",
+        "url": "https://open.spotify.com/album/1AIy2wSd4TWW0CjP1ibZsp"
+      },
+      "artists": [
+        {
+          "name": "Kacperczyk",
+          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
+        }
+      ],
+      "duration_ms": 168351,
+      "name": "Jakbym zjad\u0142 mentosy i popi\u0142 je col\u0105",
+      "url": "https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "W Ogniu \u015awiat",
+        "url": "https://open.spotify.com/album/7ulDdrMaeZ98frINLWfGOP"
+      },
+      "artists": [
+        {
+          "name": "\u0141ysa G\u00f3ra",
+          "url": "https://open.spotify.com/artist/6Xg17Thy6fCXBdDUIBGhxb"
+        }
+      ],
+      "duration_ms": 471480,
+      "name": "W Ogniu \u015awiat",
+      "url": "https://open.spotify.com/track/48pnK9EaWQsRqKoULssa7h"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "Mikromusic z G\u00f3rnej P\u00f3\u0142ki",
         "url": "https://open.spotify.com/album/7J9AK9SvsstfJVAobYWKvN"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 206415,
       "name": "Your Kiss",
       "url": "https://open.spotify.com/track/1iOB2whhdE8L8tspsrOQcL"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "W Ogniu \u015awiat",
-        "url": "https://open.spotify.com/album/7ulDdrMaeZ98frINLWfGOP"
-      },
-      "artists": [
-        {
-          "name": "\u0141ysa G\u00f3ra",
-          "url": "https://open.spotify.com/artist/6Xg17Thy6fCXBdDUIBGhxb"
-        }
-      ],
-      "duration_ms": 471480,
-      "name": "W Ogniu \u015awiat",
-      "url": "https://open.spotify.com/track/48pnK9EaWQsRqKoULssa7h"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1507,6 +1507,30 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "Flying Lion",
+        "url": "https://open.spotify.com/album/0M7FwXBXw3WRrlwlzPTKLR"
+      },
+      "artists": [
+        {
+          "name": "Andrzej \u015awi\u0119s",
+          "url": "https://open.spotify.com/artist/2ySLf2vBugWqJUuXExI8rC"
+        },
+        {
+          "name": "Rafa\u0142 Sarnecki",
+          "url": "https://open.spotify.com/artist/6luxZusOpIlFO6Ogz06RIY"
+        },
+        {
+          "name": "Pawe\u0142 Dobrowolski",
+          "url": "https://open.spotify.com/artist/5rg9nFblCIBIEGOFztbmyx"
+        }
+      ],
+      "duration_ms": 364149,
+      "name": "Hi 5",
+      "url": "https://open.spotify.com/track/7LSQ3LsrI4dQyHzRD38IDa"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "Horntet",
         "url": "https://open.spotify.com/album/0i4KNRV2Uu7wn8UH8UeYLN"
       },
@@ -1539,30 +1563,6 @@
       "duration_ms": 563000,
       "name": "Falling Up",
       "url": "https://open.spotify.com/track/2ZFOwLuqCZmzC2khHhRQc3"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "Flying Lion",
-        "url": "https://open.spotify.com/album/0M7FwXBXw3WRrlwlzPTKLR"
-      },
-      "artists": [
-        {
-          "name": "Andrzej \u015awi\u0119s",
-          "url": "https://open.spotify.com/artist/2ySLf2vBugWqJUuXExI8rC"
-        },
-        {
-          "name": "Rafa\u0142 Sarnecki",
-          "url": "https://open.spotify.com/artist/6luxZusOpIlFO6Ogz06RIY"
-        },
-        {
-          "name": "Pawe\u0142 Dobrowolski",
-          "url": "https://open.spotify.com/artist/5rg9nFblCIBIEGOFztbmyx"
-        }
-      ],
-      "duration_ms": 364149,
-      "name": "Hi 5",
-      "url": "https://open.spotify.com/track/7LSQ3LsrI4dQyHzRD38IDa"
     },
     {
       "added_at": "2024-03-25 08:52:09",

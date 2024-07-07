@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > The best in new alternative pop\. Cover: Charli XCX
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,440 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,448 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,25 +68,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 58 | [What If You're The Love of My Life?](https://open.spotify.com/track/2rNp14nmgJc4IK0FajIzGn) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [What If You're The Love of My Life?](https://open.spotify.com/album/3gHdoNyalsBcrZ4QSJAmuc) | 2:08 |
 | 59 | [effort in](https://open.spotify.com/track/45EMmryo2aQRD7HMDHlVzj) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [effort in](https://open.spotify.com/album/7rC7eOZPlaNImntVvrhRRi) | 2:25 |
 | 60 | [Shooting Star](https://open.spotify.com/track/2qYVrnuPTVaZGuTxkzW4ow) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Shooting Star](https://open.spotify.com/album/3vXZeXvMBIgqEQaPeQ57f0) | 2:26 |
-| 61 | [Heartache](https://open.spotify.com/track/39GZz9WxQpwJul7NnfBTb3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2) | 4:35 |
-| 62 | [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 |
+| 61 | [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 |
+| 62 | [Heartache](https://open.spotify.com/track/39GZz9WxQpwJul7NnfBTb3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2) | 4:35 |
 | 63 | [god is dead](https://open.spotify.com/track/5oRnhpl1cQN0zxwsV4K2m5) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [a bit of a mad one](https://open.spotify.com/album/0SW2LQdzynFLJ05WzVYSJq) | 2:11 |
-| 64 | [Act of Innocence](https://open.spotify.com/track/0CiHRdnBbxTpao3DychgTp) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Act of Innocence](https://open.spotify.com/album/0cDD4yvNsLL9eermbxEngG) | 3:03 |
-| 65 | [Obsessed](https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Obsessed](https://open.spotify.com/album/4fIV9iUM0W0A1GXuEQuETh) | 2:27 |
+| 64 | [Obsessed](https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Obsessed](https://open.spotify.com/album/4fIV9iUM0W0A1GXuEQuETh) | 2:27 |
+| 65 | [Act of Innocence](https://open.spotify.com/track/0CiHRdnBbxTpao3DychgTp) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Act of Innocence](https://open.spotify.com/album/0cDD4yvNsLL9eermbxEngG) | 3:03 |
 | 66 | [Cry at the Moon](https://open.spotify.com/track/0TY9m3iHAO4I0VflhnuFJI) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Cry at the Moon](https://open.spotify.com/album/0FUlMafsW5YS0OPPAra5IB) | 3:07 |
 | 67 | [24 hours](https://open.spotify.com/track/7j0XR8mdPg6tlbvPd2DUQO) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [24 hours](https://open.spotify.com/album/7CeRRQTS5yD21SnqYoIsu2) | 3:40 |
 | 68 | [Silicone Heart](https://open.spotify.com/track/18YdjxKgfyjcaIKRrfpndh) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Silicone Heart](https://open.spotify.com/album/2NbquPo8J4VCEqkrDyV9KR) | 3:13 |
 | 69 | [Gone By Now](https://open.spotify.com/track/0yio4kiSB2YWZDRvY2EYvA) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Gone By Now](https://open.spotify.com/album/2EjLUeFLpRszl5dQOPZ3cl) | 3:21 |
 | 70 | [Hello Lonely](https://open.spotify.com/track/0eFTxYwpRTxyefxYlBJq6L) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Radiosoul](https://open.spotify.com/album/0GpklLqjWNrhropGa4XRRD) | 3:31 |
 | 71 | [LOVEBITES](https://open.spotify.com/track/5Qmabe5M68D39yD3ie9dum) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [LOVEBITES](https://open.spotify.com/album/4gHjIxAYsDLd6gAWcwNod7) | 3:32 |
-| 72 | [Feel My Feelings](https://open.spotify.com/track/0m2PIy7YXNPK44p7LRoFwA) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Matriarchy](https://open.spotify.com/album/3Kh7DCpfbG9rotZBLoNWKK) | 2:44 |
-| 73 | [New Age Crisis](https://open.spotify.com/track/1jbBmjncsqWO0oa81kGrCO) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [New Age Crisis](https://open.spotify.com/album/6njbQUKUGq6Nv37wVT4WWC) | 2:38 |
-| 74 | [summer of love](https://open.spotify.com/track/5ttv8rhr5AxHSqAN5xg7zT) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [SOPHOMORE](https://open.spotify.com/album/1eN6QlgyGlf1hHkr04rLS8) | 2:46 |
+| 72 | [summer of love](https://open.spotify.com/track/5ttv8rhr5AxHSqAN5xg7zT) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [SOPHOMORE](https://open.spotify.com/album/1eN6QlgyGlf1hHkr04rLS8) | 2:46 |
+| 73 | [Feel My Feelings](https://open.spotify.com/track/0m2PIy7YXNPK44p7LRoFwA) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Matriarchy](https://open.spotify.com/album/3Kh7DCpfbG9rotZBLoNWKK) | 2:44 |
+| 74 | [New Age Crisis](https://open.spotify.com/track/1jbBmjncsqWO0oa81kGrCO) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [New Age Crisis](https://open.spotify.com/album/6njbQUKUGq6Nv37wVT4WWC) | 2:38 |
 | 75 | [What's Love \(feat\. MUNA\)](https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [What's Love \(feat\. MUNA\)](https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z) | 3:09 |
 | 76 | [Eyes Wide Shut](https://open.spotify.com/track/2LyaOE8P7p8X0yofHVtF2D) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Eyes Wide Shut](https://open.spotify.com/album/6O7B3KJmgRfdn0OaCPv8Gq) | 3:22 |
 | 77 | [Moist](https://open.spotify.com/track/0zF0Qrico9hPxd4dqmvsEL) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Moist](https://open.spotify.com/album/03mXhmUKLGxyIWyDAIxxtV) | 2:07 |
 | 78 | [Angeles](https://open.spotify.com/track/0QNLboKNg60M1PmEBFoY6k) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Angeles / Build A Man](https://open.spotify.com/album/0AGElbWY5WV66ygbTy2aQr) | 2:03 |
 | 79 | [Blindfold \(feat\. Liz Lawrence\)](https://open.spotify.com/track/3qlNhvJd7arndpEp2CFsaJ) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Fantasies](https://open.spotify.com/album/7jI0uMNouj0i2i0Kw0NpSR) | 3:42 |
-| 80 | [Mulholland's Dinner and Wine](https://open.spotify.com/track/72cIAfDlrVYKIrSFqrLCSN) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Mulholland's Dinner and Wine](https://open.spotify.com/album/0tO938DpMVTxkaGlaGp43F) | 3:21 |
+| 80 | [Why Am I Like This?](https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:26 |
 
 Snapshot ID: `ZmLUEgAAAADZHuGshZkLBoHcdysA57ez`

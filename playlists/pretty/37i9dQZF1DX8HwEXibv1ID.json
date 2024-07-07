@@ -1,6 +1,6 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 42183,
+  "num_followers": 42217,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-03-20 14:55:15",
       "album": {
-        "name": "Silk Stockings (1957 Film Original Score)",
-        "url": "https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL"
-      },
-      "artists": [
-        {
-          "name": "Fred Astaire (performer), The MGM Studio Chorus",
-          "url": "https://open.spotify.com/artist/5WJ0grrC4TlglvEZQoZaFJ"
-        }
-      ],
-      "duration_ms": 215588,
-      "name": "The Ritz Roll and Rock",
-      "url": "https://open.spotify.com/track/1gu0OMIllqEM8ozrzyJ6Ty"
-    },
-    {
-      "added_at": "2024-03-20 14:55:15",
-      "album": {
         "name": "Mr. Top Hat",
         "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 177213,
       "name": "I've Got My Eyes On You",
       "url": "https://open.spotify.com/track/3CWKx0KS7iq8s2kik4oSMw"
+    },
+    {
+      "added_at": "2024-03-20 14:55:15",
+      "album": {
+        "name": "Silk Stockings (1957 Film Original Score)",
+        "url": "https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire (performer), The MGM Studio Chorus",
+          "url": "https://open.spotify.com/artist/5WJ0grrC4TlglvEZQoZaFJ"
+        }
+      ],
+      "duration_ms": 215588,
+      "name": "The Ritz Roll and Rock",
+      "url": "https://open.spotify.com/track/1gu0OMIllqEM8ozrzyJ6Ty"
     },
     {
       "added_at": "2024-03-20 14:55:15",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-03-20 14:55:15",
       "album": {
-        "name": "A Man and His Trombone",
-        "url": "https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI"
+        "name": "My Funny Valentine: The Best Of Chet Baker",
+        "url": "https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t"
       },
       "artists": [
         {
-          "name": "Tommy Dorsey",
-          "url": "https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 168442,
-      "name": "Silk Stockings",
-      "url": "https://open.spotify.com/track/5iRLpKazu6D8zoNz1RzCmp"
+      "duration_ms": 214666,
+      "name": "Why Shouldn't I?",
+      "url": "https://open.spotify.com/track/5TZUTN9vUjjxy4vDDxhlKm"
     },
     {
       "added_at": "2024-03-20 14:55:15",
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-03-20 14:55:15",
       "album": {
-        "name": "My Funny Valentine: The Best Of Chet Baker",
-        "url": "https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t"
+        "name": "A Man and His Trombone",
+        "url": "https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Tommy Dorsey",
+          "url": "https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG"
         }
       ],
-      "duration_ms": 214666,
-      "name": "Why Shouldn't I?",
-      "url": "https://open.spotify.com/track/5TZUTN9vUjjxy4vDDxhlKm"
+      "duration_ms": 168442,
+      "name": "Silk Stockings",
+      "url": "https://open.spotify.com/track/5iRLpKazu6D8zoNz1RzCmp"
     },
     {
       "added_at": "2024-03-20 14:55:15",

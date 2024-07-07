@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 
 > The biggest Christmas songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,569,004 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,568,588 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 | 89 | [The Christmas Waltz](https://open.spotify.com/track/0vNeE3etbiFd24ZczkSxXS) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Ultimate Christmas](https://open.spotify.com/album/4NVXNilJI92yp86NwlVc87) | 2:52 |
 | 90 | [Someday At Christmas](https://open.spotify.com/track/0GMbNoVqoycx9qd9ggIP8V) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Jingle Bells](https://open.spotify.com/album/5NlA5cPHtHxIMOO9tqH7ar) | 2:49 |
 | 91 | [Merry Christmas](https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [= \(Christmas Edition\)](https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa) | 3:28 |
-| 92 | [Santa's Coming for Us](https://open.spotify.com/track/3AlpkljBS1AU7HFVPms8K6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas](https://open.spotify.com/album/0DB01cPUt66gHPLL1JcdQq) | 3:26 |
-| 93 | [Frosty The Snowman](https://open.spotify.com/track/6MPpnJDLk37GEIM0iGGITd) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Christmas](https://open.spotify.com/album/3cfRNKKs0by89V5C1uPDm3) | 2:13 |
+| 92 | [Frosty The Snowman](https://open.spotify.com/track/6MPpnJDLk37GEIM0iGGITd) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Christmas](https://open.spotify.com/album/3cfRNKKs0by89V5C1uPDm3) | 2:13 |
+| 93 | [Santa's Coming for Us](https://open.spotify.com/track/3AlpkljBS1AU7HFVPms8K6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas](https://open.spotify.com/album/0DB01cPUt66gHPLL1JcdQq) | 3:26 |
 | 94 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/5SyQ5OhqrkJGb35V7RBoL0) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [The Winter Album](https://open.spotify.com/album/4ouVWPI2PNjbd0zjXmfaOS) | 4:12 |
 | 95 | [Merry Christmas Everyone \- Remastered](https://open.spotify.com/track/23lpJkE7jJ4BVQhc3lj0VM) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Merry Christmas Everyone \(Remastered\)](https://open.spotify.com/album/0JBRnXybCvjEgoERinxmJa) | 3:40 |
 | 96 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/4M3K1gnHJnE3cIrAcKZQr3) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These Are Special Times](https://open.spotify.com/album/32MpBKgfq3OJWbqEFcTwWP) | 4:14 |

@@ -1,12 +1,12 @@
 {
   "description": "This Is Belinda. Los temas esenciales, todos en una lista.",
-  "num_followers": 67517,
+  "num_followers": 67550,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAACJtSAXKE/MFC2AC5i7m7/w",
+  "snapshot_id": "Zoc3gAAAAADCiQCfRGr4eQob8R3ZWDEX",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cocoterapia",
+        "url": "https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 202153,
+      "name": "Flamenkito",
+      "url": "https://open.spotify.com/track/2oRtscLLwdLMiDpRoQOSWW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "Luz Sin Gravedad",
+      "url": "https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "4.0",
         "url": "https://open.spotify.com/album/7zCW1I02UgkVjg0UYd5rOq"
       },
@@ -335,22 +371,6 @@
       "duration_ms": 233080,
       "name": "D\u00e9jate Llevar",
       "url": "https://open.spotify.com/track/784NEMxBpeH9MxWF1qr4iu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "Luz Sin Gravedad",
-      "url": "https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6"
     },
     {
       "added_at": null,
@@ -959,22 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Alguien Mas",
-      "url": "https://open.spotify.com/track/4OOVjodwtXcrGTiePzN3BQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Madrid X Marbella",
         "url": "https://open.spotify.com/album/2coM4rvjL0SLDKoCwjtu8y"
       },
@@ -991,6 +995,26 @@
       "duration_ms": 194576,
       "name": "Madrid X Marbella",
       "url": "https://open.spotify.com/track/3DiE3kg9WyLw0s8Sa7aTPE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silvana - C\u00f3mplices Al Rescate",
+        "url": "https://open.spotify.com/album/7Mn2dBHL97jRe7zyuAXcgc"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Laura Flores",
+          "url": "https://open.spotify.com/artist/7HcfNDsEN1QvF3zUvf03OF"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Contigo Siempre",
+      "url": "https://open.spotify.com/track/4hrKrgSeEil3uXvgouZLhd"
     },
     {
       "added_at": null,
@@ -1031,26 +1055,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silvana - C\u00f3mplices Al Rescate",
-        "url": "https://open.spotify.com/album/7Mn2dBHL97jRe7zyuAXcgc"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Laura Flores",
-          "url": "https://open.spotify.com/artist/7HcfNDsEN1QvF3zUvf03OF"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Contigo Siempre",
-      "url": "https://open.spotify.com/track/4hrKrgSeEil3uXvgouZLhd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aventuras En El Tiempo",
         "url": "https://open.spotify.com/album/0TpcSvWBE1qXWGvtybMfAq"
       },
@@ -1067,22 +1071,6 @@
       "duration_ms": 160173,
       "name": "Aventuras En El Tiempo",
       "url": "https://open.spotify.com/track/0lh18hhI9vxejLA6fjwynz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Colorblind",
-        "url": "https://open.spotify.com/album/10pmOIJFrZ1Miyl1qP6Xfw"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 205040,
-      "name": "Colorblind",
-      "url": "https://open.spotify.com/track/2oekKvTdvWAk3x09g7HVlJ"
     },
     {
       "added_at": null,
@@ -1107,6 +1095,22 @@
       "duration_ms": 205775,
       "name": "Te Quiero (feat. Belinda) - Spanglish",
       "url": "https://open.spotify.com/track/5vD1PU8G39zpTB0J4LWJhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/10pmOIJFrZ1Miyl1qP6Xfw"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 205040,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/2oekKvTdvWAk3x09g7HVlJ"
     },
     {
       "added_at": null,

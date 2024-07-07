@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! A predicttion playlist that also Includes Summer 2023 edition &amp; bonus tracks.
 
-3,547 songs - 8 day 8 hr 28 min
+3,551 songs - 8 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -982,6 +982,7 @@
 | [Eyes Closed](https://open.spotify.com/track/3E3zkflz6Oe2zCcjHpw7qw) | [Max Green](https://open.spotify.com/artist/2dzz9G09zy2vDqCFo1emQd) | [Eyes Closed](https://open.spotify.com/album/5QgQhahldhB5zQ5PmNd7Dv) | 4:03 | 2022-03-04 | 2022-03-26 |
 | [ez pz](https://open.spotify.com/track/3ciKFfeCU1Nvbnk9seomjy) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [ez pz](https://open.spotify.com/album/1fTYomSCZm6jGiSywv9Xm2) | 2:43 | 2024-04-06 | 2024-04-21 |
 | [Faceless Man](https://open.spotify.com/track/6nJUrPRhR3WIP6Qh3ocYZC) | [The Intemperate Sons](https://open.spotify.com/artist/5LwJGC0Cr6YQBAMmvoQqEY), [Amir Derakh](https://open.spotify.com/artist/28S3sWvgX9BbOln45EHc2f) | [Faceless Man](https://open.spotify.com/album/3pZcGKLmPsfTREovO812J6) | 3:38 | 2023-07-24 | 2023-08-20 |
+| [Facilito](https://open.spotify.com/track/5KCbtEjKyGa5NxDYuoqMPt) | [Mike Soto](https://open.spotify.com/artist/0QuTRSu03o1Z4rmnyme9YV) | [Facilito](https://open.spotify.com/album/4xq1XzdCfsne5FWlub005z) | 3:06 | 2024-07-07 |  |
 | [Facing the worst fears](https://open.spotify.com/track/5Uztuj1AiTV8e6UPYvB3iF) | [jerry](https://open.spotify.com/artist/1AZJhKobUOUAawr0AEmGE4) | [lovemesooner](https://open.spotify.com/album/0fxjoSnIWH8Mu5zqLUsp4B) | 3:42 | 2024-01-14 | 2024-01-28 |
 | [Fade Away](https://open.spotify.com/track/0nVKBy2n1QYLL7XBIvq7KJ) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ) | [Fade Away](https://open.spotify.com/album/1BlBwOb5xAl7VzrHdXmBBt) | 3:14 | 2020-09-28 | 2020-10-12 |
 | [Fade Out Lines \- The Avener Rework](https://open.spotify.com/track/2y2TNx72H4oE01TkztsAR6) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT) | [The Wanderings Of The Avener](https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy) | 4:36 | 2019-09-29\* | 2021-11-19 |
@@ -1397,6 +1398,7 @@
 | [Horrors in the Dark](https://open.spotify.com/track/2HALn5tmQi3vDP6vcldrru) | [Sofi Gev](https://open.spotify.com/artist/6YL1DZY3FftdLcZwocsPbd) | [Horrors in the Dark](https://open.spotify.com/album/6ZxFAmGdzSQZfGDuvozxZA) | 4:14 | 2021-05-29 | 2021-07-07 |
 | [Hostage \- Slowed + Reverb](https://open.spotify.com/track/23dIj54913yTsIvkvgYMnI) | [slowed nation](https://open.spotify.com/artist/5MSy46F3V4DEVIldnkSish), [Slowed Radio](https://open.spotify.com/artist/3rIzlFSrRENuXrBvGkDbqD) | [Hostage \(Slowed + Reverb\)](https://open.spotify.com/album/01LXhFeItNfECMwYPAyohz) | 4:06 | 2023-06-02 | 2023-06-23 |
 | [Hot Air Balloon](https://open.spotify.com/track/2MHMVMz0tQ7kbIH9vQTtH7) | [Loc'd](https://open.spotify.com/artist/3d7Q0izC7Rqu1jh4SWjtaR) | [In](https://open.spotify.com/album/63zrGQ0OxDzZZ67kb7EZ4S) | 3:53 | 2022-12-16 | 2023-01-07 |
+| [hot glue](https://open.spotify.com/track/0njZDG7JendliN8qs2hlkp) | [dye\-dye](https://open.spotify.com/artist/1cJ2aAEUhYlxfOLRZDnUVp) | [hot glue](https://open.spotify.com/album/6sQp6GjNi2JFDFZYw7rxOl) | 3:35 | 2024-07-07 |  |
 | [Hotmess](https://open.spotify.com/track/1tNSFYYQuknp6sRWkeW70Y) | [Emma Kern](https://open.spotify.com/artist/5D9sDxufqccO7Kb7GmOhKz) | [Hotmess](https://open.spotify.com/album/067Fj64uwAasKfKn7UEo2U) | 2:27 | 2024-05-10 | 2024-05-22 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-12-11 | 2023-12-30 |
 | [How Far](https://open.spotify.com/track/0OMge2iLljuogYRKzbgB5Y) | [Henry Aberson](https://open.spotify.com/artist/30h4XxFyy4Ym28EAIdSr2G), [Nariah Taylor](https://open.spotify.com/artist/6juqczQpC33D80JUhPlHg1), [Mat Maxwell](https://open.spotify.com/artist/0XrDZpAUxnswRihjZd1uNy) | [How Far](https://open.spotify.com/album/0HZQJnhI6hVbhXOhTKmkI9) | 3:43 | 2024-02-14 | 2024-04-14 |
@@ -2066,6 +2068,7 @@
 | [MOTA](https://open.spotify.com/track/0zpwjk9WosuVgDCyfWshAC) | [TYLOR](https://open.spotify.com/artist/7FBFDgNhHbZvmrMJk4L1vO) | [MOTA](https://open.spotify.com/album/6PKzwCa3CZeWoY7TgGYOwX) | 2:29 | 2022-05-27 | 2022-06-12 |
 | [MOTION](https://open.spotify.com/track/77hjqTb1lNcHMLKpZxYcS7) | [HINYL](https://open.spotify.com/artist/5C1kYgcLy2bHUCWGGvpKVP) | [MOTION \(DIVE IN\)](https://open.spotify.com/album/6uildMXkFASWvb5hPJXqJK) | 3:06 | 2022-12-24 | 2023-02-07 |
 | [MOTION](https://open.spotify.com/track/7cQM2G5MT80a0xmv4Dcr8x) | [HINYL](https://open.spotify.com/artist/5C1kYgcLy2bHUCWGGvpKVP) | [MOTION](https://open.spotify.com/album/6fKNqMMnSkRFWTNMRNUp1w) | 3:06 | 2022-12-23 | 2022-12-25 |
+| [Motion](https://open.spotify.com/track/0EFtWzpREMBLzz6pTb057Q) | [Mayjah kyng](https://open.spotify.com/artist/5bhtzcECLSPTxIUjDz3Lsr) | [Motion](https://open.spotify.com/album/78uOonyzbFw5YE7ql7tcmw) | 3:34 | 2024-07-06 |  |
 | [mountains](https://open.spotify.com/track/7HuiXZw4jq0nMqj3HG6a9q) | [Edwrds](https://open.spotify.com/artist/2mlPp5s1XgLlqtSXTyyTwA) | [mountains](https://open.spotify.com/album/3G1Pyr1IdD154YSSuWS7Dy) | 3:12 | 2023-07-11 | 2023-07-21 |
 | [Move On](https://open.spotify.com/track/7kwGPYkQx1dYu0lod9IEAf) | [Ayo August](https://open.spotify.com/artist/2BiwobuxFl5vPgLcvA6yb4), [BoyW1DR](https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb) | [Move On](https://open.spotify.com/album/0wwMY8G12nqu8CePeBBq2Q) | 2:09 | 2021-04-17 | 2021-05-03 |
 | [Move On](https://open.spotify.com/track/7m3Vj6y1dYXGwKhZ4N6BYB) | [Joytide](https://open.spotify.com/artist/6oKwIoXslSna3RRQwcCoOW), [Carl Roos](https://open.spotify.com/artist/0fKlHm1QYTvlNd8T1yeHBH) | [Move On](https://open.spotify.com/album/6uiU8puP5cdQv625EiIalh) | 2:54 | 2021-04-24 | 2021-05-09 |
@@ -3520,6 +3523,7 @@
 | [You Deserve It](https://open.spotify.com/track/1h6uDw5tEKF0S4A458zNb7) | [Lola Ladae'](https://open.spotify.com/artist/4lIVqdSUMFaCnndK70oVvy) | [You Deserve It](https://open.spotify.com/album/4RnGEF0kh1GQ5WYunvaViY) | 2:58 | 2022-04-05 | 2022-05-10 |
 | [You Did It Again](https://open.spotify.com/track/3sjSBkwC6zzizzozoXCYH1) | [cristian](https://open.spotify.com/artist/75U23aX5AfwDwalmCZHnjQ) | [You Did It Again](https://open.spotify.com/album/4OmNQonXV4KD7F0GkJweqr) | 3:20 | 2023-01-22 | 2023-02-24 |
 | [You Don't Wanna Leave it Alone](https://open.spotify.com/track/5CeBqKJKkZtllzY5FaMPdd) | [J.E\. Sunde](https://open.spotify.com/artist/17x8QHiHxUhMSEv26RT7lW) | [You Don't Wanna Leave it Alone](https://open.spotify.com/album/0QIIAR2Ko4vEfb0kNjaQIg) | 3:02 | 2023-03-31 | 2023-04-23 |
+| [You Don't Want Me Anymore \(Acoustic\) \[Chatfield Remix\]](https://open.spotify.com/track/7aqKLHzMeaiBHjd3Hld0Pq) | [Steel Breeze](https://open.spotify.com/artist/2ETBWoTMAG8RXkzZlnFtPi), [David Chatfield](https://open.spotify.com/artist/0FQDAcgizU71bs2u0jQri4) | [Steel Breeze 2024 \(Chatfield Remixes\)](https://open.spotify.com/album/6WJjsen0UazxB9iVmkSG64) | 4:19 | 2024-07-06 |  |
 | [You Got Me \- Jonny Jukebox Remix](https://open.spotify.com/track/2eGBaMm9nJa7OSyXRi1uKu) | [Kady Rain](https://open.spotify.com/artist/3YF3JuP8XYLsZHsUFYC1Gg), [Jonny Jukebox](https://open.spotify.com/artist/2cG2HgkfyeAXZLlVaMCEF8) | [You Got Me \(Jonny Jukebox Remix\)](https://open.spotify.com/album/757Md6FetgnzIHLCTIiwHa) | 3:25 | 2021-05-28 | 2021-06-13 |
 | [You Know It's Right](https://open.spotify.com/track/3nIYAdueLM2QCaftvDfDYw) | [Steve Yanek](https://open.spotify.com/artist/0zoMMFw2wdVKjJxVDoui5e) | [You Know It's Right](https://open.spotify.com/album/6WpW2lCm2RMUuFT2DRHFOl) | 3:48 | 2022-04-15 | 2022-04-30 |
 | [You Know..](https://open.spotify.com/track/6ojEjcSt9DwxWYgRJVvSpo) | [2iO88](https://open.spotify.com/artist/30DnY0zTMtGdfet0JHrdjJ) | [You Know..](https://open.spotify.com/album/30iWKyZ5UarSoXjnySDyd0) | 2:29 | 2023-12-16 | 2023-12-24 |

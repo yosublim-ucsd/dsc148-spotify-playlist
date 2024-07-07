@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 200200,
       "name": "Already Want You Back",
       "url": "https://open.spotify.com/track/4SpSZU4kZi2aLDWbyn0gZ7"
@@ -3350,7 +3350,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 254200,
       "name": "Brooklyn",
       "url": "https://open.spotify.com/track/1Mk77ZCLBBMquaupM9kndp"
@@ -5822,7 +5822,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 237066,
       "name": "Downtown Lights",
       "url": "https://open.spotify.com/track/41fgMr2SXvOHUlIe9fMDoJ"
@@ -8534,7 +8534,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 212200,
       "name": "Give Me Your Fire, Give Me Your Rain",
       "url": "https://open.spotify.com/track/7xT7S9uNrRkYTl4U4xps4M"
@@ -11216,7 +11216,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 296426,
       "name": "If Only for Tonight",
       "url": "https://open.spotify.com/track/5Lp5x32wJQwBAOKiuv42At"
@@ -13060,7 +13060,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 298628,
       "name": "Looking for Love",
       "url": "https://open.spotify.com/track/5UvcNAtYa3davlDx7FoHXG"
@@ -19796,7 +19796,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 265506,
       "name": "Spectrum",
       "url": "https://open.spotify.com/track/5pEmeoMUW38w1oU3kPelvR"
@@ -20160,7 +20160,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 207960,
       "name": "Still Thinking About You",
       "url": "https://open.spotify.com/track/5sIdAQhsVsX8W6qmjadnVY"
@@ -22494,7 +22494,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 276186,
       "name": "Towel",
       "url": "https://open.spotify.com/track/6NA21l5lWlMjnXTVAZZ4Oq"
@@ -23466,6 +23466,24 @@
       "duration_ms": 182334,
       "name": "westside",
       "url": "https://open.spotify.com/track/10EGpDhTEwrSXkUcpmZz32"
+    },
+    {
+      "album": {
+        "name": "wet dreams",
+        "url": "https://open.spotify.com/album/7BQgt8ENEZ7P6mKqkY3TLz"
+      },
+      "artists": [
+        {
+          "name": "Recent Rumors",
+          "url": "https://open.spotify.com/artist/4qdxWWLnahrzUknTg3uPQn"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197837,
+      "name": "wet dreams",
+      "url": "https://open.spotify.com/track/6dFeWTBLjQYdbq11vmfWDJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 
 > Inez on the cover of Habibi Gang Gang!
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,484 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,540 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 2 | [Malou Hada](https://open.spotify.com/track/7fcugJNDknFN8uwtypNUaL) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Malou Hada](https://open.spotify.com/album/7oPeaC4zmpxJw6zOq5IueA) | 2:26 |
 | 3 | [Hantouma Choufo](https://open.spotify.com/track/4gavV33vzQoh9agDE0AL53) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Hantouma Choufo](https://open.spotify.com/album/3BgZ3Uu9yIhzOGzkhl1ggC) | 2:18 |
 | 4 | [Maghreb Mashup 2024](https://open.spotify.com/track/46fsLjBJfxYm3hcBXjZJ6H) | [APPI3](https://open.spotify.com/artist/673PHmeKP7xQGFSVfZNl4W), [NDM](https://open.spotify.com/artist/1i6frs7ZgdH0x2LpA60SwK) | [Maghreb Mashup 2024](https://open.spotify.com/album/0Y6Ijnl23zcb4oo6Xn9YgG) | 3:30 |
-| 5 | [Zina](https://open.spotify.com/track/2z40IRNtq5smsWqHeksIPx) | [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM) | [Zina](https://open.spotify.com/album/5huLEgCa6fmKy9rt5kWyAo) | 2:55 |
+| 5 | [Ya zina](https://open.spotify.com/track/2z40IRNtq5smsWqHeksIPx) | [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM) | [Ya zina](https://open.spotify.com/album/5huLEgCa6fmKy9rt5kWyAo) | 2:55 |
 | 6 | [Ana W Yak](https://open.spotify.com/track/0KLFB5ip4HnLQOLrUgAc8P) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [Ne3ne3 Radio](https://open.spotify.com/album/2m0ZqwzrmYhnWa6xB4KhNI) | 2:36 |
 | 7 | [Lalat Nsa](https://open.spotify.com/track/176uJPdW7U9OHgnoWNDIft) | [Ayoub Maach](https://open.spotify.com/artist/6lNP6HiSpWcr1NpO3MLcXj) | [Lalat Nsa](https://open.spotify.com/album/5QonXzvLWWtCSNv6AMHYkl) | 2:40 |
 | 8 | [Alby Ydo2](https://open.spotify.com/track/7hhxWoY8woyLeHifEb7a7r) | [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Alby Ydo2](https://open.spotify.com/album/5otAVv8aZUG0kjV5w2yn37) | 2:21 |

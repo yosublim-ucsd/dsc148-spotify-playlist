@@ -902,7 +902,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 292248,
       "name": "Ch\u1ec9 m\u00ecnh anh \u0111i xa",
       "url": "https://open.spotify.com/track/0dhrbrTYAwP2NfUc6jbmzO"
@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 294997,
       "name": "FRIENDSHIP",
       "url": "https://open.spotify.com/track/1ZSwYD21wiQCx3VYrnQHMm"
@@ -3375,6 +3375,36 @@
     },
     {
       "album": {
+        "name": "Anh Trai V\u01b0\u1ee3t Ng\u00e0n Ch\u00f4ng Gai 2024 - V\u00f2ng Concert",
+        "url": "https://open.spotify.com/album/1vql35M93Nw80qweswgU1s"
+      },
+      "artists": [
+        {
+          "name": "Kay Tr\u1ea7n",
+          "url": "https://open.spotify.com/artist/3EPkqJFzEGSJWtGsu1Xwqt"
+        },
+        {
+          "name": "C\u01b0\u1eddng Seven",
+          "url": "https://open.spotify.com/artist/6uPQqRyJMiXn3lHCh0oJIt"
+        },
+        {
+          "name": "Ki\u00ean \u1ee8ng",
+          "url": "https://open.spotify.com/artist/1zWjwwXPteMD3N6CzcJN5B"
+        },
+        {
+          "name": "SOOBIN",
+          "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160426,
+      "name": "N\u01b0\u1edbc Hoa",
+      "url": "https://open.spotify.com/track/5XK9xF4Wu2ch0zSPSHHuqv"
+    },
+    {
+      "album": {
         "name": "N\u1ea5u \u0103n cho em",
         "url": "https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t"
       },
@@ -4391,6 +4421,32 @@
     },
     {
       "album": {
+        "name": "Summeroom",
+        "url": "https://open.spotify.com/album/1pBKlPHaXpr0pf6DojEevx"
+      },
+      "artists": [
+        {
+          "name": "Kai \u0110inh",
+          "url": "https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr"
+        },
+        {
+          "name": "AMEE",
+          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
+        },
+        {
+          "name": "GREY D",
+          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193629,
+      "name": "Tr\u00e1i \u0111\u1ea5t \u00f4m M\u1eb7t tr\u1eddi",
+      "url": "https://open.spotify.com/track/2xcWKo7mcj6Rd1z7E5pNzb"
+    },
+    {
+      "album": {
         "name": "tr\u00ean taxi ch\u1eb3ng mu\u1ed1n v\u1ec1 nh\u00e0",
         "url": "https://open.spotify.com/album/1UB7MPGcKAmg1coiaWzJ5h"
       },
@@ -5074,6 +5130,24 @@
       "duration_ms": 192720,
       "name": "Xoa \u0110\u1ea7u",
       "url": "https://open.spotify.com/track/6kSqwxia5o0DhzteO4Iwfa"
+    },
+    {
+      "album": {
+        "name": "Y\u00ean B\u00ecnh C\u00f3 Qu\u00e1 \u0110\u1eaft Kh\u00f4ng",
+        "url": "https://open.spotify.com/album/0dGOEyWETuAkrhOyXCuVzy"
+      },
+      "artists": [
+        {
+          "name": "Khiem",
+          "url": "https://open.spotify.com/artist/2xyEAgqFAAy5yqRZ7mHd9c"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248318,
+      "name": "Y\u00ean B\u00ecnh C\u00f3 Qu\u00e1 \u0110\u1eaft Kh\u00f4ng",
+      "url": "https://open.spotify.com/track/0A0oqleZkyD8FN6aW48Jzn"
     },
     {
       "album": {

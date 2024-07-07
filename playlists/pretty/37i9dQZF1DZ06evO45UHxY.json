@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
-  "num_followers": 2290,
+  "num_followers": 2291,
   "original_name": "This Is Banda Zeta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAAA8lIBTVYX0iZ7oPI6NQIbe",
+  "snapshot_id": "Zoc3gAAAAABR/1yIP6gIqnbCtxb6oD/L",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 160626,
-      "name": "La Ni\u00f1a Fresa",
-      "url": "https://open.spotify.com/track/3sgHiiSR5V8V97FiQtne0u"
+      "duration_ms": 256420,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/7aGYG6w2hMxiJXot3LZVTS"
     },
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 256420,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/7aGYG6w2hMxiJXot3LZVTS"
+      "duration_ms": 157492,
+      "name": "Chicas Modernas",
+      "url": "https://open.spotify.com/track/19D00rbiTgUtcSr9VfcYhZ"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 157492,
-      "name": "Chicas Modernas",
-      "url": "https://open.spotify.com/track/19D00rbiTgUtcSr9VfcYhZ"
+      "duration_ms": 169433,
+      "name": "Zapatos De Bailador",
+      "url": "https://open.spotify.com/track/35UoR8RpKtdvI2TUFVeKmU"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 169433,
-      "name": "Zapatos De Bailador",
-      "url": "https://open.spotify.com/track/35UoR8RpKtdvI2TUFVeKmU"
+      "duration_ms": 151458,
+      "name": "El Gato Del Vecindario",
+      "url": "https://open.spotify.com/track/2jo1sQtqrlESeZw95MOrlF"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 151458,
-      "name": "El Gato Del Vecindario",
-      "url": "https://open.spotify.com/track/2jo1sQtqrlESeZw95MOrlF"
+      "duration_ms": 201489,
+      "name": "Tierra Sin Nombre",
+      "url": "https://open.spotify.com/track/4CBYdi1fNc9zx2rqKHPXXl"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 182320,
-      "name": "Como un Tatuaje",
-      "url": "https://open.spotify.com/track/5FiSHv18l1jms2YcV2Avpk"
+      "duration_ms": 182973,
+      "name": "Pinto Raya",
+      "url": "https://open.spotify.com/track/1SaWeuHTTtX3bmLx8dvvGY"
     },
     {
       "added_at": null,
@@ -340,15 +340,15 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 201489,
-      "name": "Tierra Sin Nombre",
-      "url": "https://open.spotify.com/track/4CBYdi1fNc9zx2rqKHPXXl"
+      "duration_ms": 190522,
+      "name": "Jacarandosa",
+      "url": "https://open.spotify.com/track/2PJi77YuMKNlcKtRLFAbIi"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mi Regreso Es Por Ti",
-        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
+        "name": "Festival Grupero Vol. I",
+        "url": "https://open.spotify.com/album/6YoH7XzcfCh5szR3sOC9Jc"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 190840,
-      "name": "Mujer Al Volante",
-      "url": "https://open.spotify.com/track/2jVI0WGvWnMTN90AMMq0Yz"
+      "duration_ms": 145853,
+      "name": "El esdr\u00fajulo",
+      "url": "https://open.spotify.com/track/595aNIZhkh4pjBGPiigqwW"
     },
     {
       "added_at": null,
@@ -388,25 +388,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 182973,
-      "name": "Pinto Raya",
-      "url": "https://open.spotify.com/track/1SaWeuHTTtX3bmLx8dvvGY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Festival Grupero Vol. I",
-        "url": "https://open.spotify.com/album/6YoH7XzcfCh5szR3sOC9Jc"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 145853,
-      "name": "El esdr\u00fajulo",
-      "url": "https://open.spotify.com/track/595aNIZhkh4pjBGPiigqwW"
+      "duration_ms": 182320,
+      "name": "Como un Tatuaje",
+      "url": "https://open.spotify.com/track/5FiSHv18l1jms2YcV2Avpk"
     },
     {
       "added_at": null,
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 187266,
-      "name": "Acariciame",
-      "url": "https://open.spotify.com/track/4D4T9dfFC2D31OvolyhM3R"
+      "duration_ms": 190840,
+      "name": "Mujer Al Volante",
+      "url": "https://open.spotify.com/track/2jVI0WGvWnMTN90AMMq0Yz"
     },
     {
       "added_at": null,
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 156680,
-      "name": "Derecho De Amarla",
-      "url": "https://open.spotify.com/track/6XU8HRtPHsWYwVzgA7sgZ3"
+      "duration_ms": 187266,
+      "name": "Acariciame",
+      "url": "https://open.spotify.com/track/4D4T9dfFC2D31OvolyhM3R"
     },
     {
       "added_at": null,
@@ -532,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 189800,
-      "name": "Con un poquito de amor",
-      "url": "https://open.spotify.com/track/241BmTaBzj3c96kzcZH34O"
+      "duration_ms": 215933,
+      "name": "Manos chicas",
+      "url": "https://open.spotify.com/track/7AIxN1s3O2ZVlHX2PqwyDI"
     },
     {
       "added_at": null,
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 194546,
-      "name": "El Fon",
-      "url": "https://open.spotify.com/track/5JffgIpQLuPXnE0kx8aEy4"
+      "duration_ms": 156680,
+      "name": "Derecho De Amarla",
+      "url": "https://open.spotify.com/track/6XU8HRtPHsWYwVzgA7sgZ3"
     },
     {
       "added_at": null,
@@ -596,15 +580,15 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 215933,
-      "name": "Manos chicas",
-      "url": "https://open.spotify.com/track/7AIxN1s3O2ZVlHX2PqwyDI"
+      "duration_ms": 189800,
+      "name": "Con un poquito de amor",
+      "url": "https://open.spotify.com/track/241BmTaBzj3c96kzcZH34O"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Como un Tatuaje",
-        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
+        "name": "Mi Regreso Es Por Ti",
+        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
       },
       "artists": [
         {
@@ -612,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 174013,
-      "name": "La Morena",
-      "url": "https://open.spotify.com/track/0aobwK2k3r8if0ttw2L4Ie"
+      "duration_ms": 194546,
+      "name": "El Fon",
+      "url": "https://open.spotify.com/track/5JffgIpQLuPXnE0kx8aEy4"
     },
     {
       "added_at": null,
@@ -635,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donde Estas Corazon",
-        "url": "https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM"
+        "name": "Como un Tatuaje",
+        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
       },
       "artists": [
         {
@@ -644,9 +628,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 196291,
-      "name": "Donde Estas Corazon",
-      "url": "https://open.spotify.com/track/0wGucLJrFq4NVPRIXO8JVA"
+      "duration_ms": 174013,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/0aobwK2k3r8if0ttw2L4Ie"
     },
     {
       "added_at": null,
@@ -663,6 +647,22 @@
       "duration_ms": 179826,
       "name": "Clases de baile",
       "url": "https://open.spotify.com/track/5DjtOCqp7tDqT7Qv56Favq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Donde Estas Corazon",
+        "url": "https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 196291,
+      "name": "Donde Estas Corazon",
+      "url": "https://open.spotify.com/track/0wGucLJrFq4NVPRIXO8JVA"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como un Tatuaje",
-        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 166320,
-      "name": "En Que Fall\u00e9",
-      "url": "https://open.spotify.com/track/3b4mdAyMoU7rTqZhFKfukc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Chispa",
         "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 151066,
       "name": "All\u00e1 en el oeste",
       "url": "https://open.spotify.com/track/2M7a8eODNHtBwtmi69yCa8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como un Tatuaje",
+        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 166320,
+      "name": "En Que Fall\u00e9",
+      "url": "https://open.spotify.com/track/3b4mdAyMoU7rTqZhFKfukc"
     },
     {
       "added_at": null,

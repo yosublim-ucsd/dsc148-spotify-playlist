@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: bbno$",
-  "num_followers": 242685,
+  "num_followers": 242768,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2024-07-05 14:20:55",
       "album": {
+        "name": "Eternal Rave",
+        "url": "https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv"
+      },
+      "artists": [
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        },
+        {
+          "name": "Dj Samir",
+          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
+        }
+      ],
+      "duration_ms": 121908,
+      "name": "Eternal Rave",
+      "url": "https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP"
+    },
+    {
+      "added_at": "2024-07-05 14:20:55",
+      "album": {
         "name": "Pepper",
         "url": "https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y"
       },
@@ -1375,26 +1395,6 @@
       "duration_ms": 148965,
       "name": "Pepper",
       "url": "https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq"
-    },
-    {
-      "added_at": "2024-07-05 14:20:55",
-      "album": {
-        "name": "Eternal Rave",
-        "url": "https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv"
-      },
-      "artists": [
-        {
-          "name": "Fyex",
-          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
-        },
-        {
-          "name": "Dj Samir",
-          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
-        }
-      ],
-      "duration_ms": 121908,
-      "name": "Eternal Rave",
-      "url": "https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP"
     },
     {
       "added_at": "2024-07-05 14:20:55",
@@ -1767,6 +1767,26 @@
     {
       "added_at": "2024-07-05 14:20:55",
       "album": {
+        "name": "MASK OFF",
+        "url": "https://open.spotify.com/album/3lCaRV6wRlnqeT1KJUfM2W"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 129616,
+      "name": "MASK OFF",
+      "url": "https://open.spotify.com/track/33Ik4MjhfHmHsWg26HcsC1"
+    },
+    {
+      "added_at": "2024-07-05 14:20:55",
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB"
       },
@@ -1823,26 +1843,6 @@
     {
       "added_at": "2024-07-05 14:20:55",
       "album": {
-        "name": "Rhythm Machine",
-        "url": "https://open.spotify.com/album/0K0ttvuvuaeNPKF9bQ8GmV"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Rhythm Machine",
-      "url": "https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb"
-    },
-    {
-      "added_at": "2024-07-05 14:20:55",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd"
       },
@@ -1867,22 +1867,22 @@
     {
       "added_at": "2024-07-05 14:20:55",
       "album": {
-        "name": "MASK OFF",
-        "url": "https://open.spotify.com/album/3lCaRV6wRlnqeT1KJUfM2W"
+        "name": "Rhythm Machine",
+        "url": "https://open.spotify.com/album/0K0ttvuvuaeNPKF9bQ8GmV"
       },
       "artists": [
         {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
         },
         {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
         }
       ],
-      "duration_ms": 129616,
-      "name": "MASK OFF",
-      "url": "https://open.spotify.com/track/33Ik4MjhfHmHsWg26HcsC1"
+      "duration_ms": 187500,
+      "name": "Rhythm Machine",
+      "url": "https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb"
     },
     {
       "added_at": "2024-07-05 14:20:55",
@@ -2043,6 +2043,22 @@
     {
       "added_at": "2024-07-05 14:20:55",
       "album": {
+        "name": "GOLDEN GOOSE",
+        "url": "https://open.spotify.com/album/3kGph3xbohiCNsRQs2cjpL"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "duration_ms": 142163,
+      "name": "GOLDEN GOOSE",
+      "url": "https://open.spotify.com/track/1Twewmebxt8FyDlmpj0zGt"
+    },
+    {
+      "added_at": "2024-07-05 14:20:55",
+      "album": {
         "name": "The Weekend / Control the Media",
         "url": "https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI"
       },
@@ -2163,26 +2179,6 @@
     {
       "added_at": "2024-07-05 14:20:55",
       "album": {
-        "name": "I Found You",
-        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 176548,
-      "name": "I Found You",
-      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
-    },
-    {
-      "added_at": "2024-07-05 14:20:55",
-      "album": {
         "name": "Counting (Sammy Virji Remix)",
         "url": "https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n"
       },
@@ -2199,6 +2195,26 @@
       "duration_ms": 214925,
       "name": "Counting - Sammy Virji Remix",
       "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
+    },
+    {
+      "added_at": "2024-07-05 14:20:55",
+      "album": {
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 176548,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
     },
     {
       "added_at": "2024-07-05 14:20:55",
@@ -2331,42 +2347,6 @@
     {
       "added_at": "2024-07-05 14:20:55",
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 141897,
-      "name": "Banga",
-      "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
-    },
-    {
-      "added_at": "2024-07-05 14:20:55",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 262827,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
-    },
-    {
-      "added_at": "2024-07-05 14:20:55",
-      "album": {
         "name": "Bass Face",
         "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
       },
@@ -2387,6 +2367,26 @@
     {
       "added_at": "2024-07-05 14:20:55",
       "album": {
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 141897,
+      "name": "Banga",
+      "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
+    },
+    {
+      "added_at": "2024-07-05 14:20:55",
+      "album": {
         "name": "Signal",
         "url": "https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj"
       },
@@ -2403,6 +2403,22 @@
       "duration_ms": 194823,
       "name": "Signal",
       "url": "https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq"
+    },
+    {
+      "added_at": "2024-07-05 14:20:55",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 262827,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
     },
     {
       "added_at": "2024-07-05 14:20:55",
@@ -2459,22 +2475,18 @@
     {
       "added_at": "2024-07-05 14:20:55",
       "album": {
-        "name": "Deadbeats & Brownies - Drum & Bass Compilation",
-        "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
+        "name": "DELTA",
+        "url": "https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH"
       },
       "artists": [
         {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Back Bus",
-      "url": "https://open.spotify.com/track/21ceB6sHPjBtj8SCU9C1zi"
+      "duration_ms": 172067,
+      "name": "DELTA",
+      "url": "https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U"
     },
     {
       "added_at": "2024-07-05 14:20:55",
@@ -2503,58 +2515,42 @@
     {
       "added_at": "2024-07-05 14:20:55",
       "album": {
-        "name": "DELTA",
-        "url": "https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH"
+        "name": "Motor",
+        "url": "https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4"
       },
       "artists": [
         {
-          "name": "DJ FKU",
-          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
         }
       ],
-      "duration_ms": 172067,
-      "name": "DELTA",
-      "url": "https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U"
+      "duration_ms": 182769,
+      "name": "Motor",
+      "url": "https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH"
     },
     {
       "added_at": "2024-07-05 14:20:55",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/3EEAqP0bIuSmsXEFmxzjFj"
+        "name": "Deadbeats & Brownies - Drum & Bass Compilation",
+        "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
       },
       "artists": [
         {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
-        }
-      ],
-      "duration_ms": 177619,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/12zQfnvVvxduyDUfxlw65T"
-    },
-    {
-      "added_at": "2024-07-05 14:20:55",
-      "album": {
-        "name": "Push It",
-        "url": "https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
         },
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
         }
       ],
-      "duration_ms": 248571,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"
+      "duration_ms": 177000,
+      "name": "Back Bus",
+      "url": "https://open.spotify.com/track/21ceB6sHPjBtj8SCU9C1zi"
     }
   ],
   "unique_name": "Bangers",

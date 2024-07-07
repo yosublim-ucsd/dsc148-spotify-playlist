@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 38874,
+  "num_followers": 38925,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/23alt0JS07GoXtzXX0cx8H"
-      },
-      "artists": [
-        {
-          "name": "Wolftyla",
-          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 191141,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/67HH5Ldb4iflU0OTYpTPbg"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
         "name": "Think",
         "url": "https://open.spotify.com/album/10YUSQwsDYah4Bi7E33jUA"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 231222,
       "name": "Think (feat. Jay Park)",
       "url": "https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/23alt0JS07GoXtzXX0cx8H"
+      },
+      "artists": [
+        {
+          "name": "Wolftyla",
+          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191141,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/67HH5Ldb4iflU0OTYpTPbg"
     },
     {
       "added_at": "2024-07-02 08:45:37",
@@ -2175,6 +2175,22 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
+        "name": "Everything You Wanted",
+        "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 224951,
+      "name": "2nd Thots",
+      "url": "https://open.spotify.com/track/4vYr4W0t855qPXGPTFp5ky"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/5nDgTF3gUrgk9UZmUHonhp"
       },
@@ -2343,26 +2359,6 @@
       "duration_ms": 223026,
       "name": "All The Way Up",
       "url": "https://open.spotify.com/track/35MgPN6aHRqkISsSGwTSej"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/4k4OS1SotBwPAD9LeCPgaH"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Okasian",
-          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
-        }
-      ],
-      "duration_ms": 244153,
-      "name": "\ubed4\ud558\uc796\uc544 You Know (feat. Okasian)",
-      "url": "https://open.spotify.com/track/0YJjugu2dbpcxY3ChD6AkK"
     }
   ],
   "unique_name": "This Is Jay Park",

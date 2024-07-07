@@ -1,6 +1,6 @@
 {
   "description": "geosy op de cover van de Popronde 2024. Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten. ",
-  "num_followers": 1674,
+  "num_followers": 1675,
   "original_name": "Popronde 2024",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,38 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "Verrassing",
+        "url": "https://open.spotify.com/album/6qfMiCG2E4fWvYt1tWFSFS"
+      },
+      "artists": [
+        {
+          "name": "Aarde aan Daan",
+          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
+        }
+      ],
+      "duration_ms": 192010,
+      "name": "Verrassing",
+      "url": "https://open.spotify.com/track/0vpLvQxFOjyvy6tAaeTKfR"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "one heart",
+        "url": "https://open.spotify.com/album/7KOy9BR0vPciTtbiWvx1M9"
+      },
+      "artists": [
+        {
+          "name": "R\u00caVERIE",
+          "url": "https://open.spotify.com/artist/1U5XdE0McaAPAu1zA2AC1T"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "one heart",
+      "url": "https://open.spotify.com/track/6Tda6aFGbjaTUNk0MQ5mNk"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Sleep Tonight",
         "url": "https://open.spotify.com/album/4JnKXBHT1uPw2MzlfoxMbg"
       },
@@ -275,22 +307,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Verrassing",
-        "url": "https://open.spotify.com/album/6qfMiCG2E4fWvYt1tWFSFS"
-      },
-      "artists": [
-        {
-          "name": "Aarde aan Daan",
-          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
-        }
-      ],
-      "duration_ms": 192010,
-      "name": "Verrassing",
-      "url": "https://open.spotify.com/track/0vpLvQxFOjyvy6tAaeTKfR"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Payback",
         "url": "https://open.spotify.com/album/7k2jLfPPv0qYgpcg5B0mu9"
       },
@@ -323,22 +339,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "one heart",
-        "url": "https://open.spotify.com/album/7KOy9BR0vPciTtbiWvx1M9"
-      },
-      "artists": [
-        {
-          "name": "R\u00caVERIE",
-          "url": "https://open.spotify.com/artist/1U5XdE0McaAPAu1zA2AC1T"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "one heart",
-      "url": "https://open.spotify.com/track/6Tda6aFGbjaTUNk0MQ5mNk"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Chica Chica",
         "url": "https://open.spotify.com/album/2pQmS4a76AppFbEWSpW5pS"
       },
@@ -351,6 +351,26 @@
       "duration_ms": 234453,
       "name": "Chica Chica",
       "url": "https://open.spotify.com/track/6vn6NaH3HWO9rLsJ8FwrJP"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "That Day (Live At Wisseloord Studios)",
+        "url": "https://open.spotify.com/album/5vhyyMG04e9SON9vlBJMKa"
+      },
+      "artists": [
+        {
+          "name": "Jessy Yasmeen",
+          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
+        },
+        {
+          "name": "3SOME",
+          "url": "https://open.spotify.com/artist/5U0pkfGtvIQC43ZirKRqHh"
+        }
+      ],
+      "duration_ms": 209558,
+      "name": "That Day - Live At Wisseloord Studios",
+      "url": "https://open.spotify.com/track/6pX7qn0BCudhLdKQprzytg"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -387,26 +407,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "That Day (Live At Wisseloord Studios)",
-        "url": "https://open.spotify.com/album/5vhyyMG04e9SON9vlBJMKa"
-      },
-      "artists": [
-        {
-          "name": "Jessy Yasmeen",
-          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
-        },
-        {
-          "name": "3SOME",
-          "url": "https://open.spotify.com/artist/5U0pkfGtvIQC43ZirKRqHh"
-        }
-      ],
-      "duration_ms": 209558,
-      "name": "That Day - Live At Wisseloord Studios",
-      "url": "https://open.spotify.com/track/6pX7qn0BCudhLdKQprzytg"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/5PUZVh3MqeYQHFeugwsmr7"
       },
@@ -419,6 +419,38 @@
       "duration_ms": 207440,
       "name": "In Our Blood",
       "url": "https://open.spotify.com/track/4EXFYjZSHhmQVSkP3OSGBT"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Zoete Verleiding",
+        "url": "https://open.spotify.com/album/1XbhxmewR0fZfncqBARZTD"
+      },
+      "artists": [
+        {
+          "name": "Jesse Hydro",
+          "url": "https://open.spotify.com/artist/2r9Lzj8IpPYpSqu47KYngJ"
+        }
+      ],
+      "duration_ms": 159100,
+      "name": "Zoete Verleiding",
+      "url": "https://open.spotify.com/track/7bYmSmshiAPYhrYrZMfywU"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "FASE",
+        "url": "https://open.spotify.com/album/2Lh1lQDHQNAlRc8tkUIAgB"
+      },
+      "artists": [
+        {
+          "name": "ZWARTEWATER",
+          "url": "https://open.spotify.com/artist/0qjNXGpT9azm5lmVw6rYfA"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "FASE",
+      "url": "https://open.spotify.com/track/7dMFcCdzfyj1mC7zX3bEZd"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -451,38 +483,6 @@
       "duration_ms": 170306,
       "name": "Mama Dankjewel",
       "url": "https://open.spotify.com/track/59YKXDKbiCKeFE34dP2AFK"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "FASE",
-        "url": "https://open.spotify.com/album/2Lh1lQDHQNAlRc8tkUIAgB"
-      },
-      "artists": [
-        {
-          "name": "ZWARTEWATER",
-          "url": "https://open.spotify.com/artist/0qjNXGpT9azm5lmVw6rYfA"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "FASE",
-      "url": "https://open.spotify.com/track/7dMFcCdzfyj1mC7zX3bEZd"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Zoete Verleiding",
-        "url": "https://open.spotify.com/album/1XbhxmewR0fZfncqBARZTD"
-      },
-      "artists": [
-        {
-          "name": "Jesse Hydro",
-          "url": "https://open.spotify.com/artist/2r9Lzj8IpPYpSqu47KYngJ"
-        }
-      ],
-      "duration_ms": 159100,
-      "name": "Zoete Verleiding",
-      "url": "https://open.spotify.com/track/7bYmSmshiAPYhrYrZMfywU"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Finding Myself Alone",
-        "url": "https://open.spotify.com/album/4udmNbEt3PZUAXUUmzd2q1"
-      },
-      "artists": [
-        {
-          "name": "Henk Johannes",
-          "url": "https://open.spotify.com/artist/3CZHiwnbmEiNa5WqjkPUwG"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Finding Myself Alone",
-      "url": "https://open.spotify.com/track/076o9FPC0h6CjzHpqQpJXy"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "The Hanging Clown",
         "url": "https://open.spotify.com/album/0N5ymTiuUtpvnkHxBD92H4"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 177023,
       "name": "The Hanging Clown",
       "url": "https://open.spotify.com/track/4hdOCUzRA6xT8KlfdZPLlQ"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Finding Myself Alone",
+        "url": "https://open.spotify.com/album/4udmNbEt3PZUAXUUmzd2q1"
+      },
+      "artists": [
+        {
+          "name": "Henk Johannes",
+          "url": "https://open.spotify.com/artist/3CZHiwnbmEiNa5WqjkPUwG"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Finding Myself Alone",
+      "url": "https://open.spotify.com/track/076o9FPC0h6CjzHpqQpJXy"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "High Wire",
+        "url": "https://open.spotify.com/album/0KFppbLNzRuWtVOTIXShRh"
+      },
+      "artists": [
+        {
+          "name": "Sol Power",
+          "url": "https://open.spotify.com/artist/09YruwmKMkdwBgREy572ao"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "High Wire",
+      "url": "https://open.spotify.com/track/3dS2XIA1WQAaPHVTYYKiYQ"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Liever Lui Dan Moe",
         "url": "https://open.spotify.com/album/7CM8TADIvf0PIttpNdeccU"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "High Wire",
-        "url": "https://open.spotify.com/album/0KFppbLNzRuWtVOTIXShRh"
-      },
-      "artists": [
-        {
-          "name": "Sol Power",
-          "url": "https://open.spotify.com/artist/09YruwmKMkdwBgREy572ao"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "High Wire",
-      "url": "https://open.spotify.com/track/3dS2XIA1WQAaPHVTYYKiYQ"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Everything I Need Is Here",
         "url": "https://open.spotify.com/album/7twIkHqsj1l15RLves3bls"
       },
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Into the Blue",
-        "url": "https://open.spotify.com/album/4LOWNnDcE1sQYwH5OF2IYs"
-      },
-      "artists": [
-        {
-          "name": "Yan L\u00e2le",
-          "url": "https://open.spotify.com/artist/6xm0mtCIhOL5DaYnit5tVg"
-        }
-      ],
-      "duration_ms": 301764,
-      "name": "Into the Blue",
-      "url": "https://open.spotify.com/track/65HNcEd8xrfLA893lAXh5s"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Waiting for You",
         "url": "https://open.spotify.com/album/4qWy88xzbtgneQ3USXZWLh"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 236080,
       "name": "Waiting for You - Edit",
       "url": "https://open.spotify.com/track/26qMH9vOtdcXcNywg1tpJ7"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Into the Blue",
+        "url": "https://open.spotify.com/album/4LOWNnDcE1sQYwH5OF2IYs"
+      },
+      "artists": [
+        {
+          "name": "Yan L\u00e2le",
+          "url": "https://open.spotify.com/artist/6xm0mtCIhOL5DaYnit5tVg"
+        }
+      ],
+      "duration_ms": 301764,
+      "name": "Into the Blue",
+      "url": "https://open.spotify.com/track/65HNcEd8xrfLA893lAXh5s"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -987,18 +987,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/1xEMS9J4vMOvzUtL4zg20x"
+        "name": "Sirocco",
+        "url": "https://open.spotify.com/album/66n3hUwcOBU8vOzxkqu3J0"
       },
       "artists": [
         {
-          "name": "ISA\u00cf",
-          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
+          "name": "Sirocco",
+          "url": "https://open.spotify.com/artist/2bsNvdyVIKezcGI4QxXdDd"
         }
       ],
-      "duration_ms": 118500,
-      "name": "Hot Mess",
-      "url": "https://open.spotify.com/track/4iOuFrWCo1Nr3LyXLWgcGz"
+      "duration_ms": 262039,
+      "name": "Vientu",
+      "url": "https://open.spotify.com/track/3JBoHXPeA0muUhjDg34K3Z"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/1xEMS9J4vMOvzUtL4zg20x"
+      },
+      "artists": [
+        {
+          "name": "ISA\u00cf",
+          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
+        }
+      ],
+      "duration_ms": 118500,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/4iOuFrWCo1Nr3LyXLWgcGz"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/2PmJb1X6naVRybkZADPjyj"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 246000,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/0oadjfzZvkbgP7ob0T9ul1"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Sirocco",
-        "url": "https://open.spotify.com/album/66n3hUwcOBU8vOzxkqu3J0"
-      },
-      "artists": [
-        {
-          "name": "Sirocco",
-          "url": "https://open.spotify.com/artist/2bsNvdyVIKezcGI4QxXdDd"
-        }
-      ],
-      "duration_ms": 262039,
-      "name": "Vientu",
-      "url": "https://open.spotify.com/track/3JBoHXPeA0muUhjDg34K3Z"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Order Of Operations",
-        "url": "https://open.spotify.com/album/6drsg5hD7OV6pyRM9KOcEP"
+        "name": "Sleeptalk",
+        "url": "https://open.spotify.com/album/35KwhKnntqjExXWEOLiFZs"
       },
       "artists": [
         {
-          "name": "Scherry",
-          "url": "https://open.spotify.com/artist/4azakHkTTPfeTYjqmtL06y"
+          "name": "Dreamer",
+          "url": "https://open.spotify.com/artist/2ZtELmYTWzfnlVKkT0kJUk"
         }
       ],
-      "duration_ms": 431600,
-      "name": "Order Of Operations",
-      "url": "https://open.spotify.com/track/57T2io4N4UUqlef1TmSuaA"
+      "duration_ms": 209109,
+      "name": "Sleeptalk",
+      "url": "https://open.spotify.com/track/1T70LLYXcqRucK2nLO2dLA"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1195,50 +1195,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "What's The Rush",
-        "url": "https://open.spotify.com/album/4puAk9A73ngB1gvjubOegz"
+        "name": "Order Of Operations",
+        "url": "https://open.spotify.com/album/6drsg5hD7OV6pyRM9KOcEP"
       },
       "artists": [
         {
-          "name": "MEERKAT",
-          "url": "https://open.spotify.com/artist/7MmsNCnjrEMKo9OhziCxZb"
+          "name": "Scherry",
+          "url": "https://open.spotify.com/artist/4azakHkTTPfeTYjqmtL06y"
         }
       ],
-      "duration_ms": 337733,
-      "name": "Jerome",
-      "url": "https://open.spotify.com/track/0D4Y3VPdzuXkslZdiSVLKp"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Sleeptalk",
-        "url": "https://open.spotify.com/album/35KwhKnntqjExXWEOLiFZs"
-      },
-      "artists": [
-        {
-          "name": "Dreamer",
-          "url": "https://open.spotify.com/artist/2ZtELmYTWzfnlVKkT0kJUk"
-        }
-      ],
-      "duration_ms": 209109,
-      "name": "Sleeptalk",
-      "url": "https://open.spotify.com/track/1T70LLYXcqRucK2nLO2dLA"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Whirligig",
-        "url": "https://open.spotify.com/album/3hE04LDpNwaG2u29p15JbK"
-      },
-      "artists": [
-        {
-          "name": "Mo Bedick",
-          "url": "https://open.spotify.com/artist/5I603otxzNxlCw0YbgcqYE"
-        }
-      ],
-      "duration_ms": 227354,
-      "name": "Cemetery Caretaker",
-      "url": "https://open.spotify.com/track/5ddkfCxbjYNQptFpq7v5JV"
+      "duration_ms": 431600,
+      "name": "Order Of Operations",
+      "url": "https://open.spotify.com/track/57T2io4N4UUqlef1TmSuaA"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1255,6 +1223,38 @@
       "duration_ms": 298999,
       "name": "Danse lunaire",
       "url": "https://open.spotify.com/track/6xaD7BY0O0w4nF6KLnAerp"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "What's The Rush",
+        "url": "https://open.spotify.com/album/4puAk9A73ngB1gvjubOegz"
+      },
+      "artists": [
+        {
+          "name": "MEERKAT",
+          "url": "https://open.spotify.com/artist/7MmsNCnjrEMKo9OhziCxZb"
+        }
+      ],
+      "duration_ms": 337733,
+      "name": "Jerome",
+      "url": "https://open.spotify.com/track/0D4Y3VPdzuXkslZdiSVLKp"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Whirligig",
+        "url": "https://open.spotify.com/album/3hE04LDpNwaG2u29p15JbK"
+      },
+      "artists": [
+        {
+          "name": "Mo Bedick",
+          "url": "https://open.spotify.com/artist/5I603otxzNxlCw0YbgcqYE"
+        }
+      ],
+      "duration_ms": 227354,
+      "name": "Cemetery Caretaker",
+      "url": "https://open.spotify.com/track/5ddkfCxbjYNQptFpq7v5JV"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "A Place Called Home (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6BMXEHWe34KWrKe857K2lb"
-      },
-      "artists": [
-        {
-          "name": "Eveline Ypma",
-          "url": "https://open.spotify.com/artist/3NYVdezO3RWbm4512vhoPH"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Home Is Not a Place",
-      "url": "https://open.spotify.com/track/4pmBo4y4Ri0ZxAxers3Ixa"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "In Een Droom",
         "url": "https://open.spotify.com/album/7qSBNNUBO79Z7zww0VaMns"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 207520,
       "name": "In Een Droom",
       "url": "https://open.spotify.com/track/4dgXbDNOn5c7fNlYI7CHG2"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "A Place Called Home (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6BMXEHWe34KWrKe857K2lb"
+      },
+      "artists": [
+        {
+          "name": "Eveline Ypma",
+          "url": "https://open.spotify.com/artist/3NYVdezO3RWbm4512vhoPH"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Home Is Not a Place",
+      "url": "https://open.spotify.com/track/4pmBo4y4Ri0ZxAxers3Ixa"
     },
     {
       "added_at": "2024-07-01 08:44:42",

@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Jerry Rivera",
-  "num_followers": 1916059,
+  "num_followers": 1916106,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+        "name": "Esta Vida (Salsa Version)",
+        "url": "https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/5GY60Dz06uzkjHJmBmktDZ"
         }
       ],
-      "duration_ms": 209723,
-      "name": "LA RONDA",
-      "url": "https://open.spotify.com/track/6LsXU5cUoOqC2YnUCu7b5E"
+      "duration_ms": 223439,
+      "name": "Esta Vida (Salsa Version)",
+      "url": "https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1083,22 +1087,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Esta Vida (Salsa Version)",
-        "url": "https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY"
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/5GY60Dz06uzkjHJmBmktDZ"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 223439,
-      "name": "Esta Vida (Salsa Version)",
-      "url": "https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv"
+      "duration_ms": 209723,
+      "name": "LA RONDA",
+      "url": "https://open.spotify.com/track/6LsXU5cUoOqC2YnUCu7b5E"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Y Si Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/3HWmFsK6dOTkwbrvanYKMp"
-      },
-      "artists": [
-        {
-          "name": "Ronald Borjas",
-          "url": "https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2"
-        },
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Y Si Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/5Uu8GM9LOeCxdxcvEqiMIY"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Pas\u00e1ndola bien",
         "url": "https://open.spotify.com/album/1tgtGOkTnvu2RtQkQpiF0j"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 304946,
       "name": "Porque Te Amo",
       "url": "https://open.spotify.com/track/41dBR9Gy1WZSiBkLBWbl2l"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Y Si Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/3HWmFsK6dOTkwbrvanYKMp"
+      },
+      "artists": [
+        {
+          "name": "Ronald Borjas",
+          "url": "https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2"
+        },
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Y Si Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/5Uu8GM9LOeCxdxcvEqiMIY"
     },
     {
       "added_at": "2024-05-31 04:00:00",

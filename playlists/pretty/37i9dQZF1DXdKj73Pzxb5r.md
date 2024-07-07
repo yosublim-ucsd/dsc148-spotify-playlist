@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Amis
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,651 likes - 93 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,658 likes - 93 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [bila](https://open.spotify.com/track/6gHh6SMnCRxLwpDDD7zTqW) | [Amis](https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V) | [Filosofi Males](https://open.spotify.com/album/3RiYb3auIbLVAo8E38mLq8) | 3:32 |
 | 2 | [Good Times](https://open.spotify.com/track/12upHAA95HQP1iRRqOOGZ4) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Good Times](https://open.spotify.com/album/4mTkEAZDd4xGZlFEfmROPz) | 3:13 |
-| 3 | [This Day & Age \(feat\. Natasha Udu\) \(RIMALDI Reanimated\)](https://open.spotify.com/track/3KDSxEVrAkP4RfJaSWWctd) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [Natasha Udu](https://open.spotify.com/artist/5788KAWYDqWlejC63W92S7) | [Hope + Love: reanimated edition](https://open.spotify.com/album/3Z5eDoTbEzeaEKWkwoQeUh) | 3:14 |
+| 3 | [This Day & Age \(feat\. Natasha Udu\) \(RIMALDI Reanimated\)](https://open.spotify.com/track/3KDSxEVrAkP4RfJaSWWctd) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [Natasha Udu](https://open.spotify.com/artist/5788KAWYDqWlejC63W92S7), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Hope + Love: reanimated edition](https://open.spotify.com/album/3Z5eDoTbEzeaEKWkwoQeUh) | 3:14 |
 | 4 | [Amerika](https://open.spotify.com/track/2SKdoe7rNB1q4uBLfmhHsZ) | [Bank](https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF) | [Amerika](https://open.spotify.com/album/7tO1FeNs2m4qSf2Awugv1u) | 4:09 |
 | 5 | [Jangan Terlalu](https://open.spotify.com/track/0Zdo9YUOun1DscWe53UVbo) | [Mr\. Sonjaya](https://open.spotify.com/artist/6iUFomcMsqFIyq87u1UEwl) | [Jangan Terlalu](https://open.spotify.com/album/5YaLTKQWdGIpmxnehrTdMa) | 3:56 |
 | 6 | [Contemplation, Pt\. 1](https://open.spotify.com/track/4Vo45D4lMsLv60JoSWeMoY) | [Mad Madmen](https://open.spotify.com/artist/6J53OmVP9ZU5yp72SaeG0b), [Afirniar Mutsrin](https://open.spotify.com/artist/39bo1HVsRhevqRRCVxkMDB) | [In With The Out, Old With The New, Vol\. 2](https://open.spotify.com/album/0NXZnpIolPwpUlAY9wc2EX) | 4:44 |

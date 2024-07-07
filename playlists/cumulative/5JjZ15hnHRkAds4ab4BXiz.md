@@ -4,7 +4,7 @@
 
 > 
 
-386 songs - 1 day 0 hr 43 min
+387 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Spring and a Storm](https://open.spotify.com/track/7i6pxHwCREvogBRpGyMzFX) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 4:47 | 2024-05-22 |  |
 | [Stan](https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 6:44 | 2023-11-14 |  |
 | [Starry Eyed](https://open.spotify.com/track/1vWGa8yC21ZELs9dAhiC2Q) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 2:56 | 2023-12-27 |  |
+| [Starstruck](https://open.spotify.com/track/3EOpdjNYbystkxrXPONn2i) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [925](https://open.spotify.com/album/1x4UFeq7sIZohSXgitqWXp) | 3:28 | 2024-07-07 |  |
 | [Still Ill \- 2011 Remaster](https://open.spotify.com/track/0uLI1jac8ZJSSRG4QJDo3J) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 3:21 | 2024-04-09 |  |
 | [Stop Me If You Think You've Heard This One Before \- 2011 Remaster](https://open.spotify.com/track/2JN57QFclho4vExKPq6OYg) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 3:35 | 2024-04-22 |  |
 | [Stronger](https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 5:11 | 2023-11-14 |  |

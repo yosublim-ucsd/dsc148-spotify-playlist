@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,731 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,780 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 |
 | 50 | [A Internet É Toxica](https://open.spotify.com/track/6Gn8SHd3RIWjOermcidCJk) | [Dj Lc](https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY), [DJ JOAO DA INESTAN](https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p) | [A Internet É Toxica](https://open.spotify.com/album/3PZQ1JYIh7M5QuyoK6rLYM) | 2:41 |
 
-Snapshot ID: `LhtamAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LhyucAAAAAAAAAAAAAAAAAAAAAAAAGVu`

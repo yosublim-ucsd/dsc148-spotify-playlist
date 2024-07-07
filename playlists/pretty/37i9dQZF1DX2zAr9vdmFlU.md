@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,457 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,504 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 33 | [Monedita](https://open.spotify.com/track/1dq5ewYIsKa4CgiTmE43by) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Treinta Días](https://open.spotify.com/album/58Y71EOtzHbVnUfCqXC9NB) | 3:09 |
 | 34 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 |
 | 35 | [Para Llevar](https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT), [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0) | [Para Llevar](https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW) | 2:52 |
-| 36 | [Morena mía](https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Morena mía](https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK) | 3:08 |
-| 37 | [Amor Frutero](https://open.spotify.com/track/5TVDnNLRq8ABVgfVqVqtsQ) | [Camila Luna](https://open.spotify.com/artist/1aMXU2xuC6FdOyD7SFdL3X) | [Flora y Fauna](https://open.spotify.com/album/0K2e7hGdBB7FKM0NtpkYaK) | 2:53 |
+| 36 | [Amor Frutero](https://open.spotify.com/track/5TVDnNLRq8ABVgfVqVqtsQ) | [Camila Luna](https://open.spotify.com/artist/1aMXU2xuC6FdOyD7SFdL3X) | [Flora y Fauna](https://open.spotify.com/album/0K2e7hGdBB7FKM0NtpkYaK) | 2:53 |
+| 37 | [Morena mía](https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Morena mía](https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK) | 3:08 |
 | 38 | [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 |
 | 39 | [Tiene Sabor](https://open.spotify.com/track/56zLMDP0ZacyFkQwxHz8yr) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Valentín Puentes](https://open.spotify.com/artist/0ssydpx5rK6vZlXkIeHnw5) | [Tiene Sabor](https://open.spotify.com/album/5B5XX53acuLFw8JHXK1UU2) | 4:00 |
 | 40 | [sweet nothings](https://open.spotify.com/track/3IrZ4zPw4M4jgD0GHsetH1) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [sweet nothings](https://open.spotify.com/album/2g4XXX6nYFk8YASLT0ssYx) | 2:18 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 94 | [Estrella Matutina](https://open.spotify.com/track/7M9GHPT1iP0Wxc1et2rNf1) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc) | [Estrella Matutina](https://open.spotify.com/album/7inj0XsCPS3tH9sxf8oRNt) | 3:20 |
 | 95 | [Nobreza](https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ) | [LADAMA](https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9) | [Nobreza](https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq) | 3:21 |
 | 96 | [Canta Mundo](https://open.spotify.com/track/4KKu46t4zWtQPcM7NHzCvr) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Orquesta Sinfónica de Caldas](https://open.spotify.com/artist/387J8CNFZB9AJ0feSx7PB0) | [Canta Mundo](https://open.spotify.com/album/24HC9D5W71Twk747rBx4Pl) | 3:51 |
-| 97 | [Nain](https://open.spotify.com/track/3cc2P5CaHJdjIb9hYNZdyK) | [Brownout](https://open.spotify.com/artist/75ITBSKqlC5hlS4PZ2XP1S) | [Nain](https://open.spotify.com/album/51aBrTUEa7j6UyEf4bkCxm) | 4:07 |
-| 98 | [Lady Mandona](https://open.spotify.com/track/52CoeeSJDTxzZGMKaCzqz0) | [Literal](https://open.spotify.com/artist/0Ec1MqHP5MENR7rK3DtO3G) | [Lady Mandona](https://open.spotify.com/album/2C7VLNRVVX3XXtKeyiFqsd) | 2:35 |
+| 97 | [Lady Mandona](https://open.spotify.com/track/52CoeeSJDTxzZGMKaCzqz0) | [Literal](https://open.spotify.com/artist/0Ec1MqHP5MENR7rK3DtO3G) | [Lady Mandona](https://open.spotify.com/album/2C7VLNRVVX3XXtKeyiFqsd) | 2:35 |
+| 98 | [Nain](https://open.spotify.com/track/3cc2P5CaHJdjIb9hYNZdyK) | [Brownout](https://open.spotify.com/artist/75ITBSKqlC5hlS4PZ2XP1S) | [Nain](https://open.spotify.com/album/51aBrTUEa7j6UyEf4bkCxm) | 4:07 |
 | 99 | [Picadillo](https://open.spotify.com/track/3F69z89dC8NVDaWzcMwzAE) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Delicate & Jumpy](https://open.spotify.com/album/6Us6eV06MKN8d41bMz040J) | 5:34 |
 | 100 | [Miedo](https://open.spotify.com/track/0a5bGlvKZbcWWx3EE4lLOP) | [Hunters of the Alps](https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG) | [Today Mañana](https://open.spotify.com/album/0jiYxu7xEHUUYXkGNtrO9M) | 3:54 |
 

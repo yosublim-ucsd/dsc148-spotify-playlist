@@ -3815,6 +3815,32 @@
     },
     {
       "album": {
+        "name": "Mad Ting",
+        "url": "https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194685,
+      "name": "Mad Ting",
+      "url": "https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9"
+    },
+    {
+      "album": {
         "name": "Madara",
         "url": "https://open.spotify.com/album/17JIU9E1un5GmXxEGBjjEl"
       },
@@ -6970,7 +6996,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 202666,
       "name": "The Machines",
       "url": "https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ"

@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Dillaz",
-  "num_followers": 64486,
+  "num_followers": 64524,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -1199,22 +1199,18 @@
     {
       "added_at": "2024-07-05 14:22:48",
       "album": {
-        "name": "Chauffeur",
-        "url": "https://open.spotify.com/album/4LAYeC7gWp1jFiS1q101OK"
+        "name": "Malandro",
+        "url": "https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe"
       },
       "artists": [
         {
-          "name": "Regula",
-          "url": "https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP"
-        },
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
         }
       ],
-      "duration_ms": 266279,
-      "name": "Chauffeur",
-      "url": "https://open.spotify.com/track/3ARuPTEPMpbr7mz1aHa0a6"
+      "duration_ms": 210675,
+      "name": "Malandro",
+      "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
     },
     {
       "added_at": "2024-07-05 14:22:48",
@@ -1239,18 +1235,22 @@
     {
       "added_at": "2024-07-05 14:22:48",
       "album": {
-        "name": "Malandro",
-        "url": "https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe"
+        "name": "Chauffeur",
+        "url": "https://open.spotify.com/album/4LAYeC7gWp1jFiS1q101OK"
       },
       "artists": [
         {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+          "name": "Regula",
+          "url": "https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
         }
       ],
-      "duration_ms": 210675,
-      "name": "Malandro",
-      "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
+      "duration_ms": 266279,
+      "name": "Chauffeur",
+      "url": "https://open.spotify.com/track/3ARuPTEPMpbr7mz1aHa0a6"
     },
     {
       "added_at": "2024-07-05 14:22:48",

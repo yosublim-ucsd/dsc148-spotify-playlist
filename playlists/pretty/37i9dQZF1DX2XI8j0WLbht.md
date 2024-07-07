@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Manu Chao en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,884 likes - 101 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,896 likes - 101 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 52 | [Contra La Corriente](https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Contra La Corriente](https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c) | 4:23 |
 | 53 | [El Pájaro Cú](https://open.spotify.com/track/0d7B2tUlBpaTfm4UufYpPD) | [Sonex](https://open.spotify.com/artist/2xA9FhJKzvCKxxGvwnVyMK) | [Madre Natura](https://open.spotify.com/album/7qqzSgpINycbcdZmRnzl8G) | 3:47 |
 | 54 | [Tristeza \- Spotify Singles](https://open.spotify.com/track/4uZ5XgrjuomsVXOABMRaVW) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:45 |
-| 55 | [Sierra Madre \(Remix\)](https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Danger](https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH), [Noe Gonzalez Molina](https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg) | [Sierra Madre \(Remix\)](https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns) | 5:05 |
+| 55 | [Sierra Madre \(Remix\)](https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Danger AK](https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH), [Noe Gonzalez Molina](https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg) | [Sierra Madre \(Remix\)](https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns) | 5:05 |
 | 56 | [La Morena](https://open.spotify.com/track/3ZuPHGxjhRcKcu0Sc4tWxl) | [Los Vega](https://open.spotify.com/artist/2rtoQWzN7JEpiVUmLvyNVe) | [En Tonos Muy Diferentes](https://open.spotify.com/album/4npgimBZvFAwhWtuY7joyw) | 5:37 |
 | 57 | [Zapata Se Queda](https://open.spotify.com/track/3JzRq89QAf4aLxpJWoDr8q) | [La Colmena](https://open.spotify.com/artist/16sUEYkZHZMNFXt7hUhh0x) | [Zapata Se Queda](https://open.spotify.com/album/4qH7TQH3z003P4yjM9P79I) | 4:09 |
 | 58 | [Te Mereces Un Amor](https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te Mereces Un Amor](https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl) | 3:46 |

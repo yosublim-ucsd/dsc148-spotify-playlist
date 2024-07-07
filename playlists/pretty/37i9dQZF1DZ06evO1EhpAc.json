@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 8324,
+  "num_followers": 8326,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAAAkaL2UgWv8gK3WBLwSY/xg",
+  "snapshot_id": "Zoc3gAAAAAB65PUOIaQMdl251iWOPkX+",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yaeji",
         "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 209230,
       "name": "Full of It",
       "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "O grime e o drill feitos no Brasil, naquele pique: tracksuit, camisa de time e flow emba\u00e7ado. Foto: Clara Lima",
-  "num_followers": 60824,
+  "num_followers": 60841,
   "original_name": "Rima Avan\u00e7ada",
   "owner": {
     "name": "Spotify",
@@ -456,16 +456,12 @@
       },
       "artists": [
         {
-          "name": "AFROZIL",
-          "url": "https://open.spotify.com/artist/0QbVl4IGQkHsmDZIDWXEEb"
-        },
-        {
-          "name": "Renato Parmi",
-          "url": "https://open.spotify.com/artist/7oifscw1WkXLeQsOPQtp9x"
-        },
-        {
           "name": "Malcolm VL",
           "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
+          "name": "Anas Juulo",
+          "url": "https://open.spotify.com/artist/1YaAgGDqsNvudwODqt6wuG"
         },
         {
           "name": "Tonyyymon",
@@ -476,8 +472,12 @@
           "url": "https://open.spotify.com/artist/6wZ1uq07huQdAZwKyyRQCN"
         },
         {
-          "name": "Anas Juulo",
-          "url": "https://open.spotify.com/artist/1YaAgGDqsNvudwODqt6wuG"
+          "name": "Renato Parmi",
+          "url": "https://open.spotify.com/artist/7oifscw1WkXLeQsOPQtp9x"
+        },
+        {
+          "name": "AFROZIL",
+          "url": "https://open.spotify.com/artist/0QbVl4IGQkHsmDZIDWXEEb"
         }
       ],
       "duration_ms": 224846,

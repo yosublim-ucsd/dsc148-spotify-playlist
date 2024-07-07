@@ -8871,6 +8871,24 @@
     },
     {
       "album": {
+        "name": "Radical Optimism (Extended Versions)",
+        "url": "https://open.spotify.com/album/0XY0qeZ7czMgtb340QJRxK"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371098,
+      "name": "Falling Forever - Extended",
+      "url": "https://open.spotify.com/track/0bd3dl4O6gHWegC3XK1EfD"
+    },
+    {
+      "album": {
         "name": "The Idol Episode 5 Part 1 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/4q3wUuIReEjGSYzmSsxtl6"
       },
@@ -11034,7 +11052,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 285000,
       "name": "Gjenta Etter Meg",
       "url": "https://open.spotify.com/track/4zg8lwBAXOvct7x1qG9ANZ"
@@ -16216,7 +16234,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 307800,
       "name": "libre",
       "url": "https://open.spotify.com/track/2Mb6eQQg99LqGIEitCnPea"
@@ -21032,7 +21050,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 197160,
       "name": "Other Side (feat. Charlotte Sands)",
       "url": "https://open.spotify.com/track/23aw0goM4v4fmIzA8AaBgo"
@@ -23534,7 +23552,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 407450,
       "name": "Ride the Lightning",
       "url": "https://open.spotify.com/track/4I7kE1p6koxfNl8alzesJR"
@@ -27000,7 +27018,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 227477,
       "name": "Super Villains",
       "url": "https://open.spotify.com/track/6iMfUuHZN1RybfUGuncTeL"
@@ -30512,7 +30530,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 292000,
       "name": "Upright Destined Mongol - Live at Glastonbury",
       "url": "https://open.spotify.com/track/3BJdlHZDQbEKskhdn0pF7r"
@@ -31616,6 +31634,28 @@
       "duration_ms": 168696,
       "name": "Wenn der Krankenwagen kommt (Ist die Party vorbei)",
       "url": "https://open.spotify.com/track/1Hn7O3FjyTAEeInraHc5z0"
+    },
+    {
+      "album": {
+        "name": "Wenn die Sonne scheint",
+        "url": "https://open.spotify.com/album/0CSpnX1is1GHtOIeK7avFx"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Bento",
+          "url": "https://open.spotify.com/artist/0lO9Fb7SJp9hyes2HbRyFa"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166480,
+      "name": "Wenn die Sonne scheint",
+      "url": "https://open.spotify.com/track/4oQjczK54K8TiWBCs0pkzU"
     },
     {
       "album": {

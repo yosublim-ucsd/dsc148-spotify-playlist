@@ -1,12 +1,12 @@
 {
   "description": "This Is Esteman. Los temas esenciales, todos en una lista.",
-  "num_followers": 34860,
+  "num_followers": 34869,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAABOERcTiKiuNdnmjCZ1keH5",
+  "snapshot_id": "Zoc3gAAAAAB+qG6YCMYNzkbrvc2rjrbg",
   "tracks": [
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eso Que Me Das",
-        "url": "https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 227658,
-      "name": "Eso Que Me Das",
-      "url": "https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pobre Coraz\u00f3n",
         "url": "https://open.spotify.com/album/7uGhAfUDxsISXHgNTVb8S2"
       },
@@ -847,38 +827,6 @@
       "duration_ms": 182786,
       "name": "Pobre Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6FogkmJRkh4AoGZ4NBXZ4G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "7 D\u00edas",
-      "url": "https://open.spotify.com/track/0iQ5TF0YYNCuDfUOZ0ASoD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1er Acto",
-        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "De Otro Planeta",
-      "url": "https://open.spotify.com/track/1XfgQpZQqDVNu2edxeyw3h"
     },
     {
       "added_at": null,
@@ -943,6 +891,38 @@
       "duration_ms": 252727,
       "name": "A qui\u00e9n le importa - Latin Pride Version by Juan Sueiro",
       "url": "https://open.spotify.com/track/1qlUwEvjwotC8lvju3rR3u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "7 D\u00edas",
+      "url": "https://open.spotify.com/track/0iQ5TF0YYNCuDfUOZ0ASoD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1er Acto",
+        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "De Otro Planeta",
+      "url": "https://open.spotify.com/track/1XfgQpZQqDVNu2edxeyw3h"
     }
   ],
   "unique_name": "This Is Esteman",

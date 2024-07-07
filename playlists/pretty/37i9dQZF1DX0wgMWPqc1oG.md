@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,185 likes - 100 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,201 likes - 100 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 35 | [Suite Sioux](https://open.spotify.com/track/64rHDxDhz71GtHxs5QBsQ5) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Red Clay](https://open.spotify.com/album/1EKOKpUcbqvwxFcmek60Za) | 8:44 |
 | 36 | [Perception \- Remastered 2005/Rudy Van Gelder Edition](https://open.spotify.com/track/0ofvMRAUIFzkrHthNTbxRB) | [The Blue Mitchell Quintet](https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj) | [Down With It! \(Remastered 2005/Rudy Van Gelder Edition\)](https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF) | 5:42 |
 | 37 | [Punjab \- Remastered 2003 / Rudy Van Gelder Edition](https://open.spotify.com/track/64EpFQnk4OlbMl3fitdrp6) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [In 'n Out \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4KI0kC5rANmc5YeXyNshDr) | 9:07 |
-| 38 | [The Collector \- Remastered](https://open.spotify.com/track/7DWiFL8ynmBx6kaU0gLQcT) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 6:54 |
-| 39 | [I'll Remember April](https://open.spotify.com/track/2r4g8y2QYw6ywKSdo3mEDN) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 8:01 |
+| 38 | [I'll Remember April](https://open.spotify.com/track/2r4g8y2QYw6ywKSdo3mEDN) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 8:01 |
+| 39 | [The Collector \- Remastered](https://open.spotify.com/track/7DWiFL8ynmBx6kaU0gLQcT) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 6:54 |
 | 40 | [R.J\. \(2022 Remaster\)](https://open.spotify.com/track/3rBVE16rpR9d9KivCflGON) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P\. \(2022 Remaster\)](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 4:03 |
 | 41 | [Love Bird](https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Dear John C.](https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1) | 3:49 |
 | 42 | [Vertigo \- Remastered](https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Vertigo](https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a) | 8:17 |
@@ -77,12 +77,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 67 | [Sao Paulo \- Remastered 2014](https://open.spotify.com/track/1USV1eumNSdlqPCSOkOUg4) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Una Mas \(Remastered 2014\)](https://open.spotify.com/album/5CWHeD4i4D8ytWcttJ2SpZ) | 7:17 |
 | 68 | [East of the Sun \- Live@Monterey](https://open.spotify.com/track/0oanzoMD8tt7YMkgaAd6Gj) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Forest Flower: Charles Lloyd At Monterey](https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD) | 10:44 |
 | 69 | [Idle While \- Remastered 2002/Rudy Van Gelder Edition](https://open.spotify.com/track/2SmyY2bDv75ogpDUqXEvL8) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Dialogue](https://open.spotify.com/album/5142jRc6IrvsI7F6V7tUy2) | 6:37 |
-| 70 | [Right Now](https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Right Now](https://open.spotify.com/album/18bi2UuLLBj78oai30goPA) | 9:29 |
+| 70 | [Kahlil The Prophet](https://open.spotify.com/track/25UXC18kep4qTng1062Fjf) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Destination...Out!](https://open.spotify.com/album/5G3L2XFdPWxKmsFSljLjj1) | 10:24 |
 | 71 | [Easterly Winds \- Remastered 2004](https://open.spotify.com/track/1XZrDnwGRDzElcXigwhUSb) | [Jack Wilson](https://open.spotify.com/artist/1MJpO71ShS9nmFAbT6KM2n) | [Easterly Winds \(Remastered\)](https://open.spotify.com/album/1Xist2IJU302l9yVzyVoYz) | 5:56 |
 | 72 | [The Fox \- Remastered 2014](https://open.spotify.com/track/6kEZ6Xa87zYFDCRX69mxK5) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Trompeta Toccata \(Remastered 2014\)](https://open.spotify.com/album/0MbOmmvDUHC8Y1FBtG3HDl) | 8:00 |
 | 73 | [Stop\-Start](https://open.spotify.com/track/7GBWFGFJQ8KHG3oS5rmIlJ) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Procrastinator](https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq) | 6:12 |
 | 74 | [Portsmouth Figurations](https://open.spotify.com/track/3D0W1LYyO4yp2QjEg6UiJS) | [Gary Burton Quartet](https://open.spotify.com/artist/2vB9VR5CJ70elfI1wWrvBl) | [Duster](https://open.spotify.com/album/7hA6gmViMYYoSpb8FxJsFf) | 3:05 |
-| 75 | [Kahlil The Prophet](https://open.spotify.com/track/25UXC18kep4qTng1062Fjf) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Destination...Out!](https://open.spotify.com/album/5G3L2XFdPWxKmsFSljLjj1) | 10:24 |
+| 75 | [Right Now](https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Right Now](https://open.spotify.com/album/18bi2UuLLBj78oai30goPA) | 9:29 |
 | 76 | [Chasin' The Trane \- Live At The Village Vanguard, 1961](https://open.spotify.com/track/1B8Wgwl8jM0k75FjDSy5SX) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Live At The Village Vanguard](https://open.spotify.com/album/4EXNLdBIHvX40boSdW7dc5) | 16:11 |
 | 77 | [One Shirt \- Remastered 2005/Rudy Van Gelder Edition](https://open.spotify.com/track/6JmgSVF28ADJ3S8KWODQuk) | [The Blue Mitchell Quintet](https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj) | [Down With It! \(Remastered 2005/Rudy Van Gelder Edition\)](https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF) | 7:30 |
 | 78 | [Off My Back Jack](https://open.spotify.com/track/3AtuHU0gxC9210nu0wK3tU) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali](https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX) | 5:13 |

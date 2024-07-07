@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Sexy Zebras.",
-  "num_followers": 19050,
+  "num_followers": 19062,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "La edad que tengo",
-        "url": "https://open.spotify.com/album/4K6OaFr9gVOzPPBgjvyVn4"
-      },
-      "artists": [
-        {
-          "name": "La Paloma",
-          "url": "https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv"
-        }
-      ],
-      "duration_ms": 174153,
-      "name": "La edad que tengo",
-      "url": "https://open.spotify.com/track/365MK5X3FgXaW7IWmNzNV5"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "T\u00fa No Lo Ves",
         "url": "https://open.spotify.com/album/117oS61cOoLRl1mAUkoiAt"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 280812,
       "name": "T\u00fa No Lo Ves",
       "url": "https://open.spotify.com/track/3XmNUtr2R6EbBk3msDxYSN"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "La edad que tengo",
+        "url": "https://open.spotify.com/album/4K6OaFr9gVOzPPBgjvyVn4"
+      },
+      "artists": [
+        {
+          "name": "La Paloma",
+          "url": "https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv"
+        }
+      ],
+      "duration_ms": 174153,
+      "name": "La edad que tengo",
+      "url": "https://open.spotify.com/track/365MK5X3FgXaW7IWmNzNV5"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -811,18 +811,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "5 MESES",
-        "url": "https://open.spotify.com/album/5qN6vm6Z4nW90l4m072RoY"
+        "name": "No te voy a besar",
+        "url": "https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp"
       },
       "artists": [
         {
-          "name": "Agudo",
-          "url": "https://open.spotify.com/artist/7AV6djETiJOxkb38gsU3Y6"
+          "name": "Venga, Bea",
+          "url": "https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM"
+        },
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
         }
       ],
-      "duration_ms": 191428,
-      "name": "5 meses",
-      "url": "https://open.spotify.com/track/2yNYMqWDnZ6Z8cvE1H5D8o"
+      "duration_ms": 147789,
+      "name": "No te voy a besar",
+      "url": "https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -875,22 +879,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "No te voy a besar",
-        "url": "https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp"
+        "name": "5 MESES",
+        "url": "https://open.spotify.com/album/5qN6vm6Z4nW90l4m072RoY"
       },
       "artists": [
         {
-          "name": "Venga, Bea",
-          "url": "https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM"
-        },
-        {
-          "name": "Jordana B.",
-          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+          "name": "Agudo",
+          "url": "https://open.spotify.com/artist/7AV6djETiJOxkb38gsU3Y6"
         }
       ],
-      "duration_ms": 147789,
-      "name": "No te voy a besar",
-      "url": "https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ"
+      "duration_ms": 191428,
+      "name": "5 meses",
+      "url": "https://open.spotify.com/track/2yNYMqWDnZ6Z8cvE1H5D8o"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Me jode",
-        "url": "https://open.spotify.com/album/7u9TgGLN0UxJ2H2ukoSSEo"
-      },
-      "artists": [
-        {
-          "name": "Las Dianas",
-          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
-        }
-      ],
-      "duration_ms": 193045,
-      "name": "Me jode",
-      "url": "https://open.spotify.com/track/2Cn6flTGpTY7vdYdYkJMkR"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Pitbull",
         "url": "https://open.spotify.com/album/5zYMSBCpGIxNYNNHij1YPw"
       },
@@ -1091,34 +1075,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "La estrella eres t\u00fa",
-        "url": "https://open.spotify.com/album/4wjcEIgfl8UXALJ8RMf5Sl"
+        "name": "Me jode",
+        "url": "https://open.spotify.com/album/7u9TgGLN0UxJ2H2ukoSSEo"
       },
       "artists": [
         {
-          "name": "Yawners",
-          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
         }
       ],
-      "duration_ms": 197635,
-      "name": "La estrella eres t\u00fa",
-      "url": "https://open.spotify.com/track/02D1Dj42VGXSg45nY5YMe1"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "No Puedo M\u00e1s",
-        "url": "https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj"
-      },
-      "artists": [
-        {
-          "name": "Mujeres",
-          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
-        }
-      ],
-      "duration_ms": 184984,
-      "name": "No Puedo M\u00e1s",
-      "url": "https://open.spotify.com/track/7fdUvlp2k3PFxu9FwxxH9q"
+      "duration_ms": 193045,
+      "name": "Me jode",
+      "url": "https://open.spotify.com/track/2Cn6flTGpTY7vdYdYkJMkR"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1143,50 +1111,34 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "patito",
-        "url": "https://open.spotify.com/album/5RePQAtG2OT9uHmoL9fjoJ"
+        "name": "No Puedo M\u00e1s",
+        "url": "https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj"
       },
       "artists": [
         {
-          "name": "Las Petunias",
-          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
+          "name": "Mujeres",
+          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
         }
       ],
-      "duration_ms": 174449,
-      "name": "patito",
-      "url": "https://open.spotify.com/track/4g3iyszdHctzCawEMndp2e"
+      "duration_ms": 184984,
+      "name": "No Puedo M\u00e1s",
+      "url": "https://open.spotify.com/track/7fdUvlp2k3PFxu9FwxxH9q"
     },
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Todo por el Aire",
-        "url": "https://open.spotify.com/album/25WZmHdRMfpS24qxsCwGKL"
+        "name": "La estrella eres t\u00fa",
+        "url": "https://open.spotify.com/album/4wjcEIgfl8UXALJ8RMf5Sl"
       },
       "artists": [
         {
-          "name": "Corazones El\u00e9ctricos",
-          "url": "https://open.spotify.com/artist/0qRG7TxJLvi9WsaaShnhSP"
+          "name": "Yawners",
+          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
         }
       ],
-      "duration_ms": 223698,
-      "name": "Todo por el Aire",
-      "url": "https://open.spotify.com/track/5hBJWe70D97dTK6EDdS9sP"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3"
-      },
-      "artists": [
-        {
-          "name": "Amor L\u00edquido",
-          "url": "https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc"
-        }
-      ],
-      "duration_ms": 137344,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8"
+      "duration_ms": 197635,
+      "name": "La estrella eres t\u00fa",
+      "url": "https://open.spotify.com/track/02D1Dj42VGXSg45nY5YMe1"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1207,6 +1159,54 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Todo por el Aire",
+        "url": "https://open.spotify.com/album/25WZmHdRMfpS24qxsCwGKL"
+      },
+      "artists": [
+        {
+          "name": "Corazones El\u00e9ctricos",
+          "url": "https://open.spotify.com/artist/0qRG7TxJLvi9WsaaShnhSP"
+        }
+      ],
+      "duration_ms": 223698,
+      "name": "Todo por el Aire",
+      "url": "https://open.spotify.com/track/5hBJWe70D97dTK6EDdS9sP"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "patito",
+        "url": "https://open.spotify.com/album/5RePQAtG2OT9uHmoL9fjoJ"
+      },
+      "artists": [
+        {
+          "name": "Las Petunias",
+          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
+        }
+      ],
+      "duration_ms": 174449,
+      "name": "patito",
+      "url": "https://open.spotify.com/track/4g3iyszdHctzCawEMndp2e"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3"
+      },
+      "artists": [
+        {
+          "name": "Amor L\u00edquido",
+          "url": "https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc"
+        }
+      ],
+      "duration_ms": 137344,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "\u00bfc\u00f3mo est\u00e1s?",
         "url": "https://open.spotify.com/album/1KKLtNhUyiP0atBtscOLsn"
       },
@@ -1219,38 +1219,6 @@
       "duration_ms": 173250,
       "name": "\u00bfc\u00f3mo est\u00e1s?",
       "url": "https://open.spotify.com/track/1NHO4eH5L9fkUaHb68y1t1"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Dos Galaxias",
-        "url": "https://open.spotify.com/album/1NES8cPssseE2OU3WwiXTH"
-      },
-      "artists": [
-        {
-          "name": "Selvajes",
-          "url": "https://open.spotify.com/artist/41Bkxd38yERewVUTQyOghu"
-        }
-      ],
-      "duration_ms": 211529,
-      "name": "Dos Galaxias",
-      "url": "https://open.spotify.com/track/3zIJcW9XnaZDUsS3qyu0Bt"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "T\u00fa y Yo y Todos Los Dem\u00e1s",
-        "url": "https://open.spotify.com/album/6JzNwePjl9hkA2qOMfjKAe"
-      },
-      "artists": [
-        {
-          "name": "Joder Juan",
-          "url": "https://open.spotify.com/artist/6aBkrLdqbTaGgefSznMub9"
-        }
-      ],
-      "duration_ms": 119767,
-      "name": "T\u00fa y Yo y Todos Los Dem\u00e1s",
-      "url": "https://open.spotify.com/track/7t9c6SRwCC0ezuAsz9PDNQ"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1275,6 +1243,38 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "T\u00fa y Yo y Todos Los Dem\u00e1s",
+        "url": "https://open.spotify.com/album/6JzNwePjl9hkA2qOMfjKAe"
+      },
+      "artists": [
+        {
+          "name": "Joder Juan",
+          "url": "https://open.spotify.com/artist/6aBkrLdqbTaGgefSznMub9"
+        }
+      ],
+      "duration_ms": 119767,
+      "name": "T\u00fa y Yo y Todos Los Dem\u00e1s",
+      "url": "https://open.spotify.com/track/7t9c6SRwCC0ezuAsz9PDNQ"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Dos Galaxias",
+        "url": "https://open.spotify.com/album/1NES8cPssseE2OU3WwiXTH"
+      },
+      "artists": [
+        {
+          "name": "Selvajes",
+          "url": "https://open.spotify.com/artist/41Bkxd38yERewVUTQyOghu"
+        }
+      ],
+      "duration_ms": 211529,
+      "name": "Dos Galaxias",
+      "url": "https://open.spotify.com/track/3zIJcW9XnaZDUsS3qyu0Bt"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Sofisticado",
         "url": "https://open.spotify.com/album/38hAaDQw9itDaxurry5vrw"
       },
@@ -1287,22 +1287,6 @@
       "duration_ms": 177887,
       "name": "Sofisticado",
       "url": "https://open.spotify.com/track/2UEtrZwOlCSgUpx0GYeTFY"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Darveider",
-        "url": "https://open.spotify.com/album/3DujoKOCP2JsIRslD8QnfT"
-      },
-      "artists": [
-        {
-          "name": "Venturi",
-          "url": "https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE"
-        }
-      ],
-      "duration_ms": 156375,
-      "name": "Darveider",
-      "url": "https://open.spotify.com/track/2KaOOQ2130RPjcnz8A1DuR"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Darveider",
+        "url": "https://open.spotify.com/album/3DujoKOCP2JsIRslD8QnfT"
+      },
+      "artists": [
+        {
+          "name": "Venturi",
+          "url": "https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE"
+        }
+      ],
+      "duration_ms": 156375,
+      "name": "Darveider",
+      "url": "https://open.spotify.com/track/2KaOOQ2130RPjcnz8A1DuR"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Patr\u00f3n de las causas imposibles",
         "url": "https://open.spotify.com/album/2fiz7SgjkMp3JNVDCV0tVN"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Estatua de oro",
-        "url": "https://open.spotify.com/album/3lN6tewyEQINzDQ7eGgr7t"
-      },
-      "artists": [
-        {
-          "name": "Bum Motion Club",
-          "url": "https://open.spotify.com/artist/1CXtxQpopANSqixiP1iXfe"
-        }
-      ],
-      "duration_ms": 155153,
-      "name": "Estatua de oro",
-      "url": "https://open.spotify.com/track/0kxQO0tb7DvVbgA2deL6t7"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Madrid Nos Pertenece",
         "url": "https://open.spotify.com/album/0kc3AM6xjhP4sgo0dzIFK6"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 221532,
       "name": "Madrid Nos Pertenece",
       "url": "https://open.spotify.com/track/0wxl1J7P9LqVDsNJKjFMvv"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Estatua de oro",
+        "url": "https://open.spotify.com/album/3lN6tewyEQINzDQ7eGgr7t"
+      },
+      "artists": [
+        {
+          "name": "Bum Motion Club",
+          "url": "https://open.spotify.com/artist/1CXtxQpopANSqixiP1iXfe"
+        }
+      ],
+      "duration_ms": 155153,
+      "name": "Estatua de oro",
+      "url": "https://open.spotify.com/track/0kxQO0tb7DvVbgA2deL6t7"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "O Todos o Ninguno",
+        "url": "https://open.spotify.com/album/5Lequ6yHwYYoT6SNS2wTuB"
+      },
+      "artists": [
+        {
+          "name": "Sexy Zebras",
+          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
+        }
+      ],
+      "duration_ms": 229313,
+      "name": "O Todos o Ninguno",
+      "url": "https://open.spotify.com/track/1yXB3vkiBKhOMYIIbStiP8"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "p0pper",
         "url": "https://open.spotify.com/album/2WQgZmFIxitM7eGZ9HECWl"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 217512,
       "name": "Rosquilla de canela",
       "url": "https://open.spotify.com/track/5W7u9wTj93pOYcxea9orOF"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "O Todos o Ninguno",
-        "url": "https://open.spotify.com/album/5Lequ6yHwYYoT6SNS2wTuB"
-      },
-      "artists": [
-        {
-          "name": "Sexy Zebras",
-          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
-        }
-      ],
-      "duration_ms": 229313,
-      "name": "O Todos o Ninguno",
-      "url": "https://open.spotify.com/track/1yXB3vkiBKhOMYIIbStiP8"
     },
     {
       "added_at": "2024-07-04 22:00:00",

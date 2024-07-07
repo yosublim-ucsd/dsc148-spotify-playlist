@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: 42 Dugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,198,376 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,198,539 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 3 | [Help Me](https://open.spotify.com/track/487JCvAXVblflZyDJn3fSp) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Help Me](https://open.spotify.com/album/01JuX8fEX5ACudymzCB3O3) | 3:01 |
 | 4 | [PLAY DA FOOL](https://open.spotify.com/track/35ACwDtccFItn9THDDZ7dm) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [PLAY DA FOOL](https://open.spotify.com/album/1MUIGef964rRIHwScAdq54) | 2:19 |
 | 5 | [Robbery 7](https://open.spotify.com/track/2sqc7KkHcxy53gXbhA9PFa) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Robbery 7](https://open.spotify.com/album/4ozI7JpZCF7GU2p7QvFVmH) | 3:44 |
-| 6 | [Megan \(feat\. Blac Youngsta\)](https://open.spotify.com/track/0ac9ySxOxKB3GaGm85qMKP) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [4eva Us Neva Them](https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j) | 2:35 |
+| 6 | [4x4 \(feat\. Meek Mill\)](https://open.spotify.com/track/5eCfOuVSUDnkyDOIA2jiWx) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [4eva Us Neva Them](https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j) | 2:59 |
 | 7 | [TOPCHEF](https://open.spotify.com/track/54vagHML7PBKL2BZtGZ83l) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Shut The Door, Nobody Listening](https://open.spotify.com/album/6QFw2gKbtC5TNwm3AuGms3) | 2:33 |
 | 8 | [What Happened \(feat\. Lil Baby\)](https://open.spotify.com/track/6aIwv3sqrvXlW49dUhzN5Z) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [On Zai](https://open.spotify.com/album/0qXeIPzrKbNIJmZmu37Pp1) | 3:30 |
 | 9 | [Q\-Dogz](https://open.spotify.com/track/7FHEzrax04uAKbFeNisJJO) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Q\-Dogz](https://open.spotify.com/album/7KASuF4SJeTxKsq3XbPGej) | 2:05 |
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 27 | [Let's Get It](https://open.spotify.com/track/0FGvtcQ1vrROlG2hjJn5mU) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [On Zai](https://open.spotify.com/album/0qXeIPzrKbNIJmZmu37Pp1) | 2:33 |
 | 28 | [Jon Jones](https://open.spotify.com/track/7n1JB7WrUFcryDQNlsdvFJ) | [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [The Giant](https://open.spotify.com/album/3GPnpFxF7JRgDxPSlRHTGR) | 2:06 |
 | 29 | [dangerous](https://open.spotify.com/track/0fyP96TikhD9sM4eKqw5Yp) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:25 |
-| 30 | [Big Big Money](https://open.spotify.com/track/5OVxJ4th1sKz83BPspqMJ3) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Big Big Money](https://open.spotify.com/album/5IY4dOaBwHZB69gg0BlTDt) | 2:33 |
-| 31 | [Letter to the Devil](https://open.spotify.com/track/0ycS8LLvSE22HJehLiQkDq) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Letter to the Devil](https://open.spotify.com/album/1vzVIXrFsau80EgjAK4pl8) | 2:25 |
-| 32 | [4x4 \(feat\. Meek Mill\)](https://open.spotify.com/track/5eCfOuVSUDnkyDOIA2jiWx) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [4eva Us Neva Them](https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j) | 2:59 |
+| 30 | [Megan \(feat\. Blac Youngsta\)](https://open.spotify.com/track/0ac9ySxOxKB3GaGm85qMKP) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [4eva Us Neva Them](https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j) | 2:35 |
+| 31 | [Big Big Money](https://open.spotify.com/track/5OVxJ4th1sKz83BPspqMJ3) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Big Big Money](https://open.spotify.com/album/5IY4dOaBwHZB69gg0BlTDt) | 2:33 |
+| 32 | [Letter to the Devil](https://open.spotify.com/track/0ycS8LLvSE22HJehLiQkDq) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Letter to the Devil](https://open.spotify.com/album/1vzVIXrFsau80EgjAK4pl8) | 2:25 |
 | 33 | [GTA](https://open.spotify.com/track/4XF9fk0STp9hx8xn5Suwpz) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:53 |
 | 34 | [350](https://open.spotify.com/track/42TFM7pxF8mRUJTWJdGMeS) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Crazy](https://open.spotify.com/album/5kj4uRtKgpR9PKnQaMYqZU) | 3:13 |
 | 35 | [Grizzley 2Tymes \(feat\. Finesse2Tymes\)](https://open.spotify.com/track/5RknKQS8uPXks3pCETEUKY) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Grizzley 2Tymes \(feat\. Finesse2Tymes\)](https://open.spotify.com/album/18xz1i3XiHFJolH6VNqYQ3) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [The One](https://open.spotify.com/track/3V0A5gVJFGy4Hmo3MJ59uD) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [I Showed U So](https://open.spotify.com/album/4GVyz2cTtsOtCX5Jk1zeaU) | 2:14 |
 | 100 | [Bezzal Land](https://open.spotify.com/track/0YuGBW9XmWiUMXGVsnt9P2) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [Bezzal Land](https://open.spotify.com/album/5yqpAwyhVsmdbrDIItyPs7) | 2:42 |
 
-Snapshot ID: `ZodvwAAAAAChYl6QzodbDb7L61m+Imme`
+Snapshot ID: `ZonumwAAAAB655Yc6ZSuXTOqDo75KoFs`

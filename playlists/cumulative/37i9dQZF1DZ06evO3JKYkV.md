@@ -2,7 +2,7 @@
 
 ### [This Is Aphex Twin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3JKYkV)
 
-> This is Aphex Twin\. The essential tracks, all in one playlist.
+> This Is Aphex Twin\. Los temas esenciales, todos en una lista.
 
 135 songs - 10 hr 16 min
 

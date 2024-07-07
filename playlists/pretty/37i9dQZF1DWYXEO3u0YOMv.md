@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,894 likes - 130 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,986 likes - 130 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 105 | [EVERLASTING DAYS](https://open.spotify.com/track/4iCr97PgqDNVtLhjs8f2mT) | [聖蹟高校サッカー部](https://open.spotify.com/artist/512LGL9YRa7k9JU1DjlQi2), [柄本つくし\(CV:吉永拓斗\)](https://open.spotify.com/artist/5dwhnr7fa3Ohu60bNHyde6), [風間陣\(CV:松岡禎丞\)](https://open.spotify.com/artist/4TZuOz8oB0B6MkIhdFUzuY), [水樹寿人\(CV:浪川大輔\)](https://open.spotify.com/artist/2VsrYIlb4ljDM9FiWGTruS), [君下敦\(CV:小野大輔\)](https://open.spotify.com/artist/1gLHYOLlx2rJKGAQ3DhVkx), [大柴喜一\(CV:宮野真守\)](https://open.spotify.com/artist/00ZTYmP3lWInwdHAfYbImv) | [EVERLASTING DAYS](https://open.spotify.com/album/4iMRhqiBtpReRVDW1oZqHS) | 3:52 |
 | 106 | [Wake We Up](https://open.spotify.com/track/4vfYHDtCAQffxNGP0XSO11) | [HOWL BE QUIET](https://open.spotify.com/artist/56jhSmJBKSKee5kUAlJjbX) | [Mr\. HOLIC](https://open.spotify.com/album/0DNteSo4zdyJ8H9KxoKekM) | 4:42 |
 | 107 | [花蓮](https://open.spotify.com/track/6P1GY6LwSocFSOXxjbU33m) | [三狐神囃子 \(大橋彩香・佐咲紗花・鵜殿麻由・佐藤依莉子\)](https://open.spotify.com/artist/31cuTX9Vkgpxyi4B7BQHYY) | [牙狼<GARO>黄金歌集Ⅲ 牙狼響](https://open.spotify.com/album/0oY7KpdmpKmkN0micdzy78) | 4:26 |
-| 108 | [花紋](https://open.spotify.com/track/20YssuuSa8wXqutXk0Kxms) | [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1), [三狐神囃子 \(鵜殿麻由・佐藤依莉子\)](https://open.spotify.com/artist/6LYxX4EaaVoTb6sY9EobVw) | [花紋](https://open.spotify.com/album/4t6a6ILakR0UAfpHhG27ZT) | 4:24 |
+| 108 | [花紋](https://open.spotify.com/track/20YssuuSa8wXqutXk0Kxms) | [佐咲紗花 with 三狐神囃子 \(鵜殿麻由・佐藤依莉子\)](https://open.spotify.com/artist/5dlzar5cLcWFzBzqWFqHDh) | [花紋](https://open.spotify.com/album/4t6a6ILakR0UAfpHhG27ZT) | 4:24 |
 | 109 | [月華](https://open.spotify.com/track/62zL1t37STLcPl8W4oxIBw) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [月華](https://open.spotify.com/album/7lg1DgpTBfwIyzVxADXzeY) | 4:42 |
 | 110 | [紅蓮ノ月～隠されし闇物語～ JAM Project Ver\. \(Full Size.\)](https://open.spotify.com/track/4DotUtWNjhF0AuV96DrWll) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [紅蓮ノ月～隠されし闇物語～](https://open.spotify.com/album/2qJwreO0uy4IRbTPhBDtwU) | 4:20 |
 | 111 | [決戦前夜](https://open.spotify.com/track/2MR9aMatvG861GgElAFkua) | [LUNKHEAD](https://open.spotify.com/artist/1haOQ3z2Qr7IyTDgrv6PiM) | [決戦前夜](https://open.spotify.com/album/6Bcvnvy88VUCIuh5l31uoI) | 3:45 |

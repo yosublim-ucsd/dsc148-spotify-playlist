@@ -3699,6 +3699,28 @@
     },
     {
       "album": {
+        "name": "Early rise",
+        "url": "https://open.spotify.com/album/4rqsMKNsFZOgf2QRgeaLPN"
+      },
+      "artists": [
+        {
+          "name": "7th Realm",
+          "url": "https://open.spotify.com/artist/4UtJ3cnpM9ptMHY6LSfMUs"
+        },
+        {
+          "name": "tides.",
+          "url": "https://open.spotify.com/artist/138GsDz0pX5leXnKi7ay7G"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106697,
+      "name": "Early rise",
+      "url": "https://open.spotify.com/track/0Xc8uXfsxcNMj2y1IKwo2T"
+    },
+    {
+      "album": {
         "name": "Echovision",
         "url": "https://open.spotify.com/album/2bfn7CAh6ULbmpDOOazf3W"
       },
@@ -5794,7 +5816,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 156838,
       "name": "Heaux",
       "url": "https://open.spotify.com/track/2XF3s6ycUXSJQCVMteiERI"

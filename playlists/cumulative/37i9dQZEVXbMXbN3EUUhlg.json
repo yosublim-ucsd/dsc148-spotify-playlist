@@ -4512,7 +4512,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
@@ -5466,7 +5466,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 167391,
       "name": "Dedo do Meio - Ao Vivo",
       "url": "https://open.spotify.com/track/2ORC76autQ7QTfBCkZl4Wo"
@@ -11592,7 +11592,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 142470,
       "name": "Licor 43",
       "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
@@ -13330,7 +13330,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 382222,
       "name": "Melhor Dia 13 - Era Uma Vez",
       "url": "https://open.spotify.com/track/0aXHnXG1twZEc7AUGTK4Fo"
@@ -15491,6 +15491,28 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Fosse T\u00e3o Tarde (MTG Remix)",
+        "url": "https://open.spotify.com/album/0m8qklpIFESodRkIOqJ7Ni"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        },
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117230,
+      "name": "N\u00e3o Fosse T\u00e3o Tarde - MTG Remix",
+      "url": "https://open.spotify.com/track/6gjsnEQxLqVkieeloQTozN"
+    },
+    {
+      "album": {
         "name": "Buteco in Boston, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6kqV2ortasb6HOA7pupoKs"
       },
@@ -15652,7 +15674,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 141216,
       "name": "N\u00e3o Recomendo - Ao Vivo",
       "url": "https://open.spotify.com/track/2VUUzKS50OxWyTRu1J0YKH"

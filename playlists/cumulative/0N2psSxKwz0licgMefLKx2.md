@@ -4,7 +4,7 @@
 
 > From Toronto to Nashville\- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Jelly Roll
 
-200 songs - 10 hr 48 min
+201 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Leads Me Home](https://open.spotify.com/track/6Pv0lrmyyQpSPIaGBIDukW) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Leads Me Home](https://open.spotify.com/album/3BWWEzqzihiQp8EOQQLNNZ) | 3:21 | 2024-05-10 | 2024-06-18 |
 | [Let Your Horses Run](https://open.spotify.com/track/7qVcidzvBuZCEDsULvdW8E) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Let Your Horses Run](https://open.spotify.com/album/7L4fsZ5y0XO6s55kweRB0W) | 2:59 | 2024-05-03 |  |
 | [Let’s Go Fishing](https://open.spotify.com/track/6ns6oRR7rI20Y5P5BQAqdK) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Let’s Go Fishing](https://open.spotify.com/album/79vC94qpK1F4x3c8Q7SOZP) | 3:19 | 2024-01-26 | 2024-05-04 |
+| [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 | 2024-07-06 |  |
 | [Life Lessons](https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Life Lessons](https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv) | 3:15 | 2023-11-17 | 2024-04-20 |
 | [Livin' In A Country Song](https://open.spotify.com/track/7hmHPH6BAIsTAm71DBE48T) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Jukebox Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/2faBQuz5qcPsTfvqEex34o) | 3:07 | 2023-11-03 | 2024-01-13 |
 | [Locked Up](https://open.spotify.com/track/3lT10s1U9K0vrEGpsu8kBP) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Locked Up](https://open.spotify.com/album/6bFqE8ItSLyMxhxlRVJYIZ) | 3:28 | 2024-03-22 | 2024-05-04 |
@@ -170,7 +171,7 @@
 | [The Architect](https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 | 2024-03-15 |  |
 | [The Day That I'm Over You](https://open.spotify.com/track/6ZnV68nwB7llr1I22kQjmQ) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [The Day That I'm Over You](https://open.spotify.com/album/1sfqqJAPXEg6jMkpavqHDD) | 3:18 | 2023-11-03 | 2024-01-13 |
 | [The Painter](https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [The Painter](https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu) | 3:31 | 2024-03-22 |  |
-| [Thinkin’ Bout Me](https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:57 | 2023-11-03 |  |
+| [Thinkin’ Bout Me](https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:57 | 2023-11-03 | 2024-07-07 |
 | [This Is My Dirt](https://open.spotify.com/track/0XuEfX2tOQPxhJCIMcjkgD) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [This Is My Dirt](https://open.spotify.com/album/7A2rFcb97EUFcBI0RGhjgc) | 3:37 | 2024-01-26 | 2024-05-18 |
 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-01 | 2024-06-09 |
 | [Train](https://open.spotify.com/track/2Ac1wiAWWnRFBHR9oTOfu1) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Train](https://open.spotify.com/album/5dY1nVvmuZvbgGEI38r5lp) | 3:35 | 2024-06-28 |  |

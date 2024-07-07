@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Childish Gambino in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,229 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,278 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 23 | [CUORI SPEZZATI](https://open.spotify.com/track/55h9la9ICtndO2PgH8U5E1) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [CUORI SPEZZATI](https://open.spotify.com/album/5GWvi5nrEzRBunptW3Yv6K) | 2:54 |
 | 24 | [Mambo](https://open.spotify.com/track/1Eslj0XCaVpzPbYBmaol7T) | [Tatum Rush](https://open.spotify.com/artist/47p2js8l70JjDWGS0a1hqr) | [Mambo](https://open.spotify.com/album/4Rf1gy3dHPSQNFhanMHtjp) | 4:05 |
 | 25 | [Converse / Nike \(feat.Tancredi\)](https://open.spotify.com/track/45eksCUmYYaGuwRmYnVAAz) | [Sina](https://open.spotify.com/artist/2BYuUplSlEUC7pg9W05d3F), [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [Cupido Senza Ali](https://open.spotify.com/album/3x3vS767sbgvMnAEgZctdx) | 2:28 |
-| 26 | [BOCCA DELLA VERITÀ](https://open.spotify.com/track/3tTZk8sI7WC853LADC8hZh) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neil](https://open.spotify.com/artist/0j3MbC9QJgv5lhcvF0N5uq) | [BOCCA DELLA VERITÀ](https://open.spotify.com/album/51pHiicssnO5VzkGXsLLx3) | 2:50 |
+| 26 | [BOCCA DELLA VERITÀ](https://open.spotify.com/track/3tTZk8sI7WC853LADC8hZh) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [BOCCA DELLA VERITÀ](https://open.spotify.com/album/51pHiicssnO5VzkGXsLLx3) | 2:50 |
 | 27 | [Le risposte](https://open.spotify.com/track/2ohYwgqYr5eQNPMNlDIhSV) | [Sud Sound System](https://open.spotify.com/artist/2cHDJffbeaHlDlCFloJ4K2), [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [INTELLIGENZA NATURALE](https://open.spotify.com/album/6173upx2MEfmn8pLs3bT3M) | 3:16 |
 | 28 | [Mar Azul](https://open.spotify.com/track/2JcSVI70JR5NnWUgQdLF03) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo) | [Mar Azul](https://open.spotify.com/album/0MRSokSjJnyOOfxFbO4CsC) | 2:31 |
 | 29 | [4TO 23](https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [4TO 23](https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg) | 2:48 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 56 | [Betty](https://open.spotify.com/track/7M44cUOP5mNIP2nAylun3i) | [Brown](https://open.spotify.com/artist/0Q4V6DfjCMP0AYZvErnC2V) | [Da quando non sono qui…](https://open.spotify.com/album/5P0HR4Kf3NLlQLArt5bmrw) | 2:31 |
 | 57 | [Karnevale di Rio](https://open.spotify.com/track/5NPvMrIzj1cMiKZ4TB4qld) | [Yaraki](https://open.spotify.com/artist/6NEJLQRMkIN8ud5ng05XIX) | [Karnevale di Rio](https://open.spotify.com/album/3rLIAQuVXv900dkPdZygCo) | 2:30 |
 | 58 | [Basta](https://open.spotify.com/track/1XGRJAU783dvTLMHBepWxA) | [Clode](https://open.spotify.com/artist/4wJwVMQ2Dm2VIwxzMAvriE) | [Labile](https://open.spotify.com/album/3Vazy22OLsFE9nmMsCs3al) | 3:24 |
-| 59 | [Haunted \(feat\. KOOLKID\)](https://open.spotify.com/track/5mURF77s0QlIuB9g2hUMyO) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf), [KOOLKID](https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY) | [Haunted \(feat\. KOOLKID\)](https://open.spotify.com/album/12cKMWQluS9TIpoYBxYlAj) | 2:23 |
+| 59 | [Haunted](https://open.spotify.com/track/5mURF77s0QlIuB9g2hUMyO) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf), [KOOLKID](https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY) | [Haunted](https://open.spotify.com/album/12cKMWQluS9TIpoYBxYlAj) | 2:23 |
 | 60 | [Distance](https://open.spotify.com/track/2blYo3R16FSCsGQQePt16B) | [Giungla](https://open.spotify.com/artist/2hXIoMXYA65EDbqyLMzr5r) | [Distance](https://open.spotify.com/album/65J99vAYR0FUUZhuRJDkr1) | 2:38 |
 | 61 | [Sto Nella Zone](https://open.spotify.com/track/039gY6O0YbDNMdr0gL2y8F) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [Sto Nella Zone](https://open.spotify.com/album/6VbHXyD1eZcvkE9VQgZnDa) | 2:36 |
 | 62 | [Extraterrestrial](https://open.spotify.com/track/0wJxx9h0cPxJZVf9SptnlQ) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx), [WVNNV](https://open.spotify.com/artist/1Z6904tiByLNOKUPLldxwp) | [Extraterrestrial](https://open.spotify.com/album/140bN49dQRyWgyBx7MSOEL) | 2:21 |

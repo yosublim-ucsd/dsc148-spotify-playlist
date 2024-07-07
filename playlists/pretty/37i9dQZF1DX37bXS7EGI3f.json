@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Powerwolf\n",
-  "num_followers": 770706,
+  "num_followers": 770875,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "Pro Xristou",
-        "url": "https://open.spotify.com/album/3oXblizhnWNqlsWJrpagaB"
+        "name": "Bloodclock",
+        "url": "https://open.spotify.com/album/3kixMRYRnhTP9ppQDPwHNc"
       },
       "artists": [
         {
-          "name": "Rotting Christ",
-          "url": "https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ"
+          "name": "Fleshgod Apocalypse",
+          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
         }
       ],
-      "duration_ms": 301533,
-      "name": "The Apostate",
-      "url": "https://open.spotify.com/track/1vAb78bGwENFZmf3T79ABo"
+      "duration_ms": 314373,
+      "name": "Bloodclock",
+      "url": "https://open.spotify.com/track/0v2TBqAtyK8p6yDusBNVAZ"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "Bloodclock",
-        "url": "https://open.spotify.com/album/3kixMRYRnhTP9ppQDPwHNc"
+        "name": "Pro Xristou",
+        "url": "https://open.spotify.com/album/3oXblizhnWNqlsWJrpagaB"
       },
       "artists": [
         {
-          "name": "Fleshgod Apocalypse",
-          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
+          "name": "Rotting Christ",
+          "url": "https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ"
         }
       ],
-      "duration_ms": 314373,
-      "name": "Bloodclock",
-      "url": "https://open.spotify.com/track/0v2TBqAtyK8p6yDusBNVAZ"
+      "duration_ms": 301533,
+      "name": "The Apostate",
+      "url": "https://open.spotify.com/track/1vAb78bGwENFZmf3T79ABo"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -427,8 +427,8 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "82nd All the Way",
-        "url": "https://open.spotify.com/album/3HCUmVHEIhTnDdQjdf60gb"
+        "name": "The Catalyst",
+        "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
         }
       ],
-      "duration_ms": 201546,
-      "name": "82nd All the Way",
-      "url": "https://open.spotify.com/track/1GK39qL3zPowvvb0UpWGyQ"
+      "duration_ms": 185266,
+      "name": "Outer Dimensions",
+      "url": "https://open.spotify.com/track/2cTj4pAJNev8vcJQCoGuQb"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "Forsaken (The Aftermath)",
-        "url": "https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 298634,
-      "name": "Forsaken - The Aftermath",
-      "url": "https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
         "name": "We Shall Remain",
         "url": "https://open.spotify.com/album/2qowWVHf8S7hOkZ9utWmEG"
       },
@@ -551,8 +535,24 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "The Catalyst",
-        "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
+        "name": "Forsaken (The Aftermath)",
+        "url": "https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 298634,
+      "name": "Forsaken - The Aftermath",
+      "url": "https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
+        "name": "82nd All the Way",
+        "url": "https://open.spotify.com/album/3HCUmVHEIhTnDdQjdf60gb"
       },
       "artists": [
         {
@@ -560,25 +560,9 @@
           "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
         }
       ],
-      "duration_ms": 185266,
-      "name": "Outer Dimensions",
-      "url": "https://open.spotify.com/track/2cTj4pAJNev8vcJQCoGuQb"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
-        "name": "Rogue (Aim for the Kill)",
-        "url": "https://open.spotify.com/album/6svzfGdfbGtII5vHl4TNRb"
-      },
-      "artists": [
-        {
-          "name": "Edge Of Paradise",
-          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
-        }
-      ],
-      "duration_ms": 236586,
-      "name": "Rogue (Aim for the Kill)",
-      "url": "https://open.spotify.com/track/28R9RX7V1tQx91u1cSDlmz"
+      "duration_ms": 201546,
+      "name": "82nd All the Way",
+      "url": "https://open.spotify.com/track/1GK39qL3zPowvvb0UpWGyQ"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -603,6 +587,22 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
+        "name": "Rogue (Aim for the Kill)",
+        "url": "https://open.spotify.com/album/6svzfGdfbGtII5vHl4TNRb"
+      },
+      "artists": [
+        {
+          "name": "Edge Of Paradise",
+          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Rogue (Aim for the Kill)",
+      "url": "https://open.spotify.com/track/28R9RX7V1tQx91u1cSDlmz"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/4OSwoYZStFewvoB9RYM3XO"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "We Come Alive",
-        "url": "https://open.spotify.com/album/1CBC8kMy5E274Kvcp7oJyI"
-      },
-      "artists": [
-        {
-          "name": "Gothminister",
-          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "We Come Alive",
-      "url": "https://open.spotify.com/track/1uUdfXGIcEC3O7SqboXGLp"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
         "name": "Glory for Salvation",
         "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 346053,
       "name": "Son of Vengeance",
       "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
+        "name": "We Come Alive",
+        "url": "https://open.spotify.com/album/1CBC8kMy5E274Kvcp7oJyI"
+      },
+      "artists": [
+        {
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "We Come Alive",
+      "url": "https://open.spotify.com/track/1uUdfXGIcEC3O7SqboXGLp"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
+        "name": "On the Sea",
+        "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
+      },
+      "artists": [
+        {
+          "name": "Tungsten",
+          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
+        }
+      ],
+      "duration_ms": 233343,
+      "name": "On the Sea",
+      "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
         "name": "The Wicked Rule The Night",
         "url": "https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 264946,
       "name": "The Wicked Rule The Night",
       "url": "https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
-        "name": "On the Sea",
-        "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
-      },
-      "artists": [
-        {
-          "name": "Tungsten",
-          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
-        }
-      ],
-      "duration_ms": 233343,
-      "name": "On the Sea",
-      "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
+        "name": "The Hanging Tree",
+        "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 226128,
+      "name": "The Hanging Tree",
+      "url": "https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
         "name": "Fight the Tide",
         "url": "https://open.spotify.com/album/46PoeCkqWmFFVstUUxZ77h"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 206520,
       "name": "Fight the Tide",
       "url": "https://open.spotify.com/track/7x1BkDkUOi6qHeptyZBOaE"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
-        "name": "The Hanging Tree",
-        "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 226128,
-      "name": "The Hanging Tree",
-      "url": "https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "Light up the Sky",
-        "url": "https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM"
+        "name": "Feed the Fire",
+        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
       },
       "artists": [
         {
-          "name": "REXORIA",
-          "url": "https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK"
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
         }
       ],
-      "duration_ms": 206720,
-      "name": "Light up the Sky",
-      "url": "https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU"
+      "duration_ms": 199000,
+      "name": "Feed the Fire",
+      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "Feed the Fire",
-        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
+        "name": "Light up the Sky",
+        "url": "https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM"
       },
       "artists": [
         {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+          "name": "REXORIA",
+          "url": "https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Feed the Fire",
-      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
+      "duration_ms": 206720,
+      "name": "Light up the Sky",
+      "url": "https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/1q2nD6Ft2JwA6zTNrgezMj"
+      },
+      "artists": [
+        {
+          "name": "Stratovarius",
+          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "World on Fire",
+      "url": "https://open.spotify.com/track/4LyJfkFQTpMHRSj0rCBgdo"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
         "name": "Axes",
         "url": "https://open.spotify.com/album/2KtjpfdPn3rNCoRTdhHGtv"
       },
@@ -1259,34 +1275,18 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/1q2nD6Ft2JwA6zTNrgezMj"
+        "name": "Seventh Rum of a Seventh Rum",
+        "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
       },
       "artists": [
         {
-          "name": "Stratovarius",
-          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
         }
       ],
-      "duration_ms": 266000,
-      "name": "World on Fire",
-      "url": "https://open.spotify.com/track/4LyJfkFQTpMHRSj0rCBgdo"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
-        "name": "Diamond Claws",
-        "url": "https://open.spotify.com/album/6ABYt8Esd1En0LnDm9iKBx"
-      },
-      "artists": [
-        {
-          "name": "Rhapsody Of Fire",
-          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
-        }
-      ],
-      "duration_ms": 276552,
-      "name": "Diamond Claws",
-      "url": "https://open.spotify.com/track/1Zd6cxz9jtBEMPjbKHHOIJ"
+      "duration_ms": 201114,
+      "name": "Seventh Rum of a Seventh Rum",
+      "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "Seventh Rum of a Seventh Rum",
-        "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
+        "name": "Diamond Claws",
+        "url": "https://open.spotify.com/album/6ABYt8Esd1En0LnDm9iKBx"
       },
       "artists": [
         {
-          "name": "Alestorm",
-          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+          "name": "Rhapsody Of Fire",
+          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
         }
       ],
-      "duration_ms": 201114,
-      "name": "Seventh Rum of a Seventh Rum",
-      "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
+      "duration_ms": 276552,
+      "name": "Diamond Claws",
+      "url": "https://open.spotify.com/track/1Zd6cxz9jtBEMPjbKHHOIJ"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "New Horizons",
-        "url": "https://open.spotify.com/album/1PFvlYHRyqoF19R6hwxTKK"
-      },
-      "artists": [
-        {
-          "name": "The Dark Side of the Moon",
-          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
-        },
-        {
-          "name": "Fabienne Erni",
-          "url": "https://open.spotify.com/artist/0q3kTmmx7D54or2e8HnluR"
-        }
-      ],
-      "duration_ms": 265106,
-      "name": "New Horizons",
-      "url": "https://open.spotify.com/track/2sHZTVXbyiz38DIFZYgxdQ"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
         "name": "Not All Those Who Wander Are Lost",
         "url": "https://open.spotify.com/album/2Hdnxdxtbgbajj18nZcp65"
       },
@@ -1391,34 +1371,22 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "The Old Hurt of Being Left Behind",
-        "url": "https://open.spotify.com/album/2oARG8q3rbzDtjYuy4uaFa"
+        "name": "New Horizons",
+        "url": "https://open.spotify.com/album/1PFvlYHRyqoF19R6hwxTKK"
       },
       "artists": [
         {
-          "name": "Seven Spires",
-          "url": "https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o"
-        }
-      ],
-      "duration_ms": 410200,
-      "name": "The Old Hurt of Being Left Behind",
-      "url": "https://open.spotify.com/track/1v2O0uLpl5LpizZEPawkmR"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
-        "name": "A Brave New Hope",
-        "url": "https://open.spotify.com/album/4R7CBA3wk2lrj9tkglsnQh"
-      },
-      "artists": [
+          "name": "The Dark Side of the Moon",
+          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
+        },
         {
-          "name": "Rhapsody Of Fire",
-          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
+          "name": "Fabienne Erni",
+          "url": "https://open.spotify.com/artist/0q3kTmmx7D54or2e8HnluR"
         }
       ],
-      "duration_ms": 280557,
-      "name": "A Brave New Hope",
-      "url": "https://open.spotify.com/track/7CTZgDqC7vcSsTumTmxz0D"
+      "duration_ms": 265106,
+      "name": "New Horizons",
+      "url": "https://open.spotify.com/track/2sHZTVXbyiz38DIFZYgxdQ"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1439,6 +1407,22 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
+        "name": "The Old Hurt of Being Left Behind",
+        "url": "https://open.spotify.com/album/2oARG8q3rbzDtjYuy4uaFa"
+      },
+      "artists": [
+        {
+          "name": "Seven Spires",
+          "url": "https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o"
+        }
+      ],
+      "duration_ms": 410200,
+      "name": "The Old Hurt of Being Left Behind",
+      "url": "https://open.spotify.com/track/1v2O0uLpl5LpizZEPawkmR"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
         "name": "Pop Metal",
         "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 191999,
       "name": "Empire",
       "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
+        "name": "A Brave New Hope",
+        "url": "https://open.spotify.com/album/4R7CBA3wk2lrj9tkglsnQh"
+      },
+      "artists": [
+        {
+          "name": "Rhapsody Of Fire",
+          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
+        }
+      ],
+      "duration_ms": 280557,
+      "name": "A Brave New Hope",
+      "url": "https://open.spotify.com/track/7CTZgDqC7vcSsTumTmxz0D"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "Keeper of the Celestial Flame of Abernethy",
-        "url": "https://open.spotify.com/album/1BvtzKUe7PcQDbuld5snVh"
-      },
-      "artists": [
-        {
-          "name": "Gloryhammer",
-          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
-        }
-      ],
-      "duration_ms": 275168,
-      "name": "Holy Flaming Hammer of Unholy Cosmic Frost",
-      "url": "https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
         "name": "Now Is the Time",
         "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
       },
@@ -1563,22 +1547,6 @@
       "duration_ms": 378549,
       "name": "Now Is the Time",
       "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
-        "name": "Ritter Tod und Teufel (Knightfall)",
-        "url": "https://open.spotify.com/album/0vim1HOPOljUal09szUN1p"
-      },
-      "artists": [
-        {
-          "name": "Serenity",
-          "url": "https://open.spotify.com/artist/3cdasOCLRe8dKjzjowtzNW"
-        }
-      ],
-      "duration_ms": 258737,
-      "name": "Ritter Tod und Teufel (Knightfall)",
-      "url": "https://open.spotify.com/track/6ioDj88eu8eqFuNuGv00tv"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1599,38 +1567,34 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "Almosttown",
-        "url": "https://open.spotify.com/album/2ucY8ZkajTe4LMQBYdoaFg"
+        "name": "Keeper of the Celestial Flame of Abernethy",
+        "url": "https://open.spotify.com/album/1BvtzKUe7PcQDbuld5snVh"
       },
       "artists": [
         {
-          "name": "Seven Spires",
-          "url": "https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o"
+          "name": "Gloryhammer",
+          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
         }
       ],
-      "duration_ms": 302040,
-      "name": "Almosttown",
-      "url": "https://open.spotify.com/track/25cW3WuUYMBi2gXVBYAVWN"
+      "duration_ms": 275168,
+      "name": "Holy Flaming Hammer of Unholy Cosmic Frost",
+      "url": "https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG"
     },
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "The Widow Maker",
-        "url": "https://open.spotify.com/album/2ivXd8Ca3ECnX7ILZoNpbP"
+        "name": "Ritter Tod und Teufel (Knightfall)",
+        "url": "https://open.spotify.com/album/0vim1HOPOljUal09szUN1p"
       },
       "artists": [
         {
-          "name": "Carpenter Brut",
-          "url": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
-        },
-        {
-          "name": "Gunship",
-          "url": "https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS"
+          "name": "Serenity",
+          "url": "https://open.spotify.com/artist/3cdasOCLRe8dKjzjowtzNW"
         }
       ],
-      "duration_ms": 235453,
-      "name": "The Widow Maker - feat. Gunship",
-      "url": "https://open.spotify.com/track/2wEefjLWT91c7AyTuiStmi"
+      "duration_ms": 258737,
+      "name": "Ritter Tod und Teufel (Knightfall)",
+      "url": "https://open.spotify.com/track/6ioDj88eu8eqFuNuGv00tv"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1655,18 +1619,22 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "Three Kings",
-        "url": "https://open.spotify.com/album/6jKXhTly2KwOXwO7ojA8oM"
+        "name": "The Widow Maker",
+        "url": "https://open.spotify.com/album/2ivXd8Ca3ECnX7ILZoNpbP"
       },
       "artists": [
         {
-          "name": "Genus Ordinis Dei",
-          "url": "https://open.spotify.com/artist/4PorUDN5C5JRpJtinoVyTD"
+          "name": "Carpenter Brut",
+          "url": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+        },
+        {
+          "name": "Gunship",
+          "url": "https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS"
         }
       ],
-      "duration_ms": 276000,
-      "name": "Three Kings",
-      "url": "https://open.spotify.com/track/0d40sFweIfsIqQSeIzLvHH"
+      "duration_ms": 235453,
+      "name": "The Widow Maker - feat. Gunship",
+      "url": "https://open.spotify.com/track/2wEefjLWT91c7AyTuiStmi"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1699,6 +1667,38 @@
       "duration_ms": 282610,
       "name": "Total T-Rex Terror",
       "url": "https://open.spotify.com/track/0hwFRdWtN7clcasZmZeBfe"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
+        "name": "Almosttown",
+        "url": "https://open.spotify.com/album/2ucY8ZkajTe4LMQBYdoaFg"
+      },
+      "artists": [
+        {
+          "name": "Seven Spires",
+          "url": "https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o"
+        }
+      ],
+      "duration_ms": 302040,
+      "name": "Almosttown",
+      "url": "https://open.spotify.com/track/25cW3WuUYMBi2gXVBYAVWN"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
+        "name": "Three Kings",
+        "url": "https://open.spotify.com/album/6jKXhTly2KwOXwO7ojA8oM"
+      },
+      "artists": [
+        {
+          "name": "Genus Ordinis Dei",
+          "url": "https://open.spotify.com/artist/4PorUDN5C5JRpJtinoVyTD"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Three Kings",
+      "url": "https://open.spotify.com/track/0d40sFweIfsIqQSeIzLvHH"
     },
     {
       "added_at": "2024-06-24 20:30:56",

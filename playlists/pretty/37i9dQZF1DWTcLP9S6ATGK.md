@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Geisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,549 likes - 99 songs - 6 hr 32 min
+[](https://open.spotify.com/user/null) - 155,554 likes - 99 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

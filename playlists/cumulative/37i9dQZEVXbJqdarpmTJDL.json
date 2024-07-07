@@ -17227,6 +17227,28 @@
     },
     {
       "album": {
+        "name": "KSANA",
+        "url": "https://open.spotify.com/album/5S9Qckpu5pJdznQEvPpuMM"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Kimi",
+          "url": "https://open.spotify.com/artist/6uhMFybh7MnkaBS2EgyzNw"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224864,
+      "name": "KSANA",
+      "url": "https://open.spotify.com/track/1uK6HOYuYystjc8n1FllwF"
+    },
+    {
+      "album": {
         "name": "Ksana",
         "url": "https://open.spotify.com/album/2tz2xEEbft5Z4PLAvODruR"
       },
@@ -19970,6 +19992,24 @@
       "duration_ms": 167307,
       "name": "MANY",
       "url": "https://open.spotify.com/track/2uEUc21j5vDuPeoebnH3gt"
+    },
+    {
+      "album": {
+        "name": "MAQUO",
+        "url": "https://open.spotify.com/album/7s4zPalLZZLVWyQXAsoAzb"
+      },
+      "artists": [
+        {
+          "name": "ATC Nico",
+          "url": "https://open.spotify.com/artist/1uENJBsvFjDUv7OrH3DaKR"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165937,
+      "name": "MAQUO",
+      "url": "https://open.spotify.com/track/1Cf69HHda0Tqd1IP8AHUAA"
     },
     {
       "album": {
@@ -32751,6 +32791,28 @@
     },
     {
       "album": {
+        "name": "Tipota Tiheo",
+        "url": "https://open.spotify.com/album/2vRFI2kSuYWDyLW9RKm5Aw"
+      },
+      "artists": [
+        {
+          "name": "Ioulia Kallimani",
+          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
+        },
+        {
+          "name": "Michael Touratzidis",
+          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167310,
+      "name": "Tipota Tiheo",
+      "url": "https://open.spotify.com/track/6ArqqI0uQLJ8Mgp3PiMexH"
+    },
+    {
+      "album": {
         "name": "TIRANA",
         "url": "https://open.spotify.com/album/1cM4UH9X81c2e6F8i4kIRf"
       },
@@ -33430,7 +33492,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
@@ -34606,7 +34668,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 181224,
       "name": "Valaoritou",
       "url": "https://open.spotify.com/track/1qnGRggChnWJ6FWM2FRL7n"
@@ -35722,7 +35784,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 206802,
       "name": "XADV",
       "url": "https://open.spotify.com/track/2f5yxc6MC191U7EALZugfi"

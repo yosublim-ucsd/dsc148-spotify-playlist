@@ -12504,7 +12504,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 152979,
       "name": "GIRLS",
       "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
@@ -20755,6 +20755,24 @@
     },
     {
       "album": {
+        "name": "SAD ROMANCE PT.1",
+        "url": "https://open.spotify.com/album/2GJqKh5nAW3FuRJouYilKU"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195471,
+      "name": "L\u00e4t dig g\u00e5",
+      "url": "https://open.spotify.com/track/1g40cny7c9aWjsdlzZYcxE"
+    },
+    {
+      "album": {
         "name": "L\u00e5nga V\u00e4gen Hem",
         "url": "https://open.spotify.com/album/7Gf6HcA5iAyaJVHvevrs84"
       },
@@ -23278,7 +23296,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 187797,
       "name": "Natthimlen",
       "url": "https://open.spotify.com/track/1ABS9QUpgdLMiNzEDiilAs"
@@ -33516,6 +33534,32 @@
       "duration_ms": 201059,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/4yLxjNDxhN4TMDRna9Mivg"
+    },
+    {
+      "album": {
+        "name": "Tobey (feat. Big Sean and BabyTron)",
+        "url": "https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284892,
+      "name": "Tobey (feat. Big Sean and BabyTron)",
+      "url": "https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW"
     },
     {
       "album": {

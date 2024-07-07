@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 57755,
+  "num_followers": 57798,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAADB4fqSXtJySyqHfH33Id3M",
+  "snapshot_id": "Zoc3gAAAAADkFyBSUuIJCf8obPgfluYN",
   "tracks": [
     {
       "added_at": null,
@@ -43,26 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Reca\u00edda en Los Excesos",
-        "url": "https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 183724,
-      "name": "Mi Reca\u00edda en Los Excesos",
-      "url": "https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -79,6 +59,26 @@
       "duration_ms": 155908,
       "name": "Que la Dejen Ir al Baile Sola",
       "url": "https://open.spotify.com/track/5QBiktcoDAKR4pK5yRmCRe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Reca\u00edda en Los Excesos",
+        "url": "https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 183724,
+      "name": "Mi Reca\u00edda en Los Excesos",
+      "url": "https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tambi\u00e9n De Los Ranchos Bajan",
-        "url": "https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "En Mil Pedazos",
-      "url": "https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
         "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
       },
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos Con Sax, Vol. 2",
-        "url": "https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht"
+        "name": "Tambi\u00e9n De Los Ranchos Bajan",
+        "url": "https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj"
       },
       "artists": [
         {
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 177733,
-      "name": "El Pavido Navido",
-      "url": "https://open.spotify.com/track/1xBF8Vx4S94Pvtbm3l71z7"
+      "duration_ms": 194146,
+      "name": "En Mil Pedazos",
+      "url": "https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
       "duration_ms": 178373,
       "name": "De Nada Sirvi\u00f3",
       "url": "https://open.spotify.com/track/26utHjizl63E8fLaTYtWf5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9xitos Con Sax, Vol. 2",
+        "url": "https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "El Pavido Navido",
+      "url": "https://open.spotify.com/track/1xBF8Vx4S94Pvtbm3l71z7"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Casita De Adobe",
-        "url": "https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "La Casita De Adobe",
-      "url": "https://open.spotify.com/track/2OCEVBnAtKJlwFqnOhPolb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Jefes",
         "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
       },
@@ -675,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+        "name": "La Casita De Adobe",
+        "url": "https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ"
       },
       "artists": [
         {
@@ -684,9 +668,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 199706,
-      "name": "Los Sauces Llorones",
-      "url": "https://open.spotify.com/track/1gQKLdg3OAADtn3H0Bu9J1"
+      "duration_ms": 191986,
+      "name": "La Casita De Adobe",
+      "url": "https://open.spotify.com/track/2OCEVBnAtKJlwFqnOhPolb"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
       "duration_ms": 198280,
       "name": "Entre La Vida Y La Muerte",
       "url": "https://open.spotify.com/track/4HZgxD2MQ8mWcmwhsLSMln"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 199706,
+      "name": "Los Sauces Llorones",
+      "url": "https://open.spotify.com/track/1gQKLdg3OAADtn3H0Bu9J1"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "Pero Mar\u00eda",
-      "url": "https://open.spotify.com/track/33qeDpeRoE4uUXCLK5JP7u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "12 Corridos",
         "url": "https://open.spotify.com/album/61Wgmeafpz6XHnIrYwsbh4"
       },
@@ -771,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las + Tocadas",
-        "url": "https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv"
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
       },
       "artists": [
         {
@@ -780,9 +764,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 180860,
-      "name": "El Corrido de Ramiro Quiroz",
-      "url": "https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W"
+      "duration_ms": 187400,
+      "name": "Pero Mar\u00eda",
+      "url": "https://open.spotify.com/track/33qeDpeRoE4uUXCLK5JP7u"
     },
     {
       "added_at": null,
@@ -803,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+        "name": "Las + Tocadas",
+        "url": "https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv"
       },
       "artists": [
         {
@@ -812,9 +796,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 162466,
-      "name": "Con el Brazo Derecho",
-      "url": "https://open.spotify.com/track/3mweaIKzhu8UYm6MzKYsu4"
+      "duration_ms": 180860,
+      "name": "El Corrido de Ramiro Quiroz",
+      "url": "https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W"
     },
     {
       "added_at": null,
@@ -831,6 +815,22 @@
       "duration_ms": 149560,
       "name": "Bajo Mil Llaves",
       "url": "https://open.spotify.com/track/7ym2izAqC0e5dQZolSVCLa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "Con el Brazo Derecho",
+      "url": "https://open.spotify.com/track/3mweaIKzhu8UYm6MzKYsu4"
     }
   ],
   "unique_name": "This Is Lalo Mora",

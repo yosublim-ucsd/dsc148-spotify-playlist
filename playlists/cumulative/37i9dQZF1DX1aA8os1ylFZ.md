@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1+1](https://open.spotify.com/track/2TtiDn0UNM0x5O6wvcd7Kt) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [1+1](https://open.spotify.com/album/6PGhknbHltteEYewVcwXx4) | 2:52 | 2023-04-06 | 2024-05-17 |
-| [10%](https://open.spotify.com/track/2WEgzFA8dSocpayQpNxcAZ) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [10%](https://open.spotify.com/album/5zlAwASkPnPzQv5edsDMJW) | 2:52 | 2024-05-27 |  |
+| [10%](https://open.spotify.com/track/2WEgzFA8dSocpayQpNxcAZ) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [10%](https://open.spotify.com/album/5zlAwASkPnPzQv5edsDMJW) | 2:51 | 2024-05-27 |  |
 | [10,000 Tears \(feat\. Ed Sheeran\)](https://open.spotify.com/track/1jVAfsSceuAQx7zgY76qDA) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Conflict Of Interest](https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4) | 4:34 | 2023-01-12 | 2023-05-13 |
 | [123](https://open.spotify.com/track/5dawpCCaji7L1oC3dOqoWb) | [Sky Feliz](https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O) | [123](https://open.spotify.com/album/4K4aJCHMBhW74pwTzp7tLk) | 2:38 | 2024-01-25 | 2024-03-22 |
 | [17 \(feat\. Giulia Be\)](https://open.spotify.com/track/6HzoyVSUu5MSYZikhYQ8u7) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [17 \(feat\. Giulia Be\)](https://open.spotify.com/album/4wDCjWGkL360hLUkiBadgC) | 2:40 | 2021-12-16 | 2022-01-21 |

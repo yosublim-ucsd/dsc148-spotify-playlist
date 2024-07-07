@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Nathália Braga, Midian Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,615 likes - 50 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,679 likes - 50 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 5 | [EGITO](https://open.spotify.com/track/2cZBpX5PIIwekpJntOqH2G) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [EGITO](https://open.spotify.com/album/2tk9gJlRGgqvZupDDiyahW) | 10:43 |
 | 6 | [És o Ar Que Eu Respiro \(Adoradores 5\) \- Ao Vivo](https://open.spotify.com/track/0bAdosuoQqqPlhKcEbUqef) | [Adoradores Novo Tempo](https://open.spotify.com/artist/7hD6B79Xy7AzjWPz0a5TaF), [Melissa Barcelos](https://open.spotify.com/artist/7IA37SdSZ1CegKmhRJU0DS), [Dilson e Débora](https://open.spotify.com/artist/3i21tba5PzQz8F5HuwyIHV), [Ronaldo Fagundes](https://open.spotify.com/artist/3k8WlBrUAmrPAAwGILLlMj) | [És o Ar Que Eu Respiro \(Adoradores 5\) \[Ao Vivo\]](https://open.spotify.com/album/0Xk6Kbm3BXOt6JfcwBpOsL) | 5:30 |
 | 7 | [Tempo](https://open.spotify.com/track/6TG34SALQ9xDWCMZ6TSU04) | [Duardin](https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95), [Sam Jay](https://open.spotify.com/artist/0WdMrPZ9RSL5fvkME6DtmM), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Tempo](https://open.spotify.com/album/2YuGDr5Id24co5B2yJvDQg) | 3:30 |
-| 8 | [Filho Pródigo / Aba \- Ao Vivo](https://open.spotify.com/track/0JJzcJvXx1WRHyUgda78IM) | [Edificando Adoradores](https://open.spotify.com/artist/6gMJxMyIgamvww0DeHJtvl), [Rafael Bicudo](https://open.spotify.com/artist/3zDpsfA6VCAiPIaNCGdKC7), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ) | [Filho Pródigo / Aba \(Ao Vivo\)](https://open.spotify.com/album/7xRIoVVoLhMXsSTXhyNnPx) | 11:02 |
+| 8 | [Filho Pródigo / Aba \- Ao Vivo](https://open.spotify.com/track/0JJzcJvXx1WRHyUgda78IM) | [Edificando Adoradores](https://open.spotify.com/artist/6gMJxMyIgamvww0DeHJtvl), [Rafael Bicudo](https://open.spotify.com/artist/61H5aPzbcBerqUNoHrckTC), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ) | [Filho Pródigo / Aba \(Ao Vivo\)](https://open.spotify.com/album/7xRIoVVoLhMXsSTXhyNnPx) | 11:02 |
 | 9 | [Acalma o Teu Coração](https://open.spotify.com/track/79NMaYmaUti29hVpB1na2i) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK), [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [Acalma o Teu Coração](https://open.spotify.com/album/3ow5ygWXAYsrgZ4a4qdeMn) | 4:10 |
 | 10 | [Vai Dar Tempo, Vai Dar Certo e Vai Ter Festa](https://open.spotify.com/track/5CeWqSYsDIFj56f45yBU33) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Vai Dar Tempo, Vai Dar Certo e Vai Ter Festa](https://open.spotify.com/album/50E3HpxrrCnKufDBgwkWgM) | 3:37 |
 | 11 | [YESHUA](https://open.spotify.com/track/5h5HpiAOJ5D4WYRIaxaPpF) | [Matheus Trindade](https://open.spotify.com/artist/0Ymz1ExCtpFOHsNDa5JeyL) | [YESHUA](https://open.spotify.com/album/4tqC4yFvzCtSojIYnRdLtx) | 5:45 |

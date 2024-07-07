@@ -1,6 +1,6 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Paloma Morphy",
-  "num_followers": 49636,
+  "num_followers": 49658,
   "original_name": "dreamy \u2728",
   "owner": {
     "name": "Spotify",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 180236,
+      "name": "2000nunca",
+      "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
         "name": "Lenguaje Universal",
         "url": "https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 180400,
       "name": "Lenguaje Universal",
       "url": "https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 180236,
-      "name": "2000nunca",
-      "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "los pies",
-        "url": "https://open.spotify.com/album/5DudjWk6xe6rJVTQpD2IIl"
-      },
-      "artists": [
-        {
-          "name": "Mina con N",
-          "url": "https://open.spotify.com/artist/1hFYEvNr5V7JBuqxznqpm7"
-        },
-        {
-          "name": "Lorenzo Engell",
-          "url": "https://open.spotify.com/artist/5w5VigociNIme6JiUUGkgN"
-        }
-      ],
-      "duration_ms": 186673,
-      "name": "los pies",
-      "url": "https://open.spotify.com/track/3hZ20RZMCSjJfRdoyUVncW"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Fantas\u00eda",
         "url": "https://open.spotify.com/album/3Yl0XPm4OntG2nmL9BqYbb"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 176679,
       "name": "Fantas\u00eda",
       "url": "https://open.spotify.com/track/2wzIkmA7ckiuwBfYFChacL"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "los pies",
+        "url": "https://open.spotify.com/album/5DudjWk6xe6rJVTQpD2IIl"
+      },
+      "artists": [
+        {
+          "name": "Mina con N",
+          "url": "https://open.spotify.com/artist/1hFYEvNr5V7JBuqxznqpm7"
+        },
+        {
+          "name": "Lorenzo Engell",
+          "url": "https://open.spotify.com/artist/5w5VigociNIme6JiUUGkgN"
+        }
+      ],
+      "duration_ms": 186673,
+      "name": "los pies",
+      "url": "https://open.spotify.com/track/3hZ20RZMCSjJfRdoyUVncW"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
+        "name": "cl\u00e1sico vol. 1",
+        "url": "https://open.spotify.com/album/2Wv1dTQ8dbxJTpC4IYRf6r"
+      },
+      "artists": [
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        }
+      ],
+      "duration_ms": 178541,
+      "name": "tus mensajes",
+      "url": "https://open.spotify.com/track/2fiIr0wRXwxWojsCDIsy6h"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
         "name": "lalalala",
         "url": "https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex"
       },
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "cl\u00e1sico vol. 1",
-        "url": "https://open.spotify.com/album/2Wv1dTQ8dbxJTpC4IYRf6r"
+        "name": "Amantes Astrales",
+        "url": "https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT"
       },
       "artists": [
         {
-          "name": "Noah Pino Palo",
-          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
         }
       ],
-      "duration_ms": 178541,
-      "name": "tus mensajes",
-      "url": "https://open.spotify.com/track/2fiIr0wRXwxWojsCDIsy6h"
+      "duration_ms": 183056,
+      "name": "Amantes Astrales",
+      "url": "https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1303,22 +1319,6 @@
       "duration_ms": 199668,
       "name": "\u00bfQu\u00e9 te falta?",
       "url": "https://open.spotify.com/track/6rJUYVdXXdlShGL0r9jOWg"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Amantes Astrales",
-        "url": "https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 183056,
-      "name": "Amantes Astrales",
-      "url": "https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA"
     }
   ],
   "unique_name": "dreamy \u2728",

@@ -2,7 +2,7 @@
 
 ### [This Is Shirley Caesar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO36yqJT)
 
-> This Is Shirley Caesar\. Los temas esenciales, todos en una lista.
+> This is Shirley Caesar\. The essential tracks, all in one playlist.
 
 81 songs - 6 hr 1 min
 
@@ -27,7 +27,7 @@
 | [Go](https://open.spotify.com/track/69m7r5zILyhcRYxvLDTcsl) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:52 | 2023-05-12 |  |
 | [God Will Make A Way](https://open.spotify.com/track/0OYXtAe3OZkq2XpYeDid2n) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Good God](https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt) | 4:49 | 2024-01-10 |  |
 | [God Will Make A Way](https://open.spotify.com/track/2Jy9lryBk79K118gJ9n1QQ) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Good God](https://open.spotify.com/album/0QxY4kLxoYjExBpl1Hzp60) | 4:49 | 2023-05-12 | 2024-01-11 |
-| [God Will Take Care of You](https://open.spotify.com/track/3L5ustG2wgnfwvNdwKrc5H) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 1:58 | 2023-05-12 |  |
+| [God Will Take Care of You](https://open.spotify.com/track/3L5ustG2wgnfwvNdwKrc5H) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 1:58 | 2023-05-12 | 2024-07-07 |
 | [Good God](https://open.spotify.com/track/3G44iMDHusN8H9kcaXHXVS) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [The Thompson Community Singers](https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI) | [Good God](https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt) | 5:54 | 2024-03-08 |  |
 | [He'll Do It Again](https://open.spotify.com/track/054nuYMIq228KvP0jUvr8a) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 4:40 | 2023-05-12 |  |
 | [He's Got It All In Control](https://open.spotify.com/track/2q9iUw2ZI5krPylceEl9Bl) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Rejoice](https://open.spotify.com/album/62qUV1EdZM75Py1OVf50BR) | 3:20 | 2023-05-12 |  |
@@ -77,7 +77,7 @@
 | [The Lord Will Make a Way](https://open.spotify.com/track/6v4owQIaYIlZ4MVAdpcsC2) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:40 | 2023-05-12 |  |
 | [The Stone](https://open.spotify.com/track/2byQq9uYgH0otzE0NXICBu) | [Ann Nesby](https://open.spotify.com/artist/6hIILipyNOmswy0IdWHx7b), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Fighting Temptations \(Music From The Motion Picture\)](https://open.spotify.com/album/3w4b3oRDOCFaig5HfSLRmq) | 1:53 | 2024-05-03 | 2024-05-27 |
 | [The World Didn't Give It to Me](https://open.spotify.com/track/1I341GhDAnOmIa3NalRlff) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 5:06 | 2023-05-12 |  |
-| [There Is Power in the Blood](https://open.spotify.com/track/6DNpzYsh4UzvHlnUwMa0Ks) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 2:58 | 2023-09-25 | 2024-07-06 |
+| [There Is Power in the Blood](https://open.spotify.com/track/6DNpzYsh4UzvHlnUwMa0Ks) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 2:58 | 2023-09-25 |  |
 | [This Is My Prayer](https://open.spotify.com/track/4MCGM8Symn7QTUi51R7OAY) | [Charles Jenkins & Fellowship Chicago](https://open.spotify.com/artist/2jqLJvBYhbA8qNe37kbSaU), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Praise Party, Volume 1](https://open.spotify.com/album/1oBDxwqNSZM3G2PLdQvSyC) | 4:23 | 2024-04-19 |  |
 | [Tithes and Offerings \- Live](https://open.spotify.com/track/2s2SNAPBxC4TnxTVt60xIC) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar Live ...He Will Come](https://open.spotify.com/album/5a9DMGSMyl2Kq4GISbQQgp) | 5:24 | 2023-06-02 | 2023-06-16 |
 | [U Name It Holiday Anthem](https://open.spotify.com/track/2uNoV93jYDQgOmYP8VS92M) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [DJ Battlecat](https://open.spotify.com/artist/0oywmZ7vl6A3bQPTsN66Rm), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [U Name It Holiday Anthem](https://open.spotify.com/album/3DffNWg9Aoc3ACYxCbpf7X) | 2:51 | 2023-12-20 | 2024-01-18 |

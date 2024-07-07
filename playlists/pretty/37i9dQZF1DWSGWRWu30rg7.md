@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  SAÈ
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,543 likes - 77 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,541 likes - 77 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 6 | [bila](https://open.spotify.com/track/6gHh6SMnCRxLwpDDD7zTqW) | [Amis](https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V) | [Filosofi Males](https://open.spotify.com/album/3RiYb3auIbLVAo8E38mLq8) | 3:32 |
 | 7 | [Untukmu](https://open.spotify.com/track/2LUBuAQHbXYet792SqD1L5) | [Danyannisa](https://open.spotify.com/artist/2AWnRV889vjq7HLW6kEOVW) | [Untukmu](https://open.spotify.com/album/0NaEN66fsELpbLDHg7Spnp) | 3:03 |
 | 8 | [Twenty Five](https://open.spotify.com/track/7ePuvg3tvenUr0a054Nfmf) | [Farhan Hafizhan](https://open.spotify.com/artist/3BrsIi7Djd56vpSq6Zw8pK) | [Twenty Five](https://open.spotify.com/album/0maHKe3I8KVa33L4vJfbQP) | 3:35 |
-| 9 | [Teman Biasa](https://open.spotify.com/track/0Xp8IA1m26qmkD5s10l0kY) | [Single Season](https://open.spotify.com/artist/6o7w79vv5oOl4yu4VRNF6z) | [Teman Biasa](https://open.spotify.com/album/3HzwayVEbvEFchfadDedWh) | 4:27 |
+| 9 | [Teman Biasa](https://open.spotify.com/track/0Xp8IA1m26qmkD5s10l0kY) | [Single Season](https://open.spotify.com/artist/0RZVavGo94qgo6HfBz7D8D) | [Teman Biasa](https://open.spotify.com/album/3HzwayVEbvEFchfadDedWh) | 4:27 |
 | 10 | [KU KIRA MIMPI \- Acoustic](https://open.spotify.com/track/1mM0TKMIRegJ5iPlnElRqD) | [Dodit Mulyanto](https://open.spotify.com/artist/36nP5stOdMeppSTe9iLuFr) | [KU KIRA MIMPI \(Acoustic\)](https://open.spotify.com/album/2iLl22MADEcl84tNIixuMm) | 3:49 |
 | 11 | [Loop of Existence](https://open.spotify.com/track/2fJFLGF9W5xnrcYBJXMok1) | [Chriselda](https://open.spotify.com/artist/2U9rPOlR5Osiq6sRuL0dSr) | [Loop of Existence](https://open.spotify.com/album/4Br3lwgf2ugrjkZ6xuA233) | 2:44 |
 | 12 | [Contemplation, Pt\. 1](https://open.spotify.com/track/4Vo45D4lMsLv60JoSWeMoY) | [Mad Madmen](https://open.spotify.com/artist/6J53OmVP9ZU5yp72SaeG0b), [Afirniar Mutsrin](https://open.spotify.com/artist/39bo1HVsRhevqRRCVxkMDB) | [In With The Out, Old With The New, Vol\. 2](https://open.spotify.com/album/0NXZnpIolPwpUlAY9wc2EX) | 4:44 |

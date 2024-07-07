@@ -1,6 +1,6 @@
 {
   "description": "Deja que tu coraz\u00f3n se rinda ante la m\u00fasica rom\u00e1ntica de anta\u00f1o.",
-  "num_followers": 572390,
+  "num_followers": 572498,
   "original_name": "Boleros",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "Serenatas",
-        "url": "https://open.spotify.com/album/1oicodhgjKkt5YJ9KfLckQ"
-      },
-      "artists": [
-        {
-          "name": "Trio Hermanos Michel",
-          "url": "https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Luna de octubre",
-      "url": "https://open.spotify.com/track/4xlOFHiMUTWNYqUopID8fN"
-    },
-    {
-      "added_at": "2024-02-22 23:51:20",
-      "album": {
         "name": "RCA 100 A\u00f1os de M\u00fasica",
         "url": "https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 180840,
       "name": "Cha Cha Linda",
       "url": "https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri"
+    },
+    {
+      "added_at": "2024-02-22 23:51:20",
+      "album": {
+        "name": "Serenatas",
+        "url": "https://open.spotify.com/album/1oicodhgjKkt5YJ9KfLckQ"
+      },
+      "artists": [
+        {
+          "name": "Trio Hermanos Michel",
+          "url": "https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Luna de octubre",
+      "url": "https://open.spotify.com/track/4xlOFHiMUTWNYqUopID8fN"
     },
     {
       "added_at": "2024-02-22 23:51:20",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/5yvprimCRB7yzllST3sJRO"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "\u00bfC\u00f3mo Fue?",
-      "url": "https://open.spotify.com/track/5vEopnR9F4viOgBg0agaOD"
-    },
-    {
-      "added_at": "2024-02-22 23:51:20",
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 120061,
       "name": "Quiero Conocerte",
       "url": "https://open.spotify.com/track/0UaLz8op9qrew1xOa3vtpf"
+    },
+    {
+      "added_at": "2024-02-22 23:51:20",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/5yvprimCRB7yzllST3sJRO"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "\u00bfC\u00f3mo Fue?",
+      "url": "https://open.spotify.com/track/5vEopnR9F4viOgBg0agaOD"
     },
     {
       "added_at": "2024-02-22 23:51:20",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 Inolvidables",
-        "url": "https://open.spotify.com/album/6NQaVDESoAu9IPRD8z9SPO"
-      },
-      "artists": [
-        {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
-        }
-      ],
-      "duration_ms": 176906,
-      "name": "Sortilegio",
-      "url": "https://open.spotify.com/track/0MV5NacynjQkSro73OCLx8"
-    },
-    {
-      "added_at": "2024-02-22 23:51:20",
-      "album": {
         "name": "Adoro",
         "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 145750,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
+    },
+    {
+      "added_at": "2024-02-22 23:51:20",
+      "album": {
+        "name": "Frente A Frente",
+        "url": "https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN"
+      },
+      "artists": [
+        {
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3"
     },
     {
       "added_at": "2024-02-22 23:51:20",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "Llevatela",
-        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
-      },
-      "artists": [
-        {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Llevatela",
-      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
-    },
-    {
-      "added_at": "2024-02-22 23:51:20",
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 134113,
       "name": "Querida Amiga",
       "url": "https://open.spotify.com/track/4QOAWEwpQQLTh7lcjZPQ3k"
+    },
+    {
+      "added_at": "2024-02-22 23:51:20",
+      "album": {
+        "name": "Llevatela",
+        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
+      },
+      "artists": [
+        {
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Llevatela",
+      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
     },
     {
       "added_at": "2024-02-22 23:51:20",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "Frente A Frente",
-        "url": "https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN"
-      },
-      "artists": [
-        {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3"
-    },
-    {
-      "added_at": "2024-02-22 23:51:20",
-      "album": {
         "name": "El Alma en Los Labios",
         "url": "https://open.spotify.com/album/1qkPIJnQy21i1y8U9reW0z"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
+        "name": "Peerless 80 Aniversario - 24 Inolvidables",
+        "url": "https://open.spotify.com/album/6NQaVDESoAu9IPRD8z9SPO"
+      },
+      "artists": [
+        {
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+        }
+      ],
+      "duration_ms": 176906,
+      "name": "Sortilegio",
+      "url": "https://open.spotify.com/track/0MV5NacynjQkSro73OCLx8"
+    },
+    {
+      "added_at": "2024-02-22 23:51:20",
+      "album": {
         "name": "Cuando Te Duermas",
         "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 162927,
       "name": "Cuando Te Duermas",
       "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
-    },
-    {
-      "added_at": "2024-02-22 23:51:20",
-      "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
-      },
-      "artists": [
-        {
-          "name": "Bienvenido Granda",
-          "url": "https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4"
-        }
-      ],
-      "duration_ms": 165320,
-      "name": "A La Orilla Del Mar",
-      "url": "https://open.spotify.com/track/50wL5KcfCauBnlOJ4z4hlL"
     },
     {
       "added_at": "2024-02-22 23:51:20",
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "Antonio Badu/Claudio Estrada - Dos Bohemios Romanticos",
-        "url": "https://open.spotify.com/album/0asR4PcGxIQOxjnq5aaekQ"
+        "name": "Las Estrellas De La Matancera",
+        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
       },
       "artists": [
         {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+          "name": "Bienvenido Granda",
+          "url": "https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4"
         }
       ],
-      "duration_ms": 153946,
-      "name": "Estoy Enamorado",
-      "url": "https://open.spotify.com/track/3Wu69KbLFXHK2g0fiA0MZR"
+      "duration_ms": 165320,
+      "name": "A La Orilla Del Mar",
+      "url": "https://open.spotify.com/track/50wL5KcfCauBnlOJ4z4hlL"
     },
     {
       "added_at": "2024-02-22 23:51:20",
@@ -1343,6 +1327,54 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
+        "name": "Antonio Badu/Claudio Estrada - Dos Bohemios Romanticos",
+        "url": "https://open.spotify.com/album/0asR4PcGxIQOxjnq5aaekQ"
+      },
+      "artists": [
+        {
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Estoy Enamorado",
+      "url": "https://open.spotify.com/track/3Wu69KbLFXHK2g0fiA0MZR"
+    },
+    {
+      "added_at": "2024-02-22 23:51:20",
+      "album": {
+        "name": "Toda Esta Gente",
+        "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "Toda Esta Gente",
+      "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
+    },
+    {
+      "added_at": "2024-02-22 23:51:20",
+      "album": {
+        "name": "Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 152874,
+      "name": "Te Extran\u0303o",
+      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
+    },
+    {
+      "added_at": "2024-02-22 23:51:20",
+      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -1371,38 +1403,6 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "Te Extra\u00f1o",
-        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 152874,
-      "name": "Te Extran\u0303o",
-      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
-    },
-    {
-      "added_at": "2024-02-22 23:51:20",
-      "album": {
-        "name": "Toda Esta Gente",
-        "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
-      },
-      "artists": [
-        {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "Toda Esta Gente",
-      "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
-    },
-    {
-      "added_at": "2024-02-22 23:51:20",
-      "album": {
         "name": "Guitarras Latinas",
         "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
@@ -1419,6 +1419,22 @@
       "duration_ms": 175356,
       "name": "La Morena",
       "url": "https://open.spotify.com/track/548xag3N1RRqouKbnrkCex"
+    },
+    {
+      "added_at": "2024-02-22 23:51:20",
+      "album": {
+        "name": "Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici",
+        "url": "https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe"
+      },
+      "artists": [
+        {
+          "name": "Virginia Lopez",
+          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
+        }
+      ],
+      "duration_ms": 153253,
+      "name": "Cari\u00f1ito Azucarado",
+      "url": "https://open.spotify.com/track/0jI1SHJ4P9m5T3w4hSy8Kd"
     },
     {
       "added_at": "2024-02-22 23:51:20",
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici",
-        "url": "https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe"
-      },
-      "artists": [
-        {
-          "name": "Virginia Lopez",
-          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
-        }
-      ],
-      "duration_ms": 153253,
-      "name": "Cari\u00f1ito Azucarado",
-      "url": "https://open.spotify.com/track/0jI1SHJ4P9m5T3w4hSy8Kd"
-    },
-    {
-      "added_at": "2024-02-22 23:51:20",
-      "album": {
         "name": "Ya Te Olvide",
         "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
       },
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "Parece Que Fue Ayer",
-        "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
+        "name": "Pensamiento",
+        "url": "https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F"
       },
       "artists": [
         {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+          "name": "Las Almas Nuevas",
+          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
         }
       ],
-      "duration_ms": 168250,
-      "name": "Parece Que Fue Ayer",
-      "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
+      "duration_ms": 136000,
+      "name": "Pensamiento",
+      "url": "https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE"
     },
     {
       "added_at": "2024-02-22 23:51:20",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "Pensamiento",
-        "url": "https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F"
+        "name": "Parece Que Fue Ayer",
+        "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
       },
       "artists": [
         {
-          "name": "Las Almas Nuevas",
-          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Pensamiento",
-      "url": "https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE"
+      "duration_ms": 168250,
+      "name": "Parece Que Fue Ayer",
+      "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
     },
     {
       "added_at": "2024-02-22 23:51:20",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 Inolvidables",
-        "url": "https://open.spotify.com/album/6NQaVDESoAu9IPRD8z9SPO"
-      },
-      "artists": [
-        {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
-        }
-      ],
-      "duration_ms": 171973,
-      "name": "As de corazones",
-      "url": "https://open.spotify.com/track/2FDxVkfyoolaz19xOwCsW9"
-    },
-    {
-      "added_at": "2024-02-22 23:51:20",
-      "album": {
         "name": "Perdoname",
         "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 144194,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
+    },
+    {
+      "added_at": "2024-02-22 23:51:20",
+      "album": {
+        "name": "Peerless 80 Aniversario - 24 Inolvidables",
+        "url": "https://open.spotify.com/album/6NQaVDESoAu9IPRD8z9SPO"
+      },
+      "artists": [
+        {
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "As de corazones",
+      "url": "https://open.spotify.com/track/2FDxVkfyoolaz19xOwCsW9"
     },
     {
       "added_at": "2024-02-22 23:51:20",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
-      },
-      "artists": [
-        {
-          "name": "Bienvenido Granda",
-          "url": "https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4"
-        }
-      ],
-      "duration_ms": 166120,
-      "name": "Micaela",
-      "url": "https://open.spotify.com/track/5X65gbISpAQs5W1woDdD6X"
-    },
-    {
-      "added_at": "2024-02-22 23:51:20",
-      "album": {
         "name": "Son Inolvidables: Cheo Feliciano y la R. Venezolana",
         "url": "https://open.spotify.com/album/1mKna9IG2BJoMxsEZJveI0"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 193946,
       "name": "Me Dices Que Te Vas",
       "url": "https://open.spotify.com/track/5N5B2DAZbvZcX67yKgUm1V"
+    },
+    {
+      "added_at": "2024-02-22 23:51:20",
+      "album": {
+        "name": "Las Estrellas De La Matancera",
+        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
+      },
+      "artists": [
+        {
+          "name": "Bienvenido Granda",
+          "url": "https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4"
+        }
+      ],
+      "duration_ms": 166120,
+      "name": "Micaela",
+      "url": "https://open.spotify.com/track/5X65gbISpAQs5W1woDdD6X"
     },
     {
       "added_at": "2024-02-22 23:51:20",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "Hip\u00f3crita y Otros \u00c9xitos de Fernando Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/54UtU7kuWdd7kEb6VYl0SX"
-      },
-      "artists": [
-        {
-          "name": "Fernando Fernandez",
-          "url": "https://open.spotify.com/artist/5c1i7WEYcHjAGxDQMYSWkS"
-        }
-      ],
-      "duration_ms": 185146,
-      "name": "Callejera",
-      "url": "https://open.spotify.com/track/7rhOOvhCzR0Rc8n5Vs1grg"
-    },
-    {
-      "added_at": "2024-02-22 23:51:20",
-      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/3P8U9V1pkElU1K7uNgi9aG"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 164960,
       "name": "Se Me Olvid\u00f3 Tu Nombre",
       "url": "https://open.spotify.com/track/0CQemGuwQ6oLzaEbIEP8zl"
+    },
+    {
+      "added_at": "2024-02-22 23:51:20",
+      "album": {
+        "name": "Hip\u00f3crita y Otros \u00c9xitos de Fernando Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/54UtU7kuWdd7kEb6VYl0SX"
+      },
+      "artists": [
+        {
+          "name": "Fernando Fernandez",
+          "url": "https://open.spotify.com/artist/5c1i7WEYcHjAGxDQMYSWkS"
+        }
+      ],
+      "duration_ms": 185146,
+      "name": "Callejera",
+      "url": "https://open.spotify.com/track/7rhOOvhCzR0Rc8n5Vs1grg"
     },
     {
       "added_at": "2024-02-22 23:51:20",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "Un Coraz\u00f3n y Otros \u00c9xitos Rom\u00e1nticos",
-        "url": "https://open.spotify.com/album/4NGs9444ruo2dE1XG1t3xJ"
-      },
-      "artists": [
-        {
-          "name": "Fernando Fernandez",
-          "url": "https://open.spotify.com/artist/5c1i7WEYcHjAGxDQMYSWkS"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "El Plebeyo",
-      "url": "https://open.spotify.com/track/4UNgRsK7rnNcAHDMFsJt8M"
-    },
-    {
-      "added_at": "2024-02-22 23:51:20",
-      "album": {
         "name": "Virginia en Puerto Rico",
         "url": "https://open.spotify.com/album/4Q42njYda9F2GpnZHqY7yS"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 189760,
       "name": "El Emigrante - Remastered",
       "url": "https://open.spotify.com/track/0H7VU63w7ZpetCxhfZj7h5"
+    },
+    {
+      "added_at": "2024-02-22 23:51:20",
+      "album": {
+        "name": "Un Coraz\u00f3n y Otros \u00c9xitos Rom\u00e1nticos",
+        "url": "https://open.spotify.com/album/4NGs9444ruo2dE1XG1t3xJ"
+      },
+      "artists": [
+        {
+          "name": "Fernando Fernandez",
+          "url": "https://open.spotify.com/artist/5c1i7WEYcHjAGxDQMYSWkS"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "El Plebeyo",
+      "url": "https://open.spotify.com/track/4UNgRsK7rnNcAHDMFsJt8M"
     },
     {
       "added_at": "2024-02-22 23:51:20",
@@ -2315,38 +2315,6 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "Los Tecolines - Bolero Romantico",
-        "url": "https://open.spotify.com/album/4EQ17OKhifC7CcFgxA35Bg"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Prisionero del mar",
-      "url": "https://open.spotify.com/track/5ugnbcGftW1mFkBgulO065"
-    },
-    {
-      "added_at": "2024-02-22 23:51:20",
-      "album": {
-        "name": "XEW La Voz de America Latina \"Los Precursores\"",
-        "url": "https://open.spotify.com/album/2w6O8F61KVgHmeup1qLKWS"
-      },
-      "artists": [
-        {
-          "name": "Dr. Alfonso Ort\u00edz Tirado",
-          "url": "https://open.spotify.com/artist/3hlOljYjVCom3YivKRP9Oq"
-        }
-      ],
-      "duration_ms": 164120,
-      "name": "Ojos tapat\u00edos",
-      "url": "https://open.spotify.com/track/1L6lPhRYZX62EoQz2BeE76"
-    },
-    {
-      "added_at": "2024-02-22 23:51:20",
-      "album": {
         "name": "20 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1ljIHA2RiMfQYYNYDRK4D6"
       },
@@ -2367,6 +2335,38 @@
       "duration_ms": 225426,
       "name": "Vereda Tropical",
       "url": "https://open.spotify.com/track/16INyCMOhN3ujAHUMeputd"
+    },
+    {
+      "added_at": "2024-02-22 23:51:20",
+      "album": {
+        "name": "XEW La Voz de America Latina \"Los Precursores\"",
+        "url": "https://open.spotify.com/album/2w6O8F61KVgHmeup1qLKWS"
+      },
+      "artists": [
+        {
+          "name": "Dr. Alfonso Ort\u00edz Tirado",
+          "url": "https://open.spotify.com/artist/3hlOljYjVCom3YivKRP9Oq"
+        }
+      ],
+      "duration_ms": 164120,
+      "name": "Ojos tapat\u00edos",
+      "url": "https://open.spotify.com/track/1L6lPhRYZX62EoQz2BeE76"
+    },
+    {
+      "added_at": "2024-02-22 23:51:20",
+      "album": {
+        "name": "Los Tecolines - Bolero Romantico",
+        "url": "https://open.spotify.com/album/4EQ17OKhifC7CcFgxA35Bg"
+      },
+      "artists": [
+        {
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+        }
+      ],
+      "duration_ms": 183560,
+      "name": "Prisionero del mar",
+      "url": "https://open.spotify.com/track/5ugnbcGftW1mFkBgulO065"
     },
     {
       "added_at": "2024-02-22 23:51:20",
@@ -2435,18 +2435,18 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "Ibrahim Ferrer (Buena Vista Social Club presents)",
-        "url": "https://open.spotify.com/album/27HNh1cyB39ERqdpSjM2i1"
+        "name": "Los Tecolines - Bolero Romantico",
+        "url": "https://open.spotify.com/album/4EQ17OKhifC7CcFgxA35Bg"
       },
       "artists": [
         {
-          "name": "Ibrahim Ferrer",
-          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
         }
       ],
-      "duration_ms": 278640,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/00wSD5E1UWPf63ZG78Lfx3"
+      "duration_ms": 181933,
+      "name": "Cerezo Rosa",
+      "url": "https://open.spotify.com/track/3JNIsOyZSwm9ebcm4werBt"
     },
     {
       "added_at": "2024-02-22 23:51:20",
@@ -2467,18 +2467,18 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "Olga Guillot",
-        "url": "https://open.spotify.com/album/5hz4nQZDlfodcDuV47cRnc"
+        "name": "Ibrahim Ferrer (Buena Vista Social Club presents)",
+        "url": "https://open.spotify.com/album/27HNh1cyB39ERqdpSjM2i1"
       },
       "artists": [
         {
-          "name": "Olga Guillot",
-          "url": "https://open.spotify.com/artist/2RDV6sncQWynJFH5JUoCfJ"
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
         }
       ],
-      "duration_ms": 171607,
-      "name": "Lagrimas Negras",
-      "url": "https://open.spotify.com/track/3Mevw4GIzqLJXM0fCLjHjn"
+      "duration_ms": 278640,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/00wSD5E1UWPf63ZG78Lfx3"
     },
     {
       "added_at": "2024-02-22 23:51:20",
@@ -2499,18 +2499,18 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "Los Tecolines - Bolero Romantico",
-        "url": "https://open.spotify.com/album/4EQ17OKhifC7CcFgxA35Bg"
+        "name": "Olga Guillot",
+        "url": "https://open.spotify.com/album/5hz4nQZDlfodcDuV47cRnc"
       },
       "artists": [
         {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+          "name": "Olga Guillot",
+          "url": "https://open.spotify.com/artist/2RDV6sncQWynJFH5JUoCfJ"
         }
       ],
-      "duration_ms": 181933,
-      "name": "Cerezo Rosa",
-      "url": "https://open.spotify.com/track/3JNIsOyZSwm9ebcm4werBt"
+      "duration_ms": 171607,
+      "name": "Lagrimas Negras",
+      "url": "https://open.spotify.com/track/3Mevw4GIzqLJXM0fCLjHjn"
     },
     {
       "added_at": "2024-02-22 23:51:20",
@@ -2531,18 +2531,18 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "Ibrahim Ferrer (Buena Vista Social Club presents)",
-        "url": "https://open.spotify.com/album/27HNh1cyB39ERqdpSjM2i1"
+        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/14IVwO0ZopBuaLEupTFx4O"
       },
       "artists": [
         {
-          "name": "Ibrahim Ferrer",
-          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
         }
       ],
-      "duration_ms": 294293,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/340Qeg5Z8kGkMlJ8u6DL4D"
+      "duration_ms": 237000,
+      "name": "La Sitiera",
+      "url": "https://open.spotify.com/track/4rMAQCWxtsNbPII2ias4wk"
     },
     {
       "added_at": "2024-02-22 23:51:20",
@@ -2563,18 +2563,18 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/14IVwO0ZopBuaLEupTFx4O"
+        "name": "Trio Delfines",
+        "url": "https://open.spotify.com/album/3n8ERMrAvGUuzCQAde0kAY"
       },
       "artists": [
         {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+          "name": "Trio Delfines",
+          "url": "https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm"
         }
       ],
-      "duration_ms": 237000,
-      "name": "La Sitiera",
-      "url": "https://open.spotify.com/track/4rMAQCWxtsNbPII2ias4wk"
+      "duration_ms": 165186,
+      "name": "Candilejas",
+      "url": "https://open.spotify.com/track/1Dz1Gm0rHJVptuf6JO6dEJ"
     },
     {
       "added_at": "2024-02-22 23:51:20",
@@ -2595,22 +2595,6 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "Trio Delfines",
-        "url": "https://open.spotify.com/album/3n8ERMrAvGUuzCQAde0kAY"
-      },
-      "artists": [
-        {
-          "name": "Trio Delfines",
-          "url": "https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm"
-        }
-      ],
-      "duration_ms": 165186,
-      "name": "Candilejas",
-      "url": "https://open.spotify.com/track/1Dz1Gm0rHJVptuf6JO6dEJ"
-    },
-    {
-      "added_at": "2024-02-22 23:51:20",
-      "album": {
         "name": "15 Inolvidables Exitos",
         "url": "https://open.spotify.com/album/4QDmGzIIdGibZKrxbUfeDm"
       },
@@ -2623,6 +2607,22 @@
       "duration_ms": 193619,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/0lQU56BKMYPNugZD74Oe4x"
+    },
+    {
+      "added_at": "2024-02-22 23:51:20",
+      "album": {
+        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/14IVwO0ZopBuaLEupTFx4O"
+      },
+      "artists": [
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "He Perdido Contigo",
+      "url": "https://open.spotify.com/track/2HR8QK0rG0gBBQwY3THWVh"
     },
     {
       "added_at": "2024-02-22 23:51:20",
@@ -2643,18 +2643,18 @@
     {
       "added_at": "2024-02-22 23:51:20",
       "album": {
-        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/14IVwO0ZopBuaLEupTFx4O"
+        "name": "Ibrahim Ferrer (Buena Vista Social Club presents)",
+        "url": "https://open.spotify.com/album/27HNh1cyB39ERqdpSjM2i1"
       },
       "artists": [
         {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
         }
       ],
-      "duration_ms": 229426,
-      "name": "He Perdido Contigo",
-      "url": "https://open.spotify.com/track/2HR8QK0rG0gBBQwY3THWVh"
+      "duration_ms": 294293,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/340Qeg5Z8kGkMlJ8u6DL4D"
     },
     {
       "added_at": "2024-02-22 23:51:20",

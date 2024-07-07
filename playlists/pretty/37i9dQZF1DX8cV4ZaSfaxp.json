@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 52658,
+  "num_followers": 52674,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-07-05 06:30:43",
       "album": {
-        "name": "City Drive",
-        "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
-      },
-      "artists": [
-        {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
-        }
-      ],
-      "duration_ms": 207888,
-      "name": "City Drive",
-      "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
-    },
-    {
-      "added_at": "2024-07-05 06:30:43",
-      "album": {
         "name": "Elastic Love",
         "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 218880,
       "name": "Elastic Love",
       "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
+    },
+    {
+      "added_at": "2024-07-05 06:30:43",
+      "album": {
+        "name": "City Drive",
+        "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
+      },
+      "artists": [
+        {
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+        }
+      ],
+      "duration_ms": 207888,
+      "name": "City Drive",
+      "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
     },
     {
       "added_at": "2024-07-05 06:30:43",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-07-05 06:30:43",
       "album": {
-        "name": "Sorrow",
-        "url": "https://open.spotify.com/album/4j7fShY9MfyKPgq5czbii0"
-      },
-      "artists": [
-        {
-          "name": "kursor",
-          "url": "https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR"
-        }
-      ],
-      "duration_ms": 208085,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/0XwGln1yachgJd8PMrfzZ5"
-    },
-    {
-      "added_at": "2024-07-05 06:30:43",
-      "album": {
         "name": "\uc5b4\ub9b0\uc655\uc790 The Little Prince - The 1st Mini Album",
         "url": "https://open.spotify.com/album/6I6CK3eLNgufEnfz7Se93z"
       },
@@ -1095,18 +1079,34 @@
     {
       "added_at": "2024-07-05 06:30:43",
       "album": {
-        "name": "<K>",
-        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/4j7fShY9MfyKPgq5czbii0"
       },
       "artists": [
         {
-          "name": "HeeJin",
-          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
+          "name": "kursor",
+          "url": "https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR"
         }
       ],
-      "duration_ms": 188320,
-      "name": "Algorithm",
-      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
+      "duration_ms": 208085,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/0XwGln1yachgJd8PMrfzZ5"
+    },
+    {
+      "added_at": "2024-07-05 06:30:43",
+      "album": {
+        "name": "Rainbow note",
+        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
+      },
+      "artists": [
+        {
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+        }
+      ],
+      "duration_ms": 283493,
+      "name": "Memories of Summer",
+      "url": "https://open.spotify.com/track/0g0xDwm7qx1zqV0KDQCjr4"
     },
     {
       "added_at": "2024-07-05 06:30:43",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-07-05 06:30:43",
       "album": {
-        "name": "Rainbow note",
-        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
+        "name": "<K>",
+        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
       },
       "artists": [
         {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+          "name": "HeeJin",
+          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
         }
       ],
-      "duration_ms": 283493,
-      "name": "Memories of Summer",
-      "url": "https://open.spotify.com/track/0g0xDwm7qx1zqV0KDQCjr4"
+      "duration_ms": 188320,
+      "name": "Algorithm",
+      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
     },
     {
       "added_at": "2024-07-05 06:30:43",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-07-05 06:30:43",
       "album": {
+        "name": "Rainbow note",
+        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
+      },
+      "artists": [
+        {
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+        }
+      ],
+      "duration_ms": 197648,
+      "name": "Line 1",
+      "url": "https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE"
+    },
+    {
+      "added_at": "2024-07-05 06:30:43",
+      "album": {
         "name": "Drive Thru",
         "url": "https://open.spotify.com/album/4kzzDbJLtozPPuBgpdqEMH"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 194266,
       "name": "Desire (Feat. \uc815\uc9c4\ud615, Vince)",
       "url": "https://open.spotify.com/track/0sMSGLrwt5KFttn3ksv8CK"
-    },
-    {
-      "added_at": "2024-07-05 06:30:43",
-      "album": {
-        "name": "Rainbow note",
-        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
-      },
-      "artists": [
-        {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
-        }
-      ],
-      "duration_ms": 197648,
-      "name": "Line 1",
-      "url": "https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE"
     },
     {
       "added_at": "2024-07-05 06:30:43",

@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 58807,
+  "num_followers": 58909,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-06-13 23:00:00",
       "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
+      },
+      "artists": [
+        {
+          "name": "DJ Odyccy",
+          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
+        }
+      ],
+      "duration_ms": 419465,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
+    },
+    {
+      "added_at": "2024-06-13 23:00:00",
+      "album": {
         "name": "Bruno & The Birds",
         "url": "https://open.spotify.com/album/5ssOVy0sVJdr9CZGYFJFQD"
       },
@@ -403,18 +419,18 @@
     {
       "added_at": "2024-06-13 23:00:00",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
+        "name": "4 The Wolves",
+        "url": "https://open.spotify.com/album/2L7bxv0WicWk3VD9UxzggR"
       },
       "artists": [
         {
-          "name": "DJ Odyccy",
-          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
+          "name": "!Sooks",
+          "url": "https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI"
         }
       ],
-      "duration_ms": 419465,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
+      "duration_ms": 521682,
+      "name": "Eyesolation",
+      "url": "https://open.spotify.com/track/0JF4uuEeEaAQYTVZ9jv2Zg"
     },
     {
       "added_at": "2024-06-13 23:00:00",
@@ -435,22 +451,6 @@
       "duration_ms": 384124,
       "name": "So Long",
       "url": "https://open.spotify.com/track/2gP68X8AomYum6NvnbH4sW"
-    },
-    {
-      "added_at": "2024-06-13 23:00:00",
-      "album": {
-        "name": "4 The Wolves",
-        "url": "https://open.spotify.com/album/2L7bxv0WicWk3VD9UxzggR"
-      },
-      "artists": [
-        {
-          "name": "!Sooks",
-          "url": "https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI"
-        }
-      ],
-      "duration_ms": 521682,
-      "name": "Eyesolation",
-      "url": "https://open.spotify.com/track/0JF4uuEeEaAQYTVZ9jv2Zg"
     },
     {
       "added_at": "2024-06-13 23:00:00",
@@ -579,26 +579,6 @@
     {
       "added_at": "2024-06-13 23:00:00",
       "album": {
-        "name": "TARU",
-        "url": "https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL"
-      },
-      "artists": [
-        {
-          "name": "Pierre Johnson",
-          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
-        },
-        {
-          "name": "Simeon",
-          "url": "https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x"
-        }
-      ],
-      "duration_ms": 399661,
-      "name": "VOICES",
-      "url": "https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V"
-    },
-    {
-      "added_at": "2024-06-13 23:00:00",
-      "album": {
         "name": "Unprepared",
         "url": "https://open.spotify.com/album/7uEWijv34tZQflxMh21Yg3"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 401228,
       "name": "Ksasenjalo (Exte C Remix)",
       "url": "https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN"
+    },
+    {
+      "added_at": "2024-06-13 23:00:00",
+      "album": {
+        "name": "TARU",
+        "url": "https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL"
+      },
+      "artists": [
+        {
+          "name": "Pierre Johnson",
+          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
+        },
+        {
+          "name": "Simeon",
+          "url": "https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x"
+        }
+      ],
+      "duration_ms": 399661,
+      "name": "VOICES",
+      "url": "https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V"
     },
     {
       "added_at": "2024-06-13 23:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-06-13 23:00:00",
       "album": {
+        "name": "Those Times",
+        "url": "https://open.spotify.com/album/5YblhSjbYeSAkY1JoWmkVY"
+      },
+      "artists": [
+        {
+          "name": "C-Moody",
+          "url": "https://open.spotify.com/artist/54OOXOPVCHZ2wkppPBXaal"
+        }
+      ],
+      "duration_ms": 465288,
+      "name": "Those Times",
+      "url": "https://open.spotify.com/track/6CcZOTY6BcU0lrJu6Whhqn"
+    },
+    {
+      "added_at": "2024-06-13 23:00:00",
+      "album": {
         "name": "Falling outta love often",
         "url": "https://open.spotify.com/album/4l3iLDiiB0waGz07EAyPjP"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 261428,
       "name": "Falling outta love often - Radio Edit",
       "url": "https://open.spotify.com/track/07mLfjYGWAYwDMQeV04tmo"
-    },
-    {
-      "added_at": "2024-06-13 23:00:00",
-      "album": {
-        "name": "Those Times",
-        "url": "https://open.spotify.com/album/5YblhSjbYeSAkY1JoWmkVY"
-      },
-      "artists": [
-        {
-          "name": "C-Moody",
-          "url": "https://open.spotify.com/artist/54OOXOPVCHZ2wkppPBXaal"
-        }
-      ],
-      "duration_ms": 465288,
-      "name": "Those Times",
-      "url": "https://open.spotify.com/track/6CcZOTY6BcU0lrJu6Whhqn"
     },
     {
       "added_at": "2024-06-13 23:00:00",

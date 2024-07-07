@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance a la antigüita con José y El Toro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,768 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,771 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,9 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 92 | [Almohada](https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Celebrando Al Príncipe](https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol) | 4:02 |
 | 93 | [Gracias](https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC) | [La Ciencia de Juancho Valencia](https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9) | [Enclave de Bolero](https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy) | 3:27 |
 | 94 | [Te Tocaba A Ti Llorar](https://open.spotify.com/track/69wyLBhOeKlS4VcilXZhzN) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Te Tocaba A Ti Llorar](https://open.spotify.com/album/1QdQqLnwuQsKnfZ5blD3Al) | 3:13 |
-| 95 | [Sabor a Mi \- En Vivo](https://open.spotify.com/track/5y5x3qdMoimI7GFoKXD8Ps) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Andrés Cepeda Big Band \(En Vivo\)](https://open.spotify.com/album/0Gpm0iuK5BKbrbX8FJKz1y) | 2:18 |
-| 96 | [Aún Me Sigo Encontrando](https://open.spotify.com/track/7Mmrk9FtkiKLpBMietviFf) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Aún Me Sigo Encontrando](https://open.spotify.com/album/1a72IUAiD277nR5ygMzPgv) | 3:09 |
-| 97 | [Por Debajo de la Mesa](https://open.spotify.com/track/3DhB2He4Zi1TQe8YqJ3167) | [Carlos Ponce](https://open.spotify.com/artist/4ff5IojFqry4841QjwULTV) | [Boleros](https://open.spotify.com/album/58MCZcbUtpCZO2AxzN6ft2) | 3:17 |
+| 95 | [Por Debajo de la Mesa](https://open.spotify.com/track/3DhB2He4Zi1TQe8YqJ3167) | [Carlos Ponce](https://open.spotify.com/artist/4ff5IojFqry4841QjwULTV) | [Boleros](https://open.spotify.com/album/58MCZcbUtpCZO2AxzN6ft2) | 3:17 |
+| 96 | [Sabor a Mi \- En Vivo](https://open.spotify.com/track/5y5x3qdMoimI7GFoKXD8Ps) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Andrés Cepeda Big Band \(En Vivo\)](https://open.spotify.com/album/0Gpm0iuK5BKbrbX8FJKz1y) | 2:18 |
+| 97 | [Aún Me Sigo Encontrando](https://open.spotify.com/track/7Mmrk9FtkiKLpBMietviFf) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Aún Me Sigo Encontrando](https://open.spotify.com/album/1a72IUAiD277nR5ygMzPgv) | 3:09 |
 | 98 | [No Olvides Recordarme \- En Vivo](https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Necesito un Bolero \[\(Edición de Lujo\)\[En Vivo\]\]](https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt) | 3:55 |
 | 99 | [No me reproches](https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [Lo esencial de Orígenes: El Bolero](https://open.spotify.com/album/6JJJE2Mp1nfIHVdKR7C8MZ) | 2:54 |
 | 100 | [Si Tú Supieras \- En Vivo Desde El Teatro Real](https://open.spotify.com/track/5X84dG9aZCTtlNx32WHPQD) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Si Tú Supieras \(En Vivo Desde El Teatro Real\)](https://open.spotify.com/album/3yTrEqEPA6T9qjbJUIGCJU) | 5:28 |

@@ -1,6 +1,6 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 249185,
+  "num_followers": 249293,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-03-28 22:14:39",
       "album": {
+        "name": "Saudade de Mim",
+        "url": "https://open.spotify.com/album/0Z8ecnJEt7Bv4DjVLUUmlr"
+      },
+      "artists": [
+        {
+          "name": "Japinha Conde",
+          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
+        }
+      ],
+      "duration_ms": 181674,
+      "name": "Saudade de Mim",
+      "url": "https://open.spotify.com/track/2ncNchvQqM2yCtQOq5rkyr"
+    },
+    {
+      "added_at": "2024-03-28 22:14:39",
+      "album": {
         "name": "Vazou um \u00c1udio (Ao Vivo No Casa Filtr)",
         "url": "https://open.spotify.com/album/2oiBNvChBI8N5246RUSLsP"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 151805,
       "name": "Vazou um \u00c1udio - Ao Vivo No Casa Filtr",
       "url": "https://open.spotify.com/track/59wOSyrOPTS1NmNHED6hbI"
-    },
-    {
-      "added_at": "2024-03-28 22:14:39",
-      "album": {
-        "name": "Saudade de Mim",
-        "url": "https://open.spotify.com/album/0Z8ecnJEt7Bv4DjVLUUmlr"
-      },
-      "artists": [
-        {
-          "name": "Japinha Conde",
-          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
-        }
-      ],
-      "duration_ms": 181674,
-      "name": "Saudade de Mim",
-      "url": "https://open.spotify.com/track/2ncNchvQqM2yCtQOq5rkyr"
     },
     {
       "added_at": "2024-03-28 22:14:39",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-03-28 22:14:39",
       "album": {
-        "name": "Lovezinho Oculto",
-        "url": "https://open.spotify.com/album/7c5Na47JFn0FhHsmtBqXT5"
-      },
-      "artists": [
-        {
-          "name": "Victor Santos",
-          "url": "https://open.spotify.com/artist/3swRzPZRzlzeGczSJxhxne"
-        }
-      ],
-      "duration_ms": 156808,
-      "name": "Lovezinho Oculto",
-      "url": "https://open.spotify.com/track/2OM7M4NCoJDOil6bJniALp"
-    },
-    {
-      "added_at": "2024-03-28 22:14:39",
-      "album": {
         "name": "Solinho Descarado",
         "url": "https://open.spotify.com/album/5GC3ChRFuMkVaxAsXS1QeE"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 114562,
       "name": "Solinho Descarado",
       "url": "https://open.spotify.com/track/1HrO8PCLTC6YWnSvePsKit"
+    },
+    {
+      "added_at": "2024-03-28 22:14:39",
+      "album": {
+        "name": "Lovezinho Oculto",
+        "url": "https://open.spotify.com/album/7c5Na47JFn0FhHsmtBqXT5"
+      },
+      "artists": [
+        {
+          "name": "Victor Santos",
+          "url": "https://open.spotify.com/artist/3swRzPZRzlzeGczSJxhxne"
+        }
+      ],
+      "duration_ms": 156808,
+      "name": "Lovezinho Oculto",
+      "url": "https://open.spotify.com/track/2OM7M4NCoJDOil6bJniALp"
     },
     {
       "added_at": "2024-03-28 22:14:39",

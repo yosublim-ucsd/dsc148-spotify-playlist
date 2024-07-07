@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover:   <a href="spotify:artist:7bdI7Q9ffxcej6cfVUktvb">Lani Rose</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,843 likes - 98 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,876 likes - 98 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 10 | [Wash Over Me \- Live](https://open.spotify.com/track/5iIcJhksyVDWo72yag8AYS) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Wash Over Me \(Live\)](https://open.spotify.com/album/2OdJ4uS3VHMruiNKZl4X1Y) | 7:51 |
 | 11 | [Worthy Of It All \(Holy Are You Lord\)](https://open.spotify.com/track/4VmGe2XNlJGxNmO0Nv7a4Q) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Kyle Howard](https://open.spotify.com/artist/7dgtOfOriC8XNxk16McWuo), [Kyrie Varieur](https://open.spotify.com/artist/1t2fAzXPJXcejQmDD7pgEq) | [Worthy Of It All \(Holy Are You Lord\)](https://open.spotify.com/album/57hCliChxgXDrTrKzQsLlL) | 7:57 |
 | 12 | [Prayers Filled With Praises](https://open.spotify.com/track/4YpMa38tna40IqTHMzftK1) | [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL), [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [Prayers Filled With Praises](https://open.spotify.com/album/3W6wKg4QUlAZ6psU6Ejmfn) | 4:07 |
-| 13 | [Nothing Is Better \- Live](https://open.spotify.com/track/0LFjcJsVtmHEVYeXWxQ8De) | [Sam McCabe](https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij), [Leeland Mooring](https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb) | [Nothing Is Better \(Live\)](https://open.spotify.com/album/4g6qnKdjWzqsK0v1ESSzNY) | 9:56 |
+| 13 | [Nothing Is Better \- Live](https://open.spotify.com/track/0LFjcJsVtmHEVYeXWxQ8De) | [Sam McCabe](https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Nothing Is Better \(Live\)](https://open.spotify.com/album/4g6qnKdjWzqsK0v1ESSzNY) | 9:56 |
 | 14 | [Breathe \- breathe version](https://open.spotify.com/track/2rFrYi2PmyirWybLIrAM2m) | [Worship For Everyone](https://open.spotify.com/artist/5VYPBA36e08yP6JOMvPxau), [Zo Ross\-Waddell](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N), [Millie Ferguson](https://open.spotify.com/artist/355iCx2proSfiHlXqUhINW) | [Breathe](https://open.spotify.com/album/71ndlCL4MWUnOjAkS8awmW) | 4:06 |
 | 15 | [Adonai \- Acoustic Sessions](https://open.spotify.com/track/38HnOg83fnq85ys92AAvBb) | [FOUNT](https://open.spotify.com/artist/1XB2yEIY0NycZEX3UCbyIR) | [Adonai \(Acoustic Sessions\)](https://open.spotify.com/album/2xu0z4i88LKZ5iOsHftaIK) | 3:45 |
 | 16 | [I Sing This Song](https://open.spotify.com/track/41Wr87Dha8kEn6yJuY14kb) | [Fresh Start Worship](https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG), [Turn Signal](https://open.spotify.com/artist/0YVFHMLIV2IvjhKssYyRbp), [JC The Artist](https://open.spotify.com/artist/0niCrXHc1w0cy3urmrp978) | [I Sing This Song](https://open.spotify.com/album/320pUtVU5Yj6vpFvfHydcS) | 4:01 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 35 | [LOST](https://open.spotify.com/track/70ISPlgh3vRt5yZgow9Ks2) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Addie Hailey](https://open.spotify.com/artist/3Dh3IYgjQEYePRN8JUTJdA), [Vennisay](https://open.spotify.com/artist/47fuPz0K0cyruPcpXiBo2W) | [LOST](https://open.spotify.com/album/3jbWdmxoLvFtY5S4r22PeV) | 2:41 |
 | 36 | [Family](https://open.spotify.com/track/6mU05zTrxPkk6zZq7OxIlj) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Family](https://open.spotify.com/album/77nA7IyVqFQjITeQv5XrEd) | 2:59 |
 | 37 | [God's Hands On Me](https://open.spotify.com/track/4drgNbGrdSy1HoPgDBfxSd) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [God's Hands On Me](https://open.spotify.com/album/4iDBoQ3T18y4Ovr8DKehoO) | 2:56 |
-| 38 | [SHEISTY](https://open.spotify.com/track/6YeFC0Ei50v9IXAOXKTPuu) | [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp) | [SHEISTY](https://open.spotify.com/album/33kQoSva0Vne9DRp2XiHiv) | 2:30 |
+| 38 | [SHIESTY](https://open.spotify.com/track/6YeFC0Ei50v9IXAOXKTPuu) | [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp) | [SHIESTY](https://open.spotify.com/album/33kQoSva0Vne9DRp2XiHiv) | 2:30 |
 | 39 | [For The Culture](https://open.spotify.com/track/2A79tZ3PSZCLyhdlQNkvnE) | [Caleb McCoy](https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi) | [For The Culture](https://open.spotify.com/album/333VjYbRgxWvRDwexNOlfT) | 2:55 |
 | 40 | [GROWING PAINS](https://open.spotify.com/track/0zRfR3pNLdtWSSMkgJEiM0) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [GROWING PAINS](https://open.spotify.com/album/37Pl9lqblWwTIwrar15X9H) | 2:52 |
 | 41 | [The One](https://open.spotify.com/track/1GBlabEpgiuypZd1zC9mOp) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [The One](https://open.spotify.com/album/6mE09Y1Bb70nt4P3q6hYC9) | 2:46 |

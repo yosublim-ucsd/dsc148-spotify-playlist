@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 73339,
+  "num_followers": 73335,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
+        "name": "Lamb of God (Live)",
+        "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 455362,
+      "name": "Son of Suffering - Live",
+      "url": "https://open.spotify.com/track/4BT98XFVb11QHSndk2Kc8P"
+    },
+    {
+      "added_at": "2024-07-02 01:10:01",
+      "album": {
         "name": "SPACE",
         "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 298640,
       "name": "Bless The One - Live",
       "url": "https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK"
-    },
-    {
-      "added_at": "2024-07-02 01:10:01",
-      "album": {
-        "name": "Lamb of God (Live)",
-        "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 455362,
-      "name": "Son of Suffering - Live",
-      "url": "https://open.spotify.com/track/4BT98XFVb11QHSndk2Kc8P"
     },
     {
       "added_at": "2024-07-02 01:10:01",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
-        "name": "Upon Him",
-        "url": "https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05"
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu"
       },
       "artists": [
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Highlands Worship",
+          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
         }
       ],
-      "duration_ms": 241901,
-      "name": "Upon Him",
-      "url": "https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS"
+      "duration_ms": 273439,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p"
     },
     {
       "added_at": "2024-07-02 01:10:01",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu"
-      },
-      "artists": [
-        {
-          "name": "Highlands Worship",
-          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
-        }
-      ],
-      "duration_ms": 273439,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p"
-    },
-    {
-      "added_at": "2024-07-02 01:10:01",
-      "album": {
         "name": "Easter Project",
         "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 273963,
       "name": "The Resurrection",
       "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
+    },
+    {
+      "added_at": "2024-07-02 01:10:01",
+      "album": {
+        "name": "Upon Him",
+        "url": "https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 241901,
+      "name": "Upon Him",
+      "url": "https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS"
     },
     {
       "added_at": "2024-07-02 01:10:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > The hottest dance hits, updated every week.\. All the biggest summer dance, house and electronic music to vibe to in 2024!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,353,626 likes - 101 songs - 4 hr 45 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,353,548 likes - 101 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 46 | [Love Hurt Repeat \(feat\. Mae Muller\)](https://open.spotify.com/track/601pOTGkiTqGFpAtphsZDx) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Love Hurt Repeat \(feat\. Mae Muller\)](https://open.spotify.com/album/3egxqN0wJ8CMeVbtRZYN3s) | 2:38 |
 | 47 | [Left Or Right](https://open.spotify.com/track/5UGOIEo6EyUm9WFfFfU9NN) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Matthew Nolan](https://open.spotify.com/artist/00eBZtIQVnVtZHOW1qDDDn) | [Left Or Right](https://open.spotify.com/album/7ugGaIBq4zFiaIiKDDWRlZ) | 3:13 |
 | 48 | [Stolen Glances \(feat\. Låpsley\)](https://open.spotify.com/track/4EnqqwxwKavuv0mQMMgFE5) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Stolen Glances \(feat\. Låpsley\)](https://open.spotify.com/album/5DObus73yw027Z2SM972b3) | 3:08 |
-| 49 | [What You've Done To Me \(feat\. Bemendé\)](https://open.spotify.com/track/2k9kWgFLCiAeRBTmwlGbAv) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Millean.](https://open.spotify.com/artist/0q1A6SLX3Lnhj3pj58lSwc), [Bemendé](https://open.spotify.com/artist/0c7d29gRcEyNSzLLNcnCiq) | [What You've Done To Me \(feat\. Bemendé\)](https://open.spotify.com/album/3frz7gq4fuN3nIu2qfP6Ki) | 2:46 |
+| 49 | [What You've Done To Me \(feat\. Bemendé\)](https://open.spotify.com/track/2k9kWgFLCiAeRBTmwlGbAv) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz), [Bemendé](https://open.spotify.com/artist/0c7d29gRcEyNSzLLNcnCiq) | [What You've Done To Me \(feat\. Bemendé\)](https://open.spotify.com/album/3frz7gq4fuN3nIu2qfP6Ki) | 2:46 |
 | 50 | [Hey DJ](https://open.spotify.com/track/2AthrfD1o1v3wIYIdJSJwi) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Another Friday Night](https://open.spotify.com/album/7mtOGMtwr9QpnkYaS1UuTh) | 2:37 |
 | 51 | [We Ain't Here For Long](https://open.spotify.com/track/7La5MwfZp7t0oKCYbhIMXj) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [We Ain't Here For Long](https://open.spotify.com/album/1Mc6KVLxv3JsxeqfB16jAD) | 2:55 |
 | 52 | [Supposed To Do](https://open.spotify.com/track/4uBuw2GgODVdiJLwRlaZb5) | [Harpoon](https://open.spotify.com/artist/2Orr52OAMzjLNDRjiXomFP), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Supposed To Do](https://open.spotify.com/album/6OJjqC5F173qh2EUV4qUNg) | 3:11 |

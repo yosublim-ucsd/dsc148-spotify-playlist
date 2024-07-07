@@ -1,6 +1,6 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL?si=Q-No4HIIQAuRe19to9ygsw>Kingdmusic</a>",
-  "num_followers": 29692,
+  "num_followers": 29711,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,30 @@
     {
       "added_at": "2023-12-29 00:01:00",
       "album": {
+        "name": "Take It All Back",
+        "url": "https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        },
+        {
+          "name": "Davies.",
+          "url": "https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8"
+        }
+      ],
+      "duration_ms": 193501,
+      "name": "Take It All Back",
+      "url": "https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI"
+    },
+    {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
         "name": "The Maverick Way Complete",
         "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
       },
@@ -675,30 +699,6 @@
       "duration_ms": 498332,
       "name": "For My Good (feat. Todd Galberth)",
       "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "Take It All Back",
-        "url": "https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        },
-        {
-          "name": "Davies.",
-          "url": "https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8"
-        }
-      ],
-      "duration_ms": 193501,
-      "name": "Take It All Back",
-      "url": "https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -901,6 +901,22 @@
       "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Names of God",
+        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 511207,
+      "name": "Adonai",
+      "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
+    },
+    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "Somebody to You",
@@ -919,22 +935,6 @@
       "duration_ms": 228690,
       "name": "Somebody to You",
       "url": "https://open.spotify.com/track/4TnXEn8UJaGqCa1cqWkX2z"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Names of God",
-        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 511207,
-      "name": "Adonai",
-      "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
     },
     {
       "added_at": "2023-12-15 00:01:00",

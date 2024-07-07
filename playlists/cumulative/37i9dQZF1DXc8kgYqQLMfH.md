@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,171 songs - 1 day 20 hr 31 min
+1,172 songs - 1 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,7 +482,7 @@
 | [if you could fly](https://open.spotify.com/track/4vLb7pSrQ4JNDr6ax3mw1y) | [søap](https://open.spotify.com/artist/5flOSCMCS5BPlHpdHQQhSr) | [if you could fly](https://open.spotify.com/album/5dCqU7kxTJ4IdMdXcbep15) | 2:18 | 2022-11-25 | 2023-11-11 |
 | [Ikea At Dusk](https://open.spotify.com/track/0b7acSt2NsF35xwFXj3ftl) | [Byoushay Brothers](https://open.spotify.com/artist/0GtIuE9H6qSS9GRnjRzasi) | [Ikea At Dusk](https://open.spotify.com/album/6ZB0pO293H9T320qrx0vak) | 2:39 | 2021-11-10 | 2022-04-08 |
 | [in a dream](https://open.spotify.com/track/6qvjAgiP6p4m5mHpDT4E4h) | [sunday museum](https://open.spotify.com/artist/7Dmb3mabrQmXGMFatQHh8N) | [in a dream](https://open.spotify.com/album/5GXKFWGELPZeG0SrC5wDr3) | 2:00 | 2022-11-11 |  |
-| [In Komplete Kontrol](https://open.spotify.com/track/5KvEw38ZCklqFAXlzBAIc5) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [In Komplete Kontrol](https://open.spotify.com/album/2WSUUFCgNI37r6djGyl5If) | 2:29 | 2023-02-17 |  |
+| [In Komplete Kontrol](https://open.spotify.com/track/5KvEw38ZCklqFAXlzBAIc5) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [In Komplete Kontrol](https://open.spotify.com/album/2WSUUFCgNI37r6djGyl5If) | 2:29 | 2023-02-17 | 2024-07-07 |
 | [In Limbo & Loving It](https://open.spotify.com/track/5kIsqbXbUNwaxQH1anoJ64) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [In Limbo & Loving It](https://open.spotify.com/album/19JbKTPT8GbfSv35qhY9Jq) | 2:43 | 2021-11-10 | 2022-07-22 |
 | [In My Dreams](https://open.spotify.com/track/2e0rVHWeslstKv2BJI1QOm) | [IMA](https://open.spotify.com/artist/5oWyfOpzOmgNnLHFtXBPBn), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT), [Pakora](https://open.spotify.com/artist/0Km8q2VEbS7WMPOGFnBDqz) | [In My Dreams](https://open.spotify.com/album/2N6YU7ddlN4bCPufIcgV36) | 2:13 | 2022-11-11 |  |
 | [In Parallell](https://open.spotify.com/track/2CV7GxX3vg5GYqBORRdCpR) | [Interscope](https://open.spotify.com/artist/288kcmSAmoRYgLiRKXTeZt) | [In Parallell](https://open.spotify.com/album/0GLUqN8vKfHSPsYsDwcWM1) | 1:46 | 2021-11-10 | 2022-06-10 |
@@ -887,6 +887,7 @@
 | [See you soon](https://open.spotify.com/track/0AAmMbWCDAzq6EmI5NUGNC) | [Gedimi](https://open.spotify.com/artist/68cLSTXnIf1UtW0muey7LG) | [See you soon](https://open.spotify.com/album/73exb1SFjcjvVDh1xgabkI) | 2:26 | 2022-04-15 | 2023-08-04 |
 | [see you tomorrow](https://open.spotify.com/track/190S9EQAuaAfqz0oaQF392) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [see you tomorrow](https://open.spotify.com/album/2be7X7Fmq8snlAbYf0eEtn) | 2:51 | 2024-01-05 |  |
 | [Seeds](https://open.spotify.com/track/3GNKg8aQHtdx24BOTt2XZh) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk), [Roberto Bronco](https://open.spotify.com/artist/5HlpkSATa4mHlEcjv1MegV) | [One Element](https://open.spotify.com/album/7f8A1M2fY4u7SibnDgYO1N) | 1:32 | 2023-09-01 | 2023-10-23 |
+| [seek somebody](https://open.spotify.com/track/5qirk6OgA1PzJhBxAOnTyi) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [seek somebody](https://open.spotify.com/album/4cj8n9qE2S3ccWglfiNzMT) | 2:44 | 2024-07-04 |  |
 | [Semester](https://open.spotify.com/track/0fNNBqC28Ap2KGyjZ3fVkz) | [Phive O](https://open.spotify.com/artist/3BazVVHaz03CY1JFfedL9L) | [Semester](https://open.spotify.com/album/4WvZPXhQMUz94Cf6AvTgZ9) | 2:05 | 2021-11-10 | 2022-09-03 |
 | [Sensations](https://open.spotify.com/track/3rXKDTaZe8U8RVeSL88eJ4) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Sensations](https://open.spotify.com/album/3SIkmz1TSE0ReBKTZZ9x3E) | 2:39 | 2022-12-09 |  |
 | [sentimentality](https://open.spotify.com/track/1dxsbD2N7sUsrXpxcu9zdF) | [L E O V I](https://open.spotify.com/artist/6iA2VnICj7PHsyWie3ywOI) | [sentimentality](https://open.spotify.com/album/05hPZwiPxC7aRVmD1Od2T9) | 3:21 | 2022-06-17 | 2023-03-18 |

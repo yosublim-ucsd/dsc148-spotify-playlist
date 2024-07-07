@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 111187,
+  "num_followers": 111258,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -187,42 +187,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "DEIRA",
-        "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 163183,
-      "name": "Allah Yihmeeki",
-      "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 298333,
-      "name": "So We Won't Forget",
-      "url": "https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "Asalto Navide\u00f1o",
         "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
       },
@@ -243,6 +207,42 @@
       "duration_ms": 334080,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 298333,
+      "name": "So We Won't Forget",
+      "url": "https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "DEIRA",
+        "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 163183,
+      "name": "Allah Yihmeeki",
+      "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/5WSHxP5AtfzdVdZrLC8LjP"
+      },
+      "artists": [
+        {
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3d7lH2ppf2aIELQXY4nagn"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
         "name": "Sr. Tigre (French Braids Rework)",
         "url": "https://open.spotify.com/album/4iRAsml6uMPqEiTQZ0zmDp"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 212621,
       "name": "Sr. Tigre - French Braids Rework",
       "url": "https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/5WSHxP5AtfzdVdZrLC8LjP"
-      },
-      "artists": [
-        {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3d7lH2ppf2aIELQXY4nagn"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ"
-      },
-      "artists": [
-        {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
-        }
-      ],
-      "duration_ms": 295080,
-      "name": "Mujer Divina",
-      "url": "https://open.spotify.com/track/7HbmkNTRsA8WI4aHc6yPQY"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "Cart\u00e3o Postal",
         "url": "https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 149420,
       "name": "Que Bandeira",
       "url": "https://open.spotify.com/track/2aQ8NyRJcsQFgb8jwUil90"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "duration_ms": 295080,
+      "name": "Mujer Divina",
+      "url": "https://open.spotify.com/track/7HbmkNTRsA8WI4aHc6yPQY"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Sings Love",
-        "url": "https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd"
+        "name": "Lovely Difficult",
+        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
       },
       "artists": [
         {
-          "name": "Sonya Spence",
-          "url": "https://open.spotify.com/artist/4YhJrnFq2vfLrp7AwDfLEJ"
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
         }
       ],
-      "duration_ms": 222981,
-      "name": "Let Love Flow On",
-      "url": "https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t"
+      "duration_ms": 227026,
+      "name": "Les mots d'amour",
+      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Lovely Difficult",
-        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
+        "name": "Sings Love",
+        "url": "https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd"
       },
       "artists": [
         {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+          "name": "Sonya Spence",
+          "url": "https://open.spotify.com/artist/4YhJrnFq2vfLrp7AwDfLEJ"
         }
       ],
-      "duration_ms": 227026,
-      "name": "Les mots d'amour",
-      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
+      "duration_ms": 222981,
+      "name": "Let Love Flow On",
+      "url": "https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Cantiga De Longe",
-        "url": "https://open.spotify.com/album/5S7lcrRerABwsWzHisYsxP"
-      },
-      "artists": [
-        {
-          "name": "Edu Lobo",
-          "url": "https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Zum-Zum",
-      "url": "https://open.spotify.com/track/4ApvuCjlZNe3RoIFoBX29y"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "Fine Anyway (Habibi Funk 016)",
         "url": "https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 196000,
       "name": "Had to Come Back Wet",
       "url": "https://open.spotify.com/track/3y9doIj0Gl7ywGgUaFNe0G"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Cantiga De Longe",
+        "url": "https://open.spotify.com/album/5S7lcrRerABwsWzHisYsxP"
+      },
+      "artists": [
+        {
+          "name": "Edu Lobo",
+          "url": "https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Zum-Zum",
+      "url": "https://open.spotify.com/track/4ApvuCjlZNe3RoIFoBX29y"
     },
     {
       "added_at": "2024-06-04 22:00:00",

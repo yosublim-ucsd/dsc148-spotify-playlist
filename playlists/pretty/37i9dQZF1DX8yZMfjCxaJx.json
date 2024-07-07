@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Los Chavalitos en portada.",
-  "num_followers": 222399,
+  "num_followers": 222476,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Backpack",
+      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
+    },
+    {
+      "added_at": "2024-05-24 06:00:00",
+      "album": {
         "name": "Los Brothers",
         "url": "https://open.spotify.com/album/0NKBG5glYWs0ephhtBH2YH"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 213442,
       "name": "Los Brothers",
       "url": "https://open.spotify.com/track/1iB1sVaGDfCbhB3syfoZ7J"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Backpack",
-      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
+        "name": "Desde La Prisi\u00f3n 19",
+        "url": "https://open.spotify.com/album/1kdG9DtGQoZGHAEFd4lLQj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cartel",
+          "url": "https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J"
+        }
+      ],
+      "duration_ms": 175583,
+      "name": "Desde La Prisi\u00f3n 19",
+      "url": "https://open.spotify.com/track/5WKa58Z9qiOYdOwKw52KUg"
+    },
+    {
+      "added_at": "2024-05-24 06:00:00",
+      "album": {
         "name": "Lujo y Detalle",
         "url": "https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 158784,
       "name": "Lujo y Detalle",
       "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
-        "name": "Desde La Prisi\u00f3n 19",
-        "url": "https://open.spotify.com/album/1kdG9DtGQoZGHAEFd4lLQj"
-      },
-      "artists": [
-        {
-          "name": "Grupo Cartel",
-          "url": "https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J"
-        }
-      ],
-      "duration_ms": 175583,
-      "name": "Desde La Prisi\u00f3n 19",
-      "url": "https://open.spotify.com/track/5WKa58Z9qiOYdOwKw52KUg"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
-        "name": "Chica La Bola",
-        "url": "https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mente Maestra",
-          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
-        }
-      ],
-      "duration_ms": 182229,
-      "name": "Jerry",
-      "url": "https://open.spotify.com/track/1TkUSV7ycq4p1f5TFlwL0E"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
         "name": "10 Corridos Autorizados",
         "url": "https://open.spotify.com/album/2wrps2mlZBUfw63G9Sf7Th"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 226944,
       "name": "El Doble R",
       "url": "https://open.spotify.com/track/78ZDV7gNfRTDQaVdgzs8PN"
+    },
+    {
+      "added_at": "2024-05-24 06:00:00",
+      "album": {
+        "name": "Chica La Bola",
+        "url": "https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+        }
+      ],
+      "duration_ms": 182229,
+      "name": "Jerry",
+      "url": "https://open.spotify.com/track/1TkUSV7ycq4p1f5TFlwL0E"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
-        "name": "El 7 Tito Beltr\u00e1n",
-        "url": "https://open.spotify.com/album/0prEM4d9iiHcvYLZwStnJg"
-      },
-      "artists": [
-        {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        },
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 247944,
-      "name": "El 7 Tito Beltr\u00e1n",
-      "url": "https://open.spotify.com/track/3ja3iKYBSQmwa20EYJym8D"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
         "name": "Los Dos de Guerrero",
         "url": "https://open.spotify.com/album/334ZGuyUYVu3bNXB2h6xAS"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 237610,
       "name": "El 4 a Arturo",
       "url": "https://open.spotify.com/track/0e2SmXRTe2sjGRlJSRZXPP"
+    },
+    {
+      "added_at": "2024-05-24 06:00:00",
+      "album": {
+        "name": "El 7 Tito Beltr\u00e1n",
+        "url": "https://open.spotify.com/album/0prEM4d9iiHcvYLZwStnJg"
+      },
+      "artists": [
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 247944,
+      "name": "El 7 Tito Beltr\u00e1n",
+      "url": "https://open.spotify.com/track/3ja3iKYBSQmwa20EYJym8D"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
-        "name": "Porte de Scarface",
-        "url": "https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp"
-      },
-      "artists": [
-        {
-          "name": "Chuy Montana",
-          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "Porte de Scarface",
-      "url": "https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
         "name": "El Primito (En Vivo)",
         "url": "https://open.spotify.com/album/49i61oL9VS1ISxh4Zsn8NW"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 259157,
       "name": "El Primito - En Vivo",
       "url": "https://open.spotify.com/track/6mzbBunUF1aQI4U3hhf3qh"
+    },
+    {
+      "added_at": "2024-05-24 06:00:00",
+      "album": {
+        "name": "Porte de Scarface",
+        "url": "https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp"
+      },
+      "artists": [
+        {
+          "name": "Chuy Montana",
+          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "Porte de Scarface",
+      "url": "https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK"
     },
     {
       "added_at": "2024-05-24 06:00:00",

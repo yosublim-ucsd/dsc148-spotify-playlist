@@ -1,63 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hong Kong.",
-  "num_followers": 112594,
+  "num_followers": 112612,
   "original_name": "Top 50 - Hong Kong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LhtamAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LhyucAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-07-05 10:57:19",
-      "album": {
-        "name": "\u597d\u5f97\u592a\u904e\u4efd",
-        "url": "https://open.spotify.com/album/7ArKSf70Be8fzHxDxBHAim"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "\u597d\u5f97\u592a\u904e\u4efd",
-      "url": "https://open.spotify.com/track/1jQE96DjtfpWGjSqK6Gfnr"
-    },
-    {
-      "added_at": "2024-07-05 10:57:19",
-      "album": {
-        "name": "\u5ca9\u5dc9",
-        "url": "https://open.spotify.com/album/3TCBQ5KfzuoHIZxV3Xk2eh"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 224513,
-      "name": "\u5ca9\u5dc9",
-      "url": "https://open.spotify.com/track/4ja627NyIBCz7wO2dYr83g"
-    },
-    {
-      "added_at": "2024-07-05 10:57:19",
-      "album": {
-        "name": "\u9ed1\u6708",
-        "url": "https://open.spotify.com/album/19zosC2FOPsQlNKqmOmP8X"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 205826,
-      "name": "\u9ed1\u6708",
-      "url": "https://open.spotify.com/track/60DcGRqdHMk9H3sat9bcHW"
-    },
-    {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "\u4ee5\u5b64\u7368\u547d\u540d",
         "url": "https://open.spotify.com/album/6YuX0KTUbL6SWPx4ammv6X"
@@ -73,7 +25,71 @@
       "url": "https://open.spotify.com/track/2gQoBhLuUmJqelyTrZfkKD"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
+      "album": {
+        "name": "\u597d\u5f97\u592a\u904e\u4efd",
+        "url": "https://open.spotify.com/album/7ArKSf70Be8fzHxDxBHAim"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "\u597d\u5f97\u592a\u904e\u4efd",
+      "url": "https://open.spotify.com/track/1jQE96DjtfpWGjSqK6Gfnr"
+    },
+    {
+      "added_at": "2024-07-06 16:28:40",
+      "album": {
+        "name": "\u5ca9\u5dc9",
+        "url": "https://open.spotify.com/album/3TCBQ5KfzuoHIZxV3Xk2eh"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 224513,
+      "name": "\u5ca9\u5dc9",
+      "url": "https://open.spotify.com/track/4ja627NyIBCz7wO2dYr83g"
+    },
+    {
+      "added_at": "2024-07-06 16:28:40",
+      "album": {
+        "name": "\u9ed1\u6708",
+        "url": "https://open.spotify.com/album/19zosC2FOPsQlNKqmOmP8X"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 205826,
+      "name": "\u9ed1\u6708",
+      "url": "https://open.spotify.com/track/60DcGRqdHMk9H3sat9bcHW"
+    },
+    {
+      "added_at": "2024-07-06 16:28:40",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
+    },
+    {
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "\u6df1\u95a8 feat. Kelly Chen \u9673\u6167\u7433",
         "url": "https://open.spotify.com/album/3OSRx8acDQauCZ3ef1SbBo"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/10YtrR4JpndrvuI2vohpUM"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "\u6fe4",
         "url": "https://open.spotify.com/album/2fwUdeULjPXQyCvKdUbIoI"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/1xRMtDxiU8xxAlaDscHIoT"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/2xJTRjTHMPl7OkPplpvvjN"
@@ -125,23 +141,7 @@
       "url": "https://open.spotify.com/track/2CwGJLH5jTBlVQhMfjCc6e"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
-    },
-    {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "\u6df1\u95a8",
         "url": "https://open.spotify.com/album/2KCTK4HgfH3dOaWiA7tTB9"
@@ -157,23 +157,7 @@
       "url": "https://open.spotify.com/track/6apc6NX2mDQ59mortxddQQ"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
-      "album": {
-        "name": "MY LIFE",
-        "url": "https://open.spotify.com/album/7Cvi0ScXPo1eLJTkxdJlA9"
-      },
-      "artists": [
-        {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
-        }
-      ],
-      "duration_ms": 208854,
-      "name": "MY LIFE",
-      "url": "https://open.spotify.com/track/5GNtunR5AJb8bVoovm8vnz"
-    },
-    {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -189,71 +173,7 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
-      "album": {
-        "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
-        "url": "https://open.spotify.com/album/4ExqABTnuhxEXKYr0MI8L6"
-      },
-      "artists": [
-        {
-          "name": "Kiri T",
-          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
-        }
-      ],
-      "duration_ms": 232839,
-      "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
-      "url": "https://open.spotify.com/track/2oOemghuOplk25PORF4s39"
-    },
-    {
-      "added_at": "2024-07-05 10:57:19",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2024-07-05 10:57:19",
-      "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
-    },
-    {
-      "added_at": "2024-07-05 10:57:19",
-      "album": {
-        "name": "Dear My Friend,",
-        "url": "https://open.spotify.com/album/63tXaSpdAXnGGTAR9obRz3"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 232007,
-      "name": "Dear My Friend,",
-      "url": "https://open.spotify.com/track/11IqNbLOD4s4nVYSuEttFR"
-    },
-    {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "FRI(END)S",
         "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
@@ -269,7 +189,107 @@
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
+      "album": {
+        "name": "\u8ab0\u80fd\u907f\u958b\u6200\u611b\u9019\u4e8b\u60c5",
+        "url": "https://open.spotify.com/album/60AGWPJFsCEY6pfPCs9B0n"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        },
+        {
+          "name": "\u59da\u712f\u83f2",
+          "url": "https://open.spotify.com/artist/2SpMhKM97GGLaQ7Laequuh"
+        }
+      ],
+      "duration_ms": 262735,
+      "name": "\u8ab0\u80fd\u907f\u958b\u6200\u611b\u9019\u4e8b\u60c5",
+      "url": "https://open.spotify.com/track/0tKTDRnl8qagYtRuHQ1sBY"
+    },
+    {
+      "added_at": "2024-07-06 16:28:40",
+      "album": {
+        "name": "MY LIFE",
+        "url": "https://open.spotify.com/album/7Cvi0ScXPo1eLJTkxdJlA9"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "duration_ms": 208854,
+      "name": "MY LIFE",
+      "url": "https://open.spotify.com/track/5GNtunR5AJb8bVoovm8vnz"
+    },
+    {
+      "added_at": "2024-07-06 16:28:40",
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+      "added_at": "2024-07-06 16:28:40",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-07-06 16:28:40",
+      "album": {
+        "name": "Dear My Friend,",
+        "url": "https://open.spotify.com/album/63tXaSpdAXnGGTAR9obRz3"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 232007,
+      "name": "Dear My Friend,",
+      "url": "https://open.spotify.com/track/11IqNbLOD4s4nVYSuEttFR"
+    },
+    {
+      "added_at": "2024-07-06 16:28:40",
+      "album": {
+        "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
+        "url": "https://open.spotify.com/album/4ExqABTnuhxEXKYr0MI8L6"
+      },
+      "artists": [
+        {
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
+        }
+      ],
+      "duration_ms": 232839,
+      "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
+      "url": "https://open.spotify.com/track/2oOemghuOplk25PORF4s39"
+    },
+    {
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "Inner l Child",
         "url": "https://open.spotify.com/album/1acqgOtA58NJJsMi7315ds"
@@ -285,7 +305,7 @@
       "url": "https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "\u7dca\u6025\u806f\u7d61\u4eba",
         "url": "https://open.spotify.com/album/1jSjHcc494JZrMD6keZ0UU"
@@ -301,7 +321,7 @@
       "url": "https://open.spotify.com/track/1sb71AvysPMJlsx4qYtTpG"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "Thank You Postman",
         "url": "https://open.spotify.com/album/167G8Hb89AttSYPeFhTuqP"
@@ -317,7 +337,7 @@
       "url": "https://open.spotify.com/track/4o3KjIcDPZ2ReW2b94htYD"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
@@ -333,7 +353,7 @@
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
@@ -349,7 +369,7 @@
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "Supernatural",
         "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
@@ -365,23 +385,7 @@
       "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
-      "album": {
-        "name": "\u8d81\u4f60\u65c5\u884c\u6642\u642c\u8d70",
-        "url": "https://open.spotify.com/album/7vgzAkU2PYTSsVKX71LqtH"
-      },
-      "artists": [
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 235251,
-      "name": "\u8d81\u4f60\u65c5\u884c\u6642\u642c\u8d70",
-      "url": "https://open.spotify.com/track/77UfzMhwaH8Nl0LuydjrHH"
-    },
-    {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "\u4e09\u751f\u6709\u5e78",
         "url": "https://open.spotify.com/album/0GNN3DUnDHMoKiPEwykUfc"
@@ -397,23 +401,7 @@
       "url": "https://open.spotify.com/track/5GnB3Nz0WfhOZK50PtAcma"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
-      "album": {
-        "name": "How Sweet",
-        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "How Sweet",
-      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
-    },
-    {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -433,7 +421,39 @@
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
+      "album": {
+        "name": "\u8d81\u4f60\u65c5\u884c\u6642\u642c\u8d70",
+        "url": "https://open.spotify.com/album/7vgzAkU2PYTSsVKX71LqtH"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "duration_ms": 235251,
+      "name": "\u8d81\u4f60\u65c5\u884c\u6642\u642c\u8d70",
+      "url": "https://open.spotify.com/track/77UfzMhwaH8Nl0LuydjrHH"
+    },
+    {
+      "added_at": "2024-07-06 16:28:40",
+      "album": {
+        "name": "How Sweet",
+        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "How Sweet",
+      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
+    },
+    {
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "Smeraldo Garden Marching Band (feat. Loco)",
         "url": "https://open.spotify.com/album/2PcM535knJOZb6MUth8axj"
@@ -453,7 +473,7 @@
       "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "Armageddon - The 1st Album",
         "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
@@ -469,7 +489,7 @@
       "url": "https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "TREBLE",
         "url": "https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK"
@@ -485,7 +505,7 @@
       "url": "https://open.spotify.com/track/4sguC2oBIqfn8WmMmReOYb"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "Lost at first sight",
         "url": "https://open.spotify.com/album/3PuUcAi2et3wlpngZRntA5"
@@ -501,7 +521,7 @@
       "url": "https://open.spotify.com/track/4tejvhLkdvPYn4p90jk5QS"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "16 Fantasy",
         "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
@@ -521,87 +541,23 @@
       "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
-        "name": "Armageddon - The 1st Album",
-        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/4MxSuIIvLMFtfL5pwa0cJh"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 196466,
-      "name": "Armageddon",
-      "url": "https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B"
+      "duration_ms": 212734,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/47QP509sXnE54NwhzoMHAi"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
-      "album": {
-        "name": "ISFP",
-        "url": "https://open.spotify.com/album/1o3ijiVqCl7zUDkO1bLWZH"
-      },
-      "artists": [
-        {
-          "name": "Terence Lam",
-          "url": "https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI"
-        }
-      ],
-      "duration_ms": 221804,
-      "name": "\u6709\u4f60\u807d\u6211\u7684\u6545\u4e8b",
-      "url": "https://open.spotify.com/track/63NZtFw4qM25MuZNVBmj9k"
-    },
-    {
-      "added_at": "2024-07-05 10:57:19",
-      "album": {
-        "name": "\u4ecd\u5728",
-        "url": "https://open.spotify.com/album/7kJcWoA7dZNzznm9wuSHyo"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 278670,
-      "name": "\u4ecd\u5728",
-      "url": "https://open.spotify.com/track/1rPPxVHA0YWiUzxzuFlQDN"
-    },
-    {
-      "added_at": "2024-07-05 10:57:19",
-      "album": {
-        "name": "This is MC",
-        "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 263133,
-      "name": "\u4e16\u4e00",
-      "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
-    },
-    {
-      "added_at": "2024-07-05 10:57:19",
-      "album": {
-        "name": "TREBLE",
-        "url": "https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 205845,
-      "name": "\u8207\u6211\u7121\u95dc",
-      "url": "https://open.spotify.com/track/7kwk6IdfKLnP1srqfXVOjq"
-    },
-    {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "TREBLE",
         "url": "https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK"
@@ -621,23 +577,55 @@
       "url": "https://open.spotify.com/track/2T8ppyUVF1TJT1Mjd7nmWK"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
-        "name": "\u98a8\u7684\u5f62\u72c0",
-        "url": "https://open.spotify.com/album/6izq53hfBehpRw4IlM9lT2"
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
       },
       "artists": [
         {
-          "name": "Yoyo Sham",
-          "url": "https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 206722,
-      "name": "\u98a8\u7684\u5f62\u72c0",
-      "url": "https://open.spotify.com/track/7iQdInUqIpVdatCooLZC3A"
+      "duration_ms": 196466,
+      "name": "Armageddon",
+      "url": "https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
+      "album": {
+        "name": "This is MC",
+        "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 263133,
+      "name": "\u4e16\u4e00",
+      "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
+    },
+    {
+      "added_at": "2024-07-06 16:28:40",
+      "album": {
+        "name": "TREBLE",
+        "url": "https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 205845,
+      "name": "\u8207\u6211\u7121\u95dc",
+      "url": "https://open.spotify.com/track/7kwk6IdfKLnP1srqfXVOjq"
+    },
+    {
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -657,7 +645,7 @@
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -673,91 +661,23 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
-        "name": "NA",
-        "url": "https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse"
+        "name": "ISFP",
+        "url": "https://open.spotify.com/album/1o3ijiVqCl7zUDkO1bLWZH"
       },
       "artists": [
         {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+          "name": "Terence Lam",
+          "url": "https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI"
         }
       ],
-      "duration_ms": 162840,
-      "name": "ABCD",
-      "url": "https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1"
+      "duration_ms": 221804,
+      "name": "\u6709\u4f60\u807d\u6211\u7684\u6545\u4e8b",
+      "url": "https://open.spotify.com/track/63NZtFw4qM25MuZNVBmj9k"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
-      "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/4MxSuIIvLMFtfL5pwa0cJh"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 212734,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/47QP509sXnE54NwhzoMHAi"
-    },
-    {
-      "added_at": "2024-07-05 10:57:19",
-      "album": {
-        "name": "TREBLE",
-        "url": "https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 251904,
-      "name": "\u4e03\u9ede\u534a\u9418\u7684\u967d\u5149",
-      "url": "https://open.spotify.com/track/7Hgtq72EtYE65iuAyIb5tY"
-    },
-    {
-      "added_at": "2024-07-05 10:57:19",
-      "album": {
-        "name": "BABYMONS7ER",
-        "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 170356,
-      "name": "SHEESH",
-      "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
-    },
-    {
-      "added_at": "2024-07-05 10:57:19",
-      "album": {
-        "name": "Tough",
-        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 188828,
-      "name": "Tough",
-      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
-    },
-    {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
@@ -773,39 +693,103 @@
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
-        "name": "dishonesty",
-        "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
+        "name": "\u4ecd\u5728",
+        "url": "https://open.spotify.com/album/7kJcWoA7dZNzznm9wuSHyo"
       },
       "artists": [
         {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
         }
       ],
-      "duration_ms": 179216,
-      "name": "dishonesty",
-      "url": "https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9"
+      "duration_ms": 278670,
+      "name": "\u4ecd\u5728",
+      "url": "https://open.spotify.com/track/1rPPxVHA0YWiUzxzuFlQDN"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
-        "name": "would you be mine?",
-        "url": "https://open.spotify.com/album/14JDs9VWM6IhPYn11VmZjp"
+        "name": "\u98a8\u7684\u5f62\u72c0",
+        "url": "https://open.spotify.com/album/6izq53hfBehpRw4IlM9lT2"
       },
       "artists": [
         {
-          "name": "Tyson Yoshi",
-          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+          "name": "Yoyo Sham",
+          "url": "https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1"
         }
       ],
-      "duration_ms": 190432,
-      "name": "would you be mine?",
-      "url": "https://open.spotify.com/track/4JXFK04oMgM5HPKOQnUWuK"
+      "duration_ms": 206722,
+      "name": "\u98a8\u7684\u5f62\u72c0",
+      "url": "https://open.spotify.com/track/7iQdInUqIpVdatCooLZC3A"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
+      "album": {
+        "name": "BABYMONS7ER",
+        "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 170356,
+      "name": "SHEESH",
+      "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
+    },
+    {
+      "added_at": "2024-07-06 16:28:40",
+      "album": {
+        "name": "NA",
+        "url": "https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "ABCD",
+      "url": "https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1"
+    },
+    {
+      "added_at": "2024-07-06 16:28:40",
+      "album": {
+        "name": "TREBLE",
+        "url": "https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 251904,
+      "name": "\u4e03\u9ede\u534a\u9418\u7684\u967d\u5149",
+      "url": "https://open.spotify.com/track/7Hgtq72EtYE65iuAyIb5tY"
+    },
+    {
+      "added_at": "2024-07-06 16:28:40",
+      "album": {
+        "name": "\u9752\u6625\u544a\u5225\u5f0f",
+        "url": "https://open.spotify.com/album/0JQBICqyFVPL861mwgC8at"
+      },
+      "artists": [
+        {
+          "name": "Hins Cheung",
+          "url": "https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK"
+        }
+      ],
+      "duration_ms": 256967,
+      "name": "\u9752\u6625\u544a\u5225\u5f0f",
+      "url": "https://open.spotify.com/track/2mMgDVazhRjNoOweYMP1pz"
+    },
+    {
+      "added_at": "2024-07-06 16:28:40",
       "album": {
         "name": "\u518d\u898b \u5be7\u975c\u6d77",
         "url": "https://open.spotify.com/album/7udQZHJGU6wIeWSbKgQtbV"
@@ -821,20 +805,36 @@
       "url": "https://open.spotify.com/track/3mVO7XaN9ULGNuXteiCOz3"
     },
     {
-      "added_at": "2024-07-05 10:57:19",
+      "added_at": "2024-07-06 16:28:40",
       "album": {
-        "name": "ON",
-        "url": "https://open.spotify.com/album/3s4zwwsOeM9KkNIglv5HLj"
+        "name": "\u96b1\u5f62\u904a\u6a02\u5834",
+        "url": "https://open.spotify.com/album/19wTMPU5TLyeI3xuNwpYx7"
       },
       "artists": [
         {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+          "name": "Hins Cheung",
+          "url": "https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK"
         }
       ],
-      "duration_ms": 200027,
-      "name": "ON",
-      "url": "https://open.spotify.com/track/2Yccw4AWlnf8BMcD4rnlFc"
+      "duration_ms": 233187,
+      "name": "\u96b1\u5f62\u904a\u6a02\u5834",
+      "url": "https://open.spotify.com/track/6bMgCXapeQEVFgAOr8EvgY"
+    },
+    {
+      "added_at": "2024-07-06 16:28:40",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
     }
   ],
   "unique_name": "Top 50 - Hong Kong",

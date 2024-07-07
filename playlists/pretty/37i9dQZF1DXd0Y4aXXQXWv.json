@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 478074,
+  "num_followers": 478098,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-05-28 13:20:54",
       "album": {
-        "name": "caravane",
-        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
-      },
-      "artists": [
-        {
-          "name": "Rapha\u00ebl",
-          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
-        }
-      ],
-      "duration_ms": 206920,
-      "name": "Caravane",
-      "url": "https://open.spotify.com/track/2UXjdnCvgGGIXLrAwCVVQT"
-    },
-    {
-      "added_at": "2024-05-28 13:20:54",
-      "album": {
         "name": "Brol",
         "url": "https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 189480,
       "name": "Balance ton quoi",
       "url": "https://open.spotify.com/track/2jX5c5RFp0A9E1GDsvGxIa"
+    },
+    {
+      "added_at": "2024-05-28 13:20:54",
+      "album": {
+        "name": "caravane",
+        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
+      },
+      "artists": [
+        {
+          "name": "Rapha\u00ebl",
+          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
+        }
+      ],
+      "duration_ms": 206920,
+      "name": "Caravane",
+      "url": "https://open.spotify.com/track/2UXjdnCvgGGIXLrAwCVVQT"
     },
     {
       "added_at": "2024-05-28 13:20:54",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-05-28 13:20:54",
       "album": {
-        "name": "Toi + Moi",
-        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
-      },
-      "artists": [
-        {
-          "name": "Gr\u00e9goire",
-          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Toi + Moi",
-      "url": "https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde"
-    },
-    {
-      "added_at": "2024-05-28 13:20:54",
-      "album": {
         "name": "La vraie vie (Deluxe)",
         "url": "https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 238146,
       "name": "Dommage",
       "url": "https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK"
+    },
+    {
+      "added_at": "2024-05-28 13:20:54",
+      "album": {
+        "name": "Toi + Moi",
+        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
+      },
+      "artists": [
+        {
+          "name": "Gr\u00e9goire",
+          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Toi + Moi",
+      "url": "https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde"
     },
     {
       "added_at": "2024-05-28 13:20:54",

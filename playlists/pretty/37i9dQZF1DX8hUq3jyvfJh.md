@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Yasmin Santos e mais mulheres no volume máximo! Co\-curadoria com Yasmin Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,267 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,327 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 31 | [Quando a Chuva Passar](https://open.spotify.com/track/28w7IiopxwhZ6wHQ1NQkvV) | [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE), [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Memórias da Taty \- Parte 1](https://open.spotify.com/album/4Nh6lim45VRtMIIY4d8VCg) | 3:10 |
 | 32 | [real valor](https://open.spotify.com/track/7gbYxnKsftWLFaZoDAxxPr) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [real valor](https://open.spotify.com/album/4QTHtqt8GeSHSSGwMwpXU1) | 3:40 |
 | 33 | [Desculpe O Auê](https://open.spotify.com/track/089k2n6Nv9nmdKymBhspCi) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Lanca Perfume E Outras Manias](https://open.spotify.com/album/4XLbkcXDkeCPrCInaG9bvS) | 2:57 |
-| 34 | [Seja Feliz](https://open.spotify.com/track/24Xwt76LZkEpb88e3NmYAZ) | [Grazi Almeida](https://open.spotify.com/artist/0EJZpEQM0I6KUikO0aZ03f), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Seja Feliz](https://open.spotify.com/album/2DaGWBg0V0UssfhcyUCcmc) | 3:31 |
+| 34 | [Promessa](https://open.spotify.com/track/1qqRwa8XB2INbK8JsC7YKX) | [Danieze Santiago](https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g) | [Promessa](https://open.spotify.com/album/73hSRLAyMBrC8WmNZSH8lY) | 4:12 |
 | 35 | [Silêncio \- Ao Vivo](https://open.spotify.com/track/0snqnBbzkmkHPEdkUIdxIu) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Marília Mendonça \- Ao Vivo](https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4) | 2:53 |
-| 36 | [Promessa](https://open.spotify.com/track/1qqRwa8XB2INbK8JsC7YKX) | [Danieze Santiago](https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g) | [Promessa](https://open.spotify.com/album/73hSRLAyMBrC8WmNZSH8lY) | 4:12 |
+| 36 | [Seja Feliz](https://open.spotify.com/track/24Xwt76LZkEpb88e3NmYAZ) | [Grazi Almeida](https://open.spotify.com/artist/0EJZpEQM0I6KUikO0aZ03f), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Seja Feliz](https://open.spotify.com/album/2DaGWBg0V0UssfhcyUCcmc) | 3:31 |
 | 37 | [Então Valeu \- Ao Vivo](https://open.spotify.com/track/2xWpzNe4WiAHULuoOXEdL0) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos Ao Vivo em Goiânia](https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab) | 3:27 |
 | 38 | [Bora Testar](https://open.spotify.com/track/5sGpSASOFgc9WqvUR76Jqo) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Bora Testar](https://open.spotify.com/album/0cT2wFroLy3chvFZ2hWuI7) | 2:32 |
 | 39 | [Status](https://open.spotify.com/track/210jgouJg1YRS4rtp0xkNm) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Status](https://open.spotify.com/album/5aEKsmuiELa952fvaIyzri) | 2:23 |

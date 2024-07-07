@@ -3741,6 +3741,28 @@
     },
     {
       "album": {
+        "name": "Here We Go Again",
+        "url": "https://open.spotify.com/album/1eps9Ggx7nCwDfSR77AW87"
+      },
+      "artists": [
+        {
+          "name": "Pro-Logic Team",
+          "url": "https://open.spotify.com/artist/4qn6Xiv8Cxf4OszwaDvD9u"
+        },
+        {
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115441,
+      "name": "Blood Tears (Blind Guardian Theme Remix)",
+      "url": "https://open.spotify.com/track/4pQCv3aF5hnQbkKHJGujN5"
+    },
+    {
+      "album": {
         "name": "Blue Train",
         "url": "https://open.spotify.com/album/3ThHAriukjvBCs91zisfhN"
       },
@@ -5288,7 +5310,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 437502,
       "name": "Columbia - Sawmills Outtake",
       "url": "https://open.spotify.com/track/7C2nz2EEB7pvqUbWFdZk3g"
@@ -5616,7 +5638,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 252392,
       "name": "Count Me Out",
       "url": "https://open.spotify.com/track/5Obhe5gMI1htOwRupTc5K2"
@@ -8362,7 +8384,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 276004,
       "name": "Epic - Live 1995",
       "url": "https://open.spotify.com/track/0ScWNr7NuTunjYhuNTEMNm"
@@ -8762,7 +8784,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 284453,
       "name": "Fall In Line",
       "url": "https://open.spotify.com/track/7ftpyir5ygZkv92mbZMFqi"
@@ -10120,7 +10142,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 199854,
       "name": "Gimme Danger - Early Demo",
       "url": "https://open.spotify.com/track/2PhmNY1Kr3RgDTFseVX0cj"
@@ -11350,7 +11372,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 158667,
       "name": "Help - Live",
       "url": "https://open.spotify.com/track/2fJYylG39CsZtmG1ATaOoR"
@@ -12630,6 +12652,24 @@
       "duration_ms": 298055,
       "name": "I Ran (So Far Away) - Re-Recorded",
       "url": "https://open.spotify.com/track/0ZQl3QQoQ2shj2hA9X8xrl"
+    },
+    {
+      "album": {
+        "name": "No Explanation (Live)",
+        "url": "https://open.spotify.com/album/046k6aFOA3rSyw49fEOQaG"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162203,
+      "name": "I Started A Joke - Live 1995",
+      "url": "https://open.spotify.com/track/39dzNBgEbLay2RAIKJzd0T"
     },
     {
       "album": {
@@ -14241,6 +14281,24 @@
     },
     {
       "album": {
+        "name": "Paradigm (Live)",
+        "url": "https://open.spotify.com/album/36UFz7d3yhZgMSI3XeaerU"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329199,
+      "name": "Jesus Christ Pose - Live 1992",
+      "url": "https://open.spotify.com/track/1ZwwG24SBYZMpQJHr5ob2w"
+    },
+    {
+      "album": {
         "name": "Band On The Run (Underdubbed Mixes)",
         "url": "https://open.spotify.com/album/6lhPEUxM0mfnA2GNwrHulD"
       },
@@ -14608,7 +14666,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 223133,
       "name": "Just Like 73 - Tom Morello Version",
       "url": "https://open.spotify.com/track/11DxHa7QIQ5NfdiHstN2O2"
@@ -15260,7 +15318,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 224243,
       "name": "La Vida y la Libertad",
       "url": "https://open.spotify.com/track/0LpzBuOMD5OgSU3uzCHnFZ"
@@ -17158,7 +17216,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 214053,
       "name": "Make It All Right",
       "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
@@ -19430,7 +19488,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 326718,
       "name": "Nothing Is Easy - Live",
       "url": "https://open.spotify.com/track/4vvblEUbUHH1HRN35ZxN8g"
@@ -22206,7 +22264,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 160256,
       "name": "Ranma 1/2 (Olvida La Amargura)",
       "url": "https://open.spotify.com/track/59sUk0NRw5WEmnBf72F3FU"
@@ -22758,7 +22816,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 407450,
       "name": "Ride the Lightning",
       "url": "https://open.spotify.com/track/4I7kE1p6koxfNl8alzesJR"
@@ -26672,7 +26730,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 287653,
       "name": "Take One",
       "url": "https://open.spotify.com/track/0slfUT2BP2tI5uIis9Z8Cb"
@@ -28354,7 +28412,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 366906,
       "name": "The Quest for Tanelorn - Revisited",
       "url": "https://open.spotify.com/track/2mAjUCgk5GowangZMlQJTa"
@@ -29510,7 +29568,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 316600,
       "name": "Tonada para dos poemas de Rub\u00e9n Mart\u00ednez Villena",
       "url": "https://open.spotify.com/track/7pyLMyetR8knvKifDs19yK"
@@ -30318,7 +30376,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 444327,
       "name": "Ugly Truth - Live 1992",
       "url": "https://open.spotify.com/track/1mLXgJdMpVmWT1HXfRwYwG"
@@ -31484,7 +31542,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 195099,
       "name": "We Made It Look Easy",
       "url": "https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG"
@@ -31514,7 +31572,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 219999,
       "name": "We Might Be Giants",
       "url": "https://open.spotify.com/track/6RV8XTQfO7DXRgT0yJmq2U"
@@ -32028,7 +32086,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 207992,
       "name": "Wherever You Are",
       "url": "https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4"
@@ -33154,7 +33212,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 185000,
       "name": "\u0421\u043e\u043d / Son - Radio Edit",
       "url": "https://open.spotify.com/track/6bn5OFUhl8lm4VzKEPSzEz"

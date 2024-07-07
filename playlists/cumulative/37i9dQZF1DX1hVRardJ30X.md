@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Tiago PZK
 
-7,326 songs - 16 day 0 hr 13 min
+7,328 songs - 16 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5070,6 +5070,7 @@
 | [Parla Quillera](https://open.spotify.com/track/2r6EZnFHM4zOEg0tqfKsxE) | [Tezzel](https://open.spotify.com/artist/25wbr3tsglSoeDK40ockmT), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Parla Quillera](https://open.spotify.com/album/1ysPtXcup5ZfL5la5Hxyl3) | 3:06 | 2023-12-15 | 2023-12-23 |
 | [Party](https://open.spotify.com/track/59A5xzCH9yL8rqDIArijxi) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb), [Sensato](https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS), [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w) | [Rf 7 \- The Return Of King](https://open.spotify.com/album/624XeSxPURBfMtTmjylq0b) | 3:21 | 2023-03-24 | 2023-04-01 |
 | [Party](https://open.spotify.com/track/69xB9y3BNxx9oCHXL86f3b) | [Séssi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Party](https://open.spotify.com/album/0sqJ5bv1E0u9OXKF5PP6mm) | 2:36 | 2022-07-29 | 2022-08-06 |
+| [Party Amanecio](https://open.spotify.com/track/5mfdizRPNwLR3OzKncnAMH) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Party Amanecio](https://open.spotify.com/album/7LFYQ2BkndbXAjUNpR1VVi) | 3:49 | 2024-07-06 |  |
 | [Party En California](https://open.spotify.com/track/4HNx0xJYS4eJRRuMNYNX4q) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [Party En California](https://open.spotify.com/album/6Ma2wU6aLCZtb3EGmNbswi) | 3:02 | 2024-06-28 | 2024-07-06 |
 | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 | 2022-09-16 | 2022-09-24 |
 | [Party Nice](https://open.spotify.com/track/6FxdBhDsFr5LT7xEdXMh3U) | [MEL GRANDA](https://open.spotify.com/artist/6h9lS66Ib3dOiz3Gg6PpI1), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Maycol Riddim](https://open.spotify.com/artist/7eonAAygwW2IyWSjjOxrmr), [Crawba Genius](https://open.spotify.com/artist/3mHwREJlcPKL8zgLzVUGHf) | [Party Nice](https://open.spotify.com/album/5FVpig8lHGMmY6B8u0HHSS) | 2:55 | 2023-11-17 | 2023-11-25 |
@@ -5386,6 +5387,7 @@
 | [Primer Beso](https://open.spotify.com/track/480qwG6dXSM8kxsPR7gnio) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r) | [Primer Beso](https://open.spotify.com/album/7DpYxoa79sTZkMrQPxEo5h) | 3:19 | 2024-04-05 | 2024-04-13 |
 | [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-04-21 | 2023-04-29 |
 | [Primera Cita](https://open.spotify.com/track/61TIqrpTJ6ZlEaQpneVboa) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Primera Cita](https://open.spotify.com/album/12zL0QO90BC88QJTYeso5d) | 2:44 | 2023-01-20 | 2023-01-28 |
+| [PRIMO](https://open.spotify.com/track/1RkkjNnU8I4PDrzkZHECWf) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRIMO](https://open.spotify.com/album/1fazhvRXDXyxNJ1hIm1VBa) | 2:44 | 2024-07-06 |  |
 | [Princesa](https://open.spotify.com/track/6x0M4beh4yucLesragBKdz) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Princesa](https://open.spotify.com/album/64tvhE3xiu9npvqF3Pq4bN) | 2:56 | 2022-03-11 | 2022-03-18 |
 | [Princesa](https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Princesa](https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR) | 2:31 | 2023-04-28 | 2023-05-06 |
 | [princess peach](https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 2:46 | 2024-04-05 | 2024-04-13 |

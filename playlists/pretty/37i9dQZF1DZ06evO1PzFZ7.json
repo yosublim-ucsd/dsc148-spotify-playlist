@@ -1,12 +1,12 @@
 {
-  "description": "This Is \u00c1ngela Aguilar. Los temas esenciales, todos en una lista.",
-  "num_followers": 149796,
+  "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
+  "num_followers": 149815,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAADaheuFFutS3C/SBdMs3Tdx",
+  "snapshot_id": "Zoc3gAAAAAAEn6A3OOr4zDrhWlsvGZ0l",
   "tracks": [
     {
       "added_at": null,
@@ -234,15 +234,11 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 228989,
-      "name": "Ella Qu\u00e9 Te Dio",
-      "url": "https://open.spotify.com/track/24wYpTB7F9gqHfmAJxj6Mb"
+      "duration_ms": 178934,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/0Je044p1uanai2hpiVY3ax"
     },
     {
       "added_at": null,
@@ -318,11 +314,15 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 178934,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/0Je044p1uanai2hpiVY3ax"
+      "duration_ms": 228989,
+      "name": "Ella Qu\u00e9 Te Dio",
+      "url": "https://open.spotify.com/track/24wYpTB7F9gqHfmAJxj6Mb"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Jowell & Randy, Cultura Prof\u00e9tica",
-  "num_followers": 1201580,
+  "num_followers": 1201587,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,26 @@
     {
       "added_at": "2024-07-02 22:16:01",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E"
+        "name": "Verte",
+        "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
       },
       "artists": [
         {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         },
         {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         }
       ],
-      "duration_ms": 259063,
-      "name": "Mi Balcon",
-      "url": "https://open.spotify.com/track/05SZ279Bnz9Zst21BMoZWg"
+      "duration_ms": 157418,
+      "name": "Verte",
+      "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
     },
     {
       "added_at": "2024-07-02 22:16:01",
@@ -379,26 +383,22 @@
     {
       "added_at": "2024-07-02 22:16:01",
       "album": {
-        "name": "Verte",
-        "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E"
       },
       "artists": [
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
         },
         {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 157418,
-      "name": "Verte",
-      "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
+      "duration_ms": 259063,
+      "name": "Mi Balcon",
+      "url": "https://open.spotify.com/track/05SZ279Bnz9Zst21BMoZWg"
     },
     {
       "added_at": "2024-07-02 22:16:01",
@@ -439,26 +439,18 @@
     {
       "added_at": "2024-07-02 22:16:01",
       "album": {
-        "name": "Te Prefiero",
-        "url": "https://open.spotify.com/album/31U37FecJ7YymWxaPXP18P"
+        "name": "The Return of El Santo",
+        "url": "https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9"
       },
       "artists": [
         {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        },
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        },
-        {
-          "name": "Nahuel The Coach",
-          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+          "name": "King Chango",
+          "url": "https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us"
         }
       ],
-      "duration_ms": 182384,
-      "name": "Te Prefiero",
-      "url": "https://open.spotify.com/track/7K7tKqnRzLoEQdquvGzZ6n"
+      "duration_ms": 287013,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
     },
     {
       "added_at": "2024-07-02 22:16:01",
@@ -479,18 +471,26 @@
     {
       "added_at": "2024-07-02 22:16:01",
       "album": {
-        "name": "The Return of El Santo",
-        "url": "https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9"
+        "name": "Te Prefiero",
+        "url": "https://open.spotify.com/album/31U37FecJ7YymWxaPXP18P"
       },
       "artists": [
         {
-          "name": "King Chango",
-          "url": "https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us"
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        },
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
         }
       ],
-      "duration_ms": 287013,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
+      "duration_ms": 182384,
+      "name": "Te Prefiero",
+      "url": "https://open.spotify.com/track/7K7tKqnRzLoEQdquvGzZ6n"
     },
     {
       "added_at": "2024-07-02 22:16:01",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-07-02 22:16:01",
       "album": {
-        "name": "Un Lustro Inyectando Ruido Positivo",
-        "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
-      },
-      "artists": [
-        {
-          "name": "Antidoping",
-          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
-        }
-      ],
-      "duration_ms": 390173,
-      "name": "Juego a Muerte",
-      "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
-    },
-    {
-      "added_at": "2024-07-02 22:16:01",
-      "album": {
         "name": "Saber a D\u00f3nde ir",
         "url": "https://open.spotify.com/album/6XVFjAPVhncAQb0K5xubnn"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 259217,
       "name": "Saber a D\u00f3nde ir",
       "url": "https://open.spotify.com/track/0DidJz0r4fFToEohpkHxoT"
+    },
+    {
+      "added_at": "2024-07-02 22:16:01",
+      "album": {
+        "name": "Un Lustro Inyectando Ruido Positivo",
+        "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
+      },
+      "artists": [
+        {
+          "name": "Antidoping",
+          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
+        }
+      ],
+      "duration_ms": 390173,
+      "name": "Juego a Muerte",
+      "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
     },
     {
       "added_at": "2024-07-02 22:16:01",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2024-07-02 22:16:01",
       "album": {
-        "name": "No Fu\u00ed Tu Maestro",
-        "url": "https://open.spotify.com/album/61j6BJdMGTF8DUOLhUMaJA"
-      },
-      "artists": [
-        {
-          "name": "Morodo",
-          "url": "https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn"
-        },
-        {
-          "name": "Unity Sound",
-          "url": "https://open.spotify.com/artist/5K354VQ6YnadcAq59TNgwH"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "No Fu\u00ed Tu Maestro",
-      "url": "https://open.spotify.com/track/4m9tGI5WmzIjlGmu6j4HxB"
-    },
-    {
-      "added_at": "2024-07-02 22:16:01",
-      "album": {
         "name": "Pupilas Lejanas",
         "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 226000,
       "name": "Pupilas Lejanas",
       "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
+    },
+    {
+      "added_at": "2024-07-02 22:16:01",
+      "album": {
+        "name": "No Fu\u00ed Tu Maestro",
+        "url": "https://open.spotify.com/album/61j6BJdMGTF8DUOLhUMaJA"
+      },
+      "artists": [
+        {
+          "name": "Morodo",
+          "url": "https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn"
+        },
+        {
+          "name": "Unity Sound",
+          "url": "https://open.spotify.com/artist/5K354VQ6YnadcAq59TNgwH"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "No Fu\u00ed Tu Maestro",
+      "url": "https://open.spotify.com/track/4m9tGI5WmzIjlGmu6j4HxB"
     },
     {
       "added_at": "2024-07-02 22:16:01",
@@ -1763,18 +1763,22 @@
     {
       "added_at": "2024-07-02 22:16:01",
       "album": {
-        "name": "Calamaro Querido!! Cantando Al Salm\u00f3n Parte 1",
-        "url": "https://open.spotify.com/album/1XLbuOuIevQOETqDpOD6cT"
+        "name": "Codigos Del Alma",
+        "url": "https://open.spotify.com/album/3gpM7IpvTpE1ByLL1aR0lS"
       },
       "artists": [
         {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+          "name": "Rastrillos",
+          "url": "https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50"
+        },
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 246600,
-      "name": "A Los Ojos",
-      "url": "https://open.spotify.com/track/2ncDvyrfmKtzHzX1w7oDvQ"
+      "duration_ms": 307720,
+      "name": "La Musica",
+      "url": "https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P"
     },
     {
       "added_at": "2024-07-02 22:16:01",
@@ -1799,22 +1803,18 @@
     {
       "added_at": "2024-07-02 22:16:01",
       "album": {
-        "name": "Codigos Del Alma",
-        "url": "https://open.spotify.com/album/3gpM7IpvTpE1ByLL1aR0lS"
+        "name": "Calamaro Querido!! Cantando Al Salm\u00f3n Parte 1",
+        "url": "https://open.spotify.com/album/1XLbuOuIevQOETqDpOD6cT"
       },
       "artists": [
         {
-          "name": "Rastrillos",
-          "url": "https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50"
-        },
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
         }
       ],
-      "duration_ms": 307720,
-      "name": "La Musica",
-      "url": "https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P"
+      "duration_ms": 246600,
+      "name": "A Los Ojos",
+      "url": "https://open.spotify.com/track/2ncDvyrfmKtzHzX1w7oDvQ"
     },
     {
       "added_at": "2024-07-02 22:16:01",

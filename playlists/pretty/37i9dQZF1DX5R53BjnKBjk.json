@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: dad\u00e1 Jo\u00e3ozinho / Arte: Isu Kim",
-  "num_followers": 19816,
+  "num_followers": 19819,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
+        "name": "Aquino e a Orquestra Invis\u00edvel",
+        "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
+      },
+      "artists": [
+        {
+          "name": "AQUINO",
+          "url": "https://open.spotify.com/artist/36bs3UPyK4QNUJtyFvsBmu"
+        }
+      ],
+      "duration_ms": 173880,
+      "name": "MTV",
+      "url": "https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
         "name": "Boemia, de Fato",
         "url": "https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 176000,
       "name": "Amor de Mar",
       "url": "https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
-        "name": "Aquino e a Orquestra Invis\u00edvel",
-        "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
-      },
-      "artists": [
-        {
-          "name": "AQUINO",
-          "url": "https://open.spotify.com/artist/36bs3UPyK4QNUJtyFvsBmu"
-        }
-      ],
-      "duration_ms": 173880,
-      "name": "MTV",
-      "url": "https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Um Brinde",
-        "url": "https://open.spotify.com/album/1vOwSOaTYvQd8cqvpGcFX2"
-      },
-      "artists": [
-        {
-          "name": "Rick Agra",
-          "url": "https://open.spotify.com/artist/0Nt78ssG93jnXJjmJO3KnN"
-        }
-      ],
-      "duration_ms": 153634,
-      "name": "Um Brinde",
-      "url": "https://open.spotify.com/track/1rt90TEAfqAtnfHZlI3uyV"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Do Meu Lado",
         "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 151187,
       "name": "Do Meu Lado",
       "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Um Brinde",
+        "url": "https://open.spotify.com/album/1vOwSOaTYvQd8cqvpGcFX2"
+      },
+      "artists": [
+        {
+          "name": "Rick Agra",
+          "url": "https://open.spotify.com/artist/0Nt78ssG93jnXJjmJO3KnN"
+        }
+      ],
+      "duration_ms": 153634,
+      "name": "Um Brinde",
+      "url": "https://open.spotify.com/track/1rt90TEAfqAtnfHZlI3uyV"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
+        "name": "Embalo",
+        "url": "https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ"
+      },
+      "artists": [
+        {
+          "name": "TIRI",
+          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
+        }
+      ],
+      "duration_ms": 201231,
+      "name": "Embalo",
+      "url": "https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
         "name": "Luz Na Madrugada / Late Night Light",
         "url": "https://open.spotify.com/album/5SPqZ8SevS2ZEbgP7T1Haq"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 183666,
       "name": "Quando Eu Falei Pra Ela",
       "url": "https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
-        "name": "Embalo",
-        "url": "https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ"
-      },
-      "artists": [
-        {
-          "name": "TIRI",
-          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
-        }
-      ],
-      "duration_ms": 201231,
-      "name": "Embalo",
-      "url": "https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Amor de Sonhos",
-        "url": "https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Amor de Sonhos",
-      "url": "https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Ilus\u00e3o",
         "url": "https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 201734,
       "name": "Ilus\u00e3o",
       "url": "https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Amor de Sonhos",
+        "url": "https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Amor de Sonhos",
+      "url": "https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Madrugada",
-        "url": "https://open.spotify.com/album/4zntUGntUiylFop68gZFiw"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 158985,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Hortel\u00e3",
         "url": "https://open.spotify.com/album/7xfKJrEeIf1DMT6hCD444y"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 185142,
       "name": "Hortel\u00e3",
       "url": "https://open.spotify.com/track/1thjFFcnXI3r8W89oVewce"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Madrugada",
+        "url": "https://open.spotify.com/album/4zntUGntUiylFop68gZFiw"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 158985,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Surrender!",
-        "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
-      },
-      "artists": [
-        {
-          "name": "Bemti",
-          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
-        }
-      ],
-      "duration_ms": 189030,
-      "name": "Surrender!",
-      "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Me Liga",
         "url": "https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 176398,
       "name": "Me Liga",
       "url": "https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Surrender!",
+        "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
+      },
+      "artists": [
+        {
+          "name": "Bemti",
+          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
+        }
+      ],
+      "duration_ms": 189030,
+      "name": "Surrender!",
+      "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "reluz",
-        "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
+        "name": "Por um Fio",
+        "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
       },
       "artists": [
         {
-          "name": "As\u00fa",
-          "url": "https://open.spotify.com/artist/33niI54BdTNsMN18d5lLM0"
+          "name": "Sulamericana",
+          "url": "https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ"
         }
       ],
-      "duration_ms": 193053,
-      "name": "reluz",
-      "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
+      "duration_ms": 189271,
+      "name": "Por um Fio",
+      "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Por um Fio",
-        "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
+        "name": "reluz",
+        "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
       },
       "artists": [
         {
-          "name": "Sulamericana",
-          "url": "https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ"
+          "name": "As\u00fa",
+          "url": "https://open.spotify.com/artist/33niI54BdTNsMN18d5lLM0"
         }
       ],
-      "duration_ms": 189271,
-      "name": "Por um Fio",
-      "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
+      "duration_ms": 193053,
+      "name": "reluz",
+      "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
+        "name": "Amigo",
+        "url": "https://open.spotify.com/album/0G1eZMhQdujsdZ5RSQQBYc"
+      },
+      "artists": [
+        {
+          "name": "Junim",
+          "url": "https://open.spotify.com/artist/2VSSpNdBUOGmNkrBLATwft"
+        }
+      ],
+      "duration_ms": 155129,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/100MjqTU5I7U0qPvYbrWFA"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
         "name": "facetime",
         "url": "https://open.spotify.com/album/6kZxUbWswaoQjvBevsLaTN"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 181197,
       "name": "perigo !!!",
       "url": "https://open.spotify.com/track/20I1YGkQ5DSBrPK2Xlgkb1"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
-        "name": "Amigo",
-        "url": "https://open.spotify.com/album/0G1eZMhQdujsdZ5RSQQBYc"
-      },
-      "artists": [
-        {
-          "name": "Junim",
-          "url": "https://open.spotify.com/artist/2VSSpNdBUOGmNkrBLATwft"
-        }
-      ],
-      "duration_ms": 155129,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/100MjqTU5I7U0qPvYbrWFA"
     },
     {
       "added_at": "2024-05-22 08:00:00",

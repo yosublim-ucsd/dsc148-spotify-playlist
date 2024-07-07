@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 101177,
+  "num_followers": 101206,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAACSw/Wyv2q1P+9lN4r7QeXK",
+  "snapshot_id": "Zoc3gAAAAACXeRXH7j0ncX6ACRueSdKv",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Had to Cry Today",
-        "url": "https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 411960,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues Of Desperation",
         "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 243733,
       "name": "The Valley Runs Low",
       "url": "https://open.spotify.com/track/5NvVaWVoHEUKe2Sau3iLdT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Had to Cry Today",
+        "url": "https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 411960,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC"
     },
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 237400,
-      "name": "Ball Peen Hammer (Live At The Hollywood Bowl With Orchestra)",
-      "url": "https://open.spotify.com/track/04zlD4XLqclgxmRmjHPzm4"
+      "duration_ms": 508400,
+      "name": "No Good Place For The Lonely (Live At The Hollywood Bowl With Orchestra)",
+      "url": "https://open.spotify.com/track/4hLXcBEmTbvhEJpAafXV2O"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 508400,
-      "name": "No Good Place For The Lonely (Live At The Hollywood Bowl With Orchestra)",
-      "url": "https://open.spotify.com/track/4hLXcBEmTbvhEJpAafXV2O"
+      "duration_ms": 237400,
+      "name": "Ball Peen Hammer (Live At The Hollywood Bowl With Orchestra)",
+      "url": "https://open.spotify.com/track/04zlD4XLqclgxmRmjHPzm4"
     },
     {
       "added_at": null,
@@ -459,22 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dear Mr. Fantasy",
-        "url": "https://open.spotify.com/album/1LgM96v1LWKd8585co5Hai"
+        "name": "Blues From The Heart Live (Live)",
+        "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
       },
       "artists": [
         {
-          "name": "Dave Mason",
-          "url": "https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775"
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
         },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 274081,
-      "name": "Dear Mr. Fantasy",
-      "url": "https://open.spotify.com/track/6pC50pZwVynieHSurJjSQa"
+      "duration_ms": 349573,
+      "name": "Summertime (Live)",
+      "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
     },
     {
       "added_at": null,
@@ -511,22 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues From The Heart Live (Live)",
-        "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
+        "name": "Dear Mr. Fantasy",
+        "url": "https://open.spotify.com/album/1LgM96v1LWKd8585co5Hai"
       },
       "artists": [
         {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+          "name": "Dave Mason",
+          "url": "https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775"
         },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 349573,
-      "name": "Summertime (Live)",
-      "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
+      "duration_ms": 274081,
+      "name": "Dear Mr. Fantasy",
+      "url": "https://open.spotify.com/track/6pC50pZwVynieHSurJjSQa"
     },
     {
       "added_at": null,
@@ -695,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Road To Redemption",
-        "url": "https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ"
+        "name": "Joe Bonamassa Live from the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd"
       },
       "artists": [
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 301760,
-      "name": "Black Roses",
-      "url": "https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj"
+      "duration_ms": 344853,
+      "name": "Further On Up the Road - Live",
+      "url": "https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg"
     },
     {
       "added_at": null,
@@ -727,22 +731,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joe Bonamassa Live from the Royal Albert Hall",
-        "url": "https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd"
+        "name": "Road To Redemption",
+        "url": "https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ"
       },
       "artists": [
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 344853,
-      "name": "Further On Up the Road - Live",
-      "url": "https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg"
+      "duration_ms": 301760,
+      "name": "Black Roses",
+      "url": "https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Deluxe Vol. 2",
-        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 382040,
-      "name": "Is It Safe To Go Home",
-      "url": "https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Come U Don't Call Me Anymore",
         "url": "https://open.spotify.com/album/6Q9NrZjwc8XnIFT5ICbiTu"
       },
@@ -823,6 +807,46 @@
       "duration_ms": 251425,
       "name": "How Come U Don't Call Me Anymore",
       "url": "https://open.spotify.com/track/1bcNoi2yLxpbtyZCmajS62"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Deluxe Vol. 2",
+        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 382040,
+      "name": "Is It Safe To Go Home",
+      "url": "https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back in Black",
+        "url": "https://open.spotify.com/album/736B83hbqftdlB7yewbdOF"
+      },
+      "artists": [
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
+        {
+          "name": "Joanna Jones",
+          "url": "https://open.spotify.com/artist/6mRK3kM9VcjgnwtUAE1vNx"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 192590,
+      "name": "Back in Black",
+      "url": "https://open.spotify.com/track/3QbM1s2qg68bKEByp0Uvh8"
     },
     {
       "added_at": null,
@@ -859,26 +883,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back in Black",
-        "url": "https://open.spotify.com/album/736B83hbqftdlB7yewbdOF"
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
       },
       "artists": [
-        {
-          "name": "Scary Pockets",
-          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
-        },
-        {
-          "name": "Joanna Jones",
-          "url": "https://open.spotify.com/artist/6mRK3kM9VcjgnwtUAE1vNx"
-        },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 192590,
-      "name": "Back in Black",
-      "url": "https://open.spotify.com/track/3QbM1s2qg68bKEByp0Uvh8"
+      "duration_ms": 250960,
+      "name": "Man of Many Words",
+      "url": "https://open.spotify.com/track/6hhe7LQXLdkzHx3wShTsau"
     },
     {
       "added_at": null,
@@ -895,22 +911,6 @@
       "duration_ms": 238173,
       "name": "Hope You Realize It (Goodbye Again)",
       "url": "https://open.spotify.com/track/2wZ8DVY0VgO8OA0THlG3hD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 250960,
-      "name": "Man of Many Words",
-      "url": "https://open.spotify.com/track/6hhe7LQXLdkzHx3wShTsau"
     }
   ],
   "unique_name": "This Is Joe Bonamassa",

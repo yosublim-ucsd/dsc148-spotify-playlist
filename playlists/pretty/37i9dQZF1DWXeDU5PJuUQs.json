@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 148825,
+  "num_followers": 149074,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-05 03:00:00",
       "album": {
-        "name": "Flor del Ba\u00f1ado (En Vivo)",
-        "url": "https://open.spotify.com/album/48au1oyXaWr5hmbyKMIKzF"
-      },
-      "artists": [
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 221376,
-      "name": "Flor del Ba\u00f1ado (En Vivo)",
-      "url": "https://open.spotify.com/track/377AzTYtB0NSahp11mfa3K"
-    },
-    {
-      "added_at": "2024-07-05 03:00:00",
-      "album": {
         "name": "En el Gran Rex (En Vivo)",
         "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 158958,
       "name": "Te So\u00f1\u00e9 una Vez Mas - En Vivo",
       "url": "https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o"
+    },
+    {
+      "added_at": "2024-07-05 03:00:00",
+      "album": {
+        "name": "Flor del Ba\u00f1ado (En Vivo)",
+        "url": "https://open.spotify.com/album/48au1oyXaWr5hmbyKMIKzF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 221376,
+      "name": "Flor del Ba\u00f1ado (En Vivo)",
+      "url": "https://open.spotify.com/track/377AzTYtB0NSahp11mfa3K"
     },
     {
       "added_at": "2024-07-05 03:00:00",
@@ -843,22 +843,34 @@
     {
       "added_at": "2024-07-05 03:00:00",
       "album": {
-        "name": "La Cumbia de los Rotos y los Descosidos (En Vivo)",
-        "url": "https://open.spotify.com/album/0Vlb6ovPyHchgesQAqtrYZ"
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
       "artists": [
         {
-          "name": "Diego Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/65FeQY2sD1xPBSrhTm4LC9"
-        },
-        {
-          "name": "Cumbia Club",
-          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
         }
       ],
-      "duration_ms": 220533,
-      "name": "La Cumbia de los Rotos y los Descosidos - En Vivo",
-      "url": "https://open.spotify.com/track/34JqqBUM4wzwGX2ovPYNae"
+      "duration_ms": 175992,
+      "name": "Adios Amor Adios - En Vivo",
+      "url": "https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh"
+    },
+    {
+      "added_at": "2024-07-05 03:00:00",
+      "album": {
+        "name": "Que Vuelvas (En Vivo)",
+        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 108129,
+      "name": "Que Vuelvas - En Vivo",
+      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
     },
     {
       "added_at": "2024-07-05 03:00:00",
@@ -887,22 +899,6 @@
     {
       "added_at": "2024-07-05 03:00:00",
       "album": {
-        "name": "Que Vuelvas (En Vivo)",
-        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 108129,
-      "name": "Que Vuelvas - En Vivo",
-      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
-    },
-    {
-      "added_at": "2024-07-05 03:00:00",
-      "album": {
         "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
         "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
       },
@@ -919,18 +915,22 @@
     {
       "added_at": "2024-07-05 03:00:00",
       "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+        "name": "La Cumbia de los Rotos y los Descosidos (En Vivo)",
+        "url": "https://open.spotify.com/album/0Vlb6ovPyHchgesQAqtrYZ"
       },
       "artists": [
         {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+          "name": "Diego Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/65FeQY2sD1xPBSrhTm4LC9"
+        },
+        {
+          "name": "Cumbia Club",
+          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
         }
       ],
-      "duration_ms": 175992,
-      "name": "Adios Amor Adios - En Vivo",
-      "url": "https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh"
+      "duration_ms": 220533,
+      "name": "La Cumbia de los Rotos y los Descosidos - En Vivo",
+      "url": "https://open.spotify.com/track/34JqqBUM4wzwGX2ovPYNae"
     },
     {
       "added_at": "2024-07-05 03:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-07-05 03:00:00",
       "album": {
+        "name": "Mi Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
+      },
+      "artists": [
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "duration_ms": 483693,
+      "name": "La Ventanita / Beso a Beso",
+      "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
+    },
+    {
+      "added_at": "2024-07-05 03:00:00",
+      "album": {
         "name": "En el Gran Rex (En Vivo)",
         "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 195973,
       "name": "Estoy Buscando un Amor - En Vivo",
       "url": "https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH"
-    },
-    {
-      "added_at": "2024-07-05 03:00:00",
-      "album": {
-        "name": "Mi Vida (En Vivo)",
-        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
-      },
-      "artists": [
-        {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
-        }
-      ],
-      "duration_ms": 483693,
-      "name": "La Ventanita / Beso a Beso",
-      "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
     },
     {
       "added_at": "2024-07-05 03:00:00",

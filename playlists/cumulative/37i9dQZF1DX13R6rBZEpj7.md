@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-269 songs - 16 hr 26 min
+270 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Redlight](https://open.spotify.com/track/60GofMxxkrLuEIOS9JluGG) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Liberation](https://open.spotify.com/album/5JX891euRdXxQuUNl5f1oW) | 4:09 | 2023-08-24 | 2024-02-20 |
 | [Renegade](https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Renegade](https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8) | 2:34 | 2022-10-28 | 2023-12-22 |
 | [Repeat](https://open.spotify.com/track/3Sexd25qv3yWod8ONwMbrM) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Repeat](https://open.spotify.com/album/2AEe70g4XiNVguRpGEy9Iq) | 3:33 | 2022-04-15 | 2022-07-17 |
+| [Rude Boyz](https://open.spotify.com/track/7igIf1KC4Jo92cPFJhb0JE) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Rude Boyz](https://open.spotify.com/album/4VzuPrsQcIJMwKktgli4QB) | 3:25 | 2024-07-05 |  |
 | [Ruffneck](https://open.spotify.com/track/2IdA9NR0QVKYDWKQZObq0s) | [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B), [James Bangura](https://open.spotify.com/artist/7939stjhhD9rNBMg0HvQ4o) | [Ruffneck](https://open.spotify.com/album/266vU1sTez2M31BgOIYEhL) | 4:18 | 2024-06-14 | 2024-07-05 |
 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 | 2022-04-15 |  |
 | [Run It](https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Run It](https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF) | 3:31 | 2024-04-05 |  |
@@ -266,7 +267,7 @@
 | [Want \(ur body\)](https://open.spotify.com/track/7h4ubaopYMigwEXZpTLi9s) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Want \(ur body\)](https://open.spotify.com/album/7J9Cj4yEiCU7cFsuxvNuts) | 4:34 | 2023-04-04 |  |
 | [Warehouse](https://open.spotify.com/track/4pTwMY48IEDfJlXE87heyD) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Warehouse](https://open.spotify.com/album/65eCETrzR2S7tLZgLPv57j) | 3:14 | 2022-04-15 | 2022-07-07 |
 | [Watch The Skank](https://open.spotify.com/track/49zk3dTYmYjtXK6UnG18Er) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Tempa T](https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq) | [Watch The Skank](https://open.spotify.com/album/01CQfqMHQFq4S0ogijNGwJ) | 3:01 | 2024-05-28 |  |
-| [Wavelord Bizniz](https://open.spotify.com/track/2rDXW6HxRe1r6MTvzbvB4w) | [Samurai Breaks](https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray), [Napes](https://open.spotify.com/artist/67tntWq8UUUolQoKWKZgN5) | [Wavelord Bizniz](https://open.spotify.com/album/4fSERdJxrStbV6mpIhUonK) | 4:40 | 2024-02-23 |  |
+| [Wavelord Bizniz](https://open.spotify.com/track/2rDXW6HxRe1r6MTvzbvB4w) | [Samurai Breaks](https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray), [Napes](https://open.spotify.com/artist/67tntWq8UUUolQoKWKZgN5) | [Wavelord Bizniz](https://open.spotify.com/album/4fSERdJxrStbV6mpIhUonK) | 4:40 | 2024-02-23 | 2024-07-07 |
 | [Wavey](https://open.spotify.com/track/6i2jpYUBz3g768cdWhMM52) | [Revø](https://open.spotify.com/artist/5KoaUKcpB1aaEbXhggogik) | [Wavey / Vibe](https://open.spotify.com/album/3TQbwjWrzpAxv9wTPpfeFG) | 3:23 | 2022-04-15 | 2022-04-21 |
 | [We Multiply](https://open.spotify.com/track/726EjFaiMKvX34tOpnbqSP) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [We Multiply](https://open.spotify.com/album/3WxoCgsKhjoRRIgaTfctaO) | 3:49 | 2024-04-05 |  |
 | [What To Do](https://open.spotify.com/track/2U9J2leuFsABpW7Vxt1ZR4) | [Palizé](https://open.spotify.com/artist/4b8mcUDcyADdWI7krNuKmu) | [What To Do](https://open.spotify.com/album/1mtVvy7OKWk47B4aZXlBGK) | 3:46 | 2022-04-15 | 2022-07-29 |

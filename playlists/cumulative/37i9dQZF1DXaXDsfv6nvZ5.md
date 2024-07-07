@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-539 songs - 1 day 8 hr 43 min
+540 songs - 1 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [2 Step In The Living Room](https://open.spotify.com/track/7Bqg0xmYlSbPEFYXLdKYIl) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw) | 4:30 | 2023-10-20 |  |
 | [3's Company](https://open.spotify.com/track/4aZtYr0cAYmSJgtQUurlXS) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [What Had Happened Was…](https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq) | 4:35 | 2022-11-11 | 2022-11-19 |
 | [311 \(with Gwen Bunn\)](https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [FORWARD](https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc) | 2:31 | 2023-03-03 | 2023-08-05 |
-| [614](https://open.spotify.com/track/0rvSQxrzazqTD4zyiiuCXp) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [614](https://open.spotify.com/album/2uf8Of0BwZtWUA9GMAjszQ) | 3:19 | 2024-03-08 |  |
+| [614](https://open.spotify.com/track/0rvSQxrzazqTD4zyiiuCXp) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [614](https://open.spotify.com/album/2uf8Of0BwZtWUA9GMAjszQ) | 3:19 | 2024-03-08 | 2024-07-07 |
 | [A Change Is Gonna Come](https://open.spotify.com/track/6cFjFN3jw2IoZqY3GO27s6) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [One Night In Miami..\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1i3pkaGXNV3kdn54InaVHF) | 3:01 | 2021-12-03 | 2022-07-24 |
 | [Addicted \(Acoustic\)](https://open.spotify.com/track/7HQc8ITNpm2NaIdLcKLDAY) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Addicted \(Acoustic\)](https://open.spotify.com/album/0qPYyDTTx74B8sfEGOYZyh) | 3:05 | 2021-12-03 | 2022-10-01 |
 | [Adonis \- feat\. KIRBY](https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Adonis](https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW) | 3:39 | 2022-11-18 | 2024-05-18 |
@@ -366,6 +366,7 @@
 | [ONLY\-1](https://open.spotify.com/track/38N8M1Zr80OELCoPelAUBP) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8) | [004DAISY](https://open.spotify.com/album/24e0sHcaegLydaqZGRwJ1e) | 3:38 | 2022-09-16 | 2022-11-11 |
 | [OOTW](https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [OOTW](https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX) | 2:19 | 2024-06-14 |  |
 | [outta space](https://open.spotify.com/track/1n2RjkM9T4ijiM4idyEQSM) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [FRANCIS](https://open.spotify.com/album/4tIEFaeXJpNVw53d4AJwBs) | 3:12 | 2024-06-07 |  |
+| [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 | 2024-07-05 |  |
 | [Palace](https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Palace](https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO) | 2:32 | 2023-03-24 | 2023-06-16 |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-03-11 | 2023-04-14 |
 | [Paradise](https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Paradise](https://open.spotify.com/album/5ckMdSLnCP1HEGe8clgU9B) | 3:38 | 2023-09-16 | 2023-11-03 |

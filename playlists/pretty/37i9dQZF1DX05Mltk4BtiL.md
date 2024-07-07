@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 
 > Nur tote Fische schwimmen mit dem Strom\. Cover: H.i.T.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,470 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,480 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 17 | [Velocità](https://open.spotify.com/track/0fDb1Us6GLRPrY4LkgEUIc) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Velocità](https://open.spotify.com/album/0nuR2emckKgR48TWtu53uD) | 3:01 |
 | 18 | [Oktober in Europa](https://open.spotify.com/track/3d40QNJhGHHBNRhEHEXxHl) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Oktober in Europa](https://open.spotify.com/album/3kqDDoLz4aPELnW6kl3cf8) | 3:28 |
 | 19 | [Trotzdem](https://open.spotify.com/track/2xOJ5GlTL3qZj514CHE3HF) | [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Das ist alles von der Kunstfreiheit gedeckt](https://open.spotify.com/album/0Tq272YaJbK0hH9vyEZBbm) | 2:35 |
-| 20 | [Leon](https://open.spotify.com/track/4hu0vB1JaMHGaV4SJADNZs) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Leon](https://open.spotify.com/album/1vquxy6exp4vtCQnEFNgms) | 3:15 |
-| 21 | [Ein letztes Liebeslied](https://open.spotify.com/track/1n687zRzAK3Nmoc7oykQZb) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Ein letztes Liebeslied](https://open.spotify.com/album/3xw2ol4SHeWZqoXiOoPilO) | 3:09 |
+| 20 | [Ein letztes Liebeslied](https://open.spotify.com/track/1n687zRzAK3Nmoc7oykQZb) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Ein letztes Liebeslied](https://open.spotify.com/album/3xw2ol4SHeWZqoXiOoPilO) | 3:09 |
+| 21 | [Leon](https://open.spotify.com/track/4hu0vB1JaMHGaV4SJADNZs) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Leon](https://open.spotify.com/album/1vquxy6exp4vtCQnEFNgms) | 3:15 |
 | 22 | [Schreien!](https://open.spotify.com/track/6n12nfjzuGGJSK5IAmfx8A) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Schreien!](https://open.spotify.com/album/4e6jAKuaVuz2cuHju2vSyJ) | 2:54 |
 | 23 | [Zittern](https://open.spotify.com/track/5dUdIExBgfgxWoqJ77Xi4W) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Zittern](https://open.spotify.com/album/1N1Pe9J71EgxGBCcWnrRWY) | 4:06 |
 | 24 | [Lesbisch](https://open.spotify.com/track/15PJXv3g9r3Q6RLkotwpWf) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Lesbisch](https://open.spotify.com/album/1pbnCXnVelZ9NF1G6nJVNI) | 3:23 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 30 | [Kannst du bei mir bleiben?](https://open.spotify.com/track/6P2p63GZxlsvoegju9iH1Z) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Kannst du bei mir bleiben?](https://open.spotify.com/album/4HfWSo2GOcajhwKOetWw4x) | 2:12 |
 | 31 | [BAUM](https://open.spotify.com/track/4fH8xERQuzAh1pfn5ZEQkS) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ) | [BAUM](https://open.spotify.com/album/4JGG9900H46EBP4vR0GYyI) | 3:08 |
 | 32 | [Muttertag](https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Muttertag](https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN) | 1:06 |
-| 33 | [Mensch am Mond](https://open.spotify.com/track/3ztlPP5pc0ZiX2Oa4YBYjx) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Mensch am Mond](https://open.spotify.com/album/7zASnixcrPirKFIjhAwmXu) | 3:05 |
-| 34 | [Wenn Du Springst](https://open.spotify.com/track/6tGv9WOFiv14P6cpSEdeL6) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Schnee Im Sommer](https://open.spotify.com/album/1sjo1t4qs6MrfowKwoLhnH) | 2:57 |
+| 33 | [Wenn Du Springst](https://open.spotify.com/track/6tGv9WOFiv14P6cpSEdeL6) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Schnee Im Sommer](https://open.spotify.com/album/1sjo1t4qs6MrfowKwoLhnH) | 2:57 |
+| 34 | [Mensch am Mond](https://open.spotify.com/track/3ztlPP5pc0ZiX2Oa4YBYjx) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Mensch am Mond](https://open.spotify.com/album/7zASnixcrPirKFIjhAwmXu) | 3:05 |
 | 35 | [absolute gewinner](https://open.spotify.com/track/6zyUsh5QCMywV1A7bEky45) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [absolute gewinner](https://open.spotify.com/album/1bcvCOkwy8Jpwxac1AJbc4) | 2:21 |
 | 36 | [Stures dummes Herz](https://open.spotify.com/track/2Jw8Ij0rDWuUDKvkktFzrO) | [TRÄNEN](https://open.spotify.com/artist/4NKHTY0ghFbhkFwl29BxMD) | [Stures dummes Herz](https://open.spotify.com/album/7iTZebDTdiXQC4uluRWoxi) | 2:56 |
 | 37 | [König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw) | [Traumatin](https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV) | [König Der Welt](https://open.spotify.com/album/6iP34lE8L8EDx6JGgHPMB6) | 3:28 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 39 | [Leere Flaschen](https://open.spotify.com/track/7vxZqMRKJAIGCJPVkZAIor) | [Anda Morts](https://open.spotify.com/artist/4I2FyJP0zs6IPgasQVwG7r) | [Leere Flaschen](https://open.spotify.com/album/1O60XqPGhSgEJ1LPDLlwgK) | 2:53 |
 | 40 | [Achtung Fragile](https://open.spotify.com/track/6Mc07uFlXtFxqBDMv1He0f) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x) | [Achtung Fragile](https://open.spotify.com/album/4Suc6drXFcuMj1IofmJeV9) | 2:27 |
 | 41 | [Das Neue Normal](https://open.spotify.com/track/4JZzUgcFrkWisEO1yirDj7) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Das Neue Normal](https://open.spotify.com/album/6X5diaWcPFGcsNMjwnWZdC) | 3:33 |
-| 42 | [So schreibt man seinen Song](https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe) | [Olli Schulz](https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1) | [Vom Rand der Zeit](https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH) | 3:23 |
-| 43 | [Marmelade Und Himbeereis](https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Marmelade Und Himbeereis](https://open.spotify.com/album/064OxNn7XPDjxpmaKu57Di) | 3:48 |
+| 42 | [Marmelade Und Himbeereis](https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Marmelade Und Himbeereis](https://open.spotify.com/album/064OxNn7XPDjxpmaKu57Di) | 3:48 |
+| 43 | [So schreibt man seinen Song](https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe) | [Olli Schulz](https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1) | [Vom Rand der Zeit](https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH) | 3:23 |
 | 44 | [Das Fest](https://open.spotify.com/track/15ttYbkCS4LGeBYEBKpdJe) | [Oehl](https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp) | [Das Fest](https://open.spotify.com/album/6wsAw2KnjH439LE0oLd0YI) | 2:44 |
 | 45 | [Van Noten \- Live](https://open.spotify.com/track/1BcilPuV8RJ3mtGvTUC1Xv) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Orpheum \(Live\)](https://open.spotify.com/album/70leZm9lR2a4sa7H3eP3qo) | 4:21 |
 | 46 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 |
 | 47 | [haus am meer](https://open.spotify.com/track/1rXogQOERbDIu90ZSXTBEW) | [Tuffy](https://open.spotify.com/artist/4UDkNikL9D2vhFwqmMoJ2h) | [haus am meer](https://open.spotify.com/album/04M4bDc6yaTrkarToMjWKs) | 2:21 |
 | 48 | [zwei bier \(la la la\)](https://open.spotify.com/track/5HlxYAqsU0vXhKVS0rvROI) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [zwei bier \(la la la\)](https://open.spotify.com/album/4DmMom1MSf4NrKNgLtRDAa) | 3:29 |
 | 49 | [Die Hitze ist heiß](https://open.spotify.com/track/4AbH6roYbLNcjZmZEkkbtw) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x) | [Die Hitze ist heiß](https://open.spotify.com/album/1gtzF9NqsPorWOxmICuHSr) | 2:34 |
-| 50 | [Pirdutu cori](https://open.spotify.com/track/0xzcU8WQaCaigkEkR5suY8) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM), [Pippo Pollina](https://open.spotify.com/artist/5npjIDoA8dath4yVEVmKhZ) | [Pirdutu cori](https://open.spotify.com/album/7x3SSmmPtAK4VgiksNvJBD) | 3:39 |
+| 50 | [ICH WEISS ES NICHT](https://open.spotify.com/track/7L2c0Gy88eOncmLPQ2PF9V) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ) | [ICH WEISS ES NICHT](https://open.spotify.com/album/0DgFYFrptZIulH79F3zGe9) | 2:35 |
 
 Snapshot ID: `ZocbYAAAAAASWhjc++R9mjKaq9u0FDvy`

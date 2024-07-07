@@ -259,6 +259,24 @@
     },
     {
       "album": {
+        "name": "Erotica (PA Version)",
+        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333466,
+      "name": "Deeper and Deeper",
+      "url": "https://open.spotify.com/track/6KU8g98m1tcrUXRNjPQeOI"
+    },
+    {
+      "album": {
         "name": "American Life",
         "url": "https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW"
       },
@@ -654,7 +672,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 206315,
       "name": "Hung Up on Tokischa",
       "url": "https://open.spotify.com/track/3oJzE5dSRl51xxzLeih0sy"
@@ -926,7 +944,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 298164,
       "name": "Medell\u00edn (with Maluma)",
       "url": "https://open.spotify.com/track/6mfu6jyFgvnXeTPQrYNs8d"
@@ -1114,7 +1132,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 281880,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/55whbebR4olz2HHcRQa2kx"

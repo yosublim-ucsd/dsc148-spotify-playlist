@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring 42 Dugg, Eminem, Ken Carson and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,431 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,518 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 25 | [No Ø Zone \(feat\. VonOff1700\)](https://open.spotify.com/track/1dShewvlJ7mlMzTBuhd1uQ) | [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [No Ø Zone \(feat\. VonOff1700\)](https://open.spotify.com/album/0ZoPCgMfRyoNpiL3vgVCu3) | 3:32 |
 | 26 | [Shook Ones 2024](https://open.spotify.com/track/566h2bG8oEx18LccvFbx5V) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Shook Ones 2024](https://open.spotify.com/album/65skh74iL8zcuGQHMfz0i8) | 2:17 |
 | 27 | [I Can't Go](https://open.spotify.com/track/6TQZA9JBp0YNJhAYxVOOKJ) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2) | [I Can't Go](https://open.spotify.com/album/4vjTe8jEnJznqTnXWEd2ol) | 3:27 |
-| 28 | [Rich Today \(feat\. Leven Kali & Polyester the Saint\)](https://open.spotify.com/track/7FVspRnDzSrT9NQbQACkmF) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [Polyester the Saint](https://open.spotify.com/artist/2i59qMkZ79k8WTLV6gMJXY) | [Rich Today \(feat\. Leven Kali & Polyester the Saint\)](https://open.spotify.com/album/4z6ao9BaKvmowyzqFawxRp) | 2:19 |
+| 28 | [Rich Today \(feat\. Polyester the Saint\)](https://open.spotify.com/track/7FVspRnDzSrT9NQbQACkmF) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [Polyester the Saint](https://open.spotify.com/artist/2i59qMkZ79k8WTLV6gMJXY) | [Rich Today \(feat\. Polyester the Saint\)](https://open.spotify.com/album/4z6ao9BaKvmowyzqFawxRp) | 2:19 |
 | 29 | [YANKIN!](https://open.spotify.com/track/7jICgMZ4vEkAirE1gxMMZm) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [D\-LO](https://open.spotify.com/artist/40uPOeOQVWuNb6imBRJWjR), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Raymon Marco](https://open.spotify.com/artist/2hk2X7xeg4QEQwKdnvl0JG), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb) | [YANKIN!](https://open.spotify.com/album/4UzCUrPGInWVchMROi7XEV) | 3:58 |
 | 30 | [THE BIGGEST](https://open.spotify.com/track/6kCJ10N0HFwfw408HoCzly) | [24HRSnTOKYO](https://open.spotify.com/artist/6CeSdYQ18aP4mnkDZ7qbcS), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [THE BIGGEST](https://open.spotify.com/album/67prMWq0MiFFZLjJiRkZbQ) | 2:03 |
 | 31 | [02 Baby](https://open.spotify.com/track/4CmxzBlYYrBmZWTr0zr0yL) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [G.E.D.](https://open.spotify.com/album/2pxaTd2SpVcNndO69YTffP) | 3:34 |

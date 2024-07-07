@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Tz da Coronel",
-  "num_followers": 138555,
+  "num_followers": 138598,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,30 @@
     {
       "added_at": "2024-07-05 13:21:47",
       "album": {
+        "name": "Perfil#97 - Trazendo a Vibe",
+        "url": "https://open.spotify.com/album/0cwao4HPTrFgIvOzpUP02u"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        },
+        {
+          "name": "KENNEDYBEATZ",
+          "url": "https://open.spotify.com/artist/6Uz43ydgngc2Qk30cQoAXC"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Perfil#97 - Trazendo a Vibe",
+      "url": "https://open.spotify.com/track/3YYoRykWPzShaDtrYEJCtt"
+    },
+    {
+      "added_at": "2024-07-05 13:21:47",
+      "album": {
         "name": "Frenesi",
         "url": "https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA"
       },
@@ -1043,26 +1067,18 @@
     {
       "added_at": "2024-07-05 13:21:47",
       "album": {
-        "name": "Perfil#97 - Trazendo a Vibe",
-        "url": "https://open.spotify.com/album/0cwao4HPTrFgIvOzpUP02u"
+        "name": "Estrela do Rap",
+        "url": "https://open.spotify.com/album/29BE8XW1c7IjLGXh1fvBoO"
       },
       "artists": [
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Raflow",
-          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
-        },
-        {
-          "name": "KENNEDYBEATZ",
-          "url": "https://open.spotify.com/artist/6Uz43ydgngc2Qk30cQoAXC"
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
         }
       ],
-      "duration_ms": 139200,
-      "name": "Perfil#97 - Trazendo a Vibe",
-      "url": "https://open.spotify.com/track/3YYoRykWPzShaDtrYEJCtt"
+      "duration_ms": 131111,
+      "name": "Estrela do Rap",
+      "url": "https://open.spotify.com/track/6m1sOoKp7asednKyzmlAXX"
     },
     {
       "added_at": "2024-07-05 13:21:47",
@@ -1091,24 +1107,8 @@
     {
       "added_at": "2024-07-05 13:21:47",
       "album": {
-        "name": "Estrela do Rap",
-        "url": "https://open.spotify.com/album/29BE8XW1c7IjLGXh1fvBoO"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        }
-      ],
-      "duration_ms": 131111,
-      "name": "Estrela do Rap",
-      "url": "https://open.spotify.com/track/6m1sOoKp7asednKyzmlAXX"
-    },
-    {
-      "added_at": "2024-07-05 13:21:47",
-      "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
+        "name": "Direto da Selva",
+        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
       },
       "artists": [
         {
@@ -1116,17 +1116,13 @@
           "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+          "name": "Neyriellen Ferreira",
+          "url": "https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl"
         }
       ],
-      "duration_ms": 148525,
-      "name": "Cheiro de Sexo",
-      "url": "https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4"
+      "duration_ms": 200757,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
     },
     {
       "added_at": "2024-07-05 13:21:47",
@@ -1259,8 +1255,8 @@
     {
       "added_at": "2024-07-05 13:21:47",
       "album": {
-        "name": "Direto da Selva",
-        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
       "artists": [
         {
@@ -1268,13 +1264,17 @@
           "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "Neyriellen Ferreira",
-          "url": "https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl"
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
         }
       ],
-      "duration_ms": 200757,
-      "name": "Amanheceu",
-      "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
+      "duration_ms": 148525,
+      "name": "Cheiro de Sexo",
+      "url": "https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4"
     }
   ],
   "unique_name": "O Drip",

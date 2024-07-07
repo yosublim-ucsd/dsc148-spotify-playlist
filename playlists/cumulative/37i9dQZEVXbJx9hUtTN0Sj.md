@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-576 songs - 1 day 5 hr 29 min
+578 songs - 1 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,12 +69,13 @@
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-04 | 2024-06-30 |
 | [Blaue Monarchie, Vol.3](https://open.spotify.com/track/38H4YiyRNiLMo1DFFXCf4d) | [Cortex\_Sound](https://open.spotify.com/artist/4nHmMOpyMZ99ndnkcOBJ7T) | [Blaue Monarchie, Vol.3](https://open.spotify.com/album/6clw5tbvf7KHa0NuT2DWDu) | 2:32 | 2024-02-25 | 2024-03-06 |
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-29 | 2024-04-10 |
-| [BLO ANTHEM](https://open.spotify.com/track/2uCaTl5bpZFGrMuqaGBRmd) | [SAN ANDREAS](https://open.spotify.com/artist/4DkAejYwYl6ApOckPPlo1y), [MACEO](https://open.spotify.com/artist/6tPUWCm8j1OHFjMK5WLtFU) | [BLO ANTHEM](https://open.spotify.com/album/2ous7gGw2QNjkoIy9HEALk) | 2:20 | 2024-06-04 |  |
+| [BLO ANTHEM](https://open.spotify.com/track/2uCaTl5bpZFGrMuqaGBRmd) | [SAN ANDREAS](https://open.spotify.com/artist/4DkAejYwYl6ApOckPPlo1y), [MACEO](https://open.spotify.com/artist/6tPUWCm8j1OHFjMK5WLtFU) | [BLO ANTHEM](https://open.spotify.com/album/2ous7gGw2QNjkoIy9HEALk) | 2:20 | 2024-06-04 | 2024-07-07 |
 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 | 2024-02-27 | 2024-03-06 |
 | [Bonus](https://open.spotify.com/track/3KXeTMIdec8G6rclrOFKTL) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc), [Jantje](https://open.spotify.com/artist/4qkXUou0EQ56wmcais8uwJ) | [Bonus](https://open.spotify.com/album/78BcIlHd26IcfnBgOKK2jQ) | 2:10 | 2024-03-06 | 2024-04-03 |
 | [BOOYAKASHA](https://open.spotify.com/track/2Tr3E5pg3IGC64zrihS5Vf) | [Booska\-P](https://open.spotify.com/artist/49mOLAzenRv6kDrr4Akajh), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [BOOYAKASHA](https://open.spotify.com/album/53ZoT7nBjTNDuQYqo0TQrX) | 2:13 | 2024-06-01 | 2024-06-13 |
 | [Bottega](https://open.spotify.com/track/0iCQMR9dp2SD8fwoavT5z4) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Page blanche](https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN) | 2:58 | 2024-05-06 | 2024-05-08 |
 | [Bottega](https://open.spotify.com/track/5oc1MmKFXsjoGrhfa6WHsx) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Bottega](https://open.spotify.com/album/05qqIxEnOp2C3jSKLKN5Xv) | 2:58 | 2024-03-17 | 2024-04-24 |
+| [Break ‘Em All](https://open.spotify.com/track/1hH8ByI9BkzG8ASsQJoqcH) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Break 'Em All](https://open.spotify.com/album/1eZMBwcCn2tf7sWn8Ug94a) | 3:33 | 2024-07-06 |  |
 | [Breathe](https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:50 | 2024-03-05 | 2024-03-10 |
 | [Brommers Kieken](https://open.spotify.com/track/1sFOo3OyMgonEYdi4bTXHd) | [Boer Harm](https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os) | [Brommers Kieken](https://open.spotify.com/album/3AryJg88r4Hr8mSj74KaVP) | 2:26 | 2024-03-12 | 2024-05-14 |
 | [BUNKER/PREROLL](https://open.spotify.com/track/4nPeNi0XkuoYcuIshqcYVn) | [mynameisntjmack](https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh), [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [BUNKER/PREROLL](https://open.spotify.com/album/1bPxMZGxchRlhmtuAwfn81) | 2:00 | 2024-05-07 | 2024-05-13 |
@@ -406,6 +407,7 @@
 | [Pop like this Pt\. 2 \- Slowed](https://open.spotify.com/track/5jbD0oT3G5MeymhAfGsncK) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z) | [Pop like this Pt\. 2 \(Slowed\)](https://open.spotify.com/album/5lWqFzkhkUyPgmPe66je1L) | 2:02 | 2024-07-04 |  |
 | [Popcorn Salé](https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Popcorn Salé](https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V) | 3:58 | 2024-01-29 | 2024-02-13 |
 | [POPO](https://open.spotify.com/track/7B0k8YTfKzj9BGVaLYXtub) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:11 | 2024-02-20 | 2024-02-28 |
+| [PORSCHE](https://open.spotify.com/track/7KJPLYGCcgVcLTQBt9Fa6k) | [NXY0TAR0](https://open.spotify.com/artist/4a6f9s7k8GkIRcRgLnwAsz) | [PORSCHE](https://open.spotify.com/album/6lmp6mLKJkcj0bC4WJDADZ) | 2:19 | 2024-07-06 |  |
 | [Position](https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 2:21 | 2024-03-22 | 2024-03-25 |
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 | 2024-01-29 | 2024-03-20 |
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/7ueuqvQkKA9k1Pys0hB5br) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight \(Live\)](https://open.spotify.com/album/1GhTKndy4z6y8sJoKXi1kt) | 4:23 | 2024-04-11 | 2024-04-17 |
@@ -467,7 +469,7 @@
 | [Still \- uit Liefde Voor Muziek](https://open.spotify.com/track/7LEqmfgFF9t1Slhml3mn50) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2) | [Still \- uit Liefde Voor Muziek](https://open.spotify.com/album/3b1XTLACf3Qo4Mm3Abd9cS) | 3:21 | 2024-04-16 | 2024-04-24 |
 | [Streken](https://open.spotify.com/track/5KXZnw9AK9H2zLqykIvUIZ) | [Genna](https://open.spotify.com/artist/2qXV33vUIb0D4YygTg7FCT), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Streken](https://open.spotify.com/album/6NWyKQDS1bvfOpHvcZ0YdV) | 2:51 | 2024-02-29 | 2024-03-22 |
 | [Stukje Van Mij](https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Stukje Van Mij](https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL) | 3:25 | 2024-02-26 | 2024-03-06 |
-| [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-01-29 |  |
+| [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-01-29 | 2024-07-07 |
 | [SUBMARINER](https://open.spotify.com/track/2L39N1sTAiaKbN8NBtOH4I) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [SUBMARINER](https://open.spotify.com/album/2UGRgtYH9ron8nioaqzkO7) | 2:03 | 2024-04-16 | 2024-04-27 |
 | [Suffocate \(feat\. Poppy\)](https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [You Won't Go Before You're Supposed To](https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3) | 2:44 | 2024-05-16 | 2024-05-20 |
 | [Sugardaddy](https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Sugardaddy](https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf) | 2:11 | 2024-04-23 |  |

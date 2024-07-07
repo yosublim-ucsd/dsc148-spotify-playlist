@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Boston Bun, Bag Raiders
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,666 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,663 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 38 | [Stop Us Dancing](https://open.spotify.com/track/6Jn1AwT2DcxPweXDnj3brA) | [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5) | [Stop Us Dancing](https://open.spotify.com/album/2HmdlOhek2bdSlIEmvKwNS) | 2:40 |
 | 39 | [left u](https://open.spotify.com/track/19yihq4raZGhYZlDEUI75a) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA), [JOY.](https://open.spotify.com/artist/2sphpXGg1u97VSzbm5gR2P) | [left u](https://open.spotify.com/album/724lIJTgUgcouczJpSDYFg) | 3:09 |
 | 40 | [LOSE IT ALL](https://open.spotify.com/track/3J99lVecjy1nel5sbqR4C7) | [REPAIR](https://open.spotify.com/artist/0xLqXvK6horF4enARe8AIN), [Mikeyy](https://open.spotify.com/artist/55ILpEsjJWvHpPIlUQIJJW) | [Lose It All](https://open.spotify.com/album/6Uj4vtl1oiMR7uoIBWnkyf) | 3:31 |
-| 41 | [Nasty \- Match My Peak Remix](https://open.spotify.com/track/2izTSBSDm9dEHojdOaZD1j) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Match My Freak EP](https://open.spotify.com/album/1tDRvPJmMJhvYXbmVNMAXJ) | 2:39 |
+| 41 | [Nasty \(Match My Peak Remix\)](https://open.spotify.com/track/2izTSBSDm9dEHojdOaZD1j) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Match My Freak EP](https://open.spotify.com/album/1tDRvPJmMJhvYXbmVNMAXJ) | 2:39 |
 | 42 | [Our Time](https://open.spotify.com/track/1QlAewMh3yKwGIabZP80gl) | [Chores](https://open.spotify.com/artist/1iRqRj6wAq5wAAjfzpbH1I), [Aimee](https://open.spotify.com/artist/09F3JpLQquvyKqlygnVFKM) | [Our Time](https://open.spotify.com/album/6Mmbd214ZlAhjOmzJ4FoYZ) | 4:23 |
 | 43 | [Deep Diving](https://open.spotify.com/track/4iajAy0CggbXfCU947akZB) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Deep Diving](https://open.spotify.com/album/1zYIz2hjjGjKX2LH1m2voV) | 2:12 |
 | 44 | [Sum Like It Hot](https://open.spotify.com/track/3gOLOhJC6veJX4IQEO4yR9) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [Saint Rock](https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK) | [Sum Like It Hot](https://open.spotify.com/album/6XSSwhqCb8fyzXL0IhryFK) | 3:09 |

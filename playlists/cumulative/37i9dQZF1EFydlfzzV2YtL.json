@@ -3161,6 +3161,28 @@
     },
     {
       "album": {
+        "name": "Miss Misogyny",
+        "url": "https://open.spotify.com/album/2XCLHKZxCU9hKsenQR72di"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        },
+        {
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208264,
+      "name": "Vicio - Ft. Mala Rodr\u00edguez",
+      "url": "https://open.spotify.com/track/0w1jdJh9PcYgT6xBFFnSQI"
+    },
+    {
+      "album": {
         "name": "Bad Intentions",
         "url": "https://open.spotify.com/album/4F1ozgQLd1ouFs63Tndy6Q"
       },

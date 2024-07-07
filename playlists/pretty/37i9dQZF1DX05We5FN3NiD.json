@@ -1,6 +1,6 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 44341,
+  "num_followers": 44345,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Twenty Twenty",
+        "url": "https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 252987,
+      "name": "Roddy",
+      "url": "https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Remind Me Tomorrow",
         "url": "https://open.spotify.com/album/2dvXk4nacVRmDSnbKniwrS"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 173953,
       "name": "Someone To Spend Time With",
       "url": "https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Twenty Twenty",
-        "url": "https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 252987,
-      "name": "Roddy",
-      "url": "https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Charlie",
-        "url": "https://open.spotify.com/album/5p3g2nCVAeUIXzhBtTYWux"
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w"
       },
       "artists": [
         {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
         }
       ],
-      "duration_ms": 190763,
-      "name": "Charlie",
-      "url": "https://open.spotify.com/track/6SPOM20nWbQSBvTwzgIzqg"
+      "duration_ms": 212750,
+      "name": "YKWIM?",
+      "url": "https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1371,6 +1371,22 @@
       "duration_ms": 217946,
       "name": "Faith",
       "url": "https://open.spotify.com/track/5fLZQWarUISdz4attMFTXl"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Charlie",
+        "url": "https://open.spotify.com/album/5p3g2nCVAeUIXzhBtTYWux"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 190763,
+      "name": "Charlie",
+      "url": "https://open.spotify.com/track/6SPOM20nWbQSBvTwzgIzqg"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Tomb",
-        "url": "https://open.spotify.com/album/0H3WQSbJ7SgZtB35BEOP9P"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 236819,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/4oU6HYNtuW2DzjgyYrOy8J"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
       },
@@ -1451,6 +1451,22 @@
       "duration_ms": 262266,
       "name": "Naeem",
       "url": "https://open.spotify.com/track/1ff60tDWdcdVN6PtKQXWny"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Tomb",
+        "url": "https://open.spotify.com/album/0H3WQSbJ7SgZtB35BEOP9P"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 236819,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/4oU6HYNtuW2DzjgyYrOy8J"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "All Mirrors",
-        "url": "https://open.spotify.com/album/0RedX0LZkGUFoRwFntAaI0"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "New Love Cassette",
-      "url": "https://open.spotify.com/track/4SsWVvNKAHJP1T2bP6d2ut"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 145720,
       "name": "U (Man Like)",
       "url": "https://open.spotify.com/track/2a8HLMRc6E0AM4xXiQ4wh6"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "All Mirrors",
+        "url": "https://open.spotify.com/album/0RedX0LZkGUFoRwFntAaI0"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "New Love Cassette",
+      "url": "https://open.spotify.com/track/4SsWVvNKAHJP1T2bP6d2ut"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1615,34 +1631,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "U.F.O.F.",
-        "url": "https://open.spotify.com/album/5X0bIKvPtSDo4NpXqgrB6p"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/00sZIJm0igl6aBYNktEuSy"
       },
       "artists": [
         {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
         }
       ],
-      "duration_ms": 188413,
-      "name": "UFOF",
-      "url": "https://open.spotify.com/track/1DXvEWgI1xoxmKv2Zd3pNE"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "YKWIM?",
-      "url": "https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB"
+      "duration_ms": 156293,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/711gGx1GpUv9YW9KTSfJfH"
     }
   ],
   "unique_name": "Best of Indie 2019",

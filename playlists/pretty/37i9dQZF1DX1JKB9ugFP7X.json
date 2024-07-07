@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 24059,
+  "num_followers": 24057,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "Yegua",
+      "url": "https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
         "name": "RESPIRAR",
         "url": "https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 145573,
       "name": "RESPIRAR",
       "url": "https://open.spotify.com/track/4WSrc5DozzVTtZcGafsVvf"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 163994,
-      "name": "Yegua",
-      "url": "https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
+        "name": "2 Son 3",
+        "url": "https://open.spotify.com/album/2cUzWOspLcV5jj7lBuO51G"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 165455,
+      "name": "2 Son 3",
+      "url": "https://open.spotify.com/track/4kxj9KZS04HYOdJOgawFTT"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
         "name": "I SEE U LATER",
         "url": "https://open.spotify.com/album/7qhmOz5dZGhmcRfB0izeNl"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 205838,
       "name": "I SEE U LATER",
       "url": "https://open.spotify.com/track/4wEnEUyAyluBTAskEb96YU"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "2 Son 3",
-        "url": "https://open.spotify.com/album/2cUzWOspLcV5jj7lBuO51G"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 165455,
-      "name": "2 Son 3",
-      "url": "https://open.spotify.com/track/4kxj9KZS04HYOdJOgawFTT"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -559,26 +559,6 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "Remixes II",
-        "url": "https://open.spotify.com/album/1wm51GhrM9EfstuTCgzn7N"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        },
-        {
-          "name": "Tom Tom",
-          "url": "https://open.spotify.com/artist/1OwIf97MAIexwinSla1QrP"
-        }
-      ],
-      "duration_ms": 228290,
-      "name": "Pana",
-      "url": "https://open.spotify.com/track/5m7I0u6k7PV2qSoGH3Os9h"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
         "name": "Fotonovela",
         "url": "https://open.spotify.com/album/04vG2wy1arlZRS1QmhIxUQ"
       },
@@ -599,6 +579,26 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
+        "name": "Remixes II",
+        "url": "https://open.spotify.com/album/1wm51GhrM9EfstuTCgzn7N"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        },
+        {
+          "name": "Tom Tom",
+          "url": "https://open.spotify.com/artist/1OwIf97MAIexwinSla1QrP"
+        }
+      ],
+      "duration_ms": 228290,
+      "name": "Pana",
+      "url": "https://open.spotify.com/track/5m7I0u6k7PV2qSoGH3Os9h"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
         "name": "PAGA DIOS",
         "url": "https://open.spotify.com/album/6N0HJ7vRJLzUVjBmQPrDit"
       },
@@ -615,6 +615,26 @@
       "duration_ms": 136427,
       "name": "PAGA DIOS",
       "url": "https://open.spotify.com/track/2CGc8zqNbsnYVV5oPXZIku"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "Dejarte Estar (Pyura Remix)",
+        "url": "https://open.spotify.com/album/12S0HzVMapdyKJ7WCkevpD"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        },
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        }
+      ],
+      "duration_ms": 175804,
+      "name": "Dejarte Estar (Pyura Remix)",
+      "url": "https://open.spotify.com/track/4HdaqE9B6ljQefhcVMy2bo"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -643,26 +663,6 @@
       "duration_ms": 167113,
       "name": "Shock (feat. Kabasaki)",
       "url": "https://open.spotify.com/track/0aHZqxYvut2l9cqJ73VrpK"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "Dejarte Estar (Pyura Remix)",
-        "url": "https://open.spotify.com/album/12S0HzVMapdyKJ7WCkevpD"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        },
-        {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        }
-      ],
-      "duration_ms": 175804,
-      "name": "Dejarte Estar (Pyura Remix)",
-      "url": "https://open.spotify.com/track/4HdaqE9B6ljQefhcVMy2bo"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "Desorden",
-        "url": "https://open.spotify.com/album/1AePedyRPFkUCs80EPerMZ"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Desorden",
-      "url": "https://open.spotify.com/track/52EmSXkdJ2wvrfu4aUAfoY"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
         "name": "VALOR",
         "url": "https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 223133,
       "name": "VALOR",
       "url": "https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "Desorden",
+        "url": "https://open.spotify.com/album/1AePedyRPFkUCs80EPerMZ"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "Desorden",
+      "url": "https://open.spotify.com/track/52EmSXkdJ2wvrfu4aUAfoY"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "MUY MUCHO",
-        "url": "https://open.spotify.com/album/07J3RchD8DscOvvyRPxT9A"
-      },
-      "artists": [
-        {
-          "name": "Vesta Lugg",
-          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
-        },
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        }
-      ],
-      "duration_ms": 154893,
-      "name": "PARACETAMOL (perd\u00f3n x ser bella)",
-      "url": "https://open.spotify.com/track/0xu7SDYSQimMbBZ5dadrad"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
         "name": "SUBTE L\u00cdNEA B REWORK",
         "url": "https://open.spotify.com/album/7IqRnbCJmXk2lw716fZe9s"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 243260,
       "name": "SUBTE L\u00cdNEA B REWORK",
       "url": "https://open.spotify.com/track/6kLvnP2M8nw9h7yCLuOJT2"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "MUY MUCHO",
+        "url": "https://open.spotify.com/album/07J3RchD8DscOvvyRPxT9A"
+      },
+      "artists": [
+        {
+          "name": "Vesta Lugg",
+          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "PARACETAMOL (perd\u00f3n x ser bella)",
+      "url": "https://open.spotify.com/track/0xu7SDYSQimMbBZ5dadrad"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
+        "name": "Teoria Espacial (Remix)",
+        "url": "https://open.spotify.com/album/4pfZBCyYE5KMS26hgwqNQx"
+      },
+      "artists": [
+        {
+          "name": "Diego Chamorro",
+          "url": "https://open.spotify.com/artist/1qTE6Gdbjz9RJTF2nNzBJh"
+        },
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 332542,
+      "name": "Teoria Espacial (Remix)",
+      "url": "https://open.spotify.com/track/6AHPhNfRmMZX9Oj4ulslKw"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
         "name": "Postal",
         "url": "https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 195053,
       "name": "aquiles </3",
       "url": "https://open.spotify.com/track/3JlmPR9gOPy4OC3zQJp71Y"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "Teoria Espacial (Remix)",
-        "url": "https://open.spotify.com/album/4pfZBCyYE5KMS26hgwqNQx"
-      },
-      "artists": [
-        {
-          "name": "Diego Chamorro",
-          "url": "https://open.spotify.com/artist/1qTE6Gdbjz9RJTF2nNzBJh"
-        },
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 332542,
-      "name": "Teoria Espacial (Remix)",
-      "url": "https://open.spotify.com/track/6AHPhNfRmMZX9Oj4ulslKw"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
+        "name": "Cuando Se Apague Todo",
+        "url": "https://open.spotify.com/album/0Obeuspkyeh5UWUcKoeILS"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        }
+      ],
+      "duration_ms": 228443,
+      "name": "Cuando Se Apague Todo",
+      "url": "https://open.spotify.com/track/2qIWjqbvqHBEwl2p7cvsfk"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
         "name": "Derrumbe",
         "url": "https://open.spotify.com/album/23csDME5tEskWfOBPW09mi"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 228000,
       "name": "El Im\u00e1n - Remix",
       "url": "https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "Cuando Se Apague Todo",
-        "url": "https://open.spotify.com/album/0Obeuspkyeh5UWUcKoeILS"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        },
-        {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        }
-      ],
-      "duration_ms": 228443,
-      "name": "Cuando Se Apague Todo",
-      "url": "https://open.spotify.com/track/2qIWjqbvqHBEwl2p7cvsfk"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1511,42 +1511,6 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "Un Dia de Verano",
-        "url": "https://open.spotify.com/album/7mUWKTXni4xWqWkml6g3Yy"
-      },
-      "artists": [
-        {
-          "name": "Milagros",
-          "url": "https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU"
-        },
-        {
-          "name": "YOGAROCK",
-          "url": "https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc"
-        }
-      ],
-      "duration_ms": 215046,
-      "name": "Un Dia de Verano",
-      "url": "https://open.spotify.com/track/3GeqVjy0mj0rxdQEhorw8I"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
-      },
-      "artists": [
-        {
-          "name": "Fakuta",
-          "url": "https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD"
-        }
-      ],
-      "duration_ms": 235710,
-      "name": "La Monta\u00f1a",
-      "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
         "name": "Trampa",
         "url": "https://open.spotify.com/album/5h0zHqIGlc2gXRQclK3JNL"
       },
@@ -1583,6 +1547,42 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
+      },
+      "artists": [
+        {
+          "name": "Fakuta",
+          "url": "https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD"
+        }
+      ],
+      "duration_ms": 235710,
+      "name": "La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "Un Dia de Verano",
+        "url": "https://open.spotify.com/album/7mUWKTXni4xWqWkml6g3Yy"
+      },
+      "artists": [
+        {
+          "name": "Milagros",
+          "url": "https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU"
+        },
+        {
+          "name": "YOGAROCK",
+          "url": "https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc"
+        }
+      ],
+      "duration_ms": 215046,
+      "name": "Un Dia de Verano",
+      "url": "https://open.spotify.com/track/3GeqVjy0mj0rxdQEhorw8I"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
         "name": "Marcha II",
         "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
       },
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
+        "name": "Luc\u00eda",
+        "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
+      },
+      "artists": [
+        {
+          "name": "Renata Di Croce",
+          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "Luc\u00eda",
+      "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
         "name": "\u00c1ngel Malo",
         "url": "https://open.spotify.com/album/2MJTEprt9EmWCzhfSAJKlw"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 214871,
       "name": "\u00c1ngel Malo",
       "url": "https://open.spotify.com/track/66Rr0jxckqZvjgYfqIInZD"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "Luc\u00eda",
-        "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
-      },
-      "artists": [
-        {
-          "name": "Renata Di Croce",
-          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "Luc\u00eda",
-      "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1767,18 +1767,22 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "Cu\u00e1nto Falta",
-        "url": "https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD"
+        "name": "Todas las Luces (Remix)",
+        "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
       },
       "artists": [
         {
-          "name": "Ziberia",
-          "url": "https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH"
+          "name": "Nadar de Noche",
+          "url": "https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get"
+        },
+        {
+          "name": "Disonar",
+          "url": "https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM"
         }
       ],
-      "duration_ms": 240050,
-      "name": "Cu\u00e1nto Falta",
-      "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
+      "duration_ms": 220000,
+      "name": "Todas las Luces - Remix",
+      "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
     }
   ],
   "unique_name": "ElectroPop",

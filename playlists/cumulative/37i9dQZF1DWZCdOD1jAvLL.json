@@ -5431,6 +5431,24 @@
     },
     {
       "album": {
+        "name": "GOLDEN GOOSE",
+        "url": "https://open.spotify.com/album/3kGph3xbohiCNsRQs2cjpL"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142163,
+      "name": "GOLDEN GOOSE",
+      "url": "https://open.spotify.com/track/1Twewmebxt8FyDlmpj0zGt"
+    },
+    {
+      "album": {
         "name": "Gonna Be Alright",
         "url": "https://open.spotify.com/album/7hd4Sowpp2laWg6Gw7veOS"
       },
@@ -6226,7 +6244,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 177619,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/12zQfnvVvxduyDUfxlw65T"
@@ -8720,7 +8738,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 182769,
       "name": "Motor",
       "url": "https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH"
@@ -10842,7 +10860,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 248571,
       "name": "Push It",
       "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"

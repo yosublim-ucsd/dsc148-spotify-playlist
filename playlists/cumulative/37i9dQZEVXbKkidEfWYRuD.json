@@ -5187,6 +5187,28 @@
     },
     {
       "album": {
+        "name": "fye",
+        "url": "https://open.spotify.com/album/0sMx2DUajgDS8wP9xyEWkO"
+      },
+      "artists": [
+        {
+          "name": "zxcursed",
+          "url": "https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs"
+        },
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117471,
+      "name": "fye",
+      "url": "https://open.spotify.com/track/1EnlHLLxnHURgWNv3vzeMk"
+    },
+    {
+      "album": {
         "name": "F\u039bSHION",
         "url": "https://open.spotify.com/album/7umRaDZ9FqTaL2EWZvGMEX"
       },
@@ -6592,7 +6614,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 163278,
       "name": "I GOT U",
       "url": "https://open.spotify.com/track/39uQdNywrxrH1ZjfOFc72n"
@@ -12224,7 +12246,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 154250,
       "name": "Salut papa",
       "url": "https://open.spotify.com/track/0TskfugKgc0Dj6Afw0jdmu"
@@ -14162,7 +14184,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 180141,
       "name": "The Code",
       "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"

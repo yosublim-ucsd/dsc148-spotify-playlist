@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1khS5Pll0YEduwuZdciEbe.md) - [plain]
 
 > Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Lil Yachty/James Blake
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 8,519 likes - 80 songs - 4 hr 48 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 8,518 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

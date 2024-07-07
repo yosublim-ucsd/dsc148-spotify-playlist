@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Alejandro y Mar\u00eda Laura.",
-  "num_followers": 124476,
+  "num_followers": 124493,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Un Golpe de Suerte",
-        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 269932,
-      "name": "Un Golpe de Suerte",
-      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Herminia",
         "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
@@ -795,22 +779,34 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
+        "name": "Un Golpe de Suerte",
+        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
       },
       "artists": [
         {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        },
-        {
-          "name": "Guillem Roma",
-          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
         }
       ],
-      "duration_ms": 212019,
-      "name": "T\u00f3came",
-      "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
+      "duration_ms": 269932,
+      "name": "Un Golpe de Suerte",
+      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Cara de tonta",
+        "url": "https://open.spotify.com/album/2SjMbXS5MmWrwIDJ5LzbC7"
+      },
+      "artists": [
+        {
+          "name": "GREX",
+          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
+        }
+      ],
+      "duration_ms": 126650,
+      "name": "Cara de tonta",
+      "url": "https://open.spotify.com/track/3c6llTjaecWdHx3EDl1Fop"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -855,18 +851,22 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Cara de tonta",
-        "url": "https://open.spotify.com/album/2SjMbXS5MmWrwIDJ5LzbC7"
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
       },
       "artists": [
         {
-          "name": "GREX",
-          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
         }
       ],
-      "duration_ms": 126650,
-      "name": "Cara de tonta",
-      "url": "https://open.spotify.com/track/3c6llTjaecWdHx3EDl1Fop"
+      "duration_ms": 212019,
+      "name": "T\u00f3came",
+      "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "La Mirada",
-        "url": "https://open.spotify.com/album/3FZkTuYvjUBlFTzQ3GlNUC"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "La Mirada",
-      "url": "https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Continuar",
         "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 157928,
       "name": "Continuar",
       "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "La Mirada",
+        "url": "https://open.spotify.com/album/3FZkTuYvjUBlFTzQ3GlNUC"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "La Mirada",
+      "url": "https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
+        "name": "Anoche te vi",
+        "url": "https://open.spotify.com/album/0HFlsuCPKzl2KaPSbNtHsD"
+      },
+      "artists": [
+        {
+          "name": "Lou Cornago",
+          "url": "https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Anoche te vi",
+      "url": "https://open.spotify.com/track/0opBwwDsUCerrmDKwjBZHD"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
         "name": "Como Un Amuleto",
         "url": "https://open.spotify.com/album/2qln21nT8RxwJWyJOhSgGU"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 191689,
       "name": "Como Un Amuleto",
       "url": "https://open.spotify.com/track/2nRjw9V6oQmueOWsaoymJ4"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Anoche te vi",
-        "url": "https://open.spotify.com/album/0HFlsuCPKzl2KaPSbNtHsD"
-      },
-      "artists": [
-        {
-          "name": "Lou Cornago",
-          "url": "https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Anoche te vi",
-      "url": "https://open.spotify.com/track/0opBwwDsUCerrmDKwjBZHD"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
+        "name": "La Noche de Mi Amor",
+        "url": "https://open.spotify.com/album/4HZrNKdPv7iheKniNZOH7E"
+      },
+      "artists": [
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        },
+        {
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        }
+      ],
+      "duration_ms": 214464,
+      "name": "La Noche de Mi Amor",
+      "url": "https://open.spotify.com/track/3kMOp6GfCkln4nR91q9ESE"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
         "name": "Hoy no tengo nada que hacer",
         "url": "https://open.spotify.com/album/7beLtij36C7qfuqwwdoqhQ"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 227357,
       "name": "Temerario - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0f4uL39wrm5n6iDF2ZQEuH"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "La Noche de Mi Amor",
-        "url": "https://open.spotify.com/album/4HZrNKdPv7iheKniNZOH7E"
-      },
-      "artists": [
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        },
-        {
-          "name": "Eugenia Leon",
-          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
-        }
-      ],
-      "duration_ms": 214464,
-      "name": "La Noche de Mi Amor",
-      "url": "https://open.spotify.com/track/3kMOp6GfCkln4nR91q9ESE"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Migas",
-        "url": "https://open.spotify.com/album/0z8Py2L5re037O71sy22q9"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9Canela",
-          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
-        }
-      ],
-      "duration_ms": 333409,
-      "name": "Migas",
-      "url": "https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Vidrieritas",
         "url": "https://open.spotify.com/album/7coLrKNPKAPDZfgLotJ1VW"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 215786,
       "name": "Vidrieritas",
       "url": "https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Migas",
+        "url": "https://open.spotify.com/album/0z8Py2L5re037O71sy22q9"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9Canela",
+          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
+        }
+      ],
+      "duration_ms": 333409,
+      "name": "Migas",
+      "url": "https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
+        "name": "El Uniforme",
+        "url": "https://open.spotify.com/album/3yKCDNAd10ZlTVTSONPGye"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e's Clue",
+          "url": "https://open.spotify.com/artist/1sRWTOOn4OvDGoe1oXVFoE"
+        }
+      ],
+      "duration_ms": 120020,
+      "name": "El Uniforme",
+      "url": "https://open.spotify.com/track/7cmLEaipTvsKCLhAURQJm3"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
         "name": "El Estallido",
         "url": "https://open.spotify.com/album/4P98v55Jw2OQtU0TO62MW8"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 225000,
       "name": "El Estallido",
       "url": "https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "El Uniforme",
-        "url": "https://open.spotify.com/album/3yKCDNAd10ZlTVTSONPGye"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e's Clue",
-          "url": "https://open.spotify.com/artist/1sRWTOOn4OvDGoe1oXVFoE"
-        }
-      ],
-      "duration_ms": 120020,
-      "name": "El Uniforme",
-      "url": "https://open.spotify.com/track/7cmLEaipTvsKCLhAURQJm3"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "En Veinte D\u00edas",
-        "url": "https://open.spotify.com/album/3S0jzswjcXBEcrE8sjMtkA"
-      },
-      "artists": [
-        {
-          "name": "Riki Rivera",
-          "url": "https://open.spotify.com/artist/56a9ZPfJUNNeHLjmxpqMCU"
-        }
-      ],
-      "duration_ms": 164025,
-      "name": "En Veinte D\u00edas",
-      "url": "https://open.spotify.com/track/6xcv4O4uFHAP01ay3vTSFC"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/2BrwzeYkAzmI4RnzLCgbv8"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 190124,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/6NcGTOcFLQiYSrW8pv7fuO"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "una se\u00f1al",
+        "url": "https://open.spotify.com/album/1vkND1PLjBMiCq6d8h6mBp"
+      },
+      "artists": [
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "una se\u00f1al",
+      "url": "https://open.spotify.com/track/7C4aWyzH7EbUkyGhlbOPcC"
     }
   ],
   "unique_name": "Cancionistas",

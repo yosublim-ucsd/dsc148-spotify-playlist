@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Qing Madi
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,949 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,024 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 40 | [Tolo \(Faut m'oublier\)](https://open.spotify.com/track/2oxnEx8bPoKUbcIqpfmJZZ) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Tolo \(Faut m'oublier\)](https://open.spotify.com/album/2Ay0zPbqsIp2IwmvHiBtp3) | 2:49 |
 | 41 | [Left Right \- Remix](https://open.spotify.com/track/3qVrEW61X44OTkV4WtG722) | [Keys the Prince](https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Left Right \(Remix\)](https://open.spotify.com/album/5P6aFTTB6cvh6AlFWCMycR) | 2:46 |
 | 42 | [Siyé](https://open.spotify.com/track/2cvLICgohXX5Rfmoh2jPsZ) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5) | [Who's Harley](https://open.spotify.com/album/43CuhnTFkeuhMv9r5r1CpH) | 3:26 |
-| 43 | [ONOME](https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg) | 3:17 |
+| 43 | [ONOME](https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg) | 3:18 |
 | 44 | [Jamais \(feat\. Lossa\)](https://open.spotify.com/track/2V4ttOwCG3RHKSjHMIP9ST) | [Jaymax](https://open.spotify.com/artist/0v5TXXJsokDC2bYAUe8UAF), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Jamais \(feat\. Lossa\)](https://open.spotify.com/album/2PtjiV7aOcE4HzFCWz8PNO) | 3:23 |
 | 45 | [Work Me Out \(with Wizkid\)](https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:42 |
 | 46 | [Level Up](https://open.spotify.com/track/69fWryTuH5JezLWJQepEhv) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Level Up](https://open.spotify.com/album/1QYVgMdZvkGrCUfgJNYp1W) | 2:54 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is The Beatles. The essential tracks, all in one playlist.",
-  "num_followers": 3340908,
+  "description": "This Is The Beatles. Los temas esenciales, todos en una lista.",
+  "num_followers": 3341502,
   "original_name": "This Is The Beatles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAABXPJGlW6wI2moqLKpfyV5j",
+  "snapshot_id": "Zoc3gAAAAAAgN/Qm7l6TY7qR+q/A3mSy",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Hard Day's Night (Remastered)",
-        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "A Hard Day's Night - Remastered 2009",
-      "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abbey Road (Remastered)",
         "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 208466,
       "name": "Lucy In The Sky With Diamonds - Remastered 2009",
       "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 117013,
+      "name": "Do You Want To Know A Secret - Remastered 2009",
+      "url": "https://open.spotify.com/track/7Aobt67JnaF7qN8jCCKvHq"
     },
     {
       "added_at": null,

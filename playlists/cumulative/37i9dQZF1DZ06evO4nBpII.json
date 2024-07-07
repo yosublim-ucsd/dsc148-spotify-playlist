@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-12",
-  "description": "This is Green Day. The essential tracks, all in one playlist.",
+  "description": "This Is Green Day. Los temas esenciales, todos en una lista.",
   "name": "This Is Green Day",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 176346,
       "name": "American Idiot",
       "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 338146,
       "name": "Are We the Waiting / St. Jimmy",
       "url": "https://open.spotify.com/track/5MqV2o7iLd0lNREZ7SYL05"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 262386,
       "name": "Boulevard of Broken Dreams (feat. John Gallagher Jr., Rebecca Naomi Jones, Stark Sands, The American Idiot Broadway Company)",
       "url": "https://open.spotify.com/track/41pFyxOpS119Pb8JEzhx0w"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 460000,
       "name": "Extraordinary Girl / Letterbomb",
       "url": "https://open.spotify.com/track/3RBXNeUbe3X7ZBch00D2St"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 303293,
       "name": "Oh Love",
       "url": "https://open.spotify.com/track/1qIgyDoc2rwtq8w49jeWL8"
@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 285653,
       "name": "Wake Me up When September Ends",
       "url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"

@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 252657,
       "name": "Capeta",
       "url": "https://open.spotify.com/track/7z3sKadtOn8qN2yUJ44a7c"
@@ -2622,6 +2622,24 @@
       "duration_ms": 249411,
       "name": "Carnavil\u00e3",
       "url": "https://open.spotify.com/track/3ZwxCLm9NO4DHraGWleIpc"
+    },
+    {
+      "album": {
+        "name": "Casa de Boneca",
+        "url": "https://open.spotify.com/album/2HKCooq58CYNbgVnVlZka2"
+      },
+      "artists": [
+        {
+          "name": "Nina Oliveira",
+          "url": "https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159230,
+      "name": "Casa de Boneca",
+      "url": "https://open.spotify.com/track/4RD4FUbGQqHE8nMnv3inYJ"
     },
     {
       "album": {
@@ -5996,7 +6014,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 300225,
       "name": "J\u00e3o",
       "url": "https://open.spotify.com/track/3M80e1o76JHkyMDz2UsJFs"
@@ -14288,6 +14306,24 @@
       "duration_ms": 207294,
       "name": "Viva Escultura",
       "url": "https://open.spotify.com/track/0RX9c9PLHNmGQux8nC6O7w"
+    },
+    {
+      "album": {
+        "name": "Garoa",
+        "url": "https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Voa",
+      "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"
     },
     {
       "album": {

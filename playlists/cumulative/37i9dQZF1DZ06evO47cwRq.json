@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-09",
-  "description": "This is Linkin Park. The essential tracks, all in one playlist.",
+  "description": "This Is Linkin Park. Los temas esenciales, todos en una lista.",
   "name": "This Is Linkin Park",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 196133,
       "name": "Breaking the Habit",
       "url": "https://open.spotify.com/track/3dxiWIBVJRlqh9xk144rf4"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 230253,
       "name": "BURN IT DOWN",
       "url": "https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 187933,
       "name": "Don't Stay",
       "url": "https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 201428,
       "name": "Fighting Myself",
       "url": "https://open.spotify.com/track/2ipYQ6pcabz1NovVrr9LKH"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 197506,
       "name": "Figure.09",
       "url": "https://open.spotify.com/track/0rPTPahzhGx9LSzI8XX5OM"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 175506,
       "name": "From the Inside",
       "url": "https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 164213,
       "name": "Hit the Floor",
       "url": "https://open.spotify.com/track/4wHktoSf6C0C0fAO8IIWqs"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 211093,
       "name": "I'LL BE GONE",
       "url": "https://open.spotify.com/track/3cQGb2POE359G9WH81bF60"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 218013,
       "name": "In Pieces",
       "url": "https://open.spotify.com/track/7jeI6EdY0elPSNz80mAKS8"
@@ -606,6 +606,24 @@
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
+    },
+    {
+      "album": {
+        "name": "Papercuts: Instrumentals",
+        "url": "https://open.spotify.com/album/494aUGKXMH5ruXtR3O1a3H"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216346,
+      "name": "In the End (Instrumental)",
+      "url": "https://open.spotify.com/track/6RUv6gg1Jv1NMT8N5Jv2Wd"
     },
     {
       "album": {
@@ -790,7 +808,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 161000,
       "name": "More the Victim",
       "url": "https://open.spotify.com/track/50jyxHSIHAz7N5jIzODvs4"
@@ -844,7 +862,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 225546,
       "name": "Nobody Can Save Me",
       "url": "https://open.spotify.com/track/3dJj6o9o1fRgrojWjailuz"
@@ -880,7 +898,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 289906,
       "name": "Shadow of the Day",
       "url": "https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1"
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 178200,
       "name": "Sharp Edges",
       "url": "https://open.spotify.com/track/6c0I7CfL9ziGZN8yYkLppP"

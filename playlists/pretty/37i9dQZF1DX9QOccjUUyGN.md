@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: MC Rogerinho, WIU
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,527 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,523 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 18 | [OPORTUNISTA](https://open.spotify.com/track/68UDudw2hNlLsKsLpiglUs) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T), [Slaasty](https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1) | [OPORTUNISTA](https://open.spotify.com/album/5mcvjPjNdthyiY0pd8MkPD) | 2:45 |
 | 19 | [Famosinha do OnlyFans](https://open.spotify.com/track/1oJgRirQXrktbxm9d32Ok2) | [Dafree](https://open.spotify.com/artist/2qZPS0OspRKa9zYGRLpNer), [SMU](https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c), [Daan Mc](https://open.spotify.com/artist/4X6uKYeA7OePF4FkyjdXXe) | [Famosinha do OnlyFans](https://open.spotify.com/album/2kzTcINhgShMMgvVVhL9bM) | 1:45 |
 | 20 | [Cifrão](https://open.spotify.com/track/0Iu24a4wzAoC0RHcldl5T2) | [onlysantos](https://open.spotify.com/artist/70o9nrw1XY8SxiA08HjquG), [Shaodree](https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW), [Drês](https://open.spotify.com/artist/3ErOpqRG5zZBQFiuW7VKMf) | [Cifrão](https://open.spotify.com/album/5W4aranEQj95XScHcEdaLw) | 3:07 |
-| 21 | [Primeiro M](https://open.spotify.com/track/7p6k9rt7Hp2PyHsHJ159e0) | [Cauart](https://open.spotify.com/artist/37ABwEAZXTXfUkhoAKzgOP), [Blackbe](https://open.spotify.com/artist/6BsJ09vtlJuxZ9dRxLbajo), [Lp067](https://open.spotify.com/artist/20EHnmoCDJFL4mnot2ad3M) | [Primeiro M](https://open.spotify.com/album/5s5jtuQGYrhjQDWczUkv2x) | 2:00 |
+| 21 | [Primeiro M](https://open.spotify.com/track/7p6k9rt7Hp2PyHsHJ159e0) | [Blackbe](https://open.spotify.com/artist/6BsJ09vtlJuxZ9dRxLbajo), [Lp067](https://open.spotify.com/artist/20EHnmoCDJFL4mnot2ad3M), [Cauart](https://open.spotify.com/artist/37ABwEAZXTXfUkhoAKzgOP) | [Primeiro M](https://open.spotify.com/album/5s5jtuQGYrhjQDWczUkv2x) | 2:00 |
 | 22 | [Quem Nunca Sonhou](https://open.spotify.com/track/2jhYhlcnEwvkxh2yXL8Jol) | [Didi](https://open.spotify.com/artist/15bTpg6S948FjSiOhB7eXi), [Dvasto](https://open.spotify.com/artist/6aFCFfJzCIbZ8h4xLsduHf), [Jotta](https://open.spotify.com/artist/0vp5aE4y1wHwSXS7RFpd2Y), [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS) | [Quem Nunca Sonhou](https://open.spotify.com/album/5EDen3KhtVXzxjrkaE29sz) | 2:43 |
 | 23 | [EU](https://open.spotify.com/track/41IaQg6FancXX1YjQmHlpR) | [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4), [Duda Pasqualin](https://open.spotify.com/artist/2XyFVVRijWv2Ndh6Z4HT6u) | [EU](https://open.spotify.com/album/1NuDUGtdxzZJwxcx4rS7PP) | 2:20 |
 | 24 | [Tropa do 7](https://open.spotify.com/track/3SPAlLEmYH4u0ICdTrVgnE) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Saed Mc](https://open.spotify.com/artist/540NPiDp5PBz35ORaeej9V) | [Tropa do 7](https://open.spotify.com/album/5DDWGPR3aJlBPoKTdS26af) | 2:31 |

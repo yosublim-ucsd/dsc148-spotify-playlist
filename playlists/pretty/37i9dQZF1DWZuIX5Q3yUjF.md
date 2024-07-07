@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Palmaria
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,551 likes - 55 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,552 likes - 55 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 2 | [Scappare \- Giugno](https://open.spotify.com/track/0TtThvGaz2w4zpc65Jciy0) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [BUIO](https://open.spotify.com/album/03X2HS3tppcArxJrQGBatI) | 2:46 |
 | 3 | [Romanzo Rosa](https://open.spotify.com/track/5oR5NvN3Cml2LD0sq7zDAN) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI), [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9) | [Romanzo Rosa](https://open.spotify.com/album/1ozTJQBhbtke6kyb7Co7x6) | 3:01 |
 | 4 | [Mambo](https://open.spotify.com/track/1Eslj0XCaVpzPbYBmaol7T) | [Tatum Rush](https://open.spotify.com/artist/47p2js8l70JjDWGS0a1hqr) | [Mambo](https://open.spotify.com/album/4Rf1gy3dHPSQNFhanMHtjp) | 4:05 |
-| 5 | [BOCCA DELLA VERITÀ](https://open.spotify.com/track/3tTZk8sI7WC853LADC8hZh) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neil](https://open.spotify.com/artist/0j3MbC9QJgv5lhcvF0N5uq) | [BOCCA DELLA VERITÀ](https://open.spotify.com/album/51pHiicssnO5VzkGXsLLx3) | 2:50 |
+| 5 | [BOCCA DELLA VERITÀ](https://open.spotify.com/track/3tTZk8sI7WC853LADC8hZh) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [BOCCA DELLA VERITÀ](https://open.spotify.com/album/51pHiicssnO5VzkGXsLLx3) | 2:50 |
 | 6 | [Lupo Volkswagen](https://open.spotify.com/track/2KKBe1n19PkNbfhGg4DYIA) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 3:05 |
 | 7 | [NIRVANA \(feat\. Evra & Ernvss\)](https://open.spotify.com/track/3vzHw9uFJNbJDxI1i4XjjI) | [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay), [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [ernvss](https://open.spotify.com/artist/7gC9tWX4RacI5aIaYQCPza) | [NIRVANA \(feat\. Evra & Ernvss\)](https://open.spotify.com/album/3gpFFqGGAPba2wQLjR6TC3) | 3:17 |
 | 8 | [Sotto Effetto](https://open.spotify.com/track/5AoTOyFrguTiDH1YCCHZMh) | [TÄRA](https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q) | [Sotto Effetto](https://open.spotify.com/album/4O32SggIcVIFHoRIzTPtdB) | 2:52 |

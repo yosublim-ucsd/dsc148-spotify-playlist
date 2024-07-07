@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
+  "description": "This is Hyperanhas. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Hyperanhas",
   "tracks": [
     {
@@ -302,6 +302,44 @@
       "duration_ms": 244000,
       "name": "Donas do Jogo",
       "url": "https://open.spotify.com/track/1cS6RxJm9VWnbIYyFM0BVm"
+    },
+    {
+      "album": {
+        "name": "Set CaioPassos",
+        "url": "https://open.spotify.com/album/3AtubrcAnHQi8q4qIGNtbh"
+      },
+      "artists": [
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Mc Magal",
+          "url": "https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr"
+        },
+        {
+          "name": "Mandela",
+          "url": "https://open.spotify.com/artist/4NSOTpwJncCNeL521Q6p5Y"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236052,
+      "name": "Drip Maloka",
+      "url": "https://open.spotify.com/track/1oC6XCWaCJLmtpKaNnY6jU"
     },
     {
       "album": {
@@ -1494,7 +1532,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 174000,
       "name": "Ta Bom",
       "url": "https://open.spotify.com/track/46UPP4xynkI9HDt6zK4dhq"

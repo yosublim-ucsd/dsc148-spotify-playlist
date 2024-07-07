@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Loops",
+        "url": "https://open.spotify.com/album/7LdkHMP8fcMyfo85r1HvKJ"
+      },
+      "artists": [
+        {
+          "name": "Ameba",
+          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114729,
+      "name": "August",
+      "url": "https://open.spotify.com/track/6WnEp9XsKFq5n88FzFT20Z"
+    },
+    {
+      "album": {
         "name": "Autumn Briefs",
         "url": "https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW"
       },
@@ -5290,7 +5308,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 92171,
       "name": "Toyohashi",
       "url": "https://open.spotify.com/track/1yxb0vmipa1UHagaqH2pAP"

@@ -1,12 +1,12 @@
 {
   "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
-  "num_followers": 124259,
+  "num_followers": 124263,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAACzq/vlqBwKYjhMdL3M6fkV",
+  "snapshot_id": "Zoc3gAAAAABQ7KtYHb17OcJAvrn0XAVc",
   "tracks": [
     {
       "added_at": null,
@@ -135,26 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Biling\u00fces",
-        "url": "https://open.spotify.com/album/2oP9WaSwMpMHagFAtwQkJq"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "Biling\u00fces",
-      "url": "https://open.spotify.com/track/6euS235KVmpywN68iAVM9j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hotel Caracas",
         "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 188862,
       "name": "Hasta Olvidarte",
       "url": "https://open.spotify.com/track/4Si5fSGdnlntioOKmpDnu8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Biling\u00fces",
+        "url": "https://open.spotify.com/album/2oP9WaSwMpMHagFAtwQkJq"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Biling\u00fces",
+      "url": "https://open.spotify.com/track/6euS235KVmpywN68iAVM9j"
     },
     {
       "added_at": null,
@@ -231,30 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prende la C\u00e1mara RMX",
-        "url": "https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 212629,
-      "name": "Prende la C\u00e1mara RMX",
-      "url": "https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hotel Caracas",
         "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
       },
@@ -295,6 +271,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Prende la C\u00e1mara RMX",
+        "url": "https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 212629,
+      "name": "Prende la C\u00e1mara RMX",
+      "url": "https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Am\u00e9n",
         "url": "https://open.spotify.com/album/78lYOKWnja1dwjaX8kHeP5"
       },
@@ -319,6 +319,22 @@
       "duration_ms": 253634,
       "name": "Am\u00e9n",
       "url": "https://open.spotify.com/track/7AjcJrynzHWlawo87kafY2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotel Caracas",
+        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 148767,
+      "name": "Canci\u00f3n 2",
+      "url": "https://open.spotify.com/track/04yUAvNYBJfOescfqT8UlS"
     },
     {
       "added_at": null,
@@ -415,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Caracas",
-        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Vas a Destrozarme",
-      "url": "https://open.spotify.com/track/3pGXsSv5CM4Xl4GATNfB9v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hotel Caracas",
+        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Vas a Destrozarme",
+      "url": "https://open.spotify.com/track/3pGXsSv5CM4Xl4GATNfB9v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cocoterapia",
         "url": "https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 160653,
       "name": "Hijos Contigo",
       "url": "https://open.spotify.com/track/3m4nEtqr8vaHJCfc6yjasu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hotel Caracas",
-        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 148767,
-      "name": "Canci\u00f3n 2",
-      "url": "https://open.spotify.com/track/04yUAvNYBJfOescfqT8UlS"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Aventuras y Curiosidades",
-        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 208986,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hotel Caracas",
         "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 167409,
       "name": "Wow",
       "url": "https://open.spotify.com/track/60Y5s3JmVhfORq1ATJpfSS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Aventuras y Curiosidades",
+        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 208986,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "rifresh",
-        "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 177515,
-      "name": "Doler\u00eda",
-      "url": "https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hotel Caracas",
         "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 187777,
       "name": "Fetiche",
       "url": "https://open.spotify.com/track/5bpaaNUGknnGSNsUmThj4K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "rifresh",
+        "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 177515,
+      "name": "Doler\u00eda",
+      "url": "https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1"
     },
     {
       "added_at": null,
@@ -915,6 +915,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Faldita",
+        "url": "https://open.spotify.com/album/7KTFqkLbakkZj2zHZWuplA"
+      },
+      "artists": [
+        {
+          "name": "Leslie Shaw",
+          "url": "https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 190193,
+      "name": "Faldita",
+      "url": "https://open.spotify.com/track/1R5nCcASgTubHzMx2Ic5UU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bota Fuego (feat. D\u00edmelo Flow, Justin Quiles & Lenny Tav\u00e1rez) [Remix]",
         "url": "https://open.spotify.com/album/45YWYjXP1nV0l61m50E5dL"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 252268,
       "name": "Bota Fuego (feat. D\u00edmelo Flow, Justin Quiles & Lenny Tav\u00e1rez) - Remix",
       "url": "https://open.spotify.com/track/4MxYiw28F30NGOaTZ1ySqd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Faldita",
-        "url": "https://open.spotify.com/album/7KTFqkLbakkZj2zHZWuplA"
-      },
-      "artists": [
-        {
-          "name": "Leslie Shaw",
-          "url": "https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 190193,
-      "name": "Faldita",
-      "url": "https://open.spotify.com/track/1R5nCcASgTubHzMx2Ic5UU"
     },
     {
       "added_at": null,
@@ -1019,26 +1019,6 @@
       "duration_ms": 158626,
       "name": "La Grosera",
       "url": "https://open.spotify.com/track/0KEdaZfGUjxZbvGWqjsfER"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MALA SANTA",
-        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "ME ACOSTUMBR\u00c9",
-      "url": "https://open.spotify.com/track/65tCqCMNr7tGPSAWFVGvat"
     }
   ],
   "unique_name": "This Is Mau y Ricky",

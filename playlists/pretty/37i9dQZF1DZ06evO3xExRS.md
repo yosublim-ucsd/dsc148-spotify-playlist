@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 
 ### [This Is Hombres G](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3xExRS)
 
-> This Is Hombres G\. Los temas esenciales, todos en una lista.
+> This is Hombres G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,118 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,182 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 | 17 | [Ay Haiti!](https://open.spotify.com/track/3FifroUyur8j5mTM78WuXQ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Bebe](https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Carlos Jean](https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA), [Daddy Jean](https://open.spotify.com/artist/69VizZkBHFyUGgOQXHszcH), [David Otero](https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Kun Agüero](https://open.spotify.com/artist/66n8Kk3ZD0eFZsTDyNxs4J), [La Mala](https://open.spotify.com/artist/0Po0zEi4601IqGjjWgQDU9), [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC), [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w), [Merce](https://open.spotify.com/artist/32vzfKscH50OSc4wQu2pxK), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S), [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS), [OBK](https://open.spotify.com/artist/00iiLCQzrQfdDg27gus6Ny) | [Ay Haiti!](https://open.spotify.com/album/1Lf1a9gQPIuDOZqrbhzoGk) | 5:11 |
 | 18 | [Me siento bien](https://open.spotify.com/track/1BhVIZ0fuduQfpB7AD3AeY) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [10](https://open.spotify.com/album/6HCNZr7n6OwPhWP2cVRfLg) | 3:39 |
 | 19 | [Luz de Día \(En Vivo\)](https://open.spotify.com/track/6mCnpTHThZ0Rtmn69FKjd5) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 5:25 |
-| 20 | [Devuélveme a mi chica](https://open.spotify.com/track/6aPj6iq1cYfvTbvyYLyQGv) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [Devuélveme a mi chica](https://open.spotify.com/album/3xNMZpxORpL6Hn1V7YNDKT) | 3:13 |
-| 21 | [Dejad que las niñas se acerquen a mí](https://open.spotify.com/track/37TcCbtkvz2Vd4mfMTDlvY) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:07 |
+| 20 | [Dejad que las niñas se acerquen a mí](https://open.spotify.com/track/37TcCbtkvz2Vd4mfMTDlvY) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:07 |
+| 21 | [Devuélveme a mi chica](https://open.spotify.com/track/6aPj6iq1cYfvTbvyYLyQGv) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [Devuélveme a mi chica](https://open.spotify.com/album/3xNMZpxORpL6Hn1V7YNDKT) | 3:13 |
 | 22 | [Estoy pintando tu sonrisa](https://open.spotify.com/track/5Q7bqhsyIM6Ns3zUWZNMqL) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Esta Es Tu Vida](https://open.spotify.com/album/04SU7UlCSrIujoewyo5P08) | 2:14 |
 | 23 | [Tu Cárcel \(En Vivo\)](https://open.spotify.com/track/2JrRZqY5NoEVvkRgwz3TRO) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 4:18 |
 | 24 | [En mi coche](https://open.spotify.com/track/2J4GESip4F72CDrrGQksJp) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 | 49 | [Se Me Sale El Corazón \(feat\. Carlos Rivera\)](https://open.spotify.com/track/09CJ7Ce51uMqYhAbNibJuo) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [La Esquina de Rowland](https://open.spotify.com/album/1FE8pGBD3kW5jRGspwmCku) | 3:44 |
 | 50 | [Amos del Piano Bar \(feat\. Hombres G\)](https://open.spotify.com/track/68xGtXidF9kdGOoKc5R4yd) | [Taburete](https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Tres Tequilas & Un Mezcal](https://open.spotify.com/album/1UmFGyH0WblA5bxEn9A92E) | 3:16 |
 
-Snapshot ID: `ZoXmAAAAAAB/NkuL/ylCxW5bgEUuV3gS`
+Snapshot ID: `Zoc3gAAAAACd8IGPra72S9eDa4c+CnKR`

@@ -1,10 +1,10 @@
 {
   "description": "Pinches cumbiones bien locos para bailar.",
-  "num_followers": 154402,
+  "num_followers": 154476,
   "original_name": "50 Cumbiones Bien Locos",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
   "snapshot_id": "ZgLsXgAAAABvqmdR7bq8zvDuweG5vDVr",
   "tracks": [
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
-        "name": "SC-9",
-        "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 165261,
-      "name": "SC-9",
-      "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
         "name": "Destilando Amor",
         "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 247893,
       "name": "Todo Me Gusta De Ti",
       "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
+        "name": "SC-9",
+        "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 165261,
+      "name": "SC-9",
+      "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
     },
     {
       "added_at": "2024-03-26 15:40:14",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
-        "name": "Pa\u2019 la Selecci\u00f3n",
-        "url": "https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 186735,
-      "name": "Pa\u2019 la Selecci\u00f3n",
-      "url": "https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
         "name": "El Poder De La Cumbia",
         "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 208640,
       "name": "Voy a pintar un coraz\u00f3n",
       "url": "https://open.spotify.com/track/5viiB7rsZZ6WZaWMHjTWSG"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
+        "name": "Pa\u2019 la Selecci\u00f3n",
+        "url": "https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 186735,
+      "name": "Pa\u2019 la Selecci\u00f3n",
+      "url": "https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO"
     },
     {
       "added_at": "2024-03-26 15:40:14",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
-        "name": "Tirate un paso",
-        "url": "https://open.spotify.com/album/5zoumKpJSJKb9efipfFxPm"
-      },
-      "artists": [
-        {
-          "name": "Los Wachiturros",
-          "url": "https://open.spotify.com/artist/1LUSs33lIrjmo5XTgX6Yoo"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Tirate un paso",
-      "url": "https://open.spotify.com/track/4Bb0zvyxchESHX1gNyAfWN"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
         "name": "Nuestra Historia Termino",
         "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 234140,
       "name": "Nuestra Historia Termino",
       "url": "https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
+        "name": "Tirate un paso",
+        "url": "https://open.spotify.com/album/5zoumKpJSJKb9efipfFxPm"
+      },
+      "artists": [
+        {
+          "name": "Los Wachiturros",
+          "url": "https://open.spotify.com/artist/1LUSs33lIrjmo5XTgX6Yoo"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Tirate un paso",
+      "url": "https://open.spotify.com/track/4Bb0zvyxchESHX1gNyAfWN"
     },
     {
       "added_at": "2024-03-26 15:40:14",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
+        "name": "El Campeon",
+        "url": "https://open.spotify.com/album/0CtZ6ma3A8N1bcpzjpXT3U"
+      },
+      "artists": [
+        {
+          "name": "Los Marios",
+          "url": "https://open.spotify.com/artist/1A5MEaeDJeABkpcW9crr8z"
+        }
+      ],
+      "duration_ms": 205437,
+      "name": "Que Dolor",
+      "url": "https://open.spotify.com/track/7gbXqohYAdWbcUEoznCrqO"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
         "name": "La Cumbia De La Baliniza",
         "url": "https://open.spotify.com/album/0rrk5OiasAkClqvriMUPwc"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 167235,
       "name": "La Cumbia De La Baliniza",
       "url": "https://open.spotify.com/track/4sNnFf3VjtL0biCWSiI6BF"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
-        "name": "El Campeon",
-        "url": "https://open.spotify.com/album/0CtZ6ma3A8N1bcpzjpXT3U"
-      },
-      "artists": [
-        {
-          "name": "Los Marios",
-          "url": "https://open.spotify.com/artist/1A5MEaeDJeABkpcW9crr8z"
-        }
-      ],
-      "duration_ms": 205437,
-      "name": "Que Dolor",
-      "url": "https://open.spotify.com/track/7gbXqohYAdWbcUEoznCrqO"
     },
     {
       "added_at": "2024-03-26 15:40:14",

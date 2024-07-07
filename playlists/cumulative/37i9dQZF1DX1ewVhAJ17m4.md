@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Avril Lavigne \#Glastonbury2024
 
-396 songs - 19 hr 41 min
+397 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Get Equal, Get Even](https://open.spotify.com/track/2tu1J2fu9rlCOPSn1nxhR4) | [Nervus](https://open.spotify.com/artist/4vApur54D4XetXX1xnIAKv) | [The Evil One](https://open.spotify.com/album/2SLefDXMIbKZ4n2oBtpEag) | 3:16 | 2022-07-04 | 2022-08-19 |
 | [Get out](https://open.spotify.com/track/3UTqzhJOiRWGuy7xd6fnFP) | [Junky58%](https://open.spotify.com/artist/70KfXyXsFwEmCA1i6kMn2m) | [Get out](https://open.spotify.com/album/5boYEJejEUlO56jTqjXWBL) | 2:11 | 2021-12-20 | 2022-01-15 |
 | [Get Over It](https://open.spotify.com/track/5VtDutJoMnpiL3NNcRtHvd) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [Get Over It](https://open.spotify.com/album/0Fl6rL7v6Vi6W4en2NdhPR) | 2:55 | 2023-05-15 |  |
-| [Girl Shaped Crater](https://open.spotify.com/track/4vkD9qo574mcQnd9i8nXFT) | [Games We Play](https://open.spotify.com/artist/05TLaN7QC4nesO4XCQzRT4) | [Girl Shaped Crater](https://open.spotify.com/album/3UfD0zbowB8b2iEn6wS1Tk) | 3:02 | 2024-02-05 |  |
+| [Girl Shaped Crater](https://open.spotify.com/track/4vkD9qo574mcQnd9i8nXFT) | [Games We Play](https://open.spotify.com/artist/05TLaN7QC4nesO4XCQzRT4) | [Girl Shaped Crater](https://open.spotify.com/album/3UfD0zbowB8b2iEn6wS1Tk) | 3:02 | 2024-02-05 | 2024-07-07 |
 | [Girls Don't Come with Instructions](https://open.spotify.com/track/0V5AL8U0DXS0GtWIJrhC2J) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Girls Don't Come with Instructions](https://open.spotify.com/album/47mYZo1JEdzpYOcQCMB2yx) | 2:40 | 2023-03-10 | 2023-10-20 |
 | [Glimmer](https://open.spotify.com/track/7JTaDwKJ44levpruU6FZTP) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/6AvWDbrgKLZB5d5oJBVFw1) | 3:08 | 2024-03-22 | 2024-06-15 |
 | [GODDAMNITALL](https://open.spotify.com/track/1zXT1kn3JooDmW88EpqVVr) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [GODDAMNITALL](https://open.spotify.com/album/70YBG1iQdOixvsqS2UVRPP) | 3:16 | 2023-05-18 |  |
@@ -208,6 +208,7 @@
 | [Johnny](https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Johnny](https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r) | 2:29 | 2024-06-14 |  |
 | [Juice](https://open.spotify.com/track/4EAEKqmrkfA7WFfeBAvDZi) | [Dear Youth](https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG), [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo), [Oliver Baxxter](https://open.spotify.com/artist/1C3ukvfqNRUyRVi8Vvrz1b) | [Juice](https://open.spotify.com/album/0BZ62pEv3lsqAAl8Cx1WsA) | 3:11 | 2022-08-05 | 2023-05-19 |
 | [jump](https://open.spotify.com/track/2NbTcTv3m8t7wAGUvPhhp0) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [fever](https://open.spotify.com/album/4MwOuqjdK7OP1xaRPo83xT) | 2:40 | 2021-12-20 | 2022-07-19 |
+| [KICKFLIP](https://open.spotify.com/track/0M1v8YmXRs2bqFy8X0c0di) | [GANG!](https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C) | [KICKFLIP](https://open.spotify.com/album/19Nuh0OCQfLenVVjjk4K7E) | 2:01 | 2024-06-30 |  |
 | [KILL\[H\]ER](https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [KILL\[H\]ER](https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL) | 2:25 | 2023-02-03 |  |
 | [Last First Date](https://open.spotify.com/track/7EG5uI3JPSMaGgexmhsyzb) | [7ru7h](https://open.spotify.com/artist/5WnlPOcTodnSWDtjnrjmzv) | [Last First Date](https://open.spotify.com/album/0xlpiaHLJNZ7aksc9RGJtW) | 2:58 | 2021-12-20 | 2022-10-07 |
 | [Letterman](https://open.spotify.com/track/0m2vqOw4QJ4VOe9Q7MgJFH) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Letterman](https://open.spotify.com/album/7xR7WDJETguAr3SMXhKZTo) | 3:01 | 2024-03-22 |  |

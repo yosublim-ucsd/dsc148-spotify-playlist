@@ -1,13 +1,89 @@
 {
   "description": "Updated daily, with the latest popular singles!",
   "num_followers": 78,
-  "original_name": "NEW SINGLES RELEASES | UPDATED 06 JUL",
+  "original_name": "NEW SINGLES RELEASES | UPDATED 07 JUL",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAJWXBhXChhDLDWls37ildTClabdN7F",
+  "snapshot_id": "AAAJXmTllHAFJ05VZ+XveHMb6II8DPRg",
   "tracks": [
+    {
+      "added_at": "2024-07-06 22:02:05",
+      "album": {
+        "name": "TIFIYO!",
+        "url": "https://open.spotify.com/album/2PWa31q66mVVgV5lNL1u8H"
+      },
+      "artists": [
+        {
+          "name": "K-OS",
+          "url": "https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl"
+        }
+      ],
+      "duration_ms": 231562,
+      "name": "TIFIYO!",
+      "url": "https://open.spotify.com/track/3gdmuo5KQtcEGgcM6rIHxI"
+    },
+    {
+      "added_at": "2024-07-06 10:02:34",
+      "album": {
+        "name": "\u30d6\u30e9\u30c3\u30af\u30dc\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/1TulMUgDxLY8Yy5gaauvMD"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 246223,
+      "name": "\u30d6\u30e9\u30c3\u30af\u30dc\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/12ZNHYLBtfcrNWUepsoOzR"
+    },
+    {
+      "added_at": "2024-07-06 10:02:34",
+      "album": {
+        "name": "Pistazieneis",
+        "url": "https://open.spotify.com/album/4j7WNx3I81WGPiadrrCOtB"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+        },
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        }
+      ],
+      "duration_ms": 137972,
+      "name": "Pistazieneis",
+      "url": "https://open.spotify.com/track/0O1LqLDF2mQmWVlSrC4Mwn"
+    },
+    {
+      "added_at": "2024-07-06 10:02:34",
+      "album": {
+        "name": "Mindset",
+        "url": "https://open.spotify.com/album/23FgNkUlrdyxGS6yTBFmDb"
+      },
+      "artists": [
+        {
+          "name": "Only The Poets",
+          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
+        }
+      ],
+      "duration_ms": 155832,
+      "name": "Mindset",
+      "url": "https://open.spotify.com/track/10oE9653NIrmAtbzcb7mZ1"
+    },
     {
       "added_at": "2024-07-05 22:02:14",
       "album": {
@@ -367,76 +443,8 @@
       "duration_ms": 270570,
       "name": "This Is The Sound Of Your Voice",
       "url": "https://open.spotify.com/track/2G75SQhhr9B6boZFgnK4In"
-    },
-    {
-      "added_at": "2024-07-05 10:02:44",
-      "album": {
-        "name": "summer freestyle",
-        "url": "https://open.spotify.com/album/5meBNh86xzq2dnN4TH6GVu"
-      },
-      "artists": [
-        {
-          "name": "Kukon",
-          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
-        }
-      ],
-      "duration_ms": 148851,
-      "name": "summer freestyle",
-      "url": "https://open.spotify.com/track/2SAJOItT7JSZVbtA1Dy9dU"
-    },
-    {
-      "added_at": "2024-07-05 10:02:44",
-      "album": {
-        "name": "POISONOUS",
-        "url": "https://open.spotify.com/album/0PrQ1CHicF8l6f8K1Xcb0L"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 194925,
-      "name": "POISONOUS",
-      "url": "https://open.spotify.com/track/6EgopYXPE6JT3xLc6oUwg0"
-    },
-    {
-      "added_at": "2024-07-05 10:02:44",
-      "album": {
-        "name": "No \u00d8 Zone (feat. VonOff1700)",
-        "url": "https://open.spotify.com/album/0ZoPCgMfRyoNpiL3vgVCu3"
-      },
-      "artists": [
-        {
-          "name": "Dthang",
-          "url": "https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr"
-        },
-        {
-          "name": "VonOff1700",
-          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "No \u00d8 Zone (feat. VonOff1700)",
-      "url": "https://open.spotify.com/track/1dShewvlJ7mlMzTBuhd1uQ"
-    },
-    {
-      "added_at": "2024-07-05 10:02:44",
-      "album": {
-        "name": "Death of the Party",
-        "url": "https://open.spotify.com/album/4HkMwpGaFKkuP2FmmdVpeC"
-      },
-      "artists": [
-        {
-          "name": "Call Me Karizma",
-          "url": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
-        }
-      ],
-      "duration_ms": 163619,
-      "name": "Death of the Party",
-      "url": "https://open.spotify.com/track/2VUi7RJrMOf9VgQ3WwGHLO"
     }
   ],
-  "unique_name": "NEW SINGLES RELEASES | UPDATED 06 JUL",
+  "unique_name": "NEW SINGLES RELEASES | UPDATED 07 JUL",
   "url": "https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV"
 }

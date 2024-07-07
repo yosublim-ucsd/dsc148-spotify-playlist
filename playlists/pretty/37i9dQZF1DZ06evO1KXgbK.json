@@ -1,12 +1,12 @@
 {
-  "description": "This Is Dolly Parton. Los temas esenciales, todos en una lista.",
-  "num_followers": 246649,
+  "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
+  "num_followers": 246697,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAAAXnmKFkSfg2ZhgGUxVZZ94",
+  "snapshot_id": "Zoc3gAAAAABJ83U89j3HJriWfBrzfCl0",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Porter Wagoner & Dolly Parton",
+        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "The Last Thing On My Mind",
+      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -403,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Is Like a Butterfly",
+        "url": "https://open.spotify.com/album/3MLoZC9rEBvyA2zLKBNYxT"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 140733,
+      "name": "Love Is Like a Butterfly",
+      "url": "https://open.spotify.com/track/7d4hiv8TcJ2vx9BjSxqvj8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Somebody's Child",
         "url": "https://open.spotify.com/album/2YhXAEGsBxEE4qpqFPbDUV"
       },
@@ -419,22 +455,6 @@
       "duration_ms": 204121,
       "name": "Somebody's Child",
       "url": "https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Is Like a Butterfly",
-        "url": "https://open.spotify.com/album/3MLoZC9rEBvyA2zLKBNYxT"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 140733,
-      "name": "Love Is Like a Butterfly",
-      "url": "https://open.spotify.com/track/7d4hiv8TcJ2vx9BjSxqvj8"
     },
     {
       "added_at": null,
@@ -459,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 188871,
+      "name": "Two Doors Down",
+      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God Only Knows (with Dolly Parton)",
         "url": "https://open.spotify.com/album/1gpKIhj9oqbjJIDMvZhAdF"
       },
@@ -475,22 +511,6 @@
       "duration_ms": 213653,
       "name": "God Only Knows (with Dolly Parton)",
       "url": "https://open.spotify.com/track/34n8xD9eHSdpwIGffhSLvW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 188871,
-      "name": "Two Doors Down",
-      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
     },
     {
       "added_at": null,
@@ -639,6 +659,26 @@
       "duration_ms": 193906,
       "name": "Tell Me That You Love Me",
       "url": "https://open.spotify.com/track/19Z6qdxGAmRjesTtHL3uFD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bebe",
+        "url": "https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 203427,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/3HCPcK7bCPAczLUfRmZEUn"
     },
     {
       "added_at": null,
@@ -959,42 +999,6 @@
       "duration_ms": 113761,
       "name": "A Better Place (with Dolly Parton)",
       "url": "https://open.spotify.com/track/0YCzc9CQkXubeYtLLLAJYK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 22623,
-      "name": "DOLLY P",
-      "url": "https://open.spotify.com/track/1fp4DIjhHyptQWK00CZgFQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cover Stories: Brandi Carlile Celebrates 10 Years of the Story (An Album to Benefit War Child)",
-        "url": "https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 257372,
-      "name": "The Story",
-      "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"
     }
   ],
   "unique_name": "This Is Dolly Parton",

@@ -4,7 +4,7 @@
 
 > Zeit für Plantschen, Eis & Freibadpommes.
 
-378 songs - 17 hr 43 min
+379 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Es ist Sommer](https://open.spotify.com/track/1d8zn2LjqJU1rwuXXVjilB) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für den Urlaub](https://open.spotify.com/album/6CQgoIWe6KUYjNjzURpDSh) | 2:28 | 2024-06-07 |  |
 | [Es regnet, es regnet](https://open.spotify.com/track/4cDNhjC0sczUlUYYcTEQA2) | [Frank und seine Freunde](https://open.spotify.com/artist/3suvpngo1bNM6i7vh4hy7y) | [Die 44 beliebtesten Kinderlieder](https://open.spotify.com/album/3ILmIMWpPWUhmm0pgR4urO) | 1:14 | 2023-08-31 | 2023-10-17 |
 | [Es schneit](https://open.spotify.com/track/4NhNX3C9Ue4gatgwHQobyY) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Winterkinder ...auf der Suche nach Weihnachten](https://open.spotify.com/album/7h4CEzgecVSP9JwpFepdx6) | 2:16 | 2023-12-27 | 2024-03-02 |
+| [Farben sind für alle da](https://open.spotify.com/track/6KZGys3AguPnmO6GbRHbbR) | [Senta](https://open.spotify.com/artist/7uVDfCKp96l3xCHFYf39vU) | [Farben sind für alle da](https://open.spotify.com/album/05cdYGqMPrH1Mr7CpaUpEC) | 2:03 | 2024-07-05 |  |
 | [Fiesta Mexicana \- Party Mix](https://open.spotify.com/track/5ZQwvlmLOyJbkEdeojxNOs) | [Die Partykapitäne](https://open.spotify.com/artist/6Gqid9ys2LpElX5QJnmzK1) | [Fiesta Mexicana](https://open.spotify.com/album/3m5htAX9IYtWTcdMf8YYo9) | 3:26 | 2024-02-06 | 2024-02-16 |
 | [Flattermaus](https://open.spotify.com/track/1P2KltPsS5Y2uC06zMgdtS) | [Die schwarzen Tasten \(mit Tobias Siebert von Klez.e\)](https://open.spotify.com/artist/2zebFEEqLv5mUOhyU7KWvn) | [Unter meinem Bett 4](https://open.spotify.com/album/6urz9b8HGTbqHBYOejq7c4) | 4:30 | 2023-10-16 | 2023-11-06 |
 | [Fledi Fledermaus](https://open.spotify.com/track/5vVnQ1jVM6COKY6NunH6xr) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Fledi Fledermaus](https://open.spotify.com/album/0jMoqZWYYp6zfdeRbp2p4M) | 2:12 | 2023-10-16 | 2023-11-06 |
@@ -315,7 +316,7 @@
 | [Somebody's Watching Me](https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Somebody's Watching Me](https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw) | 4:58 | 2023-10-16 | 2023-11-06 |
 | [Sommerkinder](https://open.spotify.com/track/1KZwH2Xz20o8ixlFbc5dw1) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Sommerkinder](https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH) | 2:56 | 2023-06-28 | 2023-09-01 |
 | [Sommerkinder](https://open.spotify.com/track/2reHbWEZw5ANVmIL9pjw01) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Bei uns in der Kita \- 22 Lieder im Frühling + Sommer](https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc) | 2:58 | 2024-06-02 |  |
-| [Sommertag](https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Sommertag](https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf) | 2:08 | 2023-08-04 |  |
+| [Sommertag](https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Sommertag](https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf) | 2:08 | 2023-08-04 | 2024-07-07 |
 | [Sommerzeit](https://open.spotify.com/track/4QBmgphP6uIJq3G2wnG55h) | [Nilsen](https://open.spotify.com/artist/13x0bektBEknCM276OqYMn), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Sommerzeit](https://open.spotify.com/album/3hUAQEXxyiYRDFoJ1FhFxs) | 2:14 | 2024-06-07 |  |
 | [Sonne, Mond und Sterne](https://open.spotify.com/track/4rsdmYSwg7nxCSkb4GEn5J) | [Lauras Stern](https://open.spotify.com/artist/0xY8w0o3cSH3gzx4G4h8qD), [3Berlin](https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V) | [Lauras Stern \- Das Liederalbum zum Kinofilm](https://open.spotify.com/album/7r855N0wTZTFxyiFntXUsz) | 3:02 | 2023-11-05 | 2023-11-16 |
 | [Sonne, Mond und Sterne](https://open.spotify.com/track/7K5yVlLdF8T5qyIX8WLdOz) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Liederbüchermaus](https://open.spotify.com/album/34fvEGFsxX9vl6phTn23XS) | 2:30 | 2023-11-05 | 2023-11-16 |

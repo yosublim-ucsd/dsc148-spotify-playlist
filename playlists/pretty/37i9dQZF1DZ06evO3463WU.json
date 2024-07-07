@@ -1,12 +1,12 @@
 {
-  "description": "This Is Pancho Barraza. Los temas esenciales, todos en una lista.",
-  "num_followers": 145236,
+  "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
+  "num_followers": 145274,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAAB+TSrNrsOiXcX0TxugX6cf",
+  "snapshot_id": "Zoc3gAAAAACJs2+oQGXiHxaw25UcvNas",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 227288,
+      "name": "Pero La Recuerdo (Cumbia Santa Maria)",
+      "url": "https://open.spotify.com/track/3Z0qp959lgropPTzCnMbkU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis \u00cddolos, Hoy Mis Amigos!!!",
         "url": "https://open.spotify.com/album/4DQQ3pKX45A1Twok8WL0hc"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 195293,
       "name": "Hay Amores",
       "url": "https://open.spotify.com/track/3xdC10QJ54yltOq8r4fbXa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 227288,
-      "name": "Pero La Recuerdo (Cumbia Santa Maria)",
-      "url": "https://open.spotify.com/track/3Z0qp959lgropPTzCnMbkU"
     },
     {
       "added_at": null,
@@ -135,22 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/6Xes51EPRhxPClnSVFA9qq"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 212044,
-      "name": "Te Esperare",
-      "url": "https://open.spotify.com/track/54tmAoMDUoz4a1WSZJEkhU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 171409,
       "name": "Mi Amor Y Mi Agonia",
       "url": "https://open.spotify.com/track/6GQkrXZHNg4EzgP0Q6exy3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/6Xes51EPRhxPClnSVFA9qq"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 212044,
+      "name": "Te Esperare",
+      "url": "https://open.spotify.com/track/54tmAoMDUoz4a1WSZJEkhU"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/6Xes51EPRhxPClnSVFA9qq"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 190542,
-      "name": "Una Tarde Como Cualquiera",
-      "url": "https://open.spotify.com/track/3bQbNaVJBG3XishLUHdBWe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Canciones de Amor",
         "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 171049,
       "name": "T\u00fa Me Dejaste",
       "url": "https://open.spotify.com/track/3qnIp4WqxmHg0aTywpXElX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/6Xes51EPRhxPClnSVFA9qq"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 190542,
+      "name": "Una Tarde Como Cualquiera",
+      "url": "https://open.spotify.com/track/3bQbNaVJBG3XishLUHdBWe"
     },
     {
       "added_at": null,
@@ -895,6 +895,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e1rchate",
+        "url": "https://open.spotify.com/album/2T8bt0Spo7yhtPFCVspHPc"
+      },
+      "artists": [
+        {
+          "name": "Colmillo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 165903,
+      "name": "M\u00e1rchate",
+      "url": "https://open.spotify.com/track/0uC0uPbZONNDiiQMxD2MyH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/3aTunEoRKVkwVIrAk1FIZ3"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 168166,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/07YG8ICjrjgUFtQxTqerMN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1rchate",
-        "url": "https://open.spotify.com/album/2T8bt0Spo7yhtPFCVspHPc"
-      },
-      "artists": [
-        {
-          "name": "Colmillo Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 165903,
-      "name": "M\u00e1rchate",
-      "url": "https://open.spotify.com/track/0uC0uPbZONNDiiQMxD2MyH"
     }
   ],
   "unique_name": "This Is Pancho Barraza",

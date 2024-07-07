@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 9263,
+  "num_followers": 9267,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAAAzVY+oFfXJFa6nC5tXXAhS",
+  "snapshot_id": "Zoc3gAAAAAB+hR/ftd5AECkJd7NU8lwF",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 172303,
-      "name": "Hermosa Tirana",
-      "url": "https://open.spotify.com/track/42jgtQjhL2Qu5nbZKUSO7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 194429,
       "name": "No Volvere",
       "url": "https://open.spotify.com/track/5jLZIaTwQbjCmnVUwayk70"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 172303,
+      "name": "Hermosa Tirana",
+      "url": "https://open.spotify.com/track/42jgtQjhL2Qu5nbZKUSO7Q"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 190563,
-      "name": "Un Engano Mas",
-      "url": "https://open.spotify.com/track/2RLWRcdjOcOP1eirhJMl6C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 195291,
       "name": "Cien Anos",
       "url": "https://open.spotify.com/track/0XmHMVZqUcIEGEFwNWcB2L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 190563,
+      "name": "Un Engano Mas",
+      "url": "https://open.spotify.com/track/2RLWRcdjOcOP1eirhJMl6C"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "Quisiera Amarte Menos",
-      "url": "https://open.spotify.com/track/0QTX4cAhxpHO4o8zEin8jn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 195004,
       "name": "Sabor a Mi",
       "url": "https://open.spotify.com/track/0yaZWlPAoBm3iyQa8F3k4X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "Quisiera Amarte Menos",
+      "url": "https://open.spotify.com/track/0QTX4cAhxpHO4o8zEin8jn"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Son Pasiones",
-        "url": "https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze"
+        "name": "Voy A Pedirte Perd\u00f3n",
+        "url": "https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6"
       },
       "artists": [
         {
@@ -392,25 +392,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 192888,
-      "name": "Sentencia",
-      "url": "https://open.spotify.com/track/0A68MP0eyN498lCVN1xi1s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 122984,
-      "name": "La Huella de Mis Besos",
-      "url": "https://open.spotify.com/track/0I6sTG0nOH92inb6TmXqgw"
+      "duration_ms": 161026,
+      "name": "Cajita De Cart\u00f3n",
+      "url": "https://open.spotify.com/track/758r1Fu3SHRePFwLA367Rf"
     },
     {
       "added_at": null,
@@ -431,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voy A Pedirte Perd\u00f3n",
-        "url": "https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6"
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
       },
       "artists": [
         {
@@ -440,9 +424,57 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 161026,
-      "name": "Cajita De Cart\u00f3n",
-      "url": "https://open.spotify.com/track/758r1Fu3SHRePFwLA367Rf"
+      "duration_ms": 122984,
+      "name": "La Huella de Mis Besos",
+      "url": "https://open.spotify.com/track/0I6sTG0nOH92inb6TmXqgw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Que Son Pasiones",
+        "url": "https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 192888,
+      "name": "Sentencia",
+      "url": "https://open.spotify.com/track/0A68MP0eyN498lCVN1xi1s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiranos del Norte",
+        "url": "https://open.spotify.com/album/2N2PsW32lWDtPq1wM8EGKf"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 197825,
+      "name": "Matame a Besos",
+      "url": "https://open.spotify.com/track/0om9GXGwk5d7VNyp0nOSuW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 164728,
+      "name": "Tragos Amargos",
+      "url": "https://open.spotify.com/track/53qTj9XcdiKPwIuakXo5dv"
     },
     {
       "added_at": null,
@@ -479,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 164728,
-      "name": "Tragos Amargos",
-      "url": "https://open.spotify.com/track/53qTj9XcdiKPwIuakXo5dv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hermosa Tirana",
         "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
       },
@@ -507,6 +523,22 @@
       "duration_ms": 205400,
       "name": "Que Te Perdone Dios",
       "url": "https://open.spotify.com/track/7tf3InyYrlyM1hVSbqUYmE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Asomate a Mi Alma",
+        "url": "https://open.spotify.com/album/4YBewtZ8JtwPqZT1h7IFph"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 174419,
+      "name": "Te Pido y Te Ruego",
+      "url": "https://open.spotify.com/track/7CP4iGgVAKJvK2ZZbL7Kqi"
     },
     {
       "added_at": null,
@@ -527,22 +559,6 @@
       "duration_ms": 192587,
       "name": "Veinte m\u00e1s",
       "url": "https://open.spotify.com/track/1IJAF9Rdh2DGxDUQqhwMmv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Asomate a Mi Alma",
-        "url": "https://open.spotify.com/album/4YBewtZ8JtwPqZT1h7IFph"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 174419,
-      "name": "Te Pido y Te Ruego",
-      "url": "https://open.spotify.com/track/7CP4iGgVAKJvK2ZZbL7Kqi"
     },
     {
       "added_at": null,
@@ -803,22 +819,6 @@
       "duration_ms": 147243,
       "name": "Homenaje A Los Grandes: Si No Hay Dinero",
       "url": "https://open.spotify.com/track/7EvjaFNG178iozRotq59ke"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 135862,
-      "name": "Tu Maldad",
-      "url": "https://open.spotify.com/track/5GHuhu0CHdccMRO1L6fNZa"
     }
   ],
   "unique_name": "This Is Los Tiranos Del Norte",

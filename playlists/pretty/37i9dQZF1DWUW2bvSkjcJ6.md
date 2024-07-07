@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Quavo, Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,294 likes - 64 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,781 likes - 64 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 31 | [angel](https://open.spotify.com/track/4nZPGie71nH77fbcNJnx0w) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [in the light and shadows](https://open.spotify.com/album/4ovbdT33akJwJUqKCzDK2l) | 2:54 |
 | 32 | [Reiche Freunde](https://open.spotify.com/track/5ENHNKeDD3fin6Zg3p0FWn) | [Apsilon](https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm), [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [Reiche Freunde](https://open.spotify.com/album/64LpSd1Bba6Hi2yrulKDDj) | 2:51 |
 | 33 | [holidaze](https://open.spotify.com/track/7dFilj5qLam3yMZjBrFcHK) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [holidaze](https://open.spotify.com/album/4h2dxuyV6lS1CxnKaQnGS2) | 3:14 |
-| 34 | [Haunted \(feat\. KOOLKID\)](https://open.spotify.com/track/5mURF77s0QlIuB9g2hUMyO) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf), [KOOLKID](https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY) | [Haunted \(feat\. KOOLKID\)](https://open.spotify.com/album/12cKMWQluS9TIpoYBxYlAj) | 2:23 |
+| 34 | [Haunted](https://open.spotify.com/track/5mURF77s0QlIuB9g2hUMyO) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf), [KOOLKID](https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY) | [Haunted](https://open.spotify.com/album/12cKMWQluS9TIpoYBxYlAj) | 2:23 |
 | 35 | [Sandkastenfreunde](https://open.spotify.com/track/7cWl4KWpp6qP8W31HEDDCR) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [Olli Banjo](https://open.spotify.com/artist/52iro9cKM86Z46TVIoir8h) | [Sandkastenfreunde](https://open.spotify.com/album/2LwHi4QxESKXI1B1U6arqs) | 3:29 |
 | 36 | [ENDLICH EGAL](https://open.spotify.com/track/6FC4KbCKeKPZbdjEpJtNex) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [ENDLICH EGAL](https://open.spotify.com/album/2xadm1GleIfA1Q8Pt1WcT4) | 2:42 |
 | 37 | [don't want u to die](https://open.spotify.com/track/2RKFPVUnx3jtvsTBSC8Tif) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [don't want u to die](https://open.spotify.com/album/6GiCET4YvGHfvcnHi4KZJB) | 3:08 |

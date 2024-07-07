@@ -2,7 +2,7 @@
 
 ### [This Is Lamb of God](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2aV0uA)
 
-> This Is Lamb of God\. Los temas esenciales, todos en una lista.
+> This is Lamb of God\. The essential tracks, all in one playlist.
 
 111 songs - 7 hr 59 min
 
@@ -81,7 +81,7 @@
 | [Overlord](https://open.spotify.com/track/4rHVLEpV38Ls3BsIvB7CGV) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/4JvuAxQRUNbVcw66kFlXH9) | 6:28 | 2022-09-30 | 2022-10-02 |
 | [Pathetic](https://open.spotify.com/track/4MdcRxTOezZq9z292jCwjJ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament \(15th Anniversary Edition\)](https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf) | 4:31 | 2024-06-03 |  |
 | [Pathetic](https://open.spotify.com/track/5PQ3KfvXm88J5h5mXJusPz) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 4:31 | 2022-05-30 | 2024-06-03 |
-| [Purified](https://open.spotify.com/track/1cQS0BcV8HIVSWLeWunEp4) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:10 | 2022-05-31 | 2024-07-06 |
+| [Purified](https://open.spotify.com/track/1cQS0BcV8HIVSWLeWunEp4) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:10 | 2022-05-31 |  |
 | [Reality Bath](https://open.spotify.com/track/0GwyDNEcUavoLYdK0oDDSI) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:32 | 2022-05-30 |  |
 | [Reclamation](https://open.spotify.com/track/57JvwdRmUxwt4zi2Kk4OLC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 7:07 | 2022-05-30 | 2022-10-13 |
 | [Redneck](https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 3:40 | 2022-05-30 | 2024-06-04 |
@@ -99,7 +99,7 @@
 | [Terminally Unique](https://open.spotify.com/track/6GHN2naulatxJhZOUulxEu) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 4:21 | 2022-05-30 | 2022-10-13 |
 | [Terror and Hubris in the House of Frank Pollard](https://open.spotify.com/track/6d2tguWs6yv0EkVlu9PgNz) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New American Gospel](https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t) | 5:37 | 2022-05-30 | 2022-10-01 |
 | [The Death Of Us](https://open.spotify.com/track/4QWm4vWg9I9kCKY5lPQh43) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Bill & Ted Face The Music \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tBqYNxRj9fUW6s7OuzBnz) | 3:59 | 2022-05-30 | 2023-12-14 |
-| [The Death Of Us \- From The "Bill & Ted Face The Music" Soundtrack](https://open.spotify.com/track/3ipiVujau0BpkJ0PmYUtWx) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Bill & Ted Face The Music \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4RFYP3Mo9vSA6Cf7HXDxsa) | 3:59 | 2023-12-13 |  |
+| [The Death Of Us \- From The "Bill & Ted Face The Music" Soundtrack](https://open.spotify.com/track/3ipiVujau0BpkJ0PmYUtWx) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Bill & Ted Face The Music \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4RFYP3Mo9vSA6Cf7HXDxsa) | 3:59 | 2023-12-13 | 2024-07-07 |
 | [The Duke](https://open.spotify.com/track/2JTikXpeRiapyDGR1p8ITD) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [The Duke](https://open.spotify.com/album/3RqpVGcEmgxboGRokP02Nw) | 4:31 | 2022-05-30 | 2023-01-07 |
 | [The Faded Line](https://open.spotify.com/track/46WIf1TzfOl4jfaWbGn9QT) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 4:37 | 2022-05-30 |  |
 | [The Number Six](https://open.spotify.com/track/6Mr2g708NoGLVChCjuA9yc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 5:21 | 2022-08-09 | 2022-10-13 |

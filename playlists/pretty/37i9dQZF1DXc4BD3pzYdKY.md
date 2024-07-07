@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:78DvQP3rczGqfgEiLfFnCD">Torey D'Shaun</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,593 likes - 99 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,669 likes - 99 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Family](https://open.spotify.com/track/6mU05zTrxPkk6zZq7OxIlj) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Family](https://open.spotify.com/album/77nA7IyVqFQjITeQv5XrEd) | 2:59 |
 | 2 | [You Can Make It](https://open.spotify.com/track/7j0Ttn6PMv8Av5558jTdWa) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [You Can Make It](https://open.spotify.com/album/2mrBixGpvGSWnNGqf46RLo) | 3:40 |
 | 3 | [leave it to God](https://open.spotify.com/track/0fPdM4EC9Fyh7Wk6SWVTht) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [the people we became](https://open.spotify.com/album/1NuQiiqZzBM60N8KMiFUhE) | 2:11 |
-| 4 | [SHEISTY](https://open.spotify.com/track/6YeFC0Ei50v9IXAOXKTPuu) | [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp) | [SHEISTY](https://open.spotify.com/album/33kQoSva0Vne9DRp2XiHiv) | 2:30 |
+| 4 | [SHIESTY](https://open.spotify.com/track/6YeFC0Ei50v9IXAOXKTPuu) | [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp) | [SHIESTY](https://open.spotify.com/album/33kQoSva0Vne9DRp2XiHiv) | 2:30 |
 | 5 | [Dirty laundry](https://open.spotify.com/track/5dWPoXqF06jY1QrycchWCd) | [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [Dirty laundry](https://open.spotify.com/album/4rOOFnTXV9OA83yPPVLxqs) | 2:30 |
 | 6 | [For The Culture](https://open.spotify.com/track/2A79tZ3PSZCLyhdlQNkvnE) | [Caleb McCoy](https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi) | [For The Culture](https://open.spotify.com/album/333VjYbRgxWvRDwexNOlfT) | 2:55 |
 | 7 | [Love Never Fails](https://open.spotify.com/track/25gkv8mqBDL5yRMm49Tj46) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [Melodic B](https://open.spotify.com/artist/3cqKDmXmxRtgdmRlH7wery) | [Love Never Fails](https://open.spotify.com/album/5nvm4mHWKAwFuubIm4nusU) | 2:11 |

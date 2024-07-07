@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Felip\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,881 likes - 99 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,964 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 38 | [JANGAN BEGITU](https://open.spotify.com/track/0bXUQLOOvUPsDwIejUIfNI) | [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw) | [JANGAN BEGITU](https://open.spotify.com/album/5NL00D5RsSWlU8bEcF71ID) | 2:55 |
 | 39 | [BEFORE IT GETS DARK \(intro\)](https://open.spotify.com/track/5iUGFfewmUBtYCrpozaive) | [Reiklytokyo](https://open.spotify.com/artist/3CoxnqdIPx4y03sqIcXeFx) | [BEFORE IT GETS DARK](https://open.spotify.com/album/7mgZ1GPCXfXqFLR72c9ag0) | 2:29 |
 | 40 | [Uh Huh](https://open.spotify.com/track/4LyJyZpmfpDTAfF2E0gWHF) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Uh Huh](https://open.spotify.com/album/4JnlqGdsDfELZDv4Ksa4pJ) | 2:15 |
-| 41 | [Piko](https://open.spotify.com/track/2pAJzphddMYD27fDPehuC1) | [Filix Wang](https://open.spotify.com/artist/5KYIgm8LNtLkfCTR3vQm4T), [BHS Svve](https://open.spotify.com/artist/6uFfH7ZHSnHMXjNCgpIWb2), [levi](https://open.spotify.com/artist/2i8z6rKtx4CoaQmajp10fP) | [Piko](https://open.spotify.com/album/3BFAtdAttzB3ZRgdPGxRCN) | 3:02 |
+| 41 | [Piko](https://open.spotify.com/track/2pAJzphddMYD27fDPehuC1) | [Filix王](https://open.spotify.com/artist/2a58G4RDpD2sloCYWYkMXC), [BHS Svve](https://open.spotify.com/artist/6uFfH7ZHSnHMXjNCgpIWb2), [levi](https://open.spotify.com/artist/2i8z6rKtx4CoaQmajp10fP) | [Piko](https://open.spotify.com/album/3BFAtdAttzB3ZRgdPGxRCN) | 3:02 |
 | 42 | [Your Love](https://open.spotify.com/track/4iKZIDelGoJiSwX2m1XD40) | [Hao You](https://open.spotify.com/artist/5xYVxqzgLoGL02Fr4BoCBd) | [WDiS](https://open.spotify.com/album/6OKnitKG2sBfdDS5zT9fsC) | 2:27 |
 | 43 | [SLUMSDALE.](https://open.spotify.com/track/2ijlZVYLZZyKRAfC1xcr2R) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [SLUMSDALE.](https://open.spotify.com/album/2DosWT0SoinQSKpVw7XWhs) | 3:19 |
 | 44 | [SIXTY\-SIX](https://open.spotify.com/track/3h2fLjxLIqSw4ofgzcZ3oQ) | [achi](https://open.spotify.com/artist/5afah66mDtf06T5lCyM2jd) | [SIXTY\-SIX](https://open.spotify.com/album/613Q224A1tQIUJYa0PDLBq) | 3:01 |

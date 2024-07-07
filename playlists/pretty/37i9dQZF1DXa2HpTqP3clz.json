@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Tony Trischka",
-  "num_followers": 162206,
+  "num_followers": 162230,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Tiny Wooden Box",
-        "url": "https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850"
-      },
-      "artists": [
-        {
-          "name": "The Dead South",
-          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
-        }
-      ],
-      "duration_ms": 247813,
-      "name": "Tiny Wooden Box",
-      "url": "https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Odds of Getting Even",
         "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 195776,
       "name": "Odds of Getting Even",
       "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Tiny Wooden Box",
+        "url": "https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850"
+      },
+      "artists": [
+        {
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        }
+      ],
+      "duration_ms": 247813,
+      "name": "Tiny Wooden Box",
+      "url": "https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Happy Valley",
-        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Marty Stuart",
-          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
-        }
-      ],
-      "duration_ms": 230032,
-      "name": "Blue Smoke",
-      "url": "https://open.spotify.com/track/3cyj7zwt8H1S6cFiPgHjda"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Saltbush Express",
         "url": "https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ"
       },
@@ -1379,38 +1359,22 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Mr. Charlie",
-        "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
+        "name": "Happy Valley",
+        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
       },
       "artists": [
         {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
         },
         {
-          "name": "Josh Shilling",
-          "url": "https://open.spotify.com/artist/2aaOHInTP3KKRiOdfl0TiE"
+          "name": "Marty Stuart",
+          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
         }
       ],
-      "duration_ms": 273627,
-      "name": "Mr. Charlie",
-      "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
-        "name": "Big City",
-        "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
-      },
-      "artists": [
-        {
-          "name": "Joe Mullins & The Radio Ramblers",
-          "url": "https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17"
-        }
-      ],
-      "duration_ms": 171055,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
+      "duration_ms": 230032,
+      "name": "Blue Smoke",
+      "url": "https://open.spotify.com/track/3cyj7zwt8H1S6cFiPgHjda"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1455,6 +1419,26 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
+        "name": "Mr. Charlie",
+        "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        },
+        {
+          "name": "Josh Shilling",
+          "url": "https://open.spotify.com/artist/2aaOHInTP3KKRiOdfl0TiE"
+        }
+      ],
+      "duration_ms": 273627,
+      "name": "Mr. Charlie",
+      "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 216950,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Big City",
+        "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
+      },
+      "artists": [
+        {
+          "name": "Joe Mullins & The Radio Ramblers",
+          "url": "https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17"
+        }
+      ],
+      "duration_ms": 171055,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Maria with a \"J\"",
-        "url": "https://open.spotify.com/album/0Ly2w49tSOoIUOtdAzGsFk"
-      },
-      "artists": [
-        {
-          "name": "Marija Droze",
-          "url": "https://open.spotify.com/artist/0BbnQu7WSJhCsdvBxMq0um"
-        }
-      ],
-      "duration_ms": 239601,
-      "name": "Broken Glass",
-      "url": "https://open.spotify.com/track/6imryh6uZsIVmYb2EfZ8Ym"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Highs and Lows",
         "url": "https://open.spotify.com/album/6gsuZrOn3AeGlxaREdp5HZ"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 256997,
       "name": "Highs and Lows",
       "url": "https://open.spotify.com/track/1GMidgnsaRuVFbm3T3DLEm"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Maria with a \"J\"",
+        "url": "https://open.spotify.com/album/0Ly2w49tSOoIUOtdAzGsFk"
+      },
+      "artists": [
+        {
+          "name": "Marija Droze",
+          "url": "https://open.spotify.com/artist/0BbnQu7WSJhCsdvBxMq0um"
+        }
+      ],
+      "duration_ms": 239601,
+      "name": "Broken Glass",
+      "url": "https://open.spotify.com/track/6imryh6uZsIVmYb2EfZ8Ym"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "This Valley",
-        "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
-      },
-      "artists": [
-        {
-          "name": "Calamity Jane",
-          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
-        }
-      ],
-      "duration_ms": 255505,
-      "name": "This Valley",
-      "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Railroadin' & Gamblin'",
         "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 173237,
       "name": "Railroadin' & Gamblin'",
       "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "This Valley",
+        "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
+      },
+      "artists": [
+        {
+          "name": "Calamity Jane",
+          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
+        }
+      ],
+      "duration_ms": 255505,
+      "name": "This Valley",
+      "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1707,8 +1707,8 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Blues of the Night",
-        "url": "https://open.spotify.com/album/7xZO2VJHf9KJkB5OkbP8qf"
+        "name": "Mary Ann is a Pistol",
+        "url": "https://open.spotify.com/album/4ELCAWPMPJn0WhWa1rbM0z"
       },
       "artists": [
         {
@@ -1716,9 +1716,9 @@
           "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Blues of the Night",
-      "url": "https://open.spotify.com/track/6kIPJSV6Z6Pixo7RQRjwYP"
+      "duration_ms": 161333,
+      "name": "Mary Ann is a Pistol",
+      "url": "https://open.spotify.com/track/7A79xett0AOEe8NVpMC2bg"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1819,8 +1819,8 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Mary Ann is a Pistol",
-        "url": "https://open.spotify.com/album/4ELCAWPMPJn0WhWa1rbM0z"
+        "name": "Blues of the Night",
+        "url": "https://open.spotify.com/album/7xZO2VJHf9KJkB5OkbP8qf"
       },
       "artists": [
         {
@@ -1828,9 +1828,9 @@
           "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
         }
       ],
-      "duration_ms": 161333,
-      "name": "Mary Ann is a Pistol",
-      "url": "https://open.spotify.com/track/7A79xett0AOEe8NVpMC2bg"
+      "duration_ms": 163000,
+      "name": "Blues of the Night",
+      "url": "https://open.spotify.com/track/6kIPJSV6Z6Pixo7RQRjwYP"
     }
   ],
   "unique_name": "Grass Roots",

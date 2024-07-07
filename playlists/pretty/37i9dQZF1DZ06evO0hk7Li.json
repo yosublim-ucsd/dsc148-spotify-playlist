@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 37640,
+  "num_followers": 37649,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAAB1olzXwivmBX8fa7cQ196e",
+  "snapshot_id": "Zoc3gAAAAADufeNnhb4esXct4RhMWMrC",
   "tracks": [
     {
       "added_at": null,
@@ -179,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Paradox",
-        "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        },
-        {
-          "name": "Avelino",
-          "url": "https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6"
-        }
-      ],
-      "duration_ms": 233497,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/5GQQGVrDjbuTx3GcmLncH5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 171480,
       "name": "Coolin",
       "url": "https://open.spotify.com/track/1Yy8ZVrOvISrzbYqvm3qck"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Avelino",
+          "url": "https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6"
+        }
+      ],
+      "duration_ms": 233497,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/5GQQGVrDjbuTx3GcmLncH5"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 522,
+  "num_followers": 523,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAACUW+Q7/q3we3cAQiadhEhy",
+  "snapshot_id": "Zoc3gAAAAAD1vb8aRsCPfPHaJGiPXIA0",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 78496,
-      "name": "The Scholar's Mate",
-      "url": "https://open.spotify.com/track/2qKga0VHaH41ajUMbVofcb"
+      "duration_ms": 74046,
+      "name": "Methuen Home For Children 1957",
+      "url": "https://open.spotify.com/track/0oavd02JI7eQqJLUz6ymdB"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 74046,
-      "name": "Methuen Home For Children 1957",
-      "url": "https://open.spotify.com/track/0oavd02JI7eQqJLUz6ymdB"
+      "duration_ms": 78496,
+      "name": "The Scholar's Mate",
+      "url": "https://open.spotify.com/track/2qKga0VHaH41ajUMbVofcb"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chupa (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 70364,
-      "name": "La Cajita de M\u00fasica",
-      "url": "https://open.spotify.com/track/6tfcj3Fheeg4H21Lx8ZAzA"
+      "duration_ms": 144739,
+      "name": "The Remsen",
+      "url": "https://open.spotify.com/track/51qQvPxeHMUvHaMnwZxU3b"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+        "name": "Chupa (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 144739,
-      "name": "The Remsen",
-      "url": "https://open.spotify.com/track/51qQvPxeHMUvHaMnwZxU3b"
+      "duration_ms": 70364,
+      "name": "La Cajita de M\u00fasica",
+      "url": "https://open.spotify.com/track/6tfcj3Fheeg4H21Lx8ZAzA"
     },
     {
       "added_at": null,
@@ -340,25 +340,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 72907,
-      "name": "First Day At School",
-      "url": "https://open.spotify.com/track/1qBXkDmnMZXaumaaxwmdYu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ezra (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 92666,
-      "name": "Making New Friends",
-      "url": "https://open.spotify.com/track/3olrmNmOEF1J3oVRTy1Ghy"
+      "duration_ms": 72642,
+      "name": "Kentucky State Championship 1963",
+      "url": "https://open.spotify.com/track/5LuS85cUwjH3vXXjUPrbqW"
     },
     {
       "added_at": null,
@@ -375,6 +359,22 @@
       "duration_ms": 62733,
       "name": "Godless Main Theme",
       "url": "https://open.spotify.com/track/5wTpvQI8cLNl1MqQH9IHOA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ezra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 92666,
+      "name": "Making New Friends",
+      "url": "https://open.spotify.com/track/3olrmNmOEF1J3oVRTy1Ghy"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 83131,
-      "name": "Calvin",
-      "url": "https://open.spotify.com/track/2GNgQFDxgVamyS8D2LL7wg"
+      "duration_ms": 161529,
+      "name": "Last Letter",
+      "url": "https://open.spotify.com/track/04tnxnuNA5FbR2Uzqlabs0"
     },
     {
       "added_at": null,

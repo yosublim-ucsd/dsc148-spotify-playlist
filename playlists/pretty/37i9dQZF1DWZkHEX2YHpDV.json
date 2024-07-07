@@ -1,6 +1,6 @@
 {
   "description": "pop punk, emo, post-hardcore, alt & more. Cover: The Story So Far",
-  "num_followers": 453856,
+  "num_followers": 453890,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -447,18 +447,18 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "Why Would I Watch",
-        "url": "https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ"
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
       "artists": [
         {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 164546,
-      "name": "Shhhh! Golf is On",
-      "url": "https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch"
+      "duration_ms": 174848,
+      "name": "5150",
+      "url": "https://open.spotify.com/track/14UzhtAQyCRGsuSjInmiJi"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "mainstream sellout",
-        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+        "name": "Why Would I Watch",
+        "url": "https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ"
       },
       "artists": [
         {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
         }
       ],
-      "duration_ms": 174848,
-      "name": "5150",
-      "url": "https://open.spotify.com/track/14UzhtAQyCRGsuSjInmiJi"
+      "duration_ms": 164546,
+      "name": "Shhhh! Golf is On",
+      "url": "https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "Dark Magic",
-        "url": "https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev"
-      },
-      "artists": [
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Pity Party",
-      "url": "https://open.spotify.com/track/0Latl06o13TA9mQV7SBUpx"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "BLINK AND YOU'LL MISS IT//",
         "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 168975,
       "name": "MARRY KILL F*CK//",
       "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "Dark Magic",
+        "url": "https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Pity Party",
+      "url": "https://open.spotify.com/track/0Latl06o13TA9mQV7SBUpx"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "faceplant",
-        "url": "https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 161206,
-      "name": "faceplant",
-      "url": "https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "Beg For More",
         "url": "https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 120149,
       "name": "YOU NEEDED A HIT//",
       "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "faceplant",
+        "url": "https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 161206,
+      "name": "faceplant",
+      "url": "https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "Too Quick to Forgive",
-        "url": "https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY"
-      },
-      "artists": [
-        {
-          "name": "Balance And Composure",
-          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
-        }
-      ],
-      "duration_ms": 261345,
-      "name": "Savior Mode",
-      "url": "https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "Losing What We Love",
         "url": "https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 214505,
       "name": "You & I",
       "url": "https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "Too Quick to Forgive",
+        "url": "https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY"
+      },
+      "artists": [
+        {
+          "name": "Balance And Composure",
+          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
+        }
+      ],
+      "duration_ms": 261345,
+      "name": "Savior Mode",
+      "url": "https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "Alameda County Fair",
-        "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
-      },
-      "artists": [
-        {
-          "name": "Mom Jeans.",
-          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
-        }
-      ],
-      "duration_ms": 147546,
-      "name": "Alameda County Fair",
-      "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "Past // Present // Future",
         "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 165317,
       "name": "T.M.I",
       "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "Alameda County Fair",
+        "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
+      },
+      "artists": [
+        {
+          "name": "Mom Jeans.",
+          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
+        }
+      ],
+      "duration_ms": 147546,
+      "name": "Alameda County Fair",
+      "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "What's An Hour Really Worth",
-        "url": "https://open.spotify.com/album/23NuSKPDQnvMwLJjcDTmjR"
-      },
-      "artists": [
-        {
-          "name": "The Dangerous Summer",
-          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
-        }
-      ],
-      "duration_ms": 213141,
-      "name": "What's An Hour Really Worth",
-      "url": "https://open.spotify.com/track/2ynVwAfLqk8GLXf4W95OMf"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "Don't Listen To My Voicemail",
         "url": "https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 178432,
       "name": "Don't Listen To My Voicemail",
       "url": "https://open.spotify.com/track/2n3GSvKOeHl2hp2htjjHh9"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "What's An Hour Really Worth",
+        "url": "https://open.spotify.com/album/23NuSKPDQnvMwLJjcDTmjR"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        }
+      ],
+      "duration_ms": 213141,
+      "name": "What's An Hour Really Worth",
+      "url": "https://open.spotify.com/track/2ynVwAfLqk8GLXf4W95OMf"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "Six Feet Under",
-        "url": "https://open.spotify.com/album/5ouxbPTfPDOnC70GIkZ27F"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 191976,
-      "name": "Six Feet Under",
-      "url": "https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "People That I Love Leave",
         "url": "https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 149248,
       "name": "People That I Love Leave",
       "url": "https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "Six Feet Under",
+        "url": "https://open.spotify.com/album/5ouxbPTfPDOnC70GIkZ27F"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 191976,
+      "name": "Six Feet Under",
+      "url": "https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/2IrrkgAgfGBo4ADlBNFTDl"
-      },
-      "artists": [
-        {
-          "name": "The Dangerous Summer",
-          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/1n1vdJoUCps9eEl1aK4lRO"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "This Won't Go Over Well",
         "url": "https://open.spotify.com/album/4Nxlb1mo54gPu2bXibj259"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 204197,
       "name": "This Won't Go Over Well",
       "url": "https://open.spotify.com/track/4WNJmm4Xv8d0ELJgowypjT"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/2IrrkgAgfGBo4ADlBNFTDl"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1n1vdJoUCps9eEl1aK4lRO"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "The Fullness of My Being",
-        "url": "https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3"
-      },
-      "artists": [
-        {
-          "name": "Being As An Ocean",
-          "url": "https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP"
-        }
-      ],
-      "duration_ms": 218311,
-      "name": "The Fullness of My Being",
-      "url": "https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "Six Feet",
         "url": "https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 181580,
       "name": "Six Feet",
       "url": "https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "The Fullness of My Being",
+        "url": "https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3"
+      },
+      "artists": [
+        {
+          "name": "Being As An Ocean",
+          "url": "https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP"
+        }
+      ],
+      "duration_ms": 218311,
+      "name": "The Fullness of My Being",
+      "url": "https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "Tired Of Lying",
-        "url": "https://open.spotify.com/album/49IsBOpvYnNf9qWln652wg"
-      },
-      "artists": [
-        {
-          "name": "The Early November",
-          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
-        }
-      ],
-      "duration_ms": 231204,
-      "name": "Tired Of Lying",
-      "url": "https://open.spotify.com/track/1ipYgQ1THFKqTBH5D5Cg25"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "dayz gone / black lodge breakfast burrito (limited time only)",
         "url": "https://open.spotify.com/album/4RgMjUyuNFO9f1llm5UeMS"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 191066,
       "name": "dayz gone",
       "url": "https://open.spotify.com/track/7smNyoh7fzczIYUOAoM4uJ"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "Tired Of Lying",
+        "url": "https://open.spotify.com/album/49IsBOpvYnNf9qWln652wg"
+      },
+      "artists": [
+        {
+          "name": "The Early November",
+          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
+        }
+      ],
+      "duration_ms": 231204,
+      "name": "Tired Of Lying",
+      "url": "https://open.spotify.com/track/1ipYgQ1THFKqTBH5D5Cg25"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "Slow Dance",
-        "url": "https://open.spotify.com/album/5Je0CQRcq8YiYPVZoencJc"
-      },
-      "artists": [
-        {
-          "name": "Life After Youth",
-          "url": "https://open.spotify.com/artist/4UY5RyNZP0mGHyzYZL9ud2"
-        }
-      ],
-      "duration_ms": 212034,
-      "name": "Slow Dance",
-      "url": "https://open.spotify.com/track/1cIXPzl0Bg3hGcsuoKcLPV"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "Eye Contact",
         "url": "https://open.spotify.com/album/5ILzLXOOptC2YRhsurHYh9"
       },
@@ -2175,18 +2159,18 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "Joan of Hill",
-        "url": "https://open.spotify.com/album/4KAgUeKNIsSzOsh0ZOf7Lr"
+        "name": "Slow Dance",
+        "url": "https://open.spotify.com/album/5Je0CQRcq8YiYPVZoencJc"
       },
       "artists": [
         {
-          "name": "Carly Cosgrove",
-          "url": "https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx"
+          "name": "Life After Youth",
+          "url": "https://open.spotify.com/artist/4UY5RyNZP0mGHyzYZL9ud2"
         }
       ],
-      "duration_ms": 253200,
-      "name": "Joan of Hill",
-      "url": "https://open.spotify.com/track/0SgfCKFbTlNj1bjQglw00K"
+      "duration_ms": 212034,
+      "name": "Slow Dance",
+      "url": "https://open.spotify.com/track/1cIXPzl0Bg3hGcsuoKcLPV"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -2227,6 +2211,22 @@
       "duration_ms": 156395,
       "name": "Don't Tempt Me Baby...",
       "url": "https://open.spotify.com/track/1qWdq5lpytNveivQlgs1fq"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "Joan of Hill",
+        "url": "https://open.spotify.com/album/4KAgUeKNIsSzOsh0ZOf7Lr"
+      },
+      "artists": [
+        {
+          "name": "Carly Cosgrove",
+          "url": "https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx"
+        }
+      ],
+      "duration_ms": 253200,
+      "name": "Joan of Hill",
+      "url": "https://open.spotify.com/track/0SgfCKFbTlNj1bjQglw00K"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -2295,6 +2295,26 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
+        "name": "The Four Before",
+        "url": "https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi"
+      },
+      "artists": [
+        {
+          "name": "Jetski",
+          "url": "https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI"
+        },
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "duration_ms": 227309,
+      "name": "Toneblerone",
+      "url": "https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
         "name": "to me",
         "url": "https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE"
       },
@@ -2327,26 +2347,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "The Four Before",
-        "url": "https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi"
-      },
-      "artists": [
-        {
-          "name": "Jetski",
-          "url": "https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI"
-        },
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 227309,
-      "name": "Toneblerone",
-      "url": "https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "Jesus",
         "url": "https://open.spotify.com/album/6tVYzz3VmqLcRSGGZu14pB"
       },
@@ -2363,22 +2363,6 @@
       "duration_ms": 150857,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/4ELaNiaXfb6V8RtGnPEjOv"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
-        "name": "Something About You",
-        "url": "https://open.spotify.com/album/60IGbp8jEh7hiknYc9cCdu"
-      },
-      "artists": [
-        {
-          "name": "Brooklane",
-          "url": "https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW"
-        }
-      ],
-      "duration_ms": 157376,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/352rVkzjhMmzhivUPghajg"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -2407,18 +2391,18 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "American Psycho",
-        "url": "https://open.spotify.com/album/2ILkMKiZC1vs6dtRKB3HvA"
+        "name": "Something About You",
+        "url": "https://open.spotify.com/album/60IGbp8jEh7hiknYc9cCdu"
       },
       "artists": [
         {
-          "name": "Savings",
-          "url": "https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb"
+          "name": "Brooklane",
+          "url": "https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW"
         }
       ],
-      "duration_ms": 185873,
-      "name": "American Psycho",
-      "url": "https://open.spotify.com/track/3oQkPjn9TE19bRxPPpWp08"
+      "duration_ms": 157376,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/352rVkzjhMmzhivUPghajg"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -2451,6 +2435,22 @@
       "duration_ms": 214523,
       "name": "Waiting On Better Days",
       "url": "https://open.spotify.com/track/2wRaYER3ClLlHCRcq8FD7j"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "American Psycho",
+        "url": "https://open.spotify.com/album/2ILkMKiZC1vs6dtRKB3HvA"
+      },
+      "artists": [
+        {
+          "name": "Savings",
+          "url": "https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb"
+        }
+      ],
+      "duration_ms": 185873,
+      "name": "American Psycho",
+      "url": "https://open.spotify.com/track/3oQkPjn9TE19bRxPPpWp08"
     },
     {
       "added_at": "2024-06-24 15:00:20",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2024-06-24 15:00:20",
       "album": {
-        "name": "Dark Paradise",
-        "url": "https://open.spotify.com/album/7gEgvr73TN2aBKB3jJ2rdk"
-      },
-      "artists": [
-        {
-          "name": "Belmont",
-          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
-        }
-      ],
-      "duration_ms": 146360,
-      "name": "Dark Paradise",
-      "url": "https://open.spotify.com/track/55T0Z7PSxKnPnsSJBaj4Zm"
-    },
-    {
-      "added_at": "2024-06-24 15:00:20",
-      "album": {
         "name": "Hopefully Pitchfork Doesn't Hear This",
         "url": "https://open.spotify.com/album/01GmOq8jksLHTkozUJ9Ixg"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 146600,
       "name": "Hopefully Pitchfork Doesn't Hear This",
       "url": "https://open.spotify.com/track/3D6N0OuzZPTEDP9MfSIgA0"
+    },
+    {
+      "added_at": "2024-06-24 15:00:20",
+      "album": {
+        "name": "Dark Paradise",
+        "url": "https://open.spotify.com/album/7gEgvr73TN2aBKB3jJ2rdk"
+      },
+      "artists": [
+        {
+          "name": "Belmont",
+          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
+        }
+      ],
+      "duration_ms": 146360,
+      "name": "Dark Paradise",
+      "url": "https://open.spotify.com/track/55T0Z7PSxKnPnsSJBaj4Zm"
     },
     {
       "added_at": "2024-06-24 15:00:20",

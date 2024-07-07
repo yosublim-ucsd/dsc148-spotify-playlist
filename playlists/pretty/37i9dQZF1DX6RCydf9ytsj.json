@@ -1,6 +1,6 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 634727,
+  "num_followers": 634961,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
+        "name": "Oak Ridge Boys Collection",
+        "url": "https://open.spotify.com/album/6aQEjw5vvwJaBxYY0w6HJI"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 159866,
+      "name": "American Made",
+      "url": "https://open.spotify.com/track/1wtcyTExLF8nZu9ZphHIl1"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
         "name": "Ultimate Alabama 20 # 1 Hits",
         "url": "https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 262079,
       "name": "Through The Years",
       "url": "https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
-        "name": "Me And The Boys",
-        "url": "https://open.spotify.com/album/3JqqXqQBFwdWb9MHfCf0SP"
-      },
-      "artists": [
-        {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Drinkin' My Baby Goodbye",
-      "url": "https://open.spotify.com/track/1KeWCjmGE74qeB3OSbB5Ax"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -927,18 +927,18 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Oak Ridge Boys Collection",
-        "url": "https://open.spotify.com/album/6aQEjw5vvwJaBxYY0w6HJI"
+        "name": "Me And The Boys",
+        "url": "https://open.spotify.com/album/3JqqXqQBFwdWb9MHfCf0SP"
       },
       "artists": [
         {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
         }
       ],
-      "duration_ms": 159866,
-      "name": "American Made",
-      "url": "https://open.spotify.com/track/1wtcyTExLF8nZu9ZphHIl1"
+      "duration_ms": 221706,
+      "name": "Drinkin' My Baby Goodbye",
+      "url": "https://open.spotify.com/track/1KeWCjmGE74qeB3OSbB5Ax"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "What Am I Gonna Do About You",
-        "url": "https://open.spotify.com/album/52S2Kk2P6hLkOBzncNWDjL"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 205866,
-      "name": "One Promise Too Late",
-      "url": "https://open.spotify.com/track/6BtBykwKhMjp4XDGc1ll1B"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "The Essential Merle Haggard: The Epic Years",
         "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 181426,
       "name": "That's the Way Love Goes",
       "url": "https://open.spotify.com/track/29ZJSsfmcSJcShl44iXuP1"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "What Am I Gonna Do About You",
+        "url": "https://open.spotify.com/album/52S2Kk2P6hLkOBzncNWDjL"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 205866,
+      "name": "One Promise Too Late",
+      "url": "https://open.spotify.com/track/6BtBykwKhMjp4XDGc1ll1B"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Whoever's In New England",
-        "url": "https://open.spotify.com/album/2wy4nL2f1eoBni0YFTcetr"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
         }
       ],
-      "duration_ms": 187066,
-      "name": "Little Rock",
-      "url": "https://open.spotify.com/track/4kGwf8ArBjC8AZRNbahDxk"
+      "duration_ms": 251560,
+      "name": "Don't Close Your Eyes",
+      "url": "https://open.spotify.com/track/3eIc0XWlqNkT290DfwNyBJ"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
+        "name": "Whoever's In New England",
+        "url": "https://open.spotify.com/album/2wy4nL2f1eoBni0YFTcetr"
       },
       "artists": [
         {
-          "name": "Keith Whitley",
-          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
         }
       ],
-      "duration_ms": 251560,
-      "name": "Don't Close Your Eyes",
-      "url": "https://open.spotify.com/track/3eIc0XWlqNkT290DfwNyBJ"
+      "duration_ms": 187066,
+      "name": "Little Rock",
+      "url": "https://open.spotify.com/track/4kGwf8ArBjC8AZRNbahDxk"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Milestones- Greatest Hits",
-        "url": "https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP"
-      },
-      "artists": [
-        {
-          "name": "Holly Dunn",
-          "url": "https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH"
-        }
-      ],
-      "duration_ms": 209466,
-      "name": "Daddy's Hands",
-      "url": "https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "Ten Years Of Hits",
         "url": "https://open.spotify.com/album/64O4gYFs64wZqznblUncYM"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 215106,
       "name": "Stand By Me - Single Version",
       "url": "https://open.spotify.com/track/3Fa7jdzVHdykpioJP1Qw7Z"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "Milestones- Greatest Hits",
+        "url": "https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP"
+      },
+      "artists": [
+        {
+          "name": "Holly Dunn",
+          "url": "https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH"
+        }
+      ],
+      "duration_ms": 209466,
+      "name": "Daddy's Hands",
+      "url": "https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "The Heart of It All",
-        "url": "https://open.spotify.com/album/5sgaAKTYixY72uzVOKHlJG"
-      },
-      "artists": [
-        {
-          "name": "Earl Thomas Conley",
-          "url": "https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj"
-        }
-      ],
-      "duration_ms": 232773,
-      "name": "What I'd Say",
-      "url": "https://open.spotify.com/track/6qdaMyeAxixEtIiI1Wqr4l"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "Wheels",
         "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 258799,
       "name": "I'll Still Be Loving You",
       "url": "https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "The Heart of It All",
+        "url": "https://open.spotify.com/album/5sgaAKTYixY72uzVOKHlJG"
+      },
+      "artists": [
+        {
+          "name": "Earl Thomas Conley",
+          "url": "https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj"
+        }
+      ],
+      "duration_ms": 232773,
+      "name": "What I'd Say",
+      "url": "https://open.spotify.com/track/6qdaMyeAxixEtIiI1Wqr4l"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "35 Biggest Hits",
-        "url": "https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "Dixie On My Mind",
-      "url": "https://open.spotify.com/track/7HdSVjZimbY8w0DX8aHLMv"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/2QM56YvhiO7uhXMe4z45Wn"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 239440,
       "name": "That Lovin' You Feelin' Again (with Roy Orbison) - 2008 Remaster",
       "url": "https://open.spotify.com/track/4PsXJjKjUQzuX5o9UAsNF2"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "35 Biggest Hits",
+        "url": "https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 156106,
+      "name": "Dixie On My Mind",
+      "url": "https://open.spotify.com/track/7HdSVjZimbY8w0DX8aHLMv"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -2107,18 +2107,18 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Gene Watson's Greatest Hits",
-        "url": "https://open.spotify.com/album/1PKnP8QXBvGKbNWEBhxGsp"
+        "name": "The Essential Earl Thomas Conley",
+        "url": "https://open.spotify.com/album/2mO9KRrzX78O8AXRb0vMsW"
       },
       "artists": [
         {
-          "name": "Gene Watson",
-          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
+          "name": "Earl Thomas Conley",
+          "url": "https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj"
         }
       ],
-      "duration_ms": 159506,
-      "name": "Fourteen Carat Mind",
-      "url": "https://open.spotify.com/track/2RB2xSlVoMRhINO0SruNIx"
+      "duration_ms": 188720,
+      "name": "Holding Her and Loving You",
+      "url": "https://open.spotify.com/track/5K8MiZ3xJD57Z77EOCZGaI"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -2139,18 +2139,18 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "The Essential Earl Thomas Conley",
-        "url": "https://open.spotify.com/album/2mO9KRrzX78O8AXRb0vMsW"
+        "name": "Gene Watson's Greatest Hits",
+        "url": "https://open.spotify.com/album/1PKnP8QXBvGKbNWEBhxGsp"
       },
       "artists": [
         {
-          "name": "Earl Thomas Conley",
-          "url": "https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj"
+          "name": "Gene Watson",
+          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
         }
       ],
-      "duration_ms": 188720,
-      "name": "Holding Her and Loving You",
-      "url": "https://open.spotify.com/track/5K8MiZ3xJD57Z77EOCZGaI"
+      "duration_ms": 159506,
+      "name": "Fourteen Carat Mind",
+      "url": "https://open.spotify.com/track/2RB2xSlVoMRhINO0SruNIx"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Best Of Gene Watson",
-        "url": "https://open.spotify.com/album/4aXbfgzVBIXaed4zapgq6J"
-      },
-      "artists": [
-        {
-          "name": "Gene Watson",
-          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Got No Reason Now For Goin' Home",
-      "url": "https://open.spotify.com/track/0suqXVpX1uJpSrmaDOnxwx"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "The Heart of It All",
         "url": "https://open.spotify.com/album/5sgaAKTYixY72uzVOKHlJG"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 215666,
       "name": "We Believe In Happy Endings (with Emmylou Harris)",
       "url": "https://open.spotify.com/track/7sEmUltyPUy9v2Of7Whzpy"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "Best Of Gene Watson",
+        "url": "https://open.spotify.com/album/4aXbfgzVBIXaed4zapgq6J"
+      },
+      "artists": [
+        {
+          "name": "Gene Watson",
+          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Got No Reason Now For Goin' Home",
+      "url": "https://open.spotify.com/track/0suqXVpX1uJpSrmaDOnxwx"
     },
     {
       "added_at": "2024-07-05 20:32:07",

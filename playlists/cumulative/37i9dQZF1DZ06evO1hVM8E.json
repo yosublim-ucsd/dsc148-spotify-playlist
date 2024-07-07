@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. Los temas esenciales, todos en una lista.",
+  "description": "This is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. The essential tracks, all in one playlist.",
   "name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 169093,
       "name": "A Poco No",
       "url": "https://open.spotify.com/track/5Wv9ZVPoGsfwKo09t4iz5a"
+    },
+    {
+      "album": {
+        "name": "A Tu Disposici\u00f3n",
+        "url": "https://open.spotify.com/album/4H6r9yntNvlwRaUfObxxkK"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210591,
+      "name": "A Tu Disposici\u00f3n",
+      "url": "https://open.spotify.com/track/2s6jDksWKSo5KsY4SMddPi"
     },
     {
       "album": {
@@ -1458,7 +1476,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 190800,
       "name": "Mis Tres Canciones",
       "url": "https://open.spotify.com/track/7nB30HoNUEgtv8rgDzRo54"

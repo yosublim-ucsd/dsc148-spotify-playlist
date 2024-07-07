@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Swing
 
-2,653 songs - 5 day 21 hr 17 min
+2,654 songs - 5 day 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1049,7 +1049,7 @@
 | [J'aime ta photo](https://open.spotify.com/track/000mlZk4su6mh0WvFlNUOc) | [Ellemetue](https://open.spotify.com/artist/3DYW5k3Q20xKcomupznCRo) | [Les crucifiés figuratifs](https://open.spotify.com/album/6zGLsViSVtPNcUi4Mz92YY) | 3:33 | 2022-02-25 | 2022-03-05 |
 | [J'aime, J'aime](https://open.spotify.com/track/1X7TuTJ1qByufKwkHsAGVo) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Un jour, je](https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI) | 3:07 | 2022-01-21 | 2022-01-29 |
 | [J'avais besoin d'un père \- Bonus Track](https://open.spotify.com/track/3fJoBa767U2glkVFs8kPD6) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [J'avais besoin d'un père \(Bonus Track\)](https://open.spotify.com/album/7DPZ5Wj7ndn47jYxXmjGxN) | 2:54 | 2023-05-05 | 2023-06-24 |
-| [J'avoue](https://open.spotify.com/track/4jH2zP0nXyJl55ruDJpJyL) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [J'avoue](https://open.spotify.com/album/7bnbZfvaAEicU4wHezytpg) | 3:02 | 2024-07-05 |  |
+| [J'avoue](https://open.spotify.com/track/4jH2zP0nXyJl55ruDJpJyL) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [J'avoue](https://open.spotify.com/album/7bnbZfvaAEicU4wHezytpg) | 3:02 | 2024-07-05 | 2024-07-07 |
 | [J'connais la rue](https://open.spotify.com/track/6nPX4SpBKvWcVkMU35LuiQ) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf), [EL GARRA](https://open.spotify.com/artist/35iGCHzli8Zhn5v4xoB7XA) | [Trapologie](https://open.spotify.com/album/33MQBXezsMMlwpcTDrv2me) | 4:02 | 2021-12-31 | 2022-01-15 |
 | [J'entends tout ce qui joue \( dans ta tête \)](https://open.spotify.com/track/2o50mKgFk37SMPVXKYWiR4) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [J'entends tout ce qui joue \( dans ta tête \)](https://open.spotify.com/album/1thrrLwrqLkjaEEoM3DSIm) | 3:08 | 2022-08-26 | 2022-09-17 |
 | [J'fais des efforts](https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Etienne Dufresne fait des efforts](https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO) | 3:46 | 2024-01-26 | 2024-02-03 |
@@ -1537,6 +1537,7 @@
 | [Malsain et sauf](https://open.spotify.com/track/7j3la4hrPWrfAfnbPitoGI) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Malsain et sauf](https://open.spotify.com/album/32GEpdgSryJ1QSRsvN4EiN) | 3:14 | 2023-02-03 | 2023-02-18 |
 | [MAMA](https://open.spotify.com/track/4P79OOQkEYekflp46u6GKM) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/4u1S2O3WTGIj53GqtpVjlI) | 2:41 | 2022-12-02 | 2023-01-06 |
 | [Mama](https://open.spotify.com/track/63lZCrUiCmSU2ofO0AcCKs) | [Kosla](https://open.spotify.com/artist/0WEnusOFYWy1WdoyeSPC72), [808 Delavega](https://open.spotify.com/artist/3dPuXCO7uQLHphYgFzUXCJ) | [Mama](https://open.spotify.com/album/1RJS9HVhlZucCIXiBmC6Xo) | 3:32 | 2023-02-24 | 2023-03-11 |
+| [MAMACITA](https://open.spotify.com/track/3qxnil0JyAWGS3vWxJyXEi) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MAMACITA](https://open.spotify.com/album/4ZhmFglWYBzjI1hxNsjUPN) | 3:08 | 2024-07-05 |  |
 | [Maman](https://open.spotify.com/track/5FwtloM8eGWtqPtglVcqfX) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Maman](https://open.spotify.com/album/21Yoob2SRAwz7aDHDWf7qr) | 3:31 | 2023-11-24 | 2023-12-02 |
 | [maman](https://open.spotify.com/track/5Nr5MNAlmvFw2z7LQV1C6F) | [White Migz](https://open.spotify.com/artist/2HLKLDXuuQlYM5YxZ21rN8), [Whitie](https://open.spotify.com/artist/0i91b2mJ9VCTPDvBEmOTID) | [vie rapide](https://open.spotify.com/album/3B4fTEOw0x0ku2woLbPop2) | 2:30 | 2023-02-10 | 2023-02-25 |
 | [Maman savait](https://open.spotify.com/track/2rWe6Sf38aKWjmP6hTIy9U) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [Maman savait](https://open.spotify.com/album/5lDkKa1xngzmFwJou4LLFH) | 2:58 | 2023-11-24 | 2024-01-14 |

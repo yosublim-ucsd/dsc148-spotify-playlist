@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1554375,
+  "num_followers": 1554531,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-07-05 17:43:02",
       "album": {
-        "name": "One New Change",
-        "url": "https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 294400,
-      "name": "One New Change",
-      "url": "https://open.spotify.com/track/7bjxZNe02r6XodrKONHGMC"
-    },
-    {
-      "added_at": "2024-07-05 17:43:02",
-      "album": {
         "name": "Subterranean",
         "url": "https://open.spotify.com/album/6cw5camBc9Lf9t4BS5NEDn"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 210731,
       "name": "Subterranean",
       "url": "https://open.spotify.com/track/1e21WWJUeqFhZhDuakGkdd"
+    },
+    {
+      "added_at": "2024-07-05 17:43:02",
+      "album": {
+        "name": "One New Change",
+        "url": "https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 294400,
+      "name": "One New Change",
+      "url": "https://open.spotify.com/track/7bjxZNe02r6XodrKONHGMC"
     },
     {
       "added_at": "2024-07-05 17:43:02",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-07-05 17:43:02",
       "album": {
+        "name": "Bloom At Night",
+        "url": "https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 199047,
+      "name": "Bloom At Night",
+      "url": "https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6"
+    },
+    {
+      "added_at": "2024-07-05 17:43:02",
+      "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/4x87urW3BcnGOCcKeSvl6Y"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 245927,
       "name": "Children - Edit Mix",
       "url": "https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV"
-    },
-    {
-      "added_at": "2024-07-05 17:43:02",
-      "album": {
-        "name": "Bloom At Night",
-        "url": "https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 199047,
-      "name": "Bloom At Night",
-      "url": "https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6"
     },
     {
       "added_at": "2024-07-05 17:43:02",
@@ -1151,30 +1151,6 @@
     {
       "added_at": "2024-07-05 17:43:02",
       "album": {
-        "name": "Through the Void",
-        "url": "https://open.spotify.com/album/4QKRjD08xSGtdGXzJEh0x7"
-      },
-      "artists": [
-        {
-          "name": "SouMix",
-          "url": "https://open.spotify.com/artist/3aYMIzdswPPo402ppCi9gp"
-        },
-        {
-          "name": "lightyearsaway",
-          "url": "https://open.spotify.com/artist/1Aa9xJpxW6ErjrbZ6uXErb"
-        },
-        {
-          "name": "Brad Arthur",
-          "url": "https://open.spotify.com/artist/0lxzzFAPveSQrtOwbZmMXd"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Through the Void",
-      "url": "https://open.spotify.com/track/0F5z4xuXIpwks2KNI6DUFk"
-    },
-    {
-      "added_at": "2024-07-05 17:43:02",
-      "album": {
         "name": "Before Dawn",
         "url": "https://open.spotify.com/album/3ClrFAuuK8LNzQg8kMo3zb"
       },
@@ -1199,42 +1175,26 @@
     {
       "added_at": "2024-07-05 17:43:02",
       "album": {
-        "name": "Morning Comes",
-        "url": "https://open.spotify.com/album/3SdVXBWFxCHxxwsbm8Bs7h"
+        "name": "Through the Void",
+        "url": "https://open.spotify.com/album/4QKRjD08xSGtdGXzJEh0x7"
       },
       "artists": [
         {
-          "name": "Jerome Price",
-          "url": "https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8"
+          "name": "SouMix",
+          "url": "https://open.spotify.com/artist/3aYMIzdswPPo402ppCi9gp"
         },
         {
-          "name": "Nu-La",
-          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
-        }
-      ],
-      "duration_ms": 201923,
-      "name": "Morning Comes",
-      "url": "https://open.spotify.com/track/2jFgHxHTzbI3ma02ppPoXz"
-    },
-    {
-      "added_at": "2024-07-05 17:43:02",
-      "album": {
-        "name": "I Need A Miracle",
-        "url": "https://open.spotify.com/album/7iYXLj1M7tpN10jH9PbuwA"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+          "name": "lightyearsaway",
+          "url": "https://open.spotify.com/artist/1Aa9xJpxW6ErjrbZ6uXErb"
         },
         {
-          "name": "Coco Star",
-          "url": "https://open.spotify.com/artist/3XSkS0dvC7HqbspstKciWc"
+          "name": "Brad Arthur",
+          "url": "https://open.spotify.com/artist/0lxzzFAPveSQrtOwbZmMXd"
         }
       ],
-      "duration_ms": 193353,
-      "name": "I Need A Miracle",
-      "url": "https://open.spotify.com/track/0Op5b6Wio6U15ohFPJvjmm"
+      "duration_ms": 177560,
+      "name": "Through the Void",
+      "url": "https://open.spotify.com/track/0F5z4xuXIpwks2KNI6DUFk"
     },
     {
       "added_at": "2024-07-05 17:43:02",
@@ -1259,6 +1219,46 @@
       "duration_ms": 314880,
       "name": "All That Matters - ARTBAT Remix Radio Edit",
       "url": "https://open.spotify.com/track/4vLdWFBi8WgA00nWPUHaLS"
+    },
+    {
+      "added_at": "2024-07-05 17:43:02",
+      "album": {
+        "name": "I Need A Miracle",
+        "url": "https://open.spotify.com/album/7iYXLj1M7tpN10jH9PbuwA"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Coco Star",
+          "url": "https://open.spotify.com/artist/3XSkS0dvC7HqbspstKciWc"
+        }
+      ],
+      "duration_ms": 193353,
+      "name": "I Need A Miracle",
+      "url": "https://open.spotify.com/track/0Op5b6Wio6U15ohFPJvjmm"
+    },
+    {
+      "added_at": "2024-07-05 17:43:02",
+      "album": {
+        "name": "Morning Comes",
+        "url": "https://open.spotify.com/album/3SdVXBWFxCHxxwsbm8Bs7h"
+      },
+      "artists": [
+        {
+          "name": "Jerome Price",
+          "url": "https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "duration_ms": 201923,
+      "name": "Morning Comes",
+      "url": "https://open.spotify.com/track/2jFgHxHTzbI3ma02ppPoXz"
     },
     {
       "added_at": "2024-07-05 17:43:02",
@@ -1383,38 +1383,6 @@
     {
       "added_at": "2024-07-05 17:43:02",
       "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5"
-      },
-      "artists": [
-        {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
-        }
-      ],
-      "duration_ms": 207638,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k"
-    },
-    {
-      "added_at": "2024-07-05 17:43:02",
-      "album": {
-        "name": "Yumi (edit)",
-        "url": "https://open.spotify.com/album/6Or1qZMDfcuXZyq0qceqsX"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 197213,
-      "name": "Yumi - edit",
-      "url": "https://open.spotify.com/track/6PK96Y20GrGeiU8yptYGfl"
-    },
-    {
-      "added_at": "2024-07-05 17:43:02",
-      "album": {
         "name": "Dance Is The Answer (feat. Raja Ram)",
         "url": "https://open.spotify.com/album/0mdXH0pJA8KKW8abGrS3o8"
       },
@@ -1443,6 +1411,38 @@
     {
       "added_at": "2024-07-05 17:43:02",
       "album": {
+        "name": "Yumi (edit)",
+        "url": "https://open.spotify.com/album/6Or1qZMDfcuXZyq0qceqsX"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 197213,
+      "name": "Yumi - edit",
+      "url": "https://open.spotify.com/track/6PK96Y20GrGeiU8yptYGfl"
+    },
+    {
+      "added_at": "2024-07-05 17:43:02",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        }
+      ],
+      "duration_ms": 207638,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k"
+    },
+    {
+      "added_at": "2024-07-05 17:43:02",
+      "album": {
         "name": "Want You",
         "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
       },
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-07-05 17:43:02",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
-      },
-      "artists": [
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI"
-    },
-    {
-      "added_at": "2024-07-05 17:43:02",
-      "album": {
         "name": "Electric Feeling",
         "url": "https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 186239,
       "name": "Electric Feeling",
       "url": "https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ"
+    },
+    {
+      "added_at": "2024-07-05 17:43:02",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
+      },
+      "artists": [
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI"
     },
     {
       "added_at": "2024-07-05 17:43:02",
@@ -1639,30 +1639,6 @@
     {
       "added_at": "2024-07-05 17:43:02",
       "album": {
-        "name": "Shiver (Cassian Remix)",
-        "url": "https://open.spotify.com/album/1CrX8LvopfetcSOwlLwhni"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        },
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        }
-      ],
-      "duration_ms": 245669,
-      "name": "Shiver - Cassian Remix",
-      "url": "https://open.spotify.com/track/2F7SSzMbICn522yxy6JZt7"
-    },
-    {
-      "added_at": "2024-07-05 17:43:02",
-      "album": {
         "name": "Not Over Yet (feat. Grace Grundy)",
         "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
       },
@@ -1699,6 +1675,30 @@
       "duration_ms": 252073,
       "name": "Slipstream (feat. Julia Church)",
       "url": "https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB"
+    },
+    {
+      "added_at": "2024-07-05 17:43:02",
+      "album": {
+        "name": "Shiver (Cassian Remix)",
+        "url": "https://open.spotify.com/album/1CrX8LvopfetcSOwlLwhni"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        }
+      ],
+      "duration_ms": 245669,
+      "name": "Shiver - Cassian Remix",
+      "url": "https://open.spotify.com/track/2F7SSzMbICn522yxy6JZt7"
     },
     {
       "added_at": "2024-07-05 17:43:02",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2024-07-05 17:43:02",
       "album": {
+        "name": "All That I Lost",
+        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "All That I Lost",
+      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
+    },
+    {
+      "added_at": "2024-07-05 17:43:02",
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78"
       },
@@ -1803,26 +1819,6 @@
       "duration_ms": 205440,
       "name": "Easy",
       "url": "https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR"
-    },
-    {
-      "added_at": "2024-07-05 17:43:02",
-      "album": {
-        "name": "The Little Mushroom That Got Away",
-        "url": "https://open.spotify.com/album/71adfswntkKEtqbhBqp9FU"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 335409,
-      "name": "The Little Mushroom That Got Away",
-      "url": "https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR"
     },
     {
       "added_at": "2024-07-05 17:43:02",
@@ -1851,18 +1847,22 @@
     {
       "added_at": "2024-07-05 17:43:02",
       "album": {
-        "name": "All That I Lost",
-        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+        "name": "The Little Mushroom That Got Away",
+        "url": "https://open.spotify.com/album/71adfswntkKEtqbhBqp9FU"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         }
       ],
-      "duration_ms": 259838,
-      "name": "All That I Lost",
-      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
+      "duration_ms": 335409,
+      "name": "The Little Mushroom That Got Away",
+      "url": "https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR"
     },
     {
       "added_at": "2024-07-05 17:43:02",

@@ -841,6 +841,24 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/39NbYK8IiqbxjySgrqJE8U"
+      },
+      "artists": [
+        {
+          "name": "RoZe",
+          "url": "https://open.spotify.com/artist/3FnDrB5pRYfH6sN3FSw3L3"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173228,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/7ycOHP8qG6lfvjc0nx6eSG"
+    },
+    {
+      "album": {
         "name": "Red Flag",
         "url": "https://open.spotify.com/album/2eQjNxatEtQmwhBOVfRd5q"
       },
@@ -2296,6 +2314,24 @@
       "duration_ms": 195493,
       "name": "Revived",
       "url": "https://open.spotify.com/track/196IEpHnMLllSSIRndFEGX"
+    },
+    {
+      "album": {
+        "name": "Greener Grass",
+        "url": "https://open.spotify.com/album/6Rx9pQ9UbIDAPpNXvHPmGx"
+      },
+      "artists": [
+        {
+          "name": "RoZe",
+          "url": "https://open.spotify.com/artist/3FnDrB5pRYfH6sN3FSw3L3"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185898,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/5PKcv8T4xv1IbcW1s7lklP"
     },
     {
       "album": {

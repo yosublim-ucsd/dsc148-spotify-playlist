@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 199578,
       "name": "Puff",
       "url": "https://open.spotify.com/track/3s3jW8NmP4eLUz32sGxCPa"
@@ -1248,6 +1248,24 @@
       "duration_ms": 234138,
       "name": "Uden At T\u00e6nke P\u00e5 Dig",
       "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
+    },
+    {
+      "album": {
+        "name": "Uheldig",
+        "url": "https://open.spotify.com/album/2hE13utkQDgMP4jnbedxOd"
+      },
+      "artists": [
+        {
+          "name": "OLIVVER",
+          "url": "https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Uheldig",
+      "url": "https://open.spotify.com/track/7xmVPbxXvp4jyznoElf5RR"
     },
     {
       "album": {

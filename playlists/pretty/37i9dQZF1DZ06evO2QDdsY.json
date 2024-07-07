@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 15153,
+  "num_followers": 15160,
   "original_name": "This Is Valerie June",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
-  "snapshot_id": "ZoXmAAAAAAApY1qIn497yXor7XhdmDHC",
+  "snapshot_id": "Zoc3gAAAAABGgRs9zVbWRL4gj87vDNnC",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 245066,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 242840,
       "name": "Within You - Moon And Stars / Acoustic",
       "url": "https://open.spotify.com/track/3CGswhS4HazxivUCTfDlZq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Under Cover",
+        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "Godspeed",
+      "url": "https://open.spotify.com/track/6r2gdsL25eruBV8cBefbtY"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under Cover",
-        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 169693,
-      "name": "Godspeed",
-      "url": "https://open.spotify.com/track/6r2gdsL25eruBV8cBefbtY"
+      "duration_ms": 245066,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Under Cover",
+        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 184106,
+      "name": "Tonight I\u2019ll Be Staying Here With You",
+      "url": "https://open.spotify.com/track/4BVuRNBQgO2XDhAQxC7c8z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pushin' against a Stone",
         "url": "https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under Cover",
-        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 184106,
-      "name": "Tonight I\u2019ll Be Staying Here With You",
-      "url": "https://open.spotify.com/track/4BVuRNBQgO2XDhAQxC7c8z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broken Hearts & Dirty Windows: Songs of John Prine, Vol. 2",
         "url": "https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 209424,
       "name": "Summer's End",
       "url": "https://open.spotify.com/track/4XEJxDDGvxgAAUXJGMWg0h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Under Cover",
+        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/4xUsxA83y9Ea5qC6v8m6VG"
     },
     {
       "added_at": null,
@@ -824,9 +840,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 187880,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/4xUsxA83y9Ea5qC6v8m6VG"
+      "duration_ms": 279106,
+      "name": "Don\u2019t It Make You Want To Go Home",
+      "url": "https://open.spotify.com/track/1IiRdOcgZNojYYbVwU0w8Z"
     },
     {
       "added_at": null,
@@ -843,22 +859,6 @@
       "duration_ms": 144280,
       "name": "The No Draws Blues",
       "url": "https://open.spotify.com/track/77d2KoKcQwq41CBStkXpCp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Under Cover",
-        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 279106,
-      "name": "Don\u2019t It Make You Want To Go Home",
-      "url": "https://open.spotify.com/track/1IiRdOcgZNojYYbVwU0w8Z"
     }
   ],
   "unique_name": "This Is Valerie June",

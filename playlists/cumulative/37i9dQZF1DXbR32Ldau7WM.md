@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: ASIAN KUNG\-FU GENERATION
 
-1,072 songs - 2 day 22 hr 54 min
+1,073 songs - 2 day 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -845,6 +845,7 @@
 | [ランドリー](https://open.spotify.com/track/2Ig3UQesxs7Vg8ZeQLy5cp) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [天使だったじゃないか](https://open.spotify.com/album/2EfOlEm3EVfDX5XBw6baFj) | 3:26 | 2024-02-27 | 2024-02-29 |
 | [ラヴの元型](https://open.spotify.com/track/5AOoLf1lxCLcbMDsv0du8c) | [AJICO](https://open.spotify.com/artist/1F6WT6I5BMsRTWTS4r92wY) | [ラヴの元型](https://open.spotify.com/album/0BuE2EEycVTb4Q9FiJ9dkc) | 3:26 | 2024-03-12 | 2024-04-24 |
 | [リライト](https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ソルファ](https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04) | 3:45 | 2023-06-27 |  |
+| [一日花 feat.imase & 習志野高校吹奏楽部](https://open.spotify.com/track/1iclTsAT16fR9MkzBn59PZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [習志野高校吹奏楽部](https://open.spotify.com/artist/5xbDPS7E7ywnv4av18XEd6) | [一日花 feat.imase & 習志野高校吹奏楽部](https://open.spotify.com/album/0c4UljWfYwTkhDbrnlpcQG) | 4:46 | 2024-07-02 |  |
 | [一触即発](https://open.spotify.com/track/5rjg2Ko5FKp9k8i8spC1vQ) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [TODAY](https://open.spotify.com/album/0DsM76Alyvsrq649owb7Xf) | 3:08 | 2022-10-29 | 2022-11-23 |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2023-07-04 |  |
 | [三叉路のふたり](https://open.spotify.com/track/2dxI9SqqEO00D4RyHeCKEz) | [Moonriders](https://open.spotify.com/artist/01o8KYRik9Eb3RbAm4T2hh) | [It's the moooonriders](https://open.spotify.com/album/0S2eED52dbq75kYgRghQuc) | 2:56 | 2022-05-12 | 2022-05-18 |
@@ -910,7 +911,7 @@
 | [寝ぼけた街に](https://open.spotify.com/track/5FZ3j7g0wKfzWVT0XL5WbD) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [寝ぼけた街に](https://open.spotify.com/album/0DvrSjJFM9QFXJzVJvuyVQ) | 4:26 | 2022-05-10 | 2022-07-29 |
 | [小さな恋のうた](https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:42 | 2023-07-11 |  |
 | [小さな恋のうた](https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 4:20 | 2023-10-24 | 2024-04-19 |
-| [小さな恋のうた](https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 4:20 | 2024-04-03 |  |
+| [小さな恋のうた](https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 4:20 | 2024-04-03 | 2024-07-07 |
 | [小さな風景](https://open.spotify.com/track/7Ii4WNeFLTFFiJuKRkcPsX) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 3:42 | 2022-06-14 | 2022-06-22 |
 | [少年セゾン](https://open.spotify.com/track/6mhif68sfKzj8Tp4nEKEWY) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [少年セゾン](https://open.spotify.com/album/08uVRPJ95oNwUI2TyHUim2) | 3:43 | 2023-07-06 | 2023-07-19 |
 | [少年少女](https://open.spotify.com/track/1AwfJENb63nQKuIWiuh0cy) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [少年少女](https://open.spotify.com/album/5ugjgbvqSNYigkw9gemwmC) | 3:28 | 2022-05-12 | 2022-06-05 |

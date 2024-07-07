@@ -1,6 +1,6 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 38116,
+  "num_followers": 38124,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Paradis",
-        "url": "https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9"
-      },
-      "artists": [
-        {
-          "name": "MDNS",
-          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
-        }
-      ],
-      "duration_ms": 141238,
-      "name": "Paradis",
-      "url": "https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Aucun mec ne ressemble \u00e0 Brad Pitt dans la Dr\u00f4me",
         "url": "https://open.spotify.com/album/1POjEAquHo8mTJZDuanBeF"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 187832,
       "name": "Aucun mec ne ressemble \u00e0 Brad Pitt dans la Dr\u00f4me",
       "url": "https://open.spotify.com/track/5vWxbiXuRXVbkErHTei3Hb"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "Paradis",
+        "url": "https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9"
+      },
+      "artists": [
+        {
+          "name": "MDNS",
+          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
+        }
+      ],
+      "duration_ms": 141238,
+      "name": "Paradis",
+      "url": "https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Bodysick",
-        "url": "https://open.spotify.com/album/1Cx9PXN9WJIJEge4JXHknM"
-      },
-      "artists": [
-        {
-          "name": "Bison Bisou",
-          "url": "https://open.spotify.com/artist/5WMurQLtfM6V3t7Gbh1ix1"
-        }
-      ],
-      "duration_ms": 167280,
-      "name": "Hypersects",
-      "url": "https://open.spotify.com/track/1uyeiZXzeP2uDViqIDHoMl"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Staring At The Sun",
         "url": "https://open.spotify.com/album/7wjQNoKbHVtm9QGXfqo4Tg"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "A Hooded Witness",
-        "url": "https://open.spotify.com/album/66y40mYUKZuyBEtOzVRQA3"
+        "name": "Bodysick",
+        "url": "https://open.spotify.com/album/1Cx9PXN9WJIJEge4JXHknM"
       },
       "artists": [
         {
-          "name": "Cemented Minds",
-          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
+          "name": "Bison Bisou",
+          "url": "https://open.spotify.com/artist/5WMurQLtfM6V3t7Gbh1ix1"
         }
       ],
-      "duration_ms": 246853,
-      "name": "A Hooded Witness",
-      "url": "https://open.spotify.com/track/4x6eOkyTPUKM4BtSIRfVzp"
+      "duration_ms": 167280,
+      "name": "Hypersects",
+      "url": "https://open.spotify.com/track/1uyeiZXzeP2uDViqIDHoMl"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -783,34 +767,18 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "What Does Moon Think",
-        "url": "https://open.spotify.com/album/1xuR0TZ9uoVRPIWHqj7hu8"
+        "name": "A Hooded Witness",
+        "url": "https://open.spotify.com/album/66y40mYUKZuyBEtOzVRQA3"
       },
       "artists": [
         {
-          "name": "SIZ",
-          "url": "https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo"
+          "name": "Cemented Minds",
+          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
         }
       ],
-      "duration_ms": 180706,
-      "name": "What Does Moon Think",
-      "url": "https://open.spotify.com/track/7L25MDmLQynJSzLm8hlj16"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
-        "name": "...About Going Home",
-        "url": "https://open.spotify.com/album/4BK5HpkKLHhJJcefY8ucuI"
-      },
-      "artists": [
-        {
-          "name": "FRAGILE",
-          "url": "https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu"
-        }
-      ],
-      "duration_ms": 249013,
-      "name": "Model",
-      "url": "https://open.spotify.com/track/0PgfUO12sVy39a87M9J0rn"
+      "duration_ms": 246853,
+      "name": "A Hooded Witness",
+      "url": "https://open.spotify.com/track/4x6eOkyTPUKM4BtSIRfVzp"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -831,6 +799,38 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
+        "name": "...About Going Home",
+        "url": "https://open.spotify.com/album/4BK5HpkKLHhJJcefY8ucuI"
+      },
+      "artists": [
+        {
+          "name": "FRAGILE",
+          "url": "https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu"
+        }
+      ],
+      "duration_ms": 249013,
+      "name": "Model",
+      "url": "https://open.spotify.com/track/0PgfUO12sVy39a87M9J0rn"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "What Does Moon Think",
+        "url": "https://open.spotify.com/album/1xuR0TZ9uoVRPIWHqj7hu8"
+      },
+      "artists": [
+        {
+          "name": "SIZ",
+          "url": "https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo"
+        }
+      ],
+      "duration_ms": 180706,
+      "name": "What Does Moon Think",
+      "url": "https://open.spotify.com/track/7L25MDmLQynJSzLm8hlj16"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
         "name": "Head Above Water",
         "url": "https://open.spotify.com/album/5Ra5ZI7sjmxLxi8pA4t3Pc"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Sisyphus",
-        "url": "https://open.spotify.com/album/1zZ0wIAF8iYeiLGqNxqVOI"
-      },
-      "artists": [
-        {
-          "name": "7 Weeks",
-          "url": "https://open.spotify.com/artist/3va5uyDVlsWxIq7oxb3ofw"
-        }
-      ],
-      "duration_ms": 233880,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1I2u7A2VycGzm1YUU1Oe36"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/2KQaSNYnMutOHHGAeUBSfO"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 238186,
       "name": "Enfer",
       "url": "https://open.spotify.com/track/1E32HzakrkfftyhRJrRISM"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "Sisyphus",
+        "url": "https://open.spotify.com/album/1zZ0wIAF8iYeiLGqNxqVOI"
+      },
+      "artists": [
+        {
+          "name": "7 Weeks",
+          "url": "https://open.spotify.com/artist/3va5uyDVlsWxIq7oxb3ofw"
+        }
+      ],
+      "duration_ms": 233880,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1I2u7A2VycGzm1YUU1Oe36"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Ashamed",
-        "url": "https://open.spotify.com/album/2AVURS4qCdrIZkqriAelGo"
-      },
-      "artists": [
-        {
-          "name": "Mad Foxes",
-          "url": "https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Crystal Glass",
-      "url": "https://open.spotify.com/track/6g6kaanB0CkHwZVizWUaGj"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Night of the Loving Dead",
         "url": "https://open.spotify.com/album/7MgObAh6503Kapx3g6fYDh"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 203906,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/6x6pZm52ipZTVIM99Jwb1k"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "Ashamed",
+        "url": "https://open.spotify.com/album/2AVURS4qCdrIZkqriAelGo"
+      },
+      "artists": [
+        {
+          "name": "Mad Foxes",
+          "url": "https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Crystal Glass",
+      "url": "https://open.spotify.com/track/6g6kaanB0CkHwZVizWUaGj"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/24e49t2eGI5UV88f1uLTOe"
-      },
-      "artists": [
-        {
-          "name": "Stuck in the Sound",
-          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
-        }
-      ],
-      "duration_ms": 177040,
-      "name": "Pop Pop Pop",
-      "url": "https://open.spotify.com/track/68ySTFttrJJjrCD6U6Yeg3"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Daddy Issues",
         "url": "https://open.spotify.com/album/31gjmH07EByb5lpua6I4G8"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 289476,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/2IQq6WSFeAeQIdarYvlGxP"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/24e49t2eGI5UV88f1uLTOe"
+      },
+      "artists": [
+        {
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
+        }
+      ],
+      "duration_ms": 177040,
+      "name": "Pop Pop Pop",
+      "url": "https://open.spotify.com/track/68ySTFttrJJjrCD6U6Yeg3"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Billy Believe",
-        "url": "https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR"
-      },
-      "artists": [
-        {
-          "name": "Stuck in the Sound",
-          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
-        }
-      ],
-      "duration_ms": 286173,
-      "name": "Vegan Porn Food",
-      "url": "https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Burning Bright",
         "url": "https://open.spotify.com/album/7lOutDr84PlBG1OAAylOAW"
       },
@@ -1175,22 +1159,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "HORIZON",
-        "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
-      },
-      "artists": [
-        {
-          "name": "The Inspector Cluzo",
-          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
-        }
-      ],
-      "duration_ms": 228080,
-      "name": "HORIZON",
-      "url": "https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Nothing Belongs to Anything",
         "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
       },
@@ -1203,6 +1171,38 @@
       "duration_ms": 308125,
       "name": "Welcome Newcomers",
       "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "Billy Believe",
+        "url": "https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR"
+      },
+      "artists": [
+        {
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
+        }
+      ],
+      "duration_ms": 286173,
+      "name": "Vegan Porn Food",
+      "url": "https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "HORIZON",
+        "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
+      },
+      "artists": [
+        {
+          "name": "The Inspector Cluzo",
+          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "HORIZON",
+      "url": "https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
+        "name": "Shreds of Tales",
+        "url": "https://open.spotify.com/album/2o7lvEpqFRNvXtfqLtyufl"
+      },
+      "artists": [
+        {
+          "name": "Grit",
+          "url": "https://open.spotify.com/artist/7MqjgK85RJWzT4IS6gkCVJ"
+        }
+      ],
+      "duration_ms": 211505,
+      "name": "Others",
+      "url": "https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
         "name": "Songs from the Deepwater",
         "url": "https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd"
       },
@@ -1351,38 +1367,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Shreds of Tales",
-        "url": "https://open.spotify.com/album/2o7lvEpqFRNvXtfqLtyufl"
-      },
-      "artists": [
-        {
-          "name": "Grit",
-          "url": "https://open.spotify.com/artist/7MqjgK85RJWzT4IS6gkCVJ"
-        }
-      ],
-      "duration_ms": 211505,
-      "name": "Others",
-      "url": "https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
-        "name": "Provocative",
-        "url": "https://open.spotify.com/album/3WruGDJtSzFt10JJjIQh5G"
-      },
-      "artists": [
-        {
-          "name": "WOOD WOUNDS",
-          "url": "https://open.spotify.com/artist/0pT5iVVXSZxmytxY6Dqnzm"
-        }
-      ],
-      "duration_ms": 119062,
-      "name": "Provocative",
-      "url": "https://open.spotify.com/track/38a028wwlHws1qY0UfVgCK"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "De Novo",
         "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
       },
@@ -1395,22 +1379,6 @@
       "duration_ms": 192815,
       "name": "Humans",
       "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
-        "name": "SORORITY / CONTROL",
-        "url": "https://open.spotify.com/album/3SwAxSQK2G4ziJUs8TDWOK"
-      },
-      "artists": [
-        {
-          "name": "We Hate You Please Die",
-          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
-        }
-      ],
-      "duration_ms": 163732,
-      "name": "Sorority",
-      "url": "https://open.spotify.com/track/3WBCcdmfS1EmlkHkvZU2o7"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -1431,6 +1399,22 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
+        "name": "SORORITY / CONTROL",
+        "url": "https://open.spotify.com/album/3SwAxSQK2G4ziJUs8TDWOK"
+      },
+      "artists": [
+        {
+          "name": "We Hate You Please Die",
+          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
+        }
+      ],
+      "duration_ms": 163732,
+      "name": "Sorority",
+      "url": "https://open.spotify.com/track/3WBCcdmfS1EmlkHkvZU2o7"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
         "name": "Mood Disorders",
         "url": "https://open.spotify.com/album/0ckv05nXDPG8LxuvCr0mmt"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 201706,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/3DbgF86SyidgINXtIx1qnV"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "Provocative",
+        "url": "https://open.spotify.com/album/3WruGDJtSzFt10JJjIQh5G"
+      },
+      "artists": [
+        {
+          "name": "WOOD WOUNDS",
+          "url": "https://open.spotify.com/artist/0pT5iVVXSZxmytxY6Dqnzm"
+        }
+      ],
+      "duration_ms": 119062,
+      "name": "Provocative",
+      "url": "https://open.spotify.com/track/38a028wwlHws1qY0UfVgCK"
     },
     {
       "added_at": "2024-05-29 06:49:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6PMKZl4slXlFqxPgU4v5w1.md) - [plain]
 
 > 
 
-[abdelaziz](https://open.spotify.com/user/34ju0qupggd7c0twwwss0bceq) - 0 like - 22 songs - 1 hr 29 min
+[abdelaziz](https://open.spotify.com/user/34ju0qupggd7c0twwwss0bceq) - 0 like - 27 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,5 +30,10 @@ pretty - [cumulative](/playlists/cumulative/6PMKZl4slXlFqxPgU4v5w1.md) - [plain]
 | 20 | [Mary's Theme](https://open.spotify.com/track/2wo8xxzFHcB7WorvcIBkfD) | [Stelvio Cipriani](https://open.spotify.com/artist/32GAlFg8ZU34WZLFjAUAGQ) | [Femina Ridens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7IxHAfOEAOTHn8630AcsL8) | 2:10 |
 | 21 | [endsville is burning](https://open.spotify.com/track/0mr8LFEGjDJsH2LnSWYCmg) | [NNTYTUU](https://open.spotify.com/artist/1DbJR3WnrE6zQ5XIuLx8mD) | [Wants and Needs](https://open.spotify.com/album/652mPQWHKHwl39CQ9HozGP) | 1:27 |
 | 22 | [私達を信じていて](https://open.spotify.com/track/4xu0gZ96zx1G7UdajUGDqD) | [Cindy](https://open.spotify.com/artist/2ZMPUpiuAKAkzPdMj6qEX0) | [Angel Touch](https://open.spotify.com/album/1Cm55AdMDqdZv9dxiJmB5m) | 5:52 |
+| 23 | [Loving You \(Original Version\)](https://open.spotify.com/track/5Yo0Jz7YDAEPKsklNfQTA6) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [XSCAPE](https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ) | 3:02 |
+| 24 | [Being Boring \- 2018 Remaster](https://open.spotify.com/track/6utJDOqzWj8FggDp1R2Wi2) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Behaviour: Further Listening 1990 \- 1991 \(2018 Remaster\)](https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET) | 6:50 |
+| 25 | [Loving Machine](https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 3:47 |
+| 26 | [I Want You](https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 3:52 |
+| 27 | [Where There Is Love](https://open.spotify.com/track/7bfBBmySorcpDFJFa0iCCL) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Remind Me \(The Classic Elektra Recordings 1978\-1984\)](https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t) | 3:11 |
 
-Snapshot ID: `AAAAGY8pqeyd/lEltR1U2Ch8Di5QCeqt`
+Snapshot ID: `AAAAHhtAM91gCzCa8oQN+7bpattbFAYh`

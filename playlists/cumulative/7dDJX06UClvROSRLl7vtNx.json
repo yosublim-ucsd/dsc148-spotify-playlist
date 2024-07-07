@@ -8439,6 +8439,28 @@
     },
     {
       "album": {
+        "name": "The Coast",
+        "url": "https://open.spotify.com/album/5sRT5OqDQUM7JmYZkJ98yx"
+      },
+      "artists": [
+        {
+          "name": "rshand",
+          "url": "https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16"
+        },
+        {
+          "name": "Joel Winterflood",
+          "url": "https://open.spotify.com/artist/6SW28suhyCreYrl00Amk36"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "The Coast",
+      "url": "https://open.spotify.com/track/2stURTZNZ9ewQrku3C0KIW"
+    },
+    {
+      "album": {
         "name": "The Letter",
         "url": "https://open.spotify.com/album/61kwJ03rXpL0NTjflA9c3f"
       },

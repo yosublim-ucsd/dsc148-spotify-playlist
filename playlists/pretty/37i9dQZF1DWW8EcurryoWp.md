@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8EcurryoWp.md) - [plain]
 
 > The best new Irish alternative sounds\. Cover: Annie\-Dog
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,243 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,242 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

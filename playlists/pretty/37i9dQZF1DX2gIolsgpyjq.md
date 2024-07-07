@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Noak Hellsing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,793 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,802 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 25 | [waste](https://open.spotify.com/track/7Kn3tgPBG36YPq4rDz6kWN) | [edphorix](https://open.spotify.com/artist/3mxFS6QPoslmTAxsiUMy06), [I Don't Speak French](https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY) | [waste](https://open.spotify.com/album/2TypuDjDoHxitguU3Wk4RT) | 2:25 |
 | 26 | [Reach The Climax](https://open.spotify.com/track/2VZ935f6xX2NN3nndoxqQl) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Reach The Climax](https://open.spotify.com/album/0PsdRMBjocAGGonPGgKJqC) | 2:36 |
 | 27 | [Losing My Mind](https://open.spotify.com/track/6MPY7cE0xXEYfiimIbHcfe) | [MARSAW](https://open.spotify.com/artist/1c92H7lIxtyREQAZoNDCDd) | [Losing My Mind](https://open.spotify.com/album/0dKUQcMSYYMwMoGnrXWGCS) | 3:20 |
-| 28 | [Sound Is Gone](https://open.spotify.com/track/3DNFhlSVKh2Ikf1HQFDjvh) | [Zekl](https://open.spotify.com/artist/2SHXLydniWMUiAR6eIuS5u), [Ben Dante](https://open.spotify.com/artist/4QmAQnyiZd2vALuEY3AIc7) | [Sound Is Gone](https://open.spotify.com/album/1wEEyIwFwMcGiWG8HHkMyL) | 3:28 |
+| 28 | [Sound Is Gone](https://open.spotify.com/track/3DNFhlSVKh2Ikf1HQFDjvh) | [ZEKL](https://open.spotify.com/artist/2SHXLydniWMUiAR6eIuS5u), [Ben Dante](https://open.spotify.com/artist/4QmAQnyiZd2vALuEY3AIc7) | [Sound Is Gone](https://open.spotify.com/album/1wEEyIwFwMcGiWG8HHkMyL) | 3:28 |
 | 29 | [one good reason](https://open.spotify.com/track/28m6u1EywxomZiKMGhfL9x) | [Howlan](https://open.spotify.com/artist/0ZmunMZUP2AH3nPuoNRILY) | [one good reason](https://open.spotify.com/album/6i5est68crDfNVDSAw7nZs) | 3:10 |
 | 30 | [Dance With Me](https://open.spotify.com/track/6ag8iJzVTeeKa7H4tmFCCw) | [WIN WIN](https://open.spotify.com/artist/7iBrlNg54cJghrZBVrq3Yt) | [Dance With Me](https://open.spotify.com/album/0heVuevzJXNmPV2Ft3wpBt) | 2:50 |
 | 31 | [FIND](https://open.spotify.com/track/0nOAeVq41wQhOiD0VWnpOV) | [Julian Hall](https://open.spotify.com/artist/0hFYvKvXCBlrnTghqcm9Lj) | [FIND](https://open.spotify.com/album/2m1odjbvZs1jY2W1eOwDDT) | 2:07 |

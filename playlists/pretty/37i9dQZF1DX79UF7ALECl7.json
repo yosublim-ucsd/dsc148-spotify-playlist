@@ -1,6 +1,6 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121706,
+  "num_followers": 121708,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 182564,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Storm in a Teacup",
         "url": "https://open.spotify.com/album/7I0uNZXs5RK3FGDUefK2S0"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 293764,
       "name": "A Piece of Mind",
       "url": "https://open.spotify.com/track/5Dj11QzfbzBmzlhTXB4zIL"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 182564,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -543,26 +543,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Shallow Breathing",
-        "url": "https://open.spotify.com/album/3LW5ZXeG9mkNmVEoEVPee1"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Makk Mikkael",
-          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
-        }
-      ],
-      "duration_ms": 163298,
-      "name": "Shallow Breathing",
-      "url": "https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Especiale(Fresh & Low Productions present Fresh Juice II)",
         "url": "https://open.spotify.com/album/6cTmxKG2mtM54GGlx6dfvE"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 440000,
       "name": "Especiale - Carnival Mix",
       "url": "https://open.spotify.com/track/35lgMCRHT2Ehy6r6RTcTmf"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Shallow Breathing",
+        "url": "https://open.spotify.com/album/3LW5ZXeG9mkNmVEoEVPee1"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Makk Mikkael",
+          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
+        }
+      ],
+      "duration_ms": 163298,
+      "name": "Shallow Breathing",
+      "url": "https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Anima",
-        "url": "https://open.spotify.com/album/0XJNZA4EavYZ26GZl69o66"
-      },
-      "artists": [
-        {
-          "name": "Trippin Jaguar",
-          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
-        }
-      ],
-      "duration_ms": 390485,
-      "name": "Anima",
-      "url": "https://open.spotify.com/track/5unR3ptVUULyGcG9LKC9Lg"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/5swcUAvJoBBxKmwH60xs18"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 270027,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/5PhuSPukGj9G50AWPdpa93"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Anima",
+        "url": "https://open.spotify.com/album/0XJNZA4EavYZ26GZl69o66"
+      },
+      "artists": [
+        {
+          "name": "Trippin Jaguar",
+          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
+        }
+      ],
+      "duration_ms": 390485,
+      "name": "Anima",
+      "url": "https://open.spotify.com/track/5unR3ptVUULyGcG9LKC9Lg"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "You Know",
-        "url": "https://open.spotify.com/album/6IoJpTO7kXGusqLKglYGVk"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "You Know",
-      "url": "https://open.spotify.com/track/5gt8DyZLTb9U2m0i6ENZnP"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Gaia",
         "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 245202,
       "name": "Gaia - Radio Edit",
       "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/6IoJpTO7kXGusqLKglYGVk"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/5gt8DyZLTb9U2m0i6ENZnP"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
-      },
-      "artists": [
-        {
-          "name": "Aydin Genchsoy",
-          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Don't Stop the Dance (Kraak & Smaak Radio Edit)",
         "url": "https://open.spotify.com/album/1Mbgn2dBhxJZUDP5nAaRgY"
       },
@@ -847,6 +831,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
+      },
+      "artists": [
+        {
+          "name": "Aydin Genchsoy",
+          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
       },
@@ -859,70 +859,6 @@
       "duration_ms": 182407,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Resilience",
-        "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
-      },
-      "artists": [
-        {
-          "name": "Swann Decamme",
-          "url": "https://open.spotify.com/artist/41AOvXWcYS1IxaItxtahgA"
-        },
-        {
-          "name": "Oktave",
-          "url": "https://open.spotify.com/artist/1EEM7nMm39HPZWTc3xBqbM"
-        }
-      ],
-      "duration_ms": 415903,
-      "name": "Resilience",
-      "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/0BpjFdJHvqDSvzilqt4sxv"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/28uMxZ5bHuAB0FWFPV8Zee"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Hachi",
-        "url": "https://open.spotify.com/album/5Z9u65XxlamRAfn05tClOI"
-      },
-      "artists": [
-        {
-          "name": "Stym",
-          "url": "https://open.spotify.com/artist/3m7hKfjvjNkvrLIDwKsHio"
-        },
-        {
-          "name": "Terizo",
-          "url": "https://open.spotify.com/artist/3MFa1VXEKktIURugbn9i1H"
-        },
-        {
-          "name": "Casual Chill",
-          "url": "https://open.spotify.com/artist/2NDHujf9zYxhdC7RxXt4Jq"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Hachi",
-      "url": "https://open.spotify.com/track/0xlK5pNlJjTqpKFHIY63r0"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -947,6 +883,70 @@
       "duration_ms": 293529,
       "name": "Too Many Questions - Soble Remix",
       "url": "https://open.spotify.com/track/1su02HA4IZMCLuLa8VhFYV"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/0BpjFdJHvqDSvzilqt4sxv"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/28uMxZ5bHuAB0FWFPV8Zee"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
+      },
+      "artists": [
+        {
+          "name": "Swann Decamme",
+          "url": "https://open.spotify.com/artist/41AOvXWcYS1IxaItxtahgA"
+        },
+        {
+          "name": "Oktave",
+          "url": "https://open.spotify.com/artist/1EEM7nMm39HPZWTc3xBqbM"
+        }
+      ],
+      "duration_ms": 415903,
+      "name": "Resilience",
+      "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Hachi",
+        "url": "https://open.spotify.com/album/5Z9u65XxlamRAfn05tClOI"
+      },
+      "artists": [
+        {
+          "name": "Stym",
+          "url": "https://open.spotify.com/artist/3m7hKfjvjNkvrLIDwKsHio"
+        },
+        {
+          "name": "Terizo",
+          "url": "https://open.spotify.com/artist/3MFa1VXEKktIURugbn9i1H"
+        },
+        {
+          "name": "Casual Chill",
+          "url": "https://open.spotify.com/artist/2NDHujf9zYxhdC7RxXt4Jq"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Hachi",
+      "url": "https://open.spotify.com/track/0xlK5pNlJjTqpKFHIY63r0"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "Eyes on You",
+        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "100 Miles",
         "url": "https://open.spotify.com/album/0MHuy3031MWIjNAwuPgCJK"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 518086,
       "name": "100 Miles",
       "url": "https://open.spotify.com/track/3AsStByn7z7jj9EY7iymPb"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Eyes on You",
-        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Eyes on You",
-      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "Tales Of Never EP",
+        "url": "https://open.spotify.com/album/51KTf7v6QLMOV08JenVeru"
+      },
+      "artists": [
+        {
+          "name": "ColorJaxx",
+          "url": "https://open.spotify.com/artist/3DkArjD2UZemk7QCbvXpQm"
+        }
+      ],
+      "duration_ms": 313515,
+      "name": "Tales Of Never - Original Mix",
+      "url": "https://open.spotify.com/track/35DTdTJZiPQKOGn5JvQGDw"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "Late Night Obsession",
         "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
       },
@@ -1159,6 +1175,22 @@
       "duration_ms": 166798,
       "name": "Slow Goods",
       "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Fleur d'Hiver",
+        "url": "https://open.spotify.com/album/4sBW2Pcr7KlMa28FxpAf6e"
+      },
+      "artists": [
+        {
+          "name": "Bootie Grove",
+          "url": "https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3"
+        }
+      ],
+      "duration_ms": 231500,
+      "name": "Fleur d'Hiver",
+      "url": "https://open.spotify.com/track/6vr5tDOUOTgtRHWCLrTEtX"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1187,18 +1219,18 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Fleur d'Hiver",
-        "url": "https://open.spotify.com/album/4sBW2Pcr7KlMa28FxpAf6e"
+        "name": "At The Horizon",
+        "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
       },
       "artists": [
         {
-          "name": "Bootie Grove",
-          "url": "https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3"
+          "name": "Marc Hartman",
+          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
         }
       ],
-      "duration_ms": 231500,
-      "name": "Fleur d'Hiver",
-      "url": "https://open.spotify.com/track/6vr5tDOUOTgtRHWCLrTEtX"
+      "duration_ms": 294995,
+      "name": "At The Horizon",
+      "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1219,22 +1251,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "At The Horizon",
-        "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
-      },
-      "artists": [
-        {
-          "name": "Marc Hartman",
-          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
-        }
-      ],
-      "duration_ms": 294995,
-      "name": "At The Horizon",
-      "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Deneb Cygni",
         "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 453559,
       "name": "Deneb Cygni - Original Mix",
       "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Such It Goes",
-        "url": "https://open.spotify.com/album/4u2ZlIFMiHYmrAqF4QLEvn"
-      },
-      "artists": [
-        {
-          "name": "Deeparture",
-          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
-        }
-      ],
-      "duration_ms": 482595,
-      "name": "Such It Goes",
-      "url": "https://open.spotify.com/track/4wrGyMDAvCNoLSxqUZnrsl"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Moraine",
-        "url": "https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb"
+        "name": "Such It Goes",
+        "url": "https://open.spotify.com/album/4u2ZlIFMiHYmrAqF4QLEvn"
       },
       "artists": [
         {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+          "name": "Deeparture",
+          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
         }
       ],
-      "duration_ms": 237947,
-      "name": "Moraine",
-      "url": "https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz"
+      "duration_ms": 482595,
+      "name": "Such It Goes",
+      "url": "https://open.spotify.com/track/4wrGyMDAvCNoLSxqUZnrsl"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Tales Of Never EP",
-        "url": "https://open.spotify.com/album/51KTf7v6QLMOV08JenVeru"
-      },
-      "artists": [
-        {
-          "name": "ColorJaxx",
-          "url": "https://open.spotify.com/artist/3DkArjD2UZemk7QCbvXpQm"
-        }
-      ],
-      "duration_ms": 313515,
-      "name": "Tales Of Never - Original Mix",
-      "url": "https://open.spotify.com/track/35DTdTJZiPQKOGn5JvQGDw"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Ngoni",
         "url": "https://open.spotify.com/album/0k28lJS2jFSG5xa8rL8vr8"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "small talk",
-        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
+        "name": "Moraine",
+        "url": "https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb"
       },
       "artists": [
         {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
         }
       ],
-      "duration_ms": 325680,
-      "name": "small talk",
-      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
+      "duration_ms": 237947,
+      "name": "Moraine",
+      "url": "https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1379,6 +1363,22 @@
       "duration_ms": 452586,
       "name": "Alive",
       "url": "https://open.spotify.com/track/66IW3XfLvm6zvMtVLM6pTS"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "small talk",
+        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 325680,
+      "name": "small talk",
+      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Proto/Emotions",
-        "url": "https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY"
-      },
-      "artists": [
-        {
-          "name": "Black Loops",
-          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
-        }
-      ],
-      "duration_ms": 319743,
-      "name": "Ballo Da Solo",
-      "url": "https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Dub 002",
         "url": "https://open.spotify.com/album/1izE0AfZaQbrXmcDRrpcw6"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 370006,
       "name": "Dub 002",
       "url": "https://open.spotify.com/track/23gIyPfmbczIngg3vvvu3P"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Proto/Emotions",
+        "url": "https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY"
+      },
+      "artists": [
+        {
+          "name": "Black Loops",
+          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
+        }
+      ],
+      "duration_ms": 319743,
+      "name": "Ballo Da Solo",
+      "url": "https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM"
     },
     {
       "added_at": "2024-06-03 13:14:44",

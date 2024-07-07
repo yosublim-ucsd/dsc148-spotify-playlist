@@ -1,6 +1,6 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Willie Nelson",
-  "num_followers": 264281,
+  "num_followers": 264335,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
@@ -351,34 +351,18 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "The Panhandlers",
-        "url": "https://open.spotify.com/album/4ZTVXx7vjRCbLhIUteip4R"
+        "name": "Cozy",
+        "url": "https://open.spotify.com/album/3EQbke1wHMcA9Cqw5cOIM9"
       },
       "artists": [
         {
-          "name": "The Panhandlers",
-          "url": "https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8"
-        },
-        {
-          "name": "John Baumann",
-          "url": "https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L"
-        },
-        {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
-        },
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        },
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
         }
       ],
-      "duration_ms": 188610,
-      "name": "West Texas in My Eye",
-      "url": "https://open.spotify.com/track/7rr2MisgPp9gRn1ydcwpe7"
+      "duration_ms": 217123,
+      "name": "Cozy",
+      "url": "https://open.spotify.com/track/7vtdJnOxzDbRPtzge0KNqY"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -415,18 +399,34 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Cozy",
-        "url": "https://open.spotify.com/album/3EQbke1wHMcA9Cqw5cOIM9"
+        "name": "The Panhandlers",
+        "url": "https://open.spotify.com/album/4ZTVXx7vjRCbLhIUteip4R"
       },
       "artists": [
         {
-          "name": "Braxton Keith",
-          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+          "name": "The Panhandlers",
+          "url": "https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8"
+        },
+        {
+          "name": "John Baumann",
+          "url": "https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L"
+        },
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        },
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        },
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
         }
       ],
-      "duration_ms": 217123,
-      "name": "Cozy",
-      "url": "https://open.spotify.com/track/7vtdJnOxzDbRPtzge0KNqY"
+      "duration_ms": 188610,
+      "name": "West Texas in My Eye",
+      "url": "https://open.spotify.com/track/7rr2MisgPp9gRn1ydcwpe7"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Blink You'll Miss It",
-        "url": "https://open.spotify.com/album/3fWz8gQUrBBsf7y7q1znTq"
+        "name": "Wave On Wave",
+        "url": "https://open.spotify.com/album/0HjdNkgyrUKC2ynRUNna7V"
       },
       "artists": [
         {
-          "name": "Mike Ryan",
-          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
         }
       ],
-      "duration_ms": 212819,
-      "name": "Damn Good Goodbye",
-      "url": "https://open.spotify.com/track/1tPAhtdVRtRexRdH9QXOSP"
+      "duration_ms": 244373,
+      "name": "Wave on Wave",
+      "url": "https://open.spotify.com/track/7rS87NoPWbAkVURdVFbGH9"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Wave On Wave",
-        "url": "https://open.spotify.com/album/0HjdNkgyrUKC2ynRUNna7V"
+        "name": "Blink You'll Miss It",
+        "url": "https://open.spotify.com/album/3fWz8gQUrBBsf7y7q1znTq"
       },
       "artists": [
         {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+          "name": "Mike Ryan",
+          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
         }
       ],
-      "duration_ms": 244373,
-      "name": "Wave on Wave",
-      "url": "https://open.spotify.com/track/7rS87NoPWbAkVURdVFbGH9"
+      "duration_ms": 212819,
+      "name": "Damn Good Goodbye",
+      "url": "https://open.spotify.com/track/1tPAhtdVRtRexRdH9QXOSP"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/4vHUA1pDoYFTaxuCNOhK2z"
-      },
-      "artists": [
-        {
-          "name": "Charlie Robison",
-          "url": "https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "New Year's Day",
-      "url": "https://open.spotify.com/track/7DXNTiUCWJvomSGEGMr3H8"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
         "name": "George Jones - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 197400,
       "name": "He Stopped Loving Her Today",
       "url": "https://open.spotify.com/track/4BcrWCZPXuoGU0SnAsJW1s"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/4vHUA1pDoYFTaxuCNOhK2z"
+      },
+      "artists": [
+        {
+          "name": "Charlie Robison",
+          "url": "https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "New Year's Day",
+      "url": "https://open.spotify.com/track/7DXNTiUCWJvomSGEGMr3H8"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Life Of The Party",
-        "url": "https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N"
+        "name": "Cold Hard Truth",
+        "url": "https://open.spotify.com/album/1OOYMqvCCRZDdRFezpg8l3"
       },
       "artists": [
         {
-          "name": "Charlie Robison",
-          "url": "https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 262866,
-      "name": "My Hometown",
-      "url": "https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP"
+      "duration_ms": 206213,
+      "name": "Choices",
+      "url": "https://open.spotify.com/track/7ottDUMz3VomUN2Ln9FWdI"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -983,22 +983,18 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Front Row Seat",
-        "url": "https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX"
+        "name": "Walking Distance",
+        "url": "https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq"
       },
       "artists": [
         {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        },
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+          "name": "Robert Earl Keen",
+          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
         }
       ],
-      "duration_ms": 223451,
-      "name": "Wasn't That Drunk (feat. Carly Pearce)",
-      "url": "https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4"
+      "duration_ms": 196866,
+      "name": "Feelin' Good Again",
+      "url": "https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1019,34 +1015,38 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Cold Hard Truth",
-        "url": "https://open.spotify.com/album/1OOYMqvCCRZDdRFezpg8l3"
+        "name": "Life Of The Party",
+        "url": "https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Charlie Robison",
+          "url": "https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt"
         }
       ],
-      "duration_ms": 206213,
-      "name": "Choices",
-      "url": "https://open.spotify.com/track/7ottDUMz3VomUN2Ln9FWdI"
+      "duration_ms": 262866,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP"
     },
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Walking Distance",
-        "url": "https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq"
+        "name": "Front Row Seat",
+        "url": "https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX"
       },
       "artists": [
         {
-          "name": "Robert Earl Keen",
-          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        },
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
         }
       ],
-      "duration_ms": 196866,
-      "name": "Feelin' Good Again",
-      "url": "https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6"
+      "duration_ms": 223451,
+      "name": "Wasn't That Drunk (feat. Carly Pearce)",
+      "url": "https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Burning The Day",
-        "url": "https://open.spotify.com/album/56Eev1ECimoTdex4w7yjpY"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        }
-      ],
-      "duration_ms": 281653,
-      "name": "Interstate",
-      "url": "https://open.spotify.com/track/2bSakZfbGt38Z9sViKpNXc"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
         "name": "West Textures",
         "url": "https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 303000,
       "name": "The Road Goes On Forever",
       "url": "https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "Burning The Day",
+        "url": "https://open.spotify.com/album/56Eev1ECimoTdex4w7yjpY"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "duration_ms": 281653,
+      "name": "Interstate",
+      "url": "https://open.spotify.com/track/2bSakZfbGt38Z9sViKpNXc"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
+        "name": "Tramp On Your Street",
+        "url": "https://open.spotify.com/album/4VZK4PLoIdugyfsg3ZHon0"
+      },
+      "artists": [
+        {
+          "name": "Billy Joe Shaver",
+          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/4f2K09ZZra4gK8Cyuf6yW6"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
         "name": "In His Arms",
         "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 150186,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
-        "name": "Tramp On Your Street",
-        "url": "https://open.spotify.com/album/4VZK4PLoIdugyfsg3ZHon0"
-      },
-      "artists": [
-        {
-          "name": "Billy Joe Shaver",
-          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/4f2K09ZZra4gK8Cyuf6yW6"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
+        "name": "Billy Joe Shaver",
+        "url": "https://open.spotify.com/album/2fkWfYbsj2safWkNU2PCT9"
+      },
+      "artists": [
+        {
+          "name": "Billy Joe Shaver",
+          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "I Been to Georgia on a Fast Train",
+      "url": "https://open.spotify.com/track/2UicNzPoIwYvu08vVFzRTP"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
         "name": "Old No. 1",
         "url": "https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 201480,
       "name": "Ain't My Day",
       "url": "https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
-        "name": "Billy Joe Shaver",
-        "url": "https://open.spotify.com/album/2fkWfYbsj2safWkNU2PCT9"
-      },
-      "artists": [
-        {
-          "name": "Billy Joe Shaver",
-          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "I Been to Georgia on a Fast Train",
-      "url": "https://open.spotify.com/track/2UicNzPoIwYvu08vVFzRTP"
     },
     {
       "added_at": "2024-07-05 20:39:25",

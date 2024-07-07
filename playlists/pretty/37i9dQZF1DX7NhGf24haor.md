@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Coone
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,796 likes - 95 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,878 likes - 95 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Warrior Cry](https://open.spotify.com/track/3MKGucsbvdG7RgfoFOqDaj) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Warrior Cry](https://open.spotify.com/album/47EV2t9QoqQ7D3hCr9UJhT) | 3:27 |
-| 2 | [Heat Of The Moment](https://open.spotify.com/track/6VpR1Ddi97grQSLuHjh4dH) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Jurgen Vries](https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg), [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Destination](https://open.spotify.com/album/7oEm0ankzz0Is25YkrhUNu) | 3:06 |
+| 2 | [Heat Of The Moment](https://open.spotify.com/track/6VpR1Ddi97grQSLuHjh4dH) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem), [Jurgen Vries](https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Destination](https://open.spotify.com/album/7oEm0ankzz0Is25YkrhUNu) | 3:06 |
 | 3 | [IJSCOMAN](https://open.spotify.com/track/55gMCUlmE8mNQulOST9KvZ) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Bassbrain](https://open.spotify.com/artist/2FpmZwomIGHEVAICcfIg5T) | [IJSCOMAN](https://open.spotify.com/album/5HEmDLuIkLDpr4xJ8mcRAm) | 3:19 |
 | 4 | [Who Is Calling 2024](https://open.spotify.com/track/0FHWVYM8n0xNn8NCrZEQLe) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO), [Tatanka](https://open.spotify.com/artist/7qieEljaoUd5fJn3uL0w6X), [Wild Motherfuckers](https://open.spotify.com/artist/3wHQD9DfdVFOjJpm2JRbMP) | [Who Is Calling 2024](https://open.spotify.com/album/5sZxTzpaYGG30A3tjZqbFo) | 2:48 |
 | 5 | [Backstabbers \(Envy\)](https://open.spotify.com/track/4HuoADJExHXV7o3qRVcDPY) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Backstabbers \(Envy\)](https://open.spotify.com/album/0CRm5cBbAUfqcmWiRgbc8x) | 3:25 |

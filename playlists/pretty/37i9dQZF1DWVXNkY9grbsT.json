@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. ",
-  "num_followers": 95471,
+  "num_followers": 95536,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Circle of Eyes",
-        "url": "https://open.spotify.com/album/7KZrDmpcamZhERuiv34WeD"
-      },
-      "artists": [
-        {
-          "name": "Eric Hilton",
-          "url": "https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB"
-        }
-      ],
-      "duration_ms": 420313,
-      "name": "Circle of Eyes",
-      "url": "https://open.spotify.com/track/5Lpb0i8kJxZB76yhdV7ehd"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "Infirmary / Unknown Summer",
         "url": "https://open.spotify.com/album/3rMoDF90sBDolYvPz1rlsM"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 580834,
       "name": "Unknown Summer",
       "url": "https://open.spotify.com/track/0fjA0ybeOE6lLgVGfQ5HVt"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Circle of Eyes",
+        "url": "https://open.spotify.com/album/7KZrDmpcamZhERuiv34WeD"
+      },
+      "artists": [
+        {
+          "name": "Eric Hilton",
+          "url": "https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB"
+        }
+      ],
+      "duration_ms": 420313,
+      "name": "Circle of Eyes",
+      "url": "https://open.spotify.com/track/5Lpb0i8kJxZB76yhdV7ehd"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "N-Plants",
-        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Ikata - 1",
-      "url": "https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "Burst / Glimmer",
         "url": "https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 436776,
       "name": "Night Journeys II",
       "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "N-Plants",
+        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Ikata - 1",
+      "url": "https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -879,6 +879,22 @@
       "duration_ms": 231340,
       "name": "Worlds Collide - Hannes Kretzer Rework",
       "url": "https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Birds & Beasts",
+        "url": "https://open.spotify.com/album/74FpX2nwI2LRt4O8cyfo2p"
+      },
+      "artists": [
+        {
+          "name": "SUSS",
+          "url": "https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS"
+        }
+      ],
+      "duration_ms": 602733,
+      "name": "Beasts",
+      "url": "https://open.spotify.com/track/2IoGAGwSw2uafOBq9dSe71"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Birds & Beasts",
-        "url": "https://open.spotify.com/album/74FpX2nwI2LRt4O8cyfo2p"
-      },
-      "artists": [
-        {
-          "name": "SUSS",
-          "url": "https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS"
-        }
-      ],
-      "duration_ms": 602733,
-      "name": "Beasts",
-      "url": "https://open.spotify.com/track/2IoGAGwSw2uafOBq9dSe71"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "Cutting Room I (from the Netflix Series \"Top Boy\")",
         "url": "https://open.spotify.com/album/5VWzOEbQh7HL8HolYLWyFi"
       },
@@ -1015,22 +1015,6 @@
       "duration_ms": 138720,
       "name": "Cutting Room I",
       "url": "https://open.spotify.com/track/6iQWxbUdH7SUrEOLwD45b6"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 319047,
-      "name": "Amygdala",
-      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1075,6 +1059,22 @@
       "duration_ms": 293331,
       "name": "Calma",
       "url": "https://open.spotify.com/track/22Td0L84DAT9G819RIfIQz"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 319047,
+      "name": "Amygdala",
+      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1135,34 +1135,18 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Objekt",
-        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/1ZrWgu2napuGWL5yiHUC1Z"
       },
       "artists": [
         {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+          "name": "Ocoeur",
+          "url": "https://open.spotify.com/artist/4lybctGarwN1hdctv433Js"
         }
       ],
-      "duration_ms": 302367,
-      "name": "Objekt",
-      "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
-        "name": "Closer Now",
-        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
-      },
-      "artists": [
-        {
-          "name": "Earth Trax",
-          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
-        }
-      ],
-      "duration_ms": 283673,
-      "name": "White Carnations",
-      "url": "https://open.spotify.com/track/5DyWnH4QyIbWzJKN6tReXg"
+      "duration_ms": 318373,
+      "name": "Opposite Sides",
+      "url": "https://open.spotify.com/track/0zjfRQNFfXIRfknfUgWmL5"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1187,18 +1171,50 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Connections",
-        "url": "https://open.spotify.com/album/1ZrWgu2napuGWL5yiHUC1Z"
+        "name": "Closer Now",
+        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
       },
       "artists": [
         {
-          "name": "Ocoeur",
-          "url": "https://open.spotify.com/artist/4lybctGarwN1hdctv433Js"
+          "name": "Earth Trax",
+          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
         }
       ],
-      "duration_ms": 318373,
-      "name": "Opposite Sides",
-      "url": "https://open.spotify.com/track/0zjfRQNFfXIRfknfUgWmL5"
+      "duration_ms": 283673,
+      "name": "White Carnations",
+      "url": "https://open.spotify.com/track/5DyWnH4QyIbWzJKN6tReXg"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Diamond Beach",
+        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Objekt",
+        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 302367,
+      "name": "Objekt",
+      "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1239,22 +1255,6 @@
       "duration_ms": 184240,
       "name": "Clear",
       "url": "https://open.spotify.com/track/65mYEI6vEjGink0prK6Len"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
-        "name": "Diamond Beach",
-        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
-      },
-      "artists": [
-        {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1383,22 +1383,18 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Earth and Beyond",
-        "url": "https://open.spotify.com/album/2Fq3lGA9bAcFK9sZQStCiR"
+        "name": "Amos",
+        "url": "https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG"
       },
       "artists": [
         {
-          "name": "LAV",
-          "url": "https://open.spotify.com/artist/2D9ZJ7EUNklTsO4UfJSfcW"
-        },
-        {
-          "name": "Purl",
-          "url": "https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f"
+          "name": "Daniel Imhof",
+          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
         }
       ],
-      "duration_ms": 596250,
-      "name": "Earthship",
-      "url": "https://open.spotify.com/track/3533PV6FkVuFWZi3sAPmce"
+      "duration_ms": 483790,
+      "name": "Amos",
+      "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1419,18 +1415,22 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Amos",
-        "url": "https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG"
+        "name": "Earth and Beyond",
+        "url": "https://open.spotify.com/album/2Fq3lGA9bAcFK9sZQStCiR"
       },
       "artists": [
         {
-          "name": "Daniel Imhof",
-          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
+          "name": "LAV",
+          "url": "https://open.spotify.com/artist/2D9ZJ7EUNklTsO4UfJSfcW"
+        },
+        {
+          "name": "Purl",
+          "url": "https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f"
         }
       ],
-      "duration_ms": 483790,
-      "name": "Amos",
-      "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
+      "duration_ms": 596250,
+      "name": "Earthship",
+      "url": "https://open.spotify.com/track/3533PV6FkVuFWZi3sAPmce"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Music for k\u014d",
-        "url": "https://open.spotify.com/album/2pmS1k68wuO6v2CtIpirJm"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 396049,
-      "name": "Outline of a Distant Memory",
-      "url": "https://open.spotify.com/track/1QF4VSZfZhsT3N1UrkUmm5"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "Briefly Human",
         "url": "https://open.spotify.com/album/69embWtc1LTihFDRVZnUAO"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 404301,
       "name": "Artificial Body",
       "url": "https://open.spotify.com/track/7HkmXcuYMvmxiHDvRLz8EH"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Music for k\u014d",
+        "url": "https://open.spotify.com/album/2pmS1k68wuO6v2CtIpirJm"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 396049,
+      "name": "Outline of a Distant Memory",
+      "url": "https://open.spotify.com/track/1QF4VSZfZhsT3N1UrkUmm5"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Night Journeys III",
-        "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        }
-      ],
-      "duration_ms": 388452,
-      "name": "Night Journeys III",
-      "url": "https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "The Body Keeps Score / I Left My Juul in Monterey",
         "url": "https://open.spotify.com/album/0zC4RmPmdRzk3WyygOuFOt"
       },
@@ -1687,6 +1671,22 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
+        "name": "Night Journeys III",
+        "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
+      },
+      "artists": [
+        {
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
+        }
+      ],
+      "duration_ms": 388452,
+      "name": "Night Journeys III",
+      "url": "https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
         "name": "Fighting Modernism EP",
         "url": "https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ"
       },
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "EA9633",
-        "url": "https://open.spotify.com/album/5U3iB0UvUtOCiTErBTi0zB"
-      },
-      "artists": [
-        {
-          "name": "Miyu Hosoi",
-          "url": "https://open.spotify.com/artist/2lIvg1lgcyxIIyXEuHU06T"
-        }
-      ],
-      "duration_ms": 192920,
-      "name": "EA9633",
-      "url": "https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "Forgive | Forget",
         "url": "https://open.spotify.com/album/0tdpgomn8HxnjUDYWbeeAH"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 435480,
       "name": "Forget",
       "url": "https://open.spotify.com/track/4SLq6OwH9S9u7a6ZvhevAm"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "EA9633",
+        "url": "https://open.spotify.com/album/5U3iB0UvUtOCiTErBTi0zB"
+      },
+      "artists": [
+        {
+          "name": "Miyu Hosoi",
+          "url": "https://open.spotify.com/artist/2lIvg1lgcyxIIyXEuHU06T"
+        }
+      ],
+      "duration_ms": 192920,
+      "name": "EA9633",
+      "url": "https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32"
     },
     {
       "added_at": "2024-06-28 14:30:27",

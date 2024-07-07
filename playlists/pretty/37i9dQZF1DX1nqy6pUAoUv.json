@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 179309,
+  "num_followers": 179329,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Vincent Neil Emerson",
-        "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
+        "name": "The Capitalist Blues",
+        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
       },
       "artists": [
         {
-          "name": "Vincent Neil Emerson",
-          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
         }
       ],
-      "duration_ms": 293240,
-      "name": "Learnin' to Drown",
-      "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
+      "duration_ms": 235146,
+      "name": "The Capitalist Blues",
+      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
+        "name": "Vincent Neil Emerson",
+        "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
+      },
+      "artists": [
+        {
+          "name": "Vincent Neil Emerson",
+          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
+        }
+      ],
+      "duration_ms": 293240,
+      "name": "Learnin' to Drown",
+      "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
         "name": "Songs of Our Native Daughters",
         "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
-      },
-      "artists": [
-        {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "The Capitalist Blues",
-      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Black Sun",
         "url": "https://open.spotify.com/album/6b7USoPQHOlfaelSrPPVo9"
       },
@@ -847,6 +847,38 @@
       "duration_ms": 206634,
       "name": "Black Sun",
       "url": "https://open.spotify.com/track/63UtBlg0KZZYueVi6r8DQp"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "The Capitalist Blues",
+        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Money Is King",
+      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "You, Yeah, You",
+        "url": "https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "duration_ms": 119615,
+      "name": "Sammi's Song",
+      "url": "https://open.spotify.com/track/5yxGc3FatVpON8FM0lpIJU"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -867,22 +899,6 @@
       "duration_ms": 257920,
       "name": "You Led Me To The Wrong",
       "url": "https://open.spotify.com/track/0QnMuP68PXfHbjPASDUPxE"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
-        "name": "You, Yeah, You",
-        "url": "https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e9 Burt",
-          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
-        }
-      ],
-      "duration_ms": 119615,
-      "name": "Sammi's Song",
-      "url": "https://open.spotify.com/track/5yxGc3FatVpON8FM0lpIJU"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -947,22 +963,6 @@
       "duration_ms": 239093,
       "name": "Saint Elizabeth",
       "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
-      },
-      "artists": [
-        {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Money Is King",
-      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
+        "name": "Banjo Babes",
+        "url": "https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "duration_ms": 245693,
+      "name": "Maggie May",
+      "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
         "name": "Ruminations",
         "url": "https://open.spotify.com/album/67hzZ19BcqT086ahgI9DIB"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 198440,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
-        "name": "Banjo Babes",
-        "url": "https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb"
-      },
-      "artists": [
-        {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
-        }
-      ],
-      "duration_ms": 245693,
-      "name": "Maggie May",
-      "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "The Fall (Deluxe)",
-        "url": "https://open.spotify.com/album/1Am7IvBB7DdjJl2qCGpNTu"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "High and Low (Acoustic)",
-      "url": "https://open.spotify.com/track/0CvC5iLvWfLCTeter5jYuQ"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Black Cowboys",
         "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 162473,
       "name": "Lonesome Old River Blues",
       "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "The Fall (Deluxe)",
+        "url": "https://open.spotify.com/album/1Am7IvBB7DdjJl2qCGpNTu"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "High and Low (Acoustic)",
+      "url": "https://open.spotify.com/track/0CvC5iLvWfLCTeter5jYuQ"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Prospect Hill: The American Songster Omnibus",
-        "url": "https://open.spotify.com/album/4Pp8Sv28eS0e694u9dKTfo"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 170456,
-      "name": "Georgia Drumbeat",
-      "url": "https://open.spotify.com/track/3VqiXdRJTMkz3LHwsCgkaj"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Working Man",
         "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 325093,
       "name": "Pigeons",
       "url": "https://open.spotify.com/track/5v11vzJ8bvdCkUm6yBUKsF"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Prospect Hill: The American Songster Omnibus",
+        "url": "https://open.spotify.com/album/4Pp8Sv28eS0e694u9dKTfo"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 170456,
+      "name": "Georgia Drumbeat",
+      "url": "https://open.spotify.com/track/3VqiXdRJTMkz3LHwsCgkaj"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 247920,
-      "name": "Held Down",
-      "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "From Where I Started",
         "url": "https://open.spotify.com/album/5RiJv1zalIyCyjWfGUJq8M"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 295533,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/1uHFTt7HcnjLsgZXHYwhzm"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 247920,
+      "name": "Held Down",
+      "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Pohorylle",
-        "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
+        "name": "Love Part Three",
+        "url": "https://open.spotify.com/album/5Quw6izA6Ub8cmeFIYLxnt"
       },
       "artists": [
         {
-          "name": "Margo Cilker",
-          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
+          "name": "Dani Larkin",
+          "url": "https://open.spotify.com/artist/6s74lp18Qqs5s46mJKtxWi"
         }
       ],
-      "duration_ms": 187306,
-      "name": "Tehachapi",
-      "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
+      "duration_ms": 267080,
+      "name": "Love Part Three",
+      "url": "https://open.spotify.com/track/5OoccFPlv12WWzdzJfcrfx"
     },
     {
       "added_at": "2024-07-05 21:02:38",

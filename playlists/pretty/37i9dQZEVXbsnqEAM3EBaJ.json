@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADVAlVcYNz5O8AWdwi5RSWx",
+  "snapshot_id": "AAAAAAAAAACqjZq1t+W+Lw3WJRAbSgau",
   "tracks": [
     {
       "added_at": "2024-07-05 04:00:00",
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
         }
       ],
-      "duration_ms": 276004,
-      "name": "Epic - Live 1995",
-      "url": "https://open.spotify.com/track/0ScWNr7NuTunjYhuNTEMNm"
+      "duration_ms": 162203,
+      "name": "I Started A Joke - Live 1995",
+      "url": "https://open.spotify.com/track/39dzNBgEbLay2RAIKJzd0T"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
         }
       ],
-      "duration_ms": 444327,
-      "name": "Ugly Truth - Live 1992",
-      "url": "https://open.spotify.com/track/1mLXgJdMpVmWT1HXfRwYwG"
+      "duration_ms": 329199,
+      "name": "Jesus Christ Pose - Live 1992",
+      "url": "https://open.spotify.com/track/1ZwwG24SBYZMpQJHr5ob2w"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "The Only Thing That Looks Good On Me Is You (Classic Version)",
-        "url": "https://open.spotify.com/album/5nrTebiSO8IKKm9PmILE4e"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 216268,
-      "name": "The Only Thing That Looks Good On Me Is You - Classic Version",
-      "url": "https://open.spotify.com/track/4SG5YnAQUrD6b8yZFxv2ja"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "I Have Notes",
         "url": "https://open.spotify.com/album/4l89gOBML1oUH3Yow6GEUY"
       },
@@ -195,22 +179,6 @@
       "duration_ms": 160986,
       "name": "Couldn't Love You More",
       "url": "https://open.spotify.com/track/76Xe5O7neH9OCBYvqeEZsJ"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "\u9065\u304b\u5f7c\u65b9 (2024 ver.)",
-        "url": "https://open.spotify.com/album/4dWjVtltGW5YsDIqegCcAM"
-      },
-      "artists": [
-        {
-          "name": "ASIAN KUNG-FU GENERATION",
-          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
-        }
-      ],
-      "duration_ms": 242266,
-      "name": "\u9065\u304b\u5f7c\u65b9 (2024 ver.)",
-      "url": "https://open.spotify.com/track/5mZGmMnM99YI70hvqBlViY"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -263,6 +231,22 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "\u9065\u304b\u5f7c\u65b9 (2024 ver.)",
+        "url": "https://open.spotify.com/album/4dWjVtltGW5YsDIqegCcAM"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "\u9065\u304b\u5f7c\u65b9 (2024 ver.)",
+      "url": "https://open.spotify.com/track/5mZGmMnM99YI70hvqBlViY"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 216253,
       "name": "Sandpaper (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/3JzVK0f8gqAAjyEDyXAys4"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "The Only Thing That Looks Good On Me Is You (Classic Version)",
+        "url": "https://open.spotify.com/album/5nrTebiSO8IKKm9PmILE4e"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 216268,
+      "name": "The Only Thing That Looks Good On Me Is You - Classic Version",
+      "url": "https://open.spotify.com/track/4SG5YnAQUrD6b8yZFxv2ja"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -347,6 +347,26 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "Linger (Iain Cook Remix)",
+        "url": "https://open.spotify.com/album/1cu4TMoCmGTpuJ0cozozF0"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        },
+        {
+          "name": "Iain Cook",
+          "url": "https://open.spotify.com/artist/5oTYAFr7Prs5cmCumId5CQ"
+        }
+      ],
+      "duration_ms": 376094,
+      "name": "Linger - Iain Cook Remix",
+      "url": "https://open.spotify.com/track/5p77oRvGJ57vzlhjw8pqtq"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "The 30th Anniversary of Weezer | Spotify Anniversaries LIVE",
         "url": "https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 153402,
       "name": "Black Bear Don't Care (Gothminister Remix)",
       "url": "https://open.spotify.com/track/2O4TJS6lXOv3WHDBxhLIHf"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Linger (Iain Cook Remix)",
-        "url": "https://open.spotify.com/album/1cu4TMoCmGTpuJ0cozozF0"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        },
-        {
-          "name": "Iain Cook",
-          "url": "https://open.spotify.com/artist/5oTYAFr7Prs5cmCumId5CQ"
-        }
-      ],
-      "duration_ms": 376094,
-      "name": "Linger - Iain Cook Remix",
-      "url": "https://open.spotify.com/track/5p77oRvGJ57vzlhjw8pqtq"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "(LIVE) - Born & Raised 2022, St Catharines ON",
-        "url": "https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 259763,
-      "name": "Accidents - Live",
-      "url": "https://open.spotify.com/track/0QwTG5slf3LCYi6xTUlHCT"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Cosmic",
         "url": "https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 196103,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/05HTGemZtN0xZibKQ60KKz"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "(LIVE) - Born & Raised 2022, St Catharines ON",
+        "url": "https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 259763,
+      "name": "Accidents - Live",
+      "url": "https://open.spotify.com/track/0QwTG5slf3LCYi6xTUlHCT"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -651,6 +651,30 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "Spicy Margarita (A7S Remix)",
+        "url": "https://open.spotify.com/album/5SthpeFn4PkDawgyWO8QUu"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 147230,
+      "name": "Spicy Margarita (A7S Remix)",
+      "url": "https://open.spotify.com/track/4iDztJeRKU05YvfufEZ1XG"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "My Favourite Game (feat. The Cardigans & P Money) [P Money Remix]",
         "url": "https://open.spotify.com/album/5PIEuV0qZOlHiXAgcF3ESy"
       },
@@ -675,30 +699,6 @@
       "duration_ms": 148767,
       "name": "My Favourite Game (feat. The Cardigans & P Money) - P Money Remix",
       "url": "https://open.spotify.com/track/7ulxfXLMgNo7yUX34fHyoU"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Spicy Margarita (A7S Remix)",
-        "url": "https://open.spotify.com/album/5SthpeFn4PkDawgyWO8QUu"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 147230,
-      "name": "Spicy Margarita (A7S Remix)",
-      "url": "https://open.spotify.com/track/4iDztJeRKU05YvfufEZ1XG"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -859,18 +859,46 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Younger Than Today (Live)",
-        "url": "https://open.spotify.com/album/6TDBrwfmzqmUBI538kc7zj"
+        "name": "Here We Go Again",
+        "url": "https://open.spotify.com/album/1eps9Ggx7nCwDfSR77AW87"
       },
       "artists": [
         {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+          "name": "Pro-Logic Team",
+          "url": "https://open.spotify.com/artist/4qn6Xiv8Cxf4OszwaDvD9u"
+        },
+        {
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
         }
       ],
-      "duration_ms": 158667,
-      "name": "Help - Live",
-      "url": "https://open.spotify.com/track/2fJYylG39CsZtmG1ATaOoR"
+      "duration_ms": 115441,
+      "name": "Blood Tears (Blind Guardian Theme Remix)",
+      "url": "https://open.spotify.com/track/4pQCv3aF5hnQbkKHJGujN5"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Jewel (Remastered and Expanded)",
+        "url": "https://open.spotify.com/album/2JFMNWJoPCWOqL0QpnjaWp"
+      },
+      "artists": [
+        {
+          "name": "Marcella Detroit",
+          "url": "https://open.spotify.com/artist/37zKpwMQ7NFzk0MPR4FUJe"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        }
+      ],
+      "duration_ms": 351120,
+      "name": "Ain't Nothing Like the Real Thing (feat. Elton John) - Kenny Dope Extended Mix",
+      "url": "https://open.spotify.com/track/2p5tO39jvj5kPy7voaCOWX"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -911,62 +939,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Jewel (Remastered and Expanded)",
-        "url": "https://open.spotify.com/album/2JFMNWJoPCWOqL0QpnjaWp"
-      },
-      "artists": [
-        {
-          "name": "Marcella Detroit",
-          "url": "https://open.spotify.com/artist/37zKpwMQ7NFzk0MPR4FUJe"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        }
-      ],
-      "duration_ms": 351120,
-      "name": "Ain't Nothing Like the Real Thing (feat. Elton John) - Kenny Dope Extended Mix",
-      "url": "https://open.spotify.com/track/2p5tO39jvj5kPy7voaCOWX"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "\u0421\u043e\u043d / Son",
-        "url": "https://open.spotify.com/album/1fcCWRHZESlnXFSPs8piEb"
-      },
-      "artists": [
-        {
-          "name": "Molchat Doma",
-          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "\u0421\u043e\u043d / Son - Radio Edit",
-      "url": "https://open.spotify.com/track/6bn5OFUhl8lm4VzKEPSzEz"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Fall in Line",
-        "url": "https://open.spotify.com/album/7ru1OonrDxyPDGx3zi6MqT"
-      },
-      "artists": [
-        {
-          "name": "Mushroomhead",
-          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
-        }
-      ],
-      "duration_ms": 284453,
-      "name": "Fall In Line",
-      "url": "https://open.spotify.com/track/7ftpyir5ygZkv92mbZMFqi"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Worry",
         "url": "https://open.spotify.com/album/1qISfk68iEjgZ4cG17YuEy"
       },
@@ -979,42 +951,6 @@
       "duration_ms": 288946,
       "name": "Worry",
       "url": "https://open.spotify.com/track/4TBMUdlZiHHWRZPHMBIMq4"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Columbia (Sawmills Outtake)",
-        "url": "https://open.spotify.com/album/38uIcT5xt5iECIYM33vRfK"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 437502,
-      "name": "Columbia - Sawmills Outtake",
-      "url": "https://open.spotify.com/track/7C2nz2EEB7pvqUbWFdZk3g"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Just Like 73 (Tom Morello Version)",
-        "url": "https://open.spotify.com/album/7afy0Ytt67hzFxYlLzmKyq"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "Just Like 73 - Tom Morello Version",
-      "url": "https://open.spotify.com/track/11DxHa7QIQ5NfdiHstN2O2"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1051,46 +987,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Ranma 1/2 (Olvida La Amargura)",
-        "url": "https://open.spotify.com/album/6hVWovjwcad0FSoGXqE9Bh"
-      },
-      "artists": [
-        {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
-        },
-        {
-          "name": "Jade",
-          "url": "https://open.spotify.com/artist/2B05Dwi4tSGx2ohCAWPcYm"
-        }
-      ],
-      "duration_ms": 160256,
-      "name": "Ranma 1/2 (Olvida La Amargura)",
-      "url": "https://open.spotify.com/track/59sUk0NRw5WEmnBf72F3FU"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Que Viva el Chamam\u00e9",
-        "url": "https://open.spotify.com/album/4HenxJp1vS4ki7Bhye7H0D"
-      },
-      "artists": [
-        {
-          "name": "Antonio Tarrag\u00f3 Ros",
-          "url": "https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI"
-        },
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 224243,
-      "name": "La Vida y la Libertad",
-      "url": "https://open.spotify.com/track/0LpzBuOMD5OgSU3uzCHnFZ"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "One Hand Clapping",
         "url": "https://open.spotify.com/album/5bo520v8a72MrqnQNCPh5Y"
       },
@@ -1107,202 +1003,6 @@
       "duration_ms": 236933,
       "name": "Soily - One Hand Clapping Sessions",
       "url": "https://open.spotify.com/track/4ahgYKeOdXFQvnMBL2kLDZ"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Endless Riddance",
-        "url": "https://open.spotify.com/album/0JBlgmqIsosVFIs55zFeyF"
-      },
-      "artists": [
-        {
-          "name": "Front 242",
-          "url": "https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX"
-        }
-      ],
-      "duration_ms": 287653,
-      "name": "Take One",
-      "url": "https://open.spotify.com/track/0slfUT2BP2tI5uIis9Z8Cb"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Make It All Right",
-        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 214053,
-      "name": "Make It All Right",
-      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "The Quest for Tanelorn (Revisited)",
-        "url": "https://open.spotify.com/album/7vtUeoxwk5o5zSJ7IudmNY"
-      },
-      "artists": [
-        {
-          "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
-        }
-      ],
-      "duration_ms": 366906,
-      "name": "The Quest for Tanelorn - Revisited",
-      "url": "https://open.spotify.com/track/2mAjUCgk5GowangZMlQJTa"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Plays Metallica, Vol. 2",
-        "url": "https://open.spotify.com/album/5iBW3WJk0JpwNaxsjQxlAI"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "duration_ms": 407450,
-      "name": "Ride the Lightning",
-      "url": "https://open.spotify.com/track/4I7kE1p6koxfNl8alzesJR"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "London Session 1972",
-        "url": "https://open.spotify.com/album/4Ea2mTODEbaxH49mywljHY"
-      },
-      "artists": [
-        {
-          "name": "The Stooges",
-          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
-        }
-      ],
-      "duration_ms": 199854,
-      "name": "Gimme Danger - Early Demo",
-      "url": "https://open.spotify.com/track/2PhmNY1Kr3RgDTFseVX0cj"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Quer\u00eda Saber",
-        "url": "https://open.spotify.com/album/45rGX85ik14xfJT0oPGYme"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 316600,
-      "name": "Tonada para dos poemas de Rub\u00e9n Mart\u00ednez Villena",
-      "url": "https://open.spotify.com/track/7pyLMyetR8knvKifDs19yK"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Finsterwacht",
-        "url": "https://open.spotify.com/album/6VbJXyZrazAAEfaS7uOyH1"
-      },
-      "artists": [
-        {
-          "name": "Saltatio Mortis",
-          "url": "https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw"
-        },
-        {
-          "name": "Peyton Parrish",
-          "url": "https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc"
-        },
-        {
-          "name": "Cristina Scabbia",
-          "url": "https://open.spotify.com/artist/7AEYSYdB4fWxrRWCMtP2qk"
-        },
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 219999,
-      "name": "We Might Be Giants",
-      "url": "https://open.spotify.com/track/6RV8XTQfO7DXRgT0yJmq2U"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 195099,
-      "name": "We Made It Look Easy",
-      "url": "https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Boston Tea Party, Boston 1970",
-        "url": "https://open.spotify.com/album/24TZHrFBS55qRZ8G5SK575"
-      },
-      "artists": [
-        {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
-        }
-      ],
-      "duration_ms": 326718,
-      "name": "Nothing Is Easy - Live",
-      "url": "https://open.spotify.com/track/4vvblEUbUHH1HRN35ZxN8g"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Count Me Out",
-        "url": "https://open.spotify.com/album/1ePPzs2oFi7S0PtgdJidgQ"
-      },
-      "artists": [
-        {
-          "name": "A Skylit Drive",
-          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
-        }
-      ],
-      "duration_ms": 252392,
-      "name": "Count Me Out",
-      "url": "https://open.spotify.com/track/5Obhe5gMI1htOwRupTc5K2"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Wherever You Are",
-        "url": "https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Shaun Farrugia",
-          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
-        }
-      ],
-      "duration_ms": 207992,
-      "name": "Wherever You Are",
-      "url": "https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

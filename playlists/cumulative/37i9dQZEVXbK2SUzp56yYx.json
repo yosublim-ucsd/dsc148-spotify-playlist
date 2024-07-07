@@ -4106,7 +4106,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 86983,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
@@ -4236,7 +4236,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 159230,
       "name": "Not My Problem",
       "url": "https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ"
@@ -5004,7 +5004,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 341104,
       "name": "Sinking",
       "url": "https://open.spotify.com/track/0hfizldOxCUJadOOLDXNHm"
@@ -5044,7 +5044,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 165107,
       "name": "Slide da Treme Mel\u00f3dica v2",
       "url": "https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF"
@@ -5434,7 +5434,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 143046,
       "name": "TELESCOPE",
       "url": "https://open.spotify.com/track/46oDV1H9EdVmnWSivShuH1"
@@ -6180,7 +6180,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 188010,
       "name": "WOKE UP",
       "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
@@ -6304,6 +6304,28 @@
       "duration_ms": 124285,
       "name": "XXX",
       "url": "https://open.spotify.com/track/3QcWzAQvI41KYheHtvsNoT"
+    },
+    {
+      "album": {
+        "name": "Yo Bunny",
+        "url": "https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2"
+      },
+      "artists": [
+        {
+          "name": "prodbycpkshawn",
+          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
+        },
+        {
+          "name": "Ugly Andz.",
+          "url": "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110471,
+      "name": "Yo Bunny",
+      "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"
     },
     {
       "album": {
@@ -6560,6 +6582,24 @@
       "duration_ms": 197368,
       "name": "Zvenit Yanvarskaya Vyuga",
       "url": "https://open.spotify.com/track/5K2aUcoGbQrsdb7T0Rf1C6"
+    },
+    {
+      "album": {
+        "name": "\u0410\u0439\u0434\u0430\u0445\u0430\u0440",
+        "url": "https://open.spotify.com/album/1feyc6BLhc0HGI0ioM9PIQ"
+      },
+      "artists": [
+        {
+          "name": "Irina Kairatovna",
+          "url": "https://open.spotify.com/artist/0AGZvVUGRD63ticvhaXZx1"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "\u0410\u0439\u0434\u0430\u0445\u0430\u0440",
+      "url": "https://open.spotify.com/track/3T5Bg6yis8bTyIk8o1nxjf"
     },
     {
       "album": {
@@ -8096,7 +8136,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 162037,
       "name": "\u041a\u0438\u0441 \u041a\u0438\u0441 \u041a\u0438\u0441",
       "url": "https://open.spotify.com/track/062l4eq0DRJ28ZeobzF0Lz"
@@ -8198,7 +8238,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 130274,
       "name": "\u043a\u043e\u043d\u0447\u0438\u043b",
       "url": "https://open.spotify.com/track/4Q6eUXtjd9sbzP2orZY6x0"

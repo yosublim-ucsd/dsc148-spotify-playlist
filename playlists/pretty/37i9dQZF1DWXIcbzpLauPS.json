@@ -1,6 +1,6 @@
 {
   "description": "Metalcore at its finest. Cover: Knocked Loose",
-  "num_followers": 929428,
+  "num_followers": 929515,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
+        "name": "Burden",
+        "url": "https://open.spotify.com/album/2fs6Z7LmQT1hd81hM8YlZx"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 245947,
+      "name": "Burden",
+      "url": "https://open.spotify.com/track/0W2pvsskj1e50sC2KL9Gge"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
         "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
         "url": "https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 263161,
       "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
       "url": "https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
-        "name": "Burden",
-        "url": "https://open.spotify.com/album/2fs6Z7LmQT1hd81hM8YlZx"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 245947,
-      "name": "Burden",
-      "url": "https://open.spotify.com/track/0W2pvsskj1e50sC2KL9Gge"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Concrete",
-        "url": "https://open.spotify.com/album/6Y0zQ1z2uErJpXItxaYr8K"
-      },
-      "artists": [
-        {
-          "name": "Attack Attack!",
-          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
-        }
-      ],
-      "duration_ms": 198517,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/2grLZw9UmUUwMoyZj9AAY7"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Rise (Redux)",
         "url": "https://open.spotify.com/album/0TtYq1Ni9PBoyxCAkqxuVC"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 194919,
       "name": "Rise (Redux)",
       "url": "https://open.spotify.com/track/069KZZROmbuGFuZ0B0Qc7A"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "Concrete",
+        "url": "https://open.spotify.com/album/6Y0zQ1z2uErJpXItxaYr8K"
+      },
+      "artists": [
+        {
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+        }
+      ],
+      "duration_ms": 198517,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/2grLZw9UmUUwMoyZj9AAY7"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
+        "name": "Hellstar",
+        "url": "https://open.spotify.com/album/1Wf7jVZ6EzQnLTfAfjmhuv"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 192748,
+      "name": "Hellstar",
+      "url": "https://open.spotify.com/track/2zIh2Co85pom5yJ51yvMbO"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
         "name": "The Welcome Party",
         "url": "https://open.spotify.com/album/0TFqOFS9sPHJqmL5cSTQ1X"
       },
@@ -955,18 +971,18 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Hellstar",
-        "url": "https://open.spotify.com/album/1Wf7jVZ6EzQnLTfAfjmhuv"
+        "name": "Afterimage (feat. Ian Kenny, Karnivool)",
+        "url": "https://open.spotify.com/album/5DPtedtBLcjXS2skojck70"
       },
       "artists": [
         {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
         }
       ],
-      "duration_ms": 192748,
-      "name": "Hellstar",
-      "url": "https://open.spotify.com/track/2zIh2Co85pom5yJ51yvMbO"
+      "duration_ms": 254173,
+      "name": "Afterimage (feat. Ian Kenny, Karnivool)",
+      "url": "https://open.spotify.com/track/1MHCrrThxRZaWLNDo7bEjC"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -987,22 +1003,6 @@
       "duration_ms": 210156,
       "name": "Bl\u00fcdGod (feat. Taylor Barber)",
       "url": "https://open.spotify.com/track/73CqRvFzveR4Ckw9lrbG0z"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
-        "name": "Afterimage (feat. Ian Kenny, Karnivool)",
-        "url": "https://open.spotify.com/album/5DPtedtBLcjXS2skojck70"
-      },
-      "artists": [
-        {
-          "name": "Northlane",
-          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
-        }
-      ],
-      "duration_ms": 254173,
-      "name": "Afterimage (feat. Ian Kenny, Karnivool)",
-      "url": "https://open.spotify.com/track/1MHCrrThxRZaWLNDo7bEjC"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Orphan (l\u1d09\u028c\u01ddp \u01dd\u0265\u0287)",
-        "url": "https://open.spotify.com/album/4vCksLpzk75HznbAd2QRBa"
+        "name": "Mourning The Dawn",
+        "url": "https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV"
       },
       "artists": [
         {
-          "name": "In Hearts Wake",
-          "url": "https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N"
+          "name": "NOVELISTS",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
         }
       ],
-      "duration_ms": 221948,
-      "name": "Orphan (l\u1d09\u028c\u01ddp \u01dd\u0265\u0287)",
-      "url": "https://open.spotify.com/track/3TEiRBBPMNu4DKgFfddMb6"
+      "duration_ms": 301371,
+      "name": "Mourning The Dawn",
+      "url": "https://open.spotify.com/track/0AvzlxMd2IEXZEQXNBtQNm"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Mourning The Dawn",
-        "url": "https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV"
+        "name": "Orphan (l\u1d09\u028c\u01ddp \u01dd\u0265\u0287)",
+        "url": "https://open.spotify.com/album/4vCksLpzk75HznbAd2QRBa"
       },
       "artists": [
         {
-          "name": "NOVELISTS",
-          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+          "name": "In Hearts Wake",
+          "url": "https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N"
         }
       ],
-      "duration_ms": 301371,
-      "name": "Mourning The Dawn",
-      "url": "https://open.spotify.com/track/0AvzlxMd2IEXZEQXNBtQNm"
+      "duration_ms": 221948,
+      "name": "Orphan (l\u1d09\u028c\u01ddp \u01dd\u0265\u0287)",
+      "url": "https://open.spotify.com/track/3TEiRBBPMNu4DKgFfddMb6"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "welcome2paradise",
-        "url": "https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 286941,
-      "name": "welcome2paradise",
-      "url": "https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Sleepless",
         "url": "https://open.spotify.com/album/7zc8anigDU6aPd6bAOSppC"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 272659,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/3lSaNqdv9RsJpmI0V4afRQ"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "welcome2paradise",
+        "url": "https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 286941,
+      "name": "welcome2paradise",
+      "url": "https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
+        "name": "Future Proof",
+        "url": "https://open.spotify.com/album/2HOmKYLYnlz7SYVGDe8EUd"
+      },
+      "artists": [
+        {
+          "name": "Many Eyes",
+          "url": "https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "Future Proof",
+      "url": "https://open.spotify.com/track/7bnnhcgeyJwU5zwhwo02s3"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
         "name": "No Place",
         "url": "https://open.spotify.com/album/1yeVyimts1V78yYwxLyyPt"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 226906,
       "name": "No Place",
       "url": "https://open.spotify.com/track/7KtrNVhBwDTyjXmajuy2CM"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
-        "name": "Future Proof",
-        "url": "https://open.spotify.com/album/2HOmKYLYnlz7SYVGDe8EUd"
-      },
-      "artists": [
-        {
-          "name": "Many Eyes",
-          "url": "https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "Future Proof",
-      "url": "https://open.spotify.com/track/7bnnhcgeyJwU5zwhwo02s3"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Wash It Away",
-        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
-      },
-      "artists": [
-        {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
-        }
-      ],
-      "duration_ms": 214710,
-      "name": "Wash It Away",
-      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Modern Error",
         "url": "https://open.spotify.com/album/1spLAp5HnKomU3UgbsgYz8"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 269786,
       "name": "Modern Error",
       "url": "https://open.spotify.com/track/3VHTWAPeU9RNnCCCeJRipL"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "Wash It Away",
+        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
+      },
+      "artists": [
+        {
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+        }
+      ],
+      "duration_ms": 214710,
+      "name": "Wash It Away",
+      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
     },
     {
       "added_at": "2024-06-10 14:54:42",

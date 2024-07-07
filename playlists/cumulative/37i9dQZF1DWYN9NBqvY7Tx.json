@@ -1664,7 +1664,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 203999,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/5NFCZQEma4ll0SD00lS6FQ"
@@ -4292,7 +4292,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 214560,
       "name": "Hear you calling",
       "url": "https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW"
@@ -6382,6 +6382,32 @@
       "duration_ms": 146709,
       "name": "LUV U NEED U",
       "url": "https://open.spotify.com/track/3YVj9LLq5GMvBvoKubnUp0"
+    },
+    {
+      "album": {
+        "name": "Mad Ting",
+        "url": "https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194685,
+      "name": "Mad Ting",
+      "url": "https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9"
     },
     {
       "album": {
@@ -11906,6 +11932,36 @@
       "duration_ms": 210000,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/2TBDYRGQjmnOFc52J9hPwy"
+    },
+    {
+      "album": {
+        "name": "ZENLESS",
+        "url": "https://open.spotify.com/album/5ItApQpFnG9fDaZpUgbYzu"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        },
+        {
+          "name": "S\u0101n-Z",
+          "url": "https://open.spotify.com/artist/4Ep9NXSZDTJzz6BIv24p5x"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144374,
+      "name": "ZENLESS",
+      "url": "https://open.spotify.com/track/2GW2qcpzaRrErv4Nd8NSCH"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYN9NBqvY7Tx"

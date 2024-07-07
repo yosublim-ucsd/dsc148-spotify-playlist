@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "Box Fan Air Therapy",
+        "url": "https://open.spotify.com/album/0F5HdDf0vRYKiMZOxS1zCT"
+      },
+      "artists": [
+        {
+          "name": "Emotional Support Fan",
+          "url": "https://open.spotify.com/artist/6MmL3GAvpQHHIKryoi4eIf"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Bedroom Sound Waves (Box Fan Noise)",
+      "url": "https://open.spotify.com/track/2sXc3ERuGZdvUbgFb8YFBS"
+    },
+    {
+      "album": {
         "name": "Best White Noise - Loopable",
         "url": "https://open.spotify.com/album/2JOO0Ta5UPolcWfxVkN4np"
       },
@@ -3000,7 +3018,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 196000,
       "name": "Nodyssey Box Fan",
       "url": "https://open.spotify.com/track/1wT3L7MmjJ3oVKMggs9FDC"

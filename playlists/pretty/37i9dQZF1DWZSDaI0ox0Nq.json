@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 19199,
+  "num_followers": 19204,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,38 @@
     {
       "added_at": "2024-05-17 14:18:57",
       "album": {
+        "name": "Tangos Inmortales de Libertad Lamarque (Remastered)",
+        "url": "https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR"
+      },
+      "artists": [
+        {
+          "name": "Libertad Lamarque",
+          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
+        }
+      ],
+      "duration_ms": 156155,
+      "name": "El d\u00eda que me quieras - Remastered",
+      "url": "https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ"
+    },
+    {
+      "added_at": "2024-05-17 14:18:57",
+      "album": {
+        "name": "Tangos Famosos Cantados",
+        "url": "https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "Sur",
+      "url": "https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3"
+    },
+    {
+      "added_at": "2024-05-17 14:18:57",
+      "album": {
         "name": "Marioneta",
         "url": "https://open.spotify.com/album/1PLdRsYPzD1sttkZmst1Dz"
       },
@@ -935,22 +967,6 @@
     {
       "added_at": "2024-05-17 14:18:57",
       "album": {
-        "name": "Tangos Famosos Cantados",
-        "url": "https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "Sur",
-      "url": "https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3"
-    },
-    {
-      "added_at": "2024-05-17 14:18:57",
-      "album": {
         "name": "Iluminame, por Favor",
         "url": "https://open.spotify.com/album/5Gx8hAOqxeUOpk4gfbHdrs"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 221633,
       "name": "Iluminame, por Favor",
       "url": "https://open.spotify.com/track/4yrVod77eUOgvpBkLwHIgn"
-    },
-    {
-      "added_at": "2024-05-17 14:18:57",
-      "album": {
-        "name": "Tangos Inmortales de Libertad Lamarque (Remastered)",
-        "url": "https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR"
-      },
-      "artists": [
-        {
-          "name": "Libertad Lamarque",
-          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
-        }
-      ],
-      "duration_ms": 156155,
-      "name": "El d\u00eda que me quieras - Remastered",
-      "url": "https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ"
     },
     {
       "added_at": "2024-05-17 14:18:57",

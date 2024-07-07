@@ -415,6 +415,24 @@
     },
     {
       "album": {
+        "name": "4TO 23",
+        "url": "https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168320,
+      "name": "4TO 23",
+      "url": "https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI"
+    },
+    {
+      "album": {
         "name": "FERXXOCALIPSIS",
         "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
       },
@@ -1214,7 +1232,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 190004,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH"
@@ -5388,7 +5406,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 197383,
       "name": "DESATAAA",
       "url": "https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe"
@@ -16820,6 +16838,24 @@
       "duration_ms": 209712,
       "name": "Porfa no te vayas",
       "url": "https://open.spotify.com/track/4J2HLNTxiVxxs6kWgTIN43"
+    },
+    {
+      "album": {
+        "name": "La Potra Salvaje",
+        "url": "https://open.spotify.com/album/1eEiGvO7DLAkBem15h0ZQl"
+      },
+      "artists": [
+        {
+          "name": "Isabel Aai\u00fan",
+          "url": "https://open.spotify.com/artist/5qSwpcWU98AJITpF4USeC3"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199624,
+      "name": "Potra Salvaje",
+      "url": "https://open.spotify.com/track/7ulBZOeFHaCeN2ubZxHxsg"
     },
     {
       "album": {

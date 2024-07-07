@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: Park Je Up\(박재업\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: Sojung\(이소정\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,253 songs - 3 day 9 hr 9 min
+1,255 songs - 3 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [All I Remembered](https://open.spotify.com/track/7BE0hb9SS4XhALyqlyQfna) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [All I Remembered](https://open.spotify.com/album/5XzJdQT3RQ3n8xGZpk2mR1) | 4:03 | 2023-01-20 | 2023-02-25 |
 | [All My Love \- Korean Ver.](https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [All My Love](https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat) | 3:23 | 2021-12-23 | 2022-05-08 |
 | [all of my life](https://open.spotify.com/track/3XEjswcSomkIsgbuNunFmQ) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [0M](https://open.spotify.com/album/5JVasjdqzDNdTzBH7MimSW) | 4:09 | 2023-05-05 | 2023-05-16 |
+| [all of my love](https://open.spotify.com/track/3pBoyr1390kBV2MVcn5YZu) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [all of my love](https://open.spotify.com/album/6oqH6fAMJS0ZIYANDWcCf4) | 3:37 | 2024-07-06 |  |
 | [Alley \(with SUNG SI KYUNG\)](https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Alley](https://open.spotify.com/album/1klgaObg00RhXIsKmVysk4) | 4:45 | 2023-12-13 | 2024-05-18 |
 | [Aloha](https://open.spotify.com/track/6TitBrzYhD1mTxqXADFo7v) | [CHO JUNG SEOK](https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/0xXh2BdSfwmNk3JjwuuaqG) | 4:04 | 2021-12-20 | 2022-07-06 |
 | [Alone](https://open.spotify.com/track/6MY5Fg2ST4H30UziyT4mw8) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Again my life, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5hU1uvCRoM8R0dOzXgkLdq) | 3:24 | 2022-07-07 | 2022-07-27 |
@@ -98,6 +99,7 @@
 | [Bad Love](https://open.spotify.com/track/3pQZ4fLxNgHLRdb7YAccHt) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Bad Love](https://open.spotify.com/album/5iG7oplAbHnwQ4JUvc52vX) | 4:07 | 2022-10-14 | 2023-01-21 |
 | [Ballad, Ryeoyo\_KANG MINKYUNG](https://open.spotify.com/track/03XJBAAuyXh10dBgA3E4Au) | [KANG MINKYUNG](https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4) | [Ballad, Ryeoyo\_KANG MINKYUNG](https://open.spotify.com/album/6S3GFmLtbCNKpAj7ERn3QM) | 0:03 | 2022-09-29 |  |
 | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/track/6idTWd3WzBZlslTMmElNLz) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/album/4x2si1Gvye6X3Jxhqy963K) | 0:05 | 2022-10-27 |  |
+| [Barely had a drink](https://open.spotify.com/track/4cTLRCZpY6ZxwTBetjl2Qe) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Barely had a drink](https://open.spotify.com/album/7FqORWQLYm9P5pCCbFPrvX) | 3:21 | 2024-07-06 |  |
 | [Be forgotten](https://open.spotify.com/track/3mXe1JuZVTmmJ7mZQrwvvc) | [Navi](https://open.spotify.com/artist/1snFqLpoCORfbKnafugg3v) | [Be forgotten](https://open.spotify.com/album/6DpqBvM1vhIT0Ttqrqbl0k) | 3:40 | 2023-10-20 | 2023-12-30 |
 | [Be there](https://open.spotify.com/track/0uSO0DaUix5IbVAYKG31Bz) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [The Secret Romantic Guesthouse Part.7](https://open.spotify.com/album/2DH1P6vmUri5tABIbRrYAt) | 3:46 | 2023-05-03 | 2023-09-15 |
 | [Beast](https://open.spotify.com/track/7JKQa9Nq8tK0Ug6JK7kk6c) | [Kim Pil Sun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih) | [Beast](https://open.spotify.com/album/07ZDkIgrj5kNFOBIG5q3qK) | 4:00 | 2023-06-13 | 2023-09-19 |
@@ -1087,7 +1089,7 @@
 | [Untitled](https://open.spotify.com/track/7qoNik0g1HwjxPlIXkXoAD) | [DOHU](https://open.spotify.com/artist/2R1wgdbaWY2KJG9xLWJ2Vh) | [Untitled](https://open.spotify.com/album/2sgztJsIjPUwd6qWA5qw3E) | 3:22 | 2022-11-03 | 2023-01-21 |
 | [Voyage](https://open.spotify.com/track/3NAHK3gLOVmkOVoSmMJvOu) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [CASTAWAY DIVA OST Part.8](https://open.spotify.com/album/5nV389t1fA2IIlIxflp4EK) | 4:14 | 2023-11-22 | 2024-05-18 |
 | [Wait Me There](https://open.spotify.com/track/5aLq4wQj4KVEV0ONrTBI3y) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Wait Me There](https://open.spotify.com/album/5hB70srgiVgRWldQLXgTkO) | 3:42 | 2024-04-19 |  |
-| [Waiting \(20th Anniversary Edition\)](https://open.spotify.com/track/33uA9i4mmbHbaFZ3i8GgxS) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 20th Anniversary Digital Single 'Waiting'](https://open.spotify.com/album/3znNdjJYbYwU54zlvXbs0n) | 4:46 | 2024-01-08 | 2024-06-12 |
+| [Waiting \(20th Anniversary Edition\)](https://open.spotify.com/track/33uA9i4mmbHbaFZ3i8GgxS) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 20th Anniversary Digital Single 'Waiting'](https://open.spotify.com/album/3znNdjJYbYwU54zlvXbs0n) | 4:46 | 2024-01-08 |  |
 | [Waiting all day](https://open.spotify.com/track/0LaQ4W4RqpdUn7WQxsT5ys) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [Waiting all day](https://open.spotify.com/album/3xSW8rCfLopuPonyzj9RgJ) | 4:40 | 2023-10-11 | 2024-02-16 |
 | [Waiting for Spring](https://open.spotify.com/track/2V19urBSfuZu7k8THUpFa3) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [bimil:ier vol.2 "Waiting for Spring"](https://open.spotify.com/album/160i9qiaCyfd8l5YzjYMIY) | 3:21 | 2022-01-14 | 2022-06-11 |
 | [Waiting Fou You](https://open.spotify.com/track/1TWjbxRYeG0BF6TL8rVpAT) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Waiting Fou You \(CURTAIN CALL OST Part.1\)](https://open.spotify.com/album/3XwhlL7dKkT3PaTBlqLRZf) | 4:06 | 2022-11-01 | 2022-12-28 |

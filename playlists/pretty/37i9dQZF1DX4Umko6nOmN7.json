@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 619887,
+  "num_followers": 619907,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,38 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 166676,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Utan dina andetag - Spotify Singles",
+        "url": "https://open.spotify.com/album/3x3NE0VAzGPbsPuqqVQhmI"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 204913,
+      "name": "Utan dina andetag - Spotify Singles",
+      "url": "https://open.spotify.com/track/4bLVAX1N6G8e3Lpq7rwIFm"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -151,38 +183,6 @@
       "duration_ms": 131949,
       "name": "BLACKBIIRD",
       "url": "https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Utan dina andetag - Spotify Singles",
-        "url": "https://open.spotify.com/album/3x3NE0VAzGPbsPuqqVQhmI"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 204913,
-      "name": "Utan dina andetag - Spotify Singles",
-      "url": "https://open.spotify.com/track/4bLVAX1N6G8e3Lpq7rwIFm"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 166676,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -411,8 +411,8 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Goodbye to the Valley Low (Side A)",
-        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+        "name": "Bones Shake",
+        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 181130,
-      "name": "Stolen Seasons",
-      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
+      "duration_ms": 226011,
+      "name": "Bones Shake",
+      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -575,8 +575,8 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Bones Shake",
-        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
+        "name": "Goodbye to the Valley Low (Side A)",
+        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 226011,
-      "name": "Bones Shake",
-      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
+      "duration_ms": 181130,
+      "name": "Stolen Seasons",
+      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -623,18 +623,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "The Best Is Yet to Come",
-        "url": "https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS"
+        "name": "Misstro",
+        "url": "https://open.spotify.com/album/12jaj0y3yxdY5SFzE2OLjl"
       },
       "artists": [
         {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        },
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
         }
       ],
-      "duration_ms": 166874,
-      "name": "The Best Is Yet to Come",
-      "url": "https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR"
+      "duration_ms": 170162,
+      "name": "Misstro",
+      "url": "https://open.spotify.com/track/1jJyGz6YQ4DxpuJOLtMpzd"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -655,22 +659,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Misstro",
-        "url": "https://open.spotify.com/album/12jaj0y3yxdY5SFzE2OLjl"
+        "name": "The Best Is Yet to Come",
+        "url": "https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS"
       },
       "artists": [
         {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        },
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
         }
       ],
-      "duration_ms": 170162,
-      "name": "Misstro",
-      "url": "https://open.spotify.com/track/1jJyGz6YQ4DxpuJOLtMpzd"
+      "duration_ms": 166874,
+      "name": "The Best Is Yet to Come",
+      "url": "https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Feeling Good (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 239299,
-      "name": "Feeling Good - triple j Like A Version",
-      "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Tid & Tro",
         "url": "https://open.spotify.com/album/3OLi7nPMD2hZK4zAEzZ2Ic"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "let go of me slowly",
-        "url": "https://open.spotify.com/album/4lbmpXfOb9FxBMxap9AQ0T"
+        "name": "Feeling Good (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
       },
       "artists": [
         {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 207348,
-      "name": "let go of me slowly",
-      "url": "https://open.spotify.com/track/5X0QI12MERu54ghfLYF76f"
+      "duration_ms": 239299,
+      "name": "Feeling Good - triple j Like A Version",
+      "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -879,6 +863,22 @@
       "duration_ms": 186449,
       "name": "Genom Eld & Vatten - Spotify Singles",
       "url": "https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "let go of me slowly",
+        "url": "https://open.spotify.com/album/4lbmpXfOb9FxBMxap9AQ0T"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 207348,
+      "name": "let go of me slowly",
+      "url": "https://open.spotify.com/track/5X0QI12MERu54ghfLYF76f"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 192130,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Awful Liar",
         "url": "https://open.spotify.com/album/1hormOqpdmUva6N31RPeDg"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 182491,
       "name": "Awful Liar",
       "url": "https://open.spotify.com/track/4UXJYpHAyh1Y7tXvhKWyc2"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 192130,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "day i die",
-        "url": "https://open.spotify.com/album/7mv2k44vhKlpDu8uv3j8YO"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 175600,
-      "name": "day i die",
-      "url": "https://open.spotify.com/track/1UhDG1nEctrXaCJR85p0iF"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "80's",
         "url": "https://open.spotify.com/album/6FPJRjSJpm6dDcgKOS0dOV"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 210500,
       "name": "80's",
       "url": "https://open.spotify.com/track/2cGlzTR9gC93lc12cZ8afB"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "day i die",
+        "url": "https://open.spotify.com/album/7mv2k44vhKlpDu8uv3j8YO"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 175600,
+      "name": "day i die",
+      "url": "https://open.spotify.com/track/1UhDG1nEctrXaCJR85p0iF"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Hard To Be Human",
-        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 170414,
-      "name": "Hard To Be Human",
-      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
         "url": "https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl"
       },
@@ -1183,22 +1167,34 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Cult to A Saint",
-        "url": "https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf"
+        "name": "Hard To Be Human",
+        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
       },
       "artists": [
         {
-          "name": "Rhys",
-          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
-        },
-        {
-          "name": "AKA lisa",
-          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
         }
       ],
-      "duration_ms": 218400,
-      "name": "Cult to A Saint",
-      "url": "https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy"
+      "duration_ms": 170414,
+      "name": "Hard To Be Human",
+      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "We Were in Love",
+        "url": "https://open.spotify.com/album/7hzMAGNOGBoQHuv8IJKmN6"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 159226,
+      "name": "We Were in Love",
+      "url": "https://open.spotify.com/track/4SMtpUBSxWUHshY4KTs2ck"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1219,18 +1215,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "We Were in Love",
-        "url": "https://open.spotify.com/album/7hzMAGNOGBoQHuv8IJKmN6"
+        "name": "Cult to A Saint",
+        "url": "https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf"
       },
       "artists": [
         {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+          "name": "Rhys",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        },
+        {
+          "name": "AKA lisa",
+          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
         }
       ],
-      "duration_ms": 159226,
-      "name": "We Were in Love",
-      "url": "https://open.spotify.com/track/4SMtpUBSxWUHshY4KTs2ck"
+      "duration_ms": 218400,
+      "name": "Cult to A Saint",
+      "url": "https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Parents",
-        "url": "https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 126175,
-      "name": "Parents",
-      "url": "https://open.spotify.com/track/5QCBY9fU0gViLSVkZaJnTk"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Superlativ 97",
         "url": "https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "dina armar",
-        "url": "https://open.spotify.com/album/6ICpgNNwn9bPnZQYwzIUaV"
+        "name": "Parents",
+        "url": "https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0"
       },
       "artists": [
         {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
         }
       ],
-      "duration_ms": 196830,
-      "name": "dina armar",
-      "url": "https://open.spotify.com/track/3tfqBXCA2HlQ5GldoqrWUc"
+      "duration_ms": 126175,
+      "name": "Parents",
+      "url": "https://open.spotify.com/track/5QCBY9fU0gViLSVkZaJnTk"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1327,6 +1311,22 @@
       "duration_ms": 181000,
       "name": "f\u00f6r oss",
       "url": "https://open.spotify.com/track/1sxW6Pauxd9qCXrXOli0Xu"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "dina armar",
+        "url": "https://open.spotify.com/album/6ICpgNNwn9bPnZQYwzIUaV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 196830,
+      "name": "dina armar",
+      "url": "https://open.spotify.com/track/3tfqBXCA2HlQ5GldoqrWUc"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Stj\u00e4rnorna inatt",
-        "url": "https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO"
-      },
-      "artists": [
-        {
-          "name": "Lilla London",
-          "url": "https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "Stj\u00e4rnorna inatt",
-      "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Heaven (Acoustic)",
         "url": "https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 160019,
       "name": "Answer Phone",
       "url": "https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Stj\u00e4rnorna inatt",
+        "url": "https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO"
+      },
+      "artists": [
+        {
+          "name": "Lilla London",
+          "url": "https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD"
+        }
+      ],
+      "duration_ms": 207160,
+      "name": "Stj\u00e4rnorna inatt",
+      "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1587,38 +1587,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Ellen Krauss \u2013 Acoustic Versions",
-        "url": "https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 168874,
-      "name": "Inatt (Inget Stoppar Oss Nu) - Live in Church",
-      "url": "https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 167099,
-      "name": "Hard to Love",
-      "url": "https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Live from Spotify Studios",
         "url": "https://open.spotify.com/album/2jTuIdO2IX2TlMyt1dyZxh"
       },
@@ -1631,6 +1599,22 @@
       "duration_ms": 176055,
       "name": "You Could Start A Cult - Live from Spotify Studios",
       "url": "https://open.spotify.com/track/2fWqTX6zcIHCfhJjLA5pxR"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Ellen Krauss \u2013 Acoustic Versions",
+        "url": "https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 168874,
+      "name": "Inatt (Inget Stoppar Oss Nu) - Live in Church",
+      "url": "https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1651,18 +1635,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU"
       },
       "artists": [
         {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
+      "duration_ms": 167099,
+      "name": "Hard to Love",
+      "url": "https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1679,6 +1663,22 @@
       "duration_ms": 138000,
       "name": "Mellanrum",
       "url": "https://open.spotify.com/track/0oNtjyHqfsBx6XiK1CucD1"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
     }
   ],
   "unique_name": "Lugnt & Sk\u00f6nt",

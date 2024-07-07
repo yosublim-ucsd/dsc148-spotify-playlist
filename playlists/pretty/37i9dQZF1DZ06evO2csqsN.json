@@ -1,12 +1,12 @@
 {
-  "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 28872,
+  "description": "This is Latto. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 28897,
   "original_name": "This Is Latto",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
-  "snapshot_id": "ZoXmAAAAAACg1kCepFMOz2i57pBv+F7H",
+  "snapshot_id": "Zoc3gAAAAADhqeH5GfSmPgyePjpi8nhN",
   "tracks": [
     {
       "added_at": null,
@@ -911,6 +911,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Freaky As Me",
+        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 129662,
+      "name": "Freaky As Me (feat. latto)",
+      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who is Nardo Wick?? (Deluxe)",
         "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
       },
@@ -955,6 +975,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mad Huh!",
+        "url": "https://open.spotify.com/album/2rWER0lIjkJUpbsXvk503k"
+      },
+      "artists": [
+        {
+          "name": "Lyrikile Trife",
+          "url": "https://open.spotify.com/artist/5wkTjLCJjwAxMdwmUhMcqu"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 178350,
+      "name": "Mad Huh!",
+      "url": "https://open.spotify.com/track/77wkplIxuDJ7EJwF5HvLOB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Champagne Shit (feat. Latto & Quavo) [Remix]",
         "url": "https://open.spotify.com/album/0zMgVaXm1Zs34DSjr2kFOM"
       },
@@ -975,26 +1015,6 @@
       "duration_ms": 177600,
       "name": "Champagne Shit (feat. Latto & Quavo) - Remix",
       "url": "https://open.spotify.com/track/4WS26ImdBwGa04bNrh17RO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Grinch Freestyle (feat. Latto)",
-        "url": "https://open.spotify.com/album/0KhgQpucTFLcuiIWxdGLS1"
-      },
-      "artists": [
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 146673,
-      "name": "The Grinch Freestyle (feat. Latto)",
-      "url": "https://open.spotify.com/track/2ZV5AvOBqnNjGa5pgLmSOl"
     },
     {
       "added_at": null,
@@ -1023,6 +1043,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Grinch Freestyle (feat. Latto)",
+        "url": "https://open.spotify.com/album/0KhgQpucTFLcuiIWxdGLS1"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 146673,
+      "name": "The Grinch Freestyle (feat. Latto)",
+      "url": "https://open.spotify.com/track/2ZV5AvOBqnNjGa5pgLmSOl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Help Me God!",
+        "url": "https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 190378,
+      "name": "Quarantine Thick (feat. Latto)",
+      "url": "https://open.spotify.com/track/4JfCA7yaiEORC7NcKBS9nk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
       },
@@ -1039,66 +1099,6 @@
       "duration_ms": 172137,
       "name": "Like A Thug (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/363CJiT1VE431JUGLdJEEc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Down (feat. Latto)",
-        "url": "https://open.spotify.com/album/4fN30wOcfdGOYY1BYDqUHD"
-      },
-      "artists": [
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "Down (feat. Latto)",
-      "url": "https://open.spotify.com/track/3tLhjMOfbdRGQNudmIABp4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Queen of Da Souf",
-        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "In n Out (feat. City Girls)",
-      "url": "https://open.spotify.com/track/0OHjjudOY8MZ5AxfrzYJMH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mad Huh!",
-        "url": "https://open.spotify.com/album/2rWER0lIjkJUpbsXvk503k"
-      },
-      "artists": [
-        {
-          "name": "Lyrikile Trife",
-          "url": "https://open.spotify.com/artist/5wkTjLCJjwAxMdwmUhMcqu"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 178350,
-      "name": "Mad Huh!",
-      "url": "https://open.spotify.com/track/77wkplIxuDJ7EJwF5HvLOB"
     }
   ],
   "unique_name": "This Is Latto",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "This is Lou Rawls. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
   "name": "This Is Lou Rawls",
   "tracks": [
     {
@@ -314,7 +314,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 178240,
       "name": "Blues Is A Woman",
       "url": "https://open.spotify.com/track/144kj4S4IGdWjcHjb1PyWL"
@@ -972,7 +972,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 134426,
       "name": "Love Is A Hurtin' Thing",
       "url": "https://open.spotify.com/track/6vR08FrdLqK0hiC2Y75s4O"
@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 222960,
       "name": "Save the Bones for Henry Jones",
       "url": "https://open.spotify.com/track/5ZFb67RDwZFyOIfkkpdQvq"
@@ -1250,7 +1250,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 178626,
       "name": "Scotch & Soda",
       "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"

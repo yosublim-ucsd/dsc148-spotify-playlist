@@ -1,6 +1,6 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 118699,
+  "num_followers": 118749,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
+        "name": "DJ Joe presenta: A Mover...",
+        "url": "https://open.spotify.com/album/7aDgk10Avhs1oDFrcwz5u6"
+      },
+      "artists": [
+        {
+          "name": "Dj Gian",
+          "url": "https://open.spotify.com/artist/48cHGnpVsYp8ClqE3ItUQw"
+        }
+      ],
+      "duration_ms": 194360,
+      "name": "Callate",
+      "url": "https://open.spotify.com/track/2SW5bQHFVRHvzdHGk7b23S"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
         "name": "A Mover el Culo Con el Chombo",
         "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 190693,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/4NQg9QGJbJFRW7HjAsYu0z"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
-        "name": "DJ Joe presenta: A Mover...",
-        "url": "https://open.spotify.com/album/7aDgk10Avhs1oDFrcwz5u6"
-      },
-      "artists": [
-        {
-          "name": "Dj Gian",
-          "url": "https://open.spotify.com/artist/48cHGnpVsYp8ClqE3ItUQw"
-        }
-      ],
-      "duration_ms": 194360,
-      "name": "Callate",
-      "url": "https://open.spotify.com/track/2SW5bQHFVRHvzdHGk7b23S"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "A Mover el Culo Con el Chombo",
-        "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
+        "name": "Sandunguero II",
+        "url": "https://open.spotify.com/album/2pbDCeVQAIJuST1TGCbSET"
       },
       "artists": [
         {
-          "name": "El Chombo",
-          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
-        },
-        {
-          "name": "Jimmy Bad Boy",
-          "url": "https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r"
+          "name": "Alberto Stylee",
+          "url": "https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU"
         }
       ],
-      "duration_ms": 190589,
-      "name": "Luna y Estrellas",
-      "url": "https://open.spotify.com/track/2srDyKCj9JJ0Iwvwdl8xj8"
+      "duration_ms": 149666,
+      "name": "Vamos Alla",
+      "url": "https://open.spotify.com/track/4Ircf7uE0Jd5Zfg18iVUzy"
     }
   ],
   "unique_name": "Reggaeton: El Inicio",

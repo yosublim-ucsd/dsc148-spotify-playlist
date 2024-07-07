@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-357 songs - 19 hr 34 min
+358 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Love Wins](https://open.spotify.com/track/0ozDQvbLFSWTQsfvEBjJ1d) | [Gl0bal](https://open.spotify.com/artist/3nkApPk39ekjlyilodddaV), [Burgess](https://open.spotify.com/artist/2BuTaNuukZvCcfl08XGtt8) | [Love Wins](https://open.spotify.com/album/7tP6A1ocvy1hCsJkKgFM2G) | 2:47 | 2021-11-19 | 2022-01-08 |
 | [Love You More \- QUIX Remix](https://open.spotify.com/track/6lYO41fg1u7mRLoJYrj8nj) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Neon Future IV \(Remixes\)](https://open.spotify.com/album/43DlYlzuSWTVNUwytMqUqK) | 3:09 | 2021-11-19 | 2022-01-08 |
 | [Loving You Kills Me](https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Loving You Kills Me](https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60) | 2:54 | 2021-11-19 | 2023-05-25 |
+| [Mad Ting](https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Mad Ting](https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg) | 3:14 | 2024-07-05 |  |
 | [Madara](https://open.spotify.com/track/5j5AySWYSMSsBD4nmz6z1D) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Madara](https://open.spotify.com/album/17JIU9E1un5GmXxEGBjjEl) | 3:51 | 2023-08-18 | 2023-09-10 |
 | [Mawlee \(feat\. Young Buck & DJ Afterthought\)](https://open.spotify.com/track/0CLaGp0DMEjocSrAtvhcJl) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX) | [Mawlee \(feat\. Young Buck & DJ Afterthought\)](https://open.spotify.com/album/5qMppyyuoB5HQIYJyA82OY) | 2:58 | 2021-11-19 | 2023-12-14 |
 | [Mawlee \(feat\. Young Buck & DJ Afterthought\)](https://open.spotify.com/track/3SXOSV2Me0P88axBxnVMsK) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX) | [AD INFINITUM](https://open.spotify.com/album/1LC4nzKSrMlbsHUOY93lyS) | 2:58 | 2023-12-15 | 2024-04-19 |
@@ -319,7 +320,7 @@
 | [The Feeling](https://open.spotify.com/track/4t9aVhB3mYRqk2H3BgHRS4) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [The Feeling](https://open.spotify.com/album/1DCrOOGezQMRiihNagWB7y) | 2:38 | 2021-11-19 | 2022-01-08 |
 | [The Groove](https://open.spotify.com/track/1Z3mmjXCO6hplvu6l6JVoY) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [The Groove](https://open.spotify.com/album/5n4WMO6ham6yba3yaJWyBS) | 2:17 | 2021-11-19 | 2022-01-08 |
 | [The League](https://open.spotify.com/track/4JuDwe6yzdehl7zKBqHvOf) | [E.P.O](https://open.spotify.com/artist/28UBioJeQg4FMhgBXMyrzp), [Blvkstn](https://open.spotify.com/artist/70hTQzJxZt0JLvFzQVITHe) | [The League](https://open.spotify.com/album/7lJD5WgTUbVNvAGYYMSLMT) | 4:27 | 2021-11-19 | 2022-01-08 |
-| [The Machines](https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [The Machines](https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ) | 3:22 | 2022-09-09 |  |
+| [The Machines](https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [The Machines](https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ) | 3:22 | 2022-09-09 | 2024-07-07 |
 | [THE OG](https://open.spotify.com/track/0pUp5f9v9g8X4JpOw1QCzb) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [THE OG](https://open.spotify.com/album/1U2Y3roDpmjy4UqDmrFThN) | 4:20 | 2021-11-19 | 2022-01-08 |
 | [The Pit](https://open.spotify.com/track/4tjA1bnIrvCt1O4uaC476a) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [The Pit](https://open.spotify.com/album/2ORFeGP84Wx8BlRJmLx7A3) | 2:32 | 2022-06-10 | 2024-04-30 |
 | [THE SHOOTV](https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [THE SHOOTV](https://open.spotify.com/album/1DfkvG8j619HUAmeTAa0fQ) | 3:05 | 2021-11-19 | 2022-01-08 |

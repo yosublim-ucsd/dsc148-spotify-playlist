@@ -1,6 +1,6 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Royel Otis",
-  "num_followers": 292018,
+  "num_followers": 292057,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
@@ -424,22 +424,6 @@
       "added_at": "2024-04-26 04:33:04",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 317106,
-      "name": "A Little Bit of Everything - Spotify Singles",
-      "url": "https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt"
-    },
-    {
-      "added_at": "2024-04-26 04:33:04",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
       },
       "artists": [
@@ -451,6 +435,22 @@
       "duration_ms": 309359,
       "name": "re: Stacks - Spotify Singles",
       "url": "https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ"
+    },
+    {
+      "added_at": "2024-04-26 04:33:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 317106,
+      "name": "A Little Bit of Everything - Spotify Singles",
+      "url": "https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt"
     },
     {
       "added_at": "2024-04-26 04:33:04",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-04-26 04:33:04",
       "album": {
-        "name": "Our Generation - Spotify Singles",
-        "url": "https://open.spotify.com/album/3aVpww6hYzU8sHdkSeO0Bw"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 162641,
-      "name": "The Perfect Pair - Spotify Singles",
-      "url": "https://open.spotify.com/track/3VlDt2YVRn91CJXc89AQEx"
-    },
-    {
-      "added_at": "2024-04-26 04:33:04",
-      "album": {
         "name": "In My Life",
         "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 176320,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+    },
+    {
+      "added_at": "2024-04-26 04:33:04",
+      "album": {
+        "name": "Our Generation - Spotify Singles",
+        "url": "https://open.spotify.com/album/3aVpww6hYzU8sHdkSeO0Bw"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 162641,
+      "name": "The Perfect Pair - Spotify Singles",
+      "url": "https://open.spotify.com/track/3VlDt2YVRn91CJXc89AQEx"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/1fC0O9vW5aDc3Oo5OqBCmL"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Once in a Lifetime",
-        "url": "https://open.spotify.com/album/1VbH8tiDjMmSwELNSowMif"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        }
-      ],
-      "duration_ms": 158426,
-      "name": "Once in a Lifetime",
-      "url": "https://open.spotify.com/track/2u7SG14j5vzSwxttBoGO2A"
-    },
-    {
       "added_at": "2024-04-26 04:33:04",
       "album": {
         "name": "Industry Baby",
@@ -699,6 +683,22 @@
       "duration_ms": 231381,
       "name": "Industry Baby",
       "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Once in a Lifetime",
+        "url": "https://open.spotify.com/album/1VbH8tiDjMmSwELNSowMif"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "Once in a Lifetime",
+      "url": "https://open.spotify.com/track/2u7SG14j5vzSwxttBoGO2A"
     },
     {
       "added_at": "2024-04-26 04:33:04",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2024-04-26 04:33:04",
       "album": {
-        "name": "Maps",
-        "url": "https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi"
-      },
-      "artists": [
-        {
-          "name": "Raffaella",
-          "url": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
-        },
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 210136,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj"
-    },
-    {
-      "added_at": "2024-04-26 04:33:04",
-      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/746wjyF8LAeRWH7pBGDO9S"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 193344,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2Dz2D2jwauzoiq7aluMiH9"
+    },
+    {
+      "added_at": "2024-04-26 04:33:04",
+      "album": {
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi"
+      },
+      "artists": [
+        {
+          "name": "Raffaella",
+          "url": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
+        },
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 210136,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj"
     },
     {
       "added_at": "2024-04-26 04:33:04",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-04-26 04:33:04",
       "album": {
-        "name": "Soak Up The Sun",
-        "url": "https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 304413,
-      "name": "Soak Up The Sun",
-      "url": "https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI"
-    },
-    {
-      "added_at": "2024-04-26 04:33:04",
-      "album": {
         "name": "Back To Black",
         "url": "https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 242181,
       "name": "Back To Black",
       "url": "https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP"
+    },
+    {
+      "added_at": "2024-04-26 04:33:04",
+      "album": {
+        "name": "Soak Up The Sun",
+        "url": "https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 304413,
+      "name": "Soak Up The Sun",
+      "url": "https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI"
     },
     {
       "added_at": "2024-04-26 04:33:04",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-04-26 04:33:04",
       "album": {
-        "name": "Teardrop",
-        "url": "https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Teardrop",
-      "url": "https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j"
-    },
-    {
-      "added_at": "2024-04-26 04:33:04",
-      "album": {
         "name": "Gente Corriente",
         "url": "https://open.spotify.com/album/5AnfMJ8UaWOcDm995FN4SZ"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 211695,
       "name": "Gente Corriente",
       "url": "https://open.spotify.com/track/14nR4STG0GeaCLYtlJXjHI"
+    },
+    {
+      "added_at": "2024-04-26 04:33:04",
+      "album": {
+        "name": "Teardrop",
+        "url": "https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j"
     },
     {
       "added_at": "2024-04-26 04:33:04",

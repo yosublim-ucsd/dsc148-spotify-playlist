@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,976 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,038 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 46 | [誤解](https://open.spotify.com/track/6t4SiWWFR5lDakMBkTlwG6) | [加藤有紀](https://open.spotify.com/artist/6dp5zARUDqalwLO3UXNGoB) | [コンプリート・コレクション 謎はと・か・な・い・で](https://open.spotify.com/album/0Z1nCmI0QETsUMCpgVpU2W) | 3:58 |
 | 47 | [雨のケンネル通り](https://open.spotify.com/track/34fPafuMThpNjUuJ3DW8dj) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [GOODIES](https://open.spotify.com/album/60OpUEpnNiPjvMM8ibV3Ur) | 4:34 |
 | 48 | [Summer Beach](https://open.spotify.com/track/3CpI6Cqup7J36JblqaJJaX) | [Yukiko Okada](https://open.spotify.com/artist/5KoAVBi3BfwZfbQxwJab0B) | [All Songs Request](https://open.spotify.com/album/5DxOQ9BccP1QlM1s35f82F) | 4:18 |
-| 49 | [SAY GOODBYE](https://open.spotify.com/track/1sRKxcTDO1nYdoc47L1ZqM) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Awakening](https://open.spotify.com/album/27M0r1SO7DE7f3IgRkwHB7) | 3:26 |
-| 50 | [MIDNIGHT DRIVER](https://open.spotify.com/track/7mi8Ov1tSYL8ZO2zbNKroA) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MONOCHROME](https://open.spotify.com/album/0VtVYCQCmmmTaMytFTTvc0) | 7:44 |
+| 49 | [MIDNIGHT DRIVER](https://open.spotify.com/track/7mi8Ov1tSYL8ZO2zbNKroA) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MONOCHROME](https://open.spotify.com/album/0VtVYCQCmmmTaMytFTTvc0) | 7:44 |
+| 50 | [SAY GOODBYE](https://open.spotify.com/track/1sRKxcTDO1nYdoc47L1ZqM) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Awakening](https://open.spotify.com/album/27M0r1SO7DE7f3IgRkwHB7) | 3:26 |
 
 Snapshot ID: `ZoSCZQAAAAAmi10PylQcY0MCa4GUR74z`

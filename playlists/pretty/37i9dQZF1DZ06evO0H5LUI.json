@@ -1,12 +1,12 @@
 {
-  "description": "This is Leon Leiden. The essential tracks, all in one playlist.",
-  "num_followers": 9940,
+  "description": "This Is Leon Leiden. Los temas esenciales, todos en una lista.",
+  "num_followers": 9943,
   "original_name": "This Is Leon Leiden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAAA15ybcJb5IaoFxxP4XOzSO",
+  "snapshot_id": "Zoc3gAAAAADuOQDLYAAzvzbHtaSHfvBA",
   "tracks": [
     {
       "added_at": null,
@@ -67,26 +67,6 @@
       "duration_ms": 199384,
       "name": "plan v2",
       "url": "https://open.spotify.com/track/6ZDiojHljqoc2nYMZtkfiU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desde Que Te Vi",
-        "url": "https://open.spotify.com/album/6tajRRPxnmdcp24vdnq6Vd"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Desde Que Te Vi",
-      "url": "https://open.spotify.com/track/6JheR1ZMJyEJpFedDY1qme"
     },
     {
       "added_at": null,
@@ -219,18 +199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Chica Como T\u00fa",
-        "url": "https://open.spotify.com/album/7neBiMNxuv7nz6z8v1JB1M"
+        "name": "Contigo Si",
+        "url": "https://open.spotify.com/album/0Iad8zEmBpMtEpU81jMWfX"
       },
       "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
         {
           "name": "Leon Leiden",
           "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
         }
       ],
-      "duration_ms": 167640,
-      "name": "Una Chica Como T\u00fa",
-      "url": "https://open.spotify.com/track/39IgIaGpqk7DQx7EZpmgCJ"
+      "duration_ms": 228040,
+      "name": "Contigo Si",
+      "url": "https://open.spotify.com/track/2oDR6BqgQ9iuQguQL30UEU"
     },
     {
       "added_at": null,
@@ -539,6 +523,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Qu\u00e9 M\u00e1s Da",
+        "url": "https://open.spotify.com/album/3GEkEU52GYJsCPXm4UFpUi"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "David Rees",
+          "url": "https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L"
+        }
+      ],
+      "duration_ms": 195726,
+      "name": "Qu\u00e9 M\u00e1s Da",
+      "url": "https://open.spotify.com/track/14WCJzq5yQhdtDrcGm2WcZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mala Vida",
         "url": "https://open.spotify.com/album/1WybN2EANyfkYsthhI5djM"
       },
@@ -651,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Manzana",
+        "url": "https://open.spotify.com/album/0LozjoHXdTejrX64kaMb70"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 173936,
+      "name": "Manzana",
+      "url": "https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cheve",
         "url": "https://open.spotify.com/album/7kqF1aMgkHnR2t2QcO4RHP"
       },
@@ -667,22 +687,6 @@
       "duration_ms": 174037,
       "name": "Cheve",
       "url": "https://open.spotify.com/track/2djtTuxLQbhu4FcMYYdKOD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Manzana",
-        "url": "https://open.spotify.com/album/0LozjoHXdTejrX64kaMb70"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 173936,
-      "name": "Manzana",
-      "url": "https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz"
     },
     {
       "added_at": null,
@@ -707,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ASMR",
-        "url": "https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 181221,
-      "name": "ASMR",
-      "url": "https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aqu\u00ed Estoy",
         "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
       },
@@ -743,6 +727,26 @@
       "duration_ms": 130061,
       "name": "Ya No Trato",
       "url": "https://open.spotify.com/track/1FL0s1Ot0UNc394edXtR33"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ASMR",
+        "url": "https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 181221,
+      "name": "ASMR",
+      "url": "https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi"
     },
     {
       "added_at": null,
@@ -807,6 +811,26 @@
       "duration_ms": 196000,
       "name": "Vinta$h",
       "url": "https://open.spotify.com/track/56LA9tBBl0oLEjgKJLRKpn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni\u00f1a de Mis Ojos",
+        "url": "https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET"
+      },
+      "artists": [
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 162421,
+      "name": "Ni\u00f1a de Mis Ojos",
+      "url": "https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF"
     },
     {
       "added_at": null,
@@ -924,9 +948,9 @@
           "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
         }
       ],
-      "duration_ms": 128468,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/4zDiVVyYSzr6TGSatj8Ahc"
+      "duration_ms": 130280,
+      "name": "Embassy",
+      "url": "https://open.spotify.com/track/0UFfGjyqll9cg23Kg689rd"
     },
     {
       "added_at": null,
@@ -999,22 +1023,6 @@
       "duration_ms": 141219,
       "name": "Mil Maneras",
       "url": "https://open.spotify.com/track/2MH2Octk42xw891Bilg89D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Morro Que Hace M\u00fasica",
-        "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/51rJeK97OprHwFCGYxtgnX"
     }
   ],
   "unique_name": "This Is Leon Leiden",

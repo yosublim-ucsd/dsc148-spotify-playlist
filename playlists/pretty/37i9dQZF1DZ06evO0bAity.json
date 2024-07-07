@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAABJ/64dBAYL0jnitX9+G5d7",
+  "snapshot_id": "Zoc3gAAAAAC0Sv9NqSoUGMTGdyBVkTer",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MURDER ME (DZ Deathrays Remix)",
-        "url": "https://open.spotify.com/album/2pweLGsYYpzyy56gETkLPl"
+        "name": "Rock Star (triple j Like a Version)",
+        "url": "https://open.spotify.com/album/0sxfvjciRWGiS1y9cNXbA6"
       },
       "artists": [
         {
-          "name": "Blood Red Shoes",
-          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
-        },
-        {
           "name": "DZ Deathrays",
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        },
+        {
+          "name": "Nerve",
+          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
         }
       ],
-      "duration_ms": 245009,
-      "name": "MURDER ME - DZ Deathrays Remix",
-      "url": "https://open.spotify.com/track/7eCn4VV1zyhpoirclsM5zs"
+      "duration_ms": 246716,
+      "name": "Rock Star - triple j Like a Version",
+      "url": "https://open.spotify.com/track/06niWHnh1Rz6IyEoIahi8m"
     },
     {
       "added_at": null,
@@ -243,22 +243,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Star (triple j Like a Version)",
-        "url": "https://open.spotify.com/album/0sxfvjciRWGiS1y9cNXbA6"
+        "name": "MURDER ME (DZ Deathrays Remix)",
+        "url": "https://open.spotify.com/album/2pweLGsYYpzyy56gETkLPl"
       },
       "artists": [
         {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+          "name": "Blood Red Shoes",
+          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
         },
         {
-          "name": "Nerve",
-          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 246716,
-      "name": "Rock Star - triple j Like a Version",
-      "url": "https://open.spotify.com/track/06niWHnh1Rz6IyEoIahi8m"
+      "duration_ms": 245009,
+      "name": "MURDER ME - DZ Deathrays Remix",
+      "url": "https://open.spotify.com/track/7eCn4VV1zyhpoirclsM5zs"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Positive Rising: Part 2",
+        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 66960,
+      "name": "Riff City",
+      "url": "https://open.spotify.com/track/4mB3AR9AMyP2jV8nZjIRV4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Run To Paradise",
         "url": "https://open.spotify.com/album/1gg1EagawFhWLP64wcbqJT"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 194625,
       "name": "Run To Paradise",
       "url": "https://open.spotify.com/track/5Farmm0MaT8hCsOLOZyhHV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Positive Rising: Part 1",
-        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 264600,
-      "name": "Hypercolour",
-      "url": "https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Positive Rising: Part 2",
-        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+        "name": "Positive Rising: Part 1",
+        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 66960,
-      "name": "Riff City",
-      "url": "https://open.spotify.com/track/4mB3AR9AMyP2jV8nZjIRV4"
+      "duration_ms": 264600,
+      "name": "Hypercolour",
+      "url": "https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p"
     },
     {
       "added_at": null,
@@ -659,22 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Positive Rising (Pt. 2/ Deluxe)",
-        "url": "https://open.spotify.com/album/7u1AwMaq12tfVeXuL9LkfU"
+        "name": "Positive Rising: Part 2",
+        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
       },
       "artists": [
         {
           "name": "DZ Deathrays",
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        },
-        {
-          "name": "Ecca Vandal",
-          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
         }
       ],
-      "duration_ms": 114920,
-      "name": "Fear The Anchor",
-      "url": "https://open.spotify.com/track/3XPitvPYDSmoqcehdRkfAr"
+      "duration_ms": 203160,
+      "name": "All Or Nothing",
+      "url": "https://open.spotify.com/track/4NjJkdn01Mf5xGptES9225"
     },
     {
       "added_at": null,
@@ -695,18 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Positive Rising: Part 2",
-        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+        "name": "Positive Rising (Pt. 2/ Deluxe)",
+        "url": "https://open.spotify.com/album/7u1AwMaq12tfVeXuL9LkfU"
       },
       "artists": [
         {
           "name": "DZ Deathrays",
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        },
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
         }
       ],
-      "duration_ms": 203160,
-      "name": "All Or Nothing",
-      "url": "https://open.spotify.com/track/4NjJkdn01Mf5xGptES9225"
+      "duration_ms": 114920,
+      "name": "Fear The Anchor",
+      "url": "https://open.spotify.com/track/3XPitvPYDSmoqcehdRkfAr"
     }
   ],
   "unique_name": "This Is DZ Deathrays",

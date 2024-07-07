@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 383639,
       "name": "euphoria",
       "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
@@ -2417,6 +2417,24 @@
     },
     {
       "album": {
+        "name": "NAN",
+        "url": "https://open.spotify.com/album/1wkQpHtCqwnHzWJ9aNHANu"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115973,
+      "name": "NAN",
+      "url": "https://open.spotify.com/track/0CbXAQ9r0pvnQC9WAbZij4"
+    },
+    {
+      "album": {
         "name": "Pink Friday 2 (Gag City PLUTO Edition)",
         "url": "https://open.spotify.com/album/2lbQSK3qnWtWVYwjZiyvbM"
       },
@@ -3308,7 +3326,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 205287,
       "name": "Shame On The Devil",
       "url": "https://open.spotify.com/track/6nEikEkWTXZ4SiZvUOAqND"
@@ -3374,6 +3392,28 @@
       "duration_ms": 143120,
       "name": "SHUT UP (feat. Big Sean)",
       "url": "https://open.spotify.com/track/3qfvE0wc0N6Rhu8pnW6Tss"
+    },
+    {
+      "album": {
+        "name": "4eva Us Neva Them",
+        "url": "https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182414,
+      "name": "Since When (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/7It1USqre8TEwwsp8SDXks"
     },
     {
       "album": {
@@ -3454,6 +3494,24 @@
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+    },
+    {
+      "album": {
+        "name": "A Great Chaos (Deluxe)",
+        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184375,
+      "name": "ss",
+      "url": "https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq"
     },
     {
       "album": {
@@ -3852,6 +3910,32 @@
       "duration_ms": 132565,
       "name": "To The Bank",
       "url": "https://open.spotify.com/track/3h4HlcmWdexWJ6SSyZG67E"
+    },
+    {
+      "album": {
+        "name": "Tobey (feat. Big Sean and BabyTron)",
+        "url": "https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284892,
+      "name": "Tobey (feat. Big Sean and BabyTron)",
+      "url": "https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW"
     },
     {
       "album": {
@@ -4300,7 +4384,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 157898,
       "name": "Win Wit Us",
       "url": "https://open.spotify.com/track/1oIefhM6QIK2eXdbtiAhbg"

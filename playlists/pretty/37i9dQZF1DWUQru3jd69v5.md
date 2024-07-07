@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Promessa in cover, aggiornata ogni venerdì
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,598 likes - 54 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,587 likes - 54 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 22 | [GIUNGLA DI CEMENTO \(feat\. 22simba\)](https://open.spotify.com/track/77Xu1KCD9Kz9heVicRnbnr) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [GIUNGLA DI CEMENTO \(feat\. 22simba\)](https://open.spotify.com/album/3g92pVmOdauediEhCWLV25) | 2:39 |
 | 23 | [TOGASHI \(SAGA 3\)](https://open.spotify.com/track/0hHUtelwof6u5Aqbuy9P8V) | [Dahel](https://open.spotify.com/artist/0OAu2KNpG20u8DtmJyiACW) | [TOGASHI \(SAGA 3\)](https://open.spotify.com/album/3Y7FfJz9Bf5YSADn7ZqOBK) | 1:31 |
 | 24 | [Mississippi Drive \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/0H3Y78oMfwkjyJe2hDGdB1) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Cultura Italiana Pt.1](https://open.spotify.com/album/5uNUfyRRg7WrbviPwQVrge) | 2:32 |
-| 25 | [BOCCA DELLA VERITÀ](https://open.spotify.com/track/3tTZk8sI7WC853LADC8hZh) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neil](https://open.spotify.com/artist/0j3MbC9QJgv5lhcvF0N5uq) | [BOCCA DELLA VERITÀ](https://open.spotify.com/album/51pHiicssnO5VzkGXsLLx3) | 2:50 |
+| 25 | [BOCCA DELLA VERITÀ](https://open.spotify.com/track/3tTZk8sI7WC853LADC8hZh) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [BOCCA DELLA VERITÀ](https://open.spotify.com/album/51pHiicssnO5VzkGXsLLx3) | 2:50 |
 | 26 | [Mafia e Pasta \(feat\. Sapobully\)](https://open.spotify.com/track/2Hv02zjj4UYxYRKN4eEq94) | [LB GANG](https://open.spotify.com/artist/20m7OA0skSZHQi2nLt29wV), [Beak On The Night](https://open.spotify.com/artist/3nW7Xw52V74rD3XkfTKC56), [Sapobully](https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE) | [Mafia e Pasta \(feat\. Sapobully\)](https://open.spotify.com/album/4TZylDbM3eYmZ2PqGbbqko) | 2:12 |
 | 27 | [Sto Nella Zone](https://open.spotify.com/track/039gY6O0YbDNMdr0gL2y8F) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [Sto Nella Zone](https://open.spotify.com/album/6VbHXyD1eZcvkE9VQgZnDa) | 2:36 |
 | 28 | [AFFIDAMENTO](https://open.spotify.com/track/1cyToyIoI0Nr1iSfQWXtzV) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk), [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [AFFIDAMENTO](https://open.spotify.com/album/7giGjwm5mpuKSr4YLCYWqK) | 2:21 |

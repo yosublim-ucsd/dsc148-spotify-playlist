@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 18220,
+  "num_followers": 18229,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,18 @@
     {
       "added_at": "2024-03-27 05:45:57",
       "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
+        "name": "Queendom - The 6th Mini Album",
+        "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
       },
       "artists": [
         {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        },
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 132746,
-      "name": "I\u2019m bad too (Feat. DPR LIVE)",
-      "url": "https://open.spotify.com/track/4JcfDrtQWE45N1X4MkcbiV"
+      "duration_ms": 200680,
+      "name": "Pose",
+      "url": "https://open.spotify.com/track/6RTF5urAOB5C52nLxeRK5h"
     },
     {
       "added_at": "2024-03-27 05:45:57",
@@ -455,18 +451,22 @@
     {
       "added_at": "2024-03-27 05:45:57",
       "album": {
-        "name": "Queendom - The 6th Mini Album",
-        "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        },
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
         }
       ],
-      "duration_ms": 200680,
-      "name": "Pose",
-      "url": "https://open.spotify.com/track/6RTF5urAOB5C52nLxeRK5h"
+      "duration_ms": 132746,
+      "name": "I\u2019m bad too (Feat. DPR LIVE)",
+      "url": "https://open.spotify.com/track/4JcfDrtQWE45N1X4MkcbiV"
     },
     {
       "added_at": "2024-03-27 05:45:57",

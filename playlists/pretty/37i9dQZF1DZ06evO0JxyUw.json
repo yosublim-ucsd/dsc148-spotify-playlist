@@ -1,13 +1,33 @@
 {
-  "description": "This Is Christina Aguilera. Los temas esenciales, todos en una lista.",
-  "num_followers": 262830,
+  "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
+  "num_followers": 262876,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAAAsSgTgk1Mcd5dAaaAptx2o",
+  "snapshot_id": "Zoc3gAAAAADtPqxNyyv7ZN1xc6AulgAm",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hands All Over (Revised International Standard version)",
+        "url": "https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+      "url": "https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI"
+    },
     {
       "added_at": null,
       "album": {
@@ -287,18 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Reflejo",
-        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+        "name": "Do What U Want",
+        "url": "https://open.spotify.com/album/5R9DO1cXTOaw9p7nd2emkm"
       },
       "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 190240,
-      "name": "Ven Conmigo (Solamente T\u00fa)",
-      "url": "https://open.spotify.com/track/2PYJnUWEPPP8C6b79UiwIl"
+      "duration_ms": 216573,
+      "name": "Do What U Want",
+      "url": "https://open.spotify.com/track/5XKXMWPACPq51OiqzxenZo"
     },
     {
       "added_at": null,
@@ -355,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burlesque Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
       },
       "artists": [
         {
@@ -364,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 179373,
-      "name": "Show Me How You Burlesque - Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/6fq4QyaUskNqES6lJqgYjW"
+      "duration_ms": 190240,
+      "name": "Ven Conmigo (Solamente T\u00fa)",
+      "url": "https://open.spotify.com/track/2PYJnUWEPPP8C6b79UiwIl"
     },
     {
       "added_at": null,
@@ -423,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "Show Me How You Burlesque - Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/6fq4QyaUskNqES6lJqgYjW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lotus (Deluxe Version)",
         "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
       },
@@ -459,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burlesque Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 263826,
-      "name": "Bound To You - Burlesque Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/6FJbvdUSkr1tyXdVZ2UlBR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Reflejo",
         "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
       },
@@ -487,6 +511,22 @@
       "duration_ms": 217426,
       "name": "Genio Atrapado",
       "url": "https://open.spotify.com/track/3ne8ipFCs7RUr2K6QoD6BQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 263826,
+      "name": "Bound To You - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/6FJbvdUSkr1tyXdVZ2UlBR"
     },
     {
       "added_at": null,
@@ -523,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burlesque Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 260040,
-      "name": "Express - Burlesque Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/3e809RytbPZxM8BjbrjlqF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
         "url": "https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW"
       },
@@ -563,6 +587,22 @@
       "duration_ms": 216737,
       "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
       "url": "https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 260040,
+      "name": "Express - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3e809RytbPZxM8BjbrjlqF"
     },
     {
       "added_at": null,
@@ -603,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burlesque Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 120453,
-      "name": "Tough Lover - Burlesque Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/3W3BHalLp288TxkZN1uPRd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lotus (Deluxe Version)",
         "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
       },
@@ -631,6 +655,22 @@
       "duration_ms": 239853,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 120453,
+      "name": "Tough Lover - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3W3BHalLp288TxkZN1uPRd"
     },
     {
       "added_at": null,
@@ -667,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burlesque Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 184773,
-      "name": "Something's Got A Hold On Me - Burlesque Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/0XTThEPWNlMsIagcBFoV9A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor (Edici\u00f3n Especial En Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/66rPH3vtqyVKZobEzphXMA"
       },
@@ -699,6 +723,22 @@
       "duration_ms": 262306,
       "name": "Somos Novios",
       "url": "https://open.spotify.com/track/0U4mdFPED6oviFgWjst8q9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 184773,
+      "name": "Something's Got A Hold On Me - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/0XTThEPWNlMsIagcBFoV9A"
     },
     {
       "added_at": null,
@@ -915,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AGUILERA",
-        "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 173922,
-      "name": "Su\u00e9ltame",
-      "url": "https://open.spotify.com/track/11dM832bBziKUZvI3tCfW5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back To Basics",
         "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
       },
@@ -947,22 +967,6 @@
       "duration_ms": 193160,
       "name": "Save Me from Myself",
       "url": "https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Fuerza",
-        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 228635,
-      "name": "La Reina",
-      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
     }
   ],
   "unique_name": "This Is Christina Aguilera",

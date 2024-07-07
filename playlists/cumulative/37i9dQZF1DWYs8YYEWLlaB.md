@@ -2,7 +2,7 @@
 
 ### [trend 2024](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\. Kapak: Türkiye Milli Takımı 🇹🇷
+> viral, trend ve yükselenler\. Kapak: Bizim Çocuklar 🇹🇷
 
 53 songs - 2 hr 37 min
 

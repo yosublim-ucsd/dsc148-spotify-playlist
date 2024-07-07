@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,081 likes - 44 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,115 likes - 44 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 | 8 | [WEIRDO BEHAVIOR](https://open.spotify.com/track/477fnccvkCrfXQO0dCzpYp) | [DJ Swisha](https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H) | [YUNG OLDHEAD](https://open.spotify.com/album/6Az7nSKYhzsYabd72WqOyd) | 4:22 |
 | 9 | [All My Ladies](https://open.spotify.com/track/3rIrIajLfPH2pom9OLlJwY) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [All My Ladies](https://open.spotify.com/album/1l1zRxLqhq4woSMIwK5VwG) | 1:13 |
 | 10 | [Bad B\*tch](https://open.spotify.com/track/515DlGs3ur3soKeIomMFbL) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Eurostar](https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m) | 1:31 |
-| 11 | [Nasty \- Match My Speed Remix](https://open.spotify.com/track/4LSS6k26ARaVCV8H7lvZdZ) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Match My Freak EP](https://open.spotify.com/album/1tDRvPJmMJhvYXbmVNMAXJ) | 2:06 |
+| 11 | [Nasty \(Match My Speed Remix\)](https://open.spotify.com/track/4LSS6k26ARaVCV8H7lvZdZ) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Match My Freak EP](https://open.spotify.com/album/1tDRvPJmMJhvYXbmVNMAXJ) | 2:06 |
 | 12 | [Heatstroke](https://open.spotify.com/track/6lglSUOuVWd3RSU6F0a63G) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Heatstroke](https://open.spotify.com/album/055nWWshjIRREFP31EooHc) | 2:46 |
 | 13 | [Change Your Mind](https://open.spotify.com/track/66vsd3ks4Y0kfoSV6Upi8h) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [Change Your Mind](https://open.spotify.com/album/6zRzvlanraxksqmhaDjbhP) | 3:07 |
 | 14 | [Hold On \(feat\. Dawn Richard\)](https://open.spotify.com/track/2MlwYYIm8JUNrA5807mdLm) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:16 |

@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Goat Girl",
-  "num_followers": 88784,
+  "num_followers": 88808,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-06-14 13:52:50",
       "album": {
-        "name": "Frogs",
-        "url": "https://open.spotify.com/album/7vANyFbcIVAprU6bilb72I"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 274346,
-      "name": "Frogs",
-      "url": "https://open.spotify.com/track/39irRnySrRADgui9AVTqdx"
-    },
-    {
-      "added_at": "2024-06-14 13:52:50",
-      "album": {
         "name": "Docket (feat. Bully)",
         "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 210493,
       "name": "Docket (feat. Bully)",
       "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
+    },
+    {
+      "added_at": "2024-06-14 13:52:50",
+      "album": {
+        "name": "Frogs",
+        "url": "https://open.spotify.com/album/7vANyFbcIVAprU6bilb72I"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 274346,
+      "name": "Frogs",
+      "url": "https://open.spotify.com/track/39irRnySrRADgui9AVTqdx"
     },
     {
       "added_at": "2024-06-14 13:52:50",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-06-14 13:52:50",
       "album": {
+        "name": "Rumble Strip",
+        "url": "https://open.spotify.com/album/0DCZGmIVHuc7p33ECSayvf"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Rumble Strip",
+      "url": "https://open.spotify.com/track/1FSS2KFXMpXYmfWga8gDxZ"
+    },
+    {
+      "added_at": "2024-06-14 13:52:50",
+      "album": {
         "name": "Dig feat. Rhian Teasdale",
         "url": "https://open.spotify.com/album/3G4A8L6xxq7iGLRts9sTSw"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 167386,
       "name": "Dig feat. Rhian Teasdale",
       "url": "https://open.spotify.com/track/4VE5B2N4TCHvK5ZZ3dSI6c"
-    },
-    {
-      "added_at": "2024-06-14 13:52:50",
-      "album": {
-        "name": "Rumble Strip",
-        "url": "https://open.spotify.com/album/0DCZGmIVHuc7p33ECSayvf"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "Rumble Strip",
-      "url": "https://open.spotify.com/track/1FSS2KFXMpXYmfWga8gDxZ"
     },
     {
       "added_at": "2024-06-14 13:52:50",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-06-14 13:52:50",
       "album": {
-        "name": "You Lucky One",
-        "url": "https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 294851,
-      "name": "You Lucky One",
-      "url": "https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l"
-    },
-    {
-      "added_at": "2024-06-14 13:52:50",
-      "album": {
         "name": "Light Sleeper",
         "url": "https://open.spotify.com/album/4wmalPtenCERnePwFsCD99"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 218312,
       "name": "Release Myself",
       "url": "https://open.spotify.com/track/2KXFFgeqNkSWnOKy0eMAuB"
+    },
+    {
+      "added_at": "2024-06-14 13:52:50",
+      "album": {
+        "name": "You Lucky One",
+        "url": "https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 294851,
+      "name": "You Lucky One",
+      "url": "https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l"
     },
     {
       "added_at": "2024-06-14 13:52:50",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-06-14 13:52:50",
       "album": {
-        "name": "April",
-        "url": "https://open.spotify.com/album/6EMyXFkqDM0jzADSvIIe5V"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "April",
-      "url": "https://open.spotify.com/track/2tOgEHKrbZ2KekBQGIcFZZ"
-    },
-    {
-      "added_at": "2024-06-14 13:52:50",
-      "album": {
         "name": "Reaching Out",
         "url": "https://open.spotify.com/album/0tYyc7yXpSEv4W7FQF0ADO"
       },
@@ -1187,54 +1171,6 @@
       "duration_ms": 255400,
       "name": "Reaching Out",
       "url": "https://open.spotify.com/track/2GSMDvRIBADQEl2DS8XqPs"
-    },
-    {
-      "added_at": "2024-06-14 13:52:50",
-      "album": {
-        "name": "Soul-net",
-        "url": "https://open.spotify.com/album/00kD3E9hxwyMrzHq5EjCiQ"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "Soul-net",
-      "url": "https://open.spotify.com/track/084PPi63VMViMv7qrp2Ipz"
-    },
-    {
-      "added_at": "2024-06-14 13:52:50",
-      "album": {
-        "name": "No Boat No Aeroplane",
-        "url": "https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 312464,
-      "name": "No Boat No Aeroplane",
-      "url": "https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH"
-    },
-    {
-      "added_at": "2024-06-14 13:52:50",
-      "album": {
-        "name": "Eye To The Ear",
-        "url": "https://open.spotify.com/album/55lbT7xxjAaY8nsHv9iuxd"
-      },
-      "artists": [
-        {
-          "name": "Cosmo Sheldrake",
-          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
-        }
-      ],
-      "duration_ms": 208626,
-      "name": "Breathe Round Corners",
-      "url": "https://open.spotify.com/track/4tuiYDefusmJ4W8u5qkAZM"
     },
     {
       "added_at": "2024-06-14 13:52:50",
@@ -1255,18 +1191,66 @@
     {
       "added_at": "2024-06-14 13:52:50",
       "album": {
-        "name": "A Love International",
-        "url": "https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9"
+        "name": "Soul-net",
+        "url": "https://open.spotify.com/album/00kD3E9hxwyMrzHq5EjCiQ"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 255100,
-      "name": "A Love International",
-      "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
+      "duration_ms": 264933,
+      "name": "Soul-net",
+      "url": "https://open.spotify.com/track/084PPi63VMViMv7qrp2Ipz"
+    },
+    {
+      "added_at": "2024-06-14 13:52:50",
+      "album": {
+        "name": "April",
+        "url": "https://open.spotify.com/album/6EMyXFkqDM0jzADSvIIe5V"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "April",
+      "url": "https://open.spotify.com/track/2tOgEHKrbZ2KekBQGIcFZZ"
+    },
+    {
+      "added_at": "2024-06-14 13:52:50",
+      "album": {
+        "name": "Eye To The Ear",
+        "url": "https://open.spotify.com/album/55lbT7xxjAaY8nsHv9iuxd"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Sheldrake",
+          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+        }
+      ],
+      "duration_ms": 208626,
+      "name": "Breathe Round Corners",
+      "url": "https://open.spotify.com/track/4tuiYDefusmJ4W8u5qkAZM"
+    },
+    {
+      "added_at": "2024-06-14 13:52:50",
+      "album": {
+        "name": "No Boat No Aeroplane",
+        "url": "https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 312464,
+      "name": "No Boat No Aeroplane",
+      "url": "https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH"
     },
     {
       "added_at": "2024-06-14 13:52:50",
@@ -1283,6 +1267,22 @@
       "duration_ms": 290632,
       "name": "That Golden Time",
       "url": "https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60"
+    },
+    {
+      "added_at": "2024-06-14 13:52:50",
+      "album": {
+        "name": "A Love International",
+        "url": "https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 255100,
+      "name": "A Love International",
+      "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
     },
     {
       "added_at": "2024-06-14 13:52:50",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-06-14 13:52:50",
       "album": {
-        "name": "La Fusion",
-        "url": "https://open.spotify.com/album/7MIntt4LljUvKFGcZ3Bf66"
-      },
-      "artists": [
-        {
-          "name": "LA Priest",
-          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
-        }
-      ],
-      "duration_ms": 231753,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/4Y1eEB2GFzKFKUiU5AtPYU"
-    },
-    {
-      "added_at": "2024-06-14 13:52:50",
-      "album": {
         "name": "Favourite Songs",
         "url": "https://open.spotify.com/album/32ha5xa9acLnslj6OpYcJ9"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 214776,
       "name": "Favourite Songs",
       "url": "https://open.spotify.com/track/6HRQ8K09zFUODljpu7lhn6"
+    },
+    {
+      "added_at": "2024-06-14 13:52:50",
+      "album": {
+        "name": "La Fusion",
+        "url": "https://open.spotify.com/album/7MIntt4LljUvKFGcZ3Bf66"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        }
+      ],
+      "duration_ms": 231753,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/4Y1eEB2GFzKFKUiU5AtPYU"
     },
     {
       "added_at": "2024-06-14 13:52:50",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-06-14 13:52:50",
       "album": {
-        "name": "Passing Judgment",
-        "url": "https://open.spotify.com/album/4Png2UTnbV4CKSnMSEcRf1"
-      },
-      "artists": [
-        {
-          "name": "Been Stellar",
-          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Passing Judgment",
-      "url": "https://open.spotify.com/track/2br7c0YcCucYv0YhoXExad"
-    },
-    {
-      "added_at": "2024-06-14 13:52:50",
-      "album": {
         "name": "Fugue (Bin Song)",
         "url": "https://open.spotify.com/album/5jQUB8BUJk3LdtLt626xyL"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 322988,
       "name": "Fugue (Bin Song)",
       "url": "https://open.spotify.com/track/3SLy3jHtaGsaGqpGaqtYGc"
+    },
+    {
+      "added_at": "2024-06-14 13:52:50",
+      "album": {
+        "name": "Passing Judgment",
+        "url": "https://open.spotify.com/album/4Png2UTnbV4CKSnMSEcRf1"
+      },
+      "artists": [
+        {
+          "name": "Been Stellar",
+          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Passing Judgment",
+      "url": "https://open.spotify.com/track/2br7c0YcCucYv0YhoXExad"
     },
     {
       "added_at": "2024-06-14 13:52:50",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-06-14 13:52:50",
       "album": {
-        "name": "Something Now",
-        "url": "https://open.spotify.com/album/0ESfeXr4ZLjlrnGlm64ly5"
-      },
-      "artists": [
-        {
-          "name": "Bess Atwell",
-          "url": "https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK"
-        }
-      ],
-      "duration_ms": 187329,
-      "name": "Something Now",
-      "url": "https://open.spotify.com/track/0UoKC8sw1W4RqOOuxqghOO"
-    },
-    {
-      "added_at": "2024-06-14 13:52:50",
-      "album": {
         "name": "POSTINDUSTRIAL HOMETOWN BLUES",
         "url": "https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 177597,
       "name": "BLACK COUNTRY GOTHIC",
       "url": "https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV"
+    },
+    {
+      "added_at": "2024-06-14 13:52:50",
+      "album": {
+        "name": "Something Now",
+        "url": "https://open.spotify.com/album/0ESfeXr4ZLjlrnGlm64ly5"
+      },
+      "artists": [
+        {
+          "name": "Bess Atwell",
+          "url": "https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK"
+        }
+      ],
+      "duration_ms": 187329,
+      "name": "Something Now",
+      "url": "https://open.spotify.com/track/0UoKC8sw1W4RqOOuxqghOO"
     },
     {
       "added_at": "2024-06-14 13:52:50",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-06-14 13:52:50",
       "album": {
-        "name": "Brain Freeze",
-        "url": "https://open.spotify.com/album/6RiDmI2bffYe65lrZutsau"
-      },
-      "artists": [
-        {
-          "name": "Everyone Says Hi",
-          "url": "https://open.spotify.com/artist/4sGoAzUUT1W6GuzLVEbuBa"
-        }
-      ],
-      "duration_ms": 256306,
-      "name": "Brain Freeze",
-      "url": "https://open.spotify.com/track/57E8bTfIbarOcrs95hNYI7"
-    },
-    {
-      "added_at": "2024-06-14 13:52:50",
-      "album": {
         "name": "Tambourine",
         "url": "https://open.spotify.com/album/3HWlAxC2VYpfcmN04wquzp"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 118835,
       "name": "Tambourine",
       "url": "https://open.spotify.com/track/0gOZ3G7IB5asVtRBnQgTSY"
+    },
+    {
+      "added_at": "2024-06-14 13:52:50",
+      "album": {
+        "name": "Brain Freeze",
+        "url": "https://open.spotify.com/album/6RiDmI2bffYe65lrZutsau"
+      },
+      "artists": [
+        {
+          "name": "Everyone Says Hi",
+          "url": "https://open.spotify.com/artist/4sGoAzUUT1W6GuzLVEbuBa"
+        }
+      ],
+      "duration_ms": 256306,
+      "name": "Brain Freeze",
+      "url": "https://open.spotify.com/track/57E8bTfIbarOcrs95hNYI7"
     },
     {
       "added_at": "2024-06-14 13:52:50",

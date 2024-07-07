@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59204,
+  "num_followers": 59205,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "I Just Needed You To Know",
-        "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 275586,
-      "name": "I Just Needed You To Know",
-      "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Maskinen \u00e4r tillbaka",
         "url": "https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 139836,
       "name": "Maskinen \u00e4r tillbaka",
       "url": "https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "I Just Needed You To Know",
+        "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 275586,
+      "name": "I Just Needed You To Know",
+      "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
+        "name": "Dina \u00d6gon \u00c4r Nakna",
+        "url": "https://open.spotify.com/album/36kAfpQDj75JajMG41D1VX"
+      },
+      "artists": [
+        {
+          "name": "Erik Lundin",
+          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
+        }
+      ],
+      "duration_ms": 200346,
+      "name": "Dina \u00d6gon \u00c4r Nakna",
+      "url": "https://open.spotify.com/track/5mqzvZhHp8kFDjUig4kXYt"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 236228,
       "name": "Inget halleluja",
       "url": "https://open.spotify.com/track/4k5DrIPXSfB1nDxjQcAkyV"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
-        "name": "Dina \u00d6gon \u00c4r Nakna",
-        "url": "https://open.spotify.com/album/36kAfpQDj75JajMG41D1VX"
-      },
-      "artists": [
-        {
-          "name": "Erik Lundin",
-          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
-        }
-      ],
-      "duration_ms": 200346,
-      "name": "Dina \u00d6gon \u00c4r Nakna",
-      "url": "https://open.spotify.com/track/5mqzvZhHp8kFDjUig4kXYt"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -759,38 +759,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Babymoma",
-        "url": "https://open.spotify.com/album/4nqeoUwXIwq0mGuUUa4oxv"
-      },
-      "artists": [
-        {
-          "name": "FELIX SANDMAN",
-          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Babymoma",
-      "url": "https://open.spotify.com/track/6G2mLd5ZXnqlOyqSbTl6FP"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
-        "name": "Crying Dove",
-        "url": "https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7"
-      },
-      "artists": [
-        {
-          "name": "Edgar Homeros",
-          "url": "https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg"
-        }
-      ],
-      "duration_ms": 158552,
-      "name": "Upset",
-      "url": "https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Can't Forget",
         "url": "https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF"
       },
@@ -815,6 +783,38 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
+        "name": "Crying Dove",
+        "url": "https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7"
+      },
+      "artists": [
+        {
+          "name": "Edgar Homeros",
+          "url": "https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg"
+        }
+      ],
+      "duration_ms": 158552,
+      "name": "Upset",
+      "url": "https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Babymoma",
+        "url": "https://open.spotify.com/album/4nqeoUwXIwq0mGuUUa4oxv"
+      },
+      "artists": [
+        {
+          "name": "FELIX SANDMAN",
+          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Babymoma",
+      "url": "https://open.spotify.com/track/6G2mLd5ZXnqlOyqSbTl6FP"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
         "name": "Flyttat d\u00e4rifr\u00e5n",
         "url": "https://open.spotify.com/album/5PDNp1F6qzCnMDp6Q9GSJp"
       },
@@ -827,22 +827,6 @@
       "duration_ms": 177200,
       "name": "Flyttat d\u00e4rifr\u00e5n",
       "url": "https://open.spotify.com/track/2HC0Y27D9pGyMBMoivUcer"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
-        "name": "Sjung om (lyxversion)",
-        "url": "https://open.spotify.com/album/0ncTdDynh14mkzhC6KHfJ2"
-      },
-      "artists": [
-        {
-          "name": "Strobaek",
-          "url": "https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp"
-        }
-      ],
-      "duration_ms": 159963,
-      "name": "Ditt hj\u00e4rta bor",
-      "url": "https://open.spotify.com/track/61HiBDc2oUSHectbGwr7GU"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -875,6 +859,22 @@
       "duration_ms": 151072,
       "name": "Ordna sig",
       "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Sjung om (lyxversion)",
+        "url": "https://open.spotify.com/album/0ncTdDynh14mkzhC6KHfJ2"
+      },
+      "artists": [
+        {
+          "name": "Strobaek",
+          "url": "https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp"
+        }
+      ],
+      "duration_ms": 159963,
+      "name": "Ditt hj\u00e4rta bor",
+      "url": "https://open.spotify.com/track/61HiBDc2oUSHectbGwr7GU"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
+        "name": "Som En Sol",
+        "url": "https://open.spotify.com/album/7pMPAhJVAfJ1JedHFanzs7"
+      },
+      "artists": [
+        {
+          "name": "Toxe",
+          "url": "https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Som En Sol",
+      "url": "https://open.spotify.com/track/56oeHpuKnpG3U8UEkj2T8n"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
         "name": "T\u00e5rarna (feat. Jackie Mere)",
         "url": "https://open.spotify.com/album/4SMIJv8Cc6kxbSTgNKeDKF"
       },
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Inge mer fun",
-        "url": "https://open.spotify.com/album/75J4SpsZaxeNt8xMCUoB4m"
-      },
-      "artists": [
-        {
-          "name": "Karakou",
-          "url": "https://open.spotify.com/artist/4eLoWgIQ8bNC5mXpFgewSq"
-        }
-      ],
-      "duration_ms": 241400,
-      "name": "Inge mer fun",
-      "url": "https://open.spotify.com/track/5CRJ1cVXCnByoFW8bQ1j5j"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Pl\u00e5stret",
         "url": "https://open.spotify.com/album/68mz74xN3EE3nUKVvYevUq"
       },
@@ -1087,6 +1087,22 @@
       "duration_ms": 202776,
       "name": "Pl\u00e5stret",
       "url": "https://open.spotify.com/track/6Byvrc6ct2PIIQKEhmcVhF"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Inge mer fun",
+        "url": "https://open.spotify.com/album/75J4SpsZaxeNt8xMCUoB4m"
+      },
+      "artists": [
+        {
+          "name": "Karakou",
+          "url": "https://open.spotify.com/artist/4eLoWgIQ8bNC5mXpFgewSq"
+        }
+      ],
+      "duration_ms": 241400,
+      "name": "Inge mer fun",
+      "url": "https://open.spotify.com/track/5CRJ1cVXCnByoFW8bQ1j5j"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1119,22 +1135,6 @@
       "duration_ms": 164725,
       "name": "Kontakt",
       "url": "https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
-        "name": "Som En Sol",
-        "url": "https://open.spotify.com/album/7pMPAhJVAfJ1JedHFanzs7"
-      },
-      "artists": [
-        {
-          "name": "Toxe",
-          "url": "https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Som En Sol",
-      "url": "https://open.spotify.com/track/56oeHpuKnpG3U8UEkj2T8n"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "jag m\u00e5r inte bra </3",
-        "url": "https://open.spotify.com/album/1vdEbu1fVuZwJdnRMTr9KM"
-      },
-      "artists": [
-        {
-          "name": "BELL",
-          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
-        }
-      ],
-      "duration_ms": 155426,
-      "name": "jag m\u00e5r inte bra </3",
-      "url": "https://open.spotify.com/track/78IgWqUnswiKKwxnr4jbWI"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Jag dr\u00f6mmer mig fri",
         "url": "https://open.spotify.com/album/3BDnwsKU1qJWNTSuCrzjqe"
       },
@@ -1367,22 +1351,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/5fpqWfinoaiwFuw9XpIczL"
-      },
-      "artists": [
-        {
-          "name": "SI EVOL",
-          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4QMovHbMTImVWqbkwVriSg"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Utan Dig (oh nej)",
         "url": "https://open.spotify.com/album/4IuvDIuuhzpP2Vaa6sn7lv"
       },
@@ -1403,6 +1371,38 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5fpqWfinoaiwFuw9XpIczL"
+      },
+      "artists": [
+        {
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4QMovHbMTImVWqbkwVriSg"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "jag m\u00e5r inte bra </3",
+        "url": "https://open.spotify.com/album/1vdEbu1fVuZwJdnRMTr9KM"
+      },
+      "artists": [
+        {
+          "name": "BELL",
+          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
+        }
+      ],
+      "duration_ms": 155426,
+      "name": "jag m\u00e5r inte bra </3",
+      "url": "https://open.spotify.com/track/78IgWqUnswiKKwxnr4jbWI"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
         "name": "Blomma i city",
         "url": "https://open.spotify.com/album/2UeQe6zB080WCiO0NIOIRi"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Dance Melancholia",
-        "url": "https://open.spotify.com/album/5KJOMqOTmhEL4MwLjH72kX"
-      },
-      "artists": [
-        {
-          "name": "Lucky Lou",
-          "url": "https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2"
-        }
-      ],
-      "duration_ms": 202134,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/53M8zOUR70Ge8XBl80lxt8"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Snow In The Summer",
         "url": "https://open.spotify.com/album/46fIzNsQu0ZOjVXrH4rto9"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 169333,
       "name": "Snow In The Summer",
       "url": "https://open.spotify.com/track/2u8jdrBjDG3VM7YbhTAJPo"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Dance Melancholia",
+        "url": "https://open.spotify.com/album/5KJOMqOTmhEL4MwLjH72kX"
+      },
+      "artists": [
+        {
+          "name": "Lucky Lou",
+          "url": "https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2"
+        }
+      ],
+      "duration_ms": 202134,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/53M8zOUR70Ge8XBl80lxt8"
     },
     {
       "added_at": "2024-06-28 14:04:42",

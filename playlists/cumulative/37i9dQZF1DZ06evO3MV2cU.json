@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-24",
-  "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
+  "description": "This Is Chris Tomlin. Los temas esenciales, todos en una lista.",
   "name": "This Is Chris Tomlin",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 298000,
       "name": "Amazing Grace (My Chains Are Gone)",
       "url": "https://open.spotify.com/track/7HB2ekhcwwsyZ9Vta4s7LP"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 207720,
       "name": "Forever Home (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/0qcVosiukBmgBS0eUDrwk6"
@@ -454,7 +454,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 293398,
       "name": "Good Good Father",
       "url": "https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB"
@@ -476,7 +476,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 264923,
       "name": "Good Good Father",
       "url": "https://open.spotify.com/track/1l6Ffi07jIzh5DquHPf7a3"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 305426,
       "name": "How Great Is Our God",
       "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 230673,
       "name": "I See You (with Brandon Lake)",
       "url": "https://open.spotify.com/track/5WJbUQV3FbzOxB4tA7yiXF"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 301240,
       "name": "I Will Rise",
       "url": "https://open.spotify.com/track/0BP0JHEeYVZZsyngW4Uc1x"
@@ -884,7 +884,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 271920,
       "name": "Is He Worthy?",
       "url": "https://open.spotify.com/track/4E43YlwUlpYDJIxcMjt0S7"
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 193240,
       "name": "Power (feat. Bear Rinehart of NEEDTOBREATHE)",
       "url": "https://open.spotify.com/track/0AGM3L1E346dTkLcGMaEdv"
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 302048,
       "name": "Precious Love - Live",
       "url": "https://open.spotify.com/track/1sWYM9HHpUX0UMTUETzLMH"
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 250800,
       "name": "Resurrection Power",
       "url": "https://open.spotify.com/track/2MxWMPW8E1p8B0Wcc5ypfU"
@@ -1200,7 +1200,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 240566,
       "name": "Strongholds",
       "url": "https://open.spotify.com/track/5ciUxkJBtUkkR7KwvwJUyH"
@@ -1226,10 +1226,28 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 168693,
       "name": "Thank You Lord (feat. Thomas Rhett & Florida Georgia Line)",
       "url": "https://open.spotify.com/track/1k9dLBzwep1k1eGP0Ec8ZK"
+    },
+    {
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215399,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/5WKEKguT5QbGZG7Klh1Ccd"
     },
     {
       "album": {
@@ -1402,7 +1420,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 230360,
       "name": "Who You Are To Me (feat. Lady A)",
       "url": "https://open.spotify.com/track/1L4MQJhKyrw0XiF0n0C2hL"
@@ -1420,7 +1438,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 267906,
       "name": "Whom Shall I Fear (God Of Angel Armies)",
       "url": "https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz"

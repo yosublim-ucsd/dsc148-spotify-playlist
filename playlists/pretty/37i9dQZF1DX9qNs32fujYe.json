@@ -1,6 +1,6 @@
 {
   "description": "Heavy Metal forever \\m/ classics to brand new tracks. Cover: Kittie",
-  "num_followers": 1248460,
+  "num_followers": 1248726,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-07-05 15:54:22",
       "album": {
-        "name": "The Real Thing",
-        "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 293653,
-      "name": "Epic",
-      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
-    },
-    {
-      "added_at": "2024-07-05 15:54:22",
-      "album": {
         "name": "The Number of the Beast (2015 Remaster)",
         "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 290586,
       "name": "The Number of the Beast - 2015 Remaster",
       "url": "https://open.spotify.com/track/3nlGByvetDcS1uomAoiBmy"
+    },
+    {
+      "added_at": "2024-07-05 15:54:22",
+      "album": {
+        "name": "The Real Thing",
+        "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 293653,
+      "name": "Epic",
+      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
     },
     {
       "added_at": "2024-07-05 15:54:22",
@@ -847,26 +847,18 @@
     {
       "added_at": "2024-07-05 15:54:22",
       "album": {
-        "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
-        "url": "https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu"
+        "name": "The Gathering",
+        "url": "https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J"
       },
       "artists": [
         {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
-        },
-        {
-          "name": "Eric Vanlerberghe",
-          "url": "https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2"
-        },
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
         }
       ],
-      "duration_ms": 263161,
-      "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
-      "url": "https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN"
+      "duration_ms": 203680,
+      "name": "Down for Life",
+      "url": "https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig"
     },
     {
       "added_at": "2024-07-05 15:54:22",
@@ -887,18 +879,26 @@
     {
       "added_at": "2024-07-05 15:54:22",
       "album": {
-        "name": "The Gathering",
-        "url": "https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J"
+        "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
+        "url": "https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu"
       },
       "artists": [
         {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        },
+        {
+          "name": "Eric Vanlerberghe",
+          "url": "https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2"
+        },
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
         }
       ],
-      "duration_ms": 203680,
-      "name": "Down for Life",
-      "url": "https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig"
+      "duration_ms": 263161,
+      "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
+      "url": "https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN"
     },
     {
       "added_at": "2024-07-05 15:54:22",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-07-05 15:54:22",
       "album": {
-        "name": "Conflict",
-        "url": "https://open.spotify.com/album/4duvgcgX88O1QzeoGl0DuE"
-      },
-      "artists": [
-        {
-          "name": "Slaughter to Prevail",
-          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Conflict",
-      "url": "https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw"
-    },
-    {
-      "added_at": "2024-07-05 15:54:22",
-      "album": {
         "name": "Sinners of the Seven Seas",
         "url": "https://open.spotify.com/album/1kKbGYBoupZiV7HVOFymvP"
       },
@@ -967,6 +951,22 @@
     {
       "added_at": "2024-07-05 15:54:22",
       "album": {
+        "name": "Conflict",
+        "url": "https://open.spotify.com/album/4duvgcgX88O1QzeoGl0DuE"
+      },
+      "artists": [
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Conflict",
+      "url": "https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw"
+    },
+    {
+      "added_at": "2024-07-05 15:54:22",
+      "album": {
         "name": "Lamb of God",
         "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
       },
@@ -979,6 +979,38 @@
       "duration_ms": 348099,
       "name": "Memento Mori",
       "url": "https://open.spotify.com/track/5I29F9GR0OkaU1nuxp9hU8"
+    },
+    {
+      "added_at": "2024-07-05 15:54:22",
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 296626,
+      "name": "Davidian",
+      "url": "https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v"
+    },
+    {
+      "added_at": "2024-07-05 15:54:22",
+      "album": {
+        "name": "Power Of The Beast",
+        "url": "https://open.spotify.com/album/3rSHTToST4ZTeHDHwCbbHp"
+      },
+      "artists": [
+        {
+          "name": "Beast In Black",
+          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
+        }
+      ],
+      "duration_ms": 269665,
+      "name": "Power Of The Beast",
+      "url": "https://open.spotify.com/track/3HtHib9t0FmC9sl1gsFobY"
     },
     {
       "added_at": "2024-07-05 15:54:22",
@@ -1003,22 +1035,6 @@
     {
       "added_at": "2024-07-05 15:54:22",
       "album": {
-        "name": "Burn My Eyes",
-        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 296626,
-      "name": "Davidian",
-      "url": "https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v"
-    },
-    {
-      "added_at": "2024-07-05 15:54:22",
-      "album": {
         "name": "Life Is But a Dream\u2026",
         "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 330386,
       "name": "Mattel",
       "url": "https://open.spotify.com/track/4KyghCEewQOSZ4OdvQwFN3"
-    },
-    {
-      "added_at": "2024-07-05 15:54:22",
-      "album": {
-        "name": "1589",
-        "url": "https://open.spotify.com/album/2DCkMmDE6Lh7QY5xFMYcG2"
-      },
-      "artists": [
-        {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        }
-      ],
-      "duration_ms": 244780,
-      "name": "1589",
-      "url": "https://open.spotify.com/track/0XvAsIMhFkN4J1ZY3kdM2G"
     },
     {
       "added_at": "2024-07-05 15:54:22",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-07-05 15:54:22",
       "album": {
-        "name": "Power Of The Beast",
-        "url": "https://open.spotify.com/album/3rSHTToST4ZTeHDHwCbbHp"
-      },
-      "artists": [
-        {
-          "name": "Beast In Black",
-          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
-        }
-      ],
-      "duration_ms": 269665,
-      "name": "Power Of The Beast",
-      "url": "https://open.spotify.com/track/3HtHib9t0FmC9sl1gsFobY"
-    },
-    {
-      "added_at": "2024-07-05 15:54:22",
-      "album": {
         "name": "The Black Crown",
         "url": "https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 192560,
       "name": "You Only Live Once",
       "url": "https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8"
+    },
+    {
+      "added_at": "2024-07-05 15:54:22",
+      "album": {
+        "name": "1589",
+        "url": "https://open.spotify.com/album/2DCkMmDE6Lh7QY5xFMYcG2"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "duration_ms": 244780,
+      "name": "1589",
+      "url": "https://open.spotify.com/track/0XvAsIMhFkN4J1ZY3kdM2G"
     },
     {
       "added_at": "2024-07-05 15:54:22",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-07-05 15:54:22",
       "album": {
-        "name": "Firepower",
-        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Lightning Strike",
-      "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
-    },
-    {
-      "added_at": "2024-07-05 15:54:22",
-      "album": {
         "name": "Wireless",
         "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 281380,
       "name": "Wireless",
       "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
+    },
+    {
+      "added_at": "2024-07-05 15:54:22",
+      "album": {
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Lightning Strike",
+      "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
     },
     {
       "added_at": "2024-07-05 15:54:22",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-07-05 15:54:22",
       "album": {
-        "name": "Below",
-        "url": "https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 215924,
-      "name": "The Past Is Dead",
-      "url": "https://open.spotify.com/track/7M7AFtWYg73Kvj5cTZUjiZ"
-    },
-    {
-      "added_at": "2024-07-05 15:54:22",
-      "album": {
         "name": "Welcome To The Circus",
         "url": "https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw"
       },
@@ -1723,6 +1707,22 @@
     {
       "added_at": "2024-07-05 15:54:22",
       "album": {
+        "name": "Below",
+        "url": "https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 215924,
+      "name": "The Past Is Dead",
+      "url": "https://open.spotify.com/track/7M7AFtWYg73Kvj5cTZUjiZ"
+    },
+    {
+      "added_at": "2024-07-05 15:54:22",
+      "album": {
         "name": "Fall in Line",
         "url": "https://open.spotify.com/album/7ru1OonrDxyPDGx3zi6MqT"
       },
@@ -1735,26 +1735,6 @@
       "duration_ms": 284453,
       "name": "Fall In Line",
       "url": "https://open.spotify.com/track/7ftpyir5ygZkv92mbZMFqi"
-    },
-    {
-      "added_at": "2024-07-05 15:54:22",
-      "album": {
-        "name": "A Fool's Parade",
-        "url": "https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Alex Yarmak",
-          "url": "https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA"
-        }
-      ],
-      "duration_ms": 222128,
-      "name": "A Fool's Parade",
-      "url": "https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT"
     },
     {
       "added_at": "2024-07-05 15:54:22",
@@ -1791,6 +1771,26 @@
       "duration_ms": 480566,
       "name": "The Cleansing",
       "url": "https://open.spotify.com/track/5iODmMKclILMRCQZcuZz0C"
+    },
+    {
+      "added_at": "2024-07-05 15:54:22",
+      "album": {
+        "name": "A Fool's Parade",
+        "url": "https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Alex Yarmak",
+          "url": "https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA"
+        }
+      ],
+      "duration_ms": 222128,
+      "name": "A Fool's Parade",
+      "url": "https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT"
     },
     {
       "added_at": "2024-07-05 15:54:22",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-07-05 15:54:22",
       "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/3Nmi023OjclW3imkrnGXuG"
-      },
-      "artists": [
-        {
-          "name": "Born Of Osiris",
-          "url": "https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/5xSUwN5ZFBuoLWV4UnWVta"
-    },
-    {
-      "added_at": "2024-07-05 15:54:22",
-      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/7kLqk3fireCdZxAZmCud3k"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 312426,
       "name": "Winter Storm Vigilantes",
       "url": "https://open.spotify.com/track/7FBdViGNTaDNc2sl6MWGew"
+    },
+    {
+      "added_at": "2024-07-05 15:54:22",
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/3Nmi023OjclW3imkrnGXuG"
+      },
+      "artists": [
+        {
+          "name": "Born Of Osiris",
+          "url": "https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/5xSUwN5ZFBuoLWV4UnWVta"
     },
     {
       "added_at": "2024-07-05 15:54:22",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2024-07-05 15:54:22",
       "album": {
+        "name": "Sk8 or Die",
+        "url": "https://open.spotify.com/album/1UO3gKPqtHDXMahNnm4SIf"
+      },
+      "artists": [
+        {
+          "name": "Upon A Burning Body",
+          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
+        }
+      ],
+      "duration_ms": 131523,
+      "name": "Sk8 or Die",
+      "url": "https://open.spotify.com/track/2ajQofPpJ5EiOzGDP3NFmw"
+    },
+    {
+      "added_at": "2024-07-05 15:54:22",
+      "album": {
         "name": "Scum",
         "url": "https://open.spotify.com/album/51wqCUWehVrNj2Ltc83zJu"
       },
@@ -2151,22 +2167,6 @@
       "duration_ms": 289346,
       "name": "Never Dawn",
       "url": "https://open.spotify.com/track/53h0CfeES5dh1ECvoNjlMu"
-    },
-    {
-      "added_at": "2024-07-05 15:54:22",
-      "album": {
-        "name": "Sk8 or Die",
-        "url": "https://open.spotify.com/album/1UO3gKPqtHDXMahNnm4SIf"
-      },
-      "artists": [
-        {
-          "name": "Upon A Burning Body",
-          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
-        }
-      ],
-      "duration_ms": 131523,
-      "name": "Sk8 or Die",
-      "url": "https://open.spotify.com/track/2ajQofPpJ5EiOzGDP3NFmw"
     },
     {
       "added_at": "2024-07-05 15:54:22",
@@ -2519,22 +2519,6 @@
     {
       "added_at": "2024-07-05 15:54:22",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/1yImqDY0D5RKThLhZlONAH"
-      },
-      "artists": [
-        {
-          "name": "Unto Others",
-          "url": "https://open.spotify.com/artist/1W5khHrkcznsyChxwIBfAI"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/02ErXm9zvvhi7qT7JUGhZj"
-    },
-    {
-      "added_at": "2024-07-05 15:54:22",
-      "album": {
         "name": "Darkbloom",
         "url": "https://open.spotify.com/album/3wJZuEnCzcyFbRM2Q5tZw3"
       },
@@ -2547,6 +2531,22 @@
       "duration_ms": 228272,
       "name": "Darkbloom",
       "url": "https://open.spotify.com/track/3flxPmOcA1rm7rKsZLfnD9"
+    },
+    {
+      "added_at": "2024-07-05 15:54:22",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/1yImqDY0D5RKThLhZlONAH"
+      },
+      "artists": [
+        {
+          "name": "Unto Others",
+          "url": "https://open.spotify.com/artist/1W5khHrkcznsyChxwIBfAI"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/02ErXm9zvvhi7qT7JUGhZj"
     },
     {
       "added_at": "2024-07-05 15:54:22",
@@ -2767,6 +2767,22 @@
     {
       "added_at": "2024-07-05 15:54:22",
       "album": {
+        "name": "Saturn Coming Down",
+        "url": "https://open.spotify.com/album/5VgKnBiputFStCvTUPlYge"
+      },
+      "artists": [
+        {
+          "name": "Tribulation",
+          "url": "https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge"
+        }
+      ],
+      "duration_ms": 358546,
+      "name": "Saturn Coming Down",
+      "url": "https://open.spotify.com/track/31ZTKhrSPeufd3L1Wd12kc"
+    },
+    {
+      "added_at": "2024-07-05 15:54:22",
+      "album": {
         "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
         "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
       },
@@ -2831,22 +2847,6 @@
     {
       "added_at": "2024-07-05 15:54:22",
       "album": {
-        "name": "Child Within The Man",
-        "url": "https://open.spotify.com/album/4BT7xGOJ4FtgLKLadxBaZF"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Bach",
-          "url": "https://open.spotify.com/artist/2D2svlzUpyTfcEEq0t3dgV"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/4MQkVbYj1QTtaaw1u6ghX0"
-    },
-    {
-      "added_at": "2024-07-05 15:54:22",
-      "album": {
         "name": "Chosen Force",
         "url": "https://open.spotify.com/album/01rbcbdKGHBpNWvqEEVcqY"
       },
@@ -2859,22 +2859,6 @@
       "duration_ms": 308880,
       "name": "Chosen Force",
       "url": "https://open.spotify.com/track/4l8tcS0fXtsafe6mqNT6h8"
-    },
-    {
-      "added_at": "2024-07-05 15:54:22",
-      "album": {
-        "name": "Clear Cold Beyond",
-        "url": "https://open.spotify.com/album/5udxJVHVFuD35pKn9Oh2X3"
-      },
-      "artists": [
-        {
-          "name": "Sonata Arctica",
-          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
-        }
-      ],
-      "duration_ms": 265206,
-      "name": "California",
-      "url": "https://open.spotify.com/track/5hs7EN2e47VSzJhIiSGR9j"
     },
     {
       "added_at": "2024-07-05 15:54:22",
@@ -2895,34 +2879,34 @@
     {
       "added_at": "2024-07-05 15:54:22",
       "album": {
-        "name": "Saturn Coming Down",
-        "url": "https://open.spotify.com/album/5VgKnBiputFStCvTUPlYge"
+        "name": "Clear Cold Beyond",
+        "url": "https://open.spotify.com/album/5udxJVHVFuD35pKn9Oh2X3"
       },
       "artists": [
         {
-          "name": "Tribulation",
-          "url": "https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge"
+          "name": "Sonata Arctica",
+          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
         }
       ],
-      "duration_ms": 358546,
-      "name": "Saturn Coming Down",
-      "url": "https://open.spotify.com/track/31ZTKhrSPeufd3L1Wd12kc"
+      "duration_ms": 265206,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5hs7EN2e47VSzJhIiSGR9j"
     },
     {
       "added_at": "2024-07-05 15:54:22",
       "album": {
-        "name": "Blood Of The Kings",
-        "url": "https://open.spotify.com/album/5nnEguab5n5fWUIjlzK8HJ"
+        "name": "Child Within The Man",
+        "url": "https://open.spotify.com/album/4BT7xGOJ4FtgLKLadxBaZF"
       },
       "artists": [
         {
-          "name": "Tungsten",
-          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
+          "name": "Sebastian Bach",
+          "url": "https://open.spotify.com/artist/2D2svlzUpyTfcEEq0t3dgV"
         }
       ],
-      "duration_ms": 240426,
-      "name": "Blood Of The Kings",
-      "url": "https://open.spotify.com/track/5DNEf9PJN2qLie95vgYWHU"
+      "duration_ms": 188666,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/4MQkVbYj1QTtaaw1u6ghX0"
     },
     {
       "added_at": "2024-07-05 15:54:22",
@@ -2939,6 +2923,22 @@
       "duration_ms": 234346,
       "name": "Eternal Rains",
       "url": "https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi"
+    },
+    {
+      "added_at": "2024-07-05 15:54:22",
+      "album": {
+        "name": "Blood Of The Kings",
+        "url": "https://open.spotify.com/album/5nnEguab5n5fWUIjlzK8HJ"
+      },
+      "artists": [
+        {
+          "name": "Tungsten",
+          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
+        }
+      ],
+      "duration_ms": 240426,
+      "name": "Blood Of The Kings",
+      "url": "https://open.spotify.com/track/5DNEf9PJN2qLie95vgYWHU"
     },
     {
       "added_at": "2024-07-05 15:54:22",
@@ -3167,26 +3167,6 @@
     {
       "added_at": "2024-07-05 15:54:22",
       "album": {
-        "name": "Evil Eye / Get a Grip",
-        "url": "https://open.spotify.com/album/0lPpOFL64VeHLt2wx1E2RF"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        },
-        {
-          "name": "Tony Iommi",
-          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
-        }
-      ],
-      "duration_ms": 241773,
-      "name": "Get a Grip",
-      "url": "https://open.spotify.com/track/2tGrdc5Hryxq2dIiSS1egV"
-    },
-    {
-      "added_at": "2024-07-05 15:54:22",
-      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/3EATOOixZ8TxrSqvbtF46A"
       },
@@ -3219,6 +3199,26 @@
     {
       "added_at": "2024-07-05 15:54:22",
       "album": {
+        "name": "Evil Eye / Get a Grip",
+        "url": "https://open.spotify.com/album/0lPpOFL64VeHLt2wx1E2RF"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        },
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        }
+      ],
+      "duration_ms": 241773,
+      "name": "Get a Grip",
+      "url": "https://open.spotify.com/track/2tGrdc5Hryxq2dIiSS1egV"
+    },
+    {
+      "added_at": "2024-07-05 15:54:22",
+      "album": {
         "name": "In Waves",
         "url": "https://open.spotify.com/album/5NDxdsUG2cpD3jJRqHbgic"
       },
@@ -3235,22 +3235,6 @@
     {
       "added_at": "2024-07-05 15:54:22",
       "album": {
-        "name": "Rankarumpu",
-        "url": "https://open.spotify.com/album/6qHZPsB4nMMI602L2iJ4pK"
-      },
-      "artists": [
-        {
-          "name": "Korpiklaani",
-          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
-        }
-      ],
-      "duration_ms": 163557,
-      "name": "Rankarumpu",
-      "url": "https://open.spotify.com/track/5Hvhu1kJEcP90itIQSbn5f"
-    },
-    {
-      "added_at": "2024-07-05 15:54:22",
-      "album": {
         "name": "Presence of Mind",
         "url": "https://open.spotify.com/album/4j3AXVu1zUsav9FLHJVtxd"
       },
@@ -3263,6 +3247,22 @@
       "duration_ms": 255986,
       "name": "Presence of Mind",
       "url": "https://open.spotify.com/track/7kn8PMqB1Cx3qnzB0Slayd"
+    },
+    {
+      "added_at": "2024-07-05 15:54:22",
+      "album": {
+        "name": "Rankarumpu",
+        "url": "https://open.spotify.com/album/6qHZPsB4nMMI602L2iJ4pK"
+      },
+      "artists": [
+        {
+          "name": "Korpiklaani",
+          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
+        }
+      ],
+      "duration_ms": 163557,
+      "name": "Rankarumpu",
+      "url": "https://open.spotify.com/track/5Hvhu1kJEcP90itIQSbn5f"
     },
     {
       "added_at": "2024-07-05 15:54:22",
@@ -3291,22 +3291,6 @@
     {
       "added_at": "2024-07-05 15:54:22",
       "album": {
-        "name": "Darkest Hour",
-        "url": "https://open.spotify.com/album/6b70Uf4v6jiTPGjLaJN4LC"
-      },
-      "artists": [
-        {
-          "name": "Axel Rudi Pell",
-          "url": "https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl"
-        }
-      ],
-      "duration_ms": 331602,
-      "name": "Darkest Hour",
-      "url": "https://open.spotify.com/track/7ybnH1YldJRE2lVyQAl4Tn"
-    },
-    {
-      "added_at": "2024-07-05 15:54:22",
-      "album": {
         "name": "Chasing Sunsets",
         "url": "https://open.spotify.com/album/6fQCWaGRbfcxZWwKR4Psav"
       },
@@ -3319,6 +3303,22 @@
       "duration_ms": 256453,
       "name": "Chasing Sunsets",
       "url": "https://open.spotify.com/track/5dIfFSUtKg2QOHf32iHyUh"
+    },
+    {
+      "added_at": "2024-07-05 15:54:22",
+      "album": {
+        "name": "Darkest Hour",
+        "url": "https://open.spotify.com/album/6b70Uf4v6jiTPGjLaJN4LC"
+      },
+      "artists": [
+        {
+          "name": "Axel Rudi Pell",
+          "url": "https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl"
+        }
+      ],
+      "duration_ms": 331602,
+      "name": "Darkest Hour",
+      "url": "https://open.spotify.com/track/7ybnH1YldJRE2lVyQAl4Tn"
     }
   ],
   "unique_name": "Heavy Metal",

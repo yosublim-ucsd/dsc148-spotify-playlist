@@ -1,6 +1,6 @@
 {
   "description": "The best in new alternative pop. Cover: Charli XCX",
-  "num_followers": 45440,
+  "num_followers": 45448,
   "original_name": "alt/pop",
   "owner": {
     "name": "Spotify",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-06-07 09:30:42",
       "album": {
-        "name": "Britpop",
-        "url": "https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 275892,
-      "name": "Heartache",
-      "url": "https://open.spotify.com/track/39GZz9WxQpwJul7NnfBTb3"
-    },
-    {
-      "added_at": "2024-06-07 09:30:42",
-      "album": {
         "name": "Traumatic Livelihood",
         "url": "https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 206039,
       "name": "Shit Show",
       "url": "https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ"
+    },
+    {
+      "added_at": "2024-06-07 09:30:42",
+      "album": {
+        "name": "Britpop",
+        "url": "https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 275892,
+      "name": "Heartache",
+      "url": "https://open.spotify.com/track/39GZz9WxQpwJul7NnfBTb3"
     },
     {
       "added_at": "2024-06-07 09:30:42",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-06-07 09:30:42",
       "album": {
-        "name": "Act of Innocence",
-        "url": "https://open.spotify.com/album/0cDD4yvNsLL9eermbxEngG"
-      },
-      "artists": [
-        {
-          "name": "Picture This",
-          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
-        }
-      ],
-      "duration_ms": 183049,
-      "name": "Act of Innocence",
-      "url": "https://open.spotify.com/track/0CiHRdnBbxTpao3DychgTp"
-    },
-    {
-      "added_at": "2024-06-07 09:30:42",
-      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/4fIV9iUM0W0A1GXuEQuETh"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 147500,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S"
+    },
+    {
+      "added_at": "2024-06-07 09:30:42",
+      "album": {
+        "name": "Act of Innocence",
+        "url": "https://open.spotify.com/album/0cDD4yvNsLL9eermbxEngG"
+      },
+      "artists": [
+        {
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+        }
+      ],
+      "duration_ms": 183049,
+      "name": "Act of Innocence",
+      "url": "https://open.spotify.com/track/0CiHRdnBbxTpao3DychgTp"
     },
     {
       "added_at": "2024-06-07 09:30:42",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-06-07 09:30:42",
       "album": {
+        "name": "SOPHOMORE",
+        "url": "https://open.spotify.com/album/1eN6QlgyGlf1hHkr04rLS8"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 166134,
+      "name": "summer of love",
+      "url": "https://open.spotify.com/track/5ttv8rhr5AxHSqAN5xg7zT"
+    },
+    {
+      "added_at": "2024-06-07 09:30:42",
+      "album": {
         "name": "Matriarchy",
         "url": "https://open.spotify.com/album/3Kh7DCpfbG9rotZBLoNWKK"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 158239,
       "name": "New Age Crisis",
       "url": "https://open.spotify.com/track/1jbBmjncsqWO0oa81kGrCO"
-    },
-    {
-      "added_at": "2024-06-07 09:30:42",
-      "album": {
-        "name": "SOPHOMORE",
-        "url": "https://open.spotify.com/album/1eN6QlgyGlf1hHkr04rLS8"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 166134,
-      "name": "summer of love",
-      "url": "https://open.spotify.com/track/5ttv8rhr5AxHSqAN5xg7zT"
     },
     {
       "added_at": "2024-06-07 09:30:42",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-06-07 09:30:42",
       "album": {
-        "name": "Mulholland's Dinner and Wine",
-        "url": "https://open.spotify.com/album/0tO938DpMVTxkaGlaGp43F"
+        "name": "Why Am I Like This? / Ipecac",
+        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
       },
       "artists": [
         {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
         }
       ],
-      "duration_ms": 201197,
-      "name": "Mulholland's Dinner and Wine",
-      "url": "https://open.spotify.com/track/72cIAfDlrVYKIrSFqrLCSN"
+      "duration_ms": 146080,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc"
     }
   ],
   "unique_name": "alt/pop",

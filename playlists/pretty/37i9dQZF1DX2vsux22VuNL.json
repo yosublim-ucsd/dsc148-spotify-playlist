@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Lourena, MC Hariel",
-  "num_followers": 289198,
+  "num_followers": 289185,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,26 @@
     {
       "added_at": "2024-07-05 03:00:00",
       "album": {
+        "name": "Ele Me Falou",
+        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 209268,
+      "name": "Ele Me Falou",
+      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
+    },
+    {
+      "added_at": "2024-07-05 03:00:00",
+      "album": {
         "name": "Destino",
         "url": "https://open.spotify.com/album/2XqCSflbr8XImRRevu2Bpp"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 159308,
       "name": "Destino",
       "url": "https://open.spotify.com/track/1tAcAD6c8HiMWDoHyUutHd"
-    },
-    {
-      "added_at": "2024-07-05 03:00:00",
-      "album": {
-        "name": "Ele Me Falou",
-        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 209268,
-      "name": "Ele Me Falou",
-      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
     },
     {
       "added_at": "2024-07-05 03:00:00",
@@ -807,6 +807,46 @@
     {
       "added_at": "2024-07-05 03:00:00",
       "album": {
+        "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
+        "url": "https://open.spotify.com/album/0jWlOY3pDrv5eQpoz9ds2X"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        }
+      ],
+      "duration_ms": 168448,
+      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
+      "url": "https://open.spotify.com/track/4I1dCogzyGuaP5uIXrMTs2"
+    },
+    {
+      "added_at": "2024-07-05 03:00:00",
+      "album": {
+        "name": "Acordo Cedo",
+        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
+      },
+      "artists": [
+        {
+          "name": "Sobral",
+          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
+        }
+      ],
+      "duration_ms": 125186,
+      "name": "Acordo Cedo",
+      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
+    },
+    {
+      "added_at": "2024-07-05 03:00:00",
+      "album": {
         "name": "Sempre Que Me V\u00ea",
         "url": "https://open.spotify.com/album/0gjyJm3JIFWXueTBg318dI"
       },
@@ -847,30 +887,6 @@
     {
       "added_at": "2024-07-05 03:00:00",
       "album": {
-        "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
-        "url": "https://open.spotify.com/album/0jWlOY3pDrv5eQpoz9ds2X"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        }
-      ],
-      "duration_ms": 168448,
-      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
-      "url": "https://open.spotify.com/track/4I1dCogzyGuaP5uIXrMTs2"
-    },
-    {
-      "added_at": "2024-07-05 03:00:00",
-      "album": {
         "name": "Ref\u00e9m",
         "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 182586,
       "name": "Um Pouco Mais",
       "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
-    },
-    {
-      "added_at": "2024-07-05 03:00:00",
-      "album": {
-        "name": "Acordo Cedo",
-        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
-      },
-      "artists": [
-        {
-          "name": "Sobral",
-          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
-        }
-      ],
-      "duration_ms": 125186,
-      "name": "Acordo Cedo",
-      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
     },
     {
       "added_at": "2024-07-05 03:00:00",
@@ -1151,6 +1151,30 @@
     {
       "added_at": "2024-07-05 03:00:00",
       "album": {
+        "name": "n\u00e3o te amo mais",
+        "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
+      },
+      "artists": [
+        {
+          "name": "Isa Guerra",
+          "url": "https://open.spotify.com/artist/0UvOu1XQNgxNJKi0tMtghC"
+        },
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        },
+        {
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
+        }
+      ],
+      "duration_ms": 133921,
+      "name": "n\u00e3o te amo mais",
+      "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
+    },
+    {
+      "added_at": "2024-07-05 03:00:00",
+      "album": {
         "name": "Toda Mal\u00e9vola",
         "url": "https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD"
       },
@@ -1175,30 +1199,6 @@
       "duration_ms": 196691,
       "name": "Toda Mal\u00e9vola",
       "url": "https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK"
-    },
-    {
-      "added_at": "2024-07-05 03:00:00",
-      "album": {
-        "name": "n\u00e3o te amo mais",
-        "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
-      },
-      "artists": [
-        {
-          "name": "Isa Guerra",
-          "url": "https://open.spotify.com/artist/0UvOu1XQNgxNJKi0tMtghC"
-        },
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        },
-        {
-          "name": "Lil Glass",
-          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
-        }
-      ],
-      "duration_ms": 133921,
-      "name": "n\u00e3o te amo mais",
-      "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
     },
     {
       "added_at": "2024-07-05 03:00:00",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2024-07-05 03:00:00",
       "album": {
+        "name": "O Que a Levada Pede",
+        "url": "https://open.spotify.com/album/4p3tg1AsZkO9DlpmAOTThg"
+      },
+      "artists": [
+        {
+          "name": "Vitin",
+          "url": "https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL"
+        }
+      ],
+      "duration_ms": 127452,
+      "name": "O Que a Levada Pede",
+      "url": "https://open.spotify.com/track/4QIYe2KUsCseRCK2WDOGym"
+    },
+    {
+      "added_at": "2024-07-05 03:00:00",
+      "album": {
         "name": "AINDA T\u00d4 NO PROCESSO",
         "url": "https://open.spotify.com/album/44OZLqQGTBzaV9QLM5EeEN"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 211647,
       "name": "AINDA T\u00d4 NO PROCESSO",
       "url": "https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ"
-    },
-    {
-      "added_at": "2024-07-05 03:00:00",
-      "album": {
-        "name": "O Que a Levada Pede",
-        "url": "https://open.spotify.com/album/4p3tg1AsZkO9DlpmAOTThg"
-      },
-      "artists": [
-        {
-          "name": "Vitin",
-          "url": "https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL"
-        }
-      ],
-      "duration_ms": 127452,
-      "name": "O Que a Levada Pede",
-      "url": "https://open.spotify.com/track/4QIYe2KUsCseRCK2WDOGym"
     },
     {
       "added_at": "2024-07-05 03:00:00",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2024-07-05 03:00:00",
       "album": {
+        "name": "Desbravador",
+        "url": "https://open.spotify.com/album/4OosGi7XyyDOTD6gqBGxDn"
+      },
+      "artists": [
+        {
+          "name": "Nathan Carvalho",
+          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Desbravador",
+      "url": "https://open.spotify.com/track/7qq66f0oXz9nClOW1Z6Q2U"
+    },
+    {
+      "added_at": "2024-07-05 03:00:00",
+      "album": {
         "name": "Outro Patamar",
         "url": "https://open.spotify.com/album/4J1SvtWJvuHaPkjk6PlIom"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 224842,
       "name": "Outro Patamar",
       "url": "https://open.spotify.com/track/0hVKEiZ9lWwKQlBk4VZ0GK"
-    },
-    {
-      "added_at": "2024-07-05 03:00:00",
-      "album": {
-        "name": "Desbravador",
-        "url": "https://open.spotify.com/album/4OosGi7XyyDOTD6gqBGxDn"
-      },
-      "artists": [
-        {
-          "name": "Nathan Carvalho",
-          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
-        }
-      ],
-      "duration_ms": 187586,
-      "name": "Desbravador",
-      "url": "https://open.spotify.com/track/7qq66f0oXz9nClOW1Z6Q2U"
     }
   ],
   "unique_name": "brisa",

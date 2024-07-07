@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-185 songs - 9 hr 37 min
+186 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Roaring 20s](https://open.spotify.com/track/0wdV94AXGRphrbkDWLNzVC) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:06 | 2024-06-07 |  |
 | [roots](https://open.spotify.com/track/0cB3Loy7nNn0RdptFUvKws) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [vital](https://open.spotify.com/album/07hIcfKFcbsOSWpvsGslyE) | 3:49 | 2024-06-07 |  |
 | [Rules](https://open.spotify.com/track/5965DWoiOuO2T3jIWLlXyf) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Dylan Scott \(Deluxe Edition\)](https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o) | 2:49 | 2024-06-07 |  |
+| [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 | 2024-07-06 |  |
 | [S.L.U.T.](https://open.spotify.com/track/6h3lMAmmpQDFqoHk9F99IR) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 2:59 | 2024-06-07 |  |
 | [Sad Girl Summer](https://open.spotify.com/track/45vKP0cRjVu9UxNIWVHDoj) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Sad Girl Summer](https://open.spotify.com/album/01RDRSabinKcm0bjdo3tJw) | 2:44 | 2024-06-07 |  |
 | [Same Risk](https://open.spotify.com/track/6llgRqUx6z43bpqNUfjAJQ) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 3:28 | 2024-06-07 |  |

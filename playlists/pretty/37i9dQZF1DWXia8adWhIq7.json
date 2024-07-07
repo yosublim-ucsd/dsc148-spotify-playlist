@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Luma Elpidio",
-  "num_followers": 95458,
+  "num_followers": 95492,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Eu To Vivo",
-        "url": "https://open.spotify.com/album/1lztSLUPpggJsYVv6rEZjt"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
-        }
-      ],
-      "duration_ms": 256476,
-      "name": "Eu To Vivo",
-      "url": "https://open.spotify.com/track/1BEB3kRruqodB1A61Srmfc"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
         "name": "Nasce o Sol (Remix)",
         "url": "https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 173400,
       "name": "Nasce o Sol - Remix",
       "url": "https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
+        "name": "Eu To Vivo",
+        "url": "https://open.spotify.com/album/1lztSLUPpggJsYVv6rEZjt"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        }
+      ],
+      "duration_ms": 256476,
+      "name": "Eu To Vivo",
+      "url": "https://open.spotify.com/track/1BEB3kRruqodB1A61Srmfc"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -475,22 +475,18 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Reconstituir",
-        "url": "https://open.spotify.com/album/5FVMdmhaJfHB0o2ZDzb1SJ"
+        "name": "Gra\u00e7a Sobre Gra\u00e7a",
+        "url": "https://open.spotify.com/album/25glZgp7YQyCE9Oz2Honsi"
       },
       "artists": [
         {
-          "name": "Igor Felix",
-          "url": "https://open.spotify.com/artist/0jgIJ7ZflTCTu6QoLUr1ud"
-        },
-        {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+          "name": "Brenda Danese",
+          "url": "https://open.spotify.com/artist/1z5wjo6tdolaXhYZsT9T5r"
         }
       ],
-      "duration_ms": 262019,
-      "name": "Reconstituir",
-      "url": "https://open.spotify.com/track/3IZL1m4OR2XuljkOJrJPji"
+      "duration_ms": 191530,
+      "name": "Gra\u00e7a Sobre Gra\u00e7a",
+      "url": "https://open.spotify.com/track/0nvXiTPiPPVZqP6UMbmdSs"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -519,18 +515,22 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Gra\u00e7a Sobre Gra\u00e7a",
-        "url": "https://open.spotify.com/album/25glZgp7YQyCE9Oz2Honsi"
+        "name": "Reconstituir",
+        "url": "https://open.spotify.com/album/5FVMdmhaJfHB0o2ZDzb1SJ"
       },
       "artists": [
         {
-          "name": "Brenda Danese",
-          "url": "https://open.spotify.com/artist/1z5wjo6tdolaXhYZsT9T5r"
+          "name": "Igor Felix",
+          "url": "https://open.spotify.com/artist/0jgIJ7ZflTCTu6QoLUr1ud"
+        },
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
         }
       ],
-      "duration_ms": 191530,
-      "name": "Gra\u00e7a Sobre Gra\u00e7a",
-      "url": "https://open.spotify.com/track/0nvXiTPiPPVZqP6UMbmdSs"
+      "duration_ms": 262019,
+      "name": "Reconstituir",
+      "url": "https://open.spotify.com/track/3IZL1m4OR2XuljkOJrJPji"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
+        "name": "Selo do Perd\u00e3o (Legado)",
+        "url": "https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q"
+      },
+      "artists": [
+        {
+          "name": "Carlinhos F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4fKC35zqqRm5Xs8hINEKf4"
+        }
+      ],
+      "duration_ms": 250186,
+      "name": "Selo do Perd\u00e3o (Legado)",
+      "url": "https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
         "name": "Agora",
         "url": "https://open.spotify.com/album/4U92cEpwlKPbTOc1lwImMn"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Selo do Perd\u00e3o (Legado)",
-        "url": "https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q"
-      },
-      "artists": [
-        {
-          "name": "Carlinhos F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4fKC35zqqRm5Xs8hINEKf4"
-        }
-      ],
-      "duration_ms": 250186,
-      "name": "Selo do Perd\u00e3o (Legado)",
-      "url": "https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 207667,
       "name": "A Chave",
       "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
+        "name": "Teu Amor Me Consome",
+        "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
+      },
+      "artists": [
+        {
+          "name": "Guerreiros da F\u00e9",
+          "url": "https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL"
+        }
+      ],
+      "duration_ms": 226187,
+      "name": "Teu Amor Me Consome",
+      "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -919,22 +935,6 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Teu Amor Me Consome",
-        "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
-      },
-      "artists": [
-        {
-          "name": "Guerreiros da F\u00e9",
-          "url": "https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL"
-        }
-      ],
-      "duration_ms": 226187,
-      "name": "Teu Amor Me Consome",
-      "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
         "name": "minha vida",
         "url": "https://open.spotify.com/album/4kG8hRdehnWtIaEkJdG4VY"
       },
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Al\u00e9m do Que Se V\u00ea",
-        "url": "https://open.spotify.com/album/7eBr2Gk1ELbv9nBX1qNaU2"
-      },
-      "artists": [
-        {
-          "name": "Yuri Costa",
-          "url": "https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Al\u00e9m do Que Se V\u00ea",
-      "url": "https://open.spotify.com/track/4XzEfk8FB5T2D0qEXHhaGW"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
         "name": "Todo Meu Viver (Ac\u00fastico) [Ao Vivo]",
         "url": "https://open.spotify.com/album/1tUx1ptJZcFhPsWjGu6igw"
       },
@@ -987,6 +971,38 @@
       "duration_ms": 197120,
       "name": "Todo Meu Viver (Ac\u00fastico) - Ao Vivo",
       "url": "https://open.spotify.com/track/7yjp2QATsMpOhxj7lY4ywv"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
+        "name": "Al\u00e9m do Que Se V\u00ea",
+        "url": "https://open.spotify.com/album/7eBr2Gk1ELbv9nBX1qNaU2"
+      },
+      "artists": [
+        {
+          "name": "Yuri Costa",
+          "url": "https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Al\u00e9m do Que Se V\u00ea",
+      "url": "https://open.spotify.com/track/4XzEfk8FB5T2D0qEXHhaGW"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
+        "name": "At\u00e9 Sermos Um",
+        "url": "https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG"
+      },
+      "artists": [
+        {
+          "name": "Leo Schiappadini",
+          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
+        }
+      ],
+      "duration_ms": 178446,
+      "name": "At\u00e9 Sermos Um",
+      "url": "https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -1015,74 +1031,6 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "At\u00e9 Sermos Um",
-        "url": "https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG"
-      },
-      "artists": [
-        {
-          "name": "Leo Schiappadini",
-          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
-        }
-      ],
-      "duration_ms": 178446,
-      "name": "At\u00e9 Sermos Um",
-      "url": "https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
-        "name": "Nossa Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1B7HOGs2P2xSPQA92dYox6"
-      },
-      "artists": [
-        {
-          "name": "Cord\u00e3o de Tr\u00eas",
-          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
-        }
-      ],
-      "duration_ms": 189154,
-      "name": "Nossa Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5Xy8zMqDbpkWd9vmPen5mt"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
-        "name": "CHAVE",
-        "url": "https://open.spotify.com/album/4vY4bNvByOAnpgiMrgoCZ6"
-      },
-      "artists": [
-        {
-          "name": "Arthur Martins",
-          "url": "https://open.spotify.com/artist/1DqIsYBAF5gtBsKQI5dPXd"
-        }
-      ],
-      "duration_ms": 187365,
-      "name": "CHAVE",
-      "url": "https://open.spotify.com/track/7iCASj4hDCB7Zz4mI7JNri"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
-        "name": "Amor de Deus",
-        "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Amor de Deus",
-      "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
         "name": "Tudo Novo",
         "url": "https://open.spotify.com/album/51e8mw5vBRkEqljx5DUkZN"
       },
@@ -1103,6 +1051,58 @@
       "duration_ms": 185901,
       "name": "Tudo Novo",
       "url": "https://open.spotify.com/track/4DTSBQsKzEaP99gq0G77ra"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
+        "name": "CHAVE",
+        "url": "https://open.spotify.com/album/4vY4bNvByOAnpgiMrgoCZ6"
+      },
+      "artists": [
+        {
+          "name": "Arthur Martins",
+          "url": "https://open.spotify.com/artist/1DqIsYBAF5gtBsKQI5dPXd"
+        }
+      ],
+      "duration_ms": 187365,
+      "name": "CHAVE",
+      "url": "https://open.spotify.com/track/7iCASj4hDCB7Zz4mI7JNri"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
+        "name": "Nossa Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1B7HOGs2P2xSPQA92dYox6"
+      },
+      "artists": [
+        {
+          "name": "Cord\u00e3o de Tr\u00eas",
+          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
+        }
+      ],
+      "duration_ms": 189154,
+      "name": "Nossa Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5Xy8zMqDbpkWd9vmPen5mt"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
+        "name": "Amor de Deus",
+        "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Amor de Deus",
+      "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Ponto de Paz",
-        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 180864,
-      "name": "Ponto de Paz",
-      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
         "name": "Escrevi (Legado)",
         "url": "https://open.spotify.com/album/3pxFY4lbNOhjMTTsqv4LwL"
       },
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
+        "name": "Ponto de Paz",
+        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 180864,
+      "name": "Ponto de Paz",
+      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
         "name": "Ousado Amor (Releitura)",
         "url": "https://open.spotify.com/album/5dpS81RUXO7awRzR3b9Yug"
       },
@@ -1203,6 +1203,22 @@
       "duration_ms": 224032,
       "name": "Ousado Amor (Releitura)",
       "url": "https://open.spotify.com/track/3kZMYuFqgCrthJpawm9ekL"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
+        "name": "Pense Bem",
+        "url": "https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ"
+      },
+      "artists": [
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Pense Bem",
+      "url": "https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -1235,18 +1251,38 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Pense Bem",
-        "url": "https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ"
+        "name": "Faltava Voc\u00ea",
+        "url": "https://open.spotify.com/album/2VRthZpnrLNcoM9gvy5717"
       },
       "artists": [
         {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+          "name": "Samuell Villart",
+          "url": "https://open.spotify.com/artist/08zKcI2XOBGSNknqvANstc"
+        },
+        {
+          "name": "Rafael Caff",
+          "url": "https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Pense Bem",
-      "url": "https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE"
+      "duration_ms": 194643,
+      "name": "Faltava Voc\u00ea",
+      "url": "https://open.spotify.com/track/2p9hwoULyrP14ccQmIMqFO"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
+        "name": "Rota",
+        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        }
+      ],
+      "duration_ms": 196032,
+      "name": "Rota",
+      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -1271,58 +1307,6 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Rota",
-        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
-        }
-      ],
-      "duration_ms": 196032,
-      "name": "Rota",
-      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
-        "name": "Faltava Voc\u00ea",
-        "url": "https://open.spotify.com/album/2VRthZpnrLNcoM9gvy5717"
-      },
-      "artists": [
-        {
-          "name": "Samuell Villart",
-          "url": "https://open.spotify.com/artist/08zKcI2XOBGSNknqvANstc"
-        },
-        {
-          "name": "Rafael Caff",
-          "url": "https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw"
-        }
-      ],
-      "duration_ms": 194643,
-      "name": "Faltava Voc\u00ea",
-      "url": "https://open.spotify.com/track/2p9hwoULyrP14ccQmIMqFO"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
-        "name": "Mostra-Me Tua Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 230208,
-      "name": "Mostra-Me Tua Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
         "name": "Teu Calor",
         "url": "https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm"
       },
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
+        "name": "Testemunho",
+        "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
+      },
+      "artists": [
+        {
+          "name": "Avipa",
+          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Testemunho",
+      "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
         "name": "Enganoso Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx"
       },
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Testemunho",
-        "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
+        "name": "Mostra-Me Tua Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
       },
       "artists": [
         {
-          "name": "Avipa",
-          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Testemunho",
-      "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
+      "duration_ms": 230208,
+      "name": "Mostra-Me Tua Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
         "name": "Me Leva Al\u00e9m",
         "url": "https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 215061,
       "name": "Me Leva Al\u00e9m",
       "url": "https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
     },
     {
       "added_at": "2024-06-21 03:01:00",

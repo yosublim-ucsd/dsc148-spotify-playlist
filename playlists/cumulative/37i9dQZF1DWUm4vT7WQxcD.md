@@ -4,7 +4,7 @@
 
 > Relax and let the hum of calming white noise box fans and air conditioner sounds lull you to sleep.
 
-256 songs - 12 hr 2 min
+257 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Basement Fan Room](https://open.spotify.com/track/4lzKWF2qFvk6yUgpqPDchC) | [brozains](https://open.spotify.com/artist/7gUQb4sAvvLplz558JypaA) | [Basement Fan Room](https://open.spotify.com/album/0aUt1rguFr8zIQWrZebqh6) | 2:30 | 2022-11-14 | 2024-02-22 |
 | [Bathroom Fan](https://open.spotify.com/track/19oXvWzjYzWEvoJlLScQA0) | [ASMR House](https://open.spotify.com/artist/0eyKdB5nGKUPj5AEzdvlWk) | [Relaxing Home](https://open.spotify.com/album/6yS7nwiBJzHzO7RgHsZXaB) | 4:00 | 2022-07-29 | 2023-07-07 |
 | [Bedroom Sleep Sounds](https://open.spotify.com/track/6MFajIc3H8o6frZonyjd9K) | [ASMR HOME](https://open.spotify.com/artist/5egbo4BefQDLFi0EvqDJyM) | [Bedroom Sleep Sounds](https://open.spotify.com/album/3ZdoATG0kV02f3EHvob9Cd) | 2:44 | 2023-03-23 |  |
+| [Bedroom Sound Waves \(Box Fan Noise\)](https://open.spotify.com/track/2sXc3ERuGZdvUbgFb8YFBS) | [Emotional Support Fan](https://open.spotify.com/artist/6MmL3GAvpQHHIKryoi4eIf) | [Box Fan Air Therapy](https://open.spotify.com/album/0F5HdDf0vRYKiMZOxS1zCT) | 3:12 | 2024-05-06 |  |
 | [Best Box Fan Sound \- Loopable with no fade](https://open.spotify.com/track/3gYjtASDIOrBZb4izoI8ts) | [Erik Eriksson](https://open.spotify.com/artist/2c5WYCqQGs0UttiLCzVfOe), [White Noise Sleep Sounds](https://open.spotify.com/artist/3q3dE3qsl5FYAZzzxBIVLI) | [Best White Noise \- Loopable](https://open.spotify.com/album/2JOO0Ta5UPolcWfxVkN4np) | 1:12 | 2022-07-29 | 2022-12-08 |
 | [Big Blow Fan](https://open.spotify.com/track/1qYyztFqHYgxJKNa8nMiAM) | [Silent Knights](https://open.spotify.com/artist/6XXL4cZkUvRIW1lD11xNt1) | [White Noise Fan Heaters](https://open.spotify.com/album/4CX2as3vojsBFgHbFmmhOT) | 3:32 | 2022-07-29 | 2022-12-08 |
 | [Big Fan Of Sleeping](https://open.spotify.com/track/3PzPW3QOvNs80KUmADFQ5j) | [Lucid](https://open.spotify.com/artist/4PDgHpILxXUfE71E7bIU2j) | [Dream Breeze](https://open.spotify.com/album/5lw1wXg6rtUvi76mk154Yx) | 1:52 | 2022-08-26 | 2023-06-23 |
@@ -172,7 +173,7 @@
 | [Moviing Big Fan](https://open.spotify.com/track/1QQzN5ktJlUnnRmqrJQJ3p) | [XLD Library](https://open.spotify.com/artist/3nohoYUaqIOqoYxHnjNK7q) | [Moviing Big Fan](https://open.spotify.com/album/3Yc0zeeWxAFXVNxK5mPaao) | 2:22 | 2022-11-14 | 2024-02-22 |
 | [My Fantastic Fan](https://open.spotify.com/track/1CnECvwZu3t8BpTWSZwJLq) | [Doze Off](https://open.spotify.com/artist/4qPfn548UaFRQO5XBJuE4E) | [My Fantastic Fan](https://open.spotify.com/album/2RkgmYjVUP7PS9JjziLj8U) | 3:05 | 2022-11-14 |  |
 | [Next To The Fan](https://open.spotify.com/track/4YYTCd3XD5P4U7o3HNX7Tr) | [Soundiescape](https://open.spotify.com/artist/5DaXk2jDrc8Ohsj4oVXR4B) | [Your Biggest Fan](https://open.spotify.com/album/3Z03gGuuXpiML1L3UZb17M) | 2:38 | 2023-03-23 |  |
-| [Nodyssey Box Fan](https://open.spotify.com/track/1wT3L7MmjJ3oVKMggs9FDC) | [Emotional Support Fan](https://open.spotify.com/artist/6MmL3GAvpQHHIKryoi4eIf) | [Soft Room Breeze](https://open.spotify.com/album/6Kj8iBUaP3LQxCenwuqcMJ) | 3:16 | 2024-02-21 |  |
+| [Nodyssey Box Fan](https://open.spotify.com/track/1wT3L7MmjJ3oVKMggs9FDC) | [Emotional Support Fan](https://open.spotify.com/artist/6MmL3GAvpQHHIKryoi4eIf) | [Soft Room Breeze](https://open.spotify.com/album/6Kj8iBUaP3LQxCenwuqcMJ) | 3:16 | 2024-02-21 | 2024-07-07 |
 | [Noise For Inner Peace](https://open.spotify.com/track/1HCnXHUQlW2AAEnwjJPGUU) | [Abandoned Sound](https://open.spotify.com/artist/2YDSEjq5ow5wHCgwnMbK0f) | [Calming Fan Noise](https://open.spotify.com/album/26pzGPKJEOtZbLzpbOKt4H) | 3:07 | 2023-05-05 | 2023-10-20 |
 | [Noises of Fan](https://open.spotify.com/track/3c2P05qBjXQrwRt2yT0gkh) | [Hair Dryer Sounds Collection](https://open.spotify.com/artist/4vKU8aFv9gOtjNnQ78SmZE) | [Hair Dryer Sound Noises](https://open.spotify.com/album/5GMXsaxBa6sp74OU8ggxuR) | 1:03 | 2022-07-29 | 2022-12-08 |
 | [Noisy Fan](https://open.spotify.com/track/7DHu5FqINNn4sUCpK00XuC) | [Noises Of Life](https://open.spotify.com/artist/3Z3rY8ZEQwe3mgMoDzqTWi) | [Oven Fans](https://open.spotify.com/album/7BR8pciWteOsfiYwES6N78) | 1:46 | 2022-07-29 | 2022-12-08 |

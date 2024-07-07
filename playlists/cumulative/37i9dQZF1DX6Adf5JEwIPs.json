@@ -103407,6 +103407,24 @@
     },
     {
       "album": {
+        "name": "Yo Fui El Chore",
+        "url": "https://open.spotify.com/album/4JmgmHfeedoSowGlj5DHSt"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205203,
+      "name": "Yo Fui El Chore",
+      "url": "https://open.spotify.com/track/4uw2bKb0xVZExmNU5DyKWo"
+    },
+    {
+      "album": {
         "name": "Yo Fui El Plebe (Con Guitarras)",
         "url": "https://open.spotify.com/album/1UKqUA49Sn8FkZ9CZbpbPW"
       },

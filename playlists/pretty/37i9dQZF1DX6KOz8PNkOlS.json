@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 461890,
+  "num_followers": 462000,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,26 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 279573,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "What Kinda Music",
         "url": "https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI"
       },
@@ -79,26 +99,6 @@
       "duration_ms": 300990,
       "name": "Nightrider",
       "url": "https://open.spotify.com/track/5TgZ7lOUugOdabBcD9a6ud"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Oceans",
-        "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 279573,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
     },
     {
       "added_at": "2024-07-04 20:03:20",
@@ -629,22 +629,6 @@
       "url": "https://open.spotify.com/track/2n5xkzoCBGMRqmmXmfJ06R"
     },
     {
-      "added_at": "2023-04-05 03:20:02",
-      "album": {
-        "name": "For Granted",
-        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Where Do You Go",
@@ -659,6 +643,22 @@
       "duration_ms": 237493,
       "name": "Where Do You Go",
       "url": "https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1"
+    },
+    {
+      "added_at": "2023-04-05 03:20:02",
+      "album": {
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
       "added_at": "2021-10-28 19:01:32",
@@ -1069,6 +1069,22 @@
       "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
     },
     {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Apollonia",
+        "url": "https://open.spotify.com/album/5HFw44c3URCTNzgCAM47wu"
+      },
+      "artists": [
+        {
+          "name": "Garden City Movement",
+          "url": "https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa"
+        }
+      ],
+      "duration_ms": 158314,
+      "name": "Foreign Affair",
+      "url": "https://open.spotify.com/track/6705wcrwrj3Z9QvvsCQpng"
+    },
+    {
       "added_at": "2023-03-22 17:53:19",
       "album": {
         "name": "SMT",
@@ -1085,20 +1101,36 @@
       "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2023-04-11 00:45:41",
       "album": {
-        "name": "Apollonia",
-        "url": "https://open.spotify.com/album/5HFw44c3URCTNzgCAM47wu"
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
       },
       "artists": [
         {
-          "name": "Garden City Movement",
-          "url": "https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa"
+          "name": "Eddie Chacon",
+          "url": "https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD"
         }
       ],
-      "duration_ms": 158314,
-      "name": "Foreign Affair",
-      "url": "https://open.spotify.com/track/6705wcrwrj3Z9QvvsCQpng"
+      "duration_ms": 190647,
+      "name": "Step By Step",
+      "url": "https://open.spotify.com/track/51D2Mv36d2Asm2CnyL1CfK"
+    },
+    {
+      "added_at": "2022-02-09 03:25:54",
+      "album": {
+        "name": "Drifting Out EP",
+        "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 219312,
+      "name": "Drifting Out",
+      "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1119,38 +1151,6 @@
       "duration_ms": 228786,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK"
-    },
-    {
-      "added_at": "2022-02-09 03:25:54",
-      "album": {
-        "name": "Drifting Out EP",
-        "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 219312,
-      "name": "Drifting Out",
-      "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
-    },
-    {
-      "added_at": "2023-04-11 00:45:41",
-      "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
-      },
-      "artists": [
-        {
-          "name": "Eddie Chacon",
-          "url": "https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD"
-        }
-      ],
-      "duration_ms": 190647,
-      "name": "Step By Step",
-      "url": "https://open.spotify.com/track/51D2Mv36d2Asm2CnyL1CfK"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1257,6 +1257,22 @@
       "url": "https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW"
     },
     {
+      "added_at": "2023-11-23 03:41:20",
+      "album": {
+        "name": "say your way",
+        "url": "https://open.spotify.com/album/5YLlcvhZZp9hGzRCEMNYE7"
+      },
+      "artists": [
+        {
+          "name": "Mohsin Zaman",
+          "url": "https://open.spotify.com/artist/5bV84EFrcgU2xCZSEuvDAs"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "say your way",
+      "url": "https://open.spotify.com/track/71xOYIx9otfe8g77Lbd6Gx"
+    },
+    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Home Cooking",
@@ -1291,22 +1307,6 @@
       "duration_ms": 161229,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS"
-    },
-    {
-      "added_at": "2023-11-23 03:41:20",
-      "album": {
-        "name": "say your way",
-        "url": "https://open.spotify.com/album/5YLlcvhZZp9hGzRCEMNYE7"
-      },
-      "artists": [
-        {
-          "name": "Mohsin Zaman",
-          "url": "https://open.spotify.com/artist/5bV84EFrcgU2xCZSEuvDAs"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "say your way",
-      "url": "https://open.spotify.com/track/71xOYIx9otfe8g77Lbd6Gx"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Ooh La La",
-        "url": "https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 228213,
-      "name": "Ooh La La",
-      "url": "https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "A-Game",
         "url": "https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 191927,
       "name": "A-Game",
       "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Ooh La La",
+        "url": "https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 228213,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8"
     },
     {
       "added_at": "2023-08-31 18:57:48",
@@ -1445,6 +1445,22 @@
       "url": "https://open.spotify.com/track/6TG6lpCX4tz0Bg2WUIh8Y3"
     },
     {
+      "added_at": "2024-06-26 18:41:25",
+      "album": {
+        "name": "Love Potion",
+        "url": "https://open.spotify.com/album/04LlcT4cTidlpzQc3rHxOH"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Love Potion",
+      "url": "https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU"
+    },
+    {
       "added_at": "2022-01-13 02:46:07",
       "album": {
         "name": "Double Dinners",
@@ -1477,22 +1493,6 @@
       "url": "https://open.spotify.com/track/47kpVEKInbOhPzXjJa6MAc"
     },
     {
-      "added_at": "2023-09-13 16:09:15",
-      "album": {
-        "name": "Grass is Grass",
-        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
-      },
-      "artists": [
-        {
-          "name": "Bowes Road Band",
-          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Grass is Grass",
-      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "We Had A Good Time",
@@ -1507,6 +1507,22 @@
       "duration_ms": 190084,
       "name": "We Had A Good Time",
       "url": "https://open.spotify.com/track/0QQVRQ99PRD0c3dL1bMQ1J"
+    },
+    {
+      "added_at": "2023-09-13 16:09:15",
+      "album": {
+        "name": "Grass is Grass",
+        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
+      },
+      "artists": [
+        {
+          "name": "Bowes Road Band",
+          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Grass is Grass",
+      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1543,22 +1559,6 @@
       "duration_ms": 192000,
       "name": "Sinking",
       "url": "https://open.spotify.com/track/4BvhCD3CgNX6Dlw6fBD3L4"
-    },
-    {
-      "added_at": "2024-06-26 18:41:25",
-      "album": {
-        "name": "Love Potion",
-        "url": "https://open.spotify.com/album/04LlcT4cTidlpzQc3rHxOH"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Love Potion",
-      "url": "https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU"
     },
     {
       "added_at": "2021-10-15 03:01:31",

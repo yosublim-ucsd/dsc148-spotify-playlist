@@ -18569,6 +18569,24 @@
     },
     {
       "album": {
+        "name": "Facilito",
+        "url": "https://open.spotify.com/album/4xq1XzdCfsne5FWlub005z"
+      },
+      "artists": [
+        {
+          "name": "Mike Soto",
+          "url": "https://open.spotify.com/artist/0QuTRSu03o1Z4rmnyme9YV"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186986,
+      "name": "Facilito",
+      "url": "https://open.spotify.com/track/5KCbtEjKyGa5NxDYuoqMPt"
+    },
+    {
+      "album": {
         "name": "lovemesooner",
         "url": "https://open.spotify.com/album/0fxjoSnIWH8Mu5zqLUsp4B"
       },
@@ -26480,6 +26498,24 @@
       "duration_ms": 233712,
       "name": "Hot Air Balloon",
       "url": "https://open.spotify.com/track/2MHMVMz0tQ7kbIH9vQTtH7"
+    },
+    {
+      "album": {
+        "name": "hot glue",
+        "url": "https://open.spotify.com/album/6sQp6GjNi2JFDFZYw7rxOl"
+      },
+      "artists": [
+        {
+          "name": "dye-dye",
+          "url": "https://open.spotify.com/artist/1cJ2aAEUhYlxfOLRZDnUVp"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215533,
+      "name": "hot glue",
+      "url": "https://open.spotify.com/track/0njZDG7JendliN8qs2hlkp"
     },
     {
       "album": {
@@ -39254,6 +39290,24 @@
       "duration_ms": 186000,
       "name": "MOTION",
       "url": "https://open.spotify.com/track/7cQM2G5MT80a0xmv4Dcr8x"
+    },
+    {
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/78uOonyzbFw5YE7ql7tcmw"
+      },
+      "artists": [
+        {
+          "name": "Mayjah kyng",
+          "url": "https://open.spotify.com/artist/5bhtzcECLSPTxIUjDz3Lsr"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214172,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/0EFtWzpREMBLzz6pTb057Q"
     },
     {
       "album": {
@@ -66954,6 +67008,28 @@
       "duration_ms": 182622,
       "name": "You Don't Wanna Leave it Alone",
       "url": "https://open.spotify.com/track/5CeBqKJKkZtllzY5FaMPdd"
+    },
+    {
+      "album": {
+        "name": "Steel Breeze 2024 (Chatfield Remixes)",
+        "url": "https://open.spotify.com/album/6WJjsen0UazxB9iVmkSG64"
+      },
+      "artists": [
+        {
+          "name": "Steel Breeze",
+          "url": "https://open.spotify.com/artist/2ETBWoTMAG8RXkzZlnFtPi"
+        },
+        {
+          "name": "David Chatfield",
+          "url": "https://open.spotify.com/artist/0FQDAcgizU71bs2u0jQri4"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259963,
+      "name": "You Don't Want Me Anymore (Acoustic) [Chatfield Remix]",
+      "url": "https://open.spotify.com/track/7aqKLHzMeaiBHjd3Hld0Pq"
     },
     {
       "album": {

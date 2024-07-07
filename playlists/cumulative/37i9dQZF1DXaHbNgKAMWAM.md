@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-262 songs - 15 hr 35 min
+263 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Love in the Milky Way Cafe](https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [1.0](https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c) | 2:52 | 2022-05-11 | 2024-06-22 |
 | [Love is You](https://open.spotify.com/track/1wtmCl6XTMaJVQmHpVI4Gu) | [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [Love is You](https://open.spotify.com/album/208XzKaQPMlzkOimZbCG9E) | 2:41 | 2022-05-11 | 2022-07-19 |
 | [Love Lee](https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Love Lee](https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF) | 2:59 | 2023-09-06 | 2024-03-09 |
+| [LOVE RECIPE](https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [WONDO Project : LOVE RECIPE, Vol.1](https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7) | 3:51 | 2024-07-04 |  |
 | [Love So Beautiful](https://open.spotify.com/track/1Q7vzuuqv96muUUBDgFNoI) | [g1nger](https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs) | [The Midnight Studio, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/05RRa78WXts7BSKxNHFT7a) | 3:29 | 2024-06-28 |  |
 | [LOVE SO SWEET \(with Ella\)](https://open.spotify.com/track/1532yzvvrfUbnNcsu0AG6f) | [PARK JUNG MIN](https://open.spotify.com/artist/0KXhqAyu4VVMYvs36x2KgD), [Ella](https://open.spotify.com/artist/2ZQY8HKMtEjGdxgcuW2574) | [LOVE SO SWEET](https://open.spotify.com/album/3ZpQ2mLI7rE2uvUWfqpUcg) | 4:29 | 2022-07-08 | 2022-07-10 |
 | [Love Song](https://open.spotify.com/track/0HsCULcKWeaF2WdKMTTx8q) | [Kei](https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc) | [Tale of the Nine Tailed 1938, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/1Ak7K5Pb4PFpGizV46S8iP) | 3:09 | 2023-07-07 |  |
@@ -210,7 +211,7 @@
 | [Tale](https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1) | 3:47 | 2022-07-08 | 2024-04-19 |
 | [Tale 동화](https://open.spotify.com/track/1O6gfRnuWW3jRG77Tn8gHW) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/3vzUq0hnovgWpP6yfgGtXB) | 3:47 | 2022-05-11 | 2022-07-29 |
 | [Tell Me You Love Me](https://open.spotify.com/track/1nEmHBLW5KexRCAPnDN5vg) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [The Law Cafe \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/2G1M07vfp7Qjd6MNkUP6MR) | 3:34 | 2022-10-12 | 2023-01-26 |
-| [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 | 2022-05-11 |  |
+| [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 | 2022-05-11 | 2024-07-07 |
 | [The Best Present \(Prod\. by PSY\)](https://open.spotify.com/track/12nafIbZ2LAVfht3WMy33b) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [The Best Present](https://open.spotify.com/album/5IhMtglLwKtJWeHCz4KcA4) | 3:59 | 2022-05-11 | 2022-07-21 |
 | [The chair](https://open.spotify.com/track/2MXwcdPjTG3CE4NcQIOQgt) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Object](https://open.spotify.com/album/5ax2uYwKJV6BG3JaHAt2kq) | 3:53 | 2023-02-03 | 2023-03-18 |
 | [The Film](https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [The Film](https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq) | 3:16 | 2023-05-02 | 2023-05-15 |

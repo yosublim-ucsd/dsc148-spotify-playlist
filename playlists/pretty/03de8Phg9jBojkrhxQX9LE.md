@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,645 likes - 156 songs - 8 hr 56 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,650 likes - 156 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 93 | [GO!](https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [Sam Bruno](https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb) | [GO!](https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V) | 3:06 |
 | 94 | [Forever](https://open.spotify.com/track/3dmGvZg0jo5uZb3mHQw0gL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [Forever](https://open.spotify.com/album/2b1e9L6f4wMPmSeTJLwaZ6) | 2:34 |
 | 95 | [Bailar \(I Want To Dance\)](https://open.spotify.com/track/3d0UKeuszGC9KzANkJKdSG) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Bailar \(I Want To Dance\)](https://open.spotify.com/album/3xXE44icrIkMEPgpIQNlKi) | 3:17 |
-| 96 | [Nasty \- Match My Peak Remix](https://open.spotify.com/track/2izTSBSDm9dEHojdOaZD1j) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Match My Freak EP](https://open.spotify.com/album/1tDRvPJmMJhvYXbmVNMAXJ) | 2:39 |
+| 96 | [Nasty \(Match My Peak Remix\)](https://open.spotify.com/track/2izTSBSDm9dEHojdOaZD1j) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Match My Freak EP](https://open.spotify.com/album/1tDRvPJmMJhvYXbmVNMAXJ) | 2:39 |
 | 97 | [Breathe You In \(feat\. NORTH\)](https://open.spotify.com/track/2lvhedsuMeJOHvbY9zKJrh) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Breathe You In \(feat\. NORTH\)](https://open.spotify.com/album/31dM03FKgA4HluFTPiN2r5) | 4:05 |
 | 98 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 |
 | 99 | [Heartbreaker](https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Heartbreaker](https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl) | 3:50 |

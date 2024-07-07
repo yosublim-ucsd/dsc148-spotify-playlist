@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER MILLION LIVE!\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\nTHE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 17049,
+  "num_followers": 17056,
   "original_name": "THE IDOLM@STER MILLION LIVE! \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01",
   "owner": {
     "name": "Spotify",
@@ -1303,6 +1303,50 @@
     {
       "added_at": "2023-11-07 18:19:56",
       "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 03 Xs",
+        "url": "https://open.spotify.com/album/6bRm5kHYUxrQIsLhVUn5oX"
+      },
+      "artists": [
+        {
+          "name": "\u661f\u4e95\u7f8e\u5e0c (CV.\u9577\u8c37\u5ddd\u660e\u5b50)",
+          "url": "https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi"
+        },
+        {
+          "name": "\u8429\u539f\u96ea\u6b69 (CV.\u6d45\u5009\u674f\u7f8e)",
+          "url": "https://open.spotify.com/artist/6lisIikrxadnAUePgyzvdh"
+        },
+        {
+          "name": "Makoto Kikuchi (CV: Hiromi Hirata)",
+          "url": "https://open.spotify.com/artist/0BFGQalWMJTIDXhAeqcCYv"
+        },
+        {
+          "name": "Iori Minase (CV: Rie Kugimiya)",
+          "url": "https://open.spotify.com/artist/6B6buazGVRebZ48YqRHnqd"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "\u30e9\u30d3\u30c3\u30c8\u30d5\u30a1\u30fc",
+      "url": "https://open.spotify.com/track/1O0Pn9LLqFfbPfVaRD0Dpi"
+    },
+    {
+      "added_at": "2023-11-07 18:19:56",
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 04",
+        "url": "https://open.spotify.com/album/6J11xHMzVurnh6787kuCEc"
+      },
+      "artists": [
+        {
+          "name": "\u8c4a\u5ddd\u98a8\u82b1 (CV.\u672b\u67c4\u91cc\u6075)",
+          "url": "https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz"
+        }
+      ],
+      "duration_ms": 254893,
+      "name": "bitter sweet",
+      "url": "https://open.spotify.com/track/52GsSFv4NseYjXQW4v6vPO"
+    },
+    {
+      "added_at": "2023-11-07 18:19:56",
+      "album": {
         "name": "VOY@GER (\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u76e4)",
         "url": "https://open.spotify.com/album/5qK9kVY1VwTb2TfuK8oumE"
       },
@@ -1327,6 +1371,34 @@
     {
       "added_at": "2023-11-07 18:19:56",
       "album": {
+        "name": "Clover Days",
+        "url": "https://open.spotify.com/album/1ulBx1CY8eGJ8EtmuLp1EU"
+      },
+      "artists": [
+        {
+          "name": "\u77e2\u5439\u53ef\u5948 (CV.\u6728\u6238\u8863\u5439)",
+          "url": "https://open.spotify.com/artist/6yoMmG15xnhZrfYXL5sPUw"
+        },
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        },
+        {
+          "name": "\u7bb1\u5d0e\u661f\u68a8\u82b1 (CV.\u9ebb\u5009\u3082\u3082)",
+          "url": "https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2"
+        },
+        {
+          "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
+          "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "Clover Days",
+      "url": "https://open.spotify.com/track/2Sr5PN3zTM0tgQydeMeCQ7"
+    },
+    {
+      "added_at": "2023-11-07 18:19:56",
+      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER SEASON",
         "url": "https://open.spotify.com/album/2GmyOoF9xIs414VXoGQ3zN"
       },
@@ -1339,6 +1411,34 @@
       "duration_ms": 222386,
       "name": "\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30fb\u30af\u30e9\u30ea\u30c6\u30a3",
       "url": "https://open.spotify.com/track/2yDyu8sUI1gZ5RJFMR64KD"
+    },
+    {
+      "added_at": "2023-11-07 18:19:56",
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 10",
+        "url": "https://open.spotify.com/album/5Y49hqNoAuT0V33DeyHUnj"
+      },
+      "artists": [
+        {
+          "name": "Takane Shijou (CV: Yumi Hara)",
+          "url": "https://open.spotify.com/artist/0jByAMysntS3sv6vTCXNJl"
+        },
+        {
+          "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
+          "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
+        },
+        {
+          "name": "\u5fb3\u5ddd\u307e\u3064\u308a (CV.\u8acf\u8a2a\u5f69\u82b1)",
+          "url": "https://open.spotify.com/artist/2uTw4D9HmyZI0NmjCIJ7Mk"
+        },
+        {
+          "name": "Miya Miyao (CV: Choucho Kiritani)",
+          "url": "https://open.spotify.com/artist/2MenDm4cLUCQkODm7Zkbar"
+        }
+      ],
+      "duration_ms": 287293,
+      "name": "\u77b3\u306e\u4e2d\u306e\u30b7\u30ea\u30a6\u30b9",
+      "url": "https://open.spotify.com/track/0eH3a5sDLfG8eXsdQIggQF"
     },
     {
       "added_at": "2023-11-07 18:19:56",
@@ -1371,34 +1471,6 @@
     {
       "added_at": "2023-11-07 18:19:56",
       "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER WAVE 03 Xs",
-        "url": "https://open.spotify.com/album/6bRm5kHYUxrQIsLhVUn5oX"
-      },
-      "artists": [
-        {
-          "name": "\u661f\u4e95\u7f8e\u5e0c (CV.\u9577\u8c37\u5ddd\u660e\u5b50)",
-          "url": "https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi"
-        },
-        {
-          "name": "\u8429\u539f\u96ea\u6b69 (CV.\u6d45\u5009\u674f\u7f8e)",
-          "url": "https://open.spotify.com/artist/6lisIikrxadnAUePgyzvdh"
-        },
-        {
-          "name": "Makoto Kikuchi (CV: Hiromi Hirata)",
-          "url": "https://open.spotify.com/artist/0BFGQalWMJTIDXhAeqcCYv"
-        },
-        {
-          "name": "Iori Minase (CV: Rie Kugimiya)",
-          "url": "https://open.spotify.com/artist/6B6buazGVRebZ48YqRHnqd"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "\u30e9\u30d3\u30c3\u30c8\u30d5\u30a1\u30fc",
-      "url": "https://open.spotify.com/track/1O0Pn9LLqFfbPfVaRD0Dpi"
-    },
-    {
-      "added_at": "2023-11-07 18:19:56",
-      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER SEASON",
         "url": "https://open.spotify.com/album/7xnOD6rZxXAaEzf5hLiut6"
       },
@@ -1423,22 +1495,6 @@
       "duration_ms": 190333,
       "name": "KING of SPADE",
       "url": "https://open.spotify.com/track/2Z1BbYVuMtUjaLwnPCOl0D"
-    },
-    {
-      "added_at": "2023-11-07 18:19:56",
-      "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 04",
-        "url": "https://open.spotify.com/album/6J11xHMzVurnh6787kuCEc"
-      },
-      "artists": [
-        {
-          "name": "\u8c4a\u5ddd\u98a8\u82b1 (CV.\u672b\u67c4\u91cc\u6075)",
-          "url": "https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz"
-        }
-      ],
-      "duration_ms": 254893,
-      "name": "bitter sweet",
-      "url": "https://open.spotify.com/track/52GsSFv4NseYjXQW4v6vPO"
     },
     {
       "added_at": "2023-11-07 18:19:56",
@@ -1655,54 +1711,6 @@
       "duration_ms": 301093,
       "name": "\u521d\u604b\u30d0\u30bf\u30d5\u30e9\u30a4",
       "url": "https://open.spotify.com/track/1oruUGPhDKQpgrJSDTrQub"
-    },
-    {
-      "added_at": "2023-11-07 18:19:56",
-      "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER DREAMERS 06",
-        "url": "https://open.spotify.com/album/2ZZRcVg8G2U1HWNw8PxFAP"
-      },
-      "artists": [
-        {
-          "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
-          "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
-        },
-        {
-          "name": "Kotoha Tanaka (CV: Risa Taneda)",
-          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
-        }
-      ],
-      "duration_ms": 263386,
-      "name": "Understand? Understand!",
-      "url": "https://open.spotify.com/track/5Njh2fLFh7MuHzdd9lxODP"
-    },
-    {
-      "added_at": "2023-11-07 18:19:56",
-      "album": {
-        "name": "Clover Days",
-        "url": "https://open.spotify.com/album/1ulBx1CY8eGJ8EtmuLp1EU"
-      },
-      "artists": [
-        {
-          "name": "\u77e2\u5439\u53ef\u5948 (CV.\u6728\u6238\u8863\u5439)",
-          "url": "https://open.spotify.com/artist/6yoMmG15xnhZrfYXL5sPUw"
-        },
-        {
-          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
-          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
-        },
-        {
-          "name": "\u7bb1\u5d0e\u661f\u68a8\u82b1 (CV.\u9ebb\u5009\u3082\u3082)",
-          "url": "https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2"
-        },
-        {
-          "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
-          "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "Clover Days",
-      "url": "https://open.spotify.com/track/2Sr5PN3zTM0tgQydeMeCQ7"
     }
   ],
   "unique_name": "THE IDOLM@STER MILLION LIVE! \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01",

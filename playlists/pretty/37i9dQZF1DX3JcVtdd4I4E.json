@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom of pop.",
-  "num_followers": 6192,
+  "num_followers": 6205,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Pretty Boy",
-        "url": "https://open.spotify.com/album/4gEi05Cy4bNjoa3Dme7tH5"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 231253,
-      "name": "Pretty Boy",
-      "url": "https://open.spotify.com/track/557jdZsn0FAltJXgenminf"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Everytime We Touch",
         "url": "https://open.spotify.com/album/5mPA3SoZTILtVck7uCX4wy"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 141428,
       "name": "Everytime We Touch",
       "url": "https://open.spotify.com/track/69tyRQYLN4gy9sR2xr4FQA"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/4gEi05Cy4bNjoa3Dme7tH5"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 231253,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/557jdZsn0FAltJXgenminf"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Happy Again",
-        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 154125,
-      "name": "Happy Again",
-      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 218454,
       "name": "Falling",
       "url": "https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 154125,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "SHE-REX",
-        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
-      },
-      "artists": [
-        {
-          "name": "eee gee",
-          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
-        }
-      ],
-      "duration_ms": 232465,
-      "name": "promise to pick up the phone",
-      "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Hungover (Head In A Can)",
         "url": "https://open.spotify.com/album/5QwgmdXMl8OHc4S7CwzWRB"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 224077,
       "name": "Hungover (Head In A Can)",
       "url": "https://open.spotify.com/track/6cOisxrHjB34qn81ZOfwhQ"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "SHE-REX",
+        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
+      },
+      "artists": [
+        {
+          "name": "eee gee",
+          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
+        }
+      ],
+      "duration_ms": 232465,
+      "name": "promise to pick up the phone",
+      "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "I Should\u2019ve Danced More",
-        "url": "https://open.spotify.com/album/23ZYTwf4AeZozJU3mRNC0o"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 201026,
-      "name": "I Should\u2019ve Danced More",
-      "url": "https://open.spotify.com/track/7vCZ1vLPbbTG42dPHg0PC9"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/7eB0QLTXvh52cnDFt0Ppry"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 175000,
       "name": "One Day",
       "url": "https://open.spotify.com/track/0MGC7gE67o7QluGjtMGLtA"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "I Should\u2019ve Danced More",
+        "url": "https://open.spotify.com/album/23ZYTwf4AeZozJU3mRNC0o"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 201026,
+      "name": "I Should\u2019ve Danced More",
+      "url": "https://open.spotify.com/track/7vCZ1vLPbbTG42dPHg0PC9"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Same Again (For Love)",
-        "url": "https://open.spotify.com/album/2wgTwcm3eDWKgCkr33nTnR"
-      },
-      "artists": [
-        {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
-        }
-      ],
-      "duration_ms": 199969,
-      "name": "Same Again (For Love)",
-      "url": "https://open.spotify.com/track/5gbVnjdHLilM1rCoXMiaKT"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "And Then Came You",
         "url": "https://open.spotify.com/album/4hq1E3eP2GWZ7kdddv7MDS"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 195909,
       "name": "And Then Came You",
       "url": "https://open.spotify.com/track/2CuPyOrXSVSxFCpW0TjzdI"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Same Again (For Love)",
+        "url": "https://open.spotify.com/album/2wgTwcm3eDWKgCkr33nTnR"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 199969,
+      "name": "Same Again (For Love)",
+      "url": "https://open.spotify.com/track/5gbVnjdHLilM1rCoXMiaKT"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "For The Show",
-        "url": "https://open.spotify.com/album/4GDuQ03hhnpE0JeQyVkXf3"
+        "name": "Lupins In Blue",
+        "url": "https://open.spotify.com/album/5h0x1dJtmfnVwVBY3rNNyc"
       },
       "artists": [
         {
-          "name": "Melanie Wehbe",
-          "url": "https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn"
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
         }
       ],
-      "duration_ms": 170240,
-      "name": "For The Show",
-      "url": "https://open.spotify.com/track/5wc1w2XdoMEUz9IxEalzO7"
+      "duration_ms": 226672,
+      "name": "Lupins In Blue",
+      "url": "https://open.spotify.com/track/1JDepuBvpnzV4BLIPvA2re"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Lupins In Blue",
-        "url": "https://open.spotify.com/album/5h0x1dJtmfnVwVBY3rNNyc"
+        "name": "For The Show",
+        "url": "https://open.spotify.com/album/4GDuQ03hhnpE0JeQyVkXf3"
       },
       "artists": [
         {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+          "name": "Melanie Wehbe",
+          "url": "https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn"
         }
       ],
-      "duration_ms": 226672,
-      "name": "Lupins In Blue",
-      "url": "https://open.spotify.com/track/1JDepuBvpnzV4BLIPvA2re"
+      "duration_ms": 170240,
+      "name": "For The Show",
+      "url": "https://open.spotify.com/track/5wc1w2XdoMEUz9IxEalzO7"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/3TZWso2mrFcd6TiNnVT1Y1"
-      },
-      "artists": [
-        {
-          "name": "J\u00c1NA",
-          "url": "https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F"
-        }
-      ],
-      "duration_ms": 247886,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/6nuMBxZE3hpqJWejq96n4p"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Effort",
         "url": "https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 151947,
       "name": "Effort",
       "url": "https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/3TZWso2mrFcd6TiNnVT1Y1"
+      },
+      "artists": [
+        {
+          "name": "J\u00c1NA",
+          "url": "https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F"
+        }
+      ],
+      "duration_ms": 247886,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/6nuMBxZE3hpqJWejq96n4p"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "I want it bad",
-        "url": "https://open.spotify.com/album/3r0rOGXSz7RSZ5dhMpxNo1"
-      },
-      "artists": [
-        {
-          "name": "Dottie Andersson",
-          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
-        }
-      ],
-      "duration_ms": 152706,
-      "name": "I want it bad",
-      "url": "https://open.spotify.com/track/0vd63b6Tyq3iQeORinVPzj"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "The Ick",
         "url": "https://open.spotify.com/album/4Y2bMtjeJhl8ERBECy7MCN"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 158987,
       "name": "The Ick",
       "url": "https://open.spotify.com/track/4axK3wmqAS5kFlbFfxr4id"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "I want it bad",
+        "url": "https://open.spotify.com/album/3r0rOGXSz7RSZ5dhMpxNo1"
+      },
+      "artists": [
+        {
+          "name": "Dottie Andersson",
+          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
+        }
+      ],
+      "duration_ms": 152706,
+      "name": "I want it bad",
+      "url": "https://open.spotify.com/track/0vd63b6Tyq3iQeORinVPzj"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Super 8",
-        "url": "https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq"
-      },
-      "artists": [
-        {
-          "name": "Zikai",
-          "url": "https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn"
-        }
-      ],
-      "duration_ms": 178454,
-      "name": "Super 8",
-      "url": "https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Ego",
         "url": "https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 172526,
       "name": "Ego",
       "url": "https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Again and Again",
+        "url": "https://open.spotify.com/album/47JRk1CbVTPi04WNz7uU9Z"
+      },
+      "artists": [
+        {
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Again and Again",
+      "url": "https://open.spotify.com/track/0AzidKkUPGyBypvcwuKp0x"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Again and Again",
-        "url": "https://open.spotify.com/album/47JRk1CbVTPi04WNz7uU9Z"
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq"
       },
       "artists": [
         {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+          "name": "Zikai",
+          "url": "https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn"
         }
       ],
-      "duration_ms": 174560,
-      "name": "Again and Again",
-      "url": "https://open.spotify.com/track/0AzidKkUPGyBypvcwuKp0x"
+      "duration_ms": 178454,
+      "name": "Super 8",
+      "url": "https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs"
     }
   ],
   "unique_name": "GRL PWR",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: BABYMONSTER\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,669 likes - 279 songs - 15 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,710 likes - 279 songs - 15 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 21 | [SHOCK](https://open.spotify.com/track/0F2s3Lc7LeAlt2w7OokIoL) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [WITNESS](https://open.spotify.com/album/5Jx6O54pZxFGlMaeO25FWt) | 3:08 |
 | 22 | [LOVE](https://open.spotify.com/track/1ENmb29usnkzlDvAqGnR9f) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [SLO](https://open.spotify.com/artist/0OxLdB5E14KIM16YBcJ3sj) | [17 Diary](https://open.spotify.com/album/3233tcfha39MjAxjcllUJP) | 2:39 |
 | 23 | [ANIYA](https://open.spotify.com/track/4Q0UhYltYUyj2hhnAXaL1k) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [ANIYA](https://open.spotify.com/album/70Bdhmg4VhcQqK2gy9PHhY) | 2:56 |
-| 24 | [Not Yet](https://open.spotify.com/track/4gXjJgsJTxHXEFdGHapPsV) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Not Yet](https://open.spotify.com/album/4T12xPJBuoLNIrrouI2M1V) | 3:50 |
+| 24 | [Not Yet](https://open.spotify.com/track/4gXjJgsJTxHXEFdGHapPsV) | [Kuonechan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Not Yet](https://open.spotify.com/album/4T12xPJBuoLNIrrouI2M1V) | 3:50 |
 | 25 | [Your Chanlan](https://open.spotify.com/track/1KnwR3XBfdGFXhu7WTMLi7) | [HWAKIN](https://open.spotify.com/artist/63UJk3txE5VQ7iEU1TkLs4) | [Your Chanlan](https://open.spotify.com/album/59suPKd7etgl5tIzed4wyk) | 6:25 |
 | 26 | [Nabiya](https://open.spotify.com/track/7IEiihy4Ua765KQui4MRx3) | [Lazybone](https://open.spotify.com/artist/6xP2saE1VcgnPlroMk0F8k) | [Nabiya](https://open.spotify.com/album/4BllcwMyrvmvyxQfFQxrNt) | 2:37 |
 | 27 | [SEROTONIN](https://open.spotify.com/track/1HRJkKOY3sDx6ELjasWIxE) | [NECTA](https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U) | [SEROTONIN](https://open.spotify.com/album/5RNFZGKdcv3CWhUKMNs7AG) | 2:50 |

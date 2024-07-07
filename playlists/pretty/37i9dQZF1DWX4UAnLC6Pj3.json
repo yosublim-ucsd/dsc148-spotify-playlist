@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Luis Alfonso Partida El Yaki en portada.",
-  "num_followers": 1219111,
+  "num_followers": 1219364,
   "original_name": "Banda 2024",
   "owner": {
     "name": "Spotify",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
-        "name": "El T\u00f3xico",
-        "url": "https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "El T\u00f3xico",
-      "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
-    },
-    {
-      "added_at": "2024-06-28 04:45:36",
-      "album": {
         "name": "Solo Que Lo Dudes",
         "url": "https://open.spotify.com/album/0sPBKXvkwTzVTqLotS22OP"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 159397,
       "name": "Solo Que Lo Dudes",
       "url": "https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx"
+    },
+    {
+      "added_at": "2024-06-28 04:45:36",
+      "album": {
+        "name": "El T\u00f3xico",
+        "url": "https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "El T\u00f3xico",
+      "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
     },
     {
       "added_at": "2024-06-28 04:45:36",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 152823,
+      "name": "Me Dej\u00e9 Ir Con Todo",
+      "url": "https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie"
+    },
+    {
+      "added_at": "2024-06-28 04:45:36",
+      "album": {
         "name": "Bien Positivo",
         "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 139668,
       "name": "Cuando Andaba Recio (El Cholo)",
       "url": "https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn"
-    },
-    {
-      "added_at": "2024-06-28 04:45:36",
-      "album": {
-        "name": "PUNTO Y APARTE",
-        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 152823,
-      "name": "Me Dej\u00e9 Ir Con Todo",
-      "url": "https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie"
     },
     {
       "added_at": "2024-06-28 04:45:36",
@@ -1299,8 +1299,8 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
-        "name": "En Tu Perra Vida",
-        "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/2H0L8qCkkKasqEVdVEbhKs"
       },
       "artists": [
         {
@@ -1308,13 +1308,13 @@
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
         }
       ],
-      "duration_ms": 238677,
-      "name": "En Tu Perra Vida",
-      "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
+      "duration_ms": 208413,
+      "name": "Entre Botellas",
+      "url": "https://open.spotify.com/track/5cwSbUPG0HoiaAyuGV5tgS"
     },
     {
       "added_at": "2024-06-28 04:45:36",
@@ -1431,8 +1431,8 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
-        "name": "Entre Botellas",
-        "url": "https://open.spotify.com/album/2H0L8qCkkKasqEVdVEbhKs"
+        "name": "En Tu Perra Vida",
+        "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
       },
       "artists": [
         {
@@ -1440,13 +1440,13 @@
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 208413,
-      "name": "Entre Botellas",
-      "url": "https://open.spotify.com/track/5cwSbUPG0HoiaAyuGV5tgS"
+      "duration_ms": 238677,
+      "name": "En Tu Perra Vida",
+      "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
     },
     {
       "added_at": "2024-06-28 04:45:36",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
-        "name": "Amor Clandestino",
-        "url": "https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 227696,
-      "name": "Amor Clandestino - Versi\u00f3n Regional Mexicano",
-      "url": "https://open.spotify.com/track/5qZaNA8FPzxPEtOaRj9zeY"
-    },
-    {
-      "added_at": "2024-06-28 04:45:36",
-      "album": {
         "name": "La Bolsita",
         "url": "https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB"
       },
@@ -1815,42 +1795,22 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
-        "name": "Si Esta Botella Hablara",
-        "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
+        "name": "Amor Clandestino",
+        "url": "https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         },
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 188511,
-      "name": "Si Esta Botella Hablara",
-      "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
-    },
-    {
-      "added_at": "2024-06-28 04:45:36",
-      "album": {
-        "name": "Pa\u2019Delante",
-        "url": "https://open.spotify.com/album/5Ib3fe33w4kda328f7SWc4"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        },
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 190906,
-      "name": "J\u00f3dete",
-      "url": "https://open.spotify.com/track/7qck3nLQcH6RFSSbHxMZg2"
+      "duration_ms": 227696,
+      "name": "Amor Clandestino - Versi\u00f3n Regional Mexicano",
+      "url": "https://open.spotify.com/track/5qZaNA8FPzxPEtOaRj9zeY"
     },
     {
       "added_at": "2024-06-28 04:45:36",
@@ -1879,6 +1839,26 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
+        "name": "Pa\u2019Delante",
+        "url": "https://open.spotify.com/album/5Ib3fe33w4kda328f7SWc4"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 190906,
+      "name": "J\u00f3dete",
+      "url": "https://open.spotify.com/track/7qck3nLQcH6RFSSbHxMZg2"
+    },
+    {
+      "added_at": "2024-06-28 04:45:36",
+      "album": {
         "name": "Ojitos Caf\u00e9s",
         "url": "https://open.spotify.com/album/4F3C6UQX3tnAsLD5nl2yCt"
       },
@@ -1895,6 +1875,26 @@
       "duration_ms": 190981,
       "name": "Ojitos Caf\u00e9s",
       "url": "https://open.spotify.com/track/2cJFOBctujdzBnCdrxZwWh"
+    },
+    {
+      "added_at": "2024-06-28 04:45:36",
+      "album": {
+        "name": "Si Esta Botella Hablara",
+        "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 188511,
+      "name": "Si Esta Botella Hablara",
+      "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
     },
     {
       "added_at": "2024-06-28 04:45:36",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
-        "name": "Cada Dia Me Gustas Mas",
-        "url": "https://open.spotify.com/album/48fYEdzeoaUg5S57ZDQvzS"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 166478,
-      "name": "Cada Dia Me Gustas Mas",
-      "url": "https://open.spotify.com/track/6S0LhPTWbTautF6mIm3idP"
-    },
-    {
-      "added_at": "2024-06-28 04:45:36",
-      "album": {
         "name": "No Hay Nada Mas Que Decir",
         "url": "https://open.spotify.com/album/4XtV81qI8tMRYNPt5WRPZF"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 212853,
       "name": "No Hay Nada Mas Que Decir",
       "url": "https://open.spotify.com/track/77sdqXAFOUBRo2ZpCIYGj4"
+    },
+    {
+      "added_at": "2024-06-28 04:45:36",
+      "album": {
+        "name": "Cada Dia Me Gustas Mas",
+        "url": "https://open.spotify.com/album/48fYEdzeoaUg5S57ZDQvzS"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 166478,
+      "name": "Cada Dia Me Gustas Mas",
+      "url": "https://open.spotify.com/track/6S0LhPTWbTautF6mIm3idP"
     },
     {
       "added_at": "2024-06-28 04:45:36",
@@ -2031,22 +2031,18 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
-        "name": "Te Esfumar\u00e1s",
-        "url": "https://open.spotify.com/album/3mmcWVrOrsAKfcgzJ95K8v"
+        "name": "Mis Gustos Mis Canciones (En Vivo)",
+        "url": "https://open.spotify.com/album/713vIeHuBR3osul4JUkdS2"
       },
       "artists": [
         {
           "name": "Luis Alfonso Partida El Yaki",
           "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 201066,
-      "name": "Te Esfumar\u00e1s",
-      "url": "https://open.spotify.com/track/1hLQwcyUVVUlIvsGuCoTmI"
+      "duration_ms": 163978,
+      "name": "Fruta Prohibida (En Vivo)",
+      "url": "https://open.spotify.com/track/7LePdYin7ESpRVRURBx16C"
     },
     {
       "added_at": "2024-06-28 04:45:36",
@@ -2103,22 +2099,6 @@
     {
       "added_at": "2024-06-28 04:45:36",
       "album": {
-        "name": "Te Tengo Que Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/2uHKjvMXmlfQeJ7xE2Byil"
-      },
-      "artists": [
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "Te Tengo Que Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/0J4wQRZjbEBUYuGMA3k6o0"
-    },
-    {
-      "added_at": "2024-06-28 04:45:36",
-      "album": {
         "name": "Angel Perdido",
         "url": "https://open.spotify.com/album/1CeEMvyWBAL4SObCiwOHke"
       },
@@ -2131,6 +2111,22 @@
       "duration_ms": 149636,
       "name": "Angel Perdido",
       "url": "https://open.spotify.com/track/0mdpls0Ist6KgYDSJj63TC"
+    },
+    {
+      "added_at": "2024-06-28 04:45:36",
+      "album": {
+        "name": "Te Tengo Que Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/2uHKjvMXmlfQeJ7xE2Byil"
+      },
+      "artists": [
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "Te Tengo Que Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/0J4wQRZjbEBUYuGMA3k6o0"
     },
     {
       "added_at": "2024-06-28 04:45:36",

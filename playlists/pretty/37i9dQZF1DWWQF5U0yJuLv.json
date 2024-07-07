@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 12980,
+  "num_followers": 12987,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -529,22 +529,6 @@
       "url": "https://open.spotify.com/track/5jEUZSxLX8EbuhcXncEnDE"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Inner Song",
-        "url": "https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 285880,
-      "name": "Arpeggi",
-      "url": "https://open.spotify.com/track/6OQTJ7llyUiejKFxR4MUuy"
-    },
-    {
       "added_at": "2023-02-17 01:29:01",
       "album": {
         "name": "Lost Horizons",
@@ -559,6 +543,22 @@
       "duration_ms": 368000,
       "name": "Nice Weather for Ducks",
       "url": "https://open.spotify.com/track/3z24ayp6vSCkN6btftwyet"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Inner Song",
+        "url": "https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 285880,
+      "name": "Arpeggi",
+      "url": "https://open.spotify.com/track/6OQTJ7llyUiejKFxR4MUuy"
     },
     {
       "added_at": "2024-02-02 05:56:54",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
     },
     {
-      "added_at": "2023-08-29 01:12:43",
-      "album": {
-        "name": "Familiar Flavours",
-        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
-      },
-      "artists": [
-        {
-          "name": "700 Feel",
-          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
-        }
-      ],
-      "duration_ms": 260202,
-      "name": "Familiar Flavours",
-      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Truffles Sprinkles",
@@ -839,6 +823,22 @@
       "duration_ms": 251333,
       "name": "Truffles Sprinkles",
       "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
+    },
+    {
+      "added_at": "2023-08-29 01:12:43",
+      "album": {
+        "name": "Familiar Flavours",
+        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
+      },
+      "artists": [
+        {
+          "name": "700 Feel",
+          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
+        }
+      ],
+      "duration_ms": 260202,
+      "name": "Familiar Flavours",
+      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Illusion Of Time",
-        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        },
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 262373,
-      "name": "Illusion Of Time",
-      "url": "https://open.spotify.com/track/3Bt8RJQH4KGo1OjyXATkC9"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
         "name": "Treat Em Right (Boards Of Canada Remix)",
         "url": "https://open.spotify.com/album/3biP5TpmbP1eQBjnMVo2cm"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 269987,
       "name": "Treat Em Right - Boards of Canada Remix Instrumental",
       "url": "https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Illusion Of Time",
+        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 262373,
+      "name": "Illusion Of Time",
+      "url": "https://open.spotify.com/track/3Bt8RJQH4KGo1OjyXATkC9"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
+        "name": "Puzzlewood",
+        "url": "https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq"
+      },
+      "artists": [
+        {
+          "name": "Plone",
+          "url": "https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41"
+        }
+      ],
+      "duration_ms": 150289,
+      "name": "Years and Elements",
+      "url": "https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
         "name": "Magnetica",
         "url": "https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 158620,
       "name": "The Red Line",
       "url": "https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Puzzlewood",
-        "url": "https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq"
-      },
-      "artists": [
-        {
-          "name": "Plone",
-          "url": "https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41"
-        }
-      ],
-      "duration_ms": 150289,
-      "name": "Years and Elements",
-      "url": "https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Yes! Come Parade With Us",
-        "url": "https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz"
-      },
-      "artists": [
-        {
-          "name": "Leafcutter John",
-          "url": "https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r"
-        }
-      ],
-      "duration_ms": 400160,
-      "name": "Doing The Beeston Bump",
-      "url": "https://open.spotify.com/track/3RBhQ7D3w60wUdt98R7SUB"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "lux_",
         "url": "https://open.spotify.com/album/6xhpUQ1gT0rvATP1QMmTDs"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 195960,
       "name": "lux_",
       "url": "https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Yes! Come Parade With Us",
+        "url": "https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz"
+      },
+      "artists": [
+        {
+          "name": "Leafcutter John",
+          "url": "https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r"
+        }
+      ],
+      "duration_ms": 400160,
+      "name": "Doing The Beeston Bump",
+      "url": "https://open.spotify.com/track/3RBhQ7D3w60wUdt98R7SUB"
     },
     {
       "added_at": "2023-07-28 21:27:55",
@@ -2141,22 +2141,6 @@
       "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Ikiru",
-        "url": "https://open.spotify.com/album/18fNJzLNa7AJfp96UnWZgj"
-      },
-      "artists": [
-        {
-          "name": "Thoma",
-          "url": "https://open.spotify.com/artist/4e8ExN8iJrXnycI51N1Cxb"
-        }
-      ],
-      "duration_ms": 223375,
-      "name": "Ikiru",
-      "url": "https://open.spotify.com/track/4DoD7xxnOmsxNyH57jue9y"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Comfort Chain",
@@ -2171,6 +2155,22 @@
       "duration_ms": 184363,
       "name": "Comfort Chain",
       "url": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Ikiru",
+        "url": "https://open.spotify.com/album/18fNJzLNa7AJfp96UnWZgj"
+      },
+      "artists": [
+        {
+          "name": "Thoma",
+          "url": "https://open.spotify.com/artist/4e8ExN8iJrXnycI51N1Cxb"
+        }
+      ],
+      "duration_ms": 223375,
+      "name": "Ikiru",
+      "url": "https://open.spotify.com/track/4DoD7xxnOmsxNyH57jue9y"
     },
     {
       "added_at": "2023-02-17 01:10:22",

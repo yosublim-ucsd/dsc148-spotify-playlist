@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Best of South Asian diaspora\. Cover: ZAYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,618 likes - 64 songs - 3 hr 24 min
+[](https://open.spotify.com/user/null) - 57,630 likes - 64 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

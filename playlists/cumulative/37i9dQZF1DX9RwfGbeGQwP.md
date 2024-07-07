@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,405 songs - 2 day 4 hr 55 min
+1,406 songs - 2 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,6 +543,7 @@
 | [hold your hand](https://open.spotify.com/track/7IUl4YGdZJOlggaY1SVMsq) | [Cargo Ship](https://open.spotify.com/artist/1WrXHKCzXwcYewHIHKKn9e) | [hold your hand](https://open.spotify.com/album/1z8O0HAD0YPkj041ZdeAFR) | 2:03 | 2023-08-03 |  |
 | [hollywood](https://open.spotify.com/track/4YRFVSoRT3GFyd0rPaUnhe) | [rchie](https://open.spotify.com/artist/3RtQcltuh6uzO6ilFGIKFI) | [hollywood](https://open.spotify.com/album/4NvozMjJNnXVtnhEPzKuhp) | 2:25 | 2022-01-27 | 2022-08-19 |
 | [Holy Smokes](https://open.spotify.com/track/0rQsaAlvPA5hJhOJKyUuUv) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [Holy Smokes](https://open.spotify.com/album/2NIMu0HL4nNuoXMagc9CJQ) | 1:31 | 2022-04-08 | 2022-07-15 |
+| [Honestly](https://open.spotify.com/track/5CzVTEr2Ue7Ac7CFKLp75Y) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Honestly](https://open.spotify.com/album/7q0tXoUWaZ2CYQX8itV794) | 2:07 | 2024-07-05 |  |
 | [Hong Kong Minute](https://open.spotify.com/track/3M0fRULm8Js8oHwiO9Cjod) | [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [Hong Kong Minute](https://open.spotify.com/album/3DLhD7vymFXPYWscCRM7yW) | 2:17 | 2022-01-27 | 2022-09-03 |
 | [hop skip and a jump](https://open.spotify.com/track/1ldyyMM61fKaSUiWnZNp03) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [hop skip and a jump](https://open.spotify.com/album/5sTmT31ZfaqAYldQrgrMza) | 2:31 | 2024-01-05 |  |
 | [Hope Of Tomorrow](https://open.spotify.com/track/2EeKsuMVApMdC69tQSJNd4) | [Starlies](https://open.spotify.com/artist/3ZXBbe1WF1PfwggpEOcips), [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7) | [Hope Of Tomorrow](https://open.spotify.com/album/0IO1P5OTt9SYvPLCmGlenM) | 2:38 | 2023-04-20 | 2023-10-13 |
@@ -866,7 +867,7 @@
 | [Nostalgia](https://open.spotify.com/track/4MfwBOK3adag7V3zPLsAYB) | [Rebornn.](https://open.spotify.com/artist/4AH2QR4gCcRgWWzJ1mn5pz) | [Nostalgia](https://open.spotify.com/album/2YrwIXcs62pL1yoekzlRRq) | 2:24 | 2022-11-11 | 2022-12-14 |
 | [Nostalgia](https://open.spotify.com/track/76heI7b5Q3qAGuFVU0Ht1B) | [Scarabeetz](https://open.spotify.com/artist/5Jh56uhWBGydHRgEwCMjqr) | [Nostalgia](https://open.spotify.com/album/16TubyiPR4fEgGFO7SBnK6) | 1:29 | 2022-05-13 | 2022-11-26 |
 | [Nostalgia](https://open.spotify.com/track/21huKjQlBFcumcRIwhFWG1) | [Teau](https://open.spotify.com/artist/6arVgorLsaKvsc3UfABGID), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Nostalgia](https://open.spotify.com/album/4HFk3XAwn2CwQb0i8Dw3xg) | 2:25 | 2022-11-25 | 2023-09-29 |
-| [Not Like This](https://open.spotify.com/track/7HY7caGt2kKJAtu756UcB8) | [Prince Enigma](https://open.spotify.com/artist/25Koobl2J39h8hlZzsT30t) | [Not Like This](https://open.spotify.com/album/7eWBzYLHIvD6Tj1JeG8NUX) | 2:43 | 2023-09-22 |  |
+| [Not Like This](https://open.spotify.com/track/7HY7caGt2kKJAtu756UcB8) | [Prince Enigma](https://open.spotify.com/artist/25Koobl2J39h8hlZzsT30t) | [Not Like This](https://open.spotify.com/album/7eWBzYLHIvD6Tj1JeG8NUX) | 2:43 | 2023-09-22 | 2024-07-07 |
 | [November Jam](https://open.spotify.com/track/7FQwK58IK5vKwEyLuZcsfo) | [Bauke Top](https://open.spotify.com/artist/5uE2MwBtAkezKgHl2QwJYX) | [222](https://open.spotify.com/album/4QeTykuNbVZk6q2CdVlIAN) | 1:58 | 2022-03-18 |  |
 | [Now or Never](https://open.spotify.com/track/3KOdSAFAouynkqzRd5cNtT) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Now or Never](https://open.spotify.com/album/7jJicDiVXaWohB828hThv0) | 2:18 | 2022-11-25 | 2023-09-29 |
 | [Nyc By Train](https://open.spotify.com/track/2vYIBePZCOFnuxMzLY4AtH) | [Florence Ada](https://open.spotify.com/artist/55eWRokjrhKoE28jaHJYw7) | [Nyc By Train](https://open.spotify.com/album/7pg5sER2qu1dN9trJaizv3) | 1:32 | 2023-09-22 |  |

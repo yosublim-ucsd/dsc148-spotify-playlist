@@ -21233,6 +21233,28 @@
     },
     {
       "album": {
+        "name": "Truman Show",
+        "url": "https://open.spotify.com/album/5pNVjKBlfgVJO7EuZ4wdk1"
+      },
+      "artists": [
+        {
+          "name": "Merges",
+          "url": "https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3"
+        },
+        {
+          "name": "L3GION",
+          "url": "https://open.spotify.com/artist/2CGaMJdUQ5ArTPKYli1Lf4"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177435,
+      "name": "Truman Show",
+      "url": "https://open.spotify.com/track/4IzjDkQrKWLLUXQK4sAXZ3"
+    },
+    {
+      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/4R536rrBEQjh7g1MrhasoS"
       },
@@ -21446,7 +21468,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 181458,
       "name": "U4EA",
       "url": "https://open.spotify.com/track/4AYQzjTMJTyQj6Rfh7A0Yx"

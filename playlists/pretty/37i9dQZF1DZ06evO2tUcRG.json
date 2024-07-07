@@ -1,12 +1,12 @@
 {
-  "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 261403,
+  "description": "This is Gabriela Rocha. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 261433,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoXmAAAAAACr5Yfr0g+SaThcEi6A7CBk",
+  "snapshot_id": "Zoc3gAAAAAAGUa8eZylmBAjXQaIPG56z",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 374986,
-      "name": "Nada Al\u00e9m de Ti - Ao Vivo",
-      "url": "https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eterno Presente (Ao Vivo)",
         "url": "https://open.spotify.com/album/2hK5ylp49oUsOJFfdpUqXf"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 518880,
       "name": "Ele Vem - Ao Vivo",
       "url": "https://open.spotify.com/track/1kD9Gx0BpKPwfz0F32iMOt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 374986,
+      "name": "Nada Al\u00e9m de Ti - Ao Vivo",
+      "url": "https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h"
     },
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Altar (Altar) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L"
-      },
-      "artists": [
-        {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 408720,
-      "name": "Altar (Altar) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atos 2 (feat. Gabriela Rocha)",
         "url": "https://open.spotify.com/album/5HDVHKvh41RiKifa8fjL5J"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 342221,
       "name": "Atos 2 (feat. Gabriela Rocha)",
       "url": "https://open.spotify.com/track/5bvOdRoFQQRHyhdEJ5jk9L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Altar (Altar) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 408720,
+      "name": "Altar (Altar) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/2PDO2DqKmVPbHIIoHvoaBd"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "Est\u00e1s Comigo",
+      "url": "https://open.spotify.com/track/1ZzqP7qxiVAjmScE9AlE3n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Presencia me Llam\u00f3 (Me Atraiu - Vers\u00e3o Espanhol)",
         "url": "https://open.spotify.com/album/6tPW1pXFSz7p9mMAvPxDvX"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 500624,
       "name": "Tu Presencia me Llam\u00f3 - Me Atraiu - Vers\u00e3o Espanhol",
       "url": "https://open.spotify.com/track/5jD4LYK6ptxiGVHGdxQ7o6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus",
-        "url": "https://open.spotify.com/album/2PDO2DqKmVPbHIIoHvoaBd"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "Est\u00e1s Comigo",
-      "url": "https://open.spotify.com/track/1ZzqP7qxiVAjmScE9AlE3n"
     },
     {
       "added_at": null,

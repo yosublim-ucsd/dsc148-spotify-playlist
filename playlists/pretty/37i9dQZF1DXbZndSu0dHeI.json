@@ -1,6 +1,6 @@
 {
   "description": "Have the loveliest little day.",
-  "num_followers": 223636,
+  "num_followers": 223708,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -277,22 +277,6 @@
       "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
     },
     {
-      "added_at": "2024-04-12 11:40:33",
-      "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "The Kill",
-      "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
-    },
-    {
       "added_at": "2024-03-28 22:30:08",
       "album": {
         "name": "So Long Forever",
@@ -307,6 +291,22 @@
       "duration_ms": 249840,
       "name": "Live Well",
       "url": "https://open.spotify.com/track/2H30WL3exSctlDC9GyRbD4"
+    },
+    {
+      "added_at": "2024-04-12 11:40:33",
+      "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
     },
     {
-      "added_at": "2024-05-10 16:04:45",
-      "album": {
-        "name": "boys, bugs and men",
-        "url": "https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 186763,
-      "name": "boys, bugs and men",
-      "url": "https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6"
-    },
-    {
       "added_at": "2023-03-08 12:04:06",
       "album": {
         "name": "Petals on the Moon",
@@ -487,6 +471,22 @@
       "duration_ms": 256945,
       "name": "Petals on the Moon",
       "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
+    },
+    {
+      "added_at": "2024-05-10 16:04:45",
+      "album": {
+        "name": "boys, bugs and men",
+        "url": "https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 186763,
+      "name": "boys, bugs and men",
+      "url": "https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6"
     },
     {
       "added_at": "2024-05-31 19:59:04",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/573nT62vtbezncIwCfxIm7"
     },
     {
-      "added_at": "2024-04-12 11:40:33",
-      "album": {
-        "name": "Cartwheels",
-        "url": "https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN"
-      },
-      "artists": [
-        {
-          "name": "Soft Launch",
-          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
-        }
-      ],
-      "duration_ms": 124013,
-      "name": "Cartwheels",
-      "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Sink Into Me",
@@ -1167,6 +1151,22 @@
       "duration_ms": 158789,
       "name": "Sink Into Me",
       "url": "https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53"
+    },
+    {
+      "added_at": "2024-04-12 11:40:33",
+      "album": {
+        "name": "Cartwheels",
+        "url": "https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN"
+      },
+      "artists": [
+        {
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+        }
+      ],
+      "duration_ms": 124013,
+      "name": "Cartwheels",
+      "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn"
     },
     {
-      "added_at": "2023-05-18 14:23:33",
-      "album": {
-        "name": "Dark Corners and Alchemy",
-        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 153915,
-      "name": "princes of melancholia",
-      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Smile in the Face of the Devil",
@@ -1263,6 +1247,22 @@
       "duration_ms": 158714,
       "name": "Smile in the Face of the Devil",
       "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
+    },
+    {
+      "added_at": "2023-05-18 14:23:33",
+      "album": {
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 153915,
+      "name": "princes of melancholia",
+      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "{Awayland}",
-        "url": "https://open.spotify.com/album/4lZBE5uyS5BGnJOJc88s95"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 223935,
-      "name": "Nothing Arrived",
-      "url": "https://open.spotify.com/track/4Qegqm597Rw1PfaV43WkLy"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "How Beautiful Life Can Be",
         "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 150662,
       "name": "How Beautiful Life Can Be - Single Version",
       "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "{Awayland}",
+        "url": "https://open.spotify.com/album/4lZBE5uyS5BGnJOJc88s95"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 223935,
+      "name": "Nothing Arrived",
+      "url": "https://open.spotify.com/track/4Qegqm597Rw1PfaV43WkLy"
     },
     {
       "added_at": "2024-03-22 14:38:07",
@@ -1581,6 +1581,22 @@
       "url": "https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln"
     },
     {
+      "added_at": "2023-09-29 10:53:41",
+      "album": {
+        "name": "SUGAR EP.",
+        "url": "https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 436569,
+      "name": "1975",
+      "url": "https://open.spotify.com/track/5RLzgNuAfuKx808CN60gCy"
+    },
+    {
       "added_at": "2024-05-10 16:04:45",
       "album": {
         "name": "I Want It All Right Now (Deluxe)",
@@ -1597,20 +1613,20 @@
       "url": "https://open.spotify.com/track/3rnWd8tja5FuJaeIf4Y4Mz"
     },
     {
-      "added_at": "2023-09-29 10:53:41",
+      "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "SUGAR EP.",
-        "url": "https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ"
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/2dQ2fB3gMPzY5abi0DwWxx"
       },
       "artists": [
         {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
         }
       ],
-      "duration_ms": 436569,
-      "name": "1975",
-      "url": "https://open.spotify.com/track/5RLzgNuAfuKx808CN60gCy"
+      "duration_ms": 227666,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/3mh7FfDdLfOIbEFThIvvCG"
     },
     {
       "added_at": "2023-03-08 12:04:06",
@@ -1631,22 +1647,6 @@
       "duration_ms": 207016,
       "name": "Hospital (One Man Down) (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3viGqgmswIMRcmGat5WYYq"
-    },
-    {
-      "added_at": "2024-02-21 11:44:23",
-      "album": {
-        "name": "Girls That Play",
-        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 202302,
-      "name": "Girls That Play",
-      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

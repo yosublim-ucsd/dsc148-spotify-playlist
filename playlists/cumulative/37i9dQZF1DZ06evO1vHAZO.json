@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-12",
-  "description": "This Is Oasis. Los temas esenciales, todos en una lista.",
+  "description": "This is Oasis. The essential tracks, all in one playlist.",
   "name": "This Is Oasis",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 559200,
       "name": "All Around The World - Remastered",
       "url": "https://open.spotify.com/track/6ZYgoD3c2aE4dD3yVFWV51"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 310440,
       "name": "Lyla",
       "url": "https://open.spotify.com/track/1XYLtiNehOF8D5NmlQknpI"
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 127600,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/2tBxJ43XiwEzhf7Xalc5UG"
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 349640,
       "name": "The Girl In The Dirty Shirt - Remastered",
       "url": "https://open.spotify.com/track/1MkwGdfDRDpDe0y2LkHAFO"

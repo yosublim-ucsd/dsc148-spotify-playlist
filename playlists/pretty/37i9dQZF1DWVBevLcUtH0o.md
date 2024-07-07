@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBevLcUtH0o.md) - [plain]
 
 > When the music and the message is honest, songs can be both personal and universal\.   Here is a list that pushes and reflects the culture at large\. Cover: <a href="spotify:artist:7wGizTRCLYwsLnTuCBbJ6t">Propaganda</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,601 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,611 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBevLcUtH0o.md) - [plain]
 | 42 | [Deliver Me](https://open.spotify.com/track/1OdUajD83Dkebt8xdqOiaX) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [Deliver Me](https://open.spotify.com/album/4XT1nhhMHafQF4vJQDD0Nl) | 2:18 |
 | 43 | [Life Sentence](https://open.spotify.com/track/1GDSutpXUijKwUFJwOeXrD) | [E.i\. the King](https://open.spotify.com/artist/3dsm2Sbz5i18pXDTjWSzZO) | [FOREVER CONVICT](https://open.spotify.com/album/76UUH33FjUM4hPkhkmWTIB) | 3:33 |
 | 44 | [Face to Face](https://open.spotify.com/track/68rcBeoxvv057Giw1dqZg3) | [Alert312](https://open.spotify.com/artist/2WMTYfACe7p99zN3X3ZMrE), [Rashid Saint\-Fleur](https://open.spotify.com/artist/61UpX29ka8i1TPCwhoh3Lr) | [The Lord is Beauty](https://open.spotify.com/album/0YIY0FF2pp2npgD19CnuzH) | 5:31 |
-| 45 | [SHEISTY](https://open.spotify.com/track/6YeFC0Ei50v9IXAOXKTPuu) | [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp) | [SHEISTY](https://open.spotify.com/album/33kQoSva0Vne9DRp2XiHiv) | 2:30 |
+| 45 | [SHIESTY](https://open.spotify.com/track/6YeFC0Ei50v9IXAOXKTPuu) | [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp) | [SHIESTY](https://open.spotify.com/album/33kQoSva0Vne9DRp2XiHiv) | 2:30 |
 | 46 | [For The Culture](https://open.spotify.com/track/2A79tZ3PSZCLyhdlQNkvnE) | [Caleb McCoy](https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi) | [For The Culture](https://open.spotify.com/album/333VjYbRgxWvRDwexNOlfT) | 2:55 |
 | 47 | [The Hold](https://open.spotify.com/track/17pFZmmAVIGBhwZ0TYRrrE) | [Armond Wakeup](https://open.spotify.com/artist/5e8WZ20kXHGdDe6iNlogGx), [Wes Pendleton](https://open.spotify.com/artist/0Z7jo4oR0rsAf7CHuGSpbx) | [The Hold](https://open.spotify.com/album/3ApROb6v2ud5NxL3tmzEEo) | 3:31 |
 | 48 | [Bullets and Targets](https://open.spotify.com/track/0UIjWPUs5TXDWAPAYMAWKZ) | [Corey Paul](https://open.spotify.com/artist/25ksFneQI7WRWIerxd8eg0) | [Untold Story: Trill Young King](https://open.spotify.com/album/1iAutTArJ3ZqpLZUI87HqA) | 3:00 |

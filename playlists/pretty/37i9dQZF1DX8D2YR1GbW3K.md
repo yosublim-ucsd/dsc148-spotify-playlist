@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,750 likes - 125 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,801 likes - 125 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 60 | [Strangers](https://open.spotify.com/track/2U0pVx4m1Kdm1Gsjjm6iq8) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Myon](https://open.spotify.com/artist/0nTbVTXLLbBA4xCtn0cFkv), [Shane 54](https://open.spotify.com/artist/2ITbqEgyp32vL3BxEFmQ1V), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Worlds Apart](https://open.spotify.com/album/3ZLP4gT36JCBPH0PZUUcPj) | 3:24 |
 | 61 | [Harlem Shake](https://open.spotify.com/track/01XFgRZfZI7oBagNf1Loml) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Harlem Shake](https://open.spotify.com/album/5H0yFEG5FT0tccZRSdNvVU) | 3:16 |
 | 62 | [I Can't Stop](https://open.spotify.com/track/5WSL7UTa38jMWoBzObD4BD) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [I Can't Stop](https://open.spotify.com/album/2DM8pAHT2jv7XXjyIbQppM) | 5:05 |
-| 63 | [Promises \- Skrillex & Nero Remix](https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:28 |
-| 64 | [Bad \(feat\. Vassy\) \- Radio Edit](https://open.spotify.com/track/06dT0EYXrhRQV1MsvWhNGv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Listen \(Deluxe\)](https://open.spotify.com/album/3UEEPh5wsdhP7SKC31yvhu) | 2:50 |
+| 63 | [Bad \(feat\. Vassy\) \- Radio Edit](https://open.spotify.com/track/06dT0EYXrhRQV1MsvWhNGv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Listen \(Deluxe\)](https://open.spotify.com/album/3UEEPh5wsdhP7SKC31yvhu) | 2:50 |
+| 64 | [Promises \- Skrillex & Nero Remix](https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:28 |
 | 65 | [Take over Control \(feat\. Eva Simons\)](https://open.spotify.com/track/4iD3msRl5hJUBEtrQwnR4k) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Eva Simons](https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA) | [Take over Control \(feat\. Eva Simons\)](https://open.spotify.com/album/68TnHmMjGBt4u4HpX4EmbS) | 3:40 |
 | 66 | [Boy Oh Boy](https://open.spotify.com/track/20c8kwM60klIrU9LIYNv0X) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [Random White Dude Be Everywhere](https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb) | 2:54 |
 | 67 | [Years](https://open.spotify.com/track/2KrHwwnKAfSDdOStftigJm) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Years](https://open.spotify.com/album/5McL4QMcdi5XmBQBAonR1D) | 3:15 |

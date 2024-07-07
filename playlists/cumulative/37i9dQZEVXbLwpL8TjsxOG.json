@@ -2294,7 +2294,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 179216,
       "name": "dishonesty",
       "url": "https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9"
@@ -7200,7 +7200,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 200027,
       "name": "ON",
       "url": "https://open.spotify.com/track/2Yccw4AWlnf8BMcD4rnlFc"
@@ -8654,7 +8654,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
@@ -10278,7 +10278,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
@@ -11012,7 +11012,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 190432,
       "name": "would you be mine?",
       "url": "https://open.spotify.com/track/4JXFK04oMgM5HPKOQnUWuK"
@@ -16477,6 +16477,28 @@
     },
     {
       "album": {
+        "name": "\u8ab0\u80fd\u907f\u958b\u6200\u611b\u9019\u4e8b\u60c5",
+        "url": "https://open.spotify.com/album/60AGWPJFsCEY6pfPCs9B0n"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        },
+        {
+          "name": "\u59da\u712f\u83f2",
+          "url": "https://open.spotify.com/artist/2SpMhKM97GGLaQ7Laequuh"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262735,
+      "name": "\u8ab0\u80fd\u907f\u958b\u6200\u611b\u9019\u4e8b\u60c5",
+      "url": "https://open.spotify.com/track/0tKTDRnl8qagYtRuHQ1sBY"
+    },
+    {
+      "album": {
         "name": "BTB \u8ca1\u795e\u5230",
         "url": "https://open.spotify.com/album/31dCZXq6LMoZz78NCD401u"
       },
@@ -16914,7 +16936,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 233187,
       "name": "\u96b1\u5f62\u904a\u6a02\u5834",
       "url": "https://open.spotify.com/track/6bMgCXapeQEVFgAOr8EvgY"
@@ -17134,7 +17156,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 256967,
       "name": "\u9752\u6625\u544a\u5225\u5f0f",
       "url": "https://open.spotify.com/track/2mMgDVazhRjNoOweYMP1pz"

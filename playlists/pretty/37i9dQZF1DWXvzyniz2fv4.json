@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158004,
+  "num_followers": 158006,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-06-21 16:06:09",
       "album": {
+        "name": "UM44K Ac\u00fastico",
+        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 163492,
+      "name": "Pode falar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
+    },
+    {
+      "added_at": "2024-06-21 16:06:09",
+      "album": {
         "name": "Me Diz",
         "url": "https://open.spotify.com/album/1JbWAwjKBIMADDcH9Xgk3P"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 161022,
       "name": "Me Diz",
       "url": "https://open.spotify.com/track/7BCBv9I6K5QbYiuYy9Vz5n"
-    },
-    {
-      "added_at": "2024-06-21 16:06:09",
-      "album": {
-        "name": "UM44K Ac\u00fastico",
-        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 163492,
-      "name": "Pode falar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
     },
     {
       "added_at": "2024-06-21 16:06:09",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-06-21 16:06:09",
       "album": {
-        "name": "N\u00e3o Quero Mais Nada",
-        "url": "https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy"
-      },
-      "artists": [
-        {
-          "name": "S7lermo",
-          "url": "https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm"
-        },
-        {
-          "name": "L\u00edvia Neves",
-          "url": "https://open.spotify.com/artist/6oqRJsv7s4CXdVdclAEchk"
-        }
-      ],
-      "duration_ms": 213587,
-      "name": "N\u00e3o Quero Mais Nada",
-      "url": "https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4"
-    },
-    {
-      "added_at": "2024-06-21 16:06:09",
-      "album": {
         "name": "\u00c9 Voc\u00ea",
         "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 197067,
       "name": "\u00c9 Voc\u00ea",
       "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
+    },
+    {
+      "added_at": "2024-06-21 16:06:09",
+      "album": {
+        "name": "N\u00e3o Quero Mais Nada",
+        "url": "https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy"
+      },
+      "artists": [
+        {
+          "name": "S7lermo",
+          "url": "https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm"
+        },
+        {
+          "name": "L\u00edvia Neves",
+          "url": "https://open.spotify.com/artist/6oqRJsv7s4CXdVdclAEchk"
+        }
+      ],
+      "duration_ms": 213587,
+      "name": "N\u00e3o Quero Mais Nada",
+      "url": "https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4"
     },
     {
       "added_at": "2024-06-21 16:06:09",
@@ -1611,6 +1611,38 @@
     {
       "added_at": "2024-06-21 16:06:09",
       "album": {
+        "name": "Cartas ao Divino",
+        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "Adaptar",
+      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
+    },
+    {
+      "added_at": "2024-06-21 16:06:09",
+      "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
+      },
+      "artists": [
+        {
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+        }
+      ],
+      "duration_ms": 164713,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
+    },
+    {
+      "added_at": "2024-06-21 16:06:09",
+      "album": {
         "name": "Interfone",
         "url": "https://open.spotify.com/album/3isbuTBsnIoXfDg7bGedYs"
       },
@@ -1635,38 +1667,6 @@
       "duration_ms": 232000,
       "name": "Interfone",
       "url": "https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm"
-    },
-    {
-      "added_at": "2024-06-21 16:06:09",
-      "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
-      },
-      "artists": [
-        {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 164713,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
-    },
-    {
-      "added_at": "2024-06-21 16:06:09",
-      "album": {
-        "name": "Cartas ao Divino",
-        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "Adaptar",
-      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
     },
     {
       "added_at": "2024-06-21 16:06:09",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,521 songs - 2 day 22 hr 40 min
+1,522 songs - 2 day 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-08-29 | 2023-09-26 |
 | [Full House](https://open.spotify.com/track/3wkvbFrwiecuUPFWPsPvft) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Yanix](https://open.spotify.com/artist/7gmUEqRjXK144s5jQMVc8c) | [AA LANGUAGE 2](https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na) | 2:13 | 2023-10-28 | 2023-11-02 |
 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 | 2024-01-24 | 2024-05-09 |
+| [fye](https://open.spotify.com/track/1EnlHLLxnHURgWNv3vzeMk) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [fye](https://open.spotify.com/album/0sMx2DUajgDS8wP9xyEWkO) | 1:57 | 2024-07-06 |  |
 | [FΛSHION](https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/7umRaDZ9FqTaL2EWZvGMEX) | 2:26 | 2023-09-02 | 2023-09-04 |
 | [G](https://open.spotify.com/track/6g42z2BRoSNf7hdmhcHCZt) | [LIL MORTY](https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K) | [G](https://open.spotify.com/album/7GKnfbdIQPcbGxnmhVP0F6) | 2:55 | 2022-07-30 | 2022-08-05 |
 | [G\-SHOKK \[Prod\. by gob wants nothing, audiodealers\]](https://open.spotify.com/track/4psimdmSobgECgzUVgWsia) | [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [КОТЬ! КОТЬ!](https://open.spotify.com/album/67llcOfrH7DmC5yMmRd4UB) | 3:05 | 2021-04-04 | 2021-04-08 |
@@ -342,7 +343,7 @@
 | [HYAENA](https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:42 | 2023-07-29 | 2023-08-01 |
 | [HYPNOTIC DATA](https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [XIII SORROWS](https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB) | 2:08 | 2023-10-09 | 2023-10-14 |
 | [i dont wna cry \(haste\)](https://open.spotify.com/track/6RKeESxpM58GCfR5eRdfzY) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [i dont wna cry](https://open.spotify.com/album/5AIZKUZZW9RE3xhTf64h39) | 2:01 | 2023-05-25 | 2023-07-02 |
-| [I GOT U](https://open.spotify.com/track/39uQdNywrxrH1ZjfOFc72n) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [I GOT U](https://open.spotify.com/album/4zo7PO4aB50EFFZqerSER4) | 2:43 | 2024-06-17 |  |
+| [I GOT U](https://open.spotify.com/track/39uQdNywrxrH1ZjfOFc72n) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [I GOT U](https://open.spotify.com/album/4zo7PO4aB50EFFZqerSER4) | 2:43 | 2024-06-17 | 2024-07-07 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-20 |  |
 | [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 | 2023-08-17 | 2023-09-02 |
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-09-23 | 2022-10-14 |
@@ -632,7 +633,7 @@
 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2) | 3:24 | 2021-11-07 | 2021-11-19 |
 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 | 2021-11-25 | 2022-06-17 |
 | [Saloon](https://open.spotify.com/track/6hoU9YjR1Roq2Zez5qTPWU) | [MiyaGi & Endspiel](https://open.spotify.com/artist/6L5bLEtpxwd0KOdOr3gtW4) | [HATTORI](https://open.spotify.com/album/5AyqSPIOfYqVDIwAOdAPSi) | 2:46 | 2022-10-29 | 2022-11-05 |
-| [Salut papa](https://open.spotify.com/track/0TskfugKgc0Dj6Afw0jdmu) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Salut papa](https://open.spotify.com/album/0FHDJmFpabnyZypQhDyPZ6) | 2:34 | 2024-05-20 | 2024-07-06 |
+| [Salut papa](https://open.spotify.com/track/0TskfugKgc0Dj6Afw0jdmu) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Salut papa](https://open.spotify.com/album/0FHDJmFpabnyZypQhDyPZ6) | 2:34 | 2024-05-20 |  |
 | [SANTA DADDY](https://open.spotify.com/track/1AHMBgE9uJ5VFObhPxsbCK) | [Nikitata](https://open.spotify.com/artist/6w5qVRuob9t7rfBj9vQfJl) | [SANTA DADDY](https://open.spotify.com/album/6FCa38abpdriSzHAxERCur) | 2:10 | 2022-12-24 | 2022-12-29 |
 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2022-01-01 | 2024-01-03 |
 | [Saturday](https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:52 | 2021-05-23 | 2021-05-25 |
@@ -733,7 +734,7 @@
 | [That White](https://open.spotify.com/track/3n4kOc46bJi0jOnqvKfr0V) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [First Day Out](https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY) | 3:07 | 2022-07-02 | 2022-07-09 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2021-10-05 |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-03-27\* | 2021-08-31 |
-| [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-05-11 |  |
+| [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-05-11 | 2024-07-07 |
 | [THE DINER](https://open.spotify.com/track/1LLUoftvmTjVNBHZoQyveF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:06 | 2024-05-18 | 2024-05-20 |
 | [THE GREATEST](https://open.spotify.com/track/6TGd66r0nlPaYm3KIoI7ET) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:53 | 2024-05-18 | 2024-05-20 |
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2022-10-11 | 2022-10-23 |

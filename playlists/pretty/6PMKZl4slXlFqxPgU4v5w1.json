@@ -6,7 +6,7 @@
     "name": "abdelaziz",
     "url": "https://open.spotify.com/user/34ju0qupggd7c0twwwss0bceq"
   },
-  "snapshot_id": "AAAAGY8pqeyd/lEltR1U2Ch8Di5QCeqt",
+  "snapshot_id": "AAAAHhtAM91gCzCa8oQN+7bpattbFAYh",
   "tracks": [
     {
       "added_at": "2024-07-03 09:23:06",
@@ -363,6 +363,86 @@
       "duration_ms": 352560,
       "name": "\u79c1\u9054\u3092\u4fe1\u3058\u3066\u3044\u3066",
       "url": "https://open.spotify.com/track/4xu0gZ96zx1G7UdajUGDqD"
+    },
+    {
+      "added_at": "2024-07-06 12:41:32",
+      "album": {
+        "name": "XSCAPE",
+        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Loving You (Original Version)",
+      "url": "https://open.spotify.com/track/5Yo0Jz7YDAEPKsklNfQTA6"
+    },
+    {
+      "added_at": "2024-07-06 12:44:40",
+      "album": {
+        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 410560,
+      "name": "Being Boring - 2018 Remaster",
+      "url": "https://open.spotify.com/track/6utJDOqzWj8FggDp1R2Wi2"
+    },
+    {
+      "added_at": "2024-07-06 12:52:32",
+      "album": {
+        "name": "Who Really Cares",
+        "url": "https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Loving Machine",
+      "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ"
+    },
+    {
+      "added_at": "2024-07-06 12:52:40",
+      "album": {
+        "name": "Savage Garden",
+        "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N"
+    },
+    {
+      "added_at": "2024-07-06 12:53:26",
+      "album": {
+        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
+        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Where There Is Love",
+      "url": "https://open.spotify.com/track/7bfBBmySorcpDFJFa0iCCL"
     }
   ],
   "unique_name": "you are forgiven",

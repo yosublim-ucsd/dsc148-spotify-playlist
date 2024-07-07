@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,495 likes - 307 songs - 17 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,496 likes - 307 songs - 17 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -248,8 +248,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 238 | [Ridin'](https://open.spotify.com/track/6LhDPpNM4EpmOWOD42ibdD) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Ridin'](https://open.spotify.com/album/0g7JdCX7KVKS46Elrsue8E) | 2:50 |
 | 239 | [When The Party's Over](https://open.spotify.com/track/2KLWP0h8H5tZM7mbZOgh4C) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 2:55 |
 | 240 | [Diamond Life](https://open.spotify.com/track/7Lo4APQfv1mbPJirw9AYwQ) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Diamond Life](https://open.spotify.com/album/30oWzHzHyEmHKnPPDYeR7G) | 3:07 |
-| 241 | [Get Mine](https://open.spotify.com/track/1Tfzd8jY2q4OQR9Bmrxpbx) | [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho) | [Get Mine](https://open.spotify.com/album/3KsLy1tfJwAA9dAeDLnno1) | 2:55 |
-| 242 | [Darkest Hour](https://open.spotify.com/track/6NysRdnw6s1e8v4WfjcdDg) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Believe Me Now?](https://open.spotify.com/album/6YpuiWNRGcMEumvRbEuOvP) | 3:17 |
+| 241 | [Darkest Hour](https://open.spotify.com/track/6NysRdnw6s1e8v4WfjcdDg) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Believe Me Now?](https://open.spotify.com/album/6YpuiWNRGcMEumvRbEuOvP) | 3:17 |
+| 242 | [Get Mine](https://open.spotify.com/track/1Tfzd8jY2q4OQR9Bmrxpbx) | [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho) | [Get Mine](https://open.spotify.com/album/3KsLy1tfJwAA9dAeDLnno1) | 2:55 |
 | 243 | [Background](https://open.spotify.com/track/6QbCAeT8s6mVzrJP2tvtOx) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 1:29 |
 | 244 | [Free](https://open.spotify.com/track/5Aqm5mngMoGTU8fIvNJYbT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:45 |
 | 245 | [No Contest](https://open.spotify.com/track/0Q4SE81n0qaLUiugNbTFeZ) | [Rak\-Su](https://open.spotify.com/artist/5UyRaawCsdiVrro0WWgIVB) | [Finally Free Mixtape](https://open.spotify.com/album/4Tymq2ZejRFdboyq4ab41E) | 2:53 |
@@ -316,4 +316,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 306 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 307 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `AbV6fgAAAABHOe/S+KNJi4lPWxJ576aW`
+Snapshot ID: `AbWAIgAAAADSLQF8RZtVHAHTaZYiKYu9`

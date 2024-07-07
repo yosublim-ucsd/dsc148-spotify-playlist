@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 86042,
+  "num_followers": 86049,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "Sed",
+        "url": "https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn"
+      },
+      "artists": [
+        {
+          "name": "Lucio Feuillet",
+          "url": "https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy"
+        }
+      ],
+      "duration_ms": 299116,
+      "name": "Sed",
+      "url": "https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Tierra",
         "url": "https://open.spotify.com/album/4hONbMfBNGtrslvAqe2wX4"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 183539,
       "name": "Desierto",
       "url": "https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "Sed",
-        "url": "https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn"
-      },
-      "artists": [
-        {
-          "name": "Lucio Feuillet",
-          "url": "https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy"
-        }
-      ],
-      "duration_ms": 299116,
-      "name": "Sed",
-      "url": "https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg"
     },
     {
       "added_at": "2023-10-07 00:35:47",

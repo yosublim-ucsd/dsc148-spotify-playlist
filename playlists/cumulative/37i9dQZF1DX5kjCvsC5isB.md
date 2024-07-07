@@ -4,7 +4,7 @@
 
 > the bold women of rock & alternative today\. Cover: The Warning
 
-473 songs - 1 day 0 hr 37 min
+474 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [flowers](https://open.spotify.com/track/1MXfyXi4OdU0WMhgZM6tLR) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [flowers](https://open.spotify.com/album/6dMHxPB6mErfnAiAXpj4CN) | 2:41 | 2021-08-20 | 2022-10-08 |
 | [Forgot Your Meds](https://open.spotify.com/track/2A1kDYSq09jKRjQGndfrMj) | [D'Arcy Spiller](https://open.spotify.com/artist/7o5WFn4X3YuycrDdoEXqaO) | [Disarray](https://open.spotify.com/album/0zrLIWxulSIBUMrinFdEhE) | 3:51 | 2021-08-06 | 2022-10-08 |
 | [Four Letter Words](https://open.spotify.com/track/0F7plvzEr2eu5aHZwW3uE7) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Four Letter Words](https://open.spotify.com/album/3cezfDIOGBVAtXaEuG2L2n) | 2:27 | 2021-07-30 | 2023-06-10 |
+| [Friends In Low Places](https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Friends In Low Places](https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP) | 3:03 | 2024-07-05 |  |
 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 | 2022-06-24 | 2022-10-08 |
 | [FUCKBOI REJECTS](https://open.spotify.com/track/05NA0nspTPyXKBAAWqUsIr) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [F\*CKBOI REJECTS](https://open.spotify.com/album/6Q9dzZJNVPb194wy59f0DG) | 2:07 | 2022-01-14 | 2022-10-08 |
 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-10-07 | 2023-06-10 |
@@ -233,7 +234,7 @@
 | [Kid Bruises](https://open.spotify.com/track/4wiGs6E59rKMCwVsSDyJoH) | [GRLwood](https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe) | [Kid Bruises](https://open.spotify.com/album/5TWGm6Lw38ZNAEcarAq21O) | 3:19 | 2022-10-07 | 2022-12-24 |
 | [Kids \(Ain't All Right\)](https://open.spotify.com/track/6DTHkeVHU2CCB3601pJoHM) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [Kids \(Ain't All Right\)](https://open.spotify.com/album/7vH4VwsRUUBMJ9qWRfwdyR) | 2:29 | 2021-07-30 | 2023-06-10 |
 | [Kill The Girl](https://open.spotify.com/track/1Wuz7gQuVAj3BI3Bf53jeh) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [Kill The Girl](https://open.spotify.com/album/4UTqbTCZIvxPBnA5hRUgLk) | 2:50 | 2022-04-01 | 2023-07-29 |
-| [Kills Me To Be Kind](https://open.spotify.com/track/1wgfWQz5Fh3R6P6xPIAVuY) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Kills Me To Be Kind](https://open.spotify.com/album/3czh2aXLBfbPOXpEgB9gJg) | 4:40 | 2024-02-28 |  |
+| [Kills Me To Be Kind](https://open.spotify.com/track/1wgfWQz5Fh3R6P6xPIAVuY) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Kills Me To Be Kind](https://open.spotify.com/album/3czh2aXLBfbPOXpEgB9gJg) | 4:40 | 2024-02-28 | 2024-07-07 |
 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 | 2024-02-28 |  |
 | [King](https://open.spotify.com/track/2hZHG5VndIhuJRbKONm9Bv) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [King](https://open.spotify.com/album/1LwwFbR5UDxx9puw5vZEnY) | 3:27 | 2021-07-30 | 2022-06-25 |
 | [Kiss Kiss Bang Bang](https://open.spotify.com/track/3kFoZcKkIUsKBoWYHvMkUQ) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Kiss Kiss Bang Bang](https://open.spotify.com/album/7ADrQj9OGll4kiXcCSdcqI) | 2:53 | 2023-06-09 | 2024-07-06 |

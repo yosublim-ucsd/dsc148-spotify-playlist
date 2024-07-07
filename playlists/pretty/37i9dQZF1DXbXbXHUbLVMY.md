@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,181 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,184 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 48 | [Goodbye](https://open.spotify.com/track/3Z9Hk0xOZpmKXUSMWIRf1V) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9), [Voksen Mann Uten Slips](https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF) | [Voksen Mann Uten Slips](https://open.spotify.com/album/2BNCNlkVDlR7gNCpN97jnk) | 2:12 |
 | 49 | [rizla \(feat\. Siyabång\)](https://open.spotify.com/track/2awCNwTAJwnTDWK5P0PHKb) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [4 the summer](https://open.spotify.com/album/2mbPM7vQa2XQJFDJbyzJBH) | 3:21 |
 | 50 | [I Care](https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [I Care](https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii) | 2:19 |
-| 51 | [YOUNG THUG PÅ 1M](https://open.spotify.com/track/6b88vMQia1ddGYjkQPTizO) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [DAN](https://open.spotify.com/artist/0nBco1iBK1g1CJVrJWQUlp) | [YOUNG THUG PÅ 1M](https://open.spotify.com/album/4ZjRNNwA1ldmgFausc2oby) | 2:25 |
+| 51 | [Dyra notor](https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo), [Noxious](https://open.spotify.com/artist/3Kuu3eReA1kOwMTk1WUGOR) | [Dyra notor](https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL) | 2:22 |
 | 52 | [Frossa](https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Frossa](https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO) | 2:34 |
-| 53 | [Dyra notor](https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo), [Noxious](https://open.spotify.com/artist/3Kuu3eReA1kOwMTk1WUGOR) | [Dyra notor](https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL) | 2:22 |
+| 53 | [YOUNG THUG PÅ 1M](https://open.spotify.com/track/6b88vMQia1ddGYjkQPTizO) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [DAN](https://open.spotify.com/artist/0nBco1iBK1g1CJVrJWQUlp) | [YOUNG THUG PÅ 1M](https://open.spotify.com/album/4ZjRNNwA1ldmgFausc2oby) | 2:25 |
 | 54 | [Aura](https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Aura](https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI) | 3:06 |
 | 55 | [Stikk i Brystet](https://open.spotify.com/track/2K7RNGhAN82pJSz0OjXCo1) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Stikk I Brystet \(Deluxe\)](https://open.spotify.com/album/1TVqo7Q0brVxoPV9daZ5RA) | 3:51 |
 | 56 | [Tyrs Vals \(feat\. Arif Murakami & Siyabång\)](https://open.spotify.com/track/0V0qOWYd1Oz1jGaVFii95s) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [Bedøvelse Gjør Mester](https://open.spotify.com/album/1MEQ3H8iYw0q4npG8Bht2t) | 3:41 |

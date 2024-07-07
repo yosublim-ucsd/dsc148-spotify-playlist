@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,624 songs - 3 day 12 hr 37 min
+1,625 songs - 3 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1468,6 +1468,7 @@
 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-11-21 | 2021-11-23 |
 | [TO DIE FOR](https://open.spotify.com/track/1LvsLaGB4FNsax6EOcJtTq) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [TO DIE FOR](https://open.spotify.com/album/6RBkf5cMHfE3ga8AfG7QdT) | 2:48 | 2022-04-09 | 2022-04-11 |
 | [TO THE MOON](https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON](https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6) | 2:32 | 2022-02-03 | 2022-03-08 |
+| [Tobey \(feat\. Big Sean and BabyTron\)](https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Tobey \(feat\. Big Sean and BabyTron\)](https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf) | 4:44 | 2024-07-06 |  |
 | [TODO O NADA](https://open.spotify.com/track/559VzgNUKhAz3XrvjxSDhP) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [TODO O NADA](https://open.spotify.com/album/1PxR2GB6fuKeKuxHzVELBb) | 2:37 | 2022-06-25 | 2022-08-21 |
 | [Toget](https://open.spotify.com/track/5B1SVJpMsLxSwBaDCfkXJJ) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [Toget](https://open.spotify.com/album/3Gz02SCLk7nfCvpnvuy230) | 2:30 | 2023-03-31 | 2023-04-19 |
 | [Tom Indeni \(feat\. D1MA\)](https://open.spotify.com/track/25CSiTCMTNUU1CKcCPaath) | [Caroline Dubois](https://open.spotify.com/artist/1l7Qv31AZtPOBuIF7xezqJ), [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [Tom Indeni \(feat\. D1MA\)](https://open.spotify.com/album/76NFR3PjHtaypRjpog86o6) | 3:17 | 2022-10-16 | 2022-10-23 |
@@ -1507,7 +1508,7 @@
 | [UDENFOR](https://open.spotify.com/track/0IazVX1Kz0eSbLp4HnkYoi) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [EV1GT&ALT1D](https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw) | 2:34 | 2023-03-18 | 2023-03-23 |
 | [udfylder tomhed](https://open.spotify.com/track/2QVuWQhubQ6LsFtNhD4yxm) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 1:28 | 2022-10-22 | 2022-10-27 |
 | [Under Din Sne](https://open.spotify.com/track/1D9P6P6yR4LB3Cq0ozn8ZE) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Under Din Sne](https://open.spotify.com/album/5ay6w69e8LM9fjLAzTxFsZ) | 4:24 | 2021-11-07 | 2022-01-08 |
-| [Under Din Sne](https://open.spotify.com/track/3LlqJkcXMBIAE5X1uUiZUN) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 4:26 | 2022-01-08 |  |
+| [Under Din Sne](https://open.spotify.com/track/3LlqJkcXMBIAE5X1uUiZUN) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 4:26 | 2022-01-08 | 2024-07-07 |
 | [Under Radar](https://open.spotify.com/track/18jOIUboPPzwu84t9GlUKu) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [B.O.C](https://open.spotify.com/artist/2X22Hm97hQA8mFjSrn2foA) | [Under Radar](https://open.spotify.com/album/5e09iR2DufFRiMK8JmTlNu) | 3:10 | 2023-06-10 | 2024-02-04 |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-08-09 | 2022-11-21 |
 | [Under Vand](https://open.spotify.com/track/7kvFqjZ8sVfWVmkzr1UyWy) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [MELLEM HIMMEL & JORD](https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX) | 2:38 | 2024-02-03 | 2024-02-18 |

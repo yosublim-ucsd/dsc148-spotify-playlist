@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 54218,
+  "num_followers": 54225,
   "original_name": "This Is X Ambassadors",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
-  "snapshot_id": "ZoXmAAAAAAC0fmWVYnLxzc6k7zihj9cL",
+  "snapshot_id": "Zoc3gAAAAAA1fv91J/JhDgoTx67jH0HV",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORION",
-        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 164586,
-      "name": "BOOM",
-      "url": "https://open.spotify.com/track/3V9cM3nCH2G66afoDi0snu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Townie",
         "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
       },
@@ -231,6 +215,30 @@
       "duration_ms": 180596,
       "name": "Undeniable (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zen (with K.Flay & grandson)",
+        "url": "https://open.spotify.com/album/2JQbWWpYG6kKppiD6z2FwL"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        },
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 215882,
+      "name": "Zen (with K.Flay & grandson)",
+      "url": "https://open.spotify.com/track/2loEXJRB5ExGcUHYX365R5"
     },
     {
       "added_at": null,
@@ -287,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Strings",
+        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "No Strings",
+      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alcohol (with BRELAND)",
         "url": "https://open.spotify.com/album/4Bo2zeCdvF962Zm2PGm4ch"
       },
@@ -303,22 +327,6 @@
       "duration_ms": 218266,
       "name": "Alcohol (with BRELAND)",
       "url": "https://open.spotify.com/track/1dAxKchdnh9UVPjzEew9ls"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Strings",
-        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "No Strings",
-      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
     },
     {
       "added_at": null,
@@ -771,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 173373,
+      "name": "CONFIDENCE (feat. K.Flay)",
+      "url": "https://open.spotify.com/track/1fE6majCQyShaXTPqJsdar"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -943,22 +971,6 @@
       "duration_ms": 161669,
       "name": "torture (with Earl St. Clair)",
       "url": "https://open.spotify.com/track/5barkRym2Qstp3X9uZRSiN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ORION",
-        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 188933,
-      "name": "WASTELAND",
-      "url": "https://open.spotify.com/track/1XzzHgGGmul65gGyjlmxBj"
     }
   ],
   "unique_name": "This Is X Ambassadors",

@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: HYUKOH, Sunset Rollercoaster
 
-1,398 songs - 3 day 12 hr 15 min
+1,399 songs - 3 day 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -788,7 +788,7 @@
 | [Night Swimming](https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78) | [sunwashere](https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx) | [Night Swimming](https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5) | 4:09 | 2022-07-07 | 2022-07-29 |
 | [Nile](https://open.spotify.com/track/4NRK7OK4mInutst8FLenG2) | [xiexie](https://open.spotify.com/artist/2DyQQPH4aNO84GVSIoHdkV) | [Nile](https://open.spotify.com/album/31rjNDoXEfzXMWFE1AfNWG) | 4:12 | 2024-04-25 | 2024-05-24 |
 | [No Camera](https://open.spotify.com/track/0OOHnflCfcWQvb1ENnU3TU) | [SOMAOTA](https://open.spotify.com/artist/7iDt6acAAE3tr0bfHM5h3O), [DUCK HOUSE](https://open.spotify.com/artist/0ELl1ezauBmVn8nA3GdDJT) | [Lost Humanity](https://open.spotify.com/album/7BtGOVpYZMEyqiPpLqgPEP) | 3:38 | 2024-04-18 | 2024-04-26 |
-| [No Cares Era](https://open.spotify.com/track/1dI9QSKVCt4uXHzGVuBRLa) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [No Cares Era](https://open.spotify.com/album/5FZpZ3glnOilS48UA4C5aB) | 3:20 | 2024-05-30 |  |
+| [No Cares Era](https://open.spotify.com/track/1dI9QSKVCt4uXHzGVuBRLa) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [No Cares Era](https://open.spotify.com/album/5FZpZ3glnOilS48UA4C5aB) | 3:20 | 2024-05-30 | 2024-07-07 |
 | [No One](https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [No One](https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY) | 2:37 | 2022-12-02 | 2023-04-01 |
 | [NO PAIN](https://open.spotify.com/track/01d3IKaDzqxP50zPZnAkT9) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [NO PAIN](https://open.spotify.com/album/0PU7zuIyFTemauVmePGD95) | 3:39 | 2022-08-25 | 2022-10-14 |
 | [NO PAIN](https://open.spotify.com/track/4Tz8G2vbDj5GF3FDBC2Pnd) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [POWER ANDRE 99](https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1) | 3:41 | 2024-03-08 |  |
@@ -906,6 +906,7 @@
 | [Reddish](https://open.spotify.com/track/2LPXXxh35IkO5xQVFWEhVx) | [Asahi](https://open.spotify.com/artist/05pDmDKsBRuMprwAqAgxXw) | [Reddish](https://open.spotify.com/album/1KCF0xlDdL0TLgE2IbYPLP) | 3:57 | 2022-05-12 | 2022-06-10 |
 | [regret](https://open.spotify.com/track/3j0GWCC5vw7jylMjDZEAz5) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [regret](https://open.spotify.com/album/49ed2UXd4qvqZKEZcjWrvZ) | 3:24 | 2022-08-25 | 2022-09-02 |
 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 | 2022-05-11 | 2022-07-29 |
+| [right where you left me](https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [right where you left me](https://open.spotify.com/album/0a28dOkcC53FjmLwNpVEOm) | 2:53 | 2024-07-04 |  |
 | [ringringring](https://open.spotify.com/track/18jycfEb8t7gDaELRiVNac) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [ringringring](https://open.spotify.com/album/2gw8fYdm5Sxc1NCntLC7EH) | 3:47 | 2024-05-23 | 2024-06-01 |
 | [riverrun](https://open.spotify.com/track/1ED4RvaOua1xCVoXBArYup) | [Redza](https://open.spotify.com/artist/7rI4hvk9fjo1LAOXX1XvLG) | [riverrun](https://open.spotify.com/album/2gCNYNlbuhoziX3Sr9lZBJ) | 2:57 | 2022-11-24 | 2023-02-03 |
 | [Road](https://open.spotify.com/track/6f5OzmQxiXh6viB0WQP1C2) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 5:18 | 2022-12-08 | 2023-02-17 |

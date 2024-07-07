@@ -4,7 +4,7 @@
 
 > The best in modern punk rock music\. Cover: Speed
 
-350 songs - 17 hr 37 min
+351 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 | 2023-01-20 | 2024-06-01 |
 | [Choke](https://open.spotify.com/track/2158JpSZqY1m9VajGGdvPu) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Choke](https://open.spotify.com/album/5Oir2rwrNHl7V0FCPVg8CW) | 3:42 | 2024-03-15 | 2024-06-15 |
 | [Choose Your Fighter](https://open.spotify.com/track/5GJgz8jChM8AA7cSStOqjU) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Choose Your Fighter](https://open.spotify.com/album/3HoyLFKUF2HKmYJjjFhd5s) | 2:15 | 2022-12-02 | 2023-06-09 |
-| [Churro](https://open.spotify.com/track/0OsN5xY2fdSmCMSUobmKUl) | [N8NOFACE](https://open.spotify.com/artist/0HlRzJcjY69mM3nW2Xvrzi), [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j) | [Churro](https://open.spotify.com/album/3LoEELocgdXod9VQvLHxai) | 2:34 | 2024-06-14 |  |
+| [Churro](https://open.spotify.com/track/0OsN5xY2fdSmCMSUobmKUl) | [N8NOFACE](https://open.spotify.com/artist/0HlRzJcjY69mM3nW2Xvrzi), [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j) | [Churro](https://open.spotify.com/album/3LoEELocgdXod9VQvLHxai) | 2:34 | 2024-06-14 | 2024-07-07 |
 | [Class War](https://open.spotify.com/track/4sxkp8uB868EazPkL3Bik1) | [The Menstrual Cramps](https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI) | [Class War](https://open.spotify.com/album/3qzHwl5ri7mEoC5pLngJZn) | 2:40 | 2024-03-15 | 2024-04-20 |
 | [Claw](https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Claw](https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ) | 3:15 | 2024-01-19 |  |
 | [Close Call](https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Close Call](https://open.spotify.com/album/2TL6nCxuLh7aW6bVUtKr50) | 2:43 | 2024-05-31 |  |
@@ -120,7 +120,7 @@
 | [Everything and Nothing](https://open.spotify.com/track/7j0ERJhSb6kFFeAiDl1QBf) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Everything and Nothing](https://open.spotify.com/album/3hRhx7uDN7bnQSPB769JZ9) | 3:57 | 2024-06-14 |  |
 | [Facedown](https://open.spotify.com/track/2wc4XyfD9OAELrkwL3iCqO) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Facedown](https://open.spotify.com/album/5bkQz8PC9JMdToUrvFfQOI) | 2:31 | 2023-03-20 | 2023-04-26 |
 | [Facedown](https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge \(Deluxe Edition\)](https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv) | 2:31 | 2023-03-20 | 2024-04-19 |
-| [Far Out, Bro \(Feat\. Daryl Taberski of Snapcase\)](https://open.spotify.com/track/0qhzDJvawg5ePgaTeNulWb) | [The Barbarians of California](https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO), [Snapcase](https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W) | [Far Out, Bro \(Feat\. Daryl Taberski of Snapcase\)](https://open.spotify.com/album/3DWnpS0PYuV1ELuWmH75pm) | 3:27 | 2024-06-14 |  |
+| [Far Out, Bro \(Feat\. Daryl Taberski of Snapcase\)](https://open.spotify.com/track/0qhzDJvawg5ePgaTeNulWb) | [The Barbarians of California](https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO), [Snapcase](https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W) | [Far Out, Bro \(Feat\. Daryl Taberski of Snapcase\)](https://open.spotify.com/album/3DWnpS0PYuV1ELuWmH75pm) | 3:27 | 2024-06-14 | 2024-07-07 |
 | [Fascist Bob](https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Fascist Bob](https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL) | 1:56 | 2024-03-15 |  |
 | [Fashion](https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 2:54 | 2023-02-06 | 2024-01-19 |
 | [Fast Pace](https://open.spotify.com/track/1qXR66ok1P7wsTKsLwdf9b) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Grade 2](https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe) | 3:02 | 2023-03-03 | 2024-06-01 |
@@ -185,6 +185,7 @@
 | [In The Flesh](https://open.spotify.com/track/7h3XDCvLUgYt2t4DEf96Ro) | [Baby Strange](https://open.spotify.com/artist/0rOadSgjgHpAXqcEq4D0xS) | [In The Flesh](https://open.spotify.com/album/4COHHNiG8j5AoJ0a8fVpl6) | 2:00 | 2022-12-02 | 2023-01-19 |
 | [International Hide and Seek Champions](https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Undefeated](https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9) | 2:25 | 2024-05-31 |  |
 | [It Ain't Enough](https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Cave World \(Deluxe\)](https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8) | 4:43 | 2023-01-18 | 2024-06-01 |
+| [It Burns](https://open.spotify.com/track/514cam2TdGuqXOu3oeGFAj) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [It Burns](https://open.spotify.com/album/77flV7s0GAsUvzd5vbCk9K) | 3:56 | 2024-07-05 |  |
 | [It's good to be back \- Metronomy x Panic Shack](https://open.spotify.com/track/7cmv2VrzPsqGopOhAWseUq) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [It's good to be back](https://open.spotify.com/album/7jOycXVNmMBrsJHjjxBhEr) | 3:15 | 2022-12-02 | 2023-03-03 |
 | [Johnny](https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Johnny](https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r) | 2:29 | 2024-06-14 |  |
 | [KICKFLIP](https://open.spotify.com/track/0M1v8YmXRs2bqFy8X0c0di) | [GANG!](https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C) | [KICKFLIP](https://open.spotify.com/album/19Nuh0OCQfLenVVjjk4K7E) | 2:01 | 2024-06-14 |  |
@@ -323,7 +324,7 @@
 | [Tom in 03](https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu), [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Tom in 03](https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w) | 2:21 | 2023-01-18 | 2024-06-01 |
 | [Tomorrow Never Comes](https://open.spotify.com/track/7jm8Fq5juL6aYdQC3aHj83) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 2:25 | 2023-06-08 | 2024-06-01 |
 | [Toneblerone](https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw) | [Jetski](https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI), [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [The Four Before](https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi) | 3:47 | 2024-01-19 | 2024-06-28 |
-| [Total Eclipse of the Heart](https://open.spotify.com/track/2Ra1d0arxerDuDvVi1rKos) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Free Rein to Passions \(Deluxe\)](https://open.spotify.com/album/36JPPW9J3Luzekc4iWkKEk) | 2:10 | 2024-05-31 | 2024-06-28 |
+| [Total Eclipse of the Heart](https://open.spotify.com/track/2Ra1d0arxerDuDvVi1rKos) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Free Rein to Passions \(Deluxe\)](https://open.spotify.com/album/36JPPW9J3Luzekc4iWkKEk) | 2:10 | 2024-05-31 |  |
 | [Totally Fine](https://open.spotify.com/track/0kneNB0JvNLyBqkxGdyvna) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6) | 3:43 | 2022-12-02 | 2023-11-11 |
 | [Treasure](https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Treasure](https://open.spotify.com/album/0V99dg4bfGbJV0s3giFxlO) | 3:11 | 2023-04-21 | 2024-06-01 |
 | [Troglodyte](https://open.spotify.com/track/57cpSE96L3Zz6LgIftPdC9) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Troglodyte](https://open.spotify.com/album/2zebu0G9t7imVuNrdghBOG) | 3:19 | 2022-12-02 | 2023-03-03 |

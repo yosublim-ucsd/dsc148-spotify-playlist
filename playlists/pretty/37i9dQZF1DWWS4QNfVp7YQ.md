@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,852 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,915 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 23 | [Ya Se Tardaron](https://open.spotify.com/track/4CJokP3z9dm9oPOocuCbed) | [Fierro Pa Dubai](https://open.spotify.com/artist/79K7zwm0V8H5AH1nP6Jhze), [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv), [Maxx Gallo](https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2) | [Ya Se Tardaron](https://open.spotify.com/album/4wKTQKjevGrmYplMzNAaVm) | 2:55 |
 | 24 | [vaMos](https://open.spotify.com/track/4bgV7f02Yt2wIdKRVwVYSn) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [Dj Zetian](https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy), [Dj Monst3r5](https://open.spotify.com/artist/2DAs7dxh1jqGtGmK9DWeAe) | [vaMos](https://open.spotify.com/album/4nrtKr0c1QbQDyr8llymgr) | 2:51 |
 | 25 | [Meneando Cadera](https://open.spotify.com/track/23Ds3J2wLjXw1SkN3qICzv) | [Erick Rincon](https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba) | [Meneando Cadera](https://open.spotify.com/album/12keArBDvY9uckQtaIEbSS) | 2:11 |
-| 26 | [Zapatear](https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Zapatear](https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s) | 2:42 |
-| 27 | [Bao Bao](https://open.spotify.com/track/1PzVGPTfbvlcFcHf8HDlGh) | [Tribal Stars](https://open.spotify.com/artist/2sYpzC6VrAQzY3AIXkDSVR), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [Bao Bao](https://open.spotify.com/album/1FuElQORi4fKKJdzRESi9n) | 3:23 |
+| 26 | [Bao Bao](https://open.spotify.com/track/1PzVGPTfbvlcFcHf8HDlGh) | [Tribal Stars](https://open.spotify.com/artist/2sYpzC6VrAQzY3AIXkDSVR), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [Bao Bao](https://open.spotify.com/album/1FuElQORi4fKKJdzRESi9n) | 3:23 |
+| 27 | [Zapatear](https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Zapatear](https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s) | 2:42 |
 | 28 | [Baila Conmigo \(feat\. Kelly Ruiz\) \- Alan Rosales & TBX Remix](https://open.spotify.com/track/58sJHwuNOrGWfKtwwUmrOI) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [TBX](https://open.spotify.com/artist/2RFBrX0e7Zypt7D6BFF0W2), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\) \[Alan Rosales & TBX Remix\]](https://open.spotify.com/album/3My9JWVDGGD6UTPHlj8qLJ) | 2:22 |
 | 29 | [El Tabano](https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb) | [Mickey Vivas](https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua) | [El Tabano](https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf) | 2:22 |
 | 30 | [Afroguaracha](https://open.spotify.com/track/1PHiNCctsPo5yvKRCTbKDn) | [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv) | [Afroguaracha](https://open.spotify.com/album/1OMT3htpBd2nNCHufrTLCi) | 3:09 |

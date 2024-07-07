@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Jos\u00e9 y El Toro en portada.",
-  "num_followers": 534768,
+  "num_followers": 534771,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/58MCZcbUtpCZO2AxzN6ft2"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ponce",
+          "url": "https://open.spotify.com/artist/4ff5IojFqry4841QjwULTV"
+        }
+      ],
+      "duration_ms": 197553,
+      "name": "Por Debajo de la Mesa",
+      "url": "https://open.spotify.com/track/3DhB2He4Zi1TQe8YqJ3167"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "Andr\u00e9s Cepeda Big Band (En Vivo)",
         "url": "https://open.spotify.com/album/0Gpm0iuK5BKbrbX8FJKz1y"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 189285,
       "name": "A\u00fan Me Sigo Encontrando",
       "url": "https://open.spotify.com/track/7Mmrk9FtkiKLpBMietviFf"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/58MCZcbUtpCZO2AxzN6ft2"
-      },
-      "artists": [
-        {
-          "name": "Carlos Ponce",
-          "url": "https://open.spotify.com/artist/4ff5IojFqry4841QjwULTV"
-        }
-      ],
-      "duration_ms": 197553,
-      "name": "Por Debajo de la Mesa",
-      "url": "https://open.spotify.com/track/3DhB2He4Zi1TQe8YqJ3167"
     },
     {
       "added_at": "2024-06-28 06:00:00",

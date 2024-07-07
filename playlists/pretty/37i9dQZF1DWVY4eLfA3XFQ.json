@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Matroda. 50% techno, 50% house",
-  "num_followers": 631123,
+  "num_followers": 631651,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1089,6 +1089,26 @@
       "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "No Sleep (6AM) (feat. MERYLL)",
+        "url": "https://open.spotify.com/album/4UwWfFDYZcjQRnS9Rv94Ro"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 146195,
+      "name": "No Sleep (6AM) (feat. MERYLL)",
+      "url": "https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt"
+    },
+    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "La Musica",
@@ -1111,26 +1131,6 @@
       "duration_ms": 137142,
       "name": "La Musica",
       "url": "https://open.spotify.com/track/7AAV2G6lxJhMm3Dq2LUNwW"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "No Sleep (6AM) (feat. MERYLL)",
-        "url": "https://open.spotify.com/album/4UwWfFDYZcjQRnS9Rv94Ro"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 146195,
-      "name": "No Sleep (6AM) (feat. MERYLL)",
-      "url": "https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1377,30 +1377,6 @@
       "url": "https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "EYAH (You'll Be Alright)",
-        "url": "https://open.spotify.com/album/3ZFctsaDV84rcejIEOHhOv"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "Tudor",
-          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
-        },
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        }
-      ],
-      "duration_ms": 175748,
-      "name": "EYAH (You'll Be Alright)",
-      "url": "https://open.spotify.com/track/2TE1Pr3iaDJdWvGSfMm3TS"
-    },
-    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "Something To Me",
@@ -1415,6 +1391,42 @@
       "duration_ms": 225466,
       "name": "Something To Me",
       "url": "https://open.spotify.com/track/2oCShkda3AnUzwPzZPvQyf"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Rhythm Machine",
+        "url": "https://open.spotify.com/album/0K0ttvuvuaeNPKF9bQ8GmV"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Rhythm Machine",
+      "url": "https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 192187,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1439,22 +1451,6 @@
       "duration_ms": 225587,
       "name": "CARNET - Cloonee Remix",
       "url": "https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 192187,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1497,10 +1493,10 @@
       "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Rhythm Machine",
-        "url": "https://open.spotify.com/album/0K0ttvuvuaeNPKF9bQ8GmV"
+        "name": "EYAH (You'll Be Alright)",
+        "url": "https://open.spotify.com/album/3ZFctsaDV84rcejIEOHhOv"
       },
       "artists": [
         {
@@ -1508,13 +1504,17 @@
           "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
         },
         {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+          "name": "Tudor",
+          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Rhythm Machine",
-      "url": "https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb"
+      "duration_ms": 175748,
+      "name": "EYAH (You'll Be Alright)",
+      "url": "https://open.spotify.com/track/2TE1Pr3iaDJdWvGSfMm3TS"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1609,26 +1609,6 @@
       "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "No Reason (Chris Lake Remix)",
-        "url": "https://open.spotify.com/album/3TEApFY0nZSH1JTceGBK53"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        }
-      ],
-      "duration_ms": 257419,
-      "name": "No Reason - Chris Lake Remix",
-      "url": "https://open.spotify.com/track/2SUKj6aVC879FqCSfVoQPR"
-    },
-    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "I Love It",
@@ -1647,6 +1627,26 @@
       "duration_ms": 166299,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "No Reason (Chris Lake Remix)",
+        "url": "https://open.spotify.com/album/3TEApFY0nZSH1JTceGBK53"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 257419,
+      "name": "No Reason - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/2SUKj6aVC879FqCSfVoQPR"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1789,22 +1789,6 @@
       "url": "https://open.spotify.com/track/2SCkpXTuQOvXySjlz9O1JH"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "While The Record Spins",
-        "url": "https://open.spotify.com/album/135CTWr4t18H7fhDpgQyHr"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 187840,
-      "name": "While The Record Spins",
-      "url": "https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a"
-    },
-    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "You Know It",
@@ -1819,6 +1803,22 @@
       "duration_ms": 235680,
       "name": "You Know It",
       "url": "https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "While The Record Spins",
+        "url": "https://open.spotify.com/album/135CTWr4t18H7fhDpgQyHr"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 187840,
+      "name": "While The Record Spins",
+      "url": "https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1933,26 +1933,6 @@
       "url": "https://open.spotify.com/track/2UWGoFGAYstslkTzLnHLXq"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Tarantula (Max Styler Remix)",
-        "url": "https://open.spotify.com/album/7DQVlvH1zjJBYzQXmNBPQ1"
-      },
-      "artists": [
-        {
-          "name": "Pleasurekraft",
-          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
-        },
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 201243,
-      "name": "Tarantula - Max Styler Remix",
-      "url": "https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn"
-    },
-    {
       "added_at": "2024-06-14 04:00:00",
       "album": {
         "name": "Midnight Train",
@@ -1971,6 +1951,26 @@
       "duration_ms": 214656,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/5Pjzz6xQTDpKzj68jK9E4M"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Tarantula (Max Styler Remix)",
+        "url": "https://open.spotify.com/album/7DQVlvH1zjJBYzQXmNBPQ1"
+      },
+      "artists": [
+        {
+          "name": "Pleasurekraft",
+          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 201243,
+      "name": "Tarantula - Max Styler Remix",
+      "url": "https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2061,22 +2061,6 @@
       "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/6H5RoOEjdjk5K5xOdDMd6l"
-      },
-      "artists": [
-        {
-          "name": "Enzo is Burning",
-          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
-        }
-      ],
-      "duration_ms": 207026,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/4eTOiOcfn4CRhkuJuqXD86"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "PLAY SOME RECORDS",
@@ -2095,6 +2079,22 @@
       "duration_ms": 168983,
       "name": "PLAY SOME RECORDS",
       "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/6H5RoOEjdjk5K5xOdDMd6l"
+      },
+      "artists": [
+        {
+          "name": "Enzo is Burning",
+          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
+        }
+      ],
+      "duration_ms": 207026,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4eTOiOcfn4CRhkuJuqXD86"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2121,6 +2121,22 @@
       "url": "https://open.spotify.com/track/2xbqTrJF39YwEeNKadnMaX"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Freddie's Warmup",
+        "url": "https://open.spotify.com/album/00igoxLQ6l5h5fXz00No8m"
+      },
+      "artists": [
+        {
+          "name": "Vlado",
+          "url": "https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi"
+        }
+      ],
+      "duration_ms": 120930,
+      "name": "Freddie's Warmup",
+      "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
+    },
+    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Runny Nose",
@@ -2145,22 +2161,6 @@
       "url": "https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Freddie's Warmup",
-        "url": "https://open.spotify.com/album/00igoxLQ6l5h5fXz00No8m"
-      },
-      "artists": [
-        {
-          "name": "Vlado",
-          "url": "https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi"
-        }
-      ],
-      "duration_ms": 120930,
-      "name": "Freddie's Warmup",
-      "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
-    },
-    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "Mind Still (feat. blythe) [Tita Lau Remix]",
@@ -2183,6 +2183,26 @@
       "duration_ms": 166153,
       "name": "Mind Still (feat. blythe) - Tita Lau Remix",
       "url": "https://open.spotify.com/track/0PTLOaQWvnRycfCL9i9d9p"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Call 911",
+        "url": "https://open.spotify.com/album/1c9JHP0lzjaEyxgo9Z4e8Y"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        }
+      ],
+      "duration_ms": 224032,
+      "name": "Call 911",
+      "url": "https://open.spotify.com/track/1b8Fw5fYEZHHholqLkqzfX"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -2265,26 +2285,6 @@
       "url": "https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Call 911",
-        "url": "https://open.spotify.com/album/1c9JHP0lzjaEyxgo9Z4e8Y"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "Rafael",
-          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
-        }
-      ],
-      "duration_ms": 224032,
-      "name": "Call 911",
-      "url": "https://open.spotify.com/track/1b8Fw5fYEZHHholqLkqzfX"
-    },
-    {
       "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "Kattapult (James Hype Edit)",
@@ -2341,22 +2341,6 @@
       "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "No Guest List",
-        "url": "https://open.spotify.com/album/6ca7Pb96E9hZh8QFCANfHs"
-      },
-      "artists": [
-        {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
-        }
-      ],
-      "duration_ms": 158906,
-      "name": "No Guest List",
-      "url": "https://open.spotify.com/track/3LKg0CXVZx5ToWLLK7ugHE"
-    },
-    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "P\u00e9gate",
@@ -2371,6 +2355,22 @@
       "duration_ms": 197419,
       "name": "P\u00e9gate",
       "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "No Guest List",
+        "url": "https://open.spotify.com/album/6ca7Pb96E9hZh8QFCANfHs"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "duration_ms": 158906,
+      "name": "No Guest List",
+      "url": "https://open.spotify.com/track/3LKg0CXVZx5ToWLLK7ugHE"
     },
     {
       "added_at": "2024-06-07 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'\. Posłuchaj zwycięzców oraz wszystkich nominowanych na jednej playliście.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,379 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,377 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 75 | [BOISKO](https://open.spotify.com/track/3tYDciIf0Yi6M4YVUmrzNs) | [Pięć Dwa Dębiec](https://open.spotify.com/artist/2us3I6vBlyMnrTztfFBaEl), [Hans Solo](https://open.spotify.com/artist/0RGqYHpCdjYsgMDeDYVSmm), [Pięć Dwa](https://open.spotify.com/artist/0o6JrdV7AuUZZCj2CIFqyG) | [BOISKO](https://open.spotify.com/album/0YCsyFi1aHbqybzcYRZppM) | 3:36 |
 | 76 | [MAŁY ŚWIAT](https://open.spotify.com/track/2X4tIXZ7vYiuExKdKyQ52w) | [Kuba Knap](https://open.spotify.com/artist/5Ucwb48hBmaTemwO30vVXa) | [TipiKnapa](https://open.spotify.com/album/7J60viX5whIH74wxAEd8rX) | 5:33 |
 | 77 | [Spalacz Bud](https://open.spotify.com/track/0XCT3C0W4xwqq2SMBhBci1) | [Dwa Sławy](https://open.spotify.com/artist/1CEONobXawu0XPgPhgTD5a), [Gruby Mielzky](https://open.spotify.com/artist/6f3oixxZSgRKOW2CSqOFqM), [Pers](https://open.spotify.com/artist/6C3KMofGcxnVUqmg8jPgp4), [The Returners](https://open.spotify.com/artist/4zO6WqG8mu49ek0ZDIptTk) | [Spalacz Bud](https://open.spotify.com/album/7Ks8l532ylRq9mivz6i1rf) | 3:21 |
-| 78 | [Jakbym zjadł mentosy i popił je colą](https://open.spotify.com/track/2jooX89F63tQzFxIkJ0lld) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [Jakbym zjadł mentosy i popił je colą](https://open.spotify.com/album/39O1gZ3ub5wXKNGeMqoffT) | 2:48 |
-| 79 | [NIE WYGŁUPIAJ SIĘ](https://open.spotify.com/track/1xRnMNPXGVMmvUr8flF7LC) | [Odys](https://open.spotify.com/artist/6AatL3YtstbqZymDDoxLYm), [Miły ATZ](https://open.spotify.com/artist/1PKW5LFWjU0jJGK2dYS1IE) | [NIE WYGŁUPIAJ SIĘ](https://open.spotify.com/album/6Q28puuldqm6UnFDjckA7u) | 3:11 |
+| 78 | [NIE WYGŁUPIAJ SIĘ](https://open.spotify.com/track/1xRnMNPXGVMmvUr8flF7LC) | [Odys](https://open.spotify.com/artist/6AatL3YtstbqZymDDoxLYm), [Miły ATZ](https://open.spotify.com/artist/1PKW5LFWjU0jJGK2dYS1IE) | [NIE WYGŁUPIAJ SIĘ](https://open.spotify.com/album/6Q28puuldqm6UnFDjckA7u) | 3:11 |
+| 79 | [Jakbym zjadł mentosy i popił je colą](https://open.spotify.com/track/2jooX89F63tQzFxIkJ0lld) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [Jakbym zjadł mentosy i popił je colą](https://open.spotify.com/album/39O1gZ3ub5wXKNGeMqoffT) | 2:48 |
 | 80 | [polonez dla początkujących](https://open.spotify.com/track/6rsBxeaMPY1C9dJZ3mxtZW) | [Afro Kolektyw](https://open.spotify.com/artist/1PHz9tBsAlizVFqzFVSmlk) | [ostatnie słowo](https://open.spotify.com/album/3fx0KMUXyPOQfQjWw1sWMt) | 4:29 |
 | 81 | [2022](https://open.spotify.com/track/0FTOrw5NB3eh5nUkxOt8u4) | [PIH](https://open.spotify.com/artist/4x2dSjOKPB7f2S5moqNGtV) | [2022](https://open.spotify.com/album/1mSuaNOmND4x5K9HnMrVNn) | 5:13 |
 | 82 | [The Realest](https://open.spotify.com/track/0xm9jTnFvc4MyNKFXarfL0) | [Alias Blekaut](https://open.spotify.com/artist/7gH0dKfEhT8GYTXEIieWbS), [Guilty Simpson](https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h), [Peja](https://open.spotify.com/artist/5IQZA1dxUd3Qv73mHNln59), [DJ Eprom](https://open.spotify.com/artist/3Hmg6jjXn5TzGRwrsjGn80) | [The Realest](https://open.spotify.com/album/1EQfcveRO8nKk2juYXbt3t) | 2:49 |

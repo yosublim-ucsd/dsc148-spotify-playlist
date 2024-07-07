@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 🌺 Kannessa emma.
 
-122 songs - 6 hr 11 min
+123 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-07-02 |  |
 | [HKI city girl](https://open.spotify.com/track/3m6oB4GoIC0q2nq7etIz3R) | [ARTEM](https://open.spotify.com/artist/0qSXK9LxTX9HE3jCXSmbvL) | [HKI city girl](https://open.spotify.com/album/0J38JCq37bRhqgXtaJcuVs) | 2:41 | 2024-07-02 |  |
 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:30 | 2024-07-02 |  |
+| [Hurt](https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hurt](https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS) | 2:41 | 2024-07-05 |  |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-07-02 |  |
 | [I Wanna Thank Me \(feat\. Niecy Nash\)](https://open.spotify.com/track/6deUyNbUOrWDytrOtqehmr) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Niecy Nash](https://open.spotify.com/artist/2hK8Hdnk56sxGMswzFbXaD) | [I Wanna Thank Me \(feat\. Niecy Nash\)](https://open.spotify.com/album/0XWBLjX39G0QsoItK55PmO) | 2:23 | 2024-07-02 |  |
 | [I'm The Drama](https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm The Drama](https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx) | 2:36 | 2024-07-02 |  |
@@ -118,7 +119,7 @@
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-04 |  |
 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 | 2024-07-04 |  |
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-07-02 |  |
-| [Valheista kaunein](https://open.spotify.com/track/2W1fGOBi9irc3iLZb6D7Pp) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Valheista kaunein](https://open.spotify.com/album/2AtAyhsTL41uPOSyOo2AZz) | 2:40 | 2024-07-02 |  |
+| [Valheista kaunein](https://open.spotify.com/track/2W1fGOBi9irc3iLZb6D7Pp) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Valheista kaunein](https://open.spotify.com/album/2AtAyhsTL41uPOSyOo2AZz) | 2:40 | 2024-07-02 | 2024-07-07 |
 | [Valoo](https://open.spotify.com/track/6KdPIGub25sVLeDZRwB7U0) | [Maria Åman](https://open.spotify.com/artist/76DQ5O35CGy0Y0XyW3Oa2M) | [Valoo](https://open.spotify.com/album/3QhOrSODz6PUrFtcQnsxWh) | 2:25 | 2024-07-02 | 2024-07-05 |
 | [Vasta aamulla](https://open.spotify.com/track/149AoaNG8ZujYMDg02IDr3) | [MIKAYLA](https://open.spotify.com/artist/1HTqDkXCcdMUAalw6a3BK8) | [Vasta aamulla](https://open.spotify.com/album/2RvUPAoyS7JaZFLLThiLxs) | 3:10 | 2024-07-02 | 2024-07-05 |
 | [Velkaa](https://open.spotify.com/track/5ItsWCQ97a5kt2pFglV9ZN) | [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Velkaa](https://open.spotify.com/album/6zTk34ayu8vfMfbh5BmWnH) | 3:25 | 2024-07-02 | 2024-07-05 |

@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-301 songs - 1 day 4 hr 38 min
+302 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Além do Impossível \- Ao Vivo](https://open.spotify.com/track/1nuW79gsHvrnt281HVKQBO) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Além do Impossível \(Ao Vivo\)](https://open.spotify.com/album/3DKovkIoXI4UXbJnp8i3pu) | 4:26 | 2023-07-14 | 2023-10-21 |
 | [Além do Rio Azul \- Ao Vivo](https://open.spotify.com/track/7vnA8F8Eu1Wcye76U7CKkh) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Além do Rio Azul \(Ao Vivo\)](https://open.spotify.com/album/5jYmlFT4rPKgl3LJ9BJkVp) | 5:06 | 2023-06-23 |  |
 | [Anseio Ardente \- Ao Vivo](https://open.spotify.com/track/3AcVl7SE6owh7okU2oQBUQ) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Anseio Ardente \(Ao Vivo\)](https://open.spotify.com/album/3POR0uxg3pcTRugYmPVGGi) | 6:44 | 2023-02-11 | 2023-02-18 |
-| [Aos Pés da Cruz \- Ao Vivo](https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Aos Pés da Cruz \(Ao Vivo\)](https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF) | 4:25 | 2024-06-21 |  |
+| [Aos Pés da Cruz \- Ao Vivo](https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Aos Pés da Cruz \(Ao Vivo\)](https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF) | 4:25 | 2024-06-21 | 2024-07-07 |
 | [Aquieta Minh'alma](https://open.spotify.com/track/2pfh4FmcvPTqBYApHaV6p3) | [Ministério Zoe](https://open.spotify.com/artist/6bxqwbU9pD8GXcuSmNSSHU) | [Eu Me Atrevi a Te Chamar de Abba](https://open.spotify.com/album/2QgaEgtRuW1EZ3zk7J4oNd) | 7:05 | 2022-09-09 | 2024-04-19 |
 | [As Árvores Balançam](https://open.spotify.com/track/5MWJlb6uzk7fDNx8GyGMsx) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Para Levi: Parte 1](https://open.spotify.com/album/0lKNqBTPlvZeq54DWnjTxX) | 1:49 | 2024-04-26 |  |
 | [Autor da Vida](https://open.spotify.com/track/2iCrDCZRIiqXkoRY6eDviQ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Autor da Vida](https://open.spotify.com/album/4gHZbXybaO7k9sQducvAeN) | 4:55 | 2023-09-01 | 2023-09-17 |
@@ -173,6 +173,7 @@
 | [No Secreto](https://open.spotify.com/track/5jBDl0t9QF4hHkElNCbmsg) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [No Secreto](https://open.spotify.com/album/1qeqGRnRFznboGc8pkGl2c) | 4:27 | 2023-03-03 | 2023-03-12 |
 | [No Silêncio](https://open.spotify.com/track/5uWsP8qTYiCLycyFxf9pYE) | [Ministério Zoe](https://open.spotify.com/artist/6bxqwbU9pD8GXcuSmNSSHU) | [Há Um Vinho Novo](https://open.spotify.com/album/0W1v4pLLRqIU5SOMrcqK80) | 5:14 | 2023-03-11 | 2024-04-19 |
 | [Nobody \(feat\. Matthew West\)](https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Only Jesus](https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB) | 3:26 | 2022-09-09 | 2023-11-25 |
+| [Nunca Abandone a Fé \- Ao Vivo](https://open.spotify.com/track/0ajhPg035PzOvPIh8tcmZ6) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Nunca Abandone a Fé \(Ao Vivo\)](https://open.spotify.com/album/3eskt4dpkhsZeNsrE4oHU9) | 4:24 | 2024-07-05 |  |
 | [Nunca Pare de Lutar](https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 7:56 | 2023-06-23 |  |
 | [Náufrago](https://open.spotify.com/track/7DUs3Bi0639PMeAnBAIUOT) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Náufrago](https://open.spotify.com/album/0SAlbW5iw08FjHuAj6I65U) | 5:51 | 2022-11-26 | 2023-01-14 |
 | [Não a Nós \- Ao Vivo](https://open.spotify.com/track/65tULRxe8b2cbj7sdhJiOy) | [SOM DO CÉU](https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Marcão Pacheco](https://open.spotify.com/artist/2DIyTpJ38jtpi4bvbmezh4) | [Não a Nós \(Ao Vivo\)](https://open.spotify.com/album/4ZIOvgzV9QPmIRu16ZrtmD) | 6:04 | 2024-06-14 | 2024-07-06 |

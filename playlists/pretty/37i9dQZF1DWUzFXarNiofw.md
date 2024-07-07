@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Odeal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,039,750 likes - 200 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,039,811 likes - 200 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 84 | [Unbothered](https://open.spotify.com/track/70KneIyETnRCR0bUwKSjwz) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Unbothered](https://open.spotify.com/album/0HM5xmkTOEzur0wayhKqae) | 3:06 |
 | 85 | [LEMON TREES](https://open.spotify.com/track/3P4nm6VN7ZHA8Xbd4KGkIk) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [LEMON TREES](https://open.spotify.com/album/5doYyd0IKAUbUtrYL6DGOV) | 2:31 |
 | 86 | [Count On Me](https://open.spotify.com/track/1NFEXNMg8AZ0jGSux4CJdd) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Cape Town to Cairo](https://open.spotify.com/album/3xrdk0MImcnbt9NEc7pSnK) | 2:49 |
-| 87 | [ONOME](https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg) | 3:17 |
+| 87 | [ONOME](https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg) | 3:18 |
 | 88 | [ARABAMBI](https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI](https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1) | 3:10 |
 | 89 | [No Lie](https://open.spotify.com/track/7k9EZESFOvZavFZ3xFPsh2) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [VANTABLACK](https://open.spotify.com/album/2OObNk2YheZrtE1YYZLhD7) | 4:29 |
 | 90 | [2 Million Secrets](https://open.spotify.com/track/3NdaK14IqqJ2nTJcpB2HLY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [2 Million Secrets](https://open.spotify.com/album/1KtNb4lHJqr0XcRpqhp6zF) | 2:53 |

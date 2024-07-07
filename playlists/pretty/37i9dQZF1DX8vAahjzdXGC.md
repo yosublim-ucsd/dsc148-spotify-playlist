@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: eaJ, Hindia
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,712 likes - 90 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,729 likes - 90 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 33 | [ファタール \- Fatal](https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT) | [GEMN](https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ファタール \- Fatal](https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL) | 3:39 |
 | 34 | [ホムンクルス](https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ホムンクルス](https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes) | 3:50 |
 | 35 | [RuLe](https://open.spotify.com/track/1SGsYkgcVoGd4GCBlQyuYh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [RuLe](https://open.spotify.com/album/7gjjcHhpt9R2L5uZspoACk) | 3:17 |
-| 36 | [This Day & Age \(feat\. Natasha Udu\) \(RIMALDI Reanimated\)](https://open.spotify.com/track/3KDSxEVrAkP4RfJaSWWctd) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [Natasha Udu](https://open.spotify.com/artist/5788KAWYDqWlejC63W92S7) | [Hope + Love: reanimated edition](https://open.spotify.com/album/3Z5eDoTbEzeaEKWkwoQeUh) | 3:14 |
+| 36 | [This Day & Age \(feat\. Natasha Udu\) \(RIMALDI Reanimated\)](https://open.spotify.com/track/3KDSxEVrAkP4RfJaSWWctd) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [Natasha Udu](https://open.spotify.com/artist/5788KAWYDqWlejC63W92S7), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Hope + Love: reanimated edition](https://open.spotify.com/album/3Z5eDoTbEzeaEKWkwoQeUh) | 3:14 |
 | 37 | [Pick Up](https://open.spotify.com/track/1EEKpqLzqH7tKTFe1Ucl7W) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA) | [Pick Up](https://open.spotify.com/album/2RnIXWCQQfjSjqLkpdX1Yx) | 2:45 |
 | 38 | [Jangan Terlalu](https://open.spotify.com/track/0Zdo9YUOun1DscWe53UVbo) | [Mr\. Sonjaya](https://open.spotify.com/artist/6iUFomcMsqFIyq87u1UEwl) | [Jangan Terlalu](https://open.spotify.com/album/5YaLTKQWdGIpmxnehrTdMa) | 3:56 |
 | 39 | [HILANG AKAL](https://open.spotify.com/track/5WnYNmF4fdoR7F6qUcnwbW) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz) | [FRACTURE Companion EP 2](https://open.spotify.com/album/0xoSGXk2RqkFDJY4IClWXT) | 3:46 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 45 | [This Is The Sound Of Your Voice](https://open.spotify.com/track/2G75SQhhr9B6boZFgnK4In) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [This Is The Sound Of Your Voice](https://open.spotify.com/album/4IitM3XDHnMJQQXcW65Dd4) | 4:30 |
 | 46 | [Untukmu](https://open.spotify.com/track/2LUBuAQHbXYet792SqD1L5) | [Danyannisa](https://open.spotify.com/artist/2AWnRV889vjq7HLW6kEOVW) | [Untukmu](https://open.spotify.com/album/0NaEN66fsELpbLDHg7Spnp) | 3:03 |
 | 47 | [Twenty Five](https://open.spotify.com/track/7ePuvg3tvenUr0a054Nfmf) | [Farhan Hafizhan](https://open.spotify.com/artist/3BrsIi7Djd56vpSq6Zw8pK) | [Twenty Five](https://open.spotify.com/album/0maHKe3I8KVa33L4vJfbQP) | 3:35 |
-| 48 | [Teman Biasa](https://open.spotify.com/track/0Xp8IA1m26qmkD5s10l0kY) | [Single Season](https://open.spotify.com/artist/6o7w79vv5oOl4yu4VRNF6z) | [Teman Biasa](https://open.spotify.com/album/3HzwayVEbvEFchfadDedWh) | 4:27 |
+| 48 | [Teman Biasa](https://open.spotify.com/track/0Xp8IA1m26qmkD5s10l0kY) | [Single Season](https://open.spotify.com/artist/0RZVavGo94qgo6HfBz7D8D) | [Teman Biasa](https://open.spotify.com/album/3HzwayVEbvEFchfadDedWh) | 4:27 |
 | 49 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 |
 | 50 | [\(Can’t Get You\) Off My Mind](https://open.spotify.com/track/2nBqFmllpg9RXlWGKpSWQT) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [\(Can’t Get You\) Off My Mind](https://open.spotify.com/album/21ML2b7P3BVsthK09Qqn9J) | 2:52 |
 | 51 | [LOVE RECIPE](https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [WONDO Project : LOVE RECIPE, Vol.1](https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7) | 3:51 |

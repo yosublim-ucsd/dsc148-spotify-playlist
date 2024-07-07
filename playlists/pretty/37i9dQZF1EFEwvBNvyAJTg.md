@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 164 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 166 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 52 | [Impossible Is Nothing](https://open.spotify.com/track/0wjP81vqcXgjkCZDdIdwoL) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The New Classic](https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh) | 3:10 |
 | 53 | [No Angel](https://open.spotify.com/track/4neipBD8hA1q2g1FS9hgAC) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Focus / No Angel](https://open.spotify.com/album/7uBztHlyuZ9oSE4faTYWXX) | 3:06 |
 | 54 | [MISBEHAVE](https://open.spotify.com/track/32lyiJgk8LYfVBTkhq7kCW) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV](https://open.spotify.com/album/2O5KXxROQOR8WOdB8fgTCp) | 3:24 |
-| 55 | [When I Lie \(Remix\) \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6lLDL0dGG00wcyo1yQTnUY) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [For The Throne \(Music Inspired by the HBO Series Game of Thrones\)](https://open.spotify.com/album/00xUnMv4KFgxTBvNMsUy3T) | 3:13 |
-| 56 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
+| 55 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
+| 56 | [When I Lie \(Remix\) \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6lLDL0dGG00wcyo1yQTnUY) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [For The Throne \(Music Inspired by the HBO Series Game of Thrones\)](https://open.spotify.com/album/00xUnMv4KFgxTBvNMsUy3T) | 3:13 |
 | 57 | [I think about it all the time](https://open.spotify.com/track/3OaFGqHUyxGVkOcSILw8Kx) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:15 |
 | 58 | [Let You](https://open.spotify.com/track/04RDD103rSChGr2X3SbSyC) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Let You](https://open.spotify.com/album/2cezX4lRWqayjA6j82aYyE) | 2:46 |
 | 59 | [What You Waiting For](https://open.spotify.com/track/3tjNFVYyJwiWAq1XfHWLMj) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 4:11 |
@@ -169,8 +169,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 159 | [Revived](https://open.spotify.com/track/196IEpHnMLllSSIRndFEGX) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 3:15 |
 | 160 | [Enjoy Youth](https://open.spotify.com/track/3fBT8ulgB2jVaOr77QEV9u) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 4:11 |
 | 161 | [I himmelen](https://open.spotify.com/track/2r7OdJQjeDmbP8ZHIPzSax) | [Karin Rehnqvist](https://open.spotify.com/artist/22V1sU3X8UJAc9bdMVMNUc), [Rebecka Ohm](https://open.spotify.com/artist/0d9gGTaaNCVoP6lC7qf7Ef), [Annie von Heijne](https://open.spotify.com/artist/19yuUnLS3gWlJQsFgULOHu), [Allmänna Sången](https://open.spotify.com/artist/6qS7wBpG5JjMvkai9fsIdy), [Anders Widmark](https://open.spotify.com/artist/4ZgY2pumPsq9z3kNxGTDef), [Cecilia Rydinger Alin](https://open.spotify.com/artist/5gbHOFxAxYXBnHbJKgShOt) | [Resonanser: Swedish Choral Music – New Perspectives](https://open.spotify.com/album/6xFDJQJlUq5KH7YF7iO49m) | 5:56 |
-| 162 | [You See With Me](https://open.spotify.com/track/1aMprQZZZwyJKM4kzxr995) | [Alex Gardner](https://open.spotify.com/artist/1rHR38xXeAXi7aVtjznK7Z) | [The Alex Gardner EP](https://open.spotify.com/album/3t8DPuRKT4Y9lDx1dEjbYH) | 4:18 |
-| 163 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
-| 164 | [What You Waiting For](https://open.spotify.com/track/5XoO5CqmGa6CT8qOZI9IuV) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/0GgDhgPS8j48IASnd7LZEa) | 3:46 |
+| 162 | [Fantasy](https://open.spotify.com/track/7ycOHP8qG6lfvjc0nx6eSG) | [RoZe](https://open.spotify.com/artist/3FnDrB5pRYfH6sN3FSw3L3) | [Fantasy](https://open.spotify.com/album/39NbYK8IiqbxjySgrqJE8U) | 2:53 |
+| 163 | [You See With Me](https://open.spotify.com/track/1aMprQZZZwyJKM4kzxr995) | [Alex Gardner](https://open.spotify.com/artist/1rHR38xXeAXi7aVtjznK7Z) | [The Alex Gardner EP](https://open.spotify.com/album/3t8DPuRKT4Y9lDx1dEjbYH) | 4:18 |
+| 164 | [Saturday](https://open.spotify.com/track/5PKcv8T4xv1IbcW1s7lklP) | [RoZe](https://open.spotify.com/artist/3FnDrB5pRYfH6sN3FSw3L3) | [Greener Grass](https://open.spotify.com/album/6Rx9pQ9UbIDAPpNXvHPmGx) | 3:05 |
+| 165 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
+| 166 | [What You Waiting For](https://open.spotify.com/track/5XoO5CqmGa6CT8qOZI9IuV) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/0GgDhgPS8j48IASnd7LZEa) | 3:46 |
 
-Snapshot ID: `AbV6agAAAADwuyEVWFqfTWQRzI+pFMlP`
+Snapshot ID: `AbWACgAAAACG3YQQtTQRmPiCwGHHOhOo`

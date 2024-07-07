@@ -4,7 +4,7 @@
 
 > Personification of summer! So hot that I can't relate 📸 Knox
 
-2,106 songs - 4 day 9 hr 56 min
+2,107 songs - 4 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Break For You](https://open.spotify.com/track/3Se8tSB8mzb7EgAieHsFut) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Lost In Translation](https://open.spotify.com/album/2QNQe0cnmzYYc0QcKeEZgb) | 2:34 | 2023-06-30 | 2024-01-05 |
 | [Break Up](https://open.spotify.com/track/1gp97syO65VxKgH8ew19tb) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [Break Up](https://open.spotify.com/album/3iyrgPqlArYixTFDvb4inx) | 3:34 | 2022-10-07 | 2022-12-03 |
 | [Breakfast With You](https://open.spotify.com/track/7BmSy7lf9pPK1X1y0xfgzo) | [Shannen James](https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE) | [Breakfast With You](https://open.spotify.com/album/64jYA3DliGLlsFdx7Yiv57) | 4:02 | 2022-02-25 | 2022-03-26 |
-| [Breakthrough](https://open.spotify.com/track/3CbTqAhSMl1p41PEx9Tc4E) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [Breakthrough](https://open.spotify.com/album/0ZQ9F867lpLrMArteZet0J) | 2:36 | 2024-02-23 |  |
+| [Breakthrough](https://open.spotify.com/track/3CbTqAhSMl1p41PEx9Tc4E) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [Breakthrough](https://open.spotify.com/album/0ZQ9F867lpLrMArteZet0J) | 2:36 | 2024-02-23 | 2024-07-07 |
 | [breakup song](https://open.spotify.com/track/0UzEXxCeUvdARQhCpbR3EI) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [breakup song](https://open.spotify.com/album/4RoEOdEz9SvEmKTpJHmGoM) | 3:04 | 2022-05-20 | 2022-06-06 |
 | [Breathe Deeper \- Lil Yachty Remix](https://open.spotify.com/track/6GtOsEzNUhJghrIf6UTbRV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Breathe Deeper \(Lil Yachty Remix\)](https://open.spotify.com/album/3Gl28UI0f8xU2DAhaXWz04) | 4:48 | 2021-10-08 | 2022-03-26 |
 | [Bring Back The Beat](https://open.spotify.com/track/10HGnM2Bo6BGYAlcrC6N5O) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Bring Back The Beat](https://open.spotify.com/album/71qCLGh8kLzsm8PrRok8gx) | 3:13 | 2024-06-21 |  |
@@ -2037,6 +2037,7 @@
 | [Whatever You Want](https://open.spotify.com/track/3qskzElWxkInIwK3zm8WW7) | [Kaptan](https://open.spotify.com/artist/7yNfjZY3QJpm4cUj1i0fWD) | [Whatever You Want](https://open.spotify.com/album/7uPYJlZtWuThRn1hZHxOSG) | 3:20 | 2020-06-12 | 2021-11-10 |
 | [When I Die](https://open.spotify.com/track/0GXnZ1eaJ2TmbFXrDX7pnU) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [When I Die](https://open.spotify.com/album/6wjps6LANkpBonwtE1VXw8) | 2:37 | 2019-05-26\* | 2021-05-27 |
 | [When I Go](https://open.spotify.com/track/3f14ZwIm04kRnPiqBBIcui) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [When I Go](https://open.spotify.com/album/4c8ZAnCNfoJQN0BxloIgbS) | 3:19 | 2023-09-22 | 2023-12-09 |
+| [When It Rains](https://open.spotify.com/track/3QZTCVkRbtZG3Jp4vwhV1F) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [When It Rains](https://open.spotify.com/album/5rknaasYykSFpXCMy5m4Zh) | 2:49 | 2024-07-05 |  |
 | [When It's Too Good](https://open.spotify.com/track/70LHZbkrT4kOBcyICCJ0xJ) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [When It's Too Good](https://open.spotify.com/album/1B2ei3s6f1IoGv4E392XlL) | 2:28 | 2022-01-07 | 2022-01-29 |
 | [When We Were Younger \(feat\. Cavetown\)](https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [When We Were Younger \(feat\. Cavetown\)](https://open.spotify.com/album/0nYhWc5ZvFPrfHAq6a08yh) | 3:54 | 2023-07-14 | 2023-07-31 |
 | [When You Know Someone](https://open.spotify.com/track/2KA5X1bvsobQBETOQ4YClI) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [When You Know Someone](https://open.spotify.com/album/64XNQyeeluFB03RJhIs0dT) | 3:40 | 2024-05-10 |  |

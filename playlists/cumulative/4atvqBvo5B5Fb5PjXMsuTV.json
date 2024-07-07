@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-04-26",
   "description": "Updated daily, with the latest popular singles!",
-  "name": "NEW SINGLES RELEASES | UPDATED 06 JUL",
+  "name": "NEW SINGLES RELEASES | UPDATED 07 JUL",
   "tracks": [
     {
       "album": {
@@ -4138,7 +4138,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 163619,
       "name": "Death of the Party",
       "url": "https://open.spotify.com/track/2VUi7RJrMOf9VgQ3WwGHLO"
@@ -10659,6 +10659,24 @@
     },
     {
       "album": {
+        "name": "Mindset",
+        "url": "https://open.spotify.com/album/23FgNkUlrdyxGS6yTBFmDb"
+      },
+      "artists": [
+        {
+          "name": "Only The Poets",
+          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155832,
+      "name": "Mindset",
+      "url": "https://open.spotify.com/track/10oE9653NIrmAtbzcb7mZ1"
+    },
+    {
+      "album": {
         "name": "Mink",
         "url": "https://open.spotify.com/album/7wM4xWUZjUsaUEF0xAsfgZ"
       },
@@ -11746,7 +11764,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 212000,
       "name": "No \u00d8 Zone (feat. VonOff1700)",
       "url": "https://open.spotify.com/track/1dShewvlJ7mlMzTBuhd1uQ"
@@ -12613,6 +12631,36 @@
     },
     {
       "album": {
+        "name": "Pistazieneis",
+        "url": "https://open.spotify.com/album/4j7WNx3I81WGPiadrrCOtB"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+        },
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137972,
+      "name": "Pistazieneis",
+      "url": "https://open.spotify.com/track/0O1LqLDF2mQmWVlSrC4Mwn"
+    },
+    {
+      "album": {
         "name": "Placebo",
         "url": "https://open.spotify.com/album/25sy5aAwbpZ3hBPU0aw6VF"
       },
@@ -12762,7 +12810,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 194925,
       "name": "POISONOUS",
       "url": "https://open.spotify.com/track/6EgopYXPE6JT3xLc6oUwg0"
@@ -15592,7 +15640,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 148851,
       "name": "summer freestyle",
       "url": "https://open.spotify.com/track/2SAJOItT7JSZVbtA1Dy9dU"
@@ -16846,6 +16894,24 @@
       "duration_ms": 235378,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/3ySRdYSAInV4VgBt5aTr2r"
+    },
+    {
+      "album": {
+        "name": "TIFIYO!",
+        "url": "https://open.spotify.com/album/2PWa31q66mVVgV5lNL1u8H"
+      },
+      "artists": [
+        {
+          "name": "K-OS",
+          "url": "https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231562,
+      "name": "TIFIYO!",
+      "url": "https://open.spotify.com/track/3gdmuo5KQtcEGgcM6rIHxI"
     },
     {
       "album": {
@@ -18908,6 +18974,24 @@
       "duration_ms": 289648,
       "name": "\u307e\u3060\u65e9\u3044\u679c\u7269",
       "url": "https://open.spotify.com/track/3TdQ9gzUlb8xLs6tBBMzEW"
+    },
+    {
+      "album": {
+        "name": "\u30d6\u30e9\u30c3\u30af\u30dc\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/1TulMUgDxLY8Yy5gaauvMD"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2024-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246223,
+      "name": "\u30d6\u30e9\u30c3\u30af\u30dc\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/12ZNHYLBtfcrNWUepsoOzR"
     },
     {
       "album": {

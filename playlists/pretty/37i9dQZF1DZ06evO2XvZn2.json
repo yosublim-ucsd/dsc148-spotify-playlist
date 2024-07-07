@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 14986,
+  "num_followers": 14985,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
-  "snapshot_id": "ZoXmAAAAAADxBQRo1nkiZn9evhqIectq",
+  "snapshot_id": "Zoc3gAAAAAAYLSt3i1M/GodymzE2pKgg",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avivamiento",
-        "url": "https://open.spotify.com/album/5HrZsblI2GKiT8FcKRo3BM"
+        "name": "Luna Para Ti (feat. Riccardo Frascari)",
+        "url": "https://open.spotify.com/album/5PwTYoP0LgXel5HctvYlsm"
       },
       "artists": [
         {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
-        },
-        {
           "name": "Evaluna Montaner",
           "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
         }
       ],
-      "duration_ms": 359303,
-      "name": "Quiero A Cristo",
-      "url": "https://open.spotify.com/track/6mAU2YRQkhWdk5LZyxsyz0"
+      "duration_ms": 212362,
+      "name": "Luna Para Ti (feat. Riccardo Frascari)",
+      "url": "https://open.spotify.com/track/4zpwnpqgv58YIE3mGqxHBU"
     },
     {
       "added_at": null,
@@ -615,26 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna Para Ti (feat. Riccardo Frascari)",
-        "url": "https://open.spotify.com/album/5PwTYoP0LgXel5HctvYlsm"
+        "name": "Avivamiento",
+        "url": "https://open.spotify.com/album/5HrZsblI2GKiT8FcKRo3BM"
       },
       "artists": [
         {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        },
+        {
           "name": "Evaluna Montaner",
           "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Riccardo Frascari",
-          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
         }
       ],
-      "duration_ms": 212362,
-      "name": "Luna Para Ti (feat. Riccardo Frascari)",
-      "url": "https://open.spotify.com/track/4zpwnpqgv58YIE3mGqxHBU"
+      "duration_ms": 359303,
+      "name": "Quiero A Cristo",
+      "url": "https://open.spotify.com/track/6mAU2YRQkhWdk5LZyxsyz0"
     },
     {
       "added_at": null,

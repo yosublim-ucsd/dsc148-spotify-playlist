@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This is GloRilla. The essential tracks, all in one playlist.",
+  "description": "This Is GloRilla. Los temas esenciales, todos en una lista.",
   "name": "This Is GloRilla",
   "tracks": [
     {
@@ -919,6 +919,28 @@
     },
     {
       "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159720,
+      "name": "On Wat U On (with GloRilla)",
+      "url": "https://open.spotify.com/track/6eHksHmETBULwFo0N3k562"
+    },
+    {
+      "album": {
         "name": "OOOHH",
         "url": "https://open.spotify.com/album/51Q9lpFEfU4iyXOgtSo7E1"
       },
@@ -1062,7 +1084,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 175463,
       "name": "PHATNALL",
       "url": "https://open.spotify.com/track/3HEiAAH5AdjA3ac3aVTQpE"
@@ -1338,7 +1360,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 209811,
       "name": "Tomorrow 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"

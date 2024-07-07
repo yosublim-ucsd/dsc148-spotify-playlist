@@ -1,6 +1,6 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Cancamusa.",
-  "num_followers": 121848,
+  "num_followers": 121855,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
@@ -83,26 +83,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "El diablo en el cuerpo",
-        "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 266875,
-      "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
-      "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "ACUARIO",
         "url": "https://open.spotify.com/album/5gxF2FABOq6pp3egtmYdlr"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 272695,
       "name": "ACUARIO",
       "url": "https://open.spotify.com/track/1QkgeUObaAPCDlbSB4mAh2"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "El diablo en el cuerpo",
+        "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 266875,
+      "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
+      "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Pangal",
-        "url": "https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp"
-      },
-      "artists": [
-        {
-          "name": "Arranquemos del Invierno",
-          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
-        }
-      ],
-      "duration_ms": 174325,
-      "name": "Pangal",
-      "url": "https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "PODER - Lilith: 6",
         "url": "https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 200245,
       "name": "NI\u00d1A",
       "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Pangal",
+        "url": "https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp"
+      },
+      "artists": [
+        {
+          "name": "Arranquemos del Invierno",
+          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
+        }
+      ],
+      "duration_ms": 174325,
+      "name": "Pangal",
+      "url": "https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
+        "name": "Me Hace Bien Amarte",
+        "url": "https://open.spotify.com/album/7MllTlZeTUSLYWKL6IvYrh"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 168714,
+      "name": "Me Hace Bien Amarte",
+      "url": "https://open.spotify.com/track/3Ef1CBavoZnZ2v6Mjfq6Xg"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
         "name": "Abducida (Remix)",
         "url": "https://open.spotify.com/album/0Cg2PqBsAUtcMFHKph7TvX"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5lpEBuXr9cSb1jXnOySI0g"
-      },
-      "artists": [
-        {
-          "name": "Arranquemos del Invierno",
-          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
-        }
-      ],
-      "duration_ms": 163885,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3SRRSI56Cus8ePoxIVysNg"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Palpitar",
         "url": "https://open.spotify.com/album/5B6QXKGSHcLCvz870d0xCp"
       },
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Me Hace Bien Amarte",
-        "url": "https://open.spotify.com/album/7MllTlZeTUSLYWKL6IvYrh"
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5lpEBuXr9cSb1jXnOySI0g"
       },
       "artists": [
         {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+          "name": "Arranquemos del Invierno",
+          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
         }
       ],
-      "duration_ms": 168714,
-      "name": "Me Hace Bien Amarte",
-      "url": "https://open.spotify.com/track/3Ef1CBavoZnZ2v6Mjfq6Xg"
+      "duration_ms": 163885,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3SRRSI56Cus8ePoxIVysNg"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Piel de Cristal",
-        "url": "https://open.spotify.com/album/1bVHLYQ1tvRHiUl7z5c6sB"
-      },
-      "artists": [
-        {
-          "name": "Montse",
-          "url": "https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm"
-        }
-      ],
-      "duration_ms": 286976,
-      "name": "Piel de Cristal",
-      "url": "https://open.spotify.com/track/5QAU2CEWWsHfku4NxqEqpr"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Ya No Te Quiero",
         "url": "https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy"
       },
@@ -935,6 +919,38 @@
       "duration_ms": 197566,
       "name": "Ya No Te Quiero",
       "url": "https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Bailar en la Cuerda Floja",
+        "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 221620,
+      "name": "Bailar en la Cuerda Floja",
+      "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Piel de Cristal",
+        "url": "https://open.spotify.com/album/1bVHLYQ1tvRHiUl7z5c6sB"
+      },
+      "artists": [
+        {
+          "name": "Montse",
+          "url": "https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm"
+        }
+      ],
+      "duration_ms": 286976,
+      "name": "Piel de Cristal",
+      "url": "https://open.spotify.com/track/5QAU2CEWWsHfku4NxqEqpr"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -959,22 +975,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Bailar en la Cuerda Floja",
-        "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 221620,
-      "name": "Bailar en la Cuerda Floja",
-      "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Espiral, Pt. 1",
         "url": "https://open.spotify.com/album/77BAbdA4KSnWqkdBGFxFft"
       },
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "IKARO",
-        "url": "https://open.spotify.com/album/687jphzyNm4w2mjd2BASOk"
-      },
-      "artists": [
-        {
-          "name": "Planetario",
-          "url": "https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga"
-        }
-      ],
-      "duration_ms": 363750,
-      "name": "Diferente",
-      "url": "https://open.spotify.com/track/5B9czb7Nibn6TP9sANx5xK"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/7gNdaydtI1DfL8EB5GJxBn"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 277714,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/1CmeVB662WNqknJ78htsuB"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "IKARO",
+        "url": "https://open.spotify.com/album/687jphzyNm4w2mjd2BASOk"
+      },
+      "artists": [
+        {
+          "name": "Planetario",
+          "url": "https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga"
+        }
+      ],
+      "duration_ms": 363750,
+      "name": "Diferente",
+      "url": "https://open.spotify.com/track/5B9czb7Nibn6TP9sANx5xK"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Rapapapaum",
-        "url": "https://open.spotify.com/album/2rXJTy0So75AGP4XV1mAxw"
-      },
-      "artists": [
-        {
-          "name": "Mouzeh",
-          "url": "https://open.spotify.com/artist/5bv4mvzzv7fsqObEU4WVPy"
-        },
-        {
-          "name": "Blazer",
-          "url": "https://open.spotify.com/artist/399SMyeutEpMLsaBeUW5fA"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "Rapapapaum",
-      "url": "https://open.spotify.com/track/3dvjfnYJUh6ZWKX4ZAxsgT"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "aterrizar",
         "url": "https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h"
       },
@@ -1139,22 +1119,18 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Juntos",
-        "url": "https://open.spotify.com/album/6PIXHkkkEtSNtPfkELn6SM"
+        "name": "Albor",
+        "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
       },
       "artists": [
         {
-          "name": "L!mbus",
-          "url": "https://open.spotify.com/artist/4DOAYcnLuG4D09awGDzAGS"
-        },
-        {
-          "name": "Entr\u00f3pica",
-          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
         }
       ],
-      "duration_ms": 244085,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/2arqRzisztcxm4EhjESG3D"
+      "duration_ms": 201123,
+      "name": "Esta vislumbra",
+      "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1175,18 +1151,42 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Albor",
-        "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
+        "name": "Rapapapaum",
+        "url": "https://open.spotify.com/album/2rXJTy0So75AGP4XV1mAxw"
       },
       "artists": [
         {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+          "name": "Mouzeh",
+          "url": "https://open.spotify.com/artist/5bv4mvzzv7fsqObEU4WVPy"
+        },
+        {
+          "name": "Blazer",
+          "url": "https://open.spotify.com/artist/399SMyeutEpMLsaBeUW5fA"
         }
       ],
-      "duration_ms": 201123,
-      "name": "Esta vislumbra",
-      "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
+      "duration_ms": 170057,
+      "name": "Rapapapaum",
+      "url": "https://open.spotify.com/track/3dvjfnYJUh6ZWKX4ZAxsgT"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Juntos",
+        "url": "https://open.spotify.com/album/6PIXHkkkEtSNtPfkELn6SM"
+      },
+      "artists": [
+        {
+          "name": "L!mbus",
+          "url": "https://open.spotify.com/artist/4DOAYcnLuG4D09awGDzAGS"
+        },
+        {
+          "name": "Entr\u00f3pica",
+          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
+        }
+      ],
+      "duration_ms": 244085,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/2arqRzisztcxm4EhjESG3D"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1251,6 +1251,34 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
+        "name": "entre las sombras,",
+        "url": "https://open.spotify.com/album/2JwsMCwIT8sIXw1kAVY99p"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        },
+        {
+          "name": "Martina Lluvias",
+          "url": "https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo"
+        },
+        {
+          "name": "Mora Lucay",
+          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
+        },
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
+        }
+      ],
+      "duration_ms": 270279,
+      "name": "entre las sombras,",
+      "url": "https://open.spotify.com/track/3ni4vqftJIveWJjbSPBaqe"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
         "name": "Poemas por DM",
         "url": "https://open.spotify.com/album/1RinKYk7btVI8Bcan7PQqc"
       },
@@ -1287,34 +1315,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "entre las sombras,",
-        "url": "https://open.spotify.com/album/2JwsMCwIT8sIXw1kAVY99p"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        },
-        {
-          "name": "Martina Lluvias",
-          "url": "https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo"
-        },
-        {
-          "name": "Mora Lucay",
-          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
-        },
-        {
-          "name": "Chini.png",
-          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
-        }
-      ],
-      "duration_ms": 270279,
-      "name": "entre las sombras,",
-      "url": "https://open.spotify.com/track/3ni4vqftJIveWJjbSPBaqe"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "\u00c1ngel Malo",
         "url": "https://open.spotify.com/album/2MJTEprt9EmWCzhfSAJKlw"
       },
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Barreras de Cart\u00f3n",
-        "url": "https://open.spotify.com/album/6v1MmbGgBM50waNJgC0BYj"
-      },
-      "artists": [
-        {
-          "name": "El Mulu",
-          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Barreras de Cart\u00f3n",
-      "url": "https://open.spotify.com/track/0wTOjnwwJbkq8jnUiNoVUM"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Ella Me Dijo",
         "url": "https://open.spotify.com/album/0Md6dUyqlF0v2i3NpyRYSK"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 187062,
       "name": "Ella Me Dijo",
       "url": "https://open.spotify.com/track/0ysVoswBZh3USWAWpjBnVu"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Barreras de Cart\u00f3n",
+        "url": "https://open.spotify.com/album/6v1MmbGgBM50waNJgC0BYj"
+      },
+      "artists": [
+        {
+          "name": "El Mulu",
+          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Barreras de Cart\u00f3n",
+      "url": "https://open.spotify.com/track/0wTOjnwwJbkq8jnUiNoVUM"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
+        "name": "qui\u00e9n llama a esta hora",
+        "url": "https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        }
+      ],
+      "duration_ms": 225932,
+      "name": "cuando pienses en el destino",
+      "url": "https://open.spotify.com/track/6eGkYDbB2e5LOZ4jBnlfdS"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
         "name": "Duelo (Edici\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/4YqBjRGdZbeckP6kLeKu9P"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 206700,
       "name": "Sincron\u00eda Universal - Edici\u00f3n Deluxe",
       "url": "https://open.spotify.com/track/4xoIhnj6ti8ctgrKFkwG8j"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
-        "name": "qui\u00e9n llama a esta hora",
-        "url": "https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ"
-      },
-      "artists": [
-        {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
-        }
-      ],
-      "duration_ms": 225932,
-      "name": "cuando pienses en el destino",
-      "url": "https://open.spotify.com/track/6eGkYDbB2e5LOZ4jBnlfdS"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Metatr\u00f3n",
-        "url": "https://open.spotify.com/album/5ATddaIPfN60xIgidfZSEV"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        }
-      ],
-      "duration_ms": 236022,
-      "name": "Metatr\u00f3n",
-      "url": "https://open.spotify.com/track/6qUsTRejNR8WuUVqClm8Li"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Cae la Noche",
         "url": "https://open.spotify.com/album/6f3rFnGxXGWoHWUmpxNtCR"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 190681,
       "name": "Cae la Noche",
       "url": "https://open.spotify.com/track/0IfaQfbSQMIjDyYNCLcJ7Z"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Metatr\u00f3n",
+        "url": "https://open.spotify.com/album/5ATddaIPfN60xIgidfZSEV"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 236022,
+      "name": "Metatr\u00f3n",
+      "url": "https://open.spotify.com/track/6qUsTRejNR8WuUVqClm8Li"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
+        "name": "La Casa Gana",
+        "url": "https://open.spotify.com/album/6pawFPYHWVGitTT9iSqNcN"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 300272,
+      "name": "La Casa Gana",
+      "url": "https://open.spotify.com/track/2XxDJqTFLMaLhbQfDOgiYz"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
         "name": "Labios de Miel",
         "url": "https://open.spotify.com/album/2ou4x9ejrRNpjlSnCowbK0"
       },
@@ -1615,26 +1631,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Refresco",
-        "url": "https://open.spotify.com/album/2IF1XMAdUABwcrZSWFnE4b"
-      },
-      "artists": [
-        {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
-        },
-        {
-          "name": "Juanita La O",
-          "url": "https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT"
-        }
-      ],
-      "duration_ms": 197881,
-      "name": "XAT - Juanita La O Remix",
-      "url": "https://open.spotify.com/track/2HFqgimGHdB73kdBoNKAY3"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Despacio",
         "url": "https://open.spotify.com/album/2CwoLEkj3bdmZ35UEjSo4A"
       },
@@ -1655,18 +1651,38 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "La Casa Gana",
-        "url": "https://open.spotify.com/album/6pawFPYHWVGitTT9iSqNcN"
+        "name": "Refresco",
+        "url": "https://open.spotify.com/album/2IF1XMAdUABwcrZSWFnE4b"
       },
       "artists": [
         {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        },
+        {
+          "name": "Juanita La O",
+          "url": "https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT"
         }
       ],
-      "duration_ms": 300272,
-      "name": "La Casa Gana",
-      "url": "https://open.spotify.com/track/2XxDJqTFLMaLhbQfDOgiYz"
+      "duration_ms": 197881,
+      "name": "XAT - Juanita La O Remix",
+      "url": "https://open.spotify.com/track/2HFqgimGHdB73kdBoNKAY3"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/1lrXcrywLHucLvSEXg0sNV"
+      },
+      "artists": [
+        {
+          "name": "Pancho Gana",
+          "url": "https://open.spotify.com/artist/4I9qrx9Lb6RDDKkMgXd1yM"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Para Ti",
+      "url": "https://open.spotify.com/track/5a7CMKpx4xdOS6S6r7SfEd"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -1687,22 +1703,6 @@
       "duration_ms": 229985,
       "name": "Tu Momento",
       "url": "https://open.spotify.com/track/1X5tpJelqlfxewgLmzi5R1"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/1lrXcrywLHucLvSEXg0sNV"
-      },
-      "artists": [
-        {
-          "name": "Pancho Gana",
-          "url": "https://open.spotify.com/artist/4I9qrx9Lb6RDDKkMgXd1yM"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Para Ti",
-      "url": "https://open.spotify.com/track/5a7CMKpx4xdOS6S6r7SfEd"
     },
     {
       "added_at": "2024-06-28 03:00:00",

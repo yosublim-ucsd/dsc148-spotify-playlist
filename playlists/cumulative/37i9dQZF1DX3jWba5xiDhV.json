@@ -3439,6 +3439,32 @@
     },
     {
       "album": {
+        "name": "What Do You Live For? (feat. David Blank & Saturnino)",
+        "url": "https://open.spotify.com/album/00uw3T85RTvuXDX4QnUem4"
+      },
+      "artists": [
+        {
+          "name": "ROLLOVER DJS",
+          "url": "https://open.spotify.com/artist/22XVOdZpIHdrMdyPnGAquF"
+        },
+        {
+          "name": "David Blank",
+          "url": "https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6"
+        },
+        {
+          "name": "Saturnino",
+          "url": "https://open.spotify.com/artist/1sKfOFTS7Ae9RLO2YbocVd"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257250,
+      "name": "What Do You Live For? (feat. David Blank & Saturnino)",
+      "url": "https://open.spotify.com/track/4XW2RdSCHDF67glmTN3CCQ"
+    },
+    {
+      "album": {
         "name": "When I Let You Down / Boogie Tonight",
         "url": "https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb"
       },
@@ -3450,7 +3476,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-07",
       "duration_ms": 366076,
       "name": "When I Let You Down - Extended Mix",
       "url": "https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju"

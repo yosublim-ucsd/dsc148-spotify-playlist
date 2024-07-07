@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 Proof](https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [100 Proof](https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi) | 3:58 | 2021-11-12 |  |
+| [100 Proof](https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [100 Proof](https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi) | 3:58 | 2021-11-12 | 2024-07-07 |
 | [2 FOR THA SHOW](https://open.spotify.com/track/6OJzYB7wzVhxI2YIjVrfr6) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Traffic Fiction](https://open.spotify.com/album/0MkenTu5G8qe0SgyE619fA) | 3:56 | 2023-10-06 |  |
 | [A Dream Of Home](https://open.spotify.com/track/4LINukxWI1NvCP7NUA9mKI) | [Tyler Ramsey](https://open.spotify.com/artist/1Ga71MIHyTN9VVuEtW57GK) | [A Dream Of Home](https://open.spotify.com/album/2HSl3zIGxIG78lMrPIhWQK) | 6:02 | 2021-11-12 | 2022-07-29 |
 | [A Dream Of Home](https://open.spotify.com/track/1gus1NMkhoa9HqHflUh4f0) | [Tyler Ramsey](https://open.spotify.com/artist/1Ga71MIHyTN9VVuEtW57GK) | [For The Morning](https://open.spotify.com/album/5Zktlm6wdERfJnqGCNN3n6) | 6:02 | 2022-07-11 | 2023-11-02 |
@@ -365,7 +365,7 @@
 | [Show Up](https://open.spotify.com/track/1p17XN8yqoY5LHEG0Inqam) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Show Up](https://open.spotify.com/album/1JD1hz1p5bnIX0AE8svwtY) | 3:21 | 2022-07-11 | 2024-04-19 |
 | [Show Up](https://open.spotify.com/track/5b6LbhrciovNRfx2SIOI0j) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Scout](https://open.spotify.com/album/4LFFXjvrAvULCfFqgNO7xB) | 3:21 | 2021-11-12 | 2022-07-29 |
 | [Side Effects](https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:43 | 2021-11-12 |  |
-| [Slice of Life](https://open.spotify.com/track/5oUr4PECM3gisd18Nwlrfr) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [Slice of Life](https://open.spotify.com/album/0oAdL3ENxGGow7Fy0mWdoz) | 4:43 | 2021-11-12 | 2022-07-29 |
+| [Slice of Life](https://open.spotify.com/track/5oUr4PECM3gisd18Nwlrfr) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [Slice of Life](https://open.spotify.com/album/0oAdL3ENxGGow7Fy0mWdoz) | 4:43 | 2021-11-12 |  |
 | [Snowplow](https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Snowplow](https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ) | 2:41 | 2021-11-12 |  |
 | [So Clear](https://open.spotify.com/track/0kB4VZXmw5eNpz1gE6R5BB) | [Josh Gilligan](https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899), [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Go Around](https://open.spotify.com/album/59n5hJUTjae754GA75MRMx) | 2:38 | 2022-01-14 | 2022-01-17 |
 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 | 2021-11-12 |  |
