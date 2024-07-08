@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 171210,
       "name": "0-100",
       "url": "https://open.spotify.com/track/6m3x4gOuiAqUpCkkx29bmR"
@@ -21562,7 +21562,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 138181,
       "name": "MILLION",
       "url": "https://open.spotify.com/track/1dYcj4cAs1MSv5MfGeO9Me"
@@ -29593,6 +29593,24 @@
     },
     {
       "album": {
+        "name": "Si Ai",
+        "url": "https://open.spotify.com/album/7JRTgBc4mvX7CfkfDhaLMK"
+      },
+      "artists": [
+        {
+          "name": "Tayna",
+          "url": "https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Si Ai",
+      "url": "https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b"
+    },
+    {
+      "album": {
         "name": "Si No Est\u00e1s",
         "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
       },
@@ -34668,7 +34686,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 181224,
       "name": "Valaoritou",
       "url": "https://open.spotify.com/track/1qnGRggChnWJ6FWM2FRL7n"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-17",
-  "description": "This Is Binomio de Oro de Am\u00e9rica. Los temas esenciales, todos en una lista.",
+  "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
   "name": "This Is Binomio de Oro de Am\u00e9rica",
   "tracks": [
     {
@@ -994,7 +994,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 281693,
       "name": "Tres Palabras",
       "url": "https://open.spotify.com/track/1PM7WVCkmMmsWnnbh54FqC"
@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 281861,
       "name": "Tres Palabras",
       "url": "https://open.spotify.com/track/3butnZDfWE0hr4LNtbHzBG"

@@ -2,7 +2,7 @@
 
 ### [This Is Pedro Capó](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2QB6oe)
 
-> This is Pedro Capó\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
+> This Is Pedro Capó\. Los temas esenciales, todos en una lista.
 
 57 songs - 3 hr 9 min
 

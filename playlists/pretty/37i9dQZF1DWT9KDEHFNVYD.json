@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 12759,
+  "num_followers": 12772,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -219,18 +219,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Flying Microtonal Banana",
-        "url": "https://open.spotify.com/album/4G9ANFGk9579p2uirMbVT0"
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
         }
       ],
-      "duration_ms": 468093,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/4HOnIpqP8txGle3UvfjStU"
+      "duration_ms": 141160,
+      "name": "Hei\u00dfe Lippen",
+      "url": "https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -251,18 +251,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+        "name": "Flying Microtonal Banana",
+        "url": "https://open.spotify.com/album/4G9ANFGk9579p2uirMbVT0"
       },
       "artists": [
         {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 141160,
-      "name": "Hei\u00dfe Lippen",
-      "url": "https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe"
+      "duration_ms": 468093,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/4HOnIpqP8txGle3UvfjStU"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -541,20 +541,20 @@
       "url": "https://open.spotify.com/track/0GNWAR5YioLyQSZMXMjBX4"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2023-01-25 02:05:47",
       "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+        "name": "Blackouts",
+        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
       },
       "artists": [
         {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+          "name": "Ashra",
+          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
         }
       ],
-      "duration_ms": 189040,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
+      "duration_ms": 410666,
+      "name": "77 Slightly Delayed",
+      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
     },
     {
       "added_at": "2024-03-12 18:16:53",
@@ -573,20 +573,20 @@
       "url": "https://open.spotify.com/track/6GFhFmcObGLbUS4EfRtLQw"
     },
     {
-      "added_at": "2023-01-25 02:05:47",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Blackouts",
-        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
       "artists": [
         {
-          "name": "Ashra",
-          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
         }
       ],
-      "duration_ms": 410666,
-      "name": "77 Slightly Delayed",
-      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
+      "duration_ms": 189040,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Transparent Things",
-        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
-      },
-      "artists": [
-        {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
-        }
-      ],
-      "duration_ms": 391002,
-      "name": "Cassettesingle",
-      "url": "https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Find The Sun",
         "url": "https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 426342,
       "name": "Saturnine Night",
       "url": "https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Transparent Things",
+        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
+      },
+      "artists": [
+        {
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+        }
+      ],
+      "duration_ms": 391002,
+      "name": "Cassettesingle",
+      "url": "https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1301,22 +1301,6 @@
       "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Can't Get There EP",
-        "url": "https://open.spotify.com/album/7lVtPOrm8y8D9ELXOIVxPm"
-      },
-      "artists": [
-        {
-          "name": "Minami Deutsch",
-          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
-        }
-      ],
-      "duration_ms": 437250,
-      "name": "Can't Get There",
-      "url": "https://open.spotify.com/track/1AtSdzyt3vsGUVSk5wb44Z"
-    },
-    {
       "added_at": "2023-03-23 21:21:38",
       "album": {
         "name": "L'\u00e9t\u00e9 suivant...",
@@ -1331,6 +1315,22 @@
       "duration_ms": 387200,
       "name": "Autoroute",
       "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Can't Get There EP",
+        "url": "https://open.spotify.com/album/7lVtPOrm8y8D9ELXOIVxPm"
+      },
+      "artists": [
+        {
+          "name": "Minami Deutsch",
+          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
+        }
+      ],
+      "duration_ms": 437250,
+      "name": "Can't Get There",
+      "url": "https://open.spotify.com/track/1AtSdzyt3vsGUVSk5wb44Z"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Blood-Drums",
-        "url": "https://open.spotify.com/album/6jzZEvu1JLto8Wqkb6wmBn"
+        "name": "La D\u00fcsseldorf",
+        "url": "https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ"
       },
       "artists": [
         {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+          "name": "La D\u00fcsseldorf",
+          "url": "https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0"
         }
       ],
-      "duration_ms": 509853,
-      "name": "Blood-Drums",
-      "url": "https://open.spotify.com/track/10E0V5fhdJ2kJkSomo9LKr"
+      "duration_ms": 482773,
+      "name": "Silver Cloud",
+      "url": "https://open.spotify.com/track/5dviL3v73PIFxsAgWTfgSY"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "La D\u00fcsseldorf",
-        "url": "https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ"
-      },
-      "artists": [
-        {
-          "name": "La D\u00fcsseldorf",
-          "url": "https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0"
-        }
-      ],
-      "duration_ms": 482773,
-      "name": "Silver Cloud",
-      "url": "https://open.spotify.com/track/5dviL3v73PIFxsAgWTfgSY"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Wunderbar",
         "url": "https://open.spotify.com/album/5s1iLDM8e0aaeVjAuyNo8X"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 520850,
       "name": "Himmelblau",
       "url": "https://open.spotify.com/track/71aOELCUIi0KInYTVphzkK"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Blood-Drums",
+        "url": "https://open.spotify.com/album/6jzZEvu1JLto8Wqkb6wmBn"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 509853,
+      "name": "Blood-Drums",
+      "url": "https://open.spotify.com/track/10E0V5fhdJ2kJkSomo9LKr"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1567,38 +1567,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Minami Deutsch",
-        "url": "https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd"
-      },
-      "artists": [
-        {
-          "name": "Minami Deutsch",
-          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
-        }
-      ],
-      "duration_ms": 414222,
-      "name": "Sunrise, Sunset",
-      "url": "https://open.spotify.com/track/1k0bcubiJMGPcHL7d4vmLc"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
-        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
-      },
-      "artists": [
-        {
-          "name": "Kosmischer L\u00e4ufer",
-          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
-        }
-      ],
-      "duration_ms": 392320,
-      "name": "Tonband Laufspur",
-      "url": "https://open.spotify.com/track/2lHk5LW04d246aunZYEPcr"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Plank!",
         "url": "https://open.spotify.com/album/0vuMyGU4fIjdjvzP3oMGnZ"
       },
@@ -1611,6 +1579,22 @@
       "duration_ms": 276026,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/6h6Zt6iZbtyThlMCUmQs51"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Minami Deutsch",
+        "url": "https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd"
+      },
+      "artists": [
+        {
+          "name": "Minami Deutsch",
+          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
+        }
+      ],
+      "duration_ms": 414222,
+      "name": "Sunrise, Sunset",
+      "url": "https://open.spotify.com/track/1k0bcubiJMGPcHL7d4vmLc"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1631,6 +1615,22 @@
       "duration_ms": 543001,
       "name": "Edge Of Wonder - Andrew Weatherall remix",
       "url": "https://open.spotify.com/track/6C0R9trrtc0H5qhfuaF1NU"
+    },
+    {
+      "added_at": "2021-11-05 19:39:16",
+      "album": {
+        "name": "En Letargo",
+        "url": "https://open.spotify.com/album/36bBecUrinX68SW69nmx1S"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1rboles Mentirosos",
+          "url": "https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK"
+        }
+      ],
+      "duration_ms": 241902,
+      "name": "En Letargo",
+      "url": "https://open.spotify.com/track/6d4QZMKcx6BvOwo5EmumxZ"
     }
   ],
   "unique_name": "Krautrock",

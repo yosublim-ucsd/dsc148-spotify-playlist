@@ -4,7 +4,7 @@
 
 > El nuevo sonido de la canción sudamericana de la mano de Perotá Chingó.
 
-101 songs - 5 hr 53 min
+102 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Arrullito](https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Arrullito](https://open.spotify.com/album/4kASZ1hMeBCDM1bE61NQLz) | 3:48 | 2024-06-28 |  |
 | [Así Sea](https://open.spotify.com/track/3oz3bcmqhDrESwfzuYTXTo) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Así Sea](https://open.spotify.com/album/4T9FJTDQanEnBuU9ejrLhB) | 3:36 | 2024-06-28 |  |
 | [Barquito de Papel](https://open.spotify.com/track/69i2pr9PTrJ8rIT9sjnPlj) | [Elizabeth Morris](https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi) | [Los Ojos del Corazón](https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b) | 3:51 | 2024-06-28 |  |
+| [Candor](https://open.spotify.com/track/7KERYWUNyuDcMhhfGhCbui) | [Sebastian Jantos](https://open.spotify.com/artist/1l0gl82XpbvEYM5JLtasTI), [Laura Chinelli](https://open.spotify.com/artist/7p3GyCsAPDbpnKPhQyC4rq) | [Candor](https://open.spotify.com/album/4MCb4pGkHE5uQmIzSse1fX) | 4:52 | 2024-07-05 |  |
 | [Casa](https://open.spotify.com/track/4D0I37iNpL5AeqWEu8mnYU) | [Popa](https://open.spotify.com/artist/2r1qR6ITngbNWCgZJCH9pl) | [Casa](https://open.spotify.com/album/6JHAJRcwOirp02xAbzk0am) | 2:22 | 2024-06-28 |  |
 | [Cerquita](https://open.spotify.com/track/3kURtglEOvd9tVa57xsmns) | [El Árbol de Diego](https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW) | [El Despegue](https://open.spotify.com/album/4X8fEJ5wHzEBSJrfta3Aji) | 4:27 | 2024-06-28 |  |
 | [CIELO](https://open.spotify.com/track/1mXLf0jnxS9Uevkds7rEvy) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [CIELO](https://open.spotify.com/album/0KyvNuaS3Sy2N5dLXAgVlM) | 3:23 | 2024-06-28 |  |
@@ -88,7 +89,7 @@
 | [Soy lo que Doy](https://open.spotify.com/track/4Sq2A3LUiytnHVO4WWVAtH) | [El Árbol de Diego](https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Soy lo que Doy](https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X) | 3:37 | 2024-06-28 |  |
 | [Suponte](https://open.spotify.com/track/1SeOc1M9lJzUFwYKnXIRUy) | [Noelia Recalde](https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv) | [Mi Propia Casa](https://open.spotify.com/album/6fk7OdqM6ToImBSso5tCdx) | 2:29 | 2024-06-28 |  |
 | [Tan solo una señal](https://open.spotify.com/track/7vjeDyZ2oYSbOsIx7ogBbv) | [Liuba María Hevia](https://open.spotify.com/artist/1UC32JGoil54GhEOHpzmrB), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY), [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X), [Argentina](https://open.spotify.com/artist/7dZexQj3iCyp7wr690gnf2), [Ivette Cepeda](https://open.spotify.com/artist/1mkwhgPtaFZyrIpV3lWbwV) | [Tan solo una señal](https://open.spotify.com/album/4PTOkZH8IEFd3Jo4nGsSNr) | 3:38 | 2024-06-28 |  |
-| [Tarde o temprano](https://open.spotify.com/track/0hcM9LkquCW5AEZb6cEbwq) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Dj Perez](https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr) | [Tarde o temprano](https://open.spotify.com/album/1q1ZEjeH4JnnweEEnCBitJ) | 3:42 | 2024-06-28 |  |
+| [Tarde o temprano](https://open.spotify.com/track/0hcM9LkquCW5AEZb6cEbwq) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Dj Perez](https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr) | [Tarde o temprano](https://open.spotify.com/album/1q1ZEjeH4JnnweEEnCBitJ) | 3:42 | 2024-06-28 | 2024-07-08 |
 | [Te Vi](https://open.spotify.com/track/3ptv1CEMQXKYe5oJqU9QfP) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx), [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Te Vi](https://open.spotify.com/album/5TWzzBAsdeixfrixZlmqnh) | 3:41 | 2024-07-05 |  |
 | [Tequila](https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ), [La Nueva Imperial](https://open.spotify.com/artist/77ACTvw7McpnqutCOJx4o5) | [Tequila](https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV) | 3:22 | 2024-06-28 |  |
 | [Tinta y Tiempo](https://open.spotify.com/track/3sNmeMXgzDw5887ClDLfXH) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Tinta y Tiempo](https://open.spotify.com/album/7drLytofGXezhYswIuCGHu) | 4:09 | 2024-06-28 |  |

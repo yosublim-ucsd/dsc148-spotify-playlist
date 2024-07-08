@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: NIJJAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,910 likes - 101 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,939 likes - 101 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

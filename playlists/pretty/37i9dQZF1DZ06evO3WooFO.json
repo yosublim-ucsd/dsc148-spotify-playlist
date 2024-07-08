@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 580452,
+  "num_followers": 580615,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zoc3gAAAAABpyVhhjcTPxCiSnBlqi+EF",
+  "snapshot_id": "ZoiJAAAAAABmia+aaDBqLljK0wPz0fRz",
   "tracks": [
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 200360,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/0y3fPWWin7NL5aED2FjvXP"
+      "duration_ms": 199706,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/0sqQ9N6hY0ieocwrgxgJ9F"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 199706,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/0sqQ9N6hY0ieocwrgxgJ9F"
+      "duration_ms": 200360,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/0y3fPWWin7NL5aED2FjvXP"
     },
     {
       "added_at": null,

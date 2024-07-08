@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgDMrRmoe23.md) - [plain]
 
 > "because it's funny" \- Thundercat\. Welcome to mixtape, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,810 likes - 25 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,823 likes - 25 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgDMrRmoe23.md) - [plain]
 | 15 | [Rock N Roll McDonalds](https://open.spotify.com/track/190l7oYBQe6JBsWPJM2uNN) | [Wesley Willis](https://open.spotify.com/artist/50yovZJnAHoy0pBruvFaCR) | [Greatest Hits Volume 1](https://open.spotify.com/album/4Zt5GnqGEzomd4rKBr3cWR) | 2:26 |
 | 16 | [Cavities \(feat\. Pretty Raheem & Whatchyamacallit\)](https://open.spotify.com/track/06fSBLKmBlxeUHcIZicVxw) | [Flynt Flossy](https://open.spotify.com/artist/0eqJjuUtd1pnTzE0CCAfIm) | [Turquoise Jeep Records: Keep The Jeep Ridin'](https://open.spotify.com/album/4zAzDbTDIw8MR7yPT5vfE4) | 3:56 |
 | 17 | [Lemme Take You To The Beach](https://open.spotify.com/track/24pKgx2qOMMNT0XmRBpWCI) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Studio Tan](https://open.spotify.com/album/2Z39MzRC9Jh5eBt7dcJsdL) | 2:44 |
-| 18 | [Shells \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/2VAy62WE92X27A7QKvZ1Gd) | [Shabazz PBG](https://open.spotify.com/artist/4P5Fg5v3z8uDl7NyzDWGVp), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Shells \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/6NwhzlSjjHY6shbY3Hw27x) | 3:37 |
+| 18 | [Shells](https://open.spotify.com/track/2VAy62WE92X27A7QKvZ1Gd) | [Shabazz PBG](https://open.spotify.com/artist/4P5Fg5v3z8uDl7NyzDWGVp), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Shells](https://open.spotify.com/album/6NwhzlSjjHY6shbY3Hw27x) | 3:37 |
 | 19 | [Never Gonna Give You Up](https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:33 |
 | 20 | [Topdown](https://open.spotify.com/track/6KflfPD0qIbbB1PQyAHla5) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Channel Tres](https://open.spotify.com/album/01Vvrmisrvr1YOIGRn4brG) | 3:50 |
 | 21 | [You Better Move](https://open.spotify.com/track/6YAxCn4juTWn5hWl2hzHGw) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:16 |

@@ -273,6 +273,24 @@
     },
     {
       "album": {
+        "name": "Bi Polar",
+        "url": "https://open.spotify.com/album/4av9zmQcpcbMsewBcZnDKa"
+      },
+      "artists": [
+        {
+          "name": "Sertab Erener",
+          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192217,
+      "name": "Bi Polar",
+      "url": "https://open.spotify.com/track/3ZXucsYAxBRUgG7XftxxLE"
+    },
+    {
+      "album": {
         "name": "Bi \u015eey Eksik",
         "url": "https://open.spotify.com/album/7dAOHPimH2lfyxbOUmJ1V2"
       },
@@ -616,7 +634,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 210064,
       "name": "D\u00fcnya Hevesi",
       "url": "https://open.spotify.com/track/5lH26p9ycFKgsjzmkGFmHp"

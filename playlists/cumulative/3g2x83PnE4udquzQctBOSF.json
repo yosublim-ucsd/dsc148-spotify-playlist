@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 128307,
       "name": "4 The Trouble",
       "url": "https://open.spotify.com/track/5CoZzDgqAZUhuIGC82Zplz"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 136874,
       "name": "Bad Boys",
       "url": "https://open.spotify.com/track/0JPcvd0v324wxse9XhvT7a"
@@ -789,6 +789,50 @@
     },
     {
       "album": {
+        "name": "BLOW (WHITE GIRL IN TOWN) [feat. Kilo Ali]",
+        "url": "https://open.spotify.com/album/3XqYLQXudPtDBs73gZYLQG"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        },
+        {
+          "name": "Kilo Ali",
+          "url": "https://open.spotify.com/artist/6qbmEw8JjPrPV4HknWp0O1"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "BLOW (WHITE GIRL IN TOWN) [feat. Kilo Ali]",
+      "url": "https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT"
+    },
+    {
+      "album": {
+        "name": "Blow up EP",
+        "url": "https://open.spotify.com/album/0syFv4l0BXK1zID0jy2jIb"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        },
+        {
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184530,
+      "name": "Blow Up",
+      "url": "https://open.spotify.com/track/0jqGd9d5oznIGULDS2aCja"
+    },
+    {
+      "album": {
         "name": "Body Chalk",
         "url": "https://open.spotify.com/album/12EVz1TFhTPxEr7QRFQsZq"
       },
@@ -1025,6 +1069,28 @@
     },
     {
       "album": {
+        "name": "Bring Me Down",
+        "url": "https://open.spotify.com/album/0zNUqbx2KGZxAlvwxTKAvs"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Stanton Warriors",
+          "url": "https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205492,
+      "name": "Bring Me Down",
+      "url": "https://open.spotify.com/track/2VIZvfKJFT2YHqHqkM2qhs"
+    },
+    {
+      "album": {
         "name": "Bring The Action",
         "url": "https://open.spotify.com/album/3Is4RYx6tTGJZgxLLIQda7"
       },
@@ -1040,6 +1106,28 @@
       "duration_ms": 330000,
       "name": "Bring The Action",
       "url": "https://open.spotify.com/track/69kvxgM6Tp6YmqyuT582ja"
+    },
+    {
+      "album": {
+        "name": "Britney",
+        "url": "https://open.spotify.com/album/4wL4pqz5I1l1z1uliH8lOw"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Dances",
+          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203442,
+      "name": "Britney",
+      "url": "https://open.spotify.com/track/0yY2A8OQVJMSSRFoFy13SL"
     },
     {
       "album": {
@@ -1460,7 +1548,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 236000,
       "name": "Cntrl",
       "url": "https://open.spotify.com/track/3HRTD0zNSbwDbGJU3PmuKi"
@@ -1674,6 +1762,24 @@
       "duration_ms": 154831,
       "name": "Dancing Shoes (Take Me Higher)",
       "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
+    },
+    {
+      "album": {
+        "name": "Deep Down Low",
+        "url": "https://open.spotify.com/album/4IwNXHXcjHJsLLEE3mwESP"
+      },
+      "artists": [
+        {
+          "name": "Ell Jordan",
+          "url": "https://open.spotify.com/artist/3ZfwdqNPzevAjnBlRCkBKl"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295509,
+      "name": "Deep Down Low",
+      "url": "https://open.spotify.com/track/3Ue9vGsg5XVnEo7P2EdLxX"
     },
     {
       "album": {
@@ -2080,7 +2186,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 202500,
       "name": "EAT THE BASS",
       "url": "https://open.spotify.com/track/1ViErUfDfWkXPXTsjj3kyh"
@@ -2382,7 +2488,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 192923,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/0F1OJm1TvEJWrB0p3jbk01"
@@ -2582,7 +2688,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 223384,
       "name": "Flying Like A Dragon",
       "url": "https://open.spotify.com/track/5kc7bJbL43ArvIFByYZF2m"
@@ -2710,6 +2816,24 @@
       "duration_ms": 251163,
       "name": "Fragile Beat",
       "url": "https://open.spotify.com/track/16LvEwnxrXS4t6oLrBQ6D0"
+    },
+    {
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/7wpmdRuDdvRurwIaqpVRby"
+      },
+      "artists": [
+        {
+          "name": "GREEDO",
+          "url": "https://open.spotify.com/artist/3yu7ddRCRTmHlxmz7NWO0c"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262168,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/4LMkddDKX4H7YiRvDdFEIe"
     },
     {
       "album": {
@@ -2957,6 +3081,24 @@
     },
     {
       "album": {
+        "name": "Wi-Fi EP",
+        "url": "https://open.spotify.com/album/53b5jJusxvVpJEYZak9Rxy"
+      },
+      "artists": [
+        {
+          "name": "Nicolau Marinho",
+          "url": "https://open.spotify.com/artist/5oDO3Xserqplvx470RQlq9"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197862,
+      "name": "Get off the Wi-Fi",
+      "url": "https://open.spotify.com/track/39qdMR68qkCJ0FMKWuXYpA"
+    },
+    {
+      "album": {
         "name": "Get Rockin'",
         "url": "https://open.spotify.com/album/2qKqssflCtHWY8jw63Qey6"
       },
@@ -2972,7 +3114,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 182238,
       "name": "Get Rockin'",
       "url": "https://open.spotify.com/track/6FTus3GBuyRW10VbwgtUp7"
@@ -2990,7 +3132,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 182325,
       "name": "Get Stupid",
       "url": "https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8"
@@ -3052,6 +3194,24 @@
       "duration_ms": 217410,
       "name": "Gimme That Bounce",
       "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
+    },
+    {
+      "album": {
+        "name": "Ginger (Feel Good)",
+        "url": "https://open.spotify.com/album/6qmw05iQrBvOnMMcWIDyjK"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166384,
+      "name": "Ginger (Feel Good)",
+      "url": "https://open.spotify.com/track/0lDb4lRcpgiH698Y1tavNi"
     },
     {
       "album": {
@@ -3256,7 +3416,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 170538,
       "name": "Her",
       "url": "https://open.spotify.com/track/4qhQ4ociO0X2DJ7f6wfMO1"
@@ -3495,6 +3655,24 @@
     },
     {
       "album": {
+        "name": "I Don't Need That",
+        "url": "https://open.spotify.com/album/162TXv6fgowsryzr3Z7jxx"
+      },
+      "artists": [
+        {
+          "name": "Deltech",
+          "url": "https://open.spotify.com/artist/7zEG9zFPbxYG9rNhj3SJ5Y"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "I Dont Need That",
+      "url": "https://open.spotify.com/track/10DFJjhf353hgaOvCfXy4p"
+    },
+    {
+      "album": {
         "name": "I Entah",
         "url": "https://open.spotify.com/album/2Bw9YNMw0u1uAWNR7RPZyP"
       },
@@ -3618,6 +3796,24 @@
       "duration_ms": 164285,
       "name": "In The Air",
       "url": "https://open.spotify.com/track/1d6drNGnLw63kP9Bm8aQtz"
+    },
+    {
+      "album": {
+        "name": "In the Park / Snakes",
+        "url": "https://open.spotify.com/album/2BEW4mDyxZP2BnyHbEx8xo"
+      },
+      "artists": [
+        {
+          "name": "Marco Strous",
+          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "In the Park",
+      "url": "https://open.spotify.com/track/1uyVw7Y1qZ5cOFXIxqku38"
     },
     {
       "album": {
@@ -3932,10 +4128,28 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 147807,
       "name": "Kaya - Radio Edit",
       "url": "https://open.spotify.com/track/6R0zdga9jejhShmtdlUI7S"
+    },
+    {
+      "album": {
+        "name": "The COCO Chronicles, Vol. 1",
+        "url": "https://open.spotify.com/album/7jmH7guFHIBdxyWnOb5pQp"
+      },
+      "artists": [
+        {
+          "name": "Ell Jordan",
+          "url": "https://open.spotify.com/artist/3ZfwdqNPzevAjnBlRCkBKl"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195697,
+      "name": "Keep It Dirty",
+      "url": "https://open.spotify.com/track/0W7HK29oIiTaBUggfiY3PR"
     },
     {
       "album": {
@@ -4315,6 +4529,24 @@
     },
     {
       "album": {
+        "name": "London Visit",
+        "url": "https://open.spotify.com/album/1P31Qm6R1PPSGIGQRhvPYl"
+      },
+      "artists": [
+        {
+          "name": "Yungness & Jaminn",
+          "url": "https://open.spotify.com/artist/2W0LCDXmrMO7acenLvkxyR"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207697,
+      "name": "London Visit",
+      "url": "https://open.spotify.com/track/0XXf7QLTCcyRpLSt5Fj8YX"
+    },
+    {
+      "album": {
         "name": "Hand Clap",
         "url": "https://open.spotify.com/album/2ZRQc6ZGlugiVhBWuMx3qr"
       },
@@ -4634,7 +4866,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 214153,
       "name": "Moanin'",
       "url": "https://open.spotify.com/track/0G0d4LMmKhESVwj2KFvZc7"
@@ -4837,6 +5069,24 @@
     },
     {
       "album": {
+        "name": "My Struggles",
+        "url": "https://open.spotify.com/album/3pJypWlBAwUOMRxrUFSWDv"
+      },
+      "artists": [
+        {
+          "name": "Chris Diaz",
+          "url": "https://open.spotify.com/artist/6FiGI0nDxHFqw0Ragm9mV0"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "My Struggles",
+      "url": "https://open.spotify.com/track/0vk1YQk2z3xad276H9wwNR"
+    },
+    {
+      "album": {
         "name": "Needle On The Record",
         "url": "https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ"
       },
@@ -4960,7 +5210,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 391475,
       "name": "ON YA MARK",
       "url": "https://open.spotify.com/track/70CWkjPF4ETV62o5Hu82SD"
@@ -5124,6 +5374,28 @@
       "duration_ms": 342000,
       "name": "Piano Cut - Original Mix",
       "url": "https://open.spotify.com/track/47xYP9z5UvuRinGKLuFHba"
+    },
+    {
+      "album": {
+        "name": "PICK UP THE PHONE (feat. Nate Dogg)",
+        "url": "https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224124,
+      "name": "PICK UP THE PHONE (feat. Nate Dogg)",
+      "url": "https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g"
     },
     {
       "album": {
@@ -5458,7 +5730,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 135468,
       "name": "Reading My Mind",
       "url": "https://open.spotify.com/track/2c8TIDfFaU5LH6U05aTlIY"
@@ -5785,6 +6057,28 @@
     },
     {
       "album": {
+        "name": "Shimmy To The Beat",
+        "url": "https://open.spotify.com/album/7eAxn1gd0XYw6VbmDa62gu"
+      },
+      "artists": [
+        {
+          "name": "Prok & Fitch",
+          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
+        },
+        {
+          "name": "Heyssis",
+          "url": "https://open.spotify.com/artist/7olZ1BADnsM8bWzMEL1uQ1"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Shimmy To The Beat",
+      "url": "https://open.spotify.com/track/33bbCXbwV5pgI2EZKSJ9yG"
+    },
+    {
+      "album": {
         "name": "Shoot the Shot",
         "url": "https://open.spotify.com/album/4zD4CujteqFDt6lpVrTPmT"
       },
@@ -5800,6 +6094,28 @@
       "duration_ms": 359998,
       "name": "Shoot the Shot",
       "url": "https://open.spotify.com/track/6LEd9JLKmViufFYI0JfLDL"
+    },
+    {
+      "album": {
+        "name": "Shut Up EP",
+        "url": "https://open.spotify.com/album/6wKe09h4iQcU7Okg74OPG3"
+      },
+      "artists": [
+        {
+          "name": "Detlef",
+          "url": "https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI"
+        },
+        {
+          "name": "Jhojho",
+          "url": "https://open.spotify.com/artist/17a3EtrBd0MdaZ609KMIHR"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Shut Up!",
+      "url": "https://open.spotify.com/track/6ptsaA8cH252mzI7eX3ycV"
     },
     {
       "album": {
@@ -6238,7 +6554,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 192000,
       "name": "Still Pushin' - Radio Edit",
       "url": "https://open.spotify.com/track/3OBUo6PrzYAxkudyLNryFV"
@@ -6384,7 +6700,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 251201,
       "name": "Summertime Blues (feat. Nathan Nicholson)",
       "url": "https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp"
@@ -6406,6 +6722,24 @@
       "duration_ms": 181417,
       "name": "Superlicious",
       "url": "https://open.spotify.com/track/6YtsfLBQpR23z1GN3IC6Tm"
+    },
+    {
+      "album": {
+        "name": "Superstylin'",
+        "url": "https://open.spotify.com/album/4sCkrOlVpKcWheRETO089S"
+      },
+      "artists": [
+        {
+          "name": "Davide Marsala",
+          "url": "https://open.spotify.com/artist/1SNXTiPxArdBh9psV06qEZ"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "Superstylin'",
+      "url": "https://open.spotify.com/track/7A4nInUigILmWXo0ei3j8D"
     },
     {
       "album": {
@@ -6634,7 +6968,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 229541,
       "name": "The Spree",
       "url": "https://open.spotify.com/track/7eIGCVqTAmEK2AYiYSQjob"
@@ -6678,7 +7012,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 176718,
       "name": "The Unknown",
       "url": "https://open.spotify.com/track/7MAyS6xzh4719eLTKqbL38"
@@ -7136,7 +7470,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 192000,
       "name": "We Groovin (with Jazzy) - Shermanology Remix",
       "url": "https://open.spotify.com/track/7erTn3eeUxPzlkiThXkevf"
@@ -7368,6 +7702,28 @@
       "duration_ms": 213333,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0EeArvKhN89pVWhVvWZmBv"
+    },
+    {
+      "album": {
+        "name": "What That EP",
+        "url": "https://open.spotify.com/album/09qXFuhLRkcukkbNUw9dGn"
+      },
+      "artists": [
+        {
+          "name": "Samir",
+          "url": "https://open.spotify.com/artist/0StvJ2kSQsFTPxiTjXNghv"
+        },
+        {
+          "name": "Aaron Klugg",
+          "url": "https://open.spotify.com/artist/2wmuwPAXRhL4Xi0cWis1zG"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232440,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/7ewEh1VkEhSAT5x7KsQRwD"
     },
     {
       "album": {

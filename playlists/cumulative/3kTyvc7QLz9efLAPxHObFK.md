@@ -4,7 +4,7 @@
 
 > 
 
-1,485 songs - 3 day 9 hr 6 min
+1,486 songs - 3 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,6 +487,7 @@
 | [Forever \- F\. Noize & Yoshiko Remix](https://open.spotify.com/track/1OFBGsGp43xUamMZwu55yc) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [Forever \(F\. Noize & Yoshiko Remix\)](https://open.spotify.com/album/3Z3Avi3KF6ZVVmzVyyaMhd) | 3:04 | 2022-09-27 |  |
 | [Forever Young \- Kaylene Sc@r Remix](https://open.spotify.com/track/0TtW5ItbDJs4CW6c0Puzh1) | [Dune](https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r), [Kaylene Sc@r](https://open.spotify.com/artist/7aKRag04pZBFsECe22twqf) | [Forever Young \(Kaylene Sc@r Remix\)](https://open.spotify.com/album/18UJQtNd77OYnqrkoUj1xO) | 4:24 | 2023-06-02 |  |
 | [Forget the Real World](https://open.spotify.com/track/52BmlGYyXjcQLqBISvN7Nd) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [Forget the Real World](https://open.spotify.com/album/2cAXdmY5D2Yd3XBw8eEd3F) | 3:48 | 2022-11-21 |  |
+| [Forsaken](https://open.spotify.com/track/7cyecRXZ6UTnNqARZ1eeng) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [Forsaken](https://open.spotify.com/album/4QcTmGj1mTaiYdAfApZJPC) | 2:51 | 2024-07-07 |  |
 | [Foutue Babylone](https://open.spotify.com/track/5wwabiQyDJSOmz8165DBON) | [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7), [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Foutue Babylone](https://open.spotify.com/album/0gsdd1nsSRvU0GEebaNHT9) | 3:36 | 2022-11-21 |  |
 | [Freaks](https://open.spotify.com/track/5ar09Jwqg3MwPpAip6WaBk) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Freaks](https://open.spotify.com/album/1qsunA2Wk6W5M3IMnuyS3a) | 3:52 | 2022-09-06 |  |
 | [Freaky Boy](https://open.spotify.com/track/0tole2T6k9IZQOrHYXUJjX) | [Ender](https://open.spotify.com/artist/4dm7VRRO7tspAt2XuwEMNw) | [Freaky Boy](https://open.spotify.com/album/3VX183SSIxltAqqIZv34IA) | 2:37 | 2024-05-03 |  |

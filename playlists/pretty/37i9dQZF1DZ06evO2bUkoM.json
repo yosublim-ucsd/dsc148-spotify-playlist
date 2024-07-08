@@ -1,13 +1,33 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49593,
+  "num_followers": 49603,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zoc3gAAAAAD6ih/yld0y2o1aj+VsG4R+",
+  "snapshot_id": "ZoiJAAAAAACUWQvrN2Raju6sUqPd9EIq",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cherry (feat. Hayley Kiyoko)",
+        "url": "https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 152511,
+      "name": "Cherry (feat. Hayley Kiyoko)",
+      "url": "https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU"
+    },
     {
       "added_at": null,
       "album": {
@@ -476,9 +496,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 160659,
-      "name": "flicker start",
-      "url": "https://open.spotify.com/track/5u0YYzDVA1HNBBDbVYeCah"
+      "duration_ms": 204373,
+      "name": "well\u2026",
+      "url": "https://open.spotify.com/track/3fp8Zt7cjlnH6E44VTiCgI"
     },
     {
       "added_at": null,

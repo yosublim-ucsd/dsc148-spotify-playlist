@@ -4,7 +4,7 @@
 
 > Exercise together with uplifting soul music.
 
-156 songs - 8 hr 3 min
+157 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Another Saturday Night](https://open.spotify.com/track/5z8DiKSG4EwxmO6gUi12rZ) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 2:40 | 2023-01-09 |  |
 | [At the Top of the Stairs](https://open.spotify.com/track/0rA9NWth0fNN62CcpCPLvr) | [The Formations](https://open.spotify.com/artist/4VSXRIlvdkUtEFAXDS4TfQ) | [Six Pack](https://open.spotify.com/album/0PXUcppvK5YmC5QiWpLdLi) | 2:18 | 2022-03-24 | 2022-04-21 |
 | [Baby Love](https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:38 | 2022-01-21 |  |
-| [Barefootin'](https://open.spotify.com/track/6t5XVSW2it2oySKzeYt9Ov) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:22 | 2024-01-16 |  |
+| [Barefootin'](https://open.spotify.com/track/6t5XVSW2it2oySKzeYt9Ov) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:22 | 2024-01-16 | 2024-07-08 |
 | [Best of My Love](https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 3:40 | 2021-12-20 |  |
 | [Boogie Wonderland](https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 | 2022-05-12 | 2023-02-22 |
 | [Boogie Wonderland \- with The Emotions](https://open.spotify.com/track/11I3sRmPhmBKwQtz5dAsXF) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Boogie Wonderland: The Best Of Earth, Wind & Fire](https://open.spotify.com/album/0jk3NWc3eDE2X2i0B3p8lb) | 4:48 | 2022-03-24 | 2022-04-21 |
@@ -99,6 +99,7 @@
 | [My Man, a Sweet Man](https://open.spotify.com/track/2SQcpV8DdTbnMOhecspYEl) | [Millie Jackson](https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1) | [21 of the Best 1971\-83](https://open.spotify.com/album/4j6nnx5GbYTA62VB02S4ym) | 2:34 | 2022-01-21 | 2022-07-19 |
 | [My Man, A Sweet Man](https://open.spotify.com/track/3Wh8mMPPREtgsPisrNWDNJ) | [Millie Jackson](https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1) | [21 of the Best 1971\-83](https://open.spotify.com/album/0B3crrM9vyperolX6AmbSN) | 2:34 | 2022-08-12 | 2022-11-13 |
 | [Needle In A Haystack](https://open.spotify.com/track/26fSgIa539TCK3KV76chHU) | [The Velvelettes](https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi) | [The Very Best Of The Velvelettes](https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6) | 2:29 | 2022-03-24 | 2023-02-22 |
+| [Night Train](https://open.spotify.com/track/5lE04QME0R4RNjepkflBJa) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Cold Sweat & Other Soul Classics: James Brown](https://open.spotify.com/album/6CygdzTfDPgHKm8RAuiV7R) | 3:31 | 2024-01-16 |  |
 | [Nowhere To Run](https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 3:01 | 2021-12-20 |  |
 | [Out on the Floor](https://open.spotify.com/track/4HYpG1m9d5LVBHJZJ6NWMc) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [The in Crowd](https://open.spotify.com/album/1WyzsWPpOkkH07F7Rvx5GI) | 2:58 | 2022-01-21 | 2022-07-22 |
 | [Papa's Got A Brand New Bag](https://open.spotify.com/track/6v4gV9s0pnwKbmF1yk5knO) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [20 All\-Time Greatest Hits!](https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s) | 2:05 | 2022-01-21 | 2022-07-29 |

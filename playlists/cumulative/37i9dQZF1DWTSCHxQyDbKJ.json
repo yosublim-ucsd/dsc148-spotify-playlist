@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/5oS0HZVqZCNhoTV3yxNfpU"
+      },
+      "artists": [
+        {
+          "name": "Lucy Spraggan",
+          "url": "https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185760,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/3hHlgSx6ezhonHwGyFcH3S"
+    },
+    {
+      "album": {
         "name": "Enjoy Your Life",
         "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
       },
@@ -1422,7 +1440,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 183524,
       "name": "Quarter Life Crisis",
       "url": "https://open.spotify.com/track/3W7uzoZe8xxHVv75WvhHaZ"

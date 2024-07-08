@@ -1227,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "Chewtoy",
+        "url": "https://open.spotify.com/album/4UOvjztuDSVqgjrKuElz22"
+      },
+      "artists": [
+        {
+          "name": "ground score",
+          "url": "https://open.spotify.com/artist/1IqXxACKoGdw5fz7dE6DSi"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Chewtoy",
+      "url": "https://open.spotify.com/track/05ZYN8ACS1GCf5rjTf19Me"
+    },
+    {
+      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/2ZqSFm2JHmP0kaNWXU4nhw"
       },
@@ -5629,6 +5647,24 @@
     },
     {
       "album": {
+        "name": "Naughty",
+        "url": "https://open.spotify.com/album/1KTd5oq3OeqS0DzxsTJD7s"
+      },
+      "artists": [
+        {
+          "name": "C Adct",
+          "url": "https://open.spotify.com/artist/5ici3YJkrmWvr4rNCzBPcC"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Naughty",
+      "url": "https://open.spotify.com/track/2owB5Va5VGvI4FsUQv6m79"
+    },
+    {
+      "album": {
         "name": "New Day",
         "url": "https://open.spotify.com/album/1TWdal8pWt5ZjTuHhTZnex"
       },
@@ -8760,6 +8796,28 @@
       "duration_ms": 175774,
       "name": "Voices In My Head (ft. Teddy Bee)",
       "url": "https://open.spotify.com/track/67IluCSppOPrLyfWonaGGv"
+    },
+    {
+      "album": {
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/5a6gm3EeFPYl792mDSQeFm"
+      },
+      "artists": [
+        {
+          "name": "Manuel Lauren",
+          "url": "https://open.spotify.com/artist/6VFEaIY0aoChP89qDhF17m"
+        },
+        {
+          "name": "Dan Winter",
+          "url": "https://open.spotify.com/artist/7a8GUCpjxjV6tw5D3d9FQz"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/41w20lT4MT0Oo4vTgp64A3"
     },
     {
       "album": {

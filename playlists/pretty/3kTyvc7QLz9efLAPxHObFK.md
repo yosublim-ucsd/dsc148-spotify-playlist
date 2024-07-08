@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,484 songs - 3 day 9 hr 3 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,485 songs - 3 day 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1492,5 +1492,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1482 | [Bite The Bullet](https://open.spotify.com/track/4zh1cV69dw5HvykJnn83G9) | [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [Bite The Bullet](https://open.spotify.com/album/2prLw2WZ5ZW9Ae6ewRoslf) | 2:52 |
 | 1483 | [Backstabbers \(Envy\)](https://open.spotify.com/track/4HuoADJExHXV7o3qRVcDPY) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Backstabbers \(Envy\)](https://open.spotify.com/album/0CRm5cBbAUfqcmWiRgbc8x) | 3:25 |
 | 1484 | [Sugar, We're Going Down](https://open.spotify.com/track/5cUTsWrxb9uuICptTjdaac) | [Tweekacore](https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj), [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Sugar, We're Going Down](https://open.spotify.com/album/1RHTzt7CeQO0uAhajwbvgW) | 3:00 |
+| 1485 | [Forsaken](https://open.spotify.com/track/7cyecRXZ6UTnNqARZ1eeng) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [Forsaken](https://open.spotify.com/album/4QcTmGj1mTaiYdAfApZJPC) | 2:51 |
 
-Snapshot ID: `AAAF+c/lnzJJm6AftQCdMAGTaVZq9BUs`
+Snapshot ID: `AAAF+koQP9tQFppb7IHWeuD80swAPlkH`

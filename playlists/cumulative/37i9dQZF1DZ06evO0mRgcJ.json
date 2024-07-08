@@ -1151,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Recu\u00e9rdame Bonito",
+        "url": "https://open.spotify.com/album/1u9IQOnTKMKXV4LpNqfVy7"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210407,
+      "name": "Recu\u00e9rdame Bonito",
+      "url": "https://open.spotify.com/track/70kH8OQkCgKExAg8oYGI9c"
+    },
+    {
+      "album": {
         "name": "Richie Rich (En Vivo)",
         "url": "https://open.spotify.com/album/4tDTE2gaLPGeIoN2QzW8zi"
       },

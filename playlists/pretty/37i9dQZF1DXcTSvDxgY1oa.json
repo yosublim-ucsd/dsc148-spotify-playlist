@@ -143,6 +143,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "Verrassing",
+        "url": "https://open.spotify.com/album/6qfMiCG2E4fWvYt1tWFSFS"
+      },
+      "artists": [
+        {
+          "name": "Aarde aan Daan",
+          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
+        }
+      ],
+      "duration_ms": 192010,
+      "name": "Verrassing",
+      "url": "https://open.spotify.com/track/0vpLvQxFOjyvy6tAaeTKfR"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Nothing Ever Happens Around Here",
         "url": "https://open.spotify.com/album/6SDfF97SR7lQQWE50Nq3Qj"
       },
@@ -227,22 +243,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Verrassing",
-        "url": "https://open.spotify.com/album/6qfMiCG2E4fWvYt1tWFSFS"
-      },
-      "artists": [
-        {
-          "name": "Aarde aan Daan",
-          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
-        }
-      ],
-      "duration_ms": 192010,
-      "name": "Verrassing",
-      "url": "https://open.spotify.com/track/0vpLvQxFOjyvy6tAaeTKfR"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "one heart",
         "url": "https://open.spotify.com/album/7KOy9BR0vPciTtbiWvx1M9"
       },
@@ -323,6 +323,26 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "That Day (Live At Wisseloord Studios)",
+        "url": "https://open.spotify.com/album/5vhyyMG04e9SON9vlBJMKa"
+      },
+      "artists": [
+        {
+          "name": "Jessy Yasmeen",
+          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
+        },
+        {
+          "name": "3SOME",
+          "url": "https://open.spotify.com/artist/5U0pkfGtvIQC43ZirKRqHh"
+        }
+      ],
+      "duration_ms": 209558,
+      "name": "That Day - Live At Wisseloord Studios",
+      "url": "https://open.spotify.com/track/6pX7qn0BCudhLdKQprzytg"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Lost In Love",
         "url": "https://open.spotify.com/album/6fXQ2QVG2l5IyM1UsvjGul"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 234453,
       "name": "Chica Chica",
       "url": "https://open.spotify.com/track/6vn6NaH3HWO9rLsJ8FwrJP"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "That Day (Live At Wisseloord Studios)",
-        "url": "https://open.spotify.com/album/5vhyyMG04e9SON9vlBJMKa"
-      },
-      "artists": [
-        {
-          "name": "Jessy Yasmeen",
-          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
-        },
-        {
-          "name": "3SOME",
-          "url": "https://open.spotify.com/artist/5U0pkfGtvIQC43ZirKRqHh"
-        }
-      ],
-      "duration_ms": 209558,
-      "name": "That Day - Live At Wisseloord Studios",
-      "url": "https://open.spotify.com/track/6pX7qn0BCudhLdKQprzytg"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "Mama Dankjewel",
+        "url": "https://open.spotify.com/album/4ggIWKdq8bfW2cO8T9SduC"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Bloom",
+          "url": "https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM"
+        }
+      ],
+      "duration_ms": 170306,
+      "name": "Mama Dankjewel",
+      "url": "https://open.spotify.com/track/59YKXDKbiCKeFE34dP2AFK"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "FUEGO",
         "url": "https://open.spotify.com/album/5q6I6ow3dPKubgxi4kbnRS"
       },
@@ -471,18 +487,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Mama Dankjewel",
-        "url": "https://open.spotify.com/album/4ggIWKdq8bfW2cO8T9SduC"
+        "name": "My disguise",
+        "url": "https://open.spotify.com/album/1e9vJcj6Obgifb0pg9TKEL"
       },
       "artists": [
         {
-          "name": "Mathilde Bloom",
-          "url": "https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM"
+          "name": "Olaf Putker & the Scenic Sound",
+          "url": "https://open.spotify.com/artist/1lJ56naouJ73pb6k1cJl89"
         }
       ],
-      "duration_ms": 170306,
-      "name": "Mama Dankjewel",
-      "url": "https://open.spotify.com/track/59YKXDKbiCKeFE34dP2AFK"
+      "duration_ms": 222462,
+      "name": "My disguise",
+      "url": "https://open.spotify.com/track/1BpSr89lqd2Nl3FHUii20O"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -551,22 +567,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "My disguise",
-        "url": "https://open.spotify.com/album/1e9vJcj6Obgifb0pg9TKEL"
-      },
-      "artists": [
-        {
-          "name": "Olaf Putker & the Scenic Sound",
-          "url": "https://open.spotify.com/artist/1lJ56naouJ73pb6k1cJl89"
-        }
-      ],
-      "duration_ms": 222462,
-      "name": "My disguise",
-      "url": "https://open.spotify.com/track/1BpSr89lqd2Nl3FHUii20O"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "STAP IN",
         "url": "https://open.spotify.com/album/2D5hhrJdstics1HKZWIcsr"
       },
@@ -631,22 +631,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Maankind",
-        "url": "https://open.spotify.com/album/14ScUgJJXyRXGLvgHmXxBm"
+        "name": "The Hanging Clown",
+        "url": "https://open.spotify.com/album/0N5ymTiuUtpvnkHxBD92H4"
       },
       "artists": [
         {
-          "name": "Rijnbaart",
-          "url": "https://open.spotify.com/artist/5Ce0Qxr0GqePcWjwx7VZPd"
-        },
-        {
-          "name": "Jeroen Antoine",
-          "url": "https://open.spotify.com/artist/7u1t7bEnCzS3tWMNNu7QgO"
+          "name": "Outahead",
+          "url": "https://open.spotify.com/artist/2EcQr9GFJPn3vQNvWf23jJ"
         }
       ],
-      "duration_ms": 163032,
-      "name": "wist je niet",
-      "url": "https://open.spotify.com/track/3hwIQDZxwEF7iLV4T637Yh"
+      "duration_ms": 177023,
+      "name": "The Hanging Clown",
+      "url": "https://open.spotify.com/track/4hdOCUzRA6xT8KlfdZPLlQ"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -667,18 +663,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "The Hanging Clown",
-        "url": "https://open.spotify.com/album/0N5ymTiuUtpvnkHxBD92H4"
+        "name": "Maankind",
+        "url": "https://open.spotify.com/album/14ScUgJJXyRXGLvgHmXxBm"
       },
       "artists": [
         {
-          "name": "Outahead",
-          "url": "https://open.spotify.com/artist/2EcQr9GFJPn3vQNvWf23jJ"
+          "name": "Rijnbaart",
+          "url": "https://open.spotify.com/artist/5Ce0Qxr0GqePcWjwx7VZPd"
+        },
+        {
+          "name": "Jeroen Antoine",
+          "url": "https://open.spotify.com/artist/7u1t7bEnCzS3tWMNNu7QgO"
         }
       ],
-      "duration_ms": 177023,
-      "name": "The Hanging Clown",
-      "url": "https://open.spotify.com/track/4hdOCUzRA6xT8KlfdZPLlQ"
+      "duration_ms": 163032,
+      "name": "wist je niet",
+      "url": "https://open.spotify.com/track/3hwIQDZxwEF7iLV4T637Yh"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/5vDmmQHLJZimZ0TqamqwK3"
-      },
-      "artists": [
-        {
-          "name": "Zo Lief",
-          "url": "https://open.spotify.com/artist/655lv153aeepabVfhjnGwq"
-        }
-      ],
-      "duration_ms": 178382,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/5nzLpp5vDgXj4J70Hi0aXX"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Everything I Need Is Here",
         "url": "https://open.spotify.com/album/7twIkHqsj1l15RLves3bls"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 206066,
       "name": "Everything I Need Is Here",
       "url": "https://open.spotify.com/track/1d2uzY2eIhYA1n7rcZpo2u"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/5vDmmQHLJZimZ0TqamqwK3"
+      },
+      "artists": [
+        {
+          "name": "Zo Lief",
+          "url": "https://open.spotify.com/artist/655lv153aeepabVfhjnGwq"
+        }
+      ],
+      "duration_ms": 178382,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/5nzLpp5vDgXj4J70Hi0aXX"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Lastig",
-        "url": "https://open.spotify.com/album/7xQYjJt2Ctibjl9lCi0Sa4"
-      },
-      "artists": [
-        {
-          "name": "Cataleya",
-          "url": "https://open.spotify.com/artist/6cVGrSZhsRJZjcAY39yY38"
-        }
-      ],
-      "duration_ms": 133894,
-      "name": "Lastig",
-      "url": "https://open.spotify.com/track/0sKlW9AFXlHAaxGSX2sfrc"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Godless",
         "url": "https://open.spotify.com/album/5vrfRIjLT9WjGKS5oXBOJW"
       },
@@ -951,6 +935,38 @@
       "duration_ms": 221692,
       "name": "Godless",
       "url": "https://open.spotify.com/track/3j9ZIIAVBeKZ4wL477j78n"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Sirocco",
+        "url": "https://open.spotify.com/album/66n3hUwcOBU8vOzxkqu3J0"
+      },
+      "artists": [
+        {
+          "name": "Sirocco",
+          "url": "https://open.spotify.com/artist/2bsNvdyVIKezcGI4QxXdDd"
+        }
+      ],
+      "duration_ms": 262039,
+      "name": "Vientu",
+      "url": "https://open.spotify.com/track/3JBoHXPeA0muUhjDg34K3Z"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Lastig",
+        "url": "https://open.spotify.com/album/7xQYjJt2Ctibjl9lCi0Sa4"
+      },
+      "artists": [
+        {
+          "name": "Cataleya",
+          "url": "https://open.spotify.com/artist/6cVGrSZhsRJZjcAY39yY38"
+        }
+      ],
+      "duration_ms": 133894,
+      "name": "Lastig",
+      "url": "https://open.spotify.com/track/0sKlW9AFXlHAaxGSX2sfrc"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -987,18 +1003,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Sirocco",
-        "url": "https://open.spotify.com/album/66n3hUwcOBU8vOzxkqu3J0"
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/1xEMS9J4vMOvzUtL4zg20x"
       },
       "artists": [
         {
-          "name": "Sirocco",
-          "url": "https://open.spotify.com/artist/2bsNvdyVIKezcGI4QxXdDd"
+          "name": "ISA\u00cf",
+          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
         }
       ],
-      "duration_ms": 262039,
-      "name": "Vientu",
-      "url": "https://open.spotify.com/track/3JBoHXPeA0muUhjDg34K3Z"
+      "duration_ms": 118500,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/4iOuFrWCo1Nr3LyXLWgcGz"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/1xEMS9J4vMOvzUtL4zg20x"
-      },
-      "artists": [
-        {
-          "name": "ISA\u00cf",
-          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
-        }
-      ],
-      "duration_ms": 118500,
-      "name": "Hot Mess",
-      "url": "https://open.spotify.com/track/4iOuFrWCo1Nr3LyXLWgcGz"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/2PmJb1X6naVRybkZADPjyj"
       },
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "iK",
-        "url": "https://open.spotify.com/album/3fcGgsGebY0eElqnlaVGNp"
-      },
-      "artists": [
-        {
-          "name": "BUG",
-          "url": "https://open.spotify.com/artist/0lslN56rA77D2Tosl0YmZJ"
-        }
-      ],
-      "duration_ms": 130869,
-      "name": "iK",
-      "url": "https://open.spotify.com/track/0fmFEsGfXtRZeQxdRQRf3E"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Flat Caps And Rain Macs",
         "url": "https://open.spotify.com/album/5aCa25kATuBbnqu10kG8rw"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 240000,
       "name": "Flat Caps And Rain Macs",
       "url": "https://open.spotify.com/track/6gEAJOiTe9Gp55wLUulb6D"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "iK",
+        "url": "https://open.spotify.com/album/3fcGgsGebY0eElqnlaVGNp"
+      },
+      "artists": [
+        {
+          "name": "BUG",
+          "url": "https://open.spotify.com/artist/0lslN56rA77D2Tosl0YmZJ"
+        }
+      ],
+      "duration_ms": 130869,
+      "name": "iK",
+      "url": "https://open.spotify.com/track/0fmFEsGfXtRZeQxdRQRf3E"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "Sleeptalk",
+        "url": "https://open.spotify.com/album/35KwhKnntqjExXWEOLiFZs"
+      },
+      "artists": [
+        {
+          "name": "Dreamer",
+          "url": "https://open.spotify.com/artist/2ZtELmYTWzfnlVKkT0kJUk"
+        }
+      ],
+      "duration_ms": 209109,
+      "name": "Sleeptalk",
+      "url": "https://open.spotify.com/track/1T70LLYXcqRucK2nLO2dLA"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Los Anarquistitas",
         "url": "https://open.spotify.com/album/0Sc7klbJtL1CHgPpRVL8P2"
       },
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Sleeptalk",
-        "url": "https://open.spotify.com/album/35KwhKnntqjExXWEOLiFZs"
+        "name": "Order Of Operations",
+        "url": "https://open.spotify.com/album/6drsg5hD7OV6pyRM9KOcEP"
       },
       "artists": [
         {
-          "name": "Dreamer",
-          "url": "https://open.spotify.com/artist/2ZtELmYTWzfnlVKkT0kJUk"
+          "name": "Scherry",
+          "url": "https://open.spotify.com/artist/4azakHkTTPfeTYjqmtL06y"
         }
       ],
-      "duration_ms": 209109,
-      "name": "Sleeptalk",
-      "url": "https://open.spotify.com/track/1T70LLYXcqRucK2nLO2dLA"
+      "duration_ms": 431600,
+      "name": "Order Of Operations",
+      "url": "https://open.spotify.com/track/57T2io4N4UUqlef1TmSuaA"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1191,22 +1207,6 @@
       "duration_ms": 126816,
       "name": "IK WIL EEN PORSCHE",
       "url": "https://open.spotify.com/track/7kE1folhSAAu0RWjCQPqzh"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Order Of Operations",
-        "url": "https://open.spotify.com/album/6drsg5hD7OV6pyRM9KOcEP"
-      },
-      "artists": [
-        {
-          "name": "Scherry",
-          "url": "https://open.spotify.com/artist/4azakHkTTPfeTYjqmtL06y"
-        }
-      ],
-      "duration_ms": 431600,
-      "name": "Order Of Operations",
-      "url": "https://open.spotify.com/track/57T2io4N4UUqlef1TmSuaA"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Maar Verder Gaat Het Goed",
-        "url": "https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO"
-      },
-      "artists": [
-        {
-          "name": "So-Fi",
-          "url": "https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs"
-        }
-      ],
-      "duration_ms": 173506,
-      "name": "In M'n Hoofd",
-      "url": "https://open.spotify.com/track/2ky5w4vqqhH5g1V7oh7ouR"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "met de beste intenties",
         "url": "https://open.spotify.com/album/7xyCBVnKr0yey5G94w2Z6Z"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 159669,
       "name": "beste intenties",
       "url": "https://open.spotify.com/track/4wb9qDF28vkAM0883WtUYP"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Maar Verder Gaat Het Goed",
+        "url": "https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO"
+      },
+      "artists": [
+        {
+          "name": "So-Fi",
+          "url": "https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs"
+        }
+      ],
+      "duration_ms": 173506,
+      "name": "In M'n Hoofd",
+      "url": "https://open.spotify.com/track/2ky5w4vqqhH5g1V7oh7ouR"
     },
     {
       "added_at": "2024-07-01 08:44:42",

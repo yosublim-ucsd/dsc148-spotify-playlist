@@ -3403,6 +3403,24 @@
     },
     {
       "album": {
+        "name": "America",
+        "url": "https://open.spotify.com/album/2GCnapS46Gp6o8BOG4dekf"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZWALD",
+          "url": "https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "America",
+      "url": "https://open.spotify.com/track/4sek3uyetvcY6qDRpJ1qoL"
+    },
+    {
+      "album": {
         "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
         "url": "https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN"
       },
@@ -25061,6 +25079,24 @@
     },
     {
       "album": {
+        "name": "Head in the Clouds",
+        "url": "https://open.spotify.com/album/1WYUuBUVJ5Onnmitwhbt6l"
+      },
+      "artists": [
+        {
+          "name": "Jozephine",
+          "url": "https://open.spotify.com/artist/2lc6d8twPL5LrOC5L8Ubnq"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188902,
+      "name": "Head in the Clouds",
+      "url": "https://open.spotify.com/track/2lE2EiMRmZTNcKs1yvlZ0H"
+    },
+    {
+      "album": {
         "name": "Head In The Clouds",
         "url": "https://open.spotify.com/album/3NzEjoGKc05cnaGvfXjD0E"
       },
@@ -32272,7 +32308,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 216673,
       "name": "Last one in line",
       "url": "https://open.spotify.com/track/27Rv5DELzhtmJS8BAOUk8K"
@@ -41824,7 +41860,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 186000,
       "name": "Noise",
       "url": "https://open.spotify.com/track/33vkeGG9QbOu1OpPJ8r41F"
@@ -59030,7 +59066,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 159413,
       "name": "Think I'm In Love",
       "url": "https://open.spotify.com/track/0T1tvbmjEaJ1RqtGlzsQqD"
@@ -64432,7 +64468,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 120187,
       "name": "What I Live For",
       "url": "https://open.spotify.com/track/6TvbTJeOiS2GfNta72CtcY"

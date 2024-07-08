@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 304243,
+  "num_followers": 304297,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
-        "name": "Ac\u00fastico (Live)",
-        "url": "https://open.spotify.com/album/7ATBrzHUgIN21MkSh8KpTr"
-      },
-      "artists": [
-        {
-          "name": "Os Paralamas Do Sucesso",
-          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
-        }
-      ],
-      "duration_ms": 256720,
-      "name": "Caleidosc\u00f3pio - Ao Vivo",
-      "url": "https://open.spotify.com/track/2gOhhHSjm3iw4NFY43carm"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/0AFkktyrrPtQvpIBqpRrc7"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 128106,
       "name": "O Coro Vai Come - Ao Vivo",
       "url": "https://open.spotify.com/track/3QoydK0LFOpK0JnfIpCffR"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
+        "name": "Ac\u00fastico (Live)",
+        "url": "https://open.spotify.com/album/7ATBrzHUgIN21MkSh8KpTr"
+      },
+      "artists": [
+        {
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+        }
+      ],
+      "duration_ms": 256720,
+      "name": "Caleidosc\u00f3pio - Ao Vivo",
+      "url": "https://open.spotify.com/track/2gOhhHSjm3iw4NFY43carm"
     },
     {
       "added_at": "2024-06-07 17:34:56",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
-        "name": "Detonautas Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
-      },
-      "artists": [
-        {
-          "name": "Detonautas Roque Clube",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        }
-      ],
-      "duration_ms": 277693,
-      "name": "S\u00f3 por hoje / Tenis Roque",
-      "url": "https://open.spotify.com/track/4PY23WVDXuHDHwhg0P7PDq"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
         "name": "Chegou Quem Faltava - Volume 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 141136,
       "name": "Dias de Luta, Dias de Gl\u00f3ria - Ao Vivo - Chegou Quem Faltava",
       "url": "https://open.spotify.com/track/6QsNSUfywJxc5RelHUnf38"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
+        "name": "Detonautas Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
+      },
+      "artists": [
+        {
+          "name": "Detonautas Roque Clube",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "duration_ms": 277693,
+      "name": "S\u00f3 por hoje / Tenis Roque",
+      "url": "https://open.spotify.com/track/4PY23WVDXuHDHwhg0P7PDq"
     },
     {
       "added_at": "2024-06-07 17:34:56",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
-        "name": "What's My Age Again? (Acoustic)",
-        "url": "https://open.spotify.com/album/506hLUSMqm86HaWfCBmRqr"
-      },
-      "artists": [
-        {
-          "name": "Jota John",
-          "url": "https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm"
-        }
-      ],
-      "duration_ms": 146105,
-      "name": "What's My Age Again? - Acoustic",
-      "url": "https://open.spotify.com/track/45kMZGHOouczcHG6nwVzjh"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
         "name": "Imprevis\u00edvel (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5j4JF0JaqOzsPxIfXP0bDf"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 188821,
       "name": "Imprevis\u00edvel (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/0zo8ZIMMDWQNOmUNS3BIXl"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
+        "name": "What's My Age Again? (Acoustic)",
+        "url": "https://open.spotify.com/album/506hLUSMqm86HaWfCBmRqr"
+      },
+      "artists": [
+        {
+          "name": "Jota John",
+          "url": "https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm"
+        }
+      ],
+      "duration_ms": 146105,
+      "name": "What's My Age Again? - Acoustic",
+      "url": "https://open.spotify.com/track/45kMZGHOouczcHG6nwVzjh"
     },
     {
       "added_at": "2024-06-07 17:34:56",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
-        "name": "Shadow Of The Day (Acoustic)",
-        "url": "https://open.spotify.com/album/2aYZc0kNNdUmCZh0IKz9dA"
-      },
-      "artists": [
-        {
-          "name": "Jota John",
-          "url": "https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm"
-        }
-      ],
-      "duration_ms": 198715,
-      "name": "Shadow Of The Day - Acoustic",
-      "url": "https://open.spotify.com/track/0OjWAUdnGBzRFSELi5JW9m"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
         "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
         "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 190651,
       "name": "Guerra e Paz - Ac\u00fastico Live",
       "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
+        "name": "Shadow Of The Day (Acoustic)",
+        "url": "https://open.spotify.com/album/2aYZc0kNNdUmCZh0IKz9dA"
+      },
+      "artists": [
+        {
+          "name": "Jota John",
+          "url": "https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm"
+        }
+      ],
+      "duration_ms": 198715,
+      "name": "Shadow Of The Day - Acoustic",
+      "url": "https://open.spotify.com/track/0OjWAUdnGBzRFSELi5JW9m"
     },
     {
       "added_at": "2024-06-07 17:34:56",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
+        "name": "Pra Dizer Adeus (Trio Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5UNoFiPyAyTq9B6E4CBX2g"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "duration_ms": 224080,
+      "name": "Pra Dizer Adeus - Trio Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5d3FwTgLhVIFf6UcSIfkk8"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
         "name": "City Of Angels (Piano Version)",
         "url": "https://open.spotify.com/album/3kguk7orqedmPpva1hUBG0"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 283800,
       "name": "Every Time I Look At You - Live",
       "url": "https://open.spotify.com/track/33D1kuSjM8e8rwHrzGeSkm"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
-        "name": "Pra Dizer Adeus (Trio Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5UNoFiPyAyTq9B6E4CBX2g"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        }
-      ],
-      "duration_ms": 224080,
-      "name": "Pra Dizer Adeus - Trio Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5d3FwTgLhVIFf6UcSIfkk8"
     }
   ],
   "unique_name": "Rock Ac\u00fastico",

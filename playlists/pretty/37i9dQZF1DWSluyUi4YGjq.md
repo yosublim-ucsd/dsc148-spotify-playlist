@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. cover: They Are Gutting A Body Of Water
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,735 likes - 119 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,846 likes - 119 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

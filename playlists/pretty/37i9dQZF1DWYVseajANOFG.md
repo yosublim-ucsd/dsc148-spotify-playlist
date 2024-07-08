@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: Boza, Elena Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,234 likes - 55 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,284 likes - 55 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 3 | [RBD](https://open.spotify.com/track/0HT9jMfOUxZmLkpFuUdqjc) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [Pinky](https://open.spotify.com/artist/5HU5bbbcgabE9AgBkXJaXS), [CRBRO](https://open.spotify.com/artist/6guLWnvW76oTo4AdSIMBFe) | [RBD](https://open.spotify.com/album/7FKyQVtbPG0PbvRYxJrnVM) | 2:37 |
 | 4 | [Sígueme \- Remix](https://open.spotify.com/track/3pAwh9JxSJxWyUy3BUBPb4) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sígueme \(Remix\)](https://open.spotify.com/album/3pnENHsnCw6FKRfUmwJbKF) | 3:22 |
 | 5 | [Baby Gangster](https://open.spotify.com/track/4zf7VxEF3GMizhklbgXYLR) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Nerry Money](https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ) | [Baby Gangster](https://open.spotify.com/album/1zSpC8ajqnhTenuxEFTs2g) | 3:59 |
-| 6 | [Sin Control](https://open.spotify.com/track/7raKGuDlOukzGKlj6rvzOm) | [El Tiex](https://open.spotify.com/artist/6464frNa6A3iV5HovTeKd9), [El Zeta](https://open.spotify.com/artist/24iSgjiesQ2bhUsHsav2uk) | [Sin Control](https://open.spotify.com/album/42yS1yxA98DH2VzudGryIv) | 3:11 |
+| 6 | [Sin Control](https://open.spotify.com/track/7raKGuDlOukzGKlj6rvzOm) | [El Tiex](https://open.spotify.com/artist/6464frNa6A3iV5HovTeKd9), [El Zeta](https://open.spotify.com/artist/24iSgjiesQ2bhUsHsav2uk), [MUZIKPRADO](https://open.spotify.com/artist/4GNRZtrMt85FtoX8aC2PgI) | [Sin Control](https://open.spotify.com/album/42yS1yxA98DH2VzudGryIv) | 3:11 |
 | 7 | [Yo Te Llamo](https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6) | [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb), [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d) | [De 0 a 100](https://open.spotify.com/album/56xJFIXqrvIjX2GldeMfwl) | 2:33 |
 | 8 | [Noriega](https://open.spotify.com/track/1yFli3tJjSOW0wJFEcY7gu) | [Rik](https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh), [El Doble K](https://open.spotify.com/artist/4isHbp1LrcVnarUj7o6N6I), [Mr\. Fox](https://open.spotify.com/artist/2ATuDQ7nhfT3Y89azqMexw), [Nerry Money](https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ), [Youbenji](https://open.spotify.com/artist/42fdxOeeRKuc5UI3zlPrdt) | [Noriega](https://open.spotify.com/album/2H5akl0GSZm1LpLsCTY9WH) | 4:28 |
 | 9 | [Al Reves](https://open.spotify.com/track/0bCorsBksr8DsEc5yNyIEW) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Al Reves](https://open.spotify.com/album/7a0jJ2NMNxGSmPHnpHOKPy) | 2:56 |

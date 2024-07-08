@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring 42 Dugg, Eminem, Ken Carson and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,518 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,607 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 23 | [Beckham](https://open.spotify.com/track/60lAoxcyDvRbcNY82VEoEA) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Kai Swervo](https://open.spotify.com/artist/1frmN1C7BmO6wKo7iQhar2), [KJ Swervo](https://open.spotify.com/artist/3VzzWMyEQci155HpLwKVZc) | [Beckham](https://open.spotify.com/album/1GNQ8Lr4qLa6XTTm7Xuwgw) | 2:04 |
 | 24 | [NO PROBLEM](https://open.spotify.com/track/3qkieZLk7rAwSjRgdH6Rf7) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [NO PROBLEM](https://open.spotify.com/album/0LGgUzSUD52yX4hq4U4JbY) | 3:01 |
 | 25 | [No Ø Zone \(feat\. VonOff1700\)](https://open.spotify.com/track/1dShewvlJ7mlMzTBuhd1uQ) | [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [No Ø Zone \(feat\. VonOff1700\)](https://open.spotify.com/album/0ZoPCgMfRyoNpiL3vgVCu3) | 3:32 |
-| 26 | [Shook Ones 2024](https://open.spotify.com/track/566h2bG8oEx18LccvFbx5V) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Shook Ones 2024](https://open.spotify.com/album/65skh74iL8zcuGQHMfz0i8) | 2:17 |
+| 26 | [Shook Ones \- Freestyle](https://open.spotify.com/track/566h2bG8oEx18LccvFbx5V) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Shook Ones \(Freestyle\)](https://open.spotify.com/album/65skh74iL8zcuGQHMfz0i8) | 2:17 |
 | 27 | [I Can't Go](https://open.spotify.com/track/6TQZA9JBp0YNJhAYxVOOKJ) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2) | [I Can't Go](https://open.spotify.com/album/4vjTe8jEnJznqTnXWEd2ol) | 3:27 |
 | 28 | [Rich Today \(feat\. Polyester the Saint\)](https://open.spotify.com/track/7FVspRnDzSrT9NQbQACkmF) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [Polyester the Saint](https://open.spotify.com/artist/2i59qMkZ79k8WTLV6gMJXY) | [Rich Today \(feat\. Polyester the Saint\)](https://open.spotify.com/album/4z6ao9BaKvmowyzqFawxRp) | 2:19 |
 | 29 | [YANKIN!](https://open.spotify.com/track/7jICgMZ4vEkAirE1gxMMZm) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [D\-LO](https://open.spotify.com/artist/40uPOeOQVWuNb6imBRJWjR), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Raymon Marco](https://open.spotify.com/artist/2hk2X7xeg4QEQwKdnvl0JG), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb) | [YANKIN!](https://open.spotify.com/album/4UzCUrPGInWVchMROi7XEV) | 3:58 |

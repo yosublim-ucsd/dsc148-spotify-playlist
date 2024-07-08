@@ -2352,7 +2352,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 191106,
       "name": "Bachata En Fukuoka",
       "url": "https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP"
@@ -5158,7 +5158,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 160081,
       "name": "Cuando Prendo",
       "url": "https://open.spotify.com/track/0kMYyxS8Jo4230bAszKiqx"
@@ -7420,6 +7420,24 @@
       "duration_ms": 138240,
       "name": "don't talk",
       "url": "https://open.spotify.com/track/3H0UjyEN9hddNiLkVBbpHW"
+    },
+    {
+      "album": {
+        "name": "Donde Est\u00e1s",
+        "url": "https://open.spotify.com/album/5EGyOay0GOA9Z5jywoyzol"
+      },
+      "artists": [
+        {
+          "name": "Nigel",
+          "url": "https://open.spotify.com/artist/1CEX09QFQGNdyIzFLKYksf"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208458,
+      "name": "Donde Est\u00e1s",
+      "url": "https://open.spotify.com/track/4MvDkNM5Q3330VURnjfJbM"
     },
     {
       "album": {
@@ -22974,7 +22992,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 222727,
       "name": "Razones",
       "url": "https://open.spotify.com/track/6ioloNq3bBHgoIJh3rC8BQ"
@@ -27464,7 +27482,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 117120,
       "name": "Tetere",
       "url": "https://open.spotify.com/track/6EKQWjiQPniG7zwJ9Hhc4y"
@@ -30528,7 +30546,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 196363,
       "name": "WYA",
       "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"

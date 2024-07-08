@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,920 songs - 4 day 7 hr 25 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,921 songs - 4 day 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1928,5 +1928,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1918 | [Waltz Op\. 64, No\. 1 in D\-Flat Major "Minute Waltz"](https://open.spotify.com/track/5PJdoZiLVsMy4cfQjZfum6) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lang Lang: The Chopin Album](https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF) | 2:10 |
 | 1919 | [Rewind](https://open.spotify.com/track/50GxvQA2KEWNt31EdwIlzY) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:48 |
 | 1920 | [New Bottega](https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH) | 3:08 |
+| 1921 | [Return to Zero Возвращайся Beztebya \- Slowed Reverb](https://open.spotify.com/track/5INzvllYMlajboTg4dcTIw) | [Marc Acardipane](https://open.spotify.com/artist/2hyRTXUyfd56j4siLF4zJx), [angel vox](https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw), [Dayerteq](https://open.spotify.com/artist/1fmBphPpwm9K2udLEXPXsd) | [Return to Zero Возвращайся Beztebya](https://open.spotify.com/album/6V23ydJxx6VErSJvN7AIaK) | 2:16 |
 
-Snapshot ID: `AAADIsmUR6MJ+DNiqLRnVIjrBEzztR1u`
+Snapshot ID: `AAADI1nbFW4b+CyYK9Z4mZW+ZoM0beho`

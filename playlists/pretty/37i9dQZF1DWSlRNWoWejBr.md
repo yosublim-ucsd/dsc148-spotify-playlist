@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > mae q q vc escutava qndo era mais nova? .
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,895 likes - 69 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,434 likes - 69 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

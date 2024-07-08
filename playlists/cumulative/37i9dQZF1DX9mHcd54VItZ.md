@@ -4,7 +4,7 @@
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY?si=oqzSlc6wSSuoUDBAx3N9Qw">Neil Sandilands</a>
 
-480 songs - 1 day 4 hr 40 min
+481 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Badass Beautiful Friend](https://open.spotify.com/track/5M5793P3hiQpDDDx8ap6YC) | [FUZIGISH](https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v) | [Badass Beautiful Friend](https://open.spotify.com/album/3qhqMOEqPrvkHgYBYHJhNq) | 3:09 | 2024-02-09 | 2024-03-01 |
 | [Badluck](https://open.spotify.com/track/7kR0o7XKyLiKxqqu98bupO) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 0:52 | 2022-02-10 | 2022-02-18 |
 | [Bag of Bones](https://open.spotify.com/track/4wBeiARY66bJ3FrrEjnlVa) | [Gangsterdam](https://open.spotify.com/artist/63fJ4ckrhwwtDX31WrhqfS) | [Bag of Bones](https://open.spotify.com/album/4bpRUM7drDQpbwqhMzJeZ1) | 2:37 | 2022-09-15 | 2022-11-25 |
+| [Battering Lamb](https://open.spotify.com/track/7vwVsjEnWkCLgQRc6gbFFw) | [Ruff Majik](https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL) | [Battering Lamb](https://open.spotify.com/album/4qvCXMGH7dfliEGXYvXdaw) | 3:24 | 2024-07-04 |  |
 | [BEAUTIFUL LIES](https://open.spotify.com/track/1IHmRnrOb9S0URi8bbMRrI) | [Fortunes Fool](https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py) | [BEAUTIFUL LIES](https://open.spotify.com/album/1S4TfRej2A4nZ8u42vtWml) | 3:52 | 2023-06-01 | 2023-08-20 |
 | [Begin Van Die Einde](https://open.spotify.com/track/7kfWuIVQ0vqTxBA5hAIbzG) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Begin Van Die Einde](https://open.spotify.com/album/2BYTNrN2Ct1XkjTtriuqSa) | 3:28 | 2021-02-25 | 2022-11-18 |
 | [Believer](https://open.spotify.com/track/0XTC98wV7l5xnGOMIsUsv5) | [FUZIGISH](https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v) | [Believer](https://open.spotify.com/album/0MX2naV6uywiYfLqPEYyvK) | 4:20 | 2022-02-17 | 2022-11-25 |
@@ -376,7 +377,7 @@
 | [Six Feet of Snow](https://open.spotify.com/track/6xJqUFVdJXd97rFA1M3Ane) | [Ethyl Ether](https://open.spotify.com/artist/0SbWug1zk2RZx8WkkwIJpt) | [Six Feet of Snow](https://open.spotify.com/album/3QCHTxFWFeqqJj2x1tTXbO) | 4:58 | 2022-12-01 | 2022-12-09 |
 | [Skemer](https://open.spotify.com/track/1jA3oyVG2hVhJ1N4pEnikA) | [Bouwer Bosch](https://open.spotify.com/artist/5HZFQNs0MnrxxtU7dvi4Te) | [Briewe Uit Die Argiewe](https://open.spotify.com/album/0S5HPecNnxsYdKnQXPVdcG) | 3:45 | 2022-11-17 | 2023-03-03 |
 | [SKIN](https://open.spotify.com/track/4KqrcWePnhNGWAyfa8UTO6) | [BRAINCHILD](https://open.spotify.com/artist/0IKw7PVOOaFyDUTMcAYkCj) | [SKIN](https://open.spotify.com/album/6yHbCQ1kMQd54FzDsV5UM0) | 2:24 | 2023-04-14 | 2023-06-09 |
-| [Skree](https://open.spotify.com/track/0nrnO5EK6NLHUqfAesvjwV) | [Klopjag](https://open.spotify.com/artist/7CKSkmBkcnuX9L4wJYpSY9) | [Album Drie](https://open.spotify.com/album/1DtlSqSSRjfucIMrtoKsLx) | 3:31 | 2024-01-04 |  |
+| [Skree](https://open.spotify.com/track/0nrnO5EK6NLHUqfAesvjwV) | [Klopjag](https://open.spotify.com/artist/7CKSkmBkcnuX9L4wJYpSY9) | [Album Drie](https://open.spotify.com/album/1DtlSqSSRjfucIMrtoKsLx) | 3:31 | 2024-01-04 | 2024-07-08 |
 | [Skylight](https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Skylight](https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY) | 4:00 | 2022-01-06 | 2022-07-22 |
 | [Slipping Away](https://open.spotify.com/track/2KgfOqr3H3Hh6cwaAQeWcy) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Looking Back At Getting Here](https://open.spotify.com/album/1Kp1XEcGFJKygN7MVhsGIE) | 3:17 | 2022-02-03 | 2022-11-22 |
 | [Slow Down](https://open.spotify.com/track/2WJLJtpRXiWgPGuSiV9kY2) | [Gaz](https://open.spotify.com/artist/0YAL8izS16IewZXB4dlLdS) | [Slow Down](https://open.spotify.com/album/4bWs899eJvZvRoxwHa9bBt) | 3:17 | 2023-07-28 | 2023-09-16 |

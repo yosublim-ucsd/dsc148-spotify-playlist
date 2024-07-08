@@ -4,7 +4,7 @@
 
 > Enmascarados, Pin\-Up Girls, Engrasados y Surfers en un mismo lugar
 
-244 songs - 12 hr 10 min
+245 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Frenesick](https://open.spotify.com/track/2Nj3Nav85I3sBSnJG0ff8A) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr) | 2:25 | 2021-09-03 | 2024-04-19 |
 | [Fuera Ropa](https://open.spotify.com/track/0DeOs4UCe0TzOKMkheHMlU) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 2:19 | 2021-09-03 |  |
 | [Fuera Ropa: XX Años](https://open.spotify.com/track/1Q5WdqThl9eOa7yfOiMEKY) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Fuera Ropa: XX Años](https://open.spotify.com/album/2JzJfKk0jtO5JRmyRM4VRk) | 2:06 | 2021-09-03 | 2022-07-20 |
-| [Garaje o Muerte](https://open.spotify.com/track/75sSpuGTbgRBNqrUXeiVRQ) | [Los Peyotes](https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp) | [Garaje o Muerte](https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6) | 2:03 | 2021-09-03 |  |
+| [Garaje o Muerte](https://open.spotify.com/track/75sSpuGTbgRBNqrUXeiVRQ) | [Los Peyotes](https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp) | [Garaje o Muerte](https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6) | 2:03 | 2021-09-03 | 2024-07-08 |
 | [Ghoulman Confidential](https://open.spotify.com/track/6yHvZlTgv3CjF3NQBe0lyK) | [The Fleshtones](https://open.spotify.com/artist/3a9cSOmXeX3S8Tosfy9Dwv) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/3D6VjAipDxmTrWtlqfEmlI) | 2:31 | 2021-09-03 | 2022-07-24 |
 | [Giulia Mon Amour](https://open.spotify.com/track/6Bs5fu60hcUsJw9TwOZtV4) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi) | [Traditori Di Tutti \(Deluxe Edition\)](https://open.spotify.com/album/2u0cEPDOm45kocGJuNCTFs) | 3:37 | 2022-04-09 | 2022-07-01 |
 | [Gloria](https://open.spotify.com/track/6HwDrDj6wqgw5zsMQJp1cR) | [Los Magnificos](https://open.spotify.com/artist/1Nru8JRh3JqTMkAnIox4RB) | [Los Magníficos](https://open.spotify.com/album/0HlEemp9yRnQraEb94ssUq) | 3:23 | 2021-09-03 | 2022-07-22 |
@@ -205,6 +205,7 @@
 | [Soy Pandillero](https://open.spotify.com/track/5xeZDsYEOaBWAAFexDACba) | [Los Pandilleros](https://open.spotify.com/artist/5FwgeguYu3pQhvJY9gqaSA) | [Soy Pandillero](https://open.spotify.com/album/2qxHcI06mYcsuvybw0JJ84) | 3:44 | 2021-09-03 |  |
 | [Space Junket](https://open.spotify.com/track/1yKaipER1IDZhK7xlkG19G) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Space Junket](https://open.spotify.com/album/4eETDlaUPg9XS32qD66M34) | 2:56 | 2021-09-03 | 2022-07-22 |
 | [Space Oddity](https://open.spotify.com/track/1aqKNWVSHrdJNxYTtl8kZU) | [The Neanderthals](https://open.spotify.com/artist/3IEkhYN4pmmS1XFtB2cAT8), [Eddie Angel \(Los Straitjackets\)](https://open.spotify.com/artist/1vo1sJls2CJ26A7VcvWEqC) | [The Neanderthals In Space](https://open.spotify.com/album/18Q5PGVJ162yrxJvZD6Uei) | 2:59 | 2021-09-03 |  |
+| [Sputnik A\-Go\-Go](https://open.spotify.com/track/7etKtgTsjfSEOZp1eqNJad) | [The Reverb Syndicate](https://open.spotify.com/artist/5bO9P60meCXaKNmoMLSqtJ) | [Sputnik A\-Go\-Go](https://open.spotify.com/album/6NRN8ztPhAWEFpvYYZkqDQ) | 3:34 | 2024-06-07 |  |
 | [Spy Cam](https://open.spotify.com/track/0zeMgUcxLn0KvXcC8hGZCA) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Las Mejores Olas](https://open.spotify.com/album/3ZWimjUwLvF5ONvMj2gWYt) | 3:05 | 2021-09-03 |  |
 | [St James Infirmary Blues](https://open.spotify.com/track/3BdWsPOR6zmT9O5gNytgn4) | [Carlos Feral](https://open.spotify.com/artist/47g4ODAeiu5CZmybiIMclC) | [St James Infirmary Blues](https://open.spotify.com/album/16krZ9iXZUKtYxjGAGlUyA) | 1:51 | 2023-07-21 |  |
 | [Surf Club](https://open.spotify.com/track/3U9tg87S49ITl5vULKvpVr) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Surf Club](https://open.spotify.com/album/6VY5SB42zlUxmSKWzTnboL) | 1:41 | 2023-07-28 |  |

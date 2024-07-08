@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Qu\u00e9 rico el mambo! Cover: Machito",
-  "num_followers": 106506,
+  "num_followers": 106544,
   "original_name": "Mambo Classics",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
-        "name": "Kenya",
-        "url": "https://open.spotify.com/album/1BHUIrORQwywRkl5cjapQz"
-      },
-      "artists": [
-        {
-          "name": "Machito",
-          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
-        }
-      ],
-      "duration_ms": 167893,
-      "name": "Wild Jungle - 2000 Remaster",
-      "url": "https://open.spotify.com/track/0uoOBKdEsBzqKjondmUTli"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
         "name": "Mambo No 5",
         "url": "https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi"
       },
@@ -223,6 +207,22 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
+        "name": "Kenya",
+        "url": "https://open.spotify.com/album/1BHUIrORQwywRkl5cjapQz"
+      },
+      "artists": [
+        {
+          "name": "Machito",
+          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
+        }
+      ],
+      "duration_ms": 167893,
+      "name": "Wild Jungle - 2000 Remaster",
+      "url": "https://open.spotify.com/track/0uoOBKdEsBzqKjondmUTli"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
         "name": "Two Brothers Two Legends",
         "url": "https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh"
       },
@@ -235,22 +235,6 @@
       "duration_ms": 326560,
       "name": "Buchipluma Na' Ma'",
       "url": "https://open.spotify.com/track/66eyTpvxV8aMlyR1gN6XHt"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
-        "name": "Dance Mania Vol.1",
-        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente & His Orchestra",
-          "url": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
-        }
-      ],
-      "duration_ms": 235333,
-      "name": "Mi Chiquita Quiere Bemb\u00e9",
-      "url": "https://open.spotify.com/track/5GbOYy9AZHOjeZCd3gAa2D"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -291,38 +275,6 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
-        "name": "Besame Mucho and More Golden Hits",
-        "url": "https://open.spotify.com/album/55iu99b3CQUneNy1hTeRig"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Baile Mi Mambo",
-      "url": "https://open.spotify.com/track/4hj0qM3g6ioPpDdBqBxVGK"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/7oA3AvSErky8lkeckVMazA"
-      },
-      "artists": [
-        {
-          "name": "Joe Cuba",
-          "url": "https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh"
-        }
-      ],
-      "duration_ms": 334813,
-      "name": "El Pito (I'll Never Go Back to Georgia)",
-      "url": "https://open.spotify.com/track/3PDGbCcg4vX8Jb2upTWkCJ"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
         "name": "Dance Mania Vol.1",
         "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
       },
@@ -332,25 +284,9 @@
           "url": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
         }
       ],
-      "duration_ms": 184826,
-      "name": "Saca Tu Mujer",
-      "url": "https://open.spotify.com/track/6E2a4v0Sj2I5vAuaJb2UMO"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
-        "name": "Mi Amigo, Machito",
-        "url": "https://open.spotify.com/album/2lKq4rYdg8Byf3O7EkiZap"
-      },
-      "artists": [
-        {
-          "name": "Machito",
-          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
-        }
-      ],
-      "duration_ms": 196920,
-      "name": "Si Si No No",
-      "url": "https://open.spotify.com/track/0u7PjYa0zIkQSor0a3gFgJ"
+      "duration_ms": 235333,
+      "name": "Mi Chiquita Quiere Bemb\u00e9",
+      "url": "https://open.spotify.com/track/5GbOYy9AZHOjeZCd3gAa2D"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -371,6 +307,38 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
+        "name": "Besame Mucho and More Golden Hits",
+        "url": "https://open.spotify.com/album/55iu99b3CQUneNy1hTeRig"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Baile Mi Mambo",
+      "url": "https://open.spotify.com/track/4hj0qM3g6ioPpDdBqBxVGK"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
+        "name": "Mi Amigo, Machito",
+        "url": "https://open.spotify.com/album/2lKq4rYdg8Byf3O7EkiZap"
+      },
+      "artists": [
+        {
+          "name": "Machito",
+          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
+        }
+      ],
+      "duration_ms": 196920,
+      "name": "Si Si No No",
+      "url": "https://open.spotify.com/track/0u7PjYa0zIkQSor0a3gFgJ"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
         "name": "Two Brothers Two Legends",
         "url": "https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh"
       },
@@ -387,6 +355,22 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/7oA3AvSErky8lkeckVMazA"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba",
+          "url": "https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh"
+        }
+      ],
+      "duration_ms": 334813,
+      "name": "El Pito (I'll Never Go Back to Georgia)",
+      "url": "https://open.spotify.com/track/3PDGbCcg4vX8Jb2upTWkCJ"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
         "name": "Celia Cruz - Greatest Hits",
         "url": "https://open.spotify.com/album/634V0km4mTClHkrGiEKw9B"
       },
@@ -399,38 +383,6 @@
       "duration_ms": 227760,
       "name": "Cao Cao Mani Picao",
       "url": "https://open.spotify.com/track/16cVmcgx4ENIHLUPDh1et9"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
-        "name": "Dance Mania Vol.1",
-        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "Complicaci\u00f3n",
-      "url": "https://open.spotify.com/track/1McWg1rZqA1AGhYojNff8c"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/7oA3AvSErky8lkeckVMazA"
-      },
-      "artists": [
-        {
-          "name": "Joe Cuba",
-          "url": "https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh"
-        }
-      ],
-      "duration_ms": 204666,
-      "name": "Bochinchosa",
-      "url": "https://open.spotify.com/track/1OTMZw6yLNNbhTYVHiuRCu"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -467,18 +419,18 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
-        "name": "Mucho Machito",
-        "url": "https://open.spotify.com/album/4L0HpmMErcZZ5pLj8oewPZ"
+        "name": "Dance Mania Vol.1",
+        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
       },
       "artists": [
         {
-          "name": "Machito",
-          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
+          "name": "Tito Puente & His Orchestra",
+          "url": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
         }
       ],
-      "duration_ms": 184786,
-      "name": "Kenya",
-      "url": "https://open.spotify.com/track/48MxmM42utTBnvedomKp3C"
+      "duration_ms": 184826,
+      "name": "Saca Tu Mujer",
+      "url": "https://open.spotify.com/track/6E2a4v0Sj2I5vAuaJb2UMO"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -524,9 +476,41 @@
           "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 170533,
-      "name": "Varsity Drag - Mambo Jazz Instrumental",
-      "url": "https://open.spotify.com/track/023qcEfVt18bVng2maOp9I"
+      "duration_ms": 200840,
+      "name": "Complicaci\u00f3n",
+      "url": "https://open.spotify.com/track/1McWg1rZqA1AGhYojNff8c"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
+        "name": "Mucho Machito",
+        "url": "https://open.spotify.com/album/4L0HpmMErcZZ5pLj8oewPZ"
+      },
+      "artists": [
+        {
+          "name": "Machito",
+          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
+        }
+      ],
+      "duration_ms": 184786,
+      "name": "Kenya",
+      "url": "https://open.spotify.com/track/48MxmM42utTBnvedomKp3C"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/7oA3AvSErky8lkeckVMazA"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba",
+          "url": "https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh"
+        }
+      ],
+      "duration_ms": 204666,
+      "name": "Bochinchosa",
+      "url": "https://open.spotify.com/track/1OTMZw6yLNNbhTYVHiuRCu"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -567,6 +551,38 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
+        "name": "Dance Mania Vol.1",
+        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 170533,
+      "name": "Varsity Drag - Mambo Jazz Instrumental",
+      "url": "https://open.spotify.com/track/023qcEfVt18bVng2maOp9I"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
+        "name": "Latin Cool Classics: Orlando Marin",
+        "url": "https://open.spotify.com/album/6fVhJKYknI5k9TZAWSDe8C"
+      },
+      "artists": [
+        {
+          "name": "Orlando Marin",
+          "url": "https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID"
+        }
+      ],
+      "duration_ms": 326826,
+      "name": "Aprende a Querer",
+      "url": "https://open.spotify.com/track/0Wi0SRDXOy8Yk32iaPlvjH"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/4CA9kK3WW46Jyq2dFf2a6v"
       },
@@ -599,18 +615,18 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
-        "name": "Tremendo Cumban",
-        "url": "https://open.spotify.com/album/23wAEElHdElCQP9UWIMSKF"
+        "name": "Mambos Favoritos de Perez Prado, Machito, Y Tito Puente",
+        "url": "https://open.spotify.com/album/05QnOkGorplyXGfUdhSgQY"
       },
       "artists": [
         {
-          "name": "Machito & His Afro Cubans",
-          "url": "https://open.spotify.com/artist/48uvJVs3amPDYGr4EZoRg9"
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
         }
       ],
-      "duration_ms": 171373,
-      "name": "Mambo Infierno",
-      "url": "https://open.spotify.com/track/5n2jPODsYeEhisZ7ELqYUM"
+      "duration_ms": 141093,
+      "name": "Patricia",
+      "url": "https://open.spotify.com/track/5CCPvgI84fsWAbO7uMZnG1"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -631,50 +647,18 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
-        "name": "Latin Cool Classics: Orlando Marin",
-        "url": "https://open.spotify.com/album/6fVhJKYknI5k9TZAWSDe8C"
+        "name": "Tremendo Cumban",
+        "url": "https://open.spotify.com/album/23wAEElHdElCQP9UWIMSKF"
       },
       "artists": [
         {
-          "name": "Orlando Marin",
-          "url": "https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID"
+          "name": "Machito & His Afro Cubans",
+          "url": "https://open.spotify.com/artist/48uvJVs3amPDYGr4EZoRg9"
         }
       ],
-      "duration_ms": 326826,
-      "name": "Aprende a Querer",
-      "url": "https://open.spotify.com/track/0Wi0SRDXOy8Yk32iaPlvjH"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
-        "name": "Mambos Favoritos de Perez Prado, Machito, Y Tito Puente",
-        "url": "https://open.spotify.com/album/05QnOkGorplyXGfUdhSgQY"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 141093,
-      "name": "Patricia",
-      "url": "https://open.spotify.com/track/5CCPvgI84fsWAbO7uMZnG1"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
-        "name": "El Virtuoso",
-        "url": "https://open.spotify.com/album/0dXASdxVKVkeHjrAnVgDdX"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 574933,
-      "name": "Azucar",
-      "url": "https://open.spotify.com/track/1t7RAMd4UTk7ZV6d2bsht8"
+      "duration_ms": 171373,
+      "name": "Mambo Infierno",
+      "url": "https://open.spotify.com/track/5n2jPODsYeEhisZ7ELqYUM"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -727,6 +711,22 @@
       "duration_ms": 164986,
       "name": "La Guarachera",
       "url": "https://open.spotify.com/track/3cSDem58zQegVmYCBEQgnL"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
+        "name": "El Virtuoso",
+        "url": "https://open.spotify.com/album/0dXASdxVKVkeHjrAnVgDdX"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 574933,
+      "name": "Azucar",
+      "url": "https://open.spotify.com/track/1t7RAMd4UTk7ZV6d2bsht8"
     },
     {
       "added_at": "2023-03-08 00:17:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Thala
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,378 likes - 89 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,430 likes - 89 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

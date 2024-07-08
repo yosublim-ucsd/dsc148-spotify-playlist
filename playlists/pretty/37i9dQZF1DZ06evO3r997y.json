@@ -1,12 +1,12 @@
 {
-  "description": "This is \u9b3c\u982d\u660e\u91cc. The essential tracks, all in one playlist.",
-  "num_followers": 2201,
-  "original_name": "This Is \u9b3c\u982d\u660e\u91cc",
+  "description": "This is Akari Kito. The essential tracks, all in one playlist.",
+  "num_followers": 2202,
+  "original_name": "This Is Akari Kito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zoc3gAAAAAAD2YsMSKoZar6fw3rpOjxo",
+  "snapshot_id": "ZoiJAAAAAABQY3ijGR4j3mtBQHYkyjDk",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 264760,
-      "name": "Fly-High-Five!",
-      "url": "https://open.spotify.com/track/0jMIYKjbGzbWBWBqU34nZc"
+      "duration_ms": 209693,
+      "name": "Swinging Heart",
+      "url": "https://open.spotify.com/track/0yAegrVbCDH2i3VVKzwpqu"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 238746,
-      "name": "Desire Again Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
-      "url": "https://open.spotify.com/track/3SV0SxIW8Hom0umB4s8N8X"
+      "duration_ms": 206253,
+      "name": "Swinging Heart Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
+      "url": "https://open.spotify.com/track/2RjE7zHY0etIifDYKVOGyL"
     },
     {
       "added_at": null,
@@ -452,57 +452,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 209693,
-      "name": "Swinging Heart",
-      "url": "https://open.spotify.com/track/0yAegrVbCDH2i3VVKzwpqu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Michikusa",
-        "url": "https://open.spotify.com/album/4lHjeSfvndzpJcpUQBPYRS"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 277986,
-      "name": "Haremachinote",
-      "url": "https://open.spotify.com/track/7Dqkjap4ckvMiDYoPnO0aU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u9b3c\u982d\u660e\u91cc 1st LIVE TOUR\u300cColorful Closet\u300dStream Selection",
-        "url": "https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 206253,
-      "name": "Swinging Heart Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
-      "url": "https://open.spotify.com/track/2RjE7zHY0etIifDYKVOGyL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 204986,
-      "name": "Oxidation",
-      "url": "https://open.spotify.com/track/7JL4OxDA8P6sehYvuQRLlZ"
+      "duration_ms": 264760,
+      "name": "Fly-High-Five!",
+      "url": "https://open.spotify.com/track/0jMIYKjbGzbWBWBqU34nZc"
     },
     {
       "added_at": null,
@@ -519,6 +471,38 @@
       "duration_ms": 295320,
       "name": "Tiny Light Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
       "url": "https://open.spotify.com/track/2EEE2AZhr7DvQ8GgFTH8Bi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u9b3c\u982d\u660e\u91cc 1st LIVE TOUR\u300cColorful Closet\u300dStream Selection",
+        "url": "https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Desire Again Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
+      "url": "https://open.spotify.com/track/3SV0SxIW8Hom0umB4s8N8X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 204986,
+      "name": "Oxidation",
+      "url": "https://open.spotify.com/track/7JL4OxDA8P6sehYvuQRLlZ"
     },
     {
       "added_at": null,
@@ -553,6 +537,6 @@
       "url": "https://open.spotify.com/track/1NmGeXILbZ0MWQPH3bJHr8"
     }
   ],
-  "unique_name": "This Is \u9b3c\u982d\u660e\u91cc",
+  "unique_name": "This Is Akari Kito",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y"
 }

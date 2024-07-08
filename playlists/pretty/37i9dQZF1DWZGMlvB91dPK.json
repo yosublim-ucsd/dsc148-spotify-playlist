@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2024.",
-  "num_followers": 2698,
+  "num_followers": 2699,
   "original_name": "BISE Festival 2024",
   "owner": {
     "name": "Spotify",
@@ -155,38 +155,6 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Kind Words (Demo Version)",
-        "url": "https://open.spotify.com/album/6HXHicGEUwfMh5oJZIAw2u"
-      },
-      "artists": [
-        {
-          "name": "Augusta",
-          "url": "https://open.spotify.com/artist/7yqaPPacsc3ANzPAfU7pTu"
-        }
-      ],
-      "duration_ms": 157453,
-      "name": "Kind Words - Demo Version",
-      "url": "https://open.spotify.com/track/3qatnoAJZkX7G1PUSqoWCH"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "Toutes les filles du monde",
-        "url": "https://open.spotify.com/album/4TammVPdGukFclzoOpaBPz"
-      },
-      "artists": [
-        {
-          "name": "Noor",
-          "url": "https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO"
-        }
-      ],
-      "duration_ms": 257092,
-      "name": "Toutes les filles du monde",
-      "url": "https://open.spotify.com/track/2Q8mLwujr7bBIv8Tffyf2e"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
         "name": "Mille vies",
         "url": "https://open.spotify.com/album/3M9iunelnMsof9NZtMDABN"
       },
@@ -199,22 +167,6 @@
       "duration_ms": 245693,
       "name": "Mille vies",
       "url": "https://open.spotify.com/track/1p83TQi0HLpbUibg9y148P"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "Lovesongs",
-        "url": "https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi"
-      },
-      "artists": [
-        {
-          "name": "Loverman",
-          "url": "https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky"
-        }
-      ],
-      "duration_ms": 286094,
-      "name": "Candyman",
-      "url": "https://open.spotify.com/track/28kt0Oq3Oow8SPCStnMn9a"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -251,18 +203,34 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Bienvenue Au Pays",
-        "url": "https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ"
+        "name": "Lovesongs",
+        "url": "https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi"
       },
       "artists": [
         {
-          "name": "Robert Robert",
-          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+          "name": "Loverman",
+          "url": "https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky"
         }
       ],
-      "duration_ms": 196746,
-      "name": "Alex",
-      "url": "https://open.spotify.com/track/3dArn7SqBbcAXsS4cExG7K"
+      "duration_ms": 286094,
+      "name": "Candyman",
+      "url": "https://open.spotify.com/track/28kt0Oq3Oow8SPCStnMn9a"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "Kind Words (Demo Version)",
+        "url": "https://open.spotify.com/album/6HXHicGEUwfMh5oJZIAw2u"
+      },
+      "artists": [
+        {
+          "name": "Augusta",
+          "url": "https://open.spotify.com/artist/7yqaPPacsc3ANzPAfU7pTu"
+        }
+      ],
+      "duration_ms": 157453,
+      "name": "Kind Words - Demo Version",
+      "url": "https://open.spotify.com/track/3qatnoAJZkX7G1PUSqoWCH"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -279,6 +247,38 @@
       "duration_ms": 247996,
       "name": "Aire de plastique",
       "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "Toutes les filles du monde",
+        "url": "https://open.spotify.com/album/4TammVPdGukFclzoOpaBPz"
+      },
+      "artists": [
+        {
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO"
+        }
+      ],
+      "duration_ms": 257092,
+      "name": "Toutes les filles du monde",
+      "url": "https://open.spotify.com/track/2Q8mLwujr7bBIv8Tffyf2e"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "Bienvenue Au Pays",
+        "url": "https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ"
+      },
+      "artists": [
+        {
+          "name": "Robert Robert",
+          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "Alex",
+      "url": "https://open.spotify.com/track/3dArn7SqBbcAXsS4cExG7K"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Do Things Right",
-        "url": "https://open.spotify.com/album/5QoRLEUibCebF1jefIwK2T"
+        "name": "Diorama",
+        "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
       },
       "artists": [
         {
-          "name": "DITTER",
-          "url": "https://open.spotify.com/artist/2XQrzLnabbe3OLJOctSvSQ"
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
         }
       ],
-      "duration_ms": 167614,
-      "name": "Do Things Right",
-      "url": "https://open.spotify.com/track/0R9wB9ssVRhJQzsOiIQ7hS"
+      "duration_ms": 218627,
+      "name": "Astronaute amateur",
+      "url": "https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
+        "name": "Do Things Right",
+        "url": "https://open.spotify.com/album/5QoRLEUibCebF1jefIwK2T"
+      },
+      "artists": [
+        {
+          "name": "DITTER",
+          "url": "https://open.spotify.com/artist/2XQrzLnabbe3OLJOctSvSQ"
+        }
+      ],
+      "duration_ms": 167614,
+      "name": "Do Things Right",
+      "url": "https://open.spotify.com/track/0R9wB9ssVRhJQzsOiIQ7hS"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
         "name": "L'INVERSE",
         "url": "https://open.spotify.com/album/4eIokVQzkny1mu8c5ZtNoJ"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 154172,
       "name": "LE LARGE...",
       "url": "https://open.spotify.com/track/3hsoSVaxphYBbdzTKAOoCt"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "Diorama",
-        "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
-      },
-      "artists": [
-        {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
-        }
-      ],
-      "duration_ms": 218627,
-      "name": "Astronaute amateur",
-      "url": "https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Follow No One",
-        "url": "https://open.spotify.com/album/5EWDjhLV1wSGDQw45Hx4jz"
-      },
-      "artists": [
-        {
-          "name": "DITTER",
-          "url": "https://open.spotify.com/artist/2XQrzLnabbe3OLJOctSvSQ"
-        }
-      ],
-      "duration_ms": 206637,
-      "name": "Follow No One",
-      "url": "https://open.spotify.com/track/61z91eJ0TGByK98iasB1hf"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
         "name": "Disquette #1 Roots",
         "url": "https://open.spotify.com/album/7bWg14UeWOpwiNNKucnra5"
       },
@@ -529,22 +513,6 @@
       "url": "https://open.spotify.com/track/7vI6yGTEqPtZ1qKdF9KVoq"
     },
     {
-      "added_at": "2024-01-15 17:31:32",
-      "album": {
-        "name": "Otak\u00e9",
-        "url": "https://open.spotify.com/album/4TvKEe8IhuQfjJ8OmDBY5X"
-      },
-      "artists": [
-        {
-          "name": "Makoto San",
-          "url": "https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr"
-        }
-      ],
-      "duration_ms": 393146,
-      "name": "Otak\u00e9",
-      "url": "https://open.spotify.com/track/3n6228HfZMeTX07O1XkZDc"
-    },
-    {
       "added_at": "2023-11-23 11:08:33",
       "album": {
         "name": "Nouveau Genre",
@@ -559,6 +527,54 @@
       "duration_ms": 267293,
       "name": "Noise",
       "url": "https://open.spotify.com/track/59NAmzWhHHAkjBEvDD3vL5"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "Follow No One",
+        "url": "https://open.spotify.com/album/5EWDjhLV1wSGDQw45Hx4jz"
+      },
+      "artists": [
+        {
+          "name": "DITTER",
+          "url": "https://open.spotify.com/artist/2XQrzLnabbe3OLJOctSvSQ"
+        }
+      ],
+      "duration_ms": 206637,
+      "name": "Follow No One",
+      "url": "https://open.spotify.com/track/61z91eJ0TGByK98iasB1hf"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "HYPNOSE",
+        "url": "https://open.spotify.com/album/2kUJV1HpZPsQDWcbpsnGYB"
+      },
+      "artists": [
+        {
+          "name": "VISCERAL",
+          "url": "https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om"
+        }
+      ],
+      "duration_ms": 177253,
+      "name": "HYPNOSE",
+      "url": "https://open.spotify.com/track/0kzApf7h9Z4fpkjYnhtCYC"
+    },
+    {
+      "added_at": "2024-01-15 17:31:32",
+      "album": {
+        "name": "Otak\u00e9",
+        "url": "https://open.spotify.com/album/4TvKEe8IhuQfjJ8OmDBY5X"
+      },
+      "artists": [
+        {
+          "name": "Makoto San",
+          "url": "https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr"
+        }
+      ],
+      "duration_ms": 393146,
+      "name": "Otak\u00e9",
+      "url": "https://open.spotify.com/track/3n6228HfZMeTX07O1XkZDc"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -607,22 +623,6 @@
       "duration_ms": 262000,
       "name": "Kini Dub",
       "url": "https://open.spotify.com/track/4dEndC43ptFlFpw5nUGvCG"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "HYPNOSE",
-        "url": "https://open.spotify.com/album/2kUJV1HpZPsQDWcbpsnGYB"
-      },
-      "artists": [
-        {
-          "name": "VISCERAL",
-          "url": "https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om"
-        }
-      ],
-      "duration_ms": 177253,
-      "name": "HYPNOSE",
-      "url": "https://open.spotify.com/track/0kzApf7h9Z4fpkjYnhtCYC"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -695,38 +695,6 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "and I can't breathe enough",
-        "url": "https://open.spotify.com/album/0iBUtzkE1HWBM0ESN3407j"
-      },
-      "artists": [
-        {
-          "name": "Cosmopaark",
-          "url": "https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L"
-        }
-      ],
-      "duration_ms": 214280,
-      "name": "Can't Wait",
-      "url": "https://open.spotify.com/track/2VMYVC78nVxCy2Xw3orm4P"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "Ago Gazo",
-        "url": "https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg"
-      },
-      "artists": [
-        {
-          "name": "Ago Gazo",
-          "url": "https://open.spotify.com/artist/7gFYElz1vhVRme3RmFWu7x"
-        }
-      ],
-      "duration_ms": 307984,
-      "name": "Togbui Ha",
-      "url": "https://open.spotify.com/track/23aIloj60zjAp3lYzlLHo6"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/21MIvAGmRCnx8dibBxzpVE"
       },
@@ -771,6 +739,38 @@
       "duration_ms": 144186,
       "name": "Photoshop",
       "url": "https://open.spotify.com/track/26m1xQ0kBoSmO9PgdDFeJO"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "Ago Gazo",
+        "url": "https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg"
+      },
+      "artists": [
+        {
+          "name": "Ago Gazo",
+          "url": "https://open.spotify.com/artist/7gFYElz1vhVRme3RmFWu7x"
+        }
+      ],
+      "duration_ms": 307984,
+      "name": "Togbui Ha",
+      "url": "https://open.spotify.com/track/23aIloj60zjAp3lYzlLHo6"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "and I can't breathe enough",
+        "url": "https://open.spotify.com/album/0iBUtzkE1HWBM0ESN3407j"
+      },
+      "artists": [
+        {
+          "name": "Cosmopaark",
+          "url": "https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L"
+        }
+      ],
+      "duration_ms": 214280,
+      "name": "Can't Wait",
+      "url": "https://open.spotify.com/track/2VMYVC78nVxCy2Xw3orm4P"
     },
     {
       "added_at": "2024-01-15 17:31:32",

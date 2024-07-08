@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,406 songs - 2 day 4 hr 57 min
+1,407 songs - 2 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Bees](https://open.spotify.com/track/0Ah2Q32BMsk2wQM9njGeUN) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [Bees](https://open.spotify.com/album/5xVjcaS9MY61xDKXVeTiUk) | 2:06 | 2022-05-27 | 2022-07-01 |
 | [beets per minute](https://open.spotify.com/track/1JKxBVtMRA4c5PRJXA5sVO) | [crayonine](https://open.spotify.com/artist/0FIy7978qGBeVddWRDemHo) | [beets per minute](https://open.spotify.com/album/66JCVytytkaEyK0zt149LR) | 2:03 | 2022-01-27 | 2023-09-05 |
 | [beija flor](https://open.spotify.com/track/40RvOH5G640YZe3ZtSUZyZ) | [mockfly](https://open.spotify.com/artist/0Ur2p5PWdMOHeidtUvsYb2) | [beija flor](https://open.spotify.com/album/4j5TEd9tIv4j5GoXt9tjof) | 1:54 | 2022-07-01 | 2022-12-10 |
+| [benice](https://open.spotify.com/track/0n5px9dEnPHgNMEJk8F2MH) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [benice](https://open.spotify.com/album/0orBbi62RzgLybgEdzxZm8) | 2:22 | 2024-07-05 |  |
 | [Better Call Paul](https://open.spotify.com/track/4GarVhdXjwIRo2B4NXU8Oa) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Better Call Paul](https://open.spotify.com/album/2ys5fOozBFCfzh60seizGv) | 1:51 | 2023-05-19 |  |
 | [better future](https://open.spotify.com/track/0YmXffBrd88akIrQXr9TaP) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Lo\-fi Riderz](https://open.spotify.com/artist/05ZPsprfra2K8JWW4E3ITc) | [better future](https://open.spotify.com/album/6yzDS7haJzzTE8B4rsnKL1) | 2:08 | 2022-09-16 | 2023-09-05 |
 | [Beyond the Oak Trees](https://open.spotify.com/track/7lKqJYhKWmuxtHHSiGg9un) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Beyond the Oak Trees](https://open.spotify.com/album/2MesGtIqZHcMkMo40ogNph) | 2:53 | 2022-01-27 | 2022-09-17 |
@@ -1019,7 +1020,7 @@
 | [roads](https://open.spotify.com/track/6BIZgdGyql6X7KvGkINgPt) | [MLTSMTHNG](https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [roads](https://open.spotify.com/album/3iZTkWpoqdcEVOWIxCcR98) | 2:02 | 2023-04-11 |  |
 | [Roasted Robusta](https://open.spotify.com/track/1dH6Qxd6ddoyT4D1KNaMS8) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Roasted Robusta \| Tasty Vanilla Latte](https://open.spotify.com/album/3tNWAJAk2REvhbvFmqw4op) | 2:14 | 2022-04-08 | 2022-10-15 |
 | [Rock](https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW) | [DisHand](https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy), [tillDawn](https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV) | [Rock](https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO) | 2:03 | 2023-04-20 | 2023-10-13 |
-| [Rolling](https://open.spotify.com/track/3dJ801yspWQmm7masHWCrR) | [Invisible Beach](https://open.spotify.com/artist/3xlDAzWOZoDGyuoSEfVFjt) | [Rolling](https://open.spotify.com/album/4eL4CeJu36E53g0atoLB9L) | 2:05 | 2023-08-03 |  |
+| [Rolling](https://open.spotify.com/track/3dJ801yspWQmm7masHWCrR) | [Invisible Beach](https://open.spotify.com/artist/3xlDAzWOZoDGyuoSEfVFjt) | [Rolling](https://open.spotify.com/album/4eL4CeJu36E53g0atoLB9L) | 2:05 | 2023-08-03 | 2024-07-08 |
 | [Roma](https://open.spotify.com/track/4BK7MUNHqxddMY5hJuzdzG) | [Vera Fernandez](https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw) | [Magazzino](https://open.spotify.com/album/6WqgcgaTxLZUdoT8BK4xxR) | 2:29 | 2022-01-27 | 2022-07-01 |
 | [Rooftop](https://open.spotify.com/track/2Fc4CqCia3MvJeWULkzW9o) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Notes & Notes](https://open.spotify.com/album/4FMg0ovfJvNeNNoYs8Rn5N) | 2:06 | 2022-01-27 | 2022-11-12 |
 | [Rooftop Inc.](https://open.spotify.com/track/30tocncDDG1mNs8HLE3uQO) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI), [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Rooftop Inc.](https://open.spotify.com/album/7MjnxUFqoE52xqCMEX7kUr) | 2:29 | 2022-09-30 | 2023-09-22 |

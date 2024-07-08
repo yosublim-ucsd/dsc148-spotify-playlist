@@ -2,7 +2,7 @@
 
 ### [This Is De Saloon](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZYwvYt)
 
-> This is De Saloon\. The essential tracks, all in one playlist.
+> This Is De Saloon\. Les titres incontournables, réunis dans une seule et même playlist.
 
 52 songs - 3 hr 42 min
 

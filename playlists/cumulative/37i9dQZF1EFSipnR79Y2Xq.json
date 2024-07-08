@@ -477,6 +477,28 @@
     },
     {
       "album": {
+        "name": "Juego De Feria",
+        "url": "https://open.spotify.com/album/4mFw8K0Ts3T6yQourMWESD"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        },
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157146,
+      "name": "Juego De Feria",
+      "url": "https://open.spotify.com/track/5tVNRjHFayBzyOPSpUniDF"
+    },
+    {
+      "album": {
         "name": "Malo Del Cuento",
         "url": "https://open.spotify.com/album/1ElHkMCS6BxSRtiCFpIrfD"
       },

@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,978 songs - 3 day 3 hr 22 min
+1,980 songs - 3 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,7 +435,7 @@
 | [Devolving](https://open.spotify.com/track/1o11MvTRPD8vW7BhAQmWLw) | [Muni](https://open.spotify.com/artist/2VcTkhXOXidpqh4MfiQA5p) | [Devolving](https://open.spotify.com/album/7DhS7EenGeLLAJPwfuEVMA) | 1:56 | 2022-05-13 | 2022-11-12 |
 | [devotion](https://open.spotify.com/track/2LgVhJxRPvs9sNxMbsZPX5) | [Summer Clarke](https://open.spotify.com/artist/5VJreBDjx8zamtY3YyZyMr) | [devotion](https://open.spotify.com/album/3yO0qSDkaa1SLKawgxWeNE) | 2:22 | 2024-03-22 |  |
 | [Diaphane](https://open.spotify.com/track/00oTqcKHoGsI2RpajOg0hh) | [Naute](https://open.spotify.com/artist/2LfwnXXH6HdeP825h4u7lt) | [Diaphane](https://open.spotify.com/album/7F92gWMkU59j6wlOLXUCs4) | 2:17 | 2023-01-13 | 2023-10-20 |
-| [dice](https://open.spotify.com/track/5s2QLYYGX8sNyxPfEaqOZ5) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [dice](https://open.spotify.com/album/2oRp58qXZya0hiR7f6wkTQ) | 2:30 | 2024-02-09 |  |
+| [dice](https://open.spotify.com/track/5s2QLYYGX8sNyxPfEaqOZ5) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [dice](https://open.spotify.com/album/2oRp58qXZya0hiR7f6wkTQ) | 2:30 | 2024-02-09 | 2024-07-08 |
 | [Dig!](https://open.spotify.com/track/05K5nIFNQD6BR44OMUgd3T) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Dig!](https://open.spotify.com/album/0tEPrGue8WNEnMTcGopVvd) | 2:01 | 2024-04-26 | 2024-05-26 |
 | [Dijon Lofi](https://open.spotify.com/track/0QBLLWPxhUficWtZlpGGgS) | [Printeme](https://open.spotify.com/artist/2YvnVXbia5SDheNBnFoVLE) | [Magnifique](https://open.spotify.com/album/0DpMbQvYK92kNNFkfZ8Bqo) | 1:37 | 2022-04-15 | 2023-08-18 |
 | [Dinner is Ready](https://open.spotify.com/track/0QIlgmnJBsd6zkH9u7MEcX) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Lodge Records](https://open.spotify.com/artist/1zH6nlehuJvatlTMmKok98) | [Dinner is Ready](https://open.spotify.com/album/3kPBeasLZztiyyCPZ9l9wO) | 2:27 | 2022-04-15 | 2022-07-08 |
@@ -785,6 +785,7 @@
 | [home styling](https://open.spotify.com/track/43Aw7i0PCijYdMeVCs3i5v) | [slån](https://open.spotify.com/artist/3FtHbjWZC4p0XzS0qbaleC) | [modern grooves](https://open.spotify.com/album/0fOAKYEVrzvIGkWEs1fMfl) | 1:25 | 2022-04-15 | 2022-06-10 |
 | [Homecooking](https://open.spotify.com/track/3rr4I5VFW8TJebCkbrQK3N) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [Homecooking](https://open.spotify.com/album/0SBmOpP4rB6nvKK82sYuXr) | 2:11 | 2023-07-13 | 2023-10-06 |
 | [Hometown](https://open.spotify.com/track/2z2mwCEkYqMVwc10HGwUBY) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Hometown](https://open.spotify.com/album/2YCtXEENFVa2u1RewQbP7P) | 2:06 | 2023-03-01 |  |
+| [Honestly](https://open.spotify.com/track/5CzVTEr2Ue7Ac7CFKLp75Y) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Honestly](https://open.spotify.com/album/7q0tXoUWaZ2CYQX8itV794) | 2:07 | 2024-07-05 |  |
 | [Honey and Spice](https://open.spotify.com/track/5ENIpwHxPVyKEp1JUGxZt8) | [Rafa Figueroa](https://open.spotify.com/artist/5c8MjSwcTCJNWBtpKMWywB) | [Honey and Spice](https://open.spotify.com/album/3TsuK7dDF9d0Ab7VwMuqsw) | 2:08 | 2023-11-17 |  |
 | [Honey Bee Delight](https://open.spotify.com/track/6ldtbpI7B9s07YzPRniCWN) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Honey Bee Delight](https://open.spotify.com/album/7qF91fWIjHZ4t7Xs7dRa8J) | 2:40 | 2023-01-06 | 2023-04-04 |
 | [Honey Vibes](https://open.spotify.com/track/5QJNtjQWSreNcBF7jvbGKV) | [Amess](https://open.spotify.com/artist/2lWv7a6ohSVtXArF7q4dWc) | [Honey Vibes](https://open.spotify.com/album/1f6Nw8zpqHihsQzVnxvhfQ) | 1:50 | 2022-09-09 | 2023-01-07 |
@@ -979,7 +980,7 @@
 | [Lofi Love Letters](https://open.spotify.com/track/789uQasgZdah7LSojyotDI) | [Trixie](https://open.spotify.com/artist/3BHWIx02zIYjPsVrwJ9QYL) | [Lofi Love Letters](https://open.spotify.com/album/2CAnay3Wx9e0o1yrqthFDj) | 2:03 | 2024-01-19 | 2024-04-20 |
 | [London](https://open.spotify.com/track/4IgI10xrOzTIiDg4ApvfwC) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [London](https://open.spotify.com/album/5vyoEpmkwXKO8lUSaTsz2O) | 2:35 | 2022-11-11 |  |
 | [London Calling](https://open.spotify.com/track/3Rma06ObNiWcTwDlClo1mB) | [Akasha](https://open.spotify.com/artist/5oFsjDzNu5UwbtKnGXKacN) | [London Calling](https://open.spotify.com/album/4gBDKJ2HdnUqybh3Haqs8m) | 1:34 | 2022-12-16 | 2023-09-16 |
-| [Lonely Astronaut](https://open.spotify.com/track/2kVhsKwPV0Cc4rd7DsLFZP) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [Cloudy Sleeps](https://open.spotify.com/album/4yi7uuzEv3syYYIHbku9Nd) | 2:31 | 2023-06-06 |  |
+| [Lonely Astronaut](https://open.spotify.com/track/2kVhsKwPV0Cc4rd7DsLFZP) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [Cloudy Sleeps](https://open.spotify.com/album/4yi7uuzEv3syYYIHbku9Nd) | 2:31 | 2023-06-06 | 2024-07-08 |
 | [Lonely Boy](https://open.spotify.com/track/7uUHvMv1aCOYWbt2YYCZEJ) | [Hektoor](https://open.spotify.com/artist/3a9L5KQZtwvdJp8rECooRC) | [Lonely Boy](https://open.spotify.com/album/29Tx5FY3iqxgSTK54JwTcS) | 2:36 | 2022-04-15 | 2022-09-02 |
 | [lonely paradise](https://open.spotify.com/track/4PayKAGYOAQY0IgD4Lj7Gd) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [lonely paradise](https://open.spotify.com/album/0TZzs1RY8tom6nAG4TLhNV) | 2:47 | 2024-02-02 |  |
 | [Lonely Ride](https://open.spotify.com/track/1Eye203Jrl7hqNh3Fp0W7B) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [Lonely Ride](https://open.spotify.com/album/53Jt4oMPoYd1o68Ptaicfl) | 2:15 | 2022-11-18 | 2023-02-07 |
@@ -1491,6 +1492,7 @@
 | [secrets i keep](https://open.spotify.com/track/66mov52eOGweiC5cec6FSO) | [O k O](https://open.spotify.com/artist/54FTacKE0BxtzKWB19zsem) | [secrets i keep](https://open.spotify.com/album/6LKZY7oL4ZFI5Ba6MN8Rpv) | 2:01 | 2022-04-15 | 2022-12-09 |
 | [See You Later](https://open.spotify.com/track/2QUcCOAETHB69J6XGijJvO) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [See You Later](https://open.spotify.com/album/5WJhgH46XveSLigFaVETvl) | 2:27 | 2022-07-01 | 2022-11-26 |
 | [seedlings](https://open.spotify.com/track/4MKfOWEjeRQIkRsx9zpYih) | [vibe academy](https://open.spotify.com/artist/1QIlKfgGmOpQRigjy2CyPN) | [frozen grapes](https://open.spotify.com/album/1lGfubsWe9ThyEZUC3wDVz) | 2:28 | 2022-04-15 | 2022-05-27 |
+| [seek somebody](https://open.spotify.com/track/5qirk6OgA1PzJhBxAOnTyi) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [seek somebody](https://open.spotify.com/album/4cj8n9qE2S3ccWglfiNzMT) | 2:44 | 2024-07-05 |  |
 | [Seek Tone](https://open.spotify.com/track/7wKMJ3KgovsMKA8kvrjQxg) | [Jon Timber](https://open.spotify.com/artist/5MoN03izsyUB2uUbmqKdbU) | [Snap Shot](https://open.spotify.com/album/63k1va0BWaPvKTp0kCTjwc) | 1:41 | 2022-04-15 | 2022-06-25 |
 | [Self Expression](https://open.spotify.com/track/5569JOKhunZw0jEjawEfx3) | [Looper Boy](https://open.spotify.com/artist/1Bs8y3WbVckMAcIBwN1FXV) | [Stories from the Ramen House](https://open.spotify.com/album/3RgRIP700F6MfcVug49OuR) | 2:52 | 2022-04-15 | 2022-07-22 |
 | [Semester](https://open.spotify.com/track/0fNNBqC28Ap2KGyjZ3fVkz) | [Phive O](https://open.spotify.com/artist/3BazVVHaz03CY1JFfedL9L) | [Semester](https://open.spotify.com/album/4WvZPXhQMUz94Cf6AvTgZ9) | 2:05 | 2022-04-15 | 2022-05-27 |

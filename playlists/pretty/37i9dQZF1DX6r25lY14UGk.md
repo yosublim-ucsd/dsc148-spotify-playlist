@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: PJ Panda
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,957 likes - 262 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,043 likes - 262 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

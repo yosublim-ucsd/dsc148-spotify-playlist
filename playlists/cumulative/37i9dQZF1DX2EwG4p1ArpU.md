@@ -4,7 +4,7 @@
 
 > ネット発の新たな才能として注目を集めるシンガーソングライター、Eveの楽曲を1つのプレイリストに。Essential tracks from Japanese singer\-songwriter, Eve.
 
-126 songs - 9 hr 13 min
+127 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [アヴァン](https://open.spotify.com/track/5E9Et7pF14k8XGTKwY99CC) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻人](https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr) | 3:24 | 2024-03-06 |  |
 | [インスタントヘヴン](https://open.spotify.com/track/1R8Md1Ol88i2Ilm7qpMXZk) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn), [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [フライングベスト〜知らないの？巷で噂のダメ天使〜](https://open.spotify.com/album/6cuRTbjbuFqCYyFnRiFwJC) | 3:50 | 2022-11-30 |  |
 | [インソムニア](https://open.spotify.com/track/2bjMRVAaaIwZVN2MtJCvok) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [インソムニア](https://open.spotify.com/album/7qyxhd47y207CE2sayiHvO) | 3:24 | 2024-03-06 |  |
+| [スイートメモリー](https://open.spotify.com/track/1ogO3SlbAhuba46ecZ05v8) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [スイートメモリー](https://open.spotify.com/album/5Zxr5RKkTWrkrMmSULCNQD) | 3:19 | 2024-07-07 |  |
 | [チョコレートタウン](https://open.spotify.com/track/3tnqoIj776sfwdfKkXy9fk) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [蒼](https://open.spotify.com/album/6q09aymWKhbWNLEkTzPGCj) | 3:21 | 2024-03-06 |  |
 | [デーモンダンストーキョー](https://open.spotify.com/track/6AqUfxCSfhoQdmykOZZVTM) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [OFFICIAL NUMBER](https://open.spotify.com/album/0hxX4x63v3BWbzCNgDjsL2) | 4:00 | 2024-03-06 |  |
 | [トーキョーゲットー](https://open.spotify.com/track/1uBkB3NhlPlJAQqyM7m2Fe) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [おとぎ](https://open.spotify.com/album/4qxG3ARVfDBRKMFoLWs1Ct) | 4:00 | 2024-03-06 |  |

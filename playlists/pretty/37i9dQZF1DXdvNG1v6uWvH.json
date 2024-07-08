@@ -1,6 +1,6 @@
 {
   "description": "N\u00fd t\u00f3nlist!",
-  "num_followers": 8992,
+  "num_followers": 8991,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-07-05 00:00:00",
       "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 182685,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
-    },
-    {
-      "added_at": "2024-07-05 00:00:00",
-      "album": {
         "name": "Quezacotl",
         "url": "https://open.spotify.com/album/1wU8NaPgbgLvsK8tUA2t2z"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 435000,
       "name": "Quezacotl",
       "url": "https://open.spotify.com/track/24jPquymYcAxmOUXwjJwLk"
+    },
+    {
+      "added_at": "2024-07-05 00:00:00",
+      "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 182685,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
     },
     {
       "added_at": "2024-07-05 00:00:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-07-05 00:00:00",
       "album": {
+        "name": "MANSA MUSA",
+        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "MANSA MUSA",
+      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
+    },
+    {
+      "added_at": "2024-07-05 00:00:00",
+      "album": {
         "name": "Stuff I Don't Need",
         "url": "https://open.spotify.com/album/2zpoawbfmqKewTBC9KYRYe"
       },
@@ -491,18 +507,26 @@
     {
       "added_at": "2024-07-05 00:00:00",
       "album": {
-        "name": "MANSA MUSA",
-        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
+        "name": "Falling Into You",
+        "url": "https://open.spotify.com/album/5sLop69oN5zrq9KzVgEunR"
       },
       "artists": [
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Kezano",
+          "url": "https://open.spotify.com/artist/0Le6TvnuhTKjcrNYENXDX4"
         }
       ],
-      "duration_ms": 204000,
-      "name": "MANSA MUSA",
-      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
+      "duration_ms": 189798,
+      "name": "Falling Into You",
+      "url": "https://open.spotify.com/track/3ZHKnaw6nJCXGYVY1h63lK"
     },
     {
       "added_at": "2024-07-05 00:00:00",
@@ -539,26 +563,26 @@
     {
       "added_at": "2024-07-05 00:00:00",
       "album": {
-        "name": "Falling Into You",
-        "url": "https://open.spotify.com/album/5sLop69oN5zrq9KzVgEunR"
+        "name": "While We're Young",
+        "url": "https://open.spotify.com/album/5wmGAEZqqoWe8AbXDW8uZZ"
       },
       "artists": [
         {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
         },
         {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+          "name": "Eirik N\u00e6ss",
+          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
         },
         {
-          "name": "Kezano",
-          "url": "https://open.spotify.com/artist/0Le6TvnuhTKjcrNYENXDX4"
+          "name": "Cozy Sky",
+          "url": "https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u"
         }
       ],
-      "duration_ms": 189798,
-      "name": "Falling Into You",
-      "url": "https://open.spotify.com/track/3ZHKnaw6nJCXGYVY1h63lK"
+      "duration_ms": 146500,
+      "name": "While We're Young",
+      "url": "https://open.spotify.com/track/2muEoAwQInHRY4wakaqsuq"
     },
     {
       "added_at": "2024-07-05 00:00:00",
@@ -639,46 +663,6 @@
     {
       "added_at": "2024-07-05 00:00:00",
       "album": {
-        "name": "While We're Young",
-        "url": "https://open.spotify.com/album/5wmGAEZqqoWe8AbXDW8uZZ"
-      },
-      "artists": [
-        {
-          "name": "Rolipso",
-          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
-        },
-        {
-          "name": "Eirik N\u00e6ss",
-          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
-        },
-        {
-          "name": "Cozy Sky",
-          "url": "https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "While We're Young",
-      "url": "https://open.spotify.com/track/2muEoAwQInHRY4wakaqsuq"
-    },
-    {
-      "added_at": "2024-07-05 00:00:00",
-      "album": {
-        "name": "Early 90s",
-        "url": "https://open.spotify.com/album/5j6a6sUCNxdhAqR5mcqHz6"
-      },
-      "artists": [
-        {
-          "name": "Bay Ledges",
-          "url": "https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc"
-        }
-      ],
-      "duration_ms": 147039,
-      "name": "Early 90s",
-      "url": "https://open.spotify.com/track/0ik4qARuHPSOThvooormQw"
-    },
-    {
-      "added_at": "2024-07-05 00:00:00",
-      "album": {
         "name": "Sun Goes Down",
         "url": "https://open.spotify.com/album/7cXUKinubrfNYCswo6WMVF"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 130718,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/4HNba4cKT8U3dPtszmMSG7"
+    },
+    {
+      "added_at": "2024-07-05 00:00:00",
+      "album": {
+        "name": "Early 90s",
+        "url": "https://open.spotify.com/album/5j6a6sUCNxdhAqR5mcqHz6"
+      },
+      "artists": [
+        {
+          "name": "Bay Ledges",
+          "url": "https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc"
+        }
+      ],
+      "duration_ms": 147039,
+      "name": "Early 90s",
+      "url": "https://open.spotify.com/track/0ik4qARuHPSOThvooormQw"
     },
     {
       "added_at": "2024-07-05 00:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-07-05 00:00:00",
       "album": {
-        "name": "Things to Come",
-        "url": "https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 163944,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/23DvufvHJAr0OUPfrB7g2J"
-    },
-    {
-      "added_at": "2024-07-05 00:00:00",
-      "album": {
         "name": "Love Me Not",
         "url": "https://open.spotify.com/album/4bBE5GKw2ScKlPN3yZPp5c"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 139200,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/3kPetyq0JMTHLUn1vNBw1C"
+    },
+    {
+      "added_at": "2024-07-05 00:00:00",
+      "album": {
+        "name": "Things to Come",
+        "url": "https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 163944,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/23DvufvHJAr0OUPfrB7g2J"
     },
     {
       "added_at": "2024-07-05 00:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-07-05 00:00:00",
       "album": {
-        "name": "Newfound Lover",
-        "url": "https://open.spotify.com/album/6y0cZn0AfgCkuRTm1P6eeA"
-      },
-      "artists": [
-        {
-          "name": "Sam Florian",
-          "url": "https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y"
-        }
-      ],
-      "duration_ms": 144630,
-      "name": "Newfound Lover",
-      "url": "https://open.spotify.com/track/0zS16Fy2eWqkGwTrtHm1vY"
-    },
-    {
-      "added_at": "2024-07-05 00:00:00",
-      "album": {
         "name": "Come As You",
         "url": "https://open.spotify.com/album/4eEVQPtN38OMzBFMVRhYKU"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 263019,
       "name": "Come As You",
       "url": "https://open.spotify.com/track/4llmA8QnpYEj3TXoVNRZfT"
+    },
+    {
+      "added_at": "2024-07-05 00:00:00",
+      "album": {
+        "name": "Newfound Lover",
+        "url": "https://open.spotify.com/album/6y0cZn0AfgCkuRTm1P6eeA"
+      },
+      "artists": [
+        {
+          "name": "Sam Florian",
+          "url": "https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y"
+        }
+      ],
+      "duration_ms": 144630,
+      "name": "Newfound Lover",
+      "url": "https://open.spotify.com/track/0zS16Fy2eWqkGwTrtHm1vY"
     },
     {
       "added_at": "2024-07-05 00:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-07-05 00:00:00",
       "album": {
-        "name": "Your Eyes Are Red",
-        "url": "https://open.spotify.com/album/0GNjeJjQKqYfCpFyt84xWl"
-      },
-      "artists": [
-        {
-          "name": "Flikka",
-          "url": "https://open.spotify.com/artist/58NhC3elOj4PRVbqDviKJc"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "Your Eyes Are Red",
-      "url": "https://open.spotify.com/track/4m0Xj3lr3flf4sgyKDsECi"
-    },
-    {
-      "added_at": "2024-07-05 00:00:00",
-      "album": {
         "name": "Never as Easy",
         "url": "https://open.spotify.com/album/5Y22w7o4RHgUC3lvKlSN2l"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 242360,
       "name": "Never as Easy",
       "url": "https://open.spotify.com/track/0yXALOXWTZYbAbgtf9DHEH"
+    },
+    {
+      "added_at": "2024-07-05 00:00:00",
+      "album": {
+        "name": "Your Eyes Are Red",
+        "url": "https://open.spotify.com/album/0GNjeJjQKqYfCpFyt84xWl"
+      },
+      "artists": [
+        {
+          "name": "Flikka",
+          "url": "https://open.spotify.com/artist/58NhC3elOj4PRVbqDviKJc"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "Your Eyes Are Red",
+      "url": "https://open.spotify.com/track/4m0Xj3lr3flf4sgyKDsECi"
     },
     {
       "added_at": "2024-07-05 00:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-07-05 00:00:00",
       "album": {
+        "name": "Quaker Gun",
+        "url": "https://open.spotify.com/album/0DOJwMWgV5gQEuLfARRHoV"
+      },
+      "artists": [
+        {
+          "name": "Tobias Arbo",
+          "url": "https://open.spotify.com/artist/11BozuxBoGgG4NtpvwJP15"
+        }
+      ],
+      "duration_ms": 164053,
+      "name": "Quaker Gun",
+      "url": "https://open.spotify.com/track/2pUQRD7ZzhIwPqahMXlKbp"
+    },
+    {
+      "added_at": "2024-07-05 00:00:00",
+      "album": {
         "name": "SKART",
         "url": "https://open.spotify.com/album/5RJWbLDGkq5iWM7XO1uZYg"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 152640,
       "name": "SKART",
       "url": "https://open.spotify.com/track/6cXX7O2rILQQtg32TFFpX7"
-    },
-    {
-      "added_at": "2024-07-05 00:00:00",
-      "album": {
-        "name": "Quaker Gun",
-        "url": "https://open.spotify.com/album/0DOJwMWgV5gQEuLfARRHoV"
-      },
-      "artists": [
-        {
-          "name": "Tobias Arbo",
-          "url": "https://open.spotify.com/artist/11BozuxBoGgG4NtpvwJP15"
-        }
-      ],
-      "duration_ms": 164053,
-      "name": "Quaker Gun",
-      "url": "https://open.spotify.com/track/2pUQRD7ZzhIwPqahMXlKbp"
     },
     {
       "added_at": "2024-07-05 00:00:00",

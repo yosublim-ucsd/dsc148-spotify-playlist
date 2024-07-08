@@ -86,7 +86,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 126232,
       "name": "Ab in den Urlaub",
       "url": "https://open.spotify.com/track/7vQrNHZjGHQqrsXpCSXh89"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 130180,
       "name": "Dickie, der dicke Delfin",
       "url": "https://open.spotify.com/track/1bnwtnDox65Be81ol7TX1x"
@@ -4817,6 +4817,24 @@
     },
     {
       "album": {
+        "name": "Meine Lieblingskinderlieder",
+        "url": "https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147375,
+      "name": "LiederTiger Lied",
+      "url": "https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w"
+    },
+    {
+      "album": {
         "name": "Fiesta Macarena",
         "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
       },
@@ -7476,7 +7494,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 219760,
       "name": "Wir wollen Sonne (Verde e amarelo)",
       "url": "https://open.spotify.com/track/47ALOYPkzNdCqqzcS58Wsu"

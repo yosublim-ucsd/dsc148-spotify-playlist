@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 460082,
+  "num_followers": 460119,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -191,26 +191,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Hello mundo (Ao vivo)",
-        "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 157494,
-      "name": "Invocada (Participa\u00e7\u00e3o especial de L\u00e9o Santana) - Ao vivo",
-      "url": "https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 156502,
       "name": "\u00c1gua de Beber",
       "url": "https://open.spotify.com/track/1IkE3IsuP4HNU073wsE6T5"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Hello mundo (Ao vivo)",
+        "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 157494,
+      "name": "Invocada (Participa\u00e7\u00e3o especial de L\u00e9o Santana) - Ao vivo",
+      "url": "https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -291,22 +291,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Luar",
-        "url": "https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 266173,
-      "name": "Palco",
-      "url": "https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Que Beleza",
         "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
       },
@@ -323,6 +307,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Luar",
+        "url": "https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 266173,
+      "name": "Palco",
+      "url": "https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Duas Cidades",
         "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
       },
@@ -335,6 +335,26 @@
       "duration_ms": 246280,
       "name": "Lucro (Descomprimindo)",
       "url": "https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "The Essential",
+        "url": "https://open.spotify.com/album/3us4cLbfx4qKTomS5Z9ggz"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Adoniran Barbosa",
+          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "Tiro Ao \u00c1lvaro",
+      "url": "https://open.spotify.com/track/0m3hiKjI2QGSKxvG732Ekq"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -359,26 +379,6 @@
       "duration_ms": 306853,
       "name": "Frevo Mulher - Ao Vivo",
       "url": "https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "The Essential",
-        "url": "https://open.spotify.com/album/3us4cLbfx4qKTomS5Z9ggz"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        },
-        {
-          "name": "Adoniran Barbosa",
-          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
-        }
-      ],
-      "duration_ms": 162360,
-      "name": "Tiro Ao \u00c1lvaro",
-      "url": "https://open.spotify.com/track/0m3hiKjI2QGSKxvG732Ekq"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -415,38 +415,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Di Melo",
-        "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
-      },
-      "artists": [
-        {
-          "name": "Di Melo",
-          "url": "https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe"
-        }
-      ],
-      "duration_ms": 167533,
-      "name": "Kilario",
-      "url": "https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "20 Grandes Sucessos De Alceu Valen\u00e7a",
-        "url": "https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Tropicana (Morena Tropicana)",
-      "url": "https://open.spotify.com/track/54BLy0zSiBUOINjOwMC3M2"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Bebadosamba",
         "url": "https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf"
       },
@@ -459,6 +427,22 @@
       "duration_ms": 205200,
       "name": "Timoneiro",
       "url": "https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Di Melo",
+        "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
+      },
+      "artists": [
+        {
+          "name": "Di Melo",
+          "url": "https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe"
+        }
+      ],
+      "duration_ms": 167533,
+      "name": "Kilario",
+      "url": "https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -495,6 +479,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Divino Maravilhoso - Gal Costa Interpreta Caetano Veloso",
+        "url": "https://open.spotify.com/album/0g95IMqM1BNSjYWwHEW0FZ"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 230493,
+      "name": "Voc\u00ea N\u00e3o Entende Nada",
+      "url": "https://open.spotify.com/track/2vlaOc3YYt7WLYIYxoJgYB"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "O Futuro N\u00e3o Demora",
         "url": "https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ"
       },
@@ -511,18 +511,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Divino Maravilhoso - Gal Costa Interpreta Caetano Veloso",
-        "url": "https://open.spotify.com/album/0g95IMqM1BNSjYWwHEW0FZ"
+        "name": "20 Grandes Sucessos De Alceu Valen\u00e7a",
+        "url": "https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
         }
       ],
-      "duration_ms": 230493,
-      "name": "Voc\u00ea N\u00e3o Entende Nada",
-      "url": "https://open.spotify.com/track/2vlaOc3YYt7WLYIYxoJgYB"
+      "duration_ms": 231000,
+      "name": "Tropicana (Morena Tropicana)",
+      "url": "https://open.spotify.com/track/54BLy0zSiBUOINjOwMC3M2"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -611,6 +611,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Samba de Raiz - Ao Vivo",
+        "url": "https://open.spotify.com/album/6T58aKZn3iMSizSYaF2pTc"
+      },
+      "artists": [
+        {
+          "name": "Samba De Raiz",
+          "url": "https://open.spotify.com/artist/0EtwDFzbxPxghUdhwfo9R4"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Vou Festejar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3v6nNd7zI8EPlHflsy2UtC"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Conto de Areia",
         "url": "https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 267266,
       "name": "Olhos Coloridos",
       "url": "https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Samba de Raiz - Ao Vivo",
-        "url": "https://open.spotify.com/album/6T58aKZn3iMSizSYaF2pTc"
-      },
-      "artists": [
-        {
-          "name": "Samba De Raiz",
-          "url": "https://open.spotify.com/artist/0EtwDFzbxPxghUdhwfo9R4"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Vou Festejar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3v6nNd7zI8EPlHflsy2UtC"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -691,6 +691,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 189040,
+      "name": "Swing de Campo Grande",
+      "url": "https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Chega",
         "url": "https://open.spotify.com/album/6TfxuhBfZuvtrP5Zfx3w8m"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 185544,
       "name": "Chega",
       "url": "https://open.spotify.com/track/7jitFEr94DKj5laJuQzaK8"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 189040,
-      "name": "Swing de Campo Grande",
-      "url": "https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -779,6 +779,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Ao Vivo No Parque Madureira (Deluxe)",
+        "url": "https://open.spotify.com/album/3thGMOkqtJew544FUk6S7O"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "O Show Tem Que Continuar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4IhgFq4UseWi8RNH7OCZmv"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Falso Brilhante",
         "url": "https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 97200,
       "name": "O Sol Nascer\u00e1 (A Sorrir)",
       "url": "https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Ao Vivo No Parque Madureira (Deluxe)",
-        "url": "https://open.spotify.com/album/3thGMOkqtJew544FUk6S7O"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "O Show Tem Que Continuar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4IhgFq4UseWi8RNH7OCZmv"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Bicho De 7 Cabe\u00e7as",
-        "url": "https://open.spotify.com/album/3peuD9hEjWl5kGv0cqBhcG"
-      },
-      "artists": [
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
-        }
-      ],
-      "duration_ms": 212160,
-      "name": "Taxi Lunar",
-      "url": "https://open.spotify.com/track/1WT480kAYr5E5FpwtAtm6a"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Juramento do Dedinho",
         "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 164808,
       "name": "Juramento do Dedinho",
       "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Bicho De 7 Cabe\u00e7as",
+        "url": "https://open.spotify.com/album/3peuD9hEjWl5kGv0cqBhcG"
+      },
+      "artists": [
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        }
+      ],
+      "duration_ms": 212160,
+      "name": "Taxi Lunar",
+      "url": "https://open.spotify.com/track/1WT480kAYr5E5FpwtAtm6a"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Nos Botequins Da Vida",
-        "url": "https://open.spotify.com/album/5jrnGYZ7bHuFqOG2GusH50"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 190106,
-      "name": "Olho por Olho",
-      "url": "https://open.spotify.com/track/6P71LmKrWTwnGBe4BYK5IG"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Marina Rock Lima",
         "url": "https://open.spotify.com/album/4qpHcaQHNLmPS2sM93TekF"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 248480,
       "name": "\u00c0 Francesa",
       "url": "https://open.spotify.com/track/3dRU9xurI1QoVDs9FUHenD"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Nos Botequins Da Vida",
+        "url": "https://open.spotify.com/album/5jrnGYZ7bHuFqOG2GusH50"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 190106,
+      "name": "Olho por Olho",
+      "url": "https://open.spotify.com/track/6P71LmKrWTwnGBe4BYK5IG"
     },
     {
       "added_at": "2021-11-26 03:18:52",

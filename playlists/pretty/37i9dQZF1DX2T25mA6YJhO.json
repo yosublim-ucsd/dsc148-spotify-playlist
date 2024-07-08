@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Sexy Zebras.",
-  "num_followers": 19062,
+  "num_followers": 19079,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
@@ -183,18 +183,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
+        "name": "No te has enterado",
+        "url": "https://open.spotify.com/album/3BJipr3byeHNGPV6TWdrK9"
       },
       "artists": [
         {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+          "name": "Aiko el grupo",
+          "url": "https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1"
         }
       ],
-      "duration_ms": 193423,
-      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
+      "duration_ms": 190623,
+      "name": "No te has enterado",
+      "url": "https://open.spotify.com/track/6jg5hvORuoaKpxTsDBDXdg"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -247,18 +247,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "No te has enterado",
-        "url": "https://open.spotify.com/album/3BJipr3byeHNGPV6TWdrK9"
+        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
       },
       "artists": [
         {
-          "name": "Aiko el grupo",
-          "url": "https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1"
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
         }
       ],
-      "duration_ms": 190623,
-      "name": "No te has enterado",
-      "url": "https://open.spotify.com/track/6jg5hvORuoaKpxTsDBDXdg"
+      "duration_ms": 193423,
+      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Cierra la puerta",
+        "url": "https://open.spotify.com/album/5DA4ALes4Z3cEO7ekZeWMh"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 157416,
+      "name": "Cierra la puerta",
+      "url": "https://open.spotify.com/track/4QYMXL9ytzRrmvHs2MHbuc"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Vuelta a casa",
         "url": "https://open.spotify.com/album/4LT0Mq5MYcTyuo7Sivh0kH"
       },
@@ -743,18 +759,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Cierra la puerta",
-        "url": "https://open.spotify.com/album/5DA4ALes4Z3cEO7ekZeWMh"
+        "name": "UN PALACIO CON MIS HUESOS",
+        "url": "https://open.spotify.com/album/4pThb4Z0Jk5DsgiSqkM6MK"
       },
       "artists": [
         {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+          "name": "Los Punsetes",
+          "url": "https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF"
         }
       ],
-      "duration_ms": 157416,
-      "name": "Cierra la puerta",
-      "url": "https://open.spotify.com/track/4QYMXL9ytzRrmvHs2MHbuc"
+      "duration_ms": 201346,
+      "name": "UN PALACIO CON MIS HUESOS",
+      "url": "https://open.spotify.com/track/2Khm1TiPetapBlVoy5e5hS"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -779,22 +795,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "UN PALACIO CON MIS HUESOS",
-        "url": "https://open.spotify.com/album/4pThb4Z0Jk5DsgiSqkM6MK"
-      },
-      "artists": [
-        {
-          "name": "Los Punsetes",
-          "url": "https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "UN PALACIO CON MIS HUESOS",
-      "url": "https://open.spotify.com/track/2Khm1TiPetapBlVoy5e5hS"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Travieso",
         "url": "https://open.spotify.com/album/1PoKsze0nTJ0Ntu9cHRfGp"
       },
@@ -807,26 +807,6 @@
       "duration_ms": 147579,
       "name": "Travieso",
       "url": "https://open.spotify.com/track/2q6kjZSeB3P9mmV3W4lOlY"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "No te voy a besar",
-        "url": "https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp"
-      },
-      "artists": [
-        {
-          "name": "Venga, Bea",
-          "url": "https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM"
-        },
-        {
-          "name": "Jordana B.",
-          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
-        }
-      ],
-      "duration_ms": 147789,
-      "name": "No te voy a besar",
-      "url": "https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -859,6 +839,26 @@
       "duration_ms": 234067,
       "name": "Que arda Madriz",
       "url": "https://open.spotify.com/track/6kiSbGU14JU9wgcWqQhQAn"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "No te voy a besar",
+        "url": "https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp"
+      },
+      "artists": [
+        {
+          "name": "Venga, Bea",
+          "url": "https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM"
+        },
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+        }
+      ],
+      "duration_ms": 147789,
+      "name": "No te voy a besar",
+      "url": "https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Tu nombre es una puerta por cerrar",
+        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "duration_ms": 244164,
+      "name": "Tu nombre es una puerta por cerrar",
+      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Echo de menos a los Arctic Monkeys",
         "url": "https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 183265,
       "name": "No me devuelvas la palabra",
       "url": "https://open.spotify.com/track/7eMijKUlibThL46o6e2fPf"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Tu nombre es una puerta por cerrar",
-        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
-      },
-      "artists": [
-        {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
-        }
-      ],
-      "duration_ms": 244164,
-      "name": "Tu nombre es una puerta por cerrar",
-      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "La Excusa Perfecta",
-        "url": "https://open.spotify.com/album/51pAvbdBsnJGDBxrNN3Ax5"
-      },
-      "artists": [
-        {
-          "name": "Alavedra",
-          "url": "https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "La Excusa Perfecta",
-      "url": "https://open.spotify.com/track/7vyoSMhwAepA7tGwruszQA"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Pitbull",
         "url": "https://open.spotify.com/album/5zYMSBCpGIxNYNNHij1YPw"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 175859,
       "name": "Pitbull",
       "url": "https://open.spotify.com/track/23qWMsNit3DECls7rX1ueT"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "No Puedo M\u00e1s",
+        "url": "https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj"
+      },
+      "artists": [
+        {
+          "name": "Mujeres",
+          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
+        }
+      ],
+      "duration_ms": 184984,
+      "name": "No Puedo M\u00e1s",
+      "url": "https://open.spotify.com/track/7fdUvlp2k3PFxu9FwxxH9q"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "No Puedo M\u00e1s",
-        "url": "https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj"
+        "name": "La Excusa Perfecta",
+        "url": "https://open.spotify.com/album/51pAvbdBsnJGDBxrNN3Ax5"
       },
       "artists": [
         {
-          "name": "Mujeres",
-          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
+          "name": "Alavedra",
+          "url": "https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt"
         }
       ],
-      "duration_ms": 184984,
-      "name": "No Puedo M\u00e1s",
-      "url": "https://open.spotify.com/track/7fdUvlp2k3PFxu9FwxxH9q"
+      "duration_ms": 180705,
+      "name": "La Excusa Perfecta",
+      "url": "https://open.spotify.com/track/7vyoSMhwAepA7tGwruszQA"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Darveider",
+        "url": "https://open.spotify.com/album/3DujoKOCP2JsIRslD8QnfT"
+      },
+      "artists": [
+        {
+          "name": "Venturi",
+          "url": "https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE"
+        }
+      ],
+      "duration_ms": 156375,
+      "name": "Darveider",
+      "url": "https://open.spotify.com/track/2KaOOQ2130RPjcnz8A1DuR"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Sofisticado",
         "url": "https://open.spotify.com/album/38hAaDQw9itDaxurry5vrw"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 222040,
       "name": "Amanecer Gal\u00e1ctico",
       "url": "https://open.spotify.com/track/2K2nuQlPhZOwRkkoz6Vbqc"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Darveider",
-        "url": "https://open.spotify.com/album/3DujoKOCP2JsIRslD8QnfT"
-      },
-      "artists": [
-        {
-          "name": "Venturi",
-          "url": "https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE"
-        }
-      ],
-      "duration_ms": 156375,
-      "name": "Darveider",
-      "url": "https://open.spotify.com/track/2KaOOQ2130RPjcnz8A1DuR"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Estatua de oro",
-        "url": "https://open.spotify.com/album/3lN6tewyEQINzDQ7eGgr7t"
-      },
-      "artists": [
-        {
-          "name": "Bum Motion Club",
-          "url": "https://open.spotify.com/artist/1CXtxQpopANSqixiP1iXfe"
-        }
-      ],
-      "duration_ms": 155153,
-      "name": "Estatua de oro",
-      "url": "https://open.spotify.com/track/0kxQO0tb7DvVbgA2deL6t7"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Todo Ir\u00e1 Bien",
         "url": "https://open.spotify.com/album/63trf8Z60h09bjYiYOMesB"
       },
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "O Todos o Ninguno",
-        "url": "https://open.spotify.com/album/5Lequ6yHwYYoT6SNS2wTuB"
+        "name": "Estatua de oro",
+        "url": "https://open.spotify.com/album/3lN6tewyEQINzDQ7eGgr7t"
       },
       "artists": [
         {
-          "name": "Sexy Zebras",
-          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
+          "name": "Bum Motion Club",
+          "url": "https://open.spotify.com/artist/1CXtxQpopANSqixiP1iXfe"
         }
       ],
-      "duration_ms": 229313,
-      "name": "O Todos o Ninguno",
-      "url": "https://open.spotify.com/track/1yXB3vkiBKhOMYIIbStiP8"
+      "duration_ms": 155153,
+      "name": "Estatua de oro",
+      "url": "https://open.spotify.com/track/0kxQO0tb7DvVbgA2deL6t7"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1431,6 +1415,22 @@
       "duration_ms": 213308,
       "name": "p0pper",
       "url": "https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "O Todos o Ninguno",
+        "url": "https://open.spotify.com/album/5Lequ6yHwYYoT6SNS2wTuB"
+      },
+      "artists": [
+        {
+          "name": "Sexy Zebras",
+          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
+        }
+      ],
+      "duration_ms": 229313,
+      "name": "O Todos o Ninguno",
+      "url": "https://open.spotify.com/track/1yXB3vkiBKhOMYIIbStiP8"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Al Final",
-        "url": "https://open.spotify.com/album/1JThc0vxLAFqk4pj6jPkYa"
-      },
-      "artists": [
-        {
-          "name": "Muro Mar\u00eda",
-          "url": "https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y"
-        }
-      ],
-      "duration_ms": 184201,
-      "name": "Al Final",
-      "url": "https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Pronto",
         "url": "https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "La Persiana",
-        "url": "https://open.spotify.com/album/6I0BwhwKpTxhMLIZFf8ejU"
+        "name": "Al Final",
+        "url": "https://open.spotify.com/album/1JThc0vxLAFqk4pj6jPkYa"
       },
       "artists": [
         {
-          "name": "Apartamentos Acapulco",
-          "url": "https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT"
+          "name": "Muro Mar\u00eda",
+          "url": "https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y"
         }
       ],
-      "duration_ms": 126504,
-      "name": "La Persiana",
-      "url": "https://open.spotify.com/track/5aOMpTOHYx1omSlIATG1XO"
+      "duration_ms": 184201,
+      "name": "Al Final",
+      "url": "https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1643,6 +1627,22 @@
       "duration_ms": 190894,
       "name": "Ya Sale El Sol",
       "url": "https://open.spotify.com/track/3CcaAsGasFGp9GkXByLNms"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "La Persiana",
+        "url": "https://open.spotify.com/album/6I0BwhwKpTxhMLIZFf8ejU"
+      },
+      "artists": [
+        {
+          "name": "Apartamentos Acapulco",
+          "url": "https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT"
+        }
+      ],
+      "duration_ms": 126504,
+      "name": "La Persiana",
+      "url": "https://open.spotify.com/track/5aOMpTOHYx1omSlIATG1XO"
     },
     {
       "added_at": "2024-07-04 22:00:00",

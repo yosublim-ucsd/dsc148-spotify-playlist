@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1354856,
+  "num_followers": 1355100,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zoc3gAAAAAAN8EwwiwxvmS9/U/f34EKc",
+  "snapshot_id": "ZoiJAAAAAAB99hKXS4ArG2P61w1HwR5N",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trench",
-        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Jumpsuit",
-      "url": "https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vessel",
         "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
       },
@@ -299,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "Heavydirtysoul",
+      "url": "https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clancy",
         "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
       },
@@ -311,22 +311,6 @@
       "duration_ms": 203853,
       "name": "At The Risk Of Feeling Dumb",
       "url": "https://open.spotify.com/track/0ZucyPms79Cydv0RMYV2Oi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blurryface",
-        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 234946,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/40sRwFjfrRnaTdYPJIg4CP"
     },
     {
       "added_at": null,
@@ -363,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 234946,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/40sRwFjfrRnaTdYPJIg4CP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clancy",
         "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
       },
@@ -375,22 +375,6 @@
       "duration_ms": 180000,
       "name": "Backslide",
       "url": "https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blurryface",
-        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "We Don't Believe What's on TV",
-      "url": "https://open.spotify.com/track/22OqansuvEMQu9W0EfiGTI"
     },
     {
       "added_at": null,
@@ -523,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cancer",
-        "url": "https://open.spotify.com/album/22uQ3YSLjQJPNPkZQzdX2y"
+        "name": "Trench",
+        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
       },
       "artists": [
         {
@@ -532,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 236826,
-      "name": "Cancer",
-      "url": "https://open.spotify.com/track/19W5OTEcQI3ZoRW1HERMyy"
+      "duration_ms": 177040,
+      "name": "Smithereens",
+      "url": "https://open.spotify.com/track/5G6Gt9RtNaeIE418pd4yre"
     },
     {
       "added_at": null,
@@ -583,6 +567,22 @@
       "duration_ms": 217000,
       "name": "Oh Ms Believer",
       "url": "https://open.spotify.com/track/3FvV3j98xtcylQF1drDc9j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cancer",
+        "url": "https://open.spotify.com/album/22uQ3YSLjQJPNPkZQzdX2y"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 236826,
+      "name": "Cancer",
+      "url": "https://open.spotify.com/track/19W5OTEcQI3ZoRW1HERMyy"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Las canciones que marcaron una \u00e9poca.",
-  "num_followers": 43845,
+  "num_followers": 43865,
   "original_name": "Los 2010 Argentina",
   "owner": {
     "name": "Spotify",
@@ -139,34 +139,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Bohemio",
-        "url": "https://open.spotify.com/album/0rvKuIaaoeOlU1NDBI0EVm"
+        "name": "El Calor Del Pleno Invierno",
+        "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
         }
       ],
-      "duration_ms": 202822,
-      "name": "Cuando no est\u00e1s",
-      "url": "https://open.spotify.com/track/5kl4FkCUzVa5wicxafa9yc"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "Hacer Un Puente",
-        "url": "https://open.spotify.com/album/06HEYHOCM5fZXKhp3ox9ld"
-      },
-      "artists": [
-        {
-          "name": "La Franela",
-          "url": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
-        }
-      ],
-      "duration_ms": 282958,
-      "name": "Hacer un puente",
-      "url": "https://open.spotify.com/track/18Q3WTfyWX1tdS1cp42NhA"
+      "duration_ms": 207533,
+      "name": "A las Nueve",
+      "url": "https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -187,6 +171,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "Bohemio",
+        "url": "https://open.spotify.com/album/0rvKuIaaoeOlU1NDBI0EVm"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 202822,
+      "name": "Cuando no est\u00e1s",
+      "url": "https://open.spotify.com/track/5kl4FkCUzVa5wicxafa9yc"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Voragine",
         "url": "https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb"
       },
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "El Calor Del Pleno Invierno",
-        "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 207533,
-      "name": "A las Nueve",
-      "url": "https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Solo Un Momento",
         "url": "https://open.spotify.com/album/0GLy7kICalYMGsgm3J1wzA"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 216666,
       "name": "Paisaje",
       "url": "https://open.spotify.com/track/76lY4r2aBw8XC9BXJtKz3C"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Hacer Un Puente",
+        "url": "https://open.spotify.com/album/06HEYHOCM5fZXKhp3ox9ld"
+      },
+      "artists": [
+        {
+          "name": "La Franela",
+          "url": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
+        }
+      ],
+      "duration_ms": 282958,
+      "name": "Hacer un puente",
+      "url": "https://open.spotify.com/track/18Q3WTfyWX1tdS1cp42NhA"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "Vicentico 5",
+        "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Creo Que Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/0EC4pUdeehtjl7Yh5GiV3u"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Magistral",
         "url": "https://open.spotify.com/album/1OZjewK6BpdLB24XlLkBbS"
       },
@@ -295,6 +311,26 @@
       "duration_ms": 178800,
       "name": "Ya Lo Sab\u00eda",
       "url": "https://open.spotify.com/track/1fLa7ba2l141LWPUt7Bcok"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "El Tiempo Otra Vez Avanza",
+        "url": "https://open.spotify.com/album/314m9ZiGXnoaDtXp96LlHs"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Comod\u00edn",
+      "url": "https://open.spotify.com/track/5ujrjQsZYp7oark6k7SFVa"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -351,6 +387,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "Abel",
+        "url": "https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 181933,
+      "name": "Motivos",
+      "url": "https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Nada Es Tarde",
         "url": "https://open.spotify.com/album/4N2vqVDcAjDpe44wYdDrKU"
       },
@@ -371,58 +423,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Vicentico 5",
-        "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Creo Que Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/0EC4pUdeehtjl7Yh5GiV3u"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "Abel",
-        "url": "https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 181933,
-      "name": "Motivos",
-      "url": "https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "El Tiempo Otra Vez Avanza",
-        "url": "https://open.spotify.com/album/314m9ZiGXnoaDtXp96LlHs"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Comod\u00edn",
-      "url": "https://open.spotify.com/track/5ujrjQsZYp7oark6k7SFVa"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "\u00bfD\u00f3nde Vas?",
         "url": "https://open.spotify.com/album/05R00CcrMgbTSOh8HZYcnZ"
       },
@@ -435,6 +435,22 @@
       "duration_ms": 202826,
       "name": "Aves Migratorias",
       "url": "https://open.spotify.com/track/5Y7Lt08Xc885tzG5kKTZ4u"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Conociendo Rusia",
+        "url": "https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 257176,
+      "name": "Loco en el Desierto",
+      "url": "https://open.spotify.com/track/392fECmnYZTQjL97hqEElg"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -459,6 +475,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "Suenan Las Alarmas",
+        "url": "https://open.spotify.com/album/5j5VrewC19P5osNjNanIu6"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 257040,
+      "name": "Prendido Fuego",
+      "url": "https://open.spotify.com/track/0h8P7C86KyfkjnqC4TaDhC"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Locales Calientes",
         "url": "https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC"
       },
@@ -475,38 +507,6 @@
       "duration_ms": 247419,
       "name": "Tan Distintos",
       "url": "https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "Oncemil",
-      "url": "https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "Conociendo Rusia",
-        "url": "https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 257176,
-      "name": "Loco en el Desierto",
-      "url": "https://open.spotify.com/track/392fECmnYZTQjL97hqEElg"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Suenan Las Alarmas",
-        "url": "https://open.spotify.com/album/5j5VrewC19P5osNjNanIu6"
+        "name": "11",
+        "url": "https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 257040,
-      "name": "Prendido Fuego",
-      "url": "https://open.spotify.com/track/0h8P7C86KyfkjnqC4TaDhC"
+      "duration_ms": 221080,
+      "name": "Oncemil",
+      "url": "https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Sue\u00f1o Dorado",
-        "url": "https://open.spotify.com/album/5iAfktdcKxeETNbaxEWckh"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "No Me Olvides",
-      "url": "https://open.spotify.com/track/2Pq3bGuvCa1beNMrBxgcKT"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Pesados Vestigios",
         "url": "https://open.spotify.com/album/2jQGwS9ek4TmM8wbv8HUsF"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 253466,
       "name": "V\u00edctimas del Cielo",
       "url": "https://open.spotify.com/track/2LPq1zhFHJsCgXXKDA4RFd"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Sue\u00f1o Dorado",
+        "url": "https://open.spotify.com/album/5iAfktdcKxeETNbaxEWckh"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "No Me Olvides",
+      "url": "https://open.spotify.com/track/2Pq3bGuvCa1beNMrBxgcKT"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -723,6 +723,38 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "La Luna Hueca",
+        "url": "https://open.spotify.com/album/3EcGvNWLVhGz2EeiiPCvwl"
+      },
+      "artists": [
+        {
+          "name": "Skay Beilinson",
+          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
+        }
+      ],
+      "duration_ms": 200506,
+      "name": "El Redentor Secreto",
+      "url": "https://open.spotify.com/track/2Lg3x1cTqZPtigNbpY75z9"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Parque De Depresiones",
+        "url": "https://open.spotify.com/album/3RhgCYHq0Jae6cH6rNCbBC"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 217359,
+      "name": "Me est\u00e1s tratando mal",
+      "url": "https://open.spotify.com/track/4wGecpdpXwzaFPgZDecKka"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Romantis\u00edsmico",
         "url": "https://open.spotify.com/album/1x93LZe2PKKrgePH2GZjCP"
       },
@@ -755,58 +787,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "La Luna Hueca",
-        "url": "https://open.spotify.com/album/3EcGvNWLVhGz2EeiiPCvwl"
-      },
-      "artists": [
-        {
-          "name": "Skay Beilinson",
-          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
-        }
-      ],
-      "duration_ms": 200506,
-      "name": "El Redentor Secreto",
-      "url": "https://open.spotify.com/track/2Lg3x1cTqZPtigNbpY75z9"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "Reevoluci\u00f3n",
-        "url": "https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        },
-        {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "Aventura (feat. Marcela Morelo)",
-      "url": "https://open.spotify.com/track/6qkS2ebQrNmSznA50ODfxs"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "Parque De Depresiones",
-        "url": "https://open.spotify.com/album/3RhgCYHq0Jae6cH6rNCbBC"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 217359,
-      "name": "Me est\u00e1s tratando mal",
-      "url": "https://open.spotify.com/track/4wGecpdpXwzaFPgZDecKka"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "La Ciudad Liberada",
         "url": "https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH"
       },
@@ -819,22 +799,6 @@
       "duration_ms": 252867,
       "name": "Tu Vida Mi Vida",
       "url": "https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "Discutible",
-        "url": "https://open.spotify.com/album/5c6b4NSsJHroOvLFUNBE3t"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 298160,
-      "name": "La Pregunta",
-      "url": "https://open.spotify.com/track/4PxOR5geaJtZFe4Q3I115t"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -871,6 +835,26 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "Reevoluci\u00f3n",
+        "url": "https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        },
+        {
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Aventura (feat. Marcela Morelo)",
+      "url": "https://open.spotify.com/track/6qkS2ebQrNmSznA50ODfxs"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Besos en la Espalda",
         "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 166573,
       "name": "Perdiendo la Cabeza",
       "url": "https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Discutible",
+        "url": "https://open.spotify.com/album/5c6b4NSsJHroOvLFUNBE3t"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 298160,
+      "name": "La Pregunta",
+      "url": "https://open.spotify.com/track/4PxOR5geaJtZFe4Q3I115t"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 306419,
+      "name": "Canci\u00f3n para un Amigo",
+      "url": "https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Parque Acu\u00e1tico",
         "url": "https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 195844,
       "name": "No Fue",
       "url": "https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "Hasta el Final",
-        "url": "https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 306419,
-      "name": "Canci\u00f3n para un Amigo",
-      "url": "https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS"
     }
   ],
   "unique_name": "Los 2010 Argentina",

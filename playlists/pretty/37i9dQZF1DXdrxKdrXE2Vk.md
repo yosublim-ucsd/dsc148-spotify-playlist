@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: <a href="spotify:artist:3qfrrrSO7utFdJkM2tvMRb">CeCe Winans</a> and <a href="spotify:artist:0cuW2lF0YWb9VUyHOnvnsO">Jenn Johnson</a>  of Bethel Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 899,282 likes - 72 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 899,458 likes - 72 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

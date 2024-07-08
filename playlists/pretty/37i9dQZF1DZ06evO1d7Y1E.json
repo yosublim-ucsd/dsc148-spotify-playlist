@@ -1,12 +1,12 @@
 {
-  "description": "This is Mc Poze do Rodo. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 112387,
+  "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
+  "num_followers": 112456,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zoc3gAAAAAA2zu51kX1M+PKFIqWNpgAu",
+  "snapshot_id": "ZoiJAAAAAADbxycgk4qGdSlSRaaqUVjM",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,38 @@
       "duration_ms": 161775,
       "name": "Morena",
       "url": "https://open.spotify.com/track/4pjx7niz7aUfoOJOSW0BLM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Filha do Deputado",
+        "url": "https://open.spotify.com/album/5qFj8svsT6jtBq7X4dMY7Z"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        }
+      ],
+      "duration_ms": 371852,
+      "name": "Filha do Deputado",
+      "url": "https://open.spotify.com/track/5Qqpplbu8ROd71c0brQxyy"
     },
     {
       "added_at": null,
@@ -87,38 +119,6 @@
       "duration_ms": 703157,
       "name": "Diz A\u00ed Qual \u00e9 o Plano?",
       "url": "https://open.spotify.com/track/5tsKgj1Xbk5bL7t3QiPWOR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Filha do Deputado",
-        "url": "https://open.spotify.com/album/5qFj8svsT6jtBq7X4dMY7Z"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        }
-      ],
-      "duration_ms": 371852,
-      "name": "Filha do Deputado",
-      "url": "https://open.spotify.com/track/5Qqpplbu8ROd71c0brQxyy"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poesia Ac\u00fastica 11: Nada Mudou",
-        "url": "https://open.spotify.com/album/3716y3qiVChUSJv24nvCUB"
+        "name": "Poesia Ac\u00fastica #11 Nada Mudou",
+        "url": "https://open.spotify.com/album/2xP4HjivY698dFEusxHuz7"
       },
       "artists": [
         {
@@ -661,8 +661,8 @@
         }
       ],
       "duration_ms": 600000,
-      "name": "Poesia Ac\u00fastica 11: Nada Mudou",
-      "url": "https://open.spotify.com/track/6giaOyDFbE4J8iclhCdW7E"
+      "name": "Poesia Ac\u00fastica #11 Nada Mudou",
+      "url": "https://open.spotify.com/track/2vAAZvEAIciypUSMDutPk4"
     },
     {
       "added_at": null,

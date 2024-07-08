@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 243586,
       "name": "Change Of Heart",
       "url": "https://open.spotify.com/track/7xagVKfjYQTAdzvtJHPdVc"
@@ -3534,6 +3534,24 @@
       "duration_ms": 203973,
       "name": "Higher (feat. David Rawlings)",
       "url": "https://open.spotify.com/track/1f1HTENF8WaUKEzCH7BNRZ"
+    },
+    {
+      "album": {
+        "name": "Songs My Friends Wrote",
+        "url": "https://open.spotify.com/album/6QRuQR6EyaLGWyuSr8ykd1"
+      },
+      "artists": [
+        {
+          "name": "Corb Lund",
+          "url": "https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200586,
+      "name": "Highway 87",
+      "url": "https://open.spotify.com/track/0w1i4xOhV8GQEBxPU5itU3"
     },
     {
       "album": {

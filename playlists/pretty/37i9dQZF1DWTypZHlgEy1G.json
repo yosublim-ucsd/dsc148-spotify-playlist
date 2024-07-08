@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : Charles Aznavour",
-  "num_followers": 535561,
+  "num_followers": 535567,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-06-20 16:28:18",
       "album": {
+        "name": "Eternelle",
+        "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "duration_ms": 142280,
+      "name": "Non, je ne regrette rien",
+      "url": "https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA"
+    },
+    {
+      "added_at": "2024-06-20 16:28:18",
+      "album": {
         "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
         "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
       },
@@ -171,38 +187,6 @@
     {
       "added_at": "2024-06-20 16:28:18",
       "album": {
-        "name": "Joe Dassin \u00c9ternel...",
-        "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
-      },
-      "artists": [
-        {
-          "name": "Joe Dassin",
-          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
-        }
-      ],
-      "duration_ms": 269320,
-      "name": "L'\u00e9t\u00e9 indien",
-      "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
-    },
-    {
-      "added_at": "2024-06-20 16:28:18",
-      "album": {
-        "name": "Eternelle",
-        "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
-      },
-      "artists": [
-        {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
-        }
-      ],
-      "duration_ms": 142280,
-      "name": "Non, je ne regrette rien",
-      "url": "https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA"
-    },
-    {
-      "added_at": "2024-06-20 16:28:18",
-      "album": {
         "name": "Niagara",
         "url": "https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU"
       },
@@ -215,22 +199,6 @@
       "duration_ms": 214173,
       "name": "Ce n'est rien",
       "url": "https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT"
-    },
-    {
-      "added_at": "2024-06-20 16:28:18",
-      "album": {
-        "name": "Georges Brassens chante les chansons po\u00e9tiques (et souvent gaillardes) N\u00b01",
-        "url": "https://open.spotify.com/album/4qZ1goadMIs9rX2RrF2F8X"
-      },
-      "artists": [
-        {
-          "name": "Georges Brassens",
-          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
-        }
-      ],
-      "duration_ms": 132213,
-      "name": "La mauvaise r\u00e9putation",
-      "url": "https://open.spotify.com/track/1CXcTLzJ3b2KJylbsbF0cE"
     },
     {
       "added_at": "2024-06-20 16:28:18",
@@ -251,6 +219,22 @@
     {
       "added_at": "2024-06-20 16:28:18",
       "album": {
+        "name": "Georges Brassens chante les chansons po\u00e9tiques (et souvent gaillardes) N\u00b01",
+        "url": "https://open.spotify.com/album/4qZ1goadMIs9rX2RrF2F8X"
+      },
+      "artists": [
+        {
+          "name": "Georges Brassens",
+          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
+        }
+      ],
+      "duration_ms": 132213,
+      "name": "La mauvaise r\u00e9putation",
+      "url": "https://open.spotify.com/track/1CXcTLzJ3b2KJylbsbF0cE"
+    },
+    {
+      "added_at": "2024-06-20 16:28:18",
+      "album": {
         "name": "Dave",
         "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
       },
@@ -263,6 +247,38 @@
       "duration_ms": 180200,
       "name": "Du c\u00f4te de chez Swann",
       "url": "https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH"
+    },
+    {
+      "added_at": "2024-06-20 16:28:18",
+      "album": {
+        "name": "Joe Dassin \u00c9ternel...",
+        "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "duration_ms": 269320,
+      "name": "L'\u00e9t\u00e9 indien",
+      "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
+    },
+    {
+      "added_at": "2024-06-20 16:28:18",
+      "album": {
+        "name": "de l'accordeoniste a milord",
+        "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "La foule",
+      "url": "https://open.spotify.com/track/2xZfPZxInlDXDKc6NDts8Z"
     },
     {
       "added_at": "2024-06-20 16:28:18",
@@ -295,22 +311,6 @@
       "duration_ms": 201626,
       "name": "La mer - Remasteris\u00e9 en 2017",
       "url": "https://open.spotify.com/track/1n29R9nsoyeFbUuvmnmw1y"
-    },
-    {
-      "added_at": "2024-06-20 16:28:18",
-      "album": {
-        "name": "de l'accordeoniste a milord",
-        "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
-      },
-      "artists": [
-        {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "La foule",
-      "url": "https://open.spotify.com/track/2xZfPZxInlDXDKc6NDts8Z"
     },
     {
       "added_at": "2024-06-20 16:28:18",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-06-20 16:28:18",
       "album": {
+        "name": "Yves Montand",
+        "url": "https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Sous le ciel de Paris",
+      "url": "https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt"
+    },
+    {
+      "added_at": "2024-06-20 16:28:18",
+      "album": {
         "name": "Les 50 Plus Belles Chansons",
         "url": "https://open.spotify.com/album/0jhZnOsf191o5d4pzt2qTu"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2024-06-20 16:28:18",
       "album": {
-        "name": "Forever Dalida",
-        "url": "https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa"
-      },
-      "artists": [
-        {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "Il venait d'avoir 18 ans",
-      "url": "https://open.spotify.com/track/1S39BVV8IFikZtlmPjchBd"
-    },
-    {
-      "added_at": "2024-06-20 16:28:18",
-      "album": {
         "name": "The Aristocats Original Soundtrack",
         "url": "https://open.spotify.com/album/4xP8YdX6dIi649dxAH2PXO"
       },
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-06-20 16:28:18",
       "album": {
+        "name": "Forever Dalida",
+        "url": "https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "Il venait d'avoir 18 ans",
+      "url": "https://open.spotify.com/track/1S39BVV8IFikZtlmPjchBd"
+    },
+    {
+      "added_at": "2024-06-20 16:28:18",
+      "album": {
         "name": "Fr\u00e9hel [Collection disques Path\u00e9]",
         "url": "https://open.spotify.com/album/4ikZGhHqdMf24sWQA4v4UI"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 165893,
       "name": "La java bleue",
       "url": "https://open.spotify.com/track/1vveZRFXBiFrnO4wUpgArq"
-    },
-    {
-      "added_at": "2024-06-20 16:28:18",
-      "album": {
-        "name": "Yves Montand",
-        "url": "https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Sous le ciel de Paris",
-      "url": "https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt"
     },
     {
       "added_at": "2024-06-20 16:28:18",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-06-20 16:28:18",
       "album": {
-        "name": "Musical Moments to Remember: Jos\u00e9phine Baker, Vol. 1 (2014 Remastered)",
-        "url": "https://open.spotify.com/album/4jLdud0Asv42qDcssw0ahd"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9phine Baker",
-          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
-        }
-      ],
-      "duration_ms": 190987,
-      "name": "J'ai deux amours",
-      "url": "https://open.spotify.com/track/2UsWuHGtSGi3c7VsdeyQCg"
-    },
-    {
-      "added_at": "2024-06-20 16:28:18",
-      "album": {
         "name": "Fleur De Paris",
         "url": "https://open.spotify.com/album/0Z5YgfnmXWZM6KVw3pkdAc"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 194933,
       "name": "Paris sera toujours Paris",
       "url": "https://open.spotify.com/track/4YpmjnVzUfbPfbDguayy22"
+    },
+    {
+      "added_at": "2024-06-20 16:28:18",
+      "album": {
+        "name": "Musical Moments to Remember: Jos\u00e9phine Baker, Vol. 1 (2014 Remastered)",
+        "url": "https://open.spotify.com/album/4jLdud0Asv42qDcssw0ahd"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9phine Baker",
+          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
+        }
+      ],
+      "duration_ms": 190987,
+      "name": "J'ai deux amours",
+      "url": "https://open.spotify.com/track/2UsWuHGtSGi3c7VsdeyQCg"
     },
     {
       "added_at": "2024-06-20 16:28:18",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-06-20 16:28:18",
       "album": {
-        "name": "Santiano",
-        "url": "https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB"
-      },
-      "artists": [
-        {
-          "name": "Hugues Aufray",
-          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
-        }
-      ],
-      "duration_ms": 134973,
-      "name": "Santiano",
-      "url": "https://open.spotify.com/track/4fYqKBJQDep6s2f74pkUXZ"
-    },
-    {
-      "added_at": "2024-06-20 16:28:18",
-      "album": {
         "name": "In\u00e9dits 68-97",
         "url": "https://open.spotify.com/album/3NBgEG8mdN6GvIsrgC79si"
       },
@@ -1216,22 +1200,6 @@
       "added_at": "2024-06-20 16:28:18",
       "album": {
         "name": "Best Of",
-        "url": "https://open.spotify.com/album/4XvvwnuEOPWWOexWJDbeYf"
-      },
-      "artists": [
-        {
-          "name": "Christophe",
-          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
-        }
-      ],
-      "duration_ms": 170840,
-      "name": "Aline",
-      "url": "https://open.spotify.com/track/17ODC17zbOv6MVBDiANvue"
-    },
-    {
-      "added_at": "2024-06-20 16:28:18",
-      "album": {
-        "name": "Best Of",
         "url": "https://open.spotify.com/album/3ZU8JjHnH8JxGEKfrN7x16"
       },
       "artists": [
@@ -1243,6 +1211,38 @@
       "duration_ms": 253013,
       "name": "Comme d'habitude",
       "url": "https://open.spotify.com/track/3oHpcWfXvtA6RrzgYahuAT"
+    },
+    {
+      "added_at": "2024-06-20 16:28:18",
+      "album": {
+        "name": "Santiano",
+        "url": "https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB"
+      },
+      "artists": [
+        {
+          "name": "Hugues Aufray",
+          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
+        }
+      ],
+      "duration_ms": 134973,
+      "name": "Santiano",
+      "url": "https://open.spotify.com/track/4fYqKBJQDep6s2f74pkUXZ"
+    },
+    {
+      "added_at": "2024-06-20 16:28:18",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/4XvvwnuEOPWWOexWJDbeYf"
+      },
+      "artists": [
+        {
+          "name": "Christophe",
+          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
+        }
+      ],
+      "duration_ms": 170840,
+      "name": "Aline",
+      "url": "https://open.spotify.com/track/17ODC17zbOv6MVBDiANvue"
     },
     {
       "added_at": "2024-06-20 16:28:18",

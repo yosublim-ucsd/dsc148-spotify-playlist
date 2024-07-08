@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 96823,
+  "num_followers": 96859,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Flaming Fire",
+        "url": "https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR"
+      },
+      "artists": [
+        {
+          "name": "Melvin Ayala",
+          "url": "https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Que No Faltes Tu",
+      "url": "https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
         "url": "https://open.spotify.com/album/0ZuChxTZJfnV2rxfyweF8a"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 222506,
       "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
       "url": "https://open.spotify.com/track/2s4npyJ0dfZ3uEZ5mw6X7K"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Flaming Fire",
-        "url": "https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR"
-      },
-      "artists": [
-        {
-          "name": "Melvin Ayala",
-          "url": "https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Que No Faltes Tu",
-      "url": "https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -203,22 +203,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "PANORAMA",
         "url": "https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 204013,
       "name": "Camino Al Cielo (Versi\u00f3n Merengue)",
       "url": "https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -379,18 +379,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Pensaba en Ti",
-        "url": "https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU"
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0qSI9KwRdzu1euqI19poAi"
       },
       "artists": [
         {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/3lzyHlwA8eLqDqHZ3FnKJp"
         }
       ],
-      "duration_ms": 219116,
-      "name": "Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF"
+      "duration_ms": 203187,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/2YhJlGNniJbAMbNUWf6iiE"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -411,18 +411,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0qSI9KwRdzu1euqI19poAi"
+        "name": "Pensaba en Ti",
+        "url": "https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU"
       },
       "artists": [
         {
-          "name": "Yeyo",
-          "url": "https://open.spotify.com/artist/3lzyHlwA8eLqDqHZ3FnKJp"
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
         }
       ],
-      "duration_ms": 203187,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/2YhJlGNniJbAMbNUWf6iiE"
+      "duration_ms": 219116,
+      "name": "Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -531,22 +531,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Ven Te Estado Esperando",
-        "url": "https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ceballo",
-          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
-        }
-      ],
-      "duration_ms": 349909,
-      "name": "Hermoso Nombre",
-      "url": "https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/3SXlRmAKWOmkzLYGHL7um3"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 216351,
       "name": "Hora de Cantar",
       "url": "https://open.spotify.com/track/5o4vm04U4p8r4ViAOChKtT"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Ven Te Estado Esperando",
+        "url": "https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ceballo",
+          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
+        }
+      ],
+      "duration_ms": 349909,
+      "name": "Hermoso Nombre",
+      "url": "https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -635,22 +635,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Salsa De Amor Vol. 4",
-        "url": "https://open.spotify.com/album/2thWavVdha911NOv0EB2VQ"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ceballo",
-          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
-        }
-      ],
-      "duration_ms": 271466,
-      "name": "El Milagro De Tu Amor",
-      "url": "https://open.spotify.com/track/6QS38Fn4nJfpeQzYnXl9iD"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "This Is My Time",
         "url": "https://open.spotify.com/album/0n71AqZVvgoRuxW1pSSTsA"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 228089,
       "name": "La Misma Mentira",
       "url": "https://open.spotify.com/track/6wwRmRSc9OP9RdovSj7CZi"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Salsa De Amor Vol. 4",
+        "url": "https://open.spotify.com/album/2thWavVdha911NOv0EB2VQ"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ceballo",
+          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
+        }
+      ],
+      "duration_ms": 271466,
+      "name": "El Milagro De Tu Amor",
+      "url": "https://open.spotify.com/track/6QS38Fn4nJfpeQzYnXl9iD"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -739,6 +739,22 @@
       "duration_ms": 278891,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        }
+      ],
+      "duration_ms": 222458,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -831,22 +847,6 @@
       "duration_ms": 241960,
       "name": "Soy Jose",
       "url": "https://open.spotify.com/track/5KNXGKonSOR13GtCdSluPS"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0"
-      },
-      "artists": [
-        {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
-        }
-      ],
-      "duration_ms": 222458,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j"
     },
     {
       "added_at": "2020-11-24 13:23:55",

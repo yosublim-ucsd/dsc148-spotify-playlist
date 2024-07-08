@@ -1,6 +1,6 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 96353,
+  "num_followers": 96403,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-06-04 07:19:26",
       "album": {
-        "name": "Crossroads (Original Sountrack)",
-        "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 256826,
-      "name": "Feelin' Bad Blues - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1mka0egloj2XnXJznzMCw6"
-    },
-    {
-      "added_at": "2024-06-04 07:19:26",
-      "album": {
         "name": "The 1971 Fillmore East Recordings",
         "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 284480,
       "name": "Statesboro Blues",
       "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
+    },
+    {
+      "added_at": "2024-06-04 07:19:26",
+      "album": {
+        "name": "Crossroads (Original Sountrack)",
+        "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 256826,
+      "name": "Feelin' Bad Blues - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1mka0egloj2XnXJznzMCw6"
     },
     {
       "added_at": "2024-06-04 07:19:26",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-06-04 07:19:26",
       "album": {
+        "name": "Hittin' the Note",
+        "url": "https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 372560,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx"
+    },
+    {
+      "added_at": "2024-06-04 07:19:26",
+      "album": {
         "name": "Already Free",
         "url": "https://open.spotify.com/album/1I4Ydy7hVvINSdRHV7n4fS"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 302306,
       "name": "Down In the Flood",
       "url": "https://open.spotify.com/track/5U51nS2N1TDL1HEHEio7mC"
-    },
-    {
-      "added_at": "2024-06-04 07:19:26",
-      "album": {
-        "name": "Street Talkin'",
-        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 192661,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
     },
     {
       "added_at": "2024-06-04 07:19:26",
@@ -303,6 +303,38 @@
       "duration_ms": 232507,
       "name": "Mean Old World",
       "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
+    },
+    {
+      "added_at": "2024-06-04 07:19:26",
+      "album": {
+        "name": "Ry Cooder",
+        "url": "https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 134066,
+      "name": "Available Space",
+      "url": "https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG"
+    },
+    {
+      "added_at": "2024-06-04 07:19:26",
+      "album": {
+        "name": "Street Talkin'",
+        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 192661,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
     },
     {
       "added_at": "2024-06-04 07:19:26",
@@ -335,38 +367,6 @@
       "duration_ms": 269600,
       "name": "Give It Up or Let Me Go - 2008 Remaster",
       "url": "https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr"
-    },
-    {
-      "added_at": "2024-06-04 07:19:26",
-      "album": {
-        "name": "Hittin' the Note",
-        "url": "https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 372560,
-      "name": "Old Friend",
-      "url": "https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx"
-    },
-    {
-      "added_at": "2024-06-04 07:19:26",
-      "album": {
-        "name": "Ry Cooder",
-        "url": "https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 134066,
-      "name": "Available Space",
-      "url": "https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG"
     },
     {
       "added_at": "2024-06-04 07:19:26",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-06-04 07:19:26",
       "album": {
-        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
-        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "The Sky Is Crying",
-      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
-    },
-    {
-      "added_at": "2024-06-04 07:19:26",
-      "album": {
         "name": "Too Bad Jim",
         "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 289666,
       "name": "Shake 'Em on Down",
       "url": "https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90"
+    },
+    {
+      "added_at": "2024-06-04 07:19:26",
+      "album": {
+        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
+        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "The Sky Is Crying",
+      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
     },
     {
       "added_at": "2024-06-04 07:19:26",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-06-04 07:19:26",
       "album": {
-        "name": "Best - Southern Blues",
-        "url": "https://open.spotify.com/album/69k6vuhXTWhAo8z6JzUSuW"
-      },
-      "artists": [
-        {
-          "name": "Sonny Landreth",
-          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
-        }
-      ],
-      "duration_ms": 237680,
-      "name": "Taylor's Rock",
-      "url": "https://open.spotify.com/track/6fpaDrwoD72oLtksI0Ei88"
-    },
-    {
-      "added_at": "2024-06-04 07:19:26",
-      "album": {
         "name": "At The Crossroads: The Blues Of Robert Johnson",
         "url": "https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 262000,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC"
+    },
+    {
+      "added_at": "2024-06-04 07:19:26",
+      "album": {
+        "name": "Best - Southern Blues",
+        "url": "https://open.spotify.com/album/69k6vuhXTWhAo8z6JzUSuW"
+      },
+      "artists": [
+        {
+          "name": "Sonny Landreth",
+          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "Taylor's Rock",
+      "url": "https://open.spotify.com/track/6fpaDrwoD72oLtksI0Ei88"
     },
     {
       "added_at": "2024-06-04 07:19:26",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-06-04 07:19:26",
       "album": {
-        "name": "Tempting Fate",
-        "url": "https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv"
-      },
-      "artists": [
-        {
-          "name": "Carolyn Wonderland",
-          "url": "https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n"
-        }
-      ],
-      "duration_ms": 239106,
-      "name": "Fragile Peace And Certain War",
-      "url": "https://open.spotify.com/track/3h3v9Nf0vU8bNr2FGtpYQM"
-    },
-    {
-      "added_at": "2024-06-04 07:19:26",
-      "album": {
         "name": "Songlines",
         "url": "https://open.spotify.com/album/0bAKGnvpKWdI3lH7Q3RCJJ"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 594933,
       "name": "Sahib Teri Bandi - Maki Madni",
       "url": "https://open.spotify.com/track/0pxgXjiNwxX7nO96ywdGZe"
+    },
+    {
+      "added_at": "2024-06-04 07:19:26",
+      "album": {
+        "name": "Tempting Fate",
+        "url": "https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv"
+      },
+      "artists": [
+        {
+          "name": "Carolyn Wonderland",
+          "url": "https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n"
+        }
+      ],
+      "duration_ms": 239106,
+      "name": "Fragile Peace And Certain War",
+      "url": "https://open.spotify.com/track/3h3v9Nf0vU8bNr2FGtpYQM"
     },
     {
       "added_at": "2024-06-04 07:19:26",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-06-04 07:19:26",
       "album": {
-        "name": "Gone to Texas",
-        "url": "https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ"
-      },
-      "artists": [
-        {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
-        }
-      ],
-      "duration_ms": 247906,
-      "name": "Death Row",
-      "url": "https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd"
-    },
-    {
-      "added_at": "2024-06-04 07:19:26",
-      "album": {
         "name": "Little Black Crow",
         "url": "https://open.spotify.com/album/734mbE26nI6Tjj8bgaRwAa"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 209726,
       "name": "4 Cars",
       "url": "https://open.spotify.com/track/6InflvdGdVB2QOJQXIPPRu"
+    },
+    {
+      "added_at": "2024-06-04 07:19:26",
+      "album": {
+        "name": "Gone to Texas",
+        "url": "https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        }
+      ],
+      "duration_ms": 247906,
+      "name": "Death Row",
+      "url": "https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd"
     },
     {
       "added_at": "2024-06-04 07:19:26",

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Kenny G. Los temas esenciales, todos en una lista.",
-  "num_followers": 135061,
+  "description": "This is Kenny G. The essential tracks, all in one playlist.",
+  "num_followers": 135119,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zoc3gAAAAADQF3g8TWvYKrZYYq4/VNIq",
+  "snapshot_id": "ZoiJAAAAAAC4NwmLeQqwcXJGi3y8sEvA",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Innocence",
-        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 192492,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mother's Lullaby",
         "url": "https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 197125,
       "name": "A Mother\u2019s Lullaby",
       "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Innocence",
+        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 192492,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ"
     },
     {
       "added_at": null,
@@ -623,26 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "JESUS IS KING",
-        "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
+        "name": "Ultimate Kenny G",
+        "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
       },
       "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Clipse",
-          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
-        },
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 213877,
-      "name": "Use This Gospel",
-      "url": "https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P"
+      "duration_ms": 276813,
+      "name": "Jasmine Flower",
+      "url": "https://open.spotify.com/track/1bbT0SzSrKuDIfH5SU6w2U"
     },
     {
       "added_at": null,
@@ -663,18 +655,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultimate Kenny G",
-        "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
+        "name": "JESUS IS KING",
+        "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
       },
       "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 276813,
-      "name": "Jasmine Flower",
-      "url": "https://open.spotify.com/track/1bbT0SzSrKuDIfH5SU6w2U"
+      "duration_ms": 213877,
+      "name": "Use This Gospel",
+      "url": "https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Rue Diego in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,081 likes - 55 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,140 likes - 55 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 41 | [Still in Napl \(Est\) Freestyle \#3](https://open.spotify.com/track/7DxwpmqGxLsVFDXpWXwOYx) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN) | [Still in Napl \(Est\) \- pack](https://open.spotify.com/album/64OJp4xy34XWm9a25bJ6Bh) | 1:30 |
 | 42 | [Non Siamo Uguali \(feat\. CoCo\)](https://open.spotify.com/track/5gNI6SVOOugp1KOrDpw3O4) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Dove Volano Le Aquile Vol\. 2](https://open.spotify.com/album/5533SD7HXknP7vKdshypG1) | 2:57 |
 | 43 | [TU T'E SCURDAT' 'E ME](https://open.spotify.com/track/1901MP4sFYR617bT4hNcyW) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO](https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr) | 4:01 |
-| 44 | [CHE ME NE FÓ](https://open.spotify.com/track/0lk4E9MaC4mIRAo6smiQUS) | [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7) | [CHE ME NE FÓ](https://open.spotify.com/album/0bfXiQpr4NLnom25HshAkw) | 1:39 |
+| 44 | [CHE ME NE FÓ](https://open.spotify.com/track/0lk4E9MaC4mIRAo6smiQUS) | [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7), [Wiz Hard](https://open.spotify.com/artist/5OjSUnU9En0SbctPV5pd47) | [CHE ME NE FÓ](https://open.spotify.com/album/0bfXiQpr4NLnom25HshAkw) | 1:39 |
 | 45 | [Marijuana \(feat\. Rhove\)](https://open.spotify.com/track/6zBoYvUKa47DRGXGGAziJk) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Marijuana \(feat\. Rhove\)](https://open.spotify.com/album/2fvZ7msnb3QjrIUoB2xZGB) | 2:54 |
 | 46 | [Plaza Freestyle](https://open.spotify.com/track/0eLYWoIuuNzaR26eynemYM) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [DJ Princex](https://open.spotify.com/artist/1pipFnAOzhlbkEXc4WsBHl) | [Plaza Freestyle](https://open.spotify.com/album/6wi7ySINUoSx25FTEyTDv3) | 1:28 |
 | 47 | [Odiami](https://open.spotify.com/track/59hMuCMWPM194Wtcz3UPmu) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu), [G\-Lex](https://open.spotify.com/artist/34aOrKPSv2YwgiR6pLVK2Y) | [Odiami](https://open.spotify.com/album/69L2YZ4iMGZX8Y7xppJ0JC) | 3:20 |

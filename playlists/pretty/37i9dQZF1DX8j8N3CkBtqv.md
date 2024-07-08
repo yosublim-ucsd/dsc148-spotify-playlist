@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Aditya Bhardwaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,763 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,778 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 38 | [Kahe Kahe](https://open.spotify.com/track/1tmqE0XFrDUnnioRc1apsb) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Kahe Kahe](https://open.spotify.com/album/1ncYDhRQr4KS2esNVIM2Y4) | 2:46 |
 | 39 | [Savera](https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Savera](https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd) | 2:23 |
 | 40 | [coconut water](https://open.spotify.com/track/0hcaQPJHy7VKcXH1C5V82N) | [Sangeetha Ramanuj](https://open.spotify.com/artist/65ZIpdacMWN9jPyIoRj0aS), [Druminem](https://open.spotify.com/artist/4D1dHYMg3Cpsp30BWG93rv), [Mitchell Galligan](https://open.spotify.com/artist/3FmNvnuJKw0FTgS5ZwpdNE) | [coconut water](https://open.spotify.com/album/5p8QyinTNj1uHG7dqdoh9s) | 2:14 |
-| 41 | [Shakkarpari \- Hindi](https://open.spotify.com/track/64kOdkGnD2J7WUKwdCVPhV) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Shakkarpari \- Hindi](https://open.spotify.com/album/5XoIbseclC8BhggTODTDFH) | 4:55 |
+| 41 | [Shakkarpari](https://open.spotify.com/track/64kOdkGnD2J7WUKwdCVPhV) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Shakkarpari](https://open.spotify.com/album/5XoIbseclC8BhggTODTDFH) | 4:55 |
 | 42 | [Ja Tujhko 2.0](https://open.spotify.com/track/0k9lmwQjlw3Fe73yMzUnRV) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Ja Tujhko 2.0](https://open.spotify.com/album/1g4i8uacpNI8e79YY7NhHG) | 3:56 |
 | 43 | [Kaise Kaise](https://open.spotify.com/track/7F1aZ5Nx8wR3sSamjEDVDD) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Kaise Kaise](https://open.spotify.com/album/5yyLJLEC2aWdqv9e7iAROe) | 2:52 |
 | 44 | [Yaadon Ke Ghar](https://open.spotify.com/track/6qIdiGrD7uLbw0Jp3TnBZr) | [Nikhil Iyer](https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek), [Akshay Iyer](https://open.spotify.com/artist/5tuD0Os3aeTtglvnUd8HOL) | [Yaadon Ke Ghar](https://open.spotify.com/album/1Lf93OC4fAV2MH3YJthRRe) | 3:44 |

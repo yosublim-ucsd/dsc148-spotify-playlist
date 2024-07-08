@@ -2,7 +2,7 @@
 
 ### [This Is Funeral For A Friend](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Gwh1O)
 
-> This is Funeral For A Friend\. The essential tracks, all in one playlist.
+> This Is Funeral For A Friend\. Los temas esenciales, todos en una lista.
 
 82 songs - 4 hr 39 min
 

@@ -2,7 +2,7 @@
 
 ### [This Is The Used](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZCBBm)
 
-> This Is The Used\. Los temas esenciales, todos en una lista.
+> This is The Used\. The essential tracks, all in one playlist.
 
 99 songs - 5 hr 20 min
 

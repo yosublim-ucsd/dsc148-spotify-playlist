@@ -4,7 +4,7 @@
 
 > 
 
-1,930 songs - 4 day 8 hr 4 min
+1,931 songs - 4 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1382,6 +1382,7 @@
 | [Replay \- Dorian Electra Remix](https://open.spotify.com/track/6l6XdpIyh6RJ4gmdqoz0D6) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u), [Chris Greatti](https://open.spotify.com/artist/1y0g68sGrAK0wbKfU8PUv0), [Count Baldor](https://open.spotify.com/artist/6PVWZrJ7N7zrg4Ljr6OfUN) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 3:49 | 2022-08-02 |  |
 | [Repo](https://open.spotify.com/track/35iQIXGIxGGNQum4KZaxkF) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Repo](https://open.spotify.com/album/63NTP8ZQgqj3VO0gtJNZoK) | 1:40 | 2021-08-05 |  |
 | [Resonance](https://open.spotify.com/track/1TuopWDIuDi1553081zvuU) | [Home](https://open.spotify.com/artist/591B30rR0fT2JeE9zXPPwu) | [Odyssey](https://open.spotify.com/album/2Nz9gdj35Unk1AbfL8Igmx) | 3:32 | 2021-08-05 |  |
+| [Return to Zero Возвращайся Beztebya \- Slowed Reverb](https://open.spotify.com/track/5INzvllYMlajboTg4dcTIw) | [Marc Acardipane](https://open.spotify.com/artist/2hyRTXUyfd56j4siLF4zJx), [angel vox](https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw), [Dayerteq](https://open.spotify.com/artist/1fmBphPpwm9K2udLEXPXsd) | [Return to Zero Возвращайся Beztebya](https://open.spotify.com/album/6V23ydJxx6VErSJvN7AIaK) | 2:16 | 2024-07-07 |  |
 | [Revolutionize](https://open.spotify.com/track/5ZRskCjLCZcdI3FjbZNpAb) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Grow](https://open.spotify.com/album/7akj4ATnCnOCL1GwKVSy5z) | 2:44 | 2021-08-05 |  |
 | [Rewind](https://open.spotify.com/track/50GxvQA2KEWNt31EdwIlzY) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:48 | 2024-07-02 |  |
 | [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 | 2021-08-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Jenni Vartiainen ja Etta\. 👌
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,278 likes - 107 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,305 likes - 107 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

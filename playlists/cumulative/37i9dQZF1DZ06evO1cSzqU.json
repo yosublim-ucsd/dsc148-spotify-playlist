@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-18",
-  "description": "This Is Scorpions. Los temas esenciales, todos en una lista.",
+  "description": "This is Scorpions. The essential tracks, all in one playlist.",
   "name": "This Is Scorpions",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 299853,
       "name": "Coming Home (2015 - Remaster)",
       "url": "https://open.spotify.com/track/0fHqE1z5xYm8htOWED8QA2"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 260066,
       "name": "White Dove",
       "url": "https://open.spotify.com/track/3C5OACv4JfvLAmUdxVugrk"

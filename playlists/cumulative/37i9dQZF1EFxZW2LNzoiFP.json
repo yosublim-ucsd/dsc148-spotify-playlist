@@ -3601,6 +3601,24 @@
     },
     {
       "album": {
+        "name": "Wandering People",
+        "url": "https://open.spotify.com/album/1nHUeBirrH3p2VIr2SRJLD"
+      },
+      "artists": [
+        {
+          "name": "Fake A Smile",
+          "url": "https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144411,
+      "name": "Wandering People",
+      "url": "https://open.spotify.com/track/125KRyzooRaF91ZWsoNkvB"
+    },
+    {
+      "album": {
         "name": "Dusk & Dawn",
         "url": "https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36"
       },

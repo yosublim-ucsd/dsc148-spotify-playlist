@@ -6,7 +6,7 @@
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABgIjbxQNtJfBAX1yfqmaOoOh9KM81/",
+  "snapshot_id": "AABgJZjeQZ5gV/LC2hER1XcVwZH95XTw",
   "tracks": [
     {
       "added_at": "2024-07-05 12:18:55",
@@ -247,6 +247,22 @@
       "duration_ms": 229679,
       "name": "Rude Place - Drumcomplex Remix",
       "url": "https://open.spotify.com/track/0vyydSwvJSB0WUvxkkaA2b"
+    },
+    {
+      "added_at": "2024-07-07 19:23:50",
+      "album": {
+        "name": "Chewtoy",
+        "url": "https://open.spotify.com/album/4UOvjztuDSVqgjrKuElz22"
+      },
+      "artists": [
+        {
+          "name": "ground score",
+          "url": "https://open.spotify.com/artist/1IqXxACKoGdw5fz7dE6DSi"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Chewtoy",
+      "url": "https://open.spotify.com/track/05ZYN8ACS1GCf5rjTf19Me"
     },
     {
       "added_at": "2024-07-05 12:18:55",
@@ -677,6 +693,22 @@
       "url": "https://open.spotify.com/track/0iRxPHydedV81XOsc3JWu7"
     },
     {
+      "added_at": "2024-07-07 19:23:51",
+      "album": {
+        "name": "Naughty",
+        "url": "https://open.spotify.com/album/1KTd5oq3OeqS0DzxsTJD7s"
+      },
+      "artists": [
+        {
+          "name": "C Adct",
+          "url": "https://open.spotify.com/artist/5ici3YJkrmWvr4rNCzBPcC"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Naughty",
+      "url": "https://open.spotify.com/track/2owB5Va5VGvI4FsUQv6m79"
+    },
+    {
       "added_at": "2024-07-05 12:18:55",
       "album": {
         "name": "Leo (Flicker)",
@@ -759,6 +791,26 @@
       "duration_ms": 205968,
       "name": "Body",
       "url": "https://open.spotify.com/track/06czbCsPRhDnWZOzjh4dYP"
+    },
+    {
+      "added_at": "2024-07-07 19:23:53",
+      "album": {
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/5a6gm3EeFPYl792mDSQeFm"
+      },
+      "artists": [
+        {
+          "name": "Manuel Lauren",
+          "url": "https://open.spotify.com/artist/6VFEaIY0aoChP89qDhF17m"
+        },
+        {
+          "name": "Dan Winter",
+          "url": "https://open.spotify.com/artist/7a8GUCpjxjV6tw5D3d9FQz"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/41w20lT4MT0Oo4vTgp64A3"
     },
     {
       "added_at": "2024-07-05 12:47:30",

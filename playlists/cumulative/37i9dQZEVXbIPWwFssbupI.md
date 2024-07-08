@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,875 songs - 4 day 3 hr 20 min
+1,876 songs - 4 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [3 singes](https://open.spotify.com/track/57JhjU33uXlZtmr2Dsk8TX) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Telegram](https://open.spotify.com/album/6p4UuRtrBi7EzUVYJdMWDJ) | 3:02 | 2023-02-11 | 2023-04-16 |
 | [3x filtré](https://open.spotify.com/track/4XwMoPc7s1E2V0Q5eKSzpA) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram 2](https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc) | 3:00 | 2023-09-23 | 2023-10-01 |
 | [4 Juin 2022](https://open.spotify.com/track/0AS7ShmcA2UVxtXHIZEmLV) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Team Jul](https://open.spotify.com/artist/3GVvLlXO3Y9ezKfxpFzqJ5) | [Extraterrestre](https://open.spotify.com/album/4Nagii8jn7jhLZvcqmbnzp) | 3:09 | 2022-06-18 | 2022-06-21 |
-| [42](https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [42](https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2) | 2:55 | 2024-06-20 |  |
+| [42](https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [42](https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2) | 2:55 | 2024-06-20 | 2024-07-08 |
 | [44](https://open.spotify.com/track/2kg6gav2Y7ceVoZ0s5l3Zz) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Le monde est méchant](https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX) | 2:47 | 2021-11-07 | 2021-11-14 |
 | [4MOTION](https://open.spotify.com/track/6ieP0aiCmwen9DShYLJO5r) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [4MOTION](https://open.spotify.com/album/1S5teq1mi2YJxAH1tcB44E) | 3:19 | 2024-03-02 | 2024-04-11 |
 | [500](https://open.spotify.com/track/1dyyYwgfDLt7v0JzQ1JmJu) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [24](https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC) | 2:49 | 2023-12-23 | 2023-12-25 |
@@ -475,6 +475,7 @@
 | [Dans nos blocks](https://open.spotify.com/track/1nVM3VSyr53sTjrWnwSXWE) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Toujours +](https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs) | 2:36 | 2022-10-01 | 2022-10-03 |
 | [Dans un verre](https://open.spotify.com/track/2dOSCiH032YDQnyh8BdJjp) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 2:57 | 2024-02-17 | 2024-03-28 |
 | [Dansa](https://open.spotify.com/track/0rdLmmBiUaM5c539KeV5Os) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [Rohff](https://open.spotify.com/artist/32UhRcgdXO6LdLhOpfIdxp), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [À la bien \(Summer edition\)](https://open.spotify.com/album/4Jf2V4Qj421rVG0d6BSPpW) | 3:15 | 2022-07-14 | 2022-07-16 |
+| [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 | 2024-07-07 |  |
 | [DANÇARINA \(feat\. Nicky Jam, MC Pedrinho\) \- Remix](https://open.spotify.com/track/5QQKWOwPjG9vcDBTQ5Hv5Q) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [DANÇARINA \(feat\. Nicky Jam, MC Pedrinho\) \[Remix\]](https://open.spotify.com/album/47F5OvdnBKsti5MNRGJ2On) | 3:32 | 2022-07-30 | 2023-01-27 |
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-08 | 2022-01-10 |
 | [Daylight](https://open.spotify.com/track/7rbjz4itTy3a6c6nBhKOh0) | [BERKO CHAMP](https://open.spotify.com/artist/5kwaY7ov1Oy6CU2XyoJYCI), [LEXMENDY](https://open.spotify.com/artist/4EMIl7p2d0SddxeHyzB6Xt), [citosxd](https://open.spotify.com/artist/0Whs6LUh8PF4j8OHaRDmNK) | [Daylight](https://open.spotify.com/album/7hLE5RWzjEdZe1dwYp0LNz) | 3:31 | 2024-01-21 | 2024-01-23 |

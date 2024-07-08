@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Proper.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,716 likes - 127 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,762 likes - 127 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

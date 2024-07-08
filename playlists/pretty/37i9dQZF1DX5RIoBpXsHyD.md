@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5RIoBpXsHyD.md) - [plain]
 
 > Unleash the power of Persona and immerse yourself in the world of this epic RPG series with this\. 最新作『ペルソナ３リロード』を含む、ペルソナシリーズの世界に浸れる公式プレイリスト！ⒸATLUS\. ⒸSEGA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,153 likes - 85 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,315 likes - 85 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

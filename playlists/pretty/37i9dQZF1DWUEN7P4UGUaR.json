@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joe Mettle",
-  "num_followers": 11208,
+  "num_followers": 11229,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -247,18 +247,18 @@
     {
       "added_at": "2024-07-05 07:52:11",
       "album": {
-        "name": "Ruach Hakodesh",
-        "url": "https://open.spotify.com/album/7lAGemOFalu3XI1Cy8DDMm"
+        "name": "Wind of Revival",
+        "url": "https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY"
       },
       "artists": [
         {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 552000,
-      "name": "Ruach Hakodesh",
-      "url": "https://open.spotify.com/track/31ZLMtDzOg7pyMYhlVAesz"
+      "duration_ms": 281251,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/381k7MHOPFzsT27BvwoPPe"
     },
     {
       "added_at": "2024-07-05 07:52:11",
@@ -279,18 +279,18 @@
     {
       "added_at": "2024-07-05 07:52:11",
       "album": {
-        "name": "Wind of Revival",
-        "url": "https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY"
+        "name": "Ruach Hakodesh",
+        "url": "https://open.spotify.com/album/7lAGemOFalu3XI1Cy8DDMm"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
         }
       ],
-      "duration_ms": 281251,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/381k7MHOPFzsT27BvwoPPe"
+      "duration_ms": 552000,
+      "name": "Ruach Hakodesh",
+      "url": "https://open.spotify.com/track/31ZLMtDzOg7pyMYhlVAesz"
     },
     {
       "added_at": "2024-07-05 07:52:11",
@@ -331,6 +331,38 @@
     {
       "added_at": "2024-07-05 07:52:11",
       "album": {
+        "name": "Guide Me",
+        "url": "https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y"
+      },
+      "artists": [
+        {
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+        }
+      ],
+      "duration_ms": 227258,
+      "name": "Guide Me",
+      "url": "https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb"
+    },
+    {
+      "added_at": "2024-07-05 07:52:11",
+      "album": {
+        "name": "Owawani",
+        "url": "https://open.spotify.com/album/74ZFgjpDnKg8sF6kmIH4yq"
+      },
+      "artists": [
+        {
+          "name": "Nana Yaw Ofori-Atta",
+          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Owawani",
+      "url": "https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd"
+    },
+    {
+      "added_at": "2024-07-05 07:52:11",
+      "album": {
         "name": "A Sound from Heaven",
         "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
       },
@@ -355,38 +387,6 @@
       "duration_ms": 402782,
       "name": "Yes You Are the Lord",
       "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"
-    },
-    {
-      "added_at": "2024-07-05 07:52:11",
-      "album": {
-        "name": "Owawani",
-        "url": "https://open.spotify.com/album/74ZFgjpDnKg8sF6kmIH4yq"
-      },
-      "artists": [
-        {
-          "name": "Nana Yaw Ofori-Atta",
-          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Owawani",
-      "url": "https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd"
-    },
-    {
-      "added_at": "2024-07-05 07:52:11",
-      "album": {
-        "name": "Guide Me",
-        "url": "https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y"
-      },
-      "artists": [
-        {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
-        }
-      ],
-      "duration_ms": 227258,
-      "name": "Guide Me",
-      "url": "https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb"
     },
     {
       "added_at": "2024-07-05 07:52:11",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-07-05 07:52:11",
       "album": {
-        "name": "W'agye Me (He Has Saved Me)",
-        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
-      },
-      "artists": [
-        {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
-        }
-      ],
-      "duration_ms": 324440,
-      "name": "W' asue Me",
-      "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
-    },
-    {
-      "added_at": "2024-07-05 07:52:11",
-      "album": {
         "name": "Hosanna (Live)",
         "url": "https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 344862,
       "name": "Hossana (Live)",
       "url": "https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG"
+    },
+    {
+      "added_at": "2024-07-05 07:52:11",
+      "album": {
+        "name": "W'agye Me (He Has Saved Me)",
+        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
+      },
+      "artists": [
+        {
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
+        }
+      ],
+      "duration_ms": 324440,
+      "name": "W' asue Me",
+      "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
     },
     {
       "added_at": "2024-07-05 07:52:11",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-07-05 07:52:11",
       "album": {
-        "name": "Matwen 20",
-        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
-      },
-      "artists": [
-        {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
-        }
-      ],
-      "duration_ms": 365808,
-      "name": "Matwen 20",
-      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
-    },
-    {
-      "added_at": "2024-07-05 07:52:11",
-      "album": {
         "name": "Okrokrohene",
         "url": "https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 366107,
       "name": "Okrokrohene",
       "url": "https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q"
+    },
+    {
+      "added_at": "2024-07-05 07:52:11",
+      "album": {
+        "name": "Matwen 20",
+        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
+      },
+      "artists": [
+        {
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
+        }
+      ],
+      "duration_ms": 365808,
+      "name": "Matwen 20",
+      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
     },
     {
       "added_at": "2024-07-05 07:52:11",
@@ -811,26 +811,6 @@
     {
       "added_at": "2024-07-05 07:52:11",
       "album": {
-        "name": "Lord You are Beautiful",
-        "url": "https://open.spotify.com/album/3q9KsM7PD2M67L1tsIvzY1"
-      },
-      "artists": [
-        {
-          "name": "Perez Musik",
-          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
-        },
-        {
-          "name": "Pastor Isaiah Fosu Kwakye Jnr",
-          "url": "https://open.spotify.com/artist/0Pl2UadAMjRxVXD1YiVU1R"
-        }
-      ],
-      "duration_ms": 561739,
-      "name": "Lord You are Beautiful",
-      "url": "https://open.spotify.com/track/3qaeqyOZfezV0M0dUgQJmy"
-    },
-    {
-      "added_at": "2024-07-05 07:52:11",
-      "album": {
         "name": "Golden Oil",
         "url": "https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm"
       },
@@ -847,18 +827,22 @@
     {
       "added_at": "2024-07-05 07:52:11",
       "album": {
-        "name": "Nyansabuakwa Nyame",
-        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
+        "name": "Lord You are Beautiful",
+        "url": "https://open.spotify.com/album/3q9KsM7PD2M67L1tsIvzY1"
       },
       "artists": [
         {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+          "name": "Perez Musik",
+          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
+        },
+        {
+          "name": "Pastor Isaiah Fosu Kwakye Jnr",
+          "url": "https://open.spotify.com/artist/0Pl2UadAMjRxVXD1YiVU1R"
         }
       ],
-      "duration_ms": 356200,
-      "name": "Nyansabuakwa Nyame",
-      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
+      "duration_ms": 561739,
+      "name": "Lord You are Beautiful",
+      "url": "https://open.spotify.com/track/3qaeqyOZfezV0M0dUgQJmy"
     },
     {
       "added_at": "2024-07-05 07:52:11",
@@ -907,6 +891,22 @@
       "duration_ms": 513913,
       "name": "Onwanwani",
       "url": "https://open.spotify.com/track/4mb4OvcBCNezU9v4X9Pyv3"
+    },
+    {
+      "added_at": "2024-07-05 07:52:11",
+      "album": {
+        "name": "Nyansabuakwa Nyame",
+        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 356200,
+      "name": "Nyansabuakwa Nyame",
+      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
     }
   ],
   "unique_name": "Aseda",

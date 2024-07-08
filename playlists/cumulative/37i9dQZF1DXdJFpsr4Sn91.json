@@ -1645,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "Tireht\u00f6\u00f6ri",
+        "url": "https://open.spotify.com/album/5D0Gba4iAUAEa2O9lx8sP6"
+      },
+      "artists": [
+        {
+          "name": "Spekti",
+          "url": "https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163080,
+      "name": "Tireht\u00f6\u00f6ri",
+      "url": "https://open.spotify.com/track/3JaLpRa7UO4CdF8Q0TOJjn"
+    },
+    {
+      "album": {
         "name": "Tobey (feat. Big Sean and BabyTron)",
         "url": "https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf"
       },

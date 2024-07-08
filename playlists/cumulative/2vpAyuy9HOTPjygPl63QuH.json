@@ -1889,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "Back Again",
+        "url": "https://open.spotify.com/album/3ize34DP1QxPABL4Avoodd"
+      },
+      "artists": [
+        {
+          "name": "BURNR",
+          "url": "https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227272,
+      "name": "Back Again",
+      "url": "https://open.spotify.com/track/6TySyad9aOP0uDkBET5CDt"
+    },
+    {
+      "album": {
         "name": "Back Once Again",
         "url": "https://open.spotify.com/album/5NAxUaUf8fLUOSK56DsY9E"
       },
@@ -2534,6 +2552,24 @@
       "duration_ms": 210232,
       "name": "Bassline Pumping",
       "url": "https://open.spotify.com/track/4M11hrPXG4kOKGJoStB0QA"
+    },
+    {
+      "album": {
+        "name": "BBY",
+        "url": "https://open.spotify.com/album/6YwFFGavPEMIkBLSszOlDJ"
+      },
+      "artists": [
+        {
+          "name": "Bastian Bux",
+          "url": "https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149461,
+      "name": "BBY",
+      "url": "https://open.spotify.com/track/1uexlgfIM9HiDrIbav1R7T"
     },
     {
       "album": {
@@ -7988,7 +8024,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 171883,
       "name": "Dominator",
       "url": "https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA"
@@ -10336,7 +10372,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 230038,
       "name": "Family Set",
       "url": "https://open.spotify.com/track/0kTOSJzs4w9yAN22DXMgGx"
@@ -14322,7 +14358,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 171000,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2QxgDD3HYoNGUuwHueRWbs"
@@ -18132,7 +18168,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 184186,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/6Jxua6Khy8ULDUl1kk6g4o"
@@ -22342,7 +22378,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 162187,
       "name": "Nasty - Radio Edit",
       "url": "https://open.spotify.com/track/6IjtxgUBvllFeqYv8FAaKg"
@@ -24812,7 +24848,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 127500,
       "name": "Party People",
       "url": "https://open.spotify.com/track/5zK7shecjTiYsa55T6kgdt"
@@ -25024,6 +25060,24 @@
       "duration_ms": 204094,
       "name": "Peligrosa",
       "url": "https://open.spotify.com/track/6vY27OV1D4WIBUl87Ne6B1"
+    },
+    {
+      "album": {
+        "name": "People In The Back",
+        "url": "https://open.spotify.com/album/30M7HYEd0ywznrj92blHHH"
+      },
+      "artists": [
+        {
+          "name": "FREAK ON",
+          "url": "https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214335,
+      "name": "People In The Back",
+      "url": "https://open.spotify.com/track/1rECkEKAEgm9UqKbK4CJxF"
     },
     {
       "album": {
@@ -25319,6 +25373,24 @@
     },
     {
       "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/5sHlw3rOcrsrij8qvyyNHe"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214995,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/7KuDz1GSApiK1mQAA5bcwO"
+    },
+    {
+      "album": {
         "name": "Plata o Plomo",
         "url": "https://open.spotify.com/album/4F9rcupe4i6RkNJCdCGWTa"
       },
@@ -25414,7 +25486,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 195952,
       "name": "Playgirl",
       "url": "https://open.spotify.com/track/2jSVEKqpZeurg7TOw7rhyu"
@@ -27207,6 +27279,32 @@
     },
     {
       "album": {
+        "name": "Rich Baby Daddy",
+        "url": "https://open.spotify.com/album/110HTF5Y9YMhIPj9pmCUqe"
+      },
+      "artists": [
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        },
+        {
+          "name": "GIOC",
+          "url": "https://open.spotify.com/artist/6nqTwYWJ3UthsUrcL17OHA"
+        },
+        {
+          "name": "Eric Olliver",
+          "url": "https://open.spotify.com/artist/5uYToXpi2lLrYqV1tzxfZA"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150634,
+      "name": "Rich Baby Daddy",
+      "url": "https://open.spotify.com/track/3gfNpIwauhswUG1WB9tfHa"
+    },
+    {
+      "album": {
         "name": "RIDE OR DIE",
         "url": "https://open.spotify.com/album/2Lw8eq5CC6jraNYDoFjKSj"
       },
@@ -27466,7 +27564,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 178720,
       "name": "Rockin'",
       "url": "https://open.spotify.com/track/4Hh7h8a7S1Q0LjZFwn56lg"
@@ -29268,6 +29366,24 @@
       "duration_ms": 443076,
       "name": "Slapfunk",
       "url": "https://open.spotify.com/track/5K5wmgZvicEFdSW1E5LhAS"
+    },
+    {
+      "album": {
+        "name": "Slimed In",
+        "url": "https://open.spotify.com/album/0qsyAuCxNR0oH0j0kn5oI1"
+      },
+      "artists": [
+        {
+          "name": "Void",
+          "url": "https://open.spotify.com/artist/3giDsMv0eBesae30PimJpx"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180019,
+      "name": "Slimed In",
+      "url": "https://open.spotify.com/track/0dhnviNDqGcXwAjrGoNSbS"
     },
     {
       "album": {
@@ -32454,6 +32570,24 @@
       "duration_ms": 191250,
       "name": "The Less I know The Better - (Remix)",
       "url": "https://open.spotify.com/track/26iTrOnJ6R5FHNakUme7YT"
+    },
+    {
+      "album": {
+        "name": "The Life",
+        "url": "https://open.spotify.com/album/0OXDzuQer6RMIBeksBYEYk"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168056,
+      "name": "The Life",
+      "url": "https://open.spotify.com/track/4u9Dvrt4VSSrOPvFTu6FPb"
     },
     {
       "album": {

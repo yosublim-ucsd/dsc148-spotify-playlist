@@ -1,12 +1,12 @@
 {
-  "description": "This is Taio Cruz. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Taio Cruz. The essential tracks, all in one playlist.",
   "num_followers": 17082,
   "original_name": "This Is Taio Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zoc3gAAAAABgYLBSAO68vb7cEGR021LH",
+  "snapshot_id": "ZoiJAAAAAABtSDCUnoC2hgW/3s2jIqqY",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 202613,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TY.O (International Version)",
+        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 244906,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/5pmL3RzOy3IvGFaSDi4hZL"
     },
     {
       "added_at": null,
@@ -83,6 +103,42 @@
       "duration_ms": 218706,
       "name": "She's Like A Star",
       "url": "https://open.spotify.com/track/7KBwU1bouDcULSjHjpdoFb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "There She Goes",
+        "url": "https://open.spotify.com/album/6lIsiWfNLzYcGQE6FmwJwt"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 208611,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/5tmuKTnfayZkjDlukTz3vT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rokstarr (Special Edition)",
+        "url": "https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 187626,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/6AxCr5G75R5rqyNCYWVpTo"
     },
     {
       "added_at": null,
@@ -271,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/0iimd0kXrAa4g8wJ7piCXq"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 173119,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/3bOoVnf3pItMfU5PMossd9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
       },
@@ -395,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jersey Shore Soundtrack",
-        "url": "https://open.spotify.com/album/4tDWS8dQ6CZWysamjY9eDX"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 266413,
-      "name": "Break Your Heart - Mixin Marc And Tony Svejda Radio Edit",
-      "url": "https://open.spotify.com/track/4mVtx1WO9DmJDrYoTC17Nf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rokstarr Hits Collection",
         "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
       },
@@ -431,6 +447,26 @@
       "duration_ms": 212613,
       "name": "Come On Girl",
       "url": "https://open.spotify.com/track/5Ej3OcVHAwIMVwiLo0broE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jersey Shore Soundtrack",
+        "url": "https://open.spotify.com/album/4tDWS8dQ6CZWysamjY9eDX"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 266413,
+      "name": "Break Your Heart - Mixin Marc And Tony Svejda Radio Edit",
+      "url": "https://open.spotify.com/track/4mVtx1WO9DmJDrYoTC17Nf"
     },
     {
       "added_at": null,
@@ -467,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time For You",
-        "url": "https://open.spotify.com/album/2qSrzMIwPfV7SvbajqhGV8"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        },
-        {
-          "name": "Wonder Stereo",
-          "url": "https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn"
-        }
-      ],
-      "duration_ms": 199976,
-      "name": "Time For You",
-      "url": "https://open.spotify.com/track/7L7rl2MmkCU5I7XrTB48pB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rokstarr Hits Collection",
         "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
       },
@@ -503,6 +519,26 @@
       "duration_ms": 206253,
       "name": "Take Me Back - 2010 Remix",
       "url": "https://open.spotify.com/track/0ZnimFEb14Ciz5dvQJAQ3k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time For You",
+        "url": "https://open.spotify.com/album/2qSrzMIwPfV7SvbajqhGV8"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Wonder Stereo",
+          "url": "https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn"
+        }
+      ],
+      "duration_ms": 199976,
+      "name": "Time For You",
+      "url": "https://open.spotify.com/track/7L7rl2MmkCU5I7XrTB48pB"
     },
     {
       "added_at": null,
@@ -539,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 252613,
+      "name": "Forever Love",
+      "url": "https://open.spotify.com/track/5nYKbY6oLHEyRmt3dNlATa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/2XbDaMr4RWDAyTuDY8DxXL"
       },
@@ -555,22 +607,6 @@
       "duration_ms": 145290,
       "name": "2020",
       "url": "https://open.spotify.com/track/7oGeeRx9HHI8KAdjhM6TRQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Rokstarr Hits Collection",
-        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 252613,
-      "name": "Forever Love",
-      "url": "https://open.spotify.com/track/5nYKbY6oLHEyRmt3dNlATa"
     },
     {
       "added_at": null,
@@ -607,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Feel Again - Remastered 2010",
+      "url": "https://open.spotify.com/track/0SDV4Wvg7q19B2dQwAv2HB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/0AGt9wI36usQYCNSTd0aQK"
       },
@@ -623,22 +675,6 @@
       "duration_ms": 257213,
       "name": "Take Me Back Remix - feat. Sway & Chipmunk",
       "url": "https://open.spotify.com/track/4MqsdeW1195zZVaMDSWbvj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Rokstarr Hits Collection",
-        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Feel Again - Remastered 2010",
-      "url": "https://open.spotify.com/track/0SDV4Wvg7q19B2dQwAv2HB"
     },
     {
       "added_at": null,
@@ -695,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Higher (International)",
+        "url": "https://open.spotify.com/album/5yUpgiR2rtjl8mLBamdDyY"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "Little Lion Man - BBC Live version",
+      "url": "https://open.spotify.com/track/4VyOgFuAwUhYLFcRWWfZ7W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cryin' Over You",
         "url": "https://open.spotify.com/album/2rLPwr80ovNo3pYh0hNY0h"
       },
@@ -715,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Higher (International)",
-        "url": "https://open.spotify.com/album/5yUpgiR2rtjl8mLBamdDyY"
+        "name": "NapsterLive Sessions",
+        "url": "https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW"
       },
       "artists": [
         {
@@ -724,9 +776,9 @@
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         }
       ],
-      "duration_ms": 168160,
-      "name": "Little Lion Man - BBC Live version",
-      "url": "https://open.spotify.com/track/4VyOgFuAwUhYLFcRWWfZ7W"
+      "duration_ms": 198293,
+      "name": "Knock Me Off My Feet",
+      "url": "https://open.spotify.com/track/4tQ6lDCuP8wSL4Kmp60e3q"
     },
     {
       "added_at": null,
@@ -747,22 +799,6 @@
       "duration_ms": 280312,
       "name": "Dynamite - David May Rmx Edit",
       "url": "https://open.spotify.com/track/6akJJXxULYRHdtiaOOOIxe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NapsterLive Sessions",
-        "url": "https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Knock Me Off My Feet",
-      "url": "https://open.spotify.com/track/4tQ6lDCuP8wSL4Kmp60e3q"
     },
     {
       "added_at": null,

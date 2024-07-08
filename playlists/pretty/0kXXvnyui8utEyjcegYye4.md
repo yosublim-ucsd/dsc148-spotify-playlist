@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 
 > 
 
-[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 like - 301 songs - 17 hr 56 min
+[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 like - 300 songs - 17 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -308,6 +308,5 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 | 298 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 |
 | 299 | [Talking In Your Sleep](https://open.spotify.com/track/3l0eFaz2bSo64EyQrf1aZT) | [The Romantics](https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE) | [Their Very Best](https://open.spotify.com/album/2b7w3rpDNctRQ1xhP2ykrc) | 4:12 |
 | 300 | [Don't Copy My Flow](https://open.spotify.com/track/44HTE9IdjUk01DEAp54amH) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2), [Mwizz](https://open.spotify.com/artist/5bSeeBLmB0lRlEQk02KoeU), [George Kipa](https://open.spotify.com/artist/3ueSDQRME8RZFqJpJUEsxR) | [Don't Copy My Flow](https://open.spotify.com/album/3uxZV2XyunoLM15AMYl4au) | 2:52 |
-| 301 | [Heartless](https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [808s & Heartbreak](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU) | 3:31 |
 
-Snapshot ID: `AAADQkmbbTuhVqqljDucSwSxNaoH7v/E`
+Snapshot ID: `AAADQwtAlFNlYVKat0GFHANUxyqDq/BJ`

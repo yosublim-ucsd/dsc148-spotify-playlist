@@ -2,7 +2,7 @@
 
 ### [This Is Grupo Firme](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0F6y9e)
 
-> This Is Grupo Firme\. Los temas esenciales, todos en una lista.
+> This Is Grupo Firme\. Sus mejores éxitos, todos en una playlist.
 
 91 songs - 5 hr 17 min
 

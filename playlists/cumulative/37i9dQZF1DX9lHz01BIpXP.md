@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [3 Eye](https://open.spotify.com/track/4j9VeWjzXx53kdf4u5T7p6) | [G.1 J03 71D4](https://open.spotify.com/artist/2VhbbO8bvfyKQCa1nmKYN6) | [3 Eye](https://open.spotify.com/album/7nib0P6SMbUAc46envB1mf) | 3:36 | 2023-08-31 | 2024-06-07 |
+| [3 Eye](https://open.spotify.com/track/4j9VeWjzXx53kdf4u5T7p6) | [G.1 J03 71D4](https://open.spotify.com/artist/2VhbbO8bvfyKQCa1nmKYN6) | [3 Eye](https://open.spotify.com/album/7nib0P6SMbUAc46envB1mf) | 3:36 | 2023-08-31 |  |
 | [4EvR](https://open.spotify.com/track/7gEtSGK5PaKgh0gbT1oEXz) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [4EvR](https://open.spotify.com/album/5rEvOfwPXeii3VdzsIIWlN) | 1:28 | 2023-10-27 |  |
 | [7DeLaan](https://open.spotify.com/track/5k1dncVhfbWtifwXFGthh3) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [7DeLaan](https://open.spotify.com/album/0Uv1YoMhuM8kKIDlLfgnvJ) | 2:50 | 2023-06-08 | 2023-06-16 |
 | [Asemrowers](https://open.spotify.com/track/5gpo2x24coDr17KWjuT6Le) | [Bittereinder](https://open.spotify.com/artist/5x7rnGctpbwn7srAYLDD0F) | [Asemrowers](https://open.spotify.com/album/1qkUI57JztayVSb6ReQkTv) | 3:37 | 2022-09-08 | 2022-10-28 |
@@ -75,7 +75,7 @@
 | [Kaapstad is Myne](https://open.spotify.com/track/7I0Qxy0l32WLTLAZHIf0eT) | [Young OG CPT](https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO) | [Kaapstad is Myne](https://open.spotify.com/album/2CyG7LKG8En8K89wPskp95) | 3:29 | 2022-09-08 | 2023-08-18 |
 | [Kap aan](https://open.spotify.com/track/5n2XtFhmaonY3SMckgyyo5) | [Shameel Afrikaans Music](https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl), [Razer](https://open.spotify.com/artist/2sMjcKVLv7D15UCmacBwTY) | [Kap aan](https://open.spotify.com/album/5zGEQPji4jbD30ZY2vkA5z) | 4:21 | 2023-05-25 | 2023-06-03 |
 | [KAPTEIN \- Drill Cover](https://open.spotify.com/track/6g3hWDArIHJgWZYvcG142K) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [KAPTEIN \(Drill Cover\)](https://open.spotify.com/album/0DY95ayoc3Te7uv1UABA3q) | 1:45 | 2023-05-05 | 2023-06-03 |
-| [Klaar Praat](https://open.spotify.com/track/6knLuTcyJUQHrQCM74FqQI) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [G\-BONE](https://open.spotify.com/artist/0e0QFpFodxO9NMBJnWdfBi) | [Klaar Praat](https://open.spotify.com/album/7gbz82FKLF2FPRBGKiyBI5) | 2:08 | 2023-08-17 |  |
+| [Klaar Praat](https://open.spotify.com/track/6knLuTcyJUQHrQCM74FqQI) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [G\-BONE](https://open.spotify.com/artist/0e0QFpFodxO9NMBJnWdfBi) | [Klaar Praat](https://open.spotify.com/album/7gbz82FKLF2FPRBGKiyBI5) | 2:08 | 2023-08-17 | 2024-07-08 |
 | [Koue Bier](https://open.spotify.com/track/76jO6pxWKg26cKQUPpyH3c) | [KUIERKOORS](https://open.spotify.com/artist/7DVnGxt0tHeDtdj4vNttOw) | [Koue Bier](https://open.spotify.com/album/3VbBHp0FaHEyBTyQfskFvK) | 3:59 | 2022-09-08 | 2023-02-17 |
 | [Laaste Hond](https://open.spotify.com/track/6m54uxr3viaN4w6NfSj3YR) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P) | [Laaste Hond](https://open.spotify.com/album/1wbXY8vdl8zqVPqyr4L4RK) | 3:01 | 2024-04-05 |  |
 | [Lavis](https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL) | [Bishop Lavis](https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF) | 3:18 | 2023-10-06 |  |

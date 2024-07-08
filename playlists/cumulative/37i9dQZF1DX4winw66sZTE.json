@@ -1395,6 +1395,24 @@
     },
     {
       "album": {
+        "name": "JANUS (1)",
+        "url": "https://open.spotify.com/album/452jBX9RIZQXPZoljxU2fP"
+      },
+      "artists": [
+        {
+          "name": "BOYFRIEND",
+          "url": "https://open.spotify.com/artist/2Pw8E6zZoeuksVWtyZPnzd"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208248,
+      "name": "JANUS",
+      "url": "https://open.spotify.com/track/2TnisrTHhBfZTlfPQa2M6v"
+    },
+    {
+      "album": {
         "name": "Another Miss Oh, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW"
       },
@@ -2198,7 +2216,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 238480,
       "name": "SOBER - KR Ver.",
       "url": "https://open.spotify.com/track/6cMpMygFRbnQsI1m5oq8dp"

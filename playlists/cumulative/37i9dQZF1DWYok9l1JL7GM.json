@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The south got something to say. Cover: OutKast",
+  "description": "The south got something to say. Cover: Hot Boys",
   "name": "I Love My Down South Classics",
   "tracks": [
     {
@@ -166,7 +166,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 230693,
       "name": "ATLiens",
       "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
@@ -828,7 +828,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 447026,
       "name": "Git Up, Git Out (feat. Goodie Mob)",
       "url": "https://open.spotify.com/track/6XadDzmDVhtEQ1Itt5t8h8"
@@ -1186,6 +1186,28 @@
       "duration_ms": 240613,
       "name": "I Luv It",
       "url": "https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj"
+    },
+    {
+      "album": {
+        "name": "Guerrilla Warfare",
+        "url": "https://open.spotify.com/album/6eUYT38tLl7YwqZFJm1Ulb"
+      },
+      "artists": [
+        {
+          "name": "Hot Boys",
+          "url": "https://open.spotify.com/artist/0ecnb1WPePfrHg4yfQfmqN"
+        },
+        {
+          "name": "Big Tymers",
+          "url": "https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292840,
+      "name": "I Need A Hot Girl",
+      "url": "https://open.spotify.com/track/25CnqAR7fzAQbb2SVoSa0b"
     },
     {
       "album": {
@@ -1950,7 +1972,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 261266,
       "name": "Player's Ball",
       "url": "https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE"
@@ -2084,7 +2106,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 324373,
       "name": "Rosa Parks",
       "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
@@ -2230,7 +2252,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 261972,
       "name": "Sippin On Some Syrup (feat. UGK (Underground Kingz) & Project Pat)",
       "url": "https://open.spotify.com/track/2EduiM2UNwjCC7PsLxnOCH"
@@ -2252,7 +2274,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 228933,
       "name": "Sittin' Sidewayz (feat. Big Pokey)",
       "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
@@ -2460,7 +2482,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 317506,
       "name": "Southernplayalisticadillacmuzik",
       "url": "https://open.spotify.com/track/2pMAmZdHfQHyqJCXJbfhK3"
@@ -2784,7 +2806,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "The Way You Move (feat. Sleepy Brown)",
       "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
@@ -2954,6 +2976,24 @@
       "duration_ms": 355066,
       "name": "Wanna Be A Baller",
       "url": "https://open.spotify.com/track/6lEIjrQNwJPecJ7mMXjhjo"
+    },
+    {
+      "album": {
+        "name": "Guerrilla Warfare",
+        "url": "https://open.spotify.com/album/6eUYT38tLl7YwqZFJm1Ulb"
+      },
+      "artists": [
+        {
+          "name": "Hot Boys",
+          "url": "https://open.spotify.com/artist/0ecnb1WPePfrHg4yfQfmqN"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251240,
+      "name": "We On Fire",
+      "url": "https://open.spotify.com/track/7q5YMVbbbsEQATnv0tVctx"
     },
     {
       "album": {

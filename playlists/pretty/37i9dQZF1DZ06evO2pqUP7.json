@@ -1,13 +1,29 @@
 {
   "description": "This Is Lunay. Los temas esenciales, todos en una lista.",
-  "num_followers": 66958,
+  "num_followers": 66987,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zoc3gAAAAAAaFMNER293xudTZxaOyofd",
+  "snapshot_id": "ZoiJAAAAAABH5lNCKU9C5UFUVlXXGS6b",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gym",
+        "url": "https://open.spotify.com/album/5ctwyXD42GpDu6D2gktAz5"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 138260,
+      "name": "Gym",
+      "url": "https://open.spotify.com/track/7kVBOWAEm4YG9I0GRxbxxg"
+    },
     {
       "added_at": null,
       "album": {

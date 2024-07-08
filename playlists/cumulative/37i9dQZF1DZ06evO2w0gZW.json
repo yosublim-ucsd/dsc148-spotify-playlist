@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "This Is Mariah Carey. Los temas esenciales, todos en una lista.",
+  "description": "This is Mariah Carey. The essential tracks, all in one playlist.",
   "name": "This Is Mariah Carey",
   "tracks": [
     {
@@ -198,7 +198,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 296800,
       "name": "Breakdown (feat. Bone Thugs-n-Harmony) - The Mo' Thugs Remix",
       "url": "https://open.spotify.com/track/5XK0dMccjLSG1oVrEzN6Fz"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 209266,
       "name": "Open Arms",
       "url": "https://open.spotify.com/track/5zVY1h1jUFLhZ7fLBjMTK7"
@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 384135,
       "name": "Portrait - Hopeful Child Remix - Edit [from Audible Words + Music]",
       "url": "https://open.spotify.com/track/1wQvi47YYK1M4j7wrKe8Xw"
@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 350866,
       "name": "We Are The World - Live",
       "url": "https://open.spotify.com/track/5hqWLWK1WuNsUDJJBNwJv8"

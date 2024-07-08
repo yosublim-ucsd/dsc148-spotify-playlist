@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-451 songs - 20 hr 14 min
+452 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Fading](https://open.spotify.com/track/07mZVJUp6D5EfIdeEHuUFT) | [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Fading](https://open.spotify.com/album/6CGsB67ZpcBnvErNxmrOeq) | 2:03 | 2024-02-02 | 2024-03-16 |
 | [Fairytale](https://open.spotify.com/track/3x9XuWtvk2hqSH6olPcoJZ) | [Lake Matisse](https://open.spotify.com/artist/4UNdUzuLNX9a47ElW0Xb0O), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [Fairytale](https://open.spotify.com/album/0pmtrehbZ9elW5g6Lg3Tqy) | 2:18 | 2024-05-27 | 2024-06-24 |
 | [Fallen Angel](https://open.spotify.com/track/0SxkdPdZ6ebgVXnHM0sNKL) | [Vall](https://open.spotify.com/artist/1nn5V08qmK0rKqWX5tFBac), [JAIKO](https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT) | [Fallen Angel](https://open.spotify.com/album/2Xyegzw6FxTxqOAkHnkD14) | 3:05 | 2024-06-15 |  |
-| [Fallin' Apart](https://open.spotify.com/track/19ATI8arQ4ChLZdAjYahEd) | [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41) | [Fallin' Apart](https://open.spotify.com/album/2VtVtSPCjL9IGb2g6sHe5X) | 2:40 | 2024-06-07 |  |
+| [Fallin' Apart](https://open.spotify.com/track/19ATI8arQ4ChLZdAjYahEd) | [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41) | [Fallin' Apart](https://open.spotify.com/album/2VtVtSPCjL9IGb2g6sHe5X) | 2:40 | 2024-06-07 | 2024-07-08 |
+| [Falling](https://open.spotify.com/track/4UIKI2Ns16mUFzVR5Sihaa) | [Acn8](https://open.spotify.com/artist/2IbncNoCxJ50juRLTJdI6D) | [Falling](https://open.spotify.com/album/6OgXdIKnRhyW1uo6aZdhkz) | 2:21 | 2024-07-07 |  |
 | [Falling in Yøur Eyes](https://open.spotify.com/track/2ZJoEnWdNGIRt67sDAIPEE) | [birø](https://open.spotify.com/artist/4hKPAbYSJKUQtFMSjCOXcO) | [Falling in Yøur Eyes](https://open.spotify.com/album/5S7kz10Q5bFBEg1tuzMGlM) | 2:30 | 2024-04-05 | 2024-05-03 |
 | [Fast Car](https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:32 | 2023-12-04 |  |
 | [Favorites](https://open.spotify.com/track/5XpuDzQLDP7utc4f2Q1D4Y) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Favorites](https://open.spotify.com/album/2JZnI7uhBUutURbguB82un) | 2:00 | 2023-12-22 |  |
@@ -403,7 +404,7 @@
 | [Tidal Waves](https://open.spotify.com/track/0XEu3Se2tnb8OZLIAYADLp) | [Sol Novaro](https://open.spotify.com/artist/7uWyUhtmPeGAg3ylpXE3yq) | [Tidal Waves](https://open.spotify.com/album/6B1e7rBuhmkGKJcw0vTDzF) | 3:00 | 2024-05-10 | 2024-06-15 |
 | [Time](https://open.spotify.com/track/6zl5JE4GUO62MI9cNwPlM9) | [Vertefeuille](https://open.spotify.com/artist/3gXakrGYirVsWpOVlEmOaO), [Jamie Scott](https://open.spotify.com/artist/3GmfV6ZlTLGA669yMuLplT) | [Time](https://open.spotify.com/album/6aaB0u4HjckfpUZXj1aYQG) | 2:32 | 2024-06-21 |  |
 | [Time After Time](https://open.spotify.com/track/3zYBfVC5Fo17ICTMJwqNKP) | [UNDRESSD](https://open.spotify.com/artist/6t9ucCmbp0yzfgKpSLl7XL), [Ellie May](https://open.spotify.com/artist/4PoDl8ZLsbbdeNBrEC1eSH) | [Time After Time](https://open.spotify.com/album/5owRtbpRDsnelDFrc2SQfd) | 2:42 | 2024-01-18 |  |
-| [Tonight Tonight \- Foínix & Rolipso Remix](https://open.spotify.com/track/50x4eal0OI1SH2QCsNkbNN) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Tonight Tonight \(Foínix & Rolipso Remix\)](https://open.spotify.com/album/3UNuH2lpykuddnTjOZfqiY) | 3:07 | 2024-07-05 |  |
+| [Tonight Tonight \- Foínix & Rolipso Remix](https://open.spotify.com/track/50x4eal0OI1SH2QCsNkbNN) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Tonight Tonight \(Foínix & Rolipso Remix\)](https://open.spotify.com/album/3UNuH2lpykuddnTjOZfqiY) | 3:07 | 2024-07-05 | 2024-07-08 |
 | [Too Close To The Sun](https://open.spotify.com/track/0WP3QMSlCSxzVBaSwWu3W1) | [Portugal Sunset](https://open.spotify.com/artist/0VYkVtNVpg4A825DoAqgXF) | [Too Close To The Sun](https://open.spotify.com/album/5gQFLxWm8vJhkUnO4aiNd4) | 2:23 | 2024-05-08 |  |
 | [Too Far](https://open.spotify.com/track/0YcWHKlu5Oww4XVqmXRqBl) | [S3S](https://open.spotify.com/artist/0av9yMRjEnYSRdv3gKLxpq) | [Too Far](https://open.spotify.com/album/0m77ED5GnJOSKo8RxY5iEK) | 1:58 | 2022-12-29 |  |
 | [Toxic](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Toxic](https://open.spotify.com/album/0R1aq1YgsnJurqpwiaKuMp) | 3:06 | 2024-03-15 | 2024-04-15 |

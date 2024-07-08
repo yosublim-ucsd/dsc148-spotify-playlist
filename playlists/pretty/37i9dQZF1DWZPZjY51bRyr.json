@@ -1,6 +1,6 @@
 {
   "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
-  "num_followers": 34087,
+  "num_followers": 34118,
   "original_name": "Wellness",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Through The Changes",
-        "url": "https://open.spotify.com/album/515aroNRt3KAYBvyF9NIns"
-      },
-      "artists": [
-        {
-          "name": "Uli Jons",
-          "url": "https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU"
-        }
-      ],
-      "duration_ms": 209708,
-      "name": "Through The Changes",
-      "url": "https://open.spotify.com/track/101jUm7J6B3zxVOezYJofl"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Leuchten",
         "url": "https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j"
       },
@@ -619,22 +603,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "The Heritage",
-        "url": "https://open.spotify.com/album/6w1fsIcKWcNijRIEuXl60k"
-      },
-      "artists": [
-        {
-          "name": "Logan Ronfeld",
-          "url": "https://open.spotify.com/artist/0pVfP276c80iwVhymewTp9"
-        }
-      ],
-      "duration_ms": 216063,
-      "name": "The Heritage",
-      "url": "https://open.spotify.com/track/66AA3dPMsQt3C0h9zUGejQ"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Clear Mind - 432 Hz",
         "url": "https://open.spotify.com/album/6HKa2Okr1EpZfHFBTrtqTM"
       },
@@ -647,6 +615,38 @@
       "duration_ms": 171750,
       "name": "Clear Mind - 432 Hz",
       "url": "https://open.spotify.com/track/7w5rZvkQ9OH6aW0uKvD4xA"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Through The Changes",
+        "url": "https://open.spotify.com/album/515aroNRt3KAYBvyF9NIns"
+      },
+      "artists": [
+        {
+          "name": "Uli Jons",
+          "url": "https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU"
+        }
+      ],
+      "duration_ms": 209708,
+      "name": "Through The Changes",
+      "url": "https://open.spotify.com/track/101jUm7J6B3zxVOezYJofl"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "The Heritage",
+        "url": "https://open.spotify.com/album/6w1fsIcKWcNijRIEuXl60k"
+      },
+      "artists": [
+        {
+          "name": "Logan Ronfeld",
+          "url": "https://open.spotify.com/artist/0pVfP276c80iwVhymewTp9"
+        }
+      ],
+      "duration_ms": 216063,
+      "name": "The Heritage",
+      "url": "https://open.spotify.com/track/66AA3dPMsQt3C0h9zUGejQ"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "In Everness",
-        "url": "https://open.spotify.com/album/3askarTMsTIOOiFy338QD0"
-      },
-      "artists": [
-        {
-          "name": "Pranayama Squad",
-          "url": "https://open.spotify.com/artist/4Fn6NIKAqZ7P7kUG39RG7w"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "In Everness",
-      "url": "https://open.spotify.com/track/7LnvQlr3FHWlmiCqDDbXOh"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Treetop Whisperer",
         "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Beneath The Waves",
-        "url": "https://open.spotify.com/album/1q3YBwjO55Cwlx5oRZnT17"
+        "name": "In Everness",
+        "url": "https://open.spotify.com/album/3askarTMsTIOOiFy338QD0"
       },
       "artists": [
         {
-          "name": "Joborja Perc",
-          "url": "https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8"
+          "name": "Pranayama Squad",
+          "url": "https://open.spotify.com/artist/4Fn6NIKAqZ7P7kUG39RG7w"
         }
       ],
-      "duration_ms": 186571,
-      "name": "Blue Reef",
-      "url": "https://open.spotify.com/track/5yBb7oxuiAdSsNZE0khsWi"
+      "duration_ms": 205500,
+      "name": "In Everness",
+      "url": "https://open.spotify.com/track/7LnvQlr3FHWlmiCqDDbXOh"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -919,6 +903,22 @@
       "duration_ms": 182361,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Beneath The Waves",
+        "url": "https://open.spotify.com/album/1q3YBwjO55Cwlx5oRZnT17"
+      },
+      "artists": [
+        {
+          "name": "Joborja Perc",
+          "url": "https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8"
+        }
+      ],
+      "duration_ms": 186571,
+      "name": "Blue Reef",
+      "url": "https://open.spotify.com/track/5yBb7oxuiAdSsNZE0khsWi"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "528 Hz \u2013 Delta",
-        "url": "https://open.spotify.com/album/2eVww2WQchoorYqZJVwHEM"
-      },
-      "artists": [
-        {
-          "name": "Bernie Longo",
-          "url": "https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1"
-        }
-      ],
-      "duration_ms": 129705,
-      "name": "528 Hz \u2013 Delta",
-      "url": "https://open.spotify.com/track/2aO8jdjLcUEv7yfEdjdpGL"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Ananda",
         "url": "https://open.spotify.com/album/0veARGclLULEvfaKbbLr0H"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 195643,
       "name": "Dreamlike",
       "url": "https://open.spotify.com/track/1wBtIlZCG7Y40MNKaklcxe"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "528 Hz \u2013 Delta",
+        "url": "https://open.spotify.com/album/2eVww2WQchoorYqZJVwHEM"
+      },
+      "artists": [
+        {
+          "name": "Bernie Longo",
+          "url": "https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1"
+        }
+      ],
+      "duration_ms": 129705,
+      "name": "528 Hz \u2013 Delta",
+      "url": "https://open.spotify.com/track/2aO8jdjLcUEv7yfEdjdpGL"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "A Time To Pause",
-        "url": "https://open.spotify.com/album/0yaKnDd0uVsKTvq8h2gWbE"
-      },
-      "artists": [
-        {
-          "name": "Sierra Rubio",
-          "url": "https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM"
-        }
-      ],
-      "duration_ms": 214869,
-      "name": "A Time To Pause",
-      "url": "https://open.spotify.com/track/65cWxl3AnLKcTBetEQ4Bjt"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Into The Present",
         "url": "https://open.spotify.com/album/651DX77ds7jckVS1NRH22G"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 199158,
       "name": "Into The Present",
       "url": "https://open.spotify.com/track/5rG57MF8yK7wej6MRlHjs1"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "A Time To Pause",
+        "url": "https://open.spotify.com/album/0yaKnDd0uVsKTvq8h2gWbE"
+      },
+      "artists": [
+        {
+          "name": "Sierra Rubio",
+          "url": "https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM"
+        }
+      ],
+      "duration_ms": 214869,
+      "name": "A Time To Pause",
+      "url": "https://open.spotify.com/track/65cWxl3AnLKcTBetEQ4Bjt"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Rishis",
-        "url": "https://open.spotify.com/album/4wsw80EuYCSMlsPy4xT2L2"
-      },
-      "artists": [
-        {
-          "name": "Skye Saraswati",
-          "url": "https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3"
-        }
-      ],
-      "duration_ms": 203310,
-      "name": "Rishis",
-      "url": "https://open.spotify.com/track/7G2xLyRHac8eH0qhMPDnl0"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Ancient Prayer",
         "url": "https://open.spotify.com/album/3LE4gWyOF5hlKHKDaVJUTA"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 176796,
       "name": "Ancient Prayer",
       "url": "https://open.spotify.com/track/23c2OduSVIcipPMd9q00Fi"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Rishis",
+        "url": "https://open.spotify.com/album/4wsw80EuYCSMlsPy4xT2L2"
+      },
+      "artists": [
+        {
+          "name": "Skye Saraswati",
+          "url": "https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3"
+        }
+      ],
+      "duration_ms": 203310,
+      "name": "Rishis",
+      "url": "https://open.spotify.com/track/7G2xLyRHac8eH0qhMPDnl0"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/1F8ju3Aa5Hs5HMKFlOspIW"
-      },
-      "artists": [
-        {
-          "name": "Hontoni",
-          "url": "https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4"
-        }
-      ],
-      "duration_ms": 150250,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/1lyx5JqEMGDdRJIwLcBv1D"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Finding Enoughness",
         "url": "https://open.spotify.com/album/7akNfkNma1LN0Id4yDfBgl"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 142312,
       "name": "Finding Enoughness",
       "url": "https://open.spotify.com/track/23aFD6OAXEzALKUdUs8kz9"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/1F8ju3Aa5Hs5HMKFlOspIW"
+      },
+      "artists": [
+        {
+          "name": "Hontoni",
+          "url": "https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4"
+        }
+      ],
+      "duration_ms": 150250,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/1lyx5JqEMGDdRJIwLcBv1D"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Flute Healing",
-        "url": "https://open.spotify.com/album/2WLGdW54SxOEUfwt8cKN64"
-      },
-      "artists": [
-        {
-          "name": "Johan Davidsson",
-          "url": "https://open.spotify.com/artist/0i70m6QJcItJ6uOmxZwuWi"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Flute Healing",
-      "url": "https://open.spotify.com/track/1maXwY21BGb8odKKutfKGw"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Somniloquy",
         "url": "https://open.spotify.com/album/6lOI8rbllxX6g7LMYmg3ca"
       },
@@ -2107,18 +2091,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Travel Through Time",
-        "url": "https://open.spotify.com/album/0XqN1uf1gz5Ts00H9slDZS"
+        "name": "Flute Healing",
+        "url": "https://open.spotify.com/album/2WLGdW54SxOEUfwt8cKN64"
       },
       "artists": [
         {
-          "name": "Sonic Ark",
-          "url": "https://open.spotify.com/artist/64yr5oBBkL3KiDfT9eexN1"
+          "name": "Johan Davidsson",
+          "url": "https://open.spotify.com/artist/0i70m6QJcItJ6uOmxZwuWi"
         }
       ],
-      "duration_ms": 200367,
-      "name": "Travel Through Time",
-      "url": "https://open.spotify.com/track/7gYM2J1zY4dHV2TSWBULEJ"
+      "duration_ms": 161250,
+      "name": "Flute Healing",
+      "url": "https://open.spotify.com/track/1maXwY21BGb8odKKutfKGw"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2139,18 +2123,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "A\u00fan",
-        "url": "https://open.spotify.com/album/6vMZ7NEoCkORl8R20IXYGq"
+        "name": "Travel Through Time",
+        "url": "https://open.spotify.com/album/0XqN1uf1gz5Ts00H9slDZS"
       },
       "artists": [
         {
-          "name": "Didio Carri\u00f3n",
-          "url": "https://open.spotify.com/artist/1poC0V8QpqJPeO3ogJw0zw"
+          "name": "Sonic Ark",
+          "url": "https://open.spotify.com/artist/64yr5oBBkL3KiDfT9eexN1"
         }
       ],
-      "duration_ms": 184000,
-      "name": "A\u00fan",
-      "url": "https://open.spotify.com/track/45o1tTvcokwroBi9TR5qfv"
+      "duration_ms": 200367,
+      "name": "Travel Through Time",
+      "url": "https://open.spotify.com/track/7gYM2J1zY4dHV2TSWBULEJ"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2171,6 +2155,22 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
+        "name": "A\u00fan",
+        "url": "https://open.spotify.com/album/6vMZ7NEoCkORl8R20IXYGq"
+      },
+      "artists": [
+        {
+          "name": "Didio Carri\u00f3n",
+          "url": "https://open.spotify.com/artist/1poC0V8QpqJPeO3ogJw0zw"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "A\u00fan",
+      "url": "https://open.spotify.com/track/45o1tTvcokwroBi9TR5qfv"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
         "name": "Descend",
         "url": "https://open.spotify.com/album/4alXFRYsK4de9Ee7J7Vg7n"
       },
@@ -2183,6 +2183,22 @@
       "duration_ms": 166000,
       "name": "Descend",
       "url": "https://open.spotify.com/track/50JAwhngZgAwl5WmmfuCpM"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Calm Cosmos",
+        "url": "https://open.spotify.com/album/7wUSmY0F0eoFd5pa644lvE"
+      },
+      "artists": [
+        {
+          "name": "Franz Emerald",
+          "url": "https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv"
+        }
+      ],
+      "duration_ms": 137250,
+      "name": "Calm Cosmos",
+      "url": "https://open.spotify.com/track/2lrjDsy5PFchhGWXgDkDMG"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2215,22 +2231,6 @@
       "duration_ms": 158504,
       "name": "Forest Birds (432 Hz)",
       "url": "https://open.spotify.com/track/0D2BU6MNxuMXLATPvRr0z8"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
-        "name": "Calm Cosmos",
-        "url": "https://open.spotify.com/album/7wUSmY0F0eoFd5pa644lvE"
-      },
-      "artists": [
-        {
-          "name": "Franz Emerald",
-          "url": "https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv"
-        }
-      ],
-      "duration_ms": 137250,
-      "name": "Calm Cosmos",
-      "url": "https://open.spotify.com/track/2lrjDsy5PFchhGWXgDkDMG"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2379,18 +2379,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Convergence",
-        "url": "https://open.spotify.com/album/6T3aTAlvUxsgTqKoRhRLr9"
+        "name": "Samadhi",
+        "url": "https://open.spotify.com/album/4RScghswP6gs1x9JW40gfB"
       },
       "artists": [
         {
-          "name": "Logan Ronfeld",
-          "url": "https://open.spotify.com/artist/0pVfP276c80iwVhymewTp9"
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
         }
       ],
-      "duration_ms": 198529,
-      "name": "Convergence",
-      "url": "https://open.spotify.com/track/1MJC0r9sxYQkFWpoZ1thTk"
+      "duration_ms": 160759,
+      "name": "Sakshi / Witness",
+      "url": "https://open.spotify.com/track/6Axf5ANnyyIzYqr45TlclM"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2407,6 +2407,22 @@
       "duration_ms": 136820,
       "name": "Lush",
       "url": "https://open.spotify.com/track/5SDlIDE7MvKEEfUwPvXrvN"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Convergence",
+        "url": "https://open.spotify.com/album/6T3aTAlvUxsgTqKoRhRLr9"
+      },
+      "artists": [
+        {
+          "name": "Logan Ronfeld",
+          "url": "https://open.spotify.com/artist/0pVfP276c80iwVhymewTp9"
+        }
+      ],
+      "duration_ms": 198529,
+      "name": "Convergence",
+      "url": "https://open.spotify.com/track/1MJC0r9sxYQkFWpoZ1thTk"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2455,22 +2471,6 @@
       "duration_ms": 240000,
       "name": "Sparrow Cloud",
       "url": "https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
-        "name": "Samadhi",
-        "url": "https://open.spotify.com/album/4RScghswP6gs1x9JW40gfB"
-      },
-      "artists": [
-        {
-          "name": "RE:LX",
-          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
-        }
-      ],
-      "duration_ms": 160759,
-      "name": "Sakshi / Witness",
-      "url": "https://open.spotify.com/track/6Axf5ANnyyIzYqr45TlclM"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2715,18 +2715,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Comfortable Ease",
-        "url": "https://open.spotify.com/album/2C6fwWe4cy1meGy8m8nof0"
+        "name": "There And Back",
+        "url": "https://open.spotify.com/album/76UGD3zDbzEHjbTKkbSpYL"
       },
       "artists": [
         {
-          "name": "Leigh Erin",
-          "url": "https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg"
+          "name": "Phanari",
+          "url": "https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg"
         }
       ],
-      "duration_ms": 116363,
-      "name": "Comfortable Ease",
-      "url": "https://open.spotify.com/track/4bjaDDWTwOAEL7kFAnpy4R"
+      "duration_ms": 173814,
+      "name": "There And Back",
+      "url": "https://open.spotify.com/track/2kH1pkg3I1Z0dk5zcOlXYu"
     }
   ],
   "unique_name": "Wellness (2)",

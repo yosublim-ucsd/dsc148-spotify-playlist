@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5boXKbYwAF.md) - [plain]
 
 > Music from "The Imaginary"\. スタジオポノック最新作「屋根裏のラジャー 」の楽曲を1つのプレイリストで。　© 2023 Ponoc
 
-[Spotify](https://open.spotify.com/user/spotify) - 410 likes - 54 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 412 likes - 54 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

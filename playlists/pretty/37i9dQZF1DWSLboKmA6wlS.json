@@ -91,26 +91,6 @@
     {
       "added_at": "2024-07-05 11:17:16",
       "album": {
-        "name": "0",
-        "url": "https://open.spotify.com/album/4V03QskDroW8KDabI6kLYS"
-      },
-      "artists": [
-        {
-          "name": "Romancerr",
-          "url": "https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X"
-        },
-        {
-          "name": "HARTBEAT",
-          "url": "https://open.spotify.com/artist/3rrcZ4qOsOshvqlSIlK36q"
-        }
-      ],
-      "duration_ms": 232071,
-      "name": "0",
-      "url": "https://open.spotify.com/track/0r2bwvtnNhPqfvowmoNLEX"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
         "name": "\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01\u0e01\u0e47\u0e41\u0e04\u0e48\u0e1a\u0e2d\u0e01",
         "url": "https://open.spotify.com/album/6o0TKCiDuqvZ62YHF0zlIA"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 171727,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e0a\u0e2d\u0e23\u0e4c",
       "url": "https://open.spotify.com/track/5zwKWwqOv5Uf9r6WroyU0G"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
+        "name": "0",
+        "url": "https://open.spotify.com/album/4V03QskDroW8KDabI6kLYS"
+      },
+      "artists": [
+        {
+          "name": "Romancerr",
+          "url": "https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X"
+        },
+        {
+          "name": "HARTBEAT",
+          "url": "https://open.spotify.com/artist/3rrcZ4qOsOshvqlSIlK36q"
+        }
+      ],
+      "duration_ms": 232071,
+      "name": "0",
+      "url": "https://open.spotify.com/track/0r2bwvtnNhPqfvowmoNLEX"
     },
     {
       "added_at": "2024-07-05 11:17:16",
@@ -283,6 +283,54 @@
     {
       "added_at": "2024-07-05 11:17:16",
       "album": {
+        "name": "\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\u0e44\u0e21\u0e48\u0e40\u0e17\u0e48\u0e32\u0e01\u0e31\u0e19 (Asymmetry)",
+        "url": "https://open.spotify.com/album/3hn1fbiJeTMo4CPIxW5uVD"
+      },
+      "artists": [
+        {
+          "name": "OABNITHI",
+          "url": "https://open.spotify.com/artist/0POiRdWHPEPL1bhVAyLpAv"
+        }
+      ],
+      "duration_ms": 285847,
+      "name": "\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\u0e44\u0e21\u0e48\u0e40\u0e17\u0e48\u0e32\u0e01\u0e31\u0e19 (Asymmetry)",
+      "url": "https://open.spotify.com/track/7s7PEFABIXXKq2gJBYeFs5"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
+        "name": "\u0e08\u0e32\u0e01\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19",
+        "url": "https://open.spotify.com/album/6mjFCfCHUe17B3opy0FulL"
+      },
+      "artists": [
+        {
+          "name": "TWINSHOUSE",
+          "url": "https://open.spotify.com/artist/35DKkzJ2J2lRoLrgnoAhuD"
+        }
+      ],
+      "duration_ms": 267750,
+      "name": "\u0e08\u0e32\u0e01\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19",
+      "url": "https://open.spotify.com/track/22NejFlrIPRARMMKZRke5A"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
+        "name": "When you cry, I cry",
+        "url": "https://open.spotify.com/album/5XhRRYSmXmx6oEHgJM72vk"
+      },
+      "artists": [
+        {
+          "name": "CURS",
+          "url": "https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV"
+        }
+      ],
+      "duration_ms": 279328,
+      "name": "\u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Gone)",
+      "url": "https://open.spotify.com/track/72lDaQUobAhzEcOXR4dHdL"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
         "name": "\u0e16\u0e32\u0e21\u0e14\u0e39\u0e40\u0e09\u0e22\u0e46 (Friend?)",
         "url": "https://open.spotify.com/album/6cb2Mu3i3S68BFZ4dFkM2r"
       },
@@ -351,22 +399,6 @@
     {
       "added_at": "2024-07-05 11:17:16",
       "album": {
-        "name": "\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\u0e44\u0e21\u0e48\u0e40\u0e17\u0e48\u0e32\u0e01\u0e31\u0e19 (Asymmetry)",
-        "url": "https://open.spotify.com/album/3hn1fbiJeTMo4CPIxW5uVD"
-      },
-      "artists": [
-        {
-          "name": "OABNITHI",
-          "url": "https://open.spotify.com/artist/0POiRdWHPEPL1bhVAyLpAv"
-        }
-      ],
-      "duration_ms": 285847,
-      "name": "\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\u0e44\u0e21\u0e48\u0e40\u0e17\u0e48\u0e32\u0e01\u0e31\u0e19 (Asymmetry)",
-      "url": "https://open.spotify.com/track/7s7PEFABIXXKq2gJBYeFs5"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
         "name": "\u0e19\u0e49\u0e33\u0e17\u0e48\u0e27\u0e21\u0e42\u0e25\u0e01",
         "url": "https://open.spotify.com/album/0Nzoxu1V4ngrhR3ukgPgn1"
       },
@@ -399,22 +431,6 @@
     {
       "added_at": "2024-07-05 11:17:16",
       "album": {
-        "name": "Coming of Happiless | Finding for Happiness",
-        "url": "https://open.spotify.com/album/6hr6ikNKRJqncbDPe0CrBe"
-      },
-      "artists": [
-        {
-          "name": "LAILIN",
-          "url": "https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh"
-        }
-      ],
-      "duration_ms": 292375,
-      "name": "\u0e42\u0e25\u0e01\u0e43\u0e1a\u0e43\u0e2b\u0e21\u0e48 | The Art of Escaping",
-      "url": "https://open.spotify.com/track/5S4JbIVrXWWw1mhvepnmXK"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
         "name": "\u0e23\u0e31\u0e1a\u0e1a\u0e17\u0e40\u0e1b\u0e47\u0e19\u0e2b\u0e21\u0e2d (Your Doctor)",
         "url": "https://open.spotify.com/album/5ft7cj1WQoCYqOQTOFeU5w"
       },
@@ -431,178 +447,18 @@
     {
       "added_at": "2024-07-05 11:17:16",
       "album": {
-        "name": "Breakfast In Bed",
-        "url": "https://open.spotify.com/album/7HRutxsGmxnKc5eTvER1Mf"
+        "name": "Coming of Happiless | Finding for Happiness",
+        "url": "https://open.spotify.com/album/6hr6ikNKRJqncbDPe0CrBe"
       },
       "artists": [
         {
-          "name": "GRAPH OSATEE",
-          "url": "https://open.spotify.com/artist/7hGI52Fu2cXSDeG17LWa49"
+          "name": "LAILIN",
+          "url": "https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh"
         }
       ],
-      "duration_ms": 203773,
-      "name": "Breakfast In Bed",
-      "url": "https://open.spotify.com/track/3hziNMQt3oQky7J4uOePgK"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
-        "name": "\u0e08\u0e32\u0e01\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19",
-        "url": "https://open.spotify.com/album/6mjFCfCHUe17B3opy0FulL"
-      },
-      "artists": [
-        {
-          "name": "TWINSHOUSE",
-          "url": "https://open.spotify.com/artist/35DKkzJ2J2lRoLrgnoAhuD"
-        }
-      ],
-      "duration_ms": 267750,
-      "name": "\u0e08\u0e32\u0e01\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19",
-      "url": "https://open.spotify.com/track/22NejFlrIPRARMMKZRke5A"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
-        "name": "When you cry, I cry",
-        "url": "https://open.spotify.com/album/5XhRRYSmXmx6oEHgJM72vk"
-      },
-      "artists": [
-        {
-          "name": "CURS",
-          "url": "https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV"
-        }
-      ],
-      "duration_ms": 279328,
-      "name": "\u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Gone)",
-      "url": "https://open.spotify.com/track/72lDaQUobAhzEcOXR4dHdL"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
-        "name": "\u0e0a\u0e49\u0e32\u0e44\u0e1b (Too Late)",
-        "url": "https://open.spotify.com/album/75FN1uqm449c1JEItTcUjO"
-      },
-      "artists": [
-        {
-          "name": "PUN-PUN",
-          "url": "https://open.spotify.com/artist/2lPHLXULREX2QsWoWTv3wi"
-        }
-      ],
-      "duration_ms": 193097,
-      "name": "\u0e0a\u0e49\u0e32\u0e44\u0e1b (Too Late)",
-      "url": "https://open.spotify.com/track/3EkyheZ4AxNrN7tl7yp9T9"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
-        "name": "Treatment",
-        "url": "https://open.spotify.com/album/3OUxXSod1Cy4sGGobd3oT5"
-      },
-      "artists": [
-        {
-          "name": "spingy",
-          "url": "https://open.spotify.com/artist/65IgDP0KdfVt1klR6BzPl6"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "Treatment",
-      "url": "https://open.spotify.com/track/1iQJMlUjqX1HkViUpv4Fog"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
-        "name": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e17\u0e35\u0e48\u0e44\u0e14\u0e49\u0e08\u0e32\u0e01(\u0e25\u0e32)",
-        "url": "https://open.spotify.com/album/5ejjRhYbOurcyaGkstwjC0"
-      },
-      "artists": [
-        {
-          "name": "Planfor?",
-          "url": "https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ"
-        }
-      ],
-      "duration_ms": 296376,
-      "name": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e17\u0e35\u0e48\u0e44\u0e14\u0e49\u0e08\u0e32\u0e01(\u0e25\u0e32)",
-      "url": "https://open.spotify.com/track/5jJt7NSLkYSB2g4j5bqf2P"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
-        "name": "\u0e41\u0e23\u0e01\u0e40\u0e08\u0e2d",
-        "url": "https://open.spotify.com/album/0CR7eQ3a7E2ZZ8sM9NeR91"
-      },
-      "artists": [
-        {
-          "name": "Jerr Pacharapong",
-          "url": "https://open.spotify.com/artist/4W1MyuQqIYAIPCxnoengS1"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "\u0e41\u0e23\u0e01\u0e40\u0e08\u0e2d",
-      "url": "https://open.spotify.com/track/7q3VBv13L5oA1O0GzjB6nP"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
-        "name": "\u0e0a\u0e49\u0e32 \u0e0a\u0e49\u0e32",
-        "url": "https://open.spotify.com/album/2HqWTCJO6JLBsdtQh8Tidg"
-      },
-      "artists": [
-        {
-          "name": "Sammy Niche",
-          "url": "https://open.spotify.com/artist/0bkxH1RCphAw0Eyen9gJwp"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "\u0e0a\u0e49\u0e32 \u0e0a\u0e49\u0e32",
-      "url": "https://open.spotify.com/track/0UwJpXCDjXWUhKlxB5NDvQ"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
-        "name": "\u0e27\u0e19\u0e40\u0e27\u0e35\u0e22\u0e19",
-        "url": "https://open.spotify.com/album/1xNrabWD3A7IWZfQXshHrw"
-      },
-      "artists": [
-        {
-          "name": "WhiteWall",
-          "url": "https://open.spotify.com/artist/5qAbOrxdhABKGolvpd0wyi"
-        }
-      ],
-      "duration_ms": 234838,
-      "name": "\u0e27\u0e19\u0e40\u0e27\u0e35\u0e22\u0e19",
-      "url": "https://open.spotify.com/track/4OHpbTzBZwrPq4y6RgNWPI"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
-        "name": "\u0e01\u0e2d\u0e07\u0e44\u0e1f\u0e01\u0e31\u0e1a\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
-        "url": "https://open.spotify.com/album/21NoQVVF6yMW2F3dbNphx0"
-      },
-      "artists": [
-        {
-          "name": "NUTCHY",
-          "url": "https://open.spotify.com/artist/1qDMB8sv51LlelJYkLGY8h"
-        }
-      ],
-      "duration_ms": 228482,
-      "name": "\u0e01\u0e2d\u0e07\u0e44\u0e1f\u0e01\u0e31\u0e1a\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
-      "url": "https://open.spotify.com/track/1PfzxRggqPZGt6XrgPa4JP"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
-        "name": "\u0e17\u0e35\u0e48\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e14\u0e49\u0e27\u0e22\u0e2d\u0e30\u0e44\u0e23 (Hmm?)",
-        "url": "https://open.spotify.com/album/5O4nmaB8PUEfOoPNOccUOE"
-      },
-      "artists": [
-        {
-          "name": "PUIMEKSTER",
-          "url": "https://open.spotify.com/artist/1J4CZAHBaCdOr4hGth4K9i"
-        }
-      ],
-      "duration_ms": 192333,
-      "name": "\u0e17\u0e35\u0e48\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e14\u0e49\u0e27\u0e22\u0e2d\u0e30\u0e44\u0e23 (Hmm?)",
-      "url": "https://open.spotify.com/track/3Jhq8HOFnw3flXQrEGVped"
+      "duration_ms": 292375,
+      "name": "\u0e42\u0e25\u0e01\u0e43\u0e1a\u0e43\u0e2b\u0e21\u0e48 | The Art of Escaping",
+      "url": "https://open.spotify.com/track/5S4JbIVrXWWw1mhvepnmXK"
     },
     {
       "added_at": "2024-07-05 11:17:16",
@@ -623,6 +479,182 @@
     {
       "added_at": "2024-07-05 11:17:16",
       "album": {
+        "name": "Breakfast In Bed",
+        "url": "https://open.spotify.com/album/7HRutxsGmxnKc5eTvER1Mf"
+      },
+      "artists": [
+        {
+          "name": "GRAPH OSATEE",
+          "url": "https://open.spotify.com/artist/7hGI52Fu2cXSDeG17LWa49"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "Breakfast In Bed",
+      "url": "https://open.spotify.com/track/3hziNMQt3oQky7J4uOePgK"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
+        "name": "\u0e17\u0e35\u0e48\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e14\u0e49\u0e27\u0e22\u0e2d\u0e30\u0e44\u0e23 (Hmm?)",
+        "url": "https://open.spotify.com/album/5O4nmaB8PUEfOoPNOccUOE"
+      },
+      "artists": [
+        {
+          "name": "PUIMEKSTER",
+          "url": "https://open.spotify.com/artist/1J4CZAHBaCdOr4hGth4K9i"
+        }
+      ],
+      "duration_ms": 192333,
+      "name": "\u0e17\u0e35\u0e48\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e14\u0e49\u0e27\u0e22\u0e2d\u0e30\u0e44\u0e23 (Hmm?)",
+      "url": "https://open.spotify.com/track/3Jhq8HOFnw3flXQrEGVped"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
+        "name": "Treatment",
+        "url": "https://open.spotify.com/album/3OUxXSod1Cy4sGGobd3oT5"
+      },
+      "artists": [
+        {
+          "name": "spingy",
+          "url": "https://open.spotify.com/artist/65IgDP0KdfVt1klR6BzPl6"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Treatment",
+      "url": "https://open.spotify.com/track/1iQJMlUjqX1HkViUpv4Fog"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
+        "name": "\u0e0a\u0e49\u0e32\u0e44\u0e1b (Too Late)",
+        "url": "https://open.spotify.com/album/75FN1uqm449c1JEItTcUjO"
+      },
+      "artists": [
+        {
+          "name": "PUN-PUN",
+          "url": "https://open.spotify.com/artist/2lPHLXULREX2QsWoWTv3wi"
+        }
+      ],
+      "duration_ms": 193097,
+      "name": "\u0e0a\u0e49\u0e32\u0e44\u0e1b (Too Late)",
+      "url": "https://open.spotify.com/track/3EkyheZ4AxNrN7tl7yp9T9"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
+        "name": "\u0e41\u0e04\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (Me&You)",
+        "url": "https://open.spotify.com/album/7AZztPS8KL35zIPaf2E56P"
+      },
+      "artists": [
+        {
+          "name": "2000",
+          "url": "https://open.spotify.com/artist/31Kfuml0W35VeLusxNjQzX"
+        }
+      ],
+      "duration_ms": 221878,
+      "name": "\u0e41\u0e04\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (Me&You)",
+      "url": "https://open.spotify.com/track/2WnVdholxlaHvMbBkHZkow"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
+        "name": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e17\u0e35\u0e48\u0e44\u0e14\u0e49\u0e08\u0e32\u0e01(\u0e25\u0e32)",
+        "url": "https://open.spotify.com/album/5ejjRhYbOurcyaGkstwjC0"
+      },
+      "artists": [
+        {
+          "name": "Planfor?",
+          "url": "https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ"
+        }
+      ],
+      "duration_ms": 296376,
+      "name": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e17\u0e35\u0e48\u0e44\u0e14\u0e49\u0e08\u0e32\u0e01(\u0e25\u0e32)",
+      "url": "https://open.spotify.com/track/5jJt7NSLkYSB2g4j5bqf2P"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
+        "name": "\u0e0a\u0e49\u0e32 \u0e0a\u0e49\u0e32",
+        "url": "https://open.spotify.com/album/2HqWTCJO6JLBsdtQh8Tidg"
+      },
+      "artists": [
+        {
+          "name": "Sammy Niche",
+          "url": "https://open.spotify.com/artist/0bkxH1RCphAw0Eyen9gJwp"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "\u0e0a\u0e49\u0e32 \u0e0a\u0e49\u0e32",
+      "url": "https://open.spotify.com/track/0UwJpXCDjXWUhKlxB5NDvQ"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
+        "name": "YA",
+        "url": "https://open.spotify.com/album/41yg2stlvA7XzSd40bCQ7N"
+      },
+      "artists": [
+        {
+          "name": "CRYING RAINING",
+          "url": "https://open.spotify.com/artist/0jwzu8vrx7F9hqOVMGOpiY"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "\u0e1e\u0e31\u0e07 (Punk)",
+      "url": "https://open.spotify.com/track/74sZwE12WAuHVoOFul4u4g"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
+        "name": "\u0e41\u0e23\u0e01\u0e40\u0e08\u0e2d",
+        "url": "https://open.spotify.com/album/0CR7eQ3a7E2ZZ8sM9NeR91"
+      },
+      "artists": [
+        {
+          "name": "Jerr Pacharapong",
+          "url": "https://open.spotify.com/artist/4W1MyuQqIYAIPCxnoengS1"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "\u0e41\u0e23\u0e01\u0e40\u0e08\u0e2d",
+      "url": "https://open.spotify.com/track/7q3VBv13L5oA1O0GzjB6nP"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
+        "name": "\u0e01\u0e2d\u0e07\u0e44\u0e1f\u0e01\u0e31\u0e1a\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+        "url": "https://open.spotify.com/album/21NoQVVF6yMW2F3dbNphx0"
+      },
+      "artists": [
+        {
+          "name": "NUTCHY",
+          "url": "https://open.spotify.com/artist/1qDMB8sv51LlelJYkLGY8h"
+        }
+      ],
+      "duration_ms": 228482,
+      "name": "\u0e01\u0e2d\u0e07\u0e44\u0e1f\u0e01\u0e31\u0e1a\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/1PfzxRggqPZGt6XrgPa4JP"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
+        "name": "\u0e27\u0e19\u0e40\u0e27\u0e35\u0e22\u0e19",
+        "url": "https://open.spotify.com/album/1xNrabWD3A7IWZfQXshHrw"
+      },
+      "artists": [
+        {
+          "name": "WhiteWall",
+          "url": "https://open.spotify.com/artist/5qAbOrxdhABKGolvpd0wyi"
+        }
+      ],
+      "duration_ms": 234838,
+      "name": "\u0e27\u0e19\u0e40\u0e27\u0e35\u0e22\u0e19",
+      "url": "https://open.spotify.com/track/4OHpbTzBZwrPq4y6RgNWPI"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
         "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e23\u0e39\u0e49(\u0e41\u0e15\u0e48\u0e08\u0e23\u0e34\u0e07\u0e46\u0e01\u0e47..)",
         "url": "https://open.spotify.com/album/5ohUYUqKPkzVZ6FQ9ri5ED"
       },
@@ -639,6 +671,22 @@
     {
       "added_at": "2024-07-05 11:17:16",
       "album": {
+        "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/7aAhsiKMaeuWLnmE70lohf"
+      },
+      "artists": [
+        {
+          "name": "Wallry",
+          "url": "https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki"
+        }
+      ],
+      "duration_ms": 240560,
+      "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/6YEXIvR9f3S1Ca9E6Dn5uM"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
         "name": "\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e40\u0e0a\u0e2d\u0e23\u0e4c",
         "url": "https://open.spotify.com/album/7o2sParLMIAeEyU6t9Bfv7"
       },
@@ -651,6 +699,22 @@
       "duration_ms": 167566,
       "name": "\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e40\u0e0a\u0e2d\u0e23\u0e4c",
       "url": "https://open.spotify.com/track/2A1vkpCx9V7LyWIZ2SaeHf"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
+        "name": "\u0e2d\u0e32\u0e01\u0e32\u0e23\u0e2b\u0e19\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/2JL3Y8a8Re4k9msdjkzC89"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/1QmLJUgUWf6nXfpizxW1xL"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "\u0e2d\u0e32\u0e01\u0e32\u0e23\u0e2b\u0e19\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/07jPHMj5auGOUC2xGfxo0f"
     },
     {
       "added_at": "2024-07-05 11:17:16",
@@ -687,6 +751,22 @@
     {
       "added_at": "2024-07-05 11:17:16",
       "album": {
+        "name": "INTRO (PEAK)",
+        "url": "https://open.spotify.com/album/4Q8tKBvmZ93M84y7jBxCu7"
+      },
+      "artists": [
+        {
+          "name": "KONGTHAP PEAK",
+          "url": "https://open.spotify.com/artist/6yEr7qQKyVc8tWX7TpVif0"
+        }
+      ],
+      "duration_ms": 75285,
+      "name": "INTRO (PEAK)",
+      "url": "https://open.spotify.com/track/325aUCopGwaRPePKIEPvQ9"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
         "name": "\u0e08\u0e33\u0e44\u0e14\u0e49",
         "url": "https://open.spotify.com/album/2v14s4MlrJ8zz0avEqbRC2"
       },
@@ -703,6 +783,22 @@
     {
       "added_at": "2024-07-05 11:17:16",
       "album": {
+        "name": "\u0e44\u0e2d\u0e28\u0e04\u0e23\u0e35\u0e21",
+        "url": "https://open.spotify.com/album/6ymVSwDgWVsUlermzWeHYM"
+      },
+      "artists": [
+        {
+          "name": "BANK SMITH",
+          "url": "https://open.spotify.com/artist/76zRdvzW452qw9qj5zjGDC"
+        }
+      ],
+      "duration_ms": 225980,
+      "name": "\u0e44\u0e2d\u0e28\u0e04\u0e23\u0e35\u0e21",
+      "url": "https://open.spotify.com/track/4lE0NJCVGD4suAWQV91UyD"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
         "name": "\u0e43\u0e08\u0e0a\u0e34\u0e19",
         "url": "https://open.spotify.com/album/18PoI7WVGlNaHZs1j7ra4o"
       },
@@ -715,6 +811,22 @@
       "duration_ms": 252839,
       "name": "\u0e43\u0e08\u0e0a\u0e34\u0e19",
       "url": "https://open.spotify.com/track/59S2zMOcYPZxzmaC2Anfqs"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
+        "name": "\u0e23\u0e2d\u0e43\u0e04\u0e23",
+        "url": "https://open.spotify.com/album/4SFlwbCzQmzM9K6eMM9vFl"
+      },
+      "artists": [
+        {
+          "name": "Billyman",
+          "url": "https://open.spotify.com/artist/6n51hjV0V6REzKyaZJe77l"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "\u0e23\u0e2d\u0e43\u0e04\u0e23",
+      "url": "https://open.spotify.com/track/5Rb7EJ7xefTTaAirCQLizn"
     },
     {
       "added_at": "2024-07-05 11:17:16",
@@ -751,98 +863,18 @@
     {
       "added_at": "2024-07-05 11:17:16",
       "album": {
-        "name": "\u0e44\u0e2d\u0e28\u0e04\u0e23\u0e35\u0e21",
-        "url": "https://open.spotify.com/album/6ymVSwDgWVsUlermzWeHYM"
+        "name": "\u0e40\u0e02\u0e49\u0e32\u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e17\u0e32\u0e07. REViVE (Official)",
+        "url": "https://open.spotify.com/album/2C7T1vD5LM3EhCjqDf3Z90"
       },
       "artists": [
         {
-          "name": "BANK SMITH",
-          "url": "https://open.spotify.com/artist/76zRdvzW452qw9qj5zjGDC"
+          "name": "NETT",
+          "url": "https://open.spotify.com/artist/4uAq1QuGulgwiZ1y5PQbhQ"
         }
       ],
-      "duration_ms": 225980,
-      "name": "\u0e44\u0e2d\u0e28\u0e04\u0e23\u0e35\u0e21",
-      "url": "https://open.spotify.com/track/4lE0NJCVGD4suAWQV91UyD"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
-        "name": "\u0e23\u0e2d\u0e43\u0e04\u0e23",
-        "url": "https://open.spotify.com/album/4SFlwbCzQmzM9K6eMM9vFl"
-      },
-      "artists": [
-        {
-          "name": "Billyman",
-          "url": "https://open.spotify.com/artist/6n51hjV0V6REzKyaZJe77l"
-        }
-      ],
-      "duration_ms": 322000,
-      "name": "\u0e23\u0e2d\u0e43\u0e04\u0e23",
-      "url": "https://open.spotify.com/track/5Rb7EJ7xefTTaAirCQLizn"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
-        "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e43\u0e08",
-        "url": "https://open.spotify.com/album/7aAhsiKMaeuWLnmE70lohf"
-      },
-      "artists": [
-        {
-          "name": "Wallry",
-          "url": "https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki"
-        }
-      ],
-      "duration_ms": 240560,
-      "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e43\u0e08",
-      "url": "https://open.spotify.com/track/6YEXIvR9f3S1Ca9E6Dn5uM"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
-        "name": "YA",
-        "url": "https://open.spotify.com/album/41yg2stlvA7XzSd40bCQ7N"
-      },
-      "artists": [
-        {
-          "name": "CRYING RAINING",
-          "url": "https://open.spotify.com/artist/0jwzu8vrx7F9hqOVMGOpiY"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "\u0e1e\u0e31\u0e07 (Punk)",
-      "url": "https://open.spotify.com/track/74sZwE12WAuHVoOFul4u4g"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
-        "name": "\u0e2d\u0e32\u0e01\u0e32\u0e23\u0e2b\u0e19\u0e31\u0e01",
-        "url": "https://open.spotify.com/album/2JL3Y8a8Re4k9msdjkzC89"
-      },
-      "artists": [
-        {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/1QmLJUgUWf6nXfpizxW1xL"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "\u0e2d\u0e32\u0e01\u0e32\u0e23\u0e2b\u0e19\u0e31\u0e01",
-      "url": "https://open.spotify.com/track/07jPHMj5auGOUC2xGfxo0f"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
-        "name": "\u0e41\u0e04\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (Me&You)",
-        "url": "https://open.spotify.com/album/7AZztPS8KL35zIPaf2E56P"
-      },
-      "artists": [
-        {
-          "name": "2000",
-          "url": "https://open.spotify.com/artist/31Kfuml0W35VeLusxNjQzX"
-        }
-      ],
-      "duration_ms": 221878,
-      "name": "\u0e41\u0e04\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (Me&You)",
-      "url": "https://open.spotify.com/track/2WnVdholxlaHvMbBkHZkow"
+      "duration_ms": 216666,
+      "name": "\u0e40\u0e02\u0e49\u0e32\u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e17\u0e32\u0e07. REViVE - Official",
+      "url": "https://open.spotify.com/track/4YmP2EMrRUqQKuS7jzju6Z"
     },
     {
       "added_at": "2024-07-05 11:17:16",
@@ -879,86 +911,6 @@
     {
       "added_at": "2024-07-05 11:17:16",
       "album": {
-        "name": "INTRO (PEAK)",
-        "url": "https://open.spotify.com/album/4Q8tKBvmZ93M84y7jBxCu7"
-      },
-      "artists": [
-        {
-          "name": "KONGTHAP PEAK",
-          "url": "https://open.spotify.com/artist/6yEr7qQKyVc8tWX7TpVif0"
-        }
-      ],
-      "duration_ms": 75285,
-      "name": "INTRO (PEAK)",
-      "url": "https://open.spotify.com/track/325aUCopGwaRPePKIEPvQ9"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
-        "name": "\u0e1a\u0e32\u0e07\u0e23\u0e31\u0e01\u0e0b\u0e2d\u0e22 2 (Fallin' hurts)",
-        "url": "https://open.spotify.com/album/31DBaHqITlBZDcksenA8lL"
-      },
-      "artists": [
-        {
-          "name": "monsiangpleng",
-          "url": "https://open.spotify.com/artist/6vtxliuOkubaAQsjAuGtt9"
-        }
-      ],
-      "duration_ms": 217252,
-      "name": "\u0e1a\u0e32\u0e07\u0e23\u0e31\u0e01\u0e0b\u0e2d\u0e22 2 (Fallin' hurts)",
-      "url": "https://open.spotify.com/track/06OhtuIVFu0hgXDhJvNKww"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
-        "name": "\u0e40\u0e02\u0e49\u0e32\u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e17\u0e32\u0e07. REViVE (Official)",
-        "url": "https://open.spotify.com/album/2C7T1vD5LM3EhCjqDf3Z90"
-      },
-      "artists": [
-        {
-          "name": "NETT",
-          "url": "https://open.spotify.com/artist/4uAq1QuGulgwiZ1y5PQbhQ"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "\u0e40\u0e02\u0e49\u0e32\u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e17\u0e32\u0e07. REViVE - Official",
-      "url": "https://open.spotify.com/track/4YmP2EMrRUqQKuS7jzju6Z"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
-        "name": "\u0e04\u0e19\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e40\u0e1b\u0e47\u0e19 (Clytie)",
-        "url": "https://open.spotify.com/album/3YrOcEyqbD5L59JxAdWZl3"
-      },
-      "artists": [
-        {
-          "name": "Goneaway",
-          "url": "https://open.spotify.com/artist/4fAgUl5yw0nnANMEGeqtL2"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "\u0e04\u0e19\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e40\u0e1b\u0e47\u0e19 (Clytie)",
-      "url": "https://open.spotify.com/track/22K9vgDuh4J66Bh6iajuJD"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
-        "name": "\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e15\u0e31\u0e27",
-        "url": "https://open.spotify.com/album/4LiqmYVN0J8lbFK6hioTpD"
-      },
-      "artists": [
-        {
-          "name": "naralam",
-          "url": "https://open.spotify.com/artist/1YQBASfvSzeWpCeJQVrFuJ"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e15\u0e31\u0e27",
-      "url": "https://open.spotify.com/track/2hWzyrcnNoeeuHPAUIBzx1"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
         "name": "\u0e2d\u0e22\u0e48\u0e32\u0e21\u0e32\u0e22\u0e38\u0e48\u0e07\u0e04\u0e19\u0e02\u0e2d\u0e07\u0e1c\u0e21\u0e19\u0e30",
         "url": "https://open.spotify.com/album/02XsOfZ6i3aABQ93VopoW2"
       },
@@ -979,34 +931,34 @@
     {
       "added_at": "2024-07-05 11:17:16",
       "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21",
-        "url": "https://open.spotify.com/album/5ryqs1U3InCvhhWrzTpgzZ"
+        "name": "\u0e1a\u0e32\u0e07\u0e23\u0e31\u0e01\u0e0b\u0e2d\u0e22 2 (Fallin' hurts)",
+        "url": "https://open.spotify.com/album/31DBaHqITlBZDcksenA8lL"
       },
       "artists": [
         {
-          "name": "Syrup",
-          "url": "https://open.spotify.com/artist/5l6R9L8qJTRP2kFfxtmjGm"
+          "name": "monsiangpleng",
+          "url": "https://open.spotify.com/artist/6vtxliuOkubaAQsjAuGtt9"
         }
       ],
-      "duration_ms": 245140,
-      "name": "\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21",
-      "url": "https://open.spotify.com/track/1LhCLb7kySfY1gWbRXB5b7"
+      "duration_ms": 217252,
+      "name": "\u0e1a\u0e32\u0e07\u0e23\u0e31\u0e01\u0e0b\u0e2d\u0e22 2 (Fallin' hurts)",
+      "url": "https://open.spotify.com/track/06OhtuIVFu0hgXDhJvNKww"
     },
     {
       "added_at": "2024-07-05 11:17:16",
       "album": {
-        "name": "Love School",
-        "url": "https://open.spotify.com/album/3FhMMkfoSfXUctozXh89a3"
+        "name": "\u0e04\u0e19\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e40\u0e1b\u0e47\u0e19 (Clytie)",
+        "url": "https://open.spotify.com/album/3YrOcEyqbD5L59JxAdWZl3"
       },
       "artists": [
         {
-          "name": "UREKA",
-          "url": "https://open.spotify.com/artist/2Wll2z4wxGuMjLsCZQb01K"
+          "name": "Goneaway",
+          "url": "https://open.spotify.com/artist/4fAgUl5yw0nnANMEGeqtL2"
         }
       ],
-      "duration_ms": 234115,
-      "name": "Love School",
-      "url": "https://open.spotify.com/track/1jMHnEqyYtUcz64Cyqe9do"
+      "duration_ms": 240000,
+      "name": "\u0e04\u0e19\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e40\u0e1b\u0e47\u0e19 (Clytie)",
+      "url": "https://open.spotify.com/track/22K9vgDuh4J66Bh6iajuJD"
     },
     {
       "added_at": "2024-07-05 11:17:16",
@@ -1027,6 +979,22 @@
     {
       "added_at": "2024-07-05 11:17:16",
       "album": {
+        "name": "\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e15\u0e31\u0e27",
+        "url": "https://open.spotify.com/album/4LiqmYVN0J8lbFK6hioTpD"
+      },
+      "artists": [
+        {
+          "name": "naralam",
+          "url": "https://open.spotify.com/artist/1YQBASfvSzeWpCeJQVrFuJ"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e15\u0e31\u0e27",
+      "url": "https://open.spotify.com/track/2hWzyrcnNoeeuHPAUIBzx1"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
         "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e04\u0e22\u0e01\u0e25\u0e31\u0e27\u0e1c\u0e35\u0e41\u0e15\u0e48\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49\u0e01\u0e25\u0e31\u0e27\u0e2b\u0e19\u0e39\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/0v8FwczGTmZBG0mhYgrPyq"
       },
@@ -1043,50 +1011,18 @@
     {
       "added_at": "2024-07-05 11:17:16",
       "album": {
-        "name": "\u0e2b\u0e22\u0e38\u0e14\u0e17\u0e35\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
-        "url": "https://open.spotify.com/album/0GFk72czFYSBy82MWtHnnJ"
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21",
+        "url": "https://open.spotify.com/album/5ryqs1U3InCvhhWrzTpgzZ"
       },
       "artists": [
         {
-          "name": "Pong Pongsatorn",
-          "url": "https://open.spotify.com/artist/4UurKu5leJ9UfjtAmWLXzf"
+          "name": "Syrup",
+          "url": "https://open.spotify.com/artist/5l6R9L8qJTRP2kFfxtmjGm"
         }
       ],
-      "duration_ms": 299076,
-      "name": "\u0e2b\u0e22\u0e38\u0e14\u0e17\u0e35\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
-      "url": "https://open.spotify.com/track/3DYLJuV2d7DX9YAVtjIkRk"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
-        "name": "\u0e0a\u0e48\u0e2d\u0e07\u0e27\u0e48\u0e32\u0e07\u0e23\u0e30\u0e2b\u0e27\u0e48\u0e32\u0e07\u0e21\u0e37\u0e2d",
-        "url": "https://open.spotify.com/album/0YSGYRycvk7XM1VYBvHJKU"
-      },
-      "artists": [
-        {
-          "name": "Title Suttichart",
-          "url": "https://open.spotify.com/artist/1dNWBWyjgPttXHKVwEBZ6o"
-        }
-      ],
-      "duration_ms": 236843,
-      "name": "\u0e0a\u0e48\u0e2d\u0e07\u0e27\u0e48\u0e32\u0e07\u0e23\u0e30\u0e2b\u0e27\u0e48\u0e32\u0e07\u0e21\u0e37\u0e2d",
-      "url": "https://open.spotify.com/track/5HdoC7p53MssonXYKCqf3M"
-    },
-    {
-      "added_at": "2024-07-05 11:17:16",
-      "album": {
-        "name": "\u0e23\u0e39\u0e49\u0e14\u0e35...\u0e44\u0e21\u0e48\u0e04\u0e27\u0e23",
-        "url": "https://open.spotify.com/album/2amqh3C3SSSUnOtkOrDriV"
-      },
-      "artists": [
-        {
-          "name": "Swamp-in",
-          "url": "https://open.spotify.com/artist/5p7kLoi6H15YdGK6Wuy5zt"
-        }
-      ],
-      "duration_ms": 264489,
-      "name": "\u0e23\u0e39\u0e49\u0e14\u0e35...\u0e44\u0e21\u0e48\u0e04\u0e27\u0e23",
-      "url": "https://open.spotify.com/track/2tPlf1prlSRrDl7FijiXeX"
+      "duration_ms": 245140,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21",
+      "url": "https://open.spotify.com/track/1LhCLb7kySfY1gWbRXB5b7"
     },
     {
       "added_at": "2024-07-05 11:17:16",
@@ -1135,6 +1071,70 @@
       "duration_ms": 249705,
       "name": "95 (days without you)",
       "url": "https://open.spotify.com/track/0o2C1fRmpOt4maCUqZMak3"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
+        "name": "Love School",
+        "url": "https://open.spotify.com/album/3FhMMkfoSfXUctozXh89a3"
+      },
+      "artists": [
+        {
+          "name": "UREKA",
+          "url": "https://open.spotify.com/artist/2Wll2z4wxGuMjLsCZQb01K"
+        }
+      ],
+      "duration_ms": 234115,
+      "name": "Love School",
+      "url": "https://open.spotify.com/track/1jMHnEqyYtUcz64Cyqe9do"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
+        "name": "\u0e2b\u0e22\u0e38\u0e14\u0e17\u0e35\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
+        "url": "https://open.spotify.com/album/0GFk72czFYSBy82MWtHnnJ"
+      },
+      "artists": [
+        {
+          "name": "Pong Pongsatorn",
+          "url": "https://open.spotify.com/artist/4UurKu5leJ9UfjtAmWLXzf"
+        }
+      ],
+      "duration_ms": 299076,
+      "name": "\u0e2b\u0e22\u0e38\u0e14\u0e17\u0e35\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
+      "url": "https://open.spotify.com/track/3DYLJuV2d7DX9YAVtjIkRk"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
+        "name": "\u0e0a\u0e48\u0e2d\u0e07\u0e27\u0e48\u0e32\u0e07\u0e23\u0e30\u0e2b\u0e27\u0e48\u0e32\u0e07\u0e21\u0e37\u0e2d",
+        "url": "https://open.spotify.com/album/0YSGYRycvk7XM1VYBvHJKU"
+      },
+      "artists": [
+        {
+          "name": "Title Suttichart",
+          "url": "https://open.spotify.com/artist/1dNWBWyjgPttXHKVwEBZ6o"
+        }
+      ],
+      "duration_ms": 236843,
+      "name": "\u0e0a\u0e48\u0e2d\u0e07\u0e27\u0e48\u0e32\u0e07\u0e23\u0e30\u0e2b\u0e27\u0e48\u0e32\u0e07\u0e21\u0e37\u0e2d",
+      "url": "https://open.spotify.com/track/5HdoC7p53MssonXYKCqf3M"
+    },
+    {
+      "added_at": "2024-07-05 11:17:16",
+      "album": {
+        "name": "\u0e23\u0e39\u0e49\u0e14\u0e35...\u0e44\u0e21\u0e48\u0e04\u0e27\u0e23",
+        "url": "https://open.spotify.com/album/2amqh3C3SSSUnOtkOrDriV"
+      },
+      "artists": [
+        {
+          "name": "Swamp-in",
+          "url": "https://open.spotify.com/artist/5p7kLoi6H15YdGK6Wuy5zt"
+        }
+      ],
+      "duration_ms": 264489,
+      "name": "\u0e23\u0e39\u0e49\u0e14\u0e35...\u0e44\u0e21\u0e48\u0e04\u0e27\u0e23",
+      "url": "https://open.spotify.com/track/2tPlf1prlSRrDl7FijiXeX"
     },
     {
       "added_at": "2024-07-05 11:17:16",

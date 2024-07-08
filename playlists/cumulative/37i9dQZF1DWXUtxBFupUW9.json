@@ -316,7 +316,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 142226,
       "name": "Barefootin'",
       "url": "https://open.spotify.com/track/6t5XVSW2it2oySKzeYt9Ov"
@@ -1664,6 +1664,24 @@
       "duration_ms": 149866,
       "name": "Needle In A Haystack",
       "url": "https://open.spotify.com/track/26fSgIa539TCK3KV76chHU"
+    },
+    {
+      "album": {
+        "name": "Cold Sweat & Other Soul Classics: James Brown",
+        "url": "https://open.spotify.com/album/6CygdzTfDPgHKm8RAuiV7R"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211920,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/5lE04QME0R4RNjepkflBJa"
     },
     {
       "album": {

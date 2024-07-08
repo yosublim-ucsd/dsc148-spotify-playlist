@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 
 > full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard
 
-[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,069 likes - 133 songs - 4 hr 20 min
+[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,068 likes - 132 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,8 +138,7 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 | 128 | [Veiled Serenity](https://open.spotify.com/track/3u3gNJDn54FohmuS6ZECrY) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Luminous Reverberations](https://open.spotify.com/album/2EQSCXFUV6MhW7EBaFOIKv) | 1:51 |
 | 129 | [Serenade of Illusions](https://open.spotify.com/track/4pTOsbCnRIXpt9agLitHNV) | [Nahh Chill](https://open.spotify.com/artist/6A9Ea4TIDpSQOP5APKCiGT), [Sonic Strokes](https://open.spotify.com/artist/2R3cdAtELIEPmC0L6AGzSk), [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F) | [Melodic Phantasm](https://open.spotify.com/album/5t2nM6VQelYKAFm0NpceFZ) | 1:52 |
 | 130 | [Misty Solace](https://open.spotify.com/track/6bEjGMoeSx7bHZ1Qqh4c9V) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Melodies of Serenity](https://open.spotify.com/album/3Z6J66tVl7nqa1lzFqftrA) | 2:03 |
-| 131 | [Side by Side](https://open.spotify.com/track/2OT7GmuC5Jc0KnYiUNgU69) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [Allies of the Good](https://open.spotify.com/album/5F7HS5lR1LZ0OkPVYxBSt5) | 2:08 |
-| 132 | [Slow Morning](https://open.spotify.com/track/52aIVkfycicioVn13LVkXG) | [Morning Coffee](https://open.spotify.com/artist/62fnZMi7JwI8kp2DPqdlv1) | [Slow Morning](https://open.spotify.com/album/0ydqrgxnkRE9OlSMSrYDG3) | 2:00 |
-| 133 | [Daydreams](https://open.spotify.com/track/0k0mGPw3qRox5AP0kLSwnn) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Daydreams](https://open.spotify.com/album/1PzK1RWbYVWmMo3ZAZk2pD) | 2:08 |
+| 131 | [Slow Morning](https://open.spotify.com/track/52aIVkfycicioVn13LVkXG) | [Morning Coffee](https://open.spotify.com/artist/62fnZMi7JwI8kp2DPqdlv1) | [Slow Morning](https://open.spotify.com/album/0ydqrgxnkRE9OlSMSrYDG3) | 2:00 |
+| 132 | [Daydreams](https://open.spotify.com/track/0k0mGPw3qRox5AP0kLSwnn) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Daydreams](https://open.spotify.com/album/1PzK1RWbYVWmMo3ZAZk2pD) | 2:08 |
 
-Snapshot ID: `AAAAV8IL5gKEyMRXgtGzcsl0ulSITzjm`
+Snapshot ID: `AAAAWANuzU/4vDY4j1E64eZlqGM3MYM2`

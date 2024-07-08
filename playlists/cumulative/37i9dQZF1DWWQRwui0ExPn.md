@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,850 songs - 10 day 19 hr 40 min
+6,851 songs - 10 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6193,7 +6193,7 @@
 | [Travel](https://open.spotify.com/track/4csfF8EWGg26dtP3BCroTo) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [Travel](https://open.spotify.com/album/1DYdKqmgdFNr7RuqO0b7X0) | 2:34 | 2022-08-05 | 2022-12-09 |
 | [Travel Companion](https://open.spotify.com/track/5mD7RCq2eMwxD64143pE3G) | [Malia Løu](https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL) | [Travel Companion](https://open.spotify.com/album/3laaZNgbE7tzpTXeyM0gQZ) | 1:57 | 2023-03-08 | 2023-09-30 |
 | [Traveller](https://open.spotify.com/track/4aWLOiqI0oNfN321dgpHcs) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Traveller](https://open.spotify.com/album/2lcbQb9IQerPxXmyDaP3HS) | 2:10 | 2022-07-08 | 2022-10-21 |
-| [Traveller](https://open.spotify.com/track/4To6uc6oQ7M0bgZMDKjBGN) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Traveller](https://open.spotify.com/album/6YQqHBAt8mosztXox7U66Z) | 2:46 | 2024-01-12 |  |
+| [Traveller](https://open.spotify.com/track/4To6uc6oQ7M0bgZMDKjBGN) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Traveller](https://open.spotify.com/album/6YQqHBAt8mosztXox7U66Z) | 2:46 | 2024-01-12 | 2024-07-08 |
 | [Treasure Hunting](https://open.spotify.com/track/4lMijIkvIl8r4BQ2J741S8) | [Tinad](https://open.spotify.com/artist/15CCe8N73vvOy2ZYLEKmFs) | [Treasure Hunting](https://open.spotify.com/album/54bHlvXXGKCu6f8JzDLPcc) | 2:57 | 2023-06-14 | 2023-09-16 |
 | [treasurehunting](https://open.spotify.com/track/0nCkciNj3QqSkyfJEaklAG) | [SLKBTS](https://open.spotify.com/artist/4hYblY3tnJxMJEPXIu1ikR) | [treasurehunting](https://open.spotify.com/album/46eqj7LYu9lbwn6ZktMdBx) | 1:54 | 2023-06-20 | 2024-01-26 |
 | [Treeology](https://open.spotify.com/track/1AAexX86yX7YO2llLMosU8) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Treeology](https://open.spotify.com/album/05YZSe9tJYuwQsA9XsjiL4) | 2:15 | 2023-05-03 | 2023-09-29 |
@@ -6707,6 +6707,7 @@
 | [Winter Wonderland](https://open.spotify.com/track/7GvkwVWW90W8vvUIgj54vt) | [Soft Eyez](https://open.spotify.com/artist/6ojMQVQeJuZ8PGwHoIO4fT) | [Winter Wonderland](https://open.spotify.com/album/0QTZHBEsjse6oTZlOxbrJn) | 1:52 | 2021-12-17 | 2021-12-27 |
 | [wintertale](https://open.spotify.com/track/6Oaa0s5yzNB8LMGGM7dJDL) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW) | [wintertale](https://open.spotify.com/album/741s6yQUkm8BSIbhOY2ABs) | 1:24 | 2022-12-23 | 2023-08-11 |
 | [Winter’s Butterfly](https://open.spotify.com/track/7KnEwMYwJIkW2PU8wqkEGG) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Winter’s Butterfly](https://open.spotify.com/album/052vacW1ZsS24rfrqDNqPO) | 2:21 | 2022-12-09 | 2023-01-20 |
+| [Wisdom](https://open.spotify.com/track/4hPG9tMp7mG6W0nsZlHx0k) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Wisdom](https://open.spotify.com/album/7b22wYhBosveim1S2iGCXZ) | 2:10 | 2024-07-05 |  |
 | [Wish](https://open.spotify.com/track/7fCzVo2VXz1NqMyao2mVgH) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Wish](https://open.spotify.com/album/6GASuLycDl7E2YFQGb7GBD) | 1:53 | 2023-02-21 | 2023-03-09 |
 | [Wish We Could Stay Like This Forever](https://open.spotify.com/track/0f0EDZUFDo8f27Dg4SmCWk) | [ocha](https://open.spotify.com/artist/2XXkRPi7NhXPf4vOPIG9zh) | [Haven 2](https://open.spotify.com/album/5gJboXT84vq2BrvshwE270) | 2:48 | 2020-11-19 | 2021-10-20 |
 | [wishes](https://open.spotify.com/track/45mIJspq3Fof8SlW3G1eiS) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [wishes](https://open.spotify.com/album/0DrWpaBqLbrCeDFtlbnsTK) | 1:58 | 2023-02-07 | 2023-10-27 |

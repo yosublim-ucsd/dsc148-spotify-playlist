@@ -9827,6 +9827,24 @@
     },
     {
       "album": {
+        "name": "Forsaken",
+        "url": "https://open.spotify.com/album/4QcTmGj1mTaiYdAfApZJPC"
+      },
+      "artists": [
+        {
+          "name": "Vasto",
+          "url": "https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171015,
+      "name": "Forsaken",
+      "url": "https://open.spotify.com/track/7cyecRXZ6UTnNqARZ1eeng"
+    },
+    {
+      "album": {
         "name": "Foutue Babylone",
         "url": "https://open.spotify.com/album/0gsdd1nsSRvU0GEebaNHT9"
       },

@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with ISOKNOCK
 
-910 songs - 2 day 3 hr 38 min
+911 songs - 2 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,7 +475,7 @@
 | [Lights Out](https://open.spotify.com/track/0XdmzOmGiPoNEfNK4BslVo) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Lights Out](https://open.spotify.com/album/1K9qhtSCTuNF4weATzFxZT) | 3:53 | 2022-02-18 | 2022-08-06 |
 | [Like Before](https://open.spotify.com/track/1E3u84XwqE5mHxjdTSIodR) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Like Before](https://open.spotify.com/album/2yVM47Pm3THWtF7L81Vz88) | 3:29 | 2022-07-01 | 2023-07-08 |
 | [Like That](https://open.spotify.com/track/3FDyCoOHVoiSRmNeAlZnM0) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Like That](https://open.spotify.com/album/0WHJCUT9x9kd3FyjAPZS3b) | 3:12 | 2023-10-27 | 2024-01-06 |
-| [Like That \- Tape B Remix](https://open.spotify.com/track/0DGC66VWaB2tamRaOEvRLe) | [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Like That \(Tape B Remix\)](https://open.spotify.com/album/6SAzbWShu217QKogZudlhp) | 3:36 | 2024-05-17 |  |
+| [Like That \- Tape B Remix](https://open.spotify.com/track/0DGC66VWaB2tamRaOEvRLe) | [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Like That \(Tape B Remix\)](https://open.spotify.com/album/6SAzbWShu217QKogZudlhp) | 3:36 | 2024-05-17 | 2024-07-08 |
 | [Like Water](https://open.spotify.com/track/0AbrbSTdgq56Yk7FfzscPF) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Danny Olson](https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s), [Jadelyn](https://open.spotify.com/artist/0nfU2YxUfRQxknJWo3mQit) | [Like Water](https://open.spotify.com/album/7mzTpyA0mRSC1yXGAsgAcS) | 4:30 | 2021-12-17 | 2022-02-19 |
 | [Liminality](https://open.spotify.com/track/2OgUZFfxYwjJLN36Xcu7EK) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [Liminality](https://open.spotify.com/album/0yHqyK0h7PqpFdh1Pw6A5S) | 3:35 | 2023-08-25 | 2023-10-07 |
 | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC) | 3:09 | 2023-09-15 |  |
@@ -498,6 +498,7 @@
 | [Machine](https://open.spotify.com/track/4yDWW2wokaaPrFBAE1qUAx) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [MACHINE](https://open.spotify.com/album/34ZXvS2vUviORekLOh9qPA) | 2:48 | 2023-11-10 | 2023-12-09 |
 | [Mad Ting](https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Mad Ting](https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg) | 3:14 | 2024-07-05 |  |
 | [Make U SWEAT!](https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [Make U SWEAT!](https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3) | 3:54 | 2023-01-20 | 2023-07-29 |
+| [MANSA MUSA](https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [MANSA MUSA](https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K) | 3:24 | 2024-07-05 |  |
 | [MARAVILLOSA](https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [MARAVILLOSA](https://open.spotify.com/album/1ws8EoubWWoxcprSyoHsbb) | 2:32 | 2024-03-29 |  |
 | [Mass Destruction](https://open.spotify.com/track/1RAFDlJk4pf9VfNbuLjxMA) | [AlienPark](https://open.spotify.com/artist/7xtEdHtZ1CdyPAY4px5N3R), [Usaybflow](https://open.spotify.com/artist/4lZyQiNEwbXNpy5WBG8P9i) | [Mass Destruction](https://open.spotify.com/album/2FNnWBk29lwRlR5XikUoE8) | 3:31 | 2023-07-07 | 2023-09-09 |
 | [MASTA](https://open.spotify.com/track/3KvBYFD1jaPKWLS0koRK6F) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [DECEIVER](https://open.spotify.com/album/18aOMxqx37HVyuUDOJYV7T) | 2:47 | 2024-03-01 | 2024-05-11 |

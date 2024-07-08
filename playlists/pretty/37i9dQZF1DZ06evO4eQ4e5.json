@@ -1,12 +1,12 @@
 {
-  "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 80260,
+  "description": "This Is Edith M\u00e1rquez. Los temas esenciales, todos en una lista.",
+  "num_followers": 80275,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zoc3gAAAAADbGYi3VUZt8wT1Obttg5I6",
+  "snapshot_id": "ZoiJAAAAAAAVpVC07Vc5FN6uBvfB6H89",
   "tracks": [
     {
       "added_at": null,
@@ -403,26 +403,6 @@
       "duration_ms": 161960,
       "name": "Un Viejo Amor (feat. Edith M\u00e1rquez)",
       "url": "https://open.spotify.com/track/3B0vDiUXETnZDEHssi6D0e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "+Mexicana",
-        "url": "https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        },
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Es Complicado",
-      "url": "https://open.spotify.com/track/2xfuLkkNanQTl0pdbViHUo"
     },
     {
       "added_at": null,
@@ -839,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/5WunOHdzIYAbG6uu6sFlWL"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 199880,
-      "name": "Vas A Llorar",
-      "url": "https://open.spotify.com/track/65YAbcxJjJ2nHGCgS4Cyw8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Mujeres De Manzanero",
         "url": "https://open.spotify.com/album/0KTBzdzNrXYhd3697Oh17R"
       },
@@ -867,6 +831,22 @@
       "duration_ms": 178574,
       "name": "A Punto",
       "url": "https://open.spotify.com/track/0UWzYJhCoaOl0I7VtCAYBh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/5WunOHdzIYAbG6uu6sFlWL"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 199880,
+      "name": "Vas A Llorar",
+      "url": "https://open.spotify.com/track/65YAbcxJjJ2nHGCgS4Cyw8"
     },
     {
       "added_at": null,
@@ -931,6 +911,22 @@
       "duration_ms": 244280,
       "name": "Cuando grita la piel",
       "url": "https://open.spotify.com/track/3ZZuE4BtdSRwHewgXm48yz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Edith M\u00e1rquez. S\u00f3lo \u00c9xitos",
+        "url": "https://open.spotify.com/album/4N5kJyBmPIXTT4cCKMEzKw"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 188480,
+      "name": "Fue Un Placer Conocerte",
+      "url": "https://open.spotify.com/track/5Qe614uc4HLLfsFaF4zhpI"
     }
   ],
   "unique_name": "This Is Edith M\u00e1rquez",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-378 songs - 18 hr 0 min
+379 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,8 @@
 | [Nega \- Ao Vivo](https://open.spotify.com/track/3yBxtVuQhMUh7PHHxRJmAt) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Pé Na Areia \(Ao Vivo\)](https://open.spotify.com/album/0Ok25Oq59P8s0OXpJA9hWu) | 2:19 | 2024-01-29 |  |
 | [Nem Com A Polícia \- Ao Vivo](https://open.spotify.com/track/1E9W77tIQzO90pVpm3dg2c) | [Lucas Reis & Thácio](https://open.spotify.com/artist/1b3ausgCrK4oN5Apv1GAhB) | [Chegou A Hora \(Ao Vivo\)](https://open.spotify.com/album/0K0DpupAR9pngfwItdMAER) | 2:48 | 2024-01-29 | 2024-03-27 |
 | [Nem de Graça / Saudade Arregaça \- Ao Vivo](https://open.spotify.com/track/3rDAHk73LZmgJIyGZstWQ0) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Fã de Carteirinha Sunset \(Ao Vivo\)](https://open.spotify.com/album/0QAoo8Zi6hG6dy2Ca58I9K) | 5:42 | 2024-01-29 |  |
-| [Nem Espinho, Nem Flor](https://open.spotify.com/track/22zYsgj3urXDu4stDvcaNS) | [Felipão](https://open.spotify.com/artist/29fHZcTMW9pUzhTF4Deu0j) | [Olha Eu de Volta](https://open.spotify.com/album/2kzcUtSEOVfzgk1D9BvirQ) | 3:25 | 2024-01-29 |  |
+| [Nem Espinho, Nem Flor](https://open.spotify.com/track/22zYsgj3urXDu4stDvcaNS) | [Felipão](https://open.spotify.com/artist/29fHZcTMW9pUzhTF4Deu0j) | [Olha Eu de Volta](https://open.spotify.com/album/2kzcUtSEOVfzgk1D9BvirQ) | 3:25 | 2024-01-29 | 2024-07-08 |
+| [Nem Espinho, Nem Flor \- Ao Vivo](https://open.spotify.com/track/3hi3n2a1DDDKqQz0gQVqTb) | [Felipão](https://open.spotify.com/artist/29fHZcTMW9pUzhTF4Deu0j) | [Ao Vivo em Fortaleza](https://open.spotify.com/album/00E3EvVE12UEJu3K4ouPIb) | 3:27 | 2024-07-07 |  |
 | [Nem Liga pra Mim](https://open.spotify.com/track/47OmDc9C3YQCL6vUC4NPnw) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Todo Seu](https://open.spotify.com/album/2TykZEYbsi1qPgxz3QQ1rK) | 3:11 | 2024-01-29 |  |
 | [Nem Solteiro, Nem Casado](https://open.spotify.com/track/4RIwJFIllGROj3yvCFPBik) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [Nem Solteiro, Nem Casado](https://open.spotify.com/album/26OJEhbmdahqJqYT20YLxT) | 2:25 | 2024-01-29 |  |
 | [Nem Vai Lembrar de Namorada \- Ao Vivo](https://open.spotify.com/track/4zbiEY3eLtj3C83v7LNjw7) | [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Esse Sou Eu: Ao Vivo em Goiânia](https://open.spotify.com/album/5Ib4RGQ8eVYhQvV7gbEpAB) | 3:01 | 2024-01-29 |  |

@@ -4,7 +4,7 @@
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Boy Spyce
 
-614 songs - 1 day 6 hr 35 min
+615 songs - 1 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Fine Wine \(ft\. Amaarae\)](https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo) | [Kelechief](https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fine Wine \(ft\. Amaarae\)](https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61) | 3:06 | 2022-12-09 | 2023-01-28 |
 | [Fire 4 Fire](https://open.spotify.com/track/6i2abtBneioUeBlLVg3ncx) | [Remy Baggins](https://open.spotify.com/artist/6Pj7ddulM4dzUOGR3sERaX), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Fire 4 Fire](https://open.spotify.com/album/1Fg8NCAgPwr6HsZSVarUX9) | 3:10 | 2023-08-24 | 2024-02-03 |
 | [Fiya](https://open.spotify.com/track/1Qv0mZ7vP0fCYqKQgPYOfu) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If), [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Fiya](https://open.spotify.com/album/3gSm6lwlNq35MnMVKMSukW) | 2:36 | 2021-10-14 | 2022-02-28 |
+| [Focus](https://open.spotify.com/track/5PrV2pNuK9THNbBbtqqwe0) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA) | [Focus](https://open.spotify.com/album/0oF4i9ok4kEImD5dEdoCYO) | 2:34 | 2024-07-05 |  |
 | [FOCUS](https://open.spotify.com/track/2c79pT6zVLY2FFHgcRtmD9) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Clouds](https://open.spotify.com/album/1NX6VIh1TwDjzXOUc1pyPB) | 2:09 | 2024-04-12 |  |
 | [Folake](https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Folake](https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i) | 2:48 | 2023-02-10 | 2023-09-15 |
 | [Folake](https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Bodija / Folake](https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF) | 2:35 | 2024-03-29 |  |
@@ -530,7 +531,7 @@
 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 | 2023-06-09 | 2024-03-22 |
 | [Summer in the Ends \- Juls Zikomo Remix](https://open.spotify.com/track/53Skuiqa6vxJkllH99ajXn) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Zikomo](https://open.spotify.com/artist/1dAZApOwTI2FsXbgfmfrmm), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Summer in the Ends \(Juls Zikomo Remix\)](https://open.spotify.com/album/7y8luOJivmYwb7CaniGjnJ) | 3:45 | 2022-02-10 | 2022-03-12 |
 | [Summertime With You](https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 2:16 | 2021-11-04 | 2022-02-09 |
-| [sundays](https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [sundays](https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP) | 2:54 | 2024-06-14 |  |
+| [sundays](https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [sundays](https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP) | 2:54 | 2024-06-14 | 2024-07-08 |
 | [Sundress](https://open.spotify.com/track/4gnAPznsSqXMqGfAFylZqK) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Bully Season Vol.1](https://open.spotify.com/album/5IBQ5q44YO63IlQYgeD2HE) | 2:35 | 2023-02-24 | 2023-03-03 |
 | [Sunflawa](https://open.spotify.com/track/1AwhPCb0PmBTWReUSPzGwS) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Sunflawa](https://open.spotify.com/album/2pNhCqk1IJvwnBjeULmoNz) | 2:33 | 2023-05-26 | 2023-11-24 |
 | [SuperSonic](https://open.spotify.com/track/0tLIjCdtDDyyUeDGZ8iuwM) | [AfroNautiq](https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [SuperSonic](https://open.spotify.com/album/4uekHrCeSWwBHoyv1vcl5e) | 3:59 | 2021-12-09 | 2022-02-11 |

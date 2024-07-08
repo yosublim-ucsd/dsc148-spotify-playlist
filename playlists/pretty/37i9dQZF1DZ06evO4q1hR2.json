@@ -1,12 +1,12 @@
 {
-  "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 56940,
+  "description": "This Is El Coyote Y Su Banda Tierra Santa. Los temas esenciales, todos en una lista.",
+  "num_followers": 56981,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zoc3gAAAAAAUr6Z7D0qY3VRzbkGakhT/",
+  "snapshot_id": "ZoiJAAAAAABqFPPEdN0RZF2Pduh1b9ui",
   "tracks": [
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chulo",
-        "url": "https://open.spotify.com/album/3fqu1APHpe2qBiI3NgBmZj"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        },
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 146146,
-      "name": "El Chulo",
-      "url": "https://open.spotify.com/track/4xydTcMJJGaTEJUdYaEUmQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como una Huella Digital",
         "url": "https://open.spotify.com/album/2smzCkewD9Jfht4iw9spg6"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 146333,
       "name": "El Amor No Tiene Edad",
       "url": "https://open.spotify.com/track/0oYZtUomf11wsoyNvScsTo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Chulo",
+        "url": "https://open.spotify.com/album/3fqu1APHpe2qBiI3NgBmZj"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 146146,
+      "name": "El Chulo",
+      "url": "https://open.spotify.com/track/4xydTcMJJGaTEJUdYaEUmQ"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "El Borrego",
+      "url": "https://open.spotify.com/track/7pdDsYNYQPf50Bwza8ErYm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Culebras",
         "url": "https://open.spotify.com/album/2Vvf4lURmmpC9QLeP28Kte"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 161893,
       "name": "Las Culebras",
       "url": "https://open.spotify.com/track/1TyylTtAQXE6iYtAkaXTK9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "El Borrego",
-      "url": "https://open.spotify.com/track/7pdDsYNYQPf50Bwza8ErYm"
     },
     {
       "added_at": null,

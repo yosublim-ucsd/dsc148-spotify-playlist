@@ -1,12 +1,12 @@
 {
   "description": "This Is Cardenales De Nuevo Le\u00f3n. Los temas esenciales, todos en una lista.",
-  "num_followers": 154566,
+  "num_followers": 154677,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zoc3gAAAAAAGm4DfeENM8zjQNm7scnUE",
+  "snapshot_id": "ZoiJAAAAAABkQB8dF2Y/txFmrcrEE/C3",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
       "duration_ms": 170840,
       "name": "Quiero Que Sepas",
       "url": "https://open.spotify.com/track/3aeYcDlH6mSwx7Nx63D7zS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Norte A Sur",
+        "url": "https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 209613,
+      "name": "Necesito Dec\u00edrtelo",
+      "url": "https://open.spotify.com/track/7L8S1GIS5CEysaT5zJUiMN"
     },
     {
       "added_at": null,
@@ -539,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuego Contra Fuego (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/5gFXqopK0GNNAwBii345i2"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 186146,
-      "name": "Fuego Contra Fuego",
-      "url": "https://open.spotify.com/track/5cVL7qtcdQckPw3eHzAflP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Mas Ranchero De...",
         "url": "https://open.spotify.com/album/68h0xn8Z16efzIQpyKxDc3"
       },
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fuego Contra Fuego (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/5gFXqopK0GNNAwBii345i2"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 186146,
+      "name": "Fuego Contra Fuego",
+      "url": "https://open.spotify.com/track/5cVL7qtcdQckPw3eHzAflP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Nadie Sepa",
         "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
       },
@@ -580,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 204120,
-      "name": "Espero Que \u00c9l",
-      "url": "https://open.spotify.com/track/70QTYeKHHpXbh7nDdCzsIn"
+      "duration_ms": 167066,
+      "name": "Por las Damas Caballero",
+      "url": "https://open.spotify.com/track/5O5Ys0jXCp1jFcrqkq54yj"
     },
     {
       "added_at": null,
@@ -644,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 167066,
-      "name": "Por las Damas Caballero",
-      "url": "https://open.spotify.com/track/5O5Ys0jXCp1jFcrqkq54yj"
+      "duration_ms": 204120,
+      "name": "Espero Que \u00c9l",
+      "url": "https://open.spotify.com/track/70QTYeKHHpXbh7nDdCzsIn"
     },
     {
       "added_at": null,

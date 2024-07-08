@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 448697,
+  "num_followers": 448722,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "falling behind",
-        "url": "https://open.spotify.com/album/78Xt50bJ6SeWBoXjL8wpGK"
-      },
-      "artists": [
-        {
-          "name": "softclouds",
-          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
-        }
-      ],
-      "duration_ms": 137812,
-      "name": "falling behind",
-      "url": "https://open.spotify.com/track/01IdQkdBqnyp4mhCDRGx5D"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "buffering",
         "url": "https://open.spotify.com/album/3syTXC5V5QHDPFMVIbdQ8L"
       },
@@ -123,22 +107,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "stars",
-        "url": "https://open.spotify.com/album/7zATELz7aEu6qqWkPt4f47"
-      },
-      "artists": [
-        {
-          "name": "Tooslo",
-          "url": "https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK"
-        }
-      ],
-      "duration_ms": 132512,
-      "name": "stars",
-      "url": "https://open.spotify.com/track/3ac8arqtWalbF7IOrgXzoi"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "kyoto dreams",
         "url": "https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT"
       },
@@ -151,6 +119,22 @@
       "duration_ms": 144000,
       "name": "kyoto dreams",
       "url": "https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "stars",
+        "url": "https://open.spotify.com/album/7zATELz7aEu6qqWkPt4f47"
+      },
+      "artists": [
+        {
+          "name": "Tooslo",
+          "url": "https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK"
+        }
+      ],
+      "duration_ms": 132512,
+      "name": "stars",
+      "url": "https://open.spotify.com/track/3ac8arqtWalbF7IOrgXzoi"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -187,6 +171,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "falling behind",
+        "url": "https://open.spotify.com/album/78Xt50bJ6SeWBoXjL8wpGK"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "duration_ms": 137812,
+      "name": "falling behind",
+      "url": "https://open.spotify.com/track/01IdQkdBqnyp4mhCDRGx5D"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "no reply",
         "url": "https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw"
       },
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ"
+      },
+      "artists": [
+        {
+          "name": "A Space for Rent",
+          "url": "https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX"
+        }
+      ],
+      "duration_ms": 120615,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "reflections in water",
         "url": "https://open.spotify.com/album/2HxJ1HI1Anen7ey9SJWIWI"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 140762,
       "name": "reflections in water",
       "url": "https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Disconnect",
-        "url": "https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ"
-      },
-      "artists": [
-        {
-          "name": "A Space for Rent",
-          "url": "https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX"
-        }
-      ],
-      "duration_ms": 120615,
-      "name": "Disconnect",
-      "url": "https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "lunar walk",
-        "url": "https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE"
+        "name": "superabundance",
+        "url": "https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC"
       },
       "artists": [
         {
-          "name": "laura ploy",
-          "url": "https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD"
+          "name": "Mickey Jam",
+          "url": "https://open.spotify.com/artist/0QeBXI6ruzIKKQ7EkrDBr9"
         }
       ],
-      "duration_ms": 120000,
-      "name": "lunar walk",
-      "url": "https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx"
+      "duration_ms": 139738,
+      "name": "superabundance",
+      "url": "https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -415,34 +415,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "superabundance",
-        "url": "https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC"
+        "name": "lunar walk",
+        "url": "https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE"
       },
       "artists": [
         {
-          "name": "Mickey Jam",
-          "url": "https://open.spotify.com/artist/0QeBXI6ruzIKKQ7EkrDBr9"
+          "name": "laura ploy",
+          "url": "https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD"
         }
       ],
-      "duration_ms": 139738,
-      "name": "superabundance",
-      "url": "https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "dream surfer",
-        "url": "https://open.spotify.com/album/4uKVu6udzIh40UujqTfO97"
-      },
-      "artists": [
-        {
-          "name": "loyCOY",
-          "url": "https://open.spotify.com/artist/7pK6BN9GZMUosqH5DPKmC7"
-        }
-      ],
-      "duration_ms": 144892,
-      "name": "dream surfer",
-      "url": "https://open.spotify.com/track/2Wj1sIJ6XxtR8R8aJwEKVt"
+      "duration_ms": 120000,
+      "name": "lunar walk",
+      "url": "https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -459,6 +443,22 @@
       "duration_ms": 123290,
       "name": "Cozy Nights",
       "url": "https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "dream surfer",
+        "url": "https://open.spotify.com/album/4uKVu6udzIh40UujqTfO97"
+      },
+      "artists": [
+        {
+          "name": "loyCOY",
+          "url": "https://open.spotify.com/artist/7pK6BN9GZMUosqH5DPKmC7"
+        }
+      ],
+      "duration_ms": 144892,
+      "name": "dream surfer",
+      "url": "https://open.spotify.com/track/2Wj1sIJ6XxtR8R8aJwEKVt"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
-      },
-      "artists": [
-        {
-          "name": "Barnes Blvd.",
-          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
-        }
-      ],
-      "duration_ms": 163533,
-      "name": "Now, I See",
-      "url": "https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Snow Rose",
         "url": "https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 72583,
       "name": "making her smile",
       "url": "https://open.spotify.com/track/6jE4qBqHoR90GPI4D5W882"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
+      },
+      "artists": [
+        {
+          "name": "Barnes Blvd.",
+          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
+        }
+      ],
+      "duration_ms": 163533,
+      "name": "Now, I See",
+      "url": "https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "Distant",
+        "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
+      },
+      "artists": [
+        {
+          "name": "w00ds",
+          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
+        }
+      ],
+      "duration_ms": 121672,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Clockwork",
         "url": "https://open.spotify.com/album/67fCjPsA2tdDb7YcpMYynn"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 123041,
       "name": "Blue (feat. Drwn.)",
       "url": "https://open.spotify.com/track/4RIu43eVxjbWuUhNwTUxwb"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Distant",
-        "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
-      },
-      "artists": [
-        {
-          "name": "w00ds",
-          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
-        }
-      ],
-      "duration_ms": 121672,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ"
     },
     {
       "added_at": "2024-06-14 04:00:00",

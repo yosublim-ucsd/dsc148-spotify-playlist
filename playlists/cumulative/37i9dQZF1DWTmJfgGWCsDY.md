@@ -4,10 +4,11 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-106 songs - 7 hr 25 min
+107 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Amechukua Nani](https://open.spotify.com/track/4fY5kvyrxM1yHEjrol2MWC) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Stizo](https://open.spotify.com/artist/0G6C6U8Eu6L2gj3AcJJh7J) | [Amechukua Nani](https://open.spotify.com/album/7bDMjf2l5DJBGNxxfzlRB4) | 3:46 | 2024-06-28 |  |
 | [Bado Hujasema](https://open.spotify.com/track/3mAReE4IMN0uYohwvxEtwk) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Bado Hujasema](https://open.spotify.com/album/0EXOj7hO5yeL7dce4OhYoL) | 2:33 | 2024-01-26 | 2024-02-17 |
 | [Boss](https://open.spotify.com/track/30v3qWfnXMmoJlXSq03ZQw) | [JEUSI MC](https://open.spotify.com/artist/6RH0qAxZjYbrMVv5piZaTm) | [Boss](https://open.spotify.com/album/5dHJkC7n9FdTsA1pRFn3FV) | 5:01 | 2024-04-05 |  |
 | [Boss Kalewa](https://open.spotify.com/track/0hWLGhDjvYyXqDfHJstOpb) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Boss Kalewa](https://open.spotify.com/album/3hObipsh4XFmmdFvFKO52w) | 5:23 | 2022-08-05 | 2024-05-19 |
@@ -100,7 +101,7 @@
 | [Twende Beach](https://open.spotify.com/track/5vWDLctb2D82C0oTffO2em) | [Mkataba Mc](https://open.spotify.com/artist/4X3L1Yra9ZOdfnMEm7URz3) | [Twende Beach](https://open.spotify.com/album/2zCVQvbLDfvWkPYGRrAl6M) | 4:10 | 2024-06-28 |  |
 | [Ujaulamba](https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Ujaulamba](https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0) | 5:33 | 2022-08-05 |  |
 | [Umbea](https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu) | [Aslay](https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr) | [Hits of Aslay](https://open.spotify.com/album/7vJk8NI5VsNSu32oDwDFBC) | 3:22 | 2022-08-05 |  |
-| [Umedorola](https://open.spotify.com/track/41GbxDGQxBxTYsL9hxJuPl) | [Asanoo](https://open.spotify.com/artist/75VYC0xCWRZYFp64NnYwQD) | [Umedorola](https://open.spotify.com/album/4krdJKrFET6dPGk8vfT8TL) | 4:06 | 2023-12-15 |  |
+| [Umedorola](https://open.spotify.com/track/41GbxDGQxBxTYsL9hxJuPl) | [Asanoo](https://open.spotify.com/artist/75VYC0xCWRZYFp64NnYwQD) | [Umedorola](https://open.spotify.com/album/4krdJKrFET6dPGk8vfT8TL) | 4:06 | 2023-12-15 | 2024-07-08 |
 | [Umekopwa](https://open.spotify.com/track/2n7tGYrsfxxMTfdUFpaokG) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Umekopwa](https://open.spotify.com/album/2Kp8OjPf5MXnFVwddqNy8X) | 4:43 | 2022-08-05 |  |
 | [Uongo](https://open.spotify.com/track/16JJwqUJhPReA1WRryem9G) | [Man Fongo](https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4) | [Uongo](https://open.spotify.com/album/3zJcPM1wtoVJyoFh5L94vi) | 3:26 | 2023-04-14 |  |
 | [Upwii](https://open.spotify.com/track/5UI00Ic2qjPZLEdJEBLDKH) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN), [Mkataba Mc](https://open.spotify.com/artist/4X3L1Yra9ZOdfnMEm7URz3) | [Upwii](https://open.spotify.com/album/7DBI9S96GzWRWBHCgh9LTJ) | 3:07 | 2024-01-26 |  |

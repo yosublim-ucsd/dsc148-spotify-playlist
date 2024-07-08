@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-498 songs - 1 day 2 hr 25 min
+500 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 2:51 | 2024-06-02 | 2024-06-04 |
 | [A Kiss](https://open.spotify.com/track/7b4iOHMngSAFhgN120hbWB) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ) | [Girlfriend](https://open.spotify.com/album/2eE9LjZBF3tbwvm802OGPK) | 4:31 | 2024-03-18 | 2024-03-26 |
 | [A PURO DOLOR](https://open.spotify.com/track/7Ho0Xbf3vHdBJiTbQocuxQ) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Angel Lopez](https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52) | [A PURO DOLOR](https://open.spotify.com/album/3FQi4Oecz065SbJVuvvJXT) | 3:26 | 2024-03-19 | 2024-04-02 |
+| [A Que No Te Atreves \- Techengue \- Remix](https://open.spotify.com/track/2lIlQVaA9EQXJ7x8GeTrrA) | [MYM Music](https://open.spotify.com/artist/0ZvK60U4ZGQSeI8ZtNbsak) | [A Que No Te Atreves \- Techengue \(Remix\)](https://open.spotify.com/album/0ssEeHY5mLI0Xf2hRZMXus) | 2:30 | 2024-07-07 |  |
 | [ABCD](https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse) | 2:42 | 2024-07-02 |  |
 | [Abrazame](https://open.spotify.com/track/7qdxZf06Ypb6VVg5MNXkR2) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [CORRENTADA](https://open.spotify.com/album/3yWOpyyG9Plm2O1Y7uD4Gh) | 4:28 | 2024-06-18 | 2024-07-03 |
 | [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 | 2024-02-24 | 2024-04-10 |
@@ -92,7 +93,7 @@
 | [Carta Para No Llorar](https://open.spotify.com/track/636kfKOcca5RtrRPhAk5y6) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Carta Para No Llorar](https://open.spotify.com/album/2o7N6fxqIitpKcO0UuCeBy) | 2:58 | 2024-05-09 | 2024-05-29 |
 | [Casa Con Diez Pinos](https://open.spotify.com/track/2Ras7UcXvzenVmkyVMibdh) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 4:14 | 2024-05-09 | 2024-05-14 |
 | [Casablanca](https://open.spotify.com/track/5guR9rGs9dPU3Yhvnouitk) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [MTFC](https://open.spotify.com/album/3BtTl8vBl09INBPLU0IbqV) | 3:07 | 2024-06-25 | 2024-07-01 |
-| [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 | 2024-06-30 |  |
+| [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 | 2024-06-30 | 2024-07-08 |
 | [Chala Head Chala \(Opening "D.B.Z." Versión Clásica\)](https://open.spotify.com/track/2m7KGTVbqqo2xo3AaaJO8s) | [Ricardo Silva](https://open.spotify.com/artist/2lCmsUtLSxA7esbqH1bUW7) | [Música de las Sagas de Dragón Ball](https://open.spotify.com/album/1llvtkXOEVrjuoRd1hTCRt) | 3:15 | 2024-03-10 | 2024-03-19 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-06-04 | 2024-06-22 |
 | [Cierre Rkt](https://open.spotify.com/track/1NVBLZ63QLBjBoh5Tf0pKj) | [Eze Remix](https://open.spotify.com/artist/3rYTay1spPOr6LYSAdQ9AT), [Matt Sebastian](https://open.spotify.com/artist/47LeSViBakxCTkCjQ1NYdt) | [Cierre Rkt](https://open.spotify.com/album/5ZFFrfRXB0esjxL87DTqWd) | 2:00 | 2024-04-09 | 2024-06-13 |
@@ -197,7 +198,7 @@
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-02-16 | 2024-03-06 |
 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2024-06-24 |  |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-06-18 | 2024-06-20 |
-| [HOY](https://open.spotify.com/track/7D7CiwAGCkGi9sQYyCLhxh) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [HOY](https://open.spotify.com/album/4SGFF2gxXah8wjZNrJiZJK) | 2:57 | 2024-06-04 |  |
+| [HOY](https://open.spotify.com/track/7D7CiwAGCkGi9sQYyCLhxh) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [HOY](https://open.spotify.com/album/4SGFF2gxXah8wjZNrJiZJK) | 2:57 | 2024-06-04 | 2024-07-08 |
 | [Hoy](https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Hoy](https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn) | 3:18 | 2024-06-12 |  |
 | [HUMO](https://open.spotify.com/track/6H4LDyUCXw8uiWXaDCNM1Z) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [HUMO](https://open.spotify.com/album/6R9iJwxP9e2XBEsMYlXXqt) | 1:50 | 2024-03-12 | 2024-03-20 |
 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:38 | 2024-05-07 | 2024-06-05 |
@@ -252,6 +253,7 @@
 | [L’AMOUR DE MA VIE](https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:33 | 2024-06-04 | 2024-06-19 |
 | [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 | 2024-01-29 | 2024-04-17 |
 | [MADISON](https://open.spotify.com/track/4nW5qMepEJOkZONWTsrc7w) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Lil Pani](https://open.spotify.com/artist/7JOPAChLMSwpi4LSZBw000) | [MADISON](https://open.spotify.com/album/0B37qHA5Q9O94AtUqD2HWS) | 4:10 | 2024-05-14 | 2024-06-18 |
+| [Madison \(Aleteo, Guaracha\)](https://open.spotify.com/track/6FA6sx2Z3GqmaVsKAIJRg0) | [DJ MANUEL MORO](https://open.spotify.com/artist/0UanWpnn7VhxotCXTMs5GX) | [Madison \(Aleteo, Guaracha\)](https://open.spotify.com/album/02Y0J9uG4kSJ5AAFBJ8qSK) | 3:15 | 2024-07-07 |  |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-04-09 | 2024-05-16 |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-03-15 | 2024-03-30 |
 | [Mami Yo Se Que Te Gusta Mi Corte Gangster](https://open.spotify.com/track/6DCPX27QTxatfpabsOO2y1) | [Yankee DJ](https://open.spotify.com/artist/5b4E3uBftHogCVESIVneEi) | [Mami Yo Se Que Te Gusta Mi Corte Gangster](https://open.spotify.com/album/7BYNJIFtOeZKfJXTg4qE9L) | 1:28 | 2024-05-31 | 2024-06-02 |

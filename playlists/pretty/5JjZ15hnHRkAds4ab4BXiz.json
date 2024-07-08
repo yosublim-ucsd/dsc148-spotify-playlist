@@ -6,7 +6,7 @@
     "name": "realARreal",
     "url": "https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e"
   },
-  "snapshot_id": "AAAB1BYyDL7pyjvYqWiRRkg7wKQJCggz",
+  "snapshot_id": "AAAB7xDz5AlAWAKu4UOUc1i03iKga5Tp",
   "tracks": [
     {
       "added_at": "2023-11-12 18:47:04",
@@ -5791,6 +5791,442 @@
       "duration_ms": 208413,
       "name": "Starstruck",
       "url": "https://open.spotify.com/track/3EOpdjNYbystkxrXPONn2i"
+    },
+    {
+      "added_at": "2024-07-07 15:25:14",
+      "album": {
+        "name": "Tyranny",
+        "url": "https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg"
+      },
+      "artists": [
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "duration_ms": 290638,
+      "name": "Crunch Punch",
+      "url": "https://open.spotify.com/track/0zjJCu74zK2nPlmM4Cgz3A"
+    },
+    {
+      "added_at": "2024-07-07 15:27:43",
+      "album": {
+        "name": "Tyranny",
+        "url": "https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg"
+      },
+      "artists": [
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "duration_ms": 152816,
+      "name": "M.utually A.ssured D.estruction",
+      "url": "https://open.spotify.com/track/3znlqkw0V8tdXDhsCQcjIo"
+    },
+    {
+      "added_at": "2024-07-07 15:32:18",
+      "album": {
+        "name": "Tyranny",
+        "url": "https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg"
+      },
+      "artists": [
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "duration_ms": 224104,
+      "name": "Where No Eagles Fly",
+      "url": "https://open.spotify.com/track/25FYpwvSt61i16hs8qvoqe"
+    },
+    {
+      "added_at": "2024-07-07 15:38:26",
+      "album": {
+        "name": "Tyranny",
+        "url": "https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg"
+      },
+      "artists": [
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "duration_ms": 443794,
+      "name": "Father Electricity",
+      "url": "https://open.spotify.com/track/1VeHgjA3KTfiMYM4pL1nXX"
+    },
+    {
+      "added_at": "2024-07-07 16:12:30",
+      "album": {
+        "name": "Tyranny",
+        "url": "https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg"
+      },
+      "artists": [
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "duration_ms": 361064,
+      "name": "Johan Von Bronx",
+      "url": "https://open.spotify.com/track/3dWaDHwsvudH9vywNjVUVf"
+    },
+    {
+      "added_at": "2024-07-07 18:47:14",
+      "album": {
+        "name": "Tyranny",
+        "url": "https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg"
+      },
+      "artists": [
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "duration_ms": 305293,
+      "name": "Xerox",
+      "url": "https://open.spotify.com/track/0EH07hS7lnqoNnRet0g2oJ"
+    },
+    {
+      "added_at": "2024-07-07 18:58:15",
+      "album": {
+        "name": "Tyranny",
+        "url": "https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg"
+      },
+      "artists": [
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "duration_ms": 385227,
+      "name": "Dare I Care",
+      "url": "https://open.spotify.com/track/3QFwqMCEkE5ZItQhMksIbB"
+    },
+    {
+      "added_at": "2024-07-07 19:06:49",
+      "album": {
+        "name": "Tyranny",
+        "url": "https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg"
+      },
+      "artists": [
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "duration_ms": 354925,
+      "name": "Nintendo Blood",
+      "url": "https://open.spotify.com/track/13KXeGtc1zYLzvPj3CgLcy"
+    },
+    {
+      "added_at": "2024-07-07 19:06:56",
+      "album": {
+        "name": "Tyranny",
+        "url": "https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg"
+      },
+      "artists": [
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "duration_ms": 197851,
+      "name": "Off to War",
+      "url": "https://open.spotify.com/track/6T6xt8yO6znhdN4TO6JDrw"
+    },
+    {
+      "added_at": "2024-07-07 19:24:29",
+      "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/6gl4ylXxmNMpOxBImNe9n3"
+      },
+      "artists": [
+        {
+          "name": "TTNG",
+          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
+        }
+      ],
+      "duration_ms": 228853,
+      "name": "Pig",
+      "url": "https://open.spotify.com/track/0ANh6qtHQwgemPpaylC5Ae"
+    },
+    {
+      "added_at": "2024-07-07 19:53:34",
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/5aoKDISzBJuz6nNvL4p8Yk"
+      },
+      "artists": [
+        {
+          "name": "Exhibition",
+          "url": "https://open.spotify.com/artist/7HziAqUufwxB7VZx3ysxoM"
+        },
+        {
+          "name": "Julian Casablancas",
+          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+        }
+      ],
+      "duration_ms": 249502,
+      "name": "No One There (feat. Julian Casablancas)",
+      "url": "https://open.spotify.com/track/5Uv745RQ6uXics2lpvypZy"
+    },
+    {
+      "added_at": "2024-07-07 19:57:30",
+      "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS"
+      },
+      "artists": [
+        {
+          "name": "machinegum",
+          "url": "https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9"
+        }
+      ],
+      "duration_ms": 283167,
+      "name": "Kubes",
+      "url": "https://open.spotify.com/track/3foEWcAlqsJDApq7ad0SAy"
+    },
+    {
+      "added_at": "2024-07-07 20:03:48",
+      "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS"
+      },
+      "artists": [
+        {
+          "name": "machinegum",
+          "url": "https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9"
+        }
+      ],
+      "duration_ms": 200587,
+      "name": "Atomized",
+      "url": "https://open.spotify.com/track/1RvLauXv9rcydpIb4yWmIG"
+    },
+    {
+      "added_at": "2024-07-07 20:19:57",
+      "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS"
+      },
+      "artists": [
+        {
+          "name": "machinegum",
+          "url": "https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9"
+        }
+      ],
+      "duration_ms": 198703,
+      "name": "Sugar and Vice",
+      "url": "https://open.spotify.com/track/7eQrKPu8HTs6YU6qKCrSIa"
+    },
+    {
+      "added_at": "2024-07-07 20:24:44",
+      "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS"
+      },
+      "artists": [
+        {
+          "name": "machinegum",
+          "url": "https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9"
+        }
+      ],
+      "duration_ms": 247823,
+      "name": "E.T.C.",
+      "url": "https://open.spotify.com/track/6wo2ttC1hViFjjBc9VMuTY"
+    },
+    {
+      "added_at": "2024-07-07 20:28:43",
+      "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS"
+      },
+      "artists": [
+        {
+          "name": "machinegum",
+          "url": "https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9"
+        }
+      ],
+      "duration_ms": 196841,
+      "name": "Walking Habits",
+      "url": "https://open.spotify.com/track/7Iz623tnrXFLlypmsPMVyb"
+    },
+    {
+      "added_at": "2024-07-07 20:30:14",
+      "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS"
+      },
+      "artists": [
+        {
+          "name": "machinegum",
+          "url": "https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9"
+        }
+      ],
+      "duration_ms": 216932,
+      "name": "128",
+      "url": "https://open.spotify.com/track/1c5CzEcNAUy2b8O3plzf4l"
+    },
+    {
+      "added_at": "2024-07-07 20:31:59",
+      "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS"
+      },
+      "artists": [
+        {
+          "name": "machinegum",
+          "url": "https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9"
+        }
+      ],
+      "duration_ms": 389253,
+      "name": "Deep Red",
+      "url": "https://open.spotify.com/track/3qRWjDHAmVH0l7bUFwnVnS"
+    },
+    {
+      "added_at": "2024-07-07 20:37:16",
+      "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS"
+      },
+      "artists": [
+        {
+          "name": "machinegum",
+          "url": "https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9"
+        }
+      ],
+      "duration_ms": 276626,
+      "name": "O Please",
+      "url": "https://open.spotify.com/track/38hjluZVWrVY2xhNhO3SsS"
+    },
+    {
+      "added_at": "2024-07-07 20:37:19",
+      "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS"
+      },
+      "artists": [
+        {
+          "name": "machinegum",
+          "url": "https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9"
+        }
+      ],
+      "duration_ms": 247456,
+      "name": "Act of Contrition",
+      "url": "https://open.spotify.com/track/2O9wWaM3dqd8yg5V8bKvc1"
+    },
+    {
+      "added_at": "2024-07-07 20:41:41",
+      "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS"
+      },
+      "artists": [
+        {
+          "name": "machinegum",
+          "url": "https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9"
+        }
+      ],
+      "duration_ms": 256356,
+      "name": "City Walls",
+      "url": "https://open.spotify.com/track/0KSAukJDLhGDWQVN4sQTGd"
+    },
+    {
+      "added_at": "2024-07-07 20:45:04",
+      "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS"
+      },
+      "artists": [
+        {
+          "name": "machinegum",
+          "url": "https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9"
+        }
+      ],
+      "duration_ms": 178040,
+      "name": "Knots",
+      "url": "https://open.spotify.com/track/13bvLz5UWMYh1S8Zcyxh5a"
+    },
+    {
+      "added_at": "2024-07-07 20:58:41",
+      "album": {
+        "name": "Introduction, Presence",
+        "url": "https://open.spotify.com/album/1MXi4EjNqFOCF0e9gwpARk"
+      },
+      "artists": [
+        {
+          "name": "Nation of Language",
+          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
+        }
+      ],
+      "duration_ms": 194215,
+      "name": "On Division St",
+      "url": "https://open.spotify.com/track/0gUJlYlu4cV90iyV2gTUmr"
+    },
+    {
+      "added_at": "2024-07-07 21:03:23",
+      "album": {
+        "name": "Introduction, Presence",
+        "url": "https://open.spotify.com/album/1MXi4EjNqFOCF0e9gwpARk"
+      },
+      "artists": [
+        {
+          "name": "Nation of Language",
+          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
+        }
+      ],
+      "duration_ms": 238323,
+      "name": "Tournament",
+      "url": "https://open.spotify.com/track/4eMbwuYEX0lyFTyczQoJ4p"
+    },
+    {
+      "added_at": "2024-07-07 21:07:33",
+      "album": {
+        "name": "Introduction, Presence",
+        "url": "https://open.spotify.com/album/1MXi4EjNqFOCF0e9gwpARk"
+      },
+      "artists": [
+        {
+          "name": "Nation of Language",
+          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
+        }
+      ],
+      "duration_ms": 240595,
+      "name": "Rush & Fever",
+      "url": "https://open.spotify.com/track/2agNwbMZvRidqRylZLzowj"
+    },
+    {
+      "added_at": "2024-07-07 21:11:24",
+      "album": {
+        "name": "Introduction, Presence",
+        "url": "https://open.spotify.com/album/1MXi4EjNqFOCF0e9gwpARk"
+      },
+      "artists": [
+        {
+          "name": "Nation of Language",
+          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
+        }
+      ],
+      "duration_ms": 233656,
+      "name": "September Again",
+      "url": "https://open.spotify.com/track/068kLruVinypNfFPEujjSK"
+    },
+    {
+      "added_at": "2024-07-08 00:58:44",
+      "album": {
+        "name": "Little Joy",
+        "url": "https://open.spotify.com/album/2SctzR3lb5YN3EJzTf9Kbs"
+      },
+      "artists": [
+        {
+          "name": "Little Joy",
+          "url": "https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX"
+        }
+      ],
+      "duration_ms": 156946,
+      "name": "The Next Time Around",
+      "url": "https://open.spotify.com/track/1sVofDFRS2PXenJM39B7rQ"
     }
   ],
   "unique_name": "Ballads",

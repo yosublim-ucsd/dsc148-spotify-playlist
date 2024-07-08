@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 254253,
       "name": "FEARLESS HERO",
       "url": "https://open.spotify.com/track/6aSOAkhrHgGv4hzDhnIm50"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 260106,
       "name": "Gimmick Game",
       "url": "https://open.spotify.com/track/0SuigwpDRKB1WZnAoE3AsC"
@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Get up! Shout!",
+        "url": "https://open.spotify.com/album/19hS9MR9UT1HYEfjin62Kn"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257622,
+      "name": "Phase 21",
+      "url": "https://open.spotify.com/track/791jqNUM4S72XV13eK4dXO"
+    },
+    {
+      "album": {
         "name": "Destiny's Prelude",
         "url": "https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs"
       },
@@ -974,6 +992,24 @@
       "duration_ms": 222626,
       "name": "Poison Lily",
       "url": "https://open.spotify.com/track/7hhCuCjerf7mNF7urHh3iH"
+    },
+    {
+      "album": {
+        "name": "Silent Bible",
+        "url": "https://open.spotify.com/album/4tnnahmbMG1qiJA3GCCL50"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259586,
+      "name": "Polaris",
+      "url": "https://open.spotify.com/track/2orTpDbh1wO0GF76kCbEih"
     },
     {
       "album": {

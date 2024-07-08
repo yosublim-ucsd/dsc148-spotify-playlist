@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Can\u00e7\u00e3o & Louvor",
-  "num_followers": 84191,
+  "num_followers": 84240,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,6 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "Quem Era Eu",
-        "url": "https://open.spotify.com/album/7JBQKYned5Tt40QkhLoDf6"
-      },
-      "artists": [
-        {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
-        }
-      ],
-      "duration_ms": 186486,
-      "name": "Quem Era Eu",
-      "url": "https://open.spotify.com/track/3YSTY0yjV7ShECDHRZAF6G"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
         "name": "T\u00f4 Preparado",
         "url": "https://open.spotify.com/album/05veWAkEESHkjO3mwiEqB2"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 189085,
       "name": "T\u00f4 Preparado",
       "url": "https://open.spotify.com/track/1nQ4jgCNZ6Vj6XUCLjK1Q1"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "Quem Era Eu",
+        "url": "https://open.spotify.com/album/7JBQKYned5Tt40QkhLoDf6"
+      },
+      "artists": [
+        {
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+        }
+      ],
+      "duration_ms": 186486,
+      "name": "Quem Era Eu",
+      "url": "https://open.spotify.com/track/3YSTY0yjV7ShECDHRZAF6G"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -175,26 +175,6 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "N\u00e3o Saia do Meu Lado",
-        "url": "https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        },
-        {
-          "name": "Matriz Music",
-          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
-        }
-      ],
-      "duration_ms": 216127,
-      "name": "N\u00e3o Saia do Meu Lado",
-      "url": "https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
         "name": "Esperan\u00e7a",
         "url": "https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg"
       },
@@ -207,22 +187,6 @@
       "duration_ms": 272695,
       "name": "Esperan\u00e7a",
       "url": "https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
-        "name": "Deus Prover\u00e1",
-        "url": "https://open.spotify.com/album/01dSM55NXgqYhG6SP9rXxN"
-      },
-      "artists": [
-        {
-          "name": "Stefhany",
-          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
-        }
-      ],
-      "duration_ms": 273531,
-      "name": "Deus Prover\u00e1",
-      "url": "https://open.spotify.com/track/217cgpXoXtpJTPa2YgfLAX"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -243,22 +207,6 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "Eu Quero Ir pro C\u00e9u",
-        "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 273913,
-      "name": "Eu Quero Ir pro C\u00e9u",
-      "url": "https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
         "name": "Foi Deus",
         "url": "https://open.spotify.com/album/5840Tg0AbhEkFn1srM1kd5"
       },
@@ -275,18 +223,54 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "Estou Contigo",
-        "url": "https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE"
+        "name": "N\u00e3o Saia do Meu Lado",
+        "url": "https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq"
       },
       "artists": [
         {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "Matriz Music",
+          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
         }
       ],
-      "duration_ms": 249344,
-      "name": "Estou Contigo",
-      "url": "https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2"
+      "duration_ms": 216127,
+      "name": "N\u00e3o Saia do Meu Lado",
+      "url": "https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "Deus Prover\u00e1",
+        "url": "https://open.spotify.com/album/01dSM55NXgqYhG6SP9rXxN"
+      },
+      "artists": [
+        {
+          "name": "Stefhany",
+          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+        }
+      ],
+      "duration_ms": 273531,
+      "name": "Deus Prover\u00e1",
+      "url": "https://open.spotify.com/track/217cgpXoXtpJTPa2YgfLAX"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "Eu Quero Ir pro C\u00e9u",
+        "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 273913,
+      "name": "Eu Quero Ir pro C\u00e9u",
+      "url": "https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -311,22 +295,18 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "A Casa",
-        "url": "https://open.spotify.com/album/1IKbxFWytL86ORGEJNwah9"
+        "name": "Sem Mim",
+        "url": "https://open.spotify.com/album/0kAMjsm1pERzXFQcPeRSqC"
       },
       "artists": [
         {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        },
-        {
-          "name": "Gretter Records",
-          "url": "https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP"
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
         }
       ],
-      "duration_ms": 293540,
-      "name": "A Casa",
-      "url": "https://open.spotify.com/track/7eGog1Th59073Z0xojqyLG"
+      "duration_ms": 226469,
+      "name": "Sem Mim",
+      "url": "https://open.spotify.com/track/13TtQL164hr6cKj0c8M6Yt"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -347,18 +327,18 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "Sem Mim",
-        "url": "https://open.spotify.com/album/0kAMjsm1pERzXFQcPeRSqC"
+        "name": "Estou Contigo",
+        "url": "https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE"
       },
       "artists": [
         {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
         }
       ],
-      "duration_ms": 226469,
-      "name": "Sem Mim",
-      "url": "https://open.spotify.com/track/13TtQL164hr6cKj0c8M6Yt"
+      "duration_ms": 249344,
+      "name": "Estou Contigo",
+      "url": "https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -399,6 +379,58 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
+        "name": "Viola e Adora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l"
+      },
+      "artists": [
+        {
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+        }
+      ],
+      "duration_ms": 158250,
+      "name": "O Crente e a Palmeira",
+      "url": "https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "A Casa",
+        "url": "https://open.spotify.com/album/1IKbxFWytL86ORGEJNwah9"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "Gretter Records",
+          "url": "https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP"
+        }
+      ],
+      "duration_ms": 293540,
+      "name": "A Casa",
+      "url": "https://open.spotify.com/track/7eGog1Th59073Z0xojqyLG"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "N\u00f3s (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/44Pczp8PwqBf1otbGddOiI"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 255250,
+      "name": "N\u00f3s - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5g2nq2Zpuh1OdzA3j7F8yj"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
         "name": "Valor de uma Alma",
         "url": "https://open.spotify.com/album/0hECyVX0jpTJ1IWj3RgAMs"
       },
@@ -435,22 +467,6 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "Viola e Adora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l"
-      },
-      "artists": [
-        {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
-        }
-      ],
-      "duration_ms": 158250,
-      "name": "O Crente e a Palmeira",
-      "url": "https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
         "name": "Minha Ilha",
         "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
       },
@@ -463,102 +479,6 @@
       "duration_ms": 284505,
       "name": "Minha Ilha",
       "url": "https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
-        "name": "O Meu Clamor, Vol. 2",
-        "url": "https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        }
-      ],
-      "duration_ms": 194960,
-      "name": "Ovelha Rebelde",
-      "url": "https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
-        "name": "A Reforma",
-        "url": "https://open.spotify.com/album/1sP2MouMuWffJbewWHBUv2"
-      },
-      "artists": [
-        {
-          "name": "Jayana Moreira",
-          "url": "https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH"
-        }
-      ],
-      "duration_ms": 287927,
-      "name": "A Reforma",
-      "url": "https://open.spotify.com/track/6kNQNhGAovsClhTxgQS1Rm"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
-        "name": "N\u00f3s (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/44Pczp8PwqBf1otbGddOiI"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 255250,
-      "name": "N\u00f3s - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5g2nq2Zpuh1OdzA3j7F8yj"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
-        "name": "Volta pra Casa",
-        "url": "https://open.spotify.com/album/5tnNq4VX6QSaQVC9haxdjC"
-      },
-      "artists": [
-        {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
-        }
-      ],
-      "duration_ms": 289411,
-      "name": "Volta pra Casa",
-      "url": "https://open.spotify.com/track/0bfNDO7ArF4kdVL3M8QRUd"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
-        "name": "Meu Barquinho",
-        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "Meu Barquinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
-        "name": "A Terra e o Lavrador",
-        "url": "https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb"
-      },
-      "artists": [
-        {
-          "name": "Carina Garay",
-          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
-        }
-      ],
-      "duration_ms": 200562,
-      "name": "A Terra e o Lavrador",
-      "url": "https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -579,8 +499,8 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "Louvor Ra\u00edz",
-        "url": "https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF"
+        "name": "O Meu Clamor, Vol. 2",
+        "url": "https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e"
       },
       "artists": [
         {
@@ -588,9 +508,41 @@
           "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
         }
       ],
-      "duration_ms": 254000,
-      "name": "Oliveira Verdadeira",
-      "url": "https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq"
+      "duration_ms": 194960,
+      "name": "Ovelha Rebelde",
+      "url": "https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "Meu Barquinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "Volta pra Casa",
+        "url": "https://open.spotify.com/album/5tnNq4VX6QSaQVC9haxdjC"
+      },
+      "artists": [
+        {
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+        }
+      ],
+      "duration_ms": 289411,
+      "name": "Volta pra Casa",
+      "url": "https://open.spotify.com/track/0bfNDO7ArF4kdVL3M8QRUd"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -611,6 +563,38 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
+        "name": "A Reforma",
+        "url": "https://open.spotify.com/album/1sP2MouMuWffJbewWHBUv2"
+      },
+      "artists": [
+        {
+          "name": "Jayana Moreira",
+          "url": "https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH"
+        }
+      ],
+      "duration_ms": 287927,
+      "name": "A Reforma",
+      "url": "https://open.spotify.com/track/6kNQNhGAovsClhTxgQS1Rm"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "A Terra e o Lavrador",
+        "url": "https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb"
+      },
+      "artists": [
+        {
+          "name": "Carina Garay",
+          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
+        }
+      ],
+      "duration_ms": 200562,
+      "name": "A Terra e o Lavrador",
+      "url": "https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
         "name": "Ra\u00edzes Vol. 1",
         "url": "https://open.spotify.com/album/5BzNE7xEQeDlq0XhsCv8pM"
       },
@@ -627,18 +611,18 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "Assim Como Deus Quer",
-        "url": "https://open.spotify.com/album/6a81t6Y2AyENXQubLiVnBD"
+        "name": "Adorador por Excel\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/53CN56MYCjXDkDBkWmmusF"
       },
       "artists": [
         {
-          "name": "Claudio Louvor",
-          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
         }
       ],
-      "duration_ms": 163258,
-      "name": "Assim Como Deus Quer",
-      "url": "https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX"
+      "duration_ms": 239728,
+      "name": "Adorador por Excel\u00eancia - Ao Vivo",
+      "url": "https://open.spotify.com/track/7hjuwRZx76dcxlmsUgVVzc"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -655,6 +639,38 @@
       "duration_ms": 245000,
       "name": "Estou de Volta",
       "url": "https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "Louvor Ra\u00edz",
+        "url": "https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Oliveira Verdadeira",
+      "url": "https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "Assim Como Deus Quer",
+        "url": "https://open.spotify.com/album/6a81t6Y2AyENXQubLiVnBD"
+      },
+      "artists": [
+        {
+          "name": "Claudio Louvor",
+          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
+        }
+      ],
+      "duration_ms": 163258,
+      "name": "Assim Como Deus Quer",
+      "url": "https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -691,22 +707,6 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "Adorador por Excel\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/53CN56MYCjXDkDBkWmmusF"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 239728,
-      "name": "Adorador por Excel\u00eancia - Ao Vivo",
-      "url": "https://open.spotify.com/track/7hjuwRZx76dcxlmsUgVVzc"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
         "name": "Quem Foi Que Me Tocou",
         "url": "https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 281002,
       "name": "Quem Foi Que Me Tocou",
       "url": "https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
-        "name": "De Volta \u00e0 Inoc\u00eancia",
-        "url": "https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf"
-      },
-      "artists": [
-        {
-          "name": "Alvaro & Daniel",
-          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
-        }
-      ],
-      "duration_ms": 288012,
-      "name": "De Volta \u00e0 Inoc\u00eancia",
-      "url": "https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -759,6 +743,22 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
+        "name": "De Volta \u00e0 Inoc\u00eancia",
+        "url": "https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf"
+      },
+      "artists": [
+        {
+          "name": "Alvaro & Daniel",
+          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
+        }
+      ],
+      "duration_ms": 288012,
+      "name": "De Volta \u00e0 Inoc\u00eancia",
+      "url": "https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
         "name": "Eu Vou para o C\u00e9u",
         "url": "https://open.spotify.com/album/79ystA3RcQXeTnJVRjqUpf"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 201090,
       "name": "Eu Vou para o C\u00e9u",
       "url": "https://open.spotify.com/track/0qacmh2FDALRfili16U6wk"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
-        "name": "Tudo",
-        "url": "https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK"
-      },
-      "artists": [
-        {
-          "name": "Claudio Louvor",
-          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
-        }
-      ],
-      "duration_ms": 271166,
-      "name": "Tudo",
-      "url": "https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -811,42 +795,6 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "Mais que Vencedor (feat. Carlos Henrique)",
-        "url": "https://open.spotify.com/album/67hDmO0TuD5Dsau7zZbK73"
-      },
-      "artists": [
-        {
-          "name": "Kleuder Le\u00e3o",
-          "url": "https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk"
-        },
-        {
-          "name": "Carlos Henrique",
-          "url": "https://open.spotify.com/artist/3QlHTFeE4uEB4zLEv9gy4r"
-        }
-      ],
-      "duration_ms": 215099,
-      "name": "Mais que Vencedor (feat. Carlos Henrique)",
-      "url": "https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
-        "name": "Quem Procura Acha",
-        "url": "https://open.spotify.com/album/30VFooHGuhOWOFMJkSKJZn"
-      },
-      "artists": [
-        {
-          "name": "Joy Camargo",
-          "url": "https://open.spotify.com/artist/6fRHIW5YdnSr2eJorBBECK"
-        }
-      ],
-      "duration_ms": 182878,
-      "name": "Quem Procura Acha",
-      "url": "https://open.spotify.com/track/0t34g5rLBbVubjIzQdgCKn"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
         "name": "A Resposta \u00c9 Deus",
         "url": "https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE"
       },
@@ -859,6 +807,22 @@
       "duration_ms": 256450,
       "name": "A Resposta \u00c9 Deus",
       "url": "https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "Tudo",
+        "url": "https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK"
+      },
+      "artists": [
+        {
+          "name": "Claudio Louvor",
+          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
+        }
+      ],
+      "duration_ms": 271166,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -879,6 +843,26 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
+        "name": "Mais que Vencedor (feat. Carlos Henrique)",
+        "url": "https://open.spotify.com/album/67hDmO0TuD5Dsau7zZbK73"
+      },
+      "artists": [
+        {
+          "name": "Kleuder Le\u00e3o",
+          "url": "https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk"
+        },
+        {
+          "name": "Carlos Henrique",
+          "url": "https://open.spotify.com/artist/3QlHTFeE4uEB4zLEv9gy4r"
+        }
+      ],
+      "duration_ms": 215099,
+      "name": "Mais que Vencedor (feat. Carlos Henrique)",
+      "url": "https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
         "name": "Aquele Que Morreu na Cruz",
         "url": "https://open.spotify.com/album/7MmnGwOEROxep15P3jyDuV"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 203769,
       "name": "Aquele Que Morreu na Cruz",
       "url": "https://open.spotify.com/track/1WQxnqVIpabXhfguWVML3e"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "Quem Procura Acha",
+        "url": "https://open.spotify.com/album/30VFooHGuhOWOFMJkSKJZn"
+      },
+      "artists": [
+        {
+          "name": "Joy Camargo",
+          "url": "https://open.spotify.com/artist/6fRHIW5YdnSr2eJorBBECK"
+        }
+      ],
+      "duration_ms": 182878,
+      "name": "Quem Procura Acha",
+      "url": "https://open.spotify.com/track/0t34g5rLBbVubjIzQdgCKn"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -927,6 +927,22 @@
       "duration_ms": 277514,
       "name": "Amar \u00c9 F\u00e1cil",
       "url": "https://open.spotify.com/track/0dwykNS2PkwLAQ0fgpIUQU"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
+        "url": "https://open.spotify.com/album/65AR5SWnfULr33MQngy9at"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 270677,
+      "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
+      "url": "https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -979,22 +995,6 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "Al\u00e9m da Medicina",
-        "url": "https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 286133,
-      "name": "Al\u00e9m da Medicina",
-      "url": "https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
         "name": "Ref\u00e9m do Caminh\u00e3o",
         "url": "https://open.spotify.com/album/0TPZmILuwLS8LvijT4cLKy"
       },
@@ -1015,8 +1015,8 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
-        "url": "https://open.spotify.com/album/65AR5SWnfULr33MQngy9at"
+        "name": "Al\u00e9m da Medicina",
+        "url": "https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED"
       },
       "artists": [
         {
@@ -1024,9 +1024,9 @@
           "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
         }
       ],
-      "duration_ms": 270677,
-      "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
-      "url": "https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz"
+      "duration_ms": 286133,
+      "name": "Al\u00e9m da Medicina",
+      "url": "https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw"
     }
   ],
   "unique_name": "Sertanejo Religioso",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Nxv0V4YqRFTnmLyuKFKJk.md) - [plain]
 
 > These are Warren Zeiders' Country Music Essentials for summer of 2024, all in one playlist! Get the BBQ going, the drinks out and listen below!
 
-[Topsify](https://open.spotify.com/user/topsify) - 60,426 likes - 77 songs - 4 hr 7 min
+[Topsify](https://open.spotify.com/user/topsify) - 60,428 likes - 77 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

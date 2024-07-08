@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: A Not So Fairy Tale(\uc120\ub140\uc678\uc804)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 89820,
+  "num_followers": 89864,
   "original_name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Draw (No Office Romance! X TAEMIN) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/1IPkQ6fwPWjS6UPE6gV8Po"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 243866,
-      "name": "Draw",
-      "url": "https://open.spotify.com/track/6tb0S6rSzgrf5sgeUPL8sr"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "Windflower (The Forbidden Marriage X Shin Ye-Young)",
         "url": "https://open.spotify.com/album/5yqtkANmdpmA8nzGalFjb5"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 260493,
       "name": "Windflower (The Forbidden Marriage X Shin Ye-Young)",
       "url": "https://open.spotify.com/track/7wlip8qEudClSmF4GmUlis"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "Draw (No Office Romance! X TAEMIN) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/1IPkQ6fwPWjS6UPE6gV8Po"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 243866,
+      "name": "Draw",
+      "url": "https://open.spotify.com/track/6tb0S6rSzgrf5sgeUPL8sr"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Melody (Gongzza X Whee In) (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4"
-      },
-      "artists": [
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 234066,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "With You (No Office Romance! X Young K (DAY6)) (Original Webtoon Soundtrack)",
         "url": "https://open.spotify.com/album/0JYfYKPZdxjwJRl6Fwngjv"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 196680,
       "name": "The day",
       "url": "https://open.spotify.com/track/6NaDFc4sAg4vmOA0FUOgtI"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "Melody (Gongzza X Whee In) (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 234066,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
+        "name": "Only you (The Moon during the Day X GB9)",
+        "url": "https://open.spotify.com/album/3uNHehmSwCjlZDJ0jcZwyw"
+      },
+      "artists": [
+        {
+          "name": "GB9",
+          "url": "https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr"
+        }
+      ],
+      "duration_ms": 286013,
+      "name": "Only you (The Moon during the Day X GB9)",
+      "url": "https://open.spotify.com/track/3sa9y64Wx3P6lwJMifujf4"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
         "name": "Spring Is Come By Chance (Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun)",
         "url": "https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 207613,
       "name": "Spring Is Come By Chance",
       "url": "https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
-        "name": "Only you (The Moon during the Day X GB9)",
-        "url": "https://open.spotify.com/album/3uNHehmSwCjlZDJ0jcZwyw"
-      },
-      "artists": [
-        {
-          "name": "GB9",
-          "url": "https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr"
-        }
-      ],
-      "duration_ms": 286013,
-      "name": "Only you (The Moon during the Day X GB9)",
-      "url": "https://open.spotify.com/track/3sa9y64Wx3P6lwJMifujf4"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Just stay with me (Feat. Swan) (Webtoon 'Marriage Or Death' X San E)",
-        "url": "https://open.spotify.com/album/7yoZ8HEjrawNnnLoHSNekd"
-      },
-      "artists": [
-        {
-          "name": "San E",
-          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
-        },
-        {
-          "name": "Swan",
-          "url": "https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Just stay with me (Feat. Swan)",
-      "url": "https://open.spotify.com/track/0gmZsfrT5vkZIYKReHTXa2"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "When You Believe",
         "url": "https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW"
       },
@@ -787,22 +767,6 @@
       "duration_ms": 223266,
       "name": "When You Believe",
       "url": "https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
-        "name": "\ub9c8\ud53c\uc544 \ubcf4\uc2a4\uac00 \ub098\uc5d0\uac8c \uc9d1\ucc29\ud55c\ub2e4 (Original Webtoon Soundtrack) Pt. 9",
-        "url": "https://open.spotify.com/album/4DcGE7a0Amd7C6qYU82Jyy"
-      },
-      "artists": [
-        {
-          "name": "BUSTERS",
-          "url": "https://open.spotify.com/artist/0BIHC8He3YfrhXeECyXSI4"
-        }
-      ],
-      "duration_ms": 161338,
-      "name": "Shining Day",
-      "url": "https://open.spotify.com/track/6ib78JN3RfglRI2kETD2jA"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -835,6 +799,42 @@
       "duration_ms": 184040,
       "name": "Lost Way",
       "url": "https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "\ub9c8\ud53c\uc544 \ubcf4\uc2a4\uac00 \ub098\uc5d0\uac8c \uc9d1\ucc29\ud55c\ub2e4 (Original Webtoon Soundtrack) Pt. 9",
+        "url": "https://open.spotify.com/album/4DcGE7a0Amd7C6qYU82Jyy"
+      },
+      "artists": [
+        {
+          "name": "BUSTERS",
+          "url": "https://open.spotify.com/artist/0BIHC8He3YfrhXeECyXSI4"
+        }
+      ],
+      "duration_ms": 161338,
+      "name": "Shining Day",
+      "url": "https://open.spotify.com/track/6ib78JN3RfglRI2kETD2jA"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "Just stay with me (Feat. Swan) (Webtoon 'Marriage Or Death' X San E)",
+        "url": "https://open.spotify.com/album/7yoZ8HEjrawNnnLoHSNekd"
+      },
+      "artists": [
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Just stay with me (Feat. Swan)",
+      "url": "https://open.spotify.com/track/0gmZsfrT5vkZIYKReHTXa2"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "\uac00\uc9dc \uacf5\ub140\ub2d8\uc758 \ub9cc\ub819 \ud1a0\ub07c OST Part.30 (Soundtrack)",
-        "url": "https://open.spotify.com/album/1UTM9hXWghsDNDWqBDeUyb"
-      },
-      "artists": [
-        {
-          "name": "Weeky1",
-          "url": "https://open.spotify.com/artist/6kxfUeI8Sq80X7ICFw7KtK"
-        }
-      ],
-      "duration_ms": 191608,
-      "name": "Should we walk hand in hand?",
-      "url": "https://open.spotify.com/track/45Odu7IUv2jqhia7m99eaq"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "Don't Move Away (WEBTOON 'Good Doctor' X KIM JAE HYUNG)",
         "url": "https://open.spotify.com/album/5s24w8XpEYFb34kaIhZymr"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 235106,
       "name": "Don\u2032t Move Away",
       "url": "https://open.spotify.com/track/24P7QAGjSohYUki76zBm4y"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "\uac00\uc9dc \uacf5\ub140\ub2d8\uc758 \ub9cc\ub819 \ud1a0\ub07c OST Part.30 (Soundtrack)",
+        "url": "https://open.spotify.com/album/1UTM9hXWghsDNDWqBDeUyb"
+      },
+      "artists": [
+        {
+          "name": "Weeky1",
+          "url": "https://open.spotify.com/artist/6kxfUeI8Sq80X7ICFw7KtK"
+        }
+      ],
+      "duration_ms": 191608,
+      "name": "Should we walk hand in hand?",
+      "url": "https://open.spotify.com/track/45Odu7IUv2jqhia7m99eaq"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Today's Weather (From \"Spring Is Gone\" [Original Soundtrack])",
-        "url": "https://open.spotify.com/album/6RCjA02nGoEqphsjT6ZQGZ"
-      },
-      "artists": [
-        {
-          "name": "Yu Seung Woo",
-          "url": "https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf"
-        }
-      ],
-      "duration_ms": 220745,
-      "name": "Today's Weather (From \"Spring Is Gone\" [Original Soundtrack])",
-      "url": "https://open.spotify.com/track/6oK4qRi5kCaWpo0bwhBbRl"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "The Crush Of Spring OST Part.3",
         "url": "https://open.spotify.com/album/6cxI2NnSA8YBlHJip1mdji"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 224103,
       "name": "Hold me \u2026",
       "url": "https://open.spotify.com/track/6mglxgJ3ZV9WDFOVTgTFvi"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "Today's Weather (From \"Spring Is Gone\" [Original Soundtrack])",
+        "url": "https://open.spotify.com/album/6RCjA02nGoEqphsjT6ZQGZ"
+      },
+      "artists": [
+        {
+          "name": "Yu Seung Woo",
+          "url": "https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf"
+        }
+      ],
+      "duration_ms": 220745,
+      "name": "Today's Weather (From \"Spring Is Gone\" [Original Soundtrack])",
+      "url": "https://open.spotify.com/track/6oK4qRi5kCaWpo0bwhBbRl"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
+        "name": "\uc8fd\uc774\uace0 \uc2f6\uc740 \ub098\uc758 \uc804\ubcf5 \uc655\uc790\ub2d8 OST Part.13 (Soundtrack)",
+        "url": "https://open.spotify.com/album/4R2AwCEtMKFcx479JbgGPb"
+      },
+      "artists": [
+        {
+          "name": "Panini Brunch",
+          "url": "https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij"
+        }
+      ],
+      "duration_ms": 269747,
+      "name": "All I have left is separation",
+      "url": "https://open.spotify.com/track/0E7W0Vxym2L4FiXRlsBmym"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
         "name": "Miss you.. want to caress you (Something Between Us X Monday Kiz)",
         "url": "https://open.spotify.com/album/09KjzzpY8alpaYvkzI4fxX"
       },
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "\uc8fd\uc774\uace0 \uc2f6\uc740 \ub098\uc758 \uc804\ubcf5 \uc655\uc790\ub2d8 OST Part.13 (Soundtrack)",
-        "url": "https://open.spotify.com/album/4R2AwCEtMKFcx479JbgGPb"
-      },
-      "artists": [
-        {
-          "name": "Panini Brunch",
-          "url": "https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij"
-        }
-      ],
-      "duration_ms": 269747,
-      "name": "All I have left is separation",
-      "url": "https://open.spotify.com/track/0E7W0Vxym2L4FiXRlsBmym"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "Oh, Boy! OST Part.14 (Soundtrack)",
         "url": "https://open.spotify.com/album/5iRBd5MR76tUNyUS0qgNAN"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Yeolguk Scandal (Original Soundtrack), Part. 1",
-        "url": "https://open.spotify.com/album/5YoeNDokyfGSGFwvjTbEPj"
-      },
-      "artists": [
-        {
-          "name": "PARK MIN HYE",
-          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
-        }
-      ],
-      "duration_ms": 250653,
-      "name": "Empty Spot",
-      "url": "https://open.spotify.com/track/3iFZyOkHyT7pMNJ6y4u1Z8"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "Oh, Boy! OST Part.18 (Soundtrack)",
         "url": "https://open.spotify.com/album/1uhGglTdvY0sFWq99dCEyw"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 198815,
       "name": "Missing you at the night",
       "url": "https://open.spotify.com/track/2yligKIUYBMtw9XW8CfjN2"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "Yeolguk Scandal (Original Soundtrack), Part. 1",
+        "url": "https://open.spotify.com/album/5YoeNDokyfGSGFwvjTbEPj"
+      },
+      "artists": [
+        {
+          "name": "PARK MIN HYE",
+          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
+        }
+      ],
+      "duration_ms": 250653,
+      "name": "Empty Spot",
+      "url": "https://open.spotify.com/track/3iFZyOkHyT7pMNJ6y4u1Z8"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
+        "name": "Coffee Fox Kim Sam Wol OST Part.11 (Soundtrack)",
+        "url": "https://open.spotify.com/album/3y7lANNak9KN0BLeNFIWEs"
+      },
+      "artists": [
+        {
+          "name": "Geum Nara",
+          "url": "https://open.spotify.com/artist/3768yyysXGqQOcJMi1GvZ7"
+        }
+      ],
+      "duration_ms": 200165,
+      "name": "Way too young",
+      "url": "https://open.spotify.com/track/6rjglTg4ddjLWzpwJz7cMp"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
         "name": "Coffee Fox Kim Sam Wol OST Part.18 (Soundtrack)",
         "url": "https://open.spotify.com/album/3ardg1OkWTrhUc8pH9b18n"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 258573,
       "name": "\uc774 \ubc24\uc744 \uc9c0\ub098",
       "url": "https://open.spotify.com/track/11KcLs1eRcTGZQ82tJntVx"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
-        "name": "Coffee Fox Kim Sam Wol OST Part.11 (Soundtrack)",
-        "url": "https://open.spotify.com/album/3y7lANNak9KN0BLeNFIWEs"
-      },
-      "artists": [
-        {
-          "name": "Geum Nara",
-          "url": "https://open.spotify.com/artist/3768yyysXGqQOcJMi1GvZ7"
-        }
-      ],
-      "duration_ms": 200165,
-      "name": "Way too young",
-      "url": "https://open.spotify.com/track/6rjglTg4ddjLWzpwJz7cMp"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "\uc789\uc5b4\ub2d8\uacfc \ub5a1\ubcf6\uc774 OST Part.24 (Soundtrack)",
-        "url": "https://open.spotify.com/album/1KYa1Zcm38TDO0xIO2kehB"
-      },
-      "artists": [
-        {
-          "name": "CANDO",
-          "url": "https://open.spotify.com/artist/06KgokwCwsWO8f1h1pzPcV"
-        }
-      ],
-      "duration_ms": 243765,
-      "name": "Never say",
-      "url": "https://open.spotify.com/track/0g123qCff4LxJwlOakrrEZ"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "Coffee Fox Kim Sam Wol OST Part.10 (Soundtrack)",
         "url": "https://open.spotify.com/album/3wFlmLOdSwFf0hYlcVbiXM"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 234026,
       "name": "The sweetest words in the world 'I Love You'",
       "url": "https://open.spotify.com/track/14SOF44GRNxuaWU6ImnK1e"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "\uc789\uc5b4\ub2d8\uacfc \ub5a1\ubcf6\uc774 OST Part.24 (Soundtrack)",
+        "url": "https://open.spotify.com/album/1KYa1Zcm38TDO0xIO2kehB"
+      },
+      "artists": [
+        {
+          "name": "CANDO",
+          "url": "https://open.spotify.com/artist/06KgokwCwsWO8f1h1pzPcV"
+        }
+      ],
+      "duration_ms": 243765,
+      "name": "Never say",
+      "url": "https://open.spotify.com/track/0g123qCff4LxJwlOakrrEZ"
     },
     {
       "added_at": "2024-06-24 05:39:23",

@@ -1,6 +1,6 @@
 {
   "description": "Fue durante los '70 que el Rock se manifest\u00f3 como un gigante a nivel mundial. Argentina no fue la excepci\u00f3n.  Foto: <a href=\"spotify:artist:10vtHOCA3qPLmrGylgO2F1\">Manal</a>",
-  "num_followers": 41362,
+  "num_followers": 41380,
   "original_name": "Esp\u00edritu Setentista",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
+        "name": "Artaud",
+        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
+      },
+      "artists": [
+        {
+          "name": "Pescado Rabioso",
+          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+        }
+      ],
+      "duration_ms": 130080,
+      "name": "Todas las Hojas Son del Viento",
+      "url": "https://open.spotify.com/track/689lBKIELtWGHfsPWpR6rv"
+    },
+    {
+      "added_at": "2024-06-12 23:45:40",
+      "album": {
         "name": "Los Gatos",
         "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
-        "name": "Durazno Sangrando",
-        "url": "https://open.spotify.com/album/4Cf6WflKk1FEtffkm9h1U7"
-      },
-      "artists": [
-        {
-          "name": "Invisible",
-          "url": "https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1"
-        }
-      ],
-      "duration_ms": 219186,
-      "name": "Durazno Sangrando",
-      "url": "https://open.spotify.com/track/6pjbkrGImw09Nv5Ji3emkr"
-    },
-    {
-      "added_at": "2024-06-12 23:45:40",
-      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
       },
@@ -167,22 +167,6 @@
       "duration_ms": 133960,
       "name": "Necesito",
       "url": "https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7"
-    },
-    {
-      "added_at": "2024-06-12 23:45:40",
-      "album": {
-        "name": "Artaud",
-        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
-      },
-      "artists": [
-        {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
-        }
-      ],
-      "duration_ms": 130080,
-      "name": "Todas las Hojas Son del Viento",
-      "url": "https://open.spotify.com/track/689lBKIELtWGHfsPWpR6rv"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -203,22 +187,6 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
-        "name": "Viento Dile a la Lluvia",
-        "url": "https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos",
-          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
-        }
-      ],
-      "duration_ms": 169120,
-      "name": "Viento, Dile a la Lluvia",
-      "url": "https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn"
-    },
-    {
-      "added_at": "2024-06-12 23:45:40",
-      "album": {
         "name": "Cuero Caliente",
         "url": "https://open.spotify.com/album/4mM0WL1bhWu1AUggznW2tN"
       },
@@ -235,18 +203,50 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
-        "name": "Confesiones De Invierno",
-        "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
+        "name": "Durazno Sangrando",
+        "url": "https://open.spotify.com/album/4Cf6WflKk1FEtffkm9h1U7"
       },
       "artists": [
         {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+          "name": "Invisible",
+          "url": "https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1"
         }
       ],
-      "duration_ms": 191226,
-      "name": "Rasgu\u00f1a las Piedras",
-      "url": "https://open.spotify.com/track/3lvAzKmRH8vzXQ4xm19v78"
+      "duration_ms": 219186,
+      "name": "Durazno Sangrando",
+      "url": "https://open.spotify.com/track/6pjbkrGImw09Nv5Ji3emkr"
+    },
+    {
+      "added_at": "2024-06-12 23:45:40",
+      "album": {
+        "name": "Artaud",
+        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
+      },
+      "artists": [
+        {
+          "name": "Pescado Rabioso",
+          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+        }
+      ],
+      "duration_ms": 243266,
+      "name": "Las Habladurias del Mundo",
+      "url": "https://open.spotify.com/track/5K6fJf9l8WTsscngGert0b"
+    },
+    {
+      "added_at": "2024-06-12 23:45:40",
+      "album": {
+        "name": "Viento Dile a la Lluvia",
+        "url": "https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos",
+          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
+        }
+      ],
+      "duration_ms": 169120,
+      "name": "Viento, Dile a la Lluvia",
+      "url": "https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -299,6 +299,22 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
+        "name": "Confesiones De Invierno",
+        "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
+      },
+      "artists": [
+        {
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "Rasgu\u00f1a las Piedras",
+      "url": "https://open.spotify.com/track/3lvAzKmRH8vzXQ4xm19v78"
+    },
+    {
+      "added_at": "2024-06-12 23:45:40",
+      "album": {
         "name": "El 1er \u00c1lbum M\u00e1s los Singles",
         "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
@@ -311,6 +327,22 @@
       "duration_ms": 243400,
       "name": "Plegaria para un Ni\u00f1o Dormido",
       "url": "https://open.spotify.com/track/3FKbpQhczilHZD5LJOqSdR"
+    },
+    {
+      "added_at": "2024-06-12 23:45:40",
+      "album": {
+        "name": "Los Gatos",
+        "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos",
+          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
+        }
+      ],
+      "duration_ms": 130213,
+      "name": "Ayer Nom\u00e1s",
+      "url": "https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -340,25 +372,9 @@
           "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
         }
       ],
-      "duration_ms": 243266,
-      "name": "Las Habladurias del Mundo",
-      "url": "https://open.spotify.com/track/5K6fJf9l8WTsscngGert0b"
-    },
-    {
-      "added_at": "2024-06-12 23:45:40",
-      "album": {
-        "name": "Los Gatos",
-        "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos",
-          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
-        }
-      ],
-      "duration_ms": 130213,
-      "name": "Ayer Nom\u00e1s",
-      "url": "https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5"
+      "duration_ms": 547960,
+      "name": "Cantata de Puentes Amarillos",
+      "url": "https://open.spotify.com/track/7BCQ7bfdNpCdLmlvEGUfSG"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -379,22 +395,6 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
-        "name": "Confesiones De Invierno",
-        "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Confesiones de Invierno",
-      "url": "https://open.spotify.com/track/47im9FzRfqAS2KYvw3NhSw"
-    },
-    {
-      "added_at": "2024-06-12 23:45:40",
-      "album": {
         "name": "Color Humano",
         "url": "https://open.spotify.com/album/0iEUyTKuM2Nhi3ehAbwYmH"
       },
@@ -407,6 +407,22 @@
       "duration_ms": 172733,
       "name": "Ma\u00f1ana por la Noche",
       "url": "https://open.spotify.com/track/6gWplVwr7ta6vpp2DSCo96"
+    },
+    {
+      "added_at": "2024-06-12 23:45:40",
+      "album": {
+        "name": "Confesiones De Invierno",
+        "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
+      },
+      "artists": [
+        {
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Confesiones de Invierno",
+      "url": "https://open.spotify.com/track/47im9FzRfqAS2KYvw3NhSw"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -427,18 +443,18 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
-        "name": "Aquelarre",
-        "url": "https://open.spotify.com/album/21k9Lf53dN3pCJ8JZsk81p"
+        "name": "Lo Mejor de Pescado Rabioso",
+        "url": "https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw"
       },
       "artists": [
         {
-          "name": "Aquelarre",
-          "url": "https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc"
+          "name": "Pescado Rabioso",
+          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
         }
       ],
-      "duration_ms": 240840,
-      "name": "Canto, desde el fondo de las ruinas",
-      "url": "https://open.spotify.com/track/0bVpPI7PzrScltqKCm5DKp"
+      "duration_ms": 226226,
+      "name": "Post-Crucifixion",
+      "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -459,6 +475,22 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
+        "name": "Aquelarre",
+        "url": "https://open.spotify.com/album/21k9Lf53dN3pCJ8JZsk81p"
+      },
+      "artists": [
+        {
+          "name": "Aquelarre",
+          "url": "https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc"
+        }
+      ],
+      "duration_ms": 240840,
+      "name": "Canto, desde el fondo de las ruinas",
+      "url": "https://open.spotify.com/track/0bVpPI7PzrScltqKCm5DKp"
+    },
+    {
+      "added_at": "2024-06-12 23:45:40",
+      "album": {
         "name": "El 1er \u00c1lbum M\u00e1s los Singles",
         "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
@@ -471,22 +503,6 @@
       "duration_ms": 166960,
       "name": "Ana No Duerme",
       "url": "https://open.spotify.com/track/4ev0iQn9HTKQHxcSDxklhu"
-    },
-    {
-      "added_at": "2024-06-12 23:45:40",
-      "album": {
-        "name": "Artaud",
-        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
-      },
-      "artists": [
-        {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
-        }
-      ],
-      "duration_ms": 547960,
-      "name": "Cantata de Puentes Amarillos",
-      "url": "https://open.spotify.com/track/7BCQ7bfdNpCdLmlvEGUfSG"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -523,6 +539,22 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
+        "name": "Manal",
+        "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1"
+        }
+      ],
+      "duration_ms": 333680,
+      "name": "Avellaneda Blues",
+      "url": "https://open.spotify.com/track/2SeUS7JmN0oLjHPHGvDZFA"
+    },
+    {
+      "added_at": "2024-06-12 23:45:40",
+      "album": {
         "name": "El Reloj",
         "url": "https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc"
       },
@@ -535,22 +567,6 @@
       "duration_ms": 242266,
       "name": "Alguien M\u00e1s en Quien Confiar - '74 Single Version",
       "url": "https://open.spotify.com/track/10F81E1vPGGROdMHyVthSh"
-    },
-    {
-      "added_at": "2024-06-12 23:45:40",
-      "album": {
-        "name": "Otras Pistas",
-        "url": "https://open.spotify.com/album/4vNaQkW0hQORx5gVi0WFJV"
-      },
-      "artists": [
-        {
-          "name": "Aquelarre",
-          "url": "https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc"
-        }
-      ],
-      "duration_ms": 322026,
-      "name": "Violencia En El Parque",
-      "url": "https://open.spotify.com/track/79Endo4IymZMWDQ0wk116S"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -571,22 +587,6 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
-        "name": "Manal",
-        "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
-      },
-      "artists": [
-        {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1"
-        }
-      ],
-      "duration_ms": 333680,
-      "name": "Avellaneda Blues",
-      "url": "https://open.spotify.com/track/2SeUS7JmN0oLjHPHGvDZFA"
-    },
-    {
-      "added_at": "2024-06-12 23:45:40",
-      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 213760,
       "name": "Sueltate Rock And Roll",
       "url": "https://open.spotify.com/track/1HbLdtZvbp8JRVAJhlktfK"
+    },
+    {
+      "added_at": "2024-06-12 23:45:40",
+      "album": {
+        "name": "Otras Pistas",
+        "url": "https://open.spotify.com/album/4vNaQkW0hQORx5gVi0WFJV"
+      },
+      "artists": [
+        {
+          "name": "Aquelarre",
+          "url": "https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc"
+        }
+      ],
+      "duration_ms": 322026,
+      "name": "Violencia En El Parque",
+      "url": "https://open.spotify.com/track/79Endo4IymZMWDQ0wk116S"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -635,18 +651,18 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
-        "name": "Lo Mejor de Pescado Rabioso",
-        "url": "https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw"
+        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
+        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
       "artists": [
         {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+          "name": "Almendra",
+          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
         }
       ],
-      "duration_ms": 226226,
-      "name": "Post-Crucifixion",
-      "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
+      "duration_ms": 212546,
+      "name": "Figuraci\u00f3n",
+      "url": "https://open.spotify.com/track/2ZXPZV2w9KSEH6YXJQwFBP"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -699,38 +715,6 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
-        "name": "Aeroblus",
-        "url": "https://open.spotify.com/album/5rapG1i2HxcbyOwtUTnKHe"
-      },
-      "artists": [
-        {
-          "name": "Aeroblus",
-          "url": "https://open.spotify.com/artist/0oIxiHRBpqq0VJe3wOY8Qr"
-        }
-      ],
-      "duration_ms": 233840,
-      "name": "Vamos A Buscar La Luz - Remastered Version",
-      "url": "https://open.spotify.com/track/7eVl8VDo6nzNvZbzkW2kc2"
-    },
-    {
-      "added_at": "2024-06-12 23:45:40",
-      "album": {
-        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
-        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
-      },
-      "artists": [
-        {
-          "name": "Almendra",
-          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "Figuraci\u00f3n",
-      "url": "https://open.spotify.com/track/2ZXPZV2w9KSEH6YXJQwFBP"
-    },
-    {
-      "added_at": "2024-06-12 23:45:40",
-      "album": {
         "name": "David Lebon",
         "url": "https://open.spotify.com/album/2sVpQXYG4nKgpJ5F3Q84RC"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
-        "name": "La Cofrad\u00eda De La Flor Solar",
-        "url": "https://open.spotify.com/album/13AoE3gnX1NjlEmlNZmhUR"
+        "name": "Aeroblus",
+        "url": "https://open.spotify.com/album/5rapG1i2HxcbyOwtUTnKHe"
       },
       "artists": [
         {
-          "name": "La Cofradia De La Flor Solar",
-          "url": "https://open.spotify.com/artist/5wkCcDqHUaJbR79G5rEEpL"
+          "name": "Aeroblus",
+          "url": "https://open.spotify.com/artist/0oIxiHRBpqq0VJe3wOY8Qr"
         }
       ],
-      "duration_ms": 266373,
-      "name": "Se Ama O No Se Ama",
-      "url": "https://open.spotify.com/track/7sYM4xTvfR0N3UkRT9n7Vp"
+      "duration_ms": 233840,
+      "name": "Vamos A Buscar La Luz - Remastered Version",
+      "url": "https://open.spotify.com/track/7eVl8VDo6nzNvZbzkW2kc2"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -775,6 +759,22 @@
       "duration_ms": 603400,
       "name": "Los Delirios del Mariscal",
       "url": "https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke"
+    },
+    {
+      "added_at": "2024-06-12 23:45:40",
+      "album": {
+        "name": "La Cofrad\u00eda De La Flor Solar",
+        "url": "https://open.spotify.com/album/13AoE3gnX1NjlEmlNZmhUR"
+      },
+      "artists": [
+        {
+          "name": "La Cofradia De La Flor Solar",
+          "url": "https://open.spotify.com/artist/5wkCcDqHUaJbR79G5rEEpL"
+        }
+      ],
+      "duration_ms": 266373,
+      "name": "Se Ama O No Se Ama",
+      "url": "https://open.spotify.com/track/7sYM4xTvfR0N3UkRT9n7Vp"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
-        "name": "La Biblia",
-        "url": "https://open.spotify.com/album/1gwVgLfNVV7xb8Ke0qlTna"
-      },
-      "artists": [
-        {
-          "name": "Vox Dei",
-          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
-        }
-      ],
-      "duration_ms": 287602,
-      "name": "Apocalipsis",
-      "url": "https://open.spotify.com/track/30czyV8neTmYprYxbOd5mY"
-    },
-    {
-      "added_at": "2024-06-12 23:45:40",
-      "album": {
         "name": "Aeroblus",
         "url": "https://open.spotify.com/album/5rapG1i2HxcbyOwtUTnKHe"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 184426,
       "name": "Completamente Nervioso - Remastered Version",
       "url": "https://open.spotify.com/track/3JO0HoztZFs5N3R8LZ9Agp"
+    },
+    {
+      "added_at": "2024-06-12 23:45:40",
+      "album": {
+        "name": "La Biblia",
+        "url": "https://open.spotify.com/album/1gwVgLfNVV7xb8Ke0qlTna"
+      },
+      "artists": [
+        {
+          "name": "Vox Dei",
+          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
+        }
+      ],
+      "duration_ms": 287602,
+      "name": "Apocalipsis",
+      "url": "https://open.spotify.com/track/30czyV8neTmYprYxbOd5mY"
     },
     {
       "added_at": "2024-06-12 23:45:40",

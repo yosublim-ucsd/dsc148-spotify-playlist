@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative\. Cover: Tshepang Ramoba
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,658 likes - 73 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,659 likes - 73 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

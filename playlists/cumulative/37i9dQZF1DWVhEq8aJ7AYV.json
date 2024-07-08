@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 123612,
       "name": "Garaje o Muerte",
       "url": "https://open.spotify.com/track/75sSpuGTbgRBNqrUXeiVRQ"
@@ -3624,6 +3624,24 @@
       "duration_ms": 179280,
       "name": "Space Oddity",
       "url": "https://open.spotify.com/track/1aqKNWVSHrdJNxYTtl8kZU"
+    },
+    {
+      "album": {
+        "name": "Sputnik A-Go-Go",
+        "url": "https://open.spotify.com/album/6NRN8ztPhAWEFpvYYZkqDQ"
+      },
+      "artists": [
+        {
+          "name": "The Reverb Syndicate",
+          "url": "https://open.spotify.com/artist/5bO9P60meCXaKNmoMLSqtJ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Sputnik A-Go-Go",
+      "url": "https://open.spotify.com/track/7etKtgTsjfSEOZp1eqNJad"
     },
     {
       "album": {

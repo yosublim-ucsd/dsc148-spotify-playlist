@@ -1,6 +1,6 @@
 {
   "description": "\u0427\u0430\u0441 \u043f\u0435\u0440\u0435\u043f\u043e\u0447\u0438\u0442\u0438 \ud83c\udf3b\ud83c\udfd5\ufe0f\ud83e\uddc1",
-  "num_followers": 29889,
+  "num_followers": 29916,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -419,18 +419,22 @@
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
-        "name": "\u041b\u044e\u0431\u043b\u044e",
-        "url": "https://open.spotify.com/album/38n8fjrs7QHF8Y2aGhwj6K"
+        "name": "\u041f\u0440\u043e \u0442\u0435\u0431\u0435 \u043c\u0435\u043d\u0456",
+        "url": "https://open.spotify.com/album/6zMuDbuE3HS7RAtqAM1amr"
       },
       "artists": [
         {
-          "name": "Jamala",
-          "url": "https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC"
+          "name": "YAKTAK",
+          "url": "https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog"
+        },
+        {
+          "name": "Golubenko",
+          "url": "https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ"
         }
       ],
-      "duration_ms": 168145,
-      "name": "\u041b\u044e\u0431\u043b\u044e",
-      "url": "https://open.spotify.com/track/05L0LJID1XtFqzlHm9S744"
+      "duration_ms": 182068,
+      "name": "\u041f\u0440\u043e \u0442\u0435\u0431\u0435 \u043c\u0435\u043d\u0456",
+      "url": "https://open.spotify.com/track/4nVWcr7boHgs9cpobSXosG"
     },
     {
       "added_at": "2024-06-14 15:04:17",
@@ -451,22 +455,34 @@
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
-        "name": "\u041f\u0440\u043e \u0442\u0435\u0431\u0435 \u043c\u0435\u043d\u0456",
-        "url": "https://open.spotify.com/album/6zMuDbuE3HS7RAtqAM1amr"
+        "name": "\u041b\u044e\u0431\u043b\u044e",
+        "url": "https://open.spotify.com/album/38n8fjrs7QHF8Y2aGhwj6K"
       },
       "artists": [
         {
-          "name": "YAKTAK",
-          "url": "https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog"
-        },
-        {
-          "name": "Golubenko",
-          "url": "https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ"
+          "name": "Jamala",
+          "url": "https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC"
         }
       ],
-      "duration_ms": 182068,
-      "name": "\u041f\u0440\u043e \u0442\u0435\u0431\u0435 \u043c\u0435\u043d\u0456",
-      "url": "https://open.spotify.com/track/4nVWcr7boHgs9cpobSXosG"
+      "duration_ms": 168145,
+      "name": "\u041b\u044e\u0431\u043b\u044e",
+      "url": "https://open.spotify.com/track/05L0LJID1XtFqzlHm9S744"
+    },
+    {
+      "added_at": "2024-06-14 15:04:17",
+      "album": {
+        "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
+        "url": "https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+        }
+      ],
+      "duration_ms": 139805,
+      "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
+      "url": "https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC"
     },
     {
       "added_at": "2024-06-14 15:04:17",
@@ -503,22 +519,6 @@
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
-        "name": "\u041b\u0456\u0442\u0435\u043f\u043b\u043e",
-        "url": "https://open.spotify.com/album/1mgFYpASAWkMjxQPU0N9r0"
-      },
-      "artists": [
-        {
-          "name": "KRUT\u042c",
-          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
-        }
-      ],
-      "duration_ms": 177468,
-      "name": "\u041b\u0435\u0441\u044f",
-      "url": "https://open.spotify.com/track/6YVPwRSKMr6SnOBtbdJa1m"
-    },
-    {
-      "added_at": "2024-06-14 15:04:17",
-      "album": {
         "name": "Ajahuaska",
         "url": "https://open.spotify.com/album/1j7ANbOEESVGlIaaBIgBag"
       },
@@ -535,24 +535,24 @@
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
-        "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
-        "url": "https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf"
+        "name": "\u041b\u0456\u0442\u0435\u043f\u043b\u043e",
+        "url": "https://open.spotify.com/album/1mgFYpASAWkMjxQPU0N9r0"
       },
       "artists": [
         {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+          "name": "KRUT\u042c",
+          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
         }
       ],
-      "duration_ms": 139805,
-      "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
-      "url": "https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC"
+      "duration_ms": 177468,
+      "name": "\u041b\u0435\u0441\u044f",
+      "url": "https://open.spotify.com/track/6YVPwRSKMr6SnOBtbdJa1m"
     },
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/03g79cWftoGqwO48vn9wOn"
+        "name": "Made You Up",
+        "url": "https://open.spotify.com/album/1LKoQv3Mu0DDPt9lRoYuD0"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT"
         }
       ],
-      "duration_ms": 203895,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/2MKUKzxL3U4bZ12QYhRS4i"
+      "duration_ms": 166245,
+      "name": "Made You Up",
+      "url": "https://open.spotify.com/track/6hZ4lvDpEsIxCjNziyMC5s"
     },
     {
       "added_at": "2024-06-14 15:04:17",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
+        "name": "\u041c\u0443\u0437\u0438\u0447\u043d\u0438\u0439 \u0449\u043e\u0434\u0435\u043d\u043d\u0438\u043a. \u0427\u0430\u0441\u0442\u0438\u043d\u0430 \u21161",
+        "url": "https://open.spotify.com/album/0ClFr44iWLQp8zCilHSJaM"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+        }
+      ],
+      "duration_ms": 112262,
+      "name": "\u041b\u0438\u043d\u0443",
+      "url": "https://open.spotify.com/track/2SyrQZYHL1Q3yZbVX5UVKc"
+    },
+    {
+      "added_at": "2024-06-14 15:04:17",
+      "album": {
         "name": "\u0422\u0430\u043a\u0456 \u0440\u0456\u0437\u043d\u0456",
         "url": "https://open.spotify.com/album/6Dtic6mqZLUhKDelOgMMXk"
       },
@@ -595,6 +611,22 @@
       "duration_ms": 198181,
       "name": "\u0422\u0430\u043a\u0456 \u0440\u0456\u0437\u043d\u0456",
       "url": "https://open.spotify.com/track/3oYbQrdYm5MztmS3R5xPmO"
+    },
+    {
+      "added_at": "2024-06-14 15:04:17",
+      "album": {
+        "name": "Makoterchyk",
+        "url": "https://open.spotify.com/album/0TOZytY7z2GIfbFqVei7Dw"
+      },
+      "artists": [
+        {
+          "name": "LATEXFAUNA",
+          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
+        }
+      ],
+      "duration_ms": 255310,
+      "name": "Makoterchyk",
+      "url": "https://open.spotify.com/track/2VHw1Ie1Job3uYw0GYMOwL"
     },
     {
       "added_at": "2024-06-14 15:04:17",
@@ -631,54 +663,6 @@
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
-        "name": "\u041c\u0443\u0437\u0438\u0447\u043d\u0438\u0439 \u0449\u043e\u0434\u0435\u043d\u043d\u0438\u043a. \u0427\u0430\u0441\u0442\u0438\u043d\u0430 \u21161",
-        "url": "https://open.spotify.com/album/0ClFr44iWLQp8zCilHSJaM"
-      },
-      "artists": [
-        {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
-        }
-      ],
-      "duration_ms": 112262,
-      "name": "\u041b\u0438\u043d\u0443",
-      "url": "https://open.spotify.com/track/2SyrQZYHL1Q3yZbVX5UVKc"
-    },
-    {
-      "added_at": "2024-06-14 15:04:17",
-      "album": {
-        "name": "Makoterchyk",
-        "url": "https://open.spotify.com/album/0TOZytY7z2GIfbFqVei7Dw"
-      },
-      "artists": [
-        {
-          "name": "LATEXFAUNA",
-          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
-        }
-      ],
-      "duration_ms": 255310,
-      "name": "Makoterchyk",
-      "url": "https://open.spotify.com/track/2VHw1Ie1Job3uYw0GYMOwL"
-    },
-    {
-      "added_at": "2024-06-14 15:04:17",
-      "album": {
-        "name": "Made You Up",
-        "url": "https://open.spotify.com/album/1LKoQv3Mu0DDPt9lRoYuD0"
-      },
-      "artists": [
-        {
-          "name": "Tamara Kramar",
-          "url": "https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT"
-        }
-      ],
-      "duration_ms": 166245,
-      "name": "Made You Up",
-      "url": "https://open.spotify.com/track/6hZ4lvDpEsIxCjNziyMC5s"
-    },
-    {
-      "added_at": "2024-06-14 15:04:17",
-      "album": {
         "name": "\u0412\u0456\u0440 \u043c\u0435\u043d\u0456",
         "url": "https://open.spotify.com/album/23yQRx1Jd5gPYuixowWL6C"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 136956,
       "name": "\u041b\u0435\u0431\u0456\u0434\u043e\u043d\u044c\u043a\u043e",
       "url": "https://open.spotify.com/track/3jvcFXp201IwQ1hGpq0Xoj"
+    },
+    {
+      "added_at": "2024-06-14 15:04:17",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/03g79cWftoGqwO48vn9wOn"
+      },
+      "artists": [
+        {
+          "name": "Tamara Kramar",
+          "url": "https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT"
+        }
+      ],
+      "duration_ms": 203895,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/2MKUKzxL3U4bZ12QYhRS4i"
     },
     {
       "added_at": "2024-06-14 15:04:17",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
+        "name": "\u041d\u0430\u0432\u0435\u0441\u043d\u0456",
+        "url": "https://open.spotify.com/album/7CWR6kNbMJ9hZpO0Dh1bcC"
+      },
+      "artists": [
+        {
+          "name": "The Soul Delusion",
+          "url": "https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "\u041d\u0430\u0432\u0435\u0441\u043d\u0456",
+      "url": "https://open.spotify.com/track/0WXJRCeH5CRbFUAq7pyvqM"
+    },
+    {
+      "added_at": "2024-06-14 15:04:17",
+      "album": {
         "name": "\u041c\u0430\u044f\u043a",
         "url": "https://open.spotify.com/album/4hJSdd1BpnHRMYidMuewBH"
       },
@@ -915,18 +931,18 @@
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
-        "name": "\u041d\u0430\u0432\u0435\u0441\u043d\u0456",
-        "url": "https://open.spotify.com/album/7CWR6kNbMJ9hZpO0Dh1bcC"
+        "name": "\u041c\u043e\u0457 \u0433\u043e\u0440\u0438",
+        "url": "https://open.spotify.com/album/5Zmrb5grx6WfEvCwBaH7ex"
       },
       "artists": [
         {
-          "name": "The Soul Delusion",
-          "url": "https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi"
+          "name": "FI\u0407NKA",
+          "url": "https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u"
         }
       ],
-      "duration_ms": 159000,
-      "name": "\u041d\u0430\u0432\u0435\u0441\u043d\u0456",
-      "url": "https://open.spotify.com/track/0WXJRCeH5CRbFUAq7pyvqM"
+      "duration_ms": 203294,
+      "name": "\u041c\u043e\u0457 \u0433\u043e\u0440\u0438",
+      "url": "https://open.spotify.com/track/1xSZU917Nak0KAlHPOTgwt"
     },
     {
       "added_at": "2024-06-14 15:04:17",
@@ -951,18 +967,18 @@
     {
       "added_at": "2024-06-14 15:04:17",
       "album": {
-        "name": "\u041c\u043e\u0457 \u0433\u043e\u0440\u0438",
-        "url": "https://open.spotify.com/album/5Zmrb5grx6WfEvCwBaH7ex"
+        "name": "\u0422\u0438 \u0441\u043e\u043d\u0446\u0435 \u044f \u0441\u043d\u0456\u0433",
+        "url": "https://open.spotify.com/album/4Fe2mgI9EEtrGj24IZcmpM"
       },
       "artists": [
         {
-          "name": "FI\u0407NKA",
-          "url": "https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u"
+          "name": "ba.latskii",
+          "url": "https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz"
         }
       ],
-      "duration_ms": 203294,
-      "name": "\u041c\u043e\u0457 \u0433\u043e\u0440\u0438",
-      "url": "https://open.spotify.com/track/1xSZU917Nak0KAlHPOTgwt"
+      "duration_ms": 233777,
+      "name": "\u0422\u0438 \u0441\u043e\u043d\u0446\u0435 \u044f \u0441\u043d\u0456\u0433",
+      "url": "https://open.spotify.com/track/22kDdPFzyCHbqQC05fb1dz"
     },
     {
       "added_at": "2024-06-14 15:04:17",
@@ -983,22 +999,6 @@
       "duration_ms": 202945,
       "name": "water comes out of my eyes",
       "url": "https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg"
-    },
-    {
-      "added_at": "2024-06-14 15:04:17",
-      "album": {
-        "name": "\u0422\u0438 \u0441\u043e\u043d\u0446\u0435 \u044f \u0441\u043d\u0456\u0433",
-        "url": "https://open.spotify.com/album/4Fe2mgI9EEtrGj24IZcmpM"
-      },
-      "artists": [
-        {
-          "name": "ba.latskii",
-          "url": "https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz"
-        }
-      ],
-      "duration_ms": 233777,
-      "name": "\u0422\u0438 \u0441\u043e\u043d\u0446\u0435 \u044f \u0441\u043d\u0456\u0433",
-      "url": "https://open.spotify.com/track/22kDdPFzyCHbqQC05fb1dz"
     },
     {
       "added_at": "2024-06-14 15:04:17",

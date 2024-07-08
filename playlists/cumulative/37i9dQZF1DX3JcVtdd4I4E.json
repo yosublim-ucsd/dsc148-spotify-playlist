@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Backa",
+        "url": "https://open.spotify.com/album/7GknWHYTyKssnetGlRgyvb"
+      },
+      "artists": [
+        {
+          "name": "Zoe Lobos",
+          "url": "https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158388,
+      "name": "Backa",
+      "url": "https://open.spotify.com/track/7xreYVzBMqvwSwuRENp2ba"
+    },
+    {
+      "album": {
         "name": "Bad Bitch",
         "url": "https://open.spotify.com/album/1Jm6Xw539ecZdASK3StQAJ"
       },
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 173097,
       "name": "WEIGHTLESS",
       "url": "https://open.spotify.com/track/6U4BhYoFspk242X3dicNcj"

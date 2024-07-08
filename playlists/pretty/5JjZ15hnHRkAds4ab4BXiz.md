@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 355 songs - 22 hr 37 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 382 songs - 1 day 0 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -363,5 +363,32 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 353 | [Veridis Quo](https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:45 |
 | 354 | [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 4:45 |
 | 355 | [Starstruck](https://open.spotify.com/track/3EOpdjNYbystkxrXPONn2i) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [925](https://open.spotify.com/album/1x4UFeq7sIZohSXgitqWXp) | 3:28 |
+| 356 | [Crunch Punch](https://open.spotify.com/track/0zjJCu74zK2nPlmM4Cgz3A) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 4:50 |
+| 357 | [M.utually A.ssured D.estruction](https://open.spotify.com/track/3znlqkw0V8tdXDhsCQcjIo) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 2:32 |
+| 358 | [Where No Eagles Fly](https://open.spotify.com/track/25FYpwvSt61i16hs8qvoqe) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 3:44 |
+| 359 | [Father Electricity](https://open.spotify.com/track/1VeHgjA3KTfiMYM4pL1nXX) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 7:23 |
+| 360 | [Johan Von Bronx](https://open.spotify.com/track/3dWaDHwsvudH9vywNjVUVf) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 6:01 |
+| 361 | [Xerox](https://open.spotify.com/track/0EH07hS7lnqoNnRet0g2oJ) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 5:05 |
+| 362 | [Dare I Care](https://open.spotify.com/track/3QFwqMCEkE5ZItQhMksIbB) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 6:25 |
+| 363 | [Nintendo Blood](https://open.spotify.com/track/13KXeGtc1zYLzvPj3CgLcy) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 5:54 |
+| 364 | [Off to War](https://open.spotify.com/track/6T6xt8yO6znhdN4TO6JDrw) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 3:17 |
+| 365 | [Pig](https://open.spotify.com/track/0ANh6qtHQwgemPpaylC5Ae) | [TTNG](https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0) | [Animals](https://open.spotify.com/album/6gl4ylXxmNMpOxBImNe9n3) | 3:48 |
+| 366 | [No One There \(feat\. Julian Casablancas\)](https://open.spotify.com/track/5Uv745RQ6uXics2lpvypZy) | [Exhibition](https://open.spotify.com/artist/7HziAqUufwxB7VZx3ysxoM), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Last Dance](https://open.spotify.com/album/5aoKDISzBJuz6nNvL4p8Yk) | 4:09 |
+| 367 | [Kubes](https://open.spotify.com/track/3foEWcAlqsJDApq7ad0SAy) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 4:43 |
+| 368 | [Atomized](https://open.spotify.com/track/1RvLauXv9rcydpIb4yWmIG) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 3:20 |
+| 369 | [Sugar and Vice](https://open.spotify.com/track/7eQrKPu8HTs6YU6qKCrSIa) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 3:18 |
+| 370 | [E.T.C.](https://open.spotify.com/track/6wo2ttC1hViFjjBc9VMuTY) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 4:07 |
+| 371 | [Walking Habits](https://open.spotify.com/track/7Iz623tnrXFLlypmsPMVyb) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 3:16 |
+| 372 | [128](https://open.spotify.com/track/1c5CzEcNAUy2b8O3plzf4l) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 3:36 |
+| 373 | [Deep Red](https://open.spotify.com/track/3qRWjDHAmVH0l7bUFwnVnS) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 6:29 |
+| 374 | [O Please](https://open.spotify.com/track/38hjluZVWrVY2xhNhO3SsS) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 4:36 |
+| 375 | [Act of Contrition](https://open.spotify.com/track/2O9wWaM3dqd8yg5V8bKvc1) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 4:07 |
+| 376 | [City Walls](https://open.spotify.com/track/0KSAukJDLhGDWQVN4sQTGd) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 4:16 |
+| 377 | [Knots](https://open.spotify.com/track/13bvLz5UWMYh1S8Zcyxh5a) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 2:58 |
+| 378 | [On Division St](https://open.spotify.com/track/0gUJlYlu4cV90iyV2gTUmr) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Introduction, Presence](https://open.spotify.com/album/1MXi4EjNqFOCF0e9gwpARk) | 3:14 |
+| 379 | [Tournament](https://open.spotify.com/track/4eMbwuYEX0lyFTyczQoJ4p) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Introduction, Presence](https://open.spotify.com/album/1MXi4EjNqFOCF0e9gwpARk) | 3:58 |
+| 380 | [Rush & Fever](https://open.spotify.com/track/2agNwbMZvRidqRylZLzowj) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Introduction, Presence](https://open.spotify.com/album/1MXi4EjNqFOCF0e9gwpARk) | 4:00 |
+| 381 | [September Again](https://open.spotify.com/track/068kLruVinypNfFPEujjSK) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Introduction, Presence](https://open.spotify.com/album/1MXi4EjNqFOCF0e9gwpARk) | 3:53 |
+| 382 | [The Next Time Around](https://open.spotify.com/track/1sVofDFRS2PXenJM39B7rQ) | [Little Joy](https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX) | [Little Joy](https://open.spotify.com/album/2SctzR3lb5YN3EJzTf9Kbs) | 2:36 |
 
-Snapshot ID: `AAAB1BYyDL7pyjvYqWiRRkg7wKQJCggz`
+Snapshot ID: `AAAB7xDz5AlAWAKu4UOUc1i03iKga5Tp`

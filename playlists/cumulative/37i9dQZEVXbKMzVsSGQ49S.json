@@ -3102,7 +3102,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
@@ -5373,6 +5373,24 @@
     },
     {
       "album": {
+        "name": "Can You Trust Me",
+        "url": "https://open.spotify.com/album/5L7rigY6oVAL1DJuzbibmh"
+      },
+      "artists": [
+        {
+          "name": "Vudumane",
+          "url": "https://open.spotify.com/artist/1xS0nO9INJ0UvBUq4mkL14"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206707,
+      "name": "Can You Trust Me",
+      "url": "https://open.spotify.com/track/2q6F9uAITbbFHxWJNv6kcy"
+    },
+    {
+      "album": {
         "name": "Can't fight it EP",
         "url": "https://open.spotify.com/album/2w0pyZWuwKbvMt6eJMWPmL"
       },
@@ -6802,7 +6820,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 120317,
       "name": "Damn Shorty",
       "url": "https://open.spotify.com/track/5wKltDSVcUymjAyjg1hulr"
@@ -7446,7 +7464,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 130944,
       "name": "DEVIL IS A LIE",
       "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
@@ -9612,6 +9630,24 @@
       "duration_ms": 162692,
       "name": "Endalausar N\u00e6tzur",
       "url": "https://open.spotify.com/track/3L5sSQBC1nuD8xVW7W8nxQ"
+    },
+    {
+      "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/5c4wYHjufKxWvbppqBZC3H"
+      },
+      "artists": [
+        {
+          "name": "Rubby",
+          "url": "https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT"
+        }
+      ],
+      "date_added": "2024-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84062,
+      "name": "Endless Love",
+      "url": "https://open.spotify.com/track/3Az1LEarMu5oE2o3TL1VaQ"
     },
     {
       "album": {
@@ -12044,7 +12080,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 219029,
       "name": "Fullkominn dagur til a\u00f0 kveikja \u00ed s\u00e9r",
       "url": "https://open.spotify.com/track/33XkuU7fRmSHCisUEyxOn6"
@@ -19502,7 +19538,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 157368,
       "name": "Lax",
       "url": "https://open.spotify.com/track/5g7eC8VJBq3OLGfx4Yoj1V"
@@ -20366,7 +20402,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-08",
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
@@ -24894,7 +24930,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 182090,
       "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
       "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
@@ -29168,7 +29204,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 297865,
       "name": "R\u00f3me\u00f3 og J\u00fal\u00eda",
       "url": "https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq"
@@ -31478,7 +31514,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 193282,
       "name": "Sof\u00f0u",
       "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
@@ -33722,7 +33758,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
